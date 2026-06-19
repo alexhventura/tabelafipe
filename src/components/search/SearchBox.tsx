@@ -8,6 +8,7 @@ import { vehiclePath } from '../../lib/slug';
 
 interface SearchBoxProps {
   index: SearchIndexItem[];
+  onQueryChange?: (query: string) => void;
   tipo?: VehicleTipo;
   onTipoChange?: (tipo: VehicleTipo) => void;
   initialQuery?: string;
@@ -24,6 +25,7 @@ const TIPOS: { id: VehicleTipo; label: string }[] = [
 
 export default function SearchBox({
   index,
+  onQueryChange,
   tipo: tipoProp,
   onTipoChange,
   initialQuery = '',
@@ -89,6 +91,12 @@ export default function SearchBox({
     return () => document.removeEventListener('mousedown', handler);
   }, []);
 
+  useEffect(() => {
+    if (query.trim().length < 2) return;
+    const timer = window.setTimeout(() => onQueryChange?.(query), 200);
+    return () => window.clearTimeout(timer);
+  }, [query, onQueryChange]);
+
   const inputClasses = size === 'hero' ? 'text-base py-4' : 'text-sm py-2.5';
 
   const dropdown = open && query.trim().length >= 2 && (
@@ -131,7 +139,7 @@ export default function SearchBox({
                 </p>
               </div>
               <span className="text-sm font-bold text-blue-600 dark:text-blue-400 shrink-0 tabular-nums">
-                {formatBRL(item.valor)}
+                {item.valor > 0 ? formatBRL(item.valor) : 'Consultar FIPE'}
               </span>
             </button>
           ))}

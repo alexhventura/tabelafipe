@@ -7,7 +7,7 @@ import { VehicleTipo } from '../types';
 import { useState } from 'react';
 
 export default function HomePage() {
-  const { index, loading, error, total } = useSearchIndex();
+  const { index, loading, error, total, ensureShardsForQuery } = useSearchIndex();
   const [tipo, setTipo] = useState<VehicleTipo>('carros');
   const popular = getPopularItems(index);
   const marcas = getMarcasFromIndex(index).slice(0, 16);
@@ -40,6 +40,7 @@ export default function HomePage() {
       <div className="relative">
         <SearchBox
           index={index}
+          onQueryChange={ensureShardsForQuery}
           tipo={tipo}
           onTipoChange={setTipo}
           autoFocus={false}

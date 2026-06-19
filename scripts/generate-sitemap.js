@@ -1,13 +1,14 @@
 /**
- * Gera sitemap.xml a partir do índice de busca e arquivos de histórico.
- * Uso: node scripts/generate-sitemap.js
+ * Gera sitemap.xml a partir do indice sharded ou busca-rapida.
  */
 import fs from 'fs';
 import path from 'path';
 
 const BASE_URL = process.env.SITE_URL ?? 'https://pesquisatabelafipe.com.br';
-const BUSCA_FILE = path.join(process.cwd(), 'public', 'api', 'busca-rapida.json');
 const OUT_FILE = path.join(process.cwd(), 'public', 'sitemap.xml');
+const MANIFEST = path.join(process.cwd(), 'public', 'api', 'fipe', 'search', 'manifest.json');
+const SEARCH_DIR = path.join(process.cwd(), 'public', 'api', 'fipe', 'search');
+const BUSCA_FILE = path.join(process.cwd(), 'public', 'api', 'busca-rapida.json');
 
 function marcaSlug(marca) {
   const lower = (marca || '').toLowerCase();
@@ -20,25 +21,31 @@ function marcaSlug(marca) {
     .replace(/^-+|-+$/g, '');
 }
 
-function inferMarca(item) {
-  if (item.marca) return item.marca;
-  const t = item.termoBusca.toLowerCase();
-  if (t.includes('toyota')) return 'Toyota';
-  if (t.includes('chevrolet') || t.includes('gm ')) return 'Chevrolet';
-  if (t.includes('volkswagen') || t.includes('vw ')) return 'Volkswagen';
-  if (t.includes('fiat')) return 'Fiat';
-  if (t.includes('honda')) return 'Honda';
-  if (t.includes('hyundai')) return 'Hyundai';
-  return 'geral';
+function loadIndex() {
+  if (fs.existsSync(MANIFEST)) {
+    const manifest = JSON.parse(fs.readFileSync(MANIFEST, 'utf-8'));
+    if (manifest.total > 0 && manifest.shards?.length) {
+      const items = [];
+      for (const s of manifest.shards) {
+        const p = path.join(SEARCH_DIR, `shard-${s}.json`);
+        if (fs.existsSync(p)) items.push(...JSON.parse(fs.readFileSync(p, 'utf-8')));
+      }
+      return items.map((i) => ({ id: i.i, marca: i.m, nome: i.n }));
+    }
+  }
+  if (fs.existsSync(BUSCA_FILE)) {
+    return JSON.parse(fs.readFileSync(BUSCA_FILE, 'utf-8'));
+  }
+  return [];
 }
 
-const index = JSON.parse(fs.readFileSync(BUSCA_FILE, 'utf-8'));
+const index = loadIndex();
 const today = new Date().toISOString().split('T')[0];
 
 const urls = [
   { loc: `${BASE_URL}/`, priority: '1.0', changefreq: 'weekly' },
   ...index.map((item) => ({
-    loc: `${BASE_URL}/fipe/${marcaSlug(inferMarca(item))}/${item.id}`,
+    loc: `${BASE_URL}/fipe/${marcaSlug(item.marca || item.m)}/${item.id}`,
     priority: '0.8',
     changefreq: 'monthly',
   })),
@@ -59,4 +66,4 @@ ${urls
 </urlset>`;
 
 fs.writeFileSync(OUT_FILE, xml, 'utf-8');
-console.log(`Sitemap gerado: ${urls.length} URLs → ${OUT_FILE}`);
+console.log(`Sitemap gerado: ${urls.length} URLs -> ${OUT_FILE}`);
