@@ -57,7 +57,7 @@ async function loadFlatFallback(): Promise<SearchIndexItem[]> {
 }
 
 async function initCatalog(): Promise<{ index: SearchIndexItem[]; total: number; catalog: ShardedCatalog | null }> {
-  for (const base of ['/api/fipe/search', '/api/search']) {
+  for (const base of ['/data/fipe/search', '/api/fipe/search', '/api/search']) {
     const cat = new ShardedCatalog(base);
     const ok = await cat.init();
     if (ok) {

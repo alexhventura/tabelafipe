@@ -17,6 +17,7 @@ interface CompactShardItem {
   t: VehicleTipo;
   c?: string;
   s: string;
+  p?: string;
 }
 
 function expandCompact(item: CompactShardItem): SearchIndexItem {
@@ -30,6 +31,7 @@ function expandCompact(item: CompactShardItem): SearchIndexItem {
     tipo: item.t,
     termoBusca: item.s,
     searchText: normalizeText(item.n),
+    dataPath: item.p,
   };
 }
 

@@ -1,6 +1,6 @@
 /**
- * Importacao integral do catalogo FIPE - 100% marcas, modelos, anos.
- * Sem amostras, sem filtros, sem priorizacao manual.
+ * Importacao integral do catalogo FIPE - apenas para atualizador offline.
+ * Producao nunca chama API.
  */
 
 import fs from 'fs';
@@ -16,6 +16,7 @@ import {
 } from './lib/fipe-client.js';
 import { PATHS } from './lib/fipe-paths.js';
 import { marcaSlug, veiculoId } from './lib/fipe-slug.js';
+import { writeVehicleJson } from './lib/vehicle-paths.js';
 
 const TIPOS: { id: FipeTipo; label: string }[] = [
   { id: 'carros', label: 'Carros' },
@@ -55,6 +56,7 @@ export interface VeiculoRecord {
   fipeCodigo?: string;
   valor?: number;
   mesReferencia?: string;
+  dataPath?: string;
 }
 
 interface Checkpoint {
@@ -80,7 +82,7 @@ function ensureDirs() {
   for (const d of [
     path.dirname(PATHS.checkpoint),
     path.dirname(PATHS.srcMarcas),
-    PATHS.publicVeiculos,
+    PATHS.publicDataRoot,
     PATHS.publicSearchDir,
   ]) {
     if (!fs.existsSync(d)) fs.mkdirSync(d, { recursive: true });
@@ -129,6 +131,16 @@ function persistCatalogo(marcas: MarcaRecord[], modelos: ModeloRecord[], veiculo
   }
 }
 
+function mergeByFipeCodigo(veiculos: VeiculoRecord[]): VeiculoRecord[] {
+  const map = new Map<string, VeiculoRecord>();
+  for (const v of veiculos) {
+    const key = v.fipeCodigo || v.id;
+    const prev = map.get(key);
+    if (!prev || (v.valor || 0) >= (prev.valor || 0)) map.set(key, v);
+  }
+  return [...map.values()];
+}
+
 async function faseCatalogo(opts: { tipo: FipeTipo | 'all' }) {
   const cp = loadCheckpoint();
   let marcas = loadJson<MarcaRecord[]>(PATHS.srcMarcas, []);
@@ -168,14 +180,23 @@ async function faseCatalogo(opts: { tipo: FipeTipo | 'all' }) {
       if (!modelosApi.length) {
         processadas.add(marca.codigo);
         cp.marcasProcessadas[tipo.id] = [...processadas];
-        cp.stats = { marcas: marcas.length, modelos: modelos.length, veiculos: veiculos.length, comPreco: cp.stats.comPreco };
+        cp.stats = {
+          marcas: marcas.length,
+          modelos: modelos.length,
+          veiculos: veiculos.length,
+          comPreco: cp.stats.comPreco,
+        };
         saveCheckpoint(cp);
         persistCatalogo(marcas, modelos, veiculos);
         continue;
       }
 
       for (const modelo of modelosApi) {
-        if (!modelos.find((m) => m.tipo === tipo.id && m.codigo === modelo.codigo && m.marcaCodigo === marca.codigo)) {
+        if (
+          !modelos.find(
+            (m) => m.tipo === tipo.id && m.codigo === modelo.codigo && m.marcaCodigo === marca.codigo,
+          )
+        ) {
           modelos.push({
             tipo: tipo.id,
             marcaCodigo: marca.codigo,
@@ -210,14 +231,25 @@ async function faseCatalogo(opts: { tipo: FipeTipo | 'all' }) {
 
       processadas.add(marca.codigo);
       cp.marcasProcessadas[tipo.id] = [...processadas];
-      cp.stats = { marcas: marcas.length, modelos: modelos.length, veiculos: veiculos.length, comPreco: cp.stats.comPreco };
+      cp.stats = {
+        marcas: marcas.length,
+        modelos: modelos.length,
+        veiculos: veiculos.length,
+        comPreco: cp.stats.comPreco,
+      };
       saveCheckpoint(cp);
       persistCatalogo(marcas, modelos, veiculos);
     }
   }
 
   cp.catalogoCompleto = true;
-  cp.stats = { marcas: marcas.length, modelos: modelos.length, veiculos: veiculos.length, comPreco: cp.stats.comPreco };
+  veiculos = mergeByFipeCodigo(veiculos);
+  cp.stats = {
+    marcas: marcas.length,
+    modelos: modelos.length,
+    veiculos: veiculos.length,
+    comPreco: cp.stats.comPreco,
+  };
   saveCheckpoint(cp);
   persistCatalogo(marcas, modelos, veiculos);
 
@@ -227,7 +259,7 @@ async function faseCatalogo(opts: { tipo: FipeTipo | 'all' }) {
 
 async function fasePrecos() {
   const cp = loadCheckpoint();
-  const veiculos = loadJson<VeiculoRecord[]>(PATHS.srcVeiculos, []);
+  let veiculos = loadJson<VeiculoRecord[]>(PATHS.srcVeiculos, []);
   if (!veiculos.length) throw new Error('Execute --fase catalogo primeiro.');
 
   const processados = new Set(cp.precosProcessados);
@@ -242,30 +274,48 @@ async function fasePrecos() {
     try {
       const detalhe = await getPreco(v.tipo, v.marcaCodigo, v.modeloCodigo, v.anoCodigo);
       const valor = parseValorFipe(detalhe.Valor);
-      if (valor <= 0) { erros++; continue; }
+      if (valor <= 0) {
+        erros++;
+        continue;
+      }
 
       v.combustivel = detalhe.Combustivel;
       v.fipeCodigo = detalhe.CodigoFipe;
       v.valor = valor;
       v.mesReferencia = detalhe.MesReferencia;
 
-      const idx = veiculos.findIndex((x) => x.id === v.id);
-      if (idx >= 0) veiculos[idx] = v;
-
-      saveJson(path.join(PATHS.publicVeiculos, `${v.id}.json`), {
+      const anoModelo = parseInt(String(detalhe.AnoModelo), 10) || v.ano;
+      const payload = {
         id: v.id,
         slug: v.slug,
-        tipo: v.tipo,
+        codigoFipe: detalhe.CodigoFipe,
         marca: detalhe.Marca,
         modelo: detalhe.Modelo,
-        anoModelo: parseInt(String(detalhe.AnoModelo), 10) || v.ano,
-        fipeCodigo: detalhe.CodigoFipe,
+        ano: anoModelo,
+        anoModelo,
         combustivel: detalhe.Combustivel,
-        valorAtual: valor,
+        valor,
+        valorFormatado: detalhe.Valor,
         mesReferencia: detalhe.MesReferencia,
+        tipo: v.tipo,
         nome: `${detalhe.Marca} ${detalhe.Modelo} (${detalhe.AnoModelo})`,
         historicoPrecos: [{ mes: detalhe.MesReferencia || 'Jun/2026', valor }],
-      });
+      };
+
+      const { publicPath } = writeVehicleJson(
+        {
+          marca: detalhe.Marca,
+          modelo: detalhe.Modelo,
+          ano: payload.anoModelo,
+          combustivel: detalhe.Combustivel,
+          fipeCodigo: detalhe.CodigoFipe,
+        },
+        payload,
+      );
+      v.dataPath = publicPath;
+
+      const idx = veiculos.findIndex((x) => x.id === v.id);
+      if (idx >= 0) veiculos[idx] = v;
 
       processados.add(v.id);
       ok++;
@@ -274,6 +324,7 @@ async function fasePrecos() {
         cp.precosProcessados = [...processados];
         cp.stats.comPreco = processados.size;
         saveCheckpoint(cp);
+        veiculos = mergeByFipeCodigo(veiculos);
         saveJson(PATHS.srcVeiculos, veiculos);
         console.log(`  [${i + 1}/${pendentes.length}] ${ok} precos importados`);
       }
@@ -290,6 +341,7 @@ async function fasePrecos() {
   cp.precosProcessados = [...processados];
   cp.stats.comPreco = processados.size;
   saveCheckpoint(cp);
+  veiculos = mergeByFipeCodigo(veiculos);
   saveJson(PATHS.srcVeiculos, veiculos);
   console.log(`\nPrecos: ${ok} nesta execucao | Erros: ${erros} | Total: ${processados.size}`);
 }
@@ -315,6 +367,7 @@ function gerarRelatorio(cp: Checkpoint) {
   const relatorio = {
     geradoEm: new Date().toISOString(),
     fonte: 'parallelum.com.br/fipe/api/v1 (fallback: brasilapi.com.br)',
+    armazenamento: 'public/data/fipe/{marca}/{modelo}/{ano}.json',
     totais: {
       marcas: marcas.length,
       modelos: modelos.length,
@@ -333,7 +386,7 @@ function gerarRelatorio(cp: Checkpoint) {
 
 async function main() {
   const opts = parseArgs();
-  console.log('=== Importacao FIPE (catalogo integral) ===');
+  console.log('=== Importacao FIPE (atualizador offline) ===');
   console.log(`Fase: ${opts.fase} | Tipo: ${opts.tipo}`);
 
   ensureDirs();
@@ -350,9 +403,6 @@ async function main() {
   console.log(`Registros gerados:    ${rel.totais.veiculos}`);
   console.log(`Com preco FIPE:       ${rel.totais.comPreco}`);
   console.log(`Cobertura estimada:   ${rel.coberturaEstimada}`);
-  for (const t of rel.porTipo) {
-    console.log(`  ${t.tipo}: ${t.marcas} marcas, ${t.modelos} modelos, ${t.veiculos} veiculos`);
-  }
 }
 
 main().catch((err) => {

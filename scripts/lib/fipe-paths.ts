@@ -9,9 +9,17 @@ export const PATHS = {
   srcModelos: path.join(ROOT, 'src', 'data', 'fipe', 'modelos.json'),
   srcVeiculos: path.join(ROOT, 'src', 'data', 'fipe', 'veiculos.json'),
   srcSearchIndex: path.join(ROOT, 'src', 'data', 'fipe', 'search-index.json'),
-  publicMarcas: path.join(ROOT, 'public', 'api', 'fipe', 'marcas.json'),
-  publicModelos: path.join(ROOT, 'public', 'api', 'fipe', 'modelos.json'),
-  publicVeiculos: path.join(ROOT, 'public', 'api', 'fipe', 'veiculos'),
-  publicSearchDir: path.join(ROOT, 'public', 'api', 'fipe', 'search'),
-  publicSearchManifest: path.join(ROOT, 'public', 'api', 'fipe', 'search', 'manifest.json'),
+  publicDataRoot: path.join(ROOT, 'public', 'data', 'fipe'),
+  publicMarcas: path.join(ROOT, 'public', 'data', 'fipe', 'marcas.json'),
+  publicModelos: path.join(ROOT, 'public', 'data', 'fipe', 'modelos.json'),
+  publicSearchDir: path.join(ROOT, 'public', 'data', 'fipe', 'search'),
+  publicSearchManifest: path.join(ROOT, 'public', 'data', 'fipe', 'search', 'manifest.json'),
+  publicHistoricoRoot: path.join(ROOT, 'public', 'data', 'historico'),
+  legacyVeiculos: path.join(ROOT, 'public', 'api', 'fipe', 'veiculos'),
+  legacyHistorico: path.join(ROOT, 'public', 'api', 'historico'),
+  legacySearchDir: path.join(ROOT, 'public', 'api', 'fipe', 'search'),
 } as const;
+
+export function historicoSnapshotDir(month: string): string {
+  return path.join(PATHS.publicHistoricoRoot, month);
+}

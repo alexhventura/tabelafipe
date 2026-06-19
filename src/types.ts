@@ -38,6 +38,8 @@ export interface SearchIndexItem {
   popularidade?: number;
   /** Texto normalizado para ranking (nome + modelo, sem aliases expandidos) */
   searchText?: string;
+  /** Caminho estatico do JSON do veiculo, ex: /data/fipe/toyota/corolla/2024.json */
+  dataPath?: string;
 }
 
 export interface StateTaxRate {

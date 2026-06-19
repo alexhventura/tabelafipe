@@ -28,12 +28,13 @@ export default function VehiclePage() {
   useEffect(() => {
     if (!slug) return;
     setLoading(true);
-    loadVehicle(slug).then((v) => {
+    const dataPath = index.find((i) => i.id === slug)?.dataPath;
+    loadVehicle(slug, dataPath).then((v) => {
       setVehicle(v);
       setNotFound(!v);
       setLoading(false);
     });
-  }, [slug]);
+  }, [slug, index]);
 
   const indexItem = useMemo(
     () => index.find((i) => i.id === slug) ?? null,

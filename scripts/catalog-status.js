@@ -10,7 +10,9 @@ const files = {
   modelos: path.join(ROOT, 'src', 'data', 'fipe', 'modelos.json'),
   veiculos: path.join(ROOT, 'src', 'data', 'fipe', 'veiculos.json'),
   searchManifest: path.join(ROOT, 'src', 'data', 'fipe', 'search-index.json'),
-  searchShards: path.join(ROOT, 'public', 'api', 'fipe', 'search', 'manifest.json'),
+  searchShards: path.join(ROOT, 'public', 'data', 'fipe', 'search', 'manifest.json'),
+  searchShardsLegacy: path.join(ROOT, 'public', 'api', 'fipe', 'search', 'manifest.json'),
+  dataRoot: path.join(ROOT, 'public', 'data', 'fipe'),
 };
 
 function readJson(p) {
@@ -70,10 +72,13 @@ if (cp) {
   }
 }
 
-const indexTotal = shards?.total ?? searchManifest?.total ?? 0;
+const indexTotal = shards?.total ?? readJson(files.searchShardsLegacy)?.total ?? searchManifest?.total ?? 0;
 const comPreco = veiculos?.filter((v) => v.valor > 0).length ?? cp?.stats?.comPreco ?? 0;
 console.log(`\nBusca indexada: ${indexTotal} itens`);
 console.log(`Veiculos com preco: ${comPreco}`);
+if (fs.existsSync(files.dataRoot)) {
+  console.log(`Arvore estatica: ${files.dataRoot}`);
+}
 
 if (rel?.coberturaEstimada) {
   console.log(`Cobertura estimada: ${rel.coberturaEstimada}`);

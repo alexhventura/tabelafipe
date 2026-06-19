@@ -6,8 +6,10 @@ import path from 'path';
 
 const BASE_URL = process.env.SITE_URL ?? 'https://pesquisatabelafipe.com.br';
 const OUT_FILE = path.join(process.cwd(), 'public', 'sitemap.xml');
-const MANIFEST = path.join(process.cwd(), 'public', 'api', 'fipe', 'search', 'manifest.json');
-const SEARCH_DIR = path.join(process.cwd(), 'public', 'api', 'fipe', 'search');
+const MANIFEST = path.join(process.cwd(), 'public', 'data', 'fipe', 'search', 'manifest.json');
+const LEGACY_MANIFEST = path.join(process.cwd(), 'public', 'api', 'fipe', 'search', 'manifest.json');
+const SEARCH_DIR = path.join(process.cwd(), 'public', 'data', 'fipe', 'search');
+const LEGACY_SEARCH_DIR = path.join(process.cwd(), 'public', 'api', 'fipe', 'search');
 const BUSCA_FILE = path.join(process.cwd(), 'public', 'api', 'busca-rapida.json');
 
 function marcaSlug(marca) {
@@ -22,12 +24,16 @@ function marcaSlug(marca) {
 }
 
 function loadIndex() {
-  if (fs.existsSync(MANIFEST)) {
-    const manifest = JSON.parse(fs.readFileSync(MANIFEST, 'utf-8'));
+  for (const [manifestPath, searchDir] of [
+    [MANIFEST, SEARCH_DIR],
+    [LEGACY_MANIFEST, LEGACY_SEARCH_DIR],
+  ]) {
+    if (!fs.existsSync(manifestPath)) continue;
+    const manifest = JSON.parse(fs.readFileSync(manifestPath, 'utf-8'));
     if (manifest.total > 0 && manifest.shards?.length) {
       const items = [];
       for (const s of manifest.shards) {
-        const p = path.join(SEARCH_DIR, `shard-${s}.json`);
+        const p = path.join(searchDir, `shard-${s}.json`);
         if (fs.existsSync(p)) items.push(...JSON.parse(fs.readFileSync(p, 'utf-8')));
       }
       return items.map((i) => ({ id: i.i, marca: i.m, nome: i.n }));

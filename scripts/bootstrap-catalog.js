@@ -1,32 +1,15 @@
 /**
- * Bootstrap do catalogo a partir de historico existente + busca-rapida.
- * Gera veiculos.json, copia detalhes para public/api/fipe/veiculos e shards de busca.
+ * Bootstrap: historico legado -> arvore estatica public/data/fipe + shards.
  */
 import fs from 'fs';
 import path from 'path';
+import { PATHS } from './lib/fipe-paths.js';
+import { marcaSlug, veiculoId } from './lib/fipe-slug.js';
+import { writeVehicleJson } from './lib/vehicle-paths.js';
 
 const ROOT = process.cwd();
 const HISTORICO = path.join(ROOT, 'public', 'api', 'historico');
 const BUSCA = path.join(ROOT, 'public', 'api', 'busca-rapida.json');
-const SRC = path.join(ROOT, 'src', 'data', 'fipe');
-const OUT_VEICULOS = path.join(ROOT, 'public', 'api', 'fipe', 'veiculos');
-const SEARCH_DIR = path.join(ROOT, 'public', 'api', 'fipe', 'search');
-
-function slugify(text) {
-  return String(text)
-    .toLowerCase()
-    .normalize('NFD')
-    .replace(/[\u0300-\u036f]/g, '')
-    .replace(/[^a-z0-9]+/g, '-')
-    .replace(/^-+|-+$/g, '');
-}
-
-function marcaSlug(marca) {
-  const l = marca.toLowerCase();
-  if (l.includes('chevrolet') || l.includes('gm')) return 'chevrolet';
-  if (l.includes('volkswagen') || l.includes('vw')) return 'volkswagen';
-  return slugify(marca);
-}
 
 function inferTipo(nome, termo) {
   const t = `${nome} ${termo || ''}`.toLowerCase();
@@ -60,16 +43,8 @@ function vehicleToRecord(v, fallback) {
   };
 }
 
-function gerarTermoBusca(v) {
-  const ms = marcaSlug(v.marca);
-  let base = `${ms} ${v.modelo} ${v.combustivel || ''} ${v.ano}`.toLowerCase();
-  if (v.tipo === 'motos') base += ' moto';
-  if (v.tipo === 'caminhoes') base += ' caminhao';
-  return base.normalize('NFD').replace(/[\u0300-\u036f]/g, '').replace(/\s+/g, ' ').trim();
-}
-
 function main() {
-  console.log('=== Bootstrap catalogo (historico) ===');
+  console.log('=== Bootstrap catalogo (historico -> arvore) ===');
 
   const buscaMap = new Map();
   if (fs.existsSync(BUSCA)) {
@@ -82,7 +57,6 @@ function main() {
   const seen = new Set();
 
   if (fs.existsSync(HISTORICO)) {
-    fs.mkdirSync(OUT_VEICULOS, { recursive: true });
     for (const file of fs.readdirSync(HISTORICO).filter((f) => f.endsWith('.json'))) {
       const v = JSON.parse(fs.readFileSync(path.join(HISTORICO, file), 'utf-8'));
       const id = v.id || file.replace('.json', '');
@@ -90,14 +64,28 @@ function main() {
       seen.add(id);
       const rec = vehicleToRecord(v, buscaMap.get(id));
       if (!rec) continue;
-      veiculos.push(rec);
-      fs.writeFileSync(path.join(OUT_VEICULOS, `${id}.json`), JSON.stringify({
-        ...v,
-        id,
-        slug: id,
-        tipo: rec.tipo,
-        valorAtual: rec.valor,
-      }));
+
+      const { publicPath } = writeVehicleJson(
+        {
+          marca: rec.marca,
+          modelo: rec.modelo,
+          ano: rec.ano,
+          combustivel: rec.combustivel,
+          fipeCodigo: rec.fipeCodigo,
+        },
+        {
+          ...v,
+          id,
+          slug: id,
+          codigoFipe: rec.fipeCodigo,
+          tipo: rec.tipo,
+          valor: rec.valor,
+          valorAtual: rec.valor,
+          valorFormatado: rec.valor ? `R$ ${rec.valor.toLocaleString('pt-BR')}` : '',
+        },
+      );
+
+      veiculos.push({ ...rec, dataPath: publicPath });
     }
   }
 
@@ -105,48 +93,30 @@ function main() {
     if (seen.has(id)) continue;
     seen.add(id);
     const rec = vehicleToRecord({ id, nome: item.nome, valorAtual: item.valor }, item);
-    if (rec) veiculos.push(rec);
+    if (!rec) continue;
+    const { publicPath } = writeVehicleJson(
+      { marca: rec.marca, modelo: rec.modelo, ano: rec.ano, combustivel: rec.combustivel },
+      {
+        id,
+        slug: id,
+        marca: rec.marca,
+        modelo: rec.modelo,
+        ano: rec.ano,
+        valor: rec.valor,
+        tipo: rec.tipo,
+        nome: item.nome,
+      },
+    );
+    veiculos.push({ ...rec, dataPath: publicPath });
   }
 
-  fs.mkdirSync(SRC, { recursive: true });
-  fs.writeFileSync(path.join(SRC, 'veiculos.json'), JSON.stringify(veiculos));
-  fs.writeFileSync(path.join(SRC, 'marcas.json'), JSON.stringify([]));
-  fs.writeFileSync(path.join(SRC, 'modelos.json'), JSON.stringify([]));
-
-  const shards = {};
-  for (const v of veiculos) {
-    const nome = `${v.marca} ${v.modelo} (${v.ano})`;
-    const termo = gerarTermoBusca(v);
-    const first = (termo[0] || '0').toLowerCase();
-    const key = /[a-z]/.test(first) ? first : '0';
-    if (!shards[key]) shards[key] = [];
-    shards[key].push({
-      i: v.id,
-      n: nome,
-      m: marcaSlug(v.marca),
-      a: v.ano,
-      v: v.valor,
-      t: v.tipo,
-      c: v.combustivel,
-      s: termo,
-    });
-  }
-
-  fs.mkdirSync(SEARCH_DIR, { recursive: true });
-  const manifest = {
-    shards: Object.keys(shards).sort(),
-    total: veiculos.length,
-    geradoEm: new Date().toISOString(),
-    path: '/api/fipe/search/',
-  };
-  fs.writeFileSync(path.join(SEARCH_DIR, 'manifest.json'), JSON.stringify(manifest));
-  for (const [key, items] of Object.entries(shards)) {
-    fs.writeFileSync(path.join(SEARCH_DIR, `shard-${key}.json`), JSON.stringify(items));
-  }
-  fs.writeFileSync(path.join(SRC, 'search-index.json'), JSON.stringify(manifest, null, 2));
+  fs.mkdirSync(path.dirname(PATHS.srcVeiculos), { recursive: true });
+  fs.writeFileSync(PATHS.srcVeiculos, JSON.stringify(veiculos));
+  fs.writeFileSync(PATHS.srcMarcas, JSON.stringify([]));
+  fs.writeFileSync(PATHS.srcModelos, JSON.stringify([]));
 
   console.log(`Veiculos bootstrap: ${veiculos.length}`);
-  console.log(`Shards: ${manifest.shards.length} em ${SEARCH_DIR}`);
+  console.log(`Arvore: ${PATHS.publicDataRoot}`);
 }
 
 main();

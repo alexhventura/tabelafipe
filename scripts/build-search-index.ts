@@ -1,22 +1,23 @@
 /**
- * Gera indice de busca local a partir do catalogo importado.
- * Saida: public/api/fipe/search/ (shards) + src/data/fipe/search-index.json (manifest)
+ * Gera indice de busca a partir do catalogo estatico.
+ * Saida: public/data/fipe/search/ + src/data/fipe/search-index.json
  */
 
 import fs from 'fs';
 import path from 'path';
 import { PATHS } from './lib/fipe-paths.js';
 import { marcaSlug } from './lib/fipe-slug.js';
+import { vehiclePublicPath } from './lib/vehicle-paths.js';
 
 interface VeiculoRecord {
   id: string;
-  slug: string;
-  tipo: string;
   marca: string;
   modelo: string;
   ano: number;
   combustivel?: string;
   valor?: number;
+  tipo: string;
+  dataPath?: string;
 }
 
 interface SearchIndexItem {
@@ -29,6 +30,7 @@ interface SearchIndexItem {
   combustivel: string;
   tipo: string;
   searchText: string;
+  dataPath: string;
 }
 
 interface CompactItem {
@@ -40,6 +42,7 @@ interface CompactItem {
   t: string;
   c: string;
   s: string;
+  p: string;
 }
 
 function normalizeText(text: string): string {
@@ -54,27 +57,17 @@ function normalizeText(text: string): string {
 function gerarTermoBusca(v: VeiculoRecord): string {
   const ms = marcaSlug(v.marca);
   let base = `${ms} ${v.modelo} ${v.combustivel || ''} ${v.ano}`.toLowerCase();
-  if (v.tipo === 'motos') base += ' moto motocicleta';
+  if (v.tipo === 'motos') base += ' moto';
   if (v.tipo === 'caminhoes') base += ' caminhao';
   return normalizeText(base);
 }
 
 function loadVeiculos(): VeiculoRecord[] {
-  const paths = [PATHS.srcVeiculos, path.join(process.cwd(), 'public', 'api', 'fipe', 'veiculos-index.json')];
-  for (const p of paths) {
-    if (fs.existsSync(p)) {
-      const data = JSON.parse(fs.readFileSync(p, 'utf-8'));
-      if (Array.isArray(data) && data.length) return data;
-    }
+  if (fs.existsSync(PATHS.srcVeiculos)) {
+    const data = JSON.parse(fs.readFileSync(PATHS.srcVeiculos, 'utf-8'));
+    if (Array.isArray(data) && data.length) return data;
   }
-
-  const historicoDir = path.join(process.cwd(), 'public', 'api', 'historico');
-  if (fs.existsSync(historicoDir)) {
-    console.warn('veiculos.json vazio — execute: npm run bootstrap ou npm run catalog:import');
-    return [];
-  }
-
-  throw new Error(`Arquivo nao encontrado: ${PATHS.srcVeiculos}. Execute npm run catalog:import`);
+  return [];
 }
 
 function buildIndex(veiculos: VeiculoRecord[]): SearchIndexItem[] {
@@ -86,6 +79,15 @@ function buildIndex(veiculos: VeiculoRecord[]): SearchIndexItem[] {
     seen.add(v.id);
 
     const nome = `${v.marca} ${v.modelo} (${v.ano})`;
+    const dataPath =
+      v.dataPath ||
+      vehiclePublicPath({
+        marca: v.marca,
+        modelo: v.modelo,
+        ano: v.ano,
+        combustivel: v.combustivel,
+      });
+
     index.push({
       id: v.id,
       termoBusca: gerarTermoBusca(v),
@@ -96,6 +98,7 @@ function buildIndex(veiculos: VeiculoRecord[]): SearchIndexItem[] {
       combustivel: v.combustivel || 'Flex',
       tipo: v.tipo,
       searchText: normalizeText(nome),
+      dataPath,
     });
   }
 
@@ -118,6 +121,7 @@ function gerarShards(index: SearchIndexItem[]) {
       t: item.tipo,
       c: item.combustivel,
       s: item.termoBusca,
+      p: item.dataPath,
     });
   }
 
@@ -127,6 +131,7 @@ function gerarShards(index: SearchIndexItem[]) {
     shards: Object.keys(shards).sort(),
     total: index.length,
     geradoEm: new Date().toISOString(),
+    path: '/data/fipe/search/',
   };
 
   fs.writeFileSync(PATHS.publicSearchManifest, JSON.stringify(manifest));
@@ -146,23 +151,22 @@ function main() {
   const veiculos = loadVeiculos();
   const comPreco = veiculos.filter((v) => v.valor && v.valor > 0);
   console.log(`Veiculos no catalogo: ${veiculos.length}`);
-  console.log(`Com preco (indexaveis): ${comPreco.length}`);
+  console.log(`Com preco: ${comPreco.length}`);
 
   const index = buildIndex(veiculos);
   const manifest = gerarShards(index);
 
   const searchManifest = {
     ...manifest,
-    path: '/api/fipe/search/',
-    veiculosSemPreco: veiculos.length - index.length,
+    path: '/data/fipe/search/',
+    veiculosSemPreco: veiculos.length - comPreco.length,
   };
 
   fs.mkdirSync(path.dirname(PATHS.srcSearchIndex), { recursive: true });
   fs.writeFileSync(PATHS.srcSearchIndex, JSON.stringify(searchManifest, null, 2));
 
-  console.log(`\nIndice gerado: ${index.length} itens`);
-  console.log(`Shards: ${manifest.shards.length} arquivos em ${PATHS.publicSearchDir}`);
-  console.log(`Manifest: ${PATHS.srcSearchIndex}`);
+  console.log(`Indice gerado: ${index.length} itens`);
+  console.log(`Shards: ${manifest.shards.length} em ${PATHS.publicSearchDir}`);
 }
 
 main();

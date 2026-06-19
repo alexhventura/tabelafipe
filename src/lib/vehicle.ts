@@ -9,8 +9,14 @@ export function computeTrend(historico: HistoricoPreco[], months: number): numbe
   return ((end - start) / start) * 100;
 }
 
-export async function loadVehicle(id: string): Promise<Vehicle | null> {
-  const paths = [`/api/fipe/veiculos/${id}.json`, `/api/historico/${id}.json`];
+export async function loadVehicle(id: string, dataPath?: string): Promise<Vehicle | null> {
+  const paths = [
+    dataPath,
+    `/data/fipe/veiculos/${id}.json`,
+    `/api/fipe/veiculos/${id}.json`,
+    `/api/historico/${id}.json`,
+  ].filter(Boolean) as string[];
+
   for (const url of paths) {
     try {
       const res = await fetch(url);

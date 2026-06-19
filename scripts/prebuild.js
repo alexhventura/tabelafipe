@@ -5,7 +5,8 @@ import { spawnSync } from 'child_process';
 import fs from 'fs';
 import path from 'path';
 
-const MANIFEST = path.join(process.cwd(), 'public', 'api', 'fipe', 'search', 'manifest.json');
+const MANIFEST = path.join(process.cwd(), 'public', 'data', 'fipe', 'search', 'manifest.json');
+const LEGACY_MANIFEST = path.join(process.cwd(), 'public', 'api', 'fipe', 'search', 'manifest.json');
 const VEICULOS = path.join(process.cwd(), 'src', 'data', 'fipe', 'veiculos.json');
 
 function run(cmd, args) {
@@ -13,14 +14,22 @@ function run(cmd, args) {
   if (r.status !== 0) process.exit(r.status ?? 1);
 }
 
-let total = 0;
-if (fs.existsSync(MANIFEST)) {
-  total = JSON.parse(fs.readFileSync(MANIFEST, 'utf-8')).total || 0;
+function readTotal(file) {
+  if (!fs.existsSync(file)) return 0;
+  return JSON.parse(fs.readFileSync(file, 'utf-8')).total || 0;
 }
 
+let total = readTotal(MANIFEST);
+if (total < 50) total = readTotal(LEGACY_MANIFEST);
+
 if (total < 50) {
-  console.log('Pre-build: gerando bootstrap do historico...');
-  run('node', ['scripts/bootstrap-catalog.js']);
+  console.log('Pre-build: bootstrap do catalogo...');
+  run('npx', ['tsx', 'scripts/bootstrap-catalog.js']);
+}
+
+if (!fs.existsSync(path.join(process.cwd(), 'public', 'data', 'fipe'))) {
+  console.log('Pre-build: migrando arvore estatica...');
+  run('npx', ['tsx', 'scripts/migrate-flat-to-tree.ts']);
 }
 
 if (fs.existsSync(VEICULOS)) {
