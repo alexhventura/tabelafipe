@@ -1,0 +1,219 @@
+{
+  "id": "nissan-march-sv-1-6-16v-flex-manual-2016",
+  "nome": "Nissan March SV 1.6 16V Flex manual (2016)",
+  "marca": "Nissan",
+  "modelo": "March SV 1.6 16V Flex manual",
+  "anoModelo": 2016,
+  "fipeCodigo": "009188-0",
+  "codigoFipe": "009188-0",
+  "combustivel": "Flex",
+  "valorAtual": 39900,
+  "categoriaPecas": "media",
+  "manutencao": "media",
+  "consumo": {
+    "cidadeG": 11.6,
+    "cidadeE": 8.1,
+    "estradaG": 13.2,
+    "estradaE": 9.3,
+    "cidadeGasolina": 11.6,
+    "cidadeEtanol": 8.1,
+    "estradaGasolina": 13.2,
+    "estradaEtanol": 9.3
+  },
+  "historicoPrecos": [
+    {
+      "mes": "Jul/24",
+      "valor": 44915
+    },
+    {
+      "mes": "Ago/24",
+      "valor": 44667
+    },
+    {
+      "mes": "Set/24",
+      "valor": 44452
+    },
+    {
+      "mes": "Out/24",
+      "valor": 44285
+    },
+    {
+      "mes": "Nov/24",
+      "valor": 43966
+    },
+    {
+      "mes": "Dez/24",
+      "valor": 43752
+    },
+    {
+      "mes": "Jan/25",
+      "valor": 43475
+    },
+    {
+      "mes": "Fev/25",
+      "valor": 43229
+    },
+    {
+      "mes": "Mar/25",
+      "valor": 43036
+    },
+    {
+      "mes": "Abr/25",
+      "valor": 42760
+    },
+    {
+      "mes": "Mai/25",
+      "valor": 42502
+    },
+    {
+      "mes": "Jun/25",
+      "valor": 42303
+    },
+    {
+      "mes": "Jul/25",
+      "valor": 42128
+    },
+    {
+      "mes": "Ago/25",
+      "valor": 41908
+    },
+    {
+      "mes": "Set/25",
+      "valor": 41668
+    },
+    {
+      "mes": "Out/25",
+      "valor": 41398
+    },
+    {
+      "mes": "Nov/25",
+      "valor": 41213
+    },
+    {
+      "mes": "Dez/25",
+      "valor": 40995
+    },
+    {
+      "mes": "Jan/26",
+      "valor": 40777
+    },
+    {
+      "mes": "Fev/26",
+      "valor": 40585
+    },
+    {
+      "mes": "Mar/26",
+      "valor": 40381
+    },
+    {
+      "mes": "Abr/26",
+      "valor": 40225
+    },
+    {
+      "mes": "Mai/26",
+      "valor": 40042
+    },
+    {
+      "mes": "Jun/26",
+      "valor": 39900
+    }
+  ],
+  "historico": [
+    {
+      "mes": "07/2024",
+      "valor": 44915
+    },
+    {
+      "mes": "08/2024",
+      "valor": 44667
+    },
+    {
+      "mes": "09/2024",
+      "valor": 44452
+    },
+    {
+      "mes": "10/2024",
+      "valor": 44285
+    },
+    {
+      "mes": "11/2024",
+      "valor": 43966
+    },
+    {
+      "mes": "12/2024",
+      "valor": 43752
+    },
+    {
+      "mes": "01/2025",
+      "valor": 43475
+    },
+    {
+      "mes": "02/2025",
+      "valor": 43229
+    },
+    {
+      "mes": "03/2025",
+      "valor": 43036
+    },
+    {
+      "mes": "04/2025",
+      "valor": 42760
+    },
+    {
+      "mes": "05/2025",
+      "valor": 42502
+    },
+    {
+      "mes": "06/2025",
+      "valor": 42303
+    },
+    {
+      "mes": "07/2025",
+      "valor": 42128
+    },
+    {
+      "mes": "08/2025",
+      "valor": 41908
+    },
+    {
+      "mes": "09/2025",
+      "valor": 41668
+    },
+    {
+      "mes": "10/2025",
+      "valor": 41398
+    },
+    {
+      "mes": "11/2025",
+      "valor": 41213
+    },
+    {
+      "mes": "12/2025",
+      "valor": 40995
+    },
+    {
+      "mes": "01/2026",
+      "valor": 40777
+    },
+    {
+      "mes": "02/2026",
+      "valor": 40585
+    },
+    {
+      "mes": "03/2026",
+      "valor": 40381
+    },
+    {
+      "mes": "04/2026",
+      "valor": 40225
+    },
+    {
+      "mes": "05/2026",
+      "valor": 40042
+    },
+    {
+      "mes": "06/2026",
+      "valor": 39900
+    }
+  ]
+}

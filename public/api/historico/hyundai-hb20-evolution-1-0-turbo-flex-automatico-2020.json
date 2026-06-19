@@ -1,0 +1,219 @@
+{
+  "id": "hyundai-hb20-evolution-1-0-turbo-flex-automatico-2020",
+  "nome": "Hyundai HB20 Evolution 1.0 Turbo Flex automático (2020)",
+  "marca": "Hyundai",
+  "modelo": "HB20 Evolution 1.0 Turbo Flex automático",
+  "anoModelo": 2020,
+  "fipeCodigo": "015155-6",
+  "codigoFipe": "015155-6",
+  "combustivel": "Flex",
+  "valorAtual": 64900,
+  "categoriaPecas": "baixa",
+  "manutencao": "baixa",
+  "consumo": {
+    "cidadeG": 12,
+    "cidadeE": 8.4,
+    "estradaG": 14.3,
+    "estradaE": 10.1,
+    "cidadeGasolina": 12,
+    "cidadeEtanol": 8.4,
+    "estradaGasolina": 14.3,
+    "estradaEtanol": 10.1
+  },
+  "historicoPrecos": [
+    {
+      "mes": "Jul/24",
+      "valor": 73869
+    },
+    {
+      "mes": "Ago/24",
+      "valor": 73584
+    },
+    {
+      "mes": "Set/24",
+      "valor": 73285
+    },
+    {
+      "mes": "Out/24",
+      "valor": 72745
+    },
+    {
+      "mes": "Nov/24",
+      "valor": 72244
+    },
+    {
+      "mes": "Dez/24",
+      "valor": 71779
+    },
+    {
+      "mes": "Jan/25",
+      "valor": 71271
+    },
+    {
+      "mes": "Fev/25",
+      "valor": 70889
+    },
+    {
+      "mes": "Mar/25",
+      "valor": 70540
+    },
+    {
+      "mes": "Abr/25",
+      "valor": 70192
+    },
+    {
+      "mes": "Mai/25",
+      "valor": 69884
+    },
+    {
+      "mes": "Jun/25",
+      "valor": 69375
+    },
+    {
+      "mes": "Jul/25",
+      "valor": 69004
+    },
+    {
+      "mes": "Ago/25",
+      "valor": 68571
+    },
+    {
+      "mes": "Set/25",
+      "valor": 68178
+    },
+    {
+      "mes": "Out/25",
+      "valor": 67838
+    },
+    {
+      "mes": "Nov/25",
+      "valor": 67356
+    },
+    {
+      "mes": "Dez/25",
+      "valor": 67087
+    },
+    {
+      "mes": "Jan/26",
+      "valor": 66658
+    },
+    {
+      "mes": "Fev/26",
+      "valor": 66313
+    },
+    {
+      "mes": "Mar/26",
+      "valor": 65986
+    },
+    {
+      "mes": "Abr/26",
+      "valor": 65534
+    },
+    {
+      "mes": "Mai/26",
+      "valor": 65304
+    },
+    {
+      "mes": "Jun/26",
+      "valor": 64900
+    }
+  ],
+  "historico": [
+    {
+      "mes": "07/2024",
+      "valor": 73869
+    },
+    {
+      "mes": "08/2024",
+      "valor": 73584
+    },
+    {
+      "mes": "09/2024",
+      "valor": 73285
+    },
+    {
+      "mes": "10/2024",
+      "valor": 72745
+    },
+    {
+      "mes": "11/2024",
+      "valor": 72244
+    },
+    {
+      "mes": "12/2024",
+      "valor": 71779
+    },
+    {
+      "mes": "01/2025",
+      "valor": 71271
+    },
+    {
+      "mes": "02/2025",
+      "valor": 70889
+    },
+    {
+      "mes": "03/2025",
+      "valor": 70540
+    },
+    {
+      "mes": "04/2025",
+      "valor": 70192
+    },
+    {
+      "mes": "05/2025",
+      "valor": 69884
+    },
+    {
+      "mes": "06/2025",
+      "valor": 69375
+    },
+    {
+      "mes": "07/2025",
+      "valor": 69004
+    },
+    {
+      "mes": "08/2025",
+      "valor": 68571
+    },
+    {
+      "mes": "09/2025",
+      "valor": 68178
+    },
+    {
+      "mes": "10/2025",
+      "valor": 67838
+    },
+    {
+      "mes": "11/2025",
+      "valor": 67356
+    },
+    {
+      "mes": "12/2025",
+      "valor": 67087
+    },
+    {
+      "mes": "01/2026",
+      "valor": 66658
+    },
+    {
+      "mes": "02/2026",
+      "valor": 66313
+    },
+    {
+      "mes": "03/2026",
+      "valor": 65986
+    },
+    {
+      "mes": "04/2026",
+      "valor": 65534
+    },
+    {
+      "mes": "05/2026",
+      "valor": 65304
+    },
+    {
+      "mes": "06/2026",
+      "valor": 64900
+    }
+  ]
+}

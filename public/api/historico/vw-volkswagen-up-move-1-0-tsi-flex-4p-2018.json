@@ -1,0 +1,219 @@
+{
+  "id": "vw-volkswagen-up-move-1-0-tsi-flex-4p-2018",
+  "nome": "VW - Volkswagen Up! Move 1.0 TSI Flex 4p (2018)",
+  "marca": "VW - Volkswagen",
+  "modelo": "Up! Move 1.0 TSI Flex 4p",
+  "anoModelo": 2018,
+  "fipeCodigo": "005432-6",
+  "codigoFipe": "005432-6",
+  "combustivel": "Flex",
+  "valorAtual": 53900,
+  "categoriaPecas": "baixa",
+  "manutencao": "baixa",
+  "consumo": {
+    "cidadeG": 12,
+    "cidadeE": 8.4,
+    "estradaG": 14.3,
+    "estradaE": 10.1,
+    "cidadeGasolina": 12,
+    "cidadeEtanol": 8.4,
+    "estradaGasolina": 14.3,
+    "estradaEtanol": 10.1
+  },
+  "historicoPrecos": [
+    {
+      "mes": "Jul/24",
+      "valor": 61292
+    },
+    {
+      "mes": "Ago/24",
+      "valor": 60910
+    },
+    {
+      "mes": "Set/24",
+      "valor": 60516
+    },
+    {
+      "mes": "Out/24",
+      "valor": 60187
+    },
+    {
+      "mes": "Nov/24",
+      "valor": 59938
+    },
+    {
+      "mes": "Dez/24",
+      "valor": 59614
+    },
+    {
+      "mes": "Jan/25",
+      "valor": 59197
+    },
+    {
+      "mes": "Fev/25",
+      "valor": 58926
+    },
+    {
+      "mes": "Mar/25",
+      "valor": 58703
+    },
+    {
+      "mes": "Abr/25",
+      "valor": 58295
+    },
+    {
+      "mes": "Mai/25",
+      "valor": 57999
+    },
+    {
+      "mes": "Jun/25",
+      "valor": 57754
+    },
+    {
+      "mes": "Jul/25",
+      "valor": 57382
+    },
+    {
+      "mes": "Ago/25",
+      "valor": 57127
+    },
+    {
+      "mes": "Set/25",
+      "valor": 56714
+    },
+    {
+      "mes": "Out/25",
+      "valor": 56403
+    },
+    {
+      "mes": "Nov/25",
+      "valor": 55992
+    },
+    {
+      "mes": "Dez/25",
+      "valor": 55757
+    },
+    {
+      "mes": "Jan/26",
+      "valor": 55380
+    },
+    {
+      "mes": "Fev/26",
+      "valor": 55165
+    },
+    {
+      "mes": "Mar/26",
+      "valor": 54823
+    },
+    {
+      "mes": "Abr/26",
+      "valor": 54439
+    },
+    {
+      "mes": "Mai/26",
+      "valor": 54212
+    },
+    {
+      "mes": "Jun/26",
+      "valor": 53900
+    }
+  ],
+  "historico": [
+    {
+      "mes": "07/2024",
+      "valor": 61292
+    },
+    {
+      "mes": "08/2024",
+      "valor": 60910
+    },
+    {
+      "mes": "09/2024",
+      "valor": 60516
+    },
+    {
+      "mes": "10/2024",
+      "valor": 60187
+    },
+    {
+      "mes": "11/2024",
+      "valor": 59938
+    },
+    {
+      "mes": "12/2024",
+      "valor": 59614
+    },
+    {
+      "mes": "01/2025",
+      "valor": 59197
+    },
+    {
+      "mes": "02/2025",
+      "valor": 58926
+    },
+    {
+      "mes": "03/2025",
+      "valor": 58703
+    },
+    {
+      "mes": "04/2025",
+      "valor": 58295
+    },
+    {
+      "mes": "05/2025",
+      "valor": 57999
+    },
+    {
+      "mes": "06/2025",
+      "valor": 57754
+    },
+    {
+      "mes": "07/2025",
+      "valor": 57382
+    },
+    {
+      "mes": "08/2025",
+      "valor": 57127
+    },
+    {
+      "mes": "09/2025",
+      "valor": 56714
+    },
+    {
+      "mes": "10/2025",
+      "valor": 56403
+    },
+    {
+      "mes": "11/2025",
+      "valor": 55992
+    },
+    {
+      "mes": "12/2025",
+      "valor": 55757
+    },
+    {
+      "mes": "01/2026",
+      "valor": 55380
+    },
+    {
+      "mes": "02/2026",
+      "valor": 55165
+    },
+    {
+      "mes": "03/2026",
+      "valor": 54823
+    },
+    {
+      "mes": "04/2026",
+      "valor": 54439
+    },
+    {
+      "mes": "05/2026",
+      "valor": 54212
+    },
+    {
+      "mes": "06/2026",
+      "valor": 53900
+    }
+  ]
+}

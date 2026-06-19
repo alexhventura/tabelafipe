@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Consulta FIPE local</title>
+  <style>
+    body { font-family: system-ui, sans-serif; max-width: 520px; margin: 2rem auto; padding: 0 1rem; }
+    label { display: block; font-size: 0.75rem; font-weight: 600; color: #64748b; margin-bottom: 0.25rem; }
+    select, button { width: 100%; padding: 0.65rem; margin-bottom: 1rem; font-size: 1rem; border-radius: 8px; border: 1px solid #cbd5e1; }
+    button { background: #2563eb; color: #fff; border: none; cursor: pointer; font-weight: 600; }
+    button:disabled { opacity: 0.5; }
+    #resultado { padding: 1rem; background: #f1f5f9; border-radius: 8px; }
+    .erro { color: #dc2626; }
+  </style>
+</head>
+<body>
+  <h1>Consulta FIPE local</h1>
+  <label for="tipo">Tipo</label>
+  <select id="tipo"><option value="carros">Carros</option><option value="motos">Motos</option><option value="caminhoes">Caminhoes</option></select>
+  <label for="marca">Marca</label>
+  <select id="marca" disabled></select>
+  <label for="modelo">Modelo</label>
+  <select id="modelo" disabled></select>
+  <label for="ano">Ano</label>
+  <select id="ano" disabled></select>
+  <button id="consultar" disabled>Consultar preco</button>
+  <div id="resultado">Selecione os campos acima.</div>
+  <script>
+    const API = window.FIPE_API_BASE || "/api/fipe";
+    const $tipo = document.getElementById("tipo");
+    const $marca = document.getElementById("marca");
+    const $modelo = document.getElementById("modelo");
+    const $ano = document.getElementById("ano");
+    const $btn = document.getElementById("consultar");
+    const $out = document.getElementById("resultado");
+    async function api(path) {
+      const res = await fetch(API + path);
+      const json = await res.json();
+      if (!json.ok) throw new Error(json.error || "Erro");
+      return json.data;
+    }
+    function fill(el, items, ph, val = "id", label = "nome") {
+      el.innerHTML = `<option value="">${ph}</option>`;
+      items.forEach((i) => { const o = document.createElement("option"); o.value = i[val]; o.textContent = i[label] || i.nome; el.appendChild(o); });
+      el.disabled = false;
+    }
+    async function loadMarcas() {
+      $marca.disabled = $modelo.disabled = $ano.disabled = true;
+      $btn.disabled = true;
+      const marcas = await api("/marcas?tipo=" + $tipo.value);
+      fill($marca, marcas, "Selecione a marca");
+    }
+    $tipo.onchange = loadMarcas;
+    $marca.onchange = async () => {
+      $modelo.disabled = $ano.disabled = true; $btn.disabled = true;
+      if (!$marca.value) return;
+      fill($modelo, await api("/modelos?marcaId=" + $marca.value), "Selecione o modelo");
+    };
+    $modelo.onchange = async () => {
+      $ano.disabled = true; $btn.disabled = true;
+      if (!$modelo.value) return;
+      const anos = await api(`/anos?marcaId=${$marca.value}&modeloId=${$modelo.value}`);
+      fill($ano, anos, "Selecione o ano", "id", "nome");
+    };
+    $ano.onchange = () => { $btn.disabled = !$ano.value; };
+    $btn.onclick = async () => {
+      try {
+        const p = await api(`/preco?marcaId=${$marca.value}&modeloId=${$modelo.value}&anoId=${$ano.value}`);
+        $out.innerHTML = `<div>${p.marca} ${p.modelo}</div><strong>${p.valorFormatado || "Sem preco"}</strong><div style="font-size:0.8rem;color:#666">FIPE: ${p.codigoFipe || "-"} | ${p.mesReferencia || ""}</div>`;
+      } catch (e) { $out.innerHTML = `<span class="erro">${e.message}</span>`; }
+    };
+    loadMarcas().catch((e) => { $out.innerHTML = `<span class="erro">${e.message}</span>`; });
+  </script>
+</body>
+</html>

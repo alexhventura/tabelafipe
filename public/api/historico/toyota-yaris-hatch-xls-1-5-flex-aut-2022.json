@@ -1,0 +1,219 @@
+{
+  "id": "toyota-yaris-hatch-xls-1-5-flex-aut-2022",
+  "nome": "Toyota Yaris Hatch XLS 1.5 Flex Aut. (2022)",
+  "marca": "Toyota",
+  "modelo": "Yaris Hatch XLS 1.5 Flex Aut.",
+  "anoModelo": 2022,
+  "fipeCodigo": "002195-4",
+  "codigoFipe": "002195-4",
+  "combustivel": "Flex",
+  "valorAtual": 88900,
+  "categoriaPecas": "media",
+  "manutencao": "media",
+  "consumo": {
+    "cidadeG": 11.6,
+    "cidadeE": 8.1,
+    "estradaG": 13.2,
+    "estradaE": 9.3,
+    "cidadeGasolina": 11.6,
+    "cidadeEtanol": 8.1,
+    "estradaGasolina": 13.2,
+    "estradaEtanol": 9.3
+  },
+  "historicoPrecos": [
+    {
+      "mes": "Jul/24",
+      "valor": 101117
+    },
+    {
+      "mes": "Ago/24",
+      "valor": 100627
+    },
+    {
+      "mes": "Set/24",
+      "valor": 100234
+    },
+    {
+      "mes": "Out/24",
+      "valor": 99535
+    },
+    {
+      "mes": "Nov/24",
+      "valor": 99128
+    },
+    {
+      "mes": "Dez/24",
+      "valor": 98400
+    },
+    {
+      "mes": "Jan/25",
+      "valor": 98018
+    },
+    {
+      "mes": "Fev/25",
+      "valor": 97311
+    },
+    {
+      "mes": "Mar/25",
+      "valor": 96659
+    },
+    {
+      "mes": "Abr/25",
+      "valor": 96024
+    },
+    {
+      "mes": "Mai/25",
+      "valor": 95550
+    },
+    {
+      "mes": "Jun/25",
+      "valor": 94877
+    },
+    {
+      "mes": "Jul/25",
+      "valor": 94422
+    },
+    {
+      "mes": "Ago/25",
+      "valor": 93781
+    },
+    {
+      "mes": "Set/25",
+      "valor": 93336
+    },
+    {
+      "mes": "Out/25",
+      "valor": 92728
+    },
+    {
+      "mes": "Nov/25",
+      "valor": 92298
+    },
+    {
+      "mes": "Dez/25",
+      "valor": 91644
+    },
+    {
+      "mes": "Jan/26",
+      "valor": 91317
+    },
+    {
+      "mes": "Fev/26",
+      "valor": 90654
+    },
+    {
+      "mes": "Mar/26",
+      "valor": 90108
+    },
+    {
+      "mes": "Abr/26",
+      "valor": 89699
+    },
+    {
+      "mes": "Mai/26",
+      "valor": 89289
+    },
+    {
+      "mes": "Jun/26",
+      "valor": 88900
+    }
+  ],
+  "historico": [
+    {
+      "mes": "07/2024",
+      "valor": 101117
+    },
+    {
+      "mes": "08/2024",
+      "valor": 100627
+    },
+    {
+      "mes": "09/2024",
+      "valor": 100234
+    },
+    {
+      "mes": "10/2024",
+      "valor": 99535
+    },
+    {
+      "mes": "11/2024",
+      "valor": 99128
+    },
+    {
+      "mes": "12/2024",
+      "valor": 98400
+    },
+    {
+      "mes": "01/2025",
+      "valor": 98018
+    },
+    {
+      "mes": "02/2025",
+      "valor": 97311
+    },
+    {
+      "mes": "03/2025",
+      "valor": 96659
+    },
+    {
+      "mes": "04/2025",
+      "valor": 96024
+    },
+    {
+      "mes": "05/2025",
+      "valor": 95550
+    },
+    {
+      "mes": "06/2025",
+      "valor": 94877
+    },
+    {
+      "mes": "07/2025",
+      "valor": 94422
+    },
+    {
+      "mes": "08/2025",
+      "valor": 93781
+    },
+    {
+      "mes": "09/2025",
+      "valor": 93336
+    },
+    {
+      "mes": "10/2025",
+      "valor": 92728
+    },
+    {
+      "mes": "11/2025",
+      "valor": 92298
+    },
+    {
+      "mes": "12/2025",
+      "valor": 91644
+    },
+    {
+      "mes": "01/2026",
+      "valor": 91317
+    },
+    {
+      "mes": "02/2026",
+      "valor": 90654
+    },
+    {
+      "mes": "03/2026",
+      "valor": 90108
+    },
+    {
+      "mes": "04/2026",
+      "valor": 89699
+    },
+    {
+      "mes": "05/2026",
+      "valor": 89289
+    },
+    {
+      "mes": "06/2026",
+      "valor": 88900
+    }
+  ]
+}

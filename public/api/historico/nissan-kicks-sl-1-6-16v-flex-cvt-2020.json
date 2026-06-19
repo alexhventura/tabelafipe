@@ -1,0 +1,219 @@
+{
+  "id": "nissan-kicks-sl-1-6-16v-flex-cvt-2020",
+  "nome": "Nissan Kicks SL 1.6 16V Flex CVT (2020)",
+  "marca": "Nissan",
+  "modelo": "Kicks SL 1.6 16V Flex CVT",
+  "anoModelo": 2020,
+  "fipeCodigo": "009244-4",
+  "codigoFipe": "009244-4",
+  "combustivel": "Flex",
+  "valorAtual": 85900,
+  "categoriaPecas": "media",
+  "manutencao": "media",
+  "consumo": {
+    "cidadeG": 11.6,
+    "cidadeE": 8.1,
+    "estradaG": 13.2,
+    "estradaE": 9.3,
+    "cidadeGasolina": 11.6,
+    "cidadeEtanol": 8.1,
+    "estradaGasolina": 13.2,
+    "estradaEtanol": 9.3
+  },
+  "historicoPrecos": [
+    {
+      "mes": "Jul/24",
+      "valor": 97437
+    },
+    {
+      "mes": "Ago/24",
+      "valor": 96763
+    },
+    {
+      "mes": "Set/24",
+      "valor": 96213
+    },
+    {
+      "mes": "Out/24",
+      "valor": 95645
+    },
+    {
+      "mes": "Nov/24",
+      "valor": 95265
+    },
+    {
+      "mes": "Dez/24",
+      "valor": 94688
+    },
+    {
+      "mes": "Jan/25",
+      "valor": 94196
+    },
+    {
+      "mes": "Fev/25",
+      "valor": 93608
+    },
+    {
+      "mes": "Mar/25",
+      "valor": 93230
+    },
+    {
+      "mes": "Abr/25",
+      "valor": 92764
+    },
+    {
+      "mes": "Mai/25",
+      "valor": 92429
+    },
+    {
+      "mes": "Jun/25",
+      "valor": 91784
+    },
+    {
+      "mes": "Jul/25",
+      "valor": 91182
+    },
+    {
+      "mes": "Ago/25",
+      "valor": 90661
+    },
+    {
+      "mes": "Set/25",
+      "valor": 90243
+    },
+    {
+      "mes": "Out/25",
+      "valor": 89697
+    },
+    {
+      "mes": "Nov/25",
+      "valor": 89267
+    },
+    {
+      "mes": "Dez/25",
+      "valor": 88745
+    },
+    {
+      "mes": "Jan/26",
+      "valor": 88276
+    },
+    {
+      "mes": "Fev/26",
+      "valor": 87923
+    },
+    {
+      "mes": "Mar/26",
+      "valor": 87482
+    },
+    {
+      "mes": "Abr/26",
+      "valor": 87020
+    },
+    {
+      "mes": "Mai/26",
+      "valor": 86474
+    },
+    {
+      "mes": "Jun/26",
+      "valor": 85900
+    }
+  ],
+  "historico": [
+    {
+      "mes": "07/2024",
+      "valor": 97437
+    },
+    {
+      "mes": "08/2024",
+      "valor": 96763
+    },
+    {
+      "mes": "09/2024",
+      "valor": 96213
+    },
+    {
+      "mes": "10/2024",
+      "valor": 95645
+    },
+    {
+      "mes": "11/2024",
+      "valor": 95265
+    },
+    {
+      "mes": "12/2024",
+      "valor": 94688
+    },
+    {
+      "mes": "01/2025",
+      "valor": 94196
+    },
+    {
+      "mes": "02/2025",
+      "valor": 93608
+    },
+    {
+      "mes": "03/2025",
+      "valor": 93230
+    },
+    {
+      "mes": "04/2025",
+      "valor": 92764
+    },
+    {
+      "mes": "05/2025",
+      "valor": 92429
+    },
+    {
+      "mes": "06/2025",
+      "valor": 91784
+    },
+    {
+      "mes": "07/2025",
+      "valor": 91182
+    },
+    {
+      "mes": "08/2025",
+      "valor": 90661
+    },
+    {
+      "mes": "09/2025",
+      "valor": 90243
+    },
+    {
+      "mes": "10/2025",
+      "valor": 89697
+    },
+    {
+      "mes": "11/2025",
+      "valor": 89267
+    },
+    {
+      "mes": "12/2025",
+      "valor": 88745
+    },
+    {
+      "mes": "01/2026",
+      "valor": 88276
+    },
+    {
+      "mes": "02/2026",
+      "valor": 87923
+    },
+    {
+      "mes": "03/2026",
+      "valor": 87482
+    },
+    {
+      "mes": "04/2026",
+      "valor": 87020
+    },
+    {
+      "mes": "05/2026",
+      "valor": 86474
+    },
+    {
+      "mes": "06/2026",
+      "valor": 85900
+    }
+  ]
+}

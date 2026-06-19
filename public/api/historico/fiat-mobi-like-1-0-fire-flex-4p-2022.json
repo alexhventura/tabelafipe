@@ -1,0 +1,219 @@
+{
+  "id": "fiat-mobi-like-1-0-fire-flex-4p-2022",
+  "nome": "Fiat Mobi Like 1.0 Fire Flex 4p (2022)",
+  "marca": "Fiat",
+  "modelo": "Mobi Like 1.0 Fire Flex 4p",
+  "anoModelo": 2022,
+  "fipeCodigo": "001511-2",
+  "codigoFipe": "001511-2",
+  "combustivel": "Flex",
+  "valorAtual": 52400,
+  "categoriaPecas": "baixa",
+  "manutencao": "baixa",
+  "consumo": {
+    "cidadeG": 13.3,
+    "cidadeE": 9.3,
+    "estradaG": 14.9,
+    "estradaE": 10.5,
+    "cidadeGasolina": 13.3,
+    "cidadeEtanol": 9.3,
+    "estradaGasolina": 14.9,
+    "estradaEtanol": 10.5
+  },
+  "historicoPrecos": [
+    {
+      "mes": "Jul/24",
+      "valor": 59325
+    },
+    {
+      "mes": "Ago/24",
+      "valor": 59000
+    },
+    {
+      "mes": "Set/24",
+      "valor": 58773
+    },
+    {
+      "mes": "Out/24",
+      "valor": 58508
+    },
+    {
+      "mes": "Nov/24",
+      "valor": 58116
+    },
+    {
+      "mes": "Dez/24",
+      "valor": 57743
+    },
+    {
+      "mes": "Jan/25",
+      "valor": 57499
+    },
+    {
+      "mes": "Fev/25",
+      "valor": 57166
+    },
+    {
+      "mes": "Mar/25",
+      "valor": 56965
+    },
+    {
+      "mes": "Abr/25",
+      "valor": 56649
+    },
+    {
+      "mes": "Mai/25",
+      "valor": 56323
+    },
+    {
+      "mes": "Jun/25",
+      "valor": 56068
+    },
+    {
+      "mes": "Jul/25",
+      "valor": 55850
+    },
+    {
+      "mes": "Ago/25",
+      "valor": 55612
+    },
+    {
+      "mes": "Set/25",
+      "valor": 55212
+    },
+    {
+      "mes": "Out/25",
+      "valor": 54988
+    },
+    {
+      "mes": "Nov/25",
+      "valor": 54703
+    },
+    {
+      "mes": "Dez/25",
+      "valor": 54374
+    },
+    {
+      "mes": "Jan/26",
+      "valor": 54022
+    },
+    {
+      "mes": "Fev/26",
+      "valor": 53777
+    },
+    {
+      "mes": "Mar/26",
+      "valor": 53433
+    },
+    {
+      "mes": "Abr/26",
+      "valor": 53108
+    },
+    {
+      "mes": "Mai/26",
+      "valor": 52724
+    },
+    {
+      "mes": "Jun/26",
+      "valor": 52400
+    }
+  ],
+  "historico": [
+    {
+      "mes": "07/2024",
+      "valor": 59325
+    },
+    {
+      "mes": "08/2024",
+      "valor": 59000
+    },
+    {
+      "mes": "09/2024",
+      "valor": 58773
+    },
+    {
+      "mes": "10/2024",
+      "valor": 58508
+    },
+    {
+      "mes": "11/2024",
+      "valor": 58116
+    },
+    {
+      "mes": "12/2024",
+      "valor": 57743
+    },
+    {
+      "mes": "01/2025",
+      "valor": 57499
+    },
+    {
+      "mes": "02/2025",
+      "valor": 57166
+    },
+    {
+      "mes": "03/2025",
+      "valor": 56965
+    },
+    {
+      "mes": "04/2025",
+      "valor": 56649
+    },
+    {
+      "mes": "05/2025",
+      "valor": 56323
+    },
+    {
+      "mes": "06/2025",
+      "valor": 56068
+    },
+    {
+      "mes": "07/2025",
+      "valor": 55850
+    },
+    {
+      "mes": "08/2025",
+      "valor": 55612
+    },
+    {
+      "mes": "09/2025",
+      "valor": 55212
+    },
+    {
+      "mes": "10/2025",
+      "valor": 54988
+    },
+    {
+      "mes": "11/2025",
+      "valor": 54703
+    },
+    {
+      "mes": "12/2025",
+      "valor": 54374
+    },
+    {
+      "mes": "01/2026",
+      "valor": 54022
+    },
+    {
+      "mes": "02/2026",
+      "valor": 53777
+    },
+    {
+      "mes": "03/2026",
+      "valor": 53433
+    },
+    {
+      "mes": "04/2026",
+      "valor": 53108
+    },
+    {
+      "mes": "05/2026",
+      "valor": 52724
+    },
+    {
+      "mes": "06/2026",
+      "valor": 52400
+    }
+  ]
+}

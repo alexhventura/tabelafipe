@@ -1,0 +1,219 @@
+{
+  "id": "vw-volkswagen-t-cross-comforline-250-tsi-flex-aut-2022",
+  "nome": "VW - Volkswagen T-Cross Comforline 250 TSI Flex Aut. (2022)",
+  "marca": "VW - Volkswagen",
+  "modelo": "T-Cross Comforline 250 TSI Flex Aut.",
+  "anoModelo": 2022,
+  "fipeCodigo": "005510-5",
+  "codigoFipe": "005510-5",
+  "combustivel": "Flex",
+  "valorAtual": 118400,
+  "categoriaPecas": "baixa",
+  "manutencao": "baixa",
+  "consumo": {
+    "cidadeG": 9.9,
+    "cidadeE": 6.9,
+    "estradaG": 12.2,
+    "estradaE": 8.5,
+    "cidadeGasolina": 9.9,
+    "cidadeEtanol": 6.9,
+    "estradaGasolina": 12.2,
+    "estradaEtanol": 8.5
+  },
+  "historicoPrecos": [
+    {
+      "mes": "Jul/24",
+      "valor": 133554
+    },
+    {
+      "mes": "Ago/24",
+      "valor": 132754
+    },
+    {
+      "mes": "Set/24",
+      "valor": 132205
+    },
+    {
+      "mes": "Out/24",
+      "valor": 131539
+    },
+    {
+      "mes": "Nov/24",
+      "valor": 130607
+    },
+    {
+      "mes": "Dez/24",
+      "valor": 129840
+    },
+    {
+      "mes": "Jan/25",
+      "valor": 128933
+    },
+    {
+      "mes": "Fev/25",
+      "valor": 128085
+    },
+    {
+      "mes": "Mar/25",
+      "valor": 127364
+    },
+    {
+      "mes": "Abr/25",
+      "valor": 126753
+    },
+    {
+      "mes": "Mai/25",
+      "valor": 126244
+    },
+    {
+      "mes": "Jun/25",
+      "valor": 125567
+    },
+    {
+      "mes": "Jul/25",
+      "valor": 125097
+    },
+    {
+      "mes": "Ago/25",
+      "valor": 124375
+    },
+    {
+      "mes": "Set/25",
+      "valor": 123501
+    },
+    {
+      "mes": "Out/25",
+      "valor": 122947
+    },
+    {
+      "mes": "Nov/25",
+      "valor": 122485
+    },
+    {
+      "mes": "Dez/25",
+      "valor": 121900
+    },
+    {
+      "mes": "Jan/26",
+      "valor": 121450
+    },
+    {
+      "mes": "Fev/26",
+      "valor": 121013
+    },
+    {
+      "mes": "Mar/26",
+      "valor": 120343
+    },
+    {
+      "mes": "Abr/26",
+      "valor": 119668
+    },
+    {
+      "mes": "Mai/26",
+      "valor": 119101
+    },
+    {
+      "mes": "Jun/26",
+      "valor": 118400
+    }
+  ],
+  "historico": [
+    {
+      "mes": "07/2024",
+      "valor": 133554
+    },
+    {
+      "mes": "08/2024",
+      "valor": 132754
+    },
+    {
+      "mes": "09/2024",
+      "valor": 132205
+    },
+    {
+      "mes": "10/2024",
+      "valor": 131539
+    },
+    {
+      "mes": "11/2024",
+      "valor": 130607
+    },
+    {
+      "mes": "12/2024",
+      "valor": 129840
+    },
+    {
+      "mes": "01/2025",
+      "valor": 128933
+    },
+    {
+      "mes": "02/2025",
+      "valor": 128085
+    },
+    {
+      "mes": "03/2025",
+      "valor": 127364
+    },
+    {
+      "mes": "04/2025",
+      "valor": 126753
+    },
+    {
+      "mes": "05/2025",
+      "valor": 126244
+    },
+    {
+      "mes": "06/2025",
+      "valor": 125567
+    },
+    {
+      "mes": "07/2025",
+      "valor": 125097
+    },
+    {
+      "mes": "08/2025",
+      "valor": 124375
+    },
+    {
+      "mes": "09/2025",
+      "valor": 123501
+    },
+    {
+      "mes": "10/2025",
+      "valor": 122947
+    },
+    {
+      "mes": "11/2025",
+      "valor": 122485
+    },
+    {
+      "mes": "12/2025",
+      "valor": 121900
+    },
+    {
+      "mes": "01/2026",
+      "valor": 121450
+    },
+    {
+      "mes": "02/2026",
+      "valor": 121013
+    },
+    {
+      "mes": "03/2026",
+      "valor": 120343
+    },
+    {
+      "mes": "04/2026",
+      "valor": 119668
+    },
+    {
+      "mes": "05/2026",
+      "valor": 119101
+    },
+    {
+      "mes": "06/2026",
+      "valor": 118400
+    }
+  ]
+}

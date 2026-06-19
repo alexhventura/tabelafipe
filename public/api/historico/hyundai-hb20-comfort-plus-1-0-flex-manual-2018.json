@@ -1,0 +1,219 @@
+{
+  "id": "hyundai-hb20-comfort-plus-1-0-flex-manual-2018",
+  "nome": "Hyundai HB20 Comfort Plus 1.0 Flex manual (2018)",
+  "marca": "Hyundai",
+  "modelo": "HB20 Comfort Plus 1.0 Flex manual",
+  "anoModelo": 2018,
+  "fipeCodigo": "015111-4",
+  "codigoFipe": "015111-4",
+  "combustivel": "Flex",
+  "valorAtual": 51200,
+  "categoriaPecas": "baixa",
+  "manutencao": "baixa",
+  "consumo": {
+    "cidadeG": 13.3,
+    "cidadeE": 9.3,
+    "estradaG": 14.9,
+    "estradaE": 10.5,
+    "cidadeGasolina": 13.3,
+    "cidadeEtanol": 9.3,
+    "estradaGasolina": 14.9,
+    "estradaEtanol": 10.5
+  },
+  "historicoPrecos": [
+    {
+      "mes": "Jul/24",
+      "valor": 58235
+    },
+    {
+      "mes": "Ago/24",
+      "valor": 57996
+    },
+    {
+      "mes": "Set/24",
+      "valor": 57606
+    },
+    {
+      "mes": "Out/24",
+      "valor": 57178
+    },
+    {
+      "mes": "Nov/24",
+      "valor": 56778
+    },
+    {
+      "mes": "Dez/24",
+      "valor": 56546
+    },
+    {
+      "mes": "Jan/25",
+      "valor": 56176
+    },
+    {
+      "mes": "Fev/25",
+      "valor": 55972
+    },
+    {
+      "mes": "Mar/25",
+      "valor": 55683
+    },
+    {
+      "mes": "Abr/25",
+      "valor": 55295
+    },
+    {
+      "mes": "Mai/25",
+      "valor": 55046
+    },
+    {
+      "mes": "Jun/25",
+      "valor": 54664
+    },
+    {
+      "mes": "Jul/25",
+      "valor": 54270
+    },
+    {
+      "mes": "Ago/25",
+      "valor": 54014
+    },
+    {
+      "mes": "Set/25",
+      "valor": 53736
+    },
+    {
+      "mes": "Out/25",
+      "valor": 53527
+    },
+    {
+      "mes": "Nov/25",
+      "valor": 53324
+    },
+    {
+      "mes": "Dez/25",
+      "valor": 52975
+    },
+    {
+      "mes": "Jan/26",
+      "valor": 52711
+    },
+    {
+      "mes": "Fev/26",
+      "valor": 52350
+    },
+    {
+      "mes": "Mar/26",
+      "valor": 52015
+    },
+    {
+      "mes": "Abr/26",
+      "valor": 51740
+    },
+    {
+      "mes": "Mai/26",
+      "valor": 51539
+    },
+    {
+      "mes": "Jun/26",
+      "valor": 51200
+    }
+  ],
+  "historico": [
+    {
+      "mes": "07/2024",
+      "valor": 58235
+    },
+    {
+      "mes": "08/2024",
+      "valor": 57996
+    },
+    {
+      "mes": "09/2024",
+      "valor": 57606
+    },
+    {
+      "mes": "10/2024",
+      "valor": 57178
+    },
+    {
+      "mes": "11/2024",
+      "valor": 56778
+    },
+    {
+      "mes": "12/2024",
+      "valor": 56546
+    },
+    {
+      "mes": "01/2025",
+      "valor": 56176
+    },
+    {
+      "mes": "02/2025",
+      "valor": 55972
+    },
+    {
+      "mes": "03/2025",
+      "valor": 55683
+    },
+    {
+      "mes": "04/2025",
+      "valor": 55295
+    },
+    {
+      "mes": "05/2025",
+      "valor": 55046
+    },
+    {
+      "mes": "06/2025",
+      "valor": 54664
+    },
+    {
+      "mes": "07/2025",
+      "valor": 54270
+    },
+    {
+      "mes": "08/2025",
+      "valor": 54014
+    },
+    {
+      "mes": "09/2025",
+      "valor": 53736
+    },
+    {
+      "mes": "10/2025",
+      "valor": 53527
+    },
+    {
+      "mes": "11/2025",
+      "valor": 53324
+    },
+    {
+      "mes": "12/2025",
+      "valor": 52975
+    },
+    {
+      "mes": "01/2026",
+      "valor": 52711
+    },
+    {
+      "mes": "02/2026",
+      "valor": 52350
+    },
+    {
+      "mes": "03/2026",
+      "valor": 52015
+    },
+    {
+      "mes": "04/2026",
+      "valor": 51740
+    },
+    {
+      "mes": "05/2026",
+      "valor": 51539
+    },
+    {
+      "mes": "06/2026",
+      "valor": 51200
+    }
+  ]
+}

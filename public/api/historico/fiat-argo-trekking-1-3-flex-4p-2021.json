@@ -1,0 +1,219 @@
+{
+  "id": "fiat-argo-trekking-1-3-flex-4p-2021",
+  "nome": "Fiat Argo Trekking 1.3 Flex 4p (2021)",
+  "marca": "Fiat",
+  "modelo": "Argo Trekking 1.3 Flex 4p",
+  "anoModelo": 2021,
+  "fipeCodigo": "001602-5",
+  "codigoFipe": "001602-5",
+  "combustivel": "Flex",
+  "valorAtual": 72100,
+  "categoriaPecas": "baixa",
+  "manutencao": "baixa",
+  "consumo": {
+    "cidadeG": 11.6,
+    "cidadeE": 8.1,
+    "estradaG": 13.2,
+    "estradaE": 9.3,
+    "cidadeGasolina": 11.6,
+    "cidadeEtanol": 8.1,
+    "estradaGasolina": 13.2,
+    "estradaEtanol": 9.3
+  },
+  "historicoPrecos": [
+    {
+      "mes": "Jul/24",
+      "valor": 81286
+    },
+    {
+      "mes": "Ago/24",
+      "valor": 80957
+    },
+    {
+      "mes": "Set/24",
+      "valor": 80476
+    },
+    {
+      "mes": "Out/24",
+      "valor": 79919
+    },
+    {
+      "mes": "Nov/24",
+      "valor": 79530
+    },
+    {
+      "mes": "Dez/24",
+      "valor": 79084
+    },
+    {
+      "mes": "Jan/25",
+      "valor": 78764
+    },
+    {
+      "mes": "Fev/25",
+      "valor": 78473
+    },
+    {
+      "mes": "Mar/25",
+      "valor": 77984
+    },
+    {
+      "mes": "Abr/25",
+      "valor": 77654
+    },
+    {
+      "mes": "Mai/25",
+      "valor": 77364
+    },
+    {
+      "mes": "Jun/25",
+      "valor": 76943
+    },
+    {
+      "mes": "Jul/25",
+      "valor": 76547
+    },
+    {
+      "mes": "Ago/25",
+      "valor": 76051
+    },
+    {
+      "mes": "Set/25",
+      "valor": 75658
+    },
+    {
+      "mes": "Out/25",
+      "valor": 75136
+    },
+    {
+      "mes": "Nov/25",
+      "valor": 74797
+    },
+    {
+      "mes": "Dez/25",
+      "valor": 74438
+    },
+    {
+      "mes": "Jan/26",
+      "valor": 74061
+    },
+    {
+      "mes": "Fev/26",
+      "valor": 73652
+    },
+    {
+      "mes": "Mar/26",
+      "valor": 73233
+    },
+    {
+      "mes": "Abr/26",
+      "valor": 72822
+    },
+    {
+      "mes": "Mai/26",
+      "valor": 72554
+    },
+    {
+      "mes": "Jun/26",
+      "valor": 72100
+    }
+  ],
+  "historico": [
+    {
+      "mes": "07/2024",
+      "valor": 81286
+    },
+    {
+      "mes": "08/2024",
+      "valor": 80957
+    },
+    {
+      "mes": "09/2024",
+      "valor": 80476
+    },
+    {
+      "mes": "10/2024",
+      "valor": 79919
+    },
+    {
+      "mes": "11/2024",
+      "valor": 79530
+    },
+    {
+      "mes": "12/2024",
+      "valor": 79084
+    },
+    {
+      "mes": "01/2025",
+      "valor": 78764
+    },
+    {
+      "mes": "02/2025",
+      "valor": 78473
+    },
+    {
+      "mes": "03/2025",
+      "valor": 77984
+    },
+    {
+      "mes": "04/2025",
+      "valor": 77654
+    },
+    {
+      "mes": "05/2025",
+      "valor": 77364
+    },
+    {
+      "mes": "06/2025",
+      "valor": 76943
+    },
+    {
+      "mes": "07/2025",
+      "valor": 76547
+    },
+    {
+      "mes": "08/2025",
+      "valor": 76051
+    },
+    {
+      "mes": "09/2025",
+      "valor": 75658
+    },
+    {
+      "mes": "10/2025",
+      "valor": 75136
+    },
+    {
+      "mes": "11/2025",
+      "valor": 74797
+    },
+    {
+      "mes": "12/2025",
+      "valor": 74438
+    },
+    {
+      "mes": "01/2026",
+      "valor": 74061
+    },
+    {
+      "mes": "02/2026",
+      "valor": 73652
+    },
+    {
+      "mes": "03/2026",
+      "valor": 73233
+    },
+    {
+      "mes": "04/2026",
+      "valor": 72822
+    },
+    {
+      "mes": "05/2026",
+      "valor": 72554
+    },
+    {
+      "mes": "06/2026",
+      "valor": 72100
+    }
+  ]
+}

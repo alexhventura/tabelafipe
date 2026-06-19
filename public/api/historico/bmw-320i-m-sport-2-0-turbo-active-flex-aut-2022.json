@@ -1,0 +1,219 @@
+{
+  "id": "bmw-320i-m-sport-2-0-turbo-active-flex-aut-2022",
+  "nome": "BMW 320i M Sport 2.0 Turbo Active Flex Aut. (2022)",
+  "marca": "BMW",
+  "modelo": "320i M Sport 2.0 Turbo Active Flex Aut.",
+  "anoModelo": 2022,
+  "fipeCodigo": "002157-1",
+  "codigoFipe": "002157-1",
+  "combustivel": "Flex",
+  "valorAtual": 247000,
+  "categoriaPecas": "alta",
+  "manutencao": "alta",
+  "consumo": {
+    "cidadeG": 9.9,
+    "cidadeE": 6.9,
+    "estradaG": 12.2,
+    "estradaE": 8.5,
+    "cidadeGasolina": 9.9,
+    "cidadeEtanol": 6.9,
+    "estradaGasolina": 12.2,
+    "estradaEtanol": 8.5
+  },
+  "historicoPrecos": [
+    {
+      "mes": "Jul/24",
+      "valor": 279648
+    },
+    {
+      "mes": "Ago/24",
+      "valor": 278584
+    },
+    {
+      "mes": "Set/24",
+      "valor": 276634
+    },
+    {
+      "mes": "Out/24",
+      "valor": 274762
+    },
+    {
+      "mes": "Nov/24",
+      "valor": 273557
+    },
+    {
+      "mes": "Dez/24",
+      "valor": 271822
+    },
+    {
+      "mes": "Jan/25",
+      "valor": 270005
+    },
+    {
+      "mes": "Fev/25",
+      "valor": 268472
+    },
+    {
+      "mes": "Mar/25",
+      "valor": 266959
+    },
+    {
+      "mes": "Abr/25",
+      "valor": 265919
+    },
+    {
+      "mes": "Mai/25",
+      "valor": 264433
+    },
+    {
+      "mes": "Jun/25",
+      "valor": 262801
+    },
+    {
+      "mes": "Jul/25",
+      "valor": 261413
+    },
+    {
+      "mes": "Ago/25",
+      "valor": 259605
+    },
+    {
+      "mes": "Set/25",
+      "valor": 258700
+    },
+    {
+      "mes": "Out/25",
+      "valor": 256931
+    },
+    {
+      "mes": "Nov/25",
+      "valor": 255529
+    },
+    {
+      "mes": "Dez/25",
+      "valor": 254022
+    },
+    {
+      "mes": "Jan/26",
+      "valor": 252998
+    },
+    {
+      "mes": "Fev/26",
+      "valor": 251855
+    },
+    {
+      "mes": "Mar/26",
+      "valor": 250484
+    },
+    {
+      "mes": "Abr/26",
+      "valor": 249184
+    },
+    {
+      "mes": "Mai/26",
+      "valor": 247971
+    },
+    {
+      "mes": "Jun/26",
+      "valor": 247000
+    }
+  ],
+  "historico": [
+    {
+      "mes": "07/2024",
+      "valor": 279648
+    },
+    {
+      "mes": "08/2024",
+      "valor": 278584
+    },
+    {
+      "mes": "09/2024",
+      "valor": 276634
+    },
+    {
+      "mes": "10/2024",
+      "valor": 274762
+    },
+    {
+      "mes": "11/2024",
+      "valor": 273557
+    },
+    {
+      "mes": "12/2024",
+      "valor": 271822
+    },
+    {
+      "mes": "01/2025",
+      "valor": 270005
+    },
+    {
+      "mes": "02/2025",
+      "valor": 268472
+    },
+    {
+      "mes": "03/2025",
+      "valor": 266959
+    },
+    {
+      "mes": "04/2025",
+      "valor": 265919
+    },
+    {
+      "mes": "05/2025",
+      "valor": 264433
+    },
+    {
+      "mes": "06/2025",
+      "valor": 262801
+    },
+    {
+      "mes": "07/2025",
+      "valor": 261413
+    },
+    {
+      "mes": "08/2025",
+      "valor": 259605
+    },
+    {
+      "mes": "09/2025",
+      "valor": 258700
+    },
+    {
+      "mes": "10/2025",
+      "valor": 256931
+    },
+    {
+      "mes": "11/2025",
+      "valor": 255529
+    },
+    {
+      "mes": "12/2025",
+      "valor": 254022
+    },
+    {
+      "mes": "01/2026",
+      "valor": 252998
+    },
+    {
+      "mes": "02/2026",
+      "valor": 251855
+    },
+    {
+      "mes": "03/2026",
+      "valor": 250484
+    },
+    {
+      "mes": "04/2026",
+      "valor": 249184
+    },
+    {
+      "mes": "05/2026",
+      "valor": 247971
+    },
+    {
+      "mes": "06/2026",
+      "valor": 247000
+    }
+  ]
+}

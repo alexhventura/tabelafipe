@@ -1,0 +1,33 @@
+@import "tailwindcss";
+
+@variant dark (&:where(.dark, .dark *));
+
+@theme {
+  --font-sans: "Arial", "Helvetica", sans-serif;
+  --font-serif: "Times New Roman", "Georgia", "serif";
+  --font-display: "Times New Roman", "Georgia", "serif";
+  --font-mono: "JetBrains Mono", ui-monospace, SFMono-Regular, monospace;
+}
+
+/* Custom scrollbars for a premium desktop applet touch */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+::-webkit-scrollbar-thumb {
+  background: #cbd5e1;
+  border-radius: 9999px;
+}
+.dark ::-webkit-scrollbar-thumb {
+  background: #475569;
+}
+
+/* Base body transitions */
+body {
+  transition: background-color 0.3s ease, color 0.3s ease;
+  font-feature-settings: "cv02", "cv03", "cv04", "cv11";
+}
+

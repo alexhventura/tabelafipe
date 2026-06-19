@@ -1,0 +1,219 @@
+{
+  "id": "honda-city-sedan-touring-1-5-flex-cvt-2023",
+  "nome": "Honda City Sedan Touring 1.5 Flex CVT (2023)",
+  "marca": "Honda",
+  "modelo": "City Sedan Touring 1.5 Flex CVT",
+  "anoModelo": 2023,
+  "fipeCodigo": "004155-1",
+  "codigoFipe": "004155-1",
+  "combustivel": "Flex",
+  "valorAtual": 122000,
+  "categoriaPecas": "media",
+  "manutencao": "media",
+  "consumo": {
+    "cidadeG": 11.6,
+    "cidadeE": 8.1,
+    "estradaG": 13.2,
+    "estradaE": 9.3,
+    "cidadeGasolina": 11.6,
+    "cidadeEtanol": 8.1,
+    "estradaGasolina": 13.2,
+    "estradaEtanol": 9.3
+  },
+  "historicoPrecos": [
+    {
+      "mes": "Jul/24",
+      "valor": 138926
+    },
+    {
+      "mes": "Ago/24",
+      "valor": 137946
+    },
+    {
+      "mes": "Set/24",
+      "valor": 137218
+    },
+    {
+      "mes": "Out/24",
+      "valor": 136588
+    },
+    {
+      "mes": "Nov/24",
+      "valor": 135891
+    },
+    {
+      "mes": "Dez/24",
+      "valor": 135387
+    },
+    {
+      "mes": "Jan/25",
+      "valor": 134422
+    },
+    {
+      "mes": "Fev/25",
+      "valor": 133516
+    },
+    {
+      "mes": "Mar/25",
+      "valor": 132977
+    },
+    {
+      "mes": "Abr/25",
+      "valor": 132497
+    },
+    {
+      "mes": "Mai/25",
+      "valor": 131600
+    },
+    {
+      "mes": "Jun/25",
+      "valor": 130621
+    },
+    {
+      "mes": "Jul/25",
+      "valor": 129968
+    },
+    {
+      "mes": "Ago/25",
+      "valor": 129391
+    },
+    {
+      "mes": "Set/25",
+      "valor": 128499
+    },
+    {
+      "mes": "Out/25",
+      "valor": 127876
+    },
+    {
+      "mes": "Nov/25",
+      "valor": 127073
+    },
+    {
+      "mes": "Dez/25",
+      "valor": 126158
+    },
+    {
+      "mes": "Jan/26",
+      "valor": 125705
+    },
+    {
+      "mes": "Fev/26",
+      "valor": 124916
+    },
+    {
+      "mes": "Mar/26",
+      "valor": 124056
+    },
+    {
+      "mes": "Abr/26",
+      "valor": 123549
+    },
+    {
+      "mes": "Mai/26",
+      "valor": 122796
+    },
+    {
+      "mes": "Jun/26",
+      "valor": 122000
+    }
+  ],
+  "historico": [
+    {
+      "mes": "07/2024",
+      "valor": 138926
+    },
+    {
+      "mes": "08/2024",
+      "valor": 137946
+    },
+    {
+      "mes": "09/2024",
+      "valor": 137218
+    },
+    {
+      "mes": "10/2024",
+      "valor": 136588
+    },
+    {
+      "mes": "11/2024",
+      "valor": 135891
+    },
+    {
+      "mes": "12/2024",
+      "valor": 135387
+    },
+    {
+      "mes": "01/2025",
+      "valor": 134422
+    },
+    {
+      "mes": "02/2025",
+      "valor": 133516
+    },
+    {
+      "mes": "03/2025",
+      "valor": 132977
+    },
+    {
+      "mes": "04/2025",
+      "valor": 132497
+    },
+    {
+      "mes": "05/2025",
+      "valor": 131600
+    },
+    {
+      "mes": "06/2025",
+      "valor": 130621
+    },
+    {
+      "mes": "07/2025",
+      "valor": 129968
+    },
+    {
+      "mes": "08/2025",
+      "valor": 129391
+    },
+    {
+      "mes": "09/2025",
+      "valor": 128499
+    },
+    {
+      "mes": "10/2025",
+      "valor": 127876
+    },
+    {
+      "mes": "11/2025",
+      "valor": 127073
+    },
+    {
+      "mes": "12/2025",
+      "valor": 126158
+    },
+    {
+      "mes": "01/2026",
+      "valor": 125705
+    },
+    {
+      "mes": "02/2026",
+      "valor": 124916
+    },
+    {
+      "mes": "03/2026",
+      "valor": 124056
+    },
+    {
+      "mes": "04/2026",
+      "valor": 123549
+    },
+    {
+      "mes": "05/2026",
+      "valor": 122796
+    },
+    {
+      "mes": "06/2026",
+      "valor": 122000
+    }
+  ]
+}

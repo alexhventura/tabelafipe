@@ -1,0 +1,219 @@
+{
+  "id": "jeep-compass-limited-td350-4x4-diesel-aut-2021",
+  "nome": "Jeep Compass Limited TD350 4x4 Diesel Aut. (2021)",
+  "marca": "Jeep",
+  "modelo": "Compass Limited TD350 4x4 Diesel Aut.",
+  "anoModelo": 2021,
+  "fipeCodigo": "003980-7",
+  "codigoFipe": "003980-7",
+  "combustivel": "Diesel",
+  "valorAtual": 172000,
+  "categoriaPecas": "media",
+  "manutencao": "media",
+  "consumo": {
+    "cidadeG": 11.2,
+    "cidadeE": 11.2,
+    "estradaG": 14.5,
+    "estradaE": 14.5,
+    "cidadeGasolina": 11.2,
+    "cidadeEtanol": 11.2,
+    "estradaGasolina": 14.5,
+    "estradaEtanol": 14.5
+  },
+  "historicoPrecos": [
+    {
+      "mes": "Jul/24",
+      "valor": 196969
+    },
+    {
+      "mes": "Ago/24",
+      "valor": 195885
+    },
+    {
+      "mes": "Set/24",
+      "valor": 194614
+    },
+    {
+      "mes": "Out/24",
+      "valor": 193201
+    },
+    {
+      "mes": "Nov/24",
+      "valor": 192391
+    },
+    {
+      "mes": "Dez/24",
+      "valor": 191363
+    },
+    {
+      "mes": "Jan/25",
+      "valor": 190370
+    },
+    {
+      "mes": "Fev/25",
+      "valor": 189050
+    },
+    {
+      "mes": "Mar/25",
+      "valor": 188243
+    },
+    {
+      "mes": "Abr/25",
+      "valor": 187270
+    },
+    {
+      "mes": "Mai/25",
+      "valor": 185952
+    },
+    {
+      "mes": "Jun/25",
+      "valor": 184823
+    },
+    {
+      "mes": "Jul/25",
+      "valor": 183476
+    },
+    {
+      "mes": "Ago/25",
+      "valor": 182444
+    },
+    {
+      "mes": "Set/25",
+      "valor": 181571
+    },
+    {
+      "mes": "Out/25",
+      "valor": 180390
+    },
+    {
+      "mes": "Nov/25",
+      "valor": 179117
+    },
+    {
+      "mes": "Dez/25",
+      "valor": 177856
+    },
+    {
+      "mes": "Jan/26",
+      "valor": 176897
+    },
+    {
+      "mes": "Fev/26",
+      "valor": 175824
+    },
+    {
+      "mes": "Mar/26",
+      "valor": 174951
+    },
+    {
+      "mes": "Abr/26",
+      "valor": 173981
+    },
+    {
+      "mes": "Mai/26",
+      "valor": 172990
+    },
+    {
+      "mes": "Jun/26",
+      "valor": 172000
+    }
+  ],
+  "historico": [
+    {
+      "mes": "07/2024",
+      "valor": 196969
+    },
+    {
+      "mes": "08/2024",
+      "valor": 195885
+    },
+    {
+      "mes": "09/2024",
+      "valor": 194614
+    },
+    {
+      "mes": "10/2024",
+      "valor": 193201
+    },
+    {
+      "mes": "11/2024",
+      "valor": 192391
+    },
+    {
+      "mes": "12/2024",
+      "valor": 191363
+    },
+    {
+      "mes": "01/2025",
+      "valor": 190370
+    },
+    {
+      "mes": "02/2025",
+      "valor": 189050
+    },
+    {
+      "mes": "03/2025",
+      "valor": 188243
+    },
+    {
+      "mes": "04/2025",
+      "valor": 187270
+    },
+    {
+      "mes": "05/2025",
+      "valor": 185952
+    },
+    {
+      "mes": "06/2025",
+      "valor": 184823
+    },
+    {
+      "mes": "07/2025",
+      "valor": 183476
+    },
+    {
+      "mes": "08/2025",
+      "valor": 182444
+    },
+    {
+      "mes": "09/2025",
+      "valor": 181571
+    },
+    {
+      "mes": "10/2025",
+      "valor": 180390
+    },
+    {
+      "mes": "11/2025",
+      "valor": 179117
+    },
+    {
+      "mes": "12/2025",
+      "valor": 177856
+    },
+    {
+      "mes": "01/2026",
+      "valor": 176897
+    },
+    {
+      "mes": "02/2026",
+      "valor": 175824
+    },
+    {
+      "mes": "03/2026",
+      "valor": 174951
+    },
+    {
+      "mes": "04/2026",
+      "valor": 173981
+    },
+    {
+      "mes": "05/2026",
+      "valor": 172990
+    },
+    {
+      "mes": "06/2026",
+      "valor": 172000
+    }
+  ]
+}

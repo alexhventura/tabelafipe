@@ -1,0 +1,115 @@
+{
+  "id": "gm-chevrolet-melt-spin-ltz-1-8-flex-aut-7l-2019",
+  "nome": "GM - Chevrolet Melt Spin LTZ 1.8 Flex Aut. 7L (2019)",
+  "marca": "GM - Chevrolet",
+  "modelo": "Melt Spin LTZ 1.8 Flex Aut. 7L",
+  "anoModelo": 2019,
+  "fipeCodigo": "008188-4",
+  "combustivel": "Flex",
+  "valorAtual": 69900,
+  "categoriaPecas": "baixa",
+  "consumo": {
+    "cidadeG": 9.8,
+    "cidadeE": 6.8,
+    "estradaG": 12,
+    "estradaE": 8.4
+  },
+  "historicoPrecos": [
+    {
+      "mes": "Jul/24",
+      "valor": 78550
+    },
+    {
+      "mes": "Ago/24",
+      "valor": 78154
+    },
+    {
+      "mes": "Set/24",
+      "valor": 77629
+    },
+    {
+      "mes": "Out/24",
+      "valor": 77291
+    },
+    {
+      "mes": "Nov/24",
+      "valor": 76947
+    },
+    {
+      "mes": "Dez/24",
+      "valor": 76493
+    },
+    {
+      "mes": "Jan/25",
+      "valor": 76196
+    },
+    {
+      "mes": "Fev/25",
+      "valor": 75757
+    },
+    {
+      "mes": "Mar/25",
+      "valor": 75369
+    },
+    {
+      "mes": "Abr/25",
+      "valor": 75033
+    },
+    {
+      "mes": "Mai/25",
+      "valor": 74676
+    },
+    {
+      "mes": "Jun/25",
+      "valor": 74165
+    },
+    {
+      "mes": "Jul/25",
+      "valor": 73852
+    },
+    {
+      "mes": "Ago/25",
+      "valor": 73533
+    },
+    {
+      "mes": "Set/25",
+      "valor": 73171
+    },
+    {
+      "mes": "Out/25",
+      "valor": 72842
+    },
+    {
+      "mes": "Nov/25",
+      "valor": 72350
+    },
+    {
+      "mes": "Dez/25",
+      "valor": 72094
+    },
+    {
+      "mes": "Jan/26",
+      "valor": 71634
+    },
+    {
+      "mes": "Fev/26",
+      "valor": 71364
+    },
+    {
+      "mes": "Mar/26",
+      "valor": 71098
+    },
+    {
+      "mes": "Abr/26",
+      "valor": 70656
+    },
+    {
+      "mes": "Mai/26",
+      "valor": 70282
+    },
+    {
+      "mes": "Jun/26",
+      "valor": 69900
+    }
+  ]
+}

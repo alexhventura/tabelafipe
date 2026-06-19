@@ -1,0 +1,530 @@
+[
+  {
+    "id": "fiat-uno-vivace-1-0-celebration-flex-2p-2014",
+    "termoBusca": "fiat uno vivace 1.0 celebration flex 2p flex 2014 fiat uno palio argo pulse mobi toro cronos strada crosa fiorino fastback siena grand siena team line",
+    "nome": "Fiat Uno Vivace 1.0 Celebration Flex 2p (2014)",
+    "valor": 28900
+  },
+  {
+    "id": "fiat-uno-way-1-4-fire-flex-4p-2013",
+    "termoBusca": "fiat uno way 1.4 fire flex 4p flex 2013 fiat uno palio argo pulse mobi toro cronos strada crosa fiorino fastback siena grand siena team line",
+    "nome": "Fiat Uno Way 1.4 Fire Flex 4p (2013)",
+    "valor": 29500
+  },
+  {
+    "id": "fiat-palio-attractive-1-0-fire-flex-4p-2015",
+    "termoBusca": "fiat palio attractive 1.0 fire flex 4p flex 2015 fiat uno palio argo pulse mobi toro cronos strada crosa fiorino fastback siena grand siena team line",
+    "nome": "Fiat Palio Attractive 1.0 Fire Flex 4p (2015)",
+    "valor": 36500
+  },
+  {
+    "id": "fiat-mobi-easy-1-0-fire-flex-4p-2020",
+    "termoBusca": "fiat mobi easy 1.0 fire flex 4p flex 2020 fiat uno palio argo pulse mobi toro cronos strada crosa fiorino fastback siena grand siena team line",
+    "nome": "Fiat Mobi Easy 1.0 Fire Flex 4p (2020)",
+    "valor": 45900
+  },
+  {
+    "id": "fiat-mobi-like-1-0-fire-flex-4p-2022",
+    "termoBusca": "fiat mobi like 1.0 fire flex 4p flex 2022 fiat uno palio argo pulse mobi toro cronos strada crosa fiorino fastback siena grand siena team line",
+    "nome": "Fiat Mobi Like 1.0 Fire Flex 4p (2022)",
+    "valor": 52400
+  },
+  {
+    "id": "fiat-argo-drive-1-0-3-cyl-flex-4p-2022",
+    "termoBusca": "fiat argo drive 1.0 3-cyl flex 4p flex 2022 fiat uno palio argo pulse mobi toro cronos strada crosa fiorino fastback siena grand siena team line",
+    "nome": "Fiat Argo Drive 1.0 3-Cyl Flex 4p (2022)",
+    "valor": 68700
+  },
+  {
+    "id": "fiat-argo-trekking-1-3-flex-4p-2021",
+    "termoBusca": "fiat argo trekking 1.3 flex 4p flex 2021 fiat uno palio argo pulse mobi toro cronos strada crosa fiorino fastback siena grand siena team line",
+    "nome": "Fiat Argo Trekking 1.3 Flex 4p (2021)",
+    "valor": 72100
+  },
+  {
+    "id": "fiat-toro-volcano-2-0-16v-4x4-diesel-aut-2023",
+    "termoBusca": "fiat toro volcano 2.0 16v 4x4 diesel aut. diesel 2023 fiat uno palio argo pulse mobi toro cronos strada crosa fiorino fastback siena grand siena team line",
+    "nome": "Fiat Toro Volcano 2.0 16V 4x4 Diesel Aut. (2023)",
+    "valor": 148000
+  },
+  {
+    "id": "fiat-strada-freedom-1-3-flex-cabine-plus-2022",
+    "termoBusca": "fiat strada freedom 1.3 flex cabine plus flex 2022 fiat uno palio argo pulse mobi toro cronos strada crosa fiorino fastback siena grand siena team line",
+    "nome": "Fiat Strada Freedom 1.3 Flex Cabine Plus (2022)",
+    "valor": 89300
+  },
+  {
+    "id": "fiat-strada-volcano-1-3-flex-cabine-dupla-2023",
+    "termoBusca": "fiat strada volcano 1.3 flex cabine dupla flex 2023 fiat uno palio argo pulse mobi toro cronos strada crosa fiorino fastback siena grand siena team line",
+    "nome": "Fiat Strada Volcano 1.3 Flex Cabine Dupla (2023)",
+    "valor": 104500
+  },
+  {
+    "id": "fiat-pulse-drive-1-3-flex-manual-2023",
+    "termoBusca": "fiat pulse drive 1.3 flex manual flex 2023 fiat uno palio argo pulse mobi toro cronos strada crosa fiorino fastback siena grand siena team line",
+    "nome": "Fiat Pulse Drive 1.3 Flex manual (2023)",
+    "valor": 92400
+  },
+  {
+    "id": "fiat-cronos-drive-1-3-flex-4p-2021",
+    "termoBusca": "fiat cronos drive 1.3 flex 4p flex 2021 fiat uno palio argo pulse mobi toro cronos strada crosa fiorino fastback siena grand siena team line",
+    "nome": "Fiat Cronos Drive 1.3 Flex 4p (2021)",
+    "valor": 74900
+  },
+  {
+    "id": "fiat-fastback-audace-1-0-turbo-flex-aut-2023",
+    "termoBusca": "fiat fastback audace 1.0 turbo flex aut. flex 2023 fiat uno palio argo pulse mobi toro cronos strada crosa fiorino fastback siena grand siena team line",
+    "nome": "Fiat Fastback Audace 1.0 Turbo Flex Aut. (2023)",
+    "valor": 121000
+  },
+  {
+    "id": "vw-volkswagen-gol-comfortline-1-6-flex-manual-2015",
+    "termoBusca": "vw - volkswagen gol comfortline 1.6 flex manual flex 2015 volkswagen vw gol polo golf voyage t-cross nivus fox jetta up up! virtus saveiro",
+    "nome": "VW - Volkswagen Gol Comfortline 1.6 Flex manual (2015)",
+    "valor": 39500
+  },
+  {
+    "id": "vw-volkswagen-gol-trendline-1-0-flex-4p-2018",
+    "termoBusca": "vw - volkswagen gol trendline 1.0 flex 4p flex 2018 volkswagen vw gol polo golf voyage t-cross nivus fox jetta up up! virtus saveiro",
+    "nome": "VW - Volkswagen Gol Trendline 1.0 Flex 4p (2018)",
+    "valor": 46200
+  },
+  {
+    "id": "vw-volkswagen-polo-comfortline-1-0-tsi-flex-aut-2020",
+    "termoBusca": "vw - volkswagen polo comfortline 1.0 tsi flex aut. flex 2020 volkswagen vw gol polo golf voyage t-cross nivus fox jetta up up! virtus saveiro",
+    "nome": "VW - Volkswagen Polo Comfortline 1.0 TSI Flex Aut. (2020)",
+    "valor": 76400
+  },
+  {
+    "id": "vw-volkswagen-polo-track-1-0-flex-4p-2023",
+    "termoBusca": "vw - volkswagen polo track 1.0 flex 4p flex 2023 volkswagen vw gol polo golf voyage t-cross nivus fox jetta up up! virtus saveiro",
+    "nome": "VW - Volkswagen Polo Track 1.0 Flex 4p (2023)",
+    "valor": 74900
+  },
+  {
+    "id": "vw-volkswagen-voyage-comfortline-1-6-flex-4p-2016",
+    "termoBusca": "vw - volkswagen voyage comfortline 1.6 flex 4p flex 2016 volkswagen vw gol polo golf voyage t-cross nivus fox jetta up up! virtus saveiro",
+    "nome": "VW - Volkswagen Voyage Comfortline 1.6 Flex 4p (2016)",
+    "valor": 43200
+  },
+  {
+    "id": "vw-volkswagen-t-cross-comforline-250-tsi-flex-aut-2022",
+    "termoBusca": "vw - volkswagen t-cross comforline 250 tsi flex aut. flex 2022 volkswagen vw gol polo golf voyage t-cross nivus fox jetta up up! virtus saveiro",
+    "nome": "VW - Volkswagen T-Cross Comforline 250 TSI Flex Aut. (2022)",
+    "valor": 118400
+  },
+  {
+    "id": "vw-volkswagen-nivus-comfortline-200-tsi-flex-aut-2023",
+    "termoBusca": "vw - volkswagen nivus comfortline 200 tsi flex aut. flex 2023 volkswagen vw gol polo golf voyage t-cross nivus fox jetta up up! virtus saveiro",
+    "nome": "VW - Volkswagen Nivus Comfortline 200 TSI Flex Aut. (2023)",
+    "valor": 119900
+  },
+  {
+    "id": "vw-volkswagen-virtus-comfortline-200-tsi-flex-aut-2019",
+    "termoBusca": "vw - volkswagen virtus comfortline 200 tsi flex aut. flex 2019 volkswagen vw gol polo golf voyage t-cross nivus fox jetta up up! virtus saveiro",
+    "nome": "VW - Volkswagen Virtus Comfortline 200 TSI Flex Aut. (2019)",
+    "valor": 78900
+  },
+  {
+    "id": "vw-volkswagen-jetta-gli-2-0-350-tsi-dsg-2021",
+    "termoBusca": "vw - volkswagen jetta gli 2.0 350 tsi dsg gasolina 2021 volkswagen vw gol polo golf voyage t-cross nivus fox jetta up up! virtus saveiro",
+    "nome": "VW - Volkswagen Jetta GLi 2.0 350 TSI DSG (2021)",
+    "valor": 178000
+  },
+  {
+    "id": "vw-volkswagen-fox-pepper-1-6-flex-16v-2017",
+    "termoBusca": "vw - volkswagen fox pepper 1.6 flex 16v flex 2017 volkswagen vw gol polo golf voyage t-cross nivus fox jetta up up! virtus saveiro",
+    "nome": "VW - Volkswagen Fox Pepper 1.6 Flex 16V (2017)",
+    "valor": 54900
+  },
+  {
+    "id": "vw-volkswagen-up-move-1-0-tsi-flex-4p-2018",
+    "termoBusca": "vw - volkswagen up! move 1.0 tsi flex 4p flex 2018 volkswagen vw gol polo golf voyage t-cross nivus fox jetta up up! virtus saveiro",
+    "nome": "VW - Volkswagen Up! Move 1.0 TSI Flex 4p (2018)",
+    "valor": 53900
+  },
+  {
+    "id": "gm-chevrolet-onix-lt-1-0-flex-manual-2019",
+    "termoBusca": "gm - chevrolet onix lt 1.0 flex manual flex 2019 gm chevrolet general motors corsa onix tracker s10 celta prisma cruze spin",
+    "nome": "GM - Chevrolet Onix LT 1.0 Flex manual (2019)",
+    "valor": 52800
+  },
+  {
+    "id": "gm-chevrolet-onix-joy-1-0-flex-4p-2018",
+    "termoBusca": "gm - chevrolet onix joy 1.0 flex 4p flex 2018 gm chevrolet general motors corsa onix tracker s10 celta prisma cruze spin",
+    "nome": "GM - Chevrolet Onix Joy 1.0 Flex 4p (2018)",
+    "valor": 44900
+  },
+  {
+    "id": "gm-chevrolet-onix-premier-1-0-turbo-flex-aut-2022",
+    "termoBusca": "gm - chevrolet onix premier 1.0 turbo flex aut. flex 2022 gm chevrolet general motors corsa onix tracker s10 celta prisma cruze spin",
+    "nome": "GM - Chevrolet Onix Premier 1.0 Turbo Flex Aut. (2022)",
+    "valor": 85900
+  },
+  {
+    "id": "gm-chevrolet-prisma-ltz-1-4-active-flex-aut-2018",
+    "termoBusca": "gm - chevrolet prisma ltz 1.4 active flex aut. flex 2018 gm chevrolet general motors corsa onix tracker s10 celta prisma cruze spin",
+    "nome": "GM - Chevrolet Prisma LTZ 1.4 Active Flex Aut. (2018)",
+    "valor": 61500
+  },
+  {
+    "id": "gm-chevrolet-tracker-premier-1-2-turbo-flex-aut-2021",
+    "termoBusca": "gm - chevrolet tracker premier 1.2 turbo flex aut. flex 2021 gm chevrolet general motors corsa onix tracker s10 celta prisma cruze spin",
+    "nome": "GM - Chevrolet Tracker Premier 1.2 Turbo Flex Aut. (2021)",
+    "valor": 104500
+  },
+  {
+    "id": "gm-chevrolet-tracker-lt-1-0-turbo-flex-aut-2022",
+    "termoBusca": "gm - chevrolet tracker lt 1.0 turbo flex aut. flex 2022 gm chevrolet general motors corsa onix tracker s10 celta prisma cruze spin",
+    "nome": "GM - Chevrolet Tracker LT 1.0 Turbo Flex Aut. (2022)",
+    "valor": 111000
+  },
+  {
+    "id": "gm-chevrolet-cruze-sedan-ltz-1-4-ecotec-turbo-aut-2020",
+    "termoBusca": "gm - chevrolet cruze sedan ltz 1.4 ecotec turbo aut. flex 2020 gm chevrolet general motors corsa onix tracker s10 celta prisma cruze spin",
+    "nome": "GM - Chevrolet Cruze Sedan LTZ 1.4 Ecotec Turbo Aut. (2020)",
+    "valor": 94800
+  },
+  {
+    "id": "gm-chevrolet-spin-ltz-1-8-flex-aut-7l-2019",
+    "termoBusca": "gm - chevrolet spin ltz 1.8 flex aut. 7l flex 2019 gm chevrolet general motors corsa onix tracker s10 celta prisma cruze spin",
+    "nome": "GM - Chevrolet Spin LTZ 1.8 Flex Aut. 7L (2019)",
+    "valor": 69900
+  },
+  {
+    "id": "gm-chevrolet-celta-lt-1-0-mpfi-8v-flex-4p-2014",
+    "termoBusca": "gm - chevrolet celta lt 1.0 mpfi 8v flex 4p flex 2014 gm chevrolet general motors corsa onix tracker s10 celta prisma cruze spin",
+    "nome": "GM - Chevrolet Celta LT 1.0 MPFI 8V Flex 4p (2014)",
+    "valor": 31200
+  },
+  {
+    "id": "gm-chevrolet-s10-high-country-2-8-4x4-diesel-aut-2022",
+    "termoBusca": "gm - chevrolet s10 high country 2.8 4x4 diesel aut diesel 2022 gm chevrolet general motors corsa onix tracker s10 celta prisma cruze spin",
+    "nome": "GM - Chevrolet S10 High Country 2.8 4x4 Diesel Aut (2022)",
+    "valor": 215000
+  },
+  {
+    "id": "hyundai-hb20-comfort-plus-1-0-flex-manual-2018",
+    "termoBusca": "hyundai hb20 comfort plus 1.0 flex manual flex 2018 hyundai hb20 hb20s creta tucson ix35 elantra azera veloster sonata",
+    "nome": "Hyundai HB20 Comfort Plus 1.0 Flex manual (2018)",
+    "valor": 51200
+  },
+  {
+    "id": "hyundai-hb20-evolution-1-0-turbo-flex-automatico-2020",
+    "termoBusca": "hyundai hb20 evolution 1.0 turbo flex automatico flex 2020 hyundai hb20 hb20s creta tucson ix35 elantra azera veloster sonata",
+    "nome": "Hyundai HB20 Evolution 1.0 Turbo Flex automático (2020)",
+    "valor": 64900
+  },
+  {
+    "id": "hyundai-hb20s-vision-1-6-flex-aut-2021",
+    "termoBusca": "hyundai hb20s vision 1.6 flex aut. flex 2021 hyundai hb20 hb20s creta tucson ix35 elantra azera veloster sonata",
+    "nome": "Hyundai HB20S Vision 1.6 Flex Aut. (2021)",
+    "valor": 73500
+  },
+  {
+    "id": "hyundai-hb20-platinum-safety-1-0-turbo-aut-2023",
+    "termoBusca": "hyundai hb20 platinum safety 1.0 turbo aut. flex 2023 hyundai hb20 hb20s creta tucson ix35 elantra azera veloster sonata",
+    "nome": "Hyundai HB20 Platinum Safety 1.0 Turbo Aut. (2023)",
+    "valor": 91400
+  },
+  {
+    "id": "hyundai-creta-prestige-2-0-flex-aut-2020",
+    "termoBusca": "hyundai creta prestige 2.0 flex aut. flex 2020 hyundai hb20 hb20s creta tucson ix35 elantra azera veloster sonata",
+    "nome": "Hyundai Creta Prestige 2.0 Flex Aut. (2020)",
+    "valor": 98900
+  },
+  {
+    "id": "hyundai-creta-limited-1-0-tgdi-flex-aut-2022",
+    "termoBusca": "hyundai creta limited 1.0 tgdi flex aut. flex 2022 hyundai hb20 hb20s creta tucson ix35 elantra azera veloster sonata",
+    "nome": "Hyundai Creta Limited 1.0 TGDI Flex Aut. (2022)",
+    "valor": 114000
+  },
+  {
+    "id": "hyundai-creta-ultimate-2-0-flex-aut-2023",
+    "termoBusca": "hyundai creta ultimate 2.0 flex aut. flex 2023 hyundai hb20 hb20s creta tucson ix35 elantra azera veloster sonata",
+    "nome": "Hyundai Creta Ultimate 2.0 Flex Aut. (2023)",
+    "valor": 151000
+  },
+  {
+    "id": "hyundai-tucson-gl-1-6-turbo-gasolina-aut-2018",
+    "termoBusca": "hyundai tucson gl 1.6 turbo gasolina aut. gasolina 2018 hyundai hb20 hb20s creta tucson ix35 elantra azera veloster sonata",
+    "nome": "Hyundai Tucson GL 1.6 Turbo Gasolina Aut. (2018)",
+    "valor": 89900
+  },
+  {
+    "id": "toyota-corolla-xei-2-0-flex-automatico-2021",
+    "termoBusca": "toyota corolla xei 2.0 flex automatico flex 2021 toyota corolla hilux fipe etios yaris sw4 rav4",
+    "nome": "Toyota Corolla XEi 2.0 Flex automático (2021)",
+    "valor": 115000
+  },
+  {
+    "id": "toyota-corolla-gli-2-0-flex-aut-2020",
+    "termoBusca": "toyota corolla gli 2.0 flex aut. flex 2020 toyota corolla hilux fipe etios yaris sw4 rav4",
+    "nome": "Toyota Corolla GLi 2.0 Flex Aut. (2020)",
+    "valor": 102500
+  },
+  {
+    "id": "toyota-corolla-altis-premium-1-8-hybrid-aut-2022",
+    "termoBusca": "toyota corolla altis premium 1.8 hybrid aut. hibrido 2022 toyota corolla hilux fipe etios yaris sw4 rav4",
+    "nome": "Toyota Corolla Altis Premium 1.8 Hybrid aut. (2022)",
+    "valor": 144500
+  },
+  {
+    "id": "toyota-yaris-hatch-xls-1-5-flex-aut-2022",
+    "termoBusca": "toyota yaris hatch xls 1.5 flex aut. flex 2022 toyota corolla hilux fipe etios yaris sw4 rav4",
+    "nome": "Toyota Yaris Hatch XLS 1.5 Flex Aut. (2022)",
+    "valor": 88900
+  },
+  {
+    "id": "toyota-hilux-srv-4x4-2-8-turbo-diesel-aut-2021",
+    "termoBusca": "toyota hilux srv 4x4 2.8 turbo diesel aut. diesel 2021 toyota corolla hilux fipe etios yaris sw4 rav4",
+    "nome": "Toyota Hilux SRV 4x4 2.8 Turbo Diesel Aut. (2021)",
+    "valor": 212000
+  },
+  {
+    "id": "toyota-etios-xs-1-5-flex-16v-manual-2016",
+    "termoBusca": "toyota etios xs 1.5 flex 16v manual flex 2016 toyota corolla hilux fipe etios yaris sw4 rav4",
+    "nome": "Toyota Etios XS 1.5 Flex 16V manual (2016)",
+    "valor": 46800
+  },
+  {
+    "id": "toyota-corolla-cross-xre-2-0-flex-aut-2022",
+    "termoBusca": "toyota corolla cross xre 2.0 flex aut. flex 2022 toyota corolla hilux fipe etios yaris sw4 rav4",
+    "nome": "Toyota Corolla Cross XRE 2.0 Flex Aut. (2022)",
+    "valor": 139900
+  },
+  {
+    "id": "toyota-sw4-srx-2-8-4x4-diesel-aut-7l-2021",
+    "termoBusca": "toyota sw4 srx 2.8 4x4 diesel aut. 7l diesel 2021 toyota corolla hilux fipe etios yaris sw4 rav4",
+    "nome": "Toyota SW4 SRX 2.8 4x4 Diesel Aut. 7L (2021)",
+    "valor": 279000
+  },
+  {
+    "id": "honda-civic-lxr-2-0-i-vtec-flex-aut-2015",
+    "termoBusca": "honda civic lxr 2.0 i-vtec flex aut. flex 2015 honda civic hr-v hrv fit city civicaccord cr-v crv wr-v wrv fit exl touring limited ex lx",
+    "nome": "Honda Civic LXR 2.0 i-VTEC Flex Aut. (2015)",
+    "valor": 71200
+  },
+  {
+    "id": "honda-civic-exl-2-0-flex-cvt-2018",
+    "termoBusca": "honda civic exl 2.0 flex cvt flex 2018 honda civic hr-v hrv fit city civicaccord cr-v crv wr-v wrv fit exl touring limited ex lx",
+    "nome": "Honda Civic EXL 2.0 Flex CVT (2018)",
+    "valor": 104000
+  },
+  {
+    "id": "honda-civic-touring-1-5-turbo-gasolina-cvt-2020",
+    "termoBusca": "honda civic touring 1.5 turbo gasolina cvt gasolina 2020 honda civic hr-v hrv fit city civicaccord cr-v crv wr-v wrv fit exl touring limited ex lx",
+    "nome": "Honda Civic Touring 1.5 Turbo Gasolina CVT (2020)",
+    "valor": 139000
+  },
+  {
+    "id": "honda-hr-v-exl-1-8-16v-flex-cvt-2019",
+    "termoBusca": "honda hr-v exl 1.8 16v flex cvt flex 2019 honda civic hr-v hrv fit city civicaccord cr-v crv wr-v wrv fit exl touring limited ex lx",
+    "nome": "Honda HR-V EXL 1.8 16V Flex CVT (2019)",
+    "valor": 96400
+  },
+  {
+    "id": "honda-hr-v-exl-1-5-flex-cvt-2023",
+    "termoBusca": "honda hr-v exl 1.5 flex cvt flex 2023 honda civic hr-v hrv fit city civicaccord cr-v crv wr-v wrv fit exl touring limited ex lx",
+    "nome": "Honda HR-V EXL 1.5 Flex CVT (2023)",
+    "valor": 142000
+  },
+  {
+    "id": "honda-fit-exl-1-5-flex-cvt-2018",
+    "termoBusca": "honda fit exl 1.5 flex cvt flex 2018 honda civic hr-v hrv fit city civicaccord cr-v crv wr-v wrv fit exl touring limited ex lx",
+    "nome": "Honda Fit EXL 1.5 Flex CVT (2018)",
+    "valor": 75400
+  },
+  {
+    "id": "honda-city-exl-1-5-flex-cvt-2021",
+    "termoBusca": "honda city exl 1.5 flex cvt flex 2021 honda civic hr-v hrv fit city civicaccord cr-v crv wr-v wrv fit exl touring limited ex lx",
+    "nome": "Honda City EXL 1.5 Flex CVT (2021)",
+    "valor": 89900
+  },
+  {
+    "id": "honda-city-sedan-touring-1-5-flex-cvt-2023",
+    "termoBusca": "honda city sedan touring 1.5 flex cvt flex 2023 honda civic hr-v hrv fit city civicaccord cr-v crv wr-v wrv fit exl touring limited ex lx",
+    "nome": "Honda City Sedan Touring 1.5 Flex CVT (2023)",
+    "valor": 122000
+  },
+  {
+    "id": "ford-ka-se-1-0-tivct-flex-4p-2019",
+    "termoBusca": "ford ka se 1.0 tivct flex 4p flex 2019 ford ka fiesta eco ecosport focus ranger fusion edge territory",
+    "nome": "Ford Ka SE 1.0 TiVCT Flex 4p (2019)",
+    "valor": 47900
+  },
+  {
+    "id": "ford-fiesta-titanium-1-6-flex-16v-manual-2015",
+    "termoBusca": "ford fiesta titanium 1.6 flex 16v manual flex 2015 ford ka fiesta eco ecosport focus ranger fusion edge territory",
+    "nome": "Ford Fiesta Titanium 1.6 Flex 16V manual (2015)",
+    "valor": 42900
+  },
+  {
+    "id": "ford-ecosport-freestyle-1-5-dragon-flex-aut-2019",
+    "termoBusca": "ford ecosport freestyle 1.5 dragon flex aut. flex 2019 ford ka fiesta eco ecosport focus ranger fusion edge territory",
+    "nome": "Ford EcoSport FreeStyle 1.5 Dragon Flex Aut. (2019)",
+    "valor": 72800
+  },
+  {
+    "id": "ford-ranger-xlt-3-2-20v-4x4-diesel-aut-2020",
+    "termoBusca": "ford ranger xlt 3.2 20v 4x4 diesel aut. diesel 2020 ford ka fiesta eco ecosport focus ranger fusion edge territory",
+    "nome": "Ford Ranger XLT 3.2 20V 4x4 Diesel Aut. (2020)",
+    "valor": 175000
+  },
+  {
+    "id": "ford-fusion-titanium-2-0-ecoboost-awd-aut-2017",
+    "termoBusca": "ford fusion titanium 2.0 ecoboost awd aut. gasolina 2017 ford ka fiesta eco ecosport focus ranger fusion edge territory",
+    "nome": "Ford Fusion Titanium 2.0 EcoBoost AWD Aut. (2017)",
+    "valor": 84900
+  },
+  {
+    "id": "renault-kwid-intense-1-0-flex-12v-2021",
+    "termoBusca": "renault kwid intense 1.0 flex 12v flex 2021 renault kwid sandero duster logan captur oroch clio scenic megane fluence stepway",
+    "nome": "Renault Kwid Intense 1.0 Flex 12V (2021)",
+    "valor": 43500
+  },
+  {
+    "id": "renault-sandero-stepway-dynamique-1-6-flex-2018",
+    "termoBusca": "renault sandero stepway dynamique 1.6 flex flex 2018 renault kwid sandero duster logan captur oroch clio scenic megane fluence stepway",
+    "nome": "Renault Sandero Stepway Dynamique 1.6 Flex (2018)",
+    "valor": 53900
+  },
+  {
+    "id": "renault-logan-expression-1-6-flex-8v-2015",
+    "termoBusca": "renault logan expression 1.6 flex 8v flex 2015 renault kwid sandero duster logan captur oroch clio scenic megane fluence stepway",
+    "nome": "Renault Logan Expression 1.6 Flex 8V (2015)",
+    "valor": 34500
+  },
+  {
+    "id": "renault-duster-iconic-1-3-turbo-flex-cvt-2023",
+    "termoBusca": "renault duster iconic 1.3 turbo flex cvt flex 2023 renault kwid sandero duster logan captur oroch clio scenic megane fluence stepway",
+    "nome": "Renault Duster Iconic 1.3 Turbo Flex CVT (2023)",
+    "valor": 112000
+  },
+  {
+    "id": "renault-sandero-r-s-2-0-16v-flex-2017",
+    "termoBusca": "renault sandero r.s. 2.0 16v flex flex 2017 renault kwid sandero duster logan captur oroch clio scenic megane fluence stepway",
+    "nome": "Renault Sandero R.S. 2.0 16V Flex (2017)",
+    "valor": 61000
+  },
+  {
+    "id": "jeep-renegade-longitude-1-8-flex-aut-2019",
+    "termoBusca": "jeep renegade longitude 1.8 flex aut. flex 2019 jeep renegade compass commander grand cherokee wrangler",
+    "nome": "Jeep Renegade Longitude 1.8 Flex Aut. (2019)",
+    "valor": 81900
+  },
+  {
+    "id": "jeep-renegade-sport-t270-1-3-turbo-aut-2022",
+    "termoBusca": "jeep renegade sport t270 1.3 turbo aut. flex 2022 jeep renegade compass commander grand cherokee wrangler",
+    "nome": "Jeep Renegade Sport T270 1.3 Turbo Aut. (2022)",
+    "valor": 109900
+  },
+  {
+    "id": "jeep-compass-longitude-t270-1-3-turbo-aut-2022",
+    "termoBusca": "jeep compass longitude t270 1.3 turbo aut. flex 2022 jeep renegade compass commander grand cherokee wrangler",
+    "nome": "Jeep Compass Longitude T270 1.3 Turbo Aut. (2022)",
+    "valor": 138000
+  },
+  {
+    "id": "jeep-renegade-serie-s-1-3-turbo-4x4-aut-2023",
+    "termoBusca": "jeep renegade serie s 1.3 turbo 4x4 aut. flex 2023 jeep renegade compass commander grand cherokee wrangler",
+    "nome": "Jeep Renegade Serie S 1.3 Turbo 4x4 Aut. (2023)",
+    "valor": 142900
+  },
+  {
+    "id": "jeep-compass-limited-td350-4x4-diesel-aut-2021",
+    "termoBusca": "jeep compass limited td350 4x4 diesel aut. diesel 2021 jeep renegade compass commander grand cherokee wrangler",
+    "nome": "Jeep Compass Limited TD350 4x4 Diesel Aut. (2021)",
+    "valor": 172000
+  },
+  {
+    "id": "nissan-kicks-sl-1-6-16v-flex-cvt-2020",
+    "termoBusca": "nissan kicks sl 1.6 16v flex cvt flex 2020 nissan kicks march versa sentra frontier tiida livina",
+    "nome": "Nissan Kicks SL 1.6 16V Flex CVT (2020)",
+    "valor": 85900
+  },
+  {
+    "id": "nissan-kicks-exclusive-1-6-flex-cvt-2022",
+    "termoBusca": "nissan kicks exclusive 1.6 flex cvt flex 2022 nissan kicks march versa sentra frontier tiida livina",
+    "nome": "Nissan Kicks Exclusive 1.6 Flex CVT (2022)",
+    "valor": 106900
+  },
+  {
+    "id": "nissan-march-sv-1-6-16v-flex-manual-2016",
+    "termoBusca": "nissan march sv 1.6 16v flex manual flex 2016 nissan kicks march versa sentra frontier tiida livina",
+    "nome": "Nissan March SV 1.6 16V Flex manual (2016)",
+    "valor": 39900
+  },
+  {
+    "id": "nissan-versa-exclusive-1-6-flex-cvt-2022",
+    "termoBusca": "nissan versa exclusive 1.6 flex cvt flex 2022 nissan kicks march versa sentra frontier tiida livina",
+    "nome": "Nissan Versa Exclusive 1.6 Flex CVT (2022)",
+    "valor": 97800
+  },
+  {
+    "id": "nissan-frontier-le-4x4-2-3-biturbo-diesel-aut-2020",
+    "termoBusca": "nissan frontier le 4x4 2.3 biturbo diesel aut. diesel 2020 nissan kicks march versa sentra frontier tiida livina",
+    "nome": "Nissan Frontier LE 4x4 2.3 BiTurbo Diesel Aut. (2020)",
+    "valor": 179400
+  },
+  {
+    "id": "peugeot-208-griffe-1-6-flex-aut-2021",
+    "termoBusca": "peugeot 208 griffe 1.6 flex aut. flex 2021 peugeot 208 2008 3008 308 408 206 207 partner boxing boxster executive",
+    "nome": "Peugeot 208 Griffe 1.6 Flex Aut. (2021)",
+    "valor": 74500
+  },
+  {
+    "id": "peugeot-208-style-1-0-flex-manual-2023",
+    "termoBusca": "peugeot 208 style 1.0 flex manual flex 2023 peugeot 208 2008 3008 308 408 206 207 partner boxing boxster executive",
+    "nome": "Peugeot 208 Style 1.0 Flex manual (2023)",
+    "valor": 76900
+  },
+  {
+    "id": "citroen-c4-cactus-shine-pack-1-6-thp-aut-2022",
+    "termoBusca": "citroen c4 cactus shine pack 1.6 thp aut. flex 2022",
+    "nome": "Citroën C4 Cactus Shine Pack 1.6 THP Aut. (2022)",
+    "valor": 91500
+  },
+  {
+    "id": "citroen-nuevo-c3-feel-pack-1-6-flex-aut-2023",
+    "termoBusca": "citroen nuevo c3 feel pack 1.6 flex aut. flex 2023",
+    "nome": "Citroën Nuevo C3 Feel Pack 1.6 Flex Aut. (2023)",
+    "valor": 84900
+  },
+  {
+    "id": "bmw-320i-m-sport-2-0-turbo-active-flex-aut-2022",
+    "termoBusca": "bmw 320i m sport 2.0 turbo active flex aut. flex 2022",
+    "nome": "BMW 320i M Sport 2.0 Turbo Active Flex Aut. (2022)",
+    "valor": 247000
+  },
+  {
+    "id": "bmw-x1-sdrive-20i-gp-2-0-ecopro-flex-aut-2021",
+    "termoBusca": "bmw x1 sdrive 20i gp 2.0 ecopro flex aut. flex 2021",
+    "nome": "BMW X1 sDrive 20i GP 2.0 EcoPro Flex Aut. (2021)",
+    "valor": 198000
+  },
+  {
+    "id": "mercedes-benz-c-200-avantgarde-1-5-eq-boost-hybrid-2022",
+    "termoBusca": "mercedes-benz c-200 avantgarde 1.5 eq boost hybrid hibrido 2022",
+    "nome": "Mercedes-Benz C-200 Avantgarde 1.5 EQ Boost Hybrid (2022)",
+    "valor": 289000
+  },
+  {
+    "id": "audi-a3-sedan-prestige-plus-1-4-tfsi-tiptronic-2020",
+    "termoBusca": "audi a3 sedan prestige plus 1.4 tfsi tiptronic gasolina 2020",
+    "nome": "Audi A3 Sedan Prestige Plus 1.4 TFSI Tiptronic (2020)",
+    "valor": 139000
+  },
+  {
+    "id": "volvo-xc60-t8-momentum-hybrid-aut-2021",
+    "termoBusca": "volvo xc60 t8 momentum hybrid aut. hibrido 2021",
+    "nome": "Volvo XC60 T8 Momentum Hybrid Aut. (2021)",
+    "valor": 268000
+  },
+  {
+    "id": "byd-song-plus-dm-i-plug-in-hybrid-2023",
+    "termoBusca": "byd song plus dm-i plug-in hybrid hibrido 2023",
+    "nome": "BYD Song Plus DM-i Plug-in Hybrid (2023)",
+    "valor": 196000
+  }
+]

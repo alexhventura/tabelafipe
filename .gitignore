@@ -1,0 +1,14 @@
+node_modules/
+build/
+dist/
+coverage/
+.DS_Store
+*.log
+fipe.db
+fipe.db-shm
+fipe.db-wal
+data/fipe/
+data/catalog/
+lighthouse-*.json
+.env*
+!.env.example

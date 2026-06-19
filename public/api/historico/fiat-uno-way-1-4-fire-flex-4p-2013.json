@@ -1,0 +1,219 @@
+{
+  "id": "fiat-uno-way-1-4-fire-flex-4p-2013",
+  "nome": "Fiat Uno Way 1.4 Fire Flex 4p (2013)",
+  "marca": "Fiat",
+  "modelo": "Uno Way 1.4 Fire Flex 4p",
+  "anoModelo": 2013,
+  "fipeCodigo": "001255-8",
+  "codigoFipe": "001255-8",
+  "combustivel": "Flex",
+  "valorAtual": 29500,
+  "categoriaPecas": "baixa",
+  "manutencao": "baixa",
+  "consumo": {
+    "cidadeG": 11.6,
+    "cidadeE": 8.1,
+    "estradaG": 13.2,
+    "estradaE": 9.3,
+    "cidadeGasolina": 11.6,
+    "cidadeEtanol": 8.1,
+    "estradaGasolina": 13.2,
+    "estradaEtanol": 9.3
+  },
+  "historicoPrecos": [
+    {
+      "mes": "Jul/24",
+      "valor": 33350
+    },
+    {
+      "mes": "Ago/24",
+      "valor": 33202
+    },
+    {
+      "mes": "Set/24",
+      "valor": 32971
+    },
+    {
+      "mes": "Out/24",
+      "valor": 32826
+    },
+    {
+      "mes": "Nov/24",
+      "valor": 32615
+    },
+    {
+      "mes": "Dez/24",
+      "valor": 32450
+    },
+    {
+      "mes": "Jan/25",
+      "valor": 32321
+    },
+    {
+      "mes": "Fev/25",
+      "valor": 32202
+    },
+    {
+      "mes": "Mar/25",
+      "valor": 32050
+    },
+    {
+      "mes": "Abr/25",
+      "valor": 31893
+    },
+    {
+      "mes": "Mai/25",
+      "valor": 31715
+    },
+    {
+      "mes": "Jun/25",
+      "valor": 31554
+    },
+    {
+      "mes": "Jul/25",
+      "valor": 31333
+    },
+    {
+      "mes": "Ago/25",
+      "valor": 31145
+    },
+    {
+      "mes": "Set/25",
+      "valor": 31002
+    },
+    {
+      "mes": "Out/25",
+      "valor": 30888
+    },
+    {
+      "mes": "Nov/25",
+      "valor": 30660
+    },
+    {
+      "mes": "Dez/25",
+      "valor": 30476
+    },
+    {
+      "mes": "Jan/26",
+      "valor": 30280
+    },
+    {
+      "mes": "Fev/26",
+      "valor": 30088
+    },
+    {
+      "mes": "Mar/26",
+      "valor": 29952
+    },
+    {
+      "mes": "Abr/26",
+      "valor": 29754
+    },
+    {
+      "mes": "Mai/26",
+      "valor": 29613
+    },
+    {
+      "mes": "Jun/26",
+      "valor": 29500
+    }
+  ],
+  "historico": [
+    {
+      "mes": "07/2024",
+      "valor": 33350
+    },
+    {
+      "mes": "08/2024",
+      "valor": 33202
+    },
+    {
+      "mes": "09/2024",
+      "valor": 32971
+    },
+    {
+      "mes": "10/2024",
+      "valor": 32826
+    },
+    {
+      "mes": "11/2024",
+      "valor": 32615
+    },
+    {
+      "mes": "12/2024",
+      "valor": 32450
+    },
+    {
+      "mes": "01/2025",
+      "valor": 32321
+    },
+    {
+      "mes": "02/2025",
+      "valor": 32202
+    },
+    {
+      "mes": "03/2025",
+      "valor": 32050
+    },
+    {
+      "mes": "04/2025",
+      "valor": 31893
+    },
+    {
+      "mes": "05/2025",
+      "valor": 31715
+    },
+    {
+      "mes": "06/2025",
+      "valor": 31554
+    },
+    {
+      "mes": "07/2025",
+      "valor": 31333
+    },
+    {
+      "mes": "08/2025",
+      "valor": 31145
+    },
+    {
+      "mes": "09/2025",
+      "valor": 31002
+    },
+    {
+      "mes": "10/2025",
+      "valor": 30888
+    },
+    {
+      "mes": "11/2025",
+      "valor": 30660
+    },
+    {
+      "mes": "12/2025",
+      "valor": 30476
+    },
+    {
+      "mes": "01/2026",
+      "valor": 30280
+    },
+    {
+      "mes": "02/2026",
+      "valor": 30088
+    },
+    {
+      "mes": "03/2026",
+      "valor": 29952
+    },
+    {
+      "mes": "04/2026",
+      "valor": 29754
+    },
+    {
+      "mes": "05/2026",
+      "valor": 29613
+    },
+    {
+      "mes": "06/2026",
+      "valor": 29500
+    }
+  ]
+}

@@ -1,0 +1,219 @@
+{
+  "id": "vw-volkswagen-nivus-comfortline-200-tsi-flex-aut-2023",
+  "nome": "VW - Volkswagen Nivus Comfortline 200 TSI Flex Aut. (2023)",
+  "marca": "VW - Volkswagen",
+  "modelo": "Nivus Comfortline 200 TSI Flex Aut.",
+  "anoModelo": 2023,
+  "fipeCodigo": "005522-8",
+  "codigoFipe": "005522-8",
+  "combustivel": "Flex",
+  "valorAtual": 119900,
+  "categoriaPecas": "baixa",
+  "manutencao": "baixa",
+  "consumo": {
+    "cidadeG": 9.9,
+    "cidadeE": 6.9,
+    "estradaG": 12.2,
+    "estradaE": 8.5,
+    "cidadeGasolina": 9.9,
+    "cidadeEtanol": 6.9,
+    "estradaGasolina": 12.2,
+    "estradaEtanol": 8.5
+  },
+  "historicoPrecos": [
+    {
+      "mes": "Jul/24",
+      "valor": 136706
+    },
+    {
+      "mes": "Ago/24",
+      "valor": 135792
+    },
+    {
+      "mes": "Set/24",
+      "valor": 135067
+    },
+    {
+      "mes": "Out/24",
+      "valor": 134096
+    },
+    {
+      "mes": "Nov/24",
+      "valor": 133390
+    },
+    {
+      "mes": "Dez/24",
+      "valor": 132630
+    },
+    {
+      "mes": "Jan/25",
+      "valor": 131923
+    },
+    {
+      "mes": "Fev/25",
+      "valor": 131032
+    },
+    {
+      "mes": "Mar/25",
+      "valor": 130063
+    },
+    {
+      "mes": "Abr/25",
+      "valor": 129440
+    },
+    {
+      "mes": "Mai/25",
+      "valor": 128609
+    },
+    {
+      "mes": "Jun/25",
+      "valor": 127948
+    },
+    {
+      "mes": "Jul/25",
+      "valor": 127129
+    },
+    {
+      "mes": "Ago/25",
+      "valor": 126670
+    },
+    {
+      "mes": "Set/25",
+      "valor": 126130
+    },
+    {
+      "mes": "Out/25",
+      "valor": 125322
+    },
+    {
+      "mes": "Nov/25",
+      "valor": 124612
+    },
+    {
+      "mes": "Dez/25",
+      "valor": 123750
+    },
+    {
+      "mes": "Jan/26",
+      "valor": 123068
+    },
+    {
+      "mes": "Fev/26",
+      "valor": 122637
+    },
+    {
+      "mes": "Mar/26",
+      "valor": 121816
+    },
+    {
+      "mes": "Abr/26",
+      "valor": 121260
+    },
+    {
+      "mes": "Mai/26",
+      "valor": 120658
+    },
+    {
+      "mes": "Jun/26",
+      "valor": 119900
+    }
+  ],
+  "historico": [
+    {
+      "mes": "07/2024",
+      "valor": 136706
+    },
+    {
+      "mes": "08/2024",
+      "valor": 135792
+    },
+    {
+      "mes": "09/2024",
+      "valor": 135067
+    },
+    {
+      "mes": "10/2024",
+      "valor": 134096
+    },
+    {
+      "mes": "11/2024",
+      "valor": 133390
+    },
+    {
+      "mes": "12/2024",
+      "valor": 132630
+    },
+    {
+      "mes": "01/2025",
+      "valor": 131923
+    },
+    {
+      "mes": "02/2025",
+      "valor": 131032
+    },
+    {
+      "mes": "03/2025",
+      "valor": 130063
+    },
+    {
+      "mes": "04/2025",
+      "valor": 129440
+    },
+    {
+      "mes": "05/2025",
+      "valor": 128609
+    },
+    {
+      "mes": "06/2025",
+      "valor": 127948
+    },
+    {
+      "mes": "07/2025",
+      "valor": 127129
+    },
+    {
+      "mes": "08/2025",
+      "valor": 126670
+    },
+    {
+      "mes": "09/2025",
+      "valor": 126130
+    },
+    {
+      "mes": "10/2025",
+      "valor": 125322
+    },
+    {
+      "mes": "11/2025",
+      "valor": 124612
+    },
+    {
+      "mes": "12/2025",
+      "valor": 123750
+    },
+    {
+      "mes": "01/2026",
+      "valor": 123068
+    },
+    {
+      "mes": "02/2026",
+      "valor": 122637
+    },
+    {
+      "mes": "03/2026",
+      "valor": 121816
+    },
+    {
+      "mes": "04/2026",
+      "valor": 121260
+    },
+    {
+      "mes": "05/2026",
+      "valor": 120658
+    },
+    {
+      "mes": "06/2026",
+      "valor": 119900
+    }
+  ]
+}

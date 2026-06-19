@@ -1,0 +1,219 @@
+{
+  "id": "honda-city-exl-1-5-flex-cvt-2021",
+  "nome": "Honda City EXL 1.5 Flex CVT (2021)",
+  "marca": "Honda",
+  "modelo": "City EXL 1.5 Flex CVT",
+  "anoModelo": 2021,
+  "fipeCodigo": "004140-3",
+  "codigoFipe": "004140-3",
+  "combustivel": "Flex",
+  "valorAtual": 89900,
+  "categoriaPecas": "media",
+  "manutencao": "media",
+  "consumo": {
+    "cidadeG": 11.6,
+    "cidadeE": 8.1,
+    "estradaG": 13.2,
+    "estradaE": 9.3,
+    "cidadeGasolina": 11.6,
+    "cidadeEtanol": 8.1,
+    "estradaGasolina": 13.2,
+    "estradaEtanol": 9.3
+  },
+  "historicoPrecos": [
+    {
+      "mes": "Jul/24",
+      "valor": 102414
+    },
+    {
+      "mes": "Ago/24",
+      "valor": 101689
+    },
+    {
+      "mes": "Set/24",
+      "valor": 101202
+    },
+    {
+      "mes": "Out/24",
+      "valor": 100605
+    },
+    {
+      "mes": "Nov/24",
+      "valor": 100151
+    },
+    {
+      "mes": "Dez/24",
+      "valor": 99746
+    },
+    {
+      "mes": "Jan/25",
+      "valor": 99068
+    },
+    {
+      "mes": "Fev/25",
+      "valor": 98411
+    },
+    {
+      "mes": "Mar/25",
+      "valor": 97744
+    },
+    {
+      "mes": "Abr/25",
+      "valor": 97057
+    },
+    {
+      "mes": "Mai/25",
+      "valor": 96641
+    },
+    {
+      "mes": "Jun/25",
+      "valor": 96063
+    },
+    {
+      "mes": "Jul/25",
+      "valor": 95352
+    },
+    {
+      "mes": "Ago/25",
+      "valor": 94883
+    },
+    {
+      "mes": "Set/25",
+      "valor": 94406
+    },
+    {
+      "mes": "Out/25",
+      "valor": 93896
+    },
+    {
+      "mes": "Nov/25",
+      "valor": 93278
+    },
+    {
+      "mes": "Dez/25",
+      "valor": 92863
+    },
+    {
+      "mes": "Jan/26",
+      "valor": 92184
+    },
+    {
+      "mes": "Fev/26",
+      "valor": 91738
+    },
+    {
+      "mes": "Mar/26",
+      "valor": 91163
+    },
+    {
+      "mes": "Abr/26",
+      "valor": 90688
+    },
+    {
+      "mes": "Mai/26",
+      "valor": 90319
+    },
+    {
+      "mes": "Jun/26",
+      "valor": 89900
+    }
+  ],
+  "historico": [
+    {
+      "mes": "07/2024",
+      "valor": 102414
+    },
+    {
+      "mes": "08/2024",
+      "valor": 101689
+    },
+    {
+      "mes": "09/2024",
+      "valor": 101202
+    },
+    {
+      "mes": "10/2024",
+      "valor": 100605
+    },
+    {
+      "mes": "11/2024",
+      "valor": 100151
+    },
+    {
+      "mes": "12/2024",
+      "valor": 99746
+    },
+    {
+      "mes": "01/2025",
+      "valor": 99068
+    },
+    {
+      "mes": "02/2025",
+      "valor": 98411
+    },
+    {
+      "mes": "03/2025",
+      "valor": 97744
+    },
+    {
+      "mes": "04/2025",
+      "valor": 97057
+    },
+    {
+      "mes": "05/2025",
+      "valor": 96641
+    },
+    {
+      "mes": "06/2025",
+      "valor": 96063
+    },
+    {
+      "mes": "07/2025",
+      "valor": 95352
+    },
+    {
+      "mes": "08/2025",
+      "valor": 94883
+    },
+    {
+      "mes": "09/2025",
+      "valor": 94406
+    },
+    {
+      "mes": "10/2025",
+      "valor": 93896
+    },
+    {
+      "mes": "11/2025",
+      "valor": 93278
+    },
+    {
+      "mes": "12/2025",
+      "valor": 92863
+    },
+    {
+      "mes": "01/2026",
+      "valor": 92184
+    },
+    {
+      "mes": "02/2026",
+      "valor": 91738
+    },
+    {
+      "mes": "03/2026",
+      "valor": 91163
+    },
+    {
+      "mes": "04/2026",
+      "valor": 90688
+    },
+    {
+      "mes": "05/2026",
+      "valor": 90319
+    },
+    {
+      "mes": "06/2026",
+      "valor": 89900
+    }
+  ]
+}

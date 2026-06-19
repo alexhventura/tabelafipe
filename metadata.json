@@ -1,0 +1,6 @@
+{
+  "name": "Consulta Tabela FIPE",
+  "description": "Consulta de preços de veículos na Tabela FIPE com histórico de depreciação, custos de manutenção, consumo INMETRO e simulador financeiro.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

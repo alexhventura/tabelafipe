@@ -1,0 +1,219 @@
+{
+  "id": "toyota-etios-xs-1-5-flex-16v-manual-2016",
+  "nome": "Toyota Etios XS 1.5 Flex 16V manual (2016)",
+  "marca": "Toyota",
+  "modelo": "Etios XS 1.5 Flex 16V manual",
+  "anoModelo": 2016,
+  "fipeCodigo": "002130-9",
+  "codigoFipe": "002130-9",
+  "combustivel": "Flex",
+  "valorAtual": 46800,
+  "categoriaPecas": "media",
+  "manutencao": "media",
+  "consumo": {
+    "cidadeG": 11.6,
+    "cidadeE": 8.1,
+    "estradaG": 13.2,
+    "estradaE": 9.3,
+    "cidadeGasolina": 11.6,
+    "cidadeEtanol": 8.1,
+    "estradaGasolina": 13.2,
+    "estradaEtanol": 9.3
+  },
+  "historicoPrecos": [
+    {
+      "mes": "Jul/24",
+      "valor": 53198
+    },
+    {
+      "mes": "Ago/24",
+      "valor": 52924
+    },
+    {
+      "mes": "Set/24",
+      "valor": 52631
+    },
+    {
+      "mes": "Out/24",
+      "valor": 52338
+    },
+    {
+      "mes": "Nov/24",
+      "valor": 51982
+    },
+    {
+      "mes": "Dez/24",
+      "valor": 51636
+    },
+    {
+      "mes": "Jan/25",
+      "valor": 51377
+    },
+    {
+      "mes": "Fev/25",
+      "valor": 51014
+    },
+    {
+      "mes": "Mar/25",
+      "valor": 50678
+    },
+    {
+      "mes": "Abr/25",
+      "valor": 50308
+    },
+    {
+      "mes": "Mai/25",
+      "valor": 49971
+    },
+    {
+      "mes": "Jun/25",
+      "valor": 49701
+    },
+    {
+      "mes": "Jul/25",
+      "valor": 49513
+    },
+    {
+      "mes": "Ago/25",
+      "valor": 49325
+    },
+    {
+      "mes": "Set/25",
+      "valor": 48959
+    },
+    {
+      "mes": "Out/25",
+      "valor": 48720
+    },
+    {
+      "mes": "Nov/25",
+      "valor": 48450
+    },
+    {
+      "mes": "Dez/25",
+      "valor": 48229
+    },
+    {
+      "mes": "Jan/26",
+      "valor": 48029
+    },
+    {
+      "mes": "Fev/26",
+      "valor": 47809
+    },
+    {
+      "mes": "Mar/26",
+      "valor": 47467
+    },
+    {
+      "mes": "Abr/26",
+      "valor": 47154
+    },
+    {
+      "mes": "Mai/26",
+      "valor": 46990
+    },
+    {
+      "mes": "Jun/26",
+      "valor": 46800
+    }
+  ],
+  "historico": [
+    {
+      "mes": "07/2024",
+      "valor": 53198
+    },
+    {
+      "mes": "08/2024",
+      "valor": 52924
+    },
+    {
+      "mes": "09/2024",
+      "valor": 52631
+    },
+    {
+      "mes": "10/2024",
+      "valor": 52338
+    },
+    {
+      "mes": "11/2024",
+      "valor": 51982
+    },
+    {
+      "mes": "12/2024",
+      "valor": 51636
+    },
+    {
+      "mes": "01/2025",
+      "valor": 51377
+    },
+    {
+      "mes": "02/2025",
+      "valor": 51014
+    },
+    {
+      "mes": "03/2025",
+      "valor": 50678
+    },
+    {
+      "mes": "04/2025",
+      "valor": 50308
+    },
+    {
+      "mes": "05/2025",
+      "valor": 49971
+    },
+    {
+      "mes": "06/2025",
+      "valor": 49701
+    },
+    {
+      "mes": "07/2025",
+      "valor": 49513
+    },
+    {
+      "mes": "08/2025",
+      "valor": 49325
+    },
+    {
+      "mes": "09/2025",
+      "valor": 48959
+    },
+    {
+      "mes": "10/2025",
+      "valor": 48720
+    },
+    {
+      "mes": "11/2025",
+      "valor": 48450
+    },
+    {
+      "mes": "12/2025",
+      "valor": 48229
+    },
+    {
+      "mes": "01/2026",
+      "valor": 48029
+    },
+    {
+      "mes": "02/2026",
+      "valor": 47809
+    },
+    {
+      "mes": "03/2026",
+      "valor": 47467
+    },
+    {
+      "mes": "04/2026",
+      "valor": 47154
+    },
+    {
+      "mes": "05/2026",
+      "valor": 46990
+    },
+    {
+      "mes": "06/2026",
+      "valor": 46800
+    }
+  ]
+}
