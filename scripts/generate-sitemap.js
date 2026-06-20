@@ -55,6 +55,12 @@ ${files
   fs.writeFileSync(OUT_INDEX, xml, 'utf-8');
 }
 
+function loadMarcasList(file) {
+  if (!fs.existsSync(file)) return [];
+  const raw = JSON.parse(fs.readFileSync(file, 'utf-8'));
+  return Array.isArray(raw) ? raw : (raw.marcas ?? []);
+}
+
 function loadVehicleIndex() {
   if (!fs.existsSync(MANIFEST)) return [];
   const manifest = JSON.parse(fs.readFileSync(MANIFEST, 'utf-8'));
@@ -79,11 +85,8 @@ const staticUrls = [
 
 const seoUrls = [...staticUrls];
 
-if (fs.existsSync(SEO_MARCAS)) {
-  const { marcas } = JSON.parse(fs.readFileSync(SEO_MARCAS, 'utf-8'));
-  for (const m of marcas ?? []) {
-    seoUrls.push(urlEntry(`${BASE_URL}/marca/${m.slug}`, '0.85', 'weekly'));
-  }
+for (const m of loadMarcasList(SEO_MARCAS)) {
+  seoUrls.push(urlEntry(`${BASE_URL}/marca/${m.slug}`, '0.85', 'weekly'));
 }
 
 if (fs.existsSync(SEO_MANIFEST)) {

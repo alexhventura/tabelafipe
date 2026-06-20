@@ -84,8 +84,9 @@ async function fetchJson<T>(url: string): Promise<T | null> {
 }
 
 export async function loadMarcas(): Promise<SeoMarca[]> {
-  const data = await fetchJson<{ marcas: SeoMarca[] }>('/data/seo/marcas.json');
-  return data?.marcas ?? [];
+  const data = await fetchJson<SeoMarca[] | { marcas: SeoMarca[] }>('/data/seo/marcas.json');
+  if (!data) return [];
+  return Array.isArray(data) ? data : (data.marcas ?? []);
 }
 
 export async function loadMarca(slug: string): Promise<SeoMarca | null> {

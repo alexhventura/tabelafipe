@@ -53,9 +53,29 @@ export function computeTrend(historico: HistoricoPreco[], months: number): numbe
   return ((end - start) / start) * 100;
 }
 
+async function resolveDataPath(id: string): Promise<string | undefined> {
+  const key = id[0]?.toLowerCase();
+  if (!key || !/[a-z]/.test(key)) return undefined;
+
+  try {
+    const manifestRes = await fetch('/data/fipe/search/manifest.json');
+    if (!manifestRes.ok) return undefined;
+    const manifest = (await manifestRes.json()) as { shards?: string[] };
+    if (!manifest.shards?.includes(key)) return undefined;
+
+    const shardRes = await fetch(`/data/fipe/search/shard-${key}.json`);
+    if (!shardRes.ok) return undefined;
+    const items = (await shardRes.json()) as { i: string; p?: string }[];
+    return items.find((item) => item.i === id)?.p;
+  } catch {
+    return undefined;
+  }
+}
+
 export async function loadVehicle(id: string, dataPath?: string): Promise<Vehicle | null> {
+  const resolvedPath = dataPath ?? (await resolveDataPath(id));
   const paths = [
-    dataPath,
+    resolvedPath,
     `/data/fipe/veiculos/${id}.json`,
     `/api/fipe/veiculos/${id}.json`,
     `/api/historico/${id}.json`,
