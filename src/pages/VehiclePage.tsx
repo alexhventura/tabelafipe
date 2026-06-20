@@ -14,8 +14,10 @@ import { usePageMeta, SITE_URL } from '../hooks/usePageMeta';
 import { loadVehicle, computeTrend, vehicleDisplayName } from '../lib/vehicle';
 import { generateFaq } from '../lib/faq';
 import { findAlternatives } from '../lib/alternatives';
-import { marcaSlug, vehiclePath } from '../lib/slug';
+import { marcaSlug, vehiclePath, modeloSlug } from '../lib/slug';
+import { marcaPath, modeloPath, historicoPath, compararPath, anoPath } from '../lib/seo-routes';
 import { formatBRL } from '../lib/format';
+import SemanticLinks from '../components/semantic/SemanticLinks';
 import { Vehicle } from '../types';
 
 export default function VehiclePage() {
@@ -103,7 +105,7 @@ export default function VehiclePage() {
   }
 
   const canonicalUrl = `${SITE_URL}${canonicalPath}`;
-  const modeloSlug = vehicle.modelo.toLowerCase().split(' ')[0];
+  const mSlug = modeloSlug(vehicle.modelo);
 
   return (
     <div className="max-w-3xl mx-auto px-4 py-6 space-y-8">
@@ -112,8 +114,9 @@ export default function VehiclePage() {
       <BreadcrumbJsonLd
         items={[
           { name: 'Início', href: SITE_URL },
-          { name: vehicle.marca, href: `${SITE_URL}/fipe/${canonicalMarca}` },
-          { name: displayName, href: canonicalUrl },
+          { name: vehicle.marca, href: `${SITE_URL}${marcaPath(canonicalMarca)}` },
+          { name: displayName, href: `${SITE_URL}${modeloPath(canonicalMarca, mSlug)}` },
+          { name: String(vehicle.anoModelo), href: canonicalUrl },
         ]}
       />
 
@@ -124,12 +127,22 @@ export default function VehiclePage() {
           Início
         </Link>
         <span aria-hidden>›</span>
-        <span className="capitalize min-h-[44px] inline-flex items-center">{canonicalMarca}</span>
+        <Link
+          to={marcaPath(canonicalMarca)}
+          className="capitalize hover:text-blue-600 min-h-[44px] inline-flex items-center"
+        >
+          {canonicalMarca}
+        </Link>
         <span aria-hidden>›</span>
-        <span className="capitalize min-h-[44px] inline-flex items-center">{modeloSlug}</span>
+        <Link
+          to={modeloPath(canonicalMarca, mSlug)}
+          className="capitalize hover:text-blue-600 min-h-[44px] inline-flex items-center"
+        >
+          {vehicle.modelo.split(' ').slice(0, 2).join(' ')}
+        </Link>
         <span aria-hidden>›</span>
         <span className="text-slate-700 dark:text-slate-300 font-medium min-h-[44px] inline-flex items-center">
-          {vehicle.anoModelo}
+          {vehicle.anoModelo === 0 ? 'Zero KM' : vehicle.anoModelo}
         </span>
       </nav>
 
@@ -192,6 +205,26 @@ export default function VehiclePage() {
       )}
 
       <HistorySection vehicle={vehicle} />
+
+      <nav
+        className="flex flex-wrap gap-3 text-xs font-semibold text-blue-600"
+        aria-label="Links relacionados"
+      >
+        <Link to={modeloPath(canonicalMarca, mSlug)} className="min-h-[44px] inline-flex items-center">
+          Página do modelo →
+        </Link>
+        <Link to={historicoPath(canonicalMarca, mSlug)} className="min-h-[44px] inline-flex items-center">
+          Histórico de preços →
+        </Link>
+        <Link to={anoPath(vehicle.anoModelo)} className="min-h-[44px] inline-flex items-center">
+          Veículos {vehicle.anoModelo === 0 ? 'Zero KM' : vehicle.anoModelo} →
+        </Link>
+        <Link to="/comparar" className="min-h-[44px] inline-flex items-center">
+          Comparativos →
+        </Link>
+      </nav>
+
+      <SemanticLinks marcaSlug={canonicalMarca} modeloSlug={mSlug} ano={vehicle.anoModelo} />
 
       <FaqSection items={faq} />
 

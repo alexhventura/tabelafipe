@@ -1,0 +1,148 @@
+{
+  "geradoEm": "2026-06-20T19:56:30.283Z",
+  "tamanhos": {
+    "publicDataFipe": {
+      "bytes": 50141956,
+      "files": 92045,
+      "megabytes": 47.82
+    },
+    "srcDataFipe": {
+      "bytes": 22372370,
+      "files": 4,
+      "megabytes": 21.34
+    },
+    "dataHistory": {
+      "bytes": 536371896,
+      "files": 50395,
+      "megabytes": 511.52
+    }
+  },
+  "cargas": {
+    "veiculosJson": {
+      "ms": 665.01,
+      "registros": 50395,
+      "bytes": 22305075
+    },
+    "searchShards": {
+      "totalShards": 23,
+      "tempoTotalMs": 538.43,
+      "shards": [
+        {
+          "shard": "a",
+          "ms": 12.35,
+          "registros": 1964
+        },
+        {
+          "shard": "b",
+          "ms": 28.24,
+          "registros": 2533
+        },
+        {
+          "shard": "c",
+          "ms": 45.89,
+          "registros": 4180
+        },
+        {
+          "shard": "d",
+          "ms": 8.78,
+          "registros": 1169
+        },
+        {
+          "shard": "e",
+          "ms": 2.66,
+          "registros": 135
+        },
+        {
+          "shard": "f",
+          "ms": 49.19,
+          "registros": 6350
+        },
+        {
+          "shard": "g",
+          "ms": 4.28,
+          "registros": 238
+        },
+        {
+          "shard": "h",
+          "ms": 30.01,
+          "registros": 3521
+        },
+        {
+          "shard": "i",
+          "ms": 27.34,
+          "registros": 1171
+        },
+        {
+          "shard": "j",
+          "ms": 8.33,
+          "registros": 1020
+        },
+        {
+          "shard": "k",
+          "ms": 10.51,
+          "registros": 1617
+        },
+        {
+          "shard": "l",
+          "ms": 11.92,
+          "registros": 1137
+        },
+        {
+          "shard": "m",
+          "ms": 88.21,
+          "registros": 7128
+        },
+        {
+          "shard": "n",
+          "ms": 6.95,
+          "registros": 851
+        },
+        {
+          "shard": "o",
+          "ms": 1.5,
+          "registros": 18
+        },
+        {
+          "shard": "p",
+          "ms": 27.03,
+          "registros": 2209
+        },
+        {
+          "shard": "r",
+          "ms": 29.49,
+          "registros": 1859
+        },
+        {
+          "shard": "s",
+          "ms": 46.58,
+          "registros": 4118
+        },
+        {
+          "shard": "t",
+          "ms": 22.64,
+          "registros": 1830
+        },
+        {
+          "shard": "v",
+          "ms": 63.33,
+          "registros": 6353
+        },
+        {
+          "shard": "w",
+          "ms": 3.72,
+          "registros": 138
+        },
+        {
+          "shard": "y",
+          "ms": 7.22,
+          "registros": 812
+        },
+        {
+          "shard": "z",
+          "ms": 2.26,
+          "registros": 44
+        }
+      ]
+    }
+  }
+}

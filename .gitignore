@@ -9,6 +9,13 @@ fipe.db-shm
 fipe.db-wal
 data/fipe/
 data/catalog/
+data/raw/
+data/history/
+data/raw/*.parquet
+data/raw/*.csv
+public/data/semantic/intents-index.json
+.tmp-query-parquet.js
+scripts/_gen.mjs
 lighthouse-*.json
 .env*
 !.env.example

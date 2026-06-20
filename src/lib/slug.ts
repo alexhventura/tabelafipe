@@ -29,3 +29,12 @@ export function marcaSlug(marca: string): string {
 export function vehiclePath(marca: string, vehicleId: string): string {
   return `/fipe/${marcaSlug(marca)}/${vehicleId}`;
 }
+
+/** Slug da família do modelo (alinhado ao build SEO). */
+export function modeloSlug(modelo: string): string {
+  const base = modelo
+    .replace(/\s+\d[\d.,]*\s*.*/i, '')
+    .replace(/\s+(flex|diesel|gasolina|hibrido|hybrid|aut|manual).*$/i, '')
+    .trim();
+  return slugify(base || modelo);
+}

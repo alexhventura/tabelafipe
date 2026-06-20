@@ -1,0 +1,248 @@
+{
+  "geradoEm": "2026-06-20T19:57:12.110Z",
+  "cobertura": {
+    "geradoEm": "2026-06-20T19:38:00.817Z",
+    "fonte": "C:\\Users\\Alex Ventura\\Desktop\\consulta-tabela-fipe\\data\\raw\\fipex-prices-latest-merged.parquet",
+    "referenciaFipe": 202606,
+    "amostra": {
+      "total": 1000,
+      "seed": 42,
+      "solicitado": 1000
+    },
+    "resultados": {
+      "acertos": 1000,
+      "divergencias": 0,
+      "taxaAcerto": 100,
+      "taxaDivergencia": 0,
+      "meta99Porcento": true
+    },
+    "causasErro": {},
+    "amostraDivergencias": []
+  },
+  "qualidade": {
+    "geradoEm": "2026-06-20T19:23:39.613Z",
+    "totais": {
+      "veiculos": 50395,
+      "marcas": 228,
+      "modelos": 11238,
+      "versoes": 50395,
+      "anos": 48,
+      "porTipo": {
+        "carros": 30180,
+        "motos": 8847,
+        "caminhoes": 11368
+      }
+    },
+    "problemas": {
+      "idsDuplicados": 0,
+      "registrosPerdidosPorIdDuplicado": 0,
+      "semValor": 0,
+      "semCombustivel": 0,
+      "semCodigoFipe": 0,
+      "semMarca": 0,
+      "semModelo": 0,
+      "semAno": 1868
+    },
+    "amostraIdsDuplicados": []
+  },
+  "erros": {
+    "cobertura": {},
+    "qualidade": {
+      "idsDuplicados": 0,
+      "registrosPerdidosPorIdDuplicado": 0,
+      "semValor": 0,
+      "semCombustivel": 0,
+      "semCodigoFipe": 0,
+      "semMarca": 0,
+      "semModelo": 0,
+      "semAno": 1868
+    }
+  },
+  "historico": {
+    "geradoEm": "2026-06-20T19:54:53.849Z",
+    "fonte": "C:\\Users\\Alex Ventura\\Desktop\\consulta-tabela-fipe\\data\\raw\\fipex-prices-latest-merged.parquet",
+    "metricas": {
+      "veiculosAlvo": 50395,
+      "arquivosHistorico": 50395,
+      "importadosNestaExecucao": 50395,
+      "puladosExistentes": 0,
+      "totalPontosHistorico": 8938606,
+      "mediaPontosPorVeiculo": 177
+    }
+  },
+  "seo": {
+    "geradoEm": "2026-06-20T19:40:08.249Z",
+    "catalogo": {
+      "veiculos": 50395,
+      "marcas": 216,
+      "modelos": 11238,
+      "anos": 48
+    },
+    "busca": {
+      "urlsManifest": 50395,
+      "shards": 23,
+      "path": "/data/fipe/search/"
+    },
+    "estimativaUrls": {
+      "marca": 216,
+      "modelo": 11238,
+      "ano": 48,
+      "historico": 50395,
+      "fichaTecnica": 50395,
+      "comparativos": 63140703
+    },
+    "totais": {
+      "urlsCatalogoAtual": 100790,
+      "urlsSeoPotencial": 63303390
+    }
+  },
+  "performance": {
+    "geradoEm": "2026-06-20T19:56:30.283Z",
+    "tamanhos": {
+      "publicDataFipe": {
+        "bytes": 50141956,
+        "files": 92045,
+        "megabytes": 47.82
+      },
+      "srcDataFipe": {
+        "bytes": 22372370,
+        "files": 4,
+        "megabytes": 21.34
+      },
+      "dataHistory": {
+        "bytes": 536371896,
+        "files": 50395,
+        "megabytes": 511.52
+      }
+    },
+    "cargas": {
+      "veiculosJson": {
+        "ms": 665.01,
+        "registros": 50395,
+        "bytes": 22305075
+      },
+      "searchShards": {
+        "totalShards": 23,
+        "tempoTotalMs": 538.43,
+        "shards": [
+          {
+            "shard": "a",
+            "ms": 12.35,
+            "registros": 1964
+          },
+          {
+            "shard": "b",
+            "ms": 28.24,
+            "registros": 2533
+          },
+          {
+            "shard": "c",
+            "ms": 45.89,
+            "registros": 4180
+          },
+          {
+            "shard": "d",
+            "ms": 8.78,
+            "registros": 1169
+          },
+          {
+            "shard": "e",
+            "ms": 2.66,
+            "registros": 135
+          },
+          {
+            "shard": "f",
+            "ms": 49.19,
+            "registros": 6350
+          },
+          {
+            "shard": "g",
+            "ms": 4.28,
+            "registros": 238
+          },
+          {
+            "shard": "h",
+            "ms": 30.01,
+            "registros": 3521
+          },
+          {
+            "shard": "i",
+            "ms": 27.34,
+            "registros": 1171
+          },
+          {
+            "shard": "j",
+            "ms": 8.33,
+            "registros": 1020
+          },
+          {
+            "shard": "k",
+            "ms": 10.51,
+            "registros": 1617
+          },
+          {
+            "shard": "l",
+            "ms": 11.92,
+            "registros": 1137
+          },
+          {
+            "shard": "m",
+            "ms": 88.21,
+            "registros": 7128
+          },
+          {
+            "shard": "n",
+            "ms": 6.95,
+            "registros": 851
+          },
+          {
+            "shard": "o",
+            "ms": 1.5,
+            "registros": 18
+          },
+          {
+            "shard": "p",
+            "ms": 27.03,
+            "registros": 2209
+          },
+          {
+            "shard": "r",
+            "ms": 29.49,
+            "registros": 1859
+          },
+          {
+            "shard": "s",
+            "ms": 46.58,
+            "registros": 4118
+          },
+          {
+            "shard": "t",
+            "ms": 22.64,
+            "registros": 1830
+          },
+          {
+            "shard": "v",
+            "ms": 63.33,
+            "registros": 6353
+          },
+          {
+            "shard": "w",
+            "ms": 3.72,
+            "registros": 138
+          },
+          {
+            "shard": "y",
+            "ms": 7.22,
+            "registros": 812
+          },
+          {
+            "shard": "z",
+            "ms": 2.26,
+            "registros": 44
+          }
+        ]
+      }
+    }
+  },
+  "proximaPrioridade": "expandir_paginas_seo"
+}

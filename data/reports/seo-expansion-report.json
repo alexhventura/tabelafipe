@@ -1,0 +1,105 @@
+{
+  "geradoEm": "2026-06-20T20:36:51.821Z",
+  "urlsAtuais": 63034,
+  "urlsAposExpansao": 63034,
+  "estimativaPaginasIndexaveis": 63034,
+  "estimativaCrescimentoOrganico": 0,
+  "oportunidades": [
+    {
+      "id": "paginas-marca",
+      "titulo": "Landing pages por marca",
+      "paginasEstimadas": 216,
+      "descricao": "Listagens FIPE agregadas por fabricante com modelos e volumes."
+    },
+    {
+      "id": "paginas-modelo",
+      "titulo": "Paginas de modelo com historico agregado",
+      "paginasEstimadas": 6274,
+      "descricao": "Detalhe por familia de modelo com versoes, anos e curva de preco media."
+    },
+    {
+      "id": "paginas-ano",
+      "titulo": "Hubs por ano-modelo",
+      "paginasEstimadas": 48,
+      "descricao": "Paginas por ano com top veiculos e cobertura de marcas/modelos."
+    },
+    {
+      "id": "comparativos-segmento",
+      "titulo": "Comparativos entre rivais de segmento",
+      "paginasEstimadas": 40,
+      "descricao": "Pares curados (ex: civic-vs-corolla) com dados FIPE lado a lado."
+    },
+    {
+      "id": "historico-veiculo",
+      "titulo": "Historico individual ja indexavel",
+      "paginasEstimadas": 50395,
+      "descricao": "Expandir internal linking a partir das paginas de veiculo existentes."
+    }
+  ],
+  "rankingPriorizacao": [
+    {
+      "rota": "comparativos-segmento",
+      "trafficPotential": 9,
+      "computeCost": 9,
+      "indexEase": 10,
+      "totalScore": 28,
+      "paginas": 40
+    },
+    {
+      "rota": "paginas-marca",
+      "trafficPotential": 8,
+      "computeCost": 9,
+      "indexEase": 9,
+      "totalScore": 26,
+      "paginas": 216
+    },
+    {
+      "rota": "paginas-modelo",
+      "trafficPotential": 10,
+      "computeCost": 6,
+      "indexEase": 8,
+      "totalScore": 24,
+      "paginas": 6274
+    },
+    {
+      "rota": "paginas-ano",
+      "trafficPotential": 7,
+      "computeCost": 9,
+      "indexEase": 8,
+      "totalScore": 24,
+      "paginas": 48
+    },
+    {
+      "rota": "historico-veiculo",
+      "trafficPotential": 6,
+      "computeCost": 4,
+      "indexEase": 7,
+      "totalScore": 17,
+      "paginas": 50395
+    }
+  ],
+  "fontes": {
+    "seoManifest": true,
+    "searchManifest": true,
+    "sitemap": true
+  },
+  "seoCounts": {
+    "veiculos": 50395,
+    "marcas": 216,
+    "modelosTotal": 6274,
+    "modelosGerados": 6274,
+    "anos": 48,
+    "comparativos": 40,
+    "historyFilesRead": 50395
+  },
+  "implementacao": {
+    "rotasAtivas": [
+      "/marca/:marcaSlug",
+      "/modelo/:marcaSlug/:modeloSlug",
+      "/historico/:marcaSlug/:modeloSlug",
+      "/comparar/:slug",
+      "/ano/:year"
+    ],
+    "sitemapIndex": true
+  }
+}

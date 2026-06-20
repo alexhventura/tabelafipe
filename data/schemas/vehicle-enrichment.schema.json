@@ -1,0 +1,248 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://consulta-tabela-fipe.local/schemas/vehicle-enrichment.schema.json",
+  "title": "VehicleEnrichment",
+  "description": "Campos opcionais para enriquecimento futuro de veiculos (sem dados inventados).",
+  "type": "object",
+  "additionalProperties": false,
+  "properties": {
+    "potencia": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "valor": {
+          "type": [
+            "number",
+            "null"
+          ]
+        },
+        "unidade": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "enum": [
+            "cv",
+            "hp",
+            "kW",
+            null
+          ]
+        },
+        "fonte": {
+          "type": [
+            "string",
+            "null"
+          ]
+        }
+      }
+    },
+    "torque": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "valor": {
+          "type": [
+            "number",
+            "null"
+          ]
+        },
+        "unidade": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "enum": [
+            "Nm",
+            "kgfm",
+            "lbft",
+            null
+          ]
+        },
+        "fonte": {
+          "type": [
+            "string",
+            "null"
+          ]
+        }
+      }
+    },
+    "consumo": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "cidade": {
+          "type": [
+            "number",
+            "null"
+          ]
+        },
+        "estrada": {
+          "type": [
+            "number",
+            "null"
+          ]
+        },
+        "unidade": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "enum": [
+            "km/l",
+            "l/100km",
+            null
+          ]
+        },
+        "fonte": {
+          "type": [
+            "string",
+            "null"
+          ]
+        }
+      }
+    },
+    "cambio": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "cilindrada": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "valor": {
+          "type": [
+            "number",
+            "null"
+          ]
+        },
+        "unidade": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "enum": [
+            "cc",
+            "L",
+            null
+          ]
+        }
+      }
+    },
+    "peso": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "valor": {
+          "type": [
+            "number",
+            "null"
+          ]
+        },
+        "unidade": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "enum": [
+            "kg",
+            null
+          ]
+        }
+      }
+    },
+    "dimensoes": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "comprimento": {
+          "type": [
+            "number",
+            "null"
+          ]
+        },
+        "largura": {
+          "type": [
+            "number",
+            "null"
+          ]
+        },
+        "altura": {
+          "type": [
+            "number",
+            "null"
+          ]
+        },
+        "unidade": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "enum": [
+            "mm",
+            "cm",
+            "m",
+            null
+          ]
+        }
+      }
+    },
+    "portaMalas": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "valor": {
+          "type": [
+            "number",
+            "null"
+          ]
+        },
+        "unidade": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "enum": [
+            "L",
+            null
+          ]
+        }
+      }
+    },
+    "fotos": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "properties": {
+          "url": {
+            "type": "string",
+            "format": "uri"
+          },
+          "legenda": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "fonte": {
+            "type": [
+              "string",
+              "null"
+            ]
+          }
+        },
+        "required": [
+          "url"
+        ]
+      }
+    },
+    "categoria": {
+      "type": [
+        "string",
+        "null"
+      ]
+    }
+  }
+}

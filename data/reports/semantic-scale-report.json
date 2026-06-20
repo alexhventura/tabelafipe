@@ -1,0 +1,419 @@
+{
+  "geradoEm": "2026-06-20T20:46:31.166Z",
+  "urlsPossiveis": 263080,
+  "urlsGeradas": 263080,
+  "coberturaPercentual": 100,
+  "projecaoTrafego": 2215143,
+  "clustersFortes": [
+    {
+      "slug": "ford",
+      "nome": "Ford",
+      "totalVeiculos": 3313,
+      "modelos": 8,
+      "score": 734.9335
+    },
+    {
+      "slug": "mercedes-benz",
+      "nome": "MERCEDES-BENZ",
+      "totalVeiculos": 4531,
+      "modelos": 8,
+      "score": 633.3493
+    },
+    {
+      "slug": "rolls-royce",
+      "nome": "Rolls-Royce",
+      "totalVeiculos": 30,
+      "modelos": 7,
+      "score": 398.4927
+    },
+    {
+      "slug": "lamborghini",
+      "nome": "LAMBORGHINI",
+      "totalVeiculos": 85,
+      "modelos": 8,
+      "score": 338.4762
+    },
+    {
+      "slug": "mclaren",
+      "nome": "Mclaren",
+      "totalVeiculos": 49,
+      "modelos": 8,
+      "score": 322.5667
+    },
+    {
+      "slug": "bmw",
+      "nome": "BMW",
+      "totalVeiculos": 1870,
+      "modelos": 8,
+      "score": 287.7854
+    },
+    {
+      "slug": "volvo",
+      "nome": "Volvo",
+      "totalVeiculos": 2219,
+      "modelos": 8,
+      "score": 244.3677
+    },
+    {
+      "slug": "ferrari",
+      "nome": "Ferrari",
+      "totalVeiculos": 198,
+      "modelos": 8,
+      "score": 239.3826
+    },
+    {
+      "slug": "iveco",
+      "nome": "IVECO",
+      "totalVeiculos": 1091,
+      "modelos": 8,
+      "score": 236.5381
+    },
+    {
+      "slug": "renault",
+      "nome": "Renault",
+      "totalVeiculos": 1430,
+      "modelos": 8,
+      "score": 214.7557
+    },
+    {
+      "slug": "audi",
+      "nome": "Audi",
+      "totalVeiculos": 1161,
+      "modelos": 8,
+      "score": 211.3076
+    },
+    {
+      "slug": "volkswagen",
+      "nome": "VOLKSWAGEN",
+      "totalVeiculos": 4075,
+      "modelos": 8,
+      "score": 197.7893
+    },
+    {
+      "slug": "honda",
+      "nome": "Honda",
+      "totalVeiculos": 1738,
+      "modelos": 8,
+      "score": 196.5272
+    },
+    {
+      "slug": "shineray",
+      "nome": "SHINERAY",
+      "totalVeiculos": 286,
+      "modelos": 8,
+      "score": 179.8267
+    },
+    {
+      "slug": "daf",
+      "nome": "DAF",
+      "totalVeiculos": 406,
+      "modelos": 8,
+      "score": 177.6439
+    }
+  ],
+  "gapsConteudo": [
+    {
+      "intent": "preco",
+      "profundidadeMedia": 8.08,
+      "paginas": 32885
+    },
+    {
+      "intent": "fipe-atualizada",
+      "profundidadeMedia": 8.08,
+      "paginas": 32885
+    },
+    {
+      "intent": "vale-a-pena",
+      "profundidadeMedia": 8.08,
+      "paginas": 32885
+    },
+    {
+      "intent": "comparativo",
+      "profundidadeMedia": 8.08,
+      "paginas": 32885
+    },
+    {
+      "intent": "consumo",
+      "profundidadeMedia": 8.08,
+      "paginas": 32885
+    },
+    {
+      "intent": "manutencao",
+      "profundidadeMedia": 8.08,
+      "paginas": 32885
+    },
+    {
+      "intent": "problemas",
+      "profundidadeMedia": 8.08,
+      "paginas": 32885
+    },
+    {
+      "intent": "seguro",
+      "profundidadeMedia": 8.08,
+      "paginas": 32885
+    }
+  ],
+  "gapsMarcasBaixaCobertura": [
+    {
+      "slug": "am-gen",
+      "nome": "AM Gen",
+      "totalVeiculos": 9
+    },
+    {
+      "slug": "amazonas",
+      "nome": "AMAZONAS",
+      "totalVeiculos": 16
+    },
+    {
+      "slug": "aprilia",
+      "nome": "APRILIA",
+      "totalVeiculos": 57
+    },
+    {
+      "slug": "aston-martin",
+      "nome": "ASTON MARTIN",
+      "totalVeiculos": 48
+    },
+    {
+      "slug": "atala",
+      "nome": "ATALA",
+      "totalVeiculos": 12
+    },
+    {
+      "slug": "bajaj",
+      "nome": "BAJAJ",
+      "totalVeiculos": 28
+    },
+    {
+      "slug": "benelli",
+      "nome": "Benelli",
+      "totalVeiculos": 9
+    },
+    {
+      "slug": "bepobus",
+      "nome": "BEPOBUS",
+      "totalVeiculos": 21
+    },
+    {
+      "slug": "beta",
+      "nome": "BETA",
+      "totalVeiculos": 6
+    },
+    {
+      "slug": "bimota",
+      "nome": "BIMOTA",
+      "totalVeiculos": 19
+    }
+  ],
+  "decisaoCounts": {
+    "valeAPena": 500,
+    "comparativosOu": 40,
+    "melhoresSegmento": 15
+  },
+  "rankingPrioridade": [
+    {
+      "path": "/mercedes-benz/sprinter-2020-problemas",
+      "marcaSlug": "mercedes-benz",
+      "modeloSlug": "sprinter",
+      "ano": 2020,
+      "intent": "problemas",
+      "totalScore": 19.3,
+      "volumeBusca": 33.4,
+      "profundidadeDados": 10
+    },
+    {
+      "path": "/mercedes-benz/sprinter-2021-problemas",
+      "marcaSlug": "mercedes-benz",
+      "modeloSlug": "sprinter",
+      "ano": 2021,
+      "intent": "problemas",
+      "totalScore": 19.3,
+      "volumeBusca": 33.4,
+      "profundidadeDados": 10
+    },
+    {
+      "path": "/mercedes-benz/sprinter-2022-problemas",
+      "marcaSlug": "mercedes-benz",
+      "modeloSlug": "sprinter",
+      "ano": 2022,
+      "intent": "problemas",
+      "totalScore": 19.3,
+      "volumeBusca": 33.4,
+      "profundidadeDados": 10
+    },
+    {
+      "path": "/mercedes-benz/sprinter-2023-problemas",
+      "marcaSlug": "mercedes-benz",
+      "modeloSlug": "sprinter",
+      "ano": 2023,
+      "intent": "problemas",
+      "totalScore": 19.3,
+      "volumeBusca": 33.4,
+      "profundidadeDados": 10
+    },
+    {
+      "path": "/mercedes-benz/sprinter-2024-problemas",
+      "marcaSlug": "mercedes-benz",
+      "modeloSlug": "sprinter",
+      "ano": 2024,
+      "intent": "problemas",
+      "totalScore": 19.3,
+      "volumeBusca": 33.4,
+      "profundidadeDados": 10
+    },
+    {
+      "path": "/mercedes-benz/sprinter-2025-problemas",
+      "marcaSlug": "mercedes-benz",
+      "modeloSlug": "sprinter",
+      "ano": 2025,
+      "intent": "problemas",
+      "totalScore": 19.3,
+      "volumeBusca": 33.4,
+      "profundidadeDados": 10
+    },
+    {
+      "path": "/mercedes-benz/sprinter-2026-problemas",
+      "marcaSlug": "mercedes-benz",
+      "modeloSlug": "sprinter",
+      "ano": 2026,
+      "intent": "problemas",
+      "totalScore": 19.3,
+      "volumeBusca": 33.4,
+      "profundidadeDados": 10
+    },
+    {
+      "path": "/mercedes-benz/sprinter-2027-problemas",
+      "marcaSlug": "mercedes-benz",
+      "modeloSlug": "sprinter",
+      "ano": 2027,
+      "intent": "problemas",
+      "totalScore": 19.3,
+      "volumeBusca": 33.4,
+      "profundidadeDados": 10
+    },
+    {
+      "path": "/mercedes-benz/sprinter-2020-consumo",
+      "marcaSlug": "mercedes-benz",
+      "modeloSlug": "sprinter",
+      "ano": 2020,
+      "intent": "consumo",
+      "totalScore": 19,
+      "volumeBusca": 33.4,
+      "profundidadeDados": 10
+    },
+    {
+      "path": "/mercedes-benz/sprinter-2020-manutencao",
+      "marcaSlug": "mercedes-benz",
+      "modeloSlug": "sprinter",
+      "ano": 2020,
+      "intent": "manutencao",
+      "totalScore": 19,
+      "volumeBusca": 33.4,
+      "profundidadeDados": 10
+    },
+    {
+      "path": "/mercedes-benz/sprinter-2021-consumo",
+      "marcaSlug": "mercedes-benz",
+      "modeloSlug": "sprinter",
+      "ano": 2021,
+      "intent": "consumo",
+      "totalScore": 19,
+      "volumeBusca": 33.4,
+      "profundidadeDados": 10
+    },
+    {
+      "path": "/mercedes-benz/sprinter-2021-manutencao",
+      "marcaSlug": "mercedes-benz",
+      "modeloSlug": "sprinter",
+      "ano": 2021,
+      "intent": "manutencao",
+      "totalScore": 19,
+      "volumeBusca": 33.4,
+      "profundidadeDados": 10
+    },
+    {
+      "path": "/mercedes-benz/sprinter-2022-consumo",
+      "marcaSlug": "mercedes-benz",
+      "modeloSlug": "sprinter",
+      "ano": 2022,
+      "intent": "consumo",
+      "totalScore": 19,
+      "volumeBusca": 33.4,
+      "profundidadeDados": 10
+    },
+    {
+      "path": "/mercedes-benz/sprinter-2022-manutencao",
+      "marcaSlug": "mercedes-benz",
+      "modeloSlug": "sprinter",
+      "ano": 2022,
+      "intent": "manutencao",
+      "totalScore": 19,
+      "volumeBusca": 33.4,
+      "profundidadeDados": 10
+    },
+    {
+      "path": "/mercedes-benz/sprinter-2023-consumo",
+      "marcaSlug": "mercedes-benz",
+      "modeloSlug": "sprinter",
+      "ano": 2023,
+      "intent": "consumo",
+      "totalScore": 19,
+      "volumeBusca": 33.4,
+      "profundidadeDados": 10
+    },
+    {
+      "path": "/mercedes-benz/sprinter-2023-manutencao",
+      "marcaSlug": "mercedes-benz",
+      "modeloSlug": "sprinter",
+      "ano": 2023,
+      "intent": "manutencao",
+      "totalScore": 19,
+      "volumeBusca": 33.4,
+      "profundidadeDados": 10
+    },
+    {
+      "path": "/mercedes-benz/sprinter-2024-consumo",
+      "marcaSlug": "mercedes-benz",
+      "modeloSlug": "sprinter",
+      "ano": 2024,
+      "intent": "consumo",
+      "totalScore": 19,
+      "volumeBusca": 33.4,
+      "profundidadeDados": 10
+    },
+    {
+      "path": "/mercedes-benz/sprinter-2024-manutencao",
+      "marcaSlug": "mercedes-benz",
+      "modeloSlug": "sprinter",
+      "ano": 2024,
+      "intent": "manutencao",
+      "totalScore": 19,
+      "volumeBusca": 33.4,
+      "profundidadeDados": 10
+    },
+    {
+      "path": "/mercedes-benz/sprinter-2025-consumo",
+      "marcaSlug": "mercedes-benz",
+      "modeloSlug": "sprinter",
+      "ano": 2025,
+      "intent": "consumo",
+      "totalScore": 19,
+      "volumeBusca": 33.4,
+      "profundidadeDados": 10
+    },
+    {
+      "path": "/mercedes-benz/sprinter-2025-manutencao",
+      "marcaSlug": "mercedes-benz",
+      "modeloSlug": "sprinter",
+      "ano": 2025,
+      "intent": "manutencao",
+      "totalScore": 19,
+      "volumeBusca": 33.4,
+      "profundidadeDados": 10
+    }
+  ],
+  "fontes": {
+    "semanticManifest": true,
+    "intentsIndex": true
+  }
+}

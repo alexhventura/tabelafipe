@@ -3,6 +3,7 @@ import SearchBox from '../components/search/SearchBox';
 import { useSearchIndex, getMarcasFromIndex, getPopularItems } from '../hooks/useSearchIndex';
 import { usePageMeta } from '../hooks/usePageMeta';
 import { vehiclePath } from '../lib/slug';
+import { marcaPath } from '../lib/seo-routes';
 import { VehicleTipo } from '../types';
 import { useState } from 'react';
 
@@ -74,9 +75,13 @@ export default function HomePage() {
           </span>
           <div className="flex flex-wrap justify-center gap-x-3 gap-y-1 text-xs text-slate-500">
             {marcas.map((m) => (
-              <span key={m} className="capitalize hover:text-blue-600 cursor-default">
+              <Link
+                key={m}
+                to={marcaPath(m)}
+                className="capitalize hover:text-blue-600 min-h-[44px] inline-flex items-center"
+              >
                 {m}
-              </span>
+              </Link>
             ))}
           </div>
         </div>

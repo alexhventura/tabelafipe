@@ -1,0 +1,26 @@
+{
+  "geradoEm": "2026-06-20T19:23:39.613Z",
+  "totais": {
+    "veiculos": 50395,
+    "marcas": 228,
+    "modelos": 11238,
+    "versoes": 50395,
+    "anos": 48,
+    "porTipo": {
+      "carros": 30180,
+      "motos": 8847,
+      "caminhoes": 11368
+    }
+  },
+  "problemas": {
+    "idsDuplicados": 0,
+    "registrosPerdidosPorIdDuplicado": 0,
+    "semValor": 0,
+    "semCombustivel": 0,
+    "semCodigoFipe": 0,
+    "semMarca": 0,
+    "semModelo": 0,
+    "semAno": 1868
+  },
+  "amostraIdsDuplicados": []
+}

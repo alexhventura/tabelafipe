@@ -1,4 +1,48 @@
-import { HistoricoPreco, Vehicle } from '../types';
+import { ConsumoData, HistoricoPreco, Vehicle } from '../types';
+
+const DEFAULT_CONSUMO: ConsumoData = {
+  cidadeG: 10,
+  cidadeE: 7,
+  estradaG: 12,
+  estradaE: 8,
+};
+
+interface RawVehicle {
+  id: string;
+  nome: string;
+  marca: string;
+  modelo: string;
+  anoModelo?: number;
+  ano?: number;
+  fipeCodigo?: string;
+  codigoFipe?: string;
+  combustivel: string;
+  valorAtual?: number;
+  valor?: number;
+  categoriaPecas?: Vehicle['categoriaPecas'];
+  consumo?: Partial<ConsumoData>;
+  historicoPrecos?: HistoricoPreco[];
+}
+
+export function normalizeVehicle(raw: RawVehicle): Vehicle {
+  const historico = raw.historicoPrecos ?? [];
+  const valorAtual =
+    raw.valorAtual ?? raw.valor ?? historico[historico.length - 1]?.valor ?? 0;
+
+  return {
+    id: raw.id,
+    nome: raw.nome,
+    marca: raw.marca,
+    modelo: raw.modelo,
+    anoModelo: raw.anoModelo ?? raw.ano ?? 0,
+    fipeCodigo: raw.fipeCodigo ?? raw.codigoFipe ?? '',
+    combustivel: raw.combustivel,
+    valorAtual,
+    categoriaPecas: raw.categoriaPecas ?? 'media',
+    consumo: { ...DEFAULT_CONSUMO, ...raw.consumo },
+    historicoPrecos: historico,
+  };
+}
 
 export function computeTrend(historico: HistoricoPreco[], months: number): number | null {
   if (historico.length < 2) return null;
@@ -20,7 +64,7 @@ export async function loadVehicle(id: string, dataPath?: string): Promise<Vehicl
   for (const url of paths) {
     try {
       const res = await fetch(url);
-      if (res.ok) return (await res.json()) as Vehicle;
+      if (res.ok) return normalizeVehicle((await res.json()) as RawVehicle);
     } catch {
       /* tenta proxima fonte */
     }

@@ -1,0 +1,12 @@
+{
+  "geradoEm": "2026-06-20T19:54:53.849Z",
+  "fonte": "C:\\Users\\Alex Ventura\\Desktop\\consulta-tabela-fipe\\data\\raw\\fipex-prices-latest-merged.parquet",
+  "metricas": {
+    "veiculosAlvo": 50395,
+    "arquivosHistorico": 50395,
+    "importadosNestaExecucao": 50395,
+    "puladosExistentes": 0,
+    "totalPontosHistorico": 8938606,
+    "mediaPontosPorVeiculo": 177
+  }
+}

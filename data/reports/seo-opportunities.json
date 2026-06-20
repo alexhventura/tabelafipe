@@ -1,0 +1,26 @@
+{
+  "geradoEm": "2026-06-20T19:40:08.249Z",
+  "catalogo": {
+    "veiculos": 50395,
+    "marcas": 216,
+    "modelos": 11238,
+    "anos": 48
+  },
+  "busca": {
+    "urlsManifest": 50395,
+    "shards": 23,
+    "path": "/data/fipe/search/"
+  },
+  "estimativaUrls": {
+    "marca": 216,
+    "modelo": 11238,
+    "ano": 48,
+    "historico": 50395,
+    "fichaTecnica": 50395,
+    "comparativos": 63140703
+  },
+  "totais": {
+    "urlsCatalogoAtual": 100790,
+    "urlsSeoPotencial": 63303390
+  }
+}

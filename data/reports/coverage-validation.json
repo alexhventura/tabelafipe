@@ -1,0 +1,19 @@
+{
+  "geradoEm": "2026-06-20T19:38:00.817Z",
+  "fonte": "C:\\Users\\Alex Ventura\\Desktop\\consulta-tabela-fipe\\data\\raw\\fipex-prices-latest-merged.parquet",
+  "referenciaFipe": 202606,
+  "amostra": {
+    "total": 1000,
+    "seed": 42,
+    "solicitado": 1000
+  },
+  "resultados": {
+    "acertos": 1000,
+    "divergencias": 0,
+    "taxaAcerto": 100,
+    "taxaDivergencia": 0,
+    "meta99Porcento": true
+  },
+  "causasErro": {},
+  "amostraDivergencias": []
+}
