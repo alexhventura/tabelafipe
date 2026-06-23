@@ -60,12 +60,9 @@ async function loadFlatFallback(): Promise<SearchIndexItem[]> {
   return data.map(enrichIndexItem);
 }
 
-async function initCatalog(): Promise<{
-  index: SearchIndexItem[];
-  families: FamilySearchItem[];
-  total: number;
-  totalFamilies: number;
-}> {
+async function initCatalogMeta(): Promise<boolean> {
+  if (catalog) return true;
+
   for (const base of ['/data/fipe/search', '/api/fipe/search', '/api/search']) {
     const cat = new ShardedCatalog(base);
     const ok = await cat.init();
@@ -74,37 +71,99 @@ async function initCatalog(): Promise<{
       const fam = new FamilyCatalog(base);
       const famOk = await fam.init();
       familyCatalog = famOk ? fam : null;
-
-      if (familyCatalog) {
-        await familyCatalog.loadShard('c');
-        await familyCatalog.loadShard('g');
-        await familyCatalog.loadShard('s');
-      }
-
-      if ((cat.total ?? 0) <= 500) {
-        await cat.loadAll();
-      } else {
-        await cat.loadShard('c');
-        await cat.loadShard('g');
-        await cat.loadShard('s');
-      }
-
-      return {
-        index: cat.getFlatIndex().map(enrichIndexItem),
-        families: familyCatalog?.getFlatIndex() ?? [],
-        total: cat.total,
-        totalFamilies: familyCatalog?.total ?? 0,
-      };
+      return true;
     }
   }
 
-  flatFallback = await loadFlatFallback();
+  return false;
+}
+
+async function loadCatalogShards(): Promise<void> {
+  if (!catalog) return;
+
+  if (familyCatalog) {
+    await familyCatalog.loadShard('c');
+    await familyCatalog.loadShard('g');
+    await familyCatalog.loadShard('s');
+  }
+
+  if ((catalog.total ?? 0) <= 500) {
+    await catalog.loadAll();
+  } else {
+    await catalog.loadShard('c');
+    await catalog.loadShard('g');
+    await catalog.loadShard('s');
+  }
+}
+
+function snapshotCatalog(): {
+  index: SearchIndexItem[];
+  families: FamilySearchItem[];
+  total: number;
+  totalFamilies: number;
+} {
+  if (flatFallback) {
+    return {
+      index: flatFallback,
+      families: [],
+      total: flatFallback.length,
+      totalFamilies: 0,
+    };
+  }
+
   return {
-    index: flatFallback,
-    families: [],
-    total: flatFallback.length,
-    totalFamilies: 0,
+    index: catalog?.getFlatIndex().map(enrichIndexItem) ?? [],
+    families: familyCatalog?.getFlatIndex() ?? [],
+    total: catalog?.total ?? 0,
+    totalFamilies: familyCatalog?.total ?? 0,
   };
+}
+
+async function initCatalogFull(): Promise<{
+  index: SearchIndexItem[];
+  families: FamilySearchItem[];
+  total: number;
+  totalFamilies: number;
+}> {
+  const metaOk = await initCatalogMeta();
+  if (metaOk) {
+    await loadCatalogShards();
+    return snapshotCatalog();
+  }
+
+  flatFallback = await loadFlatFallback();
+  return snapshotCatalog();
+}
+
+let initMetaPromise: Promise<boolean> | null = null;
+let initFullPromise: Promise<ReturnType<typeof snapshotCatalog>> | null = null;
+
+function ensureCatalogMeta(): Promise<boolean> {
+  if (catalog || flatFallback) return Promise.resolve(true);
+  if (!initMetaPromise) {
+    initMetaPromise = initCatalogMeta().finally(() => {
+      initMetaPromise = null;
+    });
+  }
+  return initMetaPromise;
+}
+
+function ensureCatalogFull(): Promise<ReturnType<typeof snapshotCatalog>> {
+  if (cachedIndex) return Promise.resolve(snapshotCatalog());
+  if (!initFullPromise) {
+    initFullPromise = initCatalogFull()
+      .then((result) => {
+        cachedIndex = result.index;
+        cachedFamilies = result.families;
+        cachedTotal = result.total;
+        cachedTotalFamilies = result.totalFamilies;
+        return result;
+      })
+      .finally(() => {
+        initFullPromise = null;
+      });
+  }
+  return initFullPromise;
 }
 
 let cachedIndex: SearchIndexItem[] | null = null;
@@ -112,49 +171,98 @@ let cachedFamilies: FamilySearchItem[] | null = null;
 let cachedTotal = 0;
 let cachedTotalFamilies = 0;
 
-export function useSearchIndex() {
+export interface UseSearchIndexOptions {
+  /** Evita carregar shards na montagem; ideal para a home quando o fluxo guiado é o principal. */
+  lazy?: boolean;
+}
+
+function applySnapshot(
+  snapshot: ReturnType<typeof snapshotCatalog>,
+  setters: {
+    setIndex: (v: SearchIndexItem[]) => void;
+    setFamilies: (v: FamilySearchItem[]) => void;
+    setTotal: (v: number) => void;
+    setTotalFamilies: (v: number) => void;
+  },
+) {
+  cachedIndex = snapshot.index;
+  cachedFamilies = snapshot.families;
+  cachedTotal = snapshot.total;
+  cachedTotalFamilies = snapshot.totalFamilies;
+  setters.setIndex(snapshot.index);
+  setters.setFamilies(snapshot.families);
+  setters.setTotal(snapshot.total);
+  setters.setTotalFamilies(snapshot.totalFamilies);
+}
+
+export function useSearchIndex(options: UseSearchIndexOptions = {}) {
+  const lazy = options.lazy ?? false;
   const [index, setIndex] = useState<SearchIndexItem[]>(cachedIndex ?? []);
   const [families, setFamilies] = useState<FamilySearchItem[]>(cachedFamilies ?? []);
-  const [loading, setLoading] = useState(!cachedIndex);
+  const [loading, setLoading] = useState(!cachedIndex && !lazy);
   const [error, setError] = useState<string | null>(null);
   const [total, setTotal] = useState(cachedTotal || cachedIndex?.length || 0);
   const [totalFamilies, setTotalFamilies] = useState(cachedTotalFamilies);
 
-  const ensureShardsForQuery = useCallback(async (query: string) => {
-    const tasks: Promise<void>[] = [];
-    if (catalog) tasks.push(catalog.loadForQuery(query));
-    if (familyCatalog) tasks.push(familyCatalog.loadForQuery(query));
-    if (!tasks.length) return;
-    await Promise.all(tasks);
-    if (catalog) {
-      const next = catalog.getFlatIndex().map(enrichIndexItem);
-      cachedIndex = next;
-      setIndex(next);
-    }
-    if (familyCatalog) {
-      const nextFamilies = familyCatalog.getFlatIndex();
-      cachedFamilies = nextFamilies;
-      setFamilies(nextFamilies);
-    }
+  const syncFromCatalog = useCallback(() => {
+    const snapshot = snapshotCatalog();
+    applySnapshot(snapshot, { setIndex, setFamilies, setTotal, setTotalFamilies });
+    return snapshot;
   }, []);
 
-  useEffect(() => {
-    if (cachedIndex) return;
+  const ensureIndexReady = useCallback(async () => {
+    try {
+      const metaOk = await ensureCatalogMeta();
+      if (!metaOk && !flatFallback) {
+        flatFallback = await loadFlatFallback();
+      }
+      syncFromCatalog();
+    } catch {
+      setError('Nao foi possivel carregar o catalogo.');
+    }
+  }, [syncFromCatalog]);
 
-    initCatalog()
-      .then(({ index: enriched, families: fam, total: t, totalFamilies: tf }) => {
-        cachedIndex = enriched;
-        cachedFamilies = fam;
-        cachedTotal = t;
-        cachedTotalFamilies = tf;
-        setIndex(enriched);
-        setFamilies(fam);
-        setTotal(t);
-        setTotalFamilies(tf);
+  const ensureShardsForQuery = useCallback(
+    async (query: string) => {
+      if (!query.trim()) return;
+
+      try {
+        await ensureIndexReady();
+        const tasks: Promise<void>[] = [];
+        if (catalog) tasks.push(catalog.loadForQuery(query));
+        if (familyCatalog) tasks.push(familyCatalog.loadForQuery(query));
+        if (!tasks.length) return;
+        await Promise.all(tasks);
+        syncFromCatalog();
+      } catch {
+        setError('Nao foi possivel carregar o catalogo.');
+      }
+    },
+    [ensureIndexReady, syncFromCatalog],
+  );
+
+  useEffect(() => {
+    if (cachedIndex) {
+      setIndex(cachedIndex);
+      setFamilies(cachedFamilies ?? []);
+      setTotal(cachedTotal || cachedIndex.length);
+      setTotalFamilies(cachedTotalFamilies);
+      setLoading(false);
+      return;
+    }
+
+    if (lazy) {
+      setLoading(false);
+      return;
+    }
+
+    ensureCatalogFull()
+      .then((snapshot) => {
+        applySnapshot(snapshot, { setIndex, setFamilies, setTotal, setTotalFamilies });
       })
       .catch(() => setError('Nao foi possivel carregar o catalogo.'))
       .finally(() => setLoading(false));
-  }, []);
+  }, [lazy]);
 
   return {
     index,
@@ -164,6 +272,7 @@ export function useSearchIndex() {
     total: total || index.length,
     totalFamilies: totalFamilies || families.length,
     ensureShardsForQuery,
+    ensureIndexReady,
   };
 }
 

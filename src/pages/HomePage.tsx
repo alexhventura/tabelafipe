@@ -9,6 +9,7 @@ import {
   TrendingUp,
 } from 'lucide-react';
 import BrandLogo from '../components/brand/BrandLogo';
+import GuidedFipeSearch from '../components/search/GuidedFipeSearch';
 import SearchBox from '../components/search/SearchBox';
 import { useSearchIndex } from '../hooks/useSearchIndex';
 import { usePageMeta } from '../hooks/usePageMeta';
@@ -54,7 +55,7 @@ const HOME_FAQ = [
   },
   {
     q: 'Como consultar?',
-    a: 'Digite marca, modelo, versão, ano ou código FIPE no campo de busca. Selecione o veículo na lista e veja preço, histórico e ficha completa.',
+    a: 'Selecione montadora, modelo, versão e ano no fluxo guiado — ou use a busca rápida abaixo para atalhos por nome ou código FIPE.',
   },
   {
     q: 'Com que frequência atualiza?',
@@ -67,7 +68,7 @@ const HOME_FAQ = [
 ] as const;
 
 export default function HomePage() {
-  const { index, families, ensureShardsForQuery } = useSearchIndex();
+  const { index, families, ensureShardsForQuery, ensureIndexReady } = useSearchIndex({ lazy: true });
   const [tipo, setTipo] = useState<VehicleTipo>('carros');
 
   usePageMeta({
@@ -81,7 +82,7 @@ export default function HomePage() {
     <div className="w-full overflow-x-hidden">
       {/* HERO — único conteúdo acima da dobra */}
       <section
-        className="min-h-[100dvh] flex flex-col justify-center max-w-xl mx-auto px-4 py-10 sm:py-14"
+        className="min-h-[100dvh] flex flex-col justify-center max-w-2xl mx-auto px-4 py-10 sm:py-14"
         aria-label="Busca principal"
       >
         <div className="text-center space-y-6 w-full">
@@ -99,20 +100,27 @@ export default function HomePage() {
             </p>
           </div>
 
-          <div className="w-full text-left" role="search" aria-label="Busca de veículos">
-            <SearchBox
-              index={index}
-              families={families}
-              onQueryChange={ensureShardsForQuery}
-              tipo={tipo}
-              onTipoChange={setTipo}
-              autoFocus
-              size="hero"
-              showTabs
-              hideLabel
-              hideInlineExamples
-              placeholder="Digite marca, modelo, versão, ano ou código FIPE"
-            />
+          <div className="w-full text-left space-y-6" role="search">
+            <GuidedFipeSearch tipo={tipo} onTipoChange={setTipo} showTabs />
+
+            <div className="pt-2 border-t border-slate-200 dark:border-slate-800 space-y-3">
+              <p className="text-xs font-semibold text-slate-400 uppercase tracking-wider text-center">
+                Busca rápida
+              </p>
+              <SearchBox
+                index={index}
+                families={families}
+                onQueryChange={ensureShardsForQuery}
+                onActivate={() => void ensureIndexReady()}
+                tipo={tipo}
+                onTipoChange={setTipo}
+                size="hero"
+                showTabs={false}
+                hideLabel
+                hideInlineExamples
+                placeholder="Digite marca, modelo ou código FIPE"
+              />
+            </div>
           </div>
 
           <div className="flex flex-wrap justify-center gap-x-3 gap-y-1.5 text-xs text-slate-500">

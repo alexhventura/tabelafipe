@@ -93,4 +93,16 @@ export class FamilyCatalog {
       await this.loadShard(letter);
     }
   }
+
+  async loadAllShards(): Promise<void> {
+    if (!this.manifest?.shards?.length) return;
+    await Promise.all(this.manifest.shards.map((key) => this.loadShard(key)));
+  }
+
+  getFamiliesForMarca(marcaSlug: string, tipo?: VehicleTipo): FamilySearchItem[] {
+    const slug = normalizeText(marcaSlug);
+    return this.getFlatIndex()
+      .filter((f) => normalizeText(f.marcaSlug) === slug && (!tipo || f.tipo === tipo))
+      .sort((a, b) => b.versaoCount - a.versaoCount || a.familiaDisplay.localeCompare(b.familiaDisplay, 'pt-BR'));
+  }
 }

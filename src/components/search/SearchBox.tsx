@@ -26,6 +26,7 @@ interface SearchBoxProps {
   hideLabel?: boolean;
   hideInlineExamples?: boolean;
   placeholder?: string;
+  onActivate?: () => void;
 }
 
 const TIPOS: { id: VehicleTipo; label: string }[] = [
@@ -47,6 +48,7 @@ export default function SearchBox({
   hideLabel = false,
   hideInlineExamples = false,
   placeholder = 'Marca, modelo, versão, ano ou código FIPE',
+  onActivate,
 }: SearchBoxProps) {
   const navigate = useNavigate();
   const [query, setQuery] = useState(initialQuery);
@@ -226,9 +228,9 @@ export default function SearchBox({
         Buscar veículo
       </label>
       <div
-        className={`relative flex items-center bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-700 rounded-xl px-4 shadow-sm transition-all focus-within:border-blue-500 focus-within:ring-2 focus-within:ring-blue-500/20 ${
+        className={`relative flex items-center bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-700 rounded-xl px-4 shadow-sm focus-within:border-blue-500 ${
           size === 'hero' ? 'rounded-2xl shadow-md' : ''
-        } ${highConfidence && open ? 'border-emerald-500 ring-2 ring-emerald-500/20' : ''}`}
+        } ${highConfidence && open ? 'border-emerald-500' : ''}`}
       >
         <Search className="w-5 h-5 text-slate-400 shrink-0 mr-3" strokeWidth={1.5} aria-hidden />
         <input
@@ -246,7 +248,10 @@ export default function SearchBox({
             setOpen(true);
             setActiveIdx(0);
           }}
-          onFocus={() => setOpen(true)}
+          onFocus={() => {
+            onActivate?.();
+            setOpen(true);
+          }}
           onKeyDown={(e) => {
             if (e.key === 'ArrowDown') {
               e.preventDefault();
@@ -263,7 +268,9 @@ export default function SearchBox({
           }}
           className={`w-full bg-transparent focus:outline-none text-slate-900 dark:text-white placeholder-slate-400 ${inputClasses}`}
           id="main-fipe-search-input"
+          role="combobox"
           aria-label="Buscar veículo na Tabela FIPE"
+          aria-haspopup="listbox"
           aria-expanded={open && query.trim().length >= 1}
           aria-controls="search-dropdown-menu"
           aria-autocomplete="list"

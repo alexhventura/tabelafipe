@@ -26,7 +26,7 @@ export default function Footer() {
 
         <p className="text-xs text-slate-500 dark:text-slate-400 leading-relaxed max-w-3xl">{LEGAL_DISCLAIMER}</p>
 
-        <div className="flex flex-col sm:flex-row sm:items-center sm:justify-between gap-2 pt-4 border-t border-slate-100 dark:border-slate-800 text-[11px] text-slate-400">
+        <div className="flex flex-col sm:flex-row sm:items-center sm:justify-between gap-2 pt-4 border-t border-slate-100 dark:border-slate-800 text-[11px] text-slate-600 dark:text-slate-400">
           <p>
             © {year} {SITE_DOMAIN}
           </p>
