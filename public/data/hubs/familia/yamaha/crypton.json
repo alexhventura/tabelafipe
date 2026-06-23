@@ -1,0 +1,112 @@
+{
+  "tipo": "familia",
+  "slug": "crypton",
+  "canonicalPath": "/fipe/yamaha/crypton/",
+  "titulo": "YAMAHA crypton - Tabela FIPE",
+  "descricao": "9 versoes e anos do YAMAHA crypton na Tabela FIPE.",
+  "seo": {
+    "title": "YAMAHA crypton - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes YAMAHA crypton. 9 veiculos indexados.",
+    "h1": "YAMAHA crypton - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/yamaha/crypton/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "yamaha-crypton-100-2005-gasolina",
+      "fipeCodigo": "827004-0",
+      "displayName": "YAMAHA CRYPTON 100",
+      "valorAtual": 4493,
+      "canonicalPath": "/fipe/yamaha/crypton-100-2005-827004-0/",
+      "ano": 2005,
+      "marca": "YAMAHA"
+    },
+    {
+      "vehicleId": "yamaha-crypton-100-2004-gasolina",
+      "fipeCodigo": "827004-0",
+      "displayName": "YAMAHA CRYPTON 100",
+      "valorAtual": 4092,
+      "canonicalPath": "/fipe/yamaha/crypton-100-2004-827004-0/",
+      "ano": 2004,
+      "marca": "YAMAHA"
+    },
+    {
+      "vehicleId": "yamaha-crypton-100-2003-gasolina",
+      "fipeCodigo": "827004-0",
+      "displayName": "YAMAHA CRYPTON 100",
+      "valorAtual": 3992,
+      "canonicalPath": "/fipe/yamaha/crypton-100-2003-827004-0/",
+      "ano": 2003,
+      "marca": "YAMAHA"
+    },
+    {
+      "vehicleId": "yamaha-crypton-100-2002-gasolina",
+      "fipeCodigo": "827004-0",
+      "displayName": "YAMAHA CRYPTON 100",
+      "valorAtual": 3727,
+      "canonicalPath": "/fipe/yamaha/crypton-100-2002-827004-0/",
+      "ano": 2002,
+      "marca": "YAMAHA"
+    },
+    {
+      "vehicleId": "yamaha-crypton-100-2001-gasolina",
+      "fipeCodigo": "827004-0",
+      "displayName": "YAMAHA CRYPTON 100",
+      "valorAtual": 3636,
+      "canonicalPath": "/fipe/yamaha/crypton-100-2001-827004-0/",
+      "ano": 2001,
+      "marca": "YAMAHA"
+    },
+    {
+      "vehicleId": "yamaha-crypton-100-2000-gasolina",
+      "fipeCodigo": "827004-0",
+      "displayName": "YAMAHA CRYPTON 100",
+      "valorAtual": 2860,
+      "canonicalPath": "/fipe/yamaha/crypton-100-2000-827004-0/",
+      "ano": 2000,
+      "marca": "YAMAHA"
+    },
+    {
+      "vehicleId": "yamaha-crypton-100-1999-gasolina",
+      "fipeCodigo": "827004-0",
+      "displayName": "YAMAHA CRYPTON 100",
+      "valorAtual": 2400,
+      "canonicalPath": "/fipe/yamaha/crypton-100-1999-827004-0/",
+      "ano": 1999,
+      "marca": "YAMAHA"
+    },
+    {
+      "vehicleId": "yamaha-crypton-100-1998-gasolina",
+      "fipeCodigo": "827004-0",
+      "displayName": "YAMAHA CRYPTON 100",
+      "valorAtual": 1913,
+      "canonicalPath": "/fipe/yamaha/crypton-100-1998-827004-0/",
+      "ano": 1998,
+      "marca": "YAMAHA"
+    },
+    {
+      "vehicleId": "yamaha-crypton-100-1997-gasolina",
+      "fipeCodigo": "827004-0",
+      "displayName": "YAMAHA CRYPTON 100",
+      "valorAtual": 1652,
+      "canonicalPath": "/fipe/yamaha/crypton-100-1997-827004-0/",
+      "ano": 1997,
+      "marca": "YAMAHA"
+    }
+  ],
+  "stats": {
+    "total": 9,
+    "precoMin": 1652,
+    "precoMax": 4493,
+    "anos": [
+      2005,
+      2004,
+      2003,
+      2002,
+      2001,
+      2000,
+      1999,
+      1998,
+      1997
+    ]
+  }
+}

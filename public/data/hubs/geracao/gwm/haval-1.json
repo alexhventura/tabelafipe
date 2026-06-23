@@ -1,0 +1,84 @@
+{
+  "tipo": "geracao",
+  "slug": "haval-1",
+  "canonicalPath": "/geracao/gwm/haval-1/",
+  "titulo": "Geracao haval-1",
+  "descricao": "7 veiculos da geracao haval-1.",
+  "seo": {
+    "title": "Geracao haval-1 - Precos FIPE",
+    "description": "Veiculos da geracao haval-1 na Tabela FIPE.",
+    "h1": "Geracao haval-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/gwm/haval-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "gwm-haval-h6-19-1-5-hibrido-0-hibrido",
+      "fipeCodigo": "096008-0",
+      "displayName": "GWM Haval H6 19 1.5 (Hibrido)",
+      "valorAtual": 250333,
+      "canonicalPath": "/fipe/gwm/haval-h6-19-1-5-hibrido-0-096008-0/",
+      "ano": 0,
+      "marca": "GWM"
+    },
+    {
+      "vehicleId": "gwm-haval-h6-2-1-5-hibrido-0-hibrido",
+      "fipeCodigo": "096001-2",
+      "displayName": "GWM Haval H6 2 1.5 (Hibrido)",
+      "valorAtual": 223250,
+      "canonicalPath": "/fipe/gwm/haval-h6-2-1-5-hibrido-0-096001-2/",
+      "ano": 0,
+      "marca": "GWM"
+    },
+    {
+      "vehicleId": "gwm-haval-h6-34-1-5-awd-hibrido-0-hibrido",
+      "fipeCodigo": "096002-0",
+      "displayName": "GWM Haval H6 34 1.5 AWD (Hibrido)",
+      "valorAtual": 284772,
+      "canonicalPath": "/fipe/gwm/haval-h6-34-1-5-awd-hibrido-0-096002-0/",
+      "ano": 0,
+      "marca": "GWM"
+    },
+    {
+      "vehicleId": "gwm-haval-h6-35-1-5-awd-0-hibrido",
+      "fipeCodigo": "096016-0",
+      "displayName": "GWM Haval H6 35 1.5 AWD",
+      "valorAtual": 288800,
+      "canonicalPath": "/fipe/gwm/haval-h6-35-1-5-awd-0-096016-0/",
+      "ano": 0,
+      "marca": "GWM"
+    },
+    {
+      "vehicleId": "gwm-haval-h6-gt-1-5-awd-hibrido-0-hibrido",
+      "fipeCodigo": "096003-9",
+      "displayName": "GWM Haval H6 GT 1.5 AWD (Hibrido)",
+      "valorAtual": 325052,
+      "canonicalPath": "/fipe/gwm/haval-h6-gt-1-5-awd-hibrido-0-096003-9/",
+      "ano": 0,
+      "marca": "GWM"
+    },
+    {
+      "vehicleId": "gwm-haval-h6-one-1-5-hibrido-0-hibrido",
+      "fipeCodigo": "096010-1",
+      "displayName": "GWM Haval H6 ONE 1.5 (Hibrido)",
+      "valorAtual": 199000,
+      "canonicalPath": "/fipe/gwm/haval-h6-one-1-5-hibrido-0-096010-1/",
+      "ano": 0,
+      "marca": "GWM"
+    },
+    {
+      "vehicleId": "gwm-haval-h9-exclusive-td480-0-diesel",
+      "fipeCodigo": "096012-8",
+      "displayName": "GWM Haval H9 Exclusive TD480",
+      "valorAtual": 332990,
+      "canonicalPath": "/fipe/gwm/haval-h9-exclusive-td480-0-096012-8/",
+      "ano": 0,
+      "marca": "GWM"
+    }
+  ],
+  "stats": {
+    "total": 7
+  },
+  "meta": {
+    "geracaoId": "haval-1"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "cyberster-2",
+  "canonicalPath": "/geracao/mg/cyberster-2/",
+  "titulo": "Geracao cyberster-2",
+  "descricao": "2 veiculos da geracao cyberster-2.",
+  "seo": {
+    "title": "Geracao cyberster-2 - Precos FIPE",
+    "description": "Veiculos da geracao cyberster-2 na Tabela FIPE.",
+    "h1": "Geracao cyberster-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/mg/cyberster-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "mg-cyberster-awd-2026-eletrico",
+      "fipeCodigo": "076003-0",
+      "displayName": "MG Cyberster AWD",
+      "valorAtual": 474330,
+      "canonicalPath": "/fipe/mg/cyberster-awd-2026-076003-0/",
+      "ano": 2026,
+      "marca": "MG"
+    },
+    {
+      "vehicleId": "mg-cyberster-awd-2027-eletrico",
+      "fipeCodigo": "076003-0",
+      "displayName": "MG Cyberster AWD",
+      "valorAtual": 488499,
+      "canonicalPath": "/fipe/mg/cyberster-awd-2027-076003-0/",
+      "ano": 2027,
+      "marca": "MG"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "cyberster-2"
+  }
+}

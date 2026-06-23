@@ -1,0 +1,62 @@
+{
+  "tipo": "familia",
+  "slug": "116ia",
+  "canonicalPath": "/fipe/bmw/116ia/",
+  "titulo": "BMW 116ia - Tabela FIPE",
+  "descricao": "4 versoes e anos do BMW 116ia na Tabela FIPE.",
+  "seo": {
+    "title": "BMW 116ia - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes BMW 116ia. 4 veiculos indexados.",
+    "h1": "BMW 116ia - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/bmw/116ia/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "bmw-116ia-1-6-tb-16v-136cv-5p-2015-gasolina",
+      "fipeCodigo": "009171-5",
+      "displayName": "BMW 116iA 1.6 TB 16V 136cv 5p",
+      "valorAtual": 77015,
+      "canonicalPath": "/fipe/bmw/116ia-1-6-tb-16v-136cv-5p-2015-009171-5/",
+      "ano": 2015,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-116ia-1-6-tb-16v-136cv-5p-2014-gasolina",
+      "fipeCodigo": "009171-5",
+      "displayName": "BMW 116iA 1.6 TB 16V 136cv 5p",
+      "valorAtual": 68086,
+      "canonicalPath": "/fipe/bmw/116ia-1-6-tb-16v-136cv-5p-2014-009171-5/",
+      "ano": 2014,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-116ia-1-6-tb-16v-136cv-5p-2013-gasolina",
+      "fipeCodigo": "009171-5",
+      "displayName": "BMW 116iA 1.6 TB 16V 136cv 5p",
+      "valorAtual": 66232,
+      "canonicalPath": "/fipe/bmw/116ia-1-6-tb-16v-136cv-5p-2013-009171-5/",
+      "ano": 2013,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-116ia-1-6-tb-16v-136cv-5p-2012-gasolina",
+      "fipeCodigo": "009171-5",
+      "displayName": "BMW 116iA 1.6 TB 16V 136cv 5p",
+      "valorAtual": 63287,
+      "canonicalPath": "/fipe/bmw/116ia-1-6-tb-16v-136cv-5p-2012-009171-5/",
+      "ano": 2012,
+      "marca": "BMW"
+    }
+  ],
+  "stats": {
+    "total": 4,
+    "precoMin": 63287,
+    "precoMax": 77015,
+    "anos": [
+      2015,
+      2014,
+      2013,
+      2012
+    ]
+  }
+}

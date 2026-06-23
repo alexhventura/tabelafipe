@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "trajet-1",
+  "canonicalPath": "/geracao/hyundai/trajet-1/",
+  "titulo": "Geracao trajet-1",
+  "descricao": "2 veiculos da geracao trajet-1.",
+  "seo": {
+    "title": "Geracao trajet-1 - Precos FIPE",
+    "description": "Veiculos da geracao trajet-1 na Tabela FIPE.",
+    "h1": "Geracao trajet-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/hyundai/trajet-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "hyundai-trajet-gls-2-7-v6-24v-179cv-aut-2000-gasolina",
+      "fipeCodigo": "015047-9",
+      "displayName": "Hyundai Trajet GLS 2.7 V6 24v 179cv Aut.",
+      "valorAtual": 16198,
+      "canonicalPath": "/fipe/hyundai/trajet-gls-2-7-v6-24v-179cv-aut-2000-015047-9/",
+      "ano": 2000,
+      "marca": "Hyundai"
+    },
+    {
+      "vehicleId": "hyundai-trajet-gls-2-7-v6-24v-179cv-aut-2001-gasolina",
+      "fipeCodigo": "015047-9",
+      "displayName": "Hyundai Trajet GLS 2.7 V6 24v 179cv Aut.",
+      "valorAtual": 17144,
+      "canonicalPath": "/fipe/hyundai/trajet-gls-2-7-v6-24v-179cv-aut-2001-015047-9/",
+      "ano": 2001,
+      "marca": "Hyundai"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "trajet-1"
+  }
+}

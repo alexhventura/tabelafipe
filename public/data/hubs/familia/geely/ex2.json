@@ -1,0 +1,60 @@
+{
+  "tipo": "familia",
+  "slug": "ex2",
+  "canonicalPath": "/fipe/geely/ex2/",
+  "titulo": "GEELY ex2 - Tabela FIPE",
+  "descricao": "4 versoes e anos do GEELY ex2 na Tabela FIPE.",
+  "seo": {
+    "title": "GEELY ex2 - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes GEELY ex2. 4 veiculos indexados.",
+    "h1": "GEELY ex2 - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/geely/ex2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "geely-ex2-pro-2026-eletrico",
+      "fipeCodigo": "088005-1",
+      "displayName": "GEELY EX2 PRO",
+      "valorAtual": 118013,
+      "canonicalPath": "/fipe/geely/ex2-pro-2026-088005-1/",
+      "ano": 2026,
+      "marca": "GEELY"
+    },
+    {
+      "vehicleId": "geely-ex2-max-2026-eletrico",
+      "fipeCodigo": "088006-0",
+      "displayName": "GEELY EX2 MAX",
+      "valorAtual": 132793,
+      "canonicalPath": "/fipe/geely/ex2-max-2026-088006-0/",
+      "ano": 2026,
+      "marca": "GEELY"
+    },
+    {
+      "vehicleId": "geely-ex2-pro-0-eletrico",
+      "fipeCodigo": "088005-1",
+      "displayName": "GEELY EX2 PRO",
+      "valorAtual": 123800,
+      "canonicalPath": "/fipe/geely/ex2-pro-0-088005-1/",
+      "ano": 0,
+      "marca": "GEELY"
+    },
+    {
+      "vehicleId": "geely-ex2-max-0-eletrico",
+      "fipeCodigo": "088006-0",
+      "displayName": "GEELY EX2 MAX",
+      "valorAtual": 137866,
+      "canonicalPath": "/fipe/geely/ex2-max-0-088006-0/",
+      "ano": 0,
+      "marca": "GEELY"
+    }
+  ],
+  "stats": {
+    "total": 4,
+    "precoMin": 118013,
+    "precoMax": 137866,
+    "anos": [
+      2026,
+      0
+    ]
+  }
+}

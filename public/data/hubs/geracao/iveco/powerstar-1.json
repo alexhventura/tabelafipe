@@ -1,0 +1,57 @@
+{
+  "tipo": "geracao",
+  "slug": "powerstar-1",
+  "canonicalPath": "/geracao/iveco/powerstar-1/",
+  "titulo": "Geracao powerstar-1",
+  "descricao": "4 veiculos da geracao powerstar-1.",
+  "seo": {
+    "title": "Geracao powerstar-1 - Precos FIPE",
+    "description": "Veiculos da geracao powerstar-1 na Tabela FIPE.",
+    "h1": "Geracao powerstar-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/iveco/powerstar-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "iveco-powerstar-450-e37-diesel-2001-diesel",
+      "fipeCodigo": "506015-0",
+      "displayName": "IVECO POWERSTAR 450 E37 (diesel)",
+      "valorAtual": 77605,
+      "canonicalPath": "/fipe/iveco/powerstar-450-e37-diesel-2001-506015-0/",
+      "ano": 2001,
+      "marca": "IVECO"
+    },
+    {
+      "vehicleId": "iveco-powerstar-450-e37-diesel-2002-diesel",
+      "fipeCodigo": "506015-0",
+      "displayName": "IVECO POWERSTAR 450 E37 (diesel)",
+      "valorAtual": 80814,
+      "canonicalPath": "/fipe/iveco/powerstar-450-e37-diesel-2002-506015-0/",
+      "ano": 2002,
+      "marca": "IVECO"
+    },
+    {
+      "vehicleId": "iveco-powerstar-450-e37-diesel-2003-diesel",
+      "fipeCodigo": "506015-0",
+      "displayName": "IVECO POWERSTAR 450 E37 (diesel)",
+      "valorAtual": 92854,
+      "canonicalPath": "/fipe/iveco/powerstar-450-e37-diesel-2003-506015-0/",
+      "ano": 2003,
+      "marca": "IVECO"
+    },
+    {
+      "vehicleId": "iveco-powerstar-450-e37-diesel-2004-diesel",
+      "fipeCodigo": "506015-0",
+      "displayName": "IVECO POWERSTAR 450 E37 (diesel)",
+      "valorAtual": 115430,
+      "canonicalPath": "/fipe/iveco/powerstar-450-e37-diesel-2004-506015-0/",
+      "ano": 2004,
+      "marca": "IVECO"
+    }
+  ],
+  "stats": {
+    "total": 4
+  },
+  "meta": {
+    "geracaoId": "powerstar-1"
+  }
+}

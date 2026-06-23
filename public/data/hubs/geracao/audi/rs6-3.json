@@ -1,0 +1,57 @@
+{
+  "tipo": "geracao",
+  "slug": "rs6-3",
+  "canonicalPath": "/geracao/audi/rs6-3/",
+  "titulo": "Geracao rs6-3",
+  "descricao": "4 veiculos da geracao rs6-3.",
+  "seo": {
+    "title": "Geracao rs6-3 - Precos FIPE",
+    "description": "Veiculos da geracao rs6-3 na Tabela FIPE.",
+    "h1": "Geracao rs6-3",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/audi/rs6-3/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "audi-rs6-5-0-avant-fsi-v10-bi-tb-quattro-tip-2010-gasolina",
+      "fipeCodigo": "008149-3",
+      "displayName": "Audi RS6 5.0 Avant.FSI V10 Bi-TB Quattro Tip.",
+      "valorAtual": 360947,
+      "canonicalPath": "/fipe/audi/rs6-5-0-avant-fsi-v10-bi-tb-quattro-tip-2010-008149-3/",
+      "ano": 2010,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-rs6-5-0-avant-fsi-v10-bi-tb-quattro-tip-2011-gasolina",
+      "fipeCodigo": "008149-3",
+      "displayName": "Audi RS6 5.0 Avant.FSI V10 Bi-TB Quattro Tip.",
+      "valorAtual": 382548,
+      "canonicalPath": "/fipe/audi/rs6-5-0-avant-fsi-v10-bi-tb-quattro-tip-2011-008149-3/",
+      "ano": 2011,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-rs6-5-0-fsi-v10-bi-tb-quattro-tip-2010-gasolina",
+      "fipeCodigo": "008148-5",
+      "displayName": "Audi RS6 5.0 FSI V10 Bi-TB Quattro Tip.",
+      "valorAtual": 300865,
+      "canonicalPath": "/fipe/audi/rs6-5-0-fsi-v10-bi-tb-quattro-tip-2010-008148-5/",
+      "ano": 2010,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-rs6-5-0-fsi-v10-bi-tb-quattro-tip-2011-gasolina",
+      "fipeCodigo": "008148-5",
+      "displayName": "Audi RS6 5.0 FSI V10 Bi-TB Quattro Tip.",
+      "valorAtual": 321859,
+      "canonicalPath": "/fipe/audi/rs6-5-0-fsi-v10-bi-tb-quattro-tip-2011-008148-5/",
+      "ano": 2011,
+      "marca": "Audi"
+    }
+  ],
+  "stats": {
+    "total": 4
+  },
+  "meta": {
+    "geracaoId": "rs6-3"
+  }
+}

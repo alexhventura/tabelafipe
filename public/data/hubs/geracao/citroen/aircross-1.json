@@ -1,0 +1,48 @@
+{
+  "tipo": "geracao",
+  "slug": "aircross-1",
+  "canonicalPath": "/geracao/citroen/aircross-1/",
+  "titulo": "Geracao aircross-1",
+  "descricao": "3 veiculos da geracao aircross-1.",
+  "seo": {
+    "title": "Geracao aircross-1 - Precos FIPE",
+    "description": "Veiculos da geracao aircross-1 na Tabela FIPE.",
+    "h1": "Geracao aircross-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/citroen/aircross-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "citroen-aircross-f-pack-1-0-flex-tb-200-aut-0-flex",
+      "fipeCodigo": "011231-3",
+      "displayName": "Citroën AIRCROSS F. Pack 1.0 Flex TB 200 Aut.",
+      "valorAtual": 114565,
+      "canonicalPath": "/fipe/citroen/aircross-f-pack-1-0-flex-tb-200-aut-0-011231-3/",
+      "ano": 0,
+      "marca": "Citroën"
+    },
+    {
+      "vehicleId": "citroen-aircross-feel-1-0-flex-turbo-200-aut-0-flex",
+      "fipeCodigo": "011232-1",
+      "displayName": "Citroën AIRCROSS Feel 1.0 Flex Turbo 200 Aut.",
+      "valorAtual": 122283,
+      "canonicalPath": "/fipe/citroen/aircross-feel-1-0-flex-turbo-200-aut-0-011232-1/",
+      "ano": 0,
+      "marca": "Citroën"
+    },
+    {
+      "vehicleId": "citroen-aircross-shine-1-0-flex-tb-200-aut-0-flex",
+      "fipeCodigo": "011230-5",
+      "displayName": "Citroën AIRCROSS Shine 1.0 Flex TB 200 Aut.",
+      "valorAtual": 122170,
+      "canonicalPath": "/fipe/citroen/aircross-shine-1-0-flex-tb-200-aut-0-011230-5/",
+      "ano": 0,
+      "marca": "Citroën"
+    }
+  ],
+  "stats": {
+    "total": 3
+  },
+  "meta": {
+    "geracaoId": "aircross-1"
+  }
+}

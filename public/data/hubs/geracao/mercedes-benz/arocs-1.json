@@ -1,0 +1,84 @@
+{
+  "tipo": "geracao",
+  "slug": "arocs-1",
+  "canonicalPath": "/geracao/mercedes-benz/arocs-1/",
+  "titulo": "Geracao arocs-1",
+  "descricao": "7 veiculos da geracao arocs-1.",
+  "seo": {
+    "title": "Geracao arocs-1 - Precos FIPE",
+    "description": "Veiculos da geracao arocs-1 na Tabela FIPE.",
+    "h1": "Geracao arocs-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/mercedes-benz/arocs-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "mercedes-benz-arocs-3351-6x4-diesel-e6-0-diesel",
+      "fipeCodigo": "509359-7",
+      "displayName": "MERCEDES-BENZ AROCS 3351 6x4 (diesel)(E6)",
+      "valorAtual": 1053788,
+      "canonicalPath": "/fipe/mercedes-benz/arocs-3351-6x4-diesel-e6-0-509359-7/",
+      "ano": 0,
+      "marca": "MERCEDES-BENZ"
+    },
+    {
+      "vehicleId": "mercedes-benz-arocs-3351k-6x4-diesel-e6-0-diesel",
+      "fipeCodigo": "509349-0",
+      "displayName": "MERCEDES-BENZ AROCS 3351K 6x4 (diesel)(E6)",
+      "valorAtual": 1048311,
+      "canonicalPath": "/fipe/mercedes-benz/arocs-3351k-6x4-diesel-e6-0-509349-0/",
+      "ano": 0,
+      "marca": "MERCEDES-BENZ"
+    },
+    {
+      "vehicleId": "mercedes-benz-arocs-3351s-6x4-diesel-e6-0-diesel",
+      "fipeCodigo": "509350-3",
+      "displayName": "MERCEDES-BENZ AROCS 3351S 6x4 (diesel)(E6)",
+      "valorAtual": 1047152,
+      "canonicalPath": "/fipe/mercedes-benz/arocs-3351s-6x4-diesel-e6-0-509350-3/",
+      "ano": 0,
+      "marca": "MERCEDES-BENZ"
+    },
+    {
+      "vehicleId": "mercedes-benz-arocs-3353s-6x4-diesel-e6-0-diesel",
+      "fipeCodigo": "509363-5",
+      "displayName": "MERCEDES-BENZ AROCS 3353S 6x4 (diesel)(E6)",
+      "valorAtual": 1122836,
+      "canonicalPath": "/fipe/mercedes-benz/arocs-3353s-6x4-diesel-e6-0-509363-5/",
+      "ano": 0,
+      "marca": "MERCEDES-BENZ"
+    },
+    {
+      "vehicleId": "mercedes-benz-arocs-4051-8x4-diesel-e6-0-diesel",
+      "fipeCodigo": "509368-6",
+      "displayName": "MERCEDES-BENZ AROCS 4051 8x4 (diesel)(E6)",
+      "valorAtual": 1114000,
+      "canonicalPath": "/fipe/mercedes-benz/arocs-4051-8x4-diesel-e6-0-509368-6/",
+      "ano": 0,
+      "marca": "MERCEDES-BENZ"
+    },
+    {
+      "vehicleId": "mercedes-benz-arocs-4151k-6x4-diesel-e6-0-diesel",
+      "fipeCodigo": "509351-1",
+      "displayName": "MERCEDES-BENZ AROCS 4151K 6x4 (diesel)(E6)",
+      "valorAtual": 1161387,
+      "canonicalPath": "/fipe/mercedes-benz/arocs-4151k-6x4-diesel-e6-0-509351-1/",
+      "ano": 0,
+      "marca": "MERCEDES-BENZ"
+    },
+    {
+      "vehicleId": "mercedes-benz-arocs-4851-8x4-diesel-e6-0-diesel",
+      "fipeCodigo": "509360-0",
+      "displayName": "MERCEDES-BENZ AROCS 4851 8x4 (diesel)(E6)",
+      "valorAtual": 1246000,
+      "canonicalPath": "/fipe/mercedes-benz/arocs-4851-8x4-diesel-e6-0-509360-0/",
+      "ano": 0,
+      "marca": "MERCEDES-BENZ"
+    }
+  ],
+  "stats": {
+    "total": 7
+  },
+  "meta": {
+    "geracaoId": "arocs-1"
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "tipo": "geracao",
+  "slug": "aion-2",
+  "canonicalPath": "/geracao/gac/aion-2/",
+  "titulo": "Geracao aion-2",
+  "descricao": "9 veiculos da geracao aion-2.",
+  "seo": {
+    "title": "Geracao aion-2 - Precos FIPE",
+    "description": "Veiculos da geracao aion-2 na Tabela FIPE.",
+    "h1": "Geracao aion-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/gac/aion-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "gac-aion-es-plus-eletrico-2025-eletrico",
+      "fipeCodigo": "304002-0",
+      "displayName": "GAC AION ES Plus (Elétrico)",
+      "valorAtual": 144672,
+      "canonicalPath": "/fipe/gac/aion-es-plus-eletrico-2025-304002-0/",
+      "ano": 2025,
+      "marca": "GAC"
+    },
+    {
+      "vehicleId": "gac-aion-es-plus-eletrico-2026-eletrico",
+      "fipeCodigo": "304002-0",
+      "displayName": "GAC AION ES Plus (Elétrico)",
+      "valorAtual": 155257,
+      "canonicalPath": "/fipe/gac/aion-es-plus-eletrico-2026-304002-0/",
+      "ano": 2026,
+      "marca": "GAC"
+    },
+    {
+      "vehicleId": "gac-aion-v-elite-eletrico-2025-eletrico",
+      "fipeCodigo": "304006-2",
+      "displayName": "GAC AION V Elite (Elétrico)",
+      "valorAtual": 185767,
+      "canonicalPath": "/fipe/gac/aion-v-elite-eletrico-2025-304006-2/",
+      "ano": 2025,
+      "marca": "GAC"
+    },
+    {
+      "vehicleId": "gac-aion-v-elite-eletrico-2026-eletrico",
+      "fipeCodigo": "304006-2",
+      "displayName": "GAC AION V Elite (Elétrico)",
+      "valorAtual": 197367,
+      "canonicalPath": "/fipe/gac/aion-v-elite-eletrico-2026-304006-2/",
+      "ano": 2026,
+      "marca": "GAC"
+    },
+    {
+      "vehicleId": "gac-aion-v-elite-eletrico-2027-eletrico",
+      "fipeCodigo": "304006-2",
+      "displayName": "GAC AION V Elite (Elétrico)",
+      "valorAtual": 205168,
+      "canonicalPath": "/fipe/gac/aion-v-elite-eletrico-2027-304006-2/",
+      "ano": 2027,
+      "marca": "GAC"
+    },
+    {
+      "vehicleId": "gac-aion-y-elite-eletrico-2025-eletrico",
+      "fipeCodigo": "304008-9",
+      "displayName": "GAC AION Y Elite (Elétrico)",
+      "valorAtual": 157426,
+      "canonicalPath": "/fipe/gac/aion-y-elite-eletrico-2025-304008-9/",
+      "ano": 2025,
+      "marca": "GAC"
+    },
+    {
+      "vehicleId": "gac-aion-y-elite-eletrico-2026-eletrico",
+      "fipeCodigo": "304008-9",
+      "displayName": "GAC AION Y Elite (Elétrico)",
+      "valorAtual": 165481,
+      "canonicalPath": "/fipe/gac/aion-y-elite-eletrico-2026-304008-9/",
+      "ano": 2026,
+      "marca": "GAC"
+    },
+    {
+      "vehicleId": "gac-aion-y-premium-eletrico-2025-eletrico",
+      "fipeCodigo": "304007-0",
+      "displayName": "GAC AION Y Premium (Elétrico)",
+      "valorAtual": 151201,
+      "canonicalPath": "/fipe/gac/aion-y-premium-eletrico-2025-304007-0/",
+      "ano": 2025,
+      "marca": "GAC"
+    },
+    {
+      "vehicleId": "gac-aion-y-premium-eletrico-2026-eletrico",
+      "fipeCodigo": "304007-0",
+      "displayName": "GAC AION Y Premium (Elétrico)",
+      "valorAtual": 161652,
+      "canonicalPath": "/fipe/gac/aion-y-premium-eletrico-2026-304007-0/",
+      "ano": 2026,
+      "marca": "GAC"
+    }
+  ],
+  "stats": {
+    "total": 9
+  },
+  "meta": {
+    "geracaoId": "aion-2"
+  }
+}

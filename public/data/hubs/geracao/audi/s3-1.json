@@ -1,0 +1,66 @@
+{
+  "tipo": "geracao",
+  "slug": "s3-1",
+  "canonicalPath": "/geracao/audi/s3-1/",
+  "titulo": "Geracao s3-1",
+  "descricao": "5 veiculos da geracao s3-1.",
+  "seo": {
+    "title": "Geracao s3-1 - Precos FIPE",
+    "description": "Veiculos da geracao s3-1 na Tabela FIPE.",
+    "h1": "Geracao s3-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/audi/s3-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "audi-s3-1-8-225cv-turbo-quattro-1999-gasolina",
+      "fipeCodigo": "008066-7",
+      "displayName": "Audi S3 1.8 225cv Turbo Quattro",
+      "valorAtual": 53188,
+      "canonicalPath": "/fipe/audi/s3-1-8-225cv-turbo-quattro-1999-008066-7/",
+      "ano": 1999,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-s3-1-8-225cv-turbo-quattro-2000-gasolina",
+      "fipeCodigo": "008066-7",
+      "displayName": "Audi S3 1.8 225cv Turbo Quattro",
+      "valorAtual": 69620,
+      "canonicalPath": "/fipe/audi/s3-1-8-225cv-turbo-quattro-2000-008066-7/",
+      "ano": 2000,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-s3-1-8-225cv-turbo-quattro-2001-gasolina",
+      "fipeCodigo": "008066-7",
+      "displayName": "Audi S3 1.8 225cv Turbo Quattro",
+      "valorAtual": 105311,
+      "canonicalPath": "/fipe/audi/s3-1-8-225cv-turbo-quattro-2001-008066-7/",
+      "ano": 2001,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-s3-1-8-225cv-turbo-quattro-2002-gasolina",
+      "fipeCodigo": "008066-7",
+      "displayName": "Audi S3 1.8 225cv Turbo Quattro",
+      "valorAtual": 110434,
+      "canonicalPath": "/fipe/audi/s3-1-8-225cv-turbo-quattro-2002-008066-7/",
+      "ano": 2002,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-s3-1-8-225cv-turbo-quattro-2003-gasolina",
+      "fipeCodigo": "008066-7",
+      "displayName": "Audi S3 1.8 225cv Turbo Quattro",
+      "valorAtual": 114734,
+      "canonicalPath": "/fipe/audi/s3-1-8-225cv-turbo-quattro-2003-008066-7/",
+      "ano": 2003,
+      "marca": "Audi"
+    }
+  ],
+  "stats": {
+    "total": 5
+  },
+  "meta": {
+    "geracaoId": "s3-1"
+  }
+}

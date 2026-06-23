@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "a10000-1",
+  "canonicalPath": "/geracao/agrale/a10000-1/",
+  "titulo": "Geracao a10000-1",
+  "descricao": "2 veiculos da geracao a10000-1.",
+  "seo": {
+    "title": "Geracao a10000-1 - Precos FIPE",
+    "description": "Veiculos da geracao a10000-1 na Tabela FIPE.",
+    "h1": "Geracao a10000-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/agrale/a10000-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "agrale-a10000-2p-diesel-e6-0-diesel",
+      "fipeCodigo": "501042-0",
+      "displayName": "AGRALE A10000 2p (diesel) (E6)",
+      "valorAtual": 404270,
+      "canonicalPath": "/fipe/agrale/a10000-2p-diesel-e6-0-501042-0/",
+      "ano": 0,
+      "marca": "AGRALE"
+    },
+    {
+      "vehicleId": "agrale-a10000-4x4-2p-diesel-e6-0-diesel",
+      "fipeCodigo": "501044-6",
+      "displayName": "AGRALE A10000 4X4 2p (diesel) (E6)",
+      "valorAtual": 534000,
+      "canonicalPath": "/fipe/agrale/a10000-4x4-2p-diesel-e6-0-501044-6/",
+      "ano": 0,
+      "marca": "AGRALE"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "a10000-1"
+  }
+}

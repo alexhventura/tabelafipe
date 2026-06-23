@@ -1,0 +1,152 @@
+{
+  "tipo": "familia",
+  "slug": "mobilete",
+  "canonicalPath": "/fipe/caloi/mobilete/",
+  "titulo": "CALOI mobilete - Tabela FIPE",
+  "descricao": "13 versoes e anos do CALOI mobilete na Tabela FIPE.",
+  "seo": {
+    "title": "CALOI mobilete - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes CALOI mobilete. 13 veiculos indexados.",
+    "h1": "CALOI mobilete - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/caloi/mobilete/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "caloi-mobilete-50cc-2002-gasolina",
+      "fipeCodigo": "806001-0",
+      "displayName": "CALOI MOBILETE 50cc",
+      "valorAtual": 2374,
+      "canonicalPath": "/fipe/caloi/mobilete-50cc-2002-806001-0/",
+      "ano": 2002,
+      "marca": "CALOI"
+    },
+    {
+      "vehicleId": "caloi-mobilete-50cc-2001-gasolina",
+      "fipeCodigo": "806001-0",
+      "displayName": "CALOI MOBILETE 50cc",
+      "valorAtual": 2108,
+      "canonicalPath": "/fipe/caloi/mobilete-50cc-2001-806001-0/",
+      "ano": 2001,
+      "marca": "CALOI"
+    },
+    {
+      "vehicleId": "caloi-mobilete-50cc-2000-gasolina",
+      "fipeCodigo": "806001-0",
+      "displayName": "CALOI MOBILETE 50cc",
+      "valorAtual": 1911,
+      "canonicalPath": "/fipe/caloi/mobilete-50cc-2000-806001-0/",
+      "ano": 2000,
+      "marca": "CALOI"
+    },
+    {
+      "vehicleId": "caloi-mobilete-50cc-1999-gasolina",
+      "fipeCodigo": "806001-0",
+      "displayName": "CALOI MOBILETE 50cc",
+      "valorAtual": 1857,
+      "canonicalPath": "/fipe/caloi/mobilete-50cc-1999-806001-0/",
+      "ano": 1999,
+      "marca": "CALOI"
+    },
+    {
+      "vehicleId": "caloi-mobilete-50cc-1998-gasolina",
+      "fipeCodigo": "806001-0",
+      "displayName": "CALOI MOBILETE 50cc",
+      "valorAtual": 1806,
+      "canonicalPath": "/fipe/caloi/mobilete-50cc-1998-806001-0/",
+      "ano": 1998,
+      "marca": "CALOI"
+    },
+    {
+      "vehicleId": "caloi-mobilete-50cc-1997-gasolina",
+      "fipeCodigo": "806001-0",
+      "displayName": "CALOI MOBILETE 50cc",
+      "valorAtual": 1750,
+      "canonicalPath": "/fipe/caloi/mobilete-50cc-1997-806001-0/",
+      "ano": 1997,
+      "marca": "CALOI"
+    },
+    {
+      "vehicleId": "caloi-mobilete-50cc-1996-gasolina",
+      "fipeCodigo": "806001-0",
+      "displayName": "CALOI MOBILETE 50cc",
+      "valorAtual": 1689,
+      "canonicalPath": "/fipe/caloi/mobilete-50cc-1996-806001-0/",
+      "ano": 1996,
+      "marca": "CALOI"
+    },
+    {
+      "vehicleId": "caloi-mobilete-50cc-1995-gasolina",
+      "fipeCodigo": "806001-0",
+      "displayName": "CALOI MOBILETE 50cc",
+      "valorAtual": 1640,
+      "canonicalPath": "/fipe/caloi/mobilete-50cc-1995-806001-0/",
+      "ano": 1995,
+      "marca": "CALOI"
+    },
+    {
+      "vehicleId": "caloi-mobilete-50cc-1994-gasolina",
+      "fipeCodigo": "806001-0",
+      "displayName": "CALOI MOBILETE 50cc",
+      "valorAtual": 1584,
+      "canonicalPath": "/fipe/caloi/mobilete-50cc-1994-806001-0/",
+      "ano": 1994,
+      "marca": "CALOI"
+    },
+    {
+      "vehicleId": "caloi-mobilete-50cc-1993-gasolina",
+      "fipeCodigo": "806001-0",
+      "displayName": "CALOI MOBILETE 50cc",
+      "valorAtual": 1466,
+      "canonicalPath": "/fipe/caloi/mobilete-50cc-1993-806001-0/",
+      "ano": 1993,
+      "marca": "CALOI"
+    },
+    {
+      "vehicleId": "caloi-mobilete-50cc-1992-gasolina",
+      "fipeCodigo": "806001-0",
+      "displayName": "CALOI MOBILETE 50cc",
+      "valorAtual": 1409,
+      "canonicalPath": "/fipe/caloi/mobilete-50cc-1992-806001-0/",
+      "ano": 1992,
+      "marca": "CALOI"
+    },
+    {
+      "vehicleId": "caloi-mobilete-50cc-1991-gasolina",
+      "fipeCodigo": "806001-0",
+      "displayName": "CALOI MOBILETE 50cc",
+      "valorAtual": 1337,
+      "canonicalPath": "/fipe/caloi/mobilete-50cc-1991-806001-0/",
+      "ano": 1991,
+      "marca": "CALOI"
+    },
+    {
+      "vehicleId": "caloi-mobilete-50cc-1990-gasolina",
+      "fipeCodigo": "806001-0",
+      "displayName": "CALOI MOBILETE 50cc",
+      "valorAtual": 1302,
+      "canonicalPath": "/fipe/caloi/mobilete-50cc-1990-806001-0/",
+      "ano": 1990,
+      "marca": "CALOI"
+    }
+  ],
+  "stats": {
+    "total": 13,
+    "precoMin": 1302,
+    "precoMax": 2374,
+    "anos": [
+      2002,
+      2001,
+      2000,
+      1999,
+      1998,
+      1997,
+      1996,
+      1995,
+      1994,
+      1993,
+      1992,
+      1991,
+      1990
+    ]
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "tipo": "geracao",
+  "slug": "db5r-1",
+  "canonicalPath": "/geracao/bimota/db5r-1/",
+  "titulo": "Geracao db5r-1",
+  "descricao": "3 veiculos da geracao db5r-1.",
+  "seo": {
+    "title": "Geracao db5r-1 - Precos FIPE",
+    "description": "Veiculos da geracao db5r-1 na Tabela FIPE.",
+    "h1": "Geracao db5r-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/bimota/db5r-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "bimota-db5r-1078cc-2008-gasolina",
+      "fipeCodigo": "828004-5",
+      "displayName": "BIMOTA DB5R 1078cc",
+      "valorAtual": 37415,
+      "canonicalPath": "/fipe/bimota/db5r-1078cc-2008-828004-5/",
+      "ano": 2008,
+      "marca": "BIMOTA"
+    },
+    {
+      "vehicleId": "bimota-db5r-1078cc-2009-gasolina",
+      "fipeCodigo": "828004-5",
+      "displayName": "BIMOTA DB5R 1078cc",
+      "valorAtual": 39524,
+      "canonicalPath": "/fipe/bimota/db5r-1078cc-2009-828004-5/",
+      "ano": 2009,
+      "marca": "BIMOTA"
+    },
+    {
+      "vehicleId": "bimota-db5r-1078cc-2010-gasolina",
+      "fipeCodigo": "828004-5",
+      "displayName": "BIMOTA DB5R 1078cc",
+      "valorAtual": 40797,
+      "canonicalPath": "/fipe/bimota/db5r-1078cc-2010-828004-5/",
+      "ano": 2010,
+      "marca": "BIMOTA"
+    }
+  ],
+  "stats": {
+    "total": 3
+  },
+  "meta": {
+    "geracaoId": "db5r-1"
+  }
+}

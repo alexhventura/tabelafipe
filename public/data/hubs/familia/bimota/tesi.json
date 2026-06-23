@@ -1,0 +1,70 @@
+{
+  "tipo": "familia",
+  "slug": "tesi",
+  "canonicalPath": "/fipe/bimota/tesi/",
+  "titulo": "BIMOTA tesi - Tabela FIPE",
+  "descricao": "5 versoes e anos do BIMOTA tesi na Tabela FIPE.",
+  "seo": {
+    "title": "BIMOTA tesi - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes BIMOTA tesi. 5 veiculos indexados.",
+    "h1": "BIMOTA tesi - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/bimota/tesi/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "bimota-tesi-3d-1100cc-aluminio-2010-gasolina",
+      "fipeCodigo": "828009-6",
+      "displayName": "BIMOTA Tesi 3D 1100cc ( Alumínio)",
+      "valorAtual": 50867,
+      "canonicalPath": "/fipe/bimota/tesi-3d-1100cc-aluminio-2010-828009-6/",
+      "ano": 2010,
+      "marca": "BIMOTA"
+    },
+    {
+      "vehicleId": "bimota-tesi-3d-1100cc-carbono-2010-gasolina",
+      "fipeCodigo": "828008-8",
+      "displayName": "BIMOTA Tesi 3D 1100cc ( Carbono )",
+      "valorAtual": 59778,
+      "canonicalPath": "/fipe/bimota/tesi-3d-1100cc-carbono-2010-828008-8/",
+      "ano": 2010,
+      "marca": "BIMOTA"
+    },
+    {
+      "vehicleId": "bimota-tesi-3d-1100cc-aluminio-2009-gasolina",
+      "fipeCodigo": "828009-6",
+      "displayName": "BIMOTA Tesi 3D 1100cc ( Alumínio)",
+      "valorAtual": 44967,
+      "canonicalPath": "/fipe/bimota/tesi-3d-1100cc-aluminio-2009-828009-6/",
+      "ano": 2009,
+      "marca": "BIMOTA"
+    },
+    {
+      "vehicleId": "bimota-tesi-3d-1100cc-carbono-2009-gasolina",
+      "fipeCodigo": "828008-8",
+      "displayName": "BIMOTA Tesi 3D 1100cc ( Carbono )",
+      "valorAtual": 50964,
+      "canonicalPath": "/fipe/bimota/tesi-3d-1100cc-carbono-2009-828008-8/",
+      "ano": 2009,
+      "marca": "BIMOTA"
+    },
+    {
+      "vehicleId": "bimota-tesi-3d-1100cc-carbono-2008-gasolina",
+      "fipeCodigo": "828008-8",
+      "displayName": "BIMOTA Tesi 3D 1100cc ( Carbono )",
+      "valorAtual": 46231,
+      "canonicalPath": "/fipe/bimota/tesi-3d-1100cc-carbono-2008-828008-8/",
+      "ano": 2008,
+      "marca": "BIMOTA"
+    }
+  ],
+  "stats": {
+    "total": 5,
+    "precoMin": 44967,
+    "precoMax": 59778,
+    "anos": [
+      2010,
+      2009,
+      2008
+    ]
+  }
+}

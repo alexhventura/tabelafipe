@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "elegant-1",
+  "canonicalPath": "/geracao/brandy/elegant-1/",
+  "titulo": "Geracao elegant-1",
+  "descricao": "2 veiculos da geracao elegant-1.",
+  "seo": {
+    "title": "Geracao elegant-1 - Precos FIPE",
+    "description": "Veiculos da geracao elegant-1 na Tabela FIPE.",
+    "h1": "Geracao elegant-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/brandy/elegant-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "brandy-elegant-50-1995-gasolina",
+      "fipeCodigo": "804001-0",
+      "displayName": "BRANDY ELEGANT 50",
+      "valorAtual": 985,
+      "canonicalPath": "/fipe/brandy/elegant-50-1995-804001-0/",
+      "ano": 1995,
+      "marca": "BRANDY"
+    },
+    {
+      "vehicleId": "brandy-elegant-50-1996-gasolina",
+      "fipeCodigo": "804001-0",
+      "displayName": "BRANDY ELEGANT 50",
+      "valorAtual": 1028,
+      "canonicalPath": "/fipe/brandy/elegant-50-1996-804001-0/",
+      "ano": 1996,
+      "marca": "BRANDY"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "elegant-1"
+  }
+}

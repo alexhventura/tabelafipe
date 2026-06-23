@@ -1,0 +1,41 @@
+{
+  "tipo": "familia",
+  "slug": "senda",
+  "canonicalPath": "/fipe/derbi/senda/",
+  "titulo": "DERBI senda - Tabela FIPE",
+  "descricao": "2 versoes e anos do DERBI senda na Tabela FIPE.",
+  "seo": {
+    "title": "DERBI senda - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes DERBI senda. 2 veiculos indexados.",
+    "h1": "DERBI senda - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/derbi/senda/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "derbi-senda-r-49cc-2001-gasolina",
+      "fipeCodigo": "844001-8",
+      "displayName": "DERBI SENDA R 49cc",
+      "valorAtual": 2847,
+      "canonicalPath": "/fipe/derbi/senda-r-49cc-2001-844001-8/",
+      "ano": 2001,
+      "marca": "DERBI"
+    },
+    {
+      "vehicleId": "derbi-senda-sm-49cc-2001-gasolina",
+      "fipeCodigo": "844002-6",
+      "displayName": "DERBI SENDA SM 49cc",
+      "valorAtual": 2873,
+      "canonicalPath": "/fipe/derbi/senda-sm-49cc-2001-844002-6/",
+      "ano": 2001,
+      "marca": "DERBI"
+    }
+  ],
+  "stats": {
+    "total": 2,
+    "precoMin": 2847,
+    "precoMax": 2873,
+    "anos": [
+      2001
+    ]
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "tipo": "geracao",
+  "slug": "black-1",
+  "canonicalPath": "/geracao/mvk/black-1/",
+  "titulo": "Geracao black-1",
+  "descricao": "4 veiculos da geracao black-1.",
+  "seo": {
+    "title": "Geracao black-1 - Precos FIPE",
+    "description": "Veiculos da geracao black-1 na Tabela FIPE.",
+    "h1": "Geracao black-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/mvk/black-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "mvk-black-star-150-2007-gasolina",
+      "fipeCodigo": "845009-9",
+      "displayName": "MVK BLACK STAR 150",
+      "valorAtual": 2479,
+      "canonicalPath": "/fipe/mvk/black-star-150-2007-845009-9/",
+      "ano": 2007,
+      "marca": "MVK"
+    },
+    {
+      "vehicleId": "mvk-black-star-150-2008-gasolina",
+      "fipeCodigo": "845009-9",
+      "displayName": "MVK BLACK STAR 150",
+      "valorAtual": 2933,
+      "canonicalPath": "/fipe/mvk/black-star-150-2008-845009-9/",
+      "ano": 2008,
+      "marca": "MVK"
+    },
+    {
+      "vehicleId": "mvk-black-star-150-2009-gasolina",
+      "fipeCodigo": "845009-9",
+      "displayName": "MVK BLACK STAR 150",
+      "valorAtual": 3277,
+      "canonicalPath": "/fipe/mvk/black-star-150-2009-845009-9/",
+      "ano": 2009,
+      "marca": "MVK"
+    },
+    {
+      "vehicleId": "regal-raptor-black-jack-320-2009-gasolina",
+      "fipeCodigo": "872003-7",
+      "displayName": "REGAL RAPTOR BLACK JACK 320",
+      "valorAtual": 7033,
+      "canonicalPath": "/fipe/regal-raptor/black-jack-320-2009-872003-7/",
+      "ano": 2009,
+      "marca": "REGAL RAPTOR"
+    }
+  ],
+  "stats": {
+    "total": 4
+  },
+  "meta": {
+    "geracaoId": "black-1"
+  }
+}

@@ -1,0 +1,462 @@
+{
+  "tipo": "geracao",
+  "slug": "silverado-3",
+  "canonicalPath": "/geracao/chevrolet/silverado-3/",
+  "titulo": "Geracao silverado-3",
+  "descricao": "49 veiculos da geracao silverado-3.",
+  "seo": {
+    "title": "Geracao silverado-3 - Precos FIPE",
+    "description": "Veiculos da geracao silverado-3 na Tabela FIPE.",
+    "h1": "Geracao silverado-3",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/chevrolet/silverado-3/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "chevrolet-silverado-1997-gasolina",
+      "fipeCodigo": "004076-2",
+      "displayName": "GM - Chevrolet Silverado",
+      "valorAtual": 20523,
+      "canonicalPath": "/fipe/chevrolet/silverado-1997-004076-2/",
+      "ano": 1997,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-silverado-1998-gasolina",
+      "fipeCodigo": "004076-2",
+      "displayName": "GM - Chevrolet Silverado",
+      "valorAtual": 29276,
+      "canonicalPath": "/fipe/chevrolet/silverado-1998-004076-2/",
+      "ano": 1998,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-silverado-4-1-1997-gasolina",
+      "fipeCodigo": "004094-0",
+      "displayName": "GM - Chevrolet Silverado 4.1",
+      "valorAtual": 62031,
+      "canonicalPath": "/fipe/chevrolet/silverado-4-1-1997-004094-0/",
+      "ano": 1997,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-silverado-4-1-1998-gasolina",
+      "fipeCodigo": "004094-0",
+      "displayName": "GM - Chevrolet Silverado 4.1",
+      "valorAtual": 64207,
+      "canonicalPath": "/fipe/chevrolet/silverado-4-1-1998-004094-0/",
+      "ano": 1998,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-silverado-4-1-1999-gasolina",
+      "fipeCodigo": "004094-0",
+      "displayName": "GM - Chevrolet Silverado 4.1",
+      "valorAtual": 75265,
+      "canonicalPath": "/fipe/chevrolet/silverado-4-1-1999-004094-0/",
+      "ano": 1999,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-silverado-4-1-diesel-1997-diesel",
+      "fipeCodigo": "004095-9",
+      "displayName": "GM - Chevrolet Silverado 4.1 Diesel",
+      "valorAtual": 67411,
+      "canonicalPath": "/fipe/chevrolet/silverado-4-1-diesel-1997-004095-9/",
+      "ano": 1997,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-silverado-4-1-diesel-1998-diesel",
+      "fipeCodigo": "004095-9",
+      "displayName": "GM - Chevrolet Silverado 4.1 Diesel",
+      "valorAtual": 69097,
+      "canonicalPath": "/fipe/chevrolet/silverado-4-1-diesel-1998-004095-9/",
+      "ano": 1998,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-silverado-4-1-diesel-1999-diesel",
+      "fipeCodigo": "004095-9",
+      "displayName": "GM - Chevrolet Silverado 4.1 Diesel",
+      "valorAtual": 70825,
+      "canonicalPath": "/fipe/chevrolet/silverado-4-1-diesel-1999-004095-9/",
+      "ano": 1999,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-silverado-4-2-turbo-diesel-1997-diesel",
+      "fipeCodigo": "004096-7",
+      "displayName": "GM - Chevrolet Silverado 4.2 Turbo Diesel",
+      "valorAtual": 80514,
+      "canonicalPath": "/fipe/chevrolet/silverado-4-2-turbo-diesel-1997-004096-7/",
+      "ano": 1997,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-silverado-4-2-turbo-diesel-1998-diesel",
+      "fipeCodigo": "004096-7",
+      "displayName": "GM - Chevrolet Silverado 4.2 Turbo Diesel",
+      "valorAtual": 83244,
+      "canonicalPath": "/fipe/chevrolet/silverado-4-2-turbo-diesel-1998-004096-7/",
+      "ano": 1998,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-silverado-4-2-turbo-diesel-1999-diesel",
+      "fipeCodigo": "004096-7",
+      "displayName": "GM - Chevrolet Silverado 4.2 Turbo Diesel",
+      "valorAtual": 85342,
+      "canonicalPath": "/fipe/chevrolet/silverado-4-2-turbo-diesel-1999-004096-7/",
+      "ano": 1999,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-silverado-4-2-turbo-diesel-2000-diesel",
+      "fipeCodigo": "004096-7",
+      "displayName": "GM - Chevrolet Silverado 4.2 Turbo Diesel",
+      "valorAtual": 87646,
+      "canonicalPath": "/fipe/chevrolet/silverado-4-2-turbo-diesel-2000-004096-7/",
+      "ano": 2000,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-silverado-4-2-turbo-diesel-2001-diesel",
+      "fipeCodigo": "004096-7",
+      "displayName": "GM - Chevrolet Silverado 4.2 Turbo Diesel",
+      "valorAtual": 104062,
+      "canonicalPath": "/fipe/chevrolet/silverado-4-2-turbo-diesel-2001-004096-7/",
+      "ano": 2001,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-silverado-conquest-4-1-diesel-1998-diesel",
+      "fipeCodigo": "004109-2",
+      "displayName": "GM - Chevrolet Silverado Conquest 4.1 Diesel",
+      "valorAtual": 67342,
+      "canonicalPath": "/fipe/chevrolet/silverado-conquest-4-1-diesel-1998-004109-2/",
+      "ano": 1998,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-silverado-conquest-4-1-diesel-1999-diesel",
+      "fipeCodigo": "004109-2",
+      "displayName": "GM - Chevrolet Silverado Conquest 4.1 Diesel",
+      "valorAtual": 69026,
+      "canonicalPath": "/fipe/chevrolet/silverado-conquest-4-1-diesel-1999-004109-2/",
+      "ano": 1999,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-silverado-conquest-4-1-diesel-2000-diesel",
+      "fipeCodigo": "004109-2",
+      "displayName": "GM - Chevrolet Silverado Conquest 4.1 Diesel",
+      "valorAtual": 74608,
+      "canonicalPath": "/fipe/chevrolet/silverado-conquest-4-1-diesel-2000-004109-2/",
+      "ano": 2000,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-silverado-conquest-4-2-diesel-turbo-1998-diesel",
+      "fipeCodigo": "004110-6",
+      "displayName": "GM - Chevrolet Silverado Conquest 4.2 Diesel Turbo",
+      "valorAtual": 81901,
+      "canonicalPath": "/fipe/chevrolet/silverado-conquest-4-2-diesel-turbo-1998-004110-6/",
+      "ano": 1998,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-silverado-conquest-4-2-diesel-turbo-1999-diesel",
+      "fipeCodigo": "004110-6",
+      "displayName": "GM - Chevrolet Silverado Conquest 4.2 Diesel Turbo",
+      "valorAtual": 86864,
+      "canonicalPath": "/fipe/chevrolet/silverado-conquest-4-2-diesel-turbo-1999-004110-6/",
+      "ano": 1999,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-silverado-conquest-4-2-diesel-turbo-2000-diesel",
+      "fipeCodigo": "004110-6",
+      "displayName": "GM - Chevrolet Silverado Conquest 4.2 Diesel Turbo",
+      "valorAtual": 93952,
+      "canonicalPath": "/fipe/chevrolet/silverado-conquest-4-2-diesel-turbo-2000-004110-6/",
+      "ano": 2000,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-silverado-d20-rodeio-4-2-tb-diesel-2000-diesel",
+      "fipeCodigo": "004196-3",
+      "displayName": "GM - Chevrolet Silverado D20/ Rodeio 4.2 TB Diesel",
+      "valorAtual": 73114,
+      "canonicalPath": "/fipe/chevrolet/silverado-d20-rodeio-4-2-tb-diesel-2000-004196-3/",
+      "ano": 2000,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-silverado-d20-rodeio-4-2-tb-diesel-2001-diesel",
+      "fipeCodigo": "004196-3",
+      "displayName": "GM - Chevrolet Silverado D20/ Rodeio 4.2 TB Diesel",
+      "valorAtual": 102258,
+      "canonicalPath": "/fipe/chevrolet/silverado-d20-rodeio-4-2-tb-diesel-2001-004196-3/",
+      "ano": 2001,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-silverado-d20-rodeio-4-2-tb-diesel-2002-diesel",
+      "fipeCodigo": "004196-3",
+      "displayName": "GM - Chevrolet Silverado D20/ Rodeio 4.2 TB Diesel",
+      "valorAtual": 106983,
+      "canonicalPath": "/fipe/chevrolet/silverado-d20-rodeio-4-2-tb-diesel-2002-004196-3/",
+      "ano": 2002,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-silverado-dlx-4-1-1997-gasolina",
+      "fipeCodigo": "004097-5",
+      "displayName": "GM - Chevrolet Silverado DLX 4.1",
+      "valorAtual": 65417,
+      "canonicalPath": "/fipe/chevrolet/silverado-dlx-4-1-1997-004097-5/",
+      "ano": 1997,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-silverado-dlx-4-1-1998-gasolina",
+      "fipeCodigo": "004097-5",
+      "displayName": "GM - Chevrolet Silverado DLX 4.1",
+      "valorAtual": 71605,
+      "canonicalPath": "/fipe/chevrolet/silverado-dlx-4-1-1998-004097-5/",
+      "ano": 1998,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-silverado-dlx-4-1-1999-gasolina",
+      "fipeCodigo": "004097-5",
+      "displayName": "GM - Chevrolet Silverado DLX 4.1",
+      "valorAtual": 76063,
+      "canonicalPath": "/fipe/chevrolet/silverado-dlx-4-1-1999-004097-5/",
+      "ano": 1999,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-silverado-dlx-4-2-conquest-hd-diesel-1999-diesel",
+      "fipeCodigo": "004180-7",
+      "displayName": "GM - Chevrolet Silverado DLX 4.2 Conquest HD Diesel",
+      "valorAtual": 89114,
+      "canonicalPath": "/fipe/chevrolet/silverado-dlx-4-2-conquest-hd-diesel-1999-004180-7/",
+      "ano": 1999,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-silverado-dlx-4-2-conquest-hd-diesel-2000-diesel",
+      "fipeCodigo": "004180-7",
+      "displayName": "GM - Chevrolet Silverado DLX 4.2 Conquest HD Diesel",
+      "valorAtual": 102134,
+      "canonicalPath": "/fipe/chevrolet/silverado-dlx-4-2-conquest-hd-diesel-2000-004180-7/",
+      "ano": 2000,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-silverado-dlx-4-2-diesel-1997-diesel",
+      "fipeCodigo": "004098-3",
+      "displayName": "GM - Chevrolet Silverado DLX 4.2 Diesel",
+      "valorAtual": 80620,
+      "canonicalPath": "/fipe/chevrolet/silverado-dlx-4-2-diesel-1997-004098-3/",
+      "ano": 1997,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-silverado-dlx-4-2-diesel-1998-diesel",
+      "fipeCodigo": "004098-3",
+      "displayName": "GM - Chevrolet Silverado DLX 4.2 Diesel",
+      "valorAtual": 83411,
+      "canonicalPath": "/fipe/chevrolet/silverado-dlx-4-2-diesel-1998-004098-3/",
+      "ano": 1998,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-silverado-dlx-4-2-diesel-1999-diesel",
+      "fipeCodigo": "004098-3",
+      "displayName": "GM - Chevrolet Silverado DLX 4.2 Diesel",
+      "valorAtual": 85509,
+      "canonicalPath": "/fipe/chevrolet/silverado-dlx-4-2-diesel-1999-004098-3/",
+      "ano": 1999,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-silverado-dlx-4-2-diesel-2000-diesel",
+      "fipeCodigo": "004098-3",
+      "displayName": "GM - Chevrolet Silverado DLX 4.2 Diesel",
+      "valorAtual": 87712,
+      "canonicalPath": "/fipe/chevrolet/silverado-dlx-4-2-diesel-2000-004098-3/",
+      "ano": 2000,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-silverado-g-blazer-dlx-std-4-2-dies-tb-1999-diesel",
+      "fipeCodigo": "004089-4",
+      "displayName": "GM - Chevrolet Silverado G. Blazer DLX/ Std 4.2 Dies.TB",
+      "valorAtual": 64894,
+      "canonicalPath": "/fipe/chevrolet/silverado-g-blazer-dlx-std-4-2-dies-tb-1999-004089-4/",
+      "ano": 1999,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-silverado-g-blazer-dlx-std-4-2-dies-tb-2000-diesel",
+      "fipeCodigo": "004089-4",
+      "displayName": "GM - Chevrolet Silverado G. Blazer DLX/ Std 4.2 Dies.TB",
+      "valorAtual": 66517,
+      "canonicalPath": "/fipe/chevrolet/silverado-g-blazer-dlx-std-4-2-dies-tb-2000-004089-4/",
+      "ano": 2000,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-silverado-grand-blazer-dlx-4-1-mpfi-1999-gasolina",
+      "fipeCodigo": "004088-6",
+      "displayName": "GM - Chevrolet Silverado Grand Blazer DLX 4.1 mpfi",
+      "valorAtual": 71847,
+      "canonicalPath": "/fipe/chevrolet/silverado-grand-blazer-dlx-4-1-mpfi-1999-004088-6/",
+      "ano": 1999,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-silverado-trop-sl-van-t-diesel-todas-1998-diesel",
+      "fipeCodigo": "004214-5",
+      "displayName": "GM - Chevrolet Silverado Trop. SL/ Van T.Diesel (todas)",
+      "valorAtual": 83521,
+      "canonicalPath": "/fipe/chevrolet/silverado-trop-sl-van-t-diesel-todas-1998-004214-5/",
+      "ano": 1998,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-silverado-trop-sl-van-t-diesel-todas-1999-diesel",
+      "fipeCodigo": "004214-5",
+      "displayName": "GM - Chevrolet Silverado Trop. SL/ Van T.Diesel (todas)",
+      "valorAtual": 85652,
+      "canonicalPath": "/fipe/chevrolet/silverado-trop-sl-van-t-diesel-todas-1999-004214-5/",
+      "ano": 1999,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-silverado-trop-sl-van-t-diesel-todas-2000-diesel",
+      "fipeCodigo": "004214-5",
+      "displayName": "GM - Chevrolet Silverado Trop. SL/ Van T.Diesel (todas)",
+      "valorAtual": 87817,
+      "canonicalPath": "/fipe/chevrolet/silverado-trop-sl-van-t-diesel-todas-2000-004214-5/",
+      "ano": 2000,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-silverado-trop-sl-van-t-diesel-todas-2001-diesel",
+      "fipeCodigo": "004214-5",
+      "displayName": "GM - Chevrolet Silverado Trop. SL/ Van T.Diesel (todas)",
+      "valorAtual": 90333,
+      "canonicalPath": "/fipe/chevrolet/silverado-trop-sl-van-t-diesel-todas-2001-004214-5/",
+      "ano": 2001,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-silverado-tropical-cd-4-1-diesel-1997-diesel",
+      "fipeCodigo": "004149-1",
+      "displayName": "GM - Chevrolet Silverado Tropical CD 4.1 Diesel",
+      "valorAtual": 40387,
+      "canonicalPath": "/fipe/chevrolet/silverado-tropical-cd-4-1-diesel-1997-004149-1/",
+      "ano": 1997,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-silverado-tropical-cd-4-1-diesel-1998-diesel",
+      "fipeCodigo": "004149-1",
+      "displayName": "GM - Chevrolet Silverado Tropical CD 4.1 Diesel",
+      "valorAtual": 42446,
+      "canonicalPath": "/fipe/chevrolet/silverado-tropical-cd-4-1-diesel-1998-004149-1/",
+      "ano": 1998,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-silverado-tropical-cd-4-1-diesel-1999-diesel",
+      "fipeCodigo": "004149-1",
+      "displayName": "GM - Chevrolet Silverado Tropical CD 4.1 Diesel",
+      "valorAtual": 44373,
+      "canonicalPath": "/fipe/chevrolet/silverado-tropical-cd-4-1-diesel-1999-004149-1/",
+      "ano": 1999,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-silverado-tropical-cd-4-1-mpfi-1997-gasolina",
+      "fipeCodigo": "004148-3",
+      "displayName": "GM - Chevrolet Silverado Tropical CD 4.1 MPFI",
+      "valorAtual": 23447,
+      "canonicalPath": "/fipe/chevrolet/silverado-tropical-cd-4-1-mpfi-1997-004148-3/",
+      "ano": 1997,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-silverado-tropical-cd-4-1-mpfi-1998-gasolina",
+      "fipeCodigo": "004148-3",
+      "displayName": "GM - Chevrolet Silverado Tropical CD 4.1 MPFI",
+      "valorAtual": 26806,
+      "canonicalPath": "/fipe/chevrolet/silverado-tropical-cd-4-1-mpfi-1998-004148-3/",
+      "ano": 1998,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-silverado-tropical-cd-4-1-mpfi-1999-gasolina",
+      "fipeCodigo": "004148-3",
+      "displayName": "GM - Chevrolet Silverado Tropical CD 4.1 MPFI",
+      "valorAtual": 28446,
+      "canonicalPath": "/fipe/chevrolet/silverado-tropical-cd-4-1-mpfi-1999-004148-3/",
+      "ano": 1999,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-silverado-tropical-cd-4-2-diesel-1997-diesel",
+      "fipeCodigo": "004150-5",
+      "displayName": "GM - Chevrolet Silverado Tropical CD 4.2 Diesel",
+      "valorAtual": 56240,
+      "canonicalPath": "/fipe/chevrolet/silverado-tropical-cd-4-2-diesel-1997-004150-5/",
+      "ano": 1997,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-silverado-tropical-cd-4-2-diesel-1998-diesel",
+      "fipeCodigo": "004150-5",
+      "displayName": "GM - Chevrolet Silverado Tropical CD 4.2 Diesel",
+      "valorAtual": 60750,
+      "canonicalPath": "/fipe/chevrolet/silverado-tropical-cd-4-2-diesel-1998-004150-5/",
+      "ano": 1998,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-silverado-tropical-cd-4-2-diesel-1999-diesel",
+      "fipeCodigo": "004150-5",
+      "displayName": "GM - Chevrolet Silverado Tropical CD 4.2 Diesel",
+      "valorAtual": 65332,
+      "canonicalPath": "/fipe/chevrolet/silverado-tropical-cd-4-2-diesel-1999-004150-5/",
+      "ano": 1999,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-silverado-tropical-cd-4-2-diesel-2000-diesel",
+      "fipeCodigo": "004150-5",
+      "displayName": "GM - Chevrolet Silverado Tropical CD 4.2 Diesel",
+      "valorAtual": 72898,
+      "canonicalPath": "/fipe/chevrolet/silverado-tropical-cd-4-2-diesel-2000-004150-5/",
+      "ano": 2000,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-silverado-tropical-cd-4-2-diesel-2001-diesel",
+      "fipeCodigo": "004150-5",
+      "displayName": "GM - Chevrolet Silverado Tropical CD 4.2 Diesel",
+      "valorAtual": 79699,
+      "canonicalPath": "/fipe/chevrolet/silverado-tropical-cd-4-2-diesel-2001-004150-5/",
+      "ano": 2001,
+      "marca": "GM - Chevrolet"
+    }
+  ],
+  "stats": {
+    "total": 49
+  },
+  "meta": {
+    "geracaoId": "silverado-3"
+  }
+}

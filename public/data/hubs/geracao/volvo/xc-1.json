@@ -1,0 +1,84 @@
+{
+  "tipo": "geracao",
+  "slug": "xc-1",
+  "canonicalPath": "/geracao/volvo/xc-1/",
+  "titulo": "Geracao xc-1",
+  "descricao": "7 veiculos da geracao xc-1.",
+  "seo": {
+    "title": "Geracao xc-1 - Precos FIPE",
+    "description": "Veiculos da geracao xc-1 na Tabela FIPE.",
+    "h1": "Geracao xc-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/volvo/xc-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "volvo-xc-60-t-8-plus-2-0-awd-hibrido-0-hibrido",
+      "fipeCodigo": "029159-5",
+      "displayName": "Volvo XC 60 T-8 Plus 2.0 AWD (Híbrido)",
+      "valorAtual": 455404,
+      "canonicalPath": "/fipe/volvo/xc-60-t-8-plus-2-0-awd-hibrido-0-029159-5/",
+      "ano": 0,
+      "marca": "Volvo"
+    },
+    {
+      "vehicleId": "volvo-xc-60-t-8-pol-eng-2-0-awd-hibrido-0-hibrido",
+      "fipeCodigo": "029156-0",
+      "displayName": "Volvo XC 60 T-8 Pol. Eng. 2.0 AWD (Híbrido)",
+      "valorAtual": 529950,
+      "canonicalPath": "/fipe/volvo/xc-60-t-8-pol-eng-2-0-awd-hibrido-0-029156-0/",
+      "ano": 0,
+      "marca": "Volvo"
+    },
+    {
+      "vehicleId": "volvo-xc-60-t-8-ultra-2-0-awd-hibrido-0-hibrido",
+      "fipeCodigo": "029172-2",
+      "displayName": "Volvo XC 60 T-8 Ultra 2.0 AWD (Híbrido)",
+      "valorAtual": 506125,
+      "canonicalPath": "/fipe/volvo/xc-60-t-8-ultra-2-0-awd-hibrido-0-029172-2/",
+      "ano": 0,
+      "marca": "Volvo"
+    },
+    {
+      "vehicleId": "volvo-xc-60-t-8-ultra-dark-2-0-awd-hibrido-0-hibrido",
+      "fipeCodigo": "029173-0",
+      "displayName": "Volvo XC 60 T-8 Ultra Dark 2.0 AWD (Híbrido)",
+      "valorAtual": 516538,
+      "canonicalPath": "/fipe/volvo/xc-60-t-8-ultra-dark-2-0-awd-hibrido-0-029173-0/",
+      "ano": 0,
+      "marca": "Volvo"
+    },
+    {
+      "vehicleId": "volvo-xc-90-t-8-plus-2-0-awd-hibrido-0-hibrido",
+      "fipeCodigo": "029155-2",
+      "displayName": "Volvo XC 90 T-8 Plus 2.0 AWD (Híbrido)",
+      "valorAtual": 674617,
+      "canonicalPath": "/fipe/volvo/xc-90-t-8-plus-2-0-awd-hibrido-0-029155-2/",
+      "ano": 0,
+      "marca": "Volvo"
+    },
+    {
+      "vehicleId": "volvo-xc-90-t-8-ultra-2-0-awd-hibrido-0-hibrido",
+      "fipeCodigo": "029169-2",
+      "displayName": "Volvo XC 90 T-8 Ultra 2.0 AWD (Híbrido)",
+      "valorAtual": 724830,
+      "canonicalPath": "/fipe/volvo/xc-90-t-8-ultra-2-0-awd-hibrido-0-029169-2/",
+      "ano": 0,
+      "marca": "Volvo"
+    },
+    {
+      "vehicleId": "volvo-xc-90-t-8-ultra-dark-2-0-awd-hibrido-0-hibrido",
+      "fipeCodigo": "029168-4",
+      "displayName": "Volvo XC 90 T-8 Ultra Dark 2.0 AWD (Híbrido)",
+      "valorAtual": 735209,
+      "canonicalPath": "/fipe/volvo/xc-90-t-8-ultra-dark-2-0-awd-hibrido-0-029168-4/",
+      "ano": 0,
+      "marca": "Volvo"
+    }
+  ],
+  "stats": {
+    "total": 7
+  },
+  "meta": {
+    "geracaoId": "xc-1"
+  }
+}

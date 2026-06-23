@@ -1,0 +1,75 @@
+{
+  "tipo": "geracao",
+  "slug": "triton-1",
+  "canonicalPath": "/geracao/mitsubishi/triton-1/",
+  "titulo": "Geracao triton-1",
+  "descricao": "6 veiculos da geracao triton-1.",
+  "seo": {
+    "title": "Geracao triton-1 - Precos FIPE",
+    "description": "Veiculos da geracao triton-1 na Tabela FIPE.",
+    "h1": "Geracao triton-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/mitsubishi/triton-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "mitsubishi-triton-gls-2-4-cd-4x4-tb-diesel-aut-0-diesel",
+      "fipeCodigo": "022215-1",
+      "displayName": "Mitsubishi Triton GLS 2.4 CD 4x4 TB Diesel Aut.",
+      "valorAtual": 269990,
+      "canonicalPath": "/fipe/mitsubishi/triton-gls-2-4-cd-4x4-tb-diesel-aut-0-022215-1/",
+      "ano": 0,
+      "marca": "Mitsubishi"
+    },
+    {
+      "vehicleId": "mitsubishi-triton-gls-tarmac-2-4-cd-tb-aut-0-diesel",
+      "fipeCodigo": "022222-4",
+      "displayName": "Mitsubishi Triton GLS Tarmac 2.4 CD TB Aut.",
+      "valorAtual": 264997,
+      "canonicalPath": "/fipe/mitsubishi/triton-gls-tarmac-2-4-cd-tb-aut-0-022222-4/",
+      "ano": 0,
+      "marca": "Mitsubishi"
+    },
+    {
+      "vehicleId": "mitsubishi-triton-hpe-2-4-cd-4x4-tb-diesel-aut-0-diesel",
+      "fipeCodigo": "022213-5",
+      "displayName": "Mitsubishi Triton HPE 2.4 CD 4x4 TB Diesel Aut.",
+      "valorAtual": 309230,
+      "canonicalPath": "/fipe/mitsubishi/triton-hpe-2-4-cd-4x4-tb-diesel-aut-0-022213-5/",
+      "ano": 0,
+      "marca": "Mitsubishi"
+    },
+    {
+      "vehicleId": "mitsubishi-triton-hpe-s-2-4-cd-4x4-tb-diesel-aut-0-diesel",
+      "fipeCodigo": "022214-3",
+      "displayName": "Mitsubishi Triton HPE-S 2.4 CD 4x4 TB Diesel Aut.",
+      "valorAtual": 330790,
+      "canonicalPath": "/fipe/mitsubishi/triton-hpe-s-2-4-cd-4x4-tb-diesel-aut-0-022214-3/",
+      "ano": 0,
+      "marca": "Mitsubishi"
+    },
+    {
+      "vehicleId": "mitsubishi-triton-katana-2-4-cd-4x4-tb-diesel-aut-0-diesel",
+      "fipeCodigo": "022212-7",
+      "displayName": "Mitsubishi Triton Katana 2.4 CD 4x4 TB Diesel Aut.",
+      "valorAtual": 349890,
+      "canonicalPath": "/fipe/mitsubishi/triton-katana-2-4-cd-4x4-tb-diesel-aut-0-022212-7/",
+      "ano": 0,
+      "marca": "Mitsubishi"
+    },
+    {
+      "vehicleId": "mitsubishi-triton-savana-2-4-cd-4x4-tb-diesel-aut-0-diesel",
+      "fipeCodigo": "022224-0",
+      "displayName": "Mitsubishi Triton Savana 2.4 CD 4x4 TB Diesel Aut.",
+      "valorAtual": 349997,
+      "canonicalPath": "/fipe/mitsubishi/triton-savana-2-4-cd-4x4-tb-diesel-aut-0-022224-0/",
+      "ano": 0,
+      "marca": "Mitsubishi"
+    }
+  ],
+  "stats": {
+    "total": 6
+  },
+  "meta": {
+    "geracaoId": "triton-1"
+  }
+}

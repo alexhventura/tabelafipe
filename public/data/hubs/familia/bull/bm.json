@@ -1,0 +1,79 @@
+{
+  "tipo": "familia",
+  "slug": "bm",
+  "canonicalPath": "/fipe/bull/bm/",
+  "titulo": "BULL bm - Tabela FIPE",
+  "descricao": "6 versoes e anos do BULL bm na Tabela FIPE.",
+  "seo": {
+    "title": "BULL bm - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes BULL bm. 6 veiculos indexados.",
+    "h1": "BULL bm - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/bull/bm/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "bull-bm-s-180-2021-gasolina",
+      "fipeCodigo": "888006-9",
+      "displayName": "BULL BM-S 180",
+      "valorAtual": 9746,
+      "canonicalPath": "/fipe/bull/bm-s-180-2021-888006-9/",
+      "ano": 2021,
+      "marca": "BULL"
+    },
+    {
+      "vehicleId": "bull-bm-t180-2021-gasolina",
+      "fipeCodigo": "888011-5",
+      "displayName": "BULL BM-T180",
+      "valorAtual": 11121,
+      "canonicalPath": "/fipe/bull/bm-t180-2021-888011-5/",
+      "ano": 2021,
+      "marca": "BULL"
+    },
+    {
+      "vehicleId": "bull-bm-s-180-2020-gasolina",
+      "fipeCodigo": "888006-9",
+      "displayName": "BULL BM-S 180",
+      "valorAtual": 8774,
+      "canonicalPath": "/fipe/bull/bm-s-180-2020-888006-9/",
+      "ano": 2020,
+      "marca": "BULL"
+    },
+    {
+      "vehicleId": "bull-bm-t180-2020-gasolina",
+      "fipeCodigo": "888011-5",
+      "displayName": "BULL BM-T180",
+      "valorAtual": 10057,
+      "canonicalPath": "/fipe/bull/bm-t180-2020-888011-5/",
+      "ano": 2020,
+      "marca": "BULL"
+    },
+    {
+      "vehicleId": "bull-bm-s-180-2019-gasolina",
+      "fipeCodigo": "888006-9",
+      "displayName": "BULL BM-S 180",
+      "valorAtual": 7573,
+      "canonicalPath": "/fipe/bull/bm-s-180-2019-888006-9/",
+      "ano": 2019,
+      "marca": "BULL"
+    },
+    {
+      "vehicleId": "bull-bm-t180-2019-gasolina",
+      "fipeCodigo": "888011-5",
+      "displayName": "BULL BM-T180",
+      "valorAtual": 7831,
+      "canonicalPath": "/fipe/bull/bm-t180-2019-888011-5/",
+      "ano": 2019,
+      "marca": "BULL"
+    }
+  ],
+  "stats": {
+    "total": 6,
+    "precoMin": 7573,
+    "precoMax": 11121,
+    "anos": [
+      2021,
+      2020,
+      2019
+    ]
+  }
+}

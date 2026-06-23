@@ -1,0 +1,138 @@
+{
+  "tipo": "familia",
+  "slug": "xlr",
+  "canonicalPath": "/fipe/honda/xlr/",
+  "titulo": "HONDA xlr - Tabela FIPE",
+  "descricao": "12 versoes e anos do HONDA xlr na Tabela FIPE.",
+  "seo": {
+    "title": "HONDA xlr - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes HONDA xlr. 12 veiculos indexados.",
+    "h1": "HONDA xlr - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/honda/xlr/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "honda-xlr-125-2003-gasolina",
+      "fipeCodigo": "811043-3",
+      "displayName": "HONDA XLR 125",
+      "valorAtual": 7266,
+      "canonicalPath": "/fipe/honda/xlr-125-2003-811043-3/",
+      "ano": 2003,
+      "marca": "HONDA"
+    },
+    {
+      "vehicleId": "honda-xlr-125-es-2003-gasolina",
+      "fipeCodigo": "811060-3",
+      "displayName": "HONDA XLR 125 ES",
+      "valorAtual": 8301,
+      "canonicalPath": "/fipe/honda/xlr-125-es-2003-811060-3/",
+      "ano": 2003,
+      "marca": "HONDA"
+    },
+    {
+      "vehicleId": "honda-xlr-125-2002-gasolina",
+      "fipeCodigo": "811043-3",
+      "displayName": "HONDA XLR 125",
+      "valorAtual": 7088,
+      "canonicalPath": "/fipe/honda/xlr-125-2002-811043-3/",
+      "ano": 2002,
+      "marca": "HONDA"
+    },
+    {
+      "vehicleId": "honda-xlr-125-es-2002-gasolina",
+      "fipeCodigo": "811060-3",
+      "displayName": "HONDA XLR 125 ES",
+      "valorAtual": 8098,
+      "canonicalPath": "/fipe/honda/xlr-125-es-2002-811060-3/",
+      "ano": 2002,
+      "marca": "HONDA"
+    },
+    {
+      "vehicleId": "honda-xlr-125-2001-gasolina",
+      "fipeCodigo": "811043-3",
+      "displayName": "HONDA XLR 125",
+      "valorAtual": 6726,
+      "canonicalPath": "/fipe/honda/xlr-125-2001-811043-3/",
+      "ano": 2001,
+      "marca": "HONDA"
+    },
+    {
+      "vehicleId": "honda-xlr-125-es-2001-gasolina",
+      "fipeCodigo": "811060-3",
+      "displayName": "HONDA XLR 125 ES",
+      "valorAtual": 6756,
+      "canonicalPath": "/fipe/honda/xlr-125-es-2001-811060-3/",
+      "ano": 2001,
+      "marca": "HONDA"
+    },
+    {
+      "vehicleId": "honda-xlr-125-2000-gasolina",
+      "fipeCodigo": "811043-3",
+      "displayName": "HONDA XLR 125",
+      "valorAtual": 5778,
+      "canonicalPath": "/fipe/honda/xlr-125-2000-811043-3/",
+      "ano": 2000,
+      "marca": "HONDA"
+    },
+    {
+      "vehicleId": "honda-xlr-125-es-2000-gasolina",
+      "fipeCodigo": "811060-3",
+      "displayName": "HONDA XLR 125 ES",
+      "valorAtual": 5885,
+      "canonicalPath": "/fipe/honda/xlr-125-es-2000-811060-3/",
+      "ano": 2000,
+      "marca": "HONDA"
+    },
+    {
+      "vehicleId": "honda-xlr-125-1999-gasolina",
+      "fipeCodigo": "811043-3",
+      "displayName": "HONDA XLR 125",
+      "valorAtual": 5558,
+      "canonicalPath": "/fipe/honda/xlr-125-1999-811043-3/",
+      "ano": 1999,
+      "marca": "HONDA"
+    },
+    {
+      "vehicleId": "honda-xlr-125-1998-gasolina",
+      "fipeCodigo": "811043-3",
+      "displayName": "HONDA XLR 125",
+      "valorAtual": 4963,
+      "canonicalPath": "/fipe/honda/xlr-125-1998-811043-3/",
+      "ano": 1998,
+      "marca": "HONDA"
+    },
+    {
+      "vehicleId": "honda-xlr-125-1997-gasolina",
+      "fipeCodigo": "811043-3",
+      "displayName": "HONDA XLR 125",
+      "valorAtual": 4830,
+      "canonicalPath": "/fipe/honda/xlr-125-1997-811043-3/",
+      "ano": 1997,
+      "marca": "HONDA"
+    },
+    {
+      "vehicleId": "honda-xlr-125-1996-gasolina",
+      "fipeCodigo": "811043-3",
+      "displayName": "HONDA XLR 125",
+      "valorAtual": 4030,
+      "canonicalPath": "/fipe/honda/xlr-125-1996-811043-3/",
+      "ano": 1996,
+      "marca": "HONDA"
+    }
+  ],
+  "stats": {
+    "total": 12,
+    "precoMin": 4030,
+    "precoMax": 8301,
+    "anos": [
+      2003,
+      2002,
+      2001,
+      2000,
+      1999,
+      1998,
+      1997,
+      1996
+    ]
+  }
+}

@@ -1,0 +1,624 @@
+{
+  "tipo": "familia",
+  "slug": "ec",
+  "canonicalPath": "/fipe/gas-gas/ec/",
+  "titulo": "GAS GAS ec - Tabela FIPE",
+  "descricao": "65 versoes e anos do GAS GAS ec na Tabela FIPE.",
+  "seo": {
+    "title": "GAS GAS ec - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes GAS GAS ec. 65 veiculos indexados.",
+    "h1": "GAS GAS ec - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/gas-gas/ec/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "gas-gas-ec-250-enducross-2015-gasolina",
+      "fipeCodigo": "834005-6",
+      "displayName": "GAS GAS EC 250 ENDUCROSS",
+      "valorAtual": 26910,
+      "canonicalPath": "/fipe/gas-gas/ec-250-enducross-2015-834005-6/",
+      "ano": 2015,
+      "marca": "GAS GAS"
+    },
+    {
+      "vehicleId": "gas-gas-ec-300-enducross-2015-gasolina",
+      "fipeCodigo": "834006-4",
+      "displayName": "GAS GAS EC 300 ENDUCROSS",
+      "valorAtual": 33545,
+      "canonicalPath": "/fipe/gas-gas/ec-300-enducross-2015-834006-4/",
+      "ano": 2015,
+      "marca": "GAS GAS"
+    },
+    {
+      "vehicleId": "gas-gas-ec-250-enducross-2014-gasolina",
+      "fipeCodigo": "834005-6",
+      "displayName": "GAS GAS EC 250 ENDUCROSS",
+      "valorAtual": 25387,
+      "canonicalPath": "/fipe/gas-gas/ec-250-enducross-2014-834005-6/",
+      "ano": 2014,
+      "marca": "GAS GAS"
+    },
+    {
+      "vehicleId": "gas-gas-ec-300-enducross-2014-gasolina",
+      "fipeCodigo": "834006-4",
+      "displayName": "GAS GAS EC 300 ENDUCROSS",
+      "valorAtual": 28603,
+      "canonicalPath": "/fipe/gas-gas/ec-300-enducross-2014-834006-4/",
+      "ano": 2014,
+      "marca": "GAS GAS"
+    },
+    {
+      "vehicleId": "gas-gas-ec-450-fse-fsr-enducross-2014-gasolina",
+      "fipeCodigo": "834017-0",
+      "displayName": "GAS GAS EC 450/ FSE/ FSR ENDUCROSS",
+      "valorAtual": 28836,
+      "canonicalPath": "/fipe/gas-gas/ec-450-fse-fsr-enducross-2014-834017-0/",
+      "ano": 2014,
+      "marca": "GAS GAS"
+    },
+    {
+      "vehicleId": "gas-gas-ec-250-enducross-2013-gasolina",
+      "fipeCodigo": "834005-6",
+      "displayName": "GAS GAS EC 250 ENDUCROSS",
+      "valorAtual": 24505,
+      "canonicalPath": "/fipe/gas-gas/ec-250-enducross-2013-834005-6/",
+      "ano": 2013,
+      "marca": "GAS GAS"
+    },
+    {
+      "vehicleId": "gas-gas-ec-300-enducross-2013-gasolina",
+      "fipeCodigo": "834006-4",
+      "displayName": "GAS GAS EC 300 ENDUCROSS",
+      "valorAtual": 27693,
+      "canonicalPath": "/fipe/gas-gas/ec-300-enducross-2013-834006-4/",
+      "ano": 2013,
+      "marca": "GAS GAS"
+    },
+    {
+      "vehicleId": "gas-gas-ec-250-enducross-2012-gasolina",
+      "fipeCodigo": "834005-6",
+      "displayName": "GAS GAS EC 250 ENDUCROSS",
+      "valorAtual": 22649,
+      "canonicalPath": "/fipe/gas-gas/ec-250-enducross-2012-834005-6/",
+      "ano": 2012,
+      "marca": "GAS GAS"
+    },
+    {
+      "vehicleId": "gas-gas-ec-300-enducross-2012-gasolina",
+      "fipeCodigo": "834006-4",
+      "displayName": "GAS GAS EC 300 ENDUCROSS",
+      "valorAtual": 23395,
+      "canonicalPath": "/fipe/gas-gas/ec-300-enducross-2012-834006-4/",
+      "ano": 2012,
+      "marca": "GAS GAS"
+    },
+    {
+      "vehicleId": "gas-gas-ec-250-enducross-2011-gasolina",
+      "fipeCodigo": "834005-6",
+      "displayName": "GAS GAS EC 250 ENDUCROSS",
+      "valorAtual": 22067,
+      "canonicalPath": "/fipe/gas-gas/ec-250-enducross-2011-834005-6/",
+      "ano": 2011,
+      "marca": "GAS GAS"
+    },
+    {
+      "vehicleId": "gas-gas-ec-300-enducross-2011-gasolina",
+      "fipeCodigo": "834006-4",
+      "displayName": "GAS GAS EC 300 ENDUCROSS",
+      "valorAtual": 22518,
+      "canonicalPath": "/fipe/gas-gas/ec-300-enducross-2011-834006-4/",
+      "ano": 2011,
+      "marca": "GAS GAS"
+    },
+    {
+      "vehicleId": "gas-gas-ec-250-enducross-2010-gasolina",
+      "fipeCodigo": "834005-6",
+      "displayName": "GAS GAS EC 250 ENDUCROSS",
+      "valorAtual": 18256,
+      "canonicalPath": "/fipe/gas-gas/ec-250-enducross-2010-834005-6/",
+      "ano": 2010,
+      "marca": "GAS GAS"
+    },
+    {
+      "vehicleId": "gas-gas-ec-300-enducross-2010-gasolina",
+      "fipeCodigo": "834006-4",
+      "displayName": "GAS GAS EC 300 ENDUCROSS",
+      "valorAtual": 21771,
+      "canonicalPath": "/fipe/gas-gas/ec-300-enducross-2010-834006-4/",
+      "ano": 2010,
+      "marca": "GAS GAS"
+    },
+    {
+      "vehicleId": "gas-gas-ec-125-enducross-2009-gasolina",
+      "fipeCodigo": "834003-0",
+      "displayName": "GAS GAS EC 125 ENDUCROSS",
+      "valorAtual": 10971,
+      "canonicalPath": "/fipe/gas-gas/ec-125-enducross-2009-834003-0/",
+      "ano": 2009,
+      "marca": "GAS GAS"
+    },
+    {
+      "vehicleId": "gas-gas-ec-200-enducross-2009-gasolina",
+      "fipeCodigo": "834004-8",
+      "displayName": "GAS GAS EC 200 ENDUCROSS",
+      "valorAtual": 11006,
+      "canonicalPath": "/fipe/gas-gas/ec-200-enducross-2009-834004-8/",
+      "ano": 2009,
+      "marca": "GAS GAS"
+    },
+    {
+      "vehicleId": "gas-gas-ec-250-enducross-2009-gasolina",
+      "fipeCodigo": "834005-6",
+      "displayName": "GAS GAS EC 250 ENDUCROSS",
+      "valorAtual": 16408,
+      "canonicalPath": "/fipe/gas-gas/ec-250-enducross-2009-834005-6/",
+      "ano": 2009,
+      "marca": "GAS GAS"
+    },
+    {
+      "vehicleId": "gas-gas-ec-300-enducross-2009-gasolina",
+      "fipeCodigo": "834006-4",
+      "displayName": "GAS GAS EC 300 ENDUCROSS",
+      "valorAtual": 16809,
+      "canonicalPath": "/fipe/gas-gas/ec-300-enducross-2009-834006-4/",
+      "ano": 2009,
+      "marca": "GAS GAS"
+    },
+    {
+      "vehicleId": "gas-gas-ec-450-fse-fsr-enducross-2009-gasolina",
+      "fipeCodigo": "834017-0",
+      "displayName": "GAS GAS EC 450/ FSE/ FSR ENDUCROSS",
+      "valorAtual": 17226,
+      "canonicalPath": "/fipe/gas-gas/ec-450-fse-fsr-enducross-2009-834017-0/",
+      "ano": 2009,
+      "marca": "GAS GAS"
+    },
+    {
+      "vehicleId": "gas-gas-ec-125-enducross-2008-gasolina",
+      "fipeCodigo": "834003-0",
+      "displayName": "GAS GAS EC 125 ENDUCROSS",
+      "valorAtual": 9322,
+      "canonicalPath": "/fipe/gas-gas/ec-125-enducross-2008-834003-0/",
+      "ano": 2008,
+      "marca": "GAS GAS"
+    },
+    {
+      "vehicleId": "gas-gas-ec-200-enducross-2008-gasolina",
+      "fipeCodigo": "834004-8",
+      "displayName": "GAS GAS EC 200 ENDUCROSS",
+      "valorAtual": 10310,
+      "canonicalPath": "/fipe/gas-gas/ec-200-enducross-2008-834004-8/",
+      "ano": 2008,
+      "marca": "GAS GAS"
+    },
+    {
+      "vehicleId": "gas-gas-ec-250-enducross-2008-gasolina",
+      "fipeCodigo": "834005-6",
+      "displayName": "GAS GAS EC 250 ENDUCROSS",
+      "valorAtual": 14227,
+      "canonicalPath": "/fipe/gas-gas/ec-250-enducross-2008-834005-6/",
+      "ano": 2008,
+      "marca": "GAS GAS"
+    },
+    {
+      "vehicleId": "gas-gas-ec-300-enducross-2008-gasolina",
+      "fipeCodigo": "834006-4",
+      "displayName": "GAS GAS EC 300 ENDUCROSS",
+      "valorAtual": 14294,
+      "canonicalPath": "/fipe/gas-gas/ec-300-enducross-2008-834006-4/",
+      "ano": 2008,
+      "marca": "GAS GAS"
+    },
+    {
+      "vehicleId": "gas-gas-ec-450-fse-fsr-enducross-2008-gasolina",
+      "fipeCodigo": "834017-0",
+      "displayName": "GAS GAS EC 450/ FSE/ FSR ENDUCROSS",
+      "valorAtual": 15254,
+      "canonicalPath": "/fipe/gas-gas/ec-450-fse-fsr-enducross-2008-834017-0/",
+      "ano": 2008,
+      "marca": "GAS GAS"
+    },
+    {
+      "vehicleId": "gas-gas-ec-125-enducross-2007-gasolina",
+      "fipeCodigo": "834003-0",
+      "displayName": "GAS GAS EC 125 ENDUCROSS",
+      "valorAtual": 8950,
+      "canonicalPath": "/fipe/gas-gas/ec-125-enducross-2007-834003-0/",
+      "ano": 2007,
+      "marca": "GAS GAS"
+    },
+    {
+      "vehicleId": "gas-gas-ec-200-enducross-2007-gasolina",
+      "fipeCodigo": "834004-8",
+      "displayName": "GAS GAS EC 200 ENDUCROSS",
+      "valorAtual": 9818,
+      "canonicalPath": "/fipe/gas-gas/ec-200-enducross-2007-834004-8/",
+      "ano": 2007,
+      "marca": "GAS GAS"
+    },
+    {
+      "vehicleId": "gas-gas-ec-250-enducross-2007-gasolina",
+      "fipeCodigo": "834005-6",
+      "displayName": "GAS GAS EC 250 ENDUCROSS",
+      "valorAtual": 13332,
+      "canonicalPath": "/fipe/gas-gas/ec-250-enducross-2007-834005-6/",
+      "ano": 2007,
+      "marca": "GAS GAS"
+    },
+    {
+      "vehicleId": "gas-gas-ec-300-enducross-2007-gasolina",
+      "fipeCodigo": "834006-4",
+      "displayName": "GAS GAS EC 300 ENDUCROSS",
+      "valorAtual": 13374,
+      "canonicalPath": "/fipe/gas-gas/ec-300-enducross-2007-834006-4/",
+      "ano": 2007,
+      "marca": "GAS GAS"
+    },
+    {
+      "vehicleId": "gas-gas-ec-450-fse-fsr-enducross-2007-gasolina",
+      "fipeCodigo": "834017-0",
+      "displayName": "GAS GAS EC 450/ FSE/ FSR ENDUCROSS",
+      "valorAtual": 14128,
+      "canonicalPath": "/fipe/gas-gas/ec-450-fse-fsr-enducross-2007-834017-0/",
+      "ano": 2007,
+      "marca": "GAS GAS"
+    },
+    {
+      "vehicleId": "gas-gas-ec-250-enducross-2006-gasolina",
+      "fipeCodigo": "834005-6",
+      "displayName": "GAS GAS EC 250 ENDUCROSS",
+      "valorAtual": 12234,
+      "canonicalPath": "/fipe/gas-gas/ec-250-enducross-2006-834005-6/",
+      "ano": 2006,
+      "marca": "GAS GAS"
+    },
+    {
+      "vehicleId": "gas-gas-ec-300-enducross-2006-gasolina",
+      "fipeCodigo": "834006-4",
+      "displayName": "GAS GAS EC 300 ENDUCROSS",
+      "valorAtual": 12239,
+      "canonicalPath": "/fipe/gas-gas/ec-300-enducross-2006-834006-4/",
+      "ano": 2006,
+      "marca": "GAS GAS"
+    },
+    {
+      "vehicleId": "gas-gas-ec-450-fse-fsr-enducross-2006-gasolina",
+      "fipeCodigo": "834017-0",
+      "displayName": "GAS GAS EC 450/ FSE/ FSR ENDUCROSS",
+      "valorAtual": 13052,
+      "canonicalPath": "/fipe/gas-gas/ec-450-fse-fsr-enducross-2006-834017-0/",
+      "ano": 2006,
+      "marca": "GAS GAS"
+    },
+    {
+      "vehicleId": "gas-gas-ec-boy-50-2005-gasolina",
+      "fipeCodigo": "834013-7",
+      "displayName": "GAS GAS EC BOY 50",
+      "valorAtual": 3119,
+      "canonicalPath": "/fipe/gas-gas/ec-boy-50-2005-834013-7/",
+      "ano": 2005,
+      "marca": "GAS GAS"
+    },
+    {
+      "vehicleId": "gas-gas-ec-125-enducross-2005-gasolina",
+      "fipeCodigo": "834003-0",
+      "displayName": "GAS GAS EC 125 ENDUCROSS",
+      "valorAtual": 7571,
+      "canonicalPath": "/fipe/gas-gas/ec-125-enducross-2005-834003-0/",
+      "ano": 2005,
+      "marca": "GAS GAS"
+    },
+    {
+      "vehicleId": "gas-gas-ec-200-enducross-2005-gasolina",
+      "fipeCodigo": "834004-8",
+      "displayName": "GAS GAS EC 200 ENDUCROSS",
+      "valorAtual": 8169,
+      "canonicalPath": "/fipe/gas-gas/ec-200-enducross-2005-834004-8/",
+      "ano": 2005,
+      "marca": "GAS GAS"
+    },
+    {
+      "vehicleId": "gas-gas-ec-250-enducross-2005-gasolina",
+      "fipeCodigo": "834005-6",
+      "displayName": "GAS GAS EC 250 ENDUCROSS",
+      "valorAtual": 11443,
+      "canonicalPath": "/fipe/gas-gas/ec-250-enducross-2005-834005-6/",
+      "ano": 2005,
+      "marca": "GAS GAS"
+    },
+    {
+      "vehicleId": "gas-gas-ec-300-enducross-2005-gasolina",
+      "fipeCodigo": "834006-4",
+      "displayName": "GAS GAS EC 300 ENDUCROSS",
+      "valorAtual": 11591,
+      "canonicalPath": "/fipe/gas-gas/ec-300-enducross-2005-834006-4/",
+      "ano": 2005,
+      "marca": "GAS GAS"
+    },
+    {
+      "vehicleId": "gas-gas-ec-450-fse-fsr-enducross-2005-gasolina",
+      "fipeCodigo": "834017-0",
+      "displayName": "GAS GAS EC 450/ FSE/ FSR ENDUCROSS",
+      "valorAtual": 11743,
+      "canonicalPath": "/fipe/gas-gas/ec-450-fse-fsr-enducross-2005-834017-0/",
+      "ano": 2005,
+      "marca": "GAS GAS"
+    },
+    {
+      "vehicleId": "gas-gas-ec-boy-50-2004-gasolina",
+      "fipeCodigo": "834013-7",
+      "displayName": "GAS GAS EC BOY 50",
+      "valorAtual": 2748,
+      "canonicalPath": "/fipe/gas-gas/ec-boy-50-2004-834013-7/",
+      "ano": 2004,
+      "marca": "GAS GAS"
+    },
+    {
+      "vehicleId": "gas-gas-ec-125-enducross-2004-gasolina",
+      "fipeCodigo": "834003-0",
+      "displayName": "GAS GAS EC 125 ENDUCROSS",
+      "valorAtual": 6836,
+      "canonicalPath": "/fipe/gas-gas/ec-125-enducross-2004-834003-0/",
+      "ano": 2004,
+      "marca": "GAS GAS"
+    },
+    {
+      "vehicleId": "gas-gas-ec-200-enducross-2004-gasolina",
+      "fipeCodigo": "834004-8",
+      "displayName": "GAS GAS EC 200 ENDUCROSS",
+      "valorAtual": 7872,
+      "canonicalPath": "/fipe/gas-gas/ec-200-enducross-2004-834004-8/",
+      "ano": 2004,
+      "marca": "GAS GAS"
+    },
+    {
+      "vehicleId": "gas-gas-ec-250-enducross-2004-gasolina",
+      "fipeCodigo": "834005-6",
+      "displayName": "GAS GAS EC 250 ENDUCROSS",
+      "valorAtual": 10073,
+      "canonicalPath": "/fipe/gas-gas/ec-250-enducross-2004-834005-6/",
+      "ano": 2004,
+      "marca": "GAS GAS"
+    },
+    {
+      "vehicleId": "gas-gas-ec-300-enducross-2004-gasolina",
+      "fipeCodigo": "834006-4",
+      "displayName": "GAS GAS EC 300 ENDUCROSS",
+      "valorAtual": 10075,
+      "canonicalPath": "/fipe/gas-gas/ec-300-enducross-2004-834006-4/",
+      "ano": 2004,
+      "marca": "GAS GAS"
+    },
+    {
+      "vehicleId": "gas-gas-ec-450-fse-fsr-enducross-2004-gasolina",
+      "fipeCodigo": "834017-0",
+      "displayName": "GAS GAS EC 450/ FSE/ FSR ENDUCROSS",
+      "valorAtual": 11456,
+      "canonicalPath": "/fipe/gas-gas/ec-450-fse-fsr-enducross-2004-834017-0/",
+      "ano": 2004,
+      "marca": "GAS GAS"
+    },
+    {
+      "vehicleId": "gas-gas-ec-250-enducross-2003-gasolina",
+      "fipeCodigo": "834005-6",
+      "displayName": "GAS GAS EC 250 ENDUCROSS",
+      "valorAtual": 9235,
+      "canonicalPath": "/fipe/gas-gas/ec-250-enducross-2003-834005-6/",
+      "ano": 2003,
+      "marca": "GAS GAS"
+    },
+    {
+      "vehicleId": "gas-gas-ec-300-enducross-2003-gasolina",
+      "fipeCodigo": "834006-4",
+      "displayName": "GAS GAS EC 300 ENDUCROSS",
+      "valorAtual": 9736,
+      "canonicalPath": "/fipe/gas-gas/ec-300-enducross-2003-834006-4/",
+      "ano": 2003,
+      "marca": "GAS GAS"
+    },
+    {
+      "vehicleId": "gas-gas-ec-boy-50-2002-gasolina",
+      "fipeCodigo": "834013-7",
+      "displayName": "GAS GAS EC BOY 50",
+      "valorAtual": 2395,
+      "canonicalPath": "/fipe/gas-gas/ec-boy-50-2002-834013-7/",
+      "ano": 2002,
+      "marca": "GAS GAS"
+    },
+    {
+      "vehicleId": "gas-gas-ec-50-rookie-enduro-2002-gasolina",
+      "fipeCodigo": "834014-5",
+      "displayName": "GAS GAS EC 50 ROOKIE  ENDURO",
+      "valorAtual": 3163,
+      "canonicalPath": "/fipe/gas-gas/ec-50-rookie-enduro-2002-834014-5/",
+      "ano": 2002,
+      "marca": "GAS GAS"
+    },
+    {
+      "vehicleId": "gas-gas-ec-125-enducross-2002-gasolina",
+      "fipeCodigo": "834003-0",
+      "displayName": "GAS GAS EC 125 ENDUCROSS",
+      "valorAtual": 6214,
+      "canonicalPath": "/fipe/gas-gas/ec-125-enducross-2002-834003-0/",
+      "ano": 2002,
+      "marca": "GAS GAS"
+    },
+    {
+      "vehicleId": "gas-gas-ec-200-enducross-2002-gasolina",
+      "fipeCodigo": "834004-8",
+      "displayName": "GAS GAS EC 200 ENDUCROSS",
+      "valorAtual": 6547,
+      "canonicalPath": "/fipe/gas-gas/ec-200-enducross-2002-834004-8/",
+      "ano": 2002,
+      "marca": "GAS GAS"
+    },
+    {
+      "vehicleId": "gas-gas-ec-250-enducross-2002-gasolina",
+      "fipeCodigo": "834005-6",
+      "displayName": "GAS GAS EC 250 ENDUCROSS",
+      "valorAtual": 8692,
+      "canonicalPath": "/fipe/gas-gas/ec-250-enducross-2002-834005-6/",
+      "ano": 2002,
+      "marca": "GAS GAS"
+    },
+    {
+      "vehicleId": "gas-gas-ec-300-enducross-2002-gasolina",
+      "fipeCodigo": "834006-4",
+      "displayName": "GAS GAS EC 300 ENDUCROSS",
+      "valorAtual": 8981,
+      "canonicalPath": "/fipe/gas-gas/ec-300-enducross-2002-834006-4/",
+      "ano": 2002,
+      "marca": "GAS GAS"
+    },
+    {
+      "vehicleId": "gas-gas-ec-400-fse-enducross-2002-gasolina",
+      "fipeCodigo": "834016-1",
+      "displayName": "GAS GAS EC 400 FSE ENDUCROSS",
+      "valorAtual": 10827,
+      "canonicalPath": "/fipe/gas-gas/ec-400-fse-enducross-2002-834016-1/",
+      "ano": 2002,
+      "marca": "GAS GAS"
+    },
+    {
+      "vehicleId": "gas-gas-ec-boy-50-2001-gasolina",
+      "fipeCodigo": "834013-7",
+      "displayName": "GAS GAS EC BOY 50",
+      "valorAtual": 2288,
+      "canonicalPath": "/fipe/gas-gas/ec-boy-50-2001-834013-7/",
+      "ano": 2001,
+      "marca": "GAS GAS"
+    },
+    {
+      "vehicleId": "gas-gas-ec-50-rookie-enduro-2001-gasolina",
+      "fipeCodigo": "834014-5",
+      "displayName": "GAS GAS EC 50 ROOKIE  ENDURO",
+      "valorAtual": 3048,
+      "canonicalPath": "/fipe/gas-gas/ec-50-rookie-enduro-2001-834014-5/",
+      "ano": 2001,
+      "marca": "GAS GAS"
+    },
+    {
+      "vehicleId": "gas-gas-ec-125-enducross-2001-gasolina",
+      "fipeCodigo": "834003-0",
+      "displayName": "GAS GAS EC 125 ENDUCROSS",
+      "valorAtual": 5612,
+      "canonicalPath": "/fipe/gas-gas/ec-125-enducross-2001-834003-0/",
+      "ano": 2001,
+      "marca": "GAS GAS"
+    },
+    {
+      "vehicleId": "gas-gas-ec-200-enducross-2001-gasolina",
+      "fipeCodigo": "834004-8",
+      "displayName": "GAS GAS EC 200 ENDUCROSS",
+      "valorAtual": 5907,
+      "canonicalPath": "/fipe/gas-gas/ec-200-enducross-2001-834004-8/",
+      "ano": 2001,
+      "marca": "GAS GAS"
+    },
+    {
+      "vehicleId": "gas-gas-ec-250-enducross-2001-gasolina",
+      "fipeCodigo": "834005-6",
+      "displayName": "GAS GAS EC 250 ENDUCROSS",
+      "valorAtual": 8189,
+      "canonicalPath": "/fipe/gas-gas/ec-250-enducross-2001-834005-6/",
+      "ano": 2001,
+      "marca": "GAS GAS"
+    },
+    {
+      "vehicleId": "gas-gas-ec-300-enducross-2001-gasolina",
+      "fipeCodigo": "834006-4",
+      "displayName": "GAS GAS EC 300 ENDUCROSS",
+      "valorAtual": 8305,
+      "canonicalPath": "/fipe/gas-gas/ec-300-enducross-2001-834006-4/",
+      "ano": 2001,
+      "marca": "GAS GAS"
+    },
+    {
+      "vehicleId": "gas-gas-ec-boy-50-2000-gasolina",
+      "fipeCodigo": "834013-7",
+      "displayName": "GAS GAS EC BOY 50",
+      "valorAtual": 2042,
+      "canonicalPath": "/fipe/gas-gas/ec-boy-50-2000-834013-7/",
+      "ano": 2000,
+      "marca": "GAS GAS"
+    },
+    {
+      "vehicleId": "gas-gas-ec-200-enducross-2000-gasolina",
+      "fipeCodigo": "834004-8",
+      "displayName": "GAS GAS EC 200 ENDUCROSS",
+      "valorAtual": 5628,
+      "canonicalPath": "/fipe/gas-gas/ec-200-enducross-2000-834004-8/",
+      "ano": 2000,
+      "marca": "GAS GAS"
+    },
+    {
+      "vehicleId": "gas-gas-ec-250-enducross-2000-gasolina",
+      "fipeCodigo": "834005-6",
+      "displayName": "GAS GAS EC 250 ENDUCROSS",
+      "valorAtual": 7566,
+      "canonicalPath": "/fipe/gas-gas/ec-250-enducross-2000-834005-6/",
+      "ano": 2000,
+      "marca": "GAS GAS"
+    },
+    {
+      "vehicleId": "gas-gas-ec-300-enducross-2000-gasolina",
+      "fipeCodigo": "834006-4",
+      "displayName": "GAS GAS EC 300 ENDUCROSS",
+      "valorAtual": 7683,
+      "canonicalPath": "/fipe/gas-gas/ec-300-enducross-2000-834006-4/",
+      "ano": 2000,
+      "marca": "GAS GAS"
+    },
+    {
+      "vehicleId": "gas-gas-ec-200-enducross-1999-gasolina",
+      "fipeCodigo": "834004-8",
+      "displayName": "GAS GAS EC 200 ENDUCROSS",
+      "valorAtual": 5403,
+      "canonicalPath": "/fipe/gas-gas/ec-200-enducross-1999-834004-8/",
+      "ano": 1999,
+      "marca": "GAS GAS"
+    },
+    {
+      "vehicleId": "gas-gas-ec-250-enducross-1999-gasolina",
+      "fipeCodigo": "834005-6",
+      "displayName": "GAS GAS EC 250 ENDUCROSS",
+      "valorAtual": 6956,
+      "canonicalPath": "/fipe/gas-gas/ec-250-enducross-1999-834005-6/",
+      "ano": 1999,
+      "marca": "GAS GAS"
+    },
+    {
+      "vehicleId": "gas-gas-ec-300-enducross-1999-gasolina",
+      "fipeCodigo": "834006-4",
+      "displayName": "GAS GAS EC 300 ENDUCROSS",
+      "valorAtual": 7101,
+      "canonicalPath": "/fipe/gas-gas/ec-300-enducross-1999-834006-4/",
+      "ano": 1999,
+      "marca": "GAS GAS"
+    }
+  ],
+  "stats": {
+    "total": 65,
+    "precoMin": 2042,
+    "precoMax": 33545,
+    "anos": [
+      2015,
+      2014,
+      2013,
+      2012,
+      2011,
+      2010,
+      2009,
+      2008,
+      2007,
+      2006,
+      2005,
+      2004,
+      2003,
+      2002,
+      2001,
+      2000,
+      1999
+    ]
+  }
+}

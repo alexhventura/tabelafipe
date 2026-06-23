@@ -1,0 +1,66 @@
+{
+  "tipo": "geracao",
+  "slug": "kwid-1",
+  "canonicalPath": "/geracao/renault/kwid-1/",
+  "titulo": "Geracao kwid-1",
+  "descricao": "5 veiculos da geracao kwid-1.",
+  "seo": {
+    "title": "Geracao kwid-1 - Precos FIPE",
+    "description": "Veiculos da geracao kwid-1 na Tabela FIPE.",
+    "h1": "Geracao kwid-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/renault/kwid-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "renault-kwid-e-tech-techno-0-eletrico",
+      "fipeCodigo": "025339-1",
+      "displayName": "Renault KWID E-Tech Techno",
+      "valorAtual": 100603,
+      "canonicalPath": "/fipe/renault/kwid-e-tech-techno-0-025339-1/",
+      "ano": 0,
+      "marca": "Renault"
+    },
+    {
+      "vehicleId": "renault-kwid-iconic-1-0-flex-12v-5p-mec-0-flex",
+      "fipeCodigo": "025333-2",
+      "displayName": "Renault KWID Iconic 1.0 Flex 12V 5p Mec.",
+      "valorAtual": 75762,
+      "canonicalPath": "/fipe/renault/kwid-iconic-1-0-flex-12v-5p-mec-0-025333-2/",
+      "ano": 0,
+      "marca": "Renault"
+    },
+    {
+      "vehicleId": "renault-kwid-intense-1-0-flex-12v-5p-mec-0-flex",
+      "fipeCodigo": "025267-0",
+      "displayName": "Renault KWID Intense 1.0 Flex 12V 5p Mec.",
+      "valorAtual": 71515,
+      "canonicalPath": "/fipe/renault/kwid-intense-1-0-flex-12v-5p-mec-0-025267-0/",
+      "ano": 0,
+      "marca": "Renault"
+    },
+    {
+      "vehicleId": "renault-kwid-outsider-1-0-flex-12v-5p-mec-0-flex",
+      "fipeCodigo": "025279-4",
+      "displayName": "Renault KWID OUTSIDER 1.0 Flex 12V 5p Mec.",
+      "valorAtual": 75581,
+      "canonicalPath": "/fipe/renault/kwid-outsider-1-0-flex-12v-5p-mec-0-025279-4/",
+      "ano": 0,
+      "marca": "Renault"
+    },
+    {
+      "vehicleId": "renault-kwid-zen-1-0-flex-12v-5p-mec-0-flex",
+      "fipeCodigo": "025266-2",
+      "displayName": "Renault KWID Zen 1.0 Flex 12V 5p Mec.",
+      "valorAtual": 68817,
+      "canonicalPath": "/fipe/renault/kwid-zen-1-0-flex-12v-5p-mec-0-025266-2/",
+      "ano": 0,
+      "marca": "Renault"
+    }
+  ],
+  "stats": {
+    "total": 5
+  },
+  "meta": {
+    "geracaoId": "kwid-1"
+  }
+}

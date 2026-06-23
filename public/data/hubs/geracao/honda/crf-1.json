@@ -1,0 +1,111 @@
+{
+  "tipo": "geracao",
+  "slug": "crf-1",
+  "canonicalPath": "/geracao/honda/crf-1/",
+  "titulo": "Geracao crf-1",
+  "descricao": "10 veiculos da geracao crf-1.",
+  "seo": {
+    "title": "Geracao crf-1 - Precos FIPE",
+    "description": "Veiculos da geracao crf-1 na Tabela FIPE.",
+    "h1": "Geracao crf-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/honda/crf-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "honda-crf-1100l-africa-twin-0-gasolina",
+      "fipeCodigo": "811166-9",
+      "displayName": "HONDA CRF 1100L AFRICA TWIN",
+      "valorAtual": 95769,
+      "canonicalPath": "/fipe/honda/crf-1100l-africa-twin-0-811166-9/",
+      "ano": 0,
+      "marca": "HONDA"
+    },
+    {
+      "vehicleId": "honda-crf-1100l-africa-twin-adv-sports-es-0-gasolina",
+      "fipeCodigo": "811167-7",
+      "displayName": "HONDA CRF 1100L AFRICA TWIN ADV. SPORTS ES",
+      "valorAtual": 105540,
+      "canonicalPath": "/fipe/honda/crf-1100l-africa-twin-adv-sports-es-0-811167-7/",
+      "ano": 0,
+      "marca": "HONDA"
+    },
+    {
+      "vehicleId": "honda-crf-1100l-africa-twin-adv-sports-es-dct-0-gasolina",
+      "fipeCodigo": "811183-9",
+      "displayName": "HONDA CRF 1100L AFRICA TWIN ADV. SPORTS ES DCT",
+      "valorAtual": 128038,
+      "canonicalPath": "/fipe/honda/crf-1100l-africa-twin-adv-sports-es-dct-0-811183-9/",
+      "ano": 0,
+      "marca": "HONDA"
+    },
+    {
+      "vehicleId": "honda-crf-1100l-africa-twin-dct-0-gasolina",
+      "fipeCodigo": "811184-7",
+      "displayName": "HONDA CRF 1100L AFRICA TWIN DCT",
+      "valorAtual": 107978,
+      "canonicalPath": "/fipe/honda/crf-1100l-africa-twin-dct-0-811184-7/",
+      "ano": 0,
+      "marca": "HONDA"
+    },
+    {
+      "vehicleId": "honda-crf-250-f-0-gasolina",
+      "fipeCodigo": "811151-0",
+      "displayName": "HONDA CRF 250 F",
+      "valorAtual": 27634,
+      "canonicalPath": "/fipe/honda/crf-250-f-0-811151-0/",
+      "ano": 0,
+      "marca": "HONDA"
+    },
+    {
+      "vehicleId": "honda-crf-250-r-0-gasolina",
+      "fipeCodigo": "811173-1",
+      "displayName": "HONDA CRF 250 R",
+      "valorAtual": 79899,
+      "canonicalPath": "/fipe/honda/crf-250-r-0-811173-1/",
+      "ano": 0,
+      "marca": "HONDA"
+    },
+    {
+      "vehicleId": "honda-crf-250-rx-0-gasolina",
+      "fipeCodigo": "811187-1",
+      "displayName": "HONDA CRF 250 RX",
+      "valorAtual": 80263,
+      "canonicalPath": "/fipe/honda/crf-250-rx-0-811187-1/",
+      "ano": 0,
+      "marca": "HONDA"
+    },
+    {
+      "vehicleId": "honda-crf-300f-0-gasolina",
+      "fipeCodigo": "811191-0",
+      "displayName": "HONDA CRF 300F",
+      "valorAtual": 28372,
+      "canonicalPath": "/fipe/honda/crf-300f-0-811191-0/",
+      "ano": 0,
+      "marca": "HONDA"
+    },
+    {
+      "vehicleId": "honda-crf-450-r-0-gasolina",
+      "fipeCodigo": "811164-2",
+      "displayName": "HONDA CRF 450 R",
+      "valorAtual": 81267,
+      "canonicalPath": "/fipe/honda/crf-450-r-0-811164-2/",
+      "ano": 0,
+      "marca": "HONDA"
+    },
+    {
+      "vehicleId": "honda-crf-450-rx-0-gasolina",
+      "fipeCodigo": "811163-4",
+      "displayName": "HONDA CRF 450 RX",
+      "valorAtual": 90030,
+      "canonicalPath": "/fipe/honda/crf-450-rx-0-811163-4/",
+      "ano": 0,
+      "marca": "HONDA"
+    }
+  ],
+  "stats": {
+    "total": 10
+  },
+  "meta": {
+    "geracaoId": "crf-1"
+  }
+}

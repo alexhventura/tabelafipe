@@ -1,0 +1,102 @@
+{
+  "tipo": "geracao",
+  "slug": "dy125-1",
+  "canonicalPath": "/geracao/dayang/dy125-1/",
+  "titulo": "Geracao dy125-1",
+  "descricao": "9 veiculos da geracao dy125-1.",
+  "seo": {
+    "title": "Geracao dy125-1 - Precos FIPE",
+    "description": "Veiculos da geracao dy125-1 na Tabela FIPE.",
+    "h1": "Geracao dy125-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/dayang/dy125-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "dayang-dy125-18-2008-gasolina",
+      "fipeCodigo": "857005-1",
+      "displayName": "DAYANG DY125-18",
+      "valorAtual": 1995,
+      "canonicalPath": "/fipe/dayang/dy125-18-2008-857005-1/",
+      "ano": 2008,
+      "marca": "DAYANG"
+    },
+    {
+      "vehicleId": "dayang-dy125-36a-2008-gasolina",
+      "fipeCodigo": "857009-4",
+      "displayName": "DAYANG DY125-36A",
+      "valorAtual": 3072,
+      "canonicalPath": "/fipe/dayang/dy125-36a-2008-857009-4/",
+      "ano": 2008,
+      "marca": "DAYANG"
+    },
+    {
+      "vehicleId": "dayang-dy125-37-2008-gasolina",
+      "fipeCodigo": "857004-3",
+      "displayName": "DAYANG DY125-37",
+      "valorAtual": 1719,
+      "canonicalPath": "/fipe/dayang/dy125-37-2008-857004-3/",
+      "ano": 2008,
+      "marca": "DAYANG"
+    },
+    {
+      "vehicleId": "dayang-dy125-37-2009-gasolina",
+      "fipeCodigo": "857004-3",
+      "displayName": "DAYANG DY125-37",
+      "valorAtual": 1834,
+      "canonicalPath": "/fipe/dayang/dy125-37-2009-857004-3/",
+      "ano": 2009,
+      "marca": "DAYANG"
+    },
+    {
+      "vehicleId": "dayang-dy125-37-2010-gasolina",
+      "fipeCodigo": "857004-3",
+      "displayName": "DAYANG DY125-37",
+      "valorAtual": 2020,
+      "canonicalPath": "/fipe/dayang/dy125-37-2010-857004-3/",
+      "ano": 2010,
+      "marca": "DAYANG"
+    },
+    {
+      "vehicleId": "dayang-dy125-5-2008-gasolina",
+      "fipeCodigo": "857008-6",
+      "displayName": "DAYANG DY125-5",
+      "valorAtual": 2872,
+      "canonicalPath": "/fipe/dayang/dy125-5-2008-857008-6/",
+      "ano": 2008,
+      "marca": "DAYANG"
+    },
+    {
+      "vehicleId": "dayang-dy125-52-2008-gasolina",
+      "fipeCodigo": "857006-0",
+      "displayName": "DAYANG DY125-52",
+      "valorAtual": 2062,
+      "canonicalPath": "/fipe/dayang/dy125-52-2008-857006-0/",
+      "ano": 2008,
+      "marca": "DAYANG"
+    },
+    {
+      "vehicleId": "dayang-dy125-52-2009-gasolina",
+      "fipeCodigo": "857006-0",
+      "displayName": "DAYANG DY125-52",
+      "valorAtual": 2158,
+      "canonicalPath": "/fipe/dayang/dy125-52-2009-857006-0/",
+      "ano": 2009,
+      "marca": "DAYANG"
+    },
+    {
+      "vehicleId": "dayang-dy125-52-2010-gasolina",
+      "fipeCodigo": "857006-0",
+      "displayName": "DAYANG DY125-52",
+      "valorAtual": 2214,
+      "canonicalPath": "/fipe/dayang/dy125-52-2010-857006-0/",
+      "ano": 2010,
+      "marca": "DAYANG"
+    }
+  ],
+  "stats": {
+    "total": 9
+  },
+  "meta": {
+    "geracaoId": "dy125-1"
+  }
+}

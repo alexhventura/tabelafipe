@@ -1,0 +1,62 @@
+{
+  "tipo": "familia",
+  "slug": "primera",
+  "canonicalPath": "/fipe/nissan/primera/",
+  "titulo": "Nissan primera - Tabela FIPE",
+  "descricao": "4 versoes e anos do Nissan primera na Tabela FIPE.",
+  "seo": {
+    "title": "Nissan primera - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes Nissan primera. 4 veiculos indexados.",
+    "h1": "Nissan primera - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/nissan/primera/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "nissan-primera-gxe-2-0-16v-2000-gasolina",
+      "fipeCodigo": "023014-6",
+      "displayName": "Nissan Primera GXE 2.0 16V",
+      "valorAtual": 13213,
+      "canonicalPath": "/fipe/nissan/primera-gxe-2-0-16v-2000-023014-6/",
+      "ano": 2000,
+      "marca": "Nissan"
+    },
+    {
+      "vehicleId": "nissan-primera-gxe-2-0-16v-1999-gasolina",
+      "fipeCodigo": "023014-6",
+      "displayName": "Nissan Primera GXE 2.0 16V",
+      "valorAtual": 12252,
+      "canonicalPath": "/fipe/nissan/primera-gxe-2-0-16v-1999-023014-6/",
+      "ano": 1999,
+      "marca": "Nissan"
+    },
+    {
+      "vehicleId": "nissan-primera-gxe-2-0-16v-1998-gasolina",
+      "fipeCodigo": "023014-6",
+      "displayName": "Nissan Primera GXE 2.0 16V",
+      "valorAtual": 11953,
+      "canonicalPath": "/fipe/nissan/primera-gxe-2-0-16v-1998-023014-6/",
+      "ano": 1998,
+      "marca": "Nissan"
+    },
+    {
+      "vehicleId": "nissan-primera-gxe-2-0-16v-1997-gasolina",
+      "fipeCodigo": "023014-6",
+      "displayName": "Nissan Primera GXE 2.0 16V",
+      "valorAtual": 10992,
+      "canonicalPath": "/fipe/nissan/primera-gxe-2-0-16v-1997-023014-6/",
+      "ano": 1997,
+      "marca": "Nissan"
+    }
+  ],
+  "stats": {
+    "total": 4,
+    "precoMin": 10992,
+    "precoMax": 13213,
+    "anos": [
+      2000,
+      1999,
+      1998,
+      1997
+    ]
+  }
+}

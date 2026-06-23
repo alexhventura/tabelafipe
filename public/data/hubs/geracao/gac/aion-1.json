@@ -1,0 +1,57 @@
+{
+  "tipo": "geracao",
+  "slug": "aion-1",
+  "canonicalPath": "/geracao/gac/aion-1/",
+  "titulo": "Geracao aion-1",
+  "descricao": "4 veiculos da geracao aion-1.",
+  "seo": {
+    "title": "Geracao aion-1 - Precos FIPE",
+    "description": "Veiculos da geracao aion-1 na Tabela FIPE.",
+    "h1": "Geracao aion-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/gac/aion-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "gac-aion-es-plus-eletrico-0-eletrico",
+      "fipeCodigo": "304002-0",
+      "displayName": "GAC AION ES Plus (Elétrico)",
+      "valorAtual": 170620,
+      "canonicalPath": "/fipe/gac/aion-es-plus-eletrico-0-304002-0/",
+      "ano": 0,
+      "marca": "GAC"
+    },
+    {
+      "vehicleId": "gac-aion-v-elite-eletrico-0-eletrico",
+      "fipeCodigo": "304006-2",
+      "displayName": "GAC AION V Elite (Elétrico)",
+      "valorAtual": 219990,
+      "canonicalPath": "/fipe/gac/aion-v-elite-eletrico-0-304006-2/",
+      "ano": 0,
+      "marca": "GAC"
+    },
+    {
+      "vehicleId": "gac-aion-y-elite-eletrico-0-eletrico",
+      "fipeCodigo": "304008-9",
+      "displayName": "GAC AION Y Elite (Elétrico)",
+      "valorAtual": 187990,
+      "canonicalPath": "/fipe/gac/aion-y-elite-eletrico-0-304008-9/",
+      "ano": 0,
+      "marca": "GAC"
+    },
+    {
+      "vehicleId": "gac-aion-y-premium-eletrico-0-eletrico",
+      "fipeCodigo": "304007-0",
+      "displayName": "GAC AION Y Premium (Elétrico)",
+      "valorAtual": 175740,
+      "canonicalPath": "/fipe/gac/aion-y-premium-eletrico-0-304007-0/",
+      "ano": 0,
+      "marca": "GAC"
+    }
+  ],
+  "stats": {
+    "total": 4
+  },
+  "meta": {
+    "geracaoId": "aion-1"
+  }
+}

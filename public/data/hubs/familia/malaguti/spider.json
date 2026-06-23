@@ -1,0 +1,42 @@
+{
+  "tipo": "familia",
+  "slug": "spider",
+  "canonicalPath": "/fipe/malaguti/spider/",
+  "titulo": "Malaguti spider - Tabela FIPE",
+  "descricao": "2 versoes e anos do Malaguti spider na Tabela FIPE.",
+  "seo": {
+    "title": "Malaguti spider - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes Malaguti spider. 2 veiculos indexados.",
+    "h1": "Malaguti spider - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/malaguti/spider/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "malaguti-spider-maxgt-500-2008-gasolina",
+      "fipeCodigo": "862001-6",
+      "displayName": "Malaguti SPIDER MAXGT 500",
+      "valorAtual": 12041,
+      "canonicalPath": "/fipe/malaguti/spider-maxgt-500-2008-862001-6/",
+      "ano": 2008,
+      "marca": "Malaguti"
+    },
+    {
+      "vehicleId": "malaguti-spider-maxgt-500-2007-gasolina",
+      "fipeCodigo": "862001-6",
+      "displayName": "Malaguti SPIDER MAXGT 500",
+      "valorAtual": 10881,
+      "canonicalPath": "/fipe/malaguti/spider-maxgt-500-2007-862001-6/",
+      "ano": 2007,
+      "marca": "Malaguti"
+    }
+  ],
+  "stats": {
+    "total": 2,
+    "precoMin": 10881,
+    "precoMax": 12041,
+    "anos": [
+      2008,
+      2007
+    ]
+  }
+}

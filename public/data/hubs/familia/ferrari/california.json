@@ -1,0 +1,112 @@
+{
+  "tipo": "familia",
+  "slug": "california",
+  "canonicalPath": "/fipe/ferrari/california/",
+  "titulo": "Ferrari california - Tabela FIPE",
+  "descricao": "9 versoes e anos do Ferrari california na Tabela FIPE.",
+  "seo": {
+    "title": "Ferrari california - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes Ferrari california. 9 veiculos indexados.",
+    "h1": "Ferrari california - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/ferrari/california/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "ferrari-california-3-9-turbo-f1-v8-560cv-2017-gasolina",
+      "fipeCodigo": "031036-0",
+      "displayName": "Ferrari California 3.9 Turbo F1 V8 560cv",
+      "valorAtual": 2170715,
+      "canonicalPath": "/fipe/ferrari/california-3-9-turbo-f1-v8-560cv-2017-031036-0/",
+      "ano": 2017,
+      "marca": "Ferrari"
+    },
+    {
+      "vehicleId": "ferrari-california-3-9-turbo-f1-v8-560cv-2016-gasolina",
+      "fipeCodigo": "031036-0",
+      "displayName": "Ferrari California 3.9 Turbo F1 V8 560cv",
+      "valorAtual": 2117770,
+      "canonicalPath": "/fipe/ferrari/california-3-9-turbo-f1-v8-560cv-2016-031036-0/",
+      "ano": 2016,
+      "marca": "Ferrari"
+    },
+    {
+      "vehicleId": "ferrari-california-3-9-turbo-f1-v8-560cv-2015-gasolina",
+      "fipeCodigo": "031036-0",
+      "displayName": "Ferrari California 3.9 Turbo F1 V8 560cv",
+      "valorAtual": 1799532,
+      "canonicalPath": "/fipe/ferrari/california-3-9-turbo-f1-v8-560cv-2015-031036-0/",
+      "ano": 2015,
+      "marca": "Ferrari"
+    },
+    {
+      "vehicleId": "ferrari-california-f1-v8-california-30-2014-gasolina",
+      "fipeCodigo": "031030-1",
+      "displayName": "Ferrari California F1 V8 / California 30",
+      "valorAtual": 1818965,
+      "canonicalPath": "/fipe/ferrari/california-f1-v8-california-30-2014-031030-1/",
+      "ano": 2014,
+      "marca": "Ferrari"
+    },
+    {
+      "vehicleId": "ferrari-california-f1-v8-california-30-2013-gasolina",
+      "fipeCodigo": "031030-1",
+      "displayName": "Ferrari California F1 V8 / California 30",
+      "valorAtual": 1774600,
+      "canonicalPath": "/fipe/ferrari/california-f1-v8-california-30-2013-031030-1/",
+      "ano": 2013,
+      "marca": "Ferrari"
+    },
+    {
+      "vehicleId": "ferrari-california-f1-v8-california-30-2012-gasolina",
+      "fipeCodigo": "031030-1",
+      "displayName": "Ferrari California F1 V8 / California 30",
+      "valorAtual": 1532695,
+      "canonicalPath": "/fipe/ferrari/california-f1-v8-california-30-2012-031030-1/",
+      "ano": 2012,
+      "marca": "Ferrari"
+    },
+    {
+      "vehicleId": "ferrari-california-f1-v8-california-30-2011-gasolina",
+      "fipeCodigo": "031030-1",
+      "displayName": "Ferrari California F1 V8 / California 30",
+      "valorAtual": 1495312,
+      "canonicalPath": "/fipe/ferrari/california-f1-v8-california-30-2011-031030-1/",
+      "ano": 2011,
+      "marca": "Ferrari"
+    },
+    {
+      "vehicleId": "ferrari-california-f1-v8-california-30-2010-gasolina",
+      "fipeCodigo": "031030-1",
+      "displayName": "Ferrari California F1 V8 / California 30",
+      "valorAtual": 1436685,
+      "canonicalPath": "/fipe/ferrari/california-f1-v8-california-30-2010-031030-1/",
+      "ano": 2010,
+      "marca": "Ferrari"
+    },
+    {
+      "vehicleId": "ferrari-california-f1-v8-california-30-2009-gasolina",
+      "fipeCodigo": "031030-1",
+      "displayName": "Ferrari California F1 V8 / California 30",
+      "valorAtual": 1364370,
+      "canonicalPath": "/fipe/ferrari/california-f1-v8-california-30-2009-031030-1/",
+      "ano": 2009,
+      "marca": "Ferrari"
+    }
+  ],
+  "stats": {
+    "total": 9,
+    "precoMin": 1364370,
+    "precoMax": 2170715,
+    "anos": [
+      2017,
+      2016,
+      2015,
+      2014,
+      2013,
+      2012,
+      2011,
+      2010,
+      2009
+    ]
+  }
+}

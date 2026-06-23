@@ -1,0 +1,62 @@
+{
+  "tipo": "familia",
+  "slug": "now",
+  "canonicalPath": "/fipe/bull/now/",
+  "titulo": "BULL now - Tabela FIPE",
+  "descricao": "4 versoes e anos do BULL now na Tabela FIPE.",
+  "seo": {
+    "title": "BULL now - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes BULL now. 4 veiculos indexados.",
+    "h1": "BULL now - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/bull/now/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "bull-now-125-2021-gasolina",
+      "fipeCodigo": "888003-4",
+      "displayName": "BULL NOW 125",
+      "valorAtual": 8907,
+      "canonicalPath": "/fipe/bull/now-125-2021-888003-4/",
+      "ano": 2021,
+      "marca": "BULL"
+    },
+    {
+      "vehicleId": "bull-now-125-2020-gasolina",
+      "fipeCodigo": "888003-4",
+      "displayName": "BULL NOW 125",
+      "valorAtual": 8689,
+      "canonicalPath": "/fipe/bull/now-125-2020-888003-4/",
+      "ano": 2020,
+      "marca": "BULL"
+    },
+    {
+      "vehicleId": "bull-now-125-2019-gasolina",
+      "fipeCodigo": "888003-4",
+      "displayName": "BULL NOW 125",
+      "valorAtual": 6959,
+      "canonicalPath": "/fipe/bull/now-125-2019-888003-4/",
+      "ano": 2019,
+      "marca": "BULL"
+    },
+    {
+      "vehicleId": "bull-now-125-2018-gasolina",
+      "fipeCodigo": "888003-4",
+      "displayName": "BULL NOW 125",
+      "valorAtual": 5987,
+      "canonicalPath": "/fipe/bull/now-125-2018-888003-4/",
+      "ano": 2018,
+      "marca": "BULL"
+    }
+  ],
+  "stats": {
+    "total": 4,
+    "precoMin": 5987,
+    "precoMax": 8907,
+    "anos": [
+      2021,
+      2020,
+      2019,
+      2018
+    ]
+  }
+}

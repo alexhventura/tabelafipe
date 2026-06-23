@@ -1,0 +1,66 @@
+{
+  "tipo": "geracao",
+  "slug": "fluo-2",
+  "canonicalPath": "/geracao/yamaha/fluo-2/",
+  "titulo": "Geracao fluo-2",
+  "descricao": "5 veiculos da geracao fluo-2.",
+  "seo": {
+    "title": "Geracao fluo-2 - Precos FIPE",
+    "description": "Veiculos da geracao fluo-2 na Tabela FIPE.",
+    "h1": "Geracao fluo-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/yamaha/fluo-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "yamaha-fluo-125-abs-2023-gasolina",
+      "fipeCodigo": "827121-6",
+      "displayName": "YAMAHA FLUO 125 ABS",
+      "valorAtual": 12762,
+      "canonicalPath": "/fipe/yamaha/fluo-125-abs-2023-827121-6/",
+      "ano": 2023,
+      "marca": "YAMAHA"
+    },
+    {
+      "vehicleId": "yamaha-fluo-125-abs-2024-gasolina",
+      "fipeCodigo": "827121-6",
+      "displayName": "YAMAHA FLUO 125 ABS",
+      "valorAtual": 13656,
+      "canonicalPath": "/fipe/yamaha/fluo-125-abs-2024-827121-6/",
+      "ano": 2024,
+      "marca": "YAMAHA"
+    },
+    {
+      "vehicleId": "yamaha-fluo-125-abs-2025-gasolina",
+      "fipeCodigo": "827121-6",
+      "displayName": "YAMAHA FLUO 125 ABS",
+      "valorAtual": 14994,
+      "canonicalPath": "/fipe/yamaha/fluo-125-abs-2025-827121-6/",
+      "ano": 2025,
+      "marca": "YAMAHA"
+    },
+    {
+      "vehicleId": "yamaha-fluo-125-connected-2026-hibrido",
+      "fipeCodigo": "827136-4",
+      "displayName": "YAMAHA FLUO 125 CONNECTED",
+      "valorAtual": 15560,
+      "canonicalPath": "/fipe/yamaha/fluo-125-connected-2026-827136-4/",
+      "ano": 2026,
+      "marca": "YAMAHA"
+    },
+    {
+      "vehicleId": "yamaha-fluo-125-connected-2027-hibrido",
+      "fipeCodigo": "827136-4",
+      "displayName": "YAMAHA FLUO 125 CONNECTED",
+      "valorAtual": 16393,
+      "canonicalPath": "/fipe/yamaha/fluo-125-connected-2027-827136-4/",
+      "ano": 2027,
+      "marca": "YAMAHA"
+    }
+  ],
+  "stats": {
+    "total": 5
+  },
+  "meta": {
+    "geracaoId": "fluo-2"
+  }
+}

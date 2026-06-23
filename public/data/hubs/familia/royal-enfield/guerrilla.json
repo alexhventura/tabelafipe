@@ -1,0 +1,60 @@
+{
+  "tipo": "familia",
+  "slug": "guerrilla",
+  "canonicalPath": "/fipe/royal-enfield/guerrilla/",
+  "titulo": "Royal Enfield guerrilla - Tabela FIPE",
+  "descricao": "4 versoes e anos do Royal Enfield guerrilla na Tabela FIPE.",
+  "seo": {
+    "title": "Royal Enfield guerrilla - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes Royal Enfield guerrilla. 4 veiculos indexados.",
+    "h1": "Royal Enfield guerrilla - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/royal-enfield/guerrilla/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "royal-enfield-guerrilla-450-mid-2026-gasolina",
+      "fipeCodigo": "879043-4",
+      "displayName": "Royal Enfield Guerrilla 450 Mid",
+      "valorAtual": 26237,
+      "canonicalPath": "/fipe/royal-enfield/guerrilla-450-mid-2026-879043-4/",
+      "ano": 2026,
+      "marca": "Royal Enfield"
+    },
+    {
+      "vehicleId": "royal-enfield-guerrilla-450-top-2026-gasolina",
+      "fipeCodigo": "879046-9",
+      "displayName": "Royal Enfield Guerrilla 450 Top",
+      "valorAtual": 26560,
+      "canonicalPath": "/fipe/royal-enfield/guerrilla-450-top-2026-879046-9/",
+      "ano": 2026,
+      "marca": "Royal Enfield"
+    },
+    {
+      "vehicleId": "royal-enfield-guerrilla-450-mid-0-gasolina",
+      "fipeCodigo": "879043-4",
+      "displayName": "Royal Enfield Guerrilla 450 Mid",
+      "valorAtual": 29190,
+      "canonicalPath": "/fipe/royal-enfield/guerrilla-450-mid-0-879043-4/",
+      "ano": 0,
+      "marca": "Royal Enfield"
+    },
+    {
+      "vehicleId": "royal-enfield-guerrilla-450-top-0-gasolina",
+      "fipeCodigo": "879046-9",
+      "displayName": "Royal Enfield Guerrilla 450 Top",
+      "valorAtual": 29526,
+      "canonicalPath": "/fipe/royal-enfield/guerrilla-450-top-0-879046-9/",
+      "ano": 0,
+      "marca": "Royal Enfield"
+    }
+  ],
+  "stats": {
+    "total": 4,
+    "precoMin": 26237,
+    "precoMax": 29526,
+    "anos": [
+      2026,
+      0
+    ]
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "tipo": "familia",
+  "slug": "nhx",
+  "canonicalPath": "/fipe/dafra/nhx/",
+  "titulo": "DAFRA nhx - Tabela FIPE",
+  "descricao": "3 versoes e anos do DAFRA nhx na Tabela FIPE.",
+  "seo": {
+    "title": "DAFRA nhx - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes DAFRA nhx. 3 veiculos indexados.",
+    "h1": "DAFRA nhx - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/dafra/nhx/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "dafra-nhx-190-2026-gasolina",
+      "fipeCodigo": "861032-0",
+      "displayName": "DAFRA NHX 190",
+      "valorAtual": 17933,
+      "canonicalPath": "/fipe/dafra/nhx-190-2026-861032-0/",
+      "ano": 2026,
+      "marca": "DAFRA"
+    },
+    {
+      "vehicleId": "dafra-nhx-190-2025-gasolina",
+      "fipeCodigo": "861032-0",
+      "displayName": "DAFRA NHX 190",
+      "valorAtual": 17487,
+      "canonicalPath": "/fipe/dafra/nhx-190-2025-861032-0/",
+      "ano": 2025,
+      "marca": "DAFRA"
+    },
+    {
+      "vehicleId": "dafra-nhx-190-0-gasolina",
+      "fipeCodigo": "861032-0",
+      "displayName": "DAFRA NHX 190",
+      "valorAtual": 18872,
+      "canonicalPath": "/fipe/dafra/nhx-190-0-861032-0/",
+      "ano": 0,
+      "marca": "DAFRA"
+    }
+  ],
+  "stats": {
+    "total": 3,
+    "precoMin": 17487,
+    "precoMax": 18872,
+    "anos": [
+      2026,
+      2025,
+      0
+    ]
+  }
+}

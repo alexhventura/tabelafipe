@@ -1,0 +1,138 @@
+{
+  "tipo": "geracao",
+  "slug": "ram-1",
+  "canonicalPath": "/geracao/dodge/ram-1/",
+  "titulo": "Geracao ram-1",
+  "descricao": "13 veiculos da geracao ram-1.",
+  "seo": {
+    "title": "Geracao ram-1 - Precos FIPE",
+    "description": "Veiculos da geracao ram-1 na Tabela FIPE.",
+    "h1": "Geracao ram-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/dodge/ram-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "dodge-ram-laramie-5-9-v8-1994-gasolina",
+      "fipeCodigo": "013003-6",
+      "displayName": "Dodge Ram Laramie 5.9 V8",
+      "valorAtual": 39272,
+      "canonicalPath": "/fipe/dodge/ram-laramie-5-9-v8-1994-013003-6/",
+      "ano": 1994,
+      "marca": "Dodge"
+    },
+    {
+      "vehicleId": "dodge-ram-laramie-5-9-v8-1995-gasolina",
+      "fipeCodigo": "013003-6",
+      "displayName": "Dodge Ram Laramie 5.9 V8",
+      "valorAtual": 54433,
+      "canonicalPath": "/fipe/dodge/ram-laramie-5-9-v8-1995-013003-6/",
+      "ano": 1995,
+      "marca": "Dodge"
+    },
+    {
+      "vehicleId": "dodge-ram-laramie-slt-5-2-v8-1994-gasolina",
+      "fipeCodigo": "013002-8",
+      "displayName": "Dodge Ram Laramie/SLT 5.2 V8",
+      "valorAtual": 25328,
+      "canonicalPath": "/fipe/dodge/ram-laramie-slt-5-2-v8-1994-013002-8/",
+      "ano": 1994,
+      "marca": "Dodge"
+    },
+    {
+      "vehicleId": "dodge-ram-laramie-slt-5-2-v8-1995-gasolina",
+      "fipeCodigo": "013002-8",
+      "displayName": "Dodge Ram Laramie/SLT 5.2 V8",
+      "valorAtual": 27426,
+      "canonicalPath": "/fipe/dodge/ram-laramie-slt-5-2-v8-1995-013002-8/",
+      "ano": 1995,
+      "marca": "Dodge"
+    },
+    {
+      "vehicleId": "dodge-ram-laramie-slt-5-2-v8-1996-gasolina",
+      "fipeCodigo": "013002-8",
+      "displayName": "Dodge Ram Laramie/SLT 5.2 V8",
+      "valorAtual": 28112,
+      "canonicalPath": "/fipe/dodge/ram-laramie-slt-5-2-v8-1996-013002-8/",
+      "ano": 1996,
+      "marca": "Dodge"
+    },
+    {
+      "vehicleId": "dodge-ram-sport-5-9-v8-1994-gasolina",
+      "fipeCodigo": "013001-0",
+      "displayName": "Dodge Ram Sport 5.9 V8",
+      "valorAtual": 26496,
+      "canonicalPath": "/fipe/dodge/ram-sport-5-9-v8-1994-013001-0/",
+      "ano": 1994,
+      "marca": "Dodge"
+    },
+    {
+      "vehicleId": "dodge-ram-sport-5-9-v8-1995-gasolina",
+      "fipeCodigo": "013001-0",
+      "displayName": "Dodge Ram Sport 5.9 V8",
+      "valorAtual": 29481,
+      "canonicalPath": "/fipe/dodge/ram-sport-5-9-v8-1995-013001-0/",
+      "ano": 1995,
+      "marca": "Dodge"
+    },
+    {
+      "vehicleId": "dodge-ram-sport-5-9-v8-1996-gasolina",
+      "fipeCodigo": "013001-0",
+      "displayName": "Dodge Ram Sport 5.9 V8",
+      "valorAtual": 30219,
+      "canonicalPath": "/fipe/dodge/ram-sport-5-9-v8-1996-013001-0/",
+      "ano": 1996,
+      "marca": "Dodge"
+    },
+    {
+      "vehicleId": "dodge-ram-sport-5-9-v8-1997-gasolina",
+      "fipeCodigo": "013001-0",
+      "displayName": "Dodge Ram Sport 5.9 V8",
+      "valorAtual": 31034,
+      "canonicalPath": "/fipe/dodge/ram-sport-5-9-v8-1997-013001-0/",
+      "ano": 1997,
+      "marca": "Dodge"
+    },
+    {
+      "vehicleId": "dodge-ram-sport-5-9-v8-1998-gasolina",
+      "fipeCodigo": "013001-0",
+      "displayName": "Dodge Ram Sport 5.9 V8",
+      "valorAtual": 31873,
+      "canonicalPath": "/fipe/dodge/ram-sport-5-9-v8-1998-013001-0/",
+      "ano": 1998,
+      "marca": "Dodge"
+    },
+    {
+      "vehicleId": "dodge-ram-sport-5-9-v8-1999-gasolina",
+      "fipeCodigo": "013001-0",
+      "displayName": "Dodge Ram Sport 5.9 V8",
+      "valorAtual": 32839,
+      "canonicalPath": "/fipe/dodge/ram-sport-5-9-v8-1999-013001-0/",
+      "ano": 1999,
+      "marca": "Dodge"
+    },
+    {
+      "vehicleId": "dodge-ram-sport-5-9-v8-2000-gasolina",
+      "fipeCodigo": "013001-0",
+      "displayName": "Dodge Ram Sport 5.9 V8",
+      "valorAtual": 35579,
+      "canonicalPath": "/fipe/dodge/ram-sport-5-9-v8-2000-013001-0/",
+      "ano": 2000,
+      "marca": "Dodge"
+    },
+    {
+      "vehicleId": "dodge-ram-sport-5-9-v8-2001-gasolina",
+      "fipeCodigo": "013001-0",
+      "displayName": "Dodge Ram Sport 5.9 V8",
+      "valorAtual": 40205,
+      "canonicalPath": "/fipe/dodge/ram-sport-5-9-v8-2001-013001-0/",
+      "ano": 2001,
+      "marca": "Dodge"
+    }
+  ],
+  "stats": {
+    "total": 13
+  },
+  "meta": {
+    "geracaoId": "ram-1"
+  }
+}

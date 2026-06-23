@@ -1,0 +1,57 @@
+{
+  "tipo": "geracao",
+  "slug": "i30cw-1",
+  "canonicalPath": "/geracao/hyundai/i30cw-1/",
+  "titulo": "Geracao i30cw-1",
+  "descricao": "4 veiculos da geracao i30cw-1.",
+  "seo": {
+    "title": "Geracao i30cw-1 - Precos FIPE",
+    "description": "Veiculos da geracao i30cw-1 na Tabela FIPE.",
+    "h1": "Geracao i30cw-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/hyundai/i30cw-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "hyundai-i30cw-2-0-16v-145cv-aut-5p-2011-gasolina",
+      "fipeCodigo": "015077-0",
+      "displayName": "Hyundai i30cw 2.0 16V 145cv Aut. 5p",
+      "valorAtual": 43791,
+      "canonicalPath": "/fipe/hyundai/i30cw-2-0-16v-145cv-aut-5p-2011-015077-0/",
+      "ano": 2011,
+      "marca": "Hyundai"
+    },
+    {
+      "vehicleId": "hyundai-i30cw-2-0-16v-145cv-aut-5p-2012-gasolina",
+      "fipeCodigo": "015077-0",
+      "displayName": "Hyundai i30cw 2.0 16V 145cv Aut. 5p",
+      "valorAtual": 47547,
+      "canonicalPath": "/fipe/hyundai/i30cw-2-0-16v-145cv-aut-5p-2012-015077-0/",
+      "ano": 2012,
+      "marca": "Hyundai"
+    },
+    {
+      "vehicleId": "hyundai-i30cw-2-0-16v-145cv-mec-5p-2011-gasolina",
+      "fipeCodigo": "015076-2",
+      "displayName": "Hyundai i30cw 2.0 16V 145cv Mec. 5p",
+      "valorAtual": 40017,
+      "canonicalPath": "/fipe/hyundai/i30cw-2-0-16v-145cv-mec-5p-2011-015076-2/",
+      "ano": 2011,
+      "marca": "Hyundai"
+    },
+    {
+      "vehicleId": "hyundai-i30cw-2-0-16v-145cv-mec-5p-2012-gasolina",
+      "fipeCodigo": "015076-2",
+      "displayName": "Hyundai i30cw 2.0 16V 145cv Mec. 5p",
+      "valorAtual": 41018,
+      "canonicalPath": "/fipe/hyundai/i30cw-2-0-16v-145cv-mec-5p-2012-015076-2/",
+      "ano": 2012,
+      "marca": "Hyundai"
+    }
+  ],
+  "stats": {
+    "total": 4
+  },
+  "meta": {
+    "geracaoId": "i30cw-1"
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "tipo": "geracao",
+  "slug": "roma-2",
+  "canonicalPath": "/geracao/ferrari/roma-2/",
+  "titulo": "Geracao roma-2",
+  "descricao": "7 veiculos da geracao roma-2.",
+  "seo": {
+    "title": "Geracao roma-2 - Precos FIPE",
+    "description": "Veiculos da geracao roma-2 na Tabela FIPE.",
+    "h1": "Geracao roma-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/ferrari/roma-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "ferrari-roma-3-9-v8-620cv-2021-gasolina",
+      "fipeCodigo": "031051-4",
+      "displayName": "Ferrari Roma 3.9 V8 620cv",
+      "valorAtual": 2695872,
+      "canonicalPath": "/fipe/ferrari/roma-3-9-v8-620cv-2021-031051-4/",
+      "ano": 2021,
+      "marca": "Ferrari"
+    },
+    {
+      "vehicleId": "ferrari-roma-3-9-v8-620cv-2022-gasolina",
+      "fipeCodigo": "031051-4",
+      "displayName": "Ferrari Roma 3.9 V8 620cv",
+      "valorAtual": 2898212,
+      "canonicalPath": "/fipe/ferrari/roma-3-9-v8-620cv-2022-031051-4/",
+      "ano": 2022,
+      "marca": "Ferrari"
+    },
+    {
+      "vehicleId": "ferrari-roma-3-9-v8-620cv-2023-gasolina",
+      "fipeCodigo": "031051-4",
+      "displayName": "Ferrari Roma 3.9 V8 620cv",
+      "valorAtual": 2978826,
+      "canonicalPath": "/fipe/ferrari/roma-3-9-v8-620cv-2023-031051-4/",
+      "ano": 2023,
+      "marca": "Ferrari"
+    },
+    {
+      "vehicleId": "ferrari-roma-3-9-v8-620cv-2024-gasolina",
+      "fipeCodigo": "031051-4",
+      "displayName": "Ferrari Roma 3.9 V8 620cv",
+      "valorAtual": 3140860,
+      "canonicalPath": "/fipe/ferrari/roma-3-9-v8-620cv-2024-031051-4/",
+      "ano": 2024,
+      "marca": "Ferrari"
+    },
+    {
+      "vehicleId": "ferrari-roma-spider-3-9-v8-620cv-2024-gasolina",
+      "fipeCodigo": "031057-3",
+      "displayName": "Ferrari Roma Spider 3.9 V8 620cv",
+      "valorAtual": 3411166,
+      "canonicalPath": "/fipe/ferrari/roma-spider-3-9-v8-620cv-2024-031057-3/",
+      "ano": 2024,
+      "marca": "Ferrari"
+    },
+    {
+      "vehicleId": "ferrari-roma-spider-3-9-v8-620cv-2025-gasolina",
+      "fipeCodigo": "031057-3",
+      "displayName": "Ferrari Roma Spider 3.9 V8 620cv",
+      "valorAtual": 3554458,
+      "canonicalPath": "/fipe/ferrari/roma-spider-3-9-v8-620cv-2025-031057-3/",
+      "ano": 2025,
+      "marca": "Ferrari"
+    },
+    {
+      "vehicleId": "ventane-motors-roma-3000w-eletrica-2023-eletrico",
+      "fipeCodigo": "896003-8",
+      "displayName": "Ventane Motors ROMA 3000W (Elétrica)",
+      "valorAtual": 12115,
+      "canonicalPath": "/fipe/ventane-motors/roma-3000w-eletrica-2023-896003-8/",
+      "ano": 2023,
+      "marca": "Ventane Motors"
+    }
+  ],
+  "stats": {
+    "total": 7
+  },
+  "meta": {
+    "geracaoId": "roma-2"
+  }
+}

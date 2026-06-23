@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "titanium-2",
+  "canonicalPath": "/geracao/shineray/titanium-2/",
+  "titulo": "Geracao titanium-2",
+  "descricao": "2 veiculos da geracao titanium-2.",
+  "seo": {
+    "title": "Geracao titanium-2 - Precos FIPE",
+    "description": "Veiculos da geracao titanium-2 na Tabela FIPE.",
+    "h1": "Geracao titanium-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/shineray/titanium-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "shineray-titanium-250-efi-2025-gasolina",
+      "fipeCodigo": "850051-7",
+      "displayName": "SHINERAY TITANIUM 250 EFI",
+      "valorAtual": 23225,
+      "canonicalPath": "/fipe/shineray/titanium-250-efi-2025-850051-7/",
+      "ano": 2025,
+      "marca": "SHINERAY"
+    },
+    {
+      "vehicleId": "shineray-titanium-250-efi-2026-gasolina",
+      "fipeCodigo": "850051-7",
+      "displayName": "SHINERAY TITANIUM 250 EFI",
+      "valorAtual": 25162,
+      "canonicalPath": "/fipe/shineray/titanium-250-efi-2026-850051-7/",
+      "ano": 2026,
+      "marca": "SHINERAY"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "titanium-2"
+  }
+}

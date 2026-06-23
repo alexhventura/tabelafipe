@@ -1,0 +1,57 @@
+{
+  "tipo": "geracao",
+  "slug": "s4-2",
+  "canonicalPath": "/geracao/audi/s4-2/",
+  "titulo": "Geracao s4-2",
+  "descricao": "4 veiculos da geracao s4-2.",
+  "seo": {
+    "title": "Geracao s4-2 - Precos FIPE",
+    "description": "Veiculos da geracao s4-2 na Tabela FIPE.",
+    "h1": "Geracao s4-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/audi/s4-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "audi-s4-4-2-avant-v8-40v-344cv-quattro-tipt-2004-gasolina",
+      "fipeCodigo": "008114-0",
+      "displayName": "Audi S4 4.2 Avant V8 40V 344cv Quattro Tipt.",
+      "valorAtual": 88259,
+      "canonicalPath": "/fipe/audi/s4-4-2-avant-v8-40v-344cv-quattro-tipt-2004-008114-0/",
+      "ano": 2004,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-s4-4-2-avant-v8-40v-344cv-quattro-tipt-2005-gasolina",
+      "fipeCodigo": "008114-0",
+      "displayName": "Audi S4 4.2 Avant V8 40V 344cv Quattro Tipt.",
+      "valorAtual": 100799,
+      "canonicalPath": "/fipe/audi/s4-4-2-avant-v8-40v-344cv-quattro-tipt-2005-008114-0/",
+      "ano": 2005,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-s4-4-2-v8-40v-344cv-quattro-tiptronic-2004-gasolina",
+      "fipeCodigo": "008113-2",
+      "displayName": "Audi S4 4.2 V8 40V 344cv Quattro Tiptronic",
+      "valorAtual": 80963,
+      "canonicalPath": "/fipe/audi/s4-4-2-v8-40v-344cv-quattro-tiptronic-2004-008113-2/",
+      "ano": 2004,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-s4-4-2-v8-40v-344cv-quattro-tiptronic-2005-gasolina",
+      "fipeCodigo": "008113-2",
+      "displayName": "Audi S4 4.2 V8 40V 344cv Quattro Tiptronic",
+      "valorAtual": 90788,
+      "canonicalPath": "/fipe/audi/s4-4-2-v8-40v-344cv-quattro-tiptronic-2005-008113-2/",
+      "ano": 2005,
+      "marca": "Audi"
+    }
+  ],
+  "stats": {
+    "total": 4
+  },
+  "meta": {
+    "geracaoId": "s4-2"
+  }
+}

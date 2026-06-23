@@ -1,0 +1,72 @@
+{
+  "tipo": "familia",
+  "slug": "460",
+  "canonicalPath": "/fipe/volvo/460/",
+  "titulo": "Volvo 460 - Tabela FIPE",
+  "descricao": "5 versoes e anos do Volvo 460 na Tabela FIPE.",
+  "seo": {
+    "title": "Volvo 460 - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes Volvo 460. 5 veiculos indexados.",
+    "h1": "Volvo 460 - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/volvo/460/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "volvo-460-glt-2-0-turbo-1-8-1996-gasolina",
+      "fipeCodigo": "029001-7",
+      "displayName": "Volvo 460 GLT 2.0/ Turbo 1.8",
+      "valorAtual": 10532,
+      "canonicalPath": "/fipe/volvo/460-glt-2-0-turbo-1-8-1996-029001-7/",
+      "ano": 1996,
+      "marca": "Volvo"
+    },
+    {
+      "vehicleId": "volvo-460-glt-2-0-turbo-1-8-1995-gasolina",
+      "fipeCodigo": "029001-7",
+      "displayName": "Volvo 460 GLT 2.0/ Turbo 1.8",
+      "valorAtual": 10275,
+      "canonicalPath": "/fipe/volvo/460-glt-2-0-turbo-1-8-1995-029001-7/",
+      "ano": 1995,
+      "marca": "Volvo"
+    },
+    {
+      "vehicleId": "volvo-460-glt-2-0-turbo-1-8-1994-gasolina",
+      "fipeCodigo": "029001-7",
+      "displayName": "Volvo 460 GLT 2.0/ Turbo 1.8",
+      "valorAtual": 7038,
+      "canonicalPath": "/fipe/volvo/460-glt-2-0-turbo-1-8-1994-029001-7/",
+      "ano": 1994,
+      "marca": "Volvo"
+    },
+    {
+      "vehicleId": "volvo-460-glt-2-0-turbo-1-8-1993-gasolina",
+      "fipeCodigo": "029001-7",
+      "displayName": "Volvo 460 GLT 2.0/ Turbo 1.8",
+      "valorAtual": 6866,
+      "canonicalPath": "/fipe/volvo/460-glt-2-0-turbo-1-8-1993-029001-7/",
+      "ano": 1993,
+      "marca": "Volvo"
+    },
+    {
+      "vehicleId": "volvo-460-glt-2-0-turbo-1-8-1992-gasolina",
+      "fipeCodigo": "029001-7",
+      "displayName": "Volvo 460 GLT 2.0/ Turbo 1.8",
+      "valorAtual": 6108,
+      "canonicalPath": "/fipe/volvo/460-glt-2-0-turbo-1-8-1992-029001-7/",
+      "ano": 1992,
+      "marca": "Volvo"
+    }
+  ],
+  "stats": {
+    "total": 5,
+    "precoMin": 6108,
+    "precoMax": 10532,
+    "anos": [
+      1996,
+      1995,
+      1994,
+      1993,
+      1992
+    ]
+  }
+}

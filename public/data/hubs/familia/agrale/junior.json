@@ -1,0 +1,42 @@
+{
+  "tipo": "familia",
+  "slug": "junior",
+  "canonicalPath": "/fipe/agrale/junior/",
+  "titulo": "AGRALE junior - Tabela FIPE",
+  "descricao": "2 versoes e anos do AGRALE junior na Tabela FIPE.",
+  "seo": {
+    "title": "AGRALE junior - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes AGRALE junior. 2 veiculos indexados.",
+    "h1": "AGRALE junior - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/agrale/junior/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "agrale-junior-50-1996-gasolina",
+      "fipeCodigo": "801012-9",
+      "displayName": "AGRALE JUNIOR 50",
+      "valorAtual": 953,
+      "canonicalPath": "/fipe/agrale/junior-50-1996-801012-9/",
+      "ano": 1996,
+      "marca": "AGRALE"
+    },
+    {
+      "vehicleId": "agrale-junior-50-1995-gasolina",
+      "fipeCodigo": "801012-9",
+      "displayName": "AGRALE JUNIOR 50",
+      "valorAtual": 912,
+      "canonicalPath": "/fipe/agrale/junior-50-1995-801012-9/",
+      "ano": 1995,
+      "marca": "AGRALE"
+    }
+  ],
+  "stats": {
+    "total": 2,
+    "precoMin": 912,
+    "precoMax": 953,
+    "anos": [
+      1996,
+      1995
+    ]
+  }
+}

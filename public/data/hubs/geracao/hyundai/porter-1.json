@@ -1,0 +1,84 @@
+{
+  "tipo": "geracao",
+  "slug": "porter-1",
+  "canonicalPath": "/geracao/hyundai/porter-1/",
+  "titulo": "Geracao porter-1",
+  "descricao": "7 veiculos da geracao porter-1.",
+  "seo": {
+    "title": "Geracao porter-1 - Precos FIPE",
+    "description": "Veiculos da geracao porter-1 na Tabela FIPE.",
+    "h1": "Geracao porter-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/hyundai/porter-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "hyundai-porter-gl-4x2-curto-longo-diesel-2000-diesel",
+      "fipeCodigo": "015044-4",
+      "displayName": "Hyundai Porter GL 4x2 Curto/Longo Diesel",
+      "valorAtual": 14183,
+      "canonicalPath": "/fipe/hyundai/porter-gl-4x2-curto-longo-diesel-2000-015044-4/",
+      "ano": 2000,
+      "marca": "Hyundai"
+    },
+    {
+      "vehicleId": "hyundai-porter-gl-4x2-curto-longo-diesel-2001-diesel",
+      "fipeCodigo": "015044-4",
+      "displayName": "Hyundai Porter GL 4x2 Curto/Longo Diesel",
+      "valorAtual": 16606,
+      "canonicalPath": "/fipe/hyundai/porter-gl-4x2-curto-longo-diesel-2001-015044-4/",
+      "ano": 2001,
+      "marca": "Hyundai"
+    },
+    {
+      "vehicleId": "hyundai-porter-gl-4x2-curto-longo-diesel-2002-diesel",
+      "fipeCodigo": "015044-4",
+      "displayName": "Hyundai Porter GL 4x2 Curto/Longo Diesel",
+      "valorAtual": 17723,
+      "canonicalPath": "/fipe/hyundai/porter-gl-4x2-curto-longo-diesel-2002-015044-4/",
+      "ano": 2002,
+      "marca": "Hyundai"
+    },
+    {
+      "vehicleId": "hyundai-porter-gl-4x2-curto-longo-diesel-2003-diesel",
+      "fipeCodigo": "015044-4",
+      "displayName": "Hyundai Porter GL 4x2 Curto/Longo Diesel",
+      "valorAtual": 18231,
+      "canonicalPath": "/fipe/hyundai/porter-gl-4x2-curto-longo-diesel-2003-015044-4/",
+      "ano": 2003,
+      "marca": "Hyundai"
+    },
+    {
+      "vehicleId": "hyundai-porter-gls-cd-4x2-2-6-8v-diesel-2000-diesel",
+      "fipeCodigo": "015046-0",
+      "displayName": "Hyundai Porter GLS CD 4x2 2.6 8V Diesel",
+      "valorAtual": 14856,
+      "canonicalPath": "/fipe/hyundai/porter-gls-cd-4x2-2-6-8v-diesel-2000-015046-0/",
+      "ano": 2000,
+      "marca": "Hyundai"
+    },
+    {
+      "vehicleId": "hyundai-porter-gls-cd-4x2-2-6-8v-diesel-2001-diesel",
+      "fipeCodigo": "015046-0",
+      "displayName": "Hyundai Porter GLS CD 4x2 2.6 8V Diesel",
+      "valorAtual": 17446,
+      "canonicalPath": "/fipe/hyundai/porter-gls-cd-4x2-2-6-8v-diesel-2001-015046-0/",
+      "ano": 2001,
+      "marca": "Hyundai"
+    },
+    {
+      "vehicleId": "hyundai-porter-gls-cd-4x2-2-6-8v-diesel-2003-diesel",
+      "fipeCodigo": "015046-0",
+      "displayName": "Hyundai Porter GLS CD 4x2 2.6 8V Diesel",
+      "valorAtual": 18447,
+      "canonicalPath": "/fipe/hyundai/porter-gls-cd-4x2-2-6-8v-diesel-2003-015046-0/",
+      "ano": 2003,
+      "marca": "Hyundai"
+    }
+  ],
+  "stats": {
+    "total": 7
+  },
+  "meta": {
+    "geracaoId": "porter-1"
+  }
+}

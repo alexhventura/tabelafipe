@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "316i-1",
+  "canonicalPath": "/geracao/bmw/316i-1/",
+  "titulo": "Geracao 316i-1",
+  "descricao": "2 veiculos da geracao 316i-1.",
+  "seo": {
+    "title": "Geracao 316i-1 - Precos FIPE",
+    "description": "Veiculos da geracao 316i-1 na Tabela FIPE.",
+    "h1": "Geracao 316i-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/bmw/316i-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "bmw-316i-1-6-tb-16v-136cv-4p-2014-gasolina",
+      "fipeCodigo": "009189-8",
+      "displayName": "BMW 316i 1.6 TB 16V 136cv 4p",
+      "valorAtual": 78945,
+      "canonicalPath": "/fipe/bmw/316i-1-6-tb-16v-136cv-4p-2014-009189-8/",
+      "ano": 2014,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-316i-1-6-tb-16v-136cv-4p-2015-gasolina",
+      "fipeCodigo": "009189-8",
+      "displayName": "BMW 316i 1.6 TB 16V 136cv 4p",
+      "valorAtual": 87203,
+      "canonicalPath": "/fipe/bmw/316i-1-6-tb-16v-136cv-4p-2015-009189-8/",
+      "ano": 2015,
+      "marca": "BMW"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "316i-1"
+  }
+}

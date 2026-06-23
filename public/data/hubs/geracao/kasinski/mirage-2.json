@@ -1,0 +1,111 @@
+{
+  "tipo": "geracao",
+  "slug": "mirage-2",
+  "canonicalPath": "/geracao/kasinski/mirage-2/",
+  "titulo": "Geracao mirage-2",
+  "descricao": "10 veiculos da geracao mirage-2.",
+  "seo": {
+    "title": "Geracao mirage-2 - Precos FIPE",
+    "description": "Veiculos da geracao mirage-2 na Tabela FIPE.",
+    "h1": "Geracao mirage-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/kasinski/mirage-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "kasinski-mirage-150-2010-gasolina",
+      "fipeCodigo": "816026-0",
+      "displayName": "KASINSKI MIRAGE 150",
+      "valorAtual": 5945,
+      "canonicalPath": "/fipe/kasinski/mirage-150-2010-816026-0/",
+      "ano": 2010,
+      "marca": "KASINSKI"
+    },
+    {
+      "vehicleId": "kasinski-mirage-150-2011-gasolina",
+      "fipeCodigo": "816026-0",
+      "displayName": "KASINSKI MIRAGE 150",
+      "valorAtual": 6094,
+      "canonicalPath": "/fipe/kasinski/mirage-150-2011-816026-0/",
+      "ano": 2011,
+      "marca": "KASINSKI"
+    },
+    {
+      "vehicleId": "kasinski-mirage-150-2012-gasolina",
+      "fipeCodigo": "816026-0",
+      "displayName": "KASINSKI MIRAGE 150",
+      "valorAtual": 6878,
+      "canonicalPath": "/fipe/kasinski/mirage-150-2012-816026-0/",
+      "ano": 2012,
+      "marca": "KASINSKI"
+    },
+    {
+      "vehicleId": "kasinski-mirage-150-2013-gasolina",
+      "fipeCodigo": "816026-0",
+      "displayName": "KASINSKI MIRAGE 150",
+      "valorAtual": 7050,
+      "canonicalPath": "/fipe/kasinski/mirage-150-2013-816026-0/",
+      "ano": 2013,
+      "marca": "KASINSKI"
+    },
+    {
+      "vehicleId": "kasinski-mirage-650-v2power-2008-gasolina",
+      "fipeCodigo": "816020-1",
+      "displayName": "KASINSKI MIRAGE 650 V2power",
+      "valorAtual": 13622,
+      "canonicalPath": "/fipe/kasinski/mirage-650-v2power-2008-816020-1/",
+      "ano": 2008,
+      "marca": "KASINSKI"
+    },
+    {
+      "vehicleId": "kasinski-mirage-650-v2power-2009-gasolina",
+      "fipeCodigo": "816020-1",
+      "displayName": "KASINSKI MIRAGE 650 V2power",
+      "valorAtual": 14540,
+      "canonicalPath": "/fipe/kasinski/mirage-650-v2power-2009-816020-1/",
+      "ano": 2009,
+      "marca": "KASINSKI"
+    },
+    {
+      "vehicleId": "kasinski-mirage-650-v2power-2010-gasolina",
+      "fipeCodigo": "816020-1",
+      "displayName": "KASINSKI MIRAGE 650 V2power",
+      "valorAtual": 19174,
+      "canonicalPath": "/fipe/kasinski/mirage-650-v2power-2010-816020-1/",
+      "ano": 2010,
+      "marca": "KASINSKI"
+    },
+    {
+      "vehicleId": "kasinski-mirage-650-v2power-2011-gasolina",
+      "fipeCodigo": "816020-1",
+      "displayName": "KASINSKI MIRAGE 650 V2power",
+      "valorAtual": 19654,
+      "canonicalPath": "/fipe/kasinski/mirage-650-v2power-2011-816020-1/",
+      "ano": 2011,
+      "marca": "KASINSKI"
+    },
+    {
+      "vehicleId": "kasinski-mirage-650-v2power-2012-gasolina",
+      "fipeCodigo": "816020-1",
+      "displayName": "KASINSKI MIRAGE 650 V2power",
+      "valorAtual": 20146,
+      "canonicalPath": "/fipe/kasinski/mirage-650-v2power-2012-816020-1/",
+      "ano": 2012,
+      "marca": "KASINSKI"
+    },
+    {
+      "vehicleId": "kasinski-mirage-650-v2power-2013-gasolina",
+      "fipeCodigo": "816020-1",
+      "displayName": "KASINSKI MIRAGE 650 V2power",
+      "valorAtual": 20650,
+      "canonicalPath": "/fipe/kasinski/mirage-650-v2power-2013-816020-1/",
+      "ano": 2013,
+      "marca": "KASINSKI"
+    }
+  ],
+  "stats": {
+    "total": 10
+  },
+  "meta": {
+    "geracaoId": "mirage-2"
+  }
+}

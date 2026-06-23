@@ -1,0 +1,48 @@
+{
+  "tipo": "geracao",
+  "slug": "vantage-5",
+  "canonicalPath": "/geracao/aston-martin/vantage-5/",
+  "titulo": "Geracao vantage-5",
+  "descricao": "3 veiculos da geracao vantage-5.",
+  "seo": {
+    "title": "Geracao vantage-5 - Precos FIPE",
+    "description": "Veiculos da geracao vantage-5 na Tabela FIPE.",
+    "h1": "Geracao vantage-5",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/aston-martin/vantage-5/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "aston-martin-vantage-cupe-4-0-v8-510cv-2025-gasolina",
+      "fipeCodigo": "085012-8",
+      "displayName": "ASTON MARTIN Vantage Cupê  4.0 V8 510cv",
+      "valorAtual": 2355100,
+      "canonicalPath": "/fipe/aston-martin/vantage-cupe-4-0-v8-510cv-2025-085012-8/",
+      "ano": 2025,
+      "marca": "ASTON MARTIN"
+    },
+    {
+      "vehicleId": "aston-martin-vantage-cupe-4-0-v8-510cv-2026-gasolina",
+      "fipeCodigo": "085012-8",
+      "displayName": "ASTON MARTIN Vantage Cupê  4.0 V8 510cv",
+      "valorAtual": 2461368,
+      "canonicalPath": "/fipe/aston-martin/vantage-cupe-4-0-v8-510cv-2026-085012-8/",
+      "ano": 2026,
+      "marca": "ASTON MARTIN"
+    },
+    {
+      "vehicleId": "aston-martin-vantage-s-coupe-4-0-v8-680cv-2026-gasolina",
+      "fipeCodigo": "085021-7",
+      "displayName": "ASTON MARTIN Vantage S Coupe 4.0 V8 680cv",
+      "valorAtual": 2547614,
+      "canonicalPath": "/fipe/aston-martin/vantage-s-coupe-4-0-v8-680cv-2026-085021-7/",
+      "ano": 2026,
+      "marca": "ASTON MARTIN"
+    }
+  ],
+  "stats": {
+    "total": 3
+  },
+  "meta": {
+    "geracaoId": "vantage-5"
+  }
+}

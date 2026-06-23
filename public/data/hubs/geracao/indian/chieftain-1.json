@@ -1,0 +1,48 @@
+{
+  "tipo": "geracao",
+  "slug": "chieftain-1",
+  "canonicalPath": "/geracao/indian/chieftain-1/",
+  "titulo": "Geracao chieftain-1",
+  "descricao": "3 veiculos da geracao chieftain-1.",
+  "seo": {
+    "title": "Geracao chieftain-1 - Precos FIPE",
+    "description": "Veiculos da geracao chieftain-1 na Tabela FIPE.",
+    "h1": "Geracao chieftain-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/indian/chieftain-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "indian-chieftain-2016-gasolina",
+      "fipeCodigo": "883004-5",
+      "displayName": "INDIAN CHIEFTAIN",
+      "valorAtual": 77991,
+      "canonicalPath": "/fipe/indian/chieftain-2016-883004-5/",
+      "ano": 2016,
+      "marca": "INDIAN"
+    },
+    {
+      "vehicleId": "indian-chieftain-2017-gasolina",
+      "fipeCodigo": "883004-5",
+      "displayName": "INDIAN CHIEFTAIN",
+      "valorAtual": 87300,
+      "canonicalPath": "/fipe/indian/chieftain-2017-883004-5/",
+      "ano": 2017,
+      "marca": "INDIAN"
+    },
+    {
+      "vehicleId": "indian-chieftain-dark-horse-2018-gasolina",
+      "fipeCodigo": "883009-6",
+      "displayName": "INDIAN CHIEFTAIN DARK HORSE",
+      "valorAtual": 103978,
+      "canonicalPath": "/fipe/indian/chieftain-dark-horse-2018-883009-6/",
+      "ano": 2018,
+      "marca": "INDIAN"
+    }
+  ],
+  "stats": {
+    "total": 3
+  },
+  "meta": {
+    "geracaoId": "chieftain-1"
+  }
+}

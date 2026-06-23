@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "sq6-2",
+  "canonicalPath": "/geracao/audi/sq6-2/",
+  "titulo": "Geracao sq6-2",
+  "descricao": "2 veiculos da geracao sq6-2.",
+  "seo": {
+    "title": "Geracao sq6-2 - Precos FIPE",
+    "description": "Veiculos da geracao sq6-2 na Tabela FIPE.",
+    "h1": "Geracao sq6-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/audi/sq6-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "audi-sq6-sportback-e-tron-quattro-eletrico-2025-eletrico",
+      "fipeCodigo": "008325-9",
+      "displayName": "Audi SQ6 Sportback E-Tron Quattro (Elétrico)",
+      "valorAtual": 636358,
+      "canonicalPath": "/fipe/audi/sq6-sportback-e-tron-quattro-eletrico-2025-008325-9/",
+      "ano": 2025,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-sq6-sportback-e-tron-quattro-eletrico-2026-eletrico",
+      "fipeCodigo": "008325-9",
+      "displayName": "Audi SQ6 Sportback E-Tron Quattro (Elétrico)",
+      "valorAtual": 698858,
+      "canonicalPath": "/fipe/audi/sq6-sportback-e-tron-quattro-eletrico-2026-008325-9/",
+      "ano": 2026,
+      "marca": "Audi"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "sq6-2"
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "tipo": "familia",
+  "slug": "350z",
+  "canonicalPath": "/fipe/nissan/350z/",
+  "titulo": "Nissan 350z - Tabela FIPE",
+  "descricao": "6 versoes e anos do Nissan 350z na Tabela FIPE.",
+  "seo": {
+    "title": "Nissan 350z - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes Nissan 350z. 6 veiculos indexados.",
+    "h1": "Nissan 350z - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/nissan/350z/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "nissan-350z-3-5-v6-280cv-312cv-2p-2009-gasolina",
+      "fipeCodigo": "023051-0",
+      "displayName": "Nissan 350Z 3.5 V6 280cv/ 312cv 2p",
+      "valorAtual": 286179,
+      "canonicalPath": "/fipe/nissan/350z-3-5-v6-280cv-312cv-2p-2009-023051-0/",
+      "ano": 2009,
+      "marca": "Nissan"
+    },
+    {
+      "vehicleId": "nissan-350z-3-5-v6-280cv-312cv-2p-2008-gasolina",
+      "fipeCodigo": "023051-0",
+      "displayName": "Nissan 350Z 3.5 V6 280cv/ 312cv 2p",
+      "valorAtual": 279199,
+      "canonicalPath": "/fipe/nissan/350z-3-5-v6-280cv-312cv-2p-2008-023051-0/",
+      "ano": 2008,
+      "marca": "Nissan"
+    },
+    {
+      "vehicleId": "nissan-350z-3-5-v6-280cv-312cv-2p-2007-gasolina",
+      "fipeCodigo": "023051-0",
+      "displayName": "Nissan 350Z 3.5 V6 280cv/ 312cv 2p",
+      "valorAtual": 247351,
+      "canonicalPath": "/fipe/nissan/350z-3-5-v6-280cv-312cv-2p-2007-023051-0/",
+      "ano": 2007,
+      "marca": "Nissan"
+    },
+    {
+      "vehicleId": "nissan-350z-3-5-v6-280cv-312cv-2p-2006-gasolina",
+      "fipeCodigo": "023051-0",
+      "displayName": "Nissan 350Z 3.5 V6 280cv/ 312cv 2p",
+      "valorAtual": 241318,
+      "canonicalPath": "/fipe/nissan/350z-3-5-v6-280cv-312cv-2p-2006-023051-0/",
+      "ano": 2006,
+      "marca": "Nissan"
+    },
+    {
+      "vehicleId": "nissan-350z-3-5-v6-280cv-312cv-2p-2005-gasolina",
+      "fipeCodigo": "023051-0",
+      "displayName": "Nissan 350Z 3.5 V6 280cv/ 312cv 2p",
+      "valorAtual": 235432,
+      "canonicalPath": "/fipe/nissan/350z-3-5-v6-280cv-312cv-2p-2005-023051-0/",
+      "ano": 2005,
+      "marca": "Nissan"
+    },
+    {
+      "vehicleId": "nissan-350z-3-5-v6-280cv-312cv-2p-2004-gasolina",
+      "fipeCodigo": "023051-0",
+      "displayName": "Nissan 350Z 3.5 V6 280cv/ 312cv 2p",
+      "valorAtual": 221111,
+      "canonicalPath": "/fipe/nissan/350z-3-5-v6-280cv-312cv-2p-2004-023051-0/",
+      "ano": 2004,
+      "marca": "Nissan"
+    }
+  ],
+  "stats": {
+    "total": 6,
+    "precoMin": 221111,
+    "precoMax": 286179,
+    "anos": [
+      2009,
+      2008,
+      2007,
+      2006,
+      2005,
+      2004
+    ]
+  }
+}

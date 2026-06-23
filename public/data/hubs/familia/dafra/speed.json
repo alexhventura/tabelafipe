@@ -1,0 +1,129 @@
+{
+  "tipo": "familia",
+  "slug": "speed",
+  "canonicalPath": "/fipe/dafra/speed/",
+  "titulo": "DAFRA speed - Tabela FIPE",
+  "descricao": "11 versoes e anos do DAFRA speed na Tabela FIPE.",
+  "seo": {
+    "title": "DAFRA speed - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes DAFRA speed. 11 veiculos indexados.",
+    "h1": "DAFRA speed - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/dafra/speed/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "dafra-speed-150-2015-gasolina",
+      "fipeCodigo": "861002-9",
+      "displayName": "DAFRA SPEED 150",
+      "valorAtual": 5570,
+      "canonicalPath": "/fipe/dafra/speed-150-2015-861002-9/",
+      "ano": 2015,
+      "marca": "DAFRA"
+    },
+    {
+      "vehicleId": "dafra-speed-150-2014-gasolina",
+      "fipeCodigo": "861002-9",
+      "displayName": "DAFRA SPEED 150",
+      "valorAtual": 5240,
+      "canonicalPath": "/fipe/dafra/speed-150-2014-861002-9/",
+      "ano": 2014,
+      "marca": "DAFRA"
+    },
+    {
+      "vehicleId": "dafra-speed-150-2013-gasolina",
+      "fipeCodigo": "861002-9",
+      "displayName": "DAFRA SPEED 150",
+      "valorAtual": 4745,
+      "canonicalPath": "/fipe/dafra/speed-150-2013-861002-9/",
+      "ano": 2013,
+      "marca": "DAFRA"
+    },
+    {
+      "vehicleId": "dafra-speed-cargo-150-2012-gasolina",
+      "fipeCodigo": "861028-2",
+      "displayName": "DAFRA SPEED  Cargo 150",
+      "valorAtual": 3045,
+      "canonicalPath": "/fipe/dafra/speed-cargo-150-2012-861028-2/",
+      "ano": 2012,
+      "marca": "DAFRA"
+    },
+    {
+      "vehicleId": "dafra-speed-150-2012-gasolina",
+      "fipeCodigo": "861002-9",
+      "displayName": "DAFRA SPEED 150",
+      "valorAtual": 4629,
+      "canonicalPath": "/fipe/dafra/speed-150-2012-861002-9/",
+      "ano": 2012,
+      "marca": "DAFRA"
+    },
+    {
+      "vehicleId": "dafra-speed-cargo-150-2011-gasolina",
+      "fipeCodigo": "861028-2",
+      "displayName": "DAFRA SPEED  Cargo 150",
+      "valorAtual": 2970,
+      "canonicalPath": "/fipe/dafra/speed-cargo-150-2011-861028-2/",
+      "ano": 2011,
+      "marca": "DAFRA"
+    },
+    {
+      "vehicleId": "dafra-speed-150-2011-gasolina",
+      "fipeCodigo": "861002-9",
+      "displayName": "DAFRA SPEED 150",
+      "valorAtual": 4516,
+      "canonicalPath": "/fipe/dafra/speed-150-2011-861002-9/",
+      "ano": 2011,
+      "marca": "DAFRA"
+    },
+    {
+      "vehicleId": "dafra-speed-cargo-150-2010-gasolina",
+      "fipeCodigo": "861028-2",
+      "displayName": "DAFRA SPEED  Cargo 150",
+      "valorAtual": 2897,
+      "canonicalPath": "/fipe/dafra/speed-cargo-150-2010-861028-2/",
+      "ano": 2010,
+      "marca": "DAFRA"
+    },
+    {
+      "vehicleId": "dafra-speed-150-2010-gasolina",
+      "fipeCodigo": "861002-9",
+      "displayName": "DAFRA SPEED 150",
+      "valorAtual": 4228,
+      "canonicalPath": "/fipe/dafra/speed-150-2010-861002-9/",
+      "ano": 2010,
+      "marca": "DAFRA"
+    },
+    {
+      "vehicleId": "dafra-speed-150-2009-gasolina",
+      "fipeCodigo": "861002-9",
+      "displayName": "DAFRA SPEED 150",
+      "valorAtual": 4122,
+      "canonicalPath": "/fipe/dafra/speed-150-2009-861002-9/",
+      "ano": 2009,
+      "marca": "DAFRA"
+    },
+    {
+      "vehicleId": "dafra-speed-150-2008-gasolina",
+      "fipeCodigo": "861002-9",
+      "displayName": "DAFRA SPEED 150",
+      "valorAtual": 4021,
+      "canonicalPath": "/fipe/dafra/speed-150-2008-861002-9/",
+      "ano": 2008,
+      "marca": "DAFRA"
+    }
+  ],
+  "stats": {
+    "total": 11,
+    "precoMin": 2897,
+    "precoMax": 5570,
+    "anos": [
+      2015,
+      2014,
+      2013,
+      2012,
+      2011,
+      2010,
+      2009,
+      2008
+    ]
+  }
+}

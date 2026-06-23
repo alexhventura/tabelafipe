@@ -1,0 +1,129 @@
+{
+  "tipo": "geracao",
+  "slug": "vm-1",
+  "canonicalPath": "/geracao/volvo/vm-1/",
+  "titulo": "Geracao vm-1",
+  "descricao": "12 veiculos da geracao vm-1.",
+  "seo": {
+    "title": "Geracao vm-1 - Precos FIPE",
+    "description": "Veiculos da geracao vm-1 na Tabela FIPE.",
+    "h1": "Geracao vm-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/volvo/vm-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "volvo-vm-290-4x2-2p-diesel-e6-0-diesel",
+      "fipeCodigo": "516254-8",
+      "displayName": "VOLVO VM 290 4x2 2p (diesel) (E6)",
+      "valorAtual": 627840,
+      "canonicalPath": "/fipe/volvo/vm-290-4x2-2p-diesel-e6-0-516254-8/",
+      "ano": 0,
+      "marca": "VOLVO"
+    },
+    {
+      "vehicleId": "volvo-vm-290-4x2-2p-city-diesel-e6-0-diesel",
+      "fipeCodigo": "516252-1",
+      "displayName": "VOLVO VM 290 4x2 2p City (diesel) (E6)",
+      "valorAtual": 601833,
+      "canonicalPath": "/fipe/volvo/vm-290-4x2-2p-city-diesel-e6-0-516252-1/",
+      "ano": 0,
+      "marca": "VOLVO"
+    },
+    {
+      "vehicleId": "volvo-vm-290-6x2-2p-diesel-e6-0-diesel",
+      "fipeCodigo": "516255-6",
+      "displayName": "VOLVO VM 290 6X2 2p (diesel) (E6)",
+      "valorAtual": 666729,
+      "canonicalPath": "/fipe/volvo/vm-290-6x2-2p-diesel-e6-0-516255-6/",
+      "ano": 0,
+      "marca": "VOLVO"
+    },
+    {
+      "vehicleId": "volvo-vm-290-6x2-2p-city-diesel-e6-0-diesel",
+      "fipeCodigo": "516253-0",
+      "displayName": "VOLVO VM 290 6x2 2p City (diesel) (E6)",
+      "valorAtual": 632055,
+      "canonicalPath": "/fipe/volvo/vm-290-6x2-2p-city-diesel-e6-0-516253-0/",
+      "ano": 0,
+      "marca": "VOLVO"
+    },
+    {
+      "vehicleId": "volvo-vm-290-6x4-2p-diesel-e6-0-diesel",
+      "fipeCodigo": "516260-2",
+      "displayName": "VOLVO VM 290 6x4 2p (diesel) (E6)",
+      "valorAtual": 728506,
+      "canonicalPath": "/fipe/volvo/vm-290-6x4-2p-diesel-e6-0-516260-2/",
+      "ano": 0,
+      "marca": "VOLVO"
+    },
+    {
+      "vehicleId": "volvo-vm-290-8x2-2p-diesel-e6-0-diesel",
+      "fipeCodigo": "516258-0",
+      "displayName": "VOLVO VM 290 8X2 2p (diesel) (E6)",
+      "valorAtual": 760888,
+      "canonicalPath": "/fipe/volvo/vm-290-8x2-2p-diesel-e6-0-516258-0/",
+      "ano": 0,
+      "marca": "VOLVO"
+    },
+    {
+      "vehicleId": "volvo-vm-290-8x4-2p-diesel-e6-0-diesel",
+      "fipeCodigo": "516272-6",
+      "displayName": "VOLVO VM 290 8X4 2p (diesel) (E6)",
+      "valorAtual": 798833,
+      "canonicalPath": "/fipe/volvo/vm-290-8x4-2p-diesel-e6-0-516272-6/",
+      "ano": 0,
+      "marca": "VOLVO"
+    },
+    {
+      "vehicleId": "volvo-vm-360-4x2-2p-diesel-e6-0-diesel",
+      "fipeCodigo": "516256-4",
+      "displayName": "VOLVO VM 360 4X2 2p (diesel) (E6)",
+      "valorAtual": 696930,
+      "canonicalPath": "/fipe/volvo/vm-360-4x2-2p-diesel-e6-0-516256-4/",
+      "ano": 0,
+      "marca": "VOLVO"
+    },
+    {
+      "vehicleId": "volvo-vm-360-6x2-2p-diesel-e6-0-diesel",
+      "fipeCodigo": "516257-2",
+      "displayName": "VOLVO VM 360 6x2 2p (diesel)(E6)",
+      "valorAtual": 711616,
+      "canonicalPath": "/fipe/volvo/vm-360-6x2-2p-diesel-e6-0-516257-2/",
+      "ano": 0,
+      "marca": "VOLVO"
+    },
+    {
+      "vehicleId": "volvo-vm-360-6x4-2p-diesel-e6-0-diesel",
+      "fipeCodigo": "516270-0",
+      "displayName": "VOLVO VM 360 6x4 2p (diesel)(E6)",
+      "valorAtual": 792416,
+      "canonicalPath": "/fipe/volvo/vm-360-6x4-2p-diesel-e6-0-516270-0/",
+      "ano": 0,
+      "marca": "VOLVO"
+    },
+    {
+      "vehicleId": "volvo-vm-360-8x2-2p-diesel-e6-0-diesel",
+      "fipeCodigo": "516259-9",
+      "displayName": "VOLVO VM 360 8X2 2p (diesel) (E6)",
+      "valorAtual": 859444,
+      "canonicalPath": "/fipe/volvo/vm-360-8x2-2p-diesel-e6-0-516259-9/",
+      "ano": 0,
+      "marca": "VOLVO"
+    },
+    {
+      "vehicleId": "volvo-vm-360-8x4-2p-diesel-e6-0-diesel",
+      "fipeCodigo": "516271-8",
+      "displayName": "VOLVO VM 360 8X4 2p (diesel) (E6)",
+      "valorAtual": 872070,
+      "canonicalPath": "/fipe/volvo/vm-360-8x4-2p-diesel-e6-0-516271-8/",
+      "ano": 0,
+      "marca": "VOLVO"
+    }
+  ],
+  "stats": {
+    "total": 12
+  },
+  "meta": {
+    "geracaoId": "vm-1"
+  }
+}

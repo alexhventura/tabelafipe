@@ -1,0 +1,48 @@
+{
+  "tipo": "geracao",
+  "slug": "velocette-1",
+  "canonicalPath": "/geracao/motorino/velocette-1/",
+  "titulo": "Geracao velocette-1",
+  "descricao": "3 veiculos da geracao velocette-1.",
+  "seo": {
+    "title": "Geracao velocette-1 - Precos FIPE",
+    "description": "Veiculos da geracao velocette-1 na Tabela FIPE.",
+    "h1": "Geracao velocette-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/motorino/velocette-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "motorino-velocette-150cc-2014-gasolina",
+      "fipeCodigo": "881006-0",
+      "displayName": "MOTORINO Velocette 150cc",
+      "valorAtual": 8621,
+      "canonicalPath": "/fipe/motorino/velocette-150cc-2014-881006-0/",
+      "ano": 2014,
+      "marca": "MOTORINO"
+    },
+    {
+      "vehicleId": "motorino-velocette-150cc-2015-gasolina",
+      "fipeCodigo": "881006-0",
+      "displayName": "MOTORINO Velocette 150cc",
+      "valorAtual": 10513,
+      "canonicalPath": "/fipe/motorino/velocette-150cc-2015-881006-0/",
+      "ano": 2015,
+      "marca": "MOTORINO"
+    },
+    {
+      "vehicleId": "motorino-velocette-150cc-2016-gasolina",
+      "fipeCodigo": "881006-0",
+      "displayName": "MOTORINO Velocette 150cc",
+      "valorAtual": 13124,
+      "canonicalPath": "/fipe/motorino/velocette-150cc-2016-881006-0/",
+      "ano": 2016,
+      "marca": "MOTORINO"
+    }
+  ],
+  "stats": {
+    "total": 3
+  },
+  "meta": {
+    "geracaoId": "velocette-1"
+  }
+}

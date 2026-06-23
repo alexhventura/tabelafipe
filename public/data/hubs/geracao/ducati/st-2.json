@@ -1,0 +1,57 @@
+{
+  "tipo": "geracao",
+  "slug": "st-2",
+  "canonicalPath": "/geracao/ducati/st-2/",
+  "titulo": "Geracao st-2",
+  "descricao": "4 veiculos da geracao st-2.",
+  "seo": {
+    "title": "Geracao st-2 - Precos FIPE",
+    "description": "Veiculos da geracao st-2 na Tabela FIPE.",
+    "h1": "Geracao st-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/ducati/st-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "ducati-st-2-900-944cc-2002-gasolina",
+      "fipeCodigo": "808006-2",
+      "displayName": "DUCATI ST-2 900/ 944cc",
+      "valorAtual": 21620,
+      "canonicalPath": "/fipe/ducati/st-2-900-944cc-2002-808006-2/",
+      "ano": 2002,
+      "marca": "DUCATI"
+    },
+    {
+      "vehicleId": "ducati-st-2-900-944cc-2003-gasolina",
+      "fipeCodigo": "808006-2",
+      "displayName": "DUCATI ST-2 900/ 944cc",
+      "valorAtual": 23779,
+      "canonicalPath": "/fipe/ducati/st-2-900-944cc-2003-808006-2/",
+      "ano": 2003,
+      "marca": "DUCATI"
+    },
+    {
+      "vehicleId": "ducati-st-4-900-996cc-2002-gasolina",
+      "fipeCodigo": "808007-0",
+      "displayName": "DUCATI ST-4 900/ 996cc",
+      "valorAtual": 24385,
+      "canonicalPath": "/fipe/ducati/st-4-900-996cc-2002-808007-0/",
+      "ano": 2002,
+      "marca": "DUCATI"
+    },
+    {
+      "vehicleId": "ducati-st-4-900-996cc-2003-gasolina",
+      "fipeCodigo": "808007-0",
+      "displayName": "DUCATI ST-4 900/ 996cc",
+      "valorAtual": 25481,
+      "canonicalPath": "/fipe/ducati/st-4-900-996cc-2003-808007-0/",
+      "ano": 2003,
+      "marca": "DUCATI"
+    }
+  ],
+  "stats": {
+    "total": 4
+  },
+  "meta": {
+    "geracaoId": "st-2"
+  }
+}

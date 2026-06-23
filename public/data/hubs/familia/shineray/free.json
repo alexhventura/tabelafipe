@@ -1,0 +1,52 @@
+{
+  "tipo": "familia",
+  "slug": "free",
+  "canonicalPath": "/fipe/shineray/free/",
+  "titulo": "SHINERAY free - Tabela FIPE",
+  "descricao": "3 versoes e anos do SHINERAY free na Tabela FIPE.",
+  "seo": {
+    "title": "SHINERAY free - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes SHINERAY free. 3 veiculos indexados.",
+    "h1": "SHINERAY free - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/shineray/free/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "shineray-free-150-efi-2026-gasolina",
+      "fipeCodigo": "850043-6",
+      "displayName": "SHINERAY FREE 150 EFI",
+      "valorAtual": 12576,
+      "canonicalPath": "/fipe/shineray/free-150-efi-2026-850043-6/",
+      "ano": 2026,
+      "marca": "SHINERAY"
+    },
+    {
+      "vehicleId": "shineray-free-150-efi-2025-gasolina",
+      "fipeCodigo": "850043-6",
+      "displayName": "SHINERAY FREE 150 EFI",
+      "valorAtual": 10505,
+      "canonicalPath": "/fipe/shineray/free-150-efi-2025-850043-6/",
+      "ano": 2025,
+      "marca": "SHINERAY"
+    },
+    {
+      "vehicleId": "shineray-free-150-efi-0-gasolina",
+      "fipeCodigo": "850043-6",
+      "displayName": "SHINERAY FREE 150 EFI",
+      "valorAtual": 13704,
+      "canonicalPath": "/fipe/shineray/free-150-efi-0-850043-6/",
+      "ano": 0,
+      "marca": "SHINERAY"
+    }
+  ],
+  "stats": {
+    "total": 3,
+    "precoMin": 10505,
+    "precoMax": 13704,
+    "anos": [
+      2026,
+      2025,
+      0
+    ]
+  }
+}

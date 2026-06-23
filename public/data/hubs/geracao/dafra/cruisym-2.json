@@ -1,0 +1,102 @@
+{
+  "tipo": "geracao",
+  "slug": "cruisym-2",
+  "canonicalPath": "/geracao/dafra/cruisym-2/",
+  "titulo": "Geracao cruisym-2",
+  "descricao": "9 veiculos da geracao cruisym-2.",
+  "seo": {
+    "title": "Geracao cruisym-2 - Precos FIPE",
+    "description": "Veiculos da geracao cruisym-2 na Tabela FIPE.",
+    "h1": "Geracao cruisym-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/dafra/cruisym-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "dafra-cruisym-150-2022-gasolina",
+      "fipeCodigo": "861029-0",
+      "displayName": "DAFRA CRUISYM 150",
+      "valorAtual": 12009,
+      "canonicalPath": "/fipe/dafra/cruisym-150-2022-861029-0/",
+      "ano": 2022,
+      "marca": "DAFRA"
+    },
+    {
+      "vehicleId": "dafra-cruisym-150-2023-gasolina",
+      "fipeCodigo": "861029-0",
+      "displayName": "DAFRA CRUISYM 150",
+      "valorAtual": 12704,
+      "canonicalPath": "/fipe/dafra/cruisym-150-2023-861029-0/",
+      "ano": 2023,
+      "marca": "DAFRA"
+    },
+    {
+      "vehicleId": "dafra-cruisym-150-2024-gasolina",
+      "fipeCodigo": "861029-0",
+      "displayName": "DAFRA CRUISYM 150",
+      "valorAtual": 14553,
+      "canonicalPath": "/fipe/dafra/cruisym-150-2024-861029-0/",
+      "ano": 2024,
+      "marca": "DAFRA"
+    },
+    {
+      "vehicleId": "dafra-cruisym-150-2025-gasolina",
+      "fipeCodigo": "861029-0",
+      "displayName": "DAFRA CRUISYM 150",
+      "valorAtual": 16594,
+      "canonicalPath": "/fipe/dafra/cruisym-150-2025-861029-0/",
+      "ano": 2025,
+      "marca": "DAFRA"
+    },
+    {
+      "vehicleId": "dafra-cruisym-150-2026-gasolina",
+      "fipeCodigo": "861029-0",
+      "displayName": "DAFRA CRUISYM 150",
+      "valorAtual": 17267,
+      "canonicalPath": "/fipe/dafra/cruisym-150-2026-861029-0/",
+      "ano": 2026,
+      "marca": "DAFRA"
+    },
+    {
+      "vehicleId": "dafra-cruisym-300-2023-gasolina",
+      "fipeCodigo": "861030-4",
+      "displayName": "DAFRA CRUISYM 300",
+      "valorAtual": 25745,
+      "canonicalPath": "/fipe/dafra/cruisym-300-2023-861030-4/",
+      "ano": 2023,
+      "marca": "DAFRA"
+    },
+    {
+      "vehicleId": "dafra-cruisym-300-2024-gasolina",
+      "fipeCodigo": "861030-4",
+      "displayName": "DAFRA CRUISYM 300",
+      "valorAtual": 27726,
+      "canonicalPath": "/fipe/dafra/cruisym-300-2024-861030-4/",
+      "ano": 2024,
+      "marca": "DAFRA"
+    },
+    {
+      "vehicleId": "dafra-cruisym-300-2025-gasolina",
+      "fipeCodigo": "861030-4",
+      "displayName": "DAFRA CRUISYM 300",
+      "valorAtual": 29733,
+      "canonicalPath": "/fipe/dafra/cruisym-300-2025-861030-4/",
+      "ano": 2025,
+      "marca": "DAFRA"
+    },
+    {
+      "vehicleId": "dafra-cruisym-300-2026-gasolina",
+      "fipeCodigo": "861030-4",
+      "displayName": "DAFRA CRUISYM 300",
+      "valorAtual": 31374,
+      "canonicalPath": "/fipe/dafra/cruisym-300-2026-861030-4/",
+      "ano": 2026,
+      "marca": "DAFRA"
+    }
+  ],
+  "stats": {
+    "total": 9
+  },
+  "meta": {
+    "geracaoId": "cruisym-2"
+  }
+}

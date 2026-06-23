@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "hb-1",
+  "canonicalPath": "/geracao/haobao/hb-1/",
+  "titulo": "Geracao hb-1",
+  "descricao": "2 veiculos da geracao hb-1.",
+  "seo": {
+    "title": "Geracao hb-1 - Precos FIPE",
+    "description": "Veiculos da geracao hb-1 na Tabela FIPE.",
+    "h1": "Geracao hb-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/haobao/hb-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "haobao-hb-50q-2011-gasolina",
+      "fipeCodigo": "856005-6",
+      "displayName": "HAOBAO HB 50Q",
+      "valorAtual": 1922,
+      "canonicalPath": "/fipe/haobao/hb-50q-2011-856005-6/",
+      "ano": 2011,
+      "marca": "HAOBAO"
+    },
+    {
+      "vehicleId": "haobao-hb-50q-2012-gasolina",
+      "fipeCodigo": "856005-6",
+      "displayName": "HAOBAO HB 50Q",
+      "valorAtual": 2165,
+      "canonicalPath": "/fipe/haobao/hb-50q-2012-856005-6/",
+      "ano": 2012,
+      "marca": "HAOBAO"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "hb-1"
+  }
+}

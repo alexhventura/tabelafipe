@@ -1,0 +1,57 @@
+{
+  "tipo": "geracao",
+  "slug": "rx-2",
+  "canonicalPath": "/geracao/lexus/rx-2/",
+  "titulo": "Geracao rx-2",
+  "descricao": "4 veiculos da geracao rx-2.",
+  "seo": {
+    "title": "Geracao rx-2 - Precos FIPE",
+    "description": "Veiculos da geracao rx-2 na Tabela FIPE.",
+    "h1": "Geracao rx-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/lexus/rx-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "lexus-rx-300-4x4-3-0-v6-24v-1999-gasolina",
+      "fipeCodigo": "057002-8",
+      "displayName": "Lexus RX 300 4x4 3.0 V6 24V",
+      "valorAtual": 27095,
+      "canonicalPath": "/fipe/lexus/rx-300-4x4-3-0-v6-24v-1999-057002-8/",
+      "ano": 1999,
+      "marca": "Lexus"
+    },
+    {
+      "vehicleId": "lexus-rx-300-4x4-3-0-v6-24v-2000-gasolina",
+      "fipeCodigo": "057002-8",
+      "displayName": "Lexus RX 300 4x4 3.0 V6 24V",
+      "valorAtual": 31127,
+      "canonicalPath": "/fipe/lexus/rx-300-4x4-3-0-v6-24v-2000-057002-8/",
+      "ano": 2000,
+      "marca": "Lexus"
+    },
+    {
+      "vehicleId": "lexus-rx-300-4x4-3-0-v6-24v-2001-gasolina",
+      "fipeCodigo": "057002-8",
+      "displayName": "Lexus RX 300 4x4 3.0 V6 24V",
+      "valorAtual": 33374,
+      "canonicalPath": "/fipe/lexus/rx-300-4x4-3-0-v6-24v-2001-057002-8/",
+      "ano": 2001,
+      "marca": "Lexus"
+    },
+    {
+      "vehicleId": "lexus-rx-300-4x4-3-0-v6-24v-2002-gasolina",
+      "fipeCodigo": "057002-8",
+      "displayName": "Lexus RX 300 4x4 3.0 V6 24V",
+      "valorAtual": 34442,
+      "canonicalPath": "/fipe/lexus/rx-300-4x4-3-0-v6-24v-2002-057002-8/",
+      "ano": 2002,
+      "marca": "Lexus"
+    }
+  ],
+  "stats": {
+    "total": 4
+  },
+  "meta": {
+    "geracaoId": "rx-2"
+  }
+}

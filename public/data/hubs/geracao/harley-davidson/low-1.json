@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "low-1",
+  "canonicalPath": "/geracao/harley-davidson/low-1/",
+  "titulo": "Geracao low-1",
+  "descricao": "2 veiculos da geracao low-1.",
+  "seo": {
+    "title": "Geracao low-1 - Precos FIPE",
+    "description": "Veiculos da geracao low-1 na Tabela FIPE.",
+    "h1": "Geracao low-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/harley-davidson/low-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "harley-davidson-low-rider-s-fxlrs-0-gasolina",
+      "fipeCodigo": "810108-6",
+      "displayName": "HARLEY-DAVIDSON LOW RIDER S FXLRS",
+      "valorAtual": 126927,
+      "canonicalPath": "/fipe/harley-davidson/low-rider-s-fxlrs-0-810108-6/",
+      "ano": 0,
+      "marca": "HARLEY-DAVIDSON"
+    },
+    {
+      "vehicleId": "harley-davidson-low-rider-st-fxlrst-0-gasolina",
+      "fipeCodigo": "810111-6",
+      "displayName": "HARLEY-DAVIDSON LOW RIDER ST FXLRST",
+      "valorAtual": 153121,
+      "canonicalPath": "/fipe/harley-davidson/low-rider-st-fxlrst-0-810111-6/",
+      "ano": 0,
+      "marca": "HARLEY-DAVIDSON"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "low-1"
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "tipo": "geracao",
+  "slug": "vantage-4",
+  "canonicalPath": "/geracao/aston-martin/vantage-4/",
+  "titulo": "Geracao vantage-4",
+  "descricao": "5 veiculos da geracao vantage-4.",
+  "seo": {
+    "title": "Geracao vantage-4 - Precos FIPE",
+    "description": "Veiculos da geracao vantage-4 na Tabela FIPE.",
+    "h1": "Geracao vantage-4",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/aston-martin/vantage-4/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "aston-martin-vantage-cupe-4-0-v8-510cv-2022-gasolina",
+      "fipeCodigo": "085012-8",
+      "displayName": "ASTON MARTIN Vantage Cupê  4.0 V8 510cv",
+      "valorAtual": 1445300,
+      "canonicalPath": "/fipe/aston-martin/vantage-cupe-4-0-v8-510cv-2022-085012-8/",
+      "ano": 2022,
+      "marca": "ASTON MARTIN"
+    },
+    {
+      "vehicleId": "aston-martin-vantage-cupe-4-0-v8-510cv-2023-gasolina",
+      "fipeCodigo": "085012-8",
+      "displayName": "ASTON MARTIN Vantage Cupê  4.0 V8 510cv",
+      "valorAtual": 1576929,
+      "canonicalPath": "/fipe/aston-martin/vantage-cupe-4-0-v8-510cv-2023-085012-8/",
+      "ano": 2023,
+      "marca": "ASTON MARTIN"
+    },
+    {
+      "vehicleId": "aston-martin-vantage-cupe-f1-edition-4-0-v8-535cv-2022-gasolina",
+      "fipeCodigo": "085013-6",
+      "displayName": "ASTON MARTIN Vantage Cupê F1 Edition 4.0 V8 535cv",
+      "valorAtual": 1590800,
+      "canonicalPath": "/fipe/aston-martin/vantage-cupe-f1-edition-4-0-v8-535cv-2022-085013-6/",
+      "ano": 2022,
+      "marca": "ASTON MARTIN"
+    },
+    {
+      "vehicleId": "aston-martin-vantage-cupe-f1-edition-4-0-v8-535cv-2023-gasolina",
+      "fipeCodigo": "085013-6",
+      "displayName": "ASTON MARTIN Vantage Cupê F1 Edition 4.0 V8 535cv",
+      "valorAtual": 1697500,
+      "canonicalPath": "/fipe/aston-martin/vantage-cupe-f1-edition-4-0-v8-535cv-2023-085013-6/",
+      "ano": 2023,
+      "marca": "ASTON MARTIN"
+    },
+    {
+      "vehicleId": "aston-martin-vantage-roadster-f1-edition-4-0-v8-535cv-2023-gasolina",
+      "fipeCodigo": "085017-9",
+      "displayName": "ASTON MARTIN Vantage Roadster F1 Edition 4.0 V8 535cv",
+      "valorAtual": 1736300,
+      "canonicalPath": "/fipe/aston-martin/vantage-roadster-f1-edition-4-0-v8-535cv-2023-085017-9/",
+      "ano": 2023,
+      "marca": "ASTON MARTIN"
+    }
+  ],
+  "stats": {
+    "total": 5
+  },
+  "meta": {
+    "geracaoId": "vantage-4"
+  }
+}

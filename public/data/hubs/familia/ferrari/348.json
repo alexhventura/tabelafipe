@@ -1,0 +1,78 @@
+{
+  "tipo": "familia",
+  "slug": "348",
+  "canonicalPath": "/fipe/ferrari/348/",
+  "titulo": "Ferrari 348 - Tabela FIPE",
+  "descricao": "6 versoes e anos do Ferrari 348 na Tabela FIPE.",
+  "seo": {
+    "title": "Ferrari 348 - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes Ferrari 348. 6 veiculos indexados.",
+    "h1": "Ferrari 348 - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/ferrari/348/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "ferrari-348-ts-tb-3-4-1994-gasolina",
+      "fipeCodigo": "031008-5",
+      "displayName": "Ferrari 348 TS/TB 3.4",
+      "valorAtual": 176338,
+      "canonicalPath": "/fipe/ferrari/348-ts-tb-3-4-1994-031008-5/",
+      "ano": 1994,
+      "marca": "Ferrari"
+    },
+    {
+      "vehicleId": "ferrari-348-gts-3-4-1994-gasolina",
+      "fipeCodigo": "031014-0",
+      "displayName": "Ferrari 348 GTS 3.4",
+      "valorAtual": 177846,
+      "canonicalPath": "/fipe/ferrari/348-gts-3-4-1994-031014-0/",
+      "ano": 1994,
+      "marca": "Ferrari"
+    },
+    {
+      "vehicleId": "ferrari-348-spider-3-4-1994-gasolina",
+      "fipeCodigo": "031013-1",
+      "displayName": "Ferrari 348 Spider 3.4",
+      "valorAtual": 179437,
+      "canonicalPath": "/fipe/ferrari/348-spider-3-4-1994-031013-1/",
+      "ano": 1994,
+      "marca": "Ferrari"
+    },
+    {
+      "vehicleId": "ferrari-348-ts-tb-3-4-1993-gasolina",
+      "fipeCodigo": "031008-5",
+      "displayName": "Ferrari 348 TS/TB 3.4",
+      "valorAtual": 154110,
+      "canonicalPath": "/fipe/ferrari/348-ts-tb-3-4-1993-031008-5/",
+      "ano": 1993,
+      "marca": "Ferrari"
+    },
+    {
+      "vehicleId": "ferrari-348-gts-3-4-1993-gasolina",
+      "fipeCodigo": "031014-0",
+      "displayName": "Ferrari 348 GTS 3.4",
+      "valorAtual": 155618,
+      "canonicalPath": "/fipe/ferrari/348-gts-3-4-1993-031014-0/",
+      "ano": 1993,
+      "marca": "Ferrari"
+    },
+    {
+      "vehicleId": "ferrari-348-spider-3-4-1993-gasolina",
+      "fipeCodigo": "031013-1",
+      "displayName": "Ferrari 348 Spider 3.4",
+      "valorAtual": 162552,
+      "canonicalPath": "/fipe/ferrari/348-spider-3-4-1993-031013-1/",
+      "ano": 1993,
+      "marca": "Ferrari"
+    }
+  ],
+  "stats": {
+    "total": 6,
+    "precoMin": 154110,
+    "precoMax": 179437,
+    "anos": [
+      1994,
+      1993
+    ]
+  }
+}

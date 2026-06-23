@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "rapide-1",
+  "canonicalPath": "/geracao/aston-martin/rapide-1/",
+  "titulo": "Geracao rapide-1",
+  "descricao": "2 veiculos da geracao rapide-1.",
+  "seo": {
+    "title": "Geracao rapide-1 - Precos FIPE",
+    "description": "Veiculos da geracao rapide-1 na Tabela FIPE.",
+    "h1": "Geracao rapide-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/aston-martin/rapide-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "aston-martin-rapide-6-0-v12-477cv-2011-gasolina",
+      "fipeCodigo": "085007-1",
+      "displayName": "ASTON MARTIN Rapide 6.0 V12 477cv",
+      "valorAtual": 717670,
+      "canonicalPath": "/fipe/aston-martin/rapide-6-0-v12-477cv-2011-085007-1/",
+      "ano": 2011,
+      "marca": "ASTON MARTIN"
+    },
+    {
+      "vehicleId": "aston-martin-rapide-6-0-v12-477cv-2012-gasolina",
+      "fipeCodigo": "085007-1",
+      "displayName": "ASTON MARTIN Rapide 6.0 V12 477cv",
+      "valorAtual": 775030,
+      "canonicalPath": "/fipe/aston-martin/rapide-6-0-v12-477cv-2012-085007-1/",
+      "ano": 2012,
+      "marca": "ASTON MARTIN"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "rapide-1"
+  }
+}

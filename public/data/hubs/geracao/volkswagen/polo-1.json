@@ -1,0 +1,102 @@
+{
+  "tipo": "geracao",
+  "slug": "polo-1",
+  "canonicalPath": "/geracao/volkswagen/polo-1/",
+  "titulo": "Geracao polo-1",
+  "descricao": "9 veiculos da geracao polo-1.",
+  "seo": {
+    "title": "Geracao polo-1 - Precos FIPE",
+    "description": "Veiculos da geracao polo-1 na Tabela FIPE.",
+    "h1": "Geracao polo-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/volkswagen/polo-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "volkswagen-polo-1-0-mpi-flex-12v-5p-0-flex",
+      "fipeCodigo": "005533-6",
+      "displayName": "VW - VolksWagen Polo 1.0 MPI Flex 12V 5p",
+      "valorAtual": 91549,
+      "canonicalPath": "/fipe/volkswagen/polo-1-0-mpi-flex-12v-5p-0-005533-6/",
+      "ano": 0,
+      "marca": "VW - VolksWagen"
+    },
+    {
+      "vehicleId": "volkswagen-polo-1-0-tsi-flex-12v-5p-0-flex",
+      "fipeCodigo": "005534-4",
+      "displayName": "VW - VolksWagen Polo 1.0 TSI Flex 12V 5p",
+      "valorAtual": 107840,
+      "canonicalPath": "/fipe/volkswagen/polo-1-0-tsi-flex-12v-5p-0-005534-4/",
+      "ano": 0,
+      "marca": "VW - VolksWagen"
+    },
+    {
+      "vehicleId": "volkswagen-polo-comfortline-tsi-1-0-flex-12v-aut-0-flex",
+      "fipeCodigo": "005535-2",
+      "displayName": "VW - VolksWagen Polo Comfortline TSI 1.0 Flex 12V Aut.",
+      "valorAtual": 116801,
+      "canonicalPath": "/fipe/volkswagen/polo-comfortline-tsi-1-0-flex-12v-aut-0-005535-2/",
+      "ano": 0,
+      "marca": "VW - VolksWagen"
+    },
+    {
+      "vehicleId": "volkswagen-polo-gts-1-4-tsi-16v-flex-0-flex",
+      "fipeCodigo": "005521-2",
+      "displayName": "VW - VolksWagen Polo GTS 1.4 TSI 16V Flex",
+      "valorAtual": 155419,
+      "canonicalPath": "/fipe/volkswagen/polo-gts-1-4-tsi-16v-flex-0-005521-2/",
+      "ano": 0,
+      "marca": "VW - VolksWagen"
+    },
+    {
+      "vehicleId": "volkswagen-polo-highline-tsi-1-0-flex-12v-aut-0-flex",
+      "fipeCodigo": "005536-0",
+      "displayName": "VW - VolksWagen Polo Highline TSI 1.0 Flex 12V Aut.",
+      "valorAtual": 125502,
+      "canonicalPath": "/fipe/volkswagen/polo-highline-tsi-1-0-flex-12v-aut-0-005536-0/",
+      "ano": 0,
+      "marca": "VW - VolksWagen"
+    },
+    {
+      "vehicleId": "volkswagen-polo-robust-1-0-flex-12v-5p-0-flex",
+      "fipeCodigo": "005550-6",
+      "displayName": "VW - VolksWagen Polo Robust 1.0 Flex 12V 5p",
+      "valorAtual": 96642,
+      "canonicalPath": "/fipe/volkswagen/polo-robust-1-0-flex-12v-5p-0-005550-6/",
+      "ano": 0,
+      "marca": "VW - VolksWagen"
+    },
+    {
+      "vehicleId": "volkswagen-polo-sense-tsi-1-0-flex-12v-aut-0-flex",
+      "fipeCodigo": "005513-1",
+      "displayName": "VW - VolksWagen Polo Sense TSI 1.0 Flex 12V Aut",
+      "valorAtual": 109085,
+      "canonicalPath": "/fipe/volkswagen/polo-sense-tsi-1-0-flex-12v-aut-0-005513-1/",
+      "ano": 0,
+      "marca": "VW - VolksWagen"
+    },
+    {
+      "vehicleId": "volkswagen-polo-track-1-0-flex-12v-5p-0-flex",
+      "fipeCodigo": "005540-9",
+      "displayName": "VW - VolksWagen Polo Track 1.0 Flex 12V 5p",
+      "valorAtual": 92413,
+      "canonicalPath": "/fipe/volkswagen/polo-track-1-0-flex-12v-5p-0-005540-9/",
+      "ano": 0,
+      "marca": "VW - VolksWagen"
+    },
+    {
+      "vehicleId": "volkswagen-polo-track-rock-in-rio-1-0-flex-12v-5p-0-flex",
+      "fipeCodigo": "005549-2",
+      "displayName": "VW - VolksWagen Polo Track Rock in Rio 1.0 Flex 12V 5p",
+      "valorAtual": 92563,
+      "canonicalPath": "/fipe/volkswagen/polo-track-rock-in-rio-1-0-flex-12v-5p-0-005549-2/",
+      "ano": 0,
+      "marca": "VW - VolksWagen"
+    }
+  ],
+  "stats": {
+    "total": 9
+  },
+  "meta": {
+    "geracaoId": "polo-1"
+  }
+}

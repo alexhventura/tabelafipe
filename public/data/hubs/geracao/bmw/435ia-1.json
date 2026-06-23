@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "435ia-1",
+  "canonicalPath": "/geracao/bmw/435ia-1/",
+  "titulo": "Geracao 435ia-1",
+  "descricao": "2 veiculos da geracao 435ia-1.",
+  "seo": {
+    "title": "Geracao 435ia-1 - Precos FIPE",
+    "description": "Veiculos da geracao 435ia-1 na Tabela FIPE.",
+    "h1": "Geracao 435ia-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/bmw/435ia-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "bmw-435ia-m-sport-coupe-3-0-24v-306cv-2p-2014-gasolina",
+      "fipeCodigo": "009190-1",
+      "displayName": "BMW 435iA M Sport Coupe 3.0 24V 306cv 2p",
+      "valorAtual": 213685,
+      "canonicalPath": "/fipe/bmw/435ia-m-sport-coupe-3-0-24v-306cv-2p-2014-009190-1/",
+      "ano": 2014,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-435ia-m-sport-coupe-3-0-24v-306cv-2p-2015-gasolina",
+      "fipeCodigo": "009190-1",
+      "displayName": "BMW 435iA M Sport Coupe 3.0 24V 306cv 2p",
+      "valorAtual": 219028,
+      "canonicalPath": "/fipe/bmw/435ia-m-sport-coupe-3-0-24v-306cv-2p-2015-009190-1/",
+      "ano": 2015,
+      "marca": "BMW"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "435ia-1"
+  }
+}

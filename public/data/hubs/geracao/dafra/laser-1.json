@@ -1,0 +1,48 @@
+{
+  "tipo": "geracao",
+  "slug": "laser-1",
+  "canonicalPath": "/geracao/dafra/laser-1/",
+  "titulo": "Geracao laser-1",
+  "descricao": "3 veiculos da geracao laser-1.",
+  "seo": {
+    "title": "Geracao laser-1 - Precos FIPE",
+    "description": "Veiculos da geracao laser-1 na Tabela FIPE.",
+    "h1": "Geracao laser-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/dafra/laser-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "dafra-laser-150-2008-gasolina",
+      "fipeCodigo": "861004-5",
+      "displayName": "DAFRA LASER 150",
+      "valorAtual": 4609,
+      "canonicalPath": "/fipe/dafra/laser-150-2008-861004-5/",
+      "ano": 2008,
+      "marca": "DAFRA"
+    },
+    {
+      "vehicleId": "dafra-laser-150-2009-gasolina",
+      "fipeCodigo": "861004-5",
+      "displayName": "DAFRA LASER 150",
+      "valorAtual": 5165,
+      "canonicalPath": "/fipe/dafra/laser-150-2009-861004-5/",
+      "ano": 2009,
+      "marca": "DAFRA"
+    },
+    {
+      "vehicleId": "dafra-laser-150-2010-gasolina",
+      "fipeCodigo": "861004-5",
+      "displayName": "DAFRA LASER 150",
+      "valorAtual": 6056,
+      "canonicalPath": "/fipe/dafra/laser-150-2010-861004-5/",
+      "ano": 2010,
+      "marca": "DAFRA"
+    }
+  ],
+  "stats": {
+    "total": 3
+  },
+  "meta": {
+    "geracaoId": "laser-1"
+  }
+}

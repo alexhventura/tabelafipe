@@ -1,0 +1,62 @@
+{
+  "tipo": "familia",
+  "slug": "dawn",
+  "canonicalPath": "/fipe/rolls-royce/dawn/",
+  "titulo": "Rolls-Royce dawn - Tabela FIPE",
+  "descricao": "4 versoes e anos do Rolls-Royce dawn na Tabela FIPE.",
+  "seo": {
+    "title": "Rolls-Royce dawn - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes Rolls-Royce dawn. 4 veiculos indexados.",
+    "h1": "Rolls-Royce dawn - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/rolls-royce/dawn/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "rolls-royce-dawn-6-6-v12-aut-2020-gasolina",
+      "fipeCodigo": "087005-6",
+      "displayName": "Rolls-Royce Dawn 6.6 V12 Aut.",
+      "valorAtual": 4259030,
+      "canonicalPath": "/fipe/rolls-royce/dawn-6-6-v12-aut-2020-087005-6/",
+      "ano": 2020,
+      "marca": "Rolls-Royce"
+    },
+    {
+      "vehicleId": "rolls-royce-dawn-6-6-v12-aut-2019-gasolina",
+      "fipeCodigo": "087005-6",
+      "displayName": "Rolls-Royce Dawn 6.6 V12 Aut.",
+      "valorAtual": 3870176,
+      "canonicalPath": "/fipe/rolls-royce/dawn-6-6-v12-aut-2019-087005-6/",
+      "ano": 2019,
+      "marca": "Rolls-Royce"
+    },
+    {
+      "vehicleId": "rolls-royce-dawn-6-6-v12-aut-2018-gasolina",
+      "fipeCodigo": "087005-6",
+      "displayName": "Rolls-Royce Dawn 6.6 V12 Aut.",
+      "valorAtual": 3775781,
+      "canonicalPath": "/fipe/rolls-royce/dawn-6-6-v12-aut-2018-087005-6/",
+      "ano": 2018,
+      "marca": "Rolls-Royce"
+    },
+    {
+      "vehicleId": "rolls-royce-dawn-6-6-v12-aut-2017-gasolina",
+      "fipeCodigo": "087005-6",
+      "displayName": "Rolls-Royce Dawn 6.6 V12 Aut.",
+      "valorAtual": 3683688,
+      "canonicalPath": "/fipe/rolls-royce/dawn-6-6-v12-aut-2017-087005-6/",
+      "ano": 2017,
+      "marca": "Rolls-Royce"
+    }
+  ],
+  "stats": {
+    "total": 4,
+    "precoMin": 3683688,
+    "precoMax": 4259030,
+    "anos": [
+      2020,
+      2019,
+      2018,
+      2017
+    ]
+  }
+}

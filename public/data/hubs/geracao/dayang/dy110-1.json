@@ -1,0 +1,66 @@
+{
+  "tipo": "geracao",
+  "slug": "dy110-1",
+  "canonicalPath": "/geracao/dayang/dy110-1/",
+  "titulo": "Geracao dy110-1",
+  "descricao": "5 veiculos da geracao dy110-1.",
+  "seo": {
+    "title": "Geracao dy110-1 - Precos FIPE",
+    "description": "Veiculos da geracao dy110-1 na Tabela FIPE.",
+    "h1": "Geracao dy110-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/dayang/dy110-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "dayang-dy110-20-2007-gasolina",
+      "fipeCodigo": "857002-7",
+      "displayName": "DAYANG DY110-20",
+      "valorAtual": 1584,
+      "canonicalPath": "/fipe/dayang/dy110-20-2007-857002-7/",
+      "ano": 2007,
+      "marca": "DAYANG"
+    },
+    {
+      "vehicleId": "dayang-dy110-20-2008-gasolina",
+      "fipeCodigo": "857002-7",
+      "displayName": "DAYANG DY110-20",
+      "valorAtual": 1713,
+      "canonicalPath": "/fipe/dayang/dy110-20-2008-857002-7/",
+      "ano": 2008,
+      "marca": "DAYANG"
+    },
+    {
+      "vehicleId": "dayang-dy110-20-2009-gasolina",
+      "fipeCodigo": "857002-7",
+      "displayName": "DAYANG DY110-20",
+      "valorAtual": 1794,
+      "canonicalPath": "/fipe/dayang/dy110-20-2009-857002-7/",
+      "ano": 2009,
+      "marca": "DAYANG"
+    },
+    {
+      "vehicleId": "dayang-dy110-20-2010-gasolina",
+      "fipeCodigo": "857002-7",
+      "displayName": "DAYANG DY110-20",
+      "valorAtual": 1842,
+      "canonicalPath": "/fipe/dayang/dy110-20-2010-857002-7/",
+      "ano": 2010,
+      "marca": "DAYANG"
+    },
+    {
+      "vehicleId": "dayun-dy110-6-2008-gasolina",
+      "fipeCodigo": "860001-5",
+      "displayName": "DAYUN DY110-6",
+      "valorAtual": 2188,
+      "canonicalPath": "/fipe/dayun/dy110-6-2008-860001-5/",
+      "ano": 2008,
+      "marca": "DAYUN"
+    }
+  ],
+  "stats": {
+    "total": 5
+  },
+  "meta": {
+    "geracaoId": "dy110-1"
+  }
+}

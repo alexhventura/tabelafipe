@@ -1,0 +1,75 @@
+{
+  "tipo": "geracao",
+  "slug": "marrua-1",
+  "canonicalPath": "/geracao/agrale/marrua-1/",
+  "titulo": "Geracao marrua-1",
+  "descricao": "6 veiculos da geracao marrua-1.",
+  "seo": {
+    "title": "Geracao marrua-1 - Precos FIPE",
+    "description": "Veiculos da geracao marrua-1 na Tabela FIPE.",
+    "h1": "Geracao marrua-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/agrale/marrua-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "agrale-marrua-am-200-esc-3-8-tdi-die-aut-e6-0-diesel",
+      "fipeCodigo": "060014-8",
+      "displayName": "Agrale MARRUÁ AM 200 Esc. 3.8 TDI Die.Aut. (E6)",
+      "valorAtual": 824361,
+      "canonicalPath": "/fipe/agrale/marrua-am-200-esc-3-8-tdi-die-aut-e6-0-060014-8/",
+      "ano": 0,
+      "marca": "Agrale"
+    },
+    {
+      "vehicleId": "agrale-marrua-am-200-escolar-3-8-tdi-die-e6-0-diesel",
+      "fipeCodigo": "060011-3",
+      "displayName": "Agrale MARRUÁ AM 200 Escolar 3.8 TDI Die. (E6)",
+      "valorAtual": 776830,
+      "canonicalPath": "/fipe/agrale/marrua-am-200-escolar-3-8-tdi-die-e6-0-060011-3/",
+      "ano": 0,
+      "marca": "Agrale"
+    },
+    {
+      "vehicleId": "agrale-marrua-am-250-3-8-cd-tdi-die-aut-e6-0-diesel",
+      "fipeCodigo": "060013-0",
+      "displayName": "Agrale MARRUÁ AM 250 3.8 CD TDI Die. Aut. (E6)",
+      "valorAtual": 726588,
+      "canonicalPath": "/fipe/agrale/marrua-am-250-3-8-cd-tdi-die-aut-e6-0-060013-0/",
+      "ano": 0,
+      "marca": "Agrale"
+    },
+    {
+      "vehicleId": "agrale-marrua-am-250-3-8-cd-tdi-diesel-e6-0-diesel",
+      "fipeCodigo": "060012-1",
+      "displayName": "Agrale MARRUÁ AM 250 3.8 CD TDI Diesel (E6)",
+      "valorAtual": 656500,
+      "canonicalPath": "/fipe/agrale/marrua-am-250-3-8-cd-tdi-diesel-e6-0-060012-1/",
+      "ano": 0,
+      "marca": "Agrale"
+    },
+    {
+      "vehicleId": "agrale-marrua-am-250-3-8-cs-tdi-die-aut-e6-0-diesel",
+      "fipeCodigo": "060016-4",
+      "displayName": "Agrale MARRUÁ AM 250 3.8 CS TDI Die. Aut. (E6)",
+      "valorAtual": 676096,
+      "canonicalPath": "/fipe/agrale/marrua-am-250-3-8-cs-tdi-die-aut-e6-0-060016-4/",
+      "ano": 0,
+      "marca": "Agrale"
+    },
+    {
+      "vehicleId": "agrale-marrua-am-250-3-8-cs-tdi-diesel-e6-0-diesel",
+      "fipeCodigo": "060015-6",
+      "displayName": "Agrale MARRUÁ AM 250 3.8 CS TDI Diesel (E6)",
+      "valorAtual": 582476,
+      "canonicalPath": "/fipe/agrale/marrua-am-250-3-8-cs-tdi-diesel-e6-0-060015-6/",
+      "ano": 0,
+      "marca": "Agrale"
+    }
+  ],
+  "stats": {
+    "total": 6
+  },
+  "meta": {
+    "geracaoId": "marrua-1"
+  }
+}

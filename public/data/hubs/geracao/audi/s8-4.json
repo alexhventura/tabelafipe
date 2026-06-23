@@ -1,0 +1,48 @@
+{
+  "tipo": "geracao",
+  "slug": "s8-4",
+  "canonicalPath": "/geracao/audi/s8-4/",
+  "titulo": "Geracao s8-4",
+  "descricao": "3 veiculos da geracao s8-4.",
+  "seo": {
+    "title": "Geracao s8-4 - Precos FIPE",
+    "description": "Veiculos da geracao s8-4 na Tabela FIPE.",
+    "h1": "Geracao s8-4",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/audi/s8-4/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "audi-s8-4-0-tfsi-quattro-tiptronic-4p-2015-gasolina",
+      "fipeCodigo": "008198-1",
+      "displayName": "Audi S8 4.0 TFSI Quattro Tiptronic 4p",
+      "valorAtual": 466412,
+      "canonicalPath": "/fipe/audi/s8-4-0-tfsi-quattro-tiptronic-4p-2015-008198-1/",
+      "ano": 2015,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-s8-4-0-tfsi-quattro-tiptronic-4p-2016-gasolina",
+      "fipeCodigo": "008198-1",
+      "displayName": "Audi S8 4.0 TFSI Quattro Tiptronic 4p",
+      "valorAtual": 529624,
+      "canonicalPath": "/fipe/audi/s8-4-0-tfsi-quattro-tiptronic-4p-2016-008198-1/",
+      "ano": 2016,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-s8-4-0-tfsi-quattro-tiptronic-4p-2017-gasolina",
+      "fipeCodigo": "008198-1",
+      "displayName": "Audi S8 4.0 TFSI Quattro Tiptronic 4p",
+      "valorAtual": 634487,
+      "canonicalPath": "/fipe/audi/s8-4-0-tfsi-quattro-tiptronic-4p-2017-008198-1/",
+      "ano": 2017,
+      "marca": "Audi"
+    }
+  ],
+  "stats": {
+    "total": 3
+  },
+  "meta": {
+    "geracaoId": "s8-4"
+  }
+}

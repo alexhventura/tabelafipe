@@ -1,0 +1,93 @@
+{
+  "tipo": "geracao",
+  "slug": "thunderbird-2",
+  "canonicalPath": "/geracao/triumph/thunderbird-2/",
+  "titulo": "Geracao thunderbird-2",
+  "descricao": "8 veiculos da geracao thunderbird-2.",
+  "seo": {
+    "title": "Geracao thunderbird-2 - Precos FIPE",
+    "description": "Veiculos da geracao thunderbird-2 na Tabela FIPE.",
+    "h1": "Geracao thunderbird-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/triumph/thunderbird-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "triumph-thunderbird-1700-commander-2014-gasolina",
+      "fipeCodigo": "826044-3",
+      "displayName": "TRIUMPH THUNDERBIRD 1700 COMMANDER",
+      "valorAtual": 48726,
+      "canonicalPath": "/fipe/triumph/thunderbird-1700-commander-2014-826044-3/",
+      "ano": 2014,
+      "marca": "TRIUMPH"
+    },
+    {
+      "vehicleId": "triumph-thunderbird-1700-commander-2015-gasolina",
+      "fipeCodigo": "826044-3",
+      "displayName": "TRIUMPH THUNDERBIRD 1700 COMMANDER",
+      "valorAtual": 50386,
+      "canonicalPath": "/fipe/triumph/thunderbird-1700-commander-2015-826044-3/",
+      "ano": 2015,
+      "marca": "TRIUMPH"
+    },
+    {
+      "vehicleId": "triumph-thunderbird-1700-commander-2016-gasolina",
+      "fipeCodigo": "826044-3",
+      "displayName": "TRIUMPH THUNDERBIRD 1700 COMMANDER",
+      "valorAtual": 54197,
+      "canonicalPath": "/fipe/triumph/thunderbird-1700-commander-2016-826044-3/",
+      "ano": 2016,
+      "marca": "TRIUMPH"
+    },
+    {
+      "vehicleId": "triumph-thunderbird-1700-storm-2012-gasolina",
+      "fipeCodigo": "826036-2",
+      "displayName": "TRIUMPH THUNDERBIRD 1700 STORM",
+      "valorAtual": 37229,
+      "canonicalPath": "/fipe/triumph/thunderbird-1700-storm-2012-826036-2/",
+      "ano": 2012,
+      "marca": "TRIUMPH"
+    },
+    {
+      "vehicleId": "triumph-thunderbird-1700-storm-2013-gasolina",
+      "fipeCodigo": "826036-2",
+      "displayName": "TRIUMPH THUNDERBIRD 1700 STORM",
+      "valorAtual": 40934,
+      "canonicalPath": "/fipe/triumph/thunderbird-1700-storm-2013-826036-2/",
+      "ano": 2013,
+      "marca": "TRIUMPH"
+    },
+    {
+      "vehicleId": "triumph-thunderbird-1700-storm-2014-gasolina",
+      "fipeCodigo": "826036-2",
+      "displayName": "TRIUMPH THUNDERBIRD 1700 STORM",
+      "valorAtual": 47152,
+      "canonicalPath": "/fipe/triumph/thunderbird-1700-storm-2014-826036-2/",
+      "ano": 2014,
+      "marca": "TRIUMPH"
+    },
+    {
+      "vehicleId": "triumph-thunderbird-1700-storm-2015-gasolina",
+      "fipeCodigo": "826036-2",
+      "displayName": "TRIUMPH THUNDERBIRD 1700 STORM",
+      "valorAtual": 49421,
+      "canonicalPath": "/fipe/triumph/thunderbird-1700-storm-2015-826036-2/",
+      "ano": 2015,
+      "marca": "TRIUMPH"
+    },
+    {
+      "vehicleId": "triumph-thunderbird-1700-storm-2016-gasolina",
+      "fipeCodigo": "826036-2",
+      "displayName": "TRIUMPH THUNDERBIRD 1700 STORM",
+      "valorAtual": 53468,
+      "canonicalPath": "/fipe/triumph/thunderbird-1700-storm-2016-826036-2/",
+      "ano": 2016,
+      "marca": "TRIUMPH"
+    }
+  ],
+  "stats": {
+    "total": 8
+  },
+  "meta": {
+    "geracaoId": "thunderbird-2"
+  }
+}

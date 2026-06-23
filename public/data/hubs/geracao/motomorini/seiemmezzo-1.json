@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "seiemmezzo-1",
+  "canonicalPath": "/geracao/motomorini/seiemmezzo-1/",
+  "titulo": "Geracao seiemmezzo-1",
+  "descricao": "2 veiculos da geracao seiemmezzo-1.",
+  "seo": {
+    "title": "Geracao seiemmezzo-1 - Precos FIPE",
+    "description": "Veiculos da geracao seiemmezzo-1 na Tabela FIPE.",
+    "h1": "Geracao seiemmezzo-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/motomorini/seiemmezzo-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "motomorini-seiemmezzo-scramble-650-0-gasolina",
+      "fipeCodigo": "899004-2",
+      "displayName": "MOTOMORINI SEIEMMEZZO SCRAMBLE 650",
+      "valorAtual": 51984,
+      "canonicalPath": "/fipe/motomorini/seiemmezzo-scramble-650-0-899004-2/",
+      "ano": 0,
+      "marca": "MOTOMORINI"
+    },
+    {
+      "vehicleId": "motomorini-seiemmezzo-street-650-0-gasolina",
+      "fipeCodigo": "899005-0",
+      "displayName": "MOTOMORINI SEIEMMEZZO STREET 650",
+      "valorAtual": 48825,
+      "canonicalPath": "/fipe/motomorini/seiemmezzo-street-650-0-899005-0/",
+      "ano": 0,
+      "marca": "MOTOMORINI"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "seiemmezzo-1"
+  }
+}

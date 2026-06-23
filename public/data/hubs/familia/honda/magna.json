@@ -1,0 +1,72 @@
+{
+  "tipo": "familia",
+  "slug": "magna",
+  "canonicalPath": "/fipe/honda/magna/",
+  "titulo": "HONDA magna - Tabela FIPE",
+  "descricao": "5 versoes e anos do HONDA magna na Tabela FIPE.",
+  "seo": {
+    "title": "HONDA magna - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes HONDA magna. 5 veiculos indexados.",
+    "h1": "HONDA magna - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/honda/magna/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "honda-magna-750-1998-gasolina",
+      "fipeCodigo": "811028-0",
+      "displayName": "HONDA MAGNA 750",
+      "valorAtual": 31568,
+      "canonicalPath": "/fipe/honda/magna-750-1998-811028-0/",
+      "ano": 1998,
+      "marca": "HONDA"
+    },
+    {
+      "vehicleId": "honda-magna-750-1997-gasolina",
+      "fipeCodigo": "811028-0",
+      "displayName": "HONDA MAGNA 750",
+      "valorAtual": 30798,
+      "canonicalPath": "/fipe/honda/magna-750-1997-811028-0/",
+      "ano": 1997,
+      "marca": "HONDA"
+    },
+    {
+      "vehicleId": "honda-magna-750-1996-gasolina",
+      "fipeCodigo": "811028-0",
+      "displayName": "HONDA MAGNA 750",
+      "valorAtual": 30046,
+      "canonicalPath": "/fipe/honda/magna-750-1996-811028-0/",
+      "ano": 1996,
+      "marca": "HONDA"
+    },
+    {
+      "vehicleId": "honda-magna-750-1995-gasolina",
+      "fipeCodigo": "811028-0",
+      "displayName": "HONDA MAGNA 750",
+      "valorAtual": 29313,
+      "canonicalPath": "/fipe/honda/magna-750-1995-811028-0/",
+      "ano": 1995,
+      "marca": "HONDA"
+    },
+    {
+      "vehicleId": "honda-magna-750-1994-gasolina",
+      "fipeCodigo": "811028-0",
+      "displayName": "HONDA MAGNA 750",
+      "valorAtual": 27523,
+      "canonicalPath": "/fipe/honda/magna-750-1994-811028-0/",
+      "ano": 1994,
+      "marca": "HONDA"
+    }
+  ],
+  "stats": {
+    "total": 5,
+    "precoMin": 27523,
+    "precoMax": 31568,
+    "anos": [
+      1998,
+      1997,
+      1996,
+      1995,
+      1994
+    ]
+  }
+}

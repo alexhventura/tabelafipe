@@ -1,0 +1,75 @@
+{
+  "tipo": "geracao",
+  "slug": "ranger-3",
+  "canonicalPath": "/geracao/polaris/ranger-3/",
+  "titulo": "Geracao ranger-3",
+  "descricao": "6 veiculos da geracao ranger-3.",
+  "seo": {
+    "title": "Geracao ranger-3 - Precos FIPE",
+    "description": "Veiculos da geracao ranger-3 na Tabela FIPE.",
+    "h1": "Geracao ranger-3",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/polaris/ranger-3/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "polaris-ranger-1000-crew-premium-4x4-utv-2026-gasolina",
+      "fipeCodigo": "884038-5",
+      "displayName": "POLARIS Ranger 1000 CREW Premium 4x4 (UTV)",
+      "valorAtual": 139467,
+      "canonicalPath": "/fipe/polaris/ranger-1000-crew-premium-4x4-utv-2026-884038-5/",
+      "ano": 2026,
+      "marca": "POLARIS"
+    },
+    {
+      "vehicleId": "polaris-ranger-1000-eps-4x4-utv-2025-gasolina",
+      "fipeCodigo": "884032-6",
+      "displayName": "POLARIS Ranger 1000 EPS 4x4 (UTV)",
+      "valorAtual": 113286,
+      "canonicalPath": "/fipe/polaris/ranger-1000-eps-4x4-utv-2025-884032-6/",
+      "ano": 2025,
+      "marca": "POLARIS"
+    },
+    {
+      "vehicleId": "polaris-ranger-1000-premium-4x4-utv-2025-gasolina",
+      "fipeCodigo": "884031-8",
+      "displayName": "POLARIS Ranger 1000 Premium 4x4 (UTV)",
+      "valorAtual": 124118,
+      "canonicalPath": "/fipe/polaris/ranger-1000-premium-4x4-utv-2025-884031-8/",
+      "ano": 2025,
+      "marca": "POLARIS"
+    },
+    {
+      "vehicleId": "polaris-ranger-500-4x4-utv-2026-gasolina",
+      "fipeCodigo": "884037-7",
+      "displayName": "POLARIS Ranger 500 4x4 (UTV)",
+      "valorAtual": 80132,
+      "canonicalPath": "/fipe/polaris/ranger-500-4x4-utv-2026-884037-7/",
+      "ano": 2026,
+      "marca": "POLARIS"
+    },
+    {
+      "vehicleId": "polaris-ranger-570-4x4-utv-sp-2025-gasolina",
+      "fipeCodigo": "884005-9",
+      "displayName": "POLARIS Ranger 570 4x4 (UTV)/SP",
+      "valorAtual": 75763,
+      "canonicalPath": "/fipe/polaris/ranger-570-4x4-utv-sp-2025-884005-9/",
+      "ano": 2025,
+      "marca": "POLARIS"
+    },
+    {
+      "vehicleId": "polaris-ranger-570-4-crew-sp-premium-4x4-utv-2025-gasolina",
+      "fipeCodigo": "884026-1",
+      "displayName": "POLARIS Ranger 570-4 CREW SP Premium 4x4 (UTV)",
+      "valorAtual": 92752,
+      "canonicalPath": "/fipe/polaris/ranger-570-4-crew-sp-premium-4x4-utv-2025-884026-1/",
+      "ano": 2025,
+      "marca": "POLARIS"
+    }
+  ],
+  "stats": {
+    "total": 6
+  },
+  "meta": {
+    "geracaoId": "ranger-3"
+  }
+}

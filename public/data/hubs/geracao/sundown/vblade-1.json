@@ -1,0 +1,48 @@
+{
+  "tipo": "geracao",
+  "slug": "vblade-1",
+  "canonicalPath": "/geracao/sundown/vblade-1/",
+  "titulo": "Geracao vblade-1",
+  "descricao": "3 veiculos da geracao vblade-1.",
+  "seo": {
+    "title": "Geracao vblade-1 - Precos FIPE",
+    "description": "Veiculos da geracao vblade-1 na Tabela FIPE.",
+    "h1": "Geracao vblade-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/sundown/vblade-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "sundown-vblade-250cc-2006-gasolina",
+      "fipeCodigo": "824014-0",
+      "displayName": "SUNDOWN VBLADE 250cc",
+      "valorAtual": 10902,
+      "canonicalPath": "/fipe/sundown/vblade-250cc-2006-824014-0/",
+      "ano": 2006,
+      "marca": "SUNDOWN"
+    },
+    {
+      "vehicleId": "sundown-vblade-250cc-2007-gasolina",
+      "fipeCodigo": "824014-0",
+      "displayName": "SUNDOWN VBLADE 250cc",
+      "valorAtual": 11175,
+      "canonicalPath": "/fipe/sundown/vblade-250cc-2007-824014-0/",
+      "ano": 2007,
+      "marca": "SUNDOWN"
+    },
+    {
+      "vehicleId": "sundown-vblade-250cc-2008-gasolina",
+      "fipeCodigo": "824014-0",
+      "displayName": "SUNDOWN VBLADE 250cc",
+      "valorAtual": 11806,
+      "canonicalPath": "/fipe/sundown/vblade-250cc-2008-824014-0/",
+      "ano": 2008,
+      "marca": "SUNDOWN"
+    }
+  ],
+  "stats": {
+    "total": 3
+  },
+  "meta": {
+    "geracaoId": "vblade-1"
+  }
+}

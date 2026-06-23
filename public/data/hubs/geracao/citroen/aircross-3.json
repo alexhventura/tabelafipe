@@ -1,0 +1,84 @@
+{
+  "tipo": "geracao",
+  "slug": "aircross-3",
+  "canonicalPath": "/geracao/citroen/aircross-3/",
+  "titulo": "Geracao aircross-3",
+  "descricao": "7 veiculos da geracao aircross-3.",
+  "seo": {
+    "title": "Geracao aircross-3 - Precos FIPE",
+    "description": "Veiculos da geracao aircross-3 na Tabela FIPE.",
+    "h1": "Geracao aircross-3",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/citroen/aircross-3/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "citroen-aircross-f-pack-1-0-flex-tb-200-aut-2024-flex",
+      "fipeCodigo": "011231-3",
+      "displayName": "Citroën AIRCROSS F. Pack 1.0 Flex TB 200 Aut.",
+      "valorAtual": 90159,
+      "canonicalPath": "/fipe/citroen/aircross-f-pack-1-0-flex-tb-200-aut-2024-011231-3/",
+      "ano": 2024,
+      "marca": "Citroën"
+    },
+    {
+      "vehicleId": "citroen-aircross-f-pack-1-0-flex-tb-200-aut-2025-flex",
+      "fipeCodigo": "011231-3",
+      "displayName": "Citroën AIRCROSS F. Pack 1.0 Flex TB 200 Aut.",
+      "valorAtual": 99327,
+      "canonicalPath": "/fipe/citroen/aircross-f-pack-1-0-flex-tb-200-aut-2025-011231-3/",
+      "ano": 2025,
+      "marca": "Citroën"
+    },
+    {
+      "vehicleId": "citroen-aircross-feel-1-0-flex-turbo-200-aut-2024-flex",
+      "fipeCodigo": "011232-1",
+      "displayName": "Citroën AIRCROSS Feel 1.0 Flex Turbo 200 Aut.",
+      "valorAtual": 92116,
+      "canonicalPath": "/fipe/citroen/aircross-feel-1-0-flex-turbo-200-aut-2024-011232-1/",
+      "ano": 2024,
+      "marca": "Citroën"
+    },
+    {
+      "vehicleId": "citroen-aircross-feel-1-0-flex-turbo-200-aut-2025-flex",
+      "fipeCodigo": "011232-1",
+      "displayName": "Citroën AIRCROSS Feel 1.0 Flex Turbo 200 Aut.",
+      "valorAtual": 96822,
+      "canonicalPath": "/fipe/citroen/aircross-feel-1-0-flex-turbo-200-aut-2025-011232-1/",
+      "ano": 2025,
+      "marca": "Citroën"
+    },
+    {
+      "vehicleId": "citroen-aircross-feel-1-0-flex-turbo-200-aut-2026-flex",
+      "fipeCodigo": "011232-1",
+      "displayName": "Citroën AIRCROSS Feel 1.0 Flex Turbo 200 Aut.",
+      "valorAtual": 103357,
+      "canonicalPath": "/fipe/citroen/aircross-feel-1-0-flex-turbo-200-aut-2026-011232-1/",
+      "ano": 2026,
+      "marca": "Citroën"
+    },
+    {
+      "vehicleId": "citroen-aircross-shine-1-0-flex-tb-200-aut-2024-flex",
+      "fipeCodigo": "011230-5",
+      "displayName": "Citroën AIRCROSS Shine 1.0 Flex TB 200 Aut.",
+      "valorAtual": 98274,
+      "canonicalPath": "/fipe/citroen/aircross-shine-1-0-flex-tb-200-aut-2024-011230-5/",
+      "ano": 2024,
+      "marca": "Citroën"
+    },
+    {
+      "vehicleId": "citroen-aircross-shine-1-0-flex-tb-200-aut-2025-flex",
+      "fipeCodigo": "011230-5",
+      "displayName": "Citroën AIRCROSS Shine 1.0 Flex TB 200 Aut.",
+      "valorAtual": 103475,
+      "canonicalPath": "/fipe/citroen/aircross-shine-1-0-flex-tb-200-aut-2025-011230-5/",
+      "ano": 2025,
+      "marca": "Citroën"
+    }
+  ],
+  "stats": {
+    "total": 7
+  },
+  "meta": {
+    "geracaoId": "aircross-3"
+  }
+}

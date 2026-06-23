@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "worker-1",
+  "canonicalPath": "/geracao/shineray/worker-1/",
+  "titulo": "Geracao worker-1",
+  "descricao": "2 veiculos da geracao worker-1.",
+  "seo": {
+    "title": "Geracao worker-1 - Precos FIPE",
+    "description": "Veiculos da geracao worker-1 na Tabela FIPE.",
+    "h1": "Geracao worker-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/shineray/worker-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "shineray-worker-125-0-gasolina",
+      "fipeCodigo": "850027-4",
+      "displayName": "SHINERAY WORKER 125",
+      "valorAtual": 9039,
+      "canonicalPath": "/fipe/shineray/worker-125-0-850027-4/",
+      "ano": 0,
+      "marca": "SHINERAY"
+    },
+    {
+      "vehicleId": "shineray-worker-150-0-gasolina",
+      "fipeCodigo": "850035-5",
+      "displayName": "SHINERAY WORKER 150",
+      "valorAtual": 9042,
+      "canonicalPath": "/fipe/shineray/worker-150-0-850035-5/",
+      "ano": 0,
+      "marca": "SHINERAY"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "worker-1"
+  }
+}

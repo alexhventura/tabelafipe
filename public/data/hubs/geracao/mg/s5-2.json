@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "s5-2",
+  "canonicalPath": "/geracao/mg/s5-2/",
+  "titulo": "Geracao s5-2",
+  "descricao": "2 veiculos da geracao s5-2.",
+  "seo": {
+    "title": "Geracao s5-2 - Precos FIPE",
+    "description": "Veiculos da geracao s5-2 na Tabela FIPE.",
+    "h1": "Geracao s5-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/mg/s5-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "mg-s5-comfort-2026-eletrico",
+      "fipeCodigo": "076004-8",
+      "displayName": "MG S5 Comfort",
+      "valorAtual": 193645,
+      "canonicalPath": "/fipe/mg/s5-comfort-2026-076004-8/",
+      "ano": 2026,
+      "marca": "MG"
+    },
+    {
+      "vehicleId": "mg-s5-luxury-2026-eletrico",
+      "fipeCodigo": "076005-6",
+      "displayName": "MG S5 Luxury",
+      "valorAtual": 212502,
+      "canonicalPath": "/fipe/mg/s5-luxury-2026-076005-6/",
+      "ano": 2026,
+      "marca": "MG"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "s5-2"
+  }
+}

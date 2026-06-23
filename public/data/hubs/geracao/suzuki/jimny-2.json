@@ -1,0 +1,75 @@
+{
+  "tipo": "geracao",
+  "slug": "jimny-2",
+  "canonicalPath": "/geracao/suzuki/jimny-2/",
+  "titulo": "Geracao jimny-2",
+  "descricao": "6 veiculos da geracao jimny-2.",
+  "seo": {
+    "title": "Geracao jimny-2 - Precos FIPE",
+    "description": "Veiculos da geracao jimny-2 na Tabela FIPE.",
+    "h1": "Geracao jimny-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/suzuki/jimny-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "suzuki-jimny-wide-jimny-4all-1-3-16v-1998-gasolina",
+      "fipeCodigo": "028015-1",
+      "displayName": "Suzuki Jimny Wide/ Jimny/4ALL 1.3 16V",
+      "valorAtual": 36310,
+      "canonicalPath": "/fipe/suzuki/jimny-wide-jimny-4all-1-3-16v-1998-028015-1/",
+      "ano": 1998,
+      "marca": "Suzuki"
+    },
+    {
+      "vehicleId": "suzuki-jimny-wide-jimny-4all-1-3-16v-1999-gasolina",
+      "fipeCodigo": "028015-1",
+      "displayName": "Suzuki Jimny Wide/ Jimny/4ALL 1.3 16V",
+      "valorAtual": 40178,
+      "canonicalPath": "/fipe/suzuki/jimny-wide-jimny-4all-1-3-16v-1999-028015-1/",
+      "ano": 1999,
+      "marca": "Suzuki"
+    },
+    {
+      "vehicleId": "suzuki-jimny-wide-jimny-4all-1-3-16v-2000-gasolina",
+      "fipeCodigo": "028015-1",
+      "displayName": "Suzuki Jimny Wide/ Jimny/4ALL 1.3 16V",
+      "valorAtual": 42583,
+      "canonicalPath": "/fipe/suzuki/jimny-wide-jimny-4all-1-3-16v-2000-028015-1/",
+      "ano": 2000,
+      "marca": "Suzuki"
+    },
+    {
+      "vehicleId": "suzuki-jimny-wide-jimny-4all-1-3-16v-2001-gasolina",
+      "fipeCodigo": "028015-1",
+      "displayName": "Suzuki Jimny Wide/ Jimny/4ALL 1.3 16V",
+      "valorAtual": 43648,
+      "canonicalPath": "/fipe/suzuki/jimny-wide-jimny-4all-1-3-16v-2001-028015-1/",
+      "ano": 2001,
+      "marca": "Suzuki"
+    },
+    {
+      "vehicleId": "suzuki-jimny-wide-jimny-4all-1-3-16v-2002-gasolina",
+      "fipeCodigo": "028015-1",
+      "displayName": "Suzuki Jimny Wide/ Jimny/4ALL 1.3 16V",
+      "valorAtual": 46858,
+      "canonicalPath": "/fipe/suzuki/jimny-wide-jimny-4all-1-3-16v-2002-028015-1/",
+      "ano": 2002,
+      "marca": "Suzuki"
+    },
+    {
+      "vehicleId": "suzuki-jimny-wide-jimny-4all-1-3-16v-2003-gasolina",
+      "fipeCodigo": "028015-1",
+      "displayName": "Suzuki Jimny Wide/ Jimny/4ALL 1.3 16V",
+      "valorAtual": 51423,
+      "canonicalPath": "/fipe/suzuki/jimny-wide-jimny-4all-1-3-16v-2003-028015-1/",
+      "ano": 2003,
+      "marca": "Suzuki"
+    }
+  ],
+  "stats": {
+    "total": 6
+  },
+  "meta": {
+    "geracaoId": "jimny-2"
+  }
+}

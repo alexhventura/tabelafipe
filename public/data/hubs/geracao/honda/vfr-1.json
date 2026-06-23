@@ -1,0 +1,75 @@
+{
+  "tipo": "geracao",
+  "slug": "vfr-1",
+  "canonicalPath": "/geracao/honda/vfr-1/",
+  "titulo": "Geracao vfr-1",
+  "descricao": "6 veiculos da geracao vfr-1.",
+  "seo": {
+    "title": "Geracao vfr-1 - Precos FIPE",
+    "description": "Veiculos da geracao vfr-1 na Tabela FIPE.",
+    "h1": "Geracao vfr-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/honda/vfr-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "honda-vfr-1200f-2010-gasolina",
+      "fipeCodigo": "811108-1",
+      "displayName": "HONDA VFR 1200F",
+      "valorAtual": 42668,
+      "canonicalPath": "/fipe/honda/vfr-1200f-2010-811108-1/",
+      "ano": 2010,
+      "marca": "HONDA"
+    },
+    {
+      "vehicleId": "honda-vfr-1200f-2011-gasolina",
+      "fipeCodigo": "811108-1",
+      "displayName": "HONDA VFR 1200F",
+      "valorAtual": 43735,
+      "canonicalPath": "/fipe/honda/vfr-1200f-2011-811108-1/",
+      "ano": 2011,
+      "marca": "HONDA"
+    },
+    {
+      "vehicleId": "honda-vfr-1200f-2012-gasolina",
+      "fipeCodigo": "811108-1",
+      "displayName": "HONDA VFR 1200F",
+      "valorAtual": 44829,
+      "canonicalPath": "/fipe/honda/vfr-1200f-2012-811108-1/",
+      "ano": 2012,
+      "marca": "HONDA"
+    },
+    {
+      "vehicleId": "honda-vfr-1200f-2013-gasolina",
+      "fipeCodigo": "811108-1",
+      "displayName": "HONDA VFR 1200F",
+      "valorAtual": 51824,
+      "canonicalPath": "/fipe/honda/vfr-1200f-2013-811108-1/",
+      "ano": 2013,
+      "marca": "HONDA"
+    },
+    {
+      "vehicleId": "honda-vfr-1200x-crosstourer-2012-gasolina",
+      "fipeCodigo": "811114-6",
+      "displayName": "HONDA VFR 1200X CROSSTOURER",
+      "valorAtual": 44775,
+      "canonicalPath": "/fipe/honda/vfr-1200x-crosstourer-2012-811114-6/",
+      "ano": 2012,
+      "marca": "HONDA"
+    },
+    {
+      "vehicleId": "honda-vfr-1200x-crosstourer-2013-gasolina",
+      "fipeCodigo": "811114-6",
+      "displayName": "HONDA VFR 1200X CROSSTOURER",
+      "valorAtual": 55613,
+      "canonicalPath": "/fipe/honda/vfr-1200x-crosstourer-2013-811114-6/",
+      "ano": 2013,
+      "marca": "HONDA"
+    }
+  ],
+  "stats": {
+    "total": 6
+  },
+  "meta": {
+    "geracaoId": "vfr-1"
+  }
+}

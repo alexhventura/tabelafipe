@@ -1,0 +1,42 @@
+{
+  "tipo": "familia",
+  "slug": "mc20",
+  "canonicalPath": "/fipe/maserati/mc20/",
+  "titulo": "Maserati mc20 - Tabela FIPE",
+  "descricao": "2 versoes e anos do Maserati mc20 na Tabela FIPE.",
+  "seo": {
+    "title": "Maserati mc20 - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes Maserati mc20. 2 veiculos indexados.",
+    "h1": "Maserati mc20 - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/maserati/mc20/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "maserati-mc20-3-0-v6-bi-tb-aut-2023-gasolina",
+      "fipeCodigo": "034034-0",
+      "displayName": "Maserati MC20 3.0 V6 Bi-Tb Aut.",
+      "valorAtual": 2861500,
+      "canonicalPath": "/fipe/maserati/mc20-3-0-v6-bi-tb-aut-2023-034034-0/",
+      "ano": 2023,
+      "marca": "Maserati"
+    },
+    {
+      "vehicleId": "maserati-mc20-3-0-v6-bi-tb-aut-0-gasolina",
+      "fipeCodigo": "034034-0",
+      "displayName": "Maserati MC20 3.0 V6 Bi-Tb Aut.",
+      "valorAtual": 3900000,
+      "canonicalPath": "/fipe/maserati/mc20-3-0-v6-bi-tb-aut-0-034034-0/",
+      "ano": 0,
+      "marca": "Maserati"
+    }
+  ],
+  "stats": {
+    "total": 2,
+    "precoMin": 2861500,
+    "precoMax": 3900000,
+    "anos": [
+      2023,
+      0
+    ]
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "tipo": "geracao",
+  "slug": "ec40-2",
+  "canonicalPath": "/geracao/volvo/ec40-2/",
+  "titulo": "Geracao ec40-2",
+  "descricao": "5 veiculos da geracao ec40-2.",
+  "seo": {
+    "title": "Geracao ec40-2 - Precos FIPE",
+    "description": "Veiculos da geracao ec40-2 na Tabela FIPE.",
+    "h1": "Geracao ec40-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/volvo/ec40-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "volvo-ec40-black-edition-ultra-awd-p8-2026-eletrico",
+      "fipeCodigo": "029178-1",
+      "displayName": "Volvo EC40 Black Edition Ultra AWD P8",
+      "valorAtual": 360858,
+      "canonicalPath": "/fipe/volvo/ec40-black-edition-ultra-awd-p8-2026-029178-1/",
+      "ano": 2026,
+      "marca": "Volvo"
+    },
+    {
+      "vehicleId": "volvo-ec40-plus-p6-eletrico-2025-eletrico",
+      "fipeCodigo": "029174-9",
+      "displayName": "Volvo EC40 Plus P6 (Elétrico)",
+      "valorAtual": 266223,
+      "canonicalPath": "/fipe/volvo/ec40-plus-p6-eletrico-2025-029174-9/",
+      "ano": 2025,
+      "marca": "Volvo"
+    },
+    {
+      "vehicleId": "volvo-ec40-plus-p6-eletrico-2026-eletrico",
+      "fipeCodigo": "029174-9",
+      "displayName": "Volvo EC40 Plus P6 (Elétrico)",
+      "valorAtual": 274981,
+      "canonicalPath": "/fipe/volvo/ec40-plus-p6-eletrico-2026-029174-9/",
+      "ano": 2026,
+      "marca": "Volvo"
+    },
+    {
+      "vehicleId": "volvo-ec40-ultra-awd-p8-eletrico-2025-eletrico",
+      "fipeCodigo": "029170-6",
+      "displayName": "Volvo EC40 Ultra AWD P8 (Elétrico)",
+      "valorAtual": 303664,
+      "canonicalPath": "/fipe/volvo/ec40-ultra-awd-p8-eletrico-2025-029170-6/",
+      "ano": 2025,
+      "marca": "Volvo"
+    },
+    {
+      "vehicleId": "volvo-ec40-ultra-awd-p8-eletrico-2026-eletrico",
+      "fipeCodigo": "029170-6",
+      "displayName": "Volvo EC40 Ultra AWD P8 (Elétrico)",
+      "valorAtual": 335054,
+      "canonicalPath": "/fipe/volvo/ec40-ultra-awd-p8-eletrico-2026-029170-6/",
+      "ano": 2026,
+      "marca": "Volvo"
+    }
+  ],
+  "stats": {
+    "total": 5
+  },
+  "meta": {
+    "geracaoId": "ec40-2"
+  }
+}

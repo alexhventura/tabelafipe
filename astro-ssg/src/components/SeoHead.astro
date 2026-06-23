@@ -1,0 +1,30 @@
+---
+interface Props {
+  title: string;
+  description: string;
+  canonical: string;
+  og?: Record<string, string>;
+  twitter?: Record<string, string>;
+  jsonLd?: Record<string, unknown>[];
+}
+
+const { title, description, canonical, og = {}, twitter = {}, jsonLd = [] } = Astro.props;
+---
+
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>{title}</title>
+<meta name="description" content={description} />
+<link rel="canonical" href={canonical} />
+
+{Object.entries(og).map(([key, value]) => (
+  <meta property={key} content={value} />
+))}
+
+{Object.entries(twitter).map(([key, value]) => (
+  <meta name={key} content={value} />
+))}
+
+{jsonLd.map((block, i) => (
+  <script type="application/ld+json" set:html={JSON.stringify(block)} />
+))}

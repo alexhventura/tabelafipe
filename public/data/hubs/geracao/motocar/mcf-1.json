@@ -1,0 +1,75 @@
+{
+  "tipo": "geracao",
+  "slug": "mcf-1",
+  "canonicalPath": "/geracao/motocar/mcf-1/",
+  "titulo": "Geracao mcf-1",
+  "descricao": "6 veiculos da geracao mcf-1.",
+  "seo": {
+    "title": "Geracao mcf-1 - Precos FIPE",
+    "description": "Veiculos da geracao mcf-1 na Tabela FIPE.",
+    "h1": "Geracao mcf-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/motocar/mcf-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "motocar-mcf-200-2013-gasolina",
+      "fipeCodigo": "882002-3",
+      "displayName": "MOTOCAR MCF-200",
+      "valorAtual": 12104,
+      "canonicalPath": "/fipe/motocar/mcf-200-2013-882002-3/",
+      "ano": 2013,
+      "marca": "MOTOCAR"
+    },
+    {
+      "vehicleId": "motocar-mcf-200-2014-gasolina",
+      "fipeCodigo": "882002-3",
+      "displayName": "MOTOCAR MCF-200",
+      "valorAtual": 13327,
+      "canonicalPath": "/fipe/motocar/mcf-200-2014-882002-3/",
+      "ano": 2014,
+      "marca": "MOTOCAR"
+    },
+    {
+      "vehicleId": "motocar-mcf-200-2015-gasolina",
+      "fipeCodigo": "882002-3",
+      "displayName": "MOTOCAR MCF-200",
+      "valorAtual": 15974,
+      "canonicalPath": "/fipe/motocar/mcf-200-2015-882002-3/",
+      "ano": 2015,
+      "marca": "MOTOCAR"
+    },
+    {
+      "vehicleId": "motocar-mcf-200-2016-gasolina",
+      "fipeCodigo": "882002-3",
+      "displayName": "MOTOCAR MCF-200",
+      "valorAtual": 17275,
+      "canonicalPath": "/fipe/motocar/mcf-200-2016-882002-3/",
+      "ano": 2016,
+      "marca": "MOTOCAR"
+    },
+    {
+      "vehicleId": "motocar-mcf-250-2017-gasolina",
+      "fipeCodigo": "882004-0",
+      "displayName": "MOTOCAR MCF-250",
+      "valorAtual": 16210,
+      "canonicalPath": "/fipe/motocar/mcf-250-2017-882004-0/",
+      "ano": 2017,
+      "marca": "MOTOCAR"
+    },
+    {
+      "vehicleId": "motocar-mcf-250-2018-gasolina",
+      "fipeCodigo": "882004-0",
+      "displayName": "MOTOCAR MCF-250",
+      "valorAtual": 18308,
+      "canonicalPath": "/fipe/motocar/mcf-250-2018-882004-0/",
+      "ano": 2018,
+      "marca": "MOTOCAR"
+    }
+  ],
+  "stats": {
+    "total": 6
+  },
+  "meta": {
+    "geracaoId": "mcf-1"
+  }
+}

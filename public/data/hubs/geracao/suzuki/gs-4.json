@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "gs-4",
+  "canonicalPath": "/geracao/suzuki/gs-4/",
+  "titulo": "Geracao gs-4",
+  "descricao": "2 veiculos da geracao gs-4.",
+  "seo": {
+    "title": "Geracao gs-4 - Precos FIPE",
+    "description": "Veiculos da geracao gs-4 na Tabela FIPE.",
+    "h1": "Geracao gs-4",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/suzuki/gs-4/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "suzuki-gs-120-2016-gasolina",
+      "fipeCodigo": "825064-2",
+      "displayName": "SUZUKI GS 120",
+      "valorAtual": 6038,
+      "canonicalPath": "/fipe/suzuki/gs-120-2016-825064-2/",
+      "ano": 2016,
+      "marca": "SUZUKI"
+    },
+    {
+      "vehicleId": "suzuki-gs-120-2017-gasolina",
+      "fipeCodigo": "825064-2",
+      "displayName": "SUZUKI GS 120",
+      "valorAtual": 6423,
+      "canonicalPath": "/fipe/suzuki/gs-120-2017-825064-2/",
+      "ano": 2017,
+      "marca": "SUZUKI"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "gs-4"
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "tipo": "geracao",
+  "slug": "sprint-2",
+  "canonicalPath": "/geracao/triumph/sprint-2/",
+  "titulo": "Geracao sprint-2",
+  "descricao": "6 veiculos da geracao sprint-2.",
+  "seo": {
+    "title": "Geracao sprint-2 - Precos FIPE",
+    "description": "Veiculos da geracao sprint-2 na Tabela FIPE.",
+    "h1": "Geracao sprint-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/triumph/sprint-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "triumph-sprint-st-1050i-2006-gasolina",
+      "fipeCodigo": "826027-3",
+      "displayName": "TRIUMPH SPRINT ST 1050i",
+      "valorAtual": 23988,
+      "canonicalPath": "/fipe/triumph/sprint-st-1050i-2006-826027-3/",
+      "ano": 2006,
+      "marca": "TRIUMPH"
+    },
+    {
+      "vehicleId": "triumph-sprint-st-1050i-2007-gasolina",
+      "fipeCodigo": "826027-3",
+      "displayName": "TRIUMPH SPRINT ST 1050i",
+      "valorAtual": 28087,
+      "canonicalPath": "/fipe/triumph/sprint-st-1050i-2007-826027-3/",
+      "ano": 2007,
+      "marca": "TRIUMPH"
+    },
+    {
+      "vehicleId": "vespa-sprint-150-2023-gasolina",
+      "fipeCodigo": "898005-5",
+      "displayName": "VESPA Sprint 150",
+      "valorAtual": 47745,
+      "canonicalPath": "/fipe/vespa/sprint-150-2023-898005-5/",
+      "ano": 2023,
+      "marca": "VESPA"
+    },
+    {
+      "vehicleId": "vespa-sprint-150-2024-gasolina",
+      "fipeCodigo": "898005-5",
+      "displayName": "VESPA Sprint 150",
+      "valorAtual": 49031,
+      "canonicalPath": "/fipe/vespa/sprint-150-2024-898005-5/",
+      "ano": 2024,
+      "marca": "VESPA"
+    },
+    {
+      "vehicleId": "vespa-sprint-s-150-2024-gasolina",
+      "fipeCodigo": "898006-3",
+      "displayName": "VESPA Sprint S 150",
+      "valorAtual": 53201,
+      "canonicalPath": "/fipe/vespa/sprint-s-150-2024-898006-3/",
+      "ano": 2024,
+      "marca": "VESPA"
+    },
+    {
+      "vehicleId": "vespa-sprint-s-150-2025-gasolina",
+      "fipeCodigo": "898006-3",
+      "displayName": "VESPA Sprint S 150",
+      "valorAtual": 54846,
+      "canonicalPath": "/fipe/vespa/sprint-s-150-2025-898006-3/",
+      "ano": 2025,
+      "marca": "VESPA"
+    }
+  ],
+  "stats": {
+    "total": 6
+  },
+  "meta": {
+    "geracaoId": "sprint-2"
+  }
+}

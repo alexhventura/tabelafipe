@@ -1,0 +1,62 @@
+{
+  "tipo": "familia",
+  "slug": "bacio",
+  "canonicalPath": "/fipe/motorino/bacio/",
+  "titulo": "MOTORINO bacio - Tabela FIPE",
+  "descricao": "4 versoes e anos do MOTORINO bacio na Tabela FIPE.",
+  "seo": {
+    "title": "MOTORINO bacio - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes MOTORINO bacio. 4 veiculos indexados.",
+    "h1": "MOTORINO bacio - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/motorino/bacio/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "motorino-bacio-125cc-2014-gasolina",
+      "fipeCodigo": "881008-7",
+      "displayName": "MOTORINO Bacio 125cc",
+      "valorAtual": 6338,
+      "canonicalPath": "/fipe/motorino/bacio-125cc-2014-881008-7/",
+      "ano": 2014,
+      "marca": "MOTORINO"
+    },
+    {
+      "vehicleId": "motorino-bacio-125cc-2011-gasolina",
+      "fipeCodigo": "881008-7",
+      "displayName": "MOTORINO Bacio 125cc",
+      "valorAtual": 5850,
+      "canonicalPath": "/fipe/motorino/bacio-125cc-2011-881008-7/",
+      "ano": 2011,
+      "marca": "MOTORINO"
+    },
+    {
+      "vehicleId": "motorino-bacio-125cc-2010-gasolina",
+      "fipeCodigo": "881008-7",
+      "displayName": "MOTORINO Bacio 125cc",
+      "valorAtual": 4826,
+      "canonicalPath": "/fipe/motorino/bacio-125cc-2010-881008-7/",
+      "ano": 2010,
+      "marca": "MOTORINO"
+    },
+    {
+      "vehicleId": "motorino-bacio-125cc-2009-gasolina",
+      "fipeCodigo": "881008-7",
+      "displayName": "MOTORINO Bacio 125cc",
+      "valorAtual": 4239,
+      "canonicalPath": "/fipe/motorino/bacio-125cc-2009-881008-7/",
+      "ano": 2009,
+      "marca": "MOTORINO"
+    }
+  ],
+  "stats": {
+    "total": 4,
+    "precoMin": 4239,
+    "precoMax": 6338,
+    "anos": [
+      2014,
+      2011,
+      2010,
+      2009
+    ]
+  }
+}

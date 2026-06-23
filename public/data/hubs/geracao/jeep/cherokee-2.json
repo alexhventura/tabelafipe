@@ -1,0 +1,66 @@
+{
+  "tipo": "geracao",
+  "slug": "cherokee-2",
+  "canonicalPath": "/geracao/jeep/cherokee-2/",
+  "titulo": "Geracao cherokee-2",
+  "descricao": "5 veiculos da geracao cherokee-2.",
+  "seo": {
+    "title": "Geracao cherokee-2 - Precos FIPE",
+    "description": "Veiculos da geracao cherokee-2 na Tabela FIPE.",
+    "h1": "Geracao cherokee-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/jeep/cherokee-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "jeep-cherokee-limited-3-2-4x4-v6-aut-2014-gasolina",
+      "fipeCodigo": "017031-3",
+      "displayName": "Jeep Cherokee Limited 3.2 4x4 V6 Aut.",
+      "valorAtual": 82537,
+      "canonicalPath": "/fipe/jeep/cherokee-limited-3-2-4x4-v6-aut-2014-017031-3/",
+      "ano": 2014,
+      "marca": "Jeep"
+    },
+    {
+      "vehicleId": "jeep-cherokee-limited-3-2-4x4-v6-aut-2015-gasolina",
+      "fipeCodigo": "017031-3",
+      "displayName": "Jeep Cherokee Limited 3.2 4x4 V6 Aut.",
+      "valorAtual": 90546,
+      "canonicalPath": "/fipe/jeep/cherokee-limited-3-2-4x4-v6-aut-2015-017031-3/",
+      "ano": 2015,
+      "marca": "Jeep"
+    },
+    {
+      "vehicleId": "jeep-cherokee-longitude-3-2-4x4-v6-aut-2015-gasolina",
+      "fipeCodigo": "017032-1",
+      "displayName": "Jeep Cherokee Longitude 3.2 4x4 V6 Aut.",
+      "valorAtual": 82056,
+      "canonicalPath": "/fipe/jeep/cherokee-longitude-3-2-4x4-v6-aut-2015-017032-1/",
+      "ano": 2015,
+      "marca": "Jeep"
+    },
+    {
+      "vehicleId": "jeep-cherokee-trailhawk-3-2-4x4-v6-aut-2014-gasolina",
+      "fipeCodigo": "017039-9",
+      "displayName": "Jeep Cherokee Trailhawk 3.2 4x4 V6 Aut.",
+      "valorAtual": 94779,
+      "canonicalPath": "/fipe/jeep/cherokee-trailhawk-3-2-4x4-v6-aut-2014-017039-9/",
+      "ano": 2014,
+      "marca": "Jeep"
+    },
+    {
+      "vehicleId": "jeep-cherokee-trailhawk-3-2-4x4-v6-aut-2015-gasolina",
+      "fipeCodigo": "017039-9",
+      "displayName": "Jeep Cherokee Trailhawk 3.2 4x4 V6 Aut.",
+      "valorAtual": 99978,
+      "canonicalPath": "/fipe/jeep/cherokee-trailhawk-3-2-4x4-v6-aut-2015-017039-9/",
+      "ano": 2015,
+      "marca": "Jeep"
+    }
+  ],
+  "stats": {
+    "total": 5
+  },
+  "meta": {
+    "geracaoId": "cherokee-2"
+  }
+}

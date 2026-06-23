@@ -1,0 +1,57 @@
+{
+  "tipo": "geracao",
+  "slug": "fz15-2",
+  "canonicalPath": "/geracao/yamaha/fz15-2/",
+  "titulo": "Geracao fz15-2",
+  "descricao": "4 veiculos da geracao fz15-2.",
+  "seo": {
+    "title": "Geracao fz15-2 - Precos FIPE",
+    "description": "Veiculos da geracao fz15-2 na Tabela FIPE.",
+    "h1": "Geracao fz15-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/yamaha/fz15-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "yamaha-fz15-150-fazer-connected-flex-2025-flex",
+      "fipeCodigo": "827133-0",
+      "displayName": "YAMAHA FZ15 150 FAZER CONNECTED FLEX",
+      "valorAtual": 19324,
+      "canonicalPath": "/fipe/yamaha/fz15-150-fazer-connected-flex-2025-827133-0/",
+      "ano": 2025,
+      "marca": "YAMAHA"
+    },
+    {
+      "vehicleId": "yamaha-fz15-150-fazer-connected-flex-2026-flex",
+      "fipeCodigo": "827133-0",
+      "displayName": "YAMAHA FZ15 150 FAZER CONNECTED FLEX",
+      "valorAtual": 20368,
+      "canonicalPath": "/fipe/yamaha/fz15-150-fazer-connected-flex-2026-827133-0/",
+      "ano": 2026,
+      "marca": "YAMAHA"
+    },
+    {
+      "vehicleId": "yamaha-fz15-150-fazer-flex-2023-flex",
+      "fipeCodigo": "827124-0",
+      "displayName": "YAMAHA FZ15 150 FAZER FLEX",
+      "valorAtual": 17265,
+      "canonicalPath": "/fipe/yamaha/fz15-150-fazer-flex-2023-827124-0/",
+      "ano": 2023,
+      "marca": "YAMAHA"
+    },
+    {
+      "vehicleId": "yamaha-fz15-150-fazer-flex-2024-flex",
+      "fipeCodigo": "827124-0",
+      "displayName": "YAMAHA FZ15 150 FAZER FLEX",
+      "valorAtual": 17796,
+      "canonicalPath": "/fipe/yamaha/fz15-150-fazer-flex-2024-827124-0/",
+      "ano": 2024,
+      "marca": "YAMAHA"
+    }
+  ],
+  "stats": {
+    "total": 4
+  },
+  "meta": {
+    "geracaoId": "fz15-2"
+  }
+}

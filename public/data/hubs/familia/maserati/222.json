@@ -1,0 +1,52 @@
+{
+  "tipo": "familia",
+  "slug": "222",
+  "canonicalPath": "/fipe/maserati/222/",
+  "titulo": "Maserati 222 - Tabela FIPE",
+  "descricao": "3 versoes e anos do Maserati 222 na Tabela FIPE.",
+  "seo": {
+    "title": "Maserati 222 - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes Maserati 222. 3 veiculos indexados.",
+    "h1": "Maserati 222 - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/maserati/222/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "maserati-222-se-sr-2-0-v6-1994-gasolina",
+      "fipeCodigo": "034003-0",
+      "displayName": "Maserati 222 SE/SR 2.0 V6",
+      "valorAtual": 26504,
+      "canonicalPath": "/fipe/maserati/222-se-sr-2-0-v6-1994-034003-0/",
+      "ano": 1994,
+      "marca": "Maserati"
+    },
+    {
+      "vehicleId": "maserati-222-se-sr-2-0-v6-1993-gasolina",
+      "fipeCodigo": "034003-0",
+      "displayName": "Maserati 222 SE/SR 2.0 V6",
+      "valorAtual": 21858,
+      "canonicalPath": "/fipe/maserati/222-se-sr-2-0-v6-1993-034003-0/",
+      "ano": 1993,
+      "marca": "Maserati"
+    },
+    {
+      "vehicleId": "maserati-222-se-sr-2-0-v6-1992-gasolina",
+      "fipeCodigo": "034003-0",
+      "displayName": "Maserati 222 SE/SR 2.0 V6",
+      "valorAtual": 19409,
+      "canonicalPath": "/fipe/maserati/222-se-sr-2-0-v6-1992-034003-0/",
+      "ano": 1992,
+      "marca": "Maserati"
+    }
+  ],
+  "stats": {
+    "total": 3,
+    "precoMin": 19409,
+    "precoMax": 26504,
+    "anos": [
+      1994,
+      1993,
+      1992
+    ]
+  }
+}

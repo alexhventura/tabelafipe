@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "svartpilen-2",
+  "canonicalPath": "/geracao/husqvarna/svartpilen-2/",
+  "titulo": "Geracao svartpilen-2",
+  "descricao": "2 veiculos da geracao svartpilen-2.",
+  "seo": {
+    "title": "Geracao svartpilen-2 - Precos FIPE",
+    "description": "Veiculos da geracao svartpilen-2 na Tabela FIPE.",
+    "h1": "Geracao svartpilen-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/husqvarna/svartpilen-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "husqvarna-svartpilen-401-2018-gasolina",
+      "fipeCodigo": "812023-4",
+      "displayName": "HUSQVARNA SVARTPILEN 401",
+      "valorAtual": 38661,
+      "canonicalPath": "/fipe/husqvarna/svartpilen-401-2018-812023-4/",
+      "ano": 2018,
+      "marca": "HUSQVARNA"
+    },
+    {
+      "vehicleId": "husqvarna-svartpilen-401-2019-gasolina",
+      "fipeCodigo": "812023-4",
+      "displayName": "HUSQVARNA SVARTPILEN 401",
+      "valorAtual": 40916,
+      "canonicalPath": "/fipe/husqvarna/svartpilen-401-2019-812023-4/",
+      "ano": 2019,
+      "marca": "HUSQVARNA"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "svartpilen-2"
+  }
+}

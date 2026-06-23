@@ -1,0 +1,57 @@
+{
+  "tipo": "geracao",
+  "slug": "tera-2",
+  "canonicalPath": "/geracao/volkswagen/tera-2/",
+  "titulo": "Geracao tera-2",
+  "descricao": "4 veiculos da geracao tera-2.",
+  "seo": {
+    "title": "Geracao tera-2 - Precos FIPE",
+    "description": "Veiculos da geracao tera-2 na Tabela FIPE.",
+    "h1": "Geracao tera-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/volkswagen/tera-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "volkswagen-tera-1-0-170-tsi-flex-12v-5p-mec-2026-flex",
+      "fipeCodigo": "005554-9",
+      "displayName": "VW - VolksWagen Tera 1.0 170 TSI Flex 12V 5p Mec.",
+      "valorAtual": 108274,
+      "canonicalPath": "/fipe/volkswagen/tera-1-0-170-tsi-flex-12v-5p-mec-2026-005554-9/",
+      "ano": 2026,
+      "marca": "VW - VolksWagen"
+    },
+    {
+      "vehicleId": "volkswagen-tera-1-0-mpi-flex-12v-5p-mec-2026-flex",
+      "fipeCodigo": "005557-3",
+      "displayName": "VW - VolksWagen Tera 1.0 MPI Flex 12V 5p Mec.",
+      "valorAtual": 96634,
+      "canonicalPath": "/fipe/volkswagen/tera-1-0-mpi-flex-12v-5p-mec-2026-005557-3/",
+      "ano": 2026,
+      "marca": "VW - VolksWagen"
+    },
+    {
+      "vehicleId": "volkswagen-tera-comfort-1-0-170-tsi-flex-12v-5p-aut-2026-flex",
+      "fipeCodigo": "005555-7",
+      "displayName": "VW - VolksWagen Tera Comfort 1.0 170 TSI Flex 12V 5p Aut",
+      "valorAtual": 120030,
+      "canonicalPath": "/fipe/volkswagen/tera-comfort-1-0-170-tsi-flex-12v-5p-aut-2026-005555-7/",
+      "ano": 2026,
+      "marca": "VW - VolksWagen"
+    },
+    {
+      "vehicleId": "volkswagen-tera-high-1-0-170-tsi-flex-12v-5p-aut-2026-flex",
+      "fipeCodigo": "005556-5",
+      "displayName": "VW - VolksWagen Tera High 1.0 170 TSI Flex 12V 5p Aut",
+      "valorAtual": 133169,
+      "canonicalPath": "/fipe/volkswagen/tera-high-1-0-170-tsi-flex-12v-5p-aut-2026-005556-5/",
+      "ano": 2026,
+      "marca": "VW - VolksWagen"
+    }
+  ],
+  "stats": {
+    "total": 4
+  },
+  "meta": {
+    "geracaoId": "tera-2"
+  }
+}

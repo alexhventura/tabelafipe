@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "elyseo-1",
+  "canonicalPath": "/geracao/peugeot/elyseo-1/",
+  "titulo": "Geracao elyseo-1",
+  "descricao": "2 veiculos da geracao elyseo-1.",
+  "seo": {
+    "title": "Geracao elyseo-1 - Precos FIPE",
+    "description": "Veiculos da geracao elyseo-1 na Tabela FIPE.",
+    "h1": "Geracao elyseo-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/peugeot/elyseo-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "peugeot-elyseo-125-1999-gasolina",
+      "fipeCodigo": "821002-0",
+      "displayName": "PEUGEOT ELYSEO 125",
+      "valorAtual": 2931,
+      "canonicalPath": "/fipe/peugeot/elyseo-125-1999-821002-0/",
+      "ano": 1999,
+      "marca": "PEUGEOT"
+    },
+    {
+      "vehicleId": "peugeot-elyseo-125-2000-gasolina",
+      "fipeCodigo": "821002-0",
+      "displayName": "PEUGEOT ELYSEO 125",
+      "valorAtual": 3412,
+      "canonicalPath": "/fipe/peugeot/elyseo-125-2000-821002-0/",
+      "ano": 2000,
+      "marca": "PEUGEOT"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "elyseo-1"
+  }
+}

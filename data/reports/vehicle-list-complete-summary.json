@@ -1,0 +1,67 @@
+{
+  "geradoEm": "2026-06-21T05:31:19.574Z",
+  "total": 50395,
+  "comInmetro": 20906,
+  "comSpecs": 43564,
+  "comCambio": 11854,
+  "comCilindrada": 43245,
+  "porTipo": [
+    {
+      "tipo": "carros",
+      "total": 30180,
+      "comInmetro": 20833,
+      "comSpecs": 28278
+    },
+    {
+      "tipo": "motos",
+      "total": 8847,
+      "comInmetro": 55,
+      "comSpecs": 7073
+    },
+    {
+      "tipo": "caminhoes",
+      "total": 11368,
+      "comInmetro": 18,
+      "comSpecs": 8213
+    }
+  ],
+  "coberturaRelatorio": {
+    "fipe": {
+      "veiculos": 50395,
+      "pct": 100
+    },
+    "historico": {
+      "veiculos": 50395,
+      "pct": 100
+    },
+    "inmetro": {
+      "veiculos": 20957,
+      "pct": 41.59,
+      "registrosFonte": 5631
+    },
+    "fabricantes": {
+      "veiculos": 0,
+      "pct": 0,
+      "registrosFonte": 0
+    },
+    "combinada": {
+      "veiculos": 20957,
+      "pct": 41.59,
+      "descricao": "INMETRO e/ou fabricante (campos novos alem de FIPE/historico)"
+    },
+    "staticSpecs": {
+      "veiculos": 50395,
+      "pct": 100,
+      "registrosFonte": 50395
+    },
+    "cilindrada": {
+      "veiculos": 43245,
+      "pct": 85.81
+    },
+    "cambio": {
+      "veiculos": 11854,
+      "pct": 23.52
+    }
+  },
+  "arquivoIndice": "data/indexes/vehicle-list-complete.json"
+}

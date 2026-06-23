@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "uni-2",
+  "canonicalPath": "/geracao/caoa-changan/uni-2/",
+  "titulo": "Geracao uni-2",
+  "descricao": "2 veiculos da geracao uni-2.",
+  "seo": {
+    "title": "Geracao uni-2 - Precos FIPE",
+    "description": "Veiculos da geracao uni-2 na Tabela FIPE.",
+    "h1": "Geracao uni-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/caoa-changan/uni-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "caoa-changan-uni-t-1-5-16v-tgdi-2026-flex",
+      "fipeCodigo": "308001-3",
+      "displayName": "Caoa Changan UNI-T 1.5 16V TGDi",
+      "valorAtual": 153092,
+      "canonicalPath": "/fipe/caoa-changan/uni-t-1-5-16v-tgdi-2026-308001-3/",
+      "ano": 2026,
+      "marca": "Caoa Changan"
+    },
+    {
+      "vehicleId": "caoa-changan-uni-t-1-5-16v-tgdi-2027-flex",
+      "fipeCodigo": "308001-3",
+      "displayName": "Caoa Changan UNI-T 1.5 16V TGDi",
+      "valorAtual": 161490,
+      "canonicalPath": "/fipe/caoa-changan/uni-t-1-5-16v-tgdi-2027-308001-3/",
+      "ano": 2027,
+      "marca": "Caoa Changan"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "uni-2"
+  }
+}

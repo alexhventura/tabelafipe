@@ -1,0 +1,66 @@
+{
+  "tipo": "geracao",
+  "slug": "m5-2",
+  "canonicalPath": "/geracao/bmw/m5-2/",
+  "titulo": "Geracao m5-2",
+  "descricao": "5 veiculos da geracao m5-2.",
+  "seo": {
+    "title": "Geracao m5-2 - Precos FIPE",
+    "description": "Veiculos da geracao m5-2 na Tabela FIPE.",
+    "h1": "Geracao m5-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/bmw/m5-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "bmw-m5-5-0-32v-40v-1999-gasolina",
+      "fipeCodigo": "009075-1",
+      "displayName": "BMW M5 5.0 32V/ 40V",
+      "valorAtual": 73672,
+      "canonicalPath": "/fipe/bmw/m5-5-0-32v-40v-1999-009075-1/",
+      "ano": 1999,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-m5-5-0-32v-40v-2000-gasolina",
+      "fipeCodigo": "009075-1",
+      "displayName": "BMW M5 5.0 32V/ 40V",
+      "valorAtual": 92961,
+      "canonicalPath": "/fipe/bmw/m5-5-0-32v-40v-2000-009075-1/",
+      "ano": 2000,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-m5-5-0-32v-40v-2001-gasolina",
+      "fipeCodigo": "009075-1",
+      "displayName": "BMW M5 5.0 32V/ 40V",
+      "valorAtual": 122184,
+      "canonicalPath": "/fipe/bmw/m5-5-0-32v-40v-2001-009075-1/",
+      "ano": 2001,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-m5-5-0-32v-40v-2002-gasolina",
+      "fipeCodigo": "009075-1",
+      "displayName": "BMW M5 5.0 32V/ 40V",
+      "valorAtual": 130763,
+      "canonicalPath": "/fipe/bmw/m5-5-0-32v-40v-2002-009075-1/",
+      "ano": 2002,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-m5-5-0-32v-40v-2003-gasolina",
+      "fipeCodigo": "009075-1",
+      "displayName": "BMW M5 5.0 32V/ 40V",
+      "valorAtual": 134451,
+      "canonicalPath": "/fipe/bmw/m5-5-0-32v-40v-2003-009075-1/",
+      "ano": 2003,
+      "marca": "BMW"
+    }
+  ],
+  "stats": {
+    "total": 5
+  },
+  "meta": {
+    "geracaoId": "m5-2"
+  }
+}

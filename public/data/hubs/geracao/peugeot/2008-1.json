@@ -1,0 +1,66 @@
+{
+  "tipo": "geracao",
+  "slug": "2008-1",
+  "canonicalPath": "/geracao/peugeot/2008-1/",
+  "titulo": "Geracao 2008-1",
+  "descricao": "5 veiculos da geracao 2008-1.",
+  "seo": {
+    "title": "Geracao 2008-1 - Precos FIPE",
+    "description": "Veiculos da geracao 2008-1 na Tabela FIPE.",
+    "h1": "Geracao 2008-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/peugeot/2008-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "peugeot-2008-active-1-0-turbo-flex-5p-aut-0-flex",
+      "fipeCodigo": "024274-8",
+      "displayName": "Peugeot 2008 Active 1.0 Turbo Flex 5p Aut.",
+      "valorAtual": 135234,
+      "canonicalPath": "/fipe/peugeot/2008-active-1-0-turbo-flex-5p-aut-0-024274-8/",
+      "ano": 0,
+      "marca": "Peugeot"
+    },
+    {
+      "vehicleId": "peugeot-2008-allure-1-0-turbo-200-5p-aut-0-flex",
+      "fipeCodigo": "024288-8",
+      "displayName": "Peugeot 2008 Allure 1.0 Turbo 200 5p Aut.",
+      "valorAtual": 144986,
+      "canonicalPath": "/fipe/peugeot/2008-allure-1-0-turbo-200-5p-aut-0-024288-8/",
+      "ano": 0,
+      "marca": "Peugeot"
+    },
+    {
+      "vehicleId": "peugeot-2008-allure-1-0-turbo-flex-5p-aut-0-flex",
+      "fipeCodigo": "024275-6",
+      "displayName": "Peugeot 2008 Allure 1.0 Turbo Flex 5p Aut.",
+      "valorAtual": 136258,
+      "canonicalPath": "/fipe/peugeot/2008-allure-1-0-turbo-flex-5p-aut-0-024275-6/",
+      "ano": 0,
+      "marca": "Peugeot"
+    },
+    {
+      "vehicleId": "peugeot-2008-gt-1-0-turbo-200-5p-aut-0-hibrido",
+      "fipeCodigo": "024284-5",
+      "displayName": "Peugeot 2008 GT 1.0 Turbo 200 5p Aut.",
+      "valorAtual": 162975,
+      "canonicalPath": "/fipe/peugeot/2008-gt-1-0-turbo-200-5p-aut-0-024284-5/",
+      "ano": 0,
+      "marca": "Peugeot"
+    },
+    {
+      "vehicleId": "peugeot-2008-gt-1-0-turbo-flex-5p-aut-0-flex",
+      "fipeCodigo": "024276-4",
+      "displayName": "Peugeot 2008 GT 1.0 Turbo Flex 5p Aut.",
+      "valorAtual": 151901,
+      "canonicalPath": "/fipe/peugeot/2008-gt-1-0-turbo-flex-5p-aut-0-024276-4/",
+      "ano": 0,
+      "marca": "Peugeot"
+    }
+  ],
+  "stats": {
+    "total": 5
+  },
+  "meta": {
+    "geracaoId": "2008-1"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "tipo": "familia",
+  "slug": "super",
+  "canonicalPath": "/fipe/suzuki/super/",
+  "titulo": "Suzuki super - Tabela FIPE",
+  "descricao": "2 versoes e anos do Suzuki super na Tabela FIPE.",
+  "seo": {
+    "title": "Suzuki super - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes Suzuki super. 2 veiculos indexados.",
+    "h1": "Suzuki super - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/suzuki/super/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "suzuki-super-carry-van-furgao-1-0-1995-gasolina",
+      "fipeCodigo": "028020-8",
+      "displayName": "Suzuki Super Carry Van/ Furgão 1.0",
+      "valorAtual": 3582,
+      "canonicalPath": "/fipe/suzuki/super-carry-van-furgao-1-0-1995-028020-8/",
+      "ano": 1995,
+      "marca": "Suzuki"
+    },
+    {
+      "vehicleId": "suzuki-super-carry-van-furgao-1-0-1994-gasolina",
+      "fipeCodigo": "028020-8",
+      "displayName": "Suzuki Super Carry Van/ Furgão 1.0",
+      "valorAtual": 2828,
+      "canonicalPath": "/fipe/suzuki/super-carry-van-furgao-1-0-1994-028020-8/",
+      "ano": 1994,
+      "marca": "Suzuki"
+    }
+  ],
+  "stats": {
+    "total": 2,
+    "precoMin": 2828,
+    "precoMax": 3582,
+    "anos": [
+      1995,
+      1994
+    ]
+  }
+}

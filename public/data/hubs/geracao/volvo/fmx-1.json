@@ -1,0 +1,75 @@
+{
+  "tipo": "geracao",
+  "slug": "fmx-1",
+  "canonicalPath": "/geracao/volvo/fmx-1/",
+  "titulo": "Geracao fmx-1",
+  "descricao": "6 veiculos da geracao fmx-1.",
+  "seo": {
+    "title": "Geracao fmx-1 - Precos FIPE",
+    "description": "Veiculos da geracao fmx-1 na Tabela FIPE.",
+    "h1": "Geracao fmx-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/volvo/fmx-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "volvo-fmx-380-6x4-2p-diesel-e6-0-diesel",
+      "fipeCodigo": "516267-0",
+      "displayName": "VOLVO FMX 380 6X4 2p (diesel) (E6)",
+      "valorAtual": 1296481,
+      "canonicalPath": "/fipe/volvo/fmx-380-6x4-2p-diesel-e6-0-516267-0/",
+      "ano": 0,
+      "marca": "VOLVO"
+    },
+    {
+      "vehicleId": "volvo-fmx-460-8x4-2p-diesel-e6-0-diesel",
+      "fipeCodigo": "516263-7",
+      "displayName": "VOLVO FMX 460 8X4 2p (diesel) (E6)",
+      "valorAtual": 1347168,
+      "canonicalPath": "/fipe/volvo/fmx-460-8x4-2p-diesel-e6-0-516263-7/",
+      "ano": 0,
+      "marca": "VOLVO"
+    },
+    {
+      "vehicleId": "volvo-fmx-500-6x4-2p-diesel-e6-0-diesel",
+      "fipeCodigo": "516266-1",
+      "displayName": "VOLVO FMX 500 6X4 2p (diesel) (E6)",
+      "valorAtual": 1407444,
+      "canonicalPath": "/fipe/volvo/fmx-500-6x4-2p-diesel-e6-0-516266-1/",
+      "ano": 0,
+      "marca": "VOLVO"
+    },
+    {
+      "vehicleId": "volvo-fmx-500-8x4-2p-diesel-e6-0-diesel",
+      "fipeCodigo": "516262-9",
+      "displayName": "VOLVO FMX 500 8X4 2p (diesel) (E6)",
+      "valorAtual": 1495856,
+      "canonicalPath": "/fipe/volvo/fmx-500-8x4-2p-diesel-e6-0-516262-9/",
+      "ano": 0,
+      "marca": "VOLVO"
+    },
+    {
+      "vehicleId": "volvo-fmx-540-6x4-2p-diesel-e6-0-diesel",
+      "fipeCodigo": "516265-3",
+      "displayName": "VOLVO FMX 540 6X4 2p (diesel) (E6)",
+      "valorAtual": 1407485,
+      "canonicalPath": "/fipe/volvo/fmx-540-6x4-2p-diesel-e6-0-516265-3/",
+      "ano": 0,
+      "marca": "VOLVO"
+    },
+    {
+      "vehicleId": "volvo-fmx-540-8x4-2p-diesel-e6-0-diesel",
+      "fipeCodigo": "516261-0",
+      "displayName": "VOLVO FMX 540 8X4 2p (diesel) (E6)",
+      "valorAtual": 1427388,
+      "canonicalPath": "/fipe/volvo/fmx-540-8x4-2p-diesel-e6-0-516261-0/",
+      "ano": 0,
+      "marca": "VOLVO"
+    }
+  ],
+  "stats": {
+    "total": 6
+  },
+  "meta": {
+    "geracaoId": "fmx-1"
+  }
+}

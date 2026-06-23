@@ -1,0 +1,71 @@
+{
+  "tipo": "familia",
+  "slug": "probe",
+  "canonicalPath": "/fipe/ford/probe/",
+  "titulo": "Ford probe - Tabela FIPE",
+  "descricao": "5 versoes e anos do Ford probe na Tabela FIPE.",
+  "seo": {
+    "title": "Ford probe - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes Ford probe. 5 veiculos indexados.",
+    "h1": "Ford probe - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/ford/probe/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "ford-probe-gt-2-5-v6-1995-gasolina",
+      "fipeCodigo": "003182-8",
+      "displayName": "Ford Probe GT 2.5 V6",
+      "valorAtual": 10546,
+      "canonicalPath": "/fipe/ford/probe-gt-2-5-v6-1995-003182-8/",
+      "ano": 1995,
+      "marca": "Ford"
+    },
+    {
+      "vehicleId": "ford-probe-gt-2-5-v6-1994-gasolina",
+      "fipeCodigo": "003182-8",
+      "displayName": "Ford Probe GT 2.5 V6",
+      "valorAtual": 9632,
+      "canonicalPath": "/fipe/ford/probe-gt-2-5-v6-1994-003182-8/",
+      "ano": 1994,
+      "marca": "Ford"
+    },
+    {
+      "vehicleId": "ford-probe-2-0-2-2-1993-gasolina",
+      "fipeCodigo": "003125-9",
+      "displayName": "Ford Probe 2.0/2.2",
+      "valorAtual": 8211,
+      "canonicalPath": "/fipe/ford/probe-2-0-2-2-1993-003125-9/",
+      "ano": 1993,
+      "marca": "Ford"
+    },
+    {
+      "vehicleId": "ford-probe-gt-2-5-v6-1993-gasolina",
+      "fipeCodigo": "003182-8",
+      "displayName": "Ford Probe GT 2.5 V6",
+      "valorAtual": 9283,
+      "canonicalPath": "/fipe/ford/probe-gt-2-5-v6-1993-003182-8/",
+      "ano": 1993,
+      "marca": "Ford"
+    },
+    {
+      "vehicleId": "ford-probe-2-0-2-2-1992-gasolina",
+      "fipeCodigo": "003125-9",
+      "displayName": "Ford Probe 2.0/2.2",
+      "valorAtual": 6728,
+      "canonicalPath": "/fipe/ford/probe-2-0-2-2-1992-003125-9/",
+      "ano": 1992,
+      "marca": "Ford"
+    }
+  ],
+  "stats": {
+    "total": 5,
+    "precoMin": 6728,
+    "precoMax": 10546,
+    "anos": [
+      1995,
+      1994,
+      1993,
+      1992
+    ]
+  }
+}

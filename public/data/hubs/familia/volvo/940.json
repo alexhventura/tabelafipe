@@ -1,0 +1,72 @@
+{
+  "tipo": "familia",
+  "slug": "940",
+  "canonicalPath": "/fipe/volvo/940/",
+  "titulo": "Volvo 940 - Tabela FIPE",
+  "descricao": "5 versoes e anos do Volvo 940 na Tabela FIPE.",
+  "seo": {
+    "title": "Volvo 940 - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes Volvo 940. 5 veiculos indexados.",
+    "h1": "Volvo 940 - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/volvo/940/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "volvo-940-turbo-sw-turbo-3-0-1995-gasolina",
+      "fipeCodigo": "029033-5",
+      "displayName": "Volvo 940 Turbo/ SW Turbo 3.0",
+      "valorAtual": 16965,
+      "canonicalPath": "/fipe/volvo/940-turbo-sw-turbo-3-0-1995-029033-5/",
+      "ano": 1995,
+      "marca": "Volvo"
+    },
+    {
+      "vehicleId": "volvo-940-turbo-sw-turbo-3-0-1994-gasolina",
+      "fipeCodigo": "029033-5",
+      "displayName": "Volvo 940 Turbo/ SW Turbo 3.0",
+      "valorAtual": 14735,
+      "canonicalPath": "/fipe/volvo/940-turbo-sw-turbo-3-0-1994-029033-5/",
+      "ano": 1994,
+      "marca": "Volvo"
+    },
+    {
+      "vehicleId": "volvo-940-turbo-sw-turbo-3-0-1993-gasolina",
+      "fipeCodigo": "029033-5",
+      "displayName": "Volvo 940 Turbo/ SW Turbo 3.0",
+      "valorAtual": 11014,
+      "canonicalPath": "/fipe/volvo/940-turbo-sw-turbo-3-0-1993-029033-5/",
+      "ano": 1993,
+      "marca": "Volvo"
+    },
+    {
+      "vehicleId": "volvo-940-turbo-sw-turbo-3-0-1992-gasolina",
+      "fipeCodigo": "029033-5",
+      "displayName": "Volvo 940 Turbo/ SW Turbo 3.0",
+      "valorAtual": 9329,
+      "canonicalPath": "/fipe/volvo/940-turbo-sw-turbo-3-0-1992-029033-5/",
+      "ano": 1992,
+      "marca": "Volvo"
+    },
+    {
+      "vehicleId": "volvo-940-turbo-sw-turbo-3-0-1991-gasolina",
+      "fipeCodigo": "029033-5",
+      "displayName": "Volvo 940 Turbo/ SW Turbo 3.0",
+      "valorAtual": 8881,
+      "canonicalPath": "/fipe/volvo/940-turbo-sw-turbo-3-0-1991-029033-5/",
+      "ano": 1991,
+      "marca": "Volvo"
+    }
+  ],
+  "stats": {
+    "total": 5,
+    "precoMin": 8881,
+    "precoMax": 16965,
+    "anos": [
+      1995,
+      1994,
+      1993,
+      1992,
+      1991
+    ]
+  }
+}

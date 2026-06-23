@@ -1,0 +1,42 @@
+{
+  "tipo": "familia",
+  "slug": "db7",
+  "canonicalPath": "/fipe/bimota/db7/",
+  "titulo": "BIMOTA db7 - Tabela FIPE",
+  "descricao": "2 versoes e anos do BIMOTA db7 na Tabela FIPE.",
+  "seo": {
+    "title": "BIMOTA db7 - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes BIMOTA db7. 2 veiculos indexados.",
+    "h1": "BIMOTA db7 - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/bimota/db7/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "bimota-db7-1099cc-2011-gasolina",
+      "fipeCodigo": "828007-0",
+      "displayName": "BIMOTA DB7 1099cc",
+      "valorAtual": 67884,
+      "canonicalPath": "/fipe/bimota/db7-1099cc-2011-828007-0/",
+      "ano": 2011,
+      "marca": "BIMOTA"
+    },
+    {
+      "vehicleId": "bimota-db7-1099cc-2010-gasolina",
+      "fipeCodigo": "828007-0",
+      "displayName": "BIMOTA DB7 1099cc",
+      "valorAtual": 66228,
+      "canonicalPath": "/fipe/bimota/db7-1099cc-2010-828007-0/",
+      "ano": 2010,
+      "marca": "BIMOTA"
+    }
+  ],
+  "stats": {
+    "total": 2,
+    "precoMin": 66228,
+    "precoMax": 67884,
+    "anos": [
+      2011,
+      2010
+    ]
+  }
+}

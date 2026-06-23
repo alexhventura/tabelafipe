@@ -1,0 +1,52 @@
+{
+  "tipo": "familia",
+  "slug": "chieftain",
+  "canonicalPath": "/fipe/indian/chieftain/",
+  "titulo": "INDIAN chieftain - Tabela FIPE",
+  "descricao": "3 versoes e anos do INDIAN chieftain na Tabela FIPE.",
+  "seo": {
+    "title": "INDIAN chieftain - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes INDIAN chieftain. 3 veiculos indexados.",
+    "h1": "INDIAN chieftain - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/indian/chieftain/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "indian-chieftain-dark-horse-2018-gasolina",
+      "fipeCodigo": "883009-6",
+      "displayName": "INDIAN CHIEFTAIN DARK HORSE",
+      "valorAtual": 103978,
+      "canonicalPath": "/fipe/indian/chieftain-dark-horse-2018-883009-6/",
+      "ano": 2018,
+      "marca": "INDIAN"
+    },
+    {
+      "vehicleId": "indian-chieftain-2017-gasolina",
+      "fipeCodigo": "883004-5",
+      "displayName": "INDIAN CHIEFTAIN",
+      "valorAtual": 87300,
+      "canonicalPath": "/fipe/indian/chieftain-2017-883004-5/",
+      "ano": 2017,
+      "marca": "INDIAN"
+    },
+    {
+      "vehicleId": "indian-chieftain-2016-gasolina",
+      "fipeCodigo": "883004-5",
+      "displayName": "INDIAN CHIEFTAIN",
+      "valorAtual": 77991,
+      "canonicalPath": "/fipe/indian/chieftain-2016-883004-5/",
+      "ano": 2016,
+      "marca": "INDIAN"
+    }
+  ],
+  "stats": {
+    "total": 3,
+    "precoMin": 77991,
+    "precoMax": 103978,
+    "anos": [
+      2018,
+      2017,
+      2016
+    ]
+  }
+}

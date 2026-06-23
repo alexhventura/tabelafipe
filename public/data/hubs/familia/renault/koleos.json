@@ -1,0 +1,42 @@
+{
+  "tipo": "familia",
+  "slug": "koleos",
+  "canonicalPath": "/fipe/renault/koleos/",
+  "titulo": "Renault koleos - Tabela FIPE",
+  "descricao": "2 versoes e anos do Renault koleos na Tabela FIPE.",
+  "seo": {
+    "title": "Renault koleos - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes Renault koleos. 2 veiculos indexados.",
+    "h1": "Renault koleos - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/renault/koleos/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "renault-koleos-e-tech-1-5-turbo-16v-5p-aut-2027-hibrido",
+      "fipeCodigo": "025340-5",
+      "displayName": "Renault Koleos E-Tech 1.5 Turbo 16V 5p Aut.",
+      "valorAtual": 266577,
+      "canonicalPath": "/fipe/renault/koleos-e-tech-1-5-turbo-16v-5p-aut-2027-025340-5/",
+      "ano": 2027,
+      "marca": "Renault"
+    },
+    {
+      "vehicleId": "renault-koleos-e-tech-1-5-turbo-16v-5p-aut-0-hibrido",
+      "fipeCodigo": "025340-5",
+      "displayName": "Renault Koleos E-Tech 1.5 Turbo 16V 5p Aut.",
+      "valorAtual": 291682,
+      "canonicalPath": "/fipe/renault/koleos-e-tech-1-5-turbo-16v-5p-aut-0-025340-5/",
+      "ano": 0,
+      "marca": "Renault"
+    }
+  ],
+  "stats": {
+    "total": 2,
+    "precoMin": 266577,
+    "precoMax": 291682,
+    "anos": [
+      2027,
+      0
+    ]
+  }
+}

@@ -1,0 +1,131 @@
+{
+  "tipo": "familia",
+  "slug": "superduke",
+  "canonicalPath": "/fipe/ktm/superduke/",
+  "titulo": "KTM superduke - Tabela FIPE",
+  "descricao": "11 versoes e anos do KTM superduke na Tabela FIPE.",
+  "seo": {
+    "title": "KTM superduke - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes KTM superduke. 11 veiculos indexados.",
+    "h1": "KTM superduke - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/ktm/superduke/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "ktm-superduke-1290-r-2017-gasolina",
+      "fipeCodigo": "818039-3",
+      "displayName": "KTM SUPERDUKE 1290 R",
+      "valorAtual": 84967,
+      "canonicalPath": "/fipe/ktm/superduke-1290-r-2017-818039-3/",
+      "ano": 2017,
+      "marca": "KTM"
+    },
+    {
+      "vehicleId": "ktm-superduke-1290-gt-2017-gasolina",
+      "fipeCodigo": "818048-2",
+      "displayName": "KTM SUPERDUKE 1290 GT",
+      "valorAtual": 101593,
+      "canonicalPath": "/fipe/ktm/superduke-1290-gt-2017-818048-2/",
+      "ano": 2017,
+      "marca": "KTM"
+    },
+    {
+      "vehicleId": "ktm-superduke-1290-r-2015-gasolina",
+      "fipeCodigo": "818039-3",
+      "displayName": "KTM SUPERDUKE 1290 R",
+      "valorAtual": 71116,
+      "canonicalPath": "/fipe/ktm/superduke-1290-r-2015-818039-3/",
+      "ano": 2015,
+      "marca": "KTM"
+    },
+    {
+      "vehicleId": "ktm-superduke-1290-r-2014-gasolina",
+      "fipeCodigo": "818039-3",
+      "displayName": "KTM SUPERDUKE 1290 R",
+      "valorAtual": 53565,
+      "canonicalPath": "/fipe/ktm/superduke-1290-r-2014-818039-3/",
+      "ano": 2014,
+      "marca": "KTM"
+    },
+    {
+      "vehicleId": "ktm-superduke-990-2011-gasolina",
+      "fipeCodigo": "818025-3",
+      "displayName": "KTM SUPERDUKE 990",
+      "valorAtual": 40446,
+      "canonicalPath": "/fipe/ktm/superduke-990-2011-818025-3/",
+      "ano": 2011,
+      "marca": "KTM"
+    },
+    {
+      "vehicleId": "ktm-superduke-990-2010-gasolina",
+      "fipeCodigo": "818025-3",
+      "displayName": "KTM SUPERDUKE 990",
+      "valorAtual": 35027,
+      "canonicalPath": "/fipe/ktm/superduke-990-2010-818025-3/",
+      "ano": 2010,
+      "marca": "KTM"
+    },
+    {
+      "vehicleId": "ktm-superduke-990-2009-gasolina",
+      "fipeCodigo": "818025-3",
+      "displayName": "KTM SUPERDUKE 990",
+      "valorAtual": 32199,
+      "canonicalPath": "/fipe/ktm/superduke-990-2009-818025-3/",
+      "ano": 2009,
+      "marca": "KTM"
+    },
+    {
+      "vehicleId": "ktm-superduke-990-2008-gasolina",
+      "fipeCodigo": "818025-3",
+      "displayName": "KTM SUPERDUKE 990",
+      "valorAtual": 29276,
+      "canonicalPath": "/fipe/ktm/superduke-990-2008-818025-3/",
+      "ano": 2008,
+      "marca": "KTM"
+    },
+    {
+      "vehicleId": "ktm-superduke-990-2007-gasolina",
+      "fipeCodigo": "818025-3",
+      "displayName": "KTM SUPERDUKE 990",
+      "valorAtual": 23454,
+      "canonicalPath": "/fipe/ktm/superduke-990-2007-818025-3/",
+      "ano": 2007,
+      "marca": "KTM"
+    },
+    {
+      "vehicleId": "ktm-superduke-990-2006-gasolina",
+      "fipeCodigo": "818025-3",
+      "displayName": "KTM SUPERDUKE 990",
+      "valorAtual": 19848,
+      "canonicalPath": "/fipe/ktm/superduke-990-2006-818025-3/",
+      "ano": 2006,
+      "marca": "KTM"
+    },
+    {
+      "vehicleId": "ktm-superduke-990-2005-gasolina",
+      "fipeCodigo": "818025-3",
+      "displayName": "KTM SUPERDUKE 990",
+      "valorAtual": 16895,
+      "canonicalPath": "/fipe/ktm/superduke-990-2005-818025-3/",
+      "ano": 2005,
+      "marca": "KTM"
+    }
+  ],
+  "stats": {
+    "total": 11,
+    "precoMin": 16895,
+    "precoMax": 101593,
+    "anos": [
+      2017,
+      2015,
+      2014,
+      2011,
+      2010,
+      2009,
+      2008,
+      2007,
+      2006,
+      2005
+    ]
+  }
+}

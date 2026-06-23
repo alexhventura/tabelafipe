@@ -1,0 +1,79 @@
+{
+  "tipo": "familia",
+  "slug": "fy125",
+  "canonicalPath": "/fipe/fym/fy125/",
+  "titulo": "FYM fy125 - Tabela FIPE",
+  "descricao": "6 versoes e anos do FYM fy125 na Tabela FIPE.",
+  "seo": {
+    "title": "FYM fy125 - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes FYM fy125. 6 veiculos indexados.",
+    "h1": "FYM fy125 - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/fym/fy125/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "fym-fy125-19-125cc-2008-gasolina",
+      "fipeCodigo": "849004-0",
+      "displayName": "FYM FY125-19 125cc",
+      "valorAtual": 2130,
+      "canonicalPath": "/fipe/fym/fy125-19-125cc-2008-849004-0/",
+      "ano": 2008,
+      "marca": "FYM"
+    },
+    {
+      "vehicleId": "fym-fy125-20-sachs-125cc-2008-gasolina",
+      "fipeCodigo": "849001-5",
+      "displayName": "FYM FY125-20 Sachs 125cc",
+      "valorAtual": 4810,
+      "canonicalPath": "/fipe/fym/fy125-20-sachs-125cc-2008-849001-5/",
+      "ano": 2008,
+      "marca": "FYM"
+    },
+    {
+      "vehicleId": "fym-fy125-19-125cc-2007-gasolina",
+      "fipeCodigo": "849004-0",
+      "displayName": "FYM FY125-19 125cc",
+      "valorAtual": 1708,
+      "canonicalPath": "/fipe/fym/fy125-19-125cc-2007-849004-0/",
+      "ano": 2007,
+      "marca": "FYM"
+    },
+    {
+      "vehicleId": "fym-fy125-20-sachs-125cc-2007-gasolina",
+      "fipeCodigo": "849001-5",
+      "displayName": "FYM FY125-20 Sachs 125cc",
+      "valorAtual": 3974,
+      "canonicalPath": "/fipe/fym/fy125-20-sachs-125cc-2007-849001-5/",
+      "ano": 2007,
+      "marca": "FYM"
+    },
+    {
+      "vehicleId": "fym-fy125-19-125cc-2006-gasolina",
+      "fipeCodigo": "849004-0",
+      "displayName": "FYM FY125-19 125cc",
+      "valorAtual": 1547,
+      "canonicalPath": "/fipe/fym/fy125-19-125cc-2006-849004-0/",
+      "ano": 2006,
+      "marca": "FYM"
+    },
+    {
+      "vehicleId": "fym-fy125-20-sachs-125cc-2006-gasolina",
+      "fipeCodigo": "849001-5",
+      "displayName": "FYM FY125-20 Sachs 125cc",
+      "valorAtual": 3532,
+      "canonicalPath": "/fipe/fym/fy125-20-sachs-125cc-2006-849001-5/",
+      "ano": 2006,
+      "marca": "FYM"
+    }
+  ],
+  "stats": {
+    "total": 6,
+    "precoMin": 1547,
+    "precoMax": 4810,
+    "anos": [
+      2008,
+      2007,
+      2006
+    ]
+  }
+}

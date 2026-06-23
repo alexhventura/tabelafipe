@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "ghibli-2",
+  "canonicalPath": "/geracao/maserati/ghibli-2/",
+  "titulo": "Geracao ghibli-2",
+  "descricao": "2 veiculos da geracao ghibli-2.",
+  "seo": {
+    "title": "Geracao ghibli-2 - Precos FIPE",
+    "description": "Veiculos da geracao ghibli-2 na Tabela FIPE.",
+    "h1": "Geracao ghibli-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/maserati/ghibli-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "maserati-ghibli-2-0-v6-1993-gasolina",
+      "fipeCodigo": "034007-3",
+      "displayName": "Maserati Ghibli 2.0 V6",
+      "valorAtual": 29722,
+      "canonicalPath": "/fipe/maserati/ghibli-2-0-v6-1993-034007-3/",
+      "ano": 1993,
+      "marca": "Maserati"
+    },
+    {
+      "vehicleId": "maserati-ghibli-2-0-v6-1994-gasolina",
+      "fipeCodigo": "034007-3",
+      "displayName": "Maserati Ghibli 2.0 V6",
+      "valorAtual": 34923,
+      "canonicalPath": "/fipe/maserati/ghibli-2-0-v6-1994-034007-3/",
+      "ano": 1994,
+      "marca": "Maserati"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "ghibli-2"
+  }
+}

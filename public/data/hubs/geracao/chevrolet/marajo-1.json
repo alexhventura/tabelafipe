@@ -1,0 +1,66 @@
+{
+  "tipo": "geracao",
+  "slug": "marajo-1",
+  "canonicalPath": "/geracao/chevrolet/marajo-1/",
+  "titulo": "Geracao marajo-1",
+  "descricao": "5 veiculos da geracao marajo-1.",
+  "seo": {
+    "title": "Geracao marajo-1 - Precos FIPE",
+    "description": "Veiculos da geracao marajo-1 na Tabela FIPE.",
+    "h1": "Geracao marajo-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/chevrolet/marajo-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "chevrolet-marajo-sl-sle-se-1985-gasolina",
+      "fipeCodigo": "004119-0",
+      "displayName": "GM - Chevrolet Marajo SL/SLe/Se",
+      "valorAtual": 4276,
+      "canonicalPath": "/fipe/chevrolet/marajo-sl-sle-se-1985-004119-0/",
+      "ano": 1985,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-marajo-sl-sle-se-1986-gasolina",
+      "fipeCodigo": "004119-0",
+      "displayName": "GM - Chevrolet Marajo SL/SLe/Se",
+      "valorAtual": 5291,
+      "canonicalPath": "/fipe/chevrolet/marajo-sl-sle-se-1986-004119-0/",
+      "ano": 1986,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-marajo-sl-sle-se-1987-gasolina",
+      "fipeCodigo": "004119-0",
+      "displayName": "GM - Chevrolet Marajo SL/SLe/Se",
+      "valorAtual": 5460,
+      "canonicalPath": "/fipe/chevrolet/marajo-sl-sle-se-1987-004119-0/",
+      "ano": 1987,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-marajo-sl-sle-se-1988-gasolina",
+      "fipeCodigo": "004119-0",
+      "displayName": "GM - Chevrolet Marajo SL/SLe/Se",
+      "valorAtual": 6387,
+      "canonicalPath": "/fipe/chevrolet/marajo-sl-sle-se-1988-004119-0/",
+      "ano": 1988,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-marajo-sl-sle-se-1989-gasolina",
+      "fipeCodigo": "004119-0",
+      "displayName": "GM - Chevrolet Marajo SL/SLe/Se",
+      "valorAtual": 8745,
+      "canonicalPath": "/fipe/chevrolet/marajo-sl-sle-se-1989-004119-0/",
+      "ano": 1989,
+      "marca": "GM - Chevrolet"
+    }
+  ],
+  "stats": {
+    "total": 5
+  },
+  "meta": {
+    "geracaoId": "marajo-1"
+  }
+}

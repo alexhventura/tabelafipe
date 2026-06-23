@@ -1,0 +1,57 @@
+{
+  "tipo": "geracao",
+  "slug": "3008-2",
+  "canonicalPath": "/geracao/peugeot/3008-2/",
+  "titulo": "Geracao 3008-2",
+  "descricao": "4 veiculos da geracao 3008-2.",
+  "seo": {
+    "title": "Geracao 3008-2 - Precos FIPE",
+    "description": "Veiculos da geracao 3008-2 na Tabela FIPE.",
+    "h1": "Geracao 3008-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/peugeot/3008-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "peugeot-3008-gt-pack-1-6-turbo-16v-5p-aut-2022-gasolina",
+      "fipeCodigo": "024253-5",
+      "displayName": "Peugeot 3008 GT Pack 1.6 Turbo 16V 5p Aut.",
+      "valorAtual": 152273,
+      "canonicalPath": "/fipe/peugeot/3008-gt-pack-1-6-turbo-16v-5p-aut-2022-024253-5/",
+      "ano": 2022,
+      "marca": "Peugeot"
+    },
+    {
+      "vehicleId": "peugeot-3008-gt-pack-1-6-turbo-16v-5p-aut-2023-gasolina",
+      "fipeCodigo": "024253-5",
+      "displayName": "Peugeot 3008 GT Pack 1.6 Turbo 16V 5p Aut.",
+      "valorAtual": 159156,
+      "canonicalPath": "/fipe/peugeot/3008-gt-pack-1-6-turbo-16v-5p-aut-2023-024253-5/",
+      "ano": 2023,
+      "marca": "Peugeot"
+    },
+    {
+      "vehicleId": "peugeot-3008-griffe-1-6-turbo-16v-5p-aut-2022-gasolina",
+      "fipeCodigo": "024176-8",
+      "displayName": "Peugeot 3008 Griffe 1.6 Turbo 16V 5p Aut.",
+      "valorAtual": 139854,
+      "canonicalPath": "/fipe/peugeot/3008-griffe-1-6-turbo-16v-5p-aut-2022-024176-8/",
+      "ano": 2022,
+      "marca": "Peugeot"
+    },
+    {
+      "vehicleId": "peugeot-3008-griffe-1-6-turbo-16v-5p-aut-2023-gasolina",
+      "fipeCodigo": "024176-8",
+      "displayName": "Peugeot 3008 Griffe 1.6 Turbo 16V 5p Aut.",
+      "valorAtual": 145985,
+      "canonicalPath": "/fipe/peugeot/3008-griffe-1-6-turbo-16v-5p-aut-2023-024176-8/",
+      "ano": 2023,
+      "marca": "Peugeot"
+    }
+  ],
+  "stats": {
+    "total": 4
+  },
+  "meta": {
+    "geracaoId": "3008-2"
+  }
+}

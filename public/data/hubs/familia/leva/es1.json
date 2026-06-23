@@ -1,0 +1,52 @@
+{
+  "tipo": "familia",
+  "slug": "es1",
+  "canonicalPath": "/fipe/leva/es1/",
+  "titulo": "LEVA es1 - Tabela FIPE",
+  "descricao": "3 versoes e anos do LEVA es1 na Tabela FIPE.",
+  "seo": {
+    "title": "LEVA es1 - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes LEVA es1. 3 veiculos indexados.",
+    "h1": "LEVA es1 - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/leva/es1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "leva-es1-5000w-2026-eletrico",
+      "fipeCodigo": "701002-8",
+      "displayName": "LEVA ES1 5000W",
+      "valorAtual": 20069,
+      "canonicalPath": "/fipe/leva/es1-5000w-2026-701002-8/",
+      "ano": 2026,
+      "marca": "LEVA"
+    },
+    {
+      "vehicleId": "leva-es1-5000w-2025-eletrico",
+      "fipeCodigo": "701002-8",
+      "displayName": "LEVA ES1 5000W",
+      "valorAtual": 19336,
+      "canonicalPath": "/fipe/leva/es1-5000w-2025-701002-8/",
+      "ano": 2025,
+      "marca": "LEVA"
+    },
+    {
+      "vehicleId": "leva-es1-5000w-0-eletrico",
+      "fipeCodigo": "701002-8",
+      "displayName": "LEVA ES1 5000W",
+      "valorAtual": 22500,
+      "canonicalPath": "/fipe/leva/es1-5000w-0-701002-8/",
+      "ano": 0,
+      "marca": "LEVA"
+    }
+  ],
+  "stats": {
+    "total": 3,
+    "precoMin": 19336,
+    "precoMax": 22500,
+    "anos": [
+      2026,
+      2025,
+      0
+    ]
+  }
+}

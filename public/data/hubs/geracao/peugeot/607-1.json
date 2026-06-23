@@ -1,0 +1,48 @@
+{
+  "tipo": "geracao",
+  "slug": "607-1",
+  "canonicalPath": "/geracao/peugeot/607-1/",
+  "titulo": "Geracao 607-1",
+  "descricao": "3 veiculos da geracao 607-1.",
+  "seo": {
+    "title": "Geracao 607-1 - Precos FIPE",
+    "description": "Veiculos da geracao 607-1 na Tabela FIPE.",
+    "h1": "Geracao 607-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/peugeot/607-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "peugeot-607-sedan-3-0-v6-2000-gasolina",
+      "fipeCodigo": "024079-6",
+      "displayName": "Peugeot 607 Sedan 3.0 V6",
+      "valorAtual": 20582,
+      "canonicalPath": "/fipe/peugeot/607-sedan-3-0-v6-2000-024079-6/",
+      "ano": 2000,
+      "marca": "Peugeot"
+    },
+    {
+      "vehicleId": "peugeot-607-sedan-3-0-v6-2001-gasolina",
+      "fipeCodigo": "024079-6",
+      "displayName": "Peugeot 607 Sedan 3.0 V6",
+      "valorAtual": 28972,
+      "canonicalPath": "/fipe/peugeot/607-sedan-3-0-v6-2001-024079-6/",
+      "ano": 2001,
+      "marca": "Peugeot"
+    },
+    {
+      "vehicleId": "peugeot-607-sedan-3-0-v6-2002-gasolina",
+      "fipeCodigo": "024079-6",
+      "displayName": "Peugeot 607 Sedan 3.0 V6",
+      "valorAtual": 29697,
+      "canonicalPath": "/fipe/peugeot/607-sedan-3-0-v6-2002-024079-6/",
+      "ano": 2002,
+      "marca": "Peugeot"
+    }
+  ],
+  "stats": {
+    "total": 3
+  },
+  "meta": {
+    "geracaoId": "607-1"
+  }
+}

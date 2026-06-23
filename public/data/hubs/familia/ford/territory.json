@@ -1,0 +1,101 @@
+{
+  "tipo": "familia",
+  "slug": "territory",
+  "canonicalPath": "/fipe/ford/territory/",
+  "titulo": "Ford territory - Tabela FIPE",
+  "descricao": "8 versoes e anos do Ford territory na Tabela FIPE.",
+  "seo": {
+    "title": "Ford territory - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes Ford territory. 8 veiculos indexados.",
+    "h1": "Ford territory - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/ford/territory/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "ford-territory-titanium-1-5-gtdi-ecobo-aut-2026-gasolina",
+      "fipeCodigo": "003478-9",
+      "displayName": "Ford TERRITORY Titanium 1.5 GTDi EcoBo. Aut.",
+      "valorAtual": 190611,
+      "canonicalPath": "/fipe/ford/territory-titanium-1-5-gtdi-ecobo-aut-2026-003478-9/",
+      "ano": 2026,
+      "marca": "Ford"
+    },
+    {
+      "vehicleId": "ford-territory-titanium-1-5-gtdi-ecobo-aut-2025-gasolina",
+      "fipeCodigo": "003478-9",
+      "displayName": "Ford TERRITORY Titanium 1.5 GTDi EcoBo. Aut.",
+      "valorAtual": 175102,
+      "canonicalPath": "/fipe/ford/territory-titanium-1-5-gtdi-ecobo-aut-2025-003478-9/",
+      "ano": 2025,
+      "marca": "Ford"
+    },
+    {
+      "vehicleId": "ford-territory-titanium-1-5-gtdi-ecobo-aut-2024-gasolina",
+      "fipeCodigo": "003478-9",
+      "displayName": "Ford TERRITORY Titanium 1.5 GTDi EcoBo. Aut.",
+      "valorAtual": 167585,
+      "canonicalPath": "/fipe/ford/territory-titanium-1-5-gtdi-ecobo-aut-2024-003478-9/",
+      "ano": 2024,
+      "marca": "Ford"
+    },
+    {
+      "vehicleId": "ford-territory-titanium-1-5-gtdi-ecobo-aut-2023-gasolina",
+      "fipeCodigo": "003478-9",
+      "displayName": "Ford TERRITORY Titanium 1.5 GTDi EcoBo. Aut.",
+      "valorAtual": 135417,
+      "canonicalPath": "/fipe/ford/territory-titanium-1-5-gtdi-ecobo-aut-2023-003478-9/",
+      "ano": 2023,
+      "marca": "Ford"
+    },
+    {
+      "vehicleId": "ford-territory-titanium-1-5-gtdi-ecobo-aut-2022-gasolina",
+      "fipeCodigo": "003478-9",
+      "displayName": "Ford TERRITORY Titanium 1.5 GTDi EcoBo. Aut.",
+      "valorAtual": 121937,
+      "canonicalPath": "/fipe/ford/territory-titanium-1-5-gtdi-ecobo-aut-2022-003478-9/",
+      "ano": 2022,
+      "marca": "Ford"
+    },
+    {
+      "vehicleId": "ford-territory-sel-1-5-gtdi-ecoboost-aut-2021-gasolina",
+      "fipeCodigo": "003477-0",
+      "displayName": "Ford TERRITORY SEL 1.5 GTDi EcoBoost Aut.",
+      "valorAtual": 111559,
+      "canonicalPath": "/fipe/ford/territory-sel-1-5-gtdi-ecoboost-aut-2021-003477-0/",
+      "ano": 2021,
+      "marca": "Ford"
+    },
+    {
+      "vehicleId": "ford-territory-titanium-1-5-gtdi-ecobo-aut-2021-gasolina",
+      "fipeCodigo": "003478-9",
+      "displayName": "Ford TERRITORY Titanium 1.5 GTDi EcoBo. Aut.",
+      "valorAtual": 115805,
+      "canonicalPath": "/fipe/ford/territory-titanium-1-5-gtdi-ecobo-aut-2021-003478-9/",
+      "ano": 2021,
+      "marca": "Ford"
+    },
+    {
+      "vehicleId": "ford-territory-titanium-1-5-gtdi-ecobo-aut-0-gasolina",
+      "fipeCodigo": "003478-9",
+      "displayName": "Ford TERRITORY Titanium 1.5 GTDi EcoBo. Aut.",
+      "valorAtual": 218537,
+      "canonicalPath": "/fipe/ford/territory-titanium-1-5-gtdi-ecobo-aut-0-003478-9/",
+      "ano": 0,
+      "marca": "Ford"
+    }
+  ],
+  "stats": {
+    "total": 8,
+    "precoMin": 111559,
+    "precoMax": 218537,
+    "anos": [
+      2026,
+      2025,
+      2024,
+      2023,
+      2022,
+      2021,
+      0
+    ]
+  }
+}

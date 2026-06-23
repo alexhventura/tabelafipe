@@ -1,0 +1,147 @@
+{
+  "tipo": "geracao",
+  "slug": "xy-1",
+  "canonicalPath": "/geracao/shineray/xy-1/",
+  "titulo": "Geracao xy-1",
+  "descricao": "14 veiculos da geracao xy-1.",
+  "seo": {
+    "title": "Geracao xy-1 - Precos FIPE",
+    "description": "Veiculos da geracao xy-1 na Tabela FIPE.",
+    "h1": "Geracao xy-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/shineray/xy-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "shineray-xy-125-jet-ss-0-gasolina",
+      "fipeCodigo": "850036-3",
+      "displayName": "SHINERAY XY 125 JET SS",
+      "valorAtual": 11899,
+      "canonicalPath": "/fipe/shineray/xy-125-jet-ss-0-850036-3/",
+      "ano": 0,
+      "marca": "SHINERAY"
+    },
+    {
+      "vehicleId": "shineray-xy-125-jet-ss-efi-0-gasolina",
+      "fipeCodigo": "850037-1",
+      "displayName": "SHINERAY XY 125 JET SS EFI",
+      "valorAtual": 13366,
+      "canonicalPath": "/fipe/shineray/xy-125-jet-ss-efi-0-850037-1/",
+      "ano": 0,
+      "marca": "SHINERAY"
+    },
+    {
+      "vehicleId": "shineray-xy-125-rio-efi-0-gasolina",
+      "fipeCodigo": "850040-1",
+      "displayName": "SHINERAY XY 125 RIO EFI",
+      "valorAtual": 13471,
+      "canonicalPath": "/fipe/shineray/xy-125-rio-efi-0-850040-1/",
+      "ano": 0,
+      "marca": "SHINERAY"
+    },
+    {
+      "vehicleId": "shineray-xy-150-8-jef-0-gasolina",
+      "fipeCodigo": "850026-6",
+      "displayName": "SHINERAY XY 150-8 JEF",
+      "valorAtual": 15784,
+      "canonicalPath": "/fipe/shineray/xy-150-8-jef-0-850026-6/",
+      "ano": 0,
+      "marca": "SHINERAY"
+    },
+    {
+      "vehicleId": "shineray-xy-150-8-jef-s-0-gasolina",
+      "fipeCodigo": "850046-0",
+      "displayName": "SHINERAY XY 150-8 JEF S",
+      "valorAtual": 15837,
+      "canonicalPath": "/fipe/shineray/xy-150-8-jef-s-0-850046-0/",
+      "ano": 0,
+      "marca": "SHINERAY"
+    },
+    {
+      "vehicleId": "shineray-xy-150-8-jef-s-efi-0-gasolina",
+      "fipeCodigo": "850056-8",
+      "displayName": "SHINERAY XY 150-8 JEF S EFI",
+      "valorAtual": 16665,
+      "canonicalPath": "/fipe/shineray/xy-150-8-jef-s-efi-0-850056-8/",
+      "ano": 0,
+      "marca": "SHINERAY"
+    },
+    {
+      "vehicleId": "shineray-xy-200-storm-efi-0-gasolina",
+      "fipeCodigo": "850045-2",
+      "displayName": "SHINERAY XY 200 STORM EFI",
+      "valorAtual": 22423,
+      "canonicalPath": "/fipe/shineray/xy-200-storm-efi-0-850045-2/",
+      "ano": 0,
+      "marca": "SHINERAY"
+    },
+    {
+      "vehicleId": "shineray-xy-250-denver-0-gasolina",
+      "fipeCodigo": "850049-5",
+      "displayName": "SHINERAY XY 250 DENVER",
+      "valorAtual": 26624,
+      "canonicalPath": "/fipe/shineray/xy-250-denver-0-850049-5/",
+      "ano": 0,
+      "marca": "SHINERAY"
+    },
+    {
+      "vehicleId": "shineray-xy-250-flash-efi-0-gasolina",
+      "fipeCodigo": "850050-9",
+      "displayName": "SHINERAY XY 250 FLASH EFI",
+      "valorAtual": 23648,
+      "canonicalPath": "/fipe/shineray/xy-250-flash-efi-0-850050-9/",
+      "ano": 0,
+      "marca": "SHINERAY"
+    },
+    {
+      "vehicleId": "shineray-xy-50-q-jet-s-0-gasolina",
+      "fipeCodigo": "850039-8",
+      "displayName": "SHINERAY XY 50-Q JET S",
+      "valorAtual": 11401,
+      "canonicalPath": "/fipe/shineray/xy-50-q-jet-s-0-850039-8/",
+      "ano": 0,
+      "marca": "SHINERAY"
+    },
+    {
+      "vehicleId": "shineray-xy-50-q-phoenix-0-gasolina",
+      "fipeCodigo": "850011-8",
+      "displayName": "SHINERAY XY 50-Q PHOENIX",
+      "valorAtual": 9424,
+      "canonicalPath": "/fipe/shineray/xy-50-q-phoenix-0-850011-8/",
+      "ano": 0,
+      "marca": "SHINERAY"
+    },
+    {
+      "vehicleId": "shineray-xy-50-q-phoenix-s-0-gasolina",
+      "fipeCodigo": "850047-9",
+      "displayName": "SHINERAY XY 50-Q PHOENIX S",
+      "valorAtual": 9454,
+      "canonicalPath": "/fipe/shineray/xy-50-q-phoenix-s-0-850047-9/",
+      "ano": 0,
+      "marca": "SHINERAY"
+    },
+    {
+      "vehicleId": "shineray-xy-50-q-phoenix-s-efi-0-gasolina",
+      "fipeCodigo": "850048-7",
+      "displayName": "SHINERAY XY 50-Q PHOENIX S EFI",
+      "valorAtual": 10660,
+      "canonicalPath": "/fipe/shineray/xy-50-q-phoenix-s-efi-0-850048-7/",
+      "ano": 0,
+      "marca": "SHINERAY"
+    },
+    {
+      "vehicleId": "shineray-xy-50-q2-retro-jet-bike-0-gasolina",
+      "fipeCodigo": "850015-0",
+      "displayName": "SHINERAY XY 50-Q2 RETRO/JET/BIKE",
+      "valorAtual": 9428,
+      "canonicalPath": "/fipe/shineray/xy-50-q2-retro-jet-bike-0-850015-0/",
+      "ano": 0,
+      "marca": "SHINERAY"
+    }
+  ],
+  "stats": {
+    "total": 14
+  },
+  "meta": {
+    "geracaoId": "xy-1"
+  }
+}

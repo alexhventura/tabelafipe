@@ -1,0 +1,66 @@
+{
+  "tipo": "geracao",
+  "slug": "montana-1",
+  "canonicalPath": "/geracao/chevrolet/montana-1/",
+  "titulo": "Geracao montana-1",
+  "descricao": "5 veiculos da geracao montana-1.",
+  "seo": {
+    "title": "Geracao montana-1 - Precos FIPE",
+    "description": "Veiculos da geracao montana-1 na Tabela FIPE.",
+    "h1": "Geracao montana-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/chevrolet/montana-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "chevrolet-montana-1-2-turbo-flex-12v-4p-mec-0-flex",
+      "fipeCodigo": "004539-0",
+      "displayName": "GM - Chevrolet MONTANA 1.2 Turbo Flex 12V 4p Mec.",
+      "valorAtual": 133423,
+      "canonicalPath": "/fipe/chevrolet/montana-1-2-turbo-flex-12v-4p-mec-0-004539-0/",
+      "ano": 0,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-montana-lt-1-2-turbo-flex-12v-4p-mec-0-flex",
+      "fipeCodigo": "004540-3",
+      "displayName": "GM - Chevrolet MONTANA LT 1.2  Turbo Flex 12V 4p Mec.",
+      "valorAtual": 140593,
+      "canonicalPath": "/fipe/chevrolet/montana-lt-1-2-turbo-flex-12v-4p-mec-0-004540-3/",
+      "ano": 0,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-montana-ltz-1-2-turbo-flex-12v-4p-aut-0-flex",
+      "fipeCodigo": "004541-1",
+      "displayName": "GM - Chevrolet MONTANA LTZ 1.2 Turbo Flex 12V 4p Aut.",
+      "valorAtual": 155423,
+      "canonicalPath": "/fipe/chevrolet/montana-ltz-1-2-turbo-flex-12v-4p-aut-0-004541-1/",
+      "ano": 0,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-montana-premier-1-2-turbo-flex-12v-aut-0-flex",
+      "fipeCodigo": "004542-0",
+      "displayName": "GM - Chevrolet MONTANA PREMIER 1.2 Turbo Flex 12V Aut.",
+      "valorAtual": 165196,
+      "canonicalPath": "/fipe/chevrolet/montana-premier-1-2-turbo-flex-12v-aut-0-004542-0/",
+      "ano": 0,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-montana-rs-1-2-turbo-flex-12v-aut-0-flex",
+      "fipeCodigo": "004546-2",
+      "displayName": "GM - Chevrolet MONTANA RS 1.2 Turbo Flex 12V Aut.",
+      "valorAtual": 172399,
+      "canonicalPath": "/fipe/chevrolet/montana-rs-1-2-turbo-flex-12v-aut-0-004546-2/",
+      "ano": 0,
+      "marca": "GM - Chevrolet"
+    }
+  ],
+  "stats": {
+    "total": 5
+  },
+  "meta": {
+    "geracaoId": "montana-1"
+  }
+}

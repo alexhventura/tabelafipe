@@ -1,0 +1,42 @@
+{
+  "tipo": "familia",
+  "slug": "x30",
+  "canonicalPath": "/fipe/shineray/x30/",
+  "titulo": "SHINERAY x30 - Tabela FIPE",
+  "descricao": "2 versoes e anos do SHINERAY x30 na Tabela FIPE.",
+  "seo": {
+    "title": "SHINERAY x30 - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes SHINERAY x30. 2 veiculos indexados.",
+    "h1": "SHINERAY x30 - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/shineray/x30/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "shineray-x30-van-1-3-16v-mec-2015-gasolina",
+      "fipeCodigo": "082007-5",
+      "displayName": "SHINERAY X30 VAN 1.3 16V Mec.",
+      "valorAtual": 34467,
+      "canonicalPath": "/fipe/shineray/x30-van-1-3-16v-mec-2015-082007-5/",
+      "ano": 2015,
+      "marca": "SHINERAY"
+    },
+    {
+      "vehicleId": "shineray-x30-van-1-3-16v-mec-2014-gasolina",
+      "fipeCodigo": "082007-5",
+      "displayName": "SHINERAY X30 VAN 1.3 16V Mec.",
+      "valorAtual": 33626,
+      "canonicalPath": "/fipe/shineray/x30-van-1-3-16v-mec-2014-082007-5/",
+      "ano": 2014,
+      "marca": "SHINERAY"
+    }
+  ],
+  "stats": {
+    "total": 2,
+    "precoMin": 33626,
+    "precoMax": 34467,
+    "anos": [
+      2015,
+      2014
+    ]
+  }
+}

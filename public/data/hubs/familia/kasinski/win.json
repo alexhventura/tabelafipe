@@ -1,0 +1,120 @@
+{
+  "tipo": "familia",
+  "slug": "win",
+  "canonicalPath": "/fipe/kasinski/win/",
+  "titulo": "KASINSKI win - Tabela FIPE",
+  "descricao": "10 versoes e anos do KASINSKI win na Tabela FIPE.",
+  "seo": {
+    "title": "KASINSKI win - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes KASINSKI win. 10 veiculos indexados.",
+    "h1": "KASINSKI win - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/kasinski/win/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "kasinski-win-electra-1000w-eletrica-2013-eletrico",
+      "fipeCodigo": "816035-0",
+      "displayName": "KASINSKI WIN ELECTRA 1000W (Elétrica)",
+      "valorAtual": 3832,
+      "canonicalPath": "/fipe/kasinski/win-electra-1000w-eletrica-2013-816035-0/",
+      "ano": 2013,
+      "marca": "KASINSKI"
+    },
+    {
+      "vehicleId": "kasinski-win-110-2013-gasolina",
+      "fipeCodigo": "816021-0",
+      "displayName": "KASINSKI WIN 110",
+      "valorAtual": 3986,
+      "canonicalPath": "/fipe/kasinski/win-110-2013-816021-0/",
+      "ano": 2013,
+      "marca": "KASINSKI"
+    },
+    {
+      "vehicleId": "kasinski-win-electra-1000w-eletrica-2012-eletrico",
+      "fipeCodigo": "816035-0",
+      "displayName": "KASINSKI WIN ELECTRA 1000W (Elétrica)",
+      "valorAtual": 3699,
+      "canonicalPath": "/fipe/kasinski/win-electra-1000w-eletrica-2012-816035-0/",
+      "ano": 2012,
+      "marca": "KASINSKI"
+    },
+    {
+      "vehicleId": "kasinski-win-110-2012-gasolina",
+      "fipeCodigo": "816021-0",
+      "displayName": "KASINSKI WIN 110",
+      "valorAtual": 3762,
+      "canonicalPath": "/fipe/kasinski/win-110-2012-816021-0/",
+      "ano": 2012,
+      "marca": "KASINSKI"
+    },
+    {
+      "vehicleId": "kasinski-win-110-2011-gasolina",
+      "fipeCodigo": "816021-0",
+      "displayName": "KASINSKI WIN 110",
+      "valorAtual": 3670,
+      "canonicalPath": "/fipe/kasinski/win-110-2011-816021-0/",
+      "ano": 2011,
+      "marca": "KASINSKI"
+    },
+    {
+      "vehicleId": "kasinski-win-110-2010-gasolina",
+      "fipeCodigo": "816021-0",
+      "displayName": "KASINSKI WIN 110",
+      "valorAtual": 2919,
+      "canonicalPath": "/fipe/kasinski/win-110-2010-816021-0/",
+      "ano": 2010,
+      "marca": "KASINSKI"
+    },
+    {
+      "vehicleId": "kasinski-win-110-2009-gasolina",
+      "fipeCodigo": "816021-0",
+      "displayName": "KASINSKI WIN 110",
+      "valorAtual": 2726,
+      "canonicalPath": "/fipe/kasinski/win-110-2009-816021-0/",
+      "ano": 2009,
+      "marca": "KASINSKI"
+    },
+    {
+      "vehicleId": "kasinski-win-110-2008-gasolina",
+      "fipeCodigo": "816021-0",
+      "displayName": "KASINSKI WIN 110",
+      "valorAtual": 2420,
+      "canonicalPath": "/fipe/kasinski/win-110-2008-816021-0/",
+      "ano": 2008,
+      "marca": "KASINSKI"
+    },
+    {
+      "vehicleId": "kasinski-win-110-2007-gasolina",
+      "fipeCodigo": "816021-0",
+      "displayName": "KASINSKI WIN 110",
+      "valorAtual": 2179,
+      "canonicalPath": "/fipe/kasinski/win-110-2007-816021-0/",
+      "ano": 2007,
+      "marca": "KASINSKI"
+    },
+    {
+      "vehicleId": "kasinski-win-110-2006-gasolina",
+      "fipeCodigo": "816021-0",
+      "displayName": "KASINSKI WIN 110",
+      "valorAtual": 1866,
+      "canonicalPath": "/fipe/kasinski/win-110-2006-816021-0/",
+      "ano": 2006,
+      "marca": "KASINSKI"
+    }
+  ],
+  "stats": {
+    "total": 10,
+    "precoMin": 1866,
+    "precoMax": 3986,
+    "anos": [
+      2013,
+      2012,
+      2011,
+      2010,
+      2009,
+      2008,
+      2007,
+      2006
+    ]
+  }
+}

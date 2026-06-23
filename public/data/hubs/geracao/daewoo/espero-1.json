@@ -1,0 +1,75 @@
+{
+  "tipo": "geracao",
+  "slug": "espero-1",
+  "canonicalPath": "/geracao/daewoo/espero-1/",
+  "titulo": "Geracao espero-1",
+  "descricao": "6 veiculos da geracao espero-1.",
+  "seo": {
+    "title": "Geracao espero-1 - Precos FIPE",
+    "description": "Veiculos da geracao espero-1 na Tabela FIPE.",
+    "h1": "Geracao espero-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/daewoo/espero-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "daewoo-espero-2-0-1994-gasolina",
+      "fipeCodigo": "030017-9",
+      "displayName": "Daewoo Espero 2.0",
+      "valorAtual": 5724,
+      "canonicalPath": "/fipe/daewoo/espero-2-0-1994-030017-9/",
+      "ano": 1994,
+      "marca": "Daewoo"
+    },
+    {
+      "vehicleId": "daewoo-espero-2-0-1995-gasolina",
+      "fipeCodigo": "030017-9",
+      "displayName": "Daewoo Espero 2.0",
+      "valorAtual": 6169,
+      "canonicalPath": "/fipe/daewoo/espero-2-0-1995-030017-9/",
+      "ano": 1995,
+      "marca": "Daewoo"
+    },
+    {
+      "vehicleId": "daewoo-espero-cd-dlx-2-0-1994-gasolina",
+      "fipeCodigo": "030001-2",
+      "displayName": "Daewoo Espero CD / DLX 2.0",
+      "valorAtual": 6419,
+      "canonicalPath": "/fipe/daewoo/espero-cd-dlx-2-0-1994-030001-2/",
+      "ano": 1994,
+      "marca": "Daewoo"
+    },
+    {
+      "vehicleId": "daewoo-espero-cd-dlx-2-0-1995-gasolina",
+      "fipeCodigo": "030001-2",
+      "displayName": "Daewoo Espero CD / DLX 2.0",
+      "valorAtual": 7794,
+      "canonicalPath": "/fipe/daewoo/espero-cd-dlx-2-0-1995-030001-2/",
+      "ano": 1995,
+      "marca": "Daewoo"
+    },
+    {
+      "vehicleId": "daewoo-espero-cd-dlx-2-0-1996-gasolina",
+      "fipeCodigo": "030001-2",
+      "displayName": "Daewoo Espero CD / DLX 2.0",
+      "valorAtual": 7989,
+      "canonicalPath": "/fipe/daewoo/espero-cd-dlx-2-0-1996-030001-2/",
+      "ano": 1996,
+      "marca": "Daewoo"
+    },
+    {
+      "vehicleId": "daewoo-espero-cd-dlx-2-0-1997-gasolina",
+      "fipeCodigo": "030001-2",
+      "displayName": "Daewoo Espero CD / DLX 2.0",
+      "valorAtual": 9437,
+      "canonicalPath": "/fipe/daewoo/espero-cd-dlx-2-0-1997-030001-2/",
+      "ano": 1997,
+      "marca": "Daewoo"
+    }
+  ],
+  "stats": {
+    "total": 6
+  },
+  "meta": {
+    "geracaoId": "espero-1"
+  }
+}

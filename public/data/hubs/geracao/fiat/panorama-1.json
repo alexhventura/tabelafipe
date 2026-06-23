@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "panorama-1",
+  "canonicalPath": "/geracao/fiat/panorama-1/",
+  "titulo": "Geracao panorama-1",
+  "descricao": "2 veiculos da geracao panorama-1.",
+  "seo": {
+    "title": "Geracao panorama-1 - Precos FIPE",
+    "description": "Veiculos da geracao panorama-1 na Tabela FIPE.",
+    "h1": "Geracao panorama-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/fiat/panorama-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "fiat-panorama-c-cl-1985-gasolina",
+      "fipeCodigo": "001116-9",
+      "displayName": "Fiat Panorama C/CL",
+      "valorAtual": 2074,
+      "canonicalPath": "/fipe/fiat/panorama-c-cl-1985-001116-9/",
+      "ano": 1985,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-panorama-c-cl-1986-gasolina",
+      "fipeCodigo": "001116-9",
+      "displayName": "Fiat Panorama C/CL",
+      "valorAtual": 2266,
+      "canonicalPath": "/fipe/fiat/panorama-c-cl-1986-001116-9/",
+      "ano": 1986,
+      "marca": "Fiat"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "panorama-1"
+  }
+}

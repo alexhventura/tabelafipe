@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "tico-1",
+  "canonicalPath": "/geracao/daewoo/tico-1/",
+  "titulo": "Geracao tico-1",
+  "descricao": "2 veiculos da geracao tico-1.",
+  "seo": {
+    "title": "Geracao tico-1 - Precos FIPE",
+    "description": "Veiculos da geracao tico-1 na Tabela FIPE.",
+    "h1": "Geracao tico-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/daewoo/tico-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "daewoo-tico-1994-gasolina",
+      "fipeCodigo": "030003-9",
+      "displayName": "Daewoo Tico",
+      "valorAtual": 3953,
+      "canonicalPath": "/fipe/daewoo/tico-1994-030003-9/",
+      "ano": 1994,
+      "marca": "Daewoo"
+    },
+    {
+      "vehicleId": "daewoo-tico-1995-gasolina",
+      "fipeCodigo": "030003-9",
+      "displayName": "Daewoo Tico",
+      "valorAtual": 4153,
+      "canonicalPath": "/fipe/daewoo/tico-1995-030003-9/",
+      "ano": 1995,
+      "marca": "Daewoo"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "tico-1"
+  }
+}

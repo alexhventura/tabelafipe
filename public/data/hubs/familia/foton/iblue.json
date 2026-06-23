@@ -1,0 +1,82 @@
+{
+  "tipo": "familia",
+  "slug": "iblue",
+  "canonicalPath": "/fipe/foton/iblue/",
+  "titulo": "FOTON iblue - Tabela FIPE",
+  "descricao": "6 versoes e anos do FOTON iblue na Tabela FIPE.",
+  "seo": {
+    "title": "FOTON iblue - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes FOTON iblue. 6 veiculos indexados.",
+    "h1": "FOTON iblue - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/foton/iblue/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "foton-iblue-ev-6t-4x2-eletrico-2026-eletrico",
+      "fipeCodigo": "526008-6",
+      "displayName": "FOTON IBLUE EV-6T 4X2 (Elétrico)",
+      "valorAtual": 375499,
+      "canonicalPath": "/fipe/foton/iblue-ev-6t-4x2-eletrico-2026-526008-6/",
+      "ano": 2026,
+      "marca": "FOTON"
+    },
+    {
+      "vehicleId": "foton-iblue-ev-6t-4x2-eletrico-2025-eletrico",
+      "fipeCodigo": "526008-6",
+      "displayName": "FOTON IBLUE EV-6T 4X2 (Elétrico)",
+      "valorAtual": 364648,
+      "canonicalPath": "/fipe/foton/iblue-ev-6t-4x2-eletrico-2025-526008-6/",
+      "ano": 2025,
+      "marca": "FOTON"
+    },
+    {
+      "vehicleId": "foton-iblue-ev-6t-4x2-eletrico-2024-eletrico",
+      "fipeCodigo": "526008-6",
+      "displayName": "FOTON IBLUE EV-6T 4X2 (Elétrico)",
+      "valorAtual": 337606,
+      "canonicalPath": "/fipe/foton/iblue-ev-6t-4x2-eletrico-2024-526008-6/",
+      "ano": 2024,
+      "marca": "FOTON"
+    },
+    {
+      "vehicleId": "foton-iblue-ev-6t-4x2-eletrico-2023-eletrico",
+      "fipeCodigo": "526008-6",
+      "displayName": "FOTON IBLUE EV-6T 4X2 (Elétrico)",
+      "valorAtual": 329035,
+      "canonicalPath": "/fipe/foton/iblue-ev-6t-4x2-eletrico-2023-526008-6/",
+      "ano": 2023,
+      "marca": "FOTON"
+    },
+    {
+      "vehicleId": "foton-iblue-ev-6t-4x2-eletrico-2022-eletrico",
+      "fipeCodigo": "526008-6",
+      "displayName": "FOTON IBLUE EV-6T 4X2 (Elétrico)",
+      "valorAtual": 311332,
+      "canonicalPath": "/fipe/foton/iblue-ev-6t-4x2-eletrico-2022-526008-6/",
+      "ano": 2022,
+      "marca": "FOTON"
+    },
+    {
+      "vehicleId": "foton-iblue-ev-6t-4x2-eletrico-0-eletrico",
+      "fipeCodigo": "526008-6",
+      "displayName": "FOTON IBLUE EV-6T 4X2 (Elétrico)",
+      "valorAtual": 448666,
+      "canonicalPath": "/fipe/foton/iblue-ev-6t-4x2-eletrico-0-526008-6/",
+      "ano": 0,
+      "marca": "FOTON"
+    }
+  ],
+  "stats": {
+    "total": 6,
+    "precoMin": 311332,
+    "precoMax": 448666,
+    "anos": [
+      2026,
+      2025,
+      2024,
+      2023,
+      2022,
+      0
+    ]
+  }
+}

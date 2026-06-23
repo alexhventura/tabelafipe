@@ -1,0 +1,102 @@
+{
+  "tipo": "geracao",
+  "slug": "rs-1",
+  "canonicalPath": "/geracao/aprilia/rs-1/",
+  "titulo": "Geracao rs-1",
+  "descricao": "9 veiculos da geracao rs-1.",
+  "seo": {
+    "title": "Geracao rs-1 - Precos FIPE",
+    "description": "Veiculos da geracao rs-1 na Tabela FIPE.",
+    "h1": "Geracao rs-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/aprilia/rs-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "aprilia-rs-250cc-1998-gasolina",
+      "fipeCodigo": "802007-8",
+      "displayName": "APRILIA RS 250cc",
+      "valorAtual": 11128,
+      "canonicalPath": "/fipe/aprilia/rs-250cc-1998-802007-8/",
+      "ano": 1998,
+      "marca": "APRILIA"
+    },
+    {
+      "vehicleId": "aprilia-rs-250cc-1999-gasolina",
+      "fipeCodigo": "802007-8",
+      "displayName": "APRILIA RS 250cc",
+      "valorAtual": 11854,
+      "canonicalPath": "/fipe/aprilia/rs-250cc-1999-802007-8/",
+      "ano": 1999,
+      "marca": "APRILIA"
+    },
+    {
+      "vehicleId": "aprilia-rs-250cc-2000-gasolina",
+      "fipeCodigo": "802007-8",
+      "displayName": "APRILIA RS 250cc",
+      "valorAtual": 12820,
+      "canonicalPath": "/fipe/aprilia/rs-250cc-2000-802007-8/",
+      "ano": 2000,
+      "marca": "APRILIA"
+    },
+    {
+      "vehicleId": "aprilia-rs-50cc-1998-gasolina",
+      "fipeCodigo": "802008-6",
+      "displayName": "APRILIA RS 50cc",
+      "valorAtual": 4288,
+      "canonicalPath": "/fipe/aprilia/rs-50cc-1998-802008-6/",
+      "ano": 1998,
+      "marca": "APRILIA"
+    },
+    {
+      "vehicleId": "aprilia-rs-50cc-1999-gasolina",
+      "fipeCodigo": "802008-6",
+      "displayName": "APRILIA RS 50cc",
+      "valorAtual": 4969,
+      "canonicalPath": "/fipe/aprilia/rs-50cc-1999-802008-6/",
+      "ano": 1999,
+      "marca": "APRILIA"
+    },
+    {
+      "vehicleId": "aprilia-rs-50cc-2000-gasolina",
+      "fipeCodigo": "802008-6",
+      "displayName": "APRILIA RS 50cc",
+      "valorAtual": 5137,
+      "canonicalPath": "/fipe/aprilia/rs-50cc-2000-802008-6/",
+      "ano": 2000,
+      "marca": "APRILIA"
+    },
+    {
+      "vehicleId": "aprilia-rs-50cc-2001-gasolina",
+      "fipeCodigo": "802008-6",
+      "displayName": "APRILIA RS 50cc",
+      "valorAtual": 5747,
+      "canonicalPath": "/fipe/aprilia/rs-50cc-2001-802008-6/",
+      "ano": 2001,
+      "marca": "APRILIA"
+    },
+    {
+      "vehicleId": "audi-rs-e-tron-gt-quattro-aut-eletrico-0-eletrico",
+      "fipeCodigo": "008274-0",
+      "displayName": "Audi RS E-TRON GT Quattro Aut. (Elétrico)",
+      "valorAtual": 1106193,
+      "canonicalPath": "/fipe/audi/rs-e-tron-gt-quattro-aut-eletrico-0-008274-0/",
+      "ano": 0,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-rs-q8-perfornace-4-0-bi-tb-v8-tfsi-quattro-tiptro-0-gasolina",
+      "fipeCodigo": "008320-8",
+      "displayName": "Audi RS Q8 Perfornace 4.0 Bi-TB V8 TFSI Quattro Tiptro.",
+      "valorAtual": 1365848,
+      "canonicalPath": "/fipe/audi/rs-q8-perfornace-4-0-bi-tb-v8-tfsi-quattro-tiptro-0-008320-8/",
+      "ano": 0,
+      "marca": "Audi"
+    }
+  ],
+  "stats": {
+    "total": 9
+  },
+  "meta": {
+    "geracaoId": "rs-1"
+  }
+}

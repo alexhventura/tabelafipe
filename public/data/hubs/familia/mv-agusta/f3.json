@@ -1,0 +1,52 @@
+{
+  "tipo": "familia",
+  "slug": "f3",
+  "canonicalPath": "/fipe/mv-agusta/f3/",
+  "titulo": "MV AGUSTA f3 - Tabela FIPE",
+  "descricao": "3 versoes e anos do MV AGUSTA f3 na Tabela FIPE.",
+  "seo": {
+    "title": "MV AGUSTA f3 - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes MV AGUSTA f3. 3 veiculos indexados.",
+    "h1": "MV AGUSTA f3 - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/mv-agusta/f3/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "mv-agusta-f3-800-2016-gasolina",
+      "fipeCodigo": "839014-2",
+      "displayName": "MV AGUSTA F3 800",
+      "valorAtual": 42701,
+      "canonicalPath": "/fipe/mv-agusta/f3-800-2016-839014-2/",
+      "ano": 2016,
+      "marca": "MV AGUSTA"
+    },
+    {
+      "vehicleId": "mv-agusta-f3-800-2015-gasolina",
+      "fipeCodigo": "839014-2",
+      "displayName": "MV AGUSTA F3 800",
+      "valorAtual": 39299,
+      "canonicalPath": "/fipe/mv-agusta/f3-800-2015-839014-2/",
+      "ano": 2015,
+      "marca": "MV AGUSTA"
+    },
+    {
+      "vehicleId": "mv-agusta-f3-800-2014-gasolina",
+      "fipeCodigo": "839014-2",
+      "displayName": "MV AGUSTA F3 800",
+      "valorAtual": 36478,
+      "canonicalPath": "/fipe/mv-agusta/f3-800-2014-839014-2/",
+      "ano": 2014,
+      "marca": "MV AGUSTA"
+    }
+  ],
+  "stats": {
+    "total": 3,
+    "precoMin": 36478,
+    "precoMax": 42701,
+    "anos": [
+      2016,
+      2015,
+      2014
+    ]
+  }
+}

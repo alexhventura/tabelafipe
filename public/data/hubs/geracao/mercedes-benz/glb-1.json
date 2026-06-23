@@ -1,0 +1,48 @@
+{
+  "tipo": "geracao",
+  "slug": "glb-1",
+  "canonicalPath": "/geracao/mercedes-benz/glb-1/",
+  "titulo": "Geracao glb-1",
+  "descricao": "3 veiculos da geracao glb-1.",
+  "seo": {
+    "title": "Geracao glb-1 - Precos FIPE",
+    "description": "Veiculos da geracao glb-1 na Tabela FIPE.",
+    "h1": "Geracao glb-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/mercedes-benz/glb-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "mercedes-benz-glb-220-4m-amg-line-2-0-tb-aut-hib-0-hibrido",
+      "fipeCodigo": "021531-7",
+      "displayName": "Mercedes-Benz GLB 220 4M AMG Line 2.0 TB Aut. (Híb.)",
+      "valorAtual": 409163,
+      "canonicalPath": "/fipe/mercedes-benz/glb-220-4m-amg-line-2-0-tb-aut-hib-0-021531-7/",
+      "ano": 0,
+      "marca": "Mercedes-Benz"
+    },
+    {
+      "vehicleId": "mercedes-benz-glb-220-4m-progressive-2-0-tb-aut-hib-0-hibrido",
+      "fipeCodigo": "021530-9",
+      "displayName": "Mercedes-Benz GLB 220 4M Progressive 2.0 TB Aut. (Híb)",
+      "valorAtual": 381527,
+      "canonicalPath": "/fipe/mercedes-benz/glb-220-4m-progressive-2-0-tb-aut-hib-0-021530-9/",
+      "ano": 0,
+      "marca": "Mercedes-Benz"
+    },
+    {
+      "vehicleId": "mercedes-benz-glb-35-amg-4matic-2-0-turbo-aut-hib-0-hibrido",
+      "fipeCodigo": "021520-1",
+      "displayName": "Mercedes-Benz GLB 35 AMG 4MATIC 2.0 Turbo Aut. (Híb.)",
+      "valorAtual": 557900,
+      "canonicalPath": "/fipe/mercedes-benz/glb-35-amg-4matic-2-0-turbo-aut-hib-0-021520-1/",
+      "ano": 0,
+      "marca": "Mercedes-Benz"
+    }
+  ],
+  "stats": {
+    "total": 3
+  },
+  "meta": {
+    "geracaoId": "glb-1"
+  }
+}

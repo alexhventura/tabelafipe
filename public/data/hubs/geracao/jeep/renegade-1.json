@@ -1,0 +1,120 @@
+{
+  "tipo": "geracao",
+  "slug": "renegade-1",
+  "canonicalPath": "/geracao/jeep/renegade-1/",
+  "titulo": "Geracao renegade-1",
+  "descricao": "11 veiculos da geracao renegade-1.",
+  "seo": {
+    "title": "Geracao renegade-1 - Precos FIPE",
+    "description": "Veiculos da geracao renegade-1 na Tabela FIPE.",
+    "h1": "Geracao renegade-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/jeep/renegade-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "jeep-renegade-altitude-t270-1-3-tb-flex-aut-0-flex",
+      "fipeCodigo": "017105-0",
+      "displayName": "Jeep Renegade Altitude T270 1.3 TB Flex Aut.",
+      "valorAtual": 131523,
+      "canonicalPath": "/fipe/jeep/renegade-altitude-t270-1-3-tb-flex-aut-0-017105-0/",
+      "ano": 0,
+      "marca": "Jeep"
+    },
+    {
+      "vehicleId": "jeep-renegade-lo-night-eagle-1-3-tb-flex-aut-0-flex",
+      "fipeCodigo": "017102-6",
+      "displayName": "Jeep Renegade Lo. Night Eagle 1.3 TB Flex Aut",
+      "valorAtual": 163231,
+      "canonicalPath": "/fipe/jeep/renegade-lo-night-eagle-1-3-tb-flex-aut-0-017102-6/",
+      "ano": 0,
+      "marca": "Jeep"
+    },
+    {
+      "vehicleId": "jeep-renegade-long-t270-1-3-tb-4x2-flex-aut-0-flex",
+      "fipeCodigo": "017088-7",
+      "displayName": "Jeep Renegade Long. T270 1.3 TB 4x2 Flex Aut.",
+      "valorAtual": 159903,
+      "canonicalPath": "/fipe/jeep/renegade-long-t270-1-3-tb-4x2-flex-aut-0-017088-7/",
+      "ano": 0,
+      "marca": "Jeep"
+    },
+    {
+      "vehicleId": "jeep-renegade-longitude-t270-1-3-turbo-4x2-aut-0-hibrido",
+      "fipeCodigo": "017108-5",
+      "displayName": "Jeep Renegade Longitude T270 1.3 Turbo 4x2 Aut.",
+      "valorAtual": 159241,
+      "canonicalPath": "/fipe/jeep/renegade-longitude-t270-1-3-turbo-4x2-aut-0-017108-5/",
+      "ano": 0,
+      "marca": "Jeep"
+    },
+    {
+      "vehicleId": "jeep-renegade-sahara-t270-1-3-tb-4x2-flex-aut-0-flex",
+      "fipeCodigo": "017100-0",
+      "displayName": "Jeep Renegade SAHARA T270 1.3 TB 4x2 Flex Aut",
+      "valorAtual": 170644,
+      "canonicalPath": "/fipe/jeep/renegade-sahara-t270-1-3-tb-4x2-flex-aut-0-017100-0/",
+      "ano": 0,
+      "marca": "Jeep"
+    },
+    {
+      "vehicleId": "jeep-renegade-sahara-t270-1-3-turbo-4x2-aut-0-hibrido",
+      "fipeCodigo": "017107-7",
+      "displayName": "Jeep Renegade SAHARA T270 1.3 Turbo 4x2 Aut.",
+      "valorAtual": 176468,
+      "canonicalPath": "/fipe/jeep/renegade-sahara-t270-1-3-turbo-4x2-aut-0-017107-7/",
+      "ano": 0,
+      "marca": "Jeep"
+    },
+    {
+      "vehicleId": "jeep-renegade-sport-altitude-1-3-tb-flex-aut-0-flex",
+      "fipeCodigo": "017103-4",
+      "displayName": "Jeep Renegade Sport Altitude 1.3 TB Flex Aut.",
+      "valorAtual": 134307,
+      "canonicalPath": "/fipe/jeep/renegade-sport-altitude-1-3-tb-flex-aut-0-017103-4/",
+      "ano": 0,
+      "marca": "Jeep"
+    },
+    {
+      "vehicleId": "jeep-renegade-sport-t270-1-3-tb-4x2-flex-aut-0-flex",
+      "fipeCodigo": "017085-2",
+      "displayName": "Jeep Renegade Sport T270 1.3 TB 4x2 Flex Aut.",
+      "valorAtual": 121527,
+      "canonicalPath": "/fipe/jeep/renegade-sport-t270-1-3-tb-4x2-flex-aut-0-017085-2/",
+      "ano": 0,
+      "marca": "Jeep"
+    },
+    {
+      "vehicleId": "jeep-renegade-t270-1-3-tb-4x2-flex-aut-0-flex",
+      "fipeCodigo": "017092-5",
+      "displayName": "Jeep Renegade T270 1.3 TB 4x2 Flex Aut.",
+      "valorAtual": 119727,
+      "canonicalPath": "/fipe/jeep/renegade-t270-1-3-tb-4x2-flex-aut-0-017092-5/",
+      "ano": 0,
+      "marca": "Jeep"
+    },
+    {
+      "vehicleId": "jeep-renegade-trailhawk-t270-1-3-tb-flex-aut-0-flex",
+      "fipeCodigo": "017086-0",
+      "displayName": "Jeep Renegade Trailhawk T270 1.3 TB Flex Aut.",
+      "valorAtual": 162701,
+      "canonicalPath": "/fipe/jeep/renegade-trailhawk-t270-1-3-tb-flex-aut-0-017086-0/",
+      "ano": 0,
+      "marca": "Jeep"
+    },
+    {
+      "vehicleId": "jeep-renegade-willys-t270-1-3-tb-4x4-flex-aut-0-flex",
+      "fipeCodigo": "017101-8",
+      "displayName": "Jeep Renegade Willys T270 1.3 TB 4x4 Flex Aut",
+      "valorAtual": 189892,
+      "canonicalPath": "/fipe/jeep/renegade-willys-t270-1-3-tb-4x4-flex-aut-0-017101-8/",
+      "ano": 0,
+      "marca": "Jeep"
+    }
+  ],
+  "stats": {
+    "total": 11
+  },
+  "meta": {
+    "geracaoId": "renegade-1"
+  }
+}

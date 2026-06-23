@@ -1,0 +1,57 @@
+{
+  "tipo": "geracao",
+  "slug": "worker-2",
+  "canonicalPath": "/geracao/shineray/worker-2/",
+  "titulo": "Geracao worker-2",
+  "descricao": "4 veiculos da geracao worker-2.",
+  "seo": {
+    "title": "Geracao worker-2 - Precos FIPE",
+    "description": "Veiculos da geracao worker-2 na Tabela FIPE.",
+    "h1": "Geracao worker-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/shineray/worker-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "shineray-worker-125-2022-gasolina",
+      "fipeCodigo": "850027-4",
+      "displayName": "SHINERAY WORKER 125",
+      "valorAtual": 6417,
+      "canonicalPath": "/fipe/shineray/worker-125-2022-850027-4/",
+      "ano": 2022,
+      "marca": "SHINERAY"
+    },
+    {
+      "vehicleId": "shineray-worker-125-2023-gasolina",
+      "fipeCodigo": "850027-4",
+      "displayName": "SHINERAY WORKER 125",
+      "valorAtual": 7613,
+      "canonicalPath": "/fipe/shineray/worker-125-2023-850027-4/",
+      "ano": 2023,
+      "marca": "SHINERAY"
+    },
+    {
+      "vehicleId": "shineray-worker-125-2024-gasolina",
+      "fipeCodigo": "850027-4",
+      "displayName": "SHINERAY WORKER 125",
+      "valorAtual": 7894,
+      "canonicalPath": "/fipe/shineray/worker-125-2024-850027-4/",
+      "ano": 2024,
+      "marca": "SHINERAY"
+    },
+    {
+      "vehicleId": "shineray-worker-150-2024-gasolina",
+      "fipeCodigo": "850035-5",
+      "displayName": "SHINERAY WORKER 150",
+      "valorAtual": 7978,
+      "canonicalPath": "/fipe/shineray/worker-150-2024-850035-5/",
+      "ano": 2024,
+      "marca": "SHINERAY"
+    }
+  ],
+  "stats": {
+    "total": 4
+  },
+  "meta": {
+    "geracaoId": "worker-2"
+  }
+}

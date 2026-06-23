@@ -1,0 +1,57 @@
+{
+  "tipo": "geracao",
+  "slug": "jumpy-1",
+  "canonicalPath": "/geracao/citroen/jumpy-1/",
+  "titulo": "Geracao jumpy-1",
+  "descricao": "4 veiculos da geracao jumpy-1.",
+  "seo": {
+    "title": "Geracao jumpy-1 - Precos FIPE",
+    "description": "Veiculos da geracao jumpy-1 na Tabela FIPE.",
+    "h1": "Geracao jumpy-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/citroen/jumpy-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "citroen-jumpy-2-2-cargo-turbo-0-diesel",
+      "fipeCodigo": "011244-5",
+      "displayName": "Citroën Jumpy 2.2  Cargo Turbo",
+      "valorAtual": 205093,
+      "canonicalPath": "/fipe/citroen/jumpy-2-2-cargo-turbo-0-011244-5/",
+      "ano": 0,
+      "marca": "Citroën"
+    },
+    {
+      "vehicleId": "citroen-jumpy-2-2-vitre-turbo-0-diesel",
+      "fipeCodigo": "011245-3",
+      "displayName": "Citroën Jumpy 2.2  Vitré Turbo",
+      "valorAtual": 207764,
+      "canonicalPath": "/fipe/citroen/jumpy-2-2-vitre-turbo-0-011245-3/",
+      "ano": 0,
+      "marca": "Citroën"
+    },
+    {
+      "vehicleId": "citroen-jumpy-cargo-1-5-turbo-diesel-0-diesel",
+      "fipeCodigo": "011216-0",
+      "displayName": "Citroën Jumpy Cargo 1.5 Turbo Diesel",
+      "valorAtual": 188534,
+      "canonicalPath": "/fipe/citroen/jumpy-cargo-1-5-turbo-diesel-0-011216-0/",
+      "ano": 0,
+      "marca": "Citroën"
+    },
+    {
+      "vehicleId": "citroen-jumpy-vitre-1-5-turbo-diesel-0-diesel",
+      "fipeCodigo": "011217-8",
+      "displayName": "Citroën Jumpy Vitré 1.5 Turbo Diesel",
+      "valorAtual": 198453,
+      "canonicalPath": "/fipe/citroen/jumpy-vitre-1-5-turbo-diesel-0-011217-8/",
+      "ano": 0,
+      "marca": "Citroën"
+    }
+  ],
+  "stats": {
+    "total": 4
+  },
+  "meta": {
+    "geracaoId": "jumpy-1"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "vtx-1",
+  "canonicalPath": "/geracao/honda/vtx-1/",
+  "titulo": "Geracao vtx-1",
+  "descricao": "2 veiculos da geracao vtx-1.",
+  "seo": {
+    "title": "Geracao vtx-1 - Precos FIPE",
+    "description": "Veiculos da geracao vtx-1 na Tabela FIPE.",
+    "h1": "Geracao vtx-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/honda/vtx-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "honda-vtx-1800r-1800s-1800c-1795cc-2002-gasolina",
+      "fipeCodigo": "811063-8",
+      "displayName": "HONDA VTX 1800R/ 1800S/ 1800C 1795cc",
+      "valorAtual": 27876,
+      "canonicalPath": "/fipe/honda/vtx-1800r-1800s-1800c-1795cc-2002-811063-8/",
+      "ano": 2002,
+      "marca": "HONDA"
+    },
+    {
+      "vehicleId": "ventane-motors-vtx-3000w-eletrica-0-eletrico",
+      "fipeCodigo": "896001-1",
+      "displayName": "Ventane Motors VTX 3000W (Elétrica)",
+      "valorAtual": 16500,
+      "canonicalPath": "/fipe/ventane-motors/vtx-3000w-eletrica-0-896001-1/",
+      "ano": 0,
+      "marca": "Ventane Motors"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "vtx-1"
+  }
+}

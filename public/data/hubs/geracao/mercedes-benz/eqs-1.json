@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "eqs-1",
+  "canonicalPath": "/geracao/mercedes-benz/eqs-1/",
+  "titulo": "Geracao eqs-1",
+  "descricao": "2 veiculos da geracao eqs-1.",
+  "seo": {
+    "title": "Geracao eqs-1 - Precos FIPE",
+    "description": "Veiculos da geracao eqs-1 na Tabela FIPE.",
+    "h1": "Geracao eqs-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/mercedes-benz/eqs-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "mercedes-benz-eqs-450-suv-4matic-eletrico-0-eletrico",
+      "fipeCodigo": "021535-0",
+      "displayName": "Mercedes-Benz EQS 450 SUV 4MATIC ( Elétrico)",
+      "valorAtual": 939900,
+      "canonicalPath": "/fipe/mercedes-benz/eqs-450-suv-4matic-eletrico-0-021535-0/",
+      "ano": 0,
+      "marca": "Mercedes-Benz"
+    },
+    {
+      "vehicleId": "mercedes-benz-eqs-53-amg-4matic-eletrico-0-eletrico",
+      "fipeCodigo": "021482-5",
+      "displayName": "Mercedes-Benz EQS 53 AMG 4MATIC+ ( Elétrico)",
+      "valorAtual": 1455919,
+      "canonicalPath": "/fipe/mercedes-benz/eqs-53-amg-4matic-eletrico-0-021482-5/",
+      "ano": 0,
+      "marca": "Mercedes-Benz"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "eqs-1"
+  }
+}

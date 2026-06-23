@@ -1,0 +1,42 @@
+{
+  "tipo": "familia",
+  "slug": "trajet",
+  "canonicalPath": "/fipe/hyundai/trajet/",
+  "titulo": "Hyundai trajet - Tabela FIPE",
+  "descricao": "2 versoes e anos do Hyundai trajet na Tabela FIPE.",
+  "seo": {
+    "title": "Hyundai trajet - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes Hyundai trajet. 2 veiculos indexados.",
+    "h1": "Hyundai trajet - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/hyundai/trajet/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "hyundai-trajet-gls-2-7-v6-24v-179cv-aut-2001-gasolina",
+      "fipeCodigo": "015047-9",
+      "displayName": "Hyundai Trajet GLS 2.7 V6 24v 179cv Aut.",
+      "valorAtual": 17144,
+      "canonicalPath": "/fipe/hyundai/trajet-gls-2-7-v6-24v-179cv-aut-2001-015047-9/",
+      "ano": 2001,
+      "marca": "Hyundai"
+    },
+    {
+      "vehicleId": "hyundai-trajet-gls-2-7-v6-24v-179cv-aut-2000-gasolina",
+      "fipeCodigo": "015047-9",
+      "displayName": "Hyundai Trajet GLS 2.7 V6 24v 179cv Aut.",
+      "valorAtual": 16198,
+      "canonicalPath": "/fipe/hyundai/trajet-gls-2-7-v6-24v-179cv-aut-2000-015047-9/",
+      "ano": 2000,
+      "marca": "Hyundai"
+    }
+  ],
+  "stats": {
+    "total": 2,
+    "precoMin": 16198,
+    "precoMax": 17144,
+    "anos": [
+      2001,
+      2000
+    ]
+  }
+}

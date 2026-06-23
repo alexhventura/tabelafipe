@@ -1,0 +1,108 @@
+{
+  "tipo": "familia",
+  "slug": "720s",
+  "canonicalPath": "/fipe/mclaren/720s/",
+  "titulo": "Mclaren 720s - Tabela FIPE",
+  "descricao": "9 versoes e anos do Mclaren 720s na Tabela FIPE.",
+  "seo": {
+    "title": "Mclaren 720s - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes Mclaren 720s. 9 veiculos indexados.",
+    "h1": "Mclaren 720s - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/mclaren/720s/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "mclaren-720s-coupe-4-0-bi-turbo-v8-2p-2022-gasolina",
+      "fipeCodigo": "090004-4",
+      "displayName": "Mclaren 720S Coupe 4.0 Bi-Turbo V8 2p",
+      "valorAtual": 3414126,
+      "canonicalPath": "/fipe/mclaren/720s-coupe-4-0-bi-turbo-v8-2p-2022-090004-4/",
+      "ano": 2022,
+      "marca": "Mclaren"
+    },
+    {
+      "vehicleId": "mclaren-720s-spider-4-0-bi-turbo-v8-2p-2022-gasolina",
+      "fipeCodigo": "090007-9",
+      "displayName": "Mclaren 720S Spider 4.0 Bi-Turbo V8 2p",
+      "valorAtual": 3725085,
+      "canonicalPath": "/fipe/mclaren/720s-spider-4-0-bi-turbo-v8-2p-2022-090007-9/",
+      "ano": 2022,
+      "marca": "Mclaren"
+    },
+    {
+      "vehicleId": "mclaren-720s-coupe-4-0-bi-turbo-v8-2p-2021-gasolina",
+      "fipeCodigo": "090004-4",
+      "displayName": "Mclaren 720S Coupe 4.0 Bi-Turbo V8 2p",
+      "valorAtual": 3321293,
+      "canonicalPath": "/fipe/mclaren/720s-coupe-4-0-bi-turbo-v8-2p-2021-090004-4/",
+      "ano": 2021,
+      "marca": "Mclaren"
+    },
+    {
+      "vehicleId": "mclaren-720s-spider-4-0-bi-turbo-v8-2p-2021-gasolina",
+      "fipeCodigo": "090007-9",
+      "displayName": "Mclaren 720S Spider 4.0 Bi-Turbo V8 2p",
+      "valorAtual": 3440724,
+      "canonicalPath": "/fipe/mclaren/720s-spider-4-0-bi-turbo-v8-2p-2021-090007-9/",
+      "ano": 2021,
+      "marca": "Mclaren"
+    },
+    {
+      "vehicleId": "mclaren-720s-coupe-4-0-bi-turbo-v8-2p-2020-gasolina",
+      "fipeCodigo": "090004-4",
+      "displayName": "Mclaren 720S Coupe 4.0 Bi-Turbo V8 2p",
+      "valorAtual": 3156477,
+      "canonicalPath": "/fipe/mclaren/720s-coupe-4-0-bi-turbo-v8-2p-2020-090004-4/",
+      "ano": 2020,
+      "marca": "Mclaren"
+    },
+    {
+      "vehicleId": "mclaren-720s-spider-4-0-bi-turbo-v8-2p-2020-gasolina",
+      "fipeCodigo": "090007-9",
+      "displayName": "Mclaren 720S Spider 4.0 Bi-Turbo V8 2p",
+      "valorAtual": 3356803,
+      "canonicalPath": "/fipe/mclaren/720s-spider-4-0-bi-turbo-v8-2p-2020-090007-9/",
+      "ano": 2020,
+      "marca": "Mclaren"
+    },
+    {
+      "vehicleId": "mclaren-720s-coupe-4-0-bi-turbo-v8-2p-2019-gasolina",
+      "fipeCodigo": "090004-4",
+      "displayName": "Mclaren 720S Coupe 4.0 Bi-Turbo V8 2p",
+      "valorAtual": 2797973,
+      "canonicalPath": "/fipe/mclaren/720s-coupe-4-0-bi-turbo-v8-2p-2019-090004-4/",
+      "ano": 2019,
+      "marca": "Mclaren"
+    },
+    {
+      "vehicleId": "mclaren-720s-spider-4-0-bi-turbo-v8-2p-2019-gasolina",
+      "fipeCodigo": "090007-9",
+      "displayName": "Mclaren 720S Spider 4.0 Bi-Turbo V8 2p",
+      "valorAtual": 2934880,
+      "canonicalPath": "/fipe/mclaren/720s-spider-4-0-bi-turbo-v8-2p-2019-090007-9/",
+      "ano": 2019,
+      "marca": "Mclaren"
+    },
+    {
+      "vehicleId": "mclaren-720s-coupe-4-0-bi-turbo-v8-2p-2018-gasolina",
+      "fipeCodigo": "090004-4",
+      "displayName": "Mclaren 720S Coupe 4.0 Bi-Turbo V8 2p",
+      "valorAtual": 2604342,
+      "canonicalPath": "/fipe/mclaren/720s-coupe-4-0-bi-turbo-v8-2p-2018-090004-4/",
+      "ano": 2018,
+      "marca": "Mclaren"
+    }
+  ],
+  "stats": {
+    "total": 9,
+    "precoMin": 2604342,
+    "precoMax": 3725085,
+    "anos": [
+      2022,
+      2021,
+      2020,
+      2019,
+      2018
+    ]
+  }
+}

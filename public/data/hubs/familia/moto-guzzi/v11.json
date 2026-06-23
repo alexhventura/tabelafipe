@@ -1,0 +1,62 @@
+{
+  "tipo": "familia",
+  "slug": "v11",
+  "canonicalPath": "/fipe/moto-guzzi/v11/",
+  "titulo": "MOTO GUZZI v11 - Tabela FIPE",
+  "descricao": "4 versoes e anos do MOTO GUZZI v11 na Tabela FIPE.",
+  "seo": {
+    "title": "MOTO GUZZI v11 - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes MOTO GUZZI v11. 4 veiculos indexados.",
+    "h1": "MOTO GUZZI v11 - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/moto-guzzi/v11/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "moto-guzzi-v11-sport-le-mans-1064cc-2003-gasolina",
+      "fipeCodigo": "833001-8",
+      "displayName": "MOTO GUZZI V11 SPORT/ LE MANS 1064cc",
+      "valorAtual": 56242,
+      "canonicalPath": "/fipe/moto-guzzi/v11-sport-le-mans-1064cc-2003-833001-8/",
+      "ano": 2003,
+      "marca": "MOTO GUZZI"
+    },
+    {
+      "vehicleId": "moto-guzzi-v11-sport-le-mans-1064cc-2002-gasolina",
+      "fipeCodigo": "833001-8",
+      "displayName": "MOTO GUZZI V11 SPORT/ LE MANS 1064cc",
+      "valorAtual": 54819,
+      "canonicalPath": "/fipe/moto-guzzi/v11-sport-le-mans-1064cc-2002-833001-8/",
+      "ano": 2002,
+      "marca": "MOTO GUZZI"
+    },
+    {
+      "vehicleId": "moto-guzzi-v11-sport-le-mans-1064cc-2001-gasolina",
+      "fipeCodigo": "833001-8",
+      "displayName": "MOTO GUZZI V11 SPORT/ LE MANS 1064cc",
+      "valorAtual": 52920,
+      "canonicalPath": "/fipe/moto-guzzi/v11-sport-le-mans-1064cc-2001-833001-8/",
+      "ano": 2001,
+      "marca": "MOTO GUZZI"
+    },
+    {
+      "vehicleId": "moto-guzzi-v11-sport-le-mans-1064cc-2000-gasolina",
+      "fipeCodigo": "833001-8",
+      "displayName": "MOTO GUZZI V11 SPORT/ LE MANS 1064cc",
+      "valorAtual": 51528,
+      "canonicalPath": "/fipe/moto-guzzi/v11-sport-le-mans-1064cc-2000-833001-8/",
+      "ano": 2000,
+      "marca": "MOTO GUZZI"
+    }
+  ],
+  "stats": {
+    "total": 4,
+    "precoMin": 51528,
+    "precoMax": 56242,
+    "anos": [
+      2003,
+      2002,
+      2001,
+      2000
+    ]
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "tipo": "familia",
+  "slug": "vite",
+  "canonicalPath": "/fipe/miza/vite/",
+  "titulo": "MIZA vite - Tabela FIPE",
+  "descricao": "3 versoes e anos do MIZA vite na Tabela FIPE.",
+  "seo": {
+    "title": "MIZA vite - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes MIZA vite. 3 veiculos indexados.",
+    "h1": "MIZA vite - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/miza/vite/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "miza-vite-lj-150t-7-2011-gasolina",
+      "fipeCodigo": "848005-2",
+      "displayName": "MIZA VITE LJ 150T-7",
+      "valorAtual": 2754,
+      "canonicalPath": "/fipe/miza/vite-lj-150t-7-2011-848005-2/",
+      "ano": 2011,
+      "marca": "MIZA"
+    },
+    {
+      "vehicleId": "miza-vite-lj-150t-7-2008-gasolina",
+      "fipeCodigo": "848005-2",
+      "displayName": "MIZA VITE LJ 150T-7",
+      "valorAtual": 2452,
+      "canonicalPath": "/fipe/miza/vite-lj-150t-7-2008-848005-2/",
+      "ano": 2008,
+      "marca": "MIZA"
+    },
+    {
+      "vehicleId": "miza-vite-lj-150t-7-2007-gasolina",
+      "fipeCodigo": "848005-2",
+      "displayName": "MIZA VITE LJ 150T-7",
+      "valorAtual": 2138,
+      "canonicalPath": "/fipe/miza/vite-lj-150t-7-2007-848005-2/",
+      "ano": 2007,
+      "marca": "MIZA"
+    }
+  ],
+  "stats": {
+    "total": 3,
+    "precoMin": 2138,
+    "precoMax": 2754,
+    "anos": [
+      2011,
+      2008,
+      2007
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "323tia-1",
+  "canonicalPath": "/geracao/bmw/323tia-1/",
+  "titulo": "Geracao 323tia-1",
+  "descricao": "2 veiculos da geracao 323tia-1.",
+  "seo": {
+    "title": "Geracao 323tia-1 - Precos FIPE",
+    "description": "Veiculos da geracao 323tia-1 na Tabela FIPE.",
+    "h1": "Geracao 323tia-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/bmw/323tia-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "bmw-323tia-compact-top-1998-gasolina",
+      "fipeCodigo": "009033-6",
+      "displayName": "BMW 323TiA Compact Top",
+      "valorAtual": 47593,
+      "canonicalPath": "/fipe/bmw/323tia-compact-top-1998-009033-6/",
+      "ano": 1998,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-323tia-compact-top-1999-gasolina",
+      "fipeCodigo": "009033-6",
+      "displayName": "BMW 323TiA Compact Top",
+      "valorAtual": 50277,
+      "canonicalPath": "/fipe/bmw/323tia-compact-top-1999-009033-6/",
+      "ano": 1999,
+      "marca": "BMW"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "323tia-1"
+  }
+}

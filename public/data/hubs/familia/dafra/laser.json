@@ -1,0 +1,52 @@
+{
+  "tipo": "familia",
+  "slug": "laser",
+  "canonicalPath": "/fipe/dafra/laser/",
+  "titulo": "DAFRA laser - Tabela FIPE",
+  "descricao": "3 versoes e anos do DAFRA laser na Tabela FIPE.",
+  "seo": {
+    "title": "DAFRA laser - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes DAFRA laser. 3 veiculos indexados.",
+    "h1": "DAFRA laser - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/dafra/laser/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "dafra-laser-150-2010-gasolina",
+      "fipeCodigo": "861004-5",
+      "displayName": "DAFRA LASER 150",
+      "valorAtual": 6056,
+      "canonicalPath": "/fipe/dafra/laser-150-2010-861004-5/",
+      "ano": 2010,
+      "marca": "DAFRA"
+    },
+    {
+      "vehicleId": "dafra-laser-150-2009-gasolina",
+      "fipeCodigo": "861004-5",
+      "displayName": "DAFRA LASER 150",
+      "valorAtual": 5165,
+      "canonicalPath": "/fipe/dafra/laser-150-2009-861004-5/",
+      "ano": 2009,
+      "marca": "DAFRA"
+    },
+    {
+      "vehicleId": "dafra-laser-150-2008-gasolina",
+      "fipeCodigo": "861004-5",
+      "displayName": "DAFRA LASER 150",
+      "valorAtual": 4609,
+      "canonicalPath": "/fipe/dafra/laser-150-2008-861004-5/",
+      "ano": 2008,
+      "marca": "DAFRA"
+    }
+  ],
+  "stats": {
+    "total": 3,
+    "precoMin": 4609,
+    "precoMax": 6056,
+    "anos": [
+      2010,
+      2009,
+      2008
+    ]
+  }
+}

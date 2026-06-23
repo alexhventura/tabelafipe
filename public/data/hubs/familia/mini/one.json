@@ -1,0 +1,80 @@
+{
+  "tipo": "familia",
+  "slug": "one",
+  "canonicalPath": "/fipe/mini/one/",
+  "titulo": "MINI one - Tabela FIPE",
+  "descricao": "6 versoes e anos do MINI one na Tabela FIPE.",
+  "seo": {
+    "title": "MINI one - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes MINI one. 6 veiculos indexados.",
+    "h1": "MINI one - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/mini/one/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "mini-one-1-2-12v-turbo-2p-mec-2015-gasolina",
+      "fipeCodigo": "071042-3",
+      "displayName": "MINI ONE 1.2 12V Turbo 2p Mec.",
+      "valorAtual": 76930,
+      "canonicalPath": "/fipe/mini/one-1-2-12v-turbo-2p-mec-2015-071042-3/",
+      "ano": 2015,
+      "marca": "MINI"
+    },
+    {
+      "vehicleId": "mini-one-1-6-mec-2013-gasolina",
+      "fipeCodigo": "071011-3",
+      "displayName": "MINI ONE 1.6  Mec.",
+      "valorAtual": 58795,
+      "canonicalPath": "/fipe/mini/one-1-6-mec-2013-071011-3/",
+      "ano": 2013,
+      "marca": "MINI"
+    },
+    {
+      "vehicleId": "mini-one-1-6-aut-2013-gasolina",
+      "fipeCodigo": "071016-4",
+      "displayName": "MINI ONE 1.6 Aut.",
+      "valorAtual": 58885,
+      "canonicalPath": "/fipe/mini/one-1-6-aut-2013-071016-4/",
+      "ano": 2013,
+      "marca": "MINI"
+    },
+    {
+      "vehicleId": "mini-one-1-6-aut-2012-gasolina",
+      "fipeCodigo": "071016-4",
+      "displayName": "MINI ONE 1.6 Aut.",
+      "valorAtual": 53180,
+      "canonicalPath": "/fipe/mini/one-1-6-aut-2012-071016-4/",
+      "ano": 2012,
+      "marca": "MINI"
+    },
+    {
+      "vehicleId": "mini-one-1-6-mec-2012-gasolina",
+      "fipeCodigo": "071011-3",
+      "displayName": "MINI ONE 1.6  Mec.",
+      "valorAtual": 55763,
+      "canonicalPath": "/fipe/mini/one-1-6-mec-2012-071011-3/",
+      "ano": 2012,
+      "marca": "MINI"
+    },
+    {
+      "vehicleId": "mini-one-1-6-mec-2011-gasolina",
+      "fipeCodigo": "071011-3",
+      "displayName": "MINI ONE 1.6  Mec.",
+      "valorAtual": 49080,
+      "canonicalPath": "/fipe/mini/one-1-6-mec-2011-071011-3/",
+      "ano": 2011,
+      "marca": "MINI"
+    }
+  ],
+  "stats": {
+    "total": 6,
+    "precoMin": 49080,
+    "precoMax": 76930,
+    "anos": [
+      2015,
+      2013,
+      2012,
+      2011
+    ]
+  }
+}

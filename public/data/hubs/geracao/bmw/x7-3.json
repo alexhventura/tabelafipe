@@ -1,0 +1,48 @@
+{
+  "tipo": "geracao",
+  "slug": "x7-3",
+  "canonicalPath": "/geracao/bmw/x7-3/",
+  "titulo": "Geracao x7-3",
+  "descricao": "3 veiculos da geracao x7-3.",
+  "seo": {
+    "title": "Geracao x7-3 - Precos FIPE",
+    "description": "Veiculos da geracao x7-3 na Tabela FIPE.",
+    "h1": "Geracao x7-3",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/bmw/x7-3/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "bmw-x7-m60i-4-4-v8-bi-tb-aut-hibrido-2024-hibrido",
+      "fipeCodigo": "009316-5",
+      "displayName": "BMW X7 M60i 4.4 V8 Bi-TB Aut.(Híbrido)",
+      "valorAtual": 860779,
+      "canonicalPath": "/fipe/bmw/x7-m60i-4-4-v8-bi-tb-aut-hibrido-2024-009316-5/",
+      "ano": 2024,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-x7-m60i-4-4-v8-bi-tb-aut-hibrido-2025-hibrido",
+      "fipeCodigo": "009316-5",
+      "displayName": "BMW X7 M60i 4.4 V8 Bi-TB Aut.(Híbrido)",
+      "valorAtual": 1018320,
+      "canonicalPath": "/fipe/bmw/x7-m60i-4-4-v8-bi-tb-aut-hibrido-2025-009316-5/",
+      "ano": 2025,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-x7-xdrive-40i-m-sport-3-0-v6-turbo-aut-2026-hibrido",
+      "fipeCodigo": "009328-9",
+      "displayName": "BMW X7 XDRIVE 40i M Sport 3.0 V6 Turbo Aut.",
+      "valorAtual": 907421,
+      "canonicalPath": "/fipe/bmw/x7-xdrive-40i-m-sport-3-0-v6-turbo-aut-2026-009328-9/",
+      "ano": 2026,
+      "marca": "BMW"
+    }
+  ],
+  "stats": {
+    "total": 3
+  },
+  "meta": {
+    "geracaoId": "x7-3"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "db7-1",
+  "canonicalPath": "/geracao/bimota/db7-1/",
+  "titulo": "Geracao db7-1",
+  "descricao": "2 veiculos da geracao db7-1.",
+  "seo": {
+    "title": "Geracao db7-1 - Precos FIPE",
+    "description": "Veiculos da geracao db7-1 na Tabela FIPE.",
+    "h1": "Geracao db7-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/bimota/db7-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "bimota-db7-1099cc-2010-gasolina",
+      "fipeCodigo": "828007-0",
+      "displayName": "BIMOTA DB7 1099cc",
+      "valorAtual": 66228,
+      "canonicalPath": "/fipe/bimota/db7-1099cc-2010-828007-0/",
+      "ano": 2010,
+      "marca": "BIMOTA"
+    },
+    {
+      "vehicleId": "bimota-db7-1099cc-2011-gasolina",
+      "fipeCodigo": "828007-0",
+      "displayName": "BIMOTA DB7 1099cc",
+      "valorAtual": 67884,
+      "canonicalPath": "/fipe/bimota/db7-1099cc-2011-828007-0/",
+      "ano": 2011,
+      "marca": "BIMOTA"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "db7-1"
+  }
+}

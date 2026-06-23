@@ -1,0 +1,80 @@
+{
+  "tipo": "familia",
+  "slug": "worker",
+  "canonicalPath": "/fipe/shineray/worker/",
+  "titulo": "SHINERAY worker - Tabela FIPE",
+  "descricao": "6 versoes e anos do SHINERAY worker na Tabela FIPE.",
+  "seo": {
+    "title": "SHINERAY worker - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes SHINERAY worker. 6 veiculos indexados.",
+    "h1": "SHINERAY worker - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/shineray/worker/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "shineray-worker-125-2024-gasolina",
+      "fipeCodigo": "850027-4",
+      "displayName": "SHINERAY WORKER 125",
+      "valorAtual": 7894,
+      "canonicalPath": "/fipe/shineray/worker-125-2024-850027-4/",
+      "ano": 2024,
+      "marca": "SHINERAY"
+    },
+    {
+      "vehicleId": "shineray-worker-150-2024-gasolina",
+      "fipeCodigo": "850035-5",
+      "displayName": "SHINERAY WORKER 150",
+      "valorAtual": 7978,
+      "canonicalPath": "/fipe/shineray/worker-150-2024-850035-5/",
+      "ano": 2024,
+      "marca": "SHINERAY"
+    },
+    {
+      "vehicleId": "shineray-worker-125-2023-gasolina",
+      "fipeCodigo": "850027-4",
+      "displayName": "SHINERAY WORKER 125",
+      "valorAtual": 7613,
+      "canonicalPath": "/fipe/shineray/worker-125-2023-850027-4/",
+      "ano": 2023,
+      "marca": "SHINERAY"
+    },
+    {
+      "vehicleId": "shineray-worker-125-2022-gasolina",
+      "fipeCodigo": "850027-4",
+      "displayName": "SHINERAY WORKER 125",
+      "valorAtual": 6417,
+      "canonicalPath": "/fipe/shineray/worker-125-2022-850027-4/",
+      "ano": 2022,
+      "marca": "SHINERAY"
+    },
+    {
+      "vehicleId": "shineray-worker-125-0-gasolina",
+      "fipeCodigo": "850027-4",
+      "displayName": "SHINERAY WORKER 125",
+      "valorAtual": 9039,
+      "canonicalPath": "/fipe/shineray/worker-125-0-850027-4/",
+      "ano": 0,
+      "marca": "SHINERAY"
+    },
+    {
+      "vehicleId": "shineray-worker-150-0-gasolina",
+      "fipeCodigo": "850035-5",
+      "displayName": "SHINERAY WORKER 150",
+      "valorAtual": 9042,
+      "canonicalPath": "/fipe/shineray/worker-150-0-850035-5/",
+      "ano": 0,
+      "marca": "SHINERAY"
+    }
+  ],
+  "stats": {
+    "total": 6,
+    "precoMin": 6417,
+    "precoMax": 9042,
+    "anos": [
+      2024,
+      2023,
+      2022,
+      0
+    ]
+  }
+}

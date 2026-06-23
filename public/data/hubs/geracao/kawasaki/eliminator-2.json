@@ -1,0 +1,57 @@
+{
+  "tipo": "geracao",
+  "slug": "eliminator-2",
+  "canonicalPath": "/geracao/kawasaki/eliminator-2/",
+  "titulo": "Geracao eliminator-2",
+  "descricao": "4 veiculos da geracao eliminator-2.",
+  "seo": {
+    "title": "Geracao eliminator-2 - Precos FIPE",
+    "description": "Veiculos da geracao eliminator-2 na Tabela FIPE.",
+    "h1": "Geracao eliminator-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/kawasaki/eliminator-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "kawasaki-eliminator-500-2025-gasolina",
+      "fipeCodigo": "817093-2",
+      "displayName": "KAWASAKI ELIMINATOR 500",
+      "valorAtual": 37237,
+      "canonicalPath": "/fipe/kawasaki/eliminator-500-2025-817093-2/",
+      "ano": 2025,
+      "marca": "KAWASAKI"
+    },
+    {
+      "vehicleId": "kawasaki-eliminator-500-2026-gasolina",
+      "fipeCodigo": "817093-2",
+      "displayName": "KAWASAKI ELIMINATOR 500",
+      "valorAtual": 38232,
+      "canonicalPath": "/fipe/kawasaki/eliminator-500-2026-817093-2/",
+      "ano": 2026,
+      "marca": "KAWASAKI"
+    },
+    {
+      "vehicleId": "kawasaki-eliminator-500-se-2025-gasolina",
+      "fipeCodigo": "817092-4",
+      "displayName": "KAWASAKI ELIMINATOR 500 SE",
+      "valorAtual": 38149,
+      "canonicalPath": "/fipe/kawasaki/eliminator-500-se-2025-817092-4/",
+      "ano": 2025,
+      "marca": "KAWASAKI"
+    },
+    {
+      "vehicleId": "kawasaki-eliminator-500-se-2026-gasolina",
+      "fipeCodigo": "817092-4",
+      "displayName": "KAWASAKI ELIMINATOR 500 SE",
+      "valorAtual": 39203,
+      "canonicalPath": "/fipe/kawasaki/eliminator-500-se-2026-817092-4/",
+      "ano": 2026,
+      "marca": "KAWASAKI"
+    }
+  ],
+  "stats": {
+    "total": 4
+  },
+  "meta": {
+    "geracaoId": "eliminator-2"
+  }
+}

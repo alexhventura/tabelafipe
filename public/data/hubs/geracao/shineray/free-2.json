@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "free-2",
+  "canonicalPath": "/geracao/shineray/free-2/",
+  "titulo": "Geracao free-2",
+  "descricao": "2 veiculos da geracao free-2.",
+  "seo": {
+    "title": "Geracao free-2 - Precos FIPE",
+    "description": "Veiculos da geracao free-2 na Tabela FIPE.",
+    "h1": "Geracao free-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/shineray/free-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "shineray-free-150-efi-2025-gasolina",
+      "fipeCodigo": "850043-6",
+      "displayName": "SHINERAY FREE 150 EFI",
+      "valorAtual": 10505,
+      "canonicalPath": "/fipe/shineray/free-150-efi-2025-850043-6/",
+      "ano": 2025,
+      "marca": "SHINERAY"
+    },
+    {
+      "vehicleId": "shineray-free-150-efi-2026-gasolina",
+      "fipeCodigo": "850043-6",
+      "displayName": "SHINERAY FREE 150 EFI",
+      "valorAtual": 12576,
+      "canonicalPath": "/fipe/shineray/free-150-efi-2026-850043-6/",
+      "ano": 2026,
+      "marca": "SHINERAY"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "free-2"
+  }
+}

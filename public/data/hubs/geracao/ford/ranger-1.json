@@ -1,0 +1,147 @@
+{
+  "tipo": "geracao",
+  "slug": "ranger-1",
+  "canonicalPath": "/geracao/ford/ranger-1/",
+  "titulo": "Geracao ranger-1",
+  "descricao": "14 veiculos da geracao ranger-1.",
+  "seo": {
+    "title": "Geracao ranger-1 - Precos FIPE",
+    "description": "Veiculos da geracao ranger-1 na Tabela FIPE.",
+    "h1": "Geracao ranger-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/ford/ranger-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "ford-ranger-black-2-0-4x2-cd-tb-diesel-aut-0-diesel",
+      "fipeCodigo": "003508-4",
+      "displayName": "Ford Ranger Black 2.0 4x2 CD TB Diesel Aut.",
+      "valorAtual": 239947,
+      "canonicalPath": "/fipe/ford/ranger-black-2-0-4x2-cd-tb-diesel-aut-0-003508-4/",
+      "ano": 0,
+      "marca": "Ford"
+    },
+    {
+      "vehicleId": "ford-ranger-limited-3-0-v6-4x4-cd-tb-die-aut-0-diesel",
+      "fipeCodigo": "003497-5",
+      "displayName": "Ford Ranger Limited 3.0 V6 4x4 CD TB Die. Aut",
+      "valorAtual": 342650,
+      "canonicalPath": "/fipe/ford/ranger-limited-3-0-v6-4x4-cd-tb-die-aut-0-003497-5/",
+      "ano": 0,
+      "marca": "Ford"
+    },
+    {
+      "vehicleId": "ford-ranger-limited-3-0-v6-4x4-cd-tb-die-aut-0-diesel-003498-3",
+      "fipeCodigo": "003498-3",
+      "displayName": "Ford Ranger Limited+ 3.0 V6 4x4 CD TB Die Aut",
+      "valorAtual": 364172,
+      "canonicalPath": "/fipe/ford/ranger-limited-3-0-v6-4x4-cd-tb-die-aut-0-003498-3/",
+      "ano": 0,
+      "marca": "Ford"
+    },
+    {
+      "vehicleId": "ford-ranger-raptor-3-0-v6-bi-turbo-4wd-aut-0-gasolina",
+      "fipeCodigo": "003506-8",
+      "displayName": "Ford Ranger Raptor 3.0 V6 Bi-Turbo 4WD AUT.",
+      "valorAtual": 495991,
+      "canonicalPath": "/fipe/ford/ranger-raptor-3-0-v6-bi-turbo-4wd-aut-0-003506-8/",
+      "ano": 0,
+      "marca": "Ford"
+    },
+    {
+      "vehicleId": "ford-ranger-xl-2-0-4x4-cd-diesel-mec-0-diesel",
+      "fipeCodigo": "003502-5",
+      "displayName": "Ford Ranger XL 2.0 4x4 CD Diesel Mec.",
+      "valorAtual": 250550,
+      "canonicalPath": "/fipe/ford/ranger-xl-2-0-4x4-cd-diesel-mec-0-003502-5/",
+      "ano": 0,
+      "marca": "Ford"
+    },
+    {
+      "vehicleId": "ford-ranger-xls-2-0-4x4-cd-diesel-aut-0-diesel",
+      "fipeCodigo": "003501-7",
+      "displayName": "Ford Ranger XLS 2.0 4x4 CD Diesel Aut.",
+      "valorAtual": 255035,
+      "canonicalPath": "/fipe/ford/ranger-xls-2-0-4x4-cd-diesel-aut-0-003501-7/",
+      "ano": 0,
+      "marca": "Ford"
+    },
+    {
+      "vehicleId": "ford-ranger-xls-3-0-v6-4x4-cd-diesel-aut-0-diesel",
+      "fipeCodigo": "003500-9",
+      "displayName": "Ford Ranger XLS 3.0 V6 4x4 CD Diesel Aut.",
+      "valorAtual": 310388,
+      "canonicalPath": "/fipe/ford/ranger-xls-3-0-v6-4x4-cd-diesel-aut-0-003500-9/",
+      "ano": 0,
+      "marca": "Ford"
+    },
+    {
+      "vehicleId": "ford-ranger-xlt-3-0-v6-4x4-cd-tb-die-aut-0-diesel",
+      "fipeCodigo": "003496-7",
+      "displayName": "Ford Ranger XLT 3.0 V6 4x4 CD TB  Die. Aut.",
+      "valorAtual": 308882,
+      "canonicalPath": "/fipe/ford/ranger-xlt-3-0-v6-4x4-cd-tb-die-aut-0-003496-7/",
+      "ano": 0,
+      "marca": "Ford"
+    },
+    {
+      "vehicleId": "polaris-ranger-1000-crew-premium-4x4-utv-0-gasolina",
+      "fipeCodigo": "884038-5",
+      "displayName": "POLARIS Ranger 1000 CREW Premium 4x4 (UTV)",
+      "valorAtual": 159865,
+      "canonicalPath": "/fipe/polaris/ranger-1000-crew-premium-4x4-utv-0-884038-5/",
+      "ano": 0,
+      "marca": "POLARIS"
+    },
+    {
+      "vehicleId": "polaris-ranger-1000-eps-4x4-utv-0-gasolina",
+      "fipeCodigo": "884032-6",
+      "displayName": "POLARIS Ranger 1000 EPS 4x4 (UTV)",
+      "valorAtual": 134865,
+      "canonicalPath": "/fipe/polaris/ranger-1000-eps-4x4-utv-0-884032-6/",
+      "ano": 0,
+      "marca": "POLARIS"
+    },
+    {
+      "vehicleId": "polaris-ranger-1000-premium-4x4-utv-0-gasolina",
+      "fipeCodigo": "884031-8",
+      "displayName": "POLARIS Ranger 1000 Premium 4x4 (UTV)",
+      "valorAtual": 150375,
+      "canonicalPath": "/fipe/polaris/ranger-1000-premium-4x4-utv-0-884031-8/",
+      "ano": 0,
+      "marca": "POLARIS"
+    },
+    {
+      "vehicleId": "polaris-ranger-500-4x4-utv-0-gasolina",
+      "fipeCodigo": "884037-7",
+      "displayName": "POLARIS Ranger 500 4x4 (UTV)",
+      "valorAtual": 87865,
+      "canonicalPath": "/fipe/polaris/ranger-500-4x4-utv-0-884037-7/",
+      "ano": 0,
+      "marca": "POLARIS"
+    },
+    {
+      "vehicleId": "polaris-ranger-570-4x4-utv-sp-0-gasolina",
+      "fipeCodigo": "884005-9",
+      "displayName": "POLARIS Ranger 570 4x4 (UTV)/SP",
+      "valorAtual": 101434,
+      "canonicalPath": "/fipe/polaris/ranger-570-4x4-utv-sp-0-884005-9/",
+      "ano": 0,
+      "marca": "POLARIS"
+    },
+    {
+      "vehicleId": "polaris-ranger-570-4-crew-sp-premium-4x4-utv-0-gasolina",
+      "fipeCodigo": "884026-1",
+      "displayName": "POLARIS Ranger 570-4 CREW SP Premium 4x4 (UTV)",
+      "valorAtual": 124342,
+      "canonicalPath": "/fipe/polaris/ranger-570-4-crew-sp-premium-4x4-utv-0-884026-1/",
+      "ano": 0,
+      "marca": "POLARIS"
+    }
+  ],
+  "stats": {
+    "total": 14
+  },
+  "meta": {
+    "geracaoId": "ranger-1"
+  }
+}

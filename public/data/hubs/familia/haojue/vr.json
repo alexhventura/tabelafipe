@@ -1,0 +1,82 @@
+{
+  "tipo": "familia",
+  "slug": "vr",
+  "canonicalPath": "/fipe/haojue/vr/",
+  "titulo": "HAOJUE vr - Tabela FIPE",
+  "descricao": "6 versoes e anos do HAOJUE vr na Tabela FIPE.",
+  "seo": {
+    "title": "HAOJUE vr - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes HAOJUE vr. 6 veiculos indexados.",
+    "h1": "HAOJUE vr - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/haojue/vr/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "haojue-vr-150-2024-gasolina",
+      "fipeCodigo": "885007-0",
+      "displayName": "HAOJUE VR 150",
+      "valorAtual": 14031,
+      "canonicalPath": "/fipe/haojue/vr-150-2024-885007-0/",
+      "ano": 2024,
+      "marca": "HAOJUE"
+    },
+    {
+      "vehicleId": "haojue-vr-150-2023-gasolina",
+      "fipeCodigo": "885007-0",
+      "displayName": "HAOJUE VR 150",
+      "valorAtual": 12251,
+      "canonicalPath": "/fipe/haojue/vr-150-2023-885007-0/",
+      "ano": 2023,
+      "marca": "HAOJUE"
+    },
+    {
+      "vehicleId": "haojue-vr-150-2022-gasolina",
+      "fipeCodigo": "885007-0",
+      "displayName": "HAOJUE VR 150",
+      "valorAtual": 10501,
+      "canonicalPath": "/fipe/haojue/vr-150-2022-885007-0/",
+      "ano": 2022,
+      "marca": "HAOJUE"
+    },
+    {
+      "vehicleId": "haojue-vr-150-2021-gasolina",
+      "fipeCodigo": "885007-0",
+      "displayName": "HAOJUE VR 150",
+      "valorAtual": 10190,
+      "canonicalPath": "/fipe/haojue/vr-150-2021-885007-0/",
+      "ano": 2021,
+      "marca": "HAOJUE"
+    },
+    {
+      "vehicleId": "haojue-vr-150-2018-gasolina",
+      "fipeCodigo": "885007-0",
+      "displayName": "HAOJUE VR 150",
+      "valorAtual": 9918,
+      "canonicalPath": "/fipe/haojue/vr-150-2018-885007-0/",
+      "ano": 2018,
+      "marca": "HAOJUE"
+    },
+    {
+      "vehicleId": "haojue-vr-150-0-gasolina",
+      "fipeCodigo": "885007-0",
+      "displayName": "HAOJUE VR 150",
+      "valorAtual": 16269,
+      "canonicalPath": "/fipe/haojue/vr-150-0-885007-0/",
+      "ano": 0,
+      "marca": "HAOJUE"
+    }
+  ],
+  "stats": {
+    "total": 6,
+    "precoMin": 9918,
+    "precoMax": 16269,
+    "anos": [
+      2024,
+      2023,
+      2022,
+      2021,
+      2018,
+      0
+    ]
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "tipo": "geracao",
+  "slug": "moving-1",
+  "canonicalPath": "/geracao/iros/moving-1/",
+  "titulo": "Geracao moving-1",
+  "descricao": "10 veiculos da geracao moving-1.",
+  "seo": {
+    "title": "Geracao moving-1 - Precos FIPE",
+    "description": "Veiculos da geracao moving-1 na Tabela FIPE.",
+    "h1": "Geracao moving-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/iros/moving-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "iros-moving-125-es-2009-gasolina",
+      "fipeCodigo": "867006-4",
+      "displayName": "IROS MOVING 125 ES",
+      "valorAtual": 1940,
+      "canonicalPath": "/fipe/iros/moving-125-es-2009-867006-4/",
+      "ano": 2009,
+      "marca": "IROS"
+    },
+    {
+      "vehicleId": "iros-moving-125-es-2010-gasolina",
+      "fipeCodigo": "867006-4",
+      "displayName": "IROS MOVING 125 ES",
+      "valorAtual": 2111,
+      "canonicalPath": "/fipe/iros/moving-125-es-2010-867006-4/",
+      "ano": 2010,
+      "marca": "IROS"
+    },
+    {
+      "vehicleId": "iros-moving-125-es-2011-gasolina",
+      "fipeCodigo": "867006-4",
+      "displayName": "IROS MOVING 125 ES",
+      "valorAtual": 2296,
+      "canonicalPath": "/fipe/iros/moving-125-es-2011-867006-4/",
+      "ano": 2011,
+      "marca": "IROS"
+    },
+    {
+      "vehicleId": "iros-moving-125-es-2012-gasolina",
+      "fipeCodigo": "867006-4",
+      "displayName": "IROS MOVING 125 ES",
+      "valorAtual": 2817,
+      "canonicalPath": "/fipe/iros/moving-125-es-2012-867006-4/",
+      "ano": 2012,
+      "marca": "IROS"
+    },
+    {
+      "vehicleId": "iros-moving-125-es-2013-gasolina",
+      "fipeCodigo": "867006-4",
+      "displayName": "IROS MOVING 125 ES",
+      "valorAtual": 3451,
+      "canonicalPath": "/fipe/iros/moving-125-es-2013-867006-4/",
+      "ano": 2013,
+      "marca": "IROS"
+    },
+    {
+      "vehicleId": "iros-moving-125-esd-2009-gasolina",
+      "fipeCodigo": "867007-2",
+      "displayName": "IROS MOVING 125 ESD",
+      "valorAtual": 2037,
+      "canonicalPath": "/fipe/iros/moving-125-esd-2009-867007-2/",
+      "ano": 2009,
+      "marca": "IROS"
+    },
+    {
+      "vehicleId": "iros-moving-125-esd-2010-gasolina",
+      "fipeCodigo": "867007-2",
+      "displayName": "IROS MOVING 125 ESD",
+      "valorAtual": 2211,
+      "canonicalPath": "/fipe/iros/moving-125-esd-2010-867007-2/",
+      "ano": 2010,
+      "marca": "IROS"
+    },
+    {
+      "vehicleId": "iros-moving-125-esd-2011-gasolina",
+      "fipeCodigo": "867007-2",
+      "displayName": "IROS MOVING 125 ESD",
+      "valorAtual": 2443,
+      "canonicalPath": "/fipe/iros/moving-125-esd-2011-867007-2/",
+      "ano": 2011,
+      "marca": "IROS"
+    },
+    {
+      "vehicleId": "iros-moving-125-esd-2012-gasolina",
+      "fipeCodigo": "867007-2",
+      "displayName": "IROS MOVING 125 ESD",
+      "valorAtual": 2926,
+      "canonicalPath": "/fipe/iros/moving-125-esd-2012-867007-2/",
+      "ano": 2012,
+      "marca": "IROS"
+    },
+    {
+      "vehicleId": "iros-moving-125-esd-2013-gasolina",
+      "fipeCodigo": "867007-2",
+      "displayName": "IROS MOVING 125 ESD",
+      "valorAtual": 3459,
+      "canonicalPath": "/fipe/iros/moving-125-esd-2013-867007-2/",
+      "ano": 2013,
+      "marca": "IROS"
+    }
+  ],
+  "stats": {
+    "total": 10
+  },
+  "meta": {
+    "geracaoId": "moving-1"
+  }
+}

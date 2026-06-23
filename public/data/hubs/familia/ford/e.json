@@ -1,0 +1,62 @@
+{
+  "tipo": "familia",
+  "slug": "e",
+  "canonicalPath": "/fipe/ford/e/",
+  "titulo": "Ford e - Tabela FIPE",
+  "descricao": "4 versoes e anos do Ford e na Tabela FIPE.",
+  "seo": {
+    "title": "Ford e - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes Ford e. 4 veiculos indexados.",
+    "h1": "Ford e - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/ford/e/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "ford-e-transit-furgao-longo-teto-alto-eletrico-2026-eletrico",
+      "fipeCodigo": "003514-9",
+      "displayName": "Ford E-TRANSIT Furgão Longo Teto Alto (Elétrico)",
+      "valorAtual": 475293,
+      "canonicalPath": "/fipe/ford/e-transit-furgao-longo-teto-alto-eletrico-2026-003514-9/",
+      "ano": 2026,
+      "marca": "Ford"
+    },
+    {
+      "vehicleId": "ford-e-transit-furgao-longo-teto-alto-eletrico-2025-eletrico",
+      "fipeCodigo": "003514-9",
+      "displayName": "Ford E-TRANSIT Furgão Longo Teto Alto (Elétrico)",
+      "valorAtual": 421990,
+      "canonicalPath": "/fipe/ford/e-transit-furgao-longo-teto-alto-eletrico-2025-003514-9/",
+      "ano": 2025,
+      "marca": "Ford"
+    },
+    {
+      "vehicleId": "ford-e-transit-furgao-longo-teto-alto-eletrico-2024-eletrico",
+      "fipeCodigo": "003514-9",
+      "displayName": "Ford E-TRANSIT Furgão Longo Teto Alto (Elétrico)",
+      "valorAtual": 404498,
+      "canonicalPath": "/fipe/ford/e-transit-furgao-longo-teto-alto-eletrico-2024-003514-9/",
+      "ano": 2024,
+      "marca": "Ford"
+    },
+    {
+      "vehicleId": "ford-e-transit-furgao-longo-teto-alto-eletrico-0-eletrico",
+      "fipeCodigo": "003514-9",
+      "displayName": "Ford E-TRANSIT Furgão Longo Teto Alto (Elétrico)",
+      "valorAtual": 579979,
+      "canonicalPath": "/fipe/ford/e-transit-furgao-longo-teto-alto-eletrico-0-003514-9/",
+      "ano": 0,
+      "marca": "Ford"
+    }
+  ],
+  "stats": {
+    "total": 4,
+    "precoMin": 404498,
+    "precoMax": 579979,
+    "anos": [
+      2026,
+      2025,
+      2024,
+      0
+    ]
+  }
+}

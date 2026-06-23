@@ -1,0 +1,60 @@
+{
+  "tipo": "familia",
+  "slug": "gs4",
+  "canonicalPath": "/fipe/gac/gs4/",
+  "titulo": "GAC gs4 - Tabela FIPE",
+  "descricao": "4 versoes e anos do GAC gs4 na Tabela FIPE.",
+  "seo": {
+    "title": "GAC gs4 - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes GAC gs4. 4 veiculos indexados.",
+    "h1": "GAC gs4 - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/gac/gs4/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "gac-gs4-premium-hibrido-2026-hibrido",
+      "fipeCodigo": "304001-1",
+      "displayName": "GAC GS4 Premium (Híbrido)",
+      "valorAtual": 169076,
+      "canonicalPath": "/fipe/gac/gs4-premium-hibrido-2026-304001-1/",
+      "ano": 2026,
+      "marca": "GAC"
+    },
+    {
+      "vehicleId": "gac-gs4-elite-hibrido-2026-hibrido",
+      "fipeCodigo": "304003-8",
+      "displayName": "GAC GS4 Elite (Híbrido)",
+      "valorAtual": 181030,
+      "canonicalPath": "/fipe/gac/gs4-elite-hibrido-2026-304003-8/",
+      "ano": 2026,
+      "marca": "GAC"
+    },
+    {
+      "vehicleId": "gac-gs4-premium-hibrido-0-hibrido",
+      "fipeCodigo": "304001-1",
+      "displayName": "GAC GS4 Premium (Híbrido)",
+      "valorAtual": 191790,
+      "canonicalPath": "/fipe/gac/gs4-premium-hibrido-0-304001-1/",
+      "ano": 0,
+      "marca": "GAC"
+    },
+    {
+      "vehicleId": "gac-gs4-elite-hibrido-0-hibrido",
+      "fipeCodigo": "304003-8",
+      "displayName": "GAC GS4 Elite (Híbrido)",
+      "valorAtual": 210155,
+      "canonicalPath": "/fipe/gac/gs4-elite-hibrido-0-304003-8/",
+      "ano": 0,
+      "marca": "GAC"
+    }
+  ],
+  "stats": {
+    "total": 4,
+    "precoMin": 169076,
+    "precoMax": 210155,
+    "anos": [
+      2026,
+      0
+    ]
+  }
+}

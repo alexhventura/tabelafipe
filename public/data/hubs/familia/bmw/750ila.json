@@ -1,0 +1,42 @@
+{
+  "tipo": "familia",
+  "slug": "750ila",
+  "canonicalPath": "/fipe/bmw/750ila/",
+  "titulo": "BMW 750ila - Tabela FIPE",
+  "descricao": "2 versoes e anos do BMW 750ila na Tabela FIPE.",
+  "seo": {
+    "title": "BMW 750ila - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes BMW 750ila. 2 veiculos indexados.",
+    "h1": "BMW 750ila - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/bmw/750ila/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "bmw-750ila-4-4-active-7-hibrido-2012-hibrido",
+      "fipeCodigo": "009154-5",
+      "displayName": "BMW 750iLA 4.4 Active 7 (Híbrido)",
+      "valorAtual": 185106,
+      "canonicalPath": "/fipe/bmw/750ila-4-4-active-7-hibrido-2012-009154-5/",
+      "ano": 2012,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-750ila-4-4-active-7-hibrido-2011-hibrido",
+      "fipeCodigo": "009154-5",
+      "displayName": "BMW 750iLA 4.4 Active 7 (Híbrido)",
+      "valorAtual": 154230,
+      "canonicalPath": "/fipe/bmw/750ila-4-4-active-7-hibrido-2011-009154-5/",
+      "ano": 2011,
+      "marca": "BMW"
+    }
+  ],
+  "stats": {
+    "total": 2,
+    "precoMin": 154230,
+    "precoMax": 185106,
+    "anos": [
+      2012,
+      2011
+    ]
+  }
+}

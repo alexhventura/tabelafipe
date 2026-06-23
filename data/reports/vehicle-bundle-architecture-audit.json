@@ -1,0 +1,79 @@
+{
+  "geradoEm": "2026-06-23T01:38:27.536Z",
+  "total_pages_generated": 50395,
+  "sample_scanned": 499,
+  "bundle_size": {
+    "avg_bytes": 21733,
+    "min": 8298,
+    "max": 37233,
+    "p50": 21837,
+    "p95": 29162,
+    "p99": 32494,
+    "total_mb": 10.34
+  },
+  "bundle_targets": {
+    "avg_kb_target": 20,
+    "p95_kb_target": 50,
+    "p99_kb_target": 100,
+    "avg_pass": false,
+    "p95_pass": true,
+    "p99_pass": true
+  },
+  "section_coverage_pct": {
+    "preco": 100,
+    "historico": 99.6,
+    "specs": 28.86,
+    "engine": 2.4,
+    "maintenance": 0.4,
+    "platform": 3.41,
+    "transmission": 4.81,
+    "generation": 99.4,
+    "inmetro": 41.88,
+    "relacionados": 100
+  },
+  "shard_strategy": "Bundles em public/data/bundles/{marcaSlug}/{pageSlug}.json; manifest-{letter}.json lista vehicleId/canonicalPath/bundlePath por primeira letra de marcaSlug.",
+  "cache_strategy": "Cache-Control: public, max-age=2592000, immutable para /data/bundles/* (JSON versionado por build).",
+  "prerender_strategy": "Astro SSG: getStaticPaths a partir de data/generated/vehicle-url-map.json (50395 entradas).",
+  "seo_impact_estimate": {
+    "unique_urls": 50395,
+    "unique_titles": 50395,
+    "unique_descriptions": 50395,
+    "json_ld_blocks_per_page": "Product+Offer, BreadcrumbList, FAQPage (quando FAQ)"
+  },
+  "cwv_impact_estimate": {
+    "data_delivery": "JSON estatico pre-renderizado, sem API em runtime",
+    "lcp_target": "<2s com hero+preco no HTML/JSON",
+    "cls": "Secoes pre-calculadas (sections.*) evitam layout shift por conteudo tardio"
+  },
+  "search_index_note": "Shards em public/data/fipe/search/* permanecem inalterados; bundles sao camada de pagina.",
+  "manifest": {
+    "total": 50395,
+    "geradoEm": "2026-06-23T01:35:44.046Z",
+    "shards": [
+      "a",
+      "b",
+      "c",
+      "d",
+      "e",
+      "f",
+      "g",
+      "h",
+      "i",
+      "j",
+      "k",
+      "l",
+      "m",
+      "n",
+      "o",
+      "p",
+      "r",
+      "s",
+      "t",
+      "v",
+      "w",
+      "y",
+      "z"
+    ],
+    "avgBundleBytes": 21920
+  }
+}

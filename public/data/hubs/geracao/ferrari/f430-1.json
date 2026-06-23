@@ -1,0 +1,129 @@
+{
+  "tipo": "geracao",
+  "slug": "f430-1",
+  "canonicalPath": "/geracao/ferrari/f430-1/",
+  "titulo": "Geracao f430-1",
+  "descricao": "12 veiculos da geracao f430-1.",
+  "seo": {
+    "title": "Geracao f430-1 - Precos FIPE",
+    "description": "Veiculos da geracao f430-1 na Tabela FIPE.",
+    "h1": "Geracao f430-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/ferrari/f430-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "ferrari-f430-f1-2005-gasolina",
+      "fipeCodigo": "031025-5",
+      "displayName": "Ferrari F430 F1",
+      "valorAtual": 882632,
+      "canonicalPath": "/fipe/ferrari/f430-f1-2005-031025-5/",
+      "ano": 2005,
+      "marca": "Ferrari"
+    },
+    {
+      "vehicleId": "ferrari-f430-f1-2006-gasolina",
+      "fipeCodigo": "031025-5",
+      "displayName": "Ferrari F430 F1",
+      "valorAtual": 1031497,
+      "canonicalPath": "/fipe/ferrari/f430-f1-2006-031025-5/",
+      "ano": 2006,
+      "marca": "Ferrari"
+    },
+    {
+      "vehicleId": "ferrari-f430-f1-2007-gasolina",
+      "fipeCodigo": "031025-5",
+      "displayName": "Ferrari F430 F1",
+      "valorAtual": 1255160,
+      "canonicalPath": "/fipe/ferrari/f430-f1-2007-031025-5/",
+      "ano": 2007,
+      "marca": "Ferrari"
+    },
+    {
+      "vehicleId": "ferrari-f430-f1-2008-gasolina",
+      "fipeCodigo": "031025-5",
+      "displayName": "Ferrari F430 F1",
+      "valorAtual": 1295522,
+      "canonicalPath": "/fipe/ferrari/f430-f1-2008-031025-5/",
+      "ano": 2008,
+      "marca": "Ferrari"
+    },
+    {
+      "vehicleId": "ferrari-f430-f1-2009-gasolina",
+      "fipeCodigo": "031025-5",
+      "displayName": "Ferrari F430 F1",
+      "valorAtual": 1359572,
+      "canonicalPath": "/fipe/ferrari/f430-f1-2009-031025-5/",
+      "ano": 2009,
+      "marca": "Ferrari"
+    },
+    {
+      "vehicleId": "ferrari-f430-scuderia-f1-2008-gasolina",
+      "fipeCodigo": "031029-8",
+      "displayName": "Ferrari F430 SCUDERIA F1",
+      "valorAtual": 1477394,
+      "canonicalPath": "/fipe/ferrari/f430-scuderia-f1-2008-031029-8/",
+      "ano": 2008,
+      "marca": "Ferrari"
+    },
+    {
+      "vehicleId": "ferrari-f430-scuderia-f1-2009-gasolina",
+      "fipeCodigo": "031029-8",
+      "displayName": "Ferrari F430 SCUDERIA F1",
+      "valorAtual": 1514329,
+      "canonicalPath": "/fipe/ferrari/f430-scuderia-f1-2009-031029-8/",
+      "ano": 2009,
+      "marca": "Ferrari"
+    },
+    {
+      "vehicleId": "ferrari-f430-spider-f1-2005-gasolina",
+      "fipeCodigo": "031027-1",
+      "displayName": "Ferrari F430 Spider F1",
+      "valorAtual": 1431898,
+      "canonicalPath": "/fipe/ferrari/f430-spider-f1-2005-031027-1/",
+      "ano": 2005,
+      "marca": "Ferrari"
+    },
+    {
+      "vehicleId": "ferrari-f430-spider-f1-2006-gasolina",
+      "fipeCodigo": "031027-1",
+      "displayName": "Ferrari F430 Spider F1",
+      "valorAtual": 1467696,
+      "canonicalPath": "/fipe/ferrari/f430-spider-f1-2006-031027-1/",
+      "ano": 2006,
+      "marca": "Ferrari"
+    },
+    {
+      "vehicleId": "ferrari-f430-spider-f1-2007-gasolina",
+      "fipeCodigo": "031027-1",
+      "displayName": "Ferrari F430 Spider F1",
+      "valorAtual": 1538262,
+      "canonicalPath": "/fipe/ferrari/f430-spider-f1-2007-031027-1/",
+      "ano": 2007,
+      "marca": "Ferrari"
+    },
+    {
+      "vehicleId": "ferrari-f430-spider-f1-2008-gasolina",
+      "fipeCodigo": "031027-1",
+      "displayName": "Ferrari F430 Spider F1",
+      "valorAtual": 1651844,
+      "canonicalPath": "/fipe/ferrari/f430-spider-f1-2008-031027-1/",
+      "ano": 2008,
+      "marca": "Ferrari"
+    },
+    {
+      "vehicleId": "ferrari-f430-spider-f1-2009-gasolina",
+      "fipeCodigo": "031027-1",
+      "displayName": "Ferrari F430 Spider F1",
+      "valorAtual": 1891500,
+      "canonicalPath": "/fipe/ferrari/f430-spider-f1-2009-031027-1/",
+      "ano": 2009,
+      "marca": "Ferrari"
+    }
+  ],
+  "stats": {
+    "total": 12
+  },
+  "meta": {
+    "geracaoId": "f430-1"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "dy110-2",
+  "canonicalPath": "/geracao/dayun/dy110-2/",
+  "titulo": "Geracao dy110-2",
+  "descricao": "2 veiculos da geracao dy110-2.",
+  "seo": {
+    "title": "Geracao dy110-2 - Precos FIPE",
+    "description": "Veiculos da geracao dy110-2 na Tabela FIPE.",
+    "h1": "Geracao dy110-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/dayun/dy110-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "dayun-dy110-6-2010-gasolina",
+      "fipeCodigo": "860001-5",
+      "displayName": "DAYUN DY110-6",
+      "valorAtual": 2469,
+      "canonicalPath": "/fipe/dayun/dy110-6-2010-860001-5/",
+      "ano": 2010,
+      "marca": "DAYUN"
+    },
+    {
+      "vehicleId": "dayun-dy110-6-2011-gasolina",
+      "fipeCodigo": "860001-5",
+      "displayName": "DAYUN DY110-6",
+      "valorAtual": 2626,
+      "canonicalPath": "/fipe/dayun/dy110-6-2011-860001-5/",
+      "ano": 2011,
+      "marca": "DAYUN"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "dy110-2"
+  }
+}

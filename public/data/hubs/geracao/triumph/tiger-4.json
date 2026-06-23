@@ -1,0 +1,741 @@
+{
+  "tipo": "geracao",
+  "slug": "tiger-4",
+  "canonicalPath": "/geracao/triumph/tiger-4/",
+  "titulo": "Geracao tiger-4",
+  "descricao": "128 veiculos da geracao tiger-4.",
+  "seo": {
+    "title": "Geracao tiger-4 - Precos FIPE",
+    "description": "Veiculos da geracao tiger-4 na Tabela FIPE.",
+    "h1": "Geracao tiger-4",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/triumph/tiger-4/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "triumph-tiger-1050-sport-2014-gasolina",
+      "fipeCodigo": "826045-1",
+      "displayName": "TRIUMPH TIGER 1050 SPORT",
+      "valorAtual": 37808,
+      "canonicalPath": "/fipe/triumph/tiger-1050-sport-2014-826045-1/",
+      "ano": 2014,
+      "marca": "TRIUMPH"
+    },
+    {
+      "vehicleId": "triumph-tiger-1050-sport-2015-gasolina",
+      "fipeCodigo": "826045-1",
+      "displayName": "TRIUMPH TIGER 1050 SPORT",
+      "valorAtual": 38754,
+      "canonicalPath": "/fipe/triumph/tiger-1050-sport-2015-826045-1/",
+      "ano": 2015,
+      "marca": "TRIUMPH"
+    },
+    {
+      "vehicleId": "triumph-tiger-1050-sport-2017-gasolina",
+      "fipeCodigo": "826045-1",
+      "displayName": "TRIUMPH TIGER 1050 SPORT",
+      "valorAtual": 44670,
+      "canonicalPath": "/fipe/triumph/tiger-1050-sport-2017-826045-1/",
+      "ano": 2017,
+      "marca": "TRIUMPH"
+    },
+    {
+      "vehicleId": "triumph-tiger-1050-sport-2018-gasolina",
+      "fipeCodigo": "826045-1",
+      "displayName": "TRIUMPH TIGER 1050 SPORT",
+      "valorAtual": 45787,
+      "canonicalPath": "/fipe/triumph/tiger-1050-sport-2018-826045-1/",
+      "ano": 2018,
+      "marca": "TRIUMPH"
+    },
+    {
+      "vehicleId": "triumph-tiger-1200-alpine-edition-2020-gasolina",
+      "fipeCodigo": "826079-6",
+      "displayName": "TRIUMPH TIGER 1200 ALPINE Edition",
+      "valorAtual": 54897,
+      "canonicalPath": "/fipe/triumph/tiger-1200-alpine-edition-2020-826079-6/",
+      "ano": 2020,
+      "marca": "TRIUMPH"
+    },
+    {
+      "vehicleId": "triumph-tiger-1200-alpine-edition-2021-gasolina",
+      "fipeCodigo": "826079-6",
+      "displayName": "TRIUMPH TIGER 1200 ALPINE Edition",
+      "valorAtual": 65988,
+      "canonicalPath": "/fipe/triumph/tiger-1200-alpine-edition-2021-826079-6/",
+      "ano": 2021,
+      "marca": "TRIUMPH"
+    },
+    {
+      "vehicleId": "triumph-tiger-1200-alpine-edition-2026-gasolina",
+      "fipeCodigo": "826079-6",
+      "displayName": "TRIUMPH TIGER 1200 ALPINE Edition",
+      "valorAtual": 93283,
+      "canonicalPath": "/fipe/triumph/tiger-1200-alpine-edition-2026-826079-6/",
+      "ano": 2026,
+      "marca": "TRIUMPH"
+    },
+    {
+      "vehicleId": "triumph-tiger-1200-desert-edition-2020-gasolina",
+      "fipeCodigo": "826080-0",
+      "displayName": "TRIUMPH TIGER 1200 DESERT Edition",
+      "valorAtual": 64946,
+      "canonicalPath": "/fipe/triumph/tiger-1200-desert-edition-2020-826080-0/",
+      "ano": 2020,
+      "marca": "TRIUMPH"
+    },
+    {
+      "vehicleId": "triumph-tiger-1200-desert-edition-2021-gasolina",
+      "fipeCodigo": "826080-0",
+      "displayName": "TRIUMPH TIGER 1200 DESERT Edition",
+      "valorAtual": 68024,
+      "canonicalPath": "/fipe/triumph/tiger-1200-desert-edition-2021-826080-0/",
+      "ano": 2021,
+      "marca": "TRIUMPH"
+    },
+    {
+      "vehicleId": "triumph-tiger-1200-desert-edition-2026-gasolina",
+      "fipeCodigo": "826080-0",
+      "displayName": "TRIUMPH TIGER 1200 DESERT Edition",
+      "valorAtual": 100883,
+      "canonicalPath": "/fipe/triumph/tiger-1200-desert-edition-2026-826080-0/",
+      "ano": 2026,
+      "marca": "TRIUMPH"
+    },
+    {
+      "vehicleId": "triumph-tiger-1200-explorer-2012-gasolina",
+      "fipeCodigo": "826037-0",
+      "displayName": "TRIUMPH TIGER 1200 EXPLORER",
+      "valorAtual": 42583,
+      "canonicalPath": "/fipe/triumph/tiger-1200-explorer-2012-826037-0/",
+      "ano": 2012,
+      "marca": "TRIUMPH"
+    },
+    {
+      "vehicleId": "triumph-tiger-1200-explorer-2013-gasolina",
+      "fipeCodigo": "826037-0",
+      "displayName": "TRIUMPH TIGER 1200 EXPLORER",
+      "valorAtual": 44257,
+      "canonicalPath": "/fipe/triumph/tiger-1200-explorer-2013-826037-0/",
+      "ano": 2013,
+      "marca": "TRIUMPH"
+    },
+    {
+      "vehicleId": "triumph-tiger-1200-explorer-2014-gasolina",
+      "fipeCodigo": "826037-0",
+      "displayName": "TRIUMPH TIGER 1200 EXPLORER",
+      "valorAtual": 47270,
+      "canonicalPath": "/fipe/triumph/tiger-1200-explorer-2014-826037-0/",
+      "ano": 2014,
+      "marca": "TRIUMPH"
+    },
+    {
+      "vehicleId": "triumph-tiger-1200-explorer-2015-gasolina",
+      "fipeCodigo": "826037-0",
+      "displayName": "TRIUMPH TIGER 1200 EXPLORER",
+      "valorAtual": 48452,
+      "canonicalPath": "/fipe/triumph/tiger-1200-explorer-2015-826037-0/",
+      "ano": 2015,
+      "marca": "TRIUMPH"
+    },
+    {
+      "vehicleId": "triumph-tiger-1200-explorer-2016-gasolina",
+      "fipeCodigo": "826037-0",
+      "displayName": "TRIUMPH TIGER 1200 EXPLORER",
+      "valorAtual": 49664,
+      "canonicalPath": "/fipe/triumph/tiger-1200-explorer-2016-826037-0/",
+      "ano": 2016,
+      "marca": "TRIUMPH"
+    },
+    {
+      "vehicleId": "triumph-tiger-1200-explorer-xca-2017-gasolina",
+      "fipeCodigo": "826058-3",
+      "displayName": "TRIUMPH TIGER 1200 EXPLORER XCA",
+      "valorAtual": 53025,
+      "canonicalPath": "/fipe/triumph/tiger-1200-explorer-xca-2017-826058-3/",
+      "ano": 2017,
+      "marca": "TRIUMPH"
+    },
+    {
+      "vehicleId": "triumph-tiger-1200-explorer-xca-2018-gasolina",
+      "fipeCodigo": "826058-3",
+      "displayName": "TRIUMPH TIGER 1200 EXPLORER XCA",
+      "valorAtual": 58383,
+      "canonicalPath": "/fipe/triumph/tiger-1200-explorer-xca-2018-826058-3/",
+      "ano": 2018,
+      "marca": "TRIUMPH"
+    },
+    {
+      "vehicleId": "triumph-tiger-1200-explorer-xcx-2016-gasolina",
+      "fipeCodigo": "826053-2",
+      "displayName": "TRIUMPH TIGER 1200 EXPLORER XCX",
+      "valorAtual": 50900,
+      "canonicalPath": "/fipe/triumph/tiger-1200-explorer-xcx-2016-826053-2/",
+      "ano": 2016,
+      "marca": "TRIUMPH"
+    },
+    {
+      "vehicleId": "triumph-tiger-1200-explorer-xcx-2017-gasolina",
+      "fipeCodigo": "826053-2",
+      "displayName": "TRIUMPH TIGER 1200 EXPLORER XCX",
+      "valorAtual": 52605,
+      "canonicalPath": "/fipe/triumph/tiger-1200-explorer-xcx-2017-826053-2/",
+      "ano": 2017,
+      "marca": "TRIUMPH"
+    },
+    {
+      "vehicleId": "triumph-tiger-1200-explorer-xcx-2018-gasolina",
+      "fipeCodigo": "826053-2",
+      "displayName": "TRIUMPH TIGER 1200 EXPLORER XCX",
+      "valorAtual": 55969,
+      "canonicalPath": "/fipe/triumph/tiger-1200-explorer-xcx-2018-826053-2/",
+      "ano": 2018,
+      "marca": "TRIUMPH"
+    },
+    {
+      "vehicleId": "triumph-tiger-1200-explorer-xr-2016-gasolina",
+      "fipeCodigo": "826054-0",
+      "displayName": "TRIUMPH TIGER 1200 EXPLORER XR",
+      "valorAtual": 50862,
+      "canonicalPath": "/fipe/triumph/tiger-1200-explorer-xr-2016-826054-0/",
+      "ano": 2016,
+      "marca": "TRIUMPH"
+    },
+    {
+      "vehicleId": "triumph-tiger-1200-explorer-xr-2017-gasolina",
+      "fipeCodigo": "826054-0",
+      "displayName": "TRIUMPH TIGER 1200 EXPLORER XR",
+      "valorAtual": 52134,
+      "canonicalPath": "/fipe/triumph/tiger-1200-explorer-xr-2017-826054-0/",
+      "ano": 2017,
+      "marca": "TRIUMPH"
+    },
+    {
+      "vehicleId": "triumph-tiger-1200-explorer-xr-2018-gasolina",
+      "fipeCodigo": "826054-0",
+      "displayName": "TRIUMPH TIGER 1200 EXPLORER XR",
+      "valorAtual": 54227,
+      "canonicalPath": "/fipe/triumph/tiger-1200-explorer-xr-2018-826054-0/",
+      "ano": 2018,
+      "marca": "TRIUMPH"
+    },
+    {
+      "vehicleId": "triumph-tiger-1200-gt-explorer-2022-gasolina",
+      "fipeCodigo": "826085-0",
+      "displayName": "TRIUMPH TIGER 1200 GT EXPLORER",
+      "valorAtual": 80380,
+      "canonicalPath": "/fipe/triumph/tiger-1200-gt-explorer-2022-826085-0/",
+      "ano": 2022,
+      "marca": "TRIUMPH"
+    },
+    {
+      "vehicleId": "triumph-tiger-1200-gt-explorer-2023-gasolina",
+      "fipeCodigo": "826085-0",
+      "displayName": "TRIUMPH TIGER 1200 GT EXPLORER",
+      "valorAtual": 83768,
+      "canonicalPath": "/fipe/triumph/tiger-1200-gt-explorer-2023-826085-0/",
+      "ano": 2023,
+      "marca": "TRIUMPH"
+    },
+    {
+      "vehicleId": "triumph-tiger-1200-gt-explorer-2024-gasolina",
+      "fipeCodigo": "826085-0",
+      "displayName": "TRIUMPH TIGER 1200 GT EXPLORER",
+      "valorAtual": 87442,
+      "canonicalPath": "/fipe/triumph/tiger-1200-gt-explorer-2024-826085-0/",
+      "ano": 2024,
+      "marca": "TRIUMPH"
+    },
+    {
+      "vehicleId": "triumph-tiger-1200-gt-explorer-2025-gasolina",
+      "fipeCodigo": "826085-0",
+      "displayName": "TRIUMPH TIGER 1200 GT EXPLORER",
+      "valorAtual": 92938,
+      "canonicalPath": "/fipe/triumph/tiger-1200-gt-explorer-2025-826085-0/",
+      "ano": 2025,
+      "marca": "TRIUMPH"
+    },
+    {
+      "vehicleId": "triumph-tiger-1200-gt-pro-2024-gasolina",
+      "fipeCodigo": "826098-2",
+      "displayName": "TRIUMPH TIGER 1200 GT PRO",
+      "valorAtual": 82334,
+      "canonicalPath": "/fipe/triumph/tiger-1200-gt-pro-2024-826098-2/",
+      "ano": 2024,
+      "marca": "TRIUMPH"
+    },
+    {
+      "vehicleId": "triumph-tiger-1200-gt-pro-2025-gasolina",
+      "fipeCodigo": "826098-2",
+      "displayName": "TRIUMPH TIGER 1200 GT PRO",
+      "valorAtual": 88159,
+      "canonicalPath": "/fipe/triumph/tiger-1200-gt-pro-2025-826098-2/",
+      "ano": 2025,
+      "marca": "TRIUMPH"
+    },
+    {
+      "vehicleId": "triumph-tiger-1200-gt-pro-2026-gasolina",
+      "fipeCodigo": "826098-2",
+      "displayName": "TRIUMPH TIGER 1200 GT PRO",
+      "valorAtual": 98639,
+      "canonicalPath": "/fipe/triumph/tiger-1200-gt-pro-2026-826098-2/",
+      "ano": 2026,
+      "marca": "TRIUMPH"
+    },
+    {
+      "vehicleId": "triumph-tiger-1200-rally-black-edition-2024-gasolina",
+      "fipeCodigo": "826097-4",
+      "displayName": "TRIUMPH TIGER 1200 RALLY BLACK Edition",
+      "valorAtual": 78459,
+      "canonicalPath": "/fipe/triumph/tiger-1200-rally-black-edition-2024-826097-4/",
+      "ano": 2024,
+      "marca": "TRIUMPH"
+    },
+    {
+      "vehicleId": "triumph-tiger-1200-rally-black-edition-2025-gasolina",
+      "fipeCodigo": "826097-4",
+      "displayName": "TRIUMPH TIGER 1200 RALLY BLACK Edition",
+      "valorAtual": 82268,
+      "canonicalPath": "/fipe/triumph/tiger-1200-rally-black-edition-2025-826097-4/",
+      "ano": 2025,
+      "marca": "TRIUMPH"
+    },
+    {
+      "vehicleId": "triumph-tiger-1200-rally-black-edition-2026-gasolina",
+      "fipeCodigo": "826097-4",
+      "displayName": "TRIUMPH TIGER 1200 RALLY BLACK Edition",
+      "valorAtual": 86436,
+      "canonicalPath": "/fipe/triumph/tiger-1200-rally-black-edition-2026-826097-4/",
+      "ano": 2026,
+      "marca": "TRIUMPH"
+    },
+    {
+      "vehicleId": "triumph-tiger-1200-rally-explorer-2022-gasolina",
+      "fipeCodigo": "826086-9",
+      "displayName": "TRIUMPH TIGER 1200 RALLY EXPLORER",
+      "valorAtual": 85547,
+      "canonicalPath": "/fipe/triumph/tiger-1200-rally-explorer-2022-826086-9/",
+      "ano": 2022,
+      "marca": "TRIUMPH"
+    },
+    {
+      "vehicleId": "triumph-tiger-1200-rally-explorer-2023-gasolina",
+      "fipeCodigo": "826086-9",
+      "displayName": "TRIUMPH TIGER 1200 RALLY EXPLORER",
+      "valorAtual": 89270,
+      "canonicalPath": "/fipe/triumph/tiger-1200-rally-explorer-2023-826086-9/",
+      "ano": 2023,
+      "marca": "TRIUMPH"
+    },
+    {
+      "vehicleId": "triumph-tiger-1200-rally-explorer-2024-gasolina",
+      "fipeCodigo": "826086-9",
+      "displayName": "TRIUMPH TIGER 1200 RALLY EXPLORER",
+      "valorAtual": 98544,
+      "canonicalPath": "/fipe/triumph/tiger-1200-rally-explorer-2024-826086-9/",
+      "ano": 2024,
+      "marca": "TRIUMPH"
+    },
+    {
+      "vehicleId": "triumph-tiger-1200-rally-explorer-2025-gasolina",
+      "fipeCodigo": "826086-9",
+      "displayName": "TRIUMPH TIGER 1200 RALLY EXPLORER",
+      "valorAtual": 105843,
+      "canonicalPath": "/fipe/triumph/tiger-1200-rally-explorer-2025-826086-9/",
+      "ano": 2025,
+      "marca": "TRIUMPH"
+    },
+    {
+      "vehicleId": "triumph-tiger-1200-rally-explorer-2026-gasolina",
+      "fipeCodigo": "826086-9",
+      "displayName": "TRIUMPH TIGER 1200 RALLY EXPLORER",
+      "valorAtual": 115840,
+      "canonicalPath": "/fipe/triumph/tiger-1200-rally-explorer-2026-826086-9/",
+      "ano": 2026,
+      "marca": "TRIUMPH"
+    },
+    {
+      "vehicleId": "triumph-tiger-1200-rally-pro-2022-gasolina",
+      "fipeCodigo": "826084-2",
+      "displayName": "TRIUMPH TIGER 1200 RALLY PRO",
+      "valorAtual": 77558,
+      "canonicalPath": "/fipe/triumph/tiger-1200-rally-pro-2022-826084-2/",
+      "ano": 2022,
+      "marca": "TRIUMPH"
+    },
+    {
+      "vehicleId": "triumph-tiger-1200-rally-pro-2023-gasolina",
+      "fipeCodigo": "826084-2",
+      "displayName": "TRIUMPH TIGER 1200 RALLY PRO",
+      "valorAtual": 80507,
+      "canonicalPath": "/fipe/triumph/tiger-1200-rally-pro-2023-826084-2/",
+      "ano": 2023,
+      "marca": "TRIUMPH"
+    },
+    {
+      "vehicleId": "triumph-tiger-1200-rally-pro-2024-gasolina",
+      "fipeCodigo": "826084-2",
+      "displayName": "TRIUMPH TIGER 1200 RALLY PRO",
+      "valorAtual": 84370,
+      "canonicalPath": "/fipe/triumph/tiger-1200-rally-pro-2024-826084-2/",
+      "ano": 2024,
+      "marca": "TRIUMPH"
+    },
+    {
+      "vehicleId": "triumph-tiger-1200-rally-pro-2025-gasolina",
+      "fipeCodigo": "826084-2",
+      "displayName": "TRIUMPH TIGER 1200 RALLY PRO",
+      "valorAtual": 87680,
+      "canonicalPath": "/fipe/triumph/tiger-1200-rally-pro-2025-826084-2/",
+      "ano": 2025,
+      "marca": "TRIUMPH"
+    },
+    {
+      "vehicleId": "triumph-tiger-1200-xc-explorer-2014-gasolina",
+      "fipeCodigo": "826041-9",
+      "displayName": "TRIUMPH TIGER 1200 XC EXPLORER",
+      "valorAtual": 48280,
+      "canonicalPath": "/fipe/triumph/tiger-1200-xc-explorer-2014-826041-9/",
+      "ano": 2014,
+      "marca": "TRIUMPH"
+    },
+    {
+      "vehicleId": "triumph-tiger-1200-xc-explorer-2015-gasolina",
+      "fipeCodigo": "826041-9",
+      "displayName": "TRIUMPH TIGER 1200 XC EXPLORER",
+      "valorAtual": 49681,
+      "canonicalPath": "/fipe/triumph/tiger-1200-xc-explorer-2015-826041-9/",
+      "ano": 2015,
+      "marca": "TRIUMPH"
+    },
+    {
+      "vehicleId": "triumph-tiger-1200-xc-explorer-2016-gasolina",
+      "fipeCodigo": "826041-9",
+      "displayName": "TRIUMPH TIGER 1200 XC EXPLORER",
+      "valorAtual": 50924,
+      "canonicalPath": "/fipe/triumph/tiger-1200-xc-explorer-2016-826041-9/",
+      "ano": 2016,
+      "marca": "TRIUMPH"
+    },
+    {
+      "vehicleId": "triumph-tiger-1200-xca-2018-gasolina",
+      "fipeCodigo": "826064-8",
+      "displayName": "TRIUMPH TIGER 1200 XCA",
+      "valorAtual": 58386,
+      "canonicalPath": "/fipe/triumph/tiger-1200-xca-2018-826064-8/",
+      "ano": 2018,
+      "marca": "TRIUMPH"
+    },
+    {
+      "vehicleId": "triumph-tiger-1200-xca-2019-gasolina",
+      "fipeCodigo": "826064-8",
+      "displayName": "TRIUMPH TIGER 1200 XCA",
+      "valorAtual": 61251,
+      "canonicalPath": "/fipe/triumph/tiger-1200-xca-2019-826064-8/",
+      "ano": 2019,
+      "marca": "TRIUMPH"
+    },
+    {
+      "vehicleId": "triumph-tiger-1200-xca-2020-gasolina",
+      "fipeCodigo": "826064-8",
+      "displayName": "TRIUMPH TIGER 1200 XCA",
+      "valorAtual": 64286,
+      "canonicalPath": "/fipe/triumph/tiger-1200-xca-2020-826064-8/",
+      "ano": 2020,
+      "marca": "TRIUMPH"
+    },
+    {
+      "vehicleId": "triumph-tiger-1200-xcx-2018-gasolina",
+      "fipeCodigo": "826065-6",
+      "displayName": "TRIUMPH TIGER 1200 XCX",
+      "valorAtual": 58312,
+      "canonicalPath": "/fipe/triumph/tiger-1200-xcx-2018-826065-6/",
+      "ano": 2018,
+      "marca": "TRIUMPH"
+    },
+    {
+      "vehicleId": "triumph-tiger-1200-xcx-2019-gasolina",
+      "fipeCodigo": "826065-6",
+      "displayName": "TRIUMPH TIGER 1200 XCX",
+      "valorAtual": 61140,
+      "canonicalPath": "/fipe/triumph/tiger-1200-xcx-2019-826065-6/",
+      "ano": 2019,
+      "marca": "TRIUMPH"
+    },
+    {
+      "vehicleId": "triumph-tiger-1200-xcx-2020-gasolina",
+      "fipeCodigo": "826065-6",
+      "displayName": "TRIUMPH TIGER 1200 XCX",
+      "valorAtual": 63252,
+      "canonicalPath": "/fipe/triumph/tiger-1200-xcx-2020-826065-6/",
+      "ano": 2020,
+      "marca": "TRIUMPH"
+    },
+    {
+      "vehicleId": "triumph-tiger-1200-xr-2018-gasolina",
+      "fipeCodigo": "826066-4",
+      "displayName": "TRIUMPH TIGER 1200 XR",
+      "valorAtual": 54858,
+      "canonicalPath": "/fipe/triumph/tiger-1200-xr-2018-826066-4/",
+      "ano": 2018,
+      "marca": "TRIUMPH"
+    },
+    {
+      "vehicleId": "triumph-tiger-1200-xr-2019-gasolina",
+      "fipeCodigo": "826066-4",
+      "displayName": "TRIUMPH TIGER 1200 XR",
+      "valorAtual": 57258,
+      "canonicalPath": "/fipe/triumph/tiger-1200-xr-2019-826066-4/",
+      "ano": 2019,
+      "marca": "TRIUMPH"
+    },
+    {
+      "vehicleId": "triumph-tiger-1200-xr-2020-gasolina",
+      "fipeCodigo": "826066-4",
+      "displayName": "TRIUMPH TIGER 1200 XR",
+      "valorAtual": 59628,
+      "canonicalPath": "/fipe/triumph/tiger-1200-xr-2020-826066-4/",
+      "ano": 2020,
+      "marca": "TRIUMPH"
+    },
+    {
+      "vehicleId": "triumph-tiger-660-sport-2022-gasolina",
+      "fipeCodigo": "826083-4",
+      "displayName": "TRIUMPH TIGER 660 SPORT",
+      "valorAtual": 48469,
+      "canonicalPath": "/fipe/triumph/tiger-660-sport-2022-826083-4/",
+      "ano": 2022,
+      "marca": "TRIUMPH"
+    },
+    {
+      "vehicleId": "triumph-tiger-660-sport-2023-gasolina",
+      "fipeCodigo": "826083-4",
+      "displayName": "TRIUMPH TIGER 660 SPORT",
+      "valorAtual": 50492,
+      "canonicalPath": "/fipe/triumph/tiger-660-sport-2023-826083-4/",
+      "ano": 2023,
+      "marca": "TRIUMPH"
+    },
+    {
+      "vehicleId": "triumph-tiger-660-sport-2024-gasolina",
+      "fipeCodigo": "826083-4",
+      "displayName": "TRIUMPH TIGER 660 SPORT",
+      "valorAtual": 52901,
+      "canonicalPath": "/fipe/triumph/tiger-660-sport-2024-826083-4/",
+      "ano": 2024,
+      "marca": "TRIUMPH"
+    },
+    {
+      "vehicleId": "triumph-tiger-660-sport-2025-gasolina",
+      "fipeCodigo": "826083-4",
+      "displayName": "TRIUMPH TIGER 660 SPORT",
+      "valorAtual": 54786,
+      "canonicalPath": "/fipe/triumph/tiger-660-sport-2025-826083-4/",
+      "ano": 2025,
+      "marca": "TRIUMPH"
+    },
+    {
+      "vehicleId": "triumph-tiger-660-sport-2026-gasolina",
+      "fipeCodigo": "826083-4",
+      "displayName": "TRIUMPH TIGER 660 SPORT",
+      "valorAtual": 56254,
+      "canonicalPath": "/fipe/triumph/tiger-660-sport-2026-826083-4/",
+      "ano": 2026,
+      "marca": "TRIUMPH"
+    },
+    {
+      "vehicleId": "triumph-tiger-800-2014-gasolina",
+      "fipeCodigo": "826042-7",
+      "displayName": "TRIUMPH TIGER 800",
+      "valorAtual": 40158,
+      "canonicalPath": "/fipe/triumph/tiger-800-2014-826042-7/",
+      "ano": 2014,
+      "marca": "TRIUMPH"
+    },
+    {
+      "vehicleId": "triumph-tiger-800-2015-gasolina",
+      "fipeCodigo": "826042-7",
+      "displayName": "TRIUMPH TIGER 800",
+      "valorAtual": 41570,
+      "canonicalPath": "/fipe/triumph/tiger-800-2015-826042-7/",
+      "ano": 2015,
+      "marca": "TRIUMPH"
+    },
+    {
+      "vehicleId": "triumph-tiger-800-sport-2025-gasolina",
+      "fipeCodigo": "826109-1",
+      "displayName": "TRIUMPH TIGER 800 SPORT",
+      "valorAtual": 64277,
+      "canonicalPath": "/fipe/triumph/tiger-800-sport-2025-826109-1/",
+      "ano": 2025,
+      "marca": "TRIUMPH"
+    },
+    {
+      "vehicleId": "triumph-tiger-800-sport-2026-gasolina",
+      "fipeCodigo": "826109-1",
+      "displayName": "TRIUMPH TIGER 800 SPORT",
+      "valorAtual": 67851,
+      "canonicalPath": "/fipe/triumph/tiger-800-sport-2026-826109-1/",
+      "ano": 2026,
+      "marca": "TRIUMPH"
+    },
+    {
+      "vehicleId": "triumph-tiger-800-xc-2012-gasolina",
+      "fipeCodigo": "826035-4",
+      "displayName": "TRIUMPH TIGER 800 XC",
+      "valorAtual": 39419,
+      "canonicalPath": "/fipe/triumph/tiger-800-xc-2012-826035-4/",
+      "ano": 2012,
+      "marca": "TRIUMPH"
+    },
+    {
+      "vehicleId": "triumph-tiger-800-xc-2013-gasolina",
+      "fipeCodigo": "826035-4",
+      "displayName": "TRIUMPH TIGER 800 XC",
+      "valorAtual": 40405,
+      "canonicalPath": "/fipe/triumph/tiger-800-xc-2013-826035-4/",
+      "ano": 2013,
+      "marca": "TRIUMPH"
+    },
+    {
+      "vehicleId": "triumph-tiger-800-xc-2014-gasolina",
+      "fipeCodigo": "826035-4",
+      "displayName": "TRIUMPH TIGER 800 XC",
+      "valorAtual": 41416,
+      "canonicalPath": "/fipe/triumph/tiger-800-xc-2014-826035-4/",
+      "ano": 2014,
+      "marca": "TRIUMPH"
+    },
+    {
+      "vehicleId": "triumph-tiger-800-xc-2015-gasolina",
+      "fipeCodigo": "826035-4",
+      "displayName": "TRIUMPH TIGER 800 XC",
+      "valorAtual": 42452,
+      "canonicalPath": "/fipe/triumph/tiger-800-xc-2015-826035-4/",
+      "ano": 2015,
+      "marca": "TRIUMPH"
+    },
+    {
+      "vehicleId": "triumph-tiger-800-xc-2016-gasolina",
+      "fipeCodigo": "826035-4",
+      "displayName": "TRIUMPH TIGER 800 XC",
+      "valorAtual": 44325,
+      "canonicalPath": "/fipe/triumph/tiger-800-xc-2016-826035-4/",
+      "ano": 2016,
+      "marca": "TRIUMPH"
+    },
+    {
+      "vehicleId": "triumph-tiger-800-xca-2016-gasolina",
+      "fipeCodigo": "826049-4",
+      "displayName": "TRIUMPH TIGER 800 XCA",
+      "valorAtual": 46265,
+      "canonicalPath": "/fipe/triumph/tiger-800-xca-2016-826049-4/",
+      "ano": 2016,
+      "marca": "TRIUMPH"
+    },
+    {
+      "vehicleId": "triumph-tiger-800-xca-2017-gasolina",
+      "fipeCodigo": "826049-4",
+      "displayName": "TRIUMPH TIGER 800 XCA",
+      "valorAtual": 47756,
+      "canonicalPath": "/fipe/triumph/tiger-800-xca-2017-826049-4/",
+      "ano": 2017,
+      "marca": "TRIUMPH"
+    },
+    {
+      "vehicleId": "triumph-tiger-800-xca-2018-gasolina",
+      "fipeCodigo": "826049-4",
+      "displayName": "TRIUMPH TIGER 800 XCA",
+      "valorAtual": 52376,
+      "canonicalPath": "/fipe/triumph/tiger-800-xca-2018-826049-4/",
+      "ano": 2018,
+      "marca": "TRIUMPH"
+    },
+    {
+      "vehicleId": "triumph-tiger-800-xca-2019-gasolina",
+      "fipeCodigo": "826049-4",
+      "displayName": "TRIUMPH TIGER 800 XCA",
+      "valorAtual": 54011,
+      "canonicalPath": "/fipe/triumph/tiger-800-xca-2019-826049-4/",
+      "ano": 2019,
+      "marca": "TRIUMPH"
+    },
+    {
+      "vehicleId": "triumph-tiger-800-xca-2020-gasolina",
+      "fipeCodigo": "826049-4",
+      "displayName": "TRIUMPH TIGER 800 XCA",
+      "valorAtual": 55409,
+      "canonicalPath": "/fipe/triumph/tiger-800-xca-2020-826049-4/",
+      "ano": 2020,
+      "marca": "TRIUMPH"
+    },
+    {
+      "vehicleId": "triumph-tiger-800-xcx-2015-gasolina",
+      "fipeCodigo": "826046-0",
+      "displayName": "TRIUMPH TIGER 800 XCX",
+      "valorAtual": 41886,
+      "canonicalPath": "/fipe/triumph/tiger-800-xcx-2015-826046-0/",
+      "ano": 2015,
+      "marca": "TRIUMPH"
+    },
+    {
+      "vehicleId": "triumph-tiger-800-xcx-2016-gasolina",
+      "fipeCodigo": "826046-0",
+      "displayName": "TRIUMPH TIGER 800 XCX",
+      "valorAtual": 43745,
+      "canonicalPath": "/fipe/triumph/tiger-800-xcx-2016-826046-0/",
+      "ano": 2016,
+      "marca": "TRIUMPH"
+    },
+    {
+      "vehicleId": "triumph-tiger-800-xcx-2017-gasolina",
+      "fipeCodigo": "826046-0",
+      "displayName": "TRIUMPH TIGER 800 XCX",
+      "valorAtual": 47680,
+      "canonicalPath": "/fipe/triumph/tiger-800-xcx-2017-826046-0/",
+      "ano": 2017,
+      "marca": "TRIUMPH"
+    },
+    {
+      "vehicleId": "triumph-tiger-800-xcx-2018-gasolina",
+      "fipeCodigo": "826046-0",
+      "displayName": "TRIUMPH TIGER 800 XCX",
+      "valorAtual": 50176,
+      "canonicalPath": "/fipe/triumph/tiger-800-xcx-2018-826046-0/",
+      "ano": 2018,
+      "marca": "TRIUMPH"
+    },
+    {
+      "vehicleId": "triumph-tiger-800-xcx-2019-gasolina",
+      "fipeCodigo": "826046-0",
+      "displayName": "TRIUMPH TIGER 800 XCX",
+      "valorAtual": 51431,
+      "canonicalPath": "/fipe/triumph/tiger-800-xcx-2019-826046-0/",
+      "ano": 2019,
+      "marca": "TRIUMPH"
+    },
+    {
+      "vehicleId": "triumph-tiger-800-xcx-2020-gasolina",
+      "fipeCodigo": "826046-0",
+      "displayName": "TRIUMPH TIGER 800 XCX",
+      "valorAtual": 53495,
+      "canonicalPath": "/fipe/triumph/tiger-800-xcx-2020-826046-0/",
+      "ano": 2020,
+      "marca": "TRIUMPH"
+    },
+    {
+      "vehicleId": "triumph-tiger-800-xr-2016-gasolina",
+      "fipeCodigo": "826048-6",
+      "displayName": "TRIUMPH TIGER 800 XR",
+      "valorAtual": 39983,
+      "canonicalPath": "/fipe/triumph/tiger-800-xr-2016-826048-6/",
+      "ano": 2016,
+      "marca": "TRIUMPH"
+    }
+  ],
+  "stats": {
+    "total": 128
+  },
+  "meta": {
+    "geracaoId": "tiger-4"
+  }
+}

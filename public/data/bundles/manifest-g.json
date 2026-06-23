@@ -1,0 +1,1192 @@
+[
+  {
+    "vehicleId": "gac-aion-es-plus-eletrico-2025-eletrico",
+    "canonicalPath": "/fipe/gac/aion-es-plus-eletrico-2025-304002-0/",
+    "bundlePath": "/data/bundles/gac/aion-es-plus-eletrico-2025-304002-0.json"
+  },
+  {
+    "vehicleId": "gac-aion-es-plus-eletrico-2026-eletrico",
+    "canonicalPath": "/fipe/gac/aion-es-plus-eletrico-2026-304002-0/",
+    "bundlePath": "/data/bundles/gac/aion-es-plus-eletrico-2026-304002-0.json"
+  },
+  {
+    "vehicleId": "gac-aion-es-plus-eletrico-0-eletrico",
+    "canonicalPath": "/fipe/gac/aion-es-plus-eletrico-0-304002-0/",
+    "bundlePath": "/data/bundles/gac/aion-es-plus-eletrico-0-304002-0.json"
+  },
+  {
+    "vehicleId": "gac-aion-v-elite-eletrico-2025-eletrico",
+    "canonicalPath": "/fipe/gac/aion-v-elite-eletrico-2025-304006-2/",
+    "bundlePath": "/data/bundles/gac/aion-v-elite-eletrico-2025-304006-2.json"
+  },
+  {
+    "vehicleId": "gac-aion-v-elite-eletrico-2026-eletrico",
+    "canonicalPath": "/fipe/gac/aion-v-elite-eletrico-2026-304006-2/",
+    "bundlePath": "/data/bundles/gac/aion-v-elite-eletrico-2026-304006-2.json"
+  },
+  {
+    "vehicleId": "gac-aion-v-elite-eletrico-2027-eletrico",
+    "canonicalPath": "/fipe/gac/aion-v-elite-eletrico-2027-304006-2/",
+    "bundlePath": "/data/bundles/gac/aion-v-elite-eletrico-2027-304006-2.json"
+  },
+  {
+    "vehicleId": "gac-aion-v-elite-eletrico-0-eletrico",
+    "canonicalPath": "/fipe/gac/aion-v-elite-eletrico-0-304006-2/",
+    "bundlePath": "/data/bundles/gac/aion-v-elite-eletrico-0-304006-2.json"
+  },
+  {
+    "vehicleId": "gac-aion-y-elite-eletrico-2025-eletrico",
+    "canonicalPath": "/fipe/gac/aion-y-elite-eletrico-2025-304008-9/",
+    "bundlePath": "/data/bundles/gac/aion-y-elite-eletrico-2025-304008-9.json"
+  },
+  {
+    "vehicleId": "gac-aion-y-elite-eletrico-2026-eletrico",
+    "canonicalPath": "/fipe/gac/aion-y-elite-eletrico-2026-304008-9/",
+    "bundlePath": "/data/bundles/gac/aion-y-elite-eletrico-2026-304008-9.json"
+  },
+  {
+    "vehicleId": "gac-aion-y-elite-eletrico-0-eletrico",
+    "canonicalPath": "/fipe/gac/aion-y-elite-eletrico-0-304008-9/",
+    "bundlePath": "/data/bundles/gac/aion-y-elite-eletrico-0-304008-9.json"
+  },
+  {
+    "vehicleId": "gac-aion-y-premium-eletrico-2025-eletrico",
+    "canonicalPath": "/fipe/gac/aion-y-premium-eletrico-2025-304007-0/",
+    "bundlePath": "/data/bundles/gac/aion-y-premium-eletrico-2025-304007-0.json"
+  },
+  {
+    "vehicleId": "gac-aion-y-premium-eletrico-2026-eletrico",
+    "canonicalPath": "/fipe/gac/aion-y-premium-eletrico-2026-304007-0/",
+    "bundlePath": "/data/bundles/gac/aion-y-premium-eletrico-2026-304007-0.json"
+  },
+  {
+    "vehicleId": "gac-aion-y-premium-eletrico-0-eletrico",
+    "canonicalPath": "/fipe/gac/aion-y-premium-eletrico-0-304007-0/",
+    "bundlePath": "/data/bundles/gac/aion-y-premium-eletrico-0-304007-0.json"
+  },
+  {
+    "vehicleId": "gac-gs3-elite-1-5-16v-turbo-aut-2027-gasolina",
+    "canonicalPath": "/fipe/gac/gs3-elite-1-5-16v-turbo-aut-2027-304010-0/",
+    "bundlePath": "/data/bundles/gac/gs3-elite-1-5-16v-turbo-aut-2027-304010-0.json"
+  },
+  {
+    "vehicleId": "gac-gs3-elite-1-5-16v-turbo-aut-0-gasolina",
+    "canonicalPath": "/fipe/gac/gs3-elite-1-5-16v-turbo-aut-0-304010-0/",
+    "bundlePath": "/data/bundles/gac/gs3-elite-1-5-16v-turbo-aut-0-304010-0.json"
+  },
+  {
+    "vehicleId": "gac-gs3-premium-1-5-16v-turbo-aut-2027-gasolina",
+    "canonicalPath": "/fipe/gac/gs3-premium-1-5-16v-turbo-aut-2027-304009-7/",
+    "bundlePath": "/data/bundles/gac/gs3-premium-1-5-16v-turbo-aut-2027-304009-7.json"
+  },
+  {
+    "vehicleId": "gac-gs3-premium-1-5-16v-turbo-aut-0-gasolina",
+    "canonicalPath": "/fipe/gac/gs3-premium-1-5-16v-turbo-aut-0-304009-7/",
+    "bundlePath": "/data/bundles/gac/gs3-premium-1-5-16v-turbo-aut-0-304009-7.json"
+  },
+  {
+    "vehicleId": "gac-gs4-elite-hibrido-2026-hibrido",
+    "canonicalPath": "/fipe/gac/gs4-elite-hibrido-2026-304003-8/",
+    "bundlePath": "/data/bundles/gac/gs4-elite-hibrido-2026-304003-8.json"
+  },
+  {
+    "vehicleId": "gac-gs4-elite-hibrido-0-hibrido",
+    "canonicalPath": "/fipe/gac/gs4-elite-hibrido-0-304003-8/",
+    "bundlePath": "/data/bundles/gac/gs4-elite-hibrido-0-304003-8.json"
+  },
+  {
+    "vehicleId": "gac-gs4-premium-hibrido-2026-hibrido",
+    "canonicalPath": "/fipe/gac/gs4-premium-hibrido-2026-304001-1/",
+    "bundlePath": "/data/bundles/gac/gs4-premium-hibrido-2026-304001-1.json"
+  },
+  {
+    "vehicleId": "gac-gs4-premium-hibrido-0-hibrido",
+    "canonicalPath": "/fipe/gac/gs4-premium-hibrido-0-304001-1/",
+    "bundlePath": "/data/bundles/gac/gs4-premium-hibrido-0-304001-1.json"
+  },
+  {
+    "vehicleId": "gac-hyptec-ht-elite-eletrico-2025-eletrico",
+    "canonicalPath": "/fipe/gac/hyptec-ht-elite-eletrico-2025-304004-6/",
+    "bundlePath": "/data/bundles/gac/hyptec-ht-elite-eletrico-2025-304004-6.json"
+  },
+  {
+    "vehicleId": "gac-hyptec-ht-elite-eletrico-2026-eletrico",
+    "canonicalPath": "/fipe/gac/hyptec-ht-elite-eletrico-2026-304004-6/",
+    "bundlePath": "/data/bundles/gac/hyptec-ht-elite-eletrico-2026-304004-6.json"
+  },
+  {
+    "vehicleId": "gac-hyptec-ht-elite-eletrico-2027-eletrico",
+    "canonicalPath": "/fipe/gac/hyptec-ht-elite-eletrico-2027-304004-6/",
+    "bundlePath": "/data/bundles/gac/hyptec-ht-elite-eletrico-2027-304004-6.json"
+  },
+  {
+    "vehicleId": "gac-hyptec-ht-elite-eletrico-0-eletrico",
+    "canonicalPath": "/fipe/gac/hyptec-ht-elite-eletrico-0-304004-6/",
+    "bundlePath": "/data/bundles/gac/hyptec-ht-elite-eletrico-0-304004-6.json"
+  },
+  {
+    "vehicleId": "gac-hyptec-ht-ultra-eletrico-2026-eletrico",
+    "canonicalPath": "/fipe/gac/hyptec-ht-ultra-eletrico-2026-304005-4/",
+    "bundlePath": "/data/bundles/gac/hyptec-ht-ultra-eletrico-2026-304005-4.json"
+  },
+  {
+    "vehicleId": "gac-hyptec-ht-ultra-eletrico-2027-eletrico",
+    "canonicalPath": "/fipe/gac/hyptec-ht-ultra-eletrico-2027-304005-4/",
+    "bundlePath": "/data/bundles/gac/hyptec-ht-ultra-eletrico-2027-304005-4.json"
+  },
+  {
+    "vehicleId": "gac-hyptec-ht-ultra-eletrico-0-eletrico",
+    "canonicalPath": "/fipe/gac/hyptec-ht-ultra-eletrico-0-304005-4/",
+    "bundlePath": "/data/bundles/gac/hyptec-ht-ultra-eletrico-0-304005-4.json"
+  },
+  {
+    "vehicleId": "garinni-gr08t4-2006-gasolina",
+    "canonicalPath": "/fipe/garinni/gr08t4-2006-847001-4/",
+    "bundlePath": "/data/bundles/garinni/gr08t4-2006-847001-4.json"
+  },
+  {
+    "vehicleId": "garinni-gr08t4-2007-gasolina",
+    "canonicalPath": "/fipe/garinni/gr08t4-2007-847001-4/",
+    "bundlePath": "/data/bundles/garinni/gr08t4-2007-847001-4.json"
+  },
+  {
+    "vehicleId": "garinni-gr125s-2009-gasolina",
+    "canonicalPath": "/fipe/garinni/gr125s-2009-847011-1/",
+    "bundlePath": "/data/bundles/garinni/gr125s-2009-847011-1.json"
+  },
+  {
+    "vehicleId": "garinni-gr125st-2008-gasolina",
+    "canonicalPath": "/fipe/garinni/gr125st-2008-847009-0/",
+    "bundlePath": "/data/bundles/garinni/gr125st-2008-847009-0.json"
+  },
+  {
+    "vehicleId": "garinni-gr125st-2009-gasolina",
+    "canonicalPath": "/fipe/garinni/gr125st-2009-847009-0/",
+    "bundlePath": "/data/bundles/garinni/gr125st-2009-847009-0.json"
+  },
+  {
+    "vehicleId": "garinni-gr125st-2010-gasolina",
+    "canonicalPath": "/fipe/garinni/gr125st-2010-847009-0/",
+    "bundlePath": "/data/bundles/garinni/gr125st-2010-847009-0.json"
+  },
+  {
+    "vehicleId": "garinni-gr125t3-2006-gasolina",
+    "canonicalPath": "/fipe/garinni/gr125t3-2006-847003-0/",
+    "bundlePath": "/data/bundles/garinni/gr125t3-2006-847003-0.json"
+  },
+  {
+    "vehicleId": "garinni-gr125t3-2007-gasolina",
+    "canonicalPath": "/fipe/garinni/gr125t3-2007-847003-0/",
+    "bundlePath": "/data/bundles/garinni/gr125t3-2007-847003-0.json"
+  },
+  {
+    "vehicleId": "garinni-gr125t3-2008-gasolina",
+    "canonicalPath": "/fipe/garinni/gr125t3-2008-847003-0/",
+    "bundlePath": "/data/bundles/garinni/gr125t3-2008-847003-0.json"
+  },
+  {
+    "vehicleId": "garinni-gr125t3-2009-gasolina",
+    "canonicalPath": "/fipe/garinni/gr125t3-2009-847003-0/",
+    "bundlePath": "/data/bundles/garinni/gr125t3-2009-847003-0.json"
+  },
+  {
+    "vehicleId": "garinni-gr125u-2007-gasolina",
+    "canonicalPath": "/fipe/garinni/gr125u-2007-847007-3/",
+    "bundlePath": "/data/bundles/garinni/gr125u-2007-847007-3.json"
+  },
+  {
+    "vehicleId": "garinni-gr125u-2008-gasolina",
+    "canonicalPath": "/fipe/garinni/gr125u-2008-847007-3/",
+    "bundlePath": "/data/bundles/garinni/gr125u-2008-847007-3.json"
+  },
+  {
+    "vehicleId": "garinni-gr125z-2006-gasolina",
+    "canonicalPath": "/fipe/garinni/gr125z-2006-847002-2/",
+    "bundlePath": "/data/bundles/garinni/gr125z-2006-847002-2.json"
+  },
+  {
+    "vehicleId": "garinni-gr125z-2007-gasolina",
+    "canonicalPath": "/fipe/garinni/gr125z-2007-847002-2/",
+    "bundlePath": "/data/bundles/garinni/gr125z-2007-847002-2.json"
+  },
+  {
+    "vehicleId": "garinni-gr125z-2008-gasolina",
+    "canonicalPath": "/fipe/garinni/gr125z-2008-847002-2/",
+    "bundlePath": "/data/bundles/garinni/gr125z-2008-847002-2.json"
+  },
+  {
+    "vehicleId": "garinni-gr150p-gr150pi-2006-gasolina",
+    "canonicalPath": "/fipe/garinni/gr150p-gr150pi-2006-847006-5/",
+    "bundlePath": "/data/bundles/garinni/gr150p-gr150pi-2006-847006-5.json"
+  },
+  {
+    "vehicleId": "garinni-gr150p-gr150pi-2007-gasolina",
+    "canonicalPath": "/fipe/garinni/gr150p-gr150pi-2007-847006-5/",
+    "bundlePath": "/data/bundles/garinni/gr150p-gr150pi-2007-847006-5.json"
+  },
+  {
+    "vehicleId": "garinni-gr150p-gr150pi-2008-gasolina",
+    "canonicalPath": "/fipe/garinni/gr150p-gr150pi-2008-847006-5/",
+    "bundlePath": "/data/bundles/garinni/gr150p-gr150pi-2008-847006-5.json"
+  },
+  {
+    "vehicleId": "garinni-gr150st-2007-gasolina",
+    "canonicalPath": "/fipe/garinni/gr150st-2007-847008-1/",
+    "bundlePath": "/data/bundles/garinni/gr150st-2007-847008-1.json"
+  },
+  {
+    "vehicleId": "garinni-gr150st-2008-gasolina",
+    "canonicalPath": "/fipe/garinni/gr150st-2008-847008-1/",
+    "bundlePath": "/data/bundles/garinni/gr150st-2008-847008-1.json"
+  },
+  {
+    "vehicleId": "garinni-gr150st-2009-gasolina",
+    "canonicalPath": "/fipe/garinni/gr150st-2009-847008-1/",
+    "bundlePath": "/data/bundles/garinni/gr150st-2009-847008-1.json"
+  },
+  {
+    "vehicleId": "garinni-gr150st-2010-gasolina",
+    "canonicalPath": "/fipe/garinni/gr150st-2010-847008-1/",
+    "bundlePath": "/data/bundles/garinni/gr150st-2010-847008-1.json"
+  },
+  {
+    "vehicleId": "garinni-gr150st-2011-gasolina",
+    "canonicalPath": "/fipe/garinni/gr150st-2011-847008-1/",
+    "bundlePath": "/data/bundles/garinni/gr150st-2011-847008-1.json"
+  },
+  {
+    "vehicleId": "garinni-gr150t3-gr150ti-2006-gasolina",
+    "canonicalPath": "/fipe/garinni/gr150t3-gr150ti-2006-847004-9/",
+    "bundlePath": "/data/bundles/garinni/gr150t3-gr150ti-2006-847004-9.json"
+  },
+  {
+    "vehicleId": "garinni-gr150t3-gr150ti-2007-gasolina",
+    "canonicalPath": "/fipe/garinni/gr150t3-gr150ti-2007-847004-9/",
+    "bundlePath": "/data/bundles/garinni/gr150t3-gr150ti-2007-847004-9.json"
+  },
+  {
+    "vehicleId": "garinni-gr150t3-gr150ti-2008-gasolina",
+    "canonicalPath": "/fipe/garinni/gr150t3-gr150ti-2008-847004-9/",
+    "bundlePath": "/data/bundles/garinni/gr150t3-gr150ti-2008-847004-9.json"
+  },
+  {
+    "vehicleId": "garinni-gr150t3-gr150ti-2009-gasolina",
+    "canonicalPath": "/fipe/garinni/gr150t3-gr150ti-2009-847004-9/",
+    "bundlePath": "/data/bundles/garinni/gr150t3-gr150ti-2009-847004-9.json"
+  },
+  {
+    "vehicleId": "garinni-gr150u-2006-gasolina",
+    "canonicalPath": "/fipe/garinni/gr150u-2006-847005-7/",
+    "bundlePath": "/data/bundles/garinni/gr150u-2006-847005-7.json"
+  },
+  {
+    "vehicleId": "garinni-gr150u-2007-gasolina",
+    "canonicalPath": "/fipe/garinni/gr150u-2007-847005-7/",
+    "bundlePath": "/data/bundles/garinni/gr150u-2007-847005-7.json"
+  },
+  {
+    "vehicleId": "garinni-gr250t3-2008-gasolina",
+    "canonicalPath": "/fipe/garinni/gr250t3-2008-847010-3/",
+    "bundlePath": "/data/bundles/garinni/gr250t3-2008-847010-3.json"
+  },
+  {
+    "vehicleId": "garinni-gr250t3-2009-gasolina",
+    "canonicalPath": "/fipe/garinni/gr250t3-2009-847010-3/",
+    "bundlePath": "/data/bundles/garinni/gr250t3-2009-847010-3.json"
+  },
+  {
+    "vehicleId": "gas-gas-ec-125-enducross-2001-gasolina",
+    "canonicalPath": "/fipe/gas-gas/ec-125-enducross-2001-834003-0/",
+    "bundlePath": "/data/bundles/gas-gas/ec-125-enducross-2001-834003-0.json"
+  },
+  {
+    "vehicleId": "gas-gas-ec-125-enducross-2002-gasolina",
+    "canonicalPath": "/fipe/gas-gas/ec-125-enducross-2002-834003-0/",
+    "bundlePath": "/data/bundles/gas-gas/ec-125-enducross-2002-834003-0.json"
+  },
+  {
+    "vehicleId": "gas-gas-ec-125-enducross-2004-gasolina",
+    "canonicalPath": "/fipe/gas-gas/ec-125-enducross-2004-834003-0/",
+    "bundlePath": "/data/bundles/gas-gas/ec-125-enducross-2004-834003-0.json"
+  },
+  {
+    "vehicleId": "gas-gas-ec-125-enducross-2005-gasolina",
+    "canonicalPath": "/fipe/gas-gas/ec-125-enducross-2005-834003-0/",
+    "bundlePath": "/data/bundles/gas-gas/ec-125-enducross-2005-834003-0.json"
+  },
+  {
+    "vehicleId": "gas-gas-ec-125-enducross-2007-gasolina",
+    "canonicalPath": "/fipe/gas-gas/ec-125-enducross-2007-834003-0/",
+    "bundlePath": "/data/bundles/gas-gas/ec-125-enducross-2007-834003-0.json"
+  },
+  {
+    "vehicleId": "gas-gas-ec-125-enducross-2008-gasolina",
+    "canonicalPath": "/fipe/gas-gas/ec-125-enducross-2008-834003-0/",
+    "bundlePath": "/data/bundles/gas-gas/ec-125-enducross-2008-834003-0.json"
+  },
+  {
+    "vehicleId": "gas-gas-ec-125-enducross-2009-gasolina",
+    "canonicalPath": "/fipe/gas-gas/ec-125-enducross-2009-834003-0/",
+    "bundlePath": "/data/bundles/gas-gas/ec-125-enducross-2009-834003-0.json"
+  },
+  {
+    "vehicleId": "gas-gas-ec-200-enducross-1999-gasolina",
+    "canonicalPath": "/fipe/gas-gas/ec-200-enducross-1999-834004-8/",
+    "bundlePath": "/data/bundles/gas-gas/ec-200-enducross-1999-834004-8.json"
+  },
+  {
+    "vehicleId": "gas-gas-ec-200-enducross-2000-gasolina",
+    "canonicalPath": "/fipe/gas-gas/ec-200-enducross-2000-834004-8/",
+    "bundlePath": "/data/bundles/gas-gas/ec-200-enducross-2000-834004-8.json"
+  },
+  {
+    "vehicleId": "gas-gas-ec-200-enducross-2001-gasolina",
+    "canonicalPath": "/fipe/gas-gas/ec-200-enducross-2001-834004-8/",
+    "bundlePath": "/data/bundles/gas-gas/ec-200-enducross-2001-834004-8.json"
+  },
+  {
+    "vehicleId": "gas-gas-ec-200-enducross-2002-gasolina",
+    "canonicalPath": "/fipe/gas-gas/ec-200-enducross-2002-834004-8/",
+    "bundlePath": "/data/bundles/gas-gas/ec-200-enducross-2002-834004-8.json"
+  },
+  {
+    "vehicleId": "gas-gas-ec-200-enducross-2004-gasolina",
+    "canonicalPath": "/fipe/gas-gas/ec-200-enducross-2004-834004-8/",
+    "bundlePath": "/data/bundles/gas-gas/ec-200-enducross-2004-834004-8.json"
+  },
+  {
+    "vehicleId": "gas-gas-ec-200-enducross-2005-gasolina",
+    "canonicalPath": "/fipe/gas-gas/ec-200-enducross-2005-834004-8/",
+    "bundlePath": "/data/bundles/gas-gas/ec-200-enducross-2005-834004-8.json"
+  },
+  {
+    "vehicleId": "gas-gas-ec-200-enducross-2007-gasolina",
+    "canonicalPath": "/fipe/gas-gas/ec-200-enducross-2007-834004-8/",
+    "bundlePath": "/data/bundles/gas-gas/ec-200-enducross-2007-834004-8.json"
+  },
+  {
+    "vehicleId": "gas-gas-ec-200-enducross-2008-gasolina",
+    "canonicalPath": "/fipe/gas-gas/ec-200-enducross-2008-834004-8/",
+    "bundlePath": "/data/bundles/gas-gas/ec-200-enducross-2008-834004-8.json"
+  },
+  {
+    "vehicleId": "gas-gas-ec-200-enducross-2009-gasolina",
+    "canonicalPath": "/fipe/gas-gas/ec-200-enducross-2009-834004-8/",
+    "bundlePath": "/data/bundles/gas-gas/ec-200-enducross-2009-834004-8.json"
+  },
+  {
+    "vehicleId": "gas-gas-ec-250-enducross-1999-gasolina",
+    "canonicalPath": "/fipe/gas-gas/ec-250-enducross-1999-834005-6/",
+    "bundlePath": "/data/bundles/gas-gas/ec-250-enducross-1999-834005-6.json"
+  },
+  {
+    "vehicleId": "gas-gas-ec-250-enducross-2000-gasolina",
+    "canonicalPath": "/fipe/gas-gas/ec-250-enducross-2000-834005-6/",
+    "bundlePath": "/data/bundles/gas-gas/ec-250-enducross-2000-834005-6.json"
+  },
+  {
+    "vehicleId": "gas-gas-ec-250-enducross-2001-gasolina",
+    "canonicalPath": "/fipe/gas-gas/ec-250-enducross-2001-834005-6/",
+    "bundlePath": "/data/bundles/gas-gas/ec-250-enducross-2001-834005-6.json"
+  },
+  {
+    "vehicleId": "gas-gas-ec-250-enducross-2002-gasolina",
+    "canonicalPath": "/fipe/gas-gas/ec-250-enducross-2002-834005-6/",
+    "bundlePath": "/data/bundles/gas-gas/ec-250-enducross-2002-834005-6.json"
+  },
+  {
+    "vehicleId": "gas-gas-ec-250-enducross-2003-gasolina",
+    "canonicalPath": "/fipe/gas-gas/ec-250-enducross-2003-834005-6/",
+    "bundlePath": "/data/bundles/gas-gas/ec-250-enducross-2003-834005-6.json"
+  },
+  {
+    "vehicleId": "gas-gas-ec-250-enducross-2004-gasolina",
+    "canonicalPath": "/fipe/gas-gas/ec-250-enducross-2004-834005-6/",
+    "bundlePath": "/data/bundles/gas-gas/ec-250-enducross-2004-834005-6.json"
+  },
+  {
+    "vehicleId": "gas-gas-ec-250-enducross-2005-gasolina",
+    "canonicalPath": "/fipe/gas-gas/ec-250-enducross-2005-834005-6/",
+    "bundlePath": "/data/bundles/gas-gas/ec-250-enducross-2005-834005-6.json"
+  },
+  {
+    "vehicleId": "gas-gas-ec-250-enducross-2006-gasolina",
+    "canonicalPath": "/fipe/gas-gas/ec-250-enducross-2006-834005-6/",
+    "bundlePath": "/data/bundles/gas-gas/ec-250-enducross-2006-834005-6.json"
+  },
+  {
+    "vehicleId": "gas-gas-ec-250-enducross-2007-gasolina",
+    "canonicalPath": "/fipe/gas-gas/ec-250-enducross-2007-834005-6/",
+    "bundlePath": "/data/bundles/gas-gas/ec-250-enducross-2007-834005-6.json"
+  },
+  {
+    "vehicleId": "gas-gas-ec-250-enducross-2008-gasolina",
+    "canonicalPath": "/fipe/gas-gas/ec-250-enducross-2008-834005-6/",
+    "bundlePath": "/data/bundles/gas-gas/ec-250-enducross-2008-834005-6.json"
+  },
+  {
+    "vehicleId": "gas-gas-ec-250-enducross-2009-gasolina",
+    "canonicalPath": "/fipe/gas-gas/ec-250-enducross-2009-834005-6/",
+    "bundlePath": "/data/bundles/gas-gas/ec-250-enducross-2009-834005-6.json"
+  },
+  {
+    "vehicleId": "gas-gas-ec-250-enducross-2010-gasolina",
+    "canonicalPath": "/fipe/gas-gas/ec-250-enducross-2010-834005-6/",
+    "bundlePath": "/data/bundles/gas-gas/ec-250-enducross-2010-834005-6.json"
+  },
+  {
+    "vehicleId": "gas-gas-ec-250-enducross-2011-gasolina",
+    "canonicalPath": "/fipe/gas-gas/ec-250-enducross-2011-834005-6/",
+    "bundlePath": "/data/bundles/gas-gas/ec-250-enducross-2011-834005-6.json"
+  },
+  {
+    "vehicleId": "gas-gas-ec-250-enducross-2012-gasolina",
+    "canonicalPath": "/fipe/gas-gas/ec-250-enducross-2012-834005-6/",
+    "bundlePath": "/data/bundles/gas-gas/ec-250-enducross-2012-834005-6.json"
+  },
+  {
+    "vehicleId": "gas-gas-ec-250-enducross-2013-gasolina",
+    "canonicalPath": "/fipe/gas-gas/ec-250-enducross-2013-834005-6/",
+    "bundlePath": "/data/bundles/gas-gas/ec-250-enducross-2013-834005-6.json"
+  },
+  {
+    "vehicleId": "gas-gas-ec-250-enducross-2014-gasolina",
+    "canonicalPath": "/fipe/gas-gas/ec-250-enducross-2014-834005-6/",
+    "bundlePath": "/data/bundles/gas-gas/ec-250-enducross-2014-834005-6.json"
+  },
+  {
+    "vehicleId": "gas-gas-ec-250-enducross-2015-gasolina",
+    "canonicalPath": "/fipe/gas-gas/ec-250-enducross-2015-834005-6/",
+    "bundlePath": "/data/bundles/gas-gas/ec-250-enducross-2015-834005-6.json"
+  },
+  {
+    "vehicleId": "gas-gas-ec-300-enducross-1999-gasolina",
+    "canonicalPath": "/fipe/gas-gas/ec-300-enducross-1999-834006-4/",
+    "bundlePath": "/data/bundles/gas-gas/ec-300-enducross-1999-834006-4.json"
+  },
+  {
+    "vehicleId": "gas-gas-ec-300-enducross-2000-gasolina",
+    "canonicalPath": "/fipe/gas-gas/ec-300-enducross-2000-834006-4/",
+    "bundlePath": "/data/bundles/gas-gas/ec-300-enducross-2000-834006-4.json"
+  },
+  {
+    "vehicleId": "gas-gas-ec-300-enducross-2001-gasolina",
+    "canonicalPath": "/fipe/gas-gas/ec-300-enducross-2001-834006-4/",
+    "bundlePath": "/data/bundles/gas-gas/ec-300-enducross-2001-834006-4.json"
+  },
+  {
+    "vehicleId": "gas-gas-ec-300-enducross-2002-gasolina",
+    "canonicalPath": "/fipe/gas-gas/ec-300-enducross-2002-834006-4/",
+    "bundlePath": "/data/bundles/gas-gas/ec-300-enducross-2002-834006-4.json"
+  },
+  {
+    "vehicleId": "gas-gas-ec-300-enducross-2003-gasolina",
+    "canonicalPath": "/fipe/gas-gas/ec-300-enducross-2003-834006-4/",
+    "bundlePath": "/data/bundles/gas-gas/ec-300-enducross-2003-834006-4.json"
+  },
+  {
+    "vehicleId": "gas-gas-ec-300-enducross-2004-gasolina",
+    "canonicalPath": "/fipe/gas-gas/ec-300-enducross-2004-834006-4/",
+    "bundlePath": "/data/bundles/gas-gas/ec-300-enducross-2004-834006-4.json"
+  },
+  {
+    "vehicleId": "gas-gas-ec-300-enducross-2005-gasolina",
+    "canonicalPath": "/fipe/gas-gas/ec-300-enducross-2005-834006-4/",
+    "bundlePath": "/data/bundles/gas-gas/ec-300-enducross-2005-834006-4.json"
+  },
+  {
+    "vehicleId": "gas-gas-ec-300-enducross-2006-gasolina",
+    "canonicalPath": "/fipe/gas-gas/ec-300-enducross-2006-834006-4/",
+    "bundlePath": "/data/bundles/gas-gas/ec-300-enducross-2006-834006-4.json"
+  },
+  {
+    "vehicleId": "gas-gas-ec-300-enducross-2007-gasolina",
+    "canonicalPath": "/fipe/gas-gas/ec-300-enducross-2007-834006-4/",
+    "bundlePath": "/data/bundles/gas-gas/ec-300-enducross-2007-834006-4.json"
+  },
+  {
+    "vehicleId": "gas-gas-ec-300-enducross-2008-gasolina",
+    "canonicalPath": "/fipe/gas-gas/ec-300-enducross-2008-834006-4/",
+    "bundlePath": "/data/bundles/gas-gas/ec-300-enducross-2008-834006-4.json"
+  },
+  {
+    "vehicleId": "gas-gas-ec-300-enducross-2009-gasolina",
+    "canonicalPath": "/fipe/gas-gas/ec-300-enducross-2009-834006-4/",
+    "bundlePath": "/data/bundles/gas-gas/ec-300-enducross-2009-834006-4.json"
+  },
+  {
+    "vehicleId": "gas-gas-ec-300-enducross-2010-gasolina",
+    "canonicalPath": "/fipe/gas-gas/ec-300-enducross-2010-834006-4/",
+    "bundlePath": "/data/bundles/gas-gas/ec-300-enducross-2010-834006-4.json"
+  },
+  {
+    "vehicleId": "gas-gas-ec-300-enducross-2011-gasolina",
+    "canonicalPath": "/fipe/gas-gas/ec-300-enducross-2011-834006-4/",
+    "bundlePath": "/data/bundles/gas-gas/ec-300-enducross-2011-834006-4.json"
+  },
+  {
+    "vehicleId": "gas-gas-ec-300-enducross-2012-gasolina",
+    "canonicalPath": "/fipe/gas-gas/ec-300-enducross-2012-834006-4/",
+    "bundlePath": "/data/bundles/gas-gas/ec-300-enducross-2012-834006-4.json"
+  },
+  {
+    "vehicleId": "gas-gas-ec-300-enducross-2013-gasolina",
+    "canonicalPath": "/fipe/gas-gas/ec-300-enducross-2013-834006-4/",
+    "bundlePath": "/data/bundles/gas-gas/ec-300-enducross-2013-834006-4.json"
+  },
+  {
+    "vehicleId": "gas-gas-ec-300-enducross-2014-gasolina",
+    "canonicalPath": "/fipe/gas-gas/ec-300-enducross-2014-834006-4/",
+    "bundlePath": "/data/bundles/gas-gas/ec-300-enducross-2014-834006-4.json"
+  },
+  {
+    "vehicleId": "gas-gas-ec-300-enducross-2015-gasolina",
+    "canonicalPath": "/fipe/gas-gas/ec-300-enducross-2015-834006-4/",
+    "bundlePath": "/data/bundles/gas-gas/ec-300-enducross-2015-834006-4.json"
+  },
+  {
+    "vehicleId": "gas-gas-ec-400-fse-enducross-2002-gasolina",
+    "canonicalPath": "/fipe/gas-gas/ec-400-fse-enducross-2002-834016-1/",
+    "bundlePath": "/data/bundles/gas-gas/ec-400-fse-enducross-2002-834016-1.json"
+  },
+  {
+    "vehicleId": "gas-gas-ec-450-fse-fsr-enducross-2004-gasolina",
+    "canonicalPath": "/fipe/gas-gas/ec-450-fse-fsr-enducross-2004-834017-0/",
+    "bundlePath": "/data/bundles/gas-gas/ec-450-fse-fsr-enducross-2004-834017-0.json"
+  },
+  {
+    "vehicleId": "gas-gas-ec-450-fse-fsr-enducross-2005-gasolina",
+    "canonicalPath": "/fipe/gas-gas/ec-450-fse-fsr-enducross-2005-834017-0/",
+    "bundlePath": "/data/bundles/gas-gas/ec-450-fse-fsr-enducross-2005-834017-0.json"
+  },
+  {
+    "vehicleId": "gas-gas-ec-450-fse-fsr-enducross-2006-gasolina",
+    "canonicalPath": "/fipe/gas-gas/ec-450-fse-fsr-enducross-2006-834017-0/",
+    "bundlePath": "/data/bundles/gas-gas/ec-450-fse-fsr-enducross-2006-834017-0.json"
+  },
+  {
+    "vehicleId": "gas-gas-ec-450-fse-fsr-enducross-2007-gasolina",
+    "canonicalPath": "/fipe/gas-gas/ec-450-fse-fsr-enducross-2007-834017-0/",
+    "bundlePath": "/data/bundles/gas-gas/ec-450-fse-fsr-enducross-2007-834017-0.json"
+  },
+  {
+    "vehicleId": "gas-gas-ec-450-fse-fsr-enducross-2008-gasolina",
+    "canonicalPath": "/fipe/gas-gas/ec-450-fse-fsr-enducross-2008-834017-0/",
+    "bundlePath": "/data/bundles/gas-gas/ec-450-fse-fsr-enducross-2008-834017-0.json"
+  },
+  {
+    "vehicleId": "gas-gas-ec-450-fse-fsr-enducross-2009-gasolina",
+    "canonicalPath": "/fipe/gas-gas/ec-450-fse-fsr-enducross-2009-834017-0/",
+    "bundlePath": "/data/bundles/gas-gas/ec-450-fse-fsr-enducross-2009-834017-0.json"
+  },
+  {
+    "vehicleId": "gas-gas-ec-450-fse-fsr-enducross-2014-gasolina",
+    "canonicalPath": "/fipe/gas-gas/ec-450-fse-fsr-enducross-2014-834017-0/",
+    "bundlePath": "/data/bundles/gas-gas/ec-450-fse-fsr-enducross-2014-834017-0.json"
+  },
+  {
+    "vehicleId": "gas-gas-ec-50-rookie-enduro-2001-gasolina",
+    "canonicalPath": "/fipe/gas-gas/ec-50-rookie-enduro-2001-834014-5/",
+    "bundlePath": "/data/bundles/gas-gas/ec-50-rookie-enduro-2001-834014-5.json"
+  },
+  {
+    "vehicleId": "gas-gas-ec-50-rookie-enduro-2002-gasolina",
+    "canonicalPath": "/fipe/gas-gas/ec-50-rookie-enduro-2002-834014-5/",
+    "bundlePath": "/data/bundles/gas-gas/ec-50-rookie-enduro-2002-834014-5.json"
+  },
+  {
+    "vehicleId": "gas-gas-ec-boy-50-2000-gasolina",
+    "canonicalPath": "/fipe/gas-gas/ec-boy-50-2000-834013-7/",
+    "bundlePath": "/data/bundles/gas-gas/ec-boy-50-2000-834013-7.json"
+  },
+  {
+    "vehicleId": "gas-gas-ec-boy-50-2001-gasolina",
+    "canonicalPath": "/fipe/gas-gas/ec-boy-50-2001-834013-7/",
+    "bundlePath": "/data/bundles/gas-gas/ec-boy-50-2001-834013-7.json"
+  },
+  {
+    "vehicleId": "gas-gas-ec-boy-50-2002-gasolina",
+    "canonicalPath": "/fipe/gas-gas/ec-boy-50-2002-834013-7/",
+    "bundlePath": "/data/bundles/gas-gas/ec-boy-50-2002-834013-7.json"
+  },
+  {
+    "vehicleId": "gas-gas-ec-boy-50-2004-gasolina",
+    "canonicalPath": "/fipe/gas-gas/ec-boy-50-2004-834013-7/",
+    "bundlePath": "/data/bundles/gas-gas/ec-boy-50-2004-834013-7.json"
+  },
+  {
+    "vehicleId": "gas-gas-ec-boy-50-2005-gasolina",
+    "canonicalPath": "/fipe/gas-gas/ec-boy-50-2005-834013-7/",
+    "bundlePath": "/data/bundles/gas-gas/ec-boy-50-2005-834013-7.json"
+  },
+  {
+    "vehicleId": "gas-gas-mc-250-2000-gasolina",
+    "canonicalPath": "/fipe/gas-gas/mc-250-2000-834008-0/",
+    "bundlePath": "/data/bundles/gas-gas/mc-250-2000-834008-0.json"
+  },
+  {
+    "vehicleId": "gas-gas-mc-250-2001-gasolina",
+    "canonicalPath": "/fipe/gas-gas/mc-250-2001-834008-0/",
+    "bundlePath": "/data/bundles/gas-gas/mc-250-2001-834008-0.json"
+  },
+  {
+    "vehicleId": "gas-gas-mc-250-2002-gasolina",
+    "canonicalPath": "/fipe/gas-gas/mc-250-2002-834008-0/",
+    "bundlePath": "/data/bundles/gas-gas/mc-250-2002-834008-0.json"
+  },
+  {
+    "vehicleId": "gas-gas-mc-250-2004-gasolina",
+    "canonicalPath": "/fipe/gas-gas/mc-250-2004-834008-0/",
+    "bundlePath": "/data/bundles/gas-gas/mc-250-2004-834008-0.json"
+  },
+  {
+    "vehicleId": "gas-gas-pampera-125cc-2001-gasolina",
+    "canonicalPath": "/fipe/gas-gas/pampera-125cc-2001-834001-3/",
+    "bundlePath": "/data/bundles/gas-gas/pampera-125cc-2001-834001-3.json"
+  },
+  {
+    "vehicleId": "gas-gas-pampera-250cc-1999-gasolina",
+    "canonicalPath": "/fipe/gas-gas/pampera-250cc-1999-834002-1/",
+    "bundlePath": "/data/bundles/gas-gas/pampera-250cc-1999-834002-1.json"
+  },
+  {
+    "vehicleId": "gas-gas-pampera-250cc-2000-gasolina",
+    "canonicalPath": "/fipe/gas-gas/pampera-250cc-2000-834002-1/",
+    "bundlePath": "/data/bundles/gas-gas/pampera-250cc-2000-834002-1.json"
+  },
+  {
+    "vehicleId": "gas-gas-pampera-250cc-2001-gasolina",
+    "canonicalPath": "/fipe/gas-gas/pampera-250cc-2001-834002-1/",
+    "bundlePath": "/data/bundles/gas-gas/pampera-250cc-2001-834002-1.json"
+  },
+  {
+    "vehicleId": "gas-gas-pampera-250cc-2002-gasolina",
+    "canonicalPath": "/fipe/gas-gas/pampera-250cc-2002-834002-1/",
+    "bundlePath": "/data/bundles/gas-gas/pampera-250cc-2002-834002-1.json"
+  },
+  {
+    "vehicleId": "gas-gas-tx-boy-50-2001-gasolina",
+    "canonicalPath": "/fipe/gas-gas/tx-boy-50-2001-834009-9/",
+    "bundlePath": "/data/bundles/gas-gas/tx-boy-50-2001-834009-9.json"
+  },
+  {
+    "vehicleId": "gas-gas-tx-boy-50-2002-gasolina",
+    "canonicalPath": "/fipe/gas-gas/tx-boy-50-2002-834009-9/",
+    "bundlePath": "/data/bundles/gas-gas/tx-boy-50-2002-834009-9.json"
+  },
+  {
+    "vehicleId": "gas-gas-tx-boy-50-2004-gasolina",
+    "canonicalPath": "/fipe/gas-gas/tx-boy-50-2004-834009-9/",
+    "bundlePath": "/data/bundles/gas-gas/tx-boy-50-2004-834009-9.json"
+  },
+  {
+    "vehicleId": "gas-gas-tx-boy-50-2005-gasolina",
+    "canonicalPath": "/fipe/gas-gas/tx-boy-50-2005-834009-9/",
+    "bundlePath": "/data/bundles/gas-gas/tx-boy-50-2005-834009-9.json"
+  },
+  {
+    "vehicleId": "gas-gas-tx-boy-50-2007-gasolina",
+    "canonicalPath": "/fipe/gas-gas/tx-boy-50-2007-834009-9/",
+    "bundlePath": "/data/bundles/gas-gas/tx-boy-50-2007-834009-9.json"
+  },
+  {
+    "vehicleId": "gas-gas-tx-boy-50-2008-gasolina",
+    "canonicalPath": "/fipe/gas-gas/tx-boy-50-2008-834009-9/",
+    "bundlePath": "/data/bundles/gas-gas/tx-boy-50-2008-834009-9.json"
+  },
+  {
+    "vehicleId": "gas-gas-txt-200-contact-2001-gasolina",
+    "canonicalPath": "/fipe/gas-gas/txt-200-contact-2001-834010-2/",
+    "bundlePath": "/data/bundles/gas-gas/txt-200-contact-2001-834010-2.json"
+  },
+  {
+    "vehicleId": "gas-gas-txt-200-contact-2002-gasolina",
+    "canonicalPath": "/fipe/gas-gas/txt-200-contact-2002-834010-2/",
+    "bundlePath": "/data/bundles/gas-gas/txt-200-contact-2002-834010-2.json"
+  },
+  {
+    "vehicleId": "gas-gas-txt-280-contact-2001-gasolina",
+    "canonicalPath": "/fipe/gas-gas/txt-280-contact-2001-834011-0/",
+    "bundlePath": "/data/bundles/gas-gas/txt-280-contact-2001-834011-0.json"
+  },
+  {
+    "vehicleId": "gas-gas-txt-280-contact-2002-gasolina",
+    "canonicalPath": "/fipe/gas-gas/txt-280-contact-2002-834011-0/",
+    "bundlePath": "/data/bundles/gas-gas/txt-280-contact-2002-834011-0.json"
+  },
+  {
+    "vehicleId": "gas-gas-txt-321-contact-2001-gasolina",
+    "canonicalPath": "/fipe/gas-gas/txt-321-contact-2001-834012-9/",
+    "bundlePath": "/data/bundles/gas-gas/txt-321-contact-2001-834012-9.json"
+  },
+  {
+    "vehicleId": "gas-gas-txt-50-rookie-2001-gasolina",
+    "canonicalPath": "/fipe/gas-gas/txt-50-rookie-2001-834015-3/",
+    "bundlePath": "/data/bundles/gas-gas/txt-50-rookie-2001-834015-3.json"
+  },
+  {
+    "vehicleId": "geely-ec7-1-8-16v-130cv-4p-mec-2014-gasolina",
+    "canonicalPath": "/fipe/geely/ec7-1-8-16v-130cv-4p-mec-2014-088001-9/",
+    "bundlePath": "/data/bundles/geely/ec7-1-8-16v-130cv-4p-mec-2014-088001-9.json"
+  },
+  {
+    "vehicleId": "geely-ex2-max-2026-eletrico",
+    "canonicalPath": "/fipe/geely/ex2-max-2026-088006-0/",
+    "bundlePath": "/data/bundles/geely/ex2-max-2026-088006-0.json"
+  },
+  {
+    "vehicleId": "geely-ex2-max-0-eletrico",
+    "canonicalPath": "/fipe/geely/ex2-max-0-088006-0/",
+    "bundlePath": "/data/bundles/geely/ex2-max-0-088006-0.json"
+  },
+  {
+    "vehicleId": "geely-ex2-pro-2026-eletrico",
+    "canonicalPath": "/fipe/geely/ex2-pro-2026-088005-1/",
+    "bundlePath": "/data/bundles/geely/ex2-pro-2026-088005-1.json"
+  },
+  {
+    "vehicleId": "geely-ex2-pro-0-eletrico",
+    "canonicalPath": "/fipe/geely/ex2-pro-0-088005-1/",
+    "bundlePath": "/data/bundles/geely/ex2-pro-0-088005-1.json"
+  },
+  {
+    "vehicleId": "geely-ex5-em-i-max-2026-hibrido",
+    "canonicalPath": "/fipe/geely/ex5-em-i-max-2026-088008-6/",
+    "bundlePath": "/data/bundles/geely/ex5-em-i-max-2026-088008-6.json"
+  },
+  {
+    "vehicleId": "geely-ex5-em-i-max-0-hibrido",
+    "canonicalPath": "/fipe/geely/ex5-em-i-max-0-088008-6/",
+    "bundlePath": "/data/bundles/geely/ex5-em-i-max-0-088008-6.json"
+  },
+  {
+    "vehicleId": "geely-ex5-em-i-pro-2026-hibrido",
+    "canonicalPath": "/fipe/geely/ex5-em-i-pro-2026-088007-8/",
+    "bundlePath": "/data/bundles/geely/ex5-em-i-pro-2026-088007-8.json"
+  },
+  {
+    "vehicleId": "geely-ex5-em-i-pro-0-hibrido",
+    "canonicalPath": "/fipe/geely/ex5-em-i-pro-0-088007-8/",
+    "bundlePath": "/data/bundles/geely/ex5-em-i-pro-0-088007-8.json"
+  },
+  {
+    "vehicleId": "geely-ex5-em-i-ultra-2026-hibrido",
+    "canonicalPath": "/fipe/geely/ex5-em-i-ultra-2026-088009-4/",
+    "bundlePath": "/data/bundles/geely/ex5-em-i-ultra-2026-088009-4.json"
+  },
+  {
+    "vehicleId": "geely-ex5-em-i-ultra-0-hibrido",
+    "canonicalPath": "/fipe/geely/ex5-em-i-ultra-0-088009-4/",
+    "bundlePath": "/data/bundles/geely/ex5-em-i-ultra-0-088009-4.json"
+  },
+  {
+    "vehicleId": "geely-ex5-max-eletrico-2026-eletrico",
+    "canonicalPath": "/fipe/geely/ex5-max-eletrico-2026-088004-3/",
+    "bundlePath": "/data/bundles/geely/ex5-max-eletrico-2026-088004-3.json"
+  },
+  {
+    "vehicleId": "geely-ex5-max-eletrico-0-eletrico",
+    "canonicalPath": "/fipe/geely/ex5-max-eletrico-0-088004-3/",
+    "bundlePath": "/data/bundles/geely/ex5-max-eletrico-0-088004-3.json"
+  },
+  {
+    "vehicleId": "geely-ex5-pro-eletrico-2026-eletrico",
+    "canonicalPath": "/fipe/geely/ex5-pro-eletrico-2026-088003-5/",
+    "bundlePath": "/data/bundles/geely/ex5-pro-eletrico-2026-088003-5.json"
+  },
+  {
+    "vehicleId": "geely-ex5-pro-eletrico-0-eletrico",
+    "canonicalPath": "/fipe/geely/ex5-pro-eletrico-0-088003-5/",
+    "bundlePath": "/data/bundles/geely/ex5-pro-eletrico-0-088003-5.json"
+  },
+  {
+    "vehicleId": "geely-gc2-1-0-12v-68cv-5p-2015-gasolina",
+    "canonicalPath": "/fipe/geely/gc2-1-0-12v-68cv-5p-2015-088002-7/",
+    "bundlePath": "/data/bundles/geely/gc2-1-0-12v-68cv-5p-2015-088002-7.json"
+  },
+  {
+    "vehicleId": "great-wall-hover-cuv-2-4-16v-4wd-5p-mec-2007-gasolina",
+    "canonicalPath": "/fipe/great-wall/hover-cuv-2-4-16v-4wd-5p-mec-2007-069002-3/",
+    "bundlePath": "/data/bundles/great-wall/hover-cuv-2-4-16v-4wd-5p-mec-2007-069002-3.json"
+  },
+  {
+    "vehicleId": "great-wall-hover-cuv-2-4-16v-4wd-5p-mec-2008-gasolina",
+    "canonicalPath": "/fipe/great-wall/hover-cuv-2-4-16v-4wd-5p-mec-2008-069002-3/",
+    "bundlePath": "/data/bundles/great-wall/hover-cuv-2-4-16v-4wd-5p-mec-2008-069002-3.json"
+  },
+  {
+    "vehicleId": "great-wall-hover-cuv-2-4-16v-5p-mec-2008-gasolina",
+    "canonicalPath": "/fipe/great-wall/hover-cuv-2-4-16v-5p-mec-2008-069001-5/",
+    "bundlePath": "/data/bundles/great-wall/hover-cuv-2-4-16v-5p-mec-2008-069001-5.json"
+  },
+  {
+    "vehicleId": "green-easy-110cc-2007-gasolina",
+    "canonicalPath": "/fipe/green/easy-110cc-2007-854004-7/",
+    "bundlePath": "/data/bundles/green/easy-110cc-2007-854004-7.json"
+  },
+  {
+    "vehicleId": "green-runner-125cc-2007-gasolina",
+    "canonicalPath": "/fipe/green/runner-125cc-2007-854003-9/",
+    "bundlePath": "/data/bundles/green/runner-125cc-2007-854003-9.json"
+  },
+  {
+    "vehicleId": "green-safari-150cc-2007-gasolina",
+    "canonicalPath": "/fipe/green/safari-150cc-2007-854002-0/",
+    "bundlePath": "/data/bundles/green/safari-150cc-2007-854002-0.json"
+  },
+  {
+    "vehicleId": "green-sport-150cc-2007-gasolina",
+    "canonicalPath": "/fipe/green/sport-150cc-2007-854001-2/",
+    "bundlePath": "/data/bundles/green/sport-150cc-2007-854001-2.json"
+  },
+  {
+    "vehicleId": "green-sport-150cc-2008-gasolina",
+    "canonicalPath": "/fipe/green/sport-150cc-2008-854001-2/",
+    "bundlePath": "/data/bundles/green/sport-150cc-2008-854001-2.json"
+  },
+  {
+    "vehicleId": "gwm-haval-h6-1-5-hibrido-2024-hibrido",
+    "canonicalPath": "/fipe/gwm/haval-h6-1-5-hibrido-2024-096005-5/",
+    "bundlePath": "/data/bundles/gwm/haval-h6-1-5-hibrido-2024-096005-5.json"
+  },
+  {
+    "vehicleId": "gwm-haval-h6-1-5-awd-hibrido-2024-hibrido",
+    "canonicalPath": "/fipe/gwm/haval-h6-1-5-awd-hibrido-2024-096004-7/",
+    "bundlePath": "/data/bundles/gwm/haval-h6-1-5-awd-hibrido-2024-096004-7.json"
+  },
+  {
+    "vehicleId": "gwm-haval-h6-19-1-5-hibrido-2025-hibrido",
+    "canonicalPath": "/fipe/gwm/haval-h6-19-1-5-hibrido-2025-096008-0/",
+    "bundlePath": "/data/bundles/gwm/haval-h6-19-1-5-hibrido-2025-096008-0.json"
+  },
+  {
+    "vehicleId": "gwm-haval-h6-19-1-5-hibrido-2026-hibrido",
+    "canonicalPath": "/fipe/gwm/haval-h6-19-1-5-hibrido-2026-096008-0/",
+    "bundlePath": "/data/bundles/gwm/haval-h6-19-1-5-hibrido-2026-096008-0.json"
+  },
+  {
+    "vehicleId": "gwm-haval-h6-19-1-5-hibrido-0-hibrido",
+    "canonicalPath": "/fipe/gwm/haval-h6-19-1-5-hibrido-0-096008-0/",
+    "bundlePath": "/data/bundles/gwm/haval-h6-19-1-5-hibrido-0-096008-0.json"
+  },
+  {
+    "vehicleId": "gwm-haval-h6-2-1-5-hibrido-2023-hibrido",
+    "canonicalPath": "/fipe/gwm/haval-h6-2-1-5-hibrido-2023-096001-2/",
+    "bundlePath": "/data/bundles/gwm/haval-h6-2-1-5-hibrido-2023-096001-2.json"
+  },
+  {
+    "vehicleId": "gwm-haval-h6-2-1-5-hibrido-2024-hibrido",
+    "canonicalPath": "/fipe/gwm/haval-h6-2-1-5-hibrido-2024-096001-2/",
+    "bundlePath": "/data/bundles/gwm/haval-h6-2-1-5-hibrido-2024-096001-2.json"
+  },
+  {
+    "vehicleId": "gwm-haval-h6-2-1-5-hibrido-2025-hibrido",
+    "canonicalPath": "/fipe/gwm/haval-h6-2-1-5-hibrido-2025-096001-2/",
+    "bundlePath": "/data/bundles/gwm/haval-h6-2-1-5-hibrido-2025-096001-2.json"
+  },
+  {
+    "vehicleId": "gwm-haval-h6-2-1-5-hibrido-2026-hibrido",
+    "canonicalPath": "/fipe/gwm/haval-h6-2-1-5-hibrido-2026-096001-2/",
+    "bundlePath": "/data/bundles/gwm/haval-h6-2-1-5-hibrido-2026-096001-2.json"
+  },
+  {
+    "vehicleId": "gwm-haval-h6-2-1-5-hibrido-0-hibrido",
+    "canonicalPath": "/fipe/gwm/haval-h6-2-1-5-hibrido-0-096001-2/",
+    "bundlePath": "/data/bundles/gwm/haval-h6-2-1-5-hibrido-0-096001-2.json"
+  },
+  {
+    "vehicleId": "gwm-haval-h6-34-1-5-awd-hibrido-2023-hibrido",
+    "canonicalPath": "/fipe/gwm/haval-h6-34-1-5-awd-hibrido-2023-096002-0/",
+    "bundlePath": "/data/bundles/gwm/haval-h6-34-1-5-awd-hibrido-2023-096002-0.json"
+  },
+  {
+    "vehicleId": "gwm-haval-h6-34-1-5-awd-hibrido-2024-hibrido",
+    "canonicalPath": "/fipe/gwm/haval-h6-34-1-5-awd-hibrido-2024-096002-0/",
+    "bundlePath": "/data/bundles/gwm/haval-h6-34-1-5-awd-hibrido-2024-096002-0.json"
+  },
+  {
+    "vehicleId": "gwm-haval-h6-34-1-5-awd-hibrido-2025-hibrido",
+    "canonicalPath": "/fipe/gwm/haval-h6-34-1-5-awd-hibrido-2025-096002-0/",
+    "bundlePath": "/data/bundles/gwm/haval-h6-34-1-5-awd-hibrido-2025-096002-0.json"
+  },
+  {
+    "vehicleId": "gwm-haval-h6-34-1-5-awd-hibrido-0-hibrido",
+    "canonicalPath": "/fipe/gwm/haval-h6-34-1-5-awd-hibrido-0-096002-0/",
+    "bundlePath": "/data/bundles/gwm/haval-h6-34-1-5-awd-hibrido-0-096002-0.json"
+  },
+  {
+    "vehicleId": "gwm-haval-h6-35-1-5-awd-2025-hibrido",
+    "canonicalPath": "/fipe/gwm/haval-h6-35-1-5-awd-2025-096016-0/",
+    "bundlePath": "/data/bundles/gwm/haval-h6-35-1-5-awd-2025-096016-0.json"
+  },
+  {
+    "vehicleId": "gwm-haval-h6-35-1-5-awd-2026-hibrido",
+    "canonicalPath": "/fipe/gwm/haval-h6-35-1-5-awd-2026-096016-0/",
+    "bundlePath": "/data/bundles/gwm/haval-h6-35-1-5-awd-2026-096016-0.json"
+  },
+  {
+    "vehicleId": "gwm-haval-h6-35-1-5-awd-0-hibrido",
+    "canonicalPath": "/fipe/gwm/haval-h6-35-1-5-awd-0-096016-0/",
+    "bundlePath": "/data/bundles/gwm/haval-h6-35-1-5-awd-0-096016-0.json"
+  },
+  {
+    "vehicleId": "gwm-haval-h6-gt-1-5-awd-hibrido-2023-hibrido",
+    "canonicalPath": "/fipe/gwm/haval-h6-gt-1-5-awd-hibrido-2023-096003-9/",
+    "bundlePath": "/data/bundles/gwm/haval-h6-gt-1-5-awd-hibrido-2023-096003-9.json"
+  },
+  {
+    "vehicleId": "gwm-haval-h6-gt-1-5-awd-hibrido-2024-hibrido",
+    "canonicalPath": "/fipe/gwm/haval-h6-gt-1-5-awd-hibrido-2024-096003-9/",
+    "bundlePath": "/data/bundles/gwm/haval-h6-gt-1-5-awd-hibrido-2024-096003-9.json"
+  },
+  {
+    "vehicleId": "gwm-haval-h6-gt-1-5-awd-hibrido-2025-hibrido",
+    "canonicalPath": "/fipe/gwm/haval-h6-gt-1-5-awd-hibrido-2025-096003-9/",
+    "bundlePath": "/data/bundles/gwm/haval-h6-gt-1-5-awd-hibrido-2025-096003-9.json"
+  },
+  {
+    "vehicleId": "gwm-haval-h6-gt-1-5-awd-hibrido-2026-hibrido",
+    "canonicalPath": "/fipe/gwm/haval-h6-gt-1-5-awd-hibrido-2026-096003-9/",
+    "bundlePath": "/data/bundles/gwm/haval-h6-gt-1-5-awd-hibrido-2026-096003-9.json"
+  },
+  {
+    "vehicleId": "gwm-haval-h6-gt-1-5-awd-hibrido-0-hibrido",
+    "canonicalPath": "/fipe/gwm/haval-h6-gt-1-5-awd-hibrido-0-096003-9/",
+    "bundlePath": "/data/bundles/gwm/haval-h6-gt-1-5-awd-hibrido-0-096003-9.json"
+  },
+  {
+    "vehicleId": "gwm-haval-h6-one-1-5-hibrido-2025-hibrido",
+    "canonicalPath": "/fipe/gwm/haval-h6-one-1-5-hibrido-2025-096010-1/",
+    "bundlePath": "/data/bundles/gwm/haval-h6-one-1-5-hibrido-2025-096010-1.json"
+  },
+  {
+    "vehicleId": "gwm-haval-h6-one-1-5-hibrido-0-hibrido",
+    "canonicalPath": "/fipe/gwm/haval-h6-one-1-5-hibrido-0-096010-1/",
+    "bundlePath": "/data/bundles/gwm/haval-h6-one-1-5-hibrido-0-096010-1.json"
+  },
+  {
+    "vehicleId": "gwm-haval-h9-exclusive-td480-2026-diesel",
+    "canonicalPath": "/fipe/gwm/haval-h9-exclusive-td480-2026-096012-8/",
+    "bundlePath": "/data/bundles/gwm/haval-h9-exclusive-td480-2026-096012-8.json"
+  },
+  {
+    "vehicleId": "gwm-haval-h9-exclusive-td480-2027-diesel",
+    "canonicalPath": "/fipe/gwm/haval-h9-exclusive-td480-2027-096012-8/",
+    "bundlePath": "/data/bundles/gwm/haval-h9-exclusive-td480-2027-096012-8.json"
+  },
+  {
+    "vehicleId": "gwm-haval-h9-exclusive-td480-0-diesel",
+    "canonicalPath": "/fipe/gwm/haval-h9-exclusive-td480-0-096012-8/",
+    "bundlePath": "/data/bundles/gwm/haval-h9-exclusive-td480-0-096012-8.json"
+  },
+  {
+    "vehicleId": "gwm-ora-03-2026-eletrico",
+    "canonicalPath": "/fipe/gwm/ora-03-2026-096011-0/",
+    "bundlePath": "/data/bundles/gwm/ora-03-2026-096011-0.json"
+  },
+  {
+    "vehicleId": "gwm-ora-03-2027-eletrico",
+    "canonicalPath": "/fipe/gwm/ora-03-2027-096011-0/",
+    "bundlePath": "/data/bundles/gwm/ora-03-2027-096011-0.json"
+  },
+  {
+    "vehicleId": "gwm-ora-03-0-eletrico",
+    "canonicalPath": "/fipe/gwm/ora-03-0-096011-0/",
+    "bundlePath": "/data/bundles/gwm/ora-03-0-096011-0.json"
+  },
+  {
+    "vehicleId": "gwm-ora-03-gt-eletrico-2024-eletrico",
+    "canonicalPath": "/fipe/gwm/ora-03-gt-eletrico-2024-096007-1/",
+    "bundlePath": "/data/bundles/gwm/ora-03-gt-eletrico-2024-096007-1.json"
+  },
+  {
+    "vehicleId": "gwm-ora-03-gt-eletrico-2026-eletrico",
+    "canonicalPath": "/fipe/gwm/ora-03-gt-eletrico-2026-096007-1/",
+    "bundlePath": "/data/bundles/gwm/ora-03-gt-eletrico-2026-096007-1.json"
+  },
+  {
+    "vehicleId": "gwm-ora-03-gt-eletrico-0-eletrico",
+    "canonicalPath": "/fipe/gwm/ora-03-gt-eletrico-0-096007-1/",
+    "bundlePath": "/data/bundles/gwm/ora-03-gt-eletrico-0-096007-1.json"
+  },
+  {
+    "vehicleId": "gwm-ora-03-skin-eletrico-2023-eletrico",
+    "canonicalPath": "/fipe/gwm/ora-03-skin-eletrico-2023-096006-3/",
+    "bundlePath": "/data/bundles/gwm/ora-03-skin-eletrico-2023-096006-3.json"
+  },
+  {
+    "vehicleId": "gwm-ora-03-skin-eletrico-2024-eletrico",
+    "canonicalPath": "/fipe/gwm/ora-03-skin-eletrico-2024-096006-3/",
+    "bundlePath": "/data/bundles/gwm/ora-03-skin-eletrico-2024-096006-3.json"
+  },
+  {
+    "vehicleId": "gwm-ora-03-skin-eletrico-2025-eletrico",
+    "canonicalPath": "/fipe/gwm/ora-03-skin-eletrico-2025-096006-3/",
+    "bundlePath": "/data/bundles/gwm/ora-03-skin-eletrico-2025-096006-3.json"
+  },
+  {
+    "vehicleId": "gwm-ora-03-skin-eletrico-2026-eletrico",
+    "canonicalPath": "/fipe/gwm/ora-03-skin-eletrico-2026-096006-3/",
+    "bundlePath": "/data/bundles/gwm/ora-03-skin-eletrico-2026-096006-3.json"
+  },
+  {
+    "vehicleId": "gwm-ora-03-skin-eletrico-0-eletrico",
+    "canonicalPath": "/fipe/gwm/ora-03-skin-eletrico-0-096006-3/",
+    "bundlePath": "/data/bundles/gwm/ora-03-skin-eletrico-0-096006-3.json"
+  },
+  {
+    "vehicleId": "gwm-poer-p30-exclusive-2-4-16v-turbo-4x4-aut-2026-diesel",
+    "canonicalPath": "/fipe/gwm/poer-p30-exclusive-2-4-16v-turbo-4x4-aut-2026-096014-4/",
+    "bundlePath": "/data/bundles/gwm/poer-p30-exclusive-2-4-16v-turbo-4x4-aut-2026-096014-4.json"
+  },
+  {
+    "vehicleId": "gwm-poer-p30-exclusive-2-4-16v-turbo-4x4-aut-0-diesel",
+    "canonicalPath": "/fipe/gwm/poer-p30-exclusive-2-4-16v-turbo-4x4-aut-0-096014-4/",
+    "bundlePath": "/data/bundles/gwm/poer-p30-exclusive-2-4-16v-turbo-4x4-aut-0-096014-4.json"
+  },
+  {
+    "vehicleId": "gwm-poer-p30-trail-2-4-16v-turbo-4x4-aut-2026-diesel",
+    "canonicalPath": "/fipe/gwm/poer-p30-trail-2-4-16v-turbo-4x4-aut-2026-096013-6/",
+    "bundlePath": "/data/bundles/gwm/poer-p30-trail-2-4-16v-turbo-4x4-aut-2026-096013-6.json"
+  },
+  {
+    "vehicleId": "gwm-poer-p30-trail-2-4-16v-turbo-4x4-aut-0-diesel",
+    "canonicalPath": "/fipe/gwm/poer-p30-trail-2-4-16v-turbo-4x4-aut-0-096013-6/",
+    "bundlePath": "/data/bundles/gwm/poer-p30-trail-2-4-16v-turbo-4x4-aut-0-096013-6.json"
+  },
+  {
+    "vehicleId": "gwm-tank-300-2-0-16v-awd-aut-hibrido-2025-hibrido",
+    "canonicalPath": "/fipe/gwm/tank-300-2-0-16v-awd-aut-hibrido-2025-096009-8/",
+    "bundlePath": "/data/bundles/gwm/tank-300-2-0-16v-awd-aut-hibrido-2025-096009-8.json"
+  },
+  {
+    "vehicleId": "gwm-tank-300-2-0-16v-awd-aut-hibrido-2026-hibrido",
+    "canonicalPath": "/fipe/gwm/tank-300-2-0-16v-awd-aut-hibrido-2026-096009-8/",
+    "bundlePath": "/data/bundles/gwm/tank-300-2-0-16v-awd-aut-hibrido-2026-096009-8.json"
+  },
+  {
+    "vehicleId": "gwm-tank-300-2-0-16v-awd-aut-hibrido-2027-hibrido",
+    "canonicalPath": "/fipe/gwm/tank-300-2-0-16v-awd-aut-hibrido-2027-096009-8/",
+    "bundlePath": "/data/bundles/gwm/tank-300-2-0-16v-awd-aut-hibrido-2027-096009-8.json"
+  },
+  {
+    "vehicleId": "gwm-tank-300-2-0-16v-awd-aut-hibrido-0-hibrido",
+    "canonicalPath": "/fipe/gwm/tank-300-2-0-16v-awd-aut-hibrido-0-096009-8/",
+    "bundlePath": "/data/bundles/gwm/tank-300-2-0-16v-awd-aut-hibrido-0-096009-8.json"
+  },
+  {
+    "vehicleId": "gwm-wey-07-1-5-turbo-awd-2026-hibrido",
+    "canonicalPath": "/fipe/gwm/wey-07-1-5-turbo-awd-2026-096015-2/",
+    "bundlePath": "/data/bundles/gwm/wey-07-1-5-turbo-awd-2026-096015-2.json"
+  },
+  {
+    "vehicleId": "gwm-wey-07-1-5-turbo-awd-2027-hibrido",
+    "canonicalPath": "/fipe/gwm/wey-07-1-5-turbo-awd-2027-096015-2/",
+    "bundlePath": "/data/bundles/gwm/wey-07-1-5-turbo-awd-2027-096015-2.json"
+  },
+  {
+    "vehicleId": "gwm-wey-07-1-5-turbo-awd-0-hibrido",
+    "canonicalPath": "/fipe/gwm/wey-07-1-5-turbo-awd-0-096015-2/",
+    "bundlePath": "/data/bundles/gwm/wey-07-1-5-turbo-awd-0-096015-2.json"
+  },
+  {
+    "vehicleId": "gurgel-br-800-todos-supermini-1988-gasolina",
+    "canonicalPath": "/fipe/gurgel/br-800-todos-supermini-1988-045003-0/",
+    "bundlePath": "/data/bundles/gurgel/br-800-todos-supermini-1988-045003-0.json"
+  },
+  {
+    "vehicleId": "gurgel-br-800-todos-supermini-1989-gasolina",
+    "canonicalPath": "/fipe/gurgel/br-800-todos-supermini-1989-045003-0/",
+    "bundlePath": "/data/bundles/gurgel/br-800-todos-supermini-1989-045003-0.json"
+  },
+  {
+    "vehicleId": "gurgel-br-800-todos-supermini-1990-gasolina",
+    "canonicalPath": "/fipe/gurgel/br-800-todos-supermini-1990-045003-0/",
+    "bundlePath": "/data/bundles/gurgel/br-800-todos-supermini-1990-045003-0.json"
+  },
+  {
+    "vehicleId": "gurgel-br-800-todos-supermini-1991-gasolina",
+    "canonicalPath": "/fipe/gurgel/br-800-todos-supermini-1991-045003-0/",
+    "bundlePath": "/data/bundles/gurgel/br-800-todos-supermini-1991-045003-0.json"
+  },
+  {
+    "vehicleId": "gurgel-br-800-todos-supermini-1992-gasolina",
+    "canonicalPath": "/fipe/gurgel/br-800-todos-supermini-1992-045003-0/",
+    "bundlePath": "/data/bundles/gurgel/br-800-todos-supermini-1992-045003-0.json"
+  },
+  {
+    "vehicleId": "gurgel-br-800-todos-supermini-1993-gasolina",
+    "canonicalPath": "/fipe/gurgel/br-800-todos-supermini-1993-045003-0/",
+    "bundlePath": "/data/bundles/gurgel/br-800-todos-supermini-1993-045003-0.json"
+  },
+  {
+    "vehicleId": "gurgel-carajas-diesel-1985-diesel",
+    "canonicalPath": "/fipe/gurgel/carajas-diesel-1985-045002-2/",
+    "bundlePath": "/data/bundles/gurgel/carajas-diesel-1985-045002-2.json"
+  },
+  {
+    "vehicleId": "gurgel-carajas-diesel-1986-diesel",
+    "canonicalPath": "/fipe/gurgel/carajas-diesel-1986-045002-2/",
+    "bundlePath": "/data/bundles/gurgel/carajas-diesel-1986-045002-2.json"
+  },
+  {
+    "vehicleId": "gurgel-carajas-diesel-1987-diesel",
+    "canonicalPath": "/fipe/gurgel/carajas-diesel-1987-045002-2/",
+    "bundlePath": "/data/bundles/gurgel/carajas-diesel-1987-045002-2.json"
+  },
+  {
+    "vehicleId": "gurgel-carajas-diesel-1988-diesel",
+    "canonicalPath": "/fipe/gurgel/carajas-diesel-1988-045002-2/",
+    "bundlePath": "/data/bundles/gurgel/carajas-diesel-1988-045002-2.json"
+  },
+  {
+    "vehicleId": "gurgel-carajas-tocantis-xavante-vip-1985-gasolina",
+    "canonicalPath": "/fipe/gurgel/carajas-tocantis-xavante-vip-1985-045001-4/",
+    "bundlePath": "/data/bundles/gurgel/carajas-tocantis-xavante-vip-1985-045001-4.json"
+  },
+  {
+    "vehicleId": "gurgel-carajas-tocantis-xavante-vip-1986-gasolina",
+    "canonicalPath": "/fipe/gurgel/carajas-tocantis-xavante-vip-1986-045001-4/",
+    "bundlePath": "/data/bundles/gurgel/carajas-tocantis-xavante-vip-1986-045001-4.json"
+  },
+  {
+    "vehicleId": "gurgel-carajas-tocantis-xavante-vip-1987-gasolina",
+    "canonicalPath": "/fipe/gurgel/carajas-tocantis-xavante-vip-1987-045001-4/",
+    "bundlePath": "/data/bundles/gurgel/carajas-tocantis-xavante-vip-1987-045001-4.json"
+  },
+  {
+    "vehicleId": "gurgel-carajas-tocantis-xavante-vip-1988-gasolina",
+    "canonicalPath": "/fipe/gurgel/carajas-tocantis-xavante-vip-1988-045001-4/",
+    "bundlePath": "/data/bundles/gurgel/carajas-tocantis-xavante-vip-1988-045001-4.json"
+  },
+  {
+    "vehicleId": "gurgel-carajas-tocantis-xavante-vip-1989-gasolina",
+    "canonicalPath": "/fipe/gurgel/carajas-tocantis-xavante-vip-1989-045001-4/",
+    "bundlePath": "/data/bundles/gurgel/carajas-tocantis-xavante-vip-1989-045001-4.json"
+  },
+  {
+    "vehicleId": "gurgel-carajas-tocantis-xavante-vip-1990-gasolina",
+    "canonicalPath": "/fipe/gurgel/carajas-tocantis-xavante-vip-1990-045001-4/",
+    "bundlePath": "/data/bundles/gurgel/carajas-tocantis-xavante-vip-1990-045001-4.json"
+  },
+  {
+    "vehicleId": "gurgel-carajas-tocantis-xavante-vip-1991-gasolina",
+    "canonicalPath": "/fipe/gurgel/carajas-tocantis-xavante-vip-1991-045001-4/",
+    "bundlePath": "/data/bundles/gurgel/carajas-tocantis-xavante-vip-1991-045001-4.json"
+  },
+  {
+    "vehicleId": "gurgel-carajas-tocantis-xavante-vip-1992-gasolina",
+    "canonicalPath": "/fipe/gurgel/carajas-tocantis-xavante-vip-1992-045001-4/",
+    "bundlePath": "/data/bundles/gurgel/carajas-tocantis-xavante-vip-1992-045001-4.json"
+  },
+  {
+    "vehicleId": "gurgel-carajas-tocantis-xavante-vip-1993-gasolina",
+    "canonicalPath": "/fipe/gurgel/carajas-tocantis-xavante-vip-1993-045001-4/",
+    "bundlePath": "/data/bundles/gurgel/carajas-tocantis-xavante-vip-1993-045001-4.json"
+  },
+  {
+    "vehicleId": "gurgel-carajas-tocantis-xavante-vip-1994-gasolina",
+    "canonicalPath": "/fipe/gurgel/carajas-tocantis-xavante-vip-1994-045001-4/",
+    "bundlePath": "/data/bundles/gurgel/carajas-tocantis-xavante-vip-1994-045001-4.json"
+  }
+]

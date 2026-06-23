@@ -1,0 +1,98 @@
+{
+  "tipo": "familia",
+  "slug": "s5",
+  "canonicalPath": "/fipe/audi/s5/",
+  "titulo": "Audi s5 - Tabela FIPE",
+  "descricao": "8 versoes e anos do Audi s5 na Tabela FIPE.",
+  "seo": {
+    "title": "Audi s5 - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes Audi s5. 8 veiculos indexados.",
+    "h1": "Audi s5 - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/audi/s5/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "audi-s5-sportback-3-0-tfsi-quattro-stronic-2015-gasolina",
+      "fipeCodigo": "008166-3",
+      "displayName": "Audi S5 Sportback 3.0 TFSI Quattro Stronic",
+      "valorAtual": 218699,
+      "canonicalPath": "/fipe/audi/s5-sportback-3-0-tfsi-quattro-stronic-2015-008166-3/",
+      "ano": 2015,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-s5-sportback-3-0-tfsi-quattro-stronic-2014-gasolina",
+      "fipeCodigo": "008166-3",
+      "displayName": "Audi S5 Sportback 3.0 TFSI Quattro Stronic",
+      "valorAtual": 213364,
+      "canonicalPath": "/fipe/audi/s5-sportback-3-0-tfsi-quattro-stronic-2014-008166-3/",
+      "ano": 2014,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-s5-sportback-3-0-tfsi-quattro-stronic-2013-gasolina",
+      "fipeCodigo": "008166-3",
+      "displayName": "Audi S5 Sportback 3.0 TFSI Quattro Stronic",
+      "valorAtual": 191791,
+      "canonicalPath": "/fipe/audi/s5-sportback-3-0-tfsi-quattro-stronic-2013-008166-3/",
+      "ano": 2013,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-s5-cabriolet-3-0-tfsi-quattro-stronic-2013-gasolina",
+      "fipeCodigo": "008168-0",
+      "displayName": "Audi S5 Cabriolet 3.0 TFSI Quattro Stronic",
+      "valorAtual": 233884,
+      "canonicalPath": "/fipe/audi/s5-cabriolet-3-0-tfsi-quattro-stronic-2013-008168-0/",
+      "ano": 2013,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-s5-coupe-3-0-tfsi-quattro-stronic-2013-gasolina",
+      "fipeCodigo": "008167-1",
+      "displayName": "Audi S5 Coupê 3.0 TFSI Quattro Stronic",
+      "valorAtual": 241253,
+      "canonicalPath": "/fipe/audi/s5-coupe-3-0-tfsi-quattro-stronic-2013-008167-1/",
+      "ano": 2013,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-s5-sportback-3-0-tfsi-quattro-stronic-2012-gasolina",
+      "fipeCodigo": "008166-3",
+      "displayName": "Audi S5 Sportback 3.0 TFSI Quattro Stronic",
+      "valorAtual": 183142,
+      "canonicalPath": "/fipe/audi/s5-sportback-3-0-tfsi-quattro-stronic-2012-008166-3/",
+      "ano": 2012,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-s5-coupe-3-0-tfsi-quattro-stronic-2012-gasolina",
+      "fipeCodigo": "008167-1",
+      "displayName": "Audi S5 Coupê 3.0 TFSI Quattro Stronic",
+      "valorAtual": 216779,
+      "canonicalPath": "/fipe/audi/s5-coupe-3-0-tfsi-quattro-stronic-2012-008167-1/",
+      "ano": 2012,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-s5-cabriolet-3-0-tfsi-quattro-stronic-2012-gasolina",
+      "fipeCodigo": "008168-0",
+      "displayName": "Audi S5 Cabriolet 3.0 TFSI Quattro Stronic",
+      "valorAtual": 222536,
+      "canonicalPath": "/fipe/audi/s5-cabriolet-3-0-tfsi-quattro-stronic-2012-008168-0/",
+      "ano": 2012,
+      "marca": "Audi"
+    }
+  ],
+  "stats": {
+    "total": 8,
+    "precoMin": 183142,
+    "precoMax": 241253,
+    "anos": [
+      2015,
+      2014,
+      2013,
+      2012
+    ]
+  }
+}

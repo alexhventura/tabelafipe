@@ -1,0 +1,52 @@
+{
+  "tipo": "familia",
+  "slug": "150t",
+  "canonicalPath": "/fipe/fox/150t/",
+  "titulo": "FOX 150t - Tabela FIPE",
+  "descricao": "3 versoes e anos do FOX 150t na Tabela FIPE.",
+  "seo": {
+    "title": "FOX 150t - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes FOX 150t. 3 veiculos indexados.",
+    "h1": "FOX 150t - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/fox/150t/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "fox-150t-3-adventure-2009-gasolina",
+      "fipeCodigo": "852001-1",
+      "displayName": "FOX 150T-3 Adventure",
+      "valorAtual": 3474,
+      "canonicalPath": "/fipe/fox/150t-3-adventure-2009-852001-1/",
+      "ano": 2009,
+      "marca": "FOX"
+    },
+    {
+      "vehicleId": "fox-150t-3-adventure-2008-gasolina",
+      "fipeCodigo": "852001-1",
+      "displayName": "FOX 150T-3 Adventure",
+      "valorAtual": 3328,
+      "canonicalPath": "/fipe/fox/150t-3-adventure-2008-852001-1/",
+      "ano": 2008,
+      "marca": "FOX"
+    },
+    {
+      "vehicleId": "fox-150t-3-adventure-2007-gasolina",
+      "fipeCodigo": "852001-1",
+      "displayName": "FOX 150T-3 Adventure",
+      "valorAtual": 3138,
+      "canonicalPath": "/fipe/fox/150t-3-adventure-2007-852001-1/",
+      "ano": 2007,
+      "marca": "FOX"
+    }
+  ],
+  "stats": {
+    "total": 3,
+    "precoMin": 3138,
+    "precoMax": 3474,
+    "anos": [
+      2009,
+      2008,
+      2007
+    ]
+  }
+}

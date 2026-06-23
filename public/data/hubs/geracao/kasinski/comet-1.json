@@ -1,0 +1,300 @@
+{
+  "tipo": "geracao",
+  "slug": "comet-1",
+  "canonicalPath": "/geracao/kasinski/comet-1/",
+  "titulo": "Geracao comet-1",
+  "descricao": "31 veiculos da geracao comet-1.",
+  "seo": {
+    "title": "Geracao comet-1 - Precos FIPE",
+    "description": "Veiculos da geracao comet-1 na Tabela FIPE.",
+    "h1": "Geracao comet-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/kasinski/comet-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "kasinski-comet-150-2010-gasolina",
+      "fipeCodigo": "816027-9",
+      "displayName": "KASINSKI COMET 150",
+      "valorAtual": 3744,
+      "canonicalPath": "/fipe/kasinski/comet-150-2010-816027-9/",
+      "ano": 2010,
+      "marca": "KASINSKI"
+    },
+    {
+      "vehicleId": "kasinski-comet-150-2011-gasolina",
+      "fipeCodigo": "816027-9",
+      "displayName": "KASINSKI COMET 150",
+      "valorAtual": 4115,
+      "canonicalPath": "/fipe/kasinski/comet-150-2011-816027-9/",
+      "ano": 2011,
+      "marca": "KASINSKI"
+    },
+    {
+      "vehicleId": "kasinski-comet-150-2012-gasolina",
+      "fipeCodigo": "816027-9",
+      "displayName": "KASINSKI COMET 150",
+      "valorAtual": 4218,
+      "canonicalPath": "/fipe/kasinski/comet-150-2012-816027-9/",
+      "ano": 2012,
+      "marca": "KASINSKI"
+    },
+    {
+      "vehicleId": "kasinski-comet-150-2013-gasolina",
+      "fipeCodigo": "816027-9",
+      "displayName": "KASINSKI COMET 150",
+      "valorAtual": 4324,
+      "canonicalPath": "/fipe/kasinski/comet-150-2013-816027-9/",
+      "ano": 2013,
+      "marca": "KASINSKI"
+    },
+    {
+      "vehicleId": "kasinski-comet-250cc-comet-gt-250cc-2005-gasolina",
+      "fipeCodigo": "816015-5",
+      "displayName": "KASINSKI COMET 250cc / COMET GT 250cc",
+      "valorAtual": 4833,
+      "canonicalPath": "/fipe/kasinski/comet-250cc-comet-gt-250cc-2005-816015-5/",
+      "ano": 2005,
+      "marca": "KASINSKI"
+    },
+    {
+      "vehicleId": "kasinski-comet-250cc-comet-gt-250cc-2006-gasolina",
+      "fipeCodigo": "816015-5",
+      "displayName": "KASINSKI COMET 250cc / COMET GT 250cc",
+      "valorAtual": 5934,
+      "canonicalPath": "/fipe/kasinski/comet-250cc-comet-gt-250cc-2006-816015-5/",
+      "ano": 2006,
+      "marca": "KASINSKI"
+    },
+    {
+      "vehicleId": "kasinski-comet-250cc-comet-gt-250cc-2007-gasolina",
+      "fipeCodigo": "816015-5",
+      "displayName": "KASINSKI COMET 250cc / COMET GT 250cc",
+      "valorAtual": 6524,
+      "canonicalPath": "/fipe/kasinski/comet-250cc-comet-gt-250cc-2007-816015-5/",
+      "ano": 2007,
+      "marca": "KASINSKI"
+    },
+    {
+      "vehicleId": "kasinski-comet-250cc-comet-gt-250cc-2008-gasolina",
+      "fipeCodigo": "816015-5",
+      "displayName": "KASINSKI COMET 250cc / COMET GT 250cc",
+      "valorAtual": 6851,
+      "canonicalPath": "/fipe/kasinski/comet-250cc-comet-gt-250cc-2008-816015-5/",
+      "ano": 2008,
+      "marca": "KASINSKI"
+    },
+    {
+      "vehicleId": "kasinski-comet-250cc-comet-gt-250cc-2009-gasolina",
+      "fipeCodigo": "816015-5",
+      "displayName": "KASINSKI COMET 250cc / COMET GT 250cc",
+      "valorAtual": 7797,
+      "canonicalPath": "/fipe/kasinski/comet-250cc-comet-gt-250cc-2009-816015-5/",
+      "ano": 2009,
+      "marca": "KASINSKI"
+    },
+    {
+      "vehicleId": "kasinski-comet-250cc-comet-gt-250cc-2010-gasolina",
+      "fipeCodigo": "816015-5",
+      "displayName": "KASINSKI COMET 250cc / COMET GT 250cc",
+      "valorAtual": 8037,
+      "canonicalPath": "/fipe/kasinski/comet-250cc-comet-gt-250cc-2010-816015-5/",
+      "ano": 2010,
+      "marca": "KASINSKI"
+    },
+    {
+      "vehicleId": "kasinski-comet-250cc-comet-gt-250cc-2011-gasolina",
+      "fipeCodigo": "816015-5",
+      "displayName": "KASINSKI COMET 250cc / COMET GT 250cc",
+      "valorAtual": 8645,
+      "canonicalPath": "/fipe/kasinski/comet-250cc-comet-gt-250cc-2011-816015-5/",
+      "ano": 2011,
+      "marca": "KASINSKI"
+    },
+    {
+      "vehicleId": "kasinski-comet-250cc-comet-gt-250cc-2012-gasolina",
+      "fipeCodigo": "816015-5",
+      "displayName": "KASINSKI COMET 250cc / COMET GT 250cc",
+      "valorAtual": 9632,
+      "canonicalPath": "/fipe/kasinski/comet-250cc-comet-gt-250cc-2012-816015-5/",
+      "ano": 2012,
+      "marca": "KASINSKI"
+    },
+    {
+      "vehicleId": "kasinski-comet-250cc-comet-gt-250cc-2013-gasolina",
+      "fipeCodigo": "816015-5",
+      "displayName": "KASINSKI COMET 250cc / COMET GT 250cc",
+      "valorAtual": 10226,
+      "canonicalPath": "/fipe/kasinski/comet-250cc-comet-gt-250cc-2013-816015-5/",
+      "ano": 2013,
+      "marca": "KASINSKI"
+    },
+    {
+      "vehicleId": "kasinski-comet-gt-650-2007-gasolina",
+      "fipeCodigo": "816034-1",
+      "displayName": "KASINSKI COMET GT 650",
+      "valorAtual": 7512,
+      "canonicalPath": "/fipe/kasinski/comet-gt-650-2007-816034-1/",
+      "ano": 2007,
+      "marca": "KASINSKI"
+    },
+    {
+      "vehicleId": "kasinski-comet-gt-650-2012-gasolina",
+      "fipeCodigo": "816034-1",
+      "displayName": "KASINSKI COMET GT 650",
+      "valorAtual": 13555,
+      "canonicalPath": "/fipe/kasinski/comet-gt-650-2012-816034-1/",
+      "ano": 2012,
+      "marca": "KASINSKI"
+    },
+    {
+      "vehicleId": "kasinski-comet-gt-650-2013-gasolina",
+      "fipeCodigo": "816034-1",
+      "displayName": "KASINSKI COMET GT 650",
+      "valorAtual": 15358,
+      "canonicalPath": "/fipe/kasinski/comet-gt-650-2013-816034-1/",
+      "ano": 2013,
+      "marca": "KASINSKI"
+    },
+    {
+      "vehicleId": "kasinski-comet-gt-650r-v2power-2005-gasolina",
+      "fipeCodigo": "816019-8",
+      "displayName": "KASINSKI COMET GT 650R V2power",
+      "valorAtual": 12282,
+      "canonicalPath": "/fipe/kasinski/comet-gt-650r-v2power-2005-816019-8/",
+      "ano": 2005,
+      "marca": "KASINSKI"
+    },
+    {
+      "vehicleId": "kasinski-comet-gt-650r-v2power-2006-gasolina",
+      "fipeCodigo": "816019-8",
+      "displayName": "KASINSKI COMET GT 650R V2power",
+      "valorAtual": 12590,
+      "canonicalPath": "/fipe/kasinski/comet-gt-650r-v2power-2006-816019-8/",
+      "ano": 2006,
+      "marca": "KASINSKI"
+    },
+    {
+      "vehicleId": "kasinski-comet-gt-650r-v2power-2007-gasolina",
+      "fipeCodigo": "816019-8",
+      "displayName": "KASINSKI COMET GT 650R V2power",
+      "valorAtual": 13480,
+      "canonicalPath": "/fipe/kasinski/comet-gt-650r-v2power-2007-816019-8/",
+      "ano": 2007,
+      "marca": "KASINSKI"
+    },
+    {
+      "vehicleId": "kasinski-comet-gt-650r-v2power-2008-gasolina",
+      "fipeCodigo": "816019-8",
+      "displayName": "KASINSKI COMET GT 650R V2power",
+      "valorAtual": 13817,
+      "canonicalPath": "/fipe/kasinski/comet-gt-650r-v2power-2008-816019-8/",
+      "ano": 2008,
+      "marca": "KASINSKI"
+    },
+    {
+      "vehicleId": "kasinski-comet-gt-650r-v2power-2009-gasolina",
+      "fipeCodigo": "816019-8",
+      "displayName": "KASINSKI COMET GT 650R V2power",
+      "valorAtual": 14550,
+      "canonicalPath": "/fipe/kasinski/comet-gt-650r-v2power-2009-816019-8/",
+      "ano": 2009,
+      "marca": "KASINSKI"
+    },
+    {
+      "vehicleId": "kasinski-comet-gt-650r-v2power-2010-gasolina",
+      "fipeCodigo": "816019-8",
+      "displayName": "KASINSKI COMET GT 650R V2power",
+      "valorAtual": 15359,
+      "canonicalPath": "/fipe/kasinski/comet-gt-650r-v2power-2010-816019-8/",
+      "ano": 2010,
+      "marca": "KASINSKI"
+    },
+    {
+      "vehicleId": "kasinski-comet-gt-650r-v2power-2011-gasolina",
+      "fipeCodigo": "816019-8",
+      "displayName": "KASINSKI COMET GT 650R V2power",
+      "valorAtual": 15743,
+      "canonicalPath": "/fipe/kasinski/comet-gt-650r-v2power-2011-816019-8/",
+      "ano": 2011,
+      "marca": "KASINSKI"
+    },
+    {
+      "vehicleId": "kasinski-comet-gt-650r-v2power-2012-gasolina",
+      "fipeCodigo": "816019-8",
+      "displayName": "KASINSKI COMET GT 650R V2power",
+      "valorAtual": 16137,
+      "canonicalPath": "/fipe/kasinski/comet-gt-650r-v2power-2012-816019-8/",
+      "ano": 2012,
+      "marca": "KASINSKI"
+    },
+    {
+      "vehicleId": "kasinski-comet-gt-650r-v2power-2013-gasolina",
+      "fipeCodigo": "816019-8",
+      "displayName": "KASINSKI COMET GT 650R V2power",
+      "valorAtual": 17241,
+      "canonicalPath": "/fipe/kasinski/comet-gt-650r-v2power-2013-816019-8/",
+      "ano": 2013,
+      "marca": "KASINSKI"
+    },
+    {
+      "vehicleId": "kasinski-comet-gt-r-250cc-2008-gasolina",
+      "fipeCodigo": "816023-6",
+      "displayName": "KASINSKI COMET GT-R 250cc",
+      "valorAtual": 8444,
+      "canonicalPath": "/fipe/kasinski/comet-gt-r-250cc-2008-816023-6/",
+      "ano": 2008,
+      "marca": "KASINSKI"
+    },
+    {
+      "vehicleId": "kasinski-comet-gt-r-250cc-2009-gasolina",
+      "fipeCodigo": "816023-6",
+      "displayName": "KASINSKI COMET GT-R 250cc",
+      "valorAtual": 8818,
+      "canonicalPath": "/fipe/kasinski/comet-gt-r-250cc-2009-816023-6/",
+      "ano": 2009,
+      "marca": "KASINSKI"
+    },
+    {
+      "vehicleId": "kasinski-comet-gt-r-250cc-2010-gasolina",
+      "fipeCodigo": "816023-6",
+      "displayName": "KASINSKI COMET GT-R 250cc",
+      "valorAtual": 9857,
+      "canonicalPath": "/fipe/kasinski/comet-gt-r-250cc-2010-816023-6/",
+      "ano": 2010,
+      "marca": "KASINSKI"
+    },
+    {
+      "vehicleId": "kasinski-comet-gt-r-250cc-2011-gasolina",
+      "fipeCodigo": "816023-6",
+      "displayName": "KASINSKI COMET GT-R 250cc",
+      "valorAtual": 10104,
+      "canonicalPath": "/fipe/kasinski/comet-gt-r-250cc-2011-816023-6/",
+      "ano": 2011,
+      "marca": "KASINSKI"
+    },
+    {
+      "vehicleId": "kasinski-comet-gt-r-250cc-2012-gasolina",
+      "fipeCodigo": "816023-6",
+      "displayName": "KASINSKI COMET GT-R 250cc",
+      "valorAtual": 10357,
+      "canonicalPath": "/fipe/kasinski/comet-gt-r-250cc-2012-816023-6/",
+      "ano": 2012,
+      "marca": "KASINSKI"
+    },
+    {
+      "vehicleId": "kasinski-comet-gt-r-250cc-2013-gasolina",
+      "fipeCodigo": "816023-6",
+      "displayName": "KASINSKI COMET GT-R 250cc",
+      "valorAtual": 10650,
+      "canonicalPath": "/fipe/kasinski/comet-gt-r-250cc-2013-816023-6/",
+      "ano": 2013,
+      "marca": "KASINSKI"
+    }
+  ],
+  "stats": {
+    "total": 31
+  },
+  "meta": {
+    "geracaoId": "comet-1"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "tipo": "familia",
+  "slug": "zr",
+  "canonicalPath": "/fipe/yamaha/zr/",
+  "titulo": "YAMAHA zr - Tabela FIPE",
+  "descricao": "2 versoes e anos do YAMAHA zr na Tabela FIPE.",
+  "seo": {
+    "title": "YAMAHA zr - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes YAMAHA zr. 2 veiculos indexados.",
+    "h1": "YAMAHA zr - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/yamaha/zr/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "yamaha-zr-125-connected-2027-hibrido",
+      "fipeCodigo": "827145-3",
+      "displayName": "YAMAHA ZR 125 CONNECTED",
+      "valorAtual": 14047,
+      "canonicalPath": "/fipe/yamaha/zr-125-connected-2027-827145-3/",
+      "ano": 2027,
+      "marca": "YAMAHA"
+    },
+    {
+      "vehicleId": "yamaha-zr-125-connected-0-hibrido",
+      "fipeCodigo": "827145-3",
+      "displayName": "YAMAHA ZR 125 CONNECTED",
+      "valorAtual": 15441,
+      "canonicalPath": "/fipe/yamaha/zr-125-connected-0-827145-3/",
+      "ano": 0,
+      "marca": "YAMAHA"
+    }
+  ],
+  "stats": {
+    "total": 2,
+    "precoMin": 14047,
+    "precoMax": 15441,
+    "anos": [
+      2027,
+      0
+    ]
+  }
+}

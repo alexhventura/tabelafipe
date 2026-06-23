@@ -1,0 +1,111 @@
+{
+  "tipo": "geracao",
+  "slug": "tc-1",
+  "canonicalPath": "/geracao/husqvarna/tc-1/",
+  "titulo": "Geracao tc-1",
+  "descricao": "10 veiculos da geracao tc-1.",
+  "seo": {
+    "title": "Geracao tc-1 - Precos FIPE",
+    "description": "Veiculos da geracao tc-1 na Tabela FIPE.",
+    "h1": "Geracao tc-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/husqvarna/tc-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "husqvarna-tc-150-0-gasolina",
+      "fipeCodigo": "812039-0",
+      "displayName": "HUSQVARNA TC 150",
+      "valorAtual": 69378,
+      "canonicalPath": "/fipe/husqvarna/tc-150-0-812039-0/",
+      "ano": 0,
+      "marca": "HUSQVARNA"
+    },
+    {
+      "vehicleId": "husqvarna-tc-50-0-gasolina",
+      "fipeCodigo": "812040-4",
+      "displayName": "HUSQVARNA TC 50",
+      "valorAtual": 46160,
+      "canonicalPath": "/fipe/husqvarna/tc-50-0-812040-4/",
+      "ano": 0,
+      "marca": "HUSQVARNA"
+    },
+    {
+      "vehicleId": "husqvarna-tc-65-0-gasolina",
+      "fipeCodigo": "812041-2",
+      "displayName": "HUSQVARNA TC 65",
+      "valorAtual": 48394,
+      "canonicalPath": "/fipe/husqvarna/tc-65-0-812041-2/",
+      "ano": 0,
+      "marca": "HUSQVARNA"
+    },
+    {
+      "vehicleId": "husqvarna-tc-85-0-gasolina",
+      "fipeCodigo": "812034-0",
+      "displayName": "HUSQVARNA TC 85",
+      "valorAtual": 57394,
+      "canonicalPath": "/fipe/husqvarna/tc-85-0-812034-0/",
+      "ano": 0,
+      "marca": "HUSQVARNA"
+    },
+    {
+      "vehicleId": "super-soco-tc-3000w-eletrica-2020-eletrico",
+      "fipeCodigo": "891001-4",
+      "displayName": "SUPER SOCO TC 3000W (Elétrica)",
+      "valorAtual": 18010,
+      "canonicalPath": "/fipe/super-soco/tc-3000w-eletrica-2020-891001-4/",
+      "ano": 2020,
+      "marca": "SUPER SOCO"
+    },
+    {
+      "vehicleId": "super-soco-tc-3000w-eletrica-2021-eletrico",
+      "fipeCodigo": "891001-4",
+      "displayName": "SUPER SOCO TC 3000W (Elétrica)",
+      "valorAtual": 21937,
+      "canonicalPath": "/fipe/super-soco/tc-3000w-eletrica-2021-891001-4/",
+      "ano": 2021,
+      "marca": "SUPER SOCO"
+    },
+    {
+      "vehicleId": "super-soco-tc-3000w-eletrica-2022-eletrico",
+      "fipeCodigo": "891001-4",
+      "displayName": "SUPER SOCO TC 3000W (Elétrica)",
+      "valorAtual": 22529,
+      "canonicalPath": "/fipe/super-soco/tc-3000w-eletrica-2022-891001-4/",
+      "ano": 2022,
+      "marca": "SUPER SOCO"
+    },
+    {
+      "vehicleId": "super-soco-tc-max-5000w-eletrica-2020-eletrico",
+      "fipeCodigo": "891004-9",
+      "displayName": "SUPER SOCO TC Max 5000W (Elétrica)",
+      "valorAtual": 30262,
+      "canonicalPath": "/fipe/super-soco/tc-max-5000w-eletrica-2020-891004-9/",
+      "ano": 2020,
+      "marca": "SUPER SOCO"
+    },
+    {
+      "vehicleId": "super-soco-tc-max-5000w-eletrica-2021-eletrico",
+      "fipeCodigo": "891004-9",
+      "displayName": "SUPER SOCO TC Max 5000W (Elétrica)",
+      "valorAtual": 31825,
+      "canonicalPath": "/fipe/super-soco/tc-max-5000w-eletrica-2021-891004-9/",
+      "ano": 2021,
+      "marca": "SUPER SOCO"
+    },
+    {
+      "vehicleId": "super-soco-tc-max-5000w-eletrica-2022-eletrico",
+      "fipeCodigo": "891004-9",
+      "displayName": "SUPER SOCO TC Max 5000W (Elétrica)",
+      "valorAtual": 39633,
+      "canonicalPath": "/fipe/super-soco/tc-max-5000w-eletrica-2022-891004-9/",
+      "ano": 2022,
+      "marca": "SUPER SOCO"
+    }
+  ],
+  "stats": {
+    "total": 10
+  },
+  "meta": {
+    "geracaoId": "tc-1"
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "tipo": "geracao",
+  "slug": "passport-1",
+  "canonicalPath": "/geracao/honda/passport-1/",
+  "titulo": "Geracao passport-1",
+  "descricao": "5 veiculos da geracao passport-1.",
+  "seo": {
+    "title": "Geracao passport-1 - Precos FIPE",
+    "description": "Veiculos da geracao passport-1 na Tabela FIPE.",
+    "h1": "Geracao passport-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/honda/passport-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "honda-passport-ex-1994-gasolina",
+      "fipeCodigo": "014024-4",
+      "displayName": "Honda Passport EX",
+      "valorAtual": 17052,
+      "canonicalPath": "/fipe/honda/passport-ex-1994-014024-4/",
+      "ano": 1994,
+      "marca": "Honda"
+    },
+    {
+      "vehicleId": "honda-passport-ex-1995-gasolina",
+      "fipeCodigo": "014024-4",
+      "displayName": "Honda Passport EX",
+      "valorAtual": 17479,
+      "canonicalPath": "/fipe/honda/passport-ex-1995-014024-4/",
+      "ano": 1995,
+      "marca": "Honda"
+    },
+    {
+      "vehicleId": "honda-passport-lx-1994-gasolina",
+      "fipeCodigo": "014025-2",
+      "displayName": "Honda Passport LX",
+      "valorAtual": 11290,
+      "canonicalPath": "/fipe/honda/passport-lx-1994-014025-2/",
+      "ano": 1994,
+      "marca": "Honda"
+    },
+    {
+      "vehicleId": "honda-passport-lx-1995-gasolina",
+      "fipeCodigo": "014025-2",
+      "displayName": "Honda Passport LX",
+      "valorAtual": 13940,
+      "canonicalPath": "/fipe/honda/passport-lx-1995-014025-2/",
+      "ano": 1995,
+      "marca": "Honda"
+    },
+    {
+      "vehicleId": "honda-passport-pick-up-4x2-1995-gasolina",
+      "fipeCodigo": "014026-0",
+      "displayName": "Honda Passport PIck-Up 4x2",
+      "valorAtual": 10603,
+      "canonicalPath": "/fipe/honda/passport-pick-up-4x2-1995-014026-0/",
+      "ano": 1995,
+      "marca": "Honda"
+    }
+  ],
+  "stats": {
+    "total": 5
+  },
+  "meta": {
+    "geracaoId": "passport-1"
+  }
+}

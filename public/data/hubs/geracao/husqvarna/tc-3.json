@@ -1,0 +1,66 @@
+{
+  "tipo": "geracao",
+  "slug": "tc-3",
+  "canonicalPath": "/geracao/husqvarna/tc-3/",
+  "titulo": "Geracao tc-3",
+  "descricao": "5 veiculos da geracao tc-3.",
+  "seo": {
+    "title": "Geracao tc-3 - Precos FIPE",
+    "description": "Veiculos da geracao tc-3 na Tabela FIPE.",
+    "h1": "Geracao tc-3",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/husqvarna/tc-3/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "husqvarna-tc-150-2025-gasolina",
+      "fipeCodigo": "812039-0",
+      "displayName": "HUSQVARNA TC 150",
+      "valorAtual": 61272,
+      "canonicalPath": "/fipe/husqvarna/tc-150-2025-812039-0/",
+      "ano": 2025,
+      "marca": "HUSQVARNA"
+    },
+    {
+      "vehicleId": "husqvarna-tc-50-2026-gasolina",
+      "fipeCodigo": "812040-4",
+      "displayName": "HUSQVARNA TC 50",
+      "valorAtual": 43052,
+      "canonicalPath": "/fipe/husqvarna/tc-50-2026-812040-4/",
+      "ano": 2026,
+      "marca": "HUSQVARNA"
+    },
+    {
+      "vehicleId": "husqvarna-tc-65-2025-gasolina",
+      "fipeCodigo": "812041-2",
+      "displayName": "HUSQVARNA TC 65",
+      "valorAtual": 42682,
+      "canonicalPath": "/fipe/husqvarna/tc-65-2025-812041-2/",
+      "ano": 2025,
+      "marca": "HUSQVARNA"
+    },
+    {
+      "vehicleId": "husqvarna-tc-85-2025-gasolina",
+      "fipeCodigo": "812034-0",
+      "displayName": "HUSQVARNA TC 85",
+      "valorAtual": 50187,
+      "canonicalPath": "/fipe/husqvarna/tc-85-2025-812034-0/",
+      "ano": 2025,
+      "marca": "HUSQVARNA"
+    },
+    {
+      "vehicleId": "husqvarna-tc-85-2026-gasolina",
+      "fipeCodigo": "812034-0",
+      "displayName": "HUSQVARNA TC 85",
+      "valorAtual": 51456,
+      "canonicalPath": "/fipe/husqvarna/tc-85-2026-812034-0/",
+      "ano": 2026,
+      "marca": "HUSQVARNA"
+    }
+  ],
+  "stats": {
+    "total": 5
+  },
+  "meta": {
+    "geracaoId": "tc-3"
+  }
+}

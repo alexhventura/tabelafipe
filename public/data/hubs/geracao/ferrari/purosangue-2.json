@@ -1,0 +1,57 @@
+{
+  "tipo": "geracao",
+  "slug": "purosangue-2",
+  "canonicalPath": "/geracao/ferrari/purosangue-2/",
+  "titulo": "Geracao purosangue-2",
+  "descricao": "4 veiculos da geracao purosangue-2.",
+  "seo": {
+    "title": "Geracao purosangue-2 - Precos FIPE",
+    "description": "Veiculos da geracao purosangue-2 na Tabela FIPE.",
+    "h1": "Geracao purosangue-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/ferrari/purosangue-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "ferrari-purosangue-6-5-v12-725cv-2023-gasolina",
+      "fipeCodigo": "031056-5",
+      "displayName": "Ferrari PUROSANGUE 6.5 V12 725cv",
+      "valorAtual": 6491158,
+      "canonicalPath": "/fipe/ferrari/purosangue-6-5-v12-725cv-2023-031056-5/",
+      "ano": 2023,
+      "marca": "Ferrari"
+    },
+    {
+      "vehicleId": "ferrari-purosangue-6-5-v12-725cv-2024-gasolina",
+      "fipeCodigo": "031056-5",
+      "displayName": "Ferrari PUROSANGUE 6.5 V12 725cv",
+      "valorAtual": 6838500,
+      "canonicalPath": "/fipe/ferrari/purosangue-6-5-v12-725cv-2024-031056-5/",
+      "ano": 2024,
+      "marca": "Ferrari"
+    },
+    {
+      "vehicleId": "ferrari-purosangue-6-5-v12-725cv-2025-gasolina",
+      "fipeCodigo": "031056-5",
+      "displayName": "Ferrari PUROSANGUE 6.5 V12 725cv",
+      "valorAtual": 7093198,
+      "canonicalPath": "/fipe/ferrari/purosangue-6-5-v12-725cv-2025-031056-5/",
+      "ano": 2025,
+      "marca": "Ferrari"
+    },
+    {
+      "vehicleId": "ferrari-purosangue-6-5-v12-725cv-2026-gasolina",
+      "fipeCodigo": "031056-5",
+      "displayName": "Ferrari PUROSANGUE 6.5 V12 725cv",
+      "valorAtual": 7282545,
+      "canonicalPath": "/fipe/ferrari/purosangue-6-5-v12-725cv-2026-031056-5/",
+      "ano": 2026,
+      "marca": "Ferrari"
+    }
+  ],
+  "stats": {
+    "total": 4
+  },
+  "meta": {
+    "geracaoId": "purosangue-2"
+  }
+}

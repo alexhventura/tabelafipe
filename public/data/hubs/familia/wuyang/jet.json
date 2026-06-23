@@ -1,0 +1,52 @@
+{
+  "tipo": "familia",
+  "slug": "jet",
+  "canonicalPath": "/fipe/wuyang/jet/",
+  "titulo": "WUYANG jet - Tabela FIPE",
+  "descricao": "3 versoes e anos do WUYANG jet na Tabela FIPE.",
+  "seo": {
+    "title": "WUYANG jet - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes WUYANG jet. 3 veiculos indexados.",
+    "h1": "WUYANG jet - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/wuyang/jet/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "wuyang-jet-50-2018-gasolina",
+      "fipeCodigo": "851008-3",
+      "displayName": "WUYANG JET+ 50",
+      "valorAtual": 4696,
+      "canonicalPath": "/fipe/wuyang/jet-50-2018-851008-3/",
+      "ano": 2018,
+      "marca": "WUYANG"
+    },
+    {
+      "vehicleId": "wuyang-jet-50-2017-gasolina",
+      "fipeCodigo": "851008-3",
+      "displayName": "WUYANG JET+ 50",
+      "valorAtual": 4411,
+      "canonicalPath": "/fipe/wuyang/jet-50-2017-851008-3/",
+      "ano": 2017,
+      "marca": "WUYANG"
+    },
+    {
+      "vehicleId": "wuyang-jet-50-2016-gasolina",
+      "fipeCodigo": "851008-3",
+      "displayName": "WUYANG JET+ 50",
+      "valorAtual": 4303,
+      "canonicalPath": "/fipe/wuyang/jet-50-2016-851008-3/",
+      "ano": 2016,
+      "marca": "WUYANG"
+    }
+  ],
+  "stats": {
+    "total": 3,
+    "precoMin": 4303,
+    "precoMax": 4696,
+    "anos": [
+      2018,
+      2017,
+      2016
+    ]
+  }
+}

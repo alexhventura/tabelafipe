@@ -1,0 +1,62 @@
+{
+  "tipo": "familia",
+  "slug": "stonic",
+  "canonicalPath": "/fipe/kia-motors/stonic/",
+  "titulo": "Kia Motors stonic - Tabela FIPE",
+  "descricao": "4 versoes e anos do Kia Motors stonic na Tabela FIPE.",
+  "seo": {
+    "title": "Kia Motors stonic - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes Kia Motors stonic. 4 veiculos indexados.",
+    "h1": "Kia Motors stonic - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/kia-motors/stonic/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "kia-motors-stonic-sx-1-0-tb-aut-hibrido-2025-hibrido",
+      "fipeCodigo": "018096-3",
+      "displayName": "Kia Motors STONIC SX 1.0 TB Aut. (Híbrido)",
+      "valorAtual": 139906,
+      "canonicalPath": "/fipe/kia-motors/stonic-sx-1-0-tb-aut-hibrido-2025-018096-3/",
+      "ano": 2025,
+      "marca": "Kia Motors"
+    },
+    {
+      "vehicleId": "kia-motors-stonic-sx-1-0-tb-aut-hibrido-2024-hibrido",
+      "fipeCodigo": "018096-3",
+      "displayName": "Kia Motors STONIC SX 1.0 TB Aut. (Híbrido)",
+      "valorAtual": 105694,
+      "canonicalPath": "/fipe/kia-motors/stonic-sx-1-0-tb-aut-hibrido-2024-018096-3/",
+      "ano": 2024,
+      "marca": "Kia Motors"
+    },
+    {
+      "vehicleId": "kia-motors-stonic-sx-1-0-tb-aut-hibrido-2022-hibrido",
+      "fipeCodigo": "018096-3",
+      "displayName": "Kia Motors STONIC SX 1.0 TB Aut. (Híbrido)",
+      "valorAtual": 94009,
+      "canonicalPath": "/fipe/kia-motors/stonic-sx-1-0-tb-aut-hibrido-2022-018096-3/",
+      "ano": 2022,
+      "marca": "Kia Motors"
+    },
+    {
+      "vehicleId": "kia-motors-stonic-sx-1-0-tb-aut-hibrido-0-hibrido",
+      "fipeCodigo": "018096-3",
+      "displayName": "Kia Motors STONIC SX 1.0 TB Aut. (Híbrido)",
+      "valorAtual": 156022,
+      "canonicalPath": "/fipe/kia-motors/stonic-sx-1-0-tb-aut-hibrido-0-018096-3/",
+      "ano": 0,
+      "marca": "Kia Motors"
+    }
+  ],
+  "stats": {
+    "total": 4,
+    "precoMin": 94009,
+    "precoMax": 156022,
+    "anos": [
+      2025,
+      2024,
+      2022,
+      0
+    ]
+  }
+}

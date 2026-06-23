@@ -1,0 +1,316 @@
+{
+  "geradoEm": "2026-06-22T14:18:49.655Z",
+  "catalogo": {
+    "total": 50395,
+    "porCategoria": {
+      "carros": 30180,
+      "motos": 8847,
+      "caminhoes": 11368
+    }
+  },
+  "fontesAtuais": {
+    "fipe": true,
+    "inmetro": true,
+    "fabricantes": true,
+    "latinNcap": false,
+    "recalls": false
+  },
+  "fontesPotenciais": [
+    "fabricantes",
+    "latin-ncap",
+    "senatran-recalls",
+    "garantia-fabricante",
+    "manuais-proprietario"
+  ],
+  "coberturaPorCampo": [
+    {
+      "campo": "valor_fipe",
+      "preenchidos": 50395,
+      "meta": 100,
+      "total": 50395,
+      "pct": 100,
+      "gap": 0
+    },
+    {
+      "campo": "historico_precos",
+      "preenchidos": 50395,
+      "meta": 100,
+      "total": 50395,
+      "pct": 100,
+      "gap": 0
+    },
+    {
+      "campo": "consumo_urbano",
+      "preenchidos": 20906,
+      "meta": 70,
+      "total": 50395,
+      "pct": 41.48,
+      "gap": 28.520000000000003
+    },
+    {
+      "campo": "potencia_cv",
+      "preenchidos": 0,
+      "meta": 70,
+      "total": 50395,
+      "pct": 0,
+      "gap": 70
+    },
+    {
+      "campo": "torque_nm",
+      "preenchidos": 0,
+      "meta": 70,
+      "total": 50395,
+      "pct": 0,
+      "gap": 70
+    },
+    {
+      "campo": "cilindrada_cc",
+      "preenchidos": 43245,
+      "meta": 95,
+      "total": 50395,
+      "pct": 85.81,
+      "gap": 9.189999999999998
+    },
+    {
+      "campo": "transmissao",
+      "preenchidos": 11854,
+      "meta": 70,
+      "total": 50395,
+      "pct": 23.52,
+      "gap": 46.480000000000004
+    },
+    {
+      "campo": "porta_malas_l",
+      "preenchidos": 0,
+      "meta": 50,
+      "total": 50395,
+      "pct": 0,
+      "gap": 50
+    },
+    {
+      "campo": "seguranca_ncap",
+      "preenchidos": 0,
+      "meta": 40,
+      "total": 50395,
+      "pct": 0,
+      "gap": 40
+    },
+    {
+      "campo": "recalls",
+      "preenchidos": 0,
+      "meta": 40,
+      "total": 50395,
+      "pct": 0,
+      "gap": 40
+    },
+    {
+      "campo": "garantia",
+      "preenchidos": 0,
+      "meta": 30,
+      "total": 50395,
+      "pct": 0,
+      "gap": 30
+    }
+  ],
+  "camposFaltantes": [
+    {
+      "campo": "potencia_cv",
+      "preenchidos": 0,
+      "meta": 70,
+      "total": 50395,
+      "pct": 0,
+      "gap": 70
+    },
+    {
+      "campo": "torque_nm",
+      "preenchidos": 0,
+      "meta": 70,
+      "total": 50395,
+      "pct": 0,
+      "gap": 70
+    },
+    {
+      "campo": "porta_malas_l",
+      "preenchidos": 0,
+      "meta": 50,
+      "total": 50395,
+      "pct": 0,
+      "gap": 50
+    },
+    {
+      "campo": "transmissao",
+      "preenchidos": 11854,
+      "meta": 70,
+      "total": 50395,
+      "pct": 23.52,
+      "gap": 46.480000000000004
+    },
+    {
+      "campo": "seguranca_ncap",
+      "preenchidos": 0,
+      "meta": 40,
+      "total": 50395,
+      "pct": 0,
+      "gap": 40
+    },
+    {
+      "campo": "recalls",
+      "preenchidos": 0,
+      "meta": 40,
+      "total": 50395,
+      "pct": 0,
+      "gap": 40
+    },
+    {
+      "campo": "garantia",
+      "preenchidos": 0,
+      "meta": 30,
+      "total": 50395,
+      "pct": 0,
+      "gap": 30
+    },
+    {
+      "campo": "consumo_urbano",
+      "preenchidos": 20906,
+      "meta": 70,
+      "total": 50395,
+      "pct": 41.48,
+      "gap": 28.520000000000003
+    },
+    {
+      "campo": "cilindrada_cc",
+      "preenchidos": 43245,
+      "meta": 95,
+      "total": 50395,
+      "pct": 85.81,
+      "gap": 9.189999999999998
+    }
+  ],
+  "metasFinais": {
+    "catalogoFipe": 100,
+    "historico": 100,
+    "specsTecnicas": 95,
+    "consumoOficial": 70,
+    "transmissao": 70,
+    "potencia": 70,
+    "torque": 70,
+    "indicesBusca": 100
+  },
+  "roadmapCampos": [
+    {
+      "id": "potencia",
+      "label": "Potencia",
+      "metaPct": 60
+    },
+    {
+      "id": "torque",
+      "label": "Torque",
+      "metaPct": 50
+    },
+    {
+      "id": "cilindrada",
+      "label": "Cilindrada",
+      "metaPct": 60
+    },
+    {
+      "id": "consumo",
+      "label": "Consumo",
+      "metaPct": 40
+    },
+    {
+      "id": "classificacao_energetica",
+      "label": "Classificacao energetica",
+      "metaPct": 40
+    },
+    {
+      "id": "cambio",
+      "label": "Cambio",
+      "metaPct": 50
+    },
+    {
+      "id": "peso",
+      "label": "Peso",
+      "metaPct": 40
+    },
+    {
+      "id": "dimensoes",
+      "label": "Dimensoes",
+      "metaPct": 35
+    },
+    {
+      "id": "porta_malas",
+      "label": "Porta-malas",
+      "metaPct": 35
+    },
+    {
+      "id": "tanque",
+      "label": "Tanque",
+      "metaPct": 35
+    },
+    {
+      "id": "fotos",
+      "label": "Fotos",
+      "metaPct": 20
+    },
+    {
+      "id": "roubo",
+      "label": "Roubo/furto",
+      "metaPct": 30
+    },
+    {
+      "id": "seguro",
+      "label": "Faixa seguro",
+      "metaPct": 25
+    },
+    {
+      "id": "recalls",
+      "label": "Recalls",
+      "metaPct": 40
+    },
+    {
+      "id": "seguranca_ncap",
+      "label": "Seguranca NCAP",
+      "metaPct": 40
+    },
+    {
+      "id": "garantia",
+      "label": "Garantia fabrica",
+      "metaPct": 30
+    },
+    {
+      "id": "manutencao",
+      "label": "Manutencao",
+      "metaPct": 20
+    },
+    {
+      "id": "valor_fipe",
+      "label": "Valor FIPE",
+      "metaPct": 100
+    },
+    {
+      "id": "historico",
+      "label": "Historico",
+      "metaPct": 100
+    },
+    {
+      "id": "tendencia",
+      "label": "Tendencia",
+      "metaPct": 80
+    },
+    {
+      "id": "desvalorizacao",
+      "label": "Desvalorizacao",
+      "metaPct": 80
+    },
+    {
+      "id": "liquidez",
+      "label": "Liquidez",
+      "metaPct": 30
+    },
+    {
+      "id": "posicao_mercado",
+      "label": "Posicao segmento",
+      "metaPct": 70
+    }
+  ]
+}

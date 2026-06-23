@@ -1,0 +1,75 @@
+{
+  "tipo": "geracao",
+  "slug": "odyssey-1",
+  "canonicalPath": "/geracao/honda/odyssey-1/",
+  "titulo": "Geracao odyssey-1",
+  "descricao": "6 veiculos da geracao odyssey-1.",
+  "seo": {
+    "title": "Geracao odyssey-1 - Precos FIPE",
+    "description": "Veiculos da geracao odyssey-1 na Tabela FIPE.",
+    "h1": "Geracao odyssey-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/honda/odyssey-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "honda-odyssey-ex-van-aut-6-lug-1995-gasolina",
+      "fipeCodigo": "014012-0",
+      "displayName": "Honda Odyssey EX Van Aut (6 lug.)",
+      "valorAtual": 11376,
+      "canonicalPath": "/fipe/honda/odyssey-ex-van-aut-6-lug-1995-014012-0/",
+      "ano": 1995,
+      "marca": "Honda"
+    },
+    {
+      "vehicleId": "honda-odyssey-ex-van-aut-6-lug-1996-gasolina",
+      "fipeCodigo": "014012-0",
+      "displayName": "Honda Odyssey EX Van Aut (6 lug.)",
+      "valorAtual": 13262,
+      "canonicalPath": "/fipe/honda/odyssey-ex-van-aut-6-lug-1996-014012-0/",
+      "ano": 1996,
+      "marca": "Honda"
+    },
+    {
+      "vehicleId": "honda-odyssey-ex-van-aut-6-lug-1997-gasolina",
+      "fipeCodigo": "014012-0",
+      "displayName": "Honda Odyssey EX Van Aut (6 lug.)",
+      "valorAtual": 15583,
+      "canonicalPath": "/fipe/honda/odyssey-ex-van-aut-6-lug-1997-014012-0/",
+      "ano": 1997,
+      "marca": "Honda"
+    },
+    {
+      "vehicleId": "honda-odyssey-van-lx-aut-6-lug-1996-gasolina",
+      "fipeCodigo": "014022-8",
+      "displayName": "Honda Odyssey Van LX Aut (6 lug.)",
+      "valorAtual": 13165,
+      "canonicalPath": "/fipe/honda/odyssey-van-lx-aut-6-lug-1996-014022-8/",
+      "ano": 1996,
+      "marca": "Honda"
+    },
+    {
+      "vehicleId": "honda-odyssey-van-lx-aut-6-lug-1997-gasolina",
+      "fipeCodigo": "014022-8",
+      "displayName": "Honda Odyssey Van LX Aut (6 lug.)",
+      "valorAtual": 13495,
+      "canonicalPath": "/fipe/honda/odyssey-van-lx-aut-6-lug-1997-014022-8/",
+      "ano": 1997,
+      "marca": "Honda"
+    },
+    {
+      "vehicleId": "honda-odyssey-van-lx-aut-6-lug-1998-gasolina",
+      "fipeCodigo": "014022-8",
+      "displayName": "Honda Odyssey Van LX Aut (6 lug.)",
+      "valorAtual": 17044,
+      "canonicalPath": "/fipe/honda/odyssey-van-lx-aut-6-lug-1998-014022-8/",
+      "ano": 1998,
+      "marca": "Honda"
+    }
+  ],
+  "stats": {
+    "total": 6
+  },
+  "meta": {
+    "geracaoId": "odyssey-1"
+  }
+}

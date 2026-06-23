@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "valkyrie-1",
+  "canonicalPath": "/geracao/honda/valkyrie-1/",
+  "titulo": "Geracao valkyrie-1",
+  "descricao": "2 veiculos da geracao valkyrie-1.",
+  "seo": {
+    "title": "Geracao valkyrie-1 - Precos FIPE",
+    "description": "Veiculos da geracao valkyrie-1 na Tabela FIPE.",
+    "h1": "Geracao valkyrie-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/honda/valkyrie-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "honda-valkyrie-1500-1997-gasolina",
+      "fipeCodigo": "811037-9",
+      "displayName": "HONDA VALKYRIE 1500",
+      "valorAtual": 73132,
+      "canonicalPath": "/fipe/honda/valkyrie-1500-1997-811037-9/",
+      "ano": 1997,
+      "marca": "HONDA"
+    },
+    {
+      "vehicleId": "honda-valkyrie-1500-1998-gasolina",
+      "fipeCodigo": "811037-9",
+      "displayName": "HONDA VALKYRIE 1500",
+      "valorAtual": 81194,
+      "canonicalPath": "/fipe/honda/valkyrie-1500-1998-811037-9/",
+      "ano": 1998,
+      "marca": "HONDA"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "valkyrie-1"
+  }
+}

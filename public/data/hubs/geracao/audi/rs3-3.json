@@ -1,0 +1,57 @@
+{
+  "tipo": "geracao",
+  "slug": "rs3-3",
+  "canonicalPath": "/geracao/audi/rs3-3/",
+  "titulo": "Geracao rs3-3",
+  "descricao": "4 veiculos da geracao rs3-3.",
+  "seo": {
+    "title": "Geracao rs3-3 - Precos FIPE",
+    "description": "Veiculos da geracao rs3-3 na Tabela FIPE.",
+    "h1": "Geracao rs3-3",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/audi/rs3-3/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "audi-rs3-sedan-2-5-tfsi-quattro-s-tronic-2017-gasolina",
+      "fipeCodigo": "008221-0",
+      "displayName": "Audi RS3 Sedan 2.5 TFSI Quattro S-tronic",
+      "valorAtual": 308464,
+      "canonicalPath": "/fipe/audi/rs3-sedan-2-5-tfsi-quattro-s-tronic-2017-008221-0/",
+      "ano": 2017,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-rs3-sedan-2-5-tfsi-quattro-s-tronic-2018-gasolina",
+      "fipeCodigo": "008221-0",
+      "displayName": "Audi RS3 Sedan 2.5 TFSI Quattro S-tronic",
+      "valorAtual": 383476,
+      "canonicalPath": "/fipe/audi/rs3-sedan-2-5-tfsi-quattro-s-tronic-2018-008221-0/",
+      "ano": 2018,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-rs3-sportback-2-5-tfsi-quattro-s-tronic-2016-gasolina",
+      "fipeCodigo": "008157-4",
+      "displayName": "Audi RS3 Sportback 2.5 TFSI Quattro S-tronic",
+      "valorAtual": 242081,
+      "canonicalPath": "/fipe/audi/rs3-sportback-2-5-tfsi-quattro-s-tronic-2016-008157-4/",
+      "ano": 2016,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-rs3-sportback-2-5-tfsi-quattro-s-tronic-2018-gasolina",
+      "fipeCodigo": "008157-4",
+      "displayName": "Audi RS3 Sportback 2.5 TFSI Quattro S-tronic",
+      "valorAtual": 375579,
+      "canonicalPath": "/fipe/audi/rs3-sportback-2-5-tfsi-quattro-s-tronic-2018-008157-4/",
+      "ano": 2018,
+      "marca": "Audi"
+    }
+  ],
+  "stats": {
+    "total": 4
+  },
+  "meta": {
+    "geracaoId": "rs3-3"
+  }
+}

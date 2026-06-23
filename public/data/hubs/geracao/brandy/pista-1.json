@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "pista-1",
+  "canonicalPath": "/geracao/brandy/pista-1/",
+  "titulo": "Geracao pista-1",
+  "descricao": "2 veiculos da geracao pista-1.",
+  "seo": {
+    "title": "Geracao pista-1 - Precos FIPE",
+    "description": "Veiculos da geracao pista-1 na Tabela FIPE.",
+    "h1": "Geracao pista-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/brandy/pista-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "brandy-pista-70-1995-gasolina",
+      "fipeCodigo": "804009-5",
+      "displayName": "BRANDY PISTA 70",
+      "valorAtual": 1123,
+      "canonicalPath": "/fipe/brandy/pista-70-1995-804009-5/",
+      "ano": 1995,
+      "marca": "BRANDY"
+    },
+    {
+      "vehicleId": "brandy-pista-70-1996-gasolina",
+      "fipeCodigo": "804009-5",
+      "displayName": "BRANDY PISTA 70",
+      "valorAtual": 1152,
+      "canonicalPath": "/fipe/brandy/pista-70-1996-804009-5/",
+      "ano": 1996,
+      "marca": "BRANDY"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "pista-1"
+  }
+}

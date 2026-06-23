@@ -1,0 +1,48 @@
+{
+  "tipo": "geracao",
+  "slug": "express-1",
+  "canonicalPath": "/geracao/renault/express-1/",
+  "titulo": "Geracao express-1",
+  "descricao": "3 veiculos da geracao express-1.",
+  "seo": {
+    "title": "Geracao express-1 - Precos FIPE",
+    "description": "Veiculos da geracao express-1 na Tabela FIPE.",
+    "h1": "Geracao express-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/renault/express-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "renault-express-1-6-rl-1-6-1998-gasolina",
+      "fipeCodigo": "025012-0",
+      "displayName": "Renault Express 1.6/ RL 1.6",
+      "valorAtual": 7403,
+      "canonicalPath": "/fipe/renault/express-1-6-rl-1-6-1998-025012-0/",
+      "ano": 1998,
+      "marca": "Renault"
+    },
+    {
+      "vehicleId": "renault-express-1-6-rl-1-6-1999-gasolina",
+      "fipeCodigo": "025012-0",
+      "displayName": "Renault Express 1.6/ RL 1.6",
+      "valorAtual": 7589,
+      "canonicalPath": "/fipe/renault/express-1-6-rl-1-6-1999-025012-0/",
+      "ano": 1999,
+      "marca": "Renault"
+    },
+    {
+      "vehicleId": "renault-express-1-6-rl-1-6-2000-gasolina",
+      "fipeCodigo": "025012-0",
+      "displayName": "Renault Express 1.6/ RL 1.6",
+      "valorAtual": 7779,
+      "canonicalPath": "/fipe/renault/express-1-6-rl-1-6-2000-025012-0/",
+      "ano": 2000,
+      "marca": "Renault"
+    }
+  ],
+  "stats": {
+    "total": 3
+  },
+  "meta": {
+    "geracaoId": "express-1"
+  }
+}

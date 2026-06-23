@@ -1,0 +1,75 @@
+{
+  "tipo": "geracao",
+  "slug": "x7-2",
+  "canonicalPath": "/geracao/bmw/x7-2/",
+  "titulo": "Geracao x7-2",
+  "descricao": "6 veiculos da geracao x7-2.",
+  "seo": {
+    "title": "Geracao x7-2 - Precos FIPE",
+    "description": "Veiculos da geracao x7-2 na Tabela FIPE.",
+    "h1": "Geracao x7-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/bmw/x7-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "bmw-x7-m50i-4-4-v8-bi-tb-aut-2020-gasolina",
+      "fipeCodigo": "009265-7",
+      "displayName": "BMW X7 M50i 4.4 V8 Bi-TB Aut.",
+      "valorAtual": 488662,
+      "canonicalPath": "/fipe/bmw/x7-m50i-4-4-v8-bi-tb-aut-2020-009265-7/",
+      "ano": 2020,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-x7-m50i-4-4-v8-bi-tb-aut-2021-gasolina",
+      "fipeCodigo": "009265-7",
+      "displayName": "BMW X7 M50i 4.4 V8 Bi-TB Aut.",
+      "valorAtual": 516533,
+      "canonicalPath": "/fipe/bmw/x7-m50i-4-4-v8-bi-tb-aut-2021-009265-7/",
+      "ano": 2021,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-x7-m50i-4-4-v8-bi-tb-aut-2022-gasolina",
+      "fipeCodigo": "009265-7",
+      "displayName": "BMW X7 M50i 4.4 V8 Bi-TB Aut.",
+      "valorAtual": 642552,
+      "canonicalPath": "/fipe/bmw/x7-m50i-4-4-v8-bi-tb-aut-2022-009265-7/",
+      "ano": 2022,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-x7-m50i-dark-shadow-4-4-v8-bi-tb-aut-2021-gasolina",
+      "fipeCodigo": "009277-0",
+      "displayName": "BMW X7 M50i Dark Shadow 4.4 V8 Bi-TB Aut.",
+      "valorAtual": 544900,
+      "canonicalPath": "/fipe/bmw/x7-m50i-dark-shadow-4-4-v8-bi-tb-aut-2021-009277-0/",
+      "ano": 2021,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-x7-xdrive-50i-m-sport-4-4-v8-bi-tb-aut-2019-gasolina",
+      "fipeCodigo": "009250-9",
+      "displayName": "BMW X7 XDRIVE 50i M Sport 4.4 V8 Bi-TB Aut.",
+      "valorAtual": 461263,
+      "canonicalPath": "/fipe/bmw/x7-xdrive-50i-m-sport-4-4-v8-bi-tb-aut-2019-009250-9/",
+      "ano": 2019,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-x7-xdrive-50i-m-sport-4-4-v8-bi-tb-aut-2020-gasolina",
+      "fipeCodigo": "009250-9",
+      "displayName": "BMW X7 XDRIVE 50i M Sport 4.4 V8 Bi-TB Aut.",
+      "valorAtual": 473577,
+      "canonicalPath": "/fipe/bmw/x7-xdrive-50i-m-sport-4-4-v8-bi-tb-aut-2020-009250-9/",
+      "ano": 2020,
+      "marca": "BMW"
+    }
+  ],
+  "stats": {
+    "total": 6
+  },
+  "meta": {
+    "geracaoId": "x7-2"
+  }
+}

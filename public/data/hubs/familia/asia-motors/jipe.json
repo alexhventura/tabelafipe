@@ -1,0 +1,42 @@
+{
+  "tipo": "familia",
+  "slug": "jipe",
+  "canonicalPath": "/fipe/asia-motors/jipe/",
+  "titulo": "Asia Motors jipe - Tabela FIPE",
+  "descricao": "2 versoes e anos do Asia Motors jipe na Tabela FIPE.",
+  "seo": {
+    "title": "Asia Motors jipe - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes Asia Motors jipe. 2 veiculos indexados.",
+    "h1": "Asia Motors jipe - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/asia-motors/jipe/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "asia-motors-jipe-rocsta-gt-4x4-2-2-diesel-1995-diesel",
+      "fipeCodigo": "007020-3",
+      "displayName": "Asia Motors Jipe Rocsta GT 4x4 2.2 Diesel",
+      "valorAtual": 25121,
+      "canonicalPath": "/fipe/asia-motors/jipe-rocsta-gt-4x4-2-2-diesel-1995-007020-3/",
+      "ano": 1995,
+      "marca": "Asia Motors"
+    },
+    {
+      "vehicleId": "asia-motors-jipe-rocsta-gt-4x4-2-2-diesel-1994-diesel",
+      "fipeCodigo": "007020-3",
+      "displayName": "Asia Motors Jipe Rocsta GT 4x4 2.2 Diesel",
+      "valorAtual": 24508,
+      "canonicalPath": "/fipe/asia-motors/jipe-rocsta-gt-4x4-2-2-diesel-1994-007020-3/",
+      "ano": 1994,
+      "marca": "Asia Motors"
+    }
+  ],
+  "stats": {
+    "total": 2,
+    "precoMin": 24508,
+    "precoMax": 25121,
+    "anos": [
+      1995,
+      1994
+    ]
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "tipo": "geracao",
+  "slug": "2638-1",
+  "canonicalPath": "/geracao/mercedes-benz/2638-1/",
+  "titulo": "Geracao 2638-1",
+  "descricao": "3 veiculos da geracao 2638-1.",
+  "seo": {
+    "title": "Geracao 2638-1 - Precos FIPE",
+    "description": "Veiculos da geracao 2638-1 na Tabela FIPE.",
+    "h1": "Geracao 2638-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/mercedes-benz/2638-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "mercedes-benz-2638-s-3-eixos-2p-diesel-1996-diesel",
+      "fipeCodigo": "509028-8",
+      "displayName": "MERCEDES-BENZ 2638 S 3-Eixos 2p (diesel)",
+      "valorAtual": 89047,
+      "canonicalPath": "/fipe/mercedes-benz/2638-s-3-eixos-2p-diesel-1996-509028-8/",
+      "ano": 1996,
+      "marca": "MERCEDES-BENZ"
+    },
+    {
+      "vehicleId": "mercedes-benz-2638-s-3-eixos-2p-diesel-1997-diesel",
+      "fipeCodigo": "509028-8",
+      "displayName": "MERCEDES-BENZ 2638 S 3-Eixos 2p (diesel)",
+      "valorAtual": 95340,
+      "canonicalPath": "/fipe/mercedes-benz/2638-s-3-eixos-2p-diesel-1997-509028-8/",
+      "ano": 1997,
+      "marca": "MERCEDES-BENZ"
+    },
+    {
+      "vehicleId": "mercedes-benz-2638-s-3-eixos-2p-diesel-1998-diesel",
+      "fipeCodigo": "509028-8",
+      "displayName": "MERCEDES-BENZ 2638 S 3-Eixos 2p (diesel)",
+      "valorAtual": 103229,
+      "canonicalPath": "/fipe/mercedes-benz/2638-s-3-eixos-2p-diesel-1998-509028-8/",
+      "ano": 1998,
+      "marca": "MERCEDES-BENZ"
+    }
+  ],
+  "stats": {
+    "total": 3
+  },
+  "meta": {
+    "geracaoId": "2638-1"
+  }
+}

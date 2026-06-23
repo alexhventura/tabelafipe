@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "icar-1",
+  "canonicalPath": "/geracao/caoa-chery/icar-1/",
+  "titulo": "Geracao icar-1",
+  "descricao": "2 veiculos da geracao icar-1.",
+  "seo": {
+    "title": "Geracao icar-1 - Precos FIPE",
+    "description": "Veiculos da geracao icar-1 na Tabela FIPE.",
+    "h1": "Geracao icar-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/caoa-chery/icar-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "caoa-chery-icar-eq1-tech-eletrico-2022-eletrico",
+      "fipeCodigo": "093007-5",
+      "displayName": "Caoa Chery iCar EQ1 TECH (Elétrico)",
+      "valorAtual": 77362,
+      "canonicalPath": "/fipe/caoa-chery/icar-eq1-tech-eletrico-2022-093007-5/",
+      "ano": 2022,
+      "marca": "Caoa Chery"
+    },
+    {
+      "vehicleId": "caoa-chery-icar-eq1-tech-eletrico-2023-eletrico",
+      "fipeCodigo": "093007-5",
+      "displayName": "Caoa Chery iCar EQ1 TECH (Elétrico)",
+      "valorAtual": 80236,
+      "canonicalPath": "/fipe/caoa-chery/icar-eq1-tech-eletrico-2023-093007-5/",
+      "ano": 2023,
+      "marca": "Caoa Chery"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "icar-1"
+  }
+}

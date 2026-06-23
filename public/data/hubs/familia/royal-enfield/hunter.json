@@ -1,0 +1,126 @@
+{
+  "tipo": "familia",
+  "slug": "hunter",
+  "canonicalPath": "/fipe/royal-enfield/hunter/",
+  "titulo": "Royal Enfield hunter - Tabela FIPE",
+  "descricao": "11 versoes e anos do Royal Enfield hunter na Tabela FIPE.",
+  "seo": {
+    "title": "Royal Enfield hunter - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes Royal Enfield hunter. 11 veiculos indexados.",
+    "h1": "Royal Enfield hunter - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/royal-enfield/hunter/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "royal-enfield-hunter-350-mid-2027-gasolina",
+      "fipeCodigo": "879056-6",
+      "displayName": "Royal Enfield Hunter 350 Mid",
+      "valorAtual": 19002,
+      "canonicalPath": "/fipe/royal-enfield/hunter-350-mid-2027-879056-6/",
+      "ano": 2027,
+      "marca": "Royal Enfield"
+    },
+    {
+      "vehicleId": "royal-enfield-hunter-350-top-2027-gasolina",
+      "fipeCodigo": "879055-8",
+      "displayName": "Royal Enfield Hunter 350 Top",
+      "valorAtual": 19963,
+      "canonicalPath": "/fipe/royal-enfield/hunter-350-top-2027-879055-8/",
+      "ano": 2027,
+      "marca": "Royal Enfield"
+    },
+    {
+      "vehicleId": "royal-enfield-hunter-350-dapper-2026-gasolina",
+      "fipeCodigo": "879032-9",
+      "displayName": "Royal Enfield Hunter 350 Dapper",
+      "valorAtual": 19211,
+      "canonicalPath": "/fipe/royal-enfield/hunter-350-dapper-2026-879032-9/",
+      "ano": 2026,
+      "marca": "Royal Enfield"
+    },
+    {
+      "vehicleId": "royal-enfield-hunter-350-dapper-2025-gasolina",
+      "fipeCodigo": "879032-9",
+      "displayName": "Royal Enfield Hunter 350 Dapper",
+      "valorAtual": 18427,
+      "canonicalPath": "/fipe/royal-enfield/hunter-350-dapper-2025-879032-9/",
+      "ano": 2025,
+      "marca": "Royal Enfield"
+    },
+    {
+      "vehicleId": "royal-enfield-hunter-350-rebel-2025-gasolina",
+      "fipeCodigo": "879033-7",
+      "displayName": "Royal Enfield Hunter 350 Rebel",
+      "valorAtual": 18579,
+      "canonicalPath": "/fipe/royal-enfield/hunter-350-rebel-2025-879033-7/",
+      "ano": 2025,
+      "marca": "Royal Enfield"
+    },
+    {
+      "vehicleId": "royal-enfield-hunter-350-dapper-2024-gasolina",
+      "fipeCodigo": "879032-9",
+      "displayName": "Royal Enfield Hunter 350 Dapper",
+      "valorAtual": 17813,
+      "canonicalPath": "/fipe/royal-enfield/hunter-350-dapper-2024-879032-9/",
+      "ano": 2024,
+      "marca": "Royal Enfield"
+    },
+    {
+      "vehicleId": "royal-enfield-hunter-350-rebel-2024-gasolina",
+      "fipeCodigo": "879033-7",
+      "displayName": "Royal Enfield Hunter 350 Rebel",
+      "valorAtual": 18056,
+      "canonicalPath": "/fipe/royal-enfield/hunter-350-rebel-2024-879033-7/",
+      "ano": 2024,
+      "marca": "Royal Enfield"
+    },
+    {
+      "vehicleId": "royal-enfield-hunter-350-rebel-0-gasolina",
+      "fipeCodigo": "879033-7",
+      "displayName": "Royal Enfield Hunter 350 Rebel",
+      "valorAtual": 19830,
+      "canonicalPath": "/fipe/royal-enfield/hunter-350-rebel-0-879033-7/",
+      "ano": 0,
+      "marca": "Royal Enfield"
+    },
+    {
+      "vehicleId": "royal-enfield-hunter-350-mid-0-gasolina",
+      "fipeCodigo": "879056-6",
+      "displayName": "Royal Enfield Hunter 350 Mid",
+      "valorAtual": 19990,
+      "canonicalPath": "/fipe/royal-enfield/hunter-350-mid-0-879056-6/",
+      "ano": 0,
+      "marca": "Royal Enfield"
+    },
+    {
+      "vehicleId": "royal-enfield-hunter-350-dapper-0-gasolina",
+      "fipeCodigo": "879032-9",
+      "displayName": "Royal Enfield Hunter 350 Dapper",
+      "valorAtual": 20388,
+      "canonicalPath": "/fipe/royal-enfield/hunter-350-dapper-0-879032-9/",
+      "ano": 0,
+      "marca": "Royal Enfield"
+    },
+    {
+      "vehicleId": "royal-enfield-hunter-350-top-0-gasolina",
+      "fipeCodigo": "879055-8",
+      "displayName": "Royal Enfield Hunter 350 Top",
+      "valorAtual": 20990,
+      "canonicalPath": "/fipe/royal-enfield/hunter-350-top-0-879055-8/",
+      "ano": 0,
+      "marca": "Royal Enfield"
+    }
+  ],
+  "stats": {
+    "total": 11,
+    "precoMin": 17813,
+    "precoMax": 20990,
+    "anos": [
+      2027,
+      2026,
+      2025,
+      2024,
+      0
+    ]
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "tipo": "familia",
+  "slug": "desert",
+  "canonicalPath": "/fipe/ducati/desert/",
+  "titulo": "DUCATI desert - Tabela FIPE",
+  "descricao": "4 versoes e anos do DUCATI desert na Tabela FIPE.",
+  "seo": {
+    "title": "DUCATI desert - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes DUCATI desert. 4 veiculos indexados.",
+    "h1": "DUCATI desert - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/ducati/desert/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "ducati-desert-x-2025-gasolina",
+      "fipeCodigo": "808089-5",
+      "displayName": "DUCATI DESERT X",
+      "valorAtual": 86009,
+      "canonicalPath": "/fipe/ducati/desert-x-2025-808089-5/",
+      "ano": 2025,
+      "marca": "DUCATI"
+    },
+    {
+      "vehicleId": "ducati-desert-x-2024-gasolina",
+      "fipeCodigo": "808089-5",
+      "displayName": "DUCATI DESERT X",
+      "valorAtual": 82288,
+      "canonicalPath": "/fipe/ducati/desert-x-2024-808089-5/",
+      "ano": 2024,
+      "marca": "DUCATI"
+    },
+    {
+      "vehicleId": "ducati-desert-x-2023-gasolina",
+      "fipeCodigo": "808089-5",
+      "displayName": "DUCATI DESERT X",
+      "valorAtual": 73014,
+      "canonicalPath": "/fipe/ducati/desert-x-2023-808089-5/",
+      "ano": 2023,
+      "marca": "DUCATI"
+    },
+    {
+      "vehicleId": "ducati-desert-x-0-gasolina",
+      "fipeCodigo": "808089-5",
+      "displayName": "DUCATI DESERT X",
+      "valorAtual": 108433,
+      "canonicalPath": "/fipe/ducati/desert-x-0-808089-5/",
+      "ano": 0,
+      "marca": "DUCATI"
+    }
+  ],
+  "stats": {
+    "total": 4,
+    "precoMin": 73014,
+    "precoMax": 108433,
+    "anos": [
+      2025,
+      2024,
+      2023,
+      0
+    ]
+  }
+}

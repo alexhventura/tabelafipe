@@ -1,0 +1,48 @@
+{
+  "tipo": "geracao",
+  "slug": "astor-1",
+  "canonicalPath": "/geracao/maxibus/astor-1/",
+  "titulo": "Geracao astor-1",
+  "descricao": "3 veiculos da geracao astor-1.",
+  "seo": {
+    "title": "Geracao astor-1 - Precos FIPE",
+    "description": "Veiculos da geracao astor-1 na Tabela FIPE.",
+    "h1": "Geracao astor-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/maxibus/astor-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "maxibus-astor-escolar-diesel-e5-2013-diesel",
+      "fipeCodigo": "528002-8",
+      "displayName": "MAXIBUS ASTOR ESCOLAR (diesel)(E5)",
+      "valorAtual": 124602,
+      "canonicalPath": "/fipe/maxibus/astor-escolar-diesel-e5-2013-528002-8/",
+      "ano": 2013,
+      "marca": "MAXIBUS"
+    },
+    {
+      "vehicleId": "maxibus-astor-turismo-diesel-e5-2013-diesel",
+      "fipeCodigo": "528003-6",
+      "displayName": "MAXIBUS ASTOR TURISMO (diesel)(E5)",
+      "valorAtual": 153007,
+      "canonicalPath": "/fipe/maxibus/astor-turismo-diesel-e5-2013-528003-6/",
+      "ano": 2013,
+      "marca": "MAXIBUS"
+    },
+    {
+      "vehicleId": "maxibus-astor-urbano-diesel-e5-2013-diesel",
+      "fipeCodigo": "528001-0",
+      "displayName": "MAXIBUS ASTOR URBANO (diesel)(E5)",
+      "valorAtual": 128819,
+      "canonicalPath": "/fipe/maxibus/astor-urbano-diesel-e5-2013-528001-0/",
+      "ano": 2013,
+      "marca": "MAXIBUS"
+    }
+  ],
+  "stats": {
+    "total": 3
+  },
+  "meta": {
+    "geracaoId": "astor-1"
+  }
+}

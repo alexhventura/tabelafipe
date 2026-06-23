@@ -1,0 +1,372 @@
+{
+  "tipo": "geracao",
+  "slug": "v-1",
+  "canonicalPath": "/geracao/cagiva/v-1/",
+  "titulo": "Geracao v-1",
+  "descricao": "39 veiculos da geracao v-1.",
+  "seo": {
+    "title": "Geracao v-1 - Precos FIPE",
+    "description": "Veiculos da geracao v-1 na Tabela FIPE.",
+    "h1": "Geracao v-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/cagiva/v-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "cagiva-v-raptor-1000-2001-gasolina",
+      "fipeCodigo": "805009-0",
+      "displayName": "CAGIVA V-RAPTOR 1000",
+      "valorAtual": 37476,
+      "canonicalPath": "/fipe/cagiva/v-raptor-1000-2001-805009-0/",
+      "ano": 2001,
+      "marca": "CAGIVA"
+    },
+    {
+      "vehicleId": "cagiva-v-raptor-1000-2002-gasolina",
+      "fipeCodigo": "805009-0",
+      "displayName": "CAGIVA V-RAPTOR 1000",
+      "valorAtual": 38413,
+      "canonicalPath": "/fipe/cagiva/v-raptor-1000-2002-805009-0/",
+      "ano": 2002,
+      "marca": "CAGIVA"
+    },
+    {
+      "vehicleId": "harley-davidson-v-rod-10th-anniversary-edition-vrscdx-2012-gasolina",
+      "fipeCodigo": "810058-6",
+      "displayName": "HARLEY-DAVIDSON V-ROD 10th ANNIVERSARY EDITION VRSCDX",
+      "valorAtual": 60512,
+      "canonicalPath": "/fipe/harley-davidson/v-rod-10th-anniversary-edition-vrscdx-2012-810058-6/",
+      "ano": 2012,
+      "marca": "HARLEY-DAVIDSON"
+    },
+    {
+      "vehicleId": "harley-davidson-v-rod-10th-anniversary-edition-vrscdx-2013-gasolina",
+      "fipeCodigo": "810058-6",
+      "displayName": "HARLEY-DAVIDSON V-ROD 10th ANNIVERSARY EDITION VRSCDX",
+      "valorAtual": 63022,
+      "canonicalPath": "/fipe/harley-davidson/v-rod-10th-anniversary-edition-vrscdx-2013-810058-6/",
+      "ano": 2013,
+      "marca": "HARLEY-DAVIDSON"
+    },
+    {
+      "vehicleId": "harley-davidson-v-rod-1130cc-sport-vrscb-2004-gasolina",
+      "fipeCodigo": "810036-5",
+      "displayName": "HARLEY-DAVIDSON V-ROD 1130cc SPORT VRSCB",
+      "valorAtual": 45772,
+      "canonicalPath": "/fipe/harley-davidson/v-rod-1130cc-sport-vrscb-2004-810036-5/",
+      "ano": 2004,
+      "marca": "HARLEY-DAVIDSON"
+    },
+    {
+      "vehicleId": "harley-davidson-v-rod-1130cc-sport-vrscb-2005-gasolina",
+      "fipeCodigo": "810036-5",
+      "displayName": "HARLEY-DAVIDSON V-ROD 1130cc SPORT VRSCB",
+      "valorAtual": 50914,
+      "canonicalPath": "/fipe/harley-davidson/v-rod-1130cc-sport-vrscb-2005-810036-5/",
+      "ano": 2005,
+      "marca": "HARLEY-DAVIDSON"
+    },
+    {
+      "vehicleId": "harley-davidson-v-rod-1130cc-vrsca-1250-vrscaw-2002-gasolina",
+      "fipeCodigo": "810034-9",
+      "displayName": "HARLEY-DAVIDSON V-ROD 1130cc VRSCA/ 1250 VRSCAW",
+      "valorAtual": 45691,
+      "canonicalPath": "/fipe/harley-davidson/v-rod-1130cc-vrsca-1250-vrscaw-2002-810034-9/",
+      "ano": 2002,
+      "marca": "HARLEY-DAVIDSON"
+    },
+    {
+      "vehicleId": "harley-davidson-v-rod-1130cc-vrsca-1250-vrscaw-2003-gasolina",
+      "fipeCodigo": "810034-9",
+      "displayName": "HARLEY-DAVIDSON V-ROD 1130cc VRSCA/ 1250 VRSCAW",
+      "valorAtual": 47844,
+      "canonicalPath": "/fipe/harley-davidson/v-rod-1130cc-vrsca-1250-vrscaw-2003-810034-9/",
+      "ano": 2003,
+      "marca": "HARLEY-DAVIDSON"
+    },
+    {
+      "vehicleId": "harley-davidson-v-rod-1130cc-vrsca-1250-vrscaw-2004-gasolina",
+      "fipeCodigo": "810034-9",
+      "displayName": "HARLEY-DAVIDSON V-ROD 1130cc VRSCA/ 1250 VRSCAW",
+      "valorAtual": 49041,
+      "canonicalPath": "/fipe/harley-davidson/v-rod-1130cc-vrsca-1250-vrscaw-2004-810034-9/",
+      "ano": 2004,
+      "marca": "HARLEY-DAVIDSON"
+    },
+    {
+      "vehicleId": "harley-davidson-v-rod-1130cc-vrsca-1250-vrscaw-2005-gasolina",
+      "fipeCodigo": "810034-9",
+      "displayName": "HARLEY-DAVIDSON V-ROD 1130cc VRSCA/ 1250 VRSCAW",
+      "valorAtual": 50268,
+      "canonicalPath": "/fipe/harley-davidson/v-rod-1130cc-vrsca-1250-vrscaw-2005-810034-9/",
+      "ano": 2005,
+      "marca": "HARLEY-DAVIDSON"
+    },
+    {
+      "vehicleId": "harley-davidson-v-rod-1130cc-vrsca-1250-vrscaw-2006-gasolina",
+      "fipeCodigo": "810034-9",
+      "displayName": "HARLEY-DAVIDSON V-ROD 1130cc VRSCA/ 1250 VRSCAW",
+      "valorAtual": 51525,
+      "canonicalPath": "/fipe/harley-davidson/v-rod-1130cc-vrsca-1250-vrscaw-2006-810034-9/",
+      "ano": 2006,
+      "marca": "HARLEY-DAVIDSON"
+    },
+    {
+      "vehicleId": "harley-davidson-v-rod-1130cc-vrsca-1250-vrscaw-2007-gasolina",
+      "fipeCodigo": "810034-9",
+      "displayName": "HARLEY-DAVIDSON V-ROD 1130cc VRSCA/ 1250 VRSCAW",
+      "valorAtual": 52814,
+      "canonicalPath": "/fipe/harley-davidson/v-rod-1130cc-vrsca-1250-vrscaw-2007-810034-9/",
+      "ano": 2007,
+      "marca": "HARLEY-DAVIDSON"
+    },
+    {
+      "vehicleId": "harley-davidson-v-rod-1130cc-vrsca-1250-vrscaw-2008-gasolina",
+      "fipeCodigo": "810034-9",
+      "displayName": "HARLEY-DAVIDSON V-ROD 1130cc VRSCA/ 1250 VRSCAW",
+      "valorAtual": 54135,
+      "canonicalPath": "/fipe/harley-davidson/v-rod-1130cc-vrsca-1250-vrscaw-2008-810034-9/",
+      "ano": 2008,
+      "marca": "HARLEY-DAVIDSON"
+    },
+    {
+      "vehicleId": "harley-davidson-v-rod-1130cc-vrsca-1250-vrscaw-2009-gasolina",
+      "fipeCodigo": "810034-9",
+      "displayName": "HARLEY-DAVIDSON V-ROD 1130cc VRSCA/ 1250 VRSCAW",
+      "valorAtual": 55640,
+      "canonicalPath": "/fipe/harley-davidson/v-rod-1130cc-vrsca-1250-vrscaw-2009-810034-9/",
+      "ano": 2009,
+      "marca": "HARLEY-DAVIDSON"
+    },
+    {
+      "vehicleId": "harley-davidson-v-rod-1130cc-vrsca-1250-vrscaw-2010-gasolina",
+      "fipeCodigo": "810034-9",
+      "displayName": "HARLEY-DAVIDSON V-ROD 1130cc VRSCA/ 1250 VRSCAW",
+      "valorAtual": 57229,
+      "canonicalPath": "/fipe/harley-davidson/v-rod-1130cc-vrsca-1250-vrscaw-2010-810034-9/",
+      "ano": 2010,
+      "marca": "HARLEY-DAVIDSON"
+    },
+    {
+      "vehicleId": "harley-davidson-v-rod-1130cc-vrsca-1250-vrscaw-2011-gasolina",
+      "fipeCodigo": "810034-9",
+      "displayName": "HARLEY-DAVIDSON V-ROD 1130cc VRSCA/ 1250 VRSCAW",
+      "valorAtual": 58873,
+      "canonicalPath": "/fipe/harley-davidson/v-rod-1130cc-vrsca-1250-vrscaw-2011-810034-9/",
+      "ano": 2011,
+      "marca": "HARLEY-DAVIDSON"
+    },
+    {
+      "vehicleId": "harley-davidson-v-rod-1250cc-muscle-vrscf-2009-gasolina",
+      "fipeCodigo": "810050-0",
+      "displayName": "HARLEY-DAVIDSON V-ROD 1250cc MUSCLE VRSCF",
+      "valorAtual": 55714,
+      "canonicalPath": "/fipe/harley-davidson/v-rod-1250cc-muscle-vrscf-2009-810050-0/",
+      "ano": 2009,
+      "marca": "HARLEY-DAVIDSON"
+    },
+    {
+      "vehicleId": "harley-davidson-v-rod-1250cc-muscle-vrscf-2010-gasolina",
+      "fipeCodigo": "810050-0",
+      "displayName": "HARLEY-DAVIDSON V-ROD 1250cc MUSCLE VRSCF",
+      "valorAtual": 57370,
+      "canonicalPath": "/fipe/harley-davidson/v-rod-1250cc-muscle-vrscf-2010-810050-0/",
+      "ano": 2010,
+      "marca": "HARLEY-DAVIDSON"
+    },
+    {
+      "vehicleId": "harley-davidson-v-rod-1250cc-muscle-vrscf-2011-gasolina",
+      "fipeCodigo": "810050-0",
+      "displayName": "HARLEY-DAVIDSON V-ROD 1250cc MUSCLE VRSCF",
+      "valorAtual": 58891,
+      "canonicalPath": "/fipe/harley-davidson/v-rod-1250cc-muscle-vrscf-2011-810050-0/",
+      "ano": 2011,
+      "marca": "HARLEY-DAVIDSON"
+    },
+    {
+      "vehicleId": "harley-davidson-v-rod-1250cc-muscle-vrscf-2012-gasolina",
+      "fipeCodigo": "810050-0",
+      "displayName": "HARLEY-DAVIDSON V-ROD 1250cc MUSCLE VRSCF",
+      "valorAtual": 60474,
+      "canonicalPath": "/fipe/harley-davidson/v-rod-1250cc-muscle-vrscf-2012-810050-0/",
+      "ano": 2012,
+      "marca": "HARLEY-DAVIDSON"
+    },
+    {
+      "vehicleId": "harley-davidson-v-rod-1250cc-muscle-vrscf-2013-gasolina",
+      "fipeCodigo": "810050-0",
+      "displayName": "HARLEY-DAVIDSON V-ROD 1250cc MUSCLE VRSCF",
+      "valorAtual": 62144,
+      "canonicalPath": "/fipe/harley-davidson/v-rod-1250cc-muscle-vrscf-2013-810050-0/",
+      "ano": 2013,
+      "marca": "HARLEY-DAVIDSON"
+    },
+    {
+      "vehicleId": "harley-davidson-v-rod-1250cc-muscle-vrscf-2014-gasolina",
+      "fipeCodigo": "810050-0",
+      "displayName": "HARLEY-DAVIDSON V-ROD 1250cc MUSCLE VRSCF",
+      "valorAtual": 63776,
+      "canonicalPath": "/fipe/harley-davidson/v-rod-1250cc-muscle-vrscf-2014-810050-0/",
+      "ano": 2014,
+      "marca": "HARLEY-DAVIDSON"
+    },
+    {
+      "vehicleId": "harley-davidson-v-rod-1250cc-muscle-vrscf-2015-gasolina",
+      "fipeCodigo": "810050-0",
+      "displayName": "HARLEY-DAVIDSON V-ROD 1250cc MUSCLE VRSCF",
+      "valorAtual": 65469,
+      "canonicalPath": "/fipe/harley-davidson/v-rod-1250cc-muscle-vrscf-2015-810050-0/",
+      "ano": 2015,
+      "marca": "HARLEY-DAVIDSON"
+    },
+    {
+      "vehicleId": "harley-davidson-v-rod-1250cc-muscle-vrscf-2016-gasolina",
+      "fipeCodigo": "810050-0",
+      "displayName": "HARLEY-DAVIDSON V-ROD 1250cc MUSCLE VRSCF",
+      "valorAtual": 68637,
+      "canonicalPath": "/fipe/harley-davidson/v-rod-1250cc-muscle-vrscf-2016-810050-0/",
+      "ano": 2016,
+      "marca": "HARLEY-DAVIDSON"
+    },
+    {
+      "vehicleId": "harley-davidson-v-rod-screaming-eagle-2005-gasolina",
+      "fipeCodigo": "810041-1",
+      "displayName": "HARLEY-DAVIDSON V-ROD SCREAMING EAGLE",
+      "valorAtual": 52456,
+      "canonicalPath": "/fipe/harley-davidson/v-rod-screaming-eagle-2005-810041-1/",
+      "ano": 2005,
+      "marca": "HARLEY-DAVIDSON"
+    },
+    {
+      "vehicleId": "harley-davidson-v-rod-screaming-eagle-2006-gasolina",
+      "fipeCodigo": "810041-1",
+      "displayName": "HARLEY-DAVIDSON V-ROD SCREAMING EAGLE",
+      "valorAtual": 53768,
+      "canonicalPath": "/fipe/harley-davidson/v-rod-screaming-eagle-2006-810041-1/",
+      "ano": 2006,
+      "marca": "HARLEY-DAVIDSON"
+    },
+    {
+      "vehicleId": "harley-davidson-v-rod-screaming-eagle-2007-gasolina",
+      "fipeCodigo": "810041-1",
+      "displayName": "HARLEY-DAVIDSON V-ROD SCREAMING EAGLE",
+      "valorAtual": 55113,
+      "canonicalPath": "/fipe/harley-davidson/v-rod-screaming-eagle-2007-810041-1/",
+      "ano": 2007,
+      "marca": "HARLEY-DAVIDSON"
+    },
+    {
+      "vehicleId": "yamaha-v-max-1200-1991-gasolina",
+      "fipeCodigo": "827023-6",
+      "displayName": "YAMAHA V-MAX 1200",
+      "valorAtual": 31609,
+      "canonicalPath": "/fipe/yamaha/v-max-1200-1991-827023-6/",
+      "ano": 1991,
+      "marca": "YAMAHA"
+    },
+    {
+      "vehicleId": "yamaha-v-max-1200-1992-gasolina",
+      "fipeCodigo": "827023-6",
+      "displayName": "YAMAHA V-MAX 1200",
+      "valorAtual": 32734,
+      "canonicalPath": "/fipe/yamaha/v-max-1200-1992-827023-6/",
+      "ano": 1992,
+      "marca": "YAMAHA"
+    },
+    {
+      "vehicleId": "yamaha-v-max-1200-1993-gasolina",
+      "fipeCodigo": "827023-6",
+      "displayName": "YAMAHA V-MAX 1200",
+      "valorAtual": 36606,
+      "canonicalPath": "/fipe/yamaha/v-max-1200-1993-827023-6/",
+      "ano": 1993,
+      "marca": "YAMAHA"
+    },
+    {
+      "vehicleId": "yamaha-v-max-1200-1994-gasolina",
+      "fipeCodigo": "827023-6",
+      "displayName": "YAMAHA V-MAX 1200",
+      "valorAtual": 37800,
+      "canonicalPath": "/fipe/yamaha/v-max-1200-1994-827023-6/",
+      "ano": 1994,
+      "marca": "YAMAHA"
+    },
+    {
+      "vehicleId": "yamaha-v-max-1200-1995-gasolina",
+      "fipeCodigo": "827023-6",
+      "displayName": "YAMAHA V-MAX 1200",
+      "valorAtual": 38745,
+      "canonicalPath": "/fipe/yamaha/v-max-1200-1995-827023-6/",
+      "ano": 1995,
+      "marca": "YAMAHA"
+    },
+    {
+      "vehicleId": "yamaha-v-max-1200-1996-gasolina",
+      "fipeCodigo": "827023-6",
+      "displayName": "YAMAHA V-MAX 1200",
+      "valorAtual": 39863,
+      "canonicalPath": "/fipe/yamaha/v-max-1200-1996-827023-6/",
+      "ano": 1996,
+      "marca": "YAMAHA"
+    },
+    {
+      "vehicleId": "yamaha-v-max-1200-1997-gasolina",
+      "fipeCodigo": "827023-6",
+      "displayName": "YAMAHA V-MAX 1200",
+      "valorAtual": 40872,
+      "canonicalPath": "/fipe/yamaha/v-max-1200-1997-827023-6/",
+      "ano": 1997,
+      "marca": "YAMAHA"
+    },
+    {
+      "vehicleId": "yamaha-v-max-1200-1998-gasolina",
+      "fipeCodigo": "827023-6",
+      "displayName": "YAMAHA V-MAX 1200",
+      "valorAtual": 41954,
+      "canonicalPath": "/fipe/yamaha/v-max-1200-1998-827023-6/",
+      "ano": 1998,
+      "marca": "YAMAHA"
+    },
+    {
+      "vehicleId": "yamaha-v-max-1200-1999-gasolina",
+      "fipeCodigo": "827023-6",
+      "displayName": "YAMAHA V-MAX 1200",
+      "valorAtual": 43265,
+      "canonicalPath": "/fipe/yamaha/v-max-1200-1999-827023-6/",
+      "ano": 1999,
+      "marca": "YAMAHA"
+    },
+    {
+      "vehicleId": "yamaha-v-max-1200-2000-gasolina",
+      "fipeCodigo": "827023-6",
+      "displayName": "YAMAHA V-MAX 1200",
+      "valorAtual": 44507,
+      "canonicalPath": "/fipe/yamaha/v-max-1200-2000-827023-6/",
+      "ano": 2000,
+      "marca": "YAMAHA"
+    },
+    {
+      "vehicleId": "yamaha-v-max-1200-2001-gasolina",
+      "fipeCodigo": "827023-6",
+      "displayName": "YAMAHA V-MAX 1200",
+      "valorAtual": 45799,
+      "canonicalPath": "/fipe/yamaha/v-max-1200-2001-827023-6/",
+      "ano": 2001,
+      "marca": "YAMAHA"
+    },
+    {
+      "vehicleId": "zontes-v-350-0-gasolina",
+      "fipeCodigo": "895008-3",
+      "displayName": "ZONTES V 350",
+      "valorAtual": 33287,
+      "canonicalPath": "/fipe/zontes/v-350-0-895008-3/",
+      "ano": 0,
+      "marca": "ZONTES"
+    }
+  ],
+  "stats": {
+    "total": 39
+  },
+  "meta": {
+    "geracaoId": "v-1"
+  }
+}

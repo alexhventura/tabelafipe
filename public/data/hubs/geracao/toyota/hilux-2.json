@@ -1,0 +1,741 @@
+{
+  "tipo": "geracao",
+  "slug": "hilux-2",
+  "canonicalPath": "/geracao/toyota/hilux-2/",
+  "titulo": "Geracao hilux-2",
+  "descricao": "407 veiculos da geracao hilux-2.",
+  "seo": {
+    "title": "Geracao hilux-2 - Precos FIPE",
+    "description": "Veiculos da geracao hilux-2 na Tabela FIPE.",
+    "h1": "Geracao hilux-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/toyota/hilux-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "toyota-hilux-4x2-2-4-diesel-1992-diesel",
+      "fipeCodigo": "002030-3",
+      "displayName": "Toyota Hilux 4x2 2.4 Diesel",
+      "valorAtual": 13849,
+      "canonicalPath": "/fipe/toyota/hilux-4x2-2-4-diesel-1992-002030-3/",
+      "ano": 1992,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-hilux-4x2-2-4-diesel-1993-diesel",
+      "fipeCodigo": "002030-3",
+      "displayName": "Toyota Hilux 4x2 2.4 Diesel",
+      "valorAtual": 15846,
+      "canonicalPath": "/fipe/toyota/hilux-4x2-2-4-diesel-1993-002030-3/",
+      "ano": 1993,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-hilux-4x2-2-4-diesel-1994-diesel",
+      "fipeCodigo": "002030-3",
+      "displayName": "Toyota Hilux 4x2 2.4 Diesel",
+      "valorAtual": 16877,
+      "canonicalPath": "/fipe/toyota/hilux-4x2-2-4-diesel-1994-002030-3/",
+      "ano": 1994,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-hilux-4x2-2-4-diesel-1995-diesel",
+      "fipeCodigo": "002030-3",
+      "displayName": "Toyota Hilux 4x2 2.4 Diesel",
+      "valorAtual": 19211,
+      "canonicalPath": "/fipe/toyota/hilux-4x2-2-4-diesel-1995-002030-3/",
+      "ano": 1995,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-hilux-4x2-2-4-diesel-1996-diesel",
+      "fipeCodigo": "002030-3",
+      "displayName": "Toyota Hilux 4x2 2.4 Diesel",
+      "valorAtual": 19692,
+      "canonicalPath": "/fipe/toyota/hilux-4x2-2-4-diesel-1996-002030-3/",
+      "ano": 1996,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-hilux-4x2-2-8-diesel-1997-diesel",
+      "fipeCodigo": "002031-1",
+      "displayName": "Toyota Hilux 4x2 2.8 Diesel",
+      "valorAtual": 24512,
+      "canonicalPath": "/fipe/toyota/hilux-4x2-2-8-diesel-1997-002031-1/",
+      "ano": 1997,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-hilux-4x2-2-8-diesel-1998-diesel",
+      "fipeCodigo": "002031-1",
+      "displayName": "Toyota Hilux 4x2 2.8 Diesel",
+      "valorAtual": 25885,
+      "canonicalPath": "/fipe/toyota/hilux-4x2-2-8-diesel-1998-002031-1/",
+      "ano": 1998,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-hilux-4x2-2-8-diesel-1999-diesel",
+      "fipeCodigo": "002031-1",
+      "displayName": "Toyota Hilux 4x2 2.8 Diesel",
+      "valorAtual": 31767,
+      "canonicalPath": "/fipe/toyota/hilux-4x2-2-8-diesel-1999-002031-1/",
+      "ano": 1999,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-hilux-cd-4x2-2-4-diesel-1992-diesel",
+      "fipeCodigo": "002014-1",
+      "displayName": "Toyota Hilux CD 4x2 2.4 Diesel",
+      "valorAtual": 14240,
+      "canonicalPath": "/fipe/toyota/hilux-cd-4x2-2-4-diesel-1992-002014-1/",
+      "ano": 1992,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-hilux-cd-4x2-2-4-diesel-1993-diesel",
+      "fipeCodigo": "002014-1",
+      "displayName": "Toyota Hilux CD 4x2 2.4 Diesel",
+      "valorAtual": 16187,
+      "canonicalPath": "/fipe/toyota/hilux-cd-4x2-2-4-diesel-1993-002014-1/",
+      "ano": 1993,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-hilux-cd-4x2-2-4-diesel-1994-diesel",
+      "fipeCodigo": "002014-1",
+      "displayName": "Toyota Hilux CD 4x2 2.4 Diesel",
+      "valorAtual": 18470,
+      "canonicalPath": "/fipe/toyota/hilux-cd-4x2-2-4-diesel-1994-002014-1/",
+      "ano": 1994,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-hilux-cd-4x2-2-4-diesel-1995-diesel",
+      "fipeCodigo": "002014-1",
+      "displayName": "Toyota Hilux CD 4x2 2.4 Diesel",
+      "valorAtual": 27662,
+      "canonicalPath": "/fipe/toyota/hilux-cd-4x2-2-4-diesel-1995-002014-1/",
+      "ano": 1995,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-hilux-cd-4x2-2-4-diesel-1996-diesel",
+      "fipeCodigo": "002014-1",
+      "displayName": "Toyota Hilux CD 4x2 2.4 Diesel",
+      "valorAtual": 28694,
+      "canonicalPath": "/fipe/toyota/hilux-cd-4x2-2-4-diesel-1996-002014-1/",
+      "ano": 1996,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-hilux-cd-4x2-2-4-diesel-1997-diesel",
+      "fipeCodigo": "002014-1",
+      "displayName": "Toyota Hilux CD 4x2 2.4 Diesel",
+      "valorAtual": 31118,
+      "canonicalPath": "/fipe/toyota/hilux-cd-4x2-2-4-diesel-1997-002014-1/",
+      "ano": 1997,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-hilux-cd-4x2-2-4-diesel-1998-diesel",
+      "fipeCodigo": "002014-1",
+      "displayName": "Toyota Hilux CD 4x2 2.4 Diesel",
+      "valorAtual": 31896,
+      "canonicalPath": "/fipe/toyota/hilux-cd-4x2-2-4-diesel-1998-002014-1/",
+      "ano": 1998,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-hilux-cd-4x4-2-7-16v-flex-mec-2013-flex",
+      "fipeCodigo": "002128-8",
+      "displayName": "Toyota Hilux CD 4x4 2.7 16V Flex Mec.",
+      "valorAtual": 121984,
+      "canonicalPath": "/fipe/toyota/hilux-cd-4x4-2-7-16v-flex-mec-2013-002128-8/",
+      "ano": 2013,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-hilux-cd-4x4-2-7-16v-flex-mec-2014-flex",
+      "fipeCodigo": "002128-8",
+      "displayName": "Toyota Hilux CD 4x4 2.7 16V Flex Mec.",
+      "valorAtual": 125034,
+      "canonicalPath": "/fipe/toyota/hilux-cd-4x4-2-7-16v-flex-mec-2014-002128-8/",
+      "ano": 2014,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-hilux-cd-4x4-2-7-16v-flex-mec-2015-flex",
+      "fipeCodigo": "002128-8",
+      "displayName": "Toyota Hilux CD 4x4 2.7 16V Flex Mec.",
+      "valorAtual": 128160,
+      "canonicalPath": "/fipe/toyota/hilux-cd-4x4-2-7-16v-flex-mec-2015-002128-8/",
+      "ano": 2015,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-hilux-cd-4x4-2-8-diesel-aut-2024-diesel",
+      "fipeCodigo": "002218-7",
+      "displayName": "Toyota Hilux CD 4x4 2.8  Diesel Aut.",
+      "valorAtual": 226738,
+      "canonicalPath": "/fipe/toyota/hilux-cd-4x4-2-8-diesel-aut-2024-002218-7/",
+      "ano": 2024,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-hilux-cd-4x4-2-8-diesel-aut-2025-diesel",
+      "fipeCodigo": "002218-7",
+      "displayName": "Toyota Hilux CD 4x4 2.8  Diesel Aut.",
+      "valorAtual": 250808,
+      "canonicalPath": "/fipe/toyota/hilux-cd-4x4-2-8-diesel-aut-2025-002218-7/",
+      "ano": 2025,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-hilux-cd-4x4-2-8-diesel-aut-2026-diesel",
+      "fipeCodigo": "002218-7",
+      "displayName": "Toyota Hilux CD 4x4 2.8  Diesel Aut.",
+      "valorAtual": 267235,
+      "canonicalPath": "/fipe/toyota/hilux-cd-4x4-2-8-diesel-aut-2026-002218-7/",
+      "ano": 2026,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-hilux-cd-4x4-2-8-diesel-mec-1992-diesel",
+      "fipeCodigo": "002015-0",
+      "displayName": "Toyota Hilux CD 4x4 2.8 Diesel Mec.",
+      "valorAtual": 27341,
+      "canonicalPath": "/fipe/toyota/hilux-cd-4x4-2-8-diesel-mec-1992-002015-0/",
+      "ano": 1992,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-hilux-cd-4x4-2-8-diesel-mec-1993-diesel",
+      "fipeCodigo": "002015-0",
+      "displayName": "Toyota Hilux CD 4x4 2.8 Diesel Mec.",
+      "valorAtual": 33524,
+      "canonicalPath": "/fipe/toyota/hilux-cd-4x4-2-8-diesel-mec-1993-002015-0/",
+      "ano": 1993,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-hilux-cd-4x4-2-8-diesel-mec-1994-diesel",
+      "fipeCodigo": "002015-0",
+      "displayName": "Toyota Hilux CD 4x4 2.8 Diesel Mec.",
+      "valorAtual": 44598,
+      "canonicalPath": "/fipe/toyota/hilux-cd-4x4-2-8-diesel-mec-1994-002015-0/",
+      "ano": 1994,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-hilux-cd-4x4-2-8-diesel-mec-1995-diesel",
+      "fipeCodigo": "002015-0",
+      "displayName": "Toyota Hilux CD 4x4 2.8 Diesel Mec.",
+      "valorAtual": 48321,
+      "canonicalPath": "/fipe/toyota/hilux-cd-4x4-2-8-diesel-mec-1995-002015-0/",
+      "ano": 1995,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-hilux-cd-4x4-2-8-diesel-mec-1996-diesel",
+      "fipeCodigo": "002015-0",
+      "displayName": "Toyota Hilux CD 4x4 2.8 Diesel Mec.",
+      "valorAtual": 49530,
+      "canonicalPath": "/fipe/toyota/hilux-cd-4x4-2-8-diesel-mec-1996-002015-0/",
+      "ano": 1996,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-hilux-cd-4x4-2-8-diesel-mec-1997-diesel",
+      "fipeCodigo": "002015-0",
+      "displayName": "Toyota Hilux CD 4x4 2.8 Diesel Mec.",
+      "valorAtual": 50769,
+      "canonicalPath": "/fipe/toyota/hilux-cd-4x4-2-8-diesel-mec-1997-002015-0/",
+      "ano": 1997,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-hilux-cd-4x4-2-8-diesel-mec-1998-diesel",
+      "fipeCodigo": "002015-0",
+      "displayName": "Toyota Hilux CD 4x4 2.8 Diesel Mec.",
+      "valorAtual": 53497,
+      "canonicalPath": "/fipe/toyota/hilux-cd-4x4-2-8-diesel-mec-1998-002015-0/",
+      "ano": 1998,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-hilux-cd-4x4-2-8-diesel-mec-2016-diesel",
+      "fipeCodigo": "002015-0",
+      "displayName": "Toyota Hilux CD 4x4 2.8 Diesel Mec.",
+      "valorAtual": 141857,
+      "canonicalPath": "/fipe/toyota/hilux-cd-4x4-2-8-diesel-mec-2016-002015-0/",
+      "ano": 2016,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-hilux-cd-4x4-2-8-diesel-mec-2017-diesel",
+      "fipeCodigo": "002015-0",
+      "displayName": "Toyota Hilux CD 4x4 2.8 Diesel Mec.",
+      "valorAtual": 145404,
+      "canonicalPath": "/fipe/toyota/hilux-cd-4x4-2-8-diesel-mec-2017-002015-0/",
+      "ano": 2017,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-hilux-cd-4x4-2-8-diesel-mec-2018-diesel",
+      "fipeCodigo": "002015-0",
+      "displayName": "Toyota Hilux CD 4x4 2.8 Diesel Mec.",
+      "valorAtual": 149040,
+      "canonicalPath": "/fipe/toyota/hilux-cd-4x4-2-8-diesel-mec-2018-002015-0/",
+      "ano": 2018,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-hilux-cd-4x4-2-8-diesel-mec-2019-diesel",
+      "fipeCodigo": "002015-0",
+      "displayName": "Toyota Hilux CD 4x4 2.8 Diesel Mec.",
+      "valorAtual": 152766,
+      "canonicalPath": "/fipe/toyota/hilux-cd-4x4-2-8-diesel-mec-2019-002015-0/",
+      "ano": 2019,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-hilux-cd-4x4-2-8-diesel-mec-2020-diesel",
+      "fipeCodigo": "002015-0",
+      "displayName": "Toyota Hilux CD 4x4 2.8 Diesel Mec.",
+      "valorAtual": 156586,
+      "canonicalPath": "/fipe/toyota/hilux-cd-4x4-2-8-diesel-mec-2020-002015-0/",
+      "ano": 2020,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-hilux-cd-4x4-2-8-diesel-mec-2021-diesel",
+      "fipeCodigo": "002015-0",
+      "displayName": "Toyota Hilux CD 4x4 2.8 Diesel Mec.",
+      "valorAtual": 160501,
+      "canonicalPath": "/fipe/toyota/hilux-cd-4x4-2-8-diesel-mec-2021-002015-0/",
+      "ano": 2021,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-hilux-cd-4x4-2-8-diesel-mec-2022-diesel",
+      "fipeCodigo": "002015-0",
+      "displayName": "Toyota Hilux CD 4x4 2.8 Diesel Mec.",
+      "valorAtual": 164514,
+      "canonicalPath": "/fipe/toyota/hilux-cd-4x4-2-8-diesel-mec-2022-002015-0/",
+      "ano": 2022,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-hilux-cd-4x4-2-8-diesel-mec-2023-diesel",
+      "fipeCodigo": "002015-0",
+      "displayName": "Toyota Hilux CD 4x4 2.8 Diesel Mec.",
+      "valorAtual": 169858,
+      "canonicalPath": "/fipe/toyota/hilux-cd-4x4-2-8-diesel-mec-2023-002015-0/",
+      "ano": 2023,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-hilux-cd-4x4-2-8-diesel-mec-2024-diesel",
+      "fipeCodigo": "002015-0",
+      "displayName": "Toyota Hilux CD 4x4 2.8 Diesel Mec.",
+      "valorAtual": 187985,
+      "canonicalPath": "/fipe/toyota/hilux-cd-4x4-2-8-diesel-mec-2024-002015-0/",
+      "ano": 2024,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-hilux-cd-4x4-2-8-diesel-mec-2025-diesel",
+      "fipeCodigo": "002015-0",
+      "displayName": "Toyota Hilux CD 4x4 2.8 Diesel Mec.",
+      "valorAtual": 227879,
+      "canonicalPath": "/fipe/toyota/hilux-cd-4x4-2-8-diesel-mec-2025-002015-0/",
+      "ano": 2025,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-hilux-cd-4x4-2-8-diesel-mec-2026-diesel",
+      "fipeCodigo": "002015-0",
+      "displayName": "Toyota Hilux CD 4x4 2.8 Diesel Mec.",
+      "valorAtual": 245700,
+      "canonicalPath": "/fipe/toyota/hilux-cd-4x4-2-8-diesel-mec-2026-002015-0/",
+      "ano": 2026,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-hilux-cd-conquest-4x4-2-8-die-aut-2023-diesel",
+      "fipeCodigo": "002211-0",
+      "displayName": "Toyota Hilux CD Conquest 4x4 2.8  Die.Aut",
+      "valorAtual": 249305,
+      "canonicalPath": "/fipe/toyota/hilux-cd-conquest-4x4-2-8-die-aut-2023-002211-0/",
+      "ano": 2023,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-hilux-cd-conquest-4x4-2-8-die-aut-2024-diesel",
+      "fipeCodigo": "002211-0",
+      "displayName": "Toyota Hilux CD Conquest 4x4 2.8  Die.Aut",
+      "valorAtual": 277070,
+      "canonicalPath": "/fipe/toyota/hilux-cd-conquest-4x4-2-8-die-aut-2024-002211-0/",
+      "ano": 2024,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-hilux-cd-d4-d-4x2-2-5-16v-102cv-tb-dies-2006-diesel",
+      "fipeCodigo": "002087-7",
+      "displayName": "Toyota Hilux CD D4-D 4x2 2.5 16V 102cv TB Dies.",
+      "valorAtual": 75353,
+      "canonicalPath": "/fipe/toyota/hilux-cd-d4-d-4x2-2-5-16v-102cv-tb-dies-2006-002087-7/",
+      "ano": 2006,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-hilux-cd-d4-d-4x2-2-5-16v-102cv-tb-dies-2007-diesel",
+      "fipeCodigo": "002087-7",
+      "displayName": "Toyota Hilux CD D4-D 4x2 2.5 16V 102cv TB Dies.",
+      "valorAtual": 80262,
+      "canonicalPath": "/fipe/toyota/hilux-cd-d4-d-4x2-2-5-16v-102cv-tb-dies-2007-002087-7/",
+      "ano": 2007,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-hilux-cd-d4-d-4x2-2-5-16v-102cv-tb-dies-2008-diesel",
+      "fipeCodigo": "002087-7",
+      "displayName": "Toyota Hilux CD D4-D 4x2 2.5 16V 102cv TB Dies.",
+      "valorAtual": 84048,
+      "canonicalPath": "/fipe/toyota/hilux-cd-d4-d-4x2-2-5-16v-102cv-tb-dies-2008-002087-7/",
+      "ano": 2008,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-hilux-cd-d4-d-4x2-2-5-16v-102cv-tb-dies-2009-diesel",
+      "fipeCodigo": "002087-7",
+      "displayName": "Toyota Hilux CD D4-D 4x2 2.5 16V 102cv TB Dies.",
+      "valorAtual": 86150,
+      "canonicalPath": "/fipe/toyota/hilux-cd-d4-d-4x2-2-5-16v-102cv-tb-dies-2009-002087-7/",
+      "ano": 2009,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-hilux-cd-d4-d-4x2-2-5-16v-102cv-tb-dies-2010-diesel",
+      "fipeCodigo": "002087-7",
+      "displayName": "Toyota Hilux CD D4-D 4x2 2.5 16V 102cv TB Dies.",
+      "valorAtual": 89577,
+      "canonicalPath": "/fipe/toyota/hilux-cd-d4-d-4x2-2-5-16v-102cv-tb-dies-2010-002087-7/",
+      "ano": 2010,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-hilux-cd-d4-d-4x2-2-5-16v-102cv-tb-dies-2011-diesel",
+      "fipeCodigo": "002087-7",
+      "displayName": "Toyota Hilux CD D4-D 4x2 2.5 16V 102cv TB Dies.",
+      "valorAtual": 91854,
+      "canonicalPath": "/fipe/toyota/hilux-cd-d4-d-4x2-2-5-16v-102cv-tb-dies-2011-002087-7/",
+      "ano": 2011,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-hilux-cd-d4-d-4x4-2-5-16v-102cv-tb-dies-2006-diesel",
+      "fipeCodigo": "002088-5",
+      "displayName": "Toyota Hilux CD D4-D 4x4 2.5 16V 102cv TB Dies.",
+      "valorAtual": 76688,
+      "canonicalPath": "/fipe/toyota/hilux-cd-d4-d-4x4-2-5-16v-102cv-tb-dies-2006-002088-5/",
+      "ano": 2006,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-hilux-cd-d4-d-4x4-2-5-16v-102cv-tb-dies-2007-diesel",
+      "fipeCodigo": "002088-5",
+      "displayName": "Toyota Hilux CD D4-D 4x4 2.5 16V 102cv TB Dies.",
+      "valorAtual": 82941,
+      "canonicalPath": "/fipe/toyota/hilux-cd-d4-d-4x4-2-5-16v-102cv-tb-dies-2007-002088-5/",
+      "ano": 2007,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-hilux-cd-d4-d-4x4-2-5-16v-102cv-tb-dies-2008-diesel",
+      "fipeCodigo": "002088-5",
+      "displayName": "Toyota Hilux CD D4-D 4x4 2.5 16V 102cv TB Dies.",
+      "valorAtual": 85015,
+      "canonicalPath": "/fipe/toyota/hilux-cd-d4-d-4x4-2-5-16v-102cv-tb-dies-2008-002088-5/",
+      "ano": 2008,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-hilux-cd-d4-d-4x4-2-5-16v-102cv-tb-dies-2009-diesel",
+      "fipeCodigo": "002088-5",
+      "displayName": "Toyota Hilux CD D4-D 4x4 2.5 16V 102cv TB Dies.",
+      "valorAtual": 87141,
+      "canonicalPath": "/fipe/toyota/hilux-cd-d4-d-4x4-2-5-16v-102cv-tb-dies-2009-002088-5/",
+      "ano": 2009,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-hilux-cd-d4-d-4x4-2-5-16v-102cv-tb-dies-2010-diesel",
+      "fipeCodigo": "002088-5",
+      "displayName": "Toyota Hilux CD D4-D 4x4 2.5 16V 102cv TB Dies.",
+      "valorAtual": 89692,
+      "canonicalPath": "/fipe/toyota/hilux-cd-d4-d-4x4-2-5-16v-102cv-tb-dies-2010-002088-5/",
+      "ano": 2010,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-hilux-cd-d4-d-4x4-2-5-16v-102cv-tb-dies-2011-diesel",
+      "fipeCodigo": "002088-5",
+      "displayName": "Toyota Hilux CD D4-D 4x4 2.5 16V 102cv TB Dies.",
+      "valorAtual": 91935,
+      "canonicalPath": "/fipe/toyota/hilux-cd-d4-d-4x4-2-5-16v-102cv-tb-dies-2011-002088-5/",
+      "ano": 2011,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-hilux-cd-d4-d-4x4-2-5-16v-102cv-tb-dies-2012-diesel",
+      "fipeCodigo": "002088-5",
+      "displayName": "Toyota Hilux CD D4-D 4x4 2.5 16V 102cv TB Dies.",
+      "valorAtual": 100829,
+      "canonicalPath": "/fipe/toyota/hilux-cd-d4-d-4x4-2-5-16v-102cv-tb-dies-2012-002088-5/",
+      "ano": 2012,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-hilux-cd-d4-d-4x4-3-0-tdi-dies-mec-2012-diesel",
+      "fipeCodigo": "002119-9",
+      "displayName": "Toyota Hilux CD D4-D 4x4 3.0 TDI Dies. Mec.",
+      "valorAtual": 100195,
+      "canonicalPath": "/fipe/toyota/hilux-cd-d4-d-4x4-3-0-tdi-dies-mec-2012-002119-9/",
+      "ano": 2012,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-hilux-cd-d4-d-4x4-3-0-tdi-dies-mec-2013-diesel",
+      "fipeCodigo": "002119-9",
+      "displayName": "Toyota Hilux CD D4-D 4x4 3.0 TDI Dies. Mec.",
+      "valorAtual": 110178,
+      "canonicalPath": "/fipe/toyota/hilux-cd-d4-d-4x4-3-0-tdi-dies-mec-2013-002119-9/",
+      "ano": 2013,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-hilux-cd-d4-d-4x4-3-0-tdi-dies-mec-2014-diesel",
+      "fipeCodigo": "002119-9",
+      "displayName": "Toyota Hilux CD D4-D 4x4 3.0 TDI Dies. Mec.",
+      "valorAtual": 112933,
+      "canonicalPath": "/fipe/toyota/hilux-cd-d4-d-4x4-3-0-tdi-dies-mec-2014-002119-9/",
+      "ano": 2014,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-hilux-cd-d4-d-4x4-3-0-tdi-dies-mec-2015-diesel",
+      "fipeCodigo": "002119-9",
+      "displayName": "Toyota Hilux CD D4-D 4x4 3.0 TDI Dies. Mec.",
+      "valorAtual": 118177,
+      "canonicalPath": "/fipe/toyota/hilux-cd-d4-d-4x4-3-0-tdi-dies-mec-2015-002119-9/",
+      "ano": 2015,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-hilux-cd-dlx-4x2-2-8-diesel-1997-diesel",
+      "fipeCodigo": "002032-0",
+      "displayName": "Toyota Hilux CD DLX 4x2 2.8 Diesel",
+      "valorAtual": 31692,
+      "canonicalPath": "/fipe/toyota/hilux-cd-dlx-4x2-2-8-diesel-1997-002032-0/",
+      "ano": 1997,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-hilux-cd-dlx-4x2-2-8-diesel-1998-diesel",
+      "fipeCodigo": "002032-0",
+      "displayName": "Toyota Hilux CD DLX 4x2 2.8 Diesel",
+      "valorAtual": 34130,
+      "canonicalPath": "/fipe/toyota/hilux-cd-dlx-4x2-2-8-diesel-1998-002032-0/",
+      "ano": 1998,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-hilux-cd-dlx-4x2-2-8-diesel-1999-diesel",
+      "fipeCodigo": "002032-0",
+      "displayName": "Toyota Hilux CD DLX 4x2 2.8 Diesel",
+      "valorAtual": 41961,
+      "canonicalPath": "/fipe/toyota/hilux-cd-dlx-4x2-2-8-diesel-1999-002032-0/",
+      "ano": 1999,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-hilux-cd-dlx-4x4-2-8-diesel-1997-diesel",
+      "fipeCodigo": "002033-8",
+      "displayName": "Toyota Hilux CD DLX 4x4 2.8 Diesel",
+      "valorAtual": 51344,
+      "canonicalPath": "/fipe/toyota/hilux-cd-dlx-4x4-2-8-diesel-1997-002033-8/",
+      "ano": 1997,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-hilux-cd-dlx-4x4-2-8-diesel-1998-diesel",
+      "fipeCodigo": "002033-8",
+      "displayName": "Toyota Hilux CD DLX 4x4 2.8 Diesel",
+      "valorAtual": 54320,
+      "canonicalPath": "/fipe/toyota/hilux-cd-dlx-4x4-2-8-diesel-1998-002033-8/",
+      "ano": 1998,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-hilux-cd-dlx-4x4-2-8-diesel-1999-diesel",
+      "fipeCodigo": "002033-8",
+      "displayName": "Toyota Hilux CD DLX 4x4 2.8 Diesel",
+      "valorAtual": 60853,
+      "canonicalPath": "/fipe/toyota/hilux-cd-dlx-4x4-2-8-diesel-1999-002033-8/",
+      "ano": 1999,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-hilux-cd-dlx-4x4-2-8-diesel-2000-diesel",
+      "fipeCodigo": "002033-8",
+      "displayName": "Toyota Hilux CD DLX 4x4 2.8 Diesel",
+      "valorAtual": 62375,
+      "canonicalPath": "/fipe/toyota/hilux-cd-dlx-4x4-2-8-diesel-2000-002033-8/",
+      "ano": 2000,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-hilux-cd-dlx-4x4-2-8-diesel-2001-diesel",
+      "fipeCodigo": "002033-8",
+      "displayName": "Toyota Hilux CD DLX 4x4 2.8 Diesel",
+      "valorAtual": 68809,
+      "canonicalPath": "/fipe/toyota/hilux-cd-dlx-4x4-2-8-diesel-2001-002033-8/",
+      "ano": 2001,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-hilux-cd-dx-4x2-2-7-16v-142cv-2002-gasolina",
+      "fipeCodigo": "002068-0",
+      "displayName": "Toyota Hilux CD DX 4x2 2.7 16V 142cv",
+      "valorAtual": 26681,
+      "canonicalPath": "/fipe/toyota/hilux-cd-dx-4x2-2-7-16v-142cv-2002-002068-0/",
+      "ano": 2002,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-hilux-cd-dx-4x2-2-7-16v-142cv-2003-gasolina",
+      "fipeCodigo": "002068-0",
+      "displayName": "Toyota Hilux CD DX 4x2 2.7 16V 142cv",
+      "valorAtual": 28854,
+      "canonicalPath": "/fipe/toyota/hilux-cd-dx-4x2-2-7-16v-142cv-2003-002068-0/",
+      "ano": 2003,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-hilux-cd-dx-4x2-3-0-8v-90cv-diesel-2002-diesel",
+      "fipeCodigo": "002069-9",
+      "displayName": "Toyota Hilux CD DX 4x2 3.0 8V 90cv Diesel",
+      "valorAtual": 49154,
+      "canonicalPath": "/fipe/toyota/hilux-cd-dx-4x2-3-0-8v-90cv-diesel-2002-002069-9/",
+      "ano": 2002,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-hilux-cd-dx-4x2-3-0-8v-90cv-diesel-2003-diesel",
+      "fipeCodigo": "002069-9",
+      "displayName": "Toyota Hilux CD DX 4x2 3.0 8V 90cv Diesel",
+      "valorAtual": 58981,
+      "canonicalPath": "/fipe/toyota/hilux-cd-dx-4x2-3-0-8v-90cv-diesel-2003-002069-9/",
+      "ano": 2003,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-hilux-cd-dx-4x2-3-0-8v-90cv-diesel-2004-diesel",
+      "fipeCodigo": "002069-9",
+      "displayName": "Toyota Hilux CD DX 4x2 3.0 8V 90cv Diesel",
+      "valorAtual": 60456,
+      "canonicalPath": "/fipe/toyota/hilux-cd-dx-4x2-3-0-8v-90cv-diesel-2004-002069-9/",
+      "ano": 2004,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-hilux-cd-dx-4x2-3-0-8v-90cv-diesel-2005-diesel",
+      "fipeCodigo": "002069-9",
+      "displayName": "Toyota Hilux CD DX 4x2 3.0 8V 90cv Diesel",
+      "valorAtual": 64126,
+      "canonicalPath": "/fipe/toyota/hilux-cd-dx-4x2-3-0-8v-90cv-diesel-2005-002069-9/",
+      "ano": 2005,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-hilux-cd-dx-4x4-3-0-8v-90cv-diesel-2002-diesel",
+      "fipeCodigo": "002075-3",
+      "displayName": "Toyota Hilux CD DX 4x4 3.0 8V 90cv Diesel",
+      "valorAtual": 58251,
+      "canonicalPath": "/fipe/toyota/hilux-cd-dx-4x4-3-0-8v-90cv-diesel-2002-002075-3/",
+      "ano": 2002,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-hilux-cd-dx-4x4-3-0-8v-90cv-diesel-2003-diesel",
+      "fipeCodigo": "002075-3",
+      "displayName": "Toyota Hilux CD DX 4x4 3.0 8V 90cv Diesel",
+      "valorAtual": 61911,
+      "canonicalPath": "/fipe/toyota/hilux-cd-dx-4x4-3-0-8v-90cv-diesel-2003-002075-3/",
+      "ano": 2003,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-hilux-cd-dx-4x4-3-0-8v-90cv-diesel-2004-diesel",
+      "fipeCodigo": "002075-3",
+      "displayName": "Toyota Hilux CD DX 4x4 3.0 8V 90cv Diesel",
+      "valorAtual": 63459,
+      "canonicalPath": "/fipe/toyota/hilux-cd-dx-4x4-3-0-8v-90cv-diesel-2004-002075-3/",
+      "ano": 2004,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-hilux-cd-dx-4x4-3-0-8v-90cv-diesel-2005-diesel",
+      "fipeCodigo": "002075-3",
+      "displayName": "Toyota Hilux CD DX 4x4 3.0 8V 90cv Diesel",
+      "valorAtual": 67675,
+      "canonicalPath": "/fipe/toyota/hilux-cd-dx-4x4-3-0-8v-90cv-diesel-2005-002075-3/",
+      "ano": 2005,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-hilux-cd-gr-s-4x4-2-8-tdi-dies-aut-2019-diesel",
+      "fipeCodigo": "002177-6",
+      "displayName": "Toyota Hilux CD GR-S 4x4 2.8 TDI Dies. Aut.",
+      "valorAtual": 203370,
+      "canonicalPath": "/fipe/toyota/hilux-cd-gr-s-4x4-2-8-tdi-dies-aut-2019-002177-6/",
+      "ano": 2019,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-hilux-cd-gr-s-4x4-2-8-tdi-dies-aut-2020-diesel",
+      "fipeCodigo": "002177-6",
+      "displayName": "Toyota Hilux CD GR-S 4x4 2.8 TDI Dies. Aut.",
+      "valorAtual": 208455,
+      "canonicalPath": "/fipe/toyota/hilux-cd-gr-s-4x4-2-8-tdi-dies-aut-2020-002177-6/",
+      "ano": 2020,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-hilux-cd-gr-s-4x4-2-8-tdi-dies-aut-2022-diesel",
+      "fipeCodigo": "002177-6",
+      "displayName": "Toyota Hilux CD GR-S 4x4 2.8 TDI Dies. Aut.",
+      "valorAtual": 246001,
+      "canonicalPath": "/fipe/toyota/hilux-cd-gr-s-4x4-2-8-tdi-dies-aut-2022-002177-6/",
+      "ano": 2022,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-hilux-cd-gr-s-4x4-2-8-tdi-dies-aut-2023-diesel",
+      "fipeCodigo": "002177-6",
+      "displayName": "Toyota Hilux CD GR-S 4x4 2.8 TDI Dies. Aut.",
+      "valorAtual": 274637,
+      "canonicalPath": "/fipe/toyota/hilux-cd-gr-s-4x4-2-8-tdi-dies-aut-2023-002177-6/",
+      "ano": 2023,
+      "marca": "Toyota"
+    }
+  ],
+  "stats": {
+    "total": 407
+  },
+  "meta": {
+    "geracaoId": "hilux-2"
+  }
+}

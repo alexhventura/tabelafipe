@@ -1,0 +1,62 @@
+{
+  "tipo": "familia",
+  "slug": "h1",
+  "canonicalPath": "/fipe/lobini/h1/",
+  "titulo": "LOBINI h1 - Tabela FIPE",
+  "descricao": "4 versoes e anos do LOBINI h1 na Tabela FIPE.",
+  "seo": {
+    "title": "LOBINI h1 - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes LOBINI h1. 4 veiculos indexados.",
+    "h1": "LOBINI h1 - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/lobini/h1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "lobini-h1-1-8-20v-turbo-180cv-2p-2008-gasolina",
+      "fipeCodigo": "063001-2",
+      "displayName": "LOBINI H1 1.8 20V Turbo 180cv 2p",
+      "valorAtual": 155756,
+      "canonicalPath": "/fipe/lobini/h1-1-8-20v-turbo-180cv-2p-2008-063001-2/",
+      "ano": 2008,
+      "marca": "LOBINI"
+    },
+    {
+      "vehicleId": "lobini-h1-1-8-20v-turbo-180cv-2p-2007-gasolina",
+      "fipeCodigo": "063001-2",
+      "displayName": "LOBINI H1 1.8 20V Turbo 180cv 2p",
+      "valorAtual": 151957,
+      "canonicalPath": "/fipe/lobini/h1-1-8-20v-turbo-180cv-2p-2007-063001-2/",
+      "ano": 2007,
+      "marca": "LOBINI"
+    },
+    {
+      "vehicleId": "lobini-h1-1-8-20v-turbo-180cv-2p-2006-gasolina",
+      "fipeCodigo": "063001-2",
+      "displayName": "LOBINI H1 1.8 20V Turbo 180cv 2p",
+      "valorAtual": 147974,
+      "canonicalPath": "/fipe/lobini/h1-1-8-20v-turbo-180cv-2p-2006-063001-2/",
+      "ano": 2006,
+      "marca": "LOBINI"
+    },
+    {
+      "vehicleId": "lobini-h1-1-8-20v-turbo-180cv-2p-2005-gasolina",
+      "fipeCodigo": "063001-2",
+      "displayName": "LOBINI H1 1.8 20V Turbo 180cv 2p",
+      "valorAtual": 124485,
+      "canonicalPath": "/fipe/lobini/h1-1-8-20v-turbo-180cv-2p-2005-063001-2/",
+      "ano": 2005,
+      "marca": "LOBINI"
+    }
+  ],
+  "stats": {
+    "total": 4,
+    "precoMin": 124485,
+    "precoMax": 155756,
+    "anos": [
+      2008,
+      2007,
+      2006,
+      2005
+    ]
+  }
+}

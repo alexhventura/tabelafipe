@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "blazer-3",
+  "canonicalPath": "/geracao/chevrolet/blazer-3/",
+  "titulo": "Geracao blazer-3",
+  "descricao": "2 veiculos da geracao blazer-3.",
+  "seo": {
+    "title": "Geracao blazer-3 - Precos FIPE",
+    "description": "Veiculos da geracao blazer-3 na Tabela FIPE.",
+    "h1": "Geracao blazer-3",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/chevrolet/blazer-3/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "chevrolet-blazer-ev-rs-347cv-eletrico-2024-eletrico",
+      "fipeCodigo": "004553-5",
+      "displayName": "GM - Chevrolet BLAZER EV RS 347cv (Elétrico)",
+      "valorAtual": 364511,
+      "canonicalPath": "/fipe/chevrolet/blazer-ev-rs-347cv-eletrico-2024-004553-5/",
+      "ano": 2024,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-blazer-ev-rs-347cv-eletrico-2025-eletrico",
+      "fipeCodigo": "004553-5",
+      "displayName": "GM - Chevrolet BLAZER EV RS 347cv (Elétrico)",
+      "valorAtual": 427711,
+      "canonicalPath": "/fipe/chevrolet/blazer-ev-rs-347cv-eletrico-2025-004553-5/",
+      "ano": 2025,
+      "marca": "GM - Chevrolet"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "blazer-3"
+  }
+}

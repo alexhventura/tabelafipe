@@ -1,0 +1,82 @@
+{
+  "tipo": "familia",
+  "slug": "rx",
+  "canonicalPath": "/fipe/kasinski/rx/",
+  "titulo": "KASINSKI rx - Tabela FIPE",
+  "descricao": "6 versoes e anos do KASINSKI rx na Tabela FIPE.",
+  "seo": {
+    "title": "KASINSKI rx - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes KASINSKI rx. 6 veiculos indexados.",
+    "h1": "KASINSKI rx - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/kasinski/rx/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "kasinski-rx-125-2004-gasolina",
+      "fipeCodigo": "816009-0",
+      "displayName": "KASINSKI RX 125",
+      "valorAtual": 4296,
+      "canonicalPath": "/fipe/kasinski/rx-125-2004-816009-0/",
+      "ano": 2004,
+      "marca": "KASINSKI"
+    },
+    {
+      "vehicleId": "kasinski-rx-125-2003-gasolina",
+      "fipeCodigo": "816009-0",
+      "displayName": "KASINSKI RX 125",
+      "valorAtual": 3761,
+      "canonicalPath": "/fipe/kasinski/rx-125-2003-816009-0/",
+      "ano": 2003,
+      "marca": "KASINSKI"
+    },
+    {
+      "vehicleId": "kasinski-rx-125-2002-gasolina",
+      "fipeCodigo": "816009-0",
+      "displayName": "KASINSKI RX 125",
+      "valorAtual": 3197,
+      "canonicalPath": "/fipe/kasinski/rx-125-2002-816009-0/",
+      "ano": 2002,
+      "marca": "KASINSKI"
+    },
+    {
+      "vehicleId": "kasinski-rx-125-2001-gasolina",
+      "fipeCodigo": "816009-0",
+      "displayName": "KASINSKI RX 125",
+      "valorAtual": 2927,
+      "canonicalPath": "/fipe/kasinski/rx-125-2001-816009-0/",
+      "ano": 2001,
+      "marca": "KASINSKI"
+    },
+    {
+      "vehicleId": "kasinski-rx-125-2000-gasolina",
+      "fipeCodigo": "816009-0",
+      "displayName": "KASINSKI RX 125",
+      "valorAtual": 2757,
+      "canonicalPath": "/fipe/kasinski/rx-125-2000-816009-0/",
+      "ano": 2000,
+      "marca": "KASINSKI"
+    },
+    {
+      "vehicleId": "kasinski-rx-125-1999-gasolina",
+      "fipeCodigo": "816009-0",
+      "displayName": "KASINSKI RX 125",
+      "valorAtual": 2528,
+      "canonicalPath": "/fipe/kasinski/rx-125-1999-816009-0/",
+      "ano": 1999,
+      "marca": "KASINSKI"
+    }
+  ],
+  "stats": {
+    "total": 6,
+    "precoMin": 2528,
+    "precoMax": 4296,
+    "anos": [
+      2004,
+      2003,
+      2002,
+      2001,
+      2000,
+      1999
+    ]
+  }
+}

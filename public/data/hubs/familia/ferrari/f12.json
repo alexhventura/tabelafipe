@@ -1,0 +1,81 @@
+{
+  "tipo": "familia",
+  "slug": "f12",
+  "canonicalPath": "/fipe/ferrari/f12/",
+  "titulo": "Ferrari f12 - Tabela FIPE",
+  "descricao": "6 versoes e anos do Ferrari f12 na Tabela FIPE.",
+  "seo": {
+    "title": "Ferrari f12 - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes Ferrari f12. 6 veiculos indexados.",
+    "h1": "Ferrari f12 - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/ferrari/f12/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "ferrari-f12-tdf-780cv-2017-gasolina",
+      "fipeCodigo": "031038-7",
+      "displayName": "Ferrari F12 TDF 780cv",
+      "valorAtual": 3720414,
+      "canonicalPath": "/fipe/ferrari/f12-tdf-780cv-2017-031038-7/",
+      "ano": 2017,
+      "marca": "Ferrari"
+    },
+    {
+      "vehicleId": "ferrari-f12-berlinetta-740cv-2017-gasolina",
+      "fipeCodigo": "031034-4",
+      "displayName": "Ferrari F12 Berlinetta 740cv",
+      "valorAtual": 4921164,
+      "canonicalPath": "/fipe/ferrari/f12-berlinetta-740cv-2017-031034-4/",
+      "ano": 2017,
+      "marca": "Ferrari"
+    },
+    {
+      "vehicleId": "ferrari-f12-berlinetta-740cv-2016-gasolina",
+      "fipeCodigo": "031034-4",
+      "displayName": "Ferrari F12 Berlinetta 740cv",
+      "valorAtual": 4801135,
+      "canonicalPath": "/fipe/ferrari/f12-berlinetta-740cv-2016-031034-4/",
+      "ano": 2016,
+      "marca": "Ferrari"
+    },
+    {
+      "vehicleId": "ferrari-f12-berlinetta-740cv-2015-gasolina",
+      "fipeCodigo": "031034-4",
+      "displayName": "Ferrari F12 Berlinetta 740cv",
+      "valorAtual": 4684034,
+      "canonicalPath": "/fipe/ferrari/f12-berlinetta-740cv-2015-031034-4/",
+      "ano": 2015,
+      "marca": "Ferrari"
+    },
+    {
+      "vehicleId": "ferrari-f12-berlinetta-740cv-2014-gasolina",
+      "fipeCodigo": "031034-4",
+      "displayName": "Ferrari F12 Berlinetta 740cv",
+      "valorAtual": 3860593,
+      "canonicalPath": "/fipe/ferrari/f12-berlinetta-740cv-2014-031034-4/",
+      "ano": 2014,
+      "marca": "Ferrari"
+    },
+    {
+      "vehicleId": "ferrari-f12-berlinetta-740cv-2013-gasolina",
+      "fipeCodigo": "031034-4",
+      "displayName": "Ferrari F12 Berlinetta 740cv",
+      "valorAtual": 3766432,
+      "canonicalPath": "/fipe/ferrari/f12-berlinetta-740cv-2013-031034-4/",
+      "ano": 2013,
+      "marca": "Ferrari"
+    }
+  ],
+  "stats": {
+    "total": 6,
+    "precoMin": 3720414,
+    "precoMax": 4921164,
+    "anos": [
+      2017,
+      2016,
+      2015,
+      2014,
+      2013
+    ]
+  }
+}

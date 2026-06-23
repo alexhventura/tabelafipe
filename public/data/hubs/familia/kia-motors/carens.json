@@ -1,0 +1,101 @@
+{
+  "tipo": "familia",
+  "slug": "carens",
+  "canonicalPath": "/fipe/kia-motors/carens/",
+  "titulo": "Kia Motors carens - Tabela FIPE",
+  "descricao": "8 versoes e anos do Kia Motors carens na Tabela FIPE.",
+  "seo": {
+    "title": "Kia Motors carens - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes Kia Motors carens. 8 veiculos indexados.",
+    "h1": "Kia Motors carens - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/kia-motors/carens/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "kia-motors-carens-ex-2-0-16v-aut-2013-gasolina",
+      "fipeCodigo": "018067-0",
+      "displayName": "Kia Motors Carens EX 2.0 16V  Aut.",
+      "valorAtual": 41965,
+      "canonicalPath": "/fipe/kia-motors/carens-ex-2-0-16v-aut-2013-018067-0/",
+      "ano": 2013,
+      "marca": "Kia Motors"
+    },
+    {
+      "vehicleId": "kia-motors-carens-ex-2-0-16v-aut-2012-gasolina",
+      "fipeCodigo": "018067-0",
+      "displayName": "Kia Motors Carens EX 2.0 16V  Aut.",
+      "valorAtual": 39360,
+      "canonicalPath": "/fipe/kia-motors/carens-ex-2-0-16v-aut-2012-018067-0/",
+      "ano": 2012,
+      "marca": "Kia Motors"
+    },
+    {
+      "vehicleId": "kia-motors-carens-ex-2-0-16v-aut-2011-gasolina",
+      "fipeCodigo": "018067-0",
+      "displayName": "Kia Motors Carens EX 2.0 16V  Aut.",
+      "valorAtual": 38400,
+      "canonicalPath": "/fipe/kia-motors/carens-ex-2-0-16v-aut-2011-018067-0/",
+      "ano": 2011,
+      "marca": "Kia Motors"
+    },
+    {
+      "vehicleId": "kia-motors-carens-ex-2-0-16v-aut-2010-gasolina",
+      "fipeCodigo": "018067-0",
+      "displayName": "Kia Motors Carens EX 2.0 16V  Aut.",
+      "valorAtual": 37463,
+      "canonicalPath": "/fipe/kia-motors/carens-ex-2-0-16v-aut-2010-018067-0/",
+      "ano": 2010,
+      "marca": "Kia Motors"
+    },
+    {
+      "vehicleId": "kia-motors-carens-ex-2-0-16v-aut-2009-gasolina",
+      "fipeCodigo": "018067-0",
+      "displayName": "Kia Motors Carens EX 2.0 16V  Aut.",
+      "valorAtual": 27037,
+      "canonicalPath": "/fipe/kia-motors/carens-ex-2-0-16v-aut-2009-018067-0/",
+      "ano": 2009,
+      "marca": "Kia Motors"
+    },
+    {
+      "vehicleId": "kia-motors-carens-ls-1-8-16v-130cv-mec-2001-gasolina",
+      "fipeCodigo": "018044-0",
+      "displayName": "Kia Motors Carens LS 1.8 16V 130cv Mec.",
+      "valorAtual": 9581,
+      "canonicalPath": "/fipe/kia-motors/carens-ls-1-8-16v-130cv-mec-2001-018044-0/",
+      "ano": 2001,
+      "marca": "Kia Motors"
+    },
+    {
+      "vehicleId": "kia-motors-carens-ls-1-8-16v-130cv-aut-2001-gasolina",
+      "fipeCodigo": "018045-9",
+      "displayName": "Kia Motors Carens LS 1.8 16V 130cv Aut.",
+      "valorAtual": 9654,
+      "canonicalPath": "/fipe/kia-motors/carens-ls-1-8-16v-130cv-aut-2001-018045-9/",
+      "ano": 2001,
+      "marca": "Kia Motors"
+    },
+    {
+      "vehicleId": "kia-motors-carens-ls-1-8-16v-130cv-aut-1999-gasolina",
+      "fipeCodigo": "018045-9",
+      "displayName": "Kia Motors Carens LS 1.8 16V 130cv Aut.",
+      "valorAtual": 8989,
+      "canonicalPath": "/fipe/kia-motors/carens-ls-1-8-16v-130cv-aut-1999-018045-9/",
+      "ano": 1999,
+      "marca": "Kia Motors"
+    }
+  ],
+  "stats": {
+    "total": 8,
+    "precoMin": 8989,
+    "precoMax": 41965,
+    "anos": [
+      2013,
+      2012,
+      2011,
+      2010,
+      2009,
+      2001,
+      1999
+    ]
+  }
+}

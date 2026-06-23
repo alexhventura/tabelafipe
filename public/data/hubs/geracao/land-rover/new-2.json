@@ -1,0 +1,93 @@
+{
+  "tipo": "geracao",
+  "slug": "new-2",
+  "canonicalPath": "/geracao/land-rover/new-2/",
+  "titulo": "Geracao new-2",
+  "descricao": "8 veiculos da geracao new-2.",
+  "seo": {
+    "title": "Geracao new-2 - Precos FIPE",
+    "description": "Veiculos da geracao new-2 na Tabela FIPE.",
+    "h1": "Geracao new-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/land-rover/new-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "land-rover-new-range-range-rover-vogue-3-9-v8-1996-gasolina",
+      "fipeCodigo": "033019-1",
+      "displayName": "Land Rover New Range/Range Rover Vogue 3.9 V8",
+      "valorAtual": 18611,
+      "canonicalPath": "/fipe/land-rover/new-range-range-rover-vogue-3-9-v8-1996-033019-1/",
+      "ano": 1996,
+      "marca": "Land Rover"
+    },
+    {
+      "vehicleId": "land-rover-new-range-range-rover-vogue-3-9-v8-1997-gasolina",
+      "fipeCodigo": "033019-1",
+      "displayName": "Land Rover New Range/Range Rover Vogue 3.9 V8",
+      "valorAtual": 19439,
+      "canonicalPath": "/fipe/land-rover/new-range-range-rover-vogue-3-9-v8-1997-033019-1/",
+      "ano": 1997,
+      "marca": "Land Rover"
+    },
+    {
+      "vehicleId": "volkswagen-new-beetle-2-0-mi-mec-aut-2005-gasolina",
+      "fipeCodigo": "005111-0",
+      "displayName": "VW - VolksWagen New Beetle 2.0 Mi Mec./Aut.",
+      "valorAtual": 44652,
+      "canonicalPath": "/fipe/volkswagen/new-beetle-2-0-mi-mec-aut-2005-005111-0/",
+      "ano": 2005,
+      "marca": "VW - VolksWagen"
+    },
+    {
+      "vehicleId": "volkswagen-new-beetle-2-0-mi-mec-aut-2006-gasolina",
+      "fipeCodigo": "005111-0",
+      "displayName": "VW - VolksWagen New Beetle 2.0 Mi Mec./Aut.",
+      "valorAtual": 45787,
+      "canonicalPath": "/fipe/volkswagen/new-beetle-2-0-mi-mec-aut-2006-005111-0/",
+      "ano": 2006,
+      "marca": "VW - VolksWagen"
+    },
+    {
+      "vehicleId": "volkswagen-new-beetle-2-0-mi-mec-aut-2007-gasolina",
+      "fipeCodigo": "005111-0",
+      "displayName": "VW - VolksWagen New Beetle 2.0 Mi Mec./Aut.",
+      "valorAtual": 46932,
+      "canonicalPath": "/fipe/volkswagen/new-beetle-2-0-mi-mec-aut-2007-005111-0/",
+      "ano": 2007,
+      "marca": "VW - VolksWagen"
+    },
+    {
+      "vehicleId": "volkswagen-new-beetle-2-0-mi-mec-aut-2008-gasolina",
+      "fipeCodigo": "005111-0",
+      "displayName": "VW - VolksWagen New Beetle 2.0 Mi Mec./Aut.",
+      "valorAtual": 48788,
+      "canonicalPath": "/fipe/volkswagen/new-beetle-2-0-mi-mec-aut-2008-005111-0/",
+      "ano": 2008,
+      "marca": "VW - VolksWagen"
+    },
+    {
+      "vehicleId": "volkswagen-new-beetle-2-0-mi-mec-aut-2009-gasolina",
+      "fipeCodigo": "005111-0",
+      "displayName": "VW - VolksWagen New Beetle 2.0 Mi Mec./Aut.",
+      "valorAtual": 50546,
+      "canonicalPath": "/fipe/volkswagen/new-beetle-2-0-mi-mec-aut-2009-005111-0/",
+      "ano": 2009,
+      "marca": "VW - VolksWagen"
+    },
+    {
+      "vehicleId": "volkswagen-new-beetle-2-0-mi-mec-aut-2010-gasolina",
+      "fipeCodigo": "005111-0",
+      "displayName": "VW - VolksWagen New Beetle 2.0 Mi Mec./Aut.",
+      "valorAtual": 57073,
+      "canonicalPath": "/fipe/volkswagen/new-beetle-2-0-mi-mec-aut-2010-005111-0/",
+      "ano": 2010,
+      "marca": "VW - VolksWagen"
+    }
+  ],
+  "stats": {
+    "total": 8
+  },
+  "meta": {
+    "geracaoId": "new-2"
+  }
+}

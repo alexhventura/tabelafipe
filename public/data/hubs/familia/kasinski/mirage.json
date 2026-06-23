@@ -1,0 +1,128 @@
+{
+  "tipo": "familia",
+  "slug": "mirage",
+  "canonicalPath": "/fipe/kasinski/mirage/",
+  "titulo": "KASINSKI mirage - Tabela FIPE",
+  "descricao": "11 versoes e anos do KASINSKI mirage na Tabela FIPE.",
+  "seo": {
+    "title": "KASINSKI mirage - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes KASINSKI mirage. 11 veiculos indexados.",
+    "h1": "KASINSKI mirage - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/kasinski/mirage/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "kasinski-mirage-150-2013-gasolina",
+      "fipeCodigo": "816026-0",
+      "displayName": "KASINSKI MIRAGE 150",
+      "valorAtual": 7050,
+      "canonicalPath": "/fipe/kasinski/mirage-150-2013-816026-0/",
+      "ano": 2013,
+      "marca": "KASINSKI"
+    },
+    {
+      "vehicleId": "kasinski-mirage-650-v2power-2013-gasolina",
+      "fipeCodigo": "816020-1",
+      "displayName": "KASINSKI MIRAGE 650 V2power",
+      "valorAtual": 20650,
+      "canonicalPath": "/fipe/kasinski/mirage-650-v2power-2013-816020-1/",
+      "ano": 2013,
+      "marca": "KASINSKI"
+    },
+    {
+      "vehicleId": "kasinski-mirage-150-2012-gasolina",
+      "fipeCodigo": "816026-0",
+      "displayName": "KASINSKI MIRAGE 150",
+      "valorAtual": 6878,
+      "canonicalPath": "/fipe/kasinski/mirage-150-2012-816026-0/",
+      "ano": 2012,
+      "marca": "KASINSKI"
+    },
+    {
+      "vehicleId": "kasinski-mirage-650-v2power-2012-gasolina",
+      "fipeCodigo": "816020-1",
+      "displayName": "KASINSKI MIRAGE 650 V2power",
+      "valorAtual": 20146,
+      "canonicalPath": "/fipe/kasinski/mirage-650-v2power-2012-816020-1/",
+      "ano": 2012,
+      "marca": "KASINSKI"
+    },
+    {
+      "vehicleId": "kasinski-mirage-150-2011-gasolina",
+      "fipeCodigo": "816026-0",
+      "displayName": "KASINSKI MIRAGE 150",
+      "valorAtual": 6094,
+      "canonicalPath": "/fipe/kasinski/mirage-150-2011-816026-0/",
+      "ano": 2011,
+      "marca": "KASINSKI"
+    },
+    {
+      "vehicleId": "kasinski-mirage-650-v2power-2011-gasolina",
+      "fipeCodigo": "816020-1",
+      "displayName": "KASINSKI MIRAGE 650 V2power",
+      "valorAtual": 19654,
+      "canonicalPath": "/fipe/kasinski/mirage-650-v2power-2011-816020-1/",
+      "ano": 2011,
+      "marca": "KASINSKI"
+    },
+    {
+      "vehicleId": "kasinski-mirage-150-2010-gasolina",
+      "fipeCodigo": "816026-0",
+      "displayName": "KASINSKI MIRAGE 150",
+      "valorAtual": 5945,
+      "canonicalPath": "/fipe/kasinski/mirage-150-2010-816026-0/",
+      "ano": 2010,
+      "marca": "KASINSKI"
+    },
+    {
+      "vehicleId": "kasinski-mirage-650-v2power-2010-gasolina",
+      "fipeCodigo": "816020-1",
+      "displayName": "KASINSKI MIRAGE 650 V2power",
+      "valorAtual": 19174,
+      "canonicalPath": "/fipe/kasinski/mirage-650-v2power-2010-816020-1/",
+      "ano": 2010,
+      "marca": "KASINSKI"
+    },
+    {
+      "vehicleId": "kasinski-mirage-650-v2power-2009-gasolina",
+      "fipeCodigo": "816020-1",
+      "displayName": "KASINSKI MIRAGE 650 V2power",
+      "valorAtual": 14540,
+      "canonicalPath": "/fipe/kasinski/mirage-650-v2power-2009-816020-1/",
+      "ano": 2009,
+      "marca": "KASINSKI"
+    },
+    {
+      "vehicleId": "kasinski-mirage-650-v2power-2008-gasolina",
+      "fipeCodigo": "816020-1",
+      "displayName": "KASINSKI MIRAGE 650 V2power",
+      "valorAtual": 13622,
+      "canonicalPath": "/fipe/kasinski/mirage-650-v2power-2008-816020-1/",
+      "ano": 2008,
+      "marca": "KASINSKI"
+    },
+    {
+      "vehicleId": "kasinski-mirage-650-v2power-2006-gasolina",
+      "fipeCodigo": "816020-1",
+      "displayName": "KASINSKI MIRAGE 650 V2power",
+      "valorAtual": 12618,
+      "canonicalPath": "/fipe/kasinski/mirage-650-v2power-2006-816020-1/",
+      "ano": 2006,
+      "marca": "KASINSKI"
+    }
+  ],
+  "stats": {
+    "total": 11,
+    "precoMin": 5945,
+    "precoMax": 20650,
+    "anos": [
+      2013,
+      2012,
+      2011,
+      2010,
+      2009,
+      2008,
+      2006
+    ]
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "tipo": "geracao",
+  "slug": "sportster-4",
+  "canonicalPath": "/geracao/harley-davidson/sportster-4/",
+  "titulo": "Geracao sportster-4",
+  "descricao": "4 veiculos da geracao sportster-4.",
+  "seo": {
+    "title": "Geracao sportster-4 - Precos FIPE",
+    "description": "Veiculos da geracao sportster-4 na Tabela FIPE.",
+    "h1": "Geracao sportster-4",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/harley-davidson/sportster-4/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "harley-davidson-sportster-s-2023-gasolina",
+      "fipeCodigo": "810107-8",
+      "displayName": "HARLEY-DAVIDSON SPORTSTER S",
+      "valorAtual": 97115,
+      "canonicalPath": "/fipe/harley-davidson/sportster-s-2023-810107-8/",
+      "ano": 2023,
+      "marca": "HARLEY-DAVIDSON"
+    },
+    {
+      "vehicleId": "harley-davidson-sportster-s-2024-gasolina",
+      "fipeCodigo": "810107-8",
+      "displayName": "HARLEY-DAVIDSON SPORTSTER S",
+      "valorAtual": 100635,
+      "canonicalPath": "/fipe/harley-davidson/sportster-s-2024-810107-8/",
+      "ano": 2024,
+      "marca": "HARLEY-DAVIDSON"
+    },
+    {
+      "vehicleId": "harley-davidson-sportster-s-2025-gasolina",
+      "fipeCodigo": "810107-8",
+      "displayName": "HARLEY-DAVIDSON SPORTSTER S",
+      "valorAtual": 118538,
+      "canonicalPath": "/fipe/harley-davidson/sportster-s-2025-810107-8/",
+      "ano": 2025,
+      "marca": "HARLEY-DAVIDSON"
+    },
+    {
+      "vehicleId": "harley-davidson-sportster-s-2026-gasolina",
+      "fipeCodigo": "810107-8",
+      "displayName": "HARLEY-DAVIDSON SPORTSTER S",
+      "valorAtual": 122931,
+      "canonicalPath": "/fipe/harley-davidson/sportster-s-2026-810107-8/",
+      "ano": 2026,
+      "marca": "HARLEY-DAVIDSON"
+    }
+  ],
+  "stats": {
+    "total": 4
+  },
+  "meta": {
+    "geracaoId": "sportster-4"
+  }
+}

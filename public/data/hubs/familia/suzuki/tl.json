@@ -1,0 +1,82 @@
+{
+  "tipo": "familia",
+  "slug": "tl",
+  "canonicalPath": "/fipe/suzuki/tl/",
+  "titulo": "SUZUKI tl - Tabela FIPE",
+  "descricao": "6 versoes e anos do SUZUKI tl na Tabela FIPE.",
+  "seo": {
+    "title": "SUZUKI tl - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes SUZUKI tl. 6 veiculos indexados.",
+    "h1": "SUZUKI tl - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/suzuki/tl/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "suzuki-tl-1000-s-2002-gasolina",
+      "fipeCodigo": "825027-8",
+      "displayName": "SUZUKI TL 1000 S",
+      "valorAtual": 24721,
+      "canonicalPath": "/fipe/suzuki/tl-1000-s-2002-825027-8/",
+      "ano": 2002,
+      "marca": "SUZUKI"
+    },
+    {
+      "vehicleId": "suzuki-tl-1000-s-2001-gasolina",
+      "fipeCodigo": "825027-8",
+      "displayName": "SUZUKI TL 1000 S",
+      "valorAtual": 24118,
+      "canonicalPath": "/fipe/suzuki/tl-1000-s-2001-825027-8/",
+      "ano": 2001,
+      "marca": "SUZUKI"
+    },
+    {
+      "vehicleId": "suzuki-tl-1000-s-2000-gasolina",
+      "fipeCodigo": "825027-8",
+      "displayName": "SUZUKI TL 1000 S",
+      "valorAtual": 19544,
+      "canonicalPath": "/fipe/suzuki/tl-1000-s-2000-825027-8/",
+      "ano": 2000,
+      "marca": "SUZUKI"
+    },
+    {
+      "vehicleId": "suzuki-tl-1000-s-1999-gasolina",
+      "fipeCodigo": "825027-8",
+      "displayName": "SUZUKI TL 1000 S",
+      "valorAtual": 19067,
+      "canonicalPath": "/fipe/suzuki/tl-1000-s-1999-825027-8/",
+      "ano": 1999,
+      "marca": "SUZUKI"
+    },
+    {
+      "vehicleId": "suzuki-tl-1000-s-1998-gasolina",
+      "fipeCodigo": "825027-8",
+      "displayName": "SUZUKI TL 1000 S",
+      "valorAtual": 18601,
+      "canonicalPath": "/fipe/suzuki/tl-1000-s-1998-825027-8/",
+      "ano": 1998,
+      "marca": "SUZUKI"
+    },
+    {
+      "vehicleId": "suzuki-tl-1000-s-1997-gasolina",
+      "fipeCodigo": "825027-8",
+      "displayName": "SUZUKI TL 1000 S",
+      "valorAtual": 14603,
+      "canonicalPath": "/fipe/suzuki/tl-1000-s-1997-825027-8/",
+      "ano": 1997,
+      "marca": "SUZUKI"
+    }
+  ],
+  "stats": {
+    "total": 6,
+    "precoMin": 14603,
+    "precoMax": 24721,
+    "anos": [
+      2002,
+      2001,
+      2000,
+      1999,
+      1998,
+      1997
+    ]
+  }
+}

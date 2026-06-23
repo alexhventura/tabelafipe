@@ -1,0 +1,97 @@
+{
+  "tipo": "familia",
+  "slug": "scarabeo",
+  "canonicalPath": "/fipe/aprilia/scarabeo/",
+  "titulo": "APRILIA scarabeo - Tabela FIPE",
+  "descricao": "8 versoes e anos do APRILIA scarabeo na Tabela FIPE.",
+  "seo": {
+    "title": "APRILIA scarabeo - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes APRILIA scarabeo. 8 veiculos indexados.",
+    "h1": "APRILIA scarabeo - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/aprilia/scarabeo/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "aprilia-scarabeo-classic-50cc-2000-gasolina",
+      "fipeCodigo": "802012-4",
+      "displayName": "APRILIA SCARABEO CLASSIC 50cc",
+      "valorAtual": 3037,
+      "canonicalPath": "/fipe/aprilia/scarabeo-classic-50cc-2000-802012-4/",
+      "ano": 2000,
+      "marca": "APRILIA"
+    },
+    {
+      "vehicleId": "aprilia-scarabeo-deluxe-50cc-2000-gasolina",
+      "fipeCodigo": "802013-2",
+      "displayName": "APRILIA SCARABEO DELUXE 50cc",
+      "valorAtual": 3633,
+      "canonicalPath": "/fipe/aprilia/scarabeo-deluxe-50cc-2000-802013-2/",
+      "ano": 2000,
+      "marca": "APRILIA"
+    },
+    {
+      "vehicleId": "aprilia-scarabeo-classic-50cc-1999-gasolina",
+      "fipeCodigo": "802012-4",
+      "displayName": "APRILIA SCARABEO CLASSIC 50cc",
+      "valorAtual": 2837,
+      "canonicalPath": "/fipe/aprilia/scarabeo-classic-50cc-1999-802012-4/",
+      "ano": 1999,
+      "marca": "APRILIA"
+    },
+    {
+      "vehicleId": "aprilia-scarabeo-brigth-50cc-1999-gasolina",
+      "fipeCodigo": "802011-6",
+      "displayName": "APRILIA SCARABEO BRIGTH 50cc",
+      "valorAtual": 2854,
+      "canonicalPath": "/fipe/aprilia/scarabeo-brigth-50cc-1999-802011-6/",
+      "ano": 1999,
+      "marca": "APRILIA"
+    },
+    {
+      "vehicleId": "aprilia-scarabeo-deluxe-50cc-1999-gasolina",
+      "fipeCodigo": "802013-2",
+      "displayName": "APRILIA SCARABEO DELUXE 50cc",
+      "valorAtual": 3418,
+      "canonicalPath": "/fipe/aprilia/scarabeo-deluxe-50cc-1999-802013-2/",
+      "ano": 1999,
+      "marca": "APRILIA"
+    },
+    {
+      "vehicleId": "aprilia-scarabeo-classic-50cc-1998-gasolina",
+      "fipeCodigo": "802012-4",
+      "displayName": "APRILIA SCARABEO CLASSIC 50cc",
+      "valorAtual": 2514,
+      "canonicalPath": "/fipe/aprilia/scarabeo-classic-50cc-1998-802012-4/",
+      "ano": 1998,
+      "marca": "APRILIA"
+    },
+    {
+      "vehicleId": "aprilia-scarabeo-brigth-50cc-1998-gasolina",
+      "fipeCodigo": "802011-6",
+      "displayName": "APRILIA SCARABEO BRIGTH 50cc",
+      "valorAtual": 2595,
+      "canonicalPath": "/fipe/aprilia/scarabeo-brigth-50cc-1998-802011-6/",
+      "ano": 1998,
+      "marca": "APRILIA"
+    },
+    {
+      "vehicleId": "aprilia-scarabeo-deluxe-50cc-1998-gasolina",
+      "fipeCodigo": "802013-2",
+      "displayName": "APRILIA SCARABEO DELUXE 50cc",
+      "valorAtual": 3030,
+      "canonicalPath": "/fipe/aprilia/scarabeo-deluxe-50cc-1998-802013-2/",
+      "ano": 1998,
+      "marca": "APRILIA"
+    }
+  ],
+  "stats": {
+    "total": 8,
+    "precoMin": 2514,
+    "precoMax": 3633,
+    "anos": [
+      2000,
+      1999,
+      1998
+    ]
+  }
+}

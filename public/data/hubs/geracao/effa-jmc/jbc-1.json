@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "jbc-1",
+  "canonicalPath": "/geracao/effa-jmc/jbc-1/",
+  "titulo": "Geracao jbc-1",
+  "descricao": "2 veiculos da geracao jbc-1.",
+  "seo": {
+    "title": "Geracao jbc-1 - Precos FIPE",
+    "description": "Veiculos da geracao jbc-1 na Tabela FIPE.",
+    "h1": "Geracao jbc-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/effa-jmc/jbc-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "effa-jmc-jbc-3-2-turbo-intercooler-2p-diesel-2011-diesel",
+      "fipeCodigo": "522003-3",
+      "displayName": "EFFA-JMC JBC 3.2 Turbo Intercooler 2p (diesel)",
+      "valorAtual": 27349,
+      "canonicalPath": "/fipe/effa-jmc/jbc-3-2-turbo-intercooler-2p-diesel-2011-522003-3/",
+      "ano": 2011,
+      "marca": "EFFA-JMC"
+    },
+    {
+      "vehicleId": "effa-jmc-jbc-3-2-turbo-intercooler-2p-diesel-2012-diesel",
+      "fipeCodigo": "522003-3",
+      "displayName": "EFFA-JMC JBC 3.2 Turbo Intercooler 2p (diesel)",
+      "valorAtual": 28033,
+      "canonicalPath": "/fipe/effa-jmc/jbc-3-2-turbo-intercooler-2p-diesel-2012-522003-3/",
+      "ano": 2012,
+      "marca": "EFFA-JMC"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "jbc-1"
+  }
+}

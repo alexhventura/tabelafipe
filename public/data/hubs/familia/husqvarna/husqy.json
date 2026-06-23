@@ -1,0 +1,60 @@
+{
+  "tipo": "familia",
+  "slug": "husqy",
+  "canonicalPath": "/fipe/husqvarna/husqy/",
+  "titulo": "HUSQVARNA husqy - Tabela FIPE",
+  "descricao": "4 versoes e anos do HUSQVARNA husqy na Tabela FIPE.",
+  "seo": {
+    "title": "HUSQVARNA husqy - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes HUSQVARNA husqy. 4 veiculos indexados.",
+    "h1": "HUSQVARNA husqy - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/husqvarna/husqy/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "husqvarna-husqy-boy-j-2002-gasolina",
+      "fipeCodigo": "812015-3",
+      "displayName": "HUSQVARNA HUSQY BOY J",
+      "valorAtual": 2657,
+      "canonicalPath": "/fipe/husqvarna/husqy-boy-j-2002-812015-3/",
+      "ano": 2002,
+      "marca": "HUSQVARNA"
+    },
+    {
+      "vehicleId": "husqvarna-husqy-boy-j-2001-gasolina",
+      "fipeCodigo": "812015-3",
+      "displayName": "HUSQVARNA HUSQY BOY J",
+      "valorAtual": 2450,
+      "canonicalPath": "/fipe/husqvarna/husqy-boy-j-2001-812015-3/",
+      "ano": 2001,
+      "marca": "HUSQVARNA"
+    },
+    {
+      "vehicleId": "husqvarna-husqy-boy-r-2001-gasolina",
+      "fipeCodigo": "812017-0",
+      "displayName": "HUSQVARNA HUSQY BOY R",
+      "valorAtual": 3048,
+      "canonicalPath": "/fipe/husqvarna/husqy-boy-r-2001-812017-0/",
+      "ano": 2001,
+      "marca": "HUSQVARNA"
+    },
+    {
+      "vehicleId": "husqvarna-husqy-boy-s-2001-gasolina",
+      "fipeCodigo": "812016-1",
+      "displayName": "HUSQVARNA HUSQY BOY S",
+      "valorAtual": 3052,
+      "canonicalPath": "/fipe/husqvarna/husqy-boy-s-2001-812016-1/",
+      "ano": 2001,
+      "marca": "HUSQVARNA"
+    }
+  ],
+  "stats": {
+    "total": 4,
+    "precoMin": 2450,
+    "precoMax": 3052,
+    "anos": [
+      2002,
+      2001
+    ]
+  }
+}

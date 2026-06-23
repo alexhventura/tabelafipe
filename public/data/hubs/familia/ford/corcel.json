@@ -1,0 +1,60 @@
+{
+  "tipo": "familia",
+  "slug": "corcel",
+  "canonicalPath": "/fipe/ford/corcel/",
+  "titulo": "Ford corcel - Tabela FIPE",
+  "descricao": "4 versoes e anos do Ford corcel na Tabela FIPE.",
+  "seo": {
+    "title": "Ford corcel - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes Ford corcel. 4 veiculos indexados.",
+    "h1": "Ford corcel - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/ford/corcel/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "ford-corcel-ii-gl-gt-1986-gasolina",
+      "fipeCodigo": "003129-1",
+      "displayName": "Ford Corcel II GL/GT",
+      "valorAtual": 3531,
+      "canonicalPath": "/fipe/ford/corcel-ii-gl-gt-1986-003129-1/",
+      "ano": 1986,
+      "marca": "Ford"
+    },
+    {
+      "vehicleId": "ford-corcel-ii-l-1986-gasolina",
+      "fipeCodigo": "003128-3",
+      "displayName": "Ford Corcel II L",
+      "valorAtual": 4689,
+      "canonicalPath": "/fipe/ford/corcel-ii-l-1986-003128-3/",
+      "ano": 1986,
+      "marca": "Ford"
+    },
+    {
+      "vehicleId": "ford-corcel-ii-gl-gt-1985-gasolina",
+      "fipeCodigo": "003129-1",
+      "displayName": "Ford Corcel II GL/GT",
+      "valorAtual": 3440,
+      "canonicalPath": "/fipe/ford/corcel-ii-gl-gt-1985-003129-1/",
+      "ano": 1985,
+      "marca": "Ford"
+    },
+    {
+      "vehicleId": "ford-corcel-ii-l-1985-gasolina",
+      "fipeCodigo": "003128-3",
+      "displayName": "Ford Corcel II L",
+      "valorAtual": 3910,
+      "canonicalPath": "/fipe/ford/corcel-ii-l-1985-003128-3/",
+      "ano": 1985,
+      "marca": "Ford"
+    }
+  ],
+  "stats": {
+    "total": 4,
+    "precoMin": 3440,
+    "precoMax": 4689,
+    "anos": [
+      1986,
+      1985
+    ]
+  }
+}

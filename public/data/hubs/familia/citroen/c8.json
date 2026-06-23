@@ -1,0 +1,52 @@
+{
+  "tipo": "familia",
+  "slug": "c8",
+  "canonicalPath": "/fipe/citroen/c8/",
+  "titulo": "Citroën c8 - Tabela FIPE",
+  "descricao": "3 versoes e anos do Citroën c8 na Tabela FIPE.",
+  "seo": {
+    "title": "Citroën c8 - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes Citroën c8. 3 veiculos indexados.",
+    "h1": "Citroën c8 - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/citroen/c8/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "citroen-c8-exclusive-2-0-16v-138cv-5p-aut-2005-gasolina",
+      "fipeCodigo": "011073-6",
+      "displayName": "Citroën C8 Exclusive 2.0 16V 138cv 5p Aut.",
+      "valorAtual": 21647,
+      "canonicalPath": "/fipe/citroen/c8-exclusive-2-0-16v-138cv-5p-aut-2005-011073-6/",
+      "ano": 2005,
+      "marca": "Citroën"
+    },
+    {
+      "vehicleId": "citroen-c8-exclusive-2-0-16v-138cv-5p-aut-2004-gasolina",
+      "fipeCodigo": "011073-6",
+      "displayName": "Citroën C8 Exclusive 2.0 16V 138cv 5p Aut.",
+      "valorAtual": 20409,
+      "canonicalPath": "/fipe/citroen/c8-exclusive-2-0-16v-138cv-5p-aut-2004-011073-6/",
+      "ano": 2004,
+      "marca": "Citroën"
+    },
+    {
+      "vehicleId": "citroen-c8-exclusive-2-0-16v-138cv-5p-aut-2003-gasolina",
+      "fipeCodigo": "011073-6",
+      "displayName": "Citroën C8 Exclusive 2.0 16V 138cv 5p Aut.",
+      "valorAtual": 16156,
+      "canonicalPath": "/fipe/citroen/c8-exclusive-2-0-16v-138cv-5p-aut-2003-011073-6/",
+      "ano": 2003,
+      "marca": "Citroën"
+    }
+  ],
+  "stats": {
+    "total": 3,
+    "precoMin": 16156,
+    "precoMax": 21647,
+    "anos": [
+      2005,
+      2004,
+      2003
+    ]
+  }
+}

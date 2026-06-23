@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "n900-1",
+  "canonicalPath": "/geracao/effa-jmc/n900-1/",
+  "titulo": "Geracao n900-1",
+  "descricao": "2 veiculos da geracao n900-1.",
+  "seo": {
+    "title": "Geracao n900-1 - Precos FIPE",
+    "description": "Veiculos da geracao n900-1 na Tabela FIPE.",
+    "h1": "Geracao n900-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/effa-jmc/n900-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "effa-jmc-n900-2-8-2p-diesel-2011-diesel",
+      "fipeCodigo": "522002-5",
+      "displayName": "EFFA-JMC N900 2.8 2p (diesel)",
+      "valorAtual": 33364,
+      "canonicalPath": "/fipe/effa-jmc/n900-2-8-2p-diesel-2011-522002-5/",
+      "ano": 2011,
+      "marca": "EFFA-JMC"
+    },
+    {
+      "vehicleId": "effa-jmc-n900-2-8-2p-diesel-2012-diesel",
+      "fipeCodigo": "522002-5",
+      "displayName": "EFFA-JMC N900 2.8 2p (diesel)",
+      "valorAtual": 36576,
+      "canonicalPath": "/fipe/effa-jmc/n900-2-8-2p-diesel-2012-522002-5/",
+      "ano": 2012,
+      "marca": "EFFA-JMC"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "n900-1"
+  }
+}

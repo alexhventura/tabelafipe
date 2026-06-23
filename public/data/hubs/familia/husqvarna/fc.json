@@ -1,0 +1,42 @@
+{
+  "tipo": "familia",
+  "slug": "fc",
+  "canonicalPath": "/fipe/husqvarna/fc/",
+  "titulo": "HUSQVARNA fc - Tabela FIPE",
+  "descricao": "2 versoes e anos do HUSQVARNA fc na Tabela FIPE.",
+  "seo": {
+    "title": "HUSQVARNA fc - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes HUSQVARNA fc. 2 veiculos indexados.",
+    "h1": "HUSQVARNA fc - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/husqvarna/fc/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "husqvarna-fc-350-2024-gasolina",
+      "fipeCodigo": "812032-3",
+      "displayName": "HUSQVARNA FC 350",
+      "valorAtual": 63290,
+      "canonicalPath": "/fipe/husqvarna/fc-350-2024-812032-3/",
+      "ano": 2024,
+      "marca": "HUSQVARNA"
+    },
+    {
+      "vehicleId": "husqvarna-fc-350-0-gasolina",
+      "fipeCodigo": "812032-3",
+      "displayName": "HUSQVARNA FC 350",
+      "valorAtual": 78995,
+      "canonicalPath": "/fipe/husqvarna/fc-350-0-812032-3/",
+      "ano": 0,
+      "marca": "HUSQVARNA"
+    }
+  ],
+  "stats": {
+    "total": 2,
+    "precoMin": 63290,
+    "precoMax": 78995,
+    "anos": [
+      2024,
+      0
+    ]
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "tipo": "geracao",
+  "slug": "218i-1",
+  "canonicalPath": "/geracao/bmw/218i-1/",
+  "titulo": "Geracao 218i-1",
+  "descricao": "6 veiculos da geracao 218i-1.",
+  "seo": {
+    "title": "Geracao 218i-1 - Precos FIPE",
+    "description": "Veiculos da geracao 218i-1 na Tabela FIPE.",
+    "h1": "Geracao 218i-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/bmw/218i-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "bmw-218i-gran-coupe-m-sport-1-5-bi-turbo-2024-gasolina",
+      "fipeCodigo": "009321-1",
+      "displayName": "BMW 218i Gran Coupe M Sport 1.5 Bi-Turbo",
+      "valorAtual": 213381,
+      "canonicalPath": "/fipe/bmw/218i-gran-coupe-m-sport-1-5-bi-turbo-2024-009321-1/",
+      "ano": 2024,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-218i-gran-coupe-sport-gp-1-5-bi-turbo-2020-gasolina",
+      "fipeCodigo": "009264-9",
+      "displayName": "BMW 218i Gran Coupe Sport GP 1.5 Bi-Turbo",
+      "valorAtual": 146648,
+      "canonicalPath": "/fipe/bmw/218i-gran-coupe-sport-gp-1-5-bi-turbo-2020-009264-9/",
+      "ano": 2020,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-218i-gran-coupe-sport-gp-1-5-bi-turbo-2021-gasolina",
+      "fipeCodigo": "009264-9",
+      "displayName": "BMW 218i Gran Coupe Sport GP 1.5 Bi-Turbo",
+      "valorAtual": 170876,
+      "canonicalPath": "/fipe/bmw/218i-gran-coupe-sport-gp-1-5-bi-turbo-2021-009264-9/",
+      "ano": 2021,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-218i-gran-coupe-sport-gp-1-5-bi-turbo-2022-gasolina",
+      "fipeCodigo": "009264-9",
+      "displayName": "BMW 218i Gran Coupe Sport GP 1.5 Bi-Turbo",
+      "valorAtual": 175148,
+      "canonicalPath": "/fipe/bmw/218i-gran-coupe-sport-gp-1-5-bi-turbo-2022-009264-9/",
+      "ano": 2022,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-218i-gran-coupe-sport-gp-1-5-bi-turbo-2023-gasolina",
+      "fipeCodigo": "009264-9",
+      "displayName": "BMW 218i Gran Coupe Sport GP 1.5 Bi-Turbo",
+      "valorAtual": 183624,
+      "canonicalPath": "/fipe/bmw/218i-gran-coupe-sport-gp-1-5-bi-turbo-2023-009264-9/",
+      "ano": 2023,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-218i-gran-coupe-sport-gp-1-5-bi-turbo-2024-gasolina",
+      "fipeCodigo": "009264-9",
+      "displayName": "BMW 218i Gran Coupe Sport GP 1.5 Bi-Turbo",
+      "valorAtual": 220196,
+      "canonicalPath": "/fipe/bmw/218i-gran-coupe-sport-gp-1-5-bi-turbo-2024-009264-9/",
+      "ano": 2024,
+      "marca": "BMW"
+    }
+  ],
+  "stats": {
+    "total": 6
+  },
+  "meta": {
+    "geracaoId": "218i-1"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "bravo-1",
+  "canonicalPath": "/geracao/fiat/bravo-1/",
+  "titulo": "Geracao bravo-1",
+  "descricao": "2 veiculos da geracao bravo-1.",
+  "seo": {
+    "title": "Geracao bravo-1 - Precos FIPE",
+    "description": "Veiculos da geracao bravo-1 na Tabela FIPE.",
+    "h1": "Geracao bravo-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/fiat/bravo-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "fiat-bravo-sx-1-6-1998-gasolina",
+      "fipeCodigo": "001127-4",
+      "displayName": "Fiat Bravo SX 1.6",
+      "valorAtual": 7048,
+      "canonicalPath": "/fipe/fiat/bravo-sx-1-6-1998-001127-4/",
+      "ano": 1998,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-bravo-sx-1-6-1999-gasolina",
+      "fipeCodigo": "001127-4",
+      "displayName": "Fiat Bravo SX 1.6",
+      "valorAtual": 7248,
+      "canonicalPath": "/fipe/fiat/bravo-sx-1-6-1999-001127-4/",
+      "ano": 1999,
+      "marca": "Fiat"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "bravo-1"
+  }
+}

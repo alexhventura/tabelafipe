@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "sq5-1",
+  "canonicalPath": "/geracao/audi/sq5-1/",
+  "titulo": "Geracao sq5-1",
+  "descricao": "2 veiculos da geracao sq5-1.",
+  "seo": {
+    "title": "Geracao sq5-1 - Precos FIPE",
+    "description": "Veiculos da geracao sq5-1 na Tabela FIPE.",
+    "h1": "Geracao sq5-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/audi/sq5-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "audi-sq5-3-0-tfsi-quattro-s-tronic-0-gasolina",
+      "fipeCodigo": "008322-4",
+      "displayName": "Audi SQ5 3.0 TFSI Quattro S-tronic",
+      "valorAtual": 651766,
+      "canonicalPath": "/fipe/audi/sq5-3-0-tfsi-quattro-s-tronic-0-008322-4/",
+      "ano": 0,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-sq5-sportback-3-0-tfsi-quattro-s-tronic-0-gasolina",
+      "fipeCodigo": "008323-2",
+      "displayName": "Audi SQ5 Sportback 3.0 TFSI Quattro S-tronic",
+      "valorAtual": 665238,
+      "canonicalPath": "/fipe/audi/sq5-sportback-3-0-tfsi-quattro-s-tronic-0-008323-2/",
+      "ano": 0,
+      "marca": "Audi"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "sq5-1"
+  }
+}

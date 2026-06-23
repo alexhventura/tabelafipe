@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "fz6-1",
+  "canonicalPath": "/geracao/yamaha/fz6-1/",
+  "titulo": "Geracao fz6-1",
+  "descricao": "2 veiculos da geracao fz6-1.",
+  "seo": {
+    "title": "Geracao fz6-1 - Precos FIPE",
+    "description": "Veiculos da geracao fz6-1 na Tabela FIPE.",
+    "h1": "Geracao fz6-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/yamaha/fz6-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "yamaha-fz6-n-2008-gasolina",
+      "fipeCodigo": "827067-8",
+      "displayName": "YAMAHA FZ6 N",
+      "valorAtual": 27218,
+      "canonicalPath": "/fipe/yamaha/fz6-n-2008-827067-8/",
+      "ano": 2008,
+      "marca": "YAMAHA"
+    },
+    {
+      "vehicleId": "yamaha-fz6-n-2009-gasolina",
+      "fipeCodigo": "827067-8",
+      "displayName": "YAMAHA FZ6 N",
+      "valorAtual": 28884,
+      "canonicalPath": "/fipe/yamaha/fz6-n-2009-827067-8/",
+      "ano": 2009,
+      "marca": "YAMAHA"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "fz6-1"
+  }
+}

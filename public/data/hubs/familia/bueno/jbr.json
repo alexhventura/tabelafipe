@@ -1,0 +1,88 @@
+{
+  "tipo": "familia",
+  "slug": "jbr",
+  "canonicalPath": "/fipe/bueno/jbr/",
+  "titulo": "BUENO jbr - Tabela FIPE",
+  "descricao": "7 versoes e anos do BUENO jbr na Tabela FIPE.",
+  "seo": {
+    "title": "BUENO jbr - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes BUENO jbr. 7 veiculos indexados.",
+    "h1": "BUENO jbr - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/bueno/jbr/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "bueno-jbr-125e-2012-gasolina",
+      "fipeCodigo": "866001-8",
+      "displayName": "BUENO JBr 125e",
+      "valorAtual": 2372,
+      "canonicalPath": "/fipe/bueno/jbr-125e-2012-866001-8/",
+      "ano": 2012,
+      "marca": "BUENO"
+    },
+    {
+      "vehicleId": "bueno-jbr-125e-2011-gasolina",
+      "fipeCodigo": "866001-8",
+      "displayName": "BUENO JBr 125e",
+      "valorAtual": 2167,
+      "canonicalPath": "/fipe/bueno/jbr-125e-2011-866001-8/",
+      "ano": 2011,
+      "marca": "BUENO"
+    },
+    {
+      "vehicleId": "bueno-jbr-150e-2011-gasolina",
+      "fipeCodigo": "866002-6",
+      "displayName": "BUENO JBr 150e",
+      "valorAtual": 2540,
+      "canonicalPath": "/fipe/bueno/jbr-150e-2011-866002-6/",
+      "ano": 2011,
+      "marca": "BUENO"
+    },
+    {
+      "vehicleId": "bueno-jbr-250e-2011-gasolina",
+      "fipeCodigo": "866003-4",
+      "displayName": "BUENO JBr 250e",
+      "valorAtual": 5863,
+      "canonicalPath": "/fipe/bueno/jbr-250e-2011-866003-4/",
+      "ano": 2011,
+      "marca": "BUENO"
+    },
+    {
+      "vehicleId": "bueno-jbr-125e-2009-gasolina",
+      "fipeCodigo": "866001-8",
+      "displayName": "BUENO JBr 125e",
+      "valorAtual": 2047,
+      "canonicalPath": "/fipe/bueno/jbr-125e-2009-866001-8/",
+      "ano": 2009,
+      "marca": "BUENO"
+    },
+    {
+      "vehicleId": "bueno-jbr-150e-2009-gasolina",
+      "fipeCodigo": "866002-6",
+      "displayName": "BUENO JBr 150e",
+      "valorAtual": 2096,
+      "canonicalPath": "/fipe/bueno/jbr-150e-2009-866002-6/",
+      "ano": 2009,
+      "marca": "BUENO"
+    },
+    {
+      "vehicleId": "bueno-jbr-250e-2009-gasolina",
+      "fipeCodigo": "866003-4",
+      "displayName": "BUENO JBr 250e",
+      "valorAtual": 5711,
+      "canonicalPath": "/fipe/bueno/jbr-250e-2009-866003-4/",
+      "ano": 2009,
+      "marca": "BUENO"
+    }
+  ],
+  "stats": {
+    "total": 7,
+    "precoMin": 2047,
+    "precoMax": 5863,
+    "anos": [
+      2012,
+      2011,
+      2009
+    ]
+  }
+}

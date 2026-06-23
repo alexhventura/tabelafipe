@@ -1,0 +1,48 @@
+{
+  "tipo": "geracao",
+  "slug": "terios-1",
+  "canonicalPath": "/geracao/daihatsu/terios-1/",
+  "titulo": "Geracao terios-1",
+  "descricao": "3 veiculos da geracao terios-1.",
+  "seo": {
+    "title": "Geracao terios-1 - Precos FIPE",
+    "description": "Veiculos da geracao terios-1 na Tabela FIPE.",
+    "h1": "Geracao terios-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/daihatsu/terios-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "daihatsu-terios-1-3-16v-1997-gasolina",
+      "fipeCodigo": "012008-1",
+      "displayName": "Daihatsu Terios 1.3 16V",
+      "valorAtual": 18245,
+      "canonicalPath": "/fipe/daihatsu/terios-1-3-16v-1997-012008-1/",
+      "ano": 1997,
+      "marca": "Daihatsu"
+    },
+    {
+      "vehicleId": "daihatsu-terios-1-3-16v-1998-gasolina",
+      "fipeCodigo": "012008-1",
+      "displayName": "Daihatsu Terios 1.3 16V",
+      "valorAtual": 23995,
+      "canonicalPath": "/fipe/daihatsu/terios-1-3-16v-1998-012008-1/",
+      "ano": 1998,
+      "marca": "Daihatsu"
+    },
+    {
+      "vehicleId": "daihatsu-terios-1-3-16v-1999-gasolina",
+      "fipeCodigo": "012008-1",
+      "displayName": "Daihatsu Terios 1.3 16V",
+      "valorAtual": 25348,
+      "canonicalPath": "/fipe/daihatsu/terios-1-3-16v-1999-012008-1/",
+      "ano": 1999,
+      "marca": "Daihatsu"
+    }
+  ],
+  "stats": {
+    "total": 3
+  },
+  "meta": {
+    "geracaoId": "terios-1"
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "tipo": "geracao",
+  "slug": "hyptec-2",
+  "canonicalPath": "/geracao/gac/hyptec-2/",
+  "titulo": "Geracao hyptec-2",
+  "descricao": "5 veiculos da geracao hyptec-2.",
+  "seo": {
+    "title": "Geracao hyptec-2 - Precos FIPE",
+    "description": "Veiculos da geracao hyptec-2 na Tabela FIPE.",
+    "h1": "Geracao hyptec-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/gac/hyptec-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "gac-hyptec-ht-elite-eletrico-2025-eletrico",
+      "fipeCodigo": "304004-6",
+      "displayName": "GAC HYPTEC HT Elite (Elétrico)",
+      "valorAtual": 237766,
+      "canonicalPath": "/fipe/gac/hyptec-ht-elite-eletrico-2025-304004-6/",
+      "ano": 2025,
+      "marca": "GAC"
+    },
+    {
+      "vehicleId": "gac-hyptec-ht-elite-eletrico-2026-eletrico",
+      "fipeCodigo": "304004-6",
+      "displayName": "GAC HYPTEC HT Elite (Elétrico)",
+      "valorAtual": 260365,
+      "canonicalPath": "/fipe/gac/hyptec-ht-elite-eletrico-2026-304004-6/",
+      "ano": 2026,
+      "marca": "GAC"
+    },
+    {
+      "vehicleId": "gac-hyptec-ht-elite-eletrico-2027-eletrico",
+      "fipeCodigo": "304004-6",
+      "displayName": "GAC HYPTEC HT Elite (Elétrico)",
+      "valorAtual": 275209,
+      "canonicalPath": "/fipe/gac/hyptec-ht-elite-eletrico-2027-304004-6/",
+      "ano": 2027,
+      "marca": "GAC"
+    },
+    {
+      "vehicleId": "gac-hyptec-ht-ultra-eletrico-2026-eletrico",
+      "fipeCodigo": "304005-4",
+      "displayName": "GAC HYPTEC HT Ultra (Elétrico)",
+      "valorAtual": 308750,
+      "canonicalPath": "/fipe/gac/hyptec-ht-ultra-eletrico-2026-304005-4/",
+      "ano": 2026,
+      "marca": "GAC"
+    },
+    {
+      "vehicleId": "gac-hyptec-ht-ultra-eletrico-2027-eletrico",
+      "fipeCodigo": "304005-4",
+      "displayName": "GAC HYPTEC HT Ultra (Elétrico)",
+      "valorAtual": 325708,
+      "canonicalPath": "/fipe/gac/hyptec-ht-ultra-eletrico-2027-304005-4/",
+      "ano": 2027,
+      "marca": "GAC"
+    }
+  ],
+  "stats": {
+    "total": 5
+  },
+  "meta": {
+    "geracaoId": "hyptec-2"
+  }
+}

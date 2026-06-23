@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "701-1",
+  "canonicalPath": "/geracao/husqvarna/701-1/",
+  "titulo": "Geracao 701-1",
+  "descricao": "2 veiculos da geracao 701-1.",
+  "seo": {
+    "title": "Geracao 701-1 - Precos FIPE",
+    "description": "Veiculos da geracao 701-1 na Tabela FIPE.",
+    "h1": "Geracao 701-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/husqvarna/701-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "husqvarna-701-enduro-0-gasolina",
+      "fipeCodigo": "812022-6",
+      "displayName": "HUSQVARNA 701 ENDURO",
+      "valorAtual": 110000,
+      "canonicalPath": "/fipe/husqvarna/701-enduro-0-812022-6/",
+      "ano": 0,
+      "marca": "HUSQVARNA"
+    },
+    {
+      "vehicleId": "husqvarna-701-supermoto-0-gasolina",
+      "fipeCodigo": "812021-8",
+      "displayName": "HUSQVARNA 701 SUPERMOTO",
+      "valorAtual": 107500,
+      "canonicalPath": "/fipe/husqvarna/701-supermoto-0-812021-8/",
+      "ano": 0,
+      "marca": "HUSQVARNA"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "701-1"
+  }
+}

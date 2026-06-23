@@ -1,0 +1,84 @@
+{
+  "tipo": "geracao",
+  "slug": "j6-1",
+  "canonicalPath": "/geracao/jac/j6-1/",
+  "titulo": "Geracao j6-1",
+  "descricao": "7 veiculos da geracao j6-1.",
+  "seo": {
+    "title": "Geracao j6-1 - Precos FIPE",
+    "description": "Veiculos da geracao j6-1 na Tabela FIPE.",
+    "h1": "Geracao j6-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/jac/j6-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "jac-j6-2-0-16v-5p-mec-2010-gasolina",
+      "fipeCodigo": "080003-1",
+      "displayName": "JAC J6 2.0 16V 5p Mec.",
+      "valorAtual": 17365,
+      "canonicalPath": "/fipe/jac/j6-2-0-16v-5p-mec-2010-080003-1/",
+      "ano": 2010,
+      "marca": "JAC"
+    },
+    {
+      "vehicleId": "jac-j6-2-0-16v-5p-mec-2011-gasolina",
+      "fipeCodigo": "080003-1",
+      "displayName": "JAC J6 2.0 16V 5p Mec.",
+      "valorAtual": 20134,
+      "canonicalPath": "/fipe/jac/j6-2-0-16v-5p-mec-2011-080003-1/",
+      "ano": 2011,
+      "marca": "JAC"
+    },
+    {
+      "vehicleId": "jac-j6-2-0-16v-5p-mec-2012-gasolina",
+      "fipeCodigo": "080003-1",
+      "displayName": "JAC J6 2.0 16V 5p Mec.",
+      "valorAtual": 21769,
+      "canonicalPath": "/fipe/jac/j6-2-0-16v-5p-mec-2012-080003-1/",
+      "ano": 2012,
+      "marca": "JAC"
+    },
+    {
+      "vehicleId": "jac-j6-2-0-16v-5p-mec-2013-gasolina",
+      "fipeCodigo": "080003-1",
+      "displayName": "JAC J6 2.0 16V 5p Mec.",
+      "valorAtual": 22314,
+      "canonicalPath": "/fipe/jac/j6-2-0-16v-5p-mec-2013-080003-1/",
+      "ano": 2013,
+      "marca": "JAC"
+    },
+    {
+      "vehicleId": "jac-j6-2-0-16v-5p-mec-2014-gasolina",
+      "fipeCodigo": "080003-1",
+      "displayName": "JAC J6 2.0 16V 5p Mec.",
+      "valorAtual": 27645,
+      "canonicalPath": "/fipe/jac/j6-2-0-16v-5p-mec-2014-080003-1/",
+      "ano": 2014,
+      "marca": "JAC"
+    },
+    {
+      "vehicleId": "jac-j6-2-0-jet-flex-5p-mec-2015-flex",
+      "fipeCodigo": "080014-7",
+      "displayName": "JAC J6 2.0 JET Flex 5p Mec.",
+      "valorAtual": 33843,
+      "canonicalPath": "/fipe/jac/j6-2-0-jet-flex-5p-mec-2015-080014-7/",
+      "ano": 2015,
+      "marca": "JAC"
+    },
+    {
+      "vehicleId": "jac-j6-2-0-jet-flex-5p-mec-2016-flex",
+      "fipeCodigo": "080014-7",
+      "displayName": "JAC J6 2.0 JET Flex 5p Mec.",
+      "valorAtual": 46137,
+      "canonicalPath": "/fipe/jac/j6-2-0-jet-flex-5p-mec-2016-080014-7/",
+      "ano": 2016,
+      "marca": "JAC"
+    }
+  ],
+  "stats": {
+    "total": 7
+  },
+  "meta": {
+    "geracaoId": "j6-1"
+  }
+}

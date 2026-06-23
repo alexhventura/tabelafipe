@@ -1,0 +1,75 @@
+{
+  "tipo": "geracao",
+  "slug": "ak-2",
+  "canonicalPath": "/geracao/kymco/ak-2/",
+  "titulo": "Geracao ak-2",
+  "descricao": "6 veiculos da geracao ak-2.",
+  "seo": {
+    "title": "Geracao ak-2 - Precos FIPE",
+    "description": "Veiculos da geracao ak-2 na Tabela FIPE.",
+    "h1": "Geracao ak-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/kymco/ak-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "kymco-ak-550i-abs-2020-gasolina",
+      "fipeCodigo": "832032-2",
+      "displayName": "KYMCO AK 550i ABS",
+      "valorAtual": 45102,
+      "canonicalPath": "/fipe/kymco/ak-550i-abs-2020-832032-2/",
+      "ano": 2020,
+      "marca": "KYMCO"
+    },
+    {
+      "vehicleId": "kymco-ak-550i-abs-2021-gasolina",
+      "fipeCodigo": "832032-2",
+      "displayName": "KYMCO AK 550i ABS",
+      "valorAtual": 47430,
+      "canonicalPath": "/fipe/kymco/ak-550i-abs-2021-832032-2/",
+      "ano": 2021,
+      "marca": "KYMCO"
+    },
+    {
+      "vehicleId": "kymco-ak-550i-abs-2022-gasolina",
+      "fipeCodigo": "832032-2",
+      "displayName": "KYMCO AK 550i ABS",
+      "valorAtual": 55504,
+      "canonicalPath": "/fipe/kymco/ak-550i-abs-2022-832032-2/",
+      "ano": 2022,
+      "marca": "KYMCO"
+    },
+    {
+      "vehicleId": "kymco-ak-550i-abs-2023-gasolina",
+      "fipeCodigo": "832032-2",
+      "displayName": "KYMCO AK 550i ABS",
+      "valorAtual": 56981,
+      "canonicalPath": "/fipe/kymco/ak-550i-abs-2023-832032-2/",
+      "ano": 2023,
+      "marca": "KYMCO"
+    },
+    {
+      "vehicleId": "kymco-ak-550i-abs-2024-gasolina",
+      "fipeCodigo": "832032-2",
+      "displayName": "KYMCO AK 550i ABS",
+      "valorAtual": 60704,
+      "canonicalPath": "/fipe/kymco/ak-550i-abs-2024-832032-2/",
+      "ano": 2024,
+      "marca": "KYMCO"
+    },
+    {
+      "vehicleId": "kymco-ak-550i-premium-2025-gasolina",
+      "fipeCodigo": "832033-0",
+      "displayName": "KYMCO AK 550i PREMIUM",
+      "valorAtual": 66842,
+      "canonicalPath": "/fipe/kymco/ak-550i-premium-2025-832033-0/",
+      "ano": 2025,
+      "marca": "KYMCO"
+    }
+  ],
+  "stats": {
+    "total": 6
+  },
+  "meta": {
+    "geracaoId": "ak-2"
+  }
+}

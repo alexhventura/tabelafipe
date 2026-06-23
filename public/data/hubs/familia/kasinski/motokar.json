@@ -1,0 +1,79 @@
+{
+  "tipo": "familia",
+  "slug": "motokar",
+  "canonicalPath": "/fipe/kasinski/motokar/",
+  "titulo": "KASINSKI motokar - Tabela FIPE",
+  "descricao": "6 versoes e anos do KASINSKI motokar na Tabela FIPE.",
+  "seo": {
+    "title": "KASINSKI motokar - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes KASINSKI motokar. 6 veiculos indexados.",
+    "h1": "KASINSKI motokar - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/kasinski/motokar/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "kasinski-motokar-furgao-pick-up-174cc-1-pessoa-2004-gasolina",
+      "fipeCodigo": "816011-2",
+      "displayName": "KASINSKI MOTOKAR FURGÃO/ PICK-UP 174cc (1 pessoa)",
+      "valorAtual": 4669,
+      "canonicalPath": "/fipe/kasinski/motokar-furgao-pick-up-174cc-1-pessoa-2004-816011-2/",
+      "ano": 2004,
+      "marca": "KASINSKI"
+    },
+    {
+      "vehicleId": "kasinski-motokar-taxi-kar-174cc-4-pessoas-2004-gasolina",
+      "fipeCodigo": "816012-0",
+      "displayName": "KASINSKI MOTOKAR TAXI-KAR 174cc (4 pessoas)",
+      "valorAtual": 5084,
+      "canonicalPath": "/fipe/kasinski/motokar-taxi-kar-174cc-4-pessoas-2004-816012-0/",
+      "ano": 2004,
+      "marca": "KASINSKI"
+    },
+    {
+      "vehicleId": "kasinski-motokar-furgao-pick-up-174cc-1-pessoa-2003-gasolina",
+      "fipeCodigo": "816011-2",
+      "displayName": "KASINSKI MOTOKAR FURGÃO/ PICK-UP 174cc (1 pessoa)",
+      "valorAtual": 4051,
+      "canonicalPath": "/fipe/kasinski/motokar-furgao-pick-up-174cc-1-pessoa-2003-816011-2/",
+      "ano": 2003,
+      "marca": "KASINSKI"
+    },
+    {
+      "vehicleId": "kasinski-motokar-taxi-kar-174cc-4-pessoas-2003-gasolina",
+      "fipeCodigo": "816012-0",
+      "displayName": "KASINSKI MOTOKAR TAXI-KAR 174cc (4 pessoas)",
+      "valorAtual": 4695,
+      "canonicalPath": "/fipe/kasinski/motokar-taxi-kar-174cc-4-pessoas-2003-816012-0/",
+      "ano": 2003,
+      "marca": "KASINSKI"
+    },
+    {
+      "vehicleId": "kasinski-motokar-furgao-pick-up-174cc-1-pessoa-2002-gasolina",
+      "fipeCodigo": "816011-2",
+      "displayName": "KASINSKI MOTOKAR FURGÃO/ PICK-UP 174cc (1 pessoa)",
+      "valorAtual": 3863,
+      "canonicalPath": "/fipe/kasinski/motokar-furgao-pick-up-174cc-1-pessoa-2002-816011-2/",
+      "ano": 2002,
+      "marca": "KASINSKI"
+    },
+    {
+      "vehicleId": "kasinski-motokar-taxi-kar-174cc-4-pessoas-2002-gasolina",
+      "fipeCodigo": "816012-0",
+      "displayName": "KASINSKI MOTOKAR TAXI-KAR 174cc (4 pessoas)",
+      "valorAtual": 4158,
+      "canonicalPath": "/fipe/kasinski/motokar-taxi-kar-174cc-4-pessoas-2002-816012-0/",
+      "ano": 2002,
+      "marca": "KASINSKI"
+    }
+  ],
+  "stats": {
+    "total": 6,
+    "precoMin": 3863,
+    "precoMax": 5084,
+    "anos": [
+      2004,
+      2003,
+      2002
+    ]
+  }
+}

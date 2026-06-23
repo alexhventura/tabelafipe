@@ -1,0 +1,75 @@
+{
+  "tipo": "geracao",
+  "slug": "musso-1",
+  "canonicalPath": "/geracao/ssangyong/musso-1/",
+  "titulo": "Geracao musso-1",
+  "descricao": "6 veiculos da geracao musso-1.",
+  "seo": {
+    "title": "Geracao musso-1 - Precos FIPE",
+    "description": "Veiculos da geracao musso-1 na Tabela FIPE.",
+    "h1": "Geracao musso-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/ssangyong/musso-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "ssangyong-musso-dx-2-9-diesel-1995-diesel",
+      "fipeCodigo": "055001-9",
+      "displayName": "SSANGYONG Musso DX 2.9 Diesel",
+      "valorAtual": 11032,
+      "canonicalPath": "/fipe/ssangyong/musso-dx-2-9-diesel-1995-055001-9/",
+      "ano": 1995,
+      "marca": "SSANGYONG"
+    },
+    {
+      "vehicleId": "ssangyong-musso-dx-2-9-diesel-1996-diesel",
+      "fipeCodigo": "055001-9",
+      "displayName": "SSANGYONG Musso DX 2.9 Diesel",
+      "valorAtual": 12386,
+      "canonicalPath": "/fipe/ssangyong/musso-dx-2-9-diesel-1996-055001-9/",
+      "ano": 1996,
+      "marca": "SSANGYONG"
+    },
+    {
+      "vehicleId": "ssangyong-musso-dx-2-9-diesel-1997-diesel",
+      "fipeCodigo": "055001-9",
+      "displayName": "SSANGYONG Musso DX 2.9 Diesel",
+      "valorAtual": 12920,
+      "canonicalPath": "/fipe/ssangyong/musso-dx-2-9-diesel-1997-055001-9/",
+      "ano": 1997,
+      "marca": "SSANGYONG"
+    },
+    {
+      "vehicleId": "ssangyong-musso-sx-2-9-diesel-1995-diesel",
+      "fipeCodigo": "055002-7",
+      "displayName": "SSANGYONG Musso SX 2.9 Diesel",
+      "valorAtual": 14235,
+      "canonicalPath": "/fipe/ssangyong/musso-sx-2-9-diesel-1995-055002-7/",
+      "ano": 1995,
+      "marca": "SSANGYONG"
+    },
+    {
+      "vehicleId": "ssangyong-musso-sx-2-9-diesel-1996-diesel",
+      "fipeCodigo": "055002-7",
+      "displayName": "SSANGYONG Musso SX 2.9 Diesel",
+      "valorAtual": 16397,
+      "canonicalPath": "/fipe/ssangyong/musso-sx-2-9-diesel-1996-055002-7/",
+      "ano": 1996,
+      "marca": "SSANGYONG"
+    },
+    {
+      "vehicleId": "ssangyong-musso-sx-2-9-diesel-1997-diesel",
+      "fipeCodigo": "055002-7",
+      "displayName": "SSANGYONG Musso SX 2.9 Diesel",
+      "valorAtual": 20178,
+      "canonicalPath": "/fipe/ssangyong/musso-sx-2-9-diesel-1997-055002-7/",
+      "ano": 1997,
+      "marca": "SSANGYONG"
+    }
+  ],
+  "stats": {
+    "total": 6
+  },
+  "meta": {
+    "geracaoId": "musso-1"
+  }
+}

@@ -1,0 +1,129 @@
+{
+  "tipo": "familia",
+  "slug": "xmax",
+  "canonicalPath": "/fipe/yamaha/xmax/",
+  "titulo": "YAMAHA xmax - Tabela FIPE",
+  "descricao": "11 versoes e anos do YAMAHA xmax na Tabela FIPE.",
+  "seo": {
+    "title": "YAMAHA xmax - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes YAMAHA xmax. 11 veiculos indexados.",
+    "h1": "YAMAHA xmax - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/yamaha/xmax/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "yamaha-xmax-300-connected-2026-gasolina",
+      "fipeCodigo": "827142-9",
+      "displayName": "YAMAHA XMAX 300 CONNECTED",
+      "valorAtual": 37330,
+      "canonicalPath": "/fipe/yamaha/xmax-300-connected-2026-827142-9/",
+      "ano": 2026,
+      "marca": "YAMAHA"
+    },
+    {
+      "vehicleId": "yamaha-xmax-250-connected-2025-gasolina",
+      "fipeCodigo": "827132-1",
+      "displayName": "YAMAHA XMAX 250 CONNECTED",
+      "valorAtual": 33186,
+      "canonicalPath": "/fipe/yamaha/xmax-250-connected-2025-827132-1/",
+      "ano": 2025,
+      "marca": "YAMAHA"
+    },
+    {
+      "vehicleId": "yamaha-xmax-250-abs-2025-gasolina",
+      "fipeCodigo": "827113-5",
+      "displayName": "YAMAHA XMAX 250 ABS",
+      "valorAtual": 33378,
+      "canonicalPath": "/fipe/yamaha/xmax-250-abs-2025-827113-5/",
+      "ano": 2025,
+      "marca": "YAMAHA"
+    },
+    {
+      "vehicleId": "yamaha-xmax-250-abs-2024-gasolina",
+      "fipeCodigo": "827113-5",
+      "displayName": "YAMAHA XMAX 250 ABS",
+      "valorAtual": 29453,
+      "canonicalPath": "/fipe/yamaha/xmax-250-abs-2024-827113-5/",
+      "ano": 2024,
+      "marca": "YAMAHA"
+    },
+    {
+      "vehicleId": "yamaha-xmax-250-abs-2023-gasolina",
+      "fipeCodigo": "827113-5",
+      "displayName": "YAMAHA XMAX 250 ABS",
+      "valorAtual": 27810,
+      "canonicalPath": "/fipe/yamaha/xmax-250-abs-2023-827113-5/",
+      "ano": 2023,
+      "marca": "YAMAHA"
+    },
+    {
+      "vehicleId": "yamaha-xmax-250-abs-2022-gasolina",
+      "fipeCodigo": "827113-5",
+      "displayName": "YAMAHA XMAX 250 ABS",
+      "valorAtual": 26256,
+      "canonicalPath": "/fipe/yamaha/xmax-250-abs-2022-827113-5/",
+      "ano": 2022,
+      "marca": "YAMAHA"
+    },
+    {
+      "vehicleId": "yamaha-xmax-250-abs-darth-vader-2022-gasolina",
+      "fipeCodigo": "827122-4",
+      "displayName": "YAMAHA XMAX 250 ABS Darth Vader",
+      "valorAtual": 26532,
+      "canonicalPath": "/fipe/yamaha/xmax-250-abs-darth-vader-2022-827122-4/",
+      "ano": 2022,
+      "marca": "YAMAHA"
+    },
+    {
+      "vehicleId": "yamaha-xmax-250-abs-2021-gasolina",
+      "fipeCodigo": "827113-5",
+      "displayName": "YAMAHA XMAX 250 ABS",
+      "valorAtual": 25604,
+      "canonicalPath": "/fipe/yamaha/xmax-250-abs-2021-827113-5/",
+      "ano": 2021,
+      "marca": "YAMAHA"
+    },
+    {
+      "vehicleId": "yamaha-xmax-250-abs-2020-gasolina",
+      "fipeCodigo": "827113-5",
+      "displayName": "YAMAHA XMAX 250 ABS",
+      "valorAtual": 24979,
+      "canonicalPath": "/fipe/yamaha/xmax-250-abs-2020-827113-5/",
+      "ano": 2020,
+      "marca": "YAMAHA"
+    },
+    {
+      "vehicleId": "yamaha-xmax-250-connected-0-gasolina",
+      "fipeCodigo": "827132-1",
+      "displayName": "YAMAHA XMAX 250 CONNECTED",
+      "valorAtual": 38419,
+      "canonicalPath": "/fipe/yamaha/xmax-250-connected-0-827132-1/",
+      "ano": 0,
+      "marca": "YAMAHA"
+    },
+    {
+      "vehicleId": "yamaha-xmax-300-connected-0-gasolina",
+      "fipeCodigo": "827142-9",
+      "displayName": "YAMAHA XMAX 300 CONNECTED",
+      "valorAtual": 40739,
+      "canonicalPath": "/fipe/yamaha/xmax-300-connected-0-827142-9/",
+      "ano": 0,
+      "marca": "YAMAHA"
+    }
+  ],
+  "stats": {
+    "total": 11,
+    "precoMin": 24979,
+    "precoMax": 40739,
+    "anos": [
+      2026,
+      2025,
+      2024,
+      2023,
+      2022,
+      2021,
+      2020,
+      0
+    ]
+  }
+}

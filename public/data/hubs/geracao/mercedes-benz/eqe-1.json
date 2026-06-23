@@ -1,0 +1,48 @@
+{
+  "tipo": "geracao",
+  "slug": "eqe-1",
+  "canonicalPath": "/geracao/mercedes-benz/eqe-1/",
+  "titulo": "Geracao eqe-1",
+  "descricao": "3 veiculos da geracao eqe-1.",
+  "seo": {
+    "title": "Geracao eqe-1 - Precos FIPE",
+    "description": "Veiculos da geracao eqe-1 na Tabela FIPE.",
+    "h1": "Geracao eqe-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/mercedes-benz/eqe-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "mercedes-benz-eqe-350-amg-line-eletrico-0-eletrico",
+      "fipeCodigo": "021556-2",
+      "displayName": "Mercedes-Benz EQE 350+ AMG Line (Elétrico)",
+      "valorAtual": 649900,
+      "canonicalPath": "/fipe/mercedes-benz/eqe-350-amg-line-eletrico-0-021556-2/",
+      "ano": 0,
+      "marca": "Mercedes-Benz"
+    },
+    {
+      "vehicleId": "mercedes-benz-eqe-350-suv-amg-line-eletrico-0-eletrico",
+      "fipeCodigo": "021532-5",
+      "displayName": "Mercedes-Benz EQE 350+ SUV AMG Line (Elétrico)",
+      "valorAtual": 699900,
+      "canonicalPath": "/fipe/mercedes-benz/eqe-350-suv-amg-line-eletrico-0-021532-5/",
+      "ano": 0,
+      "marca": "Mercedes-Benz"
+    },
+    {
+      "vehicleId": "mercedes-benz-eqe-53-suv-amg-4matic-eletrico-0-eletrico",
+      "fipeCodigo": "021517-1",
+      "displayName": "Mercedes-Benz EQE 53 SUV AMG 4MATIC+ (Elétrico)",
+      "valorAtual": 891144,
+      "canonicalPath": "/fipe/mercedes-benz/eqe-53-suv-amg-4matic-eletrico-0-021517-1/",
+      "ano": 0,
+      "marca": "Mercedes-Benz"
+    }
+  ],
+  "stats": {
+    "total": 3
+  },
+  "meta": {
+    "geracaoId": "eqe-1"
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "tipo": "geracao",
+  "slug": "kangoo-3",
+  "canonicalPath": "/geracao/renault/kangoo-3/",
+  "titulo": "Geracao kangoo-3",
+  "descricao": "7 veiculos da geracao kangoo-3.",
+  "seo": {
+    "title": "Geracao kangoo-3 - Precos FIPE",
+    "description": "Veiculos da geracao kangoo-3 na Tabela FIPE.",
+    "h1": "Geracao kangoo-3",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/renault/kangoo-3/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "renault-kangoo-advanced-1-6-16v-flex-2025-flex",
+      "fipeCodigo": "025331-6",
+      "displayName": "Renault Kangoo Advanced 1.6 16V Flex",
+      "valorAtual": 92513,
+      "canonicalPath": "/fipe/renault/kangoo-advanced-1-6-16v-flex-2025-025331-6/",
+      "ano": 2025,
+      "marca": "Renault"
+    },
+    {
+      "vehicleId": "renault-kangoo-advanced-1-6-16v-flex-2026-flex",
+      "fipeCodigo": "025331-6",
+      "displayName": "Renault Kangoo Advanced 1.6 16V Flex",
+      "valorAtual": 103419,
+      "canonicalPath": "/fipe/renault/kangoo-advanced-1-6-16v-flex-2026-025331-6/",
+      "ano": 2026,
+      "marca": "Renault"
+    },
+    {
+      "vehicleId": "renault-kangoo-advanced-1-6-16v-flex-2027-flex",
+      "fipeCodigo": "025331-6",
+      "displayName": "Renault Kangoo Advanced 1.6 16V Flex",
+      "valorAtual": 112647,
+      "canonicalPath": "/fipe/renault/kangoo-advanced-1-6-16v-flex-2027-025331-6/",
+      "ano": 2027,
+      "marca": "Renault"
+    },
+    {
+      "vehicleId": "renault-kangoo-e-tech-furgao-eletrico-2024-eletrico",
+      "fipeCodigo": "025326-0",
+      "displayName": "Renault Kangoo E-Tech Furgão (Elétrico)",
+      "valorAtual": 235184,
+      "canonicalPath": "/fipe/renault/kangoo-e-tech-furgao-eletrico-2024-025326-0/",
+      "ano": 2024,
+      "marca": "Renault"
+    },
+    {
+      "vehicleId": "renault-kangoo-e-tech-furgao-eletrico-2025-eletrico",
+      "fipeCodigo": "025326-0",
+      "displayName": "Renault Kangoo E-Tech Furgão (Elétrico)",
+      "valorAtual": 241241,
+      "canonicalPath": "/fipe/renault/kangoo-e-tech-furgao-eletrico-2025-025326-0/",
+      "ano": 2025,
+      "marca": "Renault"
+    },
+    {
+      "vehicleId": "renault-kangoo-z-e-maxi-furgao-eletrico-2022-eletrico",
+      "fipeCodigo": "025317-0",
+      "displayName": "Renault Kangoo Z.E. Maxi Furgão (Elétrico)",
+      "valorAtual": 119933,
+      "canonicalPath": "/fipe/renault/kangoo-z-e-maxi-furgao-eletrico-2022-025317-0/",
+      "ano": 2022,
+      "marca": "Renault"
+    },
+    {
+      "vehicleId": "renault-kangoo-z-e-maxi-furgao-eletrico-2023-eletrico",
+      "fipeCodigo": "025317-0",
+      "displayName": "Renault Kangoo Z.E. Maxi Furgão (Elétrico)",
+      "valorAtual": 124012,
+      "canonicalPath": "/fipe/renault/kangoo-z-e-maxi-furgao-eletrico-2023-025317-0/",
+      "ano": 2023,
+      "marca": "Renault"
+    }
+  ],
+  "stats": {
+    "total": 7
+  },
+  "meta": {
+    "geracaoId": "kangoo-3"
+  }
+}

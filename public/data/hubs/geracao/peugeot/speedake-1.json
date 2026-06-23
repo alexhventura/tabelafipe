@@ -1,0 +1,48 @@
+{
+  "tipo": "geracao",
+  "slug": "speedake-1",
+  "canonicalPath": "/geracao/peugeot/speedake-1/",
+  "titulo": "Geracao speedake-1",
+  "descricao": "3 veiculos da geracao speedake-1.",
+  "seo": {
+    "title": "Geracao speedake-1 - Precos FIPE",
+    "description": "Veiculos da geracao speedake-1 na Tabela FIPE.",
+    "h1": "Geracao speedake-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/peugeot/speedake-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "peugeot-speedake-50-1997-gasolina",
+      "fipeCodigo": "821004-7",
+      "displayName": "PEUGEOT SPEEDAKE 50",
+      "valorAtual": 1918,
+      "canonicalPath": "/fipe/peugeot/speedake-50-1997-821004-7/",
+      "ano": 1997,
+      "marca": "PEUGEOT"
+    },
+    {
+      "vehicleId": "peugeot-speedake-50-1998-gasolina",
+      "fipeCodigo": "821004-7",
+      "displayName": "PEUGEOT SPEEDAKE 50",
+      "valorAtual": 2180,
+      "canonicalPath": "/fipe/peugeot/speedake-50-1998-821004-7/",
+      "ano": 1998,
+      "marca": "PEUGEOT"
+    },
+    {
+      "vehicleId": "peugeot-speedake-50-1999-gasolina",
+      "fipeCodigo": "821004-7",
+      "displayName": "PEUGEOT SPEEDAKE 50",
+      "valorAtual": 2258,
+      "canonicalPath": "/fipe/peugeot/speedake-50-1999-821004-7/",
+      "ano": 1999,
+      "marca": "PEUGEOT"
+    }
+  ],
+  "stats": {
+    "total": 3
+  },
+  "meta": {
+    "geracaoId": "speedake-1"
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "tipo": "geracao",
+  "slug": "face-1",
+  "canonicalPath": "/geracao/caoa-chery-chery/face-1/",
+  "titulo": "Geracao face-1",
+  "descricao": "6 veiculos da geracao face-1.",
+  "seo": {
+    "title": "Geracao face-1 - Precos FIPE",
+    "description": "Veiculos da geracao face-1 na Tabela FIPE.",
+    "h1": "Geracao face-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/caoa-chery-chery/face-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "caoa-chery-chery-face-1-3-16v-1-3-16v-flex-mec-2010-gasolina",
+      "fipeCodigo": "073002-5",
+      "displayName": "Caoa Chery/Chery Face 1.3 16V/1.3 16V Flex.Mec.",
+      "valorAtual": 14108,
+      "canonicalPath": "/fipe/caoa-chery-chery/face-1-3-16v-1-3-16v-flex-mec-2010-073002-5/",
+      "ano": 2010,
+      "marca": "Caoa Chery/Chery"
+    },
+    {
+      "vehicleId": "caoa-chery-chery-face-1-3-16v-1-3-16v-flex-mec-2011-gasolina",
+      "fipeCodigo": "073002-5",
+      "displayName": "Caoa Chery/Chery Face 1.3 16V/1.3 16V Flex.Mec.",
+      "valorAtual": 19144,
+      "canonicalPath": "/fipe/caoa-chery-chery/face-1-3-16v-1-3-16v-flex-mec-2011-073002-5/",
+      "ano": 2011,
+      "marca": "Caoa Chery/Chery"
+    },
+    {
+      "vehicleId": "caoa-chery-chery-face-1-3-16v-1-3-16v-flex-mec-2012-gasolina",
+      "fipeCodigo": "073002-5",
+      "displayName": "Caoa Chery/Chery Face 1.3 16V/1.3 16V Flex.Mec.",
+      "valorAtual": 20755,
+      "canonicalPath": "/fipe/caoa-chery-chery/face-1-3-16v-1-3-16v-flex-mec-2012-073002-5/",
+      "ano": 2012,
+      "marca": "Caoa Chery/Chery"
+    },
+    {
+      "vehicleId": "caoa-chery-chery-face-1-3-16v-1-3-16v-flex-mec-2013-gasolina",
+      "fipeCodigo": "073002-5",
+      "displayName": "Caoa Chery/Chery Face 1.3 16V/1.3 16V Flex.Mec.",
+      "valorAtual": 22859,
+      "canonicalPath": "/fipe/caoa-chery-chery/face-1-3-16v-1-3-16v-flex-mec-2013-073002-5/",
+      "ano": 2013,
+      "marca": "Caoa Chery/Chery"
+    },
+    {
+      "vehicleId": "caoa-chery-chery-face-1-3-16v-1-3-16v-flex-mec-2014-gasolina",
+      "fipeCodigo": "073002-5",
+      "displayName": "Caoa Chery/Chery Face 1.3 16V/1.3 16V Flex.Mec.",
+      "valorAtual": 23431,
+      "canonicalPath": "/fipe/caoa-chery-chery/face-1-3-16v-1-3-16v-flex-mec-2014-073002-5/",
+      "ano": 2014,
+      "marca": "Caoa Chery/Chery"
+    },
+    {
+      "vehicleId": "caoa-chery-chery-face-1-3-16v-1-3-16v-flex-mec-2015-gasolina",
+      "fipeCodigo": "073002-5",
+      "displayName": "Caoa Chery/Chery Face 1.3 16V/1.3 16V Flex.Mec.",
+      "valorAtual": 24017,
+      "canonicalPath": "/fipe/caoa-chery-chery/face-1-3-16v-1-3-16v-flex-mec-2015-073002-5/",
+      "ano": 2015,
+      "marca": "Caoa Chery/Chery"
+    }
+  ],
+  "stats": {
+    "total": 6
+  },
+  "meta": {
+    "geracaoId": "face-1"
+  }
+}

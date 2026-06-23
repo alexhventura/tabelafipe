@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "tn-1",
+  "canonicalPath": "/geracao/kasinski/tn-1/",
+  "titulo": "Geracao tn-1",
+  "descricao": "2 veiculos da geracao tn-1.",
+  "seo": {
+    "title": "Geracao tn-1 - Precos FIPE",
+    "description": "Veiculos da geracao tn-1 na Tabela FIPE.",
+    "h1": "Geracao tn-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/kasinski/tn-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "kasinski-tn-125-1995-gasolina",
+      "fipeCodigo": "816007-4",
+      "displayName": "KASINSKI TN 125",
+      "valorAtual": 1737,
+      "canonicalPath": "/fipe/kasinski/tn-125-1995-816007-4/",
+      "ano": 1995,
+      "marca": "KASINSKI"
+    },
+    {
+      "vehicleId": "kasinski-tn-125-1996-gasolina",
+      "fipeCodigo": "816007-4",
+      "displayName": "KASINSKI TN 125",
+      "valorAtual": 1800,
+      "canonicalPath": "/fipe/kasinski/tn-125-1996-816007-4/",
+      "ano": 1996,
+      "marca": "KASINSKI"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "tn-1"
+  }
+}

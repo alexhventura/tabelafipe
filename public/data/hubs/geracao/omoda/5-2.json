@@ -1,0 +1,57 @@
+{
+  "tipo": "geracao",
+  "slug": "5-2",
+  "canonicalPath": "/geracao/omoda/5-2/",
+  "titulo": "Geracao 5-2",
+  "descricao": "4 veiculos da geracao 5-2.",
+  "seo": {
+    "title": "Geracao 5-2 - Precos FIPE",
+    "description": "Veiculos da geracao 5-2 na Tabela FIPE.",
+    "h1": "Geracao 5-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/omoda/5-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "omoda-5-luxury-1-5-tb-fwd-2026-hibrido",
+      "fipeCodigo": "302002-9",
+      "displayName": "Omoda 5 Luxury 1.5 TB FWD",
+      "valorAtual": 152520,
+      "canonicalPath": "/fipe/omoda/5-luxury-1-5-tb-fwd-2026-302002-9/",
+      "ano": 2026,
+      "marca": "Omoda"
+    },
+    {
+      "vehicleId": "omoda-5-luxury-1-5-tb-fwd-2027-hibrido",
+      "fipeCodigo": "302002-9",
+      "displayName": "Omoda 5 Luxury 1.5 TB FWD",
+      "valorAtual": 157694,
+      "canonicalPath": "/fipe/omoda/5-luxury-1-5-tb-fwd-2027-302002-9/",
+      "ano": 2027,
+      "marca": "Omoda"
+    },
+    {
+      "vehicleId": "omoda-5-prestige-1-5-tb-fwd-2026-hibrido",
+      "fipeCodigo": "302003-7",
+      "displayName": "Omoda 5 Prestige 1.5 TB FWD",
+      "valorAtual": 172559,
+      "canonicalPath": "/fipe/omoda/5-prestige-1-5-tb-fwd-2026-302003-7/",
+      "ano": 2026,
+      "marca": "Omoda"
+    },
+    {
+      "vehicleId": "omoda-5-prestige-1-5-tb-fwd-2027-hibrido",
+      "fipeCodigo": "302003-7",
+      "displayName": "Omoda 5 Prestige 1.5 TB FWD",
+      "valorAtual": 178552,
+      "canonicalPath": "/fipe/omoda/5-prestige-1-5-tb-fwd-2027-302003-7/",
+      "ano": 2027,
+      "marca": "Omoda"
+    }
+  ],
+  "stats": {
+    "total": 4
+  },
+  "meta": {
+    "geracaoId": "5-2"
+  }
+}

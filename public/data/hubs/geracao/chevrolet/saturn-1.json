@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "saturn-1",
+  "canonicalPath": "/geracao/chevrolet/saturn-1/",
+  "titulo": "Geracao saturn-1",
+  "descricao": "2 veiculos da geracao saturn-1.",
+  "seo": {
+    "title": "Geracao saturn-1 - Precos FIPE",
+    "description": "Veiculos da geracao saturn-1 na Tabela FIPE.",
+    "h1": "Geracao saturn-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/chevrolet/saturn-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "chevrolet-saturn-sl-1991-gasolina",
+      "fipeCodigo": "004106-8",
+      "displayName": "GM - Chevrolet Saturn SL",
+      "valorAtual": 8222,
+      "canonicalPath": "/fipe/chevrolet/saturn-sl-1991-004106-8/",
+      "ano": 1991,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-saturn-sl-1992-gasolina",
+      "fipeCodigo": "004106-8",
+      "displayName": "GM - Chevrolet Saturn SL",
+      "valorAtual": 8844,
+      "canonicalPath": "/fipe/chevrolet/saturn-sl-1992-004106-8/",
+      "ano": 1992,
+      "marca": "GM - Chevrolet"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "saturn-1"
+  }
+}

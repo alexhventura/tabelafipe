@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "sun-1",
+  "canonicalPath": "/geracao/shineray/sun-1/",
+  "titulo": "Geracao sun-1",
+  "descricao": "2 veiculos da geracao sun-1.",
+  "seo": {
+    "title": "Geracao sun-1 - Precos FIPE",
+    "description": "Veiculos da geracao sun-1 na Tabela FIPE.",
+    "h1": "Geracao sun-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/shineray/sun-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "shineray-sun-150-2014-gasolina",
+      "fipeCodigo": "850020-7",
+      "displayName": "SHINERAY SUN 150",
+      "valorAtual": 4531,
+      "canonicalPath": "/fipe/shineray/sun-150-2014-850020-7/",
+      "ano": 2014,
+      "marca": "SHINERAY"
+    },
+    {
+      "vehicleId": "shineray-sun-150-2015-gasolina",
+      "fipeCodigo": "850020-7",
+      "displayName": "SHINERAY SUN 150",
+      "valorAtual": 5267,
+      "canonicalPath": "/fipe/shineray/sun-150-2015-850020-7/",
+      "ano": 2015,
+      "marca": "SHINERAY"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "sun-1"
+  }
+}

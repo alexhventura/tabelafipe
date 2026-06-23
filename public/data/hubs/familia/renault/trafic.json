@@ -1,0 +1,118 @@
+{
+  "tipo": "familia",
+  "slug": "trafic",
+  "canonicalPath": "/fipe/renault/trafic/",
+  "titulo": "Renault trafic - Tabela FIPE",
+  "descricao": "10 versoes e anos do Renault trafic na Tabela FIPE.",
+  "seo": {
+    "title": "Renault trafic - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes Renault trafic. 10 veiculos indexados.",
+    "h1": "Renault trafic - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/renault/trafic/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "renault-trafic-furgao-2-0-98cv-2002-gasolina",
+      "fipeCodigo": "025047-3",
+      "displayName": "Renault Trafic Furgão 2.0 98cv",
+      "valorAtual": 17766,
+      "canonicalPath": "/fipe/renault/trafic-furgao-2-0-98cv-2002-025047-3/",
+      "ano": 2002,
+      "marca": "Renault"
+    },
+    {
+      "vehicleId": "renault-trafic-furgao-2-0-98cv-2001-gasolina",
+      "fipeCodigo": "025047-3",
+      "displayName": "Renault Trafic Furgão 2.0 98cv",
+      "valorAtual": 15941,
+      "canonicalPath": "/fipe/renault/trafic-furgao-2-0-98cv-2001-025047-3/",
+      "ano": 2001,
+      "marca": "Renault"
+    },
+    {
+      "vehicleId": "renault-trafic-furgao-2-0-98cv-2000-gasolina",
+      "fipeCodigo": "025047-3",
+      "displayName": "Renault Trafic Furgão 2.0 98cv",
+      "valorAtual": 13359,
+      "canonicalPath": "/fipe/renault/trafic-furgao-2-0-98cv-2000-025047-3/",
+      "ano": 2000,
+      "marca": "Renault"
+    },
+    {
+      "vehicleId": "renault-trafic-furgao-chassi-curto-2-2-1999-gasolina",
+      "fipeCodigo": "025018-0",
+      "displayName": "Renault Trafic Furgão Chassi Curto 2.2",
+      "valorAtual": 14027,
+      "canonicalPath": "/fipe/renault/trafic-furgao-chassi-curto-2-2-1999-025018-0/",
+      "ano": 1999,
+      "marca": "Renault"
+    },
+    {
+      "vehicleId": "renault-trafic-furgao-chassi-curto-2-2-1998-gasolina",
+      "fipeCodigo": "025018-0",
+      "displayName": "Renault Trafic Furgão Chassi Curto 2.2",
+      "valorAtual": 13684,
+      "canonicalPath": "/fipe/renault/trafic-furgao-chassi-curto-2-2-1998-025018-0/",
+      "ano": 1998,
+      "marca": "Renault"
+    },
+    {
+      "vehicleId": "renault-trafic-furgao-chassi-longo-2-2-1998-gasolina",
+      "fipeCodigo": "025019-8",
+      "displayName": "Renault Trafic Furgão Chassi Longo 2.2",
+      "valorAtual": 13758,
+      "canonicalPath": "/fipe/renault/trafic-furgao-chassi-longo-2-2-1998-025019-8/",
+      "ano": 1998,
+      "marca": "Renault"
+    },
+    {
+      "vehicleId": "renault-trafic-van-2-2-1998-gasolina",
+      "fipeCodigo": "025036-8",
+      "displayName": "Renault Trafic Van 2.2",
+      "valorAtual": 13827,
+      "canonicalPath": "/fipe/renault/trafic-van-2-2-1998-025036-8/",
+      "ano": 1998,
+      "marca": "Renault"
+    },
+    {
+      "vehicleId": "renault-trafic-furgao-chassi-curto-2-2-1997-gasolina",
+      "fipeCodigo": "025018-0",
+      "displayName": "Renault Trafic Furgão Chassi Curto 2.2",
+      "valorAtual": 10285,
+      "canonicalPath": "/fipe/renault/trafic-furgao-chassi-curto-2-2-1997-025018-0/",
+      "ano": 1997,
+      "marca": "Renault"
+    },
+    {
+      "vehicleId": "renault-trafic-furgao-chassi-longo-2-2-1997-gasolina",
+      "fipeCodigo": "025019-8",
+      "displayName": "Renault Trafic Furgão Chassi Longo 2.2",
+      "valorAtual": 11011,
+      "canonicalPath": "/fipe/renault/trafic-furgao-chassi-longo-2-2-1997-025019-8/",
+      "ano": 1997,
+      "marca": "Renault"
+    },
+    {
+      "vehicleId": "renault-trafic-van-2-2-1997-gasolina",
+      "fipeCodigo": "025036-8",
+      "displayName": "Renault Trafic Van 2.2",
+      "valorAtual": 12385,
+      "canonicalPath": "/fipe/renault/trafic-van-2-2-1997-025036-8/",
+      "ano": 1997,
+      "marca": "Renault"
+    }
+  ],
+  "stats": {
+    "total": 10,
+    "precoMin": 10285,
+    "precoMax": 17766,
+    "anos": [
+      2002,
+      2001,
+      2000,
+      1999,
+      1998,
+      1997
+    ]
+  }
+}

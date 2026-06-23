@@ -1,0 +1,42 @@
+{
+  "tipo": "familia",
+  "slug": "ghost",
+  "canonicalPath": "/fipe/regal-raptor/ghost/",
+  "titulo": "REGAL RAPTOR ghost - Tabela FIPE",
+  "descricao": "2 versoes e anos do REGAL RAPTOR ghost na Tabela FIPE.",
+  "seo": {
+    "title": "REGAL RAPTOR ghost - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes REGAL RAPTOR ghost. 2 veiculos indexados.",
+    "h1": "REGAL RAPTOR ghost - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/regal-raptor/ghost/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "regal-raptor-ghost-270-320-2011-gasolina",
+      "fipeCodigo": "872004-5",
+      "displayName": "REGAL RAPTOR GHOST 270/320",
+      "valorAtual": 12823,
+      "canonicalPath": "/fipe/regal-raptor/ghost-270-320-2011-872004-5/",
+      "ano": 2011,
+      "marca": "REGAL RAPTOR"
+    },
+    {
+      "vehicleId": "regal-raptor-ghost-270-320-2009-gasolina",
+      "fipeCodigo": "872004-5",
+      "displayName": "REGAL RAPTOR GHOST 270/320",
+      "valorAtual": 8440,
+      "canonicalPath": "/fipe/regal-raptor/ghost-270-320-2009-872004-5/",
+      "ano": 2009,
+      "marca": "REGAL RAPTOR"
+    }
+  ],
+  "stats": {
+    "total": 2,
+    "precoMin": 8440,
+    "precoMax": 12823,
+    "anos": [
+      2011,
+      2009
+    ]
+  }
+}

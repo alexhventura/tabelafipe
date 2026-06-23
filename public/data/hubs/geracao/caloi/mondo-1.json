@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "mondo-1",
+  "canonicalPath": "/geracao/caloi/mondo-1/",
+  "titulo": "Geracao mondo-1",
+  "descricao": "2 veiculos da geracao mondo-1.",
+  "seo": {
+    "title": "Geracao mondo-1 - Precos FIPE",
+    "description": "Veiculos da geracao mondo-1 na Tabela FIPE.",
+    "h1": "Geracao mondo-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/caloi/mondo-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "caloi-mondo-75cc-1997-gasolina",
+      "fipeCodigo": "806002-9",
+      "displayName": "CALOI MONDO 75cc",
+      "valorAtual": 1765,
+      "canonicalPath": "/fipe/caloi/mondo-75cc-1997-806002-9/",
+      "ano": 1997,
+      "marca": "CALOI"
+    },
+    {
+      "vehicleId": "caloi-mondo-75cc-1998-gasolina",
+      "fipeCodigo": "806002-9",
+      "displayName": "CALOI MONDO 75cc",
+      "valorAtual": 1817,
+      "canonicalPath": "/fipe/caloi/mondo-75cc-1998-806002-9/",
+      "ano": 1998,
+      "marca": "CALOI"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "mondo-1"
+  }
+}

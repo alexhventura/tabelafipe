@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "eliminator-1",
+  "canonicalPath": "/geracao/kawasaki/eliminator-1/",
+  "titulo": "Geracao eliminator-1",
+  "descricao": "2 veiculos da geracao eliminator-1.",
+  "seo": {
+    "title": "Geracao eliminator-1 - Precos FIPE",
+    "description": "Veiculos da geracao eliminator-1 na Tabela FIPE.",
+    "h1": "Geracao eliminator-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/kawasaki/eliminator-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "kawasaki-eliminator-500-0-gasolina",
+      "fipeCodigo": "817093-2",
+      "displayName": "KAWASAKI ELIMINATOR 500",
+      "valorAtual": 41943,
+      "canonicalPath": "/fipe/kawasaki/eliminator-500-0-817093-2/",
+      "ano": 0,
+      "marca": "KAWASAKI"
+    },
+    {
+      "vehicleId": "kawasaki-eliminator-500-se-0-gasolina",
+      "fipeCodigo": "817092-4",
+      "displayName": "KAWASAKI ELIMINATOR 500 SE",
+      "valorAtual": 42921,
+      "canonicalPath": "/fipe/kawasaki/eliminator-500-se-0-817092-4/",
+      "ano": 0,
+      "marca": "KAWASAKI"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "eliminator-1"
+  }
+}

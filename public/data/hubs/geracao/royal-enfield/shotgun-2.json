@@ -1,0 +1,48 @@
+{
+  "tipo": "geracao",
+  "slug": "shotgun-2",
+  "canonicalPath": "/geracao/royal-enfield/shotgun-2/",
+  "titulo": "Geracao shotgun-2",
+  "descricao": "3 veiculos da geracao shotgun-2.",
+  "seo": {
+    "title": "Geracao shotgun-2 - Precos FIPE",
+    "description": "Veiculos da geracao shotgun-2 na Tabela FIPE.",
+    "h1": "Geracao shotgun-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/royal-enfield/shotgun-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "royal-enfield-shotgun-650-base-2026-gasolina",
+      "fipeCodigo": "879047-7",
+      "displayName": "Royal Enfield Shotgun 650 Base",
+      "valorAtual": 32005,
+      "canonicalPath": "/fipe/royal-enfield/shotgun-650-base-2026-879047-7/",
+      "ano": 2026,
+      "marca": "Royal Enfield"
+    },
+    {
+      "vehicleId": "royal-enfield-shotgun-650-mid-2026-gasolina",
+      "fipeCodigo": "879037-0",
+      "displayName": "Royal Enfield Shotgun 650 Mid",
+      "valorAtual": 32049,
+      "canonicalPath": "/fipe/royal-enfield/shotgun-650-mid-2026-879037-0/",
+      "ano": 2026,
+      "marca": "Royal Enfield"
+    },
+    {
+      "vehicleId": "royal-enfield-shotgun-650-top-2026-gasolina",
+      "fipeCodigo": "879048-5",
+      "displayName": "Royal Enfield Shotgun 650 Top",
+      "valorAtual": 32218,
+      "canonicalPath": "/fipe/royal-enfield/shotgun-650-top-2026-879048-5/",
+      "ano": 2026,
+      "marca": "Royal Enfield"
+    }
+  ],
+  "stats": {
+    "total": 3
+  },
+  "meta": {
+    "geracaoId": "shotgun-2"
+  }
+}

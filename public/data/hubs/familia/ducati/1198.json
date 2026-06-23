@@ -1,0 +1,88 @@
+{
+  "tipo": "familia",
+  "slug": "1198",
+  "canonicalPath": "/fipe/ducati/1198/",
+  "titulo": "DUCATI 1198 - Tabela FIPE",
+  "descricao": "7 versoes e anos do DUCATI 1198 na Tabela FIPE.",
+  "seo": {
+    "title": "DUCATI 1198 - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes DUCATI 1198. 7 veiculos indexados.",
+    "h1": "DUCATI 1198 - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/ducati/1198/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "ducati-1198-1198cc-2011-gasolina",
+      "fipeCodigo": "808028-3",
+      "displayName": "DUCATI 1198 1198cc",
+      "valorAtual": 49606,
+      "canonicalPath": "/fipe/ducati/1198-1198cc-2011-808028-3/",
+      "ano": 2011,
+      "marca": "DUCATI"
+    },
+    {
+      "vehicleId": "ducati-1198-s-1198cc-2011-gasolina",
+      "fipeCodigo": "808029-1",
+      "displayName": "DUCATI 1198 S 1198cc",
+      "valorAtual": 55797,
+      "canonicalPath": "/fipe/ducati/1198-s-1198cc-2011-808029-1/",
+      "ano": 2011,
+      "marca": "DUCATI"
+    },
+    {
+      "vehicleId": "ducati-1198-sp-1198cc-2011-gasolina",
+      "fipeCodigo": "808041-0",
+      "displayName": "DUCATI 1198 SP 1198cc",
+      "valorAtual": 70728,
+      "canonicalPath": "/fipe/ducati/1198-sp-1198cc-2011-808041-0/",
+      "ano": 2011,
+      "marca": "DUCATI"
+    },
+    {
+      "vehicleId": "ducati-1198-1198cc-2010-gasolina",
+      "fipeCodigo": "808028-3",
+      "displayName": "DUCATI 1198 1198cc",
+      "valorAtual": 46536,
+      "canonicalPath": "/fipe/ducati/1198-1198cc-2010-808028-3/",
+      "ano": 2010,
+      "marca": "DUCATI"
+    },
+    {
+      "vehicleId": "ducati-1198-s-1198cc-2010-gasolina",
+      "fipeCodigo": "808029-1",
+      "displayName": "DUCATI 1198 S 1198cc",
+      "valorAtual": 53932,
+      "canonicalPath": "/fipe/ducati/1198-s-1198cc-2010-808029-1/",
+      "ano": 2010,
+      "marca": "DUCATI"
+    },
+    {
+      "vehicleId": "ducati-1198-1198cc-2009-gasolina",
+      "fipeCodigo": "808028-3",
+      "displayName": "DUCATI 1198 1198cc",
+      "valorAtual": 44952,
+      "canonicalPath": "/fipe/ducati/1198-1198cc-2009-808028-3/",
+      "ano": 2009,
+      "marca": "DUCATI"
+    },
+    {
+      "vehicleId": "ducati-1198-s-1198cc-2009-gasolina",
+      "fipeCodigo": "808029-1",
+      "displayName": "DUCATI 1198 S 1198cc",
+      "valorAtual": 50625,
+      "canonicalPath": "/fipe/ducati/1198-s-1198cc-2009-808029-1/",
+      "ano": 2009,
+      "marca": "DUCATI"
+    }
+  ],
+  "stats": {
+    "total": 7,
+    "precoMin": 44952,
+    "precoMax": 70728,
+    "anos": [
+      2011,
+      2010,
+      2009
+    ]
+  }
+}

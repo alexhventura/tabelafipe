@@ -1,0 +1,102 @@
+{
+  "tipo": "geracao",
+  "slug": "hummer-1",
+  "canonicalPath": "/geracao/am-gen/hummer-1/",
+  "titulo": "Geracao hummer-1",
+  "descricao": "9 veiculos da geracao hummer-1.",
+  "seo": {
+    "title": "Geracao hummer-1 - Precos FIPE",
+    "description": "Veiculos da geracao hummer-1 na Tabela FIPE.",
+    "h1": "Geracao hummer-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/am-gen/hummer-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "am-gen-hummer-hard-top-6-5-4x4-diesel-tb-1998-diesel",
+      "fipeCodigo": "037001-0",
+      "displayName": "AM Gen Hummer Hard-Top 6.5 4x4 Diesel TB",
+      "valorAtual": 324626,
+      "canonicalPath": "/fipe/am-gen/hummer-hard-top-6-5-4x4-diesel-tb-1998-037001-0/",
+      "ano": 1998,
+      "marca": "AM Gen"
+    },
+    {
+      "vehicleId": "am-gen-hummer-hard-top-6-5-4x4-diesel-tb-1999-diesel",
+      "fipeCodigo": "037001-0",
+      "displayName": "AM Gen Hummer Hard-Top 6.5 4x4 Diesel TB",
+      "valorAtual": 374894,
+      "canonicalPath": "/fipe/am-gen/hummer-hard-top-6-5-4x4-diesel-tb-1999-037001-0/",
+      "ano": 1999,
+      "marca": "AM Gen"
+    },
+    {
+      "vehicleId": "am-gen-hummer-hard-top-6-5-4x4-diesel-tb-2000-diesel",
+      "fipeCodigo": "037001-0",
+      "displayName": "AM Gen Hummer Hard-Top 6.5 4x4 Diesel TB",
+      "valorAtual": 416343,
+      "canonicalPath": "/fipe/am-gen/hummer-hard-top-6-5-4x4-diesel-tb-2000-037001-0/",
+      "ano": 2000,
+      "marca": "AM Gen"
+    },
+    {
+      "vehicleId": "am-gen-hummer-open-top-6-5-4x4-diesel-tb-1998-diesel",
+      "fipeCodigo": "037002-9",
+      "displayName": "AM Gen Hummer Open-Top 6.5 4x4 Diesel TB",
+      "valorAtual": 329573,
+      "canonicalPath": "/fipe/am-gen/hummer-open-top-6-5-4x4-diesel-tb-1998-037002-9/",
+      "ano": 1998,
+      "marca": "AM Gen"
+    },
+    {
+      "vehicleId": "am-gen-hummer-open-top-6-5-4x4-diesel-tb-1999-diesel",
+      "fipeCodigo": "037002-9",
+      "displayName": "AM Gen Hummer Open-Top 6.5 4x4 Diesel TB",
+      "valorAtual": 381794,
+      "canonicalPath": "/fipe/am-gen/hummer-open-top-6-5-4x4-diesel-tb-1999-037002-9/",
+      "ano": 1999,
+      "marca": "AM Gen"
+    },
+    {
+      "vehicleId": "am-gen-hummer-open-top-6-5-4x4-diesel-tb-2000-diesel",
+      "fipeCodigo": "037002-9",
+      "displayName": "AM Gen Hummer Open-Top 6.5 4x4 Diesel TB",
+      "valorAtual": 418764,
+      "canonicalPath": "/fipe/am-gen/hummer-open-top-6-5-4x4-diesel-tb-2000-037002-9/",
+      "ano": 2000,
+      "marca": "AM Gen"
+    },
+    {
+      "vehicleId": "am-gen-hummer-wagon-6-5-4x4-diesel-tb-1998-diesel",
+      "fipeCodigo": "037003-7",
+      "displayName": "AM Gen Hummer Wagon 6.5 4x4 Diesel TB",
+      "valorAtual": 339665,
+      "canonicalPath": "/fipe/am-gen/hummer-wagon-6-5-4x4-diesel-tb-1998-037003-7/",
+      "ano": 1998,
+      "marca": "AM Gen"
+    },
+    {
+      "vehicleId": "am-gen-hummer-wagon-6-5-4x4-diesel-tb-1999-diesel",
+      "fipeCodigo": "037003-7",
+      "displayName": "AM Gen Hummer Wagon 6.5 4x4 Diesel TB",
+      "valorAtual": 391781,
+      "canonicalPath": "/fipe/am-gen/hummer-wagon-6-5-4x4-diesel-tb-1999-037003-7/",
+      "ano": 1999,
+      "marca": "AM Gen"
+    },
+    {
+      "vehicleId": "am-gen-hummer-wagon-6-5-4x4-diesel-tb-2000-diesel",
+      "fipeCodigo": "037003-7",
+      "displayName": "AM Gen Hummer Wagon 6.5 4x4 Diesel TB",
+      "valorAtual": 442130,
+      "canonicalPath": "/fipe/am-gen/hummer-wagon-6-5-4x4-diesel-tb-2000-037003-7/",
+      "ano": 2000,
+      "marca": "AM Gen"
+    }
+  ],
+  "stats": {
+    "total": 9
+  },
+  "meta": {
+    "geracaoId": "hummer-1"
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "tipo": "familia",
+  "slug": "rs",
+  "canonicalPath": "/fipe/aprilia/rs/",
+  "titulo": "APRILIA rs - Tabela FIPE",
+  "descricao": "7 versoes e anos do APRILIA rs na Tabela FIPE.",
+  "seo": {
+    "title": "APRILIA rs - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes APRILIA rs. 7 veiculos indexados.",
+    "h1": "APRILIA rs - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/aprilia/rs/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "aprilia-rs-50cc-2001-gasolina",
+      "fipeCodigo": "802008-6",
+      "displayName": "APRILIA RS 50cc",
+      "valorAtual": 5747,
+      "canonicalPath": "/fipe/aprilia/rs-50cc-2001-802008-6/",
+      "ano": 2001,
+      "marca": "APRILIA"
+    },
+    {
+      "vehicleId": "aprilia-rs-50cc-2000-gasolina",
+      "fipeCodigo": "802008-6",
+      "displayName": "APRILIA RS 50cc",
+      "valorAtual": 5137,
+      "canonicalPath": "/fipe/aprilia/rs-50cc-2000-802008-6/",
+      "ano": 2000,
+      "marca": "APRILIA"
+    },
+    {
+      "vehicleId": "aprilia-rs-250cc-2000-gasolina",
+      "fipeCodigo": "802007-8",
+      "displayName": "APRILIA RS 250cc",
+      "valorAtual": 12820,
+      "canonicalPath": "/fipe/aprilia/rs-250cc-2000-802007-8/",
+      "ano": 2000,
+      "marca": "APRILIA"
+    },
+    {
+      "vehicleId": "aprilia-rs-50cc-1999-gasolina",
+      "fipeCodigo": "802008-6",
+      "displayName": "APRILIA RS 50cc",
+      "valorAtual": 4969,
+      "canonicalPath": "/fipe/aprilia/rs-50cc-1999-802008-6/",
+      "ano": 1999,
+      "marca": "APRILIA"
+    },
+    {
+      "vehicleId": "aprilia-rs-250cc-1999-gasolina",
+      "fipeCodigo": "802007-8",
+      "displayName": "APRILIA RS 250cc",
+      "valorAtual": 11854,
+      "canonicalPath": "/fipe/aprilia/rs-250cc-1999-802007-8/",
+      "ano": 1999,
+      "marca": "APRILIA"
+    },
+    {
+      "vehicleId": "aprilia-rs-50cc-1998-gasolina",
+      "fipeCodigo": "802008-6",
+      "displayName": "APRILIA RS 50cc",
+      "valorAtual": 4288,
+      "canonicalPath": "/fipe/aprilia/rs-50cc-1998-802008-6/",
+      "ano": 1998,
+      "marca": "APRILIA"
+    },
+    {
+      "vehicleId": "aprilia-rs-250cc-1998-gasolina",
+      "fipeCodigo": "802007-8",
+      "displayName": "APRILIA RS 250cc",
+      "valorAtual": 11128,
+      "canonicalPath": "/fipe/aprilia/rs-250cc-1998-802007-8/",
+      "ano": 1998,
+      "marca": "APRILIA"
+    }
+  ],
+  "stats": {
+    "total": 7,
+    "precoMin": 4288,
+    "precoMax": 12820,
+    "anos": [
+      2001,
+      2000,
+      1999,
+      1998
+    ]
+  }
+}

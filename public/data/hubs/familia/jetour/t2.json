@@ -1,0 +1,79 @@
+{
+  "tipo": "familia",
+  "slug": "t2",
+  "canonicalPath": "/fipe/jetour/t2/",
+  "titulo": "Jetour t2 - Tabela FIPE",
+  "descricao": "6 versoes e anos do Jetour t2 na Tabela FIPE.",
+  "seo": {
+    "title": "Jetour t2 - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes Jetour t2. 6 veiculos indexados.",
+    "h1": "Jetour t2 - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/jetour/t2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "jetour-t2-advance-2027-hibrido",
+      "fipeCodigo": "307003-4",
+      "displayName": "Jetour T2 Advance",
+      "valorAtual": 274167,
+      "canonicalPath": "/fipe/jetour/t2-advance-2027-307003-4/",
+      "ano": 2027,
+      "marca": "Jetour"
+    },
+    {
+      "vehicleId": "jetour-t2-premium-2027-hibrido",
+      "fipeCodigo": "307004-2",
+      "displayName": "Jetour T2 Premium",
+      "valorAtual": 282684,
+      "canonicalPath": "/fipe/jetour/t2-premium-2027-307004-2/",
+      "ano": 2027,
+      "marca": "Jetour"
+    },
+    {
+      "vehicleId": "jetour-t2-advance-2026-hibrido",
+      "fipeCodigo": "307003-4",
+      "displayName": "Jetour T2 Advance",
+      "valorAtual": 265250,
+      "canonicalPath": "/fipe/jetour/t2-advance-2026-307003-4/",
+      "ano": 2026,
+      "marca": "Jetour"
+    },
+    {
+      "vehicleId": "jetour-t2-premium-2026-hibrido",
+      "fipeCodigo": "307004-2",
+      "displayName": "Jetour T2 Premium",
+      "valorAtual": 272622,
+      "canonicalPath": "/fipe/jetour/t2-premium-2026-307004-2/",
+      "ano": 2026,
+      "marca": "Jetour"
+    },
+    {
+      "vehicleId": "jetour-t2-advance-0-hibrido",
+      "fipeCodigo": "307003-4",
+      "displayName": "Jetour T2 Advance",
+      "valorAtual": 291668,
+      "canonicalPath": "/fipe/jetour/t2-advance-0-307003-4/",
+      "ano": 0,
+      "marca": "Jetour"
+    },
+    {
+      "vehicleId": "jetour-t2-premium-0-hibrido",
+      "fipeCodigo": "307004-2",
+      "displayName": "Jetour T2 Premium",
+      "valorAtual": 301691,
+      "canonicalPath": "/fipe/jetour/t2-premium-0-307004-2/",
+      "ano": 0,
+      "marca": "Jetour"
+    }
+  ],
+  "stats": {
+    "total": 6,
+    "precoMin": 265250,
+    "precoMax": 301691,
+    "anos": [
+      2027,
+      2026,
+      0
+    ]
+  }
+}

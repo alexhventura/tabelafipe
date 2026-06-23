@@ -1,0 +1,48 @@
+{
+  "tipo": "geracao",
+  "slug": "230r-1",
+  "canonicalPath": "/geracao/mrx/230r-1/",
+  "titulo": "Geracao 230r-1",
+  "descricao": "3 veiculos da geracao 230r-1.",
+  "seo": {
+    "title": "Geracao 230r-1 - Precos FIPE",
+    "description": "Veiculos da geracao 230r-1 na Tabela FIPE.",
+    "h1": "Geracao 230r-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/mrx/230r-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "mrx-230r-2008-gasolina",
+      "fipeCodigo": "868001-9",
+      "displayName": "MRX 230R",
+      "valorAtual": 3794,
+      "canonicalPath": "/fipe/mrx/230r-2008-868001-9/",
+      "ano": 2008,
+      "marca": "MRX"
+    },
+    {
+      "vehicleId": "mrx-230r-2009-gasolina",
+      "fipeCodigo": "868001-9",
+      "displayName": "MRX 230R",
+      "valorAtual": 4404,
+      "canonicalPath": "/fipe/mrx/230r-2009-868001-9/",
+      "ano": 2009,
+      "marca": "MRX"
+    },
+    {
+      "vehicleId": "mrx-230r-2010-gasolina",
+      "fipeCodigo": "868001-9",
+      "displayName": "MRX 230R",
+      "valorAtual": 5265,
+      "canonicalPath": "/fipe/mrx/230r-2010-868001-9/",
+      "ano": 2010,
+      "marca": "MRX"
+    }
+  ],
+  "stats": {
+    "total": 3
+  },
+  "meta": {
+    "geracaoId": "230r-1"
+  }
+}

@@ -1,0 +1,676 @@
+{
+  "tipo": "familia",
+  "slug": "x3",
+  "canonicalPath": "/fipe/bmw/x3/",
+  "titulo": "BMW x3 - Tabela FIPE",
+  "descricao": "70 versoes e anos do BMW x3 na Tabela FIPE.",
+  "seo": {
+    "title": "BMW x3 - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes BMW x3. 70 veiculos indexados.",
+    "h1": "BMW x3 - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/bmw/x3/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "bmw-x3-xdrive-30-m-sport-2-0-tb-aut-2026-hibrido",
+      "fipeCodigo": "009327-0",
+      "displayName": "BMW X3 XDRIVE 30 M Sport 2.0 TB Aut.",
+      "valorAtual": 470354,
+      "canonicalPath": "/fipe/bmw/x3-xdrive-30-m-sport-2-0-tb-aut-2026-009327-0/",
+      "ano": 2026,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-x3-m50-xdrive-3-0-v6-aut-hibrido-2026-hibrido",
+      "fipeCodigo": "009325-4",
+      "displayName": "BMW X3 M50 XDRIVE 3.0 V6 Aut. (Híbrido)",
+      "valorAtual": 585163,
+      "canonicalPath": "/fipe/bmw/x3-m50-xdrive-3-0-v6-aut-hibrido-2026-009325-4/",
+      "ano": 2026,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-x3-m50-xdrive-3-0-v6-aut-hibrido-2025-hibrido",
+      "fipeCodigo": "009325-4",
+      "displayName": "BMW X3 M50 XDRIVE 3.0 V6 Aut. (Híbrido)",
+      "valorAtual": 569135,
+      "canonicalPath": "/fipe/bmw/x3-m50-xdrive-3-0-v6-aut-hibrido-2025-009325-4/",
+      "ano": 2025,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-x3-xdrive-30e-x-line-turbo-aut-hib-2024-hibrido",
+      "fipeCodigo": "009272-0",
+      "displayName": "BMW X3 XDRIVE 30e X-Line Turbo Aut. (Híb.)",
+      "valorAtual": 332964,
+      "canonicalPath": "/fipe/bmw/x3-xdrive-30e-x-line-turbo-aut-hib-2024-009272-0/",
+      "ano": 2024,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-x3-xdrive-30e-m-sport-turbo-aut-hib-2024-hibrido",
+      "fipeCodigo": "009286-0",
+      "displayName": "BMW X3 XDRIVE 30e M Sport Turbo Aut. (Híb.)",
+      "valorAtual": 351497,
+      "canonicalPath": "/fipe/bmw/x3-xdrive-30e-m-sport-turbo-aut-hib-2024-009286-0/",
+      "ano": 2024,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-x3-m40i-3-0-turbo-v6-aut-2024-gasolina",
+      "fipeCodigo": "009227-4",
+      "displayName": "BMW X3 M40i 3.0 Turbo V6  Aut.",
+      "valorAtual": 421937,
+      "canonicalPath": "/fipe/bmw/x3-m40i-3-0-turbo-v6-aut-2024-009227-4/",
+      "ano": 2024,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-x3-xdrive-30e-x-line-turbo-aut-hib-2023-hibrido",
+      "fipeCodigo": "009272-0",
+      "displayName": "BMW X3 XDRIVE 30e X-Line Turbo Aut. (Híb.)",
+      "valorAtual": 275969,
+      "canonicalPath": "/fipe/bmw/x3-xdrive-30e-x-line-turbo-aut-hib-2023-009272-0/",
+      "ano": 2023,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-x3-m40i-3-0-turbo-v6-aut-2023-gasolina",
+      "fipeCodigo": "009227-4",
+      "displayName": "BMW X3 M40i 3.0 Turbo V6  Aut.",
+      "valorAtual": 395058,
+      "canonicalPath": "/fipe/bmw/x3-m40i-3-0-turbo-v6-aut-2023-009227-4/",
+      "ano": 2023,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-x3-xdrive-30e-x-line-turbo-aut-hib-2022-hibrido",
+      "fipeCodigo": "009272-0",
+      "displayName": "BMW X3 XDRIVE 30e X-Line Turbo Aut. (Híb.)",
+      "valorAtual": 250346,
+      "canonicalPath": "/fipe/bmw/x3-xdrive-30e-x-line-turbo-aut-hib-2022-009272-0/",
+      "ano": 2022,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-x3-xdrive-30e-m-sport-turbo-aut-hib-2022-hibrido",
+      "fipeCodigo": "009286-0",
+      "displayName": "BMW X3 XDRIVE 30e M Sport Turbo Aut. (Híb.)",
+      "valorAtual": 280695,
+      "canonicalPath": "/fipe/bmw/x3-xdrive-30e-m-sport-turbo-aut-hib-2022-009286-0/",
+      "ano": 2022,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-x3-xdrive-30e-m-sp-launch-ed-tb-hib-2022-hibrido",
+      "fipeCodigo": "009287-8",
+      "displayName": "BMW X3 XDRIVE 30e M SP Launch Ed. TB (Híb.)",
+      "valorAtual": 309320,
+      "canonicalPath": "/fipe/bmw/x3-xdrive-30e-m-sp-launch-ed-tb-hib-2022-009287-8/",
+      "ano": 2022,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-x3-m40i-3-0-m-sport-edit-v6-turbo-aut-2022-gasolina",
+      "fipeCodigo": "009294-0",
+      "displayName": "BMW X3 M40i 3.0 M Sport Edit. V6 Turbo Aut.",
+      "valorAtual": 366698,
+      "canonicalPath": "/fipe/bmw/x3-m40i-3-0-m-sport-edit-v6-turbo-aut-2022-009294-0/",
+      "ano": 2022,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-x3-m40i-3-0-turbo-v6-aut-2022-gasolina",
+      "fipeCodigo": "009227-4",
+      "displayName": "BMW X3 M40i 3.0 Turbo V6  Aut.",
+      "valorAtual": 368519,
+      "canonicalPath": "/fipe/bmw/x3-m40i-3-0-turbo-v6-aut-2022-009227-4/",
+      "ano": 2022,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-x3-xdrive-20i-2-0-x-line-bi-tb-flex-aut-2021-gasolina",
+      "fipeCodigo": "009180-4",
+      "displayName": "BMW X3 XDRIVE 20i 2.0/X-Line Bi-TB Flex Aut.",
+      "valorAtual": 196594,
+      "canonicalPath": "/fipe/bmw/x3-xdrive-20i-2-0-x-line-bi-tb-flex-aut-2021-009180-4/",
+      "ano": 2021,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-x3-xdrive-30e-x-line-turbo-aut-hib-2021-hibrido",
+      "fipeCodigo": "009272-0",
+      "displayName": "BMW X3 XDRIVE 30e X-Line Turbo Aut. (Híb.)",
+      "valorAtual": 219322,
+      "canonicalPath": "/fipe/bmw/x3-xdrive-30e-x-line-turbo-aut-hib-2021-009272-0/",
+      "ano": 2021,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-x3-xdrive-30e-turbo-aut-hibrido-2021-hibrido",
+      "fipeCodigo": "009271-1",
+      "displayName": "BMW X3 XDRIVE 30e Turbo Aut. (Híbrido)",
+      "valorAtual": 224976,
+      "canonicalPath": "/fipe/bmw/x3-xdrive-30e-turbo-aut-hibrido-2021-009271-1/",
+      "ano": 2021,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-x3-xdrive-30i-x-line-2-0-turbo-252cv-aut-2021-gasolina",
+      "fipeCodigo": "009228-2",
+      "displayName": "BMW X3 XDRIVE 30i X-Line 2.0 Turbo 252cv Aut",
+      "valorAtual": 237030,
+      "canonicalPath": "/fipe/bmw/x3-xdrive-30i-x-line-2-0-turbo-252cv-aut-2021-009228-2/",
+      "ano": 2021,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-x3-m40i-3-0-turbo-v6-aut-2021-gasolina",
+      "fipeCodigo": "009227-4",
+      "displayName": "BMW X3 M40i 3.0 Turbo V6  Aut.",
+      "valorAtual": 308508,
+      "canonicalPath": "/fipe/bmw/x3-m40i-3-0-turbo-v6-aut-2021-009227-4/",
+      "ano": 2021,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-x3-m-competition-3-0-bi-tb-510cv-aut-2021-gasolina",
+      "fipeCodigo": "009256-8",
+      "displayName": "BMW X3 M Competition 3.0 Bi-TB 510cv Aut.",
+      "valorAtual": 440137,
+      "canonicalPath": "/fipe/bmw/x3-m-competition-3-0-bi-tb-510cv-aut-2021-009256-8/",
+      "ano": 2021,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-x3-xdrive-20i-2-0-x-line-bi-tb-flex-aut-2020-gasolina",
+      "fipeCodigo": "009180-4",
+      "displayName": "BMW X3 XDRIVE 20i 2.0/X-Line Bi-TB Flex Aut.",
+      "valorAtual": 185523,
+      "canonicalPath": "/fipe/bmw/x3-xdrive-20i-2-0-x-line-bi-tb-flex-aut-2020-009180-4/",
+      "ano": 2020,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-x3-xdrive-30i-x-line-2-0-turbo-252cv-aut-2020-gasolina",
+      "fipeCodigo": "009228-2",
+      "displayName": "BMW X3 XDRIVE 30i X-Line 2.0 Turbo 252cv Aut",
+      "valorAtual": 194830,
+      "canonicalPath": "/fipe/bmw/x3-xdrive-30i-x-line-2-0-turbo-252cv-aut-2020-009228-2/",
+      "ano": 2020,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-x3-m40i-3-0-turbo-v6-aut-2020-gasolina",
+      "fipeCodigo": "009227-4",
+      "displayName": "BMW X3 M40i 3.0 Turbo V6  Aut.",
+      "valorAtual": 300983,
+      "canonicalPath": "/fipe/bmw/x3-m40i-3-0-turbo-v6-aut-2020-009227-4/",
+      "ano": 2020,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-x3-m-competition-3-0-bi-tb-510cv-aut-2020-gasolina",
+      "fipeCodigo": "009256-8",
+      "displayName": "BMW X3 M Competition 3.0 Bi-TB 510cv Aut.",
+      "valorAtual": 405215,
+      "canonicalPath": "/fipe/bmw/x3-m-competition-3-0-bi-tb-510cv-aut-2020-009256-8/",
+      "ano": 2020,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-x3-xdrive-20i-2-0-x-line-bi-tb-flex-aut-2019-gasolina",
+      "fipeCodigo": "009180-4",
+      "displayName": "BMW X3 XDRIVE 20i 2.0/X-Line Bi-TB Flex Aut.",
+      "valorAtual": 180998,
+      "canonicalPath": "/fipe/bmw/x3-xdrive-20i-2-0-x-line-bi-tb-flex-aut-2019-009180-4/",
+      "ano": 2019,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-x3-xdrive-30i-x-line-2-0-turbo-252cv-aut-2019-gasolina",
+      "fipeCodigo": "009228-2",
+      "displayName": "BMW X3 XDRIVE 30i X-Line 2.0 Turbo 252cv Aut",
+      "valorAtual": 182325,
+      "canonicalPath": "/fipe/bmw/x3-xdrive-30i-x-line-2-0-turbo-252cv-aut-2019-009228-2/",
+      "ano": 2019,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-x3-m40i-3-0-turbo-v6-aut-2019-gasolina",
+      "fipeCodigo": "009227-4",
+      "displayName": "BMW X3 M40i 3.0 Turbo V6  Aut.",
+      "valorAtual": 238566,
+      "canonicalPath": "/fipe/bmw/x3-m40i-3-0-turbo-v6-aut-2019-009227-4/",
+      "ano": 2019,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-x3-xdrive-20i-2-0-x-line-bi-tb-flex-aut-2018-gasolina",
+      "fipeCodigo": "009180-4",
+      "displayName": "BMW X3 XDRIVE 20i 2.0/X-Line Bi-TB Flex Aut.",
+      "valorAtual": 176583,
+      "canonicalPath": "/fipe/bmw/x3-xdrive-20i-2-0-x-line-bi-tb-flex-aut-2018-009180-4/",
+      "ano": 2018,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-x3-xdrive-30i-x-line-2-0-turbo-252cv-aut-2018-gasolina",
+      "fipeCodigo": "009228-2",
+      "displayName": "BMW X3 XDRIVE 30i X-Line 2.0 Turbo 252cv Aut",
+      "valorAtual": 177831,
+      "canonicalPath": "/fipe/bmw/x3-xdrive-30i-x-line-2-0-turbo-252cv-aut-2018-009228-2/",
+      "ano": 2018,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-x3-m40i-3-0-turbo-v6-aut-2018-gasolina",
+      "fipeCodigo": "009227-4",
+      "displayName": "BMW X3 M40i 3.0 Turbo V6  Aut.",
+      "valorAtual": 231814,
+      "canonicalPath": "/fipe/bmw/x3-m40i-3-0-turbo-v6-aut-2018-009227-4/",
+      "ano": 2018,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-x3-xdrive-20i-2-0-x-line-bi-tb-flex-aut-2017-gasolina",
+      "fipeCodigo": "009180-4",
+      "displayName": "BMW X3 XDRIVE 20i 2.0/X-Line Bi-TB Flex Aut.",
+      "valorAtual": 117764,
+      "canonicalPath": "/fipe/bmw/x3-xdrive-20i-2-0-x-line-bi-tb-flex-aut-2017-009180-4/",
+      "ano": 2017,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-x3-xdrive-35i-m-sport-3-0-306cv-bi-turbo-2017-gasolina",
+      "fipeCodigo": "009151-0",
+      "displayName": "BMW X3 XDRIVE 35i/M-Sport 3.0 306cv Bi-Turbo",
+      "valorAtual": 136074,
+      "canonicalPath": "/fipe/bmw/x3-xdrive-35i-m-sport-3-0-306cv-bi-turbo-2017-009151-0/",
+      "ano": 2017,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-x3-xdrive-20i-2-0-x-line-bi-tb-flex-aut-2016-gasolina",
+      "fipeCodigo": "009180-4",
+      "displayName": "BMW X3 XDRIVE 20i 2.0/X-Line Bi-TB Flex Aut.",
+      "valorAtual": 99795,
+      "canonicalPath": "/fipe/bmw/x3-xdrive-20i-2-0-x-line-bi-tb-flex-aut-2016-009180-4/",
+      "ano": 2016,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-x3-xdrive-35i-m-sport-3-0-306cv-bi-turbo-2016-gasolina",
+      "fipeCodigo": "009151-0",
+      "displayName": "BMW X3 XDRIVE 35i/M-Sport 3.0 306cv Bi-Turbo",
+      "valorAtual": 125592,
+      "canonicalPath": "/fipe/bmw/x3-xdrive-35i-m-sport-3-0-306cv-bi-turbo-2016-009151-0/",
+      "ano": 2016,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-x3-xdrive-28i-2-0-turbo-245cv-aut-2015-gasolina",
+      "fipeCodigo": "009175-8",
+      "displayName": "BMW X3 XDRIVE 28i 2.0 Turbo 245cv Aut.",
+      "valorAtual": 92329,
+      "canonicalPath": "/fipe/bmw/x3-xdrive-28i-2-0-turbo-245cv-aut-2015-009175-8/",
+      "ano": 2015,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-x3-xdrive-20i-2-0-x-line-bi-tb-flex-aut-2015-gasolina",
+      "fipeCodigo": "009180-4",
+      "displayName": "BMW X3 XDRIVE 20i 2.0/X-Line Bi-TB Flex Aut.",
+      "valorAtual": 94692,
+      "canonicalPath": "/fipe/bmw/x3-xdrive-20i-2-0-x-line-bi-tb-flex-aut-2015-009180-4/",
+      "ano": 2015,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-x3-xdrive-35i-m-sport-3-0-306cv-bi-turbo-2015-gasolina",
+      "fipeCodigo": "009151-0",
+      "displayName": "BMW X3 XDRIVE 35i/M-Sport 3.0 306cv Bi-Turbo",
+      "valorAtual": 121691,
+      "canonicalPath": "/fipe/bmw/x3-xdrive-35i-m-sport-3-0-306cv-bi-turbo-2015-009151-0/",
+      "ano": 2015,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-x3-xdrive-20i-2-0-x-line-bi-tb-flex-aut-2014-gasolina",
+      "fipeCodigo": "009180-4",
+      "displayName": "BMW X3 XDRIVE 20i 2.0/X-Line Bi-TB Flex Aut.",
+      "valorAtual": 83613,
+      "canonicalPath": "/fipe/bmw/x3-xdrive-20i-2-0-x-line-bi-tb-flex-aut-2014-009180-4/",
+      "ano": 2014,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-x3-xdrive-28i-2-0-turbo-245cv-aut-2014-gasolina",
+      "fipeCodigo": "009175-8",
+      "displayName": "BMW X3 XDRIVE 28i 2.0 Turbo 245cv Aut.",
+      "valorAtual": 85258,
+      "canonicalPath": "/fipe/bmw/x3-xdrive-28i-2-0-turbo-245cv-aut-2014-009175-8/",
+      "ano": 2014,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-x3-xdrive-35i-m-sport-3-0-306cv-bi-turbo-2014-gasolina",
+      "fipeCodigo": "009151-0",
+      "displayName": "BMW X3 XDRIVE 35i/M-Sport 3.0 306cv Bi-Turbo",
+      "valorAtual": 90464,
+      "canonicalPath": "/fipe/bmw/x3-xdrive-35i-m-sport-3-0-306cv-bi-turbo-2014-009151-0/",
+      "ano": 2014,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-x3-xdrive-20i-2-0-x-line-bi-tb-flex-aut-2013-gasolina",
+      "fipeCodigo": "009180-4",
+      "displayName": "BMW X3 XDRIVE 20i 2.0/X-Line Bi-TB Flex Aut.",
+      "valorAtual": 76228,
+      "canonicalPath": "/fipe/bmw/x3-xdrive-20i-2-0-x-line-bi-tb-flex-aut-2013-009180-4/",
+      "ano": 2013,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-x3-xdrive-28i-2-0-turbo-245cv-aut-2013-gasolina",
+      "fipeCodigo": "009175-8",
+      "displayName": "BMW X3 XDRIVE 28i 2.0 Turbo 245cv Aut.",
+      "valorAtual": 83178,
+      "canonicalPath": "/fipe/bmw/x3-xdrive-28i-2-0-turbo-245cv-aut-2013-009175-8/",
+      "ano": 2013,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-x3-xdrive-35i-m-sport-3-0-306cv-bi-turbo-2013-gasolina",
+      "fipeCodigo": "009151-0",
+      "displayName": "BMW X3 XDRIVE 35i/M-Sport 3.0 306cv Bi-Turbo",
+      "valorAtual": 88257,
+      "canonicalPath": "/fipe/bmw/x3-xdrive-35i-m-sport-3-0-306cv-bi-turbo-2013-009151-0/",
+      "ano": 2013,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-x3-xdrive-20i-2-0-x-line-bi-tb-flex-aut-2012-gasolina",
+      "fipeCodigo": "009180-4",
+      "displayName": "BMW X3 XDRIVE 20i 2.0/X-Line Bi-TB Flex Aut.",
+      "valorAtual": 67017,
+      "canonicalPath": "/fipe/bmw/x3-xdrive-20i-2-0-x-line-bi-tb-flex-aut-2012-009180-4/",
+      "ano": 2012,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-x3-xdrive-35i-m-sport-3-0-306cv-bi-turbo-2012-gasolina",
+      "fipeCodigo": "009151-0",
+      "displayName": "BMW X3 XDRIVE 35i/M-Sport 3.0 306cv Bi-Turbo",
+      "valorAtual": 83326,
+      "canonicalPath": "/fipe/bmw/x3-xdrive-35i-m-sport-3-0-306cv-bi-turbo-2012-009151-0/",
+      "ano": 2012,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-x3-xdrive-28i-3-0-258cv-2012-gasolina",
+      "fipeCodigo": "009156-1",
+      "displayName": "BMW X3 XDRIVE 28i 3.0 258cv",
+      "valorAtual": 89481,
+      "canonicalPath": "/fipe/bmw/x3-xdrive-28i-3-0-258cv-2012-009156-1/",
+      "ano": 2012,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-x3-xdrive-35i-m-sport-3-0-306cv-bi-turbo-2011-gasolina",
+      "fipeCodigo": "009151-0",
+      "displayName": "BMW X3 XDRIVE 35i/M-Sport 3.0 306cv Bi-Turbo",
+      "valorAtual": 73332,
+      "canonicalPath": "/fipe/bmw/x3-xdrive-35i-m-sport-3-0-306cv-bi-turbo-2011-009151-0/",
+      "ano": 2011,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-x3-xdrive-28i-3-0-258cv-2011-gasolina",
+      "fipeCodigo": "009156-1",
+      "displayName": "BMW X3 XDRIVE 28i 3.0 258cv",
+      "valorAtual": 77153,
+      "canonicalPath": "/fipe/bmw/x3-xdrive-28i-3-0-258cv-2011-009156-1/",
+      "ano": 2011,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-x3-sport-2-5-24v-192cv-218cv-2010-gasolina",
+      "fipeCodigo": "009118-9",
+      "displayName": "BMW X3 Sport 2.5 24V 192cv/ 218cv",
+      "valorAtual": 62974,
+      "canonicalPath": "/fipe/bmw/x3-sport-2-5-24v-192cv-218cv-2010-009118-9/",
+      "ano": 2010,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-x3-sport-3-0-24v-231cv-2010-gasolina",
+      "fipeCodigo": "009100-6",
+      "displayName": "BMW X3 Sport 3.0 24V 231cv",
+      "valorAtual": 63920,
+      "canonicalPath": "/fipe/bmw/x3-sport-3-0-24v-231cv-2010-009100-6/",
+      "ano": 2010,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-x3-sport-2-5-24v-192cv-218cv-2009-gasolina",
+      "fipeCodigo": "009118-9",
+      "displayName": "BMW X3 Sport 2.5 24V 192cv/ 218cv",
+      "valorAtual": 53214,
+      "canonicalPath": "/fipe/bmw/x3-sport-2-5-24v-192cv-218cv-2009-009118-9/",
+      "ano": 2009,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-x3-family-2-5-24v-192cv-218cv-2009-gasolina",
+      "fipeCodigo": "009104-9",
+      "displayName": "BMW X3 Family 2.5 24V 192cv/ 218cv",
+      "valorAtual": 55167,
+      "canonicalPath": "/fipe/bmw/x3-family-2-5-24v-192cv-218cv-2009-009104-9/",
+      "ano": 2009,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-x3-sport-3-0-24v-231cv-2009-gasolina",
+      "fipeCodigo": "009100-6",
+      "displayName": "BMW X3 Sport 3.0 24V 231cv",
+      "valorAtual": 57542,
+      "canonicalPath": "/fipe/bmw/x3-sport-3-0-24v-231cv-2009-009100-6/",
+      "ano": 2009,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-x3-sport-2-5-24v-192cv-218cv-2008-gasolina",
+      "fipeCodigo": "009118-9",
+      "displayName": "BMW X3 Sport 2.5 24V 192cv/ 218cv",
+      "valorAtual": 50168,
+      "canonicalPath": "/fipe/bmw/x3-sport-2-5-24v-192cv-218cv-2008-009118-9/",
+      "ano": 2008,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-x3-family-2-5-24v-192cv-218cv-2008-gasolina",
+      "fipeCodigo": "009104-9",
+      "displayName": "BMW X3 Family 2.5 24V 192cv/ 218cv",
+      "valorAtual": 51902,
+      "canonicalPath": "/fipe/bmw/x3-family-2-5-24v-192cv-218cv-2008-009104-9/",
+      "ano": 2008,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-x3-sport-3-0-24v-231cv-2008-gasolina",
+      "fipeCodigo": "009100-6",
+      "displayName": "BMW X3 Sport 3.0 24V 231cv",
+      "valorAtual": 56138,
+      "canonicalPath": "/fipe/bmw/x3-sport-3-0-24v-231cv-2008-009100-6/",
+      "ano": 2008,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-x3-sport-2-5-24v-192cv-218cv-2007-gasolina",
+      "fipeCodigo": "009118-9",
+      "displayName": "BMW X3 Sport 2.5 24V 192cv/ 218cv",
+      "valorAtual": 40137,
+      "canonicalPath": "/fipe/bmw/x3-sport-2-5-24v-192cv-218cv-2007-009118-9/",
+      "ano": 2007,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-x3-family-2-5-24v-192cv-218cv-2007-gasolina",
+      "fipeCodigo": "009104-9",
+      "displayName": "BMW X3 Family 2.5 24V 192cv/ 218cv",
+      "valorAtual": 49635,
+      "canonicalPath": "/fipe/bmw/x3-family-2-5-24v-192cv-218cv-2007-009104-9/",
+      "ano": 2007,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-x3-sport-3-0-24v-231cv-2007-gasolina",
+      "fipeCodigo": "009100-6",
+      "displayName": "BMW X3 Sport 3.0 24V 231cv",
+      "valorAtual": 54768,
+      "canonicalPath": "/fipe/bmw/x3-sport-3-0-24v-231cv-2007-009100-6/",
+      "ano": 2007,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-x3-sport-2-5-24v-192cv-218cv-2006-gasolina",
+      "fipeCodigo": "009118-9",
+      "displayName": "BMW X3 Sport 2.5 24V 192cv/ 218cv",
+      "valorAtual": 36645,
+      "canonicalPath": "/fipe/bmw/x3-sport-2-5-24v-192cv-218cv-2006-009118-9/",
+      "ano": 2006,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-x3-sport-3-0-24v-231cv-2006-gasolina",
+      "fipeCodigo": "009100-6",
+      "displayName": "BMW X3 Sport 3.0 24V 231cv",
+      "valorAtual": 41024,
+      "canonicalPath": "/fipe/bmw/x3-sport-3-0-24v-231cv-2006-009100-6/",
+      "ano": 2006,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-x3-family-2-5-24v-192cv-218cv-2006-gasolina",
+      "fipeCodigo": "009104-9",
+      "displayName": "BMW X3 Family 2.5 24V 192cv/ 218cv",
+      "valorAtual": 47250,
+      "canonicalPath": "/fipe/bmw/x3-family-2-5-24v-192cv-218cv-2006-009104-9/",
+      "ano": 2006,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-x3-family-3-0-24v-231cv-2006-gasolina",
+      "fipeCodigo": "009101-4",
+      "displayName": "BMW X3 Family 3.0 24V 231cv",
+      "valorAtual": 47815,
+      "canonicalPath": "/fipe/bmw/x3-family-3-0-24v-231cv-2006-009101-4/",
+      "ano": 2006,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-x3-sport-3-0-24v-231cv-2005-gasolina",
+      "fipeCodigo": "009100-6",
+      "displayName": "BMW X3 Sport 3.0 24V 231cv",
+      "valorAtual": 40023,
+      "canonicalPath": "/fipe/bmw/x3-sport-3-0-24v-231cv-2005-009100-6/",
+      "ano": 2005,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-x3-family-2-5-24v-192cv-218cv-2005-gasolina",
+      "fipeCodigo": "009104-9",
+      "displayName": "BMW X3 Family 2.5 24V 192cv/ 218cv",
+      "valorAtual": 46097,
+      "canonicalPath": "/fipe/bmw/x3-family-2-5-24v-192cv-218cv-2005-009104-9/",
+      "ano": 2005,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-x3-family-3-0-24v-231cv-2005-gasolina",
+      "fipeCodigo": "009101-4",
+      "displayName": "BMW X3 Family 3.0 24V 231cv",
+      "valorAtual": 46601,
+      "canonicalPath": "/fipe/bmw/x3-family-3-0-24v-231cv-2005-009101-4/",
+      "ano": 2005,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-x3-sport-3-0-24v-231cv-2004-gasolina",
+      "fipeCodigo": "009100-6",
+      "displayName": "BMW X3 Sport 3.0 24V 231cv",
+      "valorAtual": 37336,
+      "canonicalPath": "/fipe/bmw/x3-sport-3-0-24v-231cv-2004-009100-6/",
+      "ano": 2004,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-x3-family-2-5-24v-192cv-218cv-2004-gasolina",
+      "fipeCodigo": "009104-9",
+      "displayName": "BMW X3 Family 2.5 24V 192cv/ 218cv",
+      "valorAtual": 37951,
+      "canonicalPath": "/fipe/bmw/x3-family-2-5-24v-192cv-218cv-2004-009104-9/",
+      "ano": 2004,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-x3-family-3-0-24v-231cv-2004-gasolina",
+      "fipeCodigo": "009101-4",
+      "displayName": "BMW X3 Family 3.0 24V 231cv",
+      "valorAtual": 45342,
+      "canonicalPath": "/fipe/bmw/x3-family-3-0-24v-231cv-2004-009101-4/",
+      "ano": 2004,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-x3-xdrive-30-m-sport-2-0-tb-aut-0-hibrido",
+      "fipeCodigo": "009327-0",
+      "displayName": "BMW X3 XDRIVE 30 M Sport 2.0 TB Aut.",
+      "valorAtual": 515118,
+      "canonicalPath": "/fipe/bmw/x3-xdrive-30-m-sport-2-0-tb-aut-0-009327-0/",
+      "ano": 0,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-x3-m50-xdrive-3-0-v6-aut-hibrido-0-hibrido",
+      "fipeCodigo": "009325-4",
+      "displayName": "BMW X3 M50 XDRIVE 3.0 V6 Aut. (Híbrido)",
+      "valorAtual": 645058,
+      "canonicalPath": "/fipe/bmw/x3-m50-xdrive-3-0-v6-aut-hibrido-0-009325-4/",
+      "ano": 0,
+      "marca": "BMW"
+    }
+  ],
+  "stats": {
+    "total": 70,
+    "precoMin": 36645,
+    "precoMax": 645058,
+    "anos": [
+      2026,
+      2025,
+      2024,
+      2023,
+      2022,
+      2021,
+      2020,
+      2019,
+      2018,
+      2017,
+      2016,
+      2015,
+      2014,
+      2013,
+      2012,
+      2011,
+      2010,
+      2009,
+      2008,
+      2007,
+      2006,
+      2005,
+      2004,
+      0
+    ]
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "tipo": "geracao",
+  "slug": "3200-1",
+  "canonicalPath": "/geracao/maserati/3200-1/",
+  "titulo": "Geracao 3200-1",
+  "descricao": "7 veiculos da geracao 3200-1.",
+  "seo": {
+    "title": "Geracao 3200-1 - Precos FIPE",
+    "description": "Veiculos da geracao 3200-1 na Tabela FIPE.",
+    "h1": "Geracao 3200-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/maserati/3200-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "maserati-3200-gt-cupe-1999-gasolina",
+      "fipeCodigo": "034001-4",
+      "displayName": "Maserati 3200 GT Cupê",
+      "valorAtual": 86266,
+      "canonicalPath": "/fipe/maserati/3200-gt-cupe-1999-034001-4/",
+      "ano": 1999,
+      "marca": "Maserati"
+    },
+    {
+      "vehicleId": "maserati-3200-gt-cupe-2000-gasolina",
+      "fipeCodigo": "034001-4",
+      "displayName": "Maserati 3200 GT Cupê",
+      "valorAtual": 119920,
+      "canonicalPath": "/fipe/maserati/3200-gt-cupe-2000-034001-4/",
+      "ano": 2000,
+      "marca": "Maserati"
+    },
+    {
+      "vehicleId": "maserati-3200-gt-cupe-2001-gasolina",
+      "fipeCodigo": "034001-4",
+      "displayName": "Maserati 3200 GT Cupê",
+      "valorAtual": 122918,
+      "canonicalPath": "/fipe/maserati/3200-gt-cupe-2001-034001-4/",
+      "ano": 2001,
+      "marca": "Maserati"
+    },
+    {
+      "vehicleId": "maserati-3200-gt-cupe-aut-1999-gasolina",
+      "fipeCodigo": "034011-1",
+      "displayName": "Maserati 3200 GT Cupê Aut.",
+      "valorAtual": 88888,
+      "canonicalPath": "/fipe/maserati/3200-gt-cupe-aut-1999-034011-1/",
+      "ano": 1999,
+      "marca": "Maserati"
+    },
+    {
+      "vehicleId": "maserati-3200-gt-cupe-aut-2000-gasolina",
+      "fipeCodigo": "034011-1",
+      "displayName": "Maserati 3200 GT Cupê Aut.",
+      "valorAtual": 127802,
+      "canonicalPath": "/fipe/maserati/3200-gt-cupe-aut-2000-034011-1/",
+      "ano": 2000,
+      "marca": "Maserati"
+    },
+    {
+      "vehicleId": "maserati-3200-gt-cupe-aut-2001-gasolina",
+      "fipeCodigo": "034011-1",
+      "displayName": "Maserati 3200 GT Cupê Aut.",
+      "valorAtual": 148635,
+      "canonicalPath": "/fipe/maserati/3200-gt-cupe-aut-2001-034011-1/",
+      "ano": 2001,
+      "marca": "Maserati"
+    },
+    {
+      "vehicleId": "maserati-3200-gt-cupe-aut-2002-gasolina",
+      "fipeCodigo": "034011-1",
+      "displayName": "Maserati 3200 GT Cupê Aut.",
+      "valorAtual": 152351,
+      "canonicalPath": "/fipe/maserati/3200-gt-cupe-aut-2002-034011-1/",
+      "ano": 2002,
+      "marca": "Maserati"
+    }
+  ],
+  "stats": {
+    "total": 7
+  },
+  "meta": {
+    "geracaoId": "3200-1"
+  }
+}

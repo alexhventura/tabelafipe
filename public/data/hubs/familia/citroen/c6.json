@@ -1,0 +1,52 @@
+{
+  "tipo": "familia",
+  "slug": "c6",
+  "canonicalPath": "/fipe/citroen/c6/",
+  "titulo": "Citroën c6 - Tabela FIPE",
+  "descricao": "3 versoes e anos do Citroën c6 na Tabela FIPE.",
+  "seo": {
+    "title": "Citroën c6 - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes Citroën c6. 3 veiculos indexados.",
+    "h1": "Citroën c6 - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/citroen/c6/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "citroen-c6-exclusive-3-0-v6-24v-215cv-aut-2008-gasolina",
+      "fipeCodigo": "011084-1",
+      "displayName": "Citroën C6 Exclusive 3.0 V6 24V 215cv Aut.",
+      "valorAtual": 92689,
+      "canonicalPath": "/fipe/citroen/c6-exclusive-3-0-v6-24v-215cv-aut-2008-011084-1/",
+      "ano": 2008,
+      "marca": "Citroën"
+    },
+    {
+      "vehicleId": "citroen-c6-exclusive-3-0-v6-24v-215cv-aut-2007-gasolina",
+      "fipeCodigo": "011084-1",
+      "displayName": "Citroën C6 Exclusive 3.0 V6 24V 215cv Aut.",
+      "valorAtual": 49854,
+      "canonicalPath": "/fipe/citroen/c6-exclusive-3-0-v6-24v-215cv-aut-2007-011084-1/",
+      "ano": 2007,
+      "marca": "Citroën"
+    },
+    {
+      "vehicleId": "citroen-c6-exclusive-3-0-v6-24v-215cv-aut-2006-gasolina",
+      "fipeCodigo": "011084-1",
+      "displayName": "Citroën C6 Exclusive 3.0 V6 24V 215cv Aut.",
+      "valorAtual": 34842,
+      "canonicalPath": "/fipe/citroen/c6-exclusive-3-0-v6-24v-215cv-aut-2006-011084-1/",
+      "ano": 2006,
+      "marca": "Citroën"
+    }
+  ],
+  "stats": {
+    "total": 3,
+    "precoMin": 34842,
+    "precoMax": 92689,
+    "anos": [
+      2008,
+      2007,
+      2006
+    ]
+  }
+}

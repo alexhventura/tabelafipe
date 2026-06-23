@@ -1,0 +1,741 @@
+{
+  "tipo": "geracao",
+  "slug": "a3-2",
+  "canonicalPath": "/geracao/audi/a3-2/",
+  "titulo": "Geracao a3-2",
+  "descricao": "199 veiculos da geracao a3-2.",
+  "seo": {
+    "title": "Geracao a3-2 - Precos FIPE",
+    "description": "Veiculos da geracao a3-2 na Tabela FIPE.",
+    "h1": "Geracao a3-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/audi/a3-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "audi-a3-1-6-3p-1999-gasolina",
+      "fipeCodigo": "008032-2",
+      "displayName": "Audi A3 1.6 3p",
+      "valorAtual": 14830,
+      "canonicalPath": "/fipe/audi/a3-1-6-3p-1999-008032-2/",
+      "ano": 1999,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-a3-1-6-3p-2000-gasolina",
+      "fipeCodigo": "008032-2",
+      "displayName": "Audi A3 1.6 3p",
+      "valorAtual": 16005,
+      "canonicalPath": "/fipe/audi/a3-1-6-3p-2000-008032-2/",
+      "ano": 2000,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-a3-1-6-3p-2001-gasolina",
+      "fipeCodigo": "008032-2",
+      "displayName": "Audi A3 1.6 3p",
+      "valorAtual": 18767,
+      "canonicalPath": "/fipe/audi/a3-1-6-3p-2001-008032-2/",
+      "ano": 2001,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-a3-1-6-3p-2002-gasolina",
+      "fipeCodigo": "008032-2",
+      "displayName": "Audi A3 1.6 3p",
+      "valorAtual": 19780,
+      "canonicalPath": "/fipe/audi/a3-1-6-3p-2002-008032-2/",
+      "ano": 2002,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-a3-1-6-3p-2003-gasolina",
+      "fipeCodigo": "008032-2",
+      "displayName": "Audi A3 1.6 3p",
+      "valorAtual": 20342,
+      "canonicalPath": "/fipe/audi/a3-1-6-3p-2003-008032-2/",
+      "ano": 2003,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-a3-1-6-3p-aut-1999-gasolina",
+      "fipeCodigo": "008056-0",
+      "displayName": "Audi A3 1.6 3p Aut.",
+      "valorAtual": 14910,
+      "canonicalPath": "/fipe/audi/a3-1-6-3p-aut-1999-008056-0/",
+      "ano": 1999,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-a3-1-6-3p-aut-2000-gasolina",
+      "fipeCodigo": "008056-0",
+      "displayName": "Audi A3 1.6 3p Aut.",
+      "valorAtual": 16072,
+      "canonicalPath": "/fipe/audi/a3-1-6-3p-aut-2000-008056-0/",
+      "ano": 2000,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-a3-1-6-3p-aut-2001-gasolina",
+      "fipeCodigo": "008056-0",
+      "displayName": "Audi A3 1.6 3p Aut.",
+      "valorAtual": 19169,
+      "canonicalPath": "/fipe/audi/a3-1-6-3p-aut-2001-008056-0/",
+      "ano": 2001,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-a3-1-6-3p-aut-2002-gasolina",
+      "fipeCodigo": "008056-0",
+      "displayName": "Audi A3 1.6 3p Aut.",
+      "valorAtual": 20347,
+      "canonicalPath": "/fipe/audi/a3-1-6-3p-aut-2002-008056-0/",
+      "ano": 2002,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-a3-1-6-3p-aut-2003-gasolina",
+      "fipeCodigo": "008056-0",
+      "displayName": "Audi A3 1.6 3p Aut.",
+      "valorAtual": 20955,
+      "canonicalPath": "/fipe/audi/a3-1-6-3p-aut-2003-008056-0/",
+      "ano": 2003,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-a3-1-6-5p-1999-gasolina",
+      "fipeCodigo": "008040-3",
+      "displayName": "Audi A3 1.6 5p",
+      "valorAtual": 17061,
+      "canonicalPath": "/fipe/audi/a3-1-6-5p-1999-008040-3/",
+      "ano": 1999,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-a3-1-6-5p-2000-gasolina",
+      "fipeCodigo": "008040-3",
+      "displayName": "Audi A3 1.6 5p",
+      "valorAtual": 19318,
+      "canonicalPath": "/fipe/audi/a3-1-6-5p-2000-008040-3/",
+      "ano": 2000,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-a3-1-6-5p-2001-gasolina",
+      "fipeCodigo": "008040-3",
+      "displayName": "Audi A3 1.6 5p",
+      "valorAtual": 20983,
+      "canonicalPath": "/fipe/audi/a3-1-6-5p-2001-008040-3/",
+      "ano": 2001,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-a3-1-6-5p-2002-gasolina",
+      "fipeCodigo": "008040-3",
+      "displayName": "Audi A3 1.6 5p",
+      "valorAtual": 22270,
+      "canonicalPath": "/fipe/audi/a3-1-6-5p-2002-008040-3/",
+      "ano": 2002,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-a3-1-6-5p-2003-gasolina",
+      "fipeCodigo": "008040-3",
+      "displayName": "Audi A3 1.6 5p",
+      "valorAtual": 23964,
+      "canonicalPath": "/fipe/audi/a3-1-6-5p-2003-008040-3/",
+      "ano": 2003,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-a3-1-6-5p-2004-gasolina",
+      "fipeCodigo": "008040-3",
+      "displayName": "Audi A3 1.6 5p",
+      "valorAtual": 24564,
+      "canonicalPath": "/fipe/audi/a3-1-6-5p-2004-008040-3/",
+      "ano": 2004,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-a3-1-6-5p-2005-gasolina",
+      "fipeCodigo": "008040-3",
+      "displayName": "Audi A3 1.6 5p",
+      "valorAtual": 27812,
+      "canonicalPath": "/fipe/audi/a3-1-6-5p-2005-008040-3/",
+      "ano": 2005,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-a3-1-6-5p-2006-gasolina",
+      "fipeCodigo": "008040-3",
+      "displayName": "Audi A3 1.6 5p",
+      "valorAtual": 29921,
+      "canonicalPath": "/fipe/audi/a3-1-6-5p-2006-008040-3/",
+      "ano": 2006,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-a3-1-6-5p-aut-1999-gasolina",
+      "fipeCodigo": "008057-8",
+      "displayName": "Audi A3 1.6 5p Aut.",
+      "valorAtual": 17279,
+      "canonicalPath": "/fipe/audi/a3-1-6-5p-aut-1999-008057-8/",
+      "ano": 1999,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-a3-1-6-5p-aut-2000-gasolina",
+      "fipeCodigo": "008057-8",
+      "displayName": "Audi A3 1.6 5p Aut.",
+      "valorAtual": 19510,
+      "canonicalPath": "/fipe/audi/a3-1-6-5p-aut-2000-008057-8/",
+      "ano": 2000,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-a3-1-6-5p-aut-2001-gasolina",
+      "fipeCodigo": "008057-8",
+      "displayName": "Audi A3 1.6 5p Aut.",
+      "valorAtual": 21442,
+      "canonicalPath": "/fipe/audi/a3-1-6-5p-aut-2001-008057-8/",
+      "ano": 2001,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-a3-1-6-5p-aut-2002-gasolina",
+      "fipeCodigo": "008057-8",
+      "displayName": "Audi A3 1.6 5p Aut.",
+      "valorAtual": 22812,
+      "canonicalPath": "/fipe/audi/a3-1-6-5p-aut-2002-008057-8/",
+      "ano": 2002,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-a3-1-6-5p-aut-2003-gasolina",
+      "fipeCodigo": "008057-8",
+      "displayName": "Audi A3 1.6 5p Aut.",
+      "valorAtual": 28314,
+      "canonicalPath": "/fipe/audi/a3-1-6-5p-aut-2003-008057-8/",
+      "ano": 2003,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-a3-1-6-8v-102cv-3p-2007-gasolina",
+      "fipeCodigo": "008116-7",
+      "displayName": "Audi A3 1.6 8V 102cv 3p",
+      "valorAtual": 38491,
+      "canonicalPath": "/fipe/audi/a3-1-6-8v-102cv-3p-2007-008116-7/",
+      "ano": 2007,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-a3-1-8-3p-1997-gasolina",
+      "fipeCodigo": "008005-5",
+      "displayName": "Audi A3 1.8 3p",
+      "valorAtual": 16190,
+      "canonicalPath": "/fipe/audi/a3-1-8-3p-1997-008005-5/",
+      "ano": 1997,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-a3-1-8-3p-1998-gasolina",
+      "fipeCodigo": "008005-5",
+      "displayName": "Audi A3 1.8 3p",
+      "valorAtual": 16705,
+      "canonicalPath": "/fipe/audi/a3-1-8-3p-1998-008005-5/",
+      "ano": 1998,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-a3-1-8-3p-1999-gasolina",
+      "fipeCodigo": "008005-5",
+      "displayName": "Audi A3 1.8 3p",
+      "valorAtual": 17275,
+      "canonicalPath": "/fipe/audi/a3-1-8-3p-1999-008005-5/",
+      "ano": 1999,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-a3-1-8-3p-2000-gasolina",
+      "fipeCodigo": "008005-5",
+      "displayName": "Audi A3 1.8 3p",
+      "valorAtual": 17973,
+      "canonicalPath": "/fipe/audi/a3-1-8-3p-2000-008005-5/",
+      "ano": 2000,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-a3-1-8-3p-2001-gasolina",
+      "fipeCodigo": "008005-5",
+      "displayName": "Audi A3 1.8 3p",
+      "valorAtual": 18812,
+      "canonicalPath": "/fipe/audi/a3-1-8-3p-2001-008005-5/",
+      "ano": 2001,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-a3-1-8-3p-2002-gasolina",
+      "fipeCodigo": "008005-5",
+      "displayName": "Audi A3 1.8 3p",
+      "valorAtual": 20965,
+      "canonicalPath": "/fipe/audi/a3-1-8-3p-2002-008005-5/",
+      "ano": 2002,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-a3-1-8-3p-2003-gasolina",
+      "fipeCodigo": "008005-5",
+      "displayName": "Audi A3 1.8 3p",
+      "valorAtual": 24757,
+      "canonicalPath": "/fipe/audi/a3-1-8-3p-2003-008005-5/",
+      "ano": 2003,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-a3-1-8-3p-2004-gasolina",
+      "fipeCodigo": "008005-5",
+      "displayName": "Audi A3 1.8 3p",
+      "valorAtual": 25376,
+      "canonicalPath": "/fipe/audi/a3-1-8-3p-2004-008005-5/",
+      "ano": 2004,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-a3-1-8-3p-aut-1997-gasolina",
+      "fipeCodigo": "008043-8",
+      "displayName": "Audi A3 1.8 3p Aut.",
+      "valorAtual": 16201,
+      "canonicalPath": "/fipe/audi/a3-1-8-3p-aut-1997-008043-8/",
+      "ano": 1997,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-a3-1-8-3p-aut-1998-gasolina",
+      "fipeCodigo": "008043-8",
+      "displayName": "Audi A3 1.8 3p Aut.",
+      "valorAtual": 16801,
+      "canonicalPath": "/fipe/audi/a3-1-8-3p-aut-1998-008043-8/",
+      "ano": 1998,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-a3-1-8-3p-aut-1999-gasolina",
+      "fipeCodigo": "008043-8",
+      "displayName": "Audi A3 1.8 3p Aut.",
+      "valorAtual": 17457,
+      "canonicalPath": "/fipe/audi/a3-1-8-3p-aut-1999-008043-8/",
+      "ano": 1999,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-a3-1-8-3p-aut-2000-gasolina",
+      "fipeCodigo": "008043-8",
+      "displayName": "Audi A3 1.8 3p Aut.",
+      "valorAtual": 18020,
+      "canonicalPath": "/fipe/audi/a3-1-8-3p-aut-2000-008043-8/",
+      "ano": 2000,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-a3-1-8-3p-aut-2001-gasolina",
+      "fipeCodigo": "008043-8",
+      "displayName": "Audi A3 1.8 3p Aut.",
+      "valorAtual": 18866,
+      "canonicalPath": "/fipe/audi/a3-1-8-3p-aut-2001-008043-8/",
+      "ano": 2001,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-a3-1-8-3p-aut-2002-gasolina",
+      "fipeCodigo": "008043-8",
+      "displayName": "Audi A3 1.8 3p Aut.",
+      "valorAtual": 20989,
+      "canonicalPath": "/fipe/audi/a3-1-8-3p-aut-2002-008043-8/",
+      "ano": 2002,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-a3-1-8-3p-aut-2003-gasolina",
+      "fipeCodigo": "008043-8",
+      "displayName": "Audi A3 1.8 3p Aut.",
+      "valorAtual": 26087,
+      "canonicalPath": "/fipe/audi/a3-1-8-3p-aut-2003-008043-8/",
+      "ano": 2003,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-a3-1-8-3p-aut-2004-gasolina",
+      "fipeCodigo": "008043-8",
+      "displayName": "Audi A3 1.8 3p Aut.",
+      "valorAtual": 26740,
+      "canonicalPath": "/fipe/audi/a3-1-8-3p-aut-2004-008043-8/",
+      "ano": 2004,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-a3-1-8-5p-aut-1997-gasolina",
+      "fipeCodigo": "008042-0",
+      "displayName": "Audi A3 1.8 5p Aut.",
+      "valorAtual": 16263,
+      "canonicalPath": "/fipe/audi/a3-1-8-5p-aut-1997-008042-0/",
+      "ano": 1997,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-a3-1-8-5p-aut-1998-gasolina",
+      "fipeCodigo": "008042-0",
+      "displayName": "Audi A3 1.8 5p Aut.",
+      "valorAtual": 17021,
+      "canonicalPath": "/fipe/audi/a3-1-8-5p-aut-1998-008042-0/",
+      "ano": 1998,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-a3-1-8-5p-aut-1999-gasolina",
+      "fipeCodigo": "008042-0",
+      "displayName": "Audi A3 1.8 5p Aut.",
+      "valorAtual": 18658,
+      "canonicalPath": "/fipe/audi/a3-1-8-5p-aut-1999-008042-0/",
+      "ano": 1999,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-a3-1-8-5p-aut-2000-gasolina",
+      "fipeCodigo": "008042-0",
+      "displayName": "Audi A3 1.8 5p Aut.",
+      "valorAtual": 20421,
+      "canonicalPath": "/fipe/audi/a3-1-8-5p-aut-2000-008042-0/",
+      "ano": 2000,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-a3-1-8-5p-aut-2001-gasolina",
+      "fipeCodigo": "008042-0",
+      "displayName": "Audi A3 1.8 5p Aut.",
+      "valorAtual": 22155,
+      "canonicalPath": "/fipe/audi/a3-1-8-5p-aut-2001-008042-0/",
+      "ano": 2001,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-a3-1-8-5p-aut-2002-gasolina",
+      "fipeCodigo": "008042-0",
+      "displayName": "Audi A3 1.8 5p Aut.",
+      "valorAtual": 22822,
+      "canonicalPath": "/fipe/audi/a3-1-8-5p-aut-2002-008042-0/",
+      "ano": 2002,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-a3-1-8-5p-aut-2003-gasolina",
+      "fipeCodigo": "008042-0",
+      "displayName": "Audi A3 1.8 5p Aut.",
+      "valorAtual": 26665,
+      "canonicalPath": "/fipe/audi/a3-1-8-5p-aut-2003-008042-0/",
+      "ano": 2003,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-a3-1-8-5p-aut-2004-gasolina",
+      "fipeCodigo": "008042-0",
+      "displayName": "Audi A3 1.8 5p Aut.",
+      "valorAtual": 27332,
+      "canonicalPath": "/fipe/audi/a3-1-8-5p-aut-2004-008042-0/",
+      "ano": 2004,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-a3-1-8-5p-aut-2005-gasolina",
+      "fipeCodigo": "008042-0",
+      "displayName": "Audi A3 1.8 5p Aut.",
+      "valorAtual": 28741,
+      "canonicalPath": "/fipe/audi/a3-1-8-5p-aut-2005-008042-0/",
+      "ano": 2005,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-a3-1-8-5p-aut-2006-gasolina",
+      "fipeCodigo": "008042-0",
+      "displayName": "Audi A3 1.8 5p Aut.",
+      "valorAtual": 37293,
+      "canonicalPath": "/fipe/audi/a3-1-8-5p-aut-2006-008042-0/",
+      "ano": 2006,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-a3-1-8-5p-mec-1997-gasolina",
+      "fipeCodigo": "008041-1",
+      "displayName": "Audi A3 1.8 5p Mec.",
+      "valorAtual": 16252,
+      "canonicalPath": "/fipe/audi/a3-1-8-5p-mec-1997-008041-1/",
+      "ano": 1997,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-a3-1-8-5p-mec-1998-gasolina",
+      "fipeCodigo": "008041-1",
+      "displayName": "Audi A3 1.8 5p Mec.",
+      "valorAtual": 16960,
+      "canonicalPath": "/fipe/audi/a3-1-8-5p-mec-1998-008041-1/",
+      "ano": 1998,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-a3-1-8-5p-mec-1999-gasolina",
+      "fipeCodigo": "008041-1",
+      "displayName": "Audi A3 1.8 5p Mec.",
+      "valorAtual": 18286,
+      "canonicalPath": "/fipe/audi/a3-1-8-5p-mec-1999-008041-1/",
+      "ano": 1999,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-a3-1-8-5p-mec-2000-gasolina",
+      "fipeCodigo": "008041-1",
+      "displayName": "Audi A3 1.8 5p Mec.",
+      "valorAtual": 19822,
+      "canonicalPath": "/fipe/audi/a3-1-8-5p-mec-2000-008041-1/",
+      "ano": 2000,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-a3-1-8-5p-mec-2001-gasolina",
+      "fipeCodigo": "008041-1",
+      "displayName": "Audi A3 1.8 5p Mec.",
+      "valorAtual": 22040,
+      "canonicalPath": "/fipe/audi/a3-1-8-5p-mec-2001-008041-1/",
+      "ano": 2001,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-a3-1-8-5p-mec-2002-gasolina",
+      "fipeCodigo": "008041-1",
+      "displayName": "Audi A3 1.8 5p Mec.",
+      "valorAtual": 22591,
+      "canonicalPath": "/fipe/audi/a3-1-8-5p-mec-2002-008041-1/",
+      "ano": 2002,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-a3-1-8-5p-mec-2003-gasolina",
+      "fipeCodigo": "008041-1",
+      "displayName": "Audi A3 1.8 5p Mec.",
+      "valorAtual": 25176,
+      "canonicalPath": "/fipe/audi/a3-1-8-5p-mec-2003-008041-1/",
+      "ano": 2003,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-a3-1-8-5p-mec-2004-gasolina",
+      "fipeCodigo": "008041-1",
+      "displayName": "Audi A3 1.8 5p Mec.",
+      "valorAtual": 26303,
+      "canonicalPath": "/fipe/audi/a3-1-8-5p-mec-2004-008041-1/",
+      "ano": 2004,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-a3-1-8-5p-mec-2005-gasolina",
+      "fipeCodigo": "008041-1",
+      "displayName": "Audi A3 1.8 5p Mec.",
+      "valorAtual": 28248,
+      "canonicalPath": "/fipe/audi/a3-1-8-5p-mec-2005-008041-1/",
+      "ano": 2005,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-a3-1-8-5p-mec-2006-gasolina",
+      "fipeCodigo": "008041-1",
+      "displayName": "Audi A3 1.8 5p Mec.",
+      "valorAtual": 29479,
+      "canonicalPath": "/fipe/audi/a3-1-8-5p-mec-2006-008041-1/",
+      "ano": 2006,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-a3-1-8-turbo-180cv-3p-aut-tip-2002-gasolina",
+      "fipeCodigo": "008073-0",
+      "displayName": "Audi A3 1.8 Turbo 180cv 3p Aut./ Tip.",
+      "valorAtual": 20977,
+      "canonicalPath": "/fipe/audi/a3-1-8-turbo-180cv-3p-aut-tip-2002-008073-0/",
+      "ano": 2002,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-a3-1-8-turbo-180cv-3p-aut-tip-2003-gasolina",
+      "fipeCodigo": "008073-0",
+      "displayName": "Audi A3 1.8 Turbo 180cv 3p Aut./ Tip.",
+      "valorAtual": 26655,
+      "canonicalPath": "/fipe/audi/a3-1-8-turbo-180cv-3p-aut-tip-2003-008073-0/",
+      "ano": 2003,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-a3-1-8-turbo-180cv-3p-mec-2000-gasolina",
+      "fipeCodigo": "008074-8",
+      "displayName": "Audi A3 1.8 Turbo 180cv 3p Mec.",
+      "valorAtual": 16211,
+      "canonicalPath": "/fipe/audi/a3-1-8-turbo-180cv-3p-mec-2000-008074-8/",
+      "ano": 2000,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-a3-1-8-turbo-180cv-3p-mec-2001-gasolina",
+      "fipeCodigo": "008074-8",
+      "displayName": "Audi A3 1.8 Turbo 180cv 3p Mec.",
+      "valorAtual": 18490,
+      "canonicalPath": "/fipe/audi/a3-1-8-turbo-180cv-3p-mec-2001-008074-8/",
+      "ano": 2001,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-a3-1-8-turbo-180cv-3p-mec-2002-gasolina",
+      "fipeCodigo": "008074-8",
+      "displayName": "Audi A3 1.8 Turbo 180cv 3p Mec.",
+      "valorAtual": 20067,
+      "canonicalPath": "/fipe/audi/a3-1-8-turbo-180cv-3p-mec-2002-008074-8/",
+      "ano": 2002,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-a3-1-8-turbo-180cv-3p-mec-2003-gasolina",
+      "fipeCodigo": "008074-8",
+      "displayName": "Audi A3 1.8 Turbo 180cv 3p Mec.",
+      "valorAtual": 22169,
+      "canonicalPath": "/fipe/audi/a3-1-8-turbo-180cv-3p-mec-2003-008074-8/",
+      "ano": 2003,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-a3-1-8-turbo-180cv-3p-mec-2004-gasolina",
+      "fipeCodigo": "008074-8",
+      "displayName": "Audi A3 1.8 Turbo 180cv 3p Mec.",
+      "valorAtual": 24012,
+      "canonicalPath": "/fipe/audi/a3-1-8-turbo-180cv-3p-mec-2004-008074-8/",
+      "ano": 2004,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-a3-1-8-turbo-180cv-5p-aut-tip-2002-gasolina",
+      "fipeCodigo": "008071-3",
+      "displayName": "Audi A3 1.8 Turbo 180cv 5p Aut./ Tip.",
+      "valorAtual": 25318,
+      "canonicalPath": "/fipe/audi/a3-1-8-turbo-180cv-5p-aut-tip-2002-008071-3/",
+      "ano": 2002,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-a3-1-8-turbo-180cv-5p-aut-tip-2003-gasolina",
+      "fipeCodigo": "008071-3",
+      "displayName": "Audi A3 1.8 Turbo 180cv 5p Aut./ Tip.",
+      "valorAtual": 26837,
+      "canonicalPath": "/fipe/audi/a3-1-8-turbo-180cv-5p-aut-tip-2003-008071-3/",
+      "ano": 2003,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-a3-1-8-turbo-180cv-5p-aut-tip-2004-gasolina",
+      "fipeCodigo": "008071-3",
+      "displayName": "Audi A3 1.8 Turbo 180cv 5p Aut./ Tip.",
+      "valorAtual": 28077,
+      "canonicalPath": "/fipe/audi/a3-1-8-turbo-180cv-5p-aut-tip-2004-008071-3/",
+      "ano": 2004,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-a3-1-8-turbo-180cv-5p-aut-tip-2005-gasolina",
+      "fipeCodigo": "008071-3",
+      "displayName": "Audi A3 1.8 Turbo 180cv 5p Aut./ Tip.",
+      "valorAtual": 34838,
+      "canonicalPath": "/fipe/audi/a3-1-8-turbo-180cv-5p-aut-tip-2005-008071-3/",
+      "ano": 2005,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-a3-1-8-turbo-180cv-5p-aut-tip-2006-gasolina",
+      "fipeCodigo": "008071-3",
+      "displayName": "Audi A3 1.8 Turbo 180cv 5p Aut./ Tip.",
+      "valorAtual": 39185,
+      "canonicalPath": "/fipe/audi/a3-1-8-turbo-180cv-5p-aut-tip-2006-008071-3/",
+      "ano": 2006,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-a3-1-8-turbo-180cv-5p-mec-2000-gasolina",
+      "fipeCodigo": "008072-1",
+      "displayName": "Audi A3 1.8 Turbo 180cv 5p Mec.",
+      "valorAtual": 20507,
+      "canonicalPath": "/fipe/audi/a3-1-8-turbo-180cv-5p-mec-2000-008072-1/",
+      "ano": 2000,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-a3-1-8-turbo-180cv-5p-mec-2001-gasolina",
+      "fipeCodigo": "008072-1",
+      "displayName": "Audi A3 1.8 Turbo 180cv 5p Mec.",
+      "valorAtual": 21459,
+      "canonicalPath": "/fipe/audi/a3-1-8-turbo-180cv-5p-mec-2001-008072-1/",
+      "ano": 2001,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-a3-1-8-turbo-180cv-5p-mec-2002-gasolina",
+      "fipeCodigo": "008072-1",
+      "displayName": "Audi A3 1.8 Turbo 180cv 5p Mec.",
+      "valorAtual": 24371,
+      "canonicalPath": "/fipe/audi/a3-1-8-turbo-180cv-5p-mec-2002-008072-1/",
+      "ano": 2002,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-a3-1-8-turbo-180cv-5p-mec-2003-gasolina",
+      "fipeCodigo": "008072-1",
+      "displayName": "Audi A3 1.8 Turbo 180cv 5p Mec.",
+      "valorAtual": 26634,
+      "canonicalPath": "/fipe/audi/a3-1-8-turbo-180cv-5p-mec-2003-008072-1/",
+      "ano": 2003,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-a3-1-8-turbo-180cv-5p-mec-2004-gasolina",
+      "fipeCodigo": "008072-1",
+      "displayName": "Audi A3 1.8 Turbo 180cv 5p Mec.",
+      "valorAtual": 27402,
+      "canonicalPath": "/fipe/audi/a3-1-8-turbo-180cv-5p-mec-2004-008072-1/",
+      "ano": 2004,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-a3-1-8-turbo-180cv-5p-mec-2005-gasolina",
+      "fipeCodigo": "008072-1",
+      "displayName": "Audi A3 1.8 Turbo 180cv 5p Mec.",
+      "valorAtual": 33950,
+      "canonicalPath": "/fipe/audi/a3-1-8-turbo-180cv-5p-mec-2005-008072-1/",
+      "ano": 2005,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-a3-1-8-turbo-180cv-5p-mec-2006-gasolina",
+      "fipeCodigo": "008072-1",
+      "displayName": "Audi A3 1.8 Turbo 180cv 5p Mec.",
+      "valorAtual": 36671,
+      "canonicalPath": "/fipe/audi/a3-1-8-turbo-180cv-5p-mec-2006-008072-1/",
+      "ano": 2006,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-a3-1-8-turbo-3p-aut-1997-gasolina",
+      "fipeCodigo": "008046-2",
+      "displayName": "Audi A3 1.8 Turbo 3p Aut.",
+      "valorAtual": 15250,
+      "canonicalPath": "/fipe/audi/a3-1-8-turbo-3p-aut-1997-008046-2/",
+      "ano": 1997,
+      "marca": "Audi"
+    }
+  ],
+  "stats": {
+    "total": 199
+  },
+  "meta": {
+    "geracaoId": "a3-2"
+  }
+}

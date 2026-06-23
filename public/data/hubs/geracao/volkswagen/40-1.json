@@ -1,0 +1,48 @@
+{
+  "tipo": "geracao",
+  "slug": "40-1",
+  "canonicalPath": "/geracao/volkswagen/40-1/",
+  "titulo": "Geracao 40-1",
+  "descricao": "3 veiculos da geracao 40-1.",
+  "seo": {
+    "title": "Geracao 40-1 - Precos FIPE",
+    "description": "Veiculos da geracao 40-1 na Tabela FIPE.",
+    "h1": "Geracao 40-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/volkswagen/40-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "volkswagen-40-300-2p-diesel-1999-diesel",
+      "fipeCodigo": "515053-1",
+      "displayName": "VOLKSWAGEN 40-300 2p (diesel)",
+      "valorAtual": 52948,
+      "canonicalPath": "/fipe/volkswagen/40-300-2p-diesel-1999-515053-1/",
+      "ano": 1999,
+      "marca": "VOLKSWAGEN"
+    },
+    {
+      "vehicleId": "volkswagen-40-300-2p-diesel-2000-diesel",
+      "fipeCodigo": "515053-1",
+      "displayName": "VOLKSWAGEN 40-300 2p (diesel)",
+      "valorAtual": 57096,
+      "canonicalPath": "/fipe/volkswagen/40-300-2p-diesel-2000-515053-1/",
+      "ano": 2000,
+      "marca": "VOLKSWAGEN"
+    },
+    {
+      "vehicleId": "volkswagen-40-300-2p-diesel-2001-diesel",
+      "fipeCodigo": "515053-1",
+      "displayName": "VOLKSWAGEN 40-300 2p (diesel)",
+      "valorAtual": 58524,
+      "canonicalPath": "/fipe/volkswagen/40-300-2p-diesel-2001-515053-1/",
+      "ano": 2001,
+      "marca": "VOLKSWAGEN"
+    }
+  ],
+  "stats": {
+    "total": 3
+  },
+  "meta": {
+    "geracaoId": "40-1"
+  }
+}

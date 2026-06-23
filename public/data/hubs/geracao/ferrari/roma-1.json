@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "roma-1",
+  "canonicalPath": "/geracao/ferrari/roma-1/",
+  "titulo": "Geracao roma-1",
+  "descricao": "2 veiculos da geracao roma-1.",
+  "seo": {
+    "title": "Geracao roma-1 - Precos FIPE",
+    "description": "Veiculos da geracao roma-1 na Tabela FIPE.",
+    "h1": "Geracao roma-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/ferrari/roma-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "ferrari-roma-spider-3-9-v8-620cv-0-gasolina",
+      "fipeCodigo": "031057-3",
+      "displayName": "Ferrari Roma Spider 3.9 V8 620cv",
+      "valorAtual": 4214990,
+      "canonicalPath": "/fipe/ferrari/roma-spider-3-9-v8-620cv-0-031057-3/",
+      "ano": 0,
+      "marca": "Ferrari"
+    },
+    {
+      "vehicleId": "ventane-motors-roma-3000w-eletrica-0-eletrico",
+      "fipeCodigo": "896003-8",
+      "displayName": "Ventane Motors ROMA 3000W (Elétrica)",
+      "valorAtual": 15507,
+      "canonicalPath": "/fipe/ventane-motors/roma-3000w-eletrica-0-896003-8/",
+      "ano": 0,
+      "marca": "Ventane Motors"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "roma-1"
+  }
+}

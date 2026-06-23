@@ -1,0 +1,1767 @@
+{
+  "geradoEm": "2026-06-22T22:22:39.678Z",
+  "total_oem_seeds": 176,
+  "meta_curto_prazo": 5000,
+  "seeds": [
+    {
+      "seed_id": "ford:Ranger:2026",
+      "marca": "Ford",
+      "modelo": "Ranger",
+      "ano": 2026,
+      "matches_diretos": 33,
+      "propagacao_estimada": 468,
+      "impacto_estimado": 501,
+      "url": "https://www.ford.com.br/picapes/ranger/"
+    },
+    {
+      "seed_id": "ford:Ranger:2026",
+      "marca": "Ford",
+      "modelo": "Ranger",
+      "ano": 2026,
+      "matches_diretos": 33,
+      "propagacao_estimada": 468,
+      "impacto_estimado": 501,
+      "url": "https://www.ford.com.br/picapes/ranger.html"
+    },
+    {
+      "seed_id": "ford:Ranger Raptor:2026",
+      "marca": "Ford",
+      "modelo": "Ranger Raptor",
+      "ano": 2026,
+      "matches_diretos": 33,
+      "propagacao_estimada": 468,
+      "impacto_estimado": 501,
+      "url": "https://www.ford.com.br/picapes/ranger-raptor.html"
+    },
+    {
+      "seed_id": "ford:Ranger Xl Cd Fleet:2026",
+      "marca": "Ford",
+      "modelo": "Ranger Xl Cd Fleet",
+      "ano": 2026,
+      "matches_diretos": 33,
+      "propagacao_estimada": 468,
+      "impacto_estimado": 501,
+      "url": "https://www.ford.com.br/veiculos-comerciais/ranger-xl-cd-fleet.html"
+    },
+    {
+      "seed_id": "toyota:Hilux:2026",
+      "marca": "Toyota",
+      "modelo": "Hilux",
+      "ano": 2026,
+      "matches_diretos": 50,
+      "propagacao_estimada": 406,
+      "impacto_estimado": 456,
+      "url": "https://www.toyota.com.br/modelos/hilux-cabine-dupla"
+    },
+    {
+      "seed_id": "toyota:SW4:2026",
+      "marca": "Toyota",
+      "modelo": "SW4",
+      "ano": 2026,
+      "matches_diretos": 11,
+      "propagacao_estimada": 406,
+      "impacto_estimado": 417,
+      "url": "https://www.toyota.com.br/modelos/sw4"
+    },
+    {
+      "seed_id": "fiat:Strada:2027",
+      "marca": "Fiat",
+      "modelo": "Strada",
+      "ano": 2027,
+      "matches_diretos": 22,
+      "propagacao_estimada": 266,
+      "impacto_estimado": 288,
+      "url": "https://strada.fiat.com.br/monte.html"
+    },
+    {
+      "seed_id": "mitsubishi:Triton:2026",
+      "marca": "Mitsubishi",
+      "modelo": "Triton",
+      "ano": 2026,
+      "matches_diretos": 27,
+      "propagacao_estimada": 241,
+      "impacto_estimado": 268,
+      "url": "https://www.mitsubishimotors.com.br/picapes/nova-triton"
+    },
+    {
+      "seed_id": "chevrolet:Onix:2027",
+      "marca": "GM - Chevrolet",
+      "modelo": "Onix",
+      "ano": 2027,
+      "matches_diretos": 46,
+      "propagacao_estimada": 166,
+      "impacto_estimado": 212,
+      "url": "https://www.chevrolet.com.br/carros/novo-onix"
+    },
+    {
+      "seed_id": "hyundai:HB20:2026",
+      "marca": "Hyundai",
+      "modelo": "HB20",
+      "ano": 2026,
+      "matches_diretos": 70,
+      "propagacao_estimada": 136,
+      "impacto_estimado": 206,
+      "url": "https://www.hyundai.com.br/content/dam/hmb/cars/hb20/2025-2026/catalogos/Catalogo_DIgital_Novo_HB20_Limited_TGDI_25_26.pdf"
+    },
+    {
+      "seed_id": "renault:Duster:2026",
+      "marca": "Renault",
+      "modelo": "Duster",
+      "ano": 2026,
+      "matches_diretos": 27,
+      "propagacao_estimada": 153,
+      "impacto_estimado": 180,
+      "url": "https://www.renault.com.br/veiculos-de-passeio/duster.html"
+    },
+    {
+      "seed_id": "nissan:Frontier:2026",
+      "marca": "Nissan",
+      "modelo": "Frontier",
+      "ano": 2026,
+      "matches_diretos": 21,
+      "propagacao_estimada": 142,
+      "impacto_estimado": 163,
+      "url": "https://www.nissan.com.br/veiculos/modelos/frontier.html"
+    },
+    {
+      "seed_id": "honda:City:2026",
+      "marca": "Honda",
+      "modelo": "City",
+      "ano": 2026,
+      "matches_diretos": 30,
+      "propagacao_estimada": 98,
+      "impacto_estimado": 128,
+      "url": "https://www.honda.com.br/automoveis/city"
+    },
+    {
+      "seed_id": "chevrolet:Spin:2027",
+      "marca": "GM - Chevrolet",
+      "modelo": "Spin",
+      "ano": 2027,
+      "matches_diretos": 21,
+      "propagacao_estimada": 97,
+      "impacto_estimado": 118,
+      "url": "https://www.chevrolet.com.br/suvs/novo-spin"
+    },
+    {
+      "seed_id": "toyota:Corolla:2026",
+      "marca": "Toyota",
+      "modelo": "Corolla",
+      "ano": 2026,
+      "matches_diretos": 49,
+      "propagacao_estimada": 69,
+      "impacto_estimado": 118,
+      "url": "https://www.toyota.com.br/modelos/corolla"
+    },
+    {
+      "seed_id": "toyota:Corolla Hybrid:2026",
+      "marca": "Toyota",
+      "modelo": "Corolla Hybrid",
+      "ano": 2026,
+      "matches_diretos": 49,
+      "propagacao_estimada": 69,
+      "impacto_estimado": 118,
+      "url": "https://www.toyota.com.br/modelos/corolla-hybrid"
+    },
+    {
+      "seed_id": "toyota:Corolla Cross:2026",
+      "marca": "Toyota",
+      "modelo": "Corolla Cross",
+      "ano": 2026,
+      "matches_diretos": 49,
+      "propagacao_estimada": 69,
+      "impacto_estimado": 118,
+      "url": "https://www.toyota.com.br/modelos/corolla-cross"
+    },
+    {
+      "seed_id": "jeep:Renegade:2026",
+      "marca": "Jeep",
+      "modelo": "Renegade",
+      "ano": 2026,
+      "matches_diretos": 26,
+      "propagacao_estimada": 91,
+      "impacto_estimado": 117,
+      "url": "https://www.jeep.com.br/renegade.html"
+    },
+    {
+      "seed_id": "honda:CR-V:2026",
+      "marca": "Honda",
+      "modelo": "CR-V",
+      "ano": 2026,
+      "matches_diretos": 32,
+      "propagacao_estimada": 83,
+      "impacto_estimado": 115,
+      "url": "https://www.honda.com.br/automoveis/cr-v"
+    },
+    {
+      "seed_id": "hyundai:Creta:2026",
+      "marca": "Hyundai",
+      "modelo": "Creta",
+      "ano": 2026,
+      "matches_diretos": 38,
+      "propagacao_estimada": 76,
+      "impacto_estimado": 114,
+      "url": "https://www.hyundai.com.br/content/dam/hmb/download-manuais/creta_25-26/Catalogo_Digital_-_Novo_CRETA_Limited_MY_25-26.pdf"
+    },
+    {
+      "seed_id": "peugeot:208:2026",
+      "marca": "Peugeot",
+      "modelo": "208",
+      "ano": 2026,
+      "matches_diretos": 24,
+      "propagacao_estimada": 88,
+      "impacto_estimado": 112,
+      "url": "https://www.peugeot.com.br/content/dam/peugeot/catalogos/208MY26_Catalogo-digital.pdf"
+    },
+    {
+      "seed_id": "peugeot:208:2026",
+      "marca": "Peugeot",
+      "modelo": "208",
+      "ano": 2026,
+      "matches_diretos": 24,
+      "propagacao_estimada": 88,
+      "impacto_estimado": 112,
+      "url": "https://www.peugeot.com.br/gama/peugeot-208.html"
+    },
+    {
+      "seed_id": "jeep:Compass:2026",
+      "marca": "Jeep",
+      "modelo": "Compass",
+      "ano": 2026,
+      "matches_diretos": 29,
+      "propagacao_estimada": 80,
+      "impacto_estimado": 109,
+      "url": "https://www.jeep.com.br/compass.html"
+    },
+    {
+      "seed_id": "volkswagen:Amarok:2026",
+      "marca": "VW - VolksWagen",
+      "modelo": "Amarok",
+      "ano": 2026,
+      "matches_diretos": 12,
+      "propagacao_estimada": 94,
+      "impacto_estimado": 106,
+      "url": "https://www.vw.com.br/pt/carros/amarok.html"
+    },
+    {
+      "seed_id": "fiat:Toro:2027",
+      "marca": "Fiat",
+      "modelo": "Toro",
+      "ano": 2027,
+      "matches_diretos": 22,
+      "propagacao_estimada": 82,
+      "impacto_estimado": 104,
+      "url": "https://toro.fiat.com.br/monte.html"
+    },
+    {
+      "seed_id": "toyota:Yaris Cross:2026",
+      "marca": "Toyota",
+      "modelo": "Yaris Cross",
+      "ano": 2026,
+      "matches_diretos": 25,
+      "propagacao_estimada": 78,
+      "impacto_estimado": 103,
+      "url": "https://www.toyota.com.br/modelos/yaris-cross"
+    },
+    {
+      "seed_id": "land-rover:Discovery:2026",
+      "marca": "Land Rover",
+      "modelo": "Discovery",
+      "ano": 2026,
+      "matches_diretos": 15,
+      "propagacao_estimada": 84,
+      "impacto_estimado": 99,
+      "url": "https://www.landrover.com.br/discovery/index.html"
+    },
+    {
+      "seed_id": "ford:Transit Minibus:2026",
+      "marca": "Ford",
+      "modelo": "Transit Minibus",
+      "ano": 2026,
+      "matches_diretos": 43,
+      "propagacao_estimada": 46,
+      "impacto_estimado": 89,
+      "url": "https://www.ford.com.br/veiculos-comerciais/transit-minibus.html"
+    },
+    {
+      "seed_id": "ford:Transit Chassi:2026",
+      "marca": "Ford",
+      "modelo": "Transit Chassi",
+      "ano": 2026,
+      "matches_diretos": 43,
+      "propagacao_estimada": 46,
+      "impacto_estimado": 89,
+      "url": "https://www.ford.com.br/veiculos-comerciais/transit-chassi.html"
+    },
+    {
+      "seed_id": "volkswagen:Polo:2026",
+      "marca": "VW - VolksWagen",
+      "modelo": "Polo",
+      "ano": 2026,
+      "matches_diretos": 30,
+      "propagacao_estimada": 59,
+      "impacto_estimado": 89,
+      "url": "https://www.vw.com.br/pt/carros/polo.html"
+    },
+    {
+      "seed_id": "fiat:Argo:2027",
+      "marca": "Fiat",
+      "modelo": "Argo",
+      "ano": 2027,
+      "matches_diretos": 27,
+      "propagacao_estimada": 56,
+      "impacto_estimado": 83,
+      "url": "https://argo.fiat.com.br/monte.html"
+    },
+    {
+      "seed_id": "mercedes-benz:GLC:2026",
+      "marca": "Mercedes-Benz",
+      "modelo": "GLC",
+      "ano": 2026,
+      "matches_diretos": 20,
+      "propagacao_estimada": 63,
+      "impacto_estimado": 83,
+      "url": "https://www.mercedes-benz.com.br/passengercars/models/suv/glc/overview.html"
+    },
+    {
+      "seed_id": "peugeot:2008:2026",
+      "marca": "Peugeot",
+      "modelo": "2008",
+      "ano": 2026,
+      "matches_diretos": 18,
+      "propagacao_estimada": 65,
+      "impacto_estimado": 83,
+      "url": "https://www.peugeot.com.br/gama/peugeot-2008.html"
+    },
+    {
+      "seed_id": "mitsubishi:Eclipse Cross:2026",
+      "marca": "Mitsubishi",
+      "modelo": "Eclipse Cross",
+      "ano": 2026,
+      "matches_diretos": 31,
+      "propagacao_estimada": 49,
+      "impacto_estimado": 80,
+      "url": "https://www.mitsubishimotors.com.br/suv-e-crossovers/eclipse-cross"
+    },
+    {
+      "seed_id": "nissan:Versa:2026",
+      "marca": "Nissan",
+      "modelo": "Versa",
+      "ano": 2026,
+      "matches_diretos": 13,
+      "propagacao_estimada": 62,
+      "impacto_estimado": 75,
+      "url": "https://www.nissan.com.br/veiculos/modelos/versa/versoes.html"
+    },
+    {
+      "seed_id": "chevrolet:Tracker:2027",
+      "marca": "GM - Chevrolet",
+      "modelo": "Tracker",
+      "ano": 2027,
+      "matches_diretos": 18,
+      "propagacao_estimada": 54,
+      "impacto_estimado": 72,
+      "url": "https://www.chevrolet.com.br/suvs/novo-tracker"
+    },
+    {
+      "seed_id": "nissan:Kicks:2026",
+      "marca": "Nissan",
+      "modelo": "Kicks",
+      "ano": 2026,
+      "matches_diretos": 17,
+      "propagacao_estimada": 52,
+      "impacto_estimado": 69,
+      "url": "https://www.nissan.com.br/veiculos/modelos/novo-kicks.html"
+    },
+    {
+      "seed_id": "volkswagen:Virtus:2026",
+      "marca": "VW - VolksWagen",
+      "modelo": "Virtus",
+      "ano": 2026,
+      "matches_diretos": 22,
+      "propagacao_estimada": 47,
+      "impacto_estimado": 69,
+      "url": "https://www.vw.com.br/pt/carros/virtus.html"
+    },
+    {
+      "seed_id": "volkswagen:T-Cross:2026",
+      "marca": "VW - VolksWagen",
+      "modelo": "T-Cross",
+      "ano": 2026,
+      "matches_diretos": 32,
+      "propagacao_estimada": 30,
+      "impacto_estimado": 62,
+      "url": "https://www.vw.com.br/pt/carros/t-cross.html"
+    },
+    {
+      "seed_id": "hyundai:Tucson:2025",
+      "marca": "Hyundai",
+      "modelo": "Tucson",
+      "ano": 2025,
+      "matches_diretos": 7,
+      "propagacao_estimada": 54,
+      "impacto_estimado": 61,
+      "url": "https://www.hyundai.com.br/content/dam/hmb/cars/tucson/2024/catalog/TUCSON_Catalogo_Digital.pdf"
+    },
+    {
+      "seed_id": "toyota:RAV4:2026",
+      "marca": "Toyota",
+      "modelo": "RAV4",
+      "ano": 2026,
+      "matches_diretos": 7,
+      "propagacao_estimada": 51,
+      "impacto_estimado": 58,
+      "url": "https://www.toyota.com.br/modelos/rav4"
+    },
+    {
+      "seed_id": "jeep:Commander:2026",
+      "marca": "Jeep",
+      "modelo": "Commander",
+      "ano": 2026,
+      "matches_diretos": 27,
+      "propagacao_estimada": 30,
+      "impacto_estimado": 57,
+      "url": "https://www.jeep.com.br/commander.html"
+    },
+    {
+      "seed_id": "renault:Kwid:2026",
+      "marca": "Renault",
+      "modelo": "Kwid",
+      "ano": 2026,
+      "matches_diretos": 18,
+      "propagacao_estimada": 36,
+      "impacto_estimado": 54,
+      "url": "https://www.renault.com.br/veiculos-de-passeio/kwid.html"
+    },
+    {
+      "seed_id": "fiat:Cronos:2027",
+      "marca": "Fiat",
+      "modelo": "Cronos",
+      "ano": 2027,
+      "matches_diretos": 12,
+      "propagacao_estimada": 41,
+      "impacto_estimado": 53,
+      "url": "https://cronos.fiat.com.br/monte.html"
+    },
+    {
+      "seed_id": "jac:E-JS4:2026",
+      "marca": "JAC",
+      "modelo": "E-JS4",
+      "ano": 2026,
+      "matches_diretos": 24,
+      "propagacao_estimada": 27,
+      "impacto_estimado": 51,
+      "url": "https://www.jacmotors.com.br/jac-e-js4"
+    },
+    {
+      "seed_id": "citroen:C3:2026",
+      "marca": "Citroen",
+      "modelo": "C3",
+      "ano": 2026,
+      "matches_diretos": 25,
+      "propagacao_estimada": 24,
+      "impacto_estimado": 49,
+      "url": "https://www.citroen.com.br/veiculos-passeio/c3.html"
+    },
+    {
+      "seed_id": "fiat:Pulse:2027",
+      "marca": "Fiat",
+      "modelo": "Pulse",
+      "ano": 2027,
+      "matches_diretos": 19,
+      "propagacao_estimada": 29,
+      "impacto_estimado": 48,
+      "url": "https://pulse.fiat.com.br/monte.html"
+    },
+    {
+      "seed_id": "ford:Transit Furgao:2026",
+      "marca": "Ford",
+      "modelo": "Transit Furgao",
+      "ano": 2026,
+      "matches_diretos": 46,
+      "propagacao_estimada": 0,
+      "impacto_estimado": 46,
+      "url": "https://www.ford.com.br/veiculos-comerciais/transit-furgao.html"
+    },
+    {
+      "seed_id": "chevrolet:Montana:2027",
+      "marca": "GM - Chevrolet",
+      "modelo": "Montana",
+      "ano": 2027,
+      "matches_diretos": 20,
+      "propagacao_estimada": 23,
+      "impacto_estimado": 43,
+      "url": "https://www.chevrolet.com.br/picapes/chevrolet-montana"
+    },
+    {
+      "seed_id": "land-rover:Defender:2026",
+      "marca": "Land Rover",
+      "modelo": "Defender",
+      "ano": 2026,
+      "matches_diretos": 17,
+      "propagacao_estimada": 24,
+      "impacto_estimado": 41,
+      "url": "https://www.landrover.com.br/defender/index.html"
+    },
+    {
+      "seed_id": "fiat:Fastback:2027",
+      "marca": "Fiat",
+      "modelo": "Fastback",
+      "ano": 2027,
+      "matches_diretos": 18,
+      "propagacao_estimada": 20,
+      "impacto_estimado": 38,
+      "url": "https://fastback.fiat.com.br/monte.html"
+    },
+    {
+      "seed_id": "renault:Oroch:2026",
+      "marca": "Renault",
+      "modelo": "Oroch",
+      "ano": 2026,
+      "matches_diretos": 17,
+      "propagacao_estimada": 16,
+      "impacto_estimado": 33,
+      "url": "https://www.renault.com.br/veiculos-de-passeio/oroch.html"
+    },
+    {
+      "seed_id": "honda:HR-V:2026",
+      "marca": "Honda",
+      "modelo": "HR-V",
+      "ano": 2026,
+      "matches_diretos": 16,
+      "propagacao_estimada": 15,
+      "impacto_estimado": 31,
+      "url": "https://www.honda.com.br/automoveis/hr-v"
+    },
+    {
+      "seed_id": "chevrolet:Equinox:2026",
+      "marca": "GM - Chevrolet",
+      "modelo": "Equinox",
+      "ano": 2026,
+      "matches_diretos": 10,
+      "propagacao_estimada": 20,
+      "impacto_estimado": 30,
+      "url": "https://www.chevrolet.com.br/suvs/equinox"
+    },
+    {
+      "seed_id": "volkswagen:Nivus:2026",
+      "marca": "VW - VolksWagen",
+      "modelo": "Nivus",
+      "ano": 2026,
+      "matches_diretos": 11,
+      "propagacao_estimada": 16,
+      "impacto_estimado": 27,
+      "url": "https://www.vw.com.br/pt/carros/nivus.html"
+    },
+    {
+      "seed_id": "citroen:Aircross:2026",
+      "marca": "Citroen",
+      "modelo": "Aircross",
+      "ano": 2026,
+      "matches_diretos": 14,
+      "propagacao_estimada": 6,
+      "impacto_estimado": 20,
+      "url": "https://www.citroen.com.br/veiculos-passeio/aircross.html"
+    },
+    {
+      "seed_id": "ford:Performance:2026",
+      "marca": "Ford",
+      "modelo": "Performance",
+      "ano": 2026,
+      "matches_diretos": 6,
+      "propagacao_estimada": 12,
+      "impacto_estimado": 18,
+      "url": "https://www.ford.com.br/todos-os-veiculos/performance.html"
+    },
+    {
+      "seed_id": "byd:Song Plus DM-i:2026",
+      "marca": "BYD",
+      "modelo": "Song Plus DM-i",
+      "ano": 2026,
+      "matches_diretos": 14,
+      "propagacao_estimada": 0,
+      "impacto_estimado": 14,
+      "url": "https://www.byd.com/br/car/song-plus-dmi"
+    },
+    {
+      "seed_id": "byd:Song Plus Premium:2026",
+      "marca": "BYD",
+      "modelo": "Song Plus Premium",
+      "ano": 2026,
+      "matches_diretos": 14,
+      "propagacao_estimada": 0,
+      "impacto_estimado": 14,
+      "url": "https://www.byd.com/br/car/song-plus-premium"
+    },
+    {
+      "seed_id": "byd:Song Pro Dmi:2026",
+      "marca": "BYD",
+      "modelo": "Song Pro Dmi",
+      "ano": 2026,
+      "matches_diretos": 14,
+      "propagacao_estimada": 0,
+      "impacto_estimado": 14,
+      "url": "https://www.byd.com/br/car/song-pro-dmi"
+    },
+    {
+      "seed_id": "ford:F 150:2026",
+      "marca": "Ford",
+      "modelo": "F 150",
+      "ano": 2026,
+      "matches_diretos": 7,
+      "propagacao_estimada": 6,
+      "impacto_estimado": 13,
+      "url": "https://www.ford.com.br/picapes/f-150.html"
+    },
+    {
+      "seed_id": "ford:F 150 Tremor Old:2026",
+      "marca": "Ford",
+      "modelo": "F 150 Tremor Old",
+      "ano": 2026,
+      "matches_diretos": 7,
+      "propagacao_estimada": 6,
+      "impacto_estimado": 13,
+      "url": "https://www.ford.com.br/picapes/f-150-tremor/f-150-tremor-old.html"
+    },
+    {
+      "seed_id": "ford:F 150 Tremor:2026",
+      "marca": "Ford",
+      "modelo": "F 150 Tremor",
+      "ano": 2026,
+      "matches_diretos": 7,
+      "propagacao_estimada": 6,
+      "impacto_estimado": 13,
+      "url": "https://www.ford.com.br/picapes/f-150-tremor.html"
+    },
+    {
+      "seed_id": "renault:Kardian:2026",
+      "marca": "Renault",
+      "modelo": "Kardian",
+      "ano": 2026,
+      "matches_diretos": 12,
+      "propagacao_estimada": 0,
+      "impacto_estimado": 12,
+      "url": "https://www.renault.com.br/veiculos-de-passeio/kardian.html"
+    },
+    {
+      "seed_id": "byd:Dolphin SE:2026",
+      "marca": "BYD",
+      "modelo": "Dolphin SE",
+      "ano": 2026,
+      "matches_diretos": 11,
+      "propagacao_estimada": 0,
+      "impacto_estimado": 11,
+      "url": "https://www.byd.com/br/car/dolphin-se"
+    },
+    {
+      "seed_id": "byd:Dolphin Mini:2026",
+      "marca": "BYD",
+      "modelo": "Dolphin Mini",
+      "ano": 2026,
+      "matches_diretos": 11,
+      "propagacao_estimada": 0,
+      "impacto_estimado": 11,
+      "url": "https://www.byd.com/br/car/dolphin-mini"
+    },
+    {
+      "seed_id": "byd:Dolphin:2026",
+      "marca": "BYD",
+      "modelo": "Dolphin",
+      "ano": 2026,
+      "matches_diretos": 11,
+      "propagacao_estimada": 0,
+      "impacto_estimado": 11,
+      "url": "https://www.byd.com/br/car/dolphin"
+    },
+    {
+      "seed_id": "byd:Dolphin Plus:2026",
+      "marca": "BYD",
+      "modelo": "Dolphin Plus",
+      "ano": 2026,
+      "matches_diretos": 11,
+      "propagacao_estimada": 0,
+      "impacto_estimado": 11,
+      "url": "https://www.byd.com/br/car/dolphin-plus"
+    },
+    {
+      "seed_id": "honda:Civic:2026",
+      "marca": "Honda",
+      "modelo": "Civic",
+      "ano": 2026,
+      "matches_diretos": 6,
+      "propagacao_estimada": 5,
+      "impacto_estimado": 11,
+      "url": "https://www.honda.com.br/automoveis/civic"
+    },
+    {
+      "seed_id": "volvo:EX30:2026",
+      "marca": "Volvo",
+      "modelo": "EX30",
+      "ano": 2026,
+      "matches_diretos": 11,
+      "propagacao_estimada": 0,
+      "impacto_estimado": 11,
+      "url": "https://www.volvocars.com/br/cars/ex30-electric/"
+    },
+    {
+      "seed_id": "ford:Maverick:2026",
+      "marca": "Ford",
+      "modelo": "Maverick",
+      "ano": 2026,
+      "matches_diretos": 9,
+      "propagacao_estimada": 0,
+      "impacto_estimado": 9,
+      "url": "https://www.ford.com.br/picapes/maverick/"
+    },
+    {
+      "seed_id": "ford:Maverick:2026",
+      "marca": "Ford",
+      "modelo": "Maverick",
+      "ano": 2026,
+      "matches_diretos": 9,
+      "propagacao_estimada": 0,
+      "impacto_estimado": 9,
+      "url": "https://www.ford.com.br/picapes/maverick.html"
+    },
+    {
+      "seed_id": "ford:Maverick Tremor:2026",
+      "marca": "Ford",
+      "modelo": "Maverick Tremor",
+      "ano": 2026,
+      "matches_diretos": 9,
+      "propagacao_estimada": 0,
+      "impacto_estimado": 9,
+      "url": "https://www.ford.com.br/picapes/maverick-tremor.html"
+    },
+    {
+      "seed_id": "byd:Yuan Plus:2026",
+      "marca": "BYD",
+      "modelo": "Yuan Plus",
+      "ano": 2026,
+      "matches_diretos": 8,
+      "propagacao_estimada": 0,
+      "impacto_estimado": 8,
+      "url": "https://www.byd.com/br/car/yuan-plus"
+    },
+    {
+      "seed_id": "citroen:Basalt:2026",
+      "marca": "Citroen",
+      "modelo": "Basalt",
+      "ano": 2026,
+      "matches_diretos": 8,
+      "propagacao_estimada": 0,
+      "impacto_estimado": 8,
+      "url": "https://www.citroen.com.br/veiculos-passeio/basalt.html"
+    },
+    {
+      "seed_id": "volkswagen:Taos:2026",
+      "marca": "VW - VolksWagen",
+      "modelo": "Taos",
+      "ano": 2026,
+      "matches_diretos": 8,
+      "propagacao_estimada": 0,
+      "impacto_estimado": 8,
+      "url": "https://www.vw.com.br/pt/carros/taos.html"
+    },
+    {
+      "seed_id": "bmw:M2 Coupe 2024 G87:2026",
+      "marca": "BMW",
+      "modelo": "M2 Coupe 2024 G87",
+      "ano": 2026,
+      "matches_diretos": 7,
+      "propagacao_estimada": 0,
+      "impacto_estimado": 7,
+      "url": "https://www.bmw.com.br/pt/all-models/m-series/bmw-2-series-m-models/m2-coupe-2024-g87.html"
+    },
+    {
+      "seed_id": "byd:King:2026",
+      "marca": "BYD",
+      "modelo": "King",
+      "ano": 2026,
+      "matches_diretos": 6,
+      "propagacao_estimada": 0,
+      "impacto_estimado": 6,
+      "url": "https://www.byd.com/br/car/king"
+    },
+    {
+      "seed_id": "mitsubishi:Outlander:2026",
+      "marca": "Mitsubishi",
+      "modelo": "Outlander",
+      "ano": 2026,
+      "matches_diretos": 3,
+      "propagacao_estimada": 2,
+      "impacto_estimado": 5,
+      "url": "https://www.mitsubishimotors.com.br/suv-e-crossovers/outlander"
+    },
+    {
+      "seed_id": "volvo:EX40:2026",
+      "marca": "Volvo",
+      "modelo": "EX40",
+      "ano": 2026,
+      "matches_diretos": 5,
+      "propagacao_estimada": 0,
+      "impacto_estimado": 5,
+      "url": "https://www.volvocars.com/br/cars/ex40-electric/"
+    },
+    {
+      "seed_id": "ford:Territory:2026",
+      "marca": "Ford",
+      "modelo": "Territory",
+      "ano": 2026,
+      "matches_diretos": 4,
+      "propagacao_estimada": 0,
+      "impacto_estimado": 4,
+      "url": "https://www.ford.com.br/suvs-e-crossovers/territory/"
+    },
+    {
+      "seed_id": "ford:Territory:2026",
+      "marca": "Ford",
+      "modelo": "Territory",
+      "ano": 2026,
+      "matches_diretos": 4,
+      "propagacao_estimada": 0,
+      "impacto_estimado": 4,
+      "url": "https://www.ford.com.br/suvs-e-crossovers/territory.html"
+    },
+    {
+      "seed_id": "byd:Han:2026",
+      "marca": "BYD",
+      "modelo": "Han",
+      "ano": 2026,
+      "matches_diretos": 3,
+      "propagacao_estimada": 0,
+      "impacto_estimado": 3,
+      "url": "https://www.byd.com/br/car/han"
+    },
+    {
+      "seed_id": "byd:Seal:2026",
+      "marca": "BYD",
+      "modelo": "Seal",
+      "ano": 2026,
+      "matches_diretos": 3,
+      "propagacao_estimada": 0,
+      "impacto_estimado": 3,
+      "url": "https://www.byd.com/br/car/seal"
+    },
+    {
+      "seed_id": "byd:Tan:2026",
+      "marca": "BYD",
+      "modelo": "Tan",
+      "ano": 2026,
+      "matches_diretos": 3,
+      "propagacao_estimada": 0,
+      "impacto_estimado": 3,
+      "url": "https://www.byd.com/br/car/tan"
+    },
+    {
+      "seed_id": "ford:Bronco Sport:2026",
+      "marca": "Ford",
+      "modelo": "Bronco Sport",
+      "ano": 2026,
+      "matches_diretos": 3,
+      "propagacao_estimada": 0,
+      "impacto_estimado": 3,
+      "url": "https://www.ford.com.br/suvs-e-crossovers/bronco-sport/"
+    },
+    {
+      "seed_id": "ford:Bronco Sport:2026",
+      "marca": "Ford",
+      "modelo": "Bronco Sport",
+      "ano": 2026,
+      "matches_diretos": 3,
+      "propagacao_estimada": 0,
+      "impacto_estimado": 3,
+      "url": "https://www.ford.com.br/suvs-e-crossovers/bronco-sport.html"
+    },
+    {
+      "seed_id": "ford:E Transit Furgao:2026",
+      "marca": "Ford",
+      "modelo": "E Transit Furgao",
+      "ano": 2026,
+      "matches_diretos": 3,
+      "propagacao_estimada": 0,
+      "impacto_estimado": 3,
+      "url": "https://www.ford.com.br/veiculos-comerciais/e-transit-furgao.html"
+    },
+    {
+      "seed_id": "gwm:Tank 300:2026",
+      "marca": "GWM",
+      "modelo": "Tank 300",
+      "ano": 2026,
+      "matches_diretos": 3,
+      "propagacao_estimada": 0,
+      "impacto_estimado": 3,
+      "url": "https://www.gwmmotors.com.br/pt/modelos/tank-300"
+    },
+    {
+      "seed_id": "honda:ZR-V:2026",
+      "marca": "Honda",
+      "modelo": "ZR-V",
+      "ano": 2026,
+      "matches_diretos": 3,
+      "propagacao_estimada": 0,
+      "impacto_estimado": 3,
+      "url": "https://www.honda.com.br/automoveis/zr-v"
+    },
+    {
+      "seed_id": "renault:Boreal:2026",
+      "marca": "Renault",
+      "modelo": "Boreal",
+      "ano": 2026,
+      "matches_diretos": 3,
+      "propagacao_estimada": 0,
+      "impacto_estimado": 3,
+      "url": "https://www.renault.com.br/veiculos-de-passeio/boreal.html"
+    },
+    {
+      "seed_id": "byd:Shark:2026",
+      "marca": "BYD",
+      "modelo": "Shark",
+      "ano": 2026,
+      "matches_diretos": 2,
+      "propagacao_estimada": 0,
+      "impacto_estimado": 2,
+      "url": "https://www.byd.com/br/car/shark"
+    },
+    {
+      "seed_id": "byd:Atto 2:2026",
+      "marca": "BYD",
+      "modelo": "Atto 2",
+      "ano": 2026,
+      "matches_diretos": 1,
+      "propagacao_estimada": 0,
+      "impacto_estimado": 1,
+      "url": "https://www.byd.com/br/car/atto2"
+    },
+    {
+      "seed_id": "byd:Atto 8:2026",
+      "marca": "BYD",
+      "modelo": "Atto 8",
+      "ano": 2026,
+      "matches_diretos": 1,
+      "propagacao_estimada": 0,
+      "impacto_estimado": 1,
+      "url": "https://www.byd.com/br/car/atto-8"
+    },
+    {
+      "seed_id": "renault:Koleos:2026",
+      "marca": "Renault",
+      "modelo": "Koleos",
+      "ano": 2026,
+      "matches_diretos": 1,
+      "propagacao_estimada": 0,
+      "impacto_estimado": 1,
+      "url": "https://www.renault.com.br/veiculos-hibridos/koleos.html"
+    },
+    {
+      "seed_id": "audi:Audi Exclusive:2026",
+      "marca": "Audi",
+      "modelo": "Audi Exclusive",
+      "ano": 2026,
+      "matches_diretos": 0,
+      "propagacao_estimada": 0,
+      "impacto_estimado": 0,
+      "url": "https://www.audi.com.br/pt/models/audi-exclusive/"
+    },
+    {
+      "seed_id": "bmw:Programa De Rotulagem Veicular:2026",
+      "marca": "BMW",
+      "modelo": "Programa De Rotulagem Veicular",
+      "ano": 2026,
+      "matches_diretos": 0,
+      "propagacao_estimada": 0,
+      "impacto_estimado": 0,
+      "url": "https://www.bmw.com.br/pt/topics/fascination-bmw/efficient-dynamics/programa-de-rotulagem-veicular.html"
+    },
+    {
+      "seed_id": "bmw:Bmw Ix2 Overview:2026",
+      "marca": "BMW",
+      "modelo": "Bmw Ix2 Overview",
+      "ano": 2026,
+      "matches_diretos": 0,
+      "propagacao_estimada": 0,
+      "impacto_estimado": 0,
+      "url": "https://www.bmw.com.br/pt/all-models/bmw-i/ix2/bmw-ix2-overview.html"
+    },
+    {
+      "seed_id": "bmw:Bmw Ix1:2026",
+      "marca": "BMW",
+      "modelo": "Bmw Ix1",
+      "ano": 2026,
+      "matches_diretos": 0,
+      "propagacao_estimada": 0,
+      "impacto_estimado": 0,
+      "url": "https://www.bmw.com.br/pt/all-models/bmw-i/ix1/bmw-ix1.html"
+    },
+    {
+      "seed_id": "bmw:Bmw I7:2026",
+      "marca": "BMW",
+      "modelo": "Bmw I7",
+      "ano": 2026,
+      "matches_diretos": 0,
+      "propagacao_estimada": 0,
+      "impacto_estimado": 0,
+      "url": "https://www.bmw.com.br/pt/all-models/bmw-i/i7/bmw-i7.html"
+    },
+    {
+      "seed_id": "bmw:Bmw I4 Gran Coupe:2026",
+      "marca": "BMW",
+      "modelo": "Bmw I4 Gran Coupe",
+      "ano": 2026,
+      "matches_diretos": 0,
+      "propagacao_estimada": 0,
+      "impacto_estimado": 0,
+      "url": "https://www.bmw.com.br/pt/all-models/bmw-i/i4/bmw-i4-gran-coupe.html"
+    },
+    {
+      "seed_id": "bmw:Bmw I4 M50 Xdrive Gran Coupe:2026",
+      "marca": "BMW",
+      "modelo": "Bmw I4 M50 Xdrive Gran Coupe",
+      "ano": 2026,
+      "matches_diretos": 0,
+      "propagacao_estimada": 0,
+      "impacto_estimado": 0,
+      "url": "https://www.bmw.com.br/pt/all-models/m-series/bmw-i4-m50/bmw-i4-m50-xdrive-gran-coupe.html"
+    },
+    {
+      "seed_id": "bmw:Bmw X5:2026",
+      "marca": "BMW",
+      "modelo": "Bmw X5",
+      "ano": 2026,
+      "matches_diretos": 0,
+      "propagacao_estimada": 0,
+      "impacto_estimado": 0,
+      "url": "https://www.bmw.com.br/pt/all-models/serie-x/x5/bmw-x5.html"
+    },
+    {
+      "seed_id": "bmw:Bmw Serie 5 Seda Phev Visao Geral:2026",
+      "marca": "BMW",
+      "modelo": "Bmw Serie 5 Seda Phev Visao Geral",
+      "ano": 2026,
+      "matches_diretos": 0,
+      "propagacao_estimada": 0,
+      "impacto_estimado": 0,
+      "url": "https://www.bmw.com.br/pt/all-models/5-series/sedan/bmw-serie-5-seda-phev-visao-geral.html"
+    },
+    {
+      "seed_id": "bmw:Bmw Serie 3 Seda Plug In Hibrido:2026",
+      "marca": "BMW",
+      "modelo": "Bmw Serie 3 Seda Plug In Hibrido",
+      "ano": 2026,
+      "matches_diretos": 0,
+      "propagacao_estimada": 0,
+      "impacto_estimado": 0,
+      "url": "https://www.bmw.com.br/pt/all-models/3-series/bmw-3-series-sedan/bmw-serie-3-seda-plug-in-hibrido.html"
+    },
+    {
+      "seed_id": "bmw:Bmw X7:2026",
+      "marca": "BMW",
+      "modelo": "Bmw X7",
+      "ano": 2026,
+      "matches_diretos": 0,
+      "propagacao_estimada": 0,
+      "impacto_estimado": 0,
+      "url": "https://www.bmw.com.br/pt/all-models/serie-x/x7/bmw-x7.html"
+    },
+    {
+      "seed_id": "bmw:Bmw X6:2026",
+      "marca": "BMW",
+      "modelo": "Bmw X6",
+      "ano": 2026,
+      "matches_diretos": 0,
+      "propagacao_estimada": 0,
+      "impacto_estimado": 0,
+      "url": "https://www.bmw.com.br/pt/all-models/serie-x/x6/bmw-x6.html"
+    },
+    {
+      "seed_id": "bmw:Bmw X3:2026",
+      "marca": "BMW",
+      "modelo": "Bmw X3",
+      "ano": 2026,
+      "matches_diretos": 0,
+      "propagacao_estimada": 0,
+      "impacto_estimado": 0,
+      "url": "https://www.bmw.com.br/pt/all-models/serie-x/x3/bmw-x3.html"
+    },
+    {
+      "seed_id": "bmw:Bmw X3 M50:2026",
+      "marca": "BMW",
+      "modelo": "Bmw X3 M50",
+      "ano": 2026,
+      "matches_diretos": 0,
+      "propagacao_estimada": 0,
+      "impacto_estimado": 0,
+      "url": "https://www.bmw.com.br/pt/all-models/m-series/x3-m50/bmw-x3-m50.html"
+    },
+    {
+      "seed_id": "bmw:Bmw X2 Visao Geral:2026",
+      "marca": "BMW",
+      "modelo": "Bmw X2 Visao Geral",
+      "ano": 2026,
+      "matches_diretos": 0,
+      "propagacao_estimada": 0,
+      "impacto_estimado": 0,
+      "url": "https://www.bmw.com.br/pt/all-models/serie-x/x2/bmw-x2-visao-geral.html"
+    },
+    {
+      "seed_id": "bmw:Bmw X2 M35ixdrive Visao Geral:2026",
+      "marca": "BMW",
+      "modelo": "Bmw X2 M35ixdrive Visao Geral",
+      "ano": 2026,
+      "matches_diretos": 0,
+      "propagacao_estimada": 0,
+      "impacto_estimado": 0,
+      "url": "https://www.bmw.com.br/pt/all-models/m-series/x2-m35i/bmw-x2-m35ixdrive-visao-geral.html"
+    },
+    {
+      "seed_id": "bmw:Bmw X1:2026",
+      "marca": "BMW",
+      "modelo": "Bmw X1",
+      "ano": 2026,
+      "matches_diretos": 0,
+      "propagacao_estimada": 0,
+      "impacto_estimado": 0,
+      "url": "https://www.bmw.com.br/pt/all-models/serie-x/x1/bmw-x1.html"
+    },
+    {
+      "seed_id": "bmw:Bmw M4 Coupe:2026",
+      "marca": "BMW",
+      "modelo": "Bmw M4 Coupe",
+      "ano": 2026,
+      "matches_diretos": 0,
+      "propagacao_estimada": 0,
+      "impacto_estimado": 0,
+      "url": "https://www.bmw.com.br/pt/all-models/m-series/bmw-4-series-m-models/bmw-m4-coupe.html"
+    },
+    {
+      "seed_id": "bmw:Bmw 4 Series Convertible:2026",
+      "marca": "BMW",
+      "modelo": "Bmw 4 Series Convertible",
+      "ano": 2026,
+      "matches_diretos": 0,
+      "propagacao_estimada": 0,
+      "impacto_estimado": 0,
+      "url": "https://www.bmw.com.br/pt/all-models/4-series/4-series-cabrio/bmw-4-series-convertible.html"
+    },
+    {
+      "seed_id": "bmw:Bmw Serie 3 Seda:2026",
+      "marca": "BMW",
+      "modelo": "Bmw Serie 3 Seda",
+      "ano": 2026,
+      "matches_diretos": 0,
+      "propagacao_estimada": 0,
+      "impacto_estimado": 0,
+      "url": "https://www.bmw.com.br/pt/all-models/3-series/bmw-3-series-sedan/bmw-serie-3-Seda.html"
+    },
+    {
+      "seed_id": "bmw:Bmw M3 Seda:2026",
+      "marca": "BMW",
+      "modelo": "Bmw M3 Seda",
+      "ano": 2026,
+      "matches_diretos": 0,
+      "propagacao_estimada": 0,
+      "impacto_estimado": 0,
+      "url": "https://www.bmw.com.br/pt/all-models/m-series/bmw-3-series-m-models/bmw-m3-seda.html"
+    },
+    {
+      "seed_id": "bmw:Bmw 2 Series Gran Coupe:2026",
+      "marca": "BMW",
+      "modelo": "Bmw 2 Series Gran Coupe",
+      "ano": 2026,
+      "matches_diretos": 0,
+      "propagacao_estimada": 0,
+      "impacto_estimado": 0,
+      "url": "https://www.bmw.com.br/pt/all-models/2-series/gran-coupe/bmw-2-series-gran-coupe.html"
+    },
+    {
+      "seed_id": "bmw:Bmw M235 Xdrive Gran Coupe:2026",
+      "marca": "BMW",
+      "modelo": "Bmw M235 Xdrive Gran Coupe",
+      "ano": 2026,
+      "matches_diretos": 0,
+      "propagacao_estimada": 0,
+      "impacto_estimado": 0,
+      "url": "https://www.bmw.com.br/pt/all-models/m-series/m235-xdrive-gran-coupe/bmw-m235-xdrive-gran-coupe.html"
+    },
+    {
+      "seed_id": "bmw:Bmw M135:2026",
+      "marca": "BMW",
+      "modelo": "Bmw M135",
+      "ano": 2026,
+      "matches_diretos": 0,
+      "propagacao_estimada": 0,
+      "impacto_estimado": 0,
+      "url": "https://www.bmw.com.br/pt/all-models/m-series/bmw-m-135/bmw-m135.html"
+    },
+    {
+      "seed_id": "byd:Sealion 7:2026",
+      "marca": "BYD",
+      "modelo": "Sealion 7",
+      "ano": 2026,
+      "matches_diretos": 0,
+      "propagacao_estimada": 0,
+      "impacto_estimado": 0,
+      "url": "https://www.byd.com/br/car/sealion7"
+    },
+    {
+      "seed_id": "chery:Tiggo 5x:2026",
+      "marca": "Chery",
+      "modelo": "Tiggo 5x",
+      "ano": 2026,
+      "matches_diretos": 0,
+      "propagacao_estimada": 0,
+      "impacto_estimado": 0,
+      "url": "https://www.chery.com.br/veiculos/tiggo-5x"
+    },
+    {
+      "seed_id": "chery:Tiggo 8:2026",
+      "marca": "Chery",
+      "modelo": "Tiggo 8",
+      "ano": 2026,
+      "matches_diretos": 0,
+      "propagacao_estimada": 0,
+      "impacto_estimado": 0,
+      "url": "https://www.chery.com.br/veiculos/tiggo-8"
+    },
+    {
+      "seed_id": "ford:Todos Os Veiculos:2026",
+      "marca": "Ford",
+      "modelo": "Todos Os Veiculos",
+      "ano": 2026,
+      "matches_diretos": 0,
+      "propagacao_estimada": 0,
+      "impacto_estimado": 0,
+      "url": "https://www.ford.com.br/todos-os-veiculos.html"
+    },
+    {
+      "seed_id": "ford:Versoes:2026",
+      "marca": "Ford",
+      "modelo": "Versoes",
+      "ano": 2026,
+      "matches_diretos": 0,
+      "propagacao_estimada": 0,
+      "impacto_estimado": 0,
+      "url": "https://www.ford.com.br/picapes/maverick/versoes.html"
+    },
+    {
+      "seed_id": "ford:Parent:2026",
+      "marca": "Ford",
+      "modelo": "Parent",
+      "ano": 2026,
+      "matches_diretos": 0,
+      "propagacao_estimada": 0,
+      "impacto_estimado": 0,
+      "url": "https://www.ford.com.br/picapes/maverick-tremor/parent.html"
+    },
+    {
+      "seed_id": "ford:Xl Ch Mt:2026",
+      "marca": "Ford",
+      "modelo": "Xl Ch Mt",
+      "ano": 2026,
+      "matches_diretos": 0,
+      "propagacao_estimada": 0,
+      "impacto_estimado": 0,
+      "url": "https://www.ford.com.br/veiculos-comerciais/xl-ch-mt.html"
+    },
+    {
+      "seed_id": "ford:Xl 20 Ch 4x4 Mt:2026",
+      "marca": "Ford",
+      "modelo": "Xl 20 Ch 4x4 Mt",
+      "ano": 2026,
+      "matches_diretos": 0,
+      "propagacao_estimada": 0,
+      "impacto_estimado": 0,
+      "url": "https://www.ford.com.br/picapes/ranger/compare-as-versoes/xl-20-ch-4x4-mt.html"
+    },
+    {
+      "seed_id": "ford:Xl Ch At:2026",
+      "marca": "Ford",
+      "modelo": "Xl Ch At",
+      "ano": 2026,
+      "matches_diretos": 0,
+      "propagacao_estimada": 0,
+      "impacto_estimado": 0,
+      "url": "https://www.ford.com.br/veiculos-comerciais/xl-ch-at.html"
+    },
+    {
+      "seed_id": "ford:Xl 20 Ch 4x4 At:2026",
+      "marca": "Ford",
+      "modelo": "Xl 20 Ch 4x4 At",
+      "ano": 2026,
+      "matches_diretos": 0,
+      "propagacao_estimada": 0,
+      "impacto_estimado": 0,
+      "url": "https://www.ford.com.br/picapes/ranger/compare-as-versoes/xl-20-ch-4x4-at.html"
+    },
+    {
+      "seed_id": "ford:Xl Cs Mt:2026",
+      "marca": "Ford",
+      "modelo": "Xl Cs Mt",
+      "ano": 2026,
+      "matches_diretos": 0,
+      "propagacao_estimada": 0,
+      "impacto_estimado": 0,
+      "url": "https://www.ford.com.br/veiculos-comerciais/xl-cs-mt.html"
+    },
+    {
+      "seed_id": "ford:Xl 20 Cs 4x4 Mt:2026",
+      "marca": "Ford",
+      "modelo": "Xl 20 Cs 4x4 Mt",
+      "ano": 2026,
+      "matches_diretos": 0,
+      "propagacao_estimada": 0,
+      "impacto_estimado": 0,
+      "url": "https://www.ford.com.br/picapes/ranger/compare-as-versoes/xl-20-cs-4x4-mt.html"
+    },
+    {
+      "seed_id": "ford:Xl Cs At:2026",
+      "marca": "Ford",
+      "modelo": "Xl Cs At",
+      "ano": 2026,
+      "matches_diretos": 0,
+      "propagacao_estimada": 0,
+      "impacto_estimado": 0,
+      "url": "https://www.ford.com.br/veiculos-comerciais/xl-cs-at.html"
+    },
+    {
+      "seed_id": "ford:Xl 20 Cs 4x4 At:2026",
+      "marca": "Ford",
+      "modelo": "Xl 20 Cs 4x4 At",
+      "ano": 2026,
+      "matches_diretos": 0,
+      "propagacao_estimada": 0,
+      "impacto_estimado": 0,
+      "url": "https://www.ford.com.br/picapes/ranger/compare-as-versoes/xl-20-cs-4x4-at.html"
+    },
+    {
+      "seed_id": "ford:Xl Cd Mt:2026",
+      "marca": "Ford",
+      "modelo": "Xl Cd Mt",
+      "ano": 2026,
+      "matches_diretos": 0,
+      "propagacao_estimada": 0,
+      "impacto_estimado": 0,
+      "url": "https://www.ford.com.br/veiculos-comerciais/xl-cd-mt.html"
+    },
+    {
+      "seed_id": "ford:Xl 20 Cd 4x4 Mt:2026",
+      "marca": "Ford",
+      "modelo": "Xl 20 Cd 4x4 Mt",
+      "ano": 2026,
+      "matches_diretos": 0,
+      "propagacao_estimada": 0,
+      "impacto_estimado": 0,
+      "url": "https://www.ford.com.br/picapes/ranger/compare-as-versoes/xl-20-cd-4x4-mt.html"
+    },
+    {
+      "seed_id": "ford:Xl Cd At:2026",
+      "marca": "Ford",
+      "modelo": "Xl Cd At",
+      "ano": 2026,
+      "matches_diretos": 0,
+      "propagacao_estimada": 0,
+      "impacto_estimado": 0,
+      "url": "https://www.ford.com.br/veiculos-comerciais/xl-cd-at.html"
+    },
+    {
+      "seed_id": "ford:Xl 20 Cd 4x4 At:2026",
+      "marca": "Ford",
+      "modelo": "Xl 20 Cd 4x4 At",
+      "ano": 2026,
+      "matches_diretos": 0,
+      "propagacao_estimada": 0,
+      "impacto_estimado": 0,
+      "url": "https://www.ford.com.br/picapes/ranger/compare-as-versoes/xl-20-cd-4x4-at.html"
+    },
+    {
+      "seed_id": "ford:Xls 2 0 Diesel 4x4 At:2026",
+      "marca": "Ford",
+      "modelo": "Xls 2 0 Diesel 4x4 At",
+      "ano": 2026,
+      "matches_diretos": 0,
+      "propagacao_estimada": 0,
+      "impacto_estimado": 0,
+      "url": "https://www.ford.com.br/picapes/ranger/compare-as-versoes/xls-2-0-diesel-4x4-at.html"
+    },
+    {
+      "seed_id": "ford:Xls 3 0 Diesel 4wd At:2026",
+      "marca": "Ford",
+      "modelo": "Xls 3 0 Diesel 4wd At",
+      "ano": 2026,
+      "matches_diretos": 0,
+      "propagacao_estimada": 0,
+      "impacto_estimado": 0,
+      "url": "https://www.ford.com.br/picapes/ranger/compare-as-versoes/xls-3-0-diesel-4wd-at.html"
+    },
+    {
+      "seed_id": "ford:Picapes:2026",
+      "marca": "Ford",
+      "modelo": "Picapes",
+      "ano": 2026,
+      "matches_diretos": 0,
+      "propagacao_estimada": 0,
+      "impacto_estimado": 0,
+      "url": "https://www.ford.com.br/todos-os-veiculos/picapes.html"
+    },
+    {
+      "seed_id": "ford:Suvs Crossovers:2026",
+      "marca": "Ford",
+      "modelo": "Suvs Crossovers",
+      "ano": 2026,
+      "matches_diretos": 0,
+      "propagacao_estimada": 0,
+      "impacto_estimado": 0,
+      "url": "https://www.ford.com.br/todos-os-veiculos/suvs-crossovers.html"
+    },
+    {
+      "seed_id": "ford:Comerciais:2026",
+      "marca": "Ford",
+      "modelo": "Comerciais",
+      "ano": 2026,
+      "matches_diretos": 0,
+      "propagacao_estimada": 0,
+      "impacto_estimado": 0,
+      "url": "https://www.ford.com.br/todos-os-veiculos/comerciais.html"
+    },
+    {
+      "seed_id": "ford:Programa De Rotulagem Veicular De Seguranca:2026",
+      "marca": "Ford",
+      "modelo": "Programa De Rotulagem Veicular De Seguranca",
+      "ano": 2026,
+      "matches_diretos": 0,
+      "propagacao_estimada": 0,
+      "impacto_estimado": 0,
+      "url": "https://www.ford.com.br/programa-de-rotulagem-veicular-de-seguranca.html"
+    },
+    {
+      "seed_id": "ford:Request A Quote:2026",
+      "marca": "Ford",
+      "modelo": "Request A Quote",
+      "ano": 2026,
+      "matches_diretos": 0,
+      "propagacao_estimada": 0,
+      "impacto_estimado": 0,
+      "url": "https://www.ford.com.br/content/ford/br/pt_br/site-wide-content/overlays/forms/request-a-quote.html?Model=6DC&amp;BRModel=Nova%20Ranger&amp;modelyear=2026"
+    },
+    {
+      "seed_id": "ford:Request A Quote:2026",
+      "marca": "Ford",
+      "modelo": "Request A Quote",
+      "ano": 2026,
+      "matches_diretos": 0,
+      "propagacao_estimada": 0,
+      "impacto_estimado": 0,
+      "url": "https://www.ford.com.br/request-a-quote.html?Model=TA1&BRModel=Ranger%20Raptor&modelyear=2026&Series=AOD6&BRVersion=Raptor%203.0%20V6%20Bi-turbo%204WD%20AT%202026"
+    },
+    {
+      "seed_id": "jac:T8:2026",
+      "marca": "JAC",
+      "modelo": "T8",
+      "ano": 2026,
+      "matches_diretos": 0,
+      "propagacao_estimada": 0,
+      "impacto_estimado": 0,
+      "url": "https://www.jacmotors.com.br/jac-t8"
+    },
+    {
+      "seed_id": "kia:Sportage:2026",
+      "marca": "Kia",
+      "modelo": "Sportage",
+      "ano": 2026,
+      "matches_diretos": 0,
+      "propagacao_estimada": 0,
+      "impacto_estimado": 0,
+      "url": "https://www.kia.com.br/sportage"
+    },
+    {
+      "seed_id": "kia:Sorento:2026",
+      "marca": "Kia",
+      "modelo": "Sorento",
+      "ano": 2026,
+      "matches_diretos": 0,
+      "propagacao_estimada": 0,
+      "impacto_estimado": 0,
+      "url": "https://www.kia.com.br/sorento"
+    },
+    {
+      "seed_id": "kia:Carnival:2026",
+      "marca": "Kia",
+      "modelo": "Carnival",
+      "ano": 2026,
+      "matches_diretos": 0,
+      "propagacao_estimada": 0,
+      "impacto_estimado": 0,
+      "url": "https://www.kia.com.br/carnival"
+    },
+    {
+      "seed_id": "kia:EV5:2026",
+      "marca": "Kia",
+      "modelo": "EV5",
+      "ano": 2026,
+      "matches_diretos": 0,
+      "propagacao_estimada": 0,
+      "impacto_estimado": 0,
+      "url": "https://www.kia.com.br/ev5"
+    },
+    {
+      "seed_id": "kia:Bongo:2026",
+      "marca": "Kia",
+      "modelo": "Bongo",
+      "ano": 2026,
+      "matches_diretos": 0,
+      "propagacao_estimada": 0,
+      "impacto_estimado": 0,
+      "url": "https://www.kia.com.br/bongo"
+    },
+    {
+      "seed_id": "kia:Etiquetagemveicular:2026",
+      "marca": "Kia",
+      "modelo": "Etiquetagemveicular",
+      "ano": 2026,
+      "matches_diretos": 0,
+      "propagacao_estimada": 0,
+      "impacto_estimado": 0,
+      "url": "https://www.kia.com.br/etiquetagemveicular"
+    },
+    {
+      "seed_id": "mercedes-benz:Classe C:2026",
+      "marca": "Mercedes-Benz",
+      "modelo": "Classe C",
+      "ano": 2026,
+      "matches_diretos": 0,
+      "propagacao_estimada": 0,
+      "impacto_estimado": 0,
+      "url": "https://www.mercedes-benz.com.br/passengercars/models/saloon/c-class/overview.html"
+    },
+    {
+      "seed_id": "peugeot:Monte:2026",
+      "marca": "Peugeot",
+      "modelo": "Monte",
+      "ano": 2026,
+      "matches_diretos": 0,
+      "propagacao_estimada": 0,
+      "impacto_estimado": 0,
+      "url": "https://www.peugeot.com.br/gama/peugeot-208/monte.html"
+    },
+    {
+      "seed_id": "peugeot:Monte:2026",
+      "marca": "Peugeot",
+      "modelo": "Monte",
+      "ano": 2026,
+      "matches_diretos": 0,
+      "propagacao_estimada": 0,
+      "impacto_estimado": 0,
+      "url": "https://www.peugeot.com.br/gama/peugeot-208/monte.html?mvs=1PPAA5P45OGCA0C3&year=2026&color=0MM00N9V&openFundingPlans=true"
+    },
+    {
+      "seed_id": "peugeot:Monte:2026",
+      "marca": "Peugeot",
+      "modelo": "Monte",
+      "ano": 2026,
+      "matches_diretos": 0,
+      "propagacao_estimada": 0,
+      "impacto_estimado": 0,
+      "url": "https://www.peugeot.com.br/gama/peugeot-208/monte.html?mvs=1PPAA5P45OGCA0C3&year=2026&color=0MM00N9V"
+    },
+    {
+      "seed_id": "peugeot:Monte:2026",
+      "marca": "Peugeot",
+      "modelo": "Monte",
+      "ano": 2026,
+      "matches_diretos": 0,
+      "propagacao_estimada": 0,
+      "impacto_estimado": 0,
+      "url": "https://www.peugeot.com.br/gama/peugeot-208/monte.html?mvs=1PPAA5H5OOGCA0C3&year=2026&color=0MM00N9V&openFundingPlans=true"
+    },
+    {
+      "seed_id": "peugeot:Monte:2026",
+      "marca": "Peugeot",
+      "modelo": "Monte",
+      "ano": 2026,
+      "matches_diretos": 0,
+      "propagacao_estimada": 0,
+      "impacto_estimado": 0,
+      "url": "https://www.peugeot.com.br/gama/peugeot-208/monte.html?mvs=1PPAA5H5OOGCA0C3&year=2026&color=0MM00N9V"
+    },
+    {
+      "seed_id": "peugeot:Monte:2026",
+      "marca": "Peugeot",
+      "modelo": "Monte",
+      "ano": 2026,
+      "matches_diretos": 0,
+      "propagacao_estimada": 0,
+      "impacto_estimado": 0,
+      "url": "https://www.peugeot.com.br/gama/peugeot-208/monte.html?mvs=1PPAA5D5OOGCA0C3&year=2026&color=0MM00N9V&openFundingPlans=true"
+    },
+    {
+      "seed_id": "peugeot:Monte:2026",
+      "marca": "Peugeot",
+      "modelo": "Monte",
+      "ano": 2026,
+      "matches_diretos": 0,
+      "propagacao_estimada": 0,
+      "impacto_estimado": 0,
+      "url": "https://www.peugeot.com.br/gama/peugeot-208/monte.html?mvs=1PPAA5D5OOGCA0C3&year=2026&color=0MM00N9V"
+    },
+    {
+      "seed_id": "peugeot:Monte:2026",
+      "marca": "Peugeot",
+      "modelo": "Monte",
+      "ano": 2026,
+      "matches_diretos": 0,
+      "propagacao_estimada": 0,
+      "impacto_estimado": 0,
+      "url": "https://www.peugeot.com.br/gama/peugeot-208/monte.html?mvs=1PPAA5D5I5GC2PC3&year=2026&color=0MM00N9V&openFundingPlans=true"
+    },
+    {
+      "seed_id": "peugeot:Monte:2026",
+      "marca": "Peugeot",
+      "modelo": "Monte",
+      "ano": 2026,
+      "matches_diretos": 0,
+      "propagacao_estimada": 0,
+      "impacto_estimado": 0,
+      "url": "https://www.peugeot.com.br/gama/peugeot-208/monte.html?mvs=1PPAA5D5I5GC2PC3&year=2026&color=0MM00N9V"
+    },
+    {
+      "seed_id": "peugeot:Ofertas:2026",
+      "marca": "Peugeot",
+      "modelo": "Ofertas",
+      "ano": 2026,
+      "matches_diretos": 0,
+      "propagacao_estimada": 0,
+      "impacto_estimado": 0,
+      "url": "https://www.peugeot.com.br/ofertas.html/?modelCode=1PPA"
+    },
+    {
+      "seed_id": "peugeot:Monte:2026",
+      "marca": "Peugeot",
+      "modelo": "Monte",
+      "ano": 2026,
+      "matches_diretos": 0,
+      "propagacao_estimada": 0,
+      "impacto_estimado": 0,
+      "url": "https://www.peugeot.com.br/gama/peugeot-208/monte.html?openFundingPlans=true"
+    },
+    {
+      "seed_id": "renault:Monte O Seu:2026",
+      "marca": "Renault",
+      "modelo": "Monte O Seu",
+      "ano": 2026,
+      "matches_diretos": 0,
+      "propagacao_estimada": 0,
+      "impacto_estimado": 0,
+      "url": "https://www.renault.com.br/veiculos-de-passeio/kwid/monte-o-seu.html"
+    },
+    {
+      "seed_id": "renault:Monte O Seu:2026",
+      "marca": "Renault",
+      "modelo": "Monte O Seu",
+      "ano": 2026,
+      "matches_diretos": 0,
+      "propagacao_estimada": 0,
+      "impacto_estimado": 0,
+      "url": "https://www.renault.com.br/veiculos-de-passeio/kardian/monte-o-seu.html"
+    },
+    {
+      "seed_id": "renault:Monte O Seu:2026",
+      "marca": "Renault",
+      "modelo": "Monte O Seu",
+      "ano": 2026,
+      "matches_diretos": 0,
+      "propagacao_estimada": 0,
+      "impacto_estimado": 0,
+      "url": "https://www.renault.com.br/veiculos-de-passeio/duster/monte-o-seu.html"
+    },
+    {
+      "seed_id": "renault:Monte O Seu:2026",
+      "marca": "Renault",
+      "modelo": "Monte O Seu",
+      "ano": 2026,
+      "matches_diretos": 0,
+      "propagacao_estimada": 0,
+      "impacto_estimado": 0,
+      "url": "https://www.renault.com.br/veiculos-de-passeio/oroch/monte-o-seu.html"
+    },
+    {
+      "seed_id": "renault:Monte O Seu:2026",
+      "marca": "Renault",
+      "modelo": "Monte O Seu",
+      "ano": 2026,
+      "matches_diretos": 0,
+      "propagacao_estimada": 0,
+      "impacto_estimado": 0,
+      "url": "https://www.renault.com.br/veiculos-de-passeio/boreal/monte-o-seu.html"
+    },
+    {
+      "seed_id": "renault:Monte O Seu:2026",
+      "marca": "Renault",
+      "modelo": "Monte O Seu",
+      "ano": 2026,
+      "matches_diretos": 0,
+      "propagacao_estimada": 0,
+      "impacto_estimado": 0,
+      "url": "https://www.renault.com.br/veiculos-hibridos/koleos/monte-o-seu.html"
+    },
+    {
+      "seed_id": "volvo:XC60:2026",
+      "marca": "Volvo",
+      "modelo": "XC60",
+      "ano": 2026,
+      "matches_diretos": 0,
+      "propagacao_estimada": 0,
+      "impacto_estimado": 0,
+      "url": "https://www.volvocars.com/br/cars/xc60-hybrid/"
+    },
+    {
+      "seed_id": "volvo:XC90:2026",
+      "marca": "Volvo",
+      "modelo": "XC90",
+      "ano": 2026,
+      "matches_diretos": 0,
+      "propagacao_estimada": 0,
+      "impacto_estimado": 0,
+      "url": "https://www.volvocars.com/br/cars/xc90-hybrid/"
+    },
+    {
+      "seed_id": "volvo:Suv:2026",
+      "marca": "Volvo",
+      "modelo": "Suv",
+      "ano": 2026,
+      "matches_diretos": 0,
+      "propagacao_estimada": 0,
+      "impacto_estimado": 0,
+      "url": "https://www.volvocars.com/br/cars/suv/"
+    },
+    {
+      "seed_id": "volvo:Etiquetas Nacional Seguranca Veicular:2026",
+      "marca": "Volvo",
+      "modelo": "Etiquetas Nacional Seguranca Veicular",
+      "ano": 2026,
+      "matches_diretos": 0,
+      "propagacao_estimada": 0,
+      "impacto_estimado": 0,
+      "url": "https://www.volvocars.com/br/l/proprietario/etiquetas-nacional-seguranca-veicular/"
+    },
+    {
+      "seed_id": "volvo:Legacy Models:2026",
+      "marca": "Volvo",
+      "modelo": "Legacy Models",
+      "ano": 2026,
+      "matches_diretos": 0,
+      "propagacao_estimada": 0,
+      "impacto_estimado": 0,
+      "url": "https://www.volvocars.com/br/cars/legacy-models/"
+    },
+    {
+      "seed_id": "volvo:Compare Cars:2026",
+      "marca": "Volvo",
+      "modelo": "Compare Cars",
+      "ano": 2026,
+      "matches_diretos": 0,
+      "propagacao_estimada": 0,
+      "impacto_estimado": 0,
+      "url": "https://www.volvocars.com/br/cars/compare-cars/?models=ex30-electric"
+    }
+  ]
+}

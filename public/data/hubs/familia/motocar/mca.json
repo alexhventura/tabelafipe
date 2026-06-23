@@ -1,0 +1,72 @@
+{
+  "tipo": "familia",
+  "slug": "mca",
+  "canonicalPath": "/fipe/motocar/mca/",
+  "titulo": "MOTOCAR mca - Tabela FIPE",
+  "descricao": "5 versoes e anos do MOTOCAR mca na Tabela FIPE.",
+  "seo": {
+    "title": "MOTOCAR mca - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes MOTOCAR mca. 5 veiculos indexados.",
+    "h1": "MOTOCAR mca - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/motocar/mca/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "motocar-mca-250-2017-gasolina",
+      "fipeCodigo": "882005-8",
+      "displayName": "MOTOCAR MCA-250",
+      "valorAtual": 16206,
+      "canonicalPath": "/fipe/motocar/mca-250-2017-882005-8/",
+      "ano": 2017,
+      "marca": "MOTOCAR"
+    },
+    {
+      "vehicleId": "motocar-mca-200-2016-gasolina",
+      "fipeCodigo": "882003-1",
+      "displayName": "MOTOCAR MCA-200",
+      "valorAtual": 15095,
+      "canonicalPath": "/fipe/motocar/mca-200-2016-882003-1/",
+      "ano": 2016,
+      "marca": "MOTOCAR"
+    },
+    {
+      "vehicleId": "motocar-mca-200-2015-gasolina",
+      "fipeCodigo": "882003-1",
+      "displayName": "MOTOCAR MCA-200",
+      "valorAtual": 14442,
+      "canonicalPath": "/fipe/motocar/mca-200-2015-882003-1/",
+      "ano": 2015,
+      "marca": "MOTOCAR"
+    },
+    {
+      "vehicleId": "motocar-mca-200-2014-gasolina",
+      "fipeCodigo": "882003-1",
+      "displayName": "MOTOCAR MCA-200",
+      "valorAtual": 13313,
+      "canonicalPath": "/fipe/motocar/mca-200-2014-882003-1/",
+      "ano": 2014,
+      "marca": "MOTOCAR"
+    },
+    {
+      "vehicleId": "motocar-mca-200-2013-gasolina",
+      "fipeCodigo": "882003-1",
+      "displayName": "MOTOCAR MCA-200",
+      "valorAtual": 12103,
+      "canonicalPath": "/fipe/motocar/mca-200-2013-882003-1/",
+      "ano": 2013,
+      "marca": "MOTOCAR"
+    }
+  ],
+  "stats": {
+    "total": 5,
+    "precoMin": 12103,
+    "precoMax": 16206,
+    "anos": [
+      2017,
+      2016,
+      2015,
+      2014,
+      2013
+    ]
+  }
+}

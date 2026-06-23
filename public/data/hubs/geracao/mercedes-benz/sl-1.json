@@ -1,0 +1,48 @@
+{
+  "tipo": "geracao",
+  "slug": "sl-1",
+  "canonicalPath": "/geracao/mercedes-benz/sl-1/",
+  "titulo": "Geracao sl-1",
+  "descricao": "3 veiculos da geracao sl-1.",
+  "seo": {
+    "title": "Geracao sl-1 - Precos FIPE",
+    "description": "Veiculos da geracao sl-1 na Tabela FIPE.",
+    "h1": "Geracao sl-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/mercedes-benz/sl-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "mercedes-benz-sl-63-amg-s-e-performance-aut-hibrido-0-hibrido",
+      "fipeCodigo": "021541-4",
+      "displayName": "Mercedes-Benz SL-63 AMG S E Performance Aut. (Híbrido)",
+      "valorAtual": 1822961,
+      "canonicalPath": "/fipe/mercedes-benz/sl-63-amg-s-e-performance-aut-hibrido-0-021541-4/",
+      "ano": 0,
+      "marca": "Mercedes-Benz"
+    },
+    {
+      "vehicleId": "saturn-sl-2-1-9-1991-gasolina",
+      "fipeCodigo": "054001-3",
+      "displayName": "Saturn SL-2 1.9",
+      "valorAtual": 11577,
+      "canonicalPath": "/fipe/saturn/sl-2-1-9-1991-054001-3/",
+      "ano": 1991,
+      "marca": "Saturn"
+    },
+    {
+      "vehicleId": "saturn-sl-2-1-9-1992-gasolina",
+      "fipeCodigo": "054001-3",
+      "displayName": "Saturn SL-2 1.9",
+      "valorAtual": 19208,
+      "canonicalPath": "/fipe/saturn/sl-2-1-9-1992-054001-3/",
+      "ano": 1992,
+      "marca": "Saturn"
+    }
+  ],
+  "stats": {
+    "total": 3
+  },
+  "meta": {
+    "geracaoId": "sl-1"
+  }
+}

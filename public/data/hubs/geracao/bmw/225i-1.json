@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "225i-1",
+  "canonicalPath": "/geracao/bmw/225i-1/",
+  "titulo": "Geracao 225i-1",
+  "descricao": "2 veiculos da geracao 225i-1.",
+  "seo": {
+    "title": "Geracao 225i-1 - Precos FIPE",
+    "description": "Veiculos da geracao 225i-1 na Tabela FIPE.",
+    "h1": "Geracao 225i-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/bmw/225i-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "bmw-225i-active-tourer-sport-2-0-tb-aut-2015-gasolina",
+      "fipeCodigo": "009208-8",
+      "displayName": "BMW 225i Active Tourer Sport 2.0 TB Aut.",
+      "valorAtual": 83826,
+      "canonicalPath": "/fipe/bmw/225i-active-tourer-sport-2-0-tb-aut-2015-009208-8/",
+      "ano": 2015,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-225i-active-tourer-sport-2-0-tb-aut-2016-gasolina",
+      "fipeCodigo": "009208-8",
+      "displayName": "BMW 225i Active Tourer Sport 2.0 TB Aut.",
+      "valorAtual": 95182,
+      "canonicalPath": "/fipe/bmw/225i-active-tourer-sport-2-0-tb-aut-2016-009208-8/",
+      "ano": 2016,
+      "marca": "BMW"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "225i-1"
+  }
+}

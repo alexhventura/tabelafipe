@@ -1,0 +1,4518 @@
+{
+  "geradoEm": "2026-06-22T16:08:45.463Z",
+  "totalVeiculos": 50395,
+  "totalCampos": 96,
+  "totalCamadas": 18,
+  "camadasResumo": [
+    {
+      "id": "identidade",
+      "numero": 1,
+      "titulo": "Identidade",
+      "totalCampos": 14,
+      "metaMediaCobertura": 85
+    },
+    {
+      "id": "precos",
+      "numero": 2,
+      "titulo": "Precos",
+      "totalCampos": 11,
+      "metaMediaCobertura": 85
+    },
+    {
+      "id": "motorizacao",
+      "numero": 3,
+      "titulo": "Motorizacao",
+      "totalCampos": 11,
+      "metaMediaCobertura": 50
+    },
+    {
+      "id": "transmissao",
+      "numero": 4,
+      "titulo": "Transmissao",
+      "totalCampos": 5,
+      "metaMediaCobertura": 51
+    },
+    {
+      "id": "dimensoes",
+      "numero": 5,
+      "titulo": "Dimensoes",
+      "totalCampos": 7,
+      "metaMediaCobertura": 41
+    },
+    {
+      "id": "capacidades",
+      "numero": 6,
+      "titulo": "Capacidades",
+      "totalCampos": 7,
+      "metaMediaCobertura": 41
+    },
+    {
+      "id": "rodas_pneus",
+      "numero": 7,
+      "titulo": "Rodas e Pneus",
+      "totalCampos": 4,
+      "metaMediaCobertura": 24
+    },
+    {
+      "id": "suspensao_freios",
+      "numero": 8,
+      "titulo": "Suspensao e Freios",
+      "totalCampos": 3,
+      "metaMediaCobertura": 32
+    },
+    {
+      "id": "consumo_eficiencia",
+      "numero": 9,
+      "titulo": "Consumo e Eficiencia",
+      "totalCampos": 6,
+      "metaMediaCobertura": 37
+    },
+    {
+      "id": "seguranca",
+      "numero": 10,
+      "titulo": "Seguranca",
+      "totalCampos": 3,
+      "metaMediaCobertura": 37
+    },
+    {
+      "id": "recalls",
+      "numero": 11,
+      "titulo": "Recalls",
+      "totalCampos": 2,
+      "metaMediaCobertura": 38
+    },
+    {
+      "id": "garantias",
+      "numero": 12,
+      "titulo": "Garantias",
+      "totalCampos": 1,
+      "metaMediaCobertura": 35
+    },
+    {
+      "id": "manutencao",
+      "numero": 13,
+      "titulo": "Manutencao",
+      "totalCampos": 1,
+      "metaMediaCobertura": 25
+    },
+    {
+      "id": "revisoes",
+      "numero": 14,
+      "titulo": "Revisoes",
+      "totalCampos": 1,
+      "metaMediaCobertura": 25
+    },
+    {
+      "id": "eletrificacao",
+      "numero": 15,
+      "titulo": "Eletri ficacao",
+      "totalCampos": 2,
+      "metaMediaCobertura": 20
+    },
+    {
+      "id": "dados_derivados",
+      "numero": 16,
+      "titulo": "Dados Derivados",
+      "totalCampos": 8,
+      "metaMediaCobertura": 63
+    },
+    {
+      "id": "historia_automotiva",
+      "numero": 17,
+      "titulo": "Historia Automotiva",
+      "totalCampos": 5,
+      "metaMediaCobertura": 49
+    },
+    {
+      "id": "knowledge_graph",
+      "numero": 18,
+      "titulo": "Knowledge Graph",
+      "totalCampos": 5,
+      "metaMediaCobertura": 80
+    }
+  ],
+  "coberturaGlobal": {
+    "potencia": {
+      "preenchidos": 4023,
+      "total": 50395,
+      "pct": 7.98,
+      "meta": 70,
+      "atingiu": false,
+      "ponderadaPct": 9.31
+    },
+    "torque": {
+      "preenchidos": 0,
+      "total": 50395,
+      "pct": 0,
+      "meta": 70,
+      "atingiu": false,
+      "ponderadaPct": 0
+    },
+    "transmissao": {
+      "preenchidos": 12079,
+      "total": 50395,
+      "pct": 23.97,
+      "meta": 70,
+      "atingiu": false,
+      "ponderadaPct": 27.39
+    },
+    "porta_malas": {
+      "preenchidos": 0,
+      "total": 50395,
+      "pct": 0,
+      "meta": 50,
+      "atingiu": false,
+      "ponderadaPct": 0
+    },
+    "consumo_urbano": {
+      "preenchidos": 20906,
+      "total": 50395,
+      "pct": 41.48,
+      "meta": 45,
+      "atingiu": false,
+      "ponderadaPct": 47.4
+    },
+    "preco_fipe_atual": {
+      "preenchidos": 50395,
+      "total": 50395,
+      "pct": 100,
+      "meta": 100,
+      "atingiu": true,
+      "ponderadaPct": 100
+    },
+    "historico_precos": {
+      "preenchidos": 50395,
+      "total": 50395,
+      "pct": 100,
+      "meta": 100,
+      "atingiu": true,
+      "ponderadaPct": 100
+    },
+    "geracao": {
+      "preenchidos": 1335,
+      "total": 50395,
+      "pct": 2.65,
+      "meta": 40,
+      "atingiu": false,
+      "ponderadaPct": 3.05
+    },
+    "concorrentes": {
+      "preenchidos": 5000,
+      "total": 50395,
+      "pct": 9.92,
+      "meta": 80,
+      "atingiu": false,
+      "ponderadaPct": 10.38
+    }
+  },
+  "porCategoria": {
+    "carros": {
+      "potencia": {
+        "preenchidos": 4001,
+        "total": 30180,
+        "pct": 13.26,
+        "meta": 70,
+        "atingiu": false,
+        "ponderadaPct": 13.86
+      },
+      "torque": {
+        "preenchidos": 0,
+        "total": 30180,
+        "pct": 0,
+        "meta": 70,
+        "atingiu": false,
+        "ponderadaPct": 0
+      },
+      "transmissao": {
+        "preenchidos": 11832,
+        "total": 30180,
+        "pct": 39.2,
+        "meta": 70,
+        "atingiu": false,
+        "ponderadaPct": 40.26
+      },
+      "porta_malas": {
+        "preenchidos": 0,
+        "total": 30180,
+        "pct": 0,
+        "meta": 50,
+        "atingiu": false,
+        "ponderadaPct": 0
+      },
+      "consumo_urbano": {
+        "preenchidos": 20833,
+        "total": 30180,
+        "pct": 69.03,
+        "meta": 45,
+        "atingiu": true,
+        "ponderadaPct": 70.65
+      },
+      "preco_fipe_atual": {
+        "preenchidos": 30180,
+        "total": 30180,
+        "pct": 100,
+        "meta": 100,
+        "atingiu": true,
+        "ponderadaPct": 100
+      },
+      "historico_precos": {
+        "preenchidos": 30180,
+        "total": 30180,
+        "pct": 100,
+        "meta": 100,
+        "atingiu": true,
+        "ponderadaPct": 100
+      },
+      "geracao": {
+        "preenchidos": 1335,
+        "total": 30180,
+        "pct": 4.42,
+        "meta": 40,
+        "atingiu": false,
+        "ponderadaPct": 4.55
+      },
+      "concorrentes": {
+        "preenchidos": 3270,
+        "total": 30180,
+        "pct": 10.83,
+        "meta": 80,
+        "atingiu": false,
+        "ponderadaPct": 11.25
+      }
+    },
+    "motos": {
+      "potencia": {
+        "preenchidos": 1,
+        "total": 8847,
+        "pct": 0.01,
+        "meta": 70,
+        "atingiu": false,
+        "ponderadaPct": 0.01
+      },
+      "torque": {
+        "preenchidos": 0,
+        "total": 8847,
+        "pct": 0,
+        "meta": 70,
+        "atingiu": false,
+        "ponderadaPct": 0
+      },
+      "transmissao": {
+        "preenchidos": 82,
+        "total": 8847,
+        "pct": 0.93,
+        "meta": 70,
+        "atingiu": false,
+        "ponderadaPct": 1.02
+      },
+      "porta_malas": {
+        "preenchidos": 0,
+        "total": 8847,
+        "pct": 0,
+        "meta": 50,
+        "atingiu": false,
+        "ponderadaPct": 0
+      },
+      "consumo_urbano": {
+        "preenchidos": 55,
+        "total": 8847,
+        "pct": 0.62,
+        "meta": 45,
+        "atingiu": false,
+        "ponderadaPct": 0.6
+      },
+      "preco_fipe_atual": {
+        "preenchidos": 8847,
+        "total": 8847,
+        "pct": 100,
+        "meta": 100,
+        "atingiu": true,
+        "ponderadaPct": 100
+      },
+      "historico_precos": {
+        "preenchidos": 8847,
+        "total": 8847,
+        "pct": 100,
+        "meta": 100,
+        "atingiu": true,
+        "ponderadaPct": 100
+      },
+      "geracao": {
+        "preenchidos": 0,
+        "total": 8847,
+        "pct": 0,
+        "meta": 40,
+        "atingiu": false,
+        "ponderadaPct": 0
+      },
+      "concorrentes": {
+        "preenchidos": 1217,
+        "total": 8847,
+        "pct": 13.76,
+        "meta": 80,
+        "atingiu": false,
+        "ponderadaPct": 14.26
+      }
+    },
+    "caminhoes": {
+      "potencia": {
+        "preenchidos": 21,
+        "total": 11368,
+        "pct": 0.18,
+        "meta": 70,
+        "atingiu": false,
+        "ponderadaPct": 0.18
+      },
+      "torque": {
+        "preenchidos": 0,
+        "total": 11368,
+        "pct": 0,
+        "meta": 70,
+        "atingiu": false,
+        "ponderadaPct": 0
+      },
+      "transmissao": {
+        "preenchidos": 165,
+        "total": 11368,
+        "pct": 1.45,
+        "meta": 70,
+        "atingiu": false,
+        "ponderadaPct": 1.58
+      },
+      "porta_malas": {
+        "preenchidos": 0,
+        "total": 11368,
+        "pct": 0,
+        "meta": 50,
+        "atingiu": false,
+        "ponderadaPct": 0
+      },
+      "consumo_urbano": {
+        "preenchidos": 18,
+        "total": 11368,
+        "pct": 0.16,
+        "meta": 45,
+        "atingiu": false,
+        "ponderadaPct": 0.13
+      },
+      "preco_fipe_atual": {
+        "preenchidos": 11368,
+        "total": 11368,
+        "pct": 100,
+        "meta": 100,
+        "atingiu": true,
+        "ponderadaPct": 100
+      },
+      "historico_precos": {
+        "preenchidos": 11368,
+        "total": 11368,
+        "pct": 100,
+        "meta": 100,
+        "atingiu": true,
+        "ponderadaPct": 100
+      },
+      "geracao": {
+        "preenchidos": 0,
+        "total": 11368,
+        "pct": 0,
+        "meta": 40,
+        "atingiu": false,
+        "ponderadaPct": 0
+      },
+      "concorrentes": {
+        "preenchidos": 513,
+        "total": 11368,
+        "pct": 4.51,
+        "meta": 80,
+        "atingiu": false,
+        "ponderadaPct": 4.06
+      }
+    }
+  },
+  "porFabricante": {
+    "VW - VolksWagen": {
+      "total": 2708,
+      "campos": {
+        "potencia": {
+          "preenchidos": 129,
+          "total": 2708,
+          "pct": 4.76,
+          "meta": 70,
+          "atingiu": false,
+          "ponderadaPct": 5.01
+        },
+        "torque": {
+          "preenchidos": 0,
+          "total": 2708,
+          "pct": 0,
+          "meta": 70,
+          "atingiu": false,
+          "ponderadaPct": 0
+        },
+        "transmissao": {
+          "preenchidos": 555,
+          "total": 2708,
+          "pct": 20.49,
+          "meta": 70,
+          "atingiu": false,
+          "ponderadaPct": 21.98
+        },
+        "porta_malas": {
+          "preenchidos": 0,
+          "total": 2708,
+          "pct": 0,
+          "meta": 50,
+          "atingiu": false,
+          "ponderadaPct": 0
+        },
+        "consumo_urbano": {
+          "preenchidos": 2254,
+          "total": 2708,
+          "pct": 83.23,
+          "meta": 45,
+          "atingiu": true,
+          "ponderadaPct": 84.3
+        },
+        "preco_fipe_atual": {
+          "preenchidos": 2708,
+          "total": 2708,
+          "pct": 100,
+          "meta": 100,
+          "atingiu": true,
+          "ponderadaPct": 100
+        },
+        "historico_precos": {
+          "preenchidos": 2708,
+          "total": 2708,
+          "pct": 100,
+          "meta": 100,
+          "atingiu": true,
+          "ponderadaPct": 100
+        },
+        "geracao": {
+          "preenchidos": 214,
+          "total": 2708,
+          "pct": 7.9,
+          "meta": 40,
+          "atingiu": false,
+          "ponderadaPct": 8.21
+        },
+        "concorrentes": {
+          "preenchidos": 0,
+          "total": 2708,
+          "pct": 0,
+          "meta": 80,
+          "atingiu": false,
+          "ponderadaPct": 0
+        }
+      }
+    },
+    "GM - Chevrolet": {
+      "total": 2619,
+      "campos": {
+        "potencia": {
+          "preenchidos": 117,
+          "total": 2619,
+          "pct": 4.47,
+          "meta": 70,
+          "atingiu": false,
+          "ponderadaPct": 4.51
+        },
+        "torque": {
+          "preenchidos": 0,
+          "total": 2619,
+          "pct": 0,
+          "meta": 70,
+          "atingiu": false,
+          "ponderadaPct": 0
+        },
+        "transmissao": {
+          "preenchidos": 873,
+          "total": 2619,
+          "pct": 33.33,
+          "meta": 70,
+          "atingiu": false,
+          "ponderadaPct": 35.37
+        },
+        "porta_malas": {
+          "preenchidos": 0,
+          "total": 2619,
+          "pct": 0,
+          "meta": 50,
+          "atingiu": false,
+          "ponderadaPct": 0
+        },
+        "consumo_urbano": {
+          "preenchidos": 1370,
+          "total": 2619,
+          "pct": 52.31,
+          "meta": 45,
+          "atingiu": true,
+          "ponderadaPct": 55.01
+        },
+        "preco_fipe_atual": {
+          "preenchidos": 2619,
+          "total": 2619,
+          "pct": 100,
+          "meta": 100,
+          "atingiu": true,
+          "ponderadaPct": 100
+        },
+        "historico_precos": {
+          "preenchidos": 2619,
+          "total": 2619,
+          "pct": 100,
+          "meta": 100,
+          "atingiu": true,
+          "ponderadaPct": 100
+        },
+        "geracao": {
+          "preenchidos": 167,
+          "total": 2619,
+          "pct": 6.38,
+          "meta": 40,
+          "atingiu": false,
+          "ponderadaPct": 6.73
+        },
+        "concorrentes": {
+          "preenchidos": 12,
+          "total": 2619,
+          "pct": 0.46,
+          "meta": 80,
+          "atingiu": false,
+          "ponderadaPct": 0.4
+        }
+      }
+    },
+    "Fiat": {
+      "total": 2478,
+      "campos": {
+        "potencia": {
+          "preenchidos": 99,
+          "total": 2478,
+          "pct": 4,
+          "meta": 70,
+          "atingiu": false,
+          "ponderadaPct": 3.85
+        },
+        "torque": {
+          "preenchidos": 0,
+          "total": 2478,
+          "pct": 0,
+          "meta": 70,
+          "atingiu": false,
+          "ponderadaPct": 0
+        },
+        "transmissao": {
+          "preenchidos": 440,
+          "total": 2478,
+          "pct": 17.76,
+          "meta": 70,
+          "atingiu": false,
+          "ponderadaPct": 19.16
+        },
+        "porta_malas": {
+          "preenchidos": 0,
+          "total": 2478,
+          "pct": 0,
+          "meta": 50,
+          "atingiu": false,
+          "ponderadaPct": 0
+        },
+        "consumo_urbano": {
+          "preenchidos": 2212,
+          "total": 2478,
+          "pct": 89.27,
+          "meta": 45,
+          "atingiu": true,
+          "ponderadaPct": 90.34
+        },
+        "preco_fipe_atual": {
+          "preenchidos": 2478,
+          "total": 2478,
+          "pct": 100,
+          "meta": 100,
+          "atingiu": true,
+          "ponderadaPct": 100
+        },
+        "historico_precos": {
+          "preenchidos": 2478,
+          "total": 2478,
+          "pct": 100,
+          "meta": 100,
+          "atingiu": true,
+          "ponderadaPct": 100
+        },
+        "geracao": {
+          "preenchidos": 99,
+          "total": 2478,
+          "pct": 4,
+          "meta": 40,
+          "atingiu": false,
+          "ponderadaPct": 4.32
+        },
+        "concorrentes": {
+          "preenchidos": 0,
+          "total": 2478,
+          "pct": 0,
+          "meta": 80,
+          "atingiu": false,
+          "ponderadaPct": 0
+        }
+      }
+    },
+    "MERCEDES-BENZ": {
+      "total": 2282,
+      "campos": {
+        "potencia": {
+          "preenchidos": 0,
+          "total": 2282,
+          "pct": 0,
+          "meta": 70,
+          "atingiu": false,
+          "ponderadaPct": 0
+        },
+        "torque": {
+          "preenchidos": 0,
+          "total": 2282,
+          "pct": 0,
+          "meta": 70,
+          "atingiu": false,
+          "ponderadaPct": 0
+        },
+        "transmissao": {
+          "preenchidos": 0,
+          "total": 2282,
+          "pct": 0,
+          "meta": 70,
+          "atingiu": false,
+          "ponderadaPct": 0
+        },
+        "porta_malas": {
+          "preenchidos": 0,
+          "total": 2282,
+          "pct": 0,
+          "meta": 50,
+          "atingiu": false,
+          "ponderadaPct": 0
+        },
+        "consumo_urbano": {
+          "preenchidos": 0,
+          "total": 2282,
+          "pct": 0,
+          "meta": 45,
+          "atingiu": false,
+          "ponderadaPct": 0
+        },
+        "preco_fipe_atual": {
+          "preenchidos": 2282,
+          "total": 2282,
+          "pct": 100,
+          "meta": 100,
+          "atingiu": true,
+          "ponderadaPct": 100
+        },
+        "historico_precos": {
+          "preenchidos": 2282,
+          "total": 2282,
+          "pct": 100,
+          "meta": 100,
+          "atingiu": true,
+          "ponderadaPct": 100
+        },
+        "geracao": {
+          "preenchidos": 0,
+          "total": 2282,
+          "pct": 0,
+          "meta": 40,
+          "atingiu": false,
+          "ponderadaPct": 0
+        },
+        "concorrentes": {
+          "preenchidos": 0,
+          "total": 2282,
+          "pct": 0,
+          "meta": 80,
+          "atingiu": false,
+          "ponderadaPct": 0
+        }
+      }
+    },
+    "Ford": {
+      "total": 2258,
+      "campos": {
+        "potencia": {
+          "preenchidos": 255,
+          "total": 2258,
+          "pct": 11.29,
+          "meta": 70,
+          "atingiu": false,
+          "ponderadaPct": 11.47
+        },
+        "torque": {
+          "preenchidos": 0,
+          "total": 2258,
+          "pct": 0,
+          "meta": 70,
+          "atingiu": false,
+          "ponderadaPct": 0
+        },
+        "transmissao": {
+          "preenchidos": 589,
+          "total": 2258,
+          "pct": 26.09,
+          "meta": 70,
+          "atingiu": false,
+          "ponderadaPct": 27.47
+        },
+        "porta_malas": {
+          "preenchidos": 0,
+          "total": 2258,
+          "pct": 0,
+          "meta": 50,
+          "atingiu": false,
+          "ponderadaPct": 0
+        },
+        "consumo_urbano": {
+          "preenchidos": 1370,
+          "total": 2258,
+          "pct": 60.67,
+          "meta": 45,
+          "atingiu": true,
+          "ponderadaPct": 62.72
+        },
+        "preco_fipe_atual": {
+          "preenchidos": 2258,
+          "total": 2258,
+          "pct": 100,
+          "meta": 100,
+          "atingiu": true,
+          "ponderadaPct": 100
+        },
+        "historico_precos": {
+          "preenchidos": 2258,
+          "total": 2258,
+          "pct": 100,
+          "meta": 100,
+          "atingiu": true,
+          "ponderadaPct": 100
+        },
+        "geracao": {
+          "preenchidos": 0,
+          "total": 2258,
+          "pct": 0,
+          "meta": 40,
+          "atingiu": false,
+          "ponderadaPct": 0
+        },
+        "concorrentes": {
+          "preenchidos": 0,
+          "total": 2258,
+          "pct": 0,
+          "meta": 80,
+          "atingiu": false,
+          "ponderadaPct": 0
+        }
+      }
+    },
+    "Mercedes-Benz": {
+      "total": 2249,
+      "campos": {
+        "potencia": {
+          "preenchidos": 464,
+          "total": 2249,
+          "pct": 20.63,
+          "meta": 70,
+          "atingiu": false,
+          "ponderadaPct": 20.61
+        },
+        "torque": {
+          "preenchidos": 0,
+          "total": 2249,
+          "pct": 0,
+          "meta": 70,
+          "atingiu": false,
+          "ponderadaPct": 0
+        },
+        "transmissao": {
+          "preenchidos": 844,
+          "total": 2249,
+          "pct": 37.53,
+          "meta": 70,
+          "atingiu": false,
+          "ponderadaPct": 38.56
+        },
+        "porta_malas": {
+          "preenchidos": 0,
+          "total": 2249,
+          "pct": 0,
+          "meta": 50,
+          "atingiu": false,
+          "ponderadaPct": 0
+        },
+        "consumo_urbano": {
+          "preenchidos": 1314,
+          "total": 2249,
+          "pct": 58.43,
+          "meta": 45,
+          "atingiu": true,
+          "ponderadaPct": 60.27
+        },
+        "preco_fipe_atual": {
+          "preenchidos": 2249,
+          "total": 2249,
+          "pct": 100,
+          "meta": 100,
+          "atingiu": true,
+          "ponderadaPct": 100
+        },
+        "historico_precos": {
+          "preenchidos": 2249,
+          "total": 2249,
+          "pct": 100,
+          "meta": 100,
+          "atingiu": true,
+          "ponderadaPct": 100
+        },
+        "geracao": {
+          "preenchidos": 0,
+          "total": 2249,
+          "pct": 0,
+          "meta": 40,
+          "atingiu": false,
+          "ponderadaPct": 0
+        },
+        "concorrentes": {
+          "preenchidos": 0,
+          "total": 2249,
+          "pct": 0,
+          "meta": 80,
+          "atingiu": false,
+          "ponderadaPct": 0
+        }
+      }
+    },
+    "SCANIA": {
+      "total": 2043,
+      "campos": {
+        "potencia": {
+          "preenchidos": 0,
+          "total": 2043,
+          "pct": 0,
+          "meta": 70,
+          "atingiu": false,
+          "ponderadaPct": 0
+        },
+        "torque": {
+          "preenchidos": 0,
+          "total": 2043,
+          "pct": 0,
+          "meta": 70,
+          "atingiu": false,
+          "ponderadaPct": 0
+        },
+        "transmissao": {
+          "preenchidos": 0,
+          "total": 2043,
+          "pct": 0,
+          "meta": 70,
+          "atingiu": false,
+          "ponderadaPct": 0
+        },
+        "porta_malas": {
+          "preenchidos": 0,
+          "total": 2043,
+          "pct": 0,
+          "meta": 50,
+          "atingiu": false,
+          "ponderadaPct": 0
+        },
+        "consumo_urbano": {
+          "preenchidos": 0,
+          "total": 2043,
+          "pct": 0,
+          "meta": 45,
+          "atingiu": false,
+          "ponderadaPct": 0
+        },
+        "preco_fipe_atual": {
+          "preenchidos": 2043,
+          "total": 2043,
+          "pct": 100,
+          "meta": 100,
+          "atingiu": true,
+          "ponderadaPct": 100
+        },
+        "historico_precos": {
+          "preenchidos": 2043,
+          "total": 2043,
+          "pct": 100,
+          "meta": 100,
+          "atingiu": true,
+          "ponderadaPct": 100
+        },
+        "geracao": {
+          "preenchidos": 0,
+          "total": 2043,
+          "pct": 0,
+          "meta": 40,
+          "atingiu": false,
+          "ponderadaPct": 0
+        },
+        "concorrentes": {
+          "preenchidos": 0,
+          "total": 2043,
+          "pct": 0,
+          "meta": 80,
+          "atingiu": false,
+          "ponderadaPct": 0
+        }
+      }
+    },
+    "BMW": {
+      "total": 1870,
+      "campos": {
+        "potencia": {
+          "preenchidos": 395,
+          "total": 1870,
+          "pct": 21.12,
+          "meta": 70,
+          "atingiu": false,
+          "ponderadaPct": 23.11
+        },
+        "torque": {
+          "preenchidos": 0,
+          "total": 1870,
+          "pct": 0,
+          "meta": 70,
+          "atingiu": false,
+          "ponderadaPct": 0
+        },
+        "transmissao": {
+          "preenchidos": 349,
+          "total": 1870,
+          "pct": 18.66,
+          "meta": 70,
+          "atingiu": false,
+          "ponderadaPct": 21.27
+        },
+        "porta_malas": {
+          "preenchidos": 0,
+          "total": 1870,
+          "pct": 0,
+          "meta": 50,
+          "atingiu": false,
+          "ponderadaPct": 0
+        },
+        "consumo_urbano": {
+          "preenchidos": 715,
+          "total": 1870,
+          "pct": 38.24,
+          "meta": 45,
+          "atingiu": false,
+          "ponderadaPct": 42.62
+        },
+        "preco_fipe_atual": {
+          "preenchidos": 1870,
+          "total": 1870,
+          "pct": 100,
+          "meta": 100,
+          "atingiu": true,
+          "ponderadaPct": 100
+        },
+        "historico_precos": {
+          "preenchidos": 1870,
+          "total": 1870,
+          "pct": 100,
+          "meta": 100,
+          "atingiu": true,
+          "ponderadaPct": 100
+        },
+        "geracao": {
+          "preenchidos": 0,
+          "total": 1870,
+          "pct": 0,
+          "meta": 40,
+          "atingiu": false,
+          "ponderadaPct": 0
+        },
+        "concorrentes": {
+          "preenchidos": 1870,
+          "total": 1870,
+          "pct": 100,
+          "meta": 80,
+          "atingiu": true,
+          "ponderadaPct": 100
+        }
+      }
+    },
+    "VOLVO": {
+      "total": 1590,
+      "campos": {
+        "potencia": {
+          "preenchidos": 0,
+          "total": 1590,
+          "pct": 0,
+          "meta": 70,
+          "atingiu": false,
+          "ponderadaPct": 0
+        },
+        "torque": {
+          "preenchidos": 0,
+          "total": 1590,
+          "pct": 0,
+          "meta": 70,
+          "atingiu": false,
+          "ponderadaPct": 0
+        },
+        "transmissao": {
+          "preenchidos": 0,
+          "total": 1590,
+          "pct": 0,
+          "meta": 70,
+          "atingiu": false,
+          "ponderadaPct": 0
+        },
+        "porta_malas": {
+          "preenchidos": 0,
+          "total": 1590,
+          "pct": 0,
+          "meta": 50,
+          "atingiu": false,
+          "ponderadaPct": 0
+        },
+        "consumo_urbano": {
+          "preenchidos": 0,
+          "total": 1590,
+          "pct": 0,
+          "meta": 45,
+          "atingiu": false,
+          "ponderadaPct": 0
+        },
+        "preco_fipe_atual": {
+          "preenchidos": 1590,
+          "total": 1590,
+          "pct": 100,
+          "meta": 100,
+          "atingiu": true,
+          "ponderadaPct": 100
+        },
+        "historico_precos": {
+          "preenchidos": 1590,
+          "total": 1590,
+          "pct": 100,
+          "meta": 100,
+          "atingiu": true,
+          "ponderadaPct": 100
+        },
+        "geracao": {
+          "preenchidos": 0,
+          "total": 1590,
+          "pct": 0,
+          "meta": 40,
+          "atingiu": false,
+          "ponderadaPct": 0
+        },
+        "concorrentes": {
+          "preenchidos": 0,
+          "total": 1590,
+          "pct": 0,
+          "meta": 80,
+          "atingiu": false,
+          "ponderadaPct": 0
+        }
+      }
+    },
+    "Renault": {
+      "total": 1430,
+      "campos": {
+        "potencia": {
+          "preenchidos": 82,
+          "total": 1430,
+          "pct": 5.73,
+          "meta": 70,
+          "atingiu": false,
+          "ponderadaPct": 5.79
+        },
+        "torque": {
+          "preenchidos": 0,
+          "total": 1430,
+          "pct": 0,
+          "meta": 70,
+          "atingiu": false,
+          "ponderadaPct": 0
+        },
+        "transmissao": {
+          "preenchidos": 495,
+          "total": 1430,
+          "pct": 34.62,
+          "meta": 70,
+          "atingiu": false,
+          "ponderadaPct": 35.88
+        },
+        "porta_malas": {
+          "preenchidos": 0,
+          "total": 1430,
+          "pct": 0,
+          "meta": 50,
+          "atingiu": false,
+          "ponderadaPct": 0
+        },
+        "consumo_urbano": {
+          "preenchidos": 1251,
+          "total": 1430,
+          "pct": 87.48,
+          "meta": 45,
+          "atingiu": true,
+          "ponderadaPct": 88.86
+        },
+        "preco_fipe_atual": {
+          "preenchidos": 1430,
+          "total": 1430,
+          "pct": 100,
+          "meta": 100,
+          "atingiu": true,
+          "ponderadaPct": 100
+        },
+        "historico_precos": {
+          "preenchidos": 1430,
+          "total": 1430,
+          "pct": 100,
+          "meta": 100,
+          "atingiu": true,
+          "ponderadaPct": 100
+        },
+        "geracao": {
+          "preenchidos": 37,
+          "total": 1430,
+          "pct": 2.59,
+          "meta": 40,
+          "atingiu": false,
+          "ponderadaPct": 2.68
+        },
+        "concorrentes": {
+          "preenchidos": 0,
+          "total": 1430,
+          "pct": 0,
+          "meta": 80,
+          "atingiu": false,
+          "ponderadaPct": 0
+        }
+      }
+    },
+    "VOLKSWAGEN": {
+      "total": 1367,
+      "campos": {
+        "potencia": {
+          "preenchidos": 0,
+          "total": 1367,
+          "pct": 0,
+          "meta": 70,
+          "atingiu": false,
+          "ponderadaPct": 0
+        },
+        "torque": {
+          "preenchidos": 0,
+          "total": 1367,
+          "pct": 0,
+          "meta": 70,
+          "atingiu": false,
+          "ponderadaPct": 0
+        },
+        "transmissao": {
+          "preenchidos": 0,
+          "total": 1367,
+          "pct": 0,
+          "meta": 70,
+          "atingiu": false,
+          "ponderadaPct": 0
+        },
+        "porta_malas": {
+          "preenchidos": 0,
+          "total": 1367,
+          "pct": 0,
+          "meta": 50,
+          "atingiu": false,
+          "ponderadaPct": 0
+        },
+        "consumo_urbano": {
+          "preenchidos": 0,
+          "total": 1367,
+          "pct": 0,
+          "meta": 45,
+          "atingiu": false,
+          "ponderadaPct": 0
+        },
+        "preco_fipe_atual": {
+          "preenchidos": 1367,
+          "total": 1367,
+          "pct": 100,
+          "meta": 100,
+          "atingiu": true,
+          "ponderadaPct": 100
+        },
+        "historico_precos": {
+          "preenchidos": 1367,
+          "total": 1367,
+          "pct": 100,
+          "meta": 100,
+          "atingiu": true,
+          "ponderadaPct": 100
+        },
+        "geracao": {
+          "preenchidos": 0,
+          "total": 1367,
+          "pct": 0,
+          "meta": 40,
+          "atingiu": false,
+          "ponderadaPct": 0
+        },
+        "concorrentes": {
+          "preenchidos": 0,
+          "total": 1367,
+          "pct": 0,
+          "meta": 80,
+          "atingiu": false,
+          "ponderadaPct": 0
+        }
+      }
+    },
+    "Audi": {
+      "total": 1161,
+      "campos": {
+        "potencia": {
+          "preenchidos": 234,
+          "total": 1161,
+          "pct": 20.16,
+          "meta": 70,
+          "atingiu": false,
+          "ponderadaPct": 19.95
+        },
+        "torque": {
+          "preenchidos": 0,
+          "total": 1161,
+          "pct": 0,
+          "meta": 70,
+          "atingiu": false,
+          "ponderadaPct": 0
+        },
+        "transmissao": {
+          "preenchidos": 731,
+          "total": 1161,
+          "pct": 62.96,
+          "meta": 70,
+          "atingiu": false,
+          "ponderadaPct": 62.66
+        },
+        "porta_malas": {
+          "preenchidos": 0,
+          "total": 1161,
+          "pct": 0,
+          "meta": 50,
+          "atingiu": false,
+          "ponderadaPct": 0
+        },
+        "consumo_urbano": {
+          "preenchidos": 1107,
+          "total": 1161,
+          "pct": 95.35,
+          "meta": 45,
+          "atingiu": true,
+          "ponderadaPct": 95.56
+        },
+        "preco_fipe_atual": {
+          "preenchidos": 1161,
+          "total": 1161,
+          "pct": 100,
+          "meta": 100,
+          "atingiu": true,
+          "ponderadaPct": 100
+        },
+        "historico_precos": {
+          "preenchidos": 1161,
+          "total": 1161,
+          "pct": 100,
+          "meta": 100,
+          "atingiu": true,
+          "ponderadaPct": 100
+        },
+        "geracao": {
+          "preenchidos": 0,
+          "total": 1161,
+          "pct": 0,
+          "meta": 40,
+          "atingiu": false,
+          "ponderadaPct": 0
+        },
+        "concorrentes": {
+          "preenchidos": 1161,
+          "total": 1161,
+          "pct": 100,
+          "meta": 80,
+          "atingiu": true,
+          "ponderadaPct": 100
+        }
+      }
+    },
+    "HONDA": {
+      "total": 1134,
+      "campos": {
+        "potencia": {
+          "preenchidos": 0,
+          "total": 1134,
+          "pct": 0,
+          "meta": 70,
+          "atingiu": false,
+          "ponderadaPct": 0
+        },
+        "torque": {
+          "preenchidos": 0,
+          "total": 1134,
+          "pct": 0,
+          "meta": 70,
+          "atingiu": false,
+          "ponderadaPct": 0
+        },
+        "transmissao": {
+          "preenchidos": 20,
+          "total": 1134,
+          "pct": 1.76,
+          "meta": 70,
+          "atingiu": false,
+          "ponderadaPct": 2.03
+        },
+        "porta_malas": {
+          "preenchidos": 0,
+          "total": 1134,
+          "pct": 0,
+          "meta": 50,
+          "atingiu": false,
+          "ponderadaPct": 0
+        },
+        "consumo_urbano": {
+          "preenchidos": 38,
+          "total": 1134,
+          "pct": 3.35,
+          "meta": 45,
+          "atingiu": false,
+          "ponderadaPct": 3.03
+        },
+        "preco_fipe_atual": {
+          "preenchidos": 1134,
+          "total": 1134,
+          "pct": 100,
+          "meta": 100,
+          "atingiu": true,
+          "ponderadaPct": 100
+        },
+        "historico_precos": {
+          "preenchidos": 1134,
+          "total": 1134,
+          "pct": 100,
+          "meta": 100,
+          "atingiu": true,
+          "ponderadaPct": 100
+        },
+        "geracao": {
+          "preenchidos": 0,
+          "total": 1134,
+          "pct": 0,
+          "meta": 40,
+          "atingiu": false,
+          "ponderadaPct": 0
+        },
+        "concorrentes": {
+          "preenchidos": 0,
+          "total": 1134,
+          "pct": 0,
+          "meta": 80,
+          "atingiu": false,
+          "ponderadaPct": 0
+        }
+      }
+    },
+    "Toyota": {
+      "total": 1127,
+      "campos": {
+        "potencia": {
+          "preenchidos": 129,
+          "total": 1127,
+          "pct": 11.45,
+          "meta": 70,
+          "atingiu": false,
+          "ponderadaPct": 11.19
+        },
+        "torque": {
+          "preenchidos": 0,
+          "total": 1127,
+          "pct": 0,
+          "meta": 70,
+          "atingiu": false,
+          "ponderadaPct": 0
+        },
+        "transmissao": {
+          "preenchidos": 763,
+          "total": 1127,
+          "pct": 67.7,
+          "meta": 70,
+          "atingiu": false,
+          "ponderadaPct": 69.48
+        },
+        "porta_malas": {
+          "preenchidos": 0,
+          "total": 1127,
+          "pct": 0,
+          "meta": 50,
+          "atingiu": false,
+          "ponderadaPct": 0
+        },
+        "consumo_urbano": {
+          "preenchidos": 967,
+          "total": 1127,
+          "pct": 85.8,
+          "meta": 45,
+          "atingiu": true,
+          "ponderadaPct": 86.58
+        },
+        "preco_fipe_atual": {
+          "preenchidos": 1127,
+          "total": 1127,
+          "pct": 100,
+          "meta": 100,
+          "atingiu": true,
+          "ponderadaPct": 100
+        },
+        "historico_precos": {
+          "preenchidos": 1127,
+          "total": 1127,
+          "pct": 100,
+          "meta": 100,
+          "atingiu": true,
+          "ponderadaPct": 100
+        },
+        "geracao": {
+          "preenchidos": 471,
+          "total": 1127,
+          "pct": 41.79,
+          "meta": 40,
+          "atingiu": true,
+          "ponderadaPct": 43.54
+        },
+        "concorrentes": {
+          "preenchidos": 0,
+          "total": 1127,
+          "pct": 0,
+          "meta": 80,
+          "atingiu": false,
+          "ponderadaPct": 0
+        }
+      }
+    },
+    "IVECO": {
+      "total": 1091,
+      "campos": {
+        "potencia": {
+          "preenchidos": 0,
+          "total": 1091,
+          "pct": 0,
+          "meta": 70,
+          "atingiu": false,
+          "ponderadaPct": 0
+        },
+        "torque": {
+          "preenchidos": 0,
+          "total": 1091,
+          "pct": 0,
+          "meta": 70,
+          "atingiu": false,
+          "ponderadaPct": 0
+        },
+        "transmissao": {
+          "preenchidos": 9,
+          "total": 1091,
+          "pct": 0.82,
+          "meta": 70,
+          "atingiu": false,
+          "ponderadaPct": 1.18
+        },
+        "porta_malas": {
+          "preenchidos": 0,
+          "total": 1091,
+          "pct": 0,
+          "meta": 50,
+          "atingiu": false,
+          "ponderadaPct": 0
+        },
+        "consumo_urbano": {
+          "preenchidos": 0,
+          "total": 1091,
+          "pct": 0,
+          "meta": 45,
+          "atingiu": false,
+          "ponderadaPct": 0
+        },
+        "preco_fipe_atual": {
+          "preenchidos": 1091,
+          "total": 1091,
+          "pct": 100,
+          "meta": 100,
+          "atingiu": true,
+          "ponderadaPct": 100
+        },
+        "historico_precos": {
+          "preenchidos": 1091,
+          "total": 1091,
+          "pct": 100,
+          "meta": 100,
+          "atingiu": true,
+          "ponderadaPct": 100
+        },
+        "geracao": {
+          "preenchidos": 0,
+          "total": 1091,
+          "pct": 0,
+          "meta": 40,
+          "atingiu": false,
+          "ponderadaPct": 0
+        },
+        "concorrentes": {
+          "preenchidos": 0,
+          "total": 1091,
+          "pct": 0,
+          "meta": 80,
+          "atingiu": false,
+          "ponderadaPct": 0
+        }
+      }
+    },
+    "FORD": {
+      "total": 1055,
+      "campos": {
+        "potencia": {
+          "preenchidos": 18,
+          "total": 1055,
+          "pct": 1.71,
+          "meta": 70,
+          "atingiu": false,
+          "ponderadaPct": 1.86
+        },
+        "torque": {
+          "preenchidos": 0,
+          "total": 1055,
+          "pct": 0,
+          "meta": 70,
+          "atingiu": false,
+          "ponderadaPct": 0
+        },
+        "transmissao": {
+          "preenchidos": 0,
+          "total": 1055,
+          "pct": 0,
+          "meta": 70,
+          "atingiu": false,
+          "ponderadaPct": 0
+        },
+        "porta_malas": {
+          "preenchidos": 0,
+          "total": 1055,
+          "pct": 0,
+          "meta": 50,
+          "atingiu": false,
+          "ponderadaPct": 0
+        },
+        "consumo_urbano": {
+          "preenchidos": 18,
+          "total": 1055,
+          "pct": 1.71,
+          "meta": 45,
+          "atingiu": false,
+          "ponderadaPct": 1.51
+        },
+        "preco_fipe_atual": {
+          "preenchidos": 1055,
+          "total": 1055,
+          "pct": 100,
+          "meta": 100,
+          "atingiu": true,
+          "ponderadaPct": 100
+        },
+        "historico_precos": {
+          "preenchidos": 1055,
+          "total": 1055,
+          "pct": 100,
+          "meta": 100,
+          "atingiu": true,
+          "ponderadaPct": 100
+        },
+        "geracao": {
+          "preenchidos": 0,
+          "total": 1055,
+          "pct": 0,
+          "meta": 40,
+          "atingiu": false,
+          "ponderadaPct": 0
+        },
+        "concorrentes": {
+          "preenchidos": 0,
+          "total": 1055,
+          "pct": 0,
+          "meta": 80,
+          "atingiu": false,
+          "ponderadaPct": 0
+        }
+      }
+    },
+    "Peugeot": {
+      "total": 1019,
+      "campos": {
+        "potencia": {
+          "preenchidos": 72,
+          "total": 1019,
+          "pct": 7.07,
+          "meta": 70,
+          "atingiu": false,
+          "ponderadaPct": 6.66
+        },
+        "torque": {
+          "preenchidos": 0,
+          "total": 1019,
+          "pct": 0,
+          "meta": 70,
+          "atingiu": false,
+          "ponderadaPct": 0
+        },
+        "transmissao": {
+          "preenchidos": 427,
+          "total": 1019,
+          "pct": 41.9,
+          "meta": 70,
+          "atingiu": false,
+          "ponderadaPct": 43.9
+        },
+        "porta_malas": {
+          "preenchidos": 0,
+          "total": 1019,
+          "pct": 0,
+          "meta": 50,
+          "atingiu": false,
+          "ponderadaPct": 0
+        },
+        "consumo_urbano": {
+          "preenchidos": 548,
+          "total": 1019,
+          "pct": 53.78,
+          "meta": 45,
+          "atingiu": true,
+          "ponderadaPct": 56.87
+        },
+        "preco_fipe_atual": {
+          "preenchidos": 1019,
+          "total": 1019,
+          "pct": 100,
+          "meta": 100,
+          "atingiu": true,
+          "ponderadaPct": 100
+        },
+        "historico_precos": {
+          "preenchidos": 1019,
+          "total": 1019,
+          "pct": 100,
+          "meta": 100,
+          "atingiu": true,
+          "ponderadaPct": 100
+        },
+        "geracao": {
+          "preenchidos": 0,
+          "total": 1019,
+          "pct": 0,
+          "meta": 40,
+          "atingiu": false,
+          "ponderadaPct": 0
+        },
+        "concorrentes": {
+          "preenchidos": 0,
+          "total": 1019,
+          "pct": 0,
+          "meta": 80,
+          "atingiu": false,
+          "ponderadaPct": 0
+        }
+      }
+    },
+    "Mitsubishi": {
+      "total": 972,
+      "campos": {
+        "potencia": {
+          "preenchidos": 235,
+          "total": 972,
+          "pct": 24.18,
+          "meta": 70,
+          "atingiu": false,
+          "ponderadaPct": 24.76
+        },
+        "torque": {
+          "preenchidos": 0,
+          "total": 972,
+          "pct": 0,
+          "meta": 70,
+          "atingiu": false,
+          "ponderadaPct": 0
+        },
+        "transmissao": {
+          "preenchidos": 712,
+          "total": 972,
+          "pct": 73.25,
+          "meta": 70,
+          "atingiu": true,
+          "ponderadaPct": 75.02
+        },
+        "porta_malas": {
+          "preenchidos": 0,
+          "total": 972,
+          "pct": 0,
+          "meta": 50,
+          "atingiu": false,
+          "ponderadaPct": 0
+        },
+        "consumo_urbano": {
+          "preenchidos": 868,
+          "total": 972,
+          "pct": 89.3,
+          "meta": 45,
+          "atingiu": true,
+          "ponderadaPct": 90.56
+        },
+        "preco_fipe_atual": {
+          "preenchidos": 972,
+          "total": 972,
+          "pct": 100,
+          "meta": 100,
+          "atingiu": true,
+          "ponderadaPct": 100
+        },
+        "historico_precos": {
+          "preenchidos": 972,
+          "total": 972,
+          "pct": 100,
+          "meta": 100,
+          "atingiu": true,
+          "ponderadaPct": 100
+        },
+        "geracao": {
+          "preenchidos": 0,
+          "total": 972,
+          "pct": 0,
+          "meta": 40,
+          "atingiu": false,
+          "ponderadaPct": 0
+        },
+        "concorrentes": {
+          "preenchidos": 0,
+          "total": 972,
+          "pct": 0,
+          "meta": 80,
+          "atingiu": false,
+          "ponderadaPct": 0
+        }
+      }
+    },
+    "Porsche": {
+      "total": 879,
+      "campos": {
+        "potencia": {
+          "preenchidos": 254,
+          "total": 879,
+          "pct": 28.9,
+          "meta": 70,
+          "atingiu": false,
+          "ponderadaPct": 29.23
+        },
+        "torque": {
+          "preenchidos": 0,
+          "total": 879,
+          "pct": 0,
+          "meta": 70,
+          "atingiu": false,
+          "ponderadaPct": 0
+        },
+        "transmissao": {
+          "preenchidos": 59,
+          "total": 879,
+          "pct": 6.71,
+          "meta": 70,
+          "atingiu": false,
+          "ponderadaPct": 6.11
+        },
+        "porta_malas": {
+          "preenchidos": 0,
+          "total": 879,
+          "pct": 0,
+          "meta": 50,
+          "atingiu": false,
+          "ponderadaPct": 0
+        },
+        "consumo_urbano": {
+          "preenchidos": 824,
+          "total": 879,
+          "pct": 93.74,
+          "meta": 45,
+          "atingiu": true,
+          "ponderadaPct": 93.71
+        },
+        "preco_fipe_atual": {
+          "preenchidos": 879,
+          "total": 879,
+          "pct": 100,
+          "meta": 100,
+          "atingiu": true,
+          "ponderadaPct": 100
+        },
+        "historico_precos": {
+          "preenchidos": 879,
+          "total": 879,
+          "pct": 100,
+          "meta": 100,
+          "atingiu": true,
+          "ponderadaPct": 100
+        },
+        "geracao": {
+          "preenchidos": 0,
+          "total": 879,
+          "pct": 0,
+          "meta": 40,
+          "atingiu": false,
+          "ponderadaPct": 0
+        },
+        "concorrentes": {
+          "preenchidos": 0,
+          "total": 879,
+          "pct": 0,
+          "meta": 80,
+          "atingiu": false,
+          "ponderadaPct": 0
+        }
+      }
+    },
+    "Citroën": {
+      "total": 863,
+      "campos": {
+        "potencia": {
+          "preenchidos": 39,
+          "total": 863,
+          "pct": 4.52,
+          "meta": 70,
+          "atingiu": false,
+          "ponderadaPct": 4.41
+        },
+        "torque": {
+          "preenchidos": 0,
+          "total": 863,
+          "pct": 0,
+          "meta": 70,
+          "atingiu": false,
+          "ponderadaPct": 0
+        },
+        "transmissao": {
+          "preenchidos": 596,
+          "total": 863,
+          "pct": 69.06,
+          "meta": 70,
+          "atingiu": false,
+          "ponderadaPct": 69.45
+        },
+        "porta_malas": {
+          "preenchidos": 0,
+          "total": 863,
+          "pct": 0,
+          "meta": 50,
+          "atingiu": false,
+          "ponderadaPct": 0
+        },
+        "consumo_urbano": {
+          "preenchidos": 574,
+          "total": 863,
+          "pct": 66.51,
+          "meta": 45,
+          "atingiu": true,
+          "ponderadaPct": 69.73
+        },
+        "preco_fipe_atual": {
+          "preenchidos": 863,
+          "total": 863,
+          "pct": 100,
+          "meta": 100,
+          "atingiu": true,
+          "ponderadaPct": 100
+        },
+        "historico_precos": {
+          "preenchidos": 863,
+          "total": 863,
+          "pct": 100,
+          "meta": 100,
+          "atingiu": true,
+          "ponderadaPct": 100
+        },
+        "geracao": {
+          "preenchidos": 0,
+          "total": 863,
+          "pct": 0,
+          "meta": 40,
+          "atingiu": false,
+          "ponderadaPct": 0
+        },
+        "concorrentes": {
+          "preenchidos": 0,
+          "total": 863,
+          "pct": 0,
+          "meta": 80,
+          "atingiu": false,
+          "ponderadaPct": 0
+        }
+      }
+    },
+    "Hyundai": {
+      "total": 820,
+      "campos": {
+        "potencia": {
+          "preenchidos": 74,
+          "total": 820,
+          "pct": 9.02,
+          "meta": 70,
+          "atingiu": false,
+          "ponderadaPct": 8.88
+        },
+        "torque": {
+          "preenchidos": 0,
+          "total": 820,
+          "pct": 0,
+          "meta": 70,
+          "atingiu": false,
+          "ponderadaPct": 0
+        },
+        "transmissao": {
+          "preenchidos": 643,
+          "total": 820,
+          "pct": 78.41,
+          "meta": 70,
+          "atingiu": true,
+          "ponderadaPct": 80.26
+        },
+        "porta_malas": {
+          "preenchidos": 0,
+          "total": 820,
+          "pct": 0,
+          "meta": 50,
+          "atingiu": false,
+          "ponderadaPct": 0
+        },
+        "consumo_urbano": {
+          "preenchidos": 629,
+          "total": 820,
+          "pct": 76.71,
+          "meta": 45,
+          "atingiu": true,
+          "ponderadaPct": 78.82
+        },
+        "preco_fipe_atual": {
+          "preenchidos": 820,
+          "total": 820,
+          "pct": 100,
+          "meta": 100,
+          "atingiu": true,
+          "ponderadaPct": 100
+        },
+        "historico_precos": {
+          "preenchidos": 820,
+          "total": 820,
+          "pct": 100,
+          "meta": 100,
+          "atingiu": true,
+          "ponderadaPct": 100
+        },
+        "geracao": {
+          "preenchidos": 133,
+          "total": 820,
+          "pct": 16.22,
+          "meta": 40,
+          "atingiu": false,
+          "ponderadaPct": 16.67
+        },
+        "concorrentes": {
+          "preenchidos": 0,
+          "total": 820,
+          "pct": 0,
+          "meta": 80,
+          "atingiu": false,
+          "ponderadaPct": 0
+        }
+      }
+    },
+    "YAMAHA": {
+      "total": 812,
+      "campos": {
+        "potencia": {
+          "preenchidos": 0,
+          "total": 812,
+          "pct": 0,
+          "meta": 70,
+          "atingiu": false,
+          "ponderadaPct": 0
+        },
+        "torque": {
+          "preenchidos": 0,
+          "total": 812,
+          "pct": 0,
+          "meta": 70,
+          "atingiu": false,
+          "ponderadaPct": 0
+        },
+        "transmissao": {
+          "preenchidos": 56,
+          "total": 812,
+          "pct": 6.9,
+          "meta": 70,
+          "atingiu": false,
+          "ponderadaPct": 7.49
+        },
+        "porta_malas": {
+          "preenchidos": 0,
+          "total": 812,
+          "pct": 0,
+          "meta": 50,
+          "atingiu": false,
+          "ponderadaPct": 0
+        },
+        "consumo_urbano": {
+          "preenchidos": 0,
+          "total": 812,
+          "pct": 0,
+          "meta": 45,
+          "atingiu": false,
+          "ponderadaPct": 0
+        },
+        "preco_fipe_atual": {
+          "preenchidos": 812,
+          "total": 812,
+          "pct": 100,
+          "meta": 100,
+          "atingiu": true,
+          "ponderadaPct": 100
+        },
+        "historico_precos": {
+          "preenchidos": 812,
+          "total": 812,
+          "pct": 100,
+          "meta": 100,
+          "atingiu": true,
+          "ponderadaPct": 100
+        },
+        "geracao": {
+          "preenchidos": 0,
+          "total": 812,
+          "pct": 0,
+          "meta": 40,
+          "atingiu": false,
+          "ponderadaPct": 0
+        },
+        "concorrentes": {
+          "preenchidos": 0,
+          "total": 812,
+          "pct": 0,
+          "meta": 80,
+          "atingiu": false,
+          "ponderadaPct": 0
+        }
+      }
+    },
+    "Land Rover": {
+      "total": 746,
+      "campos": {
+        "potencia": {
+          "preenchidos": 143,
+          "total": 746,
+          "pct": 19.17,
+          "meta": 70,
+          "atingiu": false,
+          "ponderadaPct": 18.51
+        },
+        "torque": {
+          "preenchidos": 0,
+          "total": 746,
+          "pct": 0,
+          "meta": 70,
+          "atingiu": false,
+          "ponderadaPct": 0
+        },
+        "transmissao": {
+          "preenchidos": 369,
+          "total": 746,
+          "pct": 49.46,
+          "meta": 70,
+          "atingiu": false,
+          "ponderadaPct": 49.55
+        },
+        "porta_malas": {
+          "preenchidos": 0,
+          "total": 746,
+          "pct": 0,
+          "meta": 50,
+          "atingiu": false,
+          "ponderadaPct": 0
+        },
+        "consumo_urbano": {
+          "preenchidos": 641,
+          "total": 746,
+          "pct": 85.92,
+          "meta": 45,
+          "atingiu": true,
+          "ponderadaPct": 87.02
+        },
+        "preco_fipe_atual": {
+          "preenchidos": 746,
+          "total": 746,
+          "pct": 100,
+          "meta": 100,
+          "atingiu": true,
+          "ponderadaPct": 100
+        },
+        "historico_precos": {
+          "preenchidos": 746,
+          "total": 746,
+          "pct": 100,
+          "meta": 100,
+          "atingiu": true,
+          "ponderadaPct": 100
+        },
+        "geracao": {
+          "preenchidos": 0,
+          "total": 746,
+          "pct": 0,
+          "meta": 40,
+          "atingiu": false,
+          "ponderadaPct": 0
+        },
+        "concorrentes": {
+          "preenchidos": 0,
+          "total": 746,
+          "pct": 0,
+          "meta": 80,
+          "atingiu": false,
+          "ponderadaPct": 0
+        }
+      }
+    },
+    "Nissan": {
+      "total": 694,
+      "campos": {
+        "potencia": {
+          "preenchidos": 37,
+          "total": 694,
+          "pct": 5.33,
+          "meta": 70,
+          "atingiu": false,
+          "ponderadaPct": 5.52
+        },
+        "torque": {
+          "preenchidos": 0,
+          "total": 694,
+          "pct": 0,
+          "meta": 70,
+          "atingiu": false,
+          "ponderadaPct": 0
+        },
+        "transmissao": {
+          "preenchidos": 407,
+          "total": 694,
+          "pct": 58.65,
+          "meta": 70,
+          "atingiu": false,
+          "ponderadaPct": 60.72
+        },
+        "porta_malas": {
+          "preenchidos": 0,
+          "total": 694,
+          "pct": 0,
+          "meta": 50,
+          "atingiu": false,
+          "ponderadaPct": 0
+        },
+        "consumo_urbano": {
+          "preenchidos": 508,
+          "total": 694,
+          "pct": 73.2,
+          "meta": 45,
+          "atingiu": true,
+          "ponderadaPct": 74.92
+        },
+        "preco_fipe_atual": {
+          "preenchidos": 694,
+          "total": 694,
+          "pct": 100,
+          "meta": 100,
+          "atingiu": true,
+          "ponderadaPct": 100
+        },
+        "historico_precos": {
+          "preenchidos": 694,
+          "total": 694,
+          "pct": 100,
+          "meta": 100,
+          "atingiu": true,
+          "ponderadaPct": 100
+        },
+        "geracao": {
+          "preenchidos": 53,
+          "total": 694,
+          "pct": 7.64,
+          "meta": 40,
+          "atingiu": false,
+          "ponderadaPct": 8.11
+        },
+        "concorrentes": {
+          "preenchidos": 0,
+          "total": 694,
+          "pct": 0,
+          "meta": 80,
+          "atingiu": false,
+          "ponderadaPct": 0
+        }
+      }
+    },
+    "MARCOPOLO": {
+      "total": 686,
+      "campos": {
+        "potencia": {
+          "preenchidos": 0,
+          "total": 686,
+          "pct": 0,
+          "meta": 70,
+          "atingiu": false,
+          "ponderadaPct": 0
+        },
+        "torque": {
+          "preenchidos": 0,
+          "total": 686,
+          "pct": 0,
+          "meta": 70,
+          "atingiu": false,
+          "ponderadaPct": 0
+        },
+        "transmissao": {
+          "preenchidos": 0,
+          "total": 686,
+          "pct": 0,
+          "meta": 70,
+          "atingiu": false,
+          "ponderadaPct": 0
+        },
+        "porta_malas": {
+          "preenchidos": 0,
+          "total": 686,
+          "pct": 0,
+          "meta": 50,
+          "atingiu": false,
+          "ponderadaPct": 0
+        },
+        "consumo_urbano": {
+          "preenchidos": 0,
+          "total": 686,
+          "pct": 0,
+          "meta": 45,
+          "atingiu": false,
+          "ponderadaPct": 0
+        },
+        "preco_fipe_atual": {
+          "preenchidos": 686,
+          "total": 686,
+          "pct": 100,
+          "meta": 100,
+          "atingiu": true,
+          "ponderadaPct": 100
+        },
+        "historico_precos": {
+          "preenchidos": 686,
+          "total": 686,
+          "pct": 100,
+          "meta": 100,
+          "atingiu": true,
+          "ponderadaPct": 100
+        },
+        "geracao": {
+          "preenchidos": 0,
+          "total": 686,
+          "pct": 0,
+          "meta": 40,
+          "atingiu": false,
+          "ponderadaPct": 0
+        },
+        "concorrentes": {
+          "preenchidos": 0,
+          "total": 686,
+          "pct": 0,
+          "meta": 80,
+          "atingiu": false,
+          "ponderadaPct": 0
+        }
+      }
+    },
+    "SUZUKI": {
+      "total": 660,
+      "campos": {
+        "potencia": {
+          "preenchidos": 0,
+          "total": 660,
+          "pct": 0,
+          "meta": 70,
+          "atingiu": false,
+          "ponderadaPct": 0
+        },
+        "torque": {
+          "preenchidos": 0,
+          "total": 660,
+          "pct": 0,
+          "meta": 70,
+          "atingiu": false,
+          "ponderadaPct": 0
+        },
+        "transmissao": {
+          "preenchidos": 0,
+          "total": 660,
+          "pct": 0,
+          "meta": 70,
+          "atingiu": false,
+          "ponderadaPct": 0
+        },
+        "porta_malas": {
+          "preenchidos": 0,
+          "total": 660,
+          "pct": 0,
+          "meta": 50,
+          "atingiu": false,
+          "ponderadaPct": 0
+        },
+        "consumo_urbano": {
+          "preenchidos": 0,
+          "total": 660,
+          "pct": 0,
+          "meta": 45,
+          "atingiu": false,
+          "ponderadaPct": 0
+        },
+        "preco_fipe_atual": {
+          "preenchidos": 660,
+          "total": 660,
+          "pct": 100,
+          "meta": 100,
+          "atingiu": true,
+          "ponderadaPct": 100
+        },
+        "historico_precos": {
+          "preenchidos": 660,
+          "total": 660,
+          "pct": 100,
+          "meta": 100,
+          "atingiu": true,
+          "ponderadaPct": 100
+        },
+        "geracao": {
+          "preenchidos": 0,
+          "total": 660,
+          "pct": 0,
+          "meta": 40,
+          "atingiu": false,
+          "ponderadaPct": 0
+        },
+        "concorrentes": {
+          "preenchidos": 0,
+          "total": 660,
+          "pct": 0,
+          "meta": 80,
+          "atingiu": false,
+          "ponderadaPct": 0
+        }
+      }
+    },
+    "Volvo": {
+      "total": 629,
+      "campos": {
+        "potencia": {
+          "preenchidos": 209,
+          "total": 629,
+          "pct": 33.23,
+          "meta": 70,
+          "atingiu": false,
+          "ponderadaPct": 33.89
+        },
+        "torque": {
+          "preenchidos": 0,
+          "total": 629,
+          "pct": 0,
+          "meta": 70,
+          "atingiu": false,
+          "ponderadaPct": 0
+        },
+        "transmissao": {
+          "preenchidos": 171,
+          "total": 629,
+          "pct": 27.19,
+          "meta": 70,
+          "atingiu": false,
+          "ponderadaPct": 25.64
+        },
+        "porta_malas": {
+          "preenchidos": 0,
+          "total": 629,
+          "pct": 0,
+          "meta": 50,
+          "atingiu": false,
+          "ponderadaPct": 0
+        },
+        "consumo_urbano": {
+          "preenchidos": 391,
+          "total": 629,
+          "pct": 62.16,
+          "meta": 45,
+          "atingiu": true,
+          "ponderadaPct": 65.35
+        },
+        "preco_fipe_atual": {
+          "preenchidos": 629,
+          "total": 629,
+          "pct": 100,
+          "meta": 100,
+          "atingiu": true,
+          "ponderadaPct": 100
+        },
+        "historico_precos": {
+          "preenchidos": 629,
+          "total": 629,
+          "pct": 100,
+          "meta": 100,
+          "atingiu": true,
+          "ponderadaPct": 100
+        },
+        "geracao": {
+          "preenchidos": 0,
+          "total": 629,
+          "pct": 0,
+          "meta": 40,
+          "atingiu": false,
+          "ponderadaPct": 0
+        },
+        "concorrentes": {
+          "preenchidos": 0,
+          "total": 629,
+          "pct": 0,
+          "meta": 80,
+          "atingiu": false,
+          "ponderadaPct": 0
+        }
+      }
+    },
+    "Honda": {
+      "total": 604,
+      "campos": {
+        "potencia": {
+          "preenchidos": 50,
+          "total": 604,
+          "pct": 8.28,
+          "meta": 70,
+          "atingiu": false,
+          "ponderadaPct": 8.02
+        },
+        "torque": {
+          "preenchidos": 0,
+          "total": 604,
+          "pct": 0,
+          "meta": 70,
+          "atingiu": false,
+          "ponderadaPct": 0
+        },
+        "transmissao": {
+          "preenchidos": 481,
+          "total": 604,
+          "pct": 79.64,
+          "meta": 70,
+          "atingiu": true,
+          "ponderadaPct": 81.04
+        },
+        "porta_malas": {
+          "preenchidos": 0,
+          "total": 604,
+          "pct": 0,
+          "meta": 50,
+          "atingiu": false,
+          "ponderadaPct": 0
+        },
+        "consumo_urbano": {
+          "preenchidos": 586,
+          "total": 604,
+          "pct": 97.02,
+          "meta": 45,
+          "atingiu": true,
+          "ponderadaPct": 97.33
+        },
+        "preco_fipe_atual": {
+          "preenchidos": 604,
+          "total": 604,
+          "pct": 100,
+          "meta": 100,
+          "atingiu": true,
+          "ponderadaPct": 100
+        },
+        "historico_precos": {
+          "preenchidos": 604,
+          "total": 604,
+          "pct": 100,
+          "meta": 100,
+          "atingiu": true,
+          "ponderadaPct": 100
+        },
+        "geracao": {
+          "preenchidos": 87,
+          "total": 604,
+          "pct": 14.4,
+          "meta": 40,
+          "atingiu": false,
+          "ponderadaPct": 15.05
+        },
+        "concorrentes": {
+          "preenchidos": 0,
+          "total": 604,
+          "pct": 0,
+          "meta": 80,
+          "atingiu": false,
+          "ponderadaPct": 0
+        }
+      }
+    },
+    "HARLEY-DAVIDSON": {
+      "total": 586,
+      "campos": {
+        "potencia": {
+          "preenchidos": 0,
+          "total": 586,
+          "pct": 0,
+          "meta": 70,
+          "atingiu": false,
+          "ponderadaPct": 0
+        },
+        "torque": {
+          "preenchidos": 0,
+          "total": 586,
+          "pct": 0,
+          "meta": 70,
+          "atingiu": false,
+          "ponderadaPct": 0
+        },
+        "transmissao": {
+          "preenchidos": 0,
+          "total": 586,
+          "pct": 0,
+          "meta": 70,
+          "atingiu": false,
+          "ponderadaPct": 0
+        },
+        "porta_malas": {
+          "preenchidos": 0,
+          "total": 586,
+          "pct": 0,
+          "meta": 50,
+          "atingiu": false,
+          "ponderadaPct": 0
+        },
+        "consumo_urbano": {
+          "preenchidos": 0,
+          "total": 586,
+          "pct": 0,
+          "meta": 45,
+          "atingiu": false,
+          "ponderadaPct": 0
+        },
+        "preco_fipe_atual": {
+          "preenchidos": 586,
+          "total": 586,
+          "pct": 100,
+          "meta": 100,
+          "atingiu": true,
+          "ponderadaPct": 100
+        },
+        "historico_precos": {
+          "preenchidos": 586,
+          "total": 586,
+          "pct": 100,
+          "meta": 100,
+          "atingiu": true,
+          "ponderadaPct": 100
+        },
+        "geracao": {
+          "preenchidos": 0,
+          "total": 586,
+          "pct": 0,
+          "meta": 40,
+          "atingiu": false,
+          "ponderadaPct": 0
+        },
+        "concorrentes": {
+          "preenchidos": 0,
+          "total": 586,
+          "pct": 0,
+          "meta": 80,
+          "atingiu": false,
+          "ponderadaPct": 0
+        }
+      }
+    },
+    "KAWASAKI": {
+      "total": 583,
+      "campos": {
+        "potencia": {
+          "preenchidos": 0,
+          "total": 583,
+          "pct": 0,
+          "meta": 70,
+          "atingiu": false,
+          "ponderadaPct": 0
+        },
+        "torque": {
+          "preenchidos": 0,
+          "total": 583,
+          "pct": 0,
+          "meta": 70,
+          "atingiu": false,
+          "ponderadaPct": 0
+        },
+        "transmissao": {
+          "preenchidos": 0,
+          "total": 583,
+          "pct": 0,
+          "meta": 70,
+          "atingiu": false,
+          "ponderadaPct": 0
+        },
+        "porta_malas": {
+          "preenchidos": 0,
+          "total": 583,
+          "pct": 0,
+          "meta": 50,
+          "atingiu": false,
+          "ponderadaPct": 0
+        },
+        "consumo_urbano": {
+          "preenchidos": 0,
+          "total": 583,
+          "pct": 0,
+          "meta": 45,
+          "atingiu": false,
+          "ponderadaPct": 0
+        },
+        "preco_fipe_atual": {
+          "preenchidos": 583,
+          "total": 583,
+          "pct": 100,
+          "meta": 100,
+          "atingiu": true,
+          "ponderadaPct": 100
+        },
+        "historico_precos": {
+          "preenchidos": 583,
+          "total": 583,
+          "pct": 100,
+          "meta": 100,
+          "atingiu": true,
+          "ponderadaPct": 100
+        },
+        "geracao": {
+          "preenchidos": 0,
+          "total": 583,
+          "pct": 0,
+          "meta": 40,
+          "atingiu": false,
+          "ponderadaPct": 0
+        },
+        "concorrentes": {
+          "preenchidos": 0,
+          "total": 583,
+          "pct": 0,
+          "meta": 80,
+          "atingiu": false,
+          "ponderadaPct": 0
+        }
+      }
+    }
+  },
+  "porGeracao": {
+    "argo-1": {
+      "total": 57,
+      "campos": {
+        "potencia": {
+          "preenchidos": 0,
+          "total": 57,
+          "pct": 0,
+          "meta": 70,
+          "atingiu": false,
+          "ponderadaPct": 0
+        },
+        "torque": {
+          "preenchidos": 0,
+          "total": 57,
+          "pct": 0,
+          "meta": 70,
+          "atingiu": false,
+          "ponderadaPct": 0
+        },
+        "transmissao": {
+          "preenchidos": 30,
+          "total": 57,
+          "pct": 52.63,
+          "meta": 70,
+          "atingiu": false,
+          "ponderadaPct": 53.06
+        },
+        "porta_malas": {
+          "preenchidos": 0,
+          "total": 57,
+          "pct": 0,
+          "meta": 50,
+          "atingiu": false,
+          "ponderadaPct": 0
+        },
+        "consumo_urbano": {
+          "preenchidos": 57,
+          "total": 57,
+          "pct": 100,
+          "meta": 45,
+          "atingiu": true,
+          "ponderadaPct": 100
+        },
+        "preco_fipe_atual": {
+          "preenchidos": 57,
+          "total": 57,
+          "pct": 100,
+          "meta": 100,
+          "atingiu": true,
+          "ponderadaPct": 100
+        },
+        "historico_precos": {
+          "preenchidos": 57,
+          "total": 57,
+          "pct": 100,
+          "meta": 100,
+          "atingiu": true,
+          "ponderadaPct": 100
+        },
+        "geracao": {
+          "preenchidos": 57,
+          "total": 57,
+          "pct": 100,
+          "meta": 40,
+          "atingiu": true,
+          "ponderadaPct": 100
+        },
+        "concorrentes": {
+          "preenchidos": 0,
+          "total": 57,
+          "pct": 0,
+          "meta": 80,
+          "atingiu": false,
+          "ponderadaPct": 0
+        }
+      }
+    },
+    "cronos-1": {
+      "total": 42,
+      "campos": {
+        "potencia": {
+          "preenchidos": 0,
+          "total": 42,
+          "pct": 0,
+          "meta": 70,
+          "atingiu": false,
+          "ponderadaPct": 0
+        },
+        "torque": {
+          "preenchidos": 0,
+          "total": 42,
+          "pct": 0,
+          "meta": 70,
+          "atingiu": false,
+          "ponderadaPct": 0
+        },
+        "transmissao": {
+          "preenchidos": 28,
+          "total": 42,
+          "pct": 66.67,
+          "meta": 70,
+          "atingiu": false,
+          "ponderadaPct": 66.99
+        },
+        "porta_malas": {
+          "preenchidos": 0,
+          "total": 42,
+          "pct": 0,
+          "meta": 50,
+          "atingiu": false,
+          "ponderadaPct": 0
+        },
+        "consumo_urbano": {
+          "preenchidos": 42,
+          "total": 42,
+          "pct": 100,
+          "meta": 45,
+          "atingiu": true,
+          "ponderadaPct": 100
+        },
+        "preco_fipe_atual": {
+          "preenchidos": 42,
+          "total": 42,
+          "pct": 100,
+          "meta": 100,
+          "atingiu": true,
+          "ponderadaPct": 100
+        },
+        "historico_precos": {
+          "preenchidos": 42,
+          "total": 42,
+          "pct": 100,
+          "meta": 100,
+          "atingiu": true,
+          "ponderadaPct": 100
+        },
+        "geracao": {
+          "preenchidos": 42,
+          "total": 42,
+          "pct": 100,
+          "meta": 40,
+          "atingiu": true,
+          "ponderadaPct": 100
+        },
+        "concorrentes": {
+          "preenchidos": 0,
+          "total": 42,
+          "pct": 0,
+          "meta": 80,
+          "atingiu": false,
+          "ponderadaPct": 0
+        }
+      }
+    },
+    "onix-1": {
+      "total": 55,
+      "campos": {
+        "potencia": {
+          "preenchidos": 0,
+          "total": 55,
+          "pct": 0,
+          "meta": 70,
+          "atingiu": false,
+          "ponderadaPct": 0
+        },
+        "torque": {
+          "preenchidos": 0,
+          "total": 55,
+          "pct": 0,
+          "meta": 70,
+          "atingiu": false,
+          "ponderadaPct": 0
+        },
+        "transmissao": {
+          "preenchidos": 55,
+          "total": 55,
+          "pct": 100,
+          "meta": 70,
+          "atingiu": true,
+          "ponderadaPct": 100
+        },
+        "porta_malas": {
+          "preenchidos": 0,
+          "total": 55,
+          "pct": 0,
+          "meta": 50,
+          "atingiu": false,
+          "ponderadaPct": 0
+        },
+        "consumo_urbano": {
+          "preenchidos": 55,
+          "total": 55,
+          "pct": 100,
+          "meta": 45,
+          "atingiu": true,
+          "ponderadaPct": 100
+        },
+        "preco_fipe_atual": {
+          "preenchidos": 55,
+          "total": 55,
+          "pct": 100,
+          "meta": 100,
+          "atingiu": true,
+          "ponderadaPct": 100
+        },
+        "historico_precos": {
+          "preenchidos": 55,
+          "total": 55,
+          "pct": 100,
+          "meta": 100,
+          "atingiu": true,
+          "ponderadaPct": 100
+        },
+        "geracao": {
+          "preenchidos": 55,
+          "total": 55,
+          "pct": 100,
+          "meta": 40,
+          "atingiu": true,
+          "ponderadaPct": 100
+        },
+        "concorrentes": {
+          "preenchidos": 0,
+          "total": 55,
+          "pct": 0,
+          "meta": 80,
+          "atingiu": false,
+          "ponderadaPct": 0
+        }
+      }
+    },
+    "onix-2": {
+      "total": 112,
+      "campos": {
+        "potencia": {
+          "preenchidos": 0,
+          "total": 112,
+          "pct": 0,
+          "meta": 70,
+          "atingiu": false,
+          "ponderadaPct": 0
+        },
+        "torque": {
+          "preenchidos": 0,
+          "total": 112,
+          "pct": 0,
+          "meta": 70,
+          "atingiu": false,
+          "ponderadaPct": 0
+        },
+        "transmissao": {
+          "preenchidos": 112,
+          "total": 112,
+          "pct": 100,
+          "meta": 70,
+          "atingiu": true,
+          "ponderadaPct": 100
+        },
+        "porta_malas": {
+          "preenchidos": 0,
+          "total": 112,
+          "pct": 0,
+          "meta": 50,
+          "atingiu": false,
+          "ponderadaPct": 0
+        },
+        "consumo_urbano": {
+          "preenchidos": 112,
+          "total": 112,
+          "pct": 100,
+          "meta": 45,
+          "atingiu": true,
+          "ponderadaPct": 100
+        },
+        "preco_fipe_atual": {
+          "preenchidos": 112,
+          "total": 112,
+          "pct": 100,
+          "meta": 100,
+          "atingiu": true,
+          "ponderadaPct": 100
+        },
+        "historico_precos": {
+          "preenchidos": 112,
+          "total": 112,
+          "pct": 100,
+          "meta": 100,
+          "atingiu": true,
+          "ponderadaPct": 100
+        },
+        "geracao": {
+          "preenchidos": 112,
+          "total": 112,
+          "pct": 100,
+          "meta": 40,
+          "atingiu": true,
+          "ponderadaPct": 100
+        },
+        "concorrentes": {
+          "preenchidos": 0,
+          "total": 112,
+          "pct": 0,
+          "meta": 80,
+          "atingiu": false,
+          "ponderadaPct": 0
+        }
+      }
+    },
+    "civic-10": {
+      "total": 28,
+      "campos": {
+        "potencia": {
+          "preenchidos": 3,
+          "total": 28,
+          "pct": 10.71,
+          "meta": 70,
+          "atingiu": false,
+          "ponderadaPct": 11.01
+        },
+        "torque": {
+          "preenchidos": 0,
+          "total": 28,
+          "pct": 0,
+          "meta": 70,
+          "atingiu": false,
+          "ponderadaPct": 0
+        },
+        "transmissao": {
+          "preenchidos": 28,
+          "total": 28,
+          "pct": 100,
+          "meta": 70,
+          "atingiu": true,
+          "ponderadaPct": 100
+        },
+        "porta_malas": {
+          "preenchidos": 0,
+          "total": 28,
+          "pct": 0,
+          "meta": 50,
+          "atingiu": false,
+          "ponderadaPct": 0
+        },
+        "consumo_urbano": {
+          "preenchidos": 28,
+          "total": 28,
+          "pct": 100,
+          "meta": 45,
+          "atingiu": true,
+          "ponderadaPct": 100
+        },
+        "preco_fipe_atual": {
+          "preenchidos": 28,
+          "total": 28,
+          "pct": 100,
+          "meta": 100,
+          "atingiu": true,
+          "ponderadaPct": 100
+        },
+        "historico_precos": {
+          "preenchidos": 28,
+          "total": 28,
+          "pct": 100,
+          "meta": 100,
+          "atingiu": true,
+          "ponderadaPct": 100
+        },
+        "geracao": {
+          "preenchidos": 28,
+          "total": 28,
+          "pct": 100,
+          "meta": 40,
+          "atingiu": true,
+          "ponderadaPct": 100
+        },
+        "concorrentes": {
+          "preenchidos": 0,
+          "total": 28,
+          "pct": 0,
+          "meta": 80,
+          "atingiu": false,
+          "ponderadaPct": 0
+        }
+      }
+    },
+    "civic-9": {
+      "total": 23,
+      "campos": {
+        "potencia": {
+          "preenchidos": 2,
+          "total": 23,
+          "pct": 8.7,
+          "meta": 70,
+          "atingiu": false,
+          "ponderadaPct": 9.19
+        },
+        "torque": {
+          "preenchidos": 0,
+          "total": 23,
+          "pct": 0,
+          "meta": 70,
+          "atingiu": false,
+          "ponderadaPct": 0
+        },
+        "transmissao": {
+          "preenchidos": 23,
+          "total": 23,
+          "pct": 100,
+          "meta": 70,
+          "atingiu": true,
+          "ponderadaPct": 100
+        },
+        "porta_malas": {
+          "preenchidos": 0,
+          "total": 23,
+          "pct": 0,
+          "meta": 50,
+          "atingiu": false,
+          "ponderadaPct": 0
+        },
+        "consumo_urbano": {
+          "preenchidos": 23,
+          "total": 23,
+          "pct": 100,
+          "meta": 45,
+          "atingiu": true,
+          "ponderadaPct": 100
+        },
+        "preco_fipe_atual": {
+          "preenchidos": 23,
+          "total": 23,
+          "pct": 100,
+          "meta": 100,
+          "atingiu": true,
+          "ponderadaPct": 100
+        },
+        "historico_precos": {
+          "preenchidos": 23,
+          "total": 23,
+          "pct": 100,
+          "meta": 100,
+          "atingiu": true,
+          "ponderadaPct": 100
+        },
+        "geracao": {
+          "preenchidos": 23,
+          "total": 23,
+          "pct": 100,
+          "meta": 40,
+          "atingiu": true,
+          "ponderadaPct": 100
+        },
+        "concorrentes": {
+          "preenchidos": 0,
+          "total": 23,
+          "pct": 0,
+          "meta": 80,
+          "atingiu": false,
+          "ponderadaPct": 0
+        }
+      }
+    },
+    "civic-8": {
+      "total": 30,
+      "campos": {
+        "potencia": {
+          "preenchidos": 10,
+          "total": 30,
+          "pct": 33.33,
+          "meta": 70,
+          "atingiu": false,
+          "ponderadaPct": 33.45
+        },
+        "torque": {
+          "preenchidos": 0,
+          "total": 30,
+          "pct": 0,
+          "meta": 70,
+          "atingiu": false,
+          "ponderadaPct": 0
+        },
+        "transmissao": {
+          "preenchidos": 25,
+          "total": 30,
+          "pct": 83.33,
+          "meta": 70,
+          "atingiu": true,
+          "ponderadaPct": 82.41
+        },
+        "porta_malas": {
+          "preenchidos": 0,
+          "total": 30,
+          "pct": 0,
+          "meta": 50,
+          "atingiu": false,
+          "ponderadaPct": 0
+        },
+        "consumo_urbano": {
+          "preenchidos": 30,
+          "total": 30,
+          "pct": 100,
+          "meta": 45,
+          "atingiu": true,
+          "ponderadaPct": 100
+        },
+        "preco_fipe_atual": {
+          "preenchidos": 30,
+          "total": 30,
+          "pct": 100,
+          "meta": 100,
+          "atingiu": true,
+          "ponderadaPct": 100
+        },
+        "historico_precos": {
+          "preenchidos": 30,
+          "total": 30,
+          "pct": 100,
+          "meta": 100,
+          "atingiu": true,
+          "ponderadaPct": 100
+        },
+        "geracao": {
+          "preenchidos": 30,
+          "total": 30,
+          "pct": 100,
+          "meta": 40,
+          "atingiu": true,
+          "ponderadaPct": 100
+        },
+        "concorrentes": {
+          "preenchidos": 0,
+          "total": 30,
+          "pct": 0,
+          "meta": 80,
+          "atingiu": false,
+          "ponderadaPct": 0
+        }
+      }
+    },
+    "civic-11": {
+      "total": 6,
+      "campos": {
+        "potencia": {
+          "preenchidos": 0,
+          "total": 6,
+          "pct": 0,
+          "meta": 70,
+          "atingiu": false,
+          "ponderadaPct": 0
+        },
+        "torque": {
+          "preenchidos": 0,
+          "total": 6,
+          "pct": 0,
+          "meta": 70,
+          "atingiu": false,
+          "ponderadaPct": 0
+        },
+        "transmissao": {
+          "preenchidos": 3,
+          "total": 6,
+          "pct": 50,
+          "meta": 70,
+          "atingiu": false,
+          "ponderadaPct": 48.79
+        },
+        "porta_malas": {
+          "preenchidos": 0,
+          "total": 6,
+          "pct": 0,
+          "meta": 50,
+          "atingiu": false,
+          "ponderadaPct": 0
+        },
+        "consumo_urbano": {
+          "preenchidos": 6,
+          "total": 6,
+          "pct": 100,
+          "meta": 45,
+          "atingiu": true,
+          "ponderadaPct": 100
+        },
+        "preco_fipe_atual": {
+          "preenchidos": 6,
+          "total": 6,
+          "pct": 100,
+          "meta": 100,
+          "atingiu": true,
+          "ponderadaPct": 100
+        },
+        "historico_precos": {
+          "preenchidos": 6,
+          "total": 6,
+          "pct": 100,
+          "meta": 100,
+          "atingiu": true,
+          "ponderadaPct": 100
+        },
+        "geracao": {
+          "preenchidos": 6,
+          "total": 6,
+          "pct": 100,
+          "meta": 40,
+          "atingiu": true,
+          "ponderadaPct": 100
+        },
+        "concorrentes": {
+          "preenchidos": 0,
+          "total": 6,
+          "pct": 0,
+          "meta": 80,
+          "atingiu": false,
+          "ponderadaPct": 0
+        }
+      }
+    },
+    "hb20-1": {
+      "total": 63,
+      "campos": {
+        "potencia": {
+          "preenchidos": 0,
+          "total": 63,
+          "pct": 0,
+          "meta": 70,
+          "atingiu": false,
+          "ponderadaPct": 0
+        },
+        "torque": {
+          "preenchidos": 0,
+          "total": 63,
+          "pct": 0,
+          "meta": 70,
+          "atingiu": false,
+          "ponderadaPct": 0
+        },
+        "transmissao": {
+          "preenchidos": 55,
+          "total": 63,
+          "pct": 87.3,
+          "meta": 70,
+          "atingiu": true,
+          "ponderadaPct": 87.45
+        },
+        "porta_malas": {
+          "preenchidos": 0,
+          "total": 63,
+          "pct": 0,
+          "meta": 50,
+          "atingiu": false,
+          "ponderadaPct": 0
+        },
+        "consumo_urbano": {
+          "preenchidos": 63,
+          "total": 63,
+          "pct": 100,
+          "meta": 45,
+          "atingiu": true,
+          "ponderadaPct": 100
+        },
+        "preco_fipe_atual": {
+          "preenchidos": 63,
+          "total": 63,
+          "pct": 100,
+          "meta": 100,
+          "atingiu": true,
+          "ponderadaPct": 100
+        },
+        "historico_precos": {
+          "preenchidos": 63,
+          "total": 63,
+          "pct": 100,
+          "meta": 100,
+          "atingiu": true,
+          "ponderadaPct": 100
+        },
+        "geracao": {
+          "preenchidos": 63,
+          "total": 63,
+          "pct": 100,
+          "meta": 40,
+          "atingiu": true,
+          "ponderadaPct": 100
+        },
+        "concorrentes": {
+          "preenchidos": 0,
+          "total": 63,
+          "pct": 0,
+          "meta": 80,
+          "atingiu": false,
+          "ponderadaPct": 0
+        }
+      }
+    },
+    "hb20-2": {
+      "total": 70,
+      "campos": {
+        "potencia": {
+          "preenchidos": 0,
+          "total": 70,
+          "pct": 0,
+          "meta": 70,
+          "atingiu": false,
+          "ponderadaPct": 0
+        },
+        "torque": {
+          "preenchidos": 0,
+          "total": 70,
+          "pct": 0,
+          "meta": 70,
+          "atingiu": false,
+          "ponderadaPct": 0
+        },
+        "transmissao": {
+          "preenchidos": 70,
+          "total": 70,
+          "pct": 100,
+          "meta": 70,
+          "atingiu": true,
+          "ponderadaPct": 100
+        },
+        "porta_malas": {
+          "preenchidos": 0,
+          "total": 70,
+          "pct": 0,
+          "meta": 50,
+          "atingiu": false,
+          "ponderadaPct": 0
+        },
+        "consumo_urbano": {
+          "preenchidos": 70,
+          "total": 70,
+          "pct": 100,
+          "meta": 45,
+          "atingiu": true,
+          "ponderadaPct": 100
+        },
+        "preco_fipe_atual": {
+          "preenchidos": 70,
+          "total": 70,
+          "pct": 100,
+          "meta": 100,
+          "atingiu": true,
+          "ponderadaPct": 100
+        },
+        "historico_precos": {
+          "preenchidos": 70,
+          "total": 70,
+          "pct": 100,
+          "meta": 100,
+          "atingiu": true,
+          "ponderadaPct": 100
+        },
+        "geracao": {
+          "preenchidos": 70,
+          "total": 70,
+          "pct": 100,
+          "meta": 40,
+          "atingiu": true,
+          "ponderadaPct": 100
+        },
+        "concorrentes": {
+          "preenchidos": 0,
+          "total": 70,
+          "pct": 0,
+          "meta": 80,
+          "atingiu": false,
+          "ponderadaPct": 0
+        }
+      }
+    },
+    "compass-2": {
+      "total": 39,
+      "campos": {
+        "potencia": {
+          "preenchidos": 0,
+          "total": 39,
+          "pct": 0,
+          "meta": 70,
+          "atingiu": false,
+          "ponderadaPct": 0
+        },
+        "torque": {
+          "preenchidos": 0,
+          "total": 39,
+          "pct": 0,
+          "meta": 70,
+          "atingiu": false,
+          "ponderadaPct": 0
+        },
+        "transmissao": {
+          "preenchidos": 39,
+          "total": 39,
+          "pct": 100,
+          "meta": 70,
+          "atingiu": true,
+          "ponderadaPct": 100
+        },
+        "porta_malas": {
+          "preenchidos": 0,
+          "total": 39,
+          "pct": 0,
+          "meta": 50,
+          "atingiu": false,
+          "ponderadaPct": 0
+        },
+        "consumo_urbano": {
+          "preenchidos": 39,
+          "total": 39,
+          "pct": 100,
+          "meta": 45,
+          "atingiu": true,
+          "ponderadaPct": 100
+        },
+        "preco_fipe_atual": {
+          "preenchidos": 39,
+          "total": 39,
+          "pct": 100,
+          "meta": 100,
+          "atingiu": true,
+          "ponderadaPct": 100
+        },
+        "historico_precos": {
+          "preenchidos": 39,
+          "total": 39,
+          "pct": 100,
+          "meta": 100,
+          "atingiu": true,
+          "ponderadaPct": 100
+        },
+        "geracao": {
+          "preenchidos": 39,
+          "total": 39,
+          "pct": 100,
+          "meta": 40,
+          "atingiu": true,
+          "ponderadaPct": 100
+        },
+        "concorrentes": {
+          "preenchidos": 0,
+          "total": 39,
+          "pct": 0,
+          "meta": 80,
+          "atingiu": false,
+          "ponderadaPct": 0
+        }
+      }
+    },
+    "compass-1": {
+      "total": 35,
+      "campos": {
+        "potencia": {
+          "preenchidos": 0,
+          "total": 35,
+          "pct": 0,
+          "meta": 70,
+          "atingiu": false,
+          "ponderadaPct": 0
+        },
+        "torque": {
+          "preenchidos": 0,
+          "total": 35,
+          "pct": 0,
+          "meta": 70,
+          "atingiu": false,
+          "ponderadaPct": 0
+        },
+        "transmissao": {
+          "preenchidos": 35,
+          "total": 35,
+          "pct": 100,
+          "meta": 70,
+          "atingiu": true,
+          "ponderadaPct": 100
+        },
+        "porta_malas": {
+          "preenchidos": 0,
+          "total": 35,
+          "pct": 0,
+          "meta": 50,
+          "atingiu": false,
+          "ponderadaPct": 0
+        },
+        "consumo_urbano": {
+          "preenchidos": 35,
+          "total": 35,
+          "pct": 100,
+          "meta": 45,
+          "atingiu": true,
+          "ponderadaPct": 100
+        },
+        "preco_fipe_atual": {
+          "preenchidos": 35,
+          "total": 35,
+          "pct": 100,
+          "meta": 100,
+          "atingiu": true,
+          "ponderadaPct": 100
+        },
+        "historico_precos": {
+          "preenchidos": 35,
+          "total": 35,
+          "pct": 100,
+          "meta": 100,
+          "atingiu": true,
+          "ponderadaPct": 100
+        },
+        "geracao": {
+          "preenchidos": 35,
+          "total": 35,
+          "pct": 100,
+          "meta": 40,
+          "atingiu": true,
+          "ponderadaPct": 100
+        },
+        "concorrentes": {
+          "preenchidos": 0,
+          "total": 35,
+          "pct": 0,
+          "meta": 80,
+          "atingiu": false,
+          "ponderadaPct": 0
+        }
+      }
+    },
+    "kicks-1": {
+      "total": 53,
+      "campos": {
+        "potencia": {
+          "preenchidos": 0,
+          "total": 53,
+          "pct": 0,
+          "meta": 70,
+          "atingiu": false,
+          "ponderadaPct": 0
+        },
+        "torque": {
+          "preenchidos": 0,
+          "total": 53,
+          "pct": 0,
+          "meta": 70,
+          "atingiu": false,
+          "ponderadaPct": 0
+        },
+        "transmissao": {
+          "preenchidos": 53,
+          "total": 53,
+          "pct": 100,
+          "meta": 70,
+          "atingiu": true,
+          "ponderadaPct": 100
+        },
+        "porta_malas": {
+          "preenchidos": 0,
+          "total": 53,
+          "pct": 0,
+          "meta": 50,
+          "atingiu": false,
+          "ponderadaPct": 0
+        },
+        "consumo_urbano": {
+          "preenchidos": 53,
+          "total": 53,
+          "pct": 100,
+          "meta": 45,
+          "atingiu": true,
+          "ponderadaPct": 100
+        },
+        "preco_fipe_atual": {
+          "preenchidos": 53,
+          "total": 53,
+          "pct": 100,
+          "meta": 100,
+          "atingiu": true,
+          "ponderadaPct": 100
+        },
+        "historico_precos": {
+          "preenchidos": 53,
+          "total": 53,
+          "pct": 100,
+          "meta": 100,
+          "atingiu": true,
+          "ponderadaPct": 100
+        },
+        "geracao": {
+          "preenchidos": 53,
+          "total": 53,
+          "pct": 100,
+          "meta": 40,
+          "atingiu": true,
+          "ponderadaPct": 100
+        },
+        "concorrentes": {
+          "preenchidos": 0,
+          "total": 53,
+          "pct": 0,
+          "meta": 80,
+          "atingiu": false,
+          "ponderadaPct": 0
+        }
+      }
+    },
+    "kwid-1": {
+      "total": 37,
+      "campos": {
+        "potencia": {
+          "preenchidos": 0,
+          "total": 37,
+          "pct": 0,
+          "meta": 70,
+          "atingiu": false,
+          "ponderadaPct": 0
+        },
+        "torque": {
+          "preenchidos": 0,
+          "total": 37,
+          "pct": 0,
+          "meta": 70,
+          "atingiu": false,
+          "ponderadaPct": 0
+        },
+        "transmissao": {
+          "preenchidos": 33,
+          "total": 37,
+          "pct": 89.19,
+          "meta": 70,
+          "atingiu": true,
+          "ponderadaPct": 88.77
+        },
+        "porta_malas": {
+          "preenchidos": 0,
+          "total": 37,
+          "pct": 0,
+          "meta": 50,
+          "atingiu": false,
+          "ponderadaPct": 0
+        },
+        "consumo_urbano": {
+          "preenchidos": 37,
+          "total": 37,
+          "pct": 100,
+          "meta": 45,
+          "atingiu": true,
+          "ponderadaPct": 100
+        },
+        "preco_fipe_atual": {
+          "preenchidos": 37,
+          "total": 37,
+          "pct": 100,
+          "meta": 100,
+          "atingiu": true,
+          "ponderadaPct": 100
+        },
+        "historico_precos": {
+          "preenchidos": 37,
+          "total": 37,
+          "pct": 100,
+          "meta": 100,
+          "atingiu": true,
+          "ponderadaPct": 100
+        },
+        "geracao": {
+          "preenchidos": 37,
+          "total": 37,
+          "pct": 100,
+          "meta": 40,
+          "atingiu": true,
+          "ponderadaPct": 100
+        },
+        "concorrentes": {
+          "preenchidos": 0,
+          "total": 37,
+          "pct": 0,
+          "meta": 80,
+          "atingiu": false,
+          "ponderadaPct": 0
+        }
+      }
+    },
+    "corolla-10": {
+      "total": 41,
+      "campos": {
+        "potencia": {
+          "preenchidos": 2,
+          "total": 41,
+          "pct": 4.88,
+          "meta": 70,
+          "atingiu": false,
+          "ponderadaPct": 4.83
+        },
+        "torque": {
+          "preenchidos": 0,
+          "total": 41,
+          "pct": 0,
+          "meta": 70,
+          "atingiu": false,
+          "ponderadaPct": 0
+        },
+        "transmissao": {
+          "preenchidos": 41,
+          "total": 41,
+          "pct": 100,
+          "meta": 70,
+          "atingiu": true,
+          "ponderadaPct": 100
+        },
+        "porta_malas": {
+          "preenchidos": 0,
+          "total": 41,
+          "pct": 0,
+          "meta": 50,
+          "atingiu": false,
+          "ponderadaPct": 0
+        },
+        "consumo_urbano": {
+          "preenchidos": 41,
+          "total": 41,
+          "pct": 100,
+          "meta": 45,
+          "atingiu": true,
+          "ponderadaPct": 100
+        },
+        "preco_fipe_atual": {
+          "preenchidos": 41,
+          "total": 41,
+          "pct": 100,
+          "meta": 100,
+          "atingiu": true,
+          "ponderadaPct": 100
+        },
+        "historico_precos": {
+          "preenchidos": 41,
+          "total": 41,
+          "pct": 100,
+          "meta": 100,
+          "atingiu": true,
+          "ponderadaPct": 100
+        },
+        "geracao": {
+          "preenchidos": 41,
+          "total": 41,
+          "pct": 100,
+          "meta": 40,
+          "atingiu": true,
+          "ponderadaPct": 100
+        },
+        "concorrentes": {
+          "preenchidos": 0,
+          "total": 41,
+          "pct": 0,
+          "meta": 80,
+          "atingiu": false,
+          "ponderadaPct": 0
+        }
+      }
+    },
+    "corolla-11": {
+      "total": 26,
+      "campos": {
+        "potencia": {
+          "preenchidos": 0,
+          "total": 26,
+          "pct": 0,
+          "meta": 70,
+          "atingiu": false,
+          "ponderadaPct": 0
+        },
+        "torque": {
+          "preenchidos": 0,
+          "total": 26,
+          "pct": 0,
+          "meta": 70,
+          "atingiu": false,
+          "ponderadaPct": 0
+        },
+        "transmissao": {
+          "preenchidos": 26,
+          "total": 26,
+          "pct": 100,
+          "meta": 70,
+          "atingiu": true,
+          "ponderadaPct": 100
+        },
+        "porta_malas": {
+          "preenchidos": 0,
+          "total": 26,
+          "pct": 0,
+          "meta": 50,
+          "atingiu": false,
+          "ponderadaPct": 0
+        },
+        "consumo_urbano": {
+          "preenchidos": 26,
+          "total": 26,
+          "pct": 100,
+          "meta": 45,
+          "atingiu": true,
+          "ponderadaPct": 100
+        },
+        "preco_fipe_atual": {
+          "preenchidos": 26,
+          "total": 26,
+          "pct": 100,
+          "meta": 100,
+          "atingiu": true,
+          "ponderadaPct": 100
+        },
+        "historico_precos": {
+          "preenchidos": 26,
+          "total": 26,
+          "pct": 100,
+          "meta": 100,
+          "atingiu": true,
+          "ponderadaPct": 100
+        },
+        "geracao": {
+          "preenchidos": 26,
+          "total": 26,
+          "pct": 100,
+          "meta": 40,
+          "atingiu": true,
+          "ponderadaPct": 100
+        },
+        "concorrentes": {
+          "preenchidos": 0,
+          "total": 26,
+          "pct": 0,
+          "meta": 80,
+          "atingiu": false,
+          "ponderadaPct": 0
+        }
+      }
+    },
+    "corolla-12": {
+      "total": 70,
+      "campos": {
+        "potencia": {
+          "preenchidos": 0,
+          "total": 70,
+          "pct": 0,
+          "meta": 70,
+          "atingiu": false,
+          "ponderadaPct": 0
+        },
+        "torque": {
+          "preenchidos": 0,
+          "total": 70,
+          "pct": 0,
+          "meta": 70,
+          "atingiu": false,
+          "ponderadaPct": 0
+        },
+        "transmissao": {
+          "preenchidos": 70,
+          "total": 70,
+          "pct": 100,
+          "meta": 70,
+          "atingiu": true,
+          "ponderadaPct": 100
+        },
+        "porta_malas": {
+          "preenchidos": 0,
+          "total": 70,
+          "pct": 0,
+          "meta": 50,
+          "atingiu": false,
+          "ponderadaPct": 0
+        },
+        "consumo_urbano": {
+          "preenchidos": 70,
+          "total": 70,
+          "pct": 100,
+          "meta": 45,
+          "atingiu": true,
+          "ponderadaPct": 100
+        },
+        "preco_fipe_atual": {
+          "preenchidos": 70,
+          "total": 70,
+          "pct": 100,
+          "meta": 100,
+          "atingiu": true,
+          "ponderadaPct": 100
+        },
+        "historico_precos": {
+          "preenchidos": 70,
+          "total": 70,
+          "pct": 100,
+          "meta": 100,
+          "atingiu": true,
+          "ponderadaPct": 100
+        },
+        "geracao": {
+          "preenchidos": 70,
+          "total": 70,
+          "pct": 100,
+          "meta": 40,
+          "atingiu": true,
+          "ponderadaPct": 100
+        },
+        "concorrentes": {
+          "preenchidos": 0,
+          "total": 70,
+          "pct": 0,
+          "meta": 80,
+          "atingiu": false,
+          "ponderadaPct": 0
+        }
+      }
+    },
+    "corolla-9": {
+      "total": 44,
+      "campos": {
+        "potencia": {
+          "preenchidos": 15,
+          "total": 44,
+          "pct": 34.09,
+          "meta": 70,
+          "atingiu": false,
+          "ponderadaPct": 33.92
+        },
+        "torque": {
+          "preenchidos": 0,
+          "total": 44,
+          "pct": 0,
+          "meta": 70,
+          "atingiu": false,
+          "ponderadaPct": 0
+        },
+        "transmissao": {
+          "preenchidos": 44,
+          "total": 44,
+          "pct": 100,
+          "meta": 70,
+          "atingiu": true,
+          "ponderadaPct": 100
+        },
+        "porta_malas": {
+          "preenchidos": 0,
+          "total": 44,
+          "pct": 0,
+          "meta": 50,
+          "atingiu": false,
+          "ponderadaPct": 0
+        },
+        "consumo_urbano": {
+          "preenchidos": 44,
+          "total": 44,
+          "pct": 100,
+          "meta": 45,
+          "atingiu": true,
+          "ponderadaPct": 100
+        },
+        "preco_fipe_atual": {
+          "preenchidos": 44,
+          "total": 44,
+          "pct": 100,
+          "meta": 100,
+          "atingiu": true,
+          "ponderadaPct": 100
+        },
+        "historico_precos": {
+          "preenchidos": 44,
+          "total": 44,
+          "pct": 100,
+          "meta": 100,
+          "atingiu": true,
+          "ponderadaPct": 100
+        },
+        "geracao": {
+          "preenchidos": 44,
+          "total": 44,
+          "pct": 100,
+          "meta": 40,
+          "atingiu": true,
+          "ponderadaPct": 100
+        },
+        "concorrentes": {
+          "preenchidos": 0,
+          "total": 44,
+          "pct": 0,
+          "meta": 80,
+          "atingiu": false,
+          "ponderadaPct": 0
+        }
+      }
+    },
+    "hilux-7": {
+      "total": 150,
+      "campos": {
+        "potencia": {
+          "preenchidos": 51,
+          "total": 150,
+          "pct": 34,
+          "meta": 70,
+          "atingiu": false,
+          "ponderadaPct": 33.37
+        },
+        "torque": {
+          "preenchidos": 0,
+          "total": 150,
+          "pct": 0,
+          "meta": 70,
+          "atingiu": false,
+          "ponderadaPct": 0
+        },
+        "transmissao": {
+          "preenchidos": 86,
+          "total": 150,
+          "pct": 57.33,
+          "meta": 70,
+          "atingiu": false,
+          "ponderadaPct": 57.93
+        },
+        "porta_malas": {
+          "preenchidos": 0,
+          "total": 150,
+          "pct": 0,
+          "meta": 50,
+          "atingiu": false,
+          "ponderadaPct": 0
+        },
+        "consumo_urbano": {
+          "preenchidos": 150,
+          "total": 150,
+          "pct": 100,
+          "meta": 45,
+          "atingiu": true,
+          "ponderadaPct": 100
+        },
+        "preco_fipe_atual": {
+          "preenchidos": 150,
+          "total": 150,
+          "pct": 100,
+          "meta": 100,
+          "atingiu": true,
+          "ponderadaPct": 100
+        },
+        "historico_precos": {
+          "preenchidos": 150,
+          "total": 150,
+          "pct": 100,
+          "meta": 100,
+          "atingiu": true,
+          "ponderadaPct": 100
+        },
+        "geracao": {
+          "preenchidos": 150,
+          "total": 150,
+          "pct": 100,
+          "meta": 40,
+          "atingiu": true,
+          "ponderadaPct": 100
+        },
+        "concorrentes": {
+          "preenchidos": 0,
+          "total": 150,
+          "pct": 0,
+          "meta": 80,
+          "atingiu": false,
+          "ponderadaPct": 0
+        }
+      }
+    },
+    "hilux-8": {
+      "total": 140,
+      "campos": {
+        "potencia": {
+          "preenchidos": 1,
+          "total": 140,
+          "pct": 0.71,
+          "meta": 70,
+          "atingiu": false,
+          "ponderadaPct": 0.71
+        },
+        "torque": {
+          "preenchidos": 0,
+          "total": 140,
+          "pct": 0,
+          "meta": 70,
+          "atingiu": false,
+          "ponderadaPct": 0
+        },
+        "transmissao": {
+          "preenchidos": 140,
+          "total": 140,
+          "pct": 100,
+          "meta": 70,
+          "atingiu": true,
+          "ponderadaPct": 100
+        },
+        "porta_malas": {
+          "preenchidos": 0,
+          "total": 140,
+          "pct": 0,
+          "meta": 50,
+          "atingiu": false,
+          "ponderadaPct": 0
+        },
+        "consumo_urbano": {
+          "preenchidos": 140,
+          "total": 140,
+          "pct": 100,
+          "meta": 45,
+          "atingiu": true,
+          "ponderadaPct": 100
+        },
+        "preco_fipe_atual": {
+          "preenchidos": 140,
+          "total": 140,
+          "pct": 100,
+          "meta": 100,
+          "atingiu": true,
+          "ponderadaPct": 100
+        },
+        "historico_precos": {
+          "preenchidos": 140,
+          "total": 140,
+          "pct": 100,
+          "meta": 100,
+          "atingiu": true,
+          "ponderadaPct": 100
+        },
+        "geracao": {
+          "preenchidos": 140,
+          "total": 140,
+          "pct": 100,
+          "meta": 40,
+          "atingiu": true,
+          "ponderadaPct": 100
+        },
+        "concorrentes": {
+          "preenchidos": 0,
+          "total": 140,
+          "pct": 0,
+          "meta": 80,
+          "atingiu": false,
+          "ponderadaPct": 0
+        }
+      }
+    },
+    "gol-5": {
+      "total": 124,
+      "campos": {
+        "potencia": {
+          "preenchidos": 0,
+          "total": 124,
+          "pct": 0,
+          "meta": 70,
+          "atingiu": false,
+          "ponderadaPct": 0
+        },
+        "torque": {
+          "preenchidos": 0,
+          "total": 124,
+          "pct": 0,
+          "meta": 70,
+          "atingiu": false,
+          "ponderadaPct": 0
+        },
+        "transmissao": {
+          "preenchidos": 0,
+          "total": 124,
+          "pct": 0,
+          "meta": 70,
+          "atingiu": false,
+          "ponderadaPct": 0
+        },
+        "porta_malas": {
+          "preenchidos": 0,
+          "total": 124,
+          "pct": 0,
+          "meta": 50,
+          "atingiu": false,
+          "ponderadaPct": 0
+        },
+        "consumo_urbano": {
+          "preenchidos": 124,
+          "total": 124,
+          "pct": 100,
+          "meta": 45,
+          "atingiu": true,
+          "ponderadaPct": 100
+        },
+        "preco_fipe_atual": {
+          "preenchidos": 124,
+          "total": 124,
+          "pct": 100,
+          "meta": 100,
+          "atingiu": true,
+          "ponderadaPct": 100
+        },
+        "historico_precos": {
+          "preenchidos": 124,
+          "total": 124,
+          "pct": 100,
+          "meta": 100,
+          "atingiu": true,
+          "ponderadaPct": 100
+        },
+        "geracao": {
+          "preenchidos": 124,
+          "total": 124,
+          "pct": 100,
+          "meta": 40,
+          "atingiu": true,
+          "ponderadaPct": 100
+        },
+        "concorrentes": {
+          "preenchidos": 0,
+          "total": 124,
+          "pct": 0,
+          "meta": 80,
+          "atingiu": false,
+          "ponderadaPct": 0
+        }
+      }
+    },
+    "gol-7": {
+      "total": 30,
+      "campos": {
+        "potencia": {
+          "preenchidos": 0,
+          "total": 30,
+          "pct": 0,
+          "meta": 70,
+          "atingiu": false,
+          "ponderadaPct": 0
+        },
+        "torque": {
+          "preenchidos": 0,
+          "total": 30,
+          "pct": 0,
+          "meta": 70,
+          "atingiu": false,
+          "ponderadaPct": 0
+        },
+        "transmissao": {
+          "preenchidos": 4,
+          "total": 30,
+          "pct": 13.33,
+          "meta": 70,
+          "atingiu": false,
+          "ponderadaPct": 13.52
+        },
+        "porta_malas": {
+          "preenchidos": 0,
+          "total": 30,
+          "pct": 0,
+          "meta": 50,
+          "atingiu": false,
+          "ponderadaPct": 0
+        },
+        "consumo_urbano": {
+          "preenchidos": 30,
+          "total": 30,
+          "pct": 100,
+          "meta": 45,
+          "atingiu": true,
+          "ponderadaPct": 100
+        },
+        "preco_fipe_atual": {
+          "preenchidos": 30,
+          "total": 30,
+          "pct": 100,
+          "meta": 100,
+          "atingiu": true,
+          "ponderadaPct": 100
+        },
+        "historico_precos": {
+          "preenchidos": 30,
+          "total": 30,
+          "pct": 100,
+          "meta": 100,
+          "atingiu": true,
+          "ponderadaPct": 100
+        },
+        "geracao": {
+          "preenchidos": 30,
+          "total": 30,
+          "pct": 100,
+          "meta": 40,
+          "atingiu": true,
+          "ponderadaPct": 100
+        },
+        "concorrentes": {
+          "preenchidos": 0,
+          "total": 30,
+          "pct": 0,
+          "meta": 80,
+          "atingiu": false,
+          "ponderadaPct": 0
+        }
+      }
+    },
+    "polo-6": {
+      "total": 60,
+      "campos": {
+        "potencia": {
+          "preenchidos": 0,
+          "total": 60,
+          "pct": 0,
+          "meta": 70,
+          "atingiu": false,
+          "ponderadaPct": 0
+        },
+        "torque": {
+          "preenchidos": 0,
+          "total": 60,
+          "pct": 0,
+          "meta": 70,
+          "atingiu": false,
+          "ponderadaPct": 0
+        },
+        "transmissao": {
+          "preenchidos": 28,
+          "total": 60,
+          "pct": 46.67,
+          "meta": 70,
+          "atingiu": false,
+          "ponderadaPct": 46.75
+        },
+        "porta_malas": {
+          "preenchidos": 0,
+          "total": 60,
+          "pct": 0,
+          "meta": 50,
+          "atingiu": false,
+          "ponderadaPct": 0
+        },
+        "consumo_urbano": {
+          "preenchidos": 60,
+          "total": 60,
+          "pct": 100,
+          "meta": 45,
+          "atingiu": true,
+          "ponderadaPct": 100
+        },
+        "preco_fipe_atual": {
+          "preenchidos": 60,
+          "total": 60,
+          "pct": 100,
+          "meta": 100,
+          "atingiu": true,
+          "ponderadaPct": 100
+        },
+        "historico_precos": {
+          "preenchidos": 60,
+          "total": 60,
+          "pct": 100,
+          "meta": 100,
+          "atingiu": true,
+          "ponderadaPct": 100
+        },
+        "geracao": {
+          "preenchidos": 60,
+          "total": 60,
+          "pct": 100,
+          "meta": 40,
+          "atingiu": true,
+          "ponderadaPct": 100
+        },
+        "concorrentes": {
+          "preenchidos": 0,
+          "total": 60,
+          "pct": 0,
+          "meta": 80,
+          "atingiu": false,
+          "ponderadaPct": 0
+        }
+      }
+    }
+  },
+  "observacao": "Cobertura ponderada usa peso por tipo (carros>motos>caminhoes) e faixa de preco FIPE."
+}

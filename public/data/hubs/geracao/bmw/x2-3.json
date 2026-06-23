@@ -1,0 +1,66 @@
+{
+  "tipo": "geracao",
+  "slug": "x2-3",
+  "canonicalPath": "/geracao/bmw/x2-3/",
+  "titulo": "Geracao x2-3",
+  "descricao": "5 veiculos da geracao x2-3.",
+  "seo": {
+    "title": "Geracao x2-3 - Precos FIPE",
+    "description": "Veiculos da geracao x2-3 na Tabela FIPE.",
+    "h1": "Geracao x2-3",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/bmw/x2-3/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "bmw-x2-m35i-xdrive-2-0-turbo-317cv-aut-2025-gasolina",
+      "fipeCodigo": "009322-0",
+      "displayName": "BMW X2 M35i xDrive 2.0 Turbo 317cv Aut.",
+      "valorAtual": 454961,
+      "canonicalPath": "/fipe/bmw/x2-m35i-xdrive-2-0-turbo-317cv-aut-2025-009322-0/",
+      "ano": 2025,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-x2-m35i-xdrive-2-0-turbo-317cv-aut-2026-gasolina",
+      "fipeCodigo": "009322-0",
+      "displayName": "BMW X2 M35i xDrive 2.0 Turbo 317cv Aut.",
+      "valorAtual": 482201,
+      "canonicalPath": "/fipe/bmw/x2-m35i-xdrive-2-0-turbo-317cv-aut-2026-009322-0/",
+      "ano": 2026,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-x2-xdrive20i-m-sport-2024-gasolina",
+      "fipeCodigo": "009320-3",
+      "displayName": "BMW X2 XDrive20i M Sport",
+      "valorAtual": 337034,
+      "canonicalPath": "/fipe/bmw/x2-xdrive20i-m-sport-2024-009320-3/",
+      "ano": 2024,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-x2-xdrive20i-m-sport-2025-gasolina",
+      "fipeCodigo": "009320-3",
+      "displayName": "BMW X2 XDrive20i M Sport",
+      "valorAtual": 355174,
+      "canonicalPath": "/fipe/bmw/x2-xdrive20i-m-sport-2025-009320-3/",
+      "ano": 2025,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-x2-xdrive20i-m-sport-2026-gasolina",
+      "fipeCodigo": "009320-3",
+      "displayName": "BMW X2 XDrive20i M Sport",
+      "valorAtual": 373281,
+      "canonicalPath": "/fipe/bmw/x2-xdrive20i-m-sport-2026-009320-3/",
+      "ano": 2026,
+      "marca": "BMW"
+    }
+  ],
+  "stats": {
+    "total": 5
+  },
+  "meta": {
+    "geracaoId": "x2-3"
+  }
+}

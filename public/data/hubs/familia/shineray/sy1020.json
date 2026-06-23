@@ -1,0 +1,125 @@
+{
+  "tipo": "familia",
+  "slug": "sy1020",
+  "canonicalPath": "/fipe/shineray/sy1020/",
+  "titulo": "SHINERAY sy1020 - Tabela FIPE",
+  "descricao": "11 versoes e anos do SHINERAY sy1020 na Tabela FIPE.",
+  "seo": {
+    "title": "SHINERAY sy1020 - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes SHINERAY sy1020. 11 veiculos indexados.",
+    "h1": "SHINERAY sy1020 - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/shineray/sy1020/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "shineray-sy1020-t20-trucks-2015-gasolina",
+      "fipeCodigo": "082003-2",
+      "displayName": "SHINERAY SY1020 T20 TRUCKS",
+      "valorAtual": 26178,
+      "canonicalPath": "/fipe/shineray/sy1020-t20-trucks-2015-082003-2/",
+      "ano": 2015,
+      "marca": "SHINERAY"
+    },
+    {
+      "vehicleId": "shineray-sy1020-t-20-trucks-bau-2015-gasolina",
+      "fipeCodigo": "082005-9",
+      "displayName": "SHINERAY SY1020 T 20 TRUCKS BAU",
+      "valorAtual": 28428,
+      "canonicalPath": "/fipe/shineray/sy1020-t-20-trucks-bau-2015-082005-9/",
+      "ano": 2015,
+      "marca": "SHINERAY"
+    },
+    {
+      "vehicleId": "shineray-sy1020-t-22-trucks-cd-2015-gasolina",
+      "fipeCodigo": "082004-0",
+      "displayName": "SHINERAY SY1020 T 22 TRUCKS CD",
+      "valorAtual": 30512,
+      "canonicalPath": "/fipe/shineray/sy1020-t-22-trucks-cd-2015-082004-0/",
+      "ano": 2015,
+      "marca": "SHINERAY"
+    },
+    {
+      "vehicleId": "shineray-sy1020-t20-trucks-2014-gasolina",
+      "fipeCodigo": "082003-2",
+      "displayName": "SHINERAY SY1020 T20 TRUCKS",
+      "valorAtual": 24398,
+      "canonicalPath": "/fipe/shineray/sy1020-t20-trucks-2014-082003-2/",
+      "ano": 2014,
+      "marca": "SHINERAY"
+    },
+    {
+      "vehicleId": "shineray-sy1020-t-20-trucks-bau-2014-gasolina",
+      "fipeCodigo": "082005-9",
+      "displayName": "SHINERAY SY1020 T 20 TRUCKS BAU",
+      "valorAtual": 27225,
+      "canonicalPath": "/fipe/shineray/sy1020-t-20-trucks-bau-2014-082005-9/",
+      "ano": 2014,
+      "marca": "SHINERAY"
+    },
+    {
+      "vehicleId": "shineray-sy1020-t-22-trucks-cd-2014-gasolina",
+      "fipeCodigo": "082004-0",
+      "displayName": "SHINERAY SY1020 T 22 TRUCKS CD",
+      "valorAtual": 27848,
+      "canonicalPath": "/fipe/shineray/sy1020-t-22-trucks-cd-2014-082004-0/",
+      "ano": 2014,
+      "marca": "SHINERAY"
+    },
+    {
+      "vehicleId": "shineray-sy1020-t20-trucks-2013-gasolina",
+      "fipeCodigo": "082003-2",
+      "displayName": "SHINERAY SY1020 T20 TRUCKS",
+      "valorAtual": 21000,
+      "canonicalPath": "/fipe/shineray/sy1020-t20-trucks-2013-082003-2/",
+      "ano": 2013,
+      "marca": "SHINERAY"
+    },
+    {
+      "vehicleId": "shineray-sy1020-t-20-trucks-bau-2013-gasolina",
+      "fipeCodigo": "082005-9",
+      "displayName": "SHINERAY SY1020 T 20 TRUCKS BAU",
+      "valorAtual": 25376,
+      "canonicalPath": "/fipe/shineray/sy1020-t-20-trucks-bau-2013-082005-9/",
+      "ano": 2013,
+      "marca": "SHINERAY"
+    },
+    {
+      "vehicleId": "shineray-sy1020-t-22-trucks-cd-2013-gasolina",
+      "fipeCodigo": "082004-0",
+      "displayName": "SHINERAY SY1020 T 22 TRUCKS CD",
+      "valorAtual": 25968,
+      "canonicalPath": "/fipe/shineray/sy1020-t-22-trucks-cd-2013-082004-0/",
+      "ano": 2013,
+      "marca": "SHINERAY"
+    },
+    {
+      "vehicleId": "shineray-sy1020-t20-trucks-2012-gasolina",
+      "fipeCodigo": "082003-2",
+      "displayName": "SHINERAY SY1020 T20 TRUCKS",
+      "valorAtual": 18318,
+      "canonicalPath": "/fipe/shineray/sy1020-t20-trucks-2012-082003-2/",
+      "ano": 2012,
+      "marca": "SHINERAY"
+    },
+    {
+      "vehicleId": "shineray-sy1020-t-22-trucks-cd-2012-gasolina",
+      "fipeCodigo": "082004-0",
+      "displayName": "SHINERAY SY1020 T 22 TRUCKS CD",
+      "valorAtual": 22010,
+      "canonicalPath": "/fipe/shineray/sy1020-t-22-trucks-cd-2012-082004-0/",
+      "ano": 2012,
+      "marca": "SHINERAY"
+    }
+  ],
+  "stats": {
+    "total": 11,
+    "precoMin": 18318,
+    "precoMax": 30512,
+    "anos": [
+      2015,
+      2014,
+      2013,
+      2012
+    ]
+  }
+}

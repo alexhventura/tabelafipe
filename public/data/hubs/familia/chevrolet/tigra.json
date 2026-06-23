@@ -1,0 +1,60 @@
+{
+  "tipo": "familia",
+  "slug": "tigra",
+  "canonicalPath": "/fipe/chevrolet/tigra/",
+  "titulo": "GM - Chevrolet tigra - Tabela FIPE",
+  "descricao": "4 versoes e anos do GM - Chevrolet tigra na Tabela FIPE.",
+  "seo": {
+    "title": "GM - Chevrolet tigra - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes GM - Chevrolet tigra. 4 veiculos indexados.",
+    "h1": "GM - Chevrolet tigra - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/chevrolet/tigra/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "chevrolet-tigra-1-6-16v-1999-gasolina",
+      "fipeCodigo": "004102-5",
+      "displayName": "GM - Chevrolet Tigra 1.6 16V",
+      "valorAtual": 32175,
+      "canonicalPath": "/fipe/chevrolet/tigra-1-6-16v-1999-004102-5/",
+      "ano": 1999,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-tigra-power-tech-coupe-1-6-sfi-1999-gasolina",
+      "fipeCodigo": "004123-8",
+      "displayName": "GM - Chevrolet Tigra Power Tech Coupe 1.6 SFI",
+      "valorAtual": 32179,
+      "canonicalPath": "/fipe/chevrolet/tigra-power-tech-coupe-1-6-sfi-1999-004123-8/",
+      "ano": 1999,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-tigra-1-6-16v-1998-gasolina",
+      "fipeCodigo": "004102-5",
+      "displayName": "GM - Chevrolet Tigra 1.6 16V",
+      "valorAtual": 31390,
+      "canonicalPath": "/fipe/chevrolet/tigra-1-6-16v-1998-004102-5/",
+      "ano": 1998,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-tigra-power-tech-coupe-1-6-sfi-1998-gasolina",
+      "fipeCodigo": "004123-8",
+      "displayName": "GM - Chevrolet Tigra Power Tech Coupe 1.6 SFI",
+      "valorAtual": 31394,
+      "canonicalPath": "/fipe/chevrolet/tigra-power-tech-coupe-1-6-sfi-1998-004123-8/",
+      "ano": 1998,
+      "marca": "GM - Chevrolet"
+    }
+  ],
+  "stats": {
+    "total": 4,
+    "precoMin": 31390,
+    "precoMax": 32179,
+    "anos": [
+      1999,
+      1998
+    ]
+  }
+}

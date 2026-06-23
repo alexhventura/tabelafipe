@@ -1,0 +1,57 @@
+{
+  "tipo": "geracao",
+  "slug": "sonata-2",
+  "canonicalPath": "/geracao/hyundai/sonata-2/",
+  "titulo": "Geracao sonata-2",
+  "descricao": "4 veiculos da geracao sonata-2.",
+  "seo": {
+    "title": "Geracao sonata-2 - Precos FIPE",
+    "description": "Veiculos da geracao sonata-2 na Tabela FIPE.",
+    "h1": "Geracao sonata-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/hyundai/sonata-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "hyundai-sonata-gls-3-3-v6-24v-235cv-4p-aut-2005-gasolina",
+      "fipeCodigo": "015066-5",
+      "displayName": "Hyundai Sonata GLS 3.3 V6 24V 235cv 4p Aut.",
+      "valorAtual": 22419,
+      "canonicalPath": "/fipe/hyundai/sonata-gls-3-3-v6-24v-235cv-4p-aut-2005-015066-5/",
+      "ano": 2005,
+      "marca": "Hyundai"
+    },
+    {
+      "vehicleId": "hyundai-sonata-gls-3-3-v6-24v-235cv-4p-aut-2006-gasolina",
+      "fipeCodigo": "015066-5",
+      "displayName": "Hyundai Sonata GLS 3.3 V6 24V 235cv 4p Aut.",
+      "valorAtual": 25862,
+      "canonicalPath": "/fipe/hyundai/sonata-gls-3-3-v6-24v-235cv-4p-aut-2006-015066-5/",
+      "ano": 2006,
+      "marca": "Hyundai"
+    },
+    {
+      "vehicleId": "hyundai-sonata-gls-3-3-v6-24v-235cv-4p-aut-2007-gasolina",
+      "fipeCodigo": "015066-5",
+      "displayName": "Hyundai Sonata GLS 3.3 V6 24V 235cv 4p Aut.",
+      "valorAtual": 30930,
+      "canonicalPath": "/fipe/hyundai/sonata-gls-3-3-v6-24v-235cv-4p-aut-2007-015066-5/",
+      "ano": 2007,
+      "marca": "Hyundai"
+    },
+    {
+      "vehicleId": "hyundai-sonata-gls-3-3-v6-24v-235cv-4p-aut-2008-gasolina",
+      "fipeCodigo": "015066-5",
+      "displayName": "Hyundai Sonata GLS 3.3 V6 24V 235cv 4p Aut.",
+      "valorAtual": 35127,
+      "canonicalPath": "/fipe/hyundai/sonata-gls-3-3-v6-24v-235cv-4p-aut-2008-015066-5/",
+      "ano": 2008,
+      "marca": "Hyundai"
+    }
+  ],
+  "stats": {
+    "total": 4
+  },
+  "meta": {
+    "geracaoId": "sonata-2"
+  }
+}

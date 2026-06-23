@@ -1,0 +1,57 @@
+{
+  "tipo": "geracao",
+  "slug": "718-1",
+  "canonicalPath": "/geracao/porsche/718-1/",
+  "titulo": "Geracao 718-1",
+  "descricao": "4 veiculos da geracao 718-1.",
+  "seo": {
+    "title": "Geracao 718-1 - Precos FIPE",
+    "description": "Veiculos da geracao 718-1 na Tabela FIPE.",
+    "h1": "Geracao 718-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/porsche/718-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "porsche-718-boxster-2-0-300cv-0-gasolina",
+      "fipeCodigo": "035069-9",
+      "displayName": "Porsche 718 Boxster 2.0 300cv",
+      "valorAtual": 693750,
+      "canonicalPath": "/fipe/porsche/718-boxster-2-0-300cv-0-035069-9/",
+      "ano": 0,
+      "marca": "Porsche"
+    },
+    {
+      "vehicleId": "porsche-718-boxster-gts-4-0-400cv-0-gasolina",
+      "fipeCodigo": "035127-0",
+      "displayName": "Porsche 718 Boxster GTS 4.0 400cv",
+      "valorAtual": 968750,
+      "canonicalPath": "/fipe/porsche/718-boxster-gts-4-0-400cv-0-035127-0/",
+      "ano": 0,
+      "marca": "Porsche"
+    },
+    {
+      "vehicleId": "porsche-718-cayman-2-0-300cv-0-gasolina",
+      "fipeCodigo": "035084-2",
+      "displayName": "Porsche 718 Cayman 2.0 300cv",
+      "valorAtual": 668750,
+      "canonicalPath": "/fipe/porsche/718-cayman-2-0-300cv-0-035084-2/",
+      "ano": 0,
+      "marca": "Porsche"
+    },
+    {
+      "vehicleId": "porsche-718-cayman-gts-4-0-400cv-0-gasolina",
+      "fipeCodigo": "035133-4",
+      "displayName": "Porsche 718 Cayman GTS 4.0 400cv",
+      "valorAtual": 943750,
+      "canonicalPath": "/fipe/porsche/718-cayman-gts-4-0-400cv-0-035133-4/",
+      "ano": 0,
+      "marca": "Porsche"
+    }
+  ],
+  "stats": {
+    "total": 4
+  },
+  "meta": {
+    "geracaoId": "718-1"
+  }
+}

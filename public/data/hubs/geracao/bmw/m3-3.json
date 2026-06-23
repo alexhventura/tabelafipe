@@ -1,0 +1,138 @@
+{
+  "tipo": "geracao",
+  "slug": "m3-3",
+  "canonicalPath": "/geracao/bmw/m3-3/",
+  "titulo": "Geracao m3-3",
+  "descricao": "13 veiculos da geracao m3-3.",
+  "seo": {
+    "title": "Geracao m3-3 - Precos FIPE",
+    "description": "Veiculos da geracao m3-3 na Tabela FIPE.",
+    "h1": "Geracao m3-3",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/bmw/m3-3/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "bmw-m3-cabrio-4-0-32v-2009-gasolina",
+      "fipeCodigo": "009134-0",
+      "displayName": "BMW M3 Cabrio 4.0 32V",
+      "valorAtual": 282158,
+      "canonicalPath": "/fipe/bmw/m3-cabrio-4-0-32v-2009-009134-0/",
+      "ano": 2009,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-m3-cabrio-4-0-32v-2010-gasolina",
+      "fipeCodigo": "009134-0",
+      "displayName": "BMW M3 Cabrio 4.0 32V",
+      "valorAtual": 289212,
+      "canonicalPath": "/fipe/bmw/m3-cabrio-4-0-32v-2010-009134-0/",
+      "ano": 2010,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-m3-coupe-4-0-32v-2008-gasolina",
+      "fipeCodigo": "009127-8",
+      "displayName": "BMW M3 Coupê 4.0 32V",
+      "valorAtual": 241496,
+      "canonicalPath": "/fipe/bmw/m3-coupe-4-0-32v-2008-009127-8/",
+      "ano": 2008,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-m3-coupe-4-0-32v-2009-gasolina",
+      "fipeCodigo": "009127-8",
+      "displayName": "BMW M3 Coupê 4.0 32V",
+      "valorAtual": 256940,
+      "canonicalPath": "/fipe/bmw/m3-coupe-4-0-32v-2009-009127-8/",
+      "ano": 2009,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-m3-coupe-4-0-32v-2010-gasolina",
+      "fipeCodigo": "009127-8",
+      "displayName": "BMW M3 Coupê 4.0 32V",
+      "valorAtual": 265330,
+      "canonicalPath": "/fipe/bmw/m3-coupe-4-0-32v-2010-009127-8/",
+      "ano": 2010,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-m3-coupe-4-0-32v-2011-gasolina",
+      "fipeCodigo": "009127-8",
+      "displayName": "BMW M3 Coupê 4.0 32V",
+      "valorAtual": 335385,
+      "canonicalPath": "/fipe/bmw/m3-coupe-4-0-32v-2011-009127-8/",
+      "ano": 2011,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-m3-coupe-4-0-32v-2012-gasolina",
+      "fipeCodigo": "009127-8",
+      "displayName": "BMW M3 Coupê 4.0 32V",
+      "valorAtual": 356479,
+      "canonicalPath": "/fipe/bmw/m3-coupe-4-0-32v-2012-009127-8/",
+      "ano": 2012,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-m3-coupe-4-0-32v-2013-gasolina",
+      "fipeCodigo": "009127-8",
+      "displayName": "BMW M3 Coupê 4.0 32V",
+      "valorAtual": 368503,
+      "canonicalPath": "/fipe/bmw/m3-coupe-4-0-32v-2013-009127-8/",
+      "ano": 2013,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-m3-sedan-4-0-32v-2008-gasolina",
+      "fipeCodigo": "009133-2",
+      "displayName": "BMW M3 Sedan 4.0 32V",
+      "valorAtual": 195370,
+      "canonicalPath": "/fipe/bmw/m3-sedan-4-0-32v-2008-009133-2/",
+      "ano": 2008,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-m3-sedan-4-0-32v-2009-gasolina",
+      "fipeCodigo": "009133-2",
+      "displayName": "BMW M3 Sedan 4.0 32V",
+      "valorAtual": 226695,
+      "canonicalPath": "/fipe/bmw/m3-sedan-4-0-32v-2009-009133-2/",
+      "ano": 2009,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-m3-sedan-4-0-32v-2010-gasolina",
+      "fipeCodigo": "009133-2",
+      "displayName": "BMW M3 Sedan 4.0 32V",
+      "valorAtual": 234331,
+      "canonicalPath": "/fipe/bmw/m3-sedan-4-0-32v-2010-009133-2/",
+      "ano": 2010,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-m3-sedan-4-0-32v-2011-gasolina",
+      "fipeCodigo": "009133-2",
+      "displayName": "BMW M3 Sedan 4.0 32V",
+      "valorAtual": 261874,
+      "canonicalPath": "/fipe/bmw/m3-sedan-4-0-32v-2011-009133-2/",
+      "ano": 2011,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-m3-sedan-4-0-32v-2012-gasolina",
+      "fipeCodigo": "009133-2",
+      "displayName": "BMW M3 Sedan 4.0 32V",
+      "valorAtual": 288665,
+      "canonicalPath": "/fipe/bmw/m3-sedan-4-0-32v-2012-009133-2/",
+      "ano": 2012,
+      "marca": "BMW"
+    }
+  ],
+  "stats": {
+    "total": 13
+  },
+  "meta": {
+    "geracaoId": "m3-3"
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "tipo": "familia",
+  "slug": "pick",
+  "canonicalPath": "/fipe/rely/pick/",
+  "titulo": "RELY pick - Tabela FIPE",
+  "descricao": "6 versoes e anos do RELY pick na Tabela FIPE.",
+  "seo": {
+    "title": "RELY pick - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes RELY pick. 6 veiculos indexados.",
+    "h1": "RELY pick - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/rely/pick/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "rely-pick-up-q22e-cd-1-0-4p-2015-gasolina",
+      "fipeCodigo": "084005-0",
+      "displayName": "RELY PICK-UP Q22E CD 1.0 4p",
+      "valorAtual": 30593,
+      "canonicalPath": "/fipe/rely/pick-up-q22e-cd-1-0-4p-2015-084005-0/",
+      "ano": 2015,
+      "marca": "RELY"
+    },
+    {
+      "vehicleId": "rely-pick-up-q22b-cs-1-0-2p-2014-gasolina",
+      "fipeCodigo": "084001-7",
+      "displayName": "RELY PICK-UP Q22B CS 1.0 2p",
+      "valorAtual": 25735,
+      "canonicalPath": "/fipe/rely/pick-up-q22b-cs-1-0-2p-2014-084001-7/",
+      "ano": 2014,
+      "marca": "RELY"
+    },
+    {
+      "vehicleId": "rely-pick-up-q22d-cs-1-0-2p-2014-gasolina",
+      "fipeCodigo": "084004-1",
+      "displayName": "RELY PICK-UP Q22D CS 1.0 2p",
+      "valorAtual": 27310,
+      "canonicalPath": "/fipe/rely/pick-up-q22d-cs-1-0-2p-2014-084004-1/",
+      "ano": 2014,
+      "marca": "RELY"
+    },
+    {
+      "vehicleId": "rely-pick-up-q22e-cd-1-0-4p-2014-gasolina",
+      "fipeCodigo": "084005-0",
+      "displayName": "RELY PICK-UP Q22E CD 1.0 4p",
+      "valorAtual": 29096,
+      "canonicalPath": "/fipe/rely/pick-up-q22e-cd-1-0-4p-2014-084005-0/",
+      "ano": 2014,
+      "marca": "RELY"
+    },
+    {
+      "vehicleId": "rely-pick-up-q22b-cs-1-0-2p-2013-gasolina",
+      "fipeCodigo": "084001-7",
+      "displayName": "RELY PICK-UP Q22B CS 1.0 2p",
+      "valorAtual": 21513,
+      "canonicalPath": "/fipe/rely/pick-up-q22b-cs-1-0-2p-2013-084001-7/",
+      "ano": 2013,
+      "marca": "RELY"
+    },
+    {
+      "vehicleId": "rely-pick-up-q22b-cs-1-0-2p-2012-gasolina",
+      "fipeCodigo": "084001-7",
+      "displayName": "RELY PICK-UP Q22B CS 1.0 2p",
+      "valorAtual": 20988,
+      "canonicalPath": "/fipe/rely/pick-up-q22b-cs-1-0-2p-2012-084001-7/",
+      "ano": 2012,
+      "marca": "RELY"
+    }
+  ],
+  "stats": {
+    "total": 6,
+    "precoMin": 20988,
+    "precoMax": 30593,
+    "anos": [
+      2015,
+      2014,
+      2013,
+      2012
+    ]
+  }
+}

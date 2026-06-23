@@ -1,0 +1,42 @@
+{
+  "tipo": "familia",
+  "slug": "dbx",
+  "canonicalPath": "/fipe/aston-martin/dbx/",
+  "titulo": "ASTON MARTIN dbx - Tabela FIPE",
+  "descricao": "2 versoes e anos do ASTON MARTIN dbx na Tabela FIPE.",
+  "seo": {
+    "title": "ASTON MARTIN dbx - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes ASTON MARTIN dbx. 2 veiculos indexados.",
+    "h1": "ASTON MARTIN dbx - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/aston-martin/dbx/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "aston-martin-dbx-4-0-v8-550cv-2023-gasolina",
+      "fipeCodigo": "085015-2",
+      "displayName": "ASTON MARTIN DBX 4.0 V8 550cv",
+      "valorAtual": 2216376,
+      "canonicalPath": "/fipe/aston-martin/dbx-4-0-v8-550cv-2023-085015-2/",
+      "ano": 2023,
+      "marca": "ASTON MARTIN"
+    },
+    {
+      "vehicleId": "aston-martin-dbx-4-0-v8-550cv-2022-gasolina",
+      "fipeCodigo": "085015-2",
+      "displayName": "ASTON MARTIN DBX 4.0 V8 550cv",
+      "valorAtual": 2038139,
+      "canonicalPath": "/fipe/aston-martin/dbx-4-0-v8-550cv-2022-085015-2/",
+      "ano": 2022,
+      "marca": "ASTON MARTIN"
+    }
+  ],
+  "stats": {
+    "total": 2,
+    "precoMin": 2038139,
+    "precoMax": 2216376,
+    "anos": [
+      2023,
+      2022
+    ]
+  }
+}

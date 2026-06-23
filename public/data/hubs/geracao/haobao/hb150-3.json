@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "hb150-3",
+  "canonicalPath": "/geracao/haobao/hb150-3/",
+  "titulo": "Geracao hb150-3",
+  "descricao": "2 veiculos da geracao hb150-3.",
+  "seo": {
+    "title": "Geracao hb150-3 - Precos FIPE",
+    "description": "Veiculos da geracao hb150-3 na Tabela FIPE.",
+    "h1": "Geracao hb150-3",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/haobao/hb150-3/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "haobao-hb150-2013-gasolina",
+      "fipeCodigo": "856004-8",
+      "displayName": "HAOBAO HB150",
+      "valorAtual": 2837,
+      "canonicalPath": "/fipe/haobao/hb150-2013-856004-8/",
+      "ano": 2013,
+      "marca": "HAOBAO"
+    },
+    {
+      "vehicleId": "haobao-hb150-2014-gasolina",
+      "fipeCodigo": "856004-8",
+      "displayName": "HAOBAO HB150",
+      "valorAtual": 2910,
+      "canonicalPath": "/fipe/haobao/hb150-2014-856004-8/",
+      "ano": 2014,
+      "marca": "HAOBAO"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "hb150-3"
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "tipo": "familia",
+  "slug": "nh",
+  "canonicalPath": "/fipe/dafra/nh/",
+  "titulo": "DAFRA nh - Tabela FIPE",
+  "descricao": "12 versoes e anos do DAFRA nh na Tabela FIPE.",
+  "seo": {
+    "title": "DAFRA nh - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes DAFRA nh. 12 veiculos indexados.",
+    "h1": "DAFRA nh - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/dafra/nh/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "dafra-nh-190-2026-gasolina",
+      "fipeCodigo": "861026-6",
+      "displayName": "DAFRA NH 190",
+      "valorAtual": 18814,
+      "canonicalPath": "/fipe/dafra/nh-190-2026-861026-6/",
+      "ano": 2026,
+      "marca": "DAFRA"
+    },
+    {
+      "vehicleId": "dafra-nh-300-2026-gasolina",
+      "fipeCodigo": "861031-2",
+      "displayName": "DAFRA NH 300",
+      "valorAtual": 23227,
+      "canonicalPath": "/fipe/dafra/nh-300-2026-861031-2/",
+      "ano": 2026,
+      "marca": "DAFRA"
+    },
+    {
+      "vehicleId": "dafra-nh-190-2025-gasolina",
+      "fipeCodigo": "861026-6",
+      "displayName": "DAFRA NH 190",
+      "valorAtual": 18309,
+      "canonicalPath": "/fipe/dafra/nh-190-2025-861026-6/",
+      "ano": 2025,
+      "marca": "DAFRA"
+    },
+    {
+      "vehicleId": "dafra-nh-300-2025-gasolina",
+      "fipeCodigo": "861031-2",
+      "displayName": "DAFRA NH 300",
+      "valorAtual": 22598,
+      "canonicalPath": "/fipe/dafra/nh-300-2025-861031-2/",
+      "ano": 2025,
+      "marca": "DAFRA"
+    },
+    {
+      "vehicleId": "dafra-nh-190-2024-gasolina",
+      "fipeCodigo": "861026-6",
+      "displayName": "DAFRA NH 190",
+      "valorAtual": 16498,
+      "canonicalPath": "/fipe/dafra/nh-190-2024-861026-6/",
+      "ano": 2024,
+      "marca": "DAFRA"
+    },
+    {
+      "vehicleId": "dafra-nh-300-2024-gasolina",
+      "fipeCodigo": "861031-2",
+      "displayName": "DAFRA NH 300",
+      "valorAtual": 22027,
+      "canonicalPath": "/fipe/dafra/nh-300-2024-861031-2/",
+      "ano": 2024,
+      "marca": "DAFRA"
+    },
+    {
+      "vehicleId": "dafra-nh-190-2023-gasolina",
+      "fipeCodigo": "861026-6",
+      "displayName": "DAFRA NH 190",
+      "valorAtual": 15077,
+      "canonicalPath": "/fipe/dafra/nh-190-2023-861026-6/",
+      "ano": 2023,
+      "marca": "DAFRA"
+    },
+    {
+      "vehicleId": "dafra-nh-190-2022-gasolina",
+      "fipeCodigo": "861026-6",
+      "displayName": "DAFRA NH 190",
+      "valorAtual": 13848,
+      "canonicalPath": "/fipe/dafra/nh-190-2022-861026-6/",
+      "ano": 2022,
+      "marca": "DAFRA"
+    },
+    {
+      "vehicleId": "dafra-nh-190-2021-gasolina",
+      "fipeCodigo": "861026-6",
+      "displayName": "DAFRA NH 190",
+      "valorAtual": 13321,
+      "canonicalPath": "/fipe/dafra/nh-190-2021-861026-6/",
+      "ano": 2021,
+      "marca": "DAFRA"
+    },
+    {
+      "vehicleId": "dafra-nh-190-2020-gasolina",
+      "fipeCodigo": "861026-6",
+      "displayName": "DAFRA NH 190",
+      "valorAtual": 12646,
+      "canonicalPath": "/fipe/dafra/nh-190-2020-861026-6/",
+      "ano": 2020,
+      "marca": "DAFRA"
+    },
+    {
+      "vehicleId": "dafra-nh-190-0-gasolina",
+      "fipeCodigo": "861026-6",
+      "displayName": "DAFRA NH 190",
+      "valorAtual": 20090,
+      "canonicalPath": "/fipe/dafra/nh-190-0-861026-6/",
+      "ano": 0,
+      "marca": "DAFRA"
+    },
+    {
+      "vehicleId": "dafra-nh-300-0-gasolina",
+      "fipeCodigo": "861031-2",
+      "displayName": "DAFRA NH 300",
+      "valorAtual": 25546,
+      "canonicalPath": "/fipe/dafra/nh-300-0-861031-2/",
+      "ano": 0,
+      "marca": "DAFRA"
+    }
+  ],
+  "stats": {
+    "total": 12,
+    "precoMin": 12646,
+    "precoMax": 25546,
+    "anos": [
+      2026,
+      2025,
+      2024,
+      2023,
+      2022,
+      2021,
+      2020,
+      0
+    ]
+  }
+}

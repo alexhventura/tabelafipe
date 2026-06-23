@@ -1,0 +1,48 @@
+{
+  "tipo": "geracao",
+  "slug": "az-1",
+  "canonicalPath": "/geracao/avelloz/az-1/",
+  "titulo": "Geracao az-1",
+  "descricao": "3 veiculos da geracao az-1.",
+  "seo": {
+    "title": "Geracao az-1 - Precos FIPE",
+    "description": "Veiculos da geracao az-1 na Tabela FIPE.",
+    "h1": "Geracao az-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/avelloz/az-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "avelloz-az-01-50cc-0-gasolina",
+      "fipeCodigo": "890001-9",
+      "displayName": "AVELLOZ AZ 01 50cc",
+      "valorAtual": 11658,
+      "canonicalPath": "/fipe/avelloz/az-01-50cc-0-890001-9/",
+      "ano": 0,
+      "marca": "AVELLOZ"
+    },
+    {
+      "vehicleId": "avelloz-az-125-alfa-0-gasolina",
+      "fipeCodigo": "890002-7",
+      "displayName": "AVELLOZ AZ 125 ALFA",
+      "valorAtual": 13571,
+      "canonicalPath": "/fipe/avelloz/az-125-alfa-0-890002-7/",
+      "ano": 0,
+      "marca": "AVELLOZ"
+    },
+    {
+      "vehicleId": "avelloz-az-160-xtreme-0-gasolina",
+      "fipeCodigo": "890003-5",
+      "displayName": "AVELLOZ AZ 160 XTREME",
+      "valorAtual": 19746,
+      "canonicalPath": "/fipe/avelloz/az-160-xtreme-0-890003-5/",
+      "ano": 0,
+      "marca": "AVELLOZ"
+    }
+  ],
+  "stats": {
+    "total": 3
+  },
+  "meta": {
+    "geracaoId": "az-1"
+  }
+}

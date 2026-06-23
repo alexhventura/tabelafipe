@@ -1,0 +1,42 @@
+{
+  "tipo": "familia",
+  "slug": "m8",
+  "canonicalPath": "/fipe/bmw/m8/",
+  "titulo": "BMW m8 - Tabela FIPE",
+  "descricao": "2 versoes e anos do BMW m8 na Tabela FIPE.",
+  "seo": {
+    "title": "BMW m8 - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes BMW m8. 2 veiculos indexados.",
+    "h1": "BMW m8 - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/bmw/m8/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "bmw-m8-gran-coupe-competition-4-4-v8-32v-2022-gasolina",
+      "fipeCodigo": "009283-5",
+      "displayName": "BMW M8 Gran Coupé Competition 4.4 V8 32V",
+      "valorAtual": 858108,
+      "canonicalPath": "/fipe/bmw/m8-gran-coupe-competition-4-4-v8-32v-2022-009283-5/",
+      "ano": 2022,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-m8-gran-coupe-comp-first-ed-4-4-v8-32v-2021-gasolina",
+      "fipeCodigo": "009273-8",
+      "displayName": "BMW M8 Gran Coupé Comp.First ED. 4.4 V8 32V",
+      "valorAtual": 758817,
+      "canonicalPath": "/fipe/bmw/m8-gran-coupe-comp-first-ed-4-4-v8-32v-2021-009273-8/",
+      "ano": 2021,
+      "marca": "BMW"
+    }
+  ],
+  "stats": {
+    "total": 2,
+    "precoMin": 758817,
+    "precoMax": 858108,
+    "anos": [
+      2022,
+      2021
+    ]
+  }
+}

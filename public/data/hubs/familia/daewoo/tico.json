@@ -1,0 +1,42 @@
+{
+  "tipo": "familia",
+  "slug": "tico",
+  "canonicalPath": "/fipe/daewoo/tico/",
+  "titulo": "Daewoo tico - Tabela FIPE",
+  "descricao": "2 versoes e anos do Daewoo tico na Tabela FIPE.",
+  "seo": {
+    "title": "Daewoo tico - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes Daewoo tico. 2 veiculos indexados.",
+    "h1": "Daewoo tico - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/daewoo/tico/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "daewoo-tico-1995-gasolina",
+      "fipeCodigo": "030003-9",
+      "displayName": "Daewoo Tico",
+      "valorAtual": 4153,
+      "canonicalPath": "/fipe/daewoo/tico-1995-030003-9/",
+      "ano": 1995,
+      "marca": "Daewoo"
+    },
+    {
+      "vehicleId": "daewoo-tico-1994-gasolina",
+      "fipeCodigo": "030003-9",
+      "displayName": "Daewoo Tico",
+      "valorAtual": 3953,
+      "canonicalPath": "/fipe/daewoo/tico-1994-030003-9/",
+      "ano": 1994,
+      "marca": "Daewoo"
+    }
+  ],
+  "stats": {
+    "total": 2,
+    "precoMin": 3953,
+    "precoMax": 4153,
+    "anos": [
+      1995,
+      1994
+    ]
+  }
+}

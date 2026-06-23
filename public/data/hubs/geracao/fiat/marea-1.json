@@ -1,0 +1,741 @@
+{
+  "tipo": "geracao",
+  "slug": "marea-1",
+  "canonicalPath": "/geracao/fiat/marea-1/",
+  "titulo": "Geracao marea-1",
+  "descricao": "93 veiculos da geracao marea-1.",
+  "seo": {
+    "title": "Geracao marea-1 - Precos FIPE",
+    "description": "Veiculos da geracao marea-1 na Tabela FIPE.",
+    "h1": "Geracao marea-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/fiat/marea-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "fiat-marea-city-1999-gasolina",
+      "fipeCodigo": "001079-0",
+      "displayName": "Fiat Marea City",
+      "valorAtual": 9269,
+      "canonicalPath": "/fipe/fiat/marea-city-1999-001079-0/",
+      "ano": 1999,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-marea-city-2000-gasolina",
+      "fipeCodigo": "001079-0",
+      "displayName": "Fiat Marea City",
+      "valorAtual": 9545,
+      "canonicalPath": "/fipe/fiat/marea-city-2000-001079-0/",
+      "ano": 2000,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-marea-elx-1-8-mpi-16v-132cv-4p-2003-gasolina",
+      "fipeCodigo": "001185-1",
+      "displayName": "Fiat Marea ELX 1.8 mpi 16V 132cv 4p",
+      "valorAtual": 12961,
+      "canonicalPath": "/fipe/fiat/marea-elx-1-8-mpi-16v-132cv-4p-2003-001185-1/",
+      "ano": 2003,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-marea-elx-1-8-mpi-16v-132cv-4p-2004-gasolina",
+      "fipeCodigo": "001185-1",
+      "displayName": "Fiat Marea ELX 1.8 mpi 16V 132cv 4p",
+      "valorAtual": 13748,
+      "canonicalPath": "/fipe/fiat/marea-elx-1-8-mpi-16v-132cv-4p-2004-001185-1/",
+      "ano": 2004,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-marea-elx-1-8-mpi-16v-132cv-4p-2005-gasolina",
+      "fipeCodigo": "001185-1",
+      "displayName": "Fiat Marea ELX 1.8 mpi 16V 132cv 4p",
+      "valorAtual": 16263,
+      "canonicalPath": "/fipe/fiat/marea-elx-1-8-mpi-16v-132cv-4p-2005-001185-1/",
+      "ano": 2005,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-marea-elx-1-8-mpi-16v-132cv-4p-2006-gasolina",
+      "fipeCodigo": "001185-1",
+      "displayName": "Fiat Marea ELX 1.8 mpi 16V 132cv 4p",
+      "valorAtual": 19574,
+      "canonicalPath": "/fipe/fiat/marea-elx-1-8-mpi-16v-132cv-4p-2006-001185-1/",
+      "ano": 2006,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-marea-elx-1-8-mpi-16v-132cv-4p-2007-gasolina",
+      "fipeCodigo": "001185-1",
+      "displayName": "Fiat Marea ELX 1.8 mpi 16V 132cv 4p",
+      "valorAtual": 20064,
+      "canonicalPath": "/fipe/fiat/marea-elx-1-8-mpi-16v-132cv-4p-2007-001185-1/",
+      "ano": 2007,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-marea-elx-2-0-20v-4p-1998-gasolina",
+      "fipeCodigo": "001081-2",
+      "displayName": "Fiat Marea ELX 2.0 20V 4p",
+      "valorAtual": 9633,
+      "canonicalPath": "/fipe/fiat/marea-elx-2-0-20v-4p-1998-001081-2/",
+      "ano": 1998,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-marea-elx-2-0-20v-4p-1999-gasolina",
+      "fipeCodigo": "001081-2",
+      "displayName": "Fiat Marea ELX 2.0 20V 4p",
+      "valorAtual": 14054,
+      "canonicalPath": "/fipe/fiat/marea-elx-2-0-20v-4p-1999-001081-2/",
+      "ano": 1999,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-marea-elx-2-0-20v-4p-2000-gasolina",
+      "fipeCodigo": "001081-2",
+      "displayName": "Fiat Marea ELX 2.0 20V 4p",
+      "valorAtual": 14406,
+      "canonicalPath": "/fipe/fiat/marea-elx-2-0-20v-4p-2000-001081-2/",
+      "ano": 2000,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-marea-elx-2-4-mpi-20v-4p-2001-gasolina",
+      "fipeCodigo": "001144-4",
+      "displayName": "Fiat Marea ELX 2.4 mpi 20V 4p",
+      "valorAtual": 13770,
+      "canonicalPath": "/fipe/fiat/marea-elx-2-4-mpi-20v-4p-2001-001144-4/",
+      "ano": 2001,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-marea-elx-2-4-mpi-20v-4p-2002-gasolina",
+      "fipeCodigo": "001144-4",
+      "displayName": "Fiat Marea ELX 2.4 mpi 20V 4p",
+      "valorAtual": 15520,
+      "canonicalPath": "/fipe/fiat/marea-elx-2-4-mpi-20v-4p-2002-001144-4/",
+      "ano": 2002,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-marea-elx-2-4-mpi-20v-4p-2003-gasolina",
+      "fipeCodigo": "001144-4",
+      "displayName": "Fiat Marea ELX 2.4 mpi 20V 4p",
+      "valorAtual": 20617,
+      "canonicalPath": "/fipe/fiat/marea-elx-2-4-mpi-20v-4p-2003-001144-4/",
+      "ano": 2003,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-marea-hlx-2-0-20v-4p-1998-gasolina",
+      "fipeCodigo": "001082-0",
+      "displayName": "Fiat Marea HLX 2.0 20V 4p",
+      "valorAtual": 10587,
+      "canonicalPath": "/fipe/fiat/marea-hlx-2-0-20v-4p-1998-001082-0/",
+      "ano": 1998,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-marea-hlx-2-0-20v-4p-1999-gasolina",
+      "fipeCodigo": "001082-0",
+      "displayName": "Fiat Marea HLX 2.0 20V 4p",
+      "valorAtual": 13509,
+      "canonicalPath": "/fipe/fiat/marea-hlx-2-0-20v-4p-1999-001082-0/",
+      "ano": 1999,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-marea-hlx-2-0-20v-4p-2000-gasolina",
+      "fipeCodigo": "001082-0",
+      "displayName": "Fiat Marea HLX 2.0 20V 4p",
+      "valorAtual": 14145,
+      "canonicalPath": "/fipe/fiat/marea-hlx-2-0-20v-4p-2000-001082-0/",
+      "ano": 2000,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-marea-hlx-2-4-mpi-20v-4p-aut-2002-gasolina",
+      "fipeCodigo": "001173-8",
+      "displayName": "Fiat Marea HLX 2.4 mpi 20V 4p Aut.",
+      "valorAtual": 18941,
+      "canonicalPath": "/fipe/fiat/marea-hlx-2-4-mpi-20v-4p-aut-2002-001173-8/",
+      "ano": 2002,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-marea-hlx-2-4-mpi-20v-4p-aut-2003-gasolina",
+      "fipeCodigo": "001173-8",
+      "displayName": "Fiat Marea HLX 2.4 mpi 20V 4p Aut.",
+      "valorAtual": 23270,
+      "canonicalPath": "/fipe/fiat/marea-hlx-2-4-mpi-20v-4p-aut-2003-001173-8/",
+      "ano": 2003,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-marea-hlx-2-4-mpi-20v-4p-aut-2004-gasolina",
+      "fipeCodigo": "001173-8",
+      "displayName": "Fiat Marea HLX 2.4 mpi 20V 4p Aut.",
+      "valorAtual": 23852,
+      "canonicalPath": "/fipe/fiat/marea-hlx-2-4-mpi-20v-4p-aut-2004-001173-8/",
+      "ano": 2004,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-marea-hlx-2-4-mpi-20v-4p-aut-2005-gasolina",
+      "fipeCodigo": "001173-8",
+      "displayName": "Fiat Marea HLX 2.4 mpi 20V 4p Aut.",
+      "valorAtual": 24449,
+      "canonicalPath": "/fipe/fiat/marea-hlx-2-4-mpi-20v-4p-aut-2005-001173-8/",
+      "ano": 2005,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-marea-hlx-2-4-mpi-20v-4p-aut-2006-gasolina",
+      "fipeCodigo": "001173-8",
+      "displayName": "Fiat Marea HLX 2.4 mpi 20V 4p Aut.",
+      "valorAtual": 25061,
+      "canonicalPath": "/fipe/fiat/marea-hlx-2-4-mpi-20v-4p-aut-2006-001173-8/",
+      "ano": 2006,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-marea-hlx-2-4-mpi-20v-4p-aut-2007-gasolina",
+      "fipeCodigo": "001173-8",
+      "displayName": "Fiat Marea HLX 2.4 mpi 20V 4p Aut.",
+      "valorAtual": 25688,
+      "canonicalPath": "/fipe/fiat/marea-hlx-2-4-mpi-20v-4p-aut-2007-001173-8/",
+      "ano": 2007,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-marea-hlx-2-4-mpi-20v-4p-mec-2001-gasolina",
+      "fipeCodigo": "001145-2",
+      "displayName": "Fiat Marea HLX 2.4 mpi 20V 4p Mec.",
+      "valorAtual": 16611,
+      "canonicalPath": "/fipe/fiat/marea-hlx-2-4-mpi-20v-4p-mec-2001-001145-2/",
+      "ano": 2001,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-marea-hlx-2-4-mpi-20v-4p-mec-2002-gasolina",
+      "fipeCodigo": "001145-2",
+      "displayName": "Fiat Marea HLX 2.4 mpi 20V 4p Mec.",
+      "valorAtual": 18201,
+      "canonicalPath": "/fipe/fiat/marea-hlx-2-4-mpi-20v-4p-mec-2002-001145-2/",
+      "ano": 2002,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-marea-sx-1-6-mpi-16v-106cv-4p-2006-gasolina",
+      "fipeCodigo": "001226-2",
+      "displayName": "Fiat Marea SX 1.6 mpi 16V 106cv 4p",
+      "valorAtual": 18284,
+      "canonicalPath": "/fipe/fiat/marea-sx-1-6-mpi-16v-106cv-4p-2006-001226-2/",
+      "ano": 2006,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-marea-sx-1-6-mpi-16v-106cv-4p-2007-gasolina",
+      "fipeCodigo": "001226-2",
+      "displayName": "Fiat Marea SX 1.6 mpi 16V 106cv 4p",
+      "valorAtual": 19752,
+      "canonicalPath": "/fipe/fiat/marea-sx-1-6-mpi-16v-106cv-4p-2007-001226-2/",
+      "ano": 2007,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-marea-sx-1-8-16v-4p-1999-gasolina",
+      "fipeCodigo": "001114-2",
+      "displayName": "Fiat Marea SX 1.8 16V 4p",
+      "valorAtual": 7084,
+      "canonicalPath": "/fipe/fiat/marea-sx-1-8-16v-4p-1999-001114-2/",
+      "ano": 1999,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-marea-sx-1-8-16v-4p-2000-gasolina",
+      "fipeCodigo": "001114-2",
+      "displayName": "Fiat Marea SX 1.8 16V 4p",
+      "valorAtual": 7476,
+      "canonicalPath": "/fipe/fiat/marea-sx-1-8-16v-4p-2000-001114-2/",
+      "ano": 2000,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-marea-sx-1-8-16v-4p-2001-gasolina",
+      "fipeCodigo": "001114-2",
+      "displayName": "Fiat Marea SX 1.8 16V 4p",
+      "valorAtual": 8634,
+      "canonicalPath": "/fipe/fiat/marea-sx-1-8-16v-4p-2001-001114-2/",
+      "ano": 2001,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-marea-sx-1-8-16v-4p-2002-gasolina",
+      "fipeCodigo": "001114-2",
+      "displayName": "Fiat Marea SX 1.8 16V 4p",
+      "valorAtual": 10844,
+      "canonicalPath": "/fipe/fiat/marea-sx-1-8-16v-4p-2002-001114-2/",
+      "ano": 2002,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-marea-sx-1-8-16v-4p-2003-gasolina",
+      "fipeCodigo": "001114-2",
+      "displayName": "Fiat Marea SX 1.8 16V 4p",
+      "valorAtual": 12262,
+      "canonicalPath": "/fipe/fiat/marea-sx-1-8-16v-4p-2003-001114-2/",
+      "ano": 2003,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-marea-sx-1-8-16v-4p-2004-gasolina",
+      "fipeCodigo": "001114-2",
+      "displayName": "Fiat Marea SX 1.8 16V 4p",
+      "valorAtual": 14220,
+      "canonicalPath": "/fipe/fiat/marea-sx-1-8-16v-4p-2004-001114-2/",
+      "ano": 2004,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-marea-sx-1-8-16v-4p-2005-gasolina",
+      "fipeCodigo": "001114-2",
+      "displayName": "Fiat Marea SX 1.8 16V 4p",
+      "valorAtual": 14576,
+      "canonicalPath": "/fipe/fiat/marea-sx-1-8-16v-4p-2005-001114-2/",
+      "ano": 2005,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-marea-sx-2-0-20v-4p-1998-gasolina",
+      "fipeCodigo": "001080-4",
+      "displayName": "Fiat Marea SX 2.0 20V 4p",
+      "valorAtual": 8409,
+      "canonicalPath": "/fipe/fiat/marea-sx-2-0-20v-4p-1998-001080-4/",
+      "ano": 1998,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-marea-sx-2-0-20v-4p-1999-gasolina",
+      "fipeCodigo": "001080-4",
+      "displayName": "Fiat Marea SX 2.0 20V 4p",
+      "valorAtual": 10713,
+      "canonicalPath": "/fipe/fiat/marea-sx-2-0-20v-4p-1999-001080-4/",
+      "ano": 1999,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-marea-sx-2-0-20v-4p-2000-gasolina",
+      "fipeCodigo": "001080-4",
+      "displayName": "Fiat Marea SX 2.0 20V 4p",
+      "valorAtual": 11040,
+      "canonicalPath": "/fipe/fiat/marea-sx-2-0-20v-4p-2000-001080-4/",
+      "ano": 2000,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-marea-turbo-2-0-20v-4p-1998-gasolina",
+      "fipeCodigo": "001083-9",
+      "displayName": "Fiat Marea Turbo 2.0 20V 4p",
+      "valorAtual": 17727,
+      "canonicalPath": "/fipe/fiat/marea-turbo-2-0-20v-4p-1998-001083-9/",
+      "ano": 1998,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-marea-turbo-2-0-20v-4p-1999-gasolina",
+      "fipeCodigo": "001083-9",
+      "displayName": "Fiat Marea Turbo 2.0 20V 4p",
+      "valorAtual": 21801,
+      "canonicalPath": "/fipe/fiat/marea-turbo-2-0-20v-4p-1999-001083-9/",
+      "ano": 1999,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-marea-turbo-2-0-20v-4p-2000-gasolina",
+      "fipeCodigo": "001083-9",
+      "displayName": "Fiat Marea Turbo 2.0 20V 4p",
+      "valorAtual": 27458,
+      "canonicalPath": "/fipe/fiat/marea-turbo-2-0-20v-4p-2000-001083-9/",
+      "ano": 2000,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-marea-turbo-2-0-20v-4p-2001-gasolina",
+      "fipeCodigo": "001083-9",
+      "displayName": "Fiat Marea Turbo 2.0 20V 4p",
+      "valorAtual": 36627,
+      "canonicalPath": "/fipe/fiat/marea-turbo-2-0-20v-4p-2001-001083-9/",
+      "ano": 2001,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-marea-turbo-2-0-20v-4p-2002-gasolina",
+      "fipeCodigo": "001083-9",
+      "displayName": "Fiat Marea Turbo 2.0 20V 4p",
+      "valorAtual": 37543,
+      "canonicalPath": "/fipe/fiat/marea-turbo-2-0-20v-4p-2002-001083-9/",
+      "ano": 2002,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-marea-turbo-2-0-20v-4p-2003-gasolina",
+      "fipeCodigo": "001083-9",
+      "displayName": "Fiat Marea Turbo 2.0 20V 4p",
+      "valorAtual": 38482,
+      "canonicalPath": "/fipe/fiat/marea-turbo-2-0-20v-4p-2003-001083-9/",
+      "ano": 2003,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-marea-turbo-2-0-20v-4p-2004-gasolina",
+      "fipeCodigo": "001083-9",
+      "displayName": "Fiat Marea Turbo 2.0 20V 4p",
+      "valorAtual": 39445,
+      "canonicalPath": "/fipe/fiat/marea-turbo-2-0-20v-4p-2004-001083-9/",
+      "ano": 2004,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-marea-turbo-2-0-20v-4p-2005-gasolina",
+      "fipeCodigo": "001083-9",
+      "displayName": "Fiat Marea Turbo 2.0 20V 4p",
+      "valorAtual": 40432,
+      "canonicalPath": "/fipe/fiat/marea-turbo-2-0-20v-4p-2005-001083-9/",
+      "ano": 2005,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-marea-turbo-2-0-20v-4p-2006-gasolina",
+      "fipeCodigo": "001083-9",
+      "displayName": "Fiat Marea Turbo 2.0 20V 4p",
+      "valorAtual": 41443,
+      "canonicalPath": "/fipe/fiat/marea-turbo-2-0-20v-4p-2006-001083-9/",
+      "ano": 2006,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-marea-turbo-2-0-20v-4p-2007-gasolina",
+      "fipeCodigo": "001083-9",
+      "displayName": "Fiat Marea Turbo 2.0 20V 4p",
+      "valorAtual": 42622,
+      "canonicalPath": "/fipe/fiat/marea-turbo-2-0-20v-4p-2007-001083-9/",
+      "ano": 2007,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-marea-weekend-city-4p-1999-gasolina",
+      "fipeCodigo": "001084-7",
+      "displayName": "Fiat Marea Weekend City 4p",
+      "valorAtual": 10894,
+      "canonicalPath": "/fipe/fiat/marea-weekend-city-4p-1999-001084-7/",
+      "ano": 1999,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-marea-weekend-city-4p-2000-gasolina",
+      "fipeCodigo": "001084-7",
+      "displayName": "Fiat Marea Weekend City 4p",
+      "valorAtual": 12285,
+      "canonicalPath": "/fipe/fiat/marea-weekend-city-4p-2000-001084-7/",
+      "ano": 2000,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-marea-weekend-elx-1-8-mpi-16v-132cv-4p-2003-gasolina",
+      "fipeCodigo": "001186-0",
+      "displayName": "Fiat Marea Weekend ELX 1.8 mpi 16V 132cv 4p",
+      "valorAtual": 15020,
+      "canonicalPath": "/fipe/fiat/marea-weekend-elx-1-8-mpi-16v-132cv-4p-2003-001186-0/",
+      "ano": 2003,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-marea-weekend-elx-1-8-mpi-16v-132cv-4p-2004-gasolina",
+      "fipeCodigo": "001186-0",
+      "displayName": "Fiat Marea Weekend ELX 1.8 mpi 16V 132cv 4p",
+      "valorAtual": 15396,
+      "canonicalPath": "/fipe/fiat/marea-weekend-elx-1-8-mpi-16v-132cv-4p-2004-001186-0/",
+      "ano": 2004,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-marea-weekend-elx-1-8-mpi-16v-132cv-4p-2005-gasolina",
+      "fipeCodigo": "001186-0",
+      "displayName": "Fiat Marea Weekend ELX 1.8 mpi 16V 132cv 4p",
+      "valorAtual": 17079,
+      "canonicalPath": "/fipe/fiat/marea-weekend-elx-1-8-mpi-16v-132cv-4p-2005-001186-0/",
+      "ano": 2005,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-marea-weekend-elx-1-8-mpi-16v-132cv-4p-2006-gasolina",
+      "fipeCodigo": "001186-0",
+      "displayName": "Fiat Marea Weekend ELX 1.8 mpi 16V 132cv 4p",
+      "valorAtual": 20359,
+      "canonicalPath": "/fipe/fiat/marea-weekend-elx-1-8-mpi-16v-132cv-4p-2006-001186-0/",
+      "ano": 2006,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-marea-weekend-elx-1-8-mpi-16v-132cv-4p-2007-gasolina",
+      "fipeCodigo": "001186-0",
+      "displayName": "Fiat Marea Weekend ELX 1.8 mpi 16V 132cv 4p",
+      "valorAtual": 20925,
+      "canonicalPath": "/fipe/fiat/marea-weekend-elx-1-8-mpi-16v-132cv-4p-2007-001186-0/",
+      "ano": 2007,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-marea-weekend-elx-2-0-20v-4p-1998-gasolina",
+      "fipeCodigo": "001086-3",
+      "displayName": "Fiat Marea Weekend ELX 2.0 20V 4p",
+      "valorAtual": 10166,
+      "canonicalPath": "/fipe/fiat/marea-weekend-elx-2-0-20v-4p-1998-001086-3/",
+      "ano": 1998,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-marea-weekend-elx-2-0-20v-4p-1999-gasolina",
+      "fipeCodigo": "001086-3",
+      "displayName": "Fiat Marea Weekend ELX 2.0 20V 4p",
+      "valorAtual": 14903,
+      "canonicalPath": "/fipe/fiat/marea-weekend-elx-2-0-20v-4p-1999-001086-3/",
+      "ano": 1999,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-marea-weekend-elx-2-0-20v-4p-2000-gasolina",
+      "fipeCodigo": "001086-3",
+      "displayName": "Fiat Marea Weekend ELX 2.0 20V 4p",
+      "valorAtual": 15901,
+      "canonicalPath": "/fipe/fiat/marea-weekend-elx-2-0-20v-4p-2000-001086-3/",
+      "ano": 2000,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-marea-weekend-elx-2-4-mpi-20v-4p-2001-gasolina",
+      "fipeCodigo": "001146-0",
+      "displayName": "Fiat Marea Weekend ELX 2.4 mpi 20V 4p",
+      "valorAtual": 17906,
+      "canonicalPath": "/fipe/fiat/marea-weekend-elx-2-4-mpi-20v-4p-2001-001146-0/",
+      "ano": 2001,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-marea-weekend-elx-2-4-mpi-20v-4p-2002-gasolina",
+      "fipeCodigo": "001146-0",
+      "displayName": "Fiat Marea Weekend ELX 2.4 mpi 20V 4p",
+      "valorAtual": 20409,
+      "canonicalPath": "/fipe/fiat/marea-weekend-elx-2-4-mpi-20v-4p-2002-001146-0/",
+      "ano": 2002,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-marea-weekend-elx-2-4-mpi-20v-4p-2003-gasolina",
+      "fipeCodigo": "001146-0",
+      "displayName": "Fiat Marea Weekend ELX 2.4 mpi 20V 4p",
+      "valorAtual": 21353,
+      "canonicalPath": "/fipe/fiat/marea-weekend-elx-2-4-mpi-20v-4p-2003-001146-0/",
+      "ano": 2003,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-marea-weekend-hlx-2-0-20v-4p-1998-gasolina",
+      "fipeCodigo": "001087-1",
+      "displayName": "Fiat Marea Weekend HLX 2.0 20V 4p",
+      "valorAtual": 11282,
+      "canonicalPath": "/fipe/fiat/marea-weekend-hlx-2-0-20v-4p-1998-001087-1/",
+      "ano": 1998,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-marea-weekend-hlx-2-0-20v-4p-1999-gasolina",
+      "fipeCodigo": "001087-1",
+      "displayName": "Fiat Marea Weekend HLX 2.0 20V 4p",
+      "valorAtual": 15016,
+      "canonicalPath": "/fipe/fiat/marea-weekend-hlx-2-0-20v-4p-1999-001087-1/",
+      "ano": 1999,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-marea-weekend-hlx-2-0-20v-4p-2000-gasolina",
+      "fipeCodigo": "001087-1",
+      "displayName": "Fiat Marea Weekend HLX 2.0 20V 4p",
+      "valorAtual": 18134,
+      "canonicalPath": "/fipe/fiat/marea-weekend-hlx-2-0-20v-4p-2000-001087-1/",
+      "ano": 2000,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-marea-weekend-hlx-2-4-mpi-20v-4p-aut-2002-gasolina",
+      "fipeCodigo": "001174-6",
+      "displayName": "Fiat Marea Weekend HLX 2.4 mpi 20V 4p Aut.",
+      "valorAtual": 21299,
+      "canonicalPath": "/fipe/fiat/marea-weekend-hlx-2-4-mpi-20v-4p-aut-2002-001174-6/",
+      "ano": 2002,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-marea-weekend-hlx-2-4-mpi-20v-4p-aut-2003-gasolina",
+      "fipeCodigo": "001174-6",
+      "displayName": "Fiat Marea Weekend HLX 2.4 mpi 20V 4p Aut.",
+      "valorAtual": 23280,
+      "canonicalPath": "/fipe/fiat/marea-weekend-hlx-2-4-mpi-20v-4p-aut-2003-001174-6/",
+      "ano": 2003,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-marea-weekend-hlx-2-4-mpi-20v-4p-aut-2004-gasolina",
+      "fipeCodigo": "001174-6",
+      "displayName": "Fiat Marea Weekend HLX 2.4 mpi 20V 4p Aut.",
+      "valorAtual": 23862,
+      "canonicalPath": "/fipe/fiat/marea-weekend-hlx-2-4-mpi-20v-4p-aut-2004-001174-6/",
+      "ano": 2004,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-marea-weekend-hlx-2-4-mpi-20v-4p-aut-2005-gasolina",
+      "fipeCodigo": "001174-6",
+      "displayName": "Fiat Marea Weekend HLX 2.4 mpi 20V 4p Aut.",
+      "valorAtual": 24459,
+      "canonicalPath": "/fipe/fiat/marea-weekend-hlx-2-4-mpi-20v-4p-aut-2005-001174-6/",
+      "ano": 2005,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-marea-weekend-hlx-2-4-mpi-20v-4p-aut-2006-gasolina",
+      "fipeCodigo": "001174-6",
+      "displayName": "Fiat Marea Weekend HLX 2.4 mpi 20V 4p Aut.",
+      "valorAtual": 25071,
+      "canonicalPath": "/fipe/fiat/marea-weekend-hlx-2-4-mpi-20v-4p-aut-2006-001174-6/",
+      "ano": 2006,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-marea-weekend-hlx-2-4-mpi-20v-4p-aut-2007-gasolina",
+      "fipeCodigo": "001174-6",
+      "displayName": "Fiat Marea Weekend HLX 2.4 mpi 20V 4p Aut.",
+      "valorAtual": 28427,
+      "canonicalPath": "/fipe/fiat/marea-weekend-hlx-2-4-mpi-20v-4p-aut-2007-001174-6/",
+      "ano": 2007,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-marea-weekend-hlx-2-4-mpi-20v-4p-mec-2001-gasolina",
+      "fipeCodigo": "001147-9",
+      "displayName": "Fiat Marea Weekend HLX 2.4 mpi 20V 4p Mec.",
+      "valorAtual": 20425,
+      "canonicalPath": "/fipe/fiat/marea-weekend-hlx-2-4-mpi-20v-4p-mec-2001-001147-9/",
+      "ano": 2001,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-marea-weekend-hlx-2-4-mpi-20v-4p-mec-2002-gasolina",
+      "fipeCodigo": "001147-9",
+      "displayName": "Fiat Marea Weekend HLX 2.4 mpi 20V 4p Mec.",
+      "valorAtual": 20936,
+      "canonicalPath": "/fipe/fiat/marea-weekend-hlx-2-4-mpi-20v-4p-mec-2002-001147-9/",
+      "ano": 2002,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-marea-weekend-hlx-2-4-mpi-20v-4p-mec-2003-gasolina",
+      "fipeCodigo": "001147-9",
+      "displayName": "Fiat Marea Weekend HLX 2.4 mpi 20V 4p Mec.",
+      "valorAtual": 21902,
+      "canonicalPath": "/fipe/fiat/marea-weekend-hlx-2-4-mpi-20v-4p-mec-2003-001147-9/",
+      "ano": 2003,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-marea-weekend-sx-1-6-mpi-16v-106cv-4p-2006-gasolina",
+      "fipeCodigo": "001227-0",
+      "displayName": "Fiat Marea Weekend SX 1.6 mpi 16V 106cv 4p",
+      "valorAtual": 21623,
+      "canonicalPath": "/fipe/fiat/marea-weekend-sx-1-6-mpi-16v-106cv-4p-2006-001227-0/",
+      "ano": 2006,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-marea-weekend-sx-1-6-mpi-16v-106cv-4p-2007-gasolina",
+      "fipeCodigo": "001227-0",
+      "displayName": "Fiat Marea Weekend SX 1.6 mpi 16V 106cv 4p",
+      "valorAtual": 22164,
+      "canonicalPath": "/fipe/fiat/marea-weekend-sx-1-6-mpi-16v-106cv-4p-2007-001227-0/",
+      "ano": 2007,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-marea-weekend-sx-1-8-16v-4p-1999-gasolina",
+      "fipeCodigo": "001133-9",
+      "displayName": "Fiat Marea Weekend SX 1.8 16V 4p",
+      "valorAtual": 9494,
+      "canonicalPath": "/fipe/fiat/marea-weekend-sx-1-8-16v-4p-1999-001133-9/",
+      "ano": 1999,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-marea-weekend-sx-1-8-16v-4p-2000-gasolina",
+      "fipeCodigo": "001133-9",
+      "displayName": "Fiat Marea Weekend SX 1.8 16V 4p",
+      "valorAtual": 11913,
+      "canonicalPath": "/fipe/fiat/marea-weekend-sx-1-8-16v-4p-2000-001133-9/",
+      "ano": 2000,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-marea-weekend-sx-1-8-16v-4p-2001-gasolina",
+      "fipeCodigo": "001133-9",
+      "displayName": "Fiat Marea Weekend SX 1.8 16V 4p",
+      "valorAtual": 14538,
+      "canonicalPath": "/fipe/fiat/marea-weekend-sx-1-8-16v-4p-2001-001133-9/",
+      "ano": 2001,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-marea-weekend-sx-1-8-16v-4p-2002-gasolina",
+      "fipeCodigo": "001133-9",
+      "displayName": "Fiat Marea Weekend SX 1.8 16V 4p",
+      "valorAtual": 15029,
+      "canonicalPath": "/fipe/fiat/marea-weekend-sx-1-8-16v-4p-2002-001133-9/",
+      "ano": 2002,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-marea-weekend-sx-1-8-16v-4p-2003-gasolina",
+      "fipeCodigo": "001133-9",
+      "displayName": "Fiat Marea Weekend SX 1.8 16V 4p",
+      "valorAtual": 15527,
+      "canonicalPath": "/fipe/fiat/marea-weekend-sx-1-8-16v-4p-2003-001133-9/",
+      "ano": 2003,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-marea-weekend-sx-1-8-16v-4p-2004-gasolina",
+      "fipeCodigo": "001133-9",
+      "displayName": "Fiat Marea Weekend SX 1.8 16V 4p",
+      "valorAtual": 15916,
+      "canonicalPath": "/fipe/fiat/marea-weekend-sx-1-8-16v-4p-2004-001133-9/",
+      "ano": 2004,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-marea-weekend-sx-1-8-16v-4p-2005-gasolina",
+      "fipeCodigo": "001133-9",
+      "displayName": "Fiat Marea Weekend SX 1.8 16V 4p",
+      "valorAtual": 16314,
+      "canonicalPath": "/fipe/fiat/marea-weekend-sx-1-8-16v-4p-2005-001133-9/",
+      "ano": 2005,
+      "marca": "Fiat"
+    }
+  ],
+  "stats": {
+    "total": 93
+  },
+  "meta": {
+    "geracaoId": "marea-1"
+  }
+}

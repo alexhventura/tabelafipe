@@ -1,0 +1,48 @@
+{
+  "tipo": "geracao",
+  "slug": "600-1",
+  "canonicalPath": "/geracao/sbm/600-1/",
+  "titulo": "Geracao 600-1",
+  "descricao": "3 veiculos da geracao 600-1.",
+  "seo": {
+    "title": "Geracao 600-1 - Precos FIPE",
+    "description": "Veiculos da geracao 600-1 na Tabela FIPE.",
+    "h1": "Geracao 600-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/sbm/600-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "sbm-600-0-gasolina",
+      "fipeCodigo": "704005-9",
+      "displayName": "SBM 600",
+      "valorAtual": 37775,
+      "canonicalPath": "/fipe/sbm/600-0-704005-9/",
+      "ano": 0,
+      "marca": "SBM"
+    },
+    {
+      "vehicleId": "sbm-600-t-0-gasolina",
+      "fipeCodigo": "704007-5",
+      "displayName": "SBM 600 T",
+      "valorAtual": 47525,
+      "canonicalPath": "/fipe/sbm/600-t-0-704007-5/",
+      "ano": 0,
+      "marca": "SBM"
+    },
+    {
+      "vehicleId": "sbm-600-v-0-gasolina",
+      "fipeCodigo": "704004-0",
+      "displayName": "SBM 600 V",
+      "valorAtual": 51775,
+      "canonicalPath": "/fipe/sbm/600-v-0-704004-0/",
+      "ano": 0,
+      "marca": "SBM"
+    }
+  ],
+  "stats": {
+    "total": 3
+  },
+  "meta": {
+    "geracaoId": "600-1"
+  }
+}

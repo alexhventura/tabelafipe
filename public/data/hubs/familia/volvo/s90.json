@@ -1,0 +1,62 @@
+{
+  "tipo": "familia",
+  "slug": "s90",
+  "canonicalPath": "/fipe/volvo/s90/",
+  "titulo": "Volvo s90 - Tabela FIPE",
+  "descricao": "4 versoes e anos do Volvo s90 na Tabela FIPE.",
+  "seo": {
+    "title": "Volvo s90 - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes Volvo s90. 4 veiculos indexados.",
+    "h1": "Volvo s90 - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/volvo/s90/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "volvo-s90-t-8-inscript-2-0-awd-hibrido-2022-hibrido",
+      "fipeCodigo": "029132-3",
+      "displayName": "Volvo S90 T-8  INSCRIPT 2.0 AWD (Híbrido)",
+      "valorAtual": 263652,
+      "canonicalPath": "/fipe/volvo/s90-t-8-inscript-2-0-awd-hibrido-2022-029132-3/",
+      "ano": 2022,
+      "marca": "Volvo"
+    },
+    {
+      "vehicleId": "volvo-s90-t-8-inscript-2-0-awd-hibrido-2021-hibrido",
+      "fipeCodigo": "029132-3",
+      "displayName": "Volvo S90 T-8  INSCRIPT 2.0 AWD (Híbrido)",
+      "valorAtual": 213677,
+      "canonicalPath": "/fipe/volvo/s90-t-8-inscript-2-0-awd-hibrido-2021-029132-3/",
+      "ano": 2021,
+      "marca": "Volvo"
+    },
+    {
+      "vehicleId": "volvo-s90-t-8-inscript-2-0-awd-hibrido-2020-hibrido",
+      "fipeCodigo": "029132-3",
+      "displayName": "Volvo S90 T-8  INSCRIPT 2.0 AWD (Híbrido)",
+      "valorAtual": 195825,
+      "canonicalPath": "/fipe/volvo/s90-t-8-inscript-2-0-awd-hibrido-2020-029132-3/",
+      "ano": 2020,
+      "marca": "Volvo"
+    },
+    {
+      "vehicleId": "volvo-s90-t-8-inscript-2-0-awd-hibrido-2019-hibrido",
+      "fipeCodigo": "029132-3",
+      "displayName": "Volvo S90 T-8  INSCRIPT 2.0 AWD (Híbrido)",
+      "valorAtual": 188907,
+      "canonicalPath": "/fipe/volvo/s90-t-8-inscript-2-0-awd-hibrido-2019-029132-3/",
+      "ano": 2019,
+      "marca": "Volvo"
+    }
+  ],
+  "stats": {
+    "total": 4,
+    "precoMin": 188907,
+    "precoMax": 263652,
+    "anos": [
+      2022,
+      2021,
+      2020,
+      2019
+    ]
+  }
+}

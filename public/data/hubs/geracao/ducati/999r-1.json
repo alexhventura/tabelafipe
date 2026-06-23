@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "999r-1",
+  "canonicalPath": "/geracao/ducati/999r-1/",
+  "titulo": "Geracao 999r-1",
+  "descricao": "2 veiculos da geracao 999r-1.",
+  "seo": {
+    "title": "Geracao 999r-1 - Precos FIPE",
+    "description": "Veiculos da geracao 999r-1 na Tabela FIPE.",
+    "h1": "Geracao 999r-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/ducati/999r-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "ducati-999r-xerox-999cc-2005-gasolina",
+      "fipeCodigo": "808017-8",
+      "displayName": "DUCATI 999R Xerox 999cc",
+      "valorAtual": 42676,
+      "canonicalPath": "/fipe/ducati/999r-xerox-999cc-2005-808017-8/",
+      "ano": 2005,
+      "marca": "DUCATI"
+    },
+    {
+      "vehicleId": "ducati-999r-xerox-999cc-2006-gasolina",
+      "fipeCodigo": "808017-8",
+      "displayName": "DUCATI 999R Xerox 999cc",
+      "valorAtual": 49119,
+      "canonicalPath": "/fipe/ducati/999r-xerox-999cc-2006-808017-8/",
+      "ano": 2006,
+      "marca": "DUCATI"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "999r-1"
+  }
+}

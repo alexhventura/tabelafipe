@@ -1,0 +1,57 @@
+{
+  "tipo": "geracao",
+  "slug": "hyperstrada-1",
+  "canonicalPath": "/geracao/ducati/hyperstrada-1/",
+  "titulo": "Geracao hyperstrada-1",
+  "descricao": "4 veiculos da geracao hyperstrada-1.",
+  "seo": {
+    "title": "Geracao hyperstrada-1 - Precos FIPE",
+    "description": "Veiculos da geracao hyperstrada-1 na Tabela FIPE.",
+    "h1": "Geracao hyperstrada-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/ducati/hyperstrada-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "ducati-hyperstrada-821-2013-gasolina",
+      "fipeCodigo": "808054-2",
+      "displayName": "DUCATI HYPERSTRADA 821",
+      "valorAtual": 28049,
+      "canonicalPath": "/fipe/ducati/hyperstrada-821-2013-808054-2/",
+      "ano": 2013,
+      "marca": "DUCATI"
+    },
+    {
+      "vehicleId": "ducati-hyperstrada-821-2014-gasolina",
+      "fipeCodigo": "808054-2",
+      "displayName": "DUCATI HYPERSTRADA 821",
+      "valorAtual": 30942,
+      "canonicalPath": "/fipe/ducati/hyperstrada-821-2014-808054-2/",
+      "ano": 2014,
+      "marca": "DUCATI"
+    },
+    {
+      "vehicleId": "ducati-hyperstrada-821-2015-gasolina",
+      "fipeCodigo": "808054-2",
+      "displayName": "DUCATI HYPERSTRADA 821",
+      "valorAtual": 37133,
+      "canonicalPath": "/fipe/ducati/hyperstrada-821-2015-808054-2/",
+      "ano": 2015,
+      "marca": "DUCATI"
+    },
+    {
+      "vehicleId": "ducati-hyperstrada-821-2016-gasolina",
+      "fipeCodigo": "808054-2",
+      "displayName": "DUCATI HYPERSTRADA 821",
+      "valorAtual": 43505,
+      "canonicalPath": "/fipe/ducati/hyperstrada-821-2016-808054-2/",
+      "ano": 2016,
+      "marca": "DUCATI"
+    }
+  ],
+  "stats": {
+    "total": 4
+  },
+  "meta": {
+    "geracaoId": "hyperstrada-1"
+  }
+}

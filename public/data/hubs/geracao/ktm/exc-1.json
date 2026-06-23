@@ -1,0 +1,75 @@
+{
+  "tipo": "geracao",
+  "slug": "exc-1",
+  "canonicalPath": "/geracao/ktm/exc-1/",
+  "titulo": "Geracao exc-1",
+  "descricao": "6 veiculos da geracao exc-1.",
+  "seo": {
+    "title": "Geracao exc-1 - Precos FIPE",
+    "description": "Veiculos da geracao exc-1 na Tabela FIPE.",
+    "h1": "Geracao exc-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/ktm/exc-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "ktm-exc-150-0-gasolina",
+      "fipeCodigo": "818050-4",
+      "displayName": "KTM EXC 150",
+      "valorAtual": 69393,
+      "canonicalPath": "/fipe/ktm/exc-150-0-818050-4/",
+      "ano": 0,
+      "marca": "KTM"
+    },
+    {
+      "vehicleId": "ktm-exc-300-0-gasolina",
+      "fipeCodigo": "818017-2",
+      "displayName": "KTM EXC 300",
+      "valorAtual": 90114,
+      "canonicalPath": "/fipe/ktm/exc-300-0-818017-2/",
+      "ano": 0,
+      "marca": "KTM"
+    },
+    {
+      "vehicleId": "ktm-exc-300-six-days-0-gasolina",
+      "fipeCodigo": "818055-5",
+      "displayName": "KTM EXC 300 SIX DAYS",
+      "valorAtual": 96392,
+      "canonicalPath": "/fipe/ktm/exc-300-six-days-0-818055-5/",
+      "ano": 0,
+      "marca": "KTM"
+    },
+    {
+      "vehicleId": "ktm-exc-f-250-0-gasolina",
+      "fipeCodigo": "818038-5",
+      "displayName": "KTM EXC-F 250",
+      "valorAtual": 86134,
+      "canonicalPath": "/fipe/ktm/exc-f-250-0-818038-5/",
+      "ano": 0,
+      "marca": "KTM"
+    },
+    {
+      "vehicleId": "ktm-exc-f-350-0-gasolina",
+      "fipeCodigo": "818037-7",
+      "displayName": "KTM EXC-F 350",
+      "valorAtual": 87990,
+      "canonicalPath": "/fipe/ktm/exc-f-350-0-818037-7/",
+      "ano": 0,
+      "marca": "KTM"
+    },
+    {
+      "vehicleId": "ktm-exc-f-350-six-days-0-gasolina",
+      "fipeCodigo": "818049-0",
+      "displayName": "KTM EXC-F 350 SIX DAYS",
+      "valorAtual": 96412,
+      "canonicalPath": "/fipe/ktm/exc-f-350-six-days-0-818049-0/",
+      "ano": 0,
+      "marca": "KTM"
+    }
+  ],
+  "stats": {
+    "total": 6
+  },
+  "meta": {
+    "geracaoId": "exc-1"
+  }
+}

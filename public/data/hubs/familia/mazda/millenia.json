@@ -1,0 +1,42 @@
+{
+  "tipo": "familia",
+  "slug": "millenia",
+  "canonicalPath": "/fipe/mazda/millenia/",
+  "titulo": "Mazda millenia - Tabela FIPE",
+  "descricao": "2 versoes e anos do Mazda millenia na Tabela FIPE.",
+  "seo": {
+    "title": "Mazda millenia - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes Mazda millenia. 2 veiculos indexados.",
+    "h1": "Mazda millenia - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/mazda/millenia/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "mazda-millenia-3-0-v6-24v-1997-gasolina",
+      "fipeCodigo": "020019-0",
+      "displayName": "Mazda Millenia 3.0 V6 24V",
+      "valorAtual": 13620,
+      "canonicalPath": "/fipe/mazda/millenia-3-0-v6-24v-1997-020019-0/",
+      "ano": 1997,
+      "marca": "Mazda"
+    },
+    {
+      "vehicleId": "mazda-millenia-3-0-v6-24v-1996-gasolina",
+      "fipeCodigo": "020019-0",
+      "displayName": "Mazda Millenia 3.0 V6 24V",
+      "valorAtual": 13157,
+      "canonicalPath": "/fipe/mazda/millenia-3-0-v6-24v-1996-020019-0/",
+      "ano": 1996,
+      "marca": "Mazda"
+    }
+  ],
+  "stats": {
+    "total": 2,
+    "precoMin": 13157,
+    "precoMax": 13620,
+    "anos": [
+      1997,
+      1996
+    ]
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "tipo": "familia",
+  "slug": "f8",
+  "canonicalPath": "/fipe/ferrari/f8/",
+  "titulo": "Ferrari f8 - Tabela FIPE",
+  "descricao": "6 versoes e anos do Ferrari f8 na Tabela FIPE.",
+  "seo": {
+    "title": "Ferrari f8 - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes Ferrari f8. 6 veiculos indexados.",
+    "h1": "Ferrari f8 - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/ferrari/f8/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "ferrari-f8-tributo-3-9-v8-720cv-2022-gasolina",
+      "fipeCodigo": "031047-6",
+      "displayName": "Ferrari F8 TRIBUTO 3.9 V8 720cv",
+      "valorAtual": 3964209,
+      "canonicalPath": "/fipe/ferrari/f8-tributo-3-9-v8-720cv-2022-031047-6/",
+      "ano": 2022,
+      "marca": "Ferrari"
+    },
+    {
+      "vehicleId": "ferrari-f8-spider-3-9-v8-bi-turbo-720cv-2022-gasolina",
+      "fipeCodigo": "031048-4",
+      "displayName": "Ferrari F8 Spider 3.9 V8 Bi-Turbo 720cv",
+      "valorAtual": 3982200,
+      "canonicalPath": "/fipe/ferrari/f8-spider-3-9-v8-bi-turbo-720cv-2022-031048-4/",
+      "ano": 2022,
+      "marca": "Ferrari"
+    },
+    {
+      "vehicleId": "ferrari-f8-tributo-3-9-v8-720cv-2021-gasolina",
+      "fipeCodigo": "031047-6",
+      "displayName": "Ferrari F8 TRIBUTO 3.9 V8 720cv",
+      "valorAtual": 3835339,
+      "canonicalPath": "/fipe/ferrari/f8-tributo-3-9-v8-720cv-2021-031047-6/",
+      "ano": 2021,
+      "marca": "Ferrari"
+    },
+    {
+      "vehicleId": "ferrari-f8-spider-3-9-v8-bi-turbo-720cv-2021-gasolina",
+      "fipeCodigo": "031048-4",
+      "displayName": "Ferrari F8 Spider 3.9 V8 Bi-Turbo 720cv",
+      "valorAtual": 3881236,
+      "canonicalPath": "/fipe/ferrari/f8-spider-3-9-v8-bi-turbo-720cv-2021-031048-4/",
+      "ano": 2021,
+      "marca": "Ferrari"
+    },
+    {
+      "vehicleId": "ferrari-f8-tributo-3-9-v8-720cv-2020-gasolina",
+      "fipeCodigo": "031047-6",
+      "displayName": "Ferrari F8 TRIBUTO 3.9 V8 720cv",
+      "valorAtual": 3461991,
+      "canonicalPath": "/fipe/ferrari/f8-tributo-3-9-v8-720cv-2020-031047-6/",
+      "ano": 2020,
+      "marca": "Ferrari"
+    },
+    {
+      "vehicleId": "ferrari-f8-spider-3-9-v8-bi-turbo-720cv-2020-gasolina",
+      "fipeCodigo": "031048-4",
+      "displayName": "Ferrari F8 Spider 3.9 V8 Bi-Turbo 720cv",
+      "valorAtual": 3716380,
+      "canonicalPath": "/fipe/ferrari/f8-spider-3-9-v8-bi-turbo-720cv-2020-031048-4/",
+      "ano": 2020,
+      "marca": "Ferrari"
+    }
+  ],
+  "stats": {
+    "total": 6,
+    "precoMin": 3461991,
+    "precoMax": 3982200,
+    "anos": [
+      2022,
+      2021,
+      2020
+    ]
+  }
+}

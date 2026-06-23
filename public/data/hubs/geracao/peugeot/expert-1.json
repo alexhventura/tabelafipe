@@ -1,0 +1,57 @@
+{
+  "tipo": "geracao",
+  "slug": "expert-1",
+  "canonicalPath": "/geracao/peugeot/expert-1/",
+  "titulo": "Geracao expert-1",
+  "descricao": "4 veiculos da geracao expert-1.",
+  "seo": {
+    "title": "Geracao expert-1 - Precos FIPE",
+    "description": "Veiculos da geracao expert-1 na Tabela FIPE.",
+    "h1": "Geracao expert-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/peugeot/expert-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "peugeot-expert-cargo-1-5-turbo-diesel-0-diesel",
+      "fipeCodigo": "024260-8",
+      "displayName": "Peugeot Expert Cargo 1.5 Turbo Diesel",
+      "valorAtual": 195429,
+      "canonicalPath": "/fipe/peugeot/expert-cargo-1-5-turbo-diesel-0-024260-8/",
+      "ano": 0,
+      "marca": "Peugeot"
+    },
+    {
+      "vehicleId": "peugeot-expert-cargo-2-2-turbo-diesel-0-diesel",
+      "fipeCodigo": "024282-9",
+      "displayName": "Peugeot Expert Cargo 2.2 Turbo Diesel",
+      "valorAtual": 199754,
+      "canonicalPath": "/fipe/peugeot/expert-cargo-2-2-turbo-diesel-0-024282-9/",
+      "ano": 0,
+      "marca": "Peugeot"
+    },
+    {
+      "vehicleId": "peugeot-expert-vitre-1-5-turbo-diesel-0-diesel",
+      "fipeCodigo": "024259-4",
+      "displayName": "Peugeot Expert VITRÉ 1.5 Turbo Diesel",
+      "valorAtual": 233072,
+      "canonicalPath": "/fipe/peugeot/expert-vitre-1-5-turbo-diesel-0-024259-4/",
+      "ano": 0,
+      "marca": "Peugeot"
+    },
+    {
+      "vehicleId": "peugeot-expert-vitre-2-2-turbo-diesel-0-diesel",
+      "fipeCodigo": "024283-7",
+      "displayName": "Peugeot Expert VITRÉ 2.2 Turbo Diesel",
+      "valorAtual": 205916,
+      "canonicalPath": "/fipe/peugeot/expert-vitre-2-2-turbo-diesel-0-024283-7/",
+      "ano": 0,
+      "marca": "Peugeot"
+    }
+  ],
+  "stats": {
+    "total": 4
+  },
+  "meta": {
+    "geracaoId": "expert-1"
+  }
+}

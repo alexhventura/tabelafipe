@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "tre-1",
+  "canonicalPath": "/geracao/benelli/tre-1/",
+  "titulo": "Geracao tre-1",
+  "descricao": "2 veiculos da geracao tre-1.",
+  "seo": {
+    "title": "Geracao tre-1 - Precos FIPE",
+    "description": "Veiculos da geracao tre-1 na Tabela FIPE.",
+    "h1": "Geracao tre-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/benelli/tre-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "benelli-tre-1130-k-2008-gasolina",
+      "fipeCodigo": "870003-6",
+      "displayName": "Benelli TRE 1130 K",
+      "valorAtual": 29357,
+      "canonicalPath": "/fipe/benelli/tre-1130-k-2008-870003-6/",
+      "ano": 2008,
+      "marca": "Benelli"
+    },
+    {
+      "vehicleId": "benelli-tre-1130-k-amazonas-2008-gasolina",
+      "fipeCodigo": "870004-4",
+      "displayName": "Benelli TRE 1130 K Amazonas",
+      "valorAtual": 44056,
+      "canonicalPath": "/fipe/benelli/tre-1130-k-amazonas-2008-870004-4/",
+      "ano": 2008,
+      "marca": "Benelli"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "tre-1"
+  }
+}

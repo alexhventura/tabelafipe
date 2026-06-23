@@ -1,0 +1,93 @@
+{
+  "tipo": "geracao",
+  "slug": "180-1",
+  "canonicalPath": "/geracao/mercedes-benz/180-1/",
+  "titulo": "Geracao 180-1",
+  "descricao": "8 veiculos da geracao 180-1.",
+  "seo": {
+    "title": "Geracao 180-1 - Precos FIPE",
+    "description": "Veiculos da geracao 180-1 na Tabela FIPE.",
+    "h1": "Geracao 180-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/mercedes-benz/180-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "mercedes-benz-180-d-pick-up-furgao-2-4-diesel-1993-diesel",
+      "fipeCodigo": "021060-9",
+      "displayName": "Mercedes-Benz 180-D Pick-Up/Furgão 2.4 Diesel",
+      "valorAtual": 11780,
+      "canonicalPath": "/fipe/mercedes-benz/180-d-pick-up-furgao-2-4-diesel-1993-021060-9/",
+      "ano": 1993,
+      "marca": "Mercedes-Benz"
+    },
+    {
+      "vehicleId": "mercedes-benz-180-d-pick-up-furgao-2-4-diesel-1994-diesel",
+      "fipeCodigo": "021060-9",
+      "displayName": "Mercedes-Benz 180-D Pick-Up/Furgão 2.4 Diesel",
+      "valorAtual": 16796,
+      "canonicalPath": "/fipe/mercedes-benz/180-d-pick-up-furgao-2-4-diesel-1994-021060-9/",
+      "ano": 1994,
+      "marca": "Mercedes-Benz"
+    },
+    {
+      "vehicleId": "mercedes-benz-180-d-pick-up-furgao-2-4-diesel-1995-diesel",
+      "fipeCodigo": "021060-9",
+      "displayName": "Mercedes-Benz 180-D Pick-Up/Furgão 2.4 Diesel",
+      "valorAtual": 24247,
+      "canonicalPath": "/fipe/mercedes-benz/180-d-pick-up-furgao-2-4-diesel-1995-021060-9/",
+      "ano": 1995,
+      "marca": "Mercedes-Benz"
+    },
+    {
+      "vehicleId": "mercedes-benz-180-d-pick-up-furgao-2-4-diesel-1996-diesel",
+      "fipeCodigo": "021060-9",
+      "displayName": "Mercedes-Benz 180-D Pick-Up/Furgão 2.4 Diesel",
+      "valorAtual": 24854,
+      "canonicalPath": "/fipe/mercedes-benz/180-d-pick-up-furgao-2-4-diesel-1996-021060-9/",
+      "ano": 1996,
+      "marca": "Mercedes-Benz"
+    },
+    {
+      "vehicleId": "mercedes-benz-180-d-van-2-4-diesel-1993-diesel",
+      "fipeCodigo": "021061-7",
+      "displayName": "Mercedes-Benz 180-D Van 2.4 Diesel",
+      "valorAtual": 9723,
+      "canonicalPath": "/fipe/mercedes-benz/180-d-van-2-4-diesel-1993-021061-7/",
+      "ano": 1993,
+      "marca": "Mercedes-Benz"
+    },
+    {
+      "vehicleId": "mercedes-benz-180-d-van-2-4-diesel-1994-diesel",
+      "fipeCodigo": "021061-7",
+      "displayName": "Mercedes-Benz 180-D Van 2.4 Diesel",
+      "valorAtual": 13142,
+      "canonicalPath": "/fipe/mercedes-benz/180-d-van-2-4-diesel-1994-021061-7/",
+      "ano": 1994,
+      "marca": "Mercedes-Benz"
+    },
+    {
+      "vehicleId": "mercedes-benz-180-d-van-2-4-diesel-1995-diesel",
+      "fipeCodigo": "021061-7",
+      "displayName": "Mercedes-Benz 180-D Van 2.4 Diesel",
+      "valorAtual": 14222,
+      "canonicalPath": "/fipe/mercedes-benz/180-d-van-2-4-diesel-1995-021061-7/",
+      "ano": 1995,
+      "marca": "Mercedes-Benz"
+    },
+    {
+      "vehicleId": "mercedes-benz-180-d-van-2-4-diesel-1996-diesel",
+      "fipeCodigo": "021061-7",
+      "displayName": "Mercedes-Benz 180-D Van 2.4 Diesel",
+      "valorAtual": 15412,
+      "canonicalPath": "/fipe/mercedes-benz/180-d-van-2-4-diesel-1996-021061-7/",
+      "ano": 1996,
+      "marca": "Mercedes-Benz"
+    }
+  ],
+  "stats": {
+    "total": 8
+  },
+  "meta": {
+    "geracaoId": "180-1"
+  }
+}

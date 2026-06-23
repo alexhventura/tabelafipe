@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "nhx-2",
+  "canonicalPath": "/geracao/dafra/nhx-2/",
+  "titulo": "Geracao nhx-2",
+  "descricao": "2 veiculos da geracao nhx-2.",
+  "seo": {
+    "title": "Geracao nhx-2 - Precos FIPE",
+    "description": "Veiculos da geracao nhx-2 na Tabela FIPE.",
+    "h1": "Geracao nhx-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/dafra/nhx-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "dafra-nhx-190-2025-gasolina",
+      "fipeCodigo": "861032-0",
+      "displayName": "DAFRA NHX 190",
+      "valorAtual": 17487,
+      "canonicalPath": "/fipe/dafra/nhx-190-2025-861032-0/",
+      "ano": 2025,
+      "marca": "DAFRA"
+    },
+    {
+      "vehicleId": "dafra-nhx-190-2026-gasolina",
+      "fipeCodigo": "861032-0",
+      "displayName": "DAFRA NHX 190",
+      "valorAtual": 17933,
+      "canonicalPath": "/fipe/dafra/nhx-190-2026-861032-0/",
+      "ano": 2026,
+      "marca": "DAFRA"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "nhx-2"
+  }
+}

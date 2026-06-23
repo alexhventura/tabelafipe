@@ -1,0 +1,84 @@
+{
+  "tipo": "geracao",
+  "slug": "multistrada-2",
+  "canonicalPath": "/geracao/ducati/multistrada-2/",
+  "titulo": "Geracao multistrada-2",
+  "descricao": "7 veiculos da geracao multistrada-2.",
+  "seo": {
+    "title": "Geracao multistrada-2 - Precos FIPE",
+    "description": "Veiculos da geracao multistrada-2 na Tabela FIPE.",
+    "h1": "Geracao multistrada-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/ducati/multistrada-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "ducati-multistrada-1000-992cc-2003-gasolina",
+      "fipeCodigo": "808012-7",
+      "displayName": "DUCATI MULTISTRADA 1000 992cc",
+      "valorAtual": 23078,
+      "canonicalPath": "/fipe/ducati/multistrada-1000-992cc-2003-808012-7/",
+      "ano": 2003,
+      "marca": "DUCATI"
+    },
+    {
+      "vehicleId": "ducati-multistrada-1000-992cc-2004-gasolina",
+      "fipeCodigo": "808012-7",
+      "displayName": "DUCATI MULTISTRADA 1000 992cc",
+      "valorAtual": 25674,
+      "canonicalPath": "/fipe/ducati/multistrada-1000-992cc-2004-808012-7/",
+      "ano": 2004,
+      "marca": "DUCATI"
+    },
+    {
+      "vehicleId": "ducati-multistrada-1000-992cc-2005-gasolina",
+      "fipeCodigo": "808012-7",
+      "displayName": "DUCATI MULTISTRADA 1000 992cc",
+      "valorAtual": 26399,
+      "canonicalPath": "/fipe/ducati/multistrada-1000-992cc-2005-808012-7/",
+      "ano": 2005,
+      "marca": "DUCATI"
+    },
+    {
+      "vehicleId": "ducati-multistrada-1100-1078cc-2007-gasolina",
+      "fipeCodigo": "808025-9",
+      "displayName": "DUCATI MULTISTRADA 1100 1078cc",
+      "valorAtual": 32495,
+      "canonicalPath": "/fipe/ducati/multistrada-1100-1078cc-2007-808025-9/",
+      "ano": 2007,
+      "marca": "DUCATI"
+    },
+    {
+      "vehicleId": "ducati-multistrada-1100-1078cc-2008-gasolina",
+      "fipeCodigo": "808025-9",
+      "displayName": "DUCATI MULTISTRADA 1100 1078cc",
+      "valorAtual": 34374,
+      "canonicalPath": "/fipe/ducati/multistrada-1100-1078cc-2008-808025-9/",
+      "ano": 2008,
+      "marca": "DUCATI"
+    },
+    {
+      "vehicleId": "ducati-multistrada-620-618cc-2005-gasolina",
+      "fipeCodigo": "808018-6",
+      "displayName": "DUCATI MULTISTRADA 620  618cc",
+      "valorAtual": 19011,
+      "canonicalPath": "/fipe/ducati/multistrada-620-618cc-2005-808018-6/",
+      "ano": 2005,
+      "marca": "DUCATI"
+    },
+    {
+      "vehicleId": "ducati-multistrada-620-618cc-2006-gasolina",
+      "fipeCodigo": "808018-6",
+      "displayName": "DUCATI MULTISTRADA 620  618cc",
+      "valorAtual": 23099,
+      "canonicalPath": "/fipe/ducati/multistrada-620-618cc-2006-808018-6/",
+      "ano": 2006,
+      "marca": "DUCATI"
+    }
+  ],
+  "stats": {
+    "total": 7
+  },
+  "meta": {
+    "geracaoId": "multistrada-2"
+  }
+}

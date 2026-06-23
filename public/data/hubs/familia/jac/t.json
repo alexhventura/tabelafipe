@@ -1,0 +1,52 @@
+{
+  "tipo": "familia",
+  "slug": "t",
+  "canonicalPath": "/fipe/jac/t/",
+  "titulo": "JAC t - Tabela FIPE",
+  "descricao": "3 versoes e anos do JAC t na Tabela FIPE.",
+  "seo": {
+    "title": "JAC t - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes JAC t. 3 veiculos indexados.",
+    "h1": "JAC t - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/jac/t/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "jac-t-140-2-8-2p-diesel-2014-diesel",
+      "fipeCodigo": "080009-0",
+      "displayName": "JAC T 140 2.8 2p (diesel)",
+      "valorAtual": 65737,
+      "canonicalPath": "/fipe/jac/t-140-2-8-2p-diesel-2014-080009-0/",
+      "ano": 2014,
+      "marca": "JAC"
+    },
+    {
+      "vehicleId": "jac-t-140-2-8-2p-diesel-2013-diesel",
+      "fipeCodigo": "080009-0",
+      "displayName": "JAC T 140 2.8 2p (diesel)",
+      "valorAtual": 64133,
+      "canonicalPath": "/fipe/jac/t-140-2-8-2p-diesel-2013-080009-0/",
+      "ano": 2013,
+      "marca": "JAC"
+    },
+    {
+      "vehicleId": "jac-t-140-2-8-2p-diesel-2012-diesel",
+      "fipeCodigo": "080009-0",
+      "displayName": "JAC T 140 2.8 2p (diesel)",
+      "valorAtual": 56519,
+      "canonicalPath": "/fipe/jac/t-140-2-8-2p-diesel-2012-080009-0/",
+      "ano": 2012,
+      "marca": "JAC"
+    }
+  ],
+  "stats": {
+    "total": 3,
+    "precoMin": 56519,
+    "precoMax": 65737,
+    "anos": [
+      2014,
+      2013,
+      2012
+    ]
+  }
+}

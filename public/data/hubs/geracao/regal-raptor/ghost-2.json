@@ -1,0 +1,75 @@
+{
+  "tipo": "geracao",
+  "slug": "ghost-2",
+  "canonicalPath": "/geracao/regal-raptor/ghost-2/",
+  "titulo": "Geracao ghost-2",
+  "descricao": "6 veiculos da geracao ghost-2.",
+  "seo": {
+    "title": "Geracao ghost-2 - Precos FIPE",
+    "description": "Veiculos da geracao ghost-2 na Tabela FIPE.",
+    "h1": "Geracao ghost-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/regal-raptor/ghost-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "regal-raptor-ghost-270-320-2011-gasolina",
+      "fipeCodigo": "872004-5",
+      "displayName": "REGAL RAPTOR GHOST 270/320",
+      "valorAtual": 12823,
+      "canonicalPath": "/fipe/regal-raptor/ghost-270-320-2011-872004-5/",
+      "ano": 2011,
+      "marca": "REGAL RAPTOR"
+    },
+    {
+      "vehicleId": "rolls-royce-ghost-ll-6-6-v12-aut-2015-gasolina",
+      "fipeCodigo": "087003-0",
+      "displayName": "Rolls-Royce Ghost ll 6.6 V12 Aut.",
+      "valorAtual": 2419761,
+      "canonicalPath": "/fipe/rolls-royce/ghost-ll-6-6-v12-aut-2015-087003-0/",
+      "ano": 2015,
+      "marca": "Rolls-Royce"
+    },
+    {
+      "vehicleId": "rolls-royce-ghost-ll-6-6-v12-aut-2016-gasolina",
+      "fipeCodigo": "087003-0",
+      "displayName": "Rolls-Royce Ghost ll 6.6 V12 Aut.",
+      "valorAtual": 2514538,
+      "canonicalPath": "/fipe/rolls-royce/ghost-ll-6-6-v12-aut-2016-087003-0/",
+      "ano": 2016,
+      "marca": "Rolls-Royce"
+    },
+    {
+      "vehicleId": "rolls-royce-ghost-ll-6-6-v12-aut-2017-gasolina",
+      "fipeCodigo": "087003-0",
+      "displayName": "Rolls-Royce Ghost ll 6.6 V12 Aut.",
+      "valorAtual": 2621364,
+      "canonicalPath": "/fipe/rolls-royce/ghost-ll-6-6-v12-aut-2017-087003-0/",
+      "ano": 2017,
+      "marca": "Rolls-Royce"
+    },
+    {
+      "vehicleId": "rolls-royce-ghost-ll-6-6-v12-aut-2018-gasolina",
+      "fipeCodigo": "087003-0",
+      "displayName": "Rolls-Royce Ghost ll 6.6 V12 Aut.",
+      "valorAtual": 2798952,
+      "canonicalPath": "/fipe/rolls-royce/ghost-ll-6-6-v12-aut-2018-087003-0/",
+      "ano": 2018,
+      "marca": "Rolls-Royce"
+    },
+    {
+      "vehicleId": "rolls-royce-ghost-ll-6-6-v12-aut-2019-gasolina",
+      "fipeCodigo": "087003-0",
+      "displayName": "Rolls-Royce Ghost ll 6.6 V12 Aut.",
+      "valorAtual": 3242856,
+      "canonicalPath": "/fipe/rolls-royce/ghost-ll-6-6-v12-aut-2019-087003-0/",
+      "ano": 2019,
+      "marca": "Rolls-Royce"
+    }
+  ],
+  "stats": {
+    "total": 6
+  },
+  "meta": {
+    "geracaoId": "ghost-2"
+  }
+}

@@ -1,0 +1,129 @@
+{
+  "tipo": "geracao",
+  "slug": "te-2",
+  "canonicalPath": "/geracao/husqvarna/te-2/",
+  "titulo": "Geracao te-2",
+  "descricao": "12 veiculos da geracao te-2.",
+  "seo": {
+    "title": "Geracao te-2 - Precos FIPE",
+    "description": "Veiculos da geracao te-2 na Tabela FIPE.",
+    "h1": "Geracao te-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/husqvarna/te-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "husqvarna-te-400-2001-gasolina",
+      "fipeCodigo": "812013-7",
+      "displayName": "HUSQVARNA TE 400",
+      "valorAtual": 7876,
+      "canonicalPath": "/fipe/husqvarna/te-400-2001-812013-7/",
+      "ano": 2001,
+      "marca": "HUSQVARNA"
+    },
+    {
+      "vehicleId": "husqvarna-te-400-2002-gasolina",
+      "fipeCodigo": "812013-7",
+      "displayName": "HUSQVARNA TE 400",
+      "valorAtual": 8700,
+      "canonicalPath": "/fipe/husqvarna/te-400-2002-812013-7/",
+      "ano": 2002,
+      "marca": "HUSQVARNA"
+    },
+    {
+      "vehicleId": "husqvarna-te-410-1999-gasolina",
+      "fipeCodigo": "812005-6",
+      "displayName": "HUSQVARNA TE 410",
+      "valorAtual": 6632,
+      "canonicalPath": "/fipe/husqvarna/te-410-1999-812005-6/",
+      "ano": 1999,
+      "marca": "HUSQVARNA"
+    },
+    {
+      "vehicleId": "husqvarna-te-410-2000-gasolina",
+      "fipeCodigo": "812005-6",
+      "displayName": "HUSQVARNA TE 410",
+      "valorAtual": 7346,
+      "canonicalPath": "/fipe/husqvarna/te-410-2000-812005-6/",
+      "ano": 2000,
+      "marca": "HUSQVARNA"
+    },
+    {
+      "vehicleId": "husqvarna-te-410-e-1999-gasolina",
+      "fipeCodigo": "812007-2",
+      "displayName": "HUSQVARNA TE 410 E",
+      "valorAtual": 6877,
+      "canonicalPath": "/fipe/husqvarna/te-410-e-1999-812007-2/",
+      "ano": 1999,
+      "marca": "HUSQVARNA"
+    },
+    {
+      "vehicleId": "husqvarna-te-410-e-2000-gasolina",
+      "fipeCodigo": "812007-2",
+      "displayName": "HUSQVARNA TE 410 E",
+      "valorAtual": 7506,
+      "canonicalPath": "/fipe/husqvarna/te-410-e-2000-812007-2/",
+      "ano": 2000,
+      "marca": "HUSQVARNA"
+    },
+    {
+      "vehicleId": "husqvarna-te-570-2001-gasolina",
+      "fipeCodigo": "812014-5",
+      "displayName": "HUSQVARNA TE 570",
+      "valorAtual": 9953,
+      "canonicalPath": "/fipe/husqvarna/te-570-2001-812014-5/",
+      "ano": 2001,
+      "marca": "HUSQVARNA"
+    },
+    {
+      "vehicleId": "husqvarna-te-570-2002-gasolina",
+      "fipeCodigo": "812014-5",
+      "displayName": "HUSQVARNA TE 570",
+      "valorAtual": 12083,
+      "canonicalPath": "/fipe/husqvarna/te-570-2002-812014-5/",
+      "ano": 2002,
+      "marca": "HUSQVARNA"
+    },
+    {
+      "vehicleId": "husqvarna-te-610-1999-gasolina",
+      "fipeCodigo": "812004-8",
+      "displayName": "HUSQVARNA TE 610",
+      "valorAtual": 7902,
+      "canonicalPath": "/fipe/husqvarna/te-610-1999-812004-8/",
+      "ano": 1999,
+      "marca": "HUSQVARNA"
+    },
+    {
+      "vehicleId": "husqvarna-te-610-2000-gasolina",
+      "fipeCodigo": "812004-8",
+      "displayName": "HUSQVARNA TE 610",
+      "valorAtual": 8848,
+      "canonicalPath": "/fipe/husqvarna/te-610-2000-812004-8/",
+      "ano": 2000,
+      "marca": "HUSQVARNA"
+    },
+    {
+      "vehicleId": "husqvarna-te-610-e-1999-gasolina",
+      "fipeCodigo": "812009-9",
+      "displayName": "HUSQVARNA TE 610 E",
+      "valorAtual": 8379,
+      "canonicalPath": "/fipe/husqvarna/te-610-e-1999-812009-9/",
+      "ano": 1999,
+      "marca": "HUSQVARNA"
+    },
+    {
+      "vehicleId": "husqvarna-te-610-e-2000-gasolina",
+      "fipeCodigo": "812009-9",
+      "displayName": "HUSQVARNA TE 610 E",
+      "valorAtual": 9258,
+      "canonicalPath": "/fipe/husqvarna/te-610-e-2000-812009-9/",
+      "ano": 2000,
+      "marca": "HUSQVARNA"
+    }
+  ],
+  "stats": {
+    "total": 12
+  },
+  "meta": {
+    "geracaoId": "te-2"
+  }
+}

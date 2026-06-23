@@ -1,0 +1,111 @@
+{
+  "tipo": "geracao",
+  "slug": "a7-1",
+  "canonicalPath": "/geracao/audi/a7-1/",
+  "titulo": "Geracao a7-1",
+  "descricao": "10 veiculos da geracao a7-1.",
+  "seo": {
+    "title": "Geracao a7-1 - Precos FIPE",
+    "description": "Veiculos da geracao a7-1 na Tabela FIPE.",
+    "h1": "Geracao a7-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/audi/a7-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "audi-a7-sportback-2-0-tfsi-s-tronic-2015-gasolina",
+      "fipeCodigo": "008206-6",
+      "displayName": "Audi A7 Sportback 2.0 TFSI S Tronic",
+      "valorAtual": 190566,
+      "canonicalPath": "/fipe/audi/a7-sportback-2-0-tfsi-s-tronic-2015-008206-6/",
+      "ano": 2015,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-a7-sportback-2-0-tfsi-s-tronic-2016-gasolina",
+      "fipeCodigo": "008206-6",
+      "displayName": "Audi A7 Sportback 2.0 TFSI S Tronic",
+      "valorAtual": 195331,
+      "canonicalPath": "/fipe/audi/a7-sportback-2-0-tfsi-s-tronic-2016-008206-6/",
+      "ano": 2016,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-a7-sportback-3-0-tfsi-quattro-s-tronic-2011-gasolina",
+      "fipeCodigo": "008154-0",
+      "displayName": "Audi A7 Sportback 3.0 TFSI Quattro S Tronic",
+      "valorAtual": 122913,
+      "canonicalPath": "/fipe/audi/a7-sportback-3-0-tfsi-quattro-s-tronic-2011-008154-0/",
+      "ano": 2011,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-a7-sportback-3-0-tfsi-quattro-s-tronic-2012-gasolina",
+      "fipeCodigo": "008154-0",
+      "displayName": "Audi A7 Sportback 3.0 TFSI Quattro S Tronic",
+      "valorAtual": 130744,
+      "canonicalPath": "/fipe/audi/a7-sportback-3-0-tfsi-quattro-s-tronic-2012-008154-0/",
+      "ano": 2012,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-a7-sportback-3-0-tfsi-quattro-s-tronic-2013-gasolina",
+      "fipeCodigo": "008154-0",
+      "displayName": "Audi A7 Sportback 3.0 TFSI Quattro S Tronic",
+      "valorAtual": 141552,
+      "canonicalPath": "/fipe/audi/a7-sportback-3-0-tfsi-quattro-s-tronic-2013-008154-0/",
+      "ano": 2013,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-a7-sportback-3-0-tfsi-quattro-s-tronic-2014-gasolina",
+      "fipeCodigo": "008154-0",
+      "displayName": "Audi A7 Sportback 3.0 TFSI Quattro S Tronic",
+      "valorAtual": 145091,
+      "canonicalPath": "/fipe/audi/a7-sportback-3-0-tfsi-quattro-s-tronic-2014-008154-0/",
+      "ano": 2014,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-a7-sportback-3-0-tfsi-quattro-s-tronic-2015-gasolina",
+      "fipeCodigo": "008154-0",
+      "displayName": "Audi A7 Sportback 3.0 TFSI Quattro S Tronic",
+      "valorAtual": 183136,
+      "canonicalPath": "/fipe/audi/a7-sportback-3-0-tfsi-quattro-s-tronic-2015-008154-0/",
+      "ano": 2015,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-a7-sportback-3-0-tfsi-quattro-s-tronic-2016-gasolina",
+      "fipeCodigo": "008154-0",
+      "displayName": "Audi A7 Sportback 3.0 TFSI Quattro S Tronic",
+      "valorAtual": 188405,
+      "canonicalPath": "/fipe/audi/a7-sportback-3-0-tfsi-quattro-s-tronic-2016-008154-0/",
+      "ano": 2016,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-a7-sportback-3-0-tfsi-quattro-s-tronic-2017-gasolina",
+      "fipeCodigo": "008154-0",
+      "displayName": "Audi A7 Sportback 3.0 TFSI Quattro S Tronic",
+      "valorAtual": 193116,
+      "canonicalPath": "/fipe/audi/a7-sportback-3-0-tfsi-quattro-s-tronic-2017-008154-0/",
+      "ano": 2017,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-a7-sportback-3-0-tfsi-quattro-s-tronic-2018-gasolina",
+      "fipeCodigo": "008154-0",
+      "displayName": "Audi A7 Sportback 3.0 TFSI Quattro S Tronic",
+      "valorAtual": 229063,
+      "canonicalPath": "/fipe/audi/a7-sportback-3-0-tfsi-quattro-s-tronic-2018-008154-0/",
+      "ano": 2018,
+      "marca": "Audi"
+    }
+  ],
+  "stats": {
+    "total": 10
+  },
+  "meta": {
+    "geracaoId": "a7-1"
+  }
+}

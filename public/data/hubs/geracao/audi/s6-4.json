@@ -1,0 +1,57 @@
+{
+  "tipo": "geracao",
+  "slug": "s6-4",
+  "canonicalPath": "/geracao/audi/s6-4/",
+  "titulo": "Geracao s6-4",
+  "descricao": "4 veiculos da geracao s6-4.",
+  "seo": {
+    "title": "Geracao s6-4 - Precos FIPE",
+    "description": "Veiculos da geracao s6-4 na Tabela FIPE.",
+    "h1": "Geracao s6-4",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/audi/s6-4/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "audi-s6-4-0-tfsi-quattro-s-tronic-4p-2013-gasolina",
+      "fipeCodigo": "008202-3",
+      "displayName": "Audi S6 4.0 TFSI Quattro S-Tronic 4p",
+      "valorAtual": 214687,
+      "canonicalPath": "/fipe/audi/s6-4-0-tfsi-quattro-s-tronic-4p-2013-008202-3/",
+      "ano": 2013,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-s6-4-0-tfsi-quattro-s-tronic-4p-2014-gasolina",
+      "fipeCodigo": "008202-3",
+      "displayName": "Audi S6 4.0 TFSI Quattro S-Tronic 4p",
+      "valorAtual": 225039,
+      "canonicalPath": "/fipe/audi/s6-4-0-tfsi-quattro-s-tronic-4p-2014-008202-3/",
+      "ano": 2014,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-s6-4-0-tfsi-quattro-s-tronic-4p-2015-gasolina",
+      "fipeCodigo": "008202-3",
+      "displayName": "Audi S6 4.0 TFSI Quattro S-Tronic 4p",
+      "valorAtual": 246887,
+      "canonicalPath": "/fipe/audi/s6-4-0-tfsi-quattro-s-tronic-4p-2015-008202-3/",
+      "ano": 2015,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-s6-4-0-tfsi-quattro-s-tronic-4p-2016-gasolina",
+      "fipeCodigo": "008202-3",
+      "displayName": "Audi S6 4.0 TFSI Quattro S-Tronic 4p",
+      "valorAtual": 323757,
+      "canonicalPath": "/fipe/audi/s6-4-0-tfsi-quattro-s-tronic-4p-2016-008202-3/",
+      "ano": 2016,
+      "marca": "Audi"
+    }
+  ],
+  "stats": {
+    "total": 4
+  },
+  "meta": {
+    "geracaoId": "s6-4"
+  }
+}

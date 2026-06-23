@@ -1,0 +1,62 @@
+{
+  "tipo": "familia",
+  "slug": "fy250",
+  "canonicalPath": "/fipe/fym/fy250/",
+  "titulo": "FYM fy250 - Tabela FIPE",
+  "descricao": "4 versoes e anos do FYM fy250 na Tabela FIPE.",
+  "seo": {
+    "title": "FYM fy250 - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes FYM fy250. 4 veiculos indexados.",
+    "h1": "FYM fy250 - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/fym/fy250/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "fym-fy250-250cc-2009-gasolina",
+      "fipeCodigo": "849002-3",
+      "displayName": "FYM FY250 250cc",
+      "valorAtual": 9584,
+      "canonicalPath": "/fipe/fym/fy250-250cc-2009-849002-3/",
+      "ano": 2009,
+      "marca": "FYM"
+    },
+    {
+      "vehicleId": "fym-fy250-250cc-2008-gasolina",
+      "fipeCodigo": "849002-3",
+      "displayName": "FYM FY250 250cc",
+      "valorAtual": 8870,
+      "canonicalPath": "/fipe/fym/fy250-250cc-2008-849002-3/",
+      "ano": 2008,
+      "marca": "FYM"
+    },
+    {
+      "vehicleId": "fym-fy250-250cc-2007-gasolina",
+      "fipeCodigo": "849002-3",
+      "displayName": "FYM FY250 250cc",
+      "valorAtual": 8501,
+      "canonicalPath": "/fipe/fym/fy250-250cc-2007-849002-3/",
+      "ano": 2007,
+      "marca": "FYM"
+    },
+    {
+      "vehicleId": "fym-fy250-250cc-2006-gasolina",
+      "fipeCodigo": "849002-3",
+      "displayName": "FYM FY250 250cc",
+      "valorAtual": 6135,
+      "canonicalPath": "/fipe/fym/fy250-250cc-2006-849002-3/",
+      "ano": 2006,
+      "marca": "FYM"
+    }
+  ],
+  "stats": {
+    "total": 4,
+    "precoMin": 6135,
+    "precoMax": 9584,
+    "anos": [
+      2009,
+      2008,
+      2007,
+      2006
+    ]
+  }
+}

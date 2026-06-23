@@ -1,0 +1,139 @@
+{
+  "tipo": "familia",
+  "slug": "mp3",
+  "canonicalPath": "/fipe/piaggio/mp3/",
+  "titulo": "PIAGGIO mp3 - Tabela FIPE",
+  "descricao": "12 versoes e anos do PIAGGIO mp3 na Tabela FIPE.",
+  "seo": {
+    "title": "PIAGGIO mp3 - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes PIAGGIO mp3. 12 veiculos indexados.",
+    "h1": "PIAGGIO mp3 - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/piaggio/mp3/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "piaggio-mp3-530-hpe-2025-gasolina",
+      "fipeCodigo": "822046-8",
+      "displayName": "PIAGGIO MP3 530 HPE",
+      "valorAtual": 132657,
+      "canonicalPath": "/fipe/piaggio/mp3-530-hpe-2025-822046-8/",
+      "ano": 2025,
+      "marca": "PIAGGIO"
+    },
+    {
+      "vehicleId": "piaggio-mp3-530-hpe-2024-gasolina",
+      "fipeCodigo": "822046-8",
+      "displayName": "PIAGGIO MP3 530 HPE",
+      "valorAtual": 128869,
+      "canonicalPath": "/fipe/piaggio/mp3-530-hpe-2024-822046-8/",
+      "ano": 2024,
+      "marca": "PIAGGIO"
+    },
+    {
+      "vehicleId": "piaggio-mp3-300-278cc-2013-gasolina",
+      "fipeCodigo": "822026-3",
+      "displayName": "PIAGGIO MP3 300 278cc",
+      "valorAtual": 27571,
+      "canonicalPath": "/fipe/piaggio/mp3-300-278cc-2013-822026-3/",
+      "ano": 2013,
+      "marca": "PIAGGIO"
+    },
+    {
+      "vehicleId": "piaggio-mp3-500-493cc-2013-gasolina",
+      "fipeCodigo": "822021-2",
+      "displayName": "PIAGGIO MP3 500 493cc",
+      "valorAtual": 35653,
+      "canonicalPath": "/fipe/piaggio/mp3-500-493cc-2013-822021-2/",
+      "ano": 2013,
+      "marca": "PIAGGIO"
+    },
+    {
+      "vehicleId": "piaggio-mp3-300-278cc-2012-gasolina",
+      "fipeCodigo": "822026-3",
+      "displayName": "PIAGGIO MP3 300 278cc",
+      "valorAtual": 26880,
+      "canonicalPath": "/fipe/piaggio/mp3-300-278cc-2012-822026-3/",
+      "ano": 2012,
+      "marca": "PIAGGIO"
+    },
+    {
+      "vehicleId": "piaggio-mp3-500-493cc-2012-gasolina",
+      "fipeCodigo": "822021-2",
+      "displayName": "PIAGGIO MP3 500 493cc",
+      "valorAtual": 34783,
+      "canonicalPath": "/fipe/piaggio/mp3-500-493cc-2012-822021-2/",
+      "ano": 2012,
+      "marca": "PIAGGIO"
+    },
+    {
+      "vehicleId": "piaggio-mp3-500-493cc-2011-gasolina",
+      "fipeCodigo": "822021-2",
+      "displayName": "PIAGGIO MP3 500 493cc",
+      "valorAtual": 31876,
+      "canonicalPath": "/fipe/piaggio/mp3-500-493cc-2011-822021-2/",
+      "ano": 2011,
+      "marca": "PIAGGIO"
+    },
+    {
+      "vehicleId": "piaggio-mp3-400-398cc-2010-gasolina",
+      "fipeCodigo": "822019-0",
+      "displayName": "PIAGGIO MP3 400 398cc",
+      "valorAtual": 29607,
+      "canonicalPath": "/fipe/piaggio/mp3-400-398cc-2010-822019-0/",
+      "ano": 2010,
+      "marca": "PIAGGIO"
+    },
+    {
+      "vehicleId": "piaggio-mp3-500-493cc-2010-gasolina",
+      "fipeCodigo": "822021-2",
+      "displayName": "PIAGGIO MP3 500 493cc",
+      "valorAtual": 31098,
+      "canonicalPath": "/fipe/piaggio/mp3-500-493cc-2010-822021-2/",
+      "ano": 2010,
+      "marca": "PIAGGIO"
+    },
+    {
+      "vehicleId": "piaggio-mp3-400-398cc-2009-gasolina",
+      "fipeCodigo": "822019-0",
+      "displayName": "PIAGGIO MP3 400 398cc",
+      "valorAtual": 28858,
+      "canonicalPath": "/fipe/piaggio/mp3-400-398cc-2009-822019-0/",
+      "ano": 2009,
+      "marca": "PIAGGIO"
+    },
+    {
+      "vehicleId": "piaggio-mp3-400-398cc-2008-gasolina",
+      "fipeCodigo": "822019-0",
+      "displayName": "PIAGGIO MP3 400 398cc",
+      "valorAtual": 27300,
+      "canonicalPath": "/fipe/piaggio/mp3-400-398cc-2008-822019-0/",
+      "ano": 2008,
+      "marca": "PIAGGIO"
+    },
+    {
+      "vehicleId": "piaggio-mp3-530-hpe-0-gasolina",
+      "fipeCodigo": "822046-8",
+      "displayName": "PIAGGIO MP3 530 HPE",
+      "valorAtual": 139726,
+      "canonicalPath": "/fipe/piaggio/mp3-530-hpe-0-822046-8/",
+      "ano": 0,
+      "marca": "PIAGGIO"
+    }
+  ],
+  "stats": {
+    "total": 12,
+    "precoMin": 26880,
+    "precoMax": 139726,
+    "anos": [
+      2025,
+      2024,
+      2013,
+      2012,
+      2011,
+      2010,
+      2009,
+      2008,
+      0
+    ]
+  }
+}

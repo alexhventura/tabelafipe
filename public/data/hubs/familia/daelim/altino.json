@@ -1,0 +1,82 @@
+{
+  "tipo": "familia",
+  "slug": "altino",
+  "canonicalPath": "/fipe/daelim/altino/",
+  "titulo": "DAELIM altino - Tabela FIPE",
+  "descricao": "6 versoes e anos do DAELIM altino na Tabela FIPE.",
+  "seo": {
+    "title": "DAELIM altino - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes DAELIM altino. 6 veiculos indexados.",
+    "h1": "DAELIM altino - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/daelim/altino/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "daelim-altino-100cc-2002-gasolina",
+      "fipeCodigo": "807001-6",
+      "displayName": "DAELIM ALTINO 100cc",
+      "valorAtual": 1968,
+      "canonicalPath": "/fipe/daelim/altino-100cc-2002-807001-6/",
+      "ano": 2002,
+      "marca": "DAELIM"
+    },
+    {
+      "vehicleId": "daelim-altino-100cc-2001-gasolina",
+      "fipeCodigo": "807001-6",
+      "displayName": "DAELIM ALTINO 100cc",
+      "valorAtual": 1918,
+      "canonicalPath": "/fipe/daelim/altino-100cc-2001-807001-6/",
+      "ano": 2001,
+      "marca": "DAELIM"
+    },
+    {
+      "vehicleId": "daelim-altino-100cc-2000-gasolina",
+      "fipeCodigo": "807001-6",
+      "displayName": "DAELIM ALTINO 100cc",
+      "valorAtual": 1792,
+      "canonicalPath": "/fipe/daelim/altino-100cc-2000-807001-6/",
+      "ano": 2000,
+      "marca": "DAELIM"
+    },
+    {
+      "vehicleId": "daelim-altino-100cc-1999-gasolina",
+      "fipeCodigo": "807001-6",
+      "displayName": "DAELIM ALTINO 100cc",
+      "valorAtual": 1718,
+      "canonicalPath": "/fipe/daelim/altino-100cc-1999-807001-6/",
+      "ano": 1999,
+      "marca": "DAELIM"
+    },
+    {
+      "vehicleId": "daelim-altino-100cc-1998-gasolina",
+      "fipeCodigo": "807001-6",
+      "displayName": "DAELIM ALTINO 100cc",
+      "valorAtual": 1674,
+      "canonicalPath": "/fipe/daelim/altino-100cc-1998-807001-6/",
+      "ano": 1998,
+      "marca": "DAELIM"
+    },
+    {
+      "vehicleId": "daelim-altino-100cc-1997-gasolina",
+      "fipeCodigo": "807001-6",
+      "displayName": "DAELIM ALTINO 100cc",
+      "valorAtual": 1560,
+      "canonicalPath": "/fipe/daelim/altino-100cc-1997-807001-6/",
+      "ano": 1997,
+      "marca": "DAELIM"
+    }
+  ],
+  "stats": {
+    "total": 6,
+    "precoMin": 1560,
+    "precoMax": 1968,
+    "anos": [
+      2002,
+      2001,
+      2000,
+      1999,
+      1998,
+      1997
+    ]
+  }
+}

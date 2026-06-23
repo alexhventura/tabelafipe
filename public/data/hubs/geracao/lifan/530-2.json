@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "530-2",
+  "canonicalPath": "/geracao/lifan/530-2/",
+  "titulo": "Geracao 530-2",
+  "descricao": "2 veiculos da geracao 530-2.",
+  "seo": {
+    "title": "Geracao 530-2 - Precos FIPE",
+    "description": "Veiculos da geracao 530-2 na Tabela FIPE.",
+    "h1": "Geracao 530-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/lifan/530-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "lifan-530-talent-1-5-16v-103cv-4p-2018-gasolina",
+      "fipeCodigo": "077006-0",
+      "displayName": "LIFAN 530 TALENT 1.5 16V 103cv 4p",
+      "valorAtual": 31464,
+      "canonicalPath": "/fipe/lifan/530-talent-1-5-16v-103cv-4p-2018-077006-0/",
+      "ano": 2018,
+      "marca": "LIFAN"
+    },
+    {
+      "vehicleId": "lifan-530-talent-1-5-16v-103cv-4p-2019-gasolina",
+      "fipeCodigo": "077006-0",
+      "displayName": "LIFAN 530 TALENT 1.5 16V 103cv 4p",
+      "valorAtual": 36952,
+      "canonicalPath": "/fipe/lifan/530-talent-1-5-16v-103cv-4p-2019-077006-0/",
+      "ano": 2019,
+      "marca": "LIFAN"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "530-2"
+  }
+}

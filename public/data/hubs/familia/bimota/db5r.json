@@ -1,0 +1,52 @@
+{
+  "tipo": "familia",
+  "slug": "db5r",
+  "canonicalPath": "/fipe/bimota/db5r/",
+  "titulo": "BIMOTA db5r - Tabela FIPE",
+  "descricao": "3 versoes e anos do BIMOTA db5r na Tabela FIPE.",
+  "seo": {
+    "title": "BIMOTA db5r - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes BIMOTA db5r. 3 veiculos indexados.",
+    "h1": "BIMOTA db5r - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/bimota/db5r/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "bimota-db5r-1078cc-2010-gasolina",
+      "fipeCodigo": "828004-5",
+      "displayName": "BIMOTA DB5R 1078cc",
+      "valorAtual": 40797,
+      "canonicalPath": "/fipe/bimota/db5r-1078cc-2010-828004-5/",
+      "ano": 2010,
+      "marca": "BIMOTA"
+    },
+    {
+      "vehicleId": "bimota-db5r-1078cc-2009-gasolina",
+      "fipeCodigo": "828004-5",
+      "displayName": "BIMOTA DB5R 1078cc",
+      "valorAtual": 39524,
+      "canonicalPath": "/fipe/bimota/db5r-1078cc-2009-828004-5/",
+      "ano": 2009,
+      "marca": "BIMOTA"
+    },
+    {
+      "vehicleId": "bimota-db5r-1078cc-2008-gasolina",
+      "fipeCodigo": "828004-5",
+      "displayName": "BIMOTA DB5R 1078cc",
+      "valorAtual": 37415,
+      "canonicalPath": "/fipe/bimota/db5r-1078cc-2008-828004-5/",
+      "ano": 2008,
+      "marca": "BIMOTA"
+    }
+  ],
+  "stats": {
+    "total": 3,
+    "precoMin": 37415,
+    "precoMax": 40797,
+    "anos": [
+      2010,
+      2009,
+      2008
+    ]
+  }
+}

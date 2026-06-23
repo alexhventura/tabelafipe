@@ -1,0 +1,42 @@
+{
+  "tipo": "familia",
+  "slug": "sl",
+  "canonicalPath": "/fipe/saturn/sl/",
+  "titulo": "Saturn sl - Tabela FIPE",
+  "descricao": "2 versoes e anos do Saturn sl na Tabela FIPE.",
+  "seo": {
+    "title": "Saturn sl - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes Saturn sl. 2 veiculos indexados.",
+    "h1": "Saturn sl - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/saturn/sl/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "saturn-sl-2-1-9-1992-gasolina",
+      "fipeCodigo": "054001-3",
+      "displayName": "Saturn SL-2 1.9",
+      "valorAtual": 19208,
+      "canonicalPath": "/fipe/saturn/sl-2-1-9-1992-054001-3/",
+      "ano": 1992,
+      "marca": "Saturn"
+    },
+    {
+      "vehicleId": "saturn-sl-2-1-9-1991-gasolina",
+      "fipeCodigo": "054001-3",
+      "displayName": "Saturn SL-2 1.9",
+      "valorAtual": 11577,
+      "canonicalPath": "/fipe/saturn/sl-2-1-9-1991-054001-3/",
+      "ano": 1991,
+      "marca": "Saturn"
+    }
+  ],
+  "stats": {
+    "total": 2,
+    "precoMin": 11577,
+    "precoMax": 19208,
+    "anos": [
+      1992,
+      1991
+    ]
+  }
+}

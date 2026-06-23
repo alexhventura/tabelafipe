@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "fr110-2",
+  "canonicalPath": "/geracao/fever/fr110-2/",
+  "titulo": "Geracao fr110-2",
+  "descricao": "2 veiculos da geracao fr110-2.",
+  "seo": {
+    "title": "Geracao fr110-2 - Precos FIPE",
+    "description": "Veiculos da geracao fr110-2 na Tabela FIPE.",
+    "h1": "Geracao fr110-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/fever/fr110-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "fever-fr110-box-eletrica-2025-eletrico",
+      "fipeCodigo": "897006-8",
+      "displayName": "FEVER FR110 BOX (Elétrica)",
+      "valorAtual": 48192,
+      "canonicalPath": "/fipe/fever/fr110-box-eletrica-2025-897006-8/",
+      "ano": 2025,
+      "marca": "FEVER"
+    },
+    {
+      "vehicleId": "fever-fr110-box-eletrica-2026-eletrico",
+      "fipeCodigo": "897006-8",
+      "displayName": "FEVER FR110 BOX (Elétrica)",
+      "valorAtual": 53271,
+      "canonicalPath": "/fipe/fever/fr110-box-eletrica-2026-897006-8/",
+      "ano": 2026,
+      "marca": "FEVER"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "fr110-2"
+  }
+}

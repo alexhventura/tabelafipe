@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "superduke-2",
+  "canonicalPath": "/geracao/ktm/superduke-2/",
+  "titulo": "Geracao superduke-2",
+  "descricao": "2 veiculos da geracao superduke-2.",
+  "seo": {
+    "title": "Geracao superduke-2 - Precos FIPE",
+    "description": "Veiculos da geracao superduke-2 na Tabela FIPE.",
+    "h1": "Geracao superduke-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/ktm/superduke-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "ktm-superduke-1290-r-2014-gasolina",
+      "fipeCodigo": "818039-3",
+      "displayName": "KTM SUPERDUKE 1290 R",
+      "valorAtual": 53565,
+      "canonicalPath": "/fipe/ktm/superduke-1290-r-2014-818039-3/",
+      "ano": 2014,
+      "marca": "KTM"
+    },
+    {
+      "vehicleId": "ktm-superduke-1290-r-2015-gasolina",
+      "fipeCodigo": "818039-3",
+      "displayName": "KTM SUPERDUKE 1290 R",
+      "valorAtual": 71116,
+      "canonicalPath": "/fipe/ktm/superduke-1290-r-2015-818039-3/",
+      "ano": 2015,
+      "marca": "KTM"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "superduke-2"
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "tipo": "geracao",
+  "slug": "dl-1",
+  "canonicalPath": "/geracao/haojue/dl-1/",
+  "titulo": "Geracao dl-1",
+  "descricao": "6 veiculos da geracao dl-1.",
+  "seo": {
+    "title": "Geracao dl-1 - Precos FIPE",
+    "description": "Veiculos da geracao dl-1 na Tabela FIPE.",
+    "h1": "Geracao dl-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/haojue/dl-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "haojue-dl-160-0-gasolina",
+      "fipeCodigo": "885014-3",
+      "displayName": "HAOJUE DL 160",
+      "valorAtual": 22831,
+      "canonicalPath": "/fipe/haojue/dl-160-0-885014-3/",
+      "ano": 0,
+      "marca": "HAOJUE"
+    },
+    {
+      "vehicleId": "suzuki-dl-1050-v-strom-0-gasolina",
+      "fipeCodigo": "825081-2",
+      "displayName": "SUZUKI DL 1050 V-STROM",
+      "valorAtual": 78706,
+      "canonicalPath": "/fipe/suzuki/dl-1050-v-strom-0-825081-2/",
+      "ano": 0,
+      "marca": "SUZUKI"
+    },
+    {
+      "vehicleId": "suzuki-dl-1050-xt-v-strom-0-gasolina",
+      "fipeCodigo": "825079-0",
+      "displayName": "SUZUKI DL 1050 XT V-STROM",
+      "valorAtual": 87248,
+      "canonicalPath": "/fipe/suzuki/dl-1050-xt-v-strom-0-825079-0/",
+      "ano": 0,
+      "marca": "SUZUKI"
+    },
+    {
+      "vehicleId": "suzuki-dl-650-xt-v-strom-0-gasolina",
+      "fipeCodigo": "825070-7",
+      "displayName": "SUZUKI DL 650 XT V-STROM",
+      "valorAtual": 59661,
+      "canonicalPath": "/fipe/suzuki/dl-650-xt-v-strom-0-825070-7/",
+      "ano": 0,
+      "marca": "SUZUKI"
+    },
+    {
+      "vehicleId": "suzuki-dl-800-de-v-strom-0-gasolina",
+      "fipeCodigo": "825082-0",
+      "displayName": "SUZUKI DL 800 DE V-STROM",
+      "valorAtual": 68738,
+      "canonicalPath": "/fipe/suzuki/dl-800-de-v-strom-0-825082-0/",
+      "ano": 0,
+      "marca": "SUZUKI"
+    },
+    {
+      "vehicleId": "suzuki-dl-800-v-strom-0-gasolina",
+      "fipeCodigo": "825087-1",
+      "displayName": "SUZUKI DL 800 V-STROM",
+      "valorAtual": 66867,
+      "canonicalPath": "/fipe/suzuki/dl-800-v-strom-0-825087-1/",
+      "ano": 0,
+      "marca": "SUZUKI"
+    }
+  ],
+  "stats": {
+    "total": 6
+  },
+  "meta": {
+    "geracaoId": "dl-1"
+  }
+}

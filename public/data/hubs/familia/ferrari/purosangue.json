@@ -1,0 +1,72 @@
+{
+  "tipo": "familia",
+  "slug": "purosangue",
+  "canonicalPath": "/fipe/ferrari/purosangue/",
+  "titulo": "Ferrari purosangue - Tabela FIPE",
+  "descricao": "5 versoes e anos do Ferrari purosangue na Tabela FIPE.",
+  "seo": {
+    "title": "Ferrari purosangue - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes Ferrari purosangue. 5 veiculos indexados.",
+    "h1": "Ferrari purosangue - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/ferrari/purosangue/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "ferrari-purosangue-6-5-v12-725cv-2026-gasolina",
+      "fipeCodigo": "031056-5",
+      "displayName": "Ferrari PUROSANGUE 6.5 V12 725cv",
+      "valorAtual": 7282545,
+      "canonicalPath": "/fipe/ferrari/purosangue-6-5-v12-725cv-2026-031056-5/",
+      "ano": 2026,
+      "marca": "Ferrari"
+    },
+    {
+      "vehicleId": "ferrari-purosangue-6-5-v12-725cv-2025-gasolina",
+      "fipeCodigo": "031056-5",
+      "displayName": "Ferrari PUROSANGUE 6.5 V12 725cv",
+      "valorAtual": 7093198,
+      "canonicalPath": "/fipe/ferrari/purosangue-6-5-v12-725cv-2025-031056-5/",
+      "ano": 2025,
+      "marca": "Ferrari"
+    },
+    {
+      "vehicleId": "ferrari-purosangue-6-5-v12-725cv-2024-gasolina",
+      "fipeCodigo": "031056-5",
+      "displayName": "Ferrari PUROSANGUE 6.5 V12 725cv",
+      "valorAtual": 6838500,
+      "canonicalPath": "/fipe/ferrari/purosangue-6-5-v12-725cv-2024-031056-5/",
+      "ano": 2024,
+      "marca": "Ferrari"
+    },
+    {
+      "vehicleId": "ferrari-purosangue-6-5-v12-725cv-2023-gasolina",
+      "fipeCodigo": "031056-5",
+      "displayName": "Ferrari PUROSANGUE 6.5 V12 725cv",
+      "valorAtual": 6491158,
+      "canonicalPath": "/fipe/ferrari/purosangue-6-5-v12-725cv-2023-031056-5/",
+      "ano": 2023,
+      "marca": "Ferrari"
+    },
+    {
+      "vehicleId": "ferrari-purosangue-6-5-v12-725cv-0-gasolina",
+      "fipeCodigo": "031056-5",
+      "displayName": "Ferrari PUROSANGUE 6.5 V12 725cv",
+      "valorAtual": 7854366,
+      "canonicalPath": "/fipe/ferrari/purosangue-6-5-v12-725cv-0-031056-5/",
+      "ano": 0,
+      "marca": "Ferrari"
+    }
+  ],
+  "stats": {
+    "total": 5,
+    "precoMin": 6491158,
+    "precoMax": 7854366,
+    "anos": [
+      2026,
+      2025,
+      2024,
+      2023,
+      0
+    ]
+  }
+}

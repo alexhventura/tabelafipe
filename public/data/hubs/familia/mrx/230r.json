@@ -1,0 +1,52 @@
+{
+  "tipo": "familia",
+  "slug": "230r",
+  "canonicalPath": "/fipe/mrx/230r/",
+  "titulo": "MRX 230r - Tabela FIPE",
+  "descricao": "3 versoes e anos do MRX 230r na Tabela FIPE.",
+  "seo": {
+    "title": "MRX 230r - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes MRX 230r. 3 veiculos indexados.",
+    "h1": "MRX 230r - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/mrx/230r/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "mrx-230r-2010-gasolina",
+      "fipeCodigo": "868001-9",
+      "displayName": "MRX 230R",
+      "valorAtual": 5265,
+      "canonicalPath": "/fipe/mrx/230r-2010-868001-9/",
+      "ano": 2010,
+      "marca": "MRX"
+    },
+    {
+      "vehicleId": "mrx-230r-2009-gasolina",
+      "fipeCodigo": "868001-9",
+      "displayName": "MRX 230R",
+      "valorAtual": 4404,
+      "canonicalPath": "/fipe/mrx/230r-2009-868001-9/",
+      "ano": 2009,
+      "marca": "MRX"
+    },
+    {
+      "vehicleId": "mrx-230r-2008-gasolina",
+      "fipeCodigo": "868001-9",
+      "displayName": "MRX 230R",
+      "valorAtual": 3794,
+      "canonicalPath": "/fipe/mrx/230r-2008-868001-9/",
+      "ano": 2008,
+      "marca": "MRX"
+    }
+  ],
+  "stats": {
+    "total": 3,
+    "precoMin": 3794,
+    "precoMax": 5265,
+    "anos": [
+      2010,
+      2009,
+      2008
+    ]
+  }
+}

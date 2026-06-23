@@ -1,0 +1,111 @@
+{
+  "tipo": "geracao",
+  "slug": "scrambler-1",
+  "canonicalPath": "/geracao/ducati/scrambler-1/",
+  "titulo": "Geracao scrambler-1",
+  "descricao": "10 veiculos da geracao scrambler-1.",
+  "seo": {
+    "title": "Geracao scrambler-1 - Precos FIPE",
+    "description": "Veiculos da geracao scrambler-1 na Tabela FIPE.",
+    "h1": "Geracao scrambler-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/ducati/scrambler-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "ducati-scrambler-icon-800cc-0-gasolina",
+      "fipeCodigo": "808062-3",
+      "displayName": "DUCATI SCRAMBLER ICON 800cc",
+      "valorAtual": 78492,
+      "canonicalPath": "/fipe/ducati/scrambler-icon-800cc-0-808062-3/",
+      "ano": 0,
+      "marca": "DUCATI"
+    },
+    {
+      "vehicleId": "triumph-scrambler-1200-x-0-gasolina",
+      "fipeCodigo": "826099-0",
+      "displayName": "TRIUMPH SCRAMBLER 1200 X",
+      "valorAtual": 70045,
+      "canonicalPath": "/fipe/triumph/scrambler-1200-x-0-826099-0/",
+      "ano": 0,
+      "marca": "TRIUMPH"
+    },
+    {
+      "vehicleId": "triumph-scrambler-1200-x-icon-edition-0-gasolina",
+      "fipeCodigo": "826111-3",
+      "displayName": "TRIUMPH SCRAMBLER 1200 X ICON EDITION",
+      "valorAtual": 74785,
+      "canonicalPath": "/fipe/triumph/scrambler-1200-x-icon-edition-0-826111-3/",
+      "ano": 0,
+      "marca": "TRIUMPH"
+    },
+    {
+      "vehicleId": "triumph-scrambler-1200-xe-0-gasolina",
+      "fipeCodigo": "826071-0",
+      "displayName": "TRIUMPH SCRAMBLER 1200 XE",
+      "valorAtual": 82221,
+      "canonicalPath": "/fipe/triumph/scrambler-1200-xe-0-826071-0/",
+      "ano": 0,
+      "marca": "TRIUMPH"
+    },
+    {
+      "vehicleId": "triumph-scrambler-1200-xe-icon-edition-0-gasolina",
+      "fipeCodigo": "826112-1",
+      "displayName": "TRIUMPH SCRAMBLER 1200 XE ICON EDITION",
+      "valorAtual": 83193,
+      "canonicalPath": "/fipe/triumph/scrambler-1200-xe-icon-edition-0-826112-1/",
+      "ano": 0,
+      "marca": "TRIUMPH"
+    },
+    {
+      "vehicleId": "triumph-scrambler-400-x-0-gasolina",
+      "fipeCodigo": "826095-8",
+      "displayName": "TRIUMPH SCRAMBLER 400 X",
+      "valorAtual": 35554,
+      "canonicalPath": "/fipe/triumph/scrambler-400-x-0-826095-8/",
+      "ano": 0,
+      "marca": "TRIUMPH"
+    },
+    {
+      "vehicleId": "triumph-scrambler-400-xc-0-gasolina",
+      "fipeCodigo": "826113-0",
+      "displayName": "TRIUMPH SCRAMBLER 400 XC",
+      "valorAtual": 38078,
+      "canonicalPath": "/fipe/triumph/scrambler-400-xc-0-826113-0/",
+      "ano": 0,
+      "marca": "TRIUMPH"
+    },
+    {
+      "vehicleId": "triumph-scrambler-900-icon-edition-0-gasolina",
+      "fipeCodigo": "826114-8",
+      "displayName": "TRIUMPH SCRAMBLER 900 ICON EDITION",
+      "valorAtual": 57190,
+      "canonicalPath": "/fipe/triumph/scrambler-900-icon-edition-0-826114-8/",
+      "ano": 0,
+      "marca": "TRIUMPH"
+    },
+    {
+      "vehicleId": "triumph-scrambler-900cc-0-gasolina",
+      "fipeCodigo": "826031-1",
+      "displayName": "TRIUMPH SCRAMBLER 900cc",
+      "valorAtual": 55650,
+      "canonicalPath": "/fipe/triumph/scrambler-900cc-0-826031-1/",
+      "ano": 0,
+      "marca": "TRIUMPH"
+    },
+    {
+      "vehicleId": "triumph-scrambler-900cc-stealth-edition-0-gasolina",
+      "fipeCodigo": "826104-0",
+      "displayName": "TRIUMPH SCRAMBLER 900cc STEALTH EDITION",
+      "valorAtual": 56800,
+      "canonicalPath": "/fipe/triumph/scrambler-900cc-stealth-edition-0-826104-0/",
+      "ano": 0,
+      "marca": "TRIUMPH"
+    }
+  ],
+  "stats": {
+    "total": 10
+  },
+  "meta": {
+    "geracaoId": "scrambler-1"
+  }
+}

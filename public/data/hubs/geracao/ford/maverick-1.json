@@ -1,0 +1,57 @@
+{
+  "tipo": "geracao",
+  "slug": "maverick-1",
+  "canonicalPath": "/geracao/ford/maverick-1/",
+  "titulo": "Geracao maverick-1",
+  "descricao": "4 veiculos da geracao maverick-1.",
+  "seo": {
+    "title": "Geracao maverick-1 - Precos FIPE",
+    "description": "Veiculos da geracao maverick-1 na Tabela FIPE.",
+    "h1": "Geracao maverick-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/ford/maverick-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "ford-maverick-l-black-2-0-ecoboost-awd-aut-0-gasolina",
+      "fipeCodigo": "003510-6",
+      "displayName": "Ford Maverick L. Black 2.0 EcoBoost AWD Aut.",
+      "valorAtual": 218429,
+      "canonicalPath": "/fipe/ford/maverick-l-black-2-0-ecoboost-awd-aut-0-003510-6/",
+      "ano": 0,
+      "marca": "Ford"
+    },
+    {
+      "vehicleId": "ford-maverick-lariat-hybrid-2-5-awd-aut-0-hibrido",
+      "fipeCodigo": "003518-1",
+      "displayName": "Ford Maverick Lariat Hybrid 2.5 AWD Aut.",
+      "valorAtual": 239450,
+      "canonicalPath": "/fipe/ford/maverick-lariat-hybrid-2-5-awd-aut-0-003518-1/",
+      "ano": 0,
+      "marca": "Ford"
+    },
+    {
+      "vehicleId": "ford-maverick-lariat-hybrid-2-5-fwd-aut-0-hibrido",
+      "fipeCodigo": "003495-9",
+      "displayName": "Ford Maverick Lariat Hybrid 2.5 FWD Aut.",
+      "valorAtual": 209016,
+      "canonicalPath": "/fipe/ford/maverick-lariat-hybrid-2-5-fwd-aut-0-003495-9/",
+      "ano": 0,
+      "marca": "Ford"
+    },
+    {
+      "vehicleId": "ford-maverick-tremor-2-0-ecoboost-4wd-aut-0-gasolina",
+      "fipeCodigo": "003511-4",
+      "displayName": "Ford Maverick Tremor 2.0 EcoBoost 4WD Aut.",
+      "valorAtual": 239915,
+      "canonicalPath": "/fipe/ford/maverick-tremor-2-0-ecoboost-4wd-aut-0-003511-4/",
+      "ano": 0,
+      "marca": "Ford"
+    }
+  ],
+  "stats": {
+    "total": 4
+  },
+  "meta": {
+    "geracaoId": "maverick-1"
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "tipo": "familia",
+  "slug": "316",
+  "canonicalPath": "/fipe/bmw/316/",
+  "titulo": "BMW 316 - Tabela FIPE",
+  "descricao": "8 versoes e anos do BMW 316 na Tabela FIPE.",
+  "seo": {
+    "title": "BMW 316 - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes BMW 316. 8 veiculos indexados.",
+    "h1": "BMW 316 - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/bmw/316/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "bmw-316-todas-1995-gasolina",
+      "fipeCodigo": "009059-0",
+      "displayName": "BMW 316 (todas)",
+      "valorAtual": 13254,
+      "canonicalPath": "/fipe/bmw/316-todas-1995-009059-0/",
+      "ano": 1995,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-316-todas-1994-gasolina",
+      "fipeCodigo": "009059-0",
+      "displayName": "BMW 316 (todas)",
+      "valorAtual": 11945,
+      "canonicalPath": "/fipe/bmw/316-todas-1994-009059-0/",
+      "ano": 1994,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-316-todas-1993-gasolina",
+      "fipeCodigo": "009059-0",
+      "displayName": "BMW 316 (todas)",
+      "valorAtual": 10963,
+      "canonicalPath": "/fipe/bmw/316-todas-1993-009059-0/",
+      "ano": 1993,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-316-todas-1992-gasolina",
+      "fipeCodigo": "009059-0",
+      "displayName": "BMW 316 (todas)",
+      "valorAtual": 10695,
+      "canonicalPath": "/fipe/bmw/316-todas-1992-009059-0/",
+      "ano": 1992,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-316-todas-1991-gasolina",
+      "fipeCodigo": "009059-0",
+      "displayName": "BMW 316 (todas)",
+      "valorAtual": 10434,
+      "canonicalPath": "/fipe/bmw/316-todas-1991-009059-0/",
+      "ano": 1991,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-316-todas-1990-gasolina",
+      "fipeCodigo": "009059-0",
+      "displayName": "BMW 316 (todas)",
+      "valorAtual": 10179,
+      "canonicalPath": "/fipe/bmw/316-todas-1990-009059-0/",
+      "ano": 1990,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-316-todas-1987-gasolina",
+      "fipeCodigo": "009059-0",
+      "displayName": "BMW 316 (todas)",
+      "valorAtual": 8635,
+      "canonicalPath": "/fipe/bmw/316-todas-1987-009059-0/",
+      "ano": 1987,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-316-todas-1986-gasolina",
+      "fipeCodigo": "009059-0",
+      "displayName": "BMW 316 (todas)",
+      "valorAtual": 7892,
+      "canonicalPath": "/fipe/bmw/316-todas-1986-009059-0/",
+      "ano": 1986,
+      "marca": "BMW"
+    }
+  ],
+  "stats": {
+    "total": 8,
+    "precoMin": 7892,
+    "precoMax": 13254,
+    "anos": [
+      1995,
+      1994,
+      1993,
+      1992,
+      1991,
+      1990,
+      1987,
+      1986
+    ]
+  }
+}

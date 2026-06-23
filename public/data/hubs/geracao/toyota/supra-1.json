@@ -1,0 +1,48 @@
+{
+  "tipo": "geracao",
+  "slug": "supra-1",
+  "canonicalPath": "/geracao/toyota/supra-1/",
+  "titulo": "Geracao supra-1",
+  "descricao": "3 veiculos da geracao supra-1.",
+  "seo": {
+    "title": "Geracao supra-1 - Precos FIPE",
+    "description": "Veiculos da geracao supra-1 na Tabela FIPE.",
+    "h1": "Geracao supra-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/toyota/supra-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "toyota-supra-1993-gasolina",
+      "fipeCodigo": "002023-0",
+      "displayName": "Toyota Supra",
+      "valorAtual": 31442,
+      "canonicalPath": "/fipe/toyota/supra-1993-002023-0/",
+      "ano": 1993,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-supra-1994-gasolina",
+      "fipeCodigo": "002023-0",
+      "displayName": "Toyota Supra",
+      "valorAtual": 33431,
+      "canonicalPath": "/fipe/toyota/supra-1994-002023-0/",
+      "ano": 1994,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-supra-1995-gasolina",
+      "fipeCodigo": "002023-0",
+      "displayName": "Toyota Supra",
+      "valorAtual": 34267,
+      "canonicalPath": "/fipe/toyota/supra-1995-002023-0/",
+      "ano": 1995,
+      "marca": "Toyota"
+    }
+  ],
+  "stats": {
+    "total": 3
+  },
+  "meta": {
+    "geracaoId": "supra-1"
+  }
+}

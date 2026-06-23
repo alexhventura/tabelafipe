@@ -1,0 +1,48 @@
+{
+  "tipo": "geracao",
+  "slug": "tnt-1",
+  "canonicalPath": "/geracao/benelli/tnt-1/",
+  "titulo": "Geracao tnt-1",
+  "descricao": "3 veiculos da geracao tnt-1.",
+  "seo": {
+    "title": "Geracao tnt-1 - Precos FIPE",
+    "description": "Veiculos da geracao tnt-1 na Tabela FIPE.",
+    "h1": "Geracao tnt-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/benelli/tnt-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "benelli-tnt-1130-sport-evo-2008-gasolina",
+      "fipeCodigo": "870002-8",
+      "displayName": "Benelli TNT 1130 Sport evo",
+      "valorAtual": 29485,
+      "canonicalPath": "/fipe/benelli/tnt-1130-sport-evo-2008-870002-8/",
+      "ano": 2008,
+      "marca": "Benelli"
+    },
+    {
+      "vehicleId": "benelli-tnt-899-2008-gasolina",
+      "fipeCodigo": "870001-0",
+      "displayName": "Benelli TNT 899",
+      "valorAtual": 27385,
+      "canonicalPath": "/fipe/benelli/tnt-899-2008-870001-0/",
+      "ano": 2008,
+      "marca": "Benelli"
+    },
+    {
+      "vehicleId": "benelli-tnt-cafe-1130-racer-2008-gasolina",
+      "fipeCodigo": "870005-2",
+      "displayName": "Benelli TNT Café 1130 Racer",
+      "valorAtual": 33355,
+      "canonicalPath": "/fipe/benelli/tnt-cafe-1130-racer-2008-870005-2/",
+      "ano": 2008,
+      "marca": "Benelli"
+    }
+  ],
+  "stats": {
+    "total": 3
+  },
+  "meta": {
+    "geracaoId": "tnt-1"
+  }
+}

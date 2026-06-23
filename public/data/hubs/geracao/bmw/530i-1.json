@@ -1,0 +1,102 @@
+{
+  "tipo": "geracao",
+  "slug": "530i-1",
+  "canonicalPath": "/geracao/bmw/530i-1/",
+  "titulo": "Geracao 530i-1",
+  "descricao": "9 veiculos da geracao 530i-1.",
+  "seo": {
+    "title": "Geracao 530i-1 - Precos FIPE",
+    "description": "Veiculos da geracao 530i-1 na Tabela FIPE.",
+    "h1": "Geracao 530i-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/bmw/530i-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "bmw-530i-ia-1992-gasolina",
+      "fipeCodigo": "009009-3",
+      "displayName": "BMW 530i/iA",
+      "valorAtual": 17332,
+      "canonicalPath": "/fipe/bmw/530i-ia-1992-009009-3/",
+      "ano": 1992,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-530i-ia-1993-gasolina",
+      "fipeCodigo": "009009-3",
+      "displayName": "BMW 530i/iA",
+      "valorAtual": 20033,
+      "canonicalPath": "/fipe/bmw/530i-ia-1993-009009-3/",
+      "ano": 1993,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-530i-ia-1994-gasolina",
+      "fipeCodigo": "009009-3",
+      "displayName": "BMW 530i/iA",
+      "valorAtual": 22801,
+      "canonicalPath": "/fipe/bmw/530i-ia-1994-009009-3/",
+      "ano": 1994,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-530i-ia-1995-gasolina",
+      "fipeCodigo": "009009-3",
+      "displayName": "BMW 530i/iA",
+      "valorAtual": 25096,
+      "canonicalPath": "/fipe/bmw/530i-ia-1995-009009-3/",
+      "ano": 1995,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-530i-ia-1996-gasolina",
+      "fipeCodigo": "009009-3",
+      "displayName": "BMW 530i/iA",
+      "valorAtual": 26201,
+      "canonicalPath": "/fipe/bmw/530i-ia-1996-009009-3/",
+      "ano": 1996,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-530i-ia-touring-1992-gasolina",
+      "fipeCodigo": "009069-7",
+      "displayName": "BMW 530i/iA Touring",
+      "valorAtual": 17392,
+      "canonicalPath": "/fipe/bmw/530i-ia-touring-1992-009069-7/",
+      "ano": 1992,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-530i-ia-touring-1993-gasolina",
+      "fipeCodigo": "009069-7",
+      "displayName": "BMW 530i/iA Touring",
+      "valorAtual": 20082,
+      "canonicalPath": "/fipe/bmw/530i-ia-touring-1993-009069-7/",
+      "ano": 1993,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-530i-ia-touring-1994-gasolina",
+      "fipeCodigo": "009069-7",
+      "displayName": "BMW 530i/iA Touring",
+      "valorAtual": 22943,
+      "canonicalPath": "/fipe/bmw/530i-ia-touring-1994-009069-7/",
+      "ano": 1994,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-530i-ia-touring-1995-gasolina",
+      "fipeCodigo": "009069-7",
+      "displayName": "BMW 530i/iA Touring",
+      "valorAtual": 26337,
+      "canonicalPath": "/fipe/bmw/530i-ia-touring-1995-009069-7/",
+      "ano": 1995,
+      "marca": "BMW"
+    }
+  ],
+  "stats": {
+    "total": 9
+  },
+  "meta": {
+    "geracaoId": "530i-1"
+  }
+}

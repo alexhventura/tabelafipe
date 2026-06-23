@@ -1,0 +1,102 @@
+{
+  "tipo": "geracao",
+  "slug": "125-1",
+  "canonicalPath": "/geracao/kahena/125-1/",
+  "titulo": "Geracao 125-1",
+  "descricao": "9 veiculos da geracao 125-1.",
+  "seo": {
+    "title": "Geracao 125-1 - Precos FIPE",
+    "description": "Veiculos da geracao 125-1 na Tabela FIPE.",
+    "h1": "Geracao 125-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/kahena/125-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "kahena-125-k-top-2009-gasolina",
+      "fipeCodigo": "815005-2",
+      "displayName": "KAHENA 125 K-TOP",
+      "valorAtual": 2279,
+      "canonicalPath": "/fipe/kahena/125-k-top-2009-815005-2/",
+      "ano": 2009,
+      "marca": "KAHENA"
+    },
+    {
+      "vehicleId": "kahena-125-k-top-2010-gasolina",
+      "fipeCodigo": "815005-2",
+      "displayName": "KAHENA 125 K-TOP",
+      "valorAtual": 2403,
+      "canonicalPath": "/fipe/kahena/125-k-top-2010-815005-2/",
+      "ano": 2010,
+      "marca": "KAHENA"
+    },
+    {
+      "vehicleId": "kahena-125-k-top-2011-gasolina",
+      "fipeCodigo": "815005-2",
+      "displayName": "KAHENA 125 K-TOP",
+      "valorAtual": 2736,
+      "canonicalPath": "/fipe/kahena/125-k-top-2011-815005-2/",
+      "ano": 2011,
+      "marca": "KAHENA"
+    },
+    {
+      "vehicleId": "kahena-125-top-2006-gasolina",
+      "fipeCodigo": "815004-4",
+      "displayName": "KAHENA 125 TOP",
+      "valorAtual": 2094,
+      "canonicalPath": "/fipe/kahena/125-top-2006-815004-4/",
+      "ano": 2006,
+      "marca": "KAHENA"
+    },
+    {
+      "vehicleId": "kahena-125-top-2007-gasolina",
+      "fipeCodigo": "815004-4",
+      "displayName": "KAHENA 125 TOP",
+      "valorAtual": 2148,
+      "canonicalPath": "/fipe/kahena/125-top-2007-815004-4/",
+      "ano": 2007,
+      "marca": "KAHENA"
+    },
+    {
+      "vehicleId": "kahena-125-top-2008-gasolina",
+      "fipeCodigo": "815004-4",
+      "displayName": "KAHENA 125 TOP",
+      "valorAtual": 2205,
+      "canonicalPath": "/fipe/kahena/125-top-2008-815004-4/",
+      "ano": 2008,
+      "marca": "KAHENA"
+    },
+    {
+      "vehicleId": "kahena-125-top-2009-gasolina",
+      "fipeCodigo": "815004-4",
+      "displayName": "KAHENA 125 TOP",
+      "valorAtual": 2502,
+      "canonicalPath": "/fipe/kahena/125-top-2009-815004-4/",
+      "ano": 2009,
+      "marca": "KAHENA"
+    },
+    {
+      "vehicleId": "kahena-125-top-2010-gasolina",
+      "fipeCodigo": "815004-4",
+      "displayName": "KAHENA 125 TOP",
+      "valorAtual": 2649,
+      "canonicalPath": "/fipe/kahena/125-top-2010-815004-4/",
+      "ano": 2010,
+      "marca": "KAHENA"
+    },
+    {
+      "vehicleId": "kahena-125-top-2011-gasolina",
+      "fipeCodigo": "815004-4",
+      "displayName": "KAHENA 125 TOP",
+      "valorAtual": 2745,
+      "canonicalPath": "/fipe/kahena/125-top-2011-815004-4/",
+      "ano": 2011,
+      "marca": "KAHENA"
+    }
+  ],
+  "stats": {
+    "total": 9
+  },
+  "meta": {
+    "geracaoId": "125-1"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "tipo": "geracao",
+  "slug": "stealth-1",
+  "canonicalPath": "/geracao/dodge/stealth-1/",
+  "titulo": "Geracao stealth-1",
+  "descricao": "3 veiculos da geracao stealth-1.",
+  "seo": {
+    "title": "Geracao stealth-1 - Precos FIPE",
+    "description": "Veiculos da geracao stealth-1 na Tabela FIPE.",
+    "h1": "Geracao stealth-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/dodge/stealth-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "dodge-stealth-3-0-mpi-1992-gasolina",
+      "fipeCodigo": "013009-5",
+      "displayName": "Dodge Stealth 3.0 MPI",
+      "valorAtual": 101364,
+      "canonicalPath": "/fipe/dodge/stealth-3-0-mpi-1992-013009-5/",
+      "ano": 1992,
+      "marca": "Dodge"
+    },
+    {
+      "vehicleId": "dodge-stealth-3-0-mpi-1993-gasolina",
+      "fipeCodigo": "013009-5",
+      "displayName": "Dodge Stealth 3.0 MPI",
+      "valorAtual": 104607,
+      "canonicalPath": "/fipe/dodge/stealth-3-0-mpi-1993-013009-5/",
+      "ano": 1993,
+      "marca": "Dodge"
+    },
+    {
+      "vehicleId": "dodge-stealth-3-0-mpi-1994-gasolina",
+      "fipeCodigo": "013009-5",
+      "displayName": "Dodge Stealth 3.0 MPI",
+      "valorAtual": 107223,
+      "canonicalPath": "/fipe/dodge/stealth-3-0-mpi-1994-013009-5/",
+      "ano": 1994,
+      "marca": "Dodge"
+    }
+  ],
+  "stats": {
+    "total": 3
+  },
+  "meta": {
+    "geracaoId": "stealth-1"
+  }
+}

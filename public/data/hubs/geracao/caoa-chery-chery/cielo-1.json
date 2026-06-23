@@ -1,0 +1,75 @@
+{
+  "tipo": "geracao",
+  "slug": "cielo-1",
+  "canonicalPath": "/geracao/caoa-chery-chery/cielo-1/",
+  "titulo": "Geracao cielo-1",
+  "descricao": "6 veiculos da geracao cielo-1.",
+  "seo": {
+    "title": "Geracao cielo-1 - Precos FIPE",
+    "description": "Veiculos da geracao cielo-1 na Tabela FIPE.",
+    "h1": "Geracao cielo-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/caoa-chery-chery/cielo-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "caoa-chery-chery-cielo-1-6-16v-119cv-5p-2010-gasolina",
+      "fipeCodigo": "073003-3",
+      "displayName": "Caoa Chery/Chery CIELO 1.6 16V 119cv  5p",
+      "valorAtual": 13284,
+      "canonicalPath": "/fipe/caoa-chery-chery/cielo-1-6-16v-119cv-5p-2010-073003-3/",
+      "ano": 2010,
+      "marca": "Caoa Chery/Chery"
+    },
+    {
+      "vehicleId": "caoa-chery-chery-cielo-1-6-16v-119cv-5p-2011-gasolina",
+      "fipeCodigo": "073003-3",
+      "displayName": "Caoa Chery/Chery CIELO 1.6 16V 119cv  5p",
+      "valorAtual": 16325,
+      "canonicalPath": "/fipe/caoa-chery-chery/cielo-1-6-16v-119cv-5p-2011-073003-3/",
+      "ano": 2011,
+      "marca": "Caoa Chery/Chery"
+    },
+    {
+      "vehicleId": "caoa-chery-chery-cielo-1-6-16v-119cv-5p-2012-gasolina",
+      "fipeCodigo": "073003-3",
+      "displayName": "Caoa Chery/Chery CIELO 1.6 16V 119cv  5p",
+      "valorAtual": 16909,
+      "canonicalPath": "/fipe/caoa-chery-chery/cielo-1-6-16v-119cv-5p-2012-073003-3/",
+      "ano": 2012,
+      "marca": "Caoa Chery/Chery"
+    },
+    {
+      "vehicleId": "caoa-chery-chery-cielo-sedan-1-6-16v-119cv-4p-2010-gasolina",
+      "fipeCodigo": "073004-1",
+      "displayName": "Caoa Chery/Chery CIELO Sedan 1.6 16V 119cv  4p",
+      "valorAtual": 15363,
+      "canonicalPath": "/fipe/caoa-chery-chery/cielo-sedan-1-6-16v-119cv-4p-2010-073004-1/",
+      "ano": 2010,
+      "marca": "Caoa Chery/Chery"
+    },
+    {
+      "vehicleId": "caoa-chery-chery-cielo-sedan-1-6-16v-119cv-4p-2011-gasolina",
+      "fipeCodigo": "073004-1",
+      "displayName": "Caoa Chery/Chery CIELO Sedan 1.6 16V 119cv  4p",
+      "valorAtual": 16841,
+      "canonicalPath": "/fipe/caoa-chery-chery/cielo-sedan-1-6-16v-119cv-4p-2011-073004-1/",
+      "ano": 2011,
+      "marca": "Caoa Chery/Chery"
+    },
+    {
+      "vehicleId": "caoa-chery-chery-cielo-sedan-1-6-16v-119cv-4p-2012-gasolina",
+      "fipeCodigo": "073004-1",
+      "displayName": "Caoa Chery/Chery CIELO Sedan 1.6 16V 119cv  4p",
+      "valorAtual": 18517,
+      "canonicalPath": "/fipe/caoa-chery-chery/cielo-sedan-1-6-16v-119cv-4p-2012-073004-1/",
+      "ano": 2012,
+      "marca": "Caoa Chery/Chery"
+    }
+  ],
+  "stats": {
+    "total": 6
+  },
+  "meta": {
+    "geracaoId": "cielo-1"
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "tipo": "geracao",
+  "slug": "j2-1",
+  "canonicalPath": "/geracao/jac/j2-1/",
+  "titulo": "Geracao j2-1",
+  "descricao": "5 veiculos da geracao j2-1.",
+  "seo": {
+    "title": "Geracao j2-1 - Precos FIPE",
+    "description": "Veiculos da geracao j2-1 na Tabela FIPE.",
+    "h1": "Geracao j2-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/jac/j2-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "jac-j2-1-4-16v-5p-mec-2012-gasolina",
+      "fipeCodigo": "080007-4",
+      "displayName": "JAC J2 1.4 16V 5p Mec.",
+      "valorAtual": 19030,
+      "canonicalPath": "/fipe/jac/j2-1-4-16v-5p-mec-2012-080007-4/",
+      "ano": 2012,
+      "marca": "JAC"
+    },
+    {
+      "vehicleId": "jac-j2-1-4-16v-5p-mec-2013-gasolina",
+      "fipeCodigo": "080007-4",
+      "displayName": "JAC J2 1.4 16V 5p Mec.",
+      "valorAtual": 20303,
+      "canonicalPath": "/fipe/jac/j2-1-4-16v-5p-mec-2013-080007-4/",
+      "ano": 2013,
+      "marca": "JAC"
+    },
+    {
+      "vehicleId": "jac-j2-1-4-16v-5p-mec-2014-gasolina",
+      "fipeCodigo": "080007-4",
+      "displayName": "JAC J2 1.4 16V 5p Mec.",
+      "valorAtual": 24433,
+      "canonicalPath": "/fipe/jac/j2-1-4-16v-5p-mec-2014-080007-4/",
+      "ano": 2014,
+      "marca": "JAC"
+    },
+    {
+      "vehicleId": "jac-j2-1-4-jet-flex-16v-5p-mec-2015-flex",
+      "fipeCodigo": "080012-0",
+      "displayName": "JAC J2 1.4 JET Flex 16V 5p Mec",
+      "valorAtual": 26481,
+      "canonicalPath": "/fipe/jac/j2-1-4-jet-flex-16v-5p-mec-2015-080012-0/",
+      "ano": 2015,
+      "marca": "JAC"
+    },
+    {
+      "vehicleId": "jac-j2-1-4-jet-flex-16v-5p-mec-2016-flex",
+      "fipeCodigo": "080012-0",
+      "displayName": "JAC J2 1.4 JET Flex 16V 5p Mec",
+      "valorAtual": 29475,
+      "canonicalPath": "/fipe/jac/j2-1-4-jet-flex-16v-5p-mec-2016-080012-0/",
+      "ano": 2016,
+      "marca": "JAC"
+    }
+  ],
+  "stats": {
+    "total": 5
+  },
+  "meta": {
+    "geracaoId": "j2-1"
+  }
+}

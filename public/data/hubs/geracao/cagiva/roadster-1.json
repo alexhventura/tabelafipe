@@ -1,0 +1,57 @@
+{
+  "tipo": "geracao",
+  "slug": "roadster-1",
+  "canonicalPath": "/geracao/cagiva/roadster-1/",
+  "titulo": "Geracao roadster-1",
+  "descricao": "4 veiculos da geracao roadster-1.",
+  "seo": {
+    "title": "Geracao roadster-1 - Precos FIPE",
+    "description": "Veiculos da geracao roadster-1 na Tabela FIPE.",
+    "h1": "Geracao roadster-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/cagiva/roadster-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "cagiva-roadster-200cc-1997-gasolina",
+      "fipeCodigo": "805006-6",
+      "displayName": "CAGIVA ROADSTER 200cc",
+      "valorAtual": 2160,
+      "canonicalPath": "/fipe/cagiva/roadster-200cc-1997-805006-6/",
+      "ano": 1997,
+      "marca": "CAGIVA"
+    },
+    {
+      "vehicleId": "cagiva-roadster-200cc-1998-gasolina",
+      "fipeCodigo": "805006-6",
+      "displayName": "CAGIVA ROADSTER 200cc",
+      "valorAtual": 2372,
+      "canonicalPath": "/fipe/cagiva/roadster-200cc-1998-805006-6/",
+      "ano": 1998,
+      "marca": "CAGIVA"
+    },
+    {
+      "vehicleId": "cagiva-roadster-200cc-1999-gasolina",
+      "fipeCodigo": "805006-6",
+      "displayName": "CAGIVA ROADSTER 200cc",
+      "valorAtual": 2464,
+      "canonicalPath": "/fipe/cagiva/roadster-200cc-1999-805006-6/",
+      "ano": 1999,
+      "marca": "CAGIVA"
+    },
+    {
+      "vehicleId": "cagiva-roadster-200cc-2000-gasolina",
+      "fipeCodigo": "805006-6",
+      "displayName": "CAGIVA ROADSTER 200cc",
+      "valorAtual": 2573,
+      "canonicalPath": "/fipe/cagiva/roadster-200cc-2000-805006-6/",
+      "ano": 2000,
+      "marca": "CAGIVA"
+    }
+  ],
+  "stats": {
+    "total": 4
+  },
+  "meta": {
+    "geracaoId": "roadster-1"
+  }
+}

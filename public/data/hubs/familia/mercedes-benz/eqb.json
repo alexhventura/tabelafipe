@@ -1,0 +1,108 @@
+{
+  "tipo": "familia",
+  "slug": "eqb",
+  "canonicalPath": "/fipe/mercedes-benz/eqb/",
+  "titulo": "Mercedes-Benz eqb - Tabela FIPE",
+  "descricao": "9 versoes e anos do Mercedes-Benz eqb na Tabela FIPE.",
+  "seo": {
+    "title": "Mercedes-Benz eqb - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes Mercedes-Benz eqb. 9 veiculos indexados.",
+    "h1": "Mercedes-Benz eqb - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/mercedes-benz/eqb/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "mercedes-benz-eqb-250-2026-eletrico",
+      "fipeCodigo": "021558-9",
+      "displayName": "Mercedes-Benz EQB 250+",
+      "valorAtual": 333828,
+      "canonicalPath": "/fipe/mercedes-benz/eqb-250-2026-021558-9/",
+      "ano": 2026,
+      "marca": "Mercedes-Benz"
+    },
+    {
+      "vehicleId": "mercedes-benz-eqb-250-2025-eletrico",
+      "fipeCodigo": "021558-9",
+      "displayName": "Mercedes-Benz EQB 250+",
+      "valorAtual": 325485,
+      "canonicalPath": "/fipe/mercedes-benz/eqb-250-2025-021558-9/",
+      "ano": 2025,
+      "marca": "Mercedes-Benz"
+    },
+    {
+      "vehicleId": "mercedes-benz-eqb-350-eletrico-2025-eletrico",
+      "fipeCodigo": "021524-4",
+      "displayName": "Mercedes-Benz EQB 350 (Elétrico)",
+      "valorAtual": 330976,
+      "canonicalPath": "/fipe/mercedes-benz/eqb-350-eletrico-2025-021524-4/",
+      "ano": 2025,
+      "marca": "Mercedes-Benz"
+    },
+    {
+      "vehicleId": "mercedes-benz-eqb-350-4matic-amg-line-eletrico-2025-eletrico",
+      "fipeCodigo": "021539-2",
+      "displayName": "Mercedes-Benz EQB 350 4MATIC AMG Line (Elétrico)",
+      "valorAtual": 375988,
+      "canonicalPath": "/fipe/mercedes-benz/eqb-350-4matic-amg-line-eletrico-2025-021539-2/",
+      "ano": 2025,
+      "marca": "Mercedes-Benz"
+    },
+    {
+      "vehicleId": "mercedes-benz-eqb-350-eletrico-2024-eletrico",
+      "fipeCodigo": "021524-4",
+      "displayName": "Mercedes-Benz EQB 350 (Elétrico)",
+      "valorAtual": 314266,
+      "canonicalPath": "/fipe/mercedes-benz/eqb-350-eletrico-2024-021524-4/",
+      "ano": 2024,
+      "marca": "Mercedes-Benz"
+    },
+    {
+      "vehicleId": "mercedes-benz-eqb-350-4matic-amg-line-eletrico-2024-eletrico",
+      "fipeCodigo": "021539-2",
+      "displayName": "Mercedes-Benz EQB 350 4MATIC AMG Line (Elétrico)",
+      "valorAtual": 349929,
+      "canonicalPath": "/fipe/mercedes-benz/eqb-350-4matic-amg-line-eletrico-2024-021539-2/",
+      "ano": 2024,
+      "marca": "Mercedes-Benz"
+    },
+    {
+      "vehicleId": "mercedes-benz-eqb-250-eletrico-2023-eletrico",
+      "fipeCodigo": "021485-0",
+      "displayName": "Mercedes-Benz EQB 250 (Elétrico)",
+      "valorAtual": 253536,
+      "canonicalPath": "/fipe/mercedes-benz/eqb-250-eletrico-2023-021485-0/",
+      "ano": 2023,
+      "marca": "Mercedes-Benz"
+    },
+    {
+      "vehicleId": "mercedes-benz-eqb-250-0-eletrico",
+      "fipeCodigo": "021558-9",
+      "displayName": "Mercedes-Benz EQB 250+",
+      "valorAtual": 360635,
+      "canonicalPath": "/fipe/mercedes-benz/eqb-250-0-021558-9/",
+      "ano": 0,
+      "marca": "Mercedes-Benz"
+    },
+    {
+      "vehicleId": "mercedes-benz-eqb-350-4matic-amg-line-eletrico-0-eletrico",
+      "fipeCodigo": "021539-2",
+      "displayName": "Mercedes-Benz EQB 350 4MATIC AMG Line (Elétrico)",
+      "valorAtual": 449900,
+      "canonicalPath": "/fipe/mercedes-benz/eqb-350-4matic-amg-line-eletrico-0-021539-2/",
+      "ano": 0,
+      "marca": "Mercedes-Benz"
+    }
+  ],
+  "stats": {
+    "total": 9,
+    "precoMin": 253536,
+    "precoMax": 449900,
+    "anos": [
+      2026,
+      2025,
+      2024,
+      2023,
+      0
+    ]
+  }
+}

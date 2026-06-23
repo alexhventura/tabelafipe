@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "hyptec-1",
+  "canonicalPath": "/geracao/gac/hyptec-1/",
+  "titulo": "Geracao hyptec-1",
+  "descricao": "2 veiculos da geracao hyptec-1.",
+  "seo": {
+    "title": "Geracao hyptec-1 - Precos FIPE",
+    "description": "Veiculos da geracao hyptec-1 na Tabela FIPE.",
+    "h1": "Geracao hyptec-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/gac/hyptec-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "gac-hyptec-ht-elite-eletrico-0-eletrico",
+      "fipeCodigo": "304004-6",
+      "displayName": "GAC HYPTEC HT Elite (Elétrico)",
+      "valorAtual": 314990,
+      "canonicalPath": "/fipe/gac/hyptec-ht-elite-eletrico-0-304004-6/",
+      "ano": 0,
+      "marca": "GAC"
+    },
+    {
+      "vehicleId": "gac-hyptec-ht-ultra-eletrico-0-eletrico",
+      "fipeCodigo": "304005-4",
+      "displayName": "GAC HYPTEC HT Ultra (Elétrico)",
+      "valorAtual": 369990,
+      "canonicalPath": "/fipe/gac/hyptec-ht-ultra-eletrico-0-304005-4/",
+      "ano": 0,
+      "marca": "GAC"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "hyptec-1"
+  }
+}

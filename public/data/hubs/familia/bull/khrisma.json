@@ -1,0 +1,52 @@
+{
+  "tipo": "familia",
+  "slug": "khrisma",
+  "canonicalPath": "/fipe/bull/khrisma/",
+  "titulo": "BULL khrisma - Tabela FIPE",
+  "descricao": "3 versoes e anos do BULL khrisma na Tabela FIPE.",
+  "seo": {
+    "title": "BULL khrisma - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes BULL khrisma. 3 veiculos indexados.",
+    "h1": "BULL khrisma - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/bull/khrisma/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "bull-khrisma-50-2022-gasolina",
+      "fipeCodigo": "888012-3",
+      "displayName": "BULL KHRISMA 50",
+      "valorAtual": 6008,
+      "canonicalPath": "/fipe/bull/khrisma-50-2022-888012-3/",
+      "ano": 2022,
+      "marca": "BULL"
+    },
+    {
+      "vehicleId": "bull-khrisma-50-2021-gasolina",
+      "fipeCodigo": "888012-3",
+      "displayName": "BULL KHRISMA 50",
+      "valorAtual": 5677,
+      "canonicalPath": "/fipe/bull/khrisma-50-2021-888012-3/",
+      "ano": 2021,
+      "marca": "BULL"
+    },
+    {
+      "vehicleId": "bull-khrisma-50-2020-gasolina",
+      "fipeCodigo": "888012-3",
+      "displayName": "BULL KHRISMA 50",
+      "valorAtual": 5129,
+      "canonicalPath": "/fipe/bull/khrisma-50-2020-888012-3/",
+      "ano": 2020,
+      "marca": "BULL"
+    }
+  ],
+  "stats": {
+    "total": 3,
+    "precoMin": 5129,
+    "precoMax": 6008,
+    "anos": [
+      2022,
+      2021,
+      2020
+    ]
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "tipo": "familia",
+  "slug": "terrano",
+  "canonicalPath": "/fipe/nissan/terrano/",
+  "titulo": "Nissan terrano - Tabela FIPE",
+  "descricao": "5 versoes e anos do Nissan terrano na Tabela FIPE.",
+  "seo": {
+    "title": "Nissan terrano - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes Nissan terrano. 5 veiculos indexados.",
+    "h1": "Nissan terrano - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/nissan/terrano/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "nissan-terrano-ii-se-2-7-diesel-1997-diesel",
+      "fipeCodigo": "023033-2",
+      "displayName": "Nissan Terrano II SE 2.7 Diesel",
+      "valorAtual": 28103,
+      "canonicalPath": "/fipe/nissan/terrano-ii-se-2-7-diesel-1997-023033-2/",
+      "ano": 1997,
+      "marca": "Nissan"
+    },
+    {
+      "vehicleId": "nissan-terrano-ii-slx-2-7-diesel-1997-diesel",
+      "fipeCodigo": "023034-0",
+      "displayName": "Nissan Terrano II SLX 2.7 Diesel",
+      "valorAtual": 28545,
+      "canonicalPath": "/fipe/nissan/terrano-ii-slx-2-7-diesel-1997-023034-0/",
+      "ano": 1997,
+      "marca": "Nissan"
+    },
+    {
+      "vehicleId": "nissan-terrano-ii-se-2-7-diesel-1996-diesel",
+      "fipeCodigo": "023033-2",
+      "displayName": "Nissan Terrano II SE 2.7 Diesel",
+      "valorAtual": 26343,
+      "canonicalPath": "/fipe/nissan/terrano-ii-se-2-7-diesel-1996-023033-2/",
+      "ano": 1996,
+      "marca": "Nissan"
+    },
+    {
+      "vehicleId": "nissan-terrano-ii-slx-2-7-diesel-1996-diesel",
+      "fipeCodigo": "023034-0",
+      "displayName": "Nissan Terrano II SLX 2.7 Diesel",
+      "valorAtual": 26909,
+      "canonicalPath": "/fipe/nissan/terrano-ii-slx-2-7-diesel-1996-023034-0/",
+      "ano": 1996,
+      "marca": "Nissan"
+    },
+    {
+      "vehicleId": "nissan-terrano-ii-slx-2-7-diesel-1995-diesel",
+      "fipeCodigo": "023034-0",
+      "displayName": "Nissan Terrano II SLX 2.7 Diesel",
+      "valorAtual": 24291,
+      "canonicalPath": "/fipe/nissan/terrano-ii-slx-2-7-diesel-1995-023034-0/",
+      "ano": 1995,
+      "marca": "Nissan"
+    }
+  ],
+  "stats": {
+    "total": 5,
+    "precoMin": 24291,
+    "precoMax": 28545,
+    "anos": [
+      1997,
+      1996,
+      1995
+    ]
+  }
+}

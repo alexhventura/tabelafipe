@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "rs7-2",
+  "canonicalPath": "/geracao/audi/rs7-2/",
+  "titulo": "Geracao rs7-2",
+  "descricao": "2 veiculos da geracao rs7-2.",
+  "seo": {
+    "title": "Geracao rs7-2 - Precos FIPE",
+    "description": "Veiculos da geracao rs7-2 na Tabela FIPE.",
+    "h1": "Geracao rs7-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/audi/rs7-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "audi-rs7-sportback-4-0-tfsi-quattro-tiptronic-2021-gasolina",
+      "fipeCodigo": "008194-9",
+      "displayName": "Audi RS7 Sportback 4.0 TFSI Quattro Tiptronic",
+      "valorAtual": 764163,
+      "canonicalPath": "/fipe/audi/rs7-sportback-4-0-tfsi-quattro-tiptronic-2021-008194-9/",
+      "ano": 2021,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-rs7-sportback-4-0-tfsi-quattro-tiptronic-2022-gasolina",
+      "fipeCodigo": "008194-9",
+      "displayName": "Audi RS7 Sportback 4.0 TFSI Quattro Tiptronic",
+      "valorAtual": 1056267,
+      "canonicalPath": "/fipe/audi/rs7-sportback-4-0-tfsi-quattro-tiptronic-2022-008194-9/",
+      "ano": 2022,
+      "marca": "Audi"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "rs7-2"
+  }
+}

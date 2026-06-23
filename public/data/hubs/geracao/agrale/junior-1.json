@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "junior-1",
+  "canonicalPath": "/geracao/agrale/junior-1/",
+  "titulo": "Geracao junior-1",
+  "descricao": "2 veiculos da geracao junior-1.",
+  "seo": {
+    "title": "Geracao junior-1 - Precos FIPE",
+    "description": "Veiculos da geracao junior-1 na Tabela FIPE.",
+    "h1": "Geracao junior-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/agrale/junior-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "agrale-junior-50-1995-gasolina",
+      "fipeCodigo": "801012-9",
+      "displayName": "AGRALE JUNIOR 50",
+      "valorAtual": 912,
+      "canonicalPath": "/fipe/agrale/junior-50-1995-801012-9/",
+      "ano": 1995,
+      "marca": "AGRALE"
+    },
+    {
+      "vehicleId": "agrale-junior-50-1996-gasolina",
+      "fipeCodigo": "801012-9",
+      "displayName": "AGRALE JUNIOR 50",
+      "valorAtual": 953,
+      "canonicalPath": "/fipe/agrale/junior-50-1996-801012-9/",
+      "ano": 1996,
+      "marca": "AGRALE"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "junior-1"
+  }
+}

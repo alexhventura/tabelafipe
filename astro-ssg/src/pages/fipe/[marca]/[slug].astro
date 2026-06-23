@@ -1,0 +1,46 @@
+---
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+import VehicleSections from '../../../components/VehicleSections.astro';
+import HubSections from '../../../components/HubSections.astro';
+import { getVehiclePaths, getFamilyPaths, loadVehicleBundle, loadFamilyHub } from '../../../lib/paths.server';
+
+export function getStaticPaths() {
+  const vehiclePaths = getVehiclePaths().map(({ marca, slug }) => ({
+    params: { marca, slug },
+    props: { kind: 'vehicle' as const },
+  }));
+
+  const familySlugs = new Set(vehiclePaths.map((p) => `${p.params.marca}/${p.params.slug}`));
+  const familyPaths = getFamilyPaths()
+    .filter(({ marca, slug }) => !familySlugs.has(`${marca}/${slug}`))
+    .map(({ marca, slug }) => ({
+      params: { marca, slug },
+      props: { kind: 'family' as const },
+    }));
+
+  return [...vehiclePaths, ...familyPaths];
+}
+
+const { marca, slug } = Astro.params;
+const { kind } = Astro.props;
+
+const bundle = kind === 'vehicle' ? loadVehicleBundle(marca!, slug!) : null;
+const hub = kind === 'family' ? loadFamilyHub(marca!, slug!) : null;
+
+if (!bundle && !hub) {
+  throw new Error(`Page not found: /fipe/${marca}/${slug}/`);
+}
+
+const seo = bundle?.seo ?? hub!.seo;
+---
+
+<BaseLayout
+  title={seo.title}
+  description={seo.description}
+  canonical={seo.canonical}
+  og={bundle?.seo.og ?? { 'og:title': seo.title, 'og:description': seo.description, 'og:url': seo.canonical }}
+  twitter={bundle?.seo.twitter ?? { 'twitter:card': 'summary_large_image', 'twitter:title': seo.title, 'twitter:description': seo.description }}
+  jsonLd={bundle?.seo.jsonLd ?? []}
+>
+  {bundle ? <VehicleSections bundle={bundle} /> : <HubSections hub={hub!} />}
+</BaseLayout>

@@ -1,0 +1,52 @@
+{
+  "tipo": "familia",
+  "slug": "sq6",
+  "canonicalPath": "/fipe/audi/sq6/",
+  "titulo": "Audi sq6 - Tabela FIPE",
+  "descricao": "3 versoes e anos do Audi sq6 na Tabela FIPE.",
+  "seo": {
+    "title": "Audi sq6 - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes Audi sq6. 3 veiculos indexados.",
+    "h1": "Audi sq6 - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/audi/sq6/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "audi-sq6-sportback-e-tron-quattro-eletrico-2026-eletrico",
+      "fipeCodigo": "008325-9",
+      "displayName": "Audi SQ6 Sportback E-Tron Quattro (Elétrico)",
+      "valorAtual": 698858,
+      "canonicalPath": "/fipe/audi/sq6-sportback-e-tron-quattro-eletrico-2026-008325-9/",
+      "ano": 2026,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-sq6-sportback-e-tron-quattro-eletrico-2025-eletrico",
+      "fipeCodigo": "008325-9",
+      "displayName": "Audi SQ6 Sportback E-Tron Quattro (Elétrico)",
+      "valorAtual": 636358,
+      "canonicalPath": "/fipe/audi/sq6-sportback-e-tron-quattro-eletrico-2025-008325-9/",
+      "ano": 2025,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-sq6-sportback-e-tron-quattro-eletrico-0-eletrico",
+      "fipeCodigo": "008325-9",
+      "displayName": "Audi SQ6 Sportback E-Tron Quattro (Elétrico)",
+      "valorAtual": 808210,
+      "canonicalPath": "/fipe/audi/sq6-sportback-e-tron-quattro-eletrico-0-008325-9/",
+      "ano": 0,
+      "marca": "Audi"
+    }
+  ],
+  "stats": {
+    "total": 3,
+    "precoMin": 636358,
+    "precoMax": 808210,
+    "anos": [
+      2026,
+      2025,
+      0
+    ]
+  }
+}

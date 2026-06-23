@@ -1,0 +1,72 @@
+{
+  "tipo": "familia",
+  "slug": "330ci",
+  "canonicalPath": "/fipe/bmw/330ci/",
+  "titulo": "BMW 330ci - Tabela FIPE",
+  "descricao": "5 versoes e anos do BMW 330ci na Tabela FIPE.",
+  "seo": {
+    "title": "BMW 330ci - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes BMW 330ci. 5 veiculos indexados.",
+    "h1": "BMW 330ci - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/bmw/330ci/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "bmw-330ci-cabriolet-2004-gasolina",
+      "fipeCodigo": "009093-0",
+      "displayName": "BMW 330Ci Cabriolet",
+      "valorAtual": 69446,
+      "canonicalPath": "/fipe/bmw/330ci-cabriolet-2004-009093-0/",
+      "ano": 2004,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-330ci-cabriolet-2003-gasolina",
+      "fipeCodigo": "009093-0",
+      "displayName": "BMW 330Ci Cabriolet",
+      "valorAtual": 66560,
+      "canonicalPath": "/fipe/bmw/330ci-cabriolet-2003-009093-0/",
+      "ano": 2003,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-330ci-cabriolet-2002-gasolina",
+      "fipeCodigo": "009093-0",
+      "displayName": "BMW 330Ci Cabriolet",
+      "valorAtual": 64936,
+      "canonicalPath": "/fipe/bmw/330ci-cabriolet-2002-009093-0/",
+      "ano": 2002,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-330ci-cabriolet-2001-gasolina",
+      "fipeCodigo": "009093-0",
+      "displayName": "BMW 330Ci Cabriolet",
+      "valorAtual": 63241,
+      "canonicalPath": "/fipe/bmw/330ci-cabriolet-2001-009093-0/",
+      "ano": 2001,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-330ci-cabriolet-2000-gasolina",
+      "fipeCodigo": "009093-0",
+      "displayName": "BMW 330Ci Cabriolet",
+      "valorAtual": 51732,
+      "canonicalPath": "/fipe/bmw/330ci-cabriolet-2000-009093-0/",
+      "ano": 2000,
+      "marca": "BMW"
+    }
+  ],
+  "stats": {
+    "total": 5,
+    "precoMin": 51732,
+    "precoMax": 69446,
+    "anos": [
+      2004,
+      2003,
+      2002,
+      2001,
+      2000
+    ]
+  }
+}

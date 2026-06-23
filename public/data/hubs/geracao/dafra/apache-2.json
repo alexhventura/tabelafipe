@@ -1,0 +1,75 @@
+{
+  "tipo": "geracao",
+  "slug": "apache-2",
+  "canonicalPath": "/geracao/dafra/apache-2/",
+  "titulo": "Geracao apache-2",
+  "descricao": "6 veiculos da geracao apache-2.",
+  "seo": {
+    "title": "Geracao apache-2 - Precos FIPE",
+    "description": "Veiculos da geracao apache-2 na Tabela FIPE.",
+    "h1": "Geracao apache-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/dafra/apache-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "dafra-apache-rtr-200cc-2019-gasolina",
+      "fipeCodigo": "861025-8",
+      "displayName": "DAFRA APACHE RTR 200cc",
+      "valorAtual": 10374,
+      "canonicalPath": "/fipe/dafra/apache-rtr-200cc-2019-861025-8/",
+      "ano": 2019,
+      "marca": "DAFRA"
+    },
+    {
+      "vehicleId": "dafra-apache-rtr-200cc-2020-gasolina",
+      "fipeCodigo": "861025-8",
+      "displayName": "DAFRA APACHE RTR 200cc",
+      "valorAtual": 10634,
+      "canonicalPath": "/fipe/dafra/apache-rtr-200cc-2020-861025-8/",
+      "ano": 2020,
+      "marca": "DAFRA"
+    },
+    {
+      "vehicleId": "dafra-apache-rtr-200cc-2021-gasolina",
+      "fipeCodigo": "861025-8",
+      "displayName": "DAFRA APACHE RTR 200cc",
+      "valorAtual": 12469,
+      "canonicalPath": "/fipe/dafra/apache-rtr-200cc-2021-861025-8/",
+      "ano": 2021,
+      "marca": "DAFRA"
+    },
+    {
+      "vehicleId": "dafra-apache-rtr-200cc-2022-gasolina",
+      "fipeCodigo": "861025-8",
+      "displayName": "DAFRA APACHE RTR 200cc",
+      "valorAtual": 12781,
+      "canonicalPath": "/fipe/dafra/apache-rtr-200cc-2022-861025-8/",
+      "ano": 2022,
+      "marca": "DAFRA"
+    },
+    {
+      "vehicleId": "dafra-apache-rtr-200cc-2023-gasolina",
+      "fipeCodigo": "861025-8",
+      "displayName": "DAFRA APACHE RTR 200cc",
+      "valorAtual": 13721,
+      "canonicalPath": "/fipe/dafra/apache-rtr-200cc-2023-861025-8/",
+      "ano": 2023,
+      "marca": "DAFRA"
+    },
+    {
+      "vehicleId": "dafra-apache-rtr-200cc-2024-gasolina",
+      "fipeCodigo": "861025-8",
+      "displayName": "DAFRA APACHE RTR 200cc",
+      "valorAtual": 14765,
+      "canonicalPath": "/fipe/dafra/apache-rtr-200cc-2024-861025-8/",
+      "ano": 2024,
+      "marca": "DAFRA"
+    }
+  ],
+  "stats": {
+    "total": 6
+  },
+  "meta": {
+    "geracaoId": "apache-2"
+  }
+}

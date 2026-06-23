@@ -1,0 +1,60 @@
+{
+  "tipo": "familia",
+  "slug": "aya",
+  "canonicalPath": "/fipe/neta/aya/",
+  "titulo": "NETA aya - Tabela FIPE",
+  "descricao": "4 versoes e anos do NETA aya na Tabela FIPE.",
+  "seo": {
+    "title": "NETA aya - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes NETA aya. 4 veiculos indexados.",
+    "h1": "NETA aya - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/neta/aya/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "neta-aya-comfort-4s-aut-eletrico-2024-eletrico",
+      "fipeCodigo": "092001-0",
+      "displayName": "NETA AYA Comfort 4S Aut. (Elétrico)",
+      "valorAtual": 96903,
+      "canonicalPath": "/fipe/neta/aya-comfort-4s-aut-eletrico-2024-092001-0/",
+      "ano": 2024,
+      "marca": "NETA"
+    },
+    {
+      "vehicleId": "neta-aya-luxury-4s-aut-eletrico-2024-eletrico",
+      "fipeCodigo": "092002-9",
+      "displayName": "NETA AYA Luxury 4S Aut. (Elétrico)",
+      "valorAtual": 113100,
+      "canonicalPath": "/fipe/neta/aya-luxury-4s-aut-eletrico-2024-092002-9/",
+      "ano": 2024,
+      "marca": "NETA"
+    },
+    {
+      "vehicleId": "neta-aya-comfort-4s-aut-eletrico-0-eletrico",
+      "fipeCodigo": "092001-0",
+      "displayName": "NETA AYA Comfort 4S Aut. (Elétrico)",
+      "valorAtual": 128900,
+      "canonicalPath": "/fipe/neta/aya-comfort-4s-aut-eletrico-0-092001-0/",
+      "ano": 0,
+      "marca": "NETA"
+    },
+    {
+      "vehicleId": "neta-aya-luxury-4s-aut-eletrico-0-eletrico",
+      "fipeCodigo": "092002-9",
+      "displayName": "NETA AYA Luxury 4S Aut. (Elétrico)",
+      "valorAtual": 134900,
+      "canonicalPath": "/fipe/neta/aya-luxury-4s-aut-eletrico-0-092002-9/",
+      "ano": 0,
+      "marca": "NETA"
+    }
+  ],
+  "stats": {
+    "total": 4,
+    "precoMin": 96903,
+    "precoMax": 134900,
+    "anos": [
+      2024,
+      0
+    ]
+  }
+}

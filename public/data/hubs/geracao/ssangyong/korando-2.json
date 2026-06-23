@@ -1,0 +1,48 @@
+{
+  "tipo": "geracao",
+  "slug": "korando-2",
+  "canonicalPath": "/geracao/ssangyong/korando-2/",
+  "titulo": "Geracao korando-2",
+  "descricao": "3 veiculos da geracao korando-2.",
+  "seo": {
+    "title": "Geracao korando-2 - Precos FIPE",
+    "description": "Veiculos da geracao korando-2 na Tabela FIPE.",
+    "h1": "Geracao korando-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/ssangyong/korando-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "ssangyong-korando-2-0-16v-t-diesel-awd-aut-2011-diesel",
+      "fipeCodigo": "055029-9",
+      "displayName": "SSANGYONG Korando 2.0 16V T.Diesel AWD Aut.",
+      "valorAtual": 39770,
+      "canonicalPath": "/fipe/ssangyong/korando-2-0-16v-t-diesel-awd-aut-2011-055029-9/",
+      "ano": 2011,
+      "marca": "SSANGYONG"
+    },
+    {
+      "vehicleId": "ssangyong-korando-2-0-16v-t-diesel-awd-aut-2012-diesel",
+      "fipeCodigo": "055029-9",
+      "displayName": "SSANGYONG Korando 2.0 16V T.Diesel AWD Aut.",
+      "valorAtual": 46996,
+      "canonicalPath": "/fipe/ssangyong/korando-2-0-16v-t-diesel-awd-aut-2012-055029-9/",
+      "ano": 2012,
+      "marca": "SSANGYONG"
+    },
+    {
+      "vehicleId": "ssangyong-korando-2-0-16v-t-diesel-awd-mec-2011-diesel",
+      "fipeCodigo": "055028-0",
+      "displayName": "SSANGYONG Korando 2.0 16V T.Diesel AWD Mec.",
+      "valorAtual": 41270,
+      "canonicalPath": "/fipe/ssangyong/korando-2-0-16v-t-diesel-awd-mec-2011-055028-0/",
+      "ano": 2011,
+      "marca": "SSANGYONG"
+    }
+  ],
+  "stats": {
+    "total": 3
+  },
+  "meta": {
+    "geracaoId": "korando-2"
+  }
+}

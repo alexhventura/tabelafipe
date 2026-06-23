@@ -1,0 +1,62 @@
+{
+  "tipo": "familia",
+  "slug": "atilis",
+  "canonicalPath": "/fipe/mercedes-benz/atilis/",
+  "titulo": "MERCEDES-BENZ atilis - Tabela FIPE",
+  "descricao": "4 versoes e anos do MERCEDES-BENZ atilis na Tabela FIPE.",
+  "seo": {
+    "title": "MERCEDES-BENZ atilis - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes MERCEDES-BENZ atilis. 4 veiculos indexados.",
+    "h1": "MERCEDES-BENZ atilis - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/mercedes-benz/atilis/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "mercedes-benz-atilis-712-e-furgao-caio-4p-diesel-2009-diesel",
+      "fipeCodigo": "509259-0",
+      "displayName": "MERCEDES-BENZ Atilis 712 E Furgão Caio 4p (Diesel)",
+      "valorAtual": 114182,
+      "canonicalPath": "/fipe/mercedes-benz/atilis-712-e-furgao-caio-4p-diesel-2009-509259-0/",
+      "ano": 2009,
+      "marca": "MERCEDES-BENZ"
+    },
+    {
+      "vehicleId": "mercedes-benz-atilis-712-e-furgao-caio-4p-diesel-2008-diesel",
+      "fipeCodigo": "509259-0",
+      "displayName": "MERCEDES-BENZ Atilis 712 E Furgão Caio 4p (Diesel)",
+      "valorAtual": 108292,
+      "canonicalPath": "/fipe/mercedes-benz/atilis-712-e-furgao-caio-4p-diesel-2008-509259-0/",
+      "ano": 2008,
+      "marca": "MERCEDES-BENZ"
+    },
+    {
+      "vehicleId": "mercedes-benz-atilis-712-e-furgao-caio-4p-diesel-2007-diesel",
+      "fipeCodigo": "509259-0",
+      "displayName": "MERCEDES-BENZ Atilis 712 E Furgão Caio 4p (Diesel)",
+      "valorAtual": 89961,
+      "canonicalPath": "/fipe/mercedes-benz/atilis-712-e-furgao-caio-4p-diesel-2007-509259-0/",
+      "ano": 2007,
+      "marca": "MERCEDES-BENZ"
+    },
+    {
+      "vehicleId": "mercedes-benz-atilis-712-e-furgao-caio-4p-diesel-2006-diesel",
+      "fipeCodigo": "509259-0",
+      "displayName": "MERCEDES-BENZ Atilis 712 E Furgão Caio 4p (Diesel)",
+      "valorAtual": 82191,
+      "canonicalPath": "/fipe/mercedes-benz/atilis-712-e-furgao-caio-4p-diesel-2006-509259-0/",
+      "ano": 2006,
+      "marca": "MERCEDES-BENZ"
+    }
+  ],
+  "stats": {
+    "total": 4,
+    "precoMin": 82191,
+    "precoMax": 114182,
+    "anos": [
+      2009,
+      2008,
+      2007,
+      2006
+    ]
+  }
+}

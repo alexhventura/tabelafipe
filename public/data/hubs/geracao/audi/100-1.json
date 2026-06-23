@@ -1,0 +1,84 @@
+{
+  "tipo": "geracao",
+  "slug": "100-1",
+  "canonicalPath": "/geracao/audi/100-1/",
+  "titulo": "Geracao 100-1",
+  "descricao": "7 veiculos da geracao 100-1.",
+  "seo": {
+    "title": "Geracao 100-1 - Precos FIPE",
+    "description": "Veiculos da geracao 100-1 na Tabela FIPE.",
+    "h1": "Geracao 100-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/audi/100-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "audi-100-2-8-v6-1993-gasolina",
+      "fipeCodigo": "008030-6",
+      "displayName": "Audi 100 2.8 V6",
+      "valorAtual": 10405,
+      "canonicalPath": "/fipe/audi/100-2-8-v6-1993-008030-6/",
+      "ano": 1993,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-100-2-8-v6-1994-gasolina",
+      "fipeCodigo": "008030-6",
+      "displayName": "Audi 100 2.8 V6",
+      "valorAtual": 11986,
+      "canonicalPath": "/fipe/audi/100-2-8-v6-1994-008030-6/",
+      "ano": 1994,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-100-2-8-v6-1995-gasolina",
+      "fipeCodigo": "008030-6",
+      "displayName": "Audi 100 2.8 V6",
+      "valorAtual": 12614,
+      "canonicalPath": "/fipe/audi/100-2-8-v6-1995-008030-6/",
+      "ano": 1995,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-100-2-8-v6-avant-1994-gasolina",
+      "fipeCodigo": "008076-4",
+      "displayName": "Audi 100 2.8 V6 Avant",
+      "valorAtual": 12207,
+      "canonicalPath": "/fipe/audi/100-2-8-v6-avant-1994-008076-4/",
+      "ano": 1994,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-100-2-8-v6-avant-1995-gasolina",
+      "fipeCodigo": "008076-4",
+      "displayName": "Audi 100 2.8 V6 Avant",
+      "valorAtual": 13311,
+      "canonicalPath": "/fipe/audi/100-2-8-v6-avant-1995-008076-4/",
+      "ano": 1995,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-100-s-4-2-2-avant-turbo-1994-gasolina",
+      "fipeCodigo": "008031-4",
+      "displayName": "Audi 100 S-4 2.2 Avant Turbo",
+      "valorAtual": 22756,
+      "canonicalPath": "/fipe/audi/100-s-4-2-2-avant-turbo-1994-008031-4/",
+      "ano": 1994,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-100-s-4-2-2-avant-turbo-1995-gasolina",
+      "fipeCodigo": "008031-4",
+      "displayName": "Audi 100 S-4 2.2 Avant Turbo",
+      "valorAtual": 26032,
+      "canonicalPath": "/fipe/audi/100-s-4-2-2-avant-turbo-1995-008031-4/",
+      "ano": 1995,
+      "marca": "Audi"
+    }
+  ],
+  "stats": {
+    "total": 7
+  },
+  "meta": {
+    "geracaoId": "100-1"
+  }
+}

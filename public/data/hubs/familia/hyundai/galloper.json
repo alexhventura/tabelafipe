@@ -1,0 +1,114 @@
+{
+  "tipo": "familia",
+  "slug": "galloper",
+  "canonicalPath": "/fipe/hyundai/galloper/",
+  "titulo": "Hyundai galloper - Tabela FIPE",
+  "descricao": "10 versoes e anos do Hyundai galloper na Tabela FIPE.",
+  "seo": {
+    "title": "Hyundai galloper - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes Hyundai galloper. 10 veiculos indexados.",
+    "h1": "Hyundai galloper - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/hyundai/galloper/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "hyundai-galloper-3-0-v6-luxo-1999-gasolina",
+      "fipeCodigo": "015023-1",
+      "displayName": "Hyundai Galloper 3.0 V6 Luxo",
+      "valorAtual": 19846,
+      "canonicalPath": "/fipe/hyundai/galloper-3-0-v6-luxo-1999-015023-1/",
+      "ano": 1999,
+      "marca": "Hyundai"
+    },
+    {
+      "vehicleId": "hyundai-galloper-3-0-v6-super-luxo-mec-1999-gasolina",
+      "fipeCodigo": "015024-0",
+      "displayName": "Hyundai Galloper 3.0 V6 Super Luxo Mec",
+      "valorAtual": 26176,
+      "canonicalPath": "/fipe/hyundai/galloper-3-0-v6-super-luxo-mec-1999-015024-0/",
+      "ano": 1999,
+      "marca": "Hyundai"
+    },
+    {
+      "vehicleId": "hyundai-galloper-3-0-v6-super-luxo-aut-1999-gasolina",
+      "fipeCodigo": "015025-8",
+      "displayName": "Hyundai Galloper 3.0 V6 Super Luxo Aut",
+      "valorAtual": 29896,
+      "canonicalPath": "/fipe/hyundai/galloper-3-0-v6-super-luxo-aut-1999-015025-8/",
+      "ano": 1999,
+      "marca": "Hyundai"
+    },
+    {
+      "vehicleId": "hyundai-galloper-2-5-luxo-turbo-diesel-1999-diesel",
+      "fipeCodigo": "015022-3",
+      "displayName": "Hyundai Galloper 2.5 Luxo Turbo Diesel",
+      "valorAtual": 31878,
+      "canonicalPath": "/fipe/hyundai/galloper-2-5-luxo-turbo-diesel-1999-015022-3/",
+      "ano": 1999,
+      "marca": "Hyundai"
+    },
+    {
+      "vehicleId": "hyundai-galloper-2-5-super-luxo-turbo-diesel-1999-diesel",
+      "fipeCodigo": "015021-5",
+      "displayName": "Hyundai Galloper 2.5 Super Luxo Turbo Diesel",
+      "valorAtual": 35829,
+      "canonicalPath": "/fipe/hyundai/galloper-2-5-super-luxo-turbo-diesel-1999-015021-5/",
+      "ano": 1999,
+      "marca": "Hyundai"
+    },
+    {
+      "vehicleId": "hyundai-galloper-3-0-v6-luxo-1998-gasolina",
+      "fipeCodigo": "015023-1",
+      "displayName": "Hyundai Galloper 3.0 V6 Luxo",
+      "valorAtual": 16907,
+      "canonicalPath": "/fipe/hyundai/galloper-3-0-v6-luxo-1998-015023-1/",
+      "ano": 1998,
+      "marca": "Hyundai"
+    },
+    {
+      "vehicleId": "hyundai-galloper-3-0-v6-super-luxo-mec-1998-gasolina",
+      "fipeCodigo": "015024-0",
+      "displayName": "Hyundai Galloper 3.0 V6 Super Luxo Mec",
+      "valorAtual": 25120,
+      "canonicalPath": "/fipe/hyundai/galloper-3-0-v6-super-luxo-mec-1998-015024-0/",
+      "ano": 1998,
+      "marca": "Hyundai"
+    },
+    {
+      "vehicleId": "hyundai-galloper-3-0-v6-super-luxo-aut-1998-gasolina",
+      "fipeCodigo": "015025-8",
+      "displayName": "Hyundai Galloper 3.0 V6 Super Luxo Aut",
+      "valorAtual": 25194,
+      "canonicalPath": "/fipe/hyundai/galloper-3-0-v6-super-luxo-aut-1998-015025-8/",
+      "ano": 1998,
+      "marca": "Hyundai"
+    },
+    {
+      "vehicleId": "hyundai-galloper-2-5-luxo-turbo-diesel-1998-diesel",
+      "fipeCodigo": "015022-3",
+      "displayName": "Hyundai Galloper 2.5 Luxo Turbo Diesel",
+      "valorAtual": 26926,
+      "canonicalPath": "/fipe/hyundai/galloper-2-5-luxo-turbo-diesel-1998-015022-3/",
+      "ano": 1998,
+      "marca": "Hyundai"
+    },
+    {
+      "vehicleId": "hyundai-galloper-2-5-super-luxo-turbo-diesel-1998-diesel",
+      "fipeCodigo": "015021-5",
+      "displayName": "Hyundai Galloper 2.5 Super Luxo Turbo Diesel",
+      "valorAtual": 34955,
+      "canonicalPath": "/fipe/hyundai/galloper-2-5-super-luxo-turbo-diesel-1998-015021-5/",
+      "ano": 1998,
+      "marca": "Hyundai"
+    }
+  ],
+  "stats": {
+    "total": 10,
+    "precoMin": 16907,
+    "precoMax": 35829,
+    "anos": [
+      1999,
+      1998
+    ]
+  }
+}

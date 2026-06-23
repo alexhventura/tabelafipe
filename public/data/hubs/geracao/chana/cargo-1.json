@@ -1,0 +1,741 @@
+{
+  "tipo": "geracao",
+  "slug": "cargo-1",
+  "canonicalPath": "/geracao/chana/cargo-1/",
+  "titulo": "Geracao cargo-1",
+  "descricao": "753 veiculos da geracao cargo-1.",
+  "seo": {
+    "title": "Geracao cargo-1 - Precos FIPE",
+    "description": "Veiculos da geracao cargo-1 na Tabela FIPE.",
+    "h1": "Geracao cargo-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/chana/cargo-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "chana-cargo-1-0-8v-53cv-pick-up-2005-gasolina",
+      "fipeCodigo": "064002-6",
+      "displayName": "CHANA Cargo 1.0 8V 53cv (Pick-Up)",
+      "valorAtual": 7251,
+      "canonicalPath": "/fipe/chana/cargo-1-0-8v-53cv-pick-up-2005-064002-6/",
+      "ano": 2005,
+      "marca": "CHANA"
+    },
+    {
+      "vehicleId": "chana-cargo-1-0-8v-53cv-pick-up-2006-gasolina",
+      "fipeCodigo": "064002-6",
+      "displayName": "CHANA Cargo 1.0 8V 53cv (Pick-Up)",
+      "valorAtual": 8374,
+      "canonicalPath": "/fipe/chana/cargo-1-0-8v-53cv-pick-up-2006-064002-6/",
+      "ano": 2006,
+      "marca": "CHANA"
+    },
+    {
+      "vehicleId": "chana-cargo-1-0-8v-53cv-pick-up-2007-gasolina",
+      "fipeCodigo": "064002-6",
+      "displayName": "CHANA Cargo 1.0 8V 53cv (Pick-Up)",
+      "valorAtual": 9669,
+      "canonicalPath": "/fipe/chana/cargo-1-0-8v-53cv-pick-up-2007-064002-6/",
+      "ano": 2007,
+      "marca": "CHANA"
+    },
+    {
+      "vehicleId": "chana-cargo-1-0-8v-53cv-pick-up-2008-gasolina",
+      "fipeCodigo": "064002-6",
+      "displayName": "CHANA Cargo 1.0 8V 53cv (Pick-Up)",
+      "valorAtual": 10653,
+      "canonicalPath": "/fipe/chana/cargo-1-0-8v-53cv-pick-up-2008-064002-6/",
+      "ano": 2008,
+      "marca": "CHANA"
+    },
+    {
+      "vehicleId": "chana-cargo-1-0-8v-53cv-pick-up-2009-gasolina",
+      "fipeCodigo": "064002-6",
+      "displayName": "CHANA Cargo 1.0 8V 53cv (Pick-Up)",
+      "valorAtual": 11096,
+      "canonicalPath": "/fipe/chana/cargo-1-0-8v-53cv-pick-up-2009-064002-6/",
+      "ano": 2009,
+      "marca": "CHANA"
+    },
+    {
+      "vehicleId": "chana-cargo-1-0-8v-53cv-pick-up-2010-gasolina",
+      "fipeCodigo": "064002-6",
+      "displayName": "CHANA Cargo 1.0 8V 53cv (Pick-Up)",
+      "valorAtual": 13961,
+      "canonicalPath": "/fipe/chana/cargo-1-0-8v-53cv-pick-up-2010-064002-6/",
+      "ano": 2010,
+      "marca": "CHANA"
+    },
+    {
+      "vehicleId": "chana-cargo-1-0-8v-53cv-pick-up-2011-gasolina",
+      "fipeCodigo": "064002-6",
+      "displayName": "CHANA Cargo 1.0 8V 53cv (Pick-Up)",
+      "valorAtual": 14311,
+      "canonicalPath": "/fipe/chana/cargo-1-0-8v-53cv-pick-up-2011-064002-6/",
+      "ano": 2011,
+      "marca": "CHANA"
+    },
+    {
+      "vehicleId": "chana-cargo-1-0-8v-53cv-pick-up-2012-gasolina",
+      "fipeCodigo": "064002-6",
+      "displayName": "CHANA Cargo 1.0 8V 53cv (Pick-Up)",
+      "valorAtual": 17112,
+      "canonicalPath": "/fipe/chana/cargo-1-0-8v-53cv-pick-up-2012-064002-6/",
+      "ano": 2012,
+      "marca": "CHANA"
+    },
+    {
+      "vehicleId": "chana-cargo-cd-1-0-8v-53cv-pick-up-2007-gasolina",
+      "fipeCodigo": "064004-2",
+      "displayName": "CHANA Cargo CD 1.0 8V 53cv (Pick-Up)",
+      "valorAtual": 10285,
+      "canonicalPath": "/fipe/chana/cargo-cd-1-0-8v-53cv-pick-up-2007-064004-2/",
+      "ano": 2007,
+      "marca": "CHANA"
+    },
+    {
+      "vehicleId": "chana-cargo-cd-1-0-8v-53cv-pick-up-2008-gasolina",
+      "fipeCodigo": "064004-2",
+      "displayName": "CHANA Cargo CD 1.0 8V 53cv (Pick-Up)",
+      "valorAtual": 12300,
+      "canonicalPath": "/fipe/chana/cargo-cd-1-0-8v-53cv-pick-up-2008-064004-2/",
+      "ano": 2008,
+      "marca": "CHANA"
+    },
+    {
+      "vehicleId": "chana-cargo-cd-1-0-8v-53cv-pick-up-2009-gasolina",
+      "fipeCodigo": "064004-2",
+      "displayName": "CHANA Cargo CD 1.0 8V 53cv (Pick-Up)",
+      "valorAtual": 13496,
+      "canonicalPath": "/fipe/chana/cargo-cd-1-0-8v-53cv-pick-up-2009-064004-2/",
+      "ano": 2009,
+      "marca": "CHANA"
+    },
+    {
+      "vehicleId": "chana-cargo-cd-1-0-8v-53cv-pick-up-2010-gasolina",
+      "fipeCodigo": "064004-2",
+      "displayName": "CHANA Cargo CD 1.0 8V 53cv (Pick-Up)",
+      "valorAtual": 15374,
+      "canonicalPath": "/fipe/chana/cargo-cd-1-0-8v-53cv-pick-up-2010-064004-2/",
+      "ano": 2010,
+      "marca": "CHANA"
+    },
+    {
+      "vehicleId": "chana-cargo-cd-1-0-8v-53cv-pick-up-2011-gasolina",
+      "fipeCodigo": "064004-2",
+      "displayName": "CHANA Cargo CD 1.0 8V 53cv (Pick-Up)",
+      "valorAtual": 19923,
+      "canonicalPath": "/fipe/chana/cargo-cd-1-0-8v-53cv-pick-up-2011-064004-2/",
+      "ano": 2011,
+      "marca": "CHANA"
+    },
+    {
+      "vehicleId": "chana-cargo-cd-1-0-8v-53cv-pick-up-2012-gasolina",
+      "fipeCodigo": "064004-2",
+      "displayName": "CHANA Cargo CD 1.0 8V 53cv (Pick-Up)",
+      "valorAtual": 23108,
+      "canonicalPath": "/fipe/chana/cargo-cd-1-0-8v-53cv-pick-up-2012-064004-2/",
+      "ano": 2012,
+      "marca": "CHANA"
+    },
+    {
+      "vehicleId": "chana-cargo-ce-1-0-8v-53cv-pick-up-2006-gasolina",
+      "fipeCodigo": "064003-4",
+      "displayName": "CHANA Cargo CE 1.0 8V 53cv (Pick-Up)",
+      "valorAtual": 9415,
+      "canonicalPath": "/fipe/chana/cargo-ce-1-0-8v-53cv-pick-up-2006-064003-4/",
+      "ano": 2006,
+      "marca": "CHANA"
+    },
+    {
+      "vehicleId": "chana-cargo-ce-1-0-8v-53cv-pick-up-2007-gasolina",
+      "fipeCodigo": "064003-4",
+      "displayName": "CHANA Cargo CE 1.0 8V 53cv (Pick-Up)",
+      "valorAtual": 9926,
+      "canonicalPath": "/fipe/chana/cargo-ce-1-0-8v-53cv-pick-up-2007-064003-4/",
+      "ano": 2007,
+      "marca": "CHANA"
+    },
+    {
+      "vehicleId": "chana-cargo-ce-1-0-8v-53cv-pick-up-2008-gasolina",
+      "fipeCodigo": "064003-4",
+      "displayName": "CHANA Cargo CE 1.0 8V 53cv (Pick-Up)",
+      "valorAtual": 12139,
+      "canonicalPath": "/fipe/chana/cargo-ce-1-0-8v-53cv-pick-up-2008-064003-4/",
+      "ano": 2008,
+      "marca": "CHANA"
+    },
+    {
+      "vehicleId": "chana-cargo-ce-1-0-8v-53cv-pick-up-2009-gasolina",
+      "fipeCodigo": "064003-4",
+      "displayName": "CHANA Cargo CE 1.0 8V 53cv (Pick-Up)",
+      "valorAtual": 13406,
+      "canonicalPath": "/fipe/chana/cargo-ce-1-0-8v-53cv-pick-up-2009-064003-4/",
+      "ano": 2009,
+      "marca": "CHANA"
+    },
+    {
+      "vehicleId": "chana-cargo-ce-1-0-8v-53cv-pick-up-2010-gasolina",
+      "fipeCodigo": "064003-4",
+      "displayName": "CHANA Cargo CE 1.0 8V 53cv (Pick-Up)",
+      "valorAtual": 15321,
+      "canonicalPath": "/fipe/chana/cargo-ce-1-0-8v-53cv-pick-up-2010-064003-4/",
+      "ano": 2010,
+      "marca": "CHANA"
+    },
+    {
+      "vehicleId": "chana-cargo-ce-1-0-8v-53cv-pick-up-2011-gasolina",
+      "fipeCodigo": "064003-4",
+      "displayName": "CHANA Cargo CE 1.0 8V 53cv (Pick-Up)",
+      "valorAtual": 18305,
+      "canonicalPath": "/fipe/chana/cargo-ce-1-0-8v-53cv-pick-up-2011-064003-4/",
+      "ano": 2011,
+      "marca": "CHANA"
+    },
+    {
+      "vehicleId": "chana-cargo-ce-1-0-8v-53cv-pick-up-2012-gasolina",
+      "fipeCodigo": "064003-4",
+      "displayName": "CHANA Cargo CE 1.0 8V 53cv (Pick-Up)",
+      "valorAtual": 21157,
+      "canonicalPath": "/fipe/chana/cargo-ce-1-0-8v-53cv-pick-up-2012-064003-4/",
+      "ano": 2012,
+      "marca": "CHANA"
+    },
+    {
+      "vehicleId": "ford-cargo-1113-2p-diesel-1985-diesel",
+      "fipeCodigo": "504005-1",
+      "displayName": "FORD CARGO 1113 2p (diesel)",
+      "valorAtual": 17385,
+      "canonicalPath": "/fipe/ford/cargo-1113-2p-diesel-1985-504005-1/",
+      "ano": 1985,
+      "marca": "FORD"
+    },
+    {
+      "vehicleId": "ford-cargo-1113-2p-diesel-1986-diesel",
+      "fipeCodigo": "504005-1",
+      "displayName": "FORD CARGO 1113 2p (diesel)",
+      "valorAtual": 20467,
+      "canonicalPath": "/fipe/ford/cargo-1113-2p-diesel-1986-504005-1/",
+      "ano": 1986,
+      "marca": "FORD"
+    },
+    {
+      "vehicleId": "ford-cargo-1113-2p-diesel-1987-diesel",
+      "fipeCodigo": "504005-1",
+      "displayName": "FORD CARGO 1113 2p (diesel)",
+      "valorAtual": 22281,
+      "canonicalPath": "/fipe/ford/cargo-1113-2p-diesel-1987-504005-1/",
+      "ano": 1987,
+      "marca": "FORD"
+    },
+    {
+      "vehicleId": "ford-cargo-1113-2p-diesel-1988-diesel",
+      "fipeCodigo": "504005-1",
+      "displayName": "FORD CARGO 1113 2p (diesel)",
+      "valorAtual": 23665,
+      "canonicalPath": "/fipe/ford/cargo-1113-2p-diesel-1988-504005-1/",
+      "ano": 1988,
+      "marca": "FORD"
+    },
+    {
+      "vehicleId": "ford-cargo-1113-2p-diesel-1989-diesel",
+      "fipeCodigo": "504005-1",
+      "displayName": "FORD CARGO 1113 2p (diesel)",
+      "valorAtual": 25708,
+      "canonicalPath": "/fipe/ford/cargo-1113-2p-diesel-1989-504005-1/",
+      "ano": 1989,
+      "marca": "FORD"
+    },
+    {
+      "vehicleId": "ford-cargo-1113-3-eixos-2p-diesel-1985-diesel",
+      "fipeCodigo": "504006-0",
+      "displayName": "FORD CARGO 1113 3-Eixos 2p (diesel)",
+      "valorAtual": 23113,
+      "canonicalPath": "/fipe/ford/cargo-1113-3-eixos-2p-diesel-1985-504006-0/",
+      "ano": 1985,
+      "marca": "FORD"
+    },
+    {
+      "vehicleId": "ford-cargo-1113-3-eixos-2p-diesel-1986-diesel",
+      "fipeCodigo": "504006-0",
+      "displayName": "FORD CARGO 1113 3-Eixos 2p (diesel)",
+      "valorAtual": 23708,
+      "canonicalPath": "/fipe/ford/cargo-1113-3-eixos-2p-diesel-1986-504006-0/",
+      "ano": 1986,
+      "marca": "FORD"
+    },
+    {
+      "vehicleId": "ford-cargo-1113-3-eixos-2p-diesel-1987-diesel",
+      "fipeCodigo": "504006-0",
+      "displayName": "FORD CARGO 1113 3-Eixos 2p (diesel)",
+      "valorAtual": 25593,
+      "canonicalPath": "/fipe/ford/cargo-1113-3-eixos-2p-diesel-1987-504006-0/",
+      "ano": 1987,
+      "marca": "FORD"
+    },
+    {
+      "vehicleId": "ford-cargo-1113-3-eixos-2p-diesel-1988-diesel",
+      "fipeCodigo": "504006-0",
+      "displayName": "FORD CARGO 1113 3-Eixos 2p (diesel)",
+      "valorAtual": 27669,
+      "canonicalPath": "/fipe/ford/cargo-1113-3-eixos-2p-diesel-1988-504006-0/",
+      "ano": 1988,
+      "marca": "FORD"
+    },
+    {
+      "vehicleId": "ford-cargo-1113-3-eixos-2p-diesel-1989-diesel",
+      "fipeCodigo": "504006-0",
+      "displayName": "FORD CARGO 1113 3-Eixos 2p (diesel)",
+      "valorAtual": 29427,
+      "canonicalPath": "/fipe/ford/cargo-1113-3-eixos-2p-diesel-1989-504006-0/",
+      "ano": 1989,
+      "marca": "FORD"
+    },
+    {
+      "vehicleId": "ford-cargo-1114-2p-diesel-1985-diesel",
+      "fipeCodigo": "504007-8",
+      "displayName": "FORD CARGO 1114 2p (diesel)",
+      "valorAtual": 20508,
+      "canonicalPath": "/fipe/ford/cargo-1114-2p-diesel-1985-504007-8/",
+      "ano": 1985,
+      "marca": "FORD"
+    },
+    {
+      "vehicleId": "ford-cargo-1114-2p-diesel-1986-diesel",
+      "fipeCodigo": "504007-8",
+      "displayName": "FORD CARGO 1114 2p (diesel)",
+      "valorAtual": 21842,
+      "canonicalPath": "/fipe/ford/cargo-1114-2p-diesel-1986-504007-8/",
+      "ano": 1986,
+      "marca": "FORD"
+    },
+    {
+      "vehicleId": "ford-cargo-1114-2p-diesel-1987-diesel",
+      "fipeCodigo": "504007-8",
+      "displayName": "FORD CARGO 1114 2p (diesel)",
+      "valorAtual": 24943,
+      "canonicalPath": "/fipe/ford/cargo-1114-2p-diesel-1987-504007-8/",
+      "ano": 1987,
+      "marca": "FORD"
+    },
+    {
+      "vehicleId": "ford-cargo-1114-2p-diesel-1988-diesel",
+      "fipeCodigo": "504007-8",
+      "displayName": "FORD CARGO 1114 2p (diesel)",
+      "valorAtual": 25567,
+      "canonicalPath": "/fipe/ford/cargo-1114-2p-diesel-1988-504007-8/",
+      "ano": 1988,
+      "marca": "FORD"
+    },
+    {
+      "vehicleId": "ford-cargo-1114-2p-diesel-1989-diesel",
+      "fipeCodigo": "504007-8",
+      "displayName": "FORD CARGO 1114 2p (diesel)",
+      "valorAtual": 26277,
+      "canonicalPath": "/fipe/ford/cargo-1114-2p-diesel-1989-504007-8/",
+      "ano": 1989,
+      "marca": "FORD"
+    },
+    {
+      "vehicleId": "ford-cargo-1114-3-eixos-2p-diesel-1985-diesel",
+      "fipeCodigo": "504008-6",
+      "displayName": "FORD CARGO 1114 3-Eixos 2p (diesel)",
+      "valorAtual": 24059,
+      "canonicalPath": "/fipe/ford/cargo-1114-3-eixos-2p-diesel-1985-504008-6/",
+      "ano": 1985,
+      "marca": "FORD"
+    },
+    {
+      "vehicleId": "ford-cargo-1114-3-eixos-2p-diesel-1986-diesel",
+      "fipeCodigo": "504008-6",
+      "displayName": "FORD CARGO 1114 3-Eixos 2p (diesel)",
+      "valorAtual": 25822,
+      "canonicalPath": "/fipe/ford/cargo-1114-3-eixos-2p-diesel-1986-504008-6/",
+      "ano": 1986,
+      "marca": "FORD"
+    },
+    {
+      "vehicleId": "ford-cargo-1114-3-eixos-2p-diesel-1987-diesel",
+      "fipeCodigo": "504008-6",
+      "displayName": "FORD CARGO 1114 3-Eixos 2p (diesel)",
+      "valorAtual": 27343,
+      "canonicalPath": "/fipe/ford/cargo-1114-3-eixos-2p-diesel-1987-504008-6/",
+      "ano": 1987,
+      "marca": "FORD"
+    },
+    {
+      "vehicleId": "ford-cargo-1114-3-eixos-2p-diesel-1988-diesel",
+      "fipeCodigo": "504008-6",
+      "displayName": "FORD CARGO 1114 3-Eixos 2p (diesel)",
+      "valorAtual": 31360,
+      "canonicalPath": "/fipe/ford/cargo-1114-3-eixos-2p-diesel-1988-504008-6/",
+      "ano": 1988,
+      "marca": "FORD"
+    },
+    {
+      "vehicleId": "ford-cargo-1114-3-eixos-2p-diesel-1989-diesel",
+      "fipeCodigo": "504008-6",
+      "displayName": "FORD CARGO 1114 3-Eixos 2p (diesel)",
+      "valorAtual": 32610,
+      "canonicalPath": "/fipe/ford/cargo-1114-3-eixos-2p-diesel-1989-504008-6/",
+      "ano": 1989,
+      "marca": "FORD"
+    },
+    {
+      "vehicleId": "ford-cargo-1117-t-3-eixos-2p-diesel-1985-diesel",
+      "fipeCodigo": "504009-4",
+      "displayName": "FORD CARGO 1117 T 3-Eixos 2p (diesel)",
+      "valorAtual": 24451,
+      "canonicalPath": "/fipe/ford/cargo-1117-t-3-eixos-2p-diesel-1985-504009-4/",
+      "ano": 1985,
+      "marca": "FORD"
+    },
+    {
+      "vehicleId": "ford-cargo-1117-t-3-eixos-2p-diesel-1986-diesel",
+      "fipeCodigo": "504009-4",
+      "displayName": "FORD CARGO 1117 T 3-Eixos 2p (diesel)",
+      "valorAtual": 28277,
+      "canonicalPath": "/fipe/ford/cargo-1117-t-3-eixos-2p-diesel-1986-504009-4/",
+      "ano": 1986,
+      "marca": "FORD"
+    },
+    {
+      "vehicleId": "ford-cargo-1117-t-3-eixos-2p-diesel-1987-diesel",
+      "fipeCodigo": "504009-4",
+      "displayName": "FORD CARGO 1117 T 3-Eixos 2p (diesel)",
+      "valorAtual": 29862,
+      "canonicalPath": "/fipe/ford/cargo-1117-t-3-eixos-2p-diesel-1987-504009-4/",
+      "ano": 1987,
+      "marca": "FORD"
+    },
+    {
+      "vehicleId": "ford-cargo-1117-t-3-eixos-2p-diesel-1988-diesel",
+      "fipeCodigo": "504009-4",
+      "displayName": "FORD CARGO 1117 T 3-Eixos 2p (diesel)",
+      "valorAtual": 32004,
+      "canonicalPath": "/fipe/ford/cargo-1117-t-3-eixos-2p-diesel-1988-504009-4/",
+      "ano": 1988,
+      "marca": "FORD"
+    },
+    {
+      "vehicleId": "ford-cargo-1117-t-3-eixos-2p-diesel-1989-diesel",
+      "fipeCodigo": "504009-4",
+      "displayName": "FORD CARGO 1117 T 3-Eixos 2p (diesel)",
+      "valorAtual": 34594,
+      "canonicalPath": "/fipe/ford/cargo-1117-t-3-eixos-2p-diesel-1989-504009-4/",
+      "ano": 1989,
+      "marca": "FORD"
+    },
+    {
+      "vehicleId": "ford-cargo-1117-turbo-2p-diesel-1985-diesel",
+      "fipeCodigo": "504010-8",
+      "displayName": "FORD CARGO 1117 Turbo 2p (diesel)",
+      "valorAtual": 22800,
+      "canonicalPath": "/fipe/ford/cargo-1117-turbo-2p-diesel-1985-504010-8/",
+      "ano": 1985,
+      "marca": "FORD"
+    },
+    {
+      "vehicleId": "ford-cargo-1117-turbo-2p-diesel-1986-diesel",
+      "fipeCodigo": "504010-8",
+      "displayName": "FORD CARGO 1117 Turbo 2p (diesel)",
+      "valorAtual": 24833,
+      "canonicalPath": "/fipe/ford/cargo-1117-turbo-2p-diesel-1986-504010-8/",
+      "ano": 1986,
+      "marca": "FORD"
+    },
+    {
+      "vehicleId": "ford-cargo-1117-turbo-2p-diesel-1987-diesel",
+      "fipeCodigo": "504010-8",
+      "displayName": "FORD CARGO 1117 Turbo 2p (diesel)",
+      "valorAtual": 26176,
+      "canonicalPath": "/fipe/ford/cargo-1117-turbo-2p-diesel-1987-504010-8/",
+      "ano": 1987,
+      "marca": "FORD"
+    },
+    {
+      "vehicleId": "ford-cargo-1117-turbo-2p-diesel-1988-diesel",
+      "fipeCodigo": "504010-8",
+      "displayName": "FORD CARGO 1117 Turbo 2p (diesel)",
+      "valorAtual": 27270,
+      "canonicalPath": "/fipe/ford/cargo-1117-turbo-2p-diesel-1988-504010-8/",
+      "ano": 1988,
+      "marca": "FORD"
+    },
+    {
+      "vehicleId": "ford-cargo-1117-turbo-2p-diesel-1989-diesel",
+      "fipeCodigo": "504010-8",
+      "displayName": "FORD CARGO 1117 Turbo 2p (diesel)",
+      "valorAtual": 29056,
+      "canonicalPath": "/fipe/ford/cargo-1117-turbo-2p-diesel-1989-504010-8/",
+      "ano": 1989,
+      "marca": "FORD"
+    },
+    {
+      "vehicleId": "ford-cargo-1119-turbo-2p-diesel-e5-2014-diesel",
+      "fipeCodigo": "504149-0",
+      "displayName": "FORD CARGO 1119 Turbo 2p (diesel)(E5)",
+      "valorAtual": 208142,
+      "canonicalPath": "/fipe/ford/cargo-1119-turbo-2p-diesel-e5-2014-504149-0/",
+      "ano": 2014,
+      "marca": "FORD"
+    },
+    {
+      "vehicleId": "ford-cargo-1119-turbo-2p-diesel-e5-2015-diesel",
+      "fipeCodigo": "504149-0",
+      "displayName": "FORD CARGO 1119 Turbo 2p (diesel)(E5)",
+      "valorAtual": 217458,
+      "canonicalPath": "/fipe/ford/cargo-1119-turbo-2p-diesel-e5-2015-504149-0/",
+      "ano": 2015,
+      "marca": "FORD"
+    },
+    {
+      "vehicleId": "ford-cargo-1119-turbo-2p-diesel-e5-2016-diesel",
+      "fipeCodigo": "504149-0",
+      "displayName": "FORD CARGO 1119 Turbo 2p (diesel)(E5)",
+      "valorAtual": 222939,
+      "canonicalPath": "/fipe/ford/cargo-1119-turbo-2p-diesel-e5-2016-504149-0/",
+      "ano": 2016,
+      "marca": "FORD"
+    },
+    {
+      "vehicleId": "ford-cargo-1119-turbo-2p-diesel-e5-2017-diesel",
+      "fipeCodigo": "504149-0",
+      "displayName": "FORD CARGO 1119 Turbo 2p (diesel)(E5)",
+      "valorAtual": 228513,
+      "canonicalPath": "/fipe/ford/cargo-1119-turbo-2p-diesel-e5-2017-504149-0/",
+      "ano": 2017,
+      "marca": "FORD"
+    },
+    {
+      "vehicleId": "ford-cargo-1119-turbo-2p-diesel-e5-2018-diesel",
+      "fipeCodigo": "504149-0",
+      "displayName": "FORD CARGO 1119 Turbo 2p (diesel)(E5)",
+      "valorAtual": 238639,
+      "canonicalPath": "/fipe/ford/cargo-1119-turbo-2p-diesel-e5-2018-504149-0/",
+      "ano": 2018,
+      "marca": "FORD"
+    },
+    {
+      "vehicleId": "ford-cargo-1119-turbo-2p-diesel-e5-2019-diesel",
+      "fipeCodigo": "504149-0",
+      "displayName": "FORD CARGO 1119 Turbo 2p (diesel)(E5)",
+      "valorAtual": 254221,
+      "canonicalPath": "/fipe/ford/cargo-1119-turbo-2p-diesel-e5-2019-504149-0/",
+      "ano": 2019,
+      "marca": "FORD"
+    },
+    {
+      "vehicleId": "ford-cargo-1215-2p-diesel-1985-diesel",
+      "fipeCodigo": "504011-6",
+      "displayName": "FORD CARGO 1215 2p (diesel)",
+      "valorAtual": 20022,
+      "canonicalPath": "/fipe/ford/cargo-1215-2p-diesel-1985-504011-6/",
+      "ano": 1985,
+      "marca": "FORD"
+    },
+    {
+      "vehicleId": "ford-cargo-1215-2p-diesel-1986-diesel",
+      "fipeCodigo": "504011-6",
+      "displayName": "FORD CARGO 1215 2p (diesel)",
+      "valorAtual": 21148,
+      "canonicalPath": "/fipe/ford/cargo-1215-2p-diesel-1986-504011-6/",
+      "ano": 1986,
+      "marca": "FORD"
+    },
+    {
+      "vehicleId": "ford-cargo-1215-2p-diesel-1987-diesel",
+      "fipeCodigo": "504011-6",
+      "displayName": "FORD CARGO 1215 2p (diesel)",
+      "valorAtual": 21752,
+      "canonicalPath": "/fipe/ford/cargo-1215-2p-diesel-1987-504011-6/",
+      "ano": 1987,
+      "marca": "FORD"
+    },
+    {
+      "vehicleId": "ford-cargo-1215-2p-diesel-1988-diesel",
+      "fipeCodigo": "504011-6",
+      "displayName": "FORD CARGO 1215 2p (diesel)",
+      "valorAtual": 23004,
+      "canonicalPath": "/fipe/ford/cargo-1215-2p-diesel-1988-504011-6/",
+      "ano": 1988,
+      "marca": "FORD"
+    },
+    {
+      "vehicleId": "ford-cargo-1215-2p-diesel-1989-diesel",
+      "fipeCodigo": "504011-6",
+      "displayName": "FORD CARGO 1215 2p (diesel)",
+      "valorAtual": 23580,
+      "canonicalPath": "/fipe/ford/cargo-1215-2p-diesel-1989-504011-6/",
+      "ano": 1989,
+      "marca": "FORD"
+    },
+    {
+      "vehicleId": "ford-cargo-1215-2p-diesel-1990-diesel",
+      "fipeCodigo": "504011-6",
+      "displayName": "FORD CARGO 1215 2p (diesel)",
+      "valorAtual": 24361,
+      "canonicalPath": "/fipe/ford/cargo-1215-2p-diesel-1990-504011-6/",
+      "ano": 1990,
+      "marca": "FORD"
+    },
+    {
+      "vehicleId": "ford-cargo-1215-2p-diesel-1991-diesel",
+      "fipeCodigo": "504011-6",
+      "displayName": "FORD CARGO 1215 2p (diesel)",
+      "valorAtual": 24971,
+      "canonicalPath": "/fipe/ford/cargo-1215-2p-diesel-1991-504011-6/",
+      "ano": 1991,
+      "marca": "FORD"
+    },
+    {
+      "vehicleId": "ford-cargo-1215-2p-diesel-1992-diesel",
+      "fipeCodigo": "504011-6",
+      "displayName": "FORD CARGO 1215 2p (diesel)",
+      "valorAtual": 27268,
+      "canonicalPath": "/fipe/ford/cargo-1215-2p-diesel-1992-504011-6/",
+      "ano": 1992,
+      "marca": "FORD"
+    },
+    {
+      "vehicleId": "ford-cargo-1215-2p-diesel-1993-diesel",
+      "fipeCodigo": "504011-6",
+      "displayName": "FORD CARGO 1215 2p (diesel)",
+      "valorAtual": 31544,
+      "canonicalPath": "/fipe/ford/cargo-1215-2p-diesel-1993-504011-6/",
+      "ano": 1993,
+      "marca": "FORD"
+    },
+    {
+      "vehicleId": "ford-cargo-1215-2p-diesel-1994-diesel",
+      "fipeCodigo": "504011-6",
+      "displayName": "FORD CARGO 1215 2p (diesel)",
+      "valorAtual": 35297,
+      "canonicalPath": "/fipe/ford/cargo-1215-2p-diesel-1994-504011-6/",
+      "ano": 1994,
+      "marca": "FORD"
+    },
+    {
+      "vehicleId": "ford-cargo-1215-2p-diesel-1995-diesel",
+      "fipeCodigo": "504011-6",
+      "displayName": "FORD CARGO 1215 2p (diesel)",
+      "valorAtual": 40711,
+      "canonicalPath": "/fipe/ford/cargo-1215-2p-diesel-1995-504011-6/",
+      "ano": 1995,
+      "marca": "FORD"
+    },
+    {
+      "vehicleId": "ford-cargo-1215-2p-diesel-1996-diesel",
+      "fipeCodigo": "504011-6",
+      "displayName": "FORD CARGO 1215 2p (diesel)",
+      "valorAtual": 43454,
+      "canonicalPath": "/fipe/ford/cargo-1215-2p-diesel-1996-504011-6/",
+      "ano": 1996,
+      "marca": "FORD"
+    },
+    {
+      "vehicleId": "ford-cargo-1215-2p-diesel-1997-diesel",
+      "fipeCodigo": "504011-6",
+      "displayName": "FORD CARGO 1215 2p (diesel)",
+      "valorAtual": 49422,
+      "canonicalPath": "/fipe/ford/cargo-1215-2p-diesel-1997-504011-6/",
+      "ano": 1997,
+      "marca": "FORD"
+    },
+    {
+      "vehicleId": "ford-cargo-1215-2p-diesel-1998-diesel",
+      "fipeCodigo": "504011-6",
+      "displayName": "FORD CARGO 1215 2p (diesel)",
+      "valorAtual": 50658,
+      "canonicalPath": "/fipe/ford/cargo-1215-2p-diesel-1998-504011-6/",
+      "ano": 1998,
+      "marca": "FORD"
+    },
+    {
+      "vehicleId": "ford-cargo-1215-2p-diesel-1999-diesel",
+      "fipeCodigo": "504011-6",
+      "displayName": "FORD CARGO 1215 2p (diesel)",
+      "valorAtual": 51925,
+      "canonicalPath": "/fipe/ford/cargo-1215-2p-diesel-1999-504011-6/",
+      "ano": 1999,
+      "marca": "FORD"
+    },
+    {
+      "vehicleId": "ford-cargo-1215-2p-diesel-2000-diesel",
+      "fipeCodigo": "504011-6",
+      "displayName": "FORD CARGO 1215 2p (diesel)",
+      "valorAtual": 53224,
+      "canonicalPath": "/fipe/ford/cargo-1215-2p-diesel-2000-504011-6/",
+      "ano": 2000,
+      "marca": "FORD"
+    },
+    {
+      "vehicleId": "ford-cargo-1215-2p-diesel-2001-diesel",
+      "fipeCodigo": "504011-6",
+      "displayName": "FORD CARGO 1215 2p (diesel)",
+      "valorAtual": 57553,
+      "canonicalPath": "/fipe/ford/cargo-1215-2p-diesel-2001-504011-6/",
+      "ano": 2001,
+      "marca": "FORD"
+    },
+    {
+      "vehicleId": "ford-cargo-1215-3-eixos-2p-diesel-1985-diesel",
+      "fipeCodigo": "504012-4",
+      "displayName": "FORD CARGO 1215 3-Eixos 2p (diesel)",
+      "valorAtual": 23568,
+      "canonicalPath": "/fipe/ford/cargo-1215-3-eixos-2p-diesel-1985-504012-4/",
+      "ano": 1985,
+      "marca": "FORD"
+    },
+    {
+      "vehicleId": "ford-cargo-1215-3-eixos-2p-diesel-1986-diesel",
+      "fipeCodigo": "504012-4",
+      "displayName": "FORD CARGO 1215 3-Eixos 2p (diesel)",
+      "valorAtual": 24966,
+      "canonicalPath": "/fipe/ford/cargo-1215-3-eixos-2p-diesel-1986-504012-4/",
+      "ano": 1986,
+      "marca": "FORD"
+    },
+    {
+      "vehicleId": "ford-cargo-1215-3-eixos-2p-diesel-1987-diesel",
+      "fipeCodigo": "504012-4",
+      "displayName": "FORD CARGO 1215 3-Eixos 2p (diesel)",
+      "valorAtual": 27033,
+      "canonicalPath": "/fipe/ford/cargo-1215-3-eixos-2p-diesel-1987-504012-4/",
+      "ano": 1987,
+      "marca": "FORD"
+    },
+    {
+      "vehicleId": "ford-cargo-1215-3-eixos-2p-diesel-1988-diesel",
+      "fipeCodigo": "504012-4",
+      "displayName": "FORD CARGO 1215 3-Eixos 2p (diesel)",
+      "valorAtual": 27824,
+      "canonicalPath": "/fipe/ford/cargo-1215-3-eixos-2p-diesel-1988-504012-4/",
+      "ano": 1988,
+      "marca": "FORD"
+    },
+    {
+      "vehicleId": "ford-cargo-1215-3-eixos-2p-diesel-1989-diesel",
+      "fipeCodigo": "504012-4",
+      "displayName": "FORD CARGO 1215 3-Eixos 2p (diesel)",
+      "valorAtual": 29885,
+      "canonicalPath": "/fipe/ford/cargo-1215-3-eixos-2p-diesel-1989-504012-4/",
+      "ano": 1989,
+      "marca": "FORD"
+    },
+    {
+      "vehicleId": "ford-cargo-1215-3-eixos-2p-diesel-1990-diesel",
+      "fipeCodigo": "504012-4",
+      "displayName": "FORD CARGO 1215 3-Eixos 2p (diesel)",
+      "valorAtual": 30633,
+      "canonicalPath": "/fipe/ford/cargo-1215-3-eixos-2p-diesel-1990-504012-4/",
+      "ano": 1990,
+      "marca": "FORD"
+    }
+  ],
+  "stats": {
+    "total": 753
+  },
+  "meta": {
+    "geracaoId": "cargo-1"
+  }
+}

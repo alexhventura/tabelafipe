@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "001-1",
+  "canonicalPath": "/geracao/zeekr/001-1/",
+  "titulo": "Geracao 001-1",
+  "descricao": "2 veiculos da geracao 001-1.",
+  "seo": {
+    "title": "Geracao 001-1 - Precos FIPE",
+    "description": "Veiculos da geracao 001-1 na Tabela FIPE.",
+    "h1": "Geracao 001-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/zeekr/001-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "zeekr-001-flagship-awd-eletrico-0-eletrico",
+      "fipeCodigo": "301002-3",
+      "displayName": "ZEEKR 001 Flagship AWD (Elétrico)",
+      "valorAtual": 542000,
+      "canonicalPath": "/fipe/zeekr/001-flagship-awd-eletrico-0-301002-3/",
+      "ano": 0,
+      "marca": "ZEEKR"
+    },
+    {
+      "vehicleId": "zeekr-001-premium-awd-eletrico-0-eletrico",
+      "fipeCodigo": "301001-5",
+      "displayName": "ZEEKR 001 Premium AWD (Elétrico)",
+      "valorAtual": 495000,
+      "canonicalPath": "/fipe/zeekr/001-premium-awd-eletrico-0-301001-5/",
+      "ano": 0,
+      "marca": "ZEEKR"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "001-1"
+  }
+}

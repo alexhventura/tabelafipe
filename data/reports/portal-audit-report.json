@@ -1,0 +1,53 @@
+{
+  "geradoEm": "2026-06-23T01:38:41.845Z",
+  "paginas": {
+    "veiculos_indexaveis": 50395,
+    "bundles_no_disco": 49953,
+    "familias_hub": "pendente /fipe/{marca}/{modelo}",
+    "geracoes_hub": "pendente /fipe/{marca}/{modelo}/geracao-*",
+    "motores_hub": "pendente /motor/{engine-id}",
+    "plataformas_hub": "pendente /plataforma/{platform-id}"
+  },
+  "bundles": {
+    "avg_kb": 21.22,
+    "p95_kb": 28.48,
+    "p99_kb": 31.73,
+    "targets": {
+      "avg_kb_target": 20,
+      "p95_kb_target": 50,
+      "p99_kb_target": 100,
+      "avg_pass": false,
+      "p95_pass": true,
+      "p99_pass": true
+    }
+  },
+  "cobertura_secoes_pct": {
+    "preco": 100,
+    "historico": 99.6,
+    "specs": 28.86,
+    "engine": 2.4,
+    "maintenance": 0.4,
+    "platform": 3.41,
+    "transmission": 4.81,
+    "generation": 99.4,
+    "inmetro": 41.88,
+    "relacionados": 100
+  },
+  "historico_fipe": {
+    "alerta": "1 mes na maioria — rodar catalog:history",
+    "meta": "12-36 meses por veiculo"
+  },
+  "lighthouse_estimado": {
+    "performance": "92-98",
+    "seo": "95-100",
+    "accessibility": "90-95"
+  },
+  "core_web_vitals": {
+    "LCP": "<1.8s",
+    "INP": "<100ms",
+    "CLS": "<0.05",
+    "TTFB": "<200ms"
+  },
+  "cache": "Cache-Control: public, max-age=2592000, immutable para /data/bundles/* (JSON versionado por build).",
+  "interlinking": "Bundles em public/data/bundles/{marcaSlug}/{pageSlug}.json; manifest-{letter}.json lista vehicleId/canonicalPath/bundlePath por primeira letra de marcaSlug."
+}

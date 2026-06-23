@@ -1,0 +1,52 @@
+{
+  "tipo": "familia",
+  "slug": "matrix",
+  "canonicalPath": "/fipe/iros/matrix/",
+  "titulo": "IROS matrix - Tabela FIPE",
+  "descricao": "3 versoes e anos do IROS matrix na Tabela FIPE.",
+  "seo": {
+    "title": "IROS matrix - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes IROS matrix. 3 veiculos indexados.",
+    "h1": "IROS matrix - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/iros/matrix/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "iros-matrix-150-2011-gasolina",
+      "fipeCodigo": "867009-9",
+      "displayName": "IROS MATRIX 150",
+      "valorAtual": 4514,
+      "canonicalPath": "/fipe/iros/matrix-150-2011-867009-9/",
+      "ano": 2011,
+      "marca": "IROS"
+    },
+    {
+      "vehicleId": "iros-matrix-150-2010-gasolina",
+      "fipeCodigo": "867009-9",
+      "displayName": "IROS MATRIX 150",
+      "valorAtual": 3755,
+      "canonicalPath": "/fipe/iros/matrix-150-2010-867009-9/",
+      "ano": 2010,
+      "marca": "IROS"
+    },
+    {
+      "vehicleId": "iros-matrix-150-2009-gasolina",
+      "fipeCodigo": "867009-9",
+      "displayName": "IROS MATRIX 150",
+      "valorAtual": 3374,
+      "canonicalPath": "/fipe/iros/matrix-150-2009-867009-9/",
+      "ano": 2009,
+      "marca": "IROS"
+    }
+  ],
+  "stats": {
+    "total": 3,
+    "precoMin": 3374,
+    "precoMax": 4514,
+    "anos": [
+      2011,
+      2010,
+      2009
+    ]
+  }
+}

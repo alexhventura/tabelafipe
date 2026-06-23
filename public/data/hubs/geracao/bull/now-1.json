@@ -1,0 +1,57 @@
+{
+  "tipo": "geracao",
+  "slug": "now-1",
+  "canonicalPath": "/geracao/bull/now-1/",
+  "titulo": "Geracao now-1",
+  "descricao": "4 veiculos da geracao now-1.",
+  "seo": {
+    "title": "Geracao now-1 - Precos FIPE",
+    "description": "Veiculos da geracao now-1 na Tabela FIPE.",
+    "h1": "Geracao now-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/bull/now-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "bull-now-125-2018-gasolina",
+      "fipeCodigo": "888003-4",
+      "displayName": "BULL NOW 125",
+      "valorAtual": 5987,
+      "canonicalPath": "/fipe/bull/now-125-2018-888003-4/",
+      "ano": 2018,
+      "marca": "BULL"
+    },
+    {
+      "vehicleId": "bull-now-125-2019-gasolina",
+      "fipeCodigo": "888003-4",
+      "displayName": "BULL NOW 125",
+      "valorAtual": 6959,
+      "canonicalPath": "/fipe/bull/now-125-2019-888003-4/",
+      "ano": 2019,
+      "marca": "BULL"
+    },
+    {
+      "vehicleId": "bull-now-125-2020-gasolina",
+      "fipeCodigo": "888003-4",
+      "displayName": "BULL NOW 125",
+      "valorAtual": 8689,
+      "canonicalPath": "/fipe/bull/now-125-2020-888003-4/",
+      "ano": 2020,
+      "marca": "BULL"
+    },
+    {
+      "vehicleId": "bull-now-125-2021-gasolina",
+      "fipeCodigo": "888003-4",
+      "displayName": "BULL NOW 125",
+      "valorAtual": 8907,
+      "canonicalPath": "/fipe/bull/now-125-2021-888003-4/",
+      "ano": 2021,
+      "marca": "BULL"
+    }
+  ],
+  "stats": {
+    "total": 4
+  },
+  "meta": {
+    "geracaoId": "now-1"
+  }
+}

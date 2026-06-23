@@ -1,0 +1,120 @@
+{
+  "tipo": "geracao",
+  "slug": "dolphin-2",
+  "canonicalPath": "/geracao/byd/dolphin-2/",
+  "titulo": "Geracao dolphin-2",
+  "descricao": "11 veiculos da geracao dolphin-2.",
+  "seo": {
+    "title": "Geracao dolphin-2 - Precos FIPE",
+    "description": "Veiculos da geracao dolphin-2 na Tabela FIPE.",
+    "h1": "Geracao dolphin-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/byd/dolphin-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "byd-dolphin-ev-eletrico-2024-eletrico",
+      "fipeCodigo": "095007-6",
+      "displayName": "BYD Dolphin EV (Elétrico)",
+      "valorAtual": 117950,
+      "canonicalPath": "/fipe/byd/dolphin-ev-eletrico-2024-095007-6/",
+      "ano": 2024,
+      "marca": "BYD"
+    },
+    {
+      "vehicleId": "byd-dolphin-ev-eletrico-2025-eletrico",
+      "fipeCodigo": "095007-6",
+      "displayName": "BYD Dolphin EV (Elétrico)",
+      "valorAtual": 123445,
+      "canonicalPath": "/fipe/byd/dolphin-ev-eletrico-2025-095007-6/",
+      "ano": 2025,
+      "marca": "BYD"
+    },
+    {
+      "vehicleId": "byd-dolphin-ev-eletrico-2026-eletrico",
+      "fipeCodigo": "095007-6",
+      "displayName": "BYD Dolphin EV (Elétrico)",
+      "valorAtual": 132055,
+      "canonicalPath": "/fipe/byd/dolphin-ev-eletrico-2026-095007-6/",
+      "ano": 2026,
+      "marca": "BYD"
+    },
+    {
+      "vehicleId": "byd-dolphin-ev-eletrico-2027-eletrico",
+      "fipeCodigo": "095007-6",
+      "displayName": "BYD Dolphin EV (Elétrico)",
+      "valorAtual": 135996,
+      "canonicalPath": "/fipe/byd/dolphin-ev-eletrico-2027-095007-6/",
+      "ano": 2027,
+      "marca": "BYD"
+    },
+    {
+      "vehicleId": "byd-dolphin-mini-eletrico-2024-eletrico",
+      "fipeCodigo": "095010-6",
+      "displayName": "BYD Dolphin Mini (Elétrico)",
+      "valorAtual": 97790,
+      "canonicalPath": "/fipe/byd/dolphin-mini-eletrico-2024-095010-6/",
+      "ano": 2024,
+      "marca": "BYD"
+    },
+    {
+      "vehicleId": "byd-dolphin-mini-eletrico-2025-eletrico",
+      "fipeCodigo": "095010-6",
+      "displayName": "BYD Dolphin Mini (Elétrico)",
+      "valorAtual": 105797,
+      "canonicalPath": "/fipe/byd/dolphin-mini-eletrico-2025-095010-6/",
+      "ano": 2025,
+      "marca": "BYD"
+    },
+    {
+      "vehicleId": "byd-dolphin-mini-eletrico-2026-eletrico",
+      "fipeCodigo": "095010-6",
+      "displayName": "BYD Dolphin Mini (Elétrico)",
+      "valorAtual": 110020,
+      "canonicalPath": "/fipe/byd/dolphin-mini-eletrico-2026-095010-6/",
+      "ano": 2026,
+      "marca": "BYD"
+    },
+    {
+      "vehicleId": "byd-dolphin-mini-eletrico-2027-eletrico",
+      "fipeCodigo": "095010-6",
+      "displayName": "BYD Dolphin Mini (Elétrico)",
+      "valorAtual": 113545,
+      "canonicalPath": "/fipe/byd/dolphin-mini-eletrico-2027-095010-6/",
+      "ano": 2027,
+      "marca": "BYD"
+    },
+    {
+      "vehicleId": "byd-dolphin-plus-eletrico-2024-eletrico",
+      "fipeCodigo": "095009-2",
+      "displayName": "BYD Dolphin Plus (Elétrico)",
+      "valorAtual": 140664,
+      "canonicalPath": "/fipe/byd/dolphin-plus-eletrico-2024-095009-2/",
+      "ano": 2024,
+      "marca": "BYD"
+    },
+    {
+      "vehicleId": "byd-dolphin-plus-eletrico-2025-eletrico",
+      "fipeCodigo": "095009-2",
+      "displayName": "BYD Dolphin Plus (Elétrico)",
+      "valorAtual": 150554,
+      "canonicalPath": "/fipe/byd/dolphin-plus-eletrico-2025-095009-2/",
+      "ano": 2025,
+      "marca": "BYD"
+    },
+    {
+      "vehicleId": "byd-dolphin-se-2027-eletrico",
+      "fipeCodigo": "095019-0",
+      "displayName": "BYD Dolphin SE",
+      "valorAtual": 143525,
+      "canonicalPath": "/fipe/byd/dolphin-se-2027-095019-0/",
+      "ano": 2027,
+      "marca": "BYD"
+    }
+  ],
+  "stats": {
+    "total": 11
+  },
+  "meta": {
+    "geracaoId": "dolphin-2"
+  }
+}

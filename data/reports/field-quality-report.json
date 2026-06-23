@@ -1,0 +1,69 @@
+{
+  "geradoEm": "2026-06-21T05:31:03.815Z",
+  "campos": [
+    {
+      "campo": "valor_fipe",
+      "origem": "FIPE",
+      "preenchidos": 50395,
+      "total": 50395,
+      "taxaPct": 100,
+      "confiabilidade": "alta"
+    },
+    {
+      "campo": "historico_precos",
+      "origem": "FIPE/fipeX",
+      "preenchidos": 50395,
+      "total": 50395,
+      "taxaPct": 100,
+      "confiabilidade": "alta"
+    },
+    {
+      "campo": "consumo_cidade",
+      "origem": "INMETRO/PBEV",
+      "preenchidos": 20957,
+      "total": 50395,
+      "taxaPct": 41.59,
+      "confiabilidade": "alta"
+    },
+    {
+      "campo": "consumo_estrada",
+      "origem": "INMETRO/PBEV",
+      "preenchidos": 20957,
+      "total": 50395,
+      "taxaPct": 41.59,
+      "confiabilidade": "alta"
+    },
+    {
+      "campo": "classificacao_energetica",
+      "origem": "INMETRO/PBEV",
+      "preenchidos": 20957,
+      "total": 50395,
+      "taxaPct": 41.59,
+      "confiabilidade": "alta"
+    },
+    {
+      "campo": "potencia_cv",
+      "origem": "FABRICANTE",
+      "preenchidos": 0,
+      "total": 50395,
+      "taxaPct": 0,
+      "confiabilidade": "alta"
+    },
+    {
+      "campo": "cilindrada_cc",
+      "origem": "STATIC/FIPE+INMETRO",
+      "preenchidos": 43245,
+      "total": 50395,
+      "taxaPct": 85.81,
+      "confiabilidade": "media"
+    },
+    {
+      "campo": "cambio",
+      "origem": "STATIC/FIPE+FABRICANTE",
+      "preenchidos": 11854,
+      "total": 50395,
+      "taxaPct": 23.52,
+      "confiabilidade": "media"
+    }
+  ]
+}

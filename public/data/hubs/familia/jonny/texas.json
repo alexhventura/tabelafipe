@@ -1,0 +1,52 @@
+{
+  "tipo": "familia",
+  "slug": "texas",
+  "canonicalPath": "/fipe/jonny/texas/",
+  "titulo": "JONNY texas - Tabela FIPE",
+  "descricao": "3 versoes e anos do JONNY texas na Tabela FIPE.",
+  "seo": {
+    "title": "JONNY texas - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes JONNY texas. 3 veiculos indexados.",
+    "h1": "JONNY texas - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/jonny/texas/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "jonny-texas-150cc-2013-gasolina",
+      "fipeCodigo": "865012-8",
+      "displayName": "JONNY TEXAS 150cc",
+      "valorAtual": 3189,
+      "canonicalPath": "/fipe/jonny/texas-150cc-2013-865012-8/",
+      "ano": 2013,
+      "marca": "JONNY"
+    },
+    {
+      "vehicleId": "jonny-texas-150cc-2012-gasolina",
+      "fipeCodigo": "865012-8",
+      "displayName": "JONNY TEXAS 150cc",
+      "valorAtual": 2797,
+      "canonicalPath": "/fipe/jonny/texas-150cc-2012-865012-8/",
+      "ano": 2012,
+      "marca": "JONNY"
+    },
+    {
+      "vehicleId": "jonny-texas-150cc-2011-gasolina",
+      "fipeCodigo": "865012-8",
+      "displayName": "JONNY TEXAS 150cc",
+      "valorAtual": 2635,
+      "canonicalPath": "/fipe/jonny/texas-150cc-2011-865012-8/",
+      "ano": 2011,
+      "marca": "JONNY"
+    }
+  ],
+  "stats": {
+    "total": 3,
+    "precoMin": 2635,
+    "precoMax": 3189,
+    "anos": [
+      2013,
+      2012,
+      2011
+    ]
+  }
+}

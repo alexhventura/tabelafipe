@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "rs3-1",
+  "canonicalPath": "/geracao/audi/rs3-1/",
+  "titulo": "Geracao rs3-1",
+  "descricao": "2 veiculos da geracao rs3-1.",
+  "seo": {
+    "title": "Geracao rs3-1 - Precos FIPE",
+    "description": "Veiculos da geracao rs3-1 na Tabela FIPE.",
+    "h1": "Geracao rs3-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/audi/rs3-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "audi-rs3-sedan-2-5-tfsi-quattro-s-tronic-0-gasolina",
+      "fipeCodigo": "008221-0",
+      "displayName": "Audi RS3 Sedan 2.5 TFSI Quattro S-tronic",
+      "valorAtual": 679190,
+      "canonicalPath": "/fipe/audi/rs3-sedan-2-5-tfsi-quattro-s-tronic-0-008221-0/",
+      "ano": 0,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-rs3-sedan-track-2-5-tfsi-quattro-s-tronic-0-gasolina",
+      "fipeCodigo": "008321-6",
+      "displayName": "Audi RS3 Sedan Track 2.5 TFSI Quattro S-tronic",
+      "valorAtual": 733562,
+      "canonicalPath": "/fipe/audi/rs3-sedan-track-2-5-tfsi-quattro-s-tronic-0-008321-6/",
+      "ano": 0,
+      "marca": "Audi"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "rs3-1"
+  }
+}

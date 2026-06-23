@@ -1,0 +1,72 @@
+{
+  "tipo": "familia",
+  "slug": "canyon",
+  "canonicalPath": "/fipe/cagiva/canyon/",
+  "titulo": "CAGIVA canyon - Tabela FIPE",
+  "descricao": "5 versoes e anos do CAGIVA canyon na Tabela FIPE.",
+  "seo": {
+    "title": "CAGIVA canyon - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes CAGIVA canyon. 5 veiculos indexados.",
+    "h1": "CAGIVA canyon - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/cagiva/canyon/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "cagiva-canyon-500-2002-gasolina",
+      "fipeCodigo": "805007-4",
+      "displayName": "CAGIVA CANYON 500",
+      "valorAtual": 16813,
+      "canonicalPath": "/fipe/cagiva/canyon-500-2002-805007-4/",
+      "ano": 2002,
+      "marca": "CAGIVA"
+    },
+    {
+      "vehicleId": "cagiva-canyon-500-2001-gasolina",
+      "fipeCodigo": "805007-4",
+      "displayName": "CAGIVA CANYON 500",
+      "valorAtual": 12979,
+      "canonicalPath": "/fipe/cagiva/canyon-500-2001-805007-4/",
+      "ano": 2001,
+      "marca": "CAGIVA"
+    },
+    {
+      "vehicleId": "cagiva-canyon-500-2000-gasolina",
+      "fipeCodigo": "805007-4",
+      "displayName": "CAGIVA CANYON 500",
+      "valorAtual": 11577,
+      "canonicalPath": "/fipe/cagiva/canyon-500-2000-805007-4/",
+      "ano": 2000,
+      "marca": "CAGIVA"
+    },
+    {
+      "vehicleId": "cagiva-canyon-500-1999-gasolina",
+      "fipeCodigo": "805007-4",
+      "displayName": "CAGIVA CANYON 500",
+      "valorAtual": 10971,
+      "canonicalPath": "/fipe/cagiva/canyon-500-1999-805007-4/",
+      "ano": 1999,
+      "marca": "CAGIVA"
+    },
+    {
+      "vehicleId": "cagiva-canyon-500-1998-gasolina",
+      "fipeCodigo": "805007-4",
+      "displayName": "CAGIVA CANYON 500",
+      "valorAtual": 9554,
+      "canonicalPath": "/fipe/cagiva/canyon-500-1998-805007-4/",
+      "ano": 1998,
+      "marca": "CAGIVA"
+    }
+  ],
+  "stats": {
+    "total": 5,
+    "precoMin": 9554,
+    "precoMax": 16813,
+    "anos": [
+      2002,
+      2001,
+      2000,
+      1999,
+      1998
+    ]
+  }
+}

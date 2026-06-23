@@ -1,0 +1,75 @@
+{
+  "tipo": "geracao",
+  "slug": "tchau-2",
+  "canonicalPath": "/geracao/agrale/tchau-2/",
+  "titulo": "Geracao tchau-2",
+  "descricao": "6 veiculos da geracao tchau-2.",
+  "seo": {
+    "title": "Geracao tchau-2 - Precos FIPE",
+    "description": "Veiculos da geracao tchau-2 na Tabela FIPE.",
+    "h1": "Geracao tchau-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/agrale/tchau-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "agrale-tchau-50-1999-gasolina",
+      "fipeCodigo": "801019-6",
+      "displayName": "AGRALE TCHAU 50",
+      "valorAtual": 1335,
+      "canonicalPath": "/fipe/agrale/tchau-50-1999-801019-6/",
+      "ano": 1999,
+      "marca": "AGRALE"
+    },
+    {
+      "vehicleId": "agrale-tchau-50-2000-gasolina",
+      "fipeCodigo": "801019-6",
+      "displayName": "AGRALE TCHAU 50",
+      "valorAtual": 1417,
+      "canonicalPath": "/fipe/agrale/tchau-50-2000-801019-6/",
+      "ano": 2000,
+      "marca": "AGRALE"
+    },
+    {
+      "vehicleId": "agrale-tchau-50-2001-gasolina",
+      "fipeCodigo": "801019-6",
+      "displayName": "AGRALE TCHAU 50",
+      "valorAtual": 1516,
+      "canonicalPath": "/fipe/agrale/tchau-50-2001-801019-6/",
+      "ano": 2001,
+      "marca": "AGRALE"
+    },
+    {
+      "vehicleId": "agrale-tchau-50-2002-gasolina",
+      "fipeCodigo": "801019-6",
+      "displayName": "AGRALE TCHAU 50",
+      "valorAtual": 1580,
+      "canonicalPath": "/fipe/agrale/tchau-50-2002-801019-6/",
+      "ano": 2002,
+      "marca": "AGRALE"
+    },
+    {
+      "vehicleId": "agrale-tchau-50-2003-gasolina",
+      "fipeCodigo": "801019-6",
+      "displayName": "AGRALE TCHAU 50",
+      "valorAtual": 1887,
+      "canonicalPath": "/fipe/agrale/tchau-50-2003-801019-6/",
+      "ano": 2003,
+      "marca": "AGRALE"
+    },
+    {
+      "vehicleId": "agrale-tchau-50-2004-gasolina",
+      "fipeCodigo": "801019-6",
+      "displayName": "AGRALE TCHAU 50",
+      "valorAtual": 1935,
+      "canonicalPath": "/fipe/agrale/tchau-50-2004-801019-6/",
+      "ano": 2004,
+      "marca": "AGRALE"
+    }
+  ],
+  "stats": {
+    "total": 6
+  },
+  "meta": {
+    "geracaoId": "tchau-2"
+  }
+}

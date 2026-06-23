@@ -1,0 +1,52 @@
+{
+  "tipo": "familia",
+  "slug": "hb",
+  "canonicalPath": "/fipe/haobao/hb/",
+  "titulo": "HAOBAO hb - Tabela FIPE",
+  "descricao": "3 versoes e anos do HAOBAO hb na Tabela FIPE.",
+  "seo": {
+    "title": "HAOBAO hb - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes HAOBAO hb. 3 veiculos indexados.",
+    "h1": "HAOBAO hb - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/haobao/hb/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "haobao-hb-50q-2014-gasolina",
+      "fipeCodigo": "856005-6",
+      "displayName": "HAOBAO HB 50Q",
+      "valorAtual": 2238,
+      "canonicalPath": "/fipe/haobao/hb-50q-2014-856005-6/",
+      "ano": 2014,
+      "marca": "HAOBAO"
+    },
+    {
+      "vehicleId": "haobao-hb-50q-2012-gasolina",
+      "fipeCodigo": "856005-6",
+      "displayName": "HAOBAO HB 50Q",
+      "valorAtual": 2165,
+      "canonicalPath": "/fipe/haobao/hb-50q-2012-856005-6/",
+      "ano": 2012,
+      "marca": "HAOBAO"
+    },
+    {
+      "vehicleId": "haobao-hb-50q-2011-gasolina",
+      "fipeCodigo": "856005-6",
+      "displayName": "HAOBAO HB 50Q",
+      "valorAtual": 1922,
+      "canonicalPath": "/fipe/haobao/hb-50q-2011-856005-6/",
+      "ano": 2011,
+      "marca": "HAOBAO"
+    }
+  ],
+  "stats": {
+    "total": 3,
+    "precoMin": 1922,
+    "precoMax": 2238,
+    "anos": [
+      2014,
+      2012,
+      2011
+    ]
+  }
+}

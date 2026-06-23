@@ -1,0 +1,138 @@
+{
+  "tipo": "familia",
+  "slug": "hype",
+  "canonicalPath": "/fipe/jonny/hype/",
+  "titulo": "JONNY hype - Tabela FIPE",
+  "descricao": "12 versoes e anos do JONNY hype na Tabela FIPE.",
+  "seo": {
+    "title": "JONNY hype - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes JONNY hype. 12 veiculos indexados.",
+    "h1": "JONNY hype - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/jonny/hype/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "jonny-hype-50cc-2014-gasolina",
+      "fipeCodigo": "865008-0",
+      "displayName": "JONNY HYPE 50cc",
+      "valorAtual": 3015,
+      "canonicalPath": "/fipe/jonny/hype-50cc-2014-865008-0/",
+      "ano": 2014,
+      "marca": "JONNY"
+    },
+    {
+      "vehicleId": "jonny-hype-50cc-2013-gasolina",
+      "fipeCodigo": "865008-0",
+      "displayName": "JONNY HYPE 50cc",
+      "valorAtual": 2714,
+      "canonicalPath": "/fipe/jonny/hype-50cc-2013-865008-0/",
+      "ano": 2013,
+      "marca": "JONNY"
+    },
+    {
+      "vehicleId": "jonny-hype-50cc-2012-gasolina",
+      "fipeCodigo": "865008-0",
+      "displayName": "JONNY HYPE 50cc",
+      "valorAtual": 2329,
+      "canonicalPath": "/fipe/jonny/hype-50cc-2012-865008-0/",
+      "ano": 2012,
+      "marca": "JONNY"
+    },
+    {
+      "vehicleId": "jonny-hype-110cc-2012-gasolina",
+      "fipeCodigo": "865002-0",
+      "displayName": "JONNY HYPE 110cc",
+      "valorAtual": 2338,
+      "canonicalPath": "/fipe/jonny/hype-110cc-2012-865002-0/",
+      "ano": 2012,
+      "marca": "JONNY"
+    },
+    {
+      "vehicleId": "jonny-hype-125cc-2012-gasolina",
+      "fipeCodigo": "865013-6",
+      "displayName": "JONNY HYPE 125cc",
+      "valorAtual": 2446,
+      "canonicalPath": "/fipe/jonny/hype-125cc-2012-865013-6/",
+      "ano": 2012,
+      "marca": "JONNY"
+    },
+    {
+      "vehicleId": "jonny-hype-50cc-2011-gasolina",
+      "fipeCodigo": "865008-0",
+      "displayName": "JONNY HYPE 50cc",
+      "valorAtual": 2207,
+      "canonicalPath": "/fipe/jonny/hype-50cc-2011-865008-0/",
+      "ano": 2011,
+      "marca": "JONNY"
+    },
+    {
+      "vehicleId": "jonny-hype-110cc-2011-gasolina",
+      "fipeCodigo": "865002-0",
+      "displayName": "JONNY HYPE 110cc",
+      "valorAtual": 2217,
+      "canonicalPath": "/fipe/jonny/hype-110cc-2011-865002-0/",
+      "ano": 2011,
+      "marca": "JONNY"
+    },
+    {
+      "vehicleId": "jonny-hype-50cc-2010-gasolina",
+      "fipeCodigo": "865008-0",
+      "displayName": "JONNY HYPE 50cc",
+      "valorAtual": 2106,
+      "canonicalPath": "/fipe/jonny/hype-50cc-2010-865008-0/",
+      "ano": 2010,
+      "marca": "JONNY"
+    },
+    {
+      "vehicleId": "jonny-hype-110cc-2010-gasolina",
+      "fipeCodigo": "865002-0",
+      "displayName": "JONNY HYPE 110cc",
+      "valorAtual": 2129,
+      "canonicalPath": "/fipe/jonny/hype-110cc-2010-865002-0/",
+      "ano": 2010,
+      "marca": "JONNY"
+    },
+    {
+      "vehicleId": "jonny-hype-110cc-2009-gasolina",
+      "fipeCodigo": "865002-0",
+      "displayName": "JONNY HYPE 110cc",
+      "valorAtual": 1855,
+      "canonicalPath": "/fipe/jonny/hype-110cc-2009-865002-0/",
+      "ano": 2009,
+      "marca": "JONNY"
+    },
+    {
+      "vehicleId": "jonny-hype-110cc-2008-gasolina",
+      "fipeCodigo": "865002-0",
+      "displayName": "JONNY HYPE 110cc",
+      "valorAtual": 1732,
+      "canonicalPath": "/fipe/jonny/hype-110cc-2008-865002-0/",
+      "ano": 2008,
+      "marca": "JONNY"
+    },
+    {
+      "vehicleId": "jonny-hype-110cc-2007-gasolina",
+      "fipeCodigo": "865002-0",
+      "displayName": "JONNY HYPE 110cc",
+      "valorAtual": 1581,
+      "canonicalPath": "/fipe/jonny/hype-110cc-2007-865002-0/",
+      "ano": 2007,
+      "marca": "JONNY"
+    }
+  ],
+  "stats": {
+    "total": 12,
+    "precoMin": 1581,
+    "precoMax": 3015,
+    "anos": [
+      2014,
+      2013,
+      2012,
+      2011,
+      2010,
+      2009,
+      2008,
+      2007
+    ]
+  }
+}

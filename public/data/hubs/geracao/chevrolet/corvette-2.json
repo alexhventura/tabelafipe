@@ -1,0 +1,93 @@
+{
+  "tipo": "geracao",
+  "slug": "corvette-2",
+  "canonicalPath": "/geracao/chevrolet/corvette-2/",
+  "titulo": "Geracao corvette-2",
+  "descricao": "8 veiculos da geracao corvette-2.",
+  "seo": {
+    "title": "Geracao corvette-2 - Precos FIPE",
+    "description": "Veiculos da geracao corvette-2 na Tabela FIPE.",
+    "h1": "Geracao corvette-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/chevrolet/corvette-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "chevrolet-corvette-5-7-6-0-6-2-conv-stingray-1999-gasolina",
+      "fipeCodigo": "004140-8",
+      "displayName": "GM - Chevrolet Corvette 5.7/ 6.0, 6.2 Conv./Stingray",
+      "valorAtual": 107745,
+      "canonicalPath": "/fipe/chevrolet/corvette-5-7-6-0-6-2-conv-stingray-1999-004140-8/",
+      "ano": 1999,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-corvette-5-7-6-0-6-2-conv-stingray-2000-gasolina",
+      "fipeCodigo": "004140-8",
+      "displayName": "GM - Chevrolet Corvette 5.7/ 6.0, 6.2 Conv./Stingray",
+      "valorAtual": 120830,
+      "canonicalPath": "/fipe/chevrolet/corvette-5-7-6-0-6-2-conv-stingray-2000-004140-8/",
+      "ano": 2000,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-corvette-5-7-6-0-6-2-conv-stingray-2002-gasolina",
+      "fipeCodigo": "004140-8",
+      "displayName": "GM - Chevrolet Corvette 5.7/ 6.0, 6.2 Conv./Stingray",
+      "valorAtual": 125510,
+      "canonicalPath": "/fipe/chevrolet/corvette-5-7-6-0-6-2-conv-stingray-2002-004140-8/",
+      "ano": 2002,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-corvette-5-7-6-0-6-2-targa-stingray-1998-gasolina",
+      "fipeCodigo": "004141-6",
+      "displayName": "GM - Chevrolet Corvette 5.7/ 6.0, 6.2 Targa/Stingray",
+      "valorAtual": 101447,
+      "canonicalPath": "/fipe/chevrolet/corvette-5-7-6-0-6-2-targa-stingray-1998-004141-6/",
+      "ano": 1998,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-corvette-5-7-6-0-6-2-targa-stingray-1999-gasolina",
+      "fipeCodigo": "004141-6",
+      "displayName": "GM - Chevrolet Corvette 5.7/ 6.0, 6.2 Targa/Stingray",
+      "valorAtual": 104215,
+      "canonicalPath": "/fipe/chevrolet/corvette-5-7-6-0-6-2-targa-stingray-1999-004141-6/",
+      "ano": 1999,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-corvette-5-7-6-0-6-2-targa-stingray-2000-gasolina",
+      "fipeCodigo": "004141-6",
+      "displayName": "GM - Chevrolet Corvette 5.7/ 6.0, 6.2 Targa/Stingray",
+      "valorAtual": 107748,
+      "canonicalPath": "/fipe/chevrolet/corvette-5-7-6-0-6-2-targa-stingray-2000-004141-6/",
+      "ano": 2000,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-corvette-5-7-6-0-6-2-targa-stingray-2001-gasolina",
+      "fipeCodigo": "004141-6",
+      "displayName": "GM - Chevrolet Corvette 5.7/ 6.0, 6.2 Targa/Stingray",
+      "valorAtual": 110993,
+      "canonicalPath": "/fipe/chevrolet/corvette-5-7-6-0-6-2-targa-stingray-2001-004141-6/",
+      "ano": 2001,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-corvette-5-7-6-0-6-2-targa-stingray-2002-gasolina",
+      "fipeCodigo": "004141-6",
+      "displayName": "GM - Chevrolet Corvette 5.7/ 6.0, 6.2 Targa/Stingray",
+      "valorAtual": 115541,
+      "canonicalPath": "/fipe/chevrolet/corvette-5-7-6-0-6-2-targa-stingray-2002-004141-6/",
+      "ano": 2002,
+      "marca": "GM - Chevrolet"
+    }
+  ],
+  "stats": {
+    "total": 8
+  },
+  "meta": {
+    "geracaoId": "corvette-2"
+  }
+}

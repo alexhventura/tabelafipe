@@ -1,0 +1,84 @@
+{
+  "tipo": "geracao",
+  "slug": "js-1",
+  "canonicalPath": "/geracao/traxx/js-1/",
+  "titulo": "Geracao js-1",
+  "descricao": "7 veiculos da geracao js-1.",
+  "seo": {
+    "title": "Geracao js-1 - Precos FIPE",
+    "description": "Veiculos da geracao js-1 na Tabela FIPE.",
+    "h1": "Geracao js-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/traxx/js-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "traxx-js-250-atv-5-montez-250-2009-gasolina",
+      "fipeCodigo": "814023-5",
+      "displayName": "TRAXX JS 250 ATV-5 MONTEZ 250",
+      "valorAtual": 5460,
+      "canonicalPath": "/fipe/traxx/js-250-atv-5-montez-250-2009-814023-5/",
+      "ano": 2009,
+      "marca": "TRAXX"
+    },
+    {
+      "vehicleId": "traxx-js-250-atv-5-montez-250-2010-gasolina",
+      "fipeCodigo": "814023-5",
+      "displayName": "TRAXX JS 250 ATV-5 MONTEZ 250",
+      "valorAtual": 5903,
+      "canonicalPath": "/fipe/traxx/js-250-atv-5-montez-250-2010-814023-5/",
+      "ano": 2010,
+      "marca": "TRAXX"
+    },
+    {
+      "vehicleId": "traxx-js-250-atv-5-montez-250-2011-gasolina",
+      "fipeCodigo": "814023-5",
+      "displayName": "TRAXX JS 250 ATV-5 MONTEZ 250",
+      "valorAtual": 6104,
+      "canonicalPath": "/fipe/traxx/js-250-atv-5-montez-250-2011-814023-5/",
+      "ano": 2011,
+      "marca": "TRAXX"
+    },
+    {
+      "vehicleId": "traxx-js-250-atv-5-montez-250-2012-gasolina",
+      "fipeCodigo": "814023-5",
+      "displayName": "TRAXX JS 250 ATV-5 MONTEZ 250",
+      "valorAtual": 6257,
+      "canonicalPath": "/fipe/traxx/js-250-atv-5-montez-250-2012-814023-5/",
+      "ano": 2012,
+      "marca": "TRAXX"
+    },
+    {
+      "vehicleId": "traxx-js-250-atv-5-montez-250-2013-gasolina",
+      "fipeCodigo": "814023-5",
+      "displayName": "TRAXX JS 250 ATV-5 MONTEZ 250",
+      "valorAtual": 7389,
+      "canonicalPath": "/fipe/traxx/js-250-atv-5-montez-250-2013-814023-5/",
+      "ano": 2013,
+      "marca": "TRAXX"
+    },
+    {
+      "vehicleId": "traxx-js-250-atv-5-montez-250-2014-gasolina",
+      "fipeCodigo": "814023-5",
+      "displayName": "TRAXX JS 250 ATV-5 MONTEZ 250",
+      "valorAtual": 8577,
+      "canonicalPath": "/fipe/traxx/js-250-atv-5-montez-250-2014-814023-5/",
+      "ano": 2014,
+      "marca": "TRAXX"
+    },
+    {
+      "vehicleId": "traxx-js-250-atv-5-montez-250-2015-gasolina",
+      "fipeCodigo": "814023-5",
+      "displayName": "TRAXX JS 250 ATV-5 MONTEZ 250",
+      "valorAtual": 8827,
+      "canonicalPath": "/fipe/traxx/js-250-atv-5-montez-250-2015-814023-5/",
+      "ano": 2015,
+      "marca": "TRAXX"
+    }
+  ],
+  "stats": {
+    "total": 7
+  },
+  "meta": {
+    "geracaoId": "js-1"
+  }
+}

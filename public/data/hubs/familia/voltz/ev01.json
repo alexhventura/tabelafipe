@@ -1,0 +1,42 @@
+{
+  "tipo": "familia",
+  "slug": "ev01",
+  "canonicalPath": "/fipe/voltz/ev01/",
+  "titulo": "VOLTZ ev01 - Tabela FIPE",
+  "descricao": "2 versoes e anos do VOLTZ ev01 na Tabela FIPE.",
+  "seo": {
+    "title": "VOLTZ ev01 - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes VOLTZ ev01. 2 veiculos indexados.",
+    "h1": "VOLTZ ev01 - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/voltz/ev01/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "voltz-ev01-1800w-eletrica-2021-eletrico",
+      "fipeCodigo": "889001-3",
+      "displayName": "VOLTZ EV01 1800W (Elétrica)",
+      "valorAtual": 9292,
+      "canonicalPath": "/fipe/voltz/ev01-1800w-eletrica-2021-889001-3/",
+      "ano": 2021,
+      "marca": "VOLTZ"
+    },
+    {
+      "vehicleId": "voltz-ev01-1800w-eletrica-2019-eletrico",
+      "fipeCodigo": "889001-3",
+      "displayName": "VOLTZ EV01 1800W (Elétrica)",
+      "valorAtual": 7803,
+      "canonicalPath": "/fipe/voltz/ev01-1800w-eletrica-2019-889001-3/",
+      "ano": 2019,
+      "marca": "VOLTZ"
+    }
+  ],
+  "stats": {
+    "total": 2,
+    "precoMin": 7803,
+    "precoMax": 9292,
+    "anos": [
+      2021,
+      2019
+    ]
+  }
+}

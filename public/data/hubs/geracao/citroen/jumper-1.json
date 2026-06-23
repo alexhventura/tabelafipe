@@ -1,0 +1,57 @@
+{
+  "tipo": "geracao",
+  "slug": "jumper-1",
+  "canonicalPath": "/geracao/citroen/jumper-1/",
+  "titulo": "Geracao jumper-1",
+  "descricao": "4 veiculos da geracao jumper-1.",
+  "seo": {
+    "title": "Geracao jumper-1 - Precos FIPE",
+    "description": "Veiculos da geracao jumper-1 na Tabela FIPE.",
+    "h1": "Geracao jumper-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/citroen/jumper-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "citroen-jumper-cargo-2-2-turbo-diesel-0-diesel",
+      "fipeCodigo": "011220-8",
+      "displayName": "Citroën Jumper Cargo 2.2 Turbo Diesel",
+      "valorAtual": 267100,
+      "canonicalPath": "/fipe/citroen/jumper-cargo-2-2-turbo-diesel-0-011220-8/",
+      "ano": 0,
+      "marca": "Citroën"
+    },
+    {
+      "vehicleId": "citroen-jumper-furgao-2-2-turbo-diesel-0-diesel",
+      "fipeCodigo": "011219-4",
+      "displayName": "Citroën Jumper Furgão 2.2 Turbo Diesel",
+      "valorAtual": 245050,
+      "canonicalPath": "/fipe/citroen/jumper-furgao-2-2-turbo-diesel-0-011219-4/",
+      "ano": 0,
+      "marca": "Citroën"
+    },
+    {
+      "vehicleId": "citroen-jumper-minibus-executive-2-2-17l-dies-0-diesel",
+      "fipeCodigo": "011242-9",
+      "displayName": "Citroën Jumper Minibus Executive 2.2 17L Dies.",
+      "valorAtual": 306989,
+      "canonicalPath": "/fipe/citroen/jumper-minibus-executive-2-2-17l-dies-0-011242-9/",
+      "ano": 0,
+      "marca": "Citroën"
+    },
+    {
+      "vehicleId": "citroen-jumper-vitre-2-2-turbo-diesel-0-diesel",
+      "fipeCodigo": "011243-7",
+      "displayName": "Citroën Jumper Vitré 2.2 Turbo Diesel",
+      "valorAtual": 274740,
+      "canonicalPath": "/fipe/citroen/jumper-vitre-2-2-turbo-diesel-0-011243-7/",
+      "ano": 0,
+      "marca": "Citroën"
+    }
+  ],
+  "stats": {
+    "total": 4
+  },
+  "meta": {
+    "geracaoId": "jumper-1"
+  }
+}

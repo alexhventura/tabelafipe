@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "joyride-2",
+  "canonicalPath": "/geracao/dafra/joyride-2/",
+  "titulo": "Geracao joyride-2",
+  "descricao": "2 veiculos da geracao joyride-2.",
+  "seo": {
+    "title": "Geracao joyride-2 - Precos FIPE",
+    "description": "Veiculos da geracao joyride-2 na Tabela FIPE.",
+    "h1": "Geracao joyride-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/dafra/joyride-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "dafra-joyride-300-2025-gasolina",
+      "fipeCodigo": "861033-9",
+      "displayName": "DAFRA JOYRIDE 300",
+      "valorAtual": 26434,
+      "canonicalPath": "/fipe/dafra/joyride-300-2025-861033-9/",
+      "ano": 2025,
+      "marca": "DAFRA"
+    },
+    {
+      "vehicleId": "dafra-joyride-300-2026-gasolina",
+      "fipeCodigo": "861033-9",
+      "displayName": "DAFRA JOYRIDE 300",
+      "valorAtual": 27532,
+      "canonicalPath": "/fipe/dafra/joyride-300-2026-861033-9/",
+      "ano": 2026,
+      "marca": "DAFRA"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "joyride-2"
+  }
+}

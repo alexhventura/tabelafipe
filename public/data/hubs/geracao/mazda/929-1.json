@@ -1,0 +1,57 @@
+{
+  "tipo": "geracao",
+  "slug": "929-1",
+  "canonicalPath": "/geracao/mazda/929-1/",
+  "titulo": "Geracao 929-1",
+  "descricao": "4 veiculos da geracao 929-1.",
+  "seo": {
+    "title": "Geracao 929-1 - Precos FIPE",
+    "description": "Veiculos da geracao 929-1 na Tabela FIPE.",
+    "h1": "Geracao 929-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/mazda/929-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "mazda-929-v6-aut-1992-gasolina",
+      "fipeCodigo": "020003-4",
+      "displayName": "Mazda 929 V6 Aut",
+      "valorAtual": 9804,
+      "canonicalPath": "/fipe/mazda/929-v6-aut-1992-020003-4/",
+      "ano": 1992,
+      "marca": "Mazda"
+    },
+    {
+      "vehicleId": "mazda-929-v6-aut-1993-gasolina",
+      "fipeCodigo": "020003-4",
+      "displayName": "Mazda 929 V6 Aut",
+      "valorAtual": 12426,
+      "canonicalPath": "/fipe/mazda/929-v6-aut-1993-020003-4/",
+      "ano": 1993,
+      "marca": "Mazda"
+    },
+    {
+      "vehicleId": "mazda-929-v6-aut-1994-gasolina",
+      "fipeCodigo": "020003-4",
+      "displayName": "Mazda 929 V6 Aut",
+      "valorAtual": 12737,
+      "canonicalPath": "/fipe/mazda/929-v6-aut-1994-020003-4/",
+      "ano": 1994,
+      "marca": "Mazda"
+    },
+    {
+      "vehicleId": "mazda-929-v6-aut-1995-gasolina",
+      "fipeCodigo": "020003-4",
+      "displayName": "Mazda 929 V6 Aut",
+      "valorAtual": 14702,
+      "canonicalPath": "/fipe/mazda/929-v6-aut-1995-020003-4/",
+      "ano": 1995,
+      "marca": "Mazda"
+    }
+  ],
+  "stats": {
+    "total": 4
+  },
+  "meta": {
+    "geracaoId": "929-1"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "tipo": "familia",
+  "slug": "uni",
+  "canonicalPath": "/fipe/caoa-changan/uni/",
+  "titulo": "Caoa Changan uni - Tabela FIPE",
+  "descricao": "3 versoes e anos do Caoa Changan uni na Tabela FIPE.",
+  "seo": {
+    "title": "Caoa Changan uni - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes Caoa Changan uni. 3 veiculos indexados.",
+    "h1": "Caoa Changan uni - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/caoa-changan/uni/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "caoa-changan-uni-t-1-5-16v-tgdi-2027-flex",
+      "fipeCodigo": "308001-3",
+      "displayName": "Caoa Changan UNI-T 1.5 16V TGDi",
+      "valorAtual": 161490,
+      "canonicalPath": "/fipe/caoa-changan/uni-t-1-5-16v-tgdi-2027-308001-3/",
+      "ano": 2027,
+      "marca": "Caoa Changan"
+    },
+    {
+      "vehicleId": "caoa-changan-uni-t-1-5-16v-tgdi-2026-flex",
+      "fipeCodigo": "308001-3",
+      "displayName": "Caoa Changan UNI-T 1.5 16V TGDi",
+      "valorAtual": 153092,
+      "canonicalPath": "/fipe/caoa-changan/uni-t-1-5-16v-tgdi-2026-308001-3/",
+      "ano": 2026,
+      "marca": "Caoa Changan"
+    },
+    {
+      "vehicleId": "caoa-changan-uni-t-1-5-16v-tgdi-0-flex",
+      "fipeCodigo": "308001-3",
+      "displayName": "Caoa Changan UNI-T 1.5 16V TGDi",
+      "valorAtual": 169990,
+      "canonicalPath": "/fipe/caoa-changan/uni-t-1-5-16v-tgdi-0-308001-3/",
+      "ano": 0,
+      "marca": "Caoa Changan"
+    }
+  ],
+  "stats": {
+    "total": 3,
+    "precoMin": 153092,
+    "precoMax": 169990,
+    "anos": [
+      2027,
+      2026,
+      0
+    ]
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "tipo": "geracao",
+  "slug": "dr-2",
+  "canonicalPath": "/geracao/haojue/dr-2/",
+  "titulo": "Geracao dr-2",
+  "descricao": "9 veiculos da geracao dr-2.",
+  "seo": {
+    "title": "Geracao dr-2 - Precos FIPE",
+    "description": "Veiculos da geracao dr-2 na Tabela FIPE.",
+    "h1": "Geracao dr-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/haojue/dr-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "haojue-dr-160-2021-gasolina",
+      "fipeCodigo": "885008-9",
+      "displayName": "HAOJUE DR 160",
+      "valorAtual": 13911,
+      "canonicalPath": "/fipe/haojue/dr-160-2021-885008-9/",
+      "ano": 2021,
+      "marca": "HAOJUE"
+    },
+    {
+      "vehicleId": "haojue-dr-160-2022-gasolina",
+      "fipeCodigo": "885008-9",
+      "displayName": "HAOJUE DR 160",
+      "valorAtual": 14670,
+      "canonicalPath": "/fipe/haojue/dr-160-2022-885008-9/",
+      "ano": 2022,
+      "marca": "HAOJUE"
+    },
+    {
+      "vehicleId": "haojue-dr-160-2023-gasolina",
+      "fipeCodigo": "885008-9",
+      "displayName": "HAOJUE DR 160",
+      "valorAtual": 15743,
+      "canonicalPath": "/fipe/haojue/dr-160-2023-885008-9/",
+      "ano": 2023,
+      "marca": "HAOJUE"
+    },
+    {
+      "vehicleId": "haojue-dr-160-2024-gasolina",
+      "fipeCodigo": "885008-9",
+      "displayName": "HAOJUE DR 160",
+      "valorAtual": 16362,
+      "canonicalPath": "/fipe/haojue/dr-160-2024-885008-9/",
+      "ano": 2024,
+      "marca": "HAOJUE"
+    },
+    {
+      "vehicleId": "haojue-dr-160-2025-gasolina",
+      "fipeCodigo": "885008-9",
+      "displayName": "HAOJUE DR 160",
+      "valorAtual": 18608,
+      "canonicalPath": "/fipe/haojue/dr-160-2025-885008-9/",
+      "ano": 2025,
+      "marca": "HAOJUE"
+    },
+    {
+      "vehicleId": "haojue-dr-160-s-2025-gasolina",
+      "fipeCodigo": "885013-5",
+      "displayName": "HAOJUE DR 160 S",
+      "valorAtual": 18028,
+      "canonicalPath": "/fipe/haojue/dr-160-s-2025-885013-5/",
+      "ano": 2025,
+      "marca": "HAOJUE"
+    },
+    {
+      "vehicleId": "haojue-dr-160-s-2026-gasolina",
+      "fipeCodigo": "885013-5",
+      "displayName": "HAOJUE DR 160 S",
+      "valorAtual": 19875,
+      "canonicalPath": "/fipe/haojue/dr-160-s-2026-885013-5/",
+      "ano": 2026,
+      "marca": "HAOJUE"
+    },
+    {
+      "vehicleId": "haojue-dr-160-s-2027-gasolina",
+      "fipeCodigo": "885013-5",
+      "displayName": "HAOJUE DR 160 S",
+      "valorAtual": 20414,
+      "canonicalPath": "/fipe/haojue/dr-160-s-2027-885013-5/",
+      "ano": 2027,
+      "marca": "HAOJUE"
+    },
+    {
+      "vehicleId": "suzuki-dr-z400e-2012-gasolina",
+      "fipeCodigo": "825034-0",
+      "displayName": "SUZUKI DR-Z400E",
+      "valorAtual": 22547,
+      "canonicalPath": "/fipe/suzuki/dr-z400e-2012-825034-0/",
+      "ano": 2012,
+      "marca": "SUZUKI"
+    }
+  ],
+  "stats": {
+    "total": 9
+  },
+  "meta": {
+    "geracaoId": "dr-2"
+  }
+}

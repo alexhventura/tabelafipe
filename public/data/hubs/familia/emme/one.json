@@ -1,0 +1,41 @@
+{
+  "tipo": "familia",
+  "slug": "one",
+  "canonicalPath": "/fipe/emme/one/",
+  "titulo": "EMME one - Tabela FIPE",
+  "descricao": "2 versoes e anos do EMME one na Tabela FIPE.",
+  "seo": {
+    "title": "EMME one - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes EMME one. 2 veiculos indexados.",
+    "h1": "EMME one - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/emme/one/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "emme-one-50cc-1999-gasolina",
+      "fipeCodigo": "809002-5",
+      "displayName": "EMME ONE 50cc",
+      "valorAtual": 1331,
+      "canonicalPath": "/fipe/emme/one-50cc-1999-809002-5/",
+      "ano": 1999,
+      "marca": "EMME"
+    },
+    {
+      "vehicleId": "emme-one-racing-50cc-1999-gasolina",
+      "fipeCodigo": "809003-3",
+      "displayName": "EMME ONE RACING 50cc",
+      "valorAtual": 2546,
+      "canonicalPath": "/fipe/emme/one-racing-50cc-1999-809003-3/",
+      "ano": 1999,
+      "marca": "EMME"
+    }
+  ],
+  "stats": {
+    "total": 2,
+    "precoMin": 1331,
+    "precoMax": 2546,
+    "anos": [
+      1999
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "dbs-1",
+  "canonicalPath": "/geracao/aston-martin/dbs-1/",
+  "titulo": "Geracao dbs-1",
+  "descricao": "2 veiculos da geracao dbs-1.",
+  "seo": {
+    "title": "Geracao dbs-1 - Precos FIPE",
+    "description": "Veiculos da geracao dbs-1 na Tabela FIPE.",
+    "h1": "Geracao dbs-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/aston-martin/dbs-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "aston-martin-dbs-coupe-5-2-v12-725cv-2022-gasolina",
+      "fipeCodigo": "085014-4",
+      "displayName": "ASTON MARTIN DBS Coupe 5.2 V12 725cv",
+      "valorAtual": 3655514,
+      "canonicalPath": "/fipe/aston-martin/dbs-coupe-5-2-v12-725cv-2022-085014-4/",
+      "ano": 2022,
+      "marca": "ASTON MARTIN"
+    },
+    {
+      "vehicleId": "aston-martin-dbs-coupe-5-2-v12-725cv-2023-gasolina",
+      "fipeCodigo": "085014-4",
+      "displayName": "ASTON MARTIN DBS Coupe 5.2 V12 725cv",
+      "valorAtual": 3977000,
+      "canonicalPath": "/fipe/aston-martin/dbs-coupe-5-2-v12-725cv-2023-085014-4/",
+      "ano": 2023,
+      "marca": "ASTON MARTIN"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "dbs-1"
+  }
+}

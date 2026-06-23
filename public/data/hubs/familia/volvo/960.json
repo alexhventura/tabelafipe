@@ -1,0 +1,92 @@
+{
+  "tipo": "familia",
+  "slug": "960",
+  "canonicalPath": "/fipe/volvo/960/",
+  "titulo": "Volvo 960 - Tabela FIPE",
+  "descricao": "7 versoes e anos do Volvo 960 na Tabela FIPE.",
+  "seo": {
+    "title": "Volvo 960 - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes Volvo 960. 7 veiculos indexados.",
+    "h1": "Volvo 960 - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/volvo/960/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "volvo-960-sedan-1997-gasolina",
+      "fipeCodigo": "029004-1",
+      "displayName": "Volvo 960 Sedan",
+      "valorAtual": 20139,
+      "canonicalPath": "/fipe/volvo/960-sedan-1997-029004-1/",
+      "ano": 1997,
+      "marca": "Volvo"
+    },
+    {
+      "vehicleId": "volvo-960-sedan-1996-gasolina",
+      "fipeCodigo": "029004-1",
+      "displayName": "Volvo 960 Sedan",
+      "valorAtual": 19647,
+      "canonicalPath": "/fipe/volvo/960-sedan-1996-029004-1/",
+      "ano": 1996,
+      "marca": "Volvo"
+    },
+    {
+      "vehicleId": "volvo-960-sedan-1995-gasolina",
+      "fipeCodigo": "029004-1",
+      "displayName": "Volvo 960 Sedan",
+      "valorAtual": 19167,
+      "canonicalPath": "/fipe/volvo/960-sedan-1995-029004-1/",
+      "ano": 1995,
+      "marca": "Volvo"
+    },
+    {
+      "vehicleId": "volvo-960-sedan-1994-gasolina",
+      "fipeCodigo": "029004-1",
+      "displayName": "Volvo 960 Sedan",
+      "valorAtual": 15085,
+      "canonicalPath": "/fipe/volvo/960-sedan-1994-029004-1/",
+      "ano": 1994,
+      "marca": "Volvo"
+    },
+    {
+      "vehicleId": "volvo-960-sedan-1993-gasolina",
+      "fipeCodigo": "029004-1",
+      "displayName": "Volvo 960 Sedan",
+      "valorAtual": 11386,
+      "canonicalPath": "/fipe/volvo/960-sedan-1993-029004-1/",
+      "ano": 1993,
+      "marca": "Volvo"
+    },
+    {
+      "vehicleId": "volvo-960-sedan-1992-gasolina",
+      "fipeCodigo": "029004-1",
+      "displayName": "Volvo 960 Sedan",
+      "valorAtual": 10484,
+      "canonicalPath": "/fipe/volvo/960-sedan-1992-029004-1/",
+      "ano": 1992,
+      "marca": "Volvo"
+    },
+    {
+      "vehicleId": "volvo-960-sedan-1991-gasolina",
+      "fipeCodigo": "029004-1",
+      "displayName": "Volvo 960 Sedan",
+      "valorAtual": 9849,
+      "canonicalPath": "/fipe/volvo/960-sedan-1991-029004-1/",
+      "ano": 1991,
+      "marca": "Volvo"
+    }
+  ],
+  "stats": {
+    "total": 7,
+    "precoMin": 9849,
+    "precoMax": 20139,
+    "anos": [
+      1997,
+      1996,
+      1995,
+      1994,
+      1993,
+      1992,
+      1991
+    ]
+  }
+}

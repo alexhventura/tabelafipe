@@ -1,0 +1,62 @@
+{
+  "tipo": "familia",
+  "slug": "6000",
+  "canonicalPath": "/fipe/chevrolet/6000/",
+  "titulo": "CHEVROLET 6000 - Tabela FIPE",
+  "descricao": "4 versoes e anos do CHEVROLET 6000 na Tabela FIPE.",
+  "seo": {
+    "title": "CHEVROLET 6000 - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes CHEVROLET 6000. 4 veiculos indexados.",
+    "h1": "CHEVROLET 6000 - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/chevrolet/6000/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "chevrolet-6000-2p-diesel-1996-diesel",
+      "fipeCodigo": "502013-1",
+      "displayName": "CHEVROLET 6000 2p (diesel)",
+      "valorAtual": 32927,
+      "canonicalPath": "/fipe/chevrolet/6000-2p-diesel-1996-502013-1/",
+      "ano": 1996,
+      "marca": "CHEVROLET"
+    },
+    {
+      "vehicleId": "chevrolet-6000-2p-diesel-1995-diesel",
+      "fipeCodigo": "502013-1",
+      "displayName": "CHEVROLET 6000 2p (diesel)",
+      "valorAtual": 27354,
+      "canonicalPath": "/fipe/chevrolet/6000-2p-diesel-1995-502013-1/",
+      "ano": 1995,
+      "marca": "CHEVROLET"
+    },
+    {
+      "vehicleId": "chevrolet-6000-2p-diesel-1994-diesel",
+      "fipeCodigo": "502013-1",
+      "displayName": "CHEVROLET 6000 2p (diesel)",
+      "valorAtual": 26686,
+      "canonicalPath": "/fipe/chevrolet/6000-2p-diesel-1994-502013-1/",
+      "ano": 1994,
+      "marca": "CHEVROLET"
+    },
+    {
+      "vehicleId": "chevrolet-6000-2p-diesel-1993-diesel",
+      "fipeCodigo": "502013-1",
+      "displayName": "CHEVROLET 6000 2p (diesel)",
+      "valorAtual": 24709,
+      "canonicalPath": "/fipe/chevrolet/6000-2p-diesel-1993-502013-1/",
+      "ano": 1993,
+      "marca": "CHEVROLET"
+    }
+  ],
+  "stats": {
+    "total": 4,
+    "precoMin": 24709,
+    "precoMax": 32927,
+    "anos": [
+      1996,
+      1995,
+      1994,
+      1993
+    ]
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "tipo": "familia",
+  "slug": "vtx",
+  "canonicalPath": "/fipe/honda/vtx/",
+  "titulo": "HONDA vtx - Tabela FIPE",
+  "descricao": "5 versoes e anos do HONDA vtx na Tabela FIPE.",
+  "seo": {
+    "title": "HONDA vtx - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes HONDA vtx. 5 veiculos indexados.",
+    "h1": "HONDA vtx - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/honda/vtx/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "honda-vtx-1800r-1800s-1800c-1795cc-2007-gasolina",
+      "fipeCodigo": "811063-8",
+      "displayName": "HONDA VTX 1800R/ 1800S/ 1800C 1795cc",
+      "valorAtual": 50790,
+      "canonicalPath": "/fipe/honda/vtx-1800r-1800s-1800c-1795cc-2007-811063-8/",
+      "ano": 2007,
+      "marca": "HONDA"
+    },
+    {
+      "vehicleId": "honda-vtx-1800r-1800s-1800c-1795cc-2006-gasolina",
+      "fipeCodigo": "811063-8",
+      "displayName": "HONDA VTX 1800R/ 1800S/ 1800C 1795cc",
+      "valorAtual": 49551,
+      "canonicalPath": "/fipe/honda/vtx-1800r-1800s-1800c-1795cc-2006-811063-8/",
+      "ano": 2006,
+      "marca": "HONDA"
+    },
+    {
+      "vehicleId": "honda-vtx-1800r-1800s-1800c-1795cc-2005-gasolina",
+      "fipeCodigo": "811063-8",
+      "displayName": "HONDA VTX 1800R/ 1800S/ 1800C 1795cc",
+      "valorAtual": 37748,
+      "canonicalPath": "/fipe/honda/vtx-1800r-1800s-1800c-1795cc-2005-811063-8/",
+      "ano": 2005,
+      "marca": "HONDA"
+    },
+    {
+      "vehicleId": "honda-vtx-1800r-1800s-1800c-1795cc-2004-gasolina",
+      "fipeCodigo": "811063-8",
+      "displayName": "HONDA VTX 1800R/ 1800S/ 1800C 1795cc",
+      "valorAtual": 30419,
+      "canonicalPath": "/fipe/honda/vtx-1800r-1800s-1800c-1795cc-2004-811063-8/",
+      "ano": 2004,
+      "marca": "HONDA"
+    },
+    {
+      "vehicleId": "honda-vtx-1800r-1800s-1800c-1795cc-2002-gasolina",
+      "fipeCodigo": "811063-8",
+      "displayName": "HONDA VTX 1800R/ 1800S/ 1800C 1795cc",
+      "valorAtual": 27876,
+      "canonicalPath": "/fipe/honda/vtx-1800r-1800s-1800c-1795cc-2002-811063-8/",
+      "ano": 2002,
+      "marca": "HONDA"
+    }
+  ],
+  "stats": {
+    "total": 5,
+    "precoMin": 27876,
+    "precoMax": 50790,
+    "anos": [
+      2007,
+      2006,
+      2005,
+      2004,
+      2002
+    ]
+  }
+}

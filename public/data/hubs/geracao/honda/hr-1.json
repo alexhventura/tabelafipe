@@ -1,0 +1,66 @@
+{
+  "tipo": "geracao",
+  "slug": "hr-1",
+  "canonicalPath": "/geracao/honda/hr-1/",
+  "titulo": "Geracao hr-1",
+  "descricao": "5 veiculos da geracao hr-1.",
+  "seo": {
+    "title": "Geracao hr-1 - Precos FIPE",
+    "description": "Veiculos da geracao hr-1 na Tabela FIPE.",
+    "h1": "Geracao hr-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/honda/hr-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "honda-hr-v-advance-1-5-flex-tb-16v-5p-aut-0-flex",
+      "fipeCodigo": "014111-9",
+      "displayName": "Honda HR-V Advance 1.5  Flex TB 16V 5p Aut.",
+      "valorAtual": 201827,
+      "canonicalPath": "/fipe/honda/hr-v-advance-1-5-flex-tb-16v-5p-aut-0-014111-9/",
+      "ano": 0,
+      "marca": "Honda"
+    },
+    {
+      "vehicleId": "honda-hr-v-ex-1-5-flex-sensing-16v-5p-aut-0-flex",
+      "fipeCodigo": "014109-7",
+      "displayName": "Honda HR-V EX 1.5 Flex Sensing 16V 5p Aut.",
+      "valorAtual": 165071,
+      "canonicalPath": "/fipe/honda/hr-v-ex-1-5-flex-sensing-16v-5p-aut-0-014109-7/",
+      "ano": 0,
+      "marca": "Honda"
+    },
+    {
+      "vehicleId": "honda-hr-v-exl-1-5-flex-sensing-16v-5p-aut-0-flex",
+      "fipeCodigo": "014110-0",
+      "displayName": "Honda HR-V EXL 1.5 Flex Sensing 16V 5p Aut.",
+      "valorAtual": 173092,
+      "canonicalPath": "/fipe/honda/hr-v-exl-1-5-flex-sensing-16v-5p-aut-0-014110-0/",
+      "ano": 0,
+      "marca": "Honda"
+    },
+    {
+      "vehicleId": "honda-hr-v-touring-1-5-flex-tb-16v-5p-aut-0-flex",
+      "fipeCodigo": "014102-0",
+      "displayName": "Honda HR-V Touring 1.5 Flex TB 16V 5p Aut.",
+      "valorAtual": 212565,
+      "canonicalPath": "/fipe/honda/hr-v-touring-1-5-flex-tb-16v-5p-aut-0-014102-0/",
+      "ano": 0,
+      "marca": "Honda"
+    },
+    {
+      "vehicleId": "hyundai-hr-2-5-4wd-diesel-0-diesel",
+      "fipeCodigo": "015229-3",
+      "displayName": "Hyundai HR 2.5 4WD Diesel",
+      "valorAtual": 182537,
+      "canonicalPath": "/fipe/hyundai/hr-2-5-4wd-diesel-0-015229-3/",
+      "ano": 0,
+      "marca": "Hyundai"
+    }
+  ],
+  "stats": {
+    "total": 5
+  },
+  "meta": {
+    "geracaoId": "hr-1"
+  }
+}

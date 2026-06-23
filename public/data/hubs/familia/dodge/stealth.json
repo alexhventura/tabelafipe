@@ -1,0 +1,52 @@
+{
+  "tipo": "familia",
+  "slug": "stealth",
+  "canonicalPath": "/fipe/dodge/stealth/",
+  "titulo": "Dodge stealth - Tabela FIPE",
+  "descricao": "3 versoes e anos do Dodge stealth na Tabela FIPE.",
+  "seo": {
+    "title": "Dodge stealth - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes Dodge stealth. 3 veiculos indexados.",
+    "h1": "Dodge stealth - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/dodge/stealth/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "dodge-stealth-3-0-mpi-1994-gasolina",
+      "fipeCodigo": "013009-5",
+      "displayName": "Dodge Stealth 3.0 MPI",
+      "valorAtual": 107223,
+      "canonicalPath": "/fipe/dodge/stealth-3-0-mpi-1994-013009-5/",
+      "ano": 1994,
+      "marca": "Dodge"
+    },
+    {
+      "vehicleId": "dodge-stealth-3-0-mpi-1993-gasolina",
+      "fipeCodigo": "013009-5",
+      "displayName": "Dodge Stealth 3.0 MPI",
+      "valorAtual": 104607,
+      "canonicalPath": "/fipe/dodge/stealth-3-0-mpi-1993-013009-5/",
+      "ano": 1993,
+      "marca": "Dodge"
+    },
+    {
+      "vehicleId": "dodge-stealth-3-0-mpi-1992-gasolina",
+      "fipeCodigo": "013009-5",
+      "displayName": "Dodge Stealth 3.0 MPI",
+      "valorAtual": 101364,
+      "canonicalPath": "/fipe/dodge/stealth-3-0-mpi-1992-013009-5/",
+      "ano": 1992,
+      "marca": "Dodge"
+    }
+  ],
+  "stats": {
+    "total": 3,
+    "precoMin": 101364,
+    "precoMax": 107223,
+    "anos": [
+      1994,
+      1993,
+      1992
+    ]
+  }
+}

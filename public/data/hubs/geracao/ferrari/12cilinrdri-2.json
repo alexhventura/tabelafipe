@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "12cilinrdri-2",
+  "canonicalPath": "/geracao/ferrari/12cilinrdri-2/",
+  "titulo": "Geracao 12cilinrdri-2",
+  "descricao": "2 veiculos da geracao 12cilinrdri-2.",
+  "seo": {
+    "title": "Geracao 12cilinrdri-2 - Precos FIPE",
+    "description": "Veiculos da geracao 12cilinrdri-2 na Tabela FIPE.",
+    "h1": "Geracao 12cilinrdri-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/ferrari/12cilinrdri-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "ferrari-12cilinrdri-coupe-6-5-v12-830cv-2025-gasolina",
+      "fipeCodigo": "031058-1",
+      "displayName": "Ferrari 12Cilinrdri Coupe 6.5 V12 830cv",
+      "valorAtual": 6496575,
+      "canonicalPath": "/fipe/ferrari/12cilinrdri-coupe-6-5-v12-830cv-2025-031058-1/",
+      "ano": 2025,
+      "marca": "Ferrari"
+    },
+    {
+      "vehicleId": "ferrari-12cilinrdri-spider-6-5-v12-830cv-2025-gasolina",
+      "fipeCodigo": "031059-0",
+      "displayName": "Ferrari 12Cilinrdri Spider 6.5 V12 830cv",
+      "valorAtual": 7652334,
+      "canonicalPath": "/fipe/ferrari/12cilinrdri-spider-6-5-v12-830cv-2025-031059-0/",
+      "ano": 2025,
+      "marca": "Ferrari"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "12cilinrdri-2"
+  }
+}

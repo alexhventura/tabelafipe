@@ -1,0 +1,62 @@
+{
+  "tipo": "familia",
+  "slug": "620",
+  "canonicalPath": "/fipe/lifan/620/",
+  "titulo": "LIFAN 620 - Tabela FIPE",
+  "descricao": "4 versoes e anos do LIFAN 620 na Tabela FIPE.",
+  "seo": {
+    "title": "LIFAN 620 - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes LIFAN 620. 4 veiculos indexados.",
+    "h1": "LIFAN 620 - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/lifan/620/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "lifan-620-talent-1-6-16v-106cv-4p-2012-gasolina",
+      "fipeCodigo": "077002-7",
+      "displayName": "LIFAN 620 TALENT 1.6 16V 106cv 4p",
+      "valorAtual": 19098,
+      "canonicalPath": "/fipe/lifan/620-talent-1-6-16v-106cv-4p-2012-077002-7/",
+      "ano": 2012,
+      "marca": "LIFAN"
+    },
+    {
+      "vehicleId": "lifan-620-talent-1-6-16v-106cv-4p-2011-gasolina",
+      "fipeCodigo": "077002-7",
+      "displayName": "LIFAN 620 TALENT 1.6 16V 106cv 4p",
+      "valorAtual": 17371,
+      "canonicalPath": "/fipe/lifan/620-talent-1-6-16v-106cv-4p-2011-077002-7/",
+      "ano": 2011,
+      "marca": "LIFAN"
+    },
+    {
+      "vehicleId": "lifan-620-talent-1-6-16v-106cv-4p-2010-gasolina",
+      "fipeCodigo": "077002-7",
+      "displayName": "LIFAN 620 TALENT 1.6 16V 106cv 4p",
+      "valorAtual": 15325,
+      "canonicalPath": "/fipe/lifan/620-talent-1-6-16v-106cv-4p-2010-077002-7/",
+      "ano": 2010,
+      "marca": "LIFAN"
+    },
+    {
+      "vehicleId": "lifan-620-talent-1-6-16v-106cv-4p-2009-gasolina",
+      "fipeCodigo": "077002-7",
+      "displayName": "LIFAN 620 TALENT 1.6 16V 106cv 4p",
+      "valorAtual": 14798,
+      "canonicalPath": "/fipe/lifan/620-talent-1-6-16v-106cv-4p-2009-077002-7/",
+      "ano": 2009,
+      "marca": "LIFAN"
+    }
+  ],
+  "stats": {
+    "total": 4,
+    "precoMin": 14798,
+    "precoMax": 19098,
+    "anos": [
+      2012,
+      2011,
+      2010,
+      2009
+    ]
+  }
+}

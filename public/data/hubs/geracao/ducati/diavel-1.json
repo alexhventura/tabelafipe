@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "diavel-1",
+  "canonicalPath": "/geracao/ducati/diavel-1/",
+  "titulo": "Geracao diavel-1",
+  "descricao": "2 veiculos da geracao diavel-1.",
+  "seo": {
+    "title": "Geracao diavel-1 - Precos FIPE",
+    "description": "Veiculos da geracao diavel-1 na Tabela FIPE.",
+    "h1": "Geracao diavel-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/ducati/diavel-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "ducati-diavel-1260-s-0-gasolina",
+      "fipeCodigo": "808082-8",
+      "displayName": "DUCATI DIAVEL 1260 S",
+      "valorAtual": 117998,
+      "canonicalPath": "/fipe/ducati/diavel-1260-s-0-808082-8/",
+      "ano": 0,
+      "marca": "DUCATI"
+    },
+    {
+      "vehicleId": "ducati-diavel-v4-1158-0-gasolina",
+      "fipeCodigo": "808091-7",
+      "displayName": "DUCATI DIAVEL V4 1158",
+      "valorAtual": 154446,
+      "canonicalPath": "/fipe/ducati/diavel-v4-1158-0-808091-7/",
+      "ano": 0,
+      "marca": "DUCATI"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "diavel-1"
+  }
+}

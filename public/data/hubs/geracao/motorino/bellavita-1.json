@@ -1,0 +1,84 @@
+{
+  "tipo": "geracao",
+  "slug": "bellavita-1",
+  "canonicalPath": "/geracao/motorino/bellavita-1/",
+  "titulo": "Geracao bellavita-1",
+  "descricao": "7 veiculos da geracao bellavita-1.",
+  "seo": {
+    "title": "Geracao bellavita-1 - Precos FIPE",
+    "description": "Veiculos da geracao bellavita-1 na Tabela FIPE.",
+    "h1": "Geracao bellavita-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/motorino/bellavita-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "motorino-bellavita-150cc-2009-gasolina",
+      "fipeCodigo": "881007-9",
+      "displayName": "MOTORINO Bellavita 150cc",
+      "valorAtual": 3303,
+      "canonicalPath": "/fipe/motorino/bellavita-150cc-2009-881007-9/",
+      "ano": 2009,
+      "marca": "MOTORINO"
+    },
+    {
+      "vehicleId": "motorino-bellavita-150cc-2010-gasolina",
+      "fipeCodigo": "881007-9",
+      "displayName": "MOTORINO Bellavita 150cc",
+      "valorAtual": 3698,
+      "canonicalPath": "/fipe/motorino/bellavita-150cc-2010-881007-9/",
+      "ano": 2010,
+      "marca": "MOTORINO"
+    },
+    {
+      "vehicleId": "motorino-bellavita-150cc-2011-gasolina",
+      "fipeCodigo": "881007-9",
+      "displayName": "MOTORINO Bellavita 150cc",
+      "valorAtual": 4776,
+      "canonicalPath": "/fipe/motorino/bellavita-150cc-2011-881007-9/",
+      "ano": 2011,
+      "marca": "MOTORINO"
+    },
+    {
+      "vehicleId": "motorino-bellavita-150cc-2012-gasolina",
+      "fipeCodigo": "881007-9",
+      "displayName": "MOTORINO Bellavita 150cc",
+      "valorAtual": 5193,
+      "canonicalPath": "/fipe/motorino/bellavita-150cc-2012-881007-9/",
+      "ano": 2012,
+      "marca": "MOTORINO"
+    },
+    {
+      "vehicleId": "motorino-bellavita-150cc-2013-gasolina",
+      "fipeCodigo": "881007-9",
+      "displayName": "MOTORINO Bellavita 150cc",
+      "valorAtual": 5696,
+      "canonicalPath": "/fipe/motorino/bellavita-150cc-2013-881007-9/",
+      "ano": 2013,
+      "marca": "MOTORINO"
+    },
+    {
+      "vehicleId": "motorino-bellavita-150cc-2014-gasolina",
+      "fipeCodigo": "881007-9",
+      "displayName": "MOTORINO Bellavita 150cc",
+      "valorAtual": 5839,
+      "canonicalPath": "/fipe/motorino/bellavita-150cc-2014-881007-9/",
+      "ano": 2014,
+      "marca": "MOTORINO"
+    },
+    {
+      "vehicleId": "motorino-bellavita-150cc-2015-gasolina",
+      "fipeCodigo": "881007-9",
+      "displayName": "MOTORINO Bellavita 150cc",
+      "valorAtual": 5985,
+      "canonicalPath": "/fipe/motorino/bellavita-150cc-2015-881007-9/",
+      "ano": 2015,
+      "marca": "MOTORINO"
+    }
+  ],
+  "stats": {
+    "total": 7
+  },
+  "meta": {
+    "geracaoId": "bellavita-1"
+  }
+}

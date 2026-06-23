@@ -1,0 +1,117 @@
+{
+  "tipo": "familia",
+  "slug": "nqi",
+  "canonicalPath": "/fipe/niu/nqi/",
+  "titulo": "NIU nqi - Tabela FIPE",
+  "descricao": "10 versoes e anos do NIU nqi na Tabela FIPE.",
+  "seo": {
+    "title": "NIU nqi - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes NIU nqi. 10 veiculos indexados.",
+    "h1": "NIU nqi - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/niu/nqi/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "niu-nqi-sport-1500w-eletrica-2024-eletrico",
+      "fipeCodigo": "893002-3",
+      "displayName": "NIU NQI Sport 1500W (Elétrica)",
+      "valorAtual": 17979,
+      "canonicalPath": "/fipe/niu/nqi-sport-1500w-eletrica-2024-893002-3/",
+      "ano": 2024,
+      "marca": "NIU"
+    },
+    {
+      "vehicleId": "niu-nqi-gts-3000w-eletrica-2024-eletrico",
+      "fipeCodigo": "893003-1",
+      "displayName": "NIU NQI GTS 3000W (Elétrica)",
+      "valorAtual": 29555,
+      "canonicalPath": "/fipe/niu/nqi-gts-3000w-eletrica-2024-893003-1/",
+      "ano": 2024,
+      "marca": "NIU"
+    },
+    {
+      "vehicleId": "niu-nqi-sport-1500w-eletrica-2023-eletrico",
+      "fipeCodigo": "893002-3",
+      "displayName": "NIU NQI Sport 1500W (Elétrica)",
+      "valorAtual": 16971,
+      "canonicalPath": "/fipe/niu/nqi-sport-1500w-eletrica-2023-893002-3/",
+      "ano": 2023,
+      "marca": "NIU"
+    },
+    {
+      "vehicleId": "niu-nqi-gts-3000w-eletrica-2023-eletrico",
+      "fipeCodigo": "893003-1",
+      "displayName": "NIU NQI GTS 3000W (Elétrica)",
+      "valorAtual": 25428,
+      "canonicalPath": "/fipe/niu/nqi-gts-3000w-eletrica-2023-893003-1/",
+      "ano": 2023,
+      "marca": "NIU"
+    },
+    {
+      "vehicleId": "niu-nqi-sport-1500w-eletrica-2022-eletrico",
+      "fipeCodigo": "893002-3",
+      "displayName": "NIU NQI Sport 1500W (Elétrica)",
+      "valorAtual": 15932,
+      "canonicalPath": "/fipe/niu/nqi-sport-1500w-eletrica-2022-893002-3/",
+      "ano": 2022,
+      "marca": "NIU"
+    },
+    {
+      "vehicleId": "niu-nqi-gts-3000w-eletrica-2022-eletrico",
+      "fipeCodigo": "893003-1",
+      "displayName": "NIU NQI GTS 3000W (Elétrica)",
+      "valorAtual": 21292,
+      "canonicalPath": "/fipe/niu/nqi-gts-3000w-eletrica-2022-893003-1/",
+      "ano": 2022,
+      "marca": "NIU"
+    },
+    {
+      "vehicleId": "niu-nqi-sport-1500w-eletrica-2021-eletrico",
+      "fipeCodigo": "893002-3",
+      "displayName": "NIU NQI Sport 1500W (Elétrica)",
+      "valorAtual": 14501,
+      "canonicalPath": "/fipe/niu/nqi-sport-1500w-eletrica-2021-893002-3/",
+      "ano": 2021,
+      "marca": "NIU"
+    },
+    {
+      "vehicleId": "niu-nqi-gts-3000w-eletrica-2021-eletrico",
+      "fipeCodigo": "893003-1",
+      "displayName": "NIU NQI GTS 3000W (Elétrica)",
+      "valorAtual": 15793,
+      "canonicalPath": "/fipe/niu/nqi-gts-3000w-eletrica-2021-893003-1/",
+      "ano": 2021,
+      "marca": "NIU"
+    },
+    {
+      "vehicleId": "niu-nqi-sport-1500w-eletrica-0-eletrico",
+      "fipeCodigo": "893002-3",
+      "displayName": "NIU NQI Sport 1500W (Elétrica)",
+      "valorAtual": 19754,
+      "canonicalPath": "/fipe/niu/nqi-sport-1500w-eletrica-0-893002-3/",
+      "ano": 0,
+      "marca": "NIU"
+    },
+    {
+      "vehicleId": "niu-nqi-gts-3000w-eletrica-0-eletrico",
+      "fipeCodigo": "893003-1",
+      "displayName": "NIU NQI GTS 3000W (Elétrica)",
+      "valorAtual": 34456,
+      "canonicalPath": "/fipe/niu/nqi-gts-3000w-eletrica-0-893003-1/",
+      "ano": 0,
+      "marca": "NIU"
+    }
+  ],
+  "stats": {
+    "total": 10,
+    "precoMin": 14501,
+    "precoMax": 34456,
+    "anos": [
+      2024,
+      2023,
+      2022,
+      2021,
+      0
+    ]
+  }
+}

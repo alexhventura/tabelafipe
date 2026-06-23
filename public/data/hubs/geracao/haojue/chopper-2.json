@@ -1,0 +1,93 @@
+{
+  "tipo": "geracao",
+  "slug": "chopper-2",
+  "canonicalPath": "/geracao/haojue/chopper-2/",
+  "titulo": "Geracao chopper-2",
+  "descricao": "8 veiculos da geracao chopper-2.",
+  "seo": {
+    "title": "Geracao chopper-2 - Precos FIPE",
+    "description": "Veiculos da geracao chopper-2 na Tabela FIPE.",
+    "h1": "Geracao chopper-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/haojue/chopper-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "haojue-chopper-road-150-2018-gasolina",
+      "fipeCodigo": "885002-0",
+      "displayName": "HAOJUE CHOPPER ROAD 150",
+      "valorAtual": 9673,
+      "canonicalPath": "/fipe/haojue/chopper-road-150-2018-885002-0/",
+      "ano": 2018,
+      "marca": "HAOJUE"
+    },
+    {
+      "vehicleId": "haojue-chopper-road-150-2019-gasolina",
+      "fipeCodigo": "885002-0",
+      "displayName": "HAOJUE CHOPPER ROAD 150",
+      "valorAtual": 10223,
+      "canonicalPath": "/fipe/haojue/chopper-road-150-2019-885002-0/",
+      "ano": 2019,
+      "marca": "HAOJUE"
+    },
+    {
+      "vehicleId": "haojue-chopper-road-150-2020-gasolina",
+      "fipeCodigo": "885002-0",
+      "displayName": "HAOJUE CHOPPER ROAD 150",
+      "valorAtual": 10563,
+      "canonicalPath": "/fipe/haojue/chopper-road-150-2020-885002-0/",
+      "ano": 2020,
+      "marca": "HAOJUE"
+    },
+    {
+      "vehicleId": "haojue-chopper-road-150-2021-gasolina",
+      "fipeCodigo": "885002-0",
+      "displayName": "HAOJUE CHOPPER ROAD 150",
+      "valorAtual": 11056,
+      "canonicalPath": "/fipe/haojue/chopper-road-150-2021-885002-0/",
+      "ano": 2021,
+      "marca": "HAOJUE"
+    },
+    {
+      "vehicleId": "haojue-chopper-road-150-2022-gasolina",
+      "fipeCodigo": "885002-0",
+      "displayName": "HAOJUE CHOPPER ROAD 150",
+      "valorAtual": 11364,
+      "canonicalPath": "/fipe/haojue/chopper-road-150-2022-885002-0/",
+      "ano": 2022,
+      "marca": "HAOJUE"
+    },
+    {
+      "vehicleId": "haojue-chopper-road-150-2023-gasolina",
+      "fipeCodigo": "885002-0",
+      "displayName": "HAOJUE CHOPPER ROAD 150",
+      "valorAtual": 12679,
+      "canonicalPath": "/fipe/haojue/chopper-road-150-2023-885002-0/",
+      "ano": 2023,
+      "marca": "HAOJUE"
+    },
+    {
+      "vehicleId": "haojue-chopper-road-150-2024-gasolina",
+      "fipeCodigo": "885002-0",
+      "displayName": "HAOJUE CHOPPER ROAD 150",
+      "valorAtual": 13514,
+      "canonicalPath": "/fipe/haojue/chopper-road-150-2024-885002-0/",
+      "ano": 2024,
+      "marca": "HAOJUE"
+    },
+    {
+      "vehicleId": "haojue-chopper-road-150-2025-gasolina",
+      "fipeCodigo": "885002-0",
+      "displayName": "HAOJUE CHOPPER ROAD 150",
+      "valorAtual": 13975,
+      "canonicalPath": "/fipe/haojue/chopper-road-150-2025-885002-0/",
+      "ano": 2025,
+      "marca": "HAOJUE"
+    }
+  ],
+  "stats": {
+    "total": 8
+  },
+  "meta": {
+    "geracaoId": "chopper-2"
+  }
+}

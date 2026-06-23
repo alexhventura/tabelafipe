@@ -1,0 +1,101 @@
+{
+  "tipo": "familia",
+  "slug": "general",
+  "canonicalPath": "/fipe/polaris/general/",
+  "titulo": "POLARIS general - Tabela FIPE",
+  "descricao": "8 versoes e anos do POLARIS general na Tabela FIPE.",
+  "seo": {
+    "title": "POLARIS general - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes POLARIS general. 8 veiculos indexados.",
+    "h1": "POLARIS general - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/polaris/general/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "polaris-general-xp-4-1000-ultimate-utv-2025-gasolina",
+      "fipeCodigo": "884027-0",
+      "displayName": "POLARIS General XP 4 1000 ULTIMATE (UTV)",
+      "valorAtual": 165279,
+      "canonicalPath": "/fipe/polaris/general-xp-4-1000-ultimate-utv-2025-884027-0/",
+      "ano": 2025,
+      "marca": "POLARIS"
+    },
+    {
+      "vehicleId": "polaris-general-xp-4-1000-ultimate-utv-2024-gasolina",
+      "fipeCodigo": "884027-0",
+      "displayName": "POLARIS General XP 4 1000 ULTIMATE (UTV)",
+      "valorAtual": 156249,
+      "canonicalPath": "/fipe/polaris/general-xp-4-1000-ultimate-utv-2024-884027-0/",
+      "ano": 2024,
+      "marca": "POLARIS"
+    },
+    {
+      "vehicleId": "polaris-general-xp-4-1000-premium-utv-2023-gasolina",
+      "fipeCodigo": "884028-8",
+      "displayName": "POLARIS General XP 4 1000 PREMIUM (UTV)",
+      "valorAtual": 127305,
+      "canonicalPath": "/fipe/polaris/general-xp-4-1000-premium-utv-2023-884028-8/",
+      "ano": 2023,
+      "marca": "POLARIS"
+    },
+    {
+      "vehicleId": "polaris-general-xp-4-1000-ultimate-utv-2023-gasolina",
+      "fipeCodigo": "884027-0",
+      "displayName": "POLARIS General XP 4 1000 ULTIMATE (UTV)",
+      "valorAtual": 148398,
+      "canonicalPath": "/fipe/polaris/general-xp-4-1000-ultimate-utv-2023-884027-0/",
+      "ano": 2023,
+      "marca": "POLARIS"
+    },
+    {
+      "vehicleId": "polaris-general-xp-1000-deluxe-utv-2022-gasolina",
+      "fipeCodigo": "884023-7",
+      "displayName": "POLARIS General XP 1000 DELUXE (UTV)",
+      "valorAtual": 135392,
+      "canonicalPath": "/fipe/polaris/general-xp-1000-deluxe-utv-2022-884023-7/",
+      "ano": 2022,
+      "marca": "POLARIS"
+    },
+    {
+      "vehicleId": "polaris-general-1000-crew-4x4-utv-2020-gasolina",
+      "fipeCodigo": "884011-3",
+      "displayName": "POLARIS General 1000 CREW 4x4 (UTV)",
+      "valorAtual": 108310,
+      "canonicalPath": "/fipe/polaris/general-1000-crew-4x4-utv-2020-884011-3/",
+      "ano": 2020,
+      "marca": "POLARIS"
+    },
+    {
+      "vehicleId": "polaris-general-1000-crew-4x4-utv-2019-gasolina",
+      "fipeCodigo": "884011-3",
+      "displayName": "POLARIS General 1000 CREW 4x4 (UTV)",
+      "valorAtual": 99859,
+      "canonicalPath": "/fipe/polaris/general-1000-crew-4x4-utv-2019-884011-3/",
+      "ano": 2019,
+      "marca": "POLARIS"
+    },
+    {
+      "vehicleId": "polaris-general-xp-4-1000-ultimate-utv-0-gasolina",
+      "fipeCodigo": "884027-0",
+      "displayName": "POLARIS General XP 4 1000 ULTIMATE (UTV)",
+      "valorAtual": 195990,
+      "canonicalPath": "/fipe/polaris/general-xp-4-1000-ultimate-utv-0-884027-0/",
+      "ano": 0,
+      "marca": "POLARIS"
+    }
+  ],
+  "stats": {
+    "total": 8,
+    "precoMin": 99859,
+    "precoMax": 195990,
+    "anos": [
+      2025,
+      2024,
+      2023,
+      2022,
+      2020,
+      2019,
+      0
+    ]
+  }
+}

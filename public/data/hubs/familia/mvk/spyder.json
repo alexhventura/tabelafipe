@@ -1,0 +1,42 @@
+{
+  "tipo": "familia",
+  "slug": "spyder",
+  "canonicalPath": "/fipe/mvk/spyder/",
+  "titulo": "MVK spyder - Tabela FIPE",
+  "descricao": "2 versoes e anos do MVK spyder na Tabela FIPE.",
+  "seo": {
+    "title": "MVK spyder - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes MVK spyder. 2 veiculos indexados.",
+    "h1": "MVK spyder - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/mvk/spyder/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "mvk-spyder-270-320-2009-gasolina",
+      "fipeCodigo": "845015-3",
+      "displayName": "MVK SPYDER 270 / 320",
+      "valorAtual": 11227,
+      "canonicalPath": "/fipe/mvk/spyder-270-320-2009-845015-3/",
+      "ano": 2009,
+      "marca": "MVK"
+    },
+    {
+      "vehicleId": "mvk-spyder-270-320-2008-gasolina",
+      "fipeCodigo": "845015-3",
+      "displayName": "MVK SPYDER 270 / 320",
+      "valorAtual": 9267,
+      "canonicalPath": "/fipe/mvk/spyder-270-320-2008-845015-3/",
+      "ano": 2008,
+      "marca": "MVK"
+    }
+  ],
+  "stats": {
+    "total": 2,
+    "precoMin": 9267,
+    "precoMax": 11227,
+    "anos": [
+      2009,
+      2008
+    ]
+  }
+}

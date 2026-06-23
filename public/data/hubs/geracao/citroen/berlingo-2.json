@@ -1,0 +1,48 @@
+{
+  "tipo": "geracao",
+  "slug": "berlingo-2",
+  "canonicalPath": "/geracao/citroen/berlingo-2/",
+  "titulo": "Geracao berlingo-2",
+  "descricao": "3 veiculos da geracao berlingo-2.",
+  "seo": {
+    "title": "Geracao berlingo-2 - Precos FIPE",
+    "description": "Veiculos da geracao berlingo-2 na Tabela FIPE.",
+    "h1": "Geracao berlingo-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/citroen/berlingo-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "citroen-berlingo-multspace-glx-1-6-16v-110cv-4p-2005-gasolina",
+      "fipeCodigo": "011078-7",
+      "displayName": "Citroën Berlingo MultSpace GLX 1.6 16V 110cv 4p",
+      "valorAtual": 15320,
+      "canonicalPath": "/fipe/citroen/berlingo-multspace-glx-1-6-16v-110cv-4p-2005-011078-7/",
+      "ano": 2005,
+      "marca": "Citroën"
+    },
+    {
+      "vehicleId": "citroen-berlingo-multspace-glx-1-6-16v-110cv-4p-2006-gasolina",
+      "fipeCodigo": "011078-7",
+      "displayName": "Citroën Berlingo MultSpace GLX 1.6 16V 110cv 4p",
+      "valorAtual": 16980,
+      "canonicalPath": "/fipe/citroen/berlingo-multspace-glx-1-6-16v-110cv-4p-2006-011078-7/",
+      "ano": 2006,
+      "marca": "Citroën"
+    },
+    {
+      "vehicleId": "citroen-berlingo-multspace-glx-1-6-16v-110cv-4p-2007-gasolina",
+      "fipeCodigo": "011078-7",
+      "displayName": "Citroën Berlingo MultSpace GLX 1.6 16V 110cv 4p",
+      "valorAtual": 20128,
+      "canonicalPath": "/fipe/citroen/berlingo-multspace-glx-1-6-16v-110cv-4p-2007-011078-7/",
+      "ano": 2007,
+      "marca": "Citroën"
+    }
+  ],
+  "stats": {
+    "total": 3
+  },
+  "meta": {
+    "geracaoId": "berlingo-2"
+  }
+}

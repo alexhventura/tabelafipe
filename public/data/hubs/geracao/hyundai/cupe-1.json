@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "cupe-1",
+  "canonicalPath": "/geracao/hyundai/cupe-1/",
+  "titulo": "Geracao cupe-1",
+  "descricao": "2 veiculos da geracao cupe-1.",
+  "seo": {
+    "title": "Geracao cupe-1 - Precos FIPE",
+    "description": "Veiculos da geracao cupe-1 na Tabela FIPE.",
+    "h1": "Geracao cupe-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/hyundai/cupe-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "hyundai-cupe-2-0-1997-gasolina",
+      "fipeCodigo": "015015-0",
+      "displayName": "Hyundai Cupê 2.0",
+      "valorAtual": 11296,
+      "canonicalPath": "/fipe/hyundai/cupe-2-0-1997-015015-0/",
+      "ano": 1997,
+      "marca": "Hyundai"
+    },
+    {
+      "vehicleId": "hyundai-cupe-2-0-1998-gasolina",
+      "fipeCodigo": "015015-0",
+      "displayName": "Hyundai Cupê 2.0",
+      "valorAtual": 11749,
+      "canonicalPath": "/fipe/hyundai/cupe-2-0-1998-015015-0/",
+      "ano": 1998,
+      "marca": "Hyundai"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "cupe-1"
+  }
+}

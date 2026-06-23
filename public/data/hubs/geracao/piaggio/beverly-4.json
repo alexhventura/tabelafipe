@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "beverly-4",
+  "canonicalPath": "/geracao/piaggio/beverly-4/",
+  "titulo": "Geracao beverly-4",
+  "descricao": "2 veiculos da geracao beverly-4.",
+  "seo": {
+    "title": "Geracao beverly-4 - Precos FIPE",
+    "description": "Veiculos da geracao beverly-4 na Tabela FIPE.",
+    "h1": "Geracao beverly-4",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/piaggio/beverly-4/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "piaggio-beverly-sport-touring-350-i-e-330cc-2013-gasolina",
+      "fipeCodigo": "822024-7",
+      "displayName": "PIAGGIO BEVERLY SPORT TOURING 350 i.e 330cc",
+      "valorAtual": 29261,
+      "canonicalPath": "/fipe/piaggio/beverly-sport-touring-350-i-e-330cc-2013-822024-7/",
+      "ano": 2013,
+      "marca": "PIAGGIO"
+    },
+    {
+      "vehicleId": "piaggio-beverly-sport-touring-350-i-e-330cc-2014-gasolina",
+      "fipeCodigo": "822024-7",
+      "displayName": "PIAGGIO BEVERLY SPORT TOURING 350 i.e 330cc",
+      "valorAtual": 35404,
+      "canonicalPath": "/fipe/piaggio/beverly-sport-touring-350-i-e-330cc-2014-822024-7/",
+      "ano": 2014,
+      "marca": "PIAGGIO"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "beverly-4"
+  }
+}

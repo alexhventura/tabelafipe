@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "niro-1",
+  "canonicalPath": "/geracao/kia-motors/niro-1/",
+  "titulo": "Geracao niro-1",
+  "descricao": "2 veiculos da geracao niro-1.",
+  "seo": {
+    "title": "Geracao niro-1 - Precos FIPE",
+    "description": "Veiculos da geracao niro-1 na Tabela FIPE.",
+    "h1": "Geracao niro-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/kia-motors/niro-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "kia-motors-niro-ex-1-6-gdi-hibrido-0-hibrido",
+      "fipeCodigo": "018099-8",
+      "displayName": "Kia Motors Niro EX 1.6 GDI  (Híbrido)",
+      "valorAtual": 189600,
+      "canonicalPath": "/fipe/kia-motors/niro-ex-1-6-gdi-hibrido-0-018099-8/",
+      "ano": 0,
+      "marca": "Kia Motors"
+    },
+    {
+      "vehicleId": "kia-motors-niro-sx-prestige-1-6-gdi-hibrido-0-hibrido",
+      "fipeCodigo": "018100-5",
+      "displayName": "Kia Motors Niro SX Prestige 1.6 GDI (Híbrido)",
+      "valorAtual": 215020,
+      "canonicalPath": "/fipe/kia-motors/niro-sx-prestige-1-6-gdi-hibrido-0-018100-5/",
+      "ano": 0,
+      "marca": "Kia Motors"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "niro-1"
+  }
+}

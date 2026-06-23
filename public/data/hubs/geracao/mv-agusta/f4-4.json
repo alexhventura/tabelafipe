@@ -1,0 +1,84 @@
+{
+  "tipo": "geracao",
+  "slug": "f4-4",
+  "canonicalPath": "/geracao/mv-agusta/f4-4/",
+  "titulo": "Geracao f4-4",
+  "descricao": "7 veiculos da geracao f4-4.",
+  "seo": {
+    "title": "Geracao f4-4 - Precos FIPE",
+    "description": "Veiculos da geracao f4-4 na Tabela FIPE.",
+    "h1": "Geracao f4-4",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/mv-agusta/f4-4/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "mv-agusta-f4-1000-2012-gasolina",
+      "fipeCodigo": "839010-0",
+      "displayName": "MV AGUSTA F4-1000",
+      "valorAtual": 46710,
+      "canonicalPath": "/fipe/mv-agusta/f4-1000-2012-839010-0/",
+      "ano": 2012,
+      "marca": "MV AGUSTA"
+    },
+    {
+      "vehicleId": "mv-agusta-f4-1000-2013-gasolina",
+      "fipeCodigo": "839010-0",
+      "displayName": "MV AGUSTA F4-1000",
+      "valorAtual": 47878,
+      "canonicalPath": "/fipe/mv-agusta/f4-1000-2013-839010-0/",
+      "ano": 2013,
+      "marca": "MV AGUSTA"
+    },
+    {
+      "vehicleId": "mv-agusta-f4-1000-2014-gasolina",
+      "fipeCodigo": "839010-0",
+      "displayName": "MV AGUSTA F4-1000",
+      "valorAtual": 52087,
+      "canonicalPath": "/fipe/mv-agusta/f4-1000-2014-839010-0/",
+      "ano": 2014,
+      "marca": "MV AGUSTA"
+    },
+    {
+      "vehicleId": "mv-agusta-f4-1000-2015-gasolina",
+      "fipeCodigo": "839010-0",
+      "displayName": "MV AGUSTA F4-1000",
+      "valorAtual": 53390,
+      "canonicalPath": "/fipe/mv-agusta/f4-1000-2015-839010-0/",
+      "ano": 2015,
+      "marca": "MV AGUSTA"
+    },
+    {
+      "vehicleId": "mv-agusta-f4-1000-rr-2013-gasolina",
+      "fipeCodigo": "839004-5",
+      "displayName": "MV AGUSTA F4-1000 RR",
+      "valorAtual": 48637,
+      "canonicalPath": "/fipe/mv-agusta/f4-1000-rr-2013-839004-5/",
+      "ano": 2013,
+      "marca": "MV AGUSTA"
+    },
+    {
+      "vehicleId": "mv-agusta-f4-1000-rr-2014-gasolina",
+      "fipeCodigo": "839004-5",
+      "displayName": "MV AGUSTA F4-1000 RR",
+      "valorAtual": 53043,
+      "canonicalPath": "/fipe/mv-agusta/f4-1000-rr-2014-839004-5/",
+      "ano": 2014,
+      "marca": "MV AGUSTA"
+    },
+    {
+      "vehicleId": "mv-agusta-f4-1000-rr-2015-gasolina",
+      "fipeCodigo": "839004-5",
+      "displayName": "MV AGUSTA F4-1000 RR",
+      "valorAtual": 54370,
+      "canonicalPath": "/fipe/mv-agusta/f4-1000-rr-2015-839004-5/",
+      "ano": 2015,
+      "marca": "MV AGUSTA"
+    }
+  ],
+  "stats": {
+    "total": 7
+  },
+  "meta": {
+    "geracaoId": "f4-4"
+  }
+}

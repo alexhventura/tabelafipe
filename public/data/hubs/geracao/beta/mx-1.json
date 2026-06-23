@@ -1,0 +1,192 @@
+{
+  "tipo": "geracao",
+  "slug": "mx-1",
+  "canonicalPath": "/geracao/beta/mx-1/",
+  "titulo": "Geracao mx-1",
+  "descricao": "19 veiculos da geracao mx-1.",
+  "seo": {
+    "title": "Geracao mx-1 - Precos FIPE",
+    "description": "Veiculos da geracao mx-1 na Tabela FIPE.",
+    "h1": "Geracao mx-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/beta/mx-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "beta-mx-50-cross-50cc-2000-gasolina",
+      "fipeCodigo": "830001-1",
+      "displayName": "BETA MX-50 CROSS 50cc",
+      "valorAtual": 2103,
+      "canonicalPath": "/fipe/beta/mx-50-cross-50cc-2000-830001-1/",
+      "ano": 2000,
+      "marca": "BETA"
+    },
+    {
+      "vehicleId": "beta-mx-50-cross-50cc-2001-gasolina",
+      "fipeCodigo": "830001-1",
+      "displayName": "BETA MX-50 CROSS 50cc",
+      "valorAtual": 2185,
+      "canonicalPath": "/fipe/beta/mx-50-cross-50cc-2001-830001-1/",
+      "ano": 2001,
+      "marca": "BETA"
+    },
+    {
+      "vehicleId": "beta-mx-50-cross-50cc-2002-gasolina",
+      "fipeCodigo": "830001-1",
+      "displayName": "BETA MX-50 CROSS 50cc",
+      "valorAtual": 2351,
+      "canonicalPath": "/fipe/beta/mx-50-cross-50cc-2002-830001-1/",
+      "ano": 2002,
+      "marca": "BETA"
+    },
+    {
+      "vehicleId": "beta-mx-50-enduro-50cc-2000-gasolina",
+      "fipeCodigo": "830002-0",
+      "displayName": "BETA MX-50 ENDURO 50cc",
+      "valorAtual": 2411,
+      "canonicalPath": "/fipe/beta/mx-50-enduro-50cc-2000-830002-0/",
+      "ano": 2000,
+      "marca": "BETA"
+    },
+    {
+      "vehicleId": "beta-mx-50-enduro-50cc-2001-gasolina",
+      "fipeCodigo": "830002-0",
+      "displayName": "BETA MX-50 ENDURO 50cc",
+      "valorAtual": 2505,
+      "canonicalPath": "/fipe/beta/mx-50-enduro-50cc-2001-830002-0/",
+      "ano": 2001,
+      "marca": "BETA"
+    },
+    {
+      "vehicleId": "beta-mx-50-enduro-50cc-2002-gasolina",
+      "fipeCodigo": "830002-0",
+      "displayName": "BETA MX-50 ENDURO 50cc",
+      "valorAtual": 2648,
+      "canonicalPath": "/fipe/beta/mx-50-enduro-50cc-2002-830002-0/",
+      "ano": 2002,
+      "marca": "BETA"
+    },
+    {
+      "vehicleId": "mazda-mx-3-1-6-16v-1992-gasolina",
+      "fipeCodigo": "020005-0",
+      "displayName": "Mazda MX-3 1.6 16V",
+      "valorAtual": 11679,
+      "canonicalPath": "/fipe/mazda/mx-3-1-6-16v-1992-020005-0/",
+      "ano": 1992,
+      "marca": "Mazda"
+    },
+    {
+      "vehicleId": "mazda-mx-3-1-6-16v-1993-gasolina",
+      "fipeCodigo": "020005-0",
+      "displayName": "Mazda MX-3 1.6 16V",
+      "valorAtual": 15605,
+      "canonicalPath": "/fipe/mazda/mx-3-1-6-16v-1993-020005-0/",
+      "ano": 1993,
+      "marca": "Mazda"
+    },
+    {
+      "vehicleId": "mazda-mx-3-1-6-16v-1994-gasolina",
+      "fipeCodigo": "020005-0",
+      "displayName": "Mazda MX-3 1.6 16V",
+      "valorAtual": 20604,
+      "canonicalPath": "/fipe/mazda/mx-3-1-6-16v-1994-020005-0/",
+      "ano": 1994,
+      "marca": "Mazda"
+    },
+    {
+      "vehicleId": "mazda-mx-3-1-6-16v-1995-gasolina",
+      "fipeCodigo": "020005-0",
+      "displayName": "Mazda MX-3 1.6 16V",
+      "valorAtual": 32299,
+      "canonicalPath": "/fipe/mazda/mx-3-1-6-16v-1995-020005-0/",
+      "ano": 1995,
+      "marca": "Mazda"
+    },
+    {
+      "vehicleId": "mazda-mx-3-1-6-16v-1996-gasolina",
+      "fipeCodigo": "020005-0",
+      "displayName": "Mazda MX-3 1.6 16V",
+      "valorAtual": 33205,
+      "canonicalPath": "/fipe/mazda/mx-3-1-6-16v-1996-020005-0/",
+      "ano": 1996,
+      "marca": "Mazda"
+    },
+    {
+      "vehicleId": "mazda-mx-3-1-6-16v-1997-gasolina",
+      "fipeCodigo": "020005-0",
+      "displayName": "Mazda MX-3 1.6 16V",
+      "valorAtual": 34036,
+      "canonicalPath": "/fipe/mazda/mx-3-1-6-16v-1997-020005-0/",
+      "ano": 1997,
+      "marca": "Mazda"
+    },
+    {
+      "vehicleId": "mazda-mx-3-1-6-16v-1998-gasolina",
+      "fipeCodigo": "020005-0",
+      "displayName": "Mazda MX-3 1.6 16V",
+      "valorAtual": 34887,
+      "canonicalPath": "/fipe/mazda/mx-3-1-6-16v-1998-020005-0/",
+      "ano": 1998,
+      "marca": "Mazda"
+    },
+    {
+      "vehicleId": "mazda-mx-3-gs-1-8-v6-24v-1994-gasolina",
+      "fipeCodigo": "020020-4",
+      "displayName": "Mazda MX-3 GS 1.8 V6 24V",
+      "valorAtual": 13325,
+      "canonicalPath": "/fipe/mazda/mx-3-gs-1-8-v6-24v-1994-020020-4/",
+      "ano": 1994,
+      "marca": "Mazda"
+    },
+    {
+      "vehicleId": "mazda-mx-3-gs-1-8-v6-24v-1995-gasolina",
+      "fipeCodigo": "020020-4",
+      "displayName": "Mazda MX-3 GS 1.8 V6 24V",
+      "valorAtual": 18940,
+      "canonicalPath": "/fipe/mazda/mx-3-gs-1-8-v6-24v-1995-020020-4/",
+      "ano": 1995,
+      "marca": "Mazda"
+    },
+    {
+      "vehicleId": "mazda-mx-5-mec-1992-gasolina",
+      "fipeCodigo": "020006-9",
+      "displayName": "Mazda MX-5 Mec",
+      "valorAtual": 38548,
+      "canonicalPath": "/fipe/mazda/mx-5-mec-1992-020006-9/",
+      "ano": 1992,
+      "marca": "Mazda"
+    },
+    {
+      "vehicleId": "mazda-mx-5-mec-1993-gasolina",
+      "fipeCodigo": "020006-9",
+      "displayName": "Mazda MX-5 Mec",
+      "valorAtual": 47988,
+      "canonicalPath": "/fipe/mazda/mx-5-mec-1993-020006-9/",
+      "ano": 1993,
+      "marca": "Mazda"
+    },
+    {
+      "vehicleId": "mazda-mx-5-mec-1994-gasolina",
+      "fipeCodigo": "020006-9",
+      "displayName": "Mazda MX-5 Mec",
+      "valorAtual": 54626,
+      "canonicalPath": "/fipe/mazda/mx-5-mec-1994-020006-9/",
+      "ano": 1994,
+      "marca": "Mazda"
+    },
+    {
+      "vehicleId": "mazda-mx-5-mec-1995-gasolina",
+      "fipeCodigo": "020006-9",
+      "displayName": "Mazda MX-5 Mec",
+      "valorAtual": 72098,
+      "canonicalPath": "/fipe/mazda/mx-5-mec-1995-020006-9/",
+      "ano": 1995,
+      "marca": "Mazda"
+    }
+  ],
+  "stats": {
+    "total": 19
+  },
+  "meta": {
+    "geracaoId": "mx-1"
+  }
+}

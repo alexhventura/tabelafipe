@@ -1,0 +1,48 @@
+{
+  "tipo": "geracao",
+  "slug": "525i-2",
+  "canonicalPath": "/geracao/bmw/525i-2/",
+  "titulo": "Geracao 525i-2",
+  "descricao": "3 veiculos da geracao 525i-2.",
+  "seo": {
+    "title": "Geracao 525i-2 - Precos FIPE",
+    "description": "Veiculos da geracao 525i-2 na Tabela FIPE.",
+    "h1": "Geracao 525i-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/bmw/525i-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "bmw-525i-ia-2001-gasolina",
+      "fipeCodigo": "009007-7",
+      "displayName": "BMW 525i/iA",
+      "valorAtual": 36174,
+      "canonicalPath": "/fipe/bmw/525i-ia-2001-009007-7/",
+      "ano": 2001,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-525i-ia-2002-gasolina",
+      "fipeCodigo": "009007-7",
+      "displayName": "BMW 525i/iA",
+      "valorAtual": 37079,
+      "canonicalPath": "/fipe/bmw/525i-ia-2002-009007-7/",
+      "ano": 2002,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-525i-ia-2003-gasolina",
+      "fipeCodigo": "009007-7",
+      "displayName": "BMW 525i/iA",
+      "valorAtual": 44355,
+      "canonicalPath": "/fipe/bmw/525i-ia-2003-009007-7/",
+      "ano": 2003,
+      "marca": "BMW"
+    }
+  ],
+  "stats": {
+    "total": 3
+  },
+  "meta": {
+    "geracaoId": "525i-2"
+  }
+}

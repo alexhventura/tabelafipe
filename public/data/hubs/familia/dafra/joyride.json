@@ -1,0 +1,52 @@
+{
+  "tipo": "familia",
+  "slug": "joyride",
+  "canonicalPath": "/fipe/dafra/joyride/",
+  "titulo": "DAFRA joyride - Tabela FIPE",
+  "descricao": "3 versoes e anos do DAFRA joyride na Tabela FIPE.",
+  "seo": {
+    "title": "DAFRA joyride - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes DAFRA joyride. 3 veiculos indexados.",
+    "h1": "DAFRA joyride - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/dafra/joyride/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "dafra-joyride-300-2026-gasolina",
+      "fipeCodigo": "861033-9",
+      "displayName": "DAFRA JOYRIDE 300",
+      "valorAtual": 27532,
+      "canonicalPath": "/fipe/dafra/joyride-300-2026-861033-9/",
+      "ano": 2026,
+      "marca": "DAFRA"
+    },
+    {
+      "vehicleId": "dafra-joyride-300-2025-gasolina",
+      "fipeCodigo": "861033-9",
+      "displayName": "DAFRA JOYRIDE 300",
+      "valorAtual": 26434,
+      "canonicalPath": "/fipe/dafra/joyride-300-2025-861033-9/",
+      "ano": 2025,
+      "marca": "DAFRA"
+    },
+    {
+      "vehicleId": "dafra-joyride-300-0-gasolina",
+      "fipeCodigo": "861033-9",
+      "displayName": "DAFRA JOYRIDE 300",
+      "valorAtual": 29151,
+      "canonicalPath": "/fipe/dafra/joyride-300-0-861033-9/",
+      "ano": 0,
+      "marca": "DAFRA"
+    }
+  ],
+  "stats": {
+    "total": 3,
+    "precoMin": 26434,
+    "precoMax": 29151,
+    "anos": [
+      2026,
+      2025,
+      0
+    ]
+  }
+}

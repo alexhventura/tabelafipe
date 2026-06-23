@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "323ci-1",
+  "canonicalPath": "/geracao/bmw/323ci-1/",
+  "titulo": "Geracao 323ci-1",
+  "descricao": "2 veiculos da geracao 323ci-1.",
+  "seo": {
+    "title": "Geracao 323ci-1 - Precos FIPE",
+    "description": "Veiculos da geracao 323ci-1 na Tabela FIPE.",
+    "h1": "Geracao 323ci-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/bmw/323ci-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "bmw-323ci-coupe-1999-gasolina",
+      "fipeCodigo": "009057-3",
+      "displayName": "BMW 323Ci Coupê",
+      "valorAtual": 34633,
+      "canonicalPath": "/fipe/bmw/323ci-coupe-1999-009057-3/",
+      "ano": 1999,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-323ci-coupe-2000-gasolina",
+      "fipeCodigo": "009057-3",
+      "displayName": "BMW 323Ci Coupê",
+      "valorAtual": 38482,
+      "canonicalPath": "/fipe/bmw/323ci-coupe-2000-009057-3/",
+      "ano": 2000,
+      "marca": "BMW"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "323ci-1"
+  }
+}

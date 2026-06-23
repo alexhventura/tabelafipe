@@ -1,0 +1,48 @@
+{
+  "tipo": "geracao",
+  "slug": "big-1",
+  "canonicalPath": "/geracao/mvk/big-1/",
+  "titulo": "Geracao big-1",
+  "descricao": "3 veiculos da geracao big-1.",
+  "seo": {
+    "title": "Geracao big-1 - Precos FIPE",
+    "description": "Veiculos da geracao big-1 na Tabela FIPE.",
+    "h1": "Geracao big-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/mvk/big-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "mvk-big-force-250-quadriciclo-2007-gasolina",
+      "fipeCodigo": "845016-1",
+      "displayName": "MVK BIG FORCE 250 QUADRICICLO",
+      "valorAtual": 4939,
+      "canonicalPath": "/fipe/mvk/big-force-250-quadriciclo-2007-845016-1/",
+      "ano": 2007,
+      "marca": "MVK"
+    },
+    {
+      "vehicleId": "mvk-big-force-250-quadriciclo-2008-gasolina",
+      "fipeCodigo": "845016-1",
+      "displayName": "MVK BIG FORCE 250 QUADRICICLO",
+      "valorAtual": 5695,
+      "canonicalPath": "/fipe/mvk/big-force-250-quadriciclo-2008-845016-1/",
+      "ano": 2008,
+      "marca": "MVK"
+    },
+    {
+      "vehicleId": "mvk-big-force-250-quadriciclo-2009-gasolina",
+      "fipeCodigo": "845016-1",
+      "displayName": "MVK BIG FORCE 250 QUADRICICLO",
+      "valorAtual": 6513,
+      "canonicalPath": "/fipe/mvk/big-force-250-quadriciclo-2009-845016-1/",
+      "ano": 2009,
+      "marca": "MVK"
+    }
+  ],
+  "stats": {
+    "total": 3
+  },
+  "meta": {
+    "geracaoId": "big-1"
+  }
+}

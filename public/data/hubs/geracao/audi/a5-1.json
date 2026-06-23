@@ -1,0 +1,48 @@
+{
+  "tipo": "geracao",
+  "slug": "a5-1",
+  "canonicalPath": "/geracao/audi/a5-1/",
+  "titulo": "Geracao a5-1",
+  "descricao": "3 veiculos da geracao a5-1.",
+  "seo": {
+    "title": "Geracao a5-1 - Precos FIPE",
+    "description": "Veiculos da geracao a5-1 na Tabela FIPE.",
+    "h1": "Geracao a5-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/audi/a5-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "audi-a5-sedan-performance-s-edition-2-0-tfsi-quattro-0-gasolina",
+      "fipeCodigo": "008316-0",
+      "displayName": "Audi A5 Sedan Performance S Edition 2.0 TFSI Quattro",
+      "valorAtual": 399114,
+      "canonicalPath": "/fipe/audi/a5-sedan-performance-s-edition-2-0-tfsi-quattro-0-008316-0/",
+      "ano": 0,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-a5-sedan-s-line-2-0-tfsi-quattro-s-tronic-0-gasolina",
+      "fipeCodigo": "008327-5",
+      "displayName": "Audi A5 Sedan S line 2.0 TFSI Quattro S tronic",
+      "valorAtual": 424990,
+      "canonicalPath": "/fipe/audi/a5-sedan-s-line-2-0-tfsi-quattro-s-tronic-0-008327-5/",
+      "ano": 0,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-a5-sportb-advanc-2-0-tfsi-quatt-hib-0-hibrido",
+      "fipeCodigo": "008300-3",
+      "displayName": "Audi A5 Sportb. Advanc. 2.0 TFSI Quatt. (Híb)",
+      "valorAtual": 324039,
+      "canonicalPath": "/fipe/audi/a5-sportb-advanc-2-0-tfsi-quatt-hib-0-008300-3/",
+      "ano": 0,
+      "marca": "Audi"
+    }
+  ],
+  "stats": {
+    "total": 3
+  },
+  "meta": {
+    "geracaoId": "a5-1"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "stonic-3",
+  "canonicalPath": "/geracao/kia-motors/stonic-3/",
+  "titulo": "Geracao stonic-3",
+  "descricao": "2 veiculos da geracao stonic-3.",
+  "seo": {
+    "title": "Geracao stonic-3 - Precos FIPE",
+    "description": "Veiculos da geracao stonic-3 na Tabela FIPE.",
+    "h1": "Geracao stonic-3",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/kia-motors/stonic-3/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "kia-motors-stonic-sx-1-0-tb-aut-hibrido-2024-hibrido",
+      "fipeCodigo": "018096-3",
+      "displayName": "Kia Motors STONIC SX 1.0 TB Aut. (Híbrido)",
+      "valorAtual": 105694,
+      "canonicalPath": "/fipe/kia-motors/stonic-sx-1-0-tb-aut-hibrido-2024-018096-3/",
+      "ano": 2024,
+      "marca": "Kia Motors"
+    },
+    {
+      "vehicleId": "kia-motors-stonic-sx-1-0-tb-aut-hibrido-2025-hibrido",
+      "fipeCodigo": "018096-3",
+      "displayName": "Kia Motors STONIC SX 1.0 TB Aut. (Híbrido)",
+      "valorAtual": 139906,
+      "canonicalPath": "/fipe/kia-motors/stonic-sx-1-0-tb-aut-hibrido-2025-018096-3/",
+      "ano": 2025,
+      "marca": "Kia Motors"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "stonic-3"
+  }
+}

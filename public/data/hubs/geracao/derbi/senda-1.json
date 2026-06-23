@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "senda-1",
+  "canonicalPath": "/geracao/derbi/senda-1/",
+  "titulo": "Geracao senda-1",
+  "descricao": "2 veiculos da geracao senda-1.",
+  "seo": {
+    "title": "Geracao senda-1 - Precos FIPE",
+    "description": "Veiculos da geracao senda-1 na Tabela FIPE.",
+    "h1": "Geracao senda-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/derbi/senda-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "derbi-senda-r-49cc-2001-gasolina",
+      "fipeCodigo": "844001-8",
+      "displayName": "DERBI SENDA R 49cc",
+      "valorAtual": 2847,
+      "canonicalPath": "/fipe/derbi/senda-r-49cc-2001-844001-8/",
+      "ano": 2001,
+      "marca": "DERBI"
+    },
+    {
+      "vehicleId": "derbi-senda-sm-49cc-2001-gasolina",
+      "fipeCodigo": "844002-6",
+      "displayName": "DERBI SENDA SM 49cc",
+      "valorAtual": 2873,
+      "canonicalPath": "/fipe/derbi/senda-sm-49cc-2001-844002-6/",
+      "ano": 2001,
+      "marca": "DERBI"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "senda-1"
+  }
+}

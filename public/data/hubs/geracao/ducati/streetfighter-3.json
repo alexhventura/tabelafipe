@@ -1,0 +1,48 @@
+{
+  "tipo": "geracao",
+  "slug": "streetfighter-3",
+  "canonicalPath": "/geracao/ducati/streetfighter-3/",
+  "titulo": "Geracao streetfighter-3",
+  "descricao": "3 veiculos da geracao streetfighter-3.",
+  "seo": {
+    "title": "Geracao streetfighter-3 - Precos FIPE",
+    "description": "Veiculos da geracao streetfighter-3 na Tabela FIPE.",
+    "h1": "Geracao streetfighter-3",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/ducati/streetfighter-3/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "ducati-streetfighter-v4-s-1103cc-2021-gasolina",
+      "fipeCodigo": "808085-2",
+      "displayName": "DUCATI STREETFIGHTER V4 S 1103cc",
+      "valorAtual": 93025,
+      "canonicalPath": "/fipe/ducati/streetfighter-v4-s-1103cc-2021-808085-2/",
+      "ano": 2021,
+      "marca": "DUCATI"
+    },
+    {
+      "vehicleId": "ducati-streetfighter-v4-s-1103cc-2022-gasolina",
+      "fipeCodigo": "808085-2",
+      "displayName": "DUCATI STREETFIGHTER V4 S 1103cc",
+      "valorAtual": 98272,
+      "canonicalPath": "/fipe/ducati/streetfighter-v4-s-1103cc-2022-808085-2/",
+      "ano": 2022,
+      "marca": "DUCATI"
+    },
+    {
+      "vehicleId": "ducati-streetfighter-v4-s-1103cc-2023-gasolina",
+      "fipeCodigo": "808085-2",
+      "displayName": "DUCATI STREETFIGHTER V4 S 1103cc",
+      "valorAtual": 115016,
+      "canonicalPath": "/fipe/ducati/streetfighter-v4-s-1103cc-2023-808085-2/",
+      "ano": 2023,
+      "marca": "DUCATI"
+    }
+  ],
+  "stats": {
+    "total": 3
+  },
+  "meta": {
+    "geracaoId": "streetfighter-3"
+  }
+}

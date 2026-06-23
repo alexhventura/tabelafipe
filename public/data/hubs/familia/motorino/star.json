@@ -1,0 +1,126 @@
+{
+  "tipo": "familia",
+  "slug": "star",
+  "canonicalPath": "/fipe/motorino/star/",
+  "titulo": "MOTORINO star - Tabela FIPE",
+  "descricao": "11 versoes e anos do MOTORINO star na Tabela FIPE.",
+  "seo": {
+    "title": "MOTORINO star - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes MOTORINO star. 11 veiculos indexados.",
+    "h1": "MOTORINO star - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/motorino/star/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "motorino-star-automatic-125cc-2015-gasolina",
+      "fipeCodigo": "881011-7",
+      "displayName": "MOTORINO Star Automatic 125cc",
+      "valorAtual": 10518,
+      "canonicalPath": "/fipe/motorino/star-automatic-125cc-2015-881011-7/",
+      "ano": 2015,
+      "marca": "MOTORINO"
+    },
+    {
+      "vehicleId": "motorino-star-200cc-2015-gasolina",
+      "fipeCodigo": "881002-8",
+      "displayName": "MOTORINO Star 200cc",
+      "valorAtual": 10638,
+      "canonicalPath": "/fipe/motorino/star-200cc-2015-881002-8/",
+      "ano": 2015,
+      "marca": "MOTORINO"
+    },
+    {
+      "vehicleId": "motorino-star-automatic-125cc-2014-gasolina",
+      "fipeCodigo": "881011-7",
+      "displayName": "MOTORINO Star Automatic 125cc",
+      "valorAtual": 9087,
+      "canonicalPath": "/fipe/motorino/star-automatic-125cc-2014-881011-7/",
+      "ano": 2014,
+      "marca": "MOTORINO"
+    },
+    {
+      "vehicleId": "motorino-star-200cc-2014-gasolina",
+      "fipeCodigo": "881002-8",
+      "displayName": "MOTORINO Star 200cc",
+      "valorAtual": 9140,
+      "canonicalPath": "/fipe/motorino/star-200cc-2014-881002-8/",
+      "ano": 2014,
+      "marca": "MOTORINO"
+    },
+    {
+      "vehicleId": "motorino-star-150cc-2013-gasolina",
+      "fipeCodigo": "881001-0",
+      "displayName": "MOTORINO Star 150cc",
+      "valorAtual": 6827,
+      "canonicalPath": "/fipe/motorino/star-150cc-2013-881001-0/",
+      "ano": 2013,
+      "marca": "MOTORINO"
+    },
+    {
+      "vehicleId": "motorino-star-automatic-125cc-2013-gasolina",
+      "fipeCodigo": "881011-7",
+      "displayName": "MOTORINO Star Automatic 125cc",
+      "valorAtual": 7780,
+      "canonicalPath": "/fipe/motorino/star-automatic-125cc-2013-881011-7/",
+      "ano": 2013,
+      "marca": "MOTORINO"
+    },
+    {
+      "vehicleId": "motorino-star-200cc-2013-gasolina",
+      "fipeCodigo": "881002-8",
+      "displayName": "MOTORINO Star 200cc",
+      "valorAtual": 7956,
+      "canonicalPath": "/fipe/motorino/star-200cc-2013-881002-8/",
+      "ano": 2013,
+      "marca": "MOTORINO"
+    },
+    {
+      "vehicleId": "motorino-star-150cc-2012-gasolina",
+      "fipeCodigo": "881001-0",
+      "displayName": "MOTORINO Star 150cc",
+      "valorAtual": 6022,
+      "canonicalPath": "/fipe/motorino/star-150cc-2012-881001-0/",
+      "ano": 2012,
+      "marca": "MOTORINO"
+    },
+    {
+      "vehicleId": "motorino-star-200cc-2012-gasolina",
+      "fipeCodigo": "881002-8",
+      "displayName": "MOTORINO Star 200cc",
+      "valorAtual": 6861,
+      "canonicalPath": "/fipe/motorino/star-200cc-2012-881002-8/",
+      "ano": 2012,
+      "marca": "MOTORINO"
+    },
+    {
+      "vehicleId": "motorino-star-150cc-2011-gasolina",
+      "fipeCodigo": "881001-0",
+      "displayName": "MOTORINO Star 150cc",
+      "valorAtual": 5148,
+      "canonicalPath": "/fipe/motorino/star-150cc-2011-881001-0/",
+      "ano": 2011,
+      "marca": "MOTORINO"
+    },
+    {
+      "vehicleId": "motorino-star-200cc-2011-gasolina",
+      "fipeCodigo": "881002-8",
+      "displayName": "MOTORINO Star 200cc",
+      "valorAtual": 5908,
+      "canonicalPath": "/fipe/motorino/star-200cc-2011-881002-8/",
+      "ano": 2011,
+      "marca": "MOTORINO"
+    }
+  ],
+  "stats": {
+    "total": 11,
+    "precoMin": 5148,
+    "precoMax": 10638,
+    "anos": [
+      2015,
+      2014,
+      2013,
+      2012,
+      2011
+    ]
+  }
+}

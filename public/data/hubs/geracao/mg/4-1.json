@@ -1,0 +1,129 @@
+{
+  "tipo": "geracao",
+  "slug": "4-1",
+  "canonicalPath": "/geracao/mg/4-1/",
+  "titulo": "Geracao 4-1",
+  "descricao": "12 veiculos da geracao 4-1.",
+  "seo": {
+    "title": "Geracao 4-1 - Precos FIPE",
+    "description": "Veiculos da geracao 4-1 na Tabela FIPE.",
+    "h1": "Geracao 4-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/mg/4-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "mg-4-comfort-0-eletrico",
+      "fipeCodigo": "076006-4",
+      "displayName": "MG 4 Comfort",
+      "valorAtual": 172340,
+      "canonicalPath": "/fipe/mg/4-comfort-0-076006-4/",
+      "ano": 0,
+      "marca": "MG"
+    },
+    {
+      "vehicleId": "mg-4-luxury-0-eletrico",
+      "fipeCodigo": "076007-2",
+      "displayName": "MG 4 Luxury",
+      "valorAtual": 192466,
+      "canonicalPath": "/fipe/mg/4-luxury-0-076007-2/",
+      "ano": 0,
+      "marca": "MG"
+    },
+    {
+      "vehicleId": "mg-4-xpower-awd-0-eletrico",
+      "fipeCodigo": "076008-0",
+      "displayName": "MG 4 Xpower AWD",
+      "valorAtual": 229867,
+      "canonicalPath": "/fipe/mg/4-xpower-awd-0-076008-0/",
+      "ano": 0,
+      "marca": "MG"
+    },
+    {
+      "vehicleId": "volkswagen-4-150-delivery-2p-diesel-e5-2017-diesel",
+      "fipeCodigo": "515169-4",
+      "displayName": "VOLKSWAGEN 4-150 Delivery 2p (diesel)(E5)",
+      "valorAtual": 96879,
+      "canonicalPath": "/fipe/volkswagen/4-150-delivery-2p-diesel-e5-2017-515169-4/",
+      "ano": 2017,
+      "marca": "VOLKSWAGEN"
+    },
+    {
+      "vehicleId": "volkswagen-4-150-delivery-2p-diesel-e5-2018-diesel",
+      "fipeCodigo": "515169-4",
+      "displayName": "VOLKSWAGEN 4-150 Delivery 2p (diesel)(E5)",
+      "valorAtual": 115461,
+      "canonicalPath": "/fipe/volkswagen/4-150-delivery-2p-diesel-e5-2018-515169-4/",
+      "ano": 2018,
+      "marca": "VOLKSWAGEN"
+    },
+    {
+      "vehicleId": "volkswagen-4-150-delivery-2p-diesel-e5-2019-diesel",
+      "fipeCodigo": "515169-4",
+      "displayName": "VOLKSWAGEN 4-150 Delivery 2p (diesel)(E5)",
+      "valorAtual": 144030,
+      "canonicalPath": "/fipe/volkswagen/4-150-delivery-2p-diesel-e5-2019-515169-4/",
+      "ano": 2019,
+      "marca": "VOLKSWAGEN"
+    },
+    {
+      "vehicleId": "volkswagen-4-150-delivery-2p-diesel-e5-2020-diesel",
+      "fipeCodigo": "515169-4",
+      "displayName": "VOLKSWAGEN 4-150 Delivery 2p (diesel)(E5)",
+      "valorAtual": 147631,
+      "canonicalPath": "/fipe/volkswagen/4-150-delivery-2p-diesel-e5-2020-515169-4/",
+      "ano": 2020,
+      "marca": "VOLKSWAGEN"
+    },
+    {
+      "vehicleId": "volkswagen-4-150-delivery-2p-diesel-e5-2021-diesel",
+      "fipeCodigo": "515169-4",
+      "displayName": "VOLKSWAGEN 4-150 Delivery 2p (diesel)(E5)",
+      "valorAtual": 155652,
+      "canonicalPath": "/fipe/volkswagen/4-150-delivery-2p-diesel-e5-2021-515169-4/",
+      "ano": 2021,
+      "marca": "VOLKSWAGEN"
+    },
+    {
+      "vehicleId": "volkswagen-4-160-delivery-2p-diesel-e5-2020-diesel",
+      "fipeCodigo": "515176-7",
+      "displayName": "VOLKSWAGEN 4-160 Delivery 2p (diesel)(E5)",
+      "valorAtual": 213252,
+      "canonicalPath": "/fipe/volkswagen/4-160-delivery-2p-diesel-e5-2020-515176-7/",
+      "ano": 2020,
+      "marca": "VOLKSWAGEN"
+    },
+    {
+      "vehicleId": "volkswagen-4-160-delivery-2p-diesel-e5-2021-diesel",
+      "fipeCodigo": "515176-7",
+      "displayName": "VOLKSWAGEN 4-160 Delivery 2p (diesel)(E5)",
+      "valorAtual": 239530,
+      "canonicalPath": "/fipe/volkswagen/4-160-delivery-2p-diesel-e5-2021-515176-7/",
+      "ano": 2021,
+      "marca": "VOLKSWAGEN"
+    },
+    {
+      "vehicleId": "volkswagen-4-160-delivery-2p-diesel-e5-2022-diesel",
+      "fipeCodigo": "515176-7",
+      "displayName": "VOLKSWAGEN 4-160 Delivery 2p (diesel)(E5)",
+      "valorAtual": 245519,
+      "canonicalPath": "/fipe/volkswagen/4-160-delivery-2p-diesel-e5-2022-515176-7/",
+      "ano": 2022,
+      "marca": "VOLKSWAGEN"
+    },
+    {
+      "vehicleId": "volkswagen-4-160-delivery-2p-diesel-e5-2023-diesel",
+      "fipeCodigo": "515176-7",
+      "displayName": "VOLKSWAGEN 4-160 Delivery 2p (diesel)(E5)",
+      "valorAtual": 252521,
+      "canonicalPath": "/fipe/volkswagen/4-160-delivery-2p-diesel-e5-2023-515176-7/",
+      "ano": 2023,
+      "marca": "VOLKSWAGEN"
+    }
+  ],
+  "stats": {
+    "total": 12
+  },
+  "meta": {
+    "geracaoId": "4-1"
+  }
+}

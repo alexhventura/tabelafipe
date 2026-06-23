@@ -30,6 +30,23 @@ export function vehiclePath(marca: string, vehicleId: string): string {
   return `/fipe/${marcaSlug(marca)}/${vehicleId}`;
 }
 
+export function fipeCodigoSlug(fipeCodigo: string): string {
+  return slugify(String(fipeCodigo).replace(/\./g, '-'));
+}
+
+export function buildPageSlug(modelo: string, ano: number | string, fipeCodigo: string): string {
+  return `${slugify(modelo)}-${ano}-${fipeCodigoSlug(fipeCodigo)}`;
+}
+
+export function vehicleCanonicalPath(
+  marca: string,
+  modelo: string,
+  ano: number,
+  fipeCodigo: string,
+): string {
+  return `/fipe/${marcaSlug(marca)}/${buildPageSlug(modelo, ano, fipeCodigo)}/`;
+}
+
 /** Slug da família do modelo (alinhado ao build SEO). */
 export function modeloSlug(modelo: string): string {
   const base = modelo

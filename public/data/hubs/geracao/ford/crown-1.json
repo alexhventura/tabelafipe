@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "crown-1",
+  "canonicalPath": "/geracao/ford/crown-1/",
+  "titulo": "Geracao crown-1",
+  "descricao": "2 veiculos da geracao crown-1.",
+  "seo": {
+    "title": "Geracao crown-1 - Precos FIPE",
+    "description": "Veiculos da geracao crown-1 na Tabela FIPE.",
+    "h1": "Geracao crown-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/ford/crown-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "ford-crown-victoria-lx-4-6-1991-gasolina",
+      "fipeCodigo": "003153-4",
+      "displayName": "Ford Crown Victoria LX 4.6",
+      "valorAtual": 16180,
+      "canonicalPath": "/fipe/ford/crown-victoria-lx-4-6-1991-003153-4/",
+      "ano": 1991,
+      "marca": "Ford"
+    },
+    {
+      "vehicleId": "ford-crown-victoria-lx-4-6-1992-gasolina",
+      "fipeCodigo": "003153-4",
+      "displayName": "Ford Crown Victoria LX 4.6",
+      "valorAtual": 21830,
+      "canonicalPath": "/fipe/ford/crown-victoria-lx-4-6-1992-003153-4/",
+      "ano": 1992,
+      "marca": "Ford"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "crown-1"
+  }
+}

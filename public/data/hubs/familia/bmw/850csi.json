@@ -1,0 +1,62 @@
+{
+  "tipo": "familia",
+  "slug": "850csi",
+  "canonicalPath": "/fipe/bmw/850csi/",
+  "titulo": "BMW 850csi - Tabela FIPE",
+  "descricao": "4 versoes e anos do BMW 850csi na Tabela FIPE.",
+  "seo": {
+    "title": "BMW 850csi - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes BMW 850csi. 4 veiculos indexados.",
+    "h1": "BMW 850csi - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/bmw/850csi/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "bmw-850csi-5-6-24v-1995-gasolina",
+      "fipeCodigo": "009076-0",
+      "displayName": "BMW 850CSi 5.6 24V",
+      "valorAtual": 77367,
+      "canonicalPath": "/fipe/bmw/850csi-5-6-24v-1995-009076-0/",
+      "ano": 1995,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-850csi-5-6-24v-1994-gasolina",
+      "fipeCodigo": "009076-0",
+      "displayName": "BMW 850CSi 5.6 24V",
+      "valorAtual": 63795,
+      "canonicalPath": "/fipe/bmw/850csi-5-6-24v-1994-009076-0/",
+      "ano": 1994,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-850csi-5-6-24v-1993-gasolina",
+      "fipeCodigo": "009076-0",
+      "displayName": "BMW 850CSi 5.6 24V",
+      "valorAtual": 61241,
+      "canonicalPath": "/fipe/bmw/850csi-5-6-24v-1993-009076-0/",
+      "ano": 1993,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-850csi-5-6-24v-1992-gasolina",
+      "fipeCodigo": "009076-0",
+      "displayName": "BMW 850CSi 5.6 24V",
+      "valorAtual": 58804,
+      "canonicalPath": "/fipe/bmw/850csi-5-6-24v-1992-009076-0/",
+      "ano": 1992,
+      "marca": "BMW"
+    }
+  ],
+  "stats": {
+    "total": 4,
+    "precoMin": 58804,
+    "precoMax": 77367,
+    "anos": [
+      1995,
+      1994,
+      1993,
+      1992
+    ]
+  }
+}

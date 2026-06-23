@@ -1,0 +1,70 @@
+{
+  "tipo": "familia",
+  "slug": "atv",
+  "canonicalPath": "/fipe/adly/atv/",
+  "titulo": "ADLY atv - Tabela FIPE",
+  "descricao": "5 versoes e anos do ADLY atv na Tabela FIPE.",
+  "seo": {
+    "title": "ADLY atv - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes ADLY atv. 5 veiculos indexados.",
+    "h1": "ADLY atv - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/adly/atv/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "adly-atv-100-2002-gasolina",
+      "fipeCodigo": "840015-6",
+      "displayName": "ADLY ATV 100",
+      "valorAtual": 3750,
+      "canonicalPath": "/fipe/adly/atv-100-2002-840015-6/",
+      "ano": 2002,
+      "marca": "ADLY"
+    },
+    {
+      "vehicleId": "adly-atv-50-2001-gasolina",
+      "fipeCodigo": "840014-8",
+      "displayName": "ADLY ATV 50",
+      "valorAtual": 2479,
+      "canonicalPath": "/fipe/adly/atv-50-2001-840014-8/",
+      "ano": 2001,
+      "marca": "ADLY"
+    },
+    {
+      "vehicleId": "adly-atv-100-2001-gasolina",
+      "fipeCodigo": "840015-6",
+      "displayName": "ADLY ATV 100",
+      "valorAtual": 3424,
+      "canonicalPath": "/fipe/adly/atv-100-2001-840015-6/",
+      "ano": 2001,
+      "marca": "ADLY"
+    },
+    {
+      "vehicleId": "adly-atv-50-2000-gasolina",
+      "fipeCodigo": "840014-8",
+      "displayName": "ADLY ATV 50",
+      "valorAtual": 2374,
+      "canonicalPath": "/fipe/adly/atv-50-2000-840014-8/",
+      "ano": 2000,
+      "marca": "ADLY"
+    },
+    {
+      "vehicleId": "adly-atv-100-2000-gasolina",
+      "fipeCodigo": "840015-6",
+      "displayName": "ADLY ATV 100",
+      "valorAtual": 3219,
+      "canonicalPath": "/fipe/adly/atv-100-2000-840015-6/",
+      "ano": 2000,
+      "marca": "ADLY"
+    }
+  ],
+  "stats": {
+    "total": 5,
+    "precoMin": 2374,
+    "precoMax": 3750,
+    "anos": [
+      2002,
+      2001,
+      2000
+    ]
+  }
+}

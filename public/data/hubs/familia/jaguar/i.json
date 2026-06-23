@@ -1,0 +1,99 @@
+{
+  "tipo": "familia",
+  "slug": "i",
+  "canonicalPath": "/fipe/jaguar/i/",
+  "titulo": "Jaguar i - Tabela FIPE",
+  "descricao": "8 versoes e anos do Jaguar i na Tabela FIPE.",
+  "seo": {
+    "title": "Jaguar i - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes Jaguar i. 8 veiculos indexados.",
+    "h1": "Jaguar i - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/jaguar/i/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "jaguar-i-pace-black-ev-400-awd-aut-eletrico-2023-eletrico",
+      "fipeCodigo": "016076-8",
+      "displayName": "Jaguar I-Pace BLACK EV 400 AWD Aut. (Elétrico)",
+      "valorAtual": 483981,
+      "canonicalPath": "/fipe/jaguar/i-pace-black-ev-400-awd-aut-eletrico-2023-016076-8/",
+      "ano": 2023,
+      "marca": "Jaguar"
+    },
+    {
+      "vehicleId": "jaguar-i-pace-se-ev400-awd-aut-eletrico-2023-eletrico",
+      "fipeCodigo": "016069-5",
+      "displayName": "Jaguar I-Pace SE EV400 AWD Aut. (Elétrico)",
+      "valorAtual": 485609,
+      "canonicalPath": "/fipe/jaguar/i-pace-se-ev400-awd-aut-eletrico-2023-016069-5/",
+      "ano": 2023,
+      "marca": "Jaguar"
+    },
+    {
+      "vehicleId": "jaguar-i-pace-hse-ev400-awd-aut-eletrico-2023-eletrico",
+      "fipeCodigo": "016080-6",
+      "displayName": "Jaguar I-Pace HSE EV400 AWD Aut. (Elétrico)",
+      "valorAtual": 492663,
+      "canonicalPath": "/fipe/jaguar/i-pace-hse-ev400-awd-aut-eletrico-2023-016080-6/",
+      "ano": 2023,
+      "marca": "Jaguar"
+    },
+    {
+      "vehicleId": "jaguar-i-pace-se-ev400-awd-aut-eletrico-2022-eletrico",
+      "fipeCodigo": "016069-5",
+      "displayName": "Jaguar I-Pace SE EV400 AWD Aut. (Elétrico)",
+      "valorAtual": 303928,
+      "canonicalPath": "/fipe/jaguar/i-pace-se-ev400-awd-aut-eletrico-2022-016069-5/",
+      "ano": 2022,
+      "marca": "Jaguar"
+    },
+    {
+      "vehicleId": "jaguar-i-pace-black-ev-400-awd-aut-eletrico-2022-eletrico",
+      "fipeCodigo": "016076-8",
+      "displayName": "Jaguar I-Pace BLACK EV 400 AWD Aut. (Elétrico)",
+      "valorAtual": 446965,
+      "canonicalPath": "/fipe/jaguar/i-pace-black-ev-400-awd-aut-eletrico-2022-016076-8/",
+      "ano": 2022,
+      "marca": "Jaguar"
+    },
+    {
+      "vehicleId": "jaguar-i-pace-se-ev400-awd-aut-eletrico-2021-eletrico",
+      "fipeCodigo": "016069-5",
+      "displayName": "Jaguar I-Pace SE EV400 AWD Aut. (Elétrico)",
+      "valorAtual": 242910,
+      "canonicalPath": "/fipe/jaguar/i-pace-se-ev400-awd-aut-eletrico-2021-016069-5/",
+      "ano": 2021,
+      "marca": "Jaguar"
+    },
+    {
+      "vehicleId": "jaguar-i-pace-se-ev400-awd-aut-eletrico-2020-eletrico",
+      "fipeCodigo": "016069-5",
+      "displayName": "Jaguar I-Pace SE EV400 AWD Aut. (Elétrico)",
+      "valorAtual": 230736,
+      "canonicalPath": "/fipe/jaguar/i-pace-se-ev400-awd-aut-eletrico-2020-016069-5/",
+      "ano": 2020,
+      "marca": "Jaguar"
+    },
+    {
+      "vehicleId": "jaguar-i-pace-se-ev400-awd-aut-eletrico-2019-eletrico",
+      "fipeCodigo": "016069-5",
+      "displayName": "Jaguar I-Pace SE EV400 AWD Aut. (Elétrico)",
+      "valorAtual": 225108,
+      "canonicalPath": "/fipe/jaguar/i-pace-se-ev400-awd-aut-eletrico-2019-016069-5/",
+      "ano": 2019,
+      "marca": "Jaguar"
+    }
+  ],
+  "stats": {
+    "total": 8,
+    "precoMin": 225108,
+    "precoMax": 492663,
+    "anos": [
+      2023,
+      2022,
+      2021,
+      2020,
+      2019
+    ]
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "tipo": "geracao",
+  "slug": "250t-1",
+  "canonicalPath": "/geracao/fox/250t-1/",
+  "titulo": "Geracao 250t-1",
+  "descricao": "3 veiculos da geracao 250t-1.",
+  "seo": {
+    "title": "Geracao 250t-1 - Precos FIPE",
+    "description": "Veiculos da geracao 250t-1 na Tabela FIPE.",
+    "h1": "Geracao 250t-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/fox/250t-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "fox-250t-10-elite-2007-gasolina",
+      "fipeCodigo": "852002-0",
+      "displayName": "FOX 250T-10 Elite",
+      "valorAtual": 5398,
+      "canonicalPath": "/fipe/fox/250t-10-elite-2007-852002-0/",
+      "ano": 2007,
+      "marca": "FOX"
+    },
+    {
+      "vehicleId": "fox-250t-10-elite-2008-gasolina",
+      "fipeCodigo": "852002-0",
+      "displayName": "FOX 250T-10 Elite",
+      "valorAtual": 5782,
+      "canonicalPath": "/fipe/fox/250t-10-elite-2008-852002-0/",
+      "ano": 2008,
+      "marca": "FOX"
+    },
+    {
+      "vehicleId": "fox-250t-10-elite-2009-gasolina",
+      "fipeCodigo": "852002-0",
+      "displayName": "FOX 250T-10 Elite",
+      "valorAtual": 6411,
+      "canonicalPath": "/fipe/fox/250t-10-elite-2009-852002-0/",
+      "ano": 2009,
+      "marca": "FOX"
+    }
+  ],
+  "stats": {
+    "total": 3
+  },
+  "meta": {
+    "geracaoId": "250t-1"
+  }
+}

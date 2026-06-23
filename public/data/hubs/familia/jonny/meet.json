@@ -1,0 +1,42 @@
+{
+  "tipo": "familia",
+  "slug": "meet",
+  "canonicalPath": "/fipe/jonny/meet/",
+  "titulo": "JONNY meet - Tabela FIPE",
+  "descricao": "2 versoes e anos do JONNY meet na Tabela FIPE.",
+  "seo": {
+    "title": "JONNY meet - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes JONNY meet. 2 veiculos indexados.",
+    "h1": "JONNY meet - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/jonny/meet/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "jonny-meet-50cc-2014-gasolina",
+      "fipeCodigo": "865014-4",
+      "displayName": "JONNY Meet 50cc",
+      "valorAtual": 2693,
+      "canonicalPath": "/fipe/jonny/meet-50cc-2014-865014-4/",
+      "ano": 2014,
+      "marca": "JONNY"
+    },
+    {
+      "vehicleId": "jonny-meet-50cc-2013-gasolina",
+      "fipeCodigo": "865014-4",
+      "displayName": "JONNY Meet 50cc",
+      "valorAtual": 2351,
+      "canonicalPath": "/fipe/jonny/meet-50cc-2013-865014-4/",
+      "ano": 2013,
+      "marca": "JONNY"
+    }
+  ],
+  "stats": {
+    "total": 2,
+    "precoMin": 2351,
+    "precoMax": 2693,
+    "anos": [
+      2014,
+      2013
+    ]
+  }
+}

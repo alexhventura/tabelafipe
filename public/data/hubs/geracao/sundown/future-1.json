@@ -1,0 +1,84 @@
+{
+  "tipo": "geracao",
+  "slug": "future-1",
+  "canonicalPath": "/geracao/sundown/future-1/",
+  "titulo": "Geracao future-1",
+  "descricao": "7 veiculos da geracao future-1.",
+  "seo": {
+    "title": "Geracao future-1 - Precos FIPE",
+    "description": "Veiculos da geracao future-1 na Tabela FIPE.",
+    "h1": "Geracao future-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/sundown/future-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "sundown-future-125-2005-gasolina",
+      "fipeCodigo": "824013-2",
+      "displayName": "SUNDOWN FUTURE 125",
+      "valorAtual": 2651,
+      "canonicalPath": "/fipe/sundown/future-125-2005-824013-2/",
+      "ano": 2005,
+      "marca": "SUNDOWN"
+    },
+    {
+      "vehicleId": "sundown-future-125-2006-gasolina",
+      "fipeCodigo": "824013-2",
+      "displayName": "SUNDOWN FUTURE 125",
+      "valorAtual": 3041,
+      "canonicalPath": "/fipe/sundown/future-125-2006-824013-2/",
+      "ano": 2006,
+      "marca": "SUNDOWN"
+    },
+    {
+      "vehicleId": "sundown-future-125-2007-gasolina",
+      "fipeCodigo": "824013-2",
+      "displayName": "SUNDOWN FUTURE 125",
+      "valorAtual": 3193,
+      "canonicalPath": "/fipe/sundown/future-125-2007-824013-2/",
+      "ano": 2007,
+      "marca": "SUNDOWN"
+    },
+    {
+      "vehicleId": "sundown-future-125-2008-gasolina",
+      "fipeCodigo": "824013-2",
+      "displayName": "SUNDOWN FUTURE 125",
+      "valorAtual": 3345,
+      "canonicalPath": "/fipe/sundown/future-125-2008-824013-2/",
+      "ano": 2008,
+      "marca": "SUNDOWN"
+    },
+    {
+      "vehicleId": "sundown-future-125-2009-gasolina",
+      "fipeCodigo": "824013-2",
+      "displayName": "SUNDOWN FUTURE 125",
+      "valorAtual": 3438,
+      "canonicalPath": "/fipe/sundown/future-125-2009-824013-2/",
+      "ano": 2009,
+      "marca": "SUNDOWN"
+    },
+    {
+      "vehicleId": "sundown-future-125-2010-gasolina",
+      "fipeCodigo": "824013-2",
+      "displayName": "SUNDOWN FUTURE 125",
+      "valorAtual": 3534,
+      "canonicalPath": "/fipe/sundown/future-125-2010-824013-2/",
+      "ano": 2010,
+      "marca": "SUNDOWN"
+    },
+    {
+      "vehicleId": "sundown-future-125-2011-gasolina",
+      "fipeCodigo": "824013-2",
+      "displayName": "SUNDOWN FUTURE 125",
+      "valorAtual": 3896,
+      "canonicalPath": "/fipe/sundown/future-125-2011-824013-2/",
+      "ano": 2011,
+      "marca": "SUNDOWN"
+    }
+  ],
+  "stats": {
+    "total": 7
+  },
+  "meta": {
+    "geracaoId": "future-1"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "tipo": "familia",
+  "slug": "belina",
+  "canonicalPath": "/fipe/ford/belina/",
+  "titulo": "Ford belina - Tabela FIPE",
+  "descricao": "4 versoes e anos do Ford belina na Tabela FIPE.",
+  "seo": {
+    "title": "Ford belina - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes Ford belina. 4 veiculos indexados.",
+    "h1": "Ford belina - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/ford/belina/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "ford-belina-l-1-8-1-6-1986-gasolina",
+      "fipeCodigo": "003020-1",
+      "displayName": "Ford Belina L 1.8/ 1.6",
+      "valorAtual": 3295,
+      "canonicalPath": "/fipe/ford/belina-l-1-8-1-6-1986-003020-1/",
+      "ano": 1986,
+      "marca": "Ford"
+    },
+    {
+      "vehicleId": "ford-belina-gl-1-8-1-6-1986-gasolina",
+      "fipeCodigo": "003021-0",
+      "displayName": "Ford Belina GL 1.8 / 1.6",
+      "valorAtual": 4573,
+      "canonicalPath": "/fipe/ford/belina-gl-1-8-1-6-1986-003021-0/",
+      "ano": 1986,
+      "marca": "Ford"
+    },
+    {
+      "vehicleId": "ford-belina-l-1-8-1-6-1985-gasolina",
+      "fipeCodigo": "003020-1",
+      "displayName": "Ford Belina L 1.8/ 1.6",
+      "valorAtual": 3202,
+      "canonicalPath": "/fipe/ford/belina-l-1-8-1-6-1985-003020-1/",
+      "ano": 1985,
+      "marca": "Ford"
+    },
+    {
+      "vehicleId": "ford-belina-gl-1-8-1-6-1985-gasolina",
+      "fipeCodigo": "003021-0",
+      "displayName": "Ford Belina GL 1.8 / 1.6",
+      "valorAtual": 3540,
+      "canonicalPath": "/fipe/ford/belina-gl-1-8-1-6-1985-003021-0/",
+      "ano": 1985,
+      "marca": "Ford"
+    }
+  ],
+  "stats": {
+    "total": 4,
+    "precoMin": 3202,
+    "precoMax": 4573,
+    "anos": [
+      1986,
+      1985
+    ]
+  }
+}

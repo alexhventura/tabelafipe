@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "thruxton-1",
+  "canonicalPath": "/geracao/triumph/thruxton-1/",
+  "titulo": "Geracao thruxton-1",
+  "descricao": "2 veiculos da geracao thruxton-1.",
+  "seo": {
+    "title": "Geracao thruxton-1 - Precos FIPE",
+    "description": "Veiculos da geracao thruxton-1 na Tabela FIPE.",
+    "h1": "Geracao thruxton-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/triumph/thruxton-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "triumph-thruxton-900cc-2006-gasolina",
+      "fipeCodigo": "826032-0",
+      "displayName": "TRIUMPH THRUXTON 900cc",
+      "valorAtual": 21094,
+      "canonicalPath": "/fipe/triumph/thruxton-900cc-2006-826032-0/",
+      "ano": 2006,
+      "marca": "TRIUMPH"
+    },
+    {
+      "vehicleId": "triumph-thruxton-900cc-2007-gasolina",
+      "fipeCodigo": "826032-0",
+      "displayName": "TRIUMPH THRUXTON 900cc",
+      "valorAtual": 28427,
+      "canonicalPath": "/fipe/triumph/thruxton-900cc-2007-826032-0/",
+      "ano": 2007,
+      "marca": "TRIUMPH"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "thruxton-1"
+  }
+}

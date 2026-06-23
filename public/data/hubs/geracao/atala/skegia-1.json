@@ -1,0 +1,57 @@
+{
+  "tipo": "geracao",
+  "slug": "skegia-1",
+  "canonicalPath": "/geracao/atala/skegia-1/",
+  "titulo": "Geracao skegia-1",
+  "descricao": "4 veiculos da geracao skegia-1.",
+  "seo": {
+    "title": "Geracao skegia-1 - Precos FIPE",
+    "description": "Veiculos da geracao skegia-1 na Tabela FIPE.",
+    "h1": "Geracao skegia-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/atala/skegia-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "atala-skegia-50cc-2000-gasolina",
+      "fipeCodigo": "829003-2",
+      "displayName": "ATALA SKEGIA 50cc",
+      "valorAtual": 1577,
+      "canonicalPath": "/fipe/atala/skegia-50cc-2000-829003-2/",
+      "ano": 2000,
+      "marca": "ATALA"
+    },
+    {
+      "vehicleId": "atala-skegia-50cc-2001-gasolina",
+      "fipeCodigo": "829003-2",
+      "displayName": "ATALA SKEGIA 50cc",
+      "valorAtual": 1656,
+      "canonicalPath": "/fipe/atala/skegia-50cc-2001-829003-2/",
+      "ano": 2001,
+      "marca": "ATALA"
+    },
+    {
+      "vehicleId": "atala-skegia-50cc-2002-gasolina",
+      "fipeCodigo": "829003-2",
+      "displayName": "ATALA SKEGIA 50cc",
+      "valorAtual": 1771,
+      "canonicalPath": "/fipe/atala/skegia-50cc-2002-829003-2/",
+      "ano": 2002,
+      "marca": "ATALA"
+    },
+    {
+      "vehicleId": "atala-skegia-50cc-2003-gasolina",
+      "fipeCodigo": "829003-2",
+      "displayName": "ATALA SKEGIA 50cc",
+      "valorAtual": 2027,
+      "canonicalPath": "/fipe/atala/skegia-50cc-2003-829003-2/",
+      "ano": 2003,
+      "marca": "ATALA"
+    }
+  ],
+  "stats": {
+    "total": 4
+  },
+  "meta": {
+    "geracaoId": "skegia-1"
+  }
+}

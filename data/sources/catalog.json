@@ -1,15 +1,25 @@
-﻿{
-  "geradoEm": "2026-06-20",
-  "versao": 1,
-  "fontes": [
-    {
-      "id": "fipex-huggingface",
-      "nome": "fipeX Hugging Face",
-      "url": "https://huggingface.co/datasets/alanwgt/fipex-veiculos-brasil",
-      "tipo": "dataset_completo",
-      "qualidade": 95,
-      "prioridade": 1,
-      "registrosPreco": 18902563
-    }
-  ]
+{
+    "geradoEm":  "2026-06-20",
+    "versao":  1,
+    "fontes":  [
+                   {
+                       "id":  "fipex-huggingface",
+                       "nome":  "fipeX Hugging Face",
+                       "url":  "https://huggingface.co/datasets/alanwgt/fipex-veiculos-brasil",
+                       "tipo":  "dataset_completo",
+                       "qualidade":  95,
+                       "prioridade":  1,
+                       "registrosPreco":  18902563
+                   },
+                   {
+                       "id":  "inmetro-pbev",
+                       "qualidade":  90,
+                       "pathLocal":  "data/raw/inmetro/pbev-latest.json",
+                       "url":  "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem-veicular",
+                       "tipo":  "consumo_oficial",
+                       "nome":  "INMETRO PBEV",
+                       "status":  "pendente_ingestao",
+                       "prioridade":  2
+                   }
+               ]
 }

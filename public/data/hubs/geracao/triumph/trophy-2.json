@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "trophy-2",
+  "canonicalPath": "/geracao/triumph/trophy-2/",
+  "titulo": "Geracao trophy-2",
+  "descricao": "2 veiculos da geracao trophy-2.",
+  "seo": {
+    "title": "Geracao trophy-2 - Precos FIPE",
+    "description": "Veiculos da geracao trophy-2 na Tabela FIPE.",
+    "h1": "Geracao trophy-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/triumph/trophy-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "triumph-trophy-se-1200-2013-gasolina",
+      "fipeCodigo": "826043-5",
+      "displayName": "TRIUMPH TROPHY SE 1200",
+      "valorAtual": 47365,
+      "canonicalPath": "/fipe/triumph/trophy-se-1200-2013-826043-5/",
+      "ano": 2013,
+      "marca": "TRIUMPH"
+    },
+    {
+      "vehicleId": "triumph-trophy-se-1200-2014-gasolina",
+      "fipeCodigo": "826043-5",
+      "displayName": "TRIUMPH TROPHY SE 1200",
+      "valorAtual": 50345,
+      "canonicalPath": "/fipe/triumph/trophy-se-1200-2014-826043-5/",
+      "ano": 2014,
+      "marca": "TRIUMPH"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "trophy-2"
+  }
+}

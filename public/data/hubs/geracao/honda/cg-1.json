@@ -1,0 +1,75 @@
+{
+  "tipo": "geracao",
+  "slug": "cg-1",
+  "canonicalPath": "/geracao/honda/cg-1/",
+  "titulo": "Geracao cg-1",
+  "descricao": "6 veiculos da geracao cg-1.",
+  "seo": {
+    "title": "Geracao cg-1 - Precos FIPE",
+    "description": "Veiculos da geracao cg-1 na Tabela FIPE.",
+    "h1": "Geracao cg-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/honda/cg-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "honda-cg-160-cargo-flex-0-flex",
+      "fipeCodigo": "811142-1",
+      "displayName": "HONDA CG 160 CARGO Flex",
+      "valorAtual": 21305,
+      "canonicalPath": "/fipe/honda/cg-160-cargo-flex-0-811142-1/",
+      "ano": 0,
+      "marca": "HONDA"
+    },
+    {
+      "vehicleId": "honda-cg-160-fan-flex-0-flex",
+      "fipeCodigo": "811147-2",
+      "displayName": "HONDA CG 160 FAN Flex",
+      "valorAtual": 22418,
+      "canonicalPath": "/fipe/honda/cg-160-fan-flex-0-811147-2/",
+      "ano": 0,
+      "marca": "HONDA"
+    },
+    {
+      "vehicleId": "honda-cg-160-start-0-gasolina",
+      "fipeCodigo": "811139-1",
+      "displayName": "HONDA CG 160 START",
+      "valorAtual": 20694,
+      "canonicalPath": "/fipe/honda/cg-160-start-0-811139-1/",
+      "ano": 0,
+      "marca": "HONDA"
+    },
+    {
+      "vehicleId": "honda-cg-160-titan-0-flex",
+      "fipeCodigo": "811192-8",
+      "displayName": "HONDA CG 160 TITAN",
+      "valorAtual": 24106,
+      "canonicalPath": "/fipe/honda/cg-160-titan-0-811192-8/",
+      "ano": 0,
+      "marca": "HONDA"
+    },
+    {
+      "vehicleId": "honda-cg-160-titan-50-anos-0-flex",
+      "fipeCodigo": "811195-2",
+      "displayName": "HONDA CG 160 TITAN 50 Anos",
+      "valorAtual": 24907,
+      "canonicalPath": "/fipe/honda/cg-160-titan-50-anos-0-811195-2/",
+      "ano": 0,
+      "marca": "HONDA"
+    },
+    {
+      "vehicleId": "honda-cg-160-titan-flexone-ed-especial-40-anos-0-flex",
+      "fipeCodigo": "811133-2",
+      "displayName": "HONDA CG 160 TITAN FLEXONE/Ed.Especial 40 Anos",
+      "valorAtual": 23770,
+      "canonicalPath": "/fipe/honda/cg-160-titan-flexone-ed-especial-40-anos-0-811133-2/",
+      "ano": 0,
+      "marca": "HONDA"
+    }
+  ],
+  "stats": {
+    "total": 6
+  },
+  "meta": {
+    "geracaoId": "cg-1"
+  }
+}

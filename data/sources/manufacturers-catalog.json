@@ -1,0 +1,36 @@
+{
+  "geradoEm": "2026-06-20",
+  "observacao": "Fontes oficiais de ficha tecnica. Ingestao manual/batch via JSON em data/raw/manufacturers/{marca}.json",
+  "marcas": [
+    { "slug": "fiat", "nome": "Fiat", "fonteOficial": "https://www.fiat.com.br", "tipoFonte": "site_oficial", "formatoEsperado": "json_manual", "status": "pendente", "camposDisponiveis": ["potenciaCv", "torqueNm", "cambio", "cilindradaCc", "pesoKg", "portaMalasL", "tanqueL"] },
+    { "slug": "volkswagen", "nome": "Volkswagen", "fonteOficial": "https://www.vw.com.br", "tipoFonte": "site_oficial", "formatoEsperado": "json_manual", "status": "pendente" },
+    { "slug": "chevrolet", "nome": "Chevrolet", "fonteOficial": "https://www.chevrolet.com.br", "tipoFonte": "site_oficial", "formatoEsperado": "json_manual", "status": "pendente" },
+    { "slug": "toyota", "nome": "Toyota", "fonteOficial": "https://www.toyota.com.br", "tipoFonte": "site_oficial", "formatoEsperado": "json_manual", "status": "pendente" },
+    { "slug": "honda", "nome": "Honda", "fonteOficial": "https://www.honda.com.br/automoveis", "tipoFonte": "site_oficial", "formatoEsperado": "json_manual", "status": "pendente" },
+    { "slug": "hyundai", "nome": "Hyundai", "fonteOficial": "https://www.hyundai.com.br", "tipoFonte": "site_oficial", "formatoEsperado": "json_manual", "status": "pendente" },
+    { "slug": "renault", "nome": "Renault", "fonteOficial": "https://www.renault.com.br", "tipoFonte": "site_oficial", "formatoEsperado": "json_manual", "status": "pendente" },
+    { "slug": "nissan", "nome": "Nissan", "fonteOficial": "https://www.nissan.com.br", "tipoFonte": "site_oficial", "formatoEsperado": "json_manual", "status": "pendente" },
+    { "slug": "jeep", "nome": "Jeep", "fonteOficial": "https://www.jeep.com.br", "tipoFonte": "site_oficial", "formatoEsperado": "json_manual", "status": "pendente" },
+    { "slug": "bmw", "nome": "BMW", "fonteOficial": "https://www.bmw.com.br", "tipoFonte": "site_oficial", "formatoEsperado": "json_manual", "status": "pendente" },
+    { "slug": "mercedes-benz", "nome": "Mercedes-Benz", "fonteOficial": "https://www.mercedes-benz.com.br", "tipoFonte": "site_oficial", "formatoEsperado": "json_manual", "status": "pendente" },
+    { "slug": "audi", "nome": "Audi", "fonteOficial": "https://www.audi.com.br", "tipoFonte": "site_oficial", "formatoEsperado": "json_manual", "status": "pendente" }
+  ],
+  "schemaExemplo": {
+    "marca": "Toyota",
+    "modelo": "Corolla",
+    "versao": "XEi 2.0 Flex",
+    "ano": 2024,
+    "potenciaCv": 177,
+    "torqueNm": 203,
+    "cambio": "CVT",
+    "cilindradaCc": 1987,
+    "pesoKg": 1380,
+    "comprimentoMm": 4630,
+    "larguraMm": 1780,
+    "alturaMm": 1455,
+    "portaMalasL": 470,
+    "tanqueL": 50,
+    "fonte": "toyota.com.br/ficha-tecnica",
+    "urlFonte": "https://www.toyota.com.br/..."
+  }
+}

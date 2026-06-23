@@ -1,0 +1,52 @@
+{
+  "tipo": "familia",
+  "slug": "dl",
+  "canonicalPath": "/fipe/haojue/dl/",
+  "titulo": "HAOJUE dl - Tabela FIPE",
+  "descricao": "3 versoes e anos do HAOJUE dl na Tabela FIPE.",
+  "seo": {
+    "title": "HAOJUE dl - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes HAOJUE dl. 3 veiculos indexados.",
+    "h1": "HAOJUE dl - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/haojue/dl/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "haojue-dl-160-2027-gasolina",
+      "fipeCodigo": "885014-3",
+      "displayName": "HAOJUE DL 160",
+      "valorAtual": 21230,
+      "canonicalPath": "/fipe/haojue/dl-160-2027-885014-3/",
+      "ano": 2027,
+      "marca": "HAOJUE"
+    },
+    {
+      "vehicleId": "haojue-dl-160-2026-gasolina",
+      "fipeCodigo": "885014-3",
+      "displayName": "HAOJUE DL 160",
+      "valorAtual": 20522,
+      "canonicalPath": "/fipe/haojue/dl-160-2026-885014-3/",
+      "ano": 2026,
+      "marca": "HAOJUE"
+    },
+    {
+      "vehicleId": "haojue-dl-160-0-gasolina",
+      "fipeCodigo": "885014-3",
+      "displayName": "HAOJUE DL 160",
+      "valorAtual": 22831,
+      "canonicalPath": "/fipe/haojue/dl-160-0-885014-3/",
+      "ano": 0,
+      "marca": "HAOJUE"
+    }
+  ],
+  "stats": {
+    "total": 3,
+    "precoMin": 20522,
+    "precoMax": 22831,
+    "anos": [
+      2027,
+      2026,
+      0
+    ]
+  }
+}

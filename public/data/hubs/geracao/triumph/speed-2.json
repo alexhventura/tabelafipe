@@ -1,0 +1,102 @@
+{
+  "tipo": "geracao",
+  "slug": "speed-2",
+  "canonicalPath": "/geracao/triumph/speed-2/",
+  "titulo": "Geracao speed-2",
+  "descricao": "9 veiculos da geracao speed-2.",
+  "seo": {
+    "title": "Geracao speed-2 - Precos FIPE",
+    "description": "Veiculos da geracao speed-2 na Tabela FIPE.",
+    "h1": "Geracao speed-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/triumph/speed-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "triumph-speed-triple-900-1995-gasolina",
+      "fipeCodigo": "826007-9",
+      "displayName": "TRIUMPH SPEED TRIPLE 900",
+      "valorAtual": 10407,
+      "canonicalPath": "/fipe/triumph/speed-triple-900-1995-826007-9/",
+      "ano": 1995,
+      "marca": "TRIUMPH"
+    },
+    {
+      "vehicleId": "triumph-speed-triple-900-1996-gasolina",
+      "fipeCodigo": "826007-9",
+      "displayName": "TRIUMPH SPEED TRIPLE 900",
+      "valorAtual": 10813,
+      "canonicalPath": "/fipe/triumph/speed-triple-900-1996-826007-9/",
+      "ano": 1996,
+      "marca": "TRIUMPH"
+    },
+    {
+      "vehicleId": "triumph-speed-triple-955i-2001-gasolina",
+      "fipeCodigo": "826024-9",
+      "displayName": "TRIUMPH SPEED TRIPLE 955i",
+      "valorAtual": 16035,
+      "canonicalPath": "/fipe/triumph/speed-triple-955i-2001-826024-9/",
+      "ano": 2001,
+      "marca": "TRIUMPH"
+    },
+    {
+      "vehicleId": "triumph-speed-triple-955i-2002-gasolina",
+      "fipeCodigo": "826024-9",
+      "displayName": "TRIUMPH SPEED TRIPLE 955i",
+      "valorAtual": 17321,
+      "canonicalPath": "/fipe/triumph/speed-triple-955i-2002-826024-9/",
+      "ano": 2002,
+      "marca": "TRIUMPH"
+    },
+    {
+      "vehicleId": "triumph-speed-triple-t-509-900cc-1997-gasolina",
+      "fipeCodigo": "826008-7",
+      "displayName": "TRIUMPH SPEED TRIPLE T-509 900cc",
+      "valorAtual": 11679,
+      "canonicalPath": "/fipe/triumph/speed-triple-t-509-900cc-1997-826008-7/",
+      "ano": 1997,
+      "marca": "TRIUMPH"
+    },
+    {
+      "vehicleId": "triumph-speed-triple-t-509-900cc-1998-gasolina",
+      "fipeCodigo": "826008-7",
+      "displayName": "TRIUMPH SPEED TRIPLE T-509 900cc",
+      "valorAtual": 12063,
+      "canonicalPath": "/fipe/triumph/speed-triple-t-509-900cc-1998-826008-7/",
+      "ano": 1998,
+      "marca": "TRIUMPH"
+    },
+    {
+      "vehicleId": "triumph-speed-triple-t-509-900cc-1999-gasolina",
+      "fipeCodigo": "826008-7",
+      "displayName": "TRIUMPH SPEED TRIPLE T-509 900cc",
+      "valorAtual": 12544,
+      "canonicalPath": "/fipe/triumph/speed-triple-t-509-900cc-1999-826008-7/",
+      "ano": 1999,
+      "marca": "TRIUMPH"
+    },
+    {
+      "vehicleId": "triumph-speed-triple-t-509-900cc-2000-gasolina",
+      "fipeCodigo": "826008-7",
+      "displayName": "TRIUMPH SPEED TRIPLE T-509 900cc",
+      "valorAtual": 13309,
+      "canonicalPath": "/fipe/triumph/speed-triple-t-509-900cc-2000-826008-7/",
+      "ano": 2000,
+      "marca": "TRIUMPH"
+    },
+    {
+      "vehicleId": "triumph-speed-triple-t-509-900cc-2001-gasolina",
+      "fipeCodigo": "826008-7",
+      "displayName": "TRIUMPH SPEED TRIPLE T-509 900cc",
+      "valorAtual": 15860,
+      "canonicalPath": "/fipe/triumph/speed-triple-t-509-900cc-2001-826008-7/",
+      "ano": 2001,
+      "marca": "TRIUMPH"
+    }
+  ],
+  "stats": {
+    "total": 9
+  },
+  "meta": {
+    "geracaoId": "speed-2"
+  }
+}

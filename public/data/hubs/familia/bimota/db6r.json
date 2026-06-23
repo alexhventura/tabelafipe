@@ -1,0 +1,52 @@
+{
+  "tipo": "familia",
+  "slug": "db6r",
+  "canonicalPath": "/fipe/bimota/db6r/",
+  "titulo": "BIMOTA db6r - Tabela FIPE",
+  "descricao": "3 versoes e anos do BIMOTA db6r na Tabela FIPE.",
+  "seo": {
+    "title": "BIMOTA db6r - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes BIMOTA db6r. 3 veiculos indexados.",
+    "h1": "BIMOTA db6r - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/bimota/db6r/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "bimota-db6r-delirio-1078cc-2011-gasolina",
+      "fipeCodigo": "828005-3",
+      "displayName": "BIMOTA DB6R Delirio 1078cc",
+      "valorAtual": 43377,
+      "canonicalPath": "/fipe/bimota/db6r-delirio-1078cc-2011-828005-3/",
+      "ano": 2011,
+      "marca": "BIMOTA"
+    },
+    {
+      "vehicleId": "bimota-db6r-delirio-1078cc-2009-gasolina",
+      "fipeCodigo": "828005-3",
+      "displayName": "BIMOTA DB6R Delirio 1078cc",
+      "valorAtual": 40612,
+      "canonicalPath": "/fipe/bimota/db6r-delirio-1078cc-2009-828005-3/",
+      "ano": 2009,
+      "marca": "BIMOTA"
+    },
+    {
+      "vehicleId": "bimota-db6r-delirio-1078cc-2008-gasolina",
+      "fipeCodigo": "828005-3",
+      "displayName": "BIMOTA DB6R Delirio 1078cc",
+      "valorAtual": 38845,
+      "canonicalPath": "/fipe/bimota/db6r-delirio-1078cc-2008-828005-3/",
+      "ano": 2008,
+      "marca": "BIMOTA"
+    }
+  ],
+  "stats": {
+    "total": 3,
+    "precoMin": 38845,
+    "precoMax": 43377,
+    "anos": [
+      2011,
+      2009,
+      2008
+    ]
+  }
+}

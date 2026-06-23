@@ -1,0 +1,57 @@
+{
+  "tipo": "geracao",
+  "slug": "640i-1",
+  "canonicalPath": "/geracao/bmw/640i-1/",
+  "titulo": "Geracao 640i-1",
+  "descricao": "4 veiculos da geracao 640i-1.",
+  "seo": {
+    "title": "Geracao 640i-1 - Precos FIPE",
+    "description": "Veiculos da geracao 640i-1 na Tabela FIPE.",
+    "h1": "Geracao 640i-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/bmw/640i-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "bmw-640i-gran-coupe-3-0-320cv-4p-2013-gasolina",
+      "fipeCodigo": "009177-4",
+      "displayName": "BMW 640i Gran Coupe 3.0 320cv 4p",
+      "valorAtual": 144556,
+      "canonicalPath": "/fipe/bmw/640i-gran-coupe-3-0-320cv-4p-2013-009177-4/",
+      "ano": 2013,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-640i-gran-coupe-3-0-320cv-4p-2014-gasolina",
+      "fipeCodigo": "009177-4",
+      "displayName": "BMW 640i Gran Coupe 3.0 320cv 4p",
+      "valorAtual": 164759,
+      "canonicalPath": "/fipe/bmw/640i-gran-coupe-3-0-320cv-4p-2014-009177-4/",
+      "ano": 2014,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-640i-gran-coupe-3-0-320cv-4p-2015-gasolina",
+      "fipeCodigo": "009177-4",
+      "displayName": "BMW 640i Gran Coupe 3.0 320cv 4p",
+      "valorAtual": 175640,
+      "canonicalPath": "/fipe/bmw/640i-gran-coupe-3-0-320cv-4p-2015-009177-4/",
+      "ano": 2015,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-640i-gran-coupe-3-0-320cv-4p-2016-gasolina",
+      "fipeCodigo": "009177-4",
+      "displayName": "BMW 640i Gran Coupe 3.0 320cv 4p",
+      "valorAtual": 237866,
+      "canonicalPath": "/fipe/bmw/640i-gran-coupe-3-0-320cv-4p-2016-009177-4/",
+      "ano": 2016,
+      "marca": "BMW"
+    }
+  ],
+  "stats": {
+    "total": 4
+  },
+  "meta": {
+    "geracaoId": "640i-1"
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "tipo": "geracao",
+  "slug": "gtc4-1",
+  "canonicalPath": "/geracao/ferrari/gtc4-1/",
+  "titulo": "Geracao gtc4-1",
+  "descricao": "6 veiculos da geracao gtc4-1.",
+  "seo": {
+    "title": "Geracao gtc4-1 - Precos FIPE",
+    "description": "Veiculos da geracao gtc4-1 na Tabela FIPE.",
+    "h1": "Geracao gtc4-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/ferrari/gtc4-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "ferrari-gtc4-lusso-6-3-v12-690cv-2017-gasolina",
+      "fipeCodigo": "031041-7",
+      "displayName": "Ferrari GTC4 LUSSO 6.3 V12 690cv",
+      "valorAtual": 2987563,
+      "canonicalPath": "/fipe/ferrari/gtc4-lusso-6-3-v12-690cv-2017-031041-7/",
+      "ano": 2017,
+      "marca": "Ferrari"
+    },
+    {
+      "vehicleId": "ferrari-gtc4-lusso-6-3-v12-690cv-2018-gasolina",
+      "fipeCodigo": "031041-7",
+      "displayName": "Ferrari GTC4 LUSSO 6.3 V12 690cv",
+      "valorAtual": 3110385,
+      "canonicalPath": "/fipe/ferrari/gtc4-lusso-6-3-v12-690cv-2018-031041-7/",
+      "ano": 2018,
+      "marca": "Ferrari"
+    },
+    {
+      "vehicleId": "ferrari-gtc4-lusso-6-3-v12-690cv-2019-gasolina",
+      "fipeCodigo": "031041-7",
+      "displayName": "Ferrari GTC4 LUSSO 6.3 V12 690cv",
+      "valorAtual": 4219768,
+      "canonicalPath": "/fipe/ferrari/gtc4-lusso-6-3-v12-690cv-2019-031041-7/",
+      "ano": 2019,
+      "marca": "Ferrari"
+    },
+    {
+      "vehicleId": "ferrari-gtc4-lusso-t-v8-610cv-2018-gasolina",
+      "fipeCodigo": "031043-3",
+      "displayName": "Ferrari GTC4 LUSSO T V8 610cv",
+      "valorAtual": 2901423,
+      "canonicalPath": "/fipe/ferrari/gtc4-lusso-t-v8-610cv-2018-031043-3/",
+      "ano": 2018,
+      "marca": "Ferrari"
+    },
+    {
+      "vehicleId": "ferrari-gtc4-lusso-t-v8-610cv-2019-gasolina",
+      "fipeCodigo": "031043-3",
+      "displayName": "Ferrari GTC4 LUSSO T V8 610cv",
+      "valorAtual": 3805257,
+      "canonicalPath": "/fipe/ferrari/gtc4-lusso-t-v8-610cv-2019-031043-3/",
+      "ano": 2019,
+      "marca": "Ferrari"
+    },
+    {
+      "vehicleId": "ferrari-gtc4-lusso-t-v8-610cv-2020-gasolina",
+      "fipeCodigo": "031043-3",
+      "displayName": "Ferrari GTC4 LUSSO T V8 610cv",
+      "valorAtual": 3900389,
+      "canonicalPath": "/fipe/ferrari/gtc4-lusso-t-v8-610cv-2020-031043-3/",
+      "ano": 2020,
+      "marca": "Ferrari"
+    }
+  ],
+  "stats": {
+    "total": 6
+  },
+  "meta": {
+    "geracaoId": "gtc4-1"
+  }
+}

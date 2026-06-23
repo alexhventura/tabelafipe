@@ -1,0 +1,52 @@
+{
+  "tipo": "familia",
+  "slug": "liberty150",
+  "canonicalPath": "/fipe/piaggio/liberty150/",
+  "titulo": "PIAGGIO liberty150 - Tabela FIPE",
+  "descricao": "3 versoes e anos do PIAGGIO liberty150 na Tabela FIPE.",
+  "seo": {
+    "title": "PIAGGIO liberty150 - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes PIAGGIO liberty150. 3 veiculos indexados.",
+    "h1": "PIAGGIO liberty150 - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/piaggio/liberty150/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "piaggio-liberty150-2025-gasolina",
+      "fipeCodigo": "822047-6",
+      "displayName": "PIAGGIO Liberty150",
+      "valorAtual": 24909,
+      "canonicalPath": "/fipe/piaggio/liberty150-2025-822047-6/",
+      "ano": 2025,
+      "marca": "PIAGGIO"
+    },
+    {
+      "vehicleId": "piaggio-liberty150-2024-gasolina",
+      "fipeCodigo": "822047-6",
+      "displayName": "PIAGGIO Liberty150",
+      "valorAtual": 24285,
+      "canonicalPath": "/fipe/piaggio/liberty150-2024-822047-6/",
+      "ano": 2024,
+      "marca": "PIAGGIO"
+    },
+    {
+      "vehicleId": "piaggio-liberty150-0-gasolina",
+      "fipeCodigo": "822047-6",
+      "displayName": "PIAGGIO Liberty150",
+      "valorAtual": 25903,
+      "canonicalPath": "/fipe/piaggio/liberty150-0-822047-6/",
+      "ano": 0,
+      "marca": "PIAGGIO"
+    }
+  ],
+  "stats": {
+    "total": 3,
+    "precoMin": 24285,
+    "precoMax": 25903,
+    "anos": [
+      2025,
+      2024,
+      0
+    ]
+  }
+}

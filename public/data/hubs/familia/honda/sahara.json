@@ -1,0 +1,134 @@
+{
+  "tipo": "familia",
+  "slug": "sahara",
+  "canonicalPath": "/fipe/honda/sahara/",
+  "titulo": "HONDA sahara - Tabela FIPE",
+  "descricao": "12 versoes e anos do HONDA sahara na Tabela FIPE.",
+  "seo": {
+    "title": "HONDA sahara - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes HONDA sahara. 12 veiculos indexados.",
+    "h1": "HONDA sahara - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/honda/sahara/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "honda-sahara-300-abs-flex-2026-flex",
+      "fipeCodigo": "811178-2",
+      "displayName": "HONDA SAHARA 300 ABS FLEX",
+      "valorAtual": 33250,
+      "canonicalPath": "/fipe/honda/sahara-300-abs-flex-2026-811178-2/",
+      "ano": 2026,
+      "marca": "HONDA"
+    },
+    {
+      "vehicleId": "honda-sahara-300-rally-abs-flex-2026-flex",
+      "fipeCodigo": "811177-4",
+      "displayName": "HONDA SAHARA 300 RALLY ABS FLEX",
+      "valorAtual": 34165,
+      "canonicalPath": "/fipe/honda/sahara-300-rally-abs-flex-2026-811177-4/",
+      "ano": 2026,
+      "marca": "HONDA"
+    },
+    {
+      "vehicleId": "honda-sahara-300-adventure-abs-flex-2026-flex",
+      "fipeCodigo": "811176-6",
+      "displayName": "HONDA SAHARA 300 ADVENTURE ABS FLEX",
+      "valorAtual": 34551,
+      "canonicalPath": "/fipe/honda/sahara-300-adventure-abs-flex-2026-811176-6/",
+      "ano": 2026,
+      "marca": "HONDA"
+    },
+    {
+      "vehicleId": "honda-sahara-300-abs-flex-2025-flex",
+      "fipeCodigo": "811178-2",
+      "displayName": "HONDA SAHARA 300 ABS FLEX",
+      "valorAtual": 31625,
+      "canonicalPath": "/fipe/honda/sahara-300-abs-flex-2025-811178-2/",
+      "ano": 2025,
+      "marca": "HONDA"
+    },
+    {
+      "vehicleId": "honda-sahara-300-rally-abs-flex-2025-flex",
+      "fipeCodigo": "811177-4",
+      "displayName": "HONDA SAHARA 300 RALLY ABS FLEX",
+      "valorAtual": 32765,
+      "canonicalPath": "/fipe/honda/sahara-300-rally-abs-flex-2025-811177-4/",
+      "ano": 2025,
+      "marca": "HONDA"
+    },
+    {
+      "vehicleId": "honda-sahara-300-adventure-abs-flex-2025-flex",
+      "fipeCodigo": "811176-6",
+      "displayName": "HONDA SAHARA 300 ADVENTURE ABS FLEX",
+      "valorAtual": 32994,
+      "canonicalPath": "/fipe/honda/sahara-300-adventure-abs-flex-2025-811176-6/",
+      "ano": 2025,
+      "marca": "HONDA"
+    },
+    {
+      "vehicleId": "honda-sahara-300-abs-flex-2024-flex",
+      "fipeCodigo": "811178-2",
+      "displayName": "HONDA SAHARA 300 ABS FLEX",
+      "valorAtual": 30827,
+      "canonicalPath": "/fipe/honda/sahara-300-abs-flex-2024-811178-2/",
+      "ano": 2024,
+      "marca": "HONDA"
+    },
+    {
+      "vehicleId": "honda-sahara-300-rally-abs-flex-2024-flex",
+      "fipeCodigo": "811177-4",
+      "displayName": "HONDA SAHARA 300 RALLY ABS FLEX",
+      "valorAtual": 31965,
+      "canonicalPath": "/fipe/honda/sahara-300-rally-abs-flex-2024-811177-4/",
+      "ano": 2024,
+      "marca": "HONDA"
+    },
+    {
+      "vehicleId": "honda-sahara-300-adventure-abs-flex-2024-flex",
+      "fipeCodigo": "811176-6",
+      "displayName": "HONDA SAHARA 300 ADVENTURE ABS FLEX",
+      "valorAtual": 32161,
+      "canonicalPath": "/fipe/honda/sahara-300-adventure-abs-flex-2024-811176-6/",
+      "ano": 2024,
+      "marca": "HONDA"
+    },
+    {
+      "vehicleId": "honda-sahara-300-abs-flex-0-flex",
+      "fipeCodigo": "811178-2",
+      "displayName": "HONDA SAHARA 300 ABS FLEX",
+      "valorAtual": 35723,
+      "canonicalPath": "/fipe/honda/sahara-300-abs-flex-0-811178-2/",
+      "ano": 0,
+      "marca": "HONDA"
+    },
+    {
+      "vehicleId": "honda-sahara-300-rally-abs-flex-0-flex",
+      "fipeCodigo": "811177-4",
+      "displayName": "HONDA SAHARA 300 RALLY ABS FLEX",
+      "valorAtual": 36607,
+      "canonicalPath": "/fipe/honda/sahara-300-rally-abs-flex-0-811177-4/",
+      "ano": 0,
+      "marca": "HONDA"
+    },
+    {
+      "vehicleId": "honda-sahara-300-adventure-abs-flex-0-flex",
+      "fipeCodigo": "811176-6",
+      "displayName": "HONDA SAHARA 300 ADVENTURE ABS FLEX",
+      "valorAtual": 37685,
+      "canonicalPath": "/fipe/honda/sahara-300-adventure-abs-flex-0-811176-6/",
+      "ano": 0,
+      "marca": "HONDA"
+    }
+  ],
+  "stats": {
+    "total": 12,
+    "precoMin": 30827,
+    "precoMax": 37685,
+    "anos": [
+      2026,
+      2025,
+      2024,
+      0
+    ]
+  }
+}

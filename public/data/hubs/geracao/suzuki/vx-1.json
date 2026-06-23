@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "vx-1",
+  "canonicalPath": "/geracao/suzuki/vx-1/",
+  "titulo": "Geracao vx-1",
+  "descricao": "2 veiculos da geracao vx-1.",
+  "seo": {
+    "title": "Geracao vx-1 - Precos FIPE",
+    "description": "Veiculos da geracao vx-1 na Tabela FIPE.",
+    "h1": "Geracao vx-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/suzuki/vx-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "suzuki-vx-800cc-1994-gasolina",
+      "fipeCodigo": "825028-6",
+      "displayName": "SUZUKI VX 800cc",
+      "valorAtual": 14326,
+      "canonicalPath": "/fipe/suzuki/vx-800cc-1994-825028-6/",
+      "ano": 1994,
+      "marca": "SUZUKI"
+    },
+    {
+      "vehicleId": "suzuki-vx-800cc-1995-gasolina",
+      "fipeCodigo": "825028-6",
+      "displayName": "SUZUKI VX 800cc",
+      "valorAtual": 14685,
+      "canonicalPath": "/fipe/suzuki/vx-800cc-1995-825028-6/",
+      "ano": 1995,
+      "marca": "SUZUKI"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "vx-1"
+  }
+}

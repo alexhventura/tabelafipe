@@ -1,0 +1,48 @@
+{
+  "tipo": "geracao",
+  "slug": "bacio-1",
+  "canonicalPath": "/geracao/motorino/bacio-1/",
+  "titulo": "Geracao bacio-1",
+  "descricao": "3 veiculos da geracao bacio-1.",
+  "seo": {
+    "title": "Geracao bacio-1 - Precos FIPE",
+    "description": "Veiculos da geracao bacio-1 na Tabela FIPE.",
+    "h1": "Geracao bacio-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/motorino/bacio-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "motorino-bacio-125cc-2009-gasolina",
+      "fipeCodigo": "881008-7",
+      "displayName": "MOTORINO Bacio 125cc",
+      "valorAtual": 4239,
+      "canonicalPath": "/fipe/motorino/bacio-125cc-2009-881008-7/",
+      "ano": 2009,
+      "marca": "MOTORINO"
+    },
+    {
+      "vehicleId": "motorino-bacio-125cc-2010-gasolina",
+      "fipeCodigo": "881008-7",
+      "displayName": "MOTORINO Bacio 125cc",
+      "valorAtual": 4826,
+      "canonicalPath": "/fipe/motorino/bacio-125cc-2010-881008-7/",
+      "ano": 2010,
+      "marca": "MOTORINO"
+    },
+    {
+      "vehicleId": "motorino-bacio-125cc-2011-gasolina",
+      "fipeCodigo": "881008-7",
+      "displayName": "MOTORINO Bacio 125cc",
+      "valorAtual": 5850,
+      "canonicalPath": "/fipe/motorino/bacio-125cc-2011-881008-7/",
+      "ano": 2011,
+      "marca": "MOTORINO"
+    }
+  ],
+  "stats": {
+    "total": 3
+  },
+  "meta": {
+    "geracaoId": "bacio-1"
+  }
+}

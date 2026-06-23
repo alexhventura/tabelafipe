@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "general-2",
+  "canonicalPath": "/geracao/polaris/general-2/",
+  "titulo": "Geracao general-2",
+  "descricao": "2 veiculos da geracao general-2.",
+  "seo": {
+    "title": "Geracao general-2 - Precos FIPE",
+    "description": "Veiculos da geracao general-2 na Tabela FIPE.",
+    "h1": "Geracao general-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/polaris/general-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "polaris-general-1000-crew-4x4-utv-2019-gasolina",
+      "fipeCodigo": "884011-3",
+      "displayName": "POLARIS General 1000 CREW 4x4 (UTV)",
+      "valorAtual": 99859,
+      "canonicalPath": "/fipe/polaris/general-1000-crew-4x4-utv-2019-884011-3/",
+      "ano": 2019,
+      "marca": "POLARIS"
+    },
+    {
+      "vehicleId": "polaris-general-1000-crew-4x4-utv-2020-gasolina",
+      "fipeCodigo": "884011-3",
+      "displayName": "POLARIS General 1000 CREW 4x4 (UTV)",
+      "valorAtual": 108310,
+      "canonicalPath": "/fipe/polaris/general-1000-crew-4x4-utv-2020-884011-3/",
+      "ano": 2020,
+      "marca": "POLARIS"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "general-2"
+  }
+}

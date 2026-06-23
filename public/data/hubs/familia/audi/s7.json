@@ -1,0 +1,62 @@
+{
+  "tipo": "familia",
+  "slug": "s7",
+  "canonicalPath": "/fipe/audi/s7/",
+  "titulo": "Audi s7 - Tabela FIPE",
+  "descricao": "4 versoes e anos do Audi s7 na Tabela FIPE.",
+  "seo": {
+    "title": "Audi s7 - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes Audi s7. 4 veiculos indexados.",
+    "h1": "Audi s7 - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/audi/s7/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "audi-s7-4-0-tfsi-420-450cv-quattro-s-tronic-2016-gasolina",
+      "fipeCodigo": "008188-4",
+      "displayName": "Audi S7 4.0 TFSI 420/450cv Quattro S-tronic",
+      "valorAtual": 329567,
+      "canonicalPath": "/fipe/audi/s7-4-0-tfsi-420-450cv-quattro-s-tronic-2016-008188-4/",
+      "ano": 2016,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-s7-4-0-tfsi-420-450cv-quattro-s-tronic-2015-gasolina",
+      "fipeCodigo": "008188-4",
+      "displayName": "Audi S7 4.0 TFSI 420/450cv Quattro S-tronic",
+      "valorAtual": 297839,
+      "canonicalPath": "/fipe/audi/s7-4-0-tfsi-420-450cv-quattro-s-tronic-2015-008188-4/",
+      "ano": 2015,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-s7-4-0-tfsi-420-450cv-quattro-s-tronic-2014-gasolina",
+      "fipeCodigo": "008188-4",
+      "displayName": "Audi S7 4.0 TFSI 420/450cv Quattro S-tronic",
+      "valorAtual": 236763,
+      "canonicalPath": "/fipe/audi/s7-4-0-tfsi-420-450cv-quattro-s-tronic-2014-008188-4/",
+      "ano": 2014,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-s7-4-0-tfsi-420-450cv-quattro-s-tronic-2013-gasolina",
+      "fipeCodigo": "008188-4",
+      "displayName": "Audi S7 4.0 TFSI 420/450cv Quattro S-tronic",
+      "valorAtual": 230988,
+      "canonicalPath": "/fipe/audi/s7-4-0-tfsi-420-450cv-quattro-s-tronic-2013-008188-4/",
+      "ano": 2013,
+      "marca": "Audi"
+    }
+  ],
+  "stats": {
+    "total": 4,
+    "precoMin": 230988,
+    "precoMax": 329567,
+    "anos": [
+      2016,
+      2015,
+      2014,
+      2013
+    ]
+  }
+}

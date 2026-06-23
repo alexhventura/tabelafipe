@@ -1,0 +1,75 @@
+{
+  "tipo": "geracao",
+  "slug": "klx-2",
+  "canonicalPath": "/geracao/kawasaki/klx-2/",
+  "titulo": "Geracao klx-2",
+  "descricao": "6 veiculos da geracao klx-2.",
+  "seo": {
+    "title": "Geracao klx-2 - Precos FIPE",
+    "description": "Veiculos da geracao klx-2 na Tabela FIPE.",
+    "h1": "Geracao klx-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/kawasaki/klx-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "kawasaki-klx-250-1994-gasolina",
+      "fipeCodigo": "817033-9",
+      "displayName": "KAWASAKI KLX 250",
+      "valorAtual": 4972,
+      "canonicalPath": "/fipe/kawasaki/klx-250-1994-817033-9/",
+      "ano": 1994,
+      "marca": "KAWASAKI"
+    },
+    {
+      "vehicleId": "kawasaki-klx-250-1995-gasolina",
+      "fipeCodigo": "817033-9",
+      "displayName": "KAWASAKI KLX 250",
+      "valorAtual": 5916,
+      "canonicalPath": "/fipe/kawasaki/klx-250-1995-817033-9/",
+      "ano": 1995,
+      "marca": "KAWASAKI"
+    },
+    {
+      "vehicleId": "kawasaki-klx-250-1996-gasolina",
+      "fipeCodigo": "817033-9",
+      "displayName": "KAWASAKI KLX 250",
+      "valorAtual": 6959,
+      "canonicalPath": "/fipe/kawasaki/klx-250-1996-817033-9/",
+      "ano": 1996,
+      "marca": "KAWASAKI"
+    },
+    {
+      "vehicleId": "kawasaki-klx-650-1994-gasolina",
+      "fipeCodigo": "817032-0",
+      "displayName": "KAWASAKI KLX 650",
+      "valorAtual": 10115,
+      "canonicalPath": "/fipe/kawasaki/klx-650-1994-817032-0/",
+      "ano": 1994,
+      "marca": "KAWASAKI"
+    },
+    {
+      "vehicleId": "kawasaki-klx-650-1995-gasolina",
+      "fipeCodigo": "817032-0",
+      "displayName": "KAWASAKI KLX 650",
+      "valorAtual": 12050,
+      "canonicalPath": "/fipe/kawasaki/klx-650-1995-817032-0/",
+      "ano": 1995,
+      "marca": "KAWASAKI"
+    },
+    {
+      "vehicleId": "kawasaki-klx-650-1996-gasolina",
+      "fipeCodigo": "817032-0",
+      "displayName": "KAWASAKI KLX 650",
+      "valorAtual": 14553,
+      "canonicalPath": "/fipe/kawasaki/klx-650-1996-817032-0/",
+      "ano": 1996,
+      "marca": "KAWASAKI"
+    }
+  ],
+  "stats": {
+    "total": 6
+  },
+  "meta": {
+    "geracaoId": "klx-2"
+  }
+}

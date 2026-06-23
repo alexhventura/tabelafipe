@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "600lt-2",
+  "canonicalPath": "/geracao/mclaren/600lt-2/",
+  "titulo": "Geracao 600lt-2",
+  "descricao": "2 veiculos da geracao 600lt-2.",
+  "seo": {
+    "title": "Geracao 600lt-2 - Precos FIPE",
+    "description": "Veiculos da geracao 600lt-2 na Tabela FIPE.",
+    "h1": "Geracao 600lt-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/mclaren/600lt-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "mclaren-600lt-coupe-3-8-bi-turbo-v8-2019-gasolina",
+      "fipeCodigo": "090006-0",
+      "displayName": "Mclaren 600LT Coupe 3.8 Bi-Turbo V8",
+      "valorAtual": 2716000,
+      "canonicalPath": "/fipe/mclaren/600lt-coupe-3-8-bi-turbo-v8-2019-090006-0/",
+      "ano": 2019,
+      "marca": "Mclaren"
+    },
+    {
+      "vehicleId": "mclaren-600lt-spider-3-8-bi-turbo-v8-2020-gasolina",
+      "fipeCodigo": "090010-9",
+      "displayName": "Mclaren 600LT Spider 3.8 Bi-Turbo V8",
+      "valorAtual": 2602412,
+      "canonicalPath": "/fipe/mclaren/600lt-spider-3-8-bi-turbo-v8-2020-090010-9/",
+      "ano": 2020,
+      "marca": "Mclaren"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "600lt-2"
+  }
+}

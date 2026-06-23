@@ -1,0 +1,62 @@
+{
+  "tipo": "familia",
+  "slug": "dy110",
+  "canonicalPath": "/fipe/dayang/dy110/",
+  "titulo": "DAYANG dy110 - Tabela FIPE",
+  "descricao": "4 versoes e anos do DAYANG dy110 na Tabela FIPE.",
+  "seo": {
+    "title": "DAYANG dy110 - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes DAYANG dy110. 4 veiculos indexados.",
+    "h1": "DAYANG dy110 - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/dayang/dy110/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "dayang-dy110-20-2010-gasolina",
+      "fipeCodigo": "857002-7",
+      "displayName": "DAYANG DY110-20",
+      "valorAtual": 1842,
+      "canonicalPath": "/fipe/dayang/dy110-20-2010-857002-7/",
+      "ano": 2010,
+      "marca": "DAYANG"
+    },
+    {
+      "vehicleId": "dayang-dy110-20-2009-gasolina",
+      "fipeCodigo": "857002-7",
+      "displayName": "DAYANG DY110-20",
+      "valorAtual": 1794,
+      "canonicalPath": "/fipe/dayang/dy110-20-2009-857002-7/",
+      "ano": 2009,
+      "marca": "DAYANG"
+    },
+    {
+      "vehicleId": "dayang-dy110-20-2008-gasolina",
+      "fipeCodigo": "857002-7",
+      "displayName": "DAYANG DY110-20",
+      "valorAtual": 1713,
+      "canonicalPath": "/fipe/dayang/dy110-20-2008-857002-7/",
+      "ano": 2008,
+      "marca": "DAYANG"
+    },
+    {
+      "vehicleId": "dayang-dy110-20-2007-gasolina",
+      "fipeCodigo": "857002-7",
+      "displayName": "DAYANG DY110-20",
+      "valorAtual": 1584,
+      "canonicalPath": "/fipe/dayang/dy110-20-2007-857002-7/",
+      "ano": 2007,
+      "marca": "DAYANG"
+    }
+  ],
+  "stats": {
+    "total": 4,
+    "precoMin": 1584,
+    "precoMax": 1842,
+    "anos": [
+      2010,
+      2009,
+      2008,
+      2007
+    ]
+  }
+}

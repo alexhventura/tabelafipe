@@ -1,0 +1,48 @@
+{
+  "tipo": "geracao",
+  "slug": "continental-1",
+  "canonicalPath": "/geracao/royal-enfield/continental-1/",
+  "titulo": "Geracao continental-1",
+  "descricao": "3 veiculos da geracao continental-1.",
+  "seo": {
+    "title": "Geracao continental-1 - Precos FIPE",
+    "description": "Veiculos da geracao continental-1 na Tabela FIPE.",
+    "h1": "Geracao continental-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/royal-enfield/continental-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "royal-enfield-continental-gt-650-0-gasolina",
+      "fipeCodigo": "879017-5",
+      "displayName": "Royal Enfield Continental GT 650",
+      "valorAtual": 32792,
+      "canonicalPath": "/fipe/royal-enfield/continental-gt-650-0-879017-5/",
+      "ano": 0,
+      "marca": "Royal Enfield"
+    },
+    {
+      "vehicleId": "royal-enfield-continental-gt-650-custom-0-gasolina",
+      "fipeCodigo": "879019-1",
+      "displayName": "Royal Enfield Continental GT 650 Custom",
+      "valorAtual": 33092,
+      "canonicalPath": "/fipe/royal-enfield/continental-gt-650-custom-0-879019-1/",
+      "ano": 0,
+      "marca": "Royal Enfield"
+    },
+    {
+      "vehicleId": "royal-enfield-continental-gt-650-special-colorway-0-gasolina",
+      "fipeCodigo": "879020-5",
+      "displayName": "Royal Enfield Continental GT 650 Special Colorway",
+      "valorAtual": 31543,
+      "canonicalPath": "/fipe/royal-enfield/continental-gt-650-special-colorway-0-879020-5/",
+      "ano": 0,
+      "marca": "Royal Enfield"
+    }
+  ],
+  "stats": {
+    "total": 3
+  },
+  "meta": {
+    "geracaoId": "continental-1"
+  }
+}

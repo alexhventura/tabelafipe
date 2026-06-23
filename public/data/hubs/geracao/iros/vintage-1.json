@@ -1,0 +1,57 @@
+{
+  "tipo": "geracao",
+  "slug": "vintage-1",
+  "canonicalPath": "/geracao/iros/vintage-1/",
+  "titulo": "Geracao vintage-1",
+  "descricao": "4 veiculos da geracao vintage-1.",
+  "seo": {
+    "title": "Geracao vintage-1 - Precos FIPE",
+    "description": "Veiculos da geracao vintage-1 na Tabela FIPE.",
+    "h1": "Geracao vintage-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/iros/vintage-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "iros-vintage-150-2009-gasolina",
+      "fipeCodigo": "867008-0",
+      "displayName": "IROS VINTAGE 150",
+      "valorAtual": 3207,
+      "canonicalPath": "/fipe/iros/vintage-150-2009-867008-0/",
+      "ano": 2009,
+      "marca": "IROS"
+    },
+    {
+      "vehicleId": "iros-vintage-150-2010-gasolina",
+      "fipeCodigo": "867008-0",
+      "displayName": "IROS VINTAGE 150",
+      "valorAtual": 3551,
+      "canonicalPath": "/fipe/iros/vintage-150-2010-867008-0/",
+      "ano": 2010,
+      "marca": "IROS"
+    },
+    {
+      "vehicleId": "iros-vintage-150-2011-gasolina",
+      "fipeCodigo": "867008-0",
+      "displayName": "IROS VINTAGE 150",
+      "valorAtual": 4292,
+      "canonicalPath": "/fipe/iros/vintage-150-2011-867008-0/",
+      "ano": 2011,
+      "marca": "IROS"
+    },
+    {
+      "vehicleId": "iros-vintage-150-2012-gasolina",
+      "fipeCodigo": "867008-0",
+      "displayName": "IROS VINTAGE 150",
+      "valorAtual": 5163,
+      "canonicalPath": "/fipe/iros/vintage-150-2012-867008-0/",
+      "ano": 2012,
+      "marca": "IROS"
+    }
+  ],
+  "stats": {
+    "total": 4
+  },
+  "meta": {
+    "geracaoId": "vintage-1"
+  }
+}

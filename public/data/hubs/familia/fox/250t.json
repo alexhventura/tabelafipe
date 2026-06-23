@@ -1,0 +1,52 @@
+{
+  "tipo": "familia",
+  "slug": "250t",
+  "canonicalPath": "/fipe/fox/250t/",
+  "titulo": "FOX 250t - Tabela FIPE",
+  "descricao": "3 versoes e anos do FOX 250t na Tabela FIPE.",
+  "seo": {
+    "title": "FOX 250t - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes FOX 250t. 3 veiculos indexados.",
+    "h1": "FOX 250t - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/fox/250t/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "fox-250t-10-elite-2009-gasolina",
+      "fipeCodigo": "852002-0",
+      "displayName": "FOX 250T-10 Elite",
+      "valorAtual": 6411,
+      "canonicalPath": "/fipe/fox/250t-10-elite-2009-852002-0/",
+      "ano": 2009,
+      "marca": "FOX"
+    },
+    {
+      "vehicleId": "fox-250t-10-elite-2008-gasolina",
+      "fipeCodigo": "852002-0",
+      "displayName": "FOX 250T-10 Elite",
+      "valorAtual": 5782,
+      "canonicalPath": "/fipe/fox/250t-10-elite-2008-852002-0/",
+      "ano": 2008,
+      "marca": "FOX"
+    },
+    {
+      "vehicleId": "fox-250t-10-elite-2007-gasolina",
+      "fipeCodigo": "852002-0",
+      "displayName": "FOX 250T-10 Elite",
+      "valorAtual": 5398,
+      "canonicalPath": "/fipe/fox/250t-10-elite-2007-852002-0/",
+      "ano": 2007,
+      "marca": "FOX"
+    }
+  ],
+  "stats": {
+    "total": 3,
+    "precoMin": 5398,
+    "precoMax": 6411,
+    "anos": [
+      2009,
+      2008,
+      2007
+    ]
+  }
+}

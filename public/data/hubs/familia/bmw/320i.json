@@ -1,0 +1,72 @@
+{
+  "tipo": "familia",
+  "slug": "320i",
+  "canonicalPath": "/fipe/bmw/320i/",
+  "titulo": "BMW 320i - Tabela FIPE",
+  "descricao": "5 versoes e anos do BMW 320i na Tabela FIPE.",
+  "seo": {
+    "title": "BMW 320i - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes BMW 320i. 5 veiculos indexados.",
+    "h1": "BMW 320i - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/bmw/320i/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "bmw-320i-2007-gasolina",
+      "fipeCodigo": "009038-7",
+      "displayName": "BMW 320i",
+      "valorAtual": 53742,
+      "canonicalPath": "/fipe/bmw/320i-2007-009038-7/",
+      "ano": 2007,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-320i-2006-gasolina",
+      "fipeCodigo": "009038-7",
+      "displayName": "BMW 320i",
+      "valorAtual": 50819,
+      "canonicalPath": "/fipe/bmw/320i-2006-009038-7/",
+      "ano": 2006,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-320i-1993-gasolina",
+      "fipeCodigo": "009038-7",
+      "displayName": "BMW 320i",
+      "valorAtual": 14311,
+      "canonicalPath": "/fipe/bmw/320i-1993-009038-7/",
+      "ano": 1993,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-320i-1992-gasolina",
+      "fipeCodigo": "009038-7",
+      "displayName": "BMW 320i",
+      "valorAtual": 12607,
+      "canonicalPath": "/fipe/bmw/320i-1992-009038-7/",
+      "ano": 1992,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-320i-1991-gasolina",
+      "fipeCodigo": "009038-7",
+      "displayName": "BMW 320i",
+      "valorAtual": 11495,
+      "canonicalPath": "/fipe/bmw/320i-1991-009038-7/",
+      "ano": 1991,
+      "marca": "BMW"
+    }
+  ],
+  "stats": {
+    "total": 5,
+    "precoMin": 11495,
+    "precoMax": 53742,
+    "anos": [
+      2007,
+      2006,
+      1993,
+      1992,
+      1991
+    ]
+  }
+}

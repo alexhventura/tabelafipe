@@ -1,0 +1,42 @@
+{
+  "tipo": "familia",
+  "slug": "n601",
+  "canonicalPath": "/fipe/effa-jmc/n601/",
+  "titulo": "EFFA-JMC n601 - Tabela FIPE",
+  "descricao": "2 versoes e anos do EFFA-JMC n601 na Tabela FIPE.",
+  "seo": {
+    "title": "EFFA-JMC n601 - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes EFFA-JMC n601. 2 veiculos indexados.",
+    "h1": "EFFA-JMC n601 - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/effa-jmc/n601/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "effa-jmc-n601-2-8-2p-diesel-2012-diesel",
+      "fipeCodigo": "522001-7",
+      "displayName": "EFFA-JMC N601 2.8 2p (diesel)",
+      "valorAtual": 36495,
+      "canonicalPath": "/fipe/effa-jmc/n601-2-8-2p-diesel-2012-522001-7/",
+      "ano": 2012,
+      "marca": "EFFA-JMC"
+    },
+    {
+      "vehicleId": "effa-jmc-n601-2-8-2p-diesel-2011-diesel",
+      "fipeCodigo": "522001-7",
+      "displayName": "EFFA-JMC N601 2.8 2p (diesel)",
+      "valorAtual": 29560,
+      "canonicalPath": "/fipe/effa-jmc/n601-2-8-2p-diesel-2011-522001-7/",
+      "ano": 2011,
+      "marca": "EFFA-JMC"
+    }
+  ],
+  "stats": {
+    "total": 2,
+    "precoMin": 29560,
+    "precoMax": 36495,
+    "anos": [
+      2012,
+      2011
+    ]
+  }
+}

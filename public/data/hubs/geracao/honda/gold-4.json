@@ -1,0 +1,57 @@
+{
+  "tipo": "geracao",
+  "slug": "gold-4",
+  "canonicalPath": "/geracao/honda/gold-4/",
+  "titulo": "Geracao gold-4",
+  "descricao": "4 veiculos da geracao gold-4.",
+  "seo": {
+    "title": "Geracao gold-4 - Precos FIPE",
+    "description": "Veiculos da geracao gold-4 na Tabela FIPE.",
+    "h1": "Geracao gold-4",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/honda/gold-4/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "honda-gold-wing-tour-1800-2022-gasolina",
+      "fipeCodigo": "811155-3",
+      "displayName": "HONDA GOLD WING TOUR 1800",
+      "valorAtual": 241672,
+      "canonicalPath": "/fipe/honda/gold-wing-tour-1800-2022-811155-3/",
+      "ano": 2022,
+      "marca": "HONDA"
+    },
+    {
+      "vehicleId": "honda-gold-wing-tour-1800-2023-gasolina",
+      "fipeCodigo": "811155-3",
+      "displayName": "HONDA GOLD WING TOUR 1800",
+      "valorAtual": 265062,
+      "canonicalPath": "/fipe/honda/gold-wing-tour-1800-2023-811155-3/",
+      "ano": 2023,
+      "marca": "HONDA"
+    },
+    {
+      "vehicleId": "honda-gold-wing-tour-1800-2024-gasolina",
+      "fipeCodigo": "811155-3",
+      "displayName": "HONDA GOLD WING TOUR 1800",
+      "valorAtual": 272634,
+      "canonicalPath": "/fipe/honda/gold-wing-tour-1800-2024-811155-3/",
+      "ano": 2024,
+      "marca": "HONDA"
+    },
+    {
+      "vehicleId": "honda-gold-wing-tour-1800-2025-gasolina",
+      "fipeCodigo": "811155-3",
+      "displayName": "HONDA GOLD WING TOUR 1800",
+      "valorAtual": 290932,
+      "canonicalPath": "/fipe/honda/gold-wing-tour-1800-2025-811155-3/",
+      "ano": 2025,
+      "marca": "HONDA"
+    }
+  ],
+  "stats": {
+    "total": 4
+  },
+  "meta": {
+    "geracaoId": "gold-4"
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "tipo": "familia",
+  "slug": "428i",
+  "canonicalPath": "/fipe/bmw/428i/",
+  "titulo": "BMW 428i - Tabela FIPE",
+  "descricao": "6 versoes e anos do BMW 428i na Tabela FIPE.",
+  "seo": {
+    "title": "BMW 428i - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes BMW 428i. 6 veiculos indexados.",
+    "h1": "BMW 428i - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/bmw/428i/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "bmw-428i-gran-coupe-m-sport-2-0-tb-245cv-2016-gasolina",
+      "fipeCodigo": "009201-0",
+      "displayName": "BMW 428i Gran Coupe M Sport 2.0 TB 245cv",
+      "valorAtual": 151194,
+      "canonicalPath": "/fipe/bmw/428i-gran-coupe-m-sport-2-0-tb-245cv-2016-009201-0/",
+      "ano": 2016,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-428i-cabriolet-sport-2-0-tb-245cv-2p-2016-gasolina",
+      "fipeCodigo": "009194-4",
+      "displayName": "BMW 428i Cabriolet Sport 2.0 TB 245cv 2p",
+      "valorAtual": 206142,
+      "canonicalPath": "/fipe/bmw/428i-cabriolet-sport-2-0-tb-245cv-2p-2016-009194-4/",
+      "ano": 2016,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-428i-gran-coupe-sport-2-0-tb-245cv-2015-gasolina",
+      "fipeCodigo": "009202-9",
+      "displayName": "BMW 428i Gran Coupe Sport 2.0 TB 245cv",
+      "valorAtual": 128332,
+      "canonicalPath": "/fipe/bmw/428i-gran-coupe-sport-2-0-tb-245cv-2015-009202-9/",
+      "ano": 2015,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-428i-gran-coupe-m-sport-2-0-tb-245cv-2015-gasolina",
+      "fipeCodigo": "009201-0",
+      "displayName": "BMW 428i Gran Coupe M Sport 2.0 TB 245cv",
+      "valorAtual": 132117,
+      "canonicalPath": "/fipe/bmw/428i-gran-coupe-m-sport-2-0-tb-245cv-2015-009201-0/",
+      "ano": 2015,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-428i-cabriolet-sport-2-0-tb-245cv-2p-2015-gasolina",
+      "fipeCodigo": "009194-4",
+      "displayName": "BMW 428i Cabriolet Sport 2.0 TB 245cv 2p",
+      "valorAtual": 201114,
+      "canonicalPath": "/fipe/bmw/428i-cabriolet-sport-2-0-tb-245cv-2p-2015-009194-4/",
+      "ano": 2015,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-428i-cabriolet-sport-2-0-tb-245cv-2p-2014-gasolina",
+      "fipeCodigo": "009194-4",
+      "displayName": "BMW 428i Cabriolet Sport 2.0 TB 245cv 2p",
+      "valorAtual": 182935,
+      "canonicalPath": "/fipe/bmw/428i-cabriolet-sport-2-0-tb-245cv-2p-2014-009194-4/",
+      "ano": 2014,
+      "marca": "BMW"
+    }
+  ],
+  "stats": {
+    "total": 6,
+    "precoMin": 128332,
+    "precoMax": 206142,
+    "anos": [
+      2016,
+      2015,
+      2014
+    ]
+  }
+}

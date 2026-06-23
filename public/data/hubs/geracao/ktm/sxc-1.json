@@ -1,0 +1,48 @@
+{
+  "tipo": "geracao",
+  "slug": "sxc-1",
+  "canonicalPath": "/geracao/ktm/sxc-1/",
+  "titulo": "Geracao sxc-1",
+  "descricao": "3 veiculos da geracao sxc-1.",
+  "seo": {
+    "title": "Geracao sxc-1 - Precos FIPE",
+    "description": "Veiculos da geracao sxc-1 na Tabela FIPE.",
+    "h1": "Geracao sxc-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/ktm/sxc-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "ktm-sxc-520-540-1998-gasolina",
+      "fipeCodigo": "818012-1",
+      "displayName": "KTM SXC 520/ 540",
+      "valorAtual": 7026,
+      "canonicalPath": "/fipe/ktm/sxc-520-540-1998-818012-1/",
+      "ano": 1998,
+      "marca": "KTM"
+    },
+    {
+      "vehicleId": "ktm-sxc-520-540-1999-gasolina",
+      "fipeCodigo": "818012-1",
+      "displayName": "KTM SXC 520/ 540",
+      "valorAtual": 7777,
+      "canonicalPath": "/fipe/ktm/sxc-520-540-1999-818012-1/",
+      "ano": 1999,
+      "marca": "KTM"
+    },
+    {
+      "vehicleId": "ktm-sxc-520-540-2000-gasolina",
+      "fipeCodigo": "818012-1",
+      "displayName": "KTM SXC 520/ 540",
+      "valorAtual": 8792,
+      "canonicalPath": "/fipe/ktm/sxc-520-540-2000-818012-1/",
+      "ano": 2000,
+      "marca": "KTM"
+    }
+  ],
+  "stats": {
+    "total": 3
+  },
+  "meta": {
+    "geracaoId": "sxc-1"
+  }
+}

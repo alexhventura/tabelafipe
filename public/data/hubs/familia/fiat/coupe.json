@@ -1,0 +1,52 @@
+{
+  "tipo": "familia",
+  "slug": "coupe",
+  "canonicalPath": "/fipe/fiat/coupe/",
+  "titulo": "Fiat coupe - Tabela FIPE",
+  "descricao": "3 versoes e anos do Fiat coupe na Tabela FIPE.",
+  "seo": {
+    "title": "Fiat coupe - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes Fiat coupe. 3 veiculos indexados.",
+    "h1": "Fiat coupe - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/fiat/coupe/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "fiat-coupe-16v-1997-gasolina",
+      "fipeCodigo": "001057-0",
+      "displayName": "Fiat Coupe 16V",
+      "valorAtual": 50546,
+      "canonicalPath": "/fipe/fiat/coupe-16v-1997-001057-0/",
+      "ano": 1997,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-coupe-16v-1996-gasolina",
+      "fipeCodigo": "001057-0",
+      "displayName": "Fiat Coupe 16V",
+      "valorAtual": 47301,
+      "canonicalPath": "/fipe/fiat/coupe-16v-1996-001057-0/",
+      "ano": 1996,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-coupe-16v-1995-gasolina",
+      "fipeCodigo": "001057-0",
+      "displayName": "Fiat Coupe 16V",
+      "valorAtual": 38671,
+      "canonicalPath": "/fipe/fiat/coupe-16v-1995-001057-0/",
+      "ano": 1995,
+      "marca": "Fiat"
+    }
+  ],
+  "stats": {
+    "total": 3,
+    "precoMin": 38671,
+    "precoMax": 50546,
+    "anos": [
+      1997,
+      1996,
+      1995
+    ]
+  }
+}

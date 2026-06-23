@@ -18,6 +18,8 @@ interface CompactShardItem {
   c?: string;
   s: string;
   p?: string;
+  f?: string;
+  cp?: string;
 }
 
 function expandCompact(item: CompactShardItem): SearchIndexItem {
@@ -32,6 +34,8 @@ function expandCompact(item: CompactShardItem): SearchIndexItem {
     termoBusca: item.s,
     searchText: normalizeText(item.n),
     dataPath: item.p,
+    fipeCodigo: item.f,
+    canonicalPath: item.cp,
   };
 }
 
@@ -92,9 +96,13 @@ export class ShardedCatalog {
 
   async loadForQuery(query: string): Promise<void> {
     if (!this.manifest?.shards?.length) return;
+    const norm = normalizeText(query);
+    if (norm.length === 1 && /[a-z]/.test(norm)) {
+      await this.loadShard(norm);
+      return;
+    }
     const keys = this.shardKeysForQuery(query);
-    const extra = query.length >= 2 ? [] : this.manifest.shards.filter((k) => !keys.includes(k));
-    await Promise.all([...keys, ...extra.slice(0, 5)].map((k) => this.loadShard(k)));
+    await Promise.all(keys.map((k) => this.loadShard(k)));
   }
 
   async loadAll(progress?: (loaded: number, total: number) => void): Promise<void> {

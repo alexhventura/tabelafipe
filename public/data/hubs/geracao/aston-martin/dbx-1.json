@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "dbx-1",
+  "canonicalPath": "/geracao/aston-martin/dbx-1/",
+  "titulo": "Geracao dbx-1",
+  "descricao": "2 veiculos da geracao dbx-1.",
+  "seo": {
+    "title": "Geracao dbx-1 - Precos FIPE",
+    "description": "Veiculos da geracao dbx-1 na Tabela FIPE.",
+    "h1": "Geracao dbx-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/aston-martin/dbx-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "aston-martin-dbx-4-0-v8-550cv-2022-gasolina",
+      "fipeCodigo": "085015-2",
+      "displayName": "ASTON MARTIN DBX 4.0 V8 550cv",
+      "valorAtual": 2038139,
+      "canonicalPath": "/fipe/aston-martin/dbx-4-0-v8-550cv-2022-085015-2/",
+      "ano": 2022,
+      "marca": "ASTON MARTIN"
+    },
+    {
+      "vehicleId": "aston-martin-dbx-4-0-v8-550cv-2023-gasolina",
+      "fipeCodigo": "085015-2",
+      "displayName": "ASTON MARTIN DBX 4.0 V8 550cv",
+      "valorAtual": 2216376,
+      "canonicalPath": "/fipe/aston-martin/dbx-4-0-v8-550cv-2023-085015-2/",
+      "ano": 2023,
+      "marca": "ASTON MARTIN"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "dbx-1"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "tipo": "familia",
+  "slug": "smr",
+  "canonicalPath": "/fipe/husqvarna/smr/",
+  "titulo": "HUSQVARNA smr - Tabela FIPE",
+  "descricao": "2 versoes e anos do HUSQVARNA smr na Tabela FIPE.",
+  "seo": {
+    "title": "HUSQVARNA smr - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes HUSQVARNA smr. 2 veiculos indexados.",
+    "h1": "HUSQVARNA smr - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/husqvarna/smr/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "husqvarna-smr-510-2008-gasolina",
+      "fipeCodigo": "812019-6",
+      "displayName": "HUSQVARNA SMR 510",
+      "valorAtual": 27000,
+      "canonicalPath": "/fipe/husqvarna/smr-510-2008-812019-6/",
+      "ano": 2008,
+      "marca": "HUSQVARNA"
+    },
+    {
+      "vehicleId": "husqvarna-smr-510-2007-gasolina",
+      "fipeCodigo": "812019-6",
+      "displayName": "HUSQVARNA SMR 510",
+      "valorAtual": 25694,
+      "canonicalPath": "/fipe/husqvarna/smr-510-2007-812019-6/",
+      "ano": 2007,
+      "marca": "HUSQVARNA"
+    }
+  ],
+  "stats": {
+    "total": 2,
+    "precoMin": 25694,
+    "precoMax": 27000,
+    "anos": [
+      2008,
+      2007
+    ]
+  }
+}

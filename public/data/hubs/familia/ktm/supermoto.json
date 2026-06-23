@@ -1,0 +1,118 @@
+{
+  "tipo": "familia",
+  "slug": "supermoto",
+  "canonicalPath": "/fipe/ktm/supermoto/",
+  "titulo": "KTM supermoto - Tabela FIPE",
+  "descricao": "10 versoes e anos do KTM supermoto na Tabela FIPE.",
+  "seo": {
+    "title": "KTM supermoto - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes KTM supermoto. 10 veiculos indexados.",
+    "h1": "KTM supermoto - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/ktm/supermoto/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "ktm-supermoto-990-t-2012-gasolina",
+      "fipeCodigo": "818030-0",
+      "displayName": "KTM SUPERMOTO 990 T",
+      "valorAtual": 43669,
+      "canonicalPath": "/fipe/ktm/supermoto-990-t-2012-818030-0/",
+      "ano": 2012,
+      "marca": "KTM"
+    },
+    {
+      "vehicleId": "ktm-supermoto-990-t-2011-gasolina",
+      "fipeCodigo": "818030-0",
+      "displayName": "KTM SUPERMOTO 990 T",
+      "valorAtual": 40448,
+      "canonicalPath": "/fipe/ktm/supermoto-990-t-2011-818030-0/",
+      "ano": 2011,
+      "marca": "KTM"
+    },
+    {
+      "vehicleId": "ktm-supermoto-990-r-2011-gasolina",
+      "fipeCodigo": "818033-4",
+      "displayName": "KTM SUPERMOTO 990 R",
+      "valorAtual": 40546,
+      "canonicalPath": "/fipe/ktm/supermoto-990-r-2011-818033-4/",
+      "ano": 2011,
+      "marca": "KTM"
+    },
+    {
+      "vehicleId": "ktm-supermoto-690-2010-gasolina",
+      "fipeCodigo": "818027-0",
+      "displayName": "KTM SUPERMOTO 690",
+      "valorAtual": 21893,
+      "canonicalPath": "/fipe/ktm/supermoto-690-2010-818027-0/",
+      "ano": 2010,
+      "marca": "KTM"
+    },
+    {
+      "vehicleId": "ktm-supermoto-990-t-2010-gasolina",
+      "fipeCodigo": "818030-0",
+      "displayName": "KTM SUPERMOTO 990 T",
+      "valorAtual": 37124,
+      "canonicalPath": "/fipe/ktm/supermoto-990-t-2010-818030-0/",
+      "ano": 2010,
+      "marca": "KTM"
+    },
+    {
+      "vehicleId": "ktm-supermoto-990-r-2010-gasolina",
+      "fipeCodigo": "818033-4",
+      "displayName": "KTM SUPERMOTO 990 R",
+      "valorAtual": 37300,
+      "canonicalPath": "/fipe/ktm/supermoto-990-r-2010-818033-4/",
+      "ano": 2010,
+      "marca": "KTM"
+    },
+    {
+      "vehicleId": "ktm-supermoto-690-2009-gasolina",
+      "fipeCodigo": "818027-0",
+      "displayName": "KTM SUPERMOTO 690",
+      "valorAtual": 21163,
+      "canonicalPath": "/fipe/ktm/supermoto-690-2009-818027-0/",
+      "ano": 2009,
+      "marca": "KTM"
+    },
+    {
+      "vehicleId": "ktm-supermoto-990-t-2009-gasolina",
+      "fipeCodigo": "818030-0",
+      "displayName": "KTM SUPERMOTO 990 T",
+      "valorAtual": 35815,
+      "canonicalPath": "/fipe/ktm/supermoto-990-t-2009-818030-0/",
+      "ano": 2009,
+      "marca": "KTM"
+    },
+    {
+      "vehicleId": "ktm-supermoto-690-2008-gasolina",
+      "fipeCodigo": "818027-0",
+      "displayName": "KTM SUPERMOTO 690",
+      "valorAtual": 20634,
+      "canonicalPath": "/fipe/ktm/supermoto-690-2008-818027-0/",
+      "ano": 2008,
+      "marca": "KTM"
+    },
+    {
+      "vehicleId": "ktm-supermoto-690-2007-gasolina",
+      "fipeCodigo": "818027-0",
+      "displayName": "KTM SUPERMOTO 690",
+      "valorAtual": 17598,
+      "canonicalPath": "/fipe/ktm/supermoto-690-2007-818027-0/",
+      "ano": 2007,
+      "marca": "KTM"
+    }
+  ],
+  "stats": {
+    "total": 10,
+    "precoMin": 17598,
+    "precoMax": 43669,
+    "anos": [
+      2012,
+      2011,
+      2010,
+      2009,
+      2008,
+      2007
+    ]
+  }
+}

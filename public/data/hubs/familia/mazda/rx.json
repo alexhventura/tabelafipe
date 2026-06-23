@@ -1,0 +1,42 @@
+{
+  "tipo": "familia",
+  "slug": "rx",
+  "canonicalPath": "/fipe/mazda/rx/",
+  "titulo": "Mazda rx - Tabela FIPE",
+  "descricao": "2 versoes e anos do Mazda rx na Tabela FIPE.",
+  "seo": {
+    "title": "Mazda rx - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes Mazda rx. 2 veiculos indexados.",
+    "h1": "Mazda rx - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/mazda/rx/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "mazda-rx-7-2-6-turbo-1994-gasolina",
+      "fipeCodigo": "020012-3",
+      "displayName": "Mazda RX 7 2.6 Turbo",
+      "valorAtual": 59731,
+      "canonicalPath": "/fipe/mazda/rx-7-2-6-turbo-1994-020012-3/",
+      "ano": 1994,
+      "marca": "Mazda"
+    },
+    {
+      "vehicleId": "mazda-rx-7-2-6-turbo-1993-gasolina",
+      "fipeCodigo": "020012-3",
+      "displayName": "Mazda RX 7 2.6 Turbo",
+      "valorAtual": 52677,
+      "canonicalPath": "/fipe/mazda/rx-7-2-6-turbo-1993-020012-3/",
+      "ano": 1993,
+      "marca": "Mazda"
+    }
+  ],
+  "stats": {
+    "total": 2,
+    "precoMin": 52677,
+    "precoMax": 59731,
+    "anos": [
+      1994,
+      1993
+    ]
+  }
+}

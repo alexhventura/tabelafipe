@@ -1,0 +1,42 @@
+{
+  "tipo": "familia",
+  "slug": "500e",
+  "canonicalPath": "/fipe/fiat/500e/",
+  "titulo": "Fiat 500e - Tabela FIPE",
+  "descricao": "2 versoes e anos do Fiat 500e na Tabela FIPE.",
+  "seo": {
+    "title": "Fiat 500e - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes Fiat 500e. 2 veiculos indexados.",
+    "h1": "Fiat 500e - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/fiat/500e/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "fiat-500e-icon-eletrico-2022-eletrico",
+      "fipeCodigo": "001541-5",
+      "displayName": "Fiat 500e ICON (Elétrico)",
+      "valorAtual": 130195,
+      "canonicalPath": "/fipe/fiat/500e-icon-eletrico-2022-001541-5/",
+      "ano": 2022,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-500e-icon-eletrico-0-eletrico",
+      "fipeCodigo": "001541-5",
+      "displayName": "Fiat 500e ICON (Elétrico)",
+      "valorAtual": 214990,
+      "canonicalPath": "/fipe/fiat/500e-icon-eletrico-0-001541-5/",
+      "ano": 0,
+      "marca": "Fiat"
+    }
+  ],
+  "stats": {
+    "total": 2,
+    "precoMin": 130195,
+    "precoMax": 214990,
+    "anos": [
+      2022,
+      0
+    ]
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "tipo": "geracao",
+  "slug": "sport-1",
+  "canonicalPath": "/geracao/green/sport-1/",
+  "titulo": "Geracao sport-1",
+  "descricao": "4 veiculos da geracao sport-1.",
+  "seo": {
+    "title": "Geracao sport-1 - Precos FIPE",
+    "description": "Veiculos da geracao sport-1 na Tabela FIPE.",
+    "h1": "Geracao sport-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/green/sport-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "green-sport-150cc-2007-gasolina",
+      "fipeCodigo": "854001-2",
+      "displayName": "GREEN SPORT 150cc",
+      "valorAtual": 2268,
+      "canonicalPath": "/fipe/green/sport-150cc-2007-854001-2/",
+      "ano": 2007,
+      "marca": "GREEN"
+    },
+    {
+      "vehicleId": "green-sport-150cc-2008-gasolina",
+      "fipeCodigo": "854001-2",
+      "displayName": "GREEN SPORT 150cc",
+      "valorAtual": 2402,
+      "canonicalPath": "/fipe/green/sport-150cc-2008-854001-2/",
+      "ano": 2008,
+      "marca": "GREEN"
+    },
+    {
+      "vehicleId": "mvk-sport-150-quadriciclo-2007-gasolina",
+      "fipeCodigo": "845018-8",
+      "displayName": "MVK SPORT 150 QUADRICICLO",
+      "valorAtual": 2832,
+      "canonicalPath": "/fipe/mvk/sport-150-quadriciclo-2007-845018-8/",
+      "ano": 2007,
+      "marca": "MVK"
+    },
+    {
+      "vehicleId": "mvk-sport-150-quadriciclo-2008-gasolina",
+      "fipeCodigo": "845018-8",
+      "displayName": "MVK SPORT 150 QUADRICICLO",
+      "valorAtual": 3156,
+      "canonicalPath": "/fipe/mvk/sport-150-quadriciclo-2008-845018-8/",
+      "ano": 2008,
+      "marca": "MVK"
+    }
+  ],
+  "stats": {
+    "total": 4
+  },
+  "meta": {
+    "geracaoId": "sport-1"
+  }
+}

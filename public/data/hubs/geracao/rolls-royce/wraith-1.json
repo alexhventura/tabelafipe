@@ -1,0 +1,84 @@
+{
+  "tipo": "geracao",
+  "slug": "wraith-1",
+  "canonicalPath": "/geracao/rolls-royce/wraith-1/",
+  "titulo": "Geracao wraith-1",
+  "descricao": "7 veiculos da geracao wraith-1.",
+  "seo": {
+    "title": "Geracao wraith-1 - Precos FIPE",
+    "description": "Veiculos da geracao wraith-1 na Tabela FIPE.",
+    "h1": "Geracao wraith-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/rolls-royce/wraith-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "rolls-royce-wraith-6-6-v12-aut-2014-gasolina",
+      "fipeCodigo": "087004-8",
+      "displayName": "Rolls-Royce Wraith 6.6 V12 Aut.",
+      "valorAtual": 2377462,
+      "canonicalPath": "/fipe/rolls-royce/wraith-6-6-v12-aut-2014-087004-8/",
+      "ano": 2014,
+      "marca": "Rolls-Royce"
+    },
+    {
+      "vehicleId": "rolls-royce-wraith-6-6-v12-aut-2015-gasolina",
+      "fipeCodigo": "087004-8",
+      "displayName": "Rolls-Royce Wraith 6.6 V12 Aut.",
+      "valorAtual": 2519848,
+      "canonicalPath": "/fipe/rolls-royce/wraith-6-6-v12-aut-2015-087004-8/",
+      "ano": 2015,
+      "marca": "Rolls-Royce"
+    },
+    {
+      "vehicleId": "rolls-royce-wraith-6-6-v12-aut-2016-gasolina",
+      "fipeCodigo": "087004-8",
+      "displayName": "Rolls-Royce Wraith 6.6 V12 Aut.",
+      "valorAtual": 2626330,
+      "canonicalPath": "/fipe/rolls-royce/wraith-6-6-v12-aut-2016-087004-8/",
+      "ano": 2016,
+      "marca": "Rolls-Royce"
+    },
+    {
+      "vehicleId": "rolls-royce-wraith-6-6-v12-aut-2017-gasolina",
+      "fipeCodigo": "087004-8",
+      "displayName": "Rolls-Royce Wraith 6.6 V12 Aut.",
+      "valorAtual": 2716929,
+      "canonicalPath": "/fipe/rolls-royce/wraith-6-6-v12-aut-2017-087004-8/",
+      "ano": 2017,
+      "marca": "Rolls-Royce"
+    },
+    {
+      "vehicleId": "rolls-royce-wraith-6-6-v12-aut-2018-gasolina",
+      "fipeCodigo": "087004-8",
+      "displayName": "Rolls-Royce Wraith 6.6 V12 Aut.",
+      "valorAtual": 3891386,
+      "canonicalPath": "/fipe/rolls-royce/wraith-6-6-v12-aut-2018-087004-8/",
+      "ano": 2018,
+      "marca": "Rolls-Royce"
+    },
+    {
+      "vehicleId": "rolls-royce-wraith-6-6-v12-aut-2019-gasolina",
+      "fipeCodigo": "087004-8",
+      "displayName": "Rolls-Royce Wraith 6.6 V12 Aut.",
+      "valorAtual": 5012023,
+      "canonicalPath": "/fipe/rolls-royce/wraith-6-6-v12-aut-2019-087004-8/",
+      "ano": 2019,
+      "marca": "Rolls-Royce"
+    },
+    {
+      "vehicleId": "rolls-royce-wraith-6-6-v12-aut-2020-gasolina",
+      "fipeCodigo": "087004-8",
+      "displayName": "Rolls-Royce Wraith 6.6 V12 Aut.",
+      "valorAtual": 5137324,
+      "canonicalPath": "/fipe/rolls-royce/wraith-6-6-v12-aut-2020-087004-8/",
+      "ano": 2020,
+      "marca": "Rolls-Royce"
+    }
+  ],
+  "stats": {
+    "total": 7
+  },
+  "meta": {
+    "geracaoId": "wraith-1"
+  }
+}

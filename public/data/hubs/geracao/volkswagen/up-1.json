@@ -1,0 +1,660 @@
+{
+  "tipo": "geracao",
+  "slug": "up-1",
+  "canonicalPath": "/geracao/volkswagen/up-1/",
+  "titulo": "Geracao up-1",
+  "descricao": "71 veiculos da geracao up-1.",
+  "seo": {
+    "title": "Geracao up-1 - Precos FIPE",
+    "description": "Veiculos da geracao up-1 na Tabela FIPE.",
+    "h1": "Geracao up-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/volkswagen/up-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "volkswagen-up-1-0-total-flex-12v-5p-2020-flex",
+      "fipeCodigo": "005514-0",
+      "displayName": "VW - VolksWagen up! 1.0 Total Flex 12V 5p",
+      "valorAtual": 57817,
+      "canonicalPath": "/fipe/volkswagen/up-1-0-total-flex-12v-5p-2020-005514-0/",
+      "ano": 2020,
+      "marca": "VW - VolksWagen"
+    },
+    {
+      "vehicleId": "volkswagen-up-connect-1-0-tsi-total-flex-12v-5p-2020-flex",
+      "fipeCodigo": "005515-8",
+      "displayName": "VW - VolksWagen up! Connect 1.0 TSI Total Flex 12V 5p",
+      "valorAtual": 62475,
+      "canonicalPath": "/fipe/volkswagen/up-connect-1-0-tsi-total-flex-12v-5p-2020-005515-8/",
+      "ano": 2020,
+      "marca": "VW - VolksWagen"
+    },
+    {
+      "vehicleId": "volkswagen-up-pepper-1-0-tsi-t-flex-12v-5p-2018-flex",
+      "fipeCodigo": "005473-9",
+      "displayName": "VW - VolksWagen up! Pepper 1.0 TSI T.Flex 12V 5p",
+      "valorAtual": 63162,
+      "canonicalPath": "/fipe/volkswagen/up-pepper-1-0-tsi-t-flex-12v-5p-2018-005473-9/",
+      "ano": 2018,
+      "marca": "VW - VolksWagen"
+    },
+    {
+      "vehicleId": "volkswagen-up-pepper-1-0-tsi-t-flex-12v-5p-2019-flex",
+      "fipeCodigo": "005473-9",
+      "displayName": "VW - VolksWagen up! Pepper 1.0 TSI T.Flex 12V 5p",
+      "valorAtual": 69145,
+      "canonicalPath": "/fipe/volkswagen/up-pepper-1-0-tsi-t-flex-12v-5p-2019-005473-9/",
+      "ano": 2019,
+      "marca": "VW - VolksWagen"
+    },
+    {
+      "vehicleId": "volkswagen-up-run-1-0-total-flex-12v-5p-2017-flex",
+      "fipeCodigo": "005460-7",
+      "displayName": "VW - VolksWagen up! Run 1.0 Total Flex 12V 5p",
+      "valorAtual": 45706,
+      "canonicalPath": "/fipe/volkswagen/up-run-1-0-total-flex-12v-5p-2017-005460-7/",
+      "ano": 2017,
+      "marca": "VW - VolksWagen"
+    },
+    {
+      "vehicleId": "volkswagen-up-run-i-motion-1-0-total-flex-12v-5p-2017-flex",
+      "fipeCodigo": "005463-1",
+      "displayName": "VW - VolksWagen up! Run I MOTION 1.0 Total Flex 12V 5p",
+      "valorAtual": 45976,
+      "canonicalPath": "/fipe/volkswagen/up-run-i-motion-1-0-total-flex-12v-5p-2017-005463-1/",
+      "ano": 2017,
+      "marca": "VW - VolksWagen"
+    },
+    {
+      "vehicleId": "volkswagen-up-speed-1-0-tsi-t-flex-12v-5p-2016-flex",
+      "fipeCodigo": "005439-9",
+      "displayName": "VW - VolksWagen up! SPEED 1.0 TSI T. Flex 12V 5p",
+      "valorAtual": 50709,
+      "canonicalPath": "/fipe/volkswagen/up-speed-1-0-tsi-t-flex-12v-5p-2016-005439-9/",
+      "ano": 2016,
+      "marca": "VW - VolksWagen"
+    },
+    {
+      "vehicleId": "volkswagen-up-speed-1-0-tsi-t-flex-12v-5p-2017-flex",
+      "fipeCodigo": "005439-9",
+      "displayName": "VW - VolksWagen up! SPEED 1.0 TSI T. Flex 12V 5p",
+      "valorAtual": 57937,
+      "canonicalPath": "/fipe/volkswagen/up-speed-1-0-tsi-t-flex-12v-5p-2017-005439-9/",
+      "ano": 2017,
+      "marca": "VW - VolksWagen"
+    },
+    {
+      "vehicleId": "volkswagen-up-xtreme-1-0-tsi-total-flex-12v-5p-2020-flex",
+      "fipeCodigo": "005516-6",
+      "displayName": "VW - VolksWagen up! Xtreme 1.0 TSI Total Flex 12V 5p",
+      "valorAtual": 66971,
+      "canonicalPath": "/fipe/volkswagen/up-xtreme-1-0-tsi-total-flex-12v-5p-2020-005516-6/",
+      "ano": 2020,
+      "marca": "VW - VolksWagen"
+    },
+    {
+      "vehicleId": "volkswagen-up-xtreme-1-0-tsi-total-flex-12v-5p-2021-flex",
+      "fipeCodigo": "005516-6",
+      "displayName": "VW - VolksWagen up! Xtreme 1.0 TSI Total Flex 12V 5p",
+      "valorAtual": 71872,
+      "canonicalPath": "/fipe/volkswagen/up-xtreme-1-0-tsi-total-flex-12v-5p-2021-005516-6/",
+      "ano": 2021,
+      "marca": "VW - VolksWagen"
+    },
+    {
+      "vehicleId": "volkswagen-up-black-white-red-1-0-t-flex-12v-5p-2014-flex",
+      "fipeCodigo": "005368-6",
+      "displayName": "VW - VolksWagen up! black/white/red 1.0 T. Flex 12V 5p",
+      "valorAtual": 36434,
+      "canonicalPath": "/fipe/volkswagen/up-black-white-red-1-0-t-flex-12v-5p-2014-005368-6/",
+      "ano": 2014,
+      "marca": "VW - VolksWagen"
+    },
+    {
+      "vehicleId": "volkswagen-up-black-white-red-1-0-t-flex-12v-5p-2015-flex",
+      "fipeCodigo": "005368-6",
+      "displayName": "VW - VolksWagen up! black/white/red 1.0 T. Flex 12V 5p",
+      "valorAtual": 40908,
+      "canonicalPath": "/fipe/volkswagen/up-black-white-red-1-0-t-flex-12v-5p-2015-005368-6/",
+      "ano": 2015,
+      "marca": "VW - VolksWagen"
+    },
+    {
+      "vehicleId": "volkswagen-up-black-white-red-1-0-t-flex-12v-5p-2016-flex",
+      "fipeCodigo": "005368-6",
+      "displayName": "VW - VolksWagen up! black/white/red 1.0 T. Flex 12V 5p",
+      "valorAtual": 45399,
+      "canonicalPath": "/fipe/volkswagen/up-black-white-red-1-0-t-flex-12v-5p-2016-005368-6/",
+      "ano": 2016,
+      "marca": "VW - VolksWagen"
+    },
+    {
+      "vehicleId": "volkswagen-up-black-white-red-1-0-tsi-tflex-12v-5p-2016-flex",
+      "fipeCodigo": "005438-0",
+      "displayName": "VW - VolksWagen up! black/white/red 1.0 TSI TFlex 12V 5p",
+      "valorAtual": 50232,
+      "canonicalPath": "/fipe/volkswagen/up-black-white-red-1-0-tsi-tflex-12v-5p-2016-005438-0/",
+      "ano": 2016,
+      "marca": "VW - VolksWagen"
+    },
+    {
+      "vehicleId": "volkswagen-up-black-white-red-1-0-tsi-tflex-12v-5p-2017-flex",
+      "fipeCodigo": "005438-0",
+      "displayName": "VW - VolksWagen up! black/white/red 1.0 TSI TFlex 12V 5p",
+      "valorAtual": 55001,
+      "canonicalPath": "/fipe/volkswagen/up-black-white-red-1-0-tsi-tflex-12v-5p-2017-005438-0/",
+      "ano": 2017,
+      "marca": "VW - VolksWagen"
+    },
+    {
+      "vehicleId": "volkswagen-up-black-white-red-i-motion-1-0-flex-5p-2014-flex",
+      "fipeCodigo": "005374-0",
+      "displayName": "VW - VolksWagen up! black/white/red I MOTION 1.0 Flex 5p",
+      "valorAtual": 33795,
+      "canonicalPath": "/fipe/volkswagen/up-black-white-red-i-motion-1-0-flex-5p-2014-005374-0/",
+      "ano": 2014,
+      "marca": "VW - VolksWagen"
+    },
+    {
+      "vehicleId": "volkswagen-up-black-white-red-i-motion-1-0-flex-5p-2015-flex",
+      "fipeCodigo": "005374-0",
+      "displayName": "VW - VolksWagen up! black/white/red I MOTION 1.0 Flex 5p",
+      "valorAtual": 41170,
+      "canonicalPath": "/fipe/volkswagen/up-black-white-red-i-motion-1-0-flex-5p-2015-005374-0/",
+      "ano": 2015,
+      "marca": "VW - VolksWagen"
+    },
+    {
+      "vehicleId": "volkswagen-up-black-white-red-i-motion-1-0-flex-5p-2016-flex",
+      "fipeCodigo": "005374-0",
+      "displayName": "VW - VolksWagen up! black/white/red I MOTION 1.0 Flex 5p",
+      "valorAtual": 42262,
+      "canonicalPath": "/fipe/volkswagen/up-black-white-red-i-motion-1-0-flex-5p-2016-005374-0/",
+      "ano": 2016,
+      "marca": "VW - VolksWagen"
+    },
+    {
+      "vehicleId": "volkswagen-up-cross-1-0-t-flex-12v-5p-2015-flex",
+      "fipeCodigo": "005416-0",
+      "displayName": "VW - VolksWagen up! cross 1.0 T. Flex 12V 5p",
+      "valorAtual": 45918,
+      "canonicalPath": "/fipe/volkswagen/up-cross-1-0-t-flex-12v-5p-2015-005416-0/",
+      "ano": 2015,
+      "marca": "VW - VolksWagen"
+    },
+    {
+      "vehicleId": "volkswagen-up-cross-1-0-t-flex-12v-5p-2016-flex",
+      "fipeCodigo": "005416-0",
+      "displayName": "VW - VolksWagen up! cross 1.0 T. Flex 12V 5p",
+      "valorAtual": 48789,
+      "canonicalPath": "/fipe/volkswagen/up-cross-1-0-t-flex-12v-5p-2016-005416-0/",
+      "ano": 2016,
+      "marca": "VW - VolksWagen"
+    },
+    {
+      "vehicleId": "volkswagen-up-cross-1-0-t-flex-12v-5p-2017-flex",
+      "fipeCodigo": "005416-0",
+      "displayName": "VW - VolksWagen up! cross 1.0 T. Flex 12V 5p",
+      "valorAtual": 52698,
+      "canonicalPath": "/fipe/volkswagen/up-cross-1-0-t-flex-12v-5p-2017-005416-0/",
+      "ano": 2017,
+      "marca": "VW - VolksWagen"
+    },
+    {
+      "vehicleId": "volkswagen-up-cross-1-0-tsi-total-flex-12v-5p-2016-flex",
+      "fipeCodigo": "005436-4",
+      "displayName": "VW - VolksWagen up! cross 1.0 TSI Total Flex 12V 5p",
+      "valorAtual": 53554,
+      "canonicalPath": "/fipe/volkswagen/up-cross-1-0-tsi-total-flex-12v-5p-2016-005436-4/",
+      "ano": 2016,
+      "marca": "VW - VolksWagen"
+    },
+    {
+      "vehicleId": "volkswagen-up-cross-1-0-tsi-total-flex-12v-5p-2017-flex",
+      "fipeCodigo": "005436-4",
+      "displayName": "VW - VolksWagen up! cross 1.0 TSI Total Flex 12V 5p",
+      "valorAtual": 56244,
+      "canonicalPath": "/fipe/volkswagen/up-cross-1-0-tsi-total-flex-12v-5p-2017-005436-4/",
+      "ano": 2017,
+      "marca": "VW - VolksWagen"
+    },
+    {
+      "vehicleId": "volkswagen-up-cross-1-0-tsi-total-flex-12v-5p-2018-flex",
+      "fipeCodigo": "005436-4",
+      "displayName": "VW - VolksWagen up! cross 1.0 TSI Total Flex 12V 5p",
+      "valorAtual": 62412,
+      "canonicalPath": "/fipe/volkswagen/up-cross-1-0-tsi-total-flex-12v-5p-2018-005436-4/",
+      "ano": 2018,
+      "marca": "VW - VolksWagen"
+    },
+    {
+      "vehicleId": "volkswagen-up-cross-1-0-tsi-total-flex-12v-5p-2019-flex",
+      "fipeCodigo": "005436-4",
+      "displayName": "VW - VolksWagen up! cross 1.0 TSI Total Flex 12V 5p",
+      "valorAtual": 64763,
+      "canonicalPath": "/fipe/volkswagen/up-cross-1-0-tsi-total-flex-12v-5p-2019-005436-4/",
+      "ano": 2019,
+      "marca": "VW - VolksWagen"
+    },
+    {
+      "vehicleId": "volkswagen-up-cross-i-motion-1-0-t-flex-12v-5p-2015-flex",
+      "fipeCodigo": "005417-8",
+      "displayName": "VW - VolksWagen up! cross I MOTION 1.0 T.Flex 12V 5p",
+      "valorAtual": 46146,
+      "canonicalPath": "/fipe/volkswagen/up-cross-i-motion-1-0-t-flex-12v-5p-2015-005417-8/",
+      "ano": 2015,
+      "marca": "VW - VolksWagen"
+    },
+    {
+      "vehicleId": "volkswagen-up-cross-i-motion-1-0-t-flex-12v-5p-2016-flex",
+      "fipeCodigo": "005417-8",
+      "displayName": "VW - VolksWagen up! cross I MOTION 1.0 T.Flex 12V 5p",
+      "valorAtual": 50524,
+      "canonicalPath": "/fipe/volkswagen/up-cross-i-motion-1-0-t-flex-12v-5p-2016-005417-8/",
+      "ano": 2016,
+      "marca": "VW - VolksWagen"
+    },
+    {
+      "vehicleId": "volkswagen-up-cross-i-motion-1-0-t-flex-12v-5p-2017-flex",
+      "fipeCodigo": "005417-8",
+      "displayName": "VW - VolksWagen up! cross I MOTION 1.0 T.Flex 12V 5p",
+      "valorAtual": 52854,
+      "canonicalPath": "/fipe/volkswagen/up-cross-i-motion-1-0-t-flex-12v-5p-2017-005417-8/",
+      "ano": 2017,
+      "marca": "VW - VolksWagen"
+    },
+    {
+      "vehicleId": "volkswagen-up-high-1-0-tsi-total-flex-12v-5p-2016-flex",
+      "fipeCodigo": "005437-2",
+      "displayName": "VW - VolksWagen up! high 1.0 TSI Total Flex 12V 5p",
+      "valorAtual": 50255,
+      "canonicalPath": "/fipe/volkswagen/up-high-1-0-tsi-total-flex-12v-5p-2016-005437-2/",
+      "ano": 2016,
+      "marca": "VW - VolksWagen"
+    },
+    {
+      "vehicleId": "volkswagen-up-high-1-0-tsi-total-flex-12v-5p-2017-flex",
+      "fipeCodigo": "005437-2",
+      "displayName": "VW - VolksWagen up! high 1.0 TSI Total Flex 12V 5p",
+      "valorAtual": 56083,
+      "canonicalPath": "/fipe/volkswagen/up-high-1-0-tsi-total-flex-12v-5p-2017-005437-2/",
+      "ano": 2017,
+      "marca": "VW - VolksWagen"
+    },
+    {
+      "vehicleId": "volkswagen-up-high-1-0-tsi-total-flex-12v-5p-2018-flex",
+      "fipeCodigo": "005437-2",
+      "displayName": "VW - VolksWagen up! high 1.0 TSI Total Flex 12V 5p",
+      "valorAtual": 62815,
+      "canonicalPath": "/fipe/volkswagen/up-high-1-0-tsi-total-flex-12v-5p-2018-005437-2/",
+      "ano": 2018,
+      "marca": "VW - VolksWagen"
+    },
+    {
+      "vehicleId": "volkswagen-up-high-1-0-total-flex-12v-5p-2014-flex",
+      "fipeCodigo": "005367-8",
+      "displayName": "VW - VolksWagen up! high 1.0 Total Flex 12V 5p",
+      "valorAtual": 38698,
+      "canonicalPath": "/fipe/volkswagen/up-high-1-0-total-flex-12v-5p-2014-005367-8/",
+      "ano": 2014,
+      "marca": "VW - VolksWagen"
+    },
+    {
+      "vehicleId": "volkswagen-up-high-1-0-total-flex-12v-5p-2015-flex",
+      "fipeCodigo": "005367-8",
+      "displayName": "VW - VolksWagen up! high 1.0 Total Flex 12V 5p",
+      "valorAtual": 42464,
+      "canonicalPath": "/fipe/volkswagen/up-high-1-0-total-flex-12v-5p-2015-005367-8/",
+      "ano": 2015,
+      "marca": "VW - VolksWagen"
+    },
+    {
+      "vehicleId": "volkswagen-up-high-1-0-total-flex-12v-5p-2016-flex",
+      "fipeCodigo": "005367-8",
+      "displayName": "VW - VolksWagen up! high 1.0 Total Flex 12V 5p",
+      "valorAtual": 49023,
+      "canonicalPath": "/fipe/volkswagen/up-high-1-0-total-flex-12v-5p-2016-005367-8/",
+      "ano": 2016,
+      "marca": "VW - VolksWagen"
+    },
+    {
+      "vehicleId": "volkswagen-up-high-1-0-total-flex-12v-5p-2017-flex",
+      "fipeCodigo": "005367-8",
+      "displayName": "VW - VolksWagen up! high 1.0 Total Flex 12V 5p",
+      "valorAtual": 52786,
+      "canonicalPath": "/fipe/volkswagen/up-high-1-0-total-flex-12v-5p-2017-005367-8/",
+      "ano": 2017,
+      "marca": "VW - VolksWagen"
+    },
+    {
+      "vehicleId": "volkswagen-up-high-i-motion-1-0-t-flex-12v-5p-2014-flex",
+      "fipeCodigo": "005373-2",
+      "displayName": "VW - VolksWagen up! high I MOTION 1.0 T. Flex 12V 5p",
+      "valorAtual": 35464,
+      "canonicalPath": "/fipe/volkswagen/up-high-i-motion-1-0-t-flex-12v-5p-2014-005373-2/",
+      "ano": 2014,
+      "marca": "VW - VolksWagen"
+    },
+    {
+      "vehicleId": "volkswagen-up-high-i-motion-1-0-t-flex-12v-5p-2015-flex",
+      "fipeCodigo": "005373-2",
+      "displayName": "VW - VolksWagen up! high I MOTION 1.0 T. Flex 12V 5p",
+      "valorAtual": 41354,
+      "canonicalPath": "/fipe/volkswagen/up-high-i-motion-1-0-t-flex-12v-5p-2015-005373-2/",
+      "ano": 2015,
+      "marca": "VW - VolksWagen"
+    },
+    {
+      "vehicleId": "volkswagen-up-high-i-motion-1-0-t-flex-12v-5p-2016-flex",
+      "fipeCodigo": "005373-2",
+      "displayName": "VW - VolksWagen up! high I MOTION 1.0 T. Flex 12V 5p",
+      "valorAtual": 47605,
+      "canonicalPath": "/fipe/volkswagen/up-high-i-motion-1-0-t-flex-12v-5p-2016-005373-2/",
+      "ano": 2016,
+      "marca": "VW - VolksWagen"
+    },
+    {
+      "vehicleId": "volkswagen-up-high-i-motion-1-0-t-flex-12v-5p-2017-flex",
+      "fipeCodigo": "005373-2",
+      "displayName": "VW - VolksWagen up! high I MOTION 1.0 T. Flex 12V 5p",
+      "valorAtual": 52041,
+      "canonicalPath": "/fipe/volkswagen/up-high-i-motion-1-0-t-flex-12v-5p-2017-005373-2/",
+      "ano": 2017,
+      "marca": "VW - VolksWagen"
+    },
+    {
+      "vehicleId": "volkswagen-up-move-1-0-t-flex-12v-3p-2014-flex",
+      "fipeCodigo": "005375-9",
+      "displayName": "VW - VolksWagen up! move 1.0 T. Flex 12V 3p",
+      "valorAtual": 32677,
+      "canonicalPath": "/fipe/volkswagen/up-move-1-0-t-flex-12v-3p-2014-005375-9/",
+      "ano": 2014,
+      "marca": "VW - VolksWagen"
+    },
+    {
+      "vehicleId": "volkswagen-up-move-1-0-t-flex-12v-3p-2015-flex",
+      "fipeCodigo": "005375-9",
+      "displayName": "VW - VolksWagen up! move 1.0 T. Flex 12V 3p",
+      "valorAtual": 37642,
+      "canonicalPath": "/fipe/volkswagen/up-move-1-0-t-flex-12v-3p-2015-005375-9/",
+      "ano": 2015,
+      "marca": "VW - VolksWagen"
+    },
+    {
+      "vehicleId": "volkswagen-up-move-1-0-t-flex-12v-3p-2016-flex",
+      "fipeCodigo": "005375-9",
+      "displayName": "VW - VolksWagen up! move 1.0 T. Flex 12V 3p",
+      "valorAtual": 41569,
+      "canonicalPath": "/fipe/volkswagen/up-move-1-0-t-flex-12v-3p-2016-005375-9/",
+      "ano": 2016,
+      "marca": "VW - VolksWagen"
+    },
+    {
+      "vehicleId": "volkswagen-up-move-1-0-tsi-total-flex-12v-5p-2016-flex",
+      "fipeCodigo": "005435-6",
+      "displayName": "VW - VolksWagen up! move 1.0 TSI Total Flex 12V 5p",
+      "valorAtual": 48874,
+      "canonicalPath": "/fipe/volkswagen/up-move-1-0-tsi-total-flex-12v-5p-2016-005435-6/",
+      "ano": 2016,
+      "marca": "VW - VolksWagen"
+    },
+    {
+      "vehicleId": "volkswagen-up-move-1-0-tsi-total-flex-12v-5p-2017-flex",
+      "fipeCodigo": "005435-6",
+      "displayName": "VW - VolksWagen up! move 1.0 TSI Total Flex 12V 5p",
+      "valorAtual": 52755,
+      "canonicalPath": "/fipe/volkswagen/up-move-1-0-tsi-total-flex-12v-5p-2017-005435-6/",
+      "ano": 2017,
+      "marca": "VW - VolksWagen"
+    },
+    {
+      "vehicleId": "volkswagen-up-move-1-0-tsi-total-flex-12v-5p-2018-flex",
+      "fipeCodigo": "005435-6",
+      "displayName": "VW - VolksWagen up! move 1.0 TSI Total Flex 12V 5p",
+      "valorAtual": 57561,
+      "canonicalPath": "/fipe/volkswagen/up-move-1-0-tsi-total-flex-12v-5p-2018-005435-6/",
+      "ano": 2018,
+      "marca": "VW - VolksWagen"
+    },
+    {
+      "vehicleId": "volkswagen-up-move-1-0-tsi-total-flex-12v-5p-2019-flex",
+      "fipeCodigo": "005435-6",
+      "displayName": "VW - VolksWagen up! move 1.0 TSI Total Flex 12V 5p",
+      "valorAtual": 60583,
+      "canonicalPath": "/fipe/volkswagen/up-move-1-0-tsi-total-flex-12v-5p-2019-005435-6/",
+      "ano": 2019,
+      "marca": "VW - VolksWagen"
+    },
+    {
+      "vehicleId": "volkswagen-up-move-1-0-total-flex-12v-5p-2013-flex",
+      "fipeCodigo": "005366-0",
+      "displayName": "VW - VolksWagen up! move 1.0 Total Flex 12V 5p",
+      "valorAtual": 28921,
+      "canonicalPath": "/fipe/volkswagen/up-move-1-0-total-flex-12v-5p-2013-005366-0/",
+      "ano": 2013,
+      "marca": "VW - VolksWagen"
+    },
+    {
+      "vehicleId": "volkswagen-up-move-1-0-total-flex-12v-5p-2014-flex",
+      "fipeCodigo": "005366-0",
+      "displayName": "VW - VolksWagen up! move 1.0 Total Flex 12V 5p",
+      "valorAtual": 34804,
+      "canonicalPath": "/fipe/volkswagen/up-move-1-0-total-flex-12v-5p-2014-005366-0/",
+      "ano": 2014,
+      "marca": "VW - VolksWagen"
+    },
+    {
+      "vehicleId": "volkswagen-up-move-1-0-total-flex-12v-5p-2015-flex",
+      "fipeCodigo": "005366-0",
+      "displayName": "VW - VolksWagen up! move 1.0 Total Flex 12V 5p",
+      "valorAtual": 38352,
+      "canonicalPath": "/fipe/volkswagen/up-move-1-0-total-flex-12v-5p-2015-005366-0/",
+      "ano": 2015,
+      "marca": "VW - VolksWagen"
+    },
+    {
+      "vehicleId": "volkswagen-up-move-1-0-total-flex-12v-5p-2016-flex",
+      "fipeCodigo": "005366-0",
+      "displayName": "VW - VolksWagen up! move 1.0 Total Flex 12V 5p",
+      "valorAtual": 43894,
+      "canonicalPath": "/fipe/volkswagen/up-move-1-0-total-flex-12v-5p-2016-005366-0/",
+      "ano": 2016,
+      "marca": "VW - VolksWagen"
+    },
+    {
+      "vehicleId": "volkswagen-up-move-1-0-total-flex-12v-5p-2017-flex",
+      "fipeCodigo": "005366-0",
+      "displayName": "VW - VolksWagen up! move 1.0 Total Flex 12V 5p",
+      "valorAtual": 48830,
+      "canonicalPath": "/fipe/volkswagen/up-move-1-0-total-flex-12v-5p-2017-005366-0/",
+      "ano": 2017,
+      "marca": "VW - VolksWagen"
+    },
+    {
+      "vehicleId": "volkswagen-up-move-1-0-total-flex-12v-5p-2018-flex",
+      "fipeCodigo": "005366-0",
+      "displayName": "VW - VolksWagen up! move 1.0 Total Flex 12V 5p",
+      "valorAtual": 51467,
+      "canonicalPath": "/fipe/volkswagen/up-move-1-0-total-flex-12v-5p-2018-005366-0/",
+      "ano": 2018,
+      "marca": "VW - VolksWagen"
+    },
+    {
+      "vehicleId": "volkswagen-up-move-1-0-total-flex-12v-5p-2019-flex",
+      "fipeCodigo": "005366-0",
+      "displayName": "VW - VolksWagen up! move 1.0 Total Flex 12V 5p",
+      "valorAtual": 55720,
+      "canonicalPath": "/fipe/volkswagen/up-move-1-0-total-flex-12v-5p-2019-005366-0/",
+      "ano": 2019,
+      "marca": "VW - VolksWagen"
+    },
+    {
+      "vehicleId": "volkswagen-up-move-i-motion-1-0-t-flex-12v-3p-2014-flex",
+      "fipeCodigo": "005372-4",
+      "displayName": "VW - VolksWagen up! move I MOTION 1.0 T. Flex 12V 3p",
+      "valorAtual": 34857,
+      "canonicalPath": "/fipe/volkswagen/up-move-i-motion-1-0-t-flex-12v-3p-2014-005372-4/",
+      "ano": 2014,
+      "marca": "VW - VolksWagen"
+    },
+    {
+      "vehicleId": "volkswagen-up-move-i-motion-1-0-t-flex-12v-3p-2015-flex",
+      "fipeCodigo": "005372-4",
+      "displayName": "VW - VolksWagen up! move I MOTION 1.0 T. Flex 12V 3p",
+      "valorAtual": 37743,
+      "canonicalPath": "/fipe/volkswagen/up-move-i-motion-1-0-t-flex-12v-3p-2015-005372-4/",
+      "ano": 2015,
+      "marca": "VW - VolksWagen"
+    },
+    {
+      "vehicleId": "volkswagen-up-move-i-motion-1-0-t-flex-12v-5p-2015-flex",
+      "fipeCodigo": "005399-6",
+      "displayName": "VW - VolksWagen up! move I MOTION 1.0 T. Flex 12V 5p",
+      "valorAtual": 38451,
+      "canonicalPath": "/fipe/volkswagen/up-move-i-motion-1-0-t-flex-12v-5p-2015-005399-6/",
+      "ano": 2015,
+      "marca": "VW - VolksWagen"
+    },
+    {
+      "vehicleId": "volkswagen-up-move-i-motion-1-0-t-flex-12v-5p-2016-flex",
+      "fipeCodigo": "005399-6",
+      "displayName": "VW - VolksWagen up! move I MOTION 1.0 T. Flex 12V 5p",
+      "valorAtual": 43962,
+      "canonicalPath": "/fipe/volkswagen/up-move-i-motion-1-0-t-flex-12v-5p-2016-005399-6/",
+      "ano": 2016,
+      "marca": "VW - VolksWagen"
+    },
+    {
+      "vehicleId": "volkswagen-up-move-i-motion-1-0-t-flex-12v-5p-2017-flex",
+      "fipeCodigo": "005399-6",
+      "displayName": "VW - VolksWagen up! move I MOTION 1.0 T. Flex 12V 5p",
+      "valorAtual": 49542,
+      "canonicalPath": "/fipe/volkswagen/up-move-i-motion-1-0-t-flex-12v-5p-2017-005399-6/",
+      "ano": 2017,
+      "marca": "VW - VolksWagen"
+    },
+    {
+      "vehicleId": "volkswagen-up-move-i-motion-1-0-t-flex-12v-5p-2018-flex",
+      "fipeCodigo": "005399-6",
+      "displayName": "VW - VolksWagen up! move I MOTION 1.0 T. Flex 12V 5p",
+      "valorAtual": 51829,
+      "canonicalPath": "/fipe/volkswagen/up-move-i-motion-1-0-t-flex-12v-5p-2018-005399-6/",
+      "ano": 2018,
+      "marca": "VW - VolksWagen"
+    },
+    {
+      "vehicleId": "volkswagen-up-move-i-motion-1-0-t-flex-12v-5p-2019-flex",
+      "fipeCodigo": "005399-6",
+      "displayName": "VW - VolksWagen up! move I MOTION 1.0 T. Flex 12V 5p",
+      "valorAtual": 55943,
+      "canonicalPath": "/fipe/volkswagen/up-move-i-motion-1-0-t-flex-12v-5p-2019-005399-6/",
+      "ano": 2019,
+      "marca": "VW - VolksWagen"
+    },
+    {
+      "vehicleId": "volkswagen-up-take-1-0-t-flex-12v-3p-2014-flex",
+      "fipeCodigo": "005376-7",
+      "displayName": "VW - VolksWagen up! take 1.0 T. Flex 12V 3p",
+      "valorAtual": 29585,
+      "canonicalPath": "/fipe/volkswagen/up-take-1-0-t-flex-12v-3p-2014-005376-7/",
+      "ano": 2014,
+      "marca": "VW - VolksWagen"
+    },
+    {
+      "vehicleId": "volkswagen-up-take-1-0-t-flex-12v-3p-2015-flex",
+      "fipeCodigo": "005376-7",
+      "displayName": "VW - VolksWagen up! take 1.0 T. Flex 12V 3p",
+      "valorAtual": 33389,
+      "canonicalPath": "/fipe/volkswagen/up-take-1-0-t-flex-12v-3p-2015-005376-7/",
+      "ano": 2015,
+      "marca": "VW - VolksWagen"
+    },
+    {
+      "vehicleId": "volkswagen-up-take-1-0-t-flex-12v-3p-2016-flex",
+      "fipeCodigo": "005376-7",
+      "displayName": "VW - VolksWagen up! take 1.0 T. Flex 12V 3p",
+      "valorAtual": 37527,
+      "canonicalPath": "/fipe/volkswagen/up-take-1-0-t-flex-12v-3p-2016-005376-7/",
+      "ano": 2016,
+      "marca": "VW - VolksWagen"
+    },
+    {
+      "vehicleId": "volkswagen-up-take-1-0-t-flex-12v-3p-2017-flex",
+      "fipeCodigo": "005376-7",
+      "displayName": "VW - VolksWagen up! take 1.0 T. Flex 12V 3p",
+      "valorAtual": 38585,
+      "canonicalPath": "/fipe/volkswagen/up-take-1-0-t-flex-12v-3p-2017-005376-7/",
+      "ano": 2017,
+      "marca": "VW - VolksWagen"
+    },
+    {
+      "vehicleId": "volkswagen-up-take-1-0-total-flex-12v-5p-2014-flex",
+      "fipeCodigo": "005365-1",
+      "displayName": "VW - VolksWagen up! take 1.0 Total Flex 12V 5p",
+      "valorAtual": 30495,
+      "canonicalPath": "/fipe/volkswagen/up-take-1-0-total-flex-12v-5p-2014-005365-1/",
+      "ano": 2014,
+      "marca": "VW - VolksWagen"
+    },
+    {
+      "vehicleId": "volkswagen-up-take-1-0-total-flex-12v-5p-2015-flex",
+      "fipeCodigo": "005365-1",
+      "displayName": "VW - VolksWagen up! take 1.0 Total Flex 12V 5p",
+      "valorAtual": 38270,
+      "canonicalPath": "/fipe/volkswagen/up-take-1-0-total-flex-12v-5p-2015-005365-1/",
+      "ano": 2015,
+      "marca": "VW - VolksWagen"
+    },
+    {
+      "vehicleId": "volkswagen-up-take-1-0-total-flex-12v-5p-2016-flex",
+      "fipeCodigo": "005365-1",
+      "displayName": "VW - VolksWagen up! take 1.0 Total Flex 12V 5p",
+      "valorAtual": 41608,
+      "canonicalPath": "/fipe/volkswagen/up-take-1-0-total-flex-12v-5p-2016-005365-1/",
+      "ano": 2016,
+      "marca": "VW - VolksWagen"
+    },
+    {
+      "vehicleId": "volkswagen-up-take-1-0-total-flex-12v-5p-2017-flex",
+      "fipeCodigo": "005365-1",
+      "displayName": "VW - VolksWagen up! take 1.0 Total Flex 12V 5p",
+      "valorAtual": 42649,
+      "canonicalPath": "/fipe/volkswagen/up-take-1-0-total-flex-12v-5p-2017-005365-1/",
+      "ano": 2017,
+      "marca": "VW - VolksWagen"
+    },
+    {
+      "vehicleId": "volkswagen-up-take-1-0-total-flex-12v-5p-2018-flex",
+      "fipeCodigo": "005365-1",
+      "displayName": "VW - VolksWagen up! take 1.0 Total Flex 12V 5p",
+      "valorAtual": 45193,
+      "canonicalPath": "/fipe/volkswagen/up-take-1-0-total-flex-12v-5p-2018-005365-1/",
+      "ano": 2018,
+      "marca": "VW - VolksWagen"
+    },
+    {
+      "vehicleId": "volkswagen-up-take-1-0-total-flex-12v-5p-2019-flex",
+      "fipeCodigo": "005365-1",
+      "displayName": "VW - VolksWagen up! take 1.0 Total Flex 12V 5p",
+      "valorAtual": 50333,
+      "canonicalPath": "/fipe/volkswagen/up-take-1-0-total-flex-12v-5p-2019-005365-1/",
+      "ano": 2019,
+      "marca": "VW - VolksWagen"
+    },
+    {
+      "vehicleId": "volkswagen-up-track-1-0-total-flex-12v-5p-2017-flex",
+      "fipeCodigo": "005468-2",
+      "displayName": "VW - VolksWagen up! track 1.0 Total Flex 12V 5p",
+      "valorAtual": 47731,
+      "canonicalPath": "/fipe/volkswagen/up-track-1-0-total-flex-12v-5p-2017-005468-2/",
+      "ano": 2017,
+      "marca": "VW - VolksWagen"
+    }
+  ],
+  "stats": {
+    "total": 71
+  },
+  "meta": {
+    "geracaoId": "up-1"
+  }
+}

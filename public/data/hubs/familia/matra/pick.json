@@ -1,0 +1,115 @@
+{
+  "tipo": "familia",
+  "slug": "pick",
+  "canonicalPath": "/fipe/matra/pick/",
+  "titulo": "Matra pick - Tabela FIPE",
+  "descricao": "10 versoes e anos do Matra pick na Tabela FIPE.",
+  "seo": {
+    "title": "Matra pick - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes Matra pick. 10 veiculos indexados.",
+    "h1": "Matra pick - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/matra/pick/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "matra-pick-up-4x2-curto-longo-2-5-tdi-diesel-2004-diesel",
+      "fipeCodigo": "058001-5",
+      "displayName": "Matra Pick-Up 4x2 Curto/Longo 2.5 TDI Diesel",
+      "valorAtual": 19825,
+      "canonicalPath": "/fipe/matra/pick-up-4x2-curto-longo-2-5-tdi-diesel-2004-058001-5/",
+      "ano": 2004,
+      "marca": "Matra"
+    },
+    {
+      "vehicleId": "matra-pick-up-4x4-curto-longo-2-5-tdi-diesel-2004-diesel",
+      "fipeCodigo": "058002-3",
+      "displayName": "Matra Pick-Up 4x4 Curto/Longo 2.5 TDI  Diesel",
+      "valorAtual": 21175,
+      "canonicalPath": "/fipe/matra/pick-up-4x4-curto-longo-2-5-tdi-diesel-2004-058002-3/",
+      "ano": 2004,
+      "marca": "Matra"
+    },
+    {
+      "vehicleId": "matra-pick-up-cd-4x2-curto-longo-2-5-tdi-dies-2004-diesel",
+      "fipeCodigo": "058003-1",
+      "displayName": "Matra Pick-Up CD 4x2 Curto/Longo 2.5 TDI Dies.",
+      "valorAtual": 24659,
+      "canonicalPath": "/fipe/matra/pick-up-cd-4x2-curto-longo-2-5-tdi-dies-2004-058003-1/",
+      "ano": 2004,
+      "marca": "Matra"
+    },
+    {
+      "vehicleId": "matra-pick-up-cd-4x4-curto-longo-2-5-tdi-dies-2004-diesel",
+      "fipeCodigo": "058004-0",
+      "displayName": "Matra Pick-Up CD 4x4 Curto/Longo 2.5 TDI Dies.",
+      "valorAtual": 34879,
+      "canonicalPath": "/fipe/matra/pick-up-cd-4x4-curto-longo-2-5-tdi-dies-2004-058004-0/",
+      "ano": 2004,
+      "marca": "Matra"
+    },
+    {
+      "vehicleId": "matra-pick-up-4x2-curto-longo-2-5-tdi-diesel-2003-diesel",
+      "fipeCodigo": "058001-5",
+      "displayName": "Matra Pick-Up 4x2 Curto/Longo 2.5 TDI Diesel",
+      "valorAtual": 17741,
+      "canonicalPath": "/fipe/matra/pick-up-4x2-curto-longo-2-5-tdi-diesel-2003-058001-5/",
+      "ano": 2003,
+      "marca": "Matra"
+    },
+    {
+      "vehicleId": "matra-pick-up-4x4-curto-longo-2-5-tdi-diesel-2003-diesel",
+      "fipeCodigo": "058002-3",
+      "displayName": "Matra Pick-Up 4x4 Curto/Longo 2.5 TDI  Diesel",
+      "valorAtual": 19630,
+      "canonicalPath": "/fipe/matra/pick-up-4x4-curto-longo-2-5-tdi-diesel-2003-058002-3/",
+      "ano": 2003,
+      "marca": "Matra"
+    },
+    {
+      "vehicleId": "matra-pick-up-cd-4x2-curto-longo-2-5-tdi-dies-2003-diesel",
+      "fipeCodigo": "058003-1",
+      "displayName": "Matra Pick-Up CD 4x2 Curto/Longo 2.5 TDI Dies.",
+      "valorAtual": 22833,
+      "canonicalPath": "/fipe/matra/pick-up-cd-4x2-curto-longo-2-5-tdi-dies-2003-058003-1/",
+      "ano": 2003,
+      "marca": "Matra"
+    },
+    {
+      "vehicleId": "matra-pick-up-cd-4x4-curto-longo-2-5-tdi-dies-2003-diesel",
+      "fipeCodigo": "058004-0",
+      "displayName": "Matra Pick-Up CD 4x4 Curto/Longo 2.5 TDI Dies.",
+      "valorAtual": 29175,
+      "canonicalPath": "/fipe/matra/pick-up-cd-4x4-curto-longo-2-5-tdi-dies-2003-058004-0/",
+      "ano": 2003,
+      "marca": "Matra"
+    },
+    {
+      "vehicleId": "matra-pick-up-4x2-curto-longo-2-5-tdi-diesel-2002-diesel",
+      "fipeCodigo": "058001-5",
+      "displayName": "Matra Pick-Up 4x2 Curto/Longo 2.5 TDI Diesel",
+      "valorAtual": 16535,
+      "canonicalPath": "/fipe/matra/pick-up-4x2-curto-longo-2-5-tdi-diesel-2002-058001-5/",
+      "ano": 2002,
+      "marca": "Matra"
+    },
+    {
+      "vehicleId": "matra-pick-up-4x4-curto-longo-2-5-tdi-diesel-2002-diesel",
+      "fipeCodigo": "058002-3",
+      "displayName": "Matra Pick-Up 4x4 Curto/Longo 2.5 TDI  Diesel",
+      "valorAtual": 18708,
+      "canonicalPath": "/fipe/matra/pick-up-4x4-curto-longo-2-5-tdi-diesel-2002-058002-3/",
+      "ano": 2002,
+      "marca": "Matra"
+    }
+  ],
+  "stats": {
+    "total": 10,
+    "precoMin": 16535,
+    "precoMax": 34879,
+    "anos": [
+      2004,
+      2003,
+      2002
+    ]
+  }
+}

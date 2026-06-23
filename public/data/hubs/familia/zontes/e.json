@@ -1,0 +1,62 @@
+{
+  "tipo": "familia",
+  "slug": "e",
+  "canonicalPath": "/fipe/zontes/e/",
+  "titulo": "ZONTES e - Tabela FIPE",
+  "descricao": "4 versoes e anos do ZONTES e na Tabela FIPE.",
+  "seo": {
+    "title": "ZONTES e - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes ZONTES e. 4 veiculos indexados.",
+    "h1": "ZONTES e - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/zontes/e/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "zontes-e-350-2027-gasolina",
+      "fipeCodigo": "895004-0",
+      "displayName": "ZONTES E 350",
+      "valorAtual": 37853,
+      "canonicalPath": "/fipe/zontes/e-350-2027-895004-0/",
+      "ano": 2027,
+      "marca": "ZONTES"
+    },
+    {
+      "vehicleId": "zontes-e-350-2026-gasolina",
+      "fipeCodigo": "895004-0",
+      "displayName": "ZONTES E 350",
+      "valorAtual": 35207,
+      "canonicalPath": "/fipe/zontes/e-350-2026-895004-0/",
+      "ano": 2026,
+      "marca": "ZONTES"
+    },
+    {
+      "vehicleId": "zontes-e-350-2025-gasolina",
+      "fipeCodigo": "895004-0",
+      "displayName": "ZONTES E 350",
+      "valorAtual": 33594,
+      "canonicalPath": "/fipe/zontes/e-350-2025-895004-0/",
+      "ano": 2025,
+      "marca": "ZONTES"
+    },
+    {
+      "vehicleId": "zontes-e-350-0-gasolina",
+      "fipeCodigo": "895004-0",
+      "displayName": "ZONTES E 350",
+      "valorAtual": 39234,
+      "canonicalPath": "/fipe/zontes/e-350-0-895004-0/",
+      "ano": 0,
+      "marca": "ZONTES"
+    }
+  ],
+  "stats": {
+    "total": 4,
+    "precoMin": 33594,
+    "precoMax": 39234,
+    "anos": [
+      2027,
+      2026,
+      2025,
+      0
+    ]
+  }
+}

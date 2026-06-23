@@ -1,0 +1,42 @@
+{
+  "tipo": "familia",
+  "slug": "quota",
+  "canonicalPath": "/fipe/moto-guzzi/quota/",
+  "titulo": "MOTO GUZZI quota - Tabela FIPE",
+  "descricao": "2 versoes e anos do MOTO GUZZI quota na Tabela FIPE.",
+  "seo": {
+    "title": "MOTO GUZZI quota - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes MOTO GUZZI quota. 2 veiculos indexados.",
+    "h1": "MOTO GUZZI quota - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/moto-guzzi/quota/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "moto-guzzi-quota-1100-es-2001-gasolina",
+      "fipeCodigo": "833004-2",
+      "displayName": "MOTO GUZZI QUOTA 1100 ES",
+      "valorAtual": 38754,
+      "canonicalPath": "/fipe/moto-guzzi/quota-1100-es-2001-833004-2/",
+      "ano": 2001,
+      "marca": "MOTO GUZZI"
+    },
+    {
+      "vehicleId": "moto-guzzi-quota-1100-es-2000-gasolina",
+      "fipeCodigo": "833004-2",
+      "displayName": "MOTO GUZZI QUOTA 1100 ES",
+      "valorAtual": 33550,
+      "canonicalPath": "/fipe/moto-guzzi/quota-1100-es-2000-833004-2/",
+      "ano": 2000,
+      "marca": "MOTO GUZZI"
+    }
+  ],
+  "stats": {
+    "total": 2,
+    "precoMin": 33550,
+    "precoMax": 38754,
+    "anos": [
+      2001,
+      2000
+    ]
+  }
+}

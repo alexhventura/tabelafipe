@@ -1,0 +1,66 @@
+{
+  "tipo": "geracao",
+  "slug": "sxc-2",
+  "canonicalPath": "/geracao/ktm/sxc-2/",
+  "titulo": "Geracao sxc-2",
+  "descricao": "5 veiculos da geracao sxc-2.",
+  "seo": {
+    "title": "Geracao sxc-2 - Precos FIPE",
+    "description": "Veiculos da geracao sxc-2 na Tabela FIPE.",
+    "h1": "Geracao sxc-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/ktm/sxc-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "ktm-sxc-625-2004-gasolina",
+      "fipeCodigo": "818020-2",
+      "displayName": "KTM SXC 625",
+      "valorAtual": 17943,
+      "canonicalPath": "/fipe/ktm/sxc-625-2004-818020-2/",
+      "ano": 2004,
+      "marca": "KTM"
+    },
+    {
+      "vehicleId": "ktm-sxc-625-2005-gasolina",
+      "fipeCodigo": "818020-2",
+      "displayName": "KTM SXC 625",
+      "valorAtual": 19638,
+      "canonicalPath": "/fipe/ktm/sxc-625-2005-818020-2/",
+      "ano": 2005,
+      "marca": "KTM"
+    },
+    {
+      "vehicleId": "ktm-sxc-625-2006-gasolina",
+      "fipeCodigo": "818020-2",
+      "displayName": "KTM SXC 625",
+      "valorAtual": 21112,
+      "canonicalPath": "/fipe/ktm/sxc-625-2006-818020-2/",
+      "ano": 2006,
+      "marca": "KTM"
+    },
+    {
+      "vehicleId": "ktm-sxc-625-2007-gasolina",
+      "fipeCodigo": "818020-2",
+      "displayName": "KTM SXC 625",
+      "valorAtual": 23691,
+      "canonicalPath": "/fipe/ktm/sxc-625-2007-818020-2/",
+      "ano": 2007,
+      "marca": "KTM"
+    },
+    {
+      "vehicleId": "ktm-sxc-625-2008-gasolina",
+      "fipeCodigo": "818020-2",
+      "displayName": "KTM SXC 625",
+      "valorAtual": 27108,
+      "canonicalPath": "/fipe/ktm/sxc-625-2008-818020-2/",
+      "ano": 2008,
+      "marca": "KTM"
+    }
+  ],
+  "stats": {
+    "total": 5
+  },
+  "meta": {
+    "geracaoId": "sxc-2"
+  }
+}

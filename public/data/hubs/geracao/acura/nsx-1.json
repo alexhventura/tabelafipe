@@ -1,0 +1,66 @@
+{
+  "tipo": "geracao",
+  "slug": "nsx-1",
+  "canonicalPath": "/geracao/acura/nsx-1/",
+  "titulo": "Geracao nsx-1",
+  "descricao": "5 veiculos da geracao nsx-1.",
+  "seo": {
+    "title": "Geracao nsx-1 - Precos FIPE",
+    "description": "Veiculos da geracao nsx-1 na Tabela FIPE.",
+    "h1": "Geracao nsx-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/acura/nsx-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "acura-nsx-3-0-1991-gasolina",
+      "fipeCodigo": "038001-6",
+      "displayName": "Acura NSX 3.0",
+      "valorAtual": 32569,
+      "canonicalPath": "/fipe/acura/nsx-3-0-1991-038001-6/",
+      "ano": 1991,
+      "marca": "Acura"
+    },
+    {
+      "vehicleId": "acura-nsx-3-0-1992-gasolina",
+      "fipeCodigo": "038001-6",
+      "displayName": "Acura NSX 3.0",
+      "valorAtual": 35632,
+      "canonicalPath": "/fipe/acura/nsx-3-0-1992-038001-6/",
+      "ano": 1992,
+      "marca": "Acura"
+    },
+    {
+      "vehicleId": "acura-nsx-3-0-1993-gasolina",
+      "fipeCodigo": "038001-6",
+      "displayName": "Acura NSX 3.0",
+      "valorAtual": 37289,
+      "canonicalPath": "/fipe/acura/nsx-3-0-1993-038001-6/",
+      "ano": 1993,
+      "marca": "Acura"
+    },
+    {
+      "vehicleId": "acura-nsx-3-0-1994-gasolina",
+      "fipeCodigo": "038001-6",
+      "displayName": "Acura NSX 3.0",
+      "valorAtual": 38571,
+      "canonicalPath": "/fipe/acura/nsx-3-0-1994-038001-6/",
+      "ano": 1994,
+      "marca": "Acura"
+    },
+    {
+      "vehicleId": "acura-nsx-3-0-1995-gasolina",
+      "fipeCodigo": "038001-6",
+      "displayName": "Acura NSX 3.0",
+      "valorAtual": 39978,
+      "canonicalPath": "/fipe/acura/nsx-3-0-1995-038001-6/",
+      "ano": 1995,
+      "marca": "Acura"
+    }
+  ],
+  "stats": {
+    "total": 5
+  },
+  "meta": {
+    "geracaoId": "nsx-1"
+  }
+}

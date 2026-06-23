@@ -1,0 +1,57 @@
+{
+  "tipo": "geracao",
+  "slug": "orbit-2",
+  "canonicalPath": "/geracao/jonny/orbit-2/",
+  "titulo": "Geracao orbit-2",
+  "descricao": "4 veiculos da geracao orbit-2.",
+  "seo": {
+    "title": "Geracao orbit-2 - Precos FIPE",
+    "description": "Veiculos da geracao orbit-2 na Tabela FIPE.",
+    "h1": "Geracao orbit-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/jonny/orbit-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "jonny-orbit-150cc-2008-gasolina",
+      "fipeCodigo": "865004-7",
+      "displayName": "JONNY Orbit 150cc",
+      "valorAtual": 1963,
+      "canonicalPath": "/fipe/jonny/orbit-150cc-2008-865004-7/",
+      "ano": 2008,
+      "marca": "JONNY"
+    },
+    {
+      "vehicleId": "jonny-orbit-150cc-2009-gasolina",
+      "fipeCodigo": "865004-7",
+      "displayName": "JONNY Orbit 150cc",
+      "valorAtual": 2118,
+      "canonicalPath": "/fipe/jonny/orbit-150cc-2009-865004-7/",
+      "ano": 2009,
+      "marca": "JONNY"
+    },
+    {
+      "vehicleId": "jonny-orbit-150cc-2010-gasolina",
+      "fipeCodigo": "865004-7",
+      "displayName": "JONNY Orbit 150cc",
+      "valorAtual": 2188,
+      "canonicalPath": "/fipe/jonny/orbit-150cc-2010-865004-7/",
+      "ano": 2010,
+      "marca": "JONNY"
+    },
+    {
+      "vehicleId": "jonny-orbit-150cc-2011-gasolina",
+      "fipeCodigo": "865004-7",
+      "displayName": "JONNY Orbit 150cc",
+      "valorAtual": 2274,
+      "canonicalPath": "/fipe/jonny/orbit-150cc-2011-865004-7/",
+      "ano": 2011,
+      "marca": "JONNY"
+    }
+  ],
+  "stats": {
+    "total": 4
+  },
+  "meta": {
+    "geracaoId": "orbit-2"
+  }
+}

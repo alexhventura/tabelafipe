@@ -1,0 +1,15 @@
+{
+  "geradoEm": "2026-06-21T00:13:00.732Z",
+  "camada": "semi_dinamico",
+  "descricao": "Dados de risco e conformidade atualizados trimestralmente (roubo, seguro, recalls).",
+  "cadencia": "trimestral",
+  "pattern": "{campo}/{ano}-{trimestre}.json",
+  "registros": 0,
+  "fontes": [
+    "SENAJ",
+    "FENABRAVE",
+    "SENATRAN",
+    "CORRETORAS"
+  ],
+  "nota": "Arquivos *.json nesta pasta sao gerados e ignorados pelo git (exceto manifest.json)."
+}

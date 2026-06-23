@@ -1,0 +1,92 @@
+{
+  "tipo": "familia",
+  "slug": "next",
+  "canonicalPath": "/fipe/dafra/next/",
+  "titulo": "DAFRA next - Tabela FIPE",
+  "descricao": "7 versoes e anos do DAFRA next na Tabela FIPE.",
+  "seo": {
+    "title": "DAFRA next - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes DAFRA next. 7 veiculos indexados.",
+    "h1": "DAFRA next - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/dafra/next/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "dafra-next-300cc-2020-gasolina",
+      "fipeCodigo": "861024-0",
+      "displayName": "DAFRA NEXT 300cc",
+      "valorAtual": 14860,
+      "canonicalPath": "/fipe/dafra/next-300cc-2020-861024-0/",
+      "ano": 2020,
+      "marca": "DAFRA"
+    },
+    {
+      "vehicleId": "dafra-next-300cc-2019-gasolina",
+      "fipeCodigo": "861024-0",
+      "displayName": "DAFRA NEXT 300cc",
+      "valorAtual": 12462,
+      "canonicalPath": "/fipe/dafra/next-300cc-2019-861024-0/",
+      "ano": 2019,
+      "marca": "DAFRA"
+    },
+    {
+      "vehicleId": "dafra-next-250cc-2017-gasolina",
+      "fipeCodigo": "861016-9",
+      "displayName": "DAFRA NEXT 250cc",
+      "valorAtual": 12754,
+      "canonicalPath": "/fipe/dafra/next-250cc-2017-861016-9/",
+      "ano": 2017,
+      "marca": "DAFRA"
+    },
+    {
+      "vehicleId": "dafra-next-250cc-2016-gasolina",
+      "fipeCodigo": "861016-9",
+      "displayName": "DAFRA NEXT 250cc",
+      "valorAtual": 12125,
+      "canonicalPath": "/fipe/dafra/next-250cc-2016-861016-9/",
+      "ano": 2016,
+      "marca": "DAFRA"
+    },
+    {
+      "vehicleId": "dafra-next-250cc-2015-gasolina",
+      "fipeCodigo": "861016-9",
+      "displayName": "DAFRA NEXT 250cc",
+      "valorAtual": 10025,
+      "canonicalPath": "/fipe/dafra/next-250cc-2015-861016-9/",
+      "ano": 2015,
+      "marca": "DAFRA"
+    },
+    {
+      "vehicleId": "dafra-next-250cc-2014-gasolina",
+      "fipeCodigo": "861016-9",
+      "displayName": "DAFRA NEXT 250cc",
+      "valorAtual": 9780,
+      "canonicalPath": "/fipe/dafra/next-250cc-2014-861016-9/",
+      "ano": 2014,
+      "marca": "DAFRA"
+    },
+    {
+      "vehicleId": "dafra-next-250cc-2013-gasolina",
+      "fipeCodigo": "861016-9",
+      "displayName": "DAFRA NEXT 250cc",
+      "valorAtual": 8838,
+      "canonicalPath": "/fipe/dafra/next-250cc-2013-861016-9/",
+      "ano": 2013,
+      "marca": "DAFRA"
+    }
+  ],
+  "stats": {
+    "total": 7,
+    "precoMin": 8838,
+    "precoMax": 14860,
+    "anos": [
+      2020,
+      2019,
+      2017,
+      2016,
+      2015,
+      2014,
+      2013
+    ]
+  }
+}

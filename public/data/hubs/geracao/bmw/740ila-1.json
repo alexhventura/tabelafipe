@@ -1,0 +1,48 @@
+{
+  "tipo": "geracao",
+  "slug": "740ila-1",
+  "canonicalPath": "/geracao/bmw/740ila-1/",
+  "titulo": "Geracao 740ila-1",
+  "descricao": "3 veiculos da geracao 740ila-1.",
+  "seo": {
+    "title": "Geracao 740ila-1 - Precos FIPE",
+    "description": "Veiculos da geracao 740ila-1 na Tabela FIPE.",
+    "h1": "Geracao 740ila-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/bmw/740ila-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "bmw-740ila-protection-1999-gasolina",
+      "fipeCodigo": "009053-0",
+      "displayName": "BMW 740iLA Protection",
+      "valorAtual": 41123,
+      "canonicalPath": "/fipe/bmw/740ila-protection-1999-009053-0/",
+      "ano": 1999,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-740ila-protection-2000-gasolina",
+      "fipeCodigo": "009053-0",
+      "displayName": "BMW 740iLA Protection",
+      "valorAtual": 51436,
+      "canonicalPath": "/fipe/bmw/740ila-protection-2000-009053-0/",
+      "ano": 2000,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-740ila-protection-2001-gasolina",
+      "fipeCodigo": "009053-0",
+      "displayName": "BMW 740iLA Protection",
+      "valorAtual": 57824,
+      "canonicalPath": "/fipe/bmw/740ila-protection-2001-009053-0/",
+      "ano": 2001,
+      "marca": "BMW"
+    }
+  ],
+  "stats": {
+    "total": 3
+  },
+  "meta": {
+    "geracaoId": "740ila-1"
+  }
+}

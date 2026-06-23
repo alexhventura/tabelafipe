@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "seres-1",
+  "canonicalPath": "/geracao/seres/seres-1/",
+  "titulo": "Geracao seres-1",
+  "descricao": "2 veiculos da geracao seres-1.",
+  "seo": {
+    "title": "Geracao seres-1 - Precos FIPE",
+    "description": "Veiculos da geracao seres-1 na Tabela FIPE.",
+    "h1": "Geracao seres-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/seres/seres-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "seres-seres-3-bev-eletrico-2023-eletrico",
+      "fipeCodigo": "098001-3",
+      "displayName": "SERES SERES 3 BEV  (Elétrico)",
+      "valorAtual": 141936,
+      "canonicalPath": "/fipe/seres/seres-3-bev-eletrico-2023-098001-3/",
+      "ano": 2023,
+      "marca": "SERES"
+    },
+    {
+      "vehicleId": "seres-seres-5-bev-eletrico-2023-eletrico",
+      "fipeCodigo": "098002-1",
+      "displayName": "SERES SERES 5 BEV (Elétrico)",
+      "valorAtual": 332334,
+      "canonicalPath": "/fipe/seres/seres-5-bev-eletrico-2023-098002-1/",
+      "ano": 2023,
+      "marca": "SERES"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "seres-1"
+  }
+}

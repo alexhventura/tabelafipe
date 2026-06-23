@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "zzr-1",
+  "canonicalPath": "/geracao/kawasaki/zzr-1/",
+  "titulo": "Geracao zzr-1",
+  "descricao": "2 veiculos da geracao zzr-1.",
+  "seo": {
+    "title": "Geracao zzr-1 - Precos FIPE",
+    "description": "Veiculos da geracao zzr-1 na Tabela FIPE.",
+    "h1": "Geracao zzr-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/kawasaki/zzr-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "kawasaki-zzr-1200-2004-gasolina",
+      "fipeCodigo": "817035-5",
+      "displayName": "KAWASAKI ZZR 1200",
+      "valorAtual": 21198,
+      "canonicalPath": "/fipe/kawasaki/zzr-1200-2004-817035-5/",
+      "ano": 2004,
+      "marca": "KAWASAKI"
+    },
+    {
+      "vehicleId": "kawasaki-zzr-1200-2005-gasolina",
+      "fipeCodigo": "817035-5",
+      "displayName": "KAWASAKI ZZR 1200",
+      "valorAtual": 22261,
+      "canonicalPath": "/fipe/kawasaki/zzr-1200-2005-817035-5/",
+      "ano": 2005,
+      "marca": "KAWASAKI"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "zzr-1"
+  }
+}

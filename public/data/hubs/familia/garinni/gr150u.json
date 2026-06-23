@@ -1,0 +1,42 @@
+{
+  "tipo": "familia",
+  "slug": "gr150u",
+  "canonicalPath": "/fipe/garinni/gr150u/",
+  "titulo": "GARINNI gr150u - Tabela FIPE",
+  "descricao": "2 versoes e anos do GARINNI gr150u na Tabela FIPE.",
+  "seo": {
+    "title": "GARINNI gr150u - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes GARINNI gr150u. 2 veiculos indexados.",
+    "h1": "GARINNI gr150u - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/garinni/gr150u/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "garinni-gr150u-2007-gasolina",
+      "fipeCodigo": "847005-7",
+      "displayName": "GARINNI GR150U",
+      "valorAtual": 2447,
+      "canonicalPath": "/fipe/garinni/gr150u-2007-847005-7/",
+      "ano": 2007,
+      "marca": "GARINNI"
+    },
+    {
+      "vehicleId": "garinni-gr150u-2006-gasolina",
+      "fipeCodigo": "847005-7",
+      "displayName": "GARINNI GR150U",
+      "valorAtual": 2323,
+      "canonicalPath": "/fipe/garinni/gr150u-2006-847005-7/",
+      "ano": 2006,
+      "marca": "GARINNI"
+    }
+  ],
+  "stats": {
+    "total": 2,
+    "precoMin": 2323,
+    "precoMax": 2447,
+    "anos": [
+      2007,
+      2006
+    ]
+  }
+}

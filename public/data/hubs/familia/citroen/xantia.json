@@ -1,0 +1,535 @@
+{
+  "tipo": "familia",
+  "slug": "xantia",
+  "canonicalPath": "/fipe/citroen/xantia/",
+  "titulo": "Citroën xantia - Tabela FIPE",
+  "descricao": "56 versoes e anos do Citroën xantia na Tabela FIPE.",
+  "seo": {
+    "title": "Citroën xantia - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes Citroën xantia. 56 veiculos indexados.",
+    "h1": "Citroën xantia - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/citroen/xantia/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "citroen-xantia-glx-2-0-16v-mec-2002-gasolina",
+      "fipeCodigo": "011029-9",
+      "displayName": "Citroën Xantia GLX 2.0 16V Mec.",
+      "valorAtual": 10121,
+      "canonicalPath": "/fipe/citroen/xantia-glx-2-0-16v-mec-2002-011029-9/",
+      "ano": 2002,
+      "marca": "Citroën"
+    },
+    {
+      "vehicleId": "citroen-xantia-break-2-0-8v-glx-2-0-16v-aut-2001-gasolina",
+      "fipeCodigo": "011015-9",
+      "displayName": "Citroën Xantia Break 2.0 8V/GLX 2.0 16V Aut",
+      "valorAtual": 8909,
+      "canonicalPath": "/fipe/citroen/xantia-break-2-0-8v-glx-2-0-16v-aut-2001-011015-9/",
+      "ano": 2001,
+      "marca": "Citroën"
+    },
+    {
+      "vehicleId": "citroen-xantia-break-glx-2-0-16v-mec-2001-gasolina",
+      "fipeCodigo": "011049-3",
+      "displayName": "Citroën Xantia Break GLX 2.0 16V Mec.",
+      "valorAtual": 9159,
+      "canonicalPath": "/fipe/citroen/xantia-break-glx-2-0-16v-mec-2001-011049-3/",
+      "ano": 2001,
+      "marca": "Citroën"
+    },
+    {
+      "vehicleId": "citroen-xantia-glx-2-0-16v-mec-2001-gasolina",
+      "fipeCodigo": "011029-9",
+      "displayName": "Citroën Xantia GLX 2.0 16V Mec.",
+      "valorAtual": 9482,
+      "canonicalPath": "/fipe/citroen/xantia-glx-2-0-16v-mec-2001-011029-9/",
+      "ano": 2001,
+      "marca": "Citroën"
+    },
+    {
+      "vehicleId": "citroen-xantia-glx-2-0-16v-aut-2001-gasolina",
+      "fipeCodigo": "011047-7",
+      "displayName": "Citroën Xantia GLX 2.0 16V Aut.",
+      "valorAtual": 9832,
+      "canonicalPath": "/fipe/citroen/xantia-glx-2-0-16v-aut-2001-011047-7/",
+      "ano": 2001,
+      "marca": "Citroën"
+    },
+    {
+      "vehicleId": "citroen-xantia-break-2-0-8v-glx-2-0-16v-aut-2000-gasolina",
+      "fipeCodigo": "011015-9",
+      "displayName": "Citroën Xantia Break 2.0 8V/GLX 2.0 16V Aut",
+      "valorAtual": 7515,
+      "canonicalPath": "/fipe/citroen/xantia-break-2-0-8v-glx-2-0-16v-aut-2000-011015-9/",
+      "ano": 2000,
+      "marca": "Citroën"
+    },
+    {
+      "vehicleId": "citroen-xantia-exclusive-2-0-16v-2000-gasolina",
+      "fipeCodigo": "011042-6",
+      "displayName": "Citroën Xantia Exclusive 2.0 16V",
+      "valorAtual": 7537,
+      "canonicalPath": "/fipe/citroen/xantia-exclusive-2-0-16v-2000-011042-6/",
+      "ano": 2000,
+      "marca": "Citroën"
+    },
+    {
+      "vehicleId": "citroen-xantia-glx-2-0-16v-mec-2000-gasolina",
+      "fipeCodigo": "011029-9",
+      "displayName": "Citroën Xantia GLX 2.0 16V Mec.",
+      "valorAtual": 8766,
+      "canonicalPath": "/fipe/citroen/xantia-glx-2-0-16v-mec-2000-011029-9/",
+      "ano": 2000,
+      "marca": "Citroën"
+    },
+    {
+      "vehicleId": "citroen-xantia-break-glx-2-0-16v-mec-2000-gasolina",
+      "fipeCodigo": "011049-3",
+      "displayName": "Citroën Xantia Break GLX 2.0 16V Mec.",
+      "valorAtual": 8859,
+      "canonicalPath": "/fipe/citroen/xantia-break-glx-2-0-16v-mec-2000-011049-3/",
+      "ano": 2000,
+      "marca": "Citroën"
+    },
+    {
+      "vehicleId": "citroen-xantia-glx-2-0-16v-aut-2000-gasolina",
+      "fipeCodigo": "011047-7",
+      "displayName": "Citroën Xantia GLX 2.0 16V Aut.",
+      "valorAtual": 9417,
+      "canonicalPath": "/fipe/citroen/xantia-glx-2-0-16v-aut-2000-011047-7/",
+      "ano": 2000,
+      "marca": "Citroën"
+    },
+    {
+      "vehicleId": "citroen-xantia-exclusive-3-0-v6-2000-gasolina",
+      "fipeCodigo": "011034-5",
+      "displayName": "Citroën Xantia Exclusive 3.0 V6",
+      "valorAtual": 12331,
+      "canonicalPath": "/fipe/citroen/xantia-exclusive-3-0-v6-2000-011034-5/",
+      "ano": 2000,
+      "marca": "Citroën"
+    },
+    {
+      "vehicleId": "citroen-xantia-exclusive-2-0-16v-1999-gasolina",
+      "fipeCodigo": "011042-6",
+      "displayName": "Citroën Xantia Exclusive 2.0 16V",
+      "valorAtual": 6705,
+      "canonicalPath": "/fipe/citroen/xantia-exclusive-2-0-16v-1999-011042-6/",
+      "ano": 1999,
+      "marca": "Citroën"
+    },
+    {
+      "vehicleId": "citroen-xantia-sx-1-8-1999-gasolina",
+      "fipeCodigo": "011016-7",
+      "displayName": "Citroën Xantia SX 1.8",
+      "valorAtual": 6746,
+      "canonicalPath": "/fipe/citroen/xantia-sx-1-8-1999-011016-7/",
+      "ano": 1999,
+      "marca": "Citroën"
+    },
+    {
+      "vehicleId": "citroen-xantia-glx-2-0-16v-mec-1999-gasolina",
+      "fipeCodigo": "011029-9",
+      "displayName": "Citroën Xantia GLX 2.0 16V Mec.",
+      "valorAtual": 6786,
+      "canonicalPath": "/fipe/citroen/xantia-glx-2-0-16v-mec-1999-011029-9/",
+      "ano": 1999,
+      "marca": "Citroën"
+    },
+    {
+      "vehicleId": "citroen-xantia-break-2-0-8v-glx-2-0-16v-aut-1999-gasolina",
+      "fipeCodigo": "011015-9",
+      "displayName": "Citroën Xantia Break 2.0 8V/GLX 2.0 16V Aut",
+      "valorAtual": 7042,
+      "canonicalPath": "/fipe/citroen/xantia-break-2-0-8v-glx-2-0-16v-aut-1999-011015-9/",
+      "ano": 1999,
+      "marca": "Citroën"
+    },
+    {
+      "vehicleId": "citroen-xantia-break-glx-2-0-16v-mec-1999-gasolina",
+      "fipeCodigo": "011049-3",
+      "displayName": "Citroën Xantia Break GLX 2.0 16V Mec.",
+      "valorAtual": 7336,
+      "canonicalPath": "/fipe/citroen/xantia-break-glx-2-0-16v-mec-1999-011049-3/",
+      "ano": 1999,
+      "marca": "Citroën"
+    },
+    {
+      "vehicleId": "citroen-xantia-glx-2-0-16v-aut-1999-gasolina",
+      "fipeCodigo": "011047-7",
+      "displayName": "Citroën Xantia GLX 2.0 16V Aut.",
+      "valorAtual": 7907,
+      "canonicalPath": "/fipe/citroen/xantia-glx-2-0-16v-aut-1999-011047-7/",
+      "ano": 1999,
+      "marca": "Citroën"
+    },
+    {
+      "vehicleId": "citroen-xantia-activa-3-0-v6-mec-1999-gasolina",
+      "fipeCodigo": "011014-0",
+      "displayName": "Citroën Xantia Activa 3.0 V6 Mec",
+      "valorAtual": 9494,
+      "canonicalPath": "/fipe/citroen/xantia-activa-3-0-v6-mec-1999-011014-0/",
+      "ano": 1999,
+      "marca": "Citroën"
+    },
+    {
+      "vehicleId": "citroen-xantia-exclusive-3-0-v6-1999-gasolina",
+      "fipeCodigo": "011034-5",
+      "displayName": "Citroën Xantia Exclusive 3.0 V6",
+      "valorAtual": 9648,
+      "canonicalPath": "/fipe/citroen/xantia-exclusive-3-0-v6-1999-011034-5/",
+      "ano": 1999,
+      "marca": "Citroën"
+    },
+    {
+      "vehicleId": "citroen-xantia-break-2-0-8v-glx-2-0-16v-aut-1998-gasolina",
+      "fipeCodigo": "011015-9",
+      "displayName": "Citroën Xantia Break 2.0 8V/GLX 2.0 16V Aut",
+      "valorAtual": 6386,
+      "canonicalPath": "/fipe/citroen/xantia-break-2-0-8v-glx-2-0-16v-aut-1998-011015-9/",
+      "ano": 1998,
+      "marca": "Citroën"
+    },
+    {
+      "vehicleId": "citroen-xantia-exclusive-2-0-16v-1998-gasolina",
+      "fipeCodigo": "011042-6",
+      "displayName": "Citroën Xantia Exclusive 2.0 16V",
+      "valorAtual": 6429,
+      "canonicalPath": "/fipe/citroen/xantia-exclusive-2-0-16v-1998-011042-6/",
+      "ano": 1998,
+      "marca": "Citroën"
+    },
+    {
+      "vehicleId": "citroen-xantia-sx-1-8-1998-gasolina",
+      "fipeCodigo": "011016-7",
+      "displayName": "Citroën Xantia SX 1.8",
+      "valorAtual": 6477,
+      "canonicalPath": "/fipe/citroen/xantia-sx-1-8-1998-011016-7/",
+      "ano": 1998,
+      "marca": "Citroën"
+    },
+    {
+      "vehicleId": "citroen-xantia-glx-2-0-16v-mec-1998-gasolina",
+      "fipeCodigo": "011029-9",
+      "displayName": "Citroën Xantia GLX 2.0 16V Mec.",
+      "valorAtual": 6539,
+      "canonicalPath": "/fipe/citroen/xantia-glx-2-0-16v-mec-1998-011029-9/",
+      "ano": 1998,
+      "marca": "Citroën"
+    },
+    {
+      "vehicleId": "citroen-xantia-break-glx-2-0-16v-mec-1998-gasolina",
+      "fipeCodigo": "011049-3",
+      "displayName": "Citroën Xantia Break GLX 2.0 16V Mec.",
+      "valorAtual": 6605,
+      "canonicalPath": "/fipe/citroen/xantia-break-glx-2-0-16v-mec-1998-011049-3/",
+      "ano": 1998,
+      "marca": "Citroën"
+    },
+    {
+      "vehicleId": "citroen-xantia-sx-2-0-8v-16v-mec-aut-1998-gasolina",
+      "fipeCodigo": "011004-3",
+      "displayName": "Citroën Xantia SX 2.0 8V/16V Mec./Aut.",
+      "valorAtual": 7444,
+      "canonicalPath": "/fipe/citroen/xantia-sx-2-0-8v-16v-mec-aut-1998-011004-3/",
+      "ano": 1998,
+      "marca": "Citroën"
+    },
+    {
+      "vehicleId": "citroen-xantia-glx-2-0-16v-aut-1998-gasolina",
+      "fipeCodigo": "011047-7",
+      "displayName": "Citroën Xantia GLX 2.0 16V Aut.",
+      "valorAtual": 7698,
+      "canonicalPath": "/fipe/citroen/xantia-glx-2-0-16v-aut-1998-011047-7/",
+      "ano": 1998,
+      "marca": "Citroën"
+    },
+    {
+      "vehicleId": "citroen-xantia-activa-3-0-v6-mec-1998-gasolina",
+      "fipeCodigo": "011014-0",
+      "displayName": "Citroën Xantia Activa 3.0 V6 Mec",
+      "valorAtual": 8415,
+      "canonicalPath": "/fipe/citroen/xantia-activa-3-0-v6-mec-1998-011014-0/",
+      "ano": 1998,
+      "marca": "Citroën"
+    },
+    {
+      "vehicleId": "citroen-xantia-exclusive-3-0-v6-1998-gasolina",
+      "fipeCodigo": "011034-5",
+      "displayName": "Citroën Xantia Exclusive 3.0 V6",
+      "valorAtual": 8706,
+      "canonicalPath": "/fipe/citroen/xantia-exclusive-3-0-v6-1998-011034-5/",
+      "ano": 1998,
+      "marca": "Citroën"
+    },
+    {
+      "vehicleId": "citroen-xantia-vsx-2-0-1998-gasolina",
+      "fipeCodigo": "011005-1",
+      "displayName": "Citroën Xantia VSX 2.0",
+      "valorAtual": 9459,
+      "canonicalPath": "/fipe/citroen/xantia-vsx-2-0-1998-011005-1/",
+      "ano": 1998,
+      "marca": "Citroën"
+    },
+    {
+      "vehicleId": "citroen-xantia-vsx-2-0-16v-1998-gasolina",
+      "fipeCodigo": "011048-5",
+      "displayName": "Citroën Xantia VSX 2.0 16V",
+      "valorAtual": 9559,
+      "canonicalPath": "/fipe/citroen/xantia-vsx-2-0-16v-1998-011048-5/",
+      "ano": 1998,
+      "marca": "Citroën"
+    },
+    {
+      "vehicleId": "citroen-xantia-sx-1-8-1997-gasolina",
+      "fipeCodigo": "011016-7",
+      "displayName": "Citroën Xantia SX 1.8",
+      "valorAtual": 6004,
+      "canonicalPath": "/fipe/citroen/xantia-sx-1-8-1997-011016-7/",
+      "ano": 1997,
+      "marca": "Citroën"
+    },
+    {
+      "vehicleId": "citroen-xantia-break-glx-2-0-16v-mec-1997-gasolina",
+      "fipeCodigo": "011049-3",
+      "displayName": "Citroën Xantia Break GLX 2.0 16V Mec.",
+      "valorAtual": 6130,
+      "canonicalPath": "/fipe/citroen/xantia-break-glx-2-0-16v-mec-1997-011049-3/",
+      "ano": 1997,
+      "marca": "Citroën"
+    },
+    {
+      "vehicleId": "citroen-xantia-break-2-0-8v-glx-2-0-16v-aut-1997-gasolina",
+      "fipeCodigo": "011015-9",
+      "displayName": "Citroën Xantia Break 2.0 8V/GLX 2.0 16V Aut",
+      "valorAtual": 6230,
+      "canonicalPath": "/fipe/citroen/xantia-break-2-0-8v-glx-2-0-16v-aut-1997-011015-9/",
+      "ano": 1997,
+      "marca": "Citroën"
+    },
+    {
+      "vehicleId": "citroen-xantia-2-0-16v-1997-gasolina",
+      "fipeCodigo": "011043-4",
+      "displayName": "Citroën Xantia 2.0  16V",
+      "valorAtual": 6461,
+      "canonicalPath": "/fipe/citroen/xantia-2-0-16v-1997-011043-4/",
+      "ano": 1997,
+      "marca": "Citroën"
+    },
+    {
+      "vehicleId": "citroen-xantia-sx-2-0-8v-16v-mec-aut-1997-gasolina",
+      "fipeCodigo": "011004-3",
+      "displayName": "Citroën Xantia SX 2.0 8V/16V Mec./Aut.",
+      "valorAtual": 6795,
+      "canonicalPath": "/fipe/citroen/xantia-sx-2-0-8v-16v-mec-aut-1997-011004-3/",
+      "ano": 1997,
+      "marca": "Citroën"
+    },
+    {
+      "vehicleId": "citroen-xantia-activa-2-0-1997-gasolina",
+      "fipeCodigo": "011044-2",
+      "displayName": "Citroën Xantia Activa 2.0",
+      "valorAtual": 7488,
+      "canonicalPath": "/fipe/citroen/xantia-activa-2-0-1997-011044-2/",
+      "ano": 1997,
+      "marca": "Citroën"
+    },
+    {
+      "vehicleId": "citroen-xantia-activa-3-0-v6-mec-1997-gasolina",
+      "fipeCodigo": "011014-0",
+      "displayName": "Citroën Xantia Activa 3.0 V6 Mec",
+      "valorAtual": 7793,
+      "canonicalPath": "/fipe/citroen/xantia-activa-3-0-v6-mec-1997-011014-0/",
+      "ano": 1997,
+      "marca": "Citroën"
+    },
+    {
+      "vehicleId": "citroen-xantia-vsx-2-0-1997-gasolina",
+      "fipeCodigo": "011005-1",
+      "displayName": "Citroën Xantia VSX 2.0",
+      "valorAtual": 8667,
+      "canonicalPath": "/fipe/citroen/xantia-vsx-2-0-1997-011005-1/",
+      "ano": 1997,
+      "marca": "Citroën"
+    },
+    {
+      "vehicleId": "citroen-xantia-vsx-2-0-16v-1997-gasolina",
+      "fipeCodigo": "011048-5",
+      "displayName": "Citroën Xantia VSX 2.0 16V",
+      "valorAtual": 8796,
+      "canonicalPath": "/fipe/citroen/xantia-vsx-2-0-16v-1997-011048-5/",
+      "ano": 1997,
+      "marca": "Citroën"
+    },
+    {
+      "vehicleId": "citroen-xantia-activa-2-0-tb-1997-gasolina",
+      "fipeCodigo": "011045-0",
+      "displayName": "Citroën Xantia Activa 2.0 TB",
+      "valorAtual": 9395,
+      "canonicalPath": "/fipe/citroen/xantia-activa-2-0-tb-1997-011045-0/",
+      "ano": 1997,
+      "marca": "Citroën"
+    },
+    {
+      "vehicleId": "citroen-xantia-sx-1-8-1996-gasolina",
+      "fipeCodigo": "011016-7",
+      "displayName": "Citroën Xantia SX 1.8",
+      "valorAtual": 5290,
+      "canonicalPath": "/fipe/citroen/xantia-sx-1-8-1996-011016-7/",
+      "ano": 1996,
+      "marca": "Citroën"
+    },
+    {
+      "vehicleId": "citroen-xantia-break-glx-2-0-16v-mec-1996-gasolina",
+      "fipeCodigo": "011049-3",
+      "displayName": "Citroën Xantia Break GLX 2.0 16V Mec.",
+      "valorAtual": 5971,
+      "canonicalPath": "/fipe/citroen/xantia-break-glx-2-0-16v-mec-1996-011049-3/",
+      "ano": 1996,
+      "marca": "Citroën"
+    },
+    {
+      "vehicleId": "citroen-xantia-break-2-0-8v-glx-2-0-16v-aut-1996-gasolina",
+      "fipeCodigo": "011015-9",
+      "displayName": "Citroën Xantia Break 2.0 8V/GLX 2.0 16V Aut",
+      "valorAtual": 6048,
+      "canonicalPath": "/fipe/citroen/xantia-break-2-0-8v-glx-2-0-16v-aut-1996-011015-9/",
+      "ano": 1996,
+      "marca": "Citroën"
+    },
+    {
+      "vehicleId": "citroen-xantia-2-0-16v-1996-gasolina",
+      "fipeCodigo": "011043-4",
+      "displayName": "Citroën Xantia 2.0  16V",
+      "valorAtual": 6103,
+      "canonicalPath": "/fipe/citroen/xantia-2-0-16v-1996-011043-4/",
+      "ano": 1996,
+      "marca": "Citroën"
+    },
+    {
+      "vehicleId": "citroen-xantia-sx-2-0-8v-16v-mec-aut-1996-gasolina",
+      "fipeCodigo": "011004-3",
+      "displayName": "Citroën Xantia SX 2.0 8V/16V Mec./Aut.",
+      "valorAtual": 6363,
+      "canonicalPath": "/fipe/citroen/xantia-sx-2-0-8v-16v-mec-aut-1996-011004-3/",
+      "ano": 1996,
+      "marca": "Citroën"
+    },
+    {
+      "vehicleId": "citroen-xantia-vsx-2-0-1996-gasolina",
+      "fipeCodigo": "011005-1",
+      "displayName": "Citroën Xantia VSX 2.0",
+      "valorAtual": 8316,
+      "canonicalPath": "/fipe/citroen/xantia-vsx-2-0-1996-011005-1/",
+      "ano": 1996,
+      "marca": "Citroën"
+    },
+    {
+      "vehicleId": "citroen-xantia-vsx-2-0-16v-1996-gasolina",
+      "fipeCodigo": "011048-5",
+      "displayName": "Citroën Xantia VSX 2.0 16V",
+      "valorAtual": 8436,
+      "canonicalPath": "/fipe/citroen/xantia-vsx-2-0-16v-1996-011048-5/",
+      "ano": 1996,
+      "marca": "Citroën"
+    },
+    {
+      "vehicleId": "citroen-xantia-activa-2-0-tb-1996-gasolina",
+      "fipeCodigo": "011045-0",
+      "displayName": "Citroën Xantia Activa 2.0 TB",
+      "valorAtual": 9117,
+      "canonicalPath": "/fipe/citroen/xantia-activa-2-0-tb-1996-011045-0/",
+      "ano": 1996,
+      "marca": "Citroën"
+    },
+    {
+      "vehicleId": "citroen-xantia-2-0-16v-1995-gasolina",
+      "fipeCodigo": "011043-4",
+      "displayName": "Citroën Xantia 2.0  16V",
+      "valorAtual": 5187,
+      "canonicalPath": "/fipe/citroen/xantia-2-0-16v-1995-011043-4/",
+      "ano": 1995,
+      "marca": "Citroën"
+    },
+    {
+      "vehicleId": "citroen-xantia-break-2-0-8v-glx-2-0-16v-aut-1995-gasolina",
+      "fipeCodigo": "011015-9",
+      "displayName": "Citroën Xantia Break 2.0 8V/GLX 2.0 16V Aut",
+      "valorAtual": 5872,
+      "canonicalPath": "/fipe/citroen/xantia-break-2-0-8v-glx-2-0-16v-aut-1995-011015-9/",
+      "ano": 1995,
+      "marca": "Citroën"
+    },
+    {
+      "vehicleId": "citroen-xantia-sx-2-0-8v-16v-mec-aut-1995-gasolina",
+      "fipeCodigo": "011004-3",
+      "displayName": "Citroën Xantia SX 2.0 8V/16V Mec./Aut.",
+      "valorAtual": 6207,
+      "canonicalPath": "/fipe/citroen/xantia-sx-2-0-8v-16v-mec-aut-1995-011004-3/",
+      "ano": 1995,
+      "marca": "Citroën"
+    },
+    {
+      "vehicleId": "citroen-xantia-vsx-2-0-1995-gasolina",
+      "fipeCodigo": "011005-1",
+      "displayName": "Citroën Xantia VSX 2.0",
+      "valorAtual": 7395,
+      "canonicalPath": "/fipe/citroen/xantia-vsx-2-0-1995-011005-1/",
+      "ano": 1995,
+      "marca": "Citroën"
+    },
+    {
+      "vehicleId": "citroen-xantia-vsx-2-0-16v-1995-gasolina",
+      "fipeCodigo": "011048-5",
+      "displayName": "Citroën Xantia VSX 2.0 16V",
+      "valorAtual": 8011,
+      "canonicalPath": "/fipe/citroen/xantia-vsx-2-0-16v-1995-011048-5/",
+      "ano": 1995,
+      "marca": "Citroën"
+    },
+    {
+      "vehicleId": "citroen-xantia-2-0-16v-1994-gasolina",
+      "fipeCodigo": "011043-4",
+      "displayName": "Citroën Xantia 2.0  16V",
+      "valorAtual": 4858,
+      "canonicalPath": "/fipe/citroen/xantia-2-0-16v-1994-011043-4/",
+      "ano": 1994,
+      "marca": "Citroën"
+    },
+    {
+      "vehicleId": "citroen-xantia-vsx-2-0-1994-gasolina",
+      "fipeCodigo": "011005-1",
+      "displayName": "Citroën Xantia VSX 2.0",
+      "valorAtual": 6600,
+      "canonicalPath": "/fipe/citroen/xantia-vsx-2-0-1994-011005-1/",
+      "ano": 1994,
+      "marca": "Citroën"
+    },
+    {
+      "vehicleId": "citroen-xantia-vsx-2-0-16v-1994-gasolina",
+      "fipeCodigo": "011048-5",
+      "displayName": "Citroën Xantia VSX 2.0 16V",
+      "valorAtual": 6810,
+      "canonicalPath": "/fipe/citroen/xantia-vsx-2-0-16v-1994-011048-5/",
+      "ano": 1994,
+      "marca": "Citroën"
+    }
+  ],
+  "stats": {
+    "total": 56,
+    "precoMin": 4858,
+    "precoMax": 12331,
+    "anos": [
+      2002,
+      2001,
+      2000,
+      1999,
+      1998,
+      1997,
+      1996,
+      1995,
+      1994
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "discov-2",
+  "canonicalPath": "/geracao/land-rover/discov-2/",
+  "titulo": "Geracao discov-2",
+  "descricao": "2 veiculos da geracao discov-2.",
+  "seo": {
+    "title": "Geracao discov-2 - Precos FIPE",
+    "description": "Veiculos da geracao discov-2 na Tabela FIPE.",
+    "h1": "Geracao discov-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/land-rover/discov-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "land-rover-discov-sp-hse-2-0-tb-240cv-die-aut-2018-diesel",
+      "fipeCodigo": "033154-6",
+      "displayName": "Land Rover Discov. Sp. HSE 2.0 TB 240cv Die. Aut",
+      "valorAtual": 125360,
+      "canonicalPath": "/fipe/land-rover/discov-sp-hse-2-0-tb-240cv-die-aut-2018-033154-6/",
+      "ano": 2018,
+      "marca": "Land Rover"
+    },
+    {
+      "vehicleId": "land-rover-discov-sp-hse-2-0-tb-240cv-die-aut-2019-diesel",
+      "fipeCodigo": "033154-6",
+      "displayName": "Land Rover Discov. Sp. HSE 2.0 TB 240cv Die. Aut",
+      "valorAtual": 132240,
+      "canonicalPath": "/fipe/land-rover/discov-sp-hse-2-0-tb-240cv-die-aut-2019-033154-6/",
+      "ano": 2019,
+      "marca": "Land Rover"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "discov-2"
+  }
+}

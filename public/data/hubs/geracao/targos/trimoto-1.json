@@ -1,0 +1,57 @@
+{
+  "tipo": "geracao",
+  "slug": "trimoto-1",
+  "canonicalPath": "/geracao/targos/trimoto-1/",
+  "titulo": "Geracao trimoto-1",
+  "descricao": "4 veiculos da geracao trimoto-1.",
+  "seo": {
+    "title": "Geracao trimoto-1 - Precos FIPE",
+    "description": "Veiculos da geracao trimoto-1 na Tabela FIPE.",
+    "h1": "Geracao trimoto-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/targos/trimoto-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "targos-trimoto-125cc-picape-2010-gasolina",
+      "fipeCodigo": "874001-1",
+      "displayName": "TARGOS TRIMOTO 125cc Picape",
+      "valorAtual": 6431,
+      "canonicalPath": "/fipe/targos/trimoto-125cc-picape-2010-874001-1/",
+      "ano": 2010,
+      "marca": "TARGOS"
+    },
+    {
+      "vehicleId": "targos-trimoto-125cc-picape-2011-gasolina",
+      "fipeCodigo": "874001-1",
+      "displayName": "TARGOS TRIMOTO 125cc Picape",
+      "valorAtual": 6717,
+      "canonicalPath": "/fipe/targos/trimoto-125cc-picape-2011-874001-1/",
+      "ano": 2011,
+      "marca": "TARGOS"
+    },
+    {
+      "vehicleId": "targos-trimoto-125cc-picape-bau-2010-gasolina",
+      "fipeCodigo": "874002-0",
+      "displayName": "TARGOS TRIMOTO 125cc Picape Baú",
+      "valorAtual": 6497,
+      "canonicalPath": "/fipe/targos/trimoto-125cc-picape-bau-2010-874002-0/",
+      "ano": 2010,
+      "marca": "TARGOS"
+    },
+    {
+      "vehicleId": "targos-trimoto-125cc-picape-bau-2011-gasolina",
+      "fipeCodigo": "874002-0",
+      "displayName": "TARGOS TRIMOTO 125cc Picape Baú",
+      "valorAtual": 6829,
+      "canonicalPath": "/fipe/targos/trimoto-125cc-picape-bau-2011-874002-0/",
+      "ano": 2011,
+      "marca": "TARGOS"
+    }
+  ],
+  "stats": {
+    "total": 4
+  },
+  "meta": {
+    "geracaoId": "trimoto-1"
+  }
+}

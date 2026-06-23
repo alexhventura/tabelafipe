@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "cappuccino-2",
+  "canonicalPath": "/geracao/motorino/cappuccino-2/",
+  "titulo": "Geracao cappuccino-2",
+  "descricao": "2 veiculos da geracao cappuccino-2.",
+  "seo": {
+    "title": "Geracao cappuccino-2 - Precos FIPE",
+    "description": "Veiculos da geracao cappuccino-2 na Tabela FIPE.",
+    "h1": "Geracao cappuccino-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/motorino/cappuccino-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "motorino-cappuccino-50cc-2015-gasolina",
+      "fipeCodigo": "881013-3",
+      "displayName": "MOTORINO Cappuccino 50cc",
+      "valorAtual": 7440,
+      "canonicalPath": "/fipe/motorino/cappuccino-50cc-2015-881013-3/",
+      "ano": 2015,
+      "marca": "MOTORINO"
+    },
+    {
+      "vehicleId": "motorino-cappuccino-s-50cc-2015-gasolina",
+      "fipeCodigo": "881014-1",
+      "displayName": "MOTORINO Cappuccino S 50cc",
+      "valorAtual": 7473,
+      "canonicalPath": "/fipe/motorino/cappuccino-s-50cc-2015-881014-1/",
+      "ano": 2015,
+      "marca": "MOTORINO"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "cappuccino-2"
+  }
+}

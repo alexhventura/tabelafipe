@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "m8-1",
+  "canonicalPath": "/geracao/bmw/m8-1/",
+  "titulo": "Geracao m8-1",
+  "descricao": "2 veiculos da geracao m8-1.",
+  "seo": {
+    "title": "Geracao m8-1 - Precos FIPE",
+    "description": "Veiculos da geracao m8-1 na Tabela FIPE.",
+    "h1": "Geracao m8-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/bmw/m8-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "bmw-m8-gran-coupe-comp-first-ed-4-4-v8-32v-2021-gasolina",
+      "fipeCodigo": "009273-8",
+      "displayName": "BMW M8 Gran Coupé Comp.First ED. 4.4 V8 32V",
+      "valorAtual": 758817,
+      "canonicalPath": "/fipe/bmw/m8-gran-coupe-comp-first-ed-4-4-v8-32v-2021-009273-8/",
+      "ano": 2021,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-m8-gran-coupe-competition-4-4-v8-32v-2022-gasolina",
+      "fipeCodigo": "009283-5",
+      "displayName": "BMW M8 Gran Coupé Competition 4.4 V8 32V",
+      "valorAtual": 858108,
+      "canonicalPath": "/fipe/bmw/m8-gran-coupe-competition-4-4-v8-32v-2022-009283-5/",
+      "ano": 2022,
+      "marca": "BMW"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "m8-1"
+  }
+}

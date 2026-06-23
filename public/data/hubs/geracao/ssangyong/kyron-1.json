@@ -1,0 +1,102 @@
+{
+  "tipo": "geracao",
+  "slug": "kyron-1",
+  "canonicalPath": "/geracao/ssangyong/kyron-1/",
+  "titulo": "Geracao kyron-1",
+  "descricao": "9 veiculos da geracao kyron-1.",
+  "seo": {
+    "title": "Geracao kyron-1 - Precos FIPE",
+    "description": "Veiculos da geracao kyron-1 na Tabela FIPE.",
+    "h1": "Geracao kyron-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/ssangyong/kyron-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "ssangyong-kyron-2-0-16v-141cv-tdi-diesel-aut-2009-diesel",
+      "fipeCodigo": "055026-4",
+      "displayName": "SSANGYONG Kyron 2.0 16V 141cv  TDI Diesel Aut.",
+      "valorAtual": 35662,
+      "canonicalPath": "/fipe/ssangyong/kyron-2-0-16v-141cv-tdi-diesel-aut-2009-055026-4/",
+      "ano": 2009,
+      "marca": "SSANGYONG"
+    },
+    {
+      "vehicleId": "ssangyong-kyron-2-0-16v-141cv-tdi-diesel-aut-2010-diesel",
+      "fipeCodigo": "055026-4",
+      "displayName": "SSANGYONG Kyron 2.0 16V 141cv  TDI Diesel Aut.",
+      "valorAtual": 37837,
+      "canonicalPath": "/fipe/ssangyong/kyron-2-0-16v-141cv-tdi-diesel-aut-2010-055026-4/",
+      "ano": 2010,
+      "marca": "SSANGYONG"
+    },
+    {
+      "vehicleId": "ssangyong-kyron-2-0-16v-141cv-tdi-diesel-aut-2011-diesel",
+      "fipeCodigo": "055026-4",
+      "displayName": "SSANGYONG Kyron 2.0 16V 141cv  TDI Diesel Aut.",
+      "valorAtual": 38783,
+      "canonicalPath": "/fipe/ssangyong/kyron-2-0-16v-141cv-tdi-diesel-aut-2011-055026-4/",
+      "ano": 2011,
+      "marca": "SSANGYONG"
+    },
+    {
+      "vehicleId": "ssangyong-kyron-2-0-16v-141cv-tdi-diesel-aut-2012-diesel",
+      "fipeCodigo": "055026-4",
+      "displayName": "SSANGYONG Kyron 2.0 16V 141cv  TDI Diesel Aut.",
+      "valorAtual": 40555,
+      "canonicalPath": "/fipe/ssangyong/kyron-2-0-16v-141cv-tdi-diesel-aut-2012-055026-4/",
+      "ano": 2012,
+      "marca": "SSANGYONG"
+    },
+    {
+      "vehicleId": "ssangyong-kyron-2-7-20v-165cv-tdi-dies-aut-2007-diesel",
+      "fipeCodigo": "055022-1",
+      "displayName": "SSANGYONG Kyron 2.7 20V 165cv TDI Dies. Aut.",
+      "valorAtual": 32319,
+      "canonicalPath": "/fipe/ssangyong/kyron-2-7-20v-165cv-tdi-dies-aut-2007-055022-1/",
+      "ano": 2007,
+      "marca": "SSANGYONG"
+    },
+    {
+      "vehicleId": "ssangyong-kyron-2-7-20v-165cv-tdi-dies-aut-2008-diesel",
+      "fipeCodigo": "055022-1",
+      "displayName": "SSANGYONG Kyron 2.7 20V 165cv TDI Dies. Aut.",
+      "valorAtual": 35600,
+      "canonicalPath": "/fipe/ssangyong/kyron-2-7-20v-165cv-tdi-dies-aut-2008-055022-1/",
+      "ano": 2008,
+      "marca": "SSANGYONG"
+    },
+    {
+      "vehicleId": "ssangyong-kyron-2-7-20v-165cv-tdi-dies-aut-2009-diesel",
+      "fipeCodigo": "055022-1",
+      "displayName": "SSANGYONG Kyron 2.7 20V 165cv TDI Dies. Aut.",
+      "valorAtual": 37269,
+      "canonicalPath": "/fipe/ssangyong/kyron-2-7-20v-165cv-tdi-dies-aut-2009-055022-1/",
+      "ano": 2009,
+      "marca": "SSANGYONG"
+    },
+    {
+      "vehicleId": "ssangyong-kyron-2-7-20v-165cv-tdi-dies-aut-2010-diesel",
+      "fipeCodigo": "055022-1",
+      "displayName": "SSANGYONG Kyron 2.7 20V 165cv TDI Dies. Aut.",
+      "valorAtual": 38401,
+      "canonicalPath": "/fipe/ssangyong/kyron-2-7-20v-165cv-tdi-dies-aut-2010-055022-1/",
+      "ano": 2010,
+      "marca": "SSANGYONG"
+    },
+    {
+      "vehicleId": "ssangyong-kyron-2-7-20v-165cv-tdi-dies-aut-2011-diesel",
+      "fipeCodigo": "055022-1",
+      "displayName": "SSANGYONG Kyron 2.7 20V 165cv TDI Dies. Aut.",
+      "valorAtual": 45864,
+      "canonicalPath": "/fipe/ssangyong/kyron-2-7-20v-165cv-tdi-dies-aut-2011-055022-1/",
+      "ano": 2011,
+      "marca": "SSANGYONG"
+    }
+  ],
+  "stats": {
+    "total": 9
+  },
+  "meta": {
+    "geracaoId": "kyron-1"
+  }
+}

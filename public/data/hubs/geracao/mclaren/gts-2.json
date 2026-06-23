@@ -1,0 +1,120 @@
+{
+  "tipo": "geracao",
+  "slug": "gts-2",
+  "canonicalPath": "/geracao/mclaren/gts-2/",
+  "titulo": "Geracao gts-2",
+  "descricao": "11 veiculos da geracao gts-2.",
+  "seo": {
+    "title": "Geracao gts-2 - Precos FIPE",
+    "description": "Veiculos da geracao gts-2 na Tabela FIPE.",
+    "h1": "Geracao gts-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/mclaren/gts-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "mclaren-gts-coupe-4-0-bi-turbo-v8-2p-2024-gasolina",
+      "fipeCodigo": "090016-8",
+      "displayName": "Mclaren GTS Coupé 4.0 Bi-Turbo V8 2p",
+      "valorAtual": 2623077,
+      "canonicalPath": "/fipe/mclaren/gts-coupe-4-0-bi-turbo-v8-2p-2024-090016-8/",
+      "ano": 2024,
+      "marca": "Mclaren"
+    },
+    {
+      "vehicleId": "mclaren-gts-coupe-4-0-bi-turbo-v8-2p-2025-gasolina",
+      "fipeCodigo": "090016-8",
+      "displayName": "Mclaren GTS Coupé 4.0 Bi-Turbo V8 2p",
+      "valorAtual": 2968961,
+      "canonicalPath": "/fipe/mclaren/gts-coupe-4-0-bi-turbo-v8-2p-2025-090016-8/",
+      "ano": 2025,
+      "marca": "Mclaren"
+    },
+    {
+      "vehicleId": "mclaren-gts-coupe-4-0-bi-turbo-v8-2p-2026-gasolina",
+      "fipeCodigo": "090016-8",
+      "displayName": "Mclaren GTS Coupé 4.0 Bi-Turbo V8 2p",
+      "valorAtual": 3048215,
+      "canonicalPath": "/fipe/mclaren/gts-coupe-4-0-bi-turbo-v8-2p-2026-090016-8/",
+      "ano": 2026,
+      "marca": "Mclaren"
+    },
+    {
+      "vehicleId": "vespa-gts-300-2024-gasolina",
+      "fipeCodigo": "898013-6",
+      "displayName": "VESPA GTS 300",
+      "valorAtual": 71318,
+      "canonicalPath": "/fipe/vespa/gts-300-2024-898013-6/",
+      "ano": 2024,
+      "marca": "VESPA"
+    },
+    {
+      "vehicleId": "vespa-gts-300-2025-gasolina",
+      "fipeCodigo": "898013-6",
+      "displayName": "VESPA GTS 300",
+      "valorAtual": 73525,
+      "canonicalPath": "/fipe/vespa/gts-300-2025-898013-6/",
+      "ano": 2025,
+      "marca": "VESPA"
+    },
+    {
+      "vehicleId": "vespa-gts-super-300-2024-gasolina",
+      "fipeCodigo": "898012-8",
+      "displayName": "VESPA GTS Super 300",
+      "valorAtual": 73446,
+      "canonicalPath": "/fipe/vespa/gts-super-300-2024-898012-8/",
+      "ano": 2024,
+      "marca": "VESPA"
+    },
+    {
+      "vehicleId": "vespa-gts-super-300-2025-gasolina",
+      "fipeCodigo": "898012-8",
+      "displayName": "VESPA GTS Super 300",
+      "valorAtual": 76040,
+      "canonicalPath": "/fipe/vespa/gts-super-300-2025-898012-8/",
+      "ano": 2025,
+      "marca": "VESPA"
+    },
+    {
+      "vehicleId": "vespa-gts-super-sport-300-2024-gasolina",
+      "fipeCodigo": "898010-1",
+      "displayName": "VESPA GTS Super Sport 300",
+      "valorAtual": 75756,
+      "canonicalPath": "/fipe/vespa/gts-super-sport-300-2024-898010-1/",
+      "ano": 2024,
+      "marca": "VESPA"
+    },
+    {
+      "vehicleId": "vespa-gts-super-sport-300-2025-gasolina",
+      "fipeCodigo": "898010-1",
+      "displayName": "VESPA GTS Super Sport 300",
+      "valorAtual": 78206,
+      "canonicalPath": "/fipe/vespa/gts-super-sport-300-2025-898010-1/",
+      "ano": 2025,
+      "marca": "VESPA"
+    },
+    {
+      "vehicleId": "vespa-gts-super-tech-300-2024-gasolina",
+      "fipeCodigo": "898011-0",
+      "displayName": "VESPA GTS Super Tech 300",
+      "valorAtual": 75777,
+      "canonicalPath": "/fipe/vespa/gts-super-tech-300-2024-898011-0/",
+      "ano": 2024,
+      "marca": "VESPA"
+    },
+    {
+      "vehicleId": "vespa-gts-super-tech-300-2025-gasolina",
+      "fipeCodigo": "898011-0",
+      "displayName": "VESPA GTS Super Tech 300",
+      "valorAtual": 78122,
+      "canonicalPath": "/fipe/vespa/gts-super-tech-300-2025-898011-0/",
+      "ano": 2025,
+      "marca": "VESPA"
+    }
+  ],
+  "stats": {
+    "total": 11
+  },
+  "meta": {
+    "geracaoId": "gts-2"
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "tipo": "familia",
+  "slug": "968",
+  "canonicalPath": "/fipe/porsche/968/",
+  "titulo": "Porsche 968 - Tabela FIPE",
+  "descricao": "6 versoes e anos do Porsche 968 na Tabela FIPE.",
+  "seo": {
+    "title": "Porsche 968 - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes Porsche 968. 6 veiculos indexados.",
+    "h1": "Porsche 968 - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/porsche/968/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "porsche-968-coupe-3-0-16v-1995-gasolina",
+      "fipeCodigo": "035017-6",
+      "displayName": "Porsche 968 Coupe 3.0 16V",
+      "valorAtual": 46103,
+      "canonicalPath": "/fipe/porsche/968-coupe-3-0-16v-1995-035017-6/",
+      "ano": 1995,
+      "marca": "Porsche"
+    },
+    {
+      "vehicleId": "porsche-968-cabriolet-3-0-1995-gasolina",
+      "fipeCodigo": "035005-2",
+      "displayName": "Porsche 968 Cabriolet 3.0",
+      "valorAtual": 49715,
+      "canonicalPath": "/fipe/porsche/968-cabriolet-3-0-1995-035005-2/",
+      "ano": 1995,
+      "marca": "Porsche"
+    },
+    {
+      "vehicleId": "porsche-968-coupe-3-0-16v-1994-gasolina",
+      "fipeCodigo": "035017-6",
+      "displayName": "Porsche 968 Coupe 3.0 16V",
+      "valorAtual": 44223,
+      "canonicalPath": "/fipe/porsche/968-coupe-3-0-16v-1994-035017-6/",
+      "ano": 1994,
+      "marca": "Porsche"
+    },
+    {
+      "vehicleId": "porsche-968-cabriolet-3-0-1994-gasolina",
+      "fipeCodigo": "035005-2",
+      "displayName": "Porsche 968 Cabriolet 3.0",
+      "valorAtual": 46932,
+      "canonicalPath": "/fipe/porsche/968-cabriolet-3-0-1994-035005-2/",
+      "ano": 1994,
+      "marca": "Porsche"
+    },
+    {
+      "vehicleId": "porsche-968-coupe-3-0-16v-1993-gasolina",
+      "fipeCodigo": "035017-6",
+      "displayName": "Porsche 968 Coupe 3.0 16V",
+      "valorAtual": 40565,
+      "canonicalPath": "/fipe/porsche/968-coupe-3-0-16v-1993-035017-6/",
+      "ano": 1993,
+      "marca": "Porsche"
+    },
+    {
+      "vehicleId": "porsche-968-coupe-3-0-16v-1992-gasolina",
+      "fipeCodigo": "035017-6",
+      "displayName": "Porsche 968 Coupe 3.0 16V",
+      "valorAtual": 37964,
+      "canonicalPath": "/fipe/porsche/968-coupe-3-0-16v-1992-035017-6/",
+      "ano": 1992,
+      "marca": "Porsche"
+    }
+  ],
+  "stats": {
+    "total": 6,
+    "precoMin": 37964,
+    "precoMax": 49715,
+    "anos": [
+      1995,
+      1994,
+      1993,
+      1992
+    ]
+  }
+}

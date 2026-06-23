@@ -1,0 +1,116 @@
+{
+  "tipo": "familia",
+  "slug": "tc",
+  "canonicalPath": "/fipe/husqvarna/tc/",
+  "titulo": "HUSQVARNA tc - Tabela FIPE",
+  "descricao": "10 versoes e anos do HUSQVARNA tc na Tabela FIPE.",
+  "seo": {
+    "title": "HUSQVARNA tc - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes HUSQVARNA tc. 10 veiculos indexados.",
+    "h1": "HUSQVARNA tc - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/husqvarna/tc/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "husqvarna-tc-50-2026-gasolina",
+      "fipeCodigo": "812040-4",
+      "displayName": "HUSQVARNA TC 50",
+      "valorAtual": 43052,
+      "canonicalPath": "/fipe/husqvarna/tc-50-2026-812040-4/",
+      "ano": 2026,
+      "marca": "HUSQVARNA"
+    },
+    {
+      "vehicleId": "husqvarna-tc-85-2026-gasolina",
+      "fipeCodigo": "812034-0",
+      "displayName": "HUSQVARNA TC 85",
+      "valorAtual": 51456,
+      "canonicalPath": "/fipe/husqvarna/tc-85-2026-812034-0/",
+      "ano": 2026,
+      "marca": "HUSQVARNA"
+    },
+    {
+      "vehicleId": "husqvarna-tc-65-2025-gasolina",
+      "fipeCodigo": "812041-2",
+      "displayName": "HUSQVARNA TC 65",
+      "valorAtual": 42682,
+      "canonicalPath": "/fipe/husqvarna/tc-65-2025-812041-2/",
+      "ano": 2025,
+      "marca": "HUSQVARNA"
+    },
+    {
+      "vehicleId": "husqvarna-tc-85-2025-gasolina",
+      "fipeCodigo": "812034-0",
+      "displayName": "HUSQVARNA TC 85",
+      "valorAtual": 50187,
+      "canonicalPath": "/fipe/husqvarna/tc-85-2025-812034-0/",
+      "ano": 2025,
+      "marca": "HUSQVARNA"
+    },
+    {
+      "vehicleId": "husqvarna-tc-150-2025-gasolina",
+      "fipeCodigo": "812039-0",
+      "displayName": "HUSQVARNA TC 150",
+      "valorAtual": 61272,
+      "canonicalPath": "/fipe/husqvarna/tc-150-2025-812039-0/",
+      "ano": 2025,
+      "marca": "HUSQVARNA"
+    },
+    {
+      "vehicleId": "husqvarna-tc-570-2001-gasolina",
+      "fipeCodigo": "812012-9",
+      "displayName": "HUSQVARNA TC 570",
+      "valorAtual": 9574,
+      "canonicalPath": "/fipe/husqvarna/tc-570-2001-812012-9/",
+      "ano": 2001,
+      "marca": "HUSQVARNA"
+    },
+    {
+      "vehicleId": "husqvarna-tc-50-0-gasolina",
+      "fipeCodigo": "812040-4",
+      "displayName": "HUSQVARNA TC 50",
+      "valorAtual": 46160,
+      "canonicalPath": "/fipe/husqvarna/tc-50-0-812040-4/",
+      "ano": 0,
+      "marca": "HUSQVARNA"
+    },
+    {
+      "vehicleId": "husqvarna-tc-65-0-gasolina",
+      "fipeCodigo": "812041-2",
+      "displayName": "HUSQVARNA TC 65",
+      "valorAtual": 48394,
+      "canonicalPath": "/fipe/husqvarna/tc-65-0-812041-2/",
+      "ano": 0,
+      "marca": "HUSQVARNA"
+    },
+    {
+      "vehicleId": "husqvarna-tc-85-0-gasolina",
+      "fipeCodigo": "812034-0",
+      "displayName": "HUSQVARNA TC 85",
+      "valorAtual": 57394,
+      "canonicalPath": "/fipe/husqvarna/tc-85-0-812034-0/",
+      "ano": 0,
+      "marca": "HUSQVARNA"
+    },
+    {
+      "vehicleId": "husqvarna-tc-150-0-gasolina",
+      "fipeCodigo": "812039-0",
+      "displayName": "HUSQVARNA TC 150",
+      "valorAtual": 69378,
+      "canonicalPath": "/fipe/husqvarna/tc-150-0-812039-0/",
+      "ano": 0,
+      "marca": "HUSQVARNA"
+    }
+  ],
+  "stats": {
+    "total": 10,
+    "precoMin": 9574,
+    "precoMax": 69378,
+    "anos": [
+      2026,
+      2025,
+      2001,
+      0
+    ]
+  }
+}

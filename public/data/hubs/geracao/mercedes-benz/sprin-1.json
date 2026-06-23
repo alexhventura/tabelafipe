@@ -1,0 +1,48 @@
+{
+  "tipo": "geracao",
+  "slug": "sprin-1",
+  "canonicalPath": "/geracao/mercedes-benz/sprin-1/",
+  "titulo": "Geracao sprin-1",
+  "descricao": "3 veiculos da geracao sprin-1.",
+  "seo": {
+    "title": "Geracao sprin-1 - Precos FIPE",
+    "description": "Veiculos da geracao sprin-1 na Tabela FIPE.",
+    "h1": "Geracao sprin-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/mercedes-benz/sprin-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "mercedes-benz-sprin-417-f-vidr-extra-l-t-a-die-e6-0-diesel",
+      "fipeCodigo": "021495-7",
+      "displayName": "Mercedes-Benz Sprin. 417 F Vidr. Extra L.T.A. Die.(E6)",
+      "valorAtual": 382277,
+      "canonicalPath": "/fipe/mercedes-benz/sprin-417-f-vidr-extra-l-t-a-die-e6-0-021495-7/",
+      "ano": 0,
+      "marca": "Mercedes-Benz"
+    },
+    {
+      "vehicleId": "mercedes-benz-sprin-517-van-e-l-p-t-a-20l-die-e6-0-diesel",
+      "fipeCodigo": "021508-2",
+      "displayName": "Mercedes-Benz Sprin. 517 VAN E.L.P.T.A. 20L Die. (E6)",
+      "valorAtual": 463700,
+      "canonicalPath": "/fipe/mercedes-benz/sprin-517-van-e-l-p-t-a-20l-die-e6-0-021508-2/",
+      "ano": 0,
+      "marca": "Mercedes-Benz"
+    },
+    {
+      "vehicleId": "mercedes-benz-sprin-517-van-e-l-p-t-a-21l-die-e6-0-diesel",
+      "fipeCodigo": "021507-4",
+      "displayName": "Mercedes-Benz Sprin. 517 VAN E.L.P.T.A. 21L Die. (E6)",
+      "valorAtual": 467422,
+      "canonicalPath": "/fipe/mercedes-benz/sprin-517-van-e-l-p-t-a-21l-die-e6-0-021507-4/",
+      "ano": 0,
+      "marca": "Mercedes-Benz"
+    }
+  ],
+  "stats": {
+    "total": 3
+  },
+  "meta": {
+    "geracaoId": "sprin-1"
+  }
+}

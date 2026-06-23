@@ -1,0 +1,52 @@
+{
+  "tipo": "familia",
+  "slug": "550",
+  "canonicalPath": "/fipe/mg/550/",
+  "titulo": "MG 550 - Tabela FIPE",
+  "descricao": "3 versoes e anos do MG 550 na Tabela FIPE.",
+  "seo": {
+    "title": "MG 550 - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes MG 550. 3 veiculos indexados.",
+    "h1": "MG 550 - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/mg/550/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "mg-550-1-8-16v-turbo-170cv-aut-2012-gasolina",
+      "fipeCodigo": "076001-3",
+      "displayName": "MG 550 1.8 16V Turbo 170cv Aut.",
+      "valorAtual": 50225,
+      "canonicalPath": "/fipe/mg/550-1-8-16v-turbo-170cv-aut-2012-076001-3/",
+      "ano": 2012,
+      "marca": "MG"
+    },
+    {
+      "vehicleId": "mg-550-1-8-16v-turbo-170cv-aut-2011-gasolina",
+      "fipeCodigo": "076001-3",
+      "displayName": "MG 550 1.8 16V Turbo 170cv Aut.",
+      "valorAtual": 49000,
+      "canonicalPath": "/fipe/mg/550-1-8-16v-turbo-170cv-aut-2011-076001-3/",
+      "ano": 2011,
+      "marca": "MG"
+    },
+    {
+      "vehicleId": "mg-550-1-8-16v-turbo-170cv-aut-2010-gasolina",
+      "fipeCodigo": "076001-3",
+      "displayName": "MG 550 1.8 16V Turbo 170cv Aut.",
+      "valorAtual": 47804,
+      "canonicalPath": "/fipe/mg/550-1-8-16v-turbo-170cv-aut-2010-076001-3/",
+      "ano": 2010,
+      "marca": "MG"
+    }
+  ],
+  "stats": {
+    "total": 3,
+    "precoMin": 47804,
+    "precoMax": 50225,
+    "anos": [
+      2012,
+      2011,
+      2010
+    ]
+  }
+}

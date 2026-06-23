@@ -1,0 +1,42 @@
+{
+  "tipo": "familia",
+  "slug": "7x",
+  "canonicalPath": "/fipe/zeekr/7x/",
+  "titulo": "ZEEKR 7x - Tabela FIPE",
+  "descricao": "2 versoes e anos do ZEEKR 7x na Tabela FIPE.",
+  "seo": {
+    "title": "ZEEKR 7x - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes ZEEKR 7x. 2 veiculos indexados.",
+    "h1": "ZEEKR 7x - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/zeekr/7x/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "zeekr-7x-flagship-awd-2026-eletrico",
+      "fipeCodigo": "301005-8",
+      "displayName": "ZEEKR 7X Flagship AWD",
+      "valorAtual": 415186,
+      "canonicalPath": "/fipe/zeekr/7x-flagship-awd-2026-301005-8/",
+      "ano": 2026,
+      "marca": "ZEEKR"
+    },
+    {
+      "vehicleId": "zeekr-7x-flagship-awd-0-eletrico",
+      "fipeCodigo": "301005-8",
+      "displayName": "ZEEKR 7X Flagship AWD",
+      "valorAtual": 448000,
+      "canonicalPath": "/fipe/zeekr/7x-flagship-awd-0-301005-8/",
+      "ano": 0,
+      "marca": "ZEEKR"
+    }
+  ],
+  "stats": {
+    "total": 2,
+    "precoMin": 415186,
+    "precoMax": 448000,
+    "anos": [
+      2026,
+      0
+    ]
+  }
+}

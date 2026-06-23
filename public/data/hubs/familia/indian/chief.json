@@ -1,0 +1,116 @@
+{
+  "tipo": "familia",
+  "slug": "chief",
+  "canonicalPath": "/fipe/indian/chief/",
+  "titulo": "INDIAN chief - Tabela FIPE",
+  "descricao": "10 versoes e anos do INDIAN chief na Tabela FIPE.",
+  "seo": {
+    "title": "INDIAN chief - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes INDIAN chief. 10 veiculos indexados.",
+    "h1": "INDIAN chief - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/indian/chief/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "indian-chief-2018-gasolina",
+      "fipeCodigo": "883010-0",
+      "displayName": "INDIAN CHIEF",
+      "valorAtual": 65326,
+      "canonicalPath": "/fipe/indian/chief-2018-883010-0/",
+      "ano": 2018,
+      "marca": "INDIAN"
+    },
+    {
+      "vehicleId": "indian-chief-dark-horse-2018-gasolina",
+      "fipeCodigo": "883008-8",
+      "displayName": "INDIAN CHIEF DARK HORSE",
+      "valorAtual": 71250,
+      "canonicalPath": "/fipe/indian/chief-dark-horse-2018-883008-8/",
+      "ano": 2018,
+      "marca": "INDIAN"
+    },
+    {
+      "vehicleId": "indian-chief-springfield-2018-gasolina",
+      "fipeCodigo": "883006-1",
+      "displayName": "INDIAN CHIEF SPRINGFIELD",
+      "valorAtual": 88042,
+      "canonicalPath": "/fipe/indian/chief-springfield-2018-883006-1/",
+      "ano": 2018,
+      "marca": "INDIAN"
+    },
+    {
+      "vehicleId": "indian-chief-classic-2017-gasolina",
+      "fipeCodigo": "883002-9",
+      "displayName": "INDIAN CHIEF CLASSIC",
+      "valorAtual": 77451,
+      "canonicalPath": "/fipe/indian/chief-classic-2017-883002-9/",
+      "ano": 2017,
+      "marca": "INDIAN"
+    },
+    {
+      "vehicleId": "indian-chief-vintage-2017-gasolina",
+      "fipeCodigo": "883003-7",
+      "displayName": "INDIAN CHIEF VINTAGE",
+      "valorAtual": 78146,
+      "canonicalPath": "/fipe/indian/chief-vintage-2017-883003-7/",
+      "ano": 2017,
+      "marca": "INDIAN"
+    },
+    {
+      "vehicleId": "indian-chief-springfield-2017-gasolina",
+      "fipeCodigo": "883006-1",
+      "displayName": "INDIAN CHIEF SPRINGFIELD",
+      "valorAtual": 85894,
+      "canonicalPath": "/fipe/indian/chief-springfield-2017-883006-1/",
+      "ano": 2017,
+      "marca": "INDIAN"
+    },
+    {
+      "vehicleId": "indian-chief-classic-2016-gasolina",
+      "fipeCodigo": "883002-9",
+      "displayName": "INDIAN CHIEF CLASSIC",
+      "valorAtual": 75561,
+      "canonicalPath": "/fipe/indian/chief-classic-2016-883002-9/",
+      "ano": 2016,
+      "marca": "INDIAN"
+    },
+    {
+      "vehicleId": "indian-chief-vintage-2016-gasolina",
+      "fipeCodigo": "883003-7",
+      "displayName": "INDIAN CHIEF VINTAGE",
+      "valorAtual": 76240,
+      "canonicalPath": "/fipe/indian/chief-vintage-2016-883003-7/",
+      "ano": 2016,
+      "marca": "INDIAN"
+    },
+    {
+      "vehicleId": "indian-chief-classic-2015-gasolina",
+      "fipeCodigo": "883002-9",
+      "displayName": "INDIAN CHIEF CLASSIC",
+      "valorAtual": 61482,
+      "canonicalPath": "/fipe/indian/chief-classic-2015-883002-9/",
+      "ano": 2015,
+      "marca": "INDIAN"
+    },
+    {
+      "vehicleId": "indian-chief-vintage-2015-gasolina",
+      "fipeCodigo": "883003-7",
+      "displayName": "INDIAN CHIEF VINTAGE",
+      "valorAtual": 69220,
+      "canonicalPath": "/fipe/indian/chief-vintage-2015-883003-7/",
+      "ano": 2015,
+      "marca": "INDIAN"
+    }
+  ],
+  "stats": {
+    "total": 10,
+    "precoMin": 61482,
+    "precoMax": 88042,
+    "anos": [
+      2018,
+      2017,
+      2016,
+      2015
+    ]
+  }
+}

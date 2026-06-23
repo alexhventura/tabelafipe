@@ -1,0 +1,72 @@
+{
+  "tipo": "familia",
+  "slug": "grand",
+  "canonicalPath": "/fipe/kia-motors/grand/",
+  "titulo": "Kia Motors grand - Tabela FIPE",
+  "descricao": "5 versoes e anos do Kia Motors grand na Tabela FIPE.",
+  "seo": {
+    "title": "Kia Motors grand - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes Kia Motors grand. 5 veiculos indexados.",
+    "h1": "Kia Motors grand - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/kia-motors/grand/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "kia-motors-grand-carnival-ex-3-3-v6-24v-270cv-aut-2021-gasolina",
+      "fipeCodigo": "018089-0",
+      "displayName": "Kia Motors Grand Carnival EX 3.3 V6 24V 270cv Aut.",
+      "valorAtual": 344938,
+      "canonicalPath": "/fipe/kia-motors/grand-carnival-ex-3-3-v6-24v-270cv-aut-2021-018089-0/",
+      "ano": 2021,
+      "marca": "Kia Motors"
+    },
+    {
+      "vehicleId": "kia-motors-grand-carnival-ex-3-3-v6-24v-270cv-aut-2020-gasolina",
+      "fipeCodigo": "018089-0",
+      "displayName": "Kia Motors Grand Carnival EX 3.3 V6 24V 270cv Aut.",
+      "valorAtual": 244071,
+      "canonicalPath": "/fipe/kia-motors/grand-carnival-ex-3-3-v6-24v-270cv-aut-2020-018089-0/",
+      "ano": 2020,
+      "marca": "Kia Motors"
+    },
+    {
+      "vehicleId": "kia-motors-grand-carnival-ex-3-3-v6-24v-270cv-aut-2019-gasolina",
+      "fipeCodigo": "018089-0",
+      "displayName": "Kia Motors Grand Carnival EX 3.3 V6 24V 270cv Aut.",
+      "valorAtual": 238118,
+      "canonicalPath": "/fipe/kia-motors/grand-carnival-ex-3-3-v6-24v-270cv-aut-2019-018089-0/",
+      "ano": 2019,
+      "marca": "Kia Motors"
+    },
+    {
+      "vehicleId": "kia-motors-grand-carnival-ex-3-3-v6-24v-270cv-aut-2018-gasolina",
+      "fipeCodigo": "018089-0",
+      "displayName": "Kia Motors Grand Carnival EX 3.3 V6 24V 270cv Aut.",
+      "valorAtual": 223100,
+      "canonicalPath": "/fipe/kia-motors/grand-carnival-ex-3-3-v6-24v-270cv-aut-2018-018089-0/",
+      "ano": 2018,
+      "marca": "Kia Motors"
+    },
+    {
+      "vehicleId": "kia-motors-grand-carnival-ex-3-3-v6-24v-270cv-aut-2016-gasolina",
+      "fipeCodigo": "018089-0",
+      "displayName": "Kia Motors Grand Carnival EX 3.3 V6 24V 270cv Aut.",
+      "valorAtual": 175818,
+      "canonicalPath": "/fipe/kia-motors/grand-carnival-ex-3-3-v6-24v-270cv-aut-2016-018089-0/",
+      "ano": 2016,
+      "marca": "Kia Motors"
+    }
+  ],
+  "stats": {
+    "total": 5,
+    "precoMin": 175818,
+    "precoMax": 344938,
+    "anos": [
+      2021,
+      2020,
+      2019,
+      2018,
+      2016
+    ]
+  }
+}

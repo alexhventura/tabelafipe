@@ -1,0 +1,42 @@
+{
+  "tipo": "familia",
+  "slug": "318ia",
+  "canonicalPath": "/fipe/bmw/318ia/",
+  "titulo": "BMW 318ia - Tabela FIPE",
+  "descricao": "2 versoes e anos do BMW 318ia na Tabela FIPE.",
+  "seo": {
+    "title": "BMW 318ia - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes BMW 318ia. 2 veiculos indexados.",
+    "h1": "BMW 318ia - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/bmw/318ia/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "bmw-318ia-2-0-16v-136cv-5p-2012-gasolina",
+      "fipeCodigo": "009155-3",
+      "displayName": "BMW 318iA 2.0 16V 136cv 5p",
+      "valorAtual": 60224,
+      "canonicalPath": "/fipe/bmw/318ia-2-0-16v-136cv-5p-2012-009155-3/",
+      "ano": 2012,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-318ia-2-0-16v-136cv-5p-2011-gasolina",
+      "fipeCodigo": "009155-3",
+      "displayName": "BMW 318iA 2.0 16V 136cv 5p",
+      "valorAtual": 55726,
+      "canonicalPath": "/fipe/bmw/318ia-2-0-16v-136cv-5p-2011-009155-3/",
+      "ano": 2011,
+      "marca": "BMW"
+    }
+  ],
+  "stats": {
+    "total": 2,
+    "precoMin": 55726,
+    "precoMax": 60224,
+    "anos": [
+      2012,
+      2011
+    ]
+  }
+}

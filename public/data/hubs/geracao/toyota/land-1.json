@@ -1,0 +1,48 @@
+{
+  "tipo": "geracao",
+  "slug": "land-1",
+  "canonicalPath": "/geracao/toyota/land-1/",
+  "titulo": "Geracao land-1",
+  "descricao": "3 veiculos da geracao land-1.",
+  "seo": {
+    "title": "Geracao land-1 - Precos FIPE",
+    "description": "Veiculos da geracao land-1 na Tabela FIPE.",
+    "h1": "Geracao land-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/toyota/land-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "toyota-land-cruiser-4wd-4-5-24v-1993-gasolina",
+      "fipeCodigo": "002054-0",
+      "displayName": "Toyota Land Cruiser 4WD 4.5 24V",
+      "valorAtual": 13688,
+      "canonicalPath": "/fipe/toyota/land-cruiser-4wd-4-5-24v-1993-002054-0/",
+      "ano": 1993,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-land-cruiser-4wd-4-5-24v-1994-gasolina",
+      "fipeCodigo": "002054-0",
+      "displayName": "Toyota Land Cruiser 4WD 4.5 24V",
+      "valorAtual": 17308,
+      "canonicalPath": "/fipe/toyota/land-cruiser-4wd-4-5-24v-1994-002054-0/",
+      "ano": 1994,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-land-cruiser-4wd-4-5-24v-1995-gasolina",
+      "fipeCodigo": "002054-0",
+      "displayName": "Toyota Land Cruiser 4WD 4.5 24V",
+      "valorAtual": 22008,
+      "canonicalPath": "/fipe/toyota/land-cruiser-4wd-4-5-24v-1995-002054-0/",
+      "ano": 1995,
+      "marca": "Toyota"
+    }
+  ],
+  "stats": {
+    "total": 3
+  },
+  "meta": {
+    "geracaoId": "land-1"
+  }
+}

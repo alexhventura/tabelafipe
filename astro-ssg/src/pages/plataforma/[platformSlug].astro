@@ -1,0 +1,26 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import HubSections from '../../components/HubSections.astro';
+import { getPlatformPaths, loadPlatformHub } from '../../lib/paths.server';
+
+export function getStaticPaths() {
+  return getPlatformPaths().map(({ platformSlug }) => ({
+    params: { platformSlug },
+  }));
+}
+
+const { platformSlug } = Astro.params;
+const hub = loadPlatformHub(platformSlug!);
+if (!hub) throw new Error(`Hub plataforma not found: ${platformSlug}`);
+const seo = hub.seo;
+---
+
+<BaseLayout
+  title={seo.title}
+  description={seo.description}
+  canonical={seo.canonical}
+  og={{ 'og:title': seo.title, 'og:description': seo.description, 'og:url': seo.canonical }}
+  twitter={{ 'twitter:card': 'summary_large_image', 'twitter:title': seo.title, 'twitter:description': seo.description }}
+>
+  <HubSections hub={hub} />
+</BaseLayout>

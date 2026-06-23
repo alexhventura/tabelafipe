@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "legacy-3",
+  "canonicalPath": "/geracao/subaru/legacy-3/",
+  "titulo": "Geracao legacy-3",
+  "descricao": "2 veiculos da geracao legacy-3.",
+  "seo": {
+    "title": "Geracao legacy-3 - Precos FIPE",
+    "description": "Veiculos da geracao legacy-3 na Tabela FIPE.",
+    "h1": "Geracao legacy-3",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/subaru/legacy-3/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "subaru-legacy-3-6-4x4-256cv-aut-2015-gasolina",
+      "fipeCodigo": "027069-5",
+      "displayName": "Subaru Legacy 3.6 4x4 256cv Aut.",
+      "valorAtual": 90962,
+      "canonicalPath": "/fipe/subaru/legacy-3-6-4x4-256cv-aut-2015-027069-5/",
+      "ano": 2015,
+      "marca": "Subaru"
+    },
+    {
+      "vehicleId": "subaru-legacy-gt-2-5-16v-280cv-aut-2014-gasolina",
+      "fipeCodigo": "027059-8",
+      "displayName": "Subaru Legacy GT 2.5  16V 280cv Aut.",
+      "valorAtual": 88740,
+      "canonicalPath": "/fipe/subaru/legacy-gt-2-5-16v-280cv-aut-2014-027059-8/",
+      "ano": 2014,
+      "marca": "Subaru"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "legacy-3"
+  }
+}

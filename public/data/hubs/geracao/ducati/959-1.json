@@ -1,0 +1,48 @@
+{
+  "tipo": "geracao",
+  "slug": "959-1",
+  "canonicalPath": "/geracao/ducati/959-1/",
+  "titulo": "Geracao 959-1",
+  "descricao": "3 veiculos da geracao 959-1.",
+  "seo": {
+    "title": "Geracao 959-1 - Precos FIPE",
+    "description": "Veiculos da geracao 959-1 na Tabela FIPE.",
+    "h1": "Geracao 959-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/ducati/959-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "ducati-959-panigale-2017-gasolina",
+      "fipeCodigo": "808072-0",
+      "displayName": "DUCATI 959 Panigale",
+      "valorAtual": 53362,
+      "canonicalPath": "/fipe/ducati/959-panigale-2017-808072-0/",
+      "ano": 2017,
+      "marca": "DUCATI"
+    },
+    {
+      "vehicleId": "ducati-959-panigale-2018-gasolina",
+      "fipeCodigo": "808072-0",
+      "displayName": "DUCATI 959 Panigale",
+      "valorAtual": 57716,
+      "canonicalPath": "/fipe/ducati/959-panigale-2018-808072-0/",
+      "ano": 2018,
+      "marca": "DUCATI"
+    },
+    {
+      "vehicleId": "ducati-959-panigale-2019-gasolina",
+      "fipeCodigo": "808072-0",
+      "displayName": "DUCATI 959 Panigale",
+      "valorAtual": 60749,
+      "canonicalPath": "/fipe/ducati/959-panigale-2019-808072-0/",
+      "ano": 2019,
+      "marca": "DUCATI"
+    }
+  ],
+  "stats": {
+    "total": 3
+  },
+  "meta": {
+    "geracaoId": "959-1"
+  }
+}

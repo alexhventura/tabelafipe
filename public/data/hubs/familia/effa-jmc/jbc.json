@@ -1,0 +1,42 @@
+{
+  "tipo": "familia",
+  "slug": "jbc",
+  "canonicalPath": "/fipe/effa-jmc/jbc/",
+  "titulo": "EFFA-JMC jbc - Tabela FIPE",
+  "descricao": "2 versoes e anos do EFFA-JMC jbc na Tabela FIPE.",
+  "seo": {
+    "title": "EFFA-JMC jbc - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes EFFA-JMC jbc. 2 veiculos indexados.",
+    "h1": "EFFA-JMC jbc - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/effa-jmc/jbc/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "effa-jmc-jbc-3-2-turbo-intercooler-2p-diesel-2012-diesel",
+      "fipeCodigo": "522003-3",
+      "displayName": "EFFA-JMC JBC 3.2 Turbo Intercooler 2p (diesel)",
+      "valorAtual": 28033,
+      "canonicalPath": "/fipe/effa-jmc/jbc-3-2-turbo-intercooler-2p-diesel-2012-522003-3/",
+      "ano": 2012,
+      "marca": "EFFA-JMC"
+    },
+    {
+      "vehicleId": "effa-jmc-jbc-3-2-turbo-intercooler-2p-diesel-2011-diesel",
+      "fipeCodigo": "522003-3",
+      "displayName": "EFFA-JMC JBC 3.2 Turbo Intercooler 2p (diesel)",
+      "valorAtual": 27349,
+      "canonicalPath": "/fipe/effa-jmc/jbc-3-2-turbo-intercooler-2p-diesel-2011-522003-3/",
+      "ano": 2011,
+      "marca": "EFFA-JMC"
+    }
+  ],
+  "stats": {
+    "total": 2,
+    "precoMin": 27349,
+    "precoMax": 28033,
+    "anos": [
+      2012,
+      2011
+    ]
+  }
+}

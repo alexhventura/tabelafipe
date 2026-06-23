@@ -1,0 +1,75 @@
+{
+  "tipo": "geracao",
+  "slug": "g-4",
+  "canonicalPath": "/geracao/mercedes-benz/g-4/",
+  "titulo": "Geracao g-4",
+  "descricao": "6 veiculos da geracao g-4.",
+  "seo": {
+    "title": "Geracao g-4 - Precos FIPE",
+    "description": "Veiculos da geracao g-4 na Tabela FIPE.",
+    "h1": "Geracao g-4",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/mercedes-benz/g-4/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "mercedes-benz-g-63-amg-4m-4-0-v8-bi-tb-aut-hib-2025-hibrido",
+      "fipeCodigo": "021549-0",
+      "displayName": "Mercedes-Benz G-63 AMG 4M 4.0 V8 Bi-TB Aut. (Híb.)",
+      "valorAtual": 2040201,
+      "canonicalPath": "/fipe/mercedes-benz/g-63-amg-4m-4-0-v8-bi-tb-aut-hib-2025-021549-0/",
+      "ano": 2025,
+      "marca": "Mercedes-Benz"
+    },
+    {
+      "vehicleId": "mercedes-benz-g-63-amg-4m-4-0-v8-bi-tb-aut-hib-2026-hibrido",
+      "fipeCodigo": "021549-0",
+      "displayName": "Mercedes-Benz G-63 AMG 4M 4.0 V8 Bi-TB Aut. (Híb.)",
+      "valorAtual": 2098854,
+      "canonicalPath": "/fipe/mercedes-benz/g-63-amg-4m-4-0-v8-bi-tb-aut-hib-2026-021549-0/",
+      "ano": 2026,
+      "marca": "Mercedes-Benz"
+    },
+    {
+      "vehicleId": "mercedes-benz-g-63-amg-4m-man-4-0-v8-bi-tb-aut-hib-2025-gasolina",
+      "fipeCodigo": "021557-0",
+      "displayName": "Mercedes-Benz G-63 AMG 4M Man.4.0 V8 Bi-TB Aut. (Híb.)",
+      "valorAtual": 2110201,
+      "canonicalPath": "/fipe/mercedes-benz/g-63-amg-4m-man-4-0-v8-bi-tb-aut-hib-2025-021557-0/",
+      "ano": 2025,
+      "marca": "Mercedes-Benz"
+    },
+    {
+      "vehicleId": "mercedes-benz-g-63-amg-4m-man-4-0-v8-bi-tb-aut-hib-2026-gasolina",
+      "fipeCodigo": "021557-0",
+      "displayName": "Mercedes-Benz G-63 AMG 4M Man.4.0 V8 Bi-TB Aut. (Híb.)",
+      "valorAtual": 2168541,
+      "canonicalPath": "/fipe/mercedes-benz/g-63-amg-4m-man-4-0-v8-bi-tb-aut-hib-2026-021557-0/",
+      "ano": 2026,
+      "marca": "Mercedes-Benz"
+    },
+    {
+      "vehicleId": "mercedes-benz-g-63-amg-4matic-4-0-v8-bi-tb-585cv-aut-2023-gasolina",
+      "fipeCodigo": "021395-0",
+      "displayName": "Mercedes-Benz G-63 AMG 4MATIC 4.0 V8 Bi-TB 585cv Aut.",
+      "valorAtual": 2004679,
+      "canonicalPath": "/fipe/mercedes-benz/g-63-amg-4matic-4-0-v8-bi-tb-585cv-aut-2023-021395-0/",
+      "ano": 2023,
+      "marca": "Mercedes-Benz"
+    },
+    {
+      "vehicleId": "mercedes-benz-g-63-amg-4matic-4-0-v8-bi-tb-585cv-aut-2024-gasolina",
+      "fipeCodigo": "021395-0",
+      "displayName": "Mercedes-Benz G-63 AMG 4MATIC 4.0 V8 Bi-TB 585cv Aut.",
+      "valorAtual": 2165249,
+      "canonicalPath": "/fipe/mercedes-benz/g-63-amg-4matic-4-0-v8-bi-tb-585cv-aut-2024-021395-0/",
+      "ano": 2024,
+      "marca": "Mercedes-Benz"
+    }
+  ],
+  "stats": {
+    "total": 6
+  },
+  "meta": {
+    "geracaoId": "g-4"
+  }
+}

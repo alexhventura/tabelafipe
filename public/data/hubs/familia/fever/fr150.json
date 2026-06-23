@@ -1,0 +1,62 @@
+{
+  "tipo": "familia",
+  "slug": "fr150",
+  "canonicalPath": "/fipe/fever/fr150/",
+  "titulo": "FEVER fr150 - Tabela FIPE",
+  "descricao": "4 versoes e anos do FEVER fr150 na Tabela FIPE.",
+  "seo": {
+    "title": "FEVER fr150 - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes FEVER fr150. 4 veiculos indexados.",
+    "h1": "FEVER fr150 - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/fever/fr150/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "fever-fr150-frigo-eletrica-2026-eletrico",
+      "fipeCodigo": "897005-0",
+      "displayName": "FEVER FR150 FRIGO (Elétrica)",
+      "valorAtual": 68812,
+      "canonicalPath": "/fipe/fever/fr150-frigo-eletrica-2026-897005-0/",
+      "ano": 2026,
+      "marca": "FEVER"
+    },
+    {
+      "vehicleId": "fever-fr150-frigo-eletrica-2024-eletrico",
+      "fipeCodigo": "897005-0",
+      "displayName": "FEVER FR150 FRIGO (Elétrica)",
+      "valorAtual": 66114,
+      "canonicalPath": "/fipe/fever/fr150-frigo-eletrica-2024-897005-0/",
+      "ano": 2024,
+      "marca": "FEVER"
+    },
+    {
+      "vehicleId": "fever-fr150-frigo-eletrica-2023-eletrico",
+      "fipeCodigo": "897005-0",
+      "displayName": "FEVER FR150 FRIGO (Elétrica)",
+      "valorAtual": 64163,
+      "canonicalPath": "/fipe/fever/fr150-frigo-eletrica-2023-897005-0/",
+      "ano": 2023,
+      "marca": "FEVER"
+    },
+    {
+      "vehicleId": "fever-fr150-frigo-eletrica-0-eletrico",
+      "fipeCodigo": "897005-0",
+      "displayName": "FEVER FR150 FRIGO (Elétrica)",
+      "valorAtual": 73849,
+      "canonicalPath": "/fipe/fever/fr150-frigo-eletrica-0-897005-0/",
+      "ano": 0,
+      "marca": "FEVER"
+    }
+  ],
+  "stats": {
+    "total": 4,
+    "precoMin": 64163,
+    "precoMax": 73849,
+    "anos": [
+      2026,
+      2024,
+      2023,
+      0
+    ]
+  }
+}

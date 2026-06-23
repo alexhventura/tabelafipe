@@ -1,0 +1,42 @@
+{
+  "tipo": "familia",
+  "slug": "ewonder",
+  "canonicalPath": "/fipe/foton/ewonder/",
+  "titulo": "FOTON ewonder - Tabela FIPE",
+  "descricao": "2 versoes e anos do FOTON ewonder na Tabela FIPE.",
+  "seo": {
+    "title": "FOTON ewonder - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes FOTON ewonder. 2 veiculos indexados.",
+    "h1": "FOTON ewonder - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/foton/ewonder/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "foton-ewonder-chassi-2026-eletrico",
+      "fipeCodigo": "086016-6",
+      "displayName": "FOTON eWonder Chassi",
+      "valorAtual": 197785,
+      "canonicalPath": "/fipe/foton/ewonder-chassi-2026-086016-6/",
+      "ano": 2026,
+      "marca": "FOTON"
+    },
+    {
+      "vehicleId": "foton-ewonder-chassi-0-eletrico",
+      "fipeCodigo": "086016-6",
+      "displayName": "FOTON eWonder Chassi",
+      "valorAtual": 235900,
+      "canonicalPath": "/fipe/foton/ewonder-chassi-0-086016-6/",
+      "ano": 0,
+      "marca": "FOTON"
+    }
+  ],
+  "stats": {
+    "total": 2,
+    "precoMin": 197785,
+    "precoMax": 235900,
+    "anos": [
+      2026,
+      0
+    ]
+  }
+}

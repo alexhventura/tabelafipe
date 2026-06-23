@@ -1,0 +1,48 @@
+{
+  "tipo": "geracao",
+  "slug": "zip-1",
+  "canonicalPath": "/geracao/piaggio/zip-1/",
+  "titulo": "Geracao zip-1",
+  "descricao": "3 veiculos da geracao zip-1.",
+  "seo": {
+    "title": "Geracao zip-1 - Precos FIPE",
+    "description": "Veiculos da geracao zip-1 na Tabela FIPE.",
+    "h1": "Geracao zip-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/piaggio/zip-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "piaggio-zip-50-1998-gasolina",
+      "fipeCodigo": "822013-1",
+      "displayName": "PIAGGIO ZIP 50",
+      "valorAtual": 1609,
+      "canonicalPath": "/fipe/piaggio/zip-50-1998-822013-1/",
+      "ano": 1998,
+      "marca": "PIAGGIO"
+    },
+    {
+      "vehicleId": "piaggio-zip-50-1999-gasolina",
+      "fipeCodigo": "822013-1",
+      "displayName": "PIAGGIO ZIP 50",
+      "valorAtual": 1671,
+      "canonicalPath": "/fipe/piaggio/zip-50-1999-822013-1/",
+      "ano": 1999,
+      "marca": "PIAGGIO"
+    },
+    {
+      "vehicleId": "piaggio-zip-50-2000-gasolina",
+      "fipeCodigo": "822013-1",
+      "displayName": "PIAGGIO ZIP 50",
+      "valorAtual": 1719,
+      "canonicalPath": "/fipe/piaggio/zip-50-2000-822013-1/",
+      "ano": 2000,
+      "marca": "PIAGGIO"
+    }
+  ],
+  "stats": {
+    "total": 3
+  },
+  "meta": {
+    "geracaoId": "zip-1"
+  }
+}

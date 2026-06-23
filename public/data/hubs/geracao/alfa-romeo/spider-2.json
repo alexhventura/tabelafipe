@@ -1,0 +1,48 @@
+{
+  "tipo": "geracao",
+  "slug": "spider-2",
+  "canonicalPath": "/geracao/alfa-romeo/spider-2/",
+  "titulo": "Geracao spider-2",
+  "descricao": "3 veiculos da geracao spider-2.",
+  "seo": {
+    "title": "Geracao spider-2 - Precos FIPE",
+    "description": "Veiculos da geracao spider-2 na Tabela FIPE.",
+    "h1": "Geracao spider-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/alfa-romeo/spider-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "alfa-romeo-spider-2-0-3-0-1995-gasolina",
+      "fipeCodigo": "006007-0",
+      "displayName": "Alfa Romeo Spider 2.0/3.0",
+      "valorAtual": 94171,
+      "canonicalPath": "/fipe/alfa-romeo/spider-2-0-3-0-1995-006007-0/",
+      "ano": 1995,
+      "marca": "Alfa Romeo"
+    },
+    {
+      "vehicleId": "alfa-romeo-spider-2-0-3-0-1996-gasolina",
+      "fipeCodigo": "006007-0",
+      "displayName": "Alfa Romeo Spider 2.0/3.0",
+      "valorAtual": 133088,
+      "canonicalPath": "/fipe/alfa-romeo/spider-2-0-3-0-1996-006007-0/",
+      "ano": 1996,
+      "marca": "Alfa Romeo"
+    },
+    {
+      "vehicleId": "alfa-romeo-spider-2-0-3-0-1997-gasolina",
+      "fipeCodigo": "006007-0",
+      "displayName": "Alfa Romeo Spider 2.0/3.0",
+      "valorAtual": 136416,
+      "canonicalPath": "/fipe/alfa-romeo/spider-2-0-3-0-1997-006007-0/",
+      "ano": 1997,
+      "marca": "Alfa Romeo"
+    }
+  ],
+  "stats": {
+    "total": 3
+  },
+  "meta": {
+    "geracaoId": "spider-2"
+  }
+}

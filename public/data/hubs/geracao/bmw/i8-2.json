@@ -1,0 +1,48 @@
+{
+  "tipo": "geracao",
+  "slug": "i8-2",
+  "canonicalPath": "/geracao/bmw/i8-2/",
+  "titulo": "Geracao i8-2",
+  "descricao": "3 veiculos da geracao i8-2.",
+  "seo": {
+    "title": "Geracao i8-2 - Precos FIPE",
+    "description": "Veiculos da geracao i8-2 na Tabela FIPE.",
+    "h1": "Geracao i8-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/bmw/i8-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "bmw-i8-road-e-drive-1-5-tb-12v-aut-hib-2019-hibrido",
+      "fipeCodigo": "009259-2",
+      "displayName": "BMW i8 Road. e-Drive 1.5 TB 12V Aut. (Híb.)",
+      "valorAtual": 740449,
+      "canonicalPath": "/fipe/bmw/i8-road-e-drive-1-5-tb-12v-aut-hib-2019-009259-2/",
+      "ano": 2019,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-i8-road-e-drive-1-5-tb-12v-aut-hib-2020-hibrido",
+      "fipeCodigo": "009259-2",
+      "displayName": "BMW i8 Road. e-Drive 1.5 TB 12V Aut. (Híb.)",
+      "valorAtual": 808664,
+      "canonicalPath": "/fipe/bmw/i8-road-e-drive-1-5-tb-12v-aut-hib-2020-009259-2/",
+      "ano": 2020,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-i8-e-drive-1-5-tb-12v-aut-hibrido-2020-hibrido",
+      "fipeCodigo": "009197-9",
+      "displayName": "BMW i8 e-Drive 1.5 TB 12V  Aut. (Híbrido)",
+      "valorAtual": 819764,
+      "canonicalPath": "/fipe/bmw/i8-e-drive-1-5-tb-12v-aut-hibrido-2020-009197-9/",
+      "ano": 2020,
+      "marca": "BMW"
+    }
+  ],
+  "stats": {
+    "total": 3
+  },
+  "meta": {
+    "geracaoId": "i8-2"
+  }
+}

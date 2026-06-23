@@ -1,0 +1,84 @@
+{
+  "tipo": "geracao",
+  "slug": "528ia-2",
+  "canonicalPath": "/geracao/bmw/528ia-2/",
+  "titulo": "Geracao 528ia-2",
+  "descricao": "7 veiculos da geracao 528ia-2.",
+  "seo": {
+    "title": "Geracao 528ia-2 - Precos FIPE",
+    "description": "Veiculos da geracao 528ia-2 na Tabela FIPE.",
+    "h1": "Geracao 528ia-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/bmw/528ia-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "bmw-528ia-2-0-turbo-16v-245cv-4p-2012-gasolina",
+      "fipeCodigo": "009168-5",
+      "displayName": "BMW 528iA 2.0 Turbo 16V 245cv 4p",
+      "valorAtual": 87138,
+      "canonicalPath": "/fipe/bmw/528ia-2-0-turbo-16v-245cv-4p-2012-009168-5/",
+      "ano": 2012,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-528ia-2-0-turbo-16v-245cv-4p-2013-gasolina",
+      "fipeCodigo": "009168-5",
+      "displayName": "BMW 528iA 2.0 Turbo 16V 245cv 4p",
+      "valorAtual": 96679,
+      "canonicalPath": "/fipe/bmw/528ia-2-0-turbo-16v-245cv-4p-2013-009168-5/",
+      "ano": 2013,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-528ia-2-0-turbo-16v-245cv-4p-2014-gasolina",
+      "fipeCodigo": "009168-5",
+      "displayName": "BMW 528iA 2.0 Turbo 16V 245cv 4p",
+      "valorAtual": 109017,
+      "canonicalPath": "/fipe/bmw/528ia-2-0-turbo-16v-245cv-4p-2014-009168-5/",
+      "ano": 2014,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-528ia-m-sport-2-0-turbo-16v-245cv-4p-2013-gasolina",
+      "fipeCodigo": "009183-9",
+      "displayName": "BMW 528iA M Sport 2.0 Turbo 16V 245cv 4p",
+      "valorAtual": 100233,
+      "canonicalPath": "/fipe/bmw/528ia-m-sport-2-0-turbo-16v-245cv-4p-2013-009183-9/",
+      "ano": 2013,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-528ia-m-sport-2-0-turbo-16v-245cv-4p-2014-gasolina",
+      "fipeCodigo": "009183-9",
+      "displayName": "BMW 528iA M Sport 2.0 Turbo 16V 245cv 4p",
+      "valorAtual": 113946,
+      "canonicalPath": "/fipe/bmw/528ia-m-sport-2-0-turbo-16v-245cv-4p-2014-009183-9/",
+      "ano": 2014,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-528ia-m-sport-2-0-turbo-16v-245cv-4p-2015-gasolina",
+      "fipeCodigo": "009183-9",
+      "displayName": "BMW 528iA M Sport 2.0 Turbo 16V 245cv 4p",
+      "valorAtual": 116795,
+      "canonicalPath": "/fipe/bmw/528ia-m-sport-2-0-turbo-16v-245cv-4p-2015-009183-9/",
+      "ano": 2015,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-528ia-m-sport-2-0-turbo-16v-245cv-4p-2016-gasolina",
+      "fipeCodigo": "009183-9",
+      "displayName": "BMW 528iA M Sport 2.0 Turbo 16V 245cv 4p",
+      "valorAtual": 128755,
+      "canonicalPath": "/fipe/bmw/528ia-m-sport-2-0-turbo-16v-245cv-4p-2016-009183-9/",
+      "ano": 2016,
+      "marca": "BMW"
+    }
+  ],
+  "stats": {
+    "total": 7
+  },
+  "meta": {
+    "geracaoId": "528ia-2"
+  }
+}

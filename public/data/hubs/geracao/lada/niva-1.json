@@ -1,0 +1,120 @@
+{
+  "tipo": "geracao",
+  "slug": "niva-1",
+  "canonicalPath": "/geracao/lada/niva-1/",
+  "titulo": "Geracao niva-1",
+  "descricao": "11 veiculos da geracao niva-1.",
+  "seo": {
+    "title": "Geracao niva-1 - Precos FIPE",
+    "description": "Veiculos da geracao niva-1 na Tabela FIPE.",
+    "h1": "Geracao niva-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/lada/niva-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "lada-niva-1-6-rc-pantanal-4x4-1991-gasolina",
+      "fipeCodigo": "019003-9",
+      "displayName": "Lada Niva 1.6 RC/ Pantanal 4x4",
+      "valorAtual": 19638,
+      "canonicalPath": "/fipe/lada/niva-1-6-rc-pantanal-4x4-1991-019003-9/",
+      "ano": 1991,
+      "marca": "Lada"
+    },
+    {
+      "vehicleId": "lada-niva-1-6-rc-pantanal-4x4-1992-gasolina",
+      "fipeCodigo": "019003-9",
+      "displayName": "Lada Niva 1.6 RC/ Pantanal 4x4",
+      "valorAtual": 20129,
+      "canonicalPath": "/fipe/lada/niva-1-6-rc-pantanal-4x4-1992-019003-9/",
+      "ano": 1992,
+      "marca": "Lada"
+    },
+    {
+      "vehicleId": "lada-niva-1-6-rc-pantanal-4x4-1993-gasolina",
+      "fipeCodigo": "019003-9",
+      "displayName": "Lada Niva 1.6 RC/ Pantanal 4x4",
+      "valorAtual": 20870,
+      "canonicalPath": "/fipe/lada/niva-1-6-rc-pantanal-4x4-1993-019003-9/",
+      "ano": 1993,
+      "marca": "Lada"
+    },
+    {
+      "vehicleId": "lada-niva-1-6-rc-pantanal-4x4-1994-gasolina",
+      "fipeCodigo": "019003-9",
+      "displayName": "Lada Niva 1.6 RC/ Pantanal 4x4",
+      "valorAtual": 21507,
+      "canonicalPath": "/fipe/lada/niva-1-6-rc-pantanal-4x4-1994-019003-9/",
+      "ano": 1994,
+      "marca": "Lada"
+    },
+    {
+      "vehicleId": "lada-niva-1-6-rc-pantanal-4x4-1995-gasolina",
+      "fipeCodigo": "019003-9",
+      "displayName": "Lada Niva 1.6 RC/ Pantanal 4x4",
+      "valorAtual": 22111,
+      "canonicalPath": "/fipe/lada/niva-1-6-rc-pantanal-4x4-1995-019003-9/",
+      "ano": 1995,
+      "marca": "Lada"
+    },
+    {
+      "vehicleId": "lada-niva-1-6-rc-pantanal-4x4-1996-gasolina",
+      "fipeCodigo": "019003-9",
+      "displayName": "Lada Niva 1.6 RC/ Pantanal 4x4",
+      "valorAtual": 22734,
+      "canonicalPath": "/fipe/lada/niva-1-6-rc-pantanal-4x4-1996-019003-9/",
+      "ano": 1996,
+      "marca": "Lada"
+    },
+    {
+      "vehicleId": "lada-niva-1-6-cd-4x4-1991-gasolina",
+      "fipeCodigo": "019007-1",
+      "displayName": "Lada Niva 1.6/ CD 4x4",
+      "valorAtual": 21920,
+      "canonicalPath": "/fipe/lada/niva-1-6-cd-4x4-1991-019007-1/",
+      "ano": 1991,
+      "marca": "Lada"
+    },
+    {
+      "vehicleId": "lada-niva-1-6-cd-4x4-1992-gasolina",
+      "fipeCodigo": "019007-1",
+      "displayName": "Lada Niva 1.6/ CD 4x4",
+      "valorAtual": 22468,
+      "canonicalPath": "/fipe/lada/niva-1-6-cd-4x4-1992-019007-1/",
+      "ano": 1992,
+      "marca": "Lada"
+    },
+    {
+      "vehicleId": "lada-niva-1-6-cd-4x4-1993-gasolina",
+      "fipeCodigo": "019007-1",
+      "displayName": "Lada Niva 1.6/ CD 4x4",
+      "valorAtual": 23671,
+      "canonicalPath": "/fipe/lada/niva-1-6-cd-4x4-1993-019007-1/",
+      "ano": 1993,
+      "marca": "Lada"
+    },
+    {
+      "vehicleId": "lada-niva-1-6-cd-4x4-1994-gasolina",
+      "fipeCodigo": "019007-1",
+      "displayName": "Lada Niva 1.6/ CD 4x4",
+      "valorAtual": 24263,
+      "canonicalPath": "/fipe/lada/niva-1-6-cd-4x4-1994-019007-1/",
+      "ano": 1994,
+      "marca": "Lada"
+    },
+    {
+      "vehicleId": "lada-niva-1-6-cd-4x4-1995-gasolina",
+      "fipeCodigo": "019007-1",
+      "displayName": "Lada Niva 1.6/ CD 4x4",
+      "valorAtual": 26558,
+      "canonicalPath": "/fipe/lada/niva-1-6-cd-4x4-1995-019007-1/",
+      "ano": 1995,
+      "marca": "Lada"
+    }
+  ],
+  "stats": {
+    "total": 11
+  },
+  "meta": {
+    "geracaoId": "niva-1"
+  }
+}

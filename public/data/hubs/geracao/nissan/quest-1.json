@@ -1,0 +1,66 @@
+{
+  "tipo": "geracao",
+  "slug": "quest-1",
+  "canonicalPath": "/geracao/nissan/quest-1/",
+  "titulo": "Geracao quest-1",
+  "descricao": "5 veiculos da geracao quest-1.",
+  "seo": {
+    "title": "Geracao quest-1 - Precos FIPE",
+    "description": "Veiculos da geracao quest-1 na Tabela FIPE.",
+    "h1": "Geracao quest-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/nissan/quest-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "nissan-quest-gxe-gle-ser-1993-gasolina",
+      "fipeCodigo": "023007-3",
+      "displayName": "Nissan Quest GXE/ GLE/ SER",
+      "valorAtual": 17532,
+      "canonicalPath": "/fipe/nissan/quest-gxe-gle-ser-1993-023007-3/",
+      "ano": 1993,
+      "marca": "Nissan"
+    },
+    {
+      "vehicleId": "nissan-quest-gxe-gle-ser-1994-gasolina",
+      "fipeCodigo": "023007-3",
+      "displayName": "Nissan Quest GXE/ GLE/ SER",
+      "valorAtual": 17971,
+      "canonicalPath": "/fipe/nissan/quest-gxe-gle-ser-1994-023007-3/",
+      "ano": 1994,
+      "marca": "Nissan"
+    },
+    {
+      "vehicleId": "nissan-quest-gxe-gle-ser-1995-gasolina",
+      "fipeCodigo": "023007-3",
+      "displayName": "Nissan Quest GXE/ GLE/ SER",
+      "valorAtual": 18995,
+      "canonicalPath": "/fipe/nissan/quest-gxe-gle-ser-1995-023007-3/",
+      "ano": 1995,
+      "marca": "Nissan"
+    },
+    {
+      "vehicleId": "nissan-quest-gxe-gle-ser-1996-gasolina",
+      "fipeCodigo": "023007-3",
+      "displayName": "Nissan Quest GXE/ GLE/ SER",
+      "valorAtual": 19824,
+      "canonicalPath": "/fipe/nissan/quest-gxe-gle-ser-1996-023007-3/",
+      "ano": 1996,
+      "marca": "Nissan"
+    },
+    {
+      "vehicleId": "nissan-quest-xe-3-0-v6-1995-gasolina",
+      "fipeCodigo": "023030-8",
+      "displayName": "Nissan Quest XE 3.0 V6",
+      "valorAtual": 12706,
+      "canonicalPath": "/fipe/nissan/quest-xe-3-0-v6-1995-023030-8/",
+      "ano": 1995,
+      "marca": "Nissan"
+    }
+  ],
+  "stats": {
+    "total": 5
+  },
+  "meta": {
+    "geracaoId": "quest-1"
+  }
+}

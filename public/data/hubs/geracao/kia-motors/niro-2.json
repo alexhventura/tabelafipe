@@ -1,0 +1,102 @@
+{
+  "tipo": "geracao",
+  "slug": "niro-2",
+  "canonicalPath": "/geracao/kia-motors/niro-2/",
+  "titulo": "Geracao niro-2",
+  "descricao": "9 veiculos da geracao niro-2.",
+  "seo": {
+    "title": "Geracao niro-2 - Precos FIPE",
+    "description": "Veiculos da geracao niro-2 na Tabela FIPE.",
+    "h1": "Geracao niro-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/kia-motors/niro-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "kia-motors-niro-ex-1-6-gdi-hibrido-2023-hibrido",
+      "fipeCodigo": "018099-8",
+      "displayName": "Kia Motors Niro EX 1.6 GDI  (Híbrido)",
+      "valorAtual": 141655,
+      "canonicalPath": "/fipe/kia-motors/niro-ex-1-6-gdi-hibrido-2023-018099-8/",
+      "ano": 2023,
+      "marca": "Kia Motors"
+    },
+    {
+      "vehicleId": "kia-motors-niro-ex-1-6-gdi-hibrido-2024-hibrido",
+      "fipeCodigo": "018099-8",
+      "displayName": "Kia Motors Niro EX 1.6 GDI  (Híbrido)",
+      "valorAtual": 148586,
+      "canonicalPath": "/fipe/kia-motors/niro-ex-1-6-gdi-hibrido-2024-018099-8/",
+      "ano": 2024,
+      "marca": "Kia Motors"
+    },
+    {
+      "vehicleId": "kia-motors-niro-ex-1-6-gdi-hibrido-2025-hibrido",
+      "fipeCodigo": "018099-8",
+      "displayName": "Kia Motors Niro EX 1.6 GDI  (Híbrido)",
+      "valorAtual": 172450,
+      "canonicalPath": "/fipe/kia-motors/niro-ex-1-6-gdi-hibrido-2025-018099-8/",
+      "ano": 2025,
+      "marca": "Kia Motors"
+    },
+    {
+      "vehicleId": "kia-motors-niro-ex-1-6-gdi-hibrido-2026-hibrido",
+      "fipeCodigo": "018099-8",
+      "displayName": "Kia Motors Niro EX 1.6 GDI  (Híbrido)",
+      "valorAtual": 181937,
+      "canonicalPath": "/fipe/kia-motors/niro-ex-1-6-gdi-hibrido-2026-018099-8/",
+      "ano": 2026,
+      "marca": "Kia Motors"
+    },
+    {
+      "vehicleId": "kia-motors-niro-sx-prestige-1-6-gdi-hibrido-2023-hibrido",
+      "fipeCodigo": "018100-5",
+      "displayName": "Kia Motors Niro SX Prestige 1.6 GDI (Híbrido)",
+      "valorAtual": 150492,
+      "canonicalPath": "/fipe/kia-motors/niro-sx-prestige-1-6-gdi-hibrido-2023-018100-5/",
+      "ano": 2023,
+      "marca": "Kia Motors"
+    },
+    {
+      "vehicleId": "kia-motors-niro-sx-prestige-1-6-gdi-hibrido-2024-hibrido",
+      "fipeCodigo": "018100-5",
+      "displayName": "Kia Motors Niro SX Prestige 1.6 GDI (Híbrido)",
+      "valorAtual": 160990,
+      "canonicalPath": "/fipe/kia-motors/niro-sx-prestige-1-6-gdi-hibrido-2024-018100-5/",
+      "ano": 2024,
+      "marca": "Kia Motors"
+    },
+    {
+      "vehicleId": "kia-motors-niro-sx-prestige-1-6-gdi-hibrido-2025-hibrido",
+      "fipeCodigo": "018100-5",
+      "displayName": "Kia Motors Niro SX Prestige 1.6 GDI (Híbrido)",
+      "valorAtual": 195164,
+      "canonicalPath": "/fipe/kia-motors/niro-sx-prestige-1-6-gdi-hibrido-2025-018100-5/",
+      "ano": 2025,
+      "marca": "Kia Motors"
+    },
+    {
+      "vehicleId": "kia-motors-niro-sx-prestige-1-6-gdi-hibrido-2026-hibrido",
+      "fipeCodigo": "018100-5",
+      "displayName": "Kia Motors Niro SX Prestige 1.6 GDI (Híbrido)",
+      "valorAtual": 205020,
+      "canonicalPath": "/fipe/kia-motors/niro-sx-prestige-1-6-gdi-hibrido-2026-018100-5/",
+      "ano": 2026,
+      "marca": "Kia Motors"
+    },
+    {
+      "vehicleId": "kia-motors-niro-sx-rio-limited-edt-1-6-gdi-hib-2024-hibrido",
+      "fipeCodigo": "018102-1",
+      "displayName": "Kia Motors Niro SX Rio Limited Edt 1.6 GDI  (Híb.)",
+      "valorAtual": 168683,
+      "canonicalPath": "/fipe/kia-motors/niro-sx-rio-limited-edt-1-6-gdi-hib-2024-018102-1/",
+      "ano": 2024,
+      "marca": "Kia Motors"
+    }
+  ],
+  "stats": {
+    "total": 9
+  },
+  "meta": {
+    "geracaoId": "niro-2"
+  }
+}

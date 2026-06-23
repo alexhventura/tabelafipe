@@ -1,0 +1,102 @@
+{
+  "tipo": "geracao",
+  "slug": "35-1",
+  "canonicalPath": "/geracao/volkswagen/35-1/",
+  "titulo": "Geracao 35-1",
+  "descricao": "9 veiculos da geracao 35-1.",
+  "seo": {
+    "title": "Geracao 35-1 - Precos FIPE",
+    "description": "Veiculos da geracao 35-1 na Tabela FIPE.",
+    "h1": "Geracao 35-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/volkswagen/35-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "volkswagen-35-300-2p-diesel-1991-diesel",
+      "fipeCodigo": "515052-3",
+      "displayName": "VOLKSWAGEN 35-300 2p (diesel)",
+      "valorAtual": 34771,
+      "canonicalPath": "/fipe/volkswagen/35-300-2p-diesel-1991-515052-3/",
+      "ano": 1991,
+      "marca": "VOLKSWAGEN"
+    },
+    {
+      "vehicleId": "volkswagen-35-300-2p-diesel-1992-diesel",
+      "fipeCodigo": "515052-3",
+      "displayName": "VOLKSWAGEN 35-300 2p (diesel)",
+      "valorAtual": 37491,
+      "canonicalPath": "/fipe/volkswagen/35-300-2p-diesel-1992-515052-3/",
+      "ano": 1992,
+      "marca": "VOLKSWAGEN"
+    },
+    {
+      "vehicleId": "volkswagen-35-300-2p-diesel-1993-diesel",
+      "fipeCodigo": "515052-3",
+      "displayName": "VOLKSWAGEN 35-300 2p (diesel)",
+      "valorAtual": 39397,
+      "canonicalPath": "/fipe/volkswagen/35-300-2p-diesel-1993-515052-3/",
+      "ano": 1993,
+      "marca": "VOLKSWAGEN"
+    },
+    {
+      "vehicleId": "volkswagen-35-300-2p-diesel-1994-diesel",
+      "fipeCodigo": "515052-3",
+      "displayName": "VOLKSWAGEN 35-300 2p (diesel)",
+      "valorAtual": 40382,
+      "canonicalPath": "/fipe/volkswagen/35-300-2p-diesel-1994-515052-3/",
+      "ano": 1994,
+      "marca": "VOLKSWAGEN"
+    },
+    {
+      "vehicleId": "volkswagen-35-300-2p-diesel-1995-diesel",
+      "fipeCodigo": "515052-3",
+      "displayName": "VOLKSWAGEN 35-300 2p (diesel)",
+      "valorAtual": 42939,
+      "canonicalPath": "/fipe/volkswagen/35-300-2p-diesel-1995-515052-3/",
+      "ano": 1995,
+      "marca": "VOLKSWAGEN"
+    },
+    {
+      "vehicleId": "volkswagen-35-300-2p-diesel-1996-diesel",
+      "fipeCodigo": "515052-3",
+      "displayName": "VOLKSWAGEN 35-300 2p (diesel)",
+      "valorAtual": 44013,
+      "canonicalPath": "/fipe/volkswagen/35-300-2p-diesel-1996-515052-3/",
+      "ano": 1996,
+      "marca": "VOLKSWAGEN"
+    },
+    {
+      "vehicleId": "volkswagen-35-300-2p-diesel-1997-diesel",
+      "fipeCodigo": "515052-3",
+      "displayName": "VOLKSWAGEN 35-300 2p (diesel)",
+      "valorAtual": 45645,
+      "canonicalPath": "/fipe/volkswagen/35-300-2p-diesel-1997-515052-3/",
+      "ano": 1997,
+      "marca": "VOLKSWAGEN"
+    },
+    {
+      "vehicleId": "volkswagen-35-300-2p-diesel-1998-diesel",
+      "fipeCodigo": "515052-3",
+      "displayName": "VOLKSWAGEN 35-300 2p (diesel)",
+      "valorAtual": 46787,
+      "canonicalPath": "/fipe/volkswagen/35-300-2p-diesel-1998-515052-3/",
+      "ano": 1998,
+      "marca": "VOLKSWAGEN"
+    },
+    {
+      "vehicleId": "volkswagen-35-300-2p-diesel-1999-diesel",
+      "fipeCodigo": "515052-3",
+      "displayName": "VOLKSWAGEN 35-300 2p (diesel)",
+      "valorAtual": 51408,
+      "canonicalPath": "/fipe/volkswagen/35-300-2p-diesel-1999-515052-3/",
+      "ano": 1999,
+      "marca": "VOLKSWAGEN"
+    }
+  ],
+  "stats": {
+    "total": 9
+  },
+  "meta": {
+    "geracaoId": "35-1"
+  }
+}

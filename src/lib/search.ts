@@ -1,4 +1,3 @@
-import { MODELO_SEGMENTO } from '../data/segmentos';
 import { SearchIndexItem, VehicleTipo } from '../types';
 
 const SINONIMOS: Record<string, string[]> = {
@@ -28,6 +27,15 @@ export function normalizeText(text: string): string {
 export function extractYearFromQuery(query: string): number | null {
   const match = query.match(/\b(19|20)\d{2}\b/);
   return match ? parseInt(match[0], 10) : null;
+}
+
+/** Normaliza codigo FIPE: 001234-5, 0012345, 1234-5 */
+export function normalizeFipeCodeQuery(query: string): string | null {
+  const compact = query.replace(/[^\d-]/g, '');
+  const m = compact.match(/^(\d{4,6})-?(\d)$/);
+  if (!m) return null;
+  const digits = m[1].padStart(6, '0');
+  return `${digits}-${m[2]}`;
 }
 
 function levenshtein(a: string, b: string): number {
@@ -84,6 +92,11 @@ function tokenMatchesWord(text: string, token: string): boolean {
   return tokenMatches(text, token);
 }
 
+function wordStartsWith(text: string, token: string): boolean {
+  if (!token) return false;
+  return text.split(' ').some((w) => w.startsWith(token));
+}
+
 function getPrimaryToken(tokens: string[]): string | null {
   for (const t of tokens) {
     if (t.length >= 4 && !FUEL_OR_SPEC_TOKENS.has(t)) return t;
@@ -91,11 +104,21 @@ function getPrimaryToken(tokens: string[]): string | null {
   return tokens[0] ?? null;
 }
 
-function scoreItem(item: SearchIndexItem, tokens: string[], yearFilter: number | null): number {
+function scoreItem(item: SearchIndexItem, tokens: string[], yearFilter: number | null, rawQuery: string): number {
   const nome = normalizeText(item.nome);
   const searchable = item.searchText ?? nome;
+  const normalizedQuery = normalizeText(rawQuery);
 
   if (yearFilter && item.ano !== yearFilter) return -1;
+
+  const fipeCode = normalizeFipeCodeQuery(rawQuery);
+  if (fipeCode && item.fipeCodigo) {
+    if (item.fipeCodigo === fipeCode) return 10000;
+    if (item.fipeCodigo.startsWith(fipeCode.split('-')[0])) return 5000;
+  }
+
+  if (normalizedQuery.length >= 2 && nome === normalizedQuery) return 9000;
+  if (normalizedQuery.length >= 2 && searchable === normalizedQuery) return 8500;
 
   let matched = 0;
   let score = item.popularidade ?? 0;
@@ -105,16 +128,23 @@ function scoreItem(item: SearchIndexItem, tokens: string[], yearFilter: number |
     if (tokenMatchesWord(nome, token)) {
       matched++;
       score += 40;
+      if (wordStartsWith(nome, token)) score += 25;
       continue;
     }
     if (tokenMatches(searchable, token)) {
       matched++;
       score += 15;
+      if (wordStartsWith(searchable, token)) score += 10;
       continue;
     }
   }
 
-  if (matched === 0) return -1;
+  if (matched === 0) {
+    if (tokens.length === 1 && tokens[0].length === 1) {
+      if (nome.startsWith(tokens[0]) || searchable.startsWith(tokens[0])) return 20 + score;
+    }
+    return -1;
+  }
   if (matched < tokens.length) score -= (tokens.length - matched) * 15;
 
   if (tokens.length > 1 && tokens.every((t) => tokenMatchesWord(nome, t))) {
@@ -123,6 +153,7 @@ function scoreItem(item: SearchIndexItem, tokens: string[], yearFilter: number |
 
   if (primary && tokenMatchesWord(nome, primary)) {
     score += 50;
+    if (nome.split(' ').some((w) => w === primary)) score += 30;
   }
 
   return score;
@@ -146,11 +177,41 @@ export function searchVehicles(
   tipo: VehicleTipo = 'carros',
   limit = 20,
 ): SearchIndexItem[] {
-  const yearFilter = extractYearFromQuery(query);
-  const queryWithoutYear = normalizeText(query).replace(/\b(19|20)\d{2}\b/g, '').trim();
-  if (queryWithoutYear.length < 2 && !yearFilter) return [];
+  const trimmed = query.trim();
+  if (!trimmed) return [];
 
-  const tokens = expandQueryTokens(queryWithoutYear || normalizeText(query));
+  const fipeCode = normalizeFipeCodeQuery(trimmed);
+  if (fipeCode) {
+    const hits = index.filter(
+      (item) => item.tipo === tipo && item.fipeCodigo && item.fipeCodigo.startsWith(fipeCode.split('-')[0]),
+    );
+    hits.sort((a, b) => {
+      if (a.fipeCodigo === fipeCode && b.fipeCodigo !== fipeCode) return -1;
+      if (b.fipeCodigo === fipeCode && a.fipeCodigo !== fipeCode) return 1;
+      return (b.popularidade ?? 0) - (a.popularidade ?? 0);
+    });
+    return dedupeResults(hits).slice(0, limit);
+  }
+
+  const yearFilter = extractYearFromQuery(trimmed);
+  const queryWithoutYear = normalizeText(trimmed).replace(/\b(19|20)\d{2}\b/g, '').trim();
+  if (queryWithoutYear.length < 1 && !yearFilter) return [];
+
+  if (queryWithoutYear.length === 1) {
+    const letter = queryWithoutYear;
+    return dedupeResults(
+      index
+        .filter((item) => {
+          if (item.tipo !== tipo) return false;
+          const nome = normalizeText(item.nome);
+          const searchable = item.searchText ?? nome;
+          return nome.startsWith(letter) || searchable.startsWith(letter) || nome.split(' ').some((w) => w.startsWith(letter));
+        })
+        .sort((a, b) => (b.popularidade ?? 0) - (a.popularidade ?? 0)),
+    ).slice(0, limit);
+  }
+
+  const tokens = expandQueryTokens(queryWithoutYear || normalizeText(trimmed));
   if (tokens.length === 0 && yearFilter) {
     return index
       .filter((item) => item.tipo === tipo && item.ano === yearFilter)
@@ -161,14 +222,14 @@ export function searchVehicles(
   const scored: ScoredItem[] = [];
   for (const item of index) {
     if (item.tipo !== tipo) continue;
-    const score = scoreItem(item, tokens, yearFilter);
+    const score = scoreItem(item, tokens, yearFilter, trimmed);
     if (score >= 0) scored.push({ item, score });
   }
 
   scored.sort((a, b) => b.score - a.score);
 
   const primary = getPrimaryToken(tokens);
-  const knownModel = primary && (primary in MODELO_SEGMENTO || primary.length >= 5);
+  const knownModel = primary && primary.length >= 5;
   const filtered = knownModel
     ? scored.filter((s) => tokenMatchesWord(normalizeText(s.item.nome), primary))
     : scored;
@@ -202,4 +263,12 @@ export function benchmarkSearch(
   const start = performance.now();
   const count = searchVehicles(index, query, tipo, 20).length;
   return { ms: performance.now() - start, count };
+}
+
+export function formatSearchResultLabel(item: SearchIndexItem): string {
+  const base = item.nome.replace(/\s*\(\d{4}\)\s*$/, '');
+  const parts = [base];
+  if (item.combustivel) parts.push(item.combustivel);
+  if (item.ano) parts.push(String(item.ano));
+  return parts.join(' · ');
 }

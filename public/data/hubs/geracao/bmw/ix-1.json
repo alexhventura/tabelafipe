@@ -1,0 +1,84 @@
+{
+  "tipo": "geracao",
+  "slug": "ix-1",
+  "canonicalPath": "/geracao/bmw/ix-1/",
+  "titulo": "Geracao ix-1",
+  "descricao": "7 veiculos da geracao ix-1.",
+  "seo": {
+    "title": "Geracao ix-1 - Precos FIPE",
+    "description": "Veiculos da geracao ix-1 na Tabela FIPE.",
+    "h1": "Geracao ix-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/bmw/ix-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "bmw-ix-1-edrive20-x-line-aut-eletrico-0-eletrico",
+      "fipeCodigo": "009318-1",
+      "displayName": "BMW iX 1 eDrive20 X-Line Aut. (Elétrico)",
+      "valorAtual": 382149,
+      "canonicalPath": "/fipe/bmw/ix-1-edrive20-x-line-aut-eletrico-0-009318-1/",
+      "ano": 0,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-ix-1-xdrive-30-m-sport-eletrico-0-eletrico",
+      "fipeCodigo": "009309-2",
+      "displayName": "BMW iX 1 xDrive 30 M Sport (Elétrico)",
+      "valorAtual": 460250,
+      "canonicalPath": "/fipe/bmw/ix-1-xdrive-30-m-sport-eletrico-0-009309-2/",
+      "ano": 0,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-ix-2-xdrive-30-m-sport-eletrico-0-eletrico",
+      "fipeCodigo": "009319-0",
+      "displayName": "BMW iX 2 xDrive 30 M Sport (Elétrico)",
+      "valorAtual": 495123,
+      "canonicalPath": "/fipe/bmw/ix-2-xdrive-30-m-sport-eletrico-0-009319-0/",
+      "ano": 0,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-ix-3-m-sport-aut-eletrico-0-eletrico",
+      "fipeCodigo": "009297-5",
+      "displayName": "BMW iX 3 M Sport Aut.(Elétrico)",
+      "valorAtual": 495360,
+      "canonicalPath": "/fipe/bmw/ix-3-m-sport-aut-eletrico-0-009297-5/",
+      "ano": 0,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-ix-m60-eletrico-0-eletrico",
+      "fipeCodigo": "009312-2",
+      "displayName": "BMW iX M60 (Elétrico)",
+      "valorAtual": 1139225,
+      "canonicalPath": "/fipe/bmw/ix-m60-eletrico-0-009312-2/",
+      "ano": 0,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-ix-xdrive-40-aut-eletrico-0-eletrico",
+      "fipeCodigo": "009293-2",
+      "displayName": "BMW iX XDrive 40 Aut. (Elétrico)",
+      "valorAtual": 697868,
+      "canonicalPath": "/fipe/bmw/ix-xdrive-40-aut-eletrico-0-009293-2/",
+      "ano": 0,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-ix-xdrive-50-sport-aut-eletrico-0-eletrico",
+      "fipeCodigo": "009296-7",
+      "displayName": "BMW iX XDrive 50 Sport Aut. (Elétrico)",
+      "valorAtual": 917958,
+      "canonicalPath": "/fipe/bmw/ix-xdrive-50-sport-aut-eletrico-0-009296-7/",
+      "ano": 0,
+      "marca": "BMW"
+    }
+  ],
+  "stats": {
+    "total": 7
+  },
+  "meta": {
+    "geracaoId": "ix-1"
+  }
+}

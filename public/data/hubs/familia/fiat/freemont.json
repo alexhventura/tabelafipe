@@ -1,0 +1,72 @@
+{
+  "tipo": "familia",
+  "slug": "freemont",
+  "canonicalPath": "/fipe/fiat/freemont/",
+  "titulo": "Fiat freemont - Tabela FIPE",
+  "descricao": "5 versoes e anos do Fiat freemont na Tabela FIPE.",
+  "seo": {
+    "title": "Fiat freemont - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes Fiat freemont. 5 veiculos indexados.",
+    "h1": "Fiat freemont - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/fiat/freemont/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "fiat-freemont-emot-precision-2-4-16v-5p-aut-2016-gasolina",
+      "fipeCodigo": "001365-0",
+      "displayName": "Fiat FREEMONT EMOT./PRECISION 2.4 16V 5p Aut.",
+      "valorAtual": 63535,
+      "canonicalPath": "/fipe/fiat/freemont-emot-precision-2-4-16v-5p-aut-2016-001365-0/",
+      "ano": 2016,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-freemont-emot-precision-2-4-16v-5p-aut-2015-gasolina",
+      "fipeCodigo": "001365-0",
+      "displayName": "Fiat FREEMONT EMOT./PRECISION 2.4 16V 5p Aut.",
+      "valorAtual": 61048,
+      "canonicalPath": "/fipe/fiat/freemont-emot-precision-2-4-16v-5p-aut-2015-001365-0/",
+      "ano": 2015,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-freemont-emot-precision-2-4-16v-5p-aut-2014-gasolina",
+      "fipeCodigo": "001365-0",
+      "displayName": "Fiat FREEMONT EMOT./PRECISION 2.4 16V 5p Aut.",
+      "valorAtual": 55754,
+      "canonicalPath": "/fipe/fiat/freemont-emot-precision-2-4-16v-5p-aut-2014-001365-0/",
+      "ano": 2014,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-freemont-emot-precision-2-4-16v-5p-aut-2013-gasolina",
+      "fipeCodigo": "001365-0",
+      "displayName": "Fiat FREEMONT EMOT./PRECISION 2.4 16V 5p Aut.",
+      "valorAtual": 50531,
+      "canonicalPath": "/fipe/fiat/freemont-emot-precision-2-4-16v-5p-aut-2013-001365-0/",
+      "ano": 2013,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-freemont-emot-precision-2-4-16v-5p-aut-2012-gasolina",
+      "fipeCodigo": "001365-0",
+      "displayName": "Fiat FREEMONT EMOT./PRECISION 2.4 16V 5p Aut.",
+      "valorAtual": 48154,
+      "canonicalPath": "/fipe/fiat/freemont-emot-precision-2-4-16v-5p-aut-2012-001365-0/",
+      "ano": 2012,
+      "marca": "Fiat"
+    }
+  ],
+  "stats": {
+    "total": 5,
+    "precoMin": 48154,
+    "precoMax": 63535,
+    "anos": [
+      2016,
+      2015,
+      2014,
+      2013,
+      2012
+    ]
+  }
+}

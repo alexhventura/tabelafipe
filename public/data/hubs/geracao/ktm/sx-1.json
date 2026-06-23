@@ -1,0 +1,93 @@
+{
+  "tipo": "geracao",
+  "slug": "sx-1",
+  "canonicalPath": "/geracao/ktm/sx-1/",
+  "titulo": "Geracao sx-1",
+  "descricao": "8 veiculos da geracao sx-1.",
+  "seo": {
+    "title": "Geracao sx-1 - Precos FIPE",
+    "description": "Veiculos da geracao sx-1 na Tabela FIPE.",
+    "h1": "Geracao sx-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/ktm/sx-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "ktm-sx-250-sx-250-f-0-gasolina",
+      "fipeCodigo": "818009-1",
+      "displayName": "KTM SX 250/ SX 250 F",
+      "valorAtual": 81580,
+      "canonicalPath": "/fipe/ktm/sx-250-sx-250-f-0-818009-1/",
+      "ano": 0,
+      "marca": "KTM"
+    },
+    {
+      "vehicleId": "ktm-sx-300-0-gasolina",
+      "fipeCodigo": "818054-7",
+      "displayName": "KTM SX 300",
+      "valorAtual": 82657,
+      "canonicalPath": "/fipe/ktm/sx-300-0-818054-7/",
+      "ano": 0,
+      "marca": "KTM"
+    },
+    {
+      "vehicleId": "ktm-sx-350-350-f-0-gasolina",
+      "fipeCodigo": "818034-2",
+      "displayName": "KTM SX 350 / 350 F",
+      "valorAtual": 86245,
+      "canonicalPath": "/fipe/ktm/sx-350-350-f-0-818034-2/",
+      "ano": 0,
+      "marca": "KTM"
+    },
+    {
+      "vehicleId": "ktm-sx-450-sx-450f-0-gasolina",
+      "fipeCodigo": "818022-9",
+      "displayName": "KTM SX 450/ SX 450F",
+      "valorAtual": 85686,
+      "canonicalPath": "/fipe/ktm/sx-450-sx-450f-0-818022-9/",
+      "ano": 0,
+      "marca": "KTM"
+    },
+    {
+      "vehicleId": "ktm-sx-65-0-gasolina",
+      "fipeCodigo": "818005-9",
+      "displayName": "KTM SX 65",
+      "valorAtual": 50915,
+      "canonicalPath": "/fipe/ktm/sx-65-0-818005-9/",
+      "ano": 0,
+      "marca": "KTM"
+    },
+    {
+      "vehicleId": "nissan-sx-240-2-4-1991-gasolina",
+      "fipeCodigo": "023032-4",
+      "displayName": "Nissan SX 240 2.4",
+      "valorAtual": 8166,
+      "canonicalPath": "/fipe/nissan/sx-240-2-4-1991-023032-4/",
+      "ano": 1991,
+      "marca": "Nissan"
+    },
+    {
+      "vehicleId": "nissan-sx-240-2-4-1992-gasolina",
+      "fipeCodigo": "023032-4",
+      "displayName": "Nissan SX 240 2.4",
+      "valorAtual": 9072,
+      "canonicalPath": "/fipe/nissan/sx-240-2-4-1992-023032-4/",
+      "ano": 1992,
+      "marca": "Nissan"
+    },
+    {
+      "vehicleId": "nissan-sx-240-2-4-1993-gasolina",
+      "fipeCodigo": "023032-4",
+      "displayName": "Nissan SX 240 2.4",
+      "valorAtual": 11306,
+      "canonicalPath": "/fipe/nissan/sx-240-2-4-1993-023032-4/",
+      "ano": 1993,
+      "marca": "Nissan"
+    }
+  ],
+  "stats": {
+    "total": 8
+  },
+  "meta": {
+    "geracaoId": "sx-1"
+  }
+}

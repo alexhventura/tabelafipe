@@ -1,0 +1,57 @@
+{
+  "tipo": "geracao",
+  "slug": "cls-3",
+  "canonicalPath": "/geracao/mercedes-benz/cls-3/",
+  "titulo": "Geracao cls-3",
+  "descricao": "4 veiculos da geracao cls-3.",
+  "seo": {
+    "title": "Geracao cls-3 - Precos FIPE",
+    "description": "Veiculos da geracao cls-3 na Tabela FIPE.",
+    "h1": "Geracao cls-3",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/mercedes-benz/cls-3/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "mercedes-benz-cls-450-3-0-tb-4matic-hib-2019-hibrido",
+      "fipeCodigo": "021418-3",
+      "displayName": "Mercedes-Benz CLS-450 3.0 TB 4MATIC  (Híb.)",
+      "valorAtual": 382545,
+      "canonicalPath": "/fipe/mercedes-benz/cls-450-3-0-tb-4matic-hib-2019-021418-3/",
+      "ano": 2019,
+      "marca": "Mercedes-Benz"
+    },
+    {
+      "vehicleId": "mercedes-benz-cls-450-3-0-tb-4matic-sport-hibrido-2019-hibrido",
+      "fipeCodigo": "021412-4",
+      "displayName": "Mercedes-Benz CLS-450 3.0 TB 4MATIC SPORT (Híbrido)",
+      "valorAtual": 363740,
+      "canonicalPath": "/fipe/mercedes-benz/cls-450-3-0-tb-4matic-sport-hibrido-2019-021412-4/",
+      "ano": 2019,
+      "marca": "Mercedes-Benz"
+    },
+    {
+      "vehicleId": "mercedes-benz-cls-53-amg-3-0-tb-4matic-hibrido-2019-hibrido",
+      "fipeCodigo": "021405-1",
+      "displayName": "Mercedes-Benz CLS-53 AMG 3.0 TB 4MATIC+ (Híbrido)",
+      "valorAtual": 408250,
+      "canonicalPath": "/fipe/mercedes-benz/cls-53-amg-3-0-tb-4matic-hibrido-2019-021405-1/",
+      "ano": 2019,
+      "marca": "Mercedes-Benz"
+    },
+    {
+      "vehicleId": "mercedes-benz-cls-53-amg-3-0-tb-4matic-hibrido-2020-hibrido",
+      "fipeCodigo": "021405-1",
+      "displayName": "Mercedes-Benz CLS-53 AMG 3.0 TB 4MATIC+ (Híbrido)",
+      "valorAtual": 504303,
+      "canonicalPath": "/fipe/mercedes-benz/cls-53-amg-3-0-tb-4matic-hibrido-2020-021405-1/",
+      "ano": 2020,
+      "marca": "Mercedes-Benz"
+    }
+  ],
+  "stats": {
+    "total": 4
+  },
+  "meta": {
+    "geracaoId": "cls-3"
+  }
+}

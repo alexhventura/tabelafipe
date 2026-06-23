@@ -1,0 +1,41 @@
+{
+  "tipo": "familia",
+  "slug": "contour",
+  "canonicalPath": "/fipe/ford/contour/",
+  "titulo": "Ford contour - Tabela FIPE",
+  "descricao": "2 versoes e anos do Ford contour na Tabela FIPE.",
+  "seo": {
+    "title": "Ford contour - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes Ford contour. 2 veiculos indexados.",
+    "h1": "Ford contour - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/ford/contour/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "ford-contour-se-gl-lx-2-0-16v-1995-gasolina",
+      "fipeCodigo": "003121-6",
+      "displayName": "Ford Contour SE/ GL/ LX  2.0 16V",
+      "valorAtual": 11851,
+      "canonicalPath": "/fipe/ford/contour-se-gl-lx-2-0-16v-1995-003121-6/",
+      "ano": 1995,
+      "marca": "Ford"
+    },
+    {
+      "vehicleId": "ford-contour-se-gl-lx-2-5-24v-1995-gasolina",
+      "fipeCodigo": "003122-4",
+      "displayName": "Ford Contour SE/GL/ LX 2.5 24V",
+      "valorAtual": 12764,
+      "canonicalPath": "/fipe/ford/contour-se-gl-lx-2-5-24v-1995-003122-4/",
+      "ano": 1995,
+      "marca": "Ford"
+    }
+  ],
+  "stats": {
+    "total": 2,
+    "precoMin": 11851,
+    "precoMax": 12764,
+    "anos": [
+      1995
+    ]
+  }
+}

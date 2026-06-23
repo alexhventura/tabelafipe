@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "sportclassic-1",
+  "canonicalPath": "/geracao/ducati/sportclassic-1/",
+  "titulo": "Geracao sportclassic-1",
+  "descricao": "2 veiculos da geracao sportclassic-1.",
+  "seo": {
+    "title": "Geracao sportclassic-1 - Precos FIPE",
+    "description": "Veiculos da geracao sportclassic-1 na Tabela FIPE.",
+    "h1": "Geracao sportclassic-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/ducati/sportclassic-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "ducati-sportclassic-paulsmart-1000le-992cc-2006-gasolina",
+      "fipeCodigo": "808019-4",
+      "displayName": "DUCATI SPORTCLASSIC  PAULSMART 1000LE  992cc",
+      "valorAtual": 38187,
+      "canonicalPath": "/fipe/ducati/sportclassic-paulsmart-1000le-992cc-2006-808019-4/",
+      "ano": 2006,
+      "marca": "DUCATI"
+    },
+    {
+      "vehicleId": "ducati-sportclassic-sport-1000-992cc-2006-gasolina",
+      "fipeCodigo": "808021-6",
+      "displayName": "DUCATI SPORTCLASSIC SPORT 1000  992cc",
+      "valorAtual": 35638,
+      "canonicalPath": "/fipe/ducati/sportclassic-sport-1000-992cc-2006-808021-6/",
+      "ano": 2006,
+      "marca": "DUCATI"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "sportclassic-1"
+  }
+}

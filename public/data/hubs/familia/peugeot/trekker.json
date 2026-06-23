@@ -1,0 +1,42 @@
+{
+  "tipo": "familia",
+  "slug": "trekker",
+  "canonicalPath": "/fipe/peugeot/trekker/",
+  "titulo": "PEUGEOT trekker - Tabela FIPE",
+  "descricao": "2 versoes e anos do PEUGEOT trekker na Tabela FIPE.",
+  "seo": {
+    "title": "PEUGEOT trekker - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes PEUGEOT trekker. 2 veiculos indexados.",
+    "h1": "PEUGEOT trekker - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/peugeot/trekker/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "peugeot-trekker-100-2000-gasolina",
+      "fipeCodigo": "821009-8",
+      "displayName": "PEUGEOT TREKKER 100",
+      "valorAtual": 2384,
+      "canonicalPath": "/fipe/peugeot/trekker-100-2000-821009-8/",
+      "ano": 2000,
+      "marca": "PEUGEOT"
+    },
+    {
+      "vehicleId": "peugeot-trekker-100-1999-gasolina",
+      "fipeCodigo": "821009-8",
+      "displayName": "PEUGEOT TREKKER 100",
+      "valorAtual": 2265,
+      "canonicalPath": "/fipe/peugeot/trekker-100-1999-821009-8/",
+      "ano": 1999,
+      "marca": "PEUGEOT"
+    }
+  ],
+  "stats": {
+    "total": 2,
+    "precoMin": 2265,
+    "precoMax": 2384,
+    "anos": [
+      2000,
+      1999
+    ]
+  }
+}

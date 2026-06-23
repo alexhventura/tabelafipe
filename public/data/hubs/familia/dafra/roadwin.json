@@ -1,0 +1,62 @@
+{
+  "tipo": "familia",
+  "slug": "roadwin",
+  "canonicalPath": "/fipe/dafra/roadwin/",
+  "titulo": "DAFRA roadwin - Tabela FIPE",
+  "descricao": "4 versoes e anos do DAFRA roadwin na Tabela FIPE.",
+  "seo": {
+    "title": "DAFRA roadwin - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes DAFRA roadwin. 4 veiculos indexados.",
+    "h1": "DAFRA roadwin - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/dafra/roadwin/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "dafra-roadwin-250r-2015-gasolina",
+      "fipeCodigo": "861015-0",
+      "displayName": "DAFRA ROADWIN 250R",
+      "valorAtual": 9124,
+      "canonicalPath": "/fipe/dafra/roadwin-250r-2015-861015-0/",
+      "ano": 2015,
+      "marca": "DAFRA"
+    },
+    {
+      "vehicleId": "dafra-roadwin-250r-2014-gasolina",
+      "fipeCodigo": "861015-0",
+      "displayName": "DAFRA ROADWIN 250R",
+      "valorAtual": 8744,
+      "canonicalPath": "/fipe/dafra/roadwin-250r-2014-861015-0/",
+      "ano": 2014,
+      "marca": "DAFRA"
+    },
+    {
+      "vehicleId": "dafra-roadwin-250r-2013-gasolina",
+      "fipeCodigo": "861015-0",
+      "displayName": "DAFRA ROADWIN 250R",
+      "valorAtual": 7995,
+      "canonicalPath": "/fipe/dafra/roadwin-250r-2013-861015-0/",
+      "ano": 2013,
+      "marca": "DAFRA"
+    },
+    {
+      "vehicleId": "dafra-roadwin-250r-2012-gasolina",
+      "fipeCodigo": "861015-0",
+      "displayName": "DAFRA ROADWIN 250R",
+      "valorAtual": 7760,
+      "canonicalPath": "/fipe/dafra/roadwin-250r-2012-861015-0/",
+      "ano": 2012,
+      "marca": "DAFRA"
+    }
+  ],
+  "stats": {
+    "total": 4,
+    "precoMin": 7760,
+    "precoMax": 9124,
+    "anos": [
+      2015,
+      2014,
+      2013,
+      2012
+    ]
+  }
+}

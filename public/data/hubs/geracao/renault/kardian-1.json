@@ -1,0 +1,75 @@
+{
+  "tipo": "geracao",
+  "slug": "kardian-1",
+  "canonicalPath": "/geracao/renault/kardian-1/",
+  "titulo": "Geracao kardian-1",
+  "descricao": "6 veiculos da geracao kardian-1.",
+  "seo": {
+    "title": "Geracao kardian-1 - Precos FIPE",
+    "description": "Veiculos da geracao kardian-1 na Tabela FIPE.",
+    "h1": "Geracao kardian-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/renault/kardian-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "renault-kardian-authentic-1-0-tb-12v-5p-aut-0-flex",
+      "fipeCodigo": "025335-9",
+      "displayName": "Renault Kardian Authentic 1.0 TB 12V 5p Aut.",
+      "valorAtual": 115654,
+      "canonicalPath": "/fipe/renault/kardian-authentic-1-0-tb-12v-5p-aut-0-025335-9/",
+      "ano": 0,
+      "marca": "Renault"
+    },
+    {
+      "vehicleId": "renault-kardian-evolut-flex-1-0-tb-12v-5p-aut-0-flex",
+      "fipeCodigo": "025327-8",
+      "displayName": "Renault Kardian Evolut. Flex 1.0 TB 12V 5p Aut.",
+      "valorAtual": 117048,
+      "canonicalPath": "/fipe/renault/kardian-evolut-flex-1-0-tb-12v-5p-aut-0-025327-8/",
+      "ano": 0,
+      "marca": "Renault"
+    },
+    {
+      "vehicleId": "renault-kardian-evolut-flex-1-0-tb-12v-5p-mec-0-flex",
+      "fipeCodigo": "025332-4",
+      "displayName": "Renault Kardian Evolut. Flex 1.0 TB 12V 5p Mec.",
+      "valorAtual": 107354,
+      "canonicalPath": "/fipe/renault/kardian-evolut-flex-1-0-tb-12v-5p-mec-0-025332-4/",
+      "ano": 0,
+      "marca": "Renault"
+    },
+    {
+      "vehicleId": "renault-kardian-iconic-1-0-tb-12v-5p-aut-0-flex",
+      "fipeCodigo": "025334-0",
+      "displayName": "Renault Kardian Iconic 1.0 TB 12V 5p Aut.",
+      "valorAtual": 141416,
+      "canonicalPath": "/fipe/renault/kardian-iconic-1-0-tb-12v-5p-aut-0-025334-0/",
+      "ano": 0,
+      "marca": "Renault"
+    },
+    {
+      "vehicleId": "renault-kardian-prem-ed-flex-1-0-tb-12v-5p-aut-0-flex",
+      "fipeCodigo": "025329-4",
+      "displayName": "Renault Kardian Prem. Ed Flex 1.0 TB 12V 5p Aut.",
+      "valorAtual": 133201,
+      "canonicalPath": "/fipe/renault/kardian-prem-ed-flex-1-0-tb-12v-5p-aut-0-025329-4/",
+      "ano": 0,
+      "marca": "Renault"
+    },
+    {
+      "vehicleId": "renault-kardian-techno-flex-1-0-tb-12v-5p-aut-0-flex",
+      "fipeCodigo": "025328-6",
+      "displayName": "Renault Kardian Techno Flex 1.0 TB 12V 5p Aut.",
+      "valorAtual": 132304,
+      "canonicalPath": "/fipe/renault/kardian-techno-flex-1-0-tb-12v-5p-aut-0-025328-6/",
+      "ano": 0,
+      "marca": "Renault"
+    }
+  ],
+  "stats": {
+    "total": 6
+  },
+  "meta": {
+    "geracaoId": "kardian-1"
+  }
+}

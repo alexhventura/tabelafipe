@@ -1,0 +1,42 @@
+{
+  "tipo": "familia",
+  "slug": "panorama",
+  "canonicalPath": "/fipe/fiat/panorama/",
+  "titulo": "Fiat panorama - Tabela FIPE",
+  "descricao": "2 versoes e anos do Fiat panorama na Tabela FIPE.",
+  "seo": {
+    "title": "Fiat panorama - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes Fiat panorama. 2 veiculos indexados.",
+    "h1": "Fiat panorama - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/fiat/panorama/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "fiat-panorama-c-cl-1986-gasolina",
+      "fipeCodigo": "001116-9",
+      "displayName": "Fiat Panorama C/CL",
+      "valorAtual": 2266,
+      "canonicalPath": "/fipe/fiat/panorama-c-cl-1986-001116-9/",
+      "ano": 1986,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-panorama-c-cl-1985-gasolina",
+      "fipeCodigo": "001116-9",
+      "displayName": "Fiat Panorama C/CL",
+      "valorAtual": 2074,
+      "canonicalPath": "/fipe/fiat/panorama-c-cl-1985-001116-9/",
+      "ano": 1985,
+      "marca": "Fiat"
+    }
+  ],
+  "stats": {
+    "total": 2,
+    "precoMin": 2074,
+    "precoMax": 2266,
+    "anos": [
+      1986,
+      1985
+    ]
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "tipo": "geracao",
+  "slug": "ergon-1",
+  "canonicalPath": "/geracao/l-aquila/ergon-1/",
+  "titulo": "Geracao ergon-1",
+  "descricao": "6 veiculos da geracao ergon-1.",
+  "seo": {
+    "title": "Geracao ergon-1 - Precos FIPE",
+    "description": "Veiculos da geracao ergon-1 na Tabela FIPE.",
+    "h1": "Geracao ergon-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/l-aquila/ergon-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "l-aquila-ergon-50-1999-gasolina",
+      "fipeCodigo": "819003-8",
+      "displayName": "L'AQUILA ERGON 50",
+      "valorAtual": 1369,
+      "canonicalPath": "/fipe/l-aquila/ergon-50-1999-819003-8/",
+      "ano": 1999,
+      "marca": "L'AQUILA"
+    },
+    {
+      "vehicleId": "l-aquila-ergon-50-2000-gasolina",
+      "fipeCodigo": "819003-8",
+      "displayName": "L'AQUILA ERGON 50",
+      "valorAtual": 1598,
+      "canonicalPath": "/fipe/l-aquila/ergon-50-2000-819003-8/",
+      "ano": 2000,
+      "marca": "L'AQUILA"
+    },
+    {
+      "vehicleId": "l-aquila-ergon-50-2001-gasolina",
+      "fipeCodigo": "819003-8",
+      "displayName": "L'AQUILA ERGON 50",
+      "valorAtual": 1835,
+      "canonicalPath": "/fipe/l-aquila/ergon-50-2001-819003-8/",
+      "ano": 2001,
+      "marca": "L'AQUILA"
+    },
+    {
+      "vehicleId": "sundown-ergon-50cc-1996-gasolina",
+      "fipeCodigo": "824003-5",
+      "displayName": "SUNDOWN ERGON 50cc",
+      "valorAtual": 904,
+      "canonicalPath": "/fipe/sundown/ergon-50cc-1996-824003-5/",
+      "ano": 1996,
+      "marca": "SUNDOWN"
+    },
+    {
+      "vehicleId": "sundown-ergon-50cc-1997-gasolina",
+      "fipeCodigo": "824003-5",
+      "displayName": "SUNDOWN ERGON 50cc",
+      "valorAtual": 1007,
+      "canonicalPath": "/fipe/sundown/ergon-50cc-1997-824003-5/",
+      "ano": 1997,
+      "marca": "SUNDOWN"
+    },
+    {
+      "vehicleId": "sundown-ergon-50cc-1998-gasolina",
+      "fipeCodigo": "824003-5",
+      "displayName": "SUNDOWN ERGON 50cc",
+      "valorAtual": 1034,
+      "canonicalPath": "/fipe/sundown/ergon-50cc-1998-824003-5/",
+      "ano": 1998,
+      "marca": "SUNDOWN"
+    }
+  ],
+  "stats": {
+    "total": 6
+  },
+  "meta": {
+    "geracaoId": "ergon-1"
+  }
+}

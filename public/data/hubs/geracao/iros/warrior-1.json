@@ -1,0 +1,48 @@
+{
+  "tipo": "geracao",
+  "slug": "warrior-1",
+  "canonicalPath": "/geracao/iros/warrior-1/",
+  "titulo": "Geracao warrior-1",
+  "descricao": "3 veiculos da geracao warrior-1.",
+  "seo": {
+    "title": "Geracao warrior-1 - Precos FIPE",
+    "description": "Veiculos da geracao warrior-1 na Tabela FIPE.",
+    "h1": "Geracao warrior-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/iros/warrior-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "iros-warrior-250-quadriciclo-2009-gasolina",
+      "fipeCodigo": "867013-7",
+      "displayName": "IROS WARRIOR 250 QUADRICICLO",
+      "valorAtual": 6833,
+      "canonicalPath": "/fipe/iros/warrior-250-quadriciclo-2009-867013-7/",
+      "ano": 2009,
+      "marca": "IROS"
+    },
+    {
+      "vehicleId": "iros-warrior-400-4x4-quadriciclo-2009-gasolina",
+      "fipeCodigo": "867014-5",
+      "displayName": "IROS WARRIOR 400 4x4 QUADRICICLO",
+      "valorAtual": 9005,
+      "canonicalPath": "/fipe/iros/warrior-400-4x4-quadriciclo-2009-867014-5/",
+      "ano": 2009,
+      "marca": "IROS"
+    },
+    {
+      "vehicleId": "iros-warrior-700-4x4-quadriciclo-2009-gasolina",
+      "fipeCodigo": "867015-3",
+      "displayName": "IROS WARRIOR 700 4x4 QUADRICICLO",
+      "valorAtual": 15842,
+      "canonicalPath": "/fipe/iros/warrior-700-4x4-quadriciclo-2009-867015-3/",
+      "ano": 2009,
+      "marca": "IROS"
+    }
+  ],
+  "stats": {
+    "total": 3
+  },
+  "meta": {
+    "geracaoId": "warrior-1"
+  }
+}

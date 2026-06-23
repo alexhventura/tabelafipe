@@ -1,0 +1,102 @@
+{
+  "tipo": "geracao",
+  "slug": "brutale-2",
+  "canonicalPath": "/geracao/mv-agusta/brutale-2/",
+  "titulo": "Geracao brutale-2",
+  "descricao": "9 veiculos da geracao brutale-2.",
+  "seo": {
+    "title": "Geracao brutale-2 - Precos FIPE",
+    "description": "Veiculos da geracao brutale-2 na Tabela FIPE.",
+    "h1": "Geracao brutale-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/mv-agusta/brutale-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "mv-agusta-brutale-1090r-2012-gasolina",
+      "fipeCodigo": "839011-8",
+      "displayName": "MV AGUSTA BRUTALE 1090R",
+      "valorAtual": 28896,
+      "canonicalPath": "/fipe/mv-agusta/brutale-1090r-2012-839011-8/",
+      "ano": 2012,
+      "marca": "MV AGUSTA"
+    },
+    {
+      "vehicleId": "mv-agusta-brutale-1090r-2013-gasolina",
+      "fipeCodigo": "839011-8",
+      "displayName": "MV AGUSTA BRUTALE 1090R",
+      "valorAtual": 31095,
+      "canonicalPath": "/fipe/mv-agusta/brutale-1090r-2013-839011-8/",
+      "ano": 2013,
+      "marca": "MV AGUSTA"
+    },
+    {
+      "vehicleId": "mv-agusta-brutale-1090rr-2012-gasolina",
+      "fipeCodigo": "839012-6",
+      "displayName": "MV AGUSTA BRUTALE 1090RR",
+      "valorAtual": 31913,
+      "canonicalPath": "/fipe/mv-agusta/brutale-1090rr-2012-839012-6/",
+      "ano": 2012,
+      "marca": "MV AGUSTA"
+    },
+    {
+      "vehicleId": "mv-agusta-brutale-1090rr-2013-gasolina",
+      "fipeCodigo": "839012-6",
+      "displayName": "MV AGUSTA BRUTALE 1090RR",
+      "valorAtual": 33733,
+      "canonicalPath": "/fipe/mv-agusta/brutale-1090rr-2013-839012-6/",
+      "ano": 2013,
+      "marca": "MV AGUSTA"
+    },
+    {
+      "vehicleId": "mv-agusta-brutale-1090rr-2014-gasolina",
+      "fipeCodigo": "839012-6",
+      "displayName": "MV AGUSTA BRUTALE 1090RR",
+      "valorAtual": 36484,
+      "canonicalPath": "/fipe/mv-agusta/brutale-1090rr-2014-839012-6/",
+      "ano": 2014,
+      "marca": "MV AGUSTA"
+    },
+    {
+      "vehicleId": "mv-agusta-brutale-1090rr-2015-gasolina",
+      "fipeCodigo": "839012-6",
+      "displayName": "MV AGUSTA BRUTALE 1090RR",
+      "valorAtual": 40693,
+      "canonicalPath": "/fipe/mv-agusta/brutale-1090rr-2015-839012-6/",
+      "ano": 2015,
+      "marca": "MV AGUSTA"
+    },
+    {
+      "vehicleId": "mv-agusta-brutale-800-2014-gasolina",
+      "fipeCodigo": "839013-4",
+      "displayName": "MV AGUSTA BRUTALE 800",
+      "valorAtual": 35804,
+      "canonicalPath": "/fipe/mv-agusta/brutale-800-2014-839013-4/",
+      "ano": 2014,
+      "marca": "MV AGUSTA"
+    },
+    {
+      "vehicleId": "mv-agusta-brutale-800-2015-gasolina",
+      "fipeCodigo": "839013-4",
+      "displayName": "MV AGUSTA BRUTALE 800",
+      "valorAtual": 37861,
+      "canonicalPath": "/fipe/mv-agusta/brutale-800-2015-839013-4/",
+      "ano": 2015,
+      "marca": "MV AGUSTA"
+    },
+    {
+      "vehicleId": "mv-agusta-brutale-800-2016-gasolina",
+      "fipeCodigo": "839013-4",
+      "displayName": "MV AGUSTA BRUTALE 800",
+      "valorAtual": 38808,
+      "canonicalPath": "/fipe/mv-agusta/brutale-800-2016-839013-4/",
+      "ano": 2016,
+      "marca": "MV AGUSTA"
+    }
+  ],
+  "stats": {
+    "total": 9
+  },
+  "meta": {
+    "geracaoId": "brutale-2"
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "tipo": "familia",
+  "slug": "start",
+  "canonicalPath": "/fipe/effa/start/",
+  "titulo": "EFFA start - Tabela FIPE",
+  "descricao": "8 versoes e anos do EFFA start na Tabela FIPE.",
+  "seo": {
+    "title": "EFFA start - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes EFFA start. 8 veiculos indexados.",
+    "h1": "EFFA start - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/effa/start/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "effa-start-picape-l-1-0-8v-2p-2014-gasolina",
+      "fipeCodigo": "066008-6",
+      "displayName": "EFFA Start Picape L 1.0 8V 2p",
+      "valorAtual": 23647,
+      "canonicalPath": "/fipe/effa/start-picape-l-1-0-8v-2p-2014-066008-6/",
+      "ano": 2014,
+      "marca": "EFFA"
+    },
+    {
+      "vehicleId": "effa-start-picape-cd-1-0-8v-5p-2014-gasolina",
+      "fipeCodigo": "066010-8",
+      "displayName": "EFFA Start Picape CD 1.0 8V 5p",
+      "valorAtual": 24031,
+      "canonicalPath": "/fipe/effa/start-picape-cd-1-0-8v-5p-2014-066010-8/",
+      "ano": 2014,
+      "marca": "EFFA"
+    },
+    {
+      "vehicleId": "effa-start-van-1-0-8v-4p-2012-gasolina",
+      "fipeCodigo": "066009-4",
+      "displayName": "EFFA Start Van 1.0 8V 4p",
+      "valorAtual": 18134,
+      "canonicalPath": "/fipe/effa/start-van-1-0-8v-4p-2012-066009-4/",
+      "ano": 2012,
+      "marca": "EFFA"
+    },
+    {
+      "vehicleId": "effa-start-picape-cd-1-0-8v-5p-2012-gasolina",
+      "fipeCodigo": "066010-8",
+      "displayName": "EFFA Start Picape CD 1.0 8V 5p",
+      "valorAtual": 18393,
+      "canonicalPath": "/fipe/effa/start-picape-cd-1-0-8v-5p-2012-066010-8/",
+      "ano": 2012,
+      "marca": "EFFA"
+    },
+    {
+      "vehicleId": "effa-start-picape-l-1-0-8v-2p-2012-gasolina",
+      "fipeCodigo": "066008-6",
+      "displayName": "EFFA Start Picape L 1.0 8V 2p",
+      "valorAtual": 19032,
+      "canonicalPath": "/fipe/effa/start-picape-l-1-0-8v-2p-2012-066008-6/",
+      "ano": 2012,
+      "marca": "EFFA"
+    },
+    {
+      "vehicleId": "effa-start-van-1-0-8v-4p-2011-gasolina",
+      "fipeCodigo": "066009-4",
+      "displayName": "EFFA Start Van 1.0 8V 4p",
+      "valorAtual": 14788,
+      "canonicalPath": "/fipe/effa/start-van-1-0-8v-4p-2011-066009-4/",
+      "ano": 2011,
+      "marca": "EFFA"
+    },
+    {
+      "vehicleId": "effa-start-picape-cd-1-0-8v-5p-2011-gasolina",
+      "fipeCodigo": "066010-8",
+      "displayName": "EFFA Start Picape CD 1.0 8V 5p",
+      "valorAtual": 15691,
+      "canonicalPath": "/fipe/effa/start-picape-cd-1-0-8v-5p-2011-066010-8/",
+      "ano": 2011,
+      "marca": "EFFA"
+    },
+    {
+      "vehicleId": "effa-start-picape-l-1-0-8v-2p-2011-gasolina",
+      "fipeCodigo": "066008-6",
+      "displayName": "EFFA Start Picape L 1.0 8V 2p",
+      "valorAtual": 18567,
+      "canonicalPath": "/fipe/effa/start-picape-l-1-0-8v-2p-2011-066008-6/",
+      "ano": 2011,
+      "marca": "EFFA"
+    }
+  ],
+  "stats": {
+    "total": 8,
+    "precoMin": 14788,
+    "precoMax": 24031,
+    "anos": [
+      2014,
+      2012,
+      2011
+    ]
+  }
+}

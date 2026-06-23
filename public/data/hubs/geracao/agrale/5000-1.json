@@ -1,0 +1,102 @@
+{
+  "tipo": "geracao",
+  "slug": "5000-1",
+  "canonicalPath": "/geracao/agrale/5000-1/",
+  "titulo": "Geracao 5000-1",
+  "descricao": "9 veiculos da geracao 5000-1.",
+  "seo": {
+    "title": "Geracao 5000-1 - Precos FIPE",
+    "description": "Veiculos da geracao 5000-1 na Tabela FIPE.",
+    "h1": "Geracao 5000-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/agrale/5000-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "agrale-5000-d-rd-2p-diesel-1994-diesel",
+      "fipeCodigo": "501007-1",
+      "displayName": "AGRALE 5000 D-RD 2p (diesel)",
+      "valorAtual": 20196,
+      "canonicalPath": "/fipe/agrale/5000-d-rd-2p-diesel-1994-501007-1/",
+      "ano": 1994,
+      "marca": "AGRALE"
+    },
+    {
+      "vehicleId": "agrale-5000-d-rd-2p-diesel-1995-diesel",
+      "fipeCodigo": "501007-1",
+      "displayName": "AGRALE 5000 D-RD 2p (diesel)",
+      "valorAtual": 23871,
+      "canonicalPath": "/fipe/agrale/5000-d-rd-2p-diesel-1995-501007-1/",
+      "ano": 1995,
+      "marca": "AGRALE"
+    },
+    {
+      "vehicleId": "agrale-5000-d-rd-2p-diesel-1996-diesel",
+      "fipeCodigo": "501007-1",
+      "displayName": "AGRALE 5000 D-RD 2p (diesel)",
+      "valorAtual": 25654,
+      "canonicalPath": "/fipe/agrale/5000-d-rd-2p-diesel-1996-501007-1/",
+      "ano": 1996,
+      "marca": "AGRALE"
+    },
+    {
+      "vehicleId": "agrale-5000-d-rd-2p-diesel-1997-diesel",
+      "fipeCodigo": "501007-1",
+      "displayName": "AGRALE 5000 D-RD 2p (diesel)",
+      "valorAtual": 26770,
+      "canonicalPath": "/fipe/agrale/5000-d-rd-2p-diesel-1997-501007-1/",
+      "ano": 1997,
+      "marca": "AGRALE"
+    },
+    {
+      "vehicleId": "agrale-5000-d-rd-2p-diesel-1998-diesel",
+      "fipeCodigo": "501007-1",
+      "displayName": "AGRALE 5000 D-RD 2p (diesel)",
+      "valorAtual": 29443,
+      "canonicalPath": "/fipe/agrale/5000-d-rd-2p-diesel-1998-501007-1/",
+      "ano": 1998,
+      "marca": "AGRALE"
+    },
+    {
+      "vehicleId": "agrale-5000-d-rs-2p-diesel-1994-diesel",
+      "fipeCodigo": "501008-0",
+      "displayName": "AGRALE 5000 D-RS 2p (diesel)",
+      "valorAtual": 18267,
+      "canonicalPath": "/fipe/agrale/5000-d-rs-2p-diesel-1994-501008-0/",
+      "ano": 1994,
+      "marca": "AGRALE"
+    },
+    {
+      "vehicleId": "agrale-5000-d-rs-2p-diesel-1995-diesel",
+      "fipeCodigo": "501008-0",
+      "displayName": "AGRALE 5000 D-RS 2p (diesel)",
+      "valorAtual": 19546,
+      "canonicalPath": "/fipe/agrale/5000-d-rs-2p-diesel-1995-501008-0/",
+      "ano": 1995,
+      "marca": "AGRALE"
+    },
+    {
+      "vehicleId": "agrale-5000-d-rs-2p-diesel-1996-diesel",
+      "fipeCodigo": "501008-0",
+      "displayName": "AGRALE 5000 D-RS 2p (diesel)",
+      "valorAtual": 21494,
+      "canonicalPath": "/fipe/agrale/5000-d-rs-2p-diesel-1996-501008-0/",
+      "ano": 1996,
+      "marca": "AGRALE"
+    },
+    {
+      "vehicleId": "agrale-5000-d-rs-2p-diesel-1997-diesel",
+      "fipeCodigo": "501008-0",
+      "displayName": "AGRALE 5000 D-RS 2p (diesel)",
+      "valorAtual": 23199,
+      "canonicalPath": "/fipe/agrale/5000-d-rs-2p-diesel-1997-501008-0/",
+      "ano": 1997,
+      "marca": "AGRALE"
+    }
+  ],
+  "stats": {
+    "total": 9
+  },
+  "meta": {
+    "geracaoId": "5000-1"
+  }
+}

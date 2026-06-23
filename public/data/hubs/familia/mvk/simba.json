@@ -1,0 +1,42 @@
+{
+  "tipo": "familia",
+  "slug": "simba",
+  "canonicalPath": "/fipe/mvk/simba/",
+  "titulo": "MVK simba - Tabela FIPE",
+  "descricao": "2 versoes e anos do MVK simba na Tabela FIPE.",
+  "seo": {
+    "title": "MVK simba - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes MVK simba. 2 veiculos indexados.",
+    "h1": "MVK simba - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/mvk/simba/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "mvk-simba-50-quadriciclo-2011-gasolina",
+      "fipeCodigo": "845017-0",
+      "displayName": "MVK SIMBA 50 QUADRICICLO",
+      "valorAtual": 1711,
+      "canonicalPath": "/fipe/mvk/simba-50-quadriciclo-2011-845017-0/",
+      "ano": 2011,
+      "marca": "MVK"
+    },
+    {
+      "vehicleId": "mvk-simba-50-quadriciclo-2009-gasolina",
+      "fipeCodigo": "845017-0",
+      "displayName": "MVK SIMBA 50 QUADRICICLO",
+      "valorAtual": 1643,
+      "canonicalPath": "/fipe/mvk/simba-50-quadriciclo-2009-845017-0/",
+      "ano": 2009,
+      "marca": "MVK"
+    }
+  ],
+  "stats": {
+    "total": 2,
+    "precoMin": 1643,
+    "precoMax": 1711,
+    "anos": [
+      2011,
+      2009
+    ]
+  }
+}

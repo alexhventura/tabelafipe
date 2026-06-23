@@ -1,0 +1,82 @@
+{
+  "tipo": "familia",
+  "slug": "mcf",
+  "canonicalPath": "/fipe/motocar/mcf/",
+  "titulo": "MOTOCAR mcf - Tabela FIPE",
+  "descricao": "6 versoes e anos do MOTOCAR mcf na Tabela FIPE.",
+  "seo": {
+    "title": "MOTOCAR mcf - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes MOTOCAR mcf. 6 veiculos indexados.",
+    "h1": "MOTOCAR mcf - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/motocar/mcf/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "motocar-mcf-250-2018-gasolina",
+      "fipeCodigo": "882004-0",
+      "displayName": "MOTOCAR MCF-250",
+      "valorAtual": 18308,
+      "canonicalPath": "/fipe/motocar/mcf-250-2018-882004-0/",
+      "ano": 2018,
+      "marca": "MOTOCAR"
+    },
+    {
+      "vehicleId": "motocar-mcf-250-2017-gasolina",
+      "fipeCodigo": "882004-0",
+      "displayName": "MOTOCAR MCF-250",
+      "valorAtual": 16210,
+      "canonicalPath": "/fipe/motocar/mcf-250-2017-882004-0/",
+      "ano": 2017,
+      "marca": "MOTOCAR"
+    },
+    {
+      "vehicleId": "motocar-mcf-200-2016-gasolina",
+      "fipeCodigo": "882002-3",
+      "displayName": "MOTOCAR MCF-200",
+      "valorAtual": 17275,
+      "canonicalPath": "/fipe/motocar/mcf-200-2016-882002-3/",
+      "ano": 2016,
+      "marca": "MOTOCAR"
+    },
+    {
+      "vehicleId": "motocar-mcf-200-2015-gasolina",
+      "fipeCodigo": "882002-3",
+      "displayName": "MOTOCAR MCF-200",
+      "valorAtual": 15974,
+      "canonicalPath": "/fipe/motocar/mcf-200-2015-882002-3/",
+      "ano": 2015,
+      "marca": "MOTOCAR"
+    },
+    {
+      "vehicleId": "motocar-mcf-200-2014-gasolina",
+      "fipeCodigo": "882002-3",
+      "displayName": "MOTOCAR MCF-200",
+      "valorAtual": 13327,
+      "canonicalPath": "/fipe/motocar/mcf-200-2014-882002-3/",
+      "ano": 2014,
+      "marca": "MOTOCAR"
+    },
+    {
+      "vehicleId": "motocar-mcf-200-2013-gasolina",
+      "fipeCodigo": "882002-3",
+      "displayName": "MOTOCAR MCF-200",
+      "valorAtual": 12104,
+      "canonicalPath": "/fipe/motocar/mcf-200-2013-882002-3/",
+      "ano": 2013,
+      "marca": "MOTOCAR"
+    }
+  ],
+  "stats": {
+    "total": 6,
+    "precoMin": 12104,
+    "precoMax": 18308,
+    "anos": [
+      2018,
+      2017,
+      2016,
+      2015,
+      2014,
+      2013
+    ]
+  }
+}

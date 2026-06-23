@@ -1,0 +1,84 @@
+{
+  "tipo": "geracao",
+  "slug": "toro-1",
+  "canonicalPath": "/geracao/fiat/toro-1/",
+  "titulo": "Geracao toro-1",
+  "descricao": "7 veiculos da geracao toro-1.",
+  "seo": {
+    "title": "Geracao toro-1 - Precos FIPE",
+    "description": "Veiculos da geracao toro-1 na Tabela FIPE.",
+    "h1": "Geracao toro-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/fiat/toro-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "fiat-toro-endurance-1-3-t270-4x2-flex-aut-0-flex",
+      "fipeCodigo": "001537-7",
+      "displayName": "Fiat Toro Endurance 1.3 T270 4x2 Flex Aut.",
+      "valorAtual": 158290,
+      "canonicalPath": "/fipe/fiat/toro-endurance-1-3-t270-4x2-flex-aut-0-001537-7/",
+      "ano": 0,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-toro-freedom-1-3-t270-4x2-flex-aut-0-flex",
+      "fipeCodigo": "001538-5",
+      "displayName": "Fiat Toro Freedom 1.3 T270 4x2 Flex Aut.",
+      "valorAtual": 169328,
+      "canonicalPath": "/fipe/fiat/toro-freedom-1-3-t270-4x2-flex-aut-0-001538-5/",
+      "ano": 0,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-toro-ranch-2-2-16v-4x4-tb-diesel-aut-0-diesel",
+      "fipeCodigo": "001587-3",
+      "displayName": "Fiat Toro Ranch 2.2 16V 4x4 TB Diesel Aut.",
+      "valorAtual": 229219,
+      "canonicalPath": "/fipe/fiat/toro-ranch-2-2-16v-4x4-tb-diesel-aut-0-001587-3/",
+      "ano": 0,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-toro-ultra-1-3-16v-4x2-tb-flex-aut-0-flex",
+      "fipeCodigo": "001588-1",
+      "displayName": "Fiat Toro Ultra 1.3 16V 4x2 TB Flex Aut.",
+      "valorAtual": 196973,
+      "canonicalPath": "/fipe/fiat/toro-ultra-1-3-16v-4x2-tb-flex-aut-0-001588-1/",
+      "ano": 0,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-toro-volcano-1-3-t270-4x2-flex-aut-0-flex",
+      "fipeCodigo": "001539-3",
+      "displayName": "Fiat Toro Volcano 1.3 T270 4x2 Flex Aut.",
+      "valorAtual": 185675,
+      "canonicalPath": "/fipe/fiat/toro-volcano-1-3-t270-4x2-flex-aut-0-001539-3/",
+      "ano": 0,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-toro-volcano-2-0-16v-4x4-tb-diesel-aut-0-diesel",
+      "fipeCodigo": "001453-2",
+      "displayName": "Fiat Toro Volcano 2.0 16V 4x4 TB Diesel Aut.",
+      "valorAtual": 178084,
+      "canonicalPath": "/fipe/fiat/toro-volcano-2-0-16v-4x4-tb-diesel-aut-0-001453-2/",
+      "ano": 0,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-toro-volcano-2-2-16v-4x4-tb-diesel-aut-0-diesel",
+      "fipeCodigo": "001586-5",
+      "displayName": "Fiat Toro Volcano 2.2 16V 4x4 TB Diesel Aut.",
+      "valorAtual": 210926,
+      "canonicalPath": "/fipe/fiat/toro-volcano-2-2-16v-4x4-tb-diesel-aut-0-001586-5/",
+      "ano": 0,
+      "marca": "Fiat"
+    }
+  ],
+  "stats": {
+    "total": 7
+  },
+  "meta": {
+    "geracaoId": "toro-1"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "tipo": "geracao",
+  "slug": "dakar-2",
+  "canonicalPath": "/geracao/agrale/dakar-2/",
+  "titulo": "Geracao dakar-2",
+  "descricao": "4 veiculos da geracao dakar-2.",
+  "seo": {
+    "title": "Geracao dakar-2 - Precos FIPE",
+    "description": "Veiculos da geracao dakar-2 na Tabela FIPE.",
+    "h1": "Geracao dakar-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/agrale/dakar-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "agrale-dakar-50-1997-gasolina",
+      "fipeCodigo": "801005-6",
+      "displayName": "AGRALE DAKAR 50",
+      "valorAtual": 1434,
+      "canonicalPath": "/fipe/agrale/dakar-50-1997-801005-6/",
+      "ano": 1997,
+      "marca": "AGRALE"
+    },
+    {
+      "vehicleId": "agrale-dakar-50-1998-gasolina",
+      "fipeCodigo": "801005-6",
+      "displayName": "AGRALE DAKAR 50",
+      "valorAtual": 1543,
+      "canonicalPath": "/fipe/agrale/dakar-50-1998-801005-6/",
+      "ano": 1998,
+      "marca": "AGRALE"
+    },
+    {
+      "vehicleId": "agrale-dakar-50-1999-gasolina",
+      "fipeCodigo": "801005-6",
+      "displayName": "AGRALE DAKAR 50",
+      "valorAtual": 1769,
+      "canonicalPath": "/fipe/agrale/dakar-50-1999-801005-6/",
+      "ano": 1999,
+      "marca": "AGRALE"
+    },
+    {
+      "vehicleId": "agrale-dakar-50-2000-gasolina",
+      "fipeCodigo": "801005-6",
+      "displayName": "AGRALE DAKAR 50",
+      "valorAtual": 1974,
+      "canonicalPath": "/fipe/agrale/dakar-50-2000-801005-6/",
+      "ano": 2000,
+      "marca": "AGRALE"
+    }
+  ],
+  "stats": {
+    "total": 4
+  },
+  "meta": {
+    "geracaoId": "dakar-2"
+  }
+}

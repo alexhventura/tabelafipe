@@ -1,0 +1,82 @@
+{
+  "tipo": "familia",
+  "slug": "opirus",
+  "canonicalPath": "/fipe/kia-motors/opirus/",
+  "titulo": "Kia Motors opirus - Tabela FIPE",
+  "descricao": "6 versoes e anos do Kia Motors opirus na Tabela FIPE.",
+  "seo": {
+    "title": "Kia Motors opirus - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes Kia Motors opirus. 6 veiculos indexados.",
+    "h1": "Kia Motors opirus - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/kia-motors/opirus/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "kia-motors-opirus-gl-3-8-v6-24v-267cv-aut-2009-gasolina",
+      "fipeCodigo": "018063-7",
+      "displayName": "Kia Motors Opirus GL 3.8 V6 24V 267cv Aut.",
+      "valorAtual": 50577,
+      "canonicalPath": "/fipe/kia-motors/opirus-gl-3-8-v6-24v-267cv-aut-2009-018063-7/",
+      "ano": 2009,
+      "marca": "Kia Motors"
+    },
+    {
+      "vehicleId": "kia-motors-opirus-gl-3-8-v6-24v-267cv-aut-2008-gasolina",
+      "fipeCodigo": "018063-7",
+      "displayName": "Kia Motors Opirus GL 3.8 V6 24V 267cv Aut.",
+      "valorAtual": 48058,
+      "canonicalPath": "/fipe/kia-motors/opirus-gl-3-8-v6-24v-267cv-aut-2008-018063-7/",
+      "ano": 2008,
+      "marca": "Kia Motors"
+    },
+    {
+      "vehicleId": "kia-motors-opirus-gl-3-5-v6-24v-202cv-aut-2007-gasolina",
+      "fipeCodigo": "018052-1",
+      "displayName": "Kia Motors Opirus GL 3.5 V6 24V 202cv Aut.",
+      "valorAtual": 39775,
+      "canonicalPath": "/fipe/kia-motors/opirus-gl-3-5-v6-24v-202cv-aut-2007-018052-1/",
+      "ano": 2007,
+      "marca": "Kia Motors"
+    },
+    {
+      "vehicleId": "kia-motors-opirus-gl-3-5-v6-24v-202cv-aut-2006-gasolina",
+      "fipeCodigo": "018052-1",
+      "displayName": "Kia Motors Opirus GL 3.5 V6 24V 202cv Aut.",
+      "valorAtual": 38648,
+      "canonicalPath": "/fipe/kia-motors/opirus-gl-3-5-v6-24v-202cv-aut-2006-018052-1/",
+      "ano": 2006,
+      "marca": "Kia Motors"
+    },
+    {
+      "vehicleId": "kia-motors-opirus-gl-3-5-v6-24v-202cv-aut-2005-gasolina",
+      "fipeCodigo": "018052-1",
+      "displayName": "Kia Motors Opirus GL 3.5 V6 24V 202cv Aut.",
+      "valorAtual": 29727,
+      "canonicalPath": "/fipe/kia-motors/opirus-gl-3-5-v6-24v-202cv-aut-2005-018052-1/",
+      "ano": 2005,
+      "marca": "Kia Motors"
+    },
+    {
+      "vehicleId": "kia-motors-opirus-gl-3-5-v6-24v-202cv-aut-2004-gasolina",
+      "fipeCodigo": "018052-1",
+      "displayName": "Kia Motors Opirus GL 3.5 V6 24V 202cv Aut.",
+      "valorAtual": 24511,
+      "canonicalPath": "/fipe/kia-motors/opirus-gl-3-5-v6-24v-202cv-aut-2004-018052-1/",
+      "ano": 2004,
+      "marca": "Kia Motors"
+    }
+  ],
+  "stats": {
+    "total": 6,
+    "precoMin": 24511,
+    "precoMax": 50577,
+    "anos": [
+      2009,
+      2008,
+      2007,
+      2006,
+      2005,
+      2004
+    ]
+  }
+}

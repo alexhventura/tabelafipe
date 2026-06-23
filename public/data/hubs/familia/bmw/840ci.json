@@ -1,0 +1,82 @@
+{
+  "tipo": "familia",
+  "slug": "840ci",
+  "canonicalPath": "/fipe/bmw/840ci/",
+  "titulo": "BMW 840ci - Tabela FIPE",
+  "descricao": "6 versoes e anos do BMW 840ci na Tabela FIPE.",
+  "seo": {
+    "title": "BMW 840ci - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes BMW 840ci. 6 veiculos indexados.",
+    "h1": "BMW 840ci - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/bmw/840ci/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "bmw-840ci-1997-gasolina",
+      "fipeCodigo": "009050-6",
+      "displayName": "BMW 840Ci",
+      "valorAtual": 44750,
+      "canonicalPath": "/fipe/bmw/840ci-1997-009050-6/",
+      "ano": 1997,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-840ci-1996-gasolina",
+      "fipeCodigo": "009050-6",
+      "displayName": "BMW 840Ci",
+      "valorAtual": 42941,
+      "canonicalPath": "/fipe/bmw/840ci-1996-009050-6/",
+      "ano": 1996,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-840ci-1995-gasolina",
+      "fipeCodigo": "009050-6",
+      "displayName": "BMW 840Ci",
+      "valorAtual": 40454,
+      "canonicalPath": "/fipe/bmw/840ci-1995-009050-6/",
+      "ano": 1995,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-840ci-1994-gasolina",
+      "fipeCodigo": "009050-6",
+      "displayName": "BMW 840Ci",
+      "valorAtual": 34237,
+      "canonicalPath": "/fipe/bmw/840ci-1994-009050-6/",
+      "ano": 1994,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-840ci-1993-gasolina",
+      "fipeCodigo": "009050-6",
+      "displayName": "BMW 840Ci",
+      "valorAtual": 31132,
+      "canonicalPath": "/fipe/bmw/840ci-1993-009050-6/",
+      "ano": 1993,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-840ci-1992-gasolina",
+      "fipeCodigo": "009050-6",
+      "displayName": "BMW 840Ci",
+      "valorAtual": 29990,
+      "canonicalPath": "/fipe/bmw/840ci-1992-009050-6/",
+      "ano": 1992,
+      "marca": "BMW"
+    }
+  ],
+  "stats": {
+    "total": 6,
+    "precoMin": 29990,
+    "precoMax": 44750,
+    "anos": [
+      1997,
+      1996,
+      1995,
+      1994,
+      1993,
+      1992
+    ]
+  }
+}

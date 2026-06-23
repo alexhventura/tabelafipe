@@ -1,0 +1,82 @@
+{
+  "tipo": "familia",
+  "slug": "f599",
+  "canonicalPath": "/fipe/ferrari/f599/",
+  "titulo": "Ferrari f599 - Tabela FIPE",
+  "descricao": "6 versoes e anos do Ferrari f599 na Tabela FIPE.",
+  "seo": {
+    "title": "Ferrari f599 - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes Ferrari f599. 6 veiculos indexados.",
+    "h1": "Ferrari f599 - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/ferrari/f599/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "ferrari-f599-gtb-fiorano-f1-6-0-v12-620cv-2012-gasolina",
+      "fipeCodigo": "031028-0",
+      "displayName": "Ferrari F599 GTB Fiorano F1 6.0 V12 620cv",
+      "valorAtual": 2620999,
+      "canonicalPath": "/fipe/ferrari/f599-gtb-fiorano-f1-6-0-v12-620cv-2012-031028-0/",
+      "ano": 2012,
+      "marca": "Ferrari"
+    },
+    {
+      "vehicleId": "ferrari-f599-gtb-fiorano-f1-6-0-v12-620cv-2011-gasolina",
+      "fipeCodigo": "031028-0",
+      "displayName": "Ferrari F599 GTB Fiorano F1 6.0 V12 620cv",
+      "valorAtual": 2557072,
+      "canonicalPath": "/fipe/ferrari/f599-gtb-fiorano-f1-6-0-v12-620cv-2011-031028-0/",
+      "ano": 2011,
+      "marca": "Ferrari"
+    },
+    {
+      "vehicleId": "ferrari-f599-gtb-fiorano-f1-6-0-v12-620cv-2010-gasolina",
+      "fipeCodigo": "031028-0",
+      "displayName": "Ferrari F599 GTB Fiorano F1 6.0 V12 620cv",
+      "valorAtual": 2494704,
+      "canonicalPath": "/fipe/ferrari/f599-gtb-fiorano-f1-6-0-v12-620cv-2010-031028-0/",
+      "ano": 2010,
+      "marca": "Ferrari"
+    },
+    {
+      "vehicleId": "ferrari-f599-gtb-fiorano-f1-6-0-v12-620cv-2009-gasolina",
+      "fipeCodigo": "031028-0",
+      "displayName": "Ferrari F599 GTB Fiorano F1 6.0 V12 620cv",
+      "valorAtual": 2433857,
+      "canonicalPath": "/fipe/ferrari/f599-gtb-fiorano-f1-6-0-v12-620cv-2009-031028-0/",
+      "ano": 2009,
+      "marca": "Ferrari"
+    },
+    {
+      "vehicleId": "ferrari-f599-gtb-fiorano-f1-6-0-v12-620cv-2008-gasolina",
+      "fipeCodigo": "031028-0",
+      "displayName": "Ferrari F599 GTB Fiorano F1 6.0 V12 620cv",
+      "valorAtual": 1660884,
+      "canonicalPath": "/fipe/ferrari/f599-gtb-fiorano-f1-6-0-v12-620cv-2008-031028-0/",
+      "ano": 2008,
+      "marca": "Ferrari"
+    },
+    {
+      "vehicleId": "ferrari-f599-gtb-fiorano-f1-6-0-v12-620cv-2007-gasolina",
+      "fipeCodigo": "031028-0",
+      "displayName": "Ferrari F599 GTB Fiorano F1 6.0 V12 620cv",
+      "valorAtual": 1545872,
+      "canonicalPath": "/fipe/ferrari/f599-gtb-fiorano-f1-6-0-v12-620cv-2007-031028-0/",
+      "ano": 2007,
+      "marca": "Ferrari"
+    }
+  ],
+  "stats": {
+    "total": 6,
+    "precoMin": 1545872,
+    "precoMax": 2620999,
+    "anos": [
+      2012,
+      2011,
+      2010,
+      2009,
+      2008,
+      2007
+    ]
+  }
+}

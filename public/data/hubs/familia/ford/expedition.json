@@ -1,0 +1,52 @@
+{
+  "tipo": "familia",
+  "slug": "expedition",
+  "canonicalPath": "/fipe/ford/expedition/",
+  "titulo": "Ford expedition - Tabela FIPE",
+  "descricao": "3 versoes e anos do Ford expedition na Tabela FIPE.",
+  "seo": {
+    "title": "Ford expedition - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes Ford expedition. 3 veiculos indexados.",
+    "h1": "Ford expedition - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/ford/expedition/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "ford-expedition-5-4-v8-1999-gasolina",
+      "fipeCodigo": "003154-2",
+      "displayName": "Ford Expedition 5.4 V8",
+      "valorAtual": 52226,
+      "canonicalPath": "/fipe/ford/expedition-5-4-v8-1999-003154-2/",
+      "ano": 1999,
+      "marca": "Ford"
+    },
+    {
+      "vehicleId": "ford-expedition-5-4-v8-1998-gasolina",
+      "fipeCodigo": "003154-2",
+      "displayName": "Ford Expedition 5.4 V8",
+      "valorAtual": 50952,
+      "canonicalPath": "/fipe/ford/expedition-5-4-v8-1998-003154-2/",
+      "ano": 1998,
+      "marca": "Ford"
+    },
+    {
+      "vehicleId": "ford-expedition-5-4-v8-1997-gasolina",
+      "fipeCodigo": "003154-2",
+      "displayName": "Ford Expedition 5.4 V8",
+      "valorAtual": 35372,
+      "canonicalPath": "/fipe/ford/expedition-5-4-v8-1997-003154-2/",
+      "ano": 1997,
+      "marca": "Ford"
+    }
+  ],
+  "stats": {
+    "total": 3,
+    "precoMin": 35372,
+    "precoMax": 52226,
+    "anos": [
+      1999,
+      1998,
+      1997
+    ]
+  }
+}

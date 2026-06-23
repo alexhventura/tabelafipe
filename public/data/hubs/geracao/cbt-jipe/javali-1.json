@@ -1,0 +1,93 @@
+{
+  "tipo": "geracao",
+  "slug": "javali-1",
+  "canonicalPath": "/geracao/cbt-jipe/javali-1/",
+  "titulo": "Geracao javali-1",
+  "descricao": "8 veiculos da geracao javali-1.",
+  "seo": {
+    "title": "Geracao javali-1 - Precos FIPE",
+    "description": "Veiculos da geracao javali-1 na Tabela FIPE.",
+    "h1": "Geracao javali-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/cbt-jipe/javali-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "cbt-jipe-javali-3-0-4x4-diesel-1988-diesel",
+      "fipeCodigo": "042001-8",
+      "displayName": "CBT Jipe Javali 3.0 4x4 Diesel",
+      "valorAtual": 17494,
+      "canonicalPath": "/fipe/cbt-jipe/javali-3-0-4x4-diesel-1988-042001-8/",
+      "ano": 1988,
+      "marca": "CBT Jipe"
+    },
+    {
+      "vehicleId": "cbt-jipe-javali-3-0-4x4-diesel-1989-diesel",
+      "fipeCodigo": "042001-8",
+      "displayName": "CBT Jipe Javali 3.0 4x4 Diesel",
+      "valorAtual": 24055,
+      "canonicalPath": "/fipe/cbt-jipe/javali-3-0-4x4-diesel-1989-042001-8/",
+      "ano": 1989,
+      "marca": "CBT Jipe"
+    },
+    {
+      "vehicleId": "cbt-jipe-javali-3-0-4x4-diesel-1990-diesel",
+      "fipeCodigo": "042001-8",
+      "displayName": "CBT Jipe Javali 3.0 4x4 Diesel",
+      "valorAtual": 36948,
+      "canonicalPath": "/fipe/cbt-jipe/javali-3-0-4x4-diesel-1990-042001-8/",
+      "ano": 1990,
+      "marca": "CBT Jipe"
+    },
+    {
+      "vehicleId": "cbt-jipe-javali-3-0-4x4-diesel-1991-diesel",
+      "fipeCodigo": "042001-8",
+      "displayName": "CBT Jipe Javali 3.0 4x4 Diesel",
+      "valorAtual": 37872,
+      "canonicalPath": "/fipe/cbt-jipe/javali-3-0-4x4-diesel-1991-042001-8/",
+      "ano": 1991,
+      "marca": "CBT Jipe"
+    },
+    {
+      "vehicleId": "cbt-jipe-javali-3-0-4x4-diesel-1992-diesel",
+      "fipeCodigo": "042001-8",
+      "displayName": "CBT Jipe Javali 3.0 4x4 Diesel",
+      "valorAtual": 38819,
+      "canonicalPath": "/fipe/cbt-jipe/javali-3-0-4x4-diesel-1992-042001-8/",
+      "ano": 1992,
+      "marca": "CBT Jipe"
+    },
+    {
+      "vehicleId": "cbt-jipe-javali-3-0-4x4-diesel-1993-diesel",
+      "fipeCodigo": "042001-8",
+      "displayName": "CBT Jipe Javali 3.0 4x4 Diesel",
+      "valorAtual": 39790,
+      "canonicalPath": "/fipe/cbt-jipe/javali-3-0-4x4-diesel-1993-042001-8/",
+      "ano": 1993,
+      "marca": "CBT Jipe"
+    },
+    {
+      "vehicleId": "cbt-jipe-javali-3-0-4x4-diesel-1994-diesel",
+      "fipeCodigo": "042001-8",
+      "displayName": "CBT Jipe Javali 3.0 4x4 Diesel",
+      "valorAtual": 40785,
+      "canonicalPath": "/fipe/cbt-jipe/javali-3-0-4x4-diesel-1994-042001-8/",
+      "ano": 1994,
+      "marca": "CBT Jipe"
+    },
+    {
+      "vehicleId": "cbt-jipe-javali-3-0-4x4-diesel-1995-diesel",
+      "fipeCodigo": "042001-8",
+      "displayName": "CBT Jipe Javali 3.0 4x4 Diesel",
+      "valorAtual": 41805,
+      "canonicalPath": "/fipe/cbt-jipe/javali-3-0-4x4-diesel-1995-042001-8/",
+      "ano": 1995,
+      "marca": "CBT Jipe"
+    }
+  ],
+  "stats": {
+    "total": 8
+  },
+  "meta": {
+    "geracaoId": "javali-1"
+  }
+}

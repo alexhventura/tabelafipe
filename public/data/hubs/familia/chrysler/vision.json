@@ -1,0 +1,42 @@
+{
+  "tipo": "familia",
+  "slug": "vision",
+  "canonicalPath": "/fipe/chrysler/vision/",
+  "titulo": "Chrysler vision - Tabela FIPE",
+  "descricao": "2 versoes e anos do Chrysler vision na Tabela FIPE.",
+  "seo": {
+    "title": "Chrysler vision - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes Chrysler vision. 2 veiculos indexados.",
+    "h1": "Chrysler vision - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/chrysler/vision/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "chrysler-vision-3-5-24v-1995-gasolina",
+      "fipeCodigo": "010013-7",
+      "displayName": "Chrysler Vision 3.5 24V",
+      "valorAtual": 11092,
+      "canonicalPath": "/fipe/chrysler/vision-3-5-24v-1995-010013-7/",
+      "ano": 1995,
+      "marca": "Chrysler"
+    },
+    {
+      "vehicleId": "chrysler-vision-3-5-24v-1994-gasolina",
+      "fipeCodigo": "010013-7",
+      "displayName": "Chrysler Vision 3.5 24V",
+      "valorAtual": 10386,
+      "canonicalPath": "/fipe/chrysler/vision-3-5-24v-1994-010013-7/",
+      "ano": 1994,
+      "marca": "Chrysler"
+    }
+  ],
+  "stats": {
+    "total": 2,
+    "precoMin": 10386,
+    "precoMax": 11092,
+    "anos": [
+      1995,
+      1994
+    ]
+  }
+}

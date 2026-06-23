@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "607-2",
+  "canonicalPath": "/geracao/peugeot/607-2/",
+  "titulo": "Geracao 607-2",
+  "descricao": "2 veiculos da geracao 607-2.",
+  "seo": {
+    "title": "Geracao 607-2 - Precos FIPE",
+    "description": "Veiculos da geracao 607-2 na Tabela FIPE.",
+    "h1": "Geracao 607-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/peugeot/607-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "peugeot-607-sedan-3-0-v6-2004-gasolina",
+      "fipeCodigo": "024079-6",
+      "displayName": "Peugeot 607 Sedan 3.0 V6",
+      "valorAtual": 32090,
+      "canonicalPath": "/fipe/peugeot/607-sedan-3-0-v6-2004-024079-6/",
+      "ano": 2004,
+      "marca": "Peugeot"
+    },
+    {
+      "vehicleId": "peugeot-607-sedan-3-0-v6-2005-gasolina",
+      "fipeCodigo": "024079-6",
+      "displayName": "Peugeot 607 Sedan 3.0 V6",
+      "valorAtual": 32893,
+      "canonicalPath": "/fipe/peugeot/607-sedan-3-0-v6-2005-024079-6/",
+      "ano": 2005,
+      "marca": "Peugeot"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "607-2"
+  }
+}

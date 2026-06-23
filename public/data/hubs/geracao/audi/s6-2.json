@@ -1,0 +1,75 @@
+{
+  "tipo": "geracao",
+  "slug": "s6-2",
+  "canonicalPath": "/geracao/audi/s6-2/",
+  "titulo": "Geracao s6-2",
+  "descricao": "6 veiculos da geracao s6-2.",
+  "seo": {
+    "title": "Geracao s6-2 - Precos FIPE",
+    "description": "Veiculos da geracao s6-2 na Tabela FIPE.",
+    "h1": "Geracao s6-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/audi/s6-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "audi-s6-4-2-avant-v8-40v-quattro-tiptronic-2001-gasolina",
+      "fipeCodigo": "008097-7",
+      "displayName": "Audi S6 4.2 Avant V8 40V Quattro Tiptronic",
+      "valorAtual": 49720,
+      "canonicalPath": "/fipe/audi/s6-4-2-avant-v8-40v-quattro-tiptronic-2001-008097-7/",
+      "ano": 2001,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-s6-4-2-v8-40v-quattro-mec-2001-gasolina",
+      "fipeCodigo": "008099-3",
+      "displayName": "Audi S6 4.2 V8 40V Quattro Mec",
+      "valorAtual": 42987,
+      "canonicalPath": "/fipe/audi/s6-4-2-v8-40v-quattro-mec-2001-008099-3/",
+      "ano": 2001,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-s6-4-2-v8-40v-quattro-tiptronic-2001-gasolina",
+      "fipeCodigo": "008098-5",
+      "displayName": "Audi S6 4.2 V8 40V Quattro Tiptronic",
+      "valorAtual": 47762,
+      "canonicalPath": "/fipe/audi/s6-4-2-v8-40v-quattro-tiptronic-2001-008098-5/",
+      "ano": 2001,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-s6-4-2-v8-40v-quattro-tiptronic-2002-gasolina",
+      "fipeCodigo": "008098-5",
+      "displayName": "Audi S6 4.2 V8 40V Quattro Tiptronic",
+      "valorAtual": 55766,
+      "canonicalPath": "/fipe/audi/s6-4-2-v8-40v-quattro-tiptronic-2002-008098-5/",
+      "ano": 2002,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-s6-4-2-v8-40v-quattro-tiptronic-2003-gasolina",
+      "fipeCodigo": "008098-5",
+      "displayName": "Audi S6 4.2 V8 40V Quattro Tiptronic",
+      "valorAtual": 67024,
+      "canonicalPath": "/fipe/audi/s6-4-2-v8-40v-quattro-tiptronic-2003-008098-5/",
+      "ano": 2003,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-s6-4-2-v8-40v-quattro-tiptronic-2004-gasolina",
+      "fipeCodigo": "008098-5",
+      "displayName": "Audi S6 4.2 V8 40V Quattro Tiptronic",
+      "valorAtual": 81140,
+      "canonicalPath": "/fipe/audi/s6-4-2-v8-40v-quattro-tiptronic-2004-008098-5/",
+      "ano": 2004,
+      "marca": "Audi"
+    }
+  ],
+  "stats": {
+    "total": 6
+  },
+  "meta": {
+    "geracaoId": "s6-2"
+  }
+}

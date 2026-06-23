@@ -1,0 +1,48 @@
+{
+  "tipo": "geracao",
+  "slug": "zoe-2",
+  "canonicalPath": "/geracao/renault/zoe-2/",
+  "titulo": "Geracao zoe-2",
+  "descricao": "3 veiculos da geracao zoe-2.",
+  "seo": {
+    "title": "Geracao zoe-2 - Precos FIPE",
+    "description": "Veiculos da geracao zoe-2 na Tabela FIPE.",
+    "h1": "Geracao zoe-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/renault/zoe-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "renault-zoe-intense-eletrico-2022-eletrico",
+      "fipeCodigo": "025276-0",
+      "displayName": "Renault ZOE Intense (Elétrico)",
+      "valorAtual": 105572,
+      "canonicalPath": "/fipe/renault/zoe-intense-eletrico-2022-025276-0/",
+      "ano": 2022,
+      "marca": "Renault"
+    },
+    {
+      "vehicleId": "renault-zoe-intense-eletrico-2023-eletrico",
+      "fipeCodigo": "025276-0",
+      "displayName": "Renault ZOE Intense (Elétrico)",
+      "valorAtual": 141130,
+      "canonicalPath": "/fipe/renault/zoe-intense-eletrico-2023-025276-0/",
+      "ano": 2023,
+      "marca": "Renault"
+    },
+    {
+      "vehicleId": "renault-zoe-zen-eletrico-2022-eletrico",
+      "fipeCodigo": "025305-7",
+      "displayName": "Renault ZOE Zen (Elétrico)",
+      "valorAtual": 132711,
+      "canonicalPath": "/fipe/renault/zoe-zen-eletrico-2022-025305-7/",
+      "ano": 2022,
+      "marca": "Renault"
+    }
+  ],
+  "stats": {
+    "total": 3
+  },
+  "meta": {
+    "geracaoId": "zoe-2"
+  }
+}

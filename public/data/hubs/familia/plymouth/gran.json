@@ -1,0 +1,62 @@
+{
+  "tipo": "familia",
+  "slug": "gran",
+  "canonicalPath": "/fipe/plymouth/gran/",
+  "titulo": "Plymouth gran - Tabela FIPE",
+  "descricao": "4 versoes e anos do Plymouth gran na Tabela FIPE.",
+  "seo": {
+    "title": "Plymouth gran - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes Plymouth gran. 4 veiculos indexados.",
+    "h1": "Plymouth gran - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/plymouth/gran/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "plymouth-gran-voyager-le-2-5-1995-gasolina",
+      "fipeCodigo": "050001-1",
+      "displayName": "Plymouth Gran Voyager LE 2.5",
+      "valorAtual": 13725,
+      "canonicalPath": "/fipe/plymouth/gran-voyager-le-2-5-1995-050001-1/",
+      "ano": 1995,
+      "marca": "Plymouth"
+    },
+    {
+      "vehicleId": "plymouth-gran-voyager-le-2-5-1994-gasolina",
+      "fipeCodigo": "050001-1",
+      "displayName": "Plymouth Gran Voyager LE 2.5",
+      "valorAtual": 11069,
+      "canonicalPath": "/fipe/plymouth/gran-voyager-le-2-5-1994-050001-1/",
+      "ano": 1994,
+      "marca": "Plymouth"
+    },
+    {
+      "vehicleId": "plymouth-gran-voyager-le-2-5-1993-gasolina",
+      "fipeCodigo": "050001-1",
+      "displayName": "Plymouth Gran Voyager LE 2.5",
+      "valorAtual": 10007,
+      "canonicalPath": "/fipe/plymouth/gran-voyager-le-2-5-1993-050001-1/",
+      "ano": 1993,
+      "marca": "Plymouth"
+    },
+    {
+      "vehicleId": "plymouth-gran-voyager-le-2-5-1992-gasolina",
+      "fipeCodigo": "050001-1",
+      "displayName": "Plymouth Gran Voyager LE 2.5",
+      "valorAtual": 9013,
+      "canonicalPath": "/fipe/plymouth/gran-voyager-le-2-5-1992-050001-1/",
+      "ano": 1992,
+      "marca": "Plymouth"
+    }
+  ],
+  "stats": {
+    "total": 4,
+    "precoMin": 9013,
+    "precoMax": 13725,
+    "anos": [
+      1995,
+      1994,
+      1993,
+      1992
+    ]
+  }
+}

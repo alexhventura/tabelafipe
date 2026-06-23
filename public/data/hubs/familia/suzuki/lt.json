@@ -1,0 +1,136 @@
+{
+  "tipo": "familia",
+  "slug": "lt",
+  "canonicalPath": "/fipe/suzuki/lt/",
+  "titulo": "SUZUKI lt - Tabela FIPE",
+  "descricao": "12 versoes e anos do SUZUKI lt na Tabela FIPE.",
+  "seo": {
+    "title": "SUZUKI lt - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes SUZUKI lt. 12 veiculos indexados.",
+    "h1": "SUZUKI lt - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/suzuki/lt/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "suzuki-lt-50-quadriciclo-2006-gasolina",
+      "fipeCodigo": "825035-9",
+      "displayName": "SUZUKI LT 50 Quadriciclo",
+      "valorAtual": 2056,
+      "canonicalPath": "/fipe/suzuki/lt-50-quadriciclo-2006-825035-9/",
+      "ano": 2006,
+      "marca": "SUZUKI"
+    },
+    {
+      "vehicleId": "suzuki-lt-50-quadriciclo-2005-gasolina",
+      "fipeCodigo": "825035-9",
+      "displayName": "SUZUKI LT 50 Quadriciclo",
+      "valorAtual": 1926,
+      "canonicalPath": "/fipe/suzuki/lt-50-quadriciclo-2005-825035-9/",
+      "ano": 2005,
+      "marca": "SUZUKI"
+    },
+    {
+      "vehicleId": "suzuki-lt-50-quadriciclo-2004-gasolina",
+      "fipeCodigo": "825035-9",
+      "displayName": "SUZUKI LT 50 Quadriciclo",
+      "valorAtual": 1658,
+      "canonicalPath": "/fipe/suzuki/lt-50-quadriciclo-2004-825035-9/",
+      "ano": 2004,
+      "marca": "SUZUKI"
+    },
+    {
+      "vehicleId": "suzuki-lt-50-quadriciclo-2003-gasolina",
+      "fipeCodigo": "825035-9",
+      "displayName": "SUZUKI LT 50 Quadriciclo",
+      "valorAtual": 1592,
+      "canonicalPath": "/fipe/suzuki/lt-50-quadriciclo-2003-825035-9/",
+      "ano": 2003,
+      "marca": "SUZUKI"
+    },
+    {
+      "vehicleId": "suzuki-lt-80-quadriciclo-2003-gasolina",
+      "fipeCodigo": "825036-7",
+      "displayName": "SUZUKI LT 80 Quadriciclo",
+      "valorAtual": 4727,
+      "canonicalPath": "/fipe/suzuki/lt-80-quadriciclo-2003-825036-7/",
+      "ano": 2003,
+      "marca": "SUZUKI"
+    },
+    {
+      "vehicleId": "suzuki-lt-f160-quadriciclo-2003-gasolina",
+      "fipeCodigo": "825037-5",
+      "displayName": "SUZUKI LT F160 Quadriciclo",
+      "valorAtual": 6232,
+      "canonicalPath": "/fipe/suzuki/lt-f160-quadriciclo-2003-825037-5/",
+      "ano": 2003,
+      "marca": "SUZUKI"
+    },
+    {
+      "vehicleId": "suzuki-lt-50-quadriciclo-2002-gasolina",
+      "fipeCodigo": "825035-9",
+      "displayName": "SUZUKI LT 50 Quadriciclo",
+      "valorAtual": 1513,
+      "canonicalPath": "/fipe/suzuki/lt-50-quadriciclo-2002-825035-9/",
+      "ano": 2002,
+      "marca": "SUZUKI"
+    },
+    {
+      "vehicleId": "suzuki-lt-80-quadriciclo-2002-gasolina",
+      "fipeCodigo": "825036-7",
+      "displayName": "SUZUKI LT 80 Quadriciclo",
+      "valorAtual": 4439,
+      "canonicalPath": "/fipe/suzuki/lt-80-quadriciclo-2002-825036-7/",
+      "ano": 2002,
+      "marca": "SUZUKI"
+    },
+    {
+      "vehicleId": "suzuki-lt-f160-quadriciclo-2002-gasolina",
+      "fipeCodigo": "825037-5",
+      "displayName": "SUZUKI LT F160 Quadriciclo",
+      "valorAtual": 5684,
+      "canonicalPath": "/fipe/suzuki/lt-f160-quadriciclo-2002-825037-5/",
+      "ano": 2002,
+      "marca": "SUZUKI"
+    },
+    {
+      "vehicleId": "suzuki-lt-50-quadriciclo-2001-gasolina",
+      "fipeCodigo": "825035-9",
+      "displayName": "SUZUKI LT 50 Quadriciclo",
+      "valorAtual": 1357,
+      "canonicalPath": "/fipe/suzuki/lt-50-quadriciclo-2001-825035-9/",
+      "ano": 2001,
+      "marca": "SUZUKI"
+    },
+    {
+      "vehicleId": "suzuki-lt-80-quadriciclo-2001-gasolina",
+      "fipeCodigo": "825036-7",
+      "displayName": "SUZUKI LT 80 Quadriciclo",
+      "valorAtual": 3950,
+      "canonicalPath": "/fipe/suzuki/lt-80-quadriciclo-2001-825036-7/",
+      "ano": 2001,
+      "marca": "SUZUKI"
+    },
+    {
+      "vehicleId": "suzuki-lt-f160-quadriciclo-2001-gasolina",
+      "fipeCodigo": "825037-5",
+      "displayName": "SUZUKI LT F160 Quadriciclo",
+      "valorAtual": 4921,
+      "canonicalPath": "/fipe/suzuki/lt-f160-quadriciclo-2001-825037-5/",
+      "ano": 2001,
+      "marca": "SUZUKI"
+    }
+  ],
+  "stats": {
+    "total": 12,
+    "precoMin": 1357,
+    "precoMax": 6232,
+    "anos": [
+      2006,
+      2005,
+      2004,
+      2003,
+      2002,
+      2001
+    ]
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "tipo": "geracao",
+  "slug": "axis-1",
+  "canonicalPath": "/geracao/yamaha/axis-1/",
+  "titulo": "Geracao axis-1",
+  "descricao": "5 veiculos da geracao axis-1.",
+  "seo": {
+    "title": "Geracao axis-1 - Precos FIPE",
+    "description": "Veiculos da geracao axis-1 na Tabela FIPE.",
+    "h1": "Geracao axis-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/yamaha/axis-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "yamaha-axis-90-1994-gasolina",
+      "fipeCodigo": "827002-3",
+      "displayName": "YAMAHA AXIS 90",
+      "valorAtual": 2021,
+      "canonicalPath": "/fipe/yamaha/axis-90-1994-827002-3/",
+      "ano": 1994,
+      "marca": "YAMAHA"
+    },
+    {
+      "vehicleId": "yamaha-axis-90-1995-gasolina",
+      "fipeCodigo": "827002-3",
+      "displayName": "YAMAHA AXIS 90",
+      "valorAtual": 2376,
+      "canonicalPath": "/fipe/yamaha/axis-90-1995-827002-3/",
+      "ano": 1995,
+      "marca": "YAMAHA"
+    },
+    {
+      "vehicleId": "yamaha-axis-90-1996-gasolina",
+      "fipeCodigo": "827002-3",
+      "displayName": "YAMAHA AXIS 90",
+      "valorAtual": 2465,
+      "canonicalPath": "/fipe/yamaha/axis-90-1996-827002-3/",
+      "ano": 1996,
+      "marca": "YAMAHA"
+    },
+    {
+      "vehicleId": "yamaha-axis-90-1997-gasolina",
+      "fipeCodigo": "827002-3",
+      "displayName": "YAMAHA AXIS 90",
+      "valorAtual": 2527,
+      "canonicalPath": "/fipe/yamaha/axis-90-1997-827002-3/",
+      "ano": 1997,
+      "marca": "YAMAHA"
+    },
+    {
+      "vehicleId": "yamaha-axis-90-1998-gasolina",
+      "fipeCodigo": "827002-3",
+      "displayName": "YAMAHA AXIS 90",
+      "valorAtual": 2872,
+      "canonicalPath": "/fipe/yamaha/axis-90-1998-827002-3/",
+      "ano": 1998,
+      "marca": "YAMAHA"
+    }
+  ],
+  "stats": {
+    "total": 5
+  },
+  "meta": {
+    "geracaoId": "axis-1"
+  }
+}

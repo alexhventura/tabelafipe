@@ -1,0 +1,60 @@
+{
+  "tipo": "familia",
+  "slug": "xjs",
+  "canonicalPath": "/fipe/jaguar/xjs/",
+  "titulo": "Jaguar xjs - Tabela FIPE",
+  "descricao": "4 versoes e anos do Jaguar xjs na Tabela FIPE.",
+  "seo": {
+    "title": "Jaguar xjs - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes Jaguar xjs. 4 veiculos indexados.",
+    "h1": "Jaguar xjs - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/jaguar/xjs/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "jaguar-xjs-4-0-24v-1995-gasolina",
+      "fipeCodigo": "016011-3",
+      "displayName": "Jaguar XJS 4.0 24V",
+      "valorAtual": 34812,
+      "canonicalPath": "/fipe/jaguar/xjs-4-0-24v-1995-016011-3/",
+      "ano": 1995,
+      "marca": "Jaguar"
+    },
+    {
+      "vehicleId": "jaguar-xjs-c-6-0-v12-1995-gasolina",
+      "fipeCodigo": "016012-1",
+      "displayName": "Jaguar XJS-C 6.0 V12",
+      "valorAtual": 48909,
+      "canonicalPath": "/fipe/jaguar/xjs-c-6-0-v12-1995-016012-1/",
+      "ano": 1995,
+      "marca": "Jaguar"
+    },
+    {
+      "vehicleId": "jaguar-xjs-4-0-24v-1994-gasolina",
+      "fipeCodigo": "016011-3",
+      "displayName": "Jaguar XJS 4.0 24V",
+      "valorAtual": 33962,
+      "canonicalPath": "/fipe/jaguar/xjs-4-0-24v-1994-016011-3/",
+      "ano": 1994,
+      "marca": "Jaguar"
+    },
+    {
+      "vehicleId": "jaguar-xjs-c-6-0-v12-1994-gasolina",
+      "fipeCodigo": "016012-1",
+      "displayName": "Jaguar XJS-C 6.0 V12",
+      "valorAtual": 47716,
+      "canonicalPath": "/fipe/jaguar/xjs-c-6-0-v12-1994-016012-1/",
+      "ano": 1994,
+      "marca": "Jaguar"
+    }
+  ],
+  "stats": {
+    "total": 4,
+    "precoMin": 33962,
+    "precoMax": 48909,
+    "anos": [
+      1995,
+      1994
+    ]
+  }
+}

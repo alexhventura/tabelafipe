@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "420i-2",
+  "canonicalPath": "/geracao/bmw/420i-2/",
+  "titulo": "Geracao 420i-2",
+  "descricao": "2 veiculos da geracao 420i-2.",
+  "seo": {
+    "title": "Geracao 420i-2 - Precos FIPE",
+    "description": "Veiculos da geracao 420i-2 na Tabela FIPE.",
+    "h1": "Geracao 420i-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/bmw/420i-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "bmw-420i-cabriolet-sport-2-0-tb-184cv-2p-2015-gasolina",
+      "fipeCodigo": "009203-7",
+      "displayName": "BMW 420i Cabriolet Sport 2.0 TB 184cv 2p",
+      "valorAtual": 183517,
+      "canonicalPath": "/fipe/bmw/420i-cabriolet-sport-2-0-tb-184cv-2p-2015-009203-7/",
+      "ano": 2015,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-420i-cabriolet-sport-2-0-tb-184cv-2p-2016-gasolina",
+      "fipeCodigo": "009203-7",
+      "displayName": "BMW 420i Cabriolet Sport 2.0 TB 184cv 2p",
+      "valorAtual": 188105,
+      "canonicalPath": "/fipe/bmw/420i-cabriolet-sport-2-0-tb-184cv-2p-2016-009203-7/",
+      "ano": 2016,
+      "marca": "BMW"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "420i-2"
+  }
+}

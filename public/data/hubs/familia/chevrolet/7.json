@@ -1,0 +1,92 @@
+{
+  "tipo": "familia",
+  "slug": "7",
+  "canonicalPath": "/fipe/chevrolet/7/",
+  "titulo": "GMC 7 - Tabela FIPE",
+  "descricao": "7 versoes e anos do GMC 7 na Tabela FIPE.",
+  "seo": {
+    "title": "GMC 7 - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes GMC 7. 7 veiculos indexados.",
+    "h1": "GMC 7 - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/chevrolet/7/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "chevrolet-7-110-turbo-2p-diesel-2002-diesel",
+      "fipeCodigo": "505012-0",
+      "displayName": "GMC 7-110 Turbo 2p (diesel)",
+      "valorAtual": 36623,
+      "canonicalPath": "/fipe/chevrolet/7-110-turbo-2p-diesel-2002-505012-0/",
+      "ano": 2002,
+      "marca": "GMC"
+    },
+    {
+      "vehicleId": "chevrolet-7-110-turbo-2p-diesel-2001-diesel",
+      "fipeCodigo": "505012-0",
+      "displayName": "GMC 7-110 Turbo 2p (diesel)",
+      "valorAtual": 35729,
+      "canonicalPath": "/fipe/chevrolet/7-110-turbo-2p-diesel-2001-505012-0/",
+      "ano": 2001,
+      "marca": "GMC"
+    },
+    {
+      "vehicleId": "chevrolet-7-110-turbo-2p-diesel-2000-diesel",
+      "fipeCodigo": "505012-0",
+      "displayName": "GMC 7-110 Turbo 2p (diesel)",
+      "valorAtual": 34857,
+      "canonicalPath": "/fipe/chevrolet/7-110-turbo-2p-diesel-2000-505012-0/",
+      "ano": 2000,
+      "marca": "GMC"
+    },
+    {
+      "vehicleId": "chevrolet-7-110-turbo-2p-diesel-1999-diesel",
+      "fipeCodigo": "505012-0",
+      "displayName": "GMC 7-110 Turbo 2p (diesel)",
+      "valorAtual": 34006,
+      "canonicalPath": "/fipe/chevrolet/7-110-turbo-2p-diesel-1999-505012-0/",
+      "ano": 1999,
+      "marca": "GMC"
+    },
+    {
+      "vehicleId": "chevrolet-7-110-turbo-2p-diesel-1998-diesel",
+      "fipeCodigo": "505012-0",
+      "displayName": "GMC 7-110 Turbo 2p (diesel)",
+      "valorAtual": 33176,
+      "canonicalPath": "/fipe/chevrolet/7-110-turbo-2p-diesel-1998-505012-0/",
+      "ano": 1998,
+      "marca": "GMC"
+    },
+    {
+      "vehicleId": "chevrolet-7-110-turbo-2p-diesel-1997-diesel",
+      "fipeCodigo": "505012-0",
+      "displayName": "GMC 7-110 Turbo 2p (diesel)",
+      "valorAtual": 32366,
+      "canonicalPath": "/fipe/chevrolet/7-110-turbo-2p-diesel-1997-505012-0/",
+      "ano": 1997,
+      "marca": "GMC"
+    },
+    {
+      "vehicleId": "chevrolet-7-110-turbo-2p-diesel-1996-diesel",
+      "fipeCodigo": "505012-0",
+      "displayName": "GMC 7-110 Turbo 2p (diesel)",
+      "valorAtual": 26177,
+      "canonicalPath": "/fipe/chevrolet/7-110-turbo-2p-diesel-1996-505012-0/",
+      "ano": 1996,
+      "marca": "GMC"
+    }
+  ],
+  "stats": {
+    "total": 7,
+    "precoMin": 26177,
+    "precoMax": 36623,
+    "anos": [
+      2002,
+      2001,
+      2000,
+      1999,
+      1998,
+      1997,
+      1996
+    ]
+  }
+}

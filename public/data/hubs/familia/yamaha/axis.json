@@ -1,0 +1,72 @@
+{
+  "tipo": "familia",
+  "slug": "axis",
+  "canonicalPath": "/fipe/yamaha/axis/",
+  "titulo": "YAMAHA axis - Tabela FIPE",
+  "descricao": "5 versoes e anos do YAMAHA axis na Tabela FIPE.",
+  "seo": {
+    "title": "YAMAHA axis - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes YAMAHA axis. 5 veiculos indexados.",
+    "h1": "YAMAHA axis - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/yamaha/axis/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "yamaha-axis-90-1998-gasolina",
+      "fipeCodigo": "827002-3",
+      "displayName": "YAMAHA AXIS 90",
+      "valorAtual": 2872,
+      "canonicalPath": "/fipe/yamaha/axis-90-1998-827002-3/",
+      "ano": 1998,
+      "marca": "YAMAHA"
+    },
+    {
+      "vehicleId": "yamaha-axis-90-1997-gasolina",
+      "fipeCodigo": "827002-3",
+      "displayName": "YAMAHA AXIS 90",
+      "valorAtual": 2527,
+      "canonicalPath": "/fipe/yamaha/axis-90-1997-827002-3/",
+      "ano": 1997,
+      "marca": "YAMAHA"
+    },
+    {
+      "vehicleId": "yamaha-axis-90-1996-gasolina",
+      "fipeCodigo": "827002-3",
+      "displayName": "YAMAHA AXIS 90",
+      "valorAtual": 2465,
+      "canonicalPath": "/fipe/yamaha/axis-90-1996-827002-3/",
+      "ano": 1996,
+      "marca": "YAMAHA"
+    },
+    {
+      "vehicleId": "yamaha-axis-90-1995-gasolina",
+      "fipeCodigo": "827002-3",
+      "displayName": "YAMAHA AXIS 90",
+      "valorAtual": 2376,
+      "canonicalPath": "/fipe/yamaha/axis-90-1995-827002-3/",
+      "ano": 1995,
+      "marca": "YAMAHA"
+    },
+    {
+      "vehicleId": "yamaha-axis-90-1994-gasolina",
+      "fipeCodigo": "827002-3",
+      "displayName": "YAMAHA AXIS 90",
+      "valorAtual": 2021,
+      "canonicalPath": "/fipe/yamaha/axis-90-1994-827002-3/",
+      "ano": 1994,
+      "marca": "YAMAHA"
+    }
+  ],
+  "stats": {
+    "total": 5,
+    "precoMin": 2021,
+    "precoMax": 2872,
+    "anos": [
+      1998,
+      1997,
+      1996,
+      1995,
+      1994
+    ]
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "tipo": "familia",
+  "slug": "ak",
+  "canonicalPath": "/fipe/kymco/ak/",
+  "titulo": "KYMCO ak - Tabela FIPE",
+  "descricao": "7 versoes e anos do KYMCO ak na Tabela FIPE.",
+  "seo": {
+    "title": "KYMCO ak - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes KYMCO ak. 7 veiculos indexados.",
+    "h1": "KYMCO ak - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/kymco/ak/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "kymco-ak-550i-premium-2025-gasolina",
+      "fipeCodigo": "832033-0",
+      "displayName": "KYMCO AK 550i PREMIUM",
+      "valorAtual": 66842,
+      "canonicalPath": "/fipe/kymco/ak-550i-premium-2025-832033-0/",
+      "ano": 2025,
+      "marca": "KYMCO"
+    },
+    {
+      "vehicleId": "kymco-ak-550i-abs-2024-gasolina",
+      "fipeCodigo": "832032-2",
+      "displayName": "KYMCO AK 550i ABS",
+      "valorAtual": 60704,
+      "canonicalPath": "/fipe/kymco/ak-550i-abs-2024-832032-2/",
+      "ano": 2024,
+      "marca": "KYMCO"
+    },
+    {
+      "vehicleId": "kymco-ak-550i-abs-2023-gasolina",
+      "fipeCodigo": "832032-2",
+      "displayName": "KYMCO AK 550i ABS",
+      "valorAtual": 56981,
+      "canonicalPath": "/fipe/kymco/ak-550i-abs-2023-832032-2/",
+      "ano": 2023,
+      "marca": "KYMCO"
+    },
+    {
+      "vehicleId": "kymco-ak-550i-abs-2022-gasolina",
+      "fipeCodigo": "832032-2",
+      "displayName": "KYMCO AK 550i ABS",
+      "valorAtual": 55504,
+      "canonicalPath": "/fipe/kymco/ak-550i-abs-2022-832032-2/",
+      "ano": 2022,
+      "marca": "KYMCO"
+    },
+    {
+      "vehicleId": "kymco-ak-550i-abs-2021-gasolina",
+      "fipeCodigo": "832032-2",
+      "displayName": "KYMCO AK 550i ABS",
+      "valorAtual": 47430,
+      "canonicalPath": "/fipe/kymco/ak-550i-abs-2021-832032-2/",
+      "ano": 2021,
+      "marca": "KYMCO"
+    },
+    {
+      "vehicleId": "kymco-ak-550i-abs-2020-gasolina",
+      "fipeCodigo": "832032-2",
+      "displayName": "KYMCO AK 550i ABS",
+      "valorAtual": 45102,
+      "canonicalPath": "/fipe/kymco/ak-550i-abs-2020-832032-2/",
+      "ano": 2020,
+      "marca": "KYMCO"
+    },
+    {
+      "vehicleId": "kymco-ak-550i-premium-0-gasolina",
+      "fipeCodigo": "832033-0",
+      "displayName": "KYMCO AK 550i PREMIUM",
+      "valorAtual": 77626,
+      "canonicalPath": "/fipe/kymco/ak-550i-premium-0-832033-0/",
+      "ano": 0,
+      "marca": "KYMCO"
+    }
+  ],
+  "stats": {
+    "total": 7,
+    "precoMin": 45102,
+    "precoMax": 77626,
+    "anos": [
+      2025,
+      2024,
+      2023,
+      2022,
+      2021,
+      2020,
+      0
+    ]
+  }
+}

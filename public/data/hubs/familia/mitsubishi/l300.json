@@ -1,0 +1,100 @@
+{
+  "tipo": "familia",
+  "slug": "l300",
+  "canonicalPath": "/fipe/mitsubishi/l300/",
+  "titulo": "Mitsubishi l300 - Tabela FIPE",
+  "descricao": "8 versoes e anos do Mitsubishi l300 na Tabela FIPE.",
+  "seo": {
+    "title": "Mitsubishi l300 - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes Mitsubishi l300. 8 veiculos indexados.",
+    "h1": "Mitsubishi l300 - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/mitsubishi/l300/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "mitsubishi-l300-base-dx-canter-2-5-diesel-2000-diesel",
+      "fipeCodigo": "022027-2",
+      "displayName": "Mitsubishi L300 Base/DX/Canter 2.5 Diesel",
+      "valorAtual": 16824,
+      "canonicalPath": "/fipe/mitsubishi/l300-base-dx-canter-2-5-diesel-2000-022027-2/",
+      "ano": 2000,
+      "marca": "Mitsubishi"
+    },
+    {
+      "vehicleId": "mitsubishi-l300-top-luxo-2-5-diesel-1999-diesel",
+      "fipeCodigo": "022010-8",
+      "displayName": "Mitsubishi L300 Top/Luxo 2.5 Diesel",
+      "valorAtual": 15926,
+      "canonicalPath": "/fipe/mitsubishi/l300-top-luxo-2-5-diesel-1999-022010-8/",
+      "ano": 1999,
+      "marca": "Mitsubishi"
+    },
+    {
+      "vehicleId": "mitsubishi-l300-base-dx-canter-2-5-diesel-1999-diesel",
+      "fipeCodigo": "022027-2",
+      "displayName": "Mitsubishi L300 Base/DX/Canter 2.5 Diesel",
+      "valorAtual": 16413,
+      "canonicalPath": "/fipe/mitsubishi/l300-base-dx-canter-2-5-diesel-1999-022027-2/",
+      "ano": 1999,
+      "marca": "Mitsubishi"
+    },
+    {
+      "vehicleId": "mitsubishi-l300-top-luxo-2-5-diesel-1998-diesel",
+      "fipeCodigo": "022010-8",
+      "displayName": "Mitsubishi L300 Top/Luxo 2.5 Diesel",
+      "valorAtual": 13105,
+      "canonicalPath": "/fipe/mitsubishi/l300-top-luxo-2-5-diesel-1998-022010-8/",
+      "ano": 1998,
+      "marca": "Mitsubishi"
+    },
+    {
+      "vehicleId": "mitsubishi-l300-base-dx-canter-2-5-diesel-1998-diesel",
+      "fipeCodigo": "022027-2",
+      "displayName": "Mitsubishi L300 Base/DX/Canter 2.5 Diesel",
+      "valorAtual": 15998,
+      "canonicalPath": "/fipe/mitsubishi/l300-base-dx-canter-2-5-diesel-1998-022027-2/",
+      "ano": 1998,
+      "marca": "Mitsubishi"
+    },
+    {
+      "vehicleId": "mitsubishi-l300-base-dx-canter-2-5-diesel-1997-diesel",
+      "fipeCodigo": "022027-2",
+      "displayName": "Mitsubishi L300 Base/DX/Canter 2.5 Diesel",
+      "valorAtual": 14737,
+      "canonicalPath": "/fipe/mitsubishi/l300-base-dx-canter-2-5-diesel-1997-022027-2/",
+      "ano": 1997,
+      "marca": "Mitsubishi"
+    },
+    {
+      "vehicleId": "mitsubishi-l300-base-dx-canter-2-5-diesel-1996-diesel",
+      "fipeCodigo": "022027-2",
+      "displayName": "Mitsubishi L300 Base/DX/Canter 2.5 Diesel",
+      "valorAtual": 14215,
+      "canonicalPath": "/fipe/mitsubishi/l300-base-dx-canter-2-5-diesel-1996-022027-2/",
+      "ano": 1996,
+      "marca": "Mitsubishi"
+    },
+    {
+      "vehicleId": "mitsubishi-l300-base-dx-canter-2-5-diesel-1995-diesel",
+      "fipeCodigo": "022027-2",
+      "displayName": "Mitsubishi L300 Base/DX/Canter 2.5 Diesel",
+      "valorAtual": 11879,
+      "canonicalPath": "/fipe/mitsubishi/l300-base-dx-canter-2-5-diesel-1995-022027-2/",
+      "ano": 1995,
+      "marca": "Mitsubishi"
+    }
+  ],
+  "stats": {
+    "total": 8,
+    "precoMin": 11879,
+    "precoMax": 16824,
+    "anos": [
+      2000,
+      1999,
+      1998,
+      1997,
+      1996,
+      1995
+    ]
+  }
+}

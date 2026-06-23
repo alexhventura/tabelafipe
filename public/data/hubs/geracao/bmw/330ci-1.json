@@ -1,0 +1,66 @@
+{
+  "tipo": "geracao",
+  "slug": "330ci-1",
+  "canonicalPath": "/geracao/bmw/330ci-1/",
+  "titulo": "Geracao 330ci-1",
+  "descricao": "5 veiculos da geracao 330ci-1.",
+  "seo": {
+    "title": "Geracao 330ci-1 - Precos FIPE",
+    "description": "Veiculos da geracao 330ci-1 na Tabela FIPE.",
+    "h1": "Geracao 330ci-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/bmw/330ci-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "bmw-330ci-cabriolet-2000-gasolina",
+      "fipeCodigo": "009093-0",
+      "displayName": "BMW 330Ci Cabriolet",
+      "valorAtual": 51732,
+      "canonicalPath": "/fipe/bmw/330ci-cabriolet-2000-009093-0/",
+      "ano": 2000,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-330ci-cabriolet-2001-gasolina",
+      "fipeCodigo": "009093-0",
+      "displayName": "BMW 330Ci Cabriolet",
+      "valorAtual": 63241,
+      "canonicalPath": "/fipe/bmw/330ci-cabriolet-2001-009093-0/",
+      "ano": 2001,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-330ci-cabriolet-2002-gasolina",
+      "fipeCodigo": "009093-0",
+      "displayName": "BMW 330Ci Cabriolet",
+      "valorAtual": 64936,
+      "canonicalPath": "/fipe/bmw/330ci-cabriolet-2002-009093-0/",
+      "ano": 2002,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-330ci-cabriolet-2003-gasolina",
+      "fipeCodigo": "009093-0",
+      "displayName": "BMW 330Ci Cabriolet",
+      "valorAtual": 66560,
+      "canonicalPath": "/fipe/bmw/330ci-cabriolet-2003-009093-0/",
+      "ano": 2003,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-330ci-cabriolet-2004-gasolina",
+      "fipeCodigo": "009093-0",
+      "displayName": "BMW 330Ci Cabriolet",
+      "valorAtual": 69446,
+      "canonicalPath": "/fipe/bmw/330ci-cabriolet-2004-009093-0/",
+      "ano": 2004,
+      "marca": "BMW"
+    }
+  ],
+  "stats": {
+    "total": 5
+  },
+  "meta": {
+    "geracaoId": "330ci-1"
+  }
+}

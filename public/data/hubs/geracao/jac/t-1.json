@@ -1,0 +1,741 @@
+{
+  "tipo": "geracao",
+  "slug": "t-1",
+  "canonicalPath": "/geracao/jac/t-1/",
+  "titulo": "Geracao t-1",
+  "descricao": "151 veiculos da geracao t-1.",
+  "seo": {
+    "title": "Geracao t-1 - Precos FIPE",
+    "description": "Veiculos da geracao t-1 na Tabela FIPE.",
+    "h1": "Geracao t-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/jac/t-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "jac-t-140-2-8-2p-diesel-2012-diesel",
+      "fipeCodigo": "080009-0",
+      "displayName": "JAC T 140 2.8 2p (diesel)",
+      "valorAtual": 56519,
+      "canonicalPath": "/fipe/jac/t-140-2-8-2p-diesel-2012-080009-0/",
+      "ano": 2012,
+      "marca": "JAC"
+    },
+    {
+      "vehicleId": "jac-t-140-2-8-2p-diesel-2013-diesel",
+      "fipeCodigo": "080009-0",
+      "displayName": "JAC T 140 2.8 2p (diesel)",
+      "valorAtual": 64133,
+      "canonicalPath": "/fipe/jac/t-140-2-8-2p-diesel-2013-080009-0/",
+      "ano": 2013,
+      "marca": "JAC"
+    },
+    {
+      "vehicleId": "jac-t-140-2-8-2p-diesel-2014-diesel",
+      "fipeCodigo": "080009-0",
+      "displayName": "JAC T 140 2.8 2p (diesel)",
+      "valorAtual": 65737,
+      "canonicalPath": "/fipe/jac/t-140-2-8-2p-diesel-2014-080009-0/",
+      "ano": 2014,
+      "marca": "JAC"
+    },
+    {
+      "vehicleId": "neobus-t-boy-way-lot-esc-sptrans-diesel-2000-diesel",
+      "fipeCodigo": "517001-0",
+      "displayName": "NEOBUS T.BOY/ WAY LOT./ESC./ SPTRANS (diesel)",
+      "valorAtual": 44338,
+      "canonicalPath": "/fipe/neobus/t-boy-way-lot-esc-sptrans-diesel-2000-517001-0/",
+      "ano": 2000,
+      "marca": "NEOBUS"
+    },
+    {
+      "vehicleId": "neobus-t-boy-way-lot-esc-sptrans-diesel-2001-diesel",
+      "fipeCodigo": "517001-0",
+      "displayName": "NEOBUS T.BOY/ WAY LOT./ESC./ SPTRANS (diesel)",
+      "valorAtual": 45770,
+      "canonicalPath": "/fipe/neobus/t-boy-way-lot-esc-sptrans-diesel-2001-517001-0/",
+      "ano": 2001,
+      "marca": "NEOBUS"
+    },
+    {
+      "vehicleId": "neobus-t-boy-way-lot-esc-sptrans-diesel-2002-diesel",
+      "fipeCodigo": "517001-0",
+      "displayName": "NEOBUS T.BOY/ WAY LOT./ESC./ SPTRANS (diesel)",
+      "valorAtual": 47341,
+      "canonicalPath": "/fipe/neobus/t-boy-way-lot-esc-sptrans-diesel-2002-517001-0/",
+      "ano": 2002,
+      "marca": "NEOBUS"
+    },
+    {
+      "vehicleId": "neobus-t-boy-way-lot-esc-sptrans-diesel-2003-diesel",
+      "fipeCodigo": "517001-0",
+      "displayName": "NEOBUS T.BOY/ WAY LOT./ESC./ SPTRANS (diesel)",
+      "valorAtual": 49250,
+      "canonicalPath": "/fipe/neobus/t-boy-way-lot-esc-sptrans-diesel-2003-517001-0/",
+      "ano": 2003,
+      "marca": "NEOBUS"
+    },
+    {
+      "vehicleId": "neobus-t-boy-way-lot-esc-sptrans-diesel-2004-diesel",
+      "fipeCodigo": "517001-0",
+      "displayName": "NEOBUS T.BOY/ WAY LOT./ESC./ SPTRANS (diesel)",
+      "valorAtual": 52502,
+      "canonicalPath": "/fipe/neobus/t-boy-way-lot-esc-sptrans-diesel-2004-517001-0/",
+      "ano": 2004,
+      "marca": "NEOBUS"
+    },
+    {
+      "vehicleId": "neobus-t-boy-way-lot-esc-sptrans-diesel-2005-diesel",
+      "fipeCodigo": "517001-0",
+      "displayName": "NEOBUS T.BOY/ WAY LOT./ESC./ SPTRANS (diesel)",
+      "valorAtual": 54553,
+      "canonicalPath": "/fipe/neobus/t-boy-way-lot-esc-sptrans-diesel-2005-517001-0/",
+      "ano": 2005,
+      "marca": "NEOBUS"
+    },
+    {
+      "vehicleId": "neobus-t-boy-way-lot-esc-sptrans-diesel-2006-diesel",
+      "fipeCodigo": "517001-0",
+      "displayName": "NEOBUS T.BOY/ WAY LOT./ESC./ SPTRANS (diesel)",
+      "valorAtual": 58329,
+      "canonicalPath": "/fipe/neobus/t-boy-way-lot-esc-sptrans-diesel-2006-517001-0/",
+      "ano": 2006,
+      "marca": "NEOBUS"
+    },
+    {
+      "vehicleId": "neobus-t-boy-way-lot-esc-sptrans-diesel-2007-diesel",
+      "fipeCodigo": "517001-0",
+      "displayName": "NEOBUS T.BOY/ WAY LOT./ESC./ SPTRANS (diesel)",
+      "valorAtual": 67220,
+      "canonicalPath": "/fipe/neobus/t-boy-way-lot-esc-sptrans-diesel-2007-517001-0/",
+      "ano": 2007,
+      "marca": "NEOBUS"
+    },
+    {
+      "vehicleId": "neobus-t-boy-way-lot-esc-sptrans-diesel-2008-diesel",
+      "fipeCodigo": "517001-0",
+      "displayName": "NEOBUS T.BOY/ WAY LOT./ESC./ SPTRANS (diesel)",
+      "valorAtual": 72800,
+      "canonicalPath": "/fipe/neobus/t-boy-way-lot-esc-sptrans-diesel-2008-517001-0/",
+      "ano": 2008,
+      "marca": "NEOBUS"
+    },
+    {
+      "vehicleId": "neobus-t-boy-way-lot-esc-sptrans-diesel-2009-diesel",
+      "fipeCodigo": "517001-0",
+      "displayName": "NEOBUS T.BOY/ WAY LOT./ESC./ SPTRANS (diesel)",
+      "valorAtual": 75149,
+      "canonicalPath": "/fipe/neobus/t-boy-way-lot-esc-sptrans-diesel-2009-517001-0/",
+      "ano": 2009,
+      "marca": "NEOBUS"
+    },
+    {
+      "vehicleId": "neobus-t-boy-way-lot-esc-sptrans-diesel-2010-diesel",
+      "fipeCodigo": "517001-0",
+      "displayName": "NEOBUS T.BOY/ WAY LOT./ESC./ SPTRANS (diesel)",
+      "valorAtual": 77503,
+      "canonicalPath": "/fipe/neobus/t-boy-way-lot-esc-sptrans-diesel-2010-517001-0/",
+      "ano": 2010,
+      "marca": "NEOBUS"
+    },
+    {
+      "vehicleId": "neobus-t-boy-way-lot-esc-sptrans-diesel-2011-diesel",
+      "fipeCodigo": "517001-0",
+      "displayName": "NEOBUS T.BOY/ WAY LOT./ESC./ SPTRANS (diesel)",
+      "valorAtual": 81671,
+      "canonicalPath": "/fipe/neobus/t-boy-way-lot-esc-sptrans-diesel-2011-517001-0/",
+      "ano": 2011,
+      "marca": "NEOBUS"
+    },
+    {
+      "vehicleId": "saab-scania-t-112-e-320-6x4-2p-diesel-1981-diesel",
+      "fipeCodigo": "512011-0",
+      "displayName": "SAAB-SCANIA T-112 E 320 6x4 2p (diesel)",
+      "valorAtual": 25971,
+      "canonicalPath": "/fipe/saab-scania/t-112-e-320-6x4-2p-diesel-1981-512011-0/",
+      "ano": 1981,
+      "marca": "SAAB-SCANIA"
+    },
+    {
+      "vehicleId": "saab-scania-t-112-e-320-6x4-2p-diesel-1982-diesel",
+      "fipeCodigo": "512011-0",
+      "displayName": "SAAB-SCANIA T-112 E 320 6x4 2p (diesel)",
+      "valorAtual": 28923,
+      "canonicalPath": "/fipe/saab-scania/t-112-e-320-6x4-2p-diesel-1982-512011-0/",
+      "ano": 1982,
+      "marca": "SAAB-SCANIA"
+    },
+    {
+      "vehicleId": "saab-scania-t-112-e-320-6x4-2p-diesel-1983-diesel",
+      "fipeCodigo": "512011-0",
+      "displayName": "SAAB-SCANIA T-112 E 320 6x4 2p (diesel)",
+      "valorAtual": 29891,
+      "canonicalPath": "/fipe/saab-scania/t-112-e-320-6x4-2p-diesel-1983-512011-0/",
+      "ano": 1983,
+      "marca": "SAAB-SCANIA"
+    },
+    {
+      "vehicleId": "saab-scania-t-112-e-320-6x4-2p-diesel-1984-diesel",
+      "fipeCodigo": "512011-0",
+      "displayName": "SAAB-SCANIA T-112 E 320 6x4 2p (diesel)",
+      "valorAtual": 31978,
+      "canonicalPath": "/fipe/saab-scania/t-112-e-320-6x4-2p-diesel-1984-512011-0/",
+      "ano": 1984,
+      "marca": "SAAB-SCANIA"
+    },
+    {
+      "vehicleId": "saab-scania-t-112-e-320-6x4-2p-diesel-1985-diesel",
+      "fipeCodigo": "512011-0",
+      "displayName": "SAAB-SCANIA T-112 E 320 6x4 2p (diesel)",
+      "valorAtual": 33265,
+      "canonicalPath": "/fipe/saab-scania/t-112-e-320-6x4-2p-diesel-1985-512011-0/",
+      "ano": 1985,
+      "marca": "SAAB-SCANIA"
+    },
+    {
+      "vehicleId": "saab-scania-t-112-e-320-6x4-2p-diesel-1986-diesel",
+      "fipeCodigo": "512011-0",
+      "displayName": "SAAB-SCANIA T-112 E 320 6x4 2p (diesel)",
+      "valorAtual": 34248,
+      "canonicalPath": "/fipe/saab-scania/t-112-e-320-6x4-2p-diesel-1986-512011-0/",
+      "ano": 1986,
+      "marca": "SAAB-SCANIA"
+    },
+    {
+      "vehicleId": "saab-scania-t-112-e-320-6x4-2p-diesel-1987-diesel",
+      "fipeCodigo": "512011-0",
+      "displayName": "SAAB-SCANIA T-112 E 320 6x4 2p (diesel)",
+      "valorAtual": 35291,
+      "canonicalPath": "/fipe/saab-scania/t-112-e-320-6x4-2p-diesel-1987-512011-0/",
+      "ano": 1987,
+      "marca": "SAAB-SCANIA"
+    },
+    {
+      "vehicleId": "saab-scania-t-112-es-320-6x4-2p-diesel-1981-diesel",
+      "fipeCodigo": "512012-8",
+      "displayName": "SAAB-SCANIA T-112 ES 320 6x4 2p (diesel)",
+      "valorAtual": 28430,
+      "canonicalPath": "/fipe/saab-scania/t-112-es-320-6x4-2p-diesel-1981-512012-8/",
+      "ano": 1981,
+      "marca": "SAAB-SCANIA"
+    },
+    {
+      "vehicleId": "saab-scania-t-112-es-320-6x4-2p-diesel-1982-diesel",
+      "fipeCodigo": "512012-8",
+      "displayName": "SAAB-SCANIA T-112 ES 320 6x4 2p (diesel)",
+      "valorAtual": 29575,
+      "canonicalPath": "/fipe/saab-scania/t-112-es-320-6x4-2p-diesel-1982-512012-8/",
+      "ano": 1982,
+      "marca": "SAAB-SCANIA"
+    },
+    {
+      "vehicleId": "saab-scania-t-112-es-320-6x4-2p-diesel-1983-diesel",
+      "fipeCodigo": "512012-8",
+      "displayName": "SAAB-SCANIA T-112 ES 320 6x4 2p (diesel)",
+      "valorAtual": 30645,
+      "canonicalPath": "/fipe/saab-scania/t-112-es-320-6x4-2p-diesel-1983-512012-8/",
+      "ano": 1983,
+      "marca": "SAAB-SCANIA"
+    },
+    {
+      "vehicleId": "saab-scania-t-112-es-320-6x4-2p-diesel-1984-diesel",
+      "fipeCodigo": "512012-8",
+      "displayName": "SAAB-SCANIA T-112 ES 320 6x4 2p (diesel)",
+      "valorAtual": 33267,
+      "canonicalPath": "/fipe/saab-scania/t-112-es-320-6x4-2p-diesel-1984-512012-8/",
+      "ano": 1984,
+      "marca": "SAAB-SCANIA"
+    },
+    {
+      "vehicleId": "saab-scania-t-112-es-320-6x4-2p-diesel-1985-diesel",
+      "fipeCodigo": "512012-8",
+      "displayName": "SAAB-SCANIA T-112 ES 320 6x4 2p (diesel)",
+      "valorAtual": 34999,
+      "canonicalPath": "/fipe/saab-scania/t-112-es-320-6x4-2p-diesel-1985-512012-8/",
+      "ano": 1985,
+      "marca": "SAAB-SCANIA"
+    },
+    {
+      "vehicleId": "saab-scania-t-112-es-320-6x4-2p-diesel-1986-diesel",
+      "fipeCodigo": "512012-8",
+      "displayName": "SAAB-SCANIA T-112 ES 320 6x4 2p (diesel)",
+      "valorAtual": 36350,
+      "canonicalPath": "/fipe/saab-scania/t-112-es-320-6x4-2p-diesel-1986-512012-8/",
+      "ano": 1986,
+      "marca": "SAAB-SCANIA"
+    },
+    {
+      "vehicleId": "saab-scania-t-112-es-320-6x4-2p-diesel-1987-diesel",
+      "fipeCodigo": "512012-8",
+      "displayName": "SAAB-SCANIA T-112 ES 320 6x4 2p (diesel)",
+      "valorAtual": 39106,
+      "canonicalPath": "/fipe/saab-scania/t-112-es-320-6x4-2p-diesel-1987-512012-8/",
+      "ano": 1987,
+      "marca": "SAAB-SCANIA"
+    },
+    {
+      "vehicleId": "saab-scania-t-112-ew-320-6x4-2p-diesel-1990-diesel",
+      "fipeCodigo": "512013-6",
+      "displayName": "SAAB-SCANIA T-112 EW 320 6x4 2p (diesel)",
+      "valorAtual": 40930,
+      "canonicalPath": "/fipe/saab-scania/t-112-ew-320-6x4-2p-diesel-1990-512013-6/",
+      "ano": 1990,
+      "marca": "SAAB-SCANIA"
+    },
+    {
+      "vehicleId": "saab-scania-t-112-ew-320-6x4-2p-diesel-1991-diesel",
+      "fipeCodigo": "512013-6",
+      "displayName": "SAAB-SCANIA T-112 EW 320 6x4 2p (diesel)",
+      "valorAtual": 47494,
+      "canonicalPath": "/fipe/saab-scania/t-112-ew-320-6x4-2p-diesel-1991-512013-6/",
+      "ano": 1991,
+      "marca": "SAAB-SCANIA"
+    },
+    {
+      "vehicleId": "saab-scania-t-112-h-320-4x2-2p-diesel-1981-diesel",
+      "fipeCodigo": "512014-4",
+      "displayName": "SAAB-SCANIA T-112 H 320 4x2 2p (diesel)",
+      "valorAtual": 40714,
+      "canonicalPath": "/fipe/saab-scania/t-112-h-320-4x2-2p-diesel-1981-512014-4/",
+      "ano": 1981,
+      "marca": "SAAB-SCANIA"
+    },
+    {
+      "vehicleId": "saab-scania-t-112-h-320-4x2-2p-diesel-1982-diesel",
+      "fipeCodigo": "512014-4",
+      "displayName": "SAAB-SCANIA T-112 H 320 4x2 2p (diesel)",
+      "valorAtual": 49485,
+      "canonicalPath": "/fipe/saab-scania/t-112-h-320-4x2-2p-diesel-1982-512014-4/",
+      "ano": 1982,
+      "marca": "SAAB-SCANIA"
+    },
+    {
+      "vehicleId": "saab-scania-t-112-h-320-4x2-2p-diesel-1983-diesel",
+      "fipeCodigo": "512014-4",
+      "displayName": "SAAB-SCANIA T-112 H 320 4x2 2p (diesel)",
+      "valorAtual": 53377,
+      "canonicalPath": "/fipe/saab-scania/t-112-h-320-4x2-2p-diesel-1983-512014-4/",
+      "ano": 1983,
+      "marca": "SAAB-SCANIA"
+    },
+    {
+      "vehicleId": "saab-scania-t-112-h-320-4x2-2p-diesel-1984-diesel",
+      "fipeCodigo": "512014-4",
+      "displayName": "SAAB-SCANIA T-112 H 320 4x2 2p (diesel)",
+      "valorAtual": 57331,
+      "canonicalPath": "/fipe/saab-scania/t-112-h-320-4x2-2p-diesel-1984-512014-4/",
+      "ano": 1984,
+      "marca": "SAAB-SCANIA"
+    },
+    {
+      "vehicleId": "saab-scania-t-112-h-320-4x2-2p-diesel-1985-diesel",
+      "fipeCodigo": "512014-4",
+      "displayName": "SAAB-SCANIA T-112 H 320 4x2 2p (diesel)",
+      "valorAtual": 60261,
+      "canonicalPath": "/fipe/saab-scania/t-112-h-320-4x2-2p-diesel-1985-512014-4/",
+      "ano": 1985,
+      "marca": "SAAB-SCANIA"
+    },
+    {
+      "vehicleId": "saab-scania-t-112-h-320-4x2-2p-diesel-1986-diesel",
+      "fipeCodigo": "512014-4",
+      "displayName": "SAAB-SCANIA T-112 H 320 4x2 2p (diesel)",
+      "valorAtual": 61873,
+      "canonicalPath": "/fipe/saab-scania/t-112-h-320-4x2-2p-diesel-1986-512014-4/",
+      "ano": 1986,
+      "marca": "SAAB-SCANIA"
+    },
+    {
+      "vehicleId": "saab-scania-t-112-h-320-4x2-2p-diesel-1987-diesel",
+      "fipeCodigo": "512014-4",
+      "displayName": "SAAB-SCANIA T-112 H 320 4x2 2p (diesel)",
+      "valorAtual": 63722,
+      "canonicalPath": "/fipe/saab-scania/t-112-h-320-4x2-2p-diesel-1987-512014-4/",
+      "ano": 1987,
+      "marca": "SAAB-SCANIA"
+    },
+    {
+      "vehicleId": "saab-scania-t-112-h-320-4x2-2p-diesel-1988-diesel",
+      "fipeCodigo": "512014-4",
+      "displayName": "SAAB-SCANIA T-112 H 320 4x2 2p (diesel)",
+      "valorAtual": 65702,
+      "canonicalPath": "/fipe/saab-scania/t-112-h-320-4x2-2p-diesel-1988-512014-4/",
+      "ano": 1988,
+      "marca": "SAAB-SCANIA"
+    },
+    {
+      "vehicleId": "saab-scania-t-112-h-320-4x2-2p-diesel-1989-diesel",
+      "fipeCodigo": "512014-4",
+      "displayName": "SAAB-SCANIA T-112 H 320 4x2 2p (diesel)",
+      "valorAtual": 67584,
+      "canonicalPath": "/fipe/saab-scania/t-112-h-320-4x2-2p-diesel-1989-512014-4/",
+      "ano": 1989,
+      "marca": "SAAB-SCANIA"
+    },
+    {
+      "vehicleId": "saab-scania-t-112-h-320-4x2-2p-diesel-1990-diesel",
+      "fipeCodigo": "512014-4",
+      "displayName": "SAAB-SCANIA T-112 H 320 4x2 2p (diesel)",
+      "valorAtual": 69795,
+      "canonicalPath": "/fipe/saab-scania/t-112-h-320-4x2-2p-diesel-1990-512014-4/",
+      "ano": 1990,
+      "marca": "SAAB-SCANIA"
+    },
+    {
+      "vehicleId": "saab-scania-t-112-h-320-6x2-2p-diesel-1981-diesel",
+      "fipeCodigo": "512025-0",
+      "displayName": "SAAB-SCANIA T-112 H 320 6x2 2p (diesel)",
+      "valorAtual": 36724,
+      "canonicalPath": "/fipe/saab-scania/t-112-h-320-6x2-2p-diesel-1981-512025-0/",
+      "ano": 1981,
+      "marca": "SAAB-SCANIA"
+    },
+    {
+      "vehicleId": "saab-scania-t-112-h-320-6x2-2p-diesel-1982-diesel",
+      "fipeCodigo": "512025-0",
+      "displayName": "SAAB-SCANIA T-112 H 320 6x2 2p (diesel)",
+      "valorAtual": 45227,
+      "canonicalPath": "/fipe/saab-scania/t-112-h-320-6x2-2p-diesel-1982-512025-0/",
+      "ano": 1982,
+      "marca": "SAAB-SCANIA"
+    },
+    {
+      "vehicleId": "saab-scania-t-112-h-320-6x2-2p-diesel-1983-diesel",
+      "fipeCodigo": "512025-0",
+      "displayName": "SAAB-SCANIA T-112 H 320 6x2 2p (diesel)",
+      "valorAtual": 46691,
+      "canonicalPath": "/fipe/saab-scania/t-112-h-320-6x2-2p-diesel-1983-512025-0/",
+      "ano": 1983,
+      "marca": "SAAB-SCANIA"
+    },
+    {
+      "vehicleId": "saab-scania-t-112-h-320-6x2-2p-diesel-1984-diesel",
+      "fipeCodigo": "512025-0",
+      "displayName": "SAAB-SCANIA T-112 H 320 6x2 2p (diesel)",
+      "valorAtual": 51520,
+      "canonicalPath": "/fipe/saab-scania/t-112-h-320-6x2-2p-diesel-1984-512025-0/",
+      "ano": 1984,
+      "marca": "SAAB-SCANIA"
+    },
+    {
+      "vehicleId": "saab-scania-t-112-h-320-6x2-2p-diesel-1985-diesel",
+      "fipeCodigo": "512025-0",
+      "displayName": "SAAB-SCANIA T-112 H 320 6x2 2p (diesel)",
+      "valorAtual": 61443,
+      "canonicalPath": "/fipe/saab-scania/t-112-h-320-6x2-2p-diesel-1985-512025-0/",
+      "ano": 1985,
+      "marca": "SAAB-SCANIA"
+    },
+    {
+      "vehicleId": "saab-scania-t-112-h-320-6x2-2p-diesel-1986-diesel",
+      "fipeCodigo": "512025-0",
+      "displayName": "SAAB-SCANIA T-112 H 320 6x2 2p (diesel)",
+      "valorAtual": 64752,
+      "canonicalPath": "/fipe/saab-scania/t-112-h-320-6x2-2p-diesel-1986-512025-0/",
+      "ano": 1986,
+      "marca": "SAAB-SCANIA"
+    },
+    {
+      "vehicleId": "saab-scania-t-112-h-320-6x2-2p-diesel-1987-diesel",
+      "fipeCodigo": "512025-0",
+      "displayName": "SAAB-SCANIA T-112 H 320 6x2 2p (diesel)",
+      "valorAtual": 66442,
+      "canonicalPath": "/fipe/saab-scania/t-112-h-320-6x2-2p-diesel-1987-512025-0/",
+      "ano": 1987,
+      "marca": "SAAB-SCANIA"
+    },
+    {
+      "vehicleId": "saab-scania-t-112-h-320-6x2-2p-diesel-1988-diesel",
+      "fipeCodigo": "512025-0",
+      "displayName": "SAAB-SCANIA T-112 H 320 6x2 2p (diesel)",
+      "valorAtual": 68731,
+      "canonicalPath": "/fipe/saab-scania/t-112-h-320-6x2-2p-diesel-1988-512025-0/",
+      "ano": 1988,
+      "marca": "SAAB-SCANIA"
+    },
+    {
+      "vehicleId": "saab-scania-t-112-h-320-6x2-2p-diesel-1989-diesel",
+      "fipeCodigo": "512025-0",
+      "displayName": "SAAB-SCANIA T-112 H 320 6x2 2p (diesel)",
+      "valorAtual": 70757,
+      "canonicalPath": "/fipe/saab-scania/t-112-h-320-6x2-2p-diesel-1989-512025-0/",
+      "ano": 1989,
+      "marca": "SAAB-SCANIA"
+    },
+    {
+      "vehicleId": "saab-scania-t-112-h-320-6x2-2p-diesel-1990-diesel",
+      "fipeCodigo": "512025-0",
+      "displayName": "SAAB-SCANIA T-112 H 320 6x2 2p (diesel)",
+      "valorAtual": 73054,
+      "canonicalPath": "/fipe/saab-scania/t-112-h-320-6x2-2p-diesel-1990-512025-0/",
+      "ano": 1990,
+      "marca": "SAAB-SCANIA"
+    },
+    {
+      "vehicleId": "saab-scania-t-112-hs-320-4x2-2p-diesel-1984-diesel",
+      "fipeCodigo": "512015-2",
+      "displayName": "SAAB-SCANIA T-112 HS 320 4x2 2p (diesel)",
+      "valorAtual": 62793,
+      "canonicalPath": "/fipe/saab-scania/t-112-hs-320-4x2-2p-diesel-1984-512015-2/",
+      "ano": 1984,
+      "marca": "SAAB-SCANIA"
+    },
+    {
+      "vehicleId": "saab-scania-t-112-hs-320-4x2-2p-diesel-1985-diesel",
+      "fipeCodigo": "512015-2",
+      "displayName": "SAAB-SCANIA T-112 HS 320 4x2 2p (diesel)",
+      "valorAtual": 67834,
+      "canonicalPath": "/fipe/saab-scania/t-112-hs-320-4x2-2p-diesel-1985-512015-2/",
+      "ano": 1985,
+      "marca": "SAAB-SCANIA"
+    },
+    {
+      "vehicleId": "saab-scania-t-112-hs-320-4x2-2p-diesel-1986-diesel",
+      "fipeCodigo": "512015-2",
+      "displayName": "SAAB-SCANIA T-112 HS 320 4x2 2p (diesel)",
+      "valorAtual": 72628,
+      "canonicalPath": "/fipe/saab-scania/t-112-hs-320-4x2-2p-diesel-1986-512015-2/",
+      "ano": 1986,
+      "marca": "SAAB-SCANIA"
+    },
+    {
+      "vehicleId": "saab-scania-t-112-hs-320-4x2-2p-diesel-1987-diesel",
+      "fipeCodigo": "512015-2",
+      "displayName": "SAAB-SCANIA T-112 HS 320 4x2 2p (diesel)",
+      "valorAtual": 77172,
+      "canonicalPath": "/fipe/saab-scania/t-112-hs-320-4x2-2p-diesel-1987-512015-2/",
+      "ano": 1987,
+      "marca": "SAAB-SCANIA"
+    },
+    {
+      "vehicleId": "saab-scania-t-112-hs-320-4x2-2p-diesel-1988-diesel",
+      "fipeCodigo": "512015-2",
+      "displayName": "SAAB-SCANIA T-112 HS 320 4x2 2p (diesel)",
+      "valorAtual": 79102,
+      "canonicalPath": "/fipe/saab-scania/t-112-hs-320-4x2-2p-diesel-1988-512015-2/",
+      "ano": 1988,
+      "marca": "SAAB-SCANIA"
+    },
+    {
+      "vehicleId": "saab-scania-t-112-hs-320-4x2-2p-diesel-1989-diesel",
+      "fipeCodigo": "512015-2",
+      "displayName": "SAAB-SCANIA T-112 HS 320 4x2 2p (diesel)",
+      "valorAtual": 81579,
+      "canonicalPath": "/fipe/saab-scania/t-112-hs-320-4x2-2p-diesel-1989-512015-2/",
+      "ano": 1989,
+      "marca": "SAAB-SCANIA"
+    },
+    {
+      "vehicleId": "saab-scania-t-112-hw-310-4x2-2p-diesel-1989-diesel",
+      "fipeCodigo": "512026-8",
+      "displayName": "SAAB-SCANIA T-112 HW 310 4x2 2p (diesel)",
+      "valorAtual": 62195,
+      "canonicalPath": "/fipe/saab-scania/t-112-hw-310-4x2-2p-diesel-1989-512026-8/",
+      "ano": 1989,
+      "marca": "SAAB-SCANIA"
+    },
+    {
+      "vehicleId": "saab-scania-t-112-hw-310-4x2-2p-diesel-1990-diesel",
+      "fipeCodigo": "512026-8",
+      "displayName": "SAAB-SCANIA T-112 HW 310 4x2 2p (diesel)",
+      "valorAtual": 69467,
+      "canonicalPath": "/fipe/saab-scania/t-112-hw-310-4x2-2p-diesel-1990-512026-8/",
+      "ano": 1990,
+      "marca": "SAAB-SCANIA"
+    },
+    {
+      "vehicleId": "saab-scania-t-112-hw-310-4x2-2p-diesel-1991-diesel",
+      "fipeCodigo": "512026-8",
+      "displayName": "SAAB-SCANIA T-112 HW 310 4x2 2p (diesel)",
+      "valorAtual": 72305,
+      "canonicalPath": "/fipe/saab-scania/t-112-hw-310-4x2-2p-diesel-1991-512026-8/",
+      "ano": 1991,
+      "marca": "SAAB-SCANIA"
+    },
+    {
+      "vehicleId": "saab-scania-t-112-hw-320-4x2-2p-diesel-1990-diesel",
+      "fipeCodigo": "512016-0",
+      "displayName": "SAAB-SCANIA T-112 HW 320 4x2 2p (diesel)",
+      "valorAtual": 57164,
+      "canonicalPath": "/fipe/saab-scania/t-112-hw-320-4x2-2p-diesel-1990-512016-0/",
+      "ano": 1990,
+      "marca": "SAAB-SCANIA"
+    },
+    {
+      "vehicleId": "saab-scania-t-112-hw-320-4x2-2p-diesel-1991-diesel",
+      "fipeCodigo": "512016-0",
+      "displayName": "SAAB-SCANIA T-112 HW 320 4x2 2p (diesel)",
+      "valorAtual": 64446,
+      "canonicalPath": "/fipe/saab-scania/t-112-hw-320-4x2-2p-diesel-1991-512016-0/",
+      "ano": 1991,
+      "marca": "SAAB-SCANIA"
+    },
+    {
+      "vehicleId": "saab-scania-t-112-hw-320-6x2-2p-diesel-1990-diesel",
+      "fipeCodigo": "512024-1",
+      "displayName": "SAAB-SCANIA T-112 HW 320 6x2 2p (diesel)",
+      "valorAtual": 68744,
+      "canonicalPath": "/fipe/saab-scania/t-112-hw-320-6x2-2p-diesel-1990-512024-1/",
+      "ano": 1990,
+      "marca": "SAAB-SCANIA"
+    },
+    {
+      "vehicleId": "saab-scania-t-112-hw-320-6x2-2p-diesel-1991-diesel",
+      "fipeCodigo": "512024-1",
+      "displayName": "SAAB-SCANIA T-112 HW 320 6x2 2p (diesel)",
+      "valorAtual": 74747,
+      "canonicalPath": "/fipe/saab-scania/t-112-hw-320-6x2-2p-diesel-1991-512024-1/",
+      "ano": 1991,
+      "marca": "SAAB-SCANIA"
+    },
+    {
+      "vehicleId": "saab-scania-t-112-hw-360-4x2-2p-diesel-1989-diesel",
+      "fipeCodigo": "512017-9",
+      "displayName": "SAAB-SCANIA T-112 HW 360 4x2 2p (diesel)",
+      "valorAtual": 81584,
+      "canonicalPath": "/fipe/saab-scania/t-112-hw-360-4x2-2p-diesel-1989-512017-9/",
+      "ano": 1989,
+      "marca": "SAAB-SCANIA"
+    },
+    {
+      "vehicleId": "saab-scania-t-112-hw-360-4x2-2p-diesel-1990-diesel",
+      "fipeCodigo": "512017-9",
+      "displayName": "SAAB-SCANIA T-112 HW 360 4x2 2p (diesel)",
+      "valorAtual": 85558,
+      "canonicalPath": "/fipe/saab-scania/t-112-hw-360-4x2-2p-diesel-1990-512017-9/",
+      "ano": 1990,
+      "marca": "SAAB-SCANIA"
+    },
+    {
+      "vehicleId": "saab-scania-t-112-hw-360-4x2-2p-diesel-1991-diesel",
+      "fipeCodigo": "512017-9",
+      "displayName": "SAAB-SCANIA T-112 HW 360 4x2 2p (diesel)",
+      "valorAtual": 88658,
+      "canonicalPath": "/fipe/saab-scania/t-112-hw-360-4x2-2p-diesel-1991-512017-9/",
+      "ano": 1991,
+      "marca": "SAAB-SCANIA"
+    },
+    {
+      "vehicleId": "saab-scania-t-112-hw-360-6x2-2p-diesel-1989-diesel",
+      "fipeCodigo": "512028-4",
+      "displayName": "SAAB-SCANIA T-112 HW 360 6x2 2p (diesel)",
+      "valorAtual": 72957,
+      "canonicalPath": "/fipe/saab-scania/t-112-hw-360-6x2-2p-diesel-1989-512028-4/",
+      "ano": 1989,
+      "marca": "SAAB-SCANIA"
+    },
+    {
+      "vehicleId": "saab-scania-t-112-hw-360-6x2-2p-diesel-1990-diesel",
+      "fipeCodigo": "512028-4",
+      "displayName": "SAAB-SCANIA T-112 HW 360 6x2 2p (diesel)",
+      "valorAtual": 85577,
+      "canonicalPath": "/fipe/saab-scania/t-112-hw-360-6x2-2p-diesel-1990-512028-4/",
+      "ano": 1990,
+      "marca": "SAAB-SCANIA"
+    },
+    {
+      "vehicleId": "saab-scania-t-112-hw-360-6x2-2p-diesel-1991-diesel",
+      "fipeCodigo": "512028-4",
+      "displayName": "SAAB-SCANIA T-112 HW 360 6x2 2p (diesel)",
+      "valorAtual": 88962,
+      "canonicalPath": "/fipe/saab-scania/t-112-hw-360-6x2-2p-diesel-1991-512028-4/",
+      "ano": 1991,
+      "marca": "SAAB-SCANIA"
+    },
+    {
+      "vehicleId": "saab-scania-t-142-e-450-6x4-2p-diesel-1982-diesel",
+      "fipeCodigo": "512018-7",
+      "displayName": "SAAB-SCANIA T-142 E 450 6x4 2p (diesel)",
+      "valorAtual": 29520,
+      "canonicalPath": "/fipe/saab-scania/t-142-e-450-6x4-2p-diesel-1982-512018-7/",
+      "ano": 1982,
+      "marca": "SAAB-SCANIA"
+    },
+    {
+      "vehicleId": "saab-scania-t-142-e-450-6x4-2p-diesel-1983-diesel",
+      "fipeCodigo": "512018-7",
+      "displayName": "SAAB-SCANIA T-142 E 450 6x4 2p (diesel)",
+      "valorAtual": 30367,
+      "canonicalPath": "/fipe/saab-scania/t-142-e-450-6x4-2p-diesel-1983-512018-7/",
+      "ano": 1983,
+      "marca": "SAAB-SCANIA"
+    },
+    {
+      "vehicleId": "saab-scania-t-142-e-450-6x4-2p-diesel-1984-diesel",
+      "fipeCodigo": "512018-7",
+      "displayName": "SAAB-SCANIA T-142 E 450 6x4 2p (diesel)",
+      "valorAtual": 32217,
+      "canonicalPath": "/fipe/saab-scania/t-142-e-450-6x4-2p-diesel-1984-512018-7/",
+      "ano": 1984,
+      "marca": "SAAB-SCANIA"
+    },
+    {
+      "vehicleId": "saab-scania-t-142-e-450-6x4-2p-diesel-1985-diesel",
+      "fipeCodigo": "512018-7",
+      "displayName": "SAAB-SCANIA T-142 E 450 6x4 2p (diesel)",
+      "valorAtual": 37011,
+      "canonicalPath": "/fipe/saab-scania/t-142-e-450-6x4-2p-diesel-1985-512018-7/",
+      "ano": 1985,
+      "marca": "SAAB-SCANIA"
+    },
+    {
+      "vehicleId": "saab-scania-t-142-e-450-6x4-2p-diesel-1986-diesel",
+      "fipeCodigo": "512018-7",
+      "displayName": "SAAB-SCANIA T-142 E 450 6x4 2p (diesel)",
+      "valorAtual": 38871,
+      "canonicalPath": "/fipe/saab-scania/t-142-e-450-6x4-2p-diesel-1986-512018-7/",
+      "ano": 1986,
+      "marca": "SAAB-SCANIA"
+    },
+    {
+      "vehicleId": "saab-scania-t-142-e-450-6x4-2p-diesel-1987-diesel",
+      "fipeCodigo": "512018-7",
+      "displayName": "SAAB-SCANIA T-142 E 450 6x4 2p (diesel)",
+      "valorAtual": 45333,
+      "canonicalPath": "/fipe/saab-scania/t-142-e-450-6x4-2p-diesel-1987-512018-7/",
+      "ano": 1987,
+      "marca": "SAAB-SCANIA"
+    },
+    {
+      "vehicleId": "saab-scania-t-142-es-450-6x4-2p-diesel-1987-diesel",
+      "fipeCodigo": "512019-5",
+      "displayName": "SAAB-SCANIA T-142 ES 450 6x4 2p (diesel)",
+      "valorAtual": 44473,
+      "canonicalPath": "/fipe/saab-scania/t-142-es-450-6x4-2p-diesel-1987-512019-5/",
+      "ano": 1987,
+      "marca": "SAAB-SCANIA"
+    },
+    {
+      "vehicleId": "saab-scania-t-142-es-450-6x4-2p-diesel-1988-diesel",
+      "fipeCodigo": "512019-5",
+      "displayName": "SAAB-SCANIA T-142 ES 450 6x4 2p (diesel)",
+      "valorAtual": 46308,
+      "canonicalPath": "/fipe/saab-scania/t-142-es-450-6x4-2p-diesel-1988-512019-5/",
+      "ano": 1988,
+      "marca": "SAAB-SCANIA"
+    },
+    {
+      "vehicleId": "saab-scania-t-142-es-450-6x4-2p-diesel-1989-diesel",
+      "fipeCodigo": "512019-5",
+      "displayName": "SAAB-SCANIA T-142 ES 450 6x4 2p (diesel)",
+      "valorAtual": 50379,
+      "canonicalPath": "/fipe/saab-scania/t-142-es-450-6x4-2p-diesel-1989-512019-5/",
+      "ano": 1989,
+      "marca": "SAAB-SCANIA"
+    },
+    {
+      "vehicleId": "saab-scania-t-142-ew-450-6x4-2p-diesel-1989-diesel",
+      "fipeCodigo": "512020-9",
+      "displayName": "SAAB-SCANIA T-142 EW 450 6x4 2p (diesel)",
+      "valorAtual": 56897,
+      "canonicalPath": "/fipe/saab-scania/t-142-ew-450-6x4-2p-diesel-1989-512020-9/",
+      "ano": 1989,
+      "marca": "SAAB-SCANIA"
+    }
+  ],
+  "stats": {
+    "total": 151
+  },
+  "meta": {
+    "geracaoId": "t-1"
+  }
+}

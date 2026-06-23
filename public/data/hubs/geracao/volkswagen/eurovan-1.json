@@ -1,0 +1,48 @@
+{
+  "tipo": "geracao",
+  "slug": "eurovan-1",
+  "canonicalPath": "/geracao/volkswagen/eurovan-1/",
+  "titulo": "Geracao eurovan-1",
+  "descricao": "3 veiculos da geracao eurovan-1.",
+  "seo": {
+    "title": "Geracao eurovan-1 - Precos FIPE",
+    "description": "Veiculos da geracao eurovan-1 na Tabela FIPE.",
+    "h1": "Geracao eurovan-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/volkswagen/eurovan-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "volkswagen-eurovan-2-4-diesel-1998-diesel",
+      "fipeCodigo": "005084-9",
+      "displayName": "VW - VolksWagen Eurovan 2.4 Diesel",
+      "valorAtual": 23915,
+      "canonicalPath": "/fipe/volkswagen/eurovan-2-4-diesel-1998-005084-9/",
+      "ano": 1998,
+      "marca": "VW - VolksWagen"
+    },
+    {
+      "vehicleId": "volkswagen-eurovan-2-4-diesel-1999-diesel",
+      "fipeCodigo": "005084-9",
+      "displayName": "VW - VolksWagen Eurovan 2.4 Diesel",
+      "valorAtual": 26501,
+      "canonicalPath": "/fipe/volkswagen/eurovan-2-4-diesel-1999-005084-9/",
+      "ano": 1999,
+      "marca": "VW - VolksWagen"
+    },
+    {
+      "vehicleId": "volkswagen-eurovan-2-4-diesel-2000-diesel",
+      "fipeCodigo": "005084-9",
+      "displayName": "VW - VolksWagen Eurovan 2.4 Diesel",
+      "valorAtual": 27164,
+      "canonicalPath": "/fipe/volkswagen/eurovan-2-4-diesel-2000-005084-9/",
+      "ano": 2000,
+      "marca": "VW - VolksWagen"
+    }
+  ],
+  "stats": {
+    "total": 3
+  },
+  "meta": {
+    "geracaoId": "eurovan-1"
+  }
+}

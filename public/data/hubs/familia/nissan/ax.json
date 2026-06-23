@@ -1,0 +1,52 @@
+{
+  "tipo": "familia",
+  "slug": "ax",
+  "canonicalPath": "/fipe/nissan/ax/",
+  "titulo": "Nissan ax - Tabela FIPE",
+  "descricao": "3 versoes e anos do Nissan ax na Tabela FIPE.",
+  "seo": {
+    "title": "Nissan ax - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes Nissan ax. 3 veiculos indexados.",
+    "h1": "Nissan ax - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/nissan/ax/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "nissan-ax-6-5d-turbo-diesel-1996-diesel",
+      "fipeCodigo": "023022-7",
+      "displayName": "Nissan AX 6.5D Turbo Diesel",
+      "valorAtual": 13616,
+      "canonicalPath": "/fipe/nissan/ax-6-5d-turbo-diesel-1996-023022-7/",
+      "ano": 1996,
+      "marca": "Nissan"
+    },
+    {
+      "vehicleId": "nissan-ax-6-5d-turbo-diesel-1995-diesel",
+      "fipeCodigo": "023022-7",
+      "displayName": "Nissan AX 6.5D Turbo Diesel",
+      "valorAtual": 12830,
+      "canonicalPath": "/fipe/nissan/ax-6-5d-turbo-diesel-1995-023022-7/",
+      "ano": 1995,
+      "marca": "Nissan"
+    },
+    {
+      "vehicleId": "nissan-ax-6-5d-turbo-diesel-1994-diesel",
+      "fipeCodigo": "023022-7",
+      "displayName": "Nissan AX 6.5D Turbo Diesel",
+      "valorAtual": 12329,
+      "canonicalPath": "/fipe/nissan/ax-6-5d-turbo-diesel-1994-023022-7/",
+      "ano": 1994,
+      "marca": "Nissan"
+    }
+  ],
+  "stats": {
+    "total": 3,
+    "precoMin": 12329,
+    "precoMax": 13616,
+    "anos": [
+      1996,
+      1995,
+      1994
+    ]
+  }
+}

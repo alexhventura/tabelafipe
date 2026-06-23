@@ -1,0 +1,91 @@
+{
+  "tipo": "familia",
+  "slug": "magentis",
+  "canonicalPath": "/fipe/kia-motors/magentis/",
+  "titulo": "Kia Motors magentis - Tabela FIPE",
+  "descricao": "7 versoes e anos do Kia Motors magentis na Tabela FIPE.",
+  "seo": {
+    "title": "Kia Motors magentis - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes Kia Motors magentis. 7 veiculos indexados.",
+    "h1": "Kia Motors magentis - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/kia-motors/magentis/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "kia-motors-magentis-ex-2-0-16v-aut-2011-gasolina",
+      "fipeCodigo": "018039-4",
+      "displayName": "Kia Motors Magentis EX 2.0 16V Aut.",
+      "valorAtual": 35555,
+      "canonicalPath": "/fipe/kia-motors/magentis-ex-2-0-16v-aut-2011-018039-4/",
+      "ano": 2011,
+      "marca": "Kia Motors"
+    },
+    {
+      "vehicleId": "kia-motors-magentis-ex-2-0-16v-aut-2010-gasolina",
+      "fipeCodigo": "018039-4",
+      "displayName": "Kia Motors Magentis EX 2.0 16V Aut.",
+      "valorAtual": 34094,
+      "canonicalPath": "/fipe/kia-motors/magentis-ex-2-0-16v-aut-2010-018039-4/",
+      "ano": 2010,
+      "marca": "Kia Motors"
+    },
+    {
+      "vehicleId": "kia-motors-magentis-ex-2-0-16v-aut-2009-gasolina",
+      "fipeCodigo": "018039-4",
+      "displayName": "Kia Motors Magentis EX 2.0 16V Aut.",
+      "valorAtual": 33262,
+      "canonicalPath": "/fipe/kia-motors/magentis-ex-2-0-16v-aut-2009-018039-4/",
+      "ano": 2009,
+      "marca": "Kia Motors"
+    },
+    {
+      "vehicleId": "kia-motors-magentis-ex-2-0-16v-aut-2008-gasolina",
+      "fipeCodigo": "018039-4",
+      "displayName": "Kia Motors Magentis EX 2.0 16V Aut.",
+      "valorAtual": 28689,
+      "canonicalPath": "/fipe/kia-motors/magentis-ex-2-0-16v-aut-2008-018039-4/",
+      "ano": 2008,
+      "marca": "Kia Motors"
+    },
+    {
+      "vehicleId": "kia-motors-magentis-lx-2-0-16v-aut-2007-gasolina",
+      "fipeCodigo": "018062-9",
+      "displayName": "Kia Motors Magentis LX 2.0 16V Aut",
+      "valorAtual": 21503,
+      "canonicalPath": "/fipe/kia-motors/magentis-lx-2-0-16v-aut-2007-018062-9/",
+      "ano": 2007,
+      "marca": "Kia Motors"
+    },
+    {
+      "vehicleId": "kia-motors-magentis-ex-2-0-16v-aut-2007-gasolina",
+      "fipeCodigo": "018039-4",
+      "displayName": "Kia Motors Magentis EX 2.0 16V Aut.",
+      "valorAtual": 26152,
+      "canonicalPath": "/fipe/kia-motors/magentis-ex-2-0-16v-aut-2007-018039-4/",
+      "ano": 2007,
+      "marca": "Kia Motors"
+    },
+    {
+      "vehicleId": "kia-motors-magentis-ex-2-0-16v-aut-2006-gasolina",
+      "fipeCodigo": "018039-4",
+      "displayName": "Kia Motors Magentis EX 2.0 16V Aut.",
+      "valorAtual": 21773,
+      "canonicalPath": "/fipe/kia-motors/magentis-ex-2-0-16v-aut-2006-018039-4/",
+      "ano": 2006,
+      "marca": "Kia Motors"
+    }
+  ],
+  "stats": {
+    "total": 7,
+    "precoMin": 21503,
+    "precoMax": 35555,
+    "anos": [
+      2011,
+      2010,
+      2009,
+      2008,
+      2007,
+      2006
+    ]
+  }
+}

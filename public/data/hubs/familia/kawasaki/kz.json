@@ -1,0 +1,42 @@
+{
+  "tipo": "familia",
+  "slug": "kz",
+  "canonicalPath": "/fipe/kawasaki/kz/",
+  "titulo": "KAWASAKI kz - Tabela FIPE",
+  "descricao": "2 versoes e anos do KAWASAKI kz na Tabela FIPE.",
+  "seo": {
+    "title": "KAWASAKI kz - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes KAWASAKI kz. 2 veiculos indexados.",
+    "h1": "KAWASAKI kz - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/kawasaki/kz/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "kawasaki-kz-1000-touring-2002-gasolina",
+      "fipeCodigo": "817026-6",
+      "displayName": "KAWASAKI KZ 1000 TOURING",
+      "valorAtual": 42872,
+      "canonicalPath": "/fipe/kawasaki/kz-1000-touring-2002-817026-6/",
+      "ano": 2002,
+      "marca": "KAWASAKI"
+    },
+    {
+      "vehicleId": "kawasaki-kz-1000-touring-2001-gasolina",
+      "fipeCodigo": "817026-6",
+      "displayName": "KAWASAKI KZ 1000 TOURING",
+      "valorAtual": 40456,
+      "canonicalPath": "/fipe/kawasaki/kz-1000-touring-2001-817026-6/",
+      "ano": 2001,
+      "marca": "KAWASAKI"
+    }
+  ],
+  "stats": {
+    "total": 2,
+    "precoMin": 40456,
+    "precoMax": 42872,
+    "anos": [
+      2002,
+      2001
+    ]
+  }
+}

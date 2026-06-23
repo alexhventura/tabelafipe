@@ -1,0 +1,75 @@
+{
+  "tipo": "geracao",
+  "slug": "m2-3",
+  "canonicalPath": "/geracao/bmw/m2-3/",
+  "titulo": "Geracao m2-3",
+  "descricao": "6 veiculos da geracao m2-3.",
+  "seo": {
+    "title": "Geracao m2-3 - Precos FIPE",
+    "description": "Veiculos da geracao m2-3 na Tabela FIPE.",
+    "h1": "Geracao m2-3",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/bmw/m2-3/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "bmw-m2-coupe-3-0-bi-turbo-24v-3p-2024-gasolina",
+      "fipeCodigo": "009218-5",
+      "displayName": "BMW M2 Coupe 3.0 Bi-Turbo 24V 3p",
+      "valorAtual": 555467,
+      "canonicalPath": "/fipe/bmw/m2-coupe-3-0-bi-turbo-24v-3p-2024-009218-5/",
+      "ano": 2024,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-m2-coupe-3-0-bi-turbo-24v-3p-2025-gasolina",
+      "fipeCodigo": "009218-5",
+      "displayName": "BMW M2 Coupe 3.0 Bi-Turbo 24V 3p",
+      "valorAtual": 596641,
+      "canonicalPath": "/fipe/bmw/m2-coupe-3-0-bi-turbo-24v-3p-2025-009218-5/",
+      "ano": 2025,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-m2-coupe-3-0-bi-turbo-24v-3p-2026-gasolina",
+      "fipeCodigo": "009218-5",
+      "displayName": "BMW M2 Coupe 3.0 Bi-Turbo 24V 3p",
+      "valorAtual": 627058,
+      "canonicalPath": "/fipe/bmw/m2-coupe-3-0-bi-turbo-24v-3p-2026-009218-5/",
+      "ano": 2026,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-m2-coupe-track-3-0-bi-turbo-24v-460cv-3p-2024-gasolina",
+      "fipeCodigo": "009315-7",
+      "displayName": "BMW M2 Coupe Track 3.0 Bi-Turbo 24V 460cv 3p",
+      "valorAtual": 572679,
+      "canonicalPath": "/fipe/bmw/m2-coupe-track-3-0-bi-turbo-24v-460cv-3p-2024-009315-7/",
+      "ano": 2024,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-m2-coupe-track-3-0-bi-turbo-24v-460cv-3p-2025-gasolina",
+      "fipeCodigo": "009315-7",
+      "displayName": "BMW M2 Coupe Track 3.0 Bi-Turbo 24V 460cv 3p",
+      "valorAtual": 633845,
+      "canonicalPath": "/fipe/bmw/m2-coupe-track-3-0-bi-turbo-24v-460cv-3p-2025-009315-7/",
+      "ano": 2025,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-m2-coupe-track-3-0-bi-turbo-24v-460cv-3p-2026-gasolina",
+      "fipeCodigo": "009315-7",
+      "displayName": "BMW M2 Coupe Track 3.0 Bi-Turbo 24V 460cv 3p",
+      "valorAtual": 656011,
+      "canonicalPath": "/fipe/bmw/m2-coupe-track-3-0-bi-turbo-24v-460cv-3p-2026-009315-7/",
+      "ano": 2026,
+      "marca": "BMW"
+    }
+  ],
+  "stats": {
+    "total": 6
+  },
+  "meta": {
+    "geracaoId": "m2-3"
+  }
+}

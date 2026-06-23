@@ -1,0 +1,102 @@
+{
+  "tipo": "geracao",
+  "slug": "m2-2",
+  "canonicalPath": "/geracao/bmw/m2-2/",
+  "titulo": "Geracao m2-2",
+  "descricao": "9 veiculos da geracao m2-2.",
+  "seo": {
+    "title": "Geracao m2-2 - Precos FIPE",
+    "description": "Veiculos da geracao m2-2 na Tabela FIPE.",
+    "h1": "Geracao m2-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/bmw/m2-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "bmw-m2-cs-coupe-3-0-bi-turbo-450cv-2021-gasolina",
+      "fipeCodigo": "009276-2",
+      "displayName": "BMW M2 CS Coupe 3.0 Bi-Turbo 450cv",
+      "valorAtual": 828562,
+      "canonicalPath": "/fipe/bmw/m2-cs-coupe-3-0-bi-turbo-450cv-2021-009276-2/",
+      "ano": 2021,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-m2-competition-3-0-bi-turbo-410cv-aut-2019-gasolina",
+      "fipeCodigo": "009234-7",
+      "displayName": "BMW M2 Competition 3.0 Bi-Turbo 410cv Aut.",
+      "valorAtual": 388285,
+      "canonicalPath": "/fipe/bmw/m2-competition-3-0-bi-turbo-410cv-aut-2019-009234-7/",
+      "ano": 2019,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-m2-competition-3-0-bi-turbo-410cv-aut-2020-gasolina",
+      "fipeCodigo": "009234-7",
+      "displayName": "BMW M2 Competition 3.0 Bi-Turbo 410cv Aut.",
+      "valorAtual": 397993,
+      "canonicalPath": "/fipe/bmw/m2-competition-3-0-bi-turbo-410cv-aut-2020-009234-7/",
+      "ano": 2020,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-m2-competition-3-0-bi-turbo-410cv-aut-2021-gasolina",
+      "fipeCodigo": "009234-7",
+      "displayName": "BMW M2 Competition 3.0 Bi-Turbo 410cv Aut.",
+      "valorAtual": 464468,
+      "canonicalPath": "/fipe/bmw/m2-competition-3-0-bi-turbo-410cv-aut-2021-009234-7/",
+      "ano": 2021,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-m2-competition-ed-espe-3-0-bi-tb-mec-2020-gasolina",
+      "fipeCodigo": "009268-1",
+      "displayName": "BMW M2 Competition Ed. Espe. 3.0 Bi-TB Mec.",
+      "valorAtual": 384578,
+      "canonicalPath": "/fipe/bmw/m2-competition-ed-espe-3-0-bi-tb-mec-2020-009268-1/",
+      "ano": 2020,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-m2-competition-ed-espe-3-0-bi-tb-mec-2021-gasolina",
+      "fipeCodigo": "009268-1",
+      "displayName": "BMW M2 Competition Ed. Espe. 3.0 Bi-TB Mec.",
+      "valorAtual": 493378,
+      "canonicalPath": "/fipe/bmw/m2-competition-ed-espe-3-0-bi-tb-mec-2021-009268-1/",
+      "ano": 2021,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-m2-coupe-3-0-bi-turbo-24v-3p-2016-gasolina",
+      "fipeCodigo": "009218-5",
+      "displayName": "BMW M2 Coupe 3.0 Bi-Turbo 24V 3p",
+      "valorAtual": 256239,
+      "canonicalPath": "/fipe/bmw/m2-coupe-3-0-bi-turbo-24v-3p-2016-009218-5/",
+      "ano": 2016,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-m2-coupe-3-0-bi-turbo-24v-3p-2017-gasolina",
+      "fipeCodigo": "009218-5",
+      "displayName": "BMW M2 Coupe 3.0 Bi-Turbo 24V 3p",
+      "valorAtual": 310875,
+      "canonicalPath": "/fipe/bmw/m2-coupe-3-0-bi-turbo-24v-3p-2017-009218-5/",
+      "ano": 2017,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-m2-coupe-3-0-bi-turbo-24v-3p-2018-gasolina",
+      "fipeCodigo": "009218-5",
+      "displayName": "BMW M2 Coupe 3.0 Bi-Turbo 24V 3p",
+      "valorAtual": 341224,
+      "canonicalPath": "/fipe/bmw/m2-coupe-3-0-bi-turbo-24v-3p-2018-009218-5/",
+      "ano": 2018,
+      "marca": "BMW"
+    }
+  ],
+  "stats": {
+    "total": 9
+  },
+  "meta": {
+    "geracaoId": "m2-2"
+  }
+}

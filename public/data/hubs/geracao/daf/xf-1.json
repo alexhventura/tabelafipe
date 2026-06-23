@@ -1,0 +1,417 @@
+{
+  "tipo": "geracao",
+  "slug": "xf-1",
+  "canonicalPath": "/geracao/daf/xf-1/",
+  "titulo": "Geracao xf-1",
+  "descricao": "44 veiculos da geracao xf-1.",
+  "seo": {
+    "title": "Geracao xf-1 - Precos FIPE",
+    "description": "Veiculos da geracao xf-1 na Tabela FIPE.",
+    "h1": "Geracao xf-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/daf/xf-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "daf-xf-ft480-4x2-space-cab-diesel-e6-0-diesel",
+      "fipeCodigo": "530051-7",
+      "displayName": "DAF XF FT480 4x2 Space Cab (Diesel)(E6)",
+      "valorAtual": 867723,
+      "canonicalPath": "/fipe/daf/xf-ft480-4x2-space-cab-diesel-e6-0-530051-7/",
+      "ano": 0,
+      "marca": "DAF"
+    },
+    {
+      "vehicleId": "daf-xf-ft480-4x2-super-space-cab-die-e6-0-diesel",
+      "fipeCodigo": "530049-5",
+      "displayName": "DAF XF FT480 4x2 Super Space Cab (Die.)(E6)",
+      "valorAtual": 900745,
+      "canonicalPath": "/fipe/daf/xf-ft480-4x2-super-space-cab-die-e6-0-530049-5/",
+      "ano": 0,
+      "marca": "DAF"
+    },
+    {
+      "vehicleId": "daf-xf-ft530-4x2-space-cab-die-e6-0-diesel",
+      "fipeCodigo": "530050-9",
+      "displayName": "DAF XF FT530 4x2 Space Cab (Die.)(E6)",
+      "valorAtual": 899184,
+      "canonicalPath": "/fipe/daf/xf-ft530-4x2-space-cab-die-e6-0-530050-9/",
+      "ano": 0,
+      "marca": "DAF"
+    },
+    {
+      "vehicleId": "daf-xf-ft530-4x2-super-space-cab-die-e6-0-diesel",
+      "fipeCodigo": "530048-7",
+      "displayName": "DAF XF FT530 4x2 Super Space Cab (Die.)(E6)",
+      "valorAtual": 906359,
+      "canonicalPath": "/fipe/daf/xf-ft530-4x2-super-space-cab-die-e6-0-530048-7/",
+      "ano": 0,
+      "marca": "DAF"
+    },
+    {
+      "vehicleId": "daf-xf-fts480-6x2-space-cab-diesel-e6-0-diesel",
+      "fipeCodigo": "530055-0",
+      "displayName": "DAF XF FTS480 6x2 Space Cab (Diesel)(E6)",
+      "valorAtual": 929448,
+      "canonicalPath": "/fipe/daf/xf-fts480-6x2-space-cab-diesel-e6-0-530055-0/",
+      "ano": 0,
+      "marca": "DAF"
+    },
+    {
+      "vehicleId": "daf-xf-fts480-6x2-super-space-cab-die-e6-0-diesel",
+      "fipeCodigo": "530053-3",
+      "displayName": "DAF XF FTS480 6x2 Super Space Cab (Die.)(E6)",
+      "valorAtual": 948779,
+      "canonicalPath": "/fipe/daf/xf-fts480-6x2-super-space-cab-die-e6-0-530053-3/",
+      "ano": 0,
+      "marca": "DAF"
+    },
+    {
+      "vehicleId": "daf-xf-fts530-6x2-space-cab-diesel-e6-0-diesel",
+      "fipeCodigo": "530054-1",
+      "displayName": "DAF XF FTS530 6x2 Space Cab (Diesel)(E6)",
+      "valorAtual": 947514,
+      "canonicalPath": "/fipe/daf/xf-fts530-6x2-space-cab-diesel-e6-0-530054-1/",
+      "ano": 0,
+      "marca": "DAF"
+    },
+    {
+      "vehicleId": "daf-xf-fts530-6x2-super-space-cab-die-e6-0-diesel",
+      "fipeCodigo": "530052-5",
+      "displayName": "DAF XF FTS530 6x2 Super Space Cab (Die.)(E6)",
+      "valorAtual": 958544,
+      "canonicalPath": "/fipe/daf/xf-fts530-6x2-super-space-cab-die-e6-0-530052-5/",
+      "ano": 0,
+      "marca": "DAF"
+    },
+    {
+      "vehicleId": "daf-xf-ftt480-6x4-space-cab-diesel-e6-0-diesel",
+      "fipeCodigo": "530056-8",
+      "displayName": "DAF XF FTT480 6x4 Space Cab (Diesel)(E6)",
+      "valorAtual": 983559,
+      "canonicalPath": "/fipe/daf/xf-ftt480-6x4-space-cab-diesel-e6-0-530056-8/",
+      "ano": 0,
+      "marca": "DAF"
+    },
+    {
+      "vehicleId": "daf-xf-ftt480-6x4-super-space-cab-die-e6-0-diesel",
+      "fipeCodigo": "530058-4",
+      "displayName": "DAF XF FTT480 6x4 Super Space Cab (Die.)(E6)",
+      "valorAtual": 1004588,
+      "canonicalPath": "/fipe/daf/xf-ftt480-6x4-super-space-cab-die-e6-0-530058-4/",
+      "ano": 0,
+      "marca": "DAF"
+    },
+    {
+      "vehicleId": "daf-xf-ftt530-6x4-space-cab-diesel-e6-0-diesel",
+      "fipeCodigo": "530059-2",
+      "displayName": "DAF XF FTT530 6x4 Space Cab (Diesel)(E6)",
+      "valorAtual": 992215,
+      "canonicalPath": "/fipe/daf/xf-ftt530-6x4-space-cab-diesel-e6-0-530059-2/",
+      "ano": 0,
+      "marca": "DAF"
+    },
+    {
+      "vehicleId": "daf-xf-ftt530-6x4-space-cab-hr-die-e6-0-diesel",
+      "fipeCodigo": "530101-7",
+      "displayName": "DAF XF FTT530 6x4 Space Cab HR (Die)(E6)",
+      "valorAtual": 1036473,
+      "canonicalPath": "/fipe/daf/xf-ftt530-6x4-space-cab-hr-die-e6-0-530101-7/",
+      "ano": 0,
+      "marca": "DAF"
+    },
+    {
+      "vehicleId": "daf-xf-ftt530-6x4-sup-spa-cab-hr-die-e6-0-diesel",
+      "fipeCodigo": "530102-5",
+      "displayName": "DAF XF FTT530 6x4 Sup. Spa. Cab HR (Die)(E6)",
+      "valorAtual": 1032015,
+      "canonicalPath": "/fipe/daf/xf-ftt530-6x4-sup-spa-cab-hr-die-e6-0-530102-5/",
+      "ano": 0,
+      "marca": "DAF"
+    },
+    {
+      "vehicleId": "daf-xf-ftt530-6x4-super-space-cab-die-e6-0-diesel",
+      "fipeCodigo": "530057-6",
+      "displayName": "DAF XF FTT530 6x4 Super Space Cab (Die.)(E6)",
+      "valorAtual": 1036488,
+      "canonicalPath": "/fipe/daf/xf-ftt530-6x4-super-space-cab-die-e6-0-530057-6/",
+      "ano": 0,
+      "marca": "DAF"
+    },
+    {
+      "vehicleId": "jaguar-xf-2-0-gtdi-sport-luxury-240cv-aut-2015-gasolina",
+      "fipeCodigo": "016041-5",
+      "displayName": "Jaguar XF 2.0 GTDI SPORT LUXURY 240cv Aut.",
+      "valorAtual": 103407,
+      "canonicalPath": "/fipe/jaguar/xf-2-0-gtdi-sport-luxury-240cv-aut-2015-016041-5/",
+      "ano": 2015,
+      "marca": "Jaguar"
+    },
+    {
+      "vehicleId": "jaguar-xf-2-0-gtdi-sport-premium-tech-240cv-aut-2015-gasolina",
+      "fipeCodigo": "016042-3",
+      "displayName": "Jaguar XF 2.0 GTDI SPORT PREMIUM TECH 240cv Aut",
+      "valorAtual": 106803,
+      "canonicalPath": "/fipe/jaguar/xf-2-0-gtdi-sport-premium-tech-240cv-aut-2015-016042-3/",
+      "ano": 2015,
+      "marca": "Jaguar"
+    },
+    {
+      "vehicleId": "jaguar-xf-2-0-gtdi-prestige-16v-aut-2016-gasolina",
+      "fipeCodigo": "016047-4",
+      "displayName": "Jaguar XF 2.0 GTDi Prestige 16V Aut.",
+      "valorAtual": 126201,
+      "canonicalPath": "/fipe/jaguar/xf-2-0-gtdi-prestige-16v-aut-2016-016047-4/",
+      "ano": 2016,
+      "marca": "Jaguar"
+    },
+    {
+      "vehicleId": "jaguar-xf-2-0-gtdi-prestige-16v-aut-2017-gasolina",
+      "fipeCodigo": "016047-4",
+      "displayName": "Jaguar XF 2.0 GTDi Prestige 16V Aut.",
+      "valorAtual": 132599,
+      "canonicalPath": "/fipe/jaguar/xf-2-0-gtdi-prestige-16v-aut-2017-016047-4/",
+      "ano": 2017,
+      "marca": "Jaguar"
+    },
+    {
+      "vehicleId": "jaguar-xf-2-0-gtdi-prestige-16v-aut-2018-gasolina",
+      "fipeCodigo": "016047-4",
+      "displayName": "Jaguar XF 2.0 GTDi Prestige 16V Aut.",
+      "valorAtual": 175482,
+      "canonicalPath": "/fipe/jaguar/xf-2-0-gtdi-prestige-16v-aut-2018-016047-4/",
+      "ano": 2018,
+      "marca": "Jaguar"
+    },
+    {
+      "vehicleId": "jaguar-xf-2-0-r-sport-aut-2016-gasolina",
+      "fipeCodigo": "016048-2",
+      "displayName": "Jaguar XF 2.0 R-SPORT  Aut.",
+      "valorAtual": 145225,
+      "canonicalPath": "/fipe/jaguar/xf-2-0-r-sport-aut-2016-016048-2/",
+      "ano": 2016,
+      "marca": "Jaguar"
+    },
+    {
+      "vehicleId": "jaguar-xf-2-0-r-sport-aut-2017-gasolina",
+      "fipeCodigo": "016048-2",
+      "displayName": "Jaguar XF 2.0 R-SPORT  Aut.",
+      "valorAtual": 148856,
+      "canonicalPath": "/fipe/jaguar/xf-2-0-r-sport-aut-2017-016048-2/",
+      "ano": 2017,
+      "marca": "Jaguar"
+    },
+    {
+      "vehicleId": "jaguar-xf-2-0-r-sport-aut-2018-gasolina",
+      "fipeCodigo": "016048-2",
+      "displayName": "Jaguar XF 2.0 R-SPORT  Aut.",
+      "valorAtual": 175726,
+      "canonicalPath": "/fipe/jaguar/xf-2-0-r-sport-aut-2018-016048-2/",
+      "ano": 2018,
+      "marca": "Jaguar"
+    },
+    {
+      "vehicleId": "jaguar-xf-2-0-r-sport-aut-2019-gasolina",
+      "fipeCodigo": "016048-2",
+      "displayName": "Jaguar XF 2.0 R-SPORT  Aut.",
+      "valorAtual": 180648,
+      "canonicalPath": "/fipe/jaguar/xf-2-0-r-sport-aut-2019-016048-2/",
+      "ano": 2019,
+      "marca": "Jaguar"
+    },
+    {
+      "vehicleId": "jaguar-xf-2-0-r-sport-aut-2020-gasolina",
+      "fipeCodigo": "016048-2",
+      "displayName": "Jaguar XF 2.0 R-SPORT  Aut.",
+      "valorAtual": 186876,
+      "canonicalPath": "/fipe/jaguar/xf-2-0-r-sport-aut-2020-016048-2/",
+      "ano": 2020,
+      "marca": "Jaguar"
+    },
+    {
+      "vehicleId": "jaguar-xf-2-0-turbo-16v-240cv-aut-2013-gasolina",
+      "fipeCodigo": "016029-6",
+      "displayName": "Jaguar XF 2.0 Turbo 16V 240cv Aut.",
+      "valorAtual": 98888,
+      "canonicalPath": "/fipe/jaguar/xf-2-0-turbo-16v-240cv-aut-2013-016029-6/",
+      "ano": 2013,
+      "marca": "Jaguar"
+    },
+    {
+      "vehicleId": "jaguar-xf-2-0-turbo-16v-240cv-aut-2014-gasolina",
+      "fipeCodigo": "016029-6",
+      "displayName": "Jaguar XF 2.0 Turbo 16V 240cv Aut.",
+      "valorAtual": 101361,
+      "canonicalPath": "/fipe/jaguar/xf-2-0-turbo-16v-240cv-aut-2014-016029-6/",
+      "ano": 2014,
+      "marca": "Jaguar"
+    },
+    {
+      "vehicleId": "jaguar-xf-2-0-turbo-16v-240cv-aut-2015-gasolina",
+      "fipeCodigo": "016029-6",
+      "displayName": "Jaguar XF 2.0 Turbo 16V 240cv Aut.",
+      "valorAtual": 106396,
+      "canonicalPath": "/fipe/jaguar/xf-2-0-turbo-16v-240cv-aut-2015-016029-6/",
+      "ano": 2015,
+      "marca": "Jaguar"
+    },
+    {
+      "vehicleId": "jaguar-xf-2-0-turbocharged-pure-250cv-aut-2018-gasolina",
+      "fipeCodigo": "016063-6",
+      "displayName": "Jaguar XF 2.0 Turbocharged Pure 250cv Aut.",
+      "valorAtual": 168933,
+      "canonicalPath": "/fipe/jaguar/xf-2-0-turbocharged-pure-250cv-aut-2018-016063-6/",
+      "ano": 2018,
+      "marca": "Jaguar"
+    },
+    {
+      "vehicleId": "jaguar-xf-3-0-portfolio-supercharged-v6-aut-2013-gasolina",
+      "fipeCodigo": "016030-0",
+      "displayName": "Jaguar XF 3.0 Portfolio Supercharged V6 Aut.",
+      "valorAtual": 124907,
+      "canonicalPath": "/fipe/jaguar/xf-3-0-portfolio-supercharged-v6-aut-2013-016030-0/",
+      "ano": 2013,
+      "marca": "Jaguar"
+    },
+    {
+      "vehicleId": "jaguar-xf-3-0-portfolio-supercharged-v6-aut-2014-gasolina",
+      "fipeCodigo": "016030-0",
+      "displayName": "Jaguar XF 3.0 Portfolio Supercharged V6 Aut.",
+      "valorAtual": 128030,
+      "canonicalPath": "/fipe/jaguar/xf-3-0-portfolio-supercharged-v6-aut-2014-016030-0/",
+      "ano": 2014,
+      "marca": "Jaguar"
+    },
+    {
+      "vehicleId": "jaguar-xf-3-0-portfolio-supercharged-v6-aut-2015-gasolina",
+      "fipeCodigo": "016030-0",
+      "displayName": "Jaguar XF 3.0 Portfolio Supercharged V6 Aut.",
+      "valorAtual": 131231,
+      "canonicalPath": "/fipe/jaguar/xf-3-0-portfolio-supercharged-v6-aut-2015-016030-0/",
+      "ano": 2015,
+      "marca": "Jaguar"
+    },
+    {
+      "vehicleId": "jaguar-xf-3-0-s-v6-380cv-aut-2016-gasolina",
+      "fipeCodigo": "016049-0",
+      "displayName": "Jaguar XF 3.0 S V6 380cv Aut.",
+      "valorAtual": 160803,
+      "canonicalPath": "/fipe/jaguar/xf-3-0-s-v6-380cv-aut-2016-016049-0/",
+      "ano": 2016,
+      "marca": "Jaguar"
+    },
+    {
+      "vehicleId": "jaguar-xf-3-0-s-v6-380cv-aut-2017-gasolina",
+      "fipeCodigo": "016049-0",
+      "displayName": "Jaguar XF 3.0 S V6 380cv Aut.",
+      "valorAtual": 213303,
+      "canonicalPath": "/fipe/jaguar/xf-3-0-s-v6-380cv-aut-2017-016049-0/",
+      "ano": 2017,
+      "marca": "Jaguar"
+    },
+    {
+      "vehicleId": "jaguar-xf-3-0-s-v6-380cv-aut-2018-gasolina",
+      "fipeCodigo": "016049-0",
+      "displayName": "Jaguar XF 3.0 S V6 380cv Aut.",
+      "valorAtual": 291395,
+      "canonicalPath": "/fipe/jaguar/xf-3-0-s-v6-380cv-aut-2018-016049-0/",
+      "ano": 2018,
+      "marca": "Jaguar"
+    },
+    {
+      "vehicleId": "jaguar-xf-3-0-v6-24v-240cv-aut-2009-gasolina",
+      "fipeCodigo": "016023-7",
+      "displayName": "Jaguar XF 3.0 V6 24V 240cv Aut.",
+      "valorAtual": 74767,
+      "canonicalPath": "/fipe/jaguar/xf-3-0-v6-24v-240cv-aut-2009-016023-7/",
+      "ano": 2009,
+      "marca": "Jaguar"
+    },
+    {
+      "vehicleId": "jaguar-xf-3-0-v6-24v-240cv-aut-2010-gasolina",
+      "fipeCodigo": "016023-7",
+      "displayName": "Jaguar XF 3.0 V6 24V 240cv Aut.",
+      "valorAtual": 80003,
+      "canonicalPath": "/fipe/jaguar/xf-3-0-v6-24v-240cv-aut-2010-016023-7/",
+      "ano": 2010,
+      "marca": "Jaguar"
+    },
+    {
+      "vehicleId": "jaguar-xf-3-0-v6-24v-240cv-aut-2011-gasolina",
+      "fipeCodigo": "016023-7",
+      "displayName": "Jaguar XF 3.0 V6 24V 240cv Aut.",
+      "valorAtual": 82177,
+      "canonicalPath": "/fipe/jaguar/xf-3-0-v6-24v-240cv-aut-2011-016023-7/",
+      "ano": 2011,
+      "marca": "Jaguar"
+    },
+    {
+      "vehicleId": "jaguar-xf-3-0-v6-24v-240cv-aut-2012-gasolina",
+      "fipeCodigo": "016023-7",
+      "displayName": "Jaguar XF 3.0 V6 24V 240cv Aut.",
+      "valorAtual": 87673,
+      "canonicalPath": "/fipe/jaguar/xf-3-0-v6-24v-240cv-aut-2012-016023-7/",
+      "ano": 2012,
+      "marca": "Jaguar"
+    },
+    {
+      "vehicleId": "jaguar-xf-4-2-v8-32v-300cv-aut-2009-gasolina",
+      "fipeCodigo": "016024-5",
+      "displayName": "Jaguar XF 4.2 V8 32V 300cv Aut.",
+      "valorAtual": 94425,
+      "canonicalPath": "/fipe/jaguar/xf-4-2-v8-32v-300cv-aut-2009-016024-5/",
+      "ano": 2009,
+      "marca": "Jaguar"
+    },
+    {
+      "vehicleId": "jaguar-xf-4-2-v8-32v-300cv-aut-2010-gasolina",
+      "fipeCodigo": "016024-5",
+      "displayName": "Jaguar XF 4.2 V8 32V 300cv Aut.",
+      "valorAtual": 119106,
+      "canonicalPath": "/fipe/jaguar/xf-4-2-v8-32v-300cv-aut-2010-016024-5/",
+      "ano": 2010,
+      "marca": "Jaguar"
+    },
+    {
+      "vehicleId": "jaguar-xf-5-0-32v-v8-385cv-aut-2010-gasolina",
+      "fipeCodigo": "016027-0",
+      "displayName": "Jaguar XF 5.0 32V V8 385cv Aut.",
+      "valorAtual": 122663,
+      "canonicalPath": "/fipe/jaguar/xf-5-0-32v-v8-385cv-aut-2010-016027-0/",
+      "ano": 2010,
+      "marca": "Jaguar"
+    },
+    {
+      "vehicleId": "jaguar-xf-5-0-32v-v8-385cv-aut-2011-gasolina",
+      "fipeCodigo": "016027-0",
+      "displayName": "Jaguar XF 5.0 32V V8 385cv Aut.",
+      "valorAtual": 140936,
+      "canonicalPath": "/fipe/jaguar/xf-5-0-32v-v8-385cv-aut-2011-016027-0/",
+      "ano": 2011,
+      "marca": "Jaguar"
+    },
+    {
+      "vehicleId": "jaguar-xf-5-0-32v-v8-385cv-aut-2012-gasolina",
+      "fipeCodigo": "016027-0",
+      "displayName": "Jaguar XF 5.0 32V V8 385cv Aut.",
+      "valorAtual": 144460,
+      "canonicalPath": "/fipe/jaguar/xf-5-0-32v-v8-385cv-aut-2012-016027-0/",
+      "ano": 2012,
+      "marca": "Jaguar"
+    },
+    {
+      "vehicleId": "jaguar-xf-sv8-4-2-v8-32v-420cv-aut-2009-gasolina",
+      "fipeCodigo": "016025-3",
+      "displayName": "Jaguar XF SV8 4.2 V8 32V 420cv Aut.",
+      "valorAtual": 84442,
+      "canonicalPath": "/fipe/jaguar/xf-sv8-4-2-v8-32v-420cv-aut-2009-016025-3/",
+      "ano": 2009,
+      "marca": "Jaguar"
+    }
+  ],
+  "stats": {
+    "total": 44
+  },
+  "meta": {
+    "geracaoId": "xf-1"
+  }
+}

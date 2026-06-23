@@ -1,0 +1,57 @@
+{
+  "tipo": "geracao",
+  "slug": "745ia-1",
+  "canonicalPath": "/geracao/bmw/745ia-1/",
+  "titulo": "Geracao 745ia-1",
+  "descricao": "4 veiculos da geracao 745ia-1.",
+  "seo": {
+    "title": "Geracao 745ia-1 - Precos FIPE",
+    "description": "Veiculos da geracao 745ia-1 na Tabela FIPE.",
+    "h1": "Geracao 745ia-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/bmw/745ia-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "bmw-745ia-4-4-v8-32v-333cv-2002-gasolina",
+      "fipeCodigo": "009096-4",
+      "displayName": "BMW 745iA 4.4 V8 32V 333cv",
+      "valorAtual": 65324,
+      "canonicalPath": "/fipe/bmw/745ia-4-4-v8-32v-333cv-2002-009096-4/",
+      "ano": 2002,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-745ia-4-4-v8-32v-333cv-2003-gasolina",
+      "fipeCodigo": "009096-4",
+      "displayName": "BMW 745iA 4.4 V8 32V 333cv",
+      "valorAtual": 66958,
+      "canonicalPath": "/fipe/bmw/745ia-4-4-v8-32v-333cv-2003-009096-4/",
+      "ano": 2003,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-745ia-4-4-v8-32v-333cv-2004-gasolina",
+      "fipeCodigo": "009096-4",
+      "displayName": "BMW 745iA 4.4 V8 32V 333cv",
+      "valorAtual": 80815,
+      "canonicalPath": "/fipe/bmw/745ia-4-4-v8-32v-333cv-2004-009096-4/",
+      "ano": 2004,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-745ia-4-4-v8-32v-333cv-2005-gasolina",
+      "fipeCodigo": "009096-4",
+      "displayName": "BMW 745iA 4.4 V8 32V 333cv",
+      "valorAtual": 85086,
+      "canonicalPath": "/fipe/bmw/745ia-4-4-v8-32v-333cv-2005-009096-4/",
+      "ano": 2005,
+      "marca": "BMW"
+    }
+  ],
+  "stats": {
+    "total": 4
+  },
+  "meta": {
+    "geracaoId": "745ia-1"
+  }
+}

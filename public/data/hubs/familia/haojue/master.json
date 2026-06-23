@@ -1,0 +1,92 @@
+{
+  "tipo": "familia",
+  "slug": "master",
+  "canonicalPath": "/fipe/haojue/master/",
+  "titulo": "HAOJUE master - Tabela FIPE",
+  "descricao": "7 versoes e anos do HAOJUE master na Tabela FIPE.",
+  "seo": {
+    "title": "HAOJUE master - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes HAOJUE master. 7 veiculos indexados.",
+    "h1": "HAOJUE master - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/haojue/master/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "haojue-master-ride-150-2027-gasolina",
+      "fipeCodigo": "885009-7",
+      "displayName": "HAOJUE MASTER RIDE 150",
+      "valorAtual": 17364,
+      "canonicalPath": "/fipe/haojue/master-ride-150-2027-885009-7/",
+      "ano": 2027,
+      "marca": "HAOJUE"
+    },
+    {
+      "vehicleId": "haojue-master-ride-150-2026-gasolina",
+      "fipeCodigo": "885009-7",
+      "displayName": "HAOJUE MASTER RIDE 150",
+      "valorAtual": 16829,
+      "canonicalPath": "/fipe/haojue/master-ride-150-2026-885009-7/",
+      "ano": 2026,
+      "marca": "HAOJUE"
+    },
+    {
+      "vehicleId": "haojue-master-ride-150-2025-gasolina",
+      "fipeCodigo": "885009-7",
+      "displayName": "HAOJUE MASTER RIDE 150",
+      "valorAtual": 15865,
+      "canonicalPath": "/fipe/haojue/master-ride-150-2025-885009-7/",
+      "ano": 2025,
+      "marca": "HAOJUE"
+    },
+    {
+      "vehicleId": "haojue-master-ride-150-2024-gasolina",
+      "fipeCodigo": "885009-7",
+      "displayName": "HAOJUE MASTER RIDE 150",
+      "valorAtual": 15321,
+      "canonicalPath": "/fipe/haojue/master-ride-150-2024-885009-7/",
+      "ano": 2024,
+      "marca": "HAOJUE"
+    },
+    {
+      "vehicleId": "haojue-master-ride-150-2023-gasolina",
+      "fipeCodigo": "885009-7",
+      "displayName": "HAOJUE MASTER RIDE 150",
+      "valorAtual": 14929,
+      "canonicalPath": "/fipe/haojue/master-ride-150-2023-885009-7/",
+      "ano": 2023,
+      "marca": "HAOJUE"
+    },
+    {
+      "vehicleId": "haojue-master-ride-150-2022-gasolina",
+      "fipeCodigo": "885009-7",
+      "displayName": "HAOJUE MASTER RIDE 150",
+      "valorAtual": 14264,
+      "canonicalPath": "/fipe/haojue/master-ride-150-2022-885009-7/",
+      "ano": 2022,
+      "marca": "HAOJUE"
+    },
+    {
+      "vehicleId": "haojue-master-ride-150-0-gasolina",
+      "fipeCodigo": "885009-7",
+      "displayName": "HAOJUE MASTER RIDE 150",
+      "valorAtual": 18443,
+      "canonicalPath": "/fipe/haojue/master-ride-150-0-885009-7/",
+      "ano": 0,
+      "marca": "HAOJUE"
+    }
+  ],
+  "stats": {
+    "total": 7,
+    "precoMin": 14264,
+    "precoMax": 18443,
+    "anos": [
+      2027,
+      2026,
+      2025,
+      2024,
+      2023,
+      2022,
+      0
+    ]
+  }
+}

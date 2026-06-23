@@ -1,0 +1,42 @@
+{
+  "tipo": "familia",
+  "slug": "m1",
+  "canonicalPath": "/fipe/bmw/m1/",
+  "titulo": "BMW m1 - Tabela FIPE",
+  "descricao": "2 versoes e anos do BMW m1 na Tabela FIPE.",
+  "seo": {
+    "title": "BMW m1 - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes BMW m1. 2 veiculos indexados.",
+    "h1": "BMW m1 - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/bmw/m1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "bmw-m1-coupe-3-0-24v-340cv-2012-gasolina",
+      "fipeCodigo": "009157-0",
+      "displayName": "BMW M1 Coupe 3.0 24V 340cv",
+      "valorAtual": 526176,
+      "canonicalPath": "/fipe/bmw/m1-coupe-3-0-24v-340cv-2012-009157-0/",
+      "ano": 2012,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-m1-coupe-3-0-24v-340cv-2011-gasolina",
+      "fipeCodigo": "009157-0",
+      "displayName": "BMW M1 Coupe 3.0 24V 340cv",
+      "valorAtual": 422445,
+      "canonicalPath": "/fipe/bmw/m1-coupe-3-0-24v-340cv-2011-009157-0/",
+      "ano": 2011,
+      "marca": "BMW"
+    }
+  ],
+  "stats": {
+    "total": 2,
+    "precoMin": 422445,
+    "precoMax": 526176,
+    "anos": [
+      2012,
+      2011
+    ]
+  }
+}

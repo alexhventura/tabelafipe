@@ -1,0 +1,75 @@
+{
+  "tipo": "geracao",
+  "slug": "gt-2",
+  "canonicalPath": "/geracao/mclaren/gt-2/",
+  "titulo": "Geracao gt-2",
+  "descricao": "6 veiculos da geracao gt-2.",
+  "seo": {
+    "title": "Geracao gt-2 - Precos FIPE",
+    "description": "Veiculos da geracao gt-2 na Tabela FIPE.",
+    "h1": "Geracao gt-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/mclaren/gt-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "mclaren-gt-coupe-4-0-bi-turbo-v8-2p-2022-gasolina",
+      "fipeCodigo": "090008-7",
+      "displayName": "Mclaren GT Coupé 4.0 Bi-Turbo V8 2p",
+      "valorAtual": 2139787,
+      "canonicalPath": "/fipe/mclaren/gt-coupe-4-0-bi-turbo-v8-2p-2022-090008-7/",
+      "ano": 2022,
+      "marca": "Mclaren"
+    },
+    {
+      "vehicleId": "mclaren-gt-coupe-4-0-bi-turbo-v8-2p-2023-gasolina",
+      "fipeCodigo": "090008-7",
+      "displayName": "Mclaren GT Coupé 4.0 Bi-Turbo V8 2p",
+      "valorAtual": 2469489,
+      "canonicalPath": "/fipe/mclaren/gt-coupe-4-0-bi-turbo-v8-2p-2023-090008-7/",
+      "ano": 2023,
+      "marca": "Mclaren"
+    },
+    {
+      "vehicleId": "mercedes-benz-gt-amg-4-0-v8-bi-turbo-462cv-2016-gasolina",
+      "fipeCodigo": "021358-6",
+      "displayName": "Mercedes-Benz GT AMG 4.0 V8 Bi-Turbo 462cv",
+      "valorAtual": 804610,
+      "canonicalPath": "/fipe/mercedes-benz/gt-amg-4-0-v8-bi-turbo-462cv-2016-021358-6/",
+      "ano": 2016,
+      "marca": "Mercedes-Benz"
+    },
+    {
+      "vehicleId": "mercedes-benz-gt-s-amg-4-0-v8-bi-turbo-510cv-2015-gasolina",
+      "fipeCodigo": "021332-2",
+      "displayName": "Mercedes-Benz GT S AMG 4.0 V8 Bi-Turbo 510cv",
+      "valorAtual": 702195,
+      "canonicalPath": "/fipe/mercedes-benz/gt-s-amg-4-0-v8-bi-turbo-510cv-2015-021332-2/",
+      "ano": 2015,
+      "marca": "Mercedes-Benz"
+    },
+    {
+      "vehicleId": "mercedes-benz-gt-s-amg-4-0-v8-bi-turbo-510cv-2016-gasolina",
+      "fipeCodigo": "021332-2",
+      "displayName": "Mercedes-Benz GT S AMG 4.0 V8 Bi-Turbo 510cv",
+      "valorAtual": 854497,
+      "canonicalPath": "/fipe/mercedes-benz/gt-s-amg-4-0-v8-bi-turbo-510cv-2016-021332-2/",
+      "ano": 2016,
+      "marca": "Mercedes-Benz"
+    },
+    {
+      "vehicleId": "nissan-gt-r-3-8-v6-biturbo-aut-2019-gasolina",
+      "fipeCodigo": "023151-7",
+      "displayName": "Nissan GT-R 3.8 V6 BiTurbo Aut.",
+      "valorAtual": 1413922,
+      "canonicalPath": "/fipe/nissan/gt-r-3-8-v6-biturbo-aut-2019-023151-7/",
+      "ano": 2019,
+      "marca": "Nissan"
+    }
+  ],
+  "stats": {
+    "total": 6
+  },
+  "meta": {
+    "geracaoId": "gt-2"
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "tipo": "geracao",
+  "slug": "rdz-1",
+  "canonicalPath": "/geracao/yamaha/rdz-1/",
+  "titulo": "Geracao rdz-1",
+  "descricao": "7 veiculos da geracao rdz-1.",
+  "seo": {
+    "title": "Geracao rdz-1 - Precos FIPE",
+    "description": "Veiculos da geracao rdz-1 na Tabela FIPE.",
+    "h1": "Geracao rdz-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/yamaha/rdz-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "yamaha-rdz-125-1990-gasolina",
+      "fipeCodigo": "827016-3",
+      "displayName": "YAMAHA RDZ 125",
+      "valorAtual": 1138,
+      "canonicalPath": "/fipe/yamaha/rdz-125-1990-827016-3/",
+      "ano": 1990,
+      "marca": "YAMAHA"
+    },
+    {
+      "vehicleId": "yamaha-rdz-125-1991-gasolina",
+      "fipeCodigo": "827016-3",
+      "displayName": "YAMAHA RDZ 125",
+      "valorAtual": 1215,
+      "canonicalPath": "/fipe/yamaha/rdz-125-1991-827016-3/",
+      "ano": 1991,
+      "marca": "YAMAHA"
+    },
+    {
+      "vehicleId": "yamaha-rdz-125-1992-gasolina",
+      "fipeCodigo": "827016-3",
+      "displayName": "YAMAHA RDZ 125",
+      "valorAtual": 1314,
+      "canonicalPath": "/fipe/yamaha/rdz-125-1992-827016-3/",
+      "ano": 1992,
+      "marca": "YAMAHA"
+    },
+    {
+      "vehicleId": "yamaha-rdz-125-1993-gasolina",
+      "fipeCodigo": "827016-3",
+      "displayName": "YAMAHA RDZ 125",
+      "valorAtual": 1407,
+      "canonicalPath": "/fipe/yamaha/rdz-125-1993-827016-3/",
+      "ano": 1993,
+      "marca": "YAMAHA"
+    },
+    {
+      "vehicleId": "yamaha-rdz-135-1990-gasolina",
+      "fipeCodigo": "827017-1",
+      "displayName": "YAMAHA RDZ 135",
+      "valorAtual": 3695,
+      "canonicalPath": "/fipe/yamaha/rdz-135-1990-827017-1/",
+      "ano": 1990,
+      "marca": "YAMAHA"
+    },
+    {
+      "vehicleId": "yamaha-rdz-135-1991-gasolina",
+      "fipeCodigo": "827017-1",
+      "displayName": "YAMAHA RDZ 135",
+      "valorAtual": 3968,
+      "canonicalPath": "/fipe/yamaha/rdz-135-1991-827017-1/",
+      "ano": 1991,
+      "marca": "YAMAHA"
+    },
+    {
+      "vehicleId": "yamaha-rdz-135-1992-gasolina",
+      "fipeCodigo": "827017-1",
+      "displayName": "YAMAHA RDZ 135",
+      "valorAtual": 4478,
+      "canonicalPath": "/fipe/yamaha/rdz-135-1992-827017-1/",
+      "ano": 1992,
+      "marca": "YAMAHA"
+    }
+  ],
+  "stats": {
+    "total": 7
+  },
+  "meta": {
+    "geracaoId": "rdz-1"
+  }
+}

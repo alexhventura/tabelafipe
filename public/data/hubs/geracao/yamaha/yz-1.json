@@ -1,0 +1,48 @@
+{
+  "tipo": "geracao",
+  "slug": "yz-1",
+  "canonicalPath": "/geracao/yamaha/yz-1/",
+  "titulo": "Geracao yz-1",
+  "descricao": "3 veiculos da geracao yz-1.",
+  "seo": {
+    "title": "Geracao yz-1 - Precos FIPE",
+    "description": "Veiculos da geracao yz-1 na Tabela FIPE.",
+    "h1": "Geracao yz-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/yamaha/yz-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "yamaha-yz-250-0-gasolina",
+      "fipeCodigo": "827042-2",
+      "displayName": "YAMAHA YZ 250",
+      "valorAtual": 69656,
+      "canonicalPath": "/fipe/yamaha/yz-250-0-827042-2/",
+      "ano": 0,
+      "marca": "YAMAHA"
+    },
+    {
+      "vehicleId": "yamaha-yz-250-f-250cc-0-gasolina",
+      "fipeCodigo": "827111-9",
+      "displayName": "YAMAHA YZ 250 F 250cc",
+      "valorAtual": 79656,
+      "canonicalPath": "/fipe/yamaha/yz-250-f-250cc-0-827111-9/",
+      "ano": 0,
+      "marca": "YAMAHA"
+    },
+    {
+      "vehicleId": "yamaha-yz-85-lw-85cc-0-gasolina",
+      "fipeCodigo": "827112-7",
+      "displayName": "YAMAHA YZ 85 LW 85cc",
+      "valorAtual": 47736,
+      "canonicalPath": "/fipe/yamaha/yz-85-lw-85cc-0-827112-7/",
+      "ano": 0,
+      "marca": "YAMAHA"
+    }
+  ],
+  "stats": {
+    "total": 3
+  },
+  "meta": {
+    "geracaoId": "yz-1"
+  }
+}

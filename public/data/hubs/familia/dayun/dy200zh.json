@@ -1,0 +1,42 @@
+{
+  "tipo": "familia",
+  "slug": "dy200zh",
+  "canonicalPath": "/fipe/dayun/dy200zh/",
+  "titulo": "DAYUN dy200zh - Tabela FIPE",
+  "descricao": "2 versoes e anos do DAYUN dy200zh na Tabela FIPE.",
+  "seo": {
+    "title": "DAYUN dy200zh - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes DAYUN dy200zh. 2 veiculos indexados.",
+    "h1": "DAYUN dy200zh - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/dayun/dy200zh/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "dayun-dy200zh-triciclo-carga-2011-gasolina",
+      "fipeCodigo": "860009-0",
+      "displayName": "DAYUN DY200ZH  (triciclo carga)",
+      "valorAtual": 7339,
+      "canonicalPath": "/fipe/dayun/dy200zh-triciclo-carga-2011-860009-0/",
+      "ano": 2011,
+      "marca": "DAYUN"
+    },
+    {
+      "vehicleId": "dayun-dy200zh-triciclo-carga-2010-gasolina",
+      "fipeCodigo": "860009-0",
+      "displayName": "DAYUN DY200ZH  (triciclo carga)",
+      "valorAtual": 6467,
+      "canonicalPath": "/fipe/dayun/dy200zh-triciclo-carga-2010-860009-0/",
+      "ano": 2010,
+      "marca": "DAYUN"
+    }
+  ],
+  "stats": {
+    "total": 2,
+    "precoMin": 6467,
+    "precoMax": 7339,
+    "anos": [
+      2011,
+      2010
+    ]
+  }
+}

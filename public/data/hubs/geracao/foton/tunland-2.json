@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "tunland-2",
+  "canonicalPath": "/geracao/foton/tunland-2/",
+  "titulo": "Geracao tunland-2",
+  "descricao": "2 veiculos da geracao tunland-2.",
+  "seo": {
+    "title": "Geracao tunland-2 - Precos FIPE",
+    "description": "Veiculos da geracao tunland-2 na Tabela FIPE.",
+    "h1": "Geracao tunland-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/foton/tunland-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "foton-tunland-v7-2-0-4x4-tb-diesel-aut-hib-2026-hibrido",
+      "fipeCodigo": "086014-0",
+      "displayName": "FOTON TUNLAND V7 2.0 4x4 TB Diesel Aut. (Híb.)",
+      "valorAtual": 256902,
+      "canonicalPath": "/fipe/foton/tunland-v7-2-0-4x4-tb-diesel-aut-hib-2026-086014-0/",
+      "ano": 2026,
+      "marca": "FOTON"
+    },
+    {
+      "vehicleId": "foton-tunland-v9-2-0-4x4-tb-diesel-aut-hib-2026-hibrido",
+      "fipeCodigo": "086015-8",
+      "displayName": "FOTON TUNLAND V9 2.0 4x4 TB Diesel Aut. (Híb.)",
+      "valorAtual": 289255,
+      "canonicalPath": "/fipe/foton/tunland-v9-2-0-4x4-tb-diesel-aut-hib-2026-086015-8/",
+      "ano": 2026,
+      "marca": "FOTON"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "tunland-2"
+  }
+}

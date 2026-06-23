@@ -1,0 +1,62 @@
+{
+  "tipo": "familia",
+  "slug": "690",
+  "canonicalPath": "/fipe/ktm/690/",
+  "titulo": "KTM 690 - Tabela FIPE",
+  "descricao": "4 versoes e anos do KTM 690 na Tabela FIPE.",
+  "seo": {
+    "title": "KTM 690 - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes KTM 690. 4 veiculos indexados.",
+    "h1": "KTM 690 - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/ktm/690/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "ktm-690-enduro-enduro-r-2017-gasolina",
+      "fipeCodigo": "818028-8",
+      "displayName": "KTM 690 ENDURO /ENDURO R",
+      "valorAtual": 85092,
+      "canonicalPath": "/fipe/ktm/690-enduro-enduro-r-2017-818028-8/",
+      "ano": 2017,
+      "marca": "KTM"
+    },
+    {
+      "vehicleId": "ktm-690-enduro-enduro-r-2011-gasolina",
+      "fipeCodigo": "818028-8",
+      "displayName": "KTM 690 ENDURO /ENDURO R",
+      "valorAtual": 45125,
+      "canonicalPath": "/fipe/ktm/690-enduro-enduro-r-2011-818028-8/",
+      "ano": 2011,
+      "marca": "KTM"
+    },
+    {
+      "vehicleId": "ktm-690-enduro-enduro-r-2010-gasolina",
+      "fipeCodigo": "818028-8",
+      "displayName": "KTM 690 ENDURO /ENDURO R",
+      "valorAtual": 39097,
+      "canonicalPath": "/fipe/ktm/690-enduro-enduro-r-2010-818028-8/",
+      "ano": 2010,
+      "marca": "KTM"
+    },
+    {
+      "vehicleId": "ktm-690-enduro-enduro-r-2009-gasolina",
+      "fipeCodigo": "818028-8",
+      "displayName": "KTM 690 ENDURO /ENDURO R",
+      "valorAtual": 34312,
+      "canonicalPath": "/fipe/ktm/690-enduro-enduro-r-2009-818028-8/",
+      "ano": 2009,
+      "marca": "KTM"
+    }
+  ],
+  "stats": {
+    "total": 4,
+    "precoMin": 34312,
+    "precoMax": 85092,
+    "anos": [
+      2017,
+      2011,
+      2010,
+      2009
+    ]
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "tipo": "familia",
+  "slug": "ds4",
+  "canonicalPath": "/fipe/citroen/ds4/",
+  "titulo": "Citroën ds4 - Tabela FIPE",
+  "descricao": "7 versoes e anos do Citroën ds4 na Tabela FIPE.",
+  "seo": {
+    "title": "Citroën ds4 - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes Citroën ds4. 7 veiculos indexados.",
+    "h1": "Citroën ds4 - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/citroen/ds4/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "citroen-ds4-1-6-so-chic-turbo-16v-5p-aut-2016-gasolina",
+      "fipeCodigo": "011148-1",
+      "displayName": "Citroën DS4 1.6 So Chic Turbo 16V 5p Aut.",
+      "valorAtual": 64893,
+      "canonicalPath": "/fipe/citroen/ds4-1-6-so-chic-turbo-16v-5p-aut-2016-011148-1/",
+      "ano": 2016,
+      "marca": "Citroën"
+    },
+    {
+      "vehicleId": "citroen-ds4-1-6-chic-turbo-16v-5p-aut-2016-gasolina",
+      "fipeCodigo": "011147-3",
+      "displayName": "Citroën DS4 1.6 Chic Turbo 16V 5p Aut.",
+      "valorAtual": 64979,
+      "canonicalPath": "/fipe/citroen/ds4-1-6-chic-turbo-16v-5p-aut-2016-011147-3/",
+      "ano": 2016,
+      "marca": "Citroën"
+    },
+    {
+      "vehicleId": "citroen-ds4-1-6-so-chic-turbo-16v-5p-aut-2015-gasolina",
+      "fipeCodigo": "011148-1",
+      "displayName": "Citroën DS4 1.6 So Chic Turbo 16V 5p Aut.",
+      "valorAtual": 56080,
+      "canonicalPath": "/fipe/citroen/ds4-1-6-so-chic-turbo-16v-5p-aut-2015-011148-1/",
+      "ano": 2015,
+      "marca": "Citroën"
+    },
+    {
+      "vehicleId": "citroen-ds4-1-6-chic-turbo-16v-5p-aut-2015-gasolina",
+      "fipeCodigo": "011147-3",
+      "displayName": "Citroën DS4 1.6 Chic Turbo 16V 5p Aut.",
+      "valorAtual": 59121,
+      "canonicalPath": "/fipe/citroen/ds4-1-6-chic-turbo-16v-5p-aut-2015-011147-3/",
+      "ano": 2015,
+      "marca": "Citroën"
+    },
+    {
+      "vehicleId": "citroen-ds4-1-6-turbo-16v-5p-aut-2014-gasolina",
+      "fipeCodigo": "011121-0",
+      "displayName": "Citroën DS4 1.6 Turbo 16V 5p Aut.",
+      "valorAtual": 52026,
+      "canonicalPath": "/fipe/citroen/ds4-1-6-turbo-16v-5p-aut-2014-011121-0/",
+      "ano": 2014,
+      "marca": "Citroën"
+    },
+    {
+      "vehicleId": "citroen-ds4-1-6-turbo-16v-5p-aut-2013-gasolina",
+      "fipeCodigo": "011121-0",
+      "displayName": "Citroën DS4 1.6 Turbo 16V 5p Aut.",
+      "valorAtual": 50757,
+      "canonicalPath": "/fipe/citroen/ds4-1-6-turbo-16v-5p-aut-2013-011121-0/",
+      "ano": 2013,
+      "marca": "Citroën"
+    },
+    {
+      "vehicleId": "citroen-ds4-1-6-turbo-16v-5p-aut-2012-gasolina",
+      "fipeCodigo": "011121-0",
+      "displayName": "Citroën DS4 1.6 Turbo 16V 5p Aut.",
+      "valorAtual": 47259,
+      "canonicalPath": "/fipe/citroen/ds4-1-6-turbo-16v-5p-aut-2012-011121-0/",
+      "ano": 2012,
+      "marca": "Citroën"
+    }
+  ],
+  "stats": {
+    "total": 7,
+    "precoMin": 47259,
+    "precoMax": 64979,
+    "anos": [
+      2016,
+      2015,
+      2014,
+      2013,
+      2012
+    ]
+  }
+}

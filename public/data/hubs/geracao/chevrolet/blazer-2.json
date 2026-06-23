@@ -1,0 +1,75 @@
+{
+  "tipo": "geracao",
+  "slug": "blazer-2",
+  "canonicalPath": "/geracao/chevrolet/blazer-2/",
+  "titulo": "Geracao blazer-2",
+  "descricao": "6 veiculos da geracao blazer-2.",
+  "seo": {
+    "title": "Geracao blazer-2 - Precos FIPE",
+    "description": "Veiculos da geracao blazer-2 na Tabela FIPE.",
+    "h1": "Geracao blazer-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/chevrolet/blazer-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "chevrolet-blazer-jimmy-4-3-v6-1993-gasolina",
+      "fipeCodigo": "004158-0",
+      "displayName": "GM - Chevrolet Blazer Jimmy 4.3 V6",
+      "valorAtual": 17896,
+      "canonicalPath": "/fipe/chevrolet/blazer-jimmy-4-3-v6-1993-004158-0/",
+      "ano": 1993,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-blazer-jimmy-4-3-v6-1994-gasolina",
+      "fipeCodigo": "004158-0",
+      "displayName": "GM - Chevrolet Blazer Jimmy 4.3 V6",
+      "valorAtual": 20557,
+      "canonicalPath": "/fipe/chevrolet/blazer-jimmy-4-3-v6-1994-004158-0/",
+      "ano": 1994,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-blazer-jimmy-4-3-v6-1995-gasolina",
+      "fipeCodigo": "004158-0",
+      "displayName": "GM - Chevrolet Blazer Jimmy 4.3 V6",
+      "valorAtual": 35795,
+      "canonicalPath": "/fipe/chevrolet/blazer-jimmy-4-3-v6-1995-004158-0/",
+      "ano": 1995,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-blazer-s-10-4-3-v6-1994-gasolina",
+      "fipeCodigo": "004159-9",
+      "displayName": "GM - Chevrolet Blazer S-10 4.3 V6",
+      "valorAtual": 11590,
+      "canonicalPath": "/fipe/chevrolet/blazer-s-10-4-3-v6-1994-004159-9/",
+      "ano": 1994,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-blazer-s-10-4-3-v6-1995-gasolina",
+      "fipeCodigo": "004159-9",
+      "displayName": "GM - Chevrolet Blazer S-10 4.3 V6",
+      "valorAtual": 13709,
+      "canonicalPath": "/fipe/chevrolet/blazer-s-10-4-3-v6-1995-004159-9/",
+      "ano": 1995,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-blazer-ss-10-4-3-v6-1995-gasolina",
+      "fipeCodigo": "004160-2",
+      "displayName": "GM - Chevrolet Blazer SS-10 4.3 V6",
+      "valorAtual": 17896,
+      "canonicalPath": "/fipe/chevrolet/blazer-ss-10-4-3-v6-1995-004160-2/",
+      "ano": 1995,
+      "marca": "GM - Chevrolet"
+    }
+  ],
+  "stats": {
+    "total": 6
+  },
+  "meta": {
+    "geracaoId": "blazer-2"
+  }
+}

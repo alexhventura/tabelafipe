@@ -1,0 +1,62 @@
+{
+  "tipo": "familia",
+  "slug": "ioniq",
+  "canonicalPath": "/fipe/hyundai/ioniq/",
+  "titulo": "Hyundai ioniq - Tabela FIPE",
+  "descricao": "4 versoes e anos do Hyundai ioniq na Tabela FIPE.",
+  "seo": {
+    "title": "Hyundai ioniq - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes Hyundai ioniq. 4 veiculos indexados.",
+    "h1": "Hyundai ioniq - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/hyundai/ioniq/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "hyundai-ioniq-5-signature-eletrico-2025-eletrico",
+      "fipeCodigo": "015250-1",
+      "displayName": "Hyundai IONIQ 5 SIGNATURE (Elétrico)",
+      "valorAtual": 328754,
+      "canonicalPath": "/fipe/hyundai/ioniq-5-signature-eletrico-2025-015250-1/",
+      "ano": 2025,
+      "marca": "Hyundai"
+    },
+    {
+      "vehicleId": "hyundai-ioniq-1-6-16v-aut-hibrido-2023-hibrido",
+      "fipeCodigo": "015230-7",
+      "displayName": "Hyundai IONIQ 1.6 16V Aut. (Híbrido)",
+      "valorAtual": 115657,
+      "canonicalPath": "/fipe/hyundai/ioniq-1-6-16v-aut-hibrido-2023-015230-7/",
+      "ano": 2023,
+      "marca": "Hyundai"
+    },
+    {
+      "vehicleId": "hyundai-ioniq-1-6-16v-aut-hibrido-2022-hibrido",
+      "fipeCodigo": "015230-7",
+      "displayName": "Hyundai IONIQ 1.6 16V Aut. (Híbrido)",
+      "valorAtual": 111511,
+      "canonicalPath": "/fipe/hyundai/ioniq-1-6-16v-aut-hibrido-2022-015230-7/",
+      "ano": 2022,
+      "marca": "Hyundai"
+    },
+    {
+      "vehicleId": "hyundai-ioniq-5-signature-eletrico-0-eletrico",
+      "fipeCodigo": "015250-1",
+      "displayName": "Hyundai IONIQ 5 SIGNATURE (Elétrico)",
+      "valorAtual": 409990,
+      "canonicalPath": "/fipe/hyundai/ioniq-5-signature-eletrico-0-015250-1/",
+      "ano": 0,
+      "marca": "Hyundai"
+    }
+  ],
+  "stats": {
+    "total": 4,
+    "precoMin": 111511,
+    "precoMax": 409990,
+    "anos": [
+      2025,
+      2023,
+      2022,
+      0
+    ]
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "tipo": "familia",
+  "slug": "am",
+  "canonicalPath": "/fipe/asia-motors/am/",
+  "titulo": "Asia Motors am - Tabela FIPE",
+  "descricao": "10 versoes e anos do Asia Motors am na Tabela FIPE.",
+  "seo": {
+    "title": "Asia Motors am - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes Asia Motors am. 10 veiculos indexados.",
+    "h1": "Asia Motors am - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/asia-motors/am/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "asia-motors-am-825-luxo-4-0-diesel-1998-diesel",
+      "fipeCodigo": "007018-1",
+      "displayName": "Asia Motors AM-825 Luxo 4.0 Diesel",
+      "valorAtual": 24766,
+      "canonicalPath": "/fipe/asia-motors/am-825-luxo-4-0-diesel-1998-007018-1/",
+      "ano": 1998,
+      "marca": "Asia Motors"
+    },
+    {
+      "vehicleId": "asia-motors-am-825-super-luxo-4-0-diesel-1998-diesel",
+      "fipeCodigo": "007019-0",
+      "displayName": "Asia Motors AM-825 Super Luxo 4.0 Diesel",
+      "valorAtual": 26746,
+      "canonicalPath": "/fipe/asia-motors/am-825-super-luxo-4-0-diesel-1998-007019-0/",
+      "ano": 1998,
+      "marca": "Asia Motors"
+    },
+    {
+      "vehicleId": "asia-motors-am-825-luxo-4-0-diesel-1997-diesel",
+      "fipeCodigo": "007018-1",
+      "displayName": "Asia Motors AM-825 Luxo 4.0 Diesel",
+      "valorAtual": 21447,
+      "canonicalPath": "/fipe/asia-motors/am-825-luxo-4-0-diesel-1997-007018-1/",
+      "ano": 1997,
+      "marca": "Asia Motors"
+    },
+    {
+      "vehicleId": "asia-motors-am-825-super-luxo-4-0-diesel-1997-diesel",
+      "fipeCodigo": "007019-0",
+      "displayName": "Asia Motors AM-825 Super Luxo 4.0 Diesel",
+      "valorAtual": 24969,
+      "canonicalPath": "/fipe/asia-motors/am-825-super-luxo-4-0-diesel-1997-007019-0/",
+      "ano": 1997,
+      "marca": "Asia Motors"
+    },
+    {
+      "vehicleId": "asia-motors-am-825-luxo-4-0-diesel-1996-diesel",
+      "fipeCodigo": "007018-1",
+      "displayName": "Asia Motors AM-825 Luxo 4.0 Diesel",
+      "valorAtual": 18331,
+      "canonicalPath": "/fipe/asia-motors/am-825-luxo-4-0-diesel-1996-007018-1/",
+      "ano": 1996,
+      "marca": "Asia Motors"
+    },
+    {
+      "vehicleId": "asia-motors-am-825-super-luxo-4-0-diesel-1996-diesel",
+      "fipeCodigo": "007019-0",
+      "displayName": "Asia Motors AM-825 Super Luxo 4.0 Diesel",
+      "valorAtual": 20957,
+      "canonicalPath": "/fipe/asia-motors/am-825-super-luxo-4-0-diesel-1996-007019-0/",
+      "ano": 1996,
+      "marca": "Asia Motors"
+    },
+    {
+      "vehicleId": "asia-motors-am-825-luxo-4-0-diesel-1995-diesel",
+      "fipeCodigo": "007018-1",
+      "displayName": "Asia Motors AM-825 Luxo 4.0 Diesel",
+      "valorAtual": 17704,
+      "canonicalPath": "/fipe/asia-motors/am-825-luxo-4-0-diesel-1995-007018-1/",
+      "ano": 1995,
+      "marca": "Asia Motors"
+    },
+    {
+      "vehicleId": "asia-motors-am-825-super-luxo-4-0-diesel-1995-diesel",
+      "fipeCodigo": "007019-0",
+      "displayName": "Asia Motors AM-825 Super Luxo 4.0 Diesel",
+      "valorAtual": 19407,
+      "canonicalPath": "/fipe/asia-motors/am-825-super-luxo-4-0-diesel-1995-007019-0/",
+      "ano": 1995,
+      "marca": "Asia Motors"
+    },
+    {
+      "vehicleId": "asia-motors-am-825-luxo-4-0-diesel-1994-diesel",
+      "fipeCodigo": "007018-1",
+      "displayName": "Asia Motors AM-825 Luxo 4.0 Diesel",
+      "valorAtual": 16556,
+      "canonicalPath": "/fipe/asia-motors/am-825-luxo-4-0-diesel-1994-007018-1/",
+      "ano": 1994,
+      "marca": "Asia Motors"
+    },
+    {
+      "vehicleId": "asia-motors-am-825-super-luxo-4-0-diesel-1994-diesel",
+      "fipeCodigo": "007019-0",
+      "displayName": "Asia Motors AM-825 Super Luxo 4.0 Diesel",
+      "valorAtual": 18751,
+      "canonicalPath": "/fipe/asia-motors/am-825-super-luxo-4-0-diesel-1994-007019-0/",
+      "ano": 1994,
+      "marca": "Asia Motors"
+    }
+  ],
+  "stats": {
+    "total": 10,
+    "precoMin": 16556,
+    "precoMax": 26746,
+    "anos": [
+      1998,
+      1997,
+      1996,
+      1995,
+      1994
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "i7-2",
+  "canonicalPath": "/geracao/bmw/i7-2/",
+  "titulo": "Geracao i7-2",
+  "descricao": "2 veiculos da geracao i7-2.",
+  "seo": {
+    "title": "Geracao i7-2 - Precos FIPE",
+    "description": "Veiculos da geracao i7-2 na Tabela FIPE.",
+    "h1": "Geracao i7-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/bmw/i7-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "bmw-i7-xdrive-60-m-sport-aut-eletrico-2024-eletrico",
+      "fipeCodigo": "009313-0",
+      "displayName": "BMW i7 XDrive 60 M Sport Aut. (Elétrico)",
+      "valorAtual": 851489,
+      "canonicalPath": "/fipe/bmw/i7-xdrive-60-m-sport-aut-eletrico-2024-009313-0/",
+      "ano": 2024,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-i7-xdrive-60-m-sport-aut-eletrico-2025-eletrico",
+      "fipeCodigo": "009313-0",
+      "displayName": "BMW i7 XDrive 60 M Sport Aut. (Elétrico)",
+      "valorAtual": 1029311,
+      "canonicalPath": "/fipe/bmw/i7-xdrive-60-m-sport-aut-eletrico-2025-009313-0/",
+      "ano": 2025,
+      "marca": "BMW"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "i7-2"
+  }
+}

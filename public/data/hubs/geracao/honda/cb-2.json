@@ -1,0 +1,66 @@
+{
+  "tipo": "geracao",
+  "slug": "cb-2",
+  "canonicalPath": "/geracao/honda/cb-2/",
+  "titulo": "Geracao cb-2",
+  "descricao": "5 veiculos da geracao cb-2.",
+  "seo": {
+    "title": "Geracao cb-2 - Precos FIPE",
+    "description": "Veiculos da geracao cb-2 na Tabela FIPE.",
+    "h1": "Geracao cb-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/honda/cb-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "honda-cb-450-dx-1990-gasolina",
+      "fipeCodigo": "811006-9",
+      "displayName": "HONDA CB 450 DX",
+      "valorAtual": 17385,
+      "canonicalPath": "/fipe/honda/cb-450-dx-1990-811006-9/",
+      "ano": 1990,
+      "marca": "HONDA"
+    },
+    {
+      "vehicleId": "honda-cb-450-dx-1991-gasolina",
+      "fipeCodigo": "811006-9",
+      "displayName": "HONDA CB 450 DX",
+      "valorAtual": 17820,
+      "canonicalPath": "/fipe/honda/cb-450-dx-1991-811006-9/",
+      "ano": 1991,
+      "marca": "HONDA"
+    },
+    {
+      "vehicleId": "honda-cb-450-dx-1992-gasolina",
+      "fipeCodigo": "811006-9",
+      "displayName": "HONDA CB 450 DX",
+      "valorAtual": 18492,
+      "canonicalPath": "/fipe/honda/cb-450-dx-1992-811006-9/",
+      "ano": 1992,
+      "marca": "HONDA"
+    },
+    {
+      "vehicleId": "honda-cb-450-dx-1993-gasolina",
+      "fipeCodigo": "811006-9",
+      "displayName": "HONDA CB 450 DX",
+      "valorAtual": 18955,
+      "canonicalPath": "/fipe/honda/cb-450-dx-1993-811006-9/",
+      "ano": 1993,
+      "marca": "HONDA"
+    },
+    {
+      "vehicleId": "honda-cb-450-dx-1994-gasolina",
+      "fipeCodigo": "811006-9",
+      "displayName": "HONDA CB 450 DX",
+      "valorAtual": 21433,
+      "canonicalPath": "/fipe/honda/cb-450-dx-1994-811006-9/",
+      "ano": 1994,
+      "marca": "HONDA"
+    }
+  ],
+  "stats": {
+    "total": 5
+  },
+  "meta": {
+    "geracaoId": "cb-2"
+  }
+}

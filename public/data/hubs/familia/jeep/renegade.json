@@ -1,0 +1,963 @@
+{
+  "tipo": "familia",
+  "slug": "renegade",
+  "canonicalPath": "/fipe/jeep/renegade/",
+  "titulo": "Jeep renegade - Tabela FIPE",
+  "descricao": "103 versoes e anos do Jeep renegade na Tabela FIPE.",
+  "seo": {
+    "title": "Jeep renegade - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes Jeep renegade. 103 veiculos indexados.",
+    "h1": "Jeep renegade - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/jeep/renegade/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "jeep-renegade-altitude-t270-1-3-tb-flex-aut-2027-flex",
+      "fipeCodigo": "017105-0",
+      "displayName": "Jeep Renegade Altitude T270 1.3 TB Flex Aut.",
+      "valorAtual": 125250,
+      "canonicalPath": "/fipe/jeep/renegade-altitude-t270-1-3-tb-flex-aut-2027-017105-0/",
+      "ano": 2027,
+      "marca": "Jeep"
+    },
+    {
+      "vehicleId": "jeep-renegade-longitude-t270-1-3-turbo-4x2-aut-2027-hibrido",
+      "fipeCodigo": "017108-5",
+      "displayName": "Jeep Renegade Longitude T270 1.3 Turbo 4x2 Aut.",
+      "valorAtual": 145244,
+      "canonicalPath": "/fipe/jeep/renegade-longitude-t270-1-3-turbo-4x2-aut-2027-017108-5/",
+      "ano": 2027,
+      "marca": "Jeep"
+    },
+    {
+      "vehicleId": "jeep-renegade-sahara-t270-1-3-turbo-4x2-aut-2027-hibrido",
+      "fipeCodigo": "017107-7",
+      "displayName": "Jeep Renegade SAHARA T270 1.3 Turbo 4x2 Aut.",
+      "valorAtual": 160894,
+      "canonicalPath": "/fipe/jeep/renegade-sahara-t270-1-3-turbo-4x2-aut-2027-017107-7/",
+      "ano": 2027,
+      "marca": "Jeep"
+    },
+    {
+      "vehicleId": "jeep-renegade-willys-t270-1-3-tb-4x4-flex-aut-2027-flex",
+      "fipeCodigo": "017101-8",
+      "displayName": "Jeep Renegade Willys T270 1.3 TB 4x4 Flex Aut",
+      "valorAtual": 169957,
+      "canonicalPath": "/fipe/jeep/renegade-willys-t270-1-3-tb-4x4-flex-aut-2027-017101-8/",
+      "ano": 2027,
+      "marca": "Jeep"
+    },
+    {
+      "vehicleId": "jeep-renegade-sport-t270-1-3-tb-4x2-flex-aut-2026-flex",
+      "fipeCodigo": "017085-2",
+      "displayName": "Jeep Renegade Sport T270 1.3 TB 4x2 Flex Aut.",
+      "valorAtual": 111474,
+      "canonicalPath": "/fipe/jeep/renegade-sport-t270-1-3-tb-4x2-flex-aut-2026-017085-2/",
+      "ano": 2026,
+      "marca": "Jeep"
+    },
+    {
+      "vehicleId": "jeep-renegade-altitude-t270-1-3-tb-flex-aut-2026-flex",
+      "fipeCodigo": "017105-0",
+      "displayName": "Jeep Renegade Altitude T270 1.3 TB Flex Aut.",
+      "valorAtual": 117996,
+      "canonicalPath": "/fipe/jeep/renegade-altitude-t270-1-3-tb-flex-aut-2026-017105-0/",
+      "ano": 2026,
+      "marca": "Jeep"
+    },
+    {
+      "vehicleId": "jeep-renegade-long-t270-1-3-tb-4x2-flex-aut-2026-flex",
+      "fipeCodigo": "017088-7",
+      "displayName": "Jeep Renegade Long. T270 1.3 TB 4x2 Flex Aut.",
+      "valorAtual": 137932,
+      "canonicalPath": "/fipe/jeep/renegade-long-t270-1-3-tb-4x2-flex-aut-2026-017088-7/",
+      "ano": 2026,
+      "marca": "Jeep"
+    },
+    {
+      "vehicleId": "jeep-renegade-sahara-t270-1-3-tb-4x2-flex-aut-2026-flex",
+      "fipeCodigo": "017100-0",
+      "displayName": "Jeep Renegade SAHARA T270 1.3 TB 4x2 Flex Aut",
+      "valorAtual": 149591,
+      "canonicalPath": "/fipe/jeep/renegade-sahara-t270-1-3-tb-4x2-flex-aut-2026-017100-0/",
+      "ano": 2026,
+      "marca": "Jeep"
+    },
+    {
+      "vehicleId": "jeep-renegade-willys-t270-1-3-tb-4x4-flex-aut-2026-flex",
+      "fipeCodigo": "017101-8",
+      "displayName": "Jeep Renegade Willys T270 1.3 TB 4x4 Flex Aut",
+      "valorAtual": 161463,
+      "canonicalPath": "/fipe/jeep/renegade-willys-t270-1-3-tb-4x4-flex-aut-2026-017101-8/",
+      "ano": 2026,
+      "marca": "Jeep"
+    },
+    {
+      "vehicleId": "jeep-renegade-t270-1-3-tb-4x2-flex-aut-2025-flex",
+      "fipeCodigo": "017092-5",
+      "displayName": "Jeep Renegade T270 1.3 TB 4x2 Flex Aut.",
+      "valorAtual": 107906,
+      "canonicalPath": "/fipe/jeep/renegade-t270-1-3-tb-4x2-flex-aut-2025-017092-5/",
+      "ano": 2025,
+      "marca": "Jeep"
+    },
+    {
+      "vehicleId": "jeep-renegade-sport-altitude-1-3-tb-flex-aut-2025-flex",
+      "fipeCodigo": "017103-4",
+      "displayName": "Jeep Renegade Sport Altitude 1.3 TB Flex Aut.",
+      "valorAtual": 116163,
+      "canonicalPath": "/fipe/jeep/renegade-sport-altitude-1-3-tb-flex-aut-2025-017103-4/",
+      "ano": 2025,
+      "marca": "Jeep"
+    },
+    {
+      "vehicleId": "jeep-renegade-long-t270-1-3-tb-4x2-flex-aut-2025-flex",
+      "fipeCodigo": "017088-7",
+      "displayName": "Jeep Renegade Long. T270 1.3 TB 4x2 Flex Aut.",
+      "valorAtual": 119541,
+      "canonicalPath": "/fipe/jeep/renegade-long-t270-1-3-tb-4x2-flex-aut-2025-017088-7/",
+      "ano": 2025,
+      "marca": "Jeep"
+    },
+    {
+      "vehicleId": "jeep-renegade-lo-night-eagle-1-3-tb-flex-aut-2025-flex",
+      "fipeCodigo": "017102-6",
+      "displayName": "Jeep Renegade Lo. Night Eagle 1.3 TB Flex Aut",
+      "valorAtual": 129020,
+      "canonicalPath": "/fipe/jeep/renegade-lo-night-eagle-1-3-tb-flex-aut-2025-017102-6/",
+      "ano": 2025,
+      "marca": "Jeep"
+    },
+    {
+      "vehicleId": "jeep-renegade-sahara-t270-1-3-tb-4x2-flex-aut-2025-flex",
+      "fipeCodigo": "017100-0",
+      "displayName": "Jeep Renegade SAHARA T270 1.3 TB 4x2 Flex Aut",
+      "valorAtual": 135335,
+      "canonicalPath": "/fipe/jeep/renegade-sahara-t270-1-3-tb-4x2-flex-aut-2025-017100-0/",
+      "ano": 2025,
+      "marca": "Jeep"
+    },
+    {
+      "vehicleId": "jeep-renegade-trailhawk-t270-1-3-tb-flex-aut-2025-flex",
+      "fipeCodigo": "017086-0",
+      "displayName": "Jeep Renegade Trailhawk T270 1.3 TB Flex Aut.",
+      "valorAtual": 136894,
+      "canonicalPath": "/fipe/jeep/renegade-trailhawk-t270-1-3-tb-flex-aut-2025-017086-0/",
+      "ano": 2025,
+      "marca": "Jeep"
+    },
+    {
+      "vehicleId": "jeep-renegade-willys-t270-1-3-tb-4x4-flex-aut-2025-flex",
+      "fipeCodigo": "017101-8",
+      "displayName": "Jeep Renegade Willys T270 1.3 TB 4x4 Flex Aut",
+      "valorAtual": 149480,
+      "canonicalPath": "/fipe/jeep/renegade-willys-t270-1-3-tb-4x4-flex-aut-2025-017101-8/",
+      "ano": 2025,
+      "marca": "Jeep"
+    },
+    {
+      "vehicleId": "jeep-renegade-t270-1-3-tb-4x2-flex-aut-2024-flex",
+      "fipeCodigo": "017092-5",
+      "displayName": "Jeep Renegade T270 1.3 TB 4x2 Flex Aut.",
+      "valorAtual": 103060,
+      "canonicalPath": "/fipe/jeep/renegade-t270-1-3-tb-4x2-flex-aut-2024-017092-5/",
+      "ano": 2024,
+      "marca": "Jeep"
+    },
+    {
+      "vehicleId": "jeep-renegade-sport-t270-1-3-tb-4x2-flex-aut-2024-flex",
+      "fipeCodigo": "017085-2",
+      "displayName": "Jeep Renegade Sport T270 1.3 TB 4x2 Flex Aut.",
+      "valorAtual": 103358,
+      "canonicalPath": "/fipe/jeep/renegade-sport-t270-1-3-tb-4x2-flex-aut-2024-017085-2/",
+      "ano": 2024,
+      "marca": "Jeep"
+    },
+    {
+      "vehicleId": "jeep-renegade-long-t270-1-3-tb-4x2-flex-aut-2024-flex",
+      "fipeCodigo": "017088-7",
+      "displayName": "Jeep Renegade Long. T270 1.3 TB 4x2 Flex Aut.",
+      "valorAtual": 110963,
+      "canonicalPath": "/fipe/jeep/renegade-long-t270-1-3-tb-4x2-flex-aut-2024-017088-7/",
+      "ano": 2024,
+      "marca": "Jeep"
+    },
+    {
+      "vehicleId": "jeep-renegade-s-t270-1-3-tb-4x4-flex-aut-2024-flex",
+      "fipeCodigo": "017087-9",
+      "displayName": "Jeep Renegade S T270 1.3 TB 4x4 Flex Aut.",
+      "valorAtual": 123504,
+      "canonicalPath": "/fipe/jeep/renegade-s-t270-1-3-tb-4x4-flex-aut-2024-017087-9/",
+      "ano": 2024,
+      "marca": "Jeep"
+    },
+    {
+      "vehicleId": "jeep-renegade-trailhawk-t270-1-3-tb-flex-aut-2024-flex",
+      "fipeCodigo": "017086-0",
+      "displayName": "Jeep Renegade Trailhawk T270 1.3 TB Flex Aut.",
+      "valorAtual": 126498,
+      "canonicalPath": "/fipe/jeep/renegade-trailhawk-t270-1-3-tb-flex-aut-2024-017086-0/",
+      "ano": 2024,
+      "marca": "Jeep"
+    },
+    {
+      "vehicleId": "jeep-renegade-t270-1-3-tb-4x2-flex-aut-2023-flex",
+      "fipeCodigo": "017092-5",
+      "displayName": "Jeep Renegade T270 1.3 TB 4x2 Flex Aut.",
+      "valorAtual": 96608,
+      "canonicalPath": "/fipe/jeep/renegade-t270-1-3-tb-4x2-flex-aut-2023-017092-5/",
+      "ano": 2023,
+      "marca": "Jeep"
+    },
+    {
+      "vehicleId": "jeep-renegade-sport-t270-1-3-tb-4x2-flex-aut-2023-flex",
+      "fipeCodigo": "017085-2",
+      "displayName": "Jeep Renegade Sport T270 1.3 TB 4x2 Flex Aut.",
+      "valorAtual": 99845,
+      "canonicalPath": "/fipe/jeep/renegade-sport-t270-1-3-tb-4x2-flex-aut-2023-017085-2/",
+      "ano": 2023,
+      "marca": "Jeep"
+    },
+    {
+      "vehicleId": "jeep-renegade-long-t270-1-3-tb-4x2-flex-aut-2023-flex",
+      "fipeCodigo": "017088-7",
+      "displayName": "Jeep Renegade Long. T270 1.3 TB 4x2 Flex Aut.",
+      "valorAtual": 102528,
+      "canonicalPath": "/fipe/jeep/renegade-long-t270-1-3-tb-4x2-flex-aut-2023-017088-7/",
+      "ano": 2023,
+      "marca": "Jeep"
+    },
+    {
+      "vehicleId": "jeep-renegade-s-t270-1-3-tb-4x4-flex-aut-2023-flex",
+      "fipeCodigo": "017087-9",
+      "displayName": "Jeep Renegade S T270 1.3 TB 4x4 Flex Aut.",
+      "valorAtual": 115550,
+      "canonicalPath": "/fipe/jeep/renegade-s-t270-1-3-tb-4x4-flex-aut-2023-017087-9/",
+      "ano": 2023,
+      "marca": "Jeep"
+    },
+    {
+      "vehicleId": "jeep-renegade-trailhawk-t270-1-3-tb-flex-aut-2023-flex",
+      "fipeCodigo": "017086-0",
+      "displayName": "Jeep Renegade Trailhawk T270 1.3 TB Flex Aut.",
+      "valorAtual": 118955,
+      "canonicalPath": "/fipe/jeep/renegade-trailhawk-t270-1-3-tb-flex-aut-2023-017086-0/",
+      "ano": 2023,
+      "marca": "Jeep"
+    },
+    {
+      "vehicleId": "jeep-renegade-sport-t270-1-3-tb-4x2-flex-aut-2022-flex",
+      "fipeCodigo": "017085-2",
+      "displayName": "Jeep Renegade Sport T270 1.3 TB 4x2 Flex Aut.",
+      "valorAtual": 95014,
+      "canonicalPath": "/fipe/jeep/renegade-sport-t270-1-3-tb-4x2-flex-aut-2022-017085-2/",
+      "ano": 2022,
+      "marca": "Jeep"
+    },
+    {
+      "vehicleId": "jeep-renegade-long-t270-1-3-tb-4x2-flex-aut-2022-flex",
+      "fipeCodigo": "017088-7",
+      "displayName": "Jeep Renegade Long. T270 1.3 TB 4x2 Flex Aut.",
+      "valorAtual": 98354,
+      "canonicalPath": "/fipe/jeep/renegade-long-t270-1-3-tb-4x2-flex-aut-2022-017088-7/",
+      "ano": 2022,
+      "marca": "Jeep"
+    },
+    {
+      "vehicleId": "jeep-renegade-s-t270-1-3-tb-4x4-flex-aut-2022-flex",
+      "fipeCodigo": "017087-9",
+      "displayName": "Jeep Renegade S T270 1.3 TB 4x4 Flex Aut.",
+      "valorAtual": 110877,
+      "canonicalPath": "/fipe/jeep/renegade-s-t270-1-3-tb-4x4-flex-aut-2022-017087-9/",
+      "ano": 2022,
+      "marca": "Jeep"
+    },
+    {
+      "vehicleId": "jeep-renegade-trailhawk-t270-1-3-tb-flex-aut-2022-flex",
+      "fipeCodigo": "017086-0",
+      "displayName": "Jeep Renegade Trailhawk T270 1.3 TB Flex Aut.",
+      "valorAtual": 111831,
+      "canonicalPath": "/fipe/jeep/renegade-trailhawk-t270-1-3-tb-flex-aut-2022-017086-0/",
+      "ano": 2022,
+      "marca": "Jeep"
+    },
+    {
+      "vehicleId": "jeep-renegade-1-8-4x2-flex-16v-aut-2021-flex",
+      "fipeCodigo": "017062-3",
+      "displayName": "Jeep Renegade 1.8 4x2 Flex 16V Aut.",
+      "valorAtual": 76277,
+      "canonicalPath": "/fipe/jeep/renegade-1-8-4x2-flex-16v-aut-2021-017062-3/",
+      "ano": 2021,
+      "marca": "Jeep"
+    },
+    {
+      "vehicleId": "jeep-renegade-std-1-8-4x2-flex-16v-aut-2021-flex",
+      "fipeCodigo": "017067-4",
+      "displayName": "Jeep Renegade STD 1.8 4x2 Flex 16v Aut.",
+      "valorAtual": 76406,
+      "canonicalPath": "/fipe/jeep/renegade-std-1-8-4x2-flex-16v-aut-2021-017067-4/",
+      "ano": 2021,
+      "marca": "Jeep"
+    },
+    {
+      "vehicleId": "jeep-renegade-sport-1-8-4x2-flex-16v-aut-2021-flex",
+      "fipeCodigo": "017034-8",
+      "displayName": "Jeep Renegade Sport 1.8 4x2 Flex 16V Aut.",
+      "valorAtual": 77025,
+      "canonicalPath": "/fipe/jeep/renegade-sport-1-8-4x2-flex-16v-aut-2021-017034-8/",
+      "ano": 2021,
+      "marca": "Jeep"
+    },
+    {
+      "vehicleId": "jeep-renegade-longitude-1-8-4x2-flex-16v-aut-2021-flex",
+      "fipeCodigo": "017035-6",
+      "displayName": "Jeep Renegade Longitude 1.8 4x2 Flex 16V Aut.",
+      "valorAtual": 83069,
+      "canonicalPath": "/fipe/jeep/renegade-longitude-1-8-4x2-flex-16v-aut-2021-017035-6/",
+      "ano": 2021,
+      "marca": "Jeep"
+    },
+    {
+      "vehicleId": "jeep-renegade-limited-1-8-4x2-flex-16v-aut-2021-flex",
+      "fipeCodigo": "017053-4",
+      "displayName": "Jeep Renegade Limited 1.8 4x2 Flex 16V Aut.",
+      "valorAtual": 93471,
+      "canonicalPath": "/fipe/jeep/renegade-limited-1-8-4x2-flex-16v-aut-2021-017053-4/",
+      "ano": 2021,
+      "marca": "Jeep"
+    },
+    {
+      "vehicleId": "jeep-renegade-moab-2-0-4x4-tb-diesel-aut-2021-diesel",
+      "fipeCodigo": "017069-0",
+      "displayName": "Jeep Renegade Moab 2.0 4x4 TB Diesel Aut.",
+      "valorAtual": 94703,
+      "canonicalPath": "/fipe/jeep/renegade-moab-2-0-4x4-tb-diesel-aut-2021-017069-0/",
+      "ano": 2021,
+      "marca": "Jeep"
+    },
+    {
+      "vehicleId": "jeep-renegade-longitude-2-0-4x4-tb-diesel-aut-2021-diesel",
+      "fipeCodigo": "017037-2",
+      "displayName": "Jeep Renegade Longitude 2.0 4x4 TB Diesel Aut",
+      "valorAtual": 96909,
+      "canonicalPath": "/fipe/jeep/renegade-longitude-2-0-4x4-tb-diesel-aut-2021-017037-2/",
+      "ano": 2021,
+      "marca": "Jeep"
+    },
+    {
+      "vehicleId": "jeep-renegade-trailhawk-2-0-4x4-tb-diesel-aut-2021-diesel",
+      "fipeCodigo": "017038-0",
+      "displayName": "Jeep Renegade Trailhawk 2.0 4x4 TB Diesel Aut",
+      "valorAtual": 102901,
+      "canonicalPath": "/fipe/jeep/renegade-trailhawk-2-0-4x4-tb-diesel-aut-2021-017038-0/",
+      "ano": 2021,
+      "marca": "Jeep"
+    },
+    {
+      "vehicleId": "jeep-renegade-1-8-4x2-flex-16v-aut-2020-flex",
+      "fipeCodigo": "017062-3",
+      "displayName": "Jeep Renegade 1.8 4x2 Flex 16V Aut.",
+      "valorAtual": 73182,
+      "canonicalPath": "/fipe/jeep/renegade-1-8-4x2-flex-16v-aut-2020-017062-3/",
+      "ano": 2020,
+      "marca": "Jeep"
+    },
+    {
+      "vehicleId": "jeep-renegade-std-1-8-4x2-flex-16v-aut-2020-flex",
+      "fipeCodigo": "017067-4",
+      "displayName": "Jeep Renegade STD 1.8 4x2 Flex 16v Aut.",
+      "valorAtual": 73263,
+      "canonicalPath": "/fipe/jeep/renegade-std-1-8-4x2-flex-16v-aut-2020-017067-4/",
+      "ano": 2020,
+      "marca": "Jeep"
+    },
+    {
+      "vehicleId": "jeep-renegade-sport-1-8-4x2-flex-16v-aut-2020-flex",
+      "fipeCodigo": "017034-8",
+      "displayName": "Jeep Renegade Sport 1.8 4x2 Flex 16V Aut.",
+      "valorAtual": 74596,
+      "canonicalPath": "/fipe/jeep/renegade-sport-1-8-4x2-flex-16v-aut-2020-017034-8/",
+      "ano": 2020,
+      "marca": "Jeep"
+    },
+    {
+      "vehicleId": "jeep-renegade-longitude-1-8-4x2-flex-16v-aut-2020-flex",
+      "fipeCodigo": "017035-6",
+      "displayName": "Jeep Renegade Longitude 1.8 4x2 Flex 16V Aut.",
+      "valorAtual": 76258,
+      "canonicalPath": "/fipe/jeep/renegade-longitude-1-8-4x2-flex-16v-aut-2020-017035-6/",
+      "ano": 2020,
+      "marca": "Jeep"
+    },
+    {
+      "vehicleId": "jeep-renegade-limited-1-8-4x2-flex-16v-aut-2020-flex",
+      "fipeCodigo": "017053-4",
+      "displayName": "Jeep Renegade Limited 1.8 4x2 Flex 16V Aut.",
+      "valorAtual": 80324,
+      "canonicalPath": "/fipe/jeep/renegade-limited-1-8-4x2-flex-16v-aut-2020-017053-4/",
+      "ano": 2020,
+      "marca": "Jeep"
+    },
+    {
+      "vehicleId": "jeep-renegade-longitude-2-0-4x4-tb-diesel-aut-2020-diesel",
+      "fipeCodigo": "017037-2",
+      "displayName": "Jeep Renegade Longitude 2.0 4x4 TB Diesel Aut",
+      "valorAtual": 93251,
+      "canonicalPath": "/fipe/jeep/renegade-longitude-2-0-4x4-tb-diesel-aut-2020-017037-2/",
+      "ano": 2020,
+      "marca": "Jeep"
+    },
+    {
+      "vehicleId": "jeep-renegade-trailhawk-2-0-4x4-tb-diesel-aut-2020-diesel",
+      "fipeCodigo": "017038-0",
+      "displayName": "Jeep Renegade Trailhawk 2.0 4x4 TB Diesel Aut",
+      "valorAtual": 99182,
+      "canonicalPath": "/fipe/jeep/renegade-trailhawk-2-0-4x4-tb-diesel-aut-2020-017038-0/",
+      "ano": 2020,
+      "marca": "Jeep"
+    },
+    {
+      "vehicleId": "jeep-renegade-sport-1-8-4x2-flex-16v-mec-2019-flex",
+      "fipeCodigo": "017033-0",
+      "displayName": "Jeep Renegade Sport 1.8 4x2 Flex 16V Mec.",
+      "valorAtual": 69843,
+      "canonicalPath": "/fipe/jeep/renegade-sport-1-8-4x2-flex-16v-mec-2019-017033-0/",
+      "ano": 2019,
+      "marca": "Jeep"
+    },
+    {
+      "vehicleId": "jeep-renegade-1-8-4x2-flex-16v-aut-2019-flex",
+      "fipeCodigo": "017062-3",
+      "displayName": "Jeep Renegade 1.8 4x2 Flex 16V Aut.",
+      "valorAtual": 70614,
+      "canonicalPath": "/fipe/jeep/renegade-1-8-4x2-flex-16v-aut-2019-017062-3/",
+      "ano": 2019,
+      "marca": "Jeep"
+    },
+    {
+      "vehicleId": "jeep-renegade-sport-1-8-4x2-flex-16v-aut-2019-flex",
+      "fipeCodigo": "017034-8",
+      "displayName": "Jeep Renegade Sport 1.8 4x2 Flex 16V Aut.",
+      "valorAtual": 70977,
+      "canonicalPath": "/fipe/jeep/renegade-sport-1-8-4x2-flex-16v-aut-2019-017034-8/",
+      "ano": 2019,
+      "marca": "Jeep"
+    },
+    {
+      "vehicleId": "jeep-renegade-longitude-1-8-4x2-flex-16v-aut-2019-flex",
+      "fipeCodigo": "017035-6",
+      "displayName": "Jeep Renegade Longitude 1.8 4x2 Flex 16V Aut.",
+      "valorAtual": 73643,
+      "canonicalPath": "/fipe/jeep/renegade-longitude-1-8-4x2-flex-16v-aut-2019-017035-6/",
+      "ano": 2019,
+      "marca": "Jeep"
+    },
+    {
+      "vehicleId": "jeep-renegade-limited-1-8-4x2-flex-16v-aut-2019-flex",
+      "fipeCodigo": "017053-4",
+      "displayName": "Jeep Renegade Limited 1.8 4x2 Flex 16V Aut.",
+      "valorAtual": 78364,
+      "canonicalPath": "/fipe/jeep/renegade-limited-1-8-4x2-flex-16v-aut-2019-017053-4/",
+      "ano": 2019,
+      "marca": "Jeep"
+    },
+    {
+      "vehicleId": "jeep-renegade-longitude-2-0-4x4-tb-diesel-aut-2019-diesel",
+      "fipeCodigo": "017037-2",
+      "displayName": "Jeep Renegade Longitude 2.0 4x4 TB Diesel Aut",
+      "valorAtual": 89363,
+      "canonicalPath": "/fipe/jeep/renegade-longitude-2-0-4x4-tb-diesel-aut-2019-017037-2/",
+      "ano": 2019,
+      "marca": "Jeep"
+    },
+    {
+      "vehicleId": "jeep-renegade-trailhawk-2-0-4x4-tb-diesel-aut-2019-diesel",
+      "fipeCodigo": "017038-0",
+      "displayName": "Jeep Renegade Trailhawk 2.0 4x4 TB Diesel Aut",
+      "valorAtual": 96762,
+      "canonicalPath": "/fipe/jeep/renegade-trailhawk-2-0-4x4-tb-diesel-aut-2019-017038-0/",
+      "ano": 2019,
+      "marca": "Jeep"
+    },
+    {
+      "vehicleId": "jeep-renegade-willys-2-0-4x4-tb-diesel-aut-2019-diesel",
+      "fipeCodigo": "017065-8",
+      "displayName": "Jeep Renegade Willys 2.0 4x4 TB Diesel Aut.",
+      "valorAtual": 102408,
+      "canonicalPath": "/fipe/jeep/renegade-willys-2-0-4x4-tb-diesel-aut-2019-017065-8/",
+      "ano": 2019,
+      "marca": "Jeep"
+    },
+    {
+      "vehicleId": "jeep-renegade-1-8-4x2-flex-16v-mec-2018-flex",
+      "fipeCodigo": "017040-2",
+      "displayName": "Jeep Renegade 1.8 4x2 Flex 16V Mec.",
+      "valorAtual": 66304,
+      "canonicalPath": "/fipe/jeep/renegade-1-8-4x2-flex-16v-mec-2018-017040-2/",
+      "ano": 2018,
+      "marca": "Jeep"
+    },
+    {
+      "vehicleId": "jeep-renegade-custom-1-8-4x2-flex-16v-mec-2018-flex",
+      "fipeCodigo": "017054-2",
+      "displayName": "Jeep Renegade Custom 1.8 4x2 Flex 16V Mec.",
+      "valorAtual": 66950,
+      "canonicalPath": "/fipe/jeep/renegade-custom-1-8-4x2-flex-16v-mec-2018-017054-2/",
+      "ano": 2018,
+      "marca": "Jeep"
+    },
+    {
+      "vehicleId": "jeep-renegade-sport-1-8-4x2-flex-16v-mec-2018-flex",
+      "fipeCodigo": "017033-0",
+      "displayName": "Jeep Renegade Sport 1.8 4x2 Flex 16V Mec.",
+      "valorAtual": 67535,
+      "canonicalPath": "/fipe/jeep/renegade-sport-1-8-4x2-flex-16v-mec-2018-017033-0/",
+      "ano": 2018,
+      "marca": "Jeep"
+    },
+    {
+      "vehicleId": "jeep-renegade-1-8-4x2-flex-16v-aut-2018-flex",
+      "fipeCodigo": "017062-3",
+      "displayName": "Jeep Renegade 1.8 4x2 Flex 16V Aut.",
+      "valorAtual": 68524,
+      "canonicalPath": "/fipe/jeep/renegade-1-8-4x2-flex-16v-aut-2018-017062-3/",
+      "ano": 2018,
+      "marca": "Jeep"
+    },
+    {
+      "vehicleId": "jeep-renegade-sport-1-8-4x2-flex-16v-aut-2018-flex",
+      "fipeCodigo": "017034-8",
+      "displayName": "Jeep Renegade Sport 1.8 4x2 Flex 16V Aut.",
+      "valorAtual": 68996,
+      "canonicalPath": "/fipe/jeep/renegade-sport-1-8-4x2-flex-16v-aut-2018-017034-8/",
+      "ano": 2018,
+      "marca": "Jeep"
+    },
+    {
+      "vehicleId": "jeep-renegade-longitude-1-8-4x2-flex-16v-aut-2018-flex",
+      "fipeCodigo": "017035-6",
+      "displayName": "Jeep Renegade Longitude 1.8 4x2 Flex 16V Aut.",
+      "valorAtual": 71655,
+      "canonicalPath": "/fipe/jeep/renegade-longitude-1-8-4x2-flex-16v-aut-2018-017035-6/",
+      "ano": 2018,
+      "marca": "Jeep"
+    },
+    {
+      "vehicleId": "jeep-renegade-night-eagle-1-8-4x2-flex-aut-2018-flex",
+      "fipeCodigo": "017055-0",
+      "displayName": "Jeep Renegade Night Eagle 1.8 4x2  Flex Aut.",
+      "valorAtual": 71761,
+      "canonicalPath": "/fipe/jeep/renegade-night-eagle-1-8-4x2-flex-aut-2018-017055-0/",
+      "ano": 2018,
+      "marca": "Jeep"
+    },
+    {
+      "vehicleId": "jeep-renegade-limited-1-8-4x2-flex-16v-aut-2018-flex",
+      "fipeCodigo": "017053-4",
+      "displayName": "Jeep Renegade Limited 1.8 4x2 Flex 16V Aut.",
+      "valorAtual": 74288,
+      "canonicalPath": "/fipe/jeep/renegade-limited-1-8-4x2-flex-16v-aut-2018-017053-4/",
+      "ano": 2018,
+      "marca": "Jeep"
+    },
+    {
+      "vehicleId": "jeep-renegade-custom-2-0-4x4-tb-diesel-aut-2018-diesel",
+      "fipeCodigo": "017057-7",
+      "displayName": "Jeep Renegade Custom 2.0 4x4 TB Diesel Aut.",
+      "valorAtual": 82840,
+      "canonicalPath": "/fipe/jeep/renegade-custom-2-0-4x4-tb-diesel-aut-2018-017057-7/",
+      "ano": 2018,
+      "marca": "Jeep"
+    },
+    {
+      "vehicleId": "jeep-renegade-longitude-2-0-4x4-tb-diesel-aut-2018-diesel",
+      "fipeCodigo": "017037-2",
+      "displayName": "Jeep Renegade Longitude 2.0 4x4 TB Diesel Aut",
+      "valorAtual": 84738,
+      "canonicalPath": "/fipe/jeep/renegade-longitude-2-0-4x4-tb-diesel-aut-2018-017037-2/",
+      "ano": 2018,
+      "marca": "Jeep"
+    },
+    {
+      "vehicleId": "jeep-renegade-night-eagle-2-0-4x4-tb-die-aut-2018-diesel",
+      "fipeCodigo": "017056-9",
+      "displayName": "Jeep Renegade Night Eagle 2.0 4x4 TB Die. Aut",
+      "valorAtual": 85178,
+      "canonicalPath": "/fipe/jeep/renegade-night-eagle-2-0-4x4-tb-die-aut-2018-017056-9/",
+      "ano": 2018,
+      "marca": "Jeep"
+    },
+    {
+      "vehicleId": "jeep-renegade-limited-2-0-4x4-tb-diesel-aut-2018-diesel",
+      "fipeCodigo": "017052-6",
+      "displayName": "Jeep Renegade Limited 2.0 4x4 TB Diesel Aut.",
+      "valorAtual": 89937,
+      "canonicalPath": "/fipe/jeep/renegade-limited-2-0-4x4-tb-diesel-aut-2018-017052-6/",
+      "ano": 2018,
+      "marca": "Jeep"
+    },
+    {
+      "vehicleId": "jeep-renegade-trailhawk-2-0-4x4-tb-diesel-aut-2018-diesel",
+      "fipeCodigo": "017038-0",
+      "displayName": "Jeep Renegade Trailhawk 2.0 4x4 TB Diesel Aut",
+      "valorAtual": 91223,
+      "canonicalPath": "/fipe/jeep/renegade-trailhawk-2-0-4x4-tb-diesel-aut-2018-017038-0/",
+      "ano": 2018,
+      "marca": "Jeep"
+    },
+    {
+      "vehicleId": "jeep-renegade-1-8-4x2-flex-16v-mec-2017-flex",
+      "fipeCodigo": "017040-2",
+      "displayName": "Jeep Renegade 1.8 4x2 Flex 16V Mec.",
+      "valorAtual": 64144,
+      "canonicalPath": "/fipe/jeep/renegade-1-8-4x2-flex-16v-mec-2017-017040-2/",
+      "ano": 2017,
+      "marca": "Jeep"
+    },
+    {
+      "vehicleId": "jeep-renegade-1-8-4x2-flex-16v-aut-2017-flex",
+      "fipeCodigo": "017062-3",
+      "displayName": "Jeep Renegade 1.8 4x2 Flex 16V Aut.",
+      "valorAtual": 65283,
+      "canonicalPath": "/fipe/jeep/renegade-1-8-4x2-flex-16v-aut-2017-017062-3/",
+      "ano": 2017,
+      "marca": "Jeep"
+    },
+    {
+      "vehicleId": "jeep-renegade-sport-1-8-4x2-flex-16v-mec-2017-flex",
+      "fipeCodigo": "017033-0",
+      "displayName": "Jeep Renegade Sport 1.8 4x2 Flex 16V Mec.",
+      "valorAtual": 65344,
+      "canonicalPath": "/fipe/jeep/renegade-sport-1-8-4x2-flex-16v-mec-2017-017033-0/",
+      "ano": 2017,
+      "marca": "Jeep"
+    },
+    {
+      "vehicleId": "jeep-renegade-sport-1-8-4x2-flex-16v-aut-2017-flex",
+      "fipeCodigo": "017034-8",
+      "displayName": "Jeep Renegade Sport 1.8 4x2 Flex 16V Aut.",
+      "valorAtual": 65399,
+      "canonicalPath": "/fipe/jeep/renegade-sport-1-8-4x2-flex-16v-aut-2017-017034-8/",
+      "ano": 2017,
+      "marca": "Jeep"
+    },
+    {
+      "vehicleId": "jeep-renegade-75-anos-1-8-4x2-flex-16v-aut-2017-flex",
+      "fipeCodigo": "017043-7",
+      "displayName": "Jeep Renegade 75 Anos 1.8 4X2 Flex 16V Aut.",
+      "valorAtual": 67948,
+      "canonicalPath": "/fipe/jeep/renegade-75-anos-1-8-4x2-flex-16v-aut-2017-017043-7/",
+      "ano": 2017,
+      "marca": "Jeep"
+    },
+    {
+      "vehicleId": "jeep-renegade-longitude-1-8-4x2-flex-16v-aut-2017-flex",
+      "fipeCodigo": "017035-6",
+      "displayName": "Jeep Renegade Longitude 1.8 4x2 Flex 16V Aut.",
+      "valorAtual": 68582,
+      "canonicalPath": "/fipe/jeep/renegade-longitude-1-8-4x2-flex-16v-aut-2017-017035-6/",
+      "ano": 2017,
+      "marca": "Jeep"
+    },
+    {
+      "vehicleId": "jeep-renegade-lim-edit-1-8-4x2-flex-16v-aut-2017-flex",
+      "fipeCodigo": "017041-0",
+      "displayName": "Jeep Renegade Lim. Edit. 1.8 4x2 Flex 16V Aut",
+      "valorAtual": 70689,
+      "canonicalPath": "/fipe/jeep/renegade-lim-edit-1-8-4x2-flex-16v-aut-2017-017041-0/",
+      "ano": 2017,
+      "marca": "Jeep"
+    },
+    {
+      "vehicleId": "jeep-renegade-limited-1-8-4x2-flex-16v-aut-2017-flex",
+      "fipeCodigo": "017053-4",
+      "displayName": "Jeep Renegade Limited 1.8 4x2 Flex 16V Aut.",
+      "valorAtual": 71684,
+      "canonicalPath": "/fipe/jeep/renegade-limited-1-8-4x2-flex-16v-aut-2017-017053-4/",
+      "ano": 2017,
+      "marca": "Jeep"
+    },
+    {
+      "vehicleId": "jeep-renegade-sport-2-0-4x4-tb-diesel-aut-2017-diesel",
+      "fipeCodigo": "017036-4",
+      "displayName": "Jeep Renegade Sport 2.0 4x4 TB Diesel Aut.",
+      "valorAtual": 77031,
+      "canonicalPath": "/fipe/jeep/renegade-sport-2-0-4x4-tb-diesel-aut-2017-017036-4/",
+      "ano": 2017,
+      "marca": "Jeep"
+    },
+    {
+      "vehicleId": "jeep-renegade-75-anos-2-0-4x4-tb-diesel-aut-2017-diesel",
+      "fipeCodigo": "017042-9",
+      "displayName": "Jeep Renegade 75 Anos 2.0 4X4 TB Diesel Aut.",
+      "valorAtual": 77915,
+      "canonicalPath": "/fipe/jeep/renegade-75-anos-2-0-4x4-tb-diesel-aut-2017-017042-9/",
+      "ano": 2017,
+      "marca": "Jeep"
+    },
+    {
+      "vehicleId": "jeep-renegade-longitude-2-0-4x4-tb-diesel-aut-2017-diesel",
+      "fipeCodigo": "017037-2",
+      "displayName": "Jeep Renegade Longitude 2.0 4x4 TB Diesel Aut",
+      "valorAtual": 82259,
+      "canonicalPath": "/fipe/jeep/renegade-longitude-2-0-4x4-tb-diesel-aut-2017-017037-2/",
+      "ano": 2017,
+      "marca": "Jeep"
+    },
+    {
+      "vehicleId": "jeep-renegade-trailhawk-2-0-4x4-tb-diesel-aut-2017-diesel",
+      "fipeCodigo": "017038-0",
+      "displayName": "Jeep Renegade Trailhawk 2.0 4x4 TB Diesel Aut",
+      "valorAtual": 84592,
+      "canonicalPath": "/fipe/jeep/renegade-trailhawk-2-0-4x4-tb-diesel-aut-2017-017038-0/",
+      "ano": 2017,
+      "marca": "Jeep"
+    },
+    {
+      "vehicleId": "jeep-renegade-1-8-4x2-flex-16v-mec-2016-flex",
+      "fipeCodigo": "017040-2",
+      "displayName": "Jeep Renegade 1.8 4x2 Flex 16V Mec.",
+      "valorAtual": 61344,
+      "canonicalPath": "/fipe/jeep/renegade-1-8-4x2-flex-16v-mec-2016-017040-2/",
+      "ano": 2016,
+      "marca": "Jeep"
+    },
+    {
+      "vehicleId": "jeep-renegade-sport-1-8-4x2-flex-16v-mec-2016-flex",
+      "fipeCodigo": "017033-0",
+      "displayName": "Jeep Renegade Sport 1.8 4x2 Flex 16V Mec.",
+      "valorAtual": 61856,
+      "canonicalPath": "/fipe/jeep/renegade-sport-1-8-4x2-flex-16v-mec-2016-017033-0/",
+      "ano": 2016,
+      "marca": "Jeep"
+    },
+    {
+      "vehicleId": "jeep-renegade-1-8-4x2-flex-16v-aut-2016-flex",
+      "fipeCodigo": "017062-3",
+      "displayName": "Jeep Renegade 1.8 4x2 Flex 16V Aut.",
+      "valorAtual": 63461,
+      "canonicalPath": "/fipe/jeep/renegade-1-8-4x2-flex-16v-aut-2016-017062-3/",
+      "ano": 2016,
+      "marca": "Jeep"
+    },
+    {
+      "vehicleId": "jeep-renegade-sport-1-8-4x2-flex-16v-aut-2016-flex",
+      "fipeCodigo": "017034-8",
+      "displayName": "Jeep Renegade Sport 1.8 4x2 Flex 16V Aut.",
+      "valorAtual": 63803,
+      "canonicalPath": "/fipe/jeep/renegade-sport-1-8-4x2-flex-16v-aut-2016-017034-8/",
+      "ano": 2016,
+      "marca": "Jeep"
+    },
+    {
+      "vehicleId": "jeep-renegade-longitude-1-8-4x2-flex-16v-aut-2016-flex",
+      "fipeCodigo": "017035-6",
+      "displayName": "Jeep Renegade Longitude 1.8 4x2 Flex 16V Aut.",
+      "valorAtual": 65709,
+      "canonicalPath": "/fipe/jeep/renegade-longitude-1-8-4x2-flex-16v-aut-2016-017035-6/",
+      "ano": 2016,
+      "marca": "Jeep"
+    },
+    {
+      "vehicleId": "jeep-renegade-lim-edit-1-8-4x2-flex-16v-aut-2016-flex",
+      "fipeCodigo": "017041-0",
+      "displayName": "Jeep Renegade Lim. Edit. 1.8 4x2 Flex 16V Aut",
+      "valorAtual": 66109,
+      "canonicalPath": "/fipe/jeep/renegade-lim-edit-1-8-4x2-flex-16v-aut-2016-017041-0/",
+      "ano": 2016,
+      "marca": "Jeep"
+    },
+    {
+      "vehicleId": "jeep-renegade-75-anos-1-8-4x2-flex-16v-aut-2016-flex",
+      "fipeCodigo": "017043-7",
+      "displayName": "Jeep Renegade 75 Anos 1.8 4X2 Flex 16V Aut.",
+      "valorAtual": 66290,
+      "canonicalPath": "/fipe/jeep/renegade-75-anos-1-8-4x2-flex-16v-aut-2016-017043-7/",
+      "ano": 2016,
+      "marca": "Jeep"
+    },
+    {
+      "vehicleId": "jeep-renegade-sport-2-0-4x4-tb-diesel-aut-2016-diesel",
+      "fipeCodigo": "017036-4",
+      "displayName": "Jeep Renegade Sport 2.0 4x4 TB Diesel Aut.",
+      "valorAtual": 72914,
+      "canonicalPath": "/fipe/jeep/renegade-sport-2-0-4x4-tb-diesel-aut-2016-017036-4/",
+      "ano": 2016,
+      "marca": "Jeep"
+    },
+    {
+      "vehicleId": "jeep-renegade-75-anos-2-0-4x4-tb-diesel-aut-2016-diesel",
+      "fipeCodigo": "017042-9",
+      "displayName": "Jeep Renegade 75 Anos 2.0 4X4 TB Diesel Aut.",
+      "valorAtual": 74649,
+      "canonicalPath": "/fipe/jeep/renegade-75-anos-2-0-4x4-tb-diesel-aut-2016-017042-9/",
+      "ano": 2016,
+      "marca": "Jeep"
+    },
+    {
+      "vehicleId": "jeep-renegade-longitude-2-0-4x4-tb-diesel-aut-2016-diesel",
+      "fipeCodigo": "017037-2",
+      "displayName": "Jeep Renegade Longitude 2.0 4x4 TB Diesel Aut",
+      "valorAtual": 77629,
+      "canonicalPath": "/fipe/jeep/renegade-longitude-2-0-4x4-tb-diesel-aut-2016-017037-2/",
+      "ano": 2016,
+      "marca": "Jeep"
+    },
+    {
+      "vehicleId": "jeep-renegade-trailhawk-2-0-4x4-tb-diesel-aut-2016-diesel",
+      "fipeCodigo": "017038-0",
+      "displayName": "Jeep Renegade Trailhawk 2.0 4x4 TB Diesel Aut",
+      "valorAtual": 79391,
+      "canonicalPath": "/fipe/jeep/renegade-trailhawk-2-0-4x4-tb-diesel-aut-2016-017038-0/",
+      "ano": 2016,
+      "marca": "Jeep"
+    },
+    {
+      "vehicleId": "jeep-renegade-longitude-1-8-4x2-flex-16v-aut-2015-flex",
+      "fipeCodigo": "017035-6",
+      "displayName": "Jeep Renegade Longitude 1.8 4x2 Flex 16V Aut.",
+      "valorAtual": 54101,
+      "canonicalPath": "/fipe/jeep/renegade-longitude-1-8-4x2-flex-16v-aut-2015-017035-6/",
+      "ano": 2015,
+      "marca": "Jeep"
+    },
+    {
+      "vehicleId": "jeep-renegade-sport-1-8-4x2-flex-16v-mec-2015-flex",
+      "fipeCodigo": "017033-0",
+      "displayName": "Jeep Renegade Sport 1.8 4x2 Flex 16V Mec.",
+      "valorAtual": 57103,
+      "canonicalPath": "/fipe/jeep/renegade-sport-1-8-4x2-flex-16v-mec-2015-017033-0/",
+      "ano": 2015,
+      "marca": "Jeep"
+    },
+    {
+      "vehicleId": "jeep-renegade-trailhawk-2-0-4x4-tb-diesel-aut-2015-diesel",
+      "fipeCodigo": "017038-0",
+      "displayName": "Jeep Renegade Trailhawk 2.0 4x4 TB Diesel Aut",
+      "valorAtual": 70605,
+      "canonicalPath": "/fipe/jeep/renegade-trailhawk-2-0-4x4-tb-diesel-aut-2015-017038-0/",
+      "ano": 2015,
+      "marca": "Jeep"
+    },
+    {
+      "vehicleId": "jeep-renegade-t270-1-3-tb-4x2-flex-aut-0-flex",
+      "fipeCodigo": "017092-5",
+      "displayName": "Jeep Renegade T270 1.3 TB 4x2 Flex Aut.",
+      "valorAtual": 119727,
+      "canonicalPath": "/fipe/jeep/renegade-t270-1-3-tb-4x2-flex-aut-0-017092-5/",
+      "ano": 0,
+      "marca": "Jeep"
+    },
+    {
+      "vehicleId": "jeep-renegade-sport-t270-1-3-tb-4x2-flex-aut-0-flex",
+      "fipeCodigo": "017085-2",
+      "displayName": "Jeep Renegade Sport T270 1.3 TB 4x2 Flex Aut.",
+      "valorAtual": 121527,
+      "canonicalPath": "/fipe/jeep/renegade-sport-t270-1-3-tb-4x2-flex-aut-0-017085-2/",
+      "ano": 0,
+      "marca": "Jeep"
+    },
+    {
+      "vehicleId": "jeep-renegade-altitude-t270-1-3-tb-flex-aut-0-flex",
+      "fipeCodigo": "017105-0",
+      "displayName": "Jeep Renegade Altitude T270 1.3 TB Flex Aut.",
+      "valorAtual": 131523,
+      "canonicalPath": "/fipe/jeep/renegade-altitude-t270-1-3-tb-flex-aut-0-017105-0/",
+      "ano": 0,
+      "marca": "Jeep"
+    },
+    {
+      "vehicleId": "jeep-renegade-sport-altitude-1-3-tb-flex-aut-0-flex",
+      "fipeCodigo": "017103-4",
+      "displayName": "Jeep Renegade Sport Altitude 1.3 TB Flex Aut.",
+      "valorAtual": 134307,
+      "canonicalPath": "/fipe/jeep/renegade-sport-altitude-1-3-tb-flex-aut-0-017103-4/",
+      "ano": 0,
+      "marca": "Jeep"
+    },
+    {
+      "vehicleId": "jeep-renegade-longitude-t270-1-3-turbo-4x2-aut-0-hibrido",
+      "fipeCodigo": "017108-5",
+      "displayName": "Jeep Renegade Longitude T270 1.3 Turbo 4x2 Aut.",
+      "valorAtual": 159241,
+      "canonicalPath": "/fipe/jeep/renegade-longitude-t270-1-3-turbo-4x2-aut-0-017108-5/",
+      "ano": 0,
+      "marca": "Jeep"
+    },
+    {
+      "vehicleId": "jeep-renegade-long-t270-1-3-tb-4x2-flex-aut-0-flex",
+      "fipeCodigo": "017088-7",
+      "displayName": "Jeep Renegade Long. T270 1.3 TB 4x2 Flex Aut.",
+      "valorAtual": 159903,
+      "canonicalPath": "/fipe/jeep/renegade-long-t270-1-3-tb-4x2-flex-aut-0-017088-7/",
+      "ano": 0,
+      "marca": "Jeep"
+    },
+    {
+      "vehicleId": "jeep-renegade-trailhawk-t270-1-3-tb-flex-aut-0-flex",
+      "fipeCodigo": "017086-0",
+      "displayName": "Jeep Renegade Trailhawk T270 1.3 TB Flex Aut.",
+      "valorAtual": 162701,
+      "canonicalPath": "/fipe/jeep/renegade-trailhawk-t270-1-3-tb-flex-aut-0-017086-0/",
+      "ano": 0,
+      "marca": "Jeep"
+    },
+    {
+      "vehicleId": "jeep-renegade-lo-night-eagle-1-3-tb-flex-aut-0-flex",
+      "fipeCodigo": "017102-6",
+      "displayName": "Jeep Renegade Lo. Night Eagle 1.3 TB Flex Aut",
+      "valorAtual": 163231,
+      "canonicalPath": "/fipe/jeep/renegade-lo-night-eagle-1-3-tb-flex-aut-0-017102-6/",
+      "ano": 0,
+      "marca": "Jeep"
+    },
+    {
+      "vehicleId": "jeep-renegade-sahara-t270-1-3-tb-4x2-flex-aut-0-flex",
+      "fipeCodigo": "017100-0",
+      "displayName": "Jeep Renegade SAHARA T270 1.3 TB 4x2 Flex Aut",
+      "valorAtual": 170644,
+      "canonicalPath": "/fipe/jeep/renegade-sahara-t270-1-3-tb-4x2-flex-aut-0-017100-0/",
+      "ano": 0,
+      "marca": "Jeep"
+    },
+    {
+      "vehicleId": "jeep-renegade-sahara-t270-1-3-turbo-4x2-aut-0-hibrido",
+      "fipeCodigo": "017107-7",
+      "displayName": "Jeep Renegade SAHARA T270 1.3 Turbo 4x2 Aut.",
+      "valorAtual": 176468,
+      "canonicalPath": "/fipe/jeep/renegade-sahara-t270-1-3-turbo-4x2-aut-0-017107-7/",
+      "ano": 0,
+      "marca": "Jeep"
+    },
+    {
+      "vehicleId": "jeep-renegade-willys-t270-1-3-tb-4x4-flex-aut-0-flex",
+      "fipeCodigo": "017101-8",
+      "displayName": "Jeep Renegade Willys T270 1.3 TB 4x4 Flex Aut",
+      "valorAtual": 189892,
+      "canonicalPath": "/fipe/jeep/renegade-willys-t270-1-3-tb-4x4-flex-aut-0-017101-8/",
+      "ano": 0,
+      "marca": "Jeep"
+    }
+  ],
+  "stats": {
+    "total": 103,
+    "precoMin": 54101,
+    "precoMax": 189892,
+    "anos": [
+      2027,
+      2026,
+      2025,
+      2024,
+      2023,
+      2022,
+      2021,
+      2020,
+      2019,
+      2018,
+      2017,
+      2016,
+      2015,
+      0
+    ]
+  }
+}

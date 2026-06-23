@@ -1,0 +1,42 @@
+{
+  "tipo": "familia",
+  "slug": "plutus",
+  "canonicalPath": "/fipe/effa/plutus/",
+  "titulo": "EFFA plutus - Tabela FIPE",
+  "descricao": "2 versoes e anos do EFFA plutus na Tabela FIPE.",
+  "seo": {
+    "title": "EFFA plutus - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes EFFA plutus. 2 veiculos indexados.",
+    "h1": "EFFA plutus - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/effa/plutus/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "effa-plutus-3-2-8v-4x2-cd-turbo-diesel-2012-diesel",
+      "fipeCodigo": "066011-6",
+      "displayName": "EFFA Plutus 3.2 8V 4x2 CD Turbo Diesel",
+      "valorAtual": 32985,
+      "canonicalPath": "/fipe/effa/plutus-3-2-8v-4x2-cd-turbo-diesel-2012-066011-6/",
+      "ano": 2012,
+      "marca": "EFFA"
+    },
+    {
+      "vehicleId": "effa-plutus-3-2-8v-4x2-cd-turbo-diesel-2011-diesel",
+      "fipeCodigo": "066011-6",
+      "displayName": "EFFA Plutus 3.2 8V 4x2 CD Turbo Diesel",
+      "valorAtual": 29291,
+      "canonicalPath": "/fipe/effa/plutus-3-2-8v-4x2-cd-turbo-diesel-2011-066011-6/",
+      "ano": 2011,
+      "marca": "EFFA"
+    }
+  ],
+  "stats": {
+    "total": 2,
+    "precoMin": 29291,
+    "precoMax": 32985,
+    "anos": [
+      2012,
+      2011
+    ]
+  }
+}

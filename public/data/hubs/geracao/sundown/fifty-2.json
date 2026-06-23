@@ -1,0 +1,57 @@
+{
+  "tipo": "geracao",
+  "slug": "fifty-2",
+  "canonicalPath": "/geracao/sundown/fifty-2/",
+  "titulo": "Geracao fifty-2",
+  "descricao": "4 veiculos da geracao fifty-2.",
+  "seo": {
+    "title": "Geracao fifty-2 - Precos FIPE",
+    "description": "Veiculos da geracao fifty-2 na Tabela FIPE.",
+    "h1": "Geracao fifty-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/sundown/fifty-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "sundown-fifty-50cc-2002-gasolina",
+      "fipeCodigo": "824004-3",
+      "displayName": "SUNDOWN FIFTY 50cc",
+      "valorAtual": 1312,
+      "canonicalPath": "/fipe/sundown/fifty-50cc-2002-824004-3/",
+      "ano": 2002,
+      "marca": "SUNDOWN"
+    },
+    {
+      "vehicleId": "sundown-fifty-50cc-2003-gasolina",
+      "fipeCodigo": "824004-3",
+      "displayName": "SUNDOWN FIFTY 50cc",
+      "valorAtual": 1346,
+      "canonicalPath": "/fipe/sundown/fifty-50cc-2003-824004-3/",
+      "ano": 2003,
+      "marca": "SUNDOWN"
+    },
+    {
+      "vehicleId": "sundown-fifty-50cc-2004-gasolina",
+      "fipeCodigo": "824004-3",
+      "displayName": "SUNDOWN FIFTY 50cc",
+      "valorAtual": 1389,
+      "canonicalPath": "/fipe/sundown/fifty-50cc-2004-824004-3/",
+      "ano": 2004,
+      "marca": "SUNDOWN"
+    },
+    {
+      "vehicleId": "sundown-fifty-50cc-2005-gasolina",
+      "fipeCodigo": "824004-3",
+      "displayName": "SUNDOWN FIFTY 50cc",
+      "valorAtual": 1516,
+      "canonicalPath": "/fipe/sundown/fifty-50cc-2005-824004-3/",
+      "ano": 2005,
+      "marca": "SUNDOWN"
+    }
+  ],
+  "stats": {
+    "total": 4
+  },
+  "meta": {
+    "geracaoId": "fifty-2"
+  }
+}

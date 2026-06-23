@@ -1,0 +1,84 @@
+{
+  "tipo": "geracao",
+  "slug": "rzr-1",
+  "canonicalPath": "/geracao/polaris/rzr-1/",
+  "titulo": "Geracao rzr-1",
+  "descricao": "7 veiculos da geracao rzr-1.",
+  "seo": {
+    "title": "Geracao rzr-1 - Precos FIPE",
+    "description": "Veiculos da geracao rzr-1 na Tabela FIPE.",
+    "h1": "Geracao rzr-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/polaris/rzr-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "polaris-rzr-pro-r-4-ultimate-4x4-utv-0-gasolina",
+      "fipeCodigo": "884036-9",
+      "displayName": "POLARIS RZR PRO R 4 ULTIMATE 4X4 (UTV)",
+      "valorAtual": 405865,
+      "canonicalPath": "/fipe/polaris/rzr-pro-r-4-ultimate-4x4-utv-0-884036-9/",
+      "ano": 0,
+      "marca": "POLARIS"
+    },
+    {
+      "vehicleId": "polaris-rzr-pro-s-ultimate-4x4-utv-0-gasolina",
+      "fipeCodigo": "884035-0",
+      "displayName": "POLARIS RZR PRO S ULTIMATE 4X4 (UTV)",
+      "valorAtual": 259865,
+      "canonicalPath": "/fipe/polaris/rzr-pro-s-ultimate-4x4-utv-0-884035-0/",
+      "ano": 0,
+      "marca": "POLARIS"
+    },
+    {
+      "vehicleId": "polaris-rzr-pro-xp-4-ultimate-turbo-4x4-utv-0-gasolina",
+      "fipeCodigo": "884018-0",
+      "displayName": "POLARIS RZR PRO XP 4 ULTIMATE Turbo 4x4 (UTV)",
+      "valorAtual": 254865,
+      "canonicalPath": "/fipe/polaris/rzr-pro-xp-4-ultimate-turbo-4x4-utv-0-884018-0/",
+      "ano": 0,
+      "marca": "POLARIS"
+    },
+    {
+      "vehicleId": "polaris-rzr-pro-xp-ultimate-turbo-4x4-utv-0-gasolina",
+      "fipeCodigo": "884017-2",
+      "displayName": "POLARIS RZR PRO XP ULTIMATE Turbo 4x4 (UTV)",
+      "valorAtual": 219865,
+      "canonicalPath": "/fipe/polaris/rzr-pro-xp-ultimate-turbo-4x4-utv-0-884017-2/",
+      "ano": 0,
+      "marca": "POLARIS"
+    },
+    {
+      "vehicleId": "polaris-rzr-r-4-ultimate-turbo-4x4-utv-0-gasolina",
+      "fipeCodigo": "884024-5",
+      "displayName": "POLARIS RZR R 4 ULTIMATE Turbo 4x4 (UTV)",
+      "valorAtual": 265743,
+      "canonicalPath": "/fipe/polaris/rzr-r-4-ultimate-turbo-4x4-utv-0-884024-5/",
+      "ano": 0,
+      "marca": "POLARIS"
+    },
+    {
+      "vehicleId": "polaris-rzr-trail-s-1000-premium-4x4-utv-0-gasolina",
+      "fipeCodigo": "884021-0",
+      "displayName": "POLARIS RZR TRAIL S 1000 Premium 4x4 (UTV)",
+      "valorAtual": 112718,
+      "canonicalPath": "/fipe/polaris/rzr-trail-s-1000-premium-4x4-utv-0-884021-0/",
+      "ano": 0,
+      "marca": "POLARIS"
+    },
+    {
+      "vehicleId": "polaris-rzr-xp-4-ultimate-4x4-utv-0-gasolina",
+      "fipeCodigo": "884034-2",
+      "displayName": "POLARIS RZR XP 4 ULTIMATE 4X4 (UTV)",
+      "valorAtual": 189865,
+      "canonicalPath": "/fipe/polaris/rzr-xp-4-ultimate-4x4-utv-0-884034-2/",
+      "ano": 0,
+      "marca": "POLARIS"
+    }
+  ],
+  "stats": {
+    "total": 7
+  },
+  "meta": {
+    "geracaoId": "rzr-1"
+  }
+}

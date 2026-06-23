@@ -1,0 +1,66 @@
+{
+  "tipo": "geracao",
+  "slug": "savage-1",
+  "canonicalPath": "/geracao/suzuki/savage-1/",
+  "titulo": "Geracao savage-1",
+  "descricao": "5 veiculos da geracao savage-1.",
+  "seo": {
+    "title": "Geracao savage-1 - Precos FIPE",
+    "description": "Veiculos da geracao savage-1 na Tabela FIPE.",
+    "h1": "Geracao savage-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/suzuki/savage-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "suzuki-savage-ls-650-1998-gasolina",
+      "fipeCodigo": "825026-0",
+      "displayName": "SUZUKI SAVAGE LS 650",
+      "valorAtual": 16217,
+      "canonicalPath": "/fipe/suzuki/savage-ls-650-1998-825026-0/",
+      "ano": 1998,
+      "marca": "SUZUKI"
+    },
+    {
+      "vehicleId": "suzuki-savage-ls-650-1999-gasolina",
+      "fipeCodigo": "825026-0",
+      "displayName": "SUZUKI SAVAGE LS 650",
+      "valorAtual": 16861,
+      "canonicalPath": "/fipe/suzuki/savage-ls-650-1999-825026-0/",
+      "ano": 1999,
+      "marca": "SUZUKI"
+    },
+    {
+      "vehicleId": "suzuki-savage-ls-650-2000-gasolina",
+      "fipeCodigo": "825026-0",
+      "displayName": "SUZUKI SAVAGE LS 650",
+      "valorAtual": 17283,
+      "canonicalPath": "/fipe/suzuki/savage-ls-650-2000-825026-0/",
+      "ano": 2000,
+      "marca": "SUZUKI"
+    },
+    {
+      "vehicleId": "suzuki-savage-ls-650-2001-gasolina",
+      "fipeCodigo": "825026-0",
+      "displayName": "SUZUKI SAVAGE LS 650",
+      "valorAtual": 17716,
+      "canonicalPath": "/fipe/suzuki/savage-ls-650-2001-825026-0/",
+      "ano": 2001,
+      "marca": "SUZUKI"
+    },
+    {
+      "vehicleId": "suzuki-savage-ls-650-2002-gasolina",
+      "fipeCodigo": "825026-0",
+      "displayName": "SUZUKI SAVAGE LS 650",
+      "valorAtual": 20182,
+      "canonicalPath": "/fipe/suzuki/savage-ls-650-2002-825026-0/",
+      "ano": 2002,
+      "marca": "SUZUKI"
+    }
+  ],
+  "stats": {
+    "total": 5
+  },
+  "meta": {
+    "geracaoId": "savage-1"
+  }
+}

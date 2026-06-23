@@ -1,0 +1,52 @@
+{
+  "tipo": "familia",
+  "slug": "spark",
+  "canonicalPath": "/fipe/chevrolet/spark/",
+  "titulo": "GM - Chevrolet spark - Tabela FIPE",
+  "descricao": "3 versoes e anos do GM - Chevrolet spark na Tabela FIPE.",
+  "seo": {
+    "title": "GM - Chevrolet spark - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes GM - Chevrolet spark. 3 veiculos indexados.",
+    "h1": "GM - Chevrolet spark - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/chevrolet/spark/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "chevrolet-spark-euv-activ-2026-eletrico",
+      "fipeCodigo": "004560-8",
+      "displayName": "GM - Chevrolet SPARK EUV ACTIV",
+      "valorAtual": 143993,
+      "canonicalPath": "/fipe/chevrolet/spark-euv-activ-2026-004560-8/",
+      "ano": 2026,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-spark-euv-activ-2025-eletrico",
+      "fipeCodigo": "004560-8",
+      "displayName": "GM - Chevrolet SPARK EUV ACTIV",
+      "valorAtual": 140249,
+      "canonicalPath": "/fipe/chevrolet/spark-euv-activ-2025-004560-8/",
+      "ano": 2025,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-spark-euv-activ-0-eletrico",
+      "fipeCodigo": "004560-8",
+      "displayName": "GM - Chevrolet SPARK EUV ACTIV",
+      "valorAtual": 151586,
+      "canonicalPath": "/fipe/chevrolet/spark-euv-activ-0-004560-8/",
+      "ano": 0,
+      "marca": "GM - Chevrolet"
+    }
+  ],
+  "stats": {
+    "total": 3,
+    "precoMin": 140249,
+    "precoMax": 151586,
+    "anos": [
+      2026,
+      2025,
+      0
+    ]
+  }
+}

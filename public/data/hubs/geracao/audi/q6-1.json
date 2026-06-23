@@ -1,0 +1,48 @@
+{
+  "tipo": "geracao",
+  "slug": "q6-1",
+  "canonicalPath": "/geracao/audi/q6-1/",
+  "titulo": "Geracao q6-1",
+  "descricao": "3 veiculos da geracao q6-1.",
+  "seo": {
+    "title": "Geracao q6-1 - Precos FIPE",
+    "description": "Veiculos da geracao q6-1 na Tabela FIPE.",
+    "h1": "Geracao q6-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/audi/q6-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "audi-q6-e-tron-quattro-perf-black-eletrico-0-eletrico",
+      "fipeCodigo": "008309-7",
+      "displayName": "Audi Q6 E-TRON Quattro Perf. Black (Elétrico)",
+      "valorAtual": 595126,
+      "canonicalPath": "/fipe/audi/q6-e-tron-quattro-perf-black-eletrico-0-008309-7/",
+      "ano": 0,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-q6-e-tron-quattro-performance-eletrico-0-eletrico",
+      "fipeCodigo": "008310-0",
+      "displayName": "Audi Q6 E-TRON Quattro Performance (Elétrico)",
+      "valorAtual": 561090,
+      "canonicalPath": "/fipe/audi/q6-e-tron-quattro-performance-eletrico-0-008310-0/",
+      "ano": 0,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-q6-e-tron-quattro-sportback-performance-black-0-eletrico",
+      "fipeCodigo": "008324-0",
+      "displayName": "Audi Q6 E-Tron Quattro Sportback Performance Black",
+      "valorAtual": 625967,
+      "canonicalPath": "/fipe/audi/q6-e-tron-quattro-sportback-performance-black-0-008324-0/",
+      "ano": 0,
+      "marca": "Audi"
+    }
+  ],
+  "stats": {
+    "total": 3
+  },
+  "meta": {
+    "geracaoId": "q6-1"
+  }
+}

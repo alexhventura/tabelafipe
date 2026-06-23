@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "contour-1",
+  "canonicalPath": "/geracao/ford/contour-1/",
+  "titulo": "Geracao contour-1",
+  "descricao": "2 veiculos da geracao contour-1.",
+  "seo": {
+    "title": "Geracao contour-1 - Precos FIPE",
+    "description": "Veiculos da geracao contour-1 na Tabela FIPE.",
+    "h1": "Geracao contour-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/ford/contour-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "ford-contour-se-gl-lx-2-0-16v-1995-gasolina",
+      "fipeCodigo": "003121-6",
+      "displayName": "Ford Contour SE/ GL/ LX  2.0 16V",
+      "valorAtual": 11851,
+      "canonicalPath": "/fipe/ford/contour-se-gl-lx-2-0-16v-1995-003121-6/",
+      "ano": 1995,
+      "marca": "Ford"
+    },
+    {
+      "vehicleId": "ford-contour-se-gl-lx-2-5-24v-1995-gasolina",
+      "fipeCodigo": "003122-4",
+      "displayName": "Ford Contour SE/GL/ LX 2.5 24V",
+      "valorAtual": 12764,
+      "canonicalPath": "/fipe/ford/contour-se-gl-lx-2-5-24v-1995-003122-4/",
+      "ano": 1995,
+      "marca": "Ford"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "contour-1"
+  }
+}

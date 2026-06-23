@@ -1,0 +1,52 @@
+{
+  "tipo": "familia",
+  "slug": "765lt",
+  "canonicalPath": "/fipe/mclaren/765lt/",
+  "titulo": "Mclaren 765lt - Tabela FIPE",
+  "descricao": "3 versoes e anos do Mclaren 765lt na Tabela FIPE.",
+  "seo": {
+    "title": "Mclaren 765lt - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes Mclaren 765lt. 3 veiculos indexados.",
+    "h1": "Mclaren 765lt - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/mclaren/765lt/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "mclaren-765lt-spider-4-0-bi-turbo-v8-2022-gasolina",
+      "fipeCodigo": "090012-5",
+      "displayName": "Mclaren 765LT Spider 4.0 Bi-Turbo V8",
+      "valorAtual": 5063463,
+      "canonicalPath": "/fipe/mclaren/765lt-spider-4-0-bi-turbo-v8-2022-090012-5/",
+      "ano": 2022,
+      "marca": "Mclaren"
+    },
+    {
+      "vehicleId": "mclaren-765lt-coupe-4-0-bi-turbo-v8-2021-gasolina",
+      "fipeCodigo": "090009-5",
+      "displayName": "Mclaren 765LT Coupe 4.0 Bi-Turbo V8",
+      "valorAtual": 4704500,
+      "canonicalPath": "/fipe/mclaren/765lt-coupe-4-0-bi-turbo-v8-2021-090009-5/",
+      "ano": 2021,
+      "marca": "Mclaren"
+    },
+    {
+      "vehicleId": "mclaren-765lt-spider-4-0-bi-turbo-v8-0-gasolina",
+      "fipeCodigo": "090012-5",
+      "displayName": "Mclaren 765LT Spider 4.0 Bi-Turbo V8",
+      "valorAtual": 5299322,
+      "canonicalPath": "/fipe/mclaren/765lt-spider-4-0-bi-turbo-v8-0-090012-5/",
+      "ano": 0,
+      "marca": "Mclaren"
+    }
+  ],
+  "stats": {
+    "total": 3,
+    "precoMin": 4704500,
+    "precoMax": 5299322,
+    "anos": [
+      2022,
+      2021,
+      0
+    ]
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "tipo": "familia",
+  "slug": "j2",
+  "canonicalPath": "/fipe/jac/j2/",
+  "titulo": "JAC j2 - Tabela FIPE",
+  "descricao": "5 versoes e anos do JAC j2 na Tabela FIPE.",
+  "seo": {
+    "title": "JAC j2 - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes JAC j2. 5 veiculos indexados.",
+    "h1": "JAC j2 - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/jac/j2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "jac-j2-1-4-jet-flex-16v-5p-mec-2016-flex",
+      "fipeCodigo": "080012-0",
+      "displayName": "JAC J2 1.4 JET Flex 16V 5p Mec",
+      "valorAtual": 29475,
+      "canonicalPath": "/fipe/jac/j2-1-4-jet-flex-16v-5p-mec-2016-080012-0/",
+      "ano": 2016,
+      "marca": "JAC"
+    },
+    {
+      "vehicleId": "jac-j2-1-4-jet-flex-16v-5p-mec-2015-flex",
+      "fipeCodigo": "080012-0",
+      "displayName": "JAC J2 1.4 JET Flex 16V 5p Mec",
+      "valorAtual": 26481,
+      "canonicalPath": "/fipe/jac/j2-1-4-jet-flex-16v-5p-mec-2015-080012-0/",
+      "ano": 2015,
+      "marca": "JAC"
+    },
+    {
+      "vehicleId": "jac-j2-1-4-16v-5p-mec-2014-gasolina",
+      "fipeCodigo": "080007-4",
+      "displayName": "JAC J2 1.4 16V 5p Mec.",
+      "valorAtual": 24433,
+      "canonicalPath": "/fipe/jac/j2-1-4-16v-5p-mec-2014-080007-4/",
+      "ano": 2014,
+      "marca": "JAC"
+    },
+    {
+      "vehicleId": "jac-j2-1-4-16v-5p-mec-2013-gasolina",
+      "fipeCodigo": "080007-4",
+      "displayName": "JAC J2 1.4 16V 5p Mec.",
+      "valorAtual": 20303,
+      "canonicalPath": "/fipe/jac/j2-1-4-16v-5p-mec-2013-080007-4/",
+      "ano": 2013,
+      "marca": "JAC"
+    },
+    {
+      "vehicleId": "jac-j2-1-4-16v-5p-mec-2012-gasolina",
+      "fipeCodigo": "080007-4",
+      "displayName": "JAC J2 1.4 16V 5p Mec.",
+      "valorAtual": 19030,
+      "canonicalPath": "/fipe/jac/j2-1-4-16v-5p-mec-2012-080007-4/",
+      "ano": 2012,
+      "marca": "JAC"
+    }
+  ],
+  "stats": {
+    "total": 5,
+    "precoMin": 19030,
+    "precoMax": 29475,
+    "anos": [
+      2016,
+      2015,
+      2014,
+      2013,
+      2012
+    ]
+  }
+}

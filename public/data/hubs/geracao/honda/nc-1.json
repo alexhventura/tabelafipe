@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "nc-1",
+  "canonicalPath": "/geracao/honda/nc-1/",
+  "titulo": "Geracao nc-1",
+  "descricao": "2 veiculos da geracao nc-1.",
+  "seo": {
+    "title": "Geracao nc-1 - Precos FIPE",
+    "description": "Veiculos da geracao nc-1 na Tabela FIPE.",
+    "h1": "Geracao nc-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/honda/nc-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "honda-nc-750x-nc-750x-abs-0-gasolina",
+      "fipeCodigo": "811131-6",
+      "displayName": "HONDA NC 750X/NC 750X ABS",
+      "valorAtual": 64312,
+      "canonicalPath": "/fipe/honda/nc-750x-nc-750x-abs-0-811131-6/",
+      "ano": 0,
+      "marca": "HONDA"
+    },
+    {
+      "vehicleId": "honda-nc-750x-nc-750x-abs-dct-0-gasolina",
+      "fipeCodigo": "811185-5",
+      "displayName": "HONDA NC 750X/NC 750X ABS DCT",
+      "valorAtual": 69537,
+      "canonicalPath": "/fipe/honda/nc-750x-nc-750x-abs-dct-0-811185-5/",
+      "ano": 0,
+      "marca": "HONDA"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "nc-1"
+  }
+}

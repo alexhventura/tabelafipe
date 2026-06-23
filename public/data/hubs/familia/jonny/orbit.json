@@ -1,0 +1,72 @@
+{
+  "tipo": "familia",
+  "slug": "orbit",
+  "canonicalPath": "/fipe/jonny/orbit/",
+  "titulo": "JONNY orbit - Tabela FIPE",
+  "descricao": "5 versoes e anos do JONNY orbit na Tabela FIPE.",
+  "seo": {
+    "title": "JONNY orbit - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes JONNY orbit. 5 veiculos indexados.",
+    "h1": "JONNY orbit - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/jonny/orbit/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "jonny-orbit-150cc-2011-gasolina",
+      "fipeCodigo": "865004-7",
+      "displayName": "JONNY Orbit 150cc",
+      "valorAtual": 2274,
+      "canonicalPath": "/fipe/jonny/orbit-150cc-2011-865004-7/",
+      "ano": 2011,
+      "marca": "JONNY"
+    },
+    {
+      "vehicleId": "jonny-orbit-150cc-2010-gasolina",
+      "fipeCodigo": "865004-7",
+      "displayName": "JONNY Orbit 150cc",
+      "valorAtual": 2188,
+      "canonicalPath": "/fipe/jonny/orbit-150cc-2010-865004-7/",
+      "ano": 2010,
+      "marca": "JONNY"
+    },
+    {
+      "vehicleId": "jonny-orbit-150cc-2009-gasolina",
+      "fipeCodigo": "865004-7",
+      "displayName": "JONNY Orbit 150cc",
+      "valorAtual": 2118,
+      "canonicalPath": "/fipe/jonny/orbit-150cc-2009-865004-7/",
+      "ano": 2009,
+      "marca": "JONNY"
+    },
+    {
+      "vehicleId": "jonny-orbit-150cc-2008-gasolina",
+      "fipeCodigo": "865004-7",
+      "displayName": "JONNY Orbit 150cc",
+      "valorAtual": 1963,
+      "canonicalPath": "/fipe/jonny/orbit-150cc-2008-865004-7/",
+      "ano": 2008,
+      "marca": "JONNY"
+    },
+    {
+      "vehicleId": "jonny-orbit-150cc-2006-gasolina",
+      "fipeCodigo": "865004-7",
+      "displayName": "JONNY Orbit 150cc",
+      "valorAtual": 1838,
+      "canonicalPath": "/fipe/jonny/orbit-150cc-2006-865004-7/",
+      "ano": 2006,
+      "marca": "JONNY"
+    }
+  ],
+  "stats": {
+    "total": 5,
+    "precoMin": 1838,
+    "precoMax": 2274,
+    "anos": [
+      2011,
+      2010,
+      2009,
+      2008,
+      2006
+    ]
+  }
+}

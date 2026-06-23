@@ -1,0 +1,62 @@
+{
+  "tipo": "familia",
+  "slug": "20",
+  "canonicalPath": "/fipe/volkswagen/20/",
+  "titulo": "VOLKSWAGEN 20 - Tabela FIPE",
+  "descricao": "4 versoes e anos do VOLKSWAGEN 20 na Tabela FIPE.",
+  "seo": {
+    "title": "VOLKSWAGEN 20 - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes VOLKSWAGEN 20. 4 veiculos indexados.",
+    "h1": "VOLKSWAGEN 20 - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/volkswagen/20/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "volkswagen-20-480-constellation-4x2-2p-diesel-e6-2027-diesel",
+      "fipeCodigo": "515206-2",
+      "displayName": "VOLKSWAGEN 20-480 Constellation 4x2 2p (diesel)(E6)",
+      "valorAtual": 684555,
+      "canonicalPath": "/fipe/volkswagen/20-480-constellation-4x2-2p-diesel-e6-2027-515206-2/",
+      "ano": 2027,
+      "marca": "VOLKSWAGEN"
+    },
+    {
+      "vehicleId": "volkswagen-20-480-constellation-4x2-2p-diesel-e6-2026-diesel",
+      "fipeCodigo": "515206-2",
+      "displayName": "VOLKSWAGEN 20-480 Constellation 4x2 2p (diesel)(E6)",
+      "valorAtual": 644196,
+      "canonicalPath": "/fipe/volkswagen/20-480-constellation-4x2-2p-diesel-e6-2026-515206-2/",
+      "ano": 2026,
+      "marca": "VOLKSWAGEN"
+    },
+    {
+      "vehicleId": "volkswagen-20-480-constellation-4x2-2p-diesel-e6-2025-diesel",
+      "fipeCodigo": "515206-2",
+      "displayName": "VOLKSWAGEN 20-480 Constellation 4x2 2p (diesel)(E6)",
+      "valorAtual": 591700,
+      "canonicalPath": "/fipe/volkswagen/20-480-constellation-4x2-2p-diesel-e6-2025-515206-2/",
+      "ano": 2025,
+      "marca": "VOLKSWAGEN"
+    },
+    {
+      "vehicleId": "volkswagen-20-480-constellation-4x2-2p-diesel-e6-0-diesel",
+      "fipeCodigo": "515206-2",
+      "displayName": "VOLKSWAGEN 20-480 Constellation 4x2 2p (diesel)(E6)",
+      "valorAtual": 763800,
+      "canonicalPath": "/fipe/volkswagen/20-480-constellation-4x2-2p-diesel-e6-0-515206-2/",
+      "ano": 0,
+      "marca": "VOLKSWAGEN"
+    }
+  ],
+  "stats": {
+    "total": 4,
+    "precoMin": 591700,
+    "precoMax": 763800,
+    "anos": [
+      2027,
+      2026,
+      2025,
+      0
+    ]
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "tipo": "familia",
+  "slug": "svartpilen",
+  "canonicalPath": "/fipe/husqvarna/svartpilen/",
+  "titulo": "HUSQVARNA svartpilen - Tabela FIPE",
+  "descricao": "4 versoes e anos do HUSQVARNA svartpilen na Tabela FIPE.",
+  "seo": {
+    "title": "HUSQVARNA svartpilen - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes HUSQVARNA svartpilen. 4 veiculos indexados.",
+    "h1": "HUSQVARNA svartpilen - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/husqvarna/svartpilen/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "husqvarna-svartpilen-801-2024-gasolina",
+      "fipeCodigo": "812036-6",
+      "displayName": "HUSQVARNA SVARTPILEN 801",
+      "valorAtual": 66699,
+      "canonicalPath": "/fipe/husqvarna/svartpilen-801-2024-812036-6/",
+      "ano": 2024,
+      "marca": "HUSQVARNA"
+    },
+    {
+      "vehicleId": "husqvarna-svartpilen-401-2019-gasolina",
+      "fipeCodigo": "812023-4",
+      "displayName": "HUSQVARNA SVARTPILEN 401",
+      "valorAtual": 40916,
+      "canonicalPath": "/fipe/husqvarna/svartpilen-401-2019-812023-4/",
+      "ano": 2019,
+      "marca": "HUSQVARNA"
+    },
+    {
+      "vehicleId": "husqvarna-svartpilen-401-2018-gasolina",
+      "fipeCodigo": "812023-4",
+      "displayName": "HUSQVARNA SVARTPILEN 401",
+      "valorAtual": 38661,
+      "canonicalPath": "/fipe/husqvarna/svartpilen-401-2018-812023-4/",
+      "ano": 2018,
+      "marca": "HUSQVARNA"
+    },
+    {
+      "vehicleId": "husqvarna-svartpilen-801-0-gasolina",
+      "fipeCodigo": "812036-6",
+      "displayName": "HUSQVARNA SVARTPILEN 801",
+      "valorAtual": 76910,
+      "canonicalPath": "/fipe/husqvarna/svartpilen-801-0-812036-6/",
+      "ano": 0,
+      "marca": "HUSQVARNA"
+    }
+  ],
+  "stats": {
+    "total": 4,
+    "precoMin": 38661,
+    "precoMax": 76910,
+    "anos": [
+      2024,
+      2019,
+      2018,
+      0
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "tipo": "familia",
+  "slug": "veloster",
+  "canonicalPath": "/fipe/hyundai/veloster/",
+  "titulo": "Hyundai veloster - Tabela FIPE",
+  "descricao": "2 versoes e anos do Hyundai veloster na Tabela FIPE.",
+  "seo": {
+    "title": "Hyundai veloster - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes Hyundai veloster. 2 veiculos indexados.",
+    "h1": "Hyundai veloster - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/hyundai/veloster/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "hyundai-veloster-1-6-16v-140cv-aut-2013-gasolina",
+      "fipeCodigo": "015079-7",
+      "displayName": "Hyundai Veloster 1.6 16V  140cv Aut.",
+      "valorAtual": 62524,
+      "canonicalPath": "/fipe/hyundai/veloster-1-6-16v-140cv-aut-2013-015079-7/",
+      "ano": 2013,
+      "marca": "Hyundai"
+    },
+    {
+      "vehicleId": "hyundai-veloster-1-6-16v-140cv-aut-2012-gasolina",
+      "fipeCodigo": "015079-7",
+      "displayName": "Hyundai Veloster 1.6 16V  140cv Aut.",
+      "valorAtual": 57214,
+      "canonicalPath": "/fipe/hyundai/veloster-1-6-16v-140cv-aut-2012-015079-7/",
+      "ano": 2012,
+      "marca": "Hyundai"
+    }
+  ],
+  "stats": {
+    "total": 2,
+    "precoMin": 57214,
+    "precoMax": 62524,
+    "anos": [
+      2013,
+      2012
+    ]
+  }
+}

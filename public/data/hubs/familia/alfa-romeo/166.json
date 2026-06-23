@@ -1,0 +1,72 @@
+{
+  "tipo": "familia",
+  "slug": "166",
+  "canonicalPath": "/fipe/alfa-romeo/166/",
+  "titulo": "Alfa Romeo 166 - Tabela FIPE",
+  "descricao": "5 versoes e anos do Alfa Romeo 166 na Tabela FIPE.",
+  "seo": {
+    "title": "Alfa Romeo 166 - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes Alfa Romeo 166. 5 veiculos indexados.",
+    "h1": "Alfa Romeo 166 - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/alfa-romeo/166/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "alfa-romeo-166-3-0-v6-24v-2003-gasolina",
+      "fipeCodigo": "006011-9",
+      "displayName": "Alfa Romeo 166 3.0 V6 24V",
+      "valorAtual": 90036,
+      "canonicalPath": "/fipe/alfa-romeo/166-3-0-v6-24v-2003-006011-9/",
+      "ano": 2003,
+      "marca": "Alfa Romeo"
+    },
+    {
+      "vehicleId": "alfa-romeo-166-3-0-v6-24v-2002-gasolina",
+      "fipeCodigo": "006011-9",
+      "displayName": "Alfa Romeo 166 3.0 V6 24V",
+      "valorAtual": 87840,
+      "canonicalPath": "/fipe/alfa-romeo/166-3-0-v6-24v-2002-006011-9/",
+      "ano": 2002,
+      "marca": "Alfa Romeo"
+    },
+    {
+      "vehicleId": "alfa-romeo-166-3-0-v6-24v-2001-gasolina",
+      "fipeCodigo": "006011-9",
+      "displayName": "Alfa Romeo 166 3.0 V6 24V",
+      "valorAtual": 85697,
+      "canonicalPath": "/fipe/alfa-romeo/166-3-0-v6-24v-2001-006011-9/",
+      "ano": 2001,
+      "marca": "Alfa Romeo"
+    },
+    {
+      "vehicleId": "alfa-romeo-166-3-0-v6-24v-2000-gasolina",
+      "fipeCodigo": "006011-9",
+      "displayName": "Alfa Romeo 166 3.0 V6 24V",
+      "valorAtual": 82036,
+      "canonicalPath": "/fipe/alfa-romeo/166-3-0-v6-24v-2000-006011-9/",
+      "ano": 2000,
+      "marca": "Alfa Romeo"
+    },
+    {
+      "vehicleId": "alfa-romeo-166-3-0-v6-24v-1999-gasolina",
+      "fipeCodigo": "006011-9",
+      "displayName": "Alfa Romeo 166 3.0 V6 24V",
+      "valorAtual": 71023,
+      "canonicalPath": "/fipe/alfa-romeo/166-3-0-v6-24v-1999-006011-9/",
+      "ano": 1999,
+      "marca": "Alfa Romeo"
+    }
+  ],
+  "stats": {
+    "total": 5,
+    "precoMin": 71023,
+    "precoMax": 90036,
+    "anos": [
+      2003,
+      2002,
+      2001,
+      2000,
+      1999
+    ]
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "tipo": "geracao",
+  "slug": "defe-2",
+  "canonicalPath": "/geracao/land-rover/defe-2/",
+  "titulo": "Geracao defe-2",
+  "descricao": "8 veiculos da geracao defe-2.",
+  "seo": {
+    "title": "Geracao defe-2 - Precos FIPE",
+    "description": "Veiculos da geracao defe-2 na Tabela FIPE.",
+    "h1": "Geracao defe-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/land-rover/defe-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "land-rover-defe-110-x-dy-hse-p400e-aut-hib-2024-hibrido",
+      "fipeCodigo": "033228-3",
+      "displayName": "Land Rover Defe. 110 X-DY HSE P400e Aut. (Hib.)",
+      "valorAtual": 628764,
+      "canonicalPath": "/fipe/land-rover/defe-110-x-dy-hse-p400e-aut-hib-2024-033228-3/",
+      "ano": 2024,
+      "marca": "Land Rover"
+    },
+    {
+      "vehicleId": "land-rover-defe-110-x-dy-se-d300-die-aut-hib-2023-hibrido",
+      "fipeCodigo": "033226-7",
+      "displayName": "Land Rover Defe. 110 X-DY SE D300 Die Aut. (Hib.)",
+      "valorAtual": 541120,
+      "canonicalPath": "/fipe/land-rover/defe-110-x-dy-se-d300-die-aut-hib-2023-033226-7/",
+      "ano": 2023,
+      "marca": "Land Rover"
+    },
+    {
+      "vehicleId": "land-rover-defe-110-x-dy-hse-d300-die-aut-hib-2023-hibrido",
+      "fipeCodigo": "033194-5",
+      "displayName": "Land Rover Defe. 110 X-DY.HSE D300 Die Aut. (Híb.)",
+      "valorAtual": 541971,
+      "canonicalPath": "/fipe/land-rover/defe-110-x-dy-hse-d300-die-aut-hib-2023-033194-5/",
+      "ano": 2023,
+      "marca": "Land Rover"
+    },
+    {
+      "vehicleId": "land-rover-defe-110-x-dy-hse-d300-die-aut-hib-2024-hibrido",
+      "fipeCodigo": "033194-5",
+      "displayName": "Land Rover Defe. 110 X-DY.HSE D300 Die Aut. (Híb.)",
+      "valorAtual": 630794,
+      "canonicalPath": "/fipe/land-rover/defe-110-x-dy-hse-d300-die-aut-hib-2024-033194-5/",
+      "ano": 2024,
+      "marca": "Land Rover"
+    },
+    {
+      "vehicleId": "land-rover-defe-110-x-dy-hse-d350-die-aut-hib-2025-hibrido",
+      "fipeCodigo": "033237-2",
+      "displayName": "Land Rover Defe. 110 X-DY.HSE D350 Die Aut. (Híb.)",
+      "valorAtual": 735277,
+      "canonicalPath": "/fipe/land-rover/defe-110-x-dy-hse-d350-die-aut-hib-2025-033237-2/",
+      "ano": 2025,
+      "marca": "Land Rover"
+    },
+    {
+      "vehicleId": "land-rover-defe-110-x-dy-hse-d350-die-aut-hib-2026-hibrido",
+      "fipeCodigo": "033237-2",
+      "displayName": "Land Rover Defe. 110 X-DY.HSE D350 Die Aut. (Híb.)",
+      "valorAtual": 795165,
+      "canonicalPath": "/fipe/land-rover/defe-110-x-dy-hse-d350-die-aut-hib-2026-033237-2/",
+      "ano": 2026,
+      "marca": "Land Rover"
+    },
+    {
+      "vehicleId": "land-rover-defe-130-outbound-d300-die-aut-hib-2024-hibrido",
+      "fipeCodigo": "033229-1",
+      "displayName": "Land Rover Defe. 130 Outbound D300 Die. Aut. (Hib.)",
+      "valorAtual": 727432,
+      "canonicalPath": "/fipe/land-rover/defe-130-outbound-d300-die-aut-hib-2024-033229-1/",
+      "ano": 2024,
+      "marca": "Land Rover"
+    },
+    {
+      "vehicleId": "land-rover-defe-130-x-dy-s-3-0-i6-die-aut-hib-2023-hibrido",
+      "fipeCodigo": "033231-3",
+      "displayName": "Land Rover Defe. 130 X-DY S 3.0 I6 Die.Aut.(Hib.)",
+      "valorAtual": 710598,
+      "canonicalPath": "/fipe/land-rover/defe-130-x-dy-s-3-0-i6-die-aut-hib-2023-033231-3/",
+      "ano": 2023,
+      "marca": "Land Rover"
+    }
+  ],
+  "stats": {
+    "total": 8
+  },
+  "meta": {
+    "geracaoId": "defe-2"
+  }
+}

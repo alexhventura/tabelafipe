@@ -1,0 +1,120 @@
+{
+  "tipo": "geracao",
+  "slug": "dyna-2",
+  "canonicalPath": "/geracao/harley-davidson/dyna-2/",
+  "titulo": "Geracao dyna-2",
+  "descricao": "11 veiculos da geracao dyna-2.",
+  "seo": {
+    "title": "Geracao dyna-2 - Precos FIPE",
+    "description": "Veiculos da geracao dyna-2 na Tabela FIPE.",
+    "h1": "Geracao dyna-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/harley-davidson/dyna-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "harley-davidson-dyna-super-glide-2008-gasolina",
+      "fipeCodigo": "810013-6",
+      "displayName": "HARLEY-DAVIDSON DYNA SUPER GLIDE",
+      "valorAtual": 40097,
+      "canonicalPath": "/fipe/harley-davidson/dyna-super-glide-2008-810013-6/",
+      "ano": 2008,
+      "marca": "HARLEY-DAVIDSON"
+    },
+    {
+      "vehicleId": "harley-davidson-dyna-super-glide-2009-gasolina",
+      "fipeCodigo": "810013-6",
+      "displayName": "HARLEY-DAVIDSON DYNA SUPER GLIDE",
+      "valorAtual": 41277,
+      "canonicalPath": "/fipe/harley-davidson/dyna-super-glide-2009-810013-6/",
+      "ano": 2009,
+      "marca": "HARLEY-DAVIDSON"
+    },
+    {
+      "vehicleId": "harley-davidson-dyna-super-glide-2010-gasolina",
+      "fipeCodigo": "810013-6",
+      "displayName": "HARLEY-DAVIDSON DYNA SUPER GLIDE",
+      "valorAtual": 45069,
+      "canonicalPath": "/fipe/harley-davidson/dyna-super-glide-2010-810013-6/",
+      "ano": 2010,
+      "marca": "HARLEY-DAVIDSON"
+    },
+    {
+      "vehicleId": "harley-davidson-dyna-super-glide-custom-2008-gasolina",
+      "fipeCodigo": "810047-0",
+      "displayName": "HARLEY-DAVIDSON DYNA SUPER GLIDE CUSTOM",
+      "valorAtual": 38043,
+      "canonicalPath": "/fipe/harley-davidson/dyna-super-glide-custom-2008-810047-0/",
+      "ano": 2008,
+      "marca": "HARLEY-DAVIDSON"
+    },
+    {
+      "vehicleId": "harley-davidson-dyna-super-glide-custom-2009-gasolina",
+      "fipeCodigo": "810047-0",
+      "displayName": "HARLEY-DAVIDSON DYNA SUPER GLIDE CUSTOM",
+      "valorAtual": 41393,
+      "canonicalPath": "/fipe/harley-davidson/dyna-super-glide-custom-2009-810047-0/",
+      "ano": 2009,
+      "marca": "HARLEY-DAVIDSON"
+    },
+    {
+      "vehicleId": "harley-davidson-dyna-super-glide-custom-2010-gasolina",
+      "fipeCodigo": "810047-0",
+      "displayName": "HARLEY-DAVIDSON DYNA SUPER GLIDE CUSTOM",
+      "valorAtual": 44483,
+      "canonicalPath": "/fipe/harley-davidson/dyna-super-glide-custom-2010-810047-0/",
+      "ano": 2010,
+      "marca": "HARLEY-DAVIDSON"
+    },
+    {
+      "vehicleId": "harley-davidson-dyna-super-glide-custom-2011-gasolina",
+      "fipeCodigo": "810047-0",
+      "displayName": "HARLEY-DAVIDSON DYNA SUPER GLIDE CUSTOM",
+      "valorAtual": 46113,
+      "canonicalPath": "/fipe/harley-davidson/dyna-super-glide-custom-2011-810047-0/",
+      "ano": 2011,
+      "marca": "HARLEY-DAVIDSON"
+    },
+    {
+      "vehicleId": "harley-davidson-dyna-super-glide-custom-2012-gasolina",
+      "fipeCodigo": "810047-0",
+      "displayName": "HARLEY-DAVIDSON DYNA SUPER GLIDE CUSTOM",
+      "valorAtual": 47266,
+      "canonicalPath": "/fipe/harley-davidson/dyna-super-glide-custom-2012-810047-0/",
+      "ano": 2012,
+      "marca": "HARLEY-DAVIDSON"
+    },
+    {
+      "vehicleId": "harley-davidson-dyna-super-glide-custom-2013-gasolina",
+      "fipeCodigo": "810047-0",
+      "displayName": "HARLEY-DAVIDSON DYNA SUPER GLIDE CUSTOM",
+      "valorAtual": 48697,
+      "canonicalPath": "/fipe/harley-davidson/dyna-super-glide-custom-2013-810047-0/",
+      "ano": 2013,
+      "marca": "HARLEY-DAVIDSON"
+    },
+    {
+      "vehicleId": "harley-davidson-dyna-super-glide-custom-2014-gasolina",
+      "fipeCodigo": "810047-0",
+      "displayName": "HARLEY-DAVIDSON DYNA SUPER GLIDE CUSTOM",
+      "valorAtual": 49915,
+      "canonicalPath": "/fipe/harley-davidson/dyna-super-glide-custom-2014-810047-0/",
+      "ano": 2014,
+      "marca": "HARLEY-DAVIDSON"
+    },
+    {
+      "vehicleId": "harley-davidson-dyna-super-glide-custom-110-th-edition-2013-gasolina",
+      "fipeCodigo": "810063-2",
+      "displayName": "HARLEY-DAVIDSON DYNA SUPER GLIDE CUSTOM 110 th EDITION",
+      "valorAtual": 51790,
+      "canonicalPath": "/fipe/harley-davidson/dyna-super-glide-custom-110-th-edition-2013-810063-2/",
+      "ano": 2013,
+      "marca": "HARLEY-DAVIDSON"
+    }
+  ],
+  "stats": {
+    "total": 11
+  },
+  "meta": {
+    "geracaoId": "dyna-2"
+  }
+}

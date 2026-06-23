@@ -1,0 +1,48 @@
+{
+  "tipo": "geracao",
+  "slug": "745le-1",
+  "canonicalPath": "/geracao/bmw/745le-1/",
+  "titulo": "Geracao 745le-1",
+  "descricao": "3 veiculos da geracao 745le-1.",
+  "seo": {
+    "title": "Geracao 745le-1 - Precos FIPE",
+    "description": "Veiculos da geracao 745le-1 na Tabela FIPE.",
+    "h1": "Geracao 745le-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/bmw/745le-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "bmw-745le-m-sport-sedan-3-0-v6-aut-hib-2020-hibrido",
+      "fipeCodigo": "009257-6",
+      "displayName": "BMW 745Le M Sport Sedan 3.0 V6 Aut. (Híb.)",
+      "valorAtual": 381187,
+      "canonicalPath": "/fipe/bmw/745le-m-sport-sedan-3-0-v6-aut-hib-2020-009257-6/",
+      "ano": 2020,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-745le-m-sport-sedan-3-0-v6-aut-hib-2021-hibrido",
+      "fipeCodigo": "009257-6",
+      "displayName": "BMW 745Le M Sport Sedan 3.0 V6 Aut. (Híb.)",
+      "valorAtual": 442089,
+      "canonicalPath": "/fipe/bmw/745le-m-sport-sedan-3-0-v6-aut-hib-2021-009257-6/",
+      "ano": 2021,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-745le-m-sport-sedan-3-0-v6-aut-hib-2022-hibrido",
+      "fipeCodigo": "009257-6",
+      "displayName": "BMW 745Le M Sport Sedan 3.0 V6 Aut. (Híb.)",
+      "valorAtual": 453142,
+      "canonicalPath": "/fipe/bmw/745le-m-sport-sedan-3-0-v6-aut-hib-2022-009257-6/",
+      "ano": 2022,
+      "marca": "BMW"
+    }
+  ],
+  "stats": {
+    "total": 3
+  },
+  "meta": {
+    "geracaoId": "745le-1"
+  }
+}

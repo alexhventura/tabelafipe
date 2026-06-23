@@ -1,0 +1,57 @@
+{
+  "tipo": "geracao",
+  "slug": "530-1",
+  "canonicalPath": "/geracao/lifan/530-1/",
+  "titulo": "Geracao 530-1",
+  "descricao": "4 veiculos da geracao 530-1.",
+  "seo": {
+    "title": "Geracao 530-1 - Precos FIPE",
+    "description": "Veiculos da geracao 530-1 na Tabela FIPE.",
+    "h1": "Geracao 530-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/lifan/530-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "lifan-530-1-5-16v-103cv-4p-2015-gasolina",
+      "fipeCodigo": "077005-1",
+      "displayName": "LIFAN 530 1.5 16V 103cv 4p",
+      "valorAtual": 24229,
+      "canonicalPath": "/fipe/lifan/530-1-5-16v-103cv-4p-2015-077005-1/",
+      "ano": 2015,
+      "marca": "LIFAN"
+    },
+    {
+      "vehicleId": "lifan-530-1-5-16v-103cv-4p-2016-gasolina",
+      "fipeCodigo": "077005-1",
+      "displayName": "LIFAN 530 1.5 16V 103cv 4p",
+      "valorAtual": 25442,
+      "canonicalPath": "/fipe/lifan/530-1-5-16v-103cv-4p-2016-077005-1/",
+      "ano": 2016,
+      "marca": "LIFAN"
+    },
+    {
+      "vehicleId": "lifan-530-talent-1-5-16v-103cv-4p-2015-gasolina",
+      "fipeCodigo": "077006-0",
+      "displayName": "LIFAN 530 TALENT 1.5 16V 103cv 4p",
+      "valorAtual": 19944,
+      "canonicalPath": "/fipe/lifan/530-talent-1-5-16v-103cv-4p-2015-077006-0/",
+      "ano": 2015,
+      "marca": "LIFAN"
+    },
+    {
+      "vehicleId": "lifan-530-talent-1-5-16v-103cv-4p-2016-gasolina",
+      "fipeCodigo": "077006-0",
+      "displayName": "LIFAN 530 TALENT 1.5 16V 103cv 4p",
+      "valorAtual": 24220,
+      "canonicalPath": "/fipe/lifan/530-talent-1-5-16v-103cv-4p-2016-077006-0/",
+      "ano": 2016,
+      "marca": "LIFAN"
+    }
+  ],
+  "stats": {
+    "total": 4
+  },
+  "meta": {
+    "geracaoId": "530-1"
+  }
+}

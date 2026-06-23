@@ -1,0 +1,66 @@
+{
+  "tipo": "geracao",
+  "slug": "utility-1",
+  "canonicalPath": "/geracao/chana/utility-1/",
+  "titulo": "Geracao utility-1",
+  "descricao": "5 veiculos da geracao utility-1.",
+  "seo": {
+    "title": "Geracao utility-1 - Precos FIPE",
+    "description": "Veiculos da geracao utility-1 na Tabela FIPE.",
+    "h1": "Geracao utility-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/chana/utility-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "chana-utility-1-0-8v-53cv-furgao-2005-gasolina",
+      "fipeCodigo": "064005-0",
+      "displayName": "CHANA Utility 1.0 8V 53cv  (Furgão)",
+      "valorAtual": 8592,
+      "canonicalPath": "/fipe/chana/utility-1-0-8v-53cv-furgao-2005-064005-0/",
+      "ano": 2005,
+      "marca": "CHANA"
+    },
+    {
+      "vehicleId": "chana-utility-1-0-8v-53cv-furgao-2006-gasolina",
+      "fipeCodigo": "064005-0",
+      "displayName": "CHANA Utility 1.0 8V 53cv  (Furgão)",
+      "valorAtual": 8807,
+      "canonicalPath": "/fipe/chana/utility-1-0-8v-53cv-furgao-2006-064005-0/",
+      "ano": 2006,
+      "marca": "CHANA"
+    },
+    {
+      "vehicleId": "chana-utility-1-0-8v-53cv-furgao-2007-gasolina",
+      "fipeCodigo": "064005-0",
+      "displayName": "CHANA Utility 1.0 8V 53cv  (Furgão)",
+      "valorAtual": 9708,
+      "canonicalPath": "/fipe/chana/utility-1-0-8v-53cv-furgao-2007-064005-0/",
+      "ano": 2007,
+      "marca": "CHANA"
+    },
+    {
+      "vehicleId": "chana-utility-1-0-8v-53cv-furgao-2008-gasolina",
+      "fipeCodigo": "064005-0",
+      "displayName": "CHANA Utility 1.0 8V 53cv  (Furgão)",
+      "valorAtual": 10603,
+      "canonicalPath": "/fipe/chana/utility-1-0-8v-53cv-furgao-2008-064005-0/",
+      "ano": 2008,
+      "marca": "CHANA"
+    },
+    {
+      "vehicleId": "chana-utility-1-0-8v-53cv-furgao-2009-gasolina",
+      "fipeCodigo": "064005-0",
+      "displayName": "CHANA Utility 1.0 8V 53cv  (Furgão)",
+      "valorAtual": 11406,
+      "canonicalPath": "/fipe/chana/utility-1-0-8v-53cv-furgao-2009-064005-0/",
+      "ano": 2009,
+      "marca": "CHANA"
+    }
+  ],
+  "stats": {
+    "total": 5
+  },
+  "meta": {
+    "geracaoId": "utility-1"
+  }
+}

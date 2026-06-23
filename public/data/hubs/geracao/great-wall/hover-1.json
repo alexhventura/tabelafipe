@@ -1,0 +1,48 @@
+{
+  "tipo": "geracao",
+  "slug": "hover-1",
+  "canonicalPath": "/geracao/great-wall/hover-1/",
+  "titulo": "Geracao hover-1",
+  "descricao": "3 veiculos da geracao hover-1.",
+  "seo": {
+    "title": "Geracao hover-1 - Precos FIPE",
+    "description": "Veiculos da geracao hover-1 na Tabela FIPE.",
+    "h1": "Geracao hover-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/great-wall/hover-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "great-wall-hover-cuv-2-4-16v-4wd-5p-mec-2007-gasolina",
+      "fipeCodigo": "069002-3",
+      "displayName": "GREAT WALL HOVER CUV 2.4 16V 4WD 5p Mec.",
+      "valorAtual": 32540,
+      "canonicalPath": "/fipe/great-wall/hover-cuv-2-4-16v-4wd-5p-mec-2007-069002-3/",
+      "ano": 2007,
+      "marca": "GREAT WALL"
+    },
+    {
+      "vehicleId": "great-wall-hover-cuv-2-4-16v-4wd-5p-mec-2008-gasolina",
+      "fipeCodigo": "069002-3",
+      "displayName": "GREAT WALL HOVER CUV 2.4 16V 4WD 5p Mec.",
+      "valorAtual": 34355,
+      "canonicalPath": "/fipe/great-wall/hover-cuv-2-4-16v-4wd-5p-mec-2008-069002-3/",
+      "ano": 2008,
+      "marca": "GREAT WALL"
+    },
+    {
+      "vehicleId": "great-wall-hover-cuv-2-4-16v-5p-mec-2008-gasolina",
+      "fipeCodigo": "069001-5",
+      "displayName": "GREAT WALL HOVER CUV 2.4 16V 5p Mec.",
+      "valorAtual": 34203,
+      "canonicalPath": "/fipe/great-wall/hover-cuv-2-4-16v-5p-mec-2008-069001-5/",
+      "ano": 2008,
+      "marca": "GREAT WALL"
+    }
+  ],
+  "stats": {
+    "total": 3
+  },
+  "meta": {
+    "geracaoId": "hover-1"
+  }
+}

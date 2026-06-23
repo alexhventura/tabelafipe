@@ -1,0 +1,42 @@
+{
+  "tipo": "familia",
+  "slug": "buxy",
+  "canonicalPath": "/fipe/peugeot/buxy/",
+  "titulo": "PEUGEOT buxy - Tabela FIPE",
+  "descricao": "2 versoes e anos do PEUGEOT buxy na Tabela FIPE.",
+  "seo": {
+    "title": "PEUGEOT buxy - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes PEUGEOT buxy. 2 veiculos indexados.",
+    "h1": "PEUGEOT buxy - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/peugeot/buxy/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "peugeot-buxy-50-1998-gasolina",
+      "fipeCodigo": "821001-2",
+      "displayName": "PEUGEOT BUXY 50",
+      "valorAtual": 1378,
+      "canonicalPath": "/fipe/peugeot/buxy-50-1998-821001-2/",
+      "ano": 1998,
+      "marca": "PEUGEOT"
+    },
+    {
+      "vehicleId": "peugeot-buxy-50-1997-gasolina",
+      "fipeCodigo": "821001-2",
+      "displayName": "PEUGEOT BUXY 50",
+      "valorAtual": 1152,
+      "canonicalPath": "/fipe/peugeot/buxy-50-1997-821001-2/",
+      "ano": 1997,
+      "marca": "PEUGEOT"
+    }
+  ],
+  "stats": {
+    "total": 2,
+    "precoMin": 1152,
+    "precoMax": 1378,
+    "anos": [
+      1998,
+      1997
+    ]
+  }
+}

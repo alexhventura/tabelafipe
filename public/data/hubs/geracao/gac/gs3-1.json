@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "gs3-1",
+  "canonicalPath": "/geracao/gac/gs3-1/",
+  "titulo": "Geracao gs3-1",
+  "descricao": "2 veiculos da geracao gs3-1.",
+  "seo": {
+    "title": "Geracao gs3-1 - Precos FIPE",
+    "description": "Veiculos da geracao gs3-1 na Tabela FIPE.",
+    "h1": "Geracao gs3-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/gac/gs3-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "gac-gs3-elite-1-5-16v-turbo-aut-0-gasolina",
+      "fipeCodigo": "304010-0",
+      "displayName": "GAC GS3 Elite 1,5 16V Turbo Aut.",
+      "valorAtual": 159990,
+      "canonicalPath": "/fipe/gac/gs3-elite-1-5-16v-turbo-aut-0-304010-0/",
+      "ano": 0,
+      "marca": "GAC"
+    },
+    {
+      "vehicleId": "gac-gs3-premium-1-5-16v-turbo-aut-0-gasolina",
+      "fipeCodigo": "304009-7",
+      "displayName": "GAC GS3 Premium 1,5 16V Turbo Aut.",
+      "valorAtual": 139990,
+      "canonicalPath": "/fipe/gac/gs3-premium-1-5-16v-turbo-aut-0-304009-7/",
+      "ano": 0,
+      "marca": "GAC"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "gs3-1"
+  }
+}

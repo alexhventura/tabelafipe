@@ -1,0 +1,48 @@
+{
+  "tipo": "geracao",
+  "slug": "durango-1",
+  "canonicalPath": "/geracao/dodge/durango-1/",
+  "titulo": "Geracao durango-1",
+  "descricao": "3 veiculos da geracao durango-1.",
+  "seo": {
+    "title": "Geracao durango-1 - Precos FIPE",
+    "description": "Veiculos da geracao durango-1 na Tabela FIPE.",
+    "h1": "Geracao durango-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/dodge/durango-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "dodge-durango-citadel-3-6-24v-4x4-aut-2013-gasolina",
+      "fipeCodigo": "013034-6",
+      "displayName": "Dodge Durango Citadel 3.6 24V 4x4 Aut.",
+      "valorAtual": 92195,
+      "canonicalPath": "/fipe/dodge/durango-citadel-3-6-24v-4x4-aut-2013-013034-6/",
+      "ano": 2013,
+      "marca": "Dodge"
+    },
+    {
+      "vehicleId": "dodge-durango-crew-3-6-24v-4x4-aut-2012-gasolina",
+      "fipeCodigo": "013035-4",
+      "displayName": "Dodge Durango Crew 3.6 24V 4x4 Aut.",
+      "valorAtual": 82125,
+      "canonicalPath": "/fipe/dodge/durango-crew-3-6-24v-4x4-aut-2012-013035-4/",
+      "ano": 2012,
+      "marca": "Dodge"
+    },
+    {
+      "vehicleId": "dodge-durango-crew-3-6-24v-4x4-aut-2013-gasolina",
+      "fipeCodigo": "013035-4",
+      "displayName": "Dodge Durango Crew 3.6 24V 4x4 Aut.",
+      "valorAtual": 84311,
+      "canonicalPath": "/fipe/dodge/durango-crew-3-6-24v-4x4-aut-2013-013035-4/",
+      "ano": 2013,
+      "marca": "Dodge"
+    }
+  ],
+  "stats": {
+    "total": 3
+  },
+  "meta": {
+    "geracaoId": "durango-1"
+  }
+}

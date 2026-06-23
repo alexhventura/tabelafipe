@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "gold-3",
+  "canonicalPath": "/geracao/honda/gold-3/",
+  "titulo": "Geracao gold-3",
+  "descricao": "2 veiculos da geracao gold-3.",
+  "seo": {
+    "title": "Geracao gold-3 - Precos FIPE",
+    "description": "Veiculos da geracao gold-3 na Tabela FIPE.",
+    "h1": "Geracao gold-3",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/honda/gold-3/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "honda-gold-wing-1500-1800-2019-gasolina",
+      "fipeCodigo": "811027-1",
+      "displayName": "HONDA GOLD WING 1500/ 1800",
+      "valorAtual": 165152,
+      "canonicalPath": "/fipe/honda/gold-wing-1500-1800-2019-811027-1/",
+      "ano": 2019,
+      "marca": "HONDA"
+    },
+    {
+      "vehicleId": "honda-gold-wing-tour-1800-2019-gasolina",
+      "fipeCodigo": "811155-3",
+      "displayName": "HONDA GOLD WING TOUR 1800",
+      "valorAtual": 171650,
+      "canonicalPath": "/fipe/honda/gold-wing-tour-1800-2019-811155-3/",
+      "ano": 2019,
+      "marca": "HONDA"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "gold-3"
+  }
+}

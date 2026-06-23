@@ -1,0 +1,42 @@
+{
+  "tipo": "familia",
+  "slug": "change",
+  "canonicalPath": "/fipe/super-soco/change/",
+  "titulo": "SUPER SOCO change - Tabela FIPE",
+  "descricao": "2 versoes e anos do SUPER SOCO change na Tabela FIPE.",
+  "seo": {
+    "title": "SUPER SOCO change - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes SUPER SOCO change. 2 veiculos indexados.",
+    "h1": "SUPER SOCO change - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/super-soco/change/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "super-soco-change-urban-1200w-eletrica-2021-eletrico",
+      "fipeCodigo": "891002-2",
+      "displayName": "SUPER SOCO Change Urban 1200W (ELÉTRICA)",
+      "valorAtual": 17410,
+      "canonicalPath": "/fipe/super-soco/change-urban-1200w-eletrica-2021-891002-2/",
+      "ano": 2021,
+      "marca": "SUPER SOCO"
+    },
+    {
+      "vehicleId": "super-soco-change-urban-1200w-eletrica-2020-eletrico",
+      "fipeCodigo": "891002-2",
+      "displayName": "SUPER SOCO Change Urban 1200W (ELÉTRICA)",
+      "valorAtual": 16926,
+      "canonicalPath": "/fipe/super-soco/change-urban-1200w-eletrica-2020-891002-2/",
+      "ano": 2020,
+      "marca": "SUPER SOCO"
+    }
+  ],
+  "stats": {
+    "total": 2,
+    "precoMin": 16926,
+    "precoMax": 17410,
+    "anos": [
+      2021,
+      2020
+    ]
+  }
+}

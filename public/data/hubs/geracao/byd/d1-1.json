@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "d1-1",
+  "canonicalPath": "/geracao/byd/d1-1/",
+  "titulo": "Geracao d1-1",
+  "descricao": "2 veiculos da geracao d1-1.",
+  "seo": {
+    "title": "Geracao d1-1 - Precos FIPE",
+    "description": "Veiculos da geracao d1-1 na Tabela FIPE.",
+    "h1": "Geracao d1-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/byd/d1-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "byd-d1-ev-eletrico-2022-eletrico",
+      "fipeCodigo": "095004-1",
+      "displayName": "BYD D1 EV (Elétrico)",
+      "valorAtual": 162268,
+      "canonicalPath": "/fipe/byd/d1-ev-eletrico-2022-095004-1/",
+      "ano": 2022,
+      "marca": "BYD"
+    },
+    {
+      "vehicleId": "byd-d1-ev-eletrico-2023-eletrico",
+      "fipeCodigo": "095004-1",
+      "displayName": "BYD D1 EV (Elétrico)",
+      "valorAtual": 167223,
+      "canonicalPath": "/fipe/byd/d1-ev-eletrico-2023-095004-1/",
+      "ano": 2023,
+      "marca": "BYD"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "d1-1"
+  }
+}

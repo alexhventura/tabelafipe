@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "323-1",
+  "canonicalPath": "/geracao/mazda/323-1/",
+  "titulo": "Geracao 323-1",
+  "descricao": "2 veiculos da geracao 323-1.",
+  "seo": {
+    "title": "Geracao 323-1 - Precos FIPE",
+    "description": "Veiculos da geracao 323-1 na Tabela FIPE.",
+    "h1": "Geracao 323-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/mazda/323-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "mazda-323-1-6-16v-1994-gasolina",
+      "fipeCodigo": "020018-2",
+      "displayName": "Mazda 323 1.6 16V",
+      "valorAtual": 4598,
+      "canonicalPath": "/fipe/mazda/323-1-6-16v-1994-020018-2/",
+      "ano": 1994,
+      "marca": "Mazda"
+    },
+    {
+      "vehicleId": "mazda-323-1-6-16v-1995-gasolina",
+      "fipeCodigo": "020018-2",
+      "displayName": "Mazda 323 1.6 16V",
+      "valorAtual": 5970,
+      "canonicalPath": "/fipe/mazda/323-1-6-16v-1995-020018-2/",
+      "ano": 1995,
+      "marca": "Mazda"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "323-1"
+  }
+}

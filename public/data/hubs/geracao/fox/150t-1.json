@@ -1,0 +1,48 @@
+{
+  "tipo": "geracao",
+  "slug": "150t-1",
+  "canonicalPath": "/geracao/fox/150t-1/",
+  "titulo": "Geracao 150t-1",
+  "descricao": "3 veiculos da geracao 150t-1.",
+  "seo": {
+    "title": "Geracao 150t-1 - Precos FIPE",
+    "description": "Veiculos da geracao 150t-1 na Tabela FIPE.",
+    "h1": "Geracao 150t-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/fox/150t-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "fox-150t-3-adventure-2007-gasolina",
+      "fipeCodigo": "852001-1",
+      "displayName": "FOX 150T-3 Adventure",
+      "valorAtual": 3138,
+      "canonicalPath": "/fipe/fox/150t-3-adventure-2007-852001-1/",
+      "ano": 2007,
+      "marca": "FOX"
+    },
+    {
+      "vehicleId": "fox-150t-3-adventure-2008-gasolina",
+      "fipeCodigo": "852001-1",
+      "displayName": "FOX 150T-3 Adventure",
+      "valorAtual": 3328,
+      "canonicalPath": "/fipe/fox/150t-3-adventure-2008-852001-1/",
+      "ano": 2008,
+      "marca": "FOX"
+    },
+    {
+      "vehicleId": "fox-150t-3-adventure-2009-gasolina",
+      "fipeCodigo": "852001-1",
+      "displayName": "FOX 150T-3 Adventure",
+      "valorAtual": 3474,
+      "canonicalPath": "/fipe/fox/150t-3-adventure-2009-852001-1/",
+      "ano": 2009,
+      "marca": "FOX"
+    }
+  ],
+  "stats": {
+    "total": 3
+  },
+  "meta": {
+    "geracaoId": "150t-1"
+  }
+}

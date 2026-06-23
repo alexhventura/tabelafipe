@@ -1,0 +1,57 @@
+{
+  "tipo": "geracao",
+  "slug": "gladius-1",
+  "canonicalPath": "/geracao/suzuki/gladius-1/",
+  "titulo": "Geracao gladius-1",
+  "descricao": "4 veiculos da geracao gladius-1.",
+  "seo": {
+    "title": "Geracao gladius-1 - Precos FIPE",
+    "description": "Veiculos da geracao gladius-1 na Tabela FIPE.",
+    "h1": "Geracao gladius-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/suzuki/gladius-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "suzuki-gladius-650-2013-gasolina",
+      "fipeCodigo": "825066-9",
+      "displayName": "SUZUKI GLADIUS 650",
+      "valorAtual": 20662,
+      "canonicalPath": "/fipe/suzuki/gladius-650-2013-825066-9/",
+      "ano": 2013,
+      "marca": "SUZUKI"
+    },
+    {
+      "vehicleId": "suzuki-gladius-650-2014-gasolina",
+      "fipeCodigo": "825066-9",
+      "displayName": "SUZUKI GLADIUS 650",
+      "valorAtual": 21179,
+      "canonicalPath": "/fipe/suzuki/gladius-650-2014-825066-9/",
+      "ano": 2014,
+      "marca": "SUZUKI"
+    },
+    {
+      "vehicleId": "suzuki-gladius-650-2015-gasolina",
+      "fipeCodigo": "825066-9",
+      "displayName": "SUZUKI GLADIUS 650",
+      "valorAtual": 25487,
+      "canonicalPath": "/fipe/suzuki/gladius-650-2015-825066-9/",
+      "ano": 2015,
+      "marca": "SUZUKI"
+    },
+    {
+      "vehicleId": "suzuki-gladius-650-2016-gasolina",
+      "fipeCodigo": "825066-9",
+      "displayName": "SUZUKI GLADIUS 650",
+      "valorAtual": 26125,
+      "canonicalPath": "/fipe/suzuki/gladius-650-2016-825066-9/",
+      "ano": 2016,
+      "marca": "SUZUKI"
+    }
+  ],
+  "stats": {
+    "total": 4
+  },
+  "meta": {
+    "geracaoId": "gladius-1"
+  }
+}

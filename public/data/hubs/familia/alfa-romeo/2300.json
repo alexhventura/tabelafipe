@@ -1,0 +1,42 @@
+{
+  "tipo": "familia",
+  "slug": "2300",
+  "canonicalPath": "/fipe/alfa-romeo/2300/",
+  "titulo": "Alfa Romeo 2300 - Tabela FIPE",
+  "descricao": "2 versoes e anos do Alfa Romeo 2300 na Tabela FIPE.",
+  "seo": {
+    "title": "Alfa Romeo 2300 - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes Alfa Romeo 2300. 2 veiculos indexados.",
+    "h1": "Alfa Romeo 2300 - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/alfa-romeo/2300/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "alfa-romeo-2300-ti-ti-4-1986-gasolina",
+      "fipeCodigo": "006013-5",
+      "displayName": "Alfa Romeo 2300 TI/TI-4",
+      "valorAtual": 7866,
+      "canonicalPath": "/fipe/alfa-romeo/2300-ti-ti-4-1986-006013-5/",
+      "ano": 1986,
+      "marca": "Alfa Romeo"
+    },
+    {
+      "vehicleId": "alfa-romeo-2300-ti-ti-4-1985-gasolina",
+      "fipeCodigo": "006013-5",
+      "displayName": "Alfa Romeo 2300 TI/TI-4",
+      "valorAtual": 6976,
+      "canonicalPath": "/fipe/alfa-romeo/2300-ti-ti-4-1985-006013-5/",
+      "ano": 1985,
+      "marca": "Alfa Romeo"
+    }
+  ],
+  "stats": {
+    "total": 2,
+    "precoMin": 6976,
+    "precoMax": 7866,
+    "anos": [
+      1986,
+      1985
+    ]
+  }
+}

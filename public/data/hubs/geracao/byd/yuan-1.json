@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "yuan-1",
+  "canonicalPath": "/geracao/byd/yuan-1/",
+  "titulo": "Geracao yuan-1",
+  "descricao": "2 veiculos da geracao yuan-1.",
+  "seo": {
+    "title": "Geracao yuan-1 - Precos FIPE",
+    "description": "Veiculos da geracao yuan-1 na Tabela FIPE.",
+    "h1": "Geracao yuan-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/byd/yuan-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "byd-yuan-plus-eletrico-0-eletrico",
+      "fipeCodigo": "095006-8",
+      "displayName": "BYD Yuan Plus (Elétrico)",
+      "valorAtual": 236990,
+      "canonicalPath": "/fipe/byd/yuan-plus-eletrico-0-095006-8/",
+      "ano": 0,
+      "marca": "BYD"
+    },
+    {
+      "vehicleId": "byd-yuan-pro-eletrico-0-eletrico",
+      "fipeCodigo": "095015-7",
+      "displayName": "BYD Yuan Pro (Elétrico)",
+      "valorAtual": 183323,
+      "canonicalPath": "/fipe/byd/yuan-pro-eletrico-0-095015-7/",
+      "ano": 0,
+      "marca": "BYD"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "yuan-1"
+  }
+}

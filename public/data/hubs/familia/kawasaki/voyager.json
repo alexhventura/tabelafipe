@@ -1,0 +1,52 @@
+{
+  "tipo": "familia",
+  "slug": "voyager",
+  "canonicalPath": "/fipe/kawasaki/voyager/",
+  "titulo": "KAWASAKI voyager - Tabela FIPE",
+  "descricao": "3 versoes e anos do KAWASAKI voyager na Tabela FIPE.",
+  "seo": {
+    "title": "KAWASAKI voyager - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes KAWASAKI voyager. 3 veiculos indexados.",
+    "h1": "KAWASAKI voyager - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/kawasaki/voyager/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "kawasaki-voyager-1200cc-1999-gasolina",
+      "fipeCodigo": "817015-0",
+      "displayName": "KAWASAKI VOYAGER 1200cc",
+      "valorAtual": 31387,
+      "canonicalPath": "/fipe/kawasaki/voyager-1200cc-1999-817015-0/",
+      "ano": 1999,
+      "marca": "KAWASAKI"
+    },
+    {
+      "vehicleId": "kawasaki-voyager-1200cc-1997-gasolina",
+      "fipeCodigo": "817015-0",
+      "displayName": "KAWASAKI VOYAGER 1200cc",
+      "valorAtual": 30210,
+      "canonicalPath": "/fipe/kawasaki/voyager-1200cc-1997-817015-0/",
+      "ano": 1997,
+      "marca": "KAWASAKI"
+    },
+    {
+      "vehicleId": "kawasaki-voyager-1200cc-1996-gasolina",
+      "fipeCodigo": "817015-0",
+      "displayName": "KAWASAKI VOYAGER 1200cc",
+      "valorAtual": 29216,
+      "canonicalPath": "/fipe/kawasaki/voyager-1200cc-1996-817015-0/",
+      "ano": 1996,
+      "marca": "KAWASAKI"
+    }
+  ],
+  "stats": {
+    "total": 3,
+    "precoMin": 29216,
+    "precoMax": 31387,
+    "anos": [
+      1999,
+      1997,
+      1996
+    ]
+  }
+}

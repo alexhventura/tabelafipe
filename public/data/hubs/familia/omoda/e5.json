@@ -1,0 +1,42 @@
+{
+  "tipo": "familia",
+  "slug": "e5",
+  "canonicalPath": "/fipe/omoda/e5/",
+  "titulo": "Omoda e5 - Tabela FIPE",
+  "descricao": "2 versoes e anos do Omoda e5 na Tabela FIPE.",
+  "seo": {
+    "title": "Omoda e5 - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes Omoda e5. 2 veiculos indexados.",
+    "h1": "Omoda e5 - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/omoda/e5/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "omoda-e5-fwd-eletrico-2026-eletrico",
+      "fipeCodigo": "302001-0",
+      "displayName": "Omoda E5 FWD (Elétrico)",
+      "valorAtual": 179242,
+      "canonicalPath": "/fipe/omoda/e5-fwd-eletrico-2026-302001-0/",
+      "ano": 2026,
+      "marca": "Omoda"
+    },
+    {
+      "vehicleId": "omoda-e5-fwd-eletrico-0-eletrico",
+      "fipeCodigo": "302001-0",
+      "displayName": "Omoda E5 FWD (Elétrico)",
+      "valorAtual": 211790,
+      "canonicalPath": "/fipe/omoda/e5-fwd-eletrico-0-302001-0/",
+      "ano": 0,
+      "marca": "Omoda"
+    }
+  ],
+  "stats": {
+    "total": 2,
+    "precoMin": 179242,
+    "precoMax": 211790,
+    "anos": [
+      2026,
+      0
+    ]
+  }
+}

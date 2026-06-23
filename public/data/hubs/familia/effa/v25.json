@@ -1,0 +1,121 @@
+{
+  "tipo": "familia",
+  "slug": "v25",
+  "canonicalPath": "/fipe/effa/v25/",
+  "titulo": "EFFA v25 - Tabela FIPE",
+  "descricao": "10 versoes e anos do EFFA v25 na Tabela FIPE.",
+  "seo": {
+    "title": "EFFA v25 - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes EFFA v25. 10 veiculos indexados.",
+    "h1": "EFFA v25 - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/effa/v25/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "effa-v25-furgao-1-5-16v-5p-2027-gasolina",
+      "fipeCodigo": "066019-1",
+      "displayName": "EFFA V25 Furgão 1.5 16V 5p",
+      "valorAtual": 111201,
+      "canonicalPath": "/fipe/effa/v25-furgao-1-5-16v-5p-2027-066019-1/",
+      "ano": 2027,
+      "marca": "EFFA"
+    },
+    {
+      "vehicleId": "effa-v25-furgao-1-5-16v-5p-2026-gasolina",
+      "fipeCodigo": "066019-1",
+      "displayName": "EFFA V25 Furgão 1.5 16V 5p",
+      "valorAtual": 107854,
+      "canonicalPath": "/fipe/effa/v25-furgao-1-5-16v-5p-2026-066019-1/",
+      "ano": 2026,
+      "marca": "EFFA"
+    },
+    {
+      "vehicleId": "effa-v25-furgao-1-3-16v-5p-2025-gasolina",
+      "fipeCodigo": "066016-7",
+      "displayName": "EFFA V25 Furgão 1.3 16V 5p",
+      "valorAtual": 101850,
+      "canonicalPath": "/fipe/effa/v25-furgao-1-3-16v-5p-2025-066016-7/",
+      "ano": 2025,
+      "marca": "EFFA"
+    },
+    {
+      "vehicleId": "effa-v25-furgao-1-3-16v-5p-2024-gasolina",
+      "fipeCodigo": "066016-7",
+      "displayName": "EFFA V25 Furgão 1.3 16V 5p",
+      "valorAtual": 81456,
+      "canonicalPath": "/fipe/effa/v25-furgao-1-3-16v-5p-2024-066016-7/",
+      "ano": 2024,
+      "marca": "EFFA"
+    },
+    {
+      "vehicleId": "effa-v25-furgao-1-3-16v-5p-2023-gasolina",
+      "fipeCodigo": "066016-7",
+      "displayName": "EFFA V25 Furgão 1.3 16V 5p",
+      "valorAtual": 73562,
+      "canonicalPath": "/fipe/effa/v25-furgao-1-3-16v-5p-2023-066016-7/",
+      "ano": 2023,
+      "marca": "EFFA"
+    },
+    {
+      "vehicleId": "effa-v25-furgao-1-3-16v-5p-2022-gasolina",
+      "fipeCodigo": "066016-7",
+      "displayName": "EFFA V25 Furgão 1.3 16V 5p",
+      "valorAtual": 71302,
+      "canonicalPath": "/fipe/effa/v25-furgao-1-3-16v-5p-2022-066016-7/",
+      "ano": 2022,
+      "marca": "EFFA"
+    },
+    {
+      "vehicleId": "effa-v25-furgao-1-3-16v-5p-2021-gasolina",
+      "fipeCodigo": "066016-7",
+      "displayName": "EFFA V25 Furgão 1.3 16V 5p",
+      "valorAtual": 69562,
+      "canonicalPath": "/fipe/effa/v25-furgao-1-3-16v-5p-2021-066016-7/",
+      "ano": 2021,
+      "marca": "EFFA"
+    },
+    {
+      "vehicleId": "effa-v25-furgao-1-3-16v-5p-2020-gasolina",
+      "fipeCodigo": "066016-7",
+      "displayName": "EFFA V25 Furgão 1.3 16V 5p",
+      "valorAtual": 59355,
+      "canonicalPath": "/fipe/effa/v25-furgao-1-3-16v-5p-2020-066016-7/",
+      "ano": 2020,
+      "marca": "EFFA"
+    },
+    {
+      "vehicleId": "effa-v25-furgao-1-3-16v-5p-0-gasolina",
+      "fipeCodigo": "066016-7",
+      "displayName": "EFFA V25 Furgão 1.3 16V 5p",
+      "valorAtual": 114960,
+      "canonicalPath": "/fipe/effa/v25-furgao-1-3-16v-5p-0-066016-7/",
+      "ano": 0,
+      "marca": "EFFA"
+    },
+    {
+      "vehicleId": "effa-v25-furgao-1-5-16v-5p-0-gasolina",
+      "fipeCodigo": "066019-1",
+      "displayName": "EFFA V25 Furgão 1.5 16V 5p",
+      "valorAtual": 124470,
+      "canonicalPath": "/fipe/effa/v25-furgao-1-5-16v-5p-0-066019-1/",
+      "ano": 0,
+      "marca": "EFFA"
+    }
+  ],
+  "stats": {
+    "total": 10,
+    "precoMin": 59355,
+    "precoMax": 124470,
+    "anos": [
+      2027,
+      2026,
+      2025,
+      2024,
+      2023,
+      2022,
+      2021,
+      2020,
+      0
+    ]
+  }
+}

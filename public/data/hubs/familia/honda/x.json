@@ -1,0 +1,132 @@
+{
+  "tipo": "familia",
+  "slug": "x",
+  "canonicalPath": "/fipe/honda/x/",
+  "titulo": "HONDA x - Tabela FIPE",
+  "descricao": "11 versoes e anos do HONDA x na Tabela FIPE.",
+  "seo": {
+    "title": "HONDA x - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes HONDA x. 11 veiculos indexados.",
+    "h1": "HONDA x - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/honda/x/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "honda-x-adv-745cc-2026-gasolina",
+      "fipeCodigo": "811149-9",
+      "displayName": "HONDA X-ADV 745cc",
+      "valorAtual": 97433,
+      "canonicalPath": "/fipe/honda/x-adv-745cc-2026-811149-9/",
+      "ano": 2026,
+      "marca": "HONDA"
+    },
+    {
+      "vehicleId": "honda-x-adv-745cc-2025-gasolina",
+      "fipeCodigo": "811149-9",
+      "displayName": "HONDA X-ADV 745cc",
+      "valorAtual": 85584,
+      "canonicalPath": "/fipe/honda/x-adv-745cc-2025-811149-9/",
+      "ano": 2025,
+      "marca": "HONDA"
+    },
+    {
+      "vehicleId": "honda-x-adv-745cc-2024-gasolina",
+      "fipeCodigo": "811149-9",
+      "displayName": "HONDA X-ADV 745cc",
+      "valorAtual": 81314,
+      "canonicalPath": "/fipe/honda/x-adv-745cc-2024-811149-9/",
+      "ano": 2024,
+      "marca": "HONDA"
+    },
+    {
+      "vehicleId": "honda-x-adv-745cc-2023-gasolina",
+      "fipeCodigo": "811149-9",
+      "displayName": "HONDA X-ADV 745cc",
+      "valorAtual": 78711,
+      "canonicalPath": "/fipe/honda/x-adv-745cc-2023-811149-9/",
+      "ano": 2023,
+      "marca": "HONDA"
+    },
+    {
+      "vehicleId": "honda-x-adv-745cc-2022-gasolina",
+      "fipeCodigo": "811149-9",
+      "displayName": "HONDA X-ADV 745cc",
+      "valorAtual": 75810,
+      "canonicalPath": "/fipe/honda/x-adv-745cc-2022-811149-9/",
+      "ano": 2022,
+      "marca": "HONDA"
+    },
+    {
+      "vehicleId": "honda-x-adv-745cc-2021-gasolina",
+      "fipeCodigo": "811149-9",
+      "displayName": "HONDA X-ADV 745cc",
+      "valorAtual": 68612,
+      "canonicalPath": "/fipe/honda/x-adv-745cc-2021-811149-9/",
+      "ano": 2021,
+      "marca": "HONDA"
+    },
+    {
+      "vehicleId": "honda-x-adv-745cc-2020-gasolina",
+      "fipeCodigo": "811149-9",
+      "displayName": "HONDA X-ADV 745cc",
+      "valorAtual": 66257,
+      "canonicalPath": "/fipe/honda/x-adv-745cc-2020-811149-9/",
+      "ano": 2020,
+      "marca": "HONDA"
+    },
+    {
+      "vehicleId": "honda-x-adv-745cc-2019-gasolina",
+      "fipeCodigo": "811149-9",
+      "displayName": "HONDA X-ADV 745cc",
+      "valorAtual": 59873,
+      "canonicalPath": "/fipe/honda/x-adv-745cc-2019-811149-9/",
+      "ano": 2019,
+      "marca": "HONDA"
+    },
+    {
+      "vehicleId": "honda-x-adv-745cc-2018-gasolina",
+      "fipeCodigo": "811149-9",
+      "displayName": "HONDA X-ADV 745cc",
+      "valorAtual": 54050,
+      "canonicalPath": "/fipe/honda/x-adv-745cc-2018-811149-9/",
+      "ano": 2018,
+      "marca": "HONDA"
+    },
+    {
+      "vehicleId": "honda-x-adv-745cc-2017-gasolina",
+      "fipeCodigo": "811149-9",
+      "displayName": "HONDA X-ADV 745cc",
+      "valorAtual": 52712,
+      "canonicalPath": "/fipe/honda/x-adv-745cc-2017-811149-9/",
+      "ano": 2017,
+      "marca": "HONDA"
+    },
+    {
+      "vehicleId": "honda-x-adv-745cc-0-gasolina",
+      "fipeCodigo": "811149-9",
+      "displayName": "HONDA X-ADV 745cc",
+      "valorAtual": 106402,
+      "canonicalPath": "/fipe/honda/x-adv-745cc-0-811149-9/",
+      "ano": 0,
+      "marca": "HONDA"
+    }
+  ],
+  "stats": {
+    "total": 11,
+    "precoMin": 52712,
+    "precoMax": 106402,
+    "anos": [
+      2026,
+      2025,
+      2024,
+      2023,
+      2022,
+      2021,
+      2020,
+      2019,
+      2018,
+      2017,
+      0
+    ]
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "tipo": "familia",
+  "slug": "600lt",
+  "canonicalPath": "/fipe/mclaren/600lt/",
+  "titulo": "Mclaren 600lt - Tabela FIPE",
+  "descricao": "3 versoes e anos do Mclaren 600lt na Tabela FIPE.",
+  "seo": {
+    "title": "Mclaren 600lt - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes Mclaren 600lt. 3 veiculos indexados.",
+    "h1": "Mclaren 600lt - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/mclaren/600lt/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "mclaren-600lt-spider-3-8-bi-turbo-v8-2020-gasolina",
+      "fipeCodigo": "090010-9",
+      "displayName": "Mclaren 600LT Spider 3.8 Bi-Turbo V8",
+      "valorAtual": 2602412,
+      "canonicalPath": "/fipe/mclaren/600lt-spider-3-8-bi-turbo-v8-2020-090010-9/",
+      "ano": 2020,
+      "marca": "Mclaren"
+    },
+    {
+      "vehicleId": "mclaren-600lt-coupe-3-8-bi-turbo-v8-2019-gasolina",
+      "fipeCodigo": "090006-0",
+      "displayName": "Mclaren 600LT Coupe 3.8 Bi-Turbo V8",
+      "valorAtual": 2716000,
+      "canonicalPath": "/fipe/mclaren/600lt-coupe-3-8-bi-turbo-v8-2019-090006-0/",
+      "ano": 2019,
+      "marca": "Mclaren"
+    },
+    {
+      "vehicleId": "mclaren-600lt-spider-3-8-bi-turbo-v8-0-gasolina",
+      "fipeCodigo": "090010-9",
+      "displayName": "Mclaren 600LT Spider 3.8 Bi-Turbo V8",
+      "valorAtual": 2715263,
+      "canonicalPath": "/fipe/mclaren/600lt-spider-3-8-bi-turbo-v8-0-090010-9/",
+      "ano": 0,
+      "marca": "Mclaren"
+    }
+  ],
+  "stats": {
+    "total": 3,
+    "precoMin": 2602412,
+    "precoMax": 2716000,
+    "anos": [
+      2020,
+      2019,
+      0
+    ]
+  }
+}

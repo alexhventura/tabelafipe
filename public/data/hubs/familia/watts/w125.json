@@ -1,0 +1,62 @@
+{
+  "tipo": "familia",
+  "slug": "w125",
+  "canonicalPath": "/fipe/watts/w125/",
+  "titulo": "WATTS w125 - Tabela FIPE",
+  "descricao": "4 versoes e anos do WATTS w125 na Tabela FIPE.",
+  "seo": {
+    "title": "WATTS w125 - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes WATTS w125. 4 veiculos indexados.",
+    "h1": "WATTS w125 - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/watts/w125/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "watts-w125-3000w-eletrica-2025-eletrico",
+      "fipeCodigo": "894001-0",
+      "displayName": "WATTS W125 3000W (Elétrica)",
+      "valorAtual": 17805,
+      "canonicalPath": "/fipe/watts/w125-3000w-eletrica-2025-894001-0/",
+      "ano": 2025,
+      "marca": "WATTS"
+    },
+    {
+      "vehicleId": "watts-w125-3000w-eletrica-2023-eletrico",
+      "fipeCodigo": "894001-0",
+      "displayName": "WATTS W125 3000W (Elétrica)",
+      "valorAtual": 11892,
+      "canonicalPath": "/fipe/watts/w125-3000w-eletrica-2023-894001-0/",
+      "ano": 2023,
+      "marca": "WATTS"
+    },
+    {
+      "vehicleId": "watts-w125-3000w-eletrica-2022-eletrico",
+      "fipeCodigo": "894001-0",
+      "displayName": "WATTS W125 3000W (Elétrica)",
+      "valorAtual": 10782,
+      "canonicalPath": "/fipe/watts/w125-3000w-eletrica-2022-894001-0/",
+      "ano": 2022,
+      "marca": "WATTS"
+    },
+    {
+      "vehicleId": "watts-w125-3000w-eletrica-0-eletrico",
+      "fipeCodigo": "894001-0",
+      "displayName": "WATTS W125 3000W (Elétrica)",
+      "valorAtual": 23521,
+      "canonicalPath": "/fipe/watts/w125-3000w-eletrica-0-894001-0/",
+      "ano": 0,
+      "marca": "WATTS"
+    }
+  ],
+  "stats": {
+    "total": 4,
+    "precoMin": 10782,
+    "precoMax": 23521,
+    "anos": [
+      2025,
+      2023,
+      2022,
+      0
+    ]
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "tipo": "geracao",
+  "slug": "cr-1",
+  "canonicalPath": "/geracao/husqvarna/cr-1/",
+  "titulo": "Geracao cr-1",
+  "descricao": "6 veiculos da geracao cr-1.",
+  "seo": {
+    "title": "Geracao cr-1 - Precos FIPE",
+    "description": "Veiculos da geracao cr-1 na Tabela FIPE.",
+    "h1": "Geracao cr-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/husqvarna/cr-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "husqvarna-cr-125-1999-gasolina",
+      "fipeCodigo": "812008-0",
+      "displayName": "HUSQVARNA CR 125",
+      "valorAtual": 4820,
+      "canonicalPath": "/fipe/husqvarna/cr-125-1999-812008-0/",
+      "ano": 1999,
+      "marca": "HUSQVARNA"
+    },
+    {
+      "vehicleId": "husqvarna-cr-125-2000-gasolina",
+      "fipeCodigo": "812008-0",
+      "displayName": "HUSQVARNA CR 125",
+      "valorAtual": 5380,
+      "canonicalPath": "/fipe/husqvarna/cr-125-2000-812008-0/",
+      "ano": 2000,
+      "marca": "HUSQVARNA"
+    },
+    {
+      "vehicleId": "husqvarna-cr-125-2001-gasolina",
+      "fipeCodigo": "812008-0",
+      "displayName": "HUSQVARNA CR 125",
+      "valorAtual": 5977,
+      "canonicalPath": "/fipe/husqvarna/cr-125-2001-812008-0/",
+      "ano": 2001,
+      "marca": "HUSQVARNA"
+    },
+    {
+      "vehicleId": "husqvarna-cr-250-1999-gasolina",
+      "fipeCodigo": "812011-0",
+      "displayName": "HUSQVARNA CR 250",
+      "valorAtual": 7514,
+      "canonicalPath": "/fipe/husqvarna/cr-250-1999-812011-0/",
+      "ano": 1999,
+      "marca": "HUSQVARNA"
+    },
+    {
+      "vehicleId": "husqvarna-cr-250-2001-gasolina",
+      "fipeCodigo": "812011-0",
+      "displayName": "HUSQVARNA CR 250",
+      "valorAtual": 9993,
+      "canonicalPath": "/fipe/husqvarna/cr-250-2001-812011-0/",
+      "ano": 2001,
+      "marca": "HUSQVARNA"
+    },
+    {
+      "vehicleId": "honda-cr-v-touring-2-0-16v-awd-aut-hibrido-0-hibrido",
+      "fipeCodigo": "014117-8",
+      "displayName": "Honda CR-V Touring 2.0 16V AWD Aut.(Híbrido)",
+      "valorAtual": 366584,
+      "canonicalPath": "/fipe/honda/cr-v-touring-2-0-16v-awd-aut-hibrido-0-014117-8/",
+      "ano": 0,
+      "marca": "Honda"
+    }
+  ],
+  "stats": {
+    "total": 6
+  },
+  "meta": {
+    "geracaoId": "cr-1"
+  }
+}

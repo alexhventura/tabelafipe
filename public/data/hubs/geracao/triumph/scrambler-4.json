@@ -1,0 +1,57 @@
+{
+  "tipo": "geracao",
+  "slug": "scrambler-4",
+  "canonicalPath": "/geracao/triumph/scrambler-4/",
+  "titulo": "Geracao scrambler-4",
+  "descricao": "4 veiculos da geracao scrambler-4.",
+  "seo": {
+    "title": "Geracao scrambler-4 - Precos FIPE",
+    "description": "Veiculos da geracao scrambler-4 na Tabela FIPE.",
+    "h1": "Geracao scrambler-4",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/triumph/scrambler-4/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "triumph-scrambler-1200-xc-2019-gasolina",
+      "fipeCodigo": "826072-9",
+      "displayName": "TRIUMPH SCRAMBLER 1200 XC",
+      "valorAtual": 49515,
+      "canonicalPath": "/fipe/triumph/scrambler-1200-xc-2019-826072-9/",
+      "ano": 2019,
+      "marca": "TRIUMPH"
+    },
+    {
+      "vehicleId": "triumph-scrambler-1200-xc-2020-gasolina",
+      "fipeCodigo": "826072-9",
+      "displayName": "TRIUMPH SCRAMBLER 1200 XC",
+      "valorAtual": 50822,
+      "canonicalPath": "/fipe/triumph/scrambler-1200-xc-2020-826072-9/",
+      "ano": 2020,
+      "marca": "TRIUMPH"
+    },
+    {
+      "vehicleId": "triumph-scrambler-1200-xe-2019-gasolina",
+      "fipeCodigo": "826071-0",
+      "displayName": "TRIUMPH SCRAMBLER 1200 XE",
+      "valorAtual": 53353,
+      "canonicalPath": "/fipe/triumph/scrambler-1200-xe-2019-826071-0/",
+      "ano": 2019,
+      "marca": "TRIUMPH"
+    },
+    {
+      "vehicleId": "triumph-scrambler-1200-xe-2020-gasolina",
+      "fipeCodigo": "826071-0",
+      "displayName": "TRIUMPH SCRAMBLER 1200 XE",
+      "valorAtual": 54687,
+      "canonicalPath": "/fipe/triumph/scrambler-1200-xe-2020-826071-0/",
+      "ano": 2020,
+      "marca": "TRIUMPH"
+    }
+  ],
+  "stats": {
+    "total": 4
+  },
+  "meta": {
+    "geracaoId": "scrambler-4"
+  }
+}

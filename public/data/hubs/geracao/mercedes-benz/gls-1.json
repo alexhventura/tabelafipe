@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "gls-1",
+  "canonicalPath": "/geracao/mercedes-benz/gls-1/",
+  "titulo": "Geracao gls-1",
+  "descricao": "2 veiculos da geracao gls-1.",
+  "seo": {
+    "title": "Geracao gls-1 - Precos FIPE",
+    "description": "Veiculos da geracao gls-1 na Tabela FIPE.",
+    "h1": "Geracao gls-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/mercedes-benz/gls-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "mercedes-benz-gls-450-4m-3-0-bi-tb-aut-hibrido-0-hibrido",
+      "fipeCodigo": "021460-4",
+      "displayName": "Mercedes-Benz GLS-450 4M 3.0 Bi-TB Aut. (Híbrido)",
+      "valorAtual": 975520,
+      "canonicalPath": "/fipe/mercedes-benz/gls-450-4m-3-0-bi-tb-aut-hibrido-0-021460-4/",
+      "ano": 0,
+      "marca": "Mercedes-Benz"
+    },
+    {
+      "vehicleId": "mercedes-benz-gls-450-amg-line-4m-3-0-bi-tb-aut-hibrido-0-hibrido",
+      "fipeCodigo": "021560-0",
+      "displayName": "Mercedes-Benz GLS-450 AMG Line 4M 3.0 Bi-TB Aut. (Híbrido)",
+      "valorAtual": 1044900,
+      "canonicalPath": "/fipe/mercedes-benz/gls-450-amg-line-4m-3-0-bi-tb-aut-hibrido-0-021560-0/",
+      "ano": 0,
+      "marca": "Mercedes-Benz"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "gls-1"
+  }
+}

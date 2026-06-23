@@ -1,0 +1,52 @@
+{
+  "tipo": "familia",
+  "slug": "cux",
+  "canonicalPath": "/fipe/super-soco/cux/",
+  "titulo": "SUPER SOCO cux - Tabela FIPE",
+  "descricao": "3 versoes e anos do SUPER SOCO cux na Tabela FIPE.",
+  "seo": {
+    "title": "SUPER SOCO cux - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes SUPER SOCO cux. 3 veiculos indexados.",
+    "h1": "SUPER SOCO cux - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/super-soco/cux/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "super-soco-cux-2788w-eletrica-2022-eletrico",
+      "fipeCodigo": "891003-0",
+      "displayName": "SUPER SOCO CUX 2788W (Elétrica)",
+      "valorAtual": 22336,
+      "canonicalPath": "/fipe/super-soco/cux-2788w-eletrica-2022-891003-0/",
+      "ano": 2022,
+      "marca": "SUPER SOCO"
+    },
+    {
+      "vehicleId": "super-soco-cux-2788w-eletrica-2021-eletrico",
+      "fipeCodigo": "891003-0",
+      "displayName": "SUPER SOCO CUX 2788W (Elétrica)",
+      "valorAtual": 21648,
+      "canonicalPath": "/fipe/super-soco/cux-2788w-eletrica-2021-891003-0/",
+      "ano": 2021,
+      "marca": "SUPER SOCO"
+    },
+    {
+      "vehicleId": "super-soco-cux-2788w-eletrica-2020-eletrico",
+      "fipeCodigo": "891003-0",
+      "displayName": "SUPER SOCO CUX 2788W (Elétrica)",
+      "valorAtual": 17142,
+      "canonicalPath": "/fipe/super-soco/cux-2788w-eletrica-2020-891003-0/",
+      "ano": 2020,
+      "marca": "SUPER SOCO"
+    }
+  ],
+  "stats": {
+    "total": 3,
+    "precoMin": 17142,
+    "precoMax": 22336,
+    "anos": [
+      2022,
+      2021,
+      2020
+    ]
+  }
+}

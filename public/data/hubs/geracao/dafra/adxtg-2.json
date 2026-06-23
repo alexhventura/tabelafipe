@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "adxtg-2",
+  "canonicalPath": "/geracao/dafra/adxtg-2/",
+  "titulo": "Geracao adxtg-2",
+  "descricao": "2 veiculos da geracao adxtg-2.",
+  "seo": {
+    "title": "Geracao adxtg-2 - Precos FIPE",
+    "description": "Veiculos da geracao adxtg-2 na Tabela FIPE.",
+    "h1": "Geracao adxtg-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/dafra/adxtg-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "dafra-adxtg-150cc-2026-gasolina",
+      "fipeCodigo": "861035-5",
+      "displayName": "DAFRA ADXTG 150cc",
+      "valorAtual": 20418,
+      "canonicalPath": "/fipe/dafra/adxtg-150cc-2026-861035-5/",
+      "ano": 2026,
+      "marca": "DAFRA"
+    },
+    {
+      "vehicleId": "dafra-adxtg-150cc-2027-gasolina",
+      "fipeCodigo": "861035-5",
+      "displayName": "DAFRA ADXTG 150cc",
+      "valorAtual": 21380,
+      "canonicalPath": "/fipe/dafra/adxtg-150cc-2027-861035-5/",
+      "ano": 2027,
+      "marca": "DAFRA"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "adxtg-2"
+  }
+}

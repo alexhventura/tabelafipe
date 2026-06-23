@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "biz-1",
+  "canonicalPath": "/geracao/honda/biz-1/",
+  "titulo": "Geracao biz-1",
+  "descricao": "2 veiculos da geracao biz-1.",
+  "seo": {
+    "title": "Geracao biz-1 - Precos FIPE",
+    "description": "Veiculos da geracao biz-1 na Tabela FIPE.",
+    "h1": "Geracao biz-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/honda/biz-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "honda-biz-125-es-125-es-flex-0-gasolina",
+      "fipeCodigo": "811080-8",
+      "displayName": "HONDA BIZ 125 ES/ 125 ES FLEX",
+      "valorAtual": 16764,
+      "canonicalPath": "/fipe/honda/biz-125-es-125-es-flex-0-811080-8/",
+      "ano": 0,
+      "marca": "HONDA"
+    },
+    {
+      "vehicleId": "honda-biz-125-ex-125-ex-flex-0-gasolina",
+      "fipeCodigo": "811106-5",
+      "displayName": "HONDA BIZ 125 EX/ 125 EX FLEX",
+      "valorAtual": 19616,
+      "canonicalPath": "/fipe/honda/biz-125-ex-125-ex-flex-0-811106-5/",
+      "ano": 0,
+      "marca": "HONDA"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "biz-1"
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "tipo": "geracao",
+  "slug": "wit-2",
+  "canonicalPath": "/geracao/fusco-motosegura/wit-2/",
+  "titulo": "Geracao wit-2",
+  "descricao": "9 veiculos da geracao wit-2.",
+  "seo": {
+    "title": "Geracao wit-2 - Precos FIPE",
+    "description": "Veiculos da geracao wit-2 na Tabela FIPE.",
+    "h1": "Geracao wit-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/fusco-motosegura/wit-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "fusco-motosegura-wit-bau-4500w-convercional-eletrico-2024-eletrico",
+      "fipeCodigo": "887008-0",
+      "displayName": "FUSCO MOTOSEGURA Wit Baú 4500W Convercional (Elétrico)",
+      "valorAtual": 57735,
+      "canonicalPath": "/fipe/fusco-motosegura/wit-bau-4500w-convercional-eletrico-2024-887008-0/",
+      "ano": 2024,
+      "marca": "FUSCO MOTOSEGURA"
+    },
+    {
+      "vehicleId": "fusco-motosegura-wit-bau-4500w-convercional-eletrico-2025-eletrico",
+      "fipeCodigo": "887008-0",
+      "displayName": "FUSCO MOTOSEGURA Wit Baú 4500W Convercional (Elétrico)",
+      "valorAtual": 61586,
+      "canonicalPath": "/fipe/fusco-motosegura/wit-bau-4500w-convercional-eletrico-2025-887008-0/",
+      "ano": 2025,
+      "marca": "FUSCO MOTOSEGURA"
+    },
+    {
+      "vehicleId": "fusco-motosegura-wit-bau-4500w-convercional-eletrico-2026-eletrico",
+      "fipeCodigo": "887008-0",
+      "displayName": "FUSCO MOTOSEGURA Wit Baú 4500W Convercional (Elétrico)",
+      "valorAtual": 65536,
+      "canonicalPath": "/fipe/fusco-motosegura/wit-bau-4500w-convercional-eletrico-2026-887008-0/",
+      "ano": 2026,
+      "marca": "FUSCO MOTOSEGURA"
+    },
+    {
+      "vehicleId": "fusco-motosegura-wit-cacamba-4500w-eletrico-2024-eletrico",
+      "fipeCodigo": "887007-1",
+      "displayName": "FUSCO MOTOSEGURA Wit Caçamba 4500W (Elétrico)",
+      "valorAtual": 57077,
+      "canonicalPath": "/fipe/fusco-motosegura/wit-cacamba-4500w-eletrico-2024-887007-1/",
+      "ano": 2024,
+      "marca": "FUSCO MOTOSEGURA"
+    },
+    {
+      "vehicleId": "fusco-motosegura-wit-cacamba-4500w-eletrico-2025-eletrico",
+      "fipeCodigo": "887007-1",
+      "displayName": "FUSCO MOTOSEGURA Wit Caçamba 4500W (Elétrico)",
+      "valorAtual": 60402,
+      "canonicalPath": "/fipe/fusco-motosegura/wit-cacamba-4500w-eletrico-2025-887007-1/",
+      "ano": 2025,
+      "marca": "FUSCO MOTOSEGURA"
+    },
+    {
+      "vehicleId": "fusco-motosegura-wit-cacamba-4500w-eletrico-2026-eletrico",
+      "fipeCodigo": "887007-1",
+      "displayName": "FUSCO MOTOSEGURA Wit Caçamba 4500W (Elétrico)",
+      "valorAtual": 63131,
+      "canonicalPath": "/fipe/fusco-motosegura/wit-cacamba-4500w-eletrico-2026-887007-1/",
+      "ano": 2026,
+      "marca": "FUSCO MOTOSEGURA"
+    },
+    {
+      "vehicleId": "fusco-motosegura-wit-gas-4500w-eletrico-2024-eletrico",
+      "fipeCodigo": "887006-3",
+      "displayName": "FUSCO MOTOSEGURA Wit Gás 4500W (Elétrico)",
+      "valorAtual": 54945,
+      "canonicalPath": "/fipe/fusco-motosegura/wit-gas-4500w-eletrico-2024-887006-3/",
+      "ano": 2024,
+      "marca": "FUSCO MOTOSEGURA"
+    },
+    {
+      "vehicleId": "fusco-motosegura-wit-gas-4500w-eletrico-2025-eletrico",
+      "fipeCodigo": "887006-3",
+      "displayName": "FUSCO MOTOSEGURA Wit Gás 4500W (Elétrico)",
+      "valorAtual": 58230,
+      "canonicalPath": "/fipe/fusco-motosegura/wit-gas-4500w-eletrico-2025-887006-3/",
+      "ano": 2025,
+      "marca": "FUSCO MOTOSEGURA"
+    },
+    {
+      "vehicleId": "fusco-motosegura-wit-gas-4500w-eletrico-2026-eletrico",
+      "fipeCodigo": "887006-3",
+      "displayName": "FUSCO MOTOSEGURA Wit Gás 4500W (Elétrico)",
+      "valorAtual": 61018,
+      "canonicalPath": "/fipe/fusco-motosegura/wit-gas-4500w-eletrico-2026-887006-3/",
+      "ano": 2026,
+      "marca": "FUSCO MOTOSEGURA"
+    }
+  ],
+  "stats": {
+    "total": 9
+  },
+  "meta": {
+    "geracaoId": "wit-2"
+  }
+}

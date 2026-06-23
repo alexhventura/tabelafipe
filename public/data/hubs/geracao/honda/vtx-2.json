@@ -1,0 +1,66 @@
+{
+  "tipo": "geracao",
+  "slug": "vtx-2",
+  "canonicalPath": "/geracao/honda/vtx-2/",
+  "titulo": "Geracao vtx-2",
+  "descricao": "5 veiculos da geracao vtx-2.",
+  "seo": {
+    "title": "Geracao vtx-2 - Precos FIPE",
+    "description": "Veiculos da geracao vtx-2 na Tabela FIPE.",
+    "h1": "Geracao vtx-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/honda/vtx-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "honda-vtx-1800r-1800s-1800c-1795cc-2004-gasolina",
+      "fipeCodigo": "811063-8",
+      "displayName": "HONDA VTX 1800R/ 1800S/ 1800C 1795cc",
+      "valorAtual": 30419,
+      "canonicalPath": "/fipe/honda/vtx-1800r-1800s-1800c-1795cc-2004-811063-8/",
+      "ano": 2004,
+      "marca": "HONDA"
+    },
+    {
+      "vehicleId": "honda-vtx-1800r-1800s-1800c-1795cc-2005-gasolina",
+      "fipeCodigo": "811063-8",
+      "displayName": "HONDA VTX 1800R/ 1800S/ 1800C 1795cc",
+      "valorAtual": 37748,
+      "canonicalPath": "/fipe/honda/vtx-1800r-1800s-1800c-1795cc-2005-811063-8/",
+      "ano": 2005,
+      "marca": "HONDA"
+    },
+    {
+      "vehicleId": "honda-vtx-1800r-1800s-1800c-1795cc-2006-gasolina",
+      "fipeCodigo": "811063-8",
+      "displayName": "HONDA VTX 1800R/ 1800S/ 1800C 1795cc",
+      "valorAtual": 49551,
+      "canonicalPath": "/fipe/honda/vtx-1800r-1800s-1800c-1795cc-2006-811063-8/",
+      "ano": 2006,
+      "marca": "HONDA"
+    },
+    {
+      "vehicleId": "honda-vtx-1800r-1800s-1800c-1795cc-2007-gasolina",
+      "fipeCodigo": "811063-8",
+      "displayName": "HONDA VTX 1800R/ 1800S/ 1800C 1795cc",
+      "valorAtual": 50790,
+      "canonicalPath": "/fipe/honda/vtx-1800r-1800s-1800c-1795cc-2007-811063-8/",
+      "ano": 2007,
+      "marca": "HONDA"
+    },
+    {
+      "vehicleId": "ventane-motors-vtx-3000w-eletrica-2023-eletrico",
+      "fipeCodigo": "896001-1",
+      "displayName": "Ventane Motors VTX 3000W (Elétrica)",
+      "valorAtual": 13016,
+      "canonicalPath": "/fipe/ventane-motors/vtx-3000w-eletrica-2023-896001-1/",
+      "ano": 2023,
+      "marca": "Ventane Motors"
+    }
+  ],
+  "stats": {
+    "total": 5
+  },
+  "meta": {
+    "geracaoId": "vtx-2"
+  }
+}

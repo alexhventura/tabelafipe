@@ -1,0 +1,48 @@
+{
+  "tipo": "geracao",
+  "slug": "himalayan-1",
+  "canonicalPath": "/geracao/royal-enfield/himalayan-1/",
+  "titulo": "Geracao himalayan-1",
+  "descricao": "3 veiculos da geracao himalayan-1.",
+  "seo": {
+    "title": "Geracao himalayan-1 - Precos FIPE",
+    "description": "Veiculos da geracao himalayan-1 na Tabela FIPE.",
+    "h1": "Geracao himalayan-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/royal-enfield/himalayan-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "royal-enfield-himalayan-450-mid-0-gasolina",
+      "fipeCodigo": "879038-8",
+      "displayName": "Royal Enfield Himalayan 450 Mid",
+      "valorAtual": 29741,
+      "canonicalPath": "/fipe/royal-enfield/himalayan-450-mid-0-879038-8/",
+      "ano": 0,
+      "marca": "Royal Enfield"
+    },
+    {
+      "vehicleId": "royal-enfield-himalayan-450-premium-0-gasolina",
+      "fipeCodigo": "879039-6",
+      "displayName": "Royal Enfield Himalayan 450 Premium",
+      "valorAtual": 31324,
+      "canonicalPath": "/fipe/royal-enfield/himalayan-450-premium-0-879039-6/",
+      "ano": 0,
+      "marca": "Royal Enfield"
+    },
+    {
+      "vehicleId": "royal-enfield-himalayan-450-top-0-gasolina",
+      "fipeCodigo": "879040-0",
+      "displayName": "Royal Enfield Himalayan 450 Top",
+      "valorAtual": 31442,
+      "canonicalPath": "/fipe/royal-enfield/himalayan-450-top-0-879040-0/",
+      "ano": 0,
+      "marca": "Royal Enfield"
+    }
+  ],
+  "stats": {
+    "total": 3
+  },
+  "meta": {
+    "geracaoId": "himalayan-1"
+  }
+}

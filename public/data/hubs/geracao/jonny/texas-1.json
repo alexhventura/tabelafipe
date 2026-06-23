@@ -1,0 +1,48 @@
+{
+  "tipo": "geracao",
+  "slug": "texas-1",
+  "canonicalPath": "/geracao/jonny/texas-1/",
+  "titulo": "Geracao texas-1",
+  "descricao": "3 veiculos da geracao texas-1.",
+  "seo": {
+    "title": "Geracao texas-1 - Precos FIPE",
+    "description": "Veiculos da geracao texas-1 na Tabela FIPE.",
+    "h1": "Geracao texas-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/jonny/texas-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "jonny-texas-150cc-2011-gasolina",
+      "fipeCodigo": "865012-8",
+      "displayName": "JONNY TEXAS 150cc",
+      "valorAtual": 2635,
+      "canonicalPath": "/fipe/jonny/texas-150cc-2011-865012-8/",
+      "ano": 2011,
+      "marca": "JONNY"
+    },
+    {
+      "vehicleId": "jonny-texas-150cc-2012-gasolina",
+      "fipeCodigo": "865012-8",
+      "displayName": "JONNY TEXAS 150cc",
+      "valorAtual": 2797,
+      "canonicalPath": "/fipe/jonny/texas-150cc-2012-865012-8/",
+      "ano": 2012,
+      "marca": "JONNY"
+    },
+    {
+      "vehicleId": "jonny-texas-150cc-2013-gasolina",
+      "fipeCodigo": "865012-8",
+      "displayName": "JONNY TEXAS 150cc",
+      "valorAtual": 3189,
+      "canonicalPath": "/fipe/jonny/texas-150cc-2013-865012-8/",
+      "ano": 2013,
+      "marca": "JONNY"
+    }
+  ],
+  "stats": {
+    "total": 3
+  },
+  "meta": {
+    "geracaoId": "texas-1"
+  }
+}

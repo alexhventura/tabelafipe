@@ -1,0 +1,48 @@
+{
+  "tipo": "geracao",
+  "slug": "tiguan-3",
+  "canonicalPath": "/geracao/volkswagen/tiguan-3/",
+  "titulo": "Geracao tiguan-3",
+  "descricao": "3 veiculos da geracao tiguan-3.",
+  "seo": {
+    "title": "Geracao tiguan-3 - Precos FIPE",
+    "description": "Veiculos da geracao tiguan-3 na Tabela FIPE.",
+    "h1": "Geracao tiguan-3",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/volkswagen/tiguan-3/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "volkswagen-tiguan-allspac-r-line-300-tsi-2-0-2024-gasolina",
+      "fipeCodigo": "005547-6",
+      "displayName": "VW - VolksWagen TIGUAN Allspac R-Line 300 TSI 2.0",
+      "valorAtual": 217661,
+      "canonicalPath": "/fipe/volkswagen/tiguan-allspac-r-line-300-tsi-2-0-2024-005547-6/",
+      "ano": 2024,
+      "marca": "VW - VolksWagen"
+    },
+    {
+      "vehicleId": "volkswagen-tiguan-allspac-r-line-300-tsi-2-0-2025-gasolina",
+      "fipeCodigo": "005547-6",
+      "displayName": "VW - VolksWagen TIGUAN Allspac R-Line 300 TSI 2.0",
+      "valorAtual": 246898,
+      "canonicalPath": "/fipe/volkswagen/tiguan-allspac-r-line-300-tsi-2-0-2025-005547-6/",
+      "ano": 2025,
+      "marca": "VW - VolksWagen"
+    },
+    {
+      "vehicleId": "volkswagen-tiguan-r-line-2-0-350-tsi-4motion-aut-2026-gasolina",
+      "fipeCodigo": "005558-1",
+      "displayName": "VW - VolksWagen TIGUAN R-Line 2.0 350 TSI 4Motion Aut.",
+      "valorAtual": 275990,
+      "canonicalPath": "/fipe/volkswagen/tiguan-r-line-2-0-350-tsi-4motion-aut-2026-005558-1/",
+      "ano": 2026,
+      "marca": "VW - VolksWagen"
+    }
+  ],
+  "stats": {
+    "total": 3
+  },
+  "meta": {
+    "geracaoId": "tiguan-3"
+  }
+}

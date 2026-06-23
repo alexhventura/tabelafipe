@@ -1,0 +1,93 @@
+{
+  "tipo": "geracao",
+  "slug": "1728-1",
+  "canonicalPath": "/geracao/mercedes-benz/1728-1/",
+  "titulo": "Geracao 1728-1",
+  "descricao": "8 veiculos da geracao 1728-1.",
+  "seo": {
+    "title": "Geracao 1728-1 - Precos FIPE",
+    "description": "Veiculos da geracao 1728-1 na Tabela FIPE.",
+    "h1": "Geracao 1728-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/mercedes-benz/1728-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "mercedes-benz-1728-2p-diesel-2003-diesel",
+      "fipeCodigo": "509223-0",
+      "displayName": "MERCEDES-BENZ 1728 2p (diesel)",
+      "valorAtual": 60985,
+      "canonicalPath": "/fipe/mercedes-benz/1728-2p-diesel-2003-509223-0/",
+      "ano": 2003,
+      "marca": "MERCEDES-BENZ"
+    },
+    {
+      "vehicleId": "mercedes-benz-1728-2p-diesel-2004-diesel",
+      "fipeCodigo": "509223-0",
+      "displayName": "MERCEDES-BENZ 1728 2p (diesel)",
+      "valorAtual": 62510,
+      "canonicalPath": "/fipe/mercedes-benz/1728-2p-diesel-2004-509223-0/",
+      "ano": 2004,
+      "marca": "MERCEDES-BENZ"
+    },
+    {
+      "vehicleId": "mercedes-benz-1728-2p-diesel-2005-diesel",
+      "fipeCodigo": "509223-0",
+      "displayName": "MERCEDES-BENZ 1728 2p (diesel)",
+      "valorAtual": 67851,
+      "canonicalPath": "/fipe/mercedes-benz/1728-2p-diesel-2005-509223-0/",
+      "ano": 2005,
+      "marca": "MERCEDES-BENZ"
+    },
+    {
+      "vehicleId": "mercedes-benz-1728-2p-diesel-2006-diesel",
+      "fipeCodigo": "509223-0",
+      "displayName": "MERCEDES-BENZ 1728 2p (diesel)",
+      "valorAtual": 75581,
+      "canonicalPath": "/fipe/mercedes-benz/1728-2p-diesel-2006-509223-0/",
+      "ano": 2006,
+      "marca": "MERCEDES-BENZ"
+    },
+    {
+      "vehicleId": "mercedes-benz-1728-3-eixos-2p-diesel-2003-diesel",
+      "fipeCodigo": "509225-6",
+      "displayName": "MERCEDES-BENZ 1728 3-Eixos 2p (diesel)",
+      "valorAtual": 96621,
+      "canonicalPath": "/fipe/mercedes-benz/1728-3-eixos-2p-diesel-2003-509225-6/",
+      "ano": 2003,
+      "marca": "MERCEDES-BENZ"
+    },
+    {
+      "vehicleId": "mercedes-benz-1728-3-eixos-2p-diesel-2004-diesel",
+      "fipeCodigo": "509225-6",
+      "displayName": "MERCEDES-BENZ 1728 3-Eixos 2p (diesel)",
+      "valorAtual": 118027,
+      "canonicalPath": "/fipe/mercedes-benz/1728-3-eixos-2p-diesel-2004-509225-6/",
+      "ano": 2004,
+      "marca": "MERCEDES-BENZ"
+    },
+    {
+      "vehicleId": "mercedes-benz-1728-3-eixos-2p-diesel-2005-diesel",
+      "fipeCodigo": "509225-6",
+      "displayName": "MERCEDES-BENZ 1728 3-Eixos 2p (diesel)",
+      "valorAtual": 128085,
+      "canonicalPath": "/fipe/mercedes-benz/1728-3-eixos-2p-diesel-2005-509225-6/",
+      "ano": 2005,
+      "marca": "MERCEDES-BENZ"
+    },
+    {
+      "vehicleId": "mercedes-benz-1728-3-eixos-2p-diesel-2006-diesel",
+      "fipeCodigo": "509225-6",
+      "displayName": "MERCEDES-BENZ 1728 3-Eixos 2p (diesel)",
+      "valorAtual": 149042,
+      "canonicalPath": "/fipe/mercedes-benz/1728-3-eixos-2p-diesel-2006-509225-6/",
+      "ano": 2006,
+      "marca": "MERCEDES-BENZ"
+    }
+  ],
+  "stats": {
+    "total": 8
+  },
+  "meta": {
+    "geracaoId": "1728-1"
+  }
+}

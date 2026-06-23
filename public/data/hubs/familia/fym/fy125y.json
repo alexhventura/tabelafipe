@@ -1,0 +1,42 @@
+{
+  "tipo": "familia",
+  "slug": "fy125y",
+  "canonicalPath": "/fipe/fym/fy125y/",
+  "titulo": "FYM fy125y - Tabela FIPE",
+  "descricao": "2 versoes e anos do FYM fy125y na Tabela FIPE.",
+  "seo": {
+    "title": "FYM fy125y - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes FYM fy125y. 2 veiculos indexados.",
+    "h1": "FYM fy125y - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/fym/fy125y/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "fym-fy125y-3-125cc-2007-gasolina",
+      "fipeCodigo": "849006-6",
+      "displayName": "FYM FY125Y-3 125cc",
+      "valorAtual": 3545,
+      "canonicalPath": "/fipe/fym/fy125y-3-125cc-2007-849006-6/",
+      "ano": 2007,
+      "marca": "FYM"
+    },
+    {
+      "vehicleId": "fym-fy125y-3-125cc-2006-gasolina",
+      "fipeCodigo": "849006-6",
+      "displayName": "FYM FY125Y-3 125cc",
+      "valorAtual": 3305,
+      "canonicalPath": "/fipe/fym/fy125y-3-125cc-2006-849006-6/",
+      "ano": 2006,
+      "marca": "FYM"
+    }
+  ],
+  "stats": {
+    "total": 2,
+    "precoMin": 3305,
+    "precoMax": 3545,
+    "anos": [
+      2007,
+      2006
+    ]
+  }
+}

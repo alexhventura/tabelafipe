@@ -1,0 +1,66 @@
+{
+  "tipo": "geracao",
+  "slug": "750-1",
+  "canonicalPath": "/geracao/yamaha/750-1/",
+  "titulo": "Geracao 750-1",
+  "descricao": "5 veiculos da geracao 750-1.",
+  "seo": {
+    "title": "Geracao 750-1 - Precos FIPE",
+    "description": "Veiculos da geracao 750-1 na Tabela FIPE.",
+    "h1": "Geracao 750-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/yamaha/750-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "yamaha-750-virago-1993-gasolina",
+      "fipeCodigo": "827001-5",
+      "displayName": "YAMAHA 750 VIRAGO",
+      "valorAtual": 16355,
+      "canonicalPath": "/fipe/yamaha/750-virago-1993-827001-5/",
+      "ano": 1993,
+      "marca": "YAMAHA"
+    },
+    {
+      "vehicleId": "yamaha-750-virago-1994-gasolina",
+      "fipeCodigo": "827001-5",
+      "displayName": "YAMAHA 750 VIRAGO",
+      "valorAtual": 19210,
+      "canonicalPath": "/fipe/yamaha/750-virago-1994-827001-5/",
+      "ano": 1994,
+      "marca": "YAMAHA"
+    },
+    {
+      "vehicleId": "yamaha-750-virago-1995-gasolina",
+      "fipeCodigo": "827001-5",
+      "displayName": "YAMAHA 750 VIRAGO",
+      "valorAtual": 23026,
+      "canonicalPath": "/fipe/yamaha/750-virago-1995-827001-5/",
+      "ano": 1995,
+      "marca": "YAMAHA"
+    },
+    {
+      "vehicleId": "yamaha-750-virago-1996-gasolina",
+      "fipeCodigo": "827001-5",
+      "displayName": "YAMAHA 750 VIRAGO",
+      "valorAtual": 23602,
+      "canonicalPath": "/fipe/yamaha/750-virago-1996-827001-5/",
+      "ano": 1996,
+      "marca": "YAMAHA"
+    },
+    {
+      "vehicleId": "yamaha-750-virago-1997-gasolina",
+      "fipeCodigo": "827001-5",
+      "displayName": "YAMAHA 750 VIRAGO",
+      "valorAtual": 24491,
+      "canonicalPath": "/fipe/yamaha/750-virago-1997-827001-5/",
+      "ano": 1997,
+      "marca": "YAMAHA"
+    }
+  ],
+  "stats": {
+    "total": 5
+  },
+  "meta": {
+    "geracaoId": "750-1"
+  }
+}

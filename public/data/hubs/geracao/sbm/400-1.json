@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "400-1",
+  "canonicalPath": "/geracao/sbm/400-1/",
+  "titulo": "Geracao 400-1",
+  "descricao": "2 veiculos da geracao 400-1.",
+  "seo": {
+    "title": "Geracao 400-1 - Precos FIPE",
+    "description": "Veiculos da geracao 400-1 na Tabela FIPE.",
+    "h1": "Geracao 400-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/sbm/400-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "sbm-400-s-0-gasolina",
+      "fipeCodigo": "704002-4",
+      "displayName": "SBM 400 S",
+      "valorAtual": 33391,
+      "canonicalPath": "/fipe/sbm/400-s-0-704002-4/",
+      "ano": 0,
+      "marca": "SBM"
+    },
+    {
+      "vehicleId": "sbm-400-ss-0-gasolina",
+      "fipeCodigo": "704006-7",
+      "displayName": "SBM 400 SS",
+      "valorAtual": 36881,
+      "canonicalPath": "/fipe/sbm/400-ss-0-704006-7/",
+      "ano": 0,
+      "marca": "SBM"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "400-1"
+  }
+}

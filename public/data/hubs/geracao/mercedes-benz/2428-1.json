@@ -1,0 +1,75 @@
+{
+  "tipo": "geracao",
+  "slug": "2428-1",
+  "canonicalPath": "/geracao/mercedes-benz/2428-1/",
+  "titulo": "Geracao 2428-1",
+  "descricao": "6 veiculos da geracao 2428-1.",
+  "seo": {
+    "title": "Geracao 2428-1 - Precos FIPE",
+    "description": "Veiculos da geracao 2428-1 na Tabela FIPE.",
+    "h1": "Geracao 2428-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/mercedes-benz/2428-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "mercedes-benz-2428-6x4-2p-diesel-2001-diesel",
+      "fipeCodigo": "509198-5",
+      "displayName": "MERCEDES-BENZ 2428 6x4 2p (diesel)",
+      "valorAtual": 84780,
+      "canonicalPath": "/fipe/mercedes-benz/2428-6x4-2p-diesel-2001-509198-5/",
+      "ano": 2001,
+      "marca": "MERCEDES-BENZ"
+    },
+    {
+      "vehicleId": "mercedes-benz-2428-6x4-2p-diesel-2002-diesel",
+      "fipeCodigo": "509198-5",
+      "displayName": "MERCEDES-BENZ 2428 6x4 2p (diesel)",
+      "valorAtual": 88957,
+      "canonicalPath": "/fipe/mercedes-benz/2428-6x4-2p-diesel-2002-509198-5/",
+      "ano": 2002,
+      "marca": "MERCEDES-BENZ"
+    },
+    {
+      "vehicleId": "mercedes-benz-2428-6x4-2p-diesel-2003-diesel",
+      "fipeCodigo": "509198-5",
+      "displayName": "MERCEDES-BENZ 2428 6x4 2p (diesel)",
+      "valorAtual": 99714,
+      "canonicalPath": "/fipe/mercedes-benz/2428-6x4-2p-diesel-2003-509198-5/",
+      "ano": 2003,
+      "marca": "MERCEDES-BENZ"
+    },
+    {
+      "vehicleId": "mercedes-benz-2428-6x4-2p-diesel-2004-diesel",
+      "fipeCodigo": "509198-5",
+      "displayName": "MERCEDES-BENZ 2428 6x4 2p (diesel)",
+      "valorAtual": 110660,
+      "canonicalPath": "/fipe/mercedes-benz/2428-6x4-2p-diesel-2004-509198-5/",
+      "ano": 2004,
+      "marca": "MERCEDES-BENZ"
+    },
+    {
+      "vehicleId": "mercedes-benz-2428-6x4-2p-diesel-2005-diesel",
+      "fipeCodigo": "509198-5",
+      "displayName": "MERCEDES-BENZ 2428 6x4 2p (diesel)",
+      "valorAtual": 115854,
+      "canonicalPath": "/fipe/mercedes-benz/2428-6x4-2p-diesel-2005-509198-5/",
+      "ano": 2005,
+      "marca": "MERCEDES-BENZ"
+    },
+    {
+      "vehicleId": "mercedes-benz-2428-6x4-2p-diesel-2006-diesel",
+      "fipeCodigo": "509198-5",
+      "displayName": "MERCEDES-BENZ 2428 6x4 2p (diesel)",
+      "valorAtual": 125681,
+      "canonicalPath": "/fipe/mercedes-benz/2428-6x4-2p-diesel-2006-509198-5/",
+      "ano": 2006,
+      "marca": "MERCEDES-BENZ"
+    }
+  ],
+  "stats": {
+    "total": 6
+  },
+  "meta": {
+    "geracaoId": "2428-1"
+  }
+}

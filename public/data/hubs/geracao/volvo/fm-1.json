@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "fm-1",
+  "canonicalPath": "/geracao/volvo/fm-1/",
+  "titulo": "Geracao fm-1",
+  "descricao": "2 veiculos da geracao fm-1.",
+  "seo": {
+    "title": "Geracao fm-1 - Precos FIPE",
+    "description": "Veiculos da geracao fm-1 na Tabela FIPE.",
+    "h1": "Geracao fm-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/volvo/fm-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "volvo-fm-380-4x2-2p-diesel-e6-0-diesel",
+      "fipeCodigo": "516269-6",
+      "displayName": "VOLVO FM 380 4X2 2p (diesel) (E6)",
+      "valorAtual": 999174,
+      "canonicalPath": "/fipe/volvo/fm-380-4x2-2p-diesel-e6-0-516269-6/",
+      "ano": 0,
+      "marca": "VOLVO"
+    },
+    {
+      "vehicleId": "volvo-fm-380-6x2-2p-diesel-e6-0-diesel",
+      "fipeCodigo": "516268-8",
+      "displayName": "VOLVO FM 380 6X2 2p (diesel) (E6)",
+      "valorAtual": 1045729,
+      "canonicalPath": "/fipe/volvo/fm-380-6x2-2p-diesel-e6-0-516268-8/",
+      "ano": 0,
+      "marca": "VOLVO"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "fm-1"
+  }
+}

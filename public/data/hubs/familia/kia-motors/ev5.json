@@ -1,0 +1,42 @@
+{
+  "tipo": "familia",
+  "slug": "ev5",
+  "canonicalPath": "/fipe/kia-motors/ev5/",
+  "titulo": "Kia Motors ev5 - Tabela FIPE",
+  "descricao": "2 versoes e anos do Kia Motors ev5 na Tabela FIPE.",
+  "seo": {
+    "title": "Kia Motors ev5 - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes Kia Motors ev5. 2 veiculos indexados.",
+    "h1": "Kia Motors ev5 - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/kia-motors/ev5/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "kia-motors-ev5-land-eletrico-2025-eletrico",
+      "fipeCodigo": "018103-0",
+      "displayName": "Kia Motors EV5 Land (Elétrico)",
+      "valorAtual": 324099,
+      "canonicalPath": "/fipe/kia-motors/ev5-land-eletrico-2025-018103-0/",
+      "ano": 2025,
+      "marca": "Kia Motors"
+    },
+    {
+      "vehicleId": "kia-motors-ev5-land-eletrico-0-eletrico",
+      "fipeCodigo": "018103-0",
+      "displayName": "Kia Motors EV5 Land (Elétrico)",
+      "valorAtual": 348900,
+      "canonicalPath": "/fipe/kia-motors/ev5-land-eletrico-0-018103-0/",
+      "ano": 0,
+      "marca": "Kia Motors"
+    }
+  ],
+  "stats": {
+    "total": 2,
+    "precoMin": 324099,
+    "precoMax": 348900,
+    "anos": [
+      2025,
+      0
+    ]
+  }
+}

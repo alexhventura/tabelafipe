@@ -1,0 +1,57 @@
+{
+  "tipo": "geracao",
+  "slug": "gt-4",
+  "canonicalPath": "/geracao/mercedes-benz/gt-4/",
+  "titulo": "Geracao gt-4",
+  "descricao": "4 veiculos da geracao gt-4.",
+  "seo": {
+    "title": "Geracao gt-4 - Precos FIPE",
+    "description": "Veiculos da geracao gt-4 na Tabela FIPE.",
+    "h1": "Geracao gt-4",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/mercedes-benz/gt-4/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "mercedes-benz-gt-63-s-amg-e-performance-aut-2p-2025-hibrido",
+      "fipeCodigo": "021559-7",
+      "displayName": "Mercedes-Benz GT 63 S AMG E Performance Aut. 2p",
+      "valorAtual": 1511026,
+      "canonicalPath": "/fipe/mercedes-benz/gt-63-s-amg-e-performance-aut-2p-2025-021559-7/",
+      "ano": 2025,
+      "marca": "Mercedes-Benz"
+    },
+    {
+      "vehicleId": "mercedes-benz-gt-63-s-amg-e-performance-aut-2p-2026-hibrido",
+      "fipeCodigo": "021559-7",
+      "displayName": "Mercedes-Benz GT 63 S AMG E Performance Aut. 2p",
+      "valorAtual": 1559366,
+      "canonicalPath": "/fipe/mercedes-benz/gt-63-s-amg-e-performance-aut-2p-2026-021559-7/",
+      "ano": 2026,
+      "marca": "Mercedes-Benz"
+    },
+    {
+      "vehicleId": "mercedes-benz-gt-63-s-amg-e-performance-aut-4p-2024-hibrido",
+      "fipeCodigo": "021543-0",
+      "displayName": "Mercedes-Benz GT 63 S AMG E Performance Aut. 4p",
+      "valorAtual": 1425210,
+      "canonicalPath": "/fipe/mercedes-benz/gt-63-s-amg-e-performance-aut-4p-2024-021543-0/",
+      "ano": 2024,
+      "marca": "Mercedes-Benz"
+    },
+    {
+      "vehicleId": "mercedes-benz-gt-63-s-amg-e-performance-aut-4p-2025-hibrido",
+      "fipeCodigo": "021543-0",
+      "displayName": "Mercedes-Benz GT 63 S AMG E Performance Aut. 4p",
+      "valorAtual": 1504525,
+      "canonicalPath": "/fipe/mercedes-benz/gt-63-s-amg-e-performance-aut-4p-2025-021543-0/",
+      "ano": 2025,
+      "marca": "Mercedes-Benz"
+    }
+  ],
+  "stats": {
+    "total": 4
+  },
+  "meta": {
+    "geracaoId": "gt-4"
+  }
+}

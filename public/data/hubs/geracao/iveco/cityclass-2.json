@@ -1,0 +1,129 @@
+{
+  "tipo": "geracao",
+  "slug": "cityclass-2",
+  "canonicalPath": "/geracao/iveco/cityclass-2/",
+  "titulo": "Geracao cityclass-2",
+  "descricao": "12 veiculos da geracao cityclass-2.",
+  "seo": {
+    "title": "Geracao cityclass-2 - Precos FIPE",
+    "description": "Veiculos da geracao cityclass-2 na Tabela FIPE.",
+    "h1": "Geracao cityclass-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/iveco/cityclass-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "iveco-cityclass-escolar-diesel-e5-2013-diesel",
+      "fipeCodigo": "506137-7",
+      "displayName": "IVECO CityClass ESCOLAR (diesel)(E5)",
+      "valorAtual": 82441,
+      "canonicalPath": "/fipe/iveco/cityclass-escolar-diesel-e5-2013-506137-7/",
+      "ano": 2013,
+      "marca": "IVECO"
+    },
+    {
+      "vehicleId": "iveco-cityclass-escolar-diesel-e5-2014-diesel",
+      "fipeCodigo": "506137-7",
+      "displayName": "IVECO CityClass ESCOLAR (diesel)(E5)",
+      "valorAtual": 86998,
+      "canonicalPath": "/fipe/iveco/cityclass-escolar-diesel-e5-2014-506137-7/",
+      "ano": 2014,
+      "marca": "IVECO"
+    },
+    {
+      "vehicleId": "iveco-cityclass-escolar-diesel-e5-2015-diesel",
+      "fipeCodigo": "506137-7",
+      "displayName": "IVECO CityClass ESCOLAR (diesel)(E5)",
+      "valorAtual": 91974,
+      "canonicalPath": "/fipe/iveco/cityclass-escolar-diesel-e5-2015-506137-7/",
+      "ano": 2015,
+      "marca": "IVECO"
+    },
+    {
+      "vehicleId": "iveco-cityclass-escolar-diesel-e5-2016-diesel",
+      "fipeCodigo": "506137-7",
+      "displayName": "IVECO CityClass ESCOLAR (diesel)(E5)",
+      "valorAtual": 94870,
+      "canonicalPath": "/fipe/iveco/cityclass-escolar-diesel-e5-2016-506137-7/",
+      "ano": 2016,
+      "marca": "IVECO"
+    },
+    {
+      "vehicleId": "iveco-cityclass-executivo-turismo-diesel-e5-2013-diesel",
+      "fipeCodigo": "506139-3",
+      "displayName": "IVECO CityClass EXECUTIVO/TURISMO (diesel)(E5)",
+      "valorAtual": 102000,
+      "canonicalPath": "/fipe/iveco/cityclass-executivo-turismo-diesel-e5-2013-506139-3/",
+      "ano": 2013,
+      "marca": "IVECO"
+    },
+    {
+      "vehicleId": "iveco-cityclass-executivo-turismo-diesel-e5-2014-diesel",
+      "fipeCodigo": "506139-3",
+      "displayName": "IVECO CityClass EXECUTIVO/TURISMO (diesel)(E5)",
+      "valorAtual": 126135,
+      "canonicalPath": "/fipe/iveco/cityclass-executivo-turismo-diesel-e5-2014-506139-3/",
+      "ano": 2014,
+      "marca": "IVECO"
+    },
+    {
+      "vehicleId": "iveco-cityclass-executivo-turismo-diesel-e5-2015-diesel",
+      "fipeCodigo": "506139-3",
+      "displayName": "IVECO CityClass EXECUTIVO/TURISMO (diesel)(E5)",
+      "valorAtual": 130431,
+      "canonicalPath": "/fipe/iveco/cityclass-executivo-turismo-diesel-e5-2015-506139-3/",
+      "ano": 2015,
+      "marca": "IVECO"
+    },
+    {
+      "vehicleId": "iveco-cityclass-executivo-turismo-diesel-e5-2016-diesel",
+      "fipeCodigo": "506139-3",
+      "displayName": "IVECO CityClass EXECUTIVO/TURISMO (diesel)(E5)",
+      "valorAtual": 134635,
+      "canonicalPath": "/fipe/iveco/cityclass-executivo-turismo-diesel-e5-2016-506139-3/",
+      "ano": 2016,
+      "marca": "IVECO"
+    },
+    {
+      "vehicleId": "iveco-cityclass-fretamento-diesel-e5-2013-diesel",
+      "fipeCodigo": "506138-5",
+      "displayName": "IVECO CityClass FRETAMENTO (diesel)(E5)",
+      "valorAtual": 101625,
+      "canonicalPath": "/fipe/iveco/cityclass-fretamento-diesel-e5-2013-506138-5/",
+      "ano": 2013,
+      "marca": "IVECO"
+    },
+    {
+      "vehicleId": "iveco-cityclass-fretamento-diesel-e5-2014-diesel",
+      "fipeCodigo": "506138-5",
+      "displayName": "IVECO CityClass FRETAMENTO (diesel)(E5)",
+      "valorAtual": 109903,
+      "canonicalPath": "/fipe/iveco/cityclass-fretamento-diesel-e5-2014-506138-5/",
+      "ano": 2014,
+      "marca": "IVECO"
+    },
+    {
+      "vehicleId": "iveco-cityclass-fretamento-diesel-e5-2015-diesel",
+      "fipeCodigo": "506138-5",
+      "displayName": "IVECO CityClass FRETAMENTO (diesel)(E5)",
+      "valorAtual": 121166,
+      "canonicalPath": "/fipe/iveco/cityclass-fretamento-diesel-e5-2015-506138-5/",
+      "ano": 2015,
+      "marca": "IVECO"
+    },
+    {
+      "vehicleId": "iveco-cityclass-fretamento-diesel-e5-2016-diesel",
+      "fipeCodigo": "506138-5",
+      "displayName": "IVECO CityClass FRETAMENTO (diesel)(E5)",
+      "valorAtual": 126753,
+      "canonicalPath": "/fipe/iveco/cityclass-fretamento-diesel-e5-2016-506138-5/",
+      "ano": 2016,
+      "marca": "IVECO"
+    }
+  ],
+  "stats": {
+    "total": 12
+  },
+  "meta": {
+    "geracaoId": "cityclass-2"
+  }
+}

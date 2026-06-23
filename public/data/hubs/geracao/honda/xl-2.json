@@ -1,0 +1,84 @@
+{
+  "tipo": "geracao",
+  "slug": "xl-2",
+  "canonicalPath": "/geracao/honda/xl-2/",
+  "titulo": "Geracao xl-2",
+  "descricao": "7 veiculos da geracao xl-2.",
+  "seo": {
+    "title": "Geracao xl-2 - Precos FIPE",
+    "description": "Veiculos da geracao xl-2 na Tabela FIPE.",
+    "h1": "Geracao xl-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/honda/xl-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "honda-xl-125-duty-1990-gasolina",
+      "fipeCodigo": "811039-5",
+      "displayName": "HONDA XL 125 DUTY",
+      "valorAtual": 1946,
+      "canonicalPath": "/fipe/honda/xl-125-duty-1990-811039-5/",
+      "ano": 1990,
+      "marca": "HONDA"
+    },
+    {
+      "vehicleId": "honda-xl-125-duty-1991-gasolina",
+      "fipeCodigo": "811039-5",
+      "displayName": "HONDA XL 125 DUTY",
+      "valorAtual": 2144,
+      "canonicalPath": "/fipe/honda/xl-125-duty-1991-811039-5/",
+      "ano": 1991,
+      "marca": "HONDA"
+    },
+    {
+      "vehicleId": "honda-xl-125-s-1992-gasolina",
+      "fipeCodigo": "811040-9",
+      "displayName": "HONDA XL 125 S",
+      "valorAtual": 3390,
+      "canonicalPath": "/fipe/honda/xl-125-s-1992-811040-9/",
+      "ano": 1992,
+      "marca": "HONDA"
+    },
+    {
+      "vehicleId": "honda-xl-125-s-1993-gasolina",
+      "fipeCodigo": "811040-9",
+      "displayName": "HONDA XL 125 S",
+      "valorAtual": 3998,
+      "canonicalPath": "/fipe/honda/xl-125-s-1993-811040-9/",
+      "ano": 1993,
+      "marca": "HONDA"
+    },
+    {
+      "vehicleId": "honda-xl-125-s-1994-gasolina",
+      "fipeCodigo": "811040-9",
+      "displayName": "HONDA XL 125 S",
+      "valorAtual": 4251,
+      "canonicalPath": "/fipe/honda/xl-125-s-1994-811040-9/",
+      "ano": 1994,
+      "marca": "HONDA"
+    },
+    {
+      "vehicleId": "honda-xl-125-s-1995-gasolina",
+      "fipeCodigo": "811040-9",
+      "displayName": "HONDA XL 125 S",
+      "valorAtual": 5917,
+      "canonicalPath": "/fipe/honda/xl-125-s-1995-811040-9/",
+      "ano": 1995,
+      "marca": "HONDA"
+    },
+    {
+      "vehicleId": "honda-xl-125-s-1996-gasolina",
+      "fipeCodigo": "811040-9",
+      "displayName": "HONDA XL 125 S",
+      "valorAtual": 6251,
+      "canonicalPath": "/fipe/honda/xl-125-s-1996-811040-9/",
+      "ano": 1996,
+      "marca": "HONDA"
+    }
+  ],
+  "stats": {
+    "total": 7
+  },
+  "meta": {
+    "geracaoId": "xl-2"
+  }
+}

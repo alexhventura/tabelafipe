@@ -1,0 +1,61 @@
+{
+  "tipo": "familia",
+  "slug": "gransport",
+  "canonicalPath": "/fipe/maserati/gransport/",
+  "titulo": "Maserati gransport - Tabela FIPE",
+  "descricao": "4 versoes e anos do Maserati gransport na Tabela FIPE.",
+  "seo": {
+    "title": "Maserati gransport - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes Maserati gransport. 4 veiculos indexados.",
+    "h1": "Maserati gransport - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/maserati/gransport/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "maserati-gransport-4-2-v8-32v-400cv-2007-gasolina",
+      "fipeCodigo": "034016-2",
+      "displayName": "Maserati GranSport 4.2 V8 32V 400cv",
+      "valorAtual": 221694,
+      "canonicalPath": "/fipe/maserati/gransport-4-2-v8-32v-400cv-2007-034016-2/",
+      "ano": 2007,
+      "marca": "Maserati"
+    },
+    {
+      "vehicleId": "maserati-gransport-spyder-4-2-v8-32v-400cv-2006-gasolina",
+      "fipeCodigo": "034017-0",
+      "displayName": "Maserati GranSport Spyder 4.2 V8 32V 400cv",
+      "valorAtual": 187585,
+      "canonicalPath": "/fipe/maserati/gransport-spyder-4-2-v8-32v-400cv-2006-034017-0/",
+      "ano": 2006,
+      "marca": "Maserati"
+    },
+    {
+      "vehicleId": "maserati-gransport-4-2-v8-32v-400cv-2006-gasolina",
+      "fipeCodigo": "034016-2",
+      "displayName": "Maserati GranSport 4.2 V8 32V 400cv",
+      "valorAtual": 216286,
+      "canonicalPath": "/fipe/maserati/gransport-4-2-v8-32v-400cv-2006-034016-2/",
+      "ano": 2006,
+      "marca": "Maserati"
+    },
+    {
+      "vehicleId": "maserati-gransport-4-2-v8-32v-400cv-2005-gasolina",
+      "fipeCodigo": "034016-2",
+      "displayName": "Maserati GranSport 4.2 V8 32V 400cv",
+      "valorAtual": 211010,
+      "canonicalPath": "/fipe/maserati/gransport-4-2-v8-32v-400cv-2005-034016-2/",
+      "ano": 2005,
+      "marca": "Maserati"
+    }
+  ],
+  "stats": {
+    "total": 4,
+    "precoMin": 187585,
+    "precoMax": 221694,
+    "anos": [
+      2007,
+      2006,
+      2005
+    ]
+  }
+}

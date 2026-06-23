@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "grand-4",
+  "canonicalPath": "/geracao/jeep/grand-4/",
+  "titulo": "Geracao grand-4",
+  "descricao": "2 veiculos da geracao grand-4.",
+  "seo": {
+    "title": "Geracao grand-4 - Precos FIPE",
+    "description": "Veiculos da geracao grand-4 na Tabela FIPE.",
+    "h1": "Geracao grand-4",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/jeep/grand-4/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "jeep-grand-cherokee-4xe-2-0-t-aut-hibrido-2023-hibrido",
+      "fipeCodigo": "017094-1",
+      "displayName": "Jeep Grand Cherokee 4XE 2.0 T. Aut. (Híbrido)",
+      "valorAtual": 366375,
+      "canonicalPath": "/fipe/jeep/grand-cherokee-4xe-2-0-t-aut-hibrido-2023-017094-1/",
+      "ano": 2023,
+      "marca": "Jeep"
+    },
+    {
+      "vehicleId": "jeep-grand-cherokee-4xe-2-0-t-aut-hibrido-2024-hibrido",
+      "fipeCodigo": "017094-1",
+      "displayName": "Jeep Grand Cherokee 4XE 2.0 T. Aut. (Híbrido)",
+      "valorAtual": 415944,
+      "canonicalPath": "/fipe/jeep/grand-cherokee-4xe-2-0-t-aut-hibrido-2024-017094-1/",
+      "ano": 2024,
+      "marca": "Jeep"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "grand-4"
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "tipo": "geracao",
+  "slug": "gts-1",
+  "canonicalPath": "/geracao/mclaren/gts-1/",
+  "titulo": "Geracao gts-1",
+  "descricao": "5 veiculos da geracao gts-1.",
+  "seo": {
+    "title": "Geracao gts-1 - Precos FIPE",
+    "description": "Veiculos da geracao gts-1 na Tabela FIPE.",
+    "h1": "Geracao gts-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/mclaren/gts-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "mclaren-gts-coupe-4-0-bi-turbo-v8-2p-0-gasolina",
+      "fipeCodigo": "090016-8",
+      "displayName": "Mclaren GTS Coupé 4.0 Bi-Turbo V8 2p",
+      "valorAtual": 3300000,
+      "canonicalPath": "/fipe/mclaren/gts-coupe-4-0-bi-turbo-v8-2p-0-090016-8/",
+      "ano": 0,
+      "marca": "Mclaren"
+    },
+    {
+      "vehicleId": "vespa-gts-300-0-gasolina",
+      "fipeCodigo": "898013-6",
+      "displayName": "VESPA GTS 300",
+      "valorAtual": 79990,
+      "canonicalPath": "/fipe/vespa/gts-300-0-898013-6/",
+      "ano": 0,
+      "marca": "VESPA"
+    },
+    {
+      "vehicleId": "vespa-gts-super-300-0-gasolina",
+      "fipeCodigo": "898012-8",
+      "displayName": "VESPA GTS Super 300",
+      "valorAtual": 82990,
+      "canonicalPath": "/fipe/vespa/gts-super-300-0-898012-8/",
+      "ano": 0,
+      "marca": "VESPA"
+    },
+    {
+      "vehicleId": "vespa-gts-super-sport-300-0-gasolina",
+      "fipeCodigo": "898010-1",
+      "displayName": "VESPA GTS Super Sport 300",
+      "valorAtual": 84990,
+      "canonicalPath": "/fipe/vespa/gts-super-sport-300-0-898010-1/",
+      "ano": 0,
+      "marca": "VESPA"
+    },
+    {
+      "vehicleId": "vespa-gts-super-tech-300-0-gasolina",
+      "fipeCodigo": "898011-0",
+      "displayName": "VESPA GTS Super Tech 300",
+      "valorAtual": 84990,
+      "canonicalPath": "/fipe/vespa/gts-super-tech-300-0-898011-0/",
+      "ano": 0,
+      "marca": "VESPA"
+    }
+  ],
+  "stats": {
+    "total": 5
+  },
+  "meta": {
+    "geracaoId": "gts-1"
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "tipo": "familia",
+  "slug": "4",
+  "canonicalPath": "/fipe/mg/4/",
+  "titulo": "MG 4 - Tabela FIPE",
+  "descricao": "7 versoes e anos do MG 4 na Tabela FIPE.",
+  "seo": {
+    "title": "MG 4 - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes MG 4. 7 veiculos indexados.",
+    "h1": "MG 4 - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/mg/4/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "mg-4-xpower-awd-2027-eletrico",
+      "fipeCodigo": "076008-0",
+      "displayName": "MG 4 Xpower AWD",
+      "valorAtual": 211937,
+      "canonicalPath": "/fipe/mg/4-xpower-awd-2027-076008-0/",
+      "ano": 2027,
+      "marca": "MG"
+    },
+    {
+      "vehicleId": "mg-4-comfort-2026-eletrico",
+      "fipeCodigo": "076006-4",
+      "displayName": "MG 4 Comfort",
+      "valorAtual": 163014,
+      "canonicalPath": "/fipe/mg/4-comfort-2026-076006-4/",
+      "ano": 2026,
+      "marca": "MG"
+    },
+    {
+      "vehicleId": "mg-4-luxury-2026-eletrico",
+      "fipeCodigo": "076007-2",
+      "displayName": "MG 4 Luxury",
+      "valorAtual": 183949,
+      "canonicalPath": "/fipe/mg/4-luxury-2026-076007-2/",
+      "ano": 2026,
+      "marca": "MG"
+    },
+    {
+      "vehicleId": "mg-4-xpower-awd-2026-eletrico",
+      "fipeCodigo": "076008-0",
+      "displayName": "MG 4 Xpower AWD",
+      "valorAtual": 193757,
+      "canonicalPath": "/fipe/mg/4-xpower-awd-2026-076008-0/",
+      "ano": 2026,
+      "marca": "MG"
+    },
+    {
+      "vehicleId": "mg-4-comfort-0-eletrico",
+      "fipeCodigo": "076006-4",
+      "displayName": "MG 4 Comfort",
+      "valorAtual": 172340,
+      "canonicalPath": "/fipe/mg/4-comfort-0-076006-4/",
+      "ano": 0,
+      "marca": "MG"
+    },
+    {
+      "vehicleId": "mg-4-luxury-0-eletrico",
+      "fipeCodigo": "076007-2",
+      "displayName": "MG 4 Luxury",
+      "valorAtual": 192466,
+      "canonicalPath": "/fipe/mg/4-luxury-0-076007-2/",
+      "ano": 0,
+      "marca": "MG"
+    },
+    {
+      "vehicleId": "mg-4-xpower-awd-0-eletrico",
+      "fipeCodigo": "076008-0",
+      "displayName": "MG 4 Xpower AWD",
+      "valorAtual": 229867,
+      "canonicalPath": "/fipe/mg/4-xpower-awd-0-076008-0/",
+      "ano": 0,
+      "marca": "MG"
+    }
+  ],
+  "stats": {
+    "total": 7,
+    "precoMin": 163014,
+    "precoMax": 229867,
+    "anos": [
+      2027,
+      2026,
+      0
+    ]
+  }
+}

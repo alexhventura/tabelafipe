@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "she-2",
+  "canonicalPath": "/geracao/shineray/she-2/",
+  "titulo": "Geracao she-2",
+  "descricao": "2 veiculos da geracao she-2.",
+  "seo": {
+    "title": "Geracao she-2 - Precos FIPE",
+    "description": "Veiculos da geracao she-2 na Tabela FIPE.",
+    "h1": "Geracao she-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/shineray/she-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "shineray-she-s-3000w-eletrica-2024-eletrico",
+      "fipeCodigo": "850041-0",
+      "displayName": "SHINERAY SHE-S 3000W (Elétrica)",
+      "valorAtual": 11755,
+      "canonicalPath": "/fipe/shineray/she-s-3000w-eletrica-2024-850041-0/",
+      "ano": 2024,
+      "marca": "SHINERAY"
+    },
+    {
+      "vehicleId": "shineray-she-s-3000w-eletrica-2025-eletrico",
+      "fipeCodigo": "850041-0",
+      "displayName": "SHINERAY SHE-S 3000W (Elétrica)",
+      "valorAtual": 12333,
+      "canonicalPath": "/fipe/shineray/she-s-3000w-eletrica-2025-850041-0/",
+      "ano": 2025,
+      "marca": "SHINERAY"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "she-2"
+  }
+}

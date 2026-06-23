@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "cr-5",
+  "canonicalPath": "/geracao/honda/cr-5/",
+  "titulo": "Geracao cr-5",
+  "descricao": "2 veiculos da geracao cr-5.",
+  "seo": {
+    "title": "Geracao cr-5 - Precos FIPE",
+    "description": "Veiculos da geracao cr-5 na Tabela FIPE.",
+    "h1": "Geracao cr-5",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/honda/cr-5/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "honda-cr-v-touring-2-0-16v-awd-aut-hibrido-2024-hibrido",
+      "fipeCodigo": "014117-8",
+      "displayName": "Honda CR-V Touring 2.0 16V AWD Aut.(Híbrido)",
+      "valorAtual": 269650,
+      "canonicalPath": "/fipe/honda/cr-v-touring-2-0-16v-awd-aut-hibrido-2024-014117-8/",
+      "ano": 2024,
+      "marca": "Honda"
+    },
+    {
+      "vehicleId": "honda-cr-v-touring-2-0-16v-awd-aut-hibrido-2025-hibrido",
+      "fipeCodigo": "014117-8",
+      "displayName": "Honda CR-V Touring 2.0 16V AWD Aut.(Híbrido)",
+      "valorAtual": 313213,
+      "canonicalPath": "/fipe/honda/cr-v-touring-2-0-16v-awd-aut-hibrido-2025-014117-8/",
+      "ano": 2025,
+      "marca": "Honda"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "cr-5"
+  }
+}

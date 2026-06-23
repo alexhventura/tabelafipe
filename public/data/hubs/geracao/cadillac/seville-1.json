@@ -1,0 +1,75 @@
+{
+  "tipo": "geracao",
+  "slug": "seville-1",
+  "canonicalPath": "/geracao/cadillac/seville-1/",
+  "titulo": "Geracao seville-1",
+  "descricao": "6 veiculos da geracao seville-1.",
+  "seo": {
+    "title": "Geracao seville-1 - Precos FIPE",
+    "description": "Veiculos da geracao seville-1 na Tabela FIPE.",
+    "h1": "Geracao seville-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/cadillac/seville-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "cadillac-seville-4-6-1991-gasolina",
+      "fipeCodigo": "041002-0",
+      "displayName": "Cadillac Seville 4.6",
+      "valorAtual": 33161,
+      "canonicalPath": "/fipe/cadillac/seville-4-6-1991-041002-0/",
+      "ano": 1991,
+      "marca": "Cadillac"
+    },
+    {
+      "vehicleId": "cadillac-seville-4-6-1992-gasolina",
+      "fipeCodigo": "041002-0",
+      "displayName": "Cadillac Seville 4.6",
+      "valorAtual": 39716,
+      "canonicalPath": "/fipe/cadillac/seville-4-6-1992-041002-0/",
+      "ano": 1992,
+      "marca": "Cadillac"
+    },
+    {
+      "vehicleId": "cadillac-seville-4-6-1993-gasolina",
+      "fipeCodigo": "041002-0",
+      "displayName": "Cadillac Seville 4.6",
+      "valorAtual": 44433,
+      "canonicalPath": "/fipe/cadillac/seville-4-6-1993-041002-0/",
+      "ano": 1993,
+      "marca": "Cadillac"
+    },
+    {
+      "vehicleId": "cadillac-seville-4-6-1994-gasolina",
+      "fipeCodigo": "041002-0",
+      "displayName": "Cadillac Seville 4.6",
+      "valorAtual": 50765,
+      "canonicalPath": "/fipe/cadillac/seville-4-6-1994-041002-0/",
+      "ano": 1994,
+      "marca": "Cadillac"
+    },
+    {
+      "vehicleId": "cadillac-seville-4-6-1995-gasolina",
+      "fipeCodigo": "041002-0",
+      "displayName": "Cadillac Seville 4.6",
+      "valorAtual": 78112,
+      "canonicalPath": "/fipe/cadillac/seville-4-6-1995-041002-0/",
+      "ano": 1995,
+      "marca": "Cadillac"
+    },
+    {
+      "vehicleId": "cadillac-seville-4-6-1996-gasolina",
+      "fipeCodigo": "041002-0",
+      "displayName": "Cadillac Seville 4.6",
+      "valorAtual": 80065,
+      "canonicalPath": "/fipe/cadillac/seville-4-6-1996-041002-0/",
+      "ano": 1996,
+      "marca": "Cadillac"
+    }
+  ],
+  "stats": {
+    "total": 6
+  },
+  "meta": {
+    "geracaoId": "seville-1"
+  }
+}

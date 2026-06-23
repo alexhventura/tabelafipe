@@ -1,0 +1,71 @@
+{
+  "tipo": "familia",
+  "slug": "scout",
+  "canonicalPath": "/fipe/indian/scout/",
+  "titulo": "INDIAN scout - Tabela FIPE",
+  "descricao": "5 versoes e anos do INDIAN scout na Tabela FIPE.",
+  "seo": {
+    "title": "INDIAN scout - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes INDIAN scout. 5 veiculos indexados.",
+    "h1": "INDIAN scout - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/indian/scout/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "indian-scout-bobber-2018-gasolina",
+      "fipeCodigo": "883007-0",
+      "displayName": "INDIAN SCOUT BOBBER",
+      "valorAtual": 64933,
+      "canonicalPath": "/fipe/indian/scout-bobber-2018-883007-0/",
+      "ano": 2018,
+      "marca": "INDIAN"
+    },
+    {
+      "vehicleId": "indian-scout-2018-gasolina",
+      "fipeCodigo": "883001-0",
+      "displayName": "INDIAN SCOUT",
+      "valorAtual": 64987,
+      "canonicalPath": "/fipe/indian/scout-2018-883001-0/",
+      "ano": 2018,
+      "marca": "INDIAN"
+    },
+    {
+      "vehicleId": "indian-scout-2017-gasolina",
+      "fipeCodigo": "883001-0",
+      "displayName": "INDIAN SCOUT",
+      "valorAtual": 60771,
+      "canonicalPath": "/fipe/indian/scout-2017-883001-0/",
+      "ano": 2017,
+      "marca": "INDIAN"
+    },
+    {
+      "vehicleId": "indian-scout-2016-gasolina",
+      "fipeCodigo": "883001-0",
+      "displayName": "INDIAN SCOUT",
+      "valorAtual": 52999,
+      "canonicalPath": "/fipe/indian/scout-2016-883001-0/",
+      "ano": 2016,
+      "marca": "INDIAN"
+    },
+    {
+      "vehicleId": "indian-scout-2015-gasolina",
+      "fipeCodigo": "883001-0",
+      "displayName": "INDIAN SCOUT",
+      "valorAtual": 51706,
+      "canonicalPath": "/fipe/indian/scout-2015-883001-0/",
+      "ano": 2015,
+      "marca": "INDIAN"
+    }
+  ],
+  "stats": {
+    "total": 5,
+    "precoMin": 51706,
+    "precoMax": 64987,
+    "anos": [
+      2018,
+      2017,
+      2016,
+      2015
+    ]
+  }
+}

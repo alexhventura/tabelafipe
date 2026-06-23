@@ -1,0 +1,57 @@
+{
+  "tipo": "geracao",
+  "slug": "stx-1",
+  "canonicalPath": "/geracao/sundown/stx-1/",
+  "titulo": "Geracao stx-1",
+  "descricao": "4 veiculos da geracao stx-1.",
+  "seo": {
+    "title": "Geracao stx-1 - Precos FIPE",
+    "description": "Veiculos da geracao stx-1 na Tabela FIPE.",
+    "h1": "Geracao stx-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/sundown/stx-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "sundown-stx-200cc-2007-gasolina",
+      "fipeCodigo": "824018-3",
+      "displayName": "SUNDOWN STX 200cc",
+      "valorAtual": 3947,
+      "canonicalPath": "/fipe/sundown/stx-200cc-2007-824018-3/",
+      "ano": 2007,
+      "marca": "SUNDOWN"
+    },
+    {
+      "vehicleId": "sundown-stx-200cc-2008-gasolina",
+      "fipeCodigo": "824018-3",
+      "displayName": "SUNDOWN STX 200cc",
+      "valorAtual": 4323,
+      "canonicalPath": "/fipe/sundown/stx-200cc-2008-824018-3/",
+      "ano": 2008,
+      "marca": "SUNDOWN"
+    },
+    {
+      "vehicleId": "sundown-stx-motard-200cc-2007-gasolina",
+      "fipeCodigo": "824017-5",
+      "displayName": "SUNDOWN STX MOTARD 200cc",
+      "valorAtual": 6471,
+      "canonicalPath": "/fipe/sundown/stx-motard-200cc-2007-824017-5/",
+      "ano": 2007,
+      "marca": "SUNDOWN"
+    },
+    {
+      "vehicleId": "sundown-stx-motard-200cc-2008-gasolina",
+      "fipeCodigo": "824017-5",
+      "displayName": "SUNDOWN STX MOTARD 200cc",
+      "valorAtual": 7153,
+      "canonicalPath": "/fipe/sundown/stx-motard-200cc-2008-824017-5/",
+      "ano": 2008,
+      "marca": "SUNDOWN"
+    }
+  ],
+  "stats": {
+    "total": 4
+  },
+  "meta": {
+    "geracaoId": "stx-1"
+  }
+}

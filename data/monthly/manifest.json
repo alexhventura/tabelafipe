@@ -1,0 +1,18 @@
+{
+  "geradoEm": "2026-06-21T04:23:14.535Z",
+  "camada": "dinamico",
+  "descricao": "Precos FIPE, historico, tendencias e liquidez — atualizacao mensal.",
+  "cadencia": "mensal",
+  "pattern": "{mesReferencia}/{vehicleId}.json",
+  "registros": 50395,
+  "fontes": [
+    "FIPE",
+    "fipeX"
+  ],
+  "nota": "Arquivos *.json nesta pasta sao gerados e ignorados pelo git (exceto manifest.json).",
+  "cobertura": {
+    "valorFipe": 100,
+    "historico": 99.69,
+    "tendenciaDerivada": 100
+  }
+}

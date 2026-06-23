@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "liberty150-2",
+  "canonicalPath": "/geracao/piaggio/liberty150-2/",
+  "titulo": "Geracao liberty150-2",
+  "descricao": "2 veiculos da geracao liberty150-2.",
+  "seo": {
+    "title": "Geracao liberty150-2 - Precos FIPE",
+    "description": "Veiculos da geracao liberty150-2 na Tabela FIPE.",
+    "h1": "Geracao liberty150-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/piaggio/liberty150-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "piaggio-liberty150-2024-gasolina",
+      "fipeCodigo": "822047-6",
+      "displayName": "PIAGGIO Liberty150",
+      "valorAtual": 24285,
+      "canonicalPath": "/fipe/piaggio/liberty150-2024-822047-6/",
+      "ano": 2024,
+      "marca": "PIAGGIO"
+    },
+    {
+      "vehicleId": "piaggio-liberty150-2025-gasolina",
+      "fipeCodigo": "822047-6",
+      "displayName": "PIAGGIO Liberty150",
+      "valorAtual": 24909,
+      "canonicalPath": "/fipe/piaggio/liberty150-2025-822047-6/",
+      "ano": 2025,
+      "marca": "PIAGGIO"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "liberty150-2"
+  }
+}

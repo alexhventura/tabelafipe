@@ -1,0 +1,42 @@
+{
+  "tipo": "familia",
+  "slug": "435ia",
+  "canonicalPath": "/fipe/bmw/435ia/",
+  "titulo": "BMW 435ia - Tabela FIPE",
+  "descricao": "2 versoes e anos do BMW 435ia na Tabela FIPE.",
+  "seo": {
+    "title": "BMW 435ia - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes BMW 435ia. 2 veiculos indexados.",
+    "h1": "BMW 435ia - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/bmw/435ia/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "bmw-435ia-m-sport-coupe-3-0-24v-306cv-2p-2015-gasolina",
+      "fipeCodigo": "009190-1",
+      "displayName": "BMW 435iA M Sport Coupe 3.0 24V 306cv 2p",
+      "valorAtual": 219028,
+      "canonicalPath": "/fipe/bmw/435ia-m-sport-coupe-3-0-24v-306cv-2p-2015-009190-1/",
+      "ano": 2015,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-435ia-m-sport-coupe-3-0-24v-306cv-2p-2014-gasolina",
+      "fipeCodigo": "009190-1",
+      "displayName": "BMW 435iA M Sport Coupe 3.0 24V 306cv 2p",
+      "valorAtual": 213685,
+      "canonicalPath": "/fipe/bmw/435ia-m-sport-coupe-3-0-24v-306cv-2p-2014-009190-1/",
+      "ano": 2014,
+      "marca": "BMW"
+    }
+  ],
+  "stats": {
+    "total": 2,
+    "precoMin": 213685,
+    "precoMax": 219028,
+    "anos": [
+      2015,
+      2014
+    ]
+  }
+}

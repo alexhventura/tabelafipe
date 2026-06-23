@@ -1,0 +1,48 @@
+{
+  "tipo": "geracao",
+  "slug": "bee-2",
+  "canonicalPath": "/geracao/bee/bee-2/",
+  "titulo": "Geracao bee-2",
+  "descricao": "3 veiculos da geracao bee-2.",
+  "seo": {
+    "title": "Geracao bee-2 - Precos FIPE",
+    "description": "Veiculos da geracao bee-2 na Tabela FIPE.",
+    "h1": "Geracao bee-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/bee/bee-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "bee-bee-200cc-gt-2019-gasolina",
+      "fipeCodigo": "886005-0",
+      "displayName": "BEE BEE 200cc GT",
+      "valorAtual": 11982,
+      "canonicalPath": "/fipe/bee/bee-200cc-gt-2019-886005-0/",
+      "ano": 2019,
+      "marca": "BEE"
+    },
+    {
+      "vehicleId": "bee-bee-200cc-royale-2020-gasolina",
+      "fipeCodigo": "886003-3",
+      "displayName": "BEE BEE 200cc Royale",
+      "valorAtual": 9611,
+      "canonicalPath": "/fipe/bee/bee-200cc-royale-2020-886003-3/",
+      "ano": 2020,
+      "marca": "BEE"
+    },
+    {
+      "vehicleId": "bee-bee-50cc-2019-gasolina",
+      "fipeCodigo": "886001-7",
+      "displayName": "BEE BEE 50cc",
+      "valorAtual": 7062,
+      "canonicalPath": "/fipe/bee/bee-50cc-2019-886001-7/",
+      "ano": 2019,
+      "marca": "BEE"
+    }
+  ],
+  "stats": {
+    "total": 3
+  },
+  "meta": {
+    "geracaoId": "bee-2"
+  }
+}

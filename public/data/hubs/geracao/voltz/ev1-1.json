@@ -1,0 +1,48 @@
+{
+  "tipo": "geracao",
+  "slug": "ev1-1",
+  "canonicalPath": "/geracao/voltz/ev1-1/",
+  "titulo": "Geracao ev1-1",
+  "descricao": "3 veiculos da geracao ev1-1.",
+  "seo": {
+    "title": "Geracao ev1-1 - Precos FIPE",
+    "description": "Veiculos da geracao ev1-1 na Tabela FIPE.",
+    "h1": "Geracao ev1-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/voltz/ev1-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "voltz-ev1-sport-3000w-eletrica-2021-eletrico",
+      "fipeCodigo": "889003-0",
+      "displayName": "VOLTZ EV1 Sport 3000W (elétrica)",
+      "valorAtual": 9909,
+      "canonicalPath": "/fipe/voltz/ev1-sport-3000w-eletrica-2021-889003-0/",
+      "ano": 2021,
+      "marca": "VOLTZ"
+    },
+    {
+      "vehicleId": "voltz-ev1-sport-3000w-eletrica-2022-eletrico",
+      "fipeCodigo": "889003-0",
+      "displayName": "VOLTZ EV1 Sport 3000W (elétrica)",
+      "valorAtual": 10998,
+      "canonicalPath": "/fipe/voltz/ev1-sport-3000w-eletrica-2022-889003-0/",
+      "ano": 2022,
+      "marca": "VOLTZ"
+    },
+    {
+      "vehicleId": "voltz-ev1-sport-3000w-eletrica-2023-eletrico",
+      "fipeCodigo": "889003-0",
+      "displayName": "VOLTZ EV1 Sport 3000W (elétrica)",
+      "valorAtual": 11815,
+      "canonicalPath": "/fipe/voltz/ev1-sport-3000w-eletrica-2023-889003-0/",
+      "ano": 2023,
+      "marca": "VOLTZ"
+    }
+  ],
+  "stats": {
+    "total": 3
+  },
+  "meta": {
+    "geracaoId": "ev1-1"
+  }
+}

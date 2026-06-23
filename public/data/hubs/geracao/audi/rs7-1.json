@@ -1,0 +1,66 @@
+{
+  "tipo": "geracao",
+  "slug": "rs7-1",
+  "canonicalPath": "/geracao/audi/rs7-1/",
+  "titulo": "Geracao rs7-1",
+  "descricao": "5 veiculos da geracao rs7-1.",
+  "seo": {
+    "title": "Geracao rs7-1 - Precos FIPE",
+    "description": "Veiculos da geracao rs7-1 na Tabela FIPE.",
+    "h1": "Geracao rs7-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/audi/rs7-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "audi-rs7-sportback-4-0-tfsi-quattro-tiptronic-2014-gasolina",
+      "fipeCodigo": "008194-9",
+      "displayName": "Audi RS7 Sportback 4.0 TFSI Quattro Tiptronic",
+      "valorAtual": 339984,
+      "canonicalPath": "/fipe/audi/rs7-sportback-4-0-tfsi-quattro-tiptronic-2014-008194-9/",
+      "ano": 2014,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-rs7-sportback-4-0-tfsi-quattro-tiptronic-2015-gasolina",
+      "fipeCodigo": "008194-9",
+      "displayName": "Audi RS7 Sportback 4.0 TFSI Quattro Tiptronic",
+      "valorAtual": 356600,
+      "canonicalPath": "/fipe/audi/rs7-sportback-4-0-tfsi-quattro-tiptronic-2015-008194-9/",
+      "ano": 2015,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-rs7-sportback-4-0-tfsi-quattro-tiptronic-2016-gasolina",
+      "fipeCodigo": "008194-9",
+      "displayName": "Audi RS7 Sportback 4.0 TFSI Quattro Tiptronic",
+      "valorAtual": 365515,
+      "canonicalPath": "/fipe/audi/rs7-sportback-4-0-tfsi-quattro-tiptronic-2016-008194-9/",
+      "ano": 2016,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-rs7-sportback-4-0-tfsi-quattro-tiptronic-2017-gasolina",
+      "fipeCodigo": "008194-9",
+      "displayName": "Audi RS7 Sportback 4.0 TFSI Quattro Tiptronic",
+      "valorAtual": 442482,
+      "canonicalPath": "/fipe/audi/rs7-sportback-4-0-tfsi-quattro-tiptronic-2017-008194-9/",
+      "ano": 2017,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-rs7-sportback-4-0-tfsi-quattro-tiptronic-2018-gasolina",
+      "fipeCodigo": "008194-9",
+      "displayName": "Audi RS7 Sportback 4.0 TFSI Quattro Tiptronic",
+      "valorAtual": 493436,
+      "canonicalPath": "/fipe/audi/rs7-sportback-4-0-tfsi-quattro-tiptronic-2018-008194-9/",
+      "ano": 2018,
+      "marca": "Audi"
+    }
+  ],
+  "stats": {
+    "total": 5
+  },
+  "meta": {
+    "geracaoId": "rs7-1"
+  }
+}

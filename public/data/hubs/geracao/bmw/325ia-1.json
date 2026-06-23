@@ -1,0 +1,93 @@
+{
+  "tipo": "geracao",
+  "slug": "325ia-1",
+  "canonicalPath": "/geracao/bmw/325ia-1/",
+  "titulo": "Geracao 325ia-1",
+  "descricao": "8 veiculos da geracao 325ia-1.",
+  "seo": {
+    "title": "Geracao 325ia-1 - Precos FIPE",
+    "description": "Veiculos da geracao 325ia-1 na Tabela FIPE.",
+    "h1": "Geracao 325ia-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/bmw/325ia-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "bmw-325ia-1989-gasolina",
+      "fipeCodigo": "009036-0",
+      "displayName": "BMW 325iA",
+      "valorAtual": 14166,
+      "canonicalPath": "/fipe/bmw/325ia-1989-009036-0/",
+      "ano": 1989,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-325ia-1990-gasolina",
+      "fipeCodigo": "009036-0",
+      "displayName": "BMW 325iA",
+      "valorAtual": 17220,
+      "canonicalPath": "/fipe/bmw/325ia-1990-009036-0/",
+      "ano": 1990,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-325ia-1991-gasolina",
+      "fipeCodigo": "009036-0",
+      "displayName": "BMW 325iA",
+      "valorAtual": 24367,
+      "canonicalPath": "/fipe/bmw/325ia-1991-009036-0/",
+      "ano": 1991,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-325ia-1992-gasolina",
+      "fipeCodigo": "009036-0",
+      "displayName": "BMW 325iA",
+      "valorAtual": 35086,
+      "canonicalPath": "/fipe/bmw/325ia-1992-009036-0/",
+      "ano": 1992,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-325ia-1993-gasolina",
+      "fipeCodigo": "009036-0",
+      "displayName": "BMW 325iA",
+      "valorAtual": 46786,
+      "canonicalPath": "/fipe/bmw/325ia-1993-009036-0/",
+      "ano": 1993,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-325ia-1994-gasolina",
+      "fipeCodigo": "009036-0",
+      "displayName": "BMW 325iA",
+      "valorAtual": 48870,
+      "canonicalPath": "/fipe/bmw/325ia-1994-009036-0/",
+      "ano": 1994,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-325ia-1995-gasolina",
+      "fipeCodigo": "009036-0",
+      "displayName": "BMW 325iA",
+      "valorAtual": 50092,
+      "canonicalPath": "/fipe/bmw/325ia-1995-009036-0/",
+      "ano": 1995,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-325ia-1996-gasolina",
+      "fipeCodigo": "009036-0",
+      "displayName": "BMW 325iA",
+      "valorAtual": 51345,
+      "canonicalPath": "/fipe/bmw/325ia-1996-009036-0/",
+      "ano": 1996,
+      "marca": "BMW"
+    }
+  ],
+  "stats": {
+    "total": 8
+  },
+  "meta": {
+    "geracaoId": "325ia-1"
+  }
+}

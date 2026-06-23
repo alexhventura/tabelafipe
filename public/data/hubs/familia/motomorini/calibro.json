@@ -1,0 +1,79 @@
+{
+  "tipo": "familia",
+  "slug": "calibro",
+  "canonicalPath": "/fipe/motomorini/calibro/",
+  "titulo": "MOTOMORINI calibro - Tabela FIPE",
+  "descricao": "6 versoes e anos do MOTOMORINI calibro na Tabela FIPE.",
+  "seo": {
+    "title": "MOTOMORINI calibro - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes MOTOMORINI calibro. 6 veiculos indexados.",
+    "h1": "MOTOMORINI calibro - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/motomorini/calibro/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "motomorini-calibro-custom-700-2026-gasolina",
+      "fipeCodigo": "899006-9",
+      "displayName": "MOTOMORINI CALIBRO CUSTOM 700",
+      "valorAtual": 48015,
+      "canonicalPath": "/fipe/motomorini/calibro-custom-700-2026-899006-9/",
+      "ano": 2026,
+      "marca": "MOTOMORINI"
+    },
+    {
+      "vehicleId": "motomorini-calibro-bagger-700-2026-gasolina",
+      "fipeCodigo": "899007-7",
+      "displayName": "MOTOMORINI CALIBRO BAGGER 700",
+      "valorAtual": 50940,
+      "canonicalPath": "/fipe/motomorini/calibro-bagger-700-2026-899007-7/",
+      "ano": 2026,
+      "marca": "MOTOMORINI"
+    },
+    {
+      "vehicleId": "motomorini-calibro-custom-700-2025-gasolina",
+      "fipeCodigo": "899006-9",
+      "displayName": "MOTOMORINI CALIBRO CUSTOM 700",
+      "valorAtual": 44722,
+      "canonicalPath": "/fipe/motomorini/calibro-custom-700-2025-899006-9/",
+      "ano": 2025,
+      "marca": "MOTOMORINI"
+    },
+    {
+      "vehicleId": "motomorini-calibro-bagger-700-2025-gasolina",
+      "fipeCodigo": "899007-7",
+      "displayName": "MOTOMORINI CALIBRO BAGGER 700",
+      "valorAtual": 47664,
+      "canonicalPath": "/fipe/motomorini/calibro-bagger-700-2025-899007-7/",
+      "ano": 2025,
+      "marca": "MOTOMORINI"
+    },
+    {
+      "vehicleId": "motomorini-calibro-custom-700-0-gasolina",
+      "fipeCodigo": "899006-9",
+      "displayName": "MOTOMORINI CALIBRO CUSTOM 700",
+      "valorAtual": 51476,
+      "canonicalPath": "/fipe/motomorini/calibro-custom-700-0-899006-9/",
+      "ano": 0,
+      "marca": "MOTOMORINI"
+    },
+    {
+      "vehicleId": "motomorini-calibro-bagger-700-0-gasolina",
+      "fipeCodigo": "899007-7",
+      "displayName": "MOTOMORINI CALIBRO BAGGER 700",
+      "valorAtual": 57504,
+      "canonicalPath": "/fipe/motomorini/calibro-bagger-700-0-899007-7/",
+      "ano": 0,
+      "marca": "MOTOMORINI"
+    }
+  ],
+  "stats": {
+    "total": 6,
+    "precoMin": 44722,
+    "precoMax": 57504,
+    "anos": [
+      2026,
+      2025,
+      0
+    ]
+  }
+}

@@ -1,0 +1,742 @@
+{
+  "tipo": "motor",
+  "slug": "dynamic-force-2.0",
+  "canonicalPath": "/motor/dynamic-force-2.0/",
+  "titulo": "Motor dynamic-force-2.0",
+  "descricao": "248 veiculos com motor dynamic-force-2.0 na Tabela FIPE.",
+  "seo": {
+    "title": "Motor dynamic-force-2.0 - Veiculos e precos FIPE",
+    "description": "Veiculos equipados com dynamic-force-2.0. Specs e precos FIPE.",
+    "h1": "Motor dynamic-force-2.0",
+    "canonical": "https://pesquisatabelafipe.com.br/motor/dynamic-force-2.0/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "toyota-corolla-altis-a-premiu-2-0-flex-16v-aut-2010-flex",
+      "fipeCodigo": "002112-1",
+      "displayName": "Toyota Corolla ALTIS/A.Premiu. 2.0 Flex 16V Aut",
+      "valorAtual": 56910,
+      "canonicalPath": "/fipe/toyota/corolla-altis-a-premiu-2-0-flex-16v-aut-2010-002112-1/",
+      "ano": 2010,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-corolla-altis-a-premiu-2-0-flex-16v-aut-2011-flex",
+      "fipeCodigo": "002112-1",
+      "displayName": "Toyota Corolla ALTIS/A.Premiu. 2.0 Flex 16V Aut",
+      "valorAtual": 60495,
+      "canonicalPath": "/fipe/toyota/corolla-altis-a-premiu-2-0-flex-16v-aut-2011-002112-1/",
+      "ano": 2011,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-corolla-altis-a-premiu-2-0-flex-16v-aut-2012-flex",
+      "fipeCodigo": "002112-1",
+      "displayName": "Toyota Corolla ALTIS/A.Premiu. 2.0 Flex 16V Aut",
+      "valorAtual": 65141,
+      "canonicalPath": "/fipe/toyota/corolla-altis-a-premiu-2-0-flex-16v-aut-2012-002112-1/",
+      "ano": 2012,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-corolla-altis-a-premiu-2-0-flex-16v-aut-2013-flex",
+      "fipeCodigo": "002112-1",
+      "displayName": "Toyota Corolla ALTIS/A.Premiu. 2.0 Flex 16V Aut",
+      "valorAtual": 69029,
+      "canonicalPath": "/fipe/toyota/corolla-altis-a-premiu-2-0-flex-16v-aut-2013-002112-1/",
+      "ano": 2013,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-corolla-altis-a-premiu-2-0-flex-16v-aut-2014-flex",
+      "fipeCodigo": "002112-1",
+      "displayName": "Toyota Corolla ALTIS/A.Premiu. 2.0 Flex 16V Aut",
+      "valorAtual": 72545,
+      "canonicalPath": "/fipe/toyota/corolla-altis-a-premiu-2-0-flex-16v-aut-2014-002112-1/",
+      "ano": 2014,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-corolla-altis-a-premiu-2-0-flex-16v-aut-2015-flex",
+      "fipeCodigo": "002112-1",
+      "displayName": "Toyota Corolla ALTIS/A.Premiu. 2.0 Flex 16V Aut",
+      "valorAtual": 82953,
+      "canonicalPath": "/fipe/toyota/corolla-altis-a-premiu-2-0-flex-16v-aut-2015-002112-1/",
+      "ano": 2015,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-corolla-altis-a-premiu-2-0-flex-16v-aut-2016-flex",
+      "fipeCodigo": "002112-1",
+      "displayName": "Toyota Corolla ALTIS/A.Premiu. 2.0 Flex 16V Aut",
+      "valorAtual": 86337,
+      "canonicalPath": "/fipe/toyota/corolla-altis-a-premiu-2-0-flex-16v-aut-2016-002112-1/",
+      "ano": 2016,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-corolla-altis-a-premiu-2-0-flex-16v-aut-2017-flex",
+      "fipeCodigo": "002112-1",
+      "displayName": "Toyota Corolla ALTIS/A.Premiu. 2.0 Flex 16V Aut",
+      "valorAtual": 90705,
+      "canonicalPath": "/fipe/toyota/corolla-altis-a-premiu-2-0-flex-16v-aut-2017-002112-1/",
+      "ano": 2017,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-corolla-altis-a-premiu-2-0-flex-16v-aut-2018-flex",
+      "fipeCodigo": "002112-1",
+      "displayName": "Toyota Corolla ALTIS/A.Premiu. 2.0 Flex 16V Aut",
+      "valorAtual": 103379,
+      "canonicalPath": "/fipe/toyota/corolla-altis-a-premiu-2-0-flex-16v-aut-2018-002112-1/",
+      "ano": 2018,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-corolla-altis-a-premiu-2-0-flex-16v-aut-2019-flex",
+      "fipeCodigo": "002112-1",
+      "displayName": "Toyota Corolla ALTIS/A.Premiu. 2.0 Flex 16V Aut",
+      "valorAtual": 106799,
+      "canonicalPath": "/fipe/toyota/corolla-altis-a-premiu-2-0-flex-16v-aut-2019-002112-1/",
+      "ano": 2019,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-corolla-altis-a-premiu-2-0-flex-16v-aut-2020-flex",
+      "fipeCodigo": "002112-1",
+      "displayName": "Toyota Corolla ALTIS/A.Premiu. 2.0 Flex 16V Aut",
+      "valorAtual": 124905,
+      "canonicalPath": "/fipe/toyota/corolla-altis-a-premiu-2-0-flex-16v-aut-2020-002112-1/",
+      "ano": 2020,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-corolla-altis-a-premiu-2-0-flex-16v-aut-2021-flex",
+      "fipeCodigo": "002112-1",
+      "displayName": "Toyota Corolla ALTIS/A.Premiu. 2.0 Flex 16V Aut",
+      "valorAtual": 128565,
+      "canonicalPath": "/fipe/toyota/corolla-altis-a-premiu-2-0-flex-16v-aut-2021-002112-1/",
+      "ano": 2021,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-corolla-altis-a-premiu-2-0-flex-16v-aut-2022-flex",
+      "fipeCodigo": "002112-1",
+      "displayName": "Toyota Corolla ALTIS/A.Premiu. 2.0 Flex 16V Aut",
+      "valorAtual": 134516,
+      "canonicalPath": "/fipe/toyota/corolla-altis-a-premiu-2-0-flex-16v-aut-2022-002112-1/",
+      "ano": 2022,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-corolla-altis-a-premiu-2-0-flex-16v-aut-2023-flex",
+      "fipeCodigo": "002112-1",
+      "displayName": "Toyota Corolla ALTIS/A.Premiu. 2.0 Flex 16V Aut",
+      "valorAtual": 143359,
+      "canonicalPath": "/fipe/toyota/corolla-altis-a-premiu-2-0-flex-16v-aut-2023-002112-1/",
+      "ano": 2023,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-corolla-altis-a-premiu-2-0-flex-16v-aut-2024-flex",
+      "fipeCodigo": "002112-1",
+      "displayName": "Toyota Corolla ALTIS/A.Premiu. 2.0 Flex 16V Aut",
+      "valorAtual": 163802,
+      "canonicalPath": "/fipe/toyota/corolla-altis-a-premiu-2-0-flex-16v-aut-2024-002112-1/",
+      "ano": 2024,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-corolla-altis-a-premiu-2-0-flex-16v-aut-2025-flex",
+      "fipeCodigo": "002112-1",
+      "displayName": "Toyota Corolla ALTIS/A.Premiu. 2.0 Flex 16V Aut",
+      "valorAtual": 177455,
+      "canonicalPath": "/fipe/toyota/corolla-altis-a-premiu-2-0-flex-16v-aut-2025-002112-1/",
+      "ano": 2025,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-corolla-altis-a-premiu-2-0-flex-16v-aut-2026-flex",
+      "fipeCodigo": "002112-1",
+      "displayName": "Toyota Corolla ALTIS/A.Premiu. 2.0 Flex 16V Aut",
+      "valorAtual": 189732,
+      "canonicalPath": "/fipe/toyota/corolla-altis-a-premiu-2-0-flex-16v-aut-2026-002112-1/",
+      "ano": 2026,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-corolla-altis-a-premiu-2-0-flex-16v-aut-0-flex",
+      "fipeCodigo": "002112-1",
+      "displayName": "Toyota Corolla ALTIS/A.Premiu. 2.0 Flex 16V Aut",
+      "valorAtual": 200488,
+      "canonicalPath": "/fipe/toyota/corolla-altis-a-premiu-2-0-flex-16v-aut-0-002112-1/",
+      "ano": 0,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-corolla-altis-1-8-16v-aut-hibrido-2020-hibrido",
+      "fipeCodigo": "002182-2",
+      "displayName": "Toyota Corolla Altis 1.8 16V Aut. (Híbrido)",
+      "valorAtual": 121642,
+      "canonicalPath": "/fipe/toyota/corolla-altis-1-8-16v-aut-hibrido-2020-002182-2/",
+      "ano": 2020,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-corolla-altis-1-8-16v-aut-hibrido-2021-hibrido",
+      "fipeCodigo": "002182-2",
+      "displayName": "Toyota Corolla Altis 1.8 16V Aut. (Híbrido)",
+      "valorAtual": 127284,
+      "canonicalPath": "/fipe/toyota/corolla-altis-1-8-16v-aut-hibrido-2021-002182-2/",
+      "ano": 2021,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-corolla-altis-1-8-16v-aut-hibrido-2022-hibrido",
+      "fipeCodigo": "002182-2",
+      "displayName": "Toyota Corolla Altis 1.8 16V Aut. (Híbrido)",
+      "valorAtual": 133923,
+      "canonicalPath": "/fipe/toyota/corolla-altis-1-8-16v-aut-hibrido-2022-002182-2/",
+      "ano": 2022,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-corolla-altis-1-8-16v-aut-hibrido-2023-hibrido",
+      "fipeCodigo": "002182-2",
+      "displayName": "Toyota Corolla Altis 1.8 16V Aut. (Híbrido)",
+      "valorAtual": 142326,
+      "canonicalPath": "/fipe/toyota/corolla-altis-1-8-16v-aut-hibrido-2023-002182-2/",
+      "ano": 2023,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-corolla-altis-1-8-16v-aut-hibrido-2024-hibrido",
+      "fipeCodigo": "002182-2",
+      "displayName": "Toyota Corolla Altis 1.8 16V Aut. (Híbrido)",
+      "valorAtual": 161442,
+      "canonicalPath": "/fipe/toyota/corolla-altis-1-8-16v-aut-hibrido-2024-002182-2/",
+      "ano": 2024,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-corolla-altis-1-8-16v-aut-hibrido-2025-hibrido",
+      "fipeCodigo": "002182-2",
+      "displayName": "Toyota Corolla Altis 1.8 16V Aut. (Híbrido)",
+      "valorAtual": 179012,
+      "canonicalPath": "/fipe/toyota/corolla-altis-1-8-16v-aut-hibrido-2025-002182-2/",
+      "ano": 2025,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-corolla-altis-prem-1-8-aut-hibrido-2020-hibrido",
+      "fipeCodigo": "002183-0",
+      "displayName": "Toyota Corolla Altis Prem. 1.8 Aut. (Híbrido)",
+      "valorAtual": 125044,
+      "canonicalPath": "/fipe/toyota/corolla-altis-prem-1-8-aut-hibrido-2020-002183-0/",
+      "ano": 2020,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-corolla-altis-prem-1-8-aut-hibrido-2021-hibrido",
+      "fipeCodigo": "002183-0",
+      "displayName": "Toyota Corolla Altis Prem. 1.8 Aut. (Híbrido)",
+      "valorAtual": 131218,
+      "canonicalPath": "/fipe/toyota/corolla-altis-prem-1-8-aut-hibrido-2021-002183-0/",
+      "ano": 2021,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-corolla-altis-prem-1-8-aut-hibrido-2022-hibrido",
+      "fipeCodigo": "002183-0",
+      "displayName": "Toyota Corolla Altis Prem. 1.8 Aut. (Híbrido)",
+      "valorAtual": 134499,
+      "canonicalPath": "/fipe/toyota/corolla-altis-prem-1-8-aut-hibrido-2022-002183-0/",
+      "ano": 2022,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-corolla-altis-prem-1-8-aut-hibrido-2023-hibrido",
+      "fipeCodigo": "002183-0",
+      "displayName": "Toyota Corolla Altis Prem. 1.8 Aut. (Híbrido)",
+      "valorAtual": 144263,
+      "canonicalPath": "/fipe/toyota/corolla-altis-prem-1-8-aut-hibrido-2023-002183-0/",
+      "ano": 2023,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-corolla-altis-prem-1-8-aut-hibrido-2024-hibrido",
+      "fipeCodigo": "002183-0",
+      "displayName": "Toyota Corolla Altis Prem. 1.8 Aut. (Híbrido)",
+      "valorAtual": 164836,
+      "canonicalPath": "/fipe/toyota/corolla-altis-prem-1-8-aut-hibrido-2024-002183-0/",
+      "ano": 2024,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-corolla-altis-prem-1-8-aut-hibrido-2025-hibrido",
+      "fipeCodigo": "002183-0",
+      "displayName": "Toyota Corolla Altis Prem. 1.8 Aut. (Híbrido)",
+      "valorAtual": 179622,
+      "canonicalPath": "/fipe/toyota/corolla-altis-prem-1-8-aut-hibrido-2025-002183-0/",
+      "ano": 2025,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-corolla-altis-prem-1-8-aut-hibrido-2026-hibrido",
+      "fipeCodigo": "002183-0",
+      "displayName": "Toyota Corolla Altis Prem. 1.8 Aut. (Híbrido)",
+      "valorAtual": 186752,
+      "canonicalPath": "/fipe/toyota/corolla-altis-prem-1-8-aut-hibrido-2026-002183-0/",
+      "ano": 2026,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-corolla-altis-prem-1-8-aut-hibrido-0-hibrido",
+      "fipeCodigo": "002183-0",
+      "displayName": "Toyota Corolla Altis Prem. 1.8 Aut. (Híbrido)",
+      "valorAtual": 201654,
+      "canonicalPath": "/fipe/toyota/corolla-altis-prem-1-8-aut-hibrido-0-002183-0/",
+      "ano": 0,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-corolla-cross-gr-s-2-0-16v-flex-aut-2023-flex",
+      "fipeCodigo": "002208-0",
+      "displayName": "Toyota Corolla Cross GR-S 2.0 16V Flex Aut.",
+      "valorAtual": 146033,
+      "canonicalPath": "/fipe/toyota/corolla-cross-gr-s-2-0-16v-flex-aut-2023-002208-0/",
+      "ano": 2023,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-corolla-cross-gr-s-2-0-16v-flex-aut-2024-flex",
+      "fipeCodigo": "002208-0",
+      "displayName": "Toyota Corolla Cross GR-S 2.0 16V Flex Aut.",
+      "valorAtual": 159037,
+      "canonicalPath": "/fipe/toyota/corolla-cross-gr-s-2-0-16v-flex-aut-2024-002208-0/",
+      "ano": 2024,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-corolla-cross-gr-s-2-0-16v-flex-aut-2025-flex",
+      "fipeCodigo": "002208-0",
+      "displayName": "Toyota Corolla Cross GR-S 2.0 16V Flex Aut.",
+      "valorAtual": 181592,
+      "canonicalPath": "/fipe/toyota/corolla-cross-gr-s-2-0-16v-flex-aut-2025-002208-0/",
+      "ano": 2025,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-corolla-cross-gr-s-2-0-16v-flex-aut-2026-flex",
+      "fipeCodigo": "002208-0",
+      "displayName": "Toyota Corolla Cross GR-S 2.0 16V Flex Aut.",
+      "valorAtual": 193034,
+      "canonicalPath": "/fipe/toyota/corolla-cross-gr-s-2-0-16v-flex-aut-2026-002208-0/",
+      "ano": 2026,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-corolla-cross-gr-s-2-0-16v-flex-aut-0-flex",
+      "fipeCodigo": "002208-0",
+      "displayName": "Toyota Corolla Cross GR-S 2.0 16V Flex Aut.",
+      "valorAtual": 212847,
+      "canonicalPath": "/fipe/toyota/corolla-cross-gr-s-2-0-16v-flex-aut-0-002208-0/",
+      "ano": 0,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-corolla-cross-se-1-8-16v-aut-hibrido-2022-hibrido",
+      "fipeCodigo": "002202-0",
+      "displayName": "Toyota Corolla Cross SE 1.8 16V Aut. (Híbrido)",
+      "valorAtual": 145477,
+      "canonicalPath": "/fipe/toyota/corolla-cross-se-1-8-16v-aut-hibrido-2022-002202-0/",
+      "ano": 2022,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-corolla-cross-xr-2-0-16v-flex-aut-2022-flex",
+      "fipeCodigo": "002201-2",
+      "displayName": "Toyota Corolla Cross XR 2.0 16V Flex Aut.",
+      "valorAtual": 126562,
+      "canonicalPath": "/fipe/toyota/corolla-cross-xr-2-0-16v-flex-aut-2022-002201-2/",
+      "ano": 2022,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-corolla-cross-xr-2-0-16v-flex-aut-2023-flex",
+      "fipeCodigo": "002201-2",
+      "displayName": "Toyota Corolla Cross XR 2.0 16V Flex Aut.",
+      "valorAtual": 132321,
+      "canonicalPath": "/fipe/toyota/corolla-cross-xr-2-0-16v-flex-aut-2023-002201-2/",
+      "ano": 2023,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-corolla-cross-xr-2-0-16v-flex-aut-2024-flex",
+      "fipeCodigo": "002201-2",
+      "displayName": "Toyota Corolla Cross XR 2.0 16V Flex Aut.",
+      "valorAtual": 142727,
+      "canonicalPath": "/fipe/toyota/corolla-cross-xr-2-0-16v-flex-aut-2024-002201-2/",
+      "ano": 2024,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-corolla-cross-xr-2-0-16v-flex-aut-2025-flex",
+      "fipeCodigo": "002201-2",
+      "displayName": "Toyota Corolla Cross XR 2.0 16V Flex Aut.",
+      "valorAtual": 156533,
+      "canonicalPath": "/fipe/toyota/corolla-cross-xr-2-0-16v-flex-aut-2025-002201-2/",
+      "ano": 2025,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-corolla-cross-xr-2-0-16v-flex-aut-2026-flex",
+      "fipeCodigo": "002201-2",
+      "displayName": "Toyota Corolla Cross XR 2.0 16V Flex Aut.",
+      "valorAtual": 164054,
+      "canonicalPath": "/fipe/toyota/corolla-cross-xr-2-0-16v-flex-aut-2026-002201-2/",
+      "ano": 2026,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-corolla-cross-xr-2-0-16v-flex-aut-0-flex",
+      "fipeCodigo": "002201-2",
+      "displayName": "Toyota Corolla Cross XR 2.0 16V Flex Aut.",
+      "valorAtual": 188209,
+      "canonicalPath": "/fipe/toyota/corolla-cross-xr-2-0-16v-flex-aut-0-002201-2/",
+      "ano": 0,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-corolla-cross-xre-2-0-16v-flex-aut-2022-flex",
+      "fipeCodigo": "002203-9",
+      "displayName": "Toyota Corolla Cross XRE 2.0 16V Flex Aut.",
+      "valorAtual": 130136,
+      "canonicalPath": "/fipe/toyota/corolla-cross-xre-2-0-16v-flex-aut-2022-002203-9/",
+      "ano": 2022,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-corolla-cross-xre-2-0-16v-flex-aut-2023-flex",
+      "fipeCodigo": "002203-9",
+      "displayName": "Toyota Corolla Cross XRE 2.0 16V Flex Aut.",
+      "valorAtual": 137233,
+      "canonicalPath": "/fipe/toyota/corolla-cross-xre-2-0-16v-flex-aut-2023-002203-9/",
+      "ano": 2023,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-corolla-cross-xre-2-0-16v-flex-aut-2024-flex",
+      "fipeCodigo": "002203-9",
+      "displayName": "Toyota Corolla Cross XRE 2.0 16V Flex Aut.",
+      "valorAtual": 149537,
+      "canonicalPath": "/fipe/toyota/corolla-cross-xre-2-0-16v-flex-aut-2024-002203-9/",
+      "ano": 2024,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-corolla-cross-xre-2-0-16v-flex-aut-2025-flex",
+      "fipeCodigo": "002203-9",
+      "displayName": "Toyota Corolla Cross XRE 2.0 16V Flex Aut.",
+      "valorAtual": 165314,
+      "canonicalPath": "/fipe/toyota/corolla-cross-xre-2-0-16v-flex-aut-2025-002203-9/",
+      "ano": 2025,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-corolla-cross-xre-2-0-16v-flex-aut-2026-flex",
+      "fipeCodigo": "002203-9",
+      "displayName": "Toyota Corolla Cross XRE 2.0 16V Flex Aut.",
+      "valorAtual": 176079,
+      "canonicalPath": "/fipe/toyota/corolla-cross-xre-2-0-16v-flex-aut-2026-002203-9/",
+      "ano": 2026,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-corolla-cross-xre-2-0-16v-flex-aut-0-flex",
+      "fipeCodigo": "002203-9",
+      "displayName": "Toyota Corolla Cross XRE 2.0 16V Flex Aut.",
+      "valorAtual": 190960,
+      "canonicalPath": "/fipe/toyota/corolla-cross-xre-2-0-16v-flex-aut-0-002203-9/",
+      "ano": 0,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-corolla-cross-xrv-1-8-16v-aut-hibrido-2022-hibrido",
+      "fipeCodigo": "002200-4",
+      "displayName": "Toyota Corolla Cross XRV 1.8 16V Aut. (Híbrido)",
+      "valorAtual": 138986,
+      "canonicalPath": "/fipe/toyota/corolla-cross-xrv-1-8-16v-aut-hibrido-2022-002200-4/",
+      "ano": 2022,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-corolla-cross-xrv-1-8-16v-aut-hibrido-2023-hibrido",
+      "fipeCodigo": "002200-4",
+      "displayName": "Toyota Corolla Cross XRV 1.8 16V Aut. (Híbrido)",
+      "valorAtual": 145156,
+      "canonicalPath": "/fipe/toyota/corolla-cross-xrv-1-8-16v-aut-hibrido-2023-002200-4/",
+      "ano": 2023,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-corolla-cross-xrv-1-8-16v-aut-hibrido-2024-hibrido",
+      "fipeCodigo": "002200-4",
+      "displayName": "Toyota Corolla Cross XRV 1.8 16V Aut. (Híbrido)",
+      "valorAtual": 161936,
+      "canonicalPath": "/fipe/toyota/corolla-cross-xrv-1-8-16v-aut-hibrido-2024-002200-4/",
+      "ano": 2024,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-corolla-cross-xrv-1-8-16v-aut-hibrido-2025-hibrido",
+      "fipeCodigo": "002200-4",
+      "displayName": "Toyota Corolla Cross XRV 1.8 16V Aut. (Híbrido)",
+      "valorAtual": 177512,
+      "canonicalPath": "/fipe/toyota/corolla-cross-xrv-1-8-16v-aut-hibrido-2025-002200-4/",
+      "ano": 2025,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-corolla-cross-xrv-1-8-16v-aut-hibrido-2026-hibrido",
+      "fipeCodigo": "002200-4",
+      "displayName": "Toyota Corolla Cross XRV 1.8 16V Aut. (Híbrido)",
+      "valorAtual": 194439,
+      "canonicalPath": "/fipe/toyota/corolla-cross-xrv-1-8-16v-aut-hibrido-2026-002200-4/",
+      "ano": 2026,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-corolla-cross-xrx-1-8-16v-aut-hibrido-2022-hibrido",
+      "fipeCodigo": "002204-7",
+      "displayName": "Toyota Corolla Cross XRX 1.8 16V Aut. (Híbrido)",
+      "valorAtual": 143786,
+      "canonicalPath": "/fipe/toyota/corolla-cross-xrx-1-8-16v-aut-hibrido-2022-002204-7/",
+      "ano": 2022,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-corolla-cross-xrx-1-8-16v-aut-hibrido-2023-hibrido",
+      "fipeCodigo": "002204-7",
+      "displayName": "Toyota Corolla Cross XRX 1.8 16V Aut. (Híbrido)",
+      "valorAtual": 153721,
+      "canonicalPath": "/fipe/toyota/corolla-cross-xrx-1-8-16v-aut-hibrido-2023-002204-7/",
+      "ano": 2023,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-corolla-cross-xrx-1-8-16v-aut-hibrido-2024-hibrido",
+      "fipeCodigo": "002204-7",
+      "displayName": "Toyota Corolla Cross XRX 1.8 16V Aut. (Híbrido)",
+      "valorAtual": 167594,
+      "canonicalPath": "/fipe/toyota/corolla-cross-xrx-1-8-16v-aut-hibrido-2024-002204-7/",
+      "ano": 2024,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-corolla-cross-xrx-1-8-16v-aut-hibrido-2025-hibrido",
+      "fipeCodigo": "002204-7",
+      "displayName": "Toyota Corolla Cross XRX 1.8 16V Aut. (Híbrido)",
+      "valorAtual": 190617,
+      "canonicalPath": "/fipe/toyota/corolla-cross-xrx-1-8-16v-aut-hibrido-2025-002204-7/",
+      "ano": 2025,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-corolla-cross-xrx-1-8-16v-aut-hibrido-2026-hibrido",
+      "fipeCodigo": "002204-7",
+      "displayName": "Toyota Corolla Cross XRX 1.8 16V Aut. (Híbrido)",
+      "valorAtual": 203913,
+      "canonicalPath": "/fipe/toyota/corolla-cross-xrx-1-8-16v-aut-hibrido-2026-002204-7/",
+      "ano": 2026,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-corolla-cross-xrx-1-8-16v-aut-hibrido-0-hibrido",
+      "fipeCodigo": "002204-7",
+      "displayName": "Toyota Corolla Cross XRX 1.8 16V Aut. (Híbrido)",
+      "valorAtual": 218392,
+      "canonicalPath": "/fipe/toyota/corolla-cross-xrx-1-8-16v-aut-hibrido-0-002204-7/",
+      "ano": 0,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-corolla-cross-xrx-2-0-16v-flex-aut-2024-flex",
+      "fipeCodigo": "002216-0",
+      "displayName": "Toyota Corolla Cross XRX 2.0 16V Flex Aut.",
+      "valorAtual": 162605,
+      "canonicalPath": "/fipe/toyota/corolla-cross-xrx-2-0-16v-flex-aut-2024-002216-0/",
+      "ano": 2024,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-corolla-cross-xrx-2-0-16v-flex-aut-2025-flex",
+      "fipeCodigo": "002216-0",
+      "displayName": "Toyota Corolla Cross XRX 2.0 16V Flex Aut.",
+      "valorAtual": 182345,
+      "canonicalPath": "/fipe/toyota/corolla-cross-xrx-2-0-16v-flex-aut-2025-002216-0/",
+      "ano": 2025,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-corolla-cross-xrx-2-0-16v-flex-aut-2026-flex",
+      "fipeCodigo": "002216-0",
+      "displayName": "Toyota Corolla Cross XRX 2.0 16V Flex Aut.",
+      "valorAtual": 194700,
+      "canonicalPath": "/fipe/toyota/corolla-cross-xrx-2-0-16v-flex-aut-2026-002216-0/",
+      "ano": 2026,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-corolla-cross-xrx-2-0-16v-flex-aut-0-flex",
+      "fipeCodigo": "002216-0",
+      "displayName": "Toyota Corolla Cross XRX 2.0 16V Flex Aut.",
+      "valorAtual": 210230,
+      "canonicalPath": "/fipe/toyota/corolla-cross-xrx-2-0-16v-flex-aut-0-002216-0/",
+      "ano": 0,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-corolla-dx-sw-dx-1-6-16v-1993-gasolina",
+      "fipeCodigo": "002011-7",
+      "displayName": "Toyota Corolla DX/ SW DX 1.6 16V",
+      "valorAtual": 9777,
+      "canonicalPath": "/fipe/toyota/corolla-dx-sw-dx-1-6-16v-1993-002011-7/",
+      "ano": 1993,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-corolla-dx-sw-dx-1-6-16v-1994-gasolina",
+      "fipeCodigo": "002011-7",
+      "displayName": "Toyota Corolla DX/ SW DX 1.6 16V",
+      "valorAtual": 12140,
+      "canonicalPath": "/fipe/toyota/corolla-dx-sw-dx-1-6-16v-1994-002011-7/",
+      "ano": 1994,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-corolla-dx-sw-dx-1-6-16v-1995-gasolina",
+      "fipeCodigo": "002011-7",
+      "displayName": "Toyota Corolla DX/ SW DX 1.6 16V",
+      "valorAtual": 17313,
+      "canonicalPath": "/fipe/toyota/corolla-dx-sw-dx-1-6-16v-1995-002011-7/",
+      "ano": 1995,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-corolla-dx-sw-dx-1-6-16v-1996-gasolina",
+      "fipeCodigo": "002011-7",
+      "displayName": "Toyota Corolla DX/ SW DX 1.6 16V",
+      "valorAtual": 17746,
+      "canonicalPath": "/fipe/toyota/corolla-dx-sw-dx-1-6-16v-1996-002011-7/",
+      "ano": 1996,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-corolla-dynamic-2-0-flex-16v-aut-2017-flex",
+      "fipeCodigo": "002158-0",
+      "displayName": "Toyota Corolla Dynamic 2.0 Flex 16V Aut.",
+      "valorAtual": 88575,
+      "canonicalPath": "/fipe/toyota/corolla-dynamic-2-0-flex-16v-aut-2017-002158-0/",
+      "ano": 2017,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-corolla-fielder-sw-1-8-1-8-xei-flex-aut-2005-gasolina",
+      "fipeCodigo": "002084-2",
+      "displayName": "Toyota Corolla Fielder SW 1.8/1.8 XEi Flex Aut.",
+      "valorAtual": 37543,
+      "canonicalPath": "/fipe/toyota/corolla-fielder-sw-1-8-1-8-xei-flex-aut-2005-002084-2/",
+      "ano": 2005,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-corolla-fielder-sw-1-8-1-8-xei-flex-aut-2006-gasolina",
+      "fipeCodigo": "002084-2",
+      "displayName": "Toyota Corolla Fielder SW 1.8/1.8 XEi Flex Aut.",
+      "valorAtual": 38482,
+      "canonicalPath": "/fipe/toyota/corolla-fielder-sw-1-8-1-8-xei-flex-aut-2006-002084-2/",
+      "ano": 2006,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-corolla-fielder-sw-1-8-1-8-xei-flex-aut-2007-gasolina",
+      "fipeCodigo": "002084-2",
+      "displayName": "Toyota Corolla Fielder SW 1.8/1.8 XEi Flex Aut.",
+      "valorAtual": 40587,
+      "canonicalPath": "/fipe/toyota/corolla-fielder-sw-1-8-1-8-xei-flex-aut-2007-002084-2/",
+      "ano": 2007,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-corolla-fielder-sw-1-8-1-8-xei-flex-aut-2008-gasolina",
+      "fipeCodigo": "002084-2",
+      "displayName": "Toyota Corolla Fielder SW 1.8/1.8 XEi Flex Aut.",
+      "valorAtual": 43102,
+      "canonicalPath": "/fipe/toyota/corolla-fielder-sw-1-8-1-8-xei-flex-aut-2008-002084-2/",
+      "ano": 2008,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-corolla-fielder-sw-1-8-1-8-xei-flex-mec-2005-gasolina",
+      "fipeCodigo": "002083-4",
+      "displayName": "Toyota Corolla Fielder SW 1.8/1.8 XEi Flex Mec",
+      "valorAtual": 37102,
+      "canonicalPath": "/fipe/toyota/corolla-fielder-sw-1-8-1-8-xei-flex-mec-2005-002083-4/",
+      "ano": 2005,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-corolla-fielder-sw-1-8-1-8-xei-flex-mec-2006-gasolina",
+      "fipeCodigo": "002083-4",
+      "displayName": "Toyota Corolla Fielder SW 1.8/1.8 XEi Flex Mec",
+      "valorAtual": 38091,
+      "canonicalPath": "/fipe/toyota/corolla-fielder-sw-1-8-1-8-xei-flex-mec-2006-002083-4/",
+      "ano": 2006,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-corolla-fielder-sw-1-8-1-8-xei-flex-mec-2007-gasolina",
+      "fipeCodigo": "002083-4",
+      "displayName": "Toyota Corolla Fielder SW 1.8/1.8 XEi Flex Mec",
+      "valorAtual": 39923,
+      "canonicalPath": "/fipe/toyota/corolla-fielder-sw-1-8-1-8-xei-flex-mec-2007-002083-4/",
+      "ano": 2007,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-corolla-fielder-sw-1-8-1-8-xei-flex-mec-2008-gasolina",
+      "fipeCodigo": "002083-4",
+      "displayName": "Toyota Corolla Fielder SW 1.8/1.8 XEi Flex Mec",
+      "valorAtual": 40922,
+      "canonicalPath": "/fipe/toyota/corolla-fielder-sw-1-8-1-8-xei-flex-mec-2008-002083-4/",
+      "ano": 2008,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-corolla-fielder-sw-s-1-8-16v-136cv-aut-2007-gasolina",
+      "fipeCodigo": "002102-4",
+      "displayName": "Toyota Corolla Fielder SW S  1.8 16V 136cv Aut",
+      "valorAtual": 40822,
+      "canonicalPath": "/fipe/toyota/corolla-fielder-sw-s-1-8-16v-136cv-aut-2007-002102-4/",
+      "ano": 2007,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-corolla-fielder-sw-s-1-8-16v-136cv-mec-2007-gasolina",
+      "fipeCodigo": "002101-6",
+      "displayName": "Toyota Corolla Fielder SW S 1.8 16V 136cv Mec",
+      "valorAtual": 40680,
+      "canonicalPath": "/fipe/toyota/corolla-fielder-sw-s-1-8-16v-136cv-mec-2007-002101-6/",
+      "ano": 2007,
+      "marca": "Toyota"
+    }
+  ],
+  "stats": {
+    "total": 248
+  },
+  "meta": {
+    "engineId": "dynamic-force-2.0",
+    "engineNome": "dynamic-force-2.0"
+  }
+}

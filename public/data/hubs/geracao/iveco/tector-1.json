@@ -1,0 +1,120 @@
+{
+  "tipo": "geracao",
+  "slug": "tector-1",
+  "canonicalPath": "/geracao/iveco/tector-1/",
+  "titulo": "Geracao tector-1",
+  "descricao": "11 veiculos da geracao tector-1.",
+  "seo": {
+    "title": "Geracao tector-1 - Precos FIPE",
+    "description": "Veiculos da geracao tector-1 na Tabela FIPE.",
+    "h1": "Geracao tector-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/iveco/tector-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "iveco-tector-11-190-4x2-diesel-e6-0-diesel",
+      "fipeCodigo": "506182-2",
+      "displayName": "IVECO TECTOR 11-190 4x2 (diesel)(E6)",
+      "valorAtual": 352250,
+      "canonicalPath": "/fipe/iveco/tector-11-190-4x2-diesel-e6-0-506182-2/",
+      "ano": 0,
+      "marca": "IVECO"
+    },
+    {
+      "vehicleId": "iveco-tector-15-210-4x2-2p-diesel-e6-0-diesel",
+      "fipeCodigo": "506174-1",
+      "displayName": "IVECO TECTOR 15-210 4x2 2p (Diesel)(E6)",
+      "valorAtual": 409222,
+      "canonicalPath": "/fipe/iveco/tector-15-210-4x2-2p-diesel-e6-0-506174-1/",
+      "ano": 0,
+      "marca": "IVECO"
+    },
+    {
+      "vehicleId": "iveco-tector-17-210-4x2-2p-diesel-e6-0-diesel",
+      "fipeCodigo": "506175-0",
+      "displayName": "IVECO TECTOR 17-210 4x2 2p (Diesel)(E6)",
+      "valorAtual": 444375,
+      "canonicalPath": "/fipe/iveco/tector-17-210-4x2-2p-diesel-e6-0-506175-0/",
+      "ano": 0,
+      "marca": "IVECO"
+    },
+    {
+      "vehicleId": "iveco-tector-17-280-4x2-diesel-e6-0-diesel",
+      "fipeCodigo": "506179-2",
+      "displayName": "IVECO TECTOR 17-280 4x2 (diesel) (E6)",
+      "valorAtual": 461733,
+      "canonicalPath": "/fipe/iveco/tector-17-280-4x2-diesel-e6-0-506179-2/",
+      "ano": 0,
+      "marca": "IVECO"
+    },
+    {
+      "vehicleId": "iveco-tector-17-320-4x2-2p-autoshift-e6-0-diesel",
+      "fipeCodigo": "506176-8",
+      "displayName": "IVECO TECTOR 17-320 4x2 2p AutoShift (E6)",
+      "valorAtual": 483750,
+      "canonicalPath": "/fipe/iveco/tector-17-320-4x2-2p-autoshift-e6-0-506176-8/",
+      "ano": 0,
+      "marca": "IVECO"
+    },
+    {
+      "vehicleId": "iveco-tector-24-280-6x2-diesel-e6-0-diesel",
+      "fipeCodigo": "506180-6",
+      "displayName": "IVECO TECTOR 24-280 6x2 (diesel)(E6)",
+      "valorAtual": 486086,
+      "canonicalPath": "/fipe/iveco/tector-24-280-6x2-diesel-e6-0-506180-6/",
+      "ano": 0,
+      "marca": "IVECO"
+    },
+    {
+      "vehicleId": "iveco-tector-24-320-6x2-2p-autoshift-e6-0-diesel",
+      "fipeCodigo": "506177-6",
+      "displayName": "IVECO TECTOR 24-320 6x2 2p AutoShift (E6)",
+      "valorAtual": 506050,
+      "canonicalPath": "/fipe/iveco/tector-24-320-6x2-2p-autoshift-e6-0-506177-6/",
+      "ano": 0,
+      "marca": "IVECO"
+    },
+    {
+      "vehicleId": "iveco-tector-27-320-6x4-2p-diesel-e6-0-diesel",
+      "fipeCodigo": "506178-4",
+      "displayName": "IVECO TECTOR 27-320 6x4 2p (Diesel)(E6)",
+      "valorAtual": 588800,
+      "canonicalPath": "/fipe/iveco/tector-27-320-6x4-2p-diesel-e6-0-506178-4/",
+      "ano": 0,
+      "marca": "IVECO"
+    },
+    {
+      "vehicleId": "iveco-tector-31-280-8x2-e6-0-diesel",
+      "fipeCodigo": "506191-1",
+      "displayName": "IVECO TECTOR 31-280 8x2 (E6)",
+      "valorAtual": 584800,
+      "canonicalPath": "/fipe/iveco/tector-31-280-8x2-e6-0-506191-1/",
+      "ano": 0,
+      "marca": "IVECO"
+    },
+    {
+      "vehicleId": "iveco-tector-31-320-8x2-autoshift-e6-0-diesel",
+      "fipeCodigo": "506190-3",
+      "displayName": "IVECO TECTOR 31-320 8x2 AutoShift (E6)",
+      "valorAtual": 619100,
+      "canonicalPath": "/fipe/iveco/tector-31-320-8x2-autoshift-e6-0-506190-3/",
+      "ano": 0,
+      "marca": "IVECO"
+    },
+    {
+      "vehicleId": "iveco-tector-9-190-4x2-2p-diesel-e6-0-diesel",
+      "fipeCodigo": "506181-4",
+      "displayName": "IVECO TECTOR 9-190 4x2 2p (Diesel)(E6)",
+      "valorAtual": 319956,
+      "canonicalPath": "/fipe/iveco/tector-9-190-4x2-2p-diesel-e6-0-506181-4/",
+      "ano": 0,
+      "marca": "IVECO"
+    }
+  ],
+  "stats": {
+    "total": 11
+  },
+  "meta": {
+    "geracaoId": "tector-1"
+  }
+}

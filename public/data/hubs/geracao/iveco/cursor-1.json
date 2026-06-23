@@ -1,0 +1,57 @@
+{
+  "tipo": "geracao",
+  "slug": "cursor-1",
+  "canonicalPath": "/geracao/iveco/cursor-1/",
+  "titulo": "Geracao cursor-1",
+  "descricao": "4 veiculos da geracao cursor-1.",
+  "seo": {
+    "title": "Geracao cursor-1 - Precos FIPE",
+    "description": "Veiculos da geracao cursor-1 na Tabela FIPE.",
+    "h1": "Geracao cursor-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/iveco/cursor-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "iveco-cursor-450e-33-t-2p-diesel-2009-diesel",
+      "fipeCodigo": "506066-4",
+      "displayName": "IVECO CURSOR 450E 33 T 2p (diesel)",
+      "valorAtual": 101849,
+      "canonicalPath": "/fipe/iveco/cursor-450e-33-t-2p-diesel-2009-506066-4/",
+      "ano": 2009,
+      "marca": "IVECO"
+    },
+    {
+      "vehicleId": "iveco-cursor-450e-33-t-2p-diesel-2010-diesel",
+      "fipeCodigo": "506066-4",
+      "displayName": "IVECO CURSOR 450E 33 T 2p (diesel)",
+      "valorAtual": 112295,
+      "canonicalPath": "/fipe/iveco/cursor-450e-33-t-2p-diesel-2010-506066-4/",
+      "ano": 2010,
+      "marca": "IVECO"
+    },
+    {
+      "vehicleId": "iveco-cursor-450e-33-t-2p-diesel-2011-diesel",
+      "fipeCodigo": "506066-4",
+      "displayName": "IVECO CURSOR 450E 33 T 2p (diesel)",
+      "valorAtual": 126437,
+      "canonicalPath": "/fipe/iveco/cursor-450e-33-t-2p-diesel-2011-506066-4/",
+      "ano": 2011,
+      "marca": "IVECO"
+    },
+    {
+      "vehicleId": "iveco-cursor-450e-33-t-2p-diesel-2012-diesel",
+      "fipeCodigo": "506066-4",
+      "displayName": "IVECO CURSOR 450E 33 T 2p (diesel)",
+      "valorAtual": 129598,
+      "canonicalPath": "/fipe/iveco/cursor-450e-33-t-2p-diesel-2012-506066-4/",
+      "ano": 2012,
+      "marca": "IVECO"
+    }
+  ],
+  "stats": {
+    "total": 4
+  },
+  "meta": {
+    "geracaoId": "cursor-1"
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "tipo": "familia",
+  "slug": "zx",
+  "canonicalPath": "/fipe/nissan/zx/",
+  "titulo": "Nissan zx - Tabela FIPE",
+  "descricao": "4 versoes e anos do Nissan zx na Tabela FIPE.",
+  "seo": {
+    "title": "Nissan zx - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes Nissan zx. 4 veiculos indexados.",
+    "h1": "Nissan zx - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/nissan/zx/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "nissan-zx-300-3-0-bi-turbo-1994-gasolina",
+      "fipeCodigo": "023035-9",
+      "displayName": "Nissan ZX 300 3.0 BI-Turbo",
+      "valorAtual": 77318,
+      "canonicalPath": "/fipe/nissan/zx-300-3-0-bi-turbo-1994-023035-9/",
+      "ano": 1994,
+      "marca": "Nissan"
+    },
+    {
+      "vehicleId": "nissan-zx-300-3-0-bi-turbo-1993-gasolina",
+      "fipeCodigo": "023035-9",
+      "displayName": "Nissan ZX 300 3.0 BI-Turbo",
+      "valorAtual": 75432,
+      "canonicalPath": "/fipe/nissan/zx-300-3-0-bi-turbo-1993-023035-9/",
+      "ano": 1993,
+      "marca": "Nissan"
+    },
+    {
+      "vehicleId": "nissan-zx-300-3-0-bi-turbo-1992-gasolina",
+      "fipeCodigo": "023035-9",
+      "displayName": "Nissan ZX 300 3.0 BI-Turbo",
+      "valorAtual": 58958,
+      "canonicalPath": "/fipe/nissan/zx-300-3-0-bi-turbo-1992-023035-9/",
+      "ano": 1992,
+      "marca": "Nissan"
+    },
+    {
+      "vehicleId": "nissan-zx-300-3-0-bi-turbo-1991-gasolina",
+      "fipeCodigo": "023035-9",
+      "displayName": "Nissan ZX 300 3.0 BI-Turbo",
+      "valorAtual": 57520,
+      "canonicalPath": "/fipe/nissan/zx-300-3-0-bi-turbo-1991-023035-9/",
+      "ano": 1991,
+      "marca": "Nissan"
+    }
+  ],
+  "stats": {
+    "total": 4,
+    "precoMin": 57520,
+    "precoMax": 77318,
+    "anos": [
+      1994,
+      1993,
+      1992,
+      1991
+    ]
+  }
+}

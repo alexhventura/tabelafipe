@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "zr-1",
+  "canonicalPath": "/geracao/honda/zr-1/",
+  "titulo": "Geracao zr-1",
+  "descricao": "2 veiculos da geracao zr-1.",
+  "seo": {
+    "title": "Geracao zr-1 - Precos FIPE",
+    "description": "Veiculos da geracao zr-1 na Tabela FIPE.",
+    "h1": "Geracao zr-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/honda/zr-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "honda-zr-v-touring-2-0-16v-5p-aut-0-gasolina",
+      "fipeCodigo": "014114-3",
+      "displayName": "Honda ZR-V Touring 2.0 16V 5p Aut.",
+      "valorAtual": 215133,
+      "canonicalPath": "/fipe/honda/zr-v-touring-2-0-16v-5p-aut-0-014114-3/",
+      "ano": 0,
+      "marca": "Honda"
+    },
+    {
+      "vehicleId": "yamaha-zr-125-connected-0-hibrido",
+      "fipeCodigo": "827145-3",
+      "displayName": "YAMAHA ZR 125 CONNECTED",
+      "valorAtual": 15441,
+      "canonicalPath": "/fipe/yamaha/zr-125-connected-0-827145-3/",
+      "ano": 0,
+      "marca": "YAMAHA"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "zr-1"
+  }
+}

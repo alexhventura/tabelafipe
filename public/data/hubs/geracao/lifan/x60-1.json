@@ -1,0 +1,57 @@
+{
+  "tipo": "geracao",
+  "slug": "x60-1",
+  "canonicalPath": "/geracao/lifan/x60-1/",
+  "titulo": "Geracao x60-1",
+  "descricao": "4 veiculos da geracao x60-1.",
+  "seo": {
+    "title": "Geracao x60-1 - Precos FIPE",
+    "description": "Veiculos da geracao x60-1 na Tabela FIPE.",
+    "h1": "Geracao x60-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/lifan/x60-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "lifan-x60-1-8-16v-128cv-5p-mec-2013-gasolina",
+      "fipeCodigo": "077003-5",
+      "displayName": "LIFAN X60 1.8 16V 128cv 5p Mec.",
+      "valorAtual": 24566,
+      "canonicalPath": "/fipe/lifan/x60-1-8-16v-128cv-5p-mec-2013-077003-5/",
+      "ano": 2013,
+      "marca": "LIFAN"
+    },
+    {
+      "vehicleId": "lifan-x60-1-8-16v-128cv-5p-mec-2014-gasolina",
+      "fipeCodigo": "077003-5",
+      "displayName": "LIFAN X60 1.8 16V 128cv 5p Mec.",
+      "valorAtual": 31991,
+      "canonicalPath": "/fipe/lifan/x60-1-8-16v-128cv-5p-mec-2014-077003-5/",
+      "ano": 2014,
+      "marca": "LIFAN"
+    },
+    {
+      "vehicleId": "lifan-x60-1-8-16v-128cv-5p-mec-2015-gasolina",
+      "fipeCodigo": "077003-5",
+      "displayName": "LIFAN X60 1.8 16V 128cv 5p Mec.",
+      "valorAtual": 36380,
+      "canonicalPath": "/fipe/lifan/x60-1-8-16v-128cv-5p-mec-2015-077003-5/",
+      "ano": 2015,
+      "marca": "LIFAN"
+    },
+    {
+      "vehicleId": "lifan-x60-1-8-16v-128cv-5p-mec-2016-gasolina",
+      "fipeCodigo": "077003-5",
+      "displayName": "LIFAN X60 1.8 16V 128cv 5p Mec.",
+      "valorAtual": 40479,
+      "canonicalPath": "/fipe/lifan/x60-1-8-16v-128cv-5p-mec-2016-077003-5/",
+      "ano": 2016,
+      "marca": "LIFAN"
+    }
+  ],
+  "stats": {
+    "total": 4
+  },
+  "meta": {
+    "geracaoId": "x60-1"
+  }
+}

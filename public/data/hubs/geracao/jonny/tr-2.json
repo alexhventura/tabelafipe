@@ -1,0 +1,66 @@
+{
+  "tipo": "geracao",
+  "slug": "tr-2",
+  "canonicalPath": "/geracao/jonny/tr-2/",
+  "titulo": "Geracao tr-2",
+  "descricao": "5 veiculos da geracao tr-2.",
+  "seo": {
+    "title": "Geracao tr-2 - Precos FIPE",
+    "description": "Veiculos da geracao tr-2 na Tabela FIPE.",
+    "h1": "Geracao tr-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/jonny/tr-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "jonny-tr-150cc-2008-gasolina",
+      "fipeCodigo": "865005-5",
+      "displayName": "JONNY TR 150cc",
+      "valorAtual": 2047,
+      "canonicalPath": "/fipe/jonny/tr-150cc-2008-865005-5/",
+      "ano": 2008,
+      "marca": "JONNY"
+    },
+    {
+      "vehicleId": "jonny-tr-150cc-2009-gasolina",
+      "fipeCodigo": "865005-5",
+      "displayName": "JONNY TR 150cc",
+      "valorAtual": 2138,
+      "canonicalPath": "/fipe/jonny/tr-150cc-2009-865005-5/",
+      "ano": 2009,
+      "marca": "JONNY"
+    },
+    {
+      "vehicleId": "jonny-tr-150cc-2010-gasolina",
+      "fipeCodigo": "865005-5",
+      "displayName": "JONNY TR 150cc",
+      "valorAtual": 2357,
+      "canonicalPath": "/fipe/jonny/tr-150cc-2010-865005-5/",
+      "ano": 2010,
+      "marca": "JONNY"
+    },
+    {
+      "vehicleId": "jonny-tr-150cc-2011-gasolina",
+      "fipeCodigo": "865005-5",
+      "displayName": "JONNY TR 150cc",
+      "valorAtual": 2505,
+      "canonicalPath": "/fipe/jonny/tr-150cc-2011-865005-5/",
+      "ano": 2011,
+      "marca": "JONNY"
+    },
+    {
+      "vehicleId": "jonny-tr-150cc-2012-gasolina",
+      "fipeCodigo": "865005-5",
+      "displayName": "JONNY TR 150cc",
+      "valorAtual": 2594,
+      "canonicalPath": "/fipe/jonny/tr-150cc-2012-865005-5/",
+      "ano": 2012,
+      "marca": "JONNY"
+    }
+  ],
+  "stats": {
+    "total": 5
+  },
+  "meta": {
+    "geracaoId": "tr-2"
+  }
+}

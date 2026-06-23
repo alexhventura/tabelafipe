@@ -1,0 +1,42 @@
+{
+  "tipo": "familia",
+  "slug": "mito",
+  "canonicalPath": "/fipe/cagiva/mito/",
+  "titulo": "CAGIVA mito - Tabela FIPE",
+  "descricao": "2 versoes e anos do CAGIVA mito na Tabela FIPE.",
+  "seo": {
+    "title": "CAGIVA mito - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes CAGIVA mito. 2 veiculos indexados.",
+    "h1": "CAGIVA mito - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/cagiva/mito/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "cagiva-mito-125-2001-gasolina",
+      "fipeCodigo": "805004-0",
+      "displayName": "CAGIVA MITO 125",
+      "valorAtual": 9487,
+      "canonicalPath": "/fipe/cagiva/mito-125-2001-805004-0/",
+      "ano": 2001,
+      "marca": "CAGIVA"
+    },
+    {
+      "vehicleId": "cagiva-mito-125-1999-gasolina",
+      "fipeCodigo": "805004-0",
+      "displayName": "CAGIVA MITO 125",
+      "valorAtual": 9191,
+      "canonicalPath": "/fipe/cagiva/mito-125-1999-805004-0/",
+      "ano": 1999,
+      "marca": "CAGIVA"
+    }
+  ],
+  "stats": {
+    "total": 2,
+    "precoMin": 9191,
+    "precoMax": 9487,
+    "anos": [
+      2001,
+      1999
+    ]
+  }
+}

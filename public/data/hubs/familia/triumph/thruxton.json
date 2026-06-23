@@ -1,0 +1,102 @@
+{
+  "tipo": "familia",
+  "slug": "thruxton",
+  "canonicalPath": "/fipe/triumph/thruxton/",
+  "titulo": "TRIUMPH thruxton - Tabela FIPE",
+  "descricao": "8 versoes e anos do TRIUMPH thruxton na Tabela FIPE.",
+  "seo": {
+    "title": "TRIUMPH thruxton - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes TRIUMPH thruxton. 8 veiculos indexados.",
+    "h1": "TRIUMPH thruxton - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/triumph/thruxton/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "triumph-thruxton-r-1200cc-2020-gasolina",
+      "fipeCodigo": "826056-7",
+      "displayName": "TRIUMPH THRUXTON R 1200cc",
+      "valorAtual": 57372,
+      "canonicalPath": "/fipe/triumph/thruxton-r-1200cc-2020-826056-7/",
+      "ano": 2020,
+      "marca": "TRIUMPH"
+    },
+    {
+      "vehicleId": "triumph-thruxton-r-1200cc-2018-gasolina",
+      "fipeCodigo": "826056-7",
+      "displayName": "TRIUMPH THRUXTON R 1200cc",
+      "valorAtual": 54954,
+      "canonicalPath": "/fipe/triumph/thruxton-r-1200cc-2018-826056-7/",
+      "ano": 2018,
+      "marca": "TRIUMPH"
+    },
+    {
+      "vehicleId": "triumph-thruxton-r-1200cc-2017-gasolina",
+      "fipeCodigo": "826056-7",
+      "displayName": "TRIUMPH THRUXTON R 1200cc",
+      "valorAtual": 50402,
+      "canonicalPath": "/fipe/triumph/thruxton-r-1200cc-2017-826056-7/",
+      "ano": 2017,
+      "marca": "TRIUMPH"
+    },
+    {
+      "vehicleId": "triumph-thruxton-r-1200cc-2016-gasolina",
+      "fipeCodigo": "826056-7",
+      "displayName": "TRIUMPH THRUXTON R 1200cc",
+      "valorAtual": 44523,
+      "canonicalPath": "/fipe/triumph/thruxton-r-1200cc-2016-826056-7/",
+      "ano": 2016,
+      "marca": "TRIUMPH"
+    },
+    {
+      "vehicleId": "triumph-thruxton-900cc-2015-gasolina",
+      "fipeCodigo": "826032-0",
+      "displayName": "TRIUMPH THRUXTON 900cc",
+      "valorAtual": 30957,
+      "canonicalPath": "/fipe/triumph/thruxton-900cc-2015-826032-0/",
+      "ano": 2015,
+      "marca": "TRIUMPH"
+    },
+    {
+      "vehicleId": "triumph-thruxton-900cc-2014-gasolina",
+      "fipeCodigo": "826032-0",
+      "displayName": "TRIUMPH THRUXTON 900cc",
+      "valorAtual": 29293,
+      "canonicalPath": "/fipe/triumph/thruxton-900cc-2014-826032-0/",
+      "ano": 2014,
+      "marca": "TRIUMPH"
+    },
+    {
+      "vehicleId": "triumph-thruxton-900cc-2007-gasolina",
+      "fipeCodigo": "826032-0",
+      "displayName": "TRIUMPH THRUXTON 900cc",
+      "valorAtual": 28427,
+      "canonicalPath": "/fipe/triumph/thruxton-900cc-2007-826032-0/",
+      "ano": 2007,
+      "marca": "TRIUMPH"
+    },
+    {
+      "vehicleId": "triumph-thruxton-900cc-2006-gasolina",
+      "fipeCodigo": "826032-0",
+      "displayName": "TRIUMPH THRUXTON 900cc",
+      "valorAtual": 21094,
+      "canonicalPath": "/fipe/triumph/thruxton-900cc-2006-826032-0/",
+      "ano": 2006,
+      "marca": "TRIUMPH"
+    }
+  ],
+  "stats": {
+    "total": 8,
+    "precoMin": 21094,
+    "precoMax": 57372,
+    "anos": [
+      2020,
+      2018,
+      2017,
+      2016,
+      2015,
+      2014,
+      2007,
+      2006
+    ]
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "tipo": "familia",
+  "slug": "420i",
+  "canonicalPath": "/fipe/bmw/420i/",
+  "titulo": "BMW 420i - Tabela FIPE",
+  "descricao": "8 versoes e anos do BMW 420i na Tabela FIPE.",
+  "seo": {
+    "title": "BMW 420i - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes BMW 420i. 8 veiculos indexados.",
+    "h1": "BMW 420i - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/bmw/420i/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "bmw-420i-cabriolet-m-sport-2-0-tb-16v-2p-2026-gasolina",
+      "fipeCodigo": "009290-8",
+      "displayName": "BMW 420i Cabriolet M Sport 2.0 TB 16V 2p.",
+      "valorAtual": 465332,
+      "canonicalPath": "/fipe/bmw/420i-cabriolet-m-sport-2-0-tb-16v-2p-2026-009290-8/",
+      "ano": 2026,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-420i-cabriolet-m-sport-2-0-tb-16v-2p-2025-gasolina",
+      "fipeCodigo": "009290-8",
+      "displayName": "BMW 420i Cabriolet M Sport 2.0 TB 16V 2p.",
+      "valorAtual": 436841,
+      "canonicalPath": "/fipe/bmw/420i-cabriolet-m-sport-2-0-tb-16v-2p-2025-009290-8/",
+      "ano": 2025,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-420i-cabriolet-m-sport-2-0-tb-16v-2p-2024-gasolina",
+      "fipeCodigo": "009290-8",
+      "displayName": "BMW 420i Cabriolet M Sport 2.0 TB 16V 2p.",
+      "valorAtual": 389941,
+      "canonicalPath": "/fipe/bmw/420i-cabriolet-m-sport-2-0-tb-16v-2p-2024-009290-8/",
+      "ano": 2024,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-420i-cabriolet-m-sport-2-0-tb-16v-2p-2023-gasolina",
+      "fipeCodigo": "009290-8",
+      "displayName": "BMW 420i Cabriolet M Sport 2.0 TB 16V 2p.",
+      "valorAtual": 364162,
+      "canonicalPath": "/fipe/bmw/420i-cabriolet-m-sport-2-0-tb-16v-2p-2023-009290-8/",
+      "ano": 2023,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-420i-cabriolet-m-sport-2-0-tb-16v-2p-2022-gasolina",
+      "fipeCodigo": "009290-8",
+      "displayName": "BMW 420i Cabriolet M Sport 2.0 TB 16V 2p.",
+      "valorAtual": 348996,
+      "canonicalPath": "/fipe/bmw/420i-cabriolet-m-sport-2-0-tb-16v-2p-2022-009290-8/",
+      "ano": 2022,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-420i-cabriolet-sport-2-0-tb-184cv-2p-2016-gasolina",
+      "fipeCodigo": "009203-7",
+      "displayName": "BMW 420i Cabriolet Sport 2.0 TB 184cv 2p",
+      "valorAtual": 188105,
+      "canonicalPath": "/fipe/bmw/420i-cabriolet-sport-2-0-tb-184cv-2p-2016-009203-7/",
+      "ano": 2016,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-420i-cabriolet-sport-2-0-tb-184cv-2p-2015-gasolina",
+      "fipeCodigo": "009203-7",
+      "displayName": "BMW 420i Cabriolet Sport 2.0 TB 184cv 2p",
+      "valorAtual": 183517,
+      "canonicalPath": "/fipe/bmw/420i-cabriolet-sport-2-0-tb-184cv-2p-2015-009203-7/",
+      "ano": 2015,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-420i-cabriolet-m-sport-2-0-tb-16v-2p-0-gasolina",
+      "fipeCodigo": "009290-8",
+      "displayName": "BMW 420i Cabriolet M Sport 2.0 TB 16V 2p.",
+      "valorAtual": 507870,
+      "canonicalPath": "/fipe/bmw/420i-cabriolet-m-sport-2-0-tb-16v-2p-0-009290-8/",
+      "ano": 0,
+      "marca": "BMW"
+    }
+  ],
+  "stats": {
+    "total": 8,
+    "precoMin": 183517,
+    "precoMax": 507870,
+    "anos": [
+      2026,
+      2025,
+      2024,
+      2023,
+      2022,
+      2016,
+      2015,
+      0
+    ]
+  }
+}

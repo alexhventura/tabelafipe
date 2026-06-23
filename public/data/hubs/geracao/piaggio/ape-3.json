@@ -1,0 +1,57 @@
+{
+  "tipo": "geracao",
+  "slug": "ape-3",
+  "canonicalPath": "/geracao/piaggio/ape-3/",
+  "titulo": "Geracao ape-3",
+  "descricao": "4 veiculos da geracao ape-3.",
+  "seo": {
+    "title": "Geracao ape-3 - Precos FIPE",
+    "description": "Veiculos da geracao ape-3 na Tabela FIPE.",
+    "h1": "Geracao ape-3",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/piaggio/ape-3/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "piaggio-ape-cargo-300cc-2024-gasolina",
+      "fipeCodigo": "822043-3",
+      "displayName": "PIAGGIO Apé Cargo 300cc",
+      "valorAtual": 34586,
+      "canonicalPath": "/fipe/piaggio/ape-cargo-300cc-2024-822043-3/",
+      "ano": 2024,
+      "marca": "PIAGGIO"
+    },
+    {
+      "vehicleId": "piaggio-ape-cargo-300cc-2025-gasolina",
+      "fipeCodigo": "822043-3",
+      "displayName": "PIAGGIO Apé Cargo 300cc",
+      "valorAtual": 36701,
+      "canonicalPath": "/fipe/piaggio/ape-cargo-300cc-2025-822043-3/",
+      "ano": 2025,
+      "marca": "PIAGGIO"
+    },
+    {
+      "vehicleId": "piaggio-ape-passenger-230cc-2024-gasolina",
+      "fipeCodigo": "822044-1",
+      "displayName": "PIAGGIO Apé Passenger 230cc",
+      "valorAtual": 35614,
+      "canonicalPath": "/fipe/piaggio/ape-passenger-230cc-2024-822044-1/",
+      "ano": 2024,
+      "marca": "PIAGGIO"
+    },
+    {
+      "vehicleId": "piaggio-ape-passenger-230cc-2025-gasolina",
+      "fipeCodigo": "822044-1",
+      "displayName": "PIAGGIO Apé Passenger 230cc",
+      "valorAtual": 40047,
+      "canonicalPath": "/fipe/piaggio/ape-passenger-230cc-2025-822044-1/",
+      "ano": 2025,
+      "marca": "PIAGGIO"
+    }
+  ],
+  "stats": {
+    "total": 4
+  },
+  "meta": {
+    "geracaoId": "ape-3"
+  }
+}

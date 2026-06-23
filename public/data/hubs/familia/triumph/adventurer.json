@@ -1,0 +1,42 @@
+{
+  "tipo": "familia",
+  "slug": "adventurer",
+  "canonicalPath": "/fipe/triumph/adventurer/",
+  "titulo": "TRIUMPH adventurer - Tabela FIPE",
+  "descricao": "2 versoes e anos do TRIUMPH adventurer na Tabela FIPE.",
+  "seo": {
+    "title": "TRIUMPH adventurer - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes TRIUMPH adventurer. 2 veiculos indexados.",
+    "h1": "TRIUMPH adventurer - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/triumph/adventurer/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "triumph-adventurer-900-1997-gasolina",
+      "fipeCodigo": "826001-0",
+      "displayName": "TRIUMPH ADVENTURER 900",
+      "valorAtual": 12878,
+      "canonicalPath": "/fipe/triumph/adventurer-900-1997-826001-0/",
+      "ano": 1997,
+      "marca": "TRIUMPH"
+    },
+    {
+      "vehicleId": "triumph-adventurer-900-1996-gasolina",
+      "fipeCodigo": "826001-0",
+      "displayName": "TRIUMPH ADVENTURER 900",
+      "valorAtual": 11519,
+      "canonicalPath": "/fipe/triumph/adventurer-900-1996-826001-0/",
+      "ano": 1996,
+      "marca": "TRIUMPH"
+    }
+  ],
+  "stats": {
+    "total": 2,
+    "precoMin": 11519,
+    "precoMax": 12878,
+    "anos": [
+      1997,
+      1996
+    ]
+  }
+}

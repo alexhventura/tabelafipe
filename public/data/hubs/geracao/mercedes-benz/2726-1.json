@@ -1,0 +1,66 @@
+{
+  "tipo": "geracao",
+  "slug": "2726-1",
+  "canonicalPath": "/geracao/mercedes-benz/2726-1/",
+  "titulo": "Geracao 2726-1",
+  "descricao": "5 veiculos da geracao 2726-1.",
+  "seo": {
+    "title": "Geracao 2726-1 - Precos FIPE",
+    "description": "Veiculos da geracao 2726-1 na Tabela FIPE.",
+    "h1": "Geracao 2726-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/mercedes-benz/2726-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "mercedes-benz-2726-6x4-2p-diesel-2008-diesel",
+      "fipeCodigo": "509262-0",
+      "displayName": "MERCEDES-BENZ 2726 6x4 2p (diesel)",
+      "valorAtual": 199585,
+      "canonicalPath": "/fipe/mercedes-benz/2726-6x4-2p-diesel-2008-509262-0/",
+      "ano": 2008,
+      "marca": "MERCEDES-BENZ"
+    },
+    {
+      "vehicleId": "mercedes-benz-2726-6x4-2p-diesel-2009-diesel",
+      "fipeCodigo": "509262-0",
+      "displayName": "MERCEDES-BENZ 2726 6x4 2p (diesel)",
+      "valorAtual": 234745,
+      "canonicalPath": "/fipe/mercedes-benz/2726-6x4-2p-diesel-2009-509262-0/",
+      "ano": 2009,
+      "marca": "MERCEDES-BENZ"
+    },
+    {
+      "vehicleId": "mercedes-benz-2726-6x4-2p-diesel-2010-diesel",
+      "fipeCodigo": "509262-0",
+      "displayName": "MERCEDES-BENZ 2726 6x4 2p (diesel)",
+      "valorAtual": 241014,
+      "canonicalPath": "/fipe/mercedes-benz/2726-6x4-2p-diesel-2010-509262-0/",
+      "ano": 2010,
+      "marca": "MERCEDES-BENZ"
+    },
+    {
+      "vehicleId": "mercedes-benz-2726-6x4-2p-diesel-2011-diesel",
+      "fipeCodigo": "509262-0",
+      "displayName": "MERCEDES-BENZ 2726 6x4 2p (diesel)",
+      "valorAtual": 247748,
+      "canonicalPath": "/fipe/mercedes-benz/2726-6x4-2p-diesel-2011-509262-0/",
+      "ano": 2011,
+      "marca": "MERCEDES-BENZ"
+    },
+    {
+      "vehicleId": "mercedes-benz-2726-6x4-2p-diesel-2012-diesel",
+      "fipeCodigo": "509262-0",
+      "displayName": "MERCEDES-BENZ 2726 6x4 2p (diesel)",
+      "valorAtual": 254712,
+      "canonicalPath": "/fipe/mercedes-benz/2726-6x4-2p-diesel-2012-509262-0/",
+      "ano": 2012,
+      "marca": "MERCEDES-BENZ"
+    }
+  ],
+  "stats": {
+    "total": 5
+  },
+  "meta": {
+    "geracaoId": "2726-1"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "geradoEm": "2026-06-22T16:23:24.025Z",
+  "totalVeiculos": 50395,
+  "cobertura": {
+    "potencia": {
+      "preenchidos": 4282,
+      "pct": 8.5,
+      "meta": 70,
+      "atingiu": false
+    },
+    "torque": {
+      "preenchidos": 255,
+      "pct": 0.51,
+      "meta": 70,
+      "atingiu": false
+    },
+    "transmissao": {
+      "preenchidos": 11960,
+      "pct": 23.73,
+      "meta": 70,
+      "atingiu": false
+    },
+    "porta_malas": {
+      "preenchidos": 173,
+      "pct": 0.34,
+      "meta": 50,
+      "atingiu": false
+    }
+  },
+  "marcas": 228
+}

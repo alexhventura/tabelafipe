@@ -1,0 +1,57 @@
+{
+  "tipo": "geracao",
+  "slug": "fy250-1",
+  "canonicalPath": "/geracao/fym/fy250-1/",
+  "titulo": "Geracao fy250-1",
+  "descricao": "4 veiculos da geracao fy250-1.",
+  "seo": {
+    "title": "Geracao fy250-1 - Precos FIPE",
+    "description": "Veiculos da geracao fy250-1 na Tabela FIPE.",
+    "h1": "Geracao fy250-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/fym/fy250-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "fym-fy250-250cc-2006-gasolina",
+      "fipeCodigo": "849002-3",
+      "displayName": "FYM FY250 250cc",
+      "valorAtual": 6135,
+      "canonicalPath": "/fipe/fym/fy250-250cc-2006-849002-3/",
+      "ano": 2006,
+      "marca": "FYM"
+    },
+    {
+      "vehicleId": "fym-fy250-250cc-2007-gasolina",
+      "fipeCodigo": "849002-3",
+      "displayName": "FYM FY250 250cc",
+      "valorAtual": 8501,
+      "canonicalPath": "/fipe/fym/fy250-250cc-2007-849002-3/",
+      "ano": 2007,
+      "marca": "FYM"
+    },
+    {
+      "vehicleId": "fym-fy250-250cc-2008-gasolina",
+      "fipeCodigo": "849002-3",
+      "displayName": "FYM FY250 250cc",
+      "valorAtual": 8870,
+      "canonicalPath": "/fipe/fym/fy250-250cc-2008-849002-3/",
+      "ano": 2008,
+      "marca": "FYM"
+    },
+    {
+      "vehicleId": "fym-fy250-250cc-2009-gasolina",
+      "fipeCodigo": "849002-3",
+      "displayName": "FYM FY250 250cc",
+      "valorAtual": 9584,
+      "canonicalPath": "/fipe/fym/fy250-250cc-2009-849002-3/",
+      "ano": 2009,
+      "marca": "FYM"
+    }
+  ],
+  "stats": {
+    "total": 4
+  },
+  "meta": {
+    "geracaoId": "fy250-1"
+  }
+}

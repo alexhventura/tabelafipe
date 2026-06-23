@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "i5-2",
+  "canonicalPath": "/geracao/bmw/i5-2/",
+  "titulo": "Geracao i5-2",
+  "descricao": "2 veiculos da geracao i5-2.",
+  "seo": {
+    "title": "Geracao i5-2 - Precos FIPE",
+    "description": "Veiculos da geracao i5-2 na Tabela FIPE.",
+    "h1": "Geracao i5-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/bmw/i5-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "bmw-i5-m60-eletrico-2024-eletrico",
+      "fipeCodigo": "009317-3",
+      "displayName": "BMW i5 M60 (Elétrico)",
+      "valorAtual": 531982,
+      "canonicalPath": "/fipe/bmw/i5-m60-eletrico-2024-009317-3/",
+      "ano": 2024,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-i5-m60-eletrico-2025-eletrico",
+      "fipeCodigo": "009317-3",
+      "displayName": "BMW i5 M60 (Elétrico)",
+      "valorAtual": 606341,
+      "canonicalPath": "/fipe/bmw/i5-m60-eletrico-2025-009317-3/",
+      "ano": 2025,
+      "marca": "BMW"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "i5-2"
+  }
+}

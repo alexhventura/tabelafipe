@@ -1,0 +1,57 @@
+{
+  "tipo": "geracao",
+  "slug": "quick-1",
+  "canonicalPath": "/geracao/jonny/quick-1/",
+  "titulo": "Geracao quick-1",
+  "descricao": "4 veiculos da geracao quick-1.",
+  "seo": {
+    "title": "Geracao quick-1 - Precos FIPE",
+    "description": "Veiculos da geracao quick-1 na Tabela FIPE.",
+    "h1": "Geracao quick-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/jonny/quick-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "jonny-quick-150cc-2011-gasolina",
+      "fipeCodigo": "865009-8",
+      "displayName": "JONNY QUICK 150cc",
+      "valorAtual": 2527,
+      "canonicalPath": "/fipe/jonny/quick-150cc-2011-865009-8/",
+      "ano": 2011,
+      "marca": "JONNY"
+    },
+    {
+      "vehicleId": "jonny-quick-150cc-2012-gasolina",
+      "fipeCodigo": "865009-8",
+      "displayName": "JONNY QUICK 150cc",
+      "valorAtual": 2693,
+      "canonicalPath": "/fipe/jonny/quick-150cc-2012-865009-8/",
+      "ano": 2012,
+      "marca": "JONNY"
+    },
+    {
+      "vehicleId": "jonny-quick-150cc-2013-gasolina",
+      "fipeCodigo": "865009-8",
+      "displayName": "JONNY QUICK 150cc",
+      "valorAtual": 2856,
+      "canonicalPath": "/fipe/jonny/quick-150cc-2013-865009-8/",
+      "ano": 2013,
+      "marca": "JONNY"
+    },
+    {
+      "vehicleId": "jonny-quick-150cc-2014-gasolina",
+      "fipeCodigo": "865009-8",
+      "displayName": "JONNY QUICK 150cc",
+      "valorAtual": 3091,
+      "canonicalPath": "/fipe/jonny/quick-150cc-2014-865009-8/",
+      "ano": 2014,
+      "marca": "JONNY"
+    }
+  ],
+  "stats": {
+    "total": 4
+  },
+  "meta": {
+    "geracaoId": "quick-1"
+  }
+}

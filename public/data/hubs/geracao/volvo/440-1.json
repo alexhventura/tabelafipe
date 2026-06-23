@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "440-1",
+  "canonicalPath": "/geracao/volvo/440-1/",
+  "titulo": "Geracao 440-1",
+  "descricao": "2 veiculos da geracao 440-1.",
+  "seo": {
+    "title": "Geracao 440-1 - Precos FIPE",
+    "description": "Veiculos da geracao 440-1 na Tabela FIPE.",
+    "h1": "Geracao 440-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/volvo/440-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "volvo-440-turbo-1-8-1992-gasolina",
+      "fipeCodigo": "029029-7",
+      "displayName": "Volvo 440 Turbo 1.8",
+      "valorAtual": 5581,
+      "canonicalPath": "/fipe/volvo/440-turbo-1-8-1992-029029-7/",
+      "ano": 1992,
+      "marca": "Volvo"
+    },
+    {
+      "vehicleId": "volvo-440-turbo-1-8-1993-gasolina",
+      "fipeCodigo": "029029-7",
+      "displayName": "Volvo 440 Turbo 1.8",
+      "valorAtual": 5803,
+      "canonicalPath": "/fipe/volvo/440-turbo-1-8-1993-029029-7/",
+      "ano": 1993,
+      "marca": "Volvo"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "440-1"
+  }
+}

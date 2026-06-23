@@ -1,0 +1,57 @@
+{
+  "tipo": "geracao",
+  "slug": "4-2",
+  "canonicalPath": "/geracao/mg/4-2/",
+  "titulo": "Geracao 4-2",
+  "descricao": "4 veiculos da geracao 4-2.",
+  "seo": {
+    "title": "Geracao 4-2 - Precos FIPE",
+    "description": "Veiculos da geracao 4-2 na Tabela FIPE.",
+    "h1": "Geracao 4-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/mg/4-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "mg-4-comfort-2026-eletrico",
+      "fipeCodigo": "076006-4",
+      "displayName": "MG 4 Comfort",
+      "valorAtual": 163014,
+      "canonicalPath": "/fipe/mg/4-comfort-2026-076006-4/",
+      "ano": 2026,
+      "marca": "MG"
+    },
+    {
+      "vehicleId": "mg-4-luxury-2026-eletrico",
+      "fipeCodigo": "076007-2",
+      "displayName": "MG 4 Luxury",
+      "valorAtual": 183949,
+      "canonicalPath": "/fipe/mg/4-luxury-2026-076007-2/",
+      "ano": 2026,
+      "marca": "MG"
+    },
+    {
+      "vehicleId": "mg-4-xpower-awd-2026-eletrico",
+      "fipeCodigo": "076008-0",
+      "displayName": "MG 4 Xpower AWD",
+      "valorAtual": 193757,
+      "canonicalPath": "/fipe/mg/4-xpower-awd-2026-076008-0/",
+      "ano": 2026,
+      "marca": "MG"
+    },
+    {
+      "vehicleId": "mg-4-xpower-awd-2027-eletrico",
+      "fipeCodigo": "076008-0",
+      "displayName": "MG 4 Xpower AWD",
+      "valorAtual": 211937,
+      "canonicalPath": "/fipe/mg/4-xpower-awd-2027-076008-0/",
+      "ano": 2027,
+      "marca": "MG"
+    }
+  ],
+  "stats": {
+    "total": 4
+  },
+  "meta": {
+    "geracaoId": "4-2"
+  }
+}

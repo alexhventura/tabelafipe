@@ -1,0 +1,57 @@
+{
+  "tipo": "geracao",
+  "slug": "halley-1",
+  "canonicalPath": "/geracao/mvk/halley-1/",
+  "titulo": "Geracao halley-1",
+  "descricao": "4 veiculos da geracao halley-1.",
+  "seo": {
+    "title": "Geracao halley-1 - Precos FIPE",
+    "description": "Veiculos da geracao halley-1 na Tabela FIPE.",
+    "h1": "Geracao halley-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/mvk/halley-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "mvk-halley-fenix-200-2007-gasolina",
+      "fipeCodigo": "845008-0",
+      "displayName": "MVK HALLEY / FENIX 200",
+      "valorAtual": 4500,
+      "canonicalPath": "/fipe/mvk/halley-fenix-200-2007-845008-0/",
+      "ano": 2007,
+      "marca": "MVK"
+    },
+    {
+      "vehicleId": "mvk-halley-fenix-200-2008-gasolina",
+      "fipeCodigo": "845008-0",
+      "displayName": "MVK HALLEY / FENIX 200",
+      "valorAtual": 4932,
+      "canonicalPath": "/fipe/mvk/halley-fenix-200-2008-845008-0/",
+      "ano": 2008,
+      "marca": "MVK"
+    },
+    {
+      "vehicleId": "mvk-halley-fenix-200-2009-gasolina",
+      "fipeCodigo": "845008-0",
+      "displayName": "MVK HALLEY / FENIX 200",
+      "valorAtual": 5851,
+      "canonicalPath": "/fipe/mvk/halley-fenix-200-2009-845008-0/",
+      "ano": 2009,
+      "marca": "MVK"
+    },
+    {
+      "vehicleId": "mvk-halley-150-2006-gasolina",
+      "fipeCodigo": "845006-4",
+      "displayName": "MVK HALLEY 150",
+      "valorAtual": 3441,
+      "canonicalPath": "/fipe/mvk/halley-150-2006-845006-4/",
+      "ano": 2006,
+      "marca": "MVK"
+    }
+  ],
+  "stats": {
+    "total": 4
+  },
+  "meta": {
+    "geracaoId": "halley-1"
+  }
+}

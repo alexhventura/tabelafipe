@@ -1,0 +1,100 @@
+{
+  "tipo": "familia",
+  "slug": "164",
+  "canonicalPath": "/fipe/alfa-romeo/164/",
+  "titulo": "Alfa Romeo 164 - Tabela FIPE",
+  "descricao": "8 versoes e anos do Alfa Romeo 164 na Tabela FIPE.",
+  "seo": {
+    "title": "Alfa Romeo 164 - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes Alfa Romeo 164. 8 veiculos indexados.",
+    "h1": "Alfa Romeo 164 - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/alfa-romeo/164/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "alfa-romeo-164-super-v6-24v-1996-gasolina",
+      "fipeCodigo": "006006-2",
+      "displayName": "Alfa Romeo 164 Super V6 24V",
+      "valorAtual": 30377,
+      "canonicalPath": "/fipe/alfa-romeo/164-super-v6-24v-1996-006006-2/",
+      "ano": 1996,
+      "marca": "Alfa Romeo"
+    },
+    {
+      "vehicleId": "alfa-romeo-164-3-0-v6-1996-gasolina",
+      "fipeCodigo": "006005-4",
+      "displayName": "Alfa Romeo 164 3.0 V6",
+      "valorAtual": 31715,
+      "canonicalPath": "/fipe/alfa-romeo/164-3-0-v6-1996-006005-4/",
+      "ano": 1996,
+      "marca": "Alfa Romeo"
+    },
+    {
+      "vehicleId": "alfa-romeo-164-super-v6-24v-1995-gasolina",
+      "fipeCodigo": "006006-2",
+      "displayName": "Alfa Romeo 164 Super V6 24V",
+      "valorAtual": 29636,
+      "canonicalPath": "/fipe/alfa-romeo/164-super-v6-24v-1995-006006-2/",
+      "ano": 1995,
+      "marca": "Alfa Romeo"
+    },
+    {
+      "vehicleId": "alfa-romeo-164-3-0-v6-1995-gasolina",
+      "fipeCodigo": "006005-4",
+      "displayName": "Alfa Romeo 164 3.0 V6",
+      "valorAtual": 30941,
+      "canonicalPath": "/fipe/alfa-romeo/164-3-0-v6-1995-006005-4/",
+      "ano": 1995,
+      "marca": "Alfa Romeo"
+    },
+    {
+      "vehicleId": "alfa-romeo-164-3-0-v6-1994-gasolina",
+      "fipeCodigo": "006005-4",
+      "displayName": "Alfa Romeo 164 3.0 V6",
+      "valorAtual": 29184,
+      "canonicalPath": "/fipe/alfa-romeo/164-3-0-v6-1994-006005-4/",
+      "ano": 1994,
+      "marca": "Alfa Romeo"
+    },
+    {
+      "vehicleId": "alfa-romeo-164-3-0-v6-1993-gasolina",
+      "fipeCodigo": "006005-4",
+      "displayName": "Alfa Romeo 164 3.0 V6",
+      "valorAtual": 19087,
+      "canonicalPath": "/fipe/alfa-romeo/164-3-0-v6-1993-006005-4/",
+      "ano": 1993,
+      "marca": "Alfa Romeo"
+    },
+    {
+      "vehicleId": "alfa-romeo-164-3-0-v6-1992-gasolina",
+      "fipeCodigo": "006005-4",
+      "displayName": "Alfa Romeo 164 3.0 V6",
+      "valorAtual": 13117,
+      "canonicalPath": "/fipe/alfa-romeo/164-3-0-v6-1992-006005-4/",
+      "ano": 1992,
+      "marca": "Alfa Romeo"
+    },
+    {
+      "vehicleId": "alfa-romeo-164-3-0-v6-1991-gasolina",
+      "fipeCodigo": "006005-4",
+      "displayName": "Alfa Romeo 164 3.0 V6",
+      "valorAtual": 11810,
+      "canonicalPath": "/fipe/alfa-romeo/164-3-0-v6-1991-006005-4/",
+      "ano": 1991,
+      "marca": "Alfa Romeo"
+    }
+  ],
+  "stats": {
+    "total": 8,
+    "precoMin": 11810,
+    "precoMax": 31715,
+    "anos": [
+      1996,
+      1995,
+      1994,
+      1993,
+      1992,
+      1991
+    ]
+  }
+}

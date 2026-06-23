@@ -1,0 +1,84 @@
+{
+  "tipo": "geracao",
+  "slug": "camaro-5",
+  "canonicalPath": "/geracao/chevrolet/camaro-5/",
+  "titulo": "Geracao camaro-5",
+  "descricao": "7 veiculos da geracao camaro-5.",
+  "seo": {
+    "title": "Geracao camaro-5 - Precos FIPE",
+    "description": "Veiculos da geracao camaro-5 na Tabela FIPE.",
+    "h1": "Geracao camaro-5",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/chevrolet/camaro-5/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "chevrolet-camaro-ss-6-2-v8-16v-2022-gasolina",
+      "fipeCodigo": "004371-0",
+      "displayName": "GM - Chevrolet Camaro SS 6.2 V8 16V",
+      "valorAtual": 412489,
+      "canonicalPath": "/fipe/chevrolet/camaro-ss-6-2-v8-16v-2022-004371-0/",
+      "ano": 2022,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-camaro-ss-6-2-v8-16v-2023-gasolina",
+      "fipeCodigo": "004371-0",
+      "displayName": "GM - Chevrolet Camaro SS 6.2 V8 16V",
+      "valorAtual": 454948,
+      "canonicalPath": "/fipe/chevrolet/camaro-ss-6-2-v8-16v-2023-004371-0/",
+      "ano": 2023,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-camaro-ss-6-2-v8-16v-2024-gasolina",
+      "fipeCodigo": "004371-0",
+      "displayName": "GM - Chevrolet Camaro SS 6.2 V8 16V",
+      "valorAtual": 513582,
+      "canonicalPath": "/fipe/chevrolet/camaro-ss-6-2-v8-16v-2024-004371-0/",
+      "ano": 2024,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-camaro-ss-collection-6-2-v8-16v-2024-gasolina",
+      "fipeCodigo": "004548-9",
+      "displayName": "GM - Chevrolet Camaro SS Collection 6.2 V8 16V",
+      "valorAtual": 501295,
+      "canonicalPath": "/fipe/chevrolet/camaro-ss-collection-6-2-v8-16v-2024-004548-9/",
+      "ano": 2024,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-camaro-ss-conversivel-6-2-v8-16v-2022-gasolina",
+      "fipeCodigo": "004453-9",
+      "displayName": "GM - Chevrolet Camaro SS Conversível 6.2 V8 16V",
+      "valorAtual": 474621,
+      "canonicalPath": "/fipe/chevrolet/camaro-ss-conversivel-6-2-v8-16v-2022-004453-9/",
+      "ano": 2022,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-camaro-ss-conversivel-6-2-v8-16v-2023-gasolina",
+      "fipeCodigo": "004453-9",
+      "displayName": "GM - Chevrolet Camaro SS Conversível 6.2 V8 16V",
+      "valorAtual": 493385,
+      "canonicalPath": "/fipe/chevrolet/camaro-ss-conversivel-6-2-v8-16v-2023-004453-9/",
+      "ano": 2023,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-camaro-ss-conversivel-6-2-v8-16v-2024-gasolina",
+      "fipeCodigo": "004453-9",
+      "displayName": "GM - Chevrolet Camaro SS Conversível 6.2 V8 16V",
+      "valorAtual": 513456,
+      "canonicalPath": "/fipe/chevrolet/camaro-ss-conversivel-6-2-v8-16v-2024-004453-9/",
+      "ano": 2024,
+      "marca": "GM - Chevrolet"
+    }
+  ],
+  "stats": {
+    "total": 7
+  },
+  "meta": {
+    "geracaoId": "camaro-5"
+  }
+}

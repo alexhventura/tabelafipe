@@ -1,0 +1,66 @@
+{
+  "tipo": "geracao",
+  "slug": "spin-1",
+  "canonicalPath": "/geracao/chevrolet/spin-1/",
+  "titulo": "Geracao spin-1",
+  "descricao": "5 veiculos da geracao spin-1.",
+  "seo": {
+    "title": "Geracao spin-1 - Precos FIPE",
+    "description": "Veiculos da geracao spin-1 na Tabela FIPE.",
+    "h1": "Geracao spin-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/chevrolet/spin-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "chevrolet-spin-1-8-8v-econo-flex-5p-aut-0-flex",
+      "fipeCodigo": "004564-0",
+      "displayName": "GM - Chevrolet SPIN 1.8 8V Econo.Flex 5p Aut.",
+      "valorAtual": 116349,
+      "canonicalPath": "/fipe/chevrolet/spin-1-8-8v-econo-flex-5p-aut-0-004564-0/",
+      "ano": 0,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-spin-lt-1-8-8v-econo-flex-5p-aut-0-flex",
+      "fipeCodigo": "004415-6",
+      "displayName": "GM - Chevrolet SPIN LT 1.8 8V Econo.Flex 5p Aut.",
+      "valorAtual": 139917,
+      "canonicalPath": "/fipe/chevrolet/spin-lt-1-8-8v-econo-flex-5p-aut-0-004415-6/",
+      "ano": 0,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-spin-lt-1-8-8v-econo-flex-5p-mec-0-flex",
+      "fipeCodigo": "004414-8",
+      "displayName": "GM - Chevrolet SPIN LT 1.8 8V Econo.Flex 5p Mec.",
+      "valorAtual": 135325,
+      "canonicalPath": "/fipe/chevrolet/spin-lt-1-8-8v-econo-flex-5p-mec-0-004414-8/",
+      "ano": 0,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-spin-ltz-1-8-8v-econo-flex-5p-aut-0-flex",
+      "fipeCodigo": "004417-2",
+      "displayName": "GM - Chevrolet SPIN LTZ 1.8 8V Econo.Flex 5p Aut.",
+      "valorAtual": 152325,
+      "canonicalPath": "/fipe/chevrolet/spin-ltz-1-8-8v-econo-flex-5p-aut-0-004417-2/",
+      "ano": 0,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-spin-premier-1-8-8v-econo-flex-5p-aut-0-flex",
+      "fipeCodigo": "004494-6",
+      "displayName": "GM - Chevrolet SPIN PREMIER 1.8 8V Econo.Flex 5p Aut.",
+      "valorAtual": 161765,
+      "canonicalPath": "/fipe/chevrolet/spin-premier-1-8-8v-econo-flex-5p-aut-0-004494-6/",
+      "ano": 0,
+      "marca": "GM - Chevrolet"
+    }
+  ],
+  "stats": {
+    "total": 5
+  },
+  "meta": {
+    "geracaoId": "spin-1"
+  }
+}

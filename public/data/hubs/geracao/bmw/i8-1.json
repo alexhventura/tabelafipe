@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "i8-1",
+  "canonicalPath": "/geracao/bmw/i8-1/",
+  "titulo": "Geracao i8-1",
+  "descricao": "2 veiculos da geracao i8-1.",
+  "seo": {
+    "title": "Geracao i8-1 - Precos FIPE",
+    "description": "Veiculos da geracao i8-1 na Tabela FIPE.",
+    "h1": "Geracao i8-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/bmw/i8-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "bmw-i8-e-drive-1-5-tb-12v-aut-hibrido-2015-hibrido",
+      "fipeCodigo": "009197-9",
+      "displayName": "BMW i8 e-Drive 1.5 TB 12V  Aut. (Híbrido)",
+      "valorAtual": 531555,
+      "canonicalPath": "/fipe/bmw/i8-e-drive-1-5-tb-12v-aut-hibrido-2015-009197-9/",
+      "ano": 2015,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-i8-e-drive-1-5-tb-12v-aut-hibrido-2016-hibrido",
+      "fipeCodigo": "009197-9",
+      "displayName": "BMW i8 e-Drive 1.5 TB 12V  Aut. (Híbrido)",
+      "valorAtual": 544844,
+      "canonicalPath": "/fipe/bmw/i8-e-drive-1-5-tb-12v-aut-hibrido-2016-009197-9/",
+      "ano": 2016,
+      "marca": "BMW"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "i8-1"
+  }
+}

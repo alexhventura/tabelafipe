@@ -1,0 +1,84 @@
+{
+  "tipo": "geracao",
+  "slug": "m-3",
+  "canonicalPath": "/geracao/bmw/m-3/",
+  "titulo": "Geracao m-3",
+  "descricao": "7 veiculos da geracao m-3.",
+  "seo": {
+    "title": "Geracao m-3 - Precos FIPE",
+    "description": "Veiculos da geracao m-3 na Tabela FIPE.",
+    "h1": "Geracao m-3",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/bmw/m-3/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "bmw-m-135i-3-0-tb-24v-320cv-2013-gasolina",
+      "fipeCodigo": "009178-2",
+      "displayName": "BMW M 135i 3.0 TB 24V 320cv",
+      "valorAtual": 150268,
+      "canonicalPath": "/fipe/bmw/m-135i-3-0-tb-24v-320cv-2013-009178-2/",
+      "ano": 2013,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-m-135i-3-0-tb-24v-320cv-2014-gasolina",
+      "fipeCodigo": "009178-2",
+      "displayName": "BMW M 135i 3.0 TB 24V 320cv",
+      "valorAtual": 154025,
+      "canonicalPath": "/fipe/bmw/m-135i-3-0-tb-24v-320cv-2014-009178-2/",
+      "ano": 2014,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-m-135i-3-0-tb-24v-320cv-2015-gasolina",
+      "fipeCodigo": "009178-2",
+      "displayName": "BMW M 135i 3.0 TB 24V 320cv",
+      "valorAtual": 167869,
+      "canonicalPath": "/fipe/bmw/m-135i-3-0-tb-24v-320cv-2015-009178-2/",
+      "ano": 2015,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-m-135i-3-0-tb-24v-320cv-2016-gasolina",
+      "fipeCodigo": "009178-2",
+      "displayName": "BMW M 135i 3.0 TB 24V 320cv",
+      "valorAtual": 207399,
+      "canonicalPath": "/fipe/bmw/m-135i-3-0-tb-24v-320cv-2016-009178-2/",
+      "ano": 2016,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-m-235i-coupe-3-0-24v-326cv-2014-gasolina",
+      "fipeCodigo": "009193-6",
+      "displayName": "BMW M 235i Coupe 3.0 24V 326cv",
+      "valorAtual": 180767,
+      "canonicalPath": "/fipe/bmw/m-235i-coupe-3-0-24v-326cv-2014-009193-6/",
+      "ano": 2014,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-m-235i-coupe-3-0-24v-326cv-2015-gasolina",
+      "fipeCodigo": "009193-6",
+      "displayName": "BMW M 235i Coupe 3.0 24V 326cv",
+      "valorAtual": 200670,
+      "canonicalPath": "/fipe/bmw/m-235i-coupe-3-0-24v-326cv-2015-009193-6/",
+      "ano": 2015,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-m-235i-coupe-3-0-24v-326cv-2016-gasolina",
+      "fipeCodigo": "009193-6",
+      "displayName": "BMW M 235i Coupe 3.0 24V 326cv",
+      "valorAtual": 216831,
+      "canonicalPath": "/fipe/bmw/m-235i-coupe-3-0-24v-326cv-2016-009193-6/",
+      "ano": 2016,
+      "marca": "BMW"
+    }
+  ],
+  "stats": {
+    "total": 7
+  },
+  "meta": {
+    "geracaoId": "m-3"
+  }
+}

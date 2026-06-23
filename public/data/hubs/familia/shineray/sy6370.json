@@ -1,0 +1,42 @@
+{
+  "tipo": "familia",
+  "slug": "sy6370",
+  "canonicalPath": "/fipe/shineray/sy6370/",
+  "titulo": "SHINERAY sy6370 - Tabela FIPE",
+  "descricao": "2 versoes e anos do SHINERAY sy6370 na Tabela FIPE.",
+  "seo": {
+    "title": "SHINERAY sy6370 - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes SHINERAY sy6370. 2 veiculos indexados.",
+    "h1": "SHINERAY sy6370 - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/shineray/sy6370/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "shineray-sy6370-a7-pvan-2015-gasolina",
+      "fipeCodigo": "082006-7",
+      "displayName": "SHINERAY SY6370 A7 PVAN",
+      "valorAtual": 21970,
+      "canonicalPath": "/fipe/shineray/sy6370-a7-pvan-2015-082006-7/",
+      "ano": 2015,
+      "marca": "SHINERAY"
+    },
+    {
+      "vehicleId": "shineray-sy6370-a7-pvan-2013-gasolina",
+      "fipeCodigo": "082006-7",
+      "displayName": "SHINERAY SY6370 A7 PVAN",
+      "valorAtual": 17790,
+      "canonicalPath": "/fipe/shineray/sy6370-a7-pvan-2013-082006-7/",
+      "ano": 2013,
+      "marca": "SHINERAY"
+    }
+  ],
+  "stats": {
+    "total": 2,
+    "precoMin": 17790,
+    "precoMax": 21970,
+    "anos": [
+      2015,
+      2013
+    ]
+  }
+}

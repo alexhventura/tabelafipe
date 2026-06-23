@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "b5-2",
+  "canonicalPath": "/geracao/denza/b5-2/",
+  "titulo": "Geracao b5-2",
+  "descricao": "2 veiculos da geracao b5-2.",
+  "seo": {
+    "title": "Geracao b5-2 - Precos FIPE",
+    "description": "Veiculos da geracao b5-2 na Tabela FIPE.",
+    "h1": "Geracao b5-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/denza/b5-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "denza-b5-4wd-2026-hibrido",
+      "fipeCodigo": "306001-2",
+      "displayName": "Denza B5 4WD",
+      "valorAtual": 391105,
+      "canonicalPath": "/fipe/denza/b5-4wd-2026-306001-2/",
+      "ano": 2026,
+      "marca": "Denza"
+    },
+    {
+      "vehicleId": "denza-b5-4wd-2027-hibrido",
+      "fipeCodigo": "306001-2",
+      "displayName": "Denza B5 4WD",
+      "valorAtual": 408109,
+      "canonicalPath": "/fipe/denza/b5-4wd-2027-306001-2/",
+      "ano": 2027,
+      "marca": "Denza"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "b5-2"
+  }
+}

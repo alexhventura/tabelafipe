@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "2500-2",
+  "canonicalPath": "/geracao/ram/2500-2/",
+  "titulo": "Geracao 2500-2",
+  "descricao": "2 veiculos da geracao 2500-2.",
+  "seo": {
+    "title": "Geracao 2500-2 - Precos FIPE",
+    "description": "Veiculos da geracao 2500-2 na Tabela FIPE.",
+    "h1": "Geracao 2500-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/ram/2500-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "ram-2500-laramie-6-7-tdi-cd-4x4-diesel-2012-diesel",
+      "fipeCodigo": "083001-1",
+      "displayName": "RAM 2500 LARAMIE  6.7 TDI  CD 4x4 Diesel",
+      "valorAtual": 199646,
+      "canonicalPath": "/fipe/ram/2500-laramie-6-7-tdi-cd-4x4-diesel-2012-083001-1/",
+      "ano": 2012,
+      "marca": "RAM"
+    },
+    {
+      "vehicleId": "ram-2500-laramie-tropiv-6-7-4x4-diesel-2012-diesel",
+      "fipeCodigo": "083002-0",
+      "displayName": "RAM 2500 LARAMIE TROPIV. 6.7 4x4 Diesel",
+      "valorAtual": 206629,
+      "canonicalPath": "/fipe/ram/2500-laramie-tropiv-6-7-4x4-diesel-2012-083002-0/",
+      "ano": 2012,
+      "marca": "RAM"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "2500-2"
+  }
+}

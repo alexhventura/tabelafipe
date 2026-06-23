@@ -1,0 +1,50 @@
+{
+  "tipo": "familia",
+  "slug": "warrior",
+  "canonicalPath": "/fipe/iros/warrior/",
+  "titulo": "IROS warrior - Tabela FIPE",
+  "descricao": "3 versoes e anos do IROS warrior na Tabela FIPE.",
+  "seo": {
+    "title": "IROS warrior - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes IROS warrior. 3 veiculos indexados.",
+    "h1": "IROS warrior - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/iros/warrior/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "iros-warrior-250-quadriciclo-2009-gasolina",
+      "fipeCodigo": "867013-7",
+      "displayName": "IROS WARRIOR 250 QUADRICICLO",
+      "valorAtual": 6833,
+      "canonicalPath": "/fipe/iros/warrior-250-quadriciclo-2009-867013-7/",
+      "ano": 2009,
+      "marca": "IROS"
+    },
+    {
+      "vehicleId": "iros-warrior-400-4x4-quadriciclo-2009-gasolina",
+      "fipeCodigo": "867014-5",
+      "displayName": "IROS WARRIOR 400 4x4 QUADRICICLO",
+      "valorAtual": 9005,
+      "canonicalPath": "/fipe/iros/warrior-400-4x4-quadriciclo-2009-867014-5/",
+      "ano": 2009,
+      "marca": "IROS"
+    },
+    {
+      "vehicleId": "iros-warrior-700-4x4-quadriciclo-2009-gasolina",
+      "fipeCodigo": "867015-3",
+      "displayName": "IROS WARRIOR 700 4x4 QUADRICICLO",
+      "valorAtual": 15842,
+      "canonicalPath": "/fipe/iros/warrior-700-4x4-quadriciclo-2009-867015-3/",
+      "ano": 2009,
+      "marca": "IROS"
+    }
+  ],
+  "stats": {
+    "total": 3,
+    "precoMin": 6833,
+    "precoMax": 15842,
+    "anos": [
+      2009
+    ]
+  }
+}

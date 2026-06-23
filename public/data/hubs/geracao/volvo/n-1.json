@@ -1,0 +1,453 @@
+{
+  "tipo": "geracao",
+  "slug": "n-1",
+  "canonicalPath": "/geracao/volvo/n-1/",
+  "titulo": "Geracao n-1",
+  "descricao": "48 veiculos da geracao n-1.",
+  "seo": {
+    "title": "Geracao n-1 - Precos FIPE",
+    "description": "Veiculos da geracao n-1 na Tabela FIPE.",
+    "h1": "Geracao n-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/volvo/n-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "volvo-n-10-280-4x2-2p-diesel-1989-diesel",
+      "fipeCodigo": "516016-2",
+      "displayName": "VOLVO N-10 280 4x2 2p (diesel)",
+      "valorAtual": 43821,
+      "canonicalPath": "/fipe/volvo/n-10-280-4x2-2p-diesel-1989-516016-2/",
+      "ano": 1989,
+      "marca": "VOLVO"
+    },
+    {
+      "vehicleId": "volvo-n-10-280-4x2-2p-diesel-1990-diesel",
+      "fipeCodigo": "516016-2",
+      "displayName": "VOLVO N-10 280 4x2 2p (diesel)",
+      "valorAtual": 47557,
+      "canonicalPath": "/fipe/volvo/n-10-280-4x2-2p-diesel-1990-516016-2/",
+      "ano": 1990,
+      "marca": "VOLVO"
+    },
+    {
+      "vehicleId": "volvo-n-10-280-h-4x2-2p-diesel-1983-diesel",
+      "fipeCodigo": "516017-0",
+      "displayName": "VOLVO N-10 280 H 4x2 2p (diesel)",
+      "valorAtual": 25866,
+      "canonicalPath": "/fipe/volvo/n-10-280-h-4x2-2p-diesel-1983-516017-0/",
+      "ano": 1983,
+      "marca": "VOLVO"
+    },
+    {
+      "vehicleId": "volvo-n-10-280-h-4x2-2p-diesel-1984-diesel",
+      "fipeCodigo": "516017-0",
+      "displayName": "VOLVO N-10 280 H 4x2 2p (diesel)",
+      "valorAtual": 26535,
+      "canonicalPath": "/fipe/volvo/n-10-280-h-4x2-2p-diesel-1984-516017-0/",
+      "ano": 1984,
+      "marca": "VOLVO"
+    },
+    {
+      "vehicleId": "volvo-n-10-280-h-4x2-2p-diesel-1985-diesel",
+      "fipeCodigo": "516017-0",
+      "displayName": "VOLVO N-10 280 H 4x2 2p (diesel)",
+      "valorAtual": 28092,
+      "canonicalPath": "/fipe/volvo/n-10-280-h-4x2-2p-diesel-1985-516017-0/",
+      "ano": 1985,
+      "marca": "VOLVO"
+    },
+    {
+      "vehicleId": "volvo-n-10-280-h-4x2-2p-diesel-1986-diesel",
+      "fipeCodigo": "516017-0",
+      "displayName": "VOLVO N-10 280 H 4x2 2p (diesel)",
+      "valorAtual": 31331,
+      "canonicalPath": "/fipe/volvo/n-10-280-h-4x2-2p-diesel-1986-516017-0/",
+      "ano": 1986,
+      "marca": "VOLVO"
+    },
+    {
+      "vehicleId": "volvo-n-10-280-h-4x2-2p-diesel-1987-diesel",
+      "fipeCodigo": "516017-0",
+      "displayName": "VOLVO N-10 280 H 4x2 2p (diesel)",
+      "valorAtual": 33188,
+      "canonicalPath": "/fipe/volvo/n-10-280-h-4x2-2p-diesel-1987-516017-0/",
+      "ano": 1987,
+      "marca": "VOLVO"
+    },
+    {
+      "vehicleId": "volvo-n-10-280-h-4x2-2p-diesel-1988-diesel",
+      "fipeCodigo": "516017-0",
+      "displayName": "VOLVO N-10 280 H 4x2 2p (diesel)",
+      "valorAtual": 35518,
+      "canonicalPath": "/fipe/volvo/n-10-280-h-4x2-2p-diesel-1988-516017-0/",
+      "ano": 1988,
+      "marca": "VOLVO"
+    },
+    {
+      "vehicleId": "volvo-n-10-280-h-4x2-2p-diesel-1989-diesel",
+      "fipeCodigo": "516017-0",
+      "displayName": "VOLVO N-10 280 H 4x2 2p (diesel)",
+      "valorAtual": 36944,
+      "canonicalPath": "/fipe/volvo/n-10-280-h-4x2-2p-diesel-1989-516017-0/",
+      "ano": 1989,
+      "marca": "VOLVO"
+    },
+    {
+      "vehicleId": "volvo-n-10-280-h-4x2-2p-diesel-1990-diesel",
+      "fipeCodigo": "516017-0",
+      "displayName": "VOLVO N-10 280 H 4x2 2p (diesel)",
+      "valorAtual": 37868,
+      "canonicalPath": "/fipe/volvo/n-10-280-h-4x2-2p-diesel-1990-516017-0/",
+      "ano": 1990,
+      "marca": "VOLVO"
+    },
+    {
+      "vehicleId": "volvo-n-10-280-turbo-ii-h-4x2-2p-diesel-1985-diesel",
+      "fipeCodigo": "516018-9",
+      "displayName": "VOLVO N-10 280 TURBO-II H 4x2 2p (diesel)",
+      "valorAtual": 34195,
+      "canonicalPath": "/fipe/volvo/n-10-280-turbo-ii-h-4x2-2p-diesel-1985-516018-9/",
+      "ano": 1985,
+      "marca": "VOLVO"
+    },
+    {
+      "vehicleId": "volvo-n-10-280-turbo-ii-h-4x2-2p-diesel-1986-diesel",
+      "fipeCodigo": "516018-9",
+      "displayName": "VOLVO N-10 280 TURBO-II H 4x2 2p (diesel)",
+      "valorAtual": 35285,
+      "canonicalPath": "/fipe/volvo/n-10-280-turbo-ii-h-4x2-2p-diesel-1986-516018-9/",
+      "ano": 1986,
+      "marca": "VOLVO"
+    },
+    {
+      "vehicleId": "volvo-n-10-280-turbo-ii-h-4x2-2p-diesel-1987-diesel",
+      "fipeCodigo": "516018-9",
+      "displayName": "VOLVO N-10 280 TURBO-II H 4x2 2p (diesel)",
+      "valorAtual": 37251,
+      "canonicalPath": "/fipe/volvo/n-10-280-turbo-ii-h-4x2-2p-diesel-1987-516018-9/",
+      "ano": 1987,
+      "marca": "VOLVO"
+    },
+    {
+      "vehicleId": "volvo-n-10-280-turbo-ii-h-4x2-2p-diesel-1988-diesel",
+      "fipeCodigo": "516018-9",
+      "displayName": "VOLVO N-10 280 TURBO-II H 4x2 2p (diesel)",
+      "valorAtual": 38458,
+      "canonicalPath": "/fipe/volvo/n-10-280-turbo-ii-h-4x2-2p-diesel-1988-516018-9/",
+      "ano": 1988,
+      "marca": "VOLVO"
+    },
+    {
+      "vehicleId": "volvo-n-10-280-turbo-ii-h-4x2-2p-diesel-1989-diesel",
+      "fipeCodigo": "516018-9",
+      "displayName": "VOLVO N-10 280 TURBO-II H 4x2 2p (diesel)",
+      "valorAtual": 40148,
+      "canonicalPath": "/fipe/volvo/n-10-280-turbo-ii-h-4x2-2p-diesel-1989-516018-9/",
+      "ano": 1989,
+      "marca": "VOLVO"
+    },
+    {
+      "vehicleId": "volvo-n-10-280-xh-4x2-2p-diesel-1983-diesel",
+      "fipeCodigo": "516019-7",
+      "displayName": "VOLVO N-10 280 XH 4x2 2p (diesel)",
+      "valorAtual": 30237,
+      "canonicalPath": "/fipe/volvo/n-10-280-xh-4x2-2p-diesel-1983-516019-7/",
+      "ano": 1983,
+      "marca": "VOLVO"
+    },
+    {
+      "vehicleId": "volvo-n-10-280-xh-4x2-2p-diesel-1984-diesel",
+      "fipeCodigo": "516019-7",
+      "displayName": "VOLVO N-10 280 XH 4x2 2p (diesel)",
+      "valorAtual": 31050,
+      "canonicalPath": "/fipe/volvo/n-10-280-xh-4x2-2p-diesel-1984-516019-7/",
+      "ano": 1984,
+      "marca": "VOLVO"
+    },
+    {
+      "vehicleId": "volvo-n-10-280-xh-4x2-2p-diesel-1985-diesel",
+      "fipeCodigo": "516019-7",
+      "displayName": "VOLVO N-10 280 XH 4x2 2p (diesel)",
+      "valorAtual": 31890,
+      "canonicalPath": "/fipe/volvo/n-10-280-xh-4x2-2p-diesel-1985-516019-7/",
+      "ano": 1985,
+      "marca": "VOLVO"
+    },
+    {
+      "vehicleId": "volvo-n-10-280-xh-4x2-2p-diesel-1986-diesel",
+      "fipeCodigo": "516019-7",
+      "displayName": "VOLVO N-10 280 XH 4x2 2p (diesel)",
+      "valorAtual": 35200,
+      "canonicalPath": "/fipe/volvo/n-10-280-xh-4x2-2p-diesel-1986-516019-7/",
+      "ano": 1986,
+      "marca": "VOLVO"
+    },
+    {
+      "vehicleId": "volvo-n-10-280-xh-4x2-2p-diesel-1987-diesel",
+      "fipeCodigo": "516019-7",
+      "displayName": "VOLVO N-10 280 XH 4x2 2p (diesel)",
+      "valorAtual": 36888,
+      "canonicalPath": "/fipe/volvo/n-10-280-xh-4x2-2p-diesel-1987-516019-7/",
+      "ano": 1987,
+      "marca": "VOLVO"
+    },
+    {
+      "vehicleId": "volvo-n-10-300-xh-4x2-2p-diesel-1985-diesel",
+      "fipeCodigo": "516071-5",
+      "displayName": "VOLVO N-10 300 XH 4x2 2p (diesel)",
+      "valorAtual": 34464,
+      "canonicalPath": "/fipe/volvo/n-10-300-xh-4x2-2p-diesel-1985-516071-5/",
+      "ano": 1985,
+      "marca": "VOLVO"
+    },
+    {
+      "vehicleId": "volvo-n-10-300-xh-4x2-2p-diesel-1986-diesel",
+      "fipeCodigo": "516071-5",
+      "displayName": "VOLVO N-10 300 XH 4x2 2p (diesel)",
+      "valorAtual": 35436,
+      "canonicalPath": "/fipe/volvo/n-10-300-xh-4x2-2p-diesel-1986-516071-5/",
+      "ano": 1986,
+      "marca": "VOLVO"
+    },
+    {
+      "vehicleId": "volvo-n-10-300-xh-4x2-2p-diesel-1987-diesel",
+      "fipeCodigo": "516071-5",
+      "displayName": "VOLVO N-10 300 XH 4x2 2p (diesel)",
+      "valorAtual": 38029,
+      "canonicalPath": "/fipe/volvo/n-10-300-xh-4x2-2p-diesel-1987-516071-5/",
+      "ano": 1987,
+      "marca": "VOLVO"
+    },
+    {
+      "vehicleId": "volvo-n-10-300-xh-4x2-2p-diesel-1988-diesel",
+      "fipeCodigo": "516071-5",
+      "displayName": "VOLVO N-10 300 XH 4x2 2p (diesel)",
+      "valorAtual": 41627,
+      "canonicalPath": "/fipe/volvo/n-10-300-xh-4x2-2p-diesel-1988-516071-5/",
+      "ano": 1988,
+      "marca": "VOLVO"
+    },
+    {
+      "vehicleId": "volvo-n-10-340-xht-6x4-2p-diesel-1984-diesel",
+      "fipeCodigo": "516020-0",
+      "displayName": "VOLVO N-10 340 XHT 6x4 2p (diesel)",
+      "valorAtual": 31607,
+      "canonicalPath": "/fipe/volvo/n-10-340-xht-6x4-2p-diesel-1984-516020-0/",
+      "ano": 1984,
+      "marca": "VOLVO"
+    },
+    {
+      "vehicleId": "volvo-n-10-340-xht-6x4-2p-diesel-1985-diesel",
+      "fipeCodigo": "516020-0",
+      "displayName": "VOLVO N-10 340 XHT 6x4 2p (diesel)",
+      "valorAtual": 35479,
+      "canonicalPath": "/fipe/volvo/n-10-340-xht-6x4-2p-diesel-1985-516020-0/",
+      "ano": 1985,
+      "marca": "VOLVO"
+    },
+    {
+      "vehicleId": "volvo-n-10-340-xht-6x4-2p-diesel-1986-diesel",
+      "fipeCodigo": "516020-0",
+      "displayName": "VOLVO N-10 340 XHT 6x4 2p (diesel)",
+      "valorAtual": 37165,
+      "canonicalPath": "/fipe/volvo/n-10-340-xht-6x4-2p-diesel-1986-516020-0/",
+      "ano": 1986,
+      "marca": "VOLVO"
+    },
+    {
+      "vehicleId": "volvo-n-10-340-xht-6x4-2p-diesel-1987-diesel",
+      "fipeCodigo": "516020-0",
+      "displayName": "VOLVO N-10 340 XHT 6x4 2p (diesel)",
+      "valorAtual": 38153,
+      "canonicalPath": "/fipe/volvo/n-10-340-xht-6x4-2p-diesel-1987-516020-0/",
+      "ano": 1987,
+      "marca": "VOLVO"
+    },
+    {
+      "vehicleId": "volvo-n-10-340-xht-6x4-2p-diesel-1988-diesel",
+      "fipeCodigo": "516020-0",
+      "displayName": "VOLVO N-10 340 XHT 6x4 2p (diesel)",
+      "valorAtual": 42375,
+      "canonicalPath": "/fipe/volvo/n-10-340-xht-6x4-2p-diesel-1988-516020-0/",
+      "ano": 1988,
+      "marca": "VOLVO"
+    },
+    {
+      "vehicleId": "volvo-n-10-340-xht-6x4-2p-diesel-1989-diesel",
+      "fipeCodigo": "516020-0",
+      "displayName": "VOLVO N-10 340 XHT 6x4 2p (diesel)",
+      "valorAtual": 44882,
+      "canonicalPath": "/fipe/volvo/n-10-340-xht-6x4-2p-diesel-1989-516020-0/",
+      "ano": 1989,
+      "marca": "VOLVO"
+    },
+    {
+      "vehicleId": "volvo-n-12-360-4x2-2p-diesel-1983-diesel",
+      "fipeCodigo": "516021-9",
+      "displayName": "VOLVO N-12 360 4x2 2p (diesel)",
+      "valorAtual": 33019,
+      "canonicalPath": "/fipe/volvo/n-12-360-4x2-2p-diesel-1983-516021-9/",
+      "ano": 1983,
+      "marca": "VOLVO"
+    },
+    {
+      "vehicleId": "volvo-n-12-360-4x2-2p-diesel-1984-diesel",
+      "fipeCodigo": "516021-9",
+      "displayName": "VOLVO N-12 360 4x2 2p (diesel)",
+      "valorAtual": 35391,
+      "canonicalPath": "/fipe/volvo/n-12-360-4x2-2p-diesel-1984-516021-9/",
+      "ano": 1984,
+      "marca": "VOLVO"
+    },
+    {
+      "vehicleId": "volvo-n-12-360-4x2-2p-diesel-1985-diesel",
+      "fipeCodigo": "516021-9",
+      "displayName": "VOLVO N-12 360 4x2 2p (diesel)",
+      "valorAtual": 38034,
+      "canonicalPath": "/fipe/volvo/n-12-360-4x2-2p-diesel-1985-516021-9/",
+      "ano": 1985,
+      "marca": "VOLVO"
+    },
+    {
+      "vehicleId": "volvo-n-12-360-4x2-2p-diesel-1986-diesel",
+      "fipeCodigo": "516021-9",
+      "displayName": "VOLVO N-12 360 4x2 2p (diesel)",
+      "valorAtual": 41159,
+      "canonicalPath": "/fipe/volvo/n-12-360-4x2-2p-diesel-1986-516021-9/",
+      "ano": 1986,
+      "marca": "VOLVO"
+    },
+    {
+      "vehicleId": "volvo-n-12-360-4x2-2p-diesel-1987-diesel",
+      "fipeCodigo": "516021-9",
+      "displayName": "VOLVO N-12 360 4x2 2p (diesel)",
+      "valorAtual": 42341,
+      "canonicalPath": "/fipe/volvo/n-12-360-4x2-2p-diesel-1987-516021-9/",
+      "ano": 1987,
+      "marca": "VOLVO"
+    },
+    {
+      "vehicleId": "volvo-n-12-360-4x2-2p-diesel-1988-diesel",
+      "fipeCodigo": "516021-9",
+      "displayName": "VOLVO N-12 360 4x2 2p (diesel)",
+      "valorAtual": 43400,
+      "canonicalPath": "/fipe/volvo/n-12-360-4x2-2p-diesel-1988-516021-9/",
+      "ano": 1988,
+      "marca": "VOLVO"
+    },
+    {
+      "vehicleId": "volvo-n-12-360-4x2-2p-diesel-1989-diesel",
+      "fipeCodigo": "516021-9",
+      "displayName": "VOLVO N-12 360 4x2 2p (diesel)",
+      "valorAtual": 45051,
+      "canonicalPath": "/fipe/volvo/n-12-360-4x2-2p-diesel-1989-516021-9/",
+      "ano": 1989,
+      "marca": "VOLVO"
+    },
+    {
+      "vehicleId": "volvo-n-12-360-4x2-2p-diesel-1990-diesel",
+      "fipeCodigo": "516021-9",
+      "displayName": "VOLVO N-12 360 4x2 2p (diesel)",
+      "valorAtual": 49422,
+      "canonicalPath": "/fipe/volvo/n-12-360-4x2-2p-diesel-1990-516021-9/",
+      "ano": 1990,
+      "marca": "VOLVO"
+    },
+    {
+      "vehicleId": "volvo-n-12-360-xh-4x2-2p-diesel-1984-diesel",
+      "fipeCodigo": "516022-7",
+      "displayName": "VOLVO N-12 360 XH 4x2 2p (diesel)",
+      "valorAtual": 40691,
+      "canonicalPath": "/fipe/volvo/n-12-360-xh-4x2-2p-diesel-1984-516022-7/",
+      "ano": 1984,
+      "marca": "VOLVO"
+    },
+    {
+      "vehicleId": "volvo-n-12-360-xh-4x2-2p-diesel-1985-diesel",
+      "fipeCodigo": "516022-7",
+      "displayName": "VOLVO N-12 360 XH 4x2 2p (diesel)",
+      "valorAtual": 46347,
+      "canonicalPath": "/fipe/volvo/n-12-360-xh-4x2-2p-diesel-1985-516022-7/",
+      "ano": 1985,
+      "marca": "VOLVO"
+    },
+    {
+      "vehicleId": "volvo-n-12-360-xh-4x2-2p-diesel-1986-diesel",
+      "fipeCodigo": "516022-7",
+      "displayName": "VOLVO N-12 360 XH 4x2 2p (diesel)",
+      "valorAtual": 48154,
+      "canonicalPath": "/fipe/volvo/n-12-360-xh-4x2-2p-diesel-1986-516022-7/",
+      "ano": 1986,
+      "marca": "VOLVO"
+    },
+    {
+      "vehicleId": "volvo-n-12-360-xh-4x2-2p-diesel-1987-diesel",
+      "fipeCodigo": "516022-7",
+      "displayName": "VOLVO N-12 360 XH 4x2 2p (diesel)",
+      "valorAtual": 49828,
+      "canonicalPath": "/fipe/volvo/n-12-360-xh-4x2-2p-diesel-1987-516022-7/",
+      "ano": 1987,
+      "marca": "VOLVO"
+    },
+    {
+      "vehicleId": "volvo-n-12-360-xht-6x4-2p-diesel-1984-diesel",
+      "fipeCodigo": "516023-5",
+      "displayName": "VOLVO N-12 360 XHT 6x4 2p (diesel)",
+      "valorAtual": 39299,
+      "canonicalPath": "/fipe/volvo/n-12-360-xht-6x4-2p-diesel-1984-516023-5/",
+      "ano": 1984,
+      "marca": "VOLVO"
+    },
+    {
+      "vehicleId": "volvo-n-12-360-xht-6x4-2p-diesel-1985-diesel",
+      "fipeCodigo": "516023-5",
+      "displayName": "VOLVO N-12 360 XHT 6x4 2p (diesel)",
+      "valorAtual": 41048,
+      "canonicalPath": "/fipe/volvo/n-12-360-xht-6x4-2p-diesel-1985-516023-5/",
+      "ano": 1985,
+      "marca": "VOLVO"
+    },
+    {
+      "vehicleId": "volvo-n-12-360-xht-6x4-2p-diesel-1986-diesel",
+      "fipeCodigo": "516023-5",
+      "displayName": "VOLVO N-12 360 XHT 6x4 2p (diesel)",
+      "valorAtual": 42512,
+      "canonicalPath": "/fipe/volvo/n-12-360-xht-6x4-2p-diesel-1986-516023-5/",
+      "ano": 1986,
+      "marca": "VOLVO"
+    },
+    {
+      "vehicleId": "volvo-n-12-360-xht-6x4-2p-diesel-1987-diesel",
+      "fipeCodigo": "516023-5",
+      "displayName": "VOLVO N-12 360 XHT 6x4 2p (diesel)",
+      "valorAtual": 45170,
+      "canonicalPath": "/fipe/volvo/n-12-360-xht-6x4-2p-diesel-1987-516023-5/",
+      "ano": 1987,
+      "marca": "VOLVO"
+    },
+    {
+      "vehicleId": "volvo-n-12-360-xht-6x4-2p-diesel-1988-diesel",
+      "fipeCodigo": "516023-5",
+      "displayName": "VOLVO N-12 360 XHT 6x4 2p (diesel)",
+      "valorAtual": 48746,
+      "canonicalPath": "/fipe/volvo/n-12-360-xht-6x4-2p-diesel-1988-516023-5/",
+      "ano": 1988,
+      "marca": "VOLVO"
+    },
+    {
+      "vehicleId": "volvo-n-12-360-xht-6x4-2p-diesel-1989-diesel",
+      "fipeCodigo": "516023-5",
+      "displayName": "VOLVO N-12 360 XHT 6x4 2p (diesel)",
+      "valorAtual": 49965,
+      "canonicalPath": "/fipe/volvo/n-12-360-xht-6x4-2p-diesel-1989-516023-5/",
+      "ano": 1989,
+      "marca": "VOLVO"
+    }
+  ],
+  "stats": {
+    "total": 48
+  },
+  "meta": {
+    "geracaoId": "n-1"
+  }
+}

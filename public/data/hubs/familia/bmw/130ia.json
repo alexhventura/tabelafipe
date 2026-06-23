@@ -1,0 +1,100 @@
+{
+  "tipo": "familia",
+  "slug": "130ia",
+  "canonicalPath": "/fipe/bmw/130ia/",
+  "titulo": "BMW 130ia - Tabela FIPE",
+  "descricao": "8 versoes e anos do BMW 130ia na Tabela FIPE.",
+  "seo": {
+    "title": "BMW 130ia - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes BMW 130ia. 8 veiculos indexados.",
+    "h1": "BMW 130ia - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/bmw/130ia/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "bmw-130ia-3-0-24v-265cv-5p-2012-gasolina",
+      "fipeCodigo": "009117-0",
+      "displayName": "BMW 130iA 3.0 24V 265cv 5p",
+      "valorAtual": 93977,
+      "canonicalPath": "/fipe/bmw/130ia-3-0-24v-265cv-5p-2012-009117-0/",
+      "ano": 2012,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-130ia-3-0-24v-265cv-5p-2011-gasolina",
+      "fipeCodigo": "009117-0",
+      "displayName": "BMW 130iA 3.0 24V 265cv 5p",
+      "valorAtual": 91684,
+      "canonicalPath": "/fipe/bmw/130ia-3-0-24v-265cv-5p-2011-009117-0/",
+      "ano": 2011,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-130ia-3-0-24v-265cv-5p-2010-gasolina",
+      "fipeCodigo": "009117-0",
+      "displayName": "BMW 130iA 3.0 24V 265cv 5p",
+      "valorAtual": 89160,
+      "canonicalPath": "/fipe/bmw/130ia-3-0-24v-265cv-5p-2010-009117-0/",
+      "ano": 2010,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-130ia-3-0-24v-265cv-5p-2009-gasolina",
+      "fipeCodigo": "009117-0",
+      "displayName": "BMW 130iA 3.0 24V 265cv 5p",
+      "valorAtual": 84826,
+      "canonicalPath": "/fipe/bmw/130ia-3-0-24v-265cv-5p-2009-009117-0/",
+      "ano": 2009,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-130ia-3-0-24v-265cv-3p-2009-gasolina",
+      "fipeCodigo": "009126-0",
+      "displayName": "BMW 130iA 3.0 24V 265cv 3p",
+      "valorAtual": 87863,
+      "canonicalPath": "/fipe/bmw/130ia-3-0-24v-265cv-3p-2009-009126-0/",
+      "ano": 2009,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-130ia-3-0-24v-265cv-5p-2008-gasolina",
+      "fipeCodigo": "009117-0",
+      "displayName": "BMW 130iA 3.0 24V 265cv 5p",
+      "valorAtual": 82458,
+      "canonicalPath": "/fipe/bmw/130ia-3-0-24v-265cv-5p-2008-009117-0/",
+      "ano": 2008,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-130ia-3-0-24v-265cv-3p-2008-gasolina",
+      "fipeCodigo": "009126-0",
+      "displayName": "BMW 130iA 3.0 24V 265cv 3p",
+      "valorAtual": 85720,
+      "canonicalPath": "/fipe/bmw/130ia-3-0-24v-265cv-3p-2008-009126-0/",
+      "ano": 2008,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-130ia-3-0-24v-265cv-5p-2007-gasolina",
+      "fipeCodigo": "009117-0",
+      "displayName": "BMW 130iA 3.0 24V 265cv 5p",
+      "valorAtual": 80446,
+      "canonicalPath": "/fipe/bmw/130ia-3-0-24v-265cv-5p-2007-009117-0/",
+      "ano": 2007,
+      "marca": "BMW"
+    }
+  ],
+  "stats": {
+    "total": 8,
+    "precoMin": 80446,
+    "precoMax": 93977,
+    "anos": [
+      2012,
+      2011,
+      2010,
+      2009,
+      2008,
+      2007
+    ]
+  }
+}

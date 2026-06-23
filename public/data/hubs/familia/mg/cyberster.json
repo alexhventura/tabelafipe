@@ -1,0 +1,52 @@
+{
+  "tipo": "familia",
+  "slug": "cyberster",
+  "canonicalPath": "/fipe/mg/cyberster/",
+  "titulo": "MG cyberster - Tabela FIPE",
+  "descricao": "3 versoes e anos do MG cyberster na Tabela FIPE.",
+  "seo": {
+    "title": "MG cyberster - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes MG cyberster. 3 veiculos indexados.",
+    "h1": "MG cyberster - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/mg/cyberster/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "mg-cyberster-awd-2027-eletrico",
+      "fipeCodigo": "076003-0",
+      "displayName": "MG Cyberster AWD",
+      "valorAtual": 488499,
+      "canonicalPath": "/fipe/mg/cyberster-awd-2027-076003-0/",
+      "ano": 2027,
+      "marca": "MG"
+    },
+    {
+      "vehicleId": "mg-cyberster-awd-2026-eletrico",
+      "fipeCodigo": "076003-0",
+      "displayName": "MG Cyberster AWD",
+      "valorAtual": 474330,
+      "canonicalPath": "/fipe/mg/cyberster-awd-2026-076003-0/",
+      "ano": 2026,
+      "marca": "MG"
+    },
+    {
+      "vehicleId": "mg-cyberster-awd-0-eletrico",
+      "fipeCodigo": "076003-0",
+      "displayName": "MG Cyberster AWD",
+      "valorAtual": 529800,
+      "canonicalPath": "/fipe/mg/cyberster-awd-0-076003-0/",
+      "ano": 0,
+      "marca": "MG"
+    }
+  ],
+  "stats": {
+    "total": 3,
+    "precoMin": 474330,
+    "precoMax": 529800,
+    "anos": [
+      2027,
+      2026,
+      0
+    ]
+  }
+}

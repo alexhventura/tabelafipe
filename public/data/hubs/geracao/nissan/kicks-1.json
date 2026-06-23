@@ -1,0 +1,84 @@
+{
+  "tipo": "geracao",
+  "slug": "kicks-1",
+  "canonicalPath": "/geracao/nissan/kicks-1/",
+  "titulo": "Geracao kicks-1",
+  "descricao": "7 veiculos da geracao kicks-1.",
+  "seo": {
+    "title": "Geracao kicks-1 - Precos FIPE",
+    "description": "Veiculos da geracao kicks-1 na Tabela FIPE.",
+    "h1": "Geracao kicks-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/nissan/kicks-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "nissan-kicks-advance-1-0-turbo-flex-aut-0-flex",
+      "fipeCodigo": "023195-9",
+      "displayName": "Nissan KICKS Advance 1.0 Turbo Flex Aut.",
+      "valorAtual": 178318,
+      "canonicalPath": "/fipe/nissan/kicks-advance-1-0-turbo-flex-aut-0-023195-9/",
+      "ano": 0,
+      "marca": "Nissan"
+    },
+    {
+      "vehicleId": "nissan-kicks-exclusive-1-0-turbo-flex-aut-0-flex",
+      "fipeCodigo": "023196-7",
+      "displayName": "Nissan KICKS Exclusive 1.0 Turbo Flex Aut.",
+      "valorAtual": 184956,
+      "canonicalPath": "/fipe/nissan/kicks-exclusive-1-0-turbo-flex-aut-0-023196-7/",
+      "ano": 0,
+      "marca": "Nissan"
+    },
+    {
+      "vehicleId": "nissan-kicks-platinum-1-0-turbo-flex-aut-0-flex",
+      "fipeCodigo": "023197-5",
+      "displayName": "Nissan KICKS Platinum 1.0 Turbo Flex Aut.",
+      "valorAtual": 195866,
+      "canonicalPath": "/fipe/nissan/kicks-platinum-1-0-turbo-flex-aut-0-023197-5/",
+      "ano": 0,
+      "marca": "Nissan"
+    },
+    {
+      "vehicleId": "nissan-kicks-play-active-plus-1-6-16v-flex-aut-0-flex",
+      "fipeCodigo": "023191-6",
+      "displayName": "Nissan KICKS Play Active Plus 1.6 16V Flex Aut.",
+      "valorAtual": 118706,
+      "canonicalPath": "/fipe/nissan/kicks-play-active-plus-1-6-16v-flex-aut-0-023191-6/",
+      "ano": 0,
+      "marca": "Nissan"
+    },
+    {
+      "vehicleId": "nissan-kicks-play-advance-plus-1-6-16v-flex-aut-0-flex",
+      "fipeCodigo": "023193-2",
+      "displayName": "Nissan KICKS Play Advance Plus 1.6 16V Flex Aut",
+      "valorAtual": 145177,
+      "canonicalPath": "/fipe/nissan/kicks-play-advance-plus-1-6-16v-flex-aut-0-023193-2/",
+      "ano": 0,
+      "marca": "Nissan"
+    },
+    {
+      "vehicleId": "nissan-kicks-play-sense-1-6-16v-flex-aut-0-flex",
+      "fipeCodigo": "023192-4",
+      "displayName": "Nissan KICKS Play Sense 1.6 16V Flex Aut.",
+      "valorAtual": 130594,
+      "canonicalPath": "/fipe/nissan/kicks-play-sense-1-6-16v-flex-aut-0-023192-4/",
+      "ano": 0,
+      "marca": "Nissan"
+    },
+    {
+      "vehicleId": "nissan-kicks-sense-1-0-turbo-flex-aut-0-flex",
+      "fipeCodigo": "023194-0",
+      "displayName": "Nissan KICKS Sense 1.0 Turbo Flex Aut.",
+      "valorAtual": 165011,
+      "canonicalPath": "/fipe/nissan/kicks-sense-1-0-turbo-flex-aut-0-023194-0/",
+      "ano": 0,
+      "marca": "Nissan"
+    }
+  ],
+  "stats": {
+    "total": 7
+  },
+  "meta": {
+    "geracaoId": "kicks-1"
+  }
+}

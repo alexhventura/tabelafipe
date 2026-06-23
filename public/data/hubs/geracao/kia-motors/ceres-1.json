@@ -1,0 +1,57 @@
+{
+  "tipo": "geracao",
+  "slug": "ceres-1",
+  "canonicalPath": "/geracao/kia-motors/ceres-1/",
+  "titulo": "Geracao ceres-1",
+  "descricao": "4 veiculos da geracao ceres-1.",
+  "seo": {
+    "title": "Geracao ceres-1 - Precos FIPE",
+    "description": "Veiculos da geracao ceres-1 na Tabela FIPE.",
+    "h1": "Geracao ceres-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/kia-motors/ceres-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "kia-motors-ceres-pick-up-2-2-diesel-1993-diesel",
+      "fipeCodigo": "018022-0",
+      "displayName": "Kia Motors Ceres Pick-Up 2.2 Diesel",
+      "valorAtual": 6854,
+      "canonicalPath": "/fipe/kia-motors/ceres-pick-up-2-2-diesel-1993-018022-0/",
+      "ano": 1993,
+      "marca": "Kia Motors"
+    },
+    {
+      "vehicleId": "kia-motors-ceres-pick-up-2-2-diesel-1994-diesel",
+      "fipeCodigo": "018022-0",
+      "displayName": "Kia Motors Ceres Pick-Up 2.2 Diesel",
+      "valorAtual": 7697,
+      "canonicalPath": "/fipe/kia-motors/ceres-pick-up-2-2-diesel-1994-018022-0/",
+      "ano": 1994,
+      "marca": "Kia Motors"
+    },
+    {
+      "vehicleId": "kia-motors-ceres-pick-up-2-2-diesel-1995-diesel",
+      "fipeCodigo": "018022-0",
+      "displayName": "Kia Motors Ceres Pick-Up 2.2 Diesel",
+      "valorAtual": 9018,
+      "canonicalPath": "/fipe/kia-motors/ceres-pick-up-2-2-diesel-1995-018022-0/",
+      "ano": 1995,
+      "marca": "Kia Motors"
+    },
+    {
+      "vehicleId": "kia-motors-ceres-pick-up-2-2-diesel-1996-diesel",
+      "fipeCodigo": "018022-0",
+      "displayName": "Kia Motors Ceres Pick-Up 2.2 Diesel",
+      "valorAtual": 9244,
+      "canonicalPath": "/fipe/kia-motors/ceres-pick-up-2-2-diesel-1996-018022-0/",
+      "ano": 1996,
+      "marca": "Kia Motors"
+    }
+  ],
+  "stats": {
+    "total": 4
+  },
+  "meta": {
+    "geracaoId": "ceres-1"
+  }
+}

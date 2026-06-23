@@ -1,0 +1,116 @@
+{
+  "tipo": "familia",
+  "slug": "147",
+  "canonicalPath": "/fipe/fiat/147/",
+  "titulo": "Fiat 147 - Tabela FIPE",
+  "descricao": "10 versoes e anos do Fiat 147 na Tabela FIPE.",
+  "seo": {
+    "title": "Fiat 147 - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes Fiat 147. 10 veiculos indexados.",
+    "h1": "Fiat 147 - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/fiat/147/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "fiat-147-pick-up-todas-1988-gasolina",
+      "fipeCodigo": "001123-1",
+      "displayName": "Fiat 147 Pick-Up (todas)",
+      "valorAtual": 6317,
+      "canonicalPath": "/fipe/fiat/147-pick-up-todas-1988-001123-1/",
+      "ano": 1988,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-147-furgao-todos-1987-gasolina",
+      "fipeCodigo": "001138-0",
+      "displayName": "Fiat 147 Furgão (todos)",
+      "valorAtual": 2574,
+      "canonicalPath": "/fipe/fiat/147-furgao-todos-1987-001138-0/",
+      "ano": 1987,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-147-c-cl-1987-gasolina",
+      "fipeCodigo": "001124-0",
+      "displayName": "Fiat 147 C/ CL",
+      "valorAtual": 6027,
+      "canonicalPath": "/fipe/fiat/147-c-cl-1987-001124-0/",
+      "ano": 1987,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-147-pick-up-todas-1987-gasolina",
+      "fipeCodigo": "001123-1",
+      "displayName": "Fiat 147 Pick-Up (todas)",
+      "valorAtual": 6134,
+      "canonicalPath": "/fipe/fiat/147-pick-up-todas-1987-001123-1/",
+      "ano": 1987,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-147-furgao-todos-1986-gasolina",
+      "fipeCodigo": "001138-0",
+      "displayName": "Fiat 147 Furgão (todos)",
+      "valorAtual": 2472,
+      "canonicalPath": "/fipe/fiat/147-furgao-todos-1986-001138-0/",
+      "ano": 1986,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-147-c-cl-1986-gasolina",
+      "fipeCodigo": "001124-0",
+      "displayName": "Fiat 147 C/ CL",
+      "valorAtual": 5863,
+      "canonicalPath": "/fipe/fiat/147-c-cl-1986-001124-0/",
+      "ano": 1986,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-147-pick-up-todas-1986-gasolina",
+      "fipeCodigo": "001123-1",
+      "displayName": "Fiat 147 Pick-Up (todas)",
+      "valorAtual": 5879,
+      "canonicalPath": "/fipe/fiat/147-pick-up-todas-1986-001123-1/",
+      "ano": 1986,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-147-furgao-todos-1985-gasolina",
+      "fipeCodigo": "001138-0",
+      "displayName": "Fiat 147 Furgão (todos)",
+      "valorAtual": 2181,
+      "canonicalPath": "/fipe/fiat/147-furgao-todos-1985-001138-0/",
+      "ano": 1985,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-147-c-cl-1985-gasolina",
+      "fipeCodigo": "001124-0",
+      "displayName": "Fiat 147 C/ CL",
+      "valorAtual": 4756,
+      "canonicalPath": "/fipe/fiat/147-c-cl-1985-001124-0/",
+      "ano": 1985,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-147-pick-up-todas-1985-gasolina",
+      "fipeCodigo": "001123-1",
+      "displayName": "Fiat 147 Pick-Up (todas)",
+      "valorAtual": 4794,
+      "canonicalPath": "/fipe/fiat/147-pick-up-todas-1985-001123-1/",
+      "ano": 1985,
+      "marca": "Fiat"
+    }
+  ],
+  "stats": {
+    "total": 10,
+    "precoMin": 2181,
+    "precoMax": 6317,
+    "anos": [
+      1988,
+      1987,
+      1986,
+      1985
+    ]
+  }
+}

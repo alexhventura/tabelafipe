@@ -1,0 +1,82 @@
+{
+  "tipo": "familia",
+  "slug": "seville",
+  "canonicalPath": "/fipe/cadillac/seville/",
+  "titulo": "Cadillac seville - Tabela FIPE",
+  "descricao": "6 versoes e anos do Cadillac seville na Tabela FIPE.",
+  "seo": {
+    "title": "Cadillac seville - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes Cadillac seville. 6 veiculos indexados.",
+    "h1": "Cadillac seville - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/cadillac/seville/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "cadillac-seville-4-6-1996-gasolina",
+      "fipeCodigo": "041002-0",
+      "displayName": "Cadillac Seville 4.6",
+      "valorAtual": 80065,
+      "canonicalPath": "/fipe/cadillac/seville-4-6-1996-041002-0/",
+      "ano": 1996,
+      "marca": "Cadillac"
+    },
+    {
+      "vehicleId": "cadillac-seville-4-6-1995-gasolina",
+      "fipeCodigo": "041002-0",
+      "displayName": "Cadillac Seville 4.6",
+      "valorAtual": 78112,
+      "canonicalPath": "/fipe/cadillac/seville-4-6-1995-041002-0/",
+      "ano": 1995,
+      "marca": "Cadillac"
+    },
+    {
+      "vehicleId": "cadillac-seville-4-6-1994-gasolina",
+      "fipeCodigo": "041002-0",
+      "displayName": "Cadillac Seville 4.6",
+      "valorAtual": 50765,
+      "canonicalPath": "/fipe/cadillac/seville-4-6-1994-041002-0/",
+      "ano": 1994,
+      "marca": "Cadillac"
+    },
+    {
+      "vehicleId": "cadillac-seville-4-6-1993-gasolina",
+      "fipeCodigo": "041002-0",
+      "displayName": "Cadillac Seville 4.6",
+      "valorAtual": 44433,
+      "canonicalPath": "/fipe/cadillac/seville-4-6-1993-041002-0/",
+      "ano": 1993,
+      "marca": "Cadillac"
+    },
+    {
+      "vehicleId": "cadillac-seville-4-6-1992-gasolina",
+      "fipeCodigo": "041002-0",
+      "displayName": "Cadillac Seville 4.6",
+      "valorAtual": 39716,
+      "canonicalPath": "/fipe/cadillac/seville-4-6-1992-041002-0/",
+      "ano": 1992,
+      "marca": "Cadillac"
+    },
+    {
+      "vehicleId": "cadillac-seville-4-6-1991-gasolina",
+      "fipeCodigo": "041002-0",
+      "displayName": "Cadillac Seville 4.6",
+      "valorAtual": 33161,
+      "canonicalPath": "/fipe/cadillac/seville-4-6-1991-041002-0/",
+      "ano": 1991,
+      "marca": "Cadillac"
+    }
+  ],
+  "stats": {
+    "total": 6,
+    "precoMin": 33161,
+    "precoMax": 80065,
+    "anos": [
+      1996,
+      1995,
+      1994,
+      1993,
+      1992,
+      1991
+    ]
+  }
+}

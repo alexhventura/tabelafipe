@@ -1,0 +1,42 @@
+{
+  "tipo": "familia",
+  "slug": "n900",
+  "canonicalPath": "/fipe/effa-jmc/n900/",
+  "titulo": "EFFA-JMC n900 - Tabela FIPE",
+  "descricao": "2 versoes e anos do EFFA-JMC n900 na Tabela FIPE.",
+  "seo": {
+    "title": "EFFA-JMC n900 - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes EFFA-JMC n900. 2 veiculos indexados.",
+    "h1": "EFFA-JMC n900 - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/effa-jmc/n900/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "effa-jmc-n900-2-8-2p-diesel-2012-diesel",
+      "fipeCodigo": "522002-5",
+      "displayName": "EFFA-JMC N900 2.8 2p (diesel)",
+      "valorAtual": 36576,
+      "canonicalPath": "/fipe/effa-jmc/n900-2-8-2p-diesel-2012-522002-5/",
+      "ano": 2012,
+      "marca": "EFFA-JMC"
+    },
+    {
+      "vehicleId": "effa-jmc-n900-2-8-2p-diesel-2011-diesel",
+      "fipeCodigo": "522002-5",
+      "displayName": "EFFA-JMC N900 2.8 2p (diesel)",
+      "valorAtual": 33364,
+      "canonicalPath": "/fipe/effa-jmc/n900-2-8-2p-diesel-2011-522002-5/",
+      "ano": 2011,
+      "marca": "EFFA-JMC"
+    }
+  ],
+  "stats": {
+    "total": 2,
+    "precoMin": 33364,
+    "precoMax": 36576,
+    "anos": [
+      2012,
+      2011
+    ]
+  }
+}

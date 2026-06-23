@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "monaco-1",
+  "canonicalPath": "/geracao/bee/monaco-1/",
+  "titulo": "Geracao monaco-1",
+  "descricao": "2 veiculos da geracao monaco-1.",
+  "seo": {
+    "title": "Geracao monaco-1 - Precos FIPE",
+    "description": "Veiculos da geracao monaco-1 na Tabela FIPE.",
+    "h1": "Geracao monaco-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/bee/monaco-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "bee-monaco-150cc-2019-gasolina",
+      "fipeCodigo": "886004-1",
+      "displayName": "BEE Monaco 150cc",
+      "valorAtual": 7954,
+      "canonicalPath": "/fipe/bee/monaco-150cc-2019-886004-1/",
+      "ano": 2019,
+      "marca": "BEE"
+    },
+    {
+      "vehicleId": "bee-monaco-150cc-2020-gasolina",
+      "fipeCodigo": "886004-1",
+      "displayName": "BEE Monaco 150cc",
+      "valorAtual": 9419,
+      "canonicalPath": "/fipe/bee/monaco-150cc-2020-886004-1/",
+      "ano": 2020,
+      "marca": "BEE"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "monaco-1"
+  }
+}

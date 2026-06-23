@@ -1,0 +1,57 @@
+{
+  "tipo": "geracao",
+  "slug": "jh-2",
+  "canonicalPath": "/geracao/traxx/jh-2/",
+  "titulo": "Geracao jh-2",
+  "descricao": "4 veiculos da geracao jh-2.",
+  "seo": {
+    "title": "Geracao jh-2 - Precos FIPE",
+    "description": "Veiculos da geracao jh-2 na Tabela FIPE.",
+    "h1": "Geracao jh-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/traxx/jh-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "traxx-jh-125-g-best-2000-gasolina",
+      "fipeCodigo": "814003-0",
+      "displayName": "TRAXX JH 125 G/ BEST",
+      "valorAtual": 1338,
+      "canonicalPath": "/fipe/traxx/jh-125-g-best-2000-814003-0/",
+      "ano": 2000,
+      "marca": "TRAXX"
+    },
+    {
+      "vehicleId": "traxx-jh-125-l-fly-2000-gasolina",
+      "fipeCodigo": "814002-2",
+      "displayName": "TRAXX JH 125 L/ FLY",
+      "valorAtual": 1712,
+      "canonicalPath": "/fipe/traxx/jh-125-l-fly-2000-814002-2/",
+      "ano": 2000,
+      "marca": "TRAXX"
+    },
+    {
+      "vehicleId": "traxx-jh-50-2000-gasolina",
+      "fipeCodigo": "814004-9",
+      "displayName": "TRAXX JH 50",
+      "valorAtual": 1136,
+      "canonicalPath": "/fipe/traxx/jh-50-2000-814004-9/",
+      "ano": 2000,
+      "marca": "TRAXX"
+    },
+    {
+      "vehicleId": "traxx-jh-70-iii-2000-gasolina",
+      "fipeCodigo": "814005-7",
+      "displayName": "TRAXX JH 70 III",
+      "valorAtual": 1226,
+      "canonicalPath": "/fipe/traxx/jh-70-iii-2000-814005-7/",
+      "ano": 2000,
+      "marca": "TRAXX"
+    }
+  ],
+  "stats": {
+    "total": 4
+  },
+  "meta": {
+    "geracaoId": "jh-2"
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "tipo": "familia",
+  "slug": "gs",
+  "canonicalPath": "/fipe/lexus/gs/",
+  "titulo": "Lexus gs - Tabela FIPE",
+  "descricao": "4 versoes e anos do Lexus gs na Tabela FIPE.",
+  "seo": {
+    "title": "Lexus gs - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes Lexus gs. 4 veiculos indexados.",
+    "h1": "Lexus gs - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/lexus/gs/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "lexus-gs-300-3-0-v6-24v-1996-gasolina",
+      "fipeCodigo": "057001-0",
+      "displayName": "Lexus GS 300 3.0 V6 24V",
+      "valorAtual": 24870,
+      "canonicalPath": "/fipe/lexus/gs-300-3-0-v6-24v-1996-057001-0/",
+      "ano": 1996,
+      "marca": "Lexus"
+    },
+    {
+      "vehicleId": "lexus-gs-300-3-0-v6-24v-1995-gasolina",
+      "fipeCodigo": "057001-0",
+      "displayName": "Lexus GS 300 3.0 V6 24V",
+      "valorAtual": 24263,
+      "canonicalPath": "/fipe/lexus/gs-300-3-0-v6-24v-1995-057001-0/",
+      "ano": 1995,
+      "marca": "Lexus"
+    },
+    {
+      "vehicleId": "lexus-gs-300-3-0-v6-24v-1994-gasolina",
+      "fipeCodigo": "057001-0",
+      "displayName": "Lexus GS 300 3.0 V6 24V",
+      "valorAtual": 23671,
+      "canonicalPath": "/fipe/lexus/gs-300-3-0-v6-24v-1994-057001-0/",
+      "ano": 1994,
+      "marca": "Lexus"
+    },
+    {
+      "vehicleId": "lexus-gs-300-3-0-v6-24v-1993-gasolina",
+      "fipeCodigo": "057001-0",
+      "displayName": "Lexus GS 300 3.0 V6 24V",
+      "valorAtual": 23093,
+      "canonicalPath": "/fipe/lexus/gs-300-3-0-v6-24v-1993-057001-0/",
+      "ano": 1993,
+      "marca": "Lexus"
+    }
+  ],
+  "stats": {
+    "total": 4,
+    "precoMin": 23093,
+    "precoMax": 24870,
+    "anos": [
+      1996,
+      1995,
+      1994,
+      1993
+    ]
+  }
+}

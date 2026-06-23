@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "black-2",
+  "canonicalPath": "/geracao/mvk/black-2/",
+  "titulo": "Geracao black-2",
+  "descricao": "2 veiculos da geracao black-2.",
+  "seo": {
+    "title": "Geracao black-2 - Precos FIPE",
+    "description": "Veiculos da geracao black-2 na Tabela FIPE.",
+    "h1": "Geracao black-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/mvk/black-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "mvk-black-star-150-2011-gasolina",
+      "fipeCodigo": "845009-9",
+      "displayName": "MVK BLACK STAR 150",
+      "valorAtual": 3409,
+      "canonicalPath": "/fipe/mvk/black-star-150-2011-845009-9/",
+      "ano": 2011,
+      "marca": "MVK"
+    },
+    {
+      "vehicleId": "regal-raptor-black-jack-320-2011-gasolina",
+      "fipeCodigo": "872003-7",
+      "displayName": "REGAL RAPTOR BLACK JACK 320",
+      "valorAtual": 7539,
+      "canonicalPath": "/fipe/regal-raptor/black-jack-320-2011-872003-7/",
+      "ano": 2011,
+      "marca": "REGAL RAPTOR"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "black-2"
+  }
+}

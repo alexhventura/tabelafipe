@@ -1,0 +1,60 @@
+{
+  "tipo": "familia",
+  "slug": "bx",
+  "canonicalPath": "/fipe/citroen/bx/",
+  "titulo": "Citroën bx - Tabela FIPE",
+  "descricao": "4 versoes e anos do Citroën bx na Tabela FIPE.",
+  "seo": {
+    "title": "Citroën bx - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes Citroën bx. 4 veiculos indexados.",
+    "h1": "Citroën bx - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/citroen/bx/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "citroen-bx-1-6s-16v-1993-gasolina",
+      "fipeCodigo": "011002-7",
+      "displayName": "Citroën BX 1.6S 16V",
+      "valorAtual": 2952,
+      "canonicalPath": "/fipe/citroen/bx-1-6s-16v-1993-011002-7/",
+      "ano": 1993,
+      "marca": "Citroën"
+    },
+    {
+      "vehicleId": "citroen-bx-gti-1-9-1993-gasolina",
+      "fipeCodigo": "011039-6",
+      "displayName": "Citroën BX GTi 1.9",
+      "valorAtual": 3709,
+      "canonicalPath": "/fipe/citroen/bx-gti-1-9-1993-011039-6/",
+      "ano": 1993,
+      "marca": "Citroën"
+    },
+    {
+      "vehicleId": "citroen-bx-1-6s-16v-1992-gasolina",
+      "fipeCodigo": "011002-7",
+      "displayName": "Citroën BX 1.6S 16V",
+      "valorAtual": 2733,
+      "canonicalPath": "/fipe/citroen/bx-1-6s-16v-1992-011002-7/",
+      "ano": 1992,
+      "marca": "Citroën"
+    },
+    {
+      "vehicleId": "citroen-bx-gti-1-9-1992-gasolina",
+      "fipeCodigo": "011039-6",
+      "displayName": "Citroën BX GTi 1.9",
+      "valorAtual": 3513,
+      "canonicalPath": "/fipe/citroen/bx-gti-1-9-1992-011039-6/",
+      "ano": 1992,
+      "marca": "Citroën"
+    }
+  ],
+  "stats": {
+    "total": 4,
+    "precoMin": 2733,
+    "precoMax": 3709,
+    "anos": [
+      1993,
+      1992
+    ]
+  }
+}

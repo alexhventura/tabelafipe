@@ -1,0 +1,66 @@
+{
+  "tipo": "geracao",
+  "slug": "allroad-1",
+  "canonicalPath": "/geracao/audi/allroad-1/",
+  "titulo": "Geracao allroad-1",
+  "descricao": "5 veiculos da geracao allroad-1.",
+  "seo": {
+    "title": "Geracao allroad-1 - Precos FIPE",
+    "description": "Veiculos da geracao allroad-1 na Tabela FIPE.",
+    "h1": "Geracao allroad-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/audi/allroad-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "audi-allroad-2-7-30v-quattro-turbo-tiptronic-2001-gasolina",
+      "fipeCodigo": "008079-9",
+      "displayName": "Audi Allroad 2.7 30V Quattro Turbo Tiptronic",
+      "valorAtual": 63108,
+      "canonicalPath": "/fipe/audi/allroad-2-7-30v-quattro-turbo-tiptronic-2001-008079-9/",
+      "ano": 2001,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-allroad-2-7-30v-quattro-turbo-tiptronic-2002-gasolina",
+      "fipeCodigo": "008079-9",
+      "displayName": "Audi Allroad 2.7 30V Quattro Turbo Tiptronic",
+      "valorAtual": 64686,
+      "canonicalPath": "/fipe/audi/allroad-2-7-30v-quattro-turbo-tiptronic-2002-008079-9/",
+      "ano": 2002,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-allroad-2-7-30v-quattro-turbo-tiptronic-2003-gasolina",
+      "fipeCodigo": "008079-9",
+      "displayName": "Audi Allroad 2.7 30V Quattro Turbo Tiptronic",
+      "valorAtual": 66304,
+      "canonicalPath": "/fipe/audi/allroad-2-7-30v-quattro-turbo-tiptronic-2003-008079-9/",
+      "ano": 2003,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-allroad-2-7-30v-quattro-turbo-tiptronic-2004-gasolina",
+      "fipeCodigo": "008079-9",
+      "displayName": "Audi Allroad 2.7 30V Quattro Turbo Tiptronic",
+      "valorAtual": 67962,
+      "canonicalPath": "/fipe/audi/allroad-2-7-30v-quattro-turbo-tiptronic-2004-008079-9/",
+      "ano": 2004,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-allroad-2-7-30v-quattro-turbo-tiptronic-2005-gasolina",
+      "fipeCodigo": "008079-9",
+      "displayName": "Audi Allroad 2.7 30V Quattro Turbo Tiptronic",
+      "valorAtual": 69662,
+      "canonicalPath": "/fipe/audi/allroad-2-7-30v-quattro-turbo-tiptronic-2005-008079-9/",
+      "ano": 2005,
+      "marca": "Audi"
+    }
+  ],
+  "stats": {
+    "total": 5
+  },
+  "meta": {
+    "geracaoId": "allroad-1"
+  }
+}

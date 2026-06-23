@@ -1,0 +1,42 @@
+{
+  "tipo": "familia",
+  "slug": "sxl",
+  "canonicalPath": "/fipe/vespa/sxl/",
+  "titulo": "VESPA sxl - Tabela FIPE",
+  "descricao": "2 versoes e anos do VESPA sxl na Tabela FIPE.",
+  "seo": {
+    "title": "VESPA sxl - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes VESPA sxl. 2 veiculos indexados.",
+    "h1": "VESPA sxl - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/vespa/sxl/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "vespa-sxl-150-2025-gasolina",
+      "fipeCodigo": "898002-0",
+      "displayName": "VESPA SXL 150",
+      "valorAtual": 27590,
+      "canonicalPath": "/fipe/vespa/sxl-150-2025-898002-0/",
+      "ano": 2025,
+      "marca": "VESPA"
+    },
+    {
+      "vehicleId": "vespa-sxl-150-0-gasolina",
+      "fipeCodigo": "898002-0",
+      "displayName": "VESPA SXL 150",
+      "valorAtual": 29990,
+      "canonicalPath": "/fipe/vespa/sxl-150-0-898002-0/",
+      "ano": 0,
+      "marca": "VESPA"
+    }
+  ],
+  "stats": {
+    "total": 2,
+    "precoMin": 27590,
+    "precoMax": 29990,
+    "anos": [
+      2025,
+      0
+    ]
+  }
+}

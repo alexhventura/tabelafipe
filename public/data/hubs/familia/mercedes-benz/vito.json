@@ -1,0 +1,88 @@
+{
+  "tipo": "familia",
+  "slug": "vito",
+  "canonicalPath": "/fipe/mercedes-benz/vito/",
+  "titulo": "Mercedes-Benz vito - Tabela FIPE",
+  "descricao": "7 versoes e anos do Mercedes-Benz vito na Tabela FIPE.",
+  "seo": {
+    "title": "Mercedes-Benz vito - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes Mercedes-Benz vito. 7 veiculos indexados.",
+    "h1": "Mercedes-Benz vito - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/mercedes-benz/vito/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "mercedes-benz-vito-111-cdi-furgao-1-6-tb-diesel-4p-mec-2019-diesel",
+      "fipeCodigo": "021337-3",
+      "displayName": "Mercedes-Benz VITO 111 CDI Furgão 1.6 TB Diesel 4p Mec",
+      "valorAtual": 110140,
+      "canonicalPath": "/fipe/mercedes-benz/vito-111-cdi-furgao-1-6-tb-diesel-4p-mec-2019-021337-3/",
+      "ano": 2019,
+      "marca": "Mercedes-Benz"
+    },
+    {
+      "vehicleId": "mercedes-benz-vito-111-cdi-furgao-1-6-tb-diesel-4p-mec-2017-diesel",
+      "fipeCodigo": "021337-3",
+      "displayName": "Mercedes-Benz VITO 111 CDI Furgão 1.6 TB Diesel 4p Mec",
+      "valorAtual": 101490,
+      "canonicalPath": "/fipe/mercedes-benz/vito-111-cdi-furgao-1-6-tb-diesel-4p-mec-2017-021337-3/",
+      "ano": 2017,
+      "marca": "Mercedes-Benz"
+    },
+    {
+      "vehicleId": "mercedes-benz-vito-tourer-119-luxo-2-0-flex-8lug-mec-2017-flex",
+      "fipeCodigo": "021335-7",
+      "displayName": "Mercedes-Benz VITO TOURER 119 Luxo 2.0 Flex 8Lug. Mec.",
+      "valorAtual": 131532,
+      "canonicalPath": "/fipe/mercedes-benz/vito-tourer-119-luxo-2-0-flex-8lug-mec-2017-021335-7/",
+      "ano": 2017,
+      "marca": "Mercedes-Benz"
+    },
+    {
+      "vehicleId": "mercedes-benz-vito-tourer-119-comf-2-0-flex-9lug-mec-2017-flex",
+      "fipeCodigo": "021336-5",
+      "displayName": "Mercedes-Benz VITO TOURER 119 Comf.2.0 Flex 9Lug. Mec.",
+      "valorAtual": 136376,
+      "canonicalPath": "/fipe/mercedes-benz/vito-tourer-119-comf-2-0-flex-9lug-mec-2017-021336-5/",
+      "ano": 2017,
+      "marca": "Mercedes-Benz"
+    },
+    {
+      "vehicleId": "mercedes-benz-vito-111-cdi-furgao-1-6-tb-diesel-4p-mec-2016-diesel",
+      "fipeCodigo": "021337-3",
+      "displayName": "Mercedes-Benz VITO 111 CDI Furgão 1.6 TB Diesel 4p Mec",
+      "valorAtual": 99014,
+      "canonicalPath": "/fipe/mercedes-benz/vito-111-cdi-furgao-1-6-tb-diesel-4p-mec-2016-021337-3/",
+      "ano": 2016,
+      "marca": "Mercedes-Benz"
+    },
+    {
+      "vehicleId": "mercedes-benz-vito-tourer-119-luxo-2-0-flex-8lug-mec-2016-flex",
+      "fipeCodigo": "021335-7",
+      "displayName": "Mercedes-Benz VITO TOURER 119 Luxo 2.0 Flex 8Lug. Mec.",
+      "valorAtual": 119274,
+      "canonicalPath": "/fipe/mercedes-benz/vito-tourer-119-luxo-2-0-flex-8lug-mec-2016-021335-7/",
+      "ano": 2016,
+      "marca": "Mercedes-Benz"
+    },
+    {
+      "vehicleId": "mercedes-benz-vito-tourer-119-comf-2-0-flex-9lug-mec-2016-flex",
+      "fipeCodigo": "021336-5",
+      "displayName": "Mercedes-Benz VITO TOURER 119 Comf.2.0 Flex 9Lug. Mec.",
+      "valorAtual": 127274,
+      "canonicalPath": "/fipe/mercedes-benz/vito-tourer-119-comf-2-0-flex-9lug-mec-2016-021336-5/",
+      "ano": 2016,
+      "marca": "Mercedes-Benz"
+    }
+  ],
+  "stats": {
+    "total": 7,
+    "precoMin": 99014,
+    "precoMax": 136376,
+    "anos": [
+      2019,
+      2017,
+      2016
+    ]
+  }
+}

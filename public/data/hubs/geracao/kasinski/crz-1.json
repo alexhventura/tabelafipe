@@ -1,0 +1,93 @@
+{
+  "tipo": "geracao",
+  "slug": "crz-1",
+  "canonicalPath": "/geracao/kasinski/crz-1/",
+  "titulo": "Geracao crz-1",
+  "descricao": "8 veiculos da geracao crz-1.",
+  "seo": {
+    "title": "Geracao crz-1 - Precos FIPE",
+    "description": "Veiculos da geracao crz-1 na Tabela FIPE.",
+    "h1": "Geracao crz-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/kasinski/crz-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "kasinski-crz-150-2010-gasolina",
+      "fipeCodigo": "816028-7",
+      "displayName": "KASINSKI CRZ 150",
+      "valorAtual": 3993,
+      "canonicalPath": "/fipe/kasinski/crz-150-2010-816028-7/",
+      "ano": 2010,
+      "marca": "KASINSKI"
+    },
+    {
+      "vehicleId": "kasinski-crz-150-2011-gasolina",
+      "fipeCodigo": "816028-7",
+      "displayName": "KASINSKI CRZ 150",
+      "valorAtual": 4255,
+      "canonicalPath": "/fipe/kasinski/crz-150-2011-816028-7/",
+      "ano": 2011,
+      "marca": "KASINSKI"
+    },
+    {
+      "vehicleId": "kasinski-crz-150-2012-gasolina",
+      "fipeCodigo": "816028-7",
+      "displayName": "KASINSKI CRZ 150",
+      "valorAtual": 4982,
+      "canonicalPath": "/fipe/kasinski/crz-150-2012-816028-7/",
+      "ano": 2012,
+      "marca": "KASINSKI"
+    },
+    {
+      "vehicleId": "kasinski-crz-150-2013-gasolina",
+      "fipeCodigo": "816028-7",
+      "displayName": "KASINSKI CRZ 150",
+      "valorAtual": 5296,
+      "canonicalPath": "/fipe/kasinski/crz-150-2013-816028-7/",
+      "ano": 2013,
+      "marca": "KASINSKI"
+    },
+    {
+      "vehicleId": "kasinski-crz-150-super-moto-2010-gasolina",
+      "fipeCodigo": "816029-5",
+      "displayName": "KASINSKI CRZ 150 SUPER MOTO",
+      "valorAtual": 4850,
+      "canonicalPath": "/fipe/kasinski/crz-150-super-moto-2010-816029-5/",
+      "ano": 2010,
+      "marca": "KASINSKI"
+    },
+    {
+      "vehicleId": "kasinski-crz-150-super-moto-2011-gasolina",
+      "fipeCodigo": "816029-5",
+      "displayName": "KASINSKI CRZ 150 SUPER MOTO",
+      "valorAtual": 5408,
+      "canonicalPath": "/fipe/kasinski/crz-150-super-moto-2011-816029-5/",
+      "ano": 2011,
+      "marca": "KASINSKI"
+    },
+    {
+      "vehicleId": "kasinski-crz-150-super-moto-2012-gasolina",
+      "fipeCodigo": "816029-5",
+      "displayName": "KASINSKI CRZ 150 SUPER MOTO",
+      "valorAtual": 6177,
+      "canonicalPath": "/fipe/kasinski/crz-150-super-moto-2012-816029-5/",
+      "ano": 2012,
+      "marca": "KASINSKI"
+    },
+    {
+      "vehicleId": "kasinski-crz-150-super-moto-2013-gasolina",
+      "fipeCodigo": "816029-5",
+      "displayName": "KASINSKI CRZ 150 SUPER MOTO",
+      "valorAtual": 7275,
+      "canonicalPath": "/fipe/kasinski/crz-150-super-moto-2013-816029-5/",
+      "ano": 2013,
+      "marca": "KASINSKI"
+    }
+  ],
+  "stats": {
+    "total": 8
+  },
+  "meta": {
+    "geracaoId": "crz-1"
+  }
+}

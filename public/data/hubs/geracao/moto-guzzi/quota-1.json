@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "quota-1",
+  "canonicalPath": "/geracao/moto-guzzi/quota-1/",
+  "titulo": "Geracao quota-1",
+  "descricao": "2 veiculos da geracao quota-1.",
+  "seo": {
+    "title": "Geracao quota-1 - Precos FIPE",
+    "description": "Veiculos da geracao quota-1 na Tabela FIPE.",
+    "h1": "Geracao quota-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/moto-guzzi/quota-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "moto-guzzi-quota-1100-es-2000-gasolina",
+      "fipeCodigo": "833004-2",
+      "displayName": "MOTO GUZZI QUOTA 1100 ES",
+      "valorAtual": 33550,
+      "canonicalPath": "/fipe/moto-guzzi/quota-1100-es-2000-833004-2/",
+      "ano": 2000,
+      "marca": "MOTO GUZZI"
+    },
+    {
+      "vehicleId": "moto-guzzi-quota-1100-es-2001-gasolina",
+      "fipeCodigo": "833004-2",
+      "displayName": "MOTO GUZZI QUOTA 1100 ES",
+      "valorAtual": 38754,
+      "canonicalPath": "/fipe/moto-guzzi/quota-1100-es-2001-833004-2/",
+      "ano": 2001,
+      "marca": "MOTO GUZZI"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "quota-1"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "tipo": "geracao",
+  "slug": "mc-1",
+  "canonicalPath": "/geracao/gas-gas/mc-1/",
+  "titulo": "Geracao mc-1",
+  "descricao": "3 veiculos da geracao mc-1.",
+  "seo": {
+    "title": "Geracao mc-1 - Precos FIPE",
+    "description": "Veiculos da geracao mc-1 na Tabela FIPE.",
+    "h1": "Geracao mc-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/gas-gas/mc-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "gas-gas-mc-250-2000-gasolina",
+      "fipeCodigo": "834008-0",
+      "displayName": "GAS GAS MC 250",
+      "valorAtual": 5514,
+      "canonicalPath": "/fipe/gas-gas/mc-250-2000-834008-0/",
+      "ano": 2000,
+      "marca": "GAS GAS"
+    },
+    {
+      "vehicleId": "gas-gas-mc-250-2001-gasolina",
+      "fipeCodigo": "834008-0",
+      "displayName": "GAS GAS MC 250",
+      "valorAtual": 5748,
+      "canonicalPath": "/fipe/gas-gas/mc-250-2001-834008-0/",
+      "ano": 2001,
+      "marca": "GAS GAS"
+    },
+    {
+      "vehicleId": "gas-gas-mc-250-2002-gasolina",
+      "fipeCodigo": "834008-0",
+      "displayName": "GAS GAS MC 250",
+      "valorAtual": 5997,
+      "canonicalPath": "/fipe/gas-gas/mc-250-2002-834008-0/",
+      "ano": 2002,
+      "marca": "GAS GAS"
+    }
+  ],
+  "stats": {
+    "total": 3
+  },
+  "meta": {
+    "geracaoId": "mc-1"
+  }
+}

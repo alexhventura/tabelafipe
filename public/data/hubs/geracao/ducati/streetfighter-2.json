@@ -1,0 +1,66 @@
+{
+  "tipo": "geracao",
+  "slug": "streetfighter-2",
+  "canonicalPath": "/geracao/ducati/streetfighter-2/",
+  "titulo": "Geracao streetfighter-2",
+  "descricao": "5 veiculos da geracao streetfighter-2.",
+  "seo": {
+    "title": "Geracao streetfighter-2 - Precos FIPE",
+    "description": "Veiculos da geracao streetfighter-2 na Tabela FIPE.",
+    "h1": "Geracao streetfighter-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/ducati/streetfighter-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "ducati-streetfighter-1098cc-2009-gasolina",
+      "fipeCodigo": "808032-1",
+      "displayName": "DUCATI STREETFIGHTER 1098cc",
+      "valorAtual": 33240,
+      "canonicalPath": "/fipe/ducati/streetfighter-1098cc-2009-808032-1/",
+      "ano": 2009,
+      "marca": "DUCATI"
+    },
+    {
+      "vehicleId": "ducati-streetfighter-1098cc-2010-gasolina",
+      "fipeCodigo": "808032-1",
+      "displayName": "DUCATI STREETFIGHTER 1098cc",
+      "valorAtual": 38095,
+      "canonicalPath": "/fipe/ducati/streetfighter-1098cc-2010-808032-1/",
+      "ano": 2010,
+      "marca": "DUCATI"
+    },
+    {
+      "vehicleId": "ducati-streetfighter-1098cc-2011-gasolina",
+      "fipeCodigo": "808032-1",
+      "displayName": "DUCATI STREETFIGHTER 1098cc",
+      "valorAtual": 40603,
+      "canonicalPath": "/fipe/ducati/streetfighter-1098cc-2011-808032-1/",
+      "ano": 2011,
+      "marca": "DUCATI"
+    },
+    {
+      "vehicleId": "ducati-streetfighter-1098cc-2012-gasolina",
+      "fipeCodigo": "808032-1",
+      "displayName": "DUCATI STREETFIGHTER 1098cc",
+      "valorAtual": 41619,
+      "canonicalPath": "/fipe/ducati/streetfighter-1098cc-2012-808032-1/",
+      "ano": 2012,
+      "marca": "DUCATI"
+    },
+    {
+      "vehicleId": "ducati-streetfighter-848-2013-gasolina",
+      "fipeCodigo": "808045-3",
+      "displayName": "DUCATI STREETFIGHTER 848",
+      "valorAtual": 46357,
+      "canonicalPath": "/fipe/ducati/streetfighter-848-2013-808045-3/",
+      "ano": 2013,
+      "marca": "DUCATI"
+    }
+  ],
+  "stats": {
+    "total": 5
+  },
+  "meta": {
+    "geracaoId": "streetfighter-2"
+  }
+}

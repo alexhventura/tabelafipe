@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "bolt-2",
+  "canonicalPath": "/geracao/chevrolet/bolt-2/",
+  "titulo": "Geracao bolt-2",
+  "descricao": "2 veiculos da geracao bolt-2.",
+  "seo": {
+    "title": "Geracao bolt-2 - Precos FIPE",
+    "description": "Veiculos da geracao bolt-2 na Tabela FIPE.",
+    "h1": "Geracao bolt-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/chevrolet/bolt-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "chevrolet-bolt-euv-premier-203cv-eletrico-2023-eletrico",
+      "fipeCodigo": "004545-4",
+      "displayName": "GM - Chevrolet BOLT EUV Premier 203cv (Elétrico)",
+      "valorAtual": 162741,
+      "canonicalPath": "/fipe/chevrolet/bolt-euv-premier-203cv-eletrico-2023-004545-4/",
+      "ano": 2023,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-bolt-ev-premier-203cv-eletrico-2022-eletrico",
+      "fipeCodigo": "004520-9",
+      "displayName": "GM - Chevrolet BOLT EV Premier 203cv (Elétrico)",
+      "valorAtual": 135731,
+      "canonicalPath": "/fipe/chevrolet/bolt-ev-premier-203cv-eletrico-2022-004520-9/",
+      "ano": 2022,
+      "marca": "GM - Chevrolet"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "bolt-2"
+  }
+}

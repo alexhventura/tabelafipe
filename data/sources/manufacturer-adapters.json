@@ -1,0 +1,458 @@
+{
+  "version": 1,
+  "legacyHtmlSlugs": [
+    "volkswagen",
+    "chevrolet",
+    "fiat",
+    "toyota",
+    "honda",
+    "jeep",
+    "nissan"
+  ],
+  "brands": [
+    {
+      "slug": "hyundai",
+      "nome": "Hyundai",
+      "strategy": "pdf",
+      "pdfCatalogs": [
+        {
+          "url": "https://www.hyundai.com.br/content/dam/hmb/cars/hb20/2025-2026/catalogos/Catalogo_DIgital_Novo_HB20_Limited_TGDI_25_26.pdf",
+          "modelo": "HB20",
+          "ano": 2026
+        },
+        {
+          "url": "https://www.hyundai.com.br/content/dam/hmb/download-manuais/creta_25-26/Catalogo_Digital_-_Novo_CRETA_Limited_MY_25-26.pdf",
+          "modelo": "Creta",
+          "ano": 2026
+        },
+        {
+          "url": "https://www.hyundai.com.br/content/dam/hmb/cars/tucson/2024/catalog/TUCSON_Catalogo_Digital.pdf",
+          "modelo": "Tucson",
+          "ano": 2025
+        }
+      ]
+    },
+    {
+      "slug": "renault",
+      "nome": "Renault",
+      "strategy": "html",
+      "htmlPages": [
+        {
+          "url": "https://www.renault.com.br/veiculos-de-passeio/kwid.html",
+          "modelo": "Kwid",
+          "ano": 2026
+        },
+        {
+          "url": "https://www.renault.com.br/veiculos-de-passeio/duster.html",
+          "modelo": "Duster",
+          "ano": 2026
+        },
+        {
+          "url": "https://www.renault.com.br/veiculos-de-passeio/kardian.html",
+          "modelo": "Kardian",
+          "ano": 2026
+        },
+        {
+          "url": "https://www.renault.com.br/veiculos-de-passeio/oroch.html",
+          "modelo": "Oroch",
+          "ano": 2026
+        },
+        {
+          "url": "https://www.renault.com.br/veiculos-de-passeio/boreal.html",
+          "modelo": "Boreal",
+          "ano": 2026
+        }
+      ],
+      "autoDiscover": true,
+      "discoveryBaseUrl": "https://www.renault.com.br/veiculos-de-passeio.html"
+    },
+    {
+      "slug": "ford",
+      "nome": "Ford",
+      "strategy": "html",
+      "htmlPages": [
+        {
+          "url": "https://www.ford.com.br/picapes/ranger/",
+          "modelo": "Ranger",
+          "ano": 2026
+        },
+        {
+          "url": "https://www.ford.com.br/picapes/maverick/",
+          "modelo": "Maverick",
+          "ano": 2026
+        },
+        {
+          "url": "https://www.ford.com.br/suvs-e-crossovers/territory/",
+          "modelo": "Territory",
+          "ano": 2026
+        },
+        {
+          "url": "https://www.ford.com.br/suvs-e-crossovers/bronco-sport/",
+          "modelo": "Bronco Sport",
+          "ano": 2026
+        }
+      ],
+      "autoDiscover": true,
+      "discoveryBaseUrl": "https://www.ford.com.br/todos-os-veiculos/"
+    },
+    {
+      "slug": "bmw",
+      "nome": "BMW",
+      "strategy": "html",
+      "htmlPages": [
+        {
+          "url": "https://www.bmw.com.br/pt/all-models/series-3/sedan/2025/overview.html",
+          "modelo": "Serie 3",
+          "ano": 2026
+        },
+        {
+          "url": "https://www.bmw.com.br/pt/all-models/x-series/x1/2025/overview.html",
+          "modelo": "X1",
+          "ano": 2026
+        },
+        {
+          "url": "https://www.bmw.com.br/pt/all-models/x-series/x3/2025/overview.html",
+          "modelo": "X3",
+          "ano": 2026
+        }
+      ],
+      "autoDiscover": true,
+      "discoveryBaseUrl": "https://www.bmw.com.br/pt/all-models.html"
+    },
+    {
+      "slug": "mercedes-benz",
+      "nome": "Mercedes-Benz",
+      "strategy": "html",
+      "htmlPages": [
+        {
+          "url": "https://www.mercedes-benz.com.br/passengercars/models/saloon/c-class/overview.html",
+          "modelo": "Classe C",
+          "ano": 2026
+        },
+        {
+          "url": "https://www.mercedes-benz.com.br/passengercars/models/suv/glc/overview.html",
+          "modelo": "GLC",
+          "ano": 2026
+        }
+      ]
+    },
+    {
+      "slug": "audi",
+      "nome": "Audi",
+      "strategy": "html",
+      "htmlPages": [
+        {
+          "url": "https://www.audi.com.br/pt/models/q3/",
+          "modelo": "Q3",
+          "ano": 2026
+        },
+        {
+          "url": "https://www.audi.com.br/pt/models/q5/",
+          "modelo": "Q5",
+          "ano": 2026
+        },
+        {
+          "url": "https://www.audi.com.br/pt/models/a5/",
+          "modelo": "A5",
+          "ano": 2026
+        }
+      ],
+      "autoDiscover": true,
+      "discoveryBaseUrl": "https://www.audi.com.br/pt/models/"
+    },
+    {
+      "slug": "peugeot",
+      "nome": "Peugeot",
+      "strategy": "mixed",
+      "htmlPages": [
+        {
+          "url": "https://www.peugeot.com.br/gama/peugeot-208.html",
+          "modelo": "208",
+          "ano": 2026
+        },
+        {
+          "url": "https://www.peugeot.com.br/gama/peugeot-2008.html",
+          "modelo": "2008",
+          "ano": 2026
+        }
+      ],
+      "autoDiscover": true,
+      "discoveryBaseUrl": "https://www.peugeot.com.br/gama/peugeot-208.html",
+      "pdfCatalogs": [
+        {
+          "url": "https://www.peugeot.com.br/content/dam/peugeot/catalogos/208MY26_Catalogo-digital.pdf",
+          "modelo": "208",
+          "ano": 2026
+        }
+      ]
+    },
+    {
+      "slug": "citroen",
+      "nome": "Citroen",
+      "strategy": "html",
+      "htmlPages": [
+        {
+          "url": "https://www.citroen.com.br/veiculos-passeio/c3.html",
+          "modelo": "C3",
+          "ano": 2026
+        },
+        {
+          "url": "https://www.citroen.com.br/veiculos-passeio/basalt.html",
+          "modelo": "Basalt",
+          "ano": 2026
+        },
+        {
+          "url": "https://www.citroen.com.br/veiculos-passeio/aircross.html",
+          "modelo": "Aircross",
+          "ano": 2026
+        }
+      ],
+      "autoDiscover": true,
+      "discoveryBaseUrl": "https://www.citroen.com.br/veiculos-passeio/c3.html"
+    },
+    {
+      "slug": "mitsubishi",
+      "nome": "Mitsubishi",
+      "strategy": "html",
+      "htmlPages": [
+        {
+          "url": "https://www.mitsubishimotors.com.br/suv-e-crossovers/outlander",
+          "modelo": "Outlander",
+          "ano": 2026
+        },
+        {
+          "url": "https://www.mitsubishimotors.com.br/suv-e-crossovers/eclipse-cross",
+          "modelo": "Eclipse Cross",
+          "ano": 2026
+        },
+        {
+          "url": "https://www.mitsubishimotors.com.br/picapes/nova-triton",
+          "modelo": "Triton",
+          "ano": 2026
+        }
+      ],
+      "autoDiscover": true,
+      "discoveryBaseUrl": "https://www.mitsubishimotors.com.br/"
+    },
+    {
+      "slug": "kia",
+      "nome": "Kia",
+      "strategy": "html",
+      "htmlPages": [
+        {
+          "url": "https://www.kia.com.br/sportage",
+          "modelo": "Sportage",
+          "ano": 2026
+        },
+        {
+          "url": "https://www.kia.com.br/sorento",
+          "modelo": "Sorento",
+          "ano": 2026
+        },
+        {
+          "url": "https://www.kia.com.br/carnival",
+          "modelo": "Carnival",
+          "ano": 2026
+        },
+        {
+          "url": "https://www.kia.com.br/ev5",
+          "modelo": "EV5",
+          "ano": 2026
+        },
+        {
+          "url": "https://www.kia.com.br/bongo",
+          "modelo": "Bongo",
+          "ano": 2026
+        }
+      ],
+      "autoDiscover": true,
+      "discoveryBaseUrl": "https://www.kia.com.br/"
+    },
+    {
+      "slug": "volvo",
+      "nome": "Volvo",
+      "strategy": "html",
+      "htmlPages": [
+        {
+          "url": "https://www.volvocars.com/br/cars/ex30-electric/",
+          "modelo": "EX30",
+          "ano": 2026
+        },
+        {
+          "url": "https://www.volvocars.com/br/cars/ex40-electric/",
+          "modelo": "EX40",
+          "ano": 2026
+        },
+        {
+          "url": "https://www.volvocars.com/br/cars/xc60-hybrid/",
+          "modelo": "XC60",
+          "ano": 2026
+        },
+        {
+          "url": "https://www.volvocars.com/br/cars/xc90-hybrid/",
+          "modelo": "XC90",
+          "ano": 2026
+        }
+      ],
+      "autoDiscover": true,
+      "discoveryBaseUrl": "https://www.volvocars.com/br/"
+    },
+    {
+      "slug": "land-rover",
+      "nome": "Land Rover",
+      "strategy": "html",
+      "htmlPages": [
+        {
+          "url": "https://www.landrover.com.br/defender/index.html",
+          "modelo": "Defender",
+          "ano": 2026
+        },
+        {
+          "url": "https://www.landrover.com.br/discovery/index.html",
+          "modelo": "Discovery",
+          "ano": 2026
+        }
+      ],
+      "autoDiscover": true,
+      "discoveryBaseUrl": "https://www.landrover.com.br/"
+    },
+    {
+      "slug": "ram",
+      "nome": "RAM",
+      "strategy": "html",
+      "htmlPages": [
+        {
+          "url": "https://www.ram.com.br/ram-1500.html",
+          "modelo": "1500",
+          "ano": 2026
+        },
+        {
+          "url": "https://www.ram.com.br/rampage.html",
+          "modelo": "Rampage",
+          "ano": 2026
+        }
+      ]
+    },
+    {
+      "slug": "suzuki",
+      "nome": "Suzuki",
+      "strategy": "html",
+      "htmlPages": [
+        {
+          "url": "https://www.suzuki.com.br/veiculos/vitara",
+          "modelo": "Vitara",
+          "ano": 2026
+        },
+        {
+          "url": "https://www.suzuki.com.br/veiculos/jimny",
+          "modelo": "Jimny",
+          "ano": 2026
+        }
+      ]
+    },
+    {
+      "slug": "jac",
+      "nome": "JAC",
+      "strategy": "html",
+      "htmlPages": [
+        {
+          "url": "https://www.jacmotors.com.br/jac-e-js4",
+          "modelo": "E-JS4",
+          "ano": 2026
+        },
+        {
+          "url": "https://www.jacmotors.com.br/jac-t8",
+          "modelo": "T8",
+          "ano": 2026
+        }
+      ]
+    },
+    {
+      "slug": "byd",
+      "nome": "BYD",
+      "strategy": "html",
+      "htmlPages": [
+        {
+          "url": "https://www.byd.com/br/car/atto2",
+          "modelo": "Atto 2",
+          "ano": 2026
+        },
+        {
+          "url": "https://www.byd.com/br/car/dolphin-se",
+          "modelo": "Dolphin SE",
+          "ano": 2026
+        },
+        {
+          "url": "https://www.byd.com/br/car/song-plus-dmi",
+          "modelo": "Song Plus DM-i",
+          "ano": 2026
+        },
+        {
+          "url": "https://www.byd.com/br/car/sealion7",
+          "modelo": "Sealion 7",
+          "ano": 2026
+        },
+        {
+          "url": "https://www.byd.com/br/car/atto-8",
+          "modelo": "Atto 8",
+          "ano": 2026
+        }
+      ],
+      "autoDiscover": true,
+      "discoveryBaseUrl": "https://www.byd.com/br/car/atto2"
+    },
+    {
+      "slug": "gwm",
+      "nome": "GWM",
+      "strategy": "html",
+      "htmlPages": [
+        {
+          "url": "https://www.gwmmotors.com.br/pt/modelos/haval-h6",
+          "modelo": "Haval H6",
+          "ano": 2026
+        },
+        {
+          "url": "https://www.gwmmotors.com.br/pt/modelos/tank-300",
+          "modelo": "Tank 300",
+          "ano": 2026
+        }
+      ],
+      "autoDiscover": true,
+      "discoveryBaseUrl": "https://www.gwmmotors.com.br/pt/modelos/"
+    },
+    {
+      "slug": "chery",
+      "nome": "Chery",
+      "strategy": "html",
+      "htmlPages": [
+        {
+          "url": "https://www.chery.com.br/veiculos/tiggo-5x",
+          "modelo": "Tiggo 5x",
+          "ano": 2026
+        },
+        {
+          "url": "https://www.chery.com.br/veiculos/tiggo-8",
+          "modelo": "Tiggo 8",
+          "ano": 2026
+        }
+      ]
+    },
+    {
+      "slug": "lexus",
+      "nome": "Lexus",
+      "strategy": "html",
+      "htmlPages": [
+        {
+          "url": "https://www.lexus.com.br/modelos/ux",
+          "modelo": "UX",
+          "ano": 2026
+        },
+        {
+          "url": "https://www.lexus.com.br/modelos/nx",
+          "modelo": "NX",
+          "ano": 2026
+        }
+      ]
+    }
+  ]
+}

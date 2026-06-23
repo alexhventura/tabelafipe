@@ -1,0 +1,75 @@
+{
+  "tipo": "geracao",
+  "slug": "760il-1",
+  "canonicalPath": "/geracao/bmw/760il-1/",
+  "titulo": "Geracao 760il-1",
+  "descricao": "6 veiculos da geracao 760il-1.",
+  "seo": {
+    "title": "Geracao 760il-1 - Precos FIPE",
+    "description": "Veiculos da geracao 760il-1 na Tabela FIPE.",
+    "h1": "Geracao 760il-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/bmw/760il-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "bmw-760il-6-0-v12-445cv-544cv-2003-gasolina",
+      "fipeCodigo": "009099-9",
+      "displayName": "BMW 760iL 6.0 V12 445cv/544cv",
+      "valorAtual": 99845,
+      "canonicalPath": "/fipe/bmw/760il-6-0-v12-445cv-544cv-2003-009099-9/",
+      "ano": 2003,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-760il-6-0-v12-445cv-544cv-2004-gasolina",
+      "fipeCodigo": "009099-9",
+      "displayName": "BMW 760iL 6.0 V12 445cv/544cv",
+      "valorAtual": 126918,
+      "canonicalPath": "/fipe/bmw/760il-6-0-v12-445cv-544cv-2004-009099-9/",
+      "ano": 2004,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-760il-6-0-v12-445cv-544cv-2005-gasolina",
+      "fipeCodigo": "009099-9",
+      "displayName": "BMW 760iL 6.0 V12 445cv/544cv",
+      "valorAtual": 140365,
+      "canonicalPath": "/fipe/bmw/760il-6-0-v12-445cv-544cv-2005-009099-9/",
+      "ano": 2005,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-760il-6-0-v12-445cv-544cv-2006-gasolina",
+      "fipeCodigo": "009099-9",
+      "displayName": "BMW 760iL 6.0 V12 445cv/544cv",
+      "valorAtual": 201578,
+      "canonicalPath": "/fipe/bmw/760il-6-0-v12-445cv-544cv-2006-009099-9/",
+      "ano": 2006,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-760il-6-0-v12-445cv-544cv-2007-gasolina",
+      "fipeCodigo": "009099-9",
+      "displayName": "BMW 760iL 6.0 V12 445cv/544cv",
+      "valorAtual": 206618,
+      "canonicalPath": "/fipe/bmw/760il-6-0-v12-445cv-544cv-2007-009099-9/",
+      "ano": 2007,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-760il-6-0-v12-445cv-544cv-2008-gasolina",
+      "fipeCodigo": "009099-9",
+      "displayName": "BMW 760iL 6.0 V12 445cv/544cv",
+      "valorAtual": 211784,
+      "canonicalPath": "/fipe/bmw/760il-6-0-v12-445cv-544cv-2008-009099-9/",
+      "ano": 2008,
+      "marca": "BMW"
+    }
+  ],
+  "stats": {
+    "total": 6
+  },
+  "meta": {
+    "geracaoId": "760il-1"
+  }
+}

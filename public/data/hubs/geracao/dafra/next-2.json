@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "next-2",
+  "canonicalPath": "/geracao/dafra/next-2/",
+  "titulo": "Geracao next-2",
+  "descricao": "2 veiculos da geracao next-2.",
+  "seo": {
+    "title": "Geracao next-2 - Precos FIPE",
+    "description": "Veiculos da geracao next-2 na Tabela FIPE.",
+    "h1": "Geracao next-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/dafra/next-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "dafra-next-300cc-2019-gasolina",
+      "fipeCodigo": "861024-0",
+      "displayName": "DAFRA NEXT 300cc",
+      "valorAtual": 12462,
+      "canonicalPath": "/fipe/dafra/next-300cc-2019-861024-0/",
+      "ano": 2019,
+      "marca": "DAFRA"
+    },
+    {
+      "vehicleId": "dafra-next-300cc-2020-gasolina",
+      "fipeCodigo": "861024-0",
+      "displayName": "DAFRA NEXT 300cc",
+      "valorAtual": 14860,
+      "canonicalPath": "/fipe/dafra/next-300cc-2020-861024-0/",
+      "ano": 2020,
+      "marca": "DAFRA"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "next-2"
+  }
+}

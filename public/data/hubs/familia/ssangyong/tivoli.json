@@ -1,0 +1,41 @@
+{
+  "tipo": "familia",
+  "slug": "tivoli",
+  "canonicalPath": "/fipe/ssangyong/tivoli/",
+  "titulo": "SSANGYONG tivoli - Tabela FIPE",
+  "descricao": "2 versoes e anos do SSANGYONG tivoli na Tabela FIPE.",
+  "seo": {
+    "title": "SSANGYONG tivoli - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes SSANGYONG tivoli. 2 veiculos indexados.",
+    "h1": "SSANGYONG tivoli - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/ssangyong/tivoli/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "ssangyong-tivoli-1-6-16v-128cv-aut-2018-gasolina",
+      "fipeCodigo": "055039-6",
+      "displayName": "SSANGYONG TIVOLI 1.6 16V 128cv Aut.",
+      "valorAtual": 52183,
+      "canonicalPath": "/fipe/ssangyong/tivoli-1-6-16v-128cv-aut-2018-055039-6/",
+      "ano": 2018,
+      "marca": "SSANGYONG"
+    },
+    {
+      "vehicleId": "ssangyong-tivoli-dlx-1-6-16v-128cv-aut-2018-gasolina",
+      "fipeCodigo": "055037-0",
+      "displayName": "SSANGYONG TIVOLI DLX 1.6 16V 128cv Aut.",
+      "valorAtual": 72328,
+      "canonicalPath": "/fipe/ssangyong/tivoli-dlx-1-6-16v-128cv-aut-2018-055037-0/",
+      "ano": 2018,
+      "marca": "SSANGYONG"
+    }
+  ],
+  "stats": {
+    "total": 2,
+    "precoMin": 52183,
+    "precoMax": 72328,
+    "anos": [
+      2018
+    ]
+  }
+}

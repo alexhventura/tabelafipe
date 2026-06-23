@@ -1,0 +1,84 @@
+{
+  "tipo": "geracao",
+  "slug": "wr-5",
+  "canonicalPath": "/geracao/yamaha/wr-5/",
+  "titulo": "Geracao wr-5",
+  "descricao": "7 veiculos da geracao wr-5.",
+  "seo": {
+    "title": "Geracao wr-5 - Precos FIPE",
+    "description": "Veiculos da geracao wr-5 na Tabela FIPE.",
+    "h1": "Geracao wr-5",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/yamaha/wr-5/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "yamaha-wr-250-f-2024-gasolina",
+      "fipeCodigo": "827139-9",
+      "displayName": "YAMAHA WR 250 F",
+      "valorAtual": 62229,
+      "canonicalPath": "/fipe/yamaha/wr-250-f-2024-827139-9/",
+      "ano": 2024,
+      "marca": "YAMAHA"
+    },
+    {
+      "vehicleId": "yamaha-wr-250-f-2025-gasolina",
+      "fipeCodigo": "827139-9",
+      "displayName": "YAMAHA WR 250 F",
+      "valorAtual": 69243,
+      "canonicalPath": "/fipe/yamaha/wr-250-f-2025-827139-9/",
+      "ano": 2025,
+      "marca": "YAMAHA"
+    },
+    {
+      "vehicleId": "yamaha-wr-450-f-2021-gasolina",
+      "fipeCodigo": "827120-8",
+      "displayName": "YAMAHA WR 450 F",
+      "valorAtual": 52379,
+      "canonicalPath": "/fipe/yamaha/wr-450-f-2021-827120-8/",
+      "ano": 2021,
+      "marca": "YAMAHA"
+    },
+    {
+      "vehicleId": "yamaha-wr-450-f-2022-gasolina",
+      "fipeCodigo": "827120-8",
+      "displayName": "YAMAHA WR 450 F",
+      "valorAtual": 54310,
+      "canonicalPath": "/fipe/yamaha/wr-450-f-2022-827120-8/",
+      "ano": 2022,
+      "marca": "YAMAHA"
+    },
+    {
+      "vehicleId": "yamaha-wr-450-f-2023-gasolina",
+      "fipeCodigo": "827120-8",
+      "displayName": "YAMAHA WR 450 F",
+      "valorAtual": 60549,
+      "canonicalPath": "/fipe/yamaha/wr-450-f-2023-827120-8/",
+      "ano": 2023,
+      "marca": "YAMAHA"
+    },
+    {
+      "vehicleId": "yamaha-wr-450-f-2024-gasolina",
+      "fipeCodigo": "827120-8",
+      "displayName": "YAMAHA WR 450 F",
+      "valorAtual": 75156,
+      "canonicalPath": "/fipe/yamaha/wr-450-f-2024-827120-8/",
+      "ano": 2024,
+      "marca": "YAMAHA"
+    },
+    {
+      "vehicleId": "yamaha-wr-450-f-2025-gasolina",
+      "fipeCodigo": "827120-8",
+      "displayName": "YAMAHA WR 450 F",
+      "valorAtual": 78169,
+      "canonicalPath": "/fipe/yamaha/wr-450-f-2025-827120-8/",
+      "ano": 2025,
+      "marca": "YAMAHA"
+    }
+  ],
+  "stats": {
+    "total": 7
+  },
+  "meta": {
+    "geracaoId": "wr-5"
+  }
+}

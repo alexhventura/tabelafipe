@@ -1,0 +1,42 @@
+{
+  "tipo": "familia",
+  "slug": "sun",
+  "canonicalPath": "/fipe/shineray/sun/",
+  "titulo": "SHINERAY sun - Tabela FIPE",
+  "descricao": "2 versoes e anos do SHINERAY sun na Tabela FIPE.",
+  "seo": {
+    "title": "SHINERAY sun - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes SHINERAY sun. 2 veiculos indexados.",
+    "h1": "SHINERAY sun - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/shineray/sun/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "shineray-sun-150-2015-gasolina",
+      "fipeCodigo": "850020-7",
+      "displayName": "SHINERAY SUN 150",
+      "valorAtual": 5267,
+      "canonicalPath": "/fipe/shineray/sun-150-2015-850020-7/",
+      "ano": 2015,
+      "marca": "SHINERAY"
+    },
+    {
+      "vehicleId": "shineray-sun-150-2014-gasolina",
+      "fipeCodigo": "850020-7",
+      "displayName": "SHINERAY SUN 150",
+      "valorAtual": 4531,
+      "canonicalPath": "/fipe/shineray/sun-150-2014-850020-7/",
+      "ano": 2014,
+      "marca": "SHINERAY"
+    }
+  ],
+  "stats": {
+    "total": 2,
+    "precoMin": 4531,
+    "precoMax": 5267,
+    "anos": [
+      2015,
+      2014
+    ]
+  }
+}

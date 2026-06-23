@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "megane-3",
+  "canonicalPath": "/geracao/renault/megane-3/",
+  "titulo": "Geracao megane-3",
+  "descricao": "2 veiculos da geracao megane-3.",
+  "seo": {
+    "title": "Geracao megane-3 - Precos FIPE",
+    "description": "Veiculos da geracao megane-3 na Tabela FIPE.",
+    "h1": "Geracao megane-3",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/renault/megane-3/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "renault-megane-e-tech-eletrico-2024-eletrico",
+      "fipeCodigo": "025321-9",
+      "displayName": "Renault Megane E-Tech (Elétrico)",
+      "valorAtual": 174510,
+      "canonicalPath": "/fipe/renault/megane-e-tech-eletrico-2024-025321-9/",
+      "ano": 2024,
+      "marca": "Renault"
+    },
+    {
+      "vehicleId": "renault-megane-e-tech-eletrico-2025-eletrico",
+      "fipeCodigo": "025321-9",
+      "displayName": "Renault Megane E-Tech (Elétrico)",
+      "valorAtual": 208984,
+      "canonicalPath": "/fipe/renault/megane-e-tech-eletrico-2025-025321-9/",
+      "ano": 2025,
+      "marca": "Renault"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "megane-3"
+  }
+}

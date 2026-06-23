@@ -1,0 +1,84 @@
+{
+  "tipo": "geracao",
+  "slug": "er-2",
+  "canonicalPath": "/geracao/kawasaki/er-2/",
+  "titulo": "Geracao er-2",
+  "descricao": "7 veiculos da geracao er-2.",
+  "seo": {
+    "title": "Geracao er-2 - Precos FIPE",
+    "description": "Veiculos da geracao er-2 na Tabela FIPE.",
+    "h1": "Geracao er-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/kawasaki/er-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "kawasaki-er-6n-650cc-2009-gasolina",
+      "fipeCodigo": "817051-7",
+      "displayName": "KAWASAKI ER-6N 650cc",
+      "valorAtual": 17300,
+      "canonicalPath": "/fipe/kawasaki/er-6n-650cc-2009-817051-7/",
+      "ano": 2009,
+      "marca": "KAWASAKI"
+    },
+    {
+      "vehicleId": "kawasaki-er-6n-650cc-2010-gasolina",
+      "fipeCodigo": "817051-7",
+      "displayName": "KAWASAKI ER-6N 650cc",
+      "valorAtual": 19778,
+      "canonicalPath": "/fipe/kawasaki/er-6n-650cc-2010-817051-7/",
+      "ano": 2010,
+      "marca": "KAWASAKI"
+    },
+    {
+      "vehicleId": "kawasaki-er-6n-650cc-2011-gasolina",
+      "fipeCodigo": "817051-7",
+      "displayName": "KAWASAKI ER-6N 650cc",
+      "valorAtual": 21535,
+      "canonicalPath": "/fipe/kawasaki/er-6n-650cc-2011-817051-7/",
+      "ano": 2011,
+      "marca": "KAWASAKI"
+    },
+    {
+      "vehicleId": "kawasaki-er-6n-650cc-2012-gasolina",
+      "fipeCodigo": "817051-7",
+      "displayName": "KAWASAKI ER-6N 650cc",
+      "valorAtual": 22258,
+      "canonicalPath": "/fipe/kawasaki/er-6n-650cc-2012-817051-7/",
+      "ano": 2012,
+      "marca": "KAWASAKI"
+    },
+    {
+      "vehicleId": "kawasaki-er-6n-650cc-2013-gasolina",
+      "fipeCodigo": "817051-7",
+      "displayName": "KAWASAKI ER-6N 650cc",
+      "valorAtual": 23323,
+      "canonicalPath": "/fipe/kawasaki/er-6n-650cc-2013-817051-7/",
+      "ano": 2013,
+      "marca": "KAWASAKI"
+    },
+    {
+      "vehicleId": "kawasaki-er-6n-650cc-2014-gasolina",
+      "fipeCodigo": "817051-7",
+      "displayName": "KAWASAKI ER-6N 650cc",
+      "valorAtual": 24459,
+      "canonicalPath": "/fipe/kawasaki/er-6n-650cc-2014-817051-7/",
+      "ano": 2014,
+      "marca": "KAWASAKI"
+    },
+    {
+      "vehicleId": "kawasaki-er-6n-650cc-2015-gasolina",
+      "fipeCodigo": "817051-7",
+      "displayName": "KAWASAKI ER-6N 650cc",
+      "valorAtual": 27498,
+      "canonicalPath": "/fipe/kawasaki/er-6n-650cc-2015-817051-7/",
+      "ano": 2015,
+      "marca": "KAWASAKI"
+    }
+  ],
+  "stats": {
+    "total": 7
+  },
+  "meta": {
+    "geracaoId": "er-2"
+  }
+}

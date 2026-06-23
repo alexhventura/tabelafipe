@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "gr250t3-1",
+  "canonicalPath": "/geracao/garinni/gr250t3-1/",
+  "titulo": "Geracao gr250t3-1",
+  "descricao": "2 veiculos da geracao gr250t3-1.",
+  "seo": {
+    "title": "Geracao gr250t3-1 - Precos FIPE",
+    "description": "Veiculos da geracao gr250t3-1 na Tabela FIPE.",
+    "h1": "Geracao gr250t3-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/garinni/gr250t3-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "garinni-gr250t3-2008-gasolina",
+      "fipeCodigo": "847010-3",
+      "displayName": "GARINNI GR250T3",
+      "valorAtual": 11211,
+      "canonicalPath": "/fipe/garinni/gr250t3-2008-847010-3/",
+      "ano": 2008,
+      "marca": "GARINNI"
+    },
+    {
+      "vehicleId": "garinni-gr250t3-2009-gasolina",
+      "fipeCodigo": "847010-3",
+      "displayName": "GARINNI GR250T3",
+      "valorAtual": 12698,
+      "canonicalPath": "/fipe/garinni/gr250t3-2009-847010-3/",
+      "ano": 2009,
+      "marca": "GARINNI"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "gr250t3-1"
+  }
+}

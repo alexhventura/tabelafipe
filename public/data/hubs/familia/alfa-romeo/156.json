@@ -1,0 +1,118 @@
+{
+  "tipo": "familia",
+  "slug": "156",
+  "canonicalPath": "/fipe/alfa-romeo/156/",
+  "titulo": "Alfa Romeo 156 - Tabela FIPE",
+  "descricao": "10 versoes e anos do Alfa Romeo 156 na Tabela FIPE.",
+  "seo": {
+    "title": "Alfa Romeo 156 - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes Alfa Romeo 156. 10 veiculos indexados.",
+    "h1": "Alfa Romeo 156 - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/alfa-romeo/156/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "alfa-romeo-156-sport-wagon-2-5-v6-24v-4p-aut-2004-gasolina",
+      "fipeCodigo": "006016-0",
+      "displayName": "Alfa Romeo 156 Sport Wagon 2.5 V6 24V 4p Aut.",
+      "valorAtual": 91689,
+      "canonicalPath": "/fipe/alfa-romeo/156-sport-wagon-2-5-v6-24v-4p-aut-2004-006016-0/",
+      "ano": 2004,
+      "marca": "Alfa Romeo"
+    },
+    {
+      "vehicleId": "alfa-romeo-156-sport-wagon-2-5-v6-24v-4p-aut-2003-gasolina",
+      "fipeCodigo": "006016-0",
+      "displayName": "Alfa Romeo 156 Sport Wagon 2.5 V6 24V 4p Aut.",
+      "valorAtual": 84792,
+      "canonicalPath": "/fipe/alfa-romeo/156-sport-wagon-2-5-v6-24v-4p-aut-2003-006016-0/",
+      "ano": 2003,
+      "marca": "Alfa Romeo"
+    },
+    {
+      "vehicleId": "alfa-romeo-156-2-5-v6-24v-190cv-4p-aut-2003-gasolina",
+      "fipeCodigo": "006015-1",
+      "displayName": "Alfa Romeo 156 2.5 V6 24V 190cv 4p Aut.",
+      "valorAtual": 100416,
+      "canonicalPath": "/fipe/alfa-romeo/156-2-5-v6-24v-190cv-4p-aut-2003-006015-1/",
+      "ano": 2003,
+      "marca": "Alfa Romeo"
+    },
+    {
+      "vehicleId": "alfa-romeo-156-sport-wagon-2-0-16v-2002-gasolina",
+      "fipeCodigo": "006014-3",
+      "displayName": "Alfa Romeo 156 Sport Wagon 2.0 16V",
+      "valorAtual": 48743,
+      "canonicalPath": "/fipe/alfa-romeo/156-sport-wagon-2-0-16v-2002-006014-3/",
+      "ano": 2002,
+      "marca": "Alfa Romeo"
+    },
+    {
+      "vehicleId": "alfa-romeo-156-ts-sport-elegant-2-0-16v-2002-gasolina",
+      "fipeCodigo": "006010-0",
+      "displayName": "Alfa Romeo 156 TS/Sport/Elegant 2.0 16V",
+      "valorAtual": 73381,
+      "canonicalPath": "/fipe/alfa-romeo/156-ts-sport-elegant-2-0-16v-2002-006010-0/",
+      "ano": 2002,
+      "marca": "Alfa Romeo"
+    },
+    {
+      "vehicleId": "alfa-romeo-156-sport-wagon-2-0-16v-2001-gasolina",
+      "fipeCodigo": "006014-3",
+      "displayName": "Alfa Romeo 156 Sport Wagon 2.0 16V",
+      "valorAtual": 38535,
+      "canonicalPath": "/fipe/alfa-romeo/156-sport-wagon-2-0-16v-2001-006014-3/",
+      "ano": 2001,
+      "marca": "Alfa Romeo"
+    },
+    {
+      "vehicleId": "alfa-romeo-156-ts-sport-elegant-2-0-16v-2001-gasolina",
+      "fipeCodigo": "006010-0",
+      "displayName": "Alfa Romeo 156 TS/Sport/Elegant 2.0 16V",
+      "valorAtual": 63625,
+      "canonicalPath": "/fipe/alfa-romeo/156-ts-sport-elegant-2-0-16v-2001-006010-0/",
+      "ano": 2001,
+      "marca": "Alfa Romeo"
+    },
+    {
+      "vehicleId": "alfa-romeo-156-ts-sport-elegant-2-0-16v-2000-gasolina",
+      "fipeCodigo": "006010-0",
+      "displayName": "Alfa Romeo 156 TS/Sport/Elegant 2.0 16V",
+      "valorAtual": 55314,
+      "canonicalPath": "/fipe/alfa-romeo/156-ts-sport-elegant-2-0-16v-2000-006010-0/",
+      "ano": 2000,
+      "marca": "Alfa Romeo"
+    },
+    {
+      "vehicleId": "alfa-romeo-156-2-5-v6-24v-190cv-4p-aut-1999-gasolina",
+      "fipeCodigo": "006015-1",
+      "displayName": "Alfa Romeo 156 2.5 V6 24V 190cv 4p Aut.",
+      "valorAtual": 33388,
+      "canonicalPath": "/fipe/alfa-romeo/156-2-5-v6-24v-190cv-4p-aut-1999-006015-1/",
+      "ano": 1999,
+      "marca": "Alfa Romeo"
+    },
+    {
+      "vehicleId": "alfa-romeo-156-ts-sport-elegant-2-0-16v-1999-gasolina",
+      "fipeCodigo": "006010-0",
+      "displayName": "Alfa Romeo 156 TS/Sport/Elegant 2.0 16V",
+      "valorAtual": 53964,
+      "canonicalPath": "/fipe/alfa-romeo/156-ts-sport-elegant-2-0-16v-1999-006010-0/",
+      "ano": 1999,
+      "marca": "Alfa Romeo"
+    }
+  ],
+  "stats": {
+    "total": 10,
+    "precoMin": 33388,
+    "precoMax": 100416,
+    "anos": [
+      2004,
+      2003,
+      2002,
+      2001,
+      2000,
+      1999
+    ]
+  }
+}

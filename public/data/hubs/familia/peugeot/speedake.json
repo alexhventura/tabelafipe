@@ -1,0 +1,52 @@
+{
+  "tipo": "familia",
+  "slug": "speedake",
+  "canonicalPath": "/fipe/peugeot/speedake/",
+  "titulo": "PEUGEOT speedake - Tabela FIPE",
+  "descricao": "3 versoes e anos do PEUGEOT speedake na Tabela FIPE.",
+  "seo": {
+    "title": "PEUGEOT speedake - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes PEUGEOT speedake. 3 veiculos indexados.",
+    "h1": "PEUGEOT speedake - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/peugeot/speedake/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "peugeot-speedake-50-1999-gasolina",
+      "fipeCodigo": "821004-7",
+      "displayName": "PEUGEOT SPEEDAKE 50",
+      "valorAtual": 2258,
+      "canonicalPath": "/fipe/peugeot/speedake-50-1999-821004-7/",
+      "ano": 1999,
+      "marca": "PEUGEOT"
+    },
+    {
+      "vehicleId": "peugeot-speedake-50-1998-gasolina",
+      "fipeCodigo": "821004-7",
+      "displayName": "PEUGEOT SPEEDAKE 50",
+      "valorAtual": 2180,
+      "canonicalPath": "/fipe/peugeot/speedake-50-1998-821004-7/",
+      "ano": 1998,
+      "marca": "PEUGEOT"
+    },
+    {
+      "vehicleId": "peugeot-speedake-50-1997-gasolina",
+      "fipeCodigo": "821004-7",
+      "displayName": "PEUGEOT SPEEDAKE 50",
+      "valorAtual": 1918,
+      "canonicalPath": "/fipe/peugeot/speedake-50-1997-821004-7/",
+      "ano": 1997,
+      "marca": "PEUGEOT"
+    }
+  ],
+  "stats": {
+    "total": 3,
+    "precoMin": 1918,
+    "precoMax": 2258,
+    "anos": [
+      1999,
+      1998,
+      1997
+    ]
+  }
+}

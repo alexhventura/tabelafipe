@@ -1,0 +1,42 @@
+{
+  "tipo": "familia",
+  "slug": "v",
+  "canonicalPath": "/fipe/cagiva/v/",
+  "titulo": "CAGIVA v - Tabela FIPE",
+  "descricao": "2 versoes e anos do CAGIVA v na Tabela FIPE.",
+  "seo": {
+    "title": "CAGIVA v - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes CAGIVA v. 2 veiculos indexados.",
+    "h1": "CAGIVA v - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/cagiva/v/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "cagiva-v-raptor-1000-2002-gasolina",
+      "fipeCodigo": "805009-0",
+      "displayName": "CAGIVA V-RAPTOR 1000",
+      "valorAtual": 38413,
+      "canonicalPath": "/fipe/cagiva/v-raptor-1000-2002-805009-0/",
+      "ano": 2002,
+      "marca": "CAGIVA"
+    },
+    {
+      "vehicleId": "cagiva-v-raptor-1000-2001-gasolina",
+      "fipeCodigo": "805009-0",
+      "displayName": "CAGIVA V-RAPTOR 1000",
+      "valorAtual": 37476,
+      "canonicalPath": "/fipe/cagiva/v-raptor-1000-2001-805009-0/",
+      "ano": 2001,
+      "marca": "CAGIVA"
+    }
+  ],
+  "stats": {
+    "total": 2,
+    "precoMin": 37476,
+    "precoMax": 38413,
+    "anos": [
+      2002,
+      2001
+    ]
+  }
+}

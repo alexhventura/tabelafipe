@@ -1,0 +1,128 @@
+{
+  "tipo": "familia",
+  "slug": "c",
+  "canonicalPath": "/fipe/bmw/c/",
+  "titulo": "BMW c - Tabela FIPE",
+  "descricao": "11 versoes e anos do BMW c na Tabela FIPE.",
+  "seo": {
+    "title": "BMW c - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes BMW c. 11 veiculos indexados.",
+    "h1": "BMW c - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/bmw/c/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "bmw-c-400-x-2026-gasolina",
+      "fipeCodigo": "803101-0",
+      "displayName": "BMW C 400 X",
+      "valorAtual": 58200,
+      "canonicalPath": "/fipe/bmw/c-400-x-2026-803101-0/",
+      "ano": 2026,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-c-400-x-2025-gasolina",
+      "fipeCodigo": "803101-0",
+      "displayName": "BMW C 400 X",
+      "valorAtual": 55423,
+      "canonicalPath": "/fipe/bmw/c-400-x-2025-803101-0/",
+      "ano": 2025,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-c-400-x-sport-2024-gasolina",
+      "fipeCodigo": "803100-2",
+      "displayName": "BMW C 400 X Sport",
+      "valorAtual": 49327,
+      "canonicalPath": "/fipe/bmw/c-400-x-sport-2024-803100-2/",
+      "ano": 2024,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-c-400-x-2024-gasolina",
+      "fipeCodigo": "803101-0",
+      "displayName": "BMW C 400 X",
+      "valorAtual": 51282,
+      "canonicalPath": "/fipe/bmw/c-400-x-2024-803101-0/",
+      "ano": 2024,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-c-600-sport-2015-gasolina",
+      "fipeCodigo": "803053-7",
+      "displayName": "BMW C 600 Sport",
+      "valorAtual": 42225,
+      "canonicalPath": "/fipe/bmw/c-600-sport-2015-803053-7/",
+      "ano": 2015,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-c-650-gt-2015-gasolina",
+      "fipeCodigo": "803057-0",
+      "displayName": "BMW C 650 GT",
+      "valorAtual": 50675,
+      "canonicalPath": "/fipe/bmw/c-650-gt-2015-803057-0/",
+      "ano": 2015,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-c-600-sport-2014-gasolina",
+      "fipeCodigo": "803053-7",
+      "displayName": "BMW C 600 Sport",
+      "valorAtual": 41195,
+      "canonicalPath": "/fipe/bmw/c-600-sport-2014-803053-7/",
+      "ano": 2014,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-c-650-gt-2014-gasolina",
+      "fipeCodigo": "803057-0",
+      "displayName": "BMW C 650 GT",
+      "valorAtual": 43084,
+      "canonicalPath": "/fipe/bmw/c-650-gt-2014-803057-0/",
+      "ano": 2014,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-c-600-sport-2013-gasolina",
+      "fipeCodigo": "803053-7",
+      "displayName": "BMW C 600 Sport",
+      "valorAtual": 37161,
+      "canonicalPath": "/fipe/bmw/c-600-sport-2013-803053-7/",
+      "ano": 2013,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-c-400-x-sport-0-gasolina",
+      "fipeCodigo": "803100-2",
+      "displayName": "BMW C 400 X Sport",
+      "valorAtual": 62780,
+      "canonicalPath": "/fipe/bmw/c-400-x-sport-0-803100-2/",
+      "ano": 0,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-c-400-x-0-gasolina",
+      "fipeCodigo": "803101-0",
+      "displayName": "BMW C 400 X",
+      "valorAtual": 64574,
+      "canonicalPath": "/fipe/bmw/c-400-x-0-803101-0/",
+      "ano": 0,
+      "marca": "BMW"
+    }
+  ],
+  "stats": {
+    "total": 11,
+    "precoMin": 37161,
+    "precoMax": 64574,
+    "anos": [
+      2026,
+      2025,
+      2024,
+      2015,
+      2014,
+      2013,
+      0
+    ]
+  }
+}

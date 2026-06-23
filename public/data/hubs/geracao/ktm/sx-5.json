@@ -1,0 +1,129 @@
+{
+  "tipo": "geracao",
+  "slug": "sx-5",
+  "canonicalPath": "/geracao/ktm/sx-5/",
+  "titulo": "Geracao sx-5",
+  "descricao": "12 veiculos da geracao sx-5.",
+  "seo": {
+    "title": "Geracao sx-5 - Precos FIPE",
+    "description": "Veiculos da geracao sx-5 na Tabela FIPE.",
+    "h1": "Geracao sx-5",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/ktm/sx-5/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "ktm-sx-250-sx-250-f-2023-gasolina",
+      "fipeCodigo": "818009-1",
+      "displayName": "KTM SX 250/ SX 250 F",
+      "valorAtual": 51289,
+      "canonicalPath": "/fipe/ktm/sx-250-sx-250-f-2023-818009-1/",
+      "ano": 2023,
+      "marca": "KTM"
+    },
+    {
+      "vehicleId": "ktm-sx-250-sx-250-f-2024-gasolina",
+      "fipeCodigo": "818009-1",
+      "displayName": "KTM SX 250/ SX 250 F",
+      "valorAtual": 57519,
+      "canonicalPath": "/fipe/ktm/sx-250-sx-250-f-2024-818009-1/",
+      "ano": 2024,
+      "marca": "KTM"
+    },
+    {
+      "vehicleId": "ktm-sx-250-sx-250-f-2025-gasolina",
+      "fipeCodigo": "818009-1",
+      "displayName": "KTM SX 250/ SX 250 F",
+      "valorAtual": 64329,
+      "canonicalPath": "/fipe/ktm/sx-250-sx-250-f-2025-818009-1/",
+      "ano": 2025,
+      "marca": "KTM"
+    },
+    {
+      "vehicleId": "ktm-sx-250-sx-250-f-2026-gasolina",
+      "fipeCodigo": "818009-1",
+      "displayName": "KTM SX 250/ SX 250 F",
+      "valorAtual": 68846,
+      "canonicalPath": "/fipe/ktm/sx-250-sx-250-f-2026-818009-1/",
+      "ano": 2026,
+      "marca": "KTM"
+    },
+    {
+      "vehicleId": "ktm-sx-300-2025-gasolina",
+      "fipeCodigo": "818054-7",
+      "displayName": "KTM SX 300",
+      "valorAtual": 70070,
+      "canonicalPath": "/fipe/ktm/sx-300-2025-818054-7/",
+      "ano": 2025,
+      "marca": "KTM"
+    },
+    {
+      "vehicleId": "ktm-sx-300-2026-gasolina",
+      "fipeCodigo": "818054-7",
+      "displayName": "KTM SX 300",
+      "valorAtual": 73028,
+      "canonicalPath": "/fipe/ktm/sx-300-2026-818054-7/",
+      "ano": 2026,
+      "marca": "KTM"
+    },
+    {
+      "vehicleId": "ktm-sx-350-350-f-2026-gasolina",
+      "fipeCodigo": "818034-2",
+      "displayName": "KTM SX 350 / 350 F",
+      "valorAtual": 75940,
+      "canonicalPath": "/fipe/ktm/sx-350-350-f-2026-818034-2/",
+      "ano": 2026,
+      "marca": "KTM"
+    },
+    {
+      "vehicleId": "ktm-sx-450-sx-450f-2024-gasolina",
+      "fipeCodigo": "818022-9",
+      "displayName": "KTM SX 450/ SX 450F",
+      "valorAtual": 65127,
+      "canonicalPath": "/fipe/ktm/sx-450-sx-450f-2024-818022-9/",
+      "ano": 2024,
+      "marca": "KTM"
+    },
+    {
+      "vehicleId": "ktm-sx-450-sx-450f-2025-gasolina",
+      "fipeCodigo": "818022-9",
+      "displayName": "KTM SX 450/ SX 450F",
+      "valorAtual": 72750,
+      "canonicalPath": "/fipe/ktm/sx-450-sx-450f-2025-818022-9/",
+      "ano": 2025,
+      "marca": "KTM"
+    },
+    {
+      "vehicleId": "ktm-sx-450-sx-450f-2026-gasolina",
+      "fipeCodigo": "818022-9",
+      "displayName": "KTM SX 450/ SX 450F",
+      "valorAtual": 77756,
+      "canonicalPath": "/fipe/ktm/sx-450-sx-450f-2026-818022-9/",
+      "ano": 2026,
+      "marca": "KTM"
+    },
+    {
+      "vehicleId": "ktm-sx-65-2025-gasolina",
+      "fipeCodigo": "818005-9",
+      "displayName": "KTM SX 65",
+      "valorAtual": 43498,
+      "canonicalPath": "/fipe/ktm/sx-65-2025-818005-9/",
+      "ano": 2025,
+      "marca": "KTM"
+    },
+    {
+      "vehicleId": "ktm-sx-65-2026-gasolina",
+      "fipeCodigo": "818005-9",
+      "displayName": "KTM SX 65",
+      "valorAtual": 45249,
+      "canonicalPath": "/fipe/ktm/sx-65-2026-818005-9/",
+      "ano": 2026,
+      "marca": "KTM"
+    }
+  ],
+  "stats": {
+    "total": 12
+  },
+  "meta": {
+    "geracaoId": "sx-5"
+  }
+}

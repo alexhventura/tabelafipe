@@ -1,0 +1,61 @@
+{
+  "tipo": "familia",
+  "slug": "c40",
+  "canonicalPath": "/fipe/volvo/c40/",
+  "titulo": "Volvo c40 - Tabela FIPE",
+  "descricao": "4 versoes e anos do Volvo c40 na Tabela FIPE.",
+  "seo": {
+    "title": "Volvo c40 - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes Volvo c40. 4 veiculos indexados.",
+    "h1": "Volvo c40 - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/volvo/c40/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "volvo-c40-recharge-plus-eletrico-2024-eletrico",
+      "fipeCodigo": "029163-3",
+      "displayName": "Volvo C40 Recharge Plus (Elétrico)",
+      "valorAtual": 219223,
+      "canonicalPath": "/fipe/volvo/c40-recharge-plus-eletrico-2024-029163-3/",
+      "ano": 2024,
+      "marca": "Volvo"
+    },
+    {
+      "vehicleId": "volvo-c40-twin-ultimate-eletrico-2024-eletrico",
+      "fipeCodigo": "029160-9",
+      "displayName": "Volvo C40 Twin Ultimate (Elétrico)",
+      "valorAtual": 243956,
+      "canonicalPath": "/fipe/volvo/c40-twin-ultimate-eletrico-2024-029160-9/",
+      "ano": 2024,
+      "marca": "Volvo"
+    },
+    {
+      "vehicleId": "volvo-c40-twin-ultimate-eletrico-2023-eletrico",
+      "fipeCodigo": "029160-9",
+      "displayName": "Volvo C40 Twin Ultimate (Elétrico)",
+      "valorAtual": 215075,
+      "canonicalPath": "/fipe/volvo/c40-twin-ultimate-eletrico-2023-029160-9/",
+      "ano": 2023,
+      "marca": "Volvo"
+    },
+    {
+      "vehicleId": "volvo-c40-pure-eletrico-2022-eletrico",
+      "fipeCodigo": "029152-8",
+      "displayName": "Volvo C40 Pure  (Elétrico)",
+      "valorAtual": 206348,
+      "canonicalPath": "/fipe/volvo/c40-pure-eletrico-2022-029152-8/",
+      "ano": 2022,
+      "marca": "Volvo"
+    }
+  ],
+  "stats": {
+    "total": 4,
+    "precoMin": 206348,
+    "precoMax": 243956,
+    "anos": [
+      2024,
+      2023,
+      2022
+    ]
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "tipo": "familia",
+  "slug": "tunland",
+  "canonicalPath": "/fipe/foton/tunland/",
+  "titulo": "FOTON tunland - Tabela FIPE",
+  "descricao": "4 versoes e anos do FOTON tunland na Tabela FIPE.",
+  "seo": {
+    "title": "FOTON tunland - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes FOTON tunland. 4 veiculos indexados.",
+    "h1": "FOTON tunland - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/foton/tunland/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "foton-tunland-v7-2-0-4x4-tb-diesel-aut-hib-2026-hibrido",
+      "fipeCodigo": "086014-0",
+      "displayName": "FOTON TUNLAND V7 2.0 4x4 TB Diesel Aut. (Híb.)",
+      "valorAtual": 256902,
+      "canonicalPath": "/fipe/foton/tunland-v7-2-0-4x4-tb-diesel-aut-hib-2026-086014-0/",
+      "ano": 2026,
+      "marca": "FOTON"
+    },
+    {
+      "vehicleId": "foton-tunland-v9-2-0-4x4-tb-diesel-aut-hib-2026-hibrido",
+      "fipeCodigo": "086015-8",
+      "displayName": "FOTON TUNLAND V9 2.0 4x4 TB Diesel Aut. (Híb.)",
+      "valorAtual": 289255,
+      "canonicalPath": "/fipe/foton/tunland-v9-2-0-4x4-tb-diesel-aut-hib-2026-086015-8/",
+      "ano": 2026,
+      "marca": "FOTON"
+    },
+    {
+      "vehicleId": "foton-tunland-v7-2-0-4x4-tb-diesel-aut-hib-0-hibrido",
+      "fipeCodigo": "086014-0",
+      "displayName": "FOTON TUNLAND V7 2.0 4x4 TB Diesel Aut. (Híb.)",
+      "valorAtual": 291933,
+      "canonicalPath": "/fipe/foton/tunland-v7-2-0-4x4-tb-diesel-aut-hib-0-086014-0/",
+      "ano": 0,
+      "marca": "FOTON"
+    },
+    {
+      "vehicleId": "foton-tunland-v9-2-0-4x4-tb-diesel-aut-hib-0-hibrido",
+      "fipeCodigo": "086015-8",
+      "displayName": "FOTON TUNLAND V9 2.0 4x4 TB Diesel Aut. (Híb.)",
+      "valorAtual": 312926,
+      "canonicalPath": "/fipe/foton/tunland-v9-2-0-4x4-tb-diesel-aut-hib-0-086015-8/",
+      "ano": 0,
+      "marca": "FOTON"
+    }
+  ],
+  "stats": {
+    "total": 4,
+    "precoMin": 256902,
+    "precoMax": 312926,
+    "anos": [
+      2026,
+      0
+    ]
+  }
+}

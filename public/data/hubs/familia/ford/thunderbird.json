@@ -1,0 +1,82 @@
+{
+  "tipo": "familia",
+  "slug": "thunderbird",
+  "canonicalPath": "/fipe/ford/thunderbird/",
+  "titulo": "Ford thunderbird - Tabela FIPE",
+  "descricao": "6 versoes e anos do Ford thunderbird na Tabela FIPE.",
+  "seo": {
+    "title": "Ford thunderbird - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes Ford thunderbird. 6 veiculos indexados.",
+    "h1": "Ford thunderbird - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/ford/thunderbird/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "ford-thunderbird-sc-3-8-v6-1995-gasolina",
+      "fipeCodigo": "003184-4",
+      "displayName": "Ford Thunderbird SC 3.8 V6",
+      "valorAtual": 31244,
+      "canonicalPath": "/fipe/ford/thunderbird-sc-3-8-v6-1995-003184-4/",
+      "ano": 1995,
+      "marca": "Ford"
+    },
+    {
+      "vehicleId": "ford-thunderbird-sc-3-8-v6-1994-gasolina",
+      "fipeCodigo": "003184-4",
+      "displayName": "Ford Thunderbird SC 3.8 V6",
+      "valorAtual": 22550,
+      "canonicalPath": "/fipe/ford/thunderbird-sc-3-8-v6-1994-003184-4/",
+      "ano": 1994,
+      "marca": "Ford"
+    },
+    {
+      "vehicleId": "ford-thunderbird-sc-3-8-v6-1993-gasolina",
+      "fipeCodigo": "003184-4",
+      "displayName": "Ford Thunderbird SC 3.8 V6",
+      "valorAtual": 20818,
+      "canonicalPath": "/fipe/ford/thunderbird-sc-3-8-v6-1993-003184-4/",
+      "ano": 1993,
+      "marca": "Ford"
+    },
+    {
+      "vehicleId": "ford-thunderbird-sc-3-8-v6-1992-gasolina",
+      "fipeCodigo": "003184-4",
+      "displayName": "Ford Thunderbird SC 3.8 V6",
+      "valorAtual": 20310,
+      "canonicalPath": "/fipe/ford/thunderbird-sc-3-8-v6-1992-003184-4/",
+      "ano": 1992,
+      "marca": "Ford"
+    },
+    {
+      "vehicleId": "ford-thunderbird-sc-3-8-v6-1991-gasolina",
+      "fipeCodigo": "003184-4",
+      "displayName": "Ford Thunderbird SC 3.8 V6",
+      "valorAtual": 19814,
+      "canonicalPath": "/fipe/ford/thunderbird-sc-3-8-v6-1991-003184-4/",
+      "ano": 1991,
+      "marca": "Ford"
+    },
+    {
+      "vehicleId": "ford-thunderbird-sc-3-8-v6-1990-gasolina",
+      "fipeCodigo": "003184-4",
+      "displayName": "Ford Thunderbird SC 3.8 V6",
+      "valorAtual": 16647,
+      "canonicalPath": "/fipe/ford/thunderbird-sc-3-8-v6-1990-003184-4/",
+      "ano": 1990,
+      "marca": "Ford"
+    }
+  ],
+  "stats": {
+    "total": 6,
+    "precoMin": 16647,
+    "precoMax": 31244,
+    "anos": [
+      1995,
+      1994,
+      1993,
+      1992,
+      1991,
+      1990
+    ]
+  }
+}

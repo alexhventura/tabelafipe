@@ -1,0 +1,66 @@
+{
+  "tipo": "geracao",
+  "slug": "action-1",
+  "canonicalPath": "/geracao/iros/action-1/",
+  "titulo": "Geracao action-1",
+  "descricao": "5 veiculos da geracao action-1.",
+  "seo": {
+    "title": "Geracao action-1 - Precos FIPE",
+    "description": "Veiculos da geracao action-1 na Tabela FIPE.",
+    "h1": "Geracao action-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/iros/action-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "iros-action-100-es-2009-gasolina",
+      "fipeCodigo": "867001-3",
+      "displayName": "IROS ACTION 100 ES",
+      "valorAtual": 1473,
+      "canonicalPath": "/fipe/iros/action-100-es-2009-867001-3/",
+      "ano": 2009,
+      "marca": "IROS"
+    },
+    {
+      "vehicleId": "iros-action-100-es-2010-gasolina",
+      "fipeCodigo": "867001-3",
+      "displayName": "IROS ACTION 100 ES",
+      "valorAtual": 1617,
+      "canonicalPath": "/fipe/iros/action-100-es-2010-867001-3/",
+      "ano": 2010,
+      "marca": "IROS"
+    },
+    {
+      "vehicleId": "iros-action-100-es-2011-gasolina",
+      "fipeCodigo": "867001-3",
+      "displayName": "IROS ACTION 100 ES",
+      "valorAtual": 2103,
+      "canonicalPath": "/fipe/iros/action-100-es-2011-867001-3/",
+      "ano": 2011,
+      "marca": "IROS"
+    },
+    {
+      "vehicleId": "iros-action-100-es-2012-gasolina",
+      "fipeCodigo": "867001-3",
+      "displayName": "IROS ACTION 100 ES",
+      "valorAtual": 2156,
+      "canonicalPath": "/fipe/iros/action-100-es-2012-867001-3/",
+      "ano": 2012,
+      "marca": "IROS"
+    },
+    {
+      "vehicleId": "iros-action-100-esa-2009-gasolina",
+      "fipeCodigo": "867002-1",
+      "displayName": "IROS ACTION 100 ESA",
+      "valorAtual": 1581,
+      "canonicalPath": "/fipe/iros/action-100-esa-2009-867002-1/",
+      "ano": 2009,
+      "marca": "IROS"
+    }
+  ],
+  "stats": {
+    "total": 5
+  },
+  "meta": {
+    "geracaoId": "action-1"
+  }
+}

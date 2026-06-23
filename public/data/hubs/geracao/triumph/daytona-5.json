@@ -1,0 +1,75 @@
+{
+  "tipo": "geracao",
+  "slug": "daytona-5",
+  "canonicalPath": "/geracao/triumph/daytona-5/",
+  "titulo": "Geracao daytona-5",
+  "descricao": "6 veiculos da geracao daytona-5.",
+  "seo": {
+    "title": "Geracao daytona-5 - Precos FIPE",
+    "description": "Veiculos da geracao daytona-5 na Tabela FIPE.",
+    "h1": "Geracao daytona-5",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/triumph/daytona-5/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "triumph-daytona-675r-2013-gasolina",
+      "fipeCodigo": "826039-7",
+      "displayName": "TRIUMPH DAYTONA 675R",
+      "valorAtual": 37435,
+      "canonicalPath": "/fipe/triumph/daytona-675r-2013-826039-7/",
+      "ano": 2013,
+      "marca": "TRIUMPH"
+    },
+    {
+      "vehicleId": "triumph-daytona-675r-2014-gasolina",
+      "fipeCodigo": "826039-7",
+      "displayName": "TRIUMPH DAYTONA 675R",
+      "valorAtual": 38371,
+      "canonicalPath": "/fipe/triumph/daytona-675r-2014-826039-7/",
+      "ano": 2014,
+      "marca": "TRIUMPH"
+    },
+    {
+      "vehicleId": "triumph-daytona-675r-2015-gasolina",
+      "fipeCodigo": "826039-7",
+      "displayName": "TRIUMPH DAYTONA 675R",
+      "valorAtual": 39536,
+      "canonicalPath": "/fipe/triumph/daytona-675r-2015-826039-7/",
+      "ano": 2015,
+      "marca": "TRIUMPH"
+    },
+    {
+      "vehicleId": "triumph-daytona-675r-2016-gasolina",
+      "fipeCodigo": "826039-7",
+      "displayName": "TRIUMPH DAYTONA 675R",
+      "valorAtual": 43471,
+      "canonicalPath": "/fipe/triumph/daytona-675r-2016-826039-7/",
+      "ano": 2016,
+      "marca": "TRIUMPH"
+    },
+    {
+      "vehicleId": "triumph-daytona-675i-2014-gasolina",
+      "fipeCodigo": "826030-3",
+      "displayName": "TRIUMPH DAYTONA 675i",
+      "valorAtual": 35392,
+      "canonicalPath": "/fipe/triumph/daytona-675i-2014-826030-3/",
+      "ano": 2014,
+      "marca": "TRIUMPH"
+    },
+    {
+      "vehicleId": "triumph-daytona-675i-2015-gasolina",
+      "fipeCodigo": "826030-3",
+      "displayName": "TRIUMPH DAYTONA 675i",
+      "valorAtual": 37760,
+      "canonicalPath": "/fipe/triumph/daytona-675i-2015-826030-3/",
+      "ano": 2015,
+      "marca": "TRIUMPH"
+    }
+  ],
+  "stats": {
+    "total": 6
+  },
+  "meta": {
+    "geracaoId": "daytona-5"
+  }
+}

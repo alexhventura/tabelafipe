@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "q7-3",
+  "canonicalPath": "/geracao/audi/q7-3/",
+  "titulo": "Geracao q7-3",
+  "descricao": "2 veiculos da geracao q7-3.",
+  "seo": {
+    "title": "Geracao q7-3 - Precos FIPE",
+    "description": "Veiculos da geracao q7-3 na Tabela FIPE.",
+    "h1": "Geracao q7-3",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/audi/q7-3/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "audi-q7-s-line-3-0-v6-tfsi-qua-tip-hib-2025-hibrido",
+      "fipeCodigo": "008308-9",
+      "displayName": "Audi Q7 S-Line 3.0 V6 TFSI Qua. Tip. (Híb.)",
+      "valorAtual": 576319,
+      "canonicalPath": "/fipe/audi/q7-s-line-3-0-v6-tfsi-qua-tip-hib-2025-008308-9/",
+      "ano": 2025,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-q7-s-line-3-0-v6-tfsi-qua-tip-hib-2026-hibrido",
+      "fipeCodigo": "008308-9",
+      "displayName": "Audi Q7 S-Line 3.0 V6 TFSI Qua. Tip. (Híb.)",
+      "valorAtual": 626975,
+      "canonicalPath": "/fipe/audi/q7-s-line-3-0-v6-tfsi-qua-tip-hib-2026-008308-9/",
+      "ano": 2026,
+      "marca": "Audi"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "q7-3"
+  }
+}

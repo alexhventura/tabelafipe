@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "2300-1",
+  "canonicalPath": "/geracao/alfa-romeo/2300-1/",
+  "titulo": "Geracao 2300-1",
+  "descricao": "2 veiculos da geracao 2300-1.",
+  "seo": {
+    "title": "Geracao 2300-1 - Precos FIPE",
+    "description": "Veiculos da geracao 2300-1 na Tabela FIPE.",
+    "h1": "Geracao 2300-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/alfa-romeo/2300-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "alfa-romeo-2300-ti-ti-4-1985-gasolina",
+      "fipeCodigo": "006013-5",
+      "displayName": "Alfa Romeo 2300 TI/TI-4",
+      "valorAtual": 6976,
+      "canonicalPath": "/fipe/alfa-romeo/2300-ti-ti-4-1985-006013-5/",
+      "ano": 1985,
+      "marca": "Alfa Romeo"
+    },
+    {
+      "vehicleId": "alfa-romeo-2300-ti-ti-4-1986-gasolina",
+      "fipeCodigo": "006013-5",
+      "displayName": "Alfa Romeo 2300 TI/TI-4",
+      "valorAtual": 7866,
+      "canonicalPath": "/fipe/alfa-romeo/2300-ti-ti-4-1986-006013-5/",
+      "ano": 1986,
+      "marca": "Alfa Romeo"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "2300-1"
+  }
+}

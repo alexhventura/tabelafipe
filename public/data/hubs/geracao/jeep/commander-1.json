@@ -1,0 +1,111 @@
+{
+  "tipo": "geracao",
+  "slug": "commander-1",
+  "canonicalPath": "/geracao/jeep/commander-1/",
+  "titulo": "Geracao commander-1",
+  "descricao": "10 veiculos da geracao commander-1.",
+  "seo": {
+    "title": "Geracao commander-1 - Precos FIPE",
+    "description": "Veiculos da geracao commander-1 na Tabela FIPE.",
+    "h1": "Geracao commander-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/jeep/commander-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "jeep-commander-black-hurricane-2-0-4x4-tb-aut-0-gasolina",
+      "fipeCodigo": "017099-2",
+      "displayName": "Jeep Commander Black Hurricane 2.0 4x4 TB Aut",
+      "valorAtual": 323462,
+      "canonicalPath": "/fipe/jeep/commander-black-hurricane-2-0-4x4-tb-aut-0-017099-2/",
+      "ano": 0,
+      "marca": "Jeep"
+    },
+    {
+      "vehicleId": "jeep-commander-black-hurricane-2-0-4x4-tb-flex-aut-0-flex",
+      "fipeCodigo": "017111-5",
+      "displayName": "Jeep Commander Black Hurricane 2.0 4x4 TB Flex Aut.",
+      "valorAtual": 329990,
+      "canonicalPath": "/fipe/jeep/commander-black-hurricane-2-0-4x4-tb-flex-aut-0-017111-5/",
+      "ano": 0,
+      "marca": "Jeep"
+    },
+    {
+      "vehicleId": "jeep-commander-limited-t270-1-3-tb-aut-0-hibrido",
+      "fipeCodigo": "017110-7",
+      "displayName": "Jeep Commander Limited T270 1.3 TB Aut.",
+      "valorAtual": 251893,
+      "canonicalPath": "/fipe/jeep/commander-limited-t270-1-3-tb-aut-0-017110-7/",
+      "ano": 0,
+      "marca": "Jeep"
+    },
+    {
+      "vehicleId": "jeep-commander-limited-t270-1-3-tb-flex-aut-0-flex",
+      "fipeCodigo": "017081-0",
+      "displayName": "Jeep Commander Limited T270 1.3 TB Flex Aut.",
+      "valorAtual": 249374,
+      "canonicalPath": "/fipe/jeep/commander-limited-t270-1-3-tb-flex-aut-0-017081-0/",
+      "ano": 0,
+      "marca": "Jeep"
+    },
+    {
+      "vehicleId": "jeep-commander-longitude-t270-1-3-tb-flex-aut-0-flex",
+      "fipeCodigo": "017093-3",
+      "displayName": "Jeep Commander Longitude T270 1.3 TB Flex Aut",
+      "valorAtual": 205547,
+      "canonicalPath": "/fipe/jeep/commander-longitude-t270-1-3-tb-flex-aut-0-017093-3/",
+      "ano": 0,
+      "marca": "Jeep"
+    },
+    {
+      "vehicleId": "jeep-commander-overl-2-2-td-4x4-diesel-aut-0-diesel",
+      "fipeCodigo": "017104-2",
+      "displayName": "Jeep Commander Overl. 2.2 TD 4x4 Diesel Aut.",
+      "valorAtual": 314833,
+      "canonicalPath": "/fipe/jeep/commander-overl-2-2-td-4x4-diesel-aut-0-017104-2/",
+      "ano": 0,
+      "marca": "Jeep"
+    },
+    {
+      "vehicleId": "jeep-commander-overl-td380-2-0-4x4-die-aut-0-diesel",
+      "fipeCodigo": "017083-6",
+      "displayName": "Jeep Commander Overl. TD380 2.0 4x4 Die. Aut.",
+      "valorAtual": 297234,
+      "canonicalPath": "/fipe/jeep/commander-overl-td380-2-0-4x4-die-aut-0-017083-6/",
+      "ano": 0,
+      "marca": "Jeep"
+    },
+    {
+      "vehicleId": "jeep-commander-overland-hurric-2-0-4x4-tb-aut-0-gasolina",
+      "fipeCodigo": "017098-4",
+      "displayName": "Jeep Commander Overland Hurric 2.0 4x4 TB Aut",
+      "valorAtual": 288004,
+      "canonicalPath": "/fipe/jeep/commander-overland-hurric-2-0-4x4-tb-aut-0-017098-4/",
+      "ano": 0,
+      "marca": "Jeep"
+    },
+    {
+      "vehicleId": "jeep-commander-overland-t270-1-3-tb-flex-aut-0-flex",
+      "fipeCodigo": "017082-8",
+      "displayName": "Jeep Commander Overland T270 1.3 TB Flex Aut.",
+      "valorAtual": 280100,
+      "canonicalPath": "/fipe/jeep/commander-overland-t270-1-3-tb-flex-aut-0-017082-8/",
+      "ano": 0,
+      "marca": "Jeep"
+    },
+    {
+      "vehicleId": "jeep-commander-overland-t270-1-3-turbo-aut-0-hibrido",
+      "fipeCodigo": "017109-3",
+      "displayName": "Jeep Commander Overland T270 1.3 Turbo Aut.",
+      "valorAtual": 283813,
+      "canonicalPath": "/fipe/jeep/commander-overland-t270-1-3-turbo-aut-0-017109-3/",
+      "ano": 0,
+      "marca": "Jeep"
+    }
+  ],
+  "stats": {
+    "total": 10
+  },
+  "meta": {
+    "geracaoId": "commander-1"
+  }
+}

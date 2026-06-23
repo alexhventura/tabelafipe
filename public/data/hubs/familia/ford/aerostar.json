@@ -1,0 +1,82 @@
+{
+  "tipo": "familia",
+  "slug": "aerostar",
+  "canonicalPath": "/fipe/ford/aerostar/",
+  "titulo": "Ford aerostar - Tabela FIPE",
+  "descricao": "6 versoes e anos do Ford aerostar na Tabela FIPE.",
+  "seo": {
+    "title": "Ford aerostar - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes Ford aerostar. 6 veiculos indexados.",
+    "h1": "Ford aerostar - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/ford/aerostar/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "ford-aerostar-mini-van-3-8-1995-gasolina",
+      "fipeCodigo": "003118-6",
+      "displayName": "Ford Aerostar Mini-Van 3.8",
+      "valorAtual": 14607,
+      "canonicalPath": "/fipe/ford/aerostar-mini-van-3-8-1995-003118-6/",
+      "ano": 1995,
+      "marca": "Ford"
+    },
+    {
+      "vehicleId": "ford-aerostar-mini-van-3-8-1994-gasolina",
+      "fipeCodigo": "003118-6",
+      "displayName": "Ford Aerostar Mini-Van 3.8",
+      "valorAtual": 12671,
+      "canonicalPath": "/fipe/ford/aerostar-mini-van-3-8-1994-003118-6/",
+      "ano": 1994,
+      "marca": "Ford"
+    },
+    {
+      "vehicleId": "ford-aerostar-mini-van-3-8-1993-gasolina",
+      "fipeCodigo": "003118-6",
+      "displayName": "Ford Aerostar Mini-Van 3.8",
+      "valorAtual": 12361,
+      "canonicalPath": "/fipe/ford/aerostar-mini-van-3-8-1993-003118-6/",
+      "ano": 1993,
+      "marca": "Ford"
+    },
+    {
+      "vehicleId": "ford-aerostar-mini-van-3-8-1992-gasolina",
+      "fipeCodigo": "003118-6",
+      "displayName": "Ford Aerostar Mini-Van 3.8",
+      "valorAtual": 11636,
+      "canonicalPath": "/fipe/ford/aerostar-mini-van-3-8-1992-003118-6/",
+      "ano": 1992,
+      "marca": "Ford"
+    },
+    {
+      "vehicleId": "ford-aerostar-mini-van-3-8-1991-gasolina",
+      "fipeCodigo": "003118-6",
+      "displayName": "Ford Aerostar Mini-Van 3.8",
+      "valorAtual": 11173,
+      "canonicalPath": "/fipe/ford/aerostar-mini-van-3-8-1991-003118-6/",
+      "ano": 1991,
+      "marca": "Ford"
+    },
+    {
+      "vehicleId": "ford-aerostar-mini-van-3-8-1990-gasolina",
+      "fipeCodigo": "003118-6",
+      "displayName": "Ford Aerostar Mini-Van 3.8",
+      "valorAtual": 9592,
+      "canonicalPath": "/fipe/ford/aerostar-mini-van-3-8-1990-003118-6/",
+      "ano": 1990,
+      "marca": "Ford"
+    }
+  ],
+  "stats": {
+    "total": 6,
+    "precoMin": 9592,
+    "precoMax": 14607,
+    "anos": [
+      1995,
+      1994,
+      1993,
+      1992,
+      1991,
+      1990
+    ]
+  }
+}

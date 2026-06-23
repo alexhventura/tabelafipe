@@ -1,0 +1,48 @@
+{
+  "tipo": "geracao",
+  "slug": "dk-1",
+  "canonicalPath": "/geracao/haojue/dk-1/",
+  "titulo": "Geracao dk-1",
+  "descricao": "3 veiculos da geracao dk-1.",
+  "seo": {
+    "title": "Geracao dk-1 - Precos FIPE",
+    "description": "Veiculos da geracao dk-1 na Tabela FIPE.",
+    "h1": "Geracao dk-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/haojue/dk-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "haojue-dk-150-0-gasolina",
+      "fipeCodigo": "885004-6",
+      "displayName": "HAOJUE DK 150",
+      "valorAtual": 15778,
+      "canonicalPath": "/fipe/haojue/dk-150-0-885004-6/",
+      "ano": 0,
+      "marca": "HAOJUE"
+    },
+    {
+      "vehicleId": "haojue-dk-160-0-gasolina",
+      "fipeCodigo": "885011-9",
+      "displayName": "HAOJUE DK 160",
+      "valorAtual": 16611,
+      "canonicalPath": "/fipe/haojue/dk-160-0-885011-9/",
+      "ano": 0,
+      "marca": "HAOJUE"
+    },
+    {
+      "vehicleId": "haojue-dk-160-s-0-gasolina",
+      "fipeCodigo": "885012-7",
+      "displayName": "HAOJUE DK 160 S",
+      "valorAtual": 17654,
+      "canonicalPath": "/fipe/haojue/dk-160-s-0-885012-7/",
+      "ano": 0,
+      "marca": "HAOJUE"
+    }
+  ],
+  "stats": {
+    "total": 3
+  },
+  "meta": {
+    "geracaoId": "dk-1"
+  }
+}

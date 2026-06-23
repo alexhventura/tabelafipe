@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "26-1",
+  "canonicalPath": "/geracao/volkswagen/26-1/",
+  "titulo": "Geracao 26-1",
+  "descricao": "2 veiculos da geracao 26-1.",
+  "seo": {
+    "title": "Geracao 26-1 - Precos FIPE",
+    "description": "Veiculos da geracao 26-1 na Tabela FIPE.",
+    "h1": "Geracao 26-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/volkswagen/26-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "volkswagen-26-260-constellation-6x2-2p-diesel-e6-0-diesel",
+      "fipeCodigo": "515193-7",
+      "displayName": "VOLKSWAGEN 26-260 Constellation 6x2 2p (diesel)(E6)",
+      "valorAtual": 584700,
+      "canonicalPath": "/fipe/volkswagen/26-260-constellation-6x2-2p-diesel-e6-0-515193-7/",
+      "ano": 0,
+      "marca": "VOLKSWAGEN"
+    },
+    {
+      "vehicleId": "volkswagen-26-320-constellation-6x2-2p-diesel-e6-0-diesel",
+      "fipeCodigo": "515194-5",
+      "displayName": "VOLKSWAGEN 26-320 Constellation 6x2 2p (diesel)(E6)",
+      "valorAtual": 666200,
+      "canonicalPath": "/fipe/volkswagen/26-320-constellation-6x2-2p-diesel-e6-0-515194-5/",
+      "ano": 0,
+      "marca": "VOLKSWAGEN"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "26-1"
+  }
+}

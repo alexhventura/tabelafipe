@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "exc-2",
+  "canonicalPath": "/geracao/ktm/exc-2/",
+  "titulo": "Geracao exc-2",
+  "descricao": "2 veiculos da geracao exc-2.",
+  "seo": {
+    "title": "Geracao exc-2 - Precos FIPE",
+    "description": "Veiculos da geracao exc-2 na Tabela FIPE.",
+    "h1": "Geracao exc-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/ktm/exc-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "ktm-exc-250-1994-gasolina",
+      "fipeCodigo": "818010-5",
+      "displayName": "KTM EXC 250",
+      "valorAtual": 5717,
+      "canonicalPath": "/fipe/ktm/exc-250-1994-818010-5/",
+      "ano": 1994,
+      "marca": "KTM"
+    },
+    {
+      "vehicleId": "ktm-exc-250-1995-gasolina",
+      "fipeCodigo": "818010-5",
+      "displayName": "KTM EXC 250",
+      "valorAtual": 6521,
+      "canonicalPath": "/fipe/ktm/exc-250-1995-818010-5/",
+      "ano": 1995,
+      "marca": "KTM"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "exc-2"
+  }
+}

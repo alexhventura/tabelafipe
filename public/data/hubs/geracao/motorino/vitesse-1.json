@@ -1,0 +1,48 @@
+{
+  "tipo": "geracao",
+  "slug": "vitesse-1",
+  "canonicalPath": "/geracao/motorino/vitesse-1/",
+  "titulo": "Geracao vitesse-1",
+  "descricao": "3 veiculos da geracao vitesse-1.",
+  "seo": {
+    "title": "Geracao vitesse-1 - Precos FIPE",
+    "description": "Veiculos da geracao vitesse-1 na Tabela FIPE.",
+    "h1": "Geracao vitesse-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/motorino/vitesse-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "motorino-vitesse-150cc-2013-gasolina",
+      "fipeCodigo": "881012-5",
+      "displayName": "MOTORINO Vitesse 150cc",
+      "valorAtual": 5973,
+      "canonicalPath": "/fipe/motorino/vitesse-150cc-2013-881012-5/",
+      "ano": 2013,
+      "marca": "MOTORINO"
+    },
+    {
+      "vehicleId": "motorino-vitesse-150cc-2014-gasolina",
+      "fipeCodigo": "881012-5",
+      "displayName": "MOTORINO Vitesse 150cc",
+      "valorAtual": 6621,
+      "canonicalPath": "/fipe/motorino/vitesse-150cc-2014-881012-5/",
+      "ano": 2014,
+      "marca": "MOTORINO"
+    },
+    {
+      "vehicleId": "motorino-vitesse-150cc-2015-gasolina",
+      "fipeCodigo": "881012-5",
+      "displayName": "MOTORINO Vitesse 150cc",
+      "valorAtual": 7576,
+      "canonicalPath": "/fipe/motorino/vitesse-150cc-2015-881012-5/",
+      "ano": 2015,
+      "marca": "MOTORINO"
+    }
+  ],
+  "stats": {
+    "total": 3
+  },
+  "meta": {
+    "geracaoId": "vitesse-1"
+  }
+}

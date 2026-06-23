@@ -1,0 +1,61 @@
+{
+  "tipo": "familia",
+  "slug": "durango",
+  "canonicalPath": "/fipe/dodge/durango/",
+  "titulo": "Dodge durango - Tabela FIPE",
+  "descricao": "4 versoes e anos do Dodge durango na Tabela FIPE.",
+  "seo": {
+    "title": "Dodge durango - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes Dodge durango. 4 veiculos indexados.",
+    "h1": "Dodge durango - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/dodge/durango/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "dodge-durango-limited-3-6-24v-4x4-aut-2015-gasolina",
+      "fipeCodigo": "013038-9",
+      "displayName": "Dodge Durango Limited 3.6 24V 4x4 Aut.",
+      "valorAtual": 143505,
+      "canonicalPath": "/fipe/dodge/durango-limited-3-6-24v-4x4-aut-2015-013038-9/",
+      "ano": 2015,
+      "marca": "Dodge"
+    },
+    {
+      "vehicleId": "dodge-durango-crew-3-6-24v-4x4-aut-2013-gasolina",
+      "fipeCodigo": "013035-4",
+      "displayName": "Dodge Durango Crew 3.6 24V 4x4 Aut.",
+      "valorAtual": 84311,
+      "canonicalPath": "/fipe/dodge/durango-crew-3-6-24v-4x4-aut-2013-013035-4/",
+      "ano": 2013,
+      "marca": "Dodge"
+    },
+    {
+      "vehicleId": "dodge-durango-citadel-3-6-24v-4x4-aut-2013-gasolina",
+      "fipeCodigo": "013034-6",
+      "displayName": "Dodge Durango Citadel 3.6 24V 4x4 Aut.",
+      "valorAtual": 92195,
+      "canonicalPath": "/fipe/dodge/durango-citadel-3-6-24v-4x4-aut-2013-013034-6/",
+      "ano": 2013,
+      "marca": "Dodge"
+    },
+    {
+      "vehicleId": "dodge-durango-crew-3-6-24v-4x4-aut-2012-gasolina",
+      "fipeCodigo": "013035-4",
+      "displayName": "Dodge Durango Crew 3.6 24V 4x4 Aut.",
+      "valorAtual": 82125,
+      "canonicalPath": "/fipe/dodge/durango-crew-3-6-24v-4x4-aut-2012-013035-4/",
+      "ano": 2012,
+      "marca": "Dodge"
+    }
+  ],
+  "stats": {
+    "total": 4,
+    "precoMin": 82125,
+    "precoMax": 143505,
+    "anos": [
+      2015,
+      2013,
+      2012
+    ]
+  }
+}

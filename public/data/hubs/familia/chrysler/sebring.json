@@ -1,0 +1,52 @@
+{
+  "tipo": "familia",
+  "slug": "sebring",
+  "canonicalPath": "/fipe/chrysler/sebring/",
+  "titulo": "Chrysler sebring - Tabela FIPE",
+  "descricao": "3 versoes e anos do Chrysler sebring na Tabela FIPE.",
+  "seo": {
+    "title": "Chrysler sebring - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes Chrysler sebring. 3 veiculos indexados.",
+    "h1": "Chrysler sebring - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/chrysler/sebring/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "chrysler-sebring-lx-2-7-v6-24v-204cv-2003-gasolina",
+      "fipeCodigo": "010020-0",
+      "displayName": "Chrysler Sebring LX 2.7 V6 24V 204cv",
+      "valorAtual": 28089,
+      "canonicalPath": "/fipe/chrysler/sebring-lx-2-7-v6-24v-204cv-2003-010020-0/",
+      "ano": 2003,
+      "marca": "Chrysler"
+    },
+    {
+      "vehicleId": "chrysler-sebring-lx-2-7-v6-24v-204cv-2002-gasolina",
+      "fipeCodigo": "010020-0",
+      "displayName": "Chrysler Sebring LX 2.7 V6 24V 204cv",
+      "valorAtual": 25574,
+      "canonicalPath": "/fipe/chrysler/sebring-lx-2-7-v6-24v-204cv-2002-010020-0/",
+      "ano": 2002,
+      "marca": "Chrysler"
+    },
+    {
+      "vehicleId": "chrysler-sebring-lx-2-7-v6-24v-204cv-2001-gasolina",
+      "fipeCodigo": "010020-0",
+      "displayName": "Chrysler Sebring LX 2.7 V6 24V 204cv",
+      "valorAtual": 20552,
+      "canonicalPath": "/fipe/chrysler/sebring-lx-2-7-v6-24v-204cv-2001-010020-0/",
+      "ano": 2001,
+      "marca": "Chrysler"
+    }
+  ],
+  "stats": {
+    "total": 3,
+    "precoMin": 20552,
+    "precoMax": 28089,
+    "anos": [
+      2003,
+      2002,
+      2001
+    ]
+  }
+}

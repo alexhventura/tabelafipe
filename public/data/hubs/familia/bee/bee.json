@@ -1,0 +1,108 @@
+{
+  "tipo": "familia",
+  "slug": "bee",
+  "canonicalPath": "/fipe/bee/bee/",
+  "titulo": "BEE bee - Tabela FIPE",
+  "descricao": "9 versoes e anos do BEE bee na Tabela FIPE.",
+  "seo": {
+    "title": "BEE bee - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes BEE bee. 9 veiculos indexados.",
+    "h1": "BEE bee - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/bee/bee/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "bee-bee-200cc-royale-2020-gasolina",
+      "fipeCodigo": "886003-3",
+      "displayName": "BEE BEE 200cc Royale",
+      "valorAtual": 9611,
+      "canonicalPath": "/fipe/bee/bee-200cc-royale-2020-886003-3/",
+      "ano": 2020,
+      "marca": "BEE"
+    },
+    {
+      "vehicleId": "bee-bee-50cc-2019-gasolina",
+      "fipeCodigo": "886001-7",
+      "displayName": "BEE BEE 50cc",
+      "valorAtual": 7062,
+      "canonicalPath": "/fipe/bee/bee-50cc-2019-886001-7/",
+      "ano": 2019,
+      "marca": "BEE"
+    },
+    {
+      "vehicleId": "bee-bee-200cc-gt-2019-gasolina",
+      "fipeCodigo": "886005-0",
+      "displayName": "BEE BEE 200cc GT",
+      "valorAtual": 11982,
+      "canonicalPath": "/fipe/bee/bee-200cc-gt-2019-886005-0/",
+      "ano": 2019,
+      "marca": "BEE"
+    },
+    {
+      "vehicleId": "bee-bee-50cc-2017-gasolina",
+      "fipeCodigo": "886001-7",
+      "displayName": "BEE BEE 50cc",
+      "valorAtual": 5953,
+      "canonicalPath": "/fipe/bee/bee-50cc-2017-886001-7/",
+      "ano": 2017,
+      "marca": "BEE"
+    },
+    {
+      "vehicleId": "bee-bee-200cc-royale-2017-gasolina",
+      "fipeCodigo": "886003-3",
+      "displayName": "BEE BEE 200cc Royale",
+      "valorAtual": 9171,
+      "canonicalPath": "/fipe/bee/bee-200cc-royale-2017-886003-3/",
+      "ano": 2017,
+      "marca": "BEE"
+    },
+    {
+      "vehicleId": "bee-bee-50cc-2016-gasolina",
+      "fipeCodigo": "886001-7",
+      "displayName": "BEE BEE 50cc",
+      "valorAtual": 5514,
+      "canonicalPath": "/fipe/bee/bee-50cc-2016-886001-7/",
+      "ano": 2016,
+      "marca": "BEE"
+    },
+    {
+      "vehicleId": "bee-bee-125cc-monaco-2016-gasolina",
+      "fipeCodigo": "886002-5",
+      "displayName": "BEE BEE 125cc Monaco",
+      "valorAtual": 6285,
+      "canonicalPath": "/fipe/bee/bee-125cc-monaco-2016-886002-5/",
+      "ano": 2016,
+      "marca": "BEE"
+    },
+    {
+      "vehicleId": "bee-bee-200cc-royale-2016-gasolina",
+      "fipeCodigo": "886003-3",
+      "displayName": "BEE BEE 200cc Royale",
+      "valorAtual": 8947,
+      "canonicalPath": "/fipe/bee/bee-200cc-royale-2016-886003-3/",
+      "ano": 2016,
+      "marca": "BEE"
+    },
+    {
+      "vehicleId": "bee-bee-125cc-monaco-2015-gasolina",
+      "fipeCodigo": "886002-5",
+      "displayName": "BEE BEE 125cc Monaco",
+      "valorAtual": 5416,
+      "canonicalPath": "/fipe/bee/bee-125cc-monaco-2015-886002-5/",
+      "ano": 2015,
+      "marca": "BEE"
+    }
+  ],
+  "stats": {
+    "total": 9,
+    "precoMin": 5416,
+    "precoMax": 11982,
+    "anos": [
+      2020,
+      2019,
+      2017,
+      2016,
+      2015
+    ]
+  }
+}

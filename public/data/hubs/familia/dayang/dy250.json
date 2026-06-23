@@ -1,0 +1,60 @@
+{
+  "tipo": "familia",
+  "slug": "dy250",
+  "canonicalPath": "/fipe/dayang/dy250/",
+  "titulo": "DAYANG dy250 - Tabela FIPE",
+  "descricao": "4 versoes e anos do DAYANG dy250 na Tabela FIPE.",
+  "seo": {
+    "title": "DAYANG dy250 - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes DAYANG dy250. 4 veiculos indexados.",
+    "h1": "DAYANG dy250 - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/dayang/dy250/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "dayang-dy250-thor-2015-gasolina",
+      "fipeCodigo": "857015-9",
+      "displayName": "DAYANG DY250 THOR",
+      "valorAtual": 6062,
+      "canonicalPath": "/fipe/dayang/dy250-thor-2015-857015-9/",
+      "ano": 2015,
+      "marca": "DAYANG"
+    },
+    {
+      "vehicleId": "dayang-dy250-rev-2015-gasolina",
+      "fipeCodigo": "857013-2",
+      "displayName": "DAYANG DY250 REV",
+      "valorAtual": 7090,
+      "canonicalPath": "/fipe/dayang/dy250-rev-2015-857013-2/",
+      "ano": 2015,
+      "marca": "DAYANG"
+    },
+    {
+      "vehicleId": "dayang-dy250-thor-2014-gasolina",
+      "fipeCodigo": "857015-9",
+      "displayName": "DAYANG DY250 THOR",
+      "valorAtual": 5312,
+      "canonicalPath": "/fipe/dayang/dy250-thor-2014-857015-9/",
+      "ano": 2014,
+      "marca": "DAYANG"
+    },
+    {
+      "vehicleId": "dayang-dy250-rev-2014-gasolina",
+      "fipeCodigo": "857013-2",
+      "displayName": "DAYANG DY250 REV",
+      "valorAtual": 5966,
+      "canonicalPath": "/fipe/dayang/dy250-rev-2014-857013-2/",
+      "ano": 2014,
+      "marca": "DAYANG"
+    }
+  ],
+  "stats": {
+    "total": 4,
+    "precoMin": 5312,
+    "precoMax": 7090,
+    "anos": [
+      2015,
+      2014
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "tipo": "familia",
+  "slug": "3500",
+  "canonicalPath": "/fipe/chevrolet/3500/",
+  "titulo": "GMC 3500 - Tabela FIPE",
+  "descricao": "2 versoes e anos do GMC 3500 na Tabela FIPE.",
+  "seo": {
+    "title": "GMC 3500 - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes GMC 3500. 2 veiculos indexados.",
+    "h1": "GMC 3500 - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/chevrolet/3500/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "chevrolet-3500-hd-turbo-diesel-2002-diesel",
+      "fipeCodigo": "505013-8",
+      "displayName": "GMC 3500 HD Turbo (diesel)",
+      "valorAtual": 57748,
+      "canonicalPath": "/fipe/chevrolet/3500-hd-turbo-diesel-2002-505013-8/",
+      "ano": 2002,
+      "marca": "GMC"
+    },
+    {
+      "vehicleId": "chevrolet-3500-hd-turbo-diesel-2001-diesel",
+      "fipeCodigo": "505013-8",
+      "displayName": "GMC 3500 HD Turbo (diesel)",
+      "valorAtual": 47949,
+      "canonicalPath": "/fipe/chevrolet/3500-hd-turbo-diesel-2001-505013-8/",
+      "ano": 2001,
+      "marca": "GMC"
+    }
+  ],
+  "stats": {
+    "total": 2,
+    "precoMin": 47949,
+    "precoMax": 57748,
+    "anos": [
+      2002,
+      2001
+    ]
+  }
+}

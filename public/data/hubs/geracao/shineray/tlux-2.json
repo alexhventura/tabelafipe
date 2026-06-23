@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "tlux-2",
+  "canonicalPath": "/geracao/shineray/tlux-2/",
+  "titulo": "Geracao tlux-2",
+  "descricao": "2 veiculos da geracao tlux-2.",
+  "seo": {
+    "title": "Geracao tlux-2 - Precos FIPE",
+    "description": "Veiculos da geracao tlux-2 na Tabela FIPE.",
+    "h1": "Geracao tlux-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/shineray/tlux-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "shineray-tlux-1-6-16v-mec-2025-gasolina",
+      "fipeCodigo": "082008-3",
+      "displayName": "SHINERAY TLUX 1.6 16V Mec.",
+      "valorAtual": 105439,
+      "canonicalPath": "/fipe/shineray/tlux-1-6-16v-mec-2025-082008-3/",
+      "ano": 2025,
+      "marca": "SHINERAY"
+    },
+    {
+      "vehicleId": "shineray-tlux-1-6-16v-mec-2026-gasolina",
+      "fipeCodigo": "082008-3",
+      "displayName": "SHINERAY TLUX 1.6 16V Mec.",
+      "valorAtual": 110444,
+      "canonicalPath": "/fipe/shineray/tlux-1-6-16v-mec-2026-082008-3/",
+      "ano": 2026,
+      "marca": "SHINERAY"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "tlux-2"
+  }
+}

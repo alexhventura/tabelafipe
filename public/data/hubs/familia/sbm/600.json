@@ -1,0 +1,78 @@
+{
+  "tipo": "familia",
+  "slug": "600",
+  "canonicalPath": "/fipe/sbm/600/",
+  "titulo": "SBM 600 - Tabela FIPE",
+  "descricao": "6 versoes e anos do SBM 600 na Tabela FIPE.",
+  "seo": {
+    "title": "SBM 600 - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes SBM 600. 6 veiculos indexados.",
+    "h1": "SBM 600 - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/sbm/600/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "sbm-600-2026-gasolina",
+      "fipeCodigo": "704005-9",
+      "displayName": "SBM 600",
+      "valorAtual": 33191,
+      "canonicalPath": "/fipe/sbm/600-2026-704005-9/",
+      "ano": 2026,
+      "marca": "SBM"
+    },
+    {
+      "vehicleId": "sbm-600-t-2026-gasolina",
+      "fipeCodigo": "704007-5",
+      "displayName": "SBM 600 T",
+      "valorAtual": 43115,
+      "canonicalPath": "/fipe/sbm/600-t-2026-704007-5/",
+      "ano": 2026,
+      "marca": "SBM"
+    },
+    {
+      "vehicleId": "sbm-600-v-2026-gasolina",
+      "fipeCodigo": "704004-0",
+      "displayName": "SBM 600 V",
+      "valorAtual": 45286,
+      "canonicalPath": "/fipe/sbm/600-v-2026-704004-0/",
+      "ano": 2026,
+      "marca": "SBM"
+    },
+    {
+      "vehicleId": "sbm-600-0-gasolina",
+      "fipeCodigo": "704005-9",
+      "displayName": "SBM 600",
+      "valorAtual": 37775,
+      "canonicalPath": "/fipe/sbm/600-0-704005-9/",
+      "ano": 0,
+      "marca": "SBM"
+    },
+    {
+      "vehicleId": "sbm-600-t-0-gasolina",
+      "fipeCodigo": "704007-5",
+      "displayName": "SBM 600 T",
+      "valorAtual": 47525,
+      "canonicalPath": "/fipe/sbm/600-t-0-704007-5/",
+      "ano": 0,
+      "marca": "SBM"
+    },
+    {
+      "vehicleId": "sbm-600-v-0-gasolina",
+      "fipeCodigo": "704004-0",
+      "displayName": "SBM 600 V",
+      "valorAtual": 51775,
+      "canonicalPath": "/fipe/sbm/600-v-0-704004-0/",
+      "ano": 0,
+      "marca": "SBM"
+    }
+  ],
+  "stats": {
+    "total": 6,
+    "precoMin": 33191,
+    "precoMax": 51775,
+    "anos": [
+      2026,
+      0
+    ]
+  }
+}

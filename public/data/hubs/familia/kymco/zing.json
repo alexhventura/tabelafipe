@@ -1,0 +1,62 @@
+{
+  "tipo": "familia",
+  "slug": "zing",
+  "canonicalPath": "/fipe/kymco/zing/",
+  "titulo": "KYMCO zing - Tabela FIPE",
+  "descricao": "4 versoes e anos do KYMCO zing na Tabela FIPE.",
+  "seo": {
+    "title": "KYMCO zing - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes KYMCO zing. 4 veiculos indexados.",
+    "h1": "KYMCO zing - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/kymco/zing/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "kymco-zing-150-2003-gasolina",
+      "fipeCodigo": "832028-4",
+      "displayName": "KYMCO ZING 150",
+      "valorAtual": 3680,
+      "canonicalPath": "/fipe/kymco/zing-150-2003-832028-4/",
+      "ano": 2003,
+      "marca": "KYMCO"
+    },
+    {
+      "vehicleId": "kymco-zing-150-2002-gasolina",
+      "fipeCodigo": "832028-4",
+      "displayName": "KYMCO ZING 150",
+      "valorAtual": 3585,
+      "canonicalPath": "/fipe/kymco/zing-150-2002-832028-4/",
+      "ano": 2002,
+      "marca": "KYMCO"
+    },
+    {
+      "vehicleId": "kymco-zing-150-2001-gasolina",
+      "fipeCodigo": "832028-4",
+      "displayName": "KYMCO ZING 150",
+      "valorAtual": 3497,
+      "canonicalPath": "/fipe/kymco/zing-150-2001-832028-4/",
+      "ano": 2001,
+      "marca": "KYMCO"
+    },
+    {
+      "vehicleId": "kymco-zing-150-2000-gasolina",
+      "fipeCodigo": "832028-4",
+      "displayName": "KYMCO ZING 150",
+      "valorAtual": 2912,
+      "canonicalPath": "/fipe/kymco/zing-150-2000-832028-4/",
+      "ano": 2000,
+      "marca": "KYMCO"
+    }
+  ],
+  "stats": {
+    "total": 4,
+    "precoMin": 2912,
+    "precoMax": 3680,
+    "anos": [
+      2003,
+      2002,
+      2001,
+      2000
+    ]
+  }
+}

@@ -1,0 +1,144 @@
+{
+  "tipo": "familia",
+  "slug": "corona",
+  "canonicalPath": "/fipe/toyota/corona/",
+  "titulo": "Toyota corona - Tabela FIPE",
+  "descricao": "13 versoes e anos do Toyota corona na Tabela FIPE.",
+  "seo": {
+    "title": "Toyota corona - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes Toyota corona. 13 veiculos indexados.",
+    "h1": "Toyota corona - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/toyota/corona/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "toyota-corona-mec-2000-gasolina",
+      "fipeCodigo": "002039-7",
+      "displayName": "Toyota Corona Mec.",
+      "valorAtual": 13550,
+      "canonicalPath": "/fipe/toyota/corona-mec-2000-002039-7/",
+      "ano": 2000,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-corona-gli-mec-2000-gasolina",
+      "fipeCodigo": "002024-9",
+      "displayName": "Toyota Corona GLi Mec",
+      "valorAtual": 16180,
+      "canonicalPath": "/fipe/toyota/corona-gli-mec-2000-002024-9/",
+      "ano": 2000,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-corona-mec-1999-gasolina",
+      "fipeCodigo": "002039-7",
+      "displayName": "Toyota Corona Mec.",
+      "valorAtual": 12421,
+      "canonicalPath": "/fipe/toyota/corona-mec-1999-002039-7/",
+      "ano": 1999,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-corona-gli-mec-1999-gasolina",
+      "fipeCodigo": "002024-9",
+      "displayName": "Toyota Corona GLi Mec",
+      "valorAtual": 14561,
+      "canonicalPath": "/fipe/toyota/corona-gli-mec-1999-002024-9/",
+      "ano": 1999,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-corona-mec-1998-gasolina",
+      "fipeCodigo": "002039-7",
+      "displayName": "Toyota Corona Mec.",
+      "valorAtual": 10460,
+      "canonicalPath": "/fipe/toyota/corona-mec-1998-002039-7/",
+      "ano": 1998,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-corona-gli-mec-1998-gasolina",
+      "fipeCodigo": "002024-9",
+      "displayName": "Toyota Corona GLi Mec",
+      "valorAtual": 14138,
+      "canonicalPath": "/fipe/toyota/corona-gli-mec-1998-002024-9/",
+      "ano": 1998,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-corona-aut-1998-gasolina",
+      "fipeCodigo": "002063-0",
+      "displayName": "Toyota Corona Aut.",
+      "valorAtual": 14350,
+      "canonicalPath": "/fipe/toyota/corona-aut-1998-002063-0/",
+      "ano": 1998,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-corona-mec-1997-gasolina",
+      "fipeCodigo": "002039-7",
+      "displayName": "Toyota Corona Mec.",
+      "valorAtual": 10204,
+      "canonicalPath": "/fipe/toyota/corona-mec-1997-002039-7/",
+      "ano": 1997,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-corona-gli-mec-1997-gasolina",
+      "fipeCodigo": "002024-9",
+      "displayName": "Toyota Corona GLi Mec",
+      "valorAtual": 12670,
+      "canonicalPath": "/fipe/toyota/corona-gli-mec-1997-002024-9/",
+      "ano": 1997,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-corona-aut-1997-gasolina",
+      "fipeCodigo": "002063-0",
+      "displayName": "Toyota Corona Aut.",
+      "valorAtual": 13040,
+      "canonicalPath": "/fipe/toyota/corona-aut-1997-002063-0/",
+      "ano": 1997,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-corona-mec-1996-gasolina",
+      "fipeCodigo": "002039-7",
+      "displayName": "Toyota Corona Mec.",
+      "valorAtual": 8579,
+      "canonicalPath": "/fipe/toyota/corona-mec-1996-002039-7/",
+      "ano": 1996,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-corona-gli-mec-1996-gasolina",
+      "fipeCodigo": "002024-9",
+      "displayName": "Toyota Corona GLi Mec",
+      "valorAtual": 11259,
+      "canonicalPath": "/fipe/toyota/corona-gli-mec-1996-002024-9/",
+      "ano": 1996,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-corona-aut-1996-gasolina",
+      "fipeCodigo": "002063-0",
+      "displayName": "Toyota Corona Aut.",
+      "valorAtual": 11366,
+      "canonicalPath": "/fipe/toyota/corona-aut-1996-002063-0/",
+      "ano": 1996,
+      "marca": "Toyota"
+    }
+  ],
+  "stats": {
+    "total": 13,
+    "precoMin": 8579,
+    "precoMax": 16180,
+    "anos": [
+      2000,
+      1999,
+      1998,
+      1997,
+      1996
+    ]
+  }
+}

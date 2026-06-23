@@ -1,0 +1,48 @@
+{
+  "tipo": "geracao",
+  "slug": "adventure-3",
+  "canonicalPath": "/geracao/ktm/adventure-3/",
+  "titulo": "Geracao adventure-3",
+  "descricao": "3 veiculos da geracao adventure-3.",
+  "seo": {
+    "title": "Geracao adventure-3 - Precos FIPE",
+    "description": "Veiculos da geracao adventure-3 na Tabela FIPE.",
+    "h1": "Geracao adventure-3",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/ktm/adventure-3/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "ktm-adventure-1190-r-2016-gasolina",
+      "fipeCodigo": "818044-0",
+      "displayName": "KTM ADVENTURE 1190 R",
+      "valorAtual": 85627,
+      "canonicalPath": "/fipe/ktm/adventure-1190-r-2016-818044-0/",
+      "ano": 2016,
+      "marca": "KTM"
+    },
+    {
+      "vehicleId": "ktm-adventure-1190cc-2014-gasolina",
+      "fipeCodigo": "818036-9",
+      "displayName": "KTM ADVENTURE 1190cc",
+      "valorAtual": 66761,
+      "canonicalPath": "/fipe/ktm/adventure-1190cc-2014-818036-9/",
+      "ano": 2014,
+      "marca": "KTM"
+    },
+    {
+      "vehicleId": "ktm-adventure-1190cc-2015-gasolina",
+      "fipeCodigo": "818036-9",
+      "displayName": "KTM ADVENTURE 1190cc",
+      "valorAtual": 76630,
+      "canonicalPath": "/fipe/ktm/adventure-1190cc-2015-818036-9/",
+      "ano": 2015,
+      "marca": "KTM"
+    }
+  ],
+  "stats": {
+    "total": 3
+  },
+  "meta": {
+    "geracaoId": "adventure-3"
+  }
+}

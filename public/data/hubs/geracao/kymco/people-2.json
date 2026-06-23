@@ -1,0 +1,84 @@
+{
+  "tipo": "geracao",
+  "slug": "people-2",
+  "canonicalPath": "/geracao/kymco/people-2/",
+  "titulo": "Geracao people-2",
+  "descricao": "7 veiculos da geracao people-2.",
+  "seo": {
+    "title": "Geracao people-2 - Precos FIPE",
+    "description": "Veiculos da geracao people-2 na Tabela FIPE.",
+    "h1": "Geracao people-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/kymco/people-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "kymco-people-gt-300i-2017-gasolina",
+      "fipeCodigo": "832030-6",
+      "displayName": "KYMCO PEOPLE GT 300i",
+      "valorAtual": 15054,
+      "canonicalPath": "/fipe/kymco/people-gt-300i-2017-832030-6/",
+      "ano": 2017,
+      "marca": "KYMCO"
+    },
+    {
+      "vehicleId": "kymco-people-gt-300i-2018-gasolina",
+      "fipeCodigo": "832030-6",
+      "displayName": "KYMCO PEOPLE GT 300i",
+      "valorAtual": 15431,
+      "canonicalPath": "/fipe/kymco/people-gt-300i-2018-832030-6/",
+      "ano": 2018,
+      "marca": "KYMCO"
+    },
+    {
+      "vehicleId": "kymco-people-gt-300i-2019-gasolina",
+      "fipeCodigo": "832030-6",
+      "displayName": "KYMCO PEOPLE GT 300i",
+      "valorAtual": 15817,
+      "canonicalPath": "/fipe/kymco/people-gt-300i-2019-832030-6/",
+      "ano": 2019,
+      "marca": "KYMCO"
+    },
+    {
+      "vehicleId": "kymco-people-gt-300i-2020-gasolina",
+      "fipeCodigo": "832030-6",
+      "displayName": "KYMCO PEOPLE GT 300i",
+      "valorAtual": 16213,
+      "canonicalPath": "/fipe/kymco/people-gt-300i-2020-832030-6/",
+      "ano": 2020,
+      "marca": "KYMCO"
+    },
+    {
+      "vehicleId": "kymco-people-gt-300i-2021-gasolina",
+      "fipeCodigo": "832030-6",
+      "displayName": "KYMCO PEOPLE GT 300i",
+      "valorAtual": 16619,
+      "canonicalPath": "/fipe/kymco/people-gt-300i-2021-832030-6/",
+      "ano": 2021,
+      "marca": "KYMCO"
+    },
+    {
+      "vehicleId": "kymco-people-gt-300i-2022-gasolina",
+      "fipeCodigo": "832030-6",
+      "displayName": "KYMCO PEOPLE GT 300i",
+      "valorAtual": 17035,
+      "canonicalPath": "/fipe/kymco/people-gt-300i-2022-832030-6/",
+      "ano": 2022,
+      "marca": "KYMCO"
+    },
+    {
+      "vehicleId": "kymco-people-gt-300i-2023-gasolina",
+      "fipeCodigo": "832030-6",
+      "displayName": "KYMCO PEOPLE GT 300i",
+      "valorAtual": 21489,
+      "canonicalPath": "/fipe/kymco/people-gt-300i-2023-832030-6/",
+      "ano": 2023,
+      "marca": "KYMCO"
+    }
+  ],
+  "stats": {
+    "total": 7
+  },
+  "meta": {
+    "geracaoId": "people-2"
+  }
+}

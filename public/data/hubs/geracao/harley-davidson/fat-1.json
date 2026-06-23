@@ -1,0 +1,48 @@
+{
+  "tipo": "geracao",
+  "slug": "fat-1",
+  "canonicalPath": "/geracao/harley-davidson/fat-1/",
+  "titulo": "Geracao fat-1",
+  "descricao": "3 veiculos da geracao fat-1.",
+  "seo": {
+    "title": "Geracao fat-1 - Precos FIPE",
+    "description": "Veiculos da geracao fat-1 na Tabela FIPE.",
+    "h1": "Geracao fat-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/harley-davidson/fat-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "harley-davidson-fat-boy-flfb-0-gasolina",
+      "fipeCodigo": "810087-0",
+      "displayName": "HARLEY-DAVIDSON FAT BOY FLFB",
+      "valorAtual": 146436,
+      "canonicalPath": "/fipe/harley-davidson/fat-boy-flfb-0-810087-0/",
+      "ano": 0,
+      "marca": "HARLEY-DAVIDSON"
+    },
+    {
+      "vehicleId": "harley-davidson-fat-boy-flfbs-0-gasolina",
+      "fipeCodigo": "810076-4",
+      "displayName": "HARLEY-DAVIDSON FAT BOY FLFBS",
+      "valorAtual": 135450,
+      "canonicalPath": "/fipe/harley-davidson/fat-boy-flfbs-0-810076-4/",
+      "ano": 0,
+      "marca": "HARLEY-DAVIDSON"
+    },
+    {
+      "vehicleId": "harley-davidson-fat-boy-icon-flstfi-0-gasolina",
+      "fipeCodigo": "810119-1",
+      "displayName": "HARLEY-DAVIDSON FAT BOY ICON FLSTFI",
+      "valorAtual": 162697,
+      "canonicalPath": "/fipe/harley-davidson/fat-boy-icon-flstfi-0-810119-1/",
+      "ano": 0,
+      "marca": "HARLEY-DAVIDSON"
+    }
+  ],
+  "stats": {
+    "total": 3
+  },
+  "meta": {
+    "geracaoId": "fat-1"
+  }
+}

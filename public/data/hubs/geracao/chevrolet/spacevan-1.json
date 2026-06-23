@@ -1,0 +1,93 @@
+{
+  "tipo": "geracao",
+  "slug": "spacevan-1",
+  "canonicalPath": "/geracao/chevrolet/spacevan-1/",
+  "titulo": "Geracao spacevan-1",
+  "descricao": "8 veiculos da geracao spacevan-1.",
+  "seo": {
+    "title": "Geracao spacevan-1 - Precos FIPE",
+    "description": "Veiculos da geracao spacevan-1 na Tabela FIPE.",
+    "h1": "Geracao spacevan-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/chevrolet/spacevan-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "chevrolet-spacevan-furgao-2-1-diesel-1997-diesel",
+      "fipeCodigo": "004107-6",
+      "displayName": "GM - Chevrolet SpaceVan Furgão 2.1 Diesel",
+      "valorAtual": 11448,
+      "canonicalPath": "/fipe/chevrolet/spacevan-furgao-2-1-diesel-1997-004107-6/",
+      "ano": 1997,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-spacevan-furgao-2-1-diesel-1998-diesel",
+      "fipeCodigo": "004107-6",
+      "displayName": "GM - Chevrolet SpaceVan Furgão 2.1 Diesel",
+      "valorAtual": 12396,
+      "canonicalPath": "/fipe/chevrolet/spacevan-furgao-2-1-diesel-1998-004107-6/",
+      "ano": 1998,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-spacevan-furgao-2-2-1997-gasolina",
+      "fipeCodigo": "004099-1",
+      "displayName": "GM - Chevrolet SpaceVan Furgão 2.2",
+      "valorAtual": 10023,
+      "canonicalPath": "/fipe/chevrolet/spacevan-furgao-2-2-1997-004099-1/",
+      "ano": 1997,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-spacevan-furgao-2-2-1998-gasolina",
+      "fipeCodigo": "004099-1",
+      "displayName": "GM - Chevrolet SpaceVan Furgão 2.2",
+      "valorAtual": 12291,
+      "canonicalPath": "/fipe/chevrolet/spacevan-furgao-2-2-1998-004099-1/",
+      "ano": 1998,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-spacevan-passageiro-2-1diesel-1997-diesel",
+      "fipeCodigo": "004101-7",
+      "displayName": "GM - Chevrolet SpaceVan Passageiro 2.1Diesel",
+      "valorAtual": 10977,
+      "canonicalPath": "/fipe/chevrolet/spacevan-passageiro-2-1diesel-1997-004101-7/",
+      "ano": 1997,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-spacevan-passageiro-2-1diesel-1998-diesel",
+      "fipeCodigo": "004101-7",
+      "displayName": "GM - Chevrolet SpaceVan Passageiro 2.1Diesel",
+      "valorAtual": 12372,
+      "canonicalPath": "/fipe/chevrolet/spacevan-passageiro-2-1diesel-1998-004101-7/",
+      "ano": 1998,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-spacevan-passageiro-2-2-1997-gasolina",
+      "fipeCodigo": "004100-9",
+      "displayName": "GM - Chevrolet SpaceVan Passageiro 2.2",
+      "valorAtual": 11991,
+      "canonicalPath": "/fipe/chevrolet/spacevan-passageiro-2-2-1997-004100-9/",
+      "ano": 1997,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-spacevan-passageiro-2-2-1998-gasolina",
+      "fipeCodigo": "004100-9",
+      "displayName": "GM - Chevrolet SpaceVan Passageiro 2.2",
+      "valorAtual": 13647,
+      "canonicalPath": "/fipe/chevrolet/spacevan-passageiro-2-2-1998-004100-9/",
+      "ano": 1998,
+      "marca": "GM - Chevrolet"
+    }
+  ],
+  "stats": {
+    "total": 8
+  },
+  "meta": {
+    "geracaoId": "spacevan-1"
+  }
+}

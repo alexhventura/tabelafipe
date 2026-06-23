@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "freelander-1",
+  "canonicalPath": "/geracao/land-rover/freelander-1/",
+  "titulo": "Geracao freelander-1",
+  "descricao": "2 veiculos da geracao freelander-1.",
+  "seo": {
+    "title": "Geracao freelander-1 - Precos FIPE",
+    "description": "Veiculos da geracao freelander-1 na Tabela FIPE.",
+    "h1": "Geracao freelander-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/land-rover/freelander-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "land-rover-freelander-1-8-16v-1999-gasolina",
+      "fipeCodigo": "033020-5",
+      "displayName": "Land Rover Freelander 1.8 16v",
+      "valorAtual": 22266,
+      "canonicalPath": "/fipe/land-rover/freelander-1-8-16v-1999-033020-5/",
+      "ano": 1999,
+      "marca": "Land Rover"
+    },
+    {
+      "vehicleId": "land-rover-freelander-1-8-16v-2000-gasolina",
+      "fipeCodigo": "033020-5",
+      "displayName": "Land Rover Freelander 1.8 16v",
+      "valorAtual": 24298,
+      "canonicalPath": "/fipe/land-rover/freelander-1-8-16v-2000-033020-5/",
+      "ano": 2000,
+      "marca": "Land Rover"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "freelander-1"
+  }
+}

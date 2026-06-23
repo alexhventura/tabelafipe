@@ -1,0 +1,48 @@
+{
+  "tipo": "geracao",
+  "slug": "ybr-1",
+  "canonicalPath": "/geracao/yamaha/ybr-1/",
+  "titulo": "Geracao ybr-1",
+  "descricao": "3 veiculos da geracao ybr-1.",
+  "seo": {
+    "title": "Geracao ybr-1 - Precos FIPE",
+    "description": "Veiculos da geracao ybr-1 na Tabela FIPE.",
+    "h1": "Geracao ybr-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/yamaha/ybr-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "yamaha-ybr-150-factor-dx-flex-0-gasolina",
+      "fipeCodigo": "827134-8",
+      "displayName": "YAMAHA YBR 150 FACTOR DX FLEX",
+      "valorAtual": 20361,
+      "canonicalPath": "/fipe/yamaha/ybr-150-factor-dx-flex-0-827134-8/",
+      "ano": 0,
+      "marca": "YAMAHA"
+    },
+    {
+      "vehicleId": "yamaha-ybr-150-factor-ed-flex-0-gasolina",
+      "fipeCodigo": "827099-6",
+      "displayName": "YAMAHA YBR 150 FACTOR ED/FLEX",
+      "valorAtual": 18754,
+      "canonicalPath": "/fipe/yamaha/ybr-150-factor-ed-flex-0-827099-6/",
+      "ano": 0,
+      "marca": "YAMAHA"
+    },
+    {
+      "vehicleId": "yamaha-ybr-150-factor-flex-0-flex",
+      "fipeCodigo": "827135-6",
+      "displayName": "YAMAHA YBR 150 FACTOR FLEX",
+      "valorAtual": 19900,
+      "canonicalPath": "/fipe/yamaha/ybr-150-factor-flex-0-827135-6/",
+      "ano": 0,
+      "marca": "YAMAHA"
+    }
+  ],
+  "stats": {
+    "total": 3
+  },
+  "meta": {
+    "geracaoId": "ybr-1"
+  }
+}

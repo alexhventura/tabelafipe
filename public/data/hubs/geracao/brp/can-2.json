@@ -1,0 +1,741 @@
+{
+  "tipo": "geracao",
+  "slug": "can-2",
+  "canonicalPath": "/geracao/brp/can-2/",
+  "titulo": "Geracao can-2",
+  "descricao": "200 veiculos da geracao can-2.",
+  "seo": {
+    "title": "Geracao can-2 - Precos FIPE",
+    "description": "Veiculos da geracao can-2 na Tabela FIPE.",
+    "h1": "Geracao can-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/brp/can-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "brp-can-am-maverick-x3-max-ds-tb-900-r-utv-2021-gasolina",
+      "fipeCodigo": "864047-5",
+      "displayName": "BRP Can-am Maverick X3 MAX DS TB 900 R (UTV)",
+      "valorAtual": 152131,
+      "canonicalPath": "/fipe/brp/can-am-maverick-x3-max-ds-tb-900-r-utv-2021-864047-5/",
+      "ano": 2021,
+      "marca": "BRP"
+    },
+    {
+      "vehicleId": "brp-can-am-commander-max-dps-1000r-2023-gasolina",
+      "fipeCodigo": "864056-4",
+      "displayName": "BRP can-am Commander MAX DPS 1000R",
+      "valorAtual": 120495,
+      "canonicalPath": "/fipe/brp/can-am-commander-max-dps-1000r-2023-864056-4/",
+      "ano": 2023,
+      "marca": "BRP"
+    },
+    {
+      "vehicleId": "brp-can-am-commander-max-dps-1000r-2024-gasolina",
+      "fipeCodigo": "864056-4",
+      "displayName": "BRP can-am Commander MAX DPS 1000R",
+      "valorAtual": 124480,
+      "canonicalPath": "/fipe/brp/can-am-commander-max-dps-1000r-2024-864056-4/",
+      "ano": 2024,
+      "marca": "BRP"
+    },
+    {
+      "vehicleId": "brp-can-am-commander-max-dps-1000r-2025-gasolina",
+      "fipeCodigo": "864056-4",
+      "displayName": "BRP can-am Commander MAX DPS 1000R",
+      "valorAtual": 132730,
+      "canonicalPath": "/fipe/brp/can-am-commander-max-dps-1000r-2025-864056-4/",
+      "ano": 2025,
+      "marca": "BRP"
+    },
+    {
+      "vehicleId": "brp-can-am-commander-max-dps-1000r-2026-gasolina",
+      "fipeCodigo": "864056-4",
+      "displayName": "BRP can-am Commander MAX DPS 1000R",
+      "valorAtual": 137412,
+      "canonicalPath": "/fipe/brp/can-am-commander-max-dps-1000r-2026-864056-4/",
+      "ano": 2026,
+      "marca": "BRP"
+    },
+    {
+      "vehicleId": "brp-can-am-ds-250-efi-4x2-quadr-2010-gasolina",
+      "fipeCodigo": "864005-0",
+      "displayName": "BRP can-am DS 250 EFI 4X2 Quadr.",
+      "valorAtual": 12680,
+      "canonicalPath": "/fipe/brp/can-am-ds-250-efi-4x2-quadr-2010-864005-0/",
+      "ano": 2010,
+      "marca": "BRP"
+    },
+    {
+      "vehicleId": "brp-can-am-ds-250-efi-4x2-quadr-2011-gasolina",
+      "fipeCodigo": "864005-0",
+      "displayName": "BRP can-am DS 250 EFI 4X2 Quadr.",
+      "valorAtual": 14399,
+      "canonicalPath": "/fipe/brp/can-am-ds-250-efi-4x2-quadr-2011-864005-0/",
+      "ano": 2011,
+      "marca": "BRP"
+    },
+    {
+      "vehicleId": "brp-can-am-ds-250-efi-4x2-quadr-2014-gasolina",
+      "fipeCodigo": "864005-0",
+      "displayName": "BRP can-am DS 250 EFI 4X2 Quadr.",
+      "valorAtual": 20272,
+      "canonicalPath": "/fipe/brp/can-am-ds-250-efi-4x2-quadr-2014-864005-0/",
+      "ano": 2014,
+      "marca": "BRP"
+    },
+    {
+      "vehicleId": "brp-can-am-ds-250-efi-4x2-quadr-2015-gasolina",
+      "fipeCodigo": "864005-0",
+      "displayName": "BRP can-am DS 250 EFI 4X2 Quadr.",
+      "valorAtual": 22293,
+      "canonicalPath": "/fipe/brp/can-am-ds-250-efi-4x2-quadr-2015-864005-0/",
+      "ano": 2015,
+      "marca": "BRP"
+    },
+    {
+      "vehicleId": "brp-can-am-ds-250-efi-4x2-quadr-2016-gasolina",
+      "fipeCodigo": "864005-0",
+      "displayName": "BRP can-am DS 250 EFI 4X2 Quadr.",
+      "valorAtual": 24900,
+      "canonicalPath": "/fipe/brp/can-am-ds-250-efi-4x2-quadr-2016-864005-0/",
+      "ano": 2016,
+      "marca": "BRP"
+    },
+    {
+      "vehicleId": "brp-can-am-ds-250-efi-4x2-quadr-2018-gasolina",
+      "fipeCodigo": "864005-0",
+      "displayName": "BRP can-am DS 250 EFI 4X2 Quadr.",
+      "valorAtual": 25983,
+      "canonicalPath": "/fipe/brp/can-am-ds-250-efi-4x2-quadr-2018-864005-0/",
+      "ano": 2018,
+      "marca": "BRP"
+    },
+    {
+      "vehicleId": "brp-can-am-ds-250-efi-4x2-quadr-2019-gasolina",
+      "fipeCodigo": "864005-0",
+      "displayName": "BRP can-am DS 250 EFI 4X2 Quadr.",
+      "valorAtual": 26633,
+      "canonicalPath": "/fipe/brp/can-am-ds-250-efi-4x2-quadr-2019-864005-0/",
+      "ano": 2019,
+      "marca": "BRP"
+    },
+    {
+      "vehicleId": "brp-can-am-ds-250-efi-4x2-quadr-2020-gasolina",
+      "fipeCodigo": "864005-0",
+      "displayName": "BRP can-am DS 250 EFI 4X2 Quadr.",
+      "valorAtual": 29123,
+      "canonicalPath": "/fipe/brp/can-am-ds-250-efi-4x2-quadr-2020-864005-0/",
+      "ano": 2020,
+      "marca": "BRP"
+    },
+    {
+      "vehicleId": "brp-can-am-ds-250-efi-4x2-quadr-2021-gasolina",
+      "fipeCodigo": "864005-0",
+      "displayName": "BRP can-am DS 250 EFI 4X2 Quadr.",
+      "valorAtual": 29852,
+      "canonicalPath": "/fipe/brp/can-am-ds-250-efi-4x2-quadr-2021-864005-0/",
+      "ano": 2021,
+      "marca": "BRP"
+    },
+    {
+      "vehicleId": "brp-can-am-ds-250-efi-4x2-quadr-2022-gasolina",
+      "fipeCodigo": "864005-0",
+      "displayName": "BRP can-am DS 250 EFI 4X2 Quadr.",
+      "valorAtual": 31842,
+      "canonicalPath": "/fipe/brp/can-am-ds-250-efi-4x2-quadr-2022-864005-0/",
+      "ano": 2022,
+      "marca": "BRP"
+    },
+    {
+      "vehicleId": "brp-can-am-ds-250-efi-4x2-quadr-2023-gasolina",
+      "fipeCodigo": "864005-0",
+      "displayName": "BRP can-am DS 250 EFI 4X2 Quadr.",
+      "valorAtual": 32710,
+      "canonicalPath": "/fipe/brp/can-am-ds-250-efi-4x2-quadr-2023-864005-0/",
+      "ano": 2023,
+      "marca": "BRP"
+    },
+    {
+      "vehicleId": "brp-can-am-ds-250-efi-4x2-quadr-2024-gasolina",
+      "fipeCodigo": "864005-0",
+      "displayName": "BRP can-am DS 250 EFI 4X2 Quadr.",
+      "valorAtual": 33889,
+      "canonicalPath": "/fipe/brp/can-am-ds-250-efi-4x2-quadr-2024-864005-0/",
+      "ano": 2024,
+      "marca": "BRP"
+    },
+    {
+      "vehicleId": "brp-can-am-ds-90-4x2-quadriciclo-2018-gasolina",
+      "fipeCodigo": "864036-0",
+      "displayName": "BRP can-am DS 90 4X2 Quadriciclo",
+      "valorAtual": 14913,
+      "canonicalPath": "/fipe/brp/can-am-ds-90-4x2-quadriciclo-2018-864036-0/",
+      "ano": 2018,
+      "marca": "BRP"
+    },
+    {
+      "vehicleId": "brp-can-am-ds-90-4x2-quadriciclo-2019-gasolina",
+      "fipeCodigo": "864036-0",
+      "displayName": "BRP can-am DS 90 4X2 Quadriciclo",
+      "valorAtual": 15286,
+      "canonicalPath": "/fipe/brp/can-am-ds-90-4x2-quadriciclo-2019-864036-0/",
+      "ano": 2019,
+      "marca": "BRP"
+    },
+    {
+      "vehicleId": "brp-can-am-ds-90-4x2-quadriciclo-2020-gasolina",
+      "fipeCodigo": "864036-0",
+      "displayName": "BRP can-am DS 90 4X2 Quadriciclo",
+      "valorAtual": 15727,
+      "canonicalPath": "/fipe/brp/can-am-ds-90-4x2-quadriciclo-2020-864036-0/",
+      "ano": 2020,
+      "marca": "BRP"
+    },
+    {
+      "vehicleId": "brp-can-am-ds-90-4x2-quadriciclo-2021-gasolina",
+      "fipeCodigo": "864036-0",
+      "displayName": "BRP can-am DS 90 4X2 Quadriciclo",
+      "valorAtual": 16815,
+      "canonicalPath": "/fipe/brp/can-am-ds-90-4x2-quadriciclo-2021-864036-0/",
+      "ano": 2021,
+      "marca": "BRP"
+    },
+    {
+      "vehicleId": "brp-can-am-ds-90-4x2-quadriciclo-2022-gasolina",
+      "fipeCodigo": "864036-0",
+      "displayName": "BRP can-am DS 90 4X2 Quadriciclo",
+      "valorAtual": 20061,
+      "canonicalPath": "/fipe/brp/can-am-ds-90-4x2-quadriciclo-2022-864036-0/",
+      "ano": 2022,
+      "marca": "BRP"
+    },
+    {
+      "vehicleId": "brp-can-am-defen-976-max-ltd-hd10-4x4-utv-2024-gasolina",
+      "fipeCodigo": "864058-0",
+      "displayName": "BRP can-am Defen. 976 MAX LTD HD10 4x4 (UTV)",
+      "valorAtual": 231278,
+      "canonicalPath": "/fipe/brp/can-am-defen-976-max-ltd-hd10-4x4-utv-2024-864058-0/",
+      "ano": 2024,
+      "marca": "BRP"
+    },
+    {
+      "vehicleId": "brp-can-am-defen-976-max-ltd-hd10-4x4-utv-2025-gasolina",
+      "fipeCodigo": "864058-0",
+      "displayName": "BRP can-am Defen. 976 MAX LTD HD10 4x4 (UTV)",
+      "valorAtual": 237552,
+      "canonicalPath": "/fipe/brp/can-am-defen-976-max-ltd-hd10-4x4-utv-2025-864058-0/",
+      "ano": 2025,
+      "marca": "BRP"
+    },
+    {
+      "vehicleId": "brp-can-am-defen-976-pro-dps-h10-4x4-utv-2025-gasolina",
+      "fipeCodigo": "864061-0",
+      "displayName": "BRP can-am Defen. 976 PRO DPS H10 4x4 (UTV)",
+      "valorAtual": 138099,
+      "canonicalPath": "/fipe/brp/can-am-defen-976-pro-dps-h10-4x4-utv-2025-864061-0/",
+      "ano": 2025,
+      "marca": "BRP"
+    },
+    {
+      "vehicleId": "brp-can-am-defen-976-pro-dps-h10-4x4-utv-2026-gasolina",
+      "fipeCodigo": "864061-0",
+      "displayName": "BRP can-am Defen. 976 PRO DPS H10 4x4 (UTV)",
+      "valorAtual": 142690,
+      "canonicalPath": "/fipe/brp/can-am-defen-976-pro-dps-h10-4x4-utv-2026-864061-0/",
+      "ano": 2026,
+      "marca": "BRP"
+    },
+    {
+      "vehicleId": "brp-can-am-defender-650-dps-hd7-4x4-utv-2023-gasolina",
+      "fipeCodigo": "864055-6",
+      "displayName": "BRP can-am Defender 650 DPS HD7 4x4 (UTV)",
+      "valorAtual": 87457,
+      "canonicalPath": "/fipe/brp/can-am-defender-650-dps-hd7-4x4-utv-2023-864055-6/",
+      "ano": 2023,
+      "marca": "BRP"
+    },
+    {
+      "vehicleId": "brp-can-am-defender-650-dps-hd7-4x4-utv-2024-gasolina",
+      "fipeCodigo": "864055-6",
+      "displayName": "BRP can-am Defender 650 DPS HD7 4x4 (UTV)",
+      "valorAtual": 89714,
+      "canonicalPath": "/fipe/brp/can-am-defender-650-dps-hd7-4x4-utv-2024-864055-6/",
+      "ano": 2024,
+      "marca": "BRP"
+    },
+    {
+      "vehicleId": "brp-can-am-defender-650-dps-hd7-4x4-utv-2025-gasolina",
+      "fipeCodigo": "864055-6",
+      "displayName": "BRP can-am Defender 650 DPS HD7 4x4 (UTV)",
+      "valorAtual": 92568,
+      "canonicalPath": "/fipe/brp/can-am-defender-650-dps-hd7-4x4-utv-2025-864055-6/",
+      "ano": 2025,
+      "marca": "BRP"
+    },
+    {
+      "vehicleId": "brp-can-am-defender-650-dps-hd7-4x4-utv-2026-gasolina",
+      "fipeCodigo": "864055-6",
+      "displayName": "BRP can-am Defender 650 DPS HD7 4x4 (UTV)",
+      "valorAtual": 106116,
+      "canonicalPath": "/fipe/brp/can-am-defender-650-dps-hd7-4x4-utv-2026-864055-6/",
+      "ano": 2026,
+      "marca": "BRP"
+    },
+    {
+      "vehicleId": "brp-can-am-defender-650-hd7-4x4-utv-2025-gasolina",
+      "fipeCodigo": "864060-2",
+      "displayName": "BRP can-am Defender 650 HD7 4x4 (UTV)",
+      "valorAtual": 90114,
+      "canonicalPath": "/fipe/brp/can-am-defender-650-hd7-4x4-utv-2025-864060-2/",
+      "ano": 2025,
+      "marca": "BRP"
+    },
+    {
+      "vehicleId": "brp-can-am-defender-650-hd7-4x4-utv-2026-gasolina",
+      "fipeCodigo": "864060-2",
+      "displayName": "BRP can-am Defender 650 HD7 4x4 (UTV)",
+      "valorAtual": 94109,
+      "canonicalPath": "/fipe/brp/can-am-defender-650-hd7-4x4-utv-2026-864060-2/",
+      "ano": 2026,
+      "marca": "BRP"
+    },
+    {
+      "vehicleId": "brp-can-am-defender-650-max-hd7-4x4-utv-2023-gasolina",
+      "fipeCodigo": "864054-8",
+      "displayName": "BRP can-am Defender 650 MAX HD7 4x4 (UTV)",
+      "valorAtual": 98598,
+      "canonicalPath": "/fipe/brp/can-am-defender-650-max-hd7-4x4-utv-2023-864054-8/",
+      "ano": 2023,
+      "marca": "BRP"
+    },
+    {
+      "vehicleId": "brp-can-am-defender-650-max-hd7-4x4-utv-2024-gasolina",
+      "fipeCodigo": "864054-8",
+      "displayName": "BRP can-am Defender 650 MAX HD7 4x4 (UTV)",
+      "valorAtual": 101258,
+      "canonicalPath": "/fipe/brp/can-am-defender-650-max-hd7-4x4-utv-2024-864054-8/",
+      "ano": 2024,
+      "marca": "BRP"
+    },
+    {
+      "vehicleId": "brp-can-am-defender-800-max-dps-4x4-utv-2018-gasolina",
+      "fipeCodigo": "864041-6",
+      "displayName": "BRP can-am Defender 800 MAX DPS 4x4 (UTV)",
+      "valorAtual": 87573,
+      "canonicalPath": "/fipe/brp/can-am-defender-800-max-dps-4x4-utv-2018-864041-6/",
+      "ano": 2018,
+      "marca": "BRP"
+    },
+    {
+      "vehicleId": "brp-can-am-defender-800-max-dps-4x4-utv-2019-gasolina",
+      "fipeCodigo": "864041-6",
+      "displayName": "BRP can-am Defender 800 MAX DPS 4x4 (UTV)",
+      "valorAtual": 89763,
+      "canonicalPath": "/fipe/brp/can-am-defender-800-max-dps-4x4-utv-2019-864041-6/",
+      "ano": 2019,
+      "marca": "BRP"
+    },
+    {
+      "vehicleId": "brp-can-am-defender-800-max-dps-4x4-utv-2020-gasolina",
+      "fipeCodigo": "864041-6",
+      "displayName": "BRP can-am Defender 800 MAX DPS 4x4 (UTV)",
+      "valorAtual": 92008,
+      "canonicalPath": "/fipe/brp/can-am-defender-800-max-dps-4x4-utv-2020-864041-6/",
+      "ano": 2020,
+      "marca": "BRP"
+    },
+    {
+      "vehicleId": "brp-can-am-defender-976-max-dps-4x4-utv-2023-gasolina",
+      "fipeCodigo": "864052-1",
+      "displayName": "BRP can-am Defender 976 MAX DPS 4x4 (UTV)",
+      "valorAtual": 119183,
+      "canonicalPath": "/fipe/brp/can-am-defender-976-max-dps-4x4-utv-2023-864052-1/",
+      "ano": 2023,
+      "marca": "BRP"
+    },
+    {
+      "vehicleId": "brp-can-am-defender-976-max-dps-4x4-utv-2024-gasolina",
+      "fipeCodigo": "864052-1",
+      "displayName": "BRP can-am Defender 976 MAX DPS 4x4 (UTV)",
+      "valorAtual": 124601,
+      "canonicalPath": "/fipe/brp/can-am-defender-976-max-dps-4x4-utv-2024-864052-1/",
+      "ano": 2024,
+      "marca": "BRP"
+    },
+    {
+      "vehicleId": "brp-can-am-defender-976-max-dps-4x4-utv-2025-gasolina",
+      "fipeCodigo": "864052-1",
+      "displayName": "BRP can-am Defender 976 MAX DPS 4x4 (UTV)",
+      "valorAtual": 130465,
+      "canonicalPath": "/fipe/brp/can-am-defender-976-max-dps-4x4-utv-2025-864052-1/",
+      "ano": 2025,
+      "marca": "BRP"
+    },
+    {
+      "vehicleId": "brp-can-am-defender-976-max-dps-4x4-utv-2026-gasolina",
+      "fipeCodigo": "864052-1",
+      "displayName": "BRP can-am Defender 976 MAX DPS 4x4 (UTV)",
+      "valorAtual": 137857,
+      "canonicalPath": "/fipe/brp/can-am-defender-976-max-dps-4x4-utv-2026-864052-1/",
+      "ano": 2026,
+      "marca": "BRP"
+    },
+    {
+      "vehicleId": "brp-can-am-defender-976-max-hd9-4x4-utv-2023-gasolina",
+      "fipeCodigo": "864053-0",
+      "displayName": "BRP can-am Defender 976 MAX HD9 4x4 (UTV)",
+      "valorAtual": 110576,
+      "canonicalPath": "/fipe/brp/can-am-defender-976-max-hd9-4x4-utv-2023-864053-0/",
+      "ano": 2023,
+      "marca": "BRP"
+    },
+    {
+      "vehicleId": "brp-can-am-defender-999-max-limited-hd11-4x4-utv-2026-gasolina",
+      "fipeCodigo": "864063-7",
+      "displayName": "BRP can-am Defender 999 MAX LIMITED HD11 4x4 (UTV)",
+      "valorAtual": 250406,
+      "canonicalPath": "/fipe/brp/can-am-defender-999-max-limited-hd11-4x4-utv-2026-864063-7/",
+      "ano": 2026,
+      "marca": "BRP"
+    },
+    {
+      "vehicleId": "brp-can-am-maver-x3-max-xrs-tb-900-rr-utv-2021-gasolina",
+      "fipeCodigo": "864045-9",
+      "displayName": "BRP can-am Maver. X3 MAX XRS TB 900 RR (UTV)",
+      "valorAtual": 154552,
+      "canonicalPath": "/fipe/brp/can-am-maver-x3-max-xrs-tb-900-rr-utv-2021-864045-9/",
+      "ano": 2021,
+      "marca": "BRP"
+    },
+    {
+      "vehicleId": "brp-can-am-maver-x3-max-xrs-tb-900-rr-utv-2022-gasolina",
+      "fipeCodigo": "864045-9",
+      "displayName": "BRP can-am Maver. X3 MAX XRS TB 900 RR (UTV)",
+      "valorAtual": 165026,
+      "canonicalPath": "/fipe/brp/can-am-maver-x3-max-xrs-tb-900-rr-utv-2022-864045-9/",
+      "ano": 2022,
+      "marca": "BRP"
+    },
+    {
+      "vehicleId": "brp-can-am-maver-x3-max-xrs-tb-900-rr-utv-2023-gasolina",
+      "fipeCodigo": "864045-9",
+      "displayName": "BRP can-am Maver. X3 MAX XRS TB 900 RR (UTV)",
+      "valorAtual": 187483,
+      "canonicalPath": "/fipe/brp/can-am-maver-x3-max-xrs-tb-900-rr-utv-2023-864045-9/",
+      "ano": 2023,
+      "marca": "BRP"
+    },
+    {
+      "vehicleId": "brp-can-am-maver-x3-max-xrs-tb-900-rr-utv-2024-gasolina",
+      "fipeCodigo": "864045-9",
+      "displayName": "BRP can-am Maver. X3 MAX XRS TB 900 RR (UTV)",
+      "valorAtual": 195113,
+      "canonicalPath": "/fipe/brp/can-am-maver-x3-max-xrs-tb-900-rr-utv-2024-864045-9/",
+      "ano": 2024,
+      "marca": "BRP"
+    },
+    {
+      "vehicleId": "brp-can-am-maver-x3-max-xrs-tb-900-rr-utv-2025-gasolina",
+      "fipeCodigo": "864045-9",
+      "displayName": "BRP can-am Maver. X3 MAX XRS TB 900 RR (UTV)",
+      "valorAtual": 202871,
+      "canonicalPath": "/fipe/brp/can-am-maver-x3-max-xrs-tb-900-rr-utv-2025-864045-9/",
+      "ano": 2025,
+      "marca": "BRP"
+    },
+    {
+      "vehicleId": "brp-can-am-maver-x3-max-xrs-tb-900-rr-utv-2026-gasolina",
+      "fipeCodigo": "864045-9",
+      "displayName": "BRP can-am Maver. X3 MAX XRS TB 900 RR (UTV)",
+      "valorAtual": 243382,
+      "canonicalPath": "/fipe/brp/can-am-maver-x3-max-xrs-tb-900-rr-utv-2026-864045-9/",
+      "ano": 2026,
+      "marca": "BRP"
+    },
+    {
+      "vehicleId": "brp-can-am-maverick-max-xrs-1000-4x4-utv-2017-gasolina",
+      "fipeCodigo": "864042-4",
+      "displayName": "BRP can-am Maverick MAX XRS 1000 4x4 (UTV)",
+      "valorAtual": 72405,
+      "canonicalPath": "/fipe/brp/can-am-maverick-max-xrs-1000-4x4-utv-2017-864042-4/",
+      "ano": 2017,
+      "marca": "BRP"
+    },
+    {
+      "vehicleId": "brp-can-am-maverick-r-x-999t-dct-utv-2026-gasolina",
+      "fipeCodigo": "864064-5",
+      "displayName": "BRP can-am Maverick R X 999T DCT (UTV)",
+      "valorAtual": 307544,
+      "canonicalPath": "/fipe/brp/can-am-maverick-r-x-999t-dct-utv-2026-864064-5/",
+      "ano": 2026,
+      "marca": "BRP"
+    },
+    {
+      "vehicleId": "brp-can-am-maverick-r-xrs-999t-dct-utv-2024-gasolina",
+      "fipeCodigo": "864059-9",
+      "displayName": "BRP can-am Maverick R XRS 999T DCT (UTV)",
+      "valorAtual": 300181,
+      "canonicalPath": "/fipe/brp/can-am-maverick-r-xrs-999t-dct-utv-2024-864059-9/",
+      "ano": 2024,
+      "marca": "BRP"
+    },
+    {
+      "vehicleId": "brp-can-am-maverick-r-xrs-999t-dct-utv-2025-gasolina",
+      "fipeCodigo": "864059-9",
+      "displayName": "BRP can-am Maverick R XRS 999T DCT (UTV)",
+      "valorAtual": 319465,
+      "canonicalPath": "/fipe/brp/can-am-maverick-r-xrs-999t-dct-utv-2025-864059-9/",
+      "ano": 2025,
+      "marca": "BRP"
+    },
+    {
+      "vehicleId": "brp-can-am-maverick-r-xrs-999t-dct-utv-2026-gasolina",
+      "fipeCodigo": "864059-9",
+      "displayName": "BRP can-am Maverick R XRS 999T DCT (UTV)",
+      "valorAtual": 347316,
+      "canonicalPath": "/fipe/brp/can-am-maverick-r-xrs-999t-dct-utv-2026-864059-9/",
+      "ano": 2026,
+      "marca": "BRP"
+    },
+    {
+      "vehicleId": "brp-can-am-maverick-sport-dps-1000-4x4-utv-2020-gasolina",
+      "fipeCodigo": "864043-2",
+      "displayName": "BRP can-am Maverick Sport DPS 1000 4x4 (UTV)",
+      "valorAtual": 99524,
+      "canonicalPath": "/fipe/brp/can-am-maverick-sport-dps-1000-4x4-utv-2020-864043-2/",
+      "ano": 2020,
+      "marca": "BRP"
+    },
+    {
+      "vehicleId": "brp-can-am-maverick-trail-dps-4x4-utv-2018-gasolina",
+      "fipeCodigo": "864040-8",
+      "displayName": "BRP can-am Maverick Trail DPS 4x4 (UTV)",
+      "valorAtual": 92660,
+      "canonicalPath": "/fipe/brp/can-am-maverick-trail-dps-4x4-utv-2018-864040-8/",
+      "ano": 2018,
+      "marca": "BRP"
+    },
+    {
+      "vehicleId": "brp-can-am-maverick-trail-dps-4x4-utv-2020-gasolina",
+      "fipeCodigo": "864040-8",
+      "displayName": "BRP can-am Maverick Trail DPS 4x4 (UTV)",
+      "valorAtual": 101557,
+      "canonicalPath": "/fipe/brp/can-am-maverick-trail-dps-4x4-utv-2020-864040-8/",
+      "ano": 2020,
+      "marca": "BRP"
+    },
+    {
+      "vehicleId": "brp-can-am-maverick-x3-max-ds-turbo-utv-2021-gasolina",
+      "fipeCodigo": "864048-3",
+      "displayName": "BRP can-am Maverick X3 MAX DS Turbo (UTV)",
+      "valorAtual": 149768,
+      "canonicalPath": "/fipe/brp/can-am-maverick-x3-max-ds-turbo-utv-2021-864048-3/",
+      "ano": 2021,
+      "marca": "BRP"
+    },
+    {
+      "vehicleId": "brp-can-am-maverick-x3-rs-turbo-r-utv-2021-gasolina",
+      "fipeCodigo": "864049-1",
+      "displayName": "BRP can-am Maverick X3 RS Turbo R(UTV)",
+      "valorAtual": 137520,
+      "canonicalPath": "/fipe/brp/can-am-maverick-x3-rs-turbo-r-utv-2021-864049-1/",
+      "ano": 2021,
+      "marca": "BRP"
+    },
+    {
+      "vehicleId": "brp-can-am-maverick-x3-xrc-900-tb-rr-utv-2020-gasolina",
+      "fipeCodigo": "864044-0",
+      "displayName": "BRP can-am Maverick X3 XRC 900 TB RR  (UTV)",
+      "valorAtual": 134174,
+      "canonicalPath": "/fipe/brp/can-am-maverick-x3-xrc-900-tb-rr-utv-2020-864044-0/",
+      "ano": 2020,
+      "marca": "BRP"
+    },
+    {
+      "vehicleId": "brp-can-am-maverick-x3-xrc-900-tb-rr-utv-2021-gasolina",
+      "fipeCodigo": "864044-0",
+      "displayName": "BRP can-am Maverick X3 XRC 900 TB RR  (UTV)",
+      "valorAtual": 154543,
+      "canonicalPath": "/fipe/brp/can-am-maverick-x3-xrc-900-tb-rr-utv-2021-864044-0/",
+      "ano": 2021,
+      "marca": "BRP"
+    },
+    {
+      "vehicleId": "brp-can-am-maverick-x3-xrc-900-tb-rr-utv-2022-gasolina",
+      "fipeCodigo": "864044-0",
+      "displayName": "BRP can-am Maverick X3 XRC 900 TB RR  (UTV)",
+      "valorAtual": 165020,
+      "canonicalPath": "/fipe/brp/can-am-maverick-x3-xrc-900-tb-rr-utv-2022-864044-0/",
+      "ano": 2022,
+      "marca": "BRP"
+    },
+    {
+      "vehicleId": "brp-can-am-maverick-x3-xrc-900-tb-rr-utv-2023-gasolina",
+      "fipeCodigo": "864044-0",
+      "displayName": "BRP can-am Maverick X3 XRC 900 TB RR  (UTV)",
+      "valorAtual": 181642,
+      "canonicalPath": "/fipe/brp/can-am-maverick-x3-xrc-900-tb-rr-utv-2023-864044-0/",
+      "ano": 2023,
+      "marca": "BRP"
+    },
+    {
+      "vehicleId": "brp-can-am-maverick-x3-xrc-900-tb-rr-utv-2024-gasolina",
+      "fipeCodigo": "864044-0",
+      "displayName": "BRP can-am Maverick X3 XRC 900 TB RR  (UTV)",
+      "valorAtual": 192421,
+      "canonicalPath": "/fipe/brp/can-am-maverick-x3-xrc-900-tb-rr-utv-2024-864044-0/",
+      "ano": 2024,
+      "marca": "BRP"
+    },
+    {
+      "vehicleId": "brp-can-am-maverick-x3-xrc-900-tb-rr-utv-2025-gasolina",
+      "fipeCodigo": "864044-0",
+      "displayName": "BRP can-am Maverick X3 XRC 900 TB RR  (UTV)",
+      "valorAtual": 198059,
+      "canonicalPath": "/fipe/brp/can-am-maverick-x3-xrc-900-tb-rr-utv-2025-864044-0/",
+      "ano": 2025,
+      "marca": "BRP"
+    },
+    {
+      "vehicleId": "brp-can-am-maverick-x3-xrc-900-tb-rr-utv-2026-gasolina",
+      "fipeCodigo": "864044-0",
+      "displayName": "BRP can-am Maverick X3 XRC 900 TB RR  (UTV)",
+      "valorAtual": 209030,
+      "canonicalPath": "/fipe/brp/can-am-maverick-x3-xrc-900-tb-rr-utv-2026-864044-0/",
+      "ano": 2026,
+      "marca": "BRP"
+    },
+    {
+      "vehicleId": "brp-can-am-maverick-x3-xrs-tb-900-rr-utv-2021-gasolina",
+      "fipeCodigo": "864046-7",
+      "displayName": "BRP can-am Maverick X3 XRS TB 900 RR (UTV)",
+      "valorAtual": 141480,
+      "canonicalPath": "/fipe/brp/can-am-maverick-x3-xrs-tb-900-rr-utv-2021-864046-7/",
+      "ano": 2021,
+      "marca": "BRP"
+    },
+    {
+      "vehicleId": "brp-can-am-maverick-x3-xrs-tb-900-rr-utv-2022-gasolina",
+      "fipeCodigo": "864046-7",
+      "displayName": "BRP can-am Maverick X3 XRS TB 900 RR (UTV)",
+      "valorAtual": 156373,
+      "canonicalPath": "/fipe/brp/can-am-maverick-x3-xrs-tb-900-rr-utv-2022-864046-7/",
+      "ano": 2022,
+      "marca": "BRP"
+    },
+    {
+      "vehicleId": "brp-can-am-maverick-x3-xrs-tb-900-rr-utv-2023-gasolina",
+      "fipeCodigo": "864046-7",
+      "displayName": "BRP can-am Maverick X3 XRS TB 900 RR (UTV)",
+      "valorAtual": 166568,
+      "canonicalPath": "/fipe/brp/can-am-maverick-x3-xrs-tb-900-rr-utv-2023-864046-7/",
+      "ano": 2023,
+      "marca": "BRP"
+    },
+    {
+      "vehicleId": "brp-can-am-maverick-x3-xrs-tb-900-rr-utv-2024-gasolina",
+      "fipeCodigo": "864046-7",
+      "displayName": "BRP can-am Maverick X3 XRS TB 900 RR (UTV)",
+      "valorAtual": 171374,
+      "canonicalPath": "/fipe/brp/can-am-maverick-x3-xrs-tb-900-rr-utv-2024-864046-7/",
+      "ano": 2024,
+      "marca": "BRP"
+    },
+    {
+      "vehicleId": "brp-can-am-maverick-x3-xrs-tb-900-rr-utv-2025-gasolina",
+      "fipeCodigo": "864046-7",
+      "displayName": "BRP can-am Maverick X3 XRS TB 900 RR (UTV)",
+      "valorAtual": 191340,
+      "canonicalPath": "/fipe/brp/can-am-maverick-x3-xrs-tb-900-rr-utv-2025-864046-7/",
+      "ano": 2025,
+      "marca": "BRP"
+    },
+    {
+      "vehicleId": "brp-can-am-oultland-max-ltd-1000r-4x4-quad-2021-gasolina",
+      "fipeCodigo": "864051-3",
+      "displayName": "BRP can-am Oultland. Max LTD 1000R 4x4 Quad.",
+      "valorAtual": 87986,
+      "canonicalPath": "/fipe/brp/can-am-oultland-max-ltd-1000r-4x4-quad-2021-864051-3/",
+      "ano": 2021,
+      "marca": "BRP"
+    },
+    {
+      "vehicleId": "brp-can-am-oultland-max-ltd-1000r-4x4-quad-2022-gasolina",
+      "fipeCodigo": "864051-3",
+      "displayName": "BRP can-am Oultland. Max LTD 1000R 4x4 Quad.",
+      "valorAtual": 92441,
+      "canonicalPath": "/fipe/brp/can-am-oultland-max-ltd-1000r-4x4-quad-2022-864051-3/",
+      "ano": 2022,
+      "marca": "BRP"
+    },
+    {
+      "vehicleId": "brp-can-am-oultland-max-ltd-1000r-4x4-quad-2023-gasolina",
+      "fipeCodigo": "864051-3",
+      "displayName": "BRP can-am Oultland. Max LTD 1000R 4x4 Quad.",
+      "valorAtual": 106633,
+      "canonicalPath": "/fipe/brp/can-am-oultland-max-ltd-1000r-4x4-quad-2023-864051-3/",
+      "ano": 2023,
+      "marca": "BRP"
+    },
+    {
+      "vehicleId": "brp-can-am-oultland-max-ltd-1000r-4x4-quad-2024-gasolina",
+      "fipeCodigo": "864051-3",
+      "displayName": "BRP can-am Oultland. Max LTD 1000R 4x4 Quad.",
+      "valorAtual": 110140,
+      "canonicalPath": "/fipe/brp/can-am-oultland-max-ltd-1000r-4x4-quad-2024-864051-3/",
+      "ano": 2024,
+      "marca": "BRP"
+    },
+    {
+      "vehicleId": "brp-can-am-oultland-max-ltd-1000r-4x4-quad-2025-gasolina",
+      "fipeCodigo": "864051-3",
+      "displayName": "BRP can-am Oultland. Max LTD 1000R 4x4 Quad.",
+      "valorAtual": 129569,
+      "canonicalPath": "/fipe/brp/can-am-oultland-max-ltd-1000r-4x4-quad-2025-864051-3/",
+      "ano": 2025,
+      "marca": "BRP"
+    },
+    {
+      "vehicleId": "brp-can-am-oultland-max-ltd-1000r-4x4-quad-2026-gasolina",
+      "fipeCodigo": "864051-3",
+      "displayName": "BRP can-am Oultland. Max LTD 1000R 4x4 Quad.",
+      "valorAtual": 134350,
+      "canonicalPath": "/fipe/brp/can-am-oultland-max-ltd-1000r-4x4-quad-2026-864051-3/",
+      "ano": 2026,
+      "marca": "BRP"
+    },
+    {
+      "vehicleId": "brp-can-am-outlander-400-4x4-quadr-2014-gasolina",
+      "fipeCodigo": "864008-4",
+      "displayName": "BRP can-am Outlander 400 4X4 Quadr.",
+      "valorAtual": 33950,
+      "canonicalPath": "/fipe/brp/can-am-outlander-400-4x4-quadr-2014-864008-4/",
+      "ano": 2014,
+      "marca": "BRP"
+    },
+    {
+      "vehicleId": "brp-can-am-outlander-450-4x4-quadriciclo-2021-gasolina",
+      "fipeCodigo": "864050-5",
+      "displayName": "BRP can-am Outlander 450 4X4 Quadriciclo",
+      "valorAtual": 49982,
+      "canonicalPath": "/fipe/brp/can-am-outlander-450-4x4-quadriciclo-2021-864050-5/",
+      "ano": 2021,
+      "marca": "BRP"
+    },
+    {
+      "vehicleId": "brp-can-am-outlander-570-4x4-quadriciclo-2018-gasolina",
+      "fipeCodigo": "864037-8",
+      "displayName": "BRP can-am Outlander 570 4X4 Quadriciclo",
+      "valorAtual": 48351,
+      "canonicalPath": "/fipe/brp/can-am-outlander-570-4x4-quadriciclo-2018-864037-8/",
+      "ano": 2018,
+      "marca": "BRP"
+    }
+  ],
+  "stats": {
+    "total": 200
+  },
+  "meta": {
+    "geracaoId": "can-2"
+  }
+}

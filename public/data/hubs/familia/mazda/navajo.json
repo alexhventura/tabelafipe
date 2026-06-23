@@ -1,0 +1,42 @@
+{
+  "tipo": "familia",
+  "slug": "navajo",
+  "canonicalPath": "/fipe/mazda/navajo/",
+  "titulo": "Mazda navajo - Tabela FIPE",
+  "descricao": "2 versoes e anos do Mazda navajo na Tabela FIPE.",
+  "seo": {
+    "title": "Mazda navajo - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes Mazda navajo. 2 veiculos indexados.",
+    "h1": "Mazda navajo - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/mazda/navajo/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "mazda-navajo-lx-3-0-v6-1993-gasolina",
+      "fipeCodigo": "020021-2",
+      "displayName": "Mazda Navajo LX 3.0 V6",
+      "valorAtual": 10655,
+      "canonicalPath": "/fipe/mazda/navajo-lx-3-0-v6-1993-020021-2/",
+      "ano": 1993,
+      "marca": "Mazda"
+    },
+    {
+      "vehicleId": "mazda-navajo-lx-3-0-v6-1992-gasolina",
+      "fipeCodigo": "020021-2",
+      "displayName": "Mazda Navajo LX 3.0 V6",
+      "valorAtual": 8436,
+      "canonicalPath": "/fipe/mazda/navajo-lx-3-0-v6-1992-020021-2/",
+      "ano": 1992,
+      "marca": "Mazda"
+    }
+  ],
+  "stats": {
+    "total": 2,
+    "precoMin": 8436,
+    "precoMax": 10655,
+    "anos": [
+      1993,
+      1992
+    ]
+  }
+}

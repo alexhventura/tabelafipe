@@ -1,0 +1,90 @@
+{
+  "tipo": "familia",
+  "slug": "118i",
+  "canonicalPath": "/fipe/bmw/118i/",
+  "titulo": "BMW 118i - Tabela FIPE",
+  "descricao": "7 versoes e anos do BMW 118i na Tabela FIPE.",
+  "seo": {
+    "title": "BMW 118i - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes BMW 118i. 7 veiculos indexados.",
+    "h1": "BMW 118i - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/bmw/118i/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "bmw-118i-m-sport-1-5-tb-12v-aut-5p-2024-gasolina",
+      "fipeCodigo": "009298-3",
+      "displayName": "BMW 118i M Sport 1.5 TB 12V Aut. 5p",
+      "valorAtual": 244785,
+      "canonicalPath": "/fipe/bmw/118i-m-sport-1-5-tb-12v-aut-5p-2024-009298-3/",
+      "ano": 2024,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-118i-sport-1-5-tb-12v-aut-5p-2024-gasolina",
+      "fipeCodigo": "009258-4",
+      "displayName": "BMW 118i Sport 1.5 TB 12V Aut. 5p",
+      "valorAtual": 251793,
+      "canonicalPath": "/fipe/bmw/118i-sport-1-5-tb-12v-aut-5p-2024-009258-4/",
+      "ano": 2024,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-118i-sport-1-5-tb-12v-aut-5p-2023-gasolina",
+      "fipeCodigo": "009258-4",
+      "displayName": "BMW 118i Sport 1.5 TB 12V Aut. 5p",
+      "valorAtual": 203014,
+      "canonicalPath": "/fipe/bmw/118i-sport-1-5-tb-12v-aut-5p-2023-009258-4/",
+      "ano": 2023,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-118i-m-sport-1-5-tb-12v-aut-5p-2023-gasolina",
+      "fipeCodigo": "009298-3",
+      "displayName": "BMW 118i M Sport 1.5 TB 12V Aut. 5p",
+      "valorAtual": 212933,
+      "canonicalPath": "/fipe/bmw/118i-m-sport-1-5-tb-12v-aut-5p-2023-009298-3/",
+      "ano": 2023,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-118i-sport-1-5-tb-12v-aut-5p-2022-gasolina",
+      "fipeCodigo": "009258-4",
+      "displayName": "BMW 118i Sport 1.5 TB 12V Aut. 5p",
+      "valorAtual": 179530,
+      "canonicalPath": "/fipe/bmw/118i-sport-1-5-tb-12v-aut-5p-2022-009258-4/",
+      "ano": 2022,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-118i-sport-1-5-tb-12v-aut-5p-2021-gasolina",
+      "fipeCodigo": "009258-4",
+      "displayName": "BMW 118i Sport 1.5 TB 12V Aut. 5p",
+      "valorAtual": 173670,
+      "canonicalPath": "/fipe/bmw/118i-sport-1-5-tb-12v-aut-5p-2021-009258-4/",
+      "ano": 2021,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-118i-sport-1-5-tb-12v-aut-5p-2020-gasolina",
+      "fipeCodigo": "009258-4",
+      "displayName": "BMW 118i Sport 1.5 TB 12V Aut. 5p",
+      "valorAtual": 130853,
+      "canonicalPath": "/fipe/bmw/118i-sport-1-5-tb-12v-aut-5p-2020-009258-4/",
+      "ano": 2020,
+      "marca": "BMW"
+    }
+  ],
+  "stats": {
+    "total": 7,
+    "precoMin": 130853,
+    "precoMax": 251793,
+    "anos": [
+      2024,
+      2023,
+      2022,
+      2021,
+      2020
+    ]
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "tipo": "geracao",
+  "slug": "sentra-1",
+  "canonicalPath": "/geracao/nissan/sentra-1/",
+  "titulo": "Geracao sentra-1",
+  "descricao": "3 veiculos da geracao sentra-1.",
+  "seo": {
+    "title": "Geracao sentra-1 - Precos FIPE",
+    "description": "Veiculos da geracao sentra-1 na Tabela FIPE.",
+    "h1": "Geracao sentra-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/nissan/sentra-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "nissan-sentra-advance-2-0-16v-aut-0-gasolina",
+      "fipeCodigo": "023187-8",
+      "displayName": "Nissan Sentra Advance 2.0 16V Aut.",
+      "valorAtual": 170577,
+      "canonicalPath": "/fipe/nissan/sentra-advance-2-0-16v-aut-0-023187-8/",
+      "ano": 0,
+      "marca": "Nissan"
+    },
+    {
+      "vehicleId": "nissan-sentra-exclu-int-premium-2-0-16v-aut-0-gasolina",
+      "fipeCodigo": "023189-4",
+      "displayName": "Nissan Sentra Exclu. Int. Premium 2.0 16V Aut.",
+      "valorAtual": 198992,
+      "canonicalPath": "/fipe/nissan/sentra-exclu-int-premium-2-0-16v-aut-0-023189-4/",
+      "ano": 0,
+      "marca": "Nissan"
+    },
+    {
+      "vehicleId": "nissan-sentra-exclusive-2-0-16v-aut-0-gasolina",
+      "fipeCodigo": "023188-6",
+      "displayName": "Nissan Sentra Exclusive 2.0 16V Aut.",
+      "valorAtual": 176068,
+      "canonicalPath": "/fipe/nissan/sentra-exclusive-2-0-16v-aut-0-023188-6/",
+      "ano": 0,
+      "marca": "Nissan"
+    }
+  ],
+  "stats": {
+    "total": 3
+  },
+  "meta": {
+    "geracaoId": "sentra-1"
+  }
+}

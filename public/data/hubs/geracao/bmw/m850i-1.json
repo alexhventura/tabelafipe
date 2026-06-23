@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "m850i-1",
+  "canonicalPath": "/geracao/bmw/m850i-1/",
+  "titulo": "Geracao m850i-1",
+  "descricao": "2 veiculos da geracao m850i-1.",
+  "seo": {
+    "title": "Geracao m850i-1 - Precos FIPE",
+    "description": "Veiculos da geracao m850i-1 na Tabela FIPE.",
+    "h1": "Geracao m850i-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/bmw/m850i-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "bmw-m850i-xdrive-coupe-4-4-v8-530cv-aut-2019-gasolina",
+      "fipeCodigo": "009246-0",
+      "displayName": "BMW M850i XDrive Coupé 4.4 V8 530cv Aut.",
+      "valorAtual": 539319,
+      "canonicalPath": "/fipe/bmw/m850i-xdrive-coupe-4-4-v8-530cv-aut-2019-009246-0/",
+      "ano": 2019,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-m850i-xdrive-coupe-4-4-v8-530cv-aut-2020-gasolina",
+      "fipeCodigo": "009246-0",
+      "displayName": "BMW M850i XDrive Coupé 4.4 V8 530cv Aut.",
+      "valorAtual": 568759,
+      "canonicalPath": "/fipe/bmw/m850i-xdrive-coupe-4-4-v8-530cv-aut-2020-009246-0/",
+      "ano": 2020,
+      "marca": "BMW"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "m850i-1"
+  }
+}

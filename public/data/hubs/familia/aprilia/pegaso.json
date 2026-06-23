@@ -1,0 +1,72 @@
+{
+  "tipo": "familia",
+  "slug": "pegaso",
+  "canonicalPath": "/fipe/aprilia/pegaso/",
+  "titulo": "APRILIA pegaso - Tabela FIPE",
+  "descricao": "5 versoes e anos do APRILIA pegaso na Tabela FIPE.",
+  "seo": {
+    "title": "APRILIA pegaso - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes APRILIA pegaso. 5 veiculos indexados.",
+    "h1": "APRILIA pegaso - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/aprilia/pegaso/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "aprilia-pegaso-650cc-2002-gasolina",
+      "fipeCodigo": "802005-1",
+      "displayName": "APRILIA PEGASO 650cc",
+      "valorAtual": 17060,
+      "canonicalPath": "/fipe/aprilia/pegaso-650cc-2002-802005-1/",
+      "ano": 2002,
+      "marca": "APRILIA"
+    },
+    {
+      "vehicleId": "aprilia-pegaso-650cc-2001-gasolina",
+      "fipeCodigo": "802005-1",
+      "displayName": "APRILIA PEGASO 650cc",
+      "valorAtual": 14931,
+      "canonicalPath": "/fipe/aprilia/pegaso-650cc-2001-802005-1/",
+      "ano": 2001,
+      "marca": "APRILIA"
+    },
+    {
+      "vehicleId": "aprilia-pegaso-650cc-2000-gasolina",
+      "fipeCodigo": "802005-1",
+      "displayName": "APRILIA PEGASO 650cc",
+      "valorAtual": 12637,
+      "canonicalPath": "/fipe/aprilia/pegaso-650cc-2000-802005-1/",
+      "ano": 2000,
+      "marca": "APRILIA"
+    },
+    {
+      "vehicleId": "aprilia-pegaso-650cc-1999-gasolina",
+      "fipeCodigo": "802005-1",
+      "displayName": "APRILIA PEGASO 650cc",
+      "valorAtual": 11800,
+      "canonicalPath": "/fipe/aprilia/pegaso-650cc-1999-802005-1/",
+      "ano": 1999,
+      "marca": "APRILIA"
+    },
+    {
+      "vehicleId": "aprilia-pegaso-650cc-1998-gasolina",
+      "fipeCodigo": "802005-1",
+      "displayName": "APRILIA PEGASO 650cc",
+      "valorAtual": 10508,
+      "canonicalPath": "/fipe/aprilia/pegaso-650cc-1998-802005-1/",
+      "ano": 1998,
+      "marca": "APRILIA"
+    }
+  ],
+  "stats": {
+    "total": 5,
+    "precoMin": 10508,
+    "precoMax": 17060,
+    "anos": [
+      2002,
+      2001,
+      2000,
+      1999,
+      1998
+    ]
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "tipo": "familia",
+  "slug": "shark",
+  "canonicalPath": "/fipe/byd/shark/",
+  "titulo": "BYD shark - Tabela FIPE",
+  "descricao": "3 versoes e anos do BYD shark na Tabela FIPE.",
+  "seo": {
+    "title": "BYD shark - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes BYD shark. 3 veiculos indexados.",
+    "h1": "BYD shark - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/byd/shark/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "byd-shark-gs-1-5-16v-4x4-aut-hibrido-2026-hibrido",
+      "fipeCodigo": "095016-5",
+      "displayName": "BYD SHARK GS 1.5 16V 4x4 Aut. (Híbrido)",
+      "valorAtual": 300646,
+      "canonicalPath": "/fipe/byd/shark-gs-1-5-16v-4x4-aut-hibrido-2026-095016-5/",
+      "ano": 2026,
+      "marca": "BYD"
+    },
+    {
+      "vehicleId": "byd-shark-gs-1-5-16v-4x4-aut-hibrido-2025-hibrido",
+      "fipeCodigo": "095016-5",
+      "displayName": "BYD SHARK GS 1.5 16V 4x4 Aut. (Híbrido)",
+      "valorAtual": 280494,
+      "canonicalPath": "/fipe/byd/shark-gs-1-5-16v-4x4-aut-hibrido-2025-095016-5/",
+      "ano": 2025,
+      "marca": "BYD"
+    },
+    {
+      "vehicleId": "byd-shark-gs-1-5-16v-4x4-aut-hibrido-0-hibrido",
+      "fipeCodigo": "095016-5",
+      "displayName": "BYD SHARK GS 1.5 16V 4x4 Aut. (Híbrido)",
+      "valorAtual": 344749,
+      "canonicalPath": "/fipe/byd/shark-gs-1-5-16v-4x4-aut-hibrido-0-095016-5/",
+      "ano": 0,
+      "marca": "BYD"
+    }
+  ],
+  "stats": {
+    "total": 3,
+    "precoMin": 280494,
+    "precoMax": 344749,
+    "anos": [
+      2026,
+      2025,
+      0
+    ]
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "tipo": "familia",
+  "slug": "breakout",
+  "canonicalPath": "/fipe/harley-davidson/breakout/",
+  "titulo": "HARLEY-DAVIDSON breakout - Tabela FIPE",
+  "descricao": "5 versoes e anos do HARLEY-DAVIDSON breakout na Tabela FIPE.",
+  "seo": {
+    "title": "HARLEY-DAVIDSON breakout - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes HARLEY-DAVIDSON breakout. 5 veiculos indexados.",
+    "h1": "HARLEY-DAVIDSON breakout - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/harley-davidson/breakout/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "harley-davidson-breakout-fxbr-2026-gasolina",
+      "fipeCodigo": "810109-4",
+      "displayName": "HARLEY-DAVIDSON BREAKOUT FXBR",
+      "valorAtual": 132749,
+      "canonicalPath": "/fipe/harley-davidson/breakout-fxbr-2026-810109-4/",
+      "ano": 2026,
+      "marca": "HARLEY-DAVIDSON"
+    },
+    {
+      "vehicleId": "harley-davidson-breakout-fxbr-2025-gasolina",
+      "fipeCodigo": "810109-4",
+      "displayName": "HARLEY-DAVIDSON BREAKOUT FXBR",
+      "valorAtual": 121844,
+      "canonicalPath": "/fipe/harley-davidson/breakout-fxbr-2025-810109-4/",
+      "ano": 2025,
+      "marca": "HARLEY-DAVIDSON"
+    },
+    {
+      "vehicleId": "harley-davidson-breakout-fxbr-2024-gasolina",
+      "fipeCodigo": "810109-4",
+      "displayName": "HARLEY-DAVIDSON BREAKOUT FXBR",
+      "valorAtual": 115343,
+      "canonicalPath": "/fipe/harley-davidson/breakout-fxbr-2024-810109-4/",
+      "ano": 2024,
+      "marca": "HARLEY-DAVIDSON"
+    },
+    {
+      "vehicleId": "harley-davidson-breakout-fxbr-2023-gasolina",
+      "fipeCodigo": "810109-4",
+      "displayName": "HARLEY-DAVIDSON BREAKOUT FXBR",
+      "valorAtual": 105910,
+      "canonicalPath": "/fipe/harley-davidson/breakout-fxbr-2023-810109-4/",
+      "ano": 2023,
+      "marca": "HARLEY-DAVIDSON"
+    },
+    {
+      "vehicleId": "harley-davidson-breakout-fxbr-0-gasolina",
+      "fipeCodigo": "810109-4",
+      "displayName": "HARLEY-DAVIDSON BREAKOUT FXBR",
+      "valorAtual": 146285,
+      "canonicalPath": "/fipe/harley-davidson/breakout-fxbr-0-810109-4/",
+      "ano": 0,
+      "marca": "HARLEY-DAVIDSON"
+    }
+  ],
+  "stats": {
+    "total": 5,
+    "precoMin": 105910,
+    "precoMax": 146285,
+    "anos": [
+      2026,
+      2025,
+      2024,
+      2023,
+      0
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "tipo": "familia",
+  "slug": "pista",
+  "canonicalPath": "/fipe/brandy/pista/",
+  "titulo": "BRANDY pista - Tabela FIPE",
+  "descricao": "2 versoes e anos do BRANDY pista na Tabela FIPE.",
+  "seo": {
+    "title": "BRANDY pista - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes BRANDY pista. 2 veiculos indexados.",
+    "h1": "BRANDY pista - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/brandy/pista/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "brandy-pista-70-1996-gasolina",
+      "fipeCodigo": "804009-5",
+      "displayName": "BRANDY PISTA 70",
+      "valorAtual": 1152,
+      "canonicalPath": "/fipe/brandy/pista-70-1996-804009-5/",
+      "ano": 1996,
+      "marca": "BRANDY"
+    },
+    {
+      "vehicleId": "brandy-pista-70-1995-gasolina",
+      "fipeCodigo": "804009-5",
+      "displayName": "BRANDY PISTA 70",
+      "valorAtual": 1123,
+      "canonicalPath": "/fipe/brandy/pista-70-1995-804009-5/",
+      "ano": 1995,
+      "marca": "BRANDY"
+    }
+  ],
+  "stats": {
+    "total": 2,
+    "precoMin": 1123,
+    "precoMax": 1152,
+    "anos": [
+      1996,
+      1995
+    ]
+  }
+}

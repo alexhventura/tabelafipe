@@ -1,0 +1,60 @@
+{
+  "tipo": "familia",
+  "slug": "i30cw",
+  "canonicalPath": "/fipe/hyundai/i30cw/",
+  "titulo": "Hyundai i30cw - Tabela FIPE",
+  "descricao": "4 versoes e anos do Hyundai i30cw na Tabela FIPE.",
+  "seo": {
+    "title": "Hyundai i30cw - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes Hyundai i30cw. 4 veiculos indexados.",
+    "h1": "Hyundai i30cw - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/hyundai/i30cw/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "hyundai-i30cw-2-0-16v-145cv-mec-5p-2012-gasolina",
+      "fipeCodigo": "015076-2",
+      "displayName": "Hyundai i30cw 2.0 16V 145cv Mec. 5p",
+      "valorAtual": 41018,
+      "canonicalPath": "/fipe/hyundai/i30cw-2-0-16v-145cv-mec-5p-2012-015076-2/",
+      "ano": 2012,
+      "marca": "Hyundai"
+    },
+    {
+      "vehicleId": "hyundai-i30cw-2-0-16v-145cv-aut-5p-2012-gasolina",
+      "fipeCodigo": "015077-0",
+      "displayName": "Hyundai i30cw 2.0 16V 145cv Aut. 5p",
+      "valorAtual": 47547,
+      "canonicalPath": "/fipe/hyundai/i30cw-2-0-16v-145cv-aut-5p-2012-015077-0/",
+      "ano": 2012,
+      "marca": "Hyundai"
+    },
+    {
+      "vehicleId": "hyundai-i30cw-2-0-16v-145cv-mec-5p-2011-gasolina",
+      "fipeCodigo": "015076-2",
+      "displayName": "Hyundai i30cw 2.0 16V 145cv Mec. 5p",
+      "valorAtual": 40017,
+      "canonicalPath": "/fipe/hyundai/i30cw-2-0-16v-145cv-mec-5p-2011-015076-2/",
+      "ano": 2011,
+      "marca": "Hyundai"
+    },
+    {
+      "vehicleId": "hyundai-i30cw-2-0-16v-145cv-aut-5p-2011-gasolina",
+      "fipeCodigo": "015077-0",
+      "displayName": "Hyundai i30cw 2.0 16V 145cv Aut. 5p",
+      "valorAtual": 43791,
+      "canonicalPath": "/fipe/hyundai/i30cw-2-0-16v-145cv-aut-5p-2011-015077-0/",
+      "ano": 2011,
+      "marca": "Hyundai"
+    }
+  ],
+  "stats": {
+    "total": 4,
+    "precoMin": 40017,
+    "precoMax": 47547,
+    "anos": [
+      2012,
+      2011
+    ]
+  }
+}

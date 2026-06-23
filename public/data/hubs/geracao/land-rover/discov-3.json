@@ -1,0 +1,57 @@
+{
+  "tipo": "geracao",
+  "slug": "discov-3",
+  "canonicalPath": "/geracao/land-rover/discov-3/",
+  "titulo": "Geracao discov-3",
+  "descricao": "4 veiculos da geracao discov-3.",
+  "seo": {
+    "title": "Geracao discov-3 - Precos FIPE",
+    "description": "Veiculos da geracao discov-3 na Tabela FIPE.",
+    "h1": "Geracao discov-3",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/land-rover/discov-3/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "land-rover-discov-metrop-edt-3-0-4x4-die-hib-2023-hibrido",
+      "fipeCodigo": "033197-0",
+      "displayName": "Land Rover Discov. Metrop. Edt. 3.0 4x4 Die. (Híb.)",
+      "valorAtual": 484387,
+      "canonicalPath": "/fipe/land-rover/discov-metrop-edt-3-0-4x4-die-hib-2023-033197-0/",
+      "ano": 2023,
+      "marca": "Land Rover"
+    },
+    {
+      "vehicleId": "land-rover-discov-metrop-edt-3-0-4x4-die-hib-2024-hibrido",
+      "fipeCodigo": "033197-0",
+      "displayName": "Land Rover Discov. Metrop. Edt. 3.0 4x4 Die. (Híb.)",
+      "valorAtual": 587313,
+      "canonicalPath": "/fipe/land-rover/discov-metrop-edt-3-0-4x4-die-hib-2024-033197-0/",
+      "ano": 2024,
+      "marca": "Land Rover"
+    },
+    {
+      "vehicleId": "land-rover-discov-metrop-edt-3-0-4x4-die-hib-2025-hibrido",
+      "fipeCodigo": "033197-0",
+      "displayName": "Land Rover Discov. Metrop. Edt. 3.0 4x4 Die. (Híb.)",
+      "valorAtual": 658800,
+      "canonicalPath": "/fipe/land-rover/discov-metrop-edt-3-0-4x4-die-hib-2025-033197-0/",
+      "ano": 2025,
+      "marca": "Land Rover"
+    },
+    {
+      "vehicleId": "land-rover-discov-metrop-edt-3-0-4x4-die-hib-2026-hibrido",
+      "fipeCodigo": "033197-0",
+      "displayName": "Land Rover Discov. Metrop. Edt. 3.0 4x4 Die. (Híb.)",
+      "valorAtual": 712125,
+      "canonicalPath": "/fipe/land-rover/discov-metrop-edt-3-0-4x4-die-hib-2026-033197-0/",
+      "ano": 2026,
+      "marca": "Land Rover"
+    }
+  ],
+  "stats": {
+    "total": 4
+  },
+  "meta": {
+    "geracaoId": "discov-3"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "swift-2",
+  "canonicalPath": "/geracao/suzuki/swift-2/",
+  "titulo": "Geracao swift-2",
+  "descricao": "2 veiculos da geracao swift-2.",
+  "seo": {
+    "title": "Geracao swift-2 - Precos FIPE",
+    "description": "Veiculos da geracao swift-2 na Tabela FIPE.",
+    "h1": "Geracao swift-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/suzuki/swift-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "suzuki-swift-sport-1-6-16v-5p-mec-2015-gasolina",
+      "fipeCodigo": "028052-6",
+      "displayName": "Suzuki Swift Sport 1.6 16V 5p Mec.",
+      "valorAtual": 69439,
+      "canonicalPath": "/fipe/suzuki/swift-sport-1-6-16v-5p-mec-2015-028052-6/",
+      "ano": 2015,
+      "marca": "Suzuki"
+    },
+    {
+      "vehicleId": "suzuki-swift-sport-r-1-6-16v-5p-mec-2015-gasolina",
+      "fipeCodigo": "028053-4",
+      "displayName": "Suzuki Swift Sport R 1.6 16V 5p Mec.",
+      "valorAtual": 69493,
+      "canonicalPath": "/fipe/suzuki/swift-sport-r-1-6-16v-5p-mec-2015-028053-4/",
+      "ano": 2015,
+      "marca": "Suzuki"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "swift-2"
+  }
+}

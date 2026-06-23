@@ -1,0 +1,72 @@
+{
+  "tipo": "familia",
+  "slug": "21000",
+  "canonicalPath": "/fipe/chevrolet/21000/",
+  "titulo": "CHEVROLET 21000 - Tabela FIPE",
+  "descricao": "5 versoes e anos do CHEVROLET 21000 na Tabela FIPE.",
+  "seo": {
+    "title": "CHEVROLET 21000 - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes CHEVROLET 21000. 5 veiculos indexados.",
+    "h1": "CHEVROLET 21000 - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/chevrolet/21000/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "chevrolet-21000-2p-diesel-1989-diesel",
+      "fipeCodigo": "502011-5",
+      "displayName": "CHEVROLET 21000 2p (diesel)",
+      "valorAtual": 25929,
+      "canonicalPath": "/fipe/chevrolet/21000-2p-diesel-1989-502011-5/",
+      "ano": 1989,
+      "marca": "CHEVROLET"
+    },
+    {
+      "vehicleId": "chevrolet-21000-2p-diesel-1988-diesel",
+      "fipeCodigo": "502011-5",
+      "displayName": "CHEVROLET 21000 2p (diesel)",
+      "valorAtual": 24885,
+      "canonicalPath": "/fipe/chevrolet/21000-2p-diesel-1988-502011-5/",
+      "ano": 1988,
+      "marca": "CHEVROLET"
+    },
+    {
+      "vehicleId": "chevrolet-21000-2p-diesel-1987-diesel",
+      "fipeCodigo": "502011-5",
+      "displayName": "CHEVROLET 21000 2p (diesel)",
+      "valorAtual": 23142,
+      "canonicalPath": "/fipe/chevrolet/21000-2p-diesel-1987-502011-5/",
+      "ano": 1987,
+      "marca": "CHEVROLET"
+    },
+    {
+      "vehicleId": "chevrolet-21000-2p-diesel-1986-diesel",
+      "fipeCodigo": "502011-5",
+      "displayName": "CHEVROLET 21000 2p (diesel)",
+      "valorAtual": 20485,
+      "canonicalPath": "/fipe/chevrolet/21000-2p-diesel-1986-502011-5/",
+      "ano": 1986,
+      "marca": "CHEVROLET"
+    },
+    {
+      "vehicleId": "chevrolet-21000-2p-diesel-1985-diesel",
+      "fipeCodigo": "502011-5",
+      "displayName": "CHEVROLET 21000 2p (diesel)",
+      "valorAtual": 18848,
+      "canonicalPath": "/fipe/chevrolet/21000-2p-diesel-1985-502011-5/",
+      "ano": 1985,
+      "marca": "CHEVROLET"
+    }
+  ],
+  "stats": {
+    "total": 5,
+    "precoMin": 18848,
+    "precoMax": 25929,
+    "anos": [
+      1989,
+      1988,
+      1987,
+      1986,
+      1985
+    ]
+  }
+}

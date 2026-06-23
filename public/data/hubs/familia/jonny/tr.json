@@ -1,0 +1,82 @@
+{
+  "tipo": "familia",
+  "slug": "tr",
+  "canonicalPath": "/fipe/jonny/tr/",
+  "titulo": "JONNY tr - Tabela FIPE",
+  "descricao": "6 versoes e anos do JONNY tr na Tabela FIPE.",
+  "seo": {
+    "title": "JONNY tr - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes JONNY tr. 6 veiculos indexados.",
+    "h1": "JONNY tr - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/jonny/tr/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "jonny-tr-150cc-2012-gasolina",
+      "fipeCodigo": "865005-5",
+      "displayName": "JONNY TR 150cc",
+      "valorAtual": 2594,
+      "canonicalPath": "/fipe/jonny/tr-150cc-2012-865005-5/",
+      "ano": 2012,
+      "marca": "JONNY"
+    },
+    {
+      "vehicleId": "jonny-tr-150cc-2011-gasolina",
+      "fipeCodigo": "865005-5",
+      "displayName": "JONNY TR 150cc",
+      "valorAtual": 2505,
+      "canonicalPath": "/fipe/jonny/tr-150cc-2011-865005-5/",
+      "ano": 2011,
+      "marca": "JONNY"
+    },
+    {
+      "vehicleId": "jonny-tr-150cc-2010-gasolina",
+      "fipeCodigo": "865005-5",
+      "displayName": "JONNY TR 150cc",
+      "valorAtual": 2357,
+      "canonicalPath": "/fipe/jonny/tr-150cc-2010-865005-5/",
+      "ano": 2010,
+      "marca": "JONNY"
+    },
+    {
+      "vehicleId": "jonny-tr-150cc-2009-gasolina",
+      "fipeCodigo": "865005-5",
+      "displayName": "JONNY TR 150cc",
+      "valorAtual": 2138,
+      "canonicalPath": "/fipe/jonny/tr-150cc-2009-865005-5/",
+      "ano": 2009,
+      "marca": "JONNY"
+    },
+    {
+      "vehicleId": "jonny-tr-150cc-2008-gasolina",
+      "fipeCodigo": "865005-5",
+      "displayName": "JONNY TR 150cc",
+      "valorAtual": 2047,
+      "canonicalPath": "/fipe/jonny/tr-150cc-2008-865005-5/",
+      "ano": 2008,
+      "marca": "JONNY"
+    },
+    {
+      "vehicleId": "jonny-tr-150cc-2006-gasolina",
+      "fipeCodigo": "865005-5",
+      "displayName": "JONNY TR 150cc",
+      "valorAtual": 1876,
+      "canonicalPath": "/fipe/jonny/tr-150cc-2006-865005-5/",
+      "ano": 2006,
+      "marca": "JONNY"
+    }
+  ],
+  "stats": {
+    "total": 6,
+    "precoMin": 1876,
+    "precoMax": 2594,
+    "anos": [
+      2012,
+      2011,
+      2010,
+      2009,
+      2008,
+      2006
+    ]
+  }
+}

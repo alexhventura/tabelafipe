@@ -1,0 +1,75 @@
+{
+  "tipo": "geracao",
+  "slug": "750il-2",
+  "canonicalPath": "/geracao/bmw/750il-2/",
+  "titulo": "Geracao 750il-2",
+  "descricao": "6 veiculos da geracao 750il-2.",
+  "seo": {
+    "title": "Geracao 750il-2 - Precos FIPE",
+    "description": "Veiculos da geracao 750il-2 na Tabela FIPE.",
+    "h1": "Geracao 750il-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/bmw/750il-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "bmw-750il-m-sport-sedan-4-4-v8-450cv-aut-2016-gasolina",
+      "fipeCodigo": "009219-3",
+      "displayName": "BMW 750iL M Sport Sedan 4.4 V8 450cv Aut.",
+      "valorAtual": 314202,
+      "canonicalPath": "/fipe/bmw/750il-m-sport-sedan-4-4-v8-450cv-aut-2016-009219-3/",
+      "ano": 2016,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-750il-m-sport-sedan-4-4-v8-450cv-aut-2017-gasolina",
+      "fipeCodigo": "009219-3",
+      "displayName": "BMW 750iL M Sport Sedan 4.4 V8 450cv Aut.",
+      "valorAtual": 322058,
+      "canonicalPath": "/fipe/bmw/750il-m-sport-sedan-4-4-v8-450cv-aut-2017-009219-3/",
+      "ano": 2017,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-750il-m-sport-sedan-4-4-v8-450cv-aut-2018-gasolina",
+      "fipeCodigo": "009219-3",
+      "displayName": "BMW 750iL M Sport Sedan 4.4 V8 450cv Aut.",
+      "valorAtual": 528686,
+      "canonicalPath": "/fipe/bmw/750il-m-sport-sedan-4-4-v8-450cv-aut-2018-009219-3/",
+      "ano": 2018,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-750il-m-sport-sedan-4-4-v8-450cv-aut-2019-gasolina",
+      "fipeCodigo": "009219-3",
+      "displayName": "BMW 750iL M Sport Sedan 4.4 V8 450cv Aut.",
+      "valorAtual": 630887,
+      "canonicalPath": "/fipe/bmw/750il-m-sport-sedan-4-4-v8-450cv-aut-2019-009219-3/",
+      "ano": 2019,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-750il-pure-excellence-sedan-4-4-v8-aut-2018-gasolina",
+      "fipeCodigo": "009243-6",
+      "displayName": "BMW 750iL Pure Excellence Sedan 4.4 V8 Aut.",
+      "valorAtual": 524139,
+      "canonicalPath": "/fipe/bmw/750il-pure-excellence-sedan-4-4-v8-aut-2018-009243-6/",
+      "ano": 2018,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-750il-pure-excellence-sedan-4-4-v8-aut-2019-gasolina",
+      "fipeCodigo": "009243-6",
+      "displayName": "BMW 750iL Pure Excellence Sedan 4.4 V8 Aut.",
+      "valorAtual": 577318,
+      "canonicalPath": "/fipe/bmw/750il-pure-excellence-sedan-4-4-v8-aut-2019-009243-6/",
+      "ano": 2019,
+      "marca": "BMW"
+    }
+  ],
+  "stats": {
+    "total": 6
+  },
+  "meta": {
+    "geracaoId": "750il-2"
+  }
+}

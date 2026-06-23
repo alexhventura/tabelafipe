@@ -1,0 +1,42 @@
+{
+  "tipo": "familia",
+  "slug": "150",
+  "canonicalPath": "/fipe/sbm/150/",
+  "titulo": "SBM 150 - Tabela FIPE",
+  "descricao": "2 versoes e anos do SBM 150 na Tabela FIPE.",
+  "seo": {
+    "title": "SBM 150 - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes SBM 150. 2 veiculos indexados.",
+    "h1": "SBM 150 - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/sbm/150/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "sbm-150-s-new-jef-2026-gasolina",
+      "fipeCodigo": "704003-2",
+      "displayName": "SBM 150 S - NEW JEF",
+      "valorAtual": 14272,
+      "canonicalPath": "/fipe/sbm/150-s-new-jef-2026-704003-2/",
+      "ano": 2026,
+      "marca": "SBM"
+    },
+    {
+      "vehicleId": "sbm-150-s-new-jef-0-gasolina",
+      "fipeCodigo": "704003-2",
+      "displayName": "SBM 150 S - NEW JEF",
+      "valorAtual": 16225,
+      "canonicalPath": "/fipe/sbm/150-s-new-jef-0-704003-2/",
+      "ano": 0,
+      "marca": "SBM"
+    }
+  ],
+  "stats": {
+    "total": 2,
+    "precoMin": 14272,
+    "precoMax": 16225,
+    "anos": [
+      2026,
+      0
+    ]
+  }
+}

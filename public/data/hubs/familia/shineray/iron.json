@@ -1,0 +1,52 @@
+{
+  "tipo": "familia",
+  "slug": "iron",
+  "canonicalPath": "/fipe/shineray/iron/",
+  "titulo": "SHINERAY iron - Tabela FIPE",
+  "descricao": "3 versoes e anos do SHINERAY iron na Tabela FIPE.",
+  "seo": {
+    "title": "SHINERAY iron - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes SHINERAY iron. 3 veiculos indexados.",
+    "h1": "SHINERAY iron - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/shineray/iron/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "shineray-iron-250-efi-2026-gasolina",
+      "fipeCodigo": "850054-1",
+      "displayName": "SHINERAY IRON 250 EFI",
+      "valorAtual": 22076,
+      "canonicalPath": "/fipe/shineray/iron-250-efi-2026-850054-1/",
+      "ano": 2026,
+      "marca": "SHINERAY"
+    },
+    {
+      "vehicleId": "shineray-iron-250-efi-2025-gasolina",
+      "fipeCodigo": "850054-1",
+      "displayName": "SHINERAY IRON 250 EFI",
+      "valorAtual": 21303,
+      "canonicalPath": "/fipe/shineray/iron-250-efi-2025-850054-1/",
+      "ano": 2025,
+      "marca": "SHINERAY"
+    },
+    {
+      "vehicleId": "shineray-iron-250-efi-0-gasolina",
+      "fipeCodigo": "850054-1",
+      "displayName": "SHINERAY IRON 250 EFI",
+      "valorAtual": 23498,
+      "canonicalPath": "/fipe/shineray/iron-250-efi-0-850054-1/",
+      "ano": 0,
+      "marca": "SHINERAY"
+    }
+  ],
+  "stats": {
+    "total": 3,
+    "precoMin": 21303,
+    "precoMax": 23498,
+    "anos": [
+      2026,
+      2025,
+      0
+    ]
+  }
+}

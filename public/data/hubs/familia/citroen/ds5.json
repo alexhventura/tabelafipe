@@ -1,0 +1,100 @@
+{
+  "tipo": "familia",
+  "slug": "ds5",
+  "canonicalPath": "/fipe/citroen/ds5/",
+  "titulo": "Citroën ds5 - Tabela FIPE",
+  "descricao": "8 versoes e anos do Citroën ds5 na Tabela FIPE.",
+  "seo": {
+    "title": "Citroën ds5 - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes Citroën ds5. 8 veiculos indexados.",
+    "h1": "Citroën ds5 - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/citroen/ds5/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "citroen-ds5-1-6-so-chic-turbo-16v-5p-aut-2018-gasolina",
+      "fipeCodigo": "011154-6",
+      "displayName": "Citroën DS5 1.6 So Chic Turbo 16V 5p Aut.",
+      "valorAtual": 90622,
+      "canonicalPath": "/fipe/citroen/ds5-1-6-so-chic-turbo-16v-5p-aut-2018-011154-6/",
+      "ano": 2018,
+      "marca": "Citroën"
+    },
+    {
+      "vehicleId": "citroen-ds5-1-6-so-chic-turbo-16v-5p-aut-2017-gasolina",
+      "fipeCodigo": "011154-6",
+      "displayName": "Citroën DS5 1.6 So Chic Turbo 16V 5p Aut.",
+      "valorAtual": 77456,
+      "canonicalPath": "/fipe/citroen/ds5-1-6-so-chic-turbo-16v-5p-aut-2017-011154-6/",
+      "ano": 2017,
+      "marca": "Citroën"
+    },
+    {
+      "vehicleId": "citroen-ds5-1-6-be-chic-turbo-16v-5p-aut-2016-gasolina",
+      "fipeCodigo": "011155-4",
+      "displayName": "Citroën DS5 1.6 Be Chic Turbo 16V 5p Aut.",
+      "valorAtual": 75200,
+      "canonicalPath": "/fipe/citroen/ds5-1-6-be-chic-turbo-16v-5p-aut-2016-011155-4/",
+      "ano": 2016,
+      "marca": "Citroën"
+    },
+    {
+      "vehicleId": "citroen-ds5-1-6-so-chic-turbo-16v-5p-aut-2016-gasolina",
+      "fipeCodigo": "011154-6",
+      "displayName": "Citroën DS5 1.6 So Chic Turbo 16V 5p Aut.",
+      "valorAtual": 75566,
+      "canonicalPath": "/fipe/citroen/ds5-1-6-so-chic-turbo-16v-5p-aut-2016-011154-6/",
+      "ano": 2016,
+      "marca": "Citroën"
+    },
+    {
+      "vehicleId": "citroen-ds5-1-6-be-chic-turbo-16v-5p-aut-2015-gasolina",
+      "fipeCodigo": "011155-4",
+      "displayName": "Citroën DS5 1.6 Be Chic Turbo 16V 5p Aut.",
+      "valorAtual": 71733,
+      "canonicalPath": "/fipe/citroen/ds5-1-6-be-chic-turbo-16v-5p-aut-2015-011155-4/",
+      "ano": 2015,
+      "marca": "Citroën"
+    },
+    {
+      "vehicleId": "citroen-ds5-1-6-so-chic-turbo-16v-5p-aut-2015-gasolina",
+      "fipeCodigo": "011154-6",
+      "displayName": "Citroën DS5 1.6 So Chic Turbo 16V 5p Aut.",
+      "valorAtual": 73722,
+      "canonicalPath": "/fipe/citroen/ds5-1-6-so-chic-turbo-16v-5p-aut-2015-011154-6/",
+      "ano": 2015,
+      "marca": "Citroën"
+    },
+    {
+      "vehicleId": "citroen-ds5-1-6-turbo-16v-5p-aut-2014-gasolina",
+      "fipeCodigo": "011120-1",
+      "displayName": "Citroën DS5 1.6 Turbo 16V 5p Aut.",
+      "valorAtual": 71352,
+      "canonicalPath": "/fipe/citroen/ds5-1-6-turbo-16v-5p-aut-2014-011120-1/",
+      "ano": 2014,
+      "marca": "Citroën"
+    },
+    {
+      "vehicleId": "citroen-ds5-1-6-turbo-16v-5p-aut-2013-gasolina",
+      "fipeCodigo": "011120-1",
+      "displayName": "Citroën DS5 1.6 Turbo 16V 5p Aut.",
+      "valorAtual": 65205,
+      "canonicalPath": "/fipe/citroen/ds5-1-6-turbo-16v-5p-aut-2013-011120-1/",
+      "ano": 2013,
+      "marca": "Citroën"
+    }
+  ],
+  "stats": {
+    "total": 8,
+    "precoMin": 65205,
+    "precoMax": 90622,
+    "anos": [
+      2018,
+      2017,
+      2016,
+      2015,
+      2014,
+      2013
+    ]
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "tipo": "geracao",
+  "slug": "carnival-2",
+  "canonicalPath": "/geracao/kia-motors/carnival-2/",
+  "titulo": "Geracao carnival-2",
+  "descricao": "4 veiculos da geracao carnival-2.",
+  "seo": {
+    "title": "Geracao carnival-2 - Precos FIPE",
+    "description": "Veiculos da geracao carnival-2 na Tabela FIPE.",
+    "h1": "Geracao carnival-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/kia-motors/carnival-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "kia-motors-carnival-2-5-v6-1999-gasolina",
+      "fipeCodigo": "018016-5",
+      "displayName": "Kia Motors Carnival 2.5 V6",
+      "valorAtual": 17062,
+      "canonicalPath": "/fipe/kia-motors/carnival-2-5-v6-1999-018016-5/",
+      "ano": 1999,
+      "marca": "Kia Motors"
+    },
+    {
+      "vehicleId": "kia-motors-carnival-2-5-v6-2000-gasolina",
+      "fipeCodigo": "018016-5",
+      "displayName": "Kia Motors Carnival 2.5 V6",
+      "valorAtual": 21366,
+      "canonicalPath": "/fipe/kia-motors/carnival-2-5-v6-2000-018016-5/",
+      "ano": 2000,
+      "marca": "Kia Motors"
+    },
+    {
+      "vehicleId": "kia-motors-carnival-2-5-v6-2001-gasolina",
+      "fipeCodigo": "018016-5",
+      "displayName": "Kia Motors Carnival 2.5 V6",
+      "valorAtual": 27917,
+      "canonicalPath": "/fipe/kia-motors/carnival-2-5-v6-2001-018016-5/",
+      "ano": 2001,
+      "marca": "Kia Motors"
+    },
+    {
+      "vehicleId": "kia-motors-carnival-gs-2-9-tdi-16v-125cv-diesel-2001-diesel",
+      "fipeCodigo": "018043-2",
+      "displayName": "Kia Motors Carnival GS 2.9 TDI 16V 125cv Diesel",
+      "valorAtual": 28092,
+      "canonicalPath": "/fipe/kia-motors/carnival-gs-2-9-tdi-16v-125cv-diesel-2001-018043-2/",
+      "ano": 2001,
+      "marca": "Kia Motors"
+    }
+  ],
+  "stats": {
+    "total": 4
+  },
+  "meta": {
+    "geracaoId": "carnival-2"
+  }
+}

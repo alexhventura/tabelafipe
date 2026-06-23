@@ -1,0 +1,66 @@
+{
+  "tipo": "geracao",
+  "slug": "s4-1",
+  "canonicalPath": "/geracao/audi/s4-1/",
+  "titulo": "Geracao s4-1",
+  "descricao": "5 veiculos da geracao s4-1.",
+  "seo": {
+    "title": "Geracao s4-1 - Precos FIPE",
+    "description": "Veiculos da geracao s4-1 na Tabela FIPE.",
+    "h1": "Geracao s4-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/audi/s4-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "audi-s4-2-7-avant-turbo-quattro-2000-gasolina",
+      "fipeCodigo": "008069-1",
+      "displayName": "Audi S4 2.7 Avant Turbo Quattro",
+      "valorAtual": 46533,
+      "canonicalPath": "/fipe/audi/s4-2-7-avant-turbo-quattro-2000-008069-1/",
+      "ano": 2000,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-s4-2-7-avant-turbo-quattro-2001-gasolina",
+      "fipeCodigo": "008069-1",
+      "displayName": "Audi S4 2.7 Avant Turbo Quattro",
+      "valorAtual": 47842,
+      "canonicalPath": "/fipe/audi/s4-2-7-avant-turbo-quattro-2001-008069-1/",
+      "ano": 2001,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-s4-2-7-turbo-quattro-mec-1999-gasolina",
+      "fipeCodigo": "008063-2",
+      "displayName": "Audi S4 2.7 Turbo Quattro Mec.",
+      "valorAtual": 30756,
+      "canonicalPath": "/fipe/audi/s4-2-7-turbo-quattro-mec-1999-008063-2/",
+      "ano": 1999,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-s4-2-7-turbo-quattro-mec-2000-gasolina",
+      "fipeCodigo": "008063-2",
+      "displayName": "Audi S4 2.7 Turbo Quattro Mec.",
+      "valorAtual": 38916,
+      "canonicalPath": "/fipe/audi/s4-2-7-turbo-quattro-mec-2000-008063-2/",
+      "ano": 2000,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-s4-2-7-turbo-quattro-mec-2001-gasolina",
+      "fipeCodigo": "008063-2",
+      "displayName": "Audi S4 2.7 Turbo Quattro Mec.",
+      "valorAtual": 44636,
+      "canonicalPath": "/fipe/audi/s4-2-7-turbo-quattro-mec-2001-008063-2/",
+      "ano": 2001,
+      "marca": "Audi"
+    }
+  ],
+  "stats": {
+    "total": 5
+  },
+  "meta": {
+    "geracaoId": "s4-1"
+  }
+}

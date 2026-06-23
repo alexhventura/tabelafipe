@@ -1,0 +1,48 @@
+{
+  "tipo": "geracao",
+  "slug": "sc-1",
+  "canonicalPath": "/geracao/lexus/sc-1/",
+  "titulo": "Geracao sc-1",
+  "descricao": "3 veiculos da geracao sc-1.",
+  "seo": {
+    "title": "Geracao sc-1 - Precos FIPE",
+    "description": "Veiculos da geracao sc-1 na Tabela FIPE.",
+    "h1": "Geracao sc-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/lexus/sc-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "lexus-sc-400-4-0-v8-1993-gasolina",
+      "fipeCodigo": "057003-6",
+      "displayName": "Lexus SC 400 4.0 V8",
+      "valorAtual": 34112,
+      "canonicalPath": "/fipe/lexus/sc-400-4-0-v8-1993-057003-6/",
+      "ano": 1993,
+      "marca": "Lexus"
+    },
+    {
+      "vehicleId": "lexus-sc-400-4-0-v8-1994-gasolina",
+      "fipeCodigo": "057003-6",
+      "displayName": "Lexus SC 400 4.0 V8",
+      "valorAtual": 34965,
+      "canonicalPath": "/fipe/lexus/sc-400-4-0-v8-1994-057003-6/",
+      "ano": 1994,
+      "marca": "Lexus"
+    },
+    {
+      "vehicleId": "lexus-sc-400-4-0-v8-1995-gasolina",
+      "fipeCodigo": "057003-6",
+      "displayName": "Lexus SC 400 4.0 V8",
+      "valorAtual": 35840,
+      "canonicalPath": "/fipe/lexus/sc-400-4-0-v8-1995-057003-6/",
+      "ano": 1995,
+      "marca": "Lexus"
+    }
+  ],
+  "stats": {
+    "total": 3
+  },
+  "meta": {
+    "geracaoId": "sc-1"
+  }
+}

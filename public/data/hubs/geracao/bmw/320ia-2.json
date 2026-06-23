@@ -1,0 +1,48 @@
+{
+  "tipo": "geracao",
+  "slug": "320ia-2",
+  "canonicalPath": "/geracao/bmw/320ia-2/",
+  "titulo": "Geracao 320ia-2",
+  "descricao": "3 veiculos da geracao 320ia-2.",
+  "seo": {
+    "title": "Geracao 320ia-2 - Precos FIPE",
+    "description": "Veiculos da geracao 320ia-2 na Tabela FIPE.",
+    "h1": "Geracao 320ia-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/bmw/320ia-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "bmw-320ia-1991-gasolina",
+      "fipeCodigo": "009039-5",
+      "displayName": "BMW 320iA",
+      "valorAtual": 12694,
+      "canonicalPath": "/fipe/bmw/320ia-1991-009039-5/",
+      "ano": 1991,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-320ia-1992-gasolina",
+      "fipeCodigo": "009039-5",
+      "displayName": "BMW 320iA",
+      "valorAtual": 13935,
+      "canonicalPath": "/fipe/bmw/320ia-1992-009039-5/",
+      "ano": 1992,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-320ia-1993-gasolina",
+      "fipeCodigo": "009039-5",
+      "displayName": "BMW 320iA",
+      "valorAtual": 16739,
+      "canonicalPath": "/fipe/bmw/320ia-1993-009039-5/",
+      "ano": 1993,
+      "marca": "BMW"
+    }
+  ],
+  "stats": {
+    "total": 3
+  },
+  "meta": {
+    "geracaoId": "320ia-2"
+  }
+}

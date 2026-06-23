@@ -1,0 +1,147 @@
+{
+  "tipo": "geracao",
+  "slug": "sh-1",
+  "canonicalPath": "/geracao/honda/sh-1/",
+  "titulo": "Geracao sh-1",
+  "descricao": "14 veiculos da geracao sh-1.",
+  "seo": {
+    "title": "Geracao sh-1 - Precos FIPE",
+    "description": "Veiculos da geracao sh-1 na Tabela FIPE.",
+    "h1": "Geracao sh-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/honda/sh-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "honda-sh-150i-dlx-2017-gasolina",
+      "fipeCodigo": "811146-4",
+      "displayName": "HONDA SH 150i/DLX",
+      "valorAtual": 11764,
+      "canonicalPath": "/fipe/honda/sh-150i-dlx-2017-811146-4/",
+      "ano": 2017,
+      "marca": "HONDA"
+    },
+    {
+      "vehicleId": "honda-sh-150i-dlx-2018-gasolina",
+      "fipeCodigo": "811146-4",
+      "displayName": "HONDA SH 150i/DLX",
+      "valorAtual": 12877,
+      "canonicalPath": "/fipe/honda/sh-150i-dlx-2018-811146-4/",
+      "ano": 2018,
+      "marca": "HONDA"
+    },
+    {
+      "vehicleId": "honda-sh-150i-dlx-2019-gasolina",
+      "fipeCodigo": "811146-4",
+      "displayName": "HONDA SH 150i/DLX",
+      "valorAtual": 13199,
+      "canonicalPath": "/fipe/honda/sh-150i-dlx-2019-811146-4/",
+      "ano": 2019,
+      "marca": "HONDA"
+    },
+    {
+      "vehicleId": "honda-sh-150i-dlx-2020-gasolina",
+      "fipeCodigo": "811146-4",
+      "displayName": "HONDA SH 150i/DLX",
+      "valorAtual": 13529,
+      "canonicalPath": "/fipe/honda/sh-150i-dlx-2020-811146-4/",
+      "ano": 2020,
+      "marca": "HONDA"
+    },
+    {
+      "vehicleId": "honda-sh-150i-dlx-2021-gasolina",
+      "fipeCodigo": "811146-4",
+      "displayName": "HONDA SH 150i/DLX",
+      "valorAtual": 13868,
+      "canonicalPath": "/fipe/honda/sh-150i-dlx-2021-811146-4/",
+      "ano": 2021,
+      "marca": "HONDA"
+    },
+    {
+      "vehicleId": "honda-sh-300i-2016-gasolina",
+      "fipeCodigo": "811140-5",
+      "displayName": "HONDA SH 300i",
+      "valorAtual": 15525,
+      "canonicalPath": "/fipe/honda/sh-300i-2016-811140-5/",
+      "ano": 2016,
+      "marca": "HONDA"
+    },
+    {
+      "vehicleId": "honda-sh-300i-2017-gasolina",
+      "fipeCodigo": "811140-5",
+      "displayName": "HONDA SH 300i",
+      "valorAtual": 15914,
+      "canonicalPath": "/fipe/honda/sh-300i-2017-811140-5/",
+      "ano": 2017,
+      "marca": "HONDA"
+    },
+    {
+      "vehicleId": "honda-sh-300i-2018-gasolina",
+      "fipeCodigo": "811140-5",
+      "displayName": "HONDA SH 300i",
+      "valorAtual": 16312,
+      "canonicalPath": "/fipe/honda/sh-300i-2018-811140-5/",
+      "ano": 2018,
+      "marca": "HONDA"
+    },
+    {
+      "vehicleId": "honda-sh-300i-2019-gasolina",
+      "fipeCodigo": "811140-5",
+      "displayName": "HONDA SH 300i",
+      "valorAtual": 17994,
+      "canonicalPath": "/fipe/honda/sh-300i-2019-811140-5/",
+      "ano": 2019,
+      "marca": "HONDA"
+    },
+    {
+      "vehicleId": "honda-sh-300i-2020-gasolina",
+      "fipeCodigo": "811140-5",
+      "displayName": "HONDA SH 300i",
+      "valorAtual": 18641,
+      "canonicalPath": "/fipe/honda/sh-300i-2020-811140-5/",
+      "ano": 2020,
+      "marca": "HONDA"
+    },
+    {
+      "vehicleId": "honda-sh-300i-2021-gasolina",
+      "fipeCodigo": "811140-5",
+      "displayName": "HONDA SH 300i",
+      "valorAtual": 19295,
+      "canonicalPath": "/fipe/honda/sh-300i-2021-811140-5/",
+      "ano": 2021,
+      "marca": "HONDA"
+    },
+    {
+      "vehicleId": "honda-sh-300i-sport-2019-gasolina",
+      "fipeCodigo": "811152-9",
+      "displayName": "HONDA SH 300i Sport",
+      "valorAtual": 18205,
+      "canonicalPath": "/fipe/honda/sh-300i-sport-2019-811152-9/",
+      "ano": 2019,
+      "marca": "HONDA"
+    },
+    {
+      "vehicleId": "honda-sh-300i-sport-2020-gasolina",
+      "fipeCodigo": "811152-9",
+      "displayName": "HONDA SH 300i Sport",
+      "valorAtual": 19024,
+      "canonicalPath": "/fipe/honda/sh-300i-sport-2020-811152-9/",
+      "ano": 2020,
+      "marca": "HONDA"
+    },
+    {
+      "vehicleId": "honda-sh-300i-sport-2021-gasolina",
+      "fipeCodigo": "811152-9",
+      "displayName": "HONDA SH 300i Sport",
+      "valorAtual": 21340,
+      "canonicalPath": "/fipe/honda/sh-300i-sport-2021-811152-9/",
+      "ano": 2021,
+      "marca": "HONDA"
+    }
+  ],
+  "stats": {
+    "total": 14
+  },
+  "meta": {
+    "geracaoId": "sh-1"
+  }
+}

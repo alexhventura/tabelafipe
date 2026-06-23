@@ -1,0 +1,79 @@
+{
+  "tipo": "familia",
+  "slug": "aceman",
+  "canonicalPath": "/fipe/mini/aceman/",
+  "titulo": "MINI aceman - Tabela FIPE",
+  "descricao": "6 versoes e anos do MINI aceman na Tabela FIPE.",
+  "seo": {
+    "title": "MINI aceman - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes MINI aceman. 6 veiculos indexados.",
+    "h1": "MINI aceman - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/mini/aceman/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "mini-aceman-e-eletrico-2026-eletrico",
+      "fipeCodigo": "071062-8",
+      "displayName": "MINI Aceman E (Elétrico)",
+      "valorAtual": 225773,
+      "canonicalPath": "/fipe/mini/aceman-e-eletrico-2026-071062-8/",
+      "ano": 2026,
+      "marca": "MINI"
+    },
+    {
+      "vehicleId": "mini-aceman-se-eletrico-2026-eletrico",
+      "fipeCodigo": "071063-6",
+      "displayName": "MINI Aceman SE (Elétrico)",
+      "valorAtual": 265854,
+      "canonicalPath": "/fipe/mini/aceman-se-eletrico-2026-071063-6/",
+      "ano": 2026,
+      "marca": "MINI"
+    },
+    {
+      "vehicleId": "mini-aceman-e-eletrico-2025-eletrico",
+      "fipeCodigo": "071062-8",
+      "displayName": "MINI Aceman E (Elétrico)",
+      "valorAtual": 206707,
+      "canonicalPath": "/fipe/mini/aceman-e-eletrico-2025-071062-8/",
+      "ano": 2025,
+      "marca": "MINI"
+    },
+    {
+      "vehicleId": "mini-aceman-se-eletrico-2025-eletrico",
+      "fipeCodigo": "071063-6",
+      "displayName": "MINI Aceman SE (Elétrico)",
+      "valorAtual": 246057,
+      "canonicalPath": "/fipe/mini/aceman-se-eletrico-2025-071063-6/",
+      "ano": 2025,
+      "marca": "MINI"
+    },
+    {
+      "vehicleId": "mini-aceman-e-eletrico-0-eletrico",
+      "fipeCodigo": "071062-8",
+      "displayName": "MINI Aceman E (Elétrico)",
+      "valorAtual": 275990,
+      "canonicalPath": "/fipe/mini/aceman-e-eletrico-0-071062-8/",
+      "ano": 0,
+      "marca": "MINI"
+    },
+    {
+      "vehicleId": "mini-aceman-se-eletrico-0-eletrico",
+      "fipeCodigo": "071063-6",
+      "displayName": "MINI Aceman SE (Elétrico)",
+      "valorAtual": 325858,
+      "canonicalPath": "/fipe/mini/aceman-se-eletrico-0-071063-6/",
+      "ano": 0,
+      "marca": "MINI"
+    }
+  ],
+  "stats": {
+    "total": 6,
+    "precoMin": 206707,
+    "precoMax": 325858,
+    "anos": [
+      2026,
+      2025,
+      0
+    ]
+  }
+}

@@ -1,0 +1,572 @@
+{
+  "geradoEm": "2026-06-22T14:38:47.888Z",
+  "totalColisoes": 23347,
+  "classificacao": {
+    "versao_duplicada_multi_ano": 8700,
+    "acentuacao": 11428,
+    "versao_diferente_mesmo_ano": 2782,
+    "versao_duplicada": 437
+  },
+  "interpretacao": {
+    "versao_duplicada_multi_ano": "Mesma chave familia sem ano — varios anos no FIPE (esperado)",
+    "versao_diferente_mesmo_ano": "Versoes distintas no mesmo ano-modelo",
+    "acentuacao": "Diferenca apenas de acentos/grafia",
+    "abreviacao": "MEC/AUT/CVT ou abreviacoes no nome",
+    "nome_comercial_vs_tecnico": "Nomes comerciais vs tecnicos",
+    "ano_divergente": "Anos diferentes na mesma chave"
+  },
+  "matchingScore": {
+    "descricao": "0-1 similaridade marca+modelo+ano",
+    "amostras": [
+      {
+        "key": "adly|atv 100",
+        "tipo": "versao_duplicada_multi_ano",
+        "ids": [
+          "adly-atv-100-2000-gasolina",
+          "adly-atv-100-2001-gasolina",
+          "adly-atv-100-2002-gasolina"
+        ],
+        "scoreMedio": 0.965
+      },
+      {
+        "key": "adly|atv 50",
+        "tipo": "versao_duplicada_multi_ano",
+        "ids": [
+          "adly-atv-50-2000-gasolina",
+          "adly-atv-50-2001-gasolina"
+        ],
+        "scoreMedio": 0.98
+      },
+      {
+        "key": "adly|jaguar jt|1996",
+        "tipo": "acentuacao",
+        "ids": [
+          "adly-jaguar-jt-100-1996-gasolina",
+          "adly-jaguar-jt-50-1996-gasolina"
+        ],
+        "scoreMedio": 0.625
+      },
+      {
+        "key": "adly|jaguar jt 100",
+        "tipo": "versao_duplicada_multi_ano",
+        "ids": [
+          "adly-jaguar-jt-100-1996-gasolina",
+          "adly-jaguar-jt-100-1997-gasolina",
+          "adly-jaguar-jt-100-1998-gasolina",
+          "adly-jaguar-jt-100-1999-gasolina"
+        ],
+        "scoreMedio": 0.96
+      },
+      {
+        "key": "adly|jaguar jt|1997",
+        "tipo": "acentuacao",
+        "ids": [
+          "adly-jaguar-jt-100-1997-gasolina",
+          "adly-jaguar-jt-50-1997-gasolina"
+        ],
+        "scoreMedio": 0.625
+      },
+      {
+        "key": "adly|jaguar jt|1998",
+        "tipo": "acentuacao",
+        "ids": [
+          "adly-jaguar-jt-100-1998-gasolina",
+          "adly-jaguar-jt-50-1998-gasolina"
+        ],
+        "scoreMedio": 0.625
+      },
+      {
+        "key": "adly|jaguar jt|1999",
+        "tipo": "acentuacao",
+        "ids": [
+          "adly-jaguar-jt-100-1999-gasolina",
+          "adly-jaguar-jt-50-1999-gasolina"
+        ],
+        "scoreMedio": 0.625
+      },
+      {
+        "key": "adly|jaguar jt 50",
+        "tipo": "versao_duplicada_multi_ano",
+        "ids": [
+          "adly-jaguar-jt-50-1996-gasolina",
+          "adly-jaguar-jt-50-1997-gasolina",
+          "adly-jaguar-jt-50-1998-gasolina",
+          "adly-jaguar-jt-50-1999-gasolina",
+          "adly-jaguar-jt-50-2000-gasolina",
+          "adly-jaguar-jt-50-2001-gasolina"
+        ],
+        "scoreMedio": 0.9359999999999999
+      },
+      {
+        "key": "agrale|10000 10000 e5",
+        "tipo": "versao_duplicada_multi_ano",
+        "ids": [
+          "agrale-10000-10000-s-2p-diesel-e5-2012-diesel",
+          "agrale-10000-10000-s-2p-diesel-e5-2013-diesel",
+          "agrale-10000-10000-s-2p-diesel-e5-2014-diesel",
+          "agrale-10000-10000-s-2p-diesel-e5-2015-diesel",
+          "agrale-10000-10000-s-2p-diesel-e5-2016-diesel",
+          "agrale-10000-10000-s-2p-diesel-e5-2017-diesel",
+          "agrale-10000-10000-s-2p-diesel-e5-2018-diesel",
+          "agrale-10000-10000-s-2p-diesel-e5-2019-diesel",
+          "agrale-10000-10000-s-2p-diesel-e5-2020-diesel",
+          "agrale-10000-10000-s-2p-diesel-e5-2021-diesel",
+          "agrale-10000-10000-s-2p-diesel-e5-2022-diesel"
+        ],
+        "scoreMedio": 0.8879999999999999
+      },
+      {
+        "key": "agrale|10000 lx e5",
+        "tipo": "versao_duplicada_multi_ano",
+        "ids": [
+          "agrale-10000-lx-2p-diesel-e5-2016-diesel",
+          "agrale-10000-lx-2p-diesel-e5-2017-diesel"
+        ],
+        "scoreMedio": 0.98
+      },
+      {
+        "key": "agrale|13000 turbo",
+        "tipo": "versao_duplicada_multi_ano",
+        "ids": [
+          "agrale-13000-turbo-2p-diesel-2007-diesel",
+          "agrale-13000-turbo-2p-diesel-2008-diesel",
+          "agrale-13000-turbo-2p-diesel-2009-diesel",
+          "agrale-13000-turbo-2p-diesel-2010-diesel",
+          "agrale-13000-turbo-2p-diesel-2011-diesel",
+          "agrale-13000-turbo-2p-diesel-2012-diesel"
+        ],
+        "scoreMedio": 0.9359999999999999
+      },
+      {
+        "key": "agrale|13000 turbo|2008",
+        "tipo": "acentuacao",
+        "ids": [
+          "agrale-13000-turbo-2p-diesel-2008-diesel",
+          "agrale-13000-turbo-3-eixos-2p-diesel-2008-diesel"
+        ],
+        "scoreMedio": 0.717
+      },
+      {
+        "key": "agrale|13000 turbo|2009",
+        "tipo": "acentuacao",
+        "ids": [
+          "agrale-13000-turbo-2p-diesel-2009-diesel",
+          "agrale-13000-turbo-3-eixos-2p-diesel-2009-diesel"
+        ],
+        "scoreMedio": 0.717
+      },
+      {
+        "key": "agrale|13000 turbo|2010",
+        "tipo": "acentuacao",
+        "ids": [
+          "agrale-13000-turbo-2p-diesel-2010-diesel",
+          "agrale-13000-turbo-3-eixos-2p-diesel-2010-diesel"
+        ],
+        "scoreMedio": 0.717
+      },
+      {
+        "key": "agrale|13000 turbo|2011",
+        "tipo": "acentuacao",
+        "ids": [
+          "agrale-13000-turbo-2p-diesel-2011-diesel",
+          "agrale-13000-turbo-3-eixos-2p-diesel-2011-diesel"
+        ],
+        "scoreMedio": 0.717
+      },
+      {
+        "key": "agrale|13000 turbo|2012",
+        "tipo": "acentuacao",
+        "ids": [
+          "agrale-13000-turbo-2p-diesel-2012-diesel",
+          "agrale-13000-turbo-3-eixos-2p-diesel-2012-diesel"
+        ],
+        "scoreMedio": 0.717
+      },
+      {
+        "key": "agrale|13000 turbo eixos",
+        "tipo": "versao_duplicada_multi_ano",
+        "ids": [
+          "agrale-13000-turbo-3-eixos-2p-diesel-2008-diesel",
+          "agrale-13000-turbo-3-eixos-2p-diesel-2009-diesel",
+          "agrale-13000-turbo-3-eixos-2p-diesel-2010-diesel",
+          "agrale-13000-turbo-3-eixos-2p-diesel-2011-diesel",
+          "agrale-13000-turbo-3-eixos-2p-diesel-2012-diesel"
+        ],
+        "scoreMedio": 0.945
+      },
+      {
+        "key": "agrale|14000 14000|2012",
+        "tipo": "acentuacao",
+        "ids": [
+          "agrale-14000-14000-s-2p-diesel-e5-2012-diesel",
+          "agrale-14000-14000-s-6x2-2p-diesel-e5-2012-diesel"
+        ],
+        "scoreMedio": 0.717
+      },
+      {
+        "key": "agrale|14000 14000 e5",
+        "tipo": "versao_duplicada_multi_ano",
+        "ids": [
+          "agrale-14000-14000-s-2p-diesel-e5-2012-diesel",
+          "agrale-14000-14000-s-2p-diesel-e5-2013-diesel",
+          "agrale-14000-14000-s-2p-diesel-e5-2014-diesel",
+          "agrale-14000-14000-s-2p-diesel-e5-2015-diesel",
+          "agrale-14000-14000-s-2p-diesel-e5-2016-diesel",
+          "agrale-14000-14000-s-2p-diesel-e5-2017-diesel",
+          "agrale-14000-14000-s-2p-diesel-e5-2018-diesel",
+          "agrale-14000-14000-s-2p-diesel-e5-2019-diesel",
+          "agrale-14000-14000-s-2p-diesel-e5-2020-diesel",
+          "agrale-14000-14000-s-2p-diesel-e5-2021-diesel",
+          "agrale-14000-14000-s-2p-diesel-e5-2022-diesel",
+          "agrale-14000-14000-s-2p-diesel-e5-2023-diesel"
+        ],
+        "scoreMedio": 0.8836363636363636
+      },
+      {
+        "key": "agrale|14000 14000|2013",
+        "tipo": "acentuacao",
+        "ids": [
+          "agrale-14000-14000-s-2p-diesel-e5-2013-diesel",
+          "agrale-14000-14000-s-6x2-2p-diesel-e5-2013-diesel"
+        ],
+        "scoreMedio": 0.717
+      },
+      {
+        "key": "agrale|14000 14000|2014",
+        "tipo": "acentuacao",
+        "ids": [
+          "agrale-14000-14000-s-2p-diesel-e5-2014-diesel",
+          "agrale-14000-14000-s-6x2-2p-diesel-e5-2014-diesel"
+        ],
+        "scoreMedio": 0.717
+      },
+      {
+        "key": "agrale|14000 14000|2015",
+        "tipo": "acentuacao",
+        "ids": [
+          "agrale-14000-14000-s-2p-diesel-e5-2015-diesel",
+          "agrale-14000-14000-s-6x2-2p-diesel-e5-2015-diesel"
+        ],
+        "scoreMedio": 0.717
+      },
+      {
+        "key": "agrale|14000 14000|2016",
+        "tipo": "acentuacao",
+        "ids": [
+          "agrale-14000-14000-s-2p-diesel-e5-2016-diesel",
+          "agrale-14000-14000-s-6x2-2p-diesel-e5-2016-diesel"
+        ],
+        "scoreMedio": 0.717
+      },
+      {
+        "key": "agrale|14000 14000|2017",
+        "tipo": "acentuacao",
+        "ids": [
+          "agrale-14000-14000-s-2p-diesel-e5-2017-diesel",
+          "agrale-14000-14000-s-6x2-2p-diesel-e5-2017-diesel"
+        ],
+        "scoreMedio": 0.717
+      },
+      {
+        "key": "agrale|14000 14000|2018",
+        "tipo": "acentuacao",
+        "ids": [
+          "agrale-14000-14000-s-2p-diesel-e5-2018-diesel",
+          "agrale-14000-14000-s-6x2-2p-diesel-e5-2018-diesel"
+        ],
+        "scoreMedio": 0.717
+      },
+      {
+        "key": "agrale|14000 14000|2019",
+        "tipo": "acentuacao",
+        "ids": [
+          "agrale-14000-14000-s-2p-diesel-e5-2019-diesel",
+          "agrale-14000-14000-s-6x2-2p-diesel-e5-2019-diesel"
+        ],
+        "scoreMedio": 0.717
+      },
+      {
+        "key": "agrale|14000 14000|2020",
+        "tipo": "acentuacao",
+        "ids": [
+          "agrale-14000-14000-s-2p-diesel-e5-2020-diesel",
+          "agrale-14000-14000-s-6x2-2p-diesel-e5-2020-diesel"
+        ],
+        "scoreMedio": 0.717
+      },
+      {
+        "key": "agrale|14000 14000|2021",
+        "tipo": "acentuacao",
+        "ids": [
+          "agrale-14000-14000-s-2p-diesel-e5-2021-diesel",
+          "agrale-14000-14000-s-6x2-2p-diesel-e5-2021-diesel"
+        ],
+        "scoreMedio": 0.717
+      },
+      {
+        "key": "agrale|14000 14000|2022",
+        "tipo": "acentuacao",
+        "ids": [
+          "agrale-14000-14000-s-2p-diesel-e5-2022-diesel",
+          "agrale-14000-14000-s-6x2-2p-diesel-e5-2022-diesel"
+        ],
+        "scoreMedio": 0.717
+      },
+      {
+        "key": "agrale|14000 14000 6x2 e5",
+        "tipo": "versao_duplicada_multi_ano",
+        "ids": [
+          "agrale-14000-14000-s-6x2-2p-diesel-e5-2012-diesel",
+          "agrale-14000-14000-s-6x2-2p-diesel-e5-2013-diesel",
+          "agrale-14000-14000-s-6x2-2p-diesel-e5-2014-diesel",
+          "agrale-14000-14000-s-6x2-2p-diesel-e5-2015-diesel",
+          "agrale-14000-14000-s-6x2-2p-diesel-e5-2016-diesel",
+          "agrale-14000-14000-s-6x2-2p-diesel-e5-2017-diesel",
+          "agrale-14000-14000-s-6x2-2p-diesel-e5-2018-diesel",
+          "agrale-14000-14000-s-6x2-2p-diesel-e5-2019-diesel",
+          "agrale-14000-14000-s-6x2-2p-diesel-e5-2020-diesel",
+          "agrale-14000-14000-s-6x2-2p-diesel-e5-2021-diesel",
+          "agrale-14000-14000-s-6x2-2p-diesel-e5-2022-diesel"
+        ],
+        "scoreMedio": 0.8879999999999999
+      },
+      {
+        "key": "agrale|14000 lx e5",
+        "tipo": "versao_duplicada_multi_ano",
+        "ids": [
+          "agrale-14000-lx-2p-diesel-e5-2016-diesel",
+          "agrale-14000-lx-2p-diesel-e5-2017-diesel"
+        ],
+        "scoreMedio": 0.98
+      },
+      {
+        "key": "agrale|rd",
+        "tipo": "versao_duplicada_multi_ano",
+        "ids": [
+          "agrale-1600-d-rd-2p-diesel-1985-diesel",
+          "agrale-1600-d-rd-2p-diesel-1986-diesel",
+          "agrale-1600-d-rd-2p-diesel-1987-diesel",
+          "agrale-1600-d-rd-2p-diesel-1988-diesel",
+          "agrale-1600-d-rd-2p-diesel-1989-diesel",
+          "agrale-1600-d-rd-2p-diesel-1990-diesel",
+          "agrale-1600-d-rd-2p-diesel-1991-diesel",
+          "agrale-1600-d-rd-2p-diesel-1992-diesel",
+          "agrale-1600-d-rd-2p-diesel-1993-diesel",
+          "agrale-1600-d-rd-2p-diesel-1994-diesel",
+          "agrale-1800-d-rd-2p-diesel-1988-diesel",
+          "agrale-1800-d-rd-2p-diesel-1989-diesel",
+          "agrale-1800-d-rd-2p-diesel-1990-diesel",
+          "agrale-1800-d-rd-2p-diesel-1991-diesel",
+          "agrale-1800-d-rd-2p-diesel-1992-diesel",
+          "agrale-1800-d-rd-2p-diesel-1993-diesel",
+          "agrale-1800-d-rd-2p-diesel-1994-diesel",
+          "agrale-4500-d-rd-2p-diesel-1994-diesel",
+          "agrale-4500-d-rd-2p-diesel-1995-diesel",
+          "agrale-4500-d-rd-2p-diesel-1996-diesel",
+          "agrale-4500-d-rd-2p-diesel-1997-diesel",
+          "agrale-5000-d-rd-2p-diesel-1994-diesel",
+          "agrale-5000-d-rd-2p-diesel-1995-diesel",
+          "agrale-5000-d-rd-2p-diesel-1996-diesel",
+          "agrale-5000-d-rd-2p-diesel-1997-diesel",
+          "agrale-5000-d-rd-2p-diesel-1998-diesel"
+        ],
+        "scoreMedio": 0.8043999999999997
+      },
+      {
+        "key": "agrale|rd|1988|diesel",
+        "tipo": "versao_diferente_mesmo_ano",
+        "ids": [
+          "agrale-1600-d-rd-2p-diesel-1988-diesel",
+          "agrale-1800-d-rd-2p-diesel-1988-diesel"
+        ],
+        "scoreMedio": 0.9
+      },
+      {
+        "key": "agrale|rd|1988",
+        "tipo": "acentuacao",
+        "ids": [
+          "agrale-1600-d-rd-2p-diesel-1988-diesel",
+          "agrale-1800-d-rd-2p-diesel-1988-diesel"
+        ],
+        "scoreMedio": 0.9
+      },
+      {
+        "key": "agrale|rd|1989|diesel",
+        "tipo": "versao_diferente_mesmo_ano",
+        "ids": [
+          "agrale-1600-d-rd-2p-diesel-1989-diesel",
+          "agrale-1800-d-rd-2p-diesel-1989-diesel"
+        ],
+        "scoreMedio": 0.9
+      },
+      {
+        "key": "agrale|rd|1989",
+        "tipo": "acentuacao",
+        "ids": [
+          "agrale-1600-d-rd-2p-diesel-1989-diesel",
+          "agrale-1800-d-rd-2p-diesel-1989-diesel"
+        ],
+        "scoreMedio": 0.9
+      },
+      {
+        "key": "agrale|rd|1990|diesel",
+        "tipo": "versao_diferente_mesmo_ano",
+        "ids": [
+          "agrale-1600-d-rd-2p-diesel-1990-diesel",
+          "agrale-1800-d-rd-2p-diesel-1990-diesel"
+        ],
+        "scoreMedio": 0.9
+      },
+      {
+        "key": "agrale|rd|1990",
+        "tipo": "acentuacao",
+        "ids": [
+          "agrale-1600-d-rd-2p-diesel-1990-diesel",
+          "agrale-1800-d-rd-2p-diesel-1990-diesel"
+        ],
+        "scoreMedio": 0.9
+      },
+      {
+        "key": "agrale|rd|1991|diesel",
+        "tipo": "versao_diferente_mesmo_ano",
+        "ids": [
+          "agrale-1600-d-rd-2p-diesel-1991-diesel",
+          "agrale-1800-d-rd-2p-diesel-1991-diesel"
+        ],
+        "scoreMedio": 0.9
+      },
+      {
+        "key": "agrale|rd|1991",
+        "tipo": "acentuacao",
+        "ids": [
+          "agrale-1600-d-rd-2p-diesel-1991-diesel",
+          "agrale-1800-d-rd-2p-diesel-1991-diesel"
+        ],
+        "scoreMedio": 0.9
+      },
+      {
+        "key": "agrale|rd|1992|diesel",
+        "tipo": "versao_diferente_mesmo_ano",
+        "ids": [
+          "agrale-1600-d-rd-2p-diesel-1992-diesel",
+          "agrale-1800-d-rd-2p-diesel-1992-diesel"
+        ],
+        "scoreMedio": 0.9
+      },
+      {
+        "key": "agrale|rd|1992",
+        "tipo": "acentuacao",
+        "ids": [
+          "agrale-1600-d-rd-2p-diesel-1992-diesel",
+          "agrale-1800-d-rd-2p-diesel-1992-diesel"
+        ],
+        "scoreMedio": 0.9
+      },
+      {
+        "key": "agrale|rd|1993|diesel",
+        "tipo": "versao_diferente_mesmo_ano",
+        "ids": [
+          "agrale-1600-d-rd-2p-diesel-1993-diesel",
+          "agrale-1800-d-rd-2p-diesel-1993-diesel"
+        ],
+        "scoreMedio": 0.9
+      },
+      {
+        "key": "agrale|rd|1993",
+        "tipo": "acentuacao",
+        "ids": [
+          "agrale-1600-d-rd-2p-diesel-1993-diesel",
+          "agrale-1800-d-rd-2p-diesel-1993-diesel"
+        ],
+        "scoreMedio": 0.9
+      },
+      {
+        "key": "agrale|rd|1994|diesel",
+        "tipo": "versao_diferente_mesmo_ano",
+        "ids": [
+          "agrale-1600-d-rd-2p-diesel-1994-diesel",
+          "agrale-1800-d-rd-2p-diesel-1994-diesel",
+          "agrale-4500-d-rd-2p-diesel-1994-diesel",
+          "agrale-5000-d-rd-2p-diesel-1994-diesel"
+        ],
+        "scoreMedio": 0.9
+      },
+      {
+        "key": "agrale|rd|1994",
+        "tipo": "acentuacao",
+        "ids": [
+          "agrale-1600-d-rd-2p-diesel-1994-diesel",
+          "agrale-1800-d-rd-2p-diesel-1994-diesel",
+          "agrale-4500-d-rd-2p-diesel-1994-diesel",
+          "agrale-5000-d-rd-2p-diesel-1994-diesel"
+        ],
+        "scoreMedio": 0.9
+      },
+      {
+        "key": "agrale|rs",
+        "tipo": "versao_duplicada_multi_ano",
+        "ids": [
+          "agrale-1600-d-rs-2p-diesel-1985-diesel",
+          "agrale-1600-d-rs-2p-diesel-1986-diesel",
+          "agrale-1600-d-rs-2p-diesel-1987-diesel",
+          "agrale-1600-d-rs-2p-diesel-1988-diesel",
+          "agrale-1600-d-rs-2p-diesel-1989-diesel",
+          "agrale-1600-d-rs-2p-diesel-1990-diesel",
+          "agrale-1600-d-rs-2p-diesel-1991-diesel",
+          "agrale-1600-d-rs-2p-diesel-1992-diesel",
+          "agrale-1600-d-rs-2p-diesel-1993-diesel",
+          "agrale-1600-d-rs-2p-diesel-1994-diesel",
+          "agrale-1800-d-rs-2p-diesel-1988-diesel",
+          "agrale-1800-d-rs-2p-diesel-1989-diesel",
+          "agrale-1800-d-rs-2p-diesel-1990-diesel",
+          "agrale-1800-d-rs-2p-diesel-1991-diesel",
+          "agrale-1800-d-rs-2p-diesel-1992-diesel",
+          "agrale-1800-d-rs-2p-diesel-1993-diesel",
+          "agrale-1800-d-rs-2p-diesel-1994-diesel",
+          "agrale-4500-d-rs-2p-diesel-1994-diesel",
+          "agrale-4500-d-rs-2p-diesel-1995-diesel",
+          "agrale-4500-d-rs-2p-diesel-1996-diesel",
+          "agrale-4500-d-rs-2p-diesel-1997-diesel",
+          "agrale-5000-d-rs-2p-diesel-1994-diesel",
+          "agrale-5000-d-rs-2p-diesel-1995-diesel",
+          "agrale-5000-d-rs-2p-diesel-1996-diesel",
+          "agrale-5000-d-rs-2p-diesel-1997-diesel"
+        ],
+        "scoreMedio": 0.807083333333333
+      },
+      {
+        "key": "agrale|rs|1988|diesel",
+        "tipo": "versao_diferente_mesmo_ano",
+        "ids": [
+          "agrale-1600-d-rs-2p-diesel-1988-diesel",
+          "agrale-1800-d-rs-2p-diesel-1988-diesel"
+        ],
+        "scoreMedio": 0.9
+      },
+      {
+        "key": "agrale|rs|1988",
+        "tipo": "acentuacao",
+        "ids": [
+          "agrale-1600-d-rs-2p-diesel-1988-diesel",
+          "agrale-1800-d-rs-2p-diesel-1988-diesel"
+        ],
+        "scoreMedio": 0.9
+      },
+      {
+        "key": "agrale|rs|1989|diesel",
+        "tipo": "versao_diferente_mesmo_ano",
+        "ids": [
+          "agrale-1600-d-rs-2p-diesel-1989-diesel",
+          "agrale-1800-d-rs-2p-diesel-1989-diesel"
+        ],
+        "scoreMedio": 0.9
+      }
+    ]
+  },
+  "recomendacoes": [
+    "Usar manufacturerMatchKey com versao completa para specs",
+    "Propagacao apenas dentro da mesma geracao (generations-catalog)",
+    "Score >= 0.72 para match fabricante direto",
+    "Score 0.55-0.72 com propagacao por geracao"
+  ]
+}

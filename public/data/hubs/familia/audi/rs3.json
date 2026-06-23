@@ -1,0 +1,119 @@
+{
+  "tipo": "familia",
+  "slug": "rs3",
+  "canonicalPath": "/fipe/audi/rs3/",
+  "titulo": "Audi rs3 - Tabela FIPE",
+  "descricao": "10 versoes e anos do Audi rs3 na Tabela FIPE.",
+  "seo": {
+    "title": "Audi rs3 - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes Audi rs3. 10 veiculos indexados.",
+    "h1": "Audi rs3 - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/audi/rs3/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "audi-rs3-sedan-2-5-tfsi-quattro-s-tronic-2026-gasolina",
+      "fipeCodigo": "008221-0",
+      "displayName": "Audi RS3 Sedan 2.5 TFSI Quattro S-tronic",
+      "valorAtual": 593634,
+      "canonicalPath": "/fipe/audi/rs3-sedan-2-5-tfsi-quattro-s-tronic-2026-008221-0/",
+      "ano": 2026,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-rs3-sedan-track-2-5-tfsi-quattro-s-tronic-2026-gasolina",
+      "fipeCodigo": "008321-6",
+      "displayName": "Audi RS3 Sedan Track 2.5 TFSI Quattro S-tronic",
+      "valorAtual": 655017,
+      "canonicalPath": "/fipe/audi/rs3-sedan-track-2-5-tfsi-quattro-s-tronic-2026-008321-6/",
+      "ano": 2026,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-rs3-sportback-2-5-tfsi-quattro-s-tronic-2018-gasolina",
+      "fipeCodigo": "008157-4",
+      "displayName": "Audi RS3 Sportback 2.5 TFSI Quattro S-tronic",
+      "valorAtual": 375579,
+      "canonicalPath": "/fipe/audi/rs3-sportback-2-5-tfsi-quattro-s-tronic-2018-008157-4/",
+      "ano": 2018,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-rs3-sedan-2-5-tfsi-quattro-s-tronic-2018-gasolina",
+      "fipeCodigo": "008221-0",
+      "displayName": "Audi RS3 Sedan 2.5 TFSI Quattro S-tronic",
+      "valorAtual": 383476,
+      "canonicalPath": "/fipe/audi/rs3-sedan-2-5-tfsi-quattro-s-tronic-2018-008221-0/",
+      "ano": 2018,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-rs3-sedan-2-5-tfsi-quattro-s-tronic-2017-gasolina",
+      "fipeCodigo": "008221-0",
+      "displayName": "Audi RS3 Sedan 2.5 TFSI Quattro S-tronic",
+      "valorAtual": 308464,
+      "canonicalPath": "/fipe/audi/rs3-sedan-2-5-tfsi-quattro-s-tronic-2017-008221-0/",
+      "ano": 2017,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-rs3-sportback-2-5-tfsi-quattro-s-tronic-2016-gasolina",
+      "fipeCodigo": "008157-4",
+      "displayName": "Audi RS3 Sportback 2.5 TFSI Quattro S-tronic",
+      "valorAtual": 242081,
+      "canonicalPath": "/fipe/audi/rs3-sportback-2-5-tfsi-quattro-s-tronic-2016-008157-4/",
+      "ano": 2016,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-rs3-sportback-2-5-tfsi-quattro-s-tronic-2013-gasolina",
+      "fipeCodigo": "008157-4",
+      "displayName": "Audi RS3 Sportback 2.5 TFSI Quattro S-tronic",
+      "valorAtual": 202095,
+      "canonicalPath": "/fipe/audi/rs3-sportback-2-5-tfsi-quattro-s-tronic-2013-008157-4/",
+      "ano": 2013,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-rs3-sportback-2-5-tfsi-quattro-s-tronic-2012-gasolina",
+      "fipeCodigo": "008157-4",
+      "displayName": "Audi RS3 Sportback 2.5 TFSI Quattro S-tronic",
+      "valorAtual": 197165,
+      "canonicalPath": "/fipe/audi/rs3-sportback-2-5-tfsi-quattro-s-tronic-2012-008157-4/",
+      "ano": 2012,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-rs3-sedan-2-5-tfsi-quattro-s-tronic-0-gasolina",
+      "fipeCodigo": "008221-0",
+      "displayName": "Audi RS3 Sedan 2.5 TFSI Quattro S-tronic",
+      "valorAtual": 679190,
+      "canonicalPath": "/fipe/audi/rs3-sedan-2-5-tfsi-quattro-s-tronic-0-008221-0/",
+      "ano": 0,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-rs3-sedan-track-2-5-tfsi-quattro-s-tronic-0-gasolina",
+      "fipeCodigo": "008321-6",
+      "displayName": "Audi RS3 Sedan Track 2.5 TFSI Quattro S-tronic",
+      "valorAtual": 733562,
+      "canonicalPath": "/fipe/audi/rs3-sedan-track-2-5-tfsi-quattro-s-tronic-0-008321-6/",
+      "ano": 0,
+      "marca": "Audi"
+    }
+  ],
+  "stats": {
+    "total": 10,
+    "precoMin": 197165,
+    "precoMax": 733562,
+    "anos": [
+      2026,
+      2018,
+      2017,
+      2016,
+      2013,
+      2012,
+      0
+    ]
+  }
+}

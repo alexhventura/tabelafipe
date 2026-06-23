@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "ape-2",
+  "canonicalPath": "/geracao/piaggio/ape-2/",
+  "titulo": "Geracao ape-2",
+  "descricao": "2 veiculos da geracao ape-2.",
+  "seo": {
+    "title": "Geracao ape-2 - Precos FIPE",
+    "description": "Veiculos da geracao ape-2 na Tabela FIPE.",
+    "h1": "Geracao ape-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/piaggio/ape-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "piaggio-ape-cargo-300cc-2022-gasolina",
+      "fipeCodigo": "822043-3",
+      "displayName": "PIAGGIO Apé Cargo 300cc",
+      "valorAtual": 33694,
+      "canonicalPath": "/fipe/piaggio/ape-cargo-300cc-2022-822043-3/",
+      "ano": 2022,
+      "marca": "PIAGGIO"
+    },
+    {
+      "vehicleId": "piaggio-ape-passenger-230cc-2022-gasolina",
+      "fipeCodigo": "822044-1",
+      "displayName": "PIAGGIO Apé Passenger 230cc",
+      "valorAtual": 33668,
+      "canonicalPath": "/fipe/piaggio/ape-passenger-230cc-2022-822044-1/",
+      "ano": 2022,
+      "marca": "PIAGGIO"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "ape-2"
+  }
+}

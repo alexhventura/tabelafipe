@@ -1,0 +1,62 @@
+{
+  "tipo": "familia",
+  "slug": "califfone",
+  "canonicalPath": "/fipe/atala/califfone/",
+  "titulo": "ATALA califfone - Tabela FIPE",
+  "descricao": "4 versoes e anos do ATALA califfone na Tabela FIPE.",
+  "seo": {
+    "title": "ATALA califfone - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes ATALA califfone. 4 veiculos indexados.",
+    "h1": "ATALA califfone - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/atala/califfone/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "atala-califfone-50cc-2003-gasolina",
+      "fipeCodigo": "829002-4",
+      "displayName": "ATALA CALIFFONE 50cc",
+      "valorAtual": 1371,
+      "canonicalPath": "/fipe/atala/califfone-50cc-2003-829002-4/",
+      "ano": 2003,
+      "marca": "ATALA"
+    },
+    {
+      "vehicleId": "atala-califfone-50cc-2002-gasolina",
+      "fipeCodigo": "829002-4",
+      "displayName": "ATALA CALIFFONE 50cc",
+      "valorAtual": 1162,
+      "canonicalPath": "/fipe/atala/califfone-50cc-2002-829002-4/",
+      "ano": 2002,
+      "marca": "ATALA"
+    },
+    {
+      "vehicleId": "atala-califfone-50cc-2001-gasolina",
+      "fipeCodigo": "829002-4",
+      "displayName": "ATALA CALIFFONE 50cc",
+      "valorAtual": 994,
+      "canonicalPath": "/fipe/atala/califfone-50cc-2001-829002-4/",
+      "ano": 2001,
+      "marca": "ATALA"
+    },
+    {
+      "vehicleId": "atala-califfone-50cc-2000-gasolina",
+      "fipeCodigo": "829002-4",
+      "displayName": "ATALA CALIFFONE 50cc",
+      "valorAtual": 949,
+      "canonicalPath": "/fipe/atala/califfone-50cc-2000-829002-4/",
+      "ano": 2000,
+      "marca": "ATALA"
+    }
+  ],
+  "stats": {
+    "total": 4,
+    "precoMin": 949,
+    "precoMax": 1371,
+    "anos": [
+      2003,
+      2002,
+      2001,
+      2000
+    ]
+  }
+}

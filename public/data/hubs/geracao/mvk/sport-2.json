@@ -1,0 +1,48 @@
+{
+  "tipo": "geracao",
+  "slug": "sport-2",
+  "canonicalPath": "/geracao/mvk/sport-2/",
+  "titulo": "Geracao sport-2",
+  "descricao": "3 veiculos da geracao sport-2.",
+  "seo": {
+    "title": "Geracao sport-2 - Precos FIPE",
+    "description": "Veiculos da geracao sport-2 na Tabela FIPE.",
+    "h1": "Geracao sport-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/mvk/sport-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "mvk-sport-150-quadriciclo-2011-gasolina",
+      "fipeCodigo": "845018-8",
+      "displayName": "MVK SPORT 150 QUADRICICLO",
+      "valorAtual": 3402,
+      "canonicalPath": "/fipe/mvk/sport-150-quadriciclo-2011-845018-8/",
+      "ano": 2011,
+      "marca": "MVK"
+    },
+    {
+      "vehicleId": "mvk-sport-150-quadriciclo-2012-gasolina",
+      "fipeCodigo": "845018-8",
+      "displayName": "MVK SPORT 150 QUADRICICLO",
+      "valorAtual": 3619,
+      "canonicalPath": "/fipe/mvk/sport-150-quadriciclo-2012-845018-8/",
+      "ano": 2012,
+      "marca": "MVK"
+    },
+    {
+      "vehicleId": "mvk-sport-150-quadriciclo-2013-gasolina",
+      "fipeCodigo": "845018-8",
+      "displayName": "MVK SPORT 150 QUADRICICLO",
+      "valorAtual": 4098,
+      "canonicalPath": "/fipe/mvk/sport-150-quadriciclo-2013-845018-8/",
+      "ano": 2013,
+      "marca": "MVK"
+    }
+  ],
+  "stats": {
+    "total": 3
+  },
+  "meta": {
+    "geracaoId": "sport-2"
+  }
+}

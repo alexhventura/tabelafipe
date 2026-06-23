@@ -1,0 +1,57 @@
+{
+  "tipo": "geracao",
+  "slug": "nivus-1",
+  "canonicalPath": "/geracao/volkswagen/nivus-1/",
+  "titulo": "Geracao nivus-1",
+  "descricao": "4 veiculos da geracao nivus-1.",
+  "seo": {
+    "title": "Geracao nivus-1 - Precos FIPE",
+    "description": "Veiculos da geracao nivus-1 na Tabela FIPE.",
+    "h1": "Geracao nivus-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/volkswagen/nivus-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "volkswagen-nivus-comfortline-1-0-200-tsi-flex-aut-0-flex",
+      "fipeCodigo": "005525-5",
+      "displayName": "VW - VolksWagen Nivus Comfortline 1.0 200 TSI Flex Aut.",
+      "valorAtual": 145490,
+      "canonicalPath": "/fipe/volkswagen/nivus-comfortline-1-0-200-tsi-flex-aut-0-005525-5/",
+      "ano": 0,
+      "marca": "VW - VolksWagen"
+    },
+    {
+      "vehicleId": "volkswagen-nivus-gts-1-4-250-tsi-flex-aut-0-flex",
+      "fipeCodigo": "005553-0",
+      "displayName": "VW - VolksWagen Nivus GTS 1.4 250 TSI Flex Aut.",
+      "valorAtual": 176881,
+      "canonicalPath": "/fipe/volkswagen/nivus-gts-1-4-250-tsi-flex-aut-0-005553-0/",
+      "ano": 0,
+      "marca": "VW - VolksWagen"
+    },
+    {
+      "vehicleId": "volkswagen-nivus-highline-1-0-200-tsi-flex-aut-0-flex",
+      "fipeCodigo": "005526-3",
+      "displayName": "VW - VolksWagen Nivus Highline 1.0 200 TSI Flex Aut.",
+      "valorAtual": 154023,
+      "canonicalPath": "/fipe/volkswagen/nivus-highline-1-0-200-tsi-flex-aut-0-005526-3/",
+      "ano": 0,
+      "marca": "VW - VolksWagen"
+    },
+    {
+      "vehicleId": "volkswagen-nivus-sense-1-0-200-tsi-flex-aut-0-flex",
+      "fipeCodigo": "005548-4",
+      "displayName": "VW - VolksWagen Nivus Sense 1.0 200 TSI Flex Aut.",
+      "valorAtual": 117747,
+      "canonicalPath": "/fipe/volkswagen/nivus-sense-1-0-200-tsi-flex-aut-0-005548-4/",
+      "ano": 0,
+      "marca": "VW - VolksWagen"
+    }
+  ],
+  "stats": {
+    "total": 4
+  },
+  "meta": {
+    "geracaoId": "nivus-1"
+  }
+}

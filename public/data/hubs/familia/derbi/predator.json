@@ -1,0 +1,41 @@
+{
+  "tipo": "familia",
+  "slug": "predator",
+  "canonicalPath": "/fipe/derbi/predator/",
+  "titulo": "DERBI predator - Tabela FIPE",
+  "descricao": "2 versoes e anos do DERBI predator na Tabela FIPE.",
+  "seo": {
+    "title": "DERBI predator - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes DERBI predator. 2 veiculos indexados.",
+    "h1": "DERBI predator - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/derbi/predator/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "derbi-predator-ar-49cc-2001-gasolina",
+      "fipeCodigo": "844005-0",
+      "displayName": "DERBI PREDATOR AR 49cc",
+      "valorAtual": 3138,
+      "canonicalPath": "/fipe/derbi/predator-ar-49cc-2001-844005-0/",
+      "ano": 2001,
+      "marca": "DERBI"
+    },
+    {
+      "vehicleId": "derbi-predator-lc-49cc-2001-gasolina",
+      "fipeCodigo": "844006-9",
+      "displayName": "DERBI PREDATOR LC 49cc",
+      "valorAtual": 3345,
+      "canonicalPath": "/fipe/derbi/predator-lc-49cc-2001-844006-9/",
+      "ano": 2001,
+      "marca": "DERBI"
+    }
+  ],
+  "stats": {
+    "total": 2,
+    "precoMin": 3138,
+    "precoMax": 3345,
+    "anos": [
+      2001
+    ]
+  }
+}

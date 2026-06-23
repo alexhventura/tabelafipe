@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "db6r-1",
+  "canonicalPath": "/geracao/bimota/db6r-1/",
+  "titulo": "Geracao db6r-1",
+  "descricao": "2 veiculos da geracao db6r-1.",
+  "seo": {
+    "title": "Geracao db6r-1 - Precos FIPE",
+    "description": "Veiculos da geracao db6r-1 na Tabela FIPE.",
+    "h1": "Geracao db6r-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/bimota/db6r-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "bimota-db6r-delirio-1078cc-2008-gasolina",
+      "fipeCodigo": "828005-3",
+      "displayName": "BIMOTA DB6R Delirio 1078cc",
+      "valorAtual": 38845,
+      "canonicalPath": "/fipe/bimota/db6r-delirio-1078cc-2008-828005-3/",
+      "ano": 2008,
+      "marca": "BIMOTA"
+    },
+    {
+      "vehicleId": "bimota-db6r-delirio-1078cc-2009-gasolina",
+      "fipeCodigo": "828005-3",
+      "displayName": "BIMOTA DB6R Delirio 1078cc",
+      "valorAtual": 40612,
+      "canonicalPath": "/fipe/bimota/db6r-delirio-1078cc-2009-828005-3/",
+      "ano": 2009,
+      "marca": "BIMOTA"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "db6r-1"
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "tipo": "familia",
+  "slug": "se",
+  "canonicalPath": "/fipe/mercedes-benz/se/",
+  "titulo": "Mercedes-Benz se - Tabela FIPE",
+  "descricao": "4 versoes e anos do Mercedes-Benz se na Tabela FIPE.",
+  "seo": {
+    "title": "Mercedes-Benz se - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes Mercedes-Benz se. 4 veiculos indexados.",
+    "h1": "Mercedes-Benz se - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/mercedes-benz/se/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "mercedes-benz-se-500-1993-gasolina",
+      "fipeCodigo": "021016-1",
+      "displayName": "Mercedes-Benz SE-500",
+      "valorAtual": 47569,
+      "canonicalPath": "/fipe/mercedes-benz/se-500-1993-021016-1/",
+      "ano": 1993,
+      "marca": "Mercedes-Benz"
+    },
+    {
+      "vehicleId": "mercedes-benz-se-500-1992-gasolina",
+      "fipeCodigo": "021016-1",
+      "displayName": "Mercedes-Benz SE-500",
+      "valorAtual": 42845,
+      "canonicalPath": "/fipe/mercedes-benz/se-500-1992-021016-1/",
+      "ano": 1992,
+      "marca": "Mercedes-Benz"
+    },
+    {
+      "vehicleId": "mercedes-benz-se-500-1991-gasolina",
+      "fipeCodigo": "021016-1",
+      "displayName": "Mercedes-Benz SE-500",
+      "valorAtual": 35681,
+      "canonicalPath": "/fipe/mercedes-benz/se-500-1991-021016-1/",
+      "ano": 1991,
+      "marca": "Mercedes-Benz"
+    },
+    {
+      "vehicleId": "mercedes-benz-se-500-1986-gasolina",
+      "fipeCodigo": "021016-1",
+      "displayName": "Mercedes-Benz SE-500",
+      "valorAtual": 19974,
+      "canonicalPath": "/fipe/mercedes-benz/se-500-1986-021016-1/",
+      "ano": 1986,
+      "marca": "Mercedes-Benz"
+    }
+  ],
+  "stats": {
+    "total": 4,
+    "precoMin": 19974,
+    "precoMax": 47569,
+    "anos": [
+      1993,
+      1992,
+      1991,
+      1986
+    ]
+  }
+}

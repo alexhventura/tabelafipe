@@ -1,0 +1,42 @@
+{
+  "tipo": "familia",
+  "slug": "b10",
+  "canonicalPath": "/fipe/leapmotor/b10/",
+  "titulo": "Leapmotor b10 - Tabela FIPE",
+  "descricao": "2 versoes e anos do Leapmotor b10 na Tabela FIPE.",
+  "seo": {
+    "title": "Leapmotor b10 - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes Leapmotor b10. 2 veiculos indexados.",
+    "h1": "Leapmotor b10 - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/leapmotor/b10/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "leapmotor-b10-eletrico-2026-eletrico",
+      "fipeCodigo": "305003-3",
+      "displayName": "Leapmotor B10 (Elétrico)",
+      "valorAtual": 160423,
+      "canonicalPath": "/fipe/leapmotor/b10-eletrico-2026-305003-3/",
+      "ano": 2026,
+      "marca": "Leapmotor"
+    },
+    {
+      "vehicleId": "leapmotor-b10-eletrico-0-eletrico",
+      "fipeCodigo": "305003-3",
+      "displayName": "Leapmotor B10 (Elétrico)",
+      "valorAtual": 182990,
+      "canonicalPath": "/fipe/leapmotor/b10-eletrico-0-305003-3/",
+      "ano": 0,
+      "marca": "Leapmotor"
+    }
+  ],
+  "stats": {
+    "total": 2,
+    "precoMin": 160423,
+    "precoMax": 182990,
+    "anos": [
+      2026,
+      0
+    ]
+  }
+}

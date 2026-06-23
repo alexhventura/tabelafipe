@@ -1,0 +1,57 @@
+{
+  "tipo": "geracao",
+  "slug": "saveiro-1",
+  "canonicalPath": "/geracao/volkswagen/saveiro-1/",
+  "titulo": "Geracao saveiro-1",
+  "descricao": "4 veiculos da geracao saveiro-1.",
+  "seo": {
+    "title": "Geracao saveiro-1 - Precos FIPE",
+    "description": "Veiculos da geracao saveiro-1 na Tabela FIPE.",
+    "h1": "Geracao saveiro-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/volkswagen/saveiro-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "volkswagen-saveiro-extreme-1-6-flex-16v-cd-0-flex",
+      "fipeCodigo": "005546-8",
+      "displayName": "VW - VolksWagen Saveiro Extreme 1.6 Flex 16V CD",
+      "valorAtual": 129704,
+      "canonicalPath": "/fipe/volkswagen/saveiro-extreme-1-6-flex-16v-cd-0-005546-8/",
+      "ano": 0,
+      "marca": "VW - VolksWagen"
+    },
+    {
+      "vehicleId": "volkswagen-saveiro-robust-1-6-total-flex-16v-0-flex",
+      "fipeCodigo": "005538-7",
+      "displayName": "VW - VolksWagen Saveiro Robust 1.6 Total Flex 16V",
+      "valorAtual": 110623,
+      "canonicalPath": "/fipe/volkswagen/saveiro-robust-1-6-total-flex-16v-0-005538-7/",
+      "ano": 0,
+      "marca": "VW - VolksWagen"
+    },
+    {
+      "vehicleId": "volkswagen-saveiro-robust-1-6-total-flex-16v-cd-0-flex",
+      "fipeCodigo": "005537-9",
+      "displayName": "VW - VolksWagen Saveiro Robust 1.6 Total Flex 16V CD",
+      "valorAtual": 126138,
+      "canonicalPath": "/fipe/volkswagen/saveiro-robust-1-6-total-flex-16v-cd-0-005537-9/",
+      "ano": 0,
+      "marca": "VW - VolksWagen"
+    },
+    {
+      "vehicleId": "volkswagen-saveiro-trendline-1-6-total-flex-16v-0-flex",
+      "fipeCodigo": "005531-0",
+      "displayName": "VW - VolksWagen Saveiro Trendline 1.6 Total Flex 16V",
+      "valorAtual": 119718,
+      "canonicalPath": "/fipe/volkswagen/saveiro-trendline-1-6-total-flex-16v-0-005531-0/",
+      "ano": 0,
+      "marca": "VW - VolksWagen"
+    }
+  ],
+  "stats": {
+    "total": 4
+  },
+  "meta": {
+    "geracaoId": "saveiro-1"
+  }
+}

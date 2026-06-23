@@ -1,0 +1,42 @@
+{
+  "tipo": "familia",
+  "slug": "cayene",
+  "canonicalPath": "/fipe/porsche/cayene/",
+  "titulo": "Porsche cayene - Tabela FIPE",
+  "descricao": "2 versoes e anos do Porsche cayene na Tabela FIPE.",
+  "seo": {
+    "title": "Porsche cayene - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes Porsche cayene. 2 veiculos indexados.",
+    "h1": "Porsche cayene - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/porsche/cayene/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "porsche-cayene-black-edition-3-0-v6-2026-hibrido",
+      "fipeCodigo": "035177-6",
+      "displayName": "Porsche Cayene Black Edition 3.0 V6",
+      "valorAtual": 907041,
+      "canonicalPath": "/fipe/porsche/cayene-black-edition-3-0-v6-2026-035177-6/",
+      "ano": 2026,
+      "marca": "Porsche"
+    },
+    {
+      "vehicleId": "porsche-cayene-black-edition-3-0-v6-0-hibrido",
+      "fipeCodigo": "035177-6",
+      "displayName": "Porsche Cayene Black Edition 3.0 V6",
+      "valorAtual": 1056250,
+      "canonicalPath": "/fipe/porsche/cayene-black-edition-3-0-v6-0-035177-6/",
+      "ano": 0,
+      "marca": "Porsche"
+    }
+  ],
+  "stats": {
+    "total": 2,
+    "precoMin": 907041,
+    "precoMax": 1056250,
+    "anos": [
+      2026,
+      0
+    ]
+  }
+}

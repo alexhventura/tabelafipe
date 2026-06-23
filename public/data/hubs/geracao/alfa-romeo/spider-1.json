@@ -1,0 +1,66 @@
+{
+  "tipo": "geracao",
+  "slug": "spider-1",
+  "canonicalPath": "/geracao/alfa-romeo/spider-1/",
+  "titulo": "Geracao spider-1",
+  "descricao": "5 veiculos da geracao spider-1.",
+  "seo": {
+    "title": "Geracao spider-1 - Precos FIPE",
+    "description": "Veiculos da geracao spider-1 na Tabela FIPE.",
+    "h1": "Geracao spider-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/alfa-romeo/spider-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "alfa-romeo-spider-2-0-3-0-1991-gasolina",
+      "fipeCodigo": "006007-0",
+      "displayName": "Alfa Romeo Spider 2.0/3.0",
+      "valorAtual": 27024,
+      "canonicalPath": "/fipe/alfa-romeo/spider-2-0-3-0-1991-006007-0/",
+      "ano": 1991,
+      "marca": "Alfa Romeo"
+    },
+    {
+      "vehicleId": "alfa-romeo-spider-2-0-3-0-1992-gasolina",
+      "fipeCodigo": "006007-0",
+      "displayName": "Alfa Romeo Spider 2.0/3.0",
+      "valorAtual": 31490,
+      "canonicalPath": "/fipe/alfa-romeo/spider-2-0-3-0-1992-006007-0/",
+      "ano": 1992,
+      "marca": "Alfa Romeo"
+    },
+    {
+      "vehicleId": "alfa-romeo-spider-2-0-3-0-1993-gasolina",
+      "fipeCodigo": "006007-0",
+      "displayName": "Alfa Romeo Spider 2.0/3.0",
+      "valorAtual": 40198,
+      "canonicalPath": "/fipe/alfa-romeo/spider-2-0-3-0-1993-006007-0/",
+      "ano": 1993,
+      "marca": "Alfa Romeo"
+    },
+    {
+      "vehicleId": "malaguti-spider-maxgt-500-2007-gasolina",
+      "fipeCodigo": "862001-6",
+      "displayName": "Malaguti SPIDER MAXGT 500",
+      "valorAtual": 10881,
+      "canonicalPath": "/fipe/malaguti/spider-maxgt-500-2007-862001-6/",
+      "ano": 2007,
+      "marca": "Malaguti"
+    },
+    {
+      "vehicleId": "malaguti-spider-maxgt-500-2008-gasolina",
+      "fipeCodigo": "862001-6",
+      "displayName": "Malaguti SPIDER MAXGT 500",
+      "valorAtual": 12041,
+      "canonicalPath": "/fipe/malaguti/spider-maxgt-500-2008-862001-6/",
+      "ano": 2008,
+      "marca": "Malaguti"
+    }
+  ],
+  "stats": {
+    "total": 5
+  },
+  "meta": {
+    "geracaoId": "spider-1"
+  }
+}

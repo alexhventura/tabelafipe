@@ -1,0 +1,48 @@
+{
+  "tipo": "geracao",
+  "slug": "m760li-1",
+  "canonicalPath": "/geracao/bmw/m760li-1/",
+  "titulo": "Geracao m760li-1",
+  "descricao": "3 veiculos da geracao m760li-1.",
+  "seo": {
+    "title": "Geracao m760li-1 - Precos FIPE",
+    "description": "Veiculos da geracao m760li-1 na Tabela FIPE.",
+    "h1": "Geracao m760li-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/bmw/m760li-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "bmw-m760li-xdrive-6-6-v12-585cv-aut-2020-gasolina",
+      "fipeCodigo": "009248-7",
+      "displayName": "BMW M760Li xDrive 6.6 V12 585cv Aut.",
+      "valorAtual": 640151,
+      "canonicalPath": "/fipe/bmw/m760li-xdrive-6-6-v12-585cv-aut-2020-009248-7/",
+      "ano": 2020,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-m760li-xdrive-6-6-v12-585cv-aut-2021-gasolina",
+      "fipeCodigo": "009248-7",
+      "displayName": "BMW M760Li xDrive 6.6 V12 585cv Aut.",
+      "valorAtual": 835848,
+      "canonicalPath": "/fipe/bmw/m760li-xdrive-6-6-v12-585cv-aut-2021-009248-7/",
+      "ano": 2021,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-m760li-xdrive-6-6-v12-585cv-aut-2022-gasolina",
+      "fipeCodigo": "009248-7",
+      "displayName": "BMW M760Li xDrive 6.6 V12 585cv Aut.",
+      "valorAtual": 1172897,
+      "canonicalPath": "/fipe/bmw/m760li-xdrive-6-6-v12-585cv-aut-2022-009248-7/",
+      "ano": 2022,
+      "marca": "BMW"
+    }
+  ],
+  "stats": {
+    "total": 3
+  },
+  "meta": {
+    "geracaoId": "m760li-1"
+  }
+}

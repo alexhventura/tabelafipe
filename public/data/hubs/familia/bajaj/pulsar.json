@@ -1,0 +1,42 @@
+{
+  "tipo": "familia",
+  "slug": "pulsar",
+  "canonicalPath": "/fipe/bajaj/pulsar/",
+  "titulo": "BAJAJ pulsar - Tabela FIPE",
+  "descricao": "2 versoes e anos do BAJAJ pulsar na Tabela FIPE.",
+  "seo": {
+    "title": "BAJAJ pulsar - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes BAJAJ pulsar. 2 veiculos indexados.",
+    "h1": "BAJAJ pulsar - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/bajaj/pulsar/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "bajaj-pulsar-n150-2026-gasolina",
+      "fipeCodigo": "837009-5",
+      "displayName": "BAJAJ PULSAR N150",
+      "valorAtual": 15279,
+      "canonicalPath": "/fipe/bajaj/pulsar-n150-2026-837009-5/",
+      "ano": 2026,
+      "marca": "BAJAJ"
+    },
+    {
+      "vehicleId": "bajaj-pulsar-n150-0-gasolina",
+      "fipeCodigo": "837009-5",
+      "displayName": "BAJAJ PULSAR N150",
+      "valorAtual": 16304,
+      "canonicalPath": "/fipe/bajaj/pulsar-n150-0-837009-5/",
+      "ano": 0,
+      "marca": "BAJAJ"
+    }
+  ],
+  "stats": {
+    "total": 2,
+    "precoMin": 15279,
+    "precoMax": 16304,
+    "anos": [
+      2026,
+      0
+    ]
+  }
+}

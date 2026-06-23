@@ -1,0 +1,42 @@
+{
+  "tipo": "familia",
+  "slug": "225i",
+  "canonicalPath": "/fipe/bmw/225i/",
+  "titulo": "BMW 225i - Tabela FIPE",
+  "descricao": "2 versoes e anos do BMW 225i na Tabela FIPE.",
+  "seo": {
+    "title": "BMW 225i - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes BMW 225i. 2 veiculos indexados.",
+    "h1": "BMW 225i - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/bmw/225i/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "bmw-225i-active-tourer-sport-2-0-tb-aut-2016-gasolina",
+      "fipeCodigo": "009208-8",
+      "displayName": "BMW 225i Active Tourer Sport 2.0 TB Aut.",
+      "valorAtual": 95182,
+      "canonicalPath": "/fipe/bmw/225i-active-tourer-sport-2-0-tb-aut-2016-009208-8/",
+      "ano": 2016,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-225i-active-tourer-sport-2-0-tb-aut-2015-gasolina",
+      "fipeCodigo": "009208-8",
+      "displayName": "BMW 225i Active Tourer Sport 2.0 TB Aut.",
+      "valorAtual": 83826,
+      "canonicalPath": "/fipe/bmw/225i-active-tourer-sport-2-0-tb-aut-2015-009208-8/",
+      "ano": 2015,
+      "marca": "BMW"
+    }
+  ],
+  "stats": {
+    "total": 2,
+    "precoMin": 83826,
+    "precoMax": 95182,
+    "anos": [
+      2016,
+      2015
+    ]
+  }
+}

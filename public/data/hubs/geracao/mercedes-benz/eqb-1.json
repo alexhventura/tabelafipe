@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "eqb-1",
+  "canonicalPath": "/geracao/mercedes-benz/eqb-1/",
+  "titulo": "Geracao eqb-1",
+  "descricao": "2 veiculos da geracao eqb-1.",
+  "seo": {
+    "title": "Geracao eqb-1 - Precos FIPE",
+    "description": "Veiculos da geracao eqb-1 na Tabela FIPE.",
+    "h1": "Geracao eqb-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/mercedes-benz/eqb-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "mercedes-benz-eqb-250-0-eletrico",
+      "fipeCodigo": "021558-9",
+      "displayName": "Mercedes-Benz EQB 250+",
+      "valorAtual": 360635,
+      "canonicalPath": "/fipe/mercedes-benz/eqb-250-0-021558-9/",
+      "ano": 0,
+      "marca": "Mercedes-Benz"
+    },
+    {
+      "vehicleId": "mercedes-benz-eqb-350-4matic-amg-line-eletrico-0-eletrico",
+      "fipeCodigo": "021539-2",
+      "displayName": "Mercedes-Benz EQB 350 4MATIC AMG Line (Elétrico)",
+      "valorAtual": 449900,
+      "canonicalPath": "/fipe/mercedes-benz/eqb-350-4matic-amg-line-eletrico-0-021539-2/",
+      "ano": 0,
+      "marca": "Mercedes-Benz"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "eqb-1"
+  }
+}

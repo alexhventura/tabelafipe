@@ -1,0 +1,98 @@
+{
+  "tipo": "familia",
+  "slug": "stx",
+  "canonicalPath": "/fipe/sundown/stx/",
+  "titulo": "SUNDOWN stx - Tabela FIPE",
+  "descricao": "8 versoes e anos do SUNDOWN stx na Tabela FIPE.",
+  "seo": {
+    "title": "SUNDOWN stx - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes SUNDOWN stx. 8 veiculos indexados.",
+    "h1": "SUNDOWN stx - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/sundown/stx/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "sundown-stx-125cc-2011-gasolina",
+      "fipeCodigo": "824020-5",
+      "displayName": "SUNDOWN STX 125cc",
+      "valorAtual": 2989,
+      "canonicalPath": "/fipe/sundown/stx-125cc-2011-824020-5/",
+      "ano": 2011,
+      "marca": "SUNDOWN"
+    },
+    {
+      "vehicleId": "sundown-stx-motard-125cc-2011-gasolina",
+      "fipeCodigo": "824021-3",
+      "displayName": "SUNDOWN STX MOTARD 125cc",
+      "valorAtual": 3899,
+      "canonicalPath": "/fipe/sundown/stx-motard-125cc-2011-824021-3/",
+      "ano": 2011,
+      "marca": "SUNDOWN"
+    },
+    {
+      "vehicleId": "sundown-stx-125cc-2010-gasolina",
+      "fipeCodigo": "824020-5",
+      "displayName": "SUNDOWN STX 125cc",
+      "valorAtual": 2638,
+      "canonicalPath": "/fipe/sundown/stx-125cc-2010-824020-5/",
+      "ano": 2010,
+      "marca": "SUNDOWN"
+    },
+    {
+      "vehicleId": "sundown-stx-motard-125cc-2010-gasolina",
+      "fipeCodigo": "824021-3",
+      "displayName": "SUNDOWN STX MOTARD 125cc",
+      "valorAtual": 3545,
+      "canonicalPath": "/fipe/sundown/stx-motard-125cc-2010-824021-3/",
+      "ano": 2010,
+      "marca": "SUNDOWN"
+    },
+    {
+      "vehicleId": "sundown-stx-200cc-2008-gasolina",
+      "fipeCodigo": "824018-3",
+      "displayName": "SUNDOWN STX 200cc",
+      "valorAtual": 4323,
+      "canonicalPath": "/fipe/sundown/stx-200cc-2008-824018-3/",
+      "ano": 2008,
+      "marca": "SUNDOWN"
+    },
+    {
+      "vehicleId": "sundown-stx-motard-200cc-2008-gasolina",
+      "fipeCodigo": "824017-5",
+      "displayName": "SUNDOWN STX MOTARD 200cc",
+      "valorAtual": 7153,
+      "canonicalPath": "/fipe/sundown/stx-motard-200cc-2008-824017-5/",
+      "ano": 2008,
+      "marca": "SUNDOWN"
+    },
+    {
+      "vehicleId": "sundown-stx-200cc-2007-gasolina",
+      "fipeCodigo": "824018-3",
+      "displayName": "SUNDOWN STX 200cc",
+      "valorAtual": 3947,
+      "canonicalPath": "/fipe/sundown/stx-200cc-2007-824018-3/",
+      "ano": 2007,
+      "marca": "SUNDOWN"
+    },
+    {
+      "vehicleId": "sundown-stx-motard-200cc-2007-gasolina",
+      "fipeCodigo": "824017-5",
+      "displayName": "SUNDOWN STX MOTARD 200cc",
+      "valorAtual": 6471,
+      "canonicalPath": "/fipe/sundown/stx-motard-200cc-2007-824017-5/",
+      "ano": 2007,
+      "marca": "SUNDOWN"
+    }
+  ],
+  "stats": {
+    "total": 8,
+    "precoMin": 2638,
+    "precoMax": 7153,
+    "anos": [
+      2011,
+      2010,
+      2008,
+      2007
+    ]
+  }
+}

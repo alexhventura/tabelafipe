@@ -1,0 +1,352 @@
+{
+  "geradoEm": "2026-06-21T04:54:26.415Z",
+  "objetivo": "Medir enriquecimento real do catalogo FIPE (50.395 veiculos) antes de integracao visual",
+  "fontes": {
+    "inmetro": {
+      "nome": "INMETRO PBEV",
+      "urlOficial": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular",
+      "formato": "PDF",
+      "edicoesCatalogadas": 26,
+      "pdfsBaixados": 11,
+      "arquivos": [
+        "ence-pev-veic-eletricos.pdf",
+        "ence-pev-veic-hibridos.pdf",
+        "Mascara-PBEV-2024-4-OUT.pdf",
+        "mascara-pbev-2025-mar-11.pdf",
+        "mascara-pbev-2026_19_jan-rev01.pdf",
+        "pbe-veicular-2022.pdf",
+        "pbe-veicular-2023.pdf",
+        "pbe-veicular-2024-1.pdf",
+        "pbe-veicular-vehp-flex.pdf",
+        "pbe-veicular-vehp.pdf",
+        "Tabela-PBEV-2026_3_JUN-1.pdf"
+      ],
+      "campos": [
+        "marca",
+        "modelo",
+        "versao",
+        "anoReferencia",
+        "combustivel",
+        "consumoCidade",
+        "consumoEstrada",
+        "classificacaoEnergetica",
+        "eficienciaMjKm"
+      ],
+      "confiabilidade": "alta"
+    },
+    "fabricantes": {
+      "marcasCatalogadas": 12,
+      "marcas": [
+        {
+          "slug": "fiat",
+          "nome": "Fiat",
+          "fonteOficial": "https://www.fiat.com.br",
+          "status": "pendente"
+        },
+        {
+          "slug": "volkswagen",
+          "nome": "Volkswagen",
+          "fonteOficial": "https://www.vw.com.br",
+          "status": "pendente"
+        },
+        {
+          "slug": "chevrolet",
+          "nome": "Chevrolet",
+          "fonteOficial": "https://www.chevrolet.com.br",
+          "status": "pendente"
+        },
+        {
+          "slug": "toyota",
+          "nome": "Toyota",
+          "fonteOficial": "https://www.toyota.com.br",
+          "status": "pendente"
+        },
+        {
+          "slug": "honda",
+          "nome": "Honda",
+          "fonteOficial": "https://www.honda.com.br/automoveis",
+          "status": "pendente"
+        },
+        {
+          "slug": "hyundai",
+          "nome": "Hyundai",
+          "fonteOficial": "https://www.hyundai.com.br",
+          "status": "pendente"
+        },
+        {
+          "slug": "renault",
+          "nome": "Renault",
+          "fonteOficial": "https://www.renault.com.br",
+          "status": "pendente"
+        },
+        {
+          "slug": "nissan",
+          "nome": "Nissan",
+          "fonteOficial": "https://www.nissan.com.br",
+          "status": "pendente"
+        },
+        {
+          "slug": "jeep",
+          "nome": "Jeep",
+          "fonteOficial": "https://www.jeep.com.br",
+          "status": "pendente"
+        },
+        {
+          "slug": "bmw",
+          "nome": "BMW",
+          "fonteOficial": "https://www.bmw.com.br",
+          "status": "pendente"
+        },
+        {
+          "slug": "mercedes-benz",
+          "nome": "Mercedes-Benz",
+          "fonteOficial": "https://www.mercedes-benz.com.br",
+          "status": "pendente"
+        },
+        {
+          "slug": "audi",
+          "nome": "Audi",
+          "fonteOficial": "https://www.audi.com.br",
+          "status": "pendente"
+        }
+      ],
+      "campos": [
+        "potenciaCv",
+        "torqueNm",
+        "cambio",
+        "cilindradaCc",
+        "pesoKg",
+        "dimensoes",
+        "portaMalasL",
+        "tanqueL"
+      ],
+      "confiabilidade": "alta"
+    }
+  },
+  "cobertura": {
+    "fipe": {
+      "veiculos": 50395,
+      "pct": 100
+    },
+    "historico": {
+      "veiculos": 50395,
+      "pct": 100
+    },
+    "inmetro": {
+      "veiculos": 15111,
+      "pct": 29.99,
+      "registrosFonte": 2006
+    },
+    "fabricantes": {
+      "veiculos": 0,
+      "pct": 0,
+      "registrosFonte": 0
+    },
+    "combinada": {
+      "veiculos": 15111,
+      "pct": 29.99,
+      "descricao": "INMETRO e/ou fabricante (campos novos alem de FIPE/historico)"
+    },
+    "staticSpecs": {
+      "veiculos": 50395,
+      "pct": 100,
+      "registrosFonte": 50395
+    },
+    "cilindrada": {
+      "veiculos": 43245,
+      "pct": 85.81
+    },
+    "cambio": {
+      "veiculos": 10956,
+      "pct": 21.74
+    }
+  },
+  "porTipo": {
+    "carros": {
+      "total": 30180,
+      "inmetro": 15041,
+      "inmetroPct": 29.85
+    },
+    "motos": {
+      "total": 8847,
+      "inmetro": 51,
+      "inmetroPct": 0.1
+    },
+    "caminhoes": {
+      "total": 11368,
+      "inmetro": 19,
+      "inmetroPct": 0.04
+    }
+  },
+  "estimativaEnriquecimentoReal": {
+    "somenteHistorico": 100,
+    "novosCamposInmetro": 29.99,
+    "novosCamposFabricante": 0,
+    "novosCamposCombinados": 29.99,
+    "staticSpecsCatalogo": 100,
+    "cilindradaInferida": 85.81,
+    "cambioInferido": 21.74,
+    "carrosComInmetro": 29.85,
+    "observacao": "PBEV cobre veiculos leves novos (~760-1600 versoes/ano). FIPE inclui motos, caminhoes e veiculos antigos sem PBEV."
+  },
+  "qualidadePorCampo": [
+    {
+      "campo": "valor_fipe",
+      "origem": "FIPE",
+      "preenchidos": 50395,
+      "total": 50395,
+      "taxaPct": 100,
+      "confiabilidade": "alta"
+    },
+    {
+      "campo": "historico_precos",
+      "origem": "FIPE/fipeX",
+      "preenchidos": 50395,
+      "total": 50395,
+      "taxaPct": 100,
+      "confiabilidade": "alta"
+    },
+    {
+      "campo": "consumo_cidade",
+      "origem": "INMETRO/PBEV",
+      "preenchidos": 15111,
+      "total": 50395,
+      "taxaPct": 29.99,
+      "confiabilidade": "alta"
+    },
+    {
+      "campo": "consumo_estrada",
+      "origem": "INMETRO/PBEV",
+      "preenchidos": 15111,
+      "total": 50395,
+      "taxaPct": 29.99,
+      "confiabilidade": "alta"
+    },
+    {
+      "campo": "classificacao_energetica",
+      "origem": "INMETRO/PBEV",
+      "preenchidos": 15111,
+      "total": 50395,
+      "taxaPct": 29.99,
+      "confiabilidade": "alta"
+    },
+    {
+      "campo": "potencia_cv",
+      "origem": "FABRICANTE",
+      "preenchidos": 0,
+      "total": 50395,
+      "taxaPct": 0,
+      "confiabilidade": "alta"
+    },
+    {
+      "campo": "cilindrada_cc",
+      "origem": "STATIC/FIPE+INMETRO",
+      "preenchidos": 43245,
+      "total": 50395,
+      "taxaPct": 85.81,
+      "confiabilidade": "media"
+    },
+    {
+      "campo": "cambio",
+      "origem": "STATIC/FIPE+FABRICANTE",
+      "preenchidos": 10956,
+      "total": 50395,
+      "taxaPct": 21.74,
+      "confiabilidade": "media"
+    }
+  ],
+  "detalhesInmetro": {
+    "geradoEm": "2026-06-21T04:35:31.900Z",
+    "totalRegistros": 2006,
+    "marcasUnicas": 47,
+    "comConsumoCidade": 2006,
+    "comConsumoEstrada": 2006,
+    "comClassificacao": 2006,
+    "porMarca": {
+      "CHEVROLET": 194,
+      "FIAT": 153,
+      "PORSCHE": 116,
+      "MERCEDES-BENZ": 110,
+      "LAND ROVER": 110,
+      "AUDI": 109,
+      "RENAULT": 105,
+      "VOLVO": 98,
+      "JEEP": 98,
+      "VOLKSWAGEN": 93,
+      "BMW": 82,
+      "TOYOTA": 69,
+      "CITROËN": 68,
+      "PEUGEOT": 64,
+      "FORD": 62,
+      "HYUNDAI": 54,
+      "NISSAN": 53,
+      "CAOA CHERY": 33,
+      "JAGUAR": 31,
+      "HONDA": 28,
+      "MITSUBISHI": 28,
+      "MINI": 27,
+      "BYD": 27,
+      "RAM": 27,
+      "GWM": 22,
+      "JAC": 17,
+      "LEXUS": 13,
+      "GAC": 13,
+      "FERRARI": 12,
+      "MG": 11
+    }
+  },
+  "detalhesFabricantes": {
+    "geradoEm": "2026-06-20T23:59:35.825Z",
+    "porMarca": {
+      "Fiat": {
+        "registros": 0,
+        "campos": {}
+      },
+      "Volkswagen": {
+        "registros": 0,
+        "campos": {}
+      },
+      "Chevrolet": {
+        "registros": 0,
+        "campos": {}
+      },
+      "Toyota": {
+        "registros": 0,
+        "campos": {}
+      },
+      "Honda": {
+        "registros": 0,
+        "campos": {}
+      },
+      "Hyundai": {
+        "registros": 0,
+        "campos": {}
+      },
+      "Renault": {
+        "registros": 0,
+        "campos": {}
+      },
+      "Nissan": {
+        "registros": 0,
+        "campos": {}
+      },
+      "Jeep": {
+        "registros": 0,
+        "campos": {}
+      },
+      "BMW": {
+        "registros": 0,
+        "campos": {}
+      },
+      "Mercedes-Benz": {
+        "registros": 0,
+        "campos": {}
+      },
+      "Audi": {
+        "registros": 0,
+        "campos": {}
+      }
+    },
+    "totalRegistros": 0
+  }
+}

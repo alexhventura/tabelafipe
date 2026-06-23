@@ -1,0 +1,42 @@
+{
+  "tipo": "familia",
+  "slug": "fy150t",
+  "canonicalPath": "/fipe/fym/fy150t/",
+  "titulo": "FYM fy150t - Tabela FIPE",
+  "descricao": "2 versoes e anos do FYM fy150t na Tabela FIPE.",
+  "seo": {
+    "title": "FYM fy150t - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes FYM fy150t. 2 veiculos indexados.",
+    "h1": "FYM fy150t - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/fym/fy150t/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "fym-fy150t-18-150cc-2008-gasolina",
+      "fipeCodigo": "849008-2",
+      "displayName": "FYM FY150T-18 150cc",
+      "valorAtual": 3077,
+      "canonicalPath": "/fipe/fym/fy150t-18-150cc-2008-849008-2/",
+      "ano": 2008,
+      "marca": "FYM"
+    },
+    {
+      "vehicleId": "fym-fy150t-18-150cc-2007-gasolina",
+      "fipeCodigo": "849008-2",
+      "displayName": "FYM FY150T-18 150cc",
+      "valorAtual": 2731,
+      "canonicalPath": "/fipe/fym/fy150t-18-150cc-2007-849008-2/",
+      "ano": 2007,
+      "marca": "FYM"
+    }
+  ],
+  "stats": {
+    "total": 2,
+    "precoMin": 2731,
+    "precoMax": 3077,
+    "anos": [
+      2008,
+      2007
+    ]
+  }
+}

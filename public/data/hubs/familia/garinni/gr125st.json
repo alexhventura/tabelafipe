@@ -1,0 +1,52 @@
+{
+  "tipo": "familia",
+  "slug": "gr125st",
+  "canonicalPath": "/fipe/garinni/gr125st/",
+  "titulo": "GARINNI gr125st - Tabela FIPE",
+  "descricao": "3 versoes e anos do GARINNI gr125st na Tabela FIPE.",
+  "seo": {
+    "title": "GARINNI gr125st - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes GARINNI gr125st. 3 veiculos indexados.",
+    "h1": "GARINNI gr125st - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/garinni/gr125st/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "garinni-gr125st-2010-gasolina",
+      "fipeCodigo": "847009-0",
+      "displayName": "GARINNI GR125ST",
+      "valorAtual": 2030,
+      "canonicalPath": "/fipe/garinni/gr125st-2010-847009-0/",
+      "ano": 2010,
+      "marca": "GARINNI"
+    },
+    {
+      "vehicleId": "garinni-gr125st-2009-gasolina",
+      "fipeCodigo": "847009-0",
+      "displayName": "GARINNI GR125ST",
+      "valorAtual": 1953,
+      "canonicalPath": "/fipe/garinni/gr125st-2009-847009-0/",
+      "ano": 2009,
+      "marca": "GARINNI"
+    },
+    {
+      "vehicleId": "garinni-gr125st-2008-gasolina",
+      "fipeCodigo": "847009-0",
+      "displayName": "GARINNI GR125ST",
+      "valorAtual": 1904,
+      "canonicalPath": "/fipe/garinni/gr125st-2008-847009-0/",
+      "ano": 2008,
+      "marca": "GARINNI"
+    }
+  ],
+  "stats": {
+    "total": 3,
+    "precoMin": 1904,
+    "precoMax": 2030,
+    "anos": [
+      2010,
+      2009,
+      2008
+    ]
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "tipo": "geracao",
+  "slug": "caravan-2",
+  "canonicalPath": "/geracao/chrysler/caravan-2/",
+  "titulo": "Geracao caravan-2",
+  "descricao": "3 veiculos da geracao caravan-2.",
+  "seo": {
+    "title": "Geracao caravan-2 - Precos FIPE",
+    "description": "Veiculos da geracao caravan-2 na Tabela FIPE.",
+    "h1": "Geracao caravan-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/chrysler/caravan-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "chrysler-caravan-lx-3-3-v6-182cv-2005-gasolina",
+      "fipeCodigo": "010023-4",
+      "displayName": "Chrysler Caravan LX 3.3 V6 182cv",
+      "valorAtual": 35552,
+      "canonicalPath": "/fipe/chrysler/caravan-lx-3-3-v6-182cv-2005-010023-4/",
+      "ano": 2005,
+      "marca": "Chrysler"
+    },
+    {
+      "vehicleId": "chrysler-caravan-lx-3-3-v6-182cv-2006-gasolina",
+      "fipeCodigo": "010023-4",
+      "displayName": "Chrysler Caravan LX 3.3 V6 182cv",
+      "valorAtual": 38454,
+      "canonicalPath": "/fipe/chrysler/caravan-lx-3-3-v6-182cv-2006-010023-4/",
+      "ano": 2006,
+      "marca": "Chrysler"
+    },
+    {
+      "vehicleId": "chrysler-caravan-lx-3-3-v6-182cv-2007-gasolina",
+      "fipeCodigo": "010023-4",
+      "displayName": "Chrysler Caravan LX 3.3 V6 182cv",
+      "valorAtual": 42275,
+      "canonicalPath": "/fipe/chrysler/caravan-lx-3-3-v6-182cv-2007-010023-4/",
+      "ano": 2007,
+      "marca": "Chrysler"
+    }
+  ],
+  "stats": {
+    "total": 3
+  },
+  "meta": {
+    "geracaoId": "caravan-2"
+  }
+}

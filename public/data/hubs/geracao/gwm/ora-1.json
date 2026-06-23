@@ -1,0 +1,48 @@
+{
+  "tipo": "geracao",
+  "slug": "ora-1",
+  "canonicalPath": "/geracao/gwm/ora-1/",
+  "titulo": "Geracao ora-1",
+  "descricao": "3 veiculos da geracao ora-1.",
+  "seo": {
+    "title": "Geracao ora-1 - Precos FIPE",
+    "description": "Veiculos da geracao ora-1 na Tabela FIPE.",
+    "h1": "Geracao ora-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/gwm/ora-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "gwm-ora-03-0-eletrico",
+      "fipeCodigo": "096011-0",
+      "displayName": "GWM Ora 03",
+      "valorAtual": 169032,
+      "canonicalPath": "/fipe/gwm/ora-03-0-096011-0/",
+      "ano": 0,
+      "marca": "GWM"
+    },
+    {
+      "vehicleId": "gwm-ora-03-gt-eletrico-0-eletrico",
+      "fipeCodigo": "096007-1",
+      "displayName": "GWM Ora 03 GT (Elétrico)",
+      "valorAtual": 183380,
+      "canonicalPath": "/fipe/gwm/ora-03-gt-eletrico-0-096007-1/",
+      "ano": 0,
+      "marca": "GWM"
+    },
+    {
+      "vehicleId": "gwm-ora-03-skin-eletrico-0-eletrico",
+      "fipeCodigo": "096006-3",
+      "displayName": "GWM Ora 03 Skin (Elétrico)",
+      "valorAtual": 154499,
+      "canonicalPath": "/fipe/gwm/ora-03-skin-eletrico-0-096006-3/",
+      "ano": 0,
+      "marca": "GWM"
+    }
+  ],
+  "stats": {
+    "total": 3
+  },
+  "meta": {
+    "geracaoId": "ora-1"
+  }
+}

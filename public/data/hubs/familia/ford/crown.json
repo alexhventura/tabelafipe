@@ -1,0 +1,42 @@
+{
+  "tipo": "familia",
+  "slug": "crown",
+  "canonicalPath": "/fipe/ford/crown/",
+  "titulo": "Ford crown - Tabela FIPE",
+  "descricao": "2 versoes e anos do Ford crown na Tabela FIPE.",
+  "seo": {
+    "title": "Ford crown - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes Ford crown. 2 veiculos indexados.",
+    "h1": "Ford crown - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/ford/crown/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "ford-crown-victoria-lx-4-6-1992-gasolina",
+      "fipeCodigo": "003153-4",
+      "displayName": "Ford Crown Victoria LX 4.6",
+      "valorAtual": 21830,
+      "canonicalPath": "/fipe/ford/crown-victoria-lx-4-6-1992-003153-4/",
+      "ano": 1992,
+      "marca": "Ford"
+    },
+    {
+      "vehicleId": "ford-crown-victoria-lx-4-6-1991-gasolina",
+      "fipeCodigo": "003153-4",
+      "displayName": "Ford Crown Victoria LX 4.6",
+      "valorAtual": 16180,
+      "canonicalPath": "/fipe/ford/crown-victoria-lx-4-6-1991-003153-4/",
+      "ano": 1991,
+      "marca": "Ford"
+    }
+  ],
+  "stats": {
+    "total": 2,
+    "precoMin": 16180,
+    "precoMax": 21830,
+    "anos": [
+      1992,
+      1991
+    ]
+  }
+}

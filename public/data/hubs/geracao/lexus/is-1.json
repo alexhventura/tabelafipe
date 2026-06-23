@@ -1,0 +1,84 @@
+{
+  "tipo": "geracao",
+  "slug": "is-1",
+  "canonicalPath": "/geracao/lexus/is-1/",
+  "titulo": "Geracao is-1",
+  "descricao": "7 veiculos da geracao is-1.",
+  "seo": {
+    "title": "Geracao is-1 - Precos FIPE",
+    "description": "Veiculos da geracao is-1 na Tabela FIPE.",
+    "h1": "Geracao is-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/lexus/is-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "lexus-is-250-2-5-24v-208cv-aut-2014-gasolina",
+      "fipeCodigo": "057036-2",
+      "displayName": "Lexus IS-250 2.5 24V 208cv Aut.",
+      "valorAtual": 112878,
+      "canonicalPath": "/fipe/lexus/is-250-2-5-24v-208cv-aut-2014-057036-2/",
+      "ano": 2014,
+      "marca": "Lexus"
+    },
+    {
+      "vehicleId": "lexus-is-250-2-5-24v-208cv-aut-2015-gasolina",
+      "fipeCodigo": "057036-2",
+      "displayName": "Lexus IS-250 2.5 24V 208cv Aut.",
+      "valorAtual": 124800,
+      "canonicalPath": "/fipe/lexus/is-250-2-5-24v-208cv-aut-2015-057036-2/",
+      "ano": 2015,
+      "marca": "Lexus"
+    },
+    {
+      "vehicleId": "lexus-is-250-2-5-24v-208cv-aut-2016-gasolina",
+      "fipeCodigo": "057036-2",
+      "displayName": "Lexus IS-250 2.5 24V 208cv Aut.",
+      "valorAtual": 135190,
+      "canonicalPath": "/fipe/lexus/is-250-2-5-24v-208cv-aut-2016-057036-2/",
+      "ano": 2016,
+      "marca": "Lexus"
+    },
+    {
+      "vehicleId": "lexus-is-250-f-sport-2-5-24v-208cv-aut-2014-gasolina",
+      "fipeCodigo": "057037-0",
+      "displayName": "Lexus IS-250 F Sport 2.5 24V 208cv Aut.",
+      "valorAtual": 118948,
+      "canonicalPath": "/fipe/lexus/is-250-f-sport-2-5-24v-208cv-aut-2014-057037-0/",
+      "ano": 2014,
+      "marca": "Lexus"
+    },
+    {
+      "vehicleId": "lexus-is-250-f-sport-2-5-24v-208cv-aut-2015-gasolina",
+      "fipeCodigo": "057037-0",
+      "displayName": "Lexus IS-250 F Sport 2.5 24V 208cv Aut.",
+      "valorAtual": 125685,
+      "canonicalPath": "/fipe/lexus/is-250-f-sport-2-5-24v-208cv-aut-2015-057037-0/",
+      "ano": 2015,
+      "marca": "Lexus"
+    },
+    {
+      "vehicleId": "lexus-is-300-3-0-24v-231cv-aut-2012-gasolina",
+      "fipeCodigo": "057030-3",
+      "displayName": "Lexus IS-300 3.0 24V 231cv Aut.",
+      "valorAtual": 86706,
+      "canonicalPath": "/fipe/lexus/is-300-3-0-24v-231cv-aut-2012-057030-3/",
+      "ano": 2012,
+      "marca": "Lexus"
+    },
+    {
+      "vehicleId": "lexus-is-300-3-0-24v-231cv-aut-2013-gasolina",
+      "fipeCodigo": "057030-3",
+      "displayName": "Lexus IS-300 3.0 24V 231cv Aut.",
+      "valorAtual": 95367,
+      "canonicalPath": "/fipe/lexus/is-300-3-0-24v-231cv-aut-2013-057030-3/",
+      "ano": 2013,
+      "marca": "Lexus"
+    }
+  ],
+  "stats": {
+    "total": 7
+  },
+  "meta": {
+    "geracaoId": "is-1"
+  }
+}

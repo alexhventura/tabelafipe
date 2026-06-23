@@ -1,0 +1,48 @@
+{
+  "tipo": "geracao",
+  "slug": "nx-3",
+  "canonicalPath": "/geracao/honda/nx-3/",
+  "titulo": "Geracao nx-3",
+  "descricao": "3 veiculos da geracao nx-3.",
+  "seo": {
+    "title": "Geracao nx-3 - Precos FIPE",
+    "description": "Veiculos da geracao nx-3 na Tabela FIPE.",
+    "h1": "Geracao nx-3",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/honda/nx-3/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "honda-nx-400i-falcon-2013-gasolina",
+      "fipeCodigo": "811113-8",
+      "displayName": "HONDA NX 400i FALCON",
+      "valorAtual": 20089,
+      "canonicalPath": "/fipe/honda/nx-400i-falcon-2013-811113-8/",
+      "ano": 2013,
+      "marca": "HONDA"
+    },
+    {
+      "vehicleId": "honda-nx-400i-falcon-2014-gasolina",
+      "fipeCodigo": "811113-8",
+      "displayName": "HONDA NX 400i FALCON",
+      "valorAtual": 21509,
+      "canonicalPath": "/fipe/honda/nx-400i-falcon-2014-811113-8/",
+      "ano": 2014,
+      "marca": "HONDA"
+    },
+    {
+      "vehicleId": "honda-nx-400i-falcon-2015-gasolina",
+      "fipeCodigo": "811113-8",
+      "displayName": "HONDA NX 400i FALCON",
+      "valorAtual": 22047,
+      "canonicalPath": "/fipe/honda/nx-400i-falcon-2015-811113-8/",
+      "ano": 2015,
+      "marca": "HONDA"
+    }
+  ],
+  "stats": {
+    "total": 3
+  },
+  "meta": {
+    "geracaoId": "nx-3"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "tipo": "geracao",
+  "slug": "s90-1",
+  "canonicalPath": "/geracao/volvo/s90-1/",
+  "titulo": "Geracao s90-1",
+  "descricao": "4 veiculos da geracao s90-1.",
+  "seo": {
+    "title": "Geracao s90-1 - Precos FIPE",
+    "description": "Veiculos da geracao s90-1 na Tabela FIPE.",
+    "h1": "Geracao s90-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/volvo/s90-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "volvo-s90-t-8-inscript-2-0-awd-hibrido-2019-hibrido",
+      "fipeCodigo": "029132-3",
+      "displayName": "Volvo S90 T-8  INSCRIPT 2.0 AWD (Híbrido)",
+      "valorAtual": 188907,
+      "canonicalPath": "/fipe/volvo/s90-t-8-inscript-2-0-awd-hibrido-2019-029132-3/",
+      "ano": 2019,
+      "marca": "Volvo"
+    },
+    {
+      "vehicleId": "volvo-s90-t-8-inscript-2-0-awd-hibrido-2020-hibrido",
+      "fipeCodigo": "029132-3",
+      "displayName": "Volvo S90 T-8  INSCRIPT 2.0 AWD (Híbrido)",
+      "valorAtual": 195825,
+      "canonicalPath": "/fipe/volvo/s90-t-8-inscript-2-0-awd-hibrido-2020-029132-3/",
+      "ano": 2020,
+      "marca": "Volvo"
+    },
+    {
+      "vehicleId": "volvo-s90-t-8-inscript-2-0-awd-hibrido-2021-hibrido",
+      "fipeCodigo": "029132-3",
+      "displayName": "Volvo S90 T-8  INSCRIPT 2.0 AWD (Híbrido)",
+      "valorAtual": 213677,
+      "canonicalPath": "/fipe/volvo/s90-t-8-inscript-2-0-awd-hibrido-2021-029132-3/",
+      "ano": 2021,
+      "marca": "Volvo"
+    },
+    {
+      "vehicleId": "volvo-s90-t-8-inscript-2-0-awd-hibrido-2022-hibrido",
+      "fipeCodigo": "029132-3",
+      "displayName": "Volvo S90 T-8  INSCRIPT 2.0 AWD (Híbrido)",
+      "valorAtual": 263652,
+      "canonicalPath": "/fipe/volvo/s90-t-8-inscript-2-0-awd-hibrido-2022-029132-3/",
+      "ano": 2022,
+      "marca": "Volvo"
+    }
+  ],
+  "stats": {
+    "total": 4
+  },
+  "meta": {
+    "geracaoId": "s90-1"
+  }
+}

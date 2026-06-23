@@ -1,0 +1,66 @@
+{
+  "tipo": "geracao",
+  "slug": "rs6-4",
+  "canonicalPath": "/geracao/audi/rs6-4/",
+  "titulo": "Geracao rs6-4",
+  "descricao": "5 veiculos da geracao rs6-4.",
+  "seo": {
+    "title": "Geracao rs6-4 - Precos FIPE",
+    "description": "Veiculos da geracao rs6-4 na Tabela FIPE.",
+    "h1": "Geracao rs6-4",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/audi/rs6-4/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "audi-rs6-4-0-avant-tfsi-bi-tb-quat-tip-hib-2014-hibrido",
+      "fipeCodigo": "008189-2",
+      "displayName": "Audi RS6 4.0 Avant TFSI BI-TB Quat.Tip.(Hib.)",
+      "valorAtual": 341420,
+      "canonicalPath": "/fipe/audi/rs6-4-0-avant-tfsi-bi-tb-quat-tip-hib-2014-008189-2/",
+      "ano": 2014,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-rs6-4-0-avant-tfsi-bi-tb-quat-tip-hib-2015-hibrido",
+      "fipeCodigo": "008189-2",
+      "displayName": "Audi RS6 4.0 Avant TFSI BI-TB Quat.Tip.(Hib.)",
+      "valorAtual": 373401,
+      "canonicalPath": "/fipe/audi/rs6-4-0-avant-tfsi-bi-tb-quat-tip-hib-2015-008189-2/",
+      "ano": 2015,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-rs6-4-0-avant-tfsi-bi-tb-quat-tip-hib-2016-hibrido",
+      "fipeCodigo": "008189-2",
+      "displayName": "Audi RS6 4.0 Avant TFSI BI-TB Quat.Tip.(Hib.)",
+      "valorAtual": 413978,
+      "canonicalPath": "/fipe/audi/rs6-4-0-avant-tfsi-bi-tb-quat-tip-hib-2016-008189-2/",
+      "ano": 2016,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-rs6-4-0-avant-tfsi-bi-tb-quat-tip-hib-2017-hibrido",
+      "fipeCodigo": "008189-2",
+      "displayName": "Audi RS6 4.0 Avant TFSI BI-TB Quat.Tip.(Hib.)",
+      "valorAtual": 432463,
+      "canonicalPath": "/fipe/audi/rs6-4-0-avant-tfsi-bi-tb-quat-tip-hib-2017-008189-2/",
+      "ano": 2017,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-rs6-4-0-avant-tfsi-bi-tb-quat-tip-hib-2018-hibrido",
+      "fipeCodigo": "008189-2",
+      "displayName": "Audi RS6 4.0 Avant TFSI BI-TB Quat.Tip.(Hib.)",
+      "valorAtual": 487334,
+      "canonicalPath": "/fipe/audi/rs6-4-0-avant-tfsi-bi-tb-quat-tip-hib-2018-008189-2/",
+      "ano": 2018,
+      "marca": "Audi"
+    }
+  ],
+  "stats": {
+    "total": 5
+  },
+  "meta": {
+    "geracaoId": "rs6-4"
+  }
+}

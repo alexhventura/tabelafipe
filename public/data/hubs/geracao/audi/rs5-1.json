@@ -1,0 +1,66 @@
+{
+  "tipo": "geracao",
+  "slug": "rs5-1",
+  "canonicalPath": "/geracao/audi/rs5-1/",
+  "titulo": "Geracao rs5-1",
+  "descricao": "5 veiculos da geracao rs5-1.",
+  "seo": {
+    "title": "Geracao rs5-1 - Precos FIPE",
+    "description": "Veiculos da geracao rs5-1 na Tabela FIPE.",
+    "h1": "Geracao rs5-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/audi/rs5-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "audi-rs5-4-2-fsi-v8-450cv-quattro-s-tron-2p-2011-gasolina",
+      "fipeCodigo": "008151-5",
+      "displayName": "Audi RS5 4.2 FSI V8 450cv Quattro S-Tron. 2p",
+      "valorAtual": 236157,
+      "canonicalPath": "/fipe/audi/rs5-4-2-fsi-v8-450cv-quattro-s-tron-2p-2011-008151-5/",
+      "ano": 2011,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-rs5-4-2-fsi-v8-450cv-quattro-s-tron-2p-2012-gasolina",
+      "fipeCodigo": "008151-5",
+      "displayName": "Audi RS5 4.2 FSI V8 450cv Quattro S-Tron. 2p",
+      "valorAtual": 242061,
+      "canonicalPath": "/fipe/audi/rs5-4-2-fsi-v8-450cv-quattro-s-tron-2p-2012-008151-5/",
+      "ano": 2012,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-rs5-4-2-fsi-v8-450cv-quattro-s-tron-2p-2013-gasolina",
+      "fipeCodigo": "008151-5",
+      "displayName": "Audi RS5 4.2 FSI V8 450cv Quattro S-Tron. 2p",
+      "valorAtual": 256557,
+      "canonicalPath": "/fipe/audi/rs5-4-2-fsi-v8-450cv-quattro-s-tron-2p-2013-008151-5/",
+      "ano": 2013,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-rs5-4-2-fsi-v8-450cv-quattro-s-tron-2p-2014-gasolina",
+      "fipeCodigo": "008151-5",
+      "displayName": "Audi RS5 4.2 FSI V8 450cv Quattro S-Tron. 2p",
+      "valorAtual": 267397,
+      "canonicalPath": "/fipe/audi/rs5-4-2-fsi-v8-450cv-quattro-s-tron-2p-2014-008151-5/",
+      "ano": 2014,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-rs5-4-2-fsi-v8-450cv-quattro-s-tron-2p-2015-gasolina",
+      "fipeCodigo": "008151-5",
+      "displayName": "Audi RS5 4.2 FSI V8 450cv Quattro S-Tron. 2p",
+      "valorAtual": 297799,
+      "canonicalPath": "/fipe/audi/rs5-4-2-fsi-v8-450cv-quattro-s-tron-2p-2015-008151-5/",
+      "ano": 2015,
+      "marca": "Audi"
+    }
+  ],
+  "stats": {
+    "total": 5
+  },
+  "meta": {
+    "geracaoId": "rs5-1"
+  }
+}

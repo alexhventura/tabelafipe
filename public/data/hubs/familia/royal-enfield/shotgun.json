@@ -1,0 +1,78 @@
+{
+  "tipo": "familia",
+  "slug": "shotgun",
+  "canonicalPath": "/fipe/royal-enfield/shotgun/",
+  "titulo": "Royal Enfield shotgun - Tabela FIPE",
+  "descricao": "6 versoes e anos do Royal Enfield shotgun na Tabela FIPE.",
+  "seo": {
+    "title": "Royal Enfield shotgun - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes Royal Enfield shotgun. 6 veiculos indexados.",
+    "h1": "Royal Enfield shotgun - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/royal-enfield/shotgun/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "royal-enfield-shotgun-650-base-2026-gasolina",
+      "fipeCodigo": "879047-7",
+      "displayName": "Royal Enfield Shotgun 650 Base",
+      "valorAtual": 32005,
+      "canonicalPath": "/fipe/royal-enfield/shotgun-650-base-2026-879047-7/",
+      "ano": 2026,
+      "marca": "Royal Enfield"
+    },
+    {
+      "vehicleId": "royal-enfield-shotgun-650-mid-2026-gasolina",
+      "fipeCodigo": "879037-0",
+      "displayName": "Royal Enfield Shotgun 650 Mid",
+      "valorAtual": 32049,
+      "canonicalPath": "/fipe/royal-enfield/shotgun-650-mid-2026-879037-0/",
+      "ano": 2026,
+      "marca": "Royal Enfield"
+    },
+    {
+      "vehicleId": "royal-enfield-shotgun-650-top-2026-gasolina",
+      "fipeCodigo": "879048-5",
+      "displayName": "Royal Enfield Shotgun 650 Top",
+      "valorAtual": 32218,
+      "canonicalPath": "/fipe/royal-enfield/shotgun-650-top-2026-879048-5/",
+      "ano": 2026,
+      "marca": "Royal Enfield"
+    },
+    {
+      "vehicleId": "royal-enfield-shotgun-650-base-0-gasolina",
+      "fipeCodigo": "879047-7",
+      "displayName": "Royal Enfield Shotgun 650 Base",
+      "valorAtual": 34018,
+      "canonicalPath": "/fipe/royal-enfield/shotgun-650-base-0-879047-7/",
+      "ano": 0,
+      "marca": "Royal Enfield"
+    },
+    {
+      "vehicleId": "royal-enfield-shotgun-650-mid-0-gasolina",
+      "fipeCodigo": "879037-0",
+      "displayName": "Royal Enfield Shotgun 650 Mid",
+      "valorAtual": 34600,
+      "canonicalPath": "/fipe/royal-enfield/shotgun-650-mid-0-879037-0/",
+      "ano": 0,
+      "marca": "Royal Enfield"
+    },
+    {
+      "vehicleId": "royal-enfield-shotgun-650-top-0-gasolina",
+      "fipeCodigo": "879048-5",
+      "displayName": "Royal Enfield Shotgun 650 Top",
+      "valorAtual": 34879,
+      "canonicalPath": "/fipe/royal-enfield/shotgun-650-top-0-879048-5/",
+      "ano": 0,
+      "marca": "Royal Enfield"
+    }
+  ],
+  "stats": {
+    "total": 6,
+    "precoMin": 32005,
+    "precoMax": 34879,
+    "anos": [
+      2026,
+      0
+    ]
+  }
+}

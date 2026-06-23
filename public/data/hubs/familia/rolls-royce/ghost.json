@@ -1,0 +1,112 @@
+{
+  "tipo": "familia",
+  "slug": "ghost",
+  "canonicalPath": "/fipe/rolls-royce/ghost/",
+  "titulo": "Rolls-Royce ghost - Tabela FIPE",
+  "descricao": "9 versoes e anos do Rolls-Royce ghost na Tabela FIPE.",
+  "seo": {
+    "title": "Rolls-Royce ghost - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes Rolls-Royce ghost. 9 veiculos indexados.",
+    "h1": "Rolls-Royce ghost - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/rolls-royce/ghost/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "rolls-royce-ghost-6-7-v12-aut-2022-gasolina",
+      "fipeCodigo": "087008-0",
+      "displayName": "Rolls-Royce Ghost 6.7 V12 Aut.",
+      "valorAtual": 5140990,
+      "canonicalPath": "/fipe/rolls-royce/ghost-6-7-v12-aut-2022-087008-0/",
+      "ano": 2022,
+      "marca": "Rolls-Royce"
+    },
+    {
+      "vehicleId": "rolls-royce-ghost-ll-6-6-v12-aut-2019-gasolina",
+      "fipeCodigo": "087003-0",
+      "displayName": "Rolls-Royce Ghost ll 6.6 V12 Aut.",
+      "valorAtual": 3242856,
+      "canonicalPath": "/fipe/rolls-royce/ghost-ll-6-6-v12-aut-2019-087003-0/",
+      "ano": 2019,
+      "marca": "Rolls-Royce"
+    },
+    {
+      "vehicleId": "rolls-royce-ghost-ll-6-6-v12-aut-2018-gasolina",
+      "fipeCodigo": "087003-0",
+      "displayName": "Rolls-Royce Ghost ll 6.6 V12 Aut.",
+      "valorAtual": 2798952,
+      "canonicalPath": "/fipe/rolls-royce/ghost-ll-6-6-v12-aut-2018-087003-0/",
+      "ano": 2018,
+      "marca": "Rolls-Royce"
+    },
+    {
+      "vehicleId": "rolls-royce-ghost-ll-6-6-v12-aut-2017-gasolina",
+      "fipeCodigo": "087003-0",
+      "displayName": "Rolls-Royce Ghost ll 6.6 V12 Aut.",
+      "valorAtual": 2621364,
+      "canonicalPath": "/fipe/rolls-royce/ghost-ll-6-6-v12-aut-2017-087003-0/",
+      "ano": 2017,
+      "marca": "Rolls-Royce"
+    },
+    {
+      "vehicleId": "rolls-royce-ghost-ll-6-6-v12-aut-2016-gasolina",
+      "fipeCodigo": "087003-0",
+      "displayName": "Rolls-Royce Ghost ll 6.6 V12 Aut.",
+      "valorAtual": 2514538,
+      "canonicalPath": "/fipe/rolls-royce/ghost-ll-6-6-v12-aut-2016-087003-0/",
+      "ano": 2016,
+      "marca": "Rolls-Royce"
+    },
+    {
+      "vehicleId": "rolls-royce-ghost-ll-6-6-v12-aut-2015-gasolina",
+      "fipeCodigo": "087003-0",
+      "displayName": "Rolls-Royce Ghost ll 6.6 V12 Aut.",
+      "valorAtual": 2419761,
+      "canonicalPath": "/fipe/rolls-royce/ghost-ll-6-6-v12-aut-2015-087003-0/",
+      "ano": 2015,
+      "marca": "Rolls-Royce"
+    },
+    {
+      "vehicleId": "rolls-royce-ghost-6-6-v12-aut-2013-gasolina",
+      "fipeCodigo": "087001-3",
+      "displayName": "Rolls-Royce Ghost 6.6 V12 Aut.",
+      "valorAtual": 2251961,
+      "canonicalPath": "/fipe/rolls-royce/ghost-6-6-v12-aut-2013-087001-3/",
+      "ano": 2013,
+      "marca": "Rolls-Royce"
+    },
+    {
+      "vehicleId": "rolls-royce-ghost-6-6-v12-aut-2012-gasolina",
+      "fipeCodigo": "087001-3",
+      "displayName": "Rolls-Royce Ghost 6.6 V12 Aut.",
+      "valorAtual": 2130252,
+      "canonicalPath": "/fipe/rolls-royce/ghost-6-6-v12-aut-2012-087001-3/",
+      "ano": 2012,
+      "marca": "Rolls-Royce"
+    },
+    {
+      "vehicleId": "rolls-royce-ghost-6-6-v12-aut-2011-gasolina",
+      "fipeCodigo": "087001-3",
+      "displayName": "Rolls-Royce Ghost 6.6 V12 Aut.",
+      "valorAtual": 1832328,
+      "canonicalPath": "/fipe/rolls-royce/ghost-6-6-v12-aut-2011-087001-3/",
+      "ano": 2011,
+      "marca": "Rolls-Royce"
+    }
+  ],
+  "stats": {
+    "total": 9,
+    "precoMin": 1832328,
+    "precoMax": 5140990,
+    "anos": [
+      2022,
+      2019,
+      2018,
+      2017,
+      2016,
+      2015,
+      2013,
+      2012,
+      2011
+    ]
+  }
+}

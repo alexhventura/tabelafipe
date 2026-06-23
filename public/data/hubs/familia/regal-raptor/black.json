@@ -1,0 +1,42 @@
+{
+  "tipo": "familia",
+  "slug": "black",
+  "canonicalPath": "/fipe/regal-raptor/black/",
+  "titulo": "REGAL RAPTOR black - Tabela FIPE",
+  "descricao": "2 versoes e anos do REGAL RAPTOR black na Tabela FIPE.",
+  "seo": {
+    "title": "REGAL RAPTOR black - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes REGAL RAPTOR black. 2 veiculos indexados.",
+    "h1": "REGAL RAPTOR black - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/regal-raptor/black/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "regal-raptor-black-jack-320-2011-gasolina",
+      "fipeCodigo": "872003-7",
+      "displayName": "REGAL RAPTOR BLACK JACK 320",
+      "valorAtual": 7539,
+      "canonicalPath": "/fipe/regal-raptor/black-jack-320-2011-872003-7/",
+      "ano": 2011,
+      "marca": "REGAL RAPTOR"
+    },
+    {
+      "vehicleId": "regal-raptor-black-jack-320-2009-gasolina",
+      "fipeCodigo": "872003-7",
+      "displayName": "REGAL RAPTOR BLACK JACK 320",
+      "valorAtual": 7033,
+      "canonicalPath": "/fipe/regal-raptor/black-jack-320-2009-872003-7/",
+      "ano": 2009,
+      "marca": "REGAL RAPTOR"
+    }
+  ],
+  "stats": {
+    "total": 2,
+    "precoMin": 7033,
+    "precoMax": 7539,
+    "anos": [
+      2011,
+      2009
+    ]
+  }
+}

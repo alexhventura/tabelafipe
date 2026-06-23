@@ -1,0 +1,48 @@
+{
+  "tipo": "geracao",
+  "slug": "jurasic-1",
+  "canonicalPath": "/geracao/mvk/jurasic-1/",
+  "titulo": "Geracao jurasic-1",
+  "descricao": "3 veiculos da geracao jurasic-1.",
+  "seo": {
+    "title": "Geracao jurasic-1 - Precos FIPE",
+    "description": "Veiculos da geracao jurasic-1 na Tabela FIPE.",
+    "h1": "Geracao jurasic-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/mvk/jurasic-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "mvk-jurasic-300-2007-gasolina",
+      "fipeCodigo": "845019-6",
+      "displayName": "MVK JURASIC 300",
+      "valorAtual": 5106,
+      "canonicalPath": "/fipe/mvk/jurasic-300-2007-845019-6/",
+      "ano": 2007,
+      "marca": "MVK"
+    },
+    {
+      "vehicleId": "mvk-jurasic-300-2008-gasolina",
+      "fipeCodigo": "845019-6",
+      "displayName": "MVK JURASIC 300",
+      "valorAtual": 5722,
+      "canonicalPath": "/fipe/mvk/jurasic-300-2008-845019-6/",
+      "ano": 2008,
+      "marca": "MVK"
+    },
+    {
+      "vehicleId": "mvk-jurasic-300-2009-gasolina",
+      "fipeCodigo": "845019-6",
+      "displayName": "MVK JURASIC 300",
+      "valorAtual": 6653,
+      "canonicalPath": "/fipe/mvk/jurasic-300-2009-845019-6/",
+      "ano": 2009,
+      "marca": "MVK"
+    }
+  ],
+  "stats": {
+    "total": 3
+  },
+  "meta": {
+    "geracaoId": "jurasic-1"
+  }
+}

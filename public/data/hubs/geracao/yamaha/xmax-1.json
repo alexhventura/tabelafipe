@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "xmax-1",
+  "canonicalPath": "/geracao/yamaha/xmax-1/",
+  "titulo": "Geracao xmax-1",
+  "descricao": "2 veiculos da geracao xmax-1.",
+  "seo": {
+    "title": "Geracao xmax-1 - Precos FIPE",
+    "description": "Veiculos da geracao xmax-1 na Tabela FIPE.",
+    "h1": "Geracao xmax-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/yamaha/xmax-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "yamaha-xmax-250-connected-0-gasolina",
+      "fipeCodigo": "827132-1",
+      "displayName": "YAMAHA XMAX 250 CONNECTED",
+      "valorAtual": 38419,
+      "canonicalPath": "/fipe/yamaha/xmax-250-connected-0-827132-1/",
+      "ano": 0,
+      "marca": "YAMAHA"
+    },
+    {
+      "vehicleId": "yamaha-xmax-300-connected-0-gasolina",
+      "fipeCodigo": "827142-9",
+      "displayName": "YAMAHA XMAX 300 CONNECTED",
+      "valorAtual": 40739,
+      "canonicalPath": "/fipe/yamaha/xmax-300-connected-0-827142-9/",
+      "ano": 0,
+      "marca": "YAMAHA"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "xmax-1"
+  }
+}

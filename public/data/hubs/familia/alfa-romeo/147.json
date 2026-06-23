@@ -1,0 +1,52 @@
+{
+  "tipo": "familia",
+  "slug": "147",
+  "canonicalPath": "/fipe/alfa-romeo/147/",
+  "titulo": "Alfa Romeo 147 - Tabela FIPE",
+  "descricao": "3 versoes e anos do Alfa Romeo 147 na Tabela FIPE.",
+  "seo": {
+    "title": "Alfa Romeo 147 - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes Alfa Romeo 147. 3 veiculos indexados.",
+    "h1": "Alfa Romeo 147 - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/alfa-romeo/147/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "alfa-romeo-147-2-0-16v-148cv-4p-semi-aut-2005-gasolina",
+      "fipeCodigo": "006017-8",
+      "displayName": "Alfa Romeo 147 2.0 16V 148cv 4p Semi-Aut.",
+      "valorAtual": 98343,
+      "canonicalPath": "/fipe/alfa-romeo/147-2-0-16v-148cv-4p-semi-aut-2005-006017-8/",
+      "ano": 2005,
+      "marca": "Alfa Romeo"
+    },
+    {
+      "vehicleId": "alfa-romeo-147-2-0-16v-148cv-4p-semi-aut-2004-gasolina",
+      "fipeCodigo": "006017-8",
+      "displayName": "Alfa Romeo 147 2.0 16V 148cv 4p Semi-Aut.",
+      "valorAtual": 95944,
+      "canonicalPath": "/fipe/alfa-romeo/147-2-0-16v-148cv-4p-semi-aut-2004-006017-8/",
+      "ano": 2004,
+      "marca": "Alfa Romeo"
+    },
+    {
+      "vehicleId": "alfa-romeo-147-2-0-16v-148cv-4p-semi-aut-2003-gasolina",
+      "fipeCodigo": "006017-8",
+      "displayName": "Alfa Romeo 147 2.0 16V 148cv 4p Semi-Aut.",
+      "valorAtual": 93603,
+      "canonicalPath": "/fipe/alfa-romeo/147-2-0-16v-148cv-4p-semi-aut-2003-006017-8/",
+      "ano": 2003,
+      "marca": "Alfa Romeo"
+    }
+  ],
+  "stats": {
+    "total": 3,
+    "precoMin": 93603,
+    "precoMax": 98343,
+    "anos": [
+      2005,
+      2004,
+      2003
+    ]
+  }
+}

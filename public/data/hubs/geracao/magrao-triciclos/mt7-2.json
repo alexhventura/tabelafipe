@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "mt7-2",
+  "canonicalPath": "/geracao/magrao-triciclos/mt7-2/",
+  "titulo": "Geracao mt7-2",
+  "descricao": "2 veiculos da geracao mt7-2.",
+  "seo": {
+    "title": "Geracao mt7-2 - Precos FIPE",
+    "description": "Veiculos da geracao mt7-2 na Tabela FIPE.",
+    "h1": "Geracao mt7-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/magrao-triciclos/mt7-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "magrao-triciclos-mt7-chopper-1-6-std-2019-gasolina",
+      "fipeCodigo": "873001-6",
+      "displayName": "MAGRÃO TRICICLOS MT7 CHOPPER 1.6 Std.",
+      "valorAtual": 41997,
+      "canonicalPath": "/fipe/magrao-triciclos/mt7-chopper-1-6-std-2019-873001-6/",
+      "ano": 2019,
+      "marca": "MAGRÃO TRICICLOS"
+    },
+    {
+      "vehicleId": "magrao-triciclos-mt7-chopper-1-6-top-2019-gasolina",
+      "fipeCodigo": "873002-4",
+      "displayName": "MAGRÃO TRICICLOS MT7 CHOPPER 1.6 Top.",
+      "valorAtual": 49680,
+      "canonicalPath": "/fipe/magrao-triciclos/mt7-chopper-1-6-top-2019-873002-4/",
+      "ano": 2019,
+      "marca": "MAGRÃO TRICICLOS"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "mt7-2"
+  }
+}

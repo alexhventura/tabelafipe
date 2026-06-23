@@ -1,0 +1,50 @@
+{
+  "tipo": "familia",
+  "slug": "ignis",
+  "canonicalPath": "/fipe/suzuki/ignis/",
+  "titulo": "Suzuki ignis - Tabela FIPE",
+  "descricao": "3 versoes e anos do Suzuki ignis na Tabela FIPE.",
+  "seo": {
+    "title": "Suzuki ignis - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes Suzuki ignis. 3 veiculos indexados.",
+    "h1": "Suzuki ignis - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/suzuki/ignis/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "suzuki-ignis-1-3-16v-82cv-4p-mec-2003-gasolina",
+      "fipeCodigo": "028041-0",
+      "displayName": "Suzuki Ignis 1.3 16V 82cv 4p Mec.",
+      "valorAtual": 17516,
+      "canonicalPath": "/fipe/suzuki/ignis-1-3-16v-82cv-4p-mec-2003-028041-0/",
+      "ano": 2003,
+      "marca": "Suzuki"
+    },
+    {
+      "vehicleId": "suzuki-ignis-1-3-16v-82cv-4p-aut-2003-gasolina",
+      "fipeCodigo": "028042-9",
+      "displayName": "Suzuki Ignis 1.3 16V 82cv 4p Aut.",
+      "valorAtual": 18441,
+      "canonicalPath": "/fipe/suzuki/ignis-1-3-16v-82cv-4p-aut-2003-028042-9/",
+      "ano": 2003,
+      "marca": "Suzuki"
+    },
+    {
+      "vehicleId": "suzuki-ignis-wrs-1-3-16v-82cv-4x4-4p-2003-gasolina",
+      "fipeCodigo": "028043-7",
+      "displayName": "Suzuki Ignis WRS 1.3 16V 82cv 4x4 4p",
+      "valorAtual": 19251,
+      "canonicalPath": "/fipe/suzuki/ignis-wrs-1-3-16v-82cv-4x4-4p-2003-028043-7/",
+      "ano": 2003,
+      "marca": "Suzuki"
+    }
+  ],
+  "stats": {
+    "total": 3,
+    "precoMin": 17516,
+    "precoMax": 19251,
+    "anos": [
+      2003
+    ]
+  }
+}

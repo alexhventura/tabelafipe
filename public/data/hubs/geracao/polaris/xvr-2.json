@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "xvr-2",
+  "canonicalPath": "/geracao/polaris/xvr-2/",
+  "titulo": "Geracao xvr-2",
+  "descricao": "2 veiculos da geracao xvr-2.",
+  "seo": {
+    "title": "Geracao xvr-2 - Precos FIPE",
+    "description": "Veiculos da geracao xvr-2 na Tabela FIPE.",
+    "h1": "Geracao xvr-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/polaris/xvr-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "polaris-xvr-xpedition-xp-5-northstar-adv-4x4-utv-2025-gasolina",
+      "fipeCodigo": "884033-4",
+      "displayName": "POLARIS XVR XPEDITION XP 5 NORTHSTAR ADV 4x4 (UTV)",
+      "valorAtual": 254389,
+      "canonicalPath": "/fipe/polaris/xvr-xpedition-xp-5-northstar-adv-4x4-utv-2025-884033-4/",
+      "ano": 2025,
+      "marca": "POLARIS"
+    },
+    {
+      "vehicleId": "polaris-xvr-xpedition-xp-5-ultimate-4x4-utv-2024-gasolina",
+      "fipeCodigo": "884030-0",
+      "displayName": "POLARIS XVR XPEDITION XP 5 Ultimate 4X4 (UTV)",
+      "valorAtual": 202632,
+      "canonicalPath": "/fipe/polaris/xvr-xpedition-xp-5-ultimate-4x4-utv-2024-884030-0/",
+      "ano": 2024,
+      "marca": "POLARIS"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "xvr-2"
+  }
+}

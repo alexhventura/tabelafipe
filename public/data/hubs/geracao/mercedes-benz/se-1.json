@@ -1,0 +1,48 @@
+{
+  "tipo": "geracao",
+  "slug": "se-1",
+  "canonicalPath": "/geracao/mercedes-benz/se-1/",
+  "titulo": "Geracao se-1",
+  "descricao": "3 veiculos da geracao se-1.",
+  "seo": {
+    "title": "Geracao se-1 - Precos FIPE",
+    "description": "Veiculos da geracao se-1 na Tabela FIPE.",
+    "h1": "Geracao se-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/mercedes-benz/se-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "mercedes-benz-se-500-1986-gasolina",
+      "fipeCodigo": "021016-1",
+      "displayName": "Mercedes-Benz SE-500",
+      "valorAtual": 19974,
+      "canonicalPath": "/fipe/mercedes-benz/se-500-1986-021016-1/",
+      "ano": 1986,
+      "marca": "Mercedes-Benz"
+    },
+    {
+      "vehicleId": "shineray-se-1-2000w-eletrica-0-eletrico",
+      "fipeCodigo": "850034-7",
+      "displayName": "SHINERAY SE-1 2000W (Elétrica)",
+      "valorAtual": 12743,
+      "canonicalPath": "/fipe/shineray/se-1-2000w-eletrica-0-850034-7/",
+      "ano": 0,
+      "marca": "SHINERAY"
+    },
+    {
+      "vehicleId": "shineray-se-2-2300w-eletrica-0-eletrico",
+      "fipeCodigo": "850029-0",
+      "displayName": "SHINERAY SE-2 2300W (Elétrica)",
+      "valorAtual": 12834,
+      "canonicalPath": "/fipe/shineray/se-2-2300w-eletrica-0-850029-0/",
+      "ano": 0,
+      "marca": "SHINERAY"
+    }
+  ],
+  "stats": {
+    "total": 3
+  },
+  "meta": {
+    "geracaoId": "se-1"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "kangoo-1",
+  "canonicalPath": "/geracao/renault/kangoo-1/",
+  "titulo": "Geracao kangoo-1",
+  "descricao": "2 veiculos da geracao kangoo-1.",
+  "seo": {
+    "title": "Geracao kangoo-1 - Precos FIPE",
+    "description": "Veiculos da geracao kangoo-1 na Tabela FIPE.",
+    "h1": "Geracao kangoo-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/renault/kangoo-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "renault-kangoo-advanced-1-6-16v-flex-0-flex",
+      "fipeCodigo": "025331-6",
+      "displayName": "Renault Kangoo Advanced 1.6 16V Flex",
+      "valorAtual": 126985,
+      "canonicalPath": "/fipe/renault/kangoo-advanced-1-6-16v-flex-0-025331-6/",
+      "ano": 0,
+      "marca": "Renault"
+    },
+    {
+      "vehicleId": "renault-kangoo-e-tech-furgao-eletrico-0-eletrico",
+      "fipeCodigo": "025326-0",
+      "displayName": "Renault Kangoo E-Tech Furgão (Elétrico)",
+      "valorAtual": 299390,
+      "canonicalPath": "/fipe/renault/kangoo-e-tech-furgao-eletrico-0-025326-0/",
+      "ano": 0,
+      "marca": "Renault"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "kangoo-1"
+  }
+}

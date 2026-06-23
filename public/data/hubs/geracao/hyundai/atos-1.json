@@ -1,0 +1,111 @@
+{
+  "tipo": "geracao",
+  "slug": "atos-1",
+  "canonicalPath": "/geracao/hyundai/atos-1/",
+  "titulo": "Geracao atos-1",
+  "descricao": "10 veiculos da geracao atos-1.",
+  "seo": {
+    "title": "Geracao atos-1 - Precos FIPE",
+    "description": "Veiculos da geracao atos-1 na Tabela FIPE.",
+    "h1": "Geracao atos-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/hyundai/atos-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "hyundai-atos-prime-gl-1-0-mec-2001-gasolina",
+      "fipeCodigo": "015048-7",
+      "displayName": "Hyundai Atos Prime GL 1.0 Mec.",
+      "valorAtual": 10781,
+      "canonicalPath": "/fipe/hyundai/atos-prime-gl-1-0-mec-2001-015048-7/",
+      "ano": 2001,
+      "marca": "Hyundai"
+    },
+    {
+      "vehicleId": "hyundai-atos-prime-gls-1-0-aut-2000-gasolina",
+      "fipeCodigo": "015035-5",
+      "displayName": "Hyundai Atos Prime GLS 1.0 Aut.",
+      "valorAtual": 14438,
+      "canonicalPath": "/fipe/hyundai/atos-prime-gls-1-0-aut-2000-015035-5/",
+      "ano": 2000,
+      "marca": "Hyundai"
+    },
+    {
+      "vehicleId": "hyundai-atos-prime-gls-1-0-aut-2001-gasolina",
+      "fipeCodigo": "015035-5",
+      "displayName": "Hyundai Atos Prime GLS 1.0 Aut.",
+      "valorAtual": 15883,
+      "canonicalPath": "/fipe/hyundai/atos-prime-gls-1-0-aut-2001-015035-5/",
+      "ano": 2001,
+      "marca": "Hyundai"
+    },
+    {
+      "vehicleId": "hyundai-atos-prime-gls-1-0-aut-2002-gasolina",
+      "fipeCodigo": "015035-5",
+      "displayName": "Hyundai Atos Prime GLS 1.0 Aut.",
+      "valorAtual": 16593,
+      "canonicalPath": "/fipe/hyundai/atos-prime-gls-1-0-aut-2002-015035-5/",
+      "ano": 2002,
+      "marca": "Hyundai"
+    },
+    {
+      "vehicleId": "hyundai-atos-prime-gls-1-0-aut-2003-gasolina",
+      "fipeCodigo": "015035-5",
+      "displayName": "Hyundai Atos Prime GLS 1.0 Aut.",
+      "valorAtual": 22417,
+      "canonicalPath": "/fipe/hyundai/atos-prime-gls-1-0-aut-2003-015035-5/",
+      "ano": 2003,
+      "marca": "Hyundai"
+    },
+    {
+      "vehicleId": "hyundai-atos-prime-gls-1-0-mec-2000-gasolina",
+      "fipeCodigo": "015033-9",
+      "displayName": "Hyundai Atos Prime GLS 1.0 Mec.",
+      "valorAtual": 10218,
+      "canonicalPath": "/fipe/hyundai/atos-prime-gls-1-0-mec-2000-015033-9/",
+      "ano": 2000,
+      "marca": "Hyundai"
+    },
+    {
+      "vehicleId": "hyundai-atos-prime-gls-1-0-mec-2001-gasolina",
+      "fipeCodigo": "015033-9",
+      "displayName": "Hyundai Atos Prime GLS 1.0 Mec.",
+      "valorAtual": 10927,
+      "canonicalPath": "/fipe/hyundai/atos-prime-gls-1-0-mec-2001-015033-9/",
+      "ano": 2001,
+      "marca": "Hyundai"
+    },
+    {
+      "vehicleId": "hyundai-atos-prime-gls-1-0-mec-2002-gasolina",
+      "fipeCodigo": "015033-9",
+      "displayName": "Hyundai Atos Prime GLS 1.0 Mec.",
+      "valorAtual": 11592,
+      "canonicalPath": "/fipe/hyundai/atos-prime-gls-1-0-mec-2002-015033-9/",
+      "ano": 2002,
+      "marca": "Hyundai"
+    },
+    {
+      "vehicleId": "hyundai-atos-prime-gls-1-0-semi-aut-2000-gasolina",
+      "fipeCodigo": "015034-7",
+      "displayName": "Hyundai Atos Prime GLS 1.0 Semi-Aut.",
+      "valorAtual": 10374,
+      "canonicalPath": "/fipe/hyundai/atos-prime-gls-1-0-semi-aut-2000-015034-7/",
+      "ano": 2000,
+      "marca": "Hyundai"
+    },
+    {
+      "vehicleId": "hyundai-atos-prime-gls-1-0-semi-aut-2001-gasolina",
+      "fipeCodigo": "015034-7",
+      "displayName": "Hyundai Atos Prime GLS 1.0 Semi-Aut.",
+      "valorAtual": 11179,
+      "canonicalPath": "/fipe/hyundai/atos-prime-gls-1-0-semi-aut-2001-015034-7/",
+      "ano": 2001,
+      "marca": "Hyundai"
+    }
+  ],
+  "stats": {
+    "total": 10
+  },
+  "meta": {
+    "geracaoId": "atos-1"
+  }
+}

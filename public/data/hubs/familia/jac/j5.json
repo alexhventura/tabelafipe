@@ -1,0 +1,92 @@
+{
+  "tipo": "familia",
+  "slug": "j5",
+  "canonicalPath": "/fipe/jac/j5/",
+  "titulo": "JAC j5 - Tabela FIPE",
+  "descricao": "7 versoes e anos do JAC j5 na Tabela FIPE.",
+  "seo": {
+    "title": "JAC j5 - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes JAC j5. 7 veiculos indexados.",
+    "h1": "JAC j5 - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/jac/j5/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "jac-j5-sedan-1-5-16v-4p-mec-2016-gasolina",
+      "fipeCodigo": "080006-6",
+      "displayName": "JAC J5 Sedan 1.5 16V 4p Mec.",
+      "valorAtual": 34339,
+      "canonicalPath": "/fipe/jac/j5-sedan-1-5-16v-4p-mec-2016-080006-6/",
+      "ano": 2016,
+      "marca": "JAC"
+    },
+    {
+      "vehicleId": "jac-j5-sedan-1-5-16v-4p-mec-2015-gasolina",
+      "fipeCodigo": "080006-6",
+      "displayName": "JAC J5 Sedan 1.5 16V 4p Mec.",
+      "valorAtual": 31913,
+      "canonicalPath": "/fipe/jac/j5-sedan-1-5-16v-4p-mec-2015-080006-6/",
+      "ano": 2015,
+      "marca": "JAC"
+    },
+    {
+      "vehicleId": "jac-j5-sedan-1-5-16v-4p-mec-2014-gasolina",
+      "fipeCodigo": "080006-6",
+      "displayName": "JAC J5 Sedan 1.5 16V 4p Mec.",
+      "valorAtual": 22945,
+      "canonicalPath": "/fipe/jac/j5-sedan-1-5-16v-4p-mec-2014-080006-6/",
+      "ano": 2014,
+      "marca": "JAC"
+    },
+    {
+      "vehicleId": "jac-j5-sedan-1-5-16v-4p-mec-2013-gasolina",
+      "fipeCodigo": "080006-6",
+      "displayName": "JAC J5 Sedan 1.5 16V 4p Mec.",
+      "valorAtual": 22213,
+      "canonicalPath": "/fipe/jac/j5-sedan-1-5-16v-4p-mec-2013-080006-6/",
+      "ano": 2013,
+      "marca": "JAC"
+    },
+    {
+      "vehicleId": "jac-j5-sedan-1-5-16v-4p-mec-2012-gasolina",
+      "fipeCodigo": "080006-6",
+      "displayName": "JAC J5 Sedan 1.5 16V 4p Mec.",
+      "valorAtual": 19847,
+      "canonicalPath": "/fipe/jac/j5-sedan-1-5-16v-4p-mec-2012-080006-6/",
+      "ano": 2012,
+      "marca": "JAC"
+    },
+    {
+      "vehicleId": "jac-j5-sedan-1-5-16v-4p-mec-2011-gasolina",
+      "fipeCodigo": "080006-6",
+      "displayName": "JAC J5 Sedan 1.5 16V 4p Mec.",
+      "valorAtual": 19158,
+      "canonicalPath": "/fipe/jac/j5-sedan-1-5-16v-4p-mec-2011-080006-6/",
+      "ano": 2011,
+      "marca": "JAC"
+    },
+    {
+      "vehicleId": "jac-j5-sedan-1-5-16v-4p-mec-2010-gasolina",
+      "fipeCodigo": "080006-6",
+      "displayName": "JAC J5 Sedan 1.5 16V 4p Mec.",
+      "valorAtual": 18654,
+      "canonicalPath": "/fipe/jac/j5-sedan-1-5-16v-4p-mec-2010-080006-6/",
+      "ano": 2010,
+      "marca": "JAC"
+    }
+  ],
+  "stats": {
+    "total": 7,
+    "precoMin": 18654,
+    "precoMax": 34339,
+    "anos": [
+      2016,
+      2015,
+      2014,
+      2013,
+      2012,
+      2011,
+      2010
+    ]
+  }
+}

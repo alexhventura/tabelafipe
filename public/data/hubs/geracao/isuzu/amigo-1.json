@@ -1,0 +1,48 @@
+{
+  "tipo": "geracao",
+  "slug": "amigo-1",
+  "canonicalPath": "/geracao/isuzu/amigo-1/",
+  "titulo": "Geracao amigo-1",
+  "descricao": "3 veiculos da geracao amigo-1.",
+  "seo": {
+    "title": "Geracao amigo-1 - Precos FIPE",
+    "description": "Veiculos da geracao amigo-1 na Tabela FIPE.",
+    "h1": "Geracao amigo-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/isuzu/amigo-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "isuzu-amigo-2-3-4x2-4x4-1992-gasolina",
+      "fipeCodigo": "046001-0",
+      "displayName": "Isuzu Amigo 2.3 4x2/4x4",
+      "valorAtual": 6550,
+      "canonicalPath": "/fipe/isuzu/amigo-2-3-4x2-4x4-1992-046001-0/",
+      "ano": 1992,
+      "marca": "Isuzu"
+    },
+    {
+      "vehicleId": "isuzu-amigo-2-3-4x2-4x4-1993-gasolina",
+      "fipeCodigo": "046001-0",
+      "displayName": "Isuzu Amigo 2.3 4x2/4x4",
+      "valorAtual": 7249,
+      "canonicalPath": "/fipe/isuzu/amigo-2-3-4x2-4x4-1993-046001-0/",
+      "ano": 1993,
+      "marca": "Isuzu"
+    },
+    {
+      "vehicleId": "isuzu-amigo-2-3-4x2-4x4-1994-gasolina",
+      "fipeCodigo": "046001-0",
+      "displayName": "Isuzu Amigo 2.3 4x2/4x4",
+      "valorAtual": 8739,
+      "canonicalPath": "/fipe/isuzu/amigo-2-3-4x2-4x4-1994-046001-0/",
+      "ano": 1994,
+      "marca": "Isuzu"
+    }
+  ],
+  "stats": {
+    "total": 3
+  },
+  "meta": {
+    "geracaoId": "amigo-1"
+  }
+}

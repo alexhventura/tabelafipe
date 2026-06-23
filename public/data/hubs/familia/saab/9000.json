@@ -1,0 +1,42 @@
+{
+  "tipo": "familia",
+  "slug": "9000",
+  "canonicalPath": "/fipe/saab/9000/",
+  "titulo": "Saab 9000 - Tabela FIPE",
+  "descricao": "2 versoes e anos do Saab 9000 na Tabela FIPE.",
+  "seo": {
+    "title": "Saab 9000 - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes Saab 9000. 2 veiculos indexados.",
+    "h1": "Saab 9000 - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/saab/9000/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "saab-9000-cd-2-3-turbo-1993-gasolina",
+      "fipeCodigo": "053001-8",
+      "displayName": "Saab 9000 CD 2.3 Turbo",
+      "valorAtual": 12968,
+      "canonicalPath": "/fipe/saab/9000-cd-2-3-turbo-1993-053001-8/",
+      "ano": 1993,
+      "marca": "Saab"
+    },
+    {
+      "vehicleId": "saab-9000-cd-2-3-turbo-1992-gasolina",
+      "fipeCodigo": "053001-8",
+      "displayName": "Saab 9000 CD 2.3 Turbo",
+      "valorAtual": 11769,
+      "canonicalPath": "/fipe/saab/9000-cd-2-3-turbo-1992-053001-8/",
+      "ano": 1992,
+      "marca": "Saab"
+    }
+  ],
+  "stats": {
+    "total": 2,
+    "precoMin": 11769,
+    "precoMax": 12968,
+    "anos": [
+      1993,
+      1992
+    ]
+  }
+}

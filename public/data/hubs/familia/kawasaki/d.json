@@ -1,0 +1,42 @@
+{
+  "tipo": "familia",
+  "slug": "d",
+  "canonicalPath": "/fipe/kawasaki/d/",
+  "titulo": "KAWASAKI d - Tabela FIPE",
+  "descricao": "2 versoes e anos do KAWASAKI d na Tabela FIPE.",
+  "seo": {
+    "title": "KAWASAKI d - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes KAWASAKI d. 2 veiculos indexados.",
+    "h1": "KAWASAKI d - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/kawasaki/d/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "kawasaki-d-tracker-x-250cc-2011-gasolina",
+      "fipeCodigo": "817050-9",
+      "displayName": "KAWASAKI D-TRACKER X 250cc",
+      "valorAtual": 15291,
+      "canonicalPath": "/fipe/kawasaki/d-tracker-x-250cc-2011-817050-9/",
+      "ano": 2011,
+      "marca": "KAWASAKI"
+    },
+    {
+      "vehicleId": "kawasaki-d-tracker-x-250cc-2010-gasolina",
+      "fipeCodigo": "817050-9",
+      "displayName": "KAWASAKI D-TRACKER X 250cc",
+      "valorAtual": 14918,
+      "canonicalPath": "/fipe/kawasaki/d-tracker-x-250cc-2010-817050-9/",
+      "ano": 2010,
+      "marca": "KAWASAKI"
+    }
+  ],
+  "stats": {
+    "total": 2,
+    "precoMin": 14918,
+    "precoMax": 15291,
+    "anos": [
+      2011,
+      2010
+    ]
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "tipo": "geracao",
+  "slug": "es-1",
+  "canonicalPath": "/geracao/lexus/es-1/",
+  "titulo": "Geracao es-1",
+  "descricao": "5 veiculos da geracao es-1.",
+  "seo": {
+    "title": "Geracao es-1 - Precos FIPE",
+    "description": "Veiculos da geracao es-1 na Tabela FIPE.",
+    "h1": "Geracao es-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/lexus/es-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "lexus-es-300-3-0-1991-gasolina",
+      "fipeCodigo": "057020-6",
+      "displayName": "Lexus ES-300 3.0",
+      "valorAtual": 12485,
+      "canonicalPath": "/fipe/lexus/es-300-3-0-1991-057020-6/",
+      "ano": 1991,
+      "marca": "Lexus"
+    },
+    {
+      "vehicleId": "lexus-es-300-3-0-1992-gasolina",
+      "fipeCodigo": "057020-6",
+      "displayName": "Lexus ES-300 3.0",
+      "valorAtual": 15129,
+      "canonicalPath": "/fipe/lexus/es-300-3-0-1992-057020-6/",
+      "ano": 1992,
+      "marca": "Lexus"
+    },
+    {
+      "vehicleId": "lexus-es-300-3-0-1993-gasolina",
+      "fipeCodigo": "057020-6",
+      "displayName": "Lexus ES-300 3.0",
+      "valorAtual": 16600,
+      "canonicalPath": "/fipe/lexus/es-300-3-0-1993-057020-6/",
+      "ano": 1993,
+      "marca": "Lexus"
+    },
+    {
+      "vehicleId": "lexus-es-300-3-0-1994-gasolina",
+      "fipeCodigo": "057020-6",
+      "displayName": "Lexus ES-300 3.0",
+      "valorAtual": 17015,
+      "canonicalPath": "/fipe/lexus/es-300-3-0-1994-057020-6/",
+      "ano": 1994,
+      "marca": "Lexus"
+    },
+    {
+      "vehicleId": "lexus-es-300-3-0-1995-gasolina",
+      "fipeCodigo": "057020-6",
+      "displayName": "Lexus ES-300 3.0",
+      "valorAtual": 17441,
+      "canonicalPath": "/fipe/lexus/es-300-3-0-1995-057020-6/",
+      "ano": 1995,
+      "marca": "Lexus"
+    }
+  ],
+  "stats": {
+    "total": 5
+  },
+  "meta": {
+    "geracaoId": "es-1"
+  }
+}

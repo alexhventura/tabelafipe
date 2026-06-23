@@ -1,0 +1,48 @@
+{
+  "tipo": "geracao",
+  "slug": "passing-1",
+  "canonicalPath": "/geracao/sanyang/passing-1/",
+  "titulo": "Geracao passing-1",
+  "descricao": "3 veiculos da geracao passing-1.",
+  "seo": {
+    "title": "Geracao passing-1 - Precos FIPE",
+    "description": "Veiculos da geracao passing-1 na Tabela FIPE.",
+    "h1": "Geracao passing-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/sanyang/passing-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "sanyang-passing-110-1996-gasolina",
+      "fipeCodigo": "823003-0",
+      "displayName": "SANYANG PASSING 110",
+      "valorAtual": 1661,
+      "canonicalPath": "/fipe/sanyang/passing-110-1996-823003-0/",
+      "ano": 1996,
+      "marca": "SANYANG"
+    },
+    {
+      "vehicleId": "sanyang-passing-110-1997-gasolina",
+      "fipeCodigo": "823003-0",
+      "displayName": "SANYANG PASSING 110",
+      "valorAtual": 1901,
+      "canonicalPath": "/fipe/sanyang/passing-110-1997-823003-0/",
+      "ano": 1997,
+      "marca": "SANYANG"
+    },
+    {
+      "vehicleId": "sanyang-passing-110-1998-gasolina",
+      "fipeCodigo": "823003-0",
+      "displayName": "SANYANG PASSING 110",
+      "valorAtual": 2020,
+      "canonicalPath": "/fipe/sanyang/passing-110-1998-823003-0/",
+      "ano": 1998,
+      "marca": "SANYANG"
+    }
+  ],
+  "stats": {
+    "total": 3
+  },
+  "meta": {
+    "geracaoId": "passing-1"
+  }
+}

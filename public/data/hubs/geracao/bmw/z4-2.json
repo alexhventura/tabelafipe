@@ -1,0 +1,93 @@
+{
+  "tipo": "geracao",
+  "slug": "z4-2",
+  "canonicalPath": "/geracao/bmw/z4-2/",
+  "titulo": "Geracao z4-2",
+  "descricao": "8 veiculos da geracao z4-2.",
+  "seo": {
+    "title": "Geracao z4-2 - Precos FIPE",
+    "description": "Veiculos da geracao z4-2 na Tabela FIPE.",
+    "h1": "Geracao z4-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/bmw/z4-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "bmw-z4-m40i-3-0-340cv-aut-2019-gasolina",
+      "fipeCodigo": "009249-5",
+      "displayName": "BMW Z4 M40i 3.0 340cv Aut.",
+      "valorAtual": 355852,
+      "canonicalPath": "/fipe/bmw/z4-m40i-3-0-340cv-aut-2019-009249-5/",
+      "ano": 2019,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-z4-m40i-3-0-340cv-aut-2020-gasolina",
+      "fipeCodigo": "009249-5",
+      "displayName": "BMW Z4 M40i 3.0 340cv Aut.",
+      "valorAtual": 375509,
+      "canonicalPath": "/fipe/bmw/z4-m40i-3-0-340cv-aut-2020-009249-5/",
+      "ano": 2020,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-z4-m40i-3-0-340cv-aut-2021-gasolina",
+      "fipeCodigo": "009249-5",
+      "displayName": "BMW Z4 M40i 3.0 340cv Aut.",
+      "valorAtual": 384897,
+      "canonicalPath": "/fipe/bmw/z4-m40i-3-0-340cv-aut-2021-009249-5/",
+      "ano": 2021,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-z4-m40i-3-0-340cv-aut-2022-gasolina",
+      "fipeCodigo": "009249-5",
+      "displayName": "BMW Z4 M40i 3.0 340cv Aut.",
+      "valorAtual": 406303,
+      "canonicalPath": "/fipe/bmw/z4-m40i-3-0-340cv-aut-2022-009249-5/",
+      "ano": 2022,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-z4-roadster-sdrive-30i-msport-2-0-tb-aut-2019-gasolina",
+      "fipeCodigo": "009245-2",
+      "displayName": "BMW Z4 Roadster sDRIVE 30i MSport 2.0 TB Aut",
+      "valorAtual": 360859,
+      "canonicalPath": "/fipe/bmw/z4-roadster-sdrive-30i-msport-2-0-tb-aut-2019-009245-2/",
+      "ano": 2019,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-z4-roadster-sdrive-30i-msport-2-0-tb-aut-2020-gasolina",
+      "fipeCodigo": "009245-2",
+      "displayName": "BMW Z4 Roadster sDRIVE 30i MSport 2.0 TB Aut",
+      "valorAtual": 369881,
+      "canonicalPath": "/fipe/bmw/z4-roadster-sdrive-30i-msport-2-0-tb-aut-2020-009245-2/",
+      "ano": 2020,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-z4-roadster-sdrive-30i-msport-2-0-tb-aut-2021-gasolina",
+      "fipeCodigo": "009245-2",
+      "displayName": "BMW Z4 Roadster sDRIVE 30i MSport 2.0 TB Aut",
+      "valorAtual": 379129,
+      "canonicalPath": "/fipe/bmw/z4-roadster-sdrive-30i-msport-2-0-tb-aut-2021-009245-2/",
+      "ano": 2021,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-z4-roadster-sdrive-30i-msport-2-0-tb-aut-2022-gasolina",
+      "fipeCodigo": "009245-2",
+      "displayName": "BMW Z4 Roadster sDRIVE 30i MSport 2.0 TB Aut",
+      "valorAtual": 399250,
+      "canonicalPath": "/fipe/bmw/z4-roadster-sdrive-30i-msport-2-0-tb-aut-2022-009245-2/",
+      "ano": 2022,
+      "marca": "BMW"
+    }
+  ],
+  "stats": {
+    "total": 8
+  },
+  "meta": {
+    "geracaoId": "z4-2"
+  }
+}

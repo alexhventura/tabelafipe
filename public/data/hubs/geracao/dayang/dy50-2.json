@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "dy50-2",
+  "canonicalPath": "/geracao/dayang/dy50-2/",
+  "titulo": "Geracao dy50-2",
+  "descricao": "2 veiculos da geracao dy50-2.",
+  "seo": {
+    "title": "Geracao dy50-2 - Precos FIPE",
+    "description": "Veiculos da geracao dy50-2 na Tabela FIPE.",
+    "h1": "Geracao dy50-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/dayang/dy50-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "dayang-dy50-job-2015-gasolina",
+      "fipeCodigo": "857011-6",
+      "displayName": "DAYANG DY50 JOB",
+      "valorAtual": 2660,
+      "canonicalPath": "/fipe/dayang/dy50-job-2015-857011-6/",
+      "ano": 2015,
+      "marca": "DAYANG"
+    },
+    {
+      "vehicleId": "dayang-dy50-warrior-2015-gasolina",
+      "fipeCodigo": "857012-4",
+      "displayName": "DAYANG DY50 WARRIOR",
+      "valorAtual": 2446,
+      "canonicalPath": "/fipe/dayang/dy50-warrior-2015-857012-4/",
+      "ano": 2015,
+      "marca": "DAYANG"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "dy50-2"
+  }
+}

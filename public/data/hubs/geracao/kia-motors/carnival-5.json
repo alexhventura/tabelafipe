@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "carnival-5",
+  "canonicalPath": "/geracao/kia-motors/carnival-5/",
+  "titulo": "Geracao carnival-5",
+  "descricao": "2 veiculos da geracao carnival-5.",
+  "seo": {
+    "title": "Geracao carnival-5 - Precos FIPE",
+    "description": "Veiculos da geracao carnival-5 na Tabela FIPE.",
+    "h1": "Geracao carnival-5",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/kia-motors/carnival-5/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "kia-motors-carnival-ex-3-5-v6-24v-276-272cv-aut-2024-gasolina",
+      "fipeCodigo": "018081-5",
+      "displayName": "Kia Motors Carnival EX 3.5 V6 24V 276/272cv Aut.",
+      "valorAtual": 577117,
+      "canonicalPath": "/fipe/kia-motors/carnival-ex-3-5-v6-24v-276-272cv-aut-2024-018081-5/",
+      "ano": 2024,
+      "marca": "Kia Motors"
+    },
+    {
+      "vehicleId": "kia-motors-carnival-ex-3-5-v6-24v-276-272cv-aut-2025-gasolina",
+      "fipeCodigo": "018081-5",
+      "displayName": "Kia Motors Carnival EX 3.5 V6 24V 276/272cv Aut.",
+      "valorAtual": 594208,
+      "canonicalPath": "/fipe/kia-motors/carnival-ex-3-5-v6-24v-276-272cv-aut-2025-018081-5/",
+      "ano": 2025,
+      "marca": "Kia Motors"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "carnival-5"
+  }
+}

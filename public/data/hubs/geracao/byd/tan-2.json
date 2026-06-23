@@ -1,0 +1,57 @@
+{
+  "tipo": "geracao",
+  "slug": "tan-2",
+  "canonicalPath": "/geracao/byd/tan-2/",
+  "titulo": "Geracao tan-2",
+  "descricao": "4 veiculos da geracao tan-2.",
+  "seo": {
+    "title": "Geracao tan-2 - Precos FIPE",
+    "description": "Veiculos da geracao tan-2 na Tabela FIPE.",
+    "h1": "Geracao tan-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/byd/tan-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "byd-tan-ev-4x4-eletrico-2022-eletrico",
+      "fipeCodigo": "095001-7",
+      "displayName": "BYD TAN EV 4x4 (Elétrico)",
+      "valorAtual": 243537,
+      "canonicalPath": "/fipe/byd/tan-ev-4x4-eletrico-2022-095001-7/",
+      "ano": 2022,
+      "marca": "BYD"
+    },
+    {
+      "vehicleId": "byd-tan-ev-4x4-eletrico-2023-eletrico",
+      "fipeCodigo": "095001-7",
+      "displayName": "BYD TAN EV 4x4 (Elétrico)",
+      "valorAtual": 264730,
+      "canonicalPath": "/fipe/byd/tan-ev-4x4-eletrico-2023-095001-7/",
+      "ano": 2023,
+      "marca": "BYD"
+    },
+    {
+      "vehicleId": "byd-tan-ev-4x4-eletrico-2024-eletrico",
+      "fipeCodigo": "095001-7",
+      "displayName": "BYD TAN EV 4x4 (Elétrico)",
+      "valorAtual": 300553,
+      "canonicalPath": "/fipe/byd/tan-ev-4x4-eletrico-2024-095001-7/",
+      "ano": 2024,
+      "marca": "BYD"
+    },
+    {
+      "vehicleId": "byd-tan-ev-4x4-eletrico-2025-eletrico",
+      "fipeCodigo": "095001-7",
+      "displayName": "BYD TAN EV 4x4 (Elétrico)",
+      "valorAtual": 352607,
+      "canonicalPath": "/fipe/byd/tan-ev-4x4-eletrico-2025-095001-7/",
+      "ano": 2025,
+      "marca": "BYD"
+    }
+  ],
+  "stats": {
+    "total": 4
+  },
+  "meta": {
+    "geracaoId": "tan-2"
+  }
+}

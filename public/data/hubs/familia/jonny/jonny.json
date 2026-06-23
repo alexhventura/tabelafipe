@@ -1,0 +1,82 @@
+{
+  "tipo": "familia",
+  "slug": "jonny",
+  "canonicalPath": "/fipe/jonny/jonny/",
+  "titulo": "JONNY jonny - Tabela FIPE",
+  "descricao": "6 versoes e anos do JONNY jonny na Tabela FIPE.",
+  "seo": {
+    "title": "JONNY jonny - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes JONNY jonny. 6 veiculos indexados.",
+    "h1": "JONNY jonny - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/jonny/jonny/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "jonny-jonny-50-49cc-2013-gasolina",
+      "fipeCodigo": "865003-9",
+      "displayName": "JONNY JONNY 50 49cc",
+      "valorAtual": 2527,
+      "canonicalPath": "/fipe/jonny/jonny-50-49cc-2013-865003-9/",
+      "ano": 2013,
+      "marca": "JONNY"
+    },
+    {
+      "vehicleId": "jonny-jonny-50-49cc-2012-gasolina",
+      "fipeCodigo": "865003-9",
+      "displayName": "JONNY JONNY 50 49cc",
+      "valorAtual": 2225,
+      "canonicalPath": "/fipe/jonny/jonny-50-49cc-2012-865003-9/",
+      "ano": 2012,
+      "marca": "JONNY"
+    },
+    {
+      "vehicleId": "jonny-jonny-50-49cc-2011-gasolina",
+      "fipeCodigo": "865003-9",
+      "displayName": "JONNY JONNY 50 49cc",
+      "valorAtual": 2169,
+      "canonicalPath": "/fipe/jonny/jonny-50-49cc-2011-865003-9/",
+      "ano": 2011,
+      "marca": "JONNY"
+    },
+    {
+      "vehicleId": "jonny-jonny-50-49cc-2010-gasolina",
+      "fipeCodigo": "865003-9",
+      "displayName": "JONNY JONNY 50 49cc",
+      "valorAtual": 2089,
+      "canonicalPath": "/fipe/jonny/jonny-50-49cc-2010-865003-9/",
+      "ano": 2010,
+      "marca": "JONNY"
+    },
+    {
+      "vehicleId": "jonny-jonny-50-49cc-2008-gasolina",
+      "fipeCodigo": "865003-9",
+      "displayName": "JONNY JONNY 50 49cc",
+      "valorAtual": 1938,
+      "canonicalPath": "/fipe/jonny/jonny-50-49cc-2008-865003-9/",
+      "ano": 2008,
+      "marca": "JONNY"
+    },
+    {
+      "vehicleId": "jonny-jonny-50-49cc-2006-gasolina",
+      "fipeCodigo": "865003-9",
+      "displayName": "JONNY JONNY 50 49cc",
+      "valorAtual": 1283,
+      "canonicalPath": "/fipe/jonny/jonny-50-49cc-2006-865003-9/",
+      "ano": 2006,
+      "marca": "JONNY"
+    }
+  ],
+  "stats": {
+    "total": 6,
+    "precoMin": 1283,
+    "precoMax": 2527,
+    "anos": [
+      2013,
+      2012,
+      2011,
+      2010,
+      2008,
+      2006
+    ]
+  }
+}

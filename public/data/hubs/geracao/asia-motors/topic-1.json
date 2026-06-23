@@ -1,0 +1,498 @@
+{
+  "tipo": "geracao",
+  "slug": "topic-1",
+  "canonicalPath": "/geracao/asia-motors/topic-1/",
+  "titulo": "Geracao topic-1",
+  "descricao": "53 veiculos da geracao topic-1.",
+  "seo": {
+    "title": "Geracao topic-1 - Precos FIPE",
+    "description": "Veiculos da geracao topic-1 na Tabela FIPE.",
+    "h1": "Geracao topic-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/asia-motors/topic-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "asia-motors-topic-carga-2-7-diesel-furgao-1997-diesel",
+      "fipeCodigo": "007016-5",
+      "displayName": "Asia Motors Topic Carga 2.7 Diesel (furgão)",
+      "valorAtual": 13244,
+      "canonicalPath": "/fipe/asia-motors/topic-carga-2-7-diesel-furgao-1997-007016-5/",
+      "ano": 1997,
+      "marca": "Asia Motors"
+    },
+    {
+      "vehicleId": "asia-motors-topic-carga-2-7-diesel-furgao-1998-diesel",
+      "fipeCodigo": "007016-5",
+      "displayName": "Asia Motors Topic Carga 2.7 Diesel (furgão)",
+      "valorAtual": 13621,
+      "canonicalPath": "/fipe/asia-motors/topic-carga-2-7-diesel-furgao-1998-007016-5/",
+      "ano": 1998,
+      "marca": "Asia Motors"
+    },
+    {
+      "vehicleId": "asia-motors-topic-carga-2-7-diesel-furgao-1999-diesel",
+      "fipeCodigo": "007016-5",
+      "displayName": "Asia Motors Topic Carga 2.7 Diesel (furgão)",
+      "valorAtual": 16005,
+      "canonicalPath": "/fipe/asia-motors/topic-carga-2-7-diesel-furgao-1999-007016-5/",
+      "ano": 1999,
+      "marca": "Asia Motors"
+    },
+    {
+      "vehicleId": "asia-motors-topic-luxo-diesel-1997-diesel",
+      "fipeCodigo": "007014-9",
+      "displayName": "Asia Motors Topic Luxo Diesel",
+      "valorAtual": 13182,
+      "canonicalPath": "/fipe/asia-motors/topic-luxo-diesel-1997-007014-9/",
+      "ano": 1997,
+      "marca": "Asia Motors"
+    },
+    {
+      "vehicleId": "asia-motors-topic-luxo-diesel-1998-diesel",
+      "fipeCodigo": "007014-9",
+      "displayName": "Asia Motors Topic Luxo Diesel",
+      "valorAtual": 14617,
+      "canonicalPath": "/fipe/asia-motors/topic-luxo-diesel-1998-007014-9/",
+      "ano": 1998,
+      "marca": "Asia Motors"
+    },
+    {
+      "vehicleId": "asia-motors-topic-luxo-diesel-1999-diesel",
+      "fipeCodigo": "007014-9",
+      "displayName": "Asia Motors Topic Luxo Diesel",
+      "valorAtual": 16550,
+      "canonicalPath": "/fipe/asia-motors/topic-luxo-diesel-1999-007014-9/",
+      "ano": 1999,
+      "marca": "Asia Motors"
+    },
+    {
+      "vehicleId": "asia-motors-topic-super-luxo-diesel-1996-diesel",
+      "fipeCodigo": "007015-7",
+      "displayName": "Asia Motors Topic Super Luxo Diesel",
+      "valorAtual": 11699,
+      "canonicalPath": "/fipe/asia-motors/topic-super-luxo-diesel-1996-007015-7/",
+      "ano": 1996,
+      "marca": "Asia Motors"
+    },
+    {
+      "vehicleId": "asia-motors-topic-super-luxo-diesel-1997-diesel",
+      "fipeCodigo": "007015-7",
+      "displayName": "Asia Motors Topic Super Luxo Diesel",
+      "valorAtual": 14320,
+      "canonicalPath": "/fipe/asia-motors/topic-super-luxo-diesel-1997-007015-7/",
+      "ano": 1997,
+      "marca": "Asia Motors"
+    },
+    {
+      "vehicleId": "asia-motors-topic-super-luxo-diesel-1998-diesel",
+      "fipeCodigo": "007015-7",
+      "displayName": "Asia Motors Topic Super Luxo Diesel",
+      "valorAtual": 15229,
+      "canonicalPath": "/fipe/asia-motors/topic-super-luxo-diesel-1998-007015-7/",
+      "ano": 1998,
+      "marca": "Asia Motors"
+    },
+    {
+      "vehicleId": "asia-motors-topic-super-luxo-diesel-1999-diesel",
+      "fipeCodigo": "007015-7",
+      "displayName": "Asia Motors Topic Super Luxo Diesel",
+      "valorAtual": 19217,
+      "canonicalPath": "/fipe/asia-motors/topic-super-luxo-diesel-1999-007015-7/",
+      "ano": 1999,
+      "marca": "Asia Motors"
+    },
+    {
+      "vehicleId": "jinbei-topic-escolar-l-2-2-8v-2-0-16v-4p-2009-gasolina",
+      "fipeCodigo": "070004-5",
+      "displayName": "JINBEI TOPIC ESCOLAR L 2.2 8V/ 2.0 16V 4p",
+      "valorAtual": 21582,
+      "canonicalPath": "/fipe/jinbei/topic-escolar-l-2-2-8v-2-0-16v-4p-2009-070004-5/",
+      "ano": 2009,
+      "marca": "JINBEI"
+    },
+    {
+      "vehicleId": "jinbei-topic-escolar-l-2-2-8v-2-0-16v-4p-2010-gasolina",
+      "fipeCodigo": "070004-5",
+      "displayName": "JINBEI TOPIC ESCOLAR L 2.2 8V/ 2.0 16V 4p",
+      "valorAtual": 22122,
+      "canonicalPath": "/fipe/jinbei/topic-escolar-l-2-2-8v-2-0-16v-4p-2010-070004-5/",
+      "ano": 2010,
+      "marca": "JINBEI"
+    },
+    {
+      "vehicleId": "jinbei-topic-escolar-l-2-2-8v-2-0-16v-4p-2011-gasolina",
+      "fipeCodigo": "070004-5",
+      "displayName": "JINBEI TOPIC ESCOLAR L 2.2 8V/ 2.0 16V 4p",
+      "valorAtual": 27216,
+      "canonicalPath": "/fipe/jinbei/topic-escolar-l-2-2-8v-2-0-16v-4p-2011-070004-5/",
+      "ano": 2011,
+      "marca": "JINBEI"
+    },
+    {
+      "vehicleId": "jinbei-topic-escolar-l-2-2-8v-2-0-16v-4p-2012-gasolina",
+      "fipeCodigo": "070004-5",
+      "displayName": "JINBEI TOPIC ESCOLAR L 2.2 8V/ 2.0 16V 4p",
+      "valorAtual": 27897,
+      "canonicalPath": "/fipe/jinbei/topic-escolar-l-2-2-8v-2-0-16v-4p-2012-070004-5/",
+      "ano": 2012,
+      "marca": "JINBEI"
+    },
+    {
+      "vehicleId": "jinbei-topic-escolar-l-2-2-8v-2-0-16v-4p-2013-gasolina",
+      "fipeCodigo": "070004-5",
+      "displayName": "JINBEI TOPIC ESCOLAR L 2.2 8V/ 2.0 16V 4p",
+      "valorAtual": 33983,
+      "canonicalPath": "/fipe/jinbei/topic-escolar-l-2-2-8v-2-0-16v-4p-2013-070004-5/",
+      "ano": 2013,
+      "marca": "JINBEI"
+    },
+    {
+      "vehicleId": "jinbei-topic-escolar-l-2-2-8v-2-0-16v-4p-2014-gasolina",
+      "fipeCodigo": "070004-5",
+      "displayName": "JINBEI TOPIC ESCOLAR L 2.2 8V/ 2.0 16V 4p",
+      "valorAtual": 34833,
+      "canonicalPath": "/fipe/jinbei/topic-escolar-l-2-2-8v-2-0-16v-4p-2014-070004-5/",
+      "ano": 2014,
+      "marca": "JINBEI"
+    },
+    {
+      "vehicleId": "jinbei-topic-escolar-l-2-2-8v-2-0-16v-4p-2015-gasolina",
+      "fipeCodigo": "070004-5",
+      "displayName": "JINBEI TOPIC ESCOLAR L 2.2 8V/ 2.0 16V 4p",
+      "valorAtual": 44817,
+      "canonicalPath": "/fipe/jinbei/topic-escolar-l-2-2-8v-2-0-16v-4p-2015-070004-5/",
+      "ano": 2015,
+      "marca": "JINBEI"
+    },
+    {
+      "vehicleId": "jinbei-topic-escolar-sl-2-2-8v-2-0-16v-4p-2009-gasolina",
+      "fipeCodigo": "070005-3",
+      "displayName": "JINBEI TOPIC ESCOLAR SL 2.2 8V/ 2.0 16V 4p",
+      "valorAtual": 24297,
+      "canonicalPath": "/fipe/jinbei/topic-escolar-sl-2-2-8v-2-0-16v-4p-2009-070005-3/",
+      "ano": 2009,
+      "marca": "JINBEI"
+    },
+    {
+      "vehicleId": "jinbei-topic-escolar-sl-2-2-8v-2-0-16v-4p-2010-gasolina",
+      "fipeCodigo": "070005-3",
+      "displayName": "JINBEI TOPIC ESCOLAR SL 2.2 8V/ 2.0 16V 4p",
+      "valorAtual": 26465,
+      "canonicalPath": "/fipe/jinbei/topic-escolar-sl-2-2-8v-2-0-16v-4p-2010-070005-3/",
+      "ano": 2010,
+      "marca": "JINBEI"
+    },
+    {
+      "vehicleId": "jinbei-topic-escolar-sl-2-2-8v-2-0-16v-4p-2011-gasolina",
+      "fipeCodigo": "070005-3",
+      "displayName": "JINBEI TOPIC ESCOLAR SL 2.2 8V/ 2.0 16V 4p",
+      "valorAtual": 31882,
+      "canonicalPath": "/fipe/jinbei/topic-escolar-sl-2-2-8v-2-0-16v-4p-2011-070005-3/",
+      "ano": 2011,
+      "marca": "JINBEI"
+    },
+    {
+      "vehicleId": "jinbei-topic-escolar-sl-2-2-8v-2-0-16v-4p-2012-gasolina",
+      "fipeCodigo": "070005-3",
+      "displayName": "JINBEI TOPIC ESCOLAR SL 2.2 8V/ 2.0 16V 4p",
+      "valorAtual": 32680,
+      "canonicalPath": "/fipe/jinbei/topic-escolar-sl-2-2-8v-2-0-16v-4p-2012-070005-3/",
+      "ano": 2012,
+      "marca": "JINBEI"
+    },
+    {
+      "vehicleId": "jinbei-topic-escolar-sl-2-2-8v-2-0-16v-4p-2013-gasolina",
+      "fipeCodigo": "070005-3",
+      "displayName": "JINBEI TOPIC ESCOLAR SL 2.2 8V/ 2.0 16V 4p",
+      "valorAtual": 38127,
+      "canonicalPath": "/fipe/jinbei/topic-escolar-sl-2-2-8v-2-0-16v-4p-2013-070005-3/",
+      "ano": 2013,
+      "marca": "JINBEI"
+    },
+    {
+      "vehicleId": "jinbei-topic-escolar-sl-2-2-8v-2-0-16v-4p-2014-gasolina",
+      "fipeCodigo": "070005-3",
+      "displayName": "JINBEI TOPIC ESCOLAR SL 2.2 8V/ 2.0 16V 4p",
+      "valorAtual": 41231,
+      "canonicalPath": "/fipe/jinbei/topic-escolar-sl-2-2-8v-2-0-16v-4p-2014-070005-3/",
+      "ano": 2014,
+      "marca": "JINBEI"
+    },
+    {
+      "vehicleId": "jinbei-topic-escolar-sl-2-2-8v-2-0-16v-4p-2015-gasolina",
+      "fipeCodigo": "070005-3",
+      "displayName": "JINBEI TOPIC ESCOLAR SL 2.2 8V/ 2.0 16V 4p",
+      "valorAtual": 45333,
+      "canonicalPath": "/fipe/jinbei/topic-escolar-sl-2-2-8v-2-0-16v-4p-2015-070005-3/",
+      "ano": 2015,
+      "marca": "JINBEI"
+    },
+    {
+      "vehicleId": "jinbei-topic-furgao-l-2-2-8v-2-0-16v-4p-2009-gasolina",
+      "fipeCodigo": "070001-0",
+      "displayName": "JINBEI TOPIC FURGAO L 2.2 8V/ 2.0 16V 4p",
+      "valorAtual": 21506,
+      "canonicalPath": "/fipe/jinbei/topic-furgao-l-2-2-8v-2-0-16v-4p-2009-070001-0/",
+      "ano": 2009,
+      "marca": "JINBEI"
+    },
+    {
+      "vehicleId": "jinbei-topic-furgao-l-2-2-8v-2-0-16v-4p-2010-gasolina",
+      "fipeCodigo": "070001-0",
+      "displayName": "JINBEI TOPIC FURGAO L 2.2 8V/ 2.0 16V 4p",
+      "valorAtual": 22114,
+      "canonicalPath": "/fipe/jinbei/topic-furgao-l-2-2-8v-2-0-16v-4p-2010-070001-0/",
+      "ano": 2010,
+      "marca": "JINBEI"
+    },
+    {
+      "vehicleId": "jinbei-topic-furgao-l-2-2-8v-2-0-16v-4p-2011-gasolina",
+      "fipeCodigo": "070001-0",
+      "displayName": "JINBEI TOPIC FURGAO L 2.2 8V/ 2.0 16V 4p",
+      "valorAtual": 23269,
+      "canonicalPath": "/fipe/jinbei/topic-furgao-l-2-2-8v-2-0-16v-4p-2011-070001-0/",
+      "ano": 2011,
+      "marca": "JINBEI"
+    },
+    {
+      "vehicleId": "jinbei-topic-furgao-l-2-2-8v-2-0-16v-4p-2012-gasolina",
+      "fipeCodigo": "070001-0",
+      "displayName": "JINBEI TOPIC FURGAO L 2.2 8V/ 2.0 16V 4p",
+      "valorAtual": 30093,
+      "canonicalPath": "/fipe/jinbei/topic-furgao-l-2-2-8v-2-0-16v-4p-2012-070001-0/",
+      "ano": 2012,
+      "marca": "JINBEI"
+    },
+    {
+      "vehicleId": "jinbei-topic-van-l-2-2-8v-2-0-16v-4p-2009-gasolina",
+      "fipeCodigo": "070002-9",
+      "displayName": "JINBEI TOPIC VAN L 2.2 8V/ 2.0 16V 4p",
+      "valorAtual": 22266,
+      "canonicalPath": "/fipe/jinbei/topic-van-l-2-2-8v-2-0-16v-4p-2009-070002-9/",
+      "ano": 2009,
+      "marca": "JINBEI"
+    },
+    {
+      "vehicleId": "jinbei-topic-van-l-2-2-8v-2-0-16v-4p-2010-gasolina",
+      "fipeCodigo": "070002-9",
+      "displayName": "JINBEI TOPIC VAN L 2.2 8V/ 2.0 16V 4p",
+      "valorAtual": 23618,
+      "canonicalPath": "/fipe/jinbei/topic-van-l-2-2-8v-2-0-16v-4p-2010-070002-9/",
+      "ano": 2010,
+      "marca": "JINBEI"
+    },
+    {
+      "vehicleId": "jinbei-topic-van-l-2-2-8v-2-0-16v-4p-2011-gasolina",
+      "fipeCodigo": "070002-9",
+      "displayName": "JINBEI TOPIC VAN L 2.2 8V/ 2.0 16V 4p",
+      "valorAtual": 29235,
+      "canonicalPath": "/fipe/jinbei/topic-van-l-2-2-8v-2-0-16v-4p-2011-070002-9/",
+      "ano": 2011,
+      "marca": "JINBEI"
+    },
+    {
+      "vehicleId": "jinbei-topic-van-l-2-2-8v-2-0-16v-4p-2012-gasolina",
+      "fipeCodigo": "070002-9",
+      "displayName": "JINBEI TOPIC VAN L 2.2 8V/ 2.0 16V 4p",
+      "valorAtual": 31306,
+      "canonicalPath": "/fipe/jinbei/topic-van-l-2-2-8v-2-0-16v-4p-2012-070002-9/",
+      "ano": 2012,
+      "marca": "JINBEI"
+    },
+    {
+      "vehicleId": "jinbei-topic-van-l-2-2-8v-2-0-16v-4p-2013-gasolina",
+      "fipeCodigo": "070002-9",
+      "displayName": "JINBEI TOPIC VAN L 2.2 8V/ 2.0 16V 4p",
+      "valorAtual": 33885,
+      "canonicalPath": "/fipe/jinbei/topic-van-l-2-2-8v-2-0-16v-4p-2013-070002-9/",
+      "ano": 2013,
+      "marca": "JINBEI"
+    },
+    {
+      "vehicleId": "jinbei-topic-van-l-2-2-8v-2-0-16v-4p-2014-gasolina",
+      "fipeCodigo": "070002-9",
+      "displayName": "JINBEI TOPIC VAN L 2.2 8V/ 2.0 16V 4p",
+      "valorAtual": 37658,
+      "canonicalPath": "/fipe/jinbei/topic-van-l-2-2-8v-2-0-16v-4p-2014-070002-9/",
+      "ano": 2014,
+      "marca": "JINBEI"
+    },
+    {
+      "vehicleId": "jinbei-topic-van-l-2-2-8v-2-0-16v-4p-2015-gasolina",
+      "fipeCodigo": "070002-9",
+      "displayName": "JINBEI TOPIC VAN L 2.2 8V/ 2.0 16V 4p",
+      "valorAtual": 40254,
+      "canonicalPath": "/fipe/jinbei/topic-van-l-2-2-8v-2-0-16v-4p-2015-070002-9/",
+      "ano": 2015,
+      "marca": "JINBEI"
+    },
+    {
+      "vehicleId": "jinbei-topic-van-lon-gran-topic-sl-2011-gasolina",
+      "fipeCodigo": "070007-0",
+      "displayName": "JINBEI TOPIC VAN Lon./GRAN TOPIC SL",
+      "valorAtual": 29231,
+      "canonicalPath": "/fipe/jinbei/topic-van-lon-gran-topic-sl-2011-070007-0/",
+      "ano": 2011,
+      "marca": "JINBEI"
+    },
+    {
+      "vehicleId": "jinbei-topic-van-lon-gran-topic-sl-2012-gasolina",
+      "fipeCodigo": "070007-0",
+      "displayName": "JINBEI TOPIC VAN Lon./GRAN TOPIC SL",
+      "valorAtual": 29962,
+      "canonicalPath": "/fipe/jinbei/topic-van-lon-gran-topic-sl-2012-070007-0/",
+      "ano": 2012,
+      "marca": "JINBEI"
+    },
+    {
+      "vehicleId": "jinbei-topic-van-lon-gran-topic-sl-2013-gasolina",
+      "fipeCodigo": "070007-0",
+      "displayName": "JINBEI TOPIC VAN Lon./GRAN TOPIC SL",
+      "valorAtual": 36316,
+      "canonicalPath": "/fipe/jinbei/topic-van-lon-gran-topic-sl-2013-070007-0/",
+      "ano": 2013,
+      "marca": "JINBEI"
+    },
+    {
+      "vehicleId": "jinbei-topic-van-lon-gran-topic-sl-2014-gasolina",
+      "fipeCodigo": "070007-0",
+      "displayName": "JINBEI TOPIC VAN Lon./GRAN TOPIC SL",
+      "valorAtual": 37224,
+      "canonicalPath": "/fipe/jinbei/topic-van-lon-gran-topic-sl-2014-070007-0/",
+      "ano": 2014,
+      "marca": "JINBEI"
+    },
+    {
+      "vehicleId": "jinbei-topic-van-lon-gran-topic-sl-2015-gasolina",
+      "fipeCodigo": "070007-0",
+      "displayName": "JINBEI TOPIC VAN Lon./GRAN TOPIC SL",
+      "valorAtual": 39742,
+      "canonicalPath": "/fipe/jinbei/topic-van-lon-gran-topic-sl-2015-070007-0/",
+      "ano": 2015,
+      "marca": "JINBEI"
+    },
+    {
+      "vehicleId": "jinbei-topic-van-sl-2-2-8v-2-0-16v-4p-2008-gasolina",
+      "fipeCodigo": "070003-7",
+      "displayName": "JINBEI TOPIC VAN SL 2.2 8V/ 2.0 16V 4p",
+      "valorAtual": 23025,
+      "canonicalPath": "/fipe/jinbei/topic-van-sl-2-2-8v-2-0-16v-4p-2008-070003-7/",
+      "ano": 2008,
+      "marca": "JINBEI"
+    },
+    {
+      "vehicleId": "jinbei-topic-van-sl-2-2-8v-2-0-16v-4p-2009-gasolina",
+      "fipeCodigo": "070003-7",
+      "displayName": "JINBEI TOPIC VAN SL 2.2 8V/ 2.0 16V 4p",
+      "valorAtual": 26539,
+      "canonicalPath": "/fipe/jinbei/topic-van-sl-2-2-8v-2-0-16v-4p-2009-070003-7/",
+      "ano": 2009,
+      "marca": "JINBEI"
+    },
+    {
+      "vehicleId": "jinbei-topic-van-sl-2-2-8v-2-0-16v-4p-2010-gasolina",
+      "fipeCodigo": "070003-7",
+      "displayName": "JINBEI TOPIC VAN SL 2.2 8V/ 2.0 16V 4p",
+      "valorAtual": 27203,
+      "canonicalPath": "/fipe/jinbei/topic-van-sl-2-2-8v-2-0-16v-4p-2010-070003-7/",
+      "ano": 2010,
+      "marca": "JINBEI"
+    },
+    {
+      "vehicleId": "jinbei-topic-van-sl-2-2-8v-2-0-16v-4p-2011-gasolina",
+      "fipeCodigo": "070003-7",
+      "displayName": "JINBEI TOPIC VAN SL 2.2 8V/ 2.0 16V 4p",
+      "valorAtual": 30177,
+      "canonicalPath": "/fipe/jinbei/topic-van-sl-2-2-8v-2-0-16v-4p-2011-070003-7/",
+      "ano": 2011,
+      "marca": "JINBEI"
+    },
+    {
+      "vehicleId": "jinbei-topic-van-sl-2-2-8v-2-0-16v-4p-2012-gasolina",
+      "fipeCodigo": "070003-7",
+      "displayName": "JINBEI TOPIC VAN SL 2.2 8V/ 2.0 16V 4p",
+      "valorAtual": 32684,
+      "canonicalPath": "/fipe/jinbei/topic-van-sl-2-2-8v-2-0-16v-4p-2012-070003-7/",
+      "ano": 2012,
+      "marca": "JINBEI"
+    },
+    {
+      "vehicleId": "jinbei-topic-van-sl-2-2-8v-2-0-16v-4p-2013-gasolina",
+      "fipeCodigo": "070003-7",
+      "displayName": "JINBEI TOPIC VAN SL 2.2 8V/ 2.0 16V 4p",
+      "valorAtual": 34431,
+      "canonicalPath": "/fipe/jinbei/topic-van-sl-2-2-8v-2-0-16v-4p-2013-070003-7/",
+      "ano": 2013,
+      "marca": "JINBEI"
+    },
+    {
+      "vehicleId": "jinbei-topic-van-sl-2-2-8v-2-0-16v-4p-2014-gasolina",
+      "fipeCodigo": "070003-7",
+      "displayName": "JINBEI TOPIC VAN SL 2.2 8V/ 2.0 16V 4p",
+      "valorAtual": 37913,
+      "canonicalPath": "/fipe/jinbei/topic-van-sl-2-2-8v-2-0-16v-4p-2014-070003-7/",
+      "ano": 2014,
+      "marca": "JINBEI"
+    },
+    {
+      "vehicleId": "jinbei-topic-van-sl-2-2-8v-2-0-16v-4p-2015-gasolina",
+      "fipeCodigo": "070003-7",
+      "displayName": "JINBEI TOPIC VAN SL 2.2 8V/ 2.0 16V 4p",
+      "valorAtual": 44403,
+      "canonicalPath": "/fipe/jinbei/topic-van-sl-2-2-8v-2-0-16v-4p-2015-070003-7/",
+      "ano": 2015,
+      "marca": "JINBEI"
+    },
+    {
+      "vehicleId": "jinbei-topic-van-std-2-0-16v-4p-2011-gasolina",
+      "fipeCodigo": "070006-1",
+      "displayName": "JINBEI TOPIC VAN STD 2.0 16V 4p",
+      "valorAtual": 25290,
+      "canonicalPath": "/fipe/jinbei/topic-van-std-2-0-16v-4p-2011-070006-1/",
+      "ano": 2011,
+      "marca": "JINBEI"
+    },
+    {
+      "vehicleId": "jinbei-topic-van-std-2-0-16v-4p-2012-gasolina",
+      "fipeCodigo": "070006-1",
+      "displayName": "JINBEI TOPIC VAN STD 2.0 16V 4p",
+      "valorAtual": 30564,
+      "canonicalPath": "/fipe/jinbei/topic-van-std-2-0-16v-4p-2012-070006-1/",
+      "ano": 2012,
+      "marca": "JINBEI"
+    },
+    {
+      "vehicleId": "jinbei-topic-van-std-2-0-16v-4p-2013-gasolina",
+      "fipeCodigo": "070006-1",
+      "displayName": "JINBEI TOPIC VAN STD 2.0 16V 4p",
+      "valorAtual": 31394,
+      "canonicalPath": "/fipe/jinbei/topic-van-std-2-0-16v-4p-2013-070006-1/",
+      "ano": 2013,
+      "marca": "JINBEI"
+    },
+    {
+      "vehicleId": "jinbei-topic-van-std-2-0-16v-4p-2014-gasolina",
+      "fipeCodigo": "070006-1",
+      "displayName": "JINBEI TOPIC VAN STD 2.0 16V 4p",
+      "valorAtual": 37018,
+      "canonicalPath": "/fipe/jinbei/topic-van-std-2-0-16v-4p-2014-070006-1/",
+      "ano": 2014,
+      "marca": "JINBEI"
+    },
+    {
+      "vehicleId": "jinbei-topic-van-std-2-0-16v-4p-2015-gasolina",
+      "fipeCodigo": "070006-1",
+      "displayName": "JINBEI TOPIC VAN STD 2.0 16V 4p",
+      "valorAtual": 38422,
+      "canonicalPath": "/fipe/jinbei/topic-van-std-2-0-16v-4p-2015-070006-1/",
+      "ano": 2015,
+      "marca": "JINBEI"
+    }
+  ],
+  "stats": {
+    "total": 53
+  },
+  "meta": {
+    "geracaoId": "topic-1"
+  }
+}

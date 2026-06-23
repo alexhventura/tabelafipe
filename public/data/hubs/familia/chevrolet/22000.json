@@ -1,0 +1,82 @@
+{
+  "tipo": "familia",
+  "slug": "22000",
+  "canonicalPath": "/fipe/chevrolet/22000/",
+  "titulo": "CHEVROLET 22000 - Tabela FIPE",
+  "descricao": "6 versoes e anos do CHEVROLET 22000 na Tabela FIPE.",
+  "seo": {
+    "title": "CHEVROLET 22000 - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes CHEVROLET 22000. 6 veiculos indexados.",
+    "h1": "CHEVROLET 22000 - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/chevrolet/22000/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "chevrolet-22000-2p-diesel-1990-diesel",
+      "fipeCodigo": "502012-3",
+      "displayName": "CHEVROLET 22000 2p (diesel)",
+      "valorAtual": 30508,
+      "canonicalPath": "/fipe/chevrolet/22000-2p-diesel-1990-502012-3/",
+      "ano": 1990,
+      "marca": "CHEVROLET"
+    },
+    {
+      "vehicleId": "chevrolet-22000-2p-diesel-1989-diesel",
+      "fipeCodigo": "502012-3",
+      "displayName": "CHEVROLET 22000 2p (diesel)",
+      "valorAtual": 28315,
+      "canonicalPath": "/fipe/chevrolet/22000-2p-diesel-1989-502012-3/",
+      "ano": 1989,
+      "marca": "CHEVROLET"
+    },
+    {
+      "vehicleId": "chevrolet-22000-2p-diesel-1988-diesel",
+      "fipeCodigo": "502012-3",
+      "displayName": "CHEVROLET 22000 2p (diesel)",
+      "valorAtual": 26726,
+      "canonicalPath": "/fipe/chevrolet/22000-2p-diesel-1988-502012-3/",
+      "ano": 1988,
+      "marca": "CHEVROLET"
+    },
+    {
+      "vehicleId": "chevrolet-22000-2p-diesel-1987-diesel",
+      "fipeCodigo": "502012-3",
+      "displayName": "CHEVROLET 22000 2p (diesel)",
+      "valorAtual": 24180,
+      "canonicalPath": "/fipe/chevrolet/22000-2p-diesel-1987-502012-3/",
+      "ano": 1987,
+      "marca": "CHEVROLET"
+    },
+    {
+      "vehicleId": "chevrolet-22000-2p-diesel-1986-diesel",
+      "fipeCodigo": "502012-3",
+      "displayName": "CHEVROLET 22000 2p (diesel)",
+      "valorAtual": 22820,
+      "canonicalPath": "/fipe/chevrolet/22000-2p-diesel-1986-502012-3/",
+      "ano": 1986,
+      "marca": "CHEVROLET"
+    },
+    {
+      "vehicleId": "chevrolet-22000-2p-diesel-1985-diesel",
+      "fipeCodigo": "502012-3",
+      "displayName": "CHEVROLET 22000 2p (diesel)",
+      "valorAtual": 21398,
+      "canonicalPath": "/fipe/chevrolet/22000-2p-diesel-1985-502012-3/",
+      "ano": 1985,
+      "marca": "CHEVROLET"
+    }
+  ],
+  "stats": {
+    "total": 6,
+    "precoMin": 21398,
+    "precoMax": 30508,
+    "anos": [
+      1990,
+      1989,
+      1988,
+      1987,
+      1986,
+      1985
+    ]
+  }
+}

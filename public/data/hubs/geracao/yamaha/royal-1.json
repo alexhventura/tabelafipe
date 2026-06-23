@@ -1,0 +1,75 @@
+{
+  "tipo": "geracao",
+  "slug": "royal-1",
+  "canonicalPath": "/geracao/yamaha/royal-1/",
+  "titulo": "Geracao royal-1",
+  "descricao": "6 veiculos da geracao royal-1.",
+  "seo": {
+    "title": "Geracao royal-1 - Precos FIPE",
+    "description": "Veiculos da geracao royal-1 na Tabela FIPE.",
+    "h1": "Geracao royal-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/yamaha/royal-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "yamaha-royal-star-1300-1996-gasolina",
+      "fipeCodigo": "827018-0",
+      "displayName": "YAMAHA ROYAL STAR 1300",
+      "valorAtual": 39876,
+      "canonicalPath": "/fipe/yamaha/royal-star-1300-1996-827018-0/",
+      "ano": 1996,
+      "marca": "YAMAHA"
+    },
+    {
+      "vehicleId": "yamaha-royal-star-1300-1997-gasolina",
+      "fipeCodigo": "827018-0",
+      "displayName": "YAMAHA ROYAL STAR 1300",
+      "valorAtual": 40879,
+      "canonicalPath": "/fipe/yamaha/royal-star-1300-1997-827018-0/",
+      "ano": 1997,
+      "marca": "YAMAHA"
+    },
+    {
+      "vehicleId": "yamaha-royal-star-1300-1998-gasolina",
+      "fipeCodigo": "827018-0",
+      "displayName": "YAMAHA ROYAL STAR 1300",
+      "valorAtual": 41961,
+      "canonicalPath": "/fipe/yamaha/royal-star-1300-1998-827018-0/",
+      "ano": 1998,
+      "marca": "YAMAHA"
+    },
+    {
+      "vehicleId": "yamaha-royal-star-1300-1999-gasolina",
+      "fipeCodigo": "827018-0",
+      "displayName": "YAMAHA ROYAL STAR 1300",
+      "valorAtual": 43274,
+      "canonicalPath": "/fipe/yamaha/royal-star-1300-1999-827018-0/",
+      "ano": 1999,
+      "marca": "YAMAHA"
+    },
+    {
+      "vehicleId": "yamaha-royal-star-1300-2000-gasolina",
+      "fipeCodigo": "827018-0",
+      "displayName": "YAMAHA ROYAL STAR 1300",
+      "valorAtual": 44515,
+      "canonicalPath": "/fipe/yamaha/royal-star-1300-2000-827018-0/",
+      "ano": 2000,
+      "marca": "YAMAHA"
+    },
+    {
+      "vehicleId": "yamaha-royal-star-1300-2001-gasolina",
+      "fipeCodigo": "827018-0",
+      "displayName": "YAMAHA ROYAL STAR 1300",
+      "valorAtual": 45827,
+      "canonicalPath": "/fipe/yamaha/royal-star-1300-2001-827018-0/",
+      "ano": 2001,
+      "marca": "YAMAHA"
+    }
+  ],
+  "stats": {
+    "total": 6
+  },
+  "meta": {
+    "geracaoId": "royal-1"
+  }
+}

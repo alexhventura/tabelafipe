@@ -1,0 +1,66 @@
+{
+  "tipo": "geracao",
+  "slug": "166-1",
+  "canonicalPath": "/geracao/alfa-romeo/166-1/",
+  "titulo": "Geracao 166-1",
+  "descricao": "5 veiculos da geracao 166-1.",
+  "seo": {
+    "title": "Geracao 166-1 - Precos FIPE",
+    "description": "Veiculos da geracao 166-1 na Tabela FIPE.",
+    "h1": "Geracao 166-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/alfa-romeo/166-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "alfa-romeo-166-3-0-v6-24v-1999-gasolina",
+      "fipeCodigo": "006011-9",
+      "displayName": "Alfa Romeo 166 3.0 V6 24V",
+      "valorAtual": 71023,
+      "canonicalPath": "/fipe/alfa-romeo/166-3-0-v6-24v-1999-006011-9/",
+      "ano": 1999,
+      "marca": "Alfa Romeo"
+    },
+    {
+      "vehicleId": "alfa-romeo-166-3-0-v6-24v-2000-gasolina",
+      "fipeCodigo": "006011-9",
+      "displayName": "Alfa Romeo 166 3.0 V6 24V",
+      "valorAtual": 82036,
+      "canonicalPath": "/fipe/alfa-romeo/166-3-0-v6-24v-2000-006011-9/",
+      "ano": 2000,
+      "marca": "Alfa Romeo"
+    },
+    {
+      "vehicleId": "alfa-romeo-166-3-0-v6-24v-2001-gasolina",
+      "fipeCodigo": "006011-9",
+      "displayName": "Alfa Romeo 166 3.0 V6 24V",
+      "valorAtual": 85697,
+      "canonicalPath": "/fipe/alfa-romeo/166-3-0-v6-24v-2001-006011-9/",
+      "ano": 2001,
+      "marca": "Alfa Romeo"
+    },
+    {
+      "vehicleId": "alfa-romeo-166-3-0-v6-24v-2002-gasolina",
+      "fipeCodigo": "006011-9",
+      "displayName": "Alfa Romeo 166 3.0 V6 24V",
+      "valorAtual": 87840,
+      "canonicalPath": "/fipe/alfa-romeo/166-3-0-v6-24v-2002-006011-9/",
+      "ano": 2002,
+      "marca": "Alfa Romeo"
+    },
+    {
+      "vehicleId": "alfa-romeo-166-3-0-v6-24v-2003-gasolina",
+      "fipeCodigo": "006011-9",
+      "displayName": "Alfa Romeo 166 3.0 V6 24V",
+      "valorAtual": 90036,
+      "canonicalPath": "/fipe/alfa-romeo/166-3-0-v6-24v-2003-006011-9/",
+      "ano": 2003,
+      "marca": "Alfa Romeo"
+    }
+  ],
+  "stats": {
+    "total": 5
+  },
+  "meta": {
+    "geracaoId": "166-1"
+  }
+}

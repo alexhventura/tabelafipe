@@ -1,0 +1,52 @@
+{
+  "tipo": "familia",
+  "slug": "vblade",
+  "canonicalPath": "/fipe/sundown/vblade/",
+  "titulo": "SUNDOWN vblade - Tabela FIPE",
+  "descricao": "3 versoes e anos do SUNDOWN vblade na Tabela FIPE.",
+  "seo": {
+    "title": "SUNDOWN vblade - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes SUNDOWN vblade. 3 veiculos indexados.",
+    "h1": "SUNDOWN vblade - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/sundown/vblade/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "sundown-vblade-250cc-2008-gasolina",
+      "fipeCodigo": "824014-0",
+      "displayName": "SUNDOWN VBLADE 250cc",
+      "valorAtual": 11806,
+      "canonicalPath": "/fipe/sundown/vblade-250cc-2008-824014-0/",
+      "ano": 2008,
+      "marca": "SUNDOWN"
+    },
+    {
+      "vehicleId": "sundown-vblade-250cc-2007-gasolina",
+      "fipeCodigo": "824014-0",
+      "displayName": "SUNDOWN VBLADE 250cc",
+      "valorAtual": 11175,
+      "canonicalPath": "/fipe/sundown/vblade-250cc-2007-824014-0/",
+      "ano": 2007,
+      "marca": "SUNDOWN"
+    },
+    {
+      "vehicleId": "sundown-vblade-250cc-2006-gasolina",
+      "fipeCodigo": "824014-0",
+      "displayName": "SUNDOWN VBLADE 250cc",
+      "valorAtual": 10902,
+      "canonicalPath": "/fipe/sundown/vblade-250cc-2006-824014-0/",
+      "ano": 2006,
+      "marca": "SUNDOWN"
+    }
+  ],
+  "stats": {
+    "total": 3,
+    "precoMin": 10902,
+    "precoMax": 11806,
+    "anos": [
+      2008,
+      2007,
+      2006
+    ]
+  }
+}

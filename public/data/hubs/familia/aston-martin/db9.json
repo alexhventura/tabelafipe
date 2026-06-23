@@ -1,0 +1,52 @@
+{
+  "tipo": "familia",
+  "slug": "db9",
+  "canonicalPath": "/fipe/aston-martin/db9/",
+  "titulo": "ASTON MARTIN db9 - Tabela FIPE",
+  "descricao": "3 versoes e anos do ASTON MARTIN db9 na Tabela FIPE.",
+  "seo": {
+    "title": "ASTON MARTIN db9 - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes ASTON MARTIN db9. 3 veiculos indexados.",
+    "h1": "ASTON MARTIN db9 - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/aston-martin/db9/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "aston-martin-db9-coupe-6-0-v12-510cv-2016-gasolina",
+      "fipeCodigo": "085011-0",
+      "displayName": "ASTON MARTIN DB9 Coupe 6.0 V12 510cv",
+      "valorAtual": 1184346,
+      "canonicalPath": "/fipe/aston-martin/db9-coupe-6-0-v12-510cv-2016-085011-0/",
+      "ano": 2016,
+      "marca": "ASTON MARTIN"
+    },
+    {
+      "vehicleId": "aston-martin-db9-coupe-6-0-v12-510cv-2014-gasolina",
+      "fipeCodigo": "085011-0",
+      "displayName": "ASTON MARTIN DB9 Coupe 6.0 V12 510cv",
+      "valorAtual": 923674,
+      "canonicalPath": "/fipe/aston-martin/db9-coupe-6-0-v12-510cv-2014-085011-0/",
+      "ano": 2014,
+      "marca": "ASTON MARTIN"
+    },
+    {
+      "vehicleId": "aston-martin-db9-volante-6-0-v12-470cv-2011-gasolina",
+      "fipeCodigo": "085006-3",
+      "displayName": "ASTON MARTIN DB9 Volante 6.0 V12 470cv",
+      "valorAtual": 612828,
+      "canonicalPath": "/fipe/aston-martin/db9-volante-6-0-v12-470cv-2011-085006-3/",
+      "ano": 2011,
+      "marca": "ASTON MARTIN"
+    }
+  ],
+  "stats": {
+    "total": 3,
+    "precoMin": 612828,
+    "precoMax": 1184346,
+    "anos": [
+      2016,
+      2014,
+      2011
+    ]
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "tipo": "familia",
+  "slug": "c10",
+  "canonicalPath": "/fipe/leapmotor/c10/",
+  "titulo": "Leapmotor c10 - Tabela FIPE",
+  "descricao": "4 versoes e anos do Leapmotor c10 na Tabela FIPE.",
+  "seo": {
+    "title": "Leapmotor c10 - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes Leapmotor c10. 4 veiculos indexados.",
+    "h1": "Leapmotor c10 - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/leapmotor/c10/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "leapmotor-c10-eletrico-2026-eletrico",
+      "fipeCodigo": "305001-7",
+      "displayName": "Leapmotor C10 (Elétrico)",
+      "valorAtual": 181803,
+      "canonicalPath": "/fipe/leapmotor/c10-eletrico-2026-305001-7/",
+      "ano": 2026,
+      "marca": "Leapmotor"
+    },
+    {
+      "vehicleId": "leapmotor-c10-hibrido-2026-hibrido",
+      "fipeCodigo": "305002-5",
+      "displayName": "Leapmotor C10 (Híbrido)",
+      "valorAtual": 200419,
+      "canonicalPath": "/fipe/leapmotor/c10-hibrido-2026-305002-5/",
+      "ano": 2026,
+      "marca": "Leapmotor"
+    },
+    {
+      "vehicleId": "leapmotor-c10-eletrico-0-eletrico",
+      "fipeCodigo": "305001-7",
+      "displayName": "Leapmotor C10 (Elétrico)",
+      "valorAtual": 204990,
+      "canonicalPath": "/fipe/leapmotor/c10-eletrico-0-305001-7/",
+      "ano": 0,
+      "marca": "Leapmotor"
+    },
+    {
+      "vehicleId": "leapmotor-c10-hibrido-0-hibrido",
+      "fipeCodigo": "305002-5",
+      "displayName": "Leapmotor C10 (Híbrido)",
+      "valorAtual": 219990,
+      "canonicalPath": "/fipe/leapmotor/c10-hibrido-0-305002-5/",
+      "ano": 0,
+      "marca": "Leapmotor"
+    }
+  ],
+  "stats": {
+    "total": 4,
+    "precoMin": 181803,
+    "precoMax": 219990,
+    "anos": [
+      2026,
+      0
+    ]
+  }
+}

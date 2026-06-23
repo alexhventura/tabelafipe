@@ -1,0 +1,323 @@
+{
+  "tipo": "familia",
+  "slug": "ranger",
+  "canonicalPath": "/fipe/polaris/ranger/",
+  "titulo": "POLARIS ranger - Tabela FIPE",
+  "descricao": "32 versoes e anos do POLARIS ranger na Tabela FIPE.",
+  "seo": {
+    "title": "POLARIS ranger - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes POLARIS ranger. 32 veiculos indexados.",
+    "h1": "POLARIS ranger - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/polaris/ranger/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "polaris-ranger-500-4x4-utv-2026-gasolina",
+      "fipeCodigo": "884037-7",
+      "displayName": "POLARIS Ranger 500 4x4 (UTV)",
+      "valorAtual": 80132,
+      "canonicalPath": "/fipe/polaris/ranger-500-4x4-utv-2026-884037-7/",
+      "ano": 2026,
+      "marca": "POLARIS"
+    },
+    {
+      "vehicleId": "polaris-ranger-1000-crew-premium-4x4-utv-2026-gasolina",
+      "fipeCodigo": "884038-5",
+      "displayName": "POLARIS Ranger 1000 CREW Premium 4x4 (UTV)",
+      "valorAtual": 139467,
+      "canonicalPath": "/fipe/polaris/ranger-1000-crew-premium-4x4-utv-2026-884038-5/",
+      "ano": 2026,
+      "marca": "POLARIS"
+    },
+    {
+      "vehicleId": "polaris-ranger-570-4x4-utv-sp-2025-gasolina",
+      "fipeCodigo": "884005-9",
+      "displayName": "POLARIS Ranger 570 4x4 (UTV)/SP",
+      "valorAtual": 75763,
+      "canonicalPath": "/fipe/polaris/ranger-570-4x4-utv-sp-2025-884005-9/",
+      "ano": 2025,
+      "marca": "POLARIS"
+    },
+    {
+      "vehicleId": "polaris-ranger-570-4-crew-sp-premium-4x4-utv-2025-gasolina",
+      "fipeCodigo": "884026-1",
+      "displayName": "POLARIS Ranger 570-4 CREW SP Premium 4x4 (UTV)",
+      "valorAtual": 92752,
+      "canonicalPath": "/fipe/polaris/ranger-570-4-crew-sp-premium-4x4-utv-2025-884026-1/",
+      "ano": 2025,
+      "marca": "POLARIS"
+    },
+    {
+      "vehicleId": "polaris-ranger-1000-eps-4x4-utv-2025-gasolina",
+      "fipeCodigo": "884032-6",
+      "displayName": "POLARIS Ranger 1000 EPS 4x4 (UTV)",
+      "valorAtual": 113286,
+      "canonicalPath": "/fipe/polaris/ranger-1000-eps-4x4-utv-2025-884032-6/",
+      "ano": 2025,
+      "marca": "POLARIS"
+    },
+    {
+      "vehicleId": "polaris-ranger-1000-premium-4x4-utv-2025-gasolina",
+      "fipeCodigo": "884031-8",
+      "displayName": "POLARIS Ranger 1000 Premium 4x4 (UTV)",
+      "valorAtual": 124118,
+      "canonicalPath": "/fipe/polaris/ranger-1000-premium-4x4-utv-2025-884031-8/",
+      "ano": 2025,
+      "marca": "POLARIS"
+    },
+    {
+      "vehicleId": "polaris-ranger-570-4x4-utv-sp-2023-gasolina",
+      "fipeCodigo": "884005-9",
+      "displayName": "POLARIS Ranger 570 4x4 (UTV)/SP",
+      "valorAtual": 73473,
+      "canonicalPath": "/fipe/polaris/ranger-570-4x4-utv-sp-2023-884005-9/",
+      "ano": 2023,
+      "marca": "POLARIS"
+    },
+    {
+      "vehicleId": "polaris-ranger-570-sp-premium-4x4-utv-2023-gasolina",
+      "fipeCodigo": "884025-3",
+      "displayName": "POLARIS Ranger 570 SP Premium 4x4 (UTV)",
+      "valorAtual": 81173,
+      "canonicalPath": "/fipe/polaris/ranger-570-sp-premium-4x4-utv-2023-884025-3/",
+      "ano": 2023,
+      "marca": "POLARIS"
+    },
+    {
+      "vehicleId": "polaris-ranger-570-4-crew-4x4-utv-sp-2023-gasolina",
+      "fipeCodigo": "884014-8",
+      "displayName": "POLARIS Ranger 570-4 CREW 4x4 (UTV)/SP",
+      "valorAtual": 81632,
+      "canonicalPath": "/fipe/polaris/ranger-570-4-crew-4x4-utv-sp-2023-884014-8/",
+      "ano": 2023,
+      "marca": "POLARIS"
+    },
+    {
+      "vehicleId": "polaris-ranger-570-4-crew-sp-premium-4x4-utv-2023-gasolina",
+      "fipeCodigo": "884026-1",
+      "displayName": "POLARIS Ranger 570-4 CREW SP Premium 4x4 (UTV)",
+      "valorAtual": 90247,
+      "canonicalPath": "/fipe/polaris/ranger-570-4-crew-sp-premium-4x4-utv-2023-884026-1/",
+      "ano": 2023,
+      "marca": "POLARIS"
+    },
+    {
+      "vehicleId": "polaris-ranger-570-4x4-utv-sp-2022-gasolina",
+      "fipeCodigo": "884005-9",
+      "displayName": "POLARIS Ranger 570 4x4 (UTV)/SP",
+      "valorAtual": 69267,
+      "canonicalPath": "/fipe/polaris/ranger-570-4x4-utv-sp-2022-884005-9/",
+      "ano": 2022,
+      "marca": "POLARIS"
+    },
+    {
+      "vehicleId": "polaris-ranger-570-sp-premium-4x4-utv-2022-gasolina",
+      "fipeCodigo": "884025-3",
+      "displayName": "POLARIS Ranger 570 SP Premium 4x4 (UTV)",
+      "valorAtual": 75741,
+      "canonicalPath": "/fipe/polaris/ranger-570-sp-premium-4x4-utv-2022-884025-3/",
+      "ano": 2022,
+      "marca": "POLARIS"
+    },
+    {
+      "vehicleId": "polaris-ranger-570-4-crew-4x4-utv-sp-2022-gasolina",
+      "fipeCodigo": "884014-8",
+      "displayName": "POLARIS Ranger 570-4 CREW 4x4 (UTV)/SP",
+      "valorAtual": 77080,
+      "canonicalPath": "/fipe/polaris/ranger-570-4-crew-4x4-utv-sp-2022-884014-8/",
+      "ano": 2022,
+      "marca": "POLARIS"
+    },
+    {
+      "vehicleId": "polaris-ranger-570-4-crew-sp-premium-4x4-utv-2022-gasolina",
+      "fipeCodigo": "884026-1",
+      "displayName": "POLARIS Ranger 570-4 CREW SP Premium 4x4 (UTV)",
+      "valorAtual": 85709,
+      "canonicalPath": "/fipe/polaris/ranger-570-4-crew-sp-premium-4x4-utv-2022-884026-1/",
+      "ano": 2022,
+      "marca": "POLARIS"
+    },
+    {
+      "vehicleId": "polaris-ranger-570-4x4-utv-sp-2021-gasolina",
+      "fipeCodigo": "884005-9",
+      "displayName": "POLARIS Ranger 570 4x4 (UTV)/SP",
+      "valorAtual": 62173,
+      "canonicalPath": "/fipe/polaris/ranger-570-4x4-utv-sp-2021-884005-9/",
+      "ano": 2021,
+      "marca": "POLARIS"
+    },
+    {
+      "vehicleId": "polaris-ranger-570-4-crew-4x4-utv-sp-2021-gasolina",
+      "fipeCodigo": "884014-8",
+      "displayName": "POLARIS Ranger 570-4 CREW 4x4 (UTV)/SP",
+      "valorAtual": 70435,
+      "canonicalPath": "/fipe/polaris/ranger-570-4-crew-4x4-utv-sp-2021-884014-8/",
+      "ano": 2021,
+      "marca": "POLARIS"
+    },
+    {
+      "vehicleId": "polaris-ranger-1000-4x4-utv-2021-gasolina",
+      "fipeCodigo": "884015-6",
+      "displayName": "POLARIS Ranger 1000 4x4 (UTV)",
+      "valorAtual": 102549,
+      "canonicalPath": "/fipe/polaris/ranger-1000-4x4-utv-2021-884015-6/",
+      "ano": 2021,
+      "marca": "POLARIS"
+    },
+    {
+      "vehicleId": "polaris-ranger-570-4x4-utv-sp-2020-gasolina",
+      "fipeCodigo": "884005-9",
+      "displayName": "POLARIS Ranger 570 4x4 (UTV)/SP",
+      "valorAtual": 56030,
+      "canonicalPath": "/fipe/polaris/ranger-570-4x4-utv-sp-2020-884005-9/",
+      "ano": 2020,
+      "marca": "POLARIS"
+    },
+    {
+      "vehicleId": "polaris-ranger-570-4-crew-4x4-utv-sp-2020-gasolina",
+      "fipeCodigo": "884014-8",
+      "displayName": "POLARIS Ranger 570-4 CREW 4x4 (UTV)/SP",
+      "valorAtual": 64088,
+      "canonicalPath": "/fipe/polaris/ranger-570-4-crew-4x4-utv-sp-2020-884014-8/",
+      "ano": 2020,
+      "marca": "POLARIS"
+    },
+    {
+      "vehicleId": "polaris-ranger-1000-4x4-utv-2020-gasolina",
+      "fipeCodigo": "884015-6",
+      "displayName": "POLARIS Ranger 1000 4x4 (UTV)",
+      "valorAtual": 84185,
+      "canonicalPath": "/fipe/polaris/ranger-1000-4x4-utv-2020-884015-6/",
+      "ano": 2020,
+      "marca": "POLARIS"
+    },
+    {
+      "vehicleId": "polaris-ranger-570-4x4-utv-sp-2019-gasolina",
+      "fipeCodigo": "884005-9",
+      "displayName": "POLARIS Ranger 570 4x4 (UTV)/SP",
+      "valorAtual": 46878,
+      "canonicalPath": "/fipe/polaris/ranger-570-4x4-utv-sp-2019-884005-9/",
+      "ano": 2019,
+      "marca": "POLARIS"
+    },
+    {
+      "vehicleId": "polaris-ranger-570-4x4-utv-sp-2018-gasolina",
+      "fipeCodigo": "884005-9",
+      "displayName": "POLARIS Ranger 570 4x4 (UTV)/SP",
+      "valorAtual": 39384,
+      "canonicalPath": "/fipe/polaris/ranger-570-4x4-utv-sp-2018-884005-9/",
+      "ano": 2018,
+      "marca": "POLARIS"
+    },
+    {
+      "vehicleId": "polaris-ranger-570-4x4-utv-sp-2017-gasolina",
+      "fipeCodigo": "884005-9",
+      "displayName": "POLARIS Ranger 570 4x4 (UTV)/SP",
+      "valorAtual": 33608,
+      "canonicalPath": "/fipe/polaris/ranger-570-4x4-utv-sp-2017-884005-9/",
+      "ano": 2017,
+      "marca": "POLARIS"
+    },
+    {
+      "vehicleId": "polaris-ranger-570-4x4-utv-sp-2016-gasolina",
+      "fipeCodigo": "884005-9",
+      "displayName": "POLARIS Ranger 570 4x4 (UTV)/SP",
+      "valorAtual": 29510,
+      "canonicalPath": "/fipe/polaris/ranger-570-4x4-utv-sp-2016-884005-9/",
+      "ano": 2016,
+      "marca": "POLARIS"
+    },
+    {
+      "vehicleId": "polaris-ranger-570-4x4-utv-sp-2015-gasolina",
+      "fipeCodigo": "884005-9",
+      "displayName": "POLARIS Ranger 570 4x4 (UTV)/SP",
+      "valorAtual": 26843,
+      "canonicalPath": "/fipe/polaris/ranger-570-4x4-utv-sp-2015-884005-9/",
+      "ano": 2015,
+      "marca": "POLARIS"
+    },
+    {
+      "vehicleId": "polaris-ranger-570-4x4-utv-sp-2014-gasolina",
+      "fipeCodigo": "884005-9",
+      "displayName": "POLARIS Ranger 570 4x4 (UTV)/SP",
+      "valorAtual": 25295,
+      "canonicalPath": "/fipe/polaris/ranger-570-4x4-utv-sp-2014-884005-9/",
+      "ano": 2014,
+      "marca": "POLARIS"
+    },
+    {
+      "vehicleId": "polaris-ranger-500-4x4-utv-0-gasolina",
+      "fipeCodigo": "884037-7",
+      "displayName": "POLARIS Ranger 500 4x4 (UTV)",
+      "valorAtual": 87865,
+      "canonicalPath": "/fipe/polaris/ranger-500-4x4-utv-0-884037-7/",
+      "ano": 0,
+      "marca": "POLARIS"
+    },
+    {
+      "vehicleId": "polaris-ranger-570-4x4-utv-sp-0-gasolina",
+      "fipeCodigo": "884005-9",
+      "displayName": "POLARIS Ranger 570 4x4 (UTV)/SP",
+      "valorAtual": 101434,
+      "canonicalPath": "/fipe/polaris/ranger-570-4x4-utv-sp-0-884005-9/",
+      "ano": 0,
+      "marca": "POLARIS"
+    },
+    {
+      "vehicleId": "polaris-ranger-570-4-crew-sp-premium-4x4-utv-0-gasolina",
+      "fipeCodigo": "884026-1",
+      "displayName": "POLARIS Ranger 570-4 CREW SP Premium 4x4 (UTV)",
+      "valorAtual": 124342,
+      "canonicalPath": "/fipe/polaris/ranger-570-4-crew-sp-premium-4x4-utv-0-884026-1/",
+      "ano": 0,
+      "marca": "POLARIS"
+    },
+    {
+      "vehicleId": "polaris-ranger-1000-eps-4x4-utv-0-gasolina",
+      "fipeCodigo": "884032-6",
+      "displayName": "POLARIS Ranger 1000 EPS 4x4 (UTV)",
+      "valorAtual": 134865,
+      "canonicalPath": "/fipe/polaris/ranger-1000-eps-4x4-utv-0-884032-6/",
+      "ano": 0,
+      "marca": "POLARIS"
+    },
+    {
+      "vehicleId": "polaris-ranger-1000-premium-4x4-utv-0-gasolina",
+      "fipeCodigo": "884031-8",
+      "displayName": "POLARIS Ranger 1000 Premium 4x4 (UTV)",
+      "valorAtual": 150375,
+      "canonicalPath": "/fipe/polaris/ranger-1000-premium-4x4-utv-0-884031-8/",
+      "ano": 0,
+      "marca": "POLARIS"
+    },
+    {
+      "vehicleId": "polaris-ranger-1000-crew-premium-4x4-utv-0-gasolina",
+      "fipeCodigo": "884038-5",
+      "displayName": "POLARIS Ranger 1000 CREW Premium 4x4 (UTV)",
+      "valorAtual": 159865,
+      "canonicalPath": "/fipe/polaris/ranger-1000-crew-premium-4x4-utv-0-884038-5/",
+      "ano": 0,
+      "marca": "POLARIS"
+    }
+  ],
+  "stats": {
+    "total": 32,
+    "precoMin": 25295,
+    "precoMax": 159865,
+    "anos": [
+      2026,
+      2025,
+      2023,
+      2022,
+      2021,
+      2020,
+      2019,
+      2018,
+      2017,
+      2016,
+      2015,
+      2014,
+      0
+    ]
+  }
+}

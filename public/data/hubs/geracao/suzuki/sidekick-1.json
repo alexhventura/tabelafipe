@@ -1,0 +1,84 @@
+{
+  "tipo": "geracao",
+  "slug": "sidekick-1",
+  "canonicalPath": "/geracao/suzuki/sidekick-1/",
+  "titulo": "Geracao sidekick-1",
+  "descricao": "7 veiculos da geracao sidekick-1.",
+  "seo": {
+    "title": "Geracao sidekick-1 - Precos FIPE",
+    "description": "Veiculos da geracao sidekick-1 na Tabela FIPE.",
+    "h1": "Geracao sidekick-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/suzuki/sidekick-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "suzuki-sidekick-canvas-1995-gasolina",
+      "fipeCodigo": "028031-3",
+      "displayName": "Suzuki Sidekick Canvas",
+      "valorAtual": 34499,
+      "canonicalPath": "/fipe/suzuki/sidekick-canvas-1995-028031-3/",
+      "ano": 1995,
+      "marca": "Suzuki"
+    },
+    {
+      "vehicleId": "suzuki-sidekick-canvas-1996-gasolina",
+      "fipeCodigo": "028031-3",
+      "displayName": "Suzuki Sidekick Canvas",
+      "valorAtual": 36163,
+      "canonicalPath": "/fipe/suzuki/sidekick-canvas-1996-028031-3/",
+      "ano": 1996,
+      "marca": "Suzuki"
+    },
+    {
+      "vehicleId": "suzuki-sidekick-metal-1991-gasolina",
+      "fipeCodigo": "028003-8",
+      "displayName": "Suzuki Sidekick Metal",
+      "valorAtual": 23034,
+      "canonicalPath": "/fipe/suzuki/sidekick-metal-1991-028003-8/",
+      "ano": 1991,
+      "marca": "Suzuki"
+    },
+    {
+      "vehicleId": "suzuki-sidekick-metal-1992-gasolina",
+      "fipeCodigo": "028003-8",
+      "displayName": "Suzuki Sidekick Metal",
+      "valorAtual": 26714,
+      "canonicalPath": "/fipe/suzuki/sidekick-metal-1992-028003-8/",
+      "ano": 1992,
+      "marca": "Suzuki"
+    },
+    {
+      "vehicleId": "suzuki-sidekick-metal-1993-gasolina",
+      "fipeCodigo": "028003-8",
+      "displayName": "Suzuki Sidekick Metal",
+      "valorAtual": 27382,
+      "canonicalPath": "/fipe/suzuki/sidekick-metal-1993-028003-8/",
+      "ano": 1993,
+      "marca": "Suzuki"
+    },
+    {
+      "vehicleId": "suzuki-sidekick-metal-1994-gasolina",
+      "fipeCodigo": "028003-8",
+      "displayName": "Suzuki Sidekick Metal",
+      "valorAtual": 29383,
+      "canonicalPath": "/fipe/suzuki/sidekick-metal-1994-028003-8/",
+      "ano": 1994,
+      "marca": "Suzuki"
+    },
+    {
+      "vehicleId": "suzuki-sidekick-metal-1995-gasolina",
+      "fipeCodigo": "028003-8",
+      "displayName": "Suzuki Sidekick Metal",
+      "valorAtual": 34670,
+      "canonicalPath": "/fipe/suzuki/sidekick-metal-1995-028003-8/",
+      "ano": 1995,
+      "marca": "Suzuki"
+    }
+  ],
+  "stats": {
+    "total": 7
+  },
+  "meta": {
+    "geracaoId": "sidekick-1"
+  }
+}

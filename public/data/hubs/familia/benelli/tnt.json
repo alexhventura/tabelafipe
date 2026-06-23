@@ -1,0 +1,60 @@
+{
+  "tipo": "familia",
+  "slug": "tnt",
+  "canonicalPath": "/fipe/benelli/tnt/",
+  "titulo": "Benelli tnt - Tabela FIPE",
+  "descricao": "4 versoes e anos do Benelli tnt na Tabela FIPE.",
+  "seo": {
+    "title": "Benelli tnt - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes Benelli tnt. 4 veiculos indexados.",
+    "h1": "Benelli tnt - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/benelli/tnt/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "benelli-tnt-899-2014-gasolina",
+      "fipeCodigo": "870001-0",
+      "displayName": "Benelli TNT 899",
+      "valorAtual": 36125,
+      "canonicalPath": "/fipe/benelli/tnt-899-2014-870001-0/",
+      "ano": 2014,
+      "marca": "Benelli"
+    },
+    {
+      "vehicleId": "benelli-tnt-899-2008-gasolina",
+      "fipeCodigo": "870001-0",
+      "displayName": "Benelli TNT 899",
+      "valorAtual": 27385,
+      "canonicalPath": "/fipe/benelli/tnt-899-2008-870001-0/",
+      "ano": 2008,
+      "marca": "Benelli"
+    },
+    {
+      "vehicleId": "benelli-tnt-1130-sport-evo-2008-gasolina",
+      "fipeCodigo": "870002-8",
+      "displayName": "Benelli TNT 1130 Sport evo",
+      "valorAtual": 29485,
+      "canonicalPath": "/fipe/benelli/tnt-1130-sport-evo-2008-870002-8/",
+      "ano": 2008,
+      "marca": "Benelli"
+    },
+    {
+      "vehicleId": "benelli-tnt-cafe-1130-racer-2008-gasolina",
+      "fipeCodigo": "870005-2",
+      "displayName": "Benelli TNT Café 1130 Racer",
+      "valorAtual": 33355,
+      "canonicalPath": "/fipe/benelli/tnt-cafe-1130-racer-2008-870005-2/",
+      "ano": 2008,
+      "marca": "Benelli"
+    }
+  ],
+  "stats": {
+    "total": 4,
+    "precoMin": 27385,
+    "precoMax": 36125,
+    "anos": [
+      2014,
+      2008
+    ]
+  }
+}

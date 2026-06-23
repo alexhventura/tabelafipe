@@ -1,0 +1,72 @@
+{
+  "tipo": "familia",
+  "slug": "han",
+  "canonicalPath": "/fipe/byd/han/",
+  "titulo": "BYD han - Tabela FIPE",
+  "descricao": "5 versoes e anos do BYD han na Tabela FIPE.",
+  "seo": {
+    "title": "BYD han - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes BYD han. 5 veiculos indexados.",
+    "h1": "BYD han - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/byd/han/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "byd-han-ev-eletrico-2025-eletrico",
+      "fipeCodigo": "095003-3",
+      "displayName": "BYD Han EV  (Elétrico)",
+      "valorAtual": 387202,
+      "canonicalPath": "/fipe/byd/han-ev-eletrico-2025-095003-3/",
+      "ano": 2025,
+      "marca": "BYD"
+    },
+    {
+      "vehicleId": "byd-han-ev-eletrico-2024-eletrico",
+      "fipeCodigo": "095003-3",
+      "displayName": "BYD Han EV  (Elétrico)",
+      "valorAtual": 309654,
+      "canonicalPath": "/fipe/byd/han-ev-eletrico-2024-095003-3/",
+      "ano": 2024,
+      "marca": "BYD"
+    },
+    {
+      "vehicleId": "byd-han-ev-eletrico-2023-eletrico",
+      "fipeCodigo": "095003-3",
+      "displayName": "BYD Han EV  (Elétrico)",
+      "valorAtual": 287368,
+      "canonicalPath": "/fipe/byd/han-ev-eletrico-2023-095003-3/",
+      "ano": 2023,
+      "marca": "BYD"
+    },
+    {
+      "vehicleId": "byd-han-ev-eletrico-2022-eletrico",
+      "fipeCodigo": "095003-3",
+      "displayName": "BYD Han EV  (Elétrico)",
+      "valorAtual": 257913,
+      "canonicalPath": "/fipe/byd/han-ev-eletrico-2022-095003-3/",
+      "ano": 2022,
+      "marca": "BYD"
+    },
+    {
+      "vehicleId": "byd-han-ev-eletrico-0-eletrico",
+      "fipeCodigo": "095003-3",
+      "displayName": "BYD Han EV  (Elétrico)",
+      "valorAtual": 538838,
+      "canonicalPath": "/fipe/byd/han-ev-eletrico-0-095003-3/",
+      "ano": 0,
+      "marca": "BYD"
+    }
+  ],
+  "stats": {
+    "total": 5,
+    "precoMin": 257913,
+    "precoMax": 538838,
+    "anos": [
+      2025,
+      2024,
+      2023,
+      2022,
+      0
+    ]
+  }
+}

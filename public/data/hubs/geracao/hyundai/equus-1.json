@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "equus-1",
+  "canonicalPath": "/geracao/hyundai/equus-1/",
+  "titulo": "Geracao equus-1",
+  "descricao": "2 veiculos da geracao equus-1.",
+  "seo": {
+    "title": "Geracao equus-1 - Precos FIPE",
+    "description": "Veiculos da geracao equus-1 na Tabela FIPE.",
+    "h1": "Geracao equus-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/hyundai/equus-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "hyundai-equus-4-6-v8-32v-366cv-4p-aut-2012-gasolina",
+      "fipeCodigo": "015087-8",
+      "displayName": "Hyundai EQUUS 4.6 V8 32V 366cv 4p Aut.",
+      "valorAtual": 152265,
+      "canonicalPath": "/fipe/hyundai/equus-4-6-v8-32v-366cv-4p-aut-2012-015087-8/",
+      "ano": 2012,
+      "marca": "Hyundai"
+    },
+    {
+      "vehicleId": "hyundai-equus-4-6-v8-32v-366cv-4p-aut-2013-gasolina",
+      "fipeCodigo": "015087-8",
+      "displayName": "Hyundai EQUUS 4.6 V8 32V 366cv 4p Aut.",
+      "valorAtual": 156072,
+      "canonicalPath": "/fipe/hyundai/equus-4-6-v8-32v-366cv-4p-aut-2013-015087-8/",
+      "ano": 2013,
+      "marca": "Hyundai"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "equus-1"
+  }
+}

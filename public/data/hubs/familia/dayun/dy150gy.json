@@ -1,0 +1,52 @@
+{
+  "tipo": "familia",
+  "slug": "dy150gy",
+  "canonicalPath": "/fipe/dayun/dy150gy/",
+  "titulo": "DAYUN dy150gy - Tabela FIPE",
+  "descricao": "3 versoes e anos do DAYUN dy150gy na Tabela FIPE.",
+  "seo": {
+    "title": "DAYUN dy150gy - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes DAYUN dy150gy. 3 veiculos indexados.",
+    "h1": "DAYUN dy150gy - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/dayun/dy150gy/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "dayun-dy150gy-2011-gasolina",
+      "fipeCodigo": "860006-6",
+      "displayName": "DAYUN DY150GY",
+      "valorAtual": 4638,
+      "canonicalPath": "/fipe/dayun/dy150gy-2011-860006-6/",
+      "ano": 2011,
+      "marca": "DAYUN"
+    },
+    {
+      "vehicleId": "dayun-dy150gy-2010-gasolina",
+      "fipeCodigo": "860006-6",
+      "displayName": "DAYUN DY150GY",
+      "valorAtual": 4090,
+      "canonicalPath": "/fipe/dayun/dy150gy-2010-860006-6/",
+      "ano": 2010,
+      "marca": "DAYUN"
+    },
+    {
+      "vehicleId": "dayun-dy150gy-2008-gasolina",
+      "fipeCodigo": "860006-6",
+      "displayName": "DAYUN DY150GY",
+      "valorAtual": 3327,
+      "canonicalPath": "/fipe/dayun/dy150gy-2008-860006-6/",
+      "ano": 2008,
+      "marca": "DAYUN"
+    }
+  ],
+  "stats": {
+    "total": 3,
+    "precoMin": 3327,
+    "precoMax": 4638,
+    "anos": [
+      2011,
+      2010,
+      2008
+    ]
+  }
+}

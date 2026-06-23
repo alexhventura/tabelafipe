@@ -1,0 +1,48 @@
+{
+  "tipo": "geracao",
+  "slug": "calibra-1",
+  "canonicalPath": "/geracao/chevrolet/calibra-1/",
+  "titulo": "Geracao calibra-1",
+  "descricao": "3 veiculos da geracao calibra-1.",
+  "seo": {
+    "title": "Geracao calibra-1 - Precos FIPE",
+    "description": "Veiculos da geracao calibra-1 na Tabela FIPE.",
+    "h1": "Geracao calibra-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/chevrolet/calibra-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "chevrolet-calibra-16v-1994-gasolina",
+      "fipeCodigo": "004074-6",
+      "displayName": "GM - Chevrolet Calibra 16V",
+      "valorAtual": 33819,
+      "canonicalPath": "/fipe/chevrolet/calibra-16v-1994-004074-6/",
+      "ano": 1994,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-calibra-16v-1995-gasolina",
+      "fipeCodigo": "004074-6",
+      "displayName": "GM - Chevrolet Calibra 16V",
+      "valorAtual": 34665,
+      "canonicalPath": "/fipe/chevrolet/calibra-16v-1995-004074-6/",
+      "ano": 1995,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-calibra-16v-1996-gasolina",
+      "fipeCodigo": "004074-6",
+      "displayName": "GM - Chevrolet Calibra 16V",
+      "valorAtual": 35532,
+      "canonicalPath": "/fipe/chevrolet/calibra-16v-1996-004074-6/",
+      "ano": 1996,
+      "marca": "GM - Chevrolet"
+    }
+  ],
+  "stats": {
+    "total": 3
+  },
+  "meta": {
+    "geracaoId": "calibra-1"
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "tipo": "geracao",
+  "slug": "marauder-1",
+  "canonicalPath": "/geracao/suzuki/marauder-1/",
+  "titulo": "Geracao marauder-1",
+  "descricao": "9 veiculos da geracao marauder-1.",
+  "seo": {
+    "title": "Geracao marauder-1 - Precos FIPE",
+    "description": "Veiculos da geracao marauder-1 na Tabela FIPE.",
+    "h1": "Geracao marauder-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/suzuki/marauder-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "suzuki-marauder-800-1997-gasolina",
+      "fipeCodigo": "825023-5",
+      "displayName": "SUZUKI MARAUDER 800",
+      "valorAtual": 19335,
+      "canonicalPath": "/fipe/suzuki/marauder-800-1997-825023-5/",
+      "ano": 1997,
+      "marca": "SUZUKI"
+    },
+    {
+      "vehicleId": "suzuki-marauder-800-1998-gasolina",
+      "fipeCodigo": "825023-5",
+      "displayName": "SUZUKI MARAUDER 800",
+      "valorAtual": 21797,
+      "canonicalPath": "/fipe/suzuki/marauder-800-1998-825023-5/",
+      "ano": 1998,
+      "marca": "SUZUKI"
+    },
+    {
+      "vehicleId": "suzuki-marauder-800-1999-gasolina",
+      "fipeCodigo": "825023-5",
+      "displayName": "SUZUKI MARAUDER 800",
+      "valorAtual": 22688,
+      "canonicalPath": "/fipe/suzuki/marauder-800-1999-825023-5/",
+      "ano": 1999,
+      "marca": "SUZUKI"
+    },
+    {
+      "vehicleId": "suzuki-marauder-800-2000-gasolina",
+      "fipeCodigo": "825023-5",
+      "displayName": "SUZUKI MARAUDER 800",
+      "valorAtual": 23373,
+      "canonicalPath": "/fipe/suzuki/marauder-800-2000-825023-5/",
+      "ano": 2000,
+      "marca": "SUZUKI"
+    },
+    {
+      "vehicleId": "suzuki-marauder-800-2001-gasolina",
+      "fipeCodigo": "825023-5",
+      "displayName": "SUZUKI MARAUDER 800",
+      "valorAtual": 24208,
+      "canonicalPath": "/fipe/suzuki/marauder-800-2001-825023-5/",
+      "ano": 2001,
+      "marca": "SUZUKI"
+    },
+    {
+      "vehicleId": "suzuki-marauder-800-2002-gasolina",
+      "fipeCodigo": "825023-5",
+      "displayName": "SUZUKI MARAUDER 800",
+      "valorAtual": 25029,
+      "canonicalPath": "/fipe/suzuki/marauder-800-2002-825023-5/",
+      "ano": 2002,
+      "marca": "SUZUKI"
+    },
+    {
+      "vehicleId": "suzuki-marauder-800-2003-gasolina",
+      "fipeCodigo": "825023-5",
+      "displayName": "SUZUKI MARAUDER 800",
+      "valorAtual": 26002,
+      "canonicalPath": "/fipe/suzuki/marauder-800-2003-825023-5/",
+      "ano": 2003,
+      "marca": "SUZUKI"
+    },
+    {
+      "vehicleId": "suzuki-marauder-800-2004-gasolina",
+      "fipeCodigo": "825023-5",
+      "displayName": "SUZUKI MARAUDER 800",
+      "valorAtual": 26717,
+      "canonicalPath": "/fipe/suzuki/marauder-800-2004-825023-5/",
+      "ano": 2004,
+      "marca": "SUZUKI"
+    },
+    {
+      "vehicleId": "suzuki-marauder-800-2005-gasolina",
+      "fipeCodigo": "825023-5",
+      "displayName": "SUZUKI MARAUDER 800",
+      "valorAtual": 27385,
+      "canonicalPath": "/fipe/suzuki/marauder-800-2005-825023-5/",
+      "ano": 2005,
+      "marca": "SUZUKI"
+    }
+  ],
+  "stats": {
+    "total": 9
+  },
+  "meta": {
+    "geracaoId": "marauder-1"
+  }
+}

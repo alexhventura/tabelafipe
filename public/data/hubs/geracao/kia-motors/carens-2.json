@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "carens-2",
+  "canonicalPath": "/geracao/kia-motors/carens-2/",
+  "titulo": "Geracao carens-2",
+  "descricao": "2 veiculos da geracao carens-2.",
+  "seo": {
+    "title": "Geracao carens-2 - Precos FIPE",
+    "description": "Veiculos da geracao carens-2 na Tabela FIPE.",
+    "h1": "Geracao carens-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/kia-motors/carens-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "kia-motors-carens-ls-1-8-16v-130cv-aut-2001-gasolina",
+      "fipeCodigo": "018045-9",
+      "displayName": "Kia Motors Carens LS 1.8 16V 130cv Aut.",
+      "valorAtual": 9654,
+      "canonicalPath": "/fipe/kia-motors/carens-ls-1-8-16v-130cv-aut-2001-018045-9/",
+      "ano": 2001,
+      "marca": "Kia Motors"
+    },
+    {
+      "vehicleId": "kia-motors-carens-ls-1-8-16v-130cv-mec-2001-gasolina",
+      "fipeCodigo": "018044-0",
+      "displayName": "Kia Motors Carens LS 1.8 16V 130cv Mec.",
+      "valorAtual": 9581,
+      "canonicalPath": "/fipe/kia-motors/carens-ls-1-8-16v-130cv-mec-2001-018044-0/",
+      "ano": 2001,
+      "marca": "Kia Motors"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "carens-2"
+  }
+}

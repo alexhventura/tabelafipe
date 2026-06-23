@@ -1,0 +1,72 @@
+{
+  "tipo": "familia",
+  "slug": "freewind",
+  "canonicalPath": "/fipe/suzuki/freewind/",
+  "titulo": "SUZUKI freewind - Tabela FIPE",
+  "descricao": "5 versoes e anos do SUZUKI freewind na Tabela FIPE.",
+  "seo": {
+    "title": "SUZUKI freewind - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes SUZUKI freewind. 5 veiculos indexados.",
+    "h1": "SUZUKI freewind - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/suzuki/freewind/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "suzuki-freewind-xf-650-2003-gasolina",
+      "fipeCodigo": "825010-3",
+      "displayName": "SUZUKI FREEWIND XF 650",
+      "valorAtual": 17945,
+      "canonicalPath": "/fipe/suzuki/freewind-xf-650-2003-825010-3/",
+      "ano": 2003,
+      "marca": "SUZUKI"
+    },
+    {
+      "vehicleId": "suzuki-freewind-xf-650-2002-gasolina",
+      "fipeCodigo": "825010-3",
+      "displayName": "SUZUKI FREEWIND XF 650",
+      "valorAtual": 17453,
+      "canonicalPath": "/fipe/suzuki/freewind-xf-650-2002-825010-3/",
+      "ano": 2002,
+      "marca": "SUZUKI"
+    },
+    {
+      "vehicleId": "suzuki-freewind-xf-650-2001-gasolina",
+      "fipeCodigo": "825010-3",
+      "displayName": "SUZUKI FREEWIND XF 650",
+      "valorAtual": 16904,
+      "canonicalPath": "/fipe/suzuki/freewind-xf-650-2001-825010-3/",
+      "ano": 2001,
+      "marca": "SUZUKI"
+    },
+    {
+      "vehicleId": "suzuki-freewind-xf-650-2000-gasolina",
+      "fipeCodigo": "825010-3",
+      "displayName": "SUZUKI FREEWIND XF 650",
+      "valorAtual": 16491,
+      "canonicalPath": "/fipe/suzuki/freewind-xf-650-2000-825010-3/",
+      "ano": 2000,
+      "marca": "SUZUKI"
+    },
+    {
+      "vehicleId": "suzuki-freewind-xf-650-1999-gasolina",
+      "fipeCodigo": "825010-3",
+      "displayName": "SUZUKI FREEWIND XF 650",
+      "valorAtual": 16088,
+      "canonicalPath": "/fipe/suzuki/freewind-xf-650-1999-825010-3/",
+      "ano": 1999,
+      "marca": "SUZUKI"
+    }
+  ],
+  "stats": {
+    "total": 5,
+    "precoMin": 16088,
+    "precoMax": 17945,
+    "anos": [
+      2003,
+      2002,
+      2001,
+      2000,
+      1999
+    ]
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "tipo": "geracao",
+  "slug": "suburban-1",
+  "canonicalPath": "/geracao/chevrolet/suburban-1/",
+  "titulo": "Geracao suburban-1",
+  "descricao": "5 veiculos da geracao suburban-1.",
+  "seo": {
+    "title": "Geracao suburban-1 - Precos FIPE",
+    "description": "Veiculos da geracao suburban-1 na Tabela FIPE.",
+    "h1": "Geracao suburban-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/chevrolet/suburban-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "chevrolet-suburban-5-7-6-5-v8-5-3-v8-1993-gasolina",
+      "fipeCodigo": "004153-0",
+      "displayName": "GM - Chevrolet Suburban 5.7/6.5 V8/5.3 V8",
+      "valorAtual": 41265,
+      "canonicalPath": "/fipe/chevrolet/suburban-5-7-6-5-v8-5-3-v8-1993-004153-0/",
+      "ano": 1993,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-suburban-5-7-6-5-v8-5-3-v8-1994-gasolina",
+      "fipeCodigo": "004153-0",
+      "displayName": "GM - Chevrolet Suburban 5.7/6.5 V8/5.3 V8",
+      "valorAtual": 54151,
+      "canonicalPath": "/fipe/chevrolet/suburban-5-7-6-5-v8-5-3-v8-1994-004153-0/",
+      "ano": 1994,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-suburban-5-7-6-5-v8-5-3-v8-1995-gasolina",
+      "fipeCodigo": "004153-0",
+      "displayName": "GM - Chevrolet Suburban 5.7/6.5 V8/5.3 V8",
+      "valorAtual": 56864,
+      "canonicalPath": "/fipe/chevrolet/suburban-5-7-6-5-v8-5-3-v8-1995-004153-0/",
+      "ano": 1995,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-suburban-5-7-6-5-v8-5-3-v8-1996-gasolina",
+      "fipeCodigo": "004153-0",
+      "displayName": "GM - Chevrolet Suburban 5.7/6.5 V8/5.3 V8",
+      "valorAtual": 58286,
+      "canonicalPath": "/fipe/chevrolet/suburban-5-7-6-5-v8-5-3-v8-1996-004153-0/",
+      "ano": 1996,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-suburban-5-7-6-5-v8-5-3-v8-1997-gasolina",
+      "fipeCodigo": "004153-0",
+      "displayName": "GM - Chevrolet Suburban 5.7/6.5 V8/5.3 V8",
+      "valorAtual": 59744,
+      "canonicalPath": "/fipe/chevrolet/suburban-5-7-6-5-v8-5-3-v8-1997-004153-0/",
+      "ano": 1997,
+      "marca": "GM - Chevrolet"
+    }
+  ],
+  "stats": {
+    "total": 5
+  },
+  "meta": {
+    "geracaoId": "suburban-1"
+  }
+}

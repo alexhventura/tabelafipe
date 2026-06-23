@@ -1,0 +1,57 @@
+{
+  "tipo": "geracao",
+  "slug": "deluxe-1",
+  "canonicalPath": "/geracao/lon-v/deluxe-1/",
+  "titulo": "Geracao deluxe-1",
+  "descricao": "4 veiculos da geracao deluxe-1.",
+  "seo": {
+    "title": "Geracao deluxe-1 - Precos FIPE",
+    "description": "Veiculos da geracao deluxe-1 na Tabela FIPE.",
+    "h1": "Geracao deluxe-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/lon-v/deluxe-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "lon-v-deluxe-152cc-2010-gasolina",
+      "fipeCodigo": "863004-6",
+      "displayName": "Lon-V DELUXE 152cc",
+      "valorAtual": 4080,
+      "canonicalPath": "/fipe/lon-v/deluxe-152cc-2010-863004-6/",
+      "ano": 2010,
+      "marca": "Lon-V"
+    },
+    {
+      "vehicleId": "lon-v-deluxe-152cc-2011-gasolina",
+      "fipeCodigo": "863004-6",
+      "displayName": "Lon-V DELUXE 152cc",
+      "valorAtual": 4182,
+      "canonicalPath": "/fipe/lon-v/deluxe-152cc-2011-863004-6/",
+      "ano": 2011,
+      "marca": "Lon-V"
+    },
+    {
+      "vehicleId": "lon-v-deluxe-152cc-2012-gasolina",
+      "fipeCodigo": "863004-6",
+      "displayName": "Lon-V DELUXE 152cc",
+      "valorAtual": 4287,
+      "canonicalPath": "/fipe/lon-v/deluxe-152cc-2012-863004-6/",
+      "ano": 2012,
+      "marca": "Lon-V"
+    },
+    {
+      "vehicleId": "lon-v-deluxe-152cc-2013-gasolina",
+      "fipeCodigo": "863004-6",
+      "displayName": "Lon-V DELUXE 152cc",
+      "valorAtual": 4397,
+      "canonicalPath": "/fipe/lon-v/deluxe-152cc-2013-863004-6/",
+      "ano": 2013,
+      "marca": "Lon-V"
+    }
+  ],
+  "stats": {
+    "total": 4
+  },
+  "meta": {
+    "geracaoId": "deluxe-1"
+  }
+}

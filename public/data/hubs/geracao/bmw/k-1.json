@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "k-1",
+  "canonicalPath": "/geracao/bmw/k-1/",
+  "titulo": "Geracao k-1",
+  "descricao": "2 veiculos da geracao k-1.",
+  "seo": {
+    "title": "Geracao k-1 - Precos FIPE",
+    "description": "Veiculos da geracao k-1 na Tabela FIPE.",
+    "h1": "Geracao k-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/bmw/k-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "bmw-k-1600-bagger-0-gasolina",
+      "fipeCodigo": "803061-8",
+      "displayName": "BMW K 1600 BAGGER",
+      "valorAtual": 307860,
+      "canonicalPath": "/fipe/bmw/k-1600-bagger-0-803061-8/",
+      "ano": 0,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-k-1600-gtl-0-gasolina",
+      "fipeCodigo": "803043-0",
+      "displayName": "BMW K 1600 GTL",
+      "valorAtual": 322798,
+      "canonicalPath": "/fipe/bmw/k-1600-gtl-0-803043-0/",
+      "ano": 0,
+      "marca": "BMW"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "k-1"
+  }
+}

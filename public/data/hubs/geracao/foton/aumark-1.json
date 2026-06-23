@@ -1,0 +1,93 @@
+{
+  "tipo": "geracao",
+  "slug": "aumark-1",
+  "canonicalPath": "/geracao/foton/aumark-1/",
+  "titulo": "Geracao aumark-1",
+  "descricao": "8 veiculos da geracao aumark-1.",
+  "seo": {
+    "title": "Geracao aumark-1 - Precos FIPE",
+    "description": "Veiculos da geracao aumark-1 na Tabela FIPE.",
+    "h1": "Geracao aumark-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/foton/aumark-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "foton-aumark-s-1217a-4x2-diesel-e6-0-diesel",
+      "fipeCodigo": "526012-4",
+      "displayName": "FOTON AUMARK S 1217A 4x2 (diesel) (E6)",
+      "valorAtual": 384333,
+      "canonicalPath": "/fipe/foton/aumark-s-1217a-4x2-diesel-e6-0-526012-4/",
+      "ano": 0,
+      "marca": "FOTON"
+    },
+    {
+      "vehicleId": "foton-aumark-s-1217b-4x2-diesel-e6-0-diesel",
+      "fipeCodigo": "526011-6",
+      "displayName": "FOTON AUMARK S 1217B 4x2 (diesel) (E6)",
+      "valorAtual": 384184,
+      "canonicalPath": "/fipe/foton/aumark-s-1217b-4x2-diesel-e6-0-526011-6/",
+      "ano": 0,
+      "marca": "FOTON"
+    },
+    {
+      "vehicleId": "foton-aumark-s-315-2-5-4x2-curto-diesel-e6-0-diesel",
+      "fipeCodigo": "086011-5",
+      "displayName": "FOTON AUMARK S 315 2.5 4x2 Curto Diesel (E6)",
+      "valorAtual": 281950,
+      "canonicalPath": "/fipe/foton/aumark-s-315-2-5-4x2-curto-diesel-e6-0-086011-5/",
+      "ano": 0,
+      "marca": "FOTON"
+    },
+    {
+      "vehicleId": "foton-aumark-s-315-2-5-4x2-curto-diesel-e6-amt-0-diesel",
+      "fipeCodigo": "086012-3",
+      "displayName": "FOTON AUMARK S 315 2.5 4x2 Curto Diesel (E6) AMT",
+      "valorAtual": 299500,
+      "canonicalPath": "/fipe/foton/aumark-s-315-2-5-4x2-curto-diesel-e6-amt-0-086012-3/",
+      "ano": 0,
+      "marca": "FOTON"
+    },
+    {
+      "vehicleId": "foton-aumark-s-315-2-5-4x2-longo-diesel-e6-0-diesel",
+      "fipeCodigo": "086010-7",
+      "displayName": "FOTON AUMARK S 315 2.5 4x2 Longo Diesel (E6)",
+      "valorAtual": 281699,
+      "canonicalPath": "/fipe/foton/aumark-s-315-2-5-4x2-longo-diesel-e6-0-086010-7/",
+      "ano": 0,
+      "marca": "FOTON"
+    },
+    {
+      "vehicleId": "foton-aumark-s-315-2-5-4x2-longo-diesel-e6-amt-0-diesel",
+      "fipeCodigo": "086013-1",
+      "displayName": "FOTON AUMARK S 315 2.5 4x2 Longo Diesel (E6) AMT",
+      "valorAtual": 312000,
+      "canonicalPath": "/fipe/foton/aumark-s-315-2-5-4x2-longo-diesel-e6-amt-0-086013-1/",
+      "ano": 0,
+      "marca": "FOTON"
+    },
+    {
+      "vehicleId": "foton-aumark-s-715-4x2-diesel-e6-0-diesel",
+      "fipeCodigo": "526009-4",
+      "displayName": "FOTON AUMARK S 715 4x2 (diesel) (E6)",
+      "valorAtual": 314666,
+      "canonicalPath": "/fipe/foton/aumark-s-715-4x2-diesel-e6-0-526009-4/",
+      "ano": 0,
+      "marca": "FOTON"
+    },
+    {
+      "vehicleId": "foton-aumark-s-916-4x2-diese-e6-0-diesel",
+      "fipeCodigo": "526010-8",
+      "displayName": "FOTON AUMARK S 916 4x2 (diese) (E6)",
+      "valorAtual": 352333,
+      "canonicalPath": "/fipe/foton/aumark-s-916-4x2-diese-e6-0-526010-8/",
+      "ano": 0,
+      "marca": "FOTON"
+    }
+  ],
+  "stats": {
+    "total": 8
+  },
+  "meta": {
+    "geracaoId": "aumark-1"
+  }
+}

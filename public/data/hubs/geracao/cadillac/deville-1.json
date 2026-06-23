@@ -1,0 +1,66 @@
+{
+  "tipo": "geracao",
+  "slug": "deville-1",
+  "canonicalPath": "/geracao/cadillac/deville-1/",
+  "titulo": "Geracao deville-1",
+  "descricao": "5 veiculos da geracao deville-1.",
+  "seo": {
+    "title": "Geracao deville-1 - Precos FIPE",
+    "description": "Veiculos da geracao deville-1 na Tabela FIPE.",
+    "h1": "Geracao deville-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/cadillac/deville-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "cadillac-deville-eldorado-4-9-1991-gasolina",
+      "fipeCodigo": "041001-2",
+      "displayName": "Cadillac Deville/Eldorado 4.9",
+      "valorAtual": 35277,
+      "canonicalPath": "/fipe/cadillac/deville-eldorado-4-9-1991-041001-2/",
+      "ano": 1991,
+      "marca": "Cadillac"
+    },
+    {
+      "vehicleId": "cadillac-deville-eldorado-4-9-1992-gasolina",
+      "fipeCodigo": "041001-2",
+      "displayName": "Cadillac Deville/Eldorado 4.9",
+      "valorAtual": 39427,
+      "canonicalPath": "/fipe/cadillac/deville-eldorado-4-9-1992-041001-2/",
+      "ano": 1992,
+      "marca": "Cadillac"
+    },
+    {
+      "vehicleId": "cadillac-deville-eldorado-4-9-1993-gasolina",
+      "fipeCodigo": "041001-2",
+      "displayName": "Cadillac Deville/Eldorado 4.9",
+      "valorAtual": 44377,
+      "canonicalPath": "/fipe/cadillac/deville-eldorado-4-9-1993-041001-2/",
+      "ano": 1993,
+      "marca": "Cadillac"
+    },
+    {
+      "vehicleId": "cadillac-deville-eldorado-4-9-1994-gasolina",
+      "fipeCodigo": "041001-2",
+      "displayName": "Cadillac Deville/Eldorado 4.9",
+      "valorAtual": 52068,
+      "canonicalPath": "/fipe/cadillac/deville-eldorado-4-9-1994-041001-2/",
+      "ano": 1994,
+      "marca": "Cadillac"
+    },
+    {
+      "vehicleId": "cadillac-deville-eldorado-4-9-1995-gasolina",
+      "fipeCodigo": "041001-2",
+      "displayName": "Cadillac Deville/Eldorado 4.9",
+      "valorAtual": 73395,
+      "canonicalPath": "/fipe/cadillac/deville-eldorado-4-9-1995-041001-2/",
+      "ano": 1995,
+      "marca": "Cadillac"
+    }
+  ],
+  "stats": {
+    "total": 5
+  },
+  "meta": {
+    "geracaoId": "deville-1"
+  }
+}

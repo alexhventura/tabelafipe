@@ -1,0 +1,112 @@
+{
+  "tipo": "familia",
+  "slug": "gf",
+  "canonicalPath": "/fipe/kasinski/gf/",
+  "titulo": "KASINSKI gf - Tabela FIPE",
+  "descricao": "9 versoes e anos do KASINSKI gf na Tabela FIPE.",
+  "seo": {
+    "title": "KASINSKI gf - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes KASINSKI gf. 9 veiculos indexados.",
+    "h1": "KASINSKI gf - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/kasinski/gf/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "kasinski-gf-125-speed-2005-gasolina",
+      "fipeCodigo": "816002-3",
+      "displayName": "KASINSKI GF 125 SPEED",
+      "valorAtual": 2277,
+      "canonicalPath": "/fipe/kasinski/gf-125-speed-2005-816002-3/",
+      "ano": 2005,
+      "marca": "KASINSKI"
+    },
+    {
+      "vehicleId": "kasinski-gf-125-speed-2004-gasolina",
+      "fipeCodigo": "816002-3",
+      "displayName": "KASINSKI GF 125 SPEED",
+      "valorAtual": 2220,
+      "canonicalPath": "/fipe/kasinski/gf-125-speed-2004-816002-3/",
+      "ano": 2004,
+      "marca": "KASINSKI"
+    },
+    {
+      "vehicleId": "kasinski-gf-125-speed-2003-gasolina",
+      "fipeCodigo": "816002-3",
+      "displayName": "KASINSKI GF 125 SPEED",
+      "valorAtual": 2164,
+      "canonicalPath": "/fipe/kasinski/gf-125-speed-2003-816002-3/",
+      "ano": 2003,
+      "marca": "KASINSKI"
+    },
+    {
+      "vehicleId": "kasinski-gf-125-speed-2002-gasolina",
+      "fipeCodigo": "816002-3",
+      "displayName": "KASINSKI GF 125 SPEED",
+      "valorAtual": 2028,
+      "canonicalPath": "/fipe/kasinski/gf-125-speed-2002-816002-3/",
+      "ano": 2002,
+      "marca": "KASINSKI"
+    },
+    {
+      "vehicleId": "kasinski-gf-125-speed-2001-gasolina",
+      "fipeCodigo": "816002-3",
+      "displayName": "KASINSKI GF 125 SPEED",
+      "valorAtual": 1978,
+      "canonicalPath": "/fipe/kasinski/gf-125-speed-2001-816002-3/",
+      "ano": 2001,
+      "marca": "KASINSKI"
+    },
+    {
+      "vehicleId": "kasinski-gf-125-speed-2000-gasolina",
+      "fipeCodigo": "816002-3",
+      "displayName": "KASINSKI GF 125 SPEED",
+      "valorAtual": 1694,
+      "canonicalPath": "/fipe/kasinski/gf-125-speed-2000-816002-3/",
+      "ano": 2000,
+      "marca": "KASINSKI"
+    },
+    {
+      "vehicleId": "kasinski-gf-125-speed-1999-gasolina",
+      "fipeCodigo": "816002-3",
+      "displayName": "KASINSKI GF 125 SPEED",
+      "valorAtual": 1588,
+      "canonicalPath": "/fipe/kasinski/gf-125-speed-1999-816002-3/",
+      "ano": 1999,
+      "marca": "KASINSKI"
+    },
+    {
+      "vehicleId": "kasinski-gf-125-speed-1998-gasolina",
+      "fipeCodigo": "816002-3",
+      "displayName": "KASINSKI GF 125 SPEED",
+      "valorAtual": 1541,
+      "canonicalPath": "/fipe/kasinski/gf-125-speed-1998-816002-3/",
+      "ano": 1998,
+      "marca": "KASINSKI"
+    },
+    {
+      "vehicleId": "kasinski-gf-125-speed-1997-gasolina",
+      "fipeCodigo": "816002-3",
+      "displayName": "KASINSKI GF 125 SPEED",
+      "valorAtual": 1467,
+      "canonicalPath": "/fipe/kasinski/gf-125-speed-1997-816002-3/",
+      "ano": 1997,
+      "marca": "KASINSKI"
+    }
+  ],
+  "stats": {
+    "total": 9,
+    "precoMin": 1467,
+    "precoMax": 2277,
+    "anos": [
+      2005,
+      2004,
+      2003,
+      2002,
+      2001,
+      2000,
+      1999,
+      1998,
+      1997
+    ]
+  }
+}

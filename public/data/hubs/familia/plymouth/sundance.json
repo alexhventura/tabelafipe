@@ -1,0 +1,42 @@
+{
+  "tipo": "familia",
+  "slug": "sundance",
+  "canonicalPath": "/fipe/plymouth/sundance/",
+  "titulo": "Plymouth sundance - Tabela FIPE",
+  "descricao": "2 versoes e anos do Plymouth sundance na Tabela FIPE.",
+  "seo": {
+    "title": "Plymouth sundance - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes Plymouth sundance. 2 veiculos indexados.",
+    "h1": "Plymouth sundance - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/plymouth/sundance/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "plymouth-sundance-2-5-1993-gasolina",
+      "fipeCodigo": "050002-0",
+      "displayName": "Plymouth Sundance 2.5",
+      "valorAtual": 6492,
+      "canonicalPath": "/fipe/plymouth/sundance-2-5-1993-050002-0/",
+      "ano": 1993,
+      "marca": "Plymouth"
+    },
+    {
+      "vehicleId": "plymouth-sundance-2-5-1992-gasolina",
+      "fipeCodigo": "050002-0",
+      "displayName": "Plymouth Sundance 2.5",
+      "valorAtual": 5200,
+      "canonicalPath": "/fipe/plymouth/sundance-2-5-1992-050002-0/",
+      "ano": 1992,
+      "marca": "Plymouth"
+    }
+  ],
+  "stats": {
+    "total": 2,
+    "precoMin": 5200,
+    "precoMax": 6492,
+    "anos": [
+      1993,
+      1992
+    ]
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "tipo": "geracao",
+  "slug": "dy250-1",
+  "canonicalPath": "/geracao/dayang/dy250-1/",
+  "titulo": "Geracao dy250-1",
+  "descricao": "4 veiculos da geracao dy250-1.",
+  "seo": {
+    "title": "Geracao dy250-1 - Precos FIPE",
+    "description": "Veiculos da geracao dy250-1 na Tabela FIPE.",
+    "h1": "Geracao dy250-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/dayang/dy250-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "dayang-dy250-rev-2014-gasolina",
+      "fipeCodigo": "857013-2",
+      "displayName": "DAYANG DY250 REV",
+      "valorAtual": 5966,
+      "canonicalPath": "/fipe/dayang/dy250-rev-2014-857013-2/",
+      "ano": 2014,
+      "marca": "DAYANG"
+    },
+    {
+      "vehicleId": "dayang-dy250-rev-2015-gasolina",
+      "fipeCodigo": "857013-2",
+      "displayName": "DAYANG DY250 REV",
+      "valorAtual": 7090,
+      "canonicalPath": "/fipe/dayang/dy250-rev-2015-857013-2/",
+      "ano": 2015,
+      "marca": "DAYANG"
+    },
+    {
+      "vehicleId": "dayang-dy250-thor-2014-gasolina",
+      "fipeCodigo": "857015-9",
+      "displayName": "DAYANG DY250 THOR",
+      "valorAtual": 5312,
+      "canonicalPath": "/fipe/dayang/dy250-thor-2014-857015-9/",
+      "ano": 2014,
+      "marca": "DAYANG"
+    },
+    {
+      "vehicleId": "dayang-dy250-thor-2015-gasolina",
+      "fipeCodigo": "857015-9",
+      "displayName": "DAYANG DY250 THOR",
+      "valorAtual": 6062,
+      "canonicalPath": "/fipe/dayang/dy250-thor-2015-857015-9/",
+      "ano": 2015,
+      "marca": "DAYANG"
+    }
+  ],
+  "stats": {
+    "total": 4
+  },
+  "meta": {
+    "geracaoId": "dy250-1"
+  }
+}

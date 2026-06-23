@@ -1,0 +1,66 @@
+{
+  "tipo": "geracao",
+  "slug": "quattroporte-1",
+  "canonicalPath": "/geracao/maserati/quattroporte-1/",
+  "titulo": "Geracao quattroporte-1",
+  "descricao": "5 veiculos da geracao quattroporte-1.",
+  "seo": {
+    "title": "Geracao quattroporte-1 - Precos FIPE",
+    "description": "Veiculos da geracao quattroporte-1 na Tabela FIPE.",
+    "h1": "Geracao quattroporte-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/maserati/quattroporte-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "maserati-quattroporte-evolucione-aut-1999-gasolina",
+      "fipeCodigo": "034002-2",
+      "displayName": "Maserati Quattroporte Evolucione Aut.",
+      "valorAtual": 75148,
+      "canonicalPath": "/fipe/maserati/quattroporte-evolucione-aut-1999-034002-2/",
+      "ano": 1999,
+      "marca": "Maserati"
+    },
+    {
+      "vehicleId": "maserati-quattroporte-evolucione-aut-2000-gasolina",
+      "fipeCodigo": "034002-2",
+      "displayName": "Maserati Quattroporte Evolucione Aut.",
+      "valorAtual": 77656,
+      "canonicalPath": "/fipe/maserati/quattroporte-evolucione-aut-2000-034002-2/",
+      "ano": 2000,
+      "marca": "Maserati"
+    },
+    {
+      "vehicleId": "maserati-quattroporte-evolucione-aut-2001-gasolina",
+      "fipeCodigo": "034002-2",
+      "displayName": "Maserati Quattroporte Evolucione Aut.",
+      "valorAtual": 90061,
+      "canonicalPath": "/fipe/maserati/quattroporte-evolucione-aut-2001-034002-2/",
+      "ano": 2001,
+      "marca": "Maserati"
+    },
+    {
+      "vehicleId": "maserati-quattroporte-evolucione-mec-2000-gasolina",
+      "fipeCodigo": "034010-3",
+      "displayName": "Maserati Quattroporte Evolucione Mec.",
+      "valorAtual": 65986,
+      "canonicalPath": "/fipe/maserati/quattroporte-evolucione-mec-2000-034010-3/",
+      "ano": 2000,
+      "marca": "Maserati"
+    },
+    {
+      "vehicleId": "maserati-quattroporte-evolucione-mec-2001-gasolina",
+      "fipeCodigo": "034010-3",
+      "displayName": "Maserati Quattroporte Evolucione Mec.",
+      "valorAtual": 77574,
+      "canonicalPath": "/fipe/maserati/quattroporte-evolucione-mec-2001-034010-3/",
+      "ano": 2001,
+      "marca": "Maserati"
+    }
+  ],
+  "stats": {
+    "total": 5
+  },
+  "meta": {
+    "geracaoId": "quattroporte-1"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "tipo": "geracao",
+  "slug": "jet-1",
+  "canonicalPath": "/geracao/wuyang/jet-1/",
+  "titulo": "Geracao jet-1",
+  "descricao": "3 veiculos da geracao jet-1.",
+  "seo": {
+    "title": "Geracao jet-1 - Precos FIPE",
+    "description": "Veiculos da geracao jet-1 na Tabela FIPE.",
+    "h1": "Geracao jet-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/wuyang/jet-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "wuyang-jet-50-2016-gasolina",
+      "fipeCodigo": "851008-3",
+      "displayName": "WUYANG JET+ 50",
+      "valorAtual": 4303,
+      "canonicalPath": "/fipe/wuyang/jet-50-2016-851008-3/",
+      "ano": 2016,
+      "marca": "WUYANG"
+    },
+    {
+      "vehicleId": "wuyang-jet-50-2017-gasolina",
+      "fipeCodigo": "851008-3",
+      "displayName": "WUYANG JET+ 50",
+      "valorAtual": 4411,
+      "canonicalPath": "/fipe/wuyang/jet-50-2017-851008-3/",
+      "ano": 2017,
+      "marca": "WUYANG"
+    },
+    {
+      "vehicleId": "wuyang-jet-50-2018-gasolina",
+      "fipeCodigo": "851008-3",
+      "displayName": "WUYANG JET+ 50",
+      "valorAtual": 4696,
+      "canonicalPath": "/fipe/wuyang/jet-50-2018-851008-3/",
+      "ano": 2018,
+      "marca": "WUYANG"
+    }
+  ],
+  "stats": {
+    "total": 3
+  },
+  "meta": {
+    "geracaoId": "jet-1"
+  }
+}

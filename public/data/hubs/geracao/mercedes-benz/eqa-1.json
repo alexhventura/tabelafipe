@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "eqa-1",
+  "canonicalPath": "/geracao/mercedes-benz/eqa-1/",
+  "titulo": "Geracao eqa-1",
+  "descricao": "2 veiculos da geracao eqa-1.",
+  "seo": {
+    "title": "Geracao eqa-1 - Precos FIPE",
+    "description": "Veiculos da geracao eqa-1 na Tabela FIPE.",
+    "h1": "Geracao eqa-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/mercedes-benz/eqa-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "mercedes-benz-eqa-250-eletrico-0-eletrico",
+      "fipeCodigo": "021484-1",
+      "displayName": "Mercedes-Benz EQA 250 (Elétrico)",
+      "valorAtual": 376196,
+      "canonicalPath": "/fipe/mercedes-benz/eqa-250-eletrico-0-021484-1/",
+      "ano": 0,
+      "marca": "Mercedes-Benz"
+    },
+    {
+      "vehicleId": "mercedes-benz-eqa-250-amg-line-eletrico-0-eletrico",
+      "fipeCodigo": "021538-4",
+      "displayName": "Mercedes-Benz EQA 250 AMG Line (Elétrico)",
+      "valorAtual": 399139,
+      "canonicalPath": "/fipe/mercedes-benz/eqa-250-amg-line-eletrico-0-021538-4/",
+      "ano": 0,
+      "marca": "Mercedes-Benz"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "eqa-1"
+  }
+}

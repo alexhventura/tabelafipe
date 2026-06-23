@@ -1,0 +1,75 @@
+{
+  "tipo": "geracao",
+  "slug": "taycan-1",
+  "canonicalPath": "/geracao/porsche/taycan-1/",
+  "titulo": "Geracao taycan-1",
+  "descricao": "6 veiculos da geracao taycan-1.",
+  "seo": {
+    "title": "Geracao taycan-1 - Precos FIPE",
+    "description": "Veiculos da geracao taycan-1 na Tabela FIPE.",
+    "h1": "Geracao taycan-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/porsche/taycan-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "porsche-taycan-4s-black-edition-0-eletrico",
+      "fipeCodigo": "035178-4",
+      "displayName": "Porsche Taycan 4S Black Edition",
+      "valorAtual": 1118750,
+      "canonicalPath": "/fipe/porsche/taycan-4s-black-edition-0-035178-4/",
+      "ano": 0,
+      "marca": "Porsche"
+    },
+    {
+      "vehicleId": "porsche-taycan-4s-cross-turismo-eletrico-0-eletrico",
+      "fipeCodigo": "035152-0",
+      "displayName": "Porsche Taycan 4S Cross Turismo (Elétrico)",
+      "valorAtual": 1225000,
+      "canonicalPath": "/fipe/porsche/taycan-4s-cross-turismo-eletrico-0-035152-0/",
+      "ano": 0,
+      "marca": "Porsche"
+    },
+    {
+      "vehicleId": "porsche-taycan-gts-eletrico-0-eletrico",
+      "fipeCodigo": "035142-3",
+      "displayName": "Porsche Taycan GTS (Elétrico)",
+      "valorAtual": 1262500,
+      "canonicalPath": "/fipe/porsche/taycan-gts-eletrico-0-035142-3/",
+      "ano": 0,
+      "marca": "Porsche"
+    },
+    {
+      "vehicleId": "porsche-taycan-turbo-cross-turismo-eletrico-0-eletrico",
+      "fipeCodigo": "035170-9",
+      "displayName": "Porsche Taycan Turbo Cross Turismo (Elétrico)",
+      "valorAtual": 1531250,
+      "canonicalPath": "/fipe/porsche/taycan-turbo-cross-turismo-eletrico-0-035170-9/",
+      "ano": 0,
+      "marca": "Porsche"
+    },
+    {
+      "vehicleId": "porsche-taycan-turbo-gt-eletrico-0-eletrico",
+      "fipeCodigo": "035171-7",
+      "displayName": "Porsche Taycan Turbo GT (Elétrico)",
+      "valorAtual": 1785000,
+      "canonicalPath": "/fipe/porsche/taycan-turbo-gt-eletrico-0-035171-7/",
+      "ano": 0,
+      "marca": "Porsche"
+    },
+    {
+      "vehicleId": "porsche-taycan-turbo-s-eletrico-0-eletrico",
+      "fipeCodigo": "035128-8",
+      "displayName": "Porsche Taycan Turbo S (Elétrico)",
+      "valorAtual": 1793750,
+      "canonicalPath": "/fipe/porsche/taycan-turbo-s-eletrico-0-035128-8/",
+      "ano": 0,
+      "marca": "Porsche"
+    }
+  ],
+  "stats": {
+    "total": 6
+  },
+  "meta": {
+    "geracaoId": "taycan-1"
+  }
+}

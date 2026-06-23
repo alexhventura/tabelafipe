@@ -1,0 +1,75 @@
+{
+  "tipo": "geracao",
+  "slug": "850i-1",
+  "canonicalPath": "/geracao/bmw/850i-1/",
+  "titulo": "Geracao 850i-1",
+  "descricao": "6 veiculos da geracao 850i-1.",
+  "seo": {
+    "title": "Geracao 850i-1 - Precos FIPE",
+    "description": "Veiculos da geracao 850i-1 na Tabela FIPE.",
+    "h1": "Geracao 850i-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/bmw/850i-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "bmw-850i-5-0-24v-1991-gasolina",
+      "fipeCodigo": "009013-1",
+      "displayName": "BMW 850i 5.0 24V",
+      "valorAtual": 52064,
+      "canonicalPath": "/fipe/bmw/850i-5-0-24v-1991-009013-1/",
+      "ano": 1991,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-850i-5-0-24v-1992-gasolina",
+      "fipeCodigo": "009013-1",
+      "displayName": "BMW 850i 5.0 24V",
+      "valorAtual": 53366,
+      "canonicalPath": "/fipe/bmw/850i-5-0-24v-1992-009013-1/",
+      "ano": 1992,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-850i-5-0-24v-1993-gasolina",
+      "fipeCodigo": "009013-1",
+      "displayName": "BMW 850i 5.0 24V",
+      "valorAtual": 54701,
+      "canonicalPath": "/fipe/bmw/850i-5-0-24v-1993-009013-1/",
+      "ano": 1993,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-850i-5-0-24v-1994-gasolina",
+      "fipeCodigo": "009013-1",
+      "displayName": "BMW 850i 5.0 24V",
+      "valorAtual": 56069,
+      "canonicalPath": "/fipe/bmw/850i-5-0-24v-1994-009013-1/",
+      "ano": 1994,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-850i-5-0-24v-1995-gasolina",
+      "fipeCodigo": "009013-1",
+      "displayName": "BMW 850i 5.0 24V",
+      "valorAtual": 57471,
+      "canonicalPath": "/fipe/bmw/850i-5-0-24v-1995-009013-1/",
+      "ano": 1995,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-850i-5-0-24v-1996-gasolina",
+      "fipeCodigo": "009013-1",
+      "displayName": "BMW 850i 5.0 24V",
+      "valorAtual": 58908,
+      "canonicalPath": "/fipe/bmw/850i-5-0-24v-1996-009013-1/",
+      "ano": 1996,
+      "marca": "BMW"
+    }
+  ],
+  "stats": {
+    "total": 6
+  },
+  "meta": {
+    "geracaoId": "850i-1"
+  }
+}

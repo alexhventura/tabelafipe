@@ -1,0 +1,93 @@
+{
+  "tipo": "geracao",
+  "slug": "suburban-2",
+  "canonicalPath": "/geracao/chevrolet/suburban-2/",
+  "titulo": "Geracao suburban-2",
+  "descricao": "8 veiculos da geracao suburban-2.",
+  "seo": {
+    "title": "Geracao suburban-2 - Precos FIPE",
+    "description": "Veiculos da geracao suburban-2 na Tabela FIPE.",
+    "h1": "Geracao suburban-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/chevrolet/suburban-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "chevrolet-suburban-5-7-6-5-v8-5-3-v8-2005-gasolina",
+      "fipeCodigo": "004153-0",
+      "displayName": "GM - Chevrolet Suburban 5.7/6.5 V8/5.3 V8",
+      "valorAtual": 101265,
+      "canonicalPath": "/fipe/chevrolet/suburban-5-7-6-5-v8-5-3-v8-2005-004153-0/",
+      "ano": 2005,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-suburban-5-7-6-5-v8-5-3-v8-2006-gasolina",
+      "fipeCodigo": "004153-0",
+      "displayName": "GM - Chevrolet Suburban 5.7/6.5 V8/5.3 V8",
+      "valorAtual": 123143,
+      "canonicalPath": "/fipe/chevrolet/suburban-5-7-6-5-v8-5-3-v8-2006-004153-0/",
+      "ano": 2006,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-suburban-5-7-6-5-v8-5-3-v8-2007-gasolina",
+      "fipeCodigo": "004153-0",
+      "displayName": "GM - Chevrolet Suburban 5.7/6.5 V8/5.3 V8",
+      "valorAtual": 168465,
+      "canonicalPath": "/fipe/chevrolet/suburban-5-7-6-5-v8-5-3-v8-2007-004153-0/",
+      "ano": 2007,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-suburban-5-7-6-5-v8-5-3-v8-2008-gasolina",
+      "fipeCodigo": "004153-0",
+      "displayName": "GM - Chevrolet Suburban 5.7/6.5 V8/5.3 V8",
+      "valorAtual": 172677,
+      "canonicalPath": "/fipe/chevrolet/suburban-5-7-6-5-v8-5-3-v8-2008-004153-0/",
+      "ano": 2008,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-suburban-5-7-6-5-v8-5-3-v8-2009-gasolina",
+      "fipeCodigo": "004153-0",
+      "displayName": "GM - Chevrolet Suburban 5.7/6.5 V8/5.3 V8",
+      "valorAtual": 181270,
+      "canonicalPath": "/fipe/chevrolet/suburban-5-7-6-5-v8-5-3-v8-2009-004153-0/",
+      "ano": 2009,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-suburban-5-7-6-5-v8-5-3-v8-2010-gasolina",
+      "fipeCodigo": "004153-0",
+      "displayName": "GM - Chevrolet Suburban 5.7/6.5 V8/5.3 V8",
+      "valorAtual": 206825,
+      "canonicalPath": "/fipe/chevrolet/suburban-5-7-6-5-v8-5-3-v8-2010-004153-0/",
+      "ano": 2010,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-suburban-5-7-6-5-v8-5-3-v8-2011-gasolina",
+      "fipeCodigo": "004153-0",
+      "displayName": "GM - Chevrolet Suburban 5.7/6.5 V8/5.3 V8",
+      "valorAtual": 249316,
+      "canonicalPath": "/fipe/chevrolet/suburban-5-7-6-5-v8-5-3-v8-2011-004153-0/",
+      "ano": 2011,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-suburban-5-7-6-5-v8-5-3-v8-2012-gasolina",
+      "fipeCodigo": "004153-0",
+      "displayName": "GM - Chevrolet Suburban 5.7/6.5 V8/5.3 V8",
+      "valorAtual": 264619,
+      "canonicalPath": "/fipe/chevrolet/suburban-5-7-6-5-v8-5-3-v8-2012-004153-0/",
+      "ano": 2012,
+      "marca": "GM - Chevrolet"
+    }
+  ],
+  "stats": {
+    "total": 8
+  },
+  "meta": {
+    "geracaoId": "suburban-2"
+  }
+}

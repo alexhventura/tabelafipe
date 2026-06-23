@@ -1,0 +1,79 @@
+{
+  "tipo": "familia",
+  "slug": "colt",
+  "canonicalPath": "/fipe/mitsubishi/colt/",
+  "titulo": "Mitsubishi colt - Tabela FIPE",
+  "descricao": "6 versoes e anos do Mitsubishi colt na Tabela FIPE.",
+  "seo": {
+    "title": "Mitsubishi colt - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes Mitsubishi colt. 6 veiculos indexados.",
+    "h1": "Mitsubishi colt - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/mitsubishi/colt/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "mitsubishi-colt-glxi-1997-gasolina",
+      "fipeCodigo": "022002-7",
+      "displayName": "Mitsubishi Colt GLXi",
+      "valorAtual": 12218,
+      "canonicalPath": "/fipe/mitsubishi/colt-glxi-1997-022002-7/",
+      "ano": 1997,
+      "marca": "Mitsubishi"
+    },
+    {
+      "vehicleId": "mitsubishi-colt-gti-mec-1997-gasolina",
+      "fipeCodigo": "022003-5",
+      "displayName": "Mitsubishi Colt GTi Mec",
+      "valorAtual": 12452,
+      "canonicalPath": "/fipe/mitsubishi/colt-gti-mec-1997-022003-5/",
+      "ano": 1997,
+      "marca": "Mitsubishi"
+    },
+    {
+      "vehicleId": "mitsubishi-colt-glxi-1996-gasolina",
+      "fipeCodigo": "022002-7",
+      "displayName": "Mitsubishi Colt GLXi",
+      "valorAtual": 11235,
+      "canonicalPath": "/fipe/mitsubishi/colt-glxi-1996-022002-7/",
+      "ano": 1996,
+      "marca": "Mitsubishi"
+    },
+    {
+      "vehicleId": "mitsubishi-colt-gti-mec-1996-gasolina",
+      "fipeCodigo": "022003-5",
+      "displayName": "Mitsubishi Colt GTi Mec",
+      "valorAtual": 12085,
+      "canonicalPath": "/fipe/mitsubishi/colt-gti-mec-1996-022003-5/",
+      "ano": 1996,
+      "marca": "Mitsubishi"
+    },
+    {
+      "vehicleId": "mitsubishi-colt-glxi-1995-gasolina",
+      "fipeCodigo": "022002-7",
+      "displayName": "Mitsubishi Colt GLXi",
+      "valorAtual": 9908,
+      "canonicalPath": "/fipe/mitsubishi/colt-glxi-1995-022002-7/",
+      "ano": 1995,
+      "marca": "Mitsubishi"
+    },
+    {
+      "vehicleId": "mitsubishi-colt-gti-mec-1995-gasolina",
+      "fipeCodigo": "022003-5",
+      "displayName": "Mitsubishi Colt GTi Mec",
+      "valorAtual": 11721,
+      "canonicalPath": "/fipe/mitsubishi/colt-gti-mec-1995-022003-5/",
+      "ano": 1995,
+      "marca": "Mitsubishi"
+    }
+  ],
+  "stats": {
+    "total": 6,
+    "precoMin": 9908,
+    "precoMax": 12452,
+    "anos": [
+      1997,
+      1996,
+      1995
+    ]
+  }
+}

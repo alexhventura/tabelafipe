@@ -1,0 +1,75 @@
+{
+  "tipo": "geracao",
+  "slug": "155-1",
+  "canonicalPath": "/geracao/alfa-romeo/155-1/",
+  "titulo": "Geracao 155-1",
+  "descricao": "6 veiculos da geracao 155-1.",
+  "seo": {
+    "title": "Geracao 155-1 - Precos FIPE",
+    "description": "Veiculos da geracao 155-1 na Tabela FIPE.",
+    "h1": "Geracao 155-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/alfa-romeo/155-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "alfa-romeo-155-1995-gasolina",
+      "fipeCodigo": "006003-8",
+      "displayName": "Alfa Romeo 155",
+      "valorAtual": 16476,
+      "canonicalPath": "/fipe/alfa-romeo/155-1995-006003-8/",
+      "ano": 1995,
+      "marca": "Alfa Romeo"
+    },
+    {
+      "vehicleId": "alfa-romeo-155-1996-gasolina",
+      "fipeCodigo": "006003-8",
+      "displayName": "Alfa Romeo 155",
+      "valorAtual": 18433,
+      "canonicalPath": "/fipe/alfa-romeo/155-1996-006003-8/",
+      "ano": 1996,
+      "marca": "Alfa Romeo"
+    },
+    {
+      "vehicleId": "alfa-romeo-155-1997-gasolina",
+      "fipeCodigo": "006003-8",
+      "displayName": "Alfa Romeo 155",
+      "valorAtual": 19024,
+      "canonicalPath": "/fipe/alfa-romeo/155-1997-006003-8/",
+      "ano": 1997,
+      "marca": "Alfa Romeo"
+    },
+    {
+      "vehicleId": "alfa-romeo-155-super-1995-gasolina",
+      "fipeCodigo": "006004-6",
+      "displayName": "Alfa Romeo 155 Super",
+      "valorAtual": 19262,
+      "canonicalPath": "/fipe/alfa-romeo/155-super-1995-006004-6/",
+      "ano": 1995,
+      "marca": "Alfa Romeo"
+    },
+    {
+      "vehicleId": "alfa-romeo-155-super-1996-gasolina",
+      "fipeCodigo": "006004-6",
+      "displayName": "Alfa Romeo 155 Super",
+      "valorAtual": 26390,
+      "canonicalPath": "/fipe/alfa-romeo/155-super-1996-006004-6/",
+      "ano": 1996,
+      "marca": "Alfa Romeo"
+    },
+    {
+      "vehicleId": "alfa-romeo-155-super-1997-gasolina",
+      "fipeCodigo": "006004-6",
+      "displayName": "Alfa Romeo 155 Super",
+      "valorAtual": 27050,
+      "canonicalPath": "/fipe/alfa-romeo/155-super-1997-006004-6/",
+      "ano": 1997,
+      "marca": "Alfa Romeo"
+    }
+  ],
+  "stats": {
+    "total": 6
+  },
+  "meta": {
+    "geracaoId": "155-1"
+  }
+}

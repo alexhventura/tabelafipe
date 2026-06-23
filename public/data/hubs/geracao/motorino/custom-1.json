@@ -1,0 +1,102 @@
+{
+  "tipo": "geracao",
+  "slug": "custom-1",
+  "canonicalPath": "/geracao/motorino/custom-1/",
+  "titulo": "Geracao custom-1",
+  "descricao": "9 veiculos da geracao custom-1.",
+  "seo": {
+    "title": "Geracao custom-1 - Precos FIPE",
+    "description": "Veiculos da geracao custom-1 na Tabela FIPE.",
+    "h1": "Geracao custom-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/motorino/custom-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "motorino-custom-150cc-2012-gasolina",
+      "fipeCodigo": "881004-4",
+      "displayName": "MOTORINO Custom 150cc",
+      "valorAtual": 5927,
+      "canonicalPath": "/fipe/motorino/custom-150cc-2012-881004-4/",
+      "ano": 2012,
+      "marca": "MOTORINO"
+    },
+    {
+      "vehicleId": "motorino-custom-150cc-2013-gasolina",
+      "fipeCodigo": "881004-4",
+      "displayName": "MOTORINO Custom 150cc",
+      "valorAtual": 6401,
+      "canonicalPath": "/fipe/motorino/custom-150cc-2013-881004-4/",
+      "ano": 2013,
+      "marca": "MOTORINO"
+    },
+    {
+      "vehicleId": "motorino-custom-150cc-2014-gasolina",
+      "fipeCodigo": "881004-4",
+      "displayName": "MOTORINO Custom 150cc",
+      "valorAtual": 7107,
+      "canonicalPath": "/fipe/motorino/custom-150cc-2014-881004-4/",
+      "ano": 2014,
+      "marca": "MOTORINO"
+    },
+    {
+      "vehicleId": "motorino-custom-150cc-2015-gasolina",
+      "fipeCodigo": "881004-4",
+      "displayName": "MOTORINO Custom 150cc",
+      "valorAtual": 8771,
+      "canonicalPath": "/fipe/motorino/custom-150cc-2015-881004-4/",
+      "ano": 2015,
+      "marca": "MOTORINO"
+    },
+    {
+      "vehicleId": "motorino-custom-150cc-2016-gasolina",
+      "fipeCodigo": "881004-4",
+      "displayName": "MOTORINO Custom 150cc",
+      "valorAtual": 10715,
+      "canonicalPath": "/fipe/motorino/custom-150cc-2016-881004-4/",
+      "ano": 2016,
+      "marca": "MOTORINO"
+    },
+    {
+      "vehicleId": "motorino-custom-s-150cc-2012-gasolina",
+      "fipeCodigo": "881003-6",
+      "displayName": "MOTORINO Custom S 150cc",
+      "valorAtual": 4814,
+      "canonicalPath": "/fipe/motorino/custom-s-150cc-2012-881003-6/",
+      "ano": 2012,
+      "marca": "MOTORINO"
+    },
+    {
+      "vehicleId": "motorino-custom-s-150cc-2013-gasolina",
+      "fipeCodigo": "881003-6",
+      "displayName": "MOTORINO Custom S 150cc",
+      "valorAtual": 5557,
+      "canonicalPath": "/fipe/motorino/custom-s-150cc-2013-881003-6/",
+      "ano": 2013,
+      "marca": "MOTORINO"
+    },
+    {
+      "vehicleId": "motorino-custom-s-150cc-2014-gasolina",
+      "fipeCodigo": "881003-6",
+      "displayName": "MOTORINO Custom S 150cc",
+      "valorAtual": 6545,
+      "canonicalPath": "/fipe/motorino/custom-s-150cc-2014-881003-6/",
+      "ano": 2014,
+      "marca": "MOTORINO"
+    },
+    {
+      "vehicleId": "motorino-custom-s-150cc-2015-gasolina",
+      "fipeCodigo": "881003-6",
+      "displayName": "MOTORINO Custom S 150cc",
+      "valorAtual": 7521,
+      "canonicalPath": "/fipe/motorino/custom-s-150cc-2015-881003-6/",
+      "ano": 2015,
+      "marca": "MOTORINO"
+    }
+  ],
+  "stats": {
+    "total": 9
+  },
+  "meta": {
+    "geracaoId": "custom-1"
+  }
+}

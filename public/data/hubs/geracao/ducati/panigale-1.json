@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "panigale-1",
+  "canonicalPath": "/geracao/ducati/panigale-1/",
+  "titulo": "Geracao panigale-1",
+  "descricao": "2 veiculos da geracao panigale-1.",
+  "seo": {
+    "title": "Geracao panigale-1 - Precos FIPE",
+    "description": "Veiculos da geracao panigale-1 na Tabela FIPE.",
+    "h1": "Geracao panigale-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/ducati/panigale-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "ducati-panigale-v4-0-gasolina",
+      "fipeCodigo": "808093-3",
+      "displayName": "DUCATI PANIGALE V4",
+      "valorAtual": 170126,
+      "canonicalPath": "/fipe/ducati/panigale-v4-0-808093-3/",
+      "ano": 0,
+      "marca": "DUCATI"
+    },
+    {
+      "vehicleId": "ducati-panigale-v4-s-0-gasolina",
+      "fipeCodigo": "808081-0",
+      "displayName": "DUCATI PANIGALE V4 S",
+      "valorAtual": 208713,
+      "canonicalPath": "/fipe/ducati/panigale-v4-s-0-808081-0/",
+      "ano": 0,
+      "marca": "DUCATI"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "panigale-1"
+  }
+}

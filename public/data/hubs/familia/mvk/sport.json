@@ -1,0 +1,72 @@
+{
+  "tipo": "familia",
+  "slug": "sport",
+  "canonicalPath": "/fipe/mvk/sport/",
+  "titulo": "MVK sport - Tabela FIPE",
+  "descricao": "5 versoes e anos do MVK sport na Tabela FIPE.",
+  "seo": {
+    "title": "MVK sport - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes MVK sport. 5 veiculos indexados.",
+    "h1": "MVK sport - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/mvk/sport/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "mvk-sport-150-quadriciclo-2013-gasolina",
+      "fipeCodigo": "845018-8",
+      "displayName": "MVK SPORT 150 QUADRICICLO",
+      "valorAtual": 4098,
+      "canonicalPath": "/fipe/mvk/sport-150-quadriciclo-2013-845018-8/",
+      "ano": 2013,
+      "marca": "MVK"
+    },
+    {
+      "vehicleId": "mvk-sport-150-quadriciclo-2012-gasolina",
+      "fipeCodigo": "845018-8",
+      "displayName": "MVK SPORT 150 QUADRICICLO",
+      "valorAtual": 3619,
+      "canonicalPath": "/fipe/mvk/sport-150-quadriciclo-2012-845018-8/",
+      "ano": 2012,
+      "marca": "MVK"
+    },
+    {
+      "vehicleId": "mvk-sport-150-quadriciclo-2011-gasolina",
+      "fipeCodigo": "845018-8",
+      "displayName": "MVK SPORT 150 QUADRICICLO",
+      "valorAtual": 3402,
+      "canonicalPath": "/fipe/mvk/sport-150-quadriciclo-2011-845018-8/",
+      "ano": 2011,
+      "marca": "MVK"
+    },
+    {
+      "vehicleId": "mvk-sport-150-quadriciclo-2008-gasolina",
+      "fipeCodigo": "845018-8",
+      "displayName": "MVK SPORT 150 QUADRICICLO",
+      "valorAtual": 3156,
+      "canonicalPath": "/fipe/mvk/sport-150-quadriciclo-2008-845018-8/",
+      "ano": 2008,
+      "marca": "MVK"
+    },
+    {
+      "vehicleId": "mvk-sport-150-quadriciclo-2007-gasolina",
+      "fipeCodigo": "845018-8",
+      "displayName": "MVK SPORT 150 QUADRICICLO",
+      "valorAtual": 2832,
+      "canonicalPath": "/fipe/mvk/sport-150-quadriciclo-2007-845018-8/",
+      "ano": 2007,
+      "marca": "MVK"
+    }
+  ],
+  "stats": {
+    "total": 5,
+    "precoMin": 2832,
+    "precoMax": 4098,
+    "anos": [
+      2013,
+      2012,
+      2011,
+      2008,
+      2007
+    ]
+  }
+}

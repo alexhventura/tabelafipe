@@ -1,0 +1,42 @@
+{
+  "tipo": "familia",
+  "slug": "w",
+  "canonicalPath": "/fipe/watts/w/",
+  "titulo": "WATTS w - Tabela FIPE",
+  "descricao": "2 versoes e anos do WATTS w na Tabela FIPE.",
+  "seo": {
+    "title": "WATTS w - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes WATTS w. 2 veiculos indexados.",
+    "h1": "WATTS w - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/watts/w/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "watts-w-trail-12000w-eletrica-2025-eletrico",
+      "fipeCodigo": "894005-3",
+      "displayName": "WATTS W-Trail 12000W (Elétrica)",
+      "valorAtual": 26676,
+      "canonicalPath": "/fipe/watts/w-trail-12000w-eletrica-2025-894005-3/",
+      "ano": 2025,
+      "marca": "WATTS"
+    },
+    {
+      "vehicleId": "watts-w-trail-12000w-eletrica-0-eletrico",
+      "fipeCodigo": "894005-3",
+      "displayName": "WATTS W-Trail 12000W (Elétrica)",
+      "valorAtual": 31718,
+      "canonicalPath": "/fipe/watts/w-trail-12000w-eletrica-0-894005-3/",
+      "ano": 0,
+      "marca": "WATTS"
+    }
+  ],
+  "stats": {
+    "total": 2,
+    "precoMin": 26676,
+    "precoMax": 31718,
+    "anos": [
+      2025,
+      0
+    ]
+  }
+}

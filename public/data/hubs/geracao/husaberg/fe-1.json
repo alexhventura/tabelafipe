@@ -1,0 +1,147 @@
+{
+  "tipo": "geracao",
+  "slug": "fe-1",
+  "canonicalPath": "/geracao/husaberg/fe-1/",
+  "titulo": "Geracao fe-1",
+  "descricao": "14 veiculos da geracao fe-1.",
+  "seo": {
+    "title": "Geracao fe-1 - Precos FIPE",
+    "description": "Veiculos da geracao fe-1 na Tabela FIPE.",
+    "h1": "Geracao fe-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/husaberg/fe-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "husaberg-fe-400-400cc-1999-gasolina",
+      "fipeCodigo": "835002-7",
+      "displayName": "HUSABERG FE 400 400cc",
+      "valorAtual": 8949,
+      "canonicalPath": "/fipe/husaberg/fe-400-400cc-1999-835002-7/",
+      "ano": 1999,
+      "marca": "HUSABERG"
+    },
+    {
+      "vehicleId": "husaberg-fe-400-400cc-2000-gasolina",
+      "fipeCodigo": "835002-7",
+      "displayName": "HUSABERG FE 400 400cc",
+      "valorAtual": 9432,
+      "canonicalPath": "/fipe/husaberg/fe-400-400cc-2000-835002-7/",
+      "ano": 2000,
+      "marca": "HUSABERG"
+    },
+    {
+      "vehicleId": "husaberg-fe-400-400cc-2001-gasolina",
+      "fipeCodigo": "835002-7",
+      "displayName": "HUSABERG FE 400 400cc",
+      "valorAtual": 9731,
+      "canonicalPath": "/fipe/husaberg/fe-400-400cc-2001-835002-7/",
+      "ano": 2001,
+      "marca": "HUSABERG"
+    },
+    {
+      "vehicleId": "husaberg-fe-400-400cc-2002-gasolina",
+      "fipeCodigo": "835002-7",
+      "displayName": "HUSABERG FE 400 400cc",
+      "valorAtual": 10222,
+      "canonicalPath": "/fipe/husaberg/fe-400-400cc-2002-835002-7/",
+      "ano": 2002,
+      "marca": "HUSABERG"
+    },
+    {
+      "vehicleId": "husaberg-fe-400-400cc-2003-gasolina",
+      "fipeCodigo": "835002-7",
+      "displayName": "HUSABERG FE 400 400cc",
+      "valorAtual": 10655,
+      "canonicalPath": "/fipe/husaberg/fe-400-400cc-2003-835002-7/",
+      "ano": 2003,
+      "marca": "HUSABERG"
+    },
+    {
+      "vehicleId": "husaberg-fe-501-500cc-1999-gasolina",
+      "fipeCodigo": "835001-9",
+      "displayName": "HUSABERG FE 501 500cc",
+      "valorAtual": 9070,
+      "canonicalPath": "/fipe/husaberg/fe-501-500cc-1999-835001-9/",
+      "ano": 1999,
+      "marca": "HUSABERG"
+    },
+    {
+      "vehicleId": "husaberg-fe-501-500cc-2000-gasolina",
+      "fipeCodigo": "835001-9",
+      "displayName": "HUSABERG FE 501 500cc",
+      "valorAtual": 9640,
+      "canonicalPath": "/fipe/husaberg/fe-501-500cc-2000-835001-9/",
+      "ano": 2000,
+      "marca": "HUSABERG"
+    },
+    {
+      "vehicleId": "husaberg-fe-501-500cc-2001-gasolina",
+      "fipeCodigo": "835001-9",
+      "displayName": "HUSABERG FE 501 500cc",
+      "valorAtual": 9937,
+      "canonicalPath": "/fipe/husaberg/fe-501-500cc-2001-835001-9/",
+      "ano": 2001,
+      "marca": "HUSABERG"
+    },
+    {
+      "vehicleId": "husaberg-fe-501-500cc-2002-gasolina",
+      "fipeCodigo": "835001-9",
+      "displayName": "HUSABERG FE 501 500cc",
+      "valorAtual": 10369,
+      "canonicalPath": "/fipe/husaberg/fe-501-500cc-2002-835001-9/",
+      "ano": 2002,
+      "marca": "HUSABERG"
+    },
+    {
+      "vehicleId": "husaberg-fe-501-500cc-2003-gasolina",
+      "fipeCodigo": "835001-9",
+      "displayName": "HUSABERG FE 501 500cc",
+      "valorAtual": 11260,
+      "canonicalPath": "/fipe/husaberg/fe-501-500cc-2003-835001-9/",
+      "ano": 2003,
+      "marca": "HUSABERG"
+    },
+    {
+      "vehicleId": "husqvarna-fe-350-0-gasolina",
+      "fipeCodigo": "812030-7",
+      "displayName": "HUSQVARNA FE 350",
+      "valorAtual": 89960,
+      "canonicalPath": "/fipe/husqvarna/fe-350-0-812030-7/",
+      "ano": 0,
+      "marca": "HUSQVARNA"
+    },
+    {
+      "vehicleId": "husqvarna-fe-350-heritage-0-gasolina",
+      "fipeCodigo": "812031-5",
+      "displayName": "HUSQVARNA FE 350 Heritage",
+      "valorAtual": 89794,
+      "canonicalPath": "/fipe/husqvarna/fe-350-heritage-0-812031-5/",
+      "ano": 0,
+      "marca": "HUSQVARNA"
+    },
+    {
+      "vehicleId": "husqvarna-fe-450-0-gasolina",
+      "fipeCodigo": "812037-4",
+      "displayName": "HUSQVARNA FE 450",
+      "valorAtual": 93194,
+      "canonicalPath": "/fipe/husqvarna/fe-450-0-812037-4/",
+      "ano": 0,
+      "marca": "HUSQVARNA"
+    },
+    {
+      "vehicleId": "husqvarna-fe-501-heritage-0-gasolina",
+      "fipeCodigo": "812038-2",
+      "displayName": "HUSQVARNA FE 501 Heritage",
+      "valorAtual": 89884,
+      "canonicalPath": "/fipe/husqvarna/fe-501-heritage-0-812038-2/",
+      "ano": 0,
+      "marca": "HUSQVARNA"
+    }
+  ],
+  "stats": {
+    "total": 14
+  },
+  "meta": {
+    "geracaoId": "fe-1"
+  }
+}

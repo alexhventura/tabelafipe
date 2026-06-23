@@ -1,0 +1,529 @@
+{
+  "tipo": "familia",
+  "slug": "m3",
+  "canonicalPath": "/fipe/bmw/m3/",
+  "titulo": "BMW m3 - Tabela FIPE",
+  "descricao": "53 versoes e anos do BMW m3 na Tabela FIPE.",
+  "seo": {
+    "title": "BMW m3 - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes BMW m3. 53 veiculos indexados.",
+    "h1": "BMW m3 - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/bmw/m3/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "bmw-m3-competition-m-3-0-bi-tb-510cv-2026-gasolina",
+      "fipeCodigo": "009280-0",
+      "displayName": "BMW M3 Competition M 3.0 Bi-TB 510cv",
+      "valorAtual": 807181,
+      "canonicalPath": "/fipe/bmw/m3-competition-m-3-0-bi-tb-510cv-2026-009280-0/",
+      "ano": 2026,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-m3-competition-m-track-3-0-bi-tb-2026-gasolina",
+      "fipeCodigo": "009281-9",
+      "displayName": "BMW M3 Competition M Track 3.0 Bi-TB",
+      "valorAtual": 904534,
+      "canonicalPath": "/fipe/bmw/m3-competition-m-track-3-0-bi-tb-2026-009281-9/",
+      "ano": 2026,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-m3-competition-m-3-0-bi-tb-510cv-2025-gasolina",
+      "fipeCodigo": "009280-0",
+      "displayName": "BMW M3 Competition M 3.0 Bi-TB 510cv",
+      "valorAtual": 742908,
+      "canonicalPath": "/fipe/bmw/m3-competition-m-3-0-bi-tb-510cv-2025-009280-0/",
+      "ano": 2025,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-m3-competition-m-track-3-0-bi-tb-2025-gasolina",
+      "fipeCodigo": "009281-9",
+      "displayName": "BMW M3 Competition M Track 3.0 Bi-TB",
+      "valorAtual": 774428,
+      "canonicalPath": "/fipe/bmw/m3-competition-m-track-3-0-bi-tb-2025-009281-9/",
+      "ano": 2025,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-m3-competition-m-3-0-bi-tb-510cv-2024-gasolina",
+      "fipeCodigo": "009280-0",
+      "displayName": "BMW M3 Competition M 3.0 Bi-TB 510cv",
+      "valorAtual": 650345,
+      "canonicalPath": "/fipe/bmw/m3-competition-m-3-0-bi-tb-510cv-2024-009280-0/",
+      "ano": 2024,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-m3-competition-m-track-3-0-bi-tb-2024-gasolina",
+      "fipeCodigo": "009281-9",
+      "displayName": "BMW M3 Competition M Track 3.0 Bi-TB",
+      "valorAtual": 741830,
+      "canonicalPath": "/fipe/bmw/m3-competition-m-track-3-0-bi-tb-2024-009281-9/",
+      "ano": 2024,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-m3-competition-m-3-0-bi-tb-510cv-2023-gasolina",
+      "fipeCodigo": "009280-0",
+      "displayName": "BMW M3 Competition M 3.0 Bi-TB 510cv",
+      "valorAtual": 599077,
+      "canonicalPath": "/fipe/bmw/m3-competition-m-3-0-bi-tb-510cv-2023-009280-0/",
+      "ano": 2023,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-m3-competition-m-3-0-bi-tb-510cv-2022-gasolina",
+      "fipeCodigo": "009280-0",
+      "displayName": "BMW M3 Competition M 3.0 Bi-TB 510cv",
+      "valorAtual": 545139,
+      "canonicalPath": "/fipe/bmw/m3-competition-m-3-0-bi-tb-510cv-2022-009280-0/",
+      "ano": 2022,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-m3-competition-m-3-0-bi-tb-510cv-2021-gasolina",
+      "fipeCodigo": "009280-0",
+      "displayName": "BMW M3 Competition M 3.0 Bi-TB 510cv",
+      "valorAtual": 523321,
+      "canonicalPath": "/fipe/bmw/m3-competition-m-3-0-bi-tb-510cv-2021-009280-0/",
+      "ano": 2021,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-m3-competition-m-track-3-0-bi-tb-2021-gasolina",
+      "fipeCodigo": "009281-9",
+      "displayName": "BMW M3 Competition M Track 3.0 Bi-TB",
+      "valorAtual": 532389,
+      "canonicalPath": "/fipe/bmw/m3-competition-m-track-3-0-bi-tb-2021-009281-9/",
+      "ano": 2021,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-m3-cs-sedan-3-0-bi-turbo-460cv-4p-2018-gasolina",
+      "fipeCodigo": "009242-8",
+      "displayName": "BMW M3 CS Sedan 3.0 Bi-Turbo 460cv 4p",
+      "valorAtual": 361112,
+      "canonicalPath": "/fipe/bmw/m3-cs-sedan-3-0-bi-turbo-460cv-4p-2018-009242-8/",
+      "ano": 2018,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-m3-sedan-3-0-bi-turbo-24v-4p-2018-gasolina",
+      "fipeCodigo": "009209-6",
+      "displayName": "BMW M3 Sedan 3.0 Bi-Turbo 24V 4p",
+      "valorAtual": 367572,
+      "canonicalPath": "/fipe/bmw/m3-sedan-3-0-bi-turbo-24v-4p-2018-009209-6/",
+      "ano": 2018,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-m3-sedan-3-0-bi-turbo-24v-4p-2017-gasolina",
+      "fipeCodigo": "009209-6",
+      "displayName": "BMW M3 Sedan 3.0 Bi-Turbo 24V 4p",
+      "valorAtual": 358606,
+      "canonicalPath": "/fipe/bmw/m3-sedan-3-0-bi-turbo-24v-4p-2017-009209-6/",
+      "ano": 2017,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-m3-sedan-3-0-bi-turbo-24v-4p-2016-gasolina",
+      "fipeCodigo": "009209-6",
+      "displayName": "BMW M3 Sedan 3.0 Bi-Turbo 24V 4p",
+      "valorAtual": 349859,
+      "canonicalPath": "/fipe/bmw/m3-sedan-3-0-bi-turbo-24v-4p-2016-009209-6/",
+      "ano": 2016,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-m3-sedan-3-0-bi-turbo-24v-4p-2015-gasolina",
+      "fipeCodigo": "009209-6",
+      "displayName": "BMW M3 Sedan 3.0 Bi-Turbo 24V 4p",
+      "valorAtual": 341325,
+      "canonicalPath": "/fipe/bmw/m3-sedan-3-0-bi-turbo-24v-4p-2015-009209-6/",
+      "ano": 2015,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-m3-coupe-4-0-32v-2013-gasolina",
+      "fipeCodigo": "009127-8",
+      "displayName": "BMW M3 Coupê 4.0 32V",
+      "valorAtual": 368503,
+      "canonicalPath": "/fipe/bmw/m3-coupe-4-0-32v-2013-009127-8/",
+      "ano": 2013,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-m3-sedan-4-0-32v-2012-gasolina",
+      "fipeCodigo": "009133-2",
+      "displayName": "BMW M3 Sedan 4.0 32V",
+      "valorAtual": 288665,
+      "canonicalPath": "/fipe/bmw/m3-sedan-4-0-32v-2012-009133-2/",
+      "ano": 2012,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-m3-coupe-4-0-32v-2012-gasolina",
+      "fipeCodigo": "009127-8",
+      "displayName": "BMW M3 Coupê 4.0 32V",
+      "valorAtual": 356479,
+      "canonicalPath": "/fipe/bmw/m3-coupe-4-0-32v-2012-009127-8/",
+      "ano": 2012,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-m3-sedan-4-0-32v-2011-gasolina",
+      "fipeCodigo": "009133-2",
+      "displayName": "BMW M3 Sedan 4.0 32V",
+      "valorAtual": 261874,
+      "canonicalPath": "/fipe/bmw/m3-sedan-4-0-32v-2011-009133-2/",
+      "ano": 2011,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-m3-coupe-4-0-32v-2011-gasolina",
+      "fipeCodigo": "009127-8",
+      "displayName": "BMW M3 Coupê 4.0 32V",
+      "valorAtual": 335385,
+      "canonicalPath": "/fipe/bmw/m3-coupe-4-0-32v-2011-009127-8/",
+      "ano": 2011,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-m3-sedan-4-0-32v-2010-gasolina",
+      "fipeCodigo": "009133-2",
+      "displayName": "BMW M3 Sedan 4.0 32V",
+      "valorAtual": 234331,
+      "canonicalPath": "/fipe/bmw/m3-sedan-4-0-32v-2010-009133-2/",
+      "ano": 2010,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-m3-coupe-4-0-32v-2010-gasolina",
+      "fipeCodigo": "009127-8",
+      "displayName": "BMW M3 Coupê 4.0 32V",
+      "valorAtual": 265330,
+      "canonicalPath": "/fipe/bmw/m3-coupe-4-0-32v-2010-009127-8/",
+      "ano": 2010,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-m3-cabrio-4-0-32v-2010-gasolina",
+      "fipeCodigo": "009134-0",
+      "displayName": "BMW M3 Cabrio 4.0 32V",
+      "valorAtual": 289212,
+      "canonicalPath": "/fipe/bmw/m3-cabrio-4-0-32v-2010-009134-0/",
+      "ano": 2010,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-m3-sedan-4-0-32v-2009-gasolina",
+      "fipeCodigo": "009133-2",
+      "displayName": "BMW M3 Sedan 4.0 32V",
+      "valorAtual": 226695,
+      "canonicalPath": "/fipe/bmw/m3-sedan-4-0-32v-2009-009133-2/",
+      "ano": 2009,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-m3-coupe-4-0-32v-2009-gasolina",
+      "fipeCodigo": "009127-8",
+      "displayName": "BMW M3 Coupê 4.0 32V",
+      "valorAtual": 256940,
+      "canonicalPath": "/fipe/bmw/m3-coupe-4-0-32v-2009-009127-8/",
+      "ano": 2009,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-m3-cabrio-4-0-32v-2009-gasolina",
+      "fipeCodigo": "009134-0",
+      "displayName": "BMW M3 Cabrio 4.0 32V",
+      "valorAtual": 282158,
+      "canonicalPath": "/fipe/bmw/m3-cabrio-4-0-32v-2009-009134-0/",
+      "ano": 2009,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-m3-sedan-4-0-32v-2008-gasolina",
+      "fipeCodigo": "009133-2",
+      "displayName": "BMW M3 Sedan 4.0 32V",
+      "valorAtual": 195370,
+      "canonicalPath": "/fipe/bmw/m3-sedan-4-0-32v-2008-009133-2/",
+      "ano": 2008,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-m3-coupe-4-0-32v-2008-gasolina",
+      "fipeCodigo": "009127-8",
+      "displayName": "BMW M3 Coupê 4.0 32V",
+      "valorAtual": 241496,
+      "canonicalPath": "/fipe/bmw/m3-coupe-4-0-32v-2008-009127-8/",
+      "ano": 2008,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-m3-3-2-24v-2006-gasolina",
+      "fipeCodigo": "009073-5",
+      "displayName": "BMW M3 3.2 24V",
+      "valorAtual": 109846,
+      "canonicalPath": "/fipe/bmw/m3-3-2-24v-2006-009073-5/",
+      "ano": 2006,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-m3-3-2-24v-2005-gasolina",
+      "fipeCodigo": "009073-5",
+      "displayName": "BMW M3 3.2 24V",
+      "valorAtual": 105248,
+      "canonicalPath": "/fipe/bmw/m3-3-2-24v-2005-009073-5/",
+      "ano": 2005,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-m3-3-2-24v-2004-gasolina",
+      "fipeCodigo": "009073-5",
+      "displayName": "BMW M3 3.2 24V",
+      "valorAtual": 102407,
+      "canonicalPath": "/fipe/bmw/m3-3-2-24v-2004-009073-5/",
+      "ano": 2004,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-m3-3-2-24v-2003-gasolina",
+      "fipeCodigo": "009073-5",
+      "displayName": "BMW M3 3.2 24V",
+      "valorAtual": 99680,
+      "canonicalPath": "/fipe/bmw/m3-3-2-24v-2003-009073-5/",
+      "ano": 2003,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-m3-3-2-24v-2002-gasolina",
+      "fipeCodigo": "009073-5",
+      "displayName": "BMW M3 3.2 24V",
+      "valorAtual": 93417,
+      "canonicalPath": "/fipe/bmw/m3-3-2-24v-2002-009073-5/",
+      "ano": 2002,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-m3-3-2-24v-2001-gasolina",
+      "fipeCodigo": "009073-5",
+      "displayName": "BMW M3 3.2 24V",
+      "valorAtual": 89342,
+      "canonicalPath": "/fipe/bmw/m3-3-2-24v-2001-009073-5/",
+      "ano": 2001,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-m3-3-2-24v-2000-gasolina",
+      "fipeCodigo": "009073-5",
+      "displayName": "BMW M3 3.2 24V",
+      "valorAtual": 64411,
+      "canonicalPath": "/fipe/bmw/m3-3-2-24v-2000-009073-5/",
+      "ano": 2000,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-m3-3-2-24v-1999-gasolina",
+      "fipeCodigo": "009073-5",
+      "displayName": "BMW M3 3.2 24V",
+      "valorAtual": 58582,
+      "canonicalPath": "/fipe/bmw/m3-3-2-24v-1999-009073-5/",
+      "ano": 1999,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-m3-coupe-3-0-24v-255cv-1998-gasolina",
+      "fipeCodigo": "009014-0",
+      "displayName": "BMW M3 Coupê 3.0 24V 255cv",
+      "valorAtual": 35634,
+      "canonicalPath": "/fipe/bmw/m3-coupe-3-0-24v-255cv-1998-009014-0/",
+      "ano": 1998,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-m3-3-2-24v-1998-gasolina",
+      "fipeCodigo": "009073-5",
+      "displayName": "BMW M3 3.2 24V",
+      "valorAtual": 57153,
+      "canonicalPath": "/fipe/bmw/m3-3-2-24v-1998-009073-5/",
+      "ano": 1998,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-m3-coupe-3-0-24v-255cv-1997-gasolina",
+      "fipeCodigo": "009014-0",
+      "displayName": "BMW M3 Coupê 3.0 24V 255cv",
+      "valorAtual": 34665,
+      "canonicalPath": "/fipe/bmw/m3-coupe-3-0-24v-255cv-1997-009014-0/",
+      "ano": 1997,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-m3-3-2-24v-1997-gasolina",
+      "fipeCodigo": "009073-5",
+      "displayName": "BMW M3 3.2 24V",
+      "valorAtual": 42822,
+      "canonicalPath": "/fipe/bmw/m3-3-2-24v-1997-009073-5/",
+      "ano": 1997,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-m3-coupe-3-0-24v-255cv-1996-gasolina",
+      "fipeCodigo": "009014-0",
+      "displayName": "BMW M3 Coupê 3.0 24V 255cv",
+      "valorAtual": 33717,
+      "canonicalPath": "/fipe/bmw/m3-coupe-3-0-24v-255cv-1996-009014-0/",
+      "ano": 1996,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-m3-3-2-24v-1996-gasolina",
+      "fipeCodigo": "009073-5",
+      "displayName": "BMW M3 3.2 24V",
+      "valorAtual": 35269,
+      "canonicalPath": "/fipe/bmw/m3-3-2-24v-1996-009073-5/",
+      "ano": 1996,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-m3-coupe-3-0-24v-255cv-1995-gasolina",
+      "fipeCodigo": "009014-0",
+      "displayName": "BMW M3 Coupê 3.0 24V 255cv",
+      "valorAtual": 30842,
+      "canonicalPath": "/fipe/bmw/m3-coupe-3-0-24v-255cv-1995-009014-0/",
+      "ano": 1995,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-m3-coupe-3-0-v6-24v-282cv-1995-gasolina",
+      "fipeCodigo": "009029-8",
+      "displayName": "BMW M3 Coupê 3.0 V6 24V 282cv",
+      "valorAtual": 30871,
+      "canonicalPath": "/fipe/bmw/m3-coupe-3-0-v6-24v-282cv-1995-009029-8/",
+      "ano": 1995,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-m3-cabrio-3-0-24v-1995-gasolina",
+      "fipeCodigo": "009074-3",
+      "displayName": "BMW M3 Cabrio 3.0 24V",
+      "valorAtual": 67022,
+      "canonicalPath": "/fipe/bmw/m3-cabrio-3-0-24v-1995-009074-3/",
+      "ano": 1995,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-m3-coupe-3-0-24v-255cv-1994-gasolina",
+      "fipeCodigo": "009014-0",
+      "displayName": "BMW M3 Coupê 3.0 24V 255cv",
+      "valorAtual": 28334,
+      "canonicalPath": "/fipe/bmw/m3-coupe-3-0-24v-255cv-1994-009014-0/",
+      "ano": 1994,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-m3-coupe-3-0-v6-24v-282cv-1994-gasolina",
+      "fipeCodigo": "009029-8",
+      "displayName": "BMW M3 Coupê 3.0 V6 24V 282cv",
+      "valorAtual": 28567,
+      "canonicalPath": "/fipe/bmw/m3-coupe-3-0-v6-24v-282cv-1994-009029-8/",
+      "ano": 1994,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-m3-cabrio-3-0-24v-1994-gasolina",
+      "fipeCodigo": "009074-3",
+      "displayName": "BMW M3 Cabrio 3.0 24V",
+      "valorAtual": 60706,
+      "canonicalPath": "/fipe/bmw/m3-cabrio-3-0-24v-1994-009074-3/",
+      "ano": 1994,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-m3-coupe-3-0-24v-255cv-1993-gasolina",
+      "fipeCodigo": "009014-0",
+      "displayName": "BMW M3 Coupê 3.0 24V 255cv",
+      "valorAtual": 21459,
+      "canonicalPath": "/fipe/bmw/m3-coupe-3-0-24v-255cv-1993-009014-0/",
+      "ano": 1993,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-m3-coupe-3-0-24v-255cv-1992-gasolina",
+      "fipeCodigo": "009014-0",
+      "displayName": "BMW M3 Coupê 3.0 24V 255cv",
+      "valorAtual": 17007,
+      "canonicalPath": "/fipe/bmw/m3-coupe-3-0-24v-255cv-1992-009014-0/",
+      "ano": 1992,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-m3-coupe-3-0-24v-255cv-1991-gasolina",
+      "fipeCodigo": "009014-0",
+      "displayName": "BMW M3 Coupê 3.0 24V 255cv",
+      "valorAtual": 14307,
+      "canonicalPath": "/fipe/bmw/m3-coupe-3-0-24v-255cv-1991-009014-0/",
+      "ano": 1991,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-m3-competition-m-3-0-bi-tb-510cv-0-gasolina",
+      "fipeCodigo": "009280-0",
+      "displayName": "BMW M3 Competition M 3.0 Bi-TB 510cv",
+      "valorAtual": 893972,
+      "canonicalPath": "/fipe/bmw/m3-competition-m-3-0-bi-tb-510cv-0-009280-0/",
+      "ano": 0,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-m3-competition-m-track-3-0-bi-tb-0-gasolina",
+      "fipeCodigo": "009281-9",
+      "displayName": "BMW M3 Competition M Track 3.0 Bi-TB",
+      "valorAtual": 1000804,
+      "canonicalPath": "/fipe/bmw/m3-competition-m-track-3-0-bi-tb-0-009281-9/",
+      "ano": 0,
+      "marca": "BMW"
+    }
+  ],
+  "stats": {
+    "total": 53,
+    "precoMin": 14307,
+    "precoMax": 1000804,
+    "anos": [
+      2026,
+      2025,
+      2024,
+      2023,
+      2022,
+      2021,
+      2018,
+      2017,
+      2016,
+      2015,
+      2013,
+      2012,
+      2011,
+      2010,
+      2009,
+      2008,
+      2006,
+      2005,
+      2004,
+      2003,
+      2002,
+      2001,
+      2000,
+      1999,
+      1998,
+      1997,
+      1996,
+      1995,
+      1994,
+      1993
+    ]
+  }
+}

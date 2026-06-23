@@ -1,0 +1,102 @@
+{
+  "tipo": "familia",
+  "slug": "puch",
+  "canonicalPath": "/fipe/hero/puch/",
+  "titulo": "HERO puch - Tabela FIPE",
+  "descricao": "8 versoes e anos do HERO puch na Tabela FIPE.",
+  "seo": {
+    "title": "HERO puch - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes HERO puch. 8 veiculos indexados.",
+    "h1": "HERO puch - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/hero/puch/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "hero-puch-50-2002-gasolina",
+      "fipeCodigo": "841004-6",
+      "displayName": "HERO PUCH 50",
+      "valorAtual": 1200,
+      "canonicalPath": "/fipe/hero/puch-50-2002-841004-6/",
+      "ano": 2002,
+      "marca": "HERO"
+    },
+    {
+      "vehicleId": "hero-puch-50-2001-gasolina",
+      "fipeCodigo": "841004-6",
+      "displayName": "HERO PUCH 50",
+      "valorAtual": 1147,
+      "canonicalPath": "/fipe/hero/puch-50-2001-841004-6/",
+      "ano": 2001,
+      "marca": "HERO"
+    },
+    {
+      "vehicleId": "hero-puch-50-2000-gasolina",
+      "fipeCodigo": "841004-6",
+      "displayName": "HERO PUCH 50",
+      "valorAtual": 1102,
+      "canonicalPath": "/fipe/hero/puch-50-2000-841004-6/",
+      "ano": 2000,
+      "marca": "HERO"
+    },
+    {
+      "vehicleId": "hero-puch-50-1999-gasolina",
+      "fipeCodigo": "841004-6",
+      "displayName": "HERO PUCH 50",
+      "valorAtual": 1073,
+      "canonicalPath": "/fipe/hero/puch-50-1999-841004-6/",
+      "ano": 1999,
+      "marca": "HERO"
+    },
+    {
+      "vehicleId": "hero-puch-65-1998-gasolina",
+      "fipeCodigo": "841005-4",
+      "displayName": "HERO PUCH 65",
+      "valorAtual": 1056,
+      "canonicalPath": "/fipe/hero/puch-65-1998-841005-4/",
+      "ano": 1998,
+      "marca": "HERO"
+    },
+    {
+      "vehicleId": "hero-puch-65-1997-gasolina",
+      "fipeCodigo": "841005-4",
+      "displayName": "HERO PUCH 65",
+      "valorAtual": 1029,
+      "canonicalPath": "/fipe/hero/puch-65-1997-841005-4/",
+      "ano": 1997,
+      "marca": "HERO"
+    },
+    {
+      "vehicleId": "hero-puch-65-1996-gasolina",
+      "fipeCodigo": "841005-4",
+      "displayName": "HERO PUCH 65",
+      "valorAtual": 1001,
+      "canonicalPath": "/fipe/hero/puch-65-1996-841005-4/",
+      "ano": 1996,
+      "marca": "HERO"
+    },
+    {
+      "vehicleId": "hero-puch-65-1995-gasolina",
+      "fipeCodigo": "841005-4",
+      "displayName": "HERO PUCH 65",
+      "valorAtual": 975,
+      "canonicalPath": "/fipe/hero/puch-65-1995-841005-4/",
+      "ano": 1995,
+      "marca": "HERO"
+    }
+  ],
+  "stats": {
+    "total": 8,
+    "precoMin": 975,
+    "precoMax": 1200,
+    "anos": [
+      2002,
+      2001,
+      2000,
+      1999,
+      1998,
+      1997,
+      1996,
+      1995
+    ]
+  }
+}

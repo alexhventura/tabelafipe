@@ -1,0 +1,579 @@
+{
+  "tipo": "geracao",
+  "slug": "sentra-3",
+  "canonicalPath": "/geracao/nissan/sentra-3/",
+  "titulo": "Geracao sentra-3",
+  "descricao": "62 veiculos da geracao sentra-3.",
+  "seo": {
+    "title": "Geracao sentra-3 - Precos FIPE",
+    "description": "Veiculos da geracao sentra-3 na Tabela FIPE.",
+    "h1": "Geracao sentra-3",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/nissan/sentra-3/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "nissan-sentra-2-0-2-0-flex-fuel-16v-aut-2007-gasolina",
+      "fipeCodigo": "023061-8",
+      "displayName": "Nissan Sentra 2.0/ 2.0 Flex Fuel 16V Aut.",
+      "valorAtual": 23358,
+      "canonicalPath": "/fipe/nissan/sentra-2-0-2-0-flex-fuel-16v-aut-2007-023061-8/",
+      "ano": 2007,
+      "marca": "Nissan"
+    },
+    {
+      "vehicleId": "nissan-sentra-2-0-2-0-flex-fuel-16v-aut-2008-gasolina",
+      "fipeCodigo": "023061-8",
+      "displayName": "Nissan Sentra 2.0/ 2.0 Flex Fuel 16V Aut.",
+      "valorAtual": 27159,
+      "canonicalPath": "/fipe/nissan/sentra-2-0-2-0-flex-fuel-16v-aut-2008-023061-8/",
+      "ano": 2008,
+      "marca": "Nissan"
+    },
+    {
+      "vehicleId": "nissan-sentra-2-0-2-0-flex-fuel-16v-aut-2009-gasolina",
+      "fipeCodigo": "023061-8",
+      "displayName": "Nissan Sentra 2.0/ 2.0 Flex Fuel 16V Aut.",
+      "valorAtual": 33191,
+      "canonicalPath": "/fipe/nissan/sentra-2-0-2-0-flex-fuel-16v-aut-2009-023061-8/",
+      "ano": 2009,
+      "marca": "Nissan"
+    },
+    {
+      "vehicleId": "nissan-sentra-2-0-2-0-flex-fuel-16v-aut-2010-gasolina",
+      "fipeCodigo": "023061-8",
+      "displayName": "Nissan Sentra 2.0/ 2.0 Flex Fuel 16V Aut.",
+      "valorAtual": 34021,
+      "canonicalPath": "/fipe/nissan/sentra-2-0-2-0-flex-fuel-16v-aut-2010-023061-8/",
+      "ano": 2010,
+      "marca": "Nissan"
+    },
+    {
+      "vehicleId": "nissan-sentra-2-0-2-0-flex-fuel-16v-aut-2011-gasolina",
+      "fipeCodigo": "023061-8",
+      "displayName": "Nissan Sentra 2.0/ 2.0 Flex Fuel 16V Aut.",
+      "valorAtual": 34872,
+      "canonicalPath": "/fipe/nissan/sentra-2-0-2-0-flex-fuel-16v-aut-2011-023061-8/",
+      "ano": 2011,
+      "marca": "Nissan"
+    },
+    {
+      "vehicleId": "nissan-sentra-2-0-2-0-flex-fuel-16v-aut-2012-gasolina",
+      "fipeCodigo": "023061-8",
+      "displayName": "Nissan Sentra 2.0/ 2.0 Flex Fuel 16V Aut.",
+      "valorAtual": 37632,
+      "canonicalPath": "/fipe/nissan/sentra-2-0-2-0-flex-fuel-16v-aut-2012-023061-8/",
+      "ano": 2012,
+      "marca": "Nissan"
+    },
+    {
+      "vehicleId": "nissan-sentra-2-0-2-0-flex-fuel-16v-aut-2013-gasolina",
+      "fipeCodigo": "023061-8",
+      "displayName": "Nissan Sentra 2.0/ 2.0 Flex Fuel 16V Aut.",
+      "valorAtual": 39375,
+      "canonicalPath": "/fipe/nissan/sentra-2-0-2-0-flex-fuel-16v-aut-2013-023061-8/",
+      "ano": 2013,
+      "marca": "Nissan"
+    },
+    {
+      "vehicleId": "nissan-sentra-2-0-2-0-flex-fuel-16v-mec-2008-gasolina",
+      "fipeCodigo": "023060-0",
+      "displayName": "Nissan Sentra 2.0/ 2.0 Flex Fuel 16V Mec.",
+      "valorAtual": 26078,
+      "canonicalPath": "/fipe/nissan/sentra-2-0-2-0-flex-fuel-16v-mec-2008-023060-0/",
+      "ano": 2008,
+      "marca": "Nissan"
+    },
+    {
+      "vehicleId": "nissan-sentra-2-0-2-0-flex-fuel-16v-mec-2009-gasolina",
+      "fipeCodigo": "023060-0",
+      "displayName": "Nissan Sentra 2.0/ 2.0 Flex Fuel 16V Mec.",
+      "valorAtual": 26730,
+      "canonicalPath": "/fipe/nissan/sentra-2-0-2-0-flex-fuel-16v-mec-2009-023060-0/",
+      "ano": 2009,
+      "marca": "Nissan"
+    },
+    {
+      "vehicleId": "nissan-sentra-2-0-2-0-flex-fuel-16v-mec-2010-gasolina",
+      "fipeCodigo": "023060-0",
+      "displayName": "Nissan Sentra 2.0/ 2.0 Flex Fuel 16V Mec.",
+      "valorAtual": 27694,
+      "canonicalPath": "/fipe/nissan/sentra-2-0-2-0-flex-fuel-16v-mec-2010-023060-0/",
+      "ano": 2010,
+      "marca": "Nissan"
+    },
+    {
+      "vehicleId": "nissan-sentra-2-0-2-0-flex-fuel-16v-mec-2011-gasolina",
+      "fipeCodigo": "023060-0",
+      "displayName": "Nissan Sentra 2.0/ 2.0 Flex Fuel 16V Mec.",
+      "valorAtual": 31892,
+      "canonicalPath": "/fipe/nissan/sentra-2-0-2-0-flex-fuel-16v-mec-2011-023060-0/",
+      "ano": 2011,
+      "marca": "Nissan"
+    },
+    {
+      "vehicleId": "nissan-sentra-2-0-2-0-flex-fuel-16v-mec-2012-gasolina",
+      "fipeCodigo": "023060-0",
+      "displayName": "Nissan Sentra 2.0/ 2.0 Flex Fuel 16V Mec.",
+      "valorAtual": 33993,
+      "canonicalPath": "/fipe/nissan/sentra-2-0-2-0-flex-fuel-16v-mec-2012-023060-0/",
+      "ano": 2012,
+      "marca": "Nissan"
+    },
+    {
+      "vehicleId": "nissan-sentra-2-0-2-0-flex-fuel-16v-mec-2013-gasolina",
+      "fipeCodigo": "023060-0",
+      "displayName": "Nissan Sentra 2.0/ 2.0 Flex Fuel 16V Mec.",
+      "valorAtual": 35996,
+      "canonicalPath": "/fipe/nissan/sentra-2-0-2-0-flex-fuel-16v-mec-2013-023060-0/",
+      "ano": 2013,
+      "marca": "Nissan"
+    },
+    {
+      "vehicleId": "nissan-sentra-gxe-ser-2004-gasolina",
+      "fipeCodigo": "023036-7",
+      "displayName": "Nissan Sentra GXE/ SER",
+      "valorAtual": 16278,
+      "canonicalPath": "/fipe/nissan/sentra-gxe-ser-2004-023036-7/",
+      "ano": 2004,
+      "marca": "Nissan"
+    },
+    {
+      "vehicleId": "nissan-sentra-gxe-ser-2005-gasolina",
+      "fipeCodigo": "023036-7",
+      "displayName": "Nissan Sentra GXE/ SER",
+      "valorAtual": 17192,
+      "canonicalPath": "/fipe/nissan/sentra-gxe-ser-2005-023036-7/",
+      "ano": 2005,
+      "marca": "Nissan"
+    },
+    {
+      "vehicleId": "nissan-sentra-gxe-ser-2006-gasolina",
+      "fipeCodigo": "023036-7",
+      "displayName": "Nissan Sentra GXE/ SER",
+      "valorAtual": 20140,
+      "canonicalPath": "/fipe/nissan/sentra-gxe-ser-2006-023036-7/",
+      "ano": 2006,
+      "marca": "Nissan"
+    },
+    {
+      "vehicleId": "nissan-sentra-gxe-ser-2007-gasolina",
+      "fipeCodigo": "023036-7",
+      "displayName": "Nissan Sentra GXE/ SER",
+      "valorAtual": 24426,
+      "canonicalPath": "/fipe/nissan/sentra-gxe-ser-2007-023036-7/",
+      "ano": 2007,
+      "marca": "Nissan"
+    },
+    {
+      "vehicleId": "nissan-sentra-s-2-0-flexstart-16v-aut-2017-flex",
+      "fipeCodigo": "023135-5",
+      "displayName": "Nissan Sentra S 2.0 FlexStart 16V Aut.",
+      "valorAtual": 63208,
+      "canonicalPath": "/fipe/nissan/sentra-s-2-0-flexstart-16v-aut-2017-023135-5/",
+      "ano": 2017,
+      "marca": "Nissan"
+    },
+    {
+      "vehicleId": "nissan-sentra-s-2-0-flexstart-16v-aut-2018-flex",
+      "fipeCodigo": "023135-5",
+      "displayName": "Nissan Sentra S 2.0 FlexStart 16V Aut.",
+      "valorAtual": 64789,
+      "canonicalPath": "/fipe/nissan/sentra-s-2-0-flexstart-16v-aut-2018-023135-5/",
+      "ano": 2018,
+      "marca": "Nissan"
+    },
+    {
+      "vehicleId": "nissan-sentra-s-2-0-flexstart-16v-aut-2019-flex",
+      "fipeCodigo": "023135-5",
+      "displayName": "Nissan Sentra S 2.0 FlexStart 16V Aut.",
+      "valorAtual": 71042,
+      "canonicalPath": "/fipe/nissan/sentra-s-2-0-flexstart-16v-aut-2019-023135-5/",
+      "ano": 2019,
+      "marca": "Nissan"
+    },
+    {
+      "vehicleId": "nissan-sentra-s-2-0-flexstart-16v-aut-2020-flex",
+      "fipeCodigo": "023135-5",
+      "displayName": "Nissan Sentra S 2.0 FlexStart 16V Aut.",
+      "valorAtual": 75830,
+      "canonicalPath": "/fipe/nissan/sentra-s-2-0-flexstart-16v-aut-2020-023135-5/",
+      "ano": 2020,
+      "marca": "Nissan"
+    },
+    {
+      "vehicleId": "nissan-sentra-s-2-0-2-0-flex-fuel-16v-aut-2008-gasolina",
+      "fipeCodigo": "023063-4",
+      "displayName": "Nissan Sentra S 2.0/ 2.0 Flex Fuel 16V Aut.",
+      "valorAtual": 27592,
+      "canonicalPath": "/fipe/nissan/sentra-s-2-0-2-0-flex-fuel-16v-aut-2008-023063-4/",
+      "ano": 2008,
+      "marca": "Nissan"
+    },
+    {
+      "vehicleId": "nissan-sentra-s-2-0-2-0-flex-fuel-16v-aut-2009-gasolina",
+      "fipeCodigo": "023063-4",
+      "displayName": "Nissan Sentra S 2.0/ 2.0 Flex Fuel 16V Aut.",
+      "valorAtual": 33201,
+      "canonicalPath": "/fipe/nissan/sentra-s-2-0-2-0-flex-fuel-16v-aut-2009-023063-4/",
+      "ano": 2009,
+      "marca": "Nissan"
+    },
+    {
+      "vehicleId": "nissan-sentra-s-2-0-2-0-flex-fuel-16v-aut-2010-gasolina",
+      "fipeCodigo": "023063-4",
+      "displayName": "Nissan Sentra S 2.0/ 2.0 Flex Fuel 16V Aut.",
+      "valorAtual": 34399,
+      "canonicalPath": "/fipe/nissan/sentra-s-2-0-2-0-flex-fuel-16v-aut-2010-023063-4/",
+      "ano": 2010,
+      "marca": "Nissan"
+    },
+    {
+      "vehicleId": "nissan-sentra-s-2-0-2-0-flex-fuel-16v-aut-2011-gasolina",
+      "fipeCodigo": "023063-4",
+      "displayName": "Nissan Sentra S 2.0/ 2.0 Flex Fuel 16V Aut.",
+      "valorAtual": 35259,
+      "canonicalPath": "/fipe/nissan/sentra-s-2-0-2-0-flex-fuel-16v-aut-2011-023063-4/",
+      "ano": 2011,
+      "marca": "Nissan"
+    },
+    {
+      "vehicleId": "nissan-sentra-s-2-0-2-0-flex-fuel-16v-aut-2012-gasolina",
+      "fipeCodigo": "023063-4",
+      "displayName": "Nissan Sentra S 2.0/ 2.0 Flex Fuel 16V Aut.",
+      "valorAtual": 37632,
+      "canonicalPath": "/fipe/nissan/sentra-s-2-0-2-0-flex-fuel-16v-aut-2012-023063-4/",
+      "ano": 2012,
+      "marca": "Nissan"
+    },
+    {
+      "vehicleId": "nissan-sentra-s-2-0-2-0-flex-fuel-16v-aut-2013-gasolina",
+      "fipeCodigo": "023063-4",
+      "displayName": "Nissan Sentra S 2.0/ 2.0 Flex Fuel 16V Aut.",
+      "valorAtual": 39379,
+      "canonicalPath": "/fipe/nissan/sentra-s-2-0-2-0-flex-fuel-16v-aut-2013-023063-4/",
+      "ano": 2013,
+      "marca": "Nissan"
+    },
+    {
+      "vehicleId": "nissan-sentra-s-2-0-2-0-flex-fuel-16v-mec-2007-gasolina",
+      "fipeCodigo": "023062-6",
+      "displayName": "Nissan Sentra S 2.0/ 2.0 Flex Fuel 16V Mec.",
+      "valorAtual": 24055,
+      "canonicalPath": "/fipe/nissan/sentra-s-2-0-2-0-flex-fuel-16v-mec-2007-023062-6/",
+      "ano": 2007,
+      "marca": "Nissan"
+    },
+    {
+      "vehicleId": "nissan-sentra-s-2-0-2-0-flex-fuel-16v-mec-2008-gasolina",
+      "fipeCodigo": "023062-6",
+      "displayName": "Nissan Sentra S 2.0/ 2.0 Flex Fuel 16V Mec.",
+      "valorAtual": 27197,
+      "canonicalPath": "/fipe/nissan/sentra-s-2-0-2-0-flex-fuel-16v-mec-2008-023062-6/",
+      "ano": 2008,
+      "marca": "Nissan"
+    },
+    {
+      "vehicleId": "nissan-sentra-s-2-0-2-0-flex-fuel-16v-mec-2009-gasolina",
+      "fipeCodigo": "023062-6",
+      "displayName": "Nissan Sentra S 2.0/ 2.0 Flex Fuel 16V Mec.",
+      "valorAtual": 27877,
+      "canonicalPath": "/fipe/nissan/sentra-s-2-0-2-0-flex-fuel-16v-mec-2009-023062-6/",
+      "ano": 2009,
+      "marca": "Nissan"
+    },
+    {
+      "vehicleId": "nissan-sentra-s-2-0-2-0-flex-fuel-16v-mec-2010-gasolina",
+      "fipeCodigo": "023062-6",
+      "displayName": "Nissan Sentra S 2.0/ 2.0 Flex Fuel 16V Mec.",
+      "valorAtual": 28649,
+      "canonicalPath": "/fipe/nissan/sentra-s-2-0-2-0-flex-fuel-16v-mec-2010-023062-6/",
+      "ano": 2010,
+      "marca": "Nissan"
+    },
+    {
+      "vehicleId": "nissan-sentra-s-2-0-2-0-flex-fuel-16v-mec-2012-gasolina",
+      "fipeCodigo": "023062-6",
+      "displayName": "Nissan Sentra S 2.0/ 2.0 Flex Fuel 16V Mec.",
+      "valorAtual": 34472,
+      "canonicalPath": "/fipe/nissan/sentra-s-2-0-2-0-flex-fuel-16v-mec-2012-023062-6/",
+      "ano": 2012,
+      "marca": "Nissan"
+    },
+    {
+      "vehicleId": "nissan-sentra-s-2-0-2-0-flex-fuel-16v-mec-2013-gasolina",
+      "fipeCodigo": "023062-6",
+      "displayName": "Nissan Sentra S 2.0/ 2.0 Flex Fuel 16V Mec.",
+      "valorAtual": 36161,
+      "canonicalPath": "/fipe/nissan/sentra-s-2-0-2-0-flex-fuel-16v-mec-2013-023062-6/",
+      "ano": 2013,
+      "marca": "Nissan"
+    },
+    {
+      "vehicleId": "nissan-sentra-s-2-0-2-0-flex-fuel-16v-mec-2014-gasolina",
+      "fipeCodigo": "023062-6",
+      "displayName": "Nissan Sentra S 2.0/ 2.0 Flex Fuel 16V Mec.",
+      "valorAtual": 48421,
+      "canonicalPath": "/fipe/nissan/sentra-s-2-0-2-0-flex-fuel-16v-mec-2014-023062-6/",
+      "ano": 2014,
+      "marca": "Nissan"
+    },
+    {
+      "vehicleId": "nissan-sentra-s-2-0-2-0-flex-fuel-16v-mec-2015-gasolina",
+      "fipeCodigo": "023062-6",
+      "displayName": "Nissan Sentra S 2.0/ 2.0 Flex Fuel 16V Mec.",
+      "valorAtual": 55802,
+      "canonicalPath": "/fipe/nissan/sentra-s-2-0-2-0-flex-fuel-16v-mec-2015-023062-6/",
+      "ano": 2015,
+      "marca": "Nissan"
+    },
+    {
+      "vehicleId": "nissan-sentra-s-2-0-2-0-flex-fuel-16v-mec-2016-gasolina",
+      "fipeCodigo": "023062-6",
+      "displayName": "Nissan Sentra S 2.0/ 2.0 Flex Fuel 16V Mec.",
+      "valorAtual": 57198,
+      "canonicalPath": "/fipe/nissan/sentra-s-2-0-2-0-flex-fuel-16v-mec-2016-023062-6/",
+      "ano": 2016,
+      "marca": "Nissan"
+    },
+    {
+      "vehicleId": "nissan-sentra-se-2-0-flex-16v-aut-2013-flex",
+      "fipeCodigo": "023115-0",
+      "displayName": "Nissan Sentra SE 2.0 Flex 16V Aut.",
+      "valorAtual": 38250,
+      "canonicalPath": "/fipe/nissan/sentra-se-2-0-flex-16v-aut-2013-023115-0/",
+      "ano": 2013,
+      "marca": "Nissan"
+    },
+    {
+      "vehicleId": "nissan-sentra-sl-2-0-flexstart-16v-aut-2017-flex",
+      "fipeCodigo": "023136-3",
+      "displayName": "Nissan Sentra SL 2.0 FlexStart 16V Aut.",
+      "valorAtual": 74432,
+      "canonicalPath": "/fipe/nissan/sentra-sl-2-0-flexstart-16v-aut-2017-023136-3/",
+      "ano": 2017,
+      "marca": "Nissan"
+    },
+    {
+      "vehicleId": "nissan-sentra-sl-2-0-flexstart-16v-aut-2018-flex",
+      "fipeCodigo": "023136-3",
+      "displayName": "Nissan Sentra SL 2.0 FlexStart 16V Aut.",
+      "valorAtual": 81027,
+      "canonicalPath": "/fipe/nissan/sentra-sl-2-0-flexstart-16v-aut-2018-023136-3/",
+      "ano": 2018,
+      "marca": "Nissan"
+    },
+    {
+      "vehicleId": "nissan-sentra-sl-2-0-flexstart-16v-aut-2019-flex",
+      "fipeCodigo": "023136-3",
+      "displayName": "Nissan Sentra SL 2.0 FlexStart 16V Aut.",
+      "valorAtual": 84321,
+      "canonicalPath": "/fipe/nissan/sentra-sl-2-0-flexstart-16v-aut-2019-023136-3/",
+      "ano": 2019,
+      "marca": "Nissan"
+    },
+    {
+      "vehicleId": "nissan-sentra-sl-2-0-flexstart-16v-aut-2020-flex",
+      "fipeCodigo": "023136-3",
+      "displayName": "Nissan Sentra SL 2.0 FlexStart 16V Aut.",
+      "valorAtual": 86430,
+      "canonicalPath": "/fipe/nissan/sentra-sl-2-0-flexstart-16v-aut-2020-023136-3/",
+      "ano": 2020,
+      "marca": "Nissan"
+    },
+    {
+      "vehicleId": "nissan-sentra-sl-2-0-2-0-flex-fuel-16v-aut-2007-gasolina",
+      "fipeCodigo": "023064-2",
+      "displayName": "Nissan Sentra SL 2.0/ 2.0 Flex Fuel 16V Aut.",
+      "valorAtual": 24814,
+      "canonicalPath": "/fipe/nissan/sentra-sl-2-0-2-0-flex-fuel-16v-aut-2007-023064-2/",
+      "ano": 2007,
+      "marca": "Nissan"
+    },
+    {
+      "vehicleId": "nissan-sentra-sl-2-0-2-0-flex-fuel-16v-aut-2008-gasolina",
+      "fipeCodigo": "023064-2",
+      "displayName": "Nissan Sentra SL 2.0/ 2.0 Flex Fuel 16V Aut.",
+      "valorAtual": 28025,
+      "canonicalPath": "/fipe/nissan/sentra-sl-2-0-2-0-flex-fuel-16v-aut-2008-023064-2/",
+      "ano": 2008,
+      "marca": "Nissan"
+    },
+    {
+      "vehicleId": "nissan-sentra-sl-2-0-2-0-flex-fuel-16v-aut-2009-gasolina",
+      "fipeCodigo": "023064-2",
+      "displayName": "Nissan Sentra SL 2.0/ 2.0 Flex Fuel 16V Aut.",
+      "valorAtual": 34507,
+      "canonicalPath": "/fipe/nissan/sentra-sl-2-0-2-0-flex-fuel-16v-aut-2009-023064-2/",
+      "ano": 2009,
+      "marca": "Nissan"
+    },
+    {
+      "vehicleId": "nissan-sentra-sl-2-0-2-0-flex-fuel-16v-aut-2010-gasolina",
+      "fipeCodigo": "023064-2",
+      "displayName": "Nissan Sentra SL 2.0/ 2.0 Flex Fuel 16V Aut.",
+      "valorAtual": 36128,
+      "canonicalPath": "/fipe/nissan/sentra-sl-2-0-2-0-flex-fuel-16v-aut-2010-023064-2/",
+      "ano": 2010,
+      "marca": "Nissan"
+    },
+    {
+      "vehicleId": "nissan-sentra-sl-2-0-2-0-flex-fuel-16v-aut-2011-gasolina",
+      "fipeCodigo": "023064-2",
+      "displayName": "Nissan Sentra SL 2.0/ 2.0 Flex Fuel 16V Aut.",
+      "valorAtual": 37032,
+      "canonicalPath": "/fipe/nissan/sentra-sl-2-0-2-0-flex-fuel-16v-aut-2011-023064-2/",
+      "ano": 2011,
+      "marca": "Nissan"
+    },
+    {
+      "vehicleId": "nissan-sentra-sl-2-0-2-0-flex-fuel-16v-aut-2012-gasolina",
+      "fipeCodigo": "023064-2",
+      "displayName": "Nissan Sentra SL 2.0/ 2.0 Flex Fuel 16V Aut.",
+      "valorAtual": 38656,
+      "canonicalPath": "/fipe/nissan/sentra-sl-2-0-2-0-flex-fuel-16v-aut-2012-023064-2/",
+      "ano": 2012,
+      "marca": "Nissan"
+    },
+    {
+      "vehicleId": "nissan-sentra-sl-2-0-2-0-flex-fuel-16v-aut-2013-gasolina",
+      "fipeCodigo": "023064-2",
+      "displayName": "Nissan Sentra SL 2.0/ 2.0 Flex Fuel 16V Aut.",
+      "valorAtual": 41067,
+      "canonicalPath": "/fipe/nissan/sentra-sl-2-0-2-0-flex-fuel-16v-aut-2013-023064-2/",
+      "ano": 2013,
+      "marca": "Nissan"
+    },
+    {
+      "vehicleId": "nissan-sentra-sl-2-0-2-0-flex-fuel-16v-aut-2014-gasolina",
+      "fipeCodigo": "023064-2",
+      "displayName": "Nissan Sentra SL 2.0/ 2.0 Flex Fuel 16V Aut.",
+      "valorAtual": 57453,
+      "canonicalPath": "/fipe/nissan/sentra-sl-2-0-2-0-flex-fuel-16v-aut-2014-023064-2/",
+      "ano": 2014,
+      "marca": "Nissan"
+    },
+    {
+      "vehicleId": "nissan-sentra-sl-2-0-2-0-flex-fuel-16v-aut-2015-gasolina",
+      "fipeCodigo": "023064-2",
+      "displayName": "Nissan Sentra SL 2.0/ 2.0 Flex Fuel 16V Aut.",
+      "valorAtual": 58890,
+      "canonicalPath": "/fipe/nissan/sentra-sl-2-0-2-0-flex-fuel-16v-aut-2015-023064-2/",
+      "ano": 2015,
+      "marca": "Nissan"
+    },
+    {
+      "vehicleId": "nissan-sentra-sl-2-0-2-0-flex-fuel-16v-aut-2016-gasolina",
+      "fipeCodigo": "023064-2",
+      "displayName": "Nissan Sentra SL 2.0/ 2.0 Flex Fuel 16V Aut.",
+      "valorAtual": 60363,
+      "canonicalPath": "/fipe/nissan/sentra-sl-2-0-2-0-flex-fuel-16v-aut-2016-023064-2/",
+      "ano": 2016,
+      "marca": "Nissan"
+    },
+    {
+      "vehicleId": "nissan-sentra-sr-2-0-flex-fuel-16v-aut-2012-flex",
+      "fipeCodigo": "023106-1",
+      "displayName": "Nissan Sentra SR 2.0 Flex Fuel 16V Aut.",
+      "valorAtual": 36775,
+      "canonicalPath": "/fipe/nissan/sentra-sr-2-0-flex-fuel-16v-aut-2012-023106-1/",
+      "ano": 2012,
+      "marca": "Nissan"
+    },
+    {
+      "vehicleId": "nissan-sentra-sr-2-0-flex-fuel-16v-mec-2012-flex",
+      "fipeCodigo": "023107-0",
+      "displayName": "Nissan Sentra SR 2.0 Flex Fuel 16V Mec.",
+      "valorAtual": 33949,
+      "canonicalPath": "/fipe/nissan/sentra-sr-2-0-flex-fuel-16v-mec-2012-023107-0/",
+      "ano": 2012,
+      "marca": "Nissan"
+    },
+    {
+      "vehicleId": "nissan-sentra-sv-2-0-flexstart-16v-aut-2014-flex",
+      "fipeCodigo": "023123-1",
+      "displayName": "Nissan Sentra SV 2.0 FlexStart 16V Aut.",
+      "valorAtual": 50854,
+      "canonicalPath": "/fipe/nissan/sentra-sv-2-0-flexstart-16v-aut-2014-023123-1/",
+      "ano": 2014,
+      "marca": "Nissan"
+    },
+    {
+      "vehicleId": "nissan-sentra-sv-2-0-flexstart-16v-aut-2015-flex",
+      "fipeCodigo": "023123-1",
+      "displayName": "Nissan Sentra SV 2.0 FlexStart 16V Aut.",
+      "valorAtual": 52126,
+      "canonicalPath": "/fipe/nissan/sentra-sv-2-0-flexstart-16v-aut-2015-023123-1/",
+      "ano": 2015,
+      "marca": "Nissan"
+    },
+    {
+      "vehicleId": "nissan-sentra-sv-2-0-flexstart-16v-aut-2016-flex",
+      "fipeCodigo": "023123-1",
+      "displayName": "Nissan Sentra SV 2.0 FlexStart 16V Aut.",
+      "valorAtual": 53601,
+      "canonicalPath": "/fipe/nissan/sentra-sv-2-0-flexstart-16v-aut-2016-023123-1/",
+      "ano": 2016,
+      "marca": "Nissan"
+    },
+    {
+      "vehicleId": "nissan-sentra-sv-2-0-flexstart-16v-aut-2017-flex",
+      "fipeCodigo": "023123-1",
+      "displayName": "Nissan Sentra SV 2.0 FlexStart 16V Aut.",
+      "valorAtual": 67609,
+      "canonicalPath": "/fipe/nissan/sentra-sv-2-0-flexstart-16v-aut-2017-023123-1/",
+      "ano": 2017,
+      "marca": "Nissan"
+    },
+    {
+      "vehicleId": "nissan-sentra-sv-2-0-flexstart-16v-aut-2018-flex",
+      "fipeCodigo": "023123-1",
+      "displayName": "Nissan Sentra SV 2.0 FlexStart 16V Aut.",
+      "valorAtual": 69300,
+      "canonicalPath": "/fipe/nissan/sentra-sv-2-0-flexstart-16v-aut-2018-023123-1/",
+      "ano": 2018,
+      "marca": "Nissan"
+    },
+    {
+      "vehicleId": "nissan-sentra-sv-2-0-flexstart-16v-aut-2019-flex",
+      "fipeCodigo": "023123-1",
+      "displayName": "Nissan Sentra SV 2.0 FlexStart 16V Aut.",
+      "valorAtual": 71367,
+      "canonicalPath": "/fipe/nissan/sentra-sv-2-0-flexstart-16v-aut-2019-023123-1/",
+      "ano": 2019,
+      "marca": "Nissan"
+    },
+    {
+      "vehicleId": "nissan-sentra-sv-2-0-flexstart-16v-aut-2020-flex",
+      "fipeCodigo": "023123-1",
+      "displayName": "Nissan Sentra SV 2.0 FlexStart 16V Aut.",
+      "valorAtual": 76042,
+      "canonicalPath": "/fipe/nissan/sentra-sv-2-0-flexstart-16v-aut-2020-023123-1/",
+      "ano": 2020,
+      "marca": "Nissan"
+    },
+    {
+      "vehicleId": "nissan-sentra-unique-2-0-flex-fuel-16v-aut-2012-flex",
+      "fipeCodigo": "023103-7",
+      "displayName": "Nissan Sentra UNIQUE 2.0 Flex Fuel 16V Aut.",
+      "valorAtual": 39256,
+      "canonicalPath": "/fipe/nissan/sentra-unique-2-0-flex-fuel-16v-aut-2012-023103-7/",
+      "ano": 2012,
+      "marca": "Nissan"
+    },
+    {
+      "vehicleId": "nissan-sentra-unique-2-0-flex-fuel-16v-aut-2016-flex",
+      "fipeCodigo": "023103-7",
+      "displayName": "Nissan Sentra UNIQUE 2.0 Flex Fuel 16V Aut.",
+      "valorAtual": 64874,
+      "canonicalPath": "/fipe/nissan/sentra-unique-2-0-flex-fuel-16v-aut-2016-023103-7/",
+      "ano": 2016,
+      "marca": "Nissan"
+    }
+  ],
+  "stats": {
+    "total": 62
+  },
+  "meta": {
+    "geracaoId": "sentra-3"
+  }
+}

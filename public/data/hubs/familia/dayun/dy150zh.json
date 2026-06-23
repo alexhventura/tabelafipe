@@ -1,0 +1,42 @@
+{
+  "tipo": "familia",
+  "slug": "dy150zh",
+  "canonicalPath": "/fipe/dayun/dy150zh/",
+  "titulo": "DAYUN dy150zh - Tabela FIPE",
+  "descricao": "2 versoes e anos do DAYUN dy150zh na Tabela FIPE.",
+  "seo": {
+    "title": "DAYUN dy150zh - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes DAYUN dy150zh. 2 veiculos indexados.",
+    "h1": "DAYUN dy150zh - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/dayun/dy150zh/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "dayun-dy150zh-triciclo-carga-2010-gasolina",
+      "fipeCodigo": "860007-4",
+      "displayName": "DAYUN DY150ZH   (triciclo carga)",
+      "valorAtual": 5487,
+      "canonicalPath": "/fipe/dayun/dy150zh-triciclo-carga-2010-860007-4/",
+      "ano": 2010,
+      "marca": "DAYUN"
+    },
+    {
+      "vehicleId": "dayun-dy150zh-triciclo-carga-2008-gasolina",
+      "fipeCodigo": "860007-4",
+      "displayName": "DAYUN DY150ZH   (triciclo carga)",
+      "valorAtual": 4292,
+      "canonicalPath": "/fipe/dayun/dy150zh-triciclo-carga-2008-860007-4/",
+      "ano": 2008,
+      "marca": "DAYUN"
+    }
+  ],
+  "stats": {
+    "total": 2,
+    "precoMin": 4292,
+    "precoMax": 5487,
+    "anos": [
+      2010,
+      2008
+    ]
+  }
+}

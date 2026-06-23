@@ -1,0 +1,42 @@
+{
+  "tipo": "familia",
+  "slug": "brx",
+  "canonicalPath": "/fipe/mvk/brx/",
+  "titulo": "MVK brx - Tabela FIPE",
+  "descricao": "2 versoes e anos do MVK brx na Tabela FIPE.",
+  "seo": {
+    "title": "MVK brx - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes MVK brx. 2 veiculos indexados.",
+    "h1": "MVK brx - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/mvk/brx/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "mvk-brx-140-2011-gasolina",
+      "fipeCodigo": "845020-0",
+      "displayName": "MVK BRX 140",
+      "valorAtual": 1804,
+      "canonicalPath": "/fipe/mvk/brx-140-2011-845020-0/",
+      "ano": 2011,
+      "marca": "MVK"
+    },
+    {
+      "vehicleId": "mvk-brx-140-2008-gasolina",
+      "fipeCodigo": "845020-0",
+      "displayName": "MVK BRX 140",
+      "valorAtual": 1728,
+      "canonicalPath": "/fipe/mvk/brx-140-2008-845020-0/",
+      "ano": 2008,
+      "marca": "MVK"
+    }
+  ],
+  "stats": {
+    "total": 2,
+    "precoMin": 1728,
+    "precoMax": 1804,
+    "anos": [
+      2011,
+      2008
+    ]
+  }
+}

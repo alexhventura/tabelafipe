@@ -1,0 +1,129 @@
+{
+  "tipo": "geracao",
+  "slug": "14-3",
+  "canonicalPath": "/geracao/volkswagen/14-3/",
+  "titulo": "Geracao 14-3",
+  "descricao": "12 veiculos da geracao 14-3.",
+  "seo": {
+    "title": "Geracao 14-3 - Precos FIPE",
+    "description": "Veiculos da geracao 14-3 na Tabela FIPE.",
+    "h1": "Geracao 14-3",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/volkswagen/14-3/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "volkswagen-14-180-delivery-6x2-2p-e6-2027-diesel",
+      "fipeCodigo": "515208-9",
+      "displayName": "VOLKSWAGEN 14-180 Delivery 6x2 2p (E6)",
+      "valorAtual": 414750,
+      "canonicalPath": "/fipe/volkswagen/14-180-delivery-6x2-2p-e6-2027-515208-9/",
+      "ano": 2027,
+      "marca": "VOLKSWAGEN"
+    },
+    {
+      "vehicleId": "volkswagen-14-190-constellation-2p-diesel-e5-2021-diesel",
+      "fipeCodigo": "515175-9",
+      "displayName": "VOLKSWAGEN 14-190 Constellation 2p (diesel)(E5)",
+      "valorAtual": 332974,
+      "canonicalPath": "/fipe/volkswagen/14-190-constellation-2p-diesel-e5-2021-515175-9/",
+      "ano": 2021,
+      "marca": "VOLKSWAGEN"
+    },
+    {
+      "vehicleId": "volkswagen-14-190-constellation-2p-diesel-e5-2022-diesel",
+      "fipeCodigo": "515175-9",
+      "displayName": "VOLKSWAGEN 14-190 Constellation 2p (diesel)(E5)",
+      "valorAtual": 353142,
+      "canonicalPath": "/fipe/volkswagen/14-190-constellation-2p-diesel-e5-2022-515175-9/",
+      "ano": 2022,
+      "marca": "VOLKSWAGEN"
+    },
+    {
+      "vehicleId": "volkswagen-14-190-constellation-2p-diesel-e5-2023-diesel",
+      "fipeCodigo": "515175-9",
+      "displayName": "VOLKSWAGEN 14-190 Constellation 2p (diesel)(E5)",
+      "valorAtual": 363262,
+      "canonicalPath": "/fipe/volkswagen/14-190-constellation-2p-diesel-e5-2023-515175-9/",
+      "ano": 2023,
+      "marca": "VOLKSWAGEN"
+    },
+    {
+      "vehicleId": "volkswagen-14-210-constellation-4x2-2p-diesel-e6-2023-diesel",
+      "fipeCodigo": "515187-2",
+      "displayName": "VOLKSWAGEN 14-210 Constellation 4x2 2p (diesel)(E6)",
+      "valorAtual": 339960,
+      "canonicalPath": "/fipe/volkswagen/14-210-constellation-4x2-2p-diesel-e6-2023-515187-2/",
+      "ano": 2023,
+      "marca": "VOLKSWAGEN"
+    },
+    {
+      "vehicleId": "volkswagen-14-210-constellation-4x2-2p-diesel-e6-2024-diesel",
+      "fipeCodigo": "515187-2",
+      "displayName": "VOLKSWAGEN 14-210 Constellation 4x2 2p (diesel)(E6)",
+      "valorAtual": 370111,
+      "canonicalPath": "/fipe/volkswagen/14-210-constellation-4x2-2p-diesel-e6-2024-515187-2/",
+      "ano": 2024,
+      "marca": "VOLKSWAGEN"
+    },
+    {
+      "vehicleId": "volkswagen-14-210-constellation-4x2-2p-diesel-e6-2025-diesel",
+      "fipeCodigo": "515187-2",
+      "displayName": "VOLKSWAGEN 14-210 Constellation 4x2 2p (diesel)(E6)",
+      "valorAtual": 414413,
+      "canonicalPath": "/fipe/volkswagen/14-210-constellation-4x2-2p-diesel-e6-2025-515187-2/",
+      "ano": 2025,
+      "marca": "VOLKSWAGEN"
+    },
+    {
+      "vehicleId": "volkswagen-14-210-constellation-4x2-2p-diesel-e6-2026-diesel",
+      "fipeCodigo": "515187-2",
+      "displayName": "VOLKSWAGEN 14-210 Constellation 4x2 2p (diesel)(E6)",
+      "valorAtual": 436432,
+      "canonicalPath": "/fipe/volkswagen/14-210-constellation-4x2-2p-diesel-e6-2026-515187-2/",
+      "ano": 2026,
+      "marca": "VOLKSWAGEN"
+    },
+    {
+      "vehicleId": "volkswagen-14-410-e-delivery-6x2-2p-eletrico-2022-eletrico",
+      "fipeCodigo": "515183-0",
+      "displayName": "VOLKSWAGEN 14-410 e-Delivery 6x2 2p (Elétrico)",
+      "valorAtual": 804283,
+      "canonicalPath": "/fipe/volkswagen/14-410-e-delivery-6x2-2p-eletrico-2022-515183-0/",
+      "ano": 2022,
+      "marca": "VOLKSWAGEN"
+    },
+    {
+      "vehicleId": "volkswagen-14-410-e-delivery-6x2-2p-eletrico-2023-eletrico",
+      "fipeCodigo": "515183-0",
+      "displayName": "VOLKSWAGEN 14-410 e-Delivery 6x2 2p (Elétrico)",
+      "valorAtual": 854507,
+      "canonicalPath": "/fipe/volkswagen/14-410-e-delivery-6x2-2p-eletrico-2023-515183-0/",
+      "ano": 2023,
+      "marca": "VOLKSWAGEN"
+    },
+    {
+      "vehicleId": "volkswagen-14-410-e-delivery-6x2-2p-eletrico-2024-eletrico",
+      "fipeCodigo": "515183-0",
+      "displayName": "VOLKSWAGEN 14-410 e-Delivery 6x2 2p (Elétrico)",
+      "valorAtual": 916897,
+      "canonicalPath": "/fipe/volkswagen/14-410-e-delivery-6x2-2p-eletrico-2024-515183-0/",
+      "ano": 2024,
+      "marca": "VOLKSWAGEN"
+    },
+    {
+      "vehicleId": "volkswagen-14-410-e-delivery-6x2-2p-eletrico-2025-eletrico",
+      "fipeCodigo": "515183-0",
+      "displayName": "VOLKSWAGEN 14-410 e-Delivery 6x2 2p (Elétrico)",
+      "valorAtual": 965397,
+      "canonicalPath": "/fipe/volkswagen/14-410-e-delivery-6x2-2p-eletrico-2025-515183-0/",
+      "ano": 2025,
+      "marca": "VOLKSWAGEN"
+    }
+  ],
+  "stats": {
+    "total": 12
+  },
+  "meta": {
+    "geracaoId": "14-3"
+  }
+}

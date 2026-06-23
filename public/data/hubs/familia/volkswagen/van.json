@@ -1,0 +1,62 @@
+{
+  "tipo": "familia",
+  "slug": "van",
+  "canonicalPath": "/fipe/volkswagen/van/",
+  "titulo": "VW - VolksWagen van - Tabela FIPE",
+  "descricao": "4 versoes e anos do VW - VolksWagen van na Tabela FIPE.",
+  "seo": {
+    "title": "VW - VolksWagen van - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes VW - VolksWagen van. 4 veiculos indexados.",
+    "h1": "VW - VolksWagen van - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/volkswagen/van/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "volkswagen-van-1-6-mi-furgao-2002-gasolina",
+      "fipeCodigo": "005096-2",
+      "displayName": "VW - VolksWagen Van 1.6 Mi (furgão)",
+      "valorAtual": 15125,
+      "canonicalPath": "/fipe/volkswagen/van-1-6-mi-furgao-2002-005096-2/",
+      "ano": 2002,
+      "marca": "VW - VolksWagen"
+    },
+    {
+      "vehicleId": "volkswagen-van-1-6-mi-furgao-2001-gasolina",
+      "fipeCodigo": "005096-2",
+      "displayName": "VW - VolksWagen Van 1.6 Mi (furgão)",
+      "valorAtual": 14163,
+      "canonicalPath": "/fipe/volkswagen/van-1-6-mi-furgao-2001-005096-2/",
+      "ano": 2001,
+      "marca": "VW - VolksWagen"
+    },
+    {
+      "vehicleId": "volkswagen-van-1-6-mi-furgao-2000-gasolina",
+      "fipeCodigo": "005096-2",
+      "displayName": "VW - VolksWagen Van 1.6 Mi (furgão)",
+      "valorAtual": 13787,
+      "canonicalPath": "/fipe/volkswagen/van-1-6-mi-furgao-2000-005096-2/",
+      "ano": 2000,
+      "marca": "VW - VolksWagen"
+    },
+    {
+      "vehicleId": "volkswagen-van-1-6-mi-furgao-1999-gasolina",
+      "fipeCodigo": "005096-2",
+      "displayName": "VW - VolksWagen Van 1.6 Mi (furgão)",
+      "valorAtual": 13199,
+      "canonicalPath": "/fipe/volkswagen/van-1-6-mi-furgao-1999-005096-2/",
+      "ano": 1999,
+      "marca": "VW - VolksWagen"
+    }
+  ],
+  "stats": {
+    "total": 4,
+    "precoMin": 13199,
+    "precoMax": 15125,
+    "anos": [
+      2002,
+      2001,
+      2000,
+      1999
+    ]
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "tipo": "geracao",
+  "slug": "fusca-2",
+  "canonicalPath": "/geracao/volkswagen/fusca-2/",
+  "titulo": "Geracao fusca-2",
+  "descricao": "5 veiculos da geracao fusca-2.",
+  "seo": {
+    "title": "Geracao fusca-2 - Precos FIPE",
+    "description": "Veiculos da geracao fusca-2 na Tabela FIPE.",
+    "h1": "Geracao fusca-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/volkswagen/fusca-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "volkswagen-fusca-1994-gasolina",
+      "fipeCodigo": "005027-0",
+      "displayName": "VW - VolksWagen Fusca",
+      "valorAtual": 43922,
+      "canonicalPath": "/fipe/volkswagen/fusca-1994-005027-0/",
+      "ano": 1994,
+      "marca": "VW - VolksWagen"
+    },
+    {
+      "vehicleId": "volkswagen-fusca-1995-etanol",
+      "fipeCodigo": "005027-0",
+      "displayName": "VW - VolksWagen Fusca",
+      "valorAtual": 41584,
+      "canonicalPath": "/fipe/volkswagen/fusca-1995-005027-0/",
+      "ano": 1995,
+      "marca": "VW - VolksWagen"
+    },
+    {
+      "vehicleId": "volkswagen-fusca-1995-gasolina",
+      "fipeCodigo": "005027-0",
+      "displayName": "VW - VolksWagen Fusca",
+      "valorAtual": 48408,
+      "canonicalPath": "/fipe/volkswagen/fusca-1995-005027-0/",
+      "ano": 1995,
+      "marca": "VW - VolksWagen"
+    },
+    {
+      "vehicleId": "volkswagen-fusca-1996-gasolina",
+      "fipeCodigo": "005027-0",
+      "displayName": "VW - VolksWagen Fusca",
+      "valorAtual": 50685,
+      "canonicalPath": "/fipe/volkswagen/fusca-1996-005027-0/",
+      "ano": 1996,
+      "marca": "VW - VolksWagen"
+    },
+    {
+      "vehicleId": "volkswagen-fusca-1996-etanol",
+      "fipeCodigo": "005027-0",
+      "displayName": "VW - VolksWagen Fusca",
+      "valorAtual": 47440,
+      "canonicalPath": "/fipe/volkswagen/fusca-1996-005027-0/",
+      "ano": 1996,
+      "marca": "VW - VolksWagen"
+    }
+  ],
+  "stats": {
+    "total": 5
+  },
+  "meta": {
+    "geracaoId": "fusca-2"
+  }
+}

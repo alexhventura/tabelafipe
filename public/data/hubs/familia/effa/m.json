@@ -1,0 +1,92 @@
+{
+  "tipo": "familia",
+  "slug": "m",
+  "canonicalPath": "/fipe/effa/m/",
+  "titulo": "EFFA m - Tabela FIPE",
+  "descricao": "7 versoes e anos do EFFA m na Tabela FIPE.",
+  "seo": {
+    "title": "EFFA m - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes EFFA m. 7 veiculos indexados.",
+    "h1": "EFFA m - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/effa/m/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "effa-m-100-1-0-8v-5p-2012-gasolina",
+      "fipeCodigo": "066001-9",
+      "displayName": "EFFA M-100 1.0 8V 5p",
+      "valorAtual": 12911,
+      "canonicalPath": "/fipe/effa/m-100-1-0-8v-5p-2012-066001-9/",
+      "ano": 2012,
+      "marca": "EFFA"
+    },
+    {
+      "vehicleId": "effa-m-100-1-0-8v-5p-2011-gasolina",
+      "fipeCodigo": "066001-9",
+      "displayName": "EFFA M-100 1.0 8V 5p",
+      "valorAtual": 12596,
+      "canonicalPath": "/fipe/effa/m-100-1-0-8v-5p-2011-066001-9/",
+      "ano": 2011,
+      "marca": "EFFA"
+    },
+    {
+      "vehicleId": "effa-m-100-1-0-8v-5p-2010-gasolina",
+      "fipeCodigo": "066001-9",
+      "displayName": "EFFA M-100 1.0 8V 5p",
+      "valorAtual": 12039,
+      "canonicalPath": "/fipe/effa/m-100-1-0-8v-5p-2010-066001-9/",
+      "ano": 2010,
+      "marca": "EFFA"
+    },
+    {
+      "vehicleId": "effa-m-100-1-0-8v-5p-2009-gasolina",
+      "fipeCodigo": "066001-9",
+      "displayName": "EFFA M-100 1.0 8V 5p",
+      "valorAtual": 9008,
+      "canonicalPath": "/fipe/effa/m-100-1-0-8v-5p-2009-066001-9/",
+      "ano": 2009,
+      "marca": "EFFA"
+    },
+    {
+      "vehicleId": "effa-m-100-1-0-8v-5p-2008-gasolina",
+      "fipeCodigo": "066001-9",
+      "displayName": "EFFA M-100 1.0 8V 5p",
+      "valorAtual": 8457,
+      "canonicalPath": "/fipe/effa/m-100-1-0-8v-5p-2008-066001-9/",
+      "ano": 2008,
+      "marca": "EFFA"
+    },
+    {
+      "vehicleId": "effa-m-100-1-0-8v-5p-2007-gasolina",
+      "fipeCodigo": "066001-9",
+      "displayName": "EFFA M-100 1.0 8V 5p",
+      "valorAtual": 8250,
+      "canonicalPath": "/fipe/effa/m-100-1-0-8v-5p-2007-066001-9/",
+      "ano": 2007,
+      "marca": "EFFA"
+    },
+    {
+      "vehicleId": "effa-m-100-1-0-8v-5p-2006-gasolina",
+      "fipeCodigo": "066001-9",
+      "displayName": "EFFA M-100 1.0 8V 5p",
+      "valorAtual": 7021,
+      "canonicalPath": "/fipe/effa/m-100-1-0-8v-5p-2006-066001-9/",
+      "ano": 2006,
+      "marca": "EFFA"
+    }
+  ],
+  "stats": {
+    "total": 7,
+    "precoMin": 7021,
+    "precoMax": 12911,
+    "anos": [
+      2012,
+      2011,
+      2010,
+      2009,
+      2008,
+      2007,
+      2006
+    ]
+  }
+}

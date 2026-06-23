@@ -1,0 +1,122 @@
+{
+  "tipo": "familia",
+  "slug": "elite",
+  "canonicalPath": "/fipe/honda/elite/",
+  "titulo": "HONDA elite - Tabela FIPE",
+  "descricao": "10 versoes e anos do HONDA elite na Tabela FIPE.",
+  "seo": {
+    "title": "HONDA elite - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes HONDA elite. 10 veiculos indexados.",
+    "h1": "HONDA elite - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/honda/elite/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "honda-elite-125-2027-gasolina",
+      "fipeCodigo": "811153-7",
+      "displayName": "HONDA ELITE 125",
+      "valorAtual": 15749,
+      "canonicalPath": "/fipe/honda/elite-125-2027-811153-7/",
+      "ano": 2027,
+      "marca": "HONDA"
+    },
+    {
+      "vehicleId": "honda-elite-125-2026-gasolina",
+      "fipeCodigo": "811153-7",
+      "displayName": "HONDA ELITE 125",
+      "valorAtual": 15352,
+      "canonicalPath": "/fipe/honda/elite-125-2026-811153-7/",
+      "ano": 2026,
+      "marca": "HONDA"
+    },
+    {
+      "vehicleId": "honda-elite-125-2025-gasolina",
+      "fipeCodigo": "811153-7",
+      "displayName": "HONDA ELITE 125",
+      "valorAtual": 14845,
+      "canonicalPath": "/fipe/honda/elite-125-2025-811153-7/",
+      "ano": 2025,
+      "marca": "HONDA"
+    },
+    {
+      "vehicleId": "honda-elite-125-2024-gasolina",
+      "fipeCodigo": "811153-7",
+      "displayName": "HONDA ELITE 125",
+      "valorAtual": 14180,
+      "canonicalPath": "/fipe/honda/elite-125-2024-811153-7/",
+      "ano": 2024,
+      "marca": "HONDA"
+    },
+    {
+      "vehicleId": "honda-elite-125-2023-gasolina",
+      "fipeCodigo": "811153-7",
+      "displayName": "HONDA ELITE 125",
+      "valorAtual": 13702,
+      "canonicalPath": "/fipe/honda/elite-125-2023-811153-7/",
+      "ano": 2023,
+      "marca": "HONDA"
+    },
+    {
+      "vehicleId": "honda-elite-125-2022-gasolina",
+      "fipeCodigo": "811153-7",
+      "displayName": "HONDA ELITE 125",
+      "valorAtual": 13072,
+      "canonicalPath": "/fipe/honda/elite-125-2022-811153-7/",
+      "ano": 2022,
+      "marca": "HONDA"
+    },
+    {
+      "vehicleId": "honda-elite-125-2021-gasolina",
+      "fipeCodigo": "811153-7",
+      "displayName": "HONDA ELITE 125",
+      "valorAtual": 12545,
+      "canonicalPath": "/fipe/honda/elite-125-2021-811153-7/",
+      "ano": 2021,
+      "marca": "HONDA"
+    },
+    {
+      "vehicleId": "honda-elite-125-2020-gasolina",
+      "fipeCodigo": "811153-7",
+      "displayName": "HONDA ELITE 125",
+      "valorAtual": 12239,
+      "canonicalPath": "/fipe/honda/elite-125-2020-811153-7/",
+      "ano": 2020,
+      "marca": "HONDA"
+    },
+    {
+      "vehicleId": "honda-elite-125-2019-gasolina",
+      "fipeCodigo": "811153-7",
+      "displayName": "HONDA ELITE 125",
+      "valorAtual": 11910,
+      "canonicalPath": "/fipe/honda/elite-125-2019-811153-7/",
+      "ano": 2019,
+      "marca": "HONDA"
+    },
+    {
+      "vehicleId": "honda-elite-125-0-gasolina",
+      "fipeCodigo": "811153-7",
+      "displayName": "HONDA ELITE 125",
+      "valorAtual": 16862,
+      "canonicalPath": "/fipe/honda/elite-125-0-811153-7/",
+      "ano": 0,
+      "marca": "HONDA"
+    }
+  ],
+  "stats": {
+    "total": 10,
+    "precoMin": 11910,
+    "precoMax": 16862,
+    "anos": [
+      2027,
+      2026,
+      2025,
+      2024,
+      2023,
+      2022,
+      2021,
+      2020,
+      2019,
+      0
+    ]
+  }
+}

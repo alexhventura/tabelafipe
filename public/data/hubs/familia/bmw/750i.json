@@ -1,0 +1,112 @@
+{
+  "tipo": "familia",
+  "slug": "750i",
+  "canonicalPath": "/fipe/bmw/750i/",
+  "titulo": "BMW 750i - Tabela FIPE",
+  "descricao": "9 versoes e anos do BMW 750i na Tabela FIPE.",
+  "seo": {
+    "title": "BMW 750i - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes BMW 750i. 9 veiculos indexados.",
+    "h1": "BMW 750i - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/bmw/750i/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "bmw-750i-m-sport-sedan-4-4-v8-450cv-aut-2015-gasolina",
+      "fipeCodigo": "009211-8",
+      "displayName": "BMW 750i M Sport Sedan 4.4 V8 450cv Aut.",
+      "valorAtual": 210393,
+      "canonicalPath": "/fipe/bmw/750i-m-sport-sedan-4-4-v8-450cv-aut-2015-009211-8/",
+      "ano": 2015,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-750i-m-sport-sedan-4-4-v8-450cv-aut-2014-gasolina",
+      "fipeCodigo": "009211-8",
+      "displayName": "BMW 750i M Sport Sedan 4.4 V8 450cv Aut.",
+      "valorAtual": 182703,
+      "canonicalPath": "/fipe/bmw/750i-m-sport-sedan-4-4-v8-450cv-aut-2014-009211-8/",
+      "ano": 2014,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-750i-m-sport-sedan-4-4-v8-450cv-aut-2013-gasolina",
+      "fipeCodigo": "009211-8",
+      "displayName": "BMW 750i M Sport Sedan 4.4 V8 450cv Aut.",
+      "valorAtual": 178246,
+      "canonicalPath": "/fipe/bmw/750i-m-sport-sedan-4-4-v8-450cv-aut-2013-009211-8/",
+      "ano": 2013,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-750i-1996-gasolina",
+      "fipeCodigo": "009012-3",
+      "displayName": "BMW 750i",
+      "valorAtual": 27598,
+      "canonicalPath": "/fipe/bmw/750i-1996-009012-3/",
+      "ano": 1996,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-750i-1995-gasolina",
+      "fipeCodigo": "009012-3",
+      "displayName": "BMW 750i",
+      "valorAtual": 26844,
+      "canonicalPath": "/fipe/bmw/750i-1995-009012-3/",
+      "ano": 1995,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-750i-1994-gasolina",
+      "fipeCodigo": "009012-3",
+      "displayName": "BMW 750i",
+      "valorAtual": 23327,
+      "canonicalPath": "/fipe/bmw/750i-1994-009012-3/",
+      "ano": 1994,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-750i-1993-gasolina",
+      "fipeCodigo": "009012-3",
+      "displayName": "BMW 750i",
+      "valorAtual": 22444,
+      "canonicalPath": "/fipe/bmw/750i-1993-009012-3/",
+      "ano": 1993,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-750i-1992-gasolina",
+      "fipeCodigo": "009012-3",
+      "displayName": "BMW 750i",
+      "valorAtual": 19876,
+      "canonicalPath": "/fipe/bmw/750i-1992-009012-3/",
+      "ano": 1992,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-750i-1991-gasolina",
+      "fipeCodigo": "009012-3",
+      "displayName": "BMW 750i",
+      "valorAtual": 16576,
+      "canonicalPath": "/fipe/bmw/750i-1991-009012-3/",
+      "ano": 1991,
+      "marca": "BMW"
+    }
+  ],
+  "stats": {
+    "total": 9,
+    "precoMin": 16576,
+    "precoMax": 210393,
+    "anos": [
+      2015,
+      2014,
+      2013,
+      1996,
+      1995,
+      1994,
+      1993,
+      1992,
+      1991
+    ]
+  }
+}

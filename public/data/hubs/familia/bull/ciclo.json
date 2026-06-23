@@ -1,0 +1,42 @@
+{
+  "tipo": "familia",
+  "slug": "ciclo",
+  "canonicalPath": "/fipe/bull/ciclo/",
+  "titulo": "BULL ciclo - Tabela FIPE",
+  "descricao": "2 versoes e anos do BULL ciclo na Tabela FIPE.",
+  "seo": {
+    "title": "BULL ciclo - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes BULL ciclo. 2 veiculos indexados.",
+    "h1": "BULL ciclo - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/bull/ciclo/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "bull-ciclo-city-veloce-1000w-eletrica-2020-eletrico",
+      "fipeCodigo": "888007-7",
+      "displayName": "BULL Ciclo City Veloce 1000W (Elétrica)",
+      "valorAtual": 7247,
+      "canonicalPath": "/fipe/bull/ciclo-city-veloce-1000w-eletrica-2020-888007-7/",
+      "ano": 2020,
+      "marca": "BULL"
+    },
+    {
+      "vehicleId": "bull-ciclo-city-veloce-1000w-eletrica-2019-eletrico",
+      "fipeCodigo": "888007-7",
+      "displayName": "BULL Ciclo City Veloce 1000W (Elétrica)",
+      "valorAtual": 6999,
+      "canonicalPath": "/fipe/bull/ciclo-city-veloce-1000w-eletrica-2019-888007-7/",
+      "ano": 2019,
+      "marca": "BULL"
+    }
+  ],
+  "stats": {
+    "total": 2,
+    "precoMin": 6999,
+    "precoMax": 7247,
+    "anos": [
+      2020,
+      2019
+    ]
+  }
+}

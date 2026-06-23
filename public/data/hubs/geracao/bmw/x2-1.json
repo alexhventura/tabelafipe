@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "x2-1",
+  "canonicalPath": "/geracao/bmw/x2-1/",
+  "titulo": "Geracao x2-1",
+  "descricao": "2 veiculos da geracao x2-1.",
+  "seo": {
+    "title": "Geracao x2-1 - Precos FIPE",
+    "description": "Veiculos da geracao x2-1 na Tabela FIPE.",
+    "h1": "Geracao x2-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/bmw/x2-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "bmw-x2-m35i-xdrive-2-0-turbo-317cv-aut-0-gasolina",
+      "fipeCodigo": "009322-0",
+      "displayName": "BMW X2 M35i xDrive 2.0 Turbo 317cv Aut.",
+      "valorAtual": 539332,
+      "canonicalPath": "/fipe/bmw/x2-m35i-xdrive-2-0-turbo-317cv-aut-0-009322-0/",
+      "ano": 0,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-x2-xdrive20i-m-sport-0-gasolina",
+      "fipeCodigo": "009320-3",
+      "displayName": "BMW X2 XDrive20i M Sport",
+      "valorAtual": 410362,
+      "canonicalPath": "/fipe/bmw/x2-xdrive20i-m-sport-0-009320-3/",
+      "ano": 0,
+      "marca": "BMW"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "x2-1"
+  }
+}

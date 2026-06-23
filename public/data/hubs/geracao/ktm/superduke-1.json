@@ -1,0 +1,84 @@
+{
+  "tipo": "geracao",
+  "slug": "superduke-1",
+  "canonicalPath": "/geracao/ktm/superduke-1/",
+  "titulo": "Geracao superduke-1",
+  "descricao": "7 veiculos da geracao superduke-1.",
+  "seo": {
+    "title": "Geracao superduke-1 - Precos FIPE",
+    "description": "Veiculos da geracao superduke-1 na Tabela FIPE.",
+    "h1": "Geracao superduke-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/ktm/superduke-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "ktm-superduke-990-2005-gasolina",
+      "fipeCodigo": "818025-3",
+      "displayName": "KTM SUPERDUKE 990",
+      "valorAtual": 16895,
+      "canonicalPath": "/fipe/ktm/superduke-990-2005-818025-3/",
+      "ano": 2005,
+      "marca": "KTM"
+    },
+    {
+      "vehicleId": "ktm-superduke-990-2006-gasolina",
+      "fipeCodigo": "818025-3",
+      "displayName": "KTM SUPERDUKE 990",
+      "valorAtual": 19848,
+      "canonicalPath": "/fipe/ktm/superduke-990-2006-818025-3/",
+      "ano": 2006,
+      "marca": "KTM"
+    },
+    {
+      "vehicleId": "ktm-superduke-990-2007-gasolina",
+      "fipeCodigo": "818025-3",
+      "displayName": "KTM SUPERDUKE 990",
+      "valorAtual": 23454,
+      "canonicalPath": "/fipe/ktm/superduke-990-2007-818025-3/",
+      "ano": 2007,
+      "marca": "KTM"
+    },
+    {
+      "vehicleId": "ktm-superduke-990-2008-gasolina",
+      "fipeCodigo": "818025-3",
+      "displayName": "KTM SUPERDUKE 990",
+      "valorAtual": 29276,
+      "canonicalPath": "/fipe/ktm/superduke-990-2008-818025-3/",
+      "ano": 2008,
+      "marca": "KTM"
+    },
+    {
+      "vehicleId": "ktm-superduke-990-2009-gasolina",
+      "fipeCodigo": "818025-3",
+      "displayName": "KTM SUPERDUKE 990",
+      "valorAtual": 32199,
+      "canonicalPath": "/fipe/ktm/superduke-990-2009-818025-3/",
+      "ano": 2009,
+      "marca": "KTM"
+    },
+    {
+      "vehicleId": "ktm-superduke-990-2010-gasolina",
+      "fipeCodigo": "818025-3",
+      "displayName": "KTM SUPERDUKE 990",
+      "valorAtual": 35027,
+      "canonicalPath": "/fipe/ktm/superduke-990-2010-818025-3/",
+      "ano": 2010,
+      "marca": "KTM"
+    },
+    {
+      "vehicleId": "ktm-superduke-990-2011-gasolina",
+      "fipeCodigo": "818025-3",
+      "displayName": "KTM SUPERDUKE 990",
+      "valorAtual": 40446,
+      "canonicalPath": "/fipe/ktm/superduke-990-2011-818025-3/",
+      "ano": 2011,
+      "marca": "KTM"
+    }
+  ],
+  "stats": {
+    "total": 7
+  },
+  "meta": {
+    "geracaoId": "superduke-1"
+  }
+}

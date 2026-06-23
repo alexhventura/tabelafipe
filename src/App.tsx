@@ -11,6 +11,7 @@ import CompararPage from './pages/CompararPage';
 import AnoPage from './pages/AnoPage';
 import DecisaoPage from './pages/DecisaoPage';
 import SemanticIntentPage from './pages/SemanticIntentPage';
+import HubPage from './pages/HubPage';
 
 export default function App() {
   return (
@@ -20,6 +21,9 @@ export default function App() {
           <Route path="/" element={<HomePage />} />
           <Route path="/busca" element={<SearchResultsPage />} />
           <Route path="/fipe/:marca/:slug" element={<VehiclePage />} />
+          <Route path="/motor/:engineSlug" element={<HubPage hubKind="motor" />} />
+          <Route path="/plataforma/:platformSlug" element={<HubPage hubKind="plataforma" />} />
+          <Route path="/geracao/:marca/:geracaoSlug" element={<HubPage hubKind="geracao" />} />
           <Route path="/marca/:marcaSlug/:cluster" element={<MarcaClusterPage />} />
           <Route path="/marca/:marcaSlug" element={<MarcaPage />} />
           <Route path="/modelo/:marcaSlug/:modeloSlug" element={<ModeloPage />} />

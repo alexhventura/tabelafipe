@@ -1,0 +1,48 @@
+{
+  "tipo": "geracao",
+  "slug": "shamal-1",
+  "canonicalPath": "/geracao/maserati/shamal-1/",
+  "titulo": "Geracao shamal-1",
+  "descricao": "3 veiculos da geracao shamal-1.",
+  "seo": {
+    "title": "Geracao shamal-1 - Precos FIPE",
+    "description": "Veiculos da geracao shamal-1 na Tabela FIPE.",
+    "h1": "Geracao shamal-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/maserati/shamal-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "maserati-shamal-3-2-v8-1992-gasolina",
+      "fipeCodigo": "034008-1",
+      "displayName": "Maserati Shamal 3.2 V8",
+      "valorAtual": 39614,
+      "canonicalPath": "/fipe/maserati/shamal-3-2-v8-1992-034008-1/",
+      "ano": 1992,
+      "marca": "Maserati"
+    },
+    {
+      "vehicleId": "maserati-shamal-3-2-v8-1993-gasolina",
+      "fipeCodigo": "034008-1",
+      "displayName": "Maserati Shamal 3.2 V8",
+      "valorAtual": 47865,
+      "canonicalPath": "/fipe/maserati/shamal-3-2-v8-1993-034008-1/",
+      "ano": 1993,
+      "marca": "Maserati"
+    },
+    {
+      "vehicleId": "maserati-shamal-3-2-v8-1994-gasolina",
+      "fipeCodigo": "034008-1",
+      "displayName": "Maserati Shamal 3.2 V8",
+      "valorAtual": 49920,
+      "canonicalPath": "/fipe/maserati/shamal-3-2-v8-1994-034008-1/",
+      "ano": 1994,
+      "marca": "Maserati"
+    }
+  ],
+  "stats": {
+    "total": 3
+  },
+  "meta": {
+    "geracaoId": "shamal-1"
+  }
+}

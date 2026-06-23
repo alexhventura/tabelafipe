@@ -1,0 +1,42 @@
+{
+  "tipo": "familia",
+  "slug": "gran",
+  "canonicalPath": "/fipe/cagiva/gran/",
+  "titulo": "CAGIVA gran - Tabela FIPE",
+  "descricao": "2 versoes e anos do CAGIVA gran na Tabela FIPE.",
+  "seo": {
+    "title": "CAGIVA gran - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes CAGIVA gran. 2 veiculos indexados.",
+    "h1": "CAGIVA gran - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/cagiva/gran/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "cagiva-gran-canyon-900-2000-gasolina",
+      "fipeCodigo": "805003-1",
+      "displayName": "CAGIVA GRAN CANYON 900",
+      "valorAtual": 17946,
+      "canonicalPath": "/fipe/cagiva/gran-canyon-900-2000-805003-1/",
+      "ano": 2000,
+      "marca": "CAGIVA"
+    },
+    {
+      "vehicleId": "cagiva-gran-canyon-900-1999-gasolina",
+      "fipeCodigo": "805003-1",
+      "displayName": "CAGIVA GRAN CANYON 900",
+      "valorAtual": 16630,
+      "canonicalPath": "/fipe/cagiva/gran-canyon-900-1999-805003-1/",
+      "ano": 1999,
+      "marca": "CAGIVA"
+    }
+  ],
+  "stats": {
+    "total": 2,
+    "precoMin": 16630,
+    "precoMax": 17946,
+    "anos": [
+      2000,
+      1999
+    ]
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "tipo": "geracao",
+  "slug": "disc-2",
+  "canonicalPath": "/geracao/land-rover/disc-2/",
+  "titulo": "Geracao disc-2",
+  "descricao": "6 veiculos da geracao disc-2.",
+  "seo": {
+    "title": "Geracao disc-2 - Precos FIPE",
+    "description": "Veiculos da geracao disc-2 na Tabela FIPE.",
+    "h1": "Geracao disc-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/land-rover/disc-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "land-rover-disc-sp-s-2-0-4x4-dies-aut-hib-2020-hibrido",
+      "fipeCodigo": "033173-2",
+      "displayName": "Land Rover Disc. Sp. S 2.0 4x4 Dies. Aut. (Híb.)",
+      "valorAtual": 157352,
+      "canonicalPath": "/fipe/land-rover/disc-sp-s-2-0-4x4-dies-aut-hib-2020-033173-2/",
+      "ano": 2020,
+      "marca": "Land Rover"
+    },
+    {
+      "vehicleId": "land-rover-disc-sp-s-2-0-4x4-dies-aut-hib-2021-hibrido",
+      "fipeCodigo": "033173-2",
+      "displayName": "Land Rover Disc. Sp. S 2.0 4x4 Dies. Aut. (Híb.)",
+      "valorAtual": 168741,
+      "canonicalPath": "/fipe/land-rover/disc-sp-s-2-0-4x4-dies-aut-hib-2021-033173-2/",
+      "ano": 2021,
+      "marca": "Land Rover"
+    },
+    {
+      "vehicleId": "land-rover-disc-sp-s-2-0-4x4-dies-aut-hib-2022-hibrido",
+      "fipeCodigo": "033173-2",
+      "displayName": "Land Rover Disc. Sp. S 2.0 4x4 Dies. Aut. (Híb.)",
+      "valorAtual": 229878,
+      "canonicalPath": "/fipe/land-rover/disc-sp-s-2-0-4x4-dies-aut-hib-2022-033173-2/",
+      "ano": 2022,
+      "marca": "Land Rover"
+    },
+    {
+      "vehicleId": "land-rover-disc-sp-s-2-0-4x4-dies-aut-hib-2023-hibrido",
+      "fipeCodigo": "033173-2",
+      "displayName": "Land Rover Disc. Sp. S 2.0 4x4 Dies. Aut. (Híb.)",
+      "valorAtual": 237601,
+      "canonicalPath": "/fipe/land-rover/disc-sp-s-2-0-4x4-dies-aut-hib-2023-033173-2/",
+      "ano": 2023,
+      "marca": "Land Rover"
+    },
+    {
+      "vehicleId": "land-rover-disc-sp-se-dyn-2-0-d200-die-aut-hib-2024-hibrido",
+      "fipeCodigo": "033233-0",
+      "displayName": "Land Rover Disc. Sp. SE Dyn 2.0 D200 Die.Aut.(Híb.)",
+      "valorAtual": 346075,
+      "canonicalPath": "/fipe/land-rover/disc-sp-se-dyn-2-0-d200-die-aut-hib-2024-033233-0/",
+      "ano": 2024,
+      "marca": "Land Rover"
+    },
+    {
+      "vehicleId": "land-rover-disc-sp-se-dyn-2-0-d200-die-aut-hib-2025-hibrido",
+      "fipeCodigo": "033233-0",
+      "displayName": "Land Rover Disc. Sp. SE Dyn 2.0 D200 Die.Aut.(Híb.)",
+      "valorAtual": 404926,
+      "canonicalPath": "/fipe/land-rover/disc-sp-se-dyn-2-0-d200-die-aut-hib-2025-033233-0/",
+      "ano": 2025,
+      "marca": "Land Rover"
+    }
+  ],
+  "stats": {
+    "total": 6
+  },
+  "meta": {
+    "geracaoId": "disc-2"
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "tipo": "familia",
+  "slug": "ct200h",
+  "canonicalPath": "/fipe/lexus/ct200h/",
+  "titulo": "Lexus ct200h - Tabela FIPE",
+  "descricao": "9 versoes e anos do Lexus ct200h na Tabela FIPE.",
+  "seo": {
+    "title": "Lexus ct200h - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes Lexus ct200h. 9 veiculos indexados.",
+    "h1": "Lexus ct200h - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/lexus/ct200h/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "lexus-ct200h-1-8-16v-aut-hibrido-2020-hibrido",
+      "fipeCodigo": "057034-6",
+      "displayName": "Lexus CT200h  1.8 16V Aut. (Híbrido)",
+      "valorAtual": 128961,
+      "canonicalPath": "/fipe/lexus/ct200h-1-8-16v-aut-hibrido-2020-057034-6/",
+      "ano": 2020,
+      "marca": "Lexus"
+    },
+    {
+      "vehicleId": "lexus-ct200h-1-8-16v-aut-hibrido-2019-hibrido",
+      "fipeCodigo": "057034-6",
+      "displayName": "Lexus CT200h  1.8 16V Aut. (Híbrido)",
+      "valorAtual": 100748,
+      "canonicalPath": "/fipe/lexus/ct200h-1-8-16v-aut-hibrido-2019-057034-6/",
+      "ano": 2019,
+      "marca": "Lexus"
+    },
+    {
+      "vehicleId": "lexus-ct200h-1-8-16v-aut-hibrido-2018-hibrido",
+      "fipeCodigo": "057034-6",
+      "displayName": "Lexus CT200h  1.8 16V Aut. (Híbrido)",
+      "valorAtual": 96174,
+      "canonicalPath": "/fipe/lexus/ct200h-1-8-16v-aut-hibrido-2018-057034-6/",
+      "ano": 2018,
+      "marca": "Lexus"
+    },
+    {
+      "vehicleId": "lexus-ct200h-1-8-16v-aut-hibrido-2017-hibrido",
+      "fipeCodigo": "057034-6",
+      "displayName": "Lexus CT200h  1.8 16V Aut. (Híbrido)",
+      "valorAtual": 86170,
+      "canonicalPath": "/fipe/lexus/ct200h-1-8-16v-aut-hibrido-2017-057034-6/",
+      "ano": 2017,
+      "marca": "Lexus"
+    },
+    {
+      "vehicleId": "lexus-ct200h-1-8-16v-aut-hibrido-2016-hibrido",
+      "fipeCodigo": "057034-6",
+      "displayName": "Lexus CT200h  1.8 16V Aut. (Híbrido)",
+      "valorAtual": 84068,
+      "canonicalPath": "/fipe/lexus/ct200h-1-8-16v-aut-hibrido-2016-057034-6/",
+      "ano": 2016,
+      "marca": "Lexus"
+    },
+    {
+      "vehicleId": "lexus-ct200h-1-8-16v-aut-hibrido-2015-hibrido",
+      "fipeCodigo": "057034-6",
+      "displayName": "Lexus CT200h  1.8 16V Aut. (Híbrido)",
+      "valorAtual": 77355,
+      "canonicalPath": "/fipe/lexus/ct200h-1-8-16v-aut-hibrido-2015-057034-6/",
+      "ano": 2015,
+      "marca": "Lexus"
+    },
+    {
+      "vehicleId": "lexus-ct200h-1-8-16v-aut-hibrido-2014-hibrido",
+      "fipeCodigo": "057034-6",
+      "displayName": "Lexus CT200h  1.8 16V Aut. (Híbrido)",
+      "valorAtual": 74147,
+      "canonicalPath": "/fipe/lexus/ct200h-1-8-16v-aut-hibrido-2014-057034-6/",
+      "ano": 2014,
+      "marca": "Lexus"
+    },
+    {
+      "vehicleId": "lexus-ct200h-1-8-16v-aut-hibrido-2013-hibrido",
+      "fipeCodigo": "057034-6",
+      "displayName": "Lexus CT200h  1.8 16V Aut. (Híbrido)",
+      "valorAtual": 63923,
+      "canonicalPath": "/fipe/lexus/ct200h-1-8-16v-aut-hibrido-2013-057034-6/",
+      "ano": 2013,
+      "marca": "Lexus"
+    },
+    {
+      "vehicleId": "lexus-ct200h-f-sport-1-8-16v-aut-hibrido-2013-hibrido",
+      "fipeCodigo": "057035-4",
+      "displayName": "Lexus CT200h F-Sport 1.8 16V Aut. (Híbrido)",
+      "valorAtual": 95016,
+      "canonicalPath": "/fipe/lexus/ct200h-f-sport-1-8-16v-aut-hibrido-2013-057035-4/",
+      "ano": 2013,
+      "marca": "Lexus"
+    }
+  ],
+  "stats": {
+    "total": 9,
+    "precoMin": 63923,
+    "precoMax": 128961,
+    "anos": [
+      2020,
+      2019,
+      2018,
+      2017,
+      2016,
+      2015,
+      2014,
+      2013
+    ]
+  }
+}

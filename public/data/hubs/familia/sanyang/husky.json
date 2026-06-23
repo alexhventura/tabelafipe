@@ -1,0 +1,52 @@
+{
+  "tipo": "familia",
+  "slug": "husky",
+  "canonicalPath": "/fipe/sanyang/husky/",
+  "titulo": "SANYANG husky - Tabela FIPE",
+  "descricao": "3 versoes e anos do SANYANG husky na Tabela FIPE.",
+  "seo": {
+    "title": "SANYANG husky - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes SANYANG husky. 3 veiculos indexados.",
+    "h1": "SANYANG husky - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/sanyang/husky/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "sanyang-husky-150-1998-gasolina",
+      "fipeCodigo": "823002-1",
+      "displayName": "SANYANG HUSKY 150",
+      "valorAtual": 2798,
+      "canonicalPath": "/fipe/sanyang/husky-150-1998-823002-1/",
+      "ano": 1998,
+      "marca": "SANYANG"
+    },
+    {
+      "vehicleId": "sanyang-husky-150-1997-gasolina",
+      "fipeCodigo": "823002-1",
+      "displayName": "SANYANG HUSKY 150",
+      "valorAtual": 2712,
+      "canonicalPath": "/fipe/sanyang/husky-150-1997-823002-1/",
+      "ano": 1997,
+      "marca": "SANYANG"
+    },
+    {
+      "vehicleId": "sanyang-husky-150-1996-gasolina",
+      "fipeCodigo": "823002-1",
+      "displayName": "SANYANG HUSKY 150",
+      "valorAtual": 2644,
+      "canonicalPath": "/fipe/sanyang/husky-150-1996-823002-1/",
+      "ano": 1996,
+      "marca": "SANYANG"
+    }
+  ],
+  "stats": {
+    "total": 3,
+    "precoMin": 2644,
+    "precoMax": 2798,
+    "anos": [
+      1998,
+      1997,
+      1996
+    ]
+  }
+}

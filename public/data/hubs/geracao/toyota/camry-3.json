@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "camry-3",
+  "canonicalPath": "/geracao/toyota/camry-3/",
+  "titulo": "Geracao camry-3",
+  "descricao": "2 veiculos da geracao camry-3.",
+  "seo": {
+    "title": "Geracao camry-3 - Precos FIPE",
+    "description": "Veiculos da geracao camry-3 na Tabela FIPE.",
+    "h1": "Geracao camry-3",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/toyota/camry-3/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "toyota-camry-xle-2-5-16v-aut-hibrido-2023-hibrido",
+      "fipeCodigo": "002209-8",
+      "displayName": "Toyota Camry XLE  2.5 16V Aut. (Híbrido)",
+      "valorAtual": 225766,
+      "canonicalPath": "/fipe/toyota/camry-xle-2-5-16v-aut-hibrido-2023-002209-8/",
+      "ano": 2023,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-camry-xle-2-5-16v-aut-hibrido-2024-hibrido",
+      "fipeCodigo": "002209-8",
+      "displayName": "Toyota Camry XLE  2.5 16V Aut. (Híbrido)",
+      "valorAtual": 289227,
+      "canonicalPath": "/fipe/toyota/camry-xle-2-5-16v-aut-hibrido-2024-002209-8/",
+      "ano": 2024,
+      "marca": "Toyota"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "camry-3"
+  }
+}

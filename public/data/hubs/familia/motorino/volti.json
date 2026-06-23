@@ -1,0 +1,52 @@
+{
+  "tipo": "familia",
+  "slug": "volti",
+  "canonicalPath": "/fipe/motorino/volti/",
+  "titulo": "MOTORINO volti - Tabela FIPE",
+  "descricao": "3 versoes e anos do MOTORINO volti na Tabela FIPE.",
+  "seo": {
+    "title": "MOTORINO volti - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes MOTORINO volti. 3 veiculos indexados.",
+    "h1": "MOTORINO volti - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/motorino/volti/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "motorino-volti-3000w-2015-gasolina",
+      "fipeCodigo": "881009-5",
+      "displayName": "MOTORINO Volti 3000w",
+      "valorAtual": 10680,
+      "canonicalPath": "/fipe/motorino/volti-3000w-2015-881009-5/",
+      "ano": 2015,
+      "marca": "MOTORINO"
+    },
+    {
+      "vehicleId": "motorino-volti-3000w-2014-gasolina",
+      "fipeCodigo": "881009-5",
+      "displayName": "MOTORINO Volti 3000w",
+      "valorAtual": 9277,
+      "canonicalPath": "/fipe/motorino/volti-3000w-2014-881009-5/",
+      "ano": 2014,
+      "marca": "MOTORINO"
+    },
+    {
+      "vehicleId": "motorino-volti-3000w-2013-gasolina",
+      "fipeCodigo": "881009-5",
+      "displayName": "MOTORINO Volti 3000w",
+      "valorAtual": 8009,
+      "canonicalPath": "/fipe/motorino/volti-3000w-2013-881009-5/",
+      "ano": 2013,
+      "marca": "MOTORINO"
+    }
+  ],
+  "stats": {
+    "total": 3,
+    "precoMin": 8009,
+    "precoMax": 10680,
+    "anos": [
+      2015,
+      2014,
+      2013
+    ]
+  }
+}

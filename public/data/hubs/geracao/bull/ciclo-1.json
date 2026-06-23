@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "ciclo-1",
+  "canonicalPath": "/geracao/bull/ciclo-1/",
+  "titulo": "Geracao ciclo-1",
+  "descricao": "2 veiculos da geracao ciclo-1.",
+  "seo": {
+    "title": "Geracao ciclo-1 - Precos FIPE",
+    "description": "Veiculos da geracao ciclo-1 na Tabela FIPE.",
+    "h1": "Geracao ciclo-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/bull/ciclo-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "bull-ciclo-city-veloce-1000w-eletrica-2019-eletrico",
+      "fipeCodigo": "888007-7",
+      "displayName": "BULL Ciclo City Veloce 1000W (Elétrica)",
+      "valorAtual": 6999,
+      "canonicalPath": "/fipe/bull/ciclo-city-veloce-1000w-eletrica-2019-888007-7/",
+      "ano": 2019,
+      "marca": "BULL"
+    },
+    {
+      "vehicleId": "bull-ciclo-city-veloce-1000w-eletrica-2020-eletrico",
+      "fipeCodigo": "888007-7",
+      "displayName": "BULL Ciclo City Veloce 1000W (Elétrica)",
+      "valorAtual": 7247,
+      "canonicalPath": "/fipe/bull/ciclo-city-veloce-1000w-eletrica-2020-888007-7/",
+      "ano": 2020,
+      "marca": "BULL"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "ciclo-1"
+  }
+}

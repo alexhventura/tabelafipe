@@ -1,0 +1,60 @@
+{
+  "tipo": "familia",
+  "slug": "dakota",
+  "canonicalPath": "/fipe/ram/dakota/",
+  "titulo": "RAM dakota - Tabela FIPE",
+  "descricao": "4 versoes e anos do RAM dakota na Tabela FIPE.",
+  "seo": {
+    "title": "RAM dakota - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes RAM dakota. 4 veiculos indexados.",
+    "h1": "RAM dakota - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/ram/dakota/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "ram-dakota-warlock-2-2-tb-cd-4x4-aut-2026-diesel",
+      "fipeCodigo": "083027-5",
+      "displayName": "RAM DAKOTA WARLOCK 2.2 TB CD 4x4 Aut.",
+      "valorAtual": 271590,
+      "canonicalPath": "/fipe/ram/dakota-warlock-2-2-tb-cd-4x4-aut-2026-083027-5/",
+      "ano": 2026,
+      "marca": "RAM"
+    },
+    {
+      "vehicleId": "ram-dakota-laramie-2-2-tb-cd-4x4-aut-2026-diesel",
+      "fipeCodigo": "083028-3",
+      "displayName": "RAM DAKOTA LARAMIE 2.2 TB CD 4x4 Aut.",
+      "valorAtual": 299636,
+      "canonicalPath": "/fipe/ram/dakota-laramie-2-2-tb-cd-4x4-aut-2026-083028-3/",
+      "ano": 2026,
+      "marca": "RAM"
+    },
+    {
+      "vehicleId": "ram-dakota-warlock-2-2-tb-cd-4x4-aut-0-diesel",
+      "fipeCodigo": "083027-5",
+      "displayName": "RAM DAKOTA WARLOCK 2.2 TB CD 4x4 Aut.",
+      "valorAtual": 299804,
+      "canonicalPath": "/fipe/ram/dakota-warlock-2-2-tb-cd-4x4-aut-0-083027-5/",
+      "ano": 0,
+      "marca": "RAM"
+    },
+    {
+      "vehicleId": "ram-dakota-laramie-2-2-tb-cd-4x4-aut-0-diesel",
+      "fipeCodigo": "083028-3",
+      "displayName": "RAM DAKOTA LARAMIE 2.2 TB CD 4x4 Aut.",
+      "valorAtual": 322915,
+      "canonicalPath": "/fipe/ram/dakota-laramie-2-2-tb-cd-4x4-aut-0-083028-3/",
+      "ano": 0,
+      "marca": "RAM"
+    }
+  ],
+  "stats": {
+    "total": 4,
+    "precoMin": 271590,
+    "precoMax": 322915,
+    "anos": [
+      2026,
+      0
+    ]
+  }
+}

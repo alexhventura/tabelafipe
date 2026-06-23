@@ -1,0 +1,66 @@
+{
+  "tipo": "geracao",
+  "slug": "t60-1",
+  "canonicalPath": "/geracao/jac/t60-1/",
+  "titulo": "Geracao t60-1",
+  "descricao": "5 veiculos da geracao t60-1.",
+  "seo": {
+    "title": "Geracao t60-1 - Precos FIPE",
+    "description": "Veiculos da geracao t60-1 na Tabela FIPE.",
+    "h1": "Geracao t60-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/jac/t60-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "jac-t60-1-5-turbo-16v-aut-2019-gasolina",
+      "fipeCodigo": "080024-4",
+      "displayName": "JAC T60 1.5 Turbo 16V Aut.",
+      "valorAtual": 68386,
+      "canonicalPath": "/fipe/jac/t60-1-5-turbo-16v-aut-2019-080024-4/",
+      "ano": 2019,
+      "marca": "JAC"
+    },
+    {
+      "vehicleId": "jac-t60-1-5-turbo-16v-aut-2020-gasolina",
+      "fipeCodigo": "080024-4",
+      "displayName": "JAC T60 1.5 Turbo 16V Aut.",
+      "valorAtual": 70096,
+      "canonicalPath": "/fipe/jac/t60-1-5-turbo-16v-aut-2020-080024-4/",
+      "ano": 2020,
+      "marca": "JAC"
+    },
+    {
+      "vehicleId": "jac-t60-1-5-turbo-16v-aut-2021-gasolina",
+      "fipeCodigo": "080024-4",
+      "displayName": "JAC T60 1.5 Turbo 16V Aut.",
+      "valorAtual": 80632,
+      "canonicalPath": "/fipe/jac/t60-1-5-turbo-16v-aut-2021-080024-4/",
+      "ano": 2021,
+      "marca": "JAC"
+    },
+    {
+      "vehicleId": "jac-t60-plus-1-5-turbo-16v-5p-aut-2021-gasolina",
+      "fipeCodigo": "080029-5",
+      "displayName": "JAC T60 PLUS 1.5 TURBO 16V 5p Aut.",
+      "valorAtual": 78167,
+      "canonicalPath": "/fipe/jac/t60-plus-1-5-turbo-16v-5p-aut-2021-080029-5/",
+      "ano": 2021,
+      "marca": "JAC"
+    },
+    {
+      "vehicleId": "jac-t60-plus-1-5-turbo-16v-5p-aut-2022-gasolina",
+      "fipeCodigo": "080029-5",
+      "displayName": "JAC T60 PLUS 1.5 TURBO 16V 5p Aut.",
+      "valorAtual": 84312,
+      "canonicalPath": "/fipe/jac/t60-plus-1-5-turbo-16v-5p-aut-2022-080029-5/",
+      "ano": 2022,
+      "marca": "JAC"
+    }
+  ],
+  "stats": {
+    "total": 5
+  },
+  "meta": {
+    "geracaoId": "t60-1"
+  }
+}

@@ -1,0 +1,147 @@
+{
+  "tipo": "familia",
+  "slug": "fe",
+  "canonicalPath": "/fipe/husaberg/fe/",
+  "titulo": "HUSABERG fe - Tabela FIPE",
+  "descricao": "13 versoes e anos do HUSABERG fe na Tabela FIPE.",
+  "seo": {
+    "title": "HUSABERG fe - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes HUSABERG fe. 13 veiculos indexados.",
+    "h1": "HUSABERG fe - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/husaberg/fe/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "husaberg-fe-550-e-2008-gasolina",
+      "fipeCodigo": "835003-5",
+      "displayName": "HUSABERG FE 550 E",
+      "valorAtual": 21816,
+      "canonicalPath": "/fipe/husaberg/fe-550-e-2008-835003-5/",
+      "ano": 2008,
+      "marca": "HUSABERG"
+    },
+    {
+      "vehicleId": "husaberg-fe-550-e-2007-gasolina",
+      "fipeCodigo": "835003-5",
+      "displayName": "HUSABERG FE 550 E",
+      "valorAtual": 17444,
+      "canonicalPath": "/fipe/husaberg/fe-550-e-2007-835003-5/",
+      "ano": 2007,
+      "marca": "HUSABERG"
+    },
+    {
+      "vehicleId": "husaberg-fe-550-e-2006-gasolina",
+      "fipeCodigo": "835003-5",
+      "displayName": "HUSABERG FE 550 E",
+      "valorAtual": 15508,
+      "canonicalPath": "/fipe/husaberg/fe-550-e-2006-835003-5/",
+      "ano": 2006,
+      "marca": "HUSABERG"
+    },
+    {
+      "vehicleId": "husaberg-fe-400-400cc-2003-gasolina",
+      "fipeCodigo": "835002-7",
+      "displayName": "HUSABERG FE 400 400cc",
+      "valorAtual": 10655,
+      "canonicalPath": "/fipe/husaberg/fe-400-400cc-2003-835002-7/",
+      "ano": 2003,
+      "marca": "HUSABERG"
+    },
+    {
+      "vehicleId": "husaberg-fe-501-500cc-2003-gasolina",
+      "fipeCodigo": "835001-9",
+      "displayName": "HUSABERG FE 501 500cc",
+      "valorAtual": 11260,
+      "canonicalPath": "/fipe/husaberg/fe-501-500cc-2003-835001-9/",
+      "ano": 2003,
+      "marca": "HUSABERG"
+    },
+    {
+      "vehicleId": "husaberg-fe-400-400cc-2002-gasolina",
+      "fipeCodigo": "835002-7",
+      "displayName": "HUSABERG FE 400 400cc",
+      "valorAtual": 10222,
+      "canonicalPath": "/fipe/husaberg/fe-400-400cc-2002-835002-7/",
+      "ano": 2002,
+      "marca": "HUSABERG"
+    },
+    {
+      "vehicleId": "husaberg-fe-501-500cc-2002-gasolina",
+      "fipeCodigo": "835001-9",
+      "displayName": "HUSABERG FE 501 500cc",
+      "valorAtual": 10369,
+      "canonicalPath": "/fipe/husaberg/fe-501-500cc-2002-835001-9/",
+      "ano": 2002,
+      "marca": "HUSABERG"
+    },
+    {
+      "vehicleId": "husaberg-fe-400-400cc-2001-gasolina",
+      "fipeCodigo": "835002-7",
+      "displayName": "HUSABERG FE 400 400cc",
+      "valorAtual": 9731,
+      "canonicalPath": "/fipe/husaberg/fe-400-400cc-2001-835002-7/",
+      "ano": 2001,
+      "marca": "HUSABERG"
+    },
+    {
+      "vehicleId": "husaberg-fe-501-500cc-2001-gasolina",
+      "fipeCodigo": "835001-9",
+      "displayName": "HUSABERG FE 501 500cc",
+      "valorAtual": 9937,
+      "canonicalPath": "/fipe/husaberg/fe-501-500cc-2001-835001-9/",
+      "ano": 2001,
+      "marca": "HUSABERG"
+    },
+    {
+      "vehicleId": "husaberg-fe-400-400cc-2000-gasolina",
+      "fipeCodigo": "835002-7",
+      "displayName": "HUSABERG FE 400 400cc",
+      "valorAtual": 9432,
+      "canonicalPath": "/fipe/husaberg/fe-400-400cc-2000-835002-7/",
+      "ano": 2000,
+      "marca": "HUSABERG"
+    },
+    {
+      "vehicleId": "husaberg-fe-501-500cc-2000-gasolina",
+      "fipeCodigo": "835001-9",
+      "displayName": "HUSABERG FE 501 500cc",
+      "valorAtual": 9640,
+      "canonicalPath": "/fipe/husaberg/fe-501-500cc-2000-835001-9/",
+      "ano": 2000,
+      "marca": "HUSABERG"
+    },
+    {
+      "vehicleId": "husaberg-fe-400-400cc-1999-gasolina",
+      "fipeCodigo": "835002-7",
+      "displayName": "HUSABERG FE 400 400cc",
+      "valorAtual": 8949,
+      "canonicalPath": "/fipe/husaberg/fe-400-400cc-1999-835002-7/",
+      "ano": 1999,
+      "marca": "HUSABERG"
+    },
+    {
+      "vehicleId": "husaberg-fe-501-500cc-1999-gasolina",
+      "fipeCodigo": "835001-9",
+      "displayName": "HUSABERG FE 501 500cc",
+      "valorAtual": 9070,
+      "canonicalPath": "/fipe/husaberg/fe-501-500cc-1999-835001-9/",
+      "ano": 1999,
+      "marca": "HUSABERG"
+    }
+  ],
+  "stats": {
+    "total": 13,
+    "precoMin": 8949,
+    "precoMax": 21816,
+    "anos": [
+      2008,
+      2007,
+      2006,
+      2003,
+      2002,
+      2001,
+      2000,
+      1999
+    ]
+  }
+}

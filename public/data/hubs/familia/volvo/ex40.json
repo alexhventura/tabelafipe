@@ -1,0 +1,97 @@
+{
+  "tipo": "familia",
+  "slug": "ex40",
+  "canonicalPath": "/fipe/volvo/ex40/",
+  "titulo": "Volvo ex40 - Tabela FIPE",
+  "descricao": "8 versoes e anos do Volvo ex40 na Tabela FIPE.",
+  "seo": {
+    "title": "Volvo ex40 - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes Volvo ex40. 8 veiculos indexados.",
+    "h1": "Volvo ex40 - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/volvo/ex40/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "volvo-ex40-plus-p6-eletrico-2026-eletrico",
+      "fipeCodigo": "029175-7",
+      "displayName": "Volvo EX40 Plus P6 (Elétrico)",
+      "valorAtual": 276333,
+      "canonicalPath": "/fipe/volvo/ex40-plus-p6-eletrico-2026-029175-7/",
+      "ano": 2026,
+      "marca": "Volvo"
+    },
+    {
+      "vehicleId": "volvo-ex40-ultra-p8-awd-eletrico-2026-eletrico",
+      "fipeCodigo": "029171-4",
+      "displayName": "Volvo EX40 Ultra P8 AWD (Elétrico)",
+      "valorAtual": 324901,
+      "canonicalPath": "/fipe/volvo/ex40-ultra-p8-awd-eletrico-2026-029171-4/",
+      "ano": 2026,
+      "marca": "Volvo"
+    },
+    {
+      "vehicleId": "volvo-ex40-black-edition-ultra-awd-p8-2026-eletrico",
+      "fipeCodigo": "029177-3",
+      "displayName": "Volvo EX40 Black Edition Ultra AWD P8",
+      "valorAtual": 347083,
+      "canonicalPath": "/fipe/volvo/ex40-black-edition-ultra-awd-p8-2026-029177-3/",
+      "ano": 2026,
+      "marca": "Volvo"
+    },
+    {
+      "vehicleId": "volvo-ex40-plus-p6-eletrico-2025-eletrico",
+      "fipeCodigo": "029175-7",
+      "displayName": "Volvo EX40 Plus P6 (Elétrico)",
+      "valorAtual": 259572,
+      "canonicalPath": "/fipe/volvo/ex40-plus-p6-eletrico-2025-029175-7/",
+      "ano": 2025,
+      "marca": "Volvo"
+    },
+    {
+      "vehicleId": "volvo-ex40-ultra-p8-awd-eletrico-2025-eletrico",
+      "fipeCodigo": "029171-4",
+      "displayName": "Volvo EX40 Ultra P8 AWD (Elétrico)",
+      "valorAtual": 311273,
+      "canonicalPath": "/fipe/volvo/ex40-ultra-p8-awd-eletrico-2025-029171-4/",
+      "ano": 2025,
+      "marca": "Volvo"
+    },
+    {
+      "vehicleId": "volvo-ex40-plus-p6-eletrico-0-eletrico",
+      "fipeCodigo": "029175-7",
+      "displayName": "Volvo EX40 Plus P6 (Elétrico)",
+      "valorAtual": 323266,
+      "canonicalPath": "/fipe/volvo/ex40-plus-p6-eletrico-0-029175-7/",
+      "ano": 0,
+      "marca": "Volvo"
+    },
+    {
+      "vehicleId": "volvo-ex40-ultra-p8-awd-eletrico-0-eletrico",
+      "fipeCodigo": "029171-4",
+      "displayName": "Volvo EX40 Ultra P8 AWD (Elétrico)",
+      "valorAtual": 376352,
+      "canonicalPath": "/fipe/volvo/ex40-ultra-p8-awd-eletrico-0-029171-4/",
+      "ano": 0,
+      "marca": "Volvo"
+    },
+    {
+      "vehicleId": "volvo-ex40-black-edition-ultra-awd-p8-0-eletrico",
+      "fipeCodigo": "029177-3",
+      "displayName": "Volvo EX40 Black Edition Ultra AWD P8",
+      "valorAtual": 384950,
+      "canonicalPath": "/fipe/volvo/ex40-black-edition-ultra-awd-p8-0-029177-3/",
+      "ano": 0,
+      "marca": "Volvo"
+    }
+  ],
+  "stats": {
+    "total": 8,
+    "precoMin": 259572,
+    "precoMax": 384950,
+    "anos": [
+      2026,
+      2025,
+      0
+    ]
+  }
+}

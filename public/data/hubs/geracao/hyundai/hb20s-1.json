@@ -1,0 +1,84 @@
+{
+  "tipo": "geracao",
+  "slug": "hb20s-1",
+  "canonicalPath": "/geracao/hyundai/hb20s-1/",
+  "titulo": "Geracao hb20s-1",
+  "descricao": "7 veiculos da geracao hb20s-1.",
+  "seo": {
+    "title": "Geracao hb20s-1 - Precos FIPE",
+    "description": "Veiculos da geracao hb20s-1 na Tabela FIPE.",
+    "h1": "Geracao hb20s-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/hyundai/hb20s-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "hyundai-hb20s-comfort-1-0-flex-12v-mec-0-flex",
+      "fipeCodigo": "015218-8",
+      "displayName": "Hyundai HB20S Comfort 1.0  Flex 12V Mec.",
+      "valorAtual": 101500,
+      "canonicalPath": "/fipe/hyundai/hb20s-comfort-1-0-flex-12v-mec-0-015218-8/",
+      "ano": 0,
+      "marca": "Hyundai"
+    },
+    {
+      "vehicleId": "hyundai-hb20s-comfort-plus-1-0-flex-12v-mec-0-flex",
+      "fipeCodigo": "015239-0",
+      "displayName": "Hyundai HB20S Comfort Plus 1.0 Flex 12V Mec.",
+      "valorAtual": 91462,
+      "canonicalPath": "/fipe/hyundai/hb20s-comfort-plus-1-0-flex-12v-mec-0-015239-0/",
+      "ano": 0,
+      "marca": "Hyundai"
+    },
+    {
+      "vehicleId": "hyundai-hb20s-limited-1-0-flex-12v-mec-0-flex",
+      "fipeCodigo": "015219-6",
+      "displayName": "Hyundai HB20S Limited 1.0  Flex 12V Mec.",
+      "valorAtual": 103132,
+      "canonicalPath": "/fipe/hyundai/hb20s-limited-1-0-flex-12v-mec-0-015219-6/",
+      "ano": 0,
+      "marca": "Hyundai"
+    },
+    {
+      "vehicleId": "hyundai-hb20s-limited-1-0-tb-flex-12v-aut-0-flex",
+      "fipeCodigo": "015252-8",
+      "displayName": "Hyundai HB20S Limited 1.0  TB Flex 12V Aut.",
+      "valorAtual": 122062,
+      "canonicalPath": "/fipe/hyundai/hb20s-limited-1-0-tb-flex-12v-aut-0-015252-8/",
+      "ano": 0,
+      "marca": "Hyundai"
+    },
+    {
+      "vehicleId": "hyundai-hb20s-limited-plus-1-0-flex-12v-mec-0-flex",
+      "fipeCodigo": "015242-0",
+      "displayName": "Hyundai HB20S Limited Plus 1.0  Flex 12V Mec.",
+      "valorAtual": 103145,
+      "canonicalPath": "/fipe/hyundai/hb20s-limited-plus-1-0-flex-12v-mec-0-015242-0/",
+      "ano": 0,
+      "marca": "Hyundai"
+    },
+    {
+      "vehicleId": "hyundai-hb20s-plat-safety-1-0-tb-flex-12v-aut-0-flex",
+      "fipeCodigo": "015238-2",
+      "displayName": "Hyundai HB20S Plat. Safety 1.0 TB Flex 12V Aut.",
+      "valorAtual": 125994,
+      "canonicalPath": "/fipe/hyundai/hb20s-plat-safety-1-0-tb-flex-12v-aut-0-015238-2/",
+      "ano": 0,
+      "marca": "Hyundai"
+    },
+    {
+      "vehicleId": "hyundai-hb20s-platinum-1-0-tb-flex-12v-aut-0-flex",
+      "fipeCodigo": "015206-4",
+      "displayName": "Hyundai HB20S Platinum 1.0 TB Flex 12V Aut.",
+      "valorAtual": 132654,
+      "canonicalPath": "/fipe/hyundai/hb20s-platinum-1-0-tb-flex-12v-aut-0-015206-4/",
+      "ano": 0,
+      "marca": "Hyundai"
+    }
+  ],
+  "stats": {
+    "total": 7
+  },
+  "meta": {
+    "geracaoId": "hb20s-1"
+  }
+}

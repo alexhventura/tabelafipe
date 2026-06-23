@@ -1,0 +1,42 @@
+{
+  "tipo": "familia",
+  "slug": "agility",
+  "canonicalPath": "/fipe/kymco/agility/",
+  "titulo": "KYMCO agility - Tabela FIPE",
+  "descricao": "2 versoes e anos do KYMCO agility na Tabela FIPE.",
+  "seo": {
+    "title": "KYMCO agility - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes KYMCO agility. 2 veiculos indexados.",
+    "h1": "KYMCO agility - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/kymco/agility/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "kymco-agility-16-200i-abs-2022-gasolina",
+      "fipeCodigo": "832031-4",
+      "displayName": "KYMCO AGILITY 16+ 200i ABS",
+      "valorAtual": 12074,
+      "canonicalPath": "/fipe/kymco/agility-16-200i-abs-2022-832031-4/",
+      "ano": 2022,
+      "marca": "KYMCO"
+    },
+    {
+      "vehicleId": "kymco-agility-16-200i-abs-2020-gasolina",
+      "fipeCodigo": "832031-4",
+      "displayName": "KYMCO AGILITY 16+ 200i ABS",
+      "valorAtual": 11436,
+      "canonicalPath": "/fipe/kymco/agility-16-200i-abs-2020-832031-4/",
+      "ano": 2020,
+      "marca": "KYMCO"
+    }
+  ],
+  "stats": {
+    "total": 2,
+    "precoMin": 11436,
+    "precoMax": 12074,
+    "anos": [
+      2022,
+      2020
+    ]
+  }
+}

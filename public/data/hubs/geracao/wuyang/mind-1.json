@@ -1,0 +1,66 @@
+{
+  "tipo": "geracao",
+  "slug": "mind-1",
+  "canonicalPath": "/geracao/wuyang/mind-1/",
+  "titulo": "Geracao mind-1",
+  "descricao": "5 veiculos da geracao mind-1.",
+  "seo": {
+    "title": "Geracao mind-1 - Precos FIPE",
+    "description": "Veiculos da geracao mind-1 na Tabela FIPE.",
+    "h1": "Geracao mind-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/wuyang/mind-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "wuyang-mind-x50q-2016-gasolina",
+      "fipeCodigo": "851006-7",
+      "displayName": "WUYANG MIND X50q",
+      "valorAtual": 4333,
+      "canonicalPath": "/fipe/wuyang/mind-x50q-2016-851006-7/",
+      "ano": 2016,
+      "marca": "WUYANG"
+    },
+    {
+      "vehicleId": "wuyang-mind-x50q-2017-gasolina",
+      "fipeCodigo": "851006-7",
+      "displayName": "WUYANG MIND X50q",
+      "valorAtual": 4514,
+      "canonicalPath": "/fipe/wuyang/mind-x50q-2017-851006-7/",
+      "ano": 2017,
+      "marca": "WUYANG"
+    },
+    {
+      "vehicleId": "wuyang-mind-x50q-2018-gasolina",
+      "fipeCodigo": "851006-7",
+      "displayName": "WUYANG MIND X50q",
+      "valorAtual": 4675,
+      "canonicalPath": "/fipe/wuyang/mind-x50q-2018-851006-7/",
+      "ano": 2018,
+      "marca": "WUYANG"
+    },
+    {
+      "vehicleId": "wuyang-mind-x50q-2019-gasolina",
+      "fipeCodigo": "851006-7",
+      "displayName": "WUYANG MIND X50q",
+      "valorAtual": 6166,
+      "canonicalPath": "/fipe/wuyang/mind-x50q-2019-851006-7/",
+      "ano": 2019,
+      "marca": "WUYANG"
+    },
+    {
+      "vehicleId": "wuyang-mind-x50q-2020-gasolina",
+      "fipeCodigo": "851006-7",
+      "displayName": "WUYANG MIND X50q",
+      "valorAtual": 7118,
+      "canonicalPath": "/fipe/wuyang/mind-x50q-2020-851006-7/",
+      "ano": 2020,
+      "marca": "WUYANG"
+    }
+  ],
+  "stats": {
+    "total": 5
+  },
+  "meta": {
+    "geracaoId": "mind-1"
+  }
+}

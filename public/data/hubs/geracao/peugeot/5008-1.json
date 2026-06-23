@@ -1,0 +1,84 @@
+{
+  "tipo": "geracao",
+  "slug": "5008-1",
+  "canonicalPath": "/geracao/peugeot/5008-1/",
+  "titulo": "Geracao 5008-1",
+  "descricao": "7 veiculos da geracao 5008-1.",
+  "seo": {
+    "title": "Geracao 5008-1 - Precos FIPE",
+    "description": "Veiculos da geracao 5008-1 na Tabela FIPE.",
+    "h1": "Geracao 5008-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/peugeot/5008-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "peugeot-5008-griffe-1-6-turbo-16v-5p-aut-2017-gasolina",
+      "fipeCodigo": "024235-7",
+      "displayName": "Peugeot 5008 Griffe 1.6 Turbo 16V 5p Aut.",
+      "valorAtual": 103369,
+      "canonicalPath": "/fipe/peugeot/5008-griffe-1-6-turbo-16v-5p-aut-2017-024235-7/",
+      "ano": 2017,
+      "marca": "Peugeot"
+    },
+    {
+      "vehicleId": "peugeot-5008-griffe-1-6-turbo-16v-5p-aut-2018-gasolina",
+      "fipeCodigo": "024235-7",
+      "displayName": "Peugeot 5008 Griffe 1.6 Turbo 16V 5p Aut.",
+      "valorAtual": 107785,
+      "canonicalPath": "/fipe/peugeot/5008-griffe-1-6-turbo-16v-5p-aut-2018-024235-7/",
+      "ano": 2018,
+      "marca": "Peugeot"
+    },
+    {
+      "vehicleId": "peugeot-5008-griffe-1-6-turbo-16v-5p-aut-2019-gasolina",
+      "fipeCodigo": "024235-7",
+      "displayName": "Peugeot 5008 Griffe 1.6 Turbo 16V 5p Aut.",
+      "valorAtual": 110480,
+      "canonicalPath": "/fipe/peugeot/5008-griffe-1-6-turbo-16v-5p-aut-2019-024235-7/",
+      "ano": 2019,
+      "marca": "Peugeot"
+    },
+    {
+      "vehicleId": "peugeot-5008-griffe-pack-1-6-turbo-16v-5p-aut-2017-gasolina",
+      "fipeCodigo": "024236-5",
+      "displayName": "Peugeot 5008 Griffe Pack 1.6 Turbo 16V 5p Aut.",
+      "valorAtual": 104705,
+      "canonicalPath": "/fipe/peugeot/5008-griffe-pack-1-6-turbo-16v-5p-aut-2017-024236-5/",
+      "ano": 2017,
+      "marca": "Peugeot"
+    },
+    {
+      "vehicleId": "peugeot-5008-griffe-pack-1-6-turbo-16v-5p-aut-2018-gasolina",
+      "fipeCodigo": "024236-5",
+      "displayName": "Peugeot 5008 Griffe Pack 1.6 Turbo 16V 5p Aut.",
+      "valorAtual": 110036,
+      "canonicalPath": "/fipe/peugeot/5008-griffe-pack-1-6-turbo-16v-5p-aut-2018-024236-5/",
+      "ano": 2018,
+      "marca": "Peugeot"
+    },
+    {
+      "vehicleId": "peugeot-5008-griffe-pack-1-6-turbo-16v-5p-aut-2019-gasolina",
+      "fipeCodigo": "024236-5",
+      "displayName": "Peugeot 5008 Griffe Pack 1.6 Turbo 16V 5p Aut.",
+      "valorAtual": 113567,
+      "canonicalPath": "/fipe/peugeot/5008-griffe-pack-1-6-turbo-16v-5p-aut-2019-024236-5/",
+      "ano": 2019,
+      "marca": "Peugeot"
+    },
+    {
+      "vehicleId": "peugeot-5008-griffe-pack-1-6-turbo-16v-5p-aut-2020-gasolina",
+      "fipeCodigo": "024236-5",
+      "displayName": "Peugeot 5008 Griffe Pack 1.6 Turbo 16V 5p Aut.",
+      "valorAtual": 121508,
+      "canonicalPath": "/fipe/peugeot/5008-griffe-pack-1-6-turbo-16v-5p-aut-2020-024236-5/",
+      "ano": 2020,
+      "marca": "Peugeot"
+    }
+  ],
+  "stats": {
+    "total": 7
+  },
+  "meta": {
+    "geracaoId": "5008-1"
+  }
+}

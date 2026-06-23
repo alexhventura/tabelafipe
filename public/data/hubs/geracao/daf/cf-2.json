@@ -1,0 +1,741 @@
+{
+  "tipo": "geracao",
+  "slug": "cf-2",
+  "canonicalPath": "/geracao/daf/cf-2/",
+  "titulo": "Geracao cf-2",
+  "descricao": "225 veiculos da geracao cf-2.",
+  "seo": {
+    "title": "Geracao cf-2 - Precos FIPE",
+    "description": "Veiculos da geracao cf-2 na Tabela FIPE.",
+    "h1": "Geracao cf-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/daf/cf-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "daf-cf-85-ft-360-4x2-diesel-e5-2016-diesel",
+      "fipeCodigo": "530008-8",
+      "displayName": "DAF CF 85 FT 360 4x2 (diesel)(E5)",
+      "valorAtual": 190120,
+      "canonicalPath": "/fipe/daf/cf-85-ft-360-4x2-diesel-e5-2016-530008-8/",
+      "ano": 2016,
+      "marca": "DAF"
+    },
+    {
+      "vehicleId": "daf-cf-85-ft-360-4x2-diesel-e5-2017-diesel",
+      "fipeCodigo": "530008-8",
+      "displayName": "DAF CF 85 FT 360 4x2 (diesel)(E5)",
+      "valorAtual": 227407,
+      "canonicalPath": "/fipe/daf/cf-85-ft-360-4x2-diesel-e5-2017-530008-8/",
+      "ano": 2017,
+      "marca": "DAF"
+    },
+    {
+      "vehicleId": "daf-cf-85-ft-360-4x2-diesel-e5-2018-diesel",
+      "fipeCodigo": "530008-8",
+      "displayName": "DAF CF 85 FT 360 4x2 (diesel)(E5)",
+      "valorAtual": 249626,
+      "canonicalPath": "/fipe/daf/cf-85-ft-360-4x2-diesel-e5-2018-530008-8/",
+      "ano": 2018,
+      "marca": "DAF"
+    },
+    {
+      "vehicleId": "daf-cf-85-ft-360-4x2-diesel-e5-2019-diesel",
+      "fipeCodigo": "530008-8",
+      "displayName": "DAF CF 85 FT 360 4x2 (diesel)(E5)",
+      "valorAtual": 285350,
+      "canonicalPath": "/fipe/daf/cf-85-ft-360-4x2-diesel-e5-2019-530008-8/",
+      "ano": 2019,
+      "marca": "DAF"
+    },
+    {
+      "vehicleId": "daf-cf-85-ft-360-4x2-diesel-e5-2020-diesel",
+      "fipeCodigo": "530008-8",
+      "displayName": "DAF CF 85 FT 360 4x2 (diesel)(E5)",
+      "valorAtual": 327401,
+      "canonicalPath": "/fipe/daf/cf-85-ft-360-4x2-diesel-e5-2020-530008-8/",
+      "ano": 2020,
+      "marca": "DAF"
+    },
+    {
+      "vehicleId": "daf-cf-85-ft-410-4x2-diesel-e5-2016-diesel",
+      "fipeCodigo": "530005-3",
+      "displayName": "DAF CF 85 FT 410 4x2 (diesel)(E5)",
+      "valorAtual": 235802,
+      "canonicalPath": "/fipe/daf/cf-85-ft-410-4x2-diesel-e5-2016-530005-3/",
+      "ano": 2016,
+      "marca": "DAF"
+    },
+    {
+      "vehicleId": "daf-cf-85-ft-410-4x2-diesel-e5-2017-diesel",
+      "fipeCodigo": "530005-3",
+      "displayName": "DAF CF 85 FT 410 4x2 (diesel)(E5)",
+      "valorAtual": 272284,
+      "canonicalPath": "/fipe/daf/cf-85-ft-410-4x2-diesel-e5-2017-530005-3/",
+      "ano": 2017,
+      "marca": "DAF"
+    },
+    {
+      "vehicleId": "daf-cf-85-ft-410-4x2-diesel-e5-2018-diesel",
+      "fipeCodigo": "530005-3",
+      "displayName": "DAF CF 85 FT 410 4x2 (diesel)(E5)",
+      "valorAtual": 281696,
+      "canonicalPath": "/fipe/daf/cf-85-ft-410-4x2-diesel-e5-2018-530005-3/",
+      "ano": 2018,
+      "marca": "DAF"
+    },
+    {
+      "vehicleId": "daf-cf-85-ft-410-4x2-diesel-e5-2019-diesel",
+      "fipeCodigo": "530005-3",
+      "displayName": "DAF CF 85 FT 410 4x2 (diesel)(E5)",
+      "valorAtual": 301532,
+      "canonicalPath": "/fipe/daf/cf-85-ft-410-4x2-diesel-e5-2019-530005-3/",
+      "ano": 2019,
+      "marca": "DAF"
+    },
+    {
+      "vehicleId": "daf-cf-85-ft-410-4x2-diesel-e5-2020-diesel",
+      "fipeCodigo": "530005-3",
+      "displayName": "DAF CF 85 FT 410 4x2 (diesel)(E5)",
+      "valorAtual": 327425,
+      "canonicalPath": "/fipe/daf/cf-85-ft-410-4x2-diesel-e5-2020-530005-3/",
+      "ano": 2020,
+      "marca": "DAF"
+    },
+    {
+      "vehicleId": "daf-cf-85-fts-360-6x2-diesel-e5-2016-diesel",
+      "fipeCodigo": "530007-0",
+      "displayName": "DAF CF 85 FTS 360 6x2 (diesel)(E5)",
+      "valorAtual": 216085,
+      "canonicalPath": "/fipe/daf/cf-85-fts-360-6x2-diesel-e5-2016-530007-0/",
+      "ano": 2016,
+      "marca": "DAF"
+    },
+    {
+      "vehicleId": "daf-cf-85-fts-360-6x2-diesel-e5-2017-diesel",
+      "fipeCodigo": "530007-0",
+      "displayName": "DAF CF 85 FTS 360 6x2 (diesel)(E5)",
+      "valorAtual": 250098,
+      "canonicalPath": "/fipe/daf/cf-85-fts-360-6x2-diesel-e5-2017-530007-0/",
+      "ano": 2017,
+      "marca": "DAF"
+    },
+    {
+      "vehicleId": "daf-cf-85-fts-360-6x2-diesel-e5-2018-diesel",
+      "fipeCodigo": "530007-0",
+      "displayName": "DAF CF 85 FTS 360 6x2 (diesel)(E5)",
+      "valorAtual": 282155,
+      "canonicalPath": "/fipe/daf/cf-85-fts-360-6x2-diesel-e5-2018-530007-0/",
+      "ano": 2018,
+      "marca": "DAF"
+    },
+    {
+      "vehicleId": "daf-cf-85-fts-360-6x2-diesel-e5-2019-diesel",
+      "fipeCodigo": "530007-0",
+      "displayName": "DAF CF 85 FTS 360 6x2 (diesel)(E5)",
+      "valorAtual": 306192,
+      "canonicalPath": "/fipe/daf/cf-85-fts-360-6x2-diesel-e5-2019-530007-0/",
+      "ano": 2019,
+      "marca": "DAF"
+    },
+    {
+      "vehicleId": "daf-cf-85-fts-360-6x2-diesel-e5-2020-diesel",
+      "fipeCodigo": "530007-0",
+      "displayName": "DAF CF 85 FTS 360 6x2 (diesel)(E5)",
+      "valorAtual": 327415,
+      "canonicalPath": "/fipe/daf/cf-85-fts-360-6x2-diesel-e5-2020-530007-0/",
+      "ano": 2020,
+      "marca": "DAF"
+    },
+    {
+      "vehicleId": "daf-cf-85-fts-410-6x2-diesel-e5-2016-diesel",
+      "fipeCodigo": "530006-1",
+      "displayName": "DAF CF 85 FTS 410 6x2 (diesel)(E5)",
+      "valorAtual": 242500,
+      "canonicalPath": "/fipe/daf/cf-85-fts-410-6x2-diesel-e5-2016-530006-1/",
+      "ano": 2016,
+      "marca": "DAF"
+    },
+    {
+      "vehicleId": "daf-cf-85-fts-410-6x2-diesel-e5-2017-diesel",
+      "fipeCodigo": "530006-1",
+      "displayName": "DAF CF 85 FTS 410 6x2 (diesel)(E5)",
+      "valorAtual": 274608,
+      "canonicalPath": "/fipe/daf/cf-85-fts-410-6x2-diesel-e5-2017-530006-1/",
+      "ano": 2017,
+      "marca": "DAF"
+    },
+    {
+      "vehicleId": "daf-cf-85-fts-410-6x2-diesel-e5-2018-diesel",
+      "fipeCodigo": "530006-1",
+      "displayName": "DAF CF 85 FTS 410 6x2 (diesel)(E5)",
+      "valorAtual": 283009,
+      "canonicalPath": "/fipe/daf/cf-85-fts-410-6x2-diesel-e5-2018-530006-1/",
+      "ano": 2018,
+      "marca": "DAF"
+    },
+    {
+      "vehicleId": "daf-cf-85-fts-410-6x2-diesel-e5-2019-diesel",
+      "fipeCodigo": "530006-1",
+      "displayName": "DAF CF 85 FTS 410 6x2 (diesel)(E5)",
+      "valorAtual": 306300,
+      "canonicalPath": "/fipe/daf/cf-85-fts-410-6x2-diesel-e5-2019-530006-1/",
+      "ano": 2019,
+      "marca": "DAF"
+    },
+    {
+      "vehicleId": "daf-cf-85-fts-410-6x2-diesel-e5-2020-diesel",
+      "fipeCodigo": "530006-1",
+      "displayName": "DAF CF 85 FTS 410 6x2 (diesel)(E5)",
+      "valorAtual": 327438,
+      "canonicalPath": "/fipe/daf/cf-85-fts-410-6x2-diesel-e5-2020-530006-1/",
+      "ano": 2020,
+      "marca": "DAF"
+    },
+    {
+      "vehicleId": "daf-cf-85-ftt-460-6x4-diesel-e5-2017-diesel",
+      "fipeCodigo": "530010-0",
+      "displayName": "DAF CF 85 FTT 460 6x4 (diesel)(E5)",
+      "valorAtual": 276190,
+      "canonicalPath": "/fipe/daf/cf-85-ftt-460-6x4-diesel-e5-2017-530010-0/",
+      "ano": 2017,
+      "marca": "DAF"
+    },
+    {
+      "vehicleId": "daf-cf-85-ftt-460-6x4-diesel-e5-2018-diesel",
+      "fipeCodigo": "530010-0",
+      "displayName": "DAF CF 85 FTT 460 6x4 (diesel)(E5)",
+      "valorAtual": 296229,
+      "canonicalPath": "/fipe/daf/cf-85-ftt-460-6x4-diesel-e5-2018-530010-0/",
+      "ano": 2018,
+      "marca": "DAF"
+    },
+    {
+      "vehicleId": "daf-cf-85-ftt-460-6x4-diesel-e5-2019-diesel",
+      "fipeCodigo": "530010-0",
+      "displayName": "DAF CF 85 FTT 460 6x4 (diesel)(E5)",
+      "valorAtual": 306372,
+      "canonicalPath": "/fipe/daf/cf-85-ftt-460-6x4-diesel-e5-2019-530010-0/",
+      "ano": 2019,
+      "marca": "DAF"
+    },
+    {
+      "vehicleId": "daf-cf-85-ftt-460-6x4-diesel-e5-2020-diesel",
+      "fipeCodigo": "530010-0",
+      "displayName": "DAF CF 85 FTT 460 6x4 (diesel)(E5)",
+      "valorAtual": 327617,
+      "canonicalPath": "/fipe/daf/cf-85-ftt-460-6x4-diesel-e5-2020-530010-0/",
+      "ano": 2020,
+      "marca": "DAF"
+    },
+    {
+      "vehicleId": "daf-cf-fac-300-8x2-sleep-cab-aut-die-e5-2022-diesel",
+      "fipeCodigo": "530040-1",
+      "displayName": "DAF CF FAC 300 8X2 Sleep. Cab Aut (Die)(E5)",
+      "valorAtual": 415654,
+      "canonicalPath": "/fipe/daf/cf-fac-300-8x2-sleep-cab-aut-die-e5-2022-530040-1/",
+      "ano": 2022,
+      "marca": "DAF"
+    },
+    {
+      "vehicleId": "daf-cf-fac-300-8x2-sleep-cab-aut-die-e5-2023-diesel",
+      "fipeCodigo": "530040-1",
+      "displayName": "DAF CF FAC 300 8X2 Sleep. Cab Aut (Die)(E5)",
+      "valorAtual": 438411,
+      "canonicalPath": "/fipe/daf/cf-fac-300-8x2-sleep-cab-aut-die-e5-2023-530040-1/",
+      "ano": 2023,
+      "marca": "DAF"
+    },
+    {
+      "vehicleId": "daf-cf-fac-300-8x2-space-cab-aut-die-e5-2022-diesel",
+      "fipeCodigo": "530038-0",
+      "displayName": "DAF CF FAC 300 8X2 Space Cab Aut (Die)(E5)",
+      "valorAtual": 421409,
+      "canonicalPath": "/fipe/daf/cf-fac-300-8x2-space-cab-aut-die-e5-2022-530038-0/",
+      "ano": 2022,
+      "marca": "DAF"
+    },
+    {
+      "vehicleId": "daf-cf-fac-300-8x2-space-cab-aut-die-e5-2023-diesel",
+      "fipeCodigo": "530038-0",
+      "displayName": "DAF CF FAC 300 8X2 Space Cab Aut (Die)(E5)",
+      "valorAtual": 485452,
+      "canonicalPath": "/fipe/daf/cf-fac-300-8x2-space-cab-aut-die-e5-2023-530038-0/",
+      "ano": 2023,
+      "marca": "DAF"
+    },
+    {
+      "vehicleId": "daf-cf-fac-300-8x2-spleep-cab-mec-die-e5-2022-diesel",
+      "fipeCodigo": "530037-1",
+      "displayName": "DAF CF FAC 300 8X2 Spleep. Cab Mec (Die)(E5)",
+      "valorAtual": 426697,
+      "canonicalPath": "/fipe/daf/cf-fac-300-8x2-spleep-cab-mec-die-e5-2022-530037-1/",
+      "ano": 2022,
+      "marca": "DAF"
+    },
+    {
+      "vehicleId": "daf-cf-fac-300-8x2-spleep-cab-mec-die-e5-2023-diesel",
+      "fipeCodigo": "530037-1",
+      "displayName": "DAF CF FAC 300 8X2 Spleep. Cab Mec (Die)(E5)",
+      "valorAtual": 440770,
+      "canonicalPath": "/fipe/daf/cf-fac-300-8x2-spleep-cab-mec-die-e5-2023-530037-1/",
+      "ano": 2023,
+      "marca": "DAF"
+    },
+    {
+      "vehicleId": "daf-cf-fac-300-8x2-space-cab-mec-die-e5-2022-diesel",
+      "fipeCodigo": "530039-8",
+      "displayName": "DAF CF FAC 300 8x2 Space Cab Mec (Die)(E5)",
+      "valorAtual": 423743,
+      "canonicalPath": "/fipe/daf/cf-fac-300-8x2-space-cab-mec-die-e5-2022-530039-8/",
+      "ano": 2022,
+      "marca": "DAF"
+    },
+    {
+      "vehicleId": "daf-cf-fac-300-8x2-space-cab-mec-die-e5-2023-diesel",
+      "fipeCodigo": "530039-8",
+      "displayName": "DAF CF FAC 300 8x2 Space Cab Mec (Die)(E5)",
+      "valorAtual": 479630,
+      "canonicalPath": "/fipe/daf/cf-fac-300-8x2-space-cab-mec-die-e5-2023-530039-8/",
+      "ano": 2023,
+      "marca": "DAF"
+    },
+    {
+      "vehicleId": "daf-cf-fac-310-8x2-sleep-cab-mec-die-e6-2023-diesel",
+      "fipeCodigo": "530081-9",
+      "displayName": "DAF CF FAC 310 8X2 Sleep. Cab Mec (Die.)(E6)",
+      "valorAtual": 513208,
+      "canonicalPath": "/fipe/daf/cf-fac-310-8x2-sleep-cab-mec-die-e6-2023-530081-9/",
+      "ano": 2023,
+      "marca": "DAF"
+    },
+    {
+      "vehicleId": "daf-cf-fac-310-8x2-sleep-cab-mec-die-e6-2024-diesel",
+      "fipeCodigo": "530081-9",
+      "displayName": "DAF CF FAC 310 8X2 Sleep. Cab Mec (Die.)(E6)",
+      "valorAtual": 547263,
+      "canonicalPath": "/fipe/daf/cf-fac-310-8x2-sleep-cab-mec-die-e6-2024-530081-9/",
+      "ano": 2024,
+      "marca": "DAF"
+    },
+    {
+      "vehicleId": "daf-cf-fac-310-8x2-sleep-cab-mec-die-e6-2025-diesel",
+      "fipeCodigo": "530081-9",
+      "displayName": "DAF CF FAC 310 8X2 Sleep. Cab Mec (Die.)(E6)",
+      "valorAtual": 591609,
+      "canonicalPath": "/fipe/daf/cf-fac-310-8x2-sleep-cab-mec-die-e6-2025-530081-9/",
+      "ano": 2025,
+      "marca": "DAF"
+    },
+    {
+      "vehicleId": "daf-cf-fac-310-8x2-sleep-cab-mec-die-e6-2026-diesel",
+      "fipeCodigo": "530081-9",
+      "displayName": "DAF CF FAC 310 8X2 Sleep. Cab Mec (Die.)(E6)",
+      "valorAtual": 615429,
+      "canonicalPath": "/fipe/daf/cf-fac-310-8x2-sleep-cab-mec-die-e6-2026-530081-9/",
+      "ano": 2026,
+      "marca": "DAF"
+    },
+    {
+      "vehicleId": "daf-cf-fac-310-8x2-sleep-cab-aut-die-e6-2023-diesel",
+      "fipeCodigo": "530080-0",
+      "displayName": "DAF CF FAC 310 8X2 Sleep.Cab Aut. (Die.)(E6)",
+      "valorAtual": 513913,
+      "canonicalPath": "/fipe/daf/cf-fac-310-8x2-sleep-cab-aut-die-e6-2023-530080-0/",
+      "ano": 2023,
+      "marca": "DAF"
+    },
+    {
+      "vehicleId": "daf-cf-fac-310-8x2-sleep-cab-aut-die-e6-2024-diesel",
+      "fipeCodigo": "530080-0",
+      "displayName": "DAF CF FAC 310 8X2 Sleep.Cab Aut. (Die.)(E6)",
+      "valorAtual": 550314,
+      "canonicalPath": "/fipe/daf/cf-fac-310-8x2-sleep-cab-aut-die-e6-2024-530080-0/",
+      "ano": 2024,
+      "marca": "DAF"
+    },
+    {
+      "vehicleId": "daf-cf-fac-310-8x2-sleep-cab-aut-die-e6-2025-diesel",
+      "fipeCodigo": "530080-0",
+      "displayName": "DAF CF FAC 310 8X2 Sleep.Cab Aut. (Die.)(E6)",
+      "valorAtual": 591640,
+      "canonicalPath": "/fipe/daf/cf-fac-310-8x2-sleep-cab-aut-die-e6-2025-530080-0/",
+      "ano": 2025,
+      "marca": "DAF"
+    },
+    {
+      "vehicleId": "daf-cf-fac-310-8x2-sleep-cab-aut-die-e6-2026-diesel",
+      "fipeCodigo": "530080-0",
+      "displayName": "DAF CF FAC 310 8X2 Sleep.Cab Aut. (Die.)(E6)",
+      "valorAtual": 615570,
+      "canonicalPath": "/fipe/daf/cf-fac-310-8x2-sleep-cab-aut-die-e6-2026-530080-0/",
+      "ano": 2026,
+      "marca": "DAF"
+    },
+    {
+      "vehicleId": "daf-cf-fac-310-8x2-space-cab-aut-die-e6-2023-diesel",
+      "fipeCodigo": "530078-9",
+      "displayName": "DAF CF FAC 310 8X2 Space Cab Aut (Die.)(E6)",
+      "valorAtual": 542344,
+      "canonicalPath": "/fipe/daf/cf-fac-310-8x2-space-cab-aut-die-e6-2023-530078-9/",
+      "ano": 2023,
+      "marca": "DAF"
+    },
+    {
+      "vehicleId": "daf-cf-fac-310-8x2-space-cab-aut-die-e6-2024-diesel",
+      "fipeCodigo": "530078-9",
+      "displayName": "DAF CF FAC 310 8X2 Space Cab Aut (Die.)(E6)",
+      "valorAtual": 574925,
+      "canonicalPath": "/fipe/daf/cf-fac-310-8x2-space-cab-aut-die-e6-2024-530078-9/",
+      "ano": 2024,
+      "marca": "DAF"
+    },
+    {
+      "vehicleId": "daf-cf-fac-310-8x2-space-cab-aut-die-e6-2025-diesel",
+      "fipeCodigo": "530078-9",
+      "displayName": "DAF CF FAC 310 8X2 Space Cab Aut (Die.)(E6)",
+      "valorAtual": 593137,
+      "canonicalPath": "/fipe/daf/cf-fac-310-8x2-space-cab-aut-die-e6-2025-530078-9/",
+      "ano": 2025,
+      "marca": "DAF"
+    },
+    {
+      "vehicleId": "daf-cf-fac-310-8x2-space-cab-aut-die-e6-2026-diesel",
+      "fipeCodigo": "530078-9",
+      "displayName": "DAF CF FAC 310 8X2 Space Cab Aut (Die.)(E6)",
+      "valorAtual": 624470,
+      "canonicalPath": "/fipe/daf/cf-fac-310-8x2-space-cab-aut-die-e6-2026-530078-9/",
+      "ano": 2026,
+      "marca": "DAF"
+    },
+    {
+      "vehicleId": "daf-cf-fac-310-8x2-space-cab-mec-die-e6-2023-diesel",
+      "fipeCodigo": "530079-7",
+      "displayName": "DAF CF FAC 310 8x2 Space Cab Mec. (Die.)(E6)",
+      "valorAtual": 514035,
+      "canonicalPath": "/fipe/daf/cf-fac-310-8x2-space-cab-mec-die-e6-2023-530079-7/",
+      "ano": 2023,
+      "marca": "DAF"
+    },
+    {
+      "vehicleId": "daf-cf-fac-310-8x2-space-cab-mec-die-e6-2024-diesel",
+      "fipeCodigo": "530079-7",
+      "displayName": "DAF CF FAC 310 8x2 Space Cab Mec. (Die.)(E6)",
+      "valorAtual": 531529,
+      "canonicalPath": "/fipe/daf/cf-fac-310-8x2-space-cab-mec-die-e6-2024-530079-7/",
+      "ano": 2024,
+      "marca": "DAF"
+    },
+    {
+      "vehicleId": "daf-cf-fac-310-8x2-space-cab-mec-die-e6-2025-diesel",
+      "fipeCodigo": "530079-7",
+      "displayName": "DAF CF FAC 310 8x2 Space Cab Mec. (Die.)(E6)",
+      "valorAtual": 591146,
+      "canonicalPath": "/fipe/daf/cf-fac-310-8x2-space-cab-mec-die-e6-2025-530079-7/",
+      "ano": 2025,
+      "marca": "DAF"
+    },
+    {
+      "vehicleId": "daf-cf-fac-310-8x2-space-cab-mec-die-e6-2026-diesel",
+      "fipeCodigo": "530079-7",
+      "displayName": "DAF CF FAC 310 8x2 Space Cab Mec. (Die.)(E6)",
+      "valorAtual": 610319,
+      "canonicalPath": "/fipe/daf/cf-fac-310-8x2-space-cab-mec-die-e6-2026-530079-7/",
+      "ano": 2026,
+      "marca": "DAF"
+    },
+    {
+      "vehicleId": "daf-cf-fac-340-8x2-sleeper-cab-diesel-e6-2023-diesel",
+      "fipeCodigo": "530064-9",
+      "displayName": "DAF CF FAC 340 8X2 Sleeper Cab (Diesel)(E6)",
+      "valorAtual": 556892,
+      "canonicalPath": "/fipe/daf/cf-fac-340-8x2-sleeper-cab-diesel-e6-2023-530064-9/",
+      "ano": 2023,
+      "marca": "DAF"
+    },
+    {
+      "vehicleId": "daf-cf-fac-340-8x2-sleeper-cab-diesel-e6-2024-diesel",
+      "fipeCodigo": "530064-9",
+      "displayName": "DAF CF FAC 340 8X2 Sleeper Cab (Diesel)(E6)",
+      "valorAtual": 610259,
+      "canonicalPath": "/fipe/daf/cf-fac-340-8x2-sleeper-cab-diesel-e6-2024-530064-9/",
+      "ano": 2024,
+      "marca": "DAF"
+    },
+    {
+      "vehicleId": "daf-cf-fac-340-8x2-space-cab-diesel-e6-2023-diesel",
+      "fipeCodigo": "530062-2",
+      "displayName": "DAF CF FAC 340 8X2 Space Cab (Diesel)(E6)",
+      "valorAtual": 602779,
+      "canonicalPath": "/fipe/daf/cf-fac-340-8x2-space-cab-diesel-e6-2023-530062-2/",
+      "ano": 2023,
+      "marca": "DAF"
+    },
+    {
+      "vehicleId": "daf-cf-fac-340-8x2-space-cab-diesel-e6-2024-diesel",
+      "fipeCodigo": "530062-2",
+      "displayName": "DAF CF FAC 340 8X2 Space Cab (Diesel)(E6)",
+      "valorAtual": 630446,
+      "canonicalPath": "/fipe/daf/cf-fac-340-8x2-space-cab-diesel-e6-2024-530062-2/",
+      "ano": 2024,
+      "marca": "DAF"
+    },
+    {
+      "vehicleId": "daf-cf-fac-370-8x2-sleeper-cab-diesel-e6-2023-diesel",
+      "fipeCodigo": "530063-0",
+      "displayName": "DAF CF FAC 370 8X2 Sleeper Cab (Diesel)(E6)",
+      "valorAtual": 567905,
+      "canonicalPath": "/fipe/daf/cf-fac-370-8x2-sleeper-cab-diesel-e6-2023-530063-0/",
+      "ano": 2023,
+      "marca": "DAF"
+    },
+    {
+      "vehicleId": "daf-cf-fac-370-8x2-sleeper-cab-diesel-e6-2024-diesel",
+      "fipeCodigo": "530063-0",
+      "displayName": "DAF CF FAC 370 8X2 Sleeper Cab (Diesel)(E6)",
+      "valorAtual": 630235,
+      "canonicalPath": "/fipe/daf/cf-fac-370-8x2-sleeper-cab-diesel-e6-2024-530063-0/",
+      "ano": 2024,
+      "marca": "DAF"
+    },
+    {
+      "vehicleId": "daf-cf-fac-370-8x2-space-cab-diesel-e6-2023-diesel",
+      "fipeCodigo": "530060-6",
+      "displayName": "DAF CF FAC 370 8X2 Space Cab (Diesel)(E6)",
+      "valorAtual": 605994,
+      "canonicalPath": "/fipe/daf/cf-fac-370-8x2-space-cab-diesel-e6-2023-530060-6/",
+      "ano": 2023,
+      "marca": "DAF"
+    },
+    {
+      "vehicleId": "daf-cf-fac-370-8x2-space-cab-diesel-e6-2024-diesel",
+      "fipeCodigo": "530060-6",
+      "displayName": "DAF CF FAC 370 8X2 Space Cab (Diesel)(E6)",
+      "valorAtual": 639545,
+      "canonicalPath": "/fipe/daf/cf-fac-370-8x2-space-cab-diesel-e6-2024-530060-6/",
+      "ano": 2024,
+      "marca": "DAF"
+    },
+    {
+      "vehicleId": "daf-cf-fac-410-8x2-sleeper-cab-diesel-e6-2023-diesel",
+      "fipeCodigo": "530061-4",
+      "displayName": "DAF CF FAC 410 8X2 Sleeper Cab (Diesel)(E6)",
+      "valorAtual": 624186,
+      "canonicalPath": "/fipe/daf/cf-fac-410-8x2-sleeper-cab-diesel-e6-2023-530061-4/",
+      "ano": 2023,
+      "marca": "DAF"
+    },
+    {
+      "vehicleId": "daf-cf-fac-410-8x2-sleeper-cab-diesel-e6-2024-diesel",
+      "fipeCodigo": "530061-4",
+      "displayName": "DAF CF FAC 410 8X2 Sleeper Cab (Diesel)(E6)",
+      "valorAtual": 657133,
+      "canonicalPath": "/fipe/daf/cf-fac-410-8x2-sleeper-cab-diesel-e6-2024-530061-4/",
+      "ano": 2024,
+      "marca": "DAF"
+    },
+    {
+      "vehicleId": "daf-cf-fac-410-8x2-space-cab-die-e5-2021-diesel",
+      "fipeCodigo": "530026-6",
+      "displayName": "DAF CF FAC 410 8X2 Space Cab (Die)(E5)",
+      "valorAtual": 427275,
+      "canonicalPath": "/fipe/daf/cf-fac-410-8x2-space-cab-die-e5-2021-530026-6/",
+      "ano": 2021,
+      "marca": "DAF"
+    },
+    {
+      "vehicleId": "daf-cf-fac-410-8x2-space-cab-die-e5-2022-diesel",
+      "fipeCodigo": "530026-6",
+      "displayName": "DAF CF FAC 410 8X2 Space Cab (Die)(E5)",
+      "valorAtual": 491122,
+      "canonicalPath": "/fipe/daf/cf-fac-410-8x2-space-cab-die-e5-2022-530026-6/",
+      "ano": 2022,
+      "marca": "DAF"
+    },
+    {
+      "vehicleId": "daf-cf-fac-410-8x2-space-cab-die-e5-2023-diesel",
+      "fipeCodigo": "530026-6",
+      "displayName": "DAF CF FAC 410 8X2 Space Cab (Die)(E5)",
+      "valorAtual": 545346,
+      "canonicalPath": "/fipe/daf/cf-fac-410-8x2-space-cab-die-e5-2023-530026-6/",
+      "ano": 2023,
+      "marca": "DAF"
+    },
+    {
+      "vehicleId": "daf-cf-fac-410-8x2-space-cab-diesel-e6-2023-diesel",
+      "fipeCodigo": "530065-7",
+      "displayName": "DAF CF FAC 410 8X2 Space Cab (Diesel)(E6)",
+      "valorAtual": 625549,
+      "canonicalPath": "/fipe/daf/cf-fac-410-8x2-space-cab-diesel-e6-2023-530065-7/",
+      "ano": 2023,
+      "marca": "DAF"
+    },
+    {
+      "vehicleId": "daf-cf-fac-410-8x2-space-cab-diesel-e6-2024-diesel",
+      "fipeCodigo": "530065-7",
+      "displayName": "DAF CF FAC 410 8X2 Space Cab (Diesel)(E6)",
+      "valorAtual": 667873,
+      "canonicalPath": "/fipe/daf/cf-fac-410-8x2-space-cab-diesel-e6-2024-530065-7/",
+      "ano": 2024,
+      "marca": "DAF"
+    },
+    {
+      "vehicleId": "daf-cf-fad-480-8x4-day-cab-aut-e6-2026-diesel",
+      "fipeCodigo": "530109-2",
+      "displayName": "DAF CF FAD 480 8X4 Day Cab Aut.(E6)",
+      "valorAtual": 1022125,
+      "canonicalPath": "/fipe/daf/cf-fad-480-8x4-day-cab-aut-e6-2026-530109-2/",
+      "ano": 2026,
+      "marca": "DAF"
+    },
+    {
+      "vehicleId": "daf-cf-fas-260-6x2-day-cab-aut-diesel-e6-2023-diesel",
+      "fipeCodigo": "530092-4",
+      "displayName": "DAF CF FAS 260 6x2 Day Cab Aut. (Diesel)(E6)",
+      "valorAtual": 464056,
+      "canonicalPath": "/fipe/daf/cf-fas-260-6x2-day-cab-aut-diesel-e6-2023-530092-4/",
+      "ano": 2023,
+      "marca": "DAF"
+    },
+    {
+      "vehicleId": "daf-cf-fas-260-6x2-day-cab-aut-diesel-e6-2024-diesel",
+      "fipeCodigo": "530092-4",
+      "displayName": "DAF CF FAS 260 6x2 Day Cab Aut. (Diesel)(E6)",
+      "valorAtual": 476225,
+      "canonicalPath": "/fipe/daf/cf-fas-260-6x2-day-cab-aut-diesel-e6-2024-530092-4/",
+      "ano": 2024,
+      "marca": "DAF"
+    },
+    {
+      "vehicleId": "daf-cf-fas-260-6x2-day-cab-aut-diesel-e6-2025-diesel",
+      "fipeCodigo": "530092-4",
+      "displayName": "DAF CF FAS 260 6x2 Day Cab Aut. (Diesel)(E6)",
+      "valorAtual": 489139,
+      "canonicalPath": "/fipe/daf/cf-fas-260-6x2-day-cab-aut-diesel-e6-2025-530092-4/",
+      "ano": 2025,
+      "marca": "DAF"
+    },
+    {
+      "vehicleId": "daf-cf-fas-260-6x2-day-cab-aut-diesel-e6-2026-diesel",
+      "fipeCodigo": "530092-4",
+      "displayName": "DAF CF FAS 260 6x2 Day Cab Aut. (Diesel)(E6)",
+      "valorAtual": 518674,
+      "canonicalPath": "/fipe/daf/cf-fas-260-6x2-day-cab-aut-diesel-e6-2026-530092-4/",
+      "ano": 2026,
+      "marca": "DAF"
+    },
+    {
+      "vehicleId": "daf-cf-fas-260-6x2-day-cab-mec-diesel-e6-2023-diesel",
+      "fipeCodigo": "530093-2",
+      "displayName": "DAF CF FAS 260 6x2 Day Cab Mec (Diesel)(E6)",
+      "valorAtual": 460637,
+      "canonicalPath": "/fipe/daf/cf-fas-260-6x2-day-cab-mec-diesel-e6-2023-530093-2/",
+      "ano": 2023,
+      "marca": "DAF"
+    },
+    {
+      "vehicleId": "daf-cf-fas-260-6x2-day-cab-mec-diesel-e6-2024-diesel",
+      "fipeCodigo": "530093-2",
+      "displayName": "DAF CF FAS 260 6x2 Day Cab Mec (Diesel)(E6)",
+      "valorAtual": 472491,
+      "canonicalPath": "/fipe/daf/cf-fas-260-6x2-day-cab-mec-diesel-e6-2024-530093-2/",
+      "ano": 2024,
+      "marca": "DAF"
+    },
+    {
+      "vehicleId": "daf-cf-fas-260-6x2-day-cab-mec-diesel-e6-2025-diesel",
+      "fipeCodigo": "530093-2",
+      "displayName": "DAF CF FAS 260 6x2 Day Cab Mec (Diesel)(E6)",
+      "valorAtual": 484296,
+      "canonicalPath": "/fipe/daf/cf-fas-260-6x2-day-cab-mec-diesel-e6-2025-530093-2/",
+      "ano": 2025,
+      "marca": "DAF"
+    },
+    {
+      "vehicleId": "daf-cf-fas-260-6x2-day-cab-mec-diesel-e6-2026-diesel",
+      "fipeCodigo": "530093-2",
+      "displayName": "DAF CF FAS 260 6x2 Day Cab Mec (Diesel)(E6)",
+      "valorAtual": 505122,
+      "canonicalPath": "/fipe/daf/cf-fas-260-6x2-day-cab-mec-diesel-e6-2026-530093-2/",
+      "ano": 2026,
+      "marca": "DAF"
+    },
+    {
+      "vehicleId": "daf-cf-fas-260-6x2-sleep-cab-mec-die-e6-2023-diesel",
+      "fipeCodigo": "530091-6",
+      "displayName": "DAF CF FAS 260 6x2 Sleep. Cab Mec (Die.)(E6)",
+      "valorAtual": 469196,
+      "canonicalPath": "/fipe/daf/cf-fas-260-6x2-sleep-cab-mec-die-e6-2023-530091-6/",
+      "ano": 2023,
+      "marca": "DAF"
+    },
+    {
+      "vehicleId": "daf-cf-fas-260-6x2-sleep-cab-mec-die-e6-2024-diesel",
+      "fipeCodigo": "530091-6",
+      "displayName": "DAF CF FAS 260 6x2 Sleep. Cab Mec (Die.)(E6)",
+      "valorAtual": 481176,
+      "canonicalPath": "/fipe/daf/cf-fas-260-6x2-sleep-cab-mec-die-e6-2024-530091-6/",
+      "ano": 2024,
+      "marca": "DAF"
+    },
+    {
+      "vehicleId": "daf-cf-fas-260-6x2-sleep-cab-mec-die-e6-2025-diesel",
+      "fipeCodigo": "530091-6",
+      "displayName": "DAF CF FAS 260 6x2 Sleep. Cab Mec (Die.)(E6)",
+      "valorAtual": 493884,
+      "canonicalPath": "/fipe/daf/cf-fas-260-6x2-sleep-cab-mec-die-e6-2025-530091-6/",
+      "ano": 2025,
+      "marca": "DAF"
+    },
+    {
+      "vehicleId": "daf-cf-fas-260-6x2-sleep-cab-mec-die-e6-2026-diesel",
+      "fipeCodigo": "530091-6",
+      "displayName": "DAF CF FAS 260 6x2 Sleep. Cab Mec (Die.)(E6)",
+      "valorAtual": 514201,
+      "canonicalPath": "/fipe/daf/cf-fas-260-6x2-sleep-cab-mec-die-e6-2026-530091-6/",
+      "ano": 2026,
+      "marca": "DAF"
+    },
+    {
+      "vehicleId": "daf-cf-fas-260-6x2-sleep-cab-aut-die-e6-2023-diesel",
+      "fipeCodigo": "530090-8",
+      "displayName": "DAF CF FAS 260 6x2 Sleep.Cab Aut. (Die.)(E6)",
+      "valorAtual": 472035,
+      "canonicalPath": "/fipe/daf/cf-fas-260-6x2-sleep-cab-aut-die-e6-2023-530090-8/",
+      "ano": 2023,
+      "marca": "DAF"
+    },
+    {
+      "vehicleId": "daf-cf-fas-260-6x2-sleep-cab-aut-die-e6-2024-diesel",
+      "fipeCodigo": "530090-8",
+      "displayName": "DAF CF FAS 260 6x2 Sleep.Cab Aut. (Die.)(E6)",
+      "valorAtual": 484306,
+      "canonicalPath": "/fipe/daf/cf-fas-260-6x2-sleep-cab-aut-die-e6-2024-530090-8/",
+      "ano": 2024,
+      "marca": "DAF"
+    },
+    {
+      "vehicleId": "daf-cf-fas-260-6x2-sleep-cab-aut-die-e6-2025-diesel",
+      "fipeCodigo": "530090-8",
+      "displayName": "DAF CF FAS 260 6x2 Sleep.Cab Aut. (Die.)(E6)",
+      "valorAtual": 497280,
+      "canonicalPath": "/fipe/daf/cf-fas-260-6x2-sleep-cab-aut-die-e6-2025-530090-8/",
+      "ano": 2025,
+      "marca": "DAF"
+    },
+    {
+      "vehicleId": "daf-cf-fas-260-6x2-sleep-cab-aut-die-e6-2026-diesel",
+      "fipeCodigo": "530090-8",
+      "displayName": "DAF CF FAS 260 6x2 Sleep.Cab Aut. (Die.)(E6)",
+      "valorAtual": 527015,
+      "canonicalPath": "/fipe/daf/cf-fas-260-6x2-sleep-cab-aut-die-e6-2026-530090-8/",
+      "ano": 2026,
+      "marca": "DAF"
+    }
+  ],
+  "stats": {
+    "total": 225
+  },
+  "meta": {
+    "geracaoId": "cf-2"
+  }
+}

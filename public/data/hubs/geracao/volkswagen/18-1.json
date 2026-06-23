@@ -1,0 +1,48 @@
+{
+  "tipo": "geracao",
+  "slug": "18-1",
+  "canonicalPath": "/geracao/volkswagen/18-1/",
+  "titulo": "Geracao 18-1",
+  "descricao": "3 veiculos da geracao 18-1.",
+  "seo": {
+    "title": "Geracao 18-1 - Precos FIPE",
+    "description": "Veiculos da geracao 18-1 na Tabela FIPE.",
+    "h1": "Geracao 18-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/volkswagen/18-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "volkswagen-18-210-constellation-4x2-2p-diesel-e6-0-diesel",
+      "fipeCodigo": "515189-9",
+      "displayName": "VOLKSWAGEN 18-210 Constellation 4x2 2p (diesel)(E6)",
+      "valorAtual": 551000,
+      "canonicalPath": "/fipe/volkswagen/18-210-constellation-4x2-2p-diesel-e6-0-515189-9/",
+      "ano": 0,
+      "marca": "VOLKSWAGEN"
+    },
+    {
+      "vehicleId": "volkswagen-18-260-constellation-4x2-2p-diesel-e6-0-diesel",
+      "fipeCodigo": "515190-2",
+      "displayName": "VOLKSWAGEN 18-260 Constellation 4x2 2p (diesel)(E6)",
+      "valorAtual": 553750,
+      "canonicalPath": "/fipe/volkswagen/18-260-constellation-4x2-2p-diesel-e6-0-515190-2/",
+      "ano": 0,
+      "marca": "VOLKSWAGEN"
+    },
+    {
+      "vehicleId": "volkswagen-18-320-constellation-4x2-2p-diesel-e6-0-diesel",
+      "fipeCodigo": "515191-0",
+      "displayName": "VOLKSWAGEN 18-320 Constellation 4x2 2p (diesel)(E6)",
+      "valorAtual": 620000,
+      "canonicalPath": "/fipe/volkswagen/18-320-constellation-4x2-2p-diesel-e6-0-515191-0/",
+      "ano": 0,
+      "marca": "VOLKSWAGEN"
+    }
+  ],
+  "stats": {
+    "total": 3
+  },
+  "meta": {
+    "geracaoId": "18-1"
+  }
+}

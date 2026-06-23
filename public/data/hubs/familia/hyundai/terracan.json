@@ -1,0 +1,116 @@
+{
+  "tipo": "familia",
+  "slug": "terracan",
+  "canonicalPath": "/fipe/hyundai/terracan/",
+  "titulo": "Hyundai terracan - Tabela FIPE",
+  "descricao": "10 versoes e anos do Hyundai terracan na Tabela FIPE.",
+  "seo": {
+    "title": "Hyundai terracan - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes Hyundai terracan. 10 veiculos indexados.",
+    "h1": "Hyundai terracan - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/hyundai/terracan/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "hyundai-terracan-2-5-8v-100cv-tb-diesel-mec-2006-diesel",
+      "fipeCodigo": "015055-0",
+      "displayName": "Hyundai Terracan 2.5 8V 100cv TB Diesel Mec.",
+      "valorAtual": 43264,
+      "canonicalPath": "/fipe/hyundai/terracan-2-5-8v-100cv-tb-diesel-mec-2006-015055-0/",
+      "ano": 2006,
+      "marca": "Hyundai"
+    },
+    {
+      "vehicleId": "hyundai-terracan-2-5-8v-100cv-tb-diesel-aut-2006-diesel",
+      "fipeCodigo": "015056-8",
+      "displayName": "Hyundai Terracan 2.5 8V 100cv TB Diesel Aut.",
+      "valorAtual": 46574,
+      "canonicalPath": "/fipe/hyundai/terracan-2-5-8v-100cv-tb-diesel-aut-2006-015056-8/",
+      "ano": 2006,
+      "marca": "Hyundai"
+    },
+    {
+      "vehicleId": "hyundai-terracan-2-9-crdi-8v-163cv-diesel-aut-2006-diesel",
+      "fipeCodigo": "015059-2",
+      "displayName": "Hyundai Terracan 2.9 CRDI 8V 163cv Diesel Aut.",
+      "valorAtual": 49588,
+      "canonicalPath": "/fipe/hyundai/terracan-2-9-crdi-8v-163cv-diesel-aut-2006-015059-2/",
+      "ano": 2006,
+      "marca": "Hyundai"
+    },
+    {
+      "vehicleId": "hyundai-terracan-2-5-8v-100cv-tb-diesel-mec-2005-diesel",
+      "fipeCodigo": "015055-0",
+      "displayName": "Hyundai Terracan 2.5 8V 100cv TB Diesel Mec.",
+      "valorAtual": 38416,
+      "canonicalPath": "/fipe/hyundai/terracan-2-5-8v-100cv-tb-diesel-mec-2005-015055-0/",
+      "ano": 2005,
+      "marca": "Hyundai"
+    },
+    {
+      "vehicleId": "hyundai-terracan-2-5-8v-100cv-tb-diesel-aut-2005-diesel",
+      "fipeCodigo": "015056-8",
+      "displayName": "Hyundai Terracan 2.5 8V 100cv TB Diesel Aut.",
+      "valorAtual": 41707,
+      "canonicalPath": "/fipe/hyundai/terracan-2-5-8v-100cv-tb-diesel-aut-2005-015056-8/",
+      "ano": 2005,
+      "marca": "Hyundai"
+    },
+    {
+      "vehicleId": "hyundai-terracan-2-9-crdi-8v-163cv-diesel-aut-2005-diesel",
+      "fipeCodigo": "015059-2",
+      "displayName": "Hyundai Terracan 2.9 CRDI 8V 163cv Diesel Aut.",
+      "valorAtual": 48378,
+      "canonicalPath": "/fipe/hyundai/terracan-2-9-crdi-8v-163cv-diesel-aut-2005-015059-2/",
+      "ano": 2005,
+      "marca": "Hyundai"
+    },
+    {
+      "vehicleId": "hyundai-terracan-2-5-8v-100cv-tb-diesel-mec-2004-diesel",
+      "fipeCodigo": "015055-0",
+      "displayName": "Hyundai Terracan 2.5 8V 100cv TB Diesel Mec.",
+      "valorAtual": 33988,
+      "canonicalPath": "/fipe/hyundai/terracan-2-5-8v-100cv-tb-diesel-mec-2004-015055-0/",
+      "ano": 2004,
+      "marca": "Hyundai"
+    },
+    {
+      "vehicleId": "hyundai-terracan-2-5-8v-100cv-tb-diesel-aut-2004-diesel",
+      "fipeCodigo": "015056-8",
+      "displayName": "Hyundai Terracan 2.5 8V 100cv TB Diesel Aut.",
+      "valorAtual": 40689,
+      "canonicalPath": "/fipe/hyundai/terracan-2-5-8v-100cv-tb-diesel-aut-2004-015056-8/",
+      "ano": 2004,
+      "marca": "Hyundai"
+    },
+    {
+      "vehicleId": "hyundai-terracan-2-5-8v-100cv-tb-diesel-mec-2003-diesel",
+      "fipeCodigo": "015055-0",
+      "displayName": "Hyundai Terracan 2.5 8V 100cv TB Diesel Mec.",
+      "valorAtual": 28376,
+      "canonicalPath": "/fipe/hyundai/terracan-2-5-8v-100cv-tb-diesel-mec-2003-015055-0/",
+      "ano": 2003,
+      "marca": "Hyundai"
+    },
+    {
+      "vehicleId": "hyundai-terracan-2-5-8v-100cv-tb-diesel-aut-2003-diesel",
+      "fipeCodigo": "015056-8",
+      "displayName": "Hyundai Terracan 2.5 8V 100cv TB Diesel Aut.",
+      "valorAtual": 36497,
+      "canonicalPath": "/fipe/hyundai/terracan-2-5-8v-100cv-tb-diesel-aut-2003-015056-8/",
+      "ano": 2003,
+      "marca": "Hyundai"
+    }
+  ],
+  "stats": {
+    "total": 10,
+    "precoMin": 28376,
+    "precoMax": 49588,
+    "anos": [
+      2006,
+      2005,
+      2004,
+      2003
+    ]
+  }
+}

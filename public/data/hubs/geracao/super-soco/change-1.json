@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "change-1",
+  "canonicalPath": "/geracao/super-soco/change-1/",
+  "titulo": "Geracao change-1",
+  "descricao": "2 veiculos da geracao change-1.",
+  "seo": {
+    "title": "Geracao change-1 - Precos FIPE",
+    "description": "Veiculos da geracao change-1 na Tabela FIPE.",
+    "h1": "Geracao change-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/super-soco/change-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "super-soco-change-urban-1200w-eletrica-2020-eletrico",
+      "fipeCodigo": "891002-2",
+      "displayName": "SUPER SOCO Change Urban 1200W (ELÉTRICA)",
+      "valorAtual": 16926,
+      "canonicalPath": "/fipe/super-soco/change-urban-1200w-eletrica-2020-891002-2/",
+      "ano": 2020,
+      "marca": "SUPER SOCO"
+    },
+    {
+      "vehicleId": "super-soco-change-urban-1200w-eletrica-2021-eletrico",
+      "fipeCodigo": "891002-2",
+      "displayName": "SUPER SOCO Change Urban 1200W (ELÉTRICA)",
+      "valorAtual": 17410,
+      "canonicalPath": "/fipe/super-soco/change-urban-1200w-eletrica-2021-891002-2/",
+      "ano": 2021,
+      "marca": "SUPER SOCO"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "change-1"
+  }
+}

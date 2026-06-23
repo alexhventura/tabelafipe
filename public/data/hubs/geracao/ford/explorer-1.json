@@ -1,0 +1,318 @@
+{
+  "tipo": "geracao",
+  "slug": "explorer-1",
+  "canonicalPath": "/geracao/ford/explorer-1/",
+  "titulo": "Geracao explorer-1",
+  "descricao": "33 veiculos da geracao explorer-1.",
+  "seo": {
+    "title": "Geracao explorer-1 - Precos FIPE",
+    "description": "Veiculos da geracao explorer-1 na Tabela FIPE.",
+    "h1": "Geracao explorer-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/ford/explorer-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "ford-explorer-limited-5-0-4x4-v8-1998-gasolina",
+      "fipeCodigo": "003138-0",
+      "displayName": "Ford Explorer Limited 5.0 4x4 V8",
+      "valorAtual": 37910,
+      "canonicalPath": "/fipe/ford/explorer-limited-5-0-4x4-v8-1998-003138-0/",
+      "ano": 1998,
+      "marca": "Ford"
+    },
+    {
+      "vehicleId": "ford-explorer-limited-5-0-4x4-v8-1999-gasolina",
+      "fipeCodigo": "003138-0",
+      "displayName": "Ford Explorer Limited 5.0 4x4 V8",
+      "valorAtual": 47150,
+      "canonicalPath": "/fipe/ford/explorer-limited-5-0-4x4-v8-1999-003138-0/",
+      "ano": 1999,
+      "marca": "Ford"
+    },
+    {
+      "vehicleId": "ford-explorer-limited-5-0-4x4-v8-2000-gasolina",
+      "fipeCodigo": "003138-0",
+      "displayName": "Ford Explorer Limited 5.0 4x4 V8",
+      "valorAtual": 73567,
+      "canonicalPath": "/fipe/ford/explorer-limited-5-0-4x4-v8-2000-003138-0/",
+      "ano": 2000,
+      "marca": "Ford"
+    },
+    {
+      "vehicleId": "ford-explorer-limited-5-0-4x4-v8-2001-gasolina",
+      "fipeCodigo": "003138-0",
+      "displayName": "Ford Explorer Limited 5.0 4x4 V8",
+      "valorAtual": 80215,
+      "canonicalPath": "/fipe/ford/explorer-limited-5-0-4x4-v8-2001-003138-0/",
+      "ano": 2001,
+      "marca": "Ford"
+    },
+    {
+      "vehicleId": "ford-explorer-sport-4-0-v6-1994-gasolina",
+      "fipeCodigo": "003157-7",
+      "displayName": "Ford Explorer Sport 4.0 V6",
+      "valorAtual": 22152,
+      "canonicalPath": "/fipe/ford/explorer-sport-4-0-v6-1994-003157-7/",
+      "ano": 1994,
+      "marca": "Ford"
+    },
+    {
+      "vehicleId": "ford-explorer-sport-4-0-v6-1995-gasolina",
+      "fipeCodigo": "003157-7",
+      "displayName": "Ford Explorer Sport 4.0 V6",
+      "valorAtual": 24184,
+      "canonicalPath": "/fipe/ford/explorer-sport-4-0-v6-1995-003157-7/",
+      "ano": 1995,
+      "marca": "Ford"
+    },
+    {
+      "vehicleId": "ford-explorer-sport-4-0-v6-1996-gasolina",
+      "fipeCodigo": "003157-7",
+      "displayName": "Ford Explorer Sport 4.0 V6",
+      "valorAtual": 25226,
+      "canonicalPath": "/fipe/ford/explorer-sport-4-0-v6-1996-003157-7/",
+      "ano": 1996,
+      "marca": "Ford"
+    },
+    {
+      "vehicleId": "ford-explorer-xl-4x2-4-0-v6-1991-gasolina",
+      "fipeCodigo": "003155-0",
+      "displayName": "Ford Explorer XL 4x2 4.0 V6",
+      "valorAtual": 7382,
+      "canonicalPath": "/fipe/ford/explorer-xl-4x2-4-0-v6-1991-003155-0/",
+      "ano": 1991,
+      "marca": "Ford"
+    },
+    {
+      "vehicleId": "ford-explorer-xl-4x2-4-0-v6-1992-gasolina",
+      "fipeCodigo": "003155-0",
+      "displayName": "Ford Explorer XL 4x2 4.0 V6",
+      "valorAtual": 8618,
+      "canonicalPath": "/fipe/ford/explorer-xl-4x2-4-0-v6-1992-003155-0/",
+      "ano": 1992,
+      "marca": "Ford"
+    },
+    {
+      "vehicleId": "ford-explorer-xl-4x2-4-0-v6-1993-gasolina",
+      "fipeCodigo": "003155-0",
+      "displayName": "Ford Explorer XL 4x2 4.0 V6",
+      "valorAtual": 9331,
+      "canonicalPath": "/fipe/ford/explorer-xl-4x2-4-0-v6-1993-003155-0/",
+      "ano": 1993,
+      "marca": "Ford"
+    },
+    {
+      "vehicleId": "ford-explorer-xl-4x2-4-0-v6-1994-gasolina",
+      "fipeCodigo": "003155-0",
+      "displayName": "Ford Explorer XL 4x2 4.0 V6",
+      "valorAtual": 10369,
+      "canonicalPath": "/fipe/ford/explorer-xl-4x2-4-0-v6-1994-003155-0/",
+      "ano": 1994,
+      "marca": "Ford"
+    },
+    {
+      "vehicleId": "ford-explorer-xl-4x2-4-0-v6-1995-gasolina",
+      "fipeCodigo": "003155-0",
+      "displayName": "Ford Explorer XL 4x2 4.0 V6",
+      "valorAtual": 10913,
+      "canonicalPath": "/fipe/ford/explorer-xl-4x2-4-0-v6-1995-003155-0/",
+      "ano": 1995,
+      "marca": "Ford"
+    },
+    {
+      "vehicleId": "ford-explorer-xl-4x2-4-0-v6-1996-gasolina",
+      "fipeCodigo": "003155-0",
+      "displayName": "Ford Explorer XL 4x2 4.0 V6",
+      "valorAtual": 12552,
+      "canonicalPath": "/fipe/ford/explorer-xl-4x2-4-0-v6-1996-003155-0/",
+      "ano": 1996,
+      "marca": "Ford"
+    },
+    {
+      "vehicleId": "ford-explorer-xl-4x4-4-0-v6-1991-gasolina",
+      "fipeCodigo": "003156-9",
+      "displayName": "Ford Explorer XL 4x4 4.0 V6",
+      "valorAtual": 8426,
+      "canonicalPath": "/fipe/ford/explorer-xl-4x4-4-0-v6-1991-003156-9/",
+      "ano": 1991,
+      "marca": "Ford"
+    },
+    {
+      "vehicleId": "ford-explorer-xl-4x4-4-0-v6-1992-gasolina",
+      "fipeCodigo": "003156-9",
+      "displayName": "Ford Explorer XL 4x4 4.0 V6",
+      "valorAtual": 8828,
+      "canonicalPath": "/fipe/ford/explorer-xl-4x4-4-0-v6-1992-003156-9/",
+      "ano": 1992,
+      "marca": "Ford"
+    },
+    {
+      "vehicleId": "ford-explorer-xl-4x4-4-0-v6-1993-gasolina",
+      "fipeCodigo": "003156-9",
+      "displayName": "Ford Explorer XL 4x4 4.0 V6",
+      "valorAtual": 9547,
+      "canonicalPath": "/fipe/ford/explorer-xl-4x4-4-0-v6-1993-003156-9/",
+      "ano": 1993,
+      "marca": "Ford"
+    },
+    {
+      "vehicleId": "ford-explorer-xl-4x4-4-0-v6-1994-gasolina",
+      "fipeCodigo": "003156-9",
+      "displayName": "Ford Explorer XL 4x4 4.0 V6",
+      "valorAtual": 10722,
+      "canonicalPath": "/fipe/ford/explorer-xl-4x4-4-0-v6-1994-003156-9/",
+      "ano": 1994,
+      "marca": "Ford"
+    },
+    {
+      "vehicleId": "ford-explorer-xl-4x4-4-0-v6-1995-gasolina",
+      "fipeCodigo": "003156-9",
+      "displayName": "Ford Explorer XL 4x4 4.0 V6",
+      "valorAtual": 11434,
+      "canonicalPath": "/fipe/ford/explorer-xl-4x4-4-0-v6-1995-003156-9/",
+      "ano": 1995,
+      "marca": "Ford"
+    },
+    {
+      "vehicleId": "ford-explorer-xl-4x4-4-0-v6-1996-gasolina",
+      "fipeCodigo": "003156-9",
+      "displayName": "Ford Explorer XL 4x4 4.0 V6",
+      "valorAtual": 12636,
+      "canonicalPath": "/fipe/ford/explorer-xl-4x4-4-0-v6-1996-003156-9/",
+      "ano": 1996,
+      "marca": "Ford"
+    },
+    {
+      "vehicleId": "ford-explorer-xlt-4x2-4-0-v6-1991-gasolina",
+      "fipeCodigo": "003073-2",
+      "displayName": "Ford Explorer XLT 4x2 4.0 V6",
+      "valorAtual": 14055,
+      "canonicalPath": "/fipe/ford/explorer-xlt-4x2-4-0-v6-1991-003073-2/",
+      "ano": 1991,
+      "marca": "Ford"
+    },
+    {
+      "vehicleId": "ford-explorer-xlt-4x2-4-0-v6-1992-gasolina",
+      "fipeCodigo": "003073-2",
+      "displayName": "Ford Explorer XLT 4x2 4.0 V6",
+      "valorAtual": 16549,
+      "canonicalPath": "/fipe/ford/explorer-xlt-4x2-4-0-v6-1992-003073-2/",
+      "ano": 1992,
+      "marca": "Ford"
+    },
+    {
+      "vehicleId": "ford-explorer-xlt-4x2-4-0-v6-1993-gasolina",
+      "fipeCodigo": "003073-2",
+      "displayName": "Ford Explorer XLT 4x2 4.0 V6",
+      "valorAtual": 18551,
+      "canonicalPath": "/fipe/ford/explorer-xlt-4x2-4-0-v6-1993-003073-2/",
+      "ano": 1993,
+      "marca": "Ford"
+    },
+    {
+      "vehicleId": "ford-explorer-xlt-4x2-4-0-v6-1994-gasolina",
+      "fipeCodigo": "003073-2",
+      "displayName": "Ford Explorer XLT 4x2 4.0 V6",
+      "valorAtual": 22005,
+      "canonicalPath": "/fipe/ford/explorer-xlt-4x2-4-0-v6-1994-003073-2/",
+      "ano": 1994,
+      "marca": "Ford"
+    },
+    {
+      "vehicleId": "ford-explorer-xlt-4x2-4-0-v6-1995-gasolina",
+      "fipeCodigo": "003073-2",
+      "displayName": "Ford Explorer XLT 4x2 4.0 V6",
+      "valorAtual": 23728,
+      "canonicalPath": "/fipe/ford/explorer-xlt-4x2-4-0-v6-1995-003073-2/",
+      "ano": 1995,
+      "marca": "Ford"
+    },
+    {
+      "vehicleId": "ford-explorer-xlt-4x2-4-0-v6-1996-gasolina",
+      "fipeCodigo": "003073-2",
+      "displayName": "Ford Explorer XLT 4x2 4.0 V6",
+      "valorAtual": 24909,
+      "canonicalPath": "/fipe/ford/explorer-xlt-4x2-4-0-v6-1996-003073-2/",
+      "ano": 1996,
+      "marca": "Ford"
+    },
+    {
+      "vehicleId": "ford-explorer-xlt-4x2-4-0-v6-1997-gasolina",
+      "fipeCodigo": "003073-2",
+      "displayName": "Ford Explorer XLT 4x2 4.0 V6",
+      "valorAtual": 27830,
+      "canonicalPath": "/fipe/ford/explorer-xlt-4x2-4-0-v6-1997-003073-2/",
+      "ano": 1997,
+      "marca": "Ford"
+    },
+    {
+      "vehicleId": "ford-explorer-xlt-4x4-4-0-v6-1993-gasolina",
+      "fipeCodigo": "003074-0",
+      "displayName": "Ford Explorer XLT 4x4 4.0 V6",
+      "valorAtual": 20057,
+      "canonicalPath": "/fipe/ford/explorer-xlt-4x4-4-0-v6-1993-003074-0/",
+      "ano": 1993,
+      "marca": "Ford"
+    },
+    {
+      "vehicleId": "ford-explorer-xlt-4x4-4-0-v6-1994-gasolina",
+      "fipeCodigo": "003074-0",
+      "displayName": "Ford Explorer XLT 4x4 4.0 V6",
+      "valorAtual": 22102,
+      "canonicalPath": "/fipe/ford/explorer-xlt-4x4-4-0-v6-1994-003074-0/",
+      "ano": 1994,
+      "marca": "Ford"
+    },
+    {
+      "vehicleId": "ford-explorer-xlt-4x4-4-0-v6-1995-gasolina",
+      "fipeCodigo": "003074-0",
+      "displayName": "Ford Explorer XLT 4x4 4.0 V6",
+      "valorAtual": 24156,
+      "canonicalPath": "/fipe/ford/explorer-xlt-4x4-4-0-v6-1995-003074-0/",
+      "ano": 1995,
+      "marca": "Ford"
+    },
+    {
+      "vehicleId": "ford-explorer-xlt-4x4-4-0-v6-1996-gasolina",
+      "fipeCodigo": "003074-0",
+      "displayName": "Ford Explorer XLT 4x4 4.0 V6",
+      "valorAtual": 24938,
+      "canonicalPath": "/fipe/ford/explorer-xlt-4x4-4-0-v6-1996-003074-0/",
+      "ano": 1996,
+      "marca": "Ford"
+    },
+    {
+      "vehicleId": "ford-explorer-xlt-4x4-4-0-v6-1997-gasolina",
+      "fipeCodigo": "003074-0",
+      "displayName": "Ford Explorer XLT 4x4 4.0 V6",
+      "valorAtual": 32197,
+      "canonicalPath": "/fipe/ford/explorer-xlt-4x4-4-0-v6-1997-003074-0/",
+      "ano": 1997,
+      "marca": "Ford"
+    },
+    {
+      "vehicleId": "ford-explorer-xlt-4x4-4-0-v6-1998-gasolina",
+      "fipeCodigo": "003074-0",
+      "displayName": "Ford Explorer XLT 4x4 4.0 V6",
+      "valorAtual": 38134,
+      "canonicalPath": "/fipe/ford/explorer-xlt-4x4-4-0-v6-1998-003074-0/",
+      "ano": 1998,
+      "marca": "Ford"
+    },
+    {
+      "vehicleId": "ford-explorer-xlt-4x4-4-0-v6-1999-gasolina",
+      "fipeCodigo": "003074-0",
+      "displayName": "Ford Explorer XLT 4x4 4.0 V6",
+      "valorAtual": 39088,
+      "canonicalPath": "/fipe/ford/explorer-xlt-4x4-4-0-v6-1999-003074-0/",
+      "ano": 1999,
+      "marca": "Ford"
+    }
+  ],
+  "stats": {
+    "total": 33
+  },
+  "meta": {
+    "geracaoId": "explorer-1"
+  }
+}

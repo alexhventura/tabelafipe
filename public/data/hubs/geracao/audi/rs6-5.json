@@ -1,0 +1,84 @@
+{
+  "tipo": "geracao",
+  "slug": "rs6-5",
+  "canonicalPath": "/geracao/audi/rs6-5/",
+  "titulo": "Geracao rs6-5",
+  "descricao": "7 veiculos da geracao rs6-5.",
+  "seo": {
+    "title": "Geracao rs6-5 - Precos FIPE",
+    "description": "Veiculos da geracao rs6-5 na Tabela FIPE.",
+    "h1": "Geracao rs6-5",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/audi/rs6-5/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "audi-rs6-4-0-avant-tfsi-bi-tb-quat-tip-hib-2021-hibrido",
+      "fipeCodigo": "008189-2",
+      "displayName": "Audi RS6 4.0 Avant TFSI BI-TB Quat.Tip.(Hib.)",
+      "valorAtual": 779380,
+      "canonicalPath": "/fipe/audi/rs6-4-0-avant-tfsi-bi-tb-quat-tip-hib-2021-008189-2/",
+      "ano": 2021,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-rs6-4-0-avant-tfsi-bi-tb-quat-tip-hib-2022-hibrido",
+      "fipeCodigo": "008189-2",
+      "displayName": "Audi RS6 4.0 Avant TFSI BI-TB Quat.Tip.(Hib.)",
+      "valorAtual": 873659,
+      "canonicalPath": "/fipe/audi/rs6-4-0-avant-tfsi-bi-tb-quat-tip-hib-2022-008189-2/",
+      "ano": 2022,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-rs6-4-0-avant-tfsi-bi-tb-quat-tip-hib-2023-hibrido",
+      "fipeCodigo": "008189-2",
+      "displayName": "Audi RS6 4.0 Avant TFSI BI-TB Quat.Tip.(Hib.)",
+      "valorAtual": 951678,
+      "canonicalPath": "/fipe/audi/rs6-4-0-avant-tfsi-bi-tb-quat-tip-hib-2023-008189-2/",
+      "ano": 2023,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-rs6-4-0-avant-tfsi-bi-tb-quat-tip-hib-2024-hibrido",
+      "fipeCodigo": "008189-2",
+      "displayName": "Audi RS6 4.0 Avant TFSI BI-TB Quat.Tip.(Hib.)",
+      "valorAtual": 1028115,
+      "canonicalPath": "/fipe/audi/rs6-4-0-avant-tfsi-bi-tb-quat-tip-hib-2024-008189-2/",
+      "ano": 2024,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-rs6-4-0-avant-perf-tfsi-quat-tip-hib-2024-hibrido",
+      "fipeCodigo": "008307-0",
+      "displayName": "Audi RS6 4.0 Avant.Perf TFSI Quat.Tip.(Hib)",
+      "valorAtual": 1032883,
+      "canonicalPath": "/fipe/audi/rs6-4-0-avant-perf-tfsi-quat-tip-hib-2024-008307-0/",
+      "ano": 2024,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-rs6-4-0-avant-perf-tfsi-quat-tip-hib-2025-hibrido",
+      "fipeCodigo": "008307-0",
+      "displayName": "Audi RS6 4.0 Avant.Perf TFSI Quat.Tip.(Hib)",
+      "valorAtual": 1116285,
+      "canonicalPath": "/fipe/audi/rs6-4-0-avant-perf-tfsi-quat-tip-hib-2025-008307-0/",
+      "ano": 2025,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-rs6-4-0-avant-perf-tfsi-quat-tip-hib-2026-hibrido",
+      "fipeCodigo": "008307-0",
+      "displayName": "Audi RS6 4.0 Avant.Perf TFSI Quat.Tip.(Hib)",
+      "valorAtual": 1205286,
+      "canonicalPath": "/fipe/audi/rs6-4-0-avant-perf-tfsi-quat-tip-hib-2026-008307-0/",
+      "ano": 2026,
+      "marca": "Audi"
+    }
+  ],
+  "stats": {
+    "total": 7
+  },
+  "meta": {
+    "geracaoId": "rs6-5"
+  }
+}

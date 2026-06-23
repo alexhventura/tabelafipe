@@ -1,0 +1,60 @@
+{
+  "tipo": "familia",
+  "slug": "gs3",
+  "canonicalPath": "/fipe/gac/gs3/",
+  "titulo": "GAC gs3 - Tabela FIPE",
+  "descricao": "4 versoes e anos do GAC gs3 na Tabela FIPE.",
+  "seo": {
+    "title": "GAC gs3 - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes GAC gs3. 4 veiculos indexados.",
+    "h1": "GAC gs3 - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/gac/gs3/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "gac-gs3-premium-1-5-16v-turbo-aut-2027-gasolina",
+      "fipeCodigo": "304009-7",
+      "displayName": "GAC GS3 Premium 1,5 16V Turbo Aut.",
+      "valorAtual": 128296,
+      "canonicalPath": "/fipe/gac/gs3-premium-1-5-16v-turbo-aut-2027-304009-7/",
+      "ano": 2027,
+      "marca": "GAC"
+    },
+    {
+      "vehicleId": "gac-gs3-elite-1-5-16v-turbo-aut-2027-gasolina",
+      "fipeCodigo": "304010-0",
+      "displayName": "GAC GS3 Elite 1,5 16V Turbo Aut.",
+      "valorAtual": 145244,
+      "canonicalPath": "/fipe/gac/gs3-elite-1-5-16v-turbo-aut-2027-304010-0/",
+      "ano": 2027,
+      "marca": "GAC"
+    },
+    {
+      "vehicleId": "gac-gs3-premium-1-5-16v-turbo-aut-0-gasolina",
+      "fipeCodigo": "304009-7",
+      "displayName": "GAC GS3 Premium 1,5 16V Turbo Aut.",
+      "valorAtual": 139990,
+      "canonicalPath": "/fipe/gac/gs3-premium-1-5-16v-turbo-aut-0-304009-7/",
+      "ano": 0,
+      "marca": "GAC"
+    },
+    {
+      "vehicleId": "gac-gs3-elite-1-5-16v-turbo-aut-0-gasolina",
+      "fipeCodigo": "304010-0",
+      "displayName": "GAC GS3 Elite 1,5 16V Turbo Aut.",
+      "valorAtual": 159990,
+      "canonicalPath": "/fipe/gac/gs3-elite-1-5-16v-turbo-aut-0-304010-0/",
+      "ano": 0,
+      "marca": "GAC"
+    }
+  ],
+  "stats": {
+    "total": 4,
+    "precoMin": 128296,
+    "precoMax": 159990,
+    "anos": [
+      2027,
+      0
+    ]
+  }
+}

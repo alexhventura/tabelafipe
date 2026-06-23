@@ -1,0 +1,48 @@
+{
+  "tipo": "geracao",
+  "slug": "enjoy-1",
+  "canonicalPath": "/geracao/sanyang/enjoy-1/",
+  "titulo": "Geracao enjoy-1",
+  "descricao": "3 veiculos da geracao enjoy-1.",
+  "seo": {
+    "title": "Geracao enjoy-1 - Precos FIPE",
+    "description": "Veiculos da geracao enjoy-1 na Tabela FIPE.",
+    "h1": "Geracao enjoy-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/sanyang/enjoy-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "sanyang-enjoy-50-1996-gasolina",
+      "fipeCodigo": "823001-3",
+      "displayName": "SANYANG ENJOY 50",
+      "valorAtual": 977,
+      "canonicalPath": "/fipe/sanyang/enjoy-50-1996-823001-3/",
+      "ano": 1996,
+      "marca": "SANYANG"
+    },
+    {
+      "vehicleId": "sanyang-enjoy-50-1997-gasolina",
+      "fipeCodigo": "823001-3",
+      "displayName": "SANYANG ENJOY 50",
+      "valorAtual": 1114,
+      "canonicalPath": "/fipe/sanyang/enjoy-50-1997-823001-3/",
+      "ano": 1997,
+      "marca": "SANYANG"
+    },
+    {
+      "vehicleId": "sanyang-enjoy-50-1998-gasolina",
+      "fipeCodigo": "823001-3",
+      "displayName": "SANYANG ENJOY 50",
+      "valorAtual": 1261,
+      "canonicalPath": "/fipe/sanyang/enjoy-50-1998-823001-3/",
+      "ano": 1998,
+      "marca": "SANYANG"
+    }
+  ],
+  "stats": {
+    "total": 3
+  },
+  "meta": {
+    "geracaoId": "enjoy-1"
+  }
+}

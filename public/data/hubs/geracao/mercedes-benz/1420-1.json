@@ -1,0 +1,93 @@
+{
+  "tipo": "geracao",
+  "slug": "1420-1",
+  "canonicalPath": "/geracao/mercedes-benz/1420-1/",
+  "titulo": "Geracao 1420-1",
+  "descricao": "8 veiculos da geracao 1420-1.",
+  "seo": {
+    "title": "Geracao 1420-1 - Precos FIPE",
+    "description": "Veiculos da geracao 1420-1 na Tabela FIPE.",
+    "h1": "Geracao 1420-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/mercedes-benz/1420-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "mercedes-benz-1420-2p-diesel-2002-diesel",
+      "fipeCodigo": "509209-4",
+      "displayName": "MERCEDES-BENZ 1420 2p (diesel)",
+      "valorAtual": 82288,
+      "canonicalPath": "/fipe/mercedes-benz/1420-2p-diesel-2002-509209-4/",
+      "ano": 2002,
+      "marca": "MERCEDES-BENZ"
+    },
+    {
+      "vehicleId": "mercedes-benz-1420-2p-diesel-2003-diesel",
+      "fipeCodigo": "509209-4",
+      "displayName": "MERCEDES-BENZ 1420 2p (diesel)",
+      "valorAtual": 91178,
+      "canonicalPath": "/fipe/mercedes-benz/1420-2p-diesel-2003-509209-4/",
+      "ano": 2003,
+      "marca": "MERCEDES-BENZ"
+    },
+    {
+      "vehicleId": "mercedes-benz-1420-2p-diesel-2004-diesel",
+      "fipeCodigo": "509209-4",
+      "displayName": "MERCEDES-BENZ 1420 2p (diesel)",
+      "valorAtual": 97495,
+      "canonicalPath": "/fipe/mercedes-benz/1420-2p-diesel-2004-509209-4/",
+      "ano": 2004,
+      "marca": "MERCEDES-BENZ"
+    },
+    {
+      "vehicleId": "mercedes-benz-1420-2p-diesel-2005-diesel",
+      "fipeCodigo": "509209-4",
+      "displayName": "MERCEDES-BENZ 1420 2p (diesel)",
+      "valorAtual": 103018,
+      "canonicalPath": "/fipe/mercedes-benz/1420-2p-diesel-2005-509209-4/",
+      "ano": 2005,
+      "marca": "MERCEDES-BENZ"
+    },
+    {
+      "vehicleId": "mercedes-benz-1420-3-eixos-2p-diesel-2002-diesel",
+      "fipeCodigo": "509226-4",
+      "displayName": "MERCEDES-BENZ 1420 3-Eixos 2p (diesel)",
+      "valorAtual": 96127,
+      "canonicalPath": "/fipe/mercedes-benz/1420-3-eixos-2p-diesel-2002-509226-4/",
+      "ano": 2002,
+      "marca": "MERCEDES-BENZ"
+    },
+    {
+      "vehicleId": "mercedes-benz-1420-3-eixos-2p-diesel-2003-diesel",
+      "fipeCodigo": "509226-4",
+      "displayName": "MERCEDES-BENZ 1420 3-Eixos 2p (diesel)",
+      "valorAtual": 100299,
+      "canonicalPath": "/fipe/mercedes-benz/1420-3-eixos-2p-diesel-2003-509226-4/",
+      "ano": 2003,
+      "marca": "MERCEDES-BENZ"
+    },
+    {
+      "vehicleId": "mercedes-benz-1420-3-eixos-2p-diesel-2004-diesel",
+      "fipeCodigo": "509226-4",
+      "displayName": "MERCEDES-BENZ 1420 3-Eixos 2p (diesel)",
+      "valorAtual": 113446,
+      "canonicalPath": "/fipe/mercedes-benz/1420-3-eixos-2p-diesel-2004-509226-4/",
+      "ano": 2004,
+      "marca": "MERCEDES-BENZ"
+    },
+    {
+      "vehicleId": "mercedes-benz-1420-3-eixos-2p-diesel-2005-diesel",
+      "fipeCodigo": "509226-4",
+      "displayName": "MERCEDES-BENZ 1420 3-Eixos 2p (diesel)",
+      "valorAtual": 122578,
+      "canonicalPath": "/fipe/mercedes-benz/1420-3-eixos-2p-diesel-2005-509226-4/",
+      "ano": 2005,
+      "marca": "MERCEDES-BENZ"
+    }
+  ],
+  "stats": {
+    "total": 8
+  },
+  "meta": {
+    "geracaoId": "1420-1"
+  }
+}

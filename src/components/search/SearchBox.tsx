@@ -2,9 +2,9 @@ import { useCallback, useEffect, useMemo, useRef, useState } from 'react';
 import { useNavigate } from 'react-router-dom';
 import { Search } from 'lucide-react';
 import { SearchIndexItem, VehicleTipo } from '../../types';
-import { searchVehicles, looksLikeMotoQuery } from '../../lib/search';
+import { searchVehicles, looksLikeMotoQuery, formatSearchResultLabel } from '../../lib/search';
 import { formatBRL } from '../../lib/format';
-import { vehiclePath } from '../../lib/slug';
+import { vehiclePath, vehicleCanonicalPath } from '../../lib/slug';
 
 interface SearchBoxProps {
   index: SearchIndexItem[];
@@ -42,7 +42,7 @@ export default function SearchBox({
   const inputRef = useRef<HTMLInputElement>(null);
 
   const results = useMemo(() => {
-    if (query.trim().length < 2) return [];
+    if (query.trim().length < 1) return [];
     return searchVehicles(index, query, tipo, 8);
   }, [index, query, tipo]);
 
@@ -52,6 +52,15 @@ export default function SearchBox({
     (item: SearchIndexItem) => {
       setOpen(false);
       setQuery('');
+      if (item.canonicalPath) {
+        navigate(item.canonicalPath);
+        return;
+      }
+      if (item.fipeCodigo && item.marca && item.ano) {
+        const modelo = item.nome.replace(/\s*\(\d{4}\)\s*$/, '').replace(new RegExp(`^${item.marca}\\s+`, 'i'), '').trim();
+        navigate(vehicleCanonicalPath(item.marca, modelo, item.ano, item.fipeCodigo));
+        return;
+      }
       navigate(vehiclePath(item.marca ?? 'geral', item.id));
     },
     [navigate],
@@ -92,14 +101,14 @@ export default function SearchBox({
   }, []);
 
   useEffect(() => {
-    if (query.trim().length < 2) return;
+    if (query.trim().length < 1) return;
     const timer = window.setTimeout(() => onQueryChange?.(query), 200);
     return () => window.clearTimeout(timer);
   }, [query, onQueryChange]);
 
   const inputClasses = size === 'hero' ? 'text-base py-4' : 'text-sm py-2.5';
 
-  const dropdown = open && query.trim().length >= 2 && (
+  const dropdown = open && query.trim().length >= 1 && (
     <div
       id="search-dropdown-menu"
       role="listbox"
@@ -131,11 +140,11 @@ export default function SearchBox({
             >
               <div className="min-w-0 flex-1">
                 <p className="text-sm font-semibold text-slate-900 dark:text-white line-clamp-2">
-                  {item.nome.replace(/\s*\(\d{4}\)\s*$/, '')}
+                  {formatSearchResultLabel(item)}
                 </p>
-                <p className="text-xs text-slate-500 dark:text-slate-400 mt-0.5">
-                  {item.combustivel ?? 'Flex'}
-                  {item.ano ? ` · ${item.ano}` : ''}
+                <p className="text-xs text-slate-500 dark:text-slate-400 mt-0.5 capitalize">
+                  {item.marca ?? '—'}
+                  {item.fipeCodigo ? ` · FIPE ${item.fipeCodigo}` : ''}
                 </p>
               </div>
               <span className="text-sm font-bold text-blue-600 dark:text-blue-400 shrink-0 tabular-nums">
@@ -188,7 +197,7 @@ export default function SearchBox({
           autoCorrect="off"
           spellCheck={false}
           autoFocus={autoFocus}
-          placeholder="Pesquisar veículo..."
+          placeholder="Marca, modelo, versão ou código FIPE..."
           value={query}
           onChange={(e) => {
             setQuery(e.target.value);
@@ -213,7 +222,7 @@ export default function SearchBox({
           className={`w-full bg-transparent focus:outline-none text-slate-900 dark:text-white placeholder-slate-400 ${inputClasses}`}
           id="main-fipe-search-input"
           aria-label="Pesquisar veículo"
-          aria-expanded={open && query.trim().length >= 2}
+          aria-expanded={open && query.trim().length >= 1}
           aria-controls="search-dropdown-menu"
           aria-autocomplete="list"
         />

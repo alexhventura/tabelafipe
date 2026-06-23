@@ -1,0 +1,84 @@
+{
+  "tipo": "geracao",
+  "slug": "812-1",
+  "canonicalPath": "/geracao/ferrari/812-1/",
+  "titulo": "Geracao 812-1",
+  "descricao": "7 veiculos da geracao 812-1.",
+  "seo": {
+    "title": "Geracao 812-1 - Precos FIPE",
+    "description": "Veiculos da geracao 812-1 na Tabela FIPE.",
+    "h1": "Geracao 812-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/ferrari/812-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "ferrari-812-gts-6-5-v12-800cv-2021-gasolina",
+      "fipeCodigo": "031050-6",
+      "displayName": "Ferrari 812 GTS 6.5 V12 800cv",
+      "valorAtual": 5812102,
+      "canonicalPath": "/fipe/ferrari/812-gts-6-5-v12-800cv-2021-031050-6/",
+      "ano": 2021,
+      "marca": "Ferrari"
+    },
+    {
+      "vehicleId": "ferrari-812-gts-6-5-v12-800cv-2022-gasolina",
+      "fipeCodigo": "031050-6",
+      "displayName": "Ferrari 812 GTS 6.5 V12 800cv",
+      "valorAtual": 5986521,
+      "canonicalPath": "/fipe/ferrari/812-gts-6-5-v12-800cv-2022-031050-6/",
+      "ano": 2022,
+      "marca": "Ferrari"
+    },
+    {
+      "vehicleId": "ferrari-812-gts-6-5-v12-800cv-2023-gasolina",
+      "fipeCodigo": "031050-6",
+      "displayName": "Ferrari 812 GTS 6.5 V12 800cv",
+      "valorAtual": 6169200,
+      "canonicalPath": "/fipe/ferrari/812-gts-6-5-v12-800cv-2023-031050-6/",
+      "ano": 2023,
+      "marca": "Ferrari"
+    },
+    {
+      "vehicleId": "ferrari-812-superfast-v12-800cv-2018-gasolina",
+      "fipeCodigo": "031042-5",
+      "displayName": "Ferrari 812 SUPERFAST V12 800cv",
+      "valorAtual": 5312246,
+      "canonicalPath": "/fipe/ferrari/812-superfast-v12-800cv-2018-031042-5/",
+      "ano": 2018,
+      "marca": "Ferrari"
+    },
+    {
+      "vehicleId": "ferrari-812-superfast-v12-800cv-2019-gasolina",
+      "fipeCodigo": "031042-5",
+      "displayName": "Ferrari 812 SUPERFAST V12 800cv",
+      "valorAtual": 5445053,
+      "canonicalPath": "/fipe/ferrari/812-superfast-v12-800cv-2019-031042-5/",
+      "ano": 2019,
+      "marca": "Ferrari"
+    },
+    {
+      "vehicleId": "ferrari-812-superfast-v12-800cv-2020-gasolina",
+      "fipeCodigo": "031042-5",
+      "displayName": "Ferrari 812 SUPERFAST V12 800cv",
+      "valorAtual": 5617463,
+      "canonicalPath": "/fipe/ferrari/812-superfast-v12-800cv-2020-031042-5/",
+      "ano": 2020,
+      "marca": "Ferrari"
+    },
+    {
+      "vehicleId": "ferrari-812-superfast-v12-800cv-2021-gasolina",
+      "fipeCodigo": "031042-5",
+      "displayName": "Ferrari 812 SUPERFAST V12 800cv",
+      "valorAtual": 5808360,
+      "canonicalPath": "/fipe/ferrari/812-superfast-v12-800cv-2021-031042-5/",
+      "ano": 2021,
+      "marca": "Ferrari"
+    }
+  ],
+  "stats": {
+    "total": 7
+  },
+  "meta": {
+    "geracaoId": "812-1"
+  }
+}

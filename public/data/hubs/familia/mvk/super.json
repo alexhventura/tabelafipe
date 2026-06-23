@@ -1,0 +1,52 @@
+{
+  "tipo": "familia",
+  "slug": "super",
+  "canonicalPath": "/fipe/mvk/super/",
+  "titulo": "MVK super - Tabela FIPE",
+  "descricao": "3 versoes e anos do MVK super na Tabela FIPE.",
+  "seo": {
+    "title": "MVK super - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes MVK super. 3 veiculos indexados.",
+    "h1": "MVK super - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/mvk/super/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "mvk-super-x-125-r-2011-gasolina",
+      "fipeCodigo": "845011-0",
+      "displayName": "MVK SUPER X 125 R",
+      "valorAtual": 2340,
+      "canonicalPath": "/fipe/mvk/super-x-125-r-2011-845011-0/",
+      "ano": 2011,
+      "marca": "MVK"
+    },
+    {
+      "vehicleId": "mvk-super-x-125-r-2009-gasolina",
+      "fipeCodigo": "845011-0",
+      "displayName": "MVK SUPER X 125 R",
+      "valorAtual": 2175,
+      "canonicalPath": "/fipe/mvk/super-x-125-r-2009-845011-0/",
+      "ano": 2009,
+      "marca": "MVK"
+    },
+    {
+      "vehicleId": "mvk-super-x-125-r-2008-gasolina",
+      "fipeCodigo": "845011-0",
+      "displayName": "MVK SUPER X 125 R",
+      "valorAtual": 1900,
+      "canonicalPath": "/fipe/mvk/super-x-125-r-2008-845011-0/",
+      "ano": 2008,
+      "marca": "MVK"
+    }
+  ],
+  "stats": {
+    "total": 3,
+    "precoMin": 1900,
+    "precoMax": 2340,
+    "anos": [
+      2011,
+      2009,
+      2008
+    ]
+  }
+}

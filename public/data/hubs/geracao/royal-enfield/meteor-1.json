@@ -1,0 +1,75 @@
+{
+  "tipo": "geracao",
+  "slug": "meteor-1",
+  "canonicalPath": "/geracao/royal-enfield/meteor-1/",
+  "titulo": "Geracao meteor-1",
+  "descricao": "6 veiculos da geracao meteor-1.",
+  "seo": {
+    "title": "Geracao meteor-1 - Precos FIPE",
+    "description": "Veiculos da geracao meteor-1 na Tabela FIPE.",
+    "h1": "Geracao meteor-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/royal-enfield/meteor-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "royal-enfield-meteor-350-aurora-0-gasolina",
+      "fipeCodigo": "879041-8",
+      "displayName": "Royal Enfield Meteor 350 Aurora",
+      "valorAtual": 26124,
+      "canonicalPath": "/fipe/royal-enfield/meteor-350-aurora-0-879041-8/",
+      "ano": 0,
+      "marca": "Royal Enfield"
+    },
+    {
+      "vehicleId": "royal-enfield-meteor-350-fireball-0-gasolina",
+      "fipeCodigo": "879022-1",
+      "displayName": "Royal Enfield Meteor 350 Fireball",
+      "valorAtual": 24911,
+      "canonicalPath": "/fipe/royal-enfield/meteor-350-fireball-0-879022-1/",
+      "ano": 0,
+      "marca": "Royal Enfield"
+    },
+    {
+      "vehicleId": "royal-enfield-meteor-350-stellar-0-gasolina",
+      "fipeCodigo": "879023-0",
+      "displayName": "Royal Enfield Meteor 350 Stellar",
+      "valorAtual": 25737,
+      "canonicalPath": "/fipe/royal-enfield/meteor-350-stellar-0-879023-0/",
+      "ano": 0,
+      "marca": "Royal Enfield"
+    },
+    {
+      "vehicleId": "royal-enfield-meteor-350-supernova-0-gasolina",
+      "fipeCodigo": "879024-8",
+      "displayName": "Royal Enfield Meteor 350 Supernova",
+      "valorAtual": 26175,
+      "canonicalPath": "/fipe/royal-enfield/meteor-350-supernova-0-879024-8/",
+      "ano": 0,
+      "marca": "Royal Enfield"
+    },
+    {
+      "vehicleId": "volkswagen-meteor-28-480-6x2-2p-diesel-e6-0-diesel",
+      "fipeCodigo": "515200-3",
+      "displayName": "VOLKSWAGEN Meteor 28.480 6x2 2p (diesel)(E6)",
+      "valorAtual": 859400,
+      "canonicalPath": "/fipe/volkswagen/meteor-28-480-6x2-2p-diesel-e6-0-515200-3/",
+      "ano": 0,
+      "marca": "VOLKSWAGEN"
+    },
+    {
+      "vehicleId": "volkswagen-meteor-29-530-6x4-2p-diesel-e6-0-diesel",
+      "fipeCodigo": "515201-1",
+      "displayName": "VOLKSWAGEN Meteor 29.530 6x4 2p (diesel)(E6)",
+      "valorAtual": 958609,
+      "canonicalPath": "/fipe/volkswagen/meteor-29-530-6x4-2p-diesel-e6-0-515201-1/",
+      "ano": 0,
+      "marca": "VOLKSWAGEN"
+    }
+  ],
+  "stats": {
+    "total": 6
+  },
+  "meta": {
+    "geracaoId": "meteor-1"
+  }
+}

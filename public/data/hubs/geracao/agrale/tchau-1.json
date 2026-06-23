@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "tchau-1",
+  "canonicalPath": "/geracao/agrale/tchau-1/",
+  "titulo": "Geracao tchau-1",
+  "descricao": "2 veiculos da geracao tchau-1.",
+  "seo": {
+    "title": "Geracao tchau-1 - Precos FIPE",
+    "description": "Veiculos da geracao tchau-1 na Tabela FIPE.",
+    "h1": "Geracao tchau-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/agrale/tchau-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "agrale-tchau-50-1995-gasolina",
+      "fipeCodigo": "801019-6",
+      "displayName": "AGRALE TCHAU 50",
+      "valorAtual": 1173,
+      "canonicalPath": "/fipe/agrale/tchau-50-1995-801019-6/",
+      "ano": 1995,
+      "marca": "AGRALE"
+    },
+    {
+      "vehicleId": "agrale-tchau-50-1996-gasolina",
+      "fipeCodigo": "801019-6",
+      "displayName": "AGRALE TCHAU 50",
+      "valorAtual": 1281,
+      "canonicalPath": "/fipe/agrale/tchau-50-1996-801019-6/",
+      "ano": 1996,
+      "marca": "AGRALE"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "tchau-1"
+  }
+}

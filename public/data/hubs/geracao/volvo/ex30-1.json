@@ -1,0 +1,84 @@
+{
+  "tipo": "geracao",
+  "slug": "ex30-1",
+  "canonicalPath": "/geracao/volvo/ex30-1/",
+  "titulo": "Geracao ex30-1",
+  "descricao": "7 veiculos da geracao ex30-1.",
+  "seo": {
+    "title": "Geracao ex30-1 - Precos FIPE",
+    "description": "Veiculos da geracao ex30-1 na Tabela FIPE.",
+    "h1": "Geracao ex30-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/volvo/ex30-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "volvo-ex30-e40-core-eletrico-0-eletrico",
+      "fipeCodigo": "029164-1",
+      "displayName": "Volvo EX30 E40 Core (Elétrico)",
+      "valorAtual": 228057,
+      "canonicalPath": "/fipe/volvo/ex30-e40-core-eletrico-0-029164-1/",
+      "ano": 0,
+      "marca": "Volvo"
+    },
+    {
+      "vehicleId": "volvo-ex30-e40-plus-0-eletrico",
+      "fipeCodigo": "029181-1",
+      "displayName": "Volvo EX30 E40 Plus",
+      "valorAtual": 239950,
+      "canonicalPath": "/fipe/volvo/ex30-e40-plus-0-029181-1/",
+      "ano": 0,
+      "marca": "Volvo"
+    },
+    {
+      "vehicleId": "volvo-ex30-e60-core-eletrico-0-eletrico",
+      "fipeCodigo": "029165-0",
+      "displayName": "Volvo EX30 E60 Core (Elétrico)",
+      "valorAtual": 238817,
+      "canonicalPath": "/fipe/volvo/ex30-e60-core-eletrico-0-029165-0/",
+      "ano": 0,
+      "marca": "Volvo"
+    },
+    {
+      "vehicleId": "volvo-ex30-e60-cross-country-awd-0-eletrico",
+      "fipeCodigo": "029179-0",
+      "displayName": "Volvo EX30 E60 Cross Country AWD",
+      "valorAtual": 312456,
+      "canonicalPath": "/fipe/volvo/ex30-e60-cross-country-awd-0-029179-0/",
+      "ano": 0,
+      "marca": "Volvo"
+    },
+    {
+      "vehicleId": "volvo-ex30-e60-plus-eletrico-0-eletrico",
+      "fipeCodigo": "029166-8",
+      "displayName": "Volvo EX30 E60 Plus (Elétrico)",
+      "valorAtual": 255748,
+      "canonicalPath": "/fipe/volvo/ex30-e60-plus-eletrico-0-029166-8/",
+      "ano": 0,
+      "marca": "Volvo"
+    },
+    {
+      "vehicleId": "volvo-ex30-e60-twin-ultra-awd-0-eletrico",
+      "fipeCodigo": "029180-3",
+      "displayName": "Volvo EX30 E60 Twin Ultra AWD",
+      "valorAtual": 309950,
+      "canonicalPath": "/fipe/volvo/ex30-e60-twin-ultra-awd-0-029180-3/",
+      "ano": 0,
+      "marca": "Volvo"
+    },
+    {
+      "vehicleId": "volvo-ex30-e60-ultra-eletrico-0-eletrico",
+      "fipeCodigo": "029167-6",
+      "displayName": "Volvo EX30 E60 Ultra (Elétrico)",
+      "valorAtual": 301085,
+      "canonicalPath": "/fipe/volvo/ex30-e60-ultra-eletrico-0-029167-6/",
+      "ano": 0,
+      "marca": "Volvo"
+    }
+  ],
+  "stats": {
+    "total": 7
+  },
+  "meta": {
+    "geracaoId": "ex30-1"
+  }
+}

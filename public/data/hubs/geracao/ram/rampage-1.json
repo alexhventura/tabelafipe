@@ -1,0 +1,102 @@
+{
+  "tipo": "geracao",
+  "slug": "rampage-1",
+  "canonicalPath": "/geracao/ram/rampage-1/",
+  "titulo": "Geracao rampage-1",
+  "descricao": "9 veiculos da geracao rampage-1.",
+  "seo": {
+    "title": "Geracao rampage-1 - Precos FIPE",
+    "description": "Veiculos da geracao rampage-1 na Tabela FIPE.",
+    "h1": "Geracao rampage-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/ram/rampage-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "ram-rampage-big-horn-2-2-tb-cd-4x4-die-aut-0-diesel",
+      "fipeCodigo": "083026-7",
+      "displayName": "RAM RAMPAGE BIG HORN 2.2 TB CD 4X4 Die Aut.",
+      "valorAtual": 223800,
+      "canonicalPath": "/fipe/ram/rampage-big-horn-2-2-tb-cd-4x4-die-aut-0-083026-7/",
+      "ano": 0,
+      "marca": "RAM"
+    },
+    {
+      "vehicleId": "ram-rampage-lar-hurr-4-2-0-tb-cd-4x4-aut-0-gasolina",
+      "fipeCodigo": "083018-6",
+      "displayName": "RAM RAMPAGE LAR. HURR. 4 2.0 TB CD 4X4  Aut.",
+      "valorAtual": 244688,
+      "canonicalPath": "/fipe/ram/rampage-lar-hurr-4-2-0-tb-cd-4x4-aut-0-083018-6/",
+      "ano": 0,
+      "marca": "RAM"
+    },
+    {
+      "vehicleId": "ram-rampage-laramie-2-0-turbo-cd-4x4-aut-0-flex",
+      "fipeCodigo": "083030-5",
+      "displayName": "RAM RAMPAGE LARAMIE 2.0 TURBO CD 4X4 Aut.",
+      "valorAtual": 253781,
+      "canonicalPath": "/fipe/ram/rampage-laramie-2-0-turbo-cd-4x4-aut-0-083030-5/",
+      "ano": 0,
+      "marca": "RAM"
+    },
+    {
+      "vehicleId": "ram-rampage-laramie-2-2-tb-cd-4x4-die-aut-0-diesel",
+      "fipeCodigo": "083021-6",
+      "displayName": "RAM RAMPAGE LARAMIE 2.2 TB CD 4X4 Die. Aut.",
+      "valorAtual": 264906,
+      "canonicalPath": "/fipe/ram/rampage-laramie-2-2-tb-cd-4x4-die-aut-0-083021-6/",
+      "ano": 0,
+      "marca": "RAM"
+    },
+    {
+      "vehicleId": "ram-rampage-r-t-hurric-4-2-0-tb-cd-4x4-aut-0-gasolina",
+      "fipeCodigo": "083019-4",
+      "displayName": "RAM RAMPAGE R/T HURRIC. 4 2.0 TB CD 4X4 Aut.",
+      "valorAtual": 247525,
+      "canonicalPath": "/fipe/ram/rampage-r-t-hurric-4-2-0-tb-cd-4x4-aut-0-083019-4/",
+      "ano": 0,
+      "marca": "RAM"
+    },
+    {
+      "vehicleId": "ram-rampage-r-t-hurricane-2-0-turbo-cd-4x4-aut-0-flex",
+      "fipeCodigo": "083029-1",
+      "displayName": "RAM RAMPAGE R/T HURRICANE 2.0 TURBO CD 4X4 Aut.",
+      "valorAtual": 269990,
+      "canonicalPath": "/fipe/ram/rampage-r-t-hurricane-2-0-turbo-cd-4x4-aut-0-083029-1/",
+      "ano": 0,
+      "marca": "RAM"
+    },
+    {
+      "vehicleId": "ram-rampage-rebel-2-2-tb-cd-4x4-diesel-aut-0-diesel",
+      "fipeCodigo": "083022-4",
+      "displayName": "RAM RAMPAGE REBEL 2.2 TB CD 4X4 Diesel Aut.",
+      "valorAtual": 252293,
+      "canonicalPath": "/fipe/ram/rampage-rebel-2-2-tb-cd-4x4-diesel-aut-0-083022-4/",
+      "ano": 0,
+      "marca": "RAM"
+    },
+    {
+      "vehicleId": "ram-rampage-rebel-hurr-4-2-0-tb-cd-4x4-aut-0-gasolina",
+      "fipeCodigo": "083016-0",
+      "displayName": "RAM RAMPAGE REBEL HURR.4 2.0 TB CD 4X4 Aut.",
+      "valorAtual": 240698,
+      "canonicalPath": "/fipe/ram/rampage-rebel-hurr-4-2-0-tb-cd-4x4-aut-0-083016-0/",
+      "ano": 0,
+      "marca": "RAM"
+    },
+    {
+      "vehicleId": "ram-rampage-rebel-ignit-2-0-tb-cd-4x4-aut-0-gasolina",
+      "fipeCodigo": "083023-2",
+      "displayName": "RAM RAMPAGE REBEL IGNIT. 2.0 TB CD 4X4 Aut.",
+      "valorAtual": 246709,
+      "canonicalPath": "/fipe/ram/rampage-rebel-ignit-2-0-tb-cd-4x4-aut-0-083023-2/",
+      "ano": 0,
+      "marca": "RAM"
+    }
+  ],
+  "stats": {
+    "total": 9
+  },
+  "meta": {
+    "geracaoId": "rampage-1"
+  }
+}

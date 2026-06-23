@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "liberty-2",
+  "canonicalPath": "/geracao/piaggio/liberty-2/",
+  "titulo": "Geracao liberty-2",
+  "descricao": "2 veiculos da geracao liberty-2.",
+  "seo": {
+    "title": "Geracao liberty-2 - Precos FIPE",
+    "description": "Veiculos da geracao liberty-2 na Tabela FIPE.",
+    "h1": "Geracao liberty-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/piaggio/liberty-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "piaggio-liberty-200-200cc-2007-gasolina",
+      "fipeCodigo": "822020-4",
+      "displayName": "PIAGGIO Liberty 200 200cc",
+      "valorAtual": 7228,
+      "canonicalPath": "/fipe/piaggio/liberty-200-200cc-2007-822020-4/",
+      "ano": 2007,
+      "marca": "PIAGGIO"
+    },
+    {
+      "vehicleId": "piaggio-liberty-200-200cc-2008-gasolina",
+      "fipeCodigo": "822020-4",
+      "displayName": "PIAGGIO Liberty 200 200cc",
+      "valorAtual": 7797,
+      "canonicalPath": "/fipe/piaggio/liberty-200-200cc-2008-822020-4/",
+      "ano": 2008,
+      "marca": "PIAGGIO"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "liberty-2"
+  }
+}

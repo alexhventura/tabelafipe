@@ -1,0 +1,84 @@
+{
+  "tipo": "geracao",
+  "slug": "daytona-4",
+  "canonicalPath": "/geracao/triumph/daytona-4/",
+  "titulo": "Geracao daytona-4",
+  "descricao": "7 veiculos da geracao daytona-4.",
+  "seo": {
+    "title": "Geracao daytona-4 - Precos FIPE",
+    "description": "Veiculos da geracao daytona-4 na Tabela FIPE.",
+    "h1": "Geracao daytona-4",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/triumph/daytona-4/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "triumph-daytona-675i-2006-gasolina",
+      "fipeCodigo": "826030-3",
+      "displayName": "TRIUMPH DAYTONA 675i",
+      "valorAtual": 23342,
+      "canonicalPath": "/fipe/triumph/daytona-675i-2006-826030-3/",
+      "ano": 2006,
+      "marca": "TRIUMPH"
+    },
+    {
+      "vehicleId": "triumph-daytona-675i-2007-gasolina",
+      "fipeCodigo": "826030-3",
+      "displayName": "TRIUMPH DAYTONA 675i",
+      "valorAtual": 25268,
+      "canonicalPath": "/fipe/triumph/daytona-675i-2007-826030-3/",
+      "ano": 2007,
+      "marca": "TRIUMPH"
+    },
+    {
+      "vehicleId": "triumph-daytona-675i-2008-gasolina",
+      "fipeCodigo": "826030-3",
+      "displayName": "TRIUMPH DAYTONA 675i",
+      "valorAtual": 27571,
+      "canonicalPath": "/fipe/triumph/daytona-675i-2008-826030-3/",
+      "ano": 2008,
+      "marca": "TRIUMPH"
+    },
+    {
+      "vehicleId": "triumph-daytona-675i-2009-gasolina",
+      "fipeCodigo": "826030-3",
+      "displayName": "TRIUMPH DAYTONA 675i",
+      "valorAtual": 29391,
+      "canonicalPath": "/fipe/triumph/daytona-675i-2009-826030-3/",
+      "ano": 2009,
+      "marca": "TRIUMPH"
+    },
+    {
+      "vehicleId": "triumph-daytona-675i-2010-gasolina",
+      "fipeCodigo": "826030-3",
+      "displayName": "TRIUMPH DAYTONA 675i",
+      "valorAtual": 31680,
+      "canonicalPath": "/fipe/triumph/daytona-675i-2010-826030-3/",
+      "ano": 2010,
+      "marca": "TRIUMPH"
+    },
+    {
+      "vehicleId": "triumph-daytona-955i-2006-gasolina",
+      "fipeCodigo": "826026-5",
+      "displayName": "TRIUMPH DAYTONA 955i",
+      "valorAtual": 25047,
+      "canonicalPath": "/fipe/triumph/daytona-955i-2006-826026-5/",
+      "ano": 2006,
+      "marca": "TRIUMPH"
+    },
+    {
+      "vehicleId": "triumph-daytona-955i-2007-gasolina",
+      "fipeCodigo": "826026-5",
+      "displayName": "TRIUMPH DAYTONA 955i",
+      "valorAtual": 27264,
+      "canonicalPath": "/fipe/triumph/daytona-955i-2007-826026-5/",
+      "ano": 2007,
+      "marca": "TRIUMPH"
+    }
+  ],
+  "stats": {
+    "total": 7
+  },
+  "meta": {
+    "geracaoId": "daytona-4"
+  }
+}

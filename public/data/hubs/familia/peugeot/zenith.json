@@ -1,0 +1,52 @@
+{
+  "tipo": "familia",
+  "slug": "zenith",
+  "canonicalPath": "/fipe/peugeot/zenith/",
+  "titulo": "PEUGEOT zenith - Tabela FIPE",
+  "descricao": "3 versoes e anos do PEUGEOT zenith na Tabela FIPE.",
+  "seo": {
+    "title": "PEUGEOT zenith - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes PEUGEOT zenith. 3 veiculos indexados.",
+    "h1": "PEUGEOT zenith - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/peugeot/zenith/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "peugeot-zenith-50-1999-gasolina",
+      "fipeCodigo": "821011-0",
+      "displayName": "PEUGEOT ZENITH 50",
+      "valorAtual": 1383,
+      "canonicalPath": "/fipe/peugeot/zenith-50-1999-821011-0/",
+      "ano": 1999,
+      "marca": "PEUGEOT"
+    },
+    {
+      "vehicleId": "peugeot-zenith-50-1998-gasolina",
+      "fipeCodigo": "821011-0",
+      "displayName": "PEUGEOT ZENITH 50",
+      "valorAtual": 1253,
+      "canonicalPath": "/fipe/peugeot/zenith-50-1998-821011-0/",
+      "ano": 1998,
+      "marca": "PEUGEOT"
+    },
+    {
+      "vehicleId": "peugeot-zenith-50-1997-gasolina",
+      "fipeCodigo": "821011-0",
+      "displayName": "PEUGEOT ZENITH 50",
+      "valorAtual": 1155,
+      "canonicalPath": "/fipe/peugeot/zenith-50-1997-821011-0/",
+      "ano": 1997,
+      "marca": "PEUGEOT"
+    }
+  ],
+  "stats": {
+    "total": 3,
+    "precoMin": 1155,
+    "precoMax": 1383,
+    "anos": [
+      1999,
+      1998,
+      1997
+    ]
+  }
+}

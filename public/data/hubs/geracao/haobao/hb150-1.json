@@ -1,0 +1,66 @@
+{
+  "tipo": "geracao",
+  "slug": "hb150-1",
+  "canonicalPath": "/geracao/haobao/hb150-1/",
+  "titulo": "Geracao hb150-1",
+  "descricao": "5 veiculos da geracao hb150-1.",
+  "seo": {
+    "title": "Geracao hb150-1 - Precos FIPE",
+    "description": "Veiculos da geracao hb150-1 na Tabela FIPE.",
+    "h1": "Geracao hb150-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/haobao/hb150-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "haobao-hb150-2008-gasolina",
+      "fipeCodigo": "856004-8",
+      "displayName": "HAOBAO HB150",
+      "valorAtual": 2355,
+      "canonicalPath": "/fipe/haobao/hb150-2008-856004-8/",
+      "ano": 2008,
+      "marca": "HAOBAO"
+    },
+    {
+      "vehicleId": "haobao-hb150-2009-gasolina",
+      "fipeCodigo": "856004-8",
+      "displayName": "HAOBAO HB150",
+      "valorAtual": 2518,
+      "canonicalPath": "/fipe/haobao/hb150-2009-856004-8/",
+      "ano": 2009,
+      "marca": "HAOBAO"
+    },
+    {
+      "vehicleId": "haobao-hb150-t-r5-fearfulspeed-2007-gasolina",
+      "fipeCodigo": "856003-0",
+      "displayName": "HAOBAO HB150-T R5 FEARFULSPEED",
+      "valorAtual": 2157,
+      "canonicalPath": "/fipe/haobao/hb150-t-r5-fearfulspeed-2007-856003-0/",
+      "ano": 2007,
+      "marca": "HAOBAO"
+    },
+    {
+      "vehicleId": "haobao-hb150-t-r5-fearfulspeed-2008-gasolina",
+      "fipeCodigo": "856003-0",
+      "displayName": "HAOBAO HB150-T R5 FEARFULSPEED",
+      "valorAtual": 2376,
+      "canonicalPath": "/fipe/haobao/hb150-t-r5-fearfulspeed-2008-856003-0/",
+      "ano": 2008,
+      "marca": "HAOBAO"
+    },
+    {
+      "vehicleId": "haobao-hb150-t-r5-fearfulspeed-2009-gasolina",
+      "fipeCodigo": "856003-0",
+      "displayName": "HAOBAO HB150-T R5 FEARFULSPEED",
+      "valorAtual": 2648,
+      "canonicalPath": "/fipe/haobao/hb150-t-r5-fearfulspeed-2009-856003-0/",
+      "ano": 2009,
+      "marca": "HAOBAO"
+    }
+  ],
+  "stats": {
+    "total": 5
+  },
+  "meta": {
+    "geracaoId": "hb150-1"
+  }
+}

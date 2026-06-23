@@ -1,0 +1,57 @@
+{
+  "tipo": "geracao",
+  "slug": "rs6-2",
+  "canonicalPath": "/geracao/audi/rs6-2/",
+  "titulo": "Geracao rs6-2",
+  "descricao": "4 veiculos da geracao rs6-2.",
+  "seo": {
+    "title": "Geracao rs6-2 - Precos FIPE",
+    "description": "Veiculos da geracao rs6-2 na Tabela FIPE.",
+    "h1": "Geracao rs6-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/audi/rs6-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "audi-rs6-4-2-450cv-bi-tb-quattro-tiptronic-4p-2003-gasolina",
+      "fipeCodigo": "008112-4",
+      "displayName": "Audi RS6 4.2 450cv BI-TB Quattro Tiptronic 4p",
+      "valorAtual": 93708,
+      "canonicalPath": "/fipe/audi/rs6-4-2-450cv-bi-tb-quattro-tiptronic-4p-2003-008112-4/",
+      "ano": 2003,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-rs6-4-2-450cv-bi-tb-quattro-tiptronic-4p-2004-gasolina",
+      "fipeCodigo": "008112-4",
+      "displayName": "Audi RS6 4.2 450cv BI-TB Quattro Tiptronic 4p",
+      "valorAtual": 114563,
+      "canonicalPath": "/fipe/audi/rs6-4-2-450cv-bi-tb-quattro-tiptronic-4p-2004-008112-4/",
+      "ano": 2004,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-rs6-4-2-avant-bi-tb-quattro-tiptron-5p-2003-gasolina",
+      "fipeCodigo": "008111-6",
+      "displayName": "Audi RS6 4.2 Avant  BI-TB Quattro Tiptron. 5p",
+      "valorAtual": 96237,
+      "canonicalPath": "/fipe/audi/rs6-4-2-avant-bi-tb-quattro-tiptron-5p-2003-008111-6/",
+      "ano": 2003,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-rs6-4-2-avant-bi-tb-quattro-tiptron-5p-2004-gasolina",
+      "fipeCodigo": "008111-6",
+      "displayName": "Audi RS6 4.2 Avant  BI-TB Quattro Tiptron. 5p",
+      "valorAtual": 122873,
+      "canonicalPath": "/fipe/audi/rs6-4-2-avant-bi-tb-quattro-tiptron-5p-2004-008111-6/",
+      "ano": 2004,
+      "marca": "Audi"
+    }
+  ],
+  "stats": {
+    "total": 4
+  },
+  "meta": {
+    "geracaoId": "rs6-2"
+  }
+}

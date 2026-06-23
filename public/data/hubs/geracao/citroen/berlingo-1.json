@@ -1,0 +1,93 @@
+{
+  "tipo": "geracao",
+  "slug": "berlingo-1",
+  "canonicalPath": "/geracao/citroen/berlingo-1/",
+  "titulo": "Geracao berlingo-1",
+  "descricao": "8 veiculos da geracao berlingo-1.",
+  "seo": {
+    "title": "Geracao berlingo-1 - Precos FIPE",
+    "description": "Veiculos da geracao berlingo-1 na Tabela FIPE.",
+    "h1": "Geracao berlingo-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/citroen/berlingo-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "citroen-berlingo-multspace-glx-1-8i-3p-1998-gasolina",
+      "fipeCodigo": "011026-4",
+      "displayName": "Citroën Berlingo MultSpace GLX 1.8i 3p",
+      "valorAtual": 8262,
+      "canonicalPath": "/fipe/citroen/berlingo-multspace-glx-1-8i-3p-1998-011026-4/",
+      "ano": 1998,
+      "marca": "Citroën"
+    },
+    {
+      "vehicleId": "citroen-berlingo-multspace-glx-1-8i-3p-1999-gasolina",
+      "fipeCodigo": "011026-4",
+      "displayName": "Citroën Berlingo MultSpace GLX 1.8i 3p",
+      "valorAtual": 8694,
+      "canonicalPath": "/fipe/citroen/berlingo-multspace-glx-1-8i-3p-1999-011026-4/",
+      "ano": 1999,
+      "marca": "Citroën"
+    },
+    {
+      "vehicleId": "citroen-berlingo-multspace-glx-1-8i-3p-2000-gasolina",
+      "fipeCodigo": "011026-4",
+      "displayName": "Citroën Berlingo MultSpace GLX 1.8i 3p",
+      "valorAtual": 9807,
+      "canonicalPath": "/fipe/citroen/berlingo-multspace-glx-1-8i-3p-2000-011026-4/",
+      "ano": 2000,
+      "marca": "Citroën"
+    },
+    {
+      "vehicleId": "citroen-berlingo-multspace-glx-1-8i-3p-2001-gasolina",
+      "fipeCodigo": "011026-4",
+      "displayName": "Citroën Berlingo MultSpace GLX 1.8i 3p",
+      "valorAtual": 10071,
+      "canonicalPath": "/fipe/citroen/berlingo-multspace-glx-1-8i-3p-2001-011026-4/",
+      "ano": 2001,
+      "marca": "Citroën"
+    },
+    {
+      "vehicleId": "citroen-berlingo-multspace-glx-1-8i-4p-1999-gasolina",
+      "fipeCodigo": "011033-7",
+      "displayName": "Citroën Berlingo MultSpace GLX 1.8i 4p",
+      "valorAtual": 8877,
+      "canonicalPath": "/fipe/citroen/berlingo-multspace-glx-1-8i-4p-1999-011033-7/",
+      "ano": 1999,
+      "marca": "Citroën"
+    },
+    {
+      "vehicleId": "citroen-berlingo-multspace-glx-1-8i-4p-2000-gasolina",
+      "fipeCodigo": "011033-7",
+      "displayName": "Citroën Berlingo MultSpace GLX 1.8i 4p",
+      "valorAtual": 9954,
+      "canonicalPath": "/fipe/citroen/berlingo-multspace-glx-1-8i-4p-2000-011033-7/",
+      "ano": 2000,
+      "marca": "Citroën"
+    },
+    {
+      "vehicleId": "citroen-berlingo-multspace-glx-1-8i-4p-2001-gasolina",
+      "fipeCodigo": "011033-7",
+      "displayName": "Citroën Berlingo MultSpace GLX 1.8i 4p",
+      "valorAtual": 10407,
+      "canonicalPath": "/fipe/citroen/berlingo-multspace-glx-1-8i-4p-2001-011033-7/",
+      "ano": 2001,
+      "marca": "Citroën"
+    },
+    {
+      "vehicleId": "citroen-berlingo-multspace-glx-1-8i-4p-2002-gasolina",
+      "fipeCodigo": "011033-7",
+      "displayName": "Citroën Berlingo MultSpace GLX 1.8i 4p",
+      "valorAtual": 12597,
+      "canonicalPath": "/fipe/citroen/berlingo-multspace-glx-1-8i-4p-2002-011033-7/",
+      "ano": 2002,
+      "marca": "Citroën"
+    }
+  ],
+  "stats": {
+    "total": 8
+  },
+  "meta": {
+    "geracaoId": "berlingo-1"
+  }
+}

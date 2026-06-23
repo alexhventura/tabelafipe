@@ -1,0 +1,48 @@
+{
+  "tipo": "geracao",
+  "slug": "vulcan-1",
+  "canonicalPath": "/geracao/kawasaki/vulcan-1/",
+  "titulo": "Geracao vulcan-1",
+  "descricao": "3 veiculos da geracao vulcan-1.",
+  "seo": {
+    "title": "Geracao vulcan-1 - Precos FIPE",
+    "description": "Veiculos da geracao vulcan-1 na Tabela FIPE.",
+    "h1": "Geracao vulcan-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/kawasaki/vulcan-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "kawasaki-vulcan-s-650-0-gasolina",
+      "fipeCodigo": "817064-9",
+      "displayName": "KAWASAKI VULCAN S 650",
+      "valorAtual": 54544,
+      "canonicalPath": "/fipe/kawasaki/vulcan-s-650-0-817064-9/",
+      "ano": 0,
+      "marca": "KAWASAKI"
+    },
+    {
+      "vehicleId": "kawasaki-vulcan-s-650-cafe-0-gasolina",
+      "fipeCodigo": "817070-3",
+      "displayName": "KAWASAKI VULCAN S 650 CAFÉ",
+      "valorAtual": 57249,
+      "canonicalPath": "/fipe/kawasaki/vulcan-s-650-cafe-0-817070-3/",
+      "ano": 0,
+      "marca": "KAWASAKI"
+    },
+    {
+      "vehicleId": "kawasaki-vulcan-s-650-special-edition-0-gasolina",
+      "fipeCodigo": "817071-1",
+      "displayName": "KAWASAKI VULCAN S 650 SPECIAL EDITION",
+      "valorAtual": 54021,
+      "canonicalPath": "/fipe/kawasaki/vulcan-s-650-special-edition-0-817071-1/",
+      "ano": 0,
+      "marca": "KAWASAKI"
+    }
+  ],
+  "stats": {
+    "total": 3
+  },
+  "meta": {
+    "geracaoId": "vulcan-1"
+  }
+}

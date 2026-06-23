@@ -1,0 +1,75 @@
+{
+  "tipo": "geracao",
+  "slug": "br-1",
+  "canonicalPath": "/geracao/gurgel/br-1/",
+  "titulo": "Geracao br-1",
+  "descricao": "6 veiculos da geracao br-1.",
+  "seo": {
+    "title": "Geracao br-1 - Precos FIPE",
+    "description": "Veiculos da geracao br-1 na Tabela FIPE.",
+    "h1": "Geracao br-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/gurgel/br-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "gurgel-br-800-todos-supermini-1988-gasolina",
+      "fipeCodigo": "045003-0",
+      "displayName": "Gurgel BR-800 (todos)/Supermini",
+      "valorAtual": 7253,
+      "canonicalPath": "/fipe/gurgel/br-800-todos-supermini-1988-045003-0/",
+      "ano": 1988,
+      "marca": "Gurgel"
+    },
+    {
+      "vehicleId": "gurgel-br-800-todos-supermini-1989-gasolina",
+      "fipeCodigo": "045003-0",
+      "displayName": "Gurgel BR-800 (todos)/Supermini",
+      "valorAtual": 11517,
+      "canonicalPath": "/fipe/gurgel/br-800-todos-supermini-1989-045003-0/",
+      "ano": 1989,
+      "marca": "Gurgel"
+    },
+    {
+      "vehicleId": "gurgel-br-800-todos-supermini-1990-gasolina",
+      "fipeCodigo": "045003-0",
+      "displayName": "Gurgel BR-800 (todos)/Supermini",
+      "valorAtual": 13418,
+      "canonicalPath": "/fipe/gurgel/br-800-todos-supermini-1990-045003-0/",
+      "ano": 1990,
+      "marca": "Gurgel"
+    },
+    {
+      "vehicleId": "gurgel-br-800-todos-supermini-1991-gasolina",
+      "fipeCodigo": "045003-0",
+      "displayName": "Gurgel BR-800 (todos)/Supermini",
+      "valorAtual": 20021,
+      "canonicalPath": "/fipe/gurgel/br-800-todos-supermini-1991-045003-0/",
+      "ano": 1991,
+      "marca": "Gurgel"
+    },
+    {
+      "vehicleId": "gurgel-br-800-todos-supermini-1992-gasolina",
+      "fipeCodigo": "045003-0",
+      "displayName": "Gurgel BR-800 (todos)/Supermini",
+      "valorAtual": 20522,
+      "canonicalPath": "/fipe/gurgel/br-800-todos-supermini-1992-045003-0/",
+      "ano": 1992,
+      "marca": "Gurgel"
+    },
+    {
+      "vehicleId": "gurgel-br-800-todos-supermini-1993-gasolina",
+      "fipeCodigo": "045003-0",
+      "displayName": "Gurgel BR-800 (todos)/Supermini",
+      "valorAtual": 21932,
+      "canonicalPath": "/fipe/gurgel/br-800-todos-supermini-1993-045003-0/",
+      "ano": 1993,
+      "marca": "Gurgel"
+    }
+  ],
+  "stats": {
+    "total": 6
+  },
+  "meta": {
+    "geracaoId": "br-1"
+  }
+}

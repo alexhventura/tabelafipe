@@ -1,0 +1,62 @@
+{
+  "tipo": "familia",
+  "slug": "ulysses",
+  "canonicalPath": "/fipe/buell/ulysses/",
+  "titulo": "BUELL ulysses - Tabela FIPE",
+  "descricao": "4 versoes e anos do BUELL ulysses na Tabela FIPE.",
+  "seo": {
+    "title": "BUELL ulysses - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes BUELL ulysses. 4 veiculos indexados.",
+    "h1": "BUELL ulysses - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/buell/ulysses/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "buell-ulysses-xb12x-2009-gasolina",
+      "fipeCodigo": "846001-9",
+      "displayName": "BUELL ULYSSES XB12X",
+      "valorAtual": 25230,
+      "canonicalPath": "/fipe/buell/ulysses-xb12x-2009-846001-9/",
+      "ano": 2009,
+      "marca": "BUELL"
+    },
+    {
+      "vehicleId": "buell-ulysses-xb12x-2008-gasolina",
+      "fipeCodigo": "846001-9",
+      "displayName": "BUELL ULYSSES XB12X",
+      "valorAtual": 24104,
+      "canonicalPath": "/fipe/buell/ulysses-xb12x-2008-846001-9/",
+      "ano": 2008,
+      "marca": "BUELL"
+    },
+    {
+      "vehicleId": "buell-ulysses-xb12x-2007-gasolina",
+      "fipeCodigo": "846001-9",
+      "displayName": "BUELL ULYSSES XB12X",
+      "valorAtual": 23516,
+      "canonicalPath": "/fipe/buell/ulysses-xb12x-2007-846001-9/",
+      "ano": 2007,
+      "marca": "BUELL"
+    },
+    {
+      "vehicleId": "buell-ulysses-xb12x-2006-gasolina",
+      "fipeCodigo": "846001-9",
+      "displayName": "BUELL ULYSSES XB12X",
+      "valorAtual": 21970,
+      "canonicalPath": "/fipe/buell/ulysses-xb12x-2006-846001-9/",
+      "ano": 2006,
+      "marca": "BUELL"
+    }
+  ],
+  "stats": {
+    "total": 4,
+    "precoMin": 21970,
+    "precoMax": 25230,
+    "anos": [
+      2009,
+      2008,
+      2007,
+      2006
+    ]
+  }
+}

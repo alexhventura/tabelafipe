@@ -1,0 +1,72 @@
+{
+  "tipo": "familia",
+  "slug": "fazer",
+  "canonicalPath": "/fipe/yamaha/fazer/",
+  "titulo": "YAMAHA fazer - Tabela FIPE",
+  "descricao": "5 versoes e anos do YAMAHA fazer na Tabela FIPE.",
+  "seo": {
+    "title": "YAMAHA fazer - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes YAMAHA fazer. 5 veiculos indexados.",
+    "h1": "YAMAHA fazer - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/yamaha/fazer/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "yamaha-fazer-600-fz6-s-2009-gasolina",
+      "fipeCodigo": "827051-1",
+      "displayName": "YAMAHA FAZER 600/ FZ6 S",
+      "valorAtual": 30432,
+      "canonicalPath": "/fipe/yamaha/fazer-600-fz6-s-2009-827051-1/",
+      "ano": 2009,
+      "marca": "YAMAHA"
+    },
+    {
+      "vehicleId": "yamaha-fazer-600-fz6-s-2008-gasolina",
+      "fipeCodigo": "827051-1",
+      "displayName": "YAMAHA FAZER 600/ FZ6 S",
+      "valorAtual": 29689,
+      "canonicalPath": "/fipe/yamaha/fazer-600-fz6-s-2008-827051-1/",
+      "ano": 2008,
+      "marca": "YAMAHA"
+    },
+    {
+      "vehicleId": "yamaha-fazer-600-fz6-s-2007-gasolina",
+      "fipeCodigo": "827051-1",
+      "displayName": "YAMAHA FAZER 600/ FZ6 S",
+      "valorAtual": 25395,
+      "canonicalPath": "/fipe/yamaha/fazer-600-fz6-s-2007-827051-1/",
+      "ano": 2007,
+      "marca": "YAMAHA"
+    },
+    {
+      "vehicleId": "yamaha-fazer-600-fz6-s-2006-gasolina",
+      "fipeCodigo": "827051-1",
+      "displayName": "YAMAHA FAZER 600/ FZ6 S",
+      "valorAtual": 19297,
+      "canonicalPath": "/fipe/yamaha/fazer-600-fz6-s-2006-827051-1/",
+      "ano": 2006,
+      "marca": "YAMAHA"
+    },
+    {
+      "vehicleId": "yamaha-fazer-600-fz6-s-2005-gasolina",
+      "fipeCodigo": "827051-1",
+      "displayName": "YAMAHA FAZER 600/ FZ6 S",
+      "valorAtual": 15607,
+      "canonicalPath": "/fipe/yamaha/fazer-600-fz6-s-2005-827051-1/",
+      "ano": 2005,
+      "marca": "YAMAHA"
+    }
+  ],
+  "stats": {
+    "total": 5,
+    "precoMin": 15607,
+    "precoMax": 30432,
+    "anos": [
+      2009,
+      2008,
+      2007,
+      2006,
+      2005
+    ]
+  }
+}

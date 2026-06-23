@@ -1,0 +1,42 @@
+{
+  "tipo": "familia",
+  "slug": "squab",
+  "canonicalPath": "/fipe/peugeot/squab/",
+  "titulo": "PEUGEOT squab - Tabela FIPE",
+  "descricao": "2 versoes e anos do PEUGEOT squab na Tabela FIPE.",
+  "seo": {
+    "title": "PEUGEOT squab - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes PEUGEOT squab. 2 veiculos indexados.",
+    "h1": "PEUGEOT squab - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/peugeot/squab/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "peugeot-squab-50-1998-gasolina",
+      "fipeCodigo": "821008-0",
+      "displayName": "PEUGEOT SQUAB 50",
+      "valorAtual": 1291,
+      "canonicalPath": "/fipe/peugeot/squab-50-1998-821008-0/",
+      "ano": 1998,
+      "marca": "PEUGEOT"
+    },
+    {
+      "vehicleId": "peugeot-squab-50-1997-gasolina",
+      "fipeCodigo": "821008-0",
+      "displayName": "PEUGEOT SQUAB 50",
+      "valorAtual": 1199,
+      "canonicalPath": "/fipe/peugeot/squab-50-1997-821008-0/",
+      "ano": 1997,
+      "marca": "PEUGEOT"
+    }
+  ],
+  "stats": {
+    "total": 2,
+    "precoMin": 1199,
+    "precoMax": 1291,
+    "anos": [
+      1998,
+      1997
+    ]
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "tipo": "familia",
+  "slug": "x",
+  "canonicalPath": "/fipe/zeekr/x/",
+  "titulo": "ZEEKR x - Tabela FIPE",
+  "descricao": "4 versoes e anos do ZEEKR x na Tabela FIPE.",
+  "seo": {
+    "title": "ZEEKR x - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes ZEEKR x. 4 veiculos indexados.",
+    "h1": "ZEEKR x - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/zeekr/x/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "zeekr-x-premium-eletrico-2025-eletrico",
+      "fipeCodigo": "301003-1",
+      "displayName": "ZEEKR X Premium (Elétrico)",
+      "valorAtual": 237523,
+      "canonicalPath": "/fipe/zeekr/x-premium-eletrico-2025-301003-1/",
+      "ano": 2025,
+      "marca": "ZEEKR"
+    },
+    {
+      "vehicleId": "zeekr-x-flagship-awd-eletrico-2025-eletrico",
+      "fipeCodigo": "301004-0",
+      "displayName": "ZEEKR X Flagship AWD (Elétrico)",
+      "valorAtual": 259176,
+      "canonicalPath": "/fipe/zeekr/x-flagship-awd-eletrico-2025-301004-0/",
+      "ano": 2025,
+      "marca": "ZEEKR"
+    },
+    {
+      "vehicleId": "zeekr-x-premium-eletrico-0-eletrico",
+      "fipeCodigo": "301003-1",
+      "displayName": "ZEEKR X Premium (Elétrico)",
+      "valorAtual": 298000,
+      "canonicalPath": "/fipe/zeekr/x-premium-eletrico-0-301003-1/",
+      "ano": 0,
+      "marca": "ZEEKR"
+    },
+    {
+      "vehicleId": "zeekr-x-flagship-awd-eletrico-0-eletrico",
+      "fipeCodigo": "301004-0",
+      "displayName": "ZEEKR X Flagship AWD (Elétrico)",
+      "valorAtual": 338000,
+      "canonicalPath": "/fipe/zeekr/x-flagship-awd-eletrico-0-301004-0/",
+      "ano": 0,
+      "marca": "ZEEKR"
+    }
+  ],
+  "stats": {
+    "total": 4,
+    "precoMin": 237523,
+    "precoMax": 338000,
+    "anos": [
+      2025,
+      0
+    ]
+  }
+}

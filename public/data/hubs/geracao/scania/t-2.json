@@ -1,0 +1,741 @@
+{
+  "tipo": "geracao",
+  "slug": "t-2",
+  "canonicalPath": "/geracao/scania/t-2/",
+  "titulo": "Geracao t-2",
+  "descricao": "276 veiculos da geracao t-2.",
+  "seo": {
+    "title": "Geracao t-2 - Precos FIPE",
+    "description": "Veiculos da geracao t-2 na Tabela FIPE.",
+    "h1": "Geracao t-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/scania/t-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "scania-t-113-e-310-6x4-2p-diesel-1991-diesel",
+      "fipeCodigo": "513114-6",
+      "displayName": "SCANIA T-113 E 310 6x4 2p (diesel)",
+      "valorAtual": 51640,
+      "canonicalPath": "/fipe/scania/t-113-e-310-6x4-2p-diesel-1991-513114-6/",
+      "ano": 1991,
+      "marca": "SCANIA"
+    },
+    {
+      "vehicleId": "scania-t-113-e-310-6x4-2p-diesel-1992-diesel",
+      "fipeCodigo": "513114-6",
+      "displayName": "SCANIA T-113 E 310 6x4 2p (diesel)",
+      "valorAtual": 56155,
+      "canonicalPath": "/fipe/scania/t-113-e-310-6x4-2p-diesel-1992-513114-6/",
+      "ano": 1992,
+      "marca": "SCANIA"
+    },
+    {
+      "vehicleId": "scania-t-113-e-310-6x4-2p-diesel-1993-diesel",
+      "fipeCodigo": "513114-6",
+      "displayName": "SCANIA T-113 E 310 6x4 2p (diesel)",
+      "valorAtual": 58946,
+      "canonicalPath": "/fipe/scania/t-113-e-310-6x4-2p-diesel-1993-513114-6/",
+      "ano": 1993,
+      "marca": "SCANIA"
+    },
+    {
+      "vehicleId": "scania-t-113-e-310-6x4-2p-diesel-1994-diesel",
+      "fipeCodigo": "513114-6",
+      "displayName": "SCANIA T-113 E 310 6x4 2p (diesel)",
+      "valorAtual": 65601,
+      "canonicalPath": "/fipe/scania/t-113-e-310-6x4-2p-diesel-1994-513114-6/",
+      "ano": 1994,
+      "marca": "SCANIA"
+    },
+    {
+      "vehicleId": "scania-t-113-e-310-6x4-2p-diesel-1995-diesel",
+      "fipeCodigo": "513114-6",
+      "displayName": "SCANIA T-113 E 310 6x4 2p (diesel)",
+      "valorAtual": 67357,
+      "canonicalPath": "/fipe/scania/t-113-e-310-6x4-2p-diesel-1995-513114-6/",
+      "ano": 1995,
+      "marca": "SCANIA"
+    },
+    {
+      "vehicleId": "scania-t-113-e-310-6x4-2p-diesel-1996-diesel",
+      "fipeCodigo": "513114-6",
+      "displayName": "SCANIA T-113 E 310 6x4 2p (diesel)",
+      "valorAtual": 69041,
+      "canonicalPath": "/fipe/scania/t-113-e-310-6x4-2p-diesel-1996-513114-6/",
+      "ano": 1996,
+      "marca": "SCANIA"
+    },
+    {
+      "vehicleId": "scania-t-113-e-310-6x4-2p-diesel-1997-diesel",
+      "fipeCodigo": "513114-6",
+      "displayName": "SCANIA T-113 E 310 6x4 2p (diesel)",
+      "valorAtual": 70768,
+      "canonicalPath": "/fipe/scania/t-113-e-310-6x4-2p-diesel-1997-513114-6/",
+      "ano": 1997,
+      "marca": "SCANIA"
+    },
+    {
+      "vehicleId": "scania-t-113-e-310-6x4-2p-diesel-1998-diesel",
+      "fipeCodigo": "513114-6",
+      "displayName": "SCANIA T-113 E 310 6x4 2p (diesel)",
+      "valorAtual": 80392,
+      "canonicalPath": "/fipe/scania/t-113-e-310-6x4-2p-diesel-1998-513114-6/",
+      "ano": 1998,
+      "marca": "SCANIA"
+    },
+    {
+      "vehicleId": "scania-t-113-e-320-6x4-2p-diesel-1991-diesel",
+      "fipeCodigo": "513064-6",
+      "displayName": "SCANIA T-113 E 320 6x4 2p (diesel)",
+      "valorAtual": 60322,
+      "canonicalPath": "/fipe/scania/t-113-e-320-6x4-2p-diesel-1991-513064-6/",
+      "ano": 1991,
+      "marca": "SCANIA"
+    },
+    {
+      "vehicleId": "scania-t-113-e-320-6x4-2p-diesel-1992-diesel",
+      "fipeCodigo": "513064-6",
+      "displayName": "SCANIA T-113 E 320 6x4 2p (diesel)",
+      "valorAtual": 67657,
+      "canonicalPath": "/fipe/scania/t-113-e-320-6x4-2p-diesel-1992-513064-6/",
+      "ano": 1992,
+      "marca": "SCANIA"
+    },
+    {
+      "vehicleId": "scania-t-113-e-320-6x4-2p-diesel-1993-diesel",
+      "fipeCodigo": "513064-6",
+      "displayName": "SCANIA T-113 E 320 6x4 2p (diesel)",
+      "valorAtual": 70207,
+      "canonicalPath": "/fipe/scania/t-113-e-320-6x4-2p-diesel-1993-513064-6/",
+      "ano": 1993,
+      "marca": "SCANIA"
+    },
+    {
+      "vehicleId": "scania-t-113-e-320-6x4-2p-diesel-1994-diesel",
+      "fipeCodigo": "513064-6",
+      "displayName": "SCANIA T-113 E 320 6x4 2p (diesel)",
+      "valorAtual": 79732,
+      "canonicalPath": "/fipe/scania/t-113-e-320-6x4-2p-diesel-1994-513064-6/",
+      "ano": 1994,
+      "marca": "SCANIA"
+    },
+    {
+      "vehicleId": "scania-t-113-e-320-6x4-2p-diesel-1995-diesel",
+      "fipeCodigo": "513064-6",
+      "displayName": "SCANIA T-113 E 320 6x4 2p (diesel)",
+      "valorAtual": 82944,
+      "canonicalPath": "/fipe/scania/t-113-e-320-6x4-2p-diesel-1995-513064-6/",
+      "ano": 1995,
+      "marca": "SCANIA"
+    },
+    {
+      "vehicleId": "scania-t-113-e-320-6x4-2p-diesel-1996-diesel",
+      "fipeCodigo": "513064-6",
+      "displayName": "SCANIA T-113 E 320 6x4 2p (diesel)",
+      "valorAtual": 86460,
+      "canonicalPath": "/fipe/scania/t-113-e-320-6x4-2p-diesel-1996-513064-6/",
+      "ano": 1996,
+      "marca": "SCANIA"
+    },
+    {
+      "vehicleId": "scania-t-113-e-320-6x4-2p-diesel-1997-diesel",
+      "fipeCodigo": "513064-6",
+      "displayName": "SCANIA T-113 E 320 6x4 2p (diesel)",
+      "valorAtual": 88731,
+      "canonicalPath": "/fipe/scania/t-113-e-320-6x4-2p-diesel-1997-513064-6/",
+      "ano": 1997,
+      "marca": "SCANIA"
+    },
+    {
+      "vehicleId": "scania-t-113-e-320-6x4-2p-diesel-1998-diesel",
+      "fipeCodigo": "513064-6",
+      "displayName": "SCANIA T-113 E 320 6x4 2p (diesel)",
+      "valorAtual": 94927,
+      "canonicalPath": "/fipe/scania/t-113-e-320-6x4-2p-diesel-1998-513064-6/",
+      "ano": 1998,
+      "marca": "SCANIA"
+    },
+    {
+      "vehicleId": "scania-t-113-e-360-6x4-2p-diesel-1991-diesel",
+      "fipeCodigo": "513065-4",
+      "displayName": "SCANIA T-113 E 360 6x4 2p (diesel)",
+      "valorAtual": 61735,
+      "canonicalPath": "/fipe/scania/t-113-e-360-6x4-2p-diesel-1991-513065-4/",
+      "ano": 1991,
+      "marca": "SCANIA"
+    },
+    {
+      "vehicleId": "scania-t-113-e-360-6x4-2p-diesel-1992-diesel",
+      "fipeCodigo": "513065-4",
+      "displayName": "SCANIA T-113 E 360 6x4 2p (diesel)",
+      "valorAtual": 71337,
+      "canonicalPath": "/fipe/scania/t-113-e-360-6x4-2p-diesel-1992-513065-4/",
+      "ano": 1992,
+      "marca": "SCANIA"
+    },
+    {
+      "vehicleId": "scania-t-113-e-360-6x4-2p-diesel-1993-diesel",
+      "fipeCodigo": "513065-4",
+      "displayName": "SCANIA T-113 E 360 6x4 2p (diesel)",
+      "valorAtual": 84725,
+      "canonicalPath": "/fipe/scania/t-113-e-360-6x4-2p-diesel-1993-513065-4/",
+      "ano": 1993,
+      "marca": "SCANIA"
+    },
+    {
+      "vehicleId": "scania-t-113-e-360-6x4-2p-diesel-1994-diesel",
+      "fipeCodigo": "513065-4",
+      "displayName": "SCANIA T-113 E 360 6x4 2p (diesel)",
+      "valorAtual": 93843,
+      "canonicalPath": "/fipe/scania/t-113-e-360-6x4-2p-diesel-1994-513065-4/",
+      "ano": 1994,
+      "marca": "SCANIA"
+    },
+    {
+      "vehicleId": "scania-t-113-e-360-6x4-2p-diesel-1995-diesel",
+      "fipeCodigo": "513065-4",
+      "displayName": "SCANIA T-113 E 360 6x4 2p (diesel)",
+      "valorAtual": 96190,
+      "canonicalPath": "/fipe/scania/t-113-e-360-6x4-2p-diesel-1995-513065-4/",
+      "ano": 1995,
+      "marca": "SCANIA"
+    },
+    {
+      "vehicleId": "scania-t-113-e-360-6x4-2p-diesel-1996-diesel",
+      "fipeCodigo": "513065-4",
+      "displayName": "SCANIA T-113 E 360 6x4 2p (diesel)",
+      "valorAtual": 100117,
+      "canonicalPath": "/fipe/scania/t-113-e-360-6x4-2p-diesel-1996-513065-4/",
+      "ano": 1996,
+      "marca": "SCANIA"
+    },
+    {
+      "vehicleId": "scania-t-113-e-360-6x4-2p-diesel-1997-diesel",
+      "fipeCodigo": "513065-4",
+      "displayName": "SCANIA T-113 E 360 6x4 2p (diesel)",
+      "valorAtual": 108753,
+      "canonicalPath": "/fipe/scania/t-113-e-360-6x4-2p-diesel-1997-513065-4/",
+      "ano": 1997,
+      "marca": "SCANIA"
+    },
+    {
+      "vehicleId": "scania-t-113-e-360-6x4-2p-diesel-1998-diesel",
+      "fipeCodigo": "513065-4",
+      "displayName": "SCANIA T-113 E 360 6x4 2p (diesel)",
+      "valorAtual": 113531,
+      "canonicalPath": "/fipe/scania/t-113-e-360-6x4-2p-diesel-1998-513065-4/",
+      "ano": 1998,
+      "marca": "SCANIA"
+    },
+    {
+      "vehicleId": "scania-t-113-h-310-4x2-2p-diesel-1991-diesel",
+      "fipeCodigo": "513066-2",
+      "displayName": "SCANIA T-113 H 310 4x2 2p (diesel)",
+      "valorAtual": 69983,
+      "canonicalPath": "/fipe/scania/t-113-h-310-4x2-2p-diesel-1991-513066-2/",
+      "ano": 1991,
+      "marca": "SCANIA"
+    },
+    {
+      "vehicleId": "scania-t-113-h-310-4x2-2p-diesel-1992-diesel",
+      "fipeCodigo": "513066-2",
+      "displayName": "SCANIA T-113 H 310 4x2 2p (diesel)",
+      "valorAtual": 73352,
+      "canonicalPath": "/fipe/scania/t-113-h-310-4x2-2p-diesel-1992-513066-2/",
+      "ano": 1992,
+      "marca": "SCANIA"
+    },
+    {
+      "vehicleId": "scania-t-113-h-310-4x2-2p-diesel-1993-diesel",
+      "fipeCodigo": "513066-2",
+      "displayName": "SCANIA T-113 H 310 4x2 2p (diesel)",
+      "valorAtual": 89889,
+      "canonicalPath": "/fipe/scania/t-113-h-310-4x2-2p-diesel-1993-513066-2/",
+      "ano": 1993,
+      "marca": "SCANIA"
+    },
+    {
+      "vehicleId": "scania-t-113-h-310-4x2-2p-diesel-1994-diesel",
+      "fipeCodigo": "513066-2",
+      "displayName": "SCANIA T-113 H 310 4x2 2p (diesel)",
+      "valorAtual": 94846,
+      "canonicalPath": "/fipe/scania/t-113-h-310-4x2-2p-diesel-1994-513066-2/",
+      "ano": 1994,
+      "marca": "SCANIA"
+    },
+    {
+      "vehicleId": "scania-t-113-h-320-4x2-2p-diesel-1991-diesel",
+      "fipeCodigo": "513067-0",
+      "displayName": "SCANIA T-113 H 320 4x2 2p (diesel)",
+      "valorAtual": 64904,
+      "canonicalPath": "/fipe/scania/t-113-h-320-4x2-2p-diesel-1991-513067-0/",
+      "ano": 1991,
+      "marca": "SCANIA"
+    },
+    {
+      "vehicleId": "scania-t-113-h-320-4x2-2p-diesel-1992-diesel",
+      "fipeCodigo": "513067-0",
+      "displayName": "SCANIA T-113 H 320 4x2 2p (diesel)",
+      "valorAtual": 71432,
+      "canonicalPath": "/fipe/scania/t-113-h-320-4x2-2p-diesel-1992-513067-0/",
+      "ano": 1992,
+      "marca": "SCANIA"
+    },
+    {
+      "vehicleId": "scania-t-113-h-320-4x2-2p-diesel-1993-diesel",
+      "fipeCodigo": "513067-0",
+      "displayName": "SCANIA T-113 H 320 4x2 2p (diesel)",
+      "valorAtual": 82442,
+      "canonicalPath": "/fipe/scania/t-113-h-320-4x2-2p-diesel-1993-513067-0/",
+      "ano": 1993,
+      "marca": "SCANIA"
+    },
+    {
+      "vehicleId": "scania-t-113-h-320-4x2-2p-diesel-1994-diesel",
+      "fipeCodigo": "513067-0",
+      "displayName": "SCANIA T-113 H 320 4x2 2p (diesel)",
+      "valorAtual": 94531,
+      "canonicalPath": "/fipe/scania/t-113-h-320-4x2-2p-diesel-1994-513067-0/",
+      "ano": 1994,
+      "marca": "SCANIA"
+    },
+    {
+      "vehicleId": "scania-t-113-h-320-4x2-2p-diesel-1995-diesel",
+      "fipeCodigo": "513067-0",
+      "displayName": "SCANIA T-113 H 320 4x2 2p (diesel)",
+      "valorAtual": 97504,
+      "canonicalPath": "/fipe/scania/t-113-h-320-4x2-2p-diesel-1995-513067-0/",
+      "ano": 1995,
+      "marca": "SCANIA"
+    },
+    {
+      "vehicleId": "scania-t-113-h-320-4x2-2p-diesel-1996-diesel",
+      "fipeCodigo": "513067-0",
+      "displayName": "SCANIA T-113 H 320 4x2 2p (diesel)",
+      "valorAtual": 101083,
+      "canonicalPath": "/fipe/scania/t-113-h-320-4x2-2p-diesel-1996-513067-0/",
+      "ano": 1996,
+      "marca": "SCANIA"
+    },
+    {
+      "vehicleId": "scania-t-113-h-320-4x2-2p-diesel-1997-diesel",
+      "fipeCodigo": "513067-0",
+      "displayName": "SCANIA T-113 H 320 4x2 2p (diesel)",
+      "valorAtual": 106686,
+      "canonicalPath": "/fipe/scania/t-113-h-320-4x2-2p-diesel-1997-513067-0/",
+      "ano": 1997,
+      "marca": "SCANIA"
+    },
+    {
+      "vehicleId": "scania-t-113-h-320-4x2-2p-diesel-1998-diesel",
+      "fipeCodigo": "513067-0",
+      "displayName": "SCANIA T-113 H 320 4x2 2p (diesel)",
+      "valorAtual": 109354,
+      "canonicalPath": "/fipe/scania/t-113-h-320-4x2-2p-diesel-1998-513067-0/",
+      "ano": 1998,
+      "marca": "SCANIA"
+    },
+    {
+      "vehicleId": "scania-t-113-h-320-4x2-top-line-2p-diesel-1993-diesel",
+      "fipeCodigo": "513068-9",
+      "displayName": "SCANIA T-113 H 320 4x2 Top-Line 2p (diesel)",
+      "valorAtual": 75003,
+      "canonicalPath": "/fipe/scania/t-113-h-320-4x2-top-line-2p-diesel-1993-513068-9/",
+      "ano": 1993,
+      "marca": "SCANIA"
+    },
+    {
+      "vehicleId": "scania-t-113-h-320-4x2-top-line-2p-diesel-1994-diesel",
+      "fipeCodigo": "513068-9",
+      "displayName": "SCANIA T-113 H 320 4x2 Top-Line 2p (diesel)",
+      "valorAtual": 76879,
+      "canonicalPath": "/fipe/scania/t-113-h-320-4x2-top-line-2p-diesel-1994-513068-9/",
+      "ano": 1994,
+      "marca": "SCANIA"
+    },
+    {
+      "vehicleId": "scania-t-113-h-320-4x2-top-line-2p-diesel-1995-diesel",
+      "fipeCodigo": "513068-9",
+      "displayName": "SCANIA T-113 H 320 4x2 Top-Line 2p (diesel)",
+      "valorAtual": 78801,
+      "canonicalPath": "/fipe/scania/t-113-h-320-4x2-top-line-2p-diesel-1995-513068-9/",
+      "ano": 1995,
+      "marca": "SCANIA"
+    },
+    {
+      "vehicleId": "scania-t-113-h-320-4x2-top-line-2p-diesel-1996-diesel",
+      "fipeCodigo": "513068-9",
+      "displayName": "SCANIA T-113 H 320 4x2 Top-Line 2p (diesel)",
+      "valorAtual": 92802,
+      "canonicalPath": "/fipe/scania/t-113-h-320-4x2-top-line-2p-diesel-1996-513068-9/",
+      "ano": 1996,
+      "marca": "SCANIA"
+    },
+    {
+      "vehicleId": "scania-t-113-h-320-4x2-top-line-2p-diesel-1997-diesel",
+      "fipeCodigo": "513068-9",
+      "displayName": "SCANIA T-113 H 320 4x2 Top-Line 2p (diesel)",
+      "valorAtual": 99680,
+      "canonicalPath": "/fipe/scania/t-113-h-320-4x2-top-line-2p-diesel-1997-513068-9/",
+      "ano": 1997,
+      "marca": "SCANIA"
+    },
+    {
+      "vehicleId": "scania-t-113-h-320-4x2-top-line-2p-diesel-1998-diesel",
+      "fipeCodigo": "513068-9",
+      "displayName": "SCANIA T-113 H 320 4x2 Top-Line 2p (diesel)",
+      "valorAtual": 102172,
+      "canonicalPath": "/fipe/scania/t-113-h-320-4x2-top-line-2p-diesel-1998-513068-9/",
+      "ano": 1998,
+      "marca": "SCANIA"
+    },
+    {
+      "vehicleId": "scania-t-113-h-320-6x2-2p-diesel-1991-diesel",
+      "fipeCodigo": "513118-9",
+      "displayName": "SCANIA T-113 H 320 6x2 2p (diesel)",
+      "valorAtual": 56935,
+      "canonicalPath": "/fipe/scania/t-113-h-320-6x2-2p-diesel-1991-513118-9/",
+      "ano": 1991,
+      "marca": "SCANIA"
+    },
+    {
+      "vehicleId": "scania-t-113-h-320-6x2-2p-diesel-1992-diesel",
+      "fipeCodigo": "513118-9",
+      "displayName": "SCANIA T-113 H 320 6x2 2p (diesel)",
+      "valorAtual": 66761,
+      "canonicalPath": "/fipe/scania/t-113-h-320-6x2-2p-diesel-1992-513118-9/",
+      "ano": 1992,
+      "marca": "SCANIA"
+    },
+    {
+      "vehicleId": "scania-t-113-h-320-6x2-2p-diesel-1993-diesel",
+      "fipeCodigo": "513118-9",
+      "displayName": "SCANIA T-113 H 320 6x2 2p (diesel)",
+      "valorAtual": 68431,
+      "canonicalPath": "/fipe/scania/t-113-h-320-6x2-2p-diesel-1993-513118-9/",
+      "ano": 1993,
+      "marca": "SCANIA"
+    },
+    {
+      "vehicleId": "scania-t-113-h-320-6x2-2p-diesel-1994-diesel",
+      "fipeCodigo": "513118-9",
+      "displayName": "SCANIA T-113 H 320 6x2 2p (diesel)",
+      "valorAtual": 78706,
+      "canonicalPath": "/fipe/scania/t-113-h-320-6x2-2p-diesel-1994-513118-9/",
+      "ano": 1994,
+      "marca": "SCANIA"
+    },
+    {
+      "vehicleId": "scania-t-113-h-320-6x2-2p-diesel-1995-diesel",
+      "fipeCodigo": "513118-9",
+      "displayName": "SCANIA T-113 H 320 6x2 2p (diesel)",
+      "valorAtual": 82320,
+      "canonicalPath": "/fipe/scania/t-113-h-320-6x2-2p-diesel-1995-513118-9/",
+      "ano": 1995,
+      "marca": "SCANIA"
+    },
+    {
+      "vehicleId": "scania-t-113-h-320-6x2-2p-diesel-1996-diesel",
+      "fipeCodigo": "513118-9",
+      "displayName": "SCANIA T-113 H 320 6x2 2p (diesel)",
+      "valorAtual": 84378,
+      "canonicalPath": "/fipe/scania/t-113-h-320-6x2-2p-diesel-1996-513118-9/",
+      "ano": 1996,
+      "marca": "SCANIA"
+    },
+    {
+      "vehicleId": "scania-t-113-h-320-6x2-2p-diesel-1997-diesel",
+      "fipeCodigo": "513118-9",
+      "displayName": "SCANIA T-113 H 320 6x2 2p (diesel)",
+      "valorAtual": 88353,
+      "canonicalPath": "/fipe/scania/t-113-h-320-6x2-2p-diesel-1997-513118-9/",
+      "ano": 1997,
+      "marca": "SCANIA"
+    },
+    {
+      "vehicleId": "scania-t-113-h-320-6x2-2p-diesel-1998-diesel",
+      "fipeCodigo": "513118-9",
+      "displayName": "SCANIA T-113 H 320 6x2 2p (diesel)",
+      "valorAtual": 90562,
+      "canonicalPath": "/fipe/scania/t-113-h-320-6x2-2p-diesel-1998-513118-9/",
+      "ano": 1998,
+      "marca": "SCANIA"
+    },
+    {
+      "vehicleId": "scania-t-113-h-360-4x2-2p-diesel-1991-diesel",
+      "fipeCodigo": "513069-7",
+      "displayName": "SCANIA T-113 H 360 4x2 2p (diesel)",
+      "valorAtual": 70021,
+      "canonicalPath": "/fipe/scania/t-113-h-360-4x2-2p-diesel-1991-513069-7/",
+      "ano": 1991,
+      "marca": "SCANIA"
+    },
+    {
+      "vehicleId": "scania-t-113-h-360-4x2-2p-diesel-1992-diesel",
+      "fipeCodigo": "513069-7",
+      "displayName": "SCANIA T-113 H 360 4x2 2p (diesel)",
+      "valorAtual": 87062,
+      "canonicalPath": "/fipe/scania/t-113-h-360-4x2-2p-diesel-1992-513069-7/",
+      "ano": 1992,
+      "marca": "SCANIA"
+    },
+    {
+      "vehicleId": "scania-t-113-h-360-4x2-2p-diesel-1993-diesel",
+      "fipeCodigo": "513069-7",
+      "displayName": "SCANIA T-113 H 360 4x2 2p (diesel)",
+      "valorAtual": 95789,
+      "canonicalPath": "/fipe/scania/t-113-h-360-4x2-2p-diesel-1993-513069-7/",
+      "ano": 1993,
+      "marca": "SCANIA"
+    },
+    {
+      "vehicleId": "scania-t-113-h-360-4x2-2p-diesel-1994-diesel",
+      "fipeCodigo": "513069-7",
+      "displayName": "SCANIA T-113 H 360 4x2 2p (diesel)",
+      "valorAtual": 104399,
+      "canonicalPath": "/fipe/scania/t-113-h-360-4x2-2p-diesel-1994-513069-7/",
+      "ano": 1994,
+      "marca": "SCANIA"
+    },
+    {
+      "vehicleId": "scania-t-113-h-360-4x2-2p-diesel-1995-diesel",
+      "fipeCodigo": "513069-7",
+      "displayName": "SCANIA T-113 H 360 4x2 2p (diesel)",
+      "valorAtual": 108266,
+      "canonicalPath": "/fipe/scania/t-113-h-360-4x2-2p-diesel-1995-513069-7/",
+      "ano": 1995,
+      "marca": "SCANIA"
+    },
+    {
+      "vehicleId": "scania-t-113-h-360-4x2-2p-diesel-1996-diesel",
+      "fipeCodigo": "513069-7",
+      "displayName": "SCANIA T-113 H 360 4x2 2p (diesel)",
+      "valorAtual": 113039,
+      "canonicalPath": "/fipe/scania/t-113-h-360-4x2-2p-diesel-1996-513069-7/",
+      "ano": 1996,
+      "marca": "SCANIA"
+    },
+    {
+      "vehicleId": "scania-t-113-h-360-4x2-2p-diesel-1997-diesel",
+      "fipeCodigo": "513069-7",
+      "displayName": "SCANIA T-113 H 360 4x2 2p (diesel)",
+      "valorAtual": 115865,
+      "canonicalPath": "/fipe/scania/t-113-h-360-4x2-2p-diesel-1997-513069-7/",
+      "ano": 1997,
+      "marca": "SCANIA"
+    },
+    {
+      "vehicleId": "scania-t-113-h-360-4x2-2p-diesel-1998-diesel",
+      "fipeCodigo": "513069-7",
+      "displayName": "SCANIA T-113 H 360 4x2 2p (diesel)",
+      "valorAtual": 121494,
+      "canonicalPath": "/fipe/scania/t-113-h-360-4x2-2p-diesel-1998-513069-7/",
+      "ano": 1998,
+      "marca": "SCANIA"
+    },
+    {
+      "vehicleId": "scania-t-113-h-360-4x2-top-l-3-eixos-2p-die-1992-diesel",
+      "fipeCodigo": "513104-9",
+      "displayName": "SCANIA T-113 H 360 4x2 Top-L. 3-Eixos 2p (die.)",
+      "valorAtual": 95952,
+      "canonicalPath": "/fipe/scania/t-113-h-360-4x2-top-l-3-eixos-2p-die-1992-513104-9/",
+      "ano": 1992,
+      "marca": "SCANIA"
+    },
+    {
+      "vehicleId": "scania-t-113-h-360-4x2-top-l-3-eixos-2p-die-1993-diesel",
+      "fipeCodigo": "513104-9",
+      "displayName": "SCANIA T-113 H 360 4x2 Top-L. 3-Eixos 2p (die.)",
+      "valorAtual": 98752,
+      "canonicalPath": "/fipe/scania/t-113-h-360-4x2-top-l-3-eixos-2p-die-1993-513104-9/",
+      "ano": 1993,
+      "marca": "SCANIA"
+    },
+    {
+      "vehicleId": "scania-t-113-h-360-4x2-top-l-3-eixos-2p-die-1994-diesel",
+      "fipeCodigo": "513104-9",
+      "displayName": "SCANIA T-113 H 360 4x2 Top-L. 3-Eixos 2p (die.)",
+      "valorAtual": 104451,
+      "canonicalPath": "/fipe/scania/t-113-h-360-4x2-top-l-3-eixos-2p-die-1994-513104-9/",
+      "ano": 1994,
+      "marca": "SCANIA"
+    },
+    {
+      "vehicleId": "scania-t-113-h-360-4x2-top-l-3-eixos-2p-die-1995-diesel",
+      "fipeCodigo": "513104-9",
+      "displayName": "SCANIA T-113 H 360 4x2 Top-L. 3-Eixos 2p (die.)",
+      "valorAtual": 108362,
+      "canonicalPath": "/fipe/scania/t-113-h-360-4x2-top-l-3-eixos-2p-die-1995-513104-9/",
+      "ano": 1995,
+      "marca": "SCANIA"
+    },
+    {
+      "vehicleId": "scania-t-113-h-360-4x2-top-l-3-eixos-2p-die-1996-diesel",
+      "fipeCodigo": "513104-9",
+      "displayName": "SCANIA T-113 H 360 4x2 Top-L. 3-Eixos 2p (die.)",
+      "valorAtual": 113151,
+      "canonicalPath": "/fipe/scania/t-113-h-360-4x2-top-l-3-eixos-2p-die-1996-513104-9/",
+      "ano": 1996,
+      "marca": "SCANIA"
+    },
+    {
+      "vehicleId": "scania-t-113-h-360-4x2-top-l-3-eixos-2p-die-1997-diesel",
+      "fipeCodigo": "513104-9",
+      "displayName": "SCANIA T-113 H 360 4x2 Top-L. 3-Eixos 2p (die.)",
+      "valorAtual": 122605,
+      "canonicalPath": "/fipe/scania/t-113-h-360-4x2-top-l-3-eixos-2p-die-1997-513104-9/",
+      "ano": 1997,
+      "marca": "SCANIA"
+    },
+    {
+      "vehicleId": "scania-t-113-h-360-4x2-top-l-3-eixos-2p-die-1998-diesel",
+      "fipeCodigo": "513104-9",
+      "displayName": "SCANIA T-113 H 360 4x2 Top-L. 3-Eixos 2p (die.)",
+      "valorAtual": 134461,
+      "canonicalPath": "/fipe/scania/t-113-h-360-4x2-top-l-3-eixos-2p-die-1998-513104-9/",
+      "ano": 1998,
+      "marca": "SCANIA"
+    },
+    {
+      "vehicleId": "scania-t-113-h-360-4x2-top-line-2p-diesel-1992-diesel",
+      "fipeCodigo": "513070-0",
+      "displayName": "SCANIA T-113 H 360 4x2 Top-Line 2p (diesel)",
+      "valorAtual": 78140,
+      "canonicalPath": "/fipe/scania/t-113-h-360-4x2-top-line-2p-diesel-1992-513070-0/",
+      "ano": 1992,
+      "marca": "SCANIA"
+    },
+    {
+      "vehicleId": "scania-t-113-h-360-4x2-top-line-2p-diesel-1993-diesel",
+      "fipeCodigo": "513070-0",
+      "displayName": "SCANIA T-113 H 360 4x2 Top-Line 2p (diesel)",
+      "valorAtual": 86185,
+      "canonicalPath": "/fipe/scania/t-113-h-360-4x2-top-line-2p-diesel-1993-513070-0/",
+      "ano": 1993,
+      "marca": "SCANIA"
+    },
+    {
+      "vehicleId": "scania-t-113-h-360-4x2-top-line-2p-diesel-1994-diesel",
+      "fipeCodigo": "513070-0",
+      "displayName": "SCANIA T-113 H 360 4x2 Top-Line 2p (diesel)",
+      "valorAtual": 100126,
+      "canonicalPath": "/fipe/scania/t-113-h-360-4x2-top-line-2p-diesel-1994-513070-0/",
+      "ano": 1994,
+      "marca": "SCANIA"
+    },
+    {
+      "vehicleId": "scania-t-113-h-360-4x2-top-line-2p-diesel-1995-diesel",
+      "fipeCodigo": "513070-0",
+      "displayName": "SCANIA T-113 H 360 4x2 Top-Line 2p (diesel)",
+      "valorAtual": 102630,
+      "canonicalPath": "/fipe/scania/t-113-h-360-4x2-top-line-2p-diesel-1995-513070-0/",
+      "ano": 1995,
+      "marca": "SCANIA"
+    },
+    {
+      "vehicleId": "scania-t-113-h-360-4x2-top-line-2p-diesel-1996-diesel",
+      "fipeCodigo": "513070-0",
+      "displayName": "SCANIA T-113 H 360 4x2 Top-Line 2p (diesel)",
+      "valorAtual": 107627,
+      "canonicalPath": "/fipe/scania/t-113-h-360-4x2-top-line-2p-diesel-1996-513070-0/",
+      "ano": 1996,
+      "marca": "SCANIA"
+    },
+    {
+      "vehicleId": "scania-t-113-h-360-4x2-top-line-2p-diesel-1997-diesel",
+      "fipeCodigo": "513070-0",
+      "displayName": "SCANIA T-113 H 360 4x2 Top-Line 2p (diesel)",
+      "valorAtual": 110318,
+      "canonicalPath": "/fipe/scania/t-113-h-360-4x2-top-line-2p-diesel-1997-513070-0/",
+      "ano": 1997,
+      "marca": "SCANIA"
+    },
+    {
+      "vehicleId": "scania-t-113-h-360-4x2-top-line-2p-diesel-1998-diesel",
+      "fipeCodigo": "513070-0",
+      "displayName": "SCANIA T-113 H 360 4x2 Top-Line 2p (diesel)",
+      "valorAtual": 124851,
+      "canonicalPath": "/fipe/scania/t-113-h-360-4x2-top-line-2p-diesel-1998-513070-0/",
+      "ano": 1998,
+      "marca": "SCANIA"
+    },
+    {
+      "vehicleId": "scania-t-113-h-360-6x2-2p-diesel-1991-diesel",
+      "fipeCodigo": "513111-1",
+      "displayName": "SCANIA T-113 H 360 6x2 2p (diesel)",
+      "valorAtual": 76213,
+      "canonicalPath": "/fipe/scania/t-113-h-360-6x2-2p-diesel-1991-513111-1/",
+      "ano": 1991,
+      "marca": "SCANIA"
+    },
+    {
+      "vehicleId": "scania-t-113-h-360-6x2-2p-diesel-1992-diesel",
+      "fipeCodigo": "513111-1",
+      "displayName": "SCANIA T-113 H 360 6x2 2p (diesel)",
+      "valorAtual": 88552,
+      "canonicalPath": "/fipe/scania/t-113-h-360-6x2-2p-diesel-1992-513111-1/",
+      "ano": 1992,
+      "marca": "SCANIA"
+    },
+    {
+      "vehicleId": "scania-t-113-h-360-6x2-2p-diesel-1993-diesel",
+      "fipeCodigo": "513111-1",
+      "displayName": "SCANIA T-113 H 360 6x2 2p (diesel)",
+      "valorAtual": 97982,
+      "canonicalPath": "/fipe/scania/t-113-h-360-6x2-2p-diesel-1993-513111-1/",
+      "ano": 1993,
+      "marca": "SCANIA"
+    },
+    {
+      "vehicleId": "scania-t-113-h-360-6x2-2p-diesel-1994-diesel",
+      "fipeCodigo": "513111-1",
+      "displayName": "SCANIA T-113 H 360 6x2 2p (diesel)",
+      "valorAtual": 100544,
+      "canonicalPath": "/fipe/scania/t-113-h-360-6x2-2p-diesel-1994-513111-1/",
+      "ano": 1994,
+      "marca": "SCANIA"
+    },
+    {
+      "vehicleId": "scania-t-113-h-360-6x2-2p-diesel-1995-diesel",
+      "fipeCodigo": "513111-1",
+      "displayName": "SCANIA T-113 H 360 6x2 2p (diesel)",
+      "valorAtual": 105025,
+      "canonicalPath": "/fipe/scania/t-113-h-360-6x2-2p-diesel-1995-513111-1/",
+      "ano": 1995,
+      "marca": "SCANIA"
+    },
+    {
+      "vehicleId": "scania-t-113-h-360-6x2-2p-diesel-1996-diesel",
+      "fipeCodigo": "513111-1",
+      "displayName": "SCANIA T-113 H 360 6x2 2p (diesel)",
+      "valorAtual": 110122,
+      "canonicalPath": "/fipe/scania/t-113-h-360-6x2-2p-diesel-1996-513111-1/",
+      "ano": 1996,
+      "marca": "SCANIA"
+    },
+    {
+      "vehicleId": "scania-t-113-h-360-6x2-2p-diesel-1997-diesel",
+      "fipeCodigo": "513111-1",
+      "displayName": "SCANIA T-113 H 360 6x2 2p (diesel)",
+      "valorAtual": 121646,
+      "canonicalPath": "/fipe/scania/t-113-h-360-6x2-2p-diesel-1997-513111-1/",
+      "ano": 1997,
+      "marca": "SCANIA"
+    },
+    {
+      "vehicleId": "scania-t-113-h-360-6x2-2p-diesel-1998-diesel",
+      "fipeCodigo": "513111-1",
+      "displayName": "SCANIA T-113 H 360 6x2 2p (diesel)",
+      "valorAtual": 133935,
+      "canonicalPath": "/fipe/scania/t-113-h-360-6x2-2p-diesel-1998-513111-1/",
+      "ano": 1998,
+      "marca": "SCANIA"
+    }
+  ],
+  "stats": {
+    "total": 276
+  },
+  "meta": {
+    "geracaoId": "t-2"
+  }
+}

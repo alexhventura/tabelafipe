@@ -1,0 +1,42 @@
+{
+  "tipo": "familia",
+  "slug": "l",
+  "canonicalPath": "/fipe/volkswagen/l/",
+  "titulo": "VOLKSWAGEN l - Tabela FIPE",
+  "descricao": "2 versoes e anos do VOLKSWAGEN l na Tabela FIPE.",
+  "seo": {
+    "title": "VOLKSWAGEN l - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes VOLKSWAGEN l. 2 veiculos indexados.",
+    "h1": "VOLKSWAGEN l - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/volkswagen/l/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "volkswagen-l-80-2p-diesel-1997-diesel",
+      "fipeCodigo": "515063-9",
+      "displayName": "VOLKSWAGEN L-80 2p (diesel)",
+      "valorAtual": 29019,
+      "canonicalPath": "/fipe/volkswagen/l-80-2p-diesel-1997-515063-9/",
+      "ano": 1997,
+      "marca": "VOLKSWAGEN"
+    },
+    {
+      "vehicleId": "volkswagen-l-80-2p-diesel-1996-diesel",
+      "fipeCodigo": "515063-9",
+      "displayName": "VOLKSWAGEN L-80 2p (diesel)",
+      "valorAtual": 28311,
+      "canonicalPath": "/fipe/volkswagen/l-80-2p-diesel-1996-515063-9/",
+      "ano": 1996,
+      "marca": "VOLKSWAGEN"
+    }
+  ],
+  "stats": {
+    "total": 2,
+    "precoMin": 28311,
+    "precoMax": 29019,
+    "anos": [
+      1997,
+      1996
+    ]
+  }
+}

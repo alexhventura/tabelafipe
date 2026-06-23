@@ -1,0 +1,60 @@
+{
+  "tipo": "familia",
+  "slug": "s5",
+  "canonicalPath": "/fipe/mg/s5/",
+  "titulo": "MG s5 - Tabela FIPE",
+  "descricao": "4 versoes e anos do MG s5 na Tabela FIPE.",
+  "seo": {
+    "title": "MG s5 - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes MG s5. 4 veiculos indexados.",
+    "h1": "MG s5 - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/mg/s5/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "mg-s5-comfort-2026-eletrico",
+      "fipeCodigo": "076004-8",
+      "displayName": "MG S5 Comfort",
+      "valorAtual": 193645,
+      "canonicalPath": "/fipe/mg/s5-comfort-2026-076004-8/",
+      "ano": 2026,
+      "marca": "MG"
+    },
+    {
+      "vehicleId": "mg-s5-luxury-2026-eletrico",
+      "fipeCodigo": "076005-6",
+      "displayName": "MG S5 Luxury",
+      "valorAtual": 212502,
+      "canonicalPath": "/fipe/mg/s5-luxury-2026-076005-6/",
+      "ano": 2026,
+      "marca": "MG"
+    },
+    {
+      "vehicleId": "mg-s5-comfort-0-eletrico",
+      "fipeCodigo": "076004-8",
+      "displayName": "MG S5 Comfort",
+      "valorAtual": 204066,
+      "canonicalPath": "/fipe/mg/s5-comfort-0-076004-8/",
+      "ano": 0,
+      "marca": "MG"
+    },
+    {
+      "vehicleId": "mg-s5-luxury-0-eletrico",
+      "fipeCodigo": "076005-6",
+      "displayName": "MG S5 Luxury",
+      "valorAtual": 224866,
+      "canonicalPath": "/fipe/mg/s5-luxury-0-076005-6/",
+      "ano": 0,
+      "marca": "MG"
+    }
+  ],
+  "stats": {
+    "total": 4,
+    "precoMin": 193645,
+    "precoMax": 224866,
+    "anos": [
+      2026,
+      0
+    ]
+  }
+}

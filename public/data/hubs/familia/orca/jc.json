@@ -1,0 +1,50 @@
+{
+  "tipo": "familia",
+  "slug": "jc",
+  "canonicalPath": "/fipe/orca/jc/",
+  "titulo": "ORCA jc - Tabela FIPE",
+  "descricao": "3 versoes e anos do ORCA jc na Tabela FIPE.",
+  "seo": {
+    "title": "ORCA jc - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes ORCA jc. 3 veiculos indexados.",
+    "h1": "ORCA jc - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/orca/jc/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "orca-jc-125-1998-gasolina",
+      "fipeCodigo": "820005-0",
+      "displayName": "ORCA JC 125",
+      "valorAtual": 1200,
+      "canonicalPath": "/fipe/orca/jc-125-1998-820005-0/",
+      "ano": 1998,
+      "marca": "ORCA"
+    },
+    {
+      "vehicleId": "orca-jc-125-2-1998-gasolina",
+      "fipeCodigo": "820003-3",
+      "displayName": "ORCA JC 125-2",
+      "valorAtual": 1440,
+      "canonicalPath": "/fipe/orca/jc-125-2-1998-820003-3/",
+      "ano": 1998,
+      "marca": "ORCA"
+    },
+    {
+      "vehicleId": "orca-jc-125-8-1998-gasolina",
+      "fipeCodigo": "820004-1",
+      "displayName": "ORCA JC 125-8",
+      "valorAtual": 1445,
+      "canonicalPath": "/fipe/orca/jc-125-8-1998-820004-1/",
+      "ano": 1998,
+      "marca": "ORCA"
+    }
+  ],
+  "stats": {
+    "total": 3,
+    "precoMin": 1200,
+    "precoMax": 1445,
+    "anos": [
+      1998
+    ]
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "tipo": "familia",
+  "slug": "jurasic",
+  "canonicalPath": "/fipe/mvk/jurasic/",
+  "titulo": "MVK jurasic - Tabela FIPE",
+  "descricao": "4 versoes e anos do MVK jurasic na Tabela FIPE.",
+  "seo": {
+    "title": "MVK jurasic - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes MVK jurasic. 4 veiculos indexados.",
+    "h1": "MVK jurasic - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/mvk/jurasic/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "mvk-jurasic-300-2011-gasolina",
+      "fipeCodigo": "845019-6",
+      "displayName": "MVK JURASIC 300",
+      "valorAtual": 7148,
+      "canonicalPath": "/fipe/mvk/jurasic-300-2011-845019-6/",
+      "ano": 2011,
+      "marca": "MVK"
+    },
+    {
+      "vehicleId": "mvk-jurasic-300-2009-gasolina",
+      "fipeCodigo": "845019-6",
+      "displayName": "MVK JURASIC 300",
+      "valorAtual": 6653,
+      "canonicalPath": "/fipe/mvk/jurasic-300-2009-845019-6/",
+      "ano": 2009,
+      "marca": "MVK"
+    },
+    {
+      "vehicleId": "mvk-jurasic-300-2008-gasolina",
+      "fipeCodigo": "845019-6",
+      "displayName": "MVK JURASIC 300",
+      "valorAtual": 5722,
+      "canonicalPath": "/fipe/mvk/jurasic-300-2008-845019-6/",
+      "ano": 2008,
+      "marca": "MVK"
+    },
+    {
+      "vehicleId": "mvk-jurasic-300-2007-gasolina",
+      "fipeCodigo": "845019-6",
+      "displayName": "MVK JURASIC 300",
+      "valorAtual": 5106,
+      "canonicalPath": "/fipe/mvk/jurasic-300-2007-845019-6/",
+      "ano": 2007,
+      "marca": "MVK"
+    }
+  ],
+  "stats": {
+    "total": 4,
+    "precoMin": 5106,
+    "precoMax": 7148,
+    "anos": [
+      2011,
+      2009,
+      2008,
+      2007
+    ]
+  }
+}

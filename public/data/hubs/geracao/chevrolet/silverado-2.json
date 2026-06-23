@@ -1,0 +1,84 @@
+{
+  "tipo": "geracao",
+  "slug": "silverado-2",
+  "canonicalPath": "/geracao/chevrolet/silverado-2/",
+  "titulo": "Geracao silverado-2",
+  "descricao": "7 veiculos da geracao silverado-2.",
+  "seo": {
+    "title": "Geracao silverado-2 - Precos FIPE",
+    "description": "Veiculos da geracao silverado-2 na Tabela FIPE.",
+    "h1": "Geracao silverado-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/chevrolet/silverado-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "chevrolet-silverado-sport-fleet-side-5-7-cs-1992-gasolina",
+      "fipeCodigo": "004151-3",
+      "displayName": "GM - Chevrolet Silverado Sport/ Fleet Side 5.7 CS",
+      "valorAtual": 30494,
+      "canonicalPath": "/fipe/chevrolet/silverado-sport-fleet-side-5-7-cs-1992-004151-3/",
+      "ano": 1992,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-silverado-sport-fleet-side-5-7-cs-1993-gasolina",
+      "fipeCodigo": "004151-3",
+      "displayName": "GM - Chevrolet Silverado Sport/ Fleet Side 5.7 CS",
+      "valorAtual": 42818,
+      "canonicalPath": "/fipe/chevrolet/silverado-sport-fleet-side-5-7-cs-1993-004151-3/",
+      "ano": 1993,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-silverado-sport-fleet-side-5-7-cs-1994-gasolina",
+      "fipeCodigo": "004151-3",
+      "displayName": "GM - Chevrolet Silverado Sport/ Fleet Side 5.7 CS",
+      "valorAtual": 60789,
+      "canonicalPath": "/fipe/chevrolet/silverado-sport-fleet-side-5-7-cs-1994-004151-3/",
+      "ano": 1994,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-silverado-sport-fleet-side-5-7-cs-1995-gasolina",
+      "fipeCodigo": "004151-3",
+      "displayName": "GM - Chevrolet Silverado Sport/ Fleet Side 5.7 CS",
+      "valorAtual": 69484,
+      "canonicalPath": "/fipe/chevrolet/silverado-sport-fleet-side-5-7-cs-1995-004151-3/",
+      "ano": 1995,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-silverado-sport-fleet-side-6-5-dies-cs-1993-diesel",
+      "fipeCodigo": "004152-1",
+      "displayName": "GM - Chevrolet Silverado Sport/Fleet Side 6.5 Dies. CS",
+      "valorAtual": 41183,
+      "canonicalPath": "/fipe/chevrolet/silverado-sport-fleet-side-6-5-dies-cs-1993-004152-1/",
+      "ano": 1993,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-silverado-sport-fleet-side-6-5-dies-cs-1994-diesel",
+      "fipeCodigo": "004152-1",
+      "displayName": "GM - Chevrolet Silverado Sport/Fleet Side 6.5 Dies. CS",
+      "valorAtual": 55608,
+      "canonicalPath": "/fipe/chevrolet/silverado-sport-fleet-side-6-5-dies-cs-1994-004152-1/",
+      "ano": 1994,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-silverado-sport-fleet-side-6-5-dies-cs-1995-diesel",
+      "fipeCodigo": "004152-1",
+      "displayName": "GM - Chevrolet Silverado Sport/Fleet Side 6.5 Dies. CS",
+      "valorAtual": 59602,
+      "canonicalPath": "/fipe/chevrolet/silverado-sport-fleet-side-6-5-dies-cs-1995-004152-1/",
+      "ano": 1995,
+      "marca": "GM - Chevrolet"
+    }
+  ],
+  "stats": {
+    "total": 7
+  },
+  "meta": {
+    "geracaoId": "silverado-2"
+  }
+}

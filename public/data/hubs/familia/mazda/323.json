@@ -1,0 +1,42 @@
+{
+  "tipo": "familia",
+  "slug": "323",
+  "canonicalPath": "/fipe/mazda/323/",
+  "titulo": "Mazda 323 - Tabela FIPE",
+  "descricao": "2 versoes e anos do Mazda 323 na Tabela FIPE.",
+  "seo": {
+    "title": "Mazda 323 - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes Mazda 323. 2 veiculos indexados.",
+    "h1": "Mazda 323 - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/mazda/323/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "mazda-323-1-6-16v-1995-gasolina",
+      "fipeCodigo": "020018-2",
+      "displayName": "Mazda 323 1.6 16V",
+      "valorAtual": 5970,
+      "canonicalPath": "/fipe/mazda/323-1-6-16v-1995-020018-2/",
+      "ano": 1995,
+      "marca": "Mazda"
+    },
+    {
+      "vehicleId": "mazda-323-1-6-16v-1994-gasolina",
+      "fipeCodigo": "020018-2",
+      "displayName": "Mazda 323 1.6 16V",
+      "valorAtual": 4598,
+      "canonicalPath": "/fipe/mazda/323-1-6-16v-1994-020018-2/",
+      "ano": 1994,
+      "marca": "Mazda"
+    }
+  ],
+  "stats": {
+    "total": 2,
+    "precoMin": 4598,
+    "precoMax": 5970,
+    "anos": [
+      1995,
+      1994
+    ]
+  }
+}

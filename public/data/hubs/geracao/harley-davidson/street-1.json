@@ -1,0 +1,111 @@
+{
+  "tipo": "geracao",
+  "slug": "street-1",
+  "canonicalPath": "/geracao/harley-davidson/street-1/",
+  "titulo": "Geracao street-1",
+  "descricao": "10 veiculos da geracao street-1.",
+  "seo": {
+    "title": "Geracao street-1 - Precos FIPE",
+    "description": "Veiculos da geracao street-1 na Tabela FIPE.",
+    "h1": "Geracao street-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/harley-davidson/street-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "harley-davidson-street-bob-fxbb-0-gasolina",
+      "fipeCodigo": "810086-1",
+      "displayName": "HARLEY-DAVIDSON STREET BOB FXBB",
+      "valorAtual": 125947,
+      "canonicalPath": "/fipe/harley-davidson/street-bob-fxbb-0-810086-1/",
+      "ano": 0,
+      "marca": "HARLEY-DAVIDSON"
+    },
+    {
+      "vehicleId": "harley-davidson-street-glide-flhx-0-gasolina",
+      "fipeCodigo": "810059-4",
+      "displayName": "HARLEY-DAVIDSON STREET GLIDE FLHX",
+      "valorAtual": 200130,
+      "canonicalPath": "/fipe/harley-davidson/street-glide-flhx-0-810059-4/",
+      "ano": 0,
+      "marca": "HARLEY-DAVIDSON"
+    },
+    {
+      "vehicleId": "harley-davidson-street-glide-limited-flhxl-0-gasolina",
+      "fipeCodigo": "810121-3",
+      "displayName": "HARLEY-DAVIDSON STREET GLIDE LIMITED FLHXL",
+      "valorAtual": 241800,
+      "canonicalPath": "/fipe/harley-davidson/street-glide-limited-flhxl-0-810121-3/",
+      "ano": 0,
+      "marca": "HARLEY-DAVIDSON"
+    },
+    {
+      "vehicleId": "harley-davidson-street-glide-ultra-flhxu-0-gasolina",
+      "fipeCodigo": "810118-3",
+      "displayName": "HARLEY-DAVIDSON STREET GLIDE ULTRA FLHXU",
+      "valorAtual": 205453,
+      "canonicalPath": "/fipe/harley-davidson/street-glide-ultra-flhxu-0-810118-3/",
+      "ano": 0,
+      "marca": "HARLEY-DAVIDSON"
+    },
+    {
+      "vehicleId": "mvk-street-150-street-limited-2007-gasolina",
+      "fipeCodigo": "845007-2",
+      "displayName": "MVK STREET 150/STREET LIMITED",
+      "valorAtual": 1894,
+      "canonicalPath": "/fipe/mvk/street-150-street-limited-2007-845007-2/",
+      "ano": 2007,
+      "marca": "MVK"
+    },
+    {
+      "vehicleId": "mvk-street-150-street-limited-2008-gasolina",
+      "fipeCodigo": "845007-2",
+      "displayName": "MVK STREET 150/STREET LIMITED",
+      "valorAtual": 2191,
+      "canonicalPath": "/fipe/mvk/street-150-street-limited-2008-845007-2/",
+      "ano": 2008,
+      "marca": "MVK"
+    },
+    {
+      "vehicleId": "mvk-street-150-street-limited-2009-gasolina",
+      "fipeCodigo": "845007-2",
+      "displayName": "MVK STREET 150/STREET LIMITED",
+      "valorAtual": 2591,
+      "canonicalPath": "/fipe/mvk/street-150-street-limited-2009-845007-2/",
+      "ano": 2009,
+      "marca": "MVK"
+    },
+    {
+      "vehicleId": "triumph-street-triple-765-rs-0-gasolina",
+      "fipeCodigo": "826062-1",
+      "displayName": "TRIUMPH STREET TRIPLE 765 RS",
+      "valorAtual": 74012,
+      "canonicalPath": "/fipe/triumph/street-triple-765-rs-0-826062-1/",
+      "ano": 0,
+      "marca": "TRIUMPH"
+    },
+    {
+      "vehicleId": "triumph-street-triple-765-rx-0-gasolina",
+      "fipeCodigo": "826118-0",
+      "displayName": "TRIUMPH STREET TRIPLE 765 RX",
+      "valorAtual": 78797,
+      "canonicalPath": "/fipe/triumph/street-triple-765-rx-0-826118-0/",
+      "ano": 0,
+      "marca": "TRIUMPH"
+    },
+    {
+      "vehicleId": "wake-street-tsi-1-0-tb-12v-flex-mec-0-flex",
+      "fipeCodigo": "074004-7",
+      "displayName": "Wake Street TSI 1.0 TB 12V Flex Mec.",
+      "valorAtual": 274000,
+      "canonicalPath": "/fipe/wake/street-tsi-1-0-tb-12v-flex-mec-0-074004-7/",
+      "ano": 0,
+      "marca": "Wake"
+    }
+  ],
+  "stats": {
+    "total": 10
+  },
+  "meta": {
+    "geracaoId": "street-1"
+  }
+}

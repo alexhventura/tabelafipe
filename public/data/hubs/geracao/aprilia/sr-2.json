@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "sr-2",
+  "canonicalPath": "/geracao/aprilia/sr-2/",
+  "titulo": "Geracao sr-2",
+  "descricao": "2 veiculos da geracao sr-2.",
+  "seo": {
+    "title": "Geracao sr-2 - Precos FIPE",
+    "description": "Veiculos da geracao sr-2 na Tabela FIPE.",
+    "h1": "Geracao sr-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/aprilia/sr-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "aprilia-sr-150cc-2017-gasolina",
+      "fipeCodigo": "802019-1",
+      "displayName": "APRILIA SR 150cc",
+      "valorAtual": 12991,
+      "canonicalPath": "/fipe/aprilia/sr-150cc-2017-802019-1/",
+      "ano": 2017,
+      "marca": "APRILIA"
+    },
+    {
+      "vehicleId": "aprilia-sr-race-150cc-2017-gasolina",
+      "fipeCodigo": "802018-3",
+      "displayName": "APRILIA SR RACE 150cc",
+      "valorAtual": 14324,
+      "canonicalPath": "/fipe/aprilia/sr-race-150cc-2017-802018-3/",
+      "ano": 2017,
+      "marca": "APRILIA"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "sr-2"
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "tipo": "geracao",
+  "slug": "430-1",
+  "canonicalPath": "/geracao/maserati/430-1/",
+  "titulo": "Geracao 430-1",
+  "descricao": "6 veiculos da geracao 430-1.",
+  "seo": {
+    "title": "Geracao 430-1 - Precos FIPE",
+    "description": "Veiculos da geracao 430-1 na Tabela FIPE.",
+    "h1": "Geracao 430-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/maserati/430-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "maserati-430-2-0-v6-1992-gasolina",
+      "fipeCodigo": "034005-7",
+      "displayName": "Maserati 430 2.0 V6",
+      "valorAtual": 17791,
+      "canonicalPath": "/fipe/maserati/430-2-0-v6-1992-034005-7/",
+      "ano": 1992,
+      "marca": "Maserati"
+    },
+    {
+      "vehicleId": "maserati-430-2-0-v6-1993-gasolina",
+      "fipeCodigo": "034005-7",
+      "displayName": "Maserati 430 2.0 V6",
+      "valorAtual": 22049,
+      "canonicalPath": "/fipe/maserati/430-2-0-v6-1993-034005-7/",
+      "ano": 1993,
+      "marca": "Maserati"
+    },
+    {
+      "vehicleId": "maserati-430-2-0-v6-1994-gasolina",
+      "fipeCodigo": "034005-7",
+      "displayName": "Maserati 430 2.0 V6",
+      "valorAtual": 26544,
+      "canonicalPath": "/fipe/maserati/430-2-0-v6-1994-034005-7/",
+      "ano": 1994,
+      "marca": "Maserati"
+    },
+    {
+      "vehicleId": "maserati-430-ii-2-0-v6-1992-gasolina",
+      "fipeCodigo": "034006-5",
+      "displayName": "Maserati 430 II 2.0 V6",
+      "valorAtual": 20720,
+      "canonicalPath": "/fipe/maserati/430-ii-2-0-v6-1992-034006-5/",
+      "ano": 1992,
+      "marca": "Maserati"
+    },
+    {
+      "vehicleId": "maserati-430-ii-2-0-v6-1993-gasolina",
+      "fipeCodigo": "034006-5",
+      "displayName": "Maserati 430 II 2.0 V6",
+      "valorAtual": 23920,
+      "canonicalPath": "/fipe/maserati/430-ii-2-0-v6-1993-034006-5/",
+      "ano": 1993,
+      "marca": "Maserati"
+    },
+    {
+      "vehicleId": "maserati-430-ii-2-0-v6-1994-gasolina",
+      "fipeCodigo": "034006-5",
+      "displayName": "Maserati 430 II 2.0 V6",
+      "valorAtual": 27942,
+      "canonicalPath": "/fipe/maserati/430-ii-2-0-v6-1994-034006-5/",
+      "ano": 1994,
+      "marca": "Maserati"
+    }
+  ],
+  "stats": {
+    "total": 6
+  },
+  "meta": {
+    "geracaoId": "430-1"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "tipo": "geracao",
+  "slug": "620-1",
+  "canonicalPath": "/geracao/lifan/620-1/",
+  "titulo": "Geracao 620-1",
+  "descricao": "4 veiculos da geracao 620-1.",
+  "seo": {
+    "title": "Geracao 620-1 - Precos FIPE",
+    "description": "Veiculos da geracao 620-1 na Tabela FIPE.",
+    "h1": "Geracao 620-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/lifan/620-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "lifan-620-talent-1-6-16v-106cv-4p-2009-gasolina",
+      "fipeCodigo": "077002-7",
+      "displayName": "LIFAN 620 TALENT 1.6 16V 106cv 4p",
+      "valorAtual": 14798,
+      "canonicalPath": "/fipe/lifan/620-talent-1-6-16v-106cv-4p-2009-077002-7/",
+      "ano": 2009,
+      "marca": "LIFAN"
+    },
+    {
+      "vehicleId": "lifan-620-talent-1-6-16v-106cv-4p-2010-gasolina",
+      "fipeCodigo": "077002-7",
+      "displayName": "LIFAN 620 TALENT 1.6 16V 106cv 4p",
+      "valorAtual": 15325,
+      "canonicalPath": "/fipe/lifan/620-talent-1-6-16v-106cv-4p-2010-077002-7/",
+      "ano": 2010,
+      "marca": "LIFAN"
+    },
+    {
+      "vehicleId": "lifan-620-talent-1-6-16v-106cv-4p-2011-gasolina",
+      "fipeCodigo": "077002-7",
+      "displayName": "LIFAN 620 TALENT 1.6 16V 106cv 4p",
+      "valorAtual": 17371,
+      "canonicalPath": "/fipe/lifan/620-talent-1-6-16v-106cv-4p-2011-077002-7/",
+      "ano": 2011,
+      "marca": "LIFAN"
+    },
+    {
+      "vehicleId": "lifan-620-talent-1-6-16v-106cv-4p-2012-gasolina",
+      "fipeCodigo": "077002-7",
+      "displayName": "LIFAN 620 TALENT 1.6 16V 106cv 4p",
+      "valorAtual": 19098,
+      "canonicalPath": "/fipe/lifan/620-talent-1-6-16v-106cv-4p-2012-077002-7/",
+      "ano": 2012,
+      "marca": "LIFAN"
+    }
+  ],
+  "stats": {
+    "total": 4
+  },
+  "meta": {
+    "geracaoId": "620-1"
+  }
+}

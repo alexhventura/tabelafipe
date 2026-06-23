@@ -1,0 +1,71 @@
+{
+  "tipo": "familia",
+  "slug": "cl",
+  "canonicalPath": "/fipe/cross-lander/cl/",
+  "titulo": "Cross Lander cl - Tabela FIPE",
+  "descricao": "5 versoes e anos do Cross Lander cl na Tabela FIPE.",
+  "seo": {
+    "title": "Cross Lander cl - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes Cross Lander cl. 5 veiculos indexados.",
+    "h1": "Cross Lander cl - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/cross-lander/cl/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "cross-lander-cl-330-2-8-132cv-4x4-tb-int-diesel-2006-diesel",
+      "fipeCodigo": "059002-9",
+      "displayName": "Cross Lander CL-330 2.8 132cv 4x4 TB Int. Diesel",
+      "valorAtual": 32262,
+      "canonicalPath": "/fipe/cross-lander/cl-330-2-8-132cv-4x4-tb-int-diesel-2006-059002-9/",
+      "ano": 2006,
+      "marca": "Cross Lander"
+    },
+    {
+      "vehicleId": "cross-lander-cl-244-2-8-132cv-4x4-tb-int-diesel-2006-diesel",
+      "fipeCodigo": "059001-0",
+      "displayName": "Cross Lander CL-244 2.8 132cv 4x4 TB Int. Diesel",
+      "valorAtual": 39243,
+      "canonicalPath": "/fipe/cross-lander/cl-244-2-8-132cv-4x4-tb-int-diesel-2006-059001-0/",
+      "ano": 2006,
+      "marca": "Cross Lander"
+    },
+    {
+      "vehicleId": "cross-lander-cl-244-2-8-132cv-4x4-tb-int-diesel-2005-diesel",
+      "fipeCodigo": "059001-0",
+      "displayName": "Cross Lander CL-244 2.8 132cv 4x4 TB Int. Diesel",
+      "valorAtual": 38285,
+      "canonicalPath": "/fipe/cross-lander/cl-244-2-8-132cv-4x4-tb-int-diesel-2005-059001-0/",
+      "ano": 2005,
+      "marca": "Cross Lander"
+    },
+    {
+      "vehicleId": "cross-lander-cl-244-2-8-132cv-4x4-tb-int-diesel-2004-diesel",
+      "fipeCodigo": "059001-0",
+      "displayName": "Cross Lander CL-244 2.8 132cv 4x4 TB Int. Diesel",
+      "valorAtual": 37351,
+      "canonicalPath": "/fipe/cross-lander/cl-244-2-8-132cv-4x4-tb-int-diesel-2004-059001-0/",
+      "ano": 2004,
+      "marca": "Cross Lander"
+    },
+    {
+      "vehicleId": "cross-lander-cl-244-2-8-132cv-4x4-tb-int-diesel-2003-diesel",
+      "fipeCodigo": "059001-0",
+      "displayName": "Cross Lander CL-244 2.8 132cv 4x4 TB Int. Diesel",
+      "valorAtual": 35027,
+      "canonicalPath": "/fipe/cross-lander/cl-244-2-8-132cv-4x4-tb-int-diesel-2003-059001-0/",
+      "ano": 2003,
+      "marca": "Cross Lander"
+    }
+  ],
+  "stats": {
+    "total": 5,
+    "precoMin": 32262,
+    "precoMax": 39243,
+    "anos": [
+      2006,
+      2005,
+      2004,
+      2003
+    ]
+  }
+}

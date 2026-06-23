@@ -1,0 +1,72 @@
+{
+  "tipo": "familia",
+  "slug": "w",
+  "canonicalPath": "/fipe/cagiva/w/",
+  "titulo": "CAGIVA w - Tabela FIPE",
+  "descricao": "5 versoes e anos do CAGIVA w na Tabela FIPE.",
+  "seo": {
+    "title": "CAGIVA w - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes CAGIVA w. 5 veiculos indexados.",
+    "h1": "CAGIVA w - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/cagiva/w/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "cagiva-w-16-600cc-2000-gasolina",
+      "fipeCodigo": "805008-2",
+      "displayName": "CAGIVA W-16 600cc",
+      "valorAtual": 6371,
+      "canonicalPath": "/fipe/cagiva/w-16-600cc-2000-805008-2/",
+      "ano": 2000,
+      "marca": "CAGIVA"
+    },
+    {
+      "vehicleId": "cagiva-w-16-600cc-1999-gasolina",
+      "fipeCodigo": "805008-2",
+      "displayName": "CAGIVA W-16 600cc",
+      "valorAtual": 6215,
+      "canonicalPath": "/fipe/cagiva/w-16-600cc-1999-805008-2/",
+      "ano": 1999,
+      "marca": "CAGIVA"
+    },
+    {
+      "vehicleId": "cagiva-w-16-600cc-1998-gasolina",
+      "fipeCodigo": "805008-2",
+      "displayName": "CAGIVA W-16 600cc",
+      "valorAtual": 6063,
+      "canonicalPath": "/fipe/cagiva/w-16-600cc-1998-805008-2/",
+      "ano": 1998,
+      "marca": "CAGIVA"
+    },
+    {
+      "vehicleId": "cagiva-w-16-600cc-1997-gasolina",
+      "fipeCodigo": "805008-2",
+      "displayName": "CAGIVA W-16 600cc",
+      "valorAtual": 5845,
+      "canonicalPath": "/fipe/cagiva/w-16-600cc-1997-805008-2/",
+      "ano": 1997,
+      "marca": "CAGIVA"
+    },
+    {
+      "vehicleId": "cagiva-w-16-600cc-1996-gasolina",
+      "fipeCodigo": "805008-2",
+      "displayName": "CAGIVA W-16 600cc",
+      "valorAtual": 5061,
+      "canonicalPath": "/fipe/cagiva/w-16-600cc-1996-805008-2/",
+      "ano": 1996,
+      "marca": "CAGIVA"
+    }
+  ],
+  "stats": {
+    "total": 5,
+    "precoMin": 5061,
+    "precoMax": 6371,
+    "anos": [
+      2000,
+      1999,
+      1998,
+      1997,
+      1996
+    ]
+  }
+}

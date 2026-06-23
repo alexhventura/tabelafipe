@@ -1,0 +1,83 @@
+{
+  "geradoEm": "2026-06-22T22:23:54.475Z",
+  "totalVeiculos": 50395,
+  "familias": 1803,
+  "topFamilias": 1000,
+  "fields": [
+    {
+      "field": "geracao_id",
+      "global_pct": 24.4,
+      "top1000_families_pct": 25.78
+    },
+    {
+      "field": "transmissao",
+      "global_pct": 24.05,
+      "top1000_families_pct": 24.59
+    },
+    {
+      "field": "potencia",
+      "global_pct": 9.77,
+      "top1000_families_pct": 9.66
+    },
+    {
+      "field": "torque",
+      "global_pct": 1.69,
+      "top1000_families_pct": 1.75
+    },
+    {
+      "field": "porta_malas",
+      "global_pct": 0.92,
+      "top1000_families_pct": 0.96
+    },
+    {
+      "field": "aceleracao0a100",
+      "global_pct": 0.33,
+      "top1000_families_pct": 0.35
+    },
+    {
+      "field": "tanque",
+      "global_pct": 0.08,
+      "top1000_families_pct": 0.08
+    },
+    {
+      "field": "peso",
+      "global_pct": 0,
+      "top1000_families_pct": 0
+    },
+    {
+      "field": "comprimento",
+      "global_pct": 0,
+      "top1000_families_pct": 0
+    },
+    {
+      "field": "largura",
+      "global_pct": 0,
+      "top1000_families_pct": 0
+    },
+    {
+      "field": "altura",
+      "global_pct": 0,
+      "top1000_families_pct": 0
+    },
+    {
+      "field": "entre_eixos",
+      "global_pct": 0,
+      "top1000_families_pct": 0
+    },
+    {
+      "field": "velocidade_max",
+      "global_pct": 0,
+      "top1000_families_pct": 0
+    },
+    {
+      "field": "bateria_kwh",
+      "global_pct": 0,
+      "top1000_families_pct": 0
+    },
+    {
+      "field": "autonomia_km",
+      "global_pct": 0,
+      "top1000_families_pct": 0
+    }
+  ]
+}

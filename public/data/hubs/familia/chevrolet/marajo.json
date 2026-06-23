@@ -1,0 +1,72 @@
+{
+  "tipo": "familia",
+  "slug": "marajo",
+  "canonicalPath": "/fipe/chevrolet/marajo/",
+  "titulo": "GM - Chevrolet marajo - Tabela FIPE",
+  "descricao": "5 versoes e anos do GM - Chevrolet marajo na Tabela FIPE.",
+  "seo": {
+    "title": "GM - Chevrolet marajo - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes GM - Chevrolet marajo. 5 veiculos indexados.",
+    "h1": "GM - Chevrolet marajo - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/chevrolet/marajo/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "chevrolet-marajo-sl-sle-se-1989-gasolina",
+      "fipeCodigo": "004119-0",
+      "displayName": "GM - Chevrolet Marajo SL/SLe/Se",
+      "valorAtual": 8745,
+      "canonicalPath": "/fipe/chevrolet/marajo-sl-sle-se-1989-004119-0/",
+      "ano": 1989,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-marajo-sl-sle-se-1988-gasolina",
+      "fipeCodigo": "004119-0",
+      "displayName": "GM - Chevrolet Marajo SL/SLe/Se",
+      "valorAtual": 6387,
+      "canonicalPath": "/fipe/chevrolet/marajo-sl-sle-se-1988-004119-0/",
+      "ano": 1988,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-marajo-sl-sle-se-1987-gasolina",
+      "fipeCodigo": "004119-0",
+      "displayName": "GM - Chevrolet Marajo SL/SLe/Se",
+      "valorAtual": 5460,
+      "canonicalPath": "/fipe/chevrolet/marajo-sl-sle-se-1987-004119-0/",
+      "ano": 1987,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-marajo-sl-sle-se-1986-gasolina",
+      "fipeCodigo": "004119-0",
+      "displayName": "GM - Chevrolet Marajo SL/SLe/Se",
+      "valorAtual": 5291,
+      "canonicalPath": "/fipe/chevrolet/marajo-sl-sle-se-1986-004119-0/",
+      "ano": 1986,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-marajo-sl-sle-se-1985-gasolina",
+      "fipeCodigo": "004119-0",
+      "displayName": "GM - Chevrolet Marajo SL/SLe/Se",
+      "valorAtual": 4276,
+      "canonicalPath": "/fipe/chevrolet/marajo-sl-sle-se-1985-004119-0/",
+      "ano": 1985,
+      "marca": "GM - Chevrolet"
+    }
+  ],
+  "stats": {
+    "total": 5,
+    "precoMin": 4276,
+    "precoMax": 8745,
+    "anos": [
+      1989,
+      1988,
+      1987,
+      1986,
+      1985
+    ]
+  }
+}

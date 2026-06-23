@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "m2-1",
+  "canonicalPath": "/geracao/bmw/m2-1/",
+  "titulo": "Geracao m2-1",
+  "descricao": "2 veiculos da geracao m2-1.",
+  "seo": {
+    "title": "Geracao m2-1 - Precos FIPE",
+    "description": "Veiculos da geracao m2-1 na Tabela FIPE.",
+    "h1": "Geracao m2-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/bmw/m2-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "bmw-m2-coupe-3-0-bi-turbo-24v-3p-0-gasolina",
+      "fipeCodigo": "009218-5",
+      "displayName": "BMW M2 Coupe 3.0 Bi-Turbo 24V 3p",
+      "valorAtual": 682937,
+      "canonicalPath": "/fipe/bmw/m2-coupe-3-0-bi-turbo-24v-3p-0-009218-5/",
+      "ano": 0,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-m2-coupe-track-3-0-bi-turbo-24v-460cv-3p-0-gasolina",
+      "fipeCodigo": "009315-7",
+      "displayName": "BMW M2 Coupe Track 3.0 Bi-Turbo 24V 460cv 3p",
+      "valorAtual": 736576,
+      "canonicalPath": "/fipe/bmw/m2-coupe-track-3-0-bi-turbo-24v-460cv-3p-0-009315-7/",
+      "ano": 0,
+      "marca": "BMW"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "m2-1"
+  }
+}

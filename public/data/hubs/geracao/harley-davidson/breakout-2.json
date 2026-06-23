@@ -1,0 +1,57 @@
+{
+  "tipo": "geracao",
+  "slug": "breakout-2",
+  "canonicalPath": "/geracao/harley-davidson/breakout-2/",
+  "titulo": "Geracao breakout-2",
+  "descricao": "4 veiculos da geracao breakout-2.",
+  "seo": {
+    "title": "Geracao breakout-2 - Precos FIPE",
+    "description": "Veiculos da geracao breakout-2 na Tabela FIPE.",
+    "h1": "Geracao breakout-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/harley-davidson/breakout-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "harley-davidson-breakout-fxbr-2023-gasolina",
+      "fipeCodigo": "810109-4",
+      "displayName": "HARLEY-DAVIDSON BREAKOUT FXBR",
+      "valorAtual": 105910,
+      "canonicalPath": "/fipe/harley-davidson/breakout-fxbr-2023-810109-4/",
+      "ano": 2023,
+      "marca": "HARLEY-DAVIDSON"
+    },
+    {
+      "vehicleId": "harley-davidson-breakout-fxbr-2024-gasolina",
+      "fipeCodigo": "810109-4",
+      "displayName": "HARLEY-DAVIDSON BREAKOUT FXBR",
+      "valorAtual": 115343,
+      "canonicalPath": "/fipe/harley-davidson/breakout-fxbr-2024-810109-4/",
+      "ano": 2024,
+      "marca": "HARLEY-DAVIDSON"
+    },
+    {
+      "vehicleId": "harley-davidson-breakout-fxbr-2025-gasolina",
+      "fipeCodigo": "810109-4",
+      "displayName": "HARLEY-DAVIDSON BREAKOUT FXBR",
+      "valorAtual": 121844,
+      "canonicalPath": "/fipe/harley-davidson/breakout-fxbr-2025-810109-4/",
+      "ano": 2025,
+      "marca": "HARLEY-DAVIDSON"
+    },
+    {
+      "vehicleId": "harley-davidson-breakout-fxbr-2026-gasolina",
+      "fipeCodigo": "810109-4",
+      "displayName": "HARLEY-DAVIDSON BREAKOUT FXBR",
+      "valorAtual": 132749,
+      "canonicalPath": "/fipe/harley-davidson/breakout-fxbr-2026-810109-4/",
+      "ano": 2026,
+      "marca": "HARLEY-DAVIDSON"
+    }
+  ],
+  "stats": {
+    "total": 4
+  },
+  "meta": {
+    "geracaoId": "breakout-2"
+  }
+}

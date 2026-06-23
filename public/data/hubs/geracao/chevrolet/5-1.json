@@ -1,0 +1,228 @@
+{
+  "tipo": "geracao",
+  "slug": "5-1",
+  "canonicalPath": "/geracao/chevrolet/5-1/",
+  "titulo": "Geracao 5-1",
+  "descricao": "23 veiculos da geracao 5-1.",
+  "seo": {
+    "title": "Geracao 5-1 - Precos FIPE",
+    "description": "Veiculos da geracao 5-1 na Tabela FIPE.",
+    "h1": "Geracao 5-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/chevrolet/5-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "chevrolet-5-90-2p-diesel-1998-diesel",
+      "fipeCodigo": "505009-0",
+      "displayName": "GMC 5-90 2p (diesel)",
+      "valorAtual": 18531,
+      "canonicalPath": "/fipe/chevrolet/5-90-2p-diesel-1998-505009-0/",
+      "ano": 1998,
+      "marca": "GMC"
+    },
+    {
+      "vehicleId": "chevrolet-5-90-2p-diesel-1999-diesel",
+      "fipeCodigo": "505009-0",
+      "displayName": "GMC 5-90 2p (diesel)",
+      "valorAtual": 19183,
+      "canonicalPath": "/fipe/chevrolet/5-90-2p-diesel-1999-505009-0/",
+      "ano": 1999,
+      "marca": "GMC"
+    },
+    {
+      "vehicleId": "chevrolet-5-90-2p-diesel-2000-diesel",
+      "fipeCodigo": "505009-0",
+      "displayName": "GMC 5-90 2p (diesel)",
+      "valorAtual": 19663,
+      "canonicalPath": "/fipe/chevrolet/5-90-2p-diesel-2000-505009-0/",
+      "ano": 2000,
+      "marca": "GMC"
+    },
+    {
+      "vehicleId": "chevrolet-5-90-2p-diesel-2001-diesel",
+      "fipeCodigo": "505009-0",
+      "displayName": "GMC 5-90 2p (diesel)",
+      "valorAtual": 21877,
+      "canonicalPath": "/fipe/chevrolet/5-90-2p-diesel-2001-505009-0/",
+      "ano": 2001,
+      "marca": "GMC"
+    },
+    {
+      "vehicleId": "omoda-5-luxury-1-5-tb-fwd-0-hibrido",
+      "fipeCodigo": "302002-9",
+      "displayName": "Omoda 5 Luxury 1.5 TB FWD",
+      "valorAtual": 165994,
+      "canonicalPath": "/fipe/omoda/5-luxury-1-5-tb-fwd-0-302002-9/",
+      "ano": 0,
+      "marca": "Omoda"
+    },
+    {
+      "vehicleId": "omoda-5-prestige-1-5-tb-fwd-0-hibrido",
+      "fipeCodigo": "302003-7",
+      "displayName": "Omoda 5 Prestige 1.5 TB FWD",
+      "valorAtual": 185992,
+      "canonicalPath": "/fipe/omoda/5-prestige-1-5-tb-fwd-0-302003-7/",
+      "ano": 0,
+      "marca": "Omoda"
+    },
+    {
+      "vehicleId": "volkswagen-5-140-e-delivery-2p-diesel-2005-diesel",
+      "fipeCodigo": "515107-4",
+      "displayName": "VOLKSWAGEN 5-140 E Delivery 2p (diesel)",
+      "valorAtual": 85428,
+      "canonicalPath": "/fipe/volkswagen/5-140-e-delivery-2p-diesel-2005-515107-4/",
+      "ano": 2005,
+      "marca": "VOLKSWAGEN"
+    },
+    {
+      "vehicleId": "volkswagen-5-140-e-delivery-2p-diesel-2006-diesel",
+      "fipeCodigo": "515107-4",
+      "displayName": "VOLKSWAGEN 5-140 E Delivery 2p (diesel)",
+      "valorAtual": 101511,
+      "canonicalPath": "/fipe/volkswagen/5-140-e-delivery-2p-diesel-2006-515107-4/",
+      "ano": 2006,
+      "marca": "VOLKSWAGEN"
+    },
+    {
+      "vehicleId": "volkswagen-5-140-e-delivery-2p-diesel-2007-diesel",
+      "fipeCodigo": "515107-4",
+      "displayName": "VOLKSWAGEN 5-140 E Delivery 2p (diesel)",
+      "valorAtual": 104049,
+      "canonicalPath": "/fipe/volkswagen/5-140-e-delivery-2p-diesel-2007-515107-4/",
+      "ano": 2007,
+      "marca": "VOLKSWAGEN"
+    },
+    {
+      "vehicleId": "volkswagen-5-140-e-delivery-2p-diesel-2008-diesel",
+      "fipeCodigo": "515107-4",
+      "displayName": "VOLKSWAGEN 5-140 E Delivery 2p (diesel)",
+      "valorAtual": 125279,
+      "canonicalPath": "/fipe/volkswagen/5-140-e-delivery-2p-diesel-2008-515107-4/",
+      "ano": 2008,
+      "marca": "VOLKSWAGEN"
+    },
+    {
+      "vehicleId": "volkswagen-5-140-e-delivery-2p-diesel-2009-diesel",
+      "fipeCodigo": "515107-4",
+      "displayName": "VOLKSWAGEN 5-140 E Delivery 2p (diesel)",
+      "valorAtual": 128411,
+      "canonicalPath": "/fipe/volkswagen/5-140-e-delivery-2p-diesel-2009-515107-4/",
+      "ano": 2009,
+      "marca": "VOLKSWAGEN"
+    },
+    {
+      "vehicleId": "volkswagen-5-140-e-delivery-2p-diesel-2010-diesel",
+      "fipeCodigo": "515107-4",
+      "displayName": "VOLKSWAGEN 5-140 E Delivery 2p (diesel)",
+      "valorAtual": 131622,
+      "canonicalPath": "/fipe/volkswagen/5-140-e-delivery-2p-diesel-2010-515107-4/",
+      "ano": 2010,
+      "marca": "VOLKSWAGEN"
+    },
+    {
+      "vehicleId": "volkswagen-5-140-e-delivery-2p-diesel-2011-diesel",
+      "fipeCodigo": "515107-4",
+      "displayName": "VOLKSWAGEN 5-140 E Delivery 2p (diesel)",
+      "valorAtual": 136693,
+      "canonicalPath": "/fipe/volkswagen/5-140-e-delivery-2p-diesel-2011-515107-4/",
+      "ano": 2011,
+      "marca": "VOLKSWAGEN"
+    },
+    {
+      "vehicleId": "volkswagen-5-140-e-delivery-2p-diesel-2012-diesel",
+      "fipeCodigo": "515107-4",
+      "displayName": "VOLKSWAGEN 5-140 E Delivery 2p (diesel)",
+      "valorAtual": 154332,
+      "canonicalPath": "/fipe/volkswagen/5-140-e-delivery-2p-diesel-2012-515107-4/",
+      "ano": 2012,
+      "marca": "VOLKSWAGEN"
+    },
+    {
+      "vehicleId": "volkswagen-5-150-e-delivery-2p-diesel-e5-2012-diesel",
+      "fipeCodigo": "515130-9",
+      "displayName": "VOLKSWAGEN 5-150 E Delivery 2p (diesel)(E5)",
+      "valorAtual": 149491,
+      "canonicalPath": "/fipe/volkswagen/5-150-e-delivery-2p-diesel-e5-2012-515130-9/",
+      "ano": 2012,
+      "marca": "VOLKSWAGEN"
+    },
+    {
+      "vehicleId": "volkswagen-5-150-e-delivery-2p-diesel-e5-2013-diesel",
+      "fipeCodigo": "515130-9",
+      "displayName": "VOLKSWAGEN 5-150 E Delivery 2p (diesel)(E5)",
+      "valorAtual": 153229,
+      "canonicalPath": "/fipe/volkswagen/5-150-e-delivery-2p-diesel-e5-2013-515130-9/",
+      "ano": 2013,
+      "marca": "VOLKSWAGEN"
+    },
+    {
+      "vehicleId": "volkswagen-5-150-e-delivery-2p-diesel-e5-2014-diesel",
+      "fipeCodigo": "515130-9",
+      "displayName": "VOLKSWAGEN 5-150 E Delivery 2p (diesel)(E5)",
+      "valorAtual": 157060,
+      "canonicalPath": "/fipe/volkswagen/5-150-e-delivery-2p-diesel-e5-2014-515130-9/",
+      "ano": 2014,
+      "marca": "VOLKSWAGEN"
+    },
+    {
+      "vehicleId": "volkswagen-5-150-e-delivery-2p-diesel-e5-2015-diesel",
+      "fipeCodigo": "515130-9",
+      "displayName": "VOLKSWAGEN 5-150 E Delivery 2p (diesel)(E5)",
+      "valorAtual": 160987,
+      "canonicalPath": "/fipe/volkswagen/5-150-e-delivery-2p-diesel-e5-2015-515130-9/",
+      "ano": 2015,
+      "marca": "VOLKSWAGEN"
+    },
+    {
+      "vehicleId": "volkswagen-5-150-e-delivery-2p-diesel-e5-2016-diesel",
+      "fipeCodigo": "515130-9",
+      "displayName": "VOLKSWAGEN 5-150 E Delivery 2p (diesel)(E5)",
+      "valorAtual": 165012,
+      "canonicalPath": "/fipe/volkswagen/5-150-e-delivery-2p-diesel-e5-2016-515130-9/",
+      "ano": 2016,
+      "marca": "VOLKSWAGEN"
+    },
+    {
+      "vehicleId": "volkswagen-5-150-e-delivery-2p-diesel-e5-2017-diesel",
+      "fipeCodigo": "515130-9",
+      "displayName": "VOLKSWAGEN 5-150 E Delivery 2p (diesel)(E5)",
+      "valorAtual": 169138,
+      "canonicalPath": "/fipe/volkswagen/5-150-e-delivery-2p-diesel-e5-2017-515130-9/",
+      "ano": 2017,
+      "marca": "VOLKSWAGEN"
+    },
+    {
+      "vehicleId": "volkswagen-5-150-e-delivery-2p-diesel-e5-2018-diesel",
+      "fipeCodigo": "515130-9",
+      "displayName": "VOLKSWAGEN 5-150 E Delivery 2p (diesel)(E5)",
+      "valorAtual": 173367,
+      "canonicalPath": "/fipe/volkswagen/5-150-e-delivery-2p-diesel-e5-2018-515130-9/",
+      "ano": 2018,
+      "marca": "VOLKSWAGEN"
+    },
+    {
+      "vehicleId": "volkswagen-5-150-e-delivery-2p-diesel-e5-2019-diesel",
+      "fipeCodigo": "515130-9",
+      "displayName": "VOLKSWAGEN 5-150 E Delivery 2p (diesel)(E5)",
+      "valorAtual": 190345,
+      "canonicalPath": "/fipe/volkswagen/5-150-e-delivery-2p-diesel-e5-2019-515130-9/",
+      "ano": 2019,
+      "marca": "VOLKSWAGEN"
+    },
+    {
+      "vehicleId": "volkswagen-5-150-e-delivery-2p-diesel-e5-2020-diesel",
+      "fipeCodigo": "515130-9",
+      "displayName": "VOLKSWAGEN 5-150 E Delivery 2p (diesel)(E5)",
+      "valorAtual": 195104,
+      "canonicalPath": "/fipe/volkswagen/5-150-e-delivery-2p-diesel-e5-2020-515130-9/",
+      "ano": 2020,
+      "marca": "VOLKSWAGEN"
+    }
+  ],
+  "stats": {
+    "total": 23
+  },
+  "meta": {
+    "geracaoId": "5-1"
+  }
+}

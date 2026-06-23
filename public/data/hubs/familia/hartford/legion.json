@@ -1,0 +1,62 @@
+{
+  "tipo": "familia",
+  "slug": "legion",
+  "canonicalPath": "/fipe/hartford/legion/",
+  "titulo": "HARTFORD legion - Tabela FIPE",
+  "descricao": "4 versoes e anos do HARTFORD legion na Tabela FIPE.",
+  "seo": {
+    "title": "HARTFORD legion - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes HARTFORD legion. 4 veiculos indexados.",
+    "h1": "HARTFORD legion - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/hartford/legion/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "hartford-legion-125-2000-gasolina",
+      "fipeCodigo": "838001-5",
+      "displayName": "HARTFORD LEGION 125",
+      "valorAtual": 1735,
+      "canonicalPath": "/fipe/hartford/legion-125-2000-838001-5/",
+      "ano": 2000,
+      "marca": "HARTFORD"
+    },
+    {
+      "vehicleId": "hartford-legion-125-1999-gasolina",
+      "fipeCodigo": "838001-5",
+      "displayName": "HARTFORD LEGION 125",
+      "valorAtual": 1564,
+      "canonicalPath": "/fipe/hartford/legion-125-1999-838001-5/",
+      "ano": 1999,
+      "marca": "HARTFORD"
+    },
+    {
+      "vehicleId": "hartford-legion-125-1998-gasolina",
+      "fipeCodigo": "838001-5",
+      "displayName": "HARTFORD LEGION 125",
+      "valorAtual": 1459,
+      "canonicalPath": "/fipe/hartford/legion-125-1998-838001-5/",
+      "ano": 1998,
+      "marca": "HARTFORD"
+    },
+    {
+      "vehicleId": "hartford-legion-125-1997-gasolina",
+      "fipeCodigo": "838001-5",
+      "displayName": "HARTFORD LEGION 125",
+      "valorAtual": 1379,
+      "canonicalPath": "/fipe/hartford/legion-125-1997-838001-5/",
+      "ano": 1997,
+      "marca": "HARTFORD"
+    }
+  ],
+  "stats": {
+    "total": 4,
+    "precoMin": 1379,
+    "precoMax": 1735,
+    "anos": [
+      2000,
+      1999,
+      1998,
+      1997
+    ]
+  }
+}

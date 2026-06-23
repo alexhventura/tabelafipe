@@ -1,0 +1,52 @@
+{
+  "tipo": "familia",
+  "slug": "moto",
+  "canonicalPath": "/fipe/aprilia/moto/",
+  "titulo": "APRILIA moto - Tabela FIPE",
+  "descricao": "3 versoes e anos do APRILIA moto na Tabela FIPE.",
+  "seo": {
+    "title": "APRILIA moto - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes APRILIA moto. 3 veiculos indexados.",
+    "h1": "APRILIA moto - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/aprilia/moto/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "aprilia-moto-650cc-2000-gasolina",
+      "fipeCodigo": "802004-3",
+      "displayName": "APRILIA MOTO 650cc",
+      "valorAtual": 14081,
+      "canonicalPath": "/fipe/aprilia/moto-650cc-2000-802004-3/",
+      "ano": 2000,
+      "marca": "APRILIA"
+    },
+    {
+      "vehicleId": "aprilia-moto-650cc-1999-gasolina",
+      "fipeCodigo": "802004-3",
+      "displayName": "APRILIA MOTO 650cc",
+      "valorAtual": 13388,
+      "canonicalPath": "/fipe/aprilia/moto-650cc-1999-802004-3/",
+      "ano": 1999,
+      "marca": "APRILIA"
+    },
+    {
+      "vehicleId": "aprilia-moto-650cc-1998-gasolina",
+      "fipeCodigo": "802004-3",
+      "displayName": "APRILIA MOTO 650cc",
+      "valorAtual": 11650,
+      "canonicalPath": "/fipe/aprilia/moto-650cc-1998-802004-3/",
+      "ano": 1998,
+      "marca": "APRILIA"
+    }
+  ],
+  "stats": {
+    "total": 3,
+    "precoMin": 11650,
+    "precoMax": 14081,
+    "anos": [
+      2000,
+      1999,
+      1998
+    ]
+  }
+}

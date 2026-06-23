@@ -1,0 +1,62 @@
+{
+  "tipo": "familia",
+  "slug": "inca",
+  "canonicalPath": "/fipe/seat/inca/",
+  "titulo": "Seat inca - Tabela FIPE",
+  "descricao": "4 versoes e anos do Seat inca na Tabela FIPE.",
+  "seo": {
+    "title": "Seat inca - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes Seat inca. 4 veiculos indexados.",
+    "h1": "Seat inca - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/seat/inca/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "seat-inca-1-6l-2002-gasolina",
+      "fipeCodigo": "026007-0",
+      "displayName": "Seat Inca 1.6L",
+      "valorAtual": 13593,
+      "canonicalPath": "/fipe/seat/inca-1-6l-2002-026007-0/",
+      "ano": 2002,
+      "marca": "Seat"
+    },
+    {
+      "vehicleId": "seat-inca-1-6l-2001-gasolina",
+      "fipeCodigo": "026007-0",
+      "displayName": "Seat Inca 1.6L",
+      "valorAtual": 13261,
+      "canonicalPath": "/fipe/seat/inca-1-6l-2001-026007-0/",
+      "ano": 2001,
+      "marca": "Seat"
+    },
+    {
+      "vehicleId": "seat-inca-1-6l-2000-gasolina",
+      "fipeCodigo": "026007-0",
+      "displayName": "Seat Inca 1.6L",
+      "valorAtual": 11560,
+      "canonicalPath": "/fipe/seat/inca-1-6l-2000-026007-0/",
+      "ano": 2000,
+      "marca": "Seat"
+    },
+    {
+      "vehicleId": "seat-inca-1-6l-1999-gasolina",
+      "fipeCodigo": "026007-0",
+      "displayName": "Seat Inca 1.6L",
+      "valorAtual": 11278,
+      "canonicalPath": "/fipe/seat/inca-1-6l-1999-026007-0/",
+      "ano": 1999,
+      "marca": "Seat"
+    }
+  ],
+  "stats": {
+    "total": 4,
+    "precoMin": 11278,
+    "precoMax": 13593,
+    "anos": [
+      2002,
+      2001,
+      2000,
+      1999
+    ]
+  }
+}

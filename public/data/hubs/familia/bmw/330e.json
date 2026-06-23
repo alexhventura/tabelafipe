@@ -1,0 +1,102 @@
+{
+  "tipo": "familia",
+  "slug": "330e",
+  "canonicalPath": "/fipe/bmw/330e/",
+  "titulo": "BMW 330e - Tabela FIPE",
+  "descricao": "8 versoes e anos do BMW 330e na Tabela FIPE.",
+  "seo": {
+    "title": "BMW 330e - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes BMW 330e. 8 veiculos indexados.",
+    "h1": "BMW 330e - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/bmw/330e/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "bmw-330e-m-sport-2-0-turbo-aut-hibrido-2026-hibrido",
+      "fipeCodigo": "009266-5",
+      "displayName": "BMW 330e M Sport 2.0 Turbo Aut. (Híbrido)",
+      "valorAtual": 396305,
+      "canonicalPath": "/fipe/bmw/330e-m-sport-2-0-turbo-aut-hibrido-2026-009266-5/",
+      "ano": 2026,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-330e-m-sport-2-0-turbo-aut-hibrido-2025-hibrido",
+      "fipeCodigo": "009266-5",
+      "displayName": "BMW 330e M Sport 2.0 Turbo Aut. (Híbrido)",
+      "valorAtual": 368077,
+      "canonicalPath": "/fipe/bmw/330e-m-sport-2-0-turbo-aut-hibrido-2025-009266-5/",
+      "ano": 2025,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-330e-m-sport-2-0-turbo-aut-hibrido-2024-hibrido",
+      "fipeCodigo": "009266-5",
+      "displayName": "BMW 330e M Sport 2.0 Turbo Aut. (Híbrido)",
+      "valorAtual": 317068,
+      "canonicalPath": "/fipe/bmw/330e-m-sport-2-0-turbo-aut-hibrido-2024-009266-5/",
+      "ano": 2024,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-330e-m-sport-2-0-turbo-aut-hibrido-2023-hibrido",
+      "fipeCodigo": "009266-5",
+      "displayName": "BMW 330e M Sport 2.0 Turbo Aut. (Híbrido)",
+      "valorAtual": 294096,
+      "canonicalPath": "/fipe/bmw/330e-m-sport-2-0-turbo-aut-hibrido-2023-009266-5/",
+      "ano": 2023,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-330e-m-sport-2-0-turbo-aut-hibrido-2022-hibrido",
+      "fipeCodigo": "009266-5",
+      "displayName": "BMW 330e M Sport 2.0 Turbo Aut. (Híbrido)",
+      "valorAtual": 233909,
+      "canonicalPath": "/fipe/bmw/330e-m-sport-2-0-turbo-aut-hibrido-2022-009266-5/",
+      "ano": 2022,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-330e-m-sport-2-0-turbo-aut-hibrido-2021-hibrido",
+      "fipeCodigo": "009266-5",
+      "displayName": "BMW 330e M Sport 2.0 Turbo Aut. (Híbrido)",
+      "valorAtual": 228203,
+      "canonicalPath": "/fipe/bmw/330e-m-sport-2-0-turbo-aut-hibrido-2021-009266-5/",
+      "ano": 2021,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-330e-m-sport-2-0-turbo-aut-hibrido-2020-hibrido",
+      "fipeCodigo": "009266-5",
+      "displayName": "BMW 330e M Sport 2.0 Turbo Aut. (Híbrido)",
+      "valorAtual": 215111,
+      "canonicalPath": "/fipe/bmw/330e-m-sport-2-0-turbo-aut-hibrido-2020-009266-5/",
+      "ano": 2020,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-330e-m-sport-2-0-turbo-aut-hibrido-0-hibrido",
+      "fipeCodigo": "009266-5",
+      "displayName": "BMW 330e M Sport 2.0 Turbo Aut. (Híbrido)",
+      "valorAtual": 463204,
+      "canonicalPath": "/fipe/bmw/330e-m-sport-2-0-turbo-aut-hibrido-0-009266-5/",
+      "ano": 0,
+      "marca": "BMW"
+    }
+  ],
+  "stats": {
+    "total": 8,
+    "precoMin": 215111,
+    "precoMax": 463204,
+    "anos": [
+      2026,
+      2025,
+      2024,
+      2023,
+      2022,
+      2021,
+      2020,
+      0
+    ]
+  }
+}

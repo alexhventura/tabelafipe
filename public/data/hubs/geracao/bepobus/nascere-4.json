@@ -1,0 +1,57 @@
+{
+  "tipo": "geracao",
+  "slug": "nascere-4",
+  "canonicalPath": "/geracao/bepobus/nascere-4/",
+  "titulo": "Geracao nascere-4",
+  "descricao": "4 veiculos da geracao nascere-4.",
+  "seo": {
+    "title": "Geracao nascere-4 - Precos FIPE",
+    "description": "Veiculos da geracao nascere-4 na Tabela FIPE.",
+    "h1": "Geracao nascere-4",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/bepobus/nascere-4/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "bepobus-nascere-rodoviario-diesel-e6-2025-diesel",
+      "fipeCodigo": "531005-9",
+      "displayName": "BEPOBUS NÀSCERE RODOVIARIO (diesel)(E6)",
+      "valorAtual": 613440,
+      "canonicalPath": "/fipe/bepobus/nascere-rodoviario-diesel-e6-2025-531005-9/",
+      "ano": 2025,
+      "marca": "BEPOBUS"
+    },
+    {
+      "vehicleId": "bepobus-nascere-rodoviario-diesel-e6-2026-diesel",
+      "fipeCodigo": "531005-9",
+      "displayName": "BEPOBUS NÀSCERE RODOVIARIO (diesel)(E6)",
+      "valorAtual": 708267,
+      "canonicalPath": "/fipe/bepobus/nascere-rodoviario-diesel-e6-2026-531005-9/",
+      "ano": 2026,
+      "marca": "BEPOBUS"
+    },
+    {
+      "vehicleId": "bepobus-nascere-urbano-diesel-e6-2025-diesel",
+      "fipeCodigo": "531004-0",
+      "displayName": "BEPOBUS NÀSCERE URBANO (diesel)(E6)",
+      "valorAtual": 503990,
+      "canonicalPath": "/fipe/bepobus/nascere-urbano-diesel-e6-2025-531004-0/",
+      "ano": 2025,
+      "marca": "BEPOBUS"
+    },
+    {
+      "vehicleId": "bepobus-nascere-urbano-diesel-e6-2026-diesel",
+      "fipeCodigo": "531004-0",
+      "displayName": "BEPOBUS NÀSCERE URBANO (diesel)(E6)",
+      "valorAtual": 593627,
+      "canonicalPath": "/fipe/bepobus/nascere-urbano-diesel-e6-2026-531004-0/",
+      "ano": 2026,
+      "marca": "BEPOBUS"
+    }
+  ],
+  "stats": {
+    "total": 4
+  },
+  "meta": {
+    "geracaoId": "nascere-4"
+  }
+}

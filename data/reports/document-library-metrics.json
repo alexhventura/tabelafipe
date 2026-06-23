@@ -1,0 +1,241 @@
+{
+  "geradoEm": "2026-06-22T22:46:51.813Z",
+  "pdfs_indexados": 13,
+  "familias_total": 1803,
+  "familias_com_pdf": 3,
+  "metas": {
+    "dias30": 500,
+    "dias60": 2000,
+    "dias90": 5000
+  },
+  "progress_pct": 0.26,
+  "acquisition_dashboard": "C:\\Users\\Alex Ventura\\Desktop\\consulta-tabela-fipe\\data\\reports\\acquisition-dashboard.json",
+  "top_richest_documents": [
+    {
+      "id": "1100b65f8f52246f",
+      "marca": "Hyundai",
+      "modelo": "Creta",
+      "type": "catalog",
+      "richnessScore": 6,
+      "url": "https://www.hyundai.com.br/content/dam/hmb/download-manuais/creta_25-26/Catalogo_Digital_-_Novo_CRETA_Limited_MY_25-26.pdf"
+    },
+    {
+      "id": "3fb7adbdd2ab8acc",
+      "marca": "Hyundai",
+      "modelo": "Tucson",
+      "type": "catalog",
+      "richnessScore": 6,
+      "url": "https://www.hyundai.com.br/content/dam/hmb/cars/tucson/2024/catalog/TUCSON_Catalogo_Digital.pdf"
+    },
+    {
+      "id": "0664c2816f16b5d1",
+      "marca": "BYD",
+      "modelo": "Ficha%20Tecnica%20 %20BYD%20Atto%202%20DM i%20Flex%20 %20v1",
+      "type": "spec-sheet",
+      "richnessScore": 6,
+      "url": "https://www.byd.com/material/byd-site/br/product/atto-2-dmi/Ficha%20Tecnica%20-%20BYD%20Atto%202%20DM-i%20Flex%20-%20v1.pdf"
+    },
+    {
+      "id": "9cbe42a7f99adbce",
+      "marca": "Hyundai",
+      "modelo": "HB20",
+      "type": "catalog",
+      "richnessScore": 5,
+      "url": "https://www.hyundai.com.br/content/dam/hmb/cars/hb20/2025-2026/catalogos/Catalogo_DIgital_Novo_HB20_Limited_TGDI_25_26.pdf"
+    },
+    {
+      "id": "f91fc6eea24330c6",
+      "marca": "Peugeot",
+      "modelo": "fichas tecnicas 208 my26 at",
+      "type": "spec-sheet",
+      "richnessScore": 5,
+      "url": "https://www.peugeot.com.br/content/dam/peugeot/ficha-tecnica/208-my26/fichas-tecnicas-208-my26-at.pdf"
+    },
+    {
+      "id": "c3c2ddf5c4668cbb",
+      "marca": "Peugeot",
+      "modelo": "fichas tecnicas 208 my26 allure turbo",
+      "type": "spec-sheet",
+      "richnessScore": 5,
+      "url": "https://www.peugeot.com.br/content/dam/peugeot/ficha-tecnica/208-my26/fichas-tecnicas-208-my26-allure-turbo.pdf"
+    },
+    {
+      "id": "e34c708143acfa0f",
+      "marca": "Peugeot",
+      "modelo": "fichas tecnicas 208 my26 active turbo",
+      "type": "spec-sheet",
+      "richnessScore": 5,
+      "url": "https://www.peugeot.com.br/content/dam/peugeot/ficha-tecnica/208-my26/fichas-tecnicas-208-my26-active-turbo.pdf"
+    },
+    {
+      "id": "794e87fc3bf95169",
+      "marca": "Peugeot",
+      "modelo": "fichas tecnicas 208 my26 style",
+      "type": "spec-sheet",
+      "richnessScore": 5,
+      "url": "https://www.peugeot.com.br/content/dam/peugeot/ficha-tecnica/208-my26/fichas-tecnicas-208-my26-style.pdf"
+    },
+    {
+      "id": "db3f271a2fc27af3",
+      "marca": "Peugeot",
+      "modelo": "208MY26  digital",
+      "type": "catalog",
+      "richnessScore": 4,
+      "url": "https://www.peugeot.com.br/content/dam/peugeot/catalogos/208MY26_Catalogo-digital.pdf"
+    },
+    {
+      "id": "43acbd272b7feed1",
+      "marca": "BMW",
+      "modelo": "manual basico de seguranca no transito bmw",
+      "type": "catalog",
+      "richnessScore": 4,
+      "url": "https://www.bmw.com.br/content/dam/bmw/marketBR/bmw_com_br/Documents/manual-basico-de-seguranca-no-transito_bmw.pdf"
+    },
+    {
+      "id": "12a6f35923057089",
+      "marca": "Volvo",
+      "modelo": "2024 10 18 Manal Basico de Seguranca no Transito ONSV Versao Final",
+      "type": "catalog",
+      "richnessScore": 4,
+      "url": "https://www.volvocars.com/images/cs/v3/assets/blt84e01a6904dbd2e8/bltf321cc0da5ae7b73/678039ac3246b0549ae1705b/2024-10-18-Manal-Basico-de-Seguranca-no-Transito-ONSV-Versao-Final.pdf?branch=prod_alias"
+    },
+    {
+      "id": "7987c8f8778e3c6c",
+      "marca": "Land Rover",
+      "modelo": "Manal Basico de Seguranca no Transito ONSV",
+      "type": "catalog",
+      "richnessScore": 4,
+      "url": "https://www.landrover.com.br/content/dam/lrdx/pdfs/br/Manal-Basico-de-Seguranca-no-Transito-ONSV.pdf"
+    },
+    {
+      "id": "d7fc3d249cc6652f",
+      "marca": "BMW",
+      "modelo": "relatorio igualdade salarial lote 2026 1 882430001156 bmw br",
+      "type": "catalog",
+      "richnessScore": 0,
+      "url": "https://www.bmw.com.br/content/dam/bmw/marketBR/bmw_com_br/Documents/relatorio_igualdade_salarial_lote_2026_1_882430001156_bmw_br.pdf.asset.1778683002143.pdf"
+    }
+  ],
+  "familias_sem_pdf": [
+    {
+      "familiaKey": "volvo|fh",
+      "marca": "VOLVO",
+      "modeloFamilia": "fh",
+      "totalVeiculos": 824
+    },
+    {
+      "familiaKey": "scania|r",
+      "marca": "SCANIA",
+      "modeloFamilia": "r",
+      "totalVeiculos": 734
+    },
+    {
+      "familiaKey": "ford|cargo",
+      "marca": "FORD",
+      "modeloFamilia": "cargo",
+      "totalVeiculos": 728
+    },
+    {
+      "familiaKey": "mercedes-benz|l",
+      "marca": "MERCEDES-BENZ",
+      "modeloFamilia": "l",
+      "totalVeiculos": 704
+    },
+    {
+      "familiaKey": "marcopolo|volare",
+      "marca": "MARCOPOLO",
+      "modeloFamilia": "volare",
+      "totalVeiculos": 686
+    },
+    {
+      "familiaKey": "ford|f",
+      "marca": "FORD",
+      "modeloFamilia": "f",
+      "totalVeiculos": 649
+    },
+    {
+      "familiaKey": "mercedes-benz|sprinter",
+      "marca": "Mercedes-Benz",
+      "modeloFamilia": "sprinter",
+      "totalVeiculos": 610
+    },
+    {
+      "familiaKey": "scania|p",
+      "marca": "SCANIA",
+      "modeloFamilia": "p",
+      "totalVeiculos": 574
+    },
+    {
+      "familiaKey": "volkswagen|gol",
+      "marca": "VW - VolksWagen",
+      "modeloFamilia": "gol",
+      "totalVeiculos": 498
+    },
+    {
+      "familiaKey": "ford|ranger",
+      "marca": "Ford",
+      "modeloFamilia": "ranger",
+      "totalVeiculos": 477
+    },
+    {
+      "familiaKey": "iveco|daily",
+      "marca": "IVECO",
+      "modeloFamilia": "daily",
+      "totalVeiculos": 472
+    },
+    {
+      "familiaKey": "chevrolet|s10",
+      "marca": "GM - Chevrolet",
+      "modeloFamilia": "s10",
+      "totalVeiculos": 450
+    },
+    {
+      "familiaKey": "fiat|palio",
+      "marca": "Fiat",
+      "modeloFamilia": "palio",
+      "totalVeiculos": 425
+    },
+    {
+      "familiaKey": "toyota|hilux",
+      "marca": "Toyota",
+      "modeloFamilia": "hilux",
+      "totalVeiculos": 419
+    },
+    {
+      "familiaKey": "scania|g",
+      "marca": "SCANIA",
+      "modeloFamilia": "g",
+      "totalVeiculos": 382
+    },
+    {
+      "familiaKey": "mitsubishi|pajero",
+      "marca": "Mitsubishi",
+      "modeloFamilia": "pajero",
+      "totalVeiculos": 345
+    },
+    {
+      "familiaKey": "porsche|911",
+      "marca": "Porsche",
+      "modeloFamilia": "911",
+      "totalVeiculos": 345
+    },
+    {
+      "familiaKey": "land-rover|range",
+      "marca": "Land Rover",
+      "modeloFamilia": "range",
+      "totalVeiculos": 336
+    },
+    {
+      "familiaKey": "mercedes-benz|atego",
+      "marca": "MERCEDES-BENZ",
+      "modeloFamilia": "atego",
+      "totalVeiculos": 324
+    },
+    {
+      "familiaKey": "mercedes-benz|axor",
+      "marca": "MERCEDES-BENZ",
+      "modeloFamilia": "axor",
+      "totalVeiculos": 324
+    }
+  ]
+}

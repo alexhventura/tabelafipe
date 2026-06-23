@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "calibro-1",
+  "canonicalPath": "/geracao/motomorini/calibro-1/",
+  "titulo": "Geracao calibro-1",
+  "descricao": "2 veiculos da geracao calibro-1.",
+  "seo": {
+    "title": "Geracao calibro-1 - Precos FIPE",
+    "description": "Veiculos da geracao calibro-1 na Tabela FIPE.",
+    "h1": "Geracao calibro-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/motomorini/calibro-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "motomorini-calibro-bagger-700-0-gasolina",
+      "fipeCodigo": "899007-7",
+      "displayName": "MOTOMORINI CALIBRO BAGGER 700",
+      "valorAtual": 57504,
+      "canonicalPath": "/fipe/motomorini/calibro-bagger-700-0-899007-7/",
+      "ano": 0,
+      "marca": "MOTOMORINI"
+    },
+    {
+      "vehicleId": "motomorini-calibro-custom-700-0-gasolina",
+      "fipeCodigo": "899006-9",
+      "displayName": "MOTOMORINI CALIBRO CUSTOM 700",
+      "valorAtual": 51476,
+      "canonicalPath": "/fipe/motomorini/calibro-custom-700-0-899006-9/",
+      "ano": 0,
+      "marca": "MOTOMORINI"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "calibro-1"
+  }
+}

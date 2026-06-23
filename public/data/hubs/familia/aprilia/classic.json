@@ -1,0 +1,52 @@
+{
+  "tipo": "familia",
+  "slug": "classic",
+  "canonicalPath": "/fipe/aprilia/classic/",
+  "titulo": "APRILIA classic - Tabela FIPE",
+  "descricao": "3 versoes e anos do APRILIA classic na Tabela FIPE.",
+  "seo": {
+    "title": "APRILIA classic - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes APRILIA classic. 3 veiculos indexados.",
+    "h1": "APRILIA classic - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/aprilia/classic/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "aprilia-classic-50cc-2000-gasolina",
+      "fipeCodigo": "802002-7",
+      "displayName": "APRILIA CLASSIC 50cc",
+      "valorAtual": 3032,
+      "canonicalPath": "/fipe/aprilia/classic-50cc-2000-802002-7/",
+      "ano": 2000,
+      "marca": "APRILIA"
+    },
+    {
+      "vehicleId": "aprilia-classic-50cc-1999-gasolina",
+      "fipeCodigo": "802002-7",
+      "displayName": "APRILIA CLASSIC 50cc",
+      "valorAtual": 2868,
+      "canonicalPath": "/fipe/aprilia/classic-50cc-1999-802002-7/",
+      "ano": 1999,
+      "marca": "APRILIA"
+    },
+    {
+      "vehicleId": "aprilia-classic-50cc-1998-gasolina",
+      "fipeCodigo": "802002-7",
+      "displayName": "APRILIA CLASSIC 50cc",
+      "valorAtual": 2721,
+      "canonicalPath": "/fipe/aprilia/classic-50cc-1998-802002-7/",
+      "ano": 1998,
+      "marca": "APRILIA"
+    }
+  ],
+  "stats": {
+    "total": 3,
+    "precoMin": 2721,
+    "precoMax": 3032,
+    "anos": [
+      2000,
+      1999,
+      1998
+    ]
+  }
+}

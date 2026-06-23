@@ -1,0 +1,66 @@
+{
+  "tipo": "geracao",
+  "slug": "an-1",
+  "canonicalPath": "/geracao/suzuki/an-1/",
+  "titulo": "Geracao an-1",
+  "descricao": "5 veiculos da geracao an-1.",
+  "seo": {
+    "title": "Geracao an-1 - Precos FIPE",
+    "description": "Veiculos da geracao an-1 na Tabela FIPE.",
+    "h1": "Geracao an-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/suzuki/an-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "suzuki-an-125-burgman-2006-gasolina",
+      "fipeCodigo": "825044-8",
+      "displayName": "SUZUKI AN 125 BURGMAN",
+      "valorAtual": 4714,
+      "canonicalPath": "/fipe/suzuki/an-125-burgman-2006-825044-8/",
+      "ano": 2006,
+      "marca": "SUZUKI"
+    },
+    {
+      "vehicleId": "suzuki-an-125-burgman-2007-gasolina",
+      "fipeCodigo": "825044-8",
+      "displayName": "SUZUKI AN 125 BURGMAN",
+      "valorAtual": 6234,
+      "canonicalPath": "/fipe/suzuki/an-125-burgman-2007-825044-8/",
+      "ano": 2007,
+      "marca": "SUZUKI"
+    },
+    {
+      "vehicleId": "suzuki-an-125-burgman-2008-gasolina",
+      "fipeCodigo": "825044-8",
+      "displayName": "SUZUKI AN 125 BURGMAN",
+      "valorAtual": 6390,
+      "canonicalPath": "/fipe/suzuki/an-125-burgman-2008-825044-8/",
+      "ano": 2008,
+      "marca": "SUZUKI"
+    },
+    {
+      "vehicleId": "suzuki-an-125-burgman-2009-gasolina",
+      "fipeCodigo": "825044-8",
+      "displayName": "SUZUKI AN 125 BURGMAN",
+      "valorAtual": 6550,
+      "canonicalPath": "/fipe/suzuki/an-125-burgman-2009-825044-8/",
+      "ano": 2009,
+      "marca": "SUZUKI"
+    },
+    {
+      "vehicleId": "suzuki-an-125-burgman-2010-gasolina",
+      "fipeCodigo": "825044-8",
+      "displayName": "SUZUKI AN 125 BURGMAN",
+      "valorAtual": 6714,
+      "canonicalPath": "/fipe/suzuki/an-125-burgman-2010-825044-8/",
+      "ano": 2010,
+      "marca": "SUZUKI"
+    }
+  ],
+  "stats": {
+    "total": 5
+  },
+  "meta": {
+    "geracaoId": "an-1"
+  }
+}

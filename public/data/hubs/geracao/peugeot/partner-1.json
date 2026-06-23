@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "partner-1",
+  "canonicalPath": "/geracao/peugeot/partner-1/",
+  "titulo": "Geracao partner-1",
+  "descricao": "2 veiculos da geracao partner-1.",
+  "seo": {
+    "title": "Geracao partner-1 - Precos FIPE",
+    "description": "Veiculos da geracao partner-1 na Tabela FIPE.",
+    "h1": "Geracao partner-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/peugeot/partner-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "peugeot-partner-rapid-busin-pack-1-3-flex-mec-0-flex",
+      "fipeCodigo": "024279-9",
+      "displayName": "Peugeot Partner Rapid Busin. Pack 1.3 Flex Mec.",
+      "valorAtual": 121562,
+      "canonicalPath": "/fipe/peugeot/partner-rapid-busin-pack-1-3-flex-mec-0-024279-9/",
+      "ano": 0,
+      "marca": "Peugeot"
+    },
+    {
+      "vehicleId": "peugeot-partner-rapid-busin-pack-1-4-flex-mec-0-flex",
+      "fipeCodigo": "024263-2",
+      "displayName": "Peugeot Partner Rapid Busin. Pack 1.4 Flex Mec.",
+      "valorAtual": 110672,
+      "canonicalPath": "/fipe/peugeot/partner-rapid-busin-pack-1-4-flex-mec-0-024263-2/",
+      "ano": 0,
+      "marca": "Peugeot"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "partner-1"
+  }
+}

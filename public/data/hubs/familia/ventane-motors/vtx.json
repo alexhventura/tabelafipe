@@ -1,0 +1,42 @@
+{
+  "tipo": "familia",
+  "slug": "vtx",
+  "canonicalPath": "/fipe/ventane-motors/vtx/",
+  "titulo": "Ventane Motors vtx - Tabela FIPE",
+  "descricao": "2 versoes e anos do Ventane Motors vtx na Tabela FIPE.",
+  "seo": {
+    "title": "Ventane Motors vtx - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes Ventane Motors vtx. 2 veiculos indexados.",
+    "h1": "Ventane Motors vtx - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/ventane-motors/vtx/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "ventane-motors-vtx-3000w-eletrica-2023-eletrico",
+      "fipeCodigo": "896001-1",
+      "displayName": "Ventane Motors VTX 3000W (Elétrica)",
+      "valorAtual": 13016,
+      "canonicalPath": "/fipe/ventane-motors/vtx-3000w-eletrica-2023-896001-1/",
+      "ano": 2023,
+      "marca": "Ventane Motors"
+    },
+    {
+      "vehicleId": "ventane-motors-vtx-3000w-eletrica-0-eletrico",
+      "fipeCodigo": "896001-1",
+      "displayName": "Ventane Motors VTX 3000W (Elétrica)",
+      "valorAtual": 16500,
+      "canonicalPath": "/fipe/ventane-motors/vtx-3000w-eletrica-0-896001-1/",
+      "ano": 0,
+      "marca": "Ventane Motors"
+    }
+  ],
+  "stats": {
+    "total": 2,
+    "precoMin": 13016,
+    "precoMax": 16500,
+    "anos": [
+      2023,
+      0
+    ]
+  }
+}

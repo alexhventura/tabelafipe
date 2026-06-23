@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "buxy-1",
+  "canonicalPath": "/geracao/peugeot/buxy-1/",
+  "titulo": "Geracao buxy-1",
+  "descricao": "2 veiculos da geracao buxy-1.",
+  "seo": {
+    "title": "Geracao buxy-1 - Precos FIPE",
+    "description": "Veiculos da geracao buxy-1 na Tabela FIPE.",
+    "h1": "Geracao buxy-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/peugeot/buxy-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "peugeot-buxy-50-1997-gasolina",
+      "fipeCodigo": "821001-2",
+      "displayName": "PEUGEOT BUXY 50",
+      "valorAtual": 1152,
+      "canonicalPath": "/fipe/peugeot/buxy-50-1997-821001-2/",
+      "ano": 1997,
+      "marca": "PEUGEOT"
+    },
+    {
+      "vehicleId": "peugeot-buxy-50-1998-gasolina",
+      "fipeCodigo": "821001-2",
+      "displayName": "PEUGEOT BUXY 50",
+      "valorAtual": 1378,
+      "canonicalPath": "/fipe/peugeot/buxy-50-1998-821001-2/",
+      "ano": 1998,
+      "marca": "PEUGEOT"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "buxy-1"
+  }
+}

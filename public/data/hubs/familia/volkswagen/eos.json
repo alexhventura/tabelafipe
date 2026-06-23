@@ -1,0 +1,72 @@
+{
+  "tipo": "familia",
+  "slug": "eos",
+  "canonicalPath": "/fipe/volkswagen/eos/",
+  "titulo": "VW - VolksWagen eos - Tabela FIPE",
+  "descricao": "5 versoes e anos do VW - VolksWagen eos na Tabela FIPE.",
+  "seo": {
+    "title": "VW - VolksWagen eos - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes VW - VolksWagen eos. 5 veiculos indexados.",
+    "h1": "VW - VolksWagen eos - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/volkswagen/eos/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "volkswagen-eos-cab-2-0-turbo-fsi-tiptronic-2012-gasolina",
+      "fipeCodigo": "005287-6",
+      "displayName": "VW - VolksWagen EOS Cab. 2.0 Turbo FSI Tiptronic",
+      "valorAtual": 145515,
+      "canonicalPath": "/fipe/volkswagen/eos-cab-2-0-turbo-fsi-tiptronic-2012-005287-6/",
+      "ano": 2012,
+      "marca": "VW - VolksWagen"
+    },
+    {
+      "vehicleId": "volkswagen-eos-cab-2-0-turbo-fsi-tiptronic-2011-gasolina",
+      "fipeCodigo": "005287-6",
+      "displayName": "VW - VolksWagen EOS Cab. 2.0 Turbo FSI Tiptronic",
+      "valorAtual": 141965,
+      "canonicalPath": "/fipe/volkswagen/eos-cab-2-0-turbo-fsi-tiptronic-2011-005287-6/",
+      "ano": 2011,
+      "marca": "VW - VolksWagen"
+    },
+    {
+      "vehicleId": "volkswagen-eos-cab-2-0-turbo-fsi-tiptronic-2010-gasolina",
+      "fipeCodigo": "005287-6",
+      "displayName": "VW - VolksWagen EOS Cab. 2.0 Turbo FSI Tiptronic",
+      "valorAtual": 138502,
+      "canonicalPath": "/fipe/volkswagen/eos-cab-2-0-turbo-fsi-tiptronic-2010-005287-6/",
+      "ano": 2010,
+      "marca": "VW - VolksWagen"
+    },
+    {
+      "vehicleId": "volkswagen-eos-cab-2-0-turbo-fsi-tiptronic-2009-gasolina",
+      "fipeCodigo": "005287-6",
+      "displayName": "VW - VolksWagen EOS Cab. 2.0 Turbo FSI Tiptronic",
+      "valorAtual": 135020,
+      "canonicalPath": "/fipe/volkswagen/eos-cab-2-0-turbo-fsi-tiptronic-2009-005287-6/",
+      "ano": 2009,
+      "marca": "VW - VolksWagen"
+    },
+    {
+      "vehicleId": "volkswagen-eos-cab-2-0-turbo-fsi-tiptronic-2008-gasolina",
+      "fipeCodigo": "005287-6",
+      "displayName": "VW - VolksWagen EOS Cab. 2.0 Turbo FSI Tiptronic",
+      "valorAtual": 131726,
+      "canonicalPath": "/fipe/volkswagen/eos-cab-2-0-turbo-fsi-tiptronic-2008-005287-6/",
+      "ano": 2008,
+      "marca": "VW - VolksWagen"
+    }
+  ],
+  "stats": {
+    "total": 5,
+    "precoMin": 131726,
+    "precoMax": 145515,
+    "anos": [
+      2012,
+      2011,
+      2010,
+      2009,
+      2008
+    ]
+  }
+}

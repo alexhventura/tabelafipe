@@ -1,0 +1,111 @@
+{
+  "tipo": "geracao",
+  "slug": "am-1",
+  "canonicalPath": "/geracao/asia-motors/am-1/",
+  "titulo": "Geracao am-1",
+  "descricao": "10 veiculos da geracao am-1.",
+  "seo": {
+    "title": "Geracao am-1 - Precos FIPE",
+    "description": "Veiculos da geracao am-1 na Tabela FIPE.",
+    "h1": "Geracao am-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/asia-motors/am-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "asia-motors-am-825-luxo-4-0-diesel-1994-diesel",
+      "fipeCodigo": "007018-1",
+      "displayName": "Asia Motors AM-825 Luxo 4.0 Diesel",
+      "valorAtual": 16556,
+      "canonicalPath": "/fipe/asia-motors/am-825-luxo-4-0-diesel-1994-007018-1/",
+      "ano": 1994,
+      "marca": "Asia Motors"
+    },
+    {
+      "vehicleId": "asia-motors-am-825-luxo-4-0-diesel-1995-diesel",
+      "fipeCodigo": "007018-1",
+      "displayName": "Asia Motors AM-825 Luxo 4.0 Diesel",
+      "valorAtual": 17704,
+      "canonicalPath": "/fipe/asia-motors/am-825-luxo-4-0-diesel-1995-007018-1/",
+      "ano": 1995,
+      "marca": "Asia Motors"
+    },
+    {
+      "vehicleId": "asia-motors-am-825-luxo-4-0-diesel-1996-diesel",
+      "fipeCodigo": "007018-1",
+      "displayName": "Asia Motors AM-825 Luxo 4.0 Diesel",
+      "valorAtual": 18331,
+      "canonicalPath": "/fipe/asia-motors/am-825-luxo-4-0-diesel-1996-007018-1/",
+      "ano": 1996,
+      "marca": "Asia Motors"
+    },
+    {
+      "vehicleId": "asia-motors-am-825-luxo-4-0-diesel-1997-diesel",
+      "fipeCodigo": "007018-1",
+      "displayName": "Asia Motors AM-825 Luxo 4.0 Diesel",
+      "valorAtual": 21447,
+      "canonicalPath": "/fipe/asia-motors/am-825-luxo-4-0-diesel-1997-007018-1/",
+      "ano": 1997,
+      "marca": "Asia Motors"
+    },
+    {
+      "vehicleId": "asia-motors-am-825-luxo-4-0-diesel-1998-diesel",
+      "fipeCodigo": "007018-1",
+      "displayName": "Asia Motors AM-825 Luxo 4.0 Diesel",
+      "valorAtual": 24766,
+      "canonicalPath": "/fipe/asia-motors/am-825-luxo-4-0-diesel-1998-007018-1/",
+      "ano": 1998,
+      "marca": "Asia Motors"
+    },
+    {
+      "vehicleId": "asia-motors-am-825-super-luxo-4-0-diesel-1994-diesel",
+      "fipeCodigo": "007019-0",
+      "displayName": "Asia Motors AM-825 Super Luxo 4.0 Diesel",
+      "valorAtual": 18751,
+      "canonicalPath": "/fipe/asia-motors/am-825-super-luxo-4-0-diesel-1994-007019-0/",
+      "ano": 1994,
+      "marca": "Asia Motors"
+    },
+    {
+      "vehicleId": "asia-motors-am-825-super-luxo-4-0-diesel-1995-diesel",
+      "fipeCodigo": "007019-0",
+      "displayName": "Asia Motors AM-825 Super Luxo 4.0 Diesel",
+      "valorAtual": 19407,
+      "canonicalPath": "/fipe/asia-motors/am-825-super-luxo-4-0-diesel-1995-007019-0/",
+      "ano": 1995,
+      "marca": "Asia Motors"
+    },
+    {
+      "vehicleId": "asia-motors-am-825-super-luxo-4-0-diesel-1996-diesel",
+      "fipeCodigo": "007019-0",
+      "displayName": "Asia Motors AM-825 Super Luxo 4.0 Diesel",
+      "valorAtual": 20957,
+      "canonicalPath": "/fipe/asia-motors/am-825-super-luxo-4-0-diesel-1996-007019-0/",
+      "ano": 1996,
+      "marca": "Asia Motors"
+    },
+    {
+      "vehicleId": "asia-motors-am-825-super-luxo-4-0-diesel-1997-diesel",
+      "fipeCodigo": "007019-0",
+      "displayName": "Asia Motors AM-825 Super Luxo 4.0 Diesel",
+      "valorAtual": 24969,
+      "canonicalPath": "/fipe/asia-motors/am-825-super-luxo-4-0-diesel-1997-007019-0/",
+      "ano": 1997,
+      "marca": "Asia Motors"
+    },
+    {
+      "vehicleId": "asia-motors-am-825-super-luxo-4-0-diesel-1998-diesel",
+      "fipeCodigo": "007019-0",
+      "displayName": "Asia Motors AM-825 Super Luxo 4.0 Diesel",
+      "valorAtual": 26746,
+      "canonicalPath": "/fipe/asia-motors/am-825-super-luxo-4-0-diesel-1998-007019-0/",
+      "ano": 1998,
+      "marca": "Asia Motors"
+    }
+  ],
+  "stats": {
+    "total": 10
+  },
+  "meta": {
+    "geracaoId": "am-1"
+  }
+}

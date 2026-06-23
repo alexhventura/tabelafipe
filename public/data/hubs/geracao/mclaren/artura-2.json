@@ -1,0 +1,84 @@
+{
+  "tipo": "geracao",
+  "slug": "artura-2",
+  "canonicalPath": "/geracao/mclaren/artura-2/",
+  "titulo": "Geracao artura-2",
+  "descricao": "7 veiculos da geracao artura-2.",
+  "seo": {
+    "title": "Geracao artura-2 - Precos FIPE",
+    "description": "Veiculos da geracao artura-2 na Tabela FIPE.",
+    "h1": "Geracao artura-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/mclaren/artura-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "mclaren-artura-coupe-3-0-v6-2p-hibrido-2022-hibrido",
+      "fipeCodigo": "090011-7",
+      "displayName": "Mclaren Artura Coupe 3.0 V6 2p (Híbrido)",
+      "valorAtual": 2024666,
+      "canonicalPath": "/fipe/mclaren/artura-coupe-3-0-v6-2p-hibrido-2022-090011-7/",
+      "ano": 2022,
+      "marca": "Mclaren"
+    },
+    {
+      "vehicleId": "mclaren-artura-coupe-3-0-v6-2p-hibrido-2023-hibrido",
+      "fipeCodigo": "090011-7",
+      "displayName": "Mclaren Artura Coupe 3.0 V6 2p (Híbrido)",
+      "valorAtual": 2243042,
+      "canonicalPath": "/fipe/mclaren/artura-coupe-3-0-v6-2p-hibrido-2023-090011-7/",
+      "ano": 2023,
+      "marca": "Mclaren"
+    },
+    {
+      "vehicleId": "mclaren-artura-coupe-3-0-v6-2p-hibrido-2024-hibrido",
+      "fipeCodigo": "090011-7",
+      "displayName": "Mclaren Artura Coupe 3.0 V6 2p (Híbrido)",
+      "valorAtual": 2318300,
+      "canonicalPath": "/fipe/mclaren/artura-coupe-3-0-v6-2p-hibrido-2024-090011-7/",
+      "ano": 2024,
+      "marca": "Mclaren"
+    },
+    {
+      "vehicleId": "mclaren-artura-coupe-3-0-v6-2p-hibrido-2025-hibrido",
+      "fipeCodigo": "090011-7",
+      "displayName": "Mclaren Artura Coupe 3.0 V6 2p (Híbrido)",
+      "valorAtual": 2613840,
+      "canonicalPath": "/fipe/mclaren/artura-coupe-3-0-v6-2p-hibrido-2025-090011-7/",
+      "ano": 2025,
+      "marca": "Mclaren"
+    },
+    {
+      "vehicleId": "mclaren-artura-coupe-3-0-v6-2p-hibrido-2026-hibrido",
+      "fipeCodigo": "090011-7",
+      "displayName": "Mclaren Artura Coupe 3.0 V6 2p (Híbrido)",
+      "valorAtual": 2706300,
+      "canonicalPath": "/fipe/mclaren/artura-coupe-3-0-v6-2p-hibrido-2026-090011-7/",
+      "ano": 2026,
+      "marca": "Mclaren"
+    },
+    {
+      "vehicleId": "mclaren-artura-spider-3-0-v6-2p-hibrido-2025-hibrido",
+      "fipeCodigo": "090015-0",
+      "displayName": "Mclaren Artura Spider 3.0 V6 2p (Híbrido)",
+      "valorAtual": 2813000,
+      "canonicalPath": "/fipe/mclaren/artura-spider-3-0-v6-2p-hibrido-2025-090015-0/",
+      "ano": 2025,
+      "marca": "Mclaren"
+    },
+    {
+      "vehicleId": "mclaren-artura-spider-3-0-v6-2p-hibrido-2026-hibrido",
+      "fipeCodigo": "090015-0",
+      "displayName": "Mclaren Artura Spider 3.0 V6 2p (Híbrido)",
+      "valorAtual": 2925100,
+      "canonicalPath": "/fipe/mclaren/artura-spider-3-0-v6-2p-hibrido-2026-090015-0/",
+      "ano": 2026,
+      "marca": "Mclaren"
+    }
+  ],
+  "stats": {
+    "total": 7
+  },
+  "meta": {
+    "geracaoId": "artura-2"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "v25-1",
+  "canonicalPath": "/geracao/effa/v25-1/",
+  "titulo": "Geracao v25-1",
+  "descricao": "2 veiculos da geracao v25-1.",
+  "seo": {
+    "title": "Geracao v25-1 - Precos FIPE",
+    "description": "Veiculos da geracao v25-1 na Tabela FIPE.",
+    "h1": "Geracao v25-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/effa/v25-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "effa-v25-furgao-1-3-16v-5p-0-gasolina",
+      "fipeCodigo": "066016-7",
+      "displayName": "EFFA V25 Furgão 1.3 16V 5p",
+      "valorAtual": 114960,
+      "canonicalPath": "/fipe/effa/v25-furgao-1-3-16v-5p-0-066016-7/",
+      "ano": 0,
+      "marca": "EFFA"
+    },
+    {
+      "vehicleId": "effa-v25-furgao-1-5-16v-5p-0-gasolina",
+      "fipeCodigo": "066019-1",
+      "displayName": "EFFA V25 Furgão 1.5 16V 5p",
+      "valorAtual": 124470,
+      "canonicalPath": "/fipe/effa/v25-furgao-1-5-16v-5p-0-066019-1/",
+      "ano": 0,
+      "marca": "EFFA"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "v25-1"
+  }
+}

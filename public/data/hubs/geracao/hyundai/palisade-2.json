@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "palisade-2",
+  "canonicalPath": "/geracao/hyundai/palisade-2/",
+  "titulo": "Geracao palisade-2",
+  "descricao": "2 veiculos da geracao palisade-2.",
+  "seo": {
+    "title": "Geracao palisade-2 - Precos FIPE",
+    "description": "Veiculos da geracao palisade-2 na Tabela FIPE.",
+    "h1": "Geracao palisade-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/hyundai/palisade-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "hyundai-palisade-signature-3-8-gdi-awd-aut-2025-gasolina",
+      "fipeCodigo": "015248-0",
+      "displayName": "Hyundai PALISADE Signature 3.8 GDI AWD Aut.",
+      "valorAtual": 366172,
+      "canonicalPath": "/fipe/hyundai/palisade-signature-3-8-gdi-awd-aut-2025-015248-0/",
+      "ano": 2025,
+      "marca": "Hyundai"
+    },
+    {
+      "vehicleId": "hyundai-palisade-signature-3-8-gdi-awd-aut-2026-gasolina",
+      "fipeCodigo": "015248-0",
+      "displayName": "Hyundai PALISADE Signature 3.8 GDI AWD Aut.",
+      "valorAtual": 410924,
+      "canonicalPath": "/fipe/hyundai/palisade-signature-3-8-gdi-awd-aut-2026-015248-0/",
+      "ano": 2026,
+      "marca": "Hyundai"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "palisade-2"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "tipo": "geracao",
+  "slug": "jbr-1",
+  "canonicalPath": "/geracao/bueno/jbr-1/",
+  "titulo": "Geracao jbr-1",
+  "descricao": "3 veiculos da geracao jbr-1.",
+  "seo": {
+    "title": "Geracao jbr-1 - Precos FIPE",
+    "description": "Veiculos da geracao jbr-1 na Tabela FIPE.",
+    "h1": "Geracao jbr-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/bueno/jbr-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "bueno-jbr-125e-2009-gasolina",
+      "fipeCodigo": "866001-8",
+      "displayName": "BUENO JBr 125e",
+      "valorAtual": 2047,
+      "canonicalPath": "/fipe/bueno/jbr-125e-2009-866001-8/",
+      "ano": 2009,
+      "marca": "BUENO"
+    },
+    {
+      "vehicleId": "bueno-jbr-150e-2009-gasolina",
+      "fipeCodigo": "866002-6",
+      "displayName": "BUENO JBr 150e",
+      "valorAtual": 2096,
+      "canonicalPath": "/fipe/bueno/jbr-150e-2009-866002-6/",
+      "ano": 2009,
+      "marca": "BUENO"
+    },
+    {
+      "vehicleId": "bueno-jbr-250e-2009-gasolina",
+      "fipeCodigo": "866003-4",
+      "displayName": "BUENO JBr 250e",
+      "valorAtual": 5711,
+      "canonicalPath": "/fipe/bueno/jbr-250e-2009-866003-4/",
+      "ano": 2009,
+      "marca": "BUENO"
+    }
+  ],
+  "stats": {
+    "total": 3
+  },
+  "meta": {
+    "geracaoId": "jbr-1"
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "tipo": "geracao",
+  "slug": "formigao-1",
+  "canonicalPath": "/geracao/lerivo/formigao-1/",
+  "titulo": "Geracao formigao-1",
+  "descricao": "8 veiculos da geracao formigao-1.",
+  "seo": {
+    "title": "Geracao formigao-1 - Precos FIPE",
+    "description": "Veiculos da geracao formigao-1 na Tabela FIPE.",
+    "h1": "Geracao formigao-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/lerivo/formigao-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "lerivo-formigao-furgao-200cc-2005-gasolina",
+      "fipeCodigo": "858002-2",
+      "displayName": "LERIVO Formigão Furgão 200cc",
+      "valorAtual": 4704,
+      "canonicalPath": "/fipe/lerivo/formigao-furgao-200cc-2005-858002-2/",
+      "ano": 2005,
+      "marca": "LERIVO"
+    },
+    {
+      "vehicleId": "lerivo-formigao-furgao-200cc-2006-gasolina",
+      "fipeCodigo": "858002-2",
+      "displayName": "LERIVO Formigão Furgão 200cc",
+      "valorAtual": 5216,
+      "canonicalPath": "/fipe/lerivo/formigao-furgao-200cc-2006-858002-2/",
+      "ano": 2006,
+      "marca": "LERIVO"
+    },
+    {
+      "vehicleId": "lerivo-formigao-furgao-200cc-2007-gasolina",
+      "fipeCodigo": "858002-2",
+      "displayName": "LERIVO Formigão Furgão 200cc",
+      "valorAtual": 5719,
+      "canonicalPath": "/fipe/lerivo/formigao-furgao-200cc-2007-858002-2/",
+      "ano": 2007,
+      "marca": "LERIVO"
+    },
+    {
+      "vehicleId": "lerivo-formigao-furgao-200cc-2008-gasolina",
+      "fipeCodigo": "858002-2",
+      "displayName": "LERIVO Formigão Furgão 200cc",
+      "valorAtual": 6428,
+      "canonicalPath": "/fipe/lerivo/formigao-furgao-200cc-2008-858002-2/",
+      "ano": 2008,
+      "marca": "LERIVO"
+    },
+    {
+      "vehicleId": "lerivo-formigao-pick-up-200cc-2005-gasolina",
+      "fipeCodigo": "858001-4",
+      "displayName": "LERIVO Formigão Pick-Up 200cc",
+      "valorAtual": 4533,
+      "canonicalPath": "/fipe/lerivo/formigao-pick-up-200cc-2005-858001-4/",
+      "ano": 2005,
+      "marca": "LERIVO"
+    },
+    {
+      "vehicleId": "lerivo-formigao-pick-up-200cc-2006-gasolina",
+      "fipeCodigo": "858001-4",
+      "displayName": "LERIVO Formigão Pick-Up 200cc",
+      "valorAtual": 5011,
+      "canonicalPath": "/fipe/lerivo/formigao-pick-up-200cc-2006-858001-4/",
+      "ano": 2006,
+      "marca": "LERIVO"
+    },
+    {
+      "vehicleId": "lerivo-formigao-pick-up-200cc-2007-gasolina",
+      "fipeCodigo": "858001-4",
+      "displayName": "LERIVO Formigão Pick-Up 200cc",
+      "valorAtual": 5374,
+      "canonicalPath": "/fipe/lerivo/formigao-pick-up-200cc-2007-858001-4/",
+      "ano": 2007,
+      "marca": "LERIVO"
+    },
+    {
+      "vehicleId": "lerivo-formigao-pick-up-200cc-2008-gasolina",
+      "fipeCodigo": "858001-4",
+      "displayName": "LERIVO Formigão Pick-Up 200cc",
+      "valorAtual": 5639,
+      "canonicalPath": "/fipe/lerivo/formigao-pick-up-200cc-2008-858001-4/",
+      "ano": 2008,
+      "marca": "LERIVO"
+    }
+  ],
+  "stats": {
+    "total": 8
+  },
+  "meta": {
+    "geracaoId": "formigao-1"
+  }
+}

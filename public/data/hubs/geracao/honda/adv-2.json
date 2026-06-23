@@ -1,0 +1,75 @@
+{
+  "tipo": "geracao",
+  "slug": "adv-2",
+  "canonicalPath": "/geracao/honda/adv-2/",
+  "titulo": "Geracao adv-2",
+  "descricao": "6 veiculos da geracao adv-2.",
+  "seo": {
+    "title": "Geracao adv-2 - Precos FIPE",
+    "description": "Veiculos da geracao adv-2 na Tabela FIPE.",
+    "h1": "Geracao adv-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/honda/adv-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "honda-adv-150-2021-gasolina",
+      "fipeCodigo": "811165-0",
+      "displayName": "HONDA ADV 150",
+      "valorAtual": 20793,
+      "canonicalPath": "/fipe/honda/adv-150-2021-811165-0/",
+      "ano": 2021,
+      "marca": "HONDA"
+    },
+    {
+      "vehicleId": "honda-adv-150-2022-gasolina",
+      "fipeCodigo": "811165-0",
+      "displayName": "HONDA ADV 150",
+      "valorAtual": 21413,
+      "canonicalPath": "/fipe/honda/adv-150-2022-811165-0/",
+      "ano": 2022,
+      "marca": "HONDA"
+    },
+    {
+      "vehicleId": "honda-adv-150-2023-gasolina",
+      "fipeCodigo": "811165-0",
+      "displayName": "HONDA ADV 150",
+      "valorAtual": 21996,
+      "canonicalPath": "/fipe/honda/adv-150-2023-811165-0/",
+      "ano": 2023,
+      "marca": "HONDA"
+    },
+    {
+      "vehicleId": "honda-adv-150-2024-gasolina",
+      "fipeCodigo": "811165-0",
+      "displayName": "HONDA ADV 150",
+      "valorAtual": 23131,
+      "canonicalPath": "/fipe/honda/adv-150-2024-811165-0/",
+      "ano": 2024,
+      "marca": "HONDA"
+    },
+    {
+      "vehicleId": "honda-adv-160-2025-gasolina",
+      "fipeCodigo": "811186-3",
+      "displayName": "HONDA ADV 160",
+      "valorAtual": 25016,
+      "canonicalPath": "/fipe/honda/adv-160-2025-811186-3/",
+      "ano": 2025,
+      "marca": "HONDA"
+    },
+    {
+      "vehicleId": "honda-adv-160-2026-gasolina",
+      "fipeCodigo": "811186-3",
+      "displayName": "HONDA ADV 160",
+      "valorAtual": 26980,
+      "canonicalPath": "/fipe/honda/adv-160-2026-811186-3/",
+      "ano": 2026,
+      "marca": "HONDA"
+    }
+  ],
+  "stats": {
+    "total": 6
+  },
+  "meta": {
+    "geracaoId": "adv-2"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "aceman-1",
+  "canonicalPath": "/geracao/mini/aceman-1/",
+  "titulo": "Geracao aceman-1",
+  "descricao": "2 veiculos da geracao aceman-1.",
+  "seo": {
+    "title": "Geracao aceman-1 - Precos FIPE",
+    "description": "Veiculos da geracao aceman-1 na Tabela FIPE.",
+    "h1": "Geracao aceman-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/mini/aceman-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "mini-aceman-e-eletrico-0-eletrico",
+      "fipeCodigo": "071062-8",
+      "displayName": "MINI Aceman E (Elétrico)",
+      "valorAtual": 275990,
+      "canonicalPath": "/fipe/mini/aceman-e-eletrico-0-071062-8/",
+      "ano": 0,
+      "marca": "MINI"
+    },
+    {
+      "vehicleId": "mini-aceman-se-eletrico-0-eletrico",
+      "fipeCodigo": "071063-6",
+      "displayName": "MINI Aceman SE (Elétrico)",
+      "valorAtual": 325858,
+      "canonicalPath": "/fipe/mini/aceman-se-eletrico-0-071063-6/",
+      "ano": 0,
+      "marca": "MINI"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "aceman-1"
+  }
+}

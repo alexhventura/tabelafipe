@@ -1,0 +1,48 @@
+{
+  "tipo": "geracao",
+  "slug": "trident-1",
+  "canonicalPath": "/geracao/triumph/trident-1/",
+  "titulo": "Geracao trident-1",
+  "descricao": "3 veiculos da geracao trident-1.",
+  "seo": {
+    "title": "Geracao trident-1 - Precos FIPE",
+    "description": "Veiculos da geracao trident-1 na Tabela FIPE.",
+    "h1": "Geracao trident-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/triumph/trident-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "triumph-trident-660-0-gasolina",
+      "fipeCodigo": "826081-8",
+      "displayName": "TRIUMPH TRIDENT 660",
+      "valorAtual": 56421,
+      "canonicalPath": "/fipe/triumph/trident-660-0-826081-8/",
+      "ano": 0,
+      "marca": "TRIUMPH"
+    },
+    {
+      "vehicleId": "triumph-trident-660-triple-tribute-0-gasolina",
+      "fipeCodigo": "826100-8",
+      "displayName": "TRIUMPH TRIDENT 660 TRIPLE TRIBUTE",
+      "valorAtual": 52460,
+      "canonicalPath": "/fipe/triumph/trident-660-triple-tribute-0-826100-8/",
+      "ano": 0,
+      "marca": "TRIUMPH"
+    },
+    {
+      "vehicleId": "triumph-trident-800-0-gasolina",
+      "fipeCodigo": "826119-9",
+      "displayName": "TRIUMPH TRIDENT 800",
+      "valorAtual": 62499,
+      "canonicalPath": "/fipe/triumph/trident-800-0-826119-9/",
+      "ano": 0,
+      "marca": "TRIUMPH"
+    }
+  ],
+  "stats": {
+    "total": 3
+  },
+  "meta": {
+    "geracaoId": "trident-1"
+  }
+}

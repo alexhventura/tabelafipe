@@ -1,0 +1,62 @@
+{
+  "tipo": "familia",
+  "slug": "retro",
+  "canonicalPath": "/fipe/shineray/retro/",
+  "titulo": "SHINERAY retro - Tabela FIPE",
+  "descricao": "4 versoes e anos do SHINERAY retro na Tabela FIPE.",
+  "seo": {
+    "title": "SHINERAY retro - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes SHINERAY retro. 4 veiculos indexados.",
+    "h1": "SHINERAY retro - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/shineray/retro/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "shineray-retro-ex-50-2020-gasolina",
+      "fipeCodigo": "850024-0",
+      "displayName": "SHINERAY RETRO EX 50",
+      "valorAtual": 5744,
+      "canonicalPath": "/fipe/shineray/retro-ex-50-2020-850024-0/",
+      "ano": 2020,
+      "marca": "SHINERAY"
+    },
+    {
+      "vehicleId": "shineray-retro-ex-50-2019-gasolina",
+      "fipeCodigo": "850024-0",
+      "displayName": "SHINERAY RETRO EX 50",
+      "valorAtual": 5220,
+      "canonicalPath": "/fipe/shineray/retro-ex-50-2019-850024-0/",
+      "ano": 2019,
+      "marca": "SHINERAY"
+    },
+    {
+      "vehicleId": "shineray-retro-ex-50-2018-gasolina",
+      "fipeCodigo": "850024-0",
+      "displayName": "SHINERAY RETRO EX 50",
+      "valorAtual": 4952,
+      "canonicalPath": "/fipe/shineray/retro-ex-50-2018-850024-0/",
+      "ano": 2018,
+      "marca": "SHINERAY"
+    },
+    {
+      "vehicleId": "shineray-retro-ex-50-2017-gasolina",
+      "fipeCodigo": "850024-0",
+      "displayName": "SHINERAY RETRO EX 50",
+      "valorAtual": 4392,
+      "canonicalPath": "/fipe/shineray/retro-ex-50-2017-850024-0/",
+      "ano": 2017,
+      "marca": "SHINERAY"
+    }
+  ],
+  "stats": {
+    "total": 4,
+    "precoMin": 4392,
+    "precoMax": 5744,
+    "anos": [
+      2020,
+      2019,
+      2018,
+      2017
+    ]
+  }
+}

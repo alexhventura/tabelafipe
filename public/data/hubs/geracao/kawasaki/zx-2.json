@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "zx-2",
+  "canonicalPath": "/geracao/kawasaki/zx-2/",
+  "titulo": "Geracao zx-2",
+  "descricao": "2 veiculos da geracao zx-2.",
+  "seo": {
+    "title": "Geracao zx-2 - Precos FIPE",
+    "description": "Veiculos da geracao zx-2 na Tabela FIPE.",
+    "h1": "Geracao zx-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/kawasaki/zx-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "kawasaki-zx-14-zx-14r-1352cc-2010-gasolina",
+      "fipeCodigo": "817040-1",
+      "displayName": "KAWASAKI ZX-14/ZX 14R 1352cc",
+      "valorAtual": 40082,
+      "canonicalPath": "/fipe/kawasaki/zx-14-zx-14r-1352cc-2010-817040-1/",
+      "ano": 2010,
+      "marca": "KAWASAKI"
+    },
+    {
+      "vehicleId": "kawasaki-zx-14-zx-14r-1352cc-2011-gasolina",
+      "fipeCodigo": "817040-1",
+      "displayName": "KAWASAKI ZX-14/ZX 14R 1352cc",
+      "valorAtual": 41085,
+      "canonicalPath": "/fipe/kawasaki/zx-14-zx-14r-1352cc-2011-817040-1/",
+      "ano": 2011,
+      "marca": "KAWASAKI"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "zx-2"
+  }
+}

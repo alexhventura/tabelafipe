@@ -1,0 +1,75 @@
+{
+  "tipo": "geracao",
+  "slug": "deuce-1",
+  "canonicalPath": "/geracao/harley-davidson/deuce-1/",
+  "titulo": "Geracao deuce-1",
+  "descricao": "6 veiculos da geracao deuce-1.",
+  "seo": {
+    "title": "Geracao deuce-1 - Precos FIPE",
+    "description": "Veiculos da geracao deuce-1 na Tabela FIPE.",
+    "h1": "Geracao deuce-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/harley-davidson/deuce-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "harley-davidson-deuce-2000-gasolina",
+      "fipeCodigo": "810032-2",
+      "displayName": "HARLEY-DAVIDSON DEUCE",
+      "valorAtual": 40967,
+      "canonicalPath": "/fipe/harley-davidson/deuce-2000-810032-2/",
+      "ano": 2000,
+      "marca": "HARLEY-DAVIDSON"
+    },
+    {
+      "vehicleId": "harley-davidson-deuce-2001-gasolina",
+      "fipeCodigo": "810032-2",
+      "displayName": "HARLEY-DAVIDSON DEUCE",
+      "valorAtual": 44067,
+      "canonicalPath": "/fipe/harley-davidson/deuce-2001-810032-2/",
+      "ano": 2001,
+      "marca": "HARLEY-DAVIDSON"
+    },
+    {
+      "vehicleId": "harley-davidson-deuce-2002-gasolina",
+      "fipeCodigo": "810032-2",
+      "displayName": "HARLEY-DAVIDSON DEUCE",
+      "valorAtual": 45169,
+      "canonicalPath": "/fipe/harley-davidson/deuce-2002-810032-2/",
+      "ano": 2002,
+      "marca": "HARLEY-DAVIDSON"
+    },
+    {
+      "vehicleId": "harley-davidson-deuce-2003-gasolina",
+      "fipeCodigo": "810032-2",
+      "displayName": "HARLEY-DAVIDSON DEUCE",
+      "valorAtual": 46299,
+      "canonicalPath": "/fipe/harley-davidson/deuce-2003-810032-2/",
+      "ano": 2003,
+      "marca": "HARLEY-DAVIDSON"
+    },
+    {
+      "vehicleId": "harley-davidson-deuce-2004-gasolina",
+      "fipeCodigo": "810032-2",
+      "displayName": "HARLEY-DAVIDSON DEUCE",
+      "valorAtual": 47457,
+      "canonicalPath": "/fipe/harley-davidson/deuce-2004-810032-2/",
+      "ano": 2004,
+      "marca": "HARLEY-DAVIDSON"
+    },
+    {
+      "vehicleId": "harley-davidson-deuce-2005-gasolina",
+      "fipeCodigo": "810032-2",
+      "displayName": "HARLEY-DAVIDSON DEUCE",
+      "valorAtual": 48644,
+      "canonicalPath": "/fipe/harley-davidson/deuce-2005-810032-2/",
+      "ano": 2005,
+      "marca": "HARLEY-DAVIDSON"
+    }
+  ],
+  "stats": {
+    "total": 6
+  },
+  "meta": {
+    "geracaoId": "deuce-1"
+  }
+}

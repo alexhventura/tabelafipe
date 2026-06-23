@@ -1,0 +1,57 @@
+{
+  "tipo": "geracao",
+  "slug": "panamera-1",
+  "canonicalPath": "/geracao/porsche/panamera-1/",
+  "titulo": "Geracao panamera-1",
+  "descricao": "4 veiculos da geracao panamera-1.",
+  "seo": {
+    "title": "Geracao panamera-1 - Precos FIPE",
+    "description": "Veiculos da geracao panamera-1 na Tabela FIPE.",
+    "h1": "Geracao panamera-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/porsche/panamera-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "porsche-panamera-4-2-9-hibrido-0-hibrido",
+      "fipeCodigo": "035098-2",
+      "displayName": "Porsche Panamera 4 2.9 (Híbrido)",
+      "valorAtual": 1125000,
+      "canonicalPath": "/fipe/porsche/panamera-4-2-9-hibrido-0-035098-2/",
+      "ano": 0,
+      "marca": "Porsche"
+    },
+    {
+      "vehicleId": "porsche-panamera-4s-2-9-560cv-hibrido-0-hibrido",
+      "fipeCodigo": "035131-8",
+      "displayName": "Porsche Panamera 4S 2.9 560cv (Híbrido)",
+      "valorAtual": 1275000,
+      "canonicalPath": "/fipe/porsche/panamera-4s-2-9-560cv-hibrido-0-035131-8/",
+      "ano": 0,
+      "marca": "Porsche"
+    },
+    {
+      "vehicleId": "porsche-panamera-turbo-4-0-hibrido-0-hibrido",
+      "fipeCodigo": "035167-9",
+      "displayName": "Porsche Panamera Turbo 4.0 (Híbrido)",
+      "valorAtual": 1875000,
+      "canonicalPath": "/fipe/porsche/panamera-turbo-4-0-hibrido-0-035167-9/",
+      "ano": 0,
+      "marca": "Porsche"
+    },
+    {
+      "vehicleId": "porsche-panamera-turbo-s-4-0-hibrido-0-hibrido",
+      "fipeCodigo": "035100-8",
+      "displayName": "Porsche Panamera Turbo S 4.0 (Híbrido)",
+      "valorAtual": 1935000,
+      "canonicalPath": "/fipe/porsche/panamera-turbo-s-4-0-hibrido-0-035100-8/",
+      "ano": 0,
+      "marca": "Porsche"
+    }
+  ],
+  "stats": {
+    "total": 4
+  },
+  "meta": {
+    "geracaoId": "panamera-1"
+  }
+}

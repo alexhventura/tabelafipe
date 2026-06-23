@@ -1,0 +1,42 @@
+{
+  "tipo": "familia",
+  "slug": "avenger",
+  "canonicalPath": "/fipe/dodge/avenger/",
+  "titulo": "Dodge avenger - Tabela FIPE",
+  "descricao": "2 versoes e anos do Dodge avenger na Tabela FIPE.",
+  "seo": {
+    "title": "Dodge avenger - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes Dodge avenger. 2 veiculos indexados.",
+    "h1": "Dodge avenger - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/dodge/avenger/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "dodge-avenger-es-2-0-2-5-16v-1995-gasolina",
+      "fipeCodigo": "013010-9",
+      "displayName": "Dodge Avenger ES 2.0/2.5 16V",
+      "valorAtual": 10206,
+      "canonicalPath": "/fipe/dodge/avenger-es-2-0-2-5-16v-1995-013010-9/",
+      "ano": 1995,
+      "marca": "Dodge"
+    },
+    {
+      "vehicleId": "dodge-avenger-es-2-0-2-5-16v-1994-gasolina",
+      "fipeCodigo": "013010-9",
+      "displayName": "Dodge Avenger ES 2.0/2.5 16V",
+      "valorAtual": 9386,
+      "canonicalPath": "/fipe/dodge/avenger-es-2-0-2-5-16v-1994-013010-9/",
+      "ano": 1994,
+      "marca": "Dodge"
+    }
+  ],
+  "stats": {
+    "total": 2,
+    "precoMin": 9386,
+    "precoMax": 10206,
+    "anos": [
+      1995,
+      1994
+    ]
+  }
+}

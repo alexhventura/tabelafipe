@@ -1,0 +1,66 @@
+{
+  "tipo": "geracao",
+  "slug": "seta-1",
+  "canonicalPath": "/geracao/kasinski/seta-1/",
+  "titulo": "Geracao seta-1",
+  "descricao": "5 veiculos da geracao seta-1.",
+  "seo": {
+    "title": "Geracao seta-1 - Precos FIPE",
+    "description": "Veiculos da geracao seta-1 na Tabela FIPE.",
+    "h1": "Geracao seta-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/kasinski/seta-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "kasinski-seta-125-2007-gasolina",
+      "fipeCodigo": "816022-8",
+      "displayName": "KASINSKI SETA 125",
+      "valorAtual": 1948,
+      "canonicalPath": "/fipe/kasinski/seta-125-2007-816022-8/",
+      "ano": 2007,
+      "marca": "KASINSKI"
+    },
+    {
+      "vehicleId": "kasinski-seta-125-2008-gasolina",
+      "fipeCodigo": "816022-8",
+      "displayName": "KASINSKI SETA 125",
+      "valorAtual": 2106,
+      "canonicalPath": "/fipe/kasinski/seta-125-2008-816022-8/",
+      "ano": 2008,
+      "marca": "KASINSKI"
+    },
+    {
+      "vehicleId": "kasinski-seta-125-2009-gasolina",
+      "fipeCodigo": "816022-8",
+      "displayName": "KASINSKI SETA 125",
+      "valorAtual": 2331,
+      "canonicalPath": "/fipe/kasinski/seta-125-2009-816022-8/",
+      "ano": 2009,
+      "marca": "KASINSKI"
+    },
+    {
+      "vehicleId": "kasinski-seta-150-2008-gasolina",
+      "fipeCodigo": "816025-2",
+      "displayName": "KASINSKI SETA 150",
+      "valorAtual": 2226,
+      "canonicalPath": "/fipe/kasinski/seta-150-2008-816025-2/",
+      "ano": 2008,
+      "marca": "KASINSKI"
+    },
+    {
+      "vehicleId": "kasinski-seta-150-2009-gasolina",
+      "fipeCodigo": "816025-2",
+      "displayName": "KASINSKI SETA 150",
+      "valorAtual": 2487,
+      "canonicalPath": "/fipe/kasinski/seta-150-2009-816025-2/",
+      "ano": 2009,
+      "marca": "KASINSKI"
+    }
+  ],
+  "stats": {
+    "total": 5
+  },
+  "meta": {
+    "geracaoId": "seta-1"
+  }
+}

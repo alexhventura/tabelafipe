@@ -1,0 +1,42 @@
+{
+  "tipo": "familia",
+  "slug": "genesis",
+  "canonicalPath": "/fipe/hyundai/genesis/",
+  "titulo": "Hyundai genesis - Tabela FIPE",
+  "descricao": "2 versoes e anos do Hyundai genesis na Tabela FIPE.",
+  "seo": {
+    "title": "Hyundai genesis - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes Hyundai genesis. 2 veiculos indexados.",
+    "h1": "Hyundai genesis - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/hyundai/genesis/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "hyundai-genesis-3-8-v6-24v-290cv-4p-aut-2013-gasolina",
+      "fipeCodigo": "015084-3",
+      "displayName": "Hyundai GENESIS 3.8 V6 24V 290cv 4p Aut.",
+      "valorAtual": 84953,
+      "canonicalPath": "/fipe/hyundai/genesis-3-8-v6-24v-290cv-4p-aut-2013-015084-3/",
+      "ano": 2013,
+      "marca": "Hyundai"
+    },
+    {
+      "vehicleId": "hyundai-genesis-3-8-v6-24v-290cv-4p-aut-2012-gasolina",
+      "fipeCodigo": "015084-3",
+      "displayName": "Hyundai GENESIS 3.8 V6 24V 290cv 4p Aut.",
+      "valorAtual": 68076,
+      "canonicalPath": "/fipe/hyundai/genesis-3-8-v6-24v-290cv-4p-aut-2012-015084-3/",
+      "ano": 2012,
+      "marca": "Hyundai"
+    }
+  ],
+  "stats": {
+    "total": 2,
+    "precoMin": 68076,
+    "precoMax": 84953,
+    "anos": [
+      2013,
+      2012
+    ]
+  }
+}

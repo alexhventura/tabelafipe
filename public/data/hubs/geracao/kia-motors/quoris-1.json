@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "quoris-1",
+  "canonicalPath": "/geracao/kia-motors/quoris-1/",
+  "titulo": "Geracao quoris-1",
+  "descricao": "2 veiculos da geracao quoris-1.",
+  "seo": {
+    "title": "Geracao quoris-1 - Precos FIPE",
+    "description": "Veiculos da geracao quoris-1 na Tabela FIPE.",
+    "h1": "Geracao quoris-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/kia-motors/quoris-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "kia-motors-quoris-ex-3-8-v6-24v-294cv-aut-2015-gasolina",
+      "fipeCodigo": "018087-4",
+      "displayName": "Kia Motors QUORIS EX 3.8 V6 24V 294cv Aut.",
+      "valorAtual": 204284,
+      "canonicalPath": "/fipe/kia-motors/quoris-ex-3-8-v6-24v-294cv-aut-2015-018087-4/",
+      "ano": 2015,
+      "marca": "Kia Motors"
+    },
+    {
+      "vehicleId": "kia-motors-quoris-ex-3-8-v6-24v-294cv-aut-2016-gasolina",
+      "fipeCodigo": "018087-4",
+      "displayName": "Kia Motors QUORIS EX 3.8 V6 24V 294cv Aut.",
+      "valorAtual": 209392,
+      "canonicalPath": "/fipe/kia-motors/quoris-ex-3-8-v6-24v-294cv-aut-2016-018087-4/",
+      "ano": 2016,
+      "marca": "Kia Motors"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "quoris-1"
+  }
+}

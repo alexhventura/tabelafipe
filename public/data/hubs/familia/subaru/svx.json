@@ -1,0 +1,92 @@
+{
+  "tipo": "familia",
+  "slug": "svx",
+  "canonicalPath": "/fipe/subaru/svx/",
+  "titulo": "Subaru svx - Tabela FIPE",
+  "descricao": "7 versoes e anos do Subaru svx na Tabela FIPE.",
+  "seo": {
+    "title": "Subaru svx - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes Subaru svx. 7 veiculos indexados.",
+    "h1": "Subaru svx - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/subaru/svx/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "subaru-svx-cupe-3-3-4x4-aut-1998-gasolina",
+      "fipeCodigo": "027008-3",
+      "displayName": "Subaru SVX Cupê 3.3 4x4 Aut",
+      "valorAtual": 30145,
+      "canonicalPath": "/fipe/subaru/svx-cupe-3-3-4x4-aut-1998-027008-3/",
+      "ano": 1998,
+      "marca": "Subaru"
+    },
+    {
+      "vehicleId": "subaru-svx-cupe-3-3-4x4-aut-1997-gasolina",
+      "fipeCodigo": "027008-3",
+      "displayName": "Subaru SVX Cupê 3.3 4x4 Aut",
+      "valorAtual": 29409,
+      "canonicalPath": "/fipe/subaru/svx-cupe-3-3-4x4-aut-1997-027008-3/",
+      "ano": 1997,
+      "marca": "Subaru"
+    },
+    {
+      "vehicleId": "subaru-svx-cupe-3-3-4x4-aut-1996-gasolina",
+      "fipeCodigo": "027008-3",
+      "displayName": "Subaru SVX Cupê 3.3 4x4 Aut",
+      "valorAtual": 28691,
+      "canonicalPath": "/fipe/subaru/svx-cupe-3-3-4x4-aut-1996-027008-3/",
+      "ano": 1996,
+      "marca": "Subaru"
+    },
+    {
+      "vehicleId": "subaru-svx-cupe-3-3-4x4-aut-1995-gasolina",
+      "fipeCodigo": "027008-3",
+      "displayName": "Subaru SVX Cupê 3.3 4x4 Aut",
+      "valorAtual": 27991,
+      "canonicalPath": "/fipe/subaru/svx-cupe-3-3-4x4-aut-1995-027008-3/",
+      "ano": 1995,
+      "marca": "Subaru"
+    },
+    {
+      "vehicleId": "subaru-svx-cupe-3-3-4x4-aut-1994-gasolina",
+      "fipeCodigo": "027008-3",
+      "displayName": "Subaru SVX Cupê 3.3 4x4 Aut",
+      "valorAtual": 27308,
+      "canonicalPath": "/fipe/subaru/svx-cupe-3-3-4x4-aut-1994-027008-3/",
+      "ano": 1994,
+      "marca": "Subaru"
+    },
+    {
+      "vehicleId": "subaru-svx-cupe-3-3-4x4-aut-1993-gasolina",
+      "fipeCodigo": "027008-3",
+      "displayName": "Subaru SVX Cupê 3.3 4x4 Aut",
+      "valorAtual": 26641,
+      "canonicalPath": "/fipe/subaru/svx-cupe-3-3-4x4-aut-1993-027008-3/",
+      "ano": 1993,
+      "marca": "Subaru"
+    },
+    {
+      "vehicleId": "subaru-svx-cupe-3-3-4x4-aut-1992-gasolina",
+      "fipeCodigo": "027008-3",
+      "displayName": "Subaru SVX Cupê 3.3 4x4 Aut",
+      "valorAtual": 24497,
+      "canonicalPath": "/fipe/subaru/svx-cupe-3-3-4x4-aut-1992-027008-3/",
+      "ano": 1992,
+      "marca": "Subaru"
+    }
+  ],
+  "stats": {
+    "total": 7,
+    "precoMin": 24497,
+    "precoMax": 30145,
+    "anos": [
+      1998,
+      1997,
+      1996,
+      1995,
+      1994,
+      1993,
+      1992
+    ]
+  }
+}

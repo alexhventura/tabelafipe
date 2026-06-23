@@ -1,0 +1,79 @@
+{
+  "tipo": "familia",
+  "slug": "7",
+  "canonicalPath": "/fipe/jaecoo/7/",
+  "titulo": "Jaecoo 7 - Tabela FIPE",
+  "descricao": "6 versoes e anos do Jaecoo 7 na Tabela FIPE.",
+  "seo": {
+    "title": "Jaecoo 7 - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes Jaecoo 7. 6 veiculos indexados.",
+    "h1": "Jaecoo 7 - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/jaecoo/7/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "jaecoo-7-elite-1-5-tb-16v-aut-5p-hibrido-2027-hibrido",
+      "fipeCodigo": "303003-2",
+      "displayName": "Jaecoo 7 Elite 1.5 TB 16v Aut 5p (Híbrido)",
+      "valorAtual": 175176,
+      "canonicalPath": "/fipe/jaecoo/7-elite-1-5-tb-16v-aut-5p-hibrido-2027-303003-2/",
+      "ano": 2027,
+      "marca": "Jaecoo"
+    },
+    {
+      "vehicleId": "jaecoo-7-luxury-1-5-tb-16v-aut-5p-hibrido-2026-hibrido",
+      "fipeCodigo": "303001-6",
+      "displayName": "Jaecoo 7 Luxury 1.5 TB 16v Aut 5p (Híbrido)",
+      "valorAtual": 196461,
+      "canonicalPath": "/fipe/jaecoo/7-luxury-1-5-tb-16v-aut-5p-hibrido-2026-303001-6/",
+      "ano": 2026,
+      "marca": "Jaecoo"
+    },
+    {
+      "vehicleId": "jaecoo-7-prestige1-5-tb-16v-aut-hibrido-2026-hibrido",
+      "fipeCodigo": "303002-4",
+      "displayName": "Jaecoo 7 Prestige1.5 TB 16v Aut  (Híbrido)",
+      "valorAtual": 224430,
+      "canonicalPath": "/fipe/jaecoo/7-prestige1-5-tb-16v-aut-hibrido-2026-303002-4/",
+      "ano": 2026,
+      "marca": "Jaecoo"
+    },
+    {
+      "vehicleId": "jaecoo-7-elite-1-5-tb-16v-aut-5p-hibrido-0-hibrido",
+      "fipeCodigo": "303003-2",
+      "displayName": "Jaecoo 7 Elite 1.5 TB 16v Aut 5p (Híbrido)",
+      "valorAtual": 189996,
+      "canonicalPath": "/fipe/jaecoo/7-elite-1-5-tb-16v-aut-5p-hibrido-0-303003-2/",
+      "ano": 0,
+      "marca": "Jaecoo"
+    },
+    {
+      "vehicleId": "jaecoo-7-luxury-1-5-tb-16v-aut-5p-hibrido-0-hibrido",
+      "fipeCodigo": "303001-6",
+      "displayName": "Jaecoo 7 Luxury 1.5 TB 16v Aut 5p (Híbrido)",
+      "valorAtual": 234673,
+      "canonicalPath": "/fipe/jaecoo/7-luxury-1-5-tb-16v-aut-5p-hibrido-0-303001-6/",
+      "ano": 0,
+      "marca": "Jaecoo"
+    },
+    {
+      "vehicleId": "jaecoo-7-prestige1-5-tb-16v-aut-hibrido-0-hibrido",
+      "fipeCodigo": "303002-4",
+      "displayName": "Jaecoo 7 Prestige1.5 TB 16v Aut  (Híbrido)",
+      "valorAtual": 255425,
+      "canonicalPath": "/fipe/jaecoo/7-prestige1-5-tb-16v-aut-hibrido-0-303002-4/",
+      "ano": 0,
+      "marca": "Jaecoo"
+    }
+  ],
+  "stats": {
+    "total": 6,
+    "precoMin": 175176,
+    "precoMax": 255425,
+    "anos": [
+      2027,
+      2026,
+      0
+    ]
+  }
+}

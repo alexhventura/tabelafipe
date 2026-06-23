@@ -1,0 +1,84 @@
+{
+  "tipo": "geracao",
+  "slug": "pulse-1",
+  "canonicalPath": "/geracao/fiat/pulse-1/",
+  "titulo": "Geracao pulse-1",
+  "descricao": "7 veiculos da geracao pulse-1.",
+  "seo": {
+    "title": "Geracao pulse-1 - Precos FIPE",
+    "description": "Veiculos da geracao pulse-1 na Tabela FIPE.",
+    "h1": "Geracao pulse-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/fiat/pulse-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "fiat-pulse-1-0-turbo-200-flex-aut-0-flex",
+      "fipeCodigo": "001592-0",
+      "displayName": "Fiat PULSE 1.0 Turbo 200  Flex Aut.",
+      "valorAtual": 118705,
+      "canonicalPath": "/fipe/fiat/pulse-1-0-turbo-200-flex-aut-0-001592-0/",
+      "ano": 0,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-pulse-abarth-1-3-turbo-16v-flex-aut-0-flex",
+      "fipeCodigo": "001559-8",
+      "displayName": "Fiat PULSE ABARTH 1.3 Turbo 16V Flex Aut.",
+      "valorAtual": 161896,
+      "canonicalPath": "/fipe/fiat/pulse-abarth-1-3-turbo-16v-flex-aut-0-001559-8/",
+      "ano": 0,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-pulse-audace-1-0-turbo-200-flex-aut-0-flex",
+      "fipeCodigo": "001542-3",
+      "displayName": "Fiat PULSE AUDACE 1.0 Turbo 200 Flex Aut.",
+      "valorAtual": 119521,
+      "canonicalPath": "/fipe/fiat/pulse-audace-1-0-turbo-200-flex-aut-0-001542-3/",
+      "ano": 0,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-pulse-audace-turbo-200-aut-hibrido-0-hibrido",
+      "fipeCodigo": "001579-2",
+      "displayName": "Fiat PULSE AUDACE Turbo 200  Aut. (Hibrído)",
+      "valorAtual": 134665,
+      "canonicalPath": "/fipe/fiat/pulse-audace-turbo-200-aut-hibrido-0-001579-2/",
+      "ano": 0,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-pulse-drive-1-3-8v-flex-aut-0-flex",
+      "fipeCodigo": "001544-0",
+      "displayName": "Fiat PULSE DRIVE 1.3 8V Flex Aut.",
+      "valorAtual": 115228,
+      "canonicalPath": "/fipe/fiat/pulse-drive-1-3-8v-flex-aut-0-001544-0/",
+      "ano": 0,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-pulse-drive-1-3-8v-flex-mec-0-flex",
+      "fipeCodigo": "001545-8",
+      "displayName": "Fiat PULSE DRIVE 1.3 8V Flex Mec.",
+      "valorAtual": 102433,
+      "canonicalPath": "/fipe/fiat/pulse-drive-1-3-8v-flex-mec-0-001545-8/",
+      "ano": 0,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-pulse-impetus-t-200-aut-hibrido-0-hibrido",
+      "fipeCodigo": "001580-6",
+      "displayName": "Fiat PULSE IMPETUS T. 200 Aut. (Hibrído)",
+      "valorAtual": 150599,
+      "canonicalPath": "/fipe/fiat/pulse-impetus-t-200-aut-hibrido-0-001580-6/",
+      "ano": 0,
+      "marca": "Fiat"
+    }
+  ],
+  "stats": {
+    "total": 7
+  },
+  "meta": {
+    "geracaoId": "pulse-1"
+  }
+}

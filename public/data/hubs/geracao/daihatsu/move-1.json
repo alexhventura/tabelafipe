@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "move-1",
+  "canonicalPath": "/geracao/daihatsu/move-1/",
+  "titulo": "Geracao move-1",
+  "descricao": "2 veiculos da geracao move-1.",
+  "seo": {
+    "title": "Geracao move-1 - Precos FIPE",
+    "description": "Veiculos da geracao move-1 na Tabela FIPE.",
+    "h1": "Geracao move-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/daihatsu/move-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "daihatsu-move-van-1996-gasolina",
+      "fipeCodigo": "012014-6",
+      "displayName": "Daihatsu Move Van",
+      "valorAtual": 2588,
+      "canonicalPath": "/fipe/daihatsu/move-van-1996-012014-6/",
+      "ano": 1996,
+      "marca": "Daihatsu"
+    },
+    {
+      "vehicleId": "daihatsu-move-van-1997-gasolina",
+      "fipeCodigo": "012014-6",
+      "displayName": "Daihatsu Move Van",
+      "valorAtual": 2923,
+      "canonicalPath": "/fipe/daihatsu/move-van-1997-012014-6/",
+      "ano": 1997,
+      "marca": "Daihatsu"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "move-1"
+  }
+}

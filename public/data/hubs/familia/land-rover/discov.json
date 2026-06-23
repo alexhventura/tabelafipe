@@ -1,0 +1,92 @@
+{
+  "tipo": "familia",
+  "slug": "discov",
+  "canonicalPath": "/fipe/land-rover/discov/",
+  "titulo": "Land Rover discov - Tabela FIPE",
+  "descricao": "7 versoes e anos do Land Rover discov na Tabela FIPE.",
+  "seo": {
+    "title": "Land Rover discov - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes Land Rover discov. 7 veiculos indexados.",
+    "h1": "Land Rover discov - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/land-rover/discov/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "land-rover-discov-metrop-edt-3-0-4x4-die-hib-2026-hibrido",
+      "fipeCodigo": "033197-0",
+      "displayName": "Land Rover Discov. Metrop. Edt. 3.0 4x4 Die. (Híb.)",
+      "valorAtual": 712125,
+      "canonicalPath": "/fipe/land-rover/discov-metrop-edt-3-0-4x4-die-hib-2026-033197-0/",
+      "ano": 2026,
+      "marca": "Land Rover"
+    },
+    {
+      "vehicleId": "land-rover-discov-metrop-edt-3-0-4x4-die-hib-2025-hibrido",
+      "fipeCodigo": "033197-0",
+      "displayName": "Land Rover Discov. Metrop. Edt. 3.0 4x4 Die. (Híb.)",
+      "valorAtual": 658800,
+      "canonicalPath": "/fipe/land-rover/discov-metrop-edt-3-0-4x4-die-hib-2025-033197-0/",
+      "ano": 2025,
+      "marca": "Land Rover"
+    },
+    {
+      "vehicleId": "land-rover-discov-metrop-edt-3-0-4x4-die-hib-2024-hibrido",
+      "fipeCodigo": "033197-0",
+      "displayName": "Land Rover Discov. Metrop. Edt. 3.0 4x4 Die. (Híb.)",
+      "valorAtual": 587313,
+      "canonicalPath": "/fipe/land-rover/discov-metrop-edt-3-0-4x4-die-hib-2024-033197-0/",
+      "ano": 2024,
+      "marca": "Land Rover"
+    },
+    {
+      "vehicleId": "land-rover-discov-metrop-edt-3-0-4x4-die-hib-2023-hibrido",
+      "fipeCodigo": "033197-0",
+      "displayName": "Land Rover Discov. Metrop. Edt. 3.0 4x4 Die. (Híb.)",
+      "valorAtual": 484387,
+      "canonicalPath": "/fipe/land-rover/discov-metrop-edt-3-0-4x4-die-hib-2023-033197-0/",
+      "ano": 2023,
+      "marca": "Land Rover"
+    },
+    {
+      "vehicleId": "land-rover-discov-sp-hse-2-0-tb-240cv-die-aut-2019-diesel",
+      "fipeCodigo": "033154-6",
+      "displayName": "Land Rover Discov. Sp. HSE 2.0 TB 240cv Die. Aut",
+      "valorAtual": 132240,
+      "canonicalPath": "/fipe/land-rover/discov-sp-hse-2-0-tb-240cv-die-aut-2019-033154-6/",
+      "ano": 2019,
+      "marca": "Land Rover"
+    },
+    {
+      "vehicleId": "land-rover-discov-sp-hse-2-0-tb-240cv-die-aut-2018-diesel",
+      "fipeCodigo": "033154-6",
+      "displayName": "Land Rover Discov. Sp. HSE 2.0 TB 240cv Die. Aut",
+      "valorAtual": 125360,
+      "canonicalPath": "/fipe/land-rover/discov-sp-hse-2-0-tb-240cv-die-aut-2018-033154-6/",
+      "ano": 2018,
+      "marca": "Land Rover"
+    },
+    {
+      "vehicleId": "land-rover-discov-metrop-edt-3-0-4x4-die-hib-0-hibrido",
+      "fipeCodigo": "033197-0",
+      "displayName": "Land Rover Discov. Metrop. Edt. 3.0 4x4 Die. (Híb.)",
+      "valorAtual": 798360,
+      "canonicalPath": "/fipe/land-rover/discov-metrop-edt-3-0-4x4-die-hib-0-033197-0/",
+      "ano": 0,
+      "marca": "Land Rover"
+    }
+  ],
+  "stats": {
+    "total": 7,
+    "precoMin": 125360,
+    "precoMax": 798360,
+    "anos": [
+      2026,
+      2025,
+      2024,
+      2023,
+      2019,
+      2018,
+      0
+    ]
+  }
+}

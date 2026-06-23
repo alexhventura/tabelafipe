@@ -1,0 +1,42 @@
+{
+  "tipo": "familia",
+  "slug": "fz6",
+  "canonicalPath": "/fipe/yamaha/fz6/",
+  "titulo": "YAMAHA fz6 - Tabela FIPE",
+  "descricao": "2 versoes e anos do YAMAHA fz6 na Tabela FIPE.",
+  "seo": {
+    "title": "YAMAHA fz6 - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes YAMAHA fz6. 2 veiculos indexados.",
+    "h1": "YAMAHA fz6 - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/yamaha/fz6/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "yamaha-fz6-n-2009-gasolina",
+      "fipeCodigo": "827067-8",
+      "displayName": "YAMAHA FZ6 N",
+      "valorAtual": 28884,
+      "canonicalPath": "/fipe/yamaha/fz6-n-2009-827067-8/",
+      "ano": 2009,
+      "marca": "YAMAHA"
+    },
+    {
+      "vehicleId": "yamaha-fz6-n-2008-gasolina",
+      "fipeCodigo": "827067-8",
+      "displayName": "YAMAHA FZ6 N",
+      "valorAtual": 27218,
+      "canonicalPath": "/fipe/yamaha/fz6-n-2008-827067-8/",
+      "ano": 2008,
+      "marca": "YAMAHA"
+    }
+  ],
+  "stats": {
+    "total": 2,
+    "precoMin": 27218,
+    "precoMax": 28884,
+    "anos": [
+      2009,
+      2008
+    ]
+  }
+}

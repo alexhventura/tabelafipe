@@ -1,0 +1,42 @@
+{
+  "tipo": "familia",
+  "slug": "sport",
+  "canonicalPath": "/fipe/green/sport/",
+  "titulo": "GREEN sport - Tabela FIPE",
+  "descricao": "2 versoes e anos do GREEN sport na Tabela FIPE.",
+  "seo": {
+    "title": "GREEN sport - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes GREEN sport. 2 veiculos indexados.",
+    "h1": "GREEN sport - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/green/sport/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "green-sport-150cc-2008-gasolina",
+      "fipeCodigo": "854001-2",
+      "displayName": "GREEN SPORT 150cc",
+      "valorAtual": 2402,
+      "canonicalPath": "/fipe/green/sport-150cc-2008-854001-2/",
+      "ano": 2008,
+      "marca": "GREEN"
+    },
+    {
+      "vehicleId": "green-sport-150cc-2007-gasolina",
+      "fipeCodigo": "854001-2",
+      "displayName": "GREEN SPORT 150cc",
+      "valorAtual": 2268,
+      "canonicalPath": "/fipe/green/sport-150cc-2007-854001-2/",
+      "ano": 2007,
+      "marca": "GREEN"
+    }
+  ],
+  "stats": {
+    "total": 2,
+    "precoMin": 2268,
+    "precoMax": 2402,
+    "anos": [
+      2008,
+      2007
+    ]
+  }
+}

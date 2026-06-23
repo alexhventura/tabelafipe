@@ -1,0 +1,111 @@
+{
+  "tipo": "geracao",
+  "slug": "32-2",
+  "canonicalPath": "/geracao/volkswagen/32-2/",
+  "titulo": "Geracao 32-2",
+  "descricao": "10 veiculos da geracao 32-2.",
+  "seo": {
+    "title": "Geracao 32-2 - Precos FIPE",
+    "description": "Veiculos da geracao 32-2 na Tabela FIPE.",
+    "h1": "Geracao 32-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/volkswagen/32-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "volkswagen-32-360-constellation-6x4-2p-diesel-e5-2019-diesel",
+      "fipeCodigo": "515170-8",
+      "displayName": "VOLKSWAGEN 32-360 Constellation 6x4 2p (diesel)(E5)",
+      "valorAtual": 292995,
+      "canonicalPath": "/fipe/volkswagen/32-360-constellation-6x4-2p-diesel-e5-2019-515170-8/",
+      "ano": 2019,
+      "marca": "VOLKSWAGEN"
+    },
+    {
+      "vehicleId": "volkswagen-32-360-constellation-6x4-2p-diesel-e5-2020-diesel",
+      "fipeCodigo": "515170-8",
+      "displayName": "VOLKSWAGEN 32-360 Constellation 6x4 2p (diesel)(E5)",
+      "valorAtual": 355796,
+      "canonicalPath": "/fipe/volkswagen/32-360-constellation-6x4-2p-diesel-e5-2020-515170-8/",
+      "ano": 2020,
+      "marca": "VOLKSWAGEN"
+    },
+    {
+      "vehicleId": "volkswagen-32-360-constellation-6x4-2p-diesel-e5-2021-diesel",
+      "fipeCodigo": "515170-8",
+      "displayName": "VOLKSWAGEN 32-360 Constellation 6x4 2p (diesel)(E5)",
+      "valorAtual": 435240,
+      "canonicalPath": "/fipe/volkswagen/32-360-constellation-6x4-2p-diesel-e5-2021-515170-8/",
+      "ano": 2021,
+      "marca": "VOLKSWAGEN"
+    },
+    {
+      "vehicleId": "volkswagen-32-360-constellation-6x4-2p-diesel-e5-2022-diesel",
+      "fipeCodigo": "515170-8",
+      "displayName": "VOLKSWAGEN 32-360 Constellation 6x4 2p (diesel)(E5)",
+      "valorAtual": 452810,
+      "canonicalPath": "/fipe/volkswagen/32-360-constellation-6x4-2p-diesel-e5-2022-515170-8/",
+      "ano": 2022,
+      "marca": "VOLKSWAGEN"
+    },
+    {
+      "vehicleId": "volkswagen-32-360-constellation-6x4-2p-diesel-e5-2023-diesel",
+      "fipeCodigo": "515170-8",
+      "displayName": "VOLKSWAGEN 32-360 Constellation 6x4 2p (diesel)(E5)",
+      "valorAtual": 465859,
+      "canonicalPath": "/fipe/volkswagen/32-360-constellation-6x4-2p-diesel-e5-2023-515170-8/",
+      "ano": 2023,
+      "marca": "VOLKSWAGEN"
+    },
+    {
+      "vehicleId": "volkswagen-32-380-constellation-6x4-2p-diesel-e6-2023-diesel",
+      "fipeCodigo": "515198-8",
+      "displayName": "VOLKSWAGEN 32.380 Constellation 6x4 2p (diesel)(E6)",
+      "valorAtual": 579854,
+      "canonicalPath": "/fipe/volkswagen/32-380-constellation-6x4-2p-diesel-e6-2023-515198-8/",
+      "ano": 2023,
+      "marca": "VOLKSWAGEN"
+    },
+    {
+      "vehicleId": "volkswagen-32-380-constellation-6x4-2p-diesel-e6-2024-diesel",
+      "fipeCodigo": "515198-8",
+      "displayName": "VOLKSWAGEN 32.380 Constellation 6x4 2p (diesel)(E6)",
+      "valorAtual": 595859,
+      "canonicalPath": "/fipe/volkswagen/32-380-constellation-6x4-2p-diesel-e6-2024-515198-8/",
+      "ano": 2024,
+      "marca": "VOLKSWAGEN"
+    },
+    {
+      "vehicleId": "volkswagen-32-380-constellation-6x4-2p-diesel-e6-2025-diesel",
+      "fipeCodigo": "515198-8",
+      "displayName": "VOLKSWAGEN 32.380 Constellation 6x4 2p (diesel)(E6)",
+      "valorAtual": 627874,
+      "canonicalPath": "/fipe/volkswagen/32-380-constellation-6x4-2p-diesel-e6-2025-515198-8/",
+      "ano": 2025,
+      "marca": "VOLKSWAGEN"
+    },
+    {
+      "vehicleId": "volkswagen-32-380-constellation-6x4-2p-diesel-e6-2026-diesel",
+      "fipeCodigo": "515198-8",
+      "displayName": "VOLKSWAGEN 32.380 Constellation 6x4 2p (diesel)(E6)",
+      "valorAtual": 714172,
+      "canonicalPath": "/fipe/volkswagen/32-380-constellation-6x4-2p-diesel-e6-2026-515198-8/",
+      "ano": 2026,
+      "marca": "VOLKSWAGEN"
+    },
+    {
+      "vehicleId": "volkswagen-32-380-constellation-6x4-2p-diesel-e6-2027-diesel",
+      "fipeCodigo": "515198-8",
+      "displayName": "VOLKSWAGEN 32.380 Constellation 6x4 2p (diesel)(E6)",
+      "valorAtual": 765856,
+      "canonicalPath": "/fipe/volkswagen/32-380-constellation-6x4-2p-diesel-e6-2027-515198-8/",
+      "ano": 2027,
+      "marca": "VOLKSWAGEN"
+    }
+  ],
+  "stats": {
+    "total": 10
+  },
+  "meta": {
+    "geracaoId": "32-2"
+  }
+}

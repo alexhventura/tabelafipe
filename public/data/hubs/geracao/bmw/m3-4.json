@@ -1,0 +1,66 @@
+{
+  "tipo": "geracao",
+  "slug": "m3-4",
+  "canonicalPath": "/geracao/bmw/m3-4/",
+  "titulo": "Geracao m3-4",
+  "descricao": "5 veiculos da geracao m3-4.",
+  "seo": {
+    "title": "Geracao m3-4 - Precos FIPE",
+    "description": "Veiculos da geracao m3-4 na Tabela FIPE.",
+    "h1": "Geracao m3-4",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/bmw/m3-4/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "bmw-m3-cs-sedan-3-0-bi-turbo-460cv-4p-2018-gasolina",
+      "fipeCodigo": "009242-8",
+      "displayName": "BMW M3 CS Sedan 3.0 Bi-Turbo 460cv 4p",
+      "valorAtual": 361112,
+      "canonicalPath": "/fipe/bmw/m3-cs-sedan-3-0-bi-turbo-460cv-4p-2018-009242-8/",
+      "ano": 2018,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-m3-sedan-3-0-bi-turbo-24v-4p-2015-gasolina",
+      "fipeCodigo": "009209-6",
+      "displayName": "BMW M3 Sedan 3.0 Bi-Turbo 24V 4p",
+      "valorAtual": 341325,
+      "canonicalPath": "/fipe/bmw/m3-sedan-3-0-bi-turbo-24v-4p-2015-009209-6/",
+      "ano": 2015,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-m3-sedan-3-0-bi-turbo-24v-4p-2016-gasolina",
+      "fipeCodigo": "009209-6",
+      "displayName": "BMW M3 Sedan 3.0 Bi-Turbo 24V 4p",
+      "valorAtual": 349859,
+      "canonicalPath": "/fipe/bmw/m3-sedan-3-0-bi-turbo-24v-4p-2016-009209-6/",
+      "ano": 2016,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-m3-sedan-3-0-bi-turbo-24v-4p-2017-gasolina",
+      "fipeCodigo": "009209-6",
+      "displayName": "BMW M3 Sedan 3.0 Bi-Turbo 24V 4p",
+      "valorAtual": 358606,
+      "canonicalPath": "/fipe/bmw/m3-sedan-3-0-bi-turbo-24v-4p-2017-009209-6/",
+      "ano": 2017,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-m3-sedan-3-0-bi-turbo-24v-4p-2018-gasolina",
+      "fipeCodigo": "009209-6",
+      "displayName": "BMW M3 Sedan 3.0 Bi-Turbo 24V 4p",
+      "valorAtual": 367572,
+      "canonicalPath": "/fipe/bmw/m3-sedan-3-0-bi-turbo-24v-4p-2018-009209-6/",
+      "ano": 2018,
+      "marca": "BMW"
+    }
+  ],
+  "stats": {
+    "total": 5
+  },
+  "meta": {
+    "geracaoId": "m3-4"
+  }
+}

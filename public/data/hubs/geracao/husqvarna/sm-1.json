@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "sm-1",
+  "canonicalPath": "/geracao/husqvarna/sm-1/",
+  "titulo": "Geracao sm-1",
+  "descricao": "2 veiculos da geracao sm-1.",
+  "seo": {
+    "title": "Geracao sm-1 - Precos FIPE",
+    "description": "Veiculos da geracao sm-1 na Tabela FIPE.",
+    "h1": "Geracao sm-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/husqvarna/sm-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "husqvarna-sm-610-1999-gasolina",
+      "fipeCodigo": "812010-2",
+      "displayName": "HUSQVARNA SM 610",
+      "valorAtual": 8765,
+      "canonicalPath": "/fipe/husqvarna/sm-610-1999-812010-2/",
+      "ano": 1999,
+      "marca": "HUSQVARNA"
+    },
+    {
+      "vehicleId": "husqvarna-sm-610-2000-gasolina",
+      "fipeCodigo": "812010-2",
+      "displayName": "HUSQVARNA SM 610",
+      "valorAtual": 9709,
+      "canonicalPath": "/fipe/husqvarna/sm-610-2000-812010-2/",
+      "ano": 2000,
+      "marca": "HUSQVARNA"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "sm-1"
+  }
+}

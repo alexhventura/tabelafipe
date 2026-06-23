@@ -1,0 +1,52 @@
+{
+  "tipo": "familia",
+  "slug": "amigo",
+  "canonicalPath": "/fipe/isuzu/amigo/",
+  "titulo": "Isuzu amigo - Tabela FIPE",
+  "descricao": "3 versoes e anos do Isuzu amigo na Tabela FIPE.",
+  "seo": {
+    "title": "Isuzu amigo - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes Isuzu amigo. 3 veiculos indexados.",
+    "h1": "Isuzu amigo - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/isuzu/amigo/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "isuzu-amigo-2-3-4x2-4x4-1994-gasolina",
+      "fipeCodigo": "046001-0",
+      "displayName": "Isuzu Amigo 2.3 4x2/4x4",
+      "valorAtual": 8739,
+      "canonicalPath": "/fipe/isuzu/amigo-2-3-4x2-4x4-1994-046001-0/",
+      "ano": 1994,
+      "marca": "Isuzu"
+    },
+    {
+      "vehicleId": "isuzu-amigo-2-3-4x2-4x4-1993-gasolina",
+      "fipeCodigo": "046001-0",
+      "displayName": "Isuzu Amigo 2.3 4x2/4x4",
+      "valorAtual": 7249,
+      "canonicalPath": "/fipe/isuzu/amigo-2-3-4x2-4x4-1993-046001-0/",
+      "ano": 1993,
+      "marca": "Isuzu"
+    },
+    {
+      "vehicleId": "isuzu-amigo-2-3-4x2-4x4-1992-gasolina",
+      "fipeCodigo": "046001-0",
+      "displayName": "Isuzu Amigo 2.3 4x2/4x4",
+      "valorAtual": 6550,
+      "canonicalPath": "/fipe/isuzu/amigo-2-3-4x2-4x4-1992-046001-0/",
+      "ano": 1992,
+      "marca": "Isuzu"
+    }
+  ],
+  "stats": {
+    "total": 3,
+    "precoMin": 6550,
+    "precoMax": 8739,
+    "anos": [
+      1994,
+      1993,
+      1992
+    ]
+  }
+}

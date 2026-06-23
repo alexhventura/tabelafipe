@@ -1,0 +1,62 @@
+{
+  "tipo": "familia",
+  "slug": "eqc",
+  "canonicalPath": "/fipe/mercedes-benz/eqc/",
+  "titulo": "Mercedes-Benz eqc - Tabela FIPE",
+  "descricao": "4 versoes e anos do Mercedes-Benz eqc na Tabela FIPE.",
+  "seo": {
+    "title": "Mercedes-Benz eqc - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes Mercedes-Benz eqc. 4 veiculos indexados.",
+    "h1": "Mercedes-Benz eqc - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/mercedes-benz/eqc/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "mercedes-benz-eqc-400-4matic-amg-line-eletrico-2023-eletrico",
+      "fipeCodigo": "021473-6",
+      "displayName": "Mercedes-Benz EQC 400 4MATIC AMG Line (Elétrico)",
+      "valorAtual": 426920,
+      "canonicalPath": "/fipe/mercedes-benz/eqc-400-4matic-amg-line-eletrico-2023-021473-6/",
+      "ano": 2023,
+      "marca": "Mercedes-Benz"
+    },
+    {
+      "vehicleId": "mercedes-benz-eqc-400-4matic-amg-line-eletrico-2022-eletrico",
+      "fipeCodigo": "021473-6",
+      "displayName": "Mercedes-Benz EQC 400 4MATIC AMG Line (Elétrico)",
+      "valorAtual": 415562,
+      "canonicalPath": "/fipe/mercedes-benz/eqc-400-4matic-amg-line-eletrico-2022-021473-6/",
+      "ano": 2022,
+      "marca": "Mercedes-Benz"
+    },
+    {
+      "vehicleId": "mercedes-benz-eqc-400-4matic-408cv-eletrico-2021-eletrico",
+      "fipeCodigo": "021454-0",
+      "displayName": "Mercedes-Benz EQC 400 4MATIC 408CV (Elétrico)",
+      "valorAtual": 297712,
+      "canonicalPath": "/fipe/mercedes-benz/eqc-400-4matic-408cv-eletrico-2021-021454-0/",
+      "ano": 2021,
+      "marca": "Mercedes-Benz"
+    },
+    {
+      "vehicleId": "mercedes-benz-eqc-400-4matic-408cv-eletrico-2020-eletrico",
+      "fipeCodigo": "021454-0",
+      "displayName": "Mercedes-Benz EQC 400 4MATIC 408CV (Elétrico)",
+      "valorAtual": 284269,
+      "canonicalPath": "/fipe/mercedes-benz/eqc-400-4matic-408cv-eletrico-2020-021454-0/",
+      "ano": 2020,
+      "marca": "Mercedes-Benz"
+    }
+  ],
+  "stats": {
+    "total": 4,
+    "precoMin": 284269,
+    "precoMax": 426920,
+    "anos": [
+      2023,
+      2022,
+      2021,
+      2020
+    ]
+  }
+}

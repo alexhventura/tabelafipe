@@ -1,0 +1,111 @@
+{
+  "tipo": "geracao",
+  "slug": "sl-3",
+  "canonicalPath": "/geracao/mercedes-benz/sl-3/",
+  "titulo": "Geracao sl-3",
+  "descricao": "10 veiculos da geracao sl-3.",
+  "seo": {
+    "title": "Geracao sl-3 - Precos FIPE",
+    "description": "Veiculos da geracao sl-3 na Tabela FIPE.",
+    "h1": "Geracao sl-3",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/mercedes-benz/sl-3/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "mercedes-benz-sl-350-3-5-v6-2p-2013-gasolina",
+      "fipeCodigo": "021191-5",
+      "displayName": "Mercedes-Benz SL-350 3.5 V6 2p",
+      "valorAtual": 332669,
+      "canonicalPath": "/fipe/mercedes-benz/sl-350-3-5-v6-2p-2013-021191-5/",
+      "ano": 2013,
+      "marca": "Mercedes-Benz"
+    },
+    {
+      "vehicleId": "mercedes-benz-sl-350-3-5-v6-2p-2014-gasolina",
+      "fipeCodigo": "021191-5",
+      "displayName": "Mercedes-Benz SL-350 3.5 V6 2p",
+      "valorAtual": 358775,
+      "canonicalPath": "/fipe/mercedes-benz/sl-350-3-5-v6-2p-2014-021191-5/",
+      "ano": 2014,
+      "marca": "Mercedes-Benz"
+    },
+    {
+      "vehicleId": "mercedes-benz-sl-400-3-0-bi-turbo-v6-2p-2015-gasolina",
+      "fipeCodigo": "021326-8",
+      "displayName": "Mercedes-Benz SL-400 3.0 Bi-Turbo V6 2p",
+      "valorAtual": 392777,
+      "canonicalPath": "/fipe/mercedes-benz/sl-400-3-0-bi-turbo-v6-2p-2015-021326-8/",
+      "ano": 2015,
+      "marca": "Mercedes-Benz"
+    },
+    {
+      "vehicleId": "mercedes-benz-sl-400-3-0-bi-turbo-v6-2p-2016-gasolina",
+      "fipeCodigo": "021326-8",
+      "displayName": "Mercedes-Benz SL-400 3.0 Bi-Turbo V6 2p",
+      "valorAtual": 445255,
+      "canonicalPath": "/fipe/mercedes-benz/sl-400-3-0-bi-turbo-v6-2p-2016-021326-8/",
+      "ano": 2016,
+      "marca": "Mercedes-Benz"
+    },
+    {
+      "vehicleId": "mercedes-benz-sl-400-3-0-bi-turbo-v6-2p-2017-gasolina",
+      "fipeCodigo": "021326-8",
+      "displayName": "Mercedes-Benz SL-400 3.0 Bi-Turbo V6 2p",
+      "valorAtual": 499717,
+      "canonicalPath": "/fipe/mercedes-benz/sl-400-3-0-bi-turbo-v6-2p-2017-021326-8/",
+      "ano": 2017,
+      "marca": "Mercedes-Benz"
+    },
+    {
+      "vehicleId": "mercedes-benz-sl-63-amg-5-5-bi-turbo-v8-aut-2013-gasolina",
+      "fipeCodigo": "021285-7",
+      "displayName": "Mercedes-Benz SL-63 AMG 5.5 Bi-Turbo V8 Aut.",
+      "valorAtual": 561628,
+      "canonicalPath": "/fipe/mercedes-benz/sl-63-amg-5-5-bi-turbo-v8-aut-2013-021285-7/",
+      "ano": 2013,
+      "marca": "Mercedes-Benz"
+    },
+    {
+      "vehicleId": "mercedes-benz-sl-63-amg-5-5-bi-turbo-v8-aut-2014-gasolina",
+      "fipeCodigo": "021285-7",
+      "displayName": "Mercedes-Benz SL-63 AMG 5.5 Bi-Turbo V8 Aut.",
+      "valorAtual": 608392,
+      "canonicalPath": "/fipe/mercedes-benz/sl-63-amg-5-5-bi-turbo-v8-aut-2014-021285-7/",
+      "ano": 2014,
+      "marca": "Mercedes-Benz"
+    },
+    {
+      "vehicleId": "mercedes-benz-sl-63-amg-5-5-bi-turbo-v8-aut-2015-gasolina",
+      "fipeCodigo": "021285-7",
+      "displayName": "Mercedes-Benz SL-63 AMG 5.5 Bi-Turbo V8 Aut.",
+      "valorAtual": 814369,
+      "canonicalPath": "/fipe/mercedes-benz/sl-63-amg-5-5-bi-turbo-v8-aut-2015-021285-7/",
+      "ano": 2015,
+      "marca": "Mercedes-Benz"
+    },
+    {
+      "vehicleId": "mercedes-benz-sl-63-amg-5-5-bi-turbo-v8-aut-2016-gasolina",
+      "fipeCodigo": "021285-7",
+      "displayName": "Mercedes-Benz SL-63 AMG 5.5 Bi-Turbo V8 Aut.",
+      "valorAtual": 834729,
+      "canonicalPath": "/fipe/mercedes-benz/sl-63-amg-5-5-bi-turbo-v8-aut-2016-021285-7/",
+      "ano": 2016,
+      "marca": "Mercedes-Benz"
+    },
+    {
+      "vehicleId": "mercedes-benz-sl-63-amg-5-5-bi-turbo-v8-aut-2017-gasolina",
+      "fipeCodigo": "021285-7",
+      "displayName": "Mercedes-Benz SL-63 AMG 5.5 Bi-Turbo V8 Aut.",
+      "valorAtual": 874595,
+      "canonicalPath": "/fipe/mercedes-benz/sl-63-amg-5-5-bi-turbo-v8-aut-2017-021285-7/",
+      "ano": 2017,
+      "marca": "Mercedes-Benz"
+    }
+  ],
+  "stats": {
+    "total": 10
+  },
+  "meta": {
+    "geracaoId": "sl-3"
+  }
+}

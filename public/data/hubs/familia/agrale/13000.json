@@ -1,0 +1,127 @@
+{
+  "tipo": "familia",
+  "slug": "13000",
+  "canonicalPath": "/fipe/agrale/13000/",
+  "titulo": "AGRALE 13000 - Tabela FIPE",
+  "descricao": "11 versoes e anos do AGRALE 13000 na Tabela FIPE.",
+  "seo": {
+    "title": "AGRALE 13000 - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes AGRALE 13000. 11 veiculos indexados.",
+    "h1": "AGRALE 13000 - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/agrale/13000/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "agrale-13000-turbo-2p-diesel-2012-diesel",
+      "fipeCodigo": "501027-6",
+      "displayName": "AGRALE 13000 Turbo 2p (diesel)",
+      "valorAtual": 79741,
+      "canonicalPath": "/fipe/agrale/13000-turbo-2p-diesel-2012-501027-6/",
+      "ano": 2012,
+      "marca": "AGRALE"
+    },
+    {
+      "vehicleId": "agrale-13000-turbo-3-eixos-2p-diesel-2012-diesel",
+      "fipeCodigo": "501028-4",
+      "displayName": "AGRALE 13000 Turbo 3-Eixos 2p (diesel)",
+      "valorAtual": 94818,
+      "canonicalPath": "/fipe/agrale/13000-turbo-3-eixos-2p-diesel-2012-501028-4/",
+      "ano": 2012,
+      "marca": "AGRALE"
+    },
+    {
+      "vehicleId": "agrale-13000-turbo-2p-diesel-2011-diesel",
+      "fipeCodigo": "501027-6",
+      "displayName": "AGRALE 13000 Turbo 2p (diesel)",
+      "valorAtual": 77796,
+      "canonicalPath": "/fipe/agrale/13000-turbo-2p-diesel-2011-501027-6/",
+      "ano": 2011,
+      "marca": "AGRALE"
+    },
+    {
+      "vehicleId": "agrale-13000-turbo-3-eixos-2p-diesel-2011-diesel",
+      "fipeCodigo": "501028-4",
+      "displayName": "AGRALE 13000 Turbo 3-Eixos 2p (diesel)",
+      "valorAtual": 89928,
+      "canonicalPath": "/fipe/agrale/13000-turbo-3-eixos-2p-diesel-2011-501028-4/",
+      "ano": 2011,
+      "marca": "AGRALE"
+    },
+    {
+      "vehicleId": "agrale-13000-turbo-2p-diesel-2010-diesel",
+      "fipeCodigo": "501027-6",
+      "displayName": "AGRALE 13000 Turbo 2p (diesel)",
+      "valorAtual": 75898,
+      "canonicalPath": "/fipe/agrale/13000-turbo-2p-diesel-2010-501027-6/",
+      "ano": 2010,
+      "marca": "AGRALE"
+    },
+    {
+      "vehicleId": "agrale-13000-turbo-3-eixos-2p-diesel-2010-diesel",
+      "fipeCodigo": "501028-4",
+      "displayName": "AGRALE 13000 Turbo 3-Eixos 2p (diesel)",
+      "valorAtual": 87734,
+      "canonicalPath": "/fipe/agrale/13000-turbo-3-eixos-2p-diesel-2010-501028-4/",
+      "ano": 2010,
+      "marca": "AGRALE"
+    },
+    {
+      "vehicleId": "agrale-13000-turbo-2p-diesel-2009-diesel",
+      "fipeCodigo": "501027-6",
+      "displayName": "AGRALE 13000 Turbo 2p (diesel)",
+      "valorAtual": 74046,
+      "canonicalPath": "/fipe/agrale/13000-turbo-2p-diesel-2009-501027-6/",
+      "ano": 2009,
+      "marca": "AGRALE"
+    },
+    {
+      "vehicleId": "agrale-13000-turbo-3-eixos-2p-diesel-2009-diesel",
+      "fipeCodigo": "501028-4",
+      "displayName": "AGRALE 13000 Turbo 3-Eixos 2p (diesel)",
+      "valorAtual": 85594,
+      "canonicalPath": "/fipe/agrale/13000-turbo-3-eixos-2p-diesel-2009-501028-4/",
+      "ano": 2009,
+      "marca": "AGRALE"
+    },
+    {
+      "vehicleId": "agrale-13000-turbo-2p-diesel-2008-diesel",
+      "fipeCodigo": "501027-6",
+      "displayName": "AGRALE 13000 Turbo 2p (diesel)",
+      "valorAtual": 68705,
+      "canonicalPath": "/fipe/agrale/13000-turbo-2p-diesel-2008-501027-6/",
+      "ano": 2008,
+      "marca": "AGRALE"
+    },
+    {
+      "vehicleId": "agrale-13000-turbo-3-eixos-2p-diesel-2008-diesel",
+      "fipeCodigo": "501028-4",
+      "displayName": "AGRALE 13000 Turbo 3-Eixos 2p (diesel)",
+      "valorAtual": 72141,
+      "canonicalPath": "/fipe/agrale/13000-turbo-3-eixos-2p-diesel-2008-501028-4/",
+      "ano": 2008,
+      "marca": "AGRALE"
+    },
+    {
+      "vehicleId": "agrale-13000-turbo-2p-diesel-2007-diesel",
+      "fipeCodigo": "501027-6",
+      "displayName": "AGRALE 13000 Turbo 2p (diesel)",
+      "valorAtual": 59761,
+      "canonicalPath": "/fipe/agrale/13000-turbo-2p-diesel-2007-501027-6/",
+      "ano": 2007,
+      "marca": "AGRALE"
+    }
+  ],
+  "stats": {
+    "total": 11,
+    "precoMin": 59761,
+    "precoMax": 94818,
+    "anos": [
+      2012,
+      2011,
+      2010,
+      2009,
+      2008,
+      2007
+    ]
+  }
+}

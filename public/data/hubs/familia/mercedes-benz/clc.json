@@ -1,0 +1,52 @@
+{
+  "tipo": "familia",
+  "slug": "clc",
+  "canonicalPath": "/fipe/mercedes-benz/clc/",
+  "titulo": "Mercedes-Benz clc - Tabela FIPE",
+  "descricao": "3 versoes e anos do Mercedes-Benz clc na Tabela FIPE.",
+  "seo": {
+    "title": "Mercedes-Benz clc - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes Mercedes-Benz clc. 3 veiculos indexados.",
+    "h1": "Mercedes-Benz clc - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/mercedes-benz/clc/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "mercedes-benz-clc-200-kompressor-1-8-184cv-aut-2011-gasolina",
+      "fipeCodigo": "021219-9",
+      "displayName": "Mercedes-Benz CLC 200 Kompressor 1.8 184cv Aut.",
+      "valorAtual": 59530,
+      "canonicalPath": "/fipe/mercedes-benz/clc-200-kompressor-1-8-184cv-aut-2011-021219-9/",
+      "ano": 2011,
+      "marca": "Mercedes-Benz"
+    },
+    {
+      "vehicleId": "mercedes-benz-clc-200-kompressor-1-8-184cv-aut-2010-gasolina",
+      "fipeCodigo": "021219-9",
+      "displayName": "Mercedes-Benz CLC 200 Kompressor 1.8 184cv Aut.",
+      "valorAtual": 57950,
+      "canonicalPath": "/fipe/mercedes-benz/clc-200-kompressor-1-8-184cv-aut-2010-021219-9/",
+      "ano": 2010,
+      "marca": "Mercedes-Benz"
+    },
+    {
+      "vehicleId": "mercedes-benz-clc-200-kompressor-1-8-184cv-aut-2009-gasolina",
+      "fipeCodigo": "021219-9",
+      "displayName": "Mercedes-Benz CLC 200 Kompressor 1.8 184cv Aut.",
+      "valorAtual": 54649,
+      "canonicalPath": "/fipe/mercedes-benz/clc-200-kompressor-1-8-184cv-aut-2009-021219-9/",
+      "ano": 2009,
+      "marca": "Mercedes-Benz"
+    }
+  ],
+  "stats": {
+    "total": 3,
+    "precoMin": 54649,
+    "precoMax": 59530,
+    "anos": [
+      2011,
+      2010,
+      2009
+    ]
+  }
+}

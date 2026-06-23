@@ -1,0 +1,48 @@
+{
+  "tipo": "geracao",
+  "slug": "cheynne-1",
+  "canonicalPath": "/geracao/chevrolet/cheynne-1/",
+  "titulo": "Geracao cheynne-1",
+  "descricao": "3 veiculos da geracao cheynne-1.",
+  "seo": {
+    "title": "Geracao cheynne-1 - Precos FIPE",
+    "description": "Veiculos da geracao cheynne-1 na Tabela FIPE.",
+    "h1": "Geracao cheynne-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/chevrolet/cheynne-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "chevrolet-cheynne-4-3-v6-1993-gasolina",
+      "fipeCodigo": "004161-0",
+      "displayName": "GM - Chevrolet Cheynne 4.3 V6",
+      "valorAtual": 17114,
+      "canonicalPath": "/fipe/chevrolet/cheynne-4-3-v6-1993-004161-0/",
+      "ano": 1993,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-cheynne-4-3-v6-1994-gasolina",
+      "fipeCodigo": "004161-0",
+      "displayName": "GM - Chevrolet Cheynne 4.3 V6",
+      "valorAtual": 17810,
+      "canonicalPath": "/fipe/chevrolet/cheynne-4-3-v6-1994-004161-0/",
+      "ano": 1994,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-cheynne-4-3-v6-1995-gasolina",
+      "fipeCodigo": "004161-0",
+      "displayName": "GM - Chevrolet Cheynne 4.3 V6",
+      "valorAtual": 19563,
+      "canonicalPath": "/fipe/chevrolet/cheynne-4-3-v6-1995-004161-0/",
+      "ano": 1995,
+      "marca": "GM - Chevrolet"
+    }
+  ],
+  "stats": {
+    "total": 3
+  },
+  "meta": {
+    "geracaoId": "cheynne-1"
+  }
+}

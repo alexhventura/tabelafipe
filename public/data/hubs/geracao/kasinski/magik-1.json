@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "magik-1",
+  "canonicalPath": "/geracao/kasinski/magik-1/",
+  "titulo": "Geracao magik-1",
+  "descricao": "2 veiculos da geracao magik-1.",
+  "seo": {
+    "title": "Geracao magik-1 - Precos FIPE",
+    "description": "Veiculos da geracao magik-1 na Tabela FIPE.",
+    "h1": "Geracao magik-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/kasinski/magik-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "kasinski-magik-125cc-2002-gasolina",
+      "fipeCodigo": "816013-9",
+      "displayName": "KASINSKI MAGIK 125cc",
+      "valorAtual": 1717,
+      "canonicalPath": "/fipe/kasinski/magik-125cc-2002-816013-9/",
+      "ano": 2002,
+      "marca": "KASINSKI"
+    },
+    {
+      "vehicleId": "kasinski-magik-125cc-2003-gasolina",
+      "fipeCodigo": "816013-9",
+      "displayName": "KASINSKI MAGIK 125cc",
+      "valorAtual": 1798,
+      "canonicalPath": "/fipe/kasinski/magik-125cc-2003-816013-9/",
+      "ano": 2003,
+      "marca": "KASINSKI"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "magik-1"
+  }
+}

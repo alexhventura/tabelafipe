@@ -1,0 +1,48 @@
+{
+  "tipo": "geracao",
+  "slug": "equinox-1",
+  "canonicalPath": "/geracao/chevrolet/equinox-1/",
+  "titulo": "Geracao equinox-1",
+  "descricao": "3 veiculos da geracao equinox-1.",
+  "seo": {
+    "title": "Geracao equinox-1 - Precos FIPE",
+    "description": "Veiculos da geracao equinox-1 na Tabela FIPE.",
+    "h1": "Geracao equinox-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/chevrolet/equinox-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "chevrolet-equinox-activ-1-5-turbo-177cv-aut-0-gasolina",
+      "fipeCodigo": "004555-1",
+      "displayName": "GM - Chevrolet EQUINOX ACTIV 1.5 Turbo 177cv Aut.",
+      "valorAtual": 283745,
+      "canonicalPath": "/fipe/chevrolet/equinox-activ-1-5-turbo-177cv-aut-0-004555-1/",
+      "ano": 0,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-equinox-ev-292cv-eletrico-0-eletrico",
+      "fipeCodigo": "004554-3",
+      "displayName": "GM - Chevrolet EQUINOX EV 292cv (Elétrico)",
+      "valorAtual": 349990,
+      "canonicalPath": "/fipe/chevrolet/equinox-ev-292cv-eletrico-0-004554-3/",
+      "ano": 0,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-equinox-rs-1-5-turbo-aut-0-gasolina",
+      "fipeCodigo": "004538-1",
+      "displayName": "GM - Chevrolet EQUINOX RS 1.5 Turbo  Aut.",
+      "valorAtual": 280175,
+      "canonicalPath": "/fipe/chevrolet/equinox-rs-1-5-turbo-aut-0-004538-1/",
+      "ano": 0,
+      "marca": "GM - Chevrolet"
+    }
+  ],
+  "stats": {
+    "total": 3
+  },
+  "meta": {
+    "geracaoId": "equinox-1"
+  }
+}

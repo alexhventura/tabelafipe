@@ -1,0 +1,93 @@
+{
+  "tipo": "geracao",
+  "slug": "brave-1",
+  "canonicalPath": "/geracao/iros/brave-1/",
+  "titulo": "Geracao brave-1",
+  "descricao": "8 veiculos da geracao brave-1.",
+  "seo": {
+    "title": "Geracao brave-1 - Precos FIPE",
+    "description": "Veiculos da geracao brave-1 na Tabela FIPE.",
+    "h1": "Geracao brave-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/iros/brave-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "iros-brave-150-quadriciclo-2009-gasolina",
+      "fipeCodigo": "867011-0",
+      "displayName": "IROS Brave 150 QUADRICICLO",
+      "valorAtual": 3998,
+      "canonicalPath": "/fipe/iros/brave-150-quadriciclo-2009-867011-0/",
+      "ano": 2009,
+      "marca": "IROS"
+    },
+    {
+      "vehicleId": "iros-brave-150-quadriciclo-2010-gasolina",
+      "fipeCodigo": "867011-0",
+      "displayName": "IROS Brave 150 QUADRICICLO",
+      "valorAtual": 4425,
+      "canonicalPath": "/fipe/iros/brave-150-quadriciclo-2010-867011-0/",
+      "ano": 2010,
+      "marca": "IROS"
+    },
+    {
+      "vehicleId": "iros-brave-150-quadriciclo-2011-gasolina",
+      "fipeCodigo": "867011-0",
+      "displayName": "IROS Brave 150 QUADRICICLO",
+      "valorAtual": 4549,
+      "canonicalPath": "/fipe/iros/brave-150-quadriciclo-2011-867011-0/",
+      "ano": 2011,
+      "marca": "IROS"
+    },
+    {
+      "vehicleId": "iros-brave-450-quadriciclo-2009-gasolina",
+      "fipeCodigo": "867012-9",
+      "displayName": "IROS Brave 450 QUADRICICLO",
+      "valorAtual": 12092,
+      "canonicalPath": "/fipe/iros/brave-450-quadriciclo-2009-867012-9/",
+      "ano": 2009,
+      "marca": "IROS"
+    },
+    {
+      "vehicleId": "iros-brave-450-quadriciclo-2010-gasolina",
+      "fipeCodigo": "867012-9",
+      "displayName": "IROS Brave 450 QUADRICICLO",
+      "valorAtual": 13498,
+      "canonicalPath": "/fipe/iros/brave-450-quadriciclo-2010-867012-9/",
+      "ano": 2010,
+      "marca": "IROS"
+    },
+    {
+      "vehicleId": "iros-brave-70-quadriciclo-2009-gasolina",
+      "fipeCodigo": "867010-2",
+      "displayName": "IROS Brave 70  QUADRICICLO",
+      "valorAtual": 2802,
+      "canonicalPath": "/fipe/iros/brave-70-quadriciclo-2009-867010-2/",
+      "ano": 2009,
+      "marca": "IROS"
+    },
+    {
+      "vehicleId": "iros-brave-70-quadriciclo-2010-gasolina",
+      "fipeCodigo": "867010-2",
+      "displayName": "IROS Brave 70  QUADRICICLO",
+      "valorAtual": 2908,
+      "canonicalPath": "/fipe/iros/brave-70-quadriciclo-2010-867010-2/",
+      "ano": 2010,
+      "marca": "IROS"
+    },
+    {
+      "vehicleId": "iros-brave-70-quadriciclo-2011-gasolina",
+      "fipeCodigo": "867010-2",
+      "displayName": "IROS Brave 70  QUADRICICLO",
+      "valorAtual": 3145,
+      "canonicalPath": "/fipe/iros/brave-70-quadriciclo-2011-867010-2/",
+      "ano": 2011,
+      "marca": "IROS"
+    }
+  ],
+  "stats": {
+    "total": 8
+  },
+  "meta": {
+    "geracaoId": "brave-1"
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "tipo": "geracao",
+  "slug": "veracruz-1",
+  "canonicalPath": "/geracao/hyundai/veracruz-1/",
+  "titulo": "Geracao veracruz-1",
+  "descricao": "6 veiculos da geracao veracruz-1.",
+  "seo": {
+    "title": "Geracao veracruz-1 - Precos FIPE",
+    "description": "Veiculos da geracao veracruz-1 na Tabela FIPE.",
+    "h1": "Geracao veracruz-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/hyundai/veracruz-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "hyundai-veracruz-gls-3-8-4wd-aut-2007-gasolina",
+      "fipeCodigo": "015068-1",
+      "displayName": "Hyundai VERACRUZ GLS 3.8 4WD Aut.",
+      "valorAtual": 43619,
+      "canonicalPath": "/fipe/hyundai/veracruz-gls-3-8-4wd-aut-2007-015068-1/",
+      "ano": 2007,
+      "marca": "Hyundai"
+    },
+    {
+      "vehicleId": "hyundai-veracruz-gls-3-8-4wd-aut-2008-gasolina",
+      "fipeCodigo": "015068-1",
+      "displayName": "Hyundai VERACRUZ GLS 3.8 4WD Aut.",
+      "valorAtual": 46378,
+      "canonicalPath": "/fipe/hyundai/veracruz-gls-3-8-4wd-aut-2008-015068-1/",
+      "ano": 2008,
+      "marca": "Hyundai"
+    },
+    {
+      "vehicleId": "hyundai-veracruz-gls-3-8-4wd-aut-2009-gasolina",
+      "fipeCodigo": "015068-1",
+      "displayName": "Hyundai VERACRUZ GLS 3.8 4WD Aut.",
+      "valorAtual": 47538,
+      "canonicalPath": "/fipe/hyundai/veracruz-gls-3-8-4wd-aut-2009-015068-1/",
+      "ano": 2009,
+      "marca": "Hyundai"
+    },
+    {
+      "vehicleId": "hyundai-veracruz-gls-3-8-4wd-aut-2010-gasolina",
+      "fipeCodigo": "015068-1",
+      "displayName": "Hyundai VERACRUZ GLS 3.8 4WD Aut.",
+      "valorAtual": 51821,
+      "canonicalPath": "/fipe/hyundai/veracruz-gls-3-8-4wd-aut-2010-015068-1/",
+      "ano": 2010,
+      "marca": "Hyundai"
+    },
+    {
+      "vehicleId": "hyundai-veracruz-gls-3-8-4wd-aut-2011-gasolina",
+      "fipeCodigo": "015068-1",
+      "displayName": "Hyundai VERACRUZ GLS 3.8 4WD Aut.",
+      "valorAtual": 55218,
+      "canonicalPath": "/fipe/hyundai/veracruz-gls-3-8-4wd-aut-2011-015068-1/",
+      "ano": 2011,
+      "marca": "Hyundai"
+    },
+    {
+      "vehicleId": "hyundai-veracruz-gls-3-8-4wd-aut-2012-gasolina",
+      "fipeCodigo": "015068-1",
+      "displayName": "Hyundai VERACRUZ GLS 3.8 4WD Aut.",
+      "valorAtual": 60776,
+      "canonicalPath": "/fipe/hyundai/veracruz-gls-3-8-4wd-aut-2012-015068-1/",
+      "ano": 2012,
+      "marca": "Hyundai"
+    }
+  ],
+  "stats": {
+    "total": 6
+  },
+  "meta": {
+    "geracaoId": "veracruz-1"
+  }
+}

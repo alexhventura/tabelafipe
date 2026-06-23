@@ -1,0 +1,117 @@
+{
+  "tipo": "familia",
+  "slug": "15",
+  "canonicalPath": "/fipe/chevrolet/15/",
+  "titulo": "GMC 15 - Tabela FIPE",
+  "descricao": "10 versoes e anos do GMC 15 na Tabela FIPE.",
+  "seo": {
+    "title": "GMC 15 - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes GMC 15. 10 veiculos indexados.",
+    "h1": "GMC 15 - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/chevrolet/15/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "chevrolet-15-190-turbo-2p-diesel-2001-diesel",
+      "fipeCodigo": "505006-5",
+      "displayName": "GMC 15-190 Turbo 2p (diesel)",
+      "valorAtual": 49379,
+      "canonicalPath": "/fipe/chevrolet/15-190-turbo-2p-diesel-2001-505006-5/",
+      "ano": 2001,
+      "marca": "GMC"
+    },
+    {
+      "vehicleId": "chevrolet-15-190-t-3-eixos-2p-diesel-2001-diesel",
+      "fipeCodigo": "505005-7",
+      "displayName": "GMC 15-190 T 3-Eixos 2p (diesel)",
+      "valorAtual": 54857,
+      "canonicalPath": "/fipe/chevrolet/15-190-t-3-eixos-2p-diesel-2001-505005-7/",
+      "ano": 2001,
+      "marca": "GMC"
+    },
+    {
+      "vehicleId": "chevrolet-15-190-turbo-2p-diesel-2000-diesel",
+      "fipeCodigo": "505006-5",
+      "displayName": "GMC 15-190 Turbo 2p (diesel)",
+      "valorAtual": 47774,
+      "canonicalPath": "/fipe/chevrolet/15-190-turbo-2p-diesel-2000-505006-5/",
+      "ano": 2000,
+      "marca": "GMC"
+    },
+    {
+      "vehicleId": "chevrolet-15-190-t-3-eixos-2p-diesel-2000-diesel",
+      "fipeCodigo": "505005-7",
+      "displayName": "GMC 15-190 T 3-Eixos 2p (diesel)",
+      "valorAtual": 53519,
+      "canonicalPath": "/fipe/chevrolet/15-190-t-3-eixos-2p-diesel-2000-505005-7/",
+      "ano": 2000,
+      "marca": "GMC"
+    },
+    {
+      "vehicleId": "chevrolet-15-190-turbo-2p-diesel-1999-diesel",
+      "fipeCodigo": "505006-5",
+      "displayName": "GMC 15-190 Turbo 2p (diesel)",
+      "valorAtual": 39218,
+      "canonicalPath": "/fipe/chevrolet/15-190-turbo-2p-diesel-1999-505006-5/",
+      "ano": 1999,
+      "marca": "GMC"
+    },
+    {
+      "vehicleId": "chevrolet-15-190-t-3-eixos-2p-diesel-1999-diesel",
+      "fipeCodigo": "505005-7",
+      "displayName": "GMC 15-190 T 3-Eixos 2p (diesel)",
+      "valorAtual": 52213,
+      "canonicalPath": "/fipe/chevrolet/15-190-t-3-eixos-2p-diesel-1999-505005-7/",
+      "ano": 1999,
+      "marca": "GMC"
+    },
+    {
+      "vehicleId": "chevrolet-15-190-turbo-2p-diesel-1998-diesel",
+      "fipeCodigo": "505006-5",
+      "displayName": "GMC 15-190 Turbo 2p (diesel)",
+      "valorAtual": 36751,
+      "canonicalPath": "/fipe/chevrolet/15-190-turbo-2p-diesel-1998-505006-5/",
+      "ano": 1998,
+      "marca": "GMC"
+    },
+    {
+      "vehicleId": "chevrolet-15-190-t-3-eixos-2p-diesel-1998-diesel",
+      "fipeCodigo": "505005-7",
+      "displayName": "GMC 15-190 T 3-Eixos 2p (diesel)",
+      "valorAtual": 48200,
+      "canonicalPath": "/fipe/chevrolet/15-190-t-3-eixos-2p-diesel-1998-505005-7/",
+      "ano": 1998,
+      "marca": "GMC"
+    },
+    {
+      "vehicleId": "chevrolet-15-190-turbo-2p-diesel-1997-diesel",
+      "fipeCodigo": "505006-5",
+      "displayName": "GMC 15-190 Turbo 2p (diesel)",
+      "valorAtual": 32211,
+      "canonicalPath": "/fipe/chevrolet/15-190-turbo-2p-diesel-1997-505006-5/",
+      "ano": 1997,
+      "marca": "GMC"
+    },
+    {
+      "vehicleId": "chevrolet-15-190-t-3-eixos-2p-diesel-1997-diesel",
+      "fipeCodigo": "505005-7",
+      "displayName": "GMC 15-190 T 3-Eixos 2p (diesel)",
+      "valorAtual": 46045,
+      "canonicalPath": "/fipe/chevrolet/15-190-t-3-eixos-2p-diesel-1997-505005-7/",
+      "ano": 1997,
+      "marca": "GMC"
+    }
+  ],
+  "stats": {
+    "total": 10,
+    "precoMin": 32211,
+    "precoMax": 54857,
+    "anos": [
+      2001,
+      2000,
+      1999,
+      1998,
+      1997
+    ]
+  }
+}

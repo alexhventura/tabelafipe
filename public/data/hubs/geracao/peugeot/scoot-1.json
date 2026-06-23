@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "scoot-1",
+  "canonicalPath": "/geracao/peugeot/scoot-1/",
+  "titulo": "Geracao scoot-1",
+  "descricao": "2 veiculos da geracao scoot-1.",
+  "seo": {
+    "title": "Geracao scoot-1 - Precos FIPE",
+    "description": "Veiculos da geracao scoot-1 na Tabela FIPE.",
+    "h1": "Geracao scoot-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/peugeot/scoot-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "peugeot-scoot-elec-1997-gasolina",
+      "fipeCodigo": "821003-9",
+      "displayName": "PEUGEOT SCOOT ELEC",
+      "valorAtual": 1332,
+      "canonicalPath": "/fipe/peugeot/scoot-elec-1997-821003-9/",
+      "ano": 1997,
+      "marca": "PEUGEOT"
+    },
+    {
+      "vehicleId": "peugeot-scoot-elec-1998-gasolina",
+      "fipeCodigo": "821003-9",
+      "displayName": "PEUGEOT SCOOT ELEC",
+      "valorAtual": 1538,
+      "canonicalPath": "/fipe/peugeot/scoot-elec-1998-821003-9/",
+      "ano": 1998,
+      "marca": "PEUGEOT"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "scoot-1"
+  }
+}

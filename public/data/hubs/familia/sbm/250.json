@@ -1,0 +1,60 @@
+{
+  "tipo": "familia",
+  "slug": "250",
+  "canonicalPath": "/fipe/sbm/250/",
+  "titulo": "SBM 250 - Tabela FIPE",
+  "descricao": "4 versoes e anos do SBM 250 na Tabela FIPE.",
+  "seo": {
+    "title": "SBM 250 - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes SBM 250. 4 veiculos indexados.",
+    "h1": "SBM 250 - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/sbm/250/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "sbm-250-s-2026-gasolina",
+      "fipeCodigo": "704001-6",
+      "displayName": "SBM 250 S",
+      "valorAtual": 20507,
+      "canonicalPath": "/fipe/sbm/250-s-2026-704001-6/",
+      "ano": 2026,
+      "marca": "SBM"
+    },
+    {
+      "vehicleId": "sbm-250-t-2026-gasolina",
+      "fipeCodigo": "704008-3",
+      "displayName": "SBM 250 T",
+      "valorAtual": 21795,
+      "canonicalPath": "/fipe/sbm/250-t-2026-704008-3/",
+      "ano": 2026,
+      "marca": "SBM"
+    },
+    {
+      "vehicleId": "sbm-250-s-0-gasolina",
+      "fipeCodigo": "704001-6",
+      "displayName": "SBM 250 S",
+      "valorAtual": 23391,
+      "canonicalPath": "/fipe/sbm/250-s-0-704001-6/",
+      "ano": 0,
+      "marca": "SBM"
+    },
+    {
+      "vehicleId": "sbm-250-t-0-gasolina",
+      "fipeCodigo": "704008-3",
+      "displayName": "SBM 250 T",
+      "valorAtual": 24995,
+      "canonicalPath": "/fipe/sbm/250-t-0-704008-3/",
+      "ano": 0,
+      "marca": "SBM"
+    }
+  ],
+  "stats": {
+    "total": 4,
+    "precoMin": 20507,
+    "precoMax": 24995,
+    "anos": [
+      2026,
+      0
+    ]
+  }
+}

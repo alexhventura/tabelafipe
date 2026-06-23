@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "318ia-1",
+  "canonicalPath": "/geracao/bmw/318ia-1/",
+  "titulo": "Geracao 318ia-1",
+  "descricao": "2 veiculos da geracao 318ia-1.",
+  "seo": {
+    "title": "Geracao 318ia-1 - Precos FIPE",
+    "description": "Veiculos da geracao 318ia-1 na Tabela FIPE.",
+    "h1": "Geracao 318ia-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/bmw/318ia-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "bmw-318ia-2-0-16v-136cv-5p-2011-gasolina",
+      "fipeCodigo": "009155-3",
+      "displayName": "BMW 318iA 2.0 16V 136cv 5p",
+      "valorAtual": 55726,
+      "canonicalPath": "/fipe/bmw/318ia-2-0-16v-136cv-5p-2011-009155-3/",
+      "ano": 2011,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-318ia-2-0-16v-136cv-5p-2012-gasolina",
+      "fipeCodigo": "009155-3",
+      "displayName": "BMW 318iA 2.0 16V 136cv 5p",
+      "valorAtual": 60224,
+      "canonicalPath": "/fipe/bmw/318ia-2-0-16v-136cv-5p-2012-009155-3/",
+      "ano": 2012,
+      "marca": "BMW"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "318ia-1"
+  }
+}

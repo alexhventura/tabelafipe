@@ -1,0 +1,93 @@
+{
+  "tipo": "geracao",
+  "slug": "296-2",
+  "canonicalPath": "/geracao/ferrari/296-2/",
+  "titulo": "Geracao 296-2",
+  "descricao": "8 veiculos da geracao 296-2.",
+  "seo": {
+    "title": "Geracao 296-2 - Precos FIPE",
+    "description": "Veiculos da geracao 296-2 na Tabela FIPE.",
+    "h1": "Geracao 296-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/ferrari/296-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "ferrari-296-gtb-hibrido-2022-hibrido",
+      "fipeCodigo": "031054-9",
+      "displayName": "Ferrari 296 GTB (Hibrido)",
+      "valorAtual": 2928915,
+      "canonicalPath": "/fipe/ferrari/296-gtb-hibrido-2022-031054-9/",
+      "ano": 2022,
+      "marca": "Ferrari"
+    },
+    {
+      "vehicleId": "ferrari-296-gtb-hibrido-2023-hibrido",
+      "fipeCodigo": "031054-9",
+      "displayName": "Ferrari 296 GTB (Hibrido)",
+      "valorAtual": 3106535,
+      "canonicalPath": "/fipe/ferrari/296-gtb-hibrido-2023-031054-9/",
+      "ano": 2023,
+      "marca": "Ferrari"
+    },
+    {
+      "vehicleId": "ferrari-296-gtb-hibrido-2024-hibrido",
+      "fipeCodigo": "031054-9",
+      "displayName": "Ferrari 296 GTB (Hibrido)",
+      "valorAtual": 3286840,
+      "canonicalPath": "/fipe/ferrari/296-gtb-hibrido-2024-031054-9/",
+      "ano": 2024,
+      "marca": "Ferrari"
+    },
+    {
+      "vehicleId": "ferrari-296-gtb-hibrido-2025-hibrido",
+      "fipeCodigo": "031054-9",
+      "displayName": "Ferrari 296 GTB (Hibrido)",
+      "valorAtual": 3693543,
+      "canonicalPath": "/fipe/ferrari/296-gtb-hibrido-2025-031054-9/",
+      "ano": 2025,
+      "marca": "Ferrari"
+    },
+    {
+      "vehicleId": "ferrari-296-gts-hibrido-2023-hibrido",
+      "fipeCodigo": "031055-7",
+      "displayName": "Ferrari 296 GTS (Híbrido)",
+      "valorAtual": 3523891,
+      "canonicalPath": "/fipe/ferrari/296-gts-hibrido-2023-031055-7/",
+      "ano": 2023,
+      "marca": "Ferrari"
+    },
+    {
+      "vehicleId": "ferrari-296-gts-hibrido-2024-hibrido",
+      "fipeCodigo": "031055-7",
+      "displayName": "Ferrari 296 GTS (Híbrido)",
+      "valorAtual": 3743894,
+      "canonicalPath": "/fipe/ferrari/296-gts-hibrido-2024-031055-7/",
+      "ano": 2024,
+      "marca": "Ferrari"
+    },
+    {
+      "vehicleId": "ferrari-296-gts-hibrido-2025-hibrido",
+      "fipeCodigo": "031055-7",
+      "displayName": "Ferrari 296 GTS (Híbrido)",
+      "valorAtual": 3879903,
+      "canonicalPath": "/fipe/ferrari/296-gts-hibrido-2025-031055-7/",
+      "ano": 2025,
+      "marca": "Ferrari"
+    },
+    {
+      "vehicleId": "ferrari-296-gts-hibrido-2026-hibrido",
+      "fipeCodigo": "031055-7",
+      "displayName": "Ferrari 296 GTS (Híbrido)",
+      "valorAtual": 4201056,
+      "canonicalPath": "/fipe/ferrari/296-gts-hibrido-2026-031055-7/",
+      "ano": 2026,
+      "marca": "Ferrari"
+    }
+  ],
+  "stats": {
+    "total": 8
+  },
+  "meta": {
+    "geracaoId": "296-2"
+  }
+}

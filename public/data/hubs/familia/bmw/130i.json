@@ -1,0 +1,62 @@
+{
+  "tipo": "familia",
+  "slug": "130i",
+  "canonicalPath": "/fipe/bmw/130i/",
+  "titulo": "BMW 130i - Tabela FIPE",
+  "descricao": "4 versoes e anos do BMW 130i na Tabela FIPE.",
+  "seo": {
+    "title": "BMW 130i - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes BMW 130i. 4 veiculos indexados.",
+    "h1": "BMW 130i - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/bmw/130i/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "bmw-130i-3-0-24v-265cv-5p-2009-gasolina",
+      "fipeCodigo": "009109-0",
+      "displayName": "BMW 130i 3.0 24V 265cv 5p",
+      "valorAtual": 83321,
+      "canonicalPath": "/fipe/bmw/130i-3-0-24v-265cv-5p-2009-009109-0/",
+      "ano": 2009,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-130i-3-0-24v-265cv-5p-2008-gasolina",
+      "fipeCodigo": "009109-0",
+      "displayName": "BMW 130i 3.0 24V 265cv 5p",
+      "valorAtual": 81288,
+      "canonicalPath": "/fipe/bmw/130i-3-0-24v-265cv-5p-2008-009109-0/",
+      "ano": 2008,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-130i-3-0-24v-265cv-5p-2007-gasolina",
+      "fipeCodigo": "009109-0",
+      "displayName": "BMW 130i 3.0 24V 265cv 5p",
+      "valorAtual": 79305,
+      "canonicalPath": "/fipe/bmw/130i-3-0-24v-265cv-5p-2007-009109-0/",
+      "ano": 2007,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-130i-3-0-24v-265cv-5p-2006-gasolina",
+      "fipeCodigo": "009109-0",
+      "displayName": "BMW 130i 3.0 24V 265cv 5p",
+      "valorAtual": 71595,
+      "canonicalPath": "/fipe/bmw/130i-3-0-24v-265cv-5p-2006-009109-0/",
+      "ano": 2006,
+      "marca": "BMW"
+    }
+  ],
+  "stats": {
+    "total": 4,
+    "precoMin": 71595,
+    "precoMax": 83321,
+    "anos": [
+      2009,
+      2008,
+      2007,
+      2006
+    ]
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "tipo": "geracao",
+  "slug": "xl-4",
+  "canonicalPath": "/geracao/honda/xl-4/",
+  "titulo": "Geracao xl-4",
+  "descricao": "4 veiculos da geracao xl-4.",
+  "seo": {
+    "title": "Geracao xl-4 - Precos FIPE",
+    "description": "Veiculos da geracao xl-4 na Tabela FIPE.",
+    "h1": "Geracao xl-4",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/honda/xl-4/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "honda-xl-700v-transalp-2011-gasolina",
+      "fipeCodigo": "811107-3",
+      "displayName": "HONDA XL 700V TRANSALP",
+      "valorAtual": 29445,
+      "canonicalPath": "/fipe/honda/xl-700v-transalp-2011-811107-3/",
+      "ano": 2011,
+      "marca": "HONDA"
+    },
+    {
+      "vehicleId": "honda-xl-700v-transalp-2012-gasolina",
+      "fipeCodigo": "811107-3",
+      "displayName": "HONDA XL 700V TRANSALP",
+      "valorAtual": 30182,
+      "canonicalPath": "/fipe/honda/xl-700v-transalp-2012-811107-3/",
+      "ano": 2012,
+      "marca": "HONDA"
+    },
+    {
+      "vehicleId": "honda-xl-700v-transalp-2013-gasolina",
+      "fipeCodigo": "811107-3",
+      "displayName": "HONDA XL 700V TRANSALP",
+      "valorAtual": 31960,
+      "canonicalPath": "/fipe/honda/xl-700v-transalp-2013-811107-3/",
+      "ano": 2013,
+      "marca": "HONDA"
+    },
+    {
+      "vehicleId": "honda-xl-700v-transalp-2014-gasolina",
+      "fipeCodigo": "811107-3",
+      "displayName": "HONDA XL 700V TRANSALP",
+      "valorAtual": 32950,
+      "canonicalPath": "/fipe/honda/xl-700v-transalp-2014-811107-3/",
+      "ano": 2014,
+      "marca": "HONDA"
+    }
+  ],
+  "stats": {
+    "total": 4
+  },
+  "meta": {
+    "geracaoId": "xl-4"
+  }
+}

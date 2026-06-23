@@ -1,0 +1,75 @@
+{
+  "tipo": "geracao",
+  "slug": "speed-4",
+  "canonicalPath": "/geracao/triumph/speed-4/",
+  "titulo": "Geracao speed-4",
+  "descricao": "6 veiculos da geracao speed-4.",
+  "seo": {
+    "title": "Geracao speed-4 - Precos FIPE",
+    "description": "Veiculos da geracao speed-4 na Tabela FIPE.",
+    "h1": "Geracao speed-4",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/triumph/speed-4/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "triumph-speed-triple-1050r-2016-gasolina",
+      "fipeCodigo": "826052-4",
+      "displayName": "TRIUMPH SPEED TRIPLE 1050R",
+      "valorAtual": 43595,
+      "canonicalPath": "/fipe/triumph/speed-triple-1050r-2016-826052-4/",
+      "ano": 2016,
+      "marca": "TRIUMPH"
+    },
+    {
+      "vehicleId": "triumph-speed-triple-1050r-2017-gasolina",
+      "fipeCodigo": "826052-4",
+      "displayName": "TRIUMPH SPEED TRIPLE 1050R",
+      "valorAtual": 44685,
+      "canonicalPath": "/fipe/triumph/speed-triple-1050r-2017-826052-4/",
+      "ano": 2017,
+      "marca": "TRIUMPH"
+    },
+    {
+      "vehicleId": "triumph-speed-triple-1050i-2012-gasolina",
+      "fipeCodigo": "826028-1",
+      "displayName": "TRIUMPH SPEED TRIPLE 1050i",
+      "valorAtual": 32743,
+      "canonicalPath": "/fipe/triumph/speed-triple-1050i-2012-826028-1/",
+      "ano": 2012,
+      "marca": "TRIUMPH"
+    },
+    {
+      "vehicleId": "triumph-speed-triple-1050i-2013-gasolina",
+      "fipeCodigo": "826028-1",
+      "displayName": "TRIUMPH SPEED TRIPLE 1050i",
+      "valorAtual": 33562,
+      "canonicalPath": "/fipe/triumph/speed-triple-1050i-2013-826028-1/",
+      "ano": 2013,
+      "marca": "TRIUMPH"
+    },
+    {
+      "vehicleId": "triumph-speed-triple-1050i-2014-gasolina",
+      "fipeCodigo": "826028-1",
+      "displayName": "TRIUMPH SPEED TRIPLE 1050i",
+      "valorAtual": 35528,
+      "canonicalPath": "/fipe/triumph/speed-triple-1050i-2014-826028-1/",
+      "ano": 2014,
+      "marca": "TRIUMPH"
+    },
+    {
+      "vehicleId": "triumph-speed-triple-1050i-2015-gasolina",
+      "fipeCodigo": "826028-1",
+      "displayName": "TRIUMPH SPEED TRIPLE 1050i",
+      "valorAtual": 37855,
+      "canonicalPath": "/fipe/triumph/speed-triple-1050i-2015-826028-1/",
+      "ano": 2015,
+      "marca": "TRIUMPH"
+    }
+  ],
+  "stats": {
+    "total": 6
+  },
+  "meta": {
+    "geracaoId": "speed-4"
+  }
+}

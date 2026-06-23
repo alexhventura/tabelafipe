@@ -1,0 +1,102 @@
+{
+  "tipo": "geracao",
+  "slug": "kansas-1",
+  "canonicalPath": "/geracao/dafra/kansas-1/",
+  "titulo": "Geracao kansas-1",
+  "descricao": "9 veiculos da geracao kansas-1.",
+  "seo": {
+    "title": "Geracao kansas-1 - Precos FIPE",
+    "description": "Veiculos da geracao kansas-1 na Tabela FIPE.",
+    "h1": "Geracao kansas-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/dafra/kansas-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "dafra-kansas-150-2008-gasolina",
+      "fipeCodigo": "861003-7",
+      "displayName": "DAFRA KANSAS 150",
+      "valorAtual": 4578,
+      "canonicalPath": "/fipe/dafra/kansas-150-2008-861003-7/",
+      "ano": 2008,
+      "marca": "DAFRA"
+    },
+    {
+      "vehicleId": "dafra-kansas-150-2009-gasolina",
+      "fipeCodigo": "861003-7",
+      "displayName": "DAFRA KANSAS 150",
+      "valorAtual": 5061,
+      "canonicalPath": "/fipe/dafra/kansas-150-2009-861003-7/",
+      "ano": 2009,
+      "marca": "DAFRA"
+    },
+    {
+      "vehicleId": "dafra-kansas-150-2010-gasolina",
+      "fipeCodigo": "861003-7",
+      "displayName": "DAFRA KANSAS 150",
+      "valorAtual": 5330,
+      "canonicalPath": "/fipe/dafra/kansas-150-2010-861003-7/",
+      "ano": 2010,
+      "marca": "DAFRA"
+    },
+    {
+      "vehicleId": "dafra-kansas-150-2011-gasolina",
+      "fipeCodigo": "861003-7",
+      "displayName": "DAFRA KANSAS 150",
+      "valorAtual": 5597,
+      "canonicalPath": "/fipe/dafra/kansas-150-2011-861003-7/",
+      "ano": 2011,
+      "marca": "DAFRA"
+    },
+    {
+      "vehicleId": "dafra-kansas-150-2012-gasolina",
+      "fipeCodigo": "861003-7",
+      "displayName": "DAFRA KANSAS 150",
+      "valorAtual": 5737,
+      "canonicalPath": "/fipe/dafra/kansas-150-2012-861003-7/",
+      "ano": 2012,
+      "marca": "DAFRA"
+    },
+    {
+      "vehicleId": "dafra-kansas-150-2013-gasolina",
+      "fipeCodigo": "861003-7",
+      "displayName": "DAFRA KANSAS 150",
+      "valorAtual": 5970,
+      "canonicalPath": "/fipe/dafra/kansas-150-2013-861003-7/",
+      "ano": 2013,
+      "marca": "DAFRA"
+    },
+    {
+      "vehicleId": "dafra-kansas-150-2014-gasolina",
+      "fipeCodigo": "861003-7",
+      "displayName": "DAFRA KANSAS 150",
+      "valorAtual": 6255,
+      "canonicalPath": "/fipe/dafra/kansas-150-2014-861003-7/",
+      "ano": 2014,
+      "marca": "DAFRA"
+    },
+    {
+      "vehicleId": "dafra-kansas-150-2015-gasolina",
+      "fipeCodigo": "861003-7",
+      "displayName": "DAFRA KANSAS 150",
+      "valorAtual": 6495,
+      "canonicalPath": "/fipe/dafra/kansas-150-2015-861003-7/",
+      "ano": 2015,
+      "marca": "DAFRA"
+    },
+    {
+      "vehicleId": "dafra-kansas-250-2009-gasolina",
+      "fipeCodigo": "861006-1",
+      "displayName": "DAFRA KANSAS 250",
+      "valorAtual": 11940,
+      "canonicalPath": "/fipe/dafra/kansas-250-2009-861006-1/",
+      "ano": 2009,
+      "marca": "DAFRA"
+    }
+  ],
+  "stats": {
+    "total": 9
+  },
+  "meta": {
+    "geracaoId": "kansas-1"
+  }
+}

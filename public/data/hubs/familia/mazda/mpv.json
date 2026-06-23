@@ -1,0 +1,112 @@
+{
+  "tipo": "familia",
+  "slug": "mpv",
+  "canonicalPath": "/fipe/mazda/mpv/",
+  "titulo": "Mazda mpv - Tabela FIPE",
+  "descricao": "9 versoes e anos do Mazda mpv na Tabela FIPE.",
+  "seo": {
+    "title": "Mazda mpv - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes Mazda mpv. 9 veiculos indexados.",
+    "h1": "Mazda mpv - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/mazda/mpv/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "mazda-mpv-minivan-aut-2000-gasolina",
+      "fipeCodigo": "020004-2",
+      "displayName": "Mazda MPV Minivan Aut",
+      "valorAtual": 23569,
+      "canonicalPath": "/fipe/mazda/mpv-minivan-aut-2000-020004-2/",
+      "ano": 2000,
+      "marca": "Mazda"
+    },
+    {
+      "vehicleId": "mazda-mpv-minivan-aut-1999-gasolina",
+      "fipeCodigo": "020004-2",
+      "displayName": "Mazda MPV Minivan Aut",
+      "valorAtual": 22994,
+      "canonicalPath": "/fipe/mazda/mpv-minivan-aut-1999-020004-2/",
+      "ano": 1999,
+      "marca": "Mazda"
+    },
+    {
+      "vehicleId": "mazda-mpv-minivan-aut-1998-gasolina",
+      "fipeCodigo": "020004-2",
+      "displayName": "Mazda MPV Minivan Aut",
+      "valorAtual": 22433,
+      "canonicalPath": "/fipe/mazda/mpv-minivan-aut-1998-020004-2/",
+      "ano": 1998,
+      "marca": "Mazda"
+    },
+    {
+      "vehicleId": "mazda-mpv-minivan-aut-1997-gasolina",
+      "fipeCodigo": "020004-2",
+      "displayName": "Mazda MPV Minivan Aut",
+      "valorAtual": 13935,
+      "canonicalPath": "/fipe/mazda/mpv-minivan-aut-1997-020004-2/",
+      "ano": 1997,
+      "marca": "Mazda"
+    },
+    {
+      "vehicleId": "mazda-mpv-minivan-aut-1996-gasolina",
+      "fipeCodigo": "020004-2",
+      "displayName": "Mazda MPV Minivan Aut",
+      "valorAtual": 13477,
+      "canonicalPath": "/fipe/mazda/mpv-minivan-aut-1996-020004-2/",
+      "ano": 1996,
+      "marca": "Mazda"
+    },
+    {
+      "vehicleId": "mazda-mpv-minivan-aut-1995-gasolina",
+      "fipeCodigo": "020004-2",
+      "displayName": "Mazda MPV Minivan Aut",
+      "valorAtual": 13148,
+      "canonicalPath": "/fipe/mazda/mpv-minivan-aut-1995-020004-2/",
+      "ano": 1995,
+      "marca": "Mazda"
+    },
+    {
+      "vehicleId": "mazda-mpv-minivan-aut-1994-gasolina",
+      "fipeCodigo": "020004-2",
+      "displayName": "Mazda MPV Minivan Aut",
+      "valorAtual": 10719,
+      "canonicalPath": "/fipe/mazda/mpv-minivan-aut-1994-020004-2/",
+      "ano": 1994,
+      "marca": "Mazda"
+    },
+    {
+      "vehicleId": "mazda-mpv-minivan-aut-1993-gasolina",
+      "fipeCodigo": "020004-2",
+      "displayName": "Mazda MPV Minivan Aut",
+      "valorAtual": 10281,
+      "canonicalPath": "/fipe/mazda/mpv-minivan-aut-1993-020004-2/",
+      "ano": 1993,
+      "marca": "Mazda"
+    },
+    {
+      "vehicleId": "mazda-mpv-minivan-aut-1992-gasolina",
+      "fipeCodigo": "020004-2",
+      "displayName": "Mazda MPV Minivan Aut",
+      "valorAtual": 8153,
+      "canonicalPath": "/fipe/mazda/mpv-minivan-aut-1992-020004-2/",
+      "ano": 1992,
+      "marca": "Mazda"
+    }
+  ],
+  "stats": {
+    "total": 9,
+    "precoMin": 8153,
+    "precoMax": 23569,
+    "anos": [
+      2000,
+      1999,
+      1998,
+      1997,
+      1996,
+      1995,
+      1994,
+      1993,
+      1992
+    ]
+  }
+}

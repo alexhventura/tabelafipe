@@ -1,0 +1,99 @@
+{
+  "tipo": "familia",
+  "slug": "arrizo",
+  "canonicalPath": "/fipe/caoa-chery/arrizo/",
+  "titulo": "Caoa Chery arrizo - Tabela FIPE",
+  "descricao": "8 versoes e anos do Caoa Chery arrizo na Tabela FIPE.",
+  "seo": {
+    "title": "Caoa Chery arrizo - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes Caoa Chery arrizo. 8 veiculos indexados.",
+    "h1": "Caoa Chery arrizo - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/caoa-chery/arrizo/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "caoa-chery-arrizo-6-pro-1-5-turbo-hibrido-2025-hibrido",
+      "fipeCodigo": "093012-1",
+      "displayName": "Caoa Chery ARRIZO 6 PRO 1.5 Turbo (Híbrido)",
+      "valorAtual": 121711,
+      "canonicalPath": "/fipe/caoa-chery/arrizo-6-pro-1-5-turbo-hibrido-2025-093012-1/",
+      "ano": 2025,
+      "marca": "Caoa Chery"
+    },
+    {
+      "vehicleId": "caoa-chery-arrizo-6-pro-max-drive-1-5-turbo-hib-2025-hibrido",
+      "fipeCodigo": "093019-9",
+      "displayName": "Caoa Chery ARRIZO 6 PRO Max Drive 1.5 Turbo (Híb.)",
+      "valorAtual": 126025,
+      "canonicalPath": "/fipe/caoa-chery/arrizo-6-pro-max-drive-1-5-turbo-hib-2025-093019-9/",
+      "ano": 2025,
+      "marca": "Caoa Chery"
+    },
+    {
+      "vehicleId": "caoa-chery-arrizo-6-pro-1-5-turbo-hibrido-2024-hibrido",
+      "fipeCodigo": "093012-1",
+      "displayName": "Caoa Chery ARRIZO 6 PRO 1.5 Turbo (Híbrido)",
+      "valorAtual": 112458,
+      "canonicalPath": "/fipe/caoa-chery/arrizo-6-pro-1-5-turbo-hibrido-2024-093012-1/",
+      "ano": 2024,
+      "marca": "Caoa Chery"
+    },
+    {
+      "vehicleId": "caoa-chery-arrizo-6-pro-1-5-turbo-flex-aut-2023-flex",
+      "fipeCodigo": "093003-2",
+      "displayName": "Caoa Chery ARRIZO 6  PRO 1.5 Turbo Flex Aut.",
+      "valorAtual": 107640,
+      "canonicalPath": "/fipe/caoa-chery/arrizo-6-pro-1-5-turbo-flex-aut-2023-093003-2/",
+      "ano": 2023,
+      "marca": "Caoa Chery"
+    },
+    {
+      "vehicleId": "caoa-chery-arrizo-6-pro-1-5-turbo-hibrido-2023-hibrido",
+      "fipeCodigo": "093012-1",
+      "displayName": "Caoa Chery ARRIZO 6 PRO 1.5 Turbo (Híbrido)",
+      "valorAtual": 108520,
+      "canonicalPath": "/fipe/caoa-chery/arrizo-6-pro-1-5-turbo-hibrido-2023-093012-1/",
+      "ano": 2023,
+      "marca": "Caoa Chery"
+    },
+    {
+      "vehicleId": "caoa-chery-arrizo-6-pro-1-5-turbo-flex-aut-2022-flex",
+      "fipeCodigo": "093003-2",
+      "displayName": "Caoa Chery ARRIZO 6  PRO 1.5 Turbo Flex Aut.",
+      "valorAtual": 96551,
+      "canonicalPath": "/fipe/caoa-chery/arrizo-6-pro-1-5-turbo-flex-aut-2022-093003-2/",
+      "ano": 2022,
+      "marca": "Caoa Chery"
+    },
+    {
+      "vehicleId": "caoa-chery-arrizo-6-pro-1-5-turbo-hibrido-0-hibrido",
+      "fipeCodigo": "093012-1",
+      "displayName": "Caoa Chery ARRIZO 6 PRO 1.5 Turbo (Híbrido)",
+      "valorAtual": 144460,
+      "canonicalPath": "/fipe/caoa-chery/arrizo-6-pro-1-5-turbo-hibrido-0-093012-1/",
+      "ano": 0,
+      "marca": "Caoa Chery"
+    },
+    {
+      "vehicleId": "caoa-chery-arrizo-6-pro-max-drive-1-5-turbo-hib-0-hibrido",
+      "fipeCodigo": "093019-9",
+      "displayName": "Caoa Chery ARRIZO 6 PRO Max Drive 1.5 Turbo (Híb.)",
+      "valorAtual": 150056,
+      "canonicalPath": "/fipe/caoa-chery/arrizo-6-pro-max-drive-1-5-turbo-hib-0-093019-9/",
+      "ano": 0,
+      "marca": "Caoa Chery"
+    }
+  ],
+  "stats": {
+    "total": 8,
+    "precoMin": 96551,
+    "precoMax": 150056,
+    "anos": [
+      2025,
+      2024,
+      2023,
+      2022,
+      0
+    ]
+  }
+}

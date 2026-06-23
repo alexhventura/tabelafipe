@@ -1,0 +1,102 @@
+{
+  "tipo": "geracao",
+  "slug": "106-1",
+  "canonicalPath": "/geracao/peugeot/106-1/",
+  "titulo": "Geracao 106-1",
+  "descricao": "9 veiculos da geracao 106-1.",
+  "seo": {
+    "title": "Geracao 106-1 - Precos FIPE",
+    "description": "Veiculos da geracao 106-1 na Tabela FIPE.",
+    "h1": "Geracao 106-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/peugeot/106-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "peugeot-106-kid-1-0-1994-gasolina",
+      "fipeCodigo": "024042-7",
+      "displayName": "Peugeot 106 KID 1.0",
+      "valorAtual": 4608,
+      "canonicalPath": "/fipe/peugeot/106-kid-1-0-1994-024042-7/",
+      "ano": 1994,
+      "marca": "Peugeot"
+    },
+    {
+      "vehicleId": "peugeot-106-kid-1-0-1995-gasolina",
+      "fipeCodigo": "024042-7",
+      "displayName": "Peugeot 106 KID 1.0",
+      "valorAtual": 4724,
+      "canonicalPath": "/fipe/peugeot/106-kid-1-0-1995-024042-7/",
+      "ano": 1995,
+      "marca": "Peugeot"
+    },
+    {
+      "vehicleId": "peugeot-106-xn-3p-e-5p-1994-gasolina",
+      "fipeCodigo": "024001-0",
+      "displayName": "Peugeot 106 XN 3p e 5p",
+      "valorAtual": 4237,
+      "canonicalPath": "/fipe/peugeot/106-xn-3p-e-5p-1994-024001-0/",
+      "ano": 1994,
+      "marca": "Peugeot"
+    },
+    {
+      "vehicleId": "peugeot-106-xn-3p-e-5p-1995-gasolina",
+      "fipeCodigo": "024001-0",
+      "displayName": "Peugeot 106 XN 3p e 5p",
+      "valorAtual": 5132,
+      "canonicalPath": "/fipe/peugeot/106-xn-3p-e-5p-1995-024001-0/",
+      "ano": 1995,
+      "marca": "Peugeot"
+    },
+    {
+      "vehicleId": "peugeot-106-xn-3p-e-5p-1996-gasolina",
+      "fipeCodigo": "024001-0",
+      "displayName": "Peugeot 106 XN 3p e 5p",
+      "valorAtual": 6667,
+      "canonicalPath": "/fipe/peugeot/106-xn-3p-e-5p-1996-024001-0/",
+      "ano": 1996,
+      "marca": "Peugeot"
+    },
+    {
+      "vehicleId": "peugeot-106-xt-1992-gasolina",
+      "fipeCodigo": "024002-8",
+      "displayName": "Peugeot 106 XT",
+      "valorAtual": 3151,
+      "canonicalPath": "/fipe/peugeot/106-xt-1992-024002-8/",
+      "ano": 1992,
+      "marca": "Peugeot"
+    },
+    {
+      "vehicleId": "peugeot-106-xt-1993-gasolina",
+      "fipeCodigo": "024002-8",
+      "displayName": "Peugeot 106 XT",
+      "valorAtual": 3724,
+      "canonicalPath": "/fipe/peugeot/106-xt-1993-024002-8/",
+      "ano": 1993,
+      "marca": "Peugeot"
+    },
+    {
+      "vehicleId": "peugeot-106-xt-1994-gasolina",
+      "fipeCodigo": "024002-8",
+      "displayName": "Peugeot 106 XT",
+      "valorAtual": 4593,
+      "canonicalPath": "/fipe/peugeot/106-xt-1994-024002-8/",
+      "ano": 1994,
+      "marca": "Peugeot"
+    },
+    {
+      "vehicleId": "peugeot-106-xt-1995-gasolina",
+      "fipeCodigo": "024002-8",
+      "displayName": "Peugeot 106 XT",
+      "valorAtual": 5547,
+      "canonicalPath": "/fipe/peugeot/106-xt-1995-024002-8/",
+      "ano": 1995,
+      "marca": "Peugeot"
+    }
+  ],
+  "stats": {
+    "total": 9
+  },
+  "meta": {
+    "geracaoId": "106-1"
+  }
+}

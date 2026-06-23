@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "guerrilla-2",
+  "canonicalPath": "/geracao/royal-enfield/guerrilla-2/",
+  "titulo": "Geracao guerrilla-2",
+  "descricao": "2 veiculos da geracao guerrilla-2.",
+  "seo": {
+    "title": "Geracao guerrilla-2 - Precos FIPE",
+    "description": "Veiculos da geracao guerrilla-2 na Tabela FIPE.",
+    "h1": "Geracao guerrilla-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/royal-enfield/guerrilla-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "royal-enfield-guerrilla-450-mid-2026-gasolina",
+      "fipeCodigo": "879043-4",
+      "displayName": "Royal Enfield Guerrilla 450 Mid",
+      "valorAtual": 26237,
+      "canonicalPath": "/fipe/royal-enfield/guerrilla-450-mid-2026-879043-4/",
+      "ano": 2026,
+      "marca": "Royal Enfield"
+    },
+    {
+      "vehicleId": "royal-enfield-guerrilla-450-top-2026-gasolina",
+      "fipeCodigo": "879046-9",
+      "displayName": "Royal Enfield Guerrilla 450 Top",
+      "valorAtual": 26560,
+      "canonicalPath": "/fipe/royal-enfield/guerrilla-450-top-2026-879046-9/",
+      "ano": 2026,
+      "marca": "Royal Enfield"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "guerrilla-2"
+  }
+}

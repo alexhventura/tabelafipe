@@ -1,0 +1,62 @@
+{
+  "tipo": "familia",
+  "slug": "deluxe",
+  "canonicalPath": "/fipe/lon-v/deluxe/",
+  "titulo": "Lon-V deluxe - Tabela FIPE",
+  "descricao": "4 versoes e anos do Lon-V deluxe na Tabela FIPE.",
+  "seo": {
+    "title": "Lon-V deluxe - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes Lon-V deluxe. 4 veiculos indexados.",
+    "h1": "Lon-V deluxe - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/lon-v/deluxe/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "lon-v-deluxe-152cc-2013-gasolina",
+      "fipeCodigo": "863004-6",
+      "displayName": "Lon-V DELUXE 152cc",
+      "valorAtual": 4397,
+      "canonicalPath": "/fipe/lon-v/deluxe-152cc-2013-863004-6/",
+      "ano": 2013,
+      "marca": "Lon-V"
+    },
+    {
+      "vehicleId": "lon-v-deluxe-152cc-2012-gasolina",
+      "fipeCodigo": "863004-6",
+      "displayName": "Lon-V DELUXE 152cc",
+      "valorAtual": 4287,
+      "canonicalPath": "/fipe/lon-v/deluxe-152cc-2012-863004-6/",
+      "ano": 2012,
+      "marca": "Lon-V"
+    },
+    {
+      "vehicleId": "lon-v-deluxe-152cc-2011-gasolina",
+      "fipeCodigo": "863004-6",
+      "displayName": "Lon-V DELUXE 152cc",
+      "valorAtual": 4182,
+      "canonicalPath": "/fipe/lon-v/deluxe-152cc-2011-863004-6/",
+      "ano": 2011,
+      "marca": "Lon-V"
+    },
+    {
+      "vehicleId": "lon-v-deluxe-152cc-2010-gasolina",
+      "fipeCodigo": "863004-6",
+      "displayName": "Lon-V DELUXE 152cc",
+      "valorAtual": 4080,
+      "canonicalPath": "/fipe/lon-v/deluxe-152cc-2010-863004-6/",
+      "ano": 2010,
+      "marca": "Lon-V"
+    }
+  ],
+  "stats": {
+    "total": 4,
+    "precoMin": 4080,
+    "precoMax": 4397,
+    "anos": [
+      2013,
+      2012,
+      2011,
+      2010
+    ]
+  }
+}

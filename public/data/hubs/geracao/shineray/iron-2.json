@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "iron-2",
+  "canonicalPath": "/geracao/shineray/iron-2/",
+  "titulo": "Geracao iron-2",
+  "descricao": "2 veiculos da geracao iron-2.",
+  "seo": {
+    "title": "Geracao iron-2 - Precos FIPE",
+    "description": "Veiculos da geracao iron-2 na Tabela FIPE.",
+    "h1": "Geracao iron-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/shineray/iron-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "shineray-iron-250-efi-2025-gasolina",
+      "fipeCodigo": "850054-1",
+      "displayName": "SHINERAY IRON 250 EFI",
+      "valorAtual": 21303,
+      "canonicalPath": "/fipe/shineray/iron-250-efi-2025-850054-1/",
+      "ano": 2025,
+      "marca": "SHINERAY"
+    },
+    {
+      "vehicleId": "shineray-iron-250-efi-2026-gasolina",
+      "fipeCodigo": "850054-1",
+      "displayName": "SHINERAY IRON 250 EFI",
+      "valorAtual": 22076,
+      "canonicalPath": "/fipe/shineray/iron-250-efi-2026-850054-1/",
+      "ano": 2026,
+      "marca": "SHINERAY"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "iron-2"
+  }
+}

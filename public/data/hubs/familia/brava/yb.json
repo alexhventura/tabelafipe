@@ -1,0 +1,42 @@
+{
+  "tipo": "familia",
+  "slug": "yb",
+  "canonicalPath": "/fipe/brava/yb/",
+  "titulo": "BRAVA yb - Tabela FIPE",
+  "descricao": "2 versoes e anos do BRAVA yb na Tabela FIPE.",
+  "seo": {
+    "title": "BRAVA yb - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes BRAVA yb. 2 veiculos indexados.",
+    "h1": "BRAVA yb - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/brava/yb/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "brava-yb-150t-15-150cc-2008-gasolina",
+      "fipeCodigo": "853001-7",
+      "displayName": "BRAVA YB 150T-15 150cc",
+      "valorAtual": 3504,
+      "canonicalPath": "/fipe/brava/yb-150t-15-150cc-2008-853001-7/",
+      "ano": 2008,
+      "marca": "BRAVA"
+    },
+    {
+      "vehicleId": "brava-yb-150t-15-150cc-2007-gasolina",
+      "fipeCodigo": "853001-7",
+      "displayName": "BRAVA YB 150T-15 150cc",
+      "valorAtual": 3029,
+      "canonicalPath": "/fipe/brava/yb-150t-15-150cc-2007-853001-7/",
+      "ano": 2007,
+      "marca": "BRAVA"
+    }
+  ],
+  "stats": {
+    "total": 2,
+    "precoMin": 3029,
+    "precoMax": 3504,
+    "anos": [
+      2008,
+      2007
+    ]
+  }
+}

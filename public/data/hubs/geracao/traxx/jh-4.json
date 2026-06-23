@@ -1,0 +1,102 @@
+{
+  "tipo": "geracao",
+  "slug": "jh-4",
+  "canonicalPath": "/geracao/traxx/jh-4/",
+  "titulo": "Geracao jh-4",
+  "descricao": "9 veiculos da geracao jh-4.",
+  "seo": {
+    "title": "Geracao jh-4 - Precos FIPE",
+    "description": "Veiculos da geracao jh-4 na Tabela FIPE.",
+    "h1": "Geracao jh-4",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/traxx/jh-4/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "traxx-jh-150-fly-2016-gasolina",
+      "fipeCodigo": "814020-0",
+      "displayName": "TRAXX JH 150 FLY",
+      "valorAtual": 5672,
+      "canonicalPath": "/fipe/traxx/jh-150-fly-2016-814020-0/",
+      "ano": 2016,
+      "marca": "TRAXX"
+    },
+    {
+      "vehicleId": "traxx-jh-150-fly-2017-gasolina",
+      "fipeCodigo": "814020-0",
+      "displayName": "TRAXX JH 150 FLY",
+      "valorAtual": 6017,
+      "canonicalPath": "/fipe/traxx/jh-150-fly-2017-814020-0/",
+      "ano": 2017,
+      "marca": "TRAXX"
+    },
+    {
+      "vehicleId": "traxx-jh-150-7-tss-150-2016-gasolina",
+      "fipeCodigo": "814021-9",
+      "displayName": "TRAXX JH 150-7 TSS 150",
+      "valorAtual": 4201,
+      "canonicalPath": "/fipe/traxx/jh-150-7-tss-150-2016-814021-9/",
+      "ano": 2016,
+      "marca": "TRAXX"
+    },
+    {
+      "vehicleId": "traxx-jh-150-7-tss-150-2017-gasolina",
+      "fipeCodigo": "814021-9",
+      "displayName": "TRAXX JH 150-7 TSS 150",
+      "valorAtual": 4307,
+      "canonicalPath": "/fipe/traxx/jh-150-7-tss-150-2017-814021-9/",
+      "ano": 2017,
+      "marca": "TRAXX"
+    },
+    {
+      "vehicleId": "traxx-jh-250-fly-2015-gasolina",
+      "fipeCodigo": "814018-9",
+      "displayName": "TRAXX JH 250 FLY",
+      "valorAtual": 4935,
+      "canonicalPath": "/fipe/traxx/jh-250-fly-2015-814018-9/",
+      "ano": 2015,
+      "marca": "TRAXX"
+    },
+    {
+      "vehicleId": "traxx-jh-250-fly-2016-gasolina",
+      "fipeCodigo": "814018-9",
+      "displayName": "TRAXX JH 250 FLY",
+      "valorAtual": 6762,
+      "canonicalPath": "/fipe/traxx/jh-250-fly-2016-814018-9/",
+      "ano": 2016,
+      "marca": "TRAXX"
+    },
+    {
+      "vehicleId": "traxx-jh-250-fly-2017-gasolina",
+      "fipeCodigo": "814018-9",
+      "displayName": "TRAXX JH 250 FLY",
+      "valorAtual": 7384,
+      "canonicalPath": "/fipe/traxx/jh-250-fly-2017-814018-9/",
+      "ano": 2017,
+      "marca": "TRAXX"
+    },
+    {
+      "vehicleId": "traxx-jh-250-8-tss-250-2015-gasolina",
+      "fipeCodigo": "814019-7",
+      "displayName": "TRAXX JH 250-8 TSS 250",
+      "valorAtual": 7182,
+      "canonicalPath": "/fipe/traxx/jh-250-8-tss-250-2015-814019-7/",
+      "ano": 2015,
+      "marca": "TRAXX"
+    },
+    {
+      "vehicleId": "traxx-jh-250-8-tss-250-2016-gasolina",
+      "fipeCodigo": "814019-7",
+      "displayName": "TRAXX JH 250-8 TSS 250",
+      "valorAtual": 7634,
+      "canonicalPath": "/fipe/traxx/jh-250-8-tss-250-2016-814019-7/",
+      "ano": 2016,
+      "marca": "TRAXX"
+    }
+  ],
+  "stats": {
+    "total": 9
+  },
+  "meta": {
+    "geracaoId": "jh-4"
+  }
+}

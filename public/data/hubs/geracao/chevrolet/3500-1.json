@@ -1,0 +1,66 @@
+{
+  "tipo": "geracao",
+  "slug": "3500-1",
+  "canonicalPath": "/geracao/chevrolet/3500-1/",
+  "titulo": "Geracao 3500-1",
+  "descricao": "5 veiculos da geracao 3500-1.",
+  "seo": {
+    "title": "Geracao 3500-1 - Precos FIPE",
+    "description": "Veiculos da geracao 3500-1 na Tabela FIPE.",
+    "h1": "Geracao 3500-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/chevrolet/3500-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "chevrolet-3500-hd-turbo-diesel-2001-diesel",
+      "fipeCodigo": "505013-8",
+      "displayName": "GMC 3500 HD Turbo (diesel)",
+      "valorAtual": 47949,
+      "canonicalPath": "/fipe/chevrolet/3500-hd-turbo-diesel-2001-505013-8/",
+      "ano": 2001,
+      "marca": "GMC"
+    },
+    {
+      "vehicleId": "chevrolet-3500-hd-turbo-diesel-2002-diesel",
+      "fipeCodigo": "505013-8",
+      "displayName": "GMC 3500 HD Turbo (diesel)",
+      "valorAtual": 57748,
+      "canonicalPath": "/fipe/chevrolet/3500-hd-turbo-diesel-2002-505013-8/",
+      "ano": 2002,
+      "marca": "GMC"
+    },
+    {
+      "vehicleId": "ram-3500-laram-6-7-night-ed-tb-cd-4x4-die-0-diesel",
+      "fipeCodigo": "083009-7",
+      "displayName": "RAM 3500 LARAM.6.7 NIGHT ED.TB CD 4X4 Die.",
+      "valorAtual": 619486,
+      "canonicalPath": "/fipe/ram/3500-laram-6-7-night-ed-tb-cd-4x4-die-0-083009-7/",
+      "ano": 0,
+      "marca": "RAM"
+    },
+    {
+      "vehicleId": "ram-3500-laramie-6-7-tb-cd-4x4-diesel-0-diesel",
+      "fipeCodigo": "083007-0",
+      "displayName": "RAM 3500 LARAMIE 6.7 TB CD 4x4 Diesel",
+      "valorAtual": 493353,
+      "canonicalPath": "/fipe/ram/3500-laramie-6-7-tb-cd-4x4-diesel-0-083007-0/",
+      "ano": 0,
+      "marca": "RAM"
+    },
+    {
+      "vehicleId": "ram-3500-limited-longhorn-6-7-tb-cd-diesel-0-diesel",
+      "fipeCodigo": "083008-9",
+      "displayName": "RAM 3500 LIMITED LONGHORN 6.7 TB CD Diesel",
+      "valorAtual": 681607,
+      "canonicalPath": "/fipe/ram/3500-limited-longhorn-6-7-tb-cd-diesel-0-083008-9/",
+      "ano": 0,
+      "marca": "RAM"
+    }
+  ],
+  "stats": {
+    "total": 5
+  },
+  "meta": {
+    "geracaoId": "3500-1"
+  }
+}

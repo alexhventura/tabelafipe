@@ -1,0 +1,72 @@
+{
+  "tipo": "familia",
+  "slug": "fifty",
+  "canonicalPath": "/fipe/sundown/fifty/",
+  "titulo": "SUNDOWN fifty - Tabela FIPE",
+  "descricao": "5 versoes e anos do SUNDOWN fifty na Tabela FIPE.",
+  "seo": {
+    "title": "SUNDOWN fifty - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes SUNDOWN fifty. 5 veiculos indexados.",
+    "h1": "SUNDOWN fifty - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/sundown/fifty/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "sundown-fifty-50cc-2005-gasolina",
+      "fipeCodigo": "824004-3",
+      "displayName": "SUNDOWN FIFTY 50cc",
+      "valorAtual": 1516,
+      "canonicalPath": "/fipe/sundown/fifty-50cc-2005-824004-3/",
+      "ano": 2005,
+      "marca": "SUNDOWN"
+    },
+    {
+      "vehicleId": "sundown-fifty-50cc-2004-gasolina",
+      "fipeCodigo": "824004-3",
+      "displayName": "SUNDOWN FIFTY 50cc",
+      "valorAtual": 1389,
+      "canonicalPath": "/fipe/sundown/fifty-50cc-2004-824004-3/",
+      "ano": 2004,
+      "marca": "SUNDOWN"
+    },
+    {
+      "vehicleId": "sundown-fifty-50cc-2003-gasolina",
+      "fipeCodigo": "824004-3",
+      "displayName": "SUNDOWN FIFTY 50cc",
+      "valorAtual": 1346,
+      "canonicalPath": "/fipe/sundown/fifty-50cc-2003-824004-3/",
+      "ano": 2003,
+      "marca": "SUNDOWN"
+    },
+    {
+      "vehicleId": "sundown-fifty-50cc-2002-gasolina",
+      "fipeCodigo": "824004-3",
+      "displayName": "SUNDOWN FIFTY 50cc",
+      "valorAtual": 1312,
+      "canonicalPath": "/fipe/sundown/fifty-50cc-2002-824004-3/",
+      "ano": 2002,
+      "marca": "SUNDOWN"
+    },
+    {
+      "vehicleId": "sundown-fifty-50cc-1998-gasolina",
+      "fipeCodigo": "824004-3",
+      "displayName": "SUNDOWN FIFTY 50cc",
+      "valorAtual": 1200,
+      "canonicalPath": "/fipe/sundown/fifty-50cc-1998-824004-3/",
+      "ano": 1998,
+      "marca": "SUNDOWN"
+    }
+  ],
+  "stats": {
+    "total": 5,
+    "precoMin": 1200,
+    "precoMax": 1516,
+    "anos": [
+      2005,
+      2004,
+      2003,
+      2002,
+      1998
+    ]
+  }
+}

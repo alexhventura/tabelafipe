@@ -1,0 +1,70 @@
+{
+  "tipo": "familia",
+  "slug": "250",
+  "canonicalPath": "/fipe/kahena/250/",
+  "titulo": "KAHENA 250 - Tabela FIPE",
+  "descricao": "5 versoes e anos do KAHENA 250 na Tabela FIPE.",
+  "seo": {
+    "title": "KAHENA 250 - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes KAHENA 250. 5 veiculos indexados.",
+    "h1": "KAHENA 250 - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/kahena/250/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "kahena-250-dual-2011-gasolina",
+      "fipeCodigo": "815006-0",
+      "displayName": "KAHENA 250 DUAL",
+      "valorAtual": 7021,
+      "canonicalPath": "/fipe/kahena/250-dual-2011-815006-0/",
+      "ano": 2011,
+      "marca": "KAHENA"
+    },
+    {
+      "vehicleId": "kahena-250-dual-t-2011-gasolina",
+      "fipeCodigo": "815007-9",
+      "displayName": "KAHENA 250 DUAL-T",
+      "valorAtual": 7182,
+      "canonicalPath": "/fipe/kahena/250-dual-t-2011-815007-9/",
+      "ano": 2011,
+      "marca": "KAHENA"
+    },
+    {
+      "vehicleId": "kahena-250-dual-2010-gasolina",
+      "fipeCodigo": "815006-0",
+      "displayName": "KAHENA 250 DUAL",
+      "valorAtual": 6147,
+      "canonicalPath": "/fipe/kahena/250-dual-2010-815006-0/",
+      "ano": 2010,
+      "marca": "KAHENA"
+    },
+    {
+      "vehicleId": "kahena-250-dual-t-2010-gasolina",
+      "fipeCodigo": "815007-9",
+      "displayName": "KAHENA 250 DUAL-T",
+      "valorAtual": 6981,
+      "canonicalPath": "/fipe/kahena/250-dual-t-2010-815007-9/",
+      "ano": 2010,
+      "marca": "KAHENA"
+    },
+    {
+      "vehicleId": "kahena-250-dual-2009-gasolina",
+      "fipeCodigo": "815006-0",
+      "displayName": "KAHENA 250 DUAL",
+      "valorAtual": 5723,
+      "canonicalPath": "/fipe/kahena/250-dual-2009-815006-0/",
+      "ano": 2009,
+      "marca": "KAHENA"
+    }
+  ],
+  "stats": {
+    "total": 5,
+    "precoMin": 5723,
+    "precoMax": 7182,
+    "anos": [
+      2011,
+      2010,
+      2009
+    ]
+  }
+}

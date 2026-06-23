@@ -1,0 +1,62 @@
+{
+  "tipo": "familia",
+  "slug": "drago",
+  "canonicalPath": "/fipe/miza/drago/",
+  "titulo": "MIZA drago - Tabela FIPE",
+  "descricao": "4 versoes e anos do MIZA drago na Tabela FIPE.",
+  "seo": {
+    "title": "MIZA drago - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes MIZA drago. 4 veiculos indexados.",
+    "h1": "MIZA drago - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/miza/drago/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "miza-drago-lj-150-7-2011-gasolina",
+      "fipeCodigo": "848004-4",
+      "displayName": "MIZA DRAGO LJ 150-7",
+      "valorAtual": 4336,
+      "canonicalPath": "/fipe/miza/drago-lj-150-7-2011-848004-4/",
+      "ano": 2011,
+      "marca": "MIZA"
+    },
+    {
+      "vehicleId": "miza-drago-lj-150-7-2009-gasolina",
+      "fipeCodigo": "848004-4",
+      "displayName": "MIZA DRAGO LJ 150-7",
+      "valorAtual": 4210,
+      "canonicalPath": "/fipe/miza/drago-lj-150-7-2009-848004-4/",
+      "ano": 2009,
+      "marca": "MIZA"
+    },
+    {
+      "vehicleId": "miza-drago-lj-150-7-2008-gasolina",
+      "fipeCodigo": "848004-4",
+      "displayName": "MIZA DRAGO LJ 150-7",
+      "valorAtual": 3894,
+      "canonicalPath": "/fipe/miza/drago-lj-150-7-2008-848004-4/",
+      "ano": 2008,
+      "marca": "MIZA"
+    },
+    {
+      "vehicleId": "miza-drago-lj-150-7-2007-gasolina",
+      "fipeCodigo": "848004-4",
+      "displayName": "MIZA DRAGO LJ 150-7",
+      "valorAtual": 3603,
+      "canonicalPath": "/fipe/miza/drago-lj-150-7-2007-848004-4/",
+      "ano": 2007,
+      "marca": "MIZA"
+    }
+  ],
+  "stats": {
+    "total": 4,
+    "precoMin": 3603,
+    "precoMax": 4336,
+    "anos": [
+      2011,
+      2009,
+      2008,
+      2007
+    ]
+  }
+}

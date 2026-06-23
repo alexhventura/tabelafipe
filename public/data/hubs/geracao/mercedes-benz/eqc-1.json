@@ -1,0 +1,57 @@
+{
+  "tipo": "geracao",
+  "slug": "eqc-1",
+  "canonicalPath": "/geracao/mercedes-benz/eqc-1/",
+  "titulo": "Geracao eqc-1",
+  "descricao": "4 veiculos da geracao eqc-1.",
+  "seo": {
+    "title": "Geracao eqc-1 - Precos FIPE",
+    "description": "Veiculos da geracao eqc-1 na Tabela FIPE.",
+    "h1": "Geracao eqc-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/mercedes-benz/eqc-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "mercedes-benz-eqc-400-4matic-408cv-eletrico-2020-eletrico",
+      "fipeCodigo": "021454-0",
+      "displayName": "Mercedes-Benz EQC 400 4MATIC 408CV (Elétrico)",
+      "valorAtual": 284269,
+      "canonicalPath": "/fipe/mercedes-benz/eqc-400-4matic-408cv-eletrico-2020-021454-0/",
+      "ano": 2020,
+      "marca": "Mercedes-Benz"
+    },
+    {
+      "vehicleId": "mercedes-benz-eqc-400-4matic-408cv-eletrico-2021-eletrico",
+      "fipeCodigo": "021454-0",
+      "displayName": "Mercedes-Benz EQC 400 4MATIC 408CV (Elétrico)",
+      "valorAtual": 297712,
+      "canonicalPath": "/fipe/mercedes-benz/eqc-400-4matic-408cv-eletrico-2021-021454-0/",
+      "ano": 2021,
+      "marca": "Mercedes-Benz"
+    },
+    {
+      "vehicleId": "mercedes-benz-eqc-400-4matic-amg-line-eletrico-2022-eletrico",
+      "fipeCodigo": "021473-6",
+      "displayName": "Mercedes-Benz EQC 400 4MATIC AMG Line (Elétrico)",
+      "valorAtual": 415562,
+      "canonicalPath": "/fipe/mercedes-benz/eqc-400-4matic-amg-line-eletrico-2022-021473-6/",
+      "ano": 2022,
+      "marca": "Mercedes-Benz"
+    },
+    {
+      "vehicleId": "mercedes-benz-eqc-400-4matic-amg-line-eletrico-2023-eletrico",
+      "fipeCodigo": "021473-6",
+      "displayName": "Mercedes-Benz EQC 400 4MATIC AMG Line (Elétrico)",
+      "valorAtual": 426920,
+      "canonicalPath": "/fipe/mercedes-benz/eqc-400-4matic-amg-line-eletrico-2023-021473-6/",
+      "ano": 2023,
+      "marca": "Mercedes-Benz"
+    }
+  ],
+  "stats": {
+    "total": 4
+  },
+  "meta": {
+    "geracaoId": "eqc-1"
+  }
+}

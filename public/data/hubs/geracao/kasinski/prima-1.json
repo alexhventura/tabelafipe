@@ -1,0 +1,102 @@
+{
+  "tipo": "geracao",
+  "slug": "prima-1",
+  "canonicalPath": "/geracao/kasinski/prima-1/",
+  "titulo": "Geracao prima-1",
+  "descricao": "9 veiculos da geracao prima-1.",
+  "seo": {
+    "title": "Geracao prima-1 - Precos FIPE",
+    "description": "Veiculos da geracao prima-1 na Tabela FIPE.",
+    "h1": "Geracao prima-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/kasinski/prima-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "kasinski-prima-50-1999-gasolina",
+      "fipeCodigo": "816008-2",
+      "displayName": "KASINSKI PRIMA 50",
+      "valorAtual": 1515,
+      "canonicalPath": "/fipe/kasinski/prima-50-1999-816008-2/",
+      "ano": 1999,
+      "marca": "KASINSKI"
+    },
+    {
+      "vehicleId": "kasinski-prima-50-2000-gasolina",
+      "fipeCodigo": "816008-2",
+      "displayName": "KASINSKI PRIMA 50",
+      "valorAtual": 1636,
+      "canonicalPath": "/fipe/kasinski/prima-50-2000-816008-2/",
+      "ano": 2000,
+      "marca": "KASINSKI"
+    },
+    {
+      "vehicleId": "kasinski-prima-50-2001-gasolina",
+      "fipeCodigo": "816008-2",
+      "displayName": "KASINSKI PRIMA 50",
+      "valorAtual": 1762,
+      "canonicalPath": "/fipe/kasinski/prima-50-2001-816008-2/",
+      "ano": 2001,
+      "marca": "KASINSKI"
+    },
+    {
+      "vehicleId": "kasinski-prima-50-2002-gasolina",
+      "fipeCodigo": "816008-2",
+      "displayName": "KASINSKI PRIMA 50",
+      "valorAtual": 1808,
+      "canonicalPath": "/fipe/kasinski/prima-50-2002-816008-2/",
+      "ano": 2002,
+      "marca": "KASINSKI"
+    },
+    {
+      "vehicleId": "kasinski-prima-50-2003-gasolina",
+      "fipeCodigo": "816008-2",
+      "displayName": "KASINSKI PRIMA 50",
+      "valorAtual": 1950,
+      "canonicalPath": "/fipe/kasinski/prima-50-2003-816008-2/",
+      "ano": 2003,
+      "marca": "KASINSKI"
+    },
+    {
+      "vehicleId": "kasinski-prima-50-2004-gasolina",
+      "fipeCodigo": "816008-2",
+      "displayName": "KASINSKI PRIMA 50",
+      "valorAtual": 2004,
+      "canonicalPath": "/fipe/kasinski/prima-50-2004-816008-2/",
+      "ano": 2004,
+      "marca": "KASINSKI"
+    },
+    {
+      "vehicleId": "kasinski-prima-50-2005-gasolina",
+      "fipeCodigo": "816008-2",
+      "displayName": "KASINSKI PRIMA 50",
+      "valorAtual": 2175,
+      "canonicalPath": "/fipe/kasinski/prima-50-2005-816008-2/",
+      "ano": 2005,
+      "marca": "KASINSKI"
+    },
+    {
+      "vehicleId": "kasinski-prima-rally-50cc-2005-gasolina",
+      "fipeCodigo": "816016-3",
+      "displayName": "KASINSKI PRIMA RALLY 50cc",
+      "valorAtual": 2463,
+      "canonicalPath": "/fipe/kasinski/prima-rally-50cc-2005-816016-3/",
+      "ano": 2005,
+      "marca": "KASINSKI"
+    },
+    {
+      "vehicleId": "kasinski-prima-rally-50cc-2006-gasolina",
+      "fipeCodigo": "816016-3",
+      "displayName": "KASINSKI PRIMA RALLY 50cc",
+      "valorAtual": 2527,
+      "canonicalPath": "/fipe/kasinski/prima-rally-50cc-2006-816016-3/",
+      "ano": 2006,
+      "marca": "KASINSKI"
+    }
+  ],
+  "stats": {
+    "total": 9
+  },
+  "meta": {
+    "geracaoId": "prima-1"
+  }
+}

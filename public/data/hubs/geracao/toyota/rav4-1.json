@@ -1,0 +1,57 @@
+{
+  "tipo": "geracao",
+  "slug": "rav4-1",
+  "canonicalPath": "/geracao/toyota/rav4-1/",
+  "titulo": "Geracao rav4-1",
+  "descricao": "4 veiculos da geracao rav4-1.",
+  "seo": {
+    "title": "Geracao rav4-1 - Precos FIPE",
+    "description": "Veiculos da geracao rav4-1 na Tabela FIPE.",
+    "h1": "Geracao rav4-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/toyota/rav4-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "toyota-rav4-2-5-s-4x4-aut-0-hibrido",
+      "fipeCodigo": "002179-2",
+      "displayName": "Toyota RAV4 2.5 S 4x4  Aut.",
+      "valorAtual": 318405,
+      "canonicalPath": "/fipe/toyota/rav4-2-5-s-4x4-aut-0-002179-2/",
+      "ano": 0,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-rav4-2-5-sx-4x4-aut-0-hibrido",
+      "fipeCodigo": "002180-6",
+      "displayName": "Toyota RAV4 2.5 SX 4x4  Aut.",
+      "valorAtual": 350505,
+      "canonicalPath": "/fipe/toyota/rav4-2-5-sx-4x4-aut-0-002180-6/",
+      "ano": 0,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-rav4-2-5-sx-connect-4x4-aut-hibrido-0-hibrido",
+      "fipeCodigo": "002196-2",
+      "displayName": "Toyota RAV4 2.5 SX Connect 4x4  Aut. (Híbrido)",
+      "valorAtual": 351854,
+      "canonicalPath": "/fipe/toyota/rav4-2-5-sx-connect-4x4-aut-hibrido-0-002196-2/",
+      "ano": 0,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-rav4-2-5-xse-4x4-aut-hibrido-0-hibrido",
+      "fipeCodigo": "002217-9",
+      "displayName": "Toyota RAV4 2.5 XSE 4x4 Aut. (Híbrido)",
+      "valorAtual": 401205,
+      "canonicalPath": "/fipe/toyota/rav4-2-5-xse-4x4-aut-hibrido-0-002217-9/",
+      "ano": 0,
+      "marca": "Toyota"
+    }
+  ],
+  "stats": {
+    "total": 4
+  },
+  "meta": {
+    "geracaoId": "rav4-1"
+  }
+}

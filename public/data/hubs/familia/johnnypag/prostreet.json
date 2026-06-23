@@ -1,0 +1,42 @@
+{
+  "tipo": "familia",
+  "slug": "prostreet",
+  "canonicalPath": "/fipe/johnnypag/prostreet/",
+  "titulo": "JOHNNYPAG prostreet - Tabela FIPE",
+  "descricao": "2 versoes e anos do JOHNNYPAG prostreet na Tabela FIPE.",
+  "seo": {
+    "title": "JOHNNYPAG prostreet - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes JOHNNYPAG prostreet. 2 veiculos indexados.",
+    "h1": "JOHNNYPAG prostreet - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/johnnypag/prostreet/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "johnnypag-prostreet-300cc-2010-gasolina",
+      "fipeCodigo": "875001-7",
+      "displayName": "JOHNNYPAG PROSTREET 300cc",
+      "valorAtual": 8435,
+      "canonicalPath": "/fipe/johnnypag/prostreet-300cc-2010-875001-7/",
+      "ano": 2010,
+      "marca": "JOHNNYPAG"
+    },
+    {
+      "vehicleId": "johnnypag-prostreet-300cc-2009-gasolina",
+      "fipeCodigo": "875001-7",
+      "displayName": "JOHNNYPAG PROSTREET 300cc",
+      "valorAtual": 7690,
+      "canonicalPath": "/fipe/johnnypag/prostreet-300cc-2009-875001-7/",
+      "ano": 2009,
+      "marca": "JOHNNYPAG"
+    }
+  ],
+  "stats": {
+    "total": 2,
+    "precoMin": 7690,
+    "precoMax": 8435,
+    "anos": [
+      2010,
+      2009
+    ]
+  }
+}

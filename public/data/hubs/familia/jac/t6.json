@@ -1,0 +1,52 @@
+{
+  "tipo": "familia",
+  "slug": "t6",
+  "canonicalPath": "/fipe/jac/t6/",
+  "titulo": "JAC t6 - Tabela FIPE",
+  "descricao": "3 versoes e anos do JAC t6 na Tabela FIPE.",
+  "seo": {
+    "title": "JAC t6 - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes JAC t6. 3 veiculos indexados.",
+    "h1": "JAC t6 - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/jac/t6/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "jac-t6-2-0-jet-flex-5p-mec-2016-flex",
+      "fipeCodigo": "080013-9",
+      "displayName": "JAC T6 2.0 JET Flex 5p Mec.",
+      "valorAtual": 45143,
+      "canonicalPath": "/fipe/jac/t6-2-0-jet-flex-5p-mec-2016-080013-9/",
+      "ano": 2016,
+      "marca": "JAC"
+    },
+    {
+      "vehicleId": "jac-t6-2-0-jet-flex-5p-mec-2015-flex",
+      "fipeCodigo": "080013-9",
+      "displayName": "JAC T6 2.0 JET Flex 5p Mec.",
+      "valorAtual": 39041,
+      "canonicalPath": "/fipe/jac/t6-2-0-jet-flex-5p-mec-2015-080013-9/",
+      "ano": 2015,
+      "marca": "JAC"
+    },
+    {
+      "vehicleId": "jac-t6-2-0-jet-flex-5p-mec-2014-flex",
+      "fipeCodigo": "080013-9",
+      "displayName": "JAC T6 2.0 JET Flex 5p Mec.",
+      "valorAtual": 38088,
+      "canonicalPath": "/fipe/jac/t6-2-0-jet-flex-5p-mec-2014-080013-9/",
+      "ano": 2014,
+      "marca": "JAC"
+    }
+  ],
+  "stats": {
+    "total": 3,
+    "precoMin": 38088,
+    "precoMax": 45143,
+    "anos": [
+      2016,
+      2015,
+      2014
+    ]
+  }
+}

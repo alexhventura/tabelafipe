@@ -1,0 +1,42 @@
+{
+  "tipo": "familia",
+  "slug": "m850i",
+  "canonicalPath": "/fipe/bmw/m850i/",
+  "titulo": "BMW m850i - Tabela FIPE",
+  "descricao": "2 versoes e anos do BMW m850i na Tabela FIPE.",
+  "seo": {
+    "title": "BMW m850i - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes BMW m850i. 2 veiculos indexados.",
+    "h1": "BMW m850i - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/bmw/m850i/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "bmw-m850i-xdrive-coupe-4-4-v8-530cv-aut-2020-gasolina",
+      "fipeCodigo": "009246-0",
+      "displayName": "BMW M850i XDrive Coupé 4.4 V8 530cv Aut.",
+      "valorAtual": 568759,
+      "canonicalPath": "/fipe/bmw/m850i-xdrive-coupe-4-4-v8-530cv-aut-2020-009246-0/",
+      "ano": 2020,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-m850i-xdrive-coupe-4-4-v8-530cv-aut-2019-gasolina",
+      "fipeCodigo": "009246-0",
+      "displayName": "BMW M850i XDrive Coupé 4.4 V8 530cv Aut.",
+      "valorAtual": 539319,
+      "canonicalPath": "/fipe/bmw/m850i-xdrive-coupe-4-4-v8-530cv-aut-2019-009246-0/",
+      "ano": 2019,
+      "marca": "BMW"
+    }
+  ],
+  "stats": {
+    "total": 2,
+    "precoMin": 539319,
+    "precoMax": 568759,
+    "anos": [
+      2020,
+      2019
+    ]
+  }
+}

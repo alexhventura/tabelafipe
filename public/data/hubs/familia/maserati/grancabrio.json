@@ -1,0 +1,92 @@
+{
+  "tipo": "familia",
+  "slug": "grancabrio",
+  "canonicalPath": "/fipe/maserati/grancabrio/",
+  "titulo": "Maserati grancabrio - Tabela FIPE",
+  "descricao": "7 versoes e anos do Maserati grancabrio na Tabela FIPE.",
+  "seo": {
+    "title": "Maserati grancabrio - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes Maserati grancabrio. 7 veiculos indexados.",
+    "h1": "Maserati grancabrio - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/maserati/grancabrio/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "maserati-grancabrio-4-7-v8-32v-440cv-2016-gasolina",
+      "fipeCodigo": "034023-5",
+      "displayName": "Maserati GranCabrio 4.7 V8 32V 440cv",
+      "valorAtual": 747972,
+      "canonicalPath": "/fipe/maserati/grancabrio-4-7-v8-32v-440cv-2016-034023-5/",
+      "ano": 2016,
+      "marca": "Maserati"
+    },
+    {
+      "vehicleId": "maserati-grancabrio-4-7-v8-32v-440cv-2015-gasolina",
+      "fipeCodigo": "034023-5",
+      "displayName": "Maserati GranCabrio 4.7 V8 32V 440cv",
+      "valorAtual": 729728,
+      "canonicalPath": "/fipe/maserati/grancabrio-4-7-v8-32v-440cv-2015-034023-5/",
+      "ano": 2015,
+      "marca": "Maserati"
+    },
+    {
+      "vehicleId": "maserati-grancabrio-4-7-v8-32v-440cv-2014-gasolina",
+      "fipeCodigo": "034023-5",
+      "displayName": "Maserati GranCabrio 4.7 V8 32V 440cv",
+      "valorAtual": 703024,
+      "canonicalPath": "/fipe/maserati/grancabrio-4-7-v8-32v-440cv-2014-034023-5/",
+      "ano": 2014,
+      "marca": "Maserati"
+    },
+    {
+      "vehicleId": "maserati-grancabrio-4-7-v8-32v-440cv-2013-gasolina",
+      "fipeCodigo": "034023-5",
+      "displayName": "Maserati GranCabrio 4.7 V8 32V 440cv",
+      "valorAtual": 655273,
+      "canonicalPath": "/fipe/maserati/grancabrio-4-7-v8-32v-440cv-2013-034023-5/",
+      "ano": 2013,
+      "marca": "Maserati"
+    },
+    {
+      "vehicleId": "maserati-grancabrio-4-7-v8-32v-440cv-2012-gasolina",
+      "fipeCodigo": "034023-5",
+      "displayName": "Maserati GranCabrio 4.7 V8 32V 440cv",
+      "valorAtual": 538340,
+      "canonicalPath": "/fipe/maserati/grancabrio-4-7-v8-32v-440cv-2012-034023-5/",
+      "ano": 2012,
+      "marca": "Maserati"
+    },
+    {
+      "vehicleId": "maserati-grancabrio-4-7-v8-32v-440cv-2011-gasolina",
+      "fipeCodigo": "034023-5",
+      "displayName": "Maserati GranCabrio 4.7 V8 32V 440cv",
+      "valorAtual": 512841,
+      "canonicalPath": "/fipe/maserati/grancabrio-4-7-v8-32v-440cv-2011-034023-5/",
+      "ano": 2011,
+      "marca": "Maserati"
+    },
+    {
+      "vehicleId": "maserati-grancabrio-4-7-v8-32v-440cv-2010-gasolina",
+      "fipeCodigo": "034023-5",
+      "displayName": "Maserati GranCabrio 4.7 V8 32V 440cv",
+      "valorAtual": 500332,
+      "canonicalPath": "/fipe/maserati/grancabrio-4-7-v8-32v-440cv-2010-034023-5/",
+      "ano": 2010,
+      "marca": "Maserati"
+    }
+  ],
+  "stats": {
+    "total": 7,
+    "precoMin": 500332,
+    "precoMax": 747972,
+    "anos": [
+      2016,
+      2015,
+      2014,
+      2013,
+      2012,
+      2011,
+      2010
+    ]
+  }
+}

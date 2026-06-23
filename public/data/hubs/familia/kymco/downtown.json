@@ -1,0 +1,112 @@
+{
+  "tipo": "familia",
+  "slug": "downtown",
+  "canonicalPath": "/fipe/kymco/downtown/",
+  "titulo": "KYMCO downtown - Tabela FIPE",
+  "descricao": "9 versoes e anos do KYMCO downtown na Tabela FIPE.",
+  "seo": {
+    "title": "KYMCO downtown - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes KYMCO downtown. 9 veiculos indexados.",
+    "h1": "KYMCO downtown - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/kymco/downtown/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "kymco-downtown-350i-2026-gasolina",
+      "fipeCodigo": "832034-9",
+      "displayName": "KYMCO DOWNTOWN 350i",
+      "valorAtual": 36246,
+      "canonicalPath": "/fipe/kymco/downtown-350i-2026-832034-9/",
+      "ano": 2026,
+      "marca": "KYMCO"
+    },
+    {
+      "vehicleId": "kymco-downtown-350i-2025-gasolina",
+      "fipeCodigo": "832034-9",
+      "displayName": "KYMCO DOWNTOWN 350i",
+      "valorAtual": 32915,
+      "canonicalPath": "/fipe/kymco/downtown-350i-2025-832034-9/",
+      "ano": 2025,
+      "marca": "KYMCO"
+    },
+    {
+      "vehicleId": "kymco-downtown-300i-2023-gasolina",
+      "fipeCodigo": "832029-2",
+      "displayName": "KYMCO DOWNTOWN 300i",
+      "valorAtual": 26432,
+      "canonicalPath": "/fipe/kymco/downtown-300i-2023-832029-2/",
+      "ano": 2023,
+      "marca": "KYMCO"
+    },
+    {
+      "vehicleId": "kymco-downtown-300i-2022-gasolina",
+      "fipeCodigo": "832029-2",
+      "displayName": "KYMCO DOWNTOWN 300i",
+      "valorAtual": 22983,
+      "canonicalPath": "/fipe/kymco/downtown-300i-2022-832029-2/",
+      "ano": 2022,
+      "marca": "KYMCO"
+    },
+    {
+      "vehicleId": "kymco-downtown-300i-2021-gasolina",
+      "fipeCodigo": "832029-2",
+      "displayName": "KYMCO DOWNTOWN 300i",
+      "valorAtual": 22068,
+      "canonicalPath": "/fipe/kymco/downtown-300i-2021-832029-2/",
+      "ano": 2021,
+      "marca": "KYMCO"
+    },
+    {
+      "vehicleId": "kymco-downtown-300i-2020-gasolina",
+      "fipeCodigo": "832029-2",
+      "displayName": "KYMCO DOWNTOWN 300i",
+      "valorAtual": 18772,
+      "canonicalPath": "/fipe/kymco/downtown-300i-2020-832029-2/",
+      "ano": 2020,
+      "marca": "KYMCO"
+    },
+    {
+      "vehicleId": "kymco-downtown-300i-2019-gasolina",
+      "fipeCodigo": "832029-2",
+      "displayName": "KYMCO DOWNTOWN 300i",
+      "valorAtual": 18314,
+      "canonicalPath": "/fipe/kymco/downtown-300i-2019-832029-2/",
+      "ano": 2019,
+      "marca": "KYMCO"
+    },
+    {
+      "vehicleId": "kymco-downtown-300i-2018-gasolina",
+      "fipeCodigo": "832029-2",
+      "displayName": "KYMCO DOWNTOWN 300i",
+      "valorAtual": 17135,
+      "canonicalPath": "/fipe/kymco/downtown-300i-2018-832029-2/",
+      "ano": 2018,
+      "marca": "KYMCO"
+    },
+    {
+      "vehicleId": "kymco-downtown-350i-0-gasolina",
+      "fipeCodigo": "832034-9",
+      "displayName": "KYMCO DOWNTOWN 350i",
+      "valorAtual": 38780,
+      "canonicalPath": "/fipe/kymco/downtown-350i-0-832034-9/",
+      "ano": 0,
+      "marca": "KYMCO"
+    }
+  ],
+  "stats": {
+    "total": 9,
+    "precoMin": 17135,
+    "precoMax": 38780,
+    "anos": [
+      2026,
+      2025,
+      2023,
+      2022,
+      2021,
+      2020,
+      2019,
+      2018,
+      0
+    ]
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "tipo": "geracao",
+  "slug": "prelude-1",
+  "canonicalPath": "/geracao/honda/prelude-1/",
+  "titulo": "Geracao prelude-1",
+  "descricao": "7 veiculos da geracao prelude-1.",
+  "seo": {
+    "title": "Geracao prelude-1 - Precos FIPE",
+    "description": "Veiculos da geracao prelude-1 na Tabela FIPE.",
+    "h1": "Geracao prelude-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/honda/prelude-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "honda-prelude-coupe-s-2-2-1992-gasolina",
+      "fipeCodigo": "014027-9",
+      "displayName": "Honda Prelude Coupê S 2.2",
+      "valorAtual": 18459,
+      "canonicalPath": "/fipe/honda/prelude-coupe-s-2-2-1992-014027-9/",
+      "ano": 1992,
+      "marca": "Honda"
+    },
+    {
+      "vehicleId": "honda-prelude-coupe-s-2-2-1993-gasolina",
+      "fipeCodigo": "014027-9",
+      "displayName": "Honda Prelude Coupê S 2.2",
+      "valorAtual": 23157,
+      "canonicalPath": "/fipe/honda/prelude-coupe-s-2-2-1993-014027-9/",
+      "ano": 1993,
+      "marca": "Honda"
+    },
+    {
+      "vehicleId": "honda-prelude-coupe-s-2-2-1994-gasolina",
+      "fipeCodigo": "014027-9",
+      "displayName": "Honda Prelude Coupê S 2.2",
+      "valorAtual": 23740,
+      "canonicalPath": "/fipe/honda/prelude-coupe-s-2-2-1994-014027-9/",
+      "ano": 1994,
+      "marca": "Honda"
+    },
+    {
+      "vehicleId": "honda-prelude-si-1992-gasolina",
+      "fipeCodigo": "014013-9",
+      "displayName": "Honda Prelude Si",
+      "valorAtual": 19495,
+      "canonicalPath": "/fipe/honda/prelude-si-1992-014013-9/",
+      "ano": 1992,
+      "marca": "Honda"
+    },
+    {
+      "vehicleId": "honda-prelude-si-1993-gasolina",
+      "fipeCodigo": "014013-9",
+      "displayName": "Honda Prelude Si",
+      "valorAtual": 23193,
+      "canonicalPath": "/fipe/honda/prelude-si-1993-014013-9/",
+      "ano": 1993,
+      "marca": "Honda"
+    },
+    {
+      "vehicleId": "honda-prelude-si-1994-gasolina",
+      "fipeCodigo": "014013-9",
+      "displayName": "Honda Prelude Si",
+      "valorAtual": 23772,
+      "canonicalPath": "/fipe/honda/prelude-si-1994-014013-9/",
+      "ano": 1994,
+      "marca": "Honda"
+    },
+    {
+      "vehicleId": "honda-prelude-si-1995-gasolina",
+      "fipeCodigo": "014013-9",
+      "displayName": "Honda Prelude Si",
+      "valorAtual": 26995,
+      "canonicalPath": "/fipe/honda/prelude-si-1995-014013-9/",
+      "ano": 1995,
+      "marca": "Honda"
+    }
+  ],
+  "stats": {
+    "total": 7
+  },
+  "meta": {
+    "geracaoId": "prelude-1"
+  }
+}

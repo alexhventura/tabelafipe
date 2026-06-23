@@ -1,0 +1,42 @@
+{
+  "tipo": "familia",
+  "slug": "999r",
+  "canonicalPath": "/fipe/ducati/999r/",
+  "titulo": "DUCATI 999r - Tabela FIPE",
+  "descricao": "2 versoes e anos do DUCATI 999r na Tabela FIPE.",
+  "seo": {
+    "title": "DUCATI 999r - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes DUCATI 999r. 2 veiculos indexados.",
+    "h1": "DUCATI 999r - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/ducati/999r/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "ducati-999r-xerox-999cc-2006-gasolina",
+      "fipeCodigo": "808017-8",
+      "displayName": "DUCATI 999R Xerox 999cc",
+      "valorAtual": 49119,
+      "canonicalPath": "/fipe/ducati/999r-xerox-999cc-2006-808017-8/",
+      "ano": 2006,
+      "marca": "DUCATI"
+    },
+    {
+      "vehicleId": "ducati-999r-xerox-999cc-2005-gasolina",
+      "fipeCodigo": "808017-8",
+      "displayName": "DUCATI 999R Xerox 999cc",
+      "valorAtual": 42676,
+      "canonicalPath": "/fipe/ducati/999r-xerox-999cc-2005-808017-8/",
+      "ano": 2005,
+      "marca": "DUCATI"
+    }
+  ],
+  "stats": {
+    "total": 2,
+    "precoMin": 42676,
+    "precoMax": 49119,
+    "anos": [
+      2006,
+      2005
+    ]
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "tipo": "familia",
+  "slug": "malibu",
+  "canonicalPath": "/fipe/chevrolet/malibu/",
+  "titulo": "GM - Chevrolet malibu - Tabela FIPE",
+  "descricao": "4 versoes e anos do GM - Chevrolet malibu na Tabela FIPE.",
+  "seo": {
+    "title": "GM - Chevrolet malibu - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes GM - Chevrolet malibu. 4 veiculos indexados.",
+    "h1": "GM - Chevrolet malibu - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/chevrolet/malibu/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "chevrolet-malibu-ltz-2-4-16v-171cv-4p-2013-gasolina",
+      "fipeCodigo": "004366-4",
+      "displayName": "GM - Chevrolet MALIBU LTZ 2.4 16V 171cv 4p",
+      "valorAtual": 84421,
+      "canonicalPath": "/fipe/chevrolet/malibu-ltz-2-4-16v-171cv-4p-2013-004366-4/",
+      "ano": 2013,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-malibu-ltz-2-4-16v-171cv-4p-2012-gasolina",
+      "fipeCodigo": "004366-4",
+      "displayName": "GM - Chevrolet MALIBU LTZ 2.4 16V 171cv 4p",
+      "valorAtual": 45445,
+      "canonicalPath": "/fipe/chevrolet/malibu-ltz-2-4-16v-171cv-4p-2012-004366-4/",
+      "ano": 2012,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-malibu-ltz-2-4-16v-171cv-4p-2011-gasolina",
+      "fipeCodigo": "004366-4",
+      "displayName": "GM - Chevrolet MALIBU LTZ 2.4 16V 171cv 4p",
+      "valorAtual": 44336,
+      "canonicalPath": "/fipe/chevrolet/malibu-ltz-2-4-16v-171cv-4p-2011-004366-4/",
+      "ano": 2011,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-malibu-ltz-2-4-16v-171cv-4p-2010-gasolina",
+      "fipeCodigo": "004366-4",
+      "displayName": "GM - Chevrolet MALIBU LTZ 2.4 16V 171cv 4p",
+      "valorAtual": 42438,
+      "canonicalPath": "/fipe/chevrolet/malibu-ltz-2-4-16v-171cv-4p-2010-004366-4/",
+      "ano": 2010,
+      "marca": "GM - Chevrolet"
+    }
+  ],
+  "stats": {
+    "total": 4,
+    "precoMin": 42438,
+    "precoMax": 84421,
+    "anos": [
+      2013,
+      2012,
+      2011,
+      2010
+    ]
+  }
+}

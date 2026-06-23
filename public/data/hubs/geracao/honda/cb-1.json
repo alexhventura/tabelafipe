@@ -1,0 +1,102 @@
+{
+  "tipo": "geracao",
+  "slug": "cb-1",
+  "canonicalPath": "/geracao/honda/cb-1/",
+  "titulo": "Geracao cb-1",
+  "descricao": "9 veiculos da geracao cb-1.",
+  "seo": {
+    "title": "Geracao cb-1 - Precos FIPE",
+    "description": "Veiculos da geracao cb-1 na Tabela FIPE.",
+    "h1": "Geracao cb-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/honda/cb-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "honda-cb-1000r-black-edition-0-gasolina",
+      "fipeCodigo": "811169-3",
+      "displayName": "HONDA CB 1000R Black Edition",
+      "valorAtual": 96229,
+      "canonicalPath": "/fipe/honda/cb-1000r-black-edition-0-811169-3/",
+      "ano": 0,
+      "marca": "HONDA"
+    },
+    {
+      "vehicleId": "honda-cb-1000r-abs-0-gasolina",
+      "fipeCodigo": "811109-0",
+      "displayName": "HONDA CB 1000R/ABS",
+      "valorAtual": 87312,
+      "canonicalPath": "/fipe/honda/cb-1000r-abs-0-811109-0/",
+      "ano": 0,
+      "marca": "HONDA"
+    },
+    {
+      "vehicleId": "honda-cb-300f-twister-flex-0-flex",
+      "fipeCodigo": "811174-0",
+      "displayName": "HONDA CB 300F Twister Flex",
+      "valorAtual": 29516,
+      "canonicalPath": "/fipe/honda/cb-300f-twister-flex-0-811174-0/",
+      "ano": 0,
+      "marca": "HONDA"
+    },
+    {
+      "vehicleId": "honda-cb-500-hornet-0-gasolina",
+      "fipeCodigo": "811188-0",
+      "displayName": "HONDA CB 500 HORNET",
+      "valorAtual": 48735,
+      "canonicalPath": "/fipe/honda/cb-500-hornet-0-811188-0/",
+      "ano": 0,
+      "marca": "HONDA"
+    },
+    {
+      "vehicleId": "honda-cb-500f-0-gasolina",
+      "fipeCodigo": "811118-9",
+      "displayName": "HONDA CB 500F",
+      "valorAtual": 46892,
+      "canonicalPath": "/fipe/honda/cb-500f-0-811118-9/",
+      "ano": 0,
+      "marca": "HONDA"
+    },
+    {
+      "vehicleId": "honda-cb-500x-0-gasolina",
+      "fipeCodigo": "811121-9",
+      "displayName": "HONDA CB 500X",
+      "valorAtual": 50037,
+      "canonicalPath": "/fipe/honda/cb-500x-0-811121-9/",
+      "ano": 0,
+      "marca": "HONDA"
+    },
+    {
+      "vehicleId": "honda-cb-650r-0-gasolina",
+      "fipeCodigo": "811160-0",
+      "displayName": "HONDA CB 650R",
+      "valorAtual": 64132,
+      "canonicalPath": "/fipe/honda/cb-650r-0-811160-0/",
+      "ano": 0,
+      "marca": "HONDA"
+    },
+    {
+      "vehicleId": "honda-cb-650r-e-clutch-0-gasolina",
+      "fipeCodigo": "811190-1",
+      "displayName": "HONDA CB 650R E-Clutch",
+      "valorAtual": 65804,
+      "canonicalPath": "/fipe/honda/cb-650r-e-clutch-0-811190-1/",
+      "ano": 0,
+      "marca": "HONDA"
+    },
+    {
+      "vehicleId": "honda-cb-750-hornet-0-gasolina",
+      "fipeCodigo": "811193-6",
+      "displayName": "HONDA CB 750 HORNET",
+      "valorAtual": 60333,
+      "canonicalPath": "/fipe/honda/cb-750-hornet-0-811193-6/",
+      "ano": 0,
+      "marca": "HONDA"
+    }
+  ],
+  "stats": {
+    "total": 9
+  },
+  "meta": {
+    "geracaoId": "cb-1"
+  }
+}

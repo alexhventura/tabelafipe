@@ -1,0 +1,48 @@
+{
+  "tipo": "geracao",
+  "slug": "volti-1",
+  "canonicalPath": "/geracao/motorino/volti-1/",
+  "titulo": "Geracao volti-1",
+  "descricao": "3 veiculos da geracao volti-1.",
+  "seo": {
+    "title": "Geracao volti-1 - Precos FIPE",
+    "description": "Veiculos da geracao volti-1 na Tabela FIPE.",
+    "h1": "Geracao volti-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/motorino/volti-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "motorino-volti-3000w-2013-gasolina",
+      "fipeCodigo": "881009-5",
+      "displayName": "MOTORINO Volti 3000w",
+      "valorAtual": 8009,
+      "canonicalPath": "/fipe/motorino/volti-3000w-2013-881009-5/",
+      "ano": 2013,
+      "marca": "MOTORINO"
+    },
+    {
+      "vehicleId": "motorino-volti-3000w-2014-gasolina",
+      "fipeCodigo": "881009-5",
+      "displayName": "MOTORINO Volti 3000w",
+      "valorAtual": 9277,
+      "canonicalPath": "/fipe/motorino/volti-3000w-2014-881009-5/",
+      "ano": 2014,
+      "marca": "MOTORINO"
+    },
+    {
+      "vehicleId": "motorino-volti-3000w-2015-gasolina",
+      "fipeCodigo": "881009-5",
+      "displayName": "MOTORINO Volti 3000w",
+      "valorAtual": 10680,
+      "canonicalPath": "/fipe/motorino/volti-3000w-2015-881009-5/",
+      "ano": 2015,
+      "marca": "MOTORINO"
+    }
+  ],
+  "stats": {
+    "total": 3
+  },
+  "meta": {
+    "geracaoId": "volti-1"
+  }
+}

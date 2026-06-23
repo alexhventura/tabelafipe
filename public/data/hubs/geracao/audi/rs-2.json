@@ -1,0 +1,66 @@
+{
+  "tipo": "geracao",
+  "slug": "rs-2",
+  "canonicalPath": "/geracao/audi/rs-2/",
+  "titulo": "Geracao rs-2",
+  "descricao": "5 veiculos da geracao rs-2.",
+  "seo": {
+    "title": "Geracao rs-2 - Precos FIPE",
+    "description": "Veiculos da geracao rs-2 na Tabela FIPE.",
+    "h1": "Geracao rs-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/audi/rs-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "audi-rs-q3-2-5-tfsi-quattro-s-tronic-5p-2014-gasolina",
+      "fipeCodigo": "008193-0",
+      "displayName": "Audi RS Q3 2.5 TFSI Quattro S-tronic 5p",
+      "valorAtual": 151029,
+      "canonicalPath": "/fipe/audi/rs-q3-2-5-tfsi-quattro-s-tronic-5p-2014-008193-0/",
+      "ano": 2014,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-rs-q3-2-5-tfsi-quattro-s-tronic-5p-2015-gasolina",
+      "fipeCodigo": "008193-0",
+      "displayName": "Audi RS Q3 2.5 TFSI Quattro S-tronic 5p",
+      "valorAtual": 154805,
+      "canonicalPath": "/fipe/audi/rs-q3-2-5-tfsi-quattro-s-tronic-5p-2015-008193-0/",
+      "ano": 2015,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-rs-q3-2-5-tfsi-quattro-s-tronic-5p-2016-gasolina",
+      "fipeCodigo": "008193-0",
+      "displayName": "Audi RS Q3 2.5 TFSI Quattro S-tronic 5p",
+      "valorAtual": 180339,
+      "canonicalPath": "/fipe/audi/rs-q3-2-5-tfsi-quattro-s-tronic-5p-2016-008193-0/",
+      "ano": 2016,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-rs-q3-2-5-tfsi-quattro-s-tronic-5p-2017-gasolina",
+      "fipeCodigo": "008193-0",
+      "displayName": "Audi RS Q3 2.5 TFSI Quattro S-tronic 5p",
+      "valorAtual": 190411,
+      "canonicalPath": "/fipe/audi/rs-q3-2-5-tfsi-quattro-s-tronic-5p-2017-008193-0/",
+      "ano": 2017,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-rs-q3-2-5-tfsi-quattro-s-tronic-5p-2018-gasolina",
+      "fipeCodigo": "008193-0",
+      "displayName": "Audi RS Q3 2.5 TFSI Quattro S-tronic 5p",
+      "valorAtual": 225580,
+      "canonicalPath": "/fipe/audi/rs-q3-2-5-tfsi-quattro-s-tronic-5p-2018-008193-0/",
+      "ano": 2018,
+      "marca": "Audi"
+    }
+  ],
+  "stats": {
+    "total": 5
+  },
+  "meta": {
+    "geracaoId": "rs-2"
+  }
+}

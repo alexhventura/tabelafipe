@@ -1,0 +1,122 @@
+{
+  "tipo": "familia",
+  "slug": "yfz",
+  "canonicalPath": "/fipe/yamaha/yfz/",
+  "titulo": "YAMAHA yfz - Tabela FIPE",
+  "descricao": "10 versoes e anos do YAMAHA yfz na Tabela FIPE.",
+  "seo": {
+    "title": "YAMAHA yfz - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes YAMAHA yfz. 10 veiculos indexados.",
+    "h1": "YAMAHA yfz - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/yamaha/yfz/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "yamaha-yfz-450-yz-450-f-449cc-2025-gasolina",
+      "fipeCodigo": "827069-4",
+      "displayName": "YAMAHA YFZ 450/ YZ 450 F 449cc",
+      "valorAtual": 70533,
+      "canonicalPath": "/fipe/yamaha/yfz-450-yz-450-f-449cc-2025-827069-4/",
+      "ano": 2025,
+      "marca": "YAMAHA"
+    },
+    {
+      "vehicleId": "yamaha-yfz-450-yz-450-f-449cc-2024-gasolina",
+      "fipeCodigo": "827069-4",
+      "displayName": "YAMAHA YFZ 450/ YZ 450 F 449cc",
+      "valorAtual": 68721,
+      "canonicalPath": "/fipe/yamaha/yfz-450-yz-450-f-449cc-2024-827069-4/",
+      "ano": 2024,
+      "marca": "YAMAHA"
+    },
+    {
+      "vehicleId": "yamaha-yfz-450-yz-450-f-449cc-2023-gasolina",
+      "fipeCodigo": "827069-4",
+      "displayName": "YAMAHA YFZ 450/ YZ 450 F 449cc",
+      "valorAtual": 55483,
+      "canonicalPath": "/fipe/yamaha/yfz-450-yz-450-f-449cc-2023-827069-4/",
+      "ano": 2023,
+      "marca": "YAMAHA"
+    },
+    {
+      "vehicleId": "yamaha-yfz-450-yz-450-f-449cc-2022-gasolina",
+      "fipeCodigo": "827069-4",
+      "displayName": "YAMAHA YFZ 450/ YZ 450 F 449cc",
+      "valorAtual": 51906,
+      "canonicalPath": "/fipe/yamaha/yfz-450-yz-450-f-449cc-2022-827069-4/",
+      "ano": 2022,
+      "marca": "YAMAHA"
+    },
+    {
+      "vehicleId": "yamaha-yfz-450-yz-450-f-449cc-2021-gasolina",
+      "fipeCodigo": "827069-4",
+      "displayName": "YAMAHA YFZ 450/ YZ 450 F 449cc",
+      "valorAtual": 43543,
+      "canonicalPath": "/fipe/yamaha/yfz-450-yz-450-f-449cc-2021-827069-4/",
+      "ano": 2021,
+      "marca": "YAMAHA"
+    },
+    {
+      "vehicleId": "yamaha-yfz-450-yz-450-f-449cc-2020-gasolina",
+      "fipeCodigo": "827069-4",
+      "displayName": "YAMAHA YFZ 450/ YZ 450 F 449cc",
+      "valorAtual": 41852,
+      "canonicalPath": "/fipe/yamaha/yfz-450-yz-450-f-449cc-2020-827069-4/",
+      "ano": 2020,
+      "marca": "YAMAHA"
+    },
+    {
+      "vehicleId": "yamaha-yfz-450-yz-450-f-449cc-2012-gasolina",
+      "fipeCodigo": "827069-4",
+      "displayName": "YAMAHA YFZ 450/ YZ 450 F 449cc",
+      "valorAtual": 26115,
+      "canonicalPath": "/fipe/yamaha/yfz-450-yz-450-f-449cc-2012-827069-4/",
+      "ano": 2012,
+      "marca": "YAMAHA"
+    },
+    {
+      "vehicleId": "yamaha-yfz-450-yz-450-f-449cc-2009-gasolina",
+      "fipeCodigo": "827069-4",
+      "displayName": "YAMAHA YFZ 450/ YZ 450 F 449cc",
+      "valorAtual": 20855,
+      "canonicalPath": "/fipe/yamaha/yfz-450-yz-450-f-449cc-2009-827069-4/",
+      "ano": 2009,
+      "marca": "YAMAHA"
+    },
+    {
+      "vehicleId": "yamaha-yfz-450-yz-450-f-449cc-2008-gasolina",
+      "fipeCodigo": "827069-4",
+      "displayName": "YAMAHA YFZ 450/ YZ 450 F 449cc",
+      "valorAtual": 20052,
+      "canonicalPath": "/fipe/yamaha/yfz-450-yz-450-f-449cc-2008-827069-4/",
+      "ano": 2008,
+      "marca": "YAMAHA"
+    },
+    {
+      "vehicleId": "yamaha-yfz-450-yz-450-f-449cc-0-gasolina",
+      "fipeCodigo": "827069-4",
+      "displayName": "YAMAHA YFZ 450/ YZ 450 F 449cc",
+      "valorAtual": 88458,
+      "canonicalPath": "/fipe/yamaha/yfz-450-yz-450-f-449cc-0-827069-4/",
+      "ano": 0,
+      "marca": "YAMAHA"
+    }
+  ],
+  "stats": {
+    "total": 10,
+    "precoMin": 20052,
+    "precoMax": 88458,
+    "anos": [
+      2025,
+      2024,
+      2023,
+      2022,
+      2021,
+      2020,
+      2012,
+      2009,
+      2008,
+      0
+    ]
+  }
+}

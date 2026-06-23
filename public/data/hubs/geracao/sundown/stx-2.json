@@ -1,0 +1,57 @@
+{
+  "tipo": "geracao",
+  "slug": "stx-2",
+  "canonicalPath": "/geracao/sundown/stx-2/",
+  "titulo": "Geracao stx-2",
+  "descricao": "4 veiculos da geracao stx-2.",
+  "seo": {
+    "title": "Geracao stx-2 - Precos FIPE",
+    "description": "Veiculos da geracao stx-2 na Tabela FIPE.",
+    "h1": "Geracao stx-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/sundown/stx-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "sundown-stx-125cc-2010-gasolina",
+      "fipeCodigo": "824020-5",
+      "displayName": "SUNDOWN STX 125cc",
+      "valorAtual": 2638,
+      "canonicalPath": "/fipe/sundown/stx-125cc-2010-824020-5/",
+      "ano": 2010,
+      "marca": "SUNDOWN"
+    },
+    {
+      "vehicleId": "sundown-stx-125cc-2011-gasolina",
+      "fipeCodigo": "824020-5",
+      "displayName": "SUNDOWN STX 125cc",
+      "valorAtual": 2989,
+      "canonicalPath": "/fipe/sundown/stx-125cc-2011-824020-5/",
+      "ano": 2011,
+      "marca": "SUNDOWN"
+    },
+    {
+      "vehicleId": "sundown-stx-motard-125cc-2010-gasolina",
+      "fipeCodigo": "824021-3",
+      "displayName": "SUNDOWN STX MOTARD 125cc",
+      "valorAtual": 3545,
+      "canonicalPath": "/fipe/sundown/stx-motard-125cc-2010-824021-3/",
+      "ano": 2010,
+      "marca": "SUNDOWN"
+    },
+    {
+      "vehicleId": "sundown-stx-motard-125cc-2011-gasolina",
+      "fipeCodigo": "824021-3",
+      "displayName": "SUNDOWN STX MOTARD 125cc",
+      "valorAtual": 3899,
+      "canonicalPath": "/fipe/sundown/stx-motard-125cc-2011-824021-3/",
+      "ano": 2011,
+      "marca": "SUNDOWN"
+    }
+  ],
+  "stats": {
+    "total": 4
+  },
+  "meta": {
+    "geracaoId": "stx-2"
+  }
+}

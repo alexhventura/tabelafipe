@@ -1,0 +1,66 @@
+{
+  "tipo": "geracao",
+  "slug": "m6-1",
+  "canonicalPath": "/geracao/bmw/m6-1/",
+  "titulo": "Geracao m6-1",
+  "descricao": "5 veiculos da geracao m6-1.",
+  "seo": {
+    "title": "Geracao m6-1 - Precos FIPE",
+    "description": "Veiculos da geracao m6-1 na Tabela FIPE.",
+    "h1": "Geracao m6-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/bmw/m6-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "bmw-m6-5-0-v10-40v-507cv-2006-gasolina",
+      "fipeCodigo": "009108-1",
+      "displayName": "BMW M6 5.0 V10 40V 507cv",
+      "valorAtual": 245585,
+      "canonicalPath": "/fipe/bmw/m6-5-0-v10-40v-507cv-2006-009108-1/",
+      "ano": 2006,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-m6-5-0-v10-40v-507cv-2007-gasolina",
+      "fipeCodigo": "009108-1",
+      "displayName": "BMW M6 5.0 V10 40V 507cv",
+      "valorAtual": 255026,
+      "canonicalPath": "/fipe/bmw/m6-5-0-v10-40v-507cv-2007-009108-1/",
+      "ano": 2007,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-m6-5-0-v10-40v-507cv-2008-gasolina",
+      "fipeCodigo": "009108-1",
+      "displayName": "BMW M6 5.0 V10 40V 507cv",
+      "valorAtual": 317450,
+      "canonicalPath": "/fipe/bmw/m6-5-0-v10-40v-507cv-2008-009108-1/",
+      "ano": 2008,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-m6-5-0-v10-40v-507cv-2009-gasolina",
+      "fipeCodigo": "009108-1",
+      "displayName": "BMW M6 5.0 V10 40V 507cv",
+      "valorAtual": 492187,
+      "canonicalPath": "/fipe/bmw/m6-5-0-v10-40v-507cv-2009-009108-1/",
+      "ano": 2009,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-m6-5-0-v10-40v-507cv-2010-gasolina",
+      "fipeCodigo": "009108-1",
+      "displayName": "BMW M6 5.0 V10 40V 507cv",
+      "valorAtual": 504492,
+      "canonicalPath": "/fipe/bmw/m6-5-0-v10-40v-507cv-2010-009108-1/",
+      "ano": 2010,
+      "marca": "BMW"
+    }
+  ],
+  "stats": {
+    "total": 5
+  },
+  "meta": {
+    "geracaoId": "m6-1"
+  }
+}

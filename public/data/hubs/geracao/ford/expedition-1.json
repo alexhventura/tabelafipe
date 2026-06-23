@@ -1,0 +1,48 @@
+{
+  "tipo": "geracao",
+  "slug": "expedition-1",
+  "canonicalPath": "/geracao/ford/expedition-1/",
+  "titulo": "Geracao expedition-1",
+  "descricao": "3 veiculos da geracao expedition-1.",
+  "seo": {
+    "title": "Geracao expedition-1 - Precos FIPE",
+    "description": "Veiculos da geracao expedition-1 na Tabela FIPE.",
+    "h1": "Geracao expedition-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/ford/expedition-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "ford-expedition-5-4-v8-1997-gasolina",
+      "fipeCodigo": "003154-2",
+      "displayName": "Ford Expedition 5.4 V8",
+      "valorAtual": 35372,
+      "canonicalPath": "/fipe/ford/expedition-5-4-v8-1997-003154-2/",
+      "ano": 1997,
+      "marca": "Ford"
+    },
+    {
+      "vehicleId": "ford-expedition-5-4-v8-1998-gasolina",
+      "fipeCodigo": "003154-2",
+      "displayName": "Ford Expedition 5.4 V8",
+      "valorAtual": 50952,
+      "canonicalPath": "/fipe/ford/expedition-5-4-v8-1998-003154-2/",
+      "ano": 1998,
+      "marca": "Ford"
+    },
+    {
+      "vehicleId": "ford-expedition-5-4-v8-1999-gasolina",
+      "fipeCodigo": "003154-2",
+      "displayName": "Ford Expedition 5.4 V8",
+      "valorAtual": 52226,
+      "canonicalPath": "/fipe/ford/expedition-5-4-v8-1999-003154-2/",
+      "ano": 1999,
+      "marca": "Ford"
+    }
+  ],
+  "stats": {
+    "total": 3
+  },
+  "meta": {
+    "geracaoId": "expedition-1"
+  }
+}

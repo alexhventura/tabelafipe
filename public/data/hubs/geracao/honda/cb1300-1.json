@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "cb1300-1",
+  "canonicalPath": "/geracao/honda/cb1300-1/",
+  "titulo": "Geracao cb1300-1",
+  "descricao": "2 veiculos da geracao cb1300-1.",
+  "seo": {
+    "title": "Geracao cb1300-1 - Precos FIPE",
+    "description": "Veiculos da geracao cb1300-1 na Tabela FIPE.",
+    "h1": "Geracao cb1300-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/honda/cb1300-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "honda-cb1300-super-four-2007-gasolina",
+      "fipeCodigo": "811086-7",
+      "displayName": "HONDA CB1300 SUPER FOUR",
+      "valorAtual": 46473,
+      "canonicalPath": "/fipe/honda/cb1300-super-four-2007-811086-7/",
+      "ano": 2007,
+      "marca": "HONDA"
+    },
+    {
+      "vehicleId": "honda-cb1300-super-four-2008-gasolina",
+      "fipeCodigo": "811086-7",
+      "displayName": "HONDA CB1300 SUPER FOUR",
+      "valorAtual": 51194,
+      "canonicalPath": "/fipe/honda/cb1300-super-four-2008-811086-7/",
+      "ano": 2008,
+      "marca": "HONDA"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "cb1300-1"
+  }
+}

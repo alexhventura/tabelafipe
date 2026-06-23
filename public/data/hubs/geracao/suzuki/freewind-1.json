@@ -1,0 +1,66 @@
+{
+  "tipo": "geracao",
+  "slug": "freewind-1",
+  "canonicalPath": "/geracao/suzuki/freewind-1/",
+  "titulo": "Geracao freewind-1",
+  "descricao": "5 veiculos da geracao freewind-1.",
+  "seo": {
+    "title": "Geracao freewind-1 - Precos FIPE",
+    "description": "Veiculos da geracao freewind-1 na Tabela FIPE.",
+    "h1": "Geracao freewind-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/suzuki/freewind-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "suzuki-freewind-xf-650-1999-gasolina",
+      "fipeCodigo": "825010-3",
+      "displayName": "SUZUKI FREEWIND XF 650",
+      "valorAtual": 16088,
+      "canonicalPath": "/fipe/suzuki/freewind-xf-650-1999-825010-3/",
+      "ano": 1999,
+      "marca": "SUZUKI"
+    },
+    {
+      "vehicleId": "suzuki-freewind-xf-650-2000-gasolina",
+      "fipeCodigo": "825010-3",
+      "displayName": "SUZUKI FREEWIND XF 650",
+      "valorAtual": 16491,
+      "canonicalPath": "/fipe/suzuki/freewind-xf-650-2000-825010-3/",
+      "ano": 2000,
+      "marca": "SUZUKI"
+    },
+    {
+      "vehicleId": "suzuki-freewind-xf-650-2001-gasolina",
+      "fipeCodigo": "825010-3",
+      "displayName": "SUZUKI FREEWIND XF 650",
+      "valorAtual": 16904,
+      "canonicalPath": "/fipe/suzuki/freewind-xf-650-2001-825010-3/",
+      "ano": 2001,
+      "marca": "SUZUKI"
+    },
+    {
+      "vehicleId": "suzuki-freewind-xf-650-2002-gasolina",
+      "fipeCodigo": "825010-3",
+      "displayName": "SUZUKI FREEWIND XF 650",
+      "valorAtual": 17453,
+      "canonicalPath": "/fipe/suzuki/freewind-xf-650-2002-825010-3/",
+      "ano": 2002,
+      "marca": "SUZUKI"
+    },
+    {
+      "vehicleId": "suzuki-freewind-xf-650-2003-gasolina",
+      "fipeCodigo": "825010-3",
+      "displayName": "SUZUKI FREEWIND XF 650",
+      "valorAtual": 17945,
+      "canonicalPath": "/fipe/suzuki/freewind-xf-650-2003-825010-3/",
+      "ano": 2003,
+      "marca": "SUZUKI"
+    }
+  ],
+  "stats": {
+    "total": 5
+  },
+  "meta": {
+    "geracaoId": "freewind-1"
+  }
+}

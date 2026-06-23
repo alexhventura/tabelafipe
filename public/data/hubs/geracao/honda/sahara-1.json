@@ -1,0 +1,48 @@
+{
+  "tipo": "geracao",
+  "slug": "sahara-1",
+  "canonicalPath": "/geracao/honda/sahara-1/",
+  "titulo": "Geracao sahara-1",
+  "descricao": "3 veiculos da geracao sahara-1.",
+  "seo": {
+    "title": "Geracao sahara-1 - Precos FIPE",
+    "description": "Veiculos da geracao sahara-1 na Tabela FIPE.",
+    "h1": "Geracao sahara-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/honda/sahara-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "honda-sahara-300-abs-flex-0-flex",
+      "fipeCodigo": "811178-2",
+      "displayName": "HONDA SAHARA 300 ABS FLEX",
+      "valorAtual": 35723,
+      "canonicalPath": "/fipe/honda/sahara-300-abs-flex-0-811178-2/",
+      "ano": 0,
+      "marca": "HONDA"
+    },
+    {
+      "vehicleId": "honda-sahara-300-adventure-abs-flex-0-flex",
+      "fipeCodigo": "811176-6",
+      "displayName": "HONDA SAHARA 300 ADVENTURE ABS FLEX",
+      "valorAtual": 37685,
+      "canonicalPath": "/fipe/honda/sahara-300-adventure-abs-flex-0-811176-6/",
+      "ano": 0,
+      "marca": "HONDA"
+    },
+    {
+      "vehicleId": "honda-sahara-300-rally-abs-flex-0-flex",
+      "fipeCodigo": "811177-4",
+      "displayName": "HONDA SAHARA 300 RALLY ABS FLEX",
+      "valorAtual": 36607,
+      "canonicalPath": "/fipe/honda/sahara-300-rally-abs-flex-0-811177-4/",
+      "ano": 0,
+      "marca": "HONDA"
+    }
+  ],
+  "stats": {
+    "total": 3
+  },
+  "meta": {
+    "geracaoId": "sahara-1"
+  }
+}

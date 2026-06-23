@@ -1,0 +1,48 @@
+{
+  "tipo": "geracao",
+  "slug": "foison-1",
+  "canonicalPath": "/geracao/lifan/foison-1/",
+  "titulo": "Geracao foison-1",
+  "descricao": "3 veiculos da geracao foison-1.",
+  "seo": {
+    "title": "Geracao foison-1 - Precos FIPE",
+    "description": "Veiculos da geracao foison-1 na Tabela FIPE.",
+    "h1": "Geracao foison-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/lifan/foison-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "lifan-foison-1-3-16v-85cv-2p-2014-gasolina",
+      "fipeCodigo": "077004-3",
+      "displayName": "LIFAN FOISON 1.3 16V 85cv 2p",
+      "valorAtual": 38703,
+      "canonicalPath": "/fipe/lifan/foison-1-3-16v-85cv-2p-2014-077004-3/",
+      "ano": 2014,
+      "marca": "LIFAN"
+    },
+    {
+      "vehicleId": "lifan-foison-1-3-16v-85cv-2p-2015-gasolina",
+      "fipeCodigo": "077004-3",
+      "displayName": "LIFAN FOISON 1.3 16V 85cv 2p",
+      "valorAtual": 40613,
+      "canonicalPath": "/fipe/lifan/foison-1-3-16v-85cv-2p-2015-077004-3/",
+      "ano": 2015,
+      "marca": "LIFAN"
+    },
+    {
+      "vehicleId": "lifan-foison-1-3-16v-85cv-2p-2016-gasolina",
+      "fipeCodigo": "077004-3",
+      "displayName": "LIFAN FOISON 1.3 16V 85cv 2p",
+      "valorAtual": 41629,
+      "canonicalPath": "/fipe/lifan/foison-1-3-16v-85cv-2p-2016-077004-3/",
+      "ano": 2016,
+      "marca": "LIFAN"
+    }
+  ],
+  "stats": {
+    "total": 3
+  },
+  "meta": {
+    "geracaoId": "foison-1"
+  }
+}

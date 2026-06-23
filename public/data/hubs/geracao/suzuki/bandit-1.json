@@ -1,0 +1,597 @@
+{
+  "tipo": "geracao",
+  "slug": "bandit-1",
+  "canonicalPath": "/geracao/suzuki/bandit-1/",
+  "titulo": "Geracao bandit-1",
+  "descricao": "64 veiculos da geracao bandit-1.",
+  "seo": {
+    "title": "Geracao bandit-1 - Precos FIPE",
+    "description": "Veiculos da geracao bandit-1 na Tabela FIPE.",
+    "h1": "Geracao bandit-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/suzuki/bandit-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "suzuki-bandit-1200s-2005-gasolina",
+      "fipeCodigo": "825045-6",
+      "displayName": "SUZUKI BANDIT 1200S",
+      "valorAtual": 24663,
+      "canonicalPath": "/fipe/suzuki/bandit-1200s-2005-825045-6/",
+      "ano": 2005,
+      "marca": "SUZUKI"
+    },
+    {
+      "vehicleId": "suzuki-bandit-1200s-2006-gasolina",
+      "fipeCodigo": "825045-6",
+      "displayName": "SUZUKI BANDIT 1200S",
+      "valorAtual": 25313,
+      "canonicalPath": "/fipe/suzuki/bandit-1200s-2006-825045-6/",
+      "ano": 2006,
+      "marca": "SUZUKI"
+    },
+    {
+      "vehicleId": "suzuki-bandit-1200s-2007-gasolina",
+      "fipeCodigo": "825045-6",
+      "displayName": "SUZUKI BANDIT 1200S",
+      "valorAtual": 26165,
+      "canonicalPath": "/fipe/suzuki/bandit-1200s-2007-825045-6/",
+      "ano": 2007,
+      "marca": "SUZUKI"
+    },
+    {
+      "vehicleId": "suzuki-bandit-1200s-2008-gasolina",
+      "fipeCodigo": "825045-6",
+      "displayName": "SUZUKI BANDIT 1200S",
+      "valorAtual": 27452,
+      "canonicalPath": "/fipe/suzuki/bandit-1200s-2008-825045-6/",
+      "ano": 2008,
+      "marca": "SUZUKI"
+    },
+    {
+      "vehicleId": "suzuki-bandit-1250s-2009-gasolina",
+      "fipeCodigo": "825051-0",
+      "displayName": "SUZUKI BANDIT 1250S",
+      "valorAtual": 29789,
+      "canonicalPath": "/fipe/suzuki/bandit-1250s-2009-825051-0/",
+      "ano": 2009,
+      "marca": "SUZUKI"
+    },
+    {
+      "vehicleId": "suzuki-bandit-1250s-2010-gasolina",
+      "fipeCodigo": "825051-0",
+      "displayName": "SUZUKI BANDIT 1250S",
+      "valorAtual": 31140,
+      "canonicalPath": "/fipe/suzuki/bandit-1250s-2010-825051-0/",
+      "ano": 2010,
+      "marca": "SUZUKI"
+    },
+    {
+      "vehicleId": "suzuki-bandit-1250s-2011-gasolina",
+      "fipeCodigo": "825051-0",
+      "displayName": "SUZUKI BANDIT 1250S",
+      "valorAtual": 33176,
+      "canonicalPath": "/fipe/suzuki/bandit-1250s-2011-825051-0/",
+      "ano": 2011,
+      "marca": "SUZUKI"
+    },
+    {
+      "vehicleId": "suzuki-bandit-1250s-2012-gasolina",
+      "fipeCodigo": "825051-0",
+      "displayName": "SUZUKI BANDIT 1250S",
+      "valorAtual": 34006,
+      "canonicalPath": "/fipe/suzuki/bandit-1250s-2012-825051-0/",
+      "ano": 2012,
+      "marca": "SUZUKI"
+    },
+    {
+      "vehicleId": "suzuki-bandit-1250s-2013-gasolina",
+      "fipeCodigo": "825051-0",
+      "displayName": "SUZUKI BANDIT 1250S",
+      "valorAtual": 35416,
+      "canonicalPath": "/fipe/suzuki/bandit-1250s-2013-825051-0/",
+      "ano": 2013,
+      "marca": "SUZUKI"
+    },
+    {
+      "vehicleId": "suzuki-bandit-1250s-2014-gasolina",
+      "fipeCodigo": "825051-0",
+      "displayName": "SUZUKI BANDIT 1250S",
+      "valorAtual": 36302,
+      "canonicalPath": "/fipe/suzuki/bandit-1250s-2014-825051-0/",
+      "ano": 2014,
+      "marca": "SUZUKI"
+    },
+    {
+      "vehicleId": "suzuki-bandit-600s-650s-2005-gasolina",
+      "fipeCodigo": "825046-4",
+      "displayName": "SUZUKI BANDIT 600S/ 650S",
+      "valorAtual": 21459,
+      "canonicalPath": "/fipe/suzuki/bandit-600s-650s-2005-825046-4/",
+      "ano": 2005,
+      "marca": "SUZUKI"
+    },
+    {
+      "vehicleId": "suzuki-bandit-600s-650s-2006-gasolina",
+      "fipeCodigo": "825046-4",
+      "displayName": "SUZUKI BANDIT 600S/ 650S",
+      "valorAtual": 21996,
+      "canonicalPath": "/fipe/suzuki/bandit-600s-650s-2006-825046-4/",
+      "ano": 2006,
+      "marca": "SUZUKI"
+    },
+    {
+      "vehicleId": "suzuki-bandit-600s-650s-2007-gasolina",
+      "fipeCodigo": "825046-4",
+      "displayName": "SUZUKI BANDIT 600S/ 650S",
+      "valorAtual": 23182,
+      "canonicalPath": "/fipe/suzuki/bandit-600s-650s-2007-825046-4/",
+      "ano": 2007,
+      "marca": "SUZUKI"
+    },
+    {
+      "vehicleId": "suzuki-bandit-600s-650s-2008-gasolina",
+      "fipeCodigo": "825046-4",
+      "displayName": "SUZUKI BANDIT 600S/ 650S",
+      "valorAtual": 24343,
+      "canonicalPath": "/fipe/suzuki/bandit-600s-650s-2008-825046-4/",
+      "ano": 2008,
+      "marca": "SUZUKI"
+    },
+    {
+      "vehicleId": "suzuki-bandit-600s-650s-2009-gasolina",
+      "fipeCodigo": "825046-4",
+      "displayName": "SUZUKI BANDIT 600S/ 650S",
+      "valorAtual": 26332,
+      "canonicalPath": "/fipe/suzuki/bandit-600s-650s-2009-825046-4/",
+      "ano": 2009,
+      "marca": "SUZUKI"
+    },
+    {
+      "vehicleId": "suzuki-bandit-600s-650s-2010-gasolina",
+      "fipeCodigo": "825046-4",
+      "displayName": "SUZUKI BANDIT 600S/ 650S",
+      "valorAtual": 27014,
+      "canonicalPath": "/fipe/suzuki/bandit-600s-650s-2010-825046-4/",
+      "ano": 2010,
+      "marca": "SUZUKI"
+    },
+    {
+      "vehicleId": "suzuki-bandit-600s-650s-2011-gasolina",
+      "fipeCodigo": "825046-4",
+      "displayName": "SUZUKI BANDIT 600S/ 650S",
+      "valorAtual": 28575,
+      "canonicalPath": "/fipe/suzuki/bandit-600s-650s-2011-825046-4/",
+      "ano": 2011,
+      "marca": "SUZUKI"
+    },
+    {
+      "vehicleId": "suzuki-bandit-600s-650s-2012-gasolina",
+      "fipeCodigo": "825046-4",
+      "displayName": "SUZUKI BANDIT 600S/ 650S",
+      "valorAtual": 29522,
+      "canonicalPath": "/fipe/suzuki/bandit-600s-650s-2012-825046-4/",
+      "ano": 2012,
+      "marca": "SUZUKI"
+    },
+    {
+      "vehicleId": "suzuki-bandit-600s-650s-2013-gasolina",
+      "fipeCodigo": "825046-4",
+      "displayName": "SUZUKI BANDIT 600S/ 650S",
+      "valorAtual": 30965,
+      "canonicalPath": "/fipe/suzuki/bandit-600s-650s-2013-825046-4/",
+      "ano": 2013,
+      "marca": "SUZUKI"
+    },
+    {
+      "vehicleId": "suzuki-bandit-600s-650s-2014-gasolina",
+      "fipeCodigo": "825046-4",
+      "displayName": "SUZUKI BANDIT 600S/ 650S",
+      "valorAtual": 32342,
+      "canonicalPath": "/fipe/suzuki/bandit-600s-650s-2014-825046-4/",
+      "ano": 2014,
+      "marca": "SUZUKI"
+    },
+    {
+      "vehicleId": "suzuki-bandit-600s-650s-2015-gasolina",
+      "fipeCodigo": "825046-4",
+      "displayName": "SUZUKI BANDIT 600S/ 650S",
+      "valorAtual": 33151,
+      "canonicalPath": "/fipe/suzuki/bandit-600s-650s-2015-825046-4/",
+      "ano": 2015,
+      "marca": "SUZUKI"
+    },
+    {
+      "vehicleId": "suzuki-bandit-600s-650s-2016-gasolina",
+      "fipeCodigo": "825046-4",
+      "displayName": "SUZUKI BANDIT 600S/ 650S",
+      "valorAtual": 37235,
+      "canonicalPath": "/fipe/suzuki/bandit-600s-650s-2016-825046-4/",
+      "ano": 2016,
+      "marca": "SUZUKI"
+    },
+    {
+      "vehicleId": "suzuki-bandit-n-1200-1996-gasolina",
+      "fipeCodigo": "825003-0",
+      "displayName": "SUZUKI BANDIT N-1200",
+      "valorAtual": 16377,
+      "canonicalPath": "/fipe/suzuki/bandit-n-1200-1996-825003-0/",
+      "ano": 1996,
+      "marca": "SUZUKI"
+    },
+    {
+      "vehicleId": "suzuki-bandit-n-1200-1997-gasolina",
+      "fipeCodigo": "825003-0",
+      "displayName": "SUZUKI BANDIT N-1200",
+      "valorAtual": 17508,
+      "canonicalPath": "/fipe/suzuki/bandit-n-1200-1997-825003-0/",
+      "ano": 1997,
+      "marca": "SUZUKI"
+    },
+    {
+      "vehicleId": "suzuki-bandit-n-1200-1998-gasolina",
+      "fipeCodigo": "825003-0",
+      "displayName": "SUZUKI BANDIT N-1200",
+      "valorAtual": 18333,
+      "canonicalPath": "/fipe/suzuki/bandit-n-1200-1998-825003-0/",
+      "ano": 1998,
+      "marca": "SUZUKI"
+    },
+    {
+      "vehicleId": "suzuki-bandit-n-1200-1999-gasolina",
+      "fipeCodigo": "825003-0",
+      "displayName": "SUZUKI BANDIT N-1200",
+      "valorAtual": 19418,
+      "canonicalPath": "/fipe/suzuki/bandit-n-1200-1999-825003-0/",
+      "ano": 1999,
+      "marca": "SUZUKI"
+    },
+    {
+      "vehicleId": "suzuki-bandit-n-1200-2000-gasolina",
+      "fipeCodigo": "825003-0",
+      "displayName": "SUZUKI BANDIT N-1200",
+      "valorAtual": 20672,
+      "canonicalPath": "/fipe/suzuki/bandit-n-1200-2000-825003-0/",
+      "ano": 2000,
+      "marca": "SUZUKI"
+    },
+    {
+      "vehicleId": "suzuki-bandit-n-1200-2001-gasolina",
+      "fipeCodigo": "825003-0",
+      "displayName": "SUZUKI BANDIT N-1200",
+      "valorAtual": 22310,
+      "canonicalPath": "/fipe/suzuki/bandit-n-1200-2001-825003-0/",
+      "ano": 2001,
+      "marca": "SUZUKI"
+    },
+    {
+      "vehicleId": "suzuki-bandit-n-1200-2002-gasolina",
+      "fipeCodigo": "825003-0",
+      "displayName": "SUZUKI BANDIT N-1200",
+      "valorAtual": 22868,
+      "canonicalPath": "/fipe/suzuki/bandit-n-1200-2002-825003-0/",
+      "ano": 2002,
+      "marca": "SUZUKI"
+    },
+    {
+      "vehicleId": "suzuki-bandit-n-1200-2003-gasolina",
+      "fipeCodigo": "825003-0",
+      "displayName": "SUZUKI BANDIT N-1200",
+      "valorAtual": 23440,
+      "canonicalPath": "/fipe/suzuki/bandit-n-1200-2003-825003-0/",
+      "ano": 2003,
+      "marca": "SUZUKI"
+    },
+    {
+      "vehicleId": "suzuki-bandit-n-1200-2004-gasolina",
+      "fipeCodigo": "825003-0",
+      "displayName": "SUZUKI BANDIT N-1200",
+      "valorAtual": 24026,
+      "canonicalPath": "/fipe/suzuki/bandit-n-1200-2004-825003-0/",
+      "ano": 2004,
+      "marca": "SUZUKI"
+    },
+    {
+      "vehicleId": "suzuki-bandit-n-1200-2005-gasolina",
+      "fipeCodigo": "825003-0",
+      "displayName": "SUZUKI BANDIT N-1200",
+      "valorAtual": 24643,
+      "canonicalPath": "/fipe/suzuki/bandit-n-1200-2005-825003-0/",
+      "ano": 2005,
+      "marca": "SUZUKI"
+    },
+    {
+      "vehicleId": "suzuki-bandit-n-1200-2006-gasolina",
+      "fipeCodigo": "825003-0",
+      "displayName": "SUZUKI BANDIT N-1200",
+      "valorAtual": 25281,
+      "canonicalPath": "/fipe/suzuki/bandit-n-1200-2006-825003-0/",
+      "ano": 2006,
+      "marca": "SUZUKI"
+    },
+    {
+      "vehicleId": "suzuki-bandit-n-1200-2007-gasolina",
+      "fipeCodigo": "825003-0",
+      "displayName": "SUZUKI BANDIT N-1200",
+      "valorAtual": 25936,
+      "canonicalPath": "/fipe/suzuki/bandit-n-1200-2007-825003-0/",
+      "ano": 2007,
+      "marca": "SUZUKI"
+    },
+    {
+      "vehicleId": "suzuki-bandit-n-1200-2008-gasolina",
+      "fipeCodigo": "825003-0",
+      "displayName": "SUZUKI BANDIT N-1200",
+      "valorAtual": 27056,
+      "canonicalPath": "/fipe/suzuki/bandit-n-1200-2008-825003-0/",
+      "ano": 2008,
+      "marca": "SUZUKI"
+    },
+    {
+      "vehicleId": "suzuki-bandit-n-1250-2008-gasolina",
+      "fipeCodigo": "825050-2",
+      "displayName": "SUZUKI BANDIT N-1250",
+      "valorAtual": 28081,
+      "canonicalPath": "/fipe/suzuki/bandit-n-1250-2008-825050-2/",
+      "ano": 2008,
+      "marca": "SUZUKI"
+    },
+    {
+      "vehicleId": "suzuki-bandit-n-1250-2009-gasolina",
+      "fipeCodigo": "825050-2",
+      "displayName": "SUZUKI BANDIT N-1250",
+      "valorAtual": 29327,
+      "canonicalPath": "/fipe/suzuki/bandit-n-1250-2009-825050-2/",
+      "ano": 2009,
+      "marca": "SUZUKI"
+    },
+    {
+      "vehicleId": "suzuki-bandit-n-1250-2010-gasolina",
+      "fipeCodigo": "825050-2",
+      "displayName": "SUZUKI BANDIT N-1250",
+      "valorAtual": 30623,
+      "canonicalPath": "/fipe/suzuki/bandit-n-1250-2010-825050-2/",
+      "ano": 2010,
+      "marca": "SUZUKI"
+    },
+    {
+      "vehicleId": "suzuki-bandit-n-1250-2011-gasolina",
+      "fipeCodigo": "825050-2",
+      "displayName": "SUZUKI BANDIT N-1250",
+      "valorAtual": 32419,
+      "canonicalPath": "/fipe/suzuki/bandit-n-1250-2011-825050-2/",
+      "ano": 2011,
+      "marca": "SUZUKI"
+    },
+    {
+      "vehicleId": "suzuki-bandit-n-1250-2012-gasolina",
+      "fipeCodigo": "825050-2",
+      "displayName": "SUZUKI BANDIT N-1250",
+      "valorAtual": 33642,
+      "canonicalPath": "/fipe/suzuki/bandit-n-1250-2012-825050-2/",
+      "ano": 2012,
+      "marca": "SUZUKI"
+    },
+    {
+      "vehicleId": "suzuki-bandit-n-1250-2013-gasolina",
+      "fipeCodigo": "825050-2",
+      "displayName": "SUZUKI BANDIT N-1250",
+      "valorAtual": 35035,
+      "canonicalPath": "/fipe/suzuki/bandit-n-1250-2013-825050-2/",
+      "ano": 2013,
+      "marca": "SUZUKI"
+    },
+    {
+      "vehicleId": "suzuki-bandit-n-1250-2014-gasolina",
+      "fipeCodigo": "825050-2",
+      "displayName": "SUZUKI BANDIT N-1250",
+      "valorAtual": 35913,
+      "canonicalPath": "/fipe/suzuki/bandit-n-1250-2014-825050-2/",
+      "ano": 2014,
+      "marca": "SUZUKI"
+    },
+    {
+      "vehicleId": "suzuki-bandit-n-1250-2015-gasolina",
+      "fipeCodigo": "825050-2",
+      "displayName": "SUZUKI BANDIT N-1250",
+      "valorAtual": 37685,
+      "canonicalPath": "/fipe/suzuki/bandit-n-1250-2015-825050-2/",
+      "ano": 2015,
+      "marca": "SUZUKI"
+    },
+    {
+      "vehicleId": "suzuki-bandit-n-600-650-1996-gasolina",
+      "fipeCodigo": "825004-9",
+      "displayName": "SUZUKI BANDIT N-600/ 650",
+      "valorAtual": 12614,
+      "canonicalPath": "/fipe/suzuki/bandit-n-600-650-1996-825004-9/",
+      "ano": 1996,
+      "marca": "SUZUKI"
+    },
+    {
+      "vehicleId": "suzuki-bandit-n-600-650-1997-gasolina",
+      "fipeCodigo": "825004-9",
+      "displayName": "SUZUKI BANDIT N-600/ 650",
+      "valorAtual": 13301,
+      "canonicalPath": "/fipe/suzuki/bandit-n-600-650-1997-825004-9/",
+      "ano": 1997,
+      "marca": "SUZUKI"
+    },
+    {
+      "vehicleId": "suzuki-bandit-n-600-650-1998-gasolina",
+      "fipeCodigo": "825004-9",
+      "displayName": "SUZUKI BANDIT N-600/ 650",
+      "valorAtual": 13834,
+      "canonicalPath": "/fipe/suzuki/bandit-n-600-650-1998-825004-9/",
+      "ano": 1998,
+      "marca": "SUZUKI"
+    },
+    {
+      "vehicleId": "suzuki-bandit-n-600-650-1999-gasolina",
+      "fipeCodigo": "825004-9",
+      "displayName": "SUZUKI BANDIT N-600/ 650",
+      "valorAtual": 16636,
+      "canonicalPath": "/fipe/suzuki/bandit-n-600-650-1999-825004-9/",
+      "ano": 1999,
+      "marca": "SUZUKI"
+    },
+    {
+      "vehicleId": "suzuki-bandit-n-600-650-2000-gasolina",
+      "fipeCodigo": "825004-9",
+      "displayName": "SUZUKI BANDIT N-600/ 650",
+      "valorAtual": 17513,
+      "canonicalPath": "/fipe/suzuki/bandit-n-600-650-2000-825004-9/",
+      "ano": 2000,
+      "marca": "SUZUKI"
+    },
+    {
+      "vehicleId": "suzuki-bandit-n-600-650-2001-gasolina",
+      "fipeCodigo": "825004-9",
+      "displayName": "SUZUKI BANDIT N-600/ 650",
+      "valorAtual": 17981,
+      "canonicalPath": "/fipe/suzuki/bandit-n-600-650-2001-825004-9/",
+      "ano": 2001,
+      "marca": "SUZUKI"
+    },
+    {
+      "vehicleId": "suzuki-bandit-n-600-650-2002-gasolina",
+      "fipeCodigo": "825004-9",
+      "displayName": "SUZUKI BANDIT N-600/ 650",
+      "valorAtual": 19458,
+      "canonicalPath": "/fipe/suzuki/bandit-n-600-650-2002-825004-9/",
+      "ano": 2002,
+      "marca": "SUZUKI"
+    },
+    {
+      "vehicleId": "suzuki-bandit-n-600-650-2003-gasolina",
+      "fipeCodigo": "825004-9",
+      "displayName": "SUZUKI BANDIT N-600/ 650",
+      "valorAtual": 20047,
+      "canonicalPath": "/fipe/suzuki/bandit-n-600-650-2003-825004-9/",
+      "ano": 2003,
+      "marca": "SUZUKI"
+    },
+    {
+      "vehicleId": "suzuki-bandit-n-600-650-2004-gasolina",
+      "fipeCodigo": "825004-9",
+      "displayName": "SUZUKI BANDIT N-600/ 650",
+      "valorAtual": 20691,
+      "canonicalPath": "/fipe/suzuki/bandit-n-600-650-2004-825004-9/",
+      "ano": 2004,
+      "marca": "SUZUKI"
+    },
+    {
+      "vehicleId": "suzuki-bandit-n-600-650-2005-gasolina",
+      "fipeCodigo": "825004-9",
+      "displayName": "SUZUKI BANDIT N-600/ 650",
+      "valorAtual": 21375,
+      "canonicalPath": "/fipe/suzuki/bandit-n-600-650-2005-825004-9/",
+      "ano": 2005,
+      "marca": "SUZUKI"
+    },
+    {
+      "vehicleId": "suzuki-bandit-n-600-650-2006-gasolina",
+      "fipeCodigo": "825004-9",
+      "displayName": "SUZUKI BANDIT N-600/ 650",
+      "valorAtual": 21910,
+      "canonicalPath": "/fipe/suzuki/bandit-n-600-650-2006-825004-9/",
+      "ano": 2006,
+      "marca": "SUZUKI"
+    },
+    {
+      "vehicleId": "suzuki-bandit-n-600-650-2007-gasolina",
+      "fipeCodigo": "825004-9",
+      "displayName": "SUZUKI BANDIT N-600/ 650",
+      "valorAtual": 22830,
+      "canonicalPath": "/fipe/suzuki/bandit-n-600-650-2007-825004-9/",
+      "ano": 2007,
+      "marca": "SUZUKI"
+    },
+    {
+      "vehicleId": "suzuki-bandit-n-600-650-2008-gasolina",
+      "fipeCodigo": "825004-9",
+      "displayName": "SUZUKI BANDIT N-600/ 650",
+      "valorAtual": 23521,
+      "canonicalPath": "/fipe/suzuki/bandit-n-600-650-2008-825004-9/",
+      "ano": 2008,
+      "marca": "SUZUKI"
+    },
+    {
+      "vehicleId": "suzuki-bandit-n-600-650-2009-gasolina",
+      "fipeCodigo": "825004-9",
+      "displayName": "SUZUKI BANDIT N-600/ 650",
+      "valorAtual": 25806,
+      "canonicalPath": "/fipe/suzuki/bandit-n-600-650-2009-825004-9/",
+      "ano": 2009,
+      "marca": "SUZUKI"
+    },
+    {
+      "vehicleId": "suzuki-bandit-n-600-650-2010-gasolina",
+      "fipeCodigo": "825004-9",
+      "displayName": "SUZUKI BANDIT N-600/ 650",
+      "valorAtual": 26452,
+      "canonicalPath": "/fipe/suzuki/bandit-n-600-650-2010-825004-9/",
+      "ano": 2010,
+      "marca": "SUZUKI"
+    },
+    {
+      "vehicleId": "suzuki-bandit-n-600-650-2011-gasolina",
+      "fipeCodigo": "825004-9",
+      "displayName": "SUZUKI BANDIT N-600/ 650",
+      "valorAtual": 28561,
+      "canonicalPath": "/fipe/suzuki/bandit-n-600-650-2011-825004-9/",
+      "ano": 2011,
+      "marca": "SUZUKI"
+    },
+    {
+      "vehicleId": "suzuki-bandit-n-600-650-2012-gasolina",
+      "fipeCodigo": "825004-9",
+      "displayName": "SUZUKI BANDIT N-600/ 650",
+      "valorAtual": 29276,
+      "canonicalPath": "/fipe/suzuki/bandit-n-600-650-2012-825004-9/",
+      "ano": 2012,
+      "marca": "SUZUKI"
+    },
+    {
+      "vehicleId": "suzuki-bandit-n-600-650-2013-gasolina",
+      "fipeCodigo": "825004-9",
+      "displayName": "SUZUKI BANDIT N-600/ 650",
+      "valorAtual": 30884,
+      "canonicalPath": "/fipe/suzuki/bandit-n-600-650-2013-825004-9/",
+      "ano": 2013,
+      "marca": "SUZUKI"
+    },
+    {
+      "vehicleId": "suzuki-bandit-n-600-650-2014-gasolina",
+      "fipeCodigo": "825004-9",
+      "displayName": "SUZUKI BANDIT N-600/ 650",
+      "valorAtual": 31964,
+      "canonicalPath": "/fipe/suzuki/bandit-n-600-650-2014-825004-9/",
+      "ano": 2014,
+      "marca": "SUZUKI"
+    },
+    {
+      "vehicleId": "suzuki-bandit-n-600-650-2015-gasolina",
+      "fipeCodigo": "825004-9",
+      "displayName": "SUZUKI BANDIT N-600/ 650",
+      "valorAtual": 32764,
+      "canonicalPath": "/fipe/suzuki/bandit-n-600-650-2015-825004-9/",
+      "ano": 2015,
+      "marca": "SUZUKI"
+    },
+    {
+      "vehicleId": "suzuki-bandit-n-600-650-2016-gasolina",
+      "fipeCodigo": "825004-9",
+      "displayName": "SUZUKI BANDIT N-600/ 650",
+      "valorAtual": 37213,
+      "canonicalPath": "/fipe/suzuki/bandit-n-600-650-2016-825004-9/",
+      "ano": 2016,
+      "marca": "SUZUKI"
+    }
+  ],
+  "stats": {
+    "total": 64
+  },
+  "meta": {
+    "geracaoId": "bandit-1"
+  }
+}

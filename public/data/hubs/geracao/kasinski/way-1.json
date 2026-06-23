@@ -1,0 +1,48 @@
+{
+  "tipo": "geracao",
+  "slug": "way-1",
+  "canonicalPath": "/geracao/kasinski/way-1/",
+  "titulo": "Geracao way-1",
+  "descricao": "3 veiculos da geracao way-1.",
+  "seo": {
+    "title": "Geracao way-1 - Precos FIPE",
+    "description": "Veiculos da geracao way-1 na Tabela FIPE.",
+    "h1": "Geracao way-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/kasinski/way-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "kasinski-way-125-2008-gasolina",
+      "fipeCodigo": "816024-4",
+      "displayName": "KASINSKI WAY 125",
+      "valorAtual": 2083,
+      "canonicalPath": "/fipe/kasinski/way-125-2008-816024-4/",
+      "ano": 2008,
+      "marca": "KASINSKI"
+    },
+    {
+      "vehicleId": "kasinski-way-125-2009-gasolina",
+      "fipeCodigo": "816024-4",
+      "displayName": "KASINSKI WAY 125",
+      "valorAtual": 2253,
+      "canonicalPath": "/fipe/kasinski/way-125-2009-816024-4/",
+      "ano": 2009,
+      "marca": "KASINSKI"
+    },
+    {
+      "vehicleId": "wake-way-1-6-total-flex-8v-mec-0-flex",
+      "fipeCodigo": "074001-2",
+      "displayName": "Wake Way 1.6 Total Flex 8V Mec.",
+      "valorAtual": 80124,
+      "canonicalPath": "/fipe/wake/way-1-6-total-flex-8v-mec-0-074001-2/",
+      "ano": 0,
+      "marca": "Wake"
+    }
+  ],
+  "stats": {
+    "total": 3
+  },
+  "meta": {
+    "geracaoId": "way-1"
+  }
+}

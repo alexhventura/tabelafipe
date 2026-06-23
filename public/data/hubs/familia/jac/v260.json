@@ -1,0 +1,82 @@
+{
+  "tipo": "familia",
+  "slug": "v260",
+  "canonicalPath": "/fipe/jac/v260/",
+  "titulo": "JAC v260 - Tabela FIPE",
+  "descricao": "6 versoes e anos do JAC v260 na Tabela FIPE.",
+  "seo": {
+    "title": "JAC v260 - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes JAC v260. 6 veiculos indexados.",
+    "h1": "JAC v260 - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/jac/v260/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "jac-v260-2-0-16v-diesel-2022-diesel",
+      "fipeCodigo": "080018-0",
+      "displayName": "JAC V260 2.0 16V Diesel",
+      "valorAtual": 116777,
+      "canonicalPath": "/fipe/jac/v260-2-0-16v-diesel-2022-080018-0/",
+      "ano": 2022,
+      "marca": "JAC"
+    },
+    {
+      "vehicleId": "jac-v260-2-0-16v-diesel-2021-diesel",
+      "fipeCodigo": "080018-0",
+      "displayName": "JAC V260 2.0 16V Diesel",
+      "valorAtual": 113928,
+      "canonicalPath": "/fipe/jac/v260-2-0-16v-diesel-2021-080018-0/",
+      "ano": 2021,
+      "marca": "JAC"
+    },
+    {
+      "vehicleId": "jac-v260-2-0-16v-diesel-2020-diesel",
+      "fipeCodigo": "080018-0",
+      "displayName": "JAC V260 2.0 16V Diesel",
+      "valorAtual": 107110,
+      "canonicalPath": "/fipe/jac/v260-2-0-16v-diesel-2020-080018-0/",
+      "ano": 2020,
+      "marca": "JAC"
+    },
+    {
+      "vehicleId": "jac-v260-2-0-16v-diesel-2019-diesel",
+      "fipeCodigo": "080018-0",
+      "displayName": "JAC V260 2.0 16V Diesel",
+      "valorAtual": 104497,
+      "canonicalPath": "/fipe/jac/v260-2-0-16v-diesel-2019-080018-0/",
+      "ano": 2019,
+      "marca": "JAC"
+    },
+    {
+      "vehicleId": "jac-v260-2-0-16v-diesel-2018-diesel",
+      "fipeCodigo": "080018-0",
+      "displayName": "JAC V260 2.0 16V Diesel",
+      "valorAtual": 67785,
+      "canonicalPath": "/fipe/jac/v260-2-0-16v-diesel-2018-080018-0/",
+      "ano": 2018,
+      "marca": "JAC"
+    },
+    {
+      "vehicleId": "jac-v260-2-0-16v-diesel-2017-diesel",
+      "fipeCodigo": "080018-0",
+      "displayName": "JAC V260 2.0 16V Diesel",
+      "valorAtual": 66131,
+      "canonicalPath": "/fipe/jac/v260-2-0-16v-diesel-2017-080018-0/",
+      "ano": 2017,
+      "marca": "JAC"
+    }
+  ],
+  "stats": {
+    "total": 6,
+    "precoMin": 66131,
+    "precoMax": 116777,
+    "anos": [
+      2022,
+      2021,
+      2020,
+      2019,
+      2018,
+      2017
+    ]
+  }
+}

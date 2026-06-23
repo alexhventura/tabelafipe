@@ -1,0 +1,66 @@
+{
+  "tipo": "geracao",
+  "slug": "general-3",
+  "canonicalPath": "/geracao/polaris/general-3/",
+  "titulo": "Geracao general-3",
+  "descricao": "5 veiculos da geracao general-3.",
+  "seo": {
+    "title": "Geracao general-3 - Precos FIPE",
+    "description": "Veiculos da geracao general-3 na Tabela FIPE.",
+    "h1": "Geracao general-3",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/polaris/general-3/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "polaris-general-xp-1000-deluxe-utv-2022-gasolina",
+      "fipeCodigo": "884023-7",
+      "displayName": "POLARIS General XP 1000 DELUXE (UTV)",
+      "valorAtual": 135392,
+      "canonicalPath": "/fipe/polaris/general-xp-1000-deluxe-utv-2022-884023-7/",
+      "ano": 2022,
+      "marca": "POLARIS"
+    },
+    {
+      "vehicleId": "polaris-general-xp-4-1000-premium-utv-2023-gasolina",
+      "fipeCodigo": "884028-8",
+      "displayName": "POLARIS General XP 4 1000 PREMIUM (UTV)",
+      "valorAtual": 127305,
+      "canonicalPath": "/fipe/polaris/general-xp-4-1000-premium-utv-2023-884028-8/",
+      "ano": 2023,
+      "marca": "POLARIS"
+    },
+    {
+      "vehicleId": "polaris-general-xp-4-1000-ultimate-utv-2023-gasolina",
+      "fipeCodigo": "884027-0",
+      "displayName": "POLARIS General XP 4 1000 ULTIMATE (UTV)",
+      "valorAtual": 148398,
+      "canonicalPath": "/fipe/polaris/general-xp-4-1000-ultimate-utv-2023-884027-0/",
+      "ano": 2023,
+      "marca": "POLARIS"
+    },
+    {
+      "vehicleId": "polaris-general-xp-4-1000-ultimate-utv-2024-gasolina",
+      "fipeCodigo": "884027-0",
+      "displayName": "POLARIS General XP 4 1000 ULTIMATE (UTV)",
+      "valorAtual": 156249,
+      "canonicalPath": "/fipe/polaris/general-xp-4-1000-ultimate-utv-2024-884027-0/",
+      "ano": 2024,
+      "marca": "POLARIS"
+    },
+    {
+      "vehicleId": "polaris-general-xp-4-1000-ultimate-utv-2025-gasolina",
+      "fipeCodigo": "884027-0",
+      "displayName": "POLARIS General XP 4 1000 ULTIMATE (UTV)",
+      "valorAtual": 165279,
+      "canonicalPath": "/fipe/polaris/general-xp-4-1000-ultimate-utv-2025-884027-0/",
+      "ano": 2025,
+      "marca": "POLARIS"
+    }
+  ],
+  "stats": {
+    "total": 5
+  },
+  "meta": {
+    "geracaoId": "general-3"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "go-1",
+  "canonicalPath": "/geracao/mvk/go-1/",
+  "titulo": "Geracao go-1",
+  "descricao": "2 veiculos da geracao go-1.",
+  "seo": {
+    "title": "Geracao go-1 - Precos FIPE",
+    "description": "Veiculos da geracao go-1 na Tabela FIPE.",
+    "h1": "Geracao go-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/mvk/go-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "mvk-go-100-2006-gasolina",
+      "fipeCodigo": "845005-6",
+      "displayName": "MVK GO 100",
+      "valorAtual": 1773,
+      "canonicalPath": "/fipe/mvk/go-100-2006-845005-6/",
+      "ano": 2006,
+      "marca": "MVK"
+    },
+    {
+      "vehicleId": "mvk-go-100-2007-gasolina",
+      "fipeCodigo": "845005-6",
+      "displayName": "MVK GO 100",
+      "valorAtual": 1980,
+      "canonicalPath": "/fipe/mvk/go-100-2007-845005-6/",
+      "ano": 2007,
+      "marca": "MVK"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "go-1"
+  }
+}

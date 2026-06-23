@@ -1,0 +1,79 @@
+{
+  "tipo": "familia",
+  "slug": "5",
+  "canonicalPath": "/fipe/omoda/5/",
+  "titulo": "Omoda 5 - Tabela FIPE",
+  "descricao": "6 versoes e anos do Omoda 5 na Tabela FIPE.",
+  "seo": {
+    "title": "Omoda 5 - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes Omoda 5. 6 veiculos indexados.",
+    "h1": "Omoda 5 - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/omoda/5/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "omoda-5-luxury-1-5-tb-fwd-2027-hibrido",
+      "fipeCodigo": "302002-9",
+      "displayName": "Omoda 5 Luxury 1.5 TB FWD",
+      "valorAtual": 157694,
+      "canonicalPath": "/fipe/omoda/5-luxury-1-5-tb-fwd-2027-302002-9/",
+      "ano": 2027,
+      "marca": "Omoda"
+    },
+    {
+      "vehicleId": "omoda-5-prestige-1-5-tb-fwd-2027-hibrido",
+      "fipeCodigo": "302003-7",
+      "displayName": "Omoda 5 Prestige 1.5 TB FWD",
+      "valorAtual": 178552,
+      "canonicalPath": "/fipe/omoda/5-prestige-1-5-tb-fwd-2027-302003-7/",
+      "ano": 2027,
+      "marca": "Omoda"
+    },
+    {
+      "vehicleId": "omoda-5-luxury-1-5-tb-fwd-2026-hibrido",
+      "fipeCodigo": "302002-9",
+      "displayName": "Omoda 5 Luxury 1.5 TB FWD",
+      "valorAtual": 152520,
+      "canonicalPath": "/fipe/omoda/5-luxury-1-5-tb-fwd-2026-302002-9/",
+      "ano": 2026,
+      "marca": "Omoda"
+    },
+    {
+      "vehicleId": "omoda-5-prestige-1-5-tb-fwd-2026-hibrido",
+      "fipeCodigo": "302003-7",
+      "displayName": "Omoda 5 Prestige 1.5 TB FWD",
+      "valorAtual": 172559,
+      "canonicalPath": "/fipe/omoda/5-prestige-1-5-tb-fwd-2026-302003-7/",
+      "ano": 2026,
+      "marca": "Omoda"
+    },
+    {
+      "vehicleId": "omoda-5-luxury-1-5-tb-fwd-0-hibrido",
+      "fipeCodigo": "302002-9",
+      "displayName": "Omoda 5 Luxury 1.5 TB FWD",
+      "valorAtual": 165994,
+      "canonicalPath": "/fipe/omoda/5-luxury-1-5-tb-fwd-0-302002-9/",
+      "ano": 0,
+      "marca": "Omoda"
+    },
+    {
+      "vehicleId": "omoda-5-prestige-1-5-tb-fwd-0-hibrido",
+      "fipeCodigo": "302003-7",
+      "displayName": "Omoda 5 Prestige 1.5 TB FWD",
+      "valorAtual": 185992,
+      "canonicalPath": "/fipe/omoda/5-prestige-1-5-tb-fwd-0-302003-7/",
+      "ano": 0,
+      "marca": "Omoda"
+    }
+  ],
+  "stats": {
+    "total": 6,
+    "precoMin": 152520,
+    "precoMax": 185992,
+    "anos": [
+      2027,
+      2026,
+      0
+    ]
+  }
+}

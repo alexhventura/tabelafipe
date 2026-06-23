@@ -1,0 +1,128 @@
+{
+  "tipo": "familia",
+  "slug": "rf",
+  "canonicalPath": "/fipe/suzuki/rf/",
+  "titulo": "SUZUKI rf - Tabela FIPE",
+  "descricao": "11 versoes e anos do SUZUKI rf na Tabela FIPE.",
+  "seo": {
+    "title": "SUZUKI rf - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes SUZUKI rf. 11 veiculos indexados.",
+    "h1": "SUZUKI rf - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/suzuki/rf/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "suzuki-rf-900-r-1999-gasolina",
+      "fipeCodigo": "825025-1",
+      "displayName": "SUZUKI RF 900 R",
+      "valorAtual": 21119,
+      "canonicalPath": "/fipe/suzuki/rf-900-r-1999-825025-1/",
+      "ano": 1999,
+      "marca": "SUZUKI"
+    },
+    {
+      "vehicleId": "suzuki-rf-900-r-1998-gasolina",
+      "fipeCodigo": "825025-1",
+      "displayName": "SUZUKI RF 900 R",
+      "valorAtual": 19597,
+      "canonicalPath": "/fipe/suzuki/rf-900-r-1998-825025-1/",
+      "ano": 1998,
+      "marca": "SUZUKI"
+    },
+    {
+      "vehicleId": "suzuki-rf-900-r-1997-gasolina",
+      "fipeCodigo": "825025-1",
+      "displayName": "SUZUKI RF 900 R",
+      "valorAtual": 18581,
+      "canonicalPath": "/fipe/suzuki/rf-900-r-1997-825025-1/",
+      "ano": 1997,
+      "marca": "SUZUKI"
+    },
+    {
+      "vehicleId": "suzuki-rf-600-r-1996-gasolina",
+      "fipeCodigo": "825024-3",
+      "displayName": "SUZUKI RF 600 R",
+      "valorAtual": 16836,
+      "canonicalPath": "/fipe/suzuki/rf-600-r-1996-825024-3/",
+      "ano": 1996,
+      "marca": "SUZUKI"
+    },
+    {
+      "vehicleId": "suzuki-rf-900-r-1996-gasolina",
+      "fipeCodigo": "825025-1",
+      "displayName": "SUZUKI RF 900 R",
+      "valorAtual": 17620,
+      "canonicalPath": "/fipe/suzuki/rf-900-r-1996-825025-1/",
+      "ano": 1996,
+      "marca": "SUZUKI"
+    },
+    {
+      "vehicleId": "suzuki-rf-600-r-1995-gasolina",
+      "fipeCodigo": "825024-3",
+      "displayName": "SUZUKI RF 600 R",
+      "valorAtual": 16338,
+      "canonicalPath": "/fipe/suzuki/rf-600-r-1995-825024-3/",
+      "ano": 1995,
+      "marca": "SUZUKI"
+    },
+    {
+      "vehicleId": "suzuki-rf-900-r-1995-gasolina",
+      "fipeCodigo": "825025-1",
+      "displayName": "SUZUKI RF 900 R",
+      "valorAtual": 17150,
+      "canonicalPath": "/fipe/suzuki/rf-900-r-1995-825025-1/",
+      "ano": 1995,
+      "marca": "SUZUKI"
+    },
+    {
+      "vehicleId": "suzuki-rf-600-r-1994-gasolina",
+      "fipeCodigo": "825024-3",
+      "displayName": "SUZUKI RF 600 R",
+      "valorAtual": 15677,
+      "canonicalPath": "/fipe/suzuki/rf-600-r-1994-825024-3/",
+      "ano": 1994,
+      "marca": "SUZUKI"
+    },
+    {
+      "vehicleId": "suzuki-rf-900-r-1994-gasolina",
+      "fipeCodigo": "825025-1",
+      "displayName": "SUZUKI RF 900 R",
+      "valorAtual": 16301,
+      "canonicalPath": "/fipe/suzuki/rf-900-r-1994-825025-1/",
+      "ano": 1994,
+      "marca": "SUZUKI"
+    },
+    {
+      "vehicleId": "suzuki-rf-600-r-1993-gasolina",
+      "fipeCodigo": "825024-3",
+      "displayName": "SUZUKI RF 600 R",
+      "valorAtual": 11277,
+      "canonicalPath": "/fipe/suzuki/rf-600-r-1993-825024-3/",
+      "ano": 1993,
+      "marca": "SUZUKI"
+    },
+    {
+      "vehicleId": "suzuki-rf-900-r-1993-gasolina",
+      "fipeCodigo": "825025-1",
+      "displayName": "SUZUKI RF 900 R",
+      "valorAtual": 13504,
+      "canonicalPath": "/fipe/suzuki/rf-900-r-1993-825025-1/",
+      "ano": 1993,
+      "marca": "SUZUKI"
+    }
+  ],
+  "stats": {
+    "total": 11,
+    "precoMin": 11277,
+    "precoMax": 21119,
+    "anos": [
+      1999,
+      1998,
+      1997,
+      1996,
+      1995,
+      1994,
+      1993
+    ]
+  }
+}

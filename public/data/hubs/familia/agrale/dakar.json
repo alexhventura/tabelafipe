@@ -1,0 +1,112 @@
+{
+  "tipo": "familia",
+  "slug": "dakar",
+  "canonicalPath": "/fipe/agrale/dakar/",
+  "titulo": "AGRALE dakar - Tabela FIPE",
+  "descricao": "9 versoes e anos do AGRALE dakar na Tabela FIPE.",
+  "seo": {
+    "title": "AGRALE dakar - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes AGRALE dakar. 9 veiculos indexados.",
+    "h1": "AGRALE dakar - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/agrale/dakar/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "agrale-dakar-50-2000-gasolina",
+      "fipeCodigo": "801005-6",
+      "displayName": "AGRALE DAKAR 50",
+      "valorAtual": 1974,
+      "canonicalPath": "/fipe/agrale/dakar-50-2000-801005-6/",
+      "ano": 2000,
+      "marca": "AGRALE"
+    },
+    {
+      "vehicleId": "agrale-dakar-50-1999-gasolina",
+      "fipeCodigo": "801005-6",
+      "displayName": "AGRALE DAKAR 50",
+      "valorAtual": 1769,
+      "canonicalPath": "/fipe/agrale/dakar-50-1999-801005-6/",
+      "ano": 1999,
+      "marca": "AGRALE"
+    },
+    {
+      "vehicleId": "agrale-dakar-50-1998-gasolina",
+      "fipeCodigo": "801005-6",
+      "displayName": "AGRALE DAKAR 50",
+      "valorAtual": 1543,
+      "canonicalPath": "/fipe/agrale/dakar-50-1998-801005-6/",
+      "ano": 1998,
+      "marca": "AGRALE"
+    },
+    {
+      "vehicleId": "agrale-dakar-50-1997-gasolina",
+      "fipeCodigo": "801005-6",
+      "displayName": "AGRALE DAKAR 50",
+      "valorAtual": 1434,
+      "canonicalPath": "/fipe/agrale/dakar-50-1997-801005-6/",
+      "ano": 1997,
+      "marca": "AGRALE"
+    },
+    {
+      "vehicleId": "agrale-dakar-30-0-190cc-1994-gasolina",
+      "fipeCodigo": "801004-8",
+      "displayName": "AGRALE DAKAR 30.0 190cc",
+      "valorAtual": 1784,
+      "canonicalPath": "/fipe/agrale/dakar-30-0-190cc-1994-801004-8/",
+      "ano": 1994,
+      "marca": "AGRALE"
+    },
+    {
+      "vehicleId": "agrale-dakar-30-0-190cc-1993-gasolina",
+      "fipeCodigo": "801004-8",
+      "displayName": "AGRALE DAKAR 30.0 190cc",
+      "valorAtual": 1621,
+      "canonicalPath": "/fipe/agrale/dakar-30-0-190cc-1993-801004-8/",
+      "ano": 1993,
+      "marca": "AGRALE"
+    },
+    {
+      "vehicleId": "agrale-dakar-30-0-190cc-1992-gasolina",
+      "fipeCodigo": "801004-8",
+      "displayName": "AGRALE DAKAR 30.0 190cc",
+      "valorAtual": 1439,
+      "canonicalPath": "/fipe/agrale/dakar-30-0-190cc-1992-801004-8/",
+      "ano": 1992,
+      "marca": "AGRALE"
+    },
+    {
+      "vehicleId": "agrale-dakar-30-0-190cc-1991-gasolina",
+      "fipeCodigo": "801004-8",
+      "displayName": "AGRALE DAKAR 30.0 190cc",
+      "valorAtual": 1374,
+      "canonicalPath": "/fipe/agrale/dakar-30-0-190cc-1991-801004-8/",
+      "ano": 1991,
+      "marca": "AGRALE"
+    },
+    {
+      "vehicleId": "agrale-dakar-30-0-190cc-1990-gasolina",
+      "fipeCodigo": "801004-8",
+      "displayName": "AGRALE DAKAR 30.0 190cc",
+      "valorAtual": 1326,
+      "canonicalPath": "/fipe/agrale/dakar-30-0-190cc-1990-801004-8/",
+      "ano": 1990,
+      "marca": "AGRALE"
+    }
+  ],
+  "stats": {
+    "total": 9,
+    "precoMin": 1326,
+    "precoMax": 1974,
+    "anos": [
+      2000,
+      1999,
+      1998,
+      1997,
+      1994,
+      1993,
+      1992,
+      1991,
+      1990
+    ]
+  }
+}

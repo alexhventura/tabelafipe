@@ -1,0 +1,72 @@
+{
+  "tipo": "familia",
+  "slug": "samara",
+  "canonicalPath": "/fipe/lada/samara/",
+  "titulo": "Lada samara - Tabela FIPE",
+  "descricao": "5 versoes e anos do Lada samara na Tabela FIPE.",
+  "seo": {
+    "title": "Lada samara - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes Lada samara. 5 veiculos indexados.",
+    "h1": "Lada samara - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/lada/samara/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "lada-samara-1-3-1-5-1995-gasolina",
+      "fipeCodigo": "019004-7",
+      "displayName": "Lada Samara 1.3/ 1.5",
+      "valorAtual": 4101,
+      "canonicalPath": "/fipe/lada/samara-1-3-1-5-1995-019004-7/",
+      "ano": 1995,
+      "marca": "Lada"
+    },
+    {
+      "vehicleId": "lada-samara-1-3-1-5-1994-gasolina",
+      "fipeCodigo": "019004-7",
+      "displayName": "Lada Samara 1.3/ 1.5",
+      "valorAtual": 3455,
+      "canonicalPath": "/fipe/lada/samara-1-3-1-5-1994-019004-7/",
+      "ano": 1994,
+      "marca": "Lada"
+    },
+    {
+      "vehicleId": "lada-samara-1-3-1-5-1993-gasolina",
+      "fipeCodigo": "019004-7",
+      "displayName": "Lada Samara 1.3/ 1.5",
+      "valorAtual": 3152,
+      "canonicalPath": "/fipe/lada/samara-1-3-1-5-1993-019004-7/",
+      "ano": 1993,
+      "marca": "Lada"
+    },
+    {
+      "vehicleId": "lada-samara-1-3-1-5-1992-gasolina",
+      "fipeCodigo": "019004-7",
+      "displayName": "Lada Samara 1.3/ 1.5",
+      "valorAtual": 2949,
+      "canonicalPath": "/fipe/lada/samara-1-3-1-5-1992-019004-7/",
+      "ano": 1992,
+      "marca": "Lada"
+    },
+    {
+      "vehicleId": "lada-samara-1-3-1-5-1991-gasolina",
+      "fipeCodigo": "019004-7",
+      "displayName": "Lada Samara 1.3/ 1.5",
+      "valorAtual": 2341,
+      "canonicalPath": "/fipe/lada/samara-1-3-1-5-1991-019004-7/",
+      "ano": 1991,
+      "marca": "Lada"
+    }
+  ],
+  "stats": {
+    "total": 5,
+    "precoMin": 2341,
+    "precoMax": 4101,
+    "anos": [
+      1995,
+      1994,
+      1993,
+      1992,
+      1991
+    ]
+  }
+}

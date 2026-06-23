@@ -1,0 +1,92 @@
+{
+  "tipo": "familia",
+  "slug": "rs7",
+  "canonicalPath": "/fipe/audi/rs7/",
+  "titulo": "Audi rs7 - Tabela FIPE",
+  "descricao": "7 versoes e anos do Audi rs7 na Tabela FIPE.",
+  "seo": {
+    "title": "Audi rs7 - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes Audi rs7. 7 veiculos indexados.",
+    "h1": "Audi rs7 - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/audi/rs7/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "audi-rs7-sportback-4-0-tfsi-quattro-tiptronic-2022-gasolina",
+      "fipeCodigo": "008194-9",
+      "displayName": "Audi RS7 Sportback 4.0 TFSI Quattro Tiptronic",
+      "valorAtual": 1056267,
+      "canonicalPath": "/fipe/audi/rs7-sportback-4-0-tfsi-quattro-tiptronic-2022-008194-9/",
+      "ano": 2022,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-rs7-sportback-4-0-tfsi-quattro-tiptronic-2021-gasolina",
+      "fipeCodigo": "008194-9",
+      "displayName": "Audi RS7 Sportback 4.0 TFSI Quattro Tiptronic",
+      "valorAtual": 764163,
+      "canonicalPath": "/fipe/audi/rs7-sportback-4-0-tfsi-quattro-tiptronic-2021-008194-9/",
+      "ano": 2021,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-rs7-sportback-4-0-tfsi-quattro-tiptronic-2018-gasolina",
+      "fipeCodigo": "008194-9",
+      "displayName": "Audi RS7 Sportback 4.0 TFSI Quattro Tiptronic",
+      "valorAtual": 493436,
+      "canonicalPath": "/fipe/audi/rs7-sportback-4-0-tfsi-quattro-tiptronic-2018-008194-9/",
+      "ano": 2018,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-rs7-sportback-4-0-tfsi-quattro-tiptronic-2017-gasolina",
+      "fipeCodigo": "008194-9",
+      "displayName": "Audi RS7 Sportback 4.0 TFSI Quattro Tiptronic",
+      "valorAtual": 442482,
+      "canonicalPath": "/fipe/audi/rs7-sportback-4-0-tfsi-quattro-tiptronic-2017-008194-9/",
+      "ano": 2017,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-rs7-sportback-4-0-tfsi-quattro-tiptronic-2016-gasolina",
+      "fipeCodigo": "008194-9",
+      "displayName": "Audi RS7 Sportback 4.0 TFSI Quattro Tiptronic",
+      "valorAtual": 365515,
+      "canonicalPath": "/fipe/audi/rs7-sportback-4-0-tfsi-quattro-tiptronic-2016-008194-9/",
+      "ano": 2016,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-rs7-sportback-4-0-tfsi-quattro-tiptronic-2015-gasolina",
+      "fipeCodigo": "008194-9",
+      "displayName": "Audi RS7 Sportback 4.0 TFSI Quattro Tiptronic",
+      "valorAtual": 356600,
+      "canonicalPath": "/fipe/audi/rs7-sportback-4-0-tfsi-quattro-tiptronic-2015-008194-9/",
+      "ano": 2015,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-rs7-sportback-4-0-tfsi-quattro-tiptronic-2014-gasolina",
+      "fipeCodigo": "008194-9",
+      "displayName": "Audi RS7 Sportback 4.0 TFSI Quattro Tiptronic",
+      "valorAtual": 339984,
+      "canonicalPath": "/fipe/audi/rs7-sportback-4-0-tfsi-quattro-tiptronic-2014-008194-9/",
+      "ano": 2014,
+      "marca": "Audi"
+    }
+  ],
+  "stats": {
+    "total": 7,
+    "precoMin": 339984,
+    "precoMax": 1056267,
+    "anos": [
+      2022,
+      2021,
+      2018,
+      2017,
+      2016,
+      2015,
+      2014
+    ]
+  }
+}

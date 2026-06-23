@@ -1,0 +1,75 @@
+{
+  "tipo": "geracao",
+  "slug": "virtus-1",
+  "canonicalPath": "/geracao/volkswagen/virtus-1/",
+  "titulo": "Geracao virtus-1",
+  "descricao": "6 veiculos da geracao virtus-1.",
+  "seo": {
+    "title": "Geracao virtus-1 - Precos FIPE",
+    "description": "Veiculos da geracao virtus-1 na Tabela FIPE.",
+    "h1": "Geracao virtus-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/volkswagen/virtus-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "volkswagen-virtus-comfort-200-tsi-1-0-flex-12v-aut-0-flex",
+      "fipeCodigo": "005485-2",
+      "displayName": "VW - VolksWagen VIRTUS Comfort. 200 TSI 1.0 Flex 12V Aut",
+      "valorAtual": 143783,
+      "canonicalPath": "/fipe/volkswagen/virtus-comfort-200-tsi-1-0-flex-12v-aut-0-005485-2/",
+      "ano": 0,
+      "marca": "VW - VolksWagen"
+    },
+    {
+      "vehicleId": "volkswagen-virtus-exclusive-250tsi-1-4-flex-16v-aut-0-flex",
+      "fipeCodigo": "005544-1",
+      "displayName": "VW - VolksWagen VIRTUS Exclusive 250TSI 1.4 Flex 16V Aut",
+      "valorAtual": 164909,
+      "canonicalPath": "/fipe/volkswagen/virtus-exclusive-250tsi-1-4-flex-16v-aut-0-005544-1/",
+      "ano": 0,
+      "marca": "VW - VolksWagen"
+    },
+    {
+      "vehicleId": "volkswagen-virtus-highline-200-tsi-1-0-flex-12v-aut-0-flex",
+      "fipeCodigo": "005484-4",
+      "displayName": "VW - VolksWagen VIRTUS Highline 200 TSI 1.0 Flex 12V Aut",
+      "valorAtual": 150719,
+      "canonicalPath": "/fipe/volkswagen/virtus-highline-200-tsi-1-0-flex-12v-aut-0-005484-4/",
+      "ano": 0,
+      "marca": "VW - VolksWagen"
+    },
+    {
+      "vehicleId": "volkswagen-virtus-sense-1-0-flex-12v-5p-mec-0-flex",
+      "fipeCodigo": "005551-4",
+      "displayName": "VW - VolksWagen VIRTUS Sense 1.0 Flex 12V 5p Mec.",
+      "valorAtual": 114212,
+      "canonicalPath": "/fipe/volkswagen/virtus-sense-1-0-flex-12v-5p-mec-0-005551-4/",
+      "ano": 0,
+      "marca": "VW - VolksWagen"
+    },
+    {
+      "vehicleId": "volkswagen-virtus-tsi-1-0-flex-12v-4p-aut-0-flex",
+      "fipeCodigo": "005543-3",
+      "displayName": "VW - VolksWagen VIRTUS TSI 1.0 Flex 12V 4p Aut.",
+      "valorAtual": 127911,
+      "canonicalPath": "/fipe/volkswagen/virtus-tsi-1-0-flex-12v-4p-aut-0-005543-3/",
+      "ano": 0,
+      "marca": "VW - VolksWagen"
+    },
+    {
+      "vehicleId": "volkswagen-virtus-tsi-1-0-flex-12v-4p-mec-0-flex",
+      "fipeCodigo": "005542-5",
+      "displayName": "VW - VolksWagen VIRTUS TSI 1.0 Flex 12V 4p Mec.",
+      "valorAtual": 118480,
+      "canonicalPath": "/fipe/volkswagen/virtus-tsi-1-0-flex-12v-4p-mec-0-005542-5/",
+      "ano": 0,
+      "marca": "VW - VolksWagen"
+    }
+  ],
+  "stats": {
+    "total": 6
+  },
+  "meta": {
+    "geracaoId": "virtus-1"
+  }
+}

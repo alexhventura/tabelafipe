@@ -1,0 +1,111 @@
+{
+  "tipo": "geracao",
+  "slug": "korando-1",
+  "canonicalPath": "/geracao/ssangyong/korando-1/",
+  "titulo": "Geracao korando-1",
+  "descricao": "10 veiculos da geracao korando-1.",
+  "seo": {
+    "title": "Geracao korando-1 - Precos FIPE",
+    "description": "Veiculos da geracao korando-1 na Tabela FIPE.",
+    "h1": "Geracao korando-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/ssangyong/korando-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "ssangyong-korando-canvas-2-9-tb-diesel-int-aut-2001-diesel",
+      "fipeCodigo": "055007-8",
+      "displayName": "SSANGYONG Korando Canvas 2.9 TB Diesel Int. Aut.",
+      "valorAtual": 28619,
+      "canonicalPath": "/fipe/ssangyong/korando-canvas-2-9-tb-diesel-int-aut-2001-055007-8/",
+      "ano": 2001,
+      "marca": "SSANGYONG"
+    },
+    {
+      "vehicleId": "ssangyong-korando-canvas-2-9-tb-diesel-int-aut-2002-diesel",
+      "fipeCodigo": "055007-8",
+      "displayName": "SSANGYONG Korando Canvas 2.9 TB Diesel Int. Aut.",
+      "valorAtual": 32462,
+      "canonicalPath": "/fipe/ssangyong/korando-canvas-2-9-tb-diesel-int-aut-2002-055007-8/",
+      "ano": 2002,
+      "marca": "SSANGYONG"
+    },
+    {
+      "vehicleId": "ssangyong-korando-canvas-2-9-tb-diesel-int-mec-2001-diesel",
+      "fipeCodigo": "055006-0",
+      "displayName": "SSANGYONG Korando Canvas 2.9 TB Diesel Int. Mec.",
+      "valorAtual": 28477,
+      "canonicalPath": "/fipe/ssangyong/korando-canvas-2-9-tb-diesel-int-mec-2001-055006-0/",
+      "ano": 2001,
+      "marca": "SSANGYONG"
+    },
+    {
+      "vehicleId": "ssangyong-korando-canvas-2-9-tb-diesel-int-mec-2002-diesel",
+      "fipeCodigo": "055006-0",
+      "displayName": "SSANGYONG Korando Canvas 2.9 TB Diesel Int. Mec.",
+      "valorAtual": 30220,
+      "canonicalPath": "/fipe/ssangyong/korando-canvas-2-9-tb-diesel-int-mec-2002-055006-0/",
+      "ano": 2002,
+      "marca": "SSANGYONG"
+    },
+    {
+      "vehicleId": "ssangyong-korando-gl-2-9-tb-diesel-int-120cv-2001-diesel",
+      "fipeCodigo": "055003-5",
+      "displayName": "SSANGYONG Korando GL 2.9 TB Diesel Int. 120cv",
+      "valorAtual": 21078,
+      "canonicalPath": "/fipe/ssangyong/korando-gl-2-9-tb-diesel-int-120cv-2001-055003-5/",
+      "ano": 2001,
+      "marca": "SSANGYONG"
+    },
+    {
+      "vehicleId": "ssangyong-korando-gl-2-9-tb-diesel-int-120cv-2002-diesel",
+      "fipeCodigo": "055003-5",
+      "displayName": "SSANGYONG Korando GL 2.9 TB Diesel Int. 120cv",
+      "valorAtual": 26687,
+      "canonicalPath": "/fipe/ssangyong/korando-gl-2-9-tb-diesel-int-120cv-2002-055003-5/",
+      "ano": 2002,
+      "marca": "SSANGYONG"
+    },
+    {
+      "vehicleId": "ssangyong-korando-glx-2-9-tb-diesel-int-120cv-aut-2001-diesel",
+      "fipeCodigo": "055005-1",
+      "displayName": "SSANGYONG Korando GLX 2.9 TB Diesel Int. 120cv Aut",
+      "valorAtual": 26339,
+      "canonicalPath": "/fipe/ssangyong/korando-glx-2-9-tb-diesel-int-120cv-aut-2001-055005-1/",
+      "ano": 2001,
+      "marca": "SSANGYONG"
+    },
+    {
+      "vehicleId": "ssangyong-korando-glx-2-9-tb-diesel-int-120cv-aut-2002-diesel",
+      "fipeCodigo": "055005-1",
+      "displayName": "SSANGYONG Korando GLX 2.9 TB Diesel Int. 120cv Aut",
+      "valorAtual": 32491,
+      "canonicalPath": "/fipe/ssangyong/korando-glx-2-9-tb-diesel-int-120cv-aut-2002-055005-1/",
+      "ano": 2002,
+      "marca": "SSANGYONG"
+    },
+    {
+      "vehicleId": "ssangyong-korando-glx-2-9-tb-diesel-int-120cv-mec-2001-diesel",
+      "fipeCodigo": "055004-3",
+      "displayName": "SSANGYONG Korando GLX 2.9 TB Diesel Int. 120cv Mec",
+      "valorAtual": 22116,
+      "canonicalPath": "/fipe/ssangyong/korando-glx-2-9-tb-diesel-int-120cv-mec-2001-055004-3/",
+      "ano": 2001,
+      "marca": "SSANGYONG"
+    },
+    {
+      "vehicleId": "ssangyong-korando-glx-2-9-tb-diesel-int-120cv-mec-2002-diesel",
+      "fipeCodigo": "055004-3",
+      "displayName": "SSANGYONG Korando GLX 2.9 TB Diesel Int. 120cv Mec",
+      "valorAtual": 27880,
+      "canonicalPath": "/fipe/ssangyong/korando-glx-2-9-tb-diesel-int-120cv-mec-2002-055004-3/",
+      "ano": 2002,
+      "marca": "SSANGYONG"
+    }
+  ],
+  "stats": {
+    "total": 10
+  },
+  "meta": {
+    "geracaoId": "korando-1"
+  }
+}

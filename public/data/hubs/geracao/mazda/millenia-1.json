@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "millenia-1",
+  "canonicalPath": "/geracao/mazda/millenia-1/",
+  "titulo": "Geracao millenia-1",
+  "descricao": "2 veiculos da geracao millenia-1.",
+  "seo": {
+    "title": "Geracao millenia-1 - Precos FIPE",
+    "description": "Veiculos da geracao millenia-1 na Tabela FIPE.",
+    "h1": "Geracao millenia-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/mazda/millenia-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "mazda-millenia-3-0-v6-24v-1996-gasolina",
+      "fipeCodigo": "020019-0",
+      "displayName": "Mazda Millenia 3.0 V6 24V",
+      "valorAtual": 13157,
+      "canonicalPath": "/fipe/mazda/millenia-3-0-v6-24v-1996-020019-0/",
+      "ano": 1996,
+      "marca": "Mazda"
+    },
+    {
+      "vehicleId": "mazda-millenia-3-0-v6-24v-1997-gasolina",
+      "fipeCodigo": "020019-0",
+      "displayName": "Mazda Millenia 3.0 V6 24V",
+      "valorAtual": 13620,
+      "canonicalPath": "/fipe/mazda/millenia-3-0-v6-24v-1997-020019-0/",
+      "ano": 1997,
+      "marca": "Mazda"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "millenia-1"
+  }
+}

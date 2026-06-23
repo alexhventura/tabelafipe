@@ -1,0 +1,112 @@
+{
+  "tipo": "familia",
+  "slug": "prius",
+  "canonicalPath": "/fipe/toyota/prius/",
+  "titulo": "Toyota prius - Tabela FIPE",
+  "descricao": "9 versoes e anos do Toyota prius na Tabela FIPE.",
+  "seo": {
+    "title": "Toyota prius - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes Toyota prius. 9 veiculos indexados.",
+    "h1": "Toyota prius - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/toyota/prius/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "toyota-prius-1-8-16v-5p-aut-hibrido-2021-hibrido",
+      "fipeCodigo": "002129-6",
+      "displayName": "Toyota PRIUS 1.8 16V 5p Aut. (Híbrido)",
+      "valorAtual": 175389,
+      "canonicalPath": "/fipe/toyota/prius-1-8-16v-5p-aut-hibrido-2021-002129-6/",
+      "ano": 2021,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-prius-1-8-16v-5p-aut-hibrido-2020-hibrido",
+      "fipeCodigo": "002129-6",
+      "displayName": "Toyota PRIUS 1.8 16V 5p Aut. (Híbrido)",
+      "valorAtual": 121587,
+      "canonicalPath": "/fipe/toyota/prius-1-8-16v-5p-aut-hibrido-2020-002129-6/",
+      "ano": 2020,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-prius-1-8-16v-5p-aut-hibrido-2019-hibrido",
+      "fipeCodigo": "002129-6",
+      "displayName": "Toyota PRIUS 1.8 16V 5p Aut. (Híbrido)",
+      "valorAtual": 101850,
+      "canonicalPath": "/fipe/toyota/prius-1-8-16v-5p-aut-hibrido-2019-002129-6/",
+      "ano": 2019,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-prius-1-8-16v-5p-aut-hibrido-2018-hibrido",
+      "fipeCodigo": "002129-6",
+      "displayName": "Toyota PRIUS 1.8 16V 5p Aut. (Híbrido)",
+      "valorAtual": 87454,
+      "canonicalPath": "/fipe/toyota/prius-1-8-16v-5p-aut-hibrido-2018-002129-6/",
+      "ano": 2018,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-prius-1-8-16v-5p-aut-hibrido-2017-hibrido",
+      "fipeCodigo": "002129-6",
+      "displayName": "Toyota PRIUS 1.8 16V 5p Aut. (Híbrido)",
+      "valorAtual": 80698,
+      "canonicalPath": "/fipe/toyota/prius-1-8-16v-5p-aut-hibrido-2017-002129-6/",
+      "ano": 2017,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-prius-1-8-16v-5p-aut-hibrido-2016-hibrido",
+      "fipeCodigo": "002129-6",
+      "displayName": "Toyota PRIUS 1.8 16V 5p Aut. (Híbrido)",
+      "valorAtual": 78729,
+      "canonicalPath": "/fipe/toyota/prius-1-8-16v-5p-aut-hibrido-2016-002129-6/",
+      "ano": 2016,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-prius-1-8-16v-5p-aut-hibrido-2015-hibrido",
+      "fipeCodigo": "002129-6",
+      "displayName": "Toyota PRIUS 1.8 16V 5p Aut. (Híbrido)",
+      "valorAtual": 64527,
+      "canonicalPath": "/fipe/toyota/prius-1-8-16v-5p-aut-hibrido-2015-002129-6/",
+      "ano": 2015,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-prius-1-8-16v-5p-aut-hibrido-2013-hibrido",
+      "fipeCodigo": "002129-6",
+      "displayName": "Toyota PRIUS 1.8 16V 5p Aut. (Híbrido)",
+      "valorAtual": 50472,
+      "canonicalPath": "/fipe/toyota/prius-1-8-16v-5p-aut-hibrido-2013-002129-6/",
+      "ano": 2013,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-prius-1-8-16v-5p-aut-hibrido-2012-hibrido",
+      "fipeCodigo": "002129-6",
+      "displayName": "Toyota PRIUS 1.8 16V 5p Aut. (Híbrido)",
+      "valorAtual": 47943,
+      "canonicalPath": "/fipe/toyota/prius-1-8-16v-5p-aut-hibrido-2012-002129-6/",
+      "ano": 2012,
+      "marca": "Toyota"
+    }
+  ],
+  "stats": {
+    "total": 9,
+    "precoMin": 47943,
+    "precoMax": 175389,
+    "anos": [
+      2021,
+      2020,
+      2019,
+      2018,
+      2017,
+      2016,
+      2015,
+      2013,
+      2012
+    ]
+  }
+}

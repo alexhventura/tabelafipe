@@ -1,0 +1,48 @@
+{
+  "tipo": "geracao",
+  "slug": "astra-1",
+  "canonicalPath": "/geracao/chevrolet/astra-1/",
+  "titulo": "Geracao astra-1",
+  "descricao": "3 veiculos da geracao astra-1.",
+  "seo": {
+    "title": "Geracao astra-1 - Precos FIPE",
+    "description": "Veiculos da geracao astra-1 na Tabela FIPE.",
+    "h1": "Geracao astra-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/chevrolet/astra-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "chevrolet-astra-gls-2-0-mpfi-1995-gasolina",
+      "fipeCodigo": "004072-0",
+      "displayName": "GM - Chevrolet Astra GLS 2.0 MPFI",
+      "valorAtual": 12345,
+      "canonicalPath": "/fipe/chevrolet/astra-gls-2-0-mpfi-1995-004072-0/",
+      "ano": 1995,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-astra-gls-2-0-mpfi-1996-gasolina",
+      "fipeCodigo": "004072-0",
+      "displayName": "GM - Chevrolet Astra GLS 2.0 MPFI",
+      "valorAtual": 12654,
+      "canonicalPath": "/fipe/chevrolet/astra-gls-2-0-mpfi-1996-004072-0/",
+      "ano": 1996,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-astra-gls-2-0-mpfi-sw-1995-gasolina",
+      "fipeCodigo": "004073-8",
+      "displayName": "GM - Chevrolet Astra GLS 2.0 MPFI SW",
+      "valorAtual": 13789,
+      "canonicalPath": "/fipe/chevrolet/astra-gls-2-0-mpfi-sw-1995-004073-8/",
+      "ano": 1995,
+      "marca": "GM - Chevrolet"
+    }
+  ],
+  "stats": {
+    "total": 3
+  },
+  "meta": {
+    "geracaoId": "astra-1"
+  }
+}

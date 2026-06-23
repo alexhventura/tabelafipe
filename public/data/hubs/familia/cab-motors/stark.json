@@ -1,0 +1,61 @@
+{
+  "tipo": "familia",
+  "slug": "stark",
+  "canonicalPath": "/fipe/cab-motors/stark/",
+  "titulo": "CAB Motors stark - Tabela FIPE",
+  "descricao": "4 versoes e anos do CAB Motors stark na Tabela FIPE.",
+  "seo": {
+    "title": "CAB Motors stark - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes CAB Motors stark. 4 veiculos indexados.",
+    "h1": "CAB Motors stark - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/cab-motors/stark/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "cab-motors-stark-mountaim-2-3-awd-tdi-diesel-3p-2022-diesel",
+      "fipeCodigo": "094001-1",
+      "displayName": "CAB Motors Stark Mountaim 2.3 AWD TDI Diesel 3p",
+      "valorAtual": 196306,
+      "canonicalPath": "/fipe/cab-motors/stark-mountaim-2-3-awd-tdi-diesel-3p-2022-094001-1/",
+      "ano": 2022,
+      "marca": "CAB Motors"
+    },
+    {
+      "vehicleId": "cab-motors-stark-mountaim-2-3-awd-tdi-diesel-3p-2021-diesel",
+      "fipeCodigo": "094001-1",
+      "displayName": "CAB Motors Stark Mountaim 2.3 AWD TDI Diesel 3p",
+      "valorAtual": 176301,
+      "canonicalPath": "/fipe/cab-motors/stark-mountaim-2-3-awd-tdi-diesel-3p-2021-094001-1/",
+      "ano": 2021,
+      "marca": "CAB Motors"
+    },
+    {
+      "vehicleId": "cab-motors-stark-superacao-2-3-awd-2-3-tdi-die-3p-2021-diesel",
+      "fipeCodigo": "094002-0",
+      "displayName": "CAB Motors Stark Superação 2.3 AWD 2.3 TDI Die. 3p",
+      "valorAtual": 185207,
+      "canonicalPath": "/fipe/cab-motors/stark-superacao-2-3-awd-2-3-tdi-die-3p-2021-094002-0/",
+      "ano": 2021,
+      "marca": "CAB Motors"
+    },
+    {
+      "vehicleId": "cab-motors-stark-mountaim-2-3-awd-tdi-diesel-3p-0-diesel",
+      "fipeCodigo": "094001-1",
+      "displayName": "CAB Motors Stark Mountaim 2.3 AWD TDI Diesel 3p",
+      "valorAtual": 395000,
+      "canonicalPath": "/fipe/cab-motors/stark-mountaim-2-3-awd-tdi-diesel-3p-0-094001-1/",
+      "ano": 0,
+      "marca": "CAB Motors"
+    }
+  ],
+  "stats": {
+    "total": 4,
+    "precoMin": 176301,
+    "precoMax": 395000,
+    "anos": [
+      2022,
+      2021,
+      0
+    ]
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "tipo": "familia",
+  "slug": "cross",
+  "canonicalPath": "/fipe/wake/cross/",
+  "titulo": "Wake cross - Tabela FIPE",
+  "descricao": "9 versoes e anos do Wake cross na Tabela FIPE.",
+  "seo": {
+    "title": "Wake cross - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes Wake cross. 9 veiculos indexados.",
+    "h1": "Wake cross - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/wake/cross/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "wake-cross-tsi-1-0-tb-12v-flex-mec-2026-flex",
+      "fipeCodigo": "074003-9",
+      "displayName": "Wake Cross TSI 1.0 TB 12V Flex Mec.",
+      "valorAtual": 196662,
+      "canonicalPath": "/fipe/wake/cross-tsi-1-0-tb-12v-flex-mec-2026-074003-9/",
+      "ano": 2026,
+      "marca": "Wake"
+    },
+    {
+      "vehicleId": "wake-cross-w-1-0-12v-flex-mec-2025-flex",
+      "fipeCodigo": "074005-5",
+      "displayName": "Wake Cross W 1.0 12V Flex Mec.",
+      "valorAtual": 156397,
+      "canonicalPath": "/fipe/wake/cross-w-1-0-12v-flex-mec-2025-074005-5/",
+      "ano": 2025,
+      "marca": "Wake"
+    },
+    {
+      "vehicleId": "wake-cross-tsi-1-0-tb-12v-flex-mec-2025-flex",
+      "fipeCodigo": "074003-9",
+      "displayName": "Wake Cross TSI 1.0 TB 12V Flex Mec.",
+      "valorAtual": 190723,
+      "canonicalPath": "/fipe/wake/cross-tsi-1-0-tb-12v-flex-mec-2025-074003-9/",
+      "ano": 2025,
+      "marca": "Wake"
+    },
+    {
+      "vehicleId": "wake-cross-w-1-0-12v-flex-mec-2024-flex",
+      "fipeCodigo": "074005-5",
+      "displayName": "Wake Cross W 1.0 12V Flex Mec.",
+      "valorAtual": 152146,
+      "canonicalPath": "/fipe/wake/cross-w-1-0-12v-flex-mec-2024-074005-5/",
+      "ano": 2024,
+      "marca": "Wake"
+    },
+    {
+      "vehicleId": "wake-cross-tsi-1-0-tb-12v-flex-mec-2024-flex",
+      "fipeCodigo": "074003-9",
+      "displayName": "Wake Cross TSI 1.0 TB 12V Flex Mec.",
+      "valorAtual": 185709,
+      "canonicalPath": "/fipe/wake/cross-tsi-1-0-tb-12v-flex-mec-2024-074003-9/",
+      "ano": 2024,
+      "marca": "Wake"
+    },
+    {
+      "vehicleId": "wake-cross-tsi-1-0-tb-12v-flex-mec-2023-flex",
+      "fipeCodigo": "074003-9",
+      "displayName": "Wake Cross TSI 1.0 TB 12V Flex Mec.",
+      "valorAtual": 173607,
+      "canonicalPath": "/fipe/wake/cross-tsi-1-0-tb-12v-flex-mec-2023-074003-9/",
+      "ano": 2023,
+      "marca": "Wake"
+    },
+    {
+      "vehicleId": "wake-cross-tsi-1-0-tb-12v-flex-mec-2022-flex",
+      "fipeCodigo": "074003-9",
+      "displayName": "Wake Cross TSI 1.0 TB 12V Flex Mec.",
+      "valorAtual": 168391,
+      "canonicalPath": "/fipe/wake/cross-tsi-1-0-tb-12v-flex-mec-2022-074003-9/",
+      "ano": 2022,
+      "marca": "Wake"
+    },
+    {
+      "vehicleId": "wake-cross-tsi-1-0-tb-12v-flex-mec-2021-flex",
+      "fipeCodigo": "074003-9",
+      "displayName": "Wake Cross TSI 1.0 TB 12V Flex Mec.",
+      "valorAtual": 149297,
+      "canonicalPath": "/fipe/wake/cross-tsi-1-0-tb-12v-flex-mec-2021-074003-9/",
+      "ano": 2021,
+      "marca": "Wake"
+    },
+    {
+      "vehicleId": "wake-cross-tsi-1-0-tb-12v-flex-mec-0-flex",
+      "fipeCodigo": "074003-9",
+      "displayName": "Wake Cross TSI 1.0 TB 12V Flex Mec.",
+      "valorAtual": 224000,
+      "canonicalPath": "/fipe/wake/cross-tsi-1-0-tb-12v-flex-mec-0-074003-9/",
+      "ano": 0,
+      "marca": "Wake"
+    }
+  ],
+  "stats": {
+    "total": 9,
+    "precoMin": 149297,
+    "precoMax": 224000,
+    "anos": [
+      2026,
+      2025,
+      2024,
+      2023,
+      2022,
+      2021,
+      0
+    ]
+  }
+}

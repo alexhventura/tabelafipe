@@ -1,0 +1,48 @@
+{
+  "tipo": "geracao",
+  "slug": "tracker-3",
+  "canonicalPath": "/geracao/chevrolet/tracker-3/",
+  "titulo": "Geracao tracker-3",
+  "descricao": "3 veiculos da geracao tracker-3.",
+  "seo": {
+    "title": "Geracao tracker-3 - Precos FIPE",
+    "description": "Veiculos da geracao tracker-3 na Tabela FIPE.",
+    "h1": "Geracao tracker-3",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/chevrolet/tracker-3/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "chevrolet-tracker-2-0-16v-128cv-mpfi-4x4-5p-2007-gasolina",
+      "fipeCodigo": "004334-6",
+      "displayName": "GM - Chevrolet TRACKER 2.0 16v 128cv MPFI 4x4 5p",
+      "valorAtual": 41353,
+      "canonicalPath": "/fipe/chevrolet/tracker-2-0-16v-128cv-mpfi-4x4-5p-2007-004334-6/",
+      "ano": 2007,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-tracker-2-0-16v-128cv-mpfi-4x4-5p-2008-gasolina",
+      "fipeCodigo": "004334-6",
+      "displayName": "GM - Chevrolet TRACKER 2.0 16v 128cv MPFI 4x4 5p",
+      "valorAtual": 42387,
+      "canonicalPath": "/fipe/chevrolet/tracker-2-0-16v-128cv-mpfi-4x4-5p-2008-004334-6/",
+      "ano": 2008,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-tracker-2-0-16v-128cv-mpfi-4x4-5p-2009-gasolina",
+      "fipeCodigo": "004334-6",
+      "displayName": "GM - Chevrolet TRACKER 2.0 16v 128cv MPFI 4x4 5p",
+      "valorAtual": 43447,
+      "canonicalPath": "/fipe/chevrolet/tracker-2-0-16v-128cv-mpfi-4x4-5p-2009-004334-6/",
+      "ano": 2009,
+      "marca": "GM - Chevrolet"
+    }
+  ],
+  "stats": {
+    "total": 3
+  },
+  "meta": {
+    "geracaoId": "tracker-3"
+  }
+}

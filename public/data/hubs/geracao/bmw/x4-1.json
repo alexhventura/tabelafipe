@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "x4-1",
+  "canonicalPath": "/geracao/bmw/x4-1/",
+  "titulo": "Geracao x4-1",
+  "descricao": "2 veiculos da geracao x4-1.",
+  "seo": {
+    "title": "Geracao x4-1 - Precos FIPE",
+    "description": "Veiculos da geracao x4-1 na Tabela FIPE.",
+    "h1": "Geracao x4-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/bmw/x4-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "bmw-x4-xdrive-20i-m-sport-2-0-tb-184cv-aut-0-gasolina",
+      "fipeCodigo": "009324-6",
+      "displayName": "BMW X4 XDRIVE 20i M-Sport 2.0 TB 184cv Aut",
+      "valorAtual": 458862,
+      "canonicalPath": "/fipe/bmw/x4-xdrive-20i-m-sport-2-0-tb-184cv-aut-0-009324-6/",
+      "ano": 0,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-x4-xdrive-30i-m-sport-2-0-tb-252cv-aut-0-gasolina",
+      "fipeCodigo": "009236-3",
+      "displayName": "BMW X4 XDRIVE 30i M-Sport 2.0 TB 252cv Aut",
+      "valorAtual": 522240,
+      "canonicalPath": "/fipe/bmw/x4-xdrive-30i-m-sport-2-0-tb-252cv-aut-0-009236-3/",
+      "ano": 0,
+      "marca": "BMW"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "x4-1"
+  }
+}

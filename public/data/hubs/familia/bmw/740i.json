@@ -1,0 +1,82 @@
+{
+  "tipo": "familia",
+  "slug": "740i",
+  "canonicalPath": "/fipe/bmw/740i/",
+  "titulo": "BMW 740i - Tabela FIPE",
+  "descricao": "6 versoes e anos do BMW 740i na Tabela FIPE.",
+  "seo": {
+    "title": "BMW 740i - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes BMW 740i. 6 veiculos indexados.",
+    "h1": "BMW 740i - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/bmw/740i/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "bmw-740i-1997-gasolina",
+      "fipeCodigo": "009011-5",
+      "displayName": "BMW 740i",
+      "valorAtual": 35584,
+      "canonicalPath": "/fipe/bmw/740i-1997-009011-5/",
+      "ano": 1997,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-740i-1996-gasolina",
+      "fipeCodigo": "009011-5",
+      "displayName": "BMW 740i",
+      "valorAtual": 33730,
+      "canonicalPath": "/fipe/bmw/740i-1996-009011-5/",
+      "ano": 1996,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-740i-1995-gasolina",
+      "fipeCodigo": "009011-5",
+      "displayName": "BMW 740i",
+      "valorAtual": 32149,
+      "canonicalPath": "/fipe/bmw/740i-1995-009011-5/",
+      "ano": 1995,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-740i-1994-gasolina",
+      "fipeCodigo": "009011-5",
+      "displayName": "BMW 740i",
+      "valorAtual": 26936,
+      "canonicalPath": "/fipe/bmw/740i-1994-009011-5/",
+      "ano": 1994,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-740i-1993-gasolina",
+      "fipeCodigo": "009011-5",
+      "displayName": "BMW 740i",
+      "valorAtual": 26084,
+      "canonicalPath": "/fipe/bmw/740i-1993-009011-5/",
+      "ano": 1993,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-740i-1992-gasolina",
+      "fipeCodigo": "009011-5",
+      "displayName": "BMW 740i",
+      "valorAtual": 20310,
+      "canonicalPath": "/fipe/bmw/740i-1992-009011-5/",
+      "ano": 1992,
+      "marca": "BMW"
+    }
+  ],
+  "stats": {
+    "total": 6,
+    "precoMin": 20310,
+    "precoMax": 35584,
+    "anos": [
+      1997,
+      1996,
+      1995,
+      1994,
+      1993,
+      1992
+    ]
+  }
+}

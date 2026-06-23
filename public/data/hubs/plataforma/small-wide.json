@@ -1,0 +1,741 @@
+{
+  "tipo": "plataforma",
+  "slug": "small-wide",
+  "canonicalPath": "/plataforma/small-wide/",
+  "titulo": "Plataforma small-wide",
+  "descricao": "256 veiculos na plataforma small-wide.",
+  "seo": {
+    "title": "Plataforma small-wide - Veiculos FIPE",
+    "description": "Veiculos baseados na plataforma small-wide.",
+    "h1": "Plataforma small-wide",
+    "canonical": "https://pesquisatabelafipe.com.br/plataforma/small-wide/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "fiat-toro-blackjack-2-4-16v-flex-aut-2018-flex",
+      "fipeCodigo": "001495-8",
+      "displayName": "Fiat Toro Blackjack 2.4 16V flex Aut",
+      "valorAtual": 88316,
+      "canonicalPath": "/fipe/fiat/toro-blackjack-2-4-16v-flex-aut-2018-001495-8/",
+      "ano": 2018,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-toro-blackjack-2-4-16v-flex-aut-2019-flex",
+      "fipeCodigo": "001495-8",
+      "displayName": "Fiat Toro Blackjack 2.4 16V flex Aut",
+      "valorAtual": 99269,
+      "canonicalPath": "/fipe/fiat/toro-blackjack-2-4-16v-flex-aut-2019-001495-8/",
+      "ano": 2019,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-toro-endurance-1-3-t270-4x2-flex-aut-2022-flex",
+      "fipeCodigo": "001537-7",
+      "displayName": "Fiat Toro Endurance 1.3 T270 4x2 Flex Aut.",
+      "valorAtual": 99792,
+      "canonicalPath": "/fipe/fiat/toro-endurance-1-3-t270-4x2-flex-aut-2022-001537-7/",
+      "ano": 2022,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-toro-endurance-1-3-t270-4x2-flex-aut-2023-flex",
+      "fipeCodigo": "001537-7",
+      "displayName": "Fiat Toro Endurance 1.3 T270 4x2 Flex Aut.",
+      "valorAtual": 109481,
+      "canonicalPath": "/fipe/fiat/toro-endurance-1-3-t270-4x2-flex-aut-2023-001537-7/",
+      "ano": 2023,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-toro-endurance-1-3-t270-4x2-flex-aut-2024-flex",
+      "fipeCodigo": "001537-7",
+      "displayName": "Fiat Toro Endurance 1.3 T270 4x2 Flex Aut.",
+      "valorAtual": 116895,
+      "canonicalPath": "/fipe/fiat/toro-endurance-1-3-t270-4x2-flex-aut-2024-001537-7/",
+      "ano": 2024,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-toro-endurance-1-3-t270-4x2-flex-aut-2025-flex",
+      "fipeCodigo": "001537-7",
+      "displayName": "Fiat Toro Endurance 1.3 T270 4x2 Flex Aut.",
+      "valorAtual": 123799,
+      "canonicalPath": "/fipe/fiat/toro-endurance-1-3-t270-4x2-flex-aut-2025-001537-7/",
+      "ano": 2025,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-toro-endurance-1-3-t270-4x2-flex-aut-2026-flex",
+      "fipeCodigo": "001537-7",
+      "displayName": "Fiat Toro Endurance 1.3 T270 4x2 Flex Aut.",
+      "valorAtual": 140374,
+      "canonicalPath": "/fipe/fiat/toro-endurance-1-3-t270-4x2-flex-aut-2026-001537-7/",
+      "ano": 2026,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-toro-endurance-1-3-t270-4x2-flex-aut-0-flex",
+      "fipeCodigo": "001537-7",
+      "displayName": "Fiat Toro Endurance 1.3 T270 4x2 Flex Aut.",
+      "valorAtual": 158290,
+      "canonicalPath": "/fipe/fiat/toro-endurance-1-3-t270-4x2-flex-aut-0-001537-7/",
+      "ano": 0,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-toro-endurance-1-8-16v-flex-aut-2019-flex",
+      "fipeCodigo": "001508-3",
+      "displayName": "Fiat Toro Endurance 1.8 16V Flex Aut.",
+      "valorAtual": 82691,
+      "canonicalPath": "/fipe/fiat/toro-endurance-1-8-16v-flex-aut-2019-001508-3/",
+      "ano": 2019,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-toro-endurance-1-8-16v-flex-aut-2020-flex",
+      "fipeCodigo": "001508-3",
+      "displayName": "Fiat Toro Endurance 1.8 16V Flex Aut.",
+      "valorAtual": 84889,
+      "canonicalPath": "/fipe/fiat/toro-endurance-1-8-16v-flex-aut-2020-001508-3/",
+      "ano": 2020,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-toro-endurance-1-8-16v-flex-aut-2021-flex",
+      "fipeCodigo": "001508-3",
+      "displayName": "Fiat Toro Endurance 1.8 16V Flex Aut.",
+      "valorAtual": 87012,
+      "canonicalPath": "/fipe/fiat/toro-endurance-1-8-16v-flex-aut-2021-001508-3/",
+      "ano": 2021,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-toro-endurance-1-8-16v-flex-aut-2022-flex",
+      "fipeCodigo": "001508-3",
+      "displayName": "Fiat Toro Endurance 1.8 16V Flex Aut.",
+      "valorAtual": 92456,
+      "canonicalPath": "/fipe/fiat/toro-endurance-1-8-16v-flex-aut-2022-001508-3/",
+      "ano": 2022,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-toro-endurance-1-8-16v-flex-mec-2020-flex",
+      "fipeCodigo": "001521-0",
+      "displayName": "Fiat Toro Endurance 1.8 16V Flex Mec.",
+      "valorAtual": 83549,
+      "canonicalPath": "/fipe/fiat/toro-endurance-1-8-16v-flex-mec-2020-001521-0/",
+      "ano": 2020,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-toro-endurance-1-8-16v-flex-mec-2021-flex",
+      "fipeCodigo": "001521-0",
+      "displayName": "Fiat Toro Endurance 1.8 16V Flex Mec.",
+      "valorAtual": 85638,
+      "canonicalPath": "/fipe/fiat/toro-endurance-1-8-16v-flex-mec-2021-001521-0/",
+      "ano": 2021,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-toro-endurance-2-0-16v-4x4-diesel-aut-2020-diesel",
+      "fipeCodigo": "001520-2",
+      "displayName": "Fiat Toro Endurance 2.0 16V 4x4 Diesel Aut.",
+      "valorAtual": 95971,
+      "canonicalPath": "/fipe/fiat/toro-endurance-2-0-16v-4x4-diesel-aut-2020-001520-2/",
+      "ano": 2020,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-toro-endurance-2-0-16v-4x4-diesel-aut-2021-diesel",
+      "fipeCodigo": "001520-2",
+      "displayName": "Fiat Toro Endurance 2.0 16V 4x4 Diesel Aut.",
+      "valorAtual": 98371,
+      "canonicalPath": "/fipe/fiat/toro-endurance-2-0-16v-4x4-diesel-aut-2021-001520-2/",
+      "ano": 2021,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-toro-endurance-2-0-16v-4x4-diesel-aut-2022-diesel",
+      "fipeCodigo": "001520-2",
+      "displayName": "Fiat Toro Endurance 2.0 16V 4x4 Diesel Aut.",
+      "valorAtual": 102440,
+      "canonicalPath": "/fipe/fiat/toro-endurance-2-0-16v-4x4-diesel-aut-2022-001520-2/",
+      "ano": 2022,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-toro-freedom-1-3-t270-4x2-flex-aut-2022-flex",
+      "fipeCodigo": "001538-5",
+      "displayName": "Fiat Toro Freedom 1.3 T270 4x2 Flex Aut.",
+      "valorAtual": 105488,
+      "canonicalPath": "/fipe/fiat/toro-freedom-1-3-t270-4x2-flex-aut-2022-001538-5/",
+      "ano": 2022,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-toro-freedom-1-3-t270-4x2-flex-aut-2023-flex",
+      "fipeCodigo": "001538-5",
+      "displayName": "Fiat Toro Freedom 1.3 T270 4x2 Flex Aut.",
+      "valorAtual": 114604,
+      "canonicalPath": "/fipe/fiat/toro-freedom-1-3-t270-4x2-flex-aut-2023-001538-5/",
+      "ano": 2023,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-toro-freedom-1-3-t270-4x2-flex-aut-2024-flex",
+      "fipeCodigo": "001538-5",
+      "displayName": "Fiat Toro Freedom 1.3 T270 4x2 Flex Aut.",
+      "valorAtual": 124647,
+      "canonicalPath": "/fipe/fiat/toro-freedom-1-3-t270-4x2-flex-aut-2024-001538-5/",
+      "ano": 2024,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-toro-freedom-1-3-t270-4x2-flex-aut-2025-flex",
+      "fipeCodigo": "001538-5",
+      "displayName": "Fiat Toro Freedom 1.3 T270 4x2 Flex Aut.",
+      "valorAtual": 132199,
+      "canonicalPath": "/fipe/fiat/toro-freedom-1-3-t270-4x2-flex-aut-2025-001538-5/",
+      "ano": 2025,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-toro-freedom-1-3-t270-4x2-flex-aut-2026-flex",
+      "fipeCodigo": "001538-5",
+      "displayName": "Fiat Toro Freedom 1.3 T270 4x2 Flex Aut.",
+      "valorAtual": 152748,
+      "canonicalPath": "/fipe/fiat/toro-freedom-1-3-t270-4x2-flex-aut-2026-001538-5/",
+      "ano": 2026,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-toro-freedom-1-3-t270-4x2-flex-aut-0-flex",
+      "fipeCodigo": "001538-5",
+      "displayName": "Fiat Toro Freedom 1.3 T270 4x2 Flex Aut.",
+      "valorAtual": 169328,
+      "canonicalPath": "/fipe/fiat/toro-freedom-1-3-t270-4x2-flex-aut-0-001538-5/",
+      "ano": 0,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-toro-freedom-1-8-16v-flex-aut-2016-flex",
+      "fipeCodigo": "001449-4",
+      "displayName": "Fiat Toro Freedom 1.8 16V Flex Aut.",
+      "valorAtual": 78473,
+      "canonicalPath": "/fipe/fiat/toro-freedom-1-8-16v-flex-aut-2016-001449-4/",
+      "ano": 2016,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-toro-freedom-1-8-16v-flex-aut-2017-flex",
+      "fipeCodigo": "001449-4",
+      "displayName": "Fiat Toro Freedom 1.8 16V Flex Aut.",
+      "valorAtual": 80704,
+      "canonicalPath": "/fipe/fiat/toro-freedom-1-8-16v-flex-aut-2017-001449-4/",
+      "ano": 2017,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-toro-freedom-1-8-16v-flex-aut-2018-flex",
+      "fipeCodigo": "001449-4",
+      "displayName": "Fiat Toro Freedom 1.8 16V Flex Aut.",
+      "valorAtual": 82883,
+      "canonicalPath": "/fipe/fiat/toro-freedom-1-8-16v-flex-aut-2018-001449-4/",
+      "ano": 2018,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-toro-freedom-1-8-16v-flex-aut-2019-flex",
+      "fipeCodigo": "001449-4",
+      "displayName": "Fiat Toro Freedom 1.8 16V Flex Aut.",
+      "valorAtual": 87043,
+      "canonicalPath": "/fipe/fiat/toro-freedom-1-8-16v-flex-aut-2019-001449-4/",
+      "ano": 2019,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-toro-freedom-1-8-16v-flex-aut-2020-flex",
+      "fipeCodigo": "001449-4",
+      "displayName": "Fiat Toro Freedom 1.8 16V Flex Aut.",
+      "valorAtual": 90397,
+      "canonicalPath": "/fipe/fiat/toro-freedom-1-8-16v-flex-aut-2020-001449-4/",
+      "ano": 2020,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-toro-freedom-1-8-16v-flex-aut-2021-flex",
+      "fipeCodigo": "001449-4",
+      "displayName": "Fiat Toro Freedom 1.8 16V Flex Aut.",
+      "valorAtual": 94532,
+      "canonicalPath": "/fipe/fiat/toro-freedom-1-8-16v-flex-aut-2021-001449-4/",
+      "ano": 2021,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-toro-freedom-2-0-16v-4x2-tb-diesel-mec-2016-diesel",
+      "fipeCodigo": "001451-6",
+      "displayName": "Fiat Toro Freedom 2.0 16V 4x2 TB Diesel Mec.",
+      "valorAtual": 79801,
+      "canonicalPath": "/fipe/fiat/toro-freedom-2-0-16v-4x2-tb-diesel-mec-2016-001451-6/",
+      "ano": 2016,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-toro-freedom-2-0-16v-4x2-tb-diesel-mec-2017-diesel",
+      "fipeCodigo": "001451-6",
+      "displayName": "Fiat Toro Freedom 2.0 16V 4x2 TB Diesel Mec.",
+      "valorAtual": 83733,
+      "canonicalPath": "/fipe/fiat/toro-freedom-2-0-16v-4x2-tb-diesel-mec-2017-001451-6/",
+      "ano": 2017,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-toro-freedom-2-0-16v-4x2-tb-diesel-mec-2018-diesel",
+      "fipeCodigo": "001451-6",
+      "displayName": "Fiat Toro Freedom 2.0 16V 4x2 TB Diesel Mec.",
+      "valorAtual": 86057,
+      "canonicalPath": "/fipe/fiat/toro-freedom-2-0-16v-4x2-tb-diesel-mec-2018-001451-6/",
+      "ano": 2018,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-toro-freedom-2-0-16v-4x4-tb-diesel-aut-2018-diesel",
+      "fipeCodigo": "001487-7",
+      "displayName": "Fiat Toro Freedom 2.0 16V 4x4 TB Diesel Aut.",
+      "valorAtual": 91650,
+      "canonicalPath": "/fipe/fiat/toro-freedom-2-0-16v-4x4-tb-diesel-aut-2018-001487-7/",
+      "ano": 2018,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-toro-freedom-2-0-16v-4x4-tb-diesel-aut-2019-diesel",
+      "fipeCodigo": "001487-7",
+      "displayName": "Fiat Toro Freedom 2.0 16V 4x4 TB Diesel Aut.",
+      "valorAtual": 95137,
+      "canonicalPath": "/fipe/fiat/toro-freedom-2-0-16v-4x4-tb-diesel-aut-2019-001487-7/",
+      "ano": 2019,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-toro-freedom-2-0-16v-4x4-tb-diesel-aut-2020-diesel",
+      "fipeCodigo": "001487-7",
+      "displayName": "Fiat Toro Freedom 2.0 16V 4x4 TB Diesel Aut.",
+      "valorAtual": 100098,
+      "canonicalPath": "/fipe/fiat/toro-freedom-2-0-16v-4x4-tb-diesel-aut-2020-001487-7/",
+      "ano": 2020,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-toro-freedom-2-0-16v-4x4-tb-diesel-aut-2021-diesel",
+      "fipeCodigo": "001487-7",
+      "displayName": "Fiat Toro Freedom 2.0 16V 4x4 TB Diesel Aut.",
+      "valorAtual": 102601,
+      "canonicalPath": "/fipe/fiat/toro-freedom-2-0-16v-4x4-tb-diesel-aut-2021-001487-7/",
+      "ano": 2021,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-toro-freedom-2-0-16v-4x4-tb-diesel-aut-2022-diesel",
+      "fipeCodigo": "001487-7",
+      "displayName": "Fiat Toro Freedom 2.0 16V 4x4 TB Diesel Aut.",
+      "valorAtual": 110565,
+      "canonicalPath": "/fipe/fiat/toro-freedom-2-0-16v-4x4-tb-diesel-aut-2022-001487-7/",
+      "ano": 2022,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-toro-freedom-2-0-16v-4x4-tb-diesel-aut-2023-diesel",
+      "fipeCodigo": "001487-7",
+      "displayName": "Fiat Toro Freedom 2.0 16V 4x4 TB Diesel Aut.",
+      "valorAtual": 121870,
+      "canonicalPath": "/fipe/fiat/toro-freedom-2-0-16v-4x4-tb-diesel-aut-2023-001487-7/",
+      "ano": 2023,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-toro-freedom-2-0-16v-4x4-tb-diesel-mec-2016-diesel",
+      "fipeCodigo": "001452-4",
+      "displayName": "Fiat Toro Freedom 2.0 16V 4x4 TB Diesel Mec.",
+      "valorAtual": 80396,
+      "canonicalPath": "/fipe/fiat/toro-freedom-2-0-16v-4x4-tb-diesel-mec-2016-001452-4/",
+      "ano": 2016,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-toro-freedom-2-0-16v-4x4-tb-diesel-mec-2017-diesel",
+      "fipeCodigo": "001452-4",
+      "displayName": "Fiat Toro Freedom 2.0 16V 4x4 TB Diesel Mec.",
+      "valorAtual": 84309,
+      "canonicalPath": "/fipe/fiat/toro-freedom-2-0-16v-4x4-tb-diesel-mec-2017-001452-4/",
+      "ano": 2017,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-toro-freedom-2-0-16v-4x4-tb-diesel-mec-2018-diesel",
+      "fipeCodigo": "001452-4",
+      "displayName": "Fiat Toro Freedom 2.0 16V 4x4 TB Diesel Mec.",
+      "valorAtual": 86417,
+      "canonicalPath": "/fipe/fiat/toro-freedom-2-0-16v-4x4-tb-diesel-mec-2018-001452-4/",
+      "ano": 2018,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-toro-freedom-2-4-16v-flex-aut-2017-flex",
+      "fipeCodigo": "001479-6",
+      "displayName": "Fiat Toro Freedom 2.4 16V Flex Aut.",
+      "valorAtual": 82436,
+      "canonicalPath": "/fipe/fiat/toro-freedom-2-4-16v-flex-aut-2017-001479-6/",
+      "ano": 2017,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-toro-freedom-2-4-16v-flex-aut-2018-flex",
+      "fipeCodigo": "001479-6",
+      "displayName": "Fiat Toro Freedom 2.4 16V Flex Aut.",
+      "valorAtual": 84831,
+      "canonicalPath": "/fipe/fiat/toro-freedom-2-4-16v-flex-aut-2018-001479-6/",
+      "ano": 2018,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-toro-freedom-road-1-8-16v-flex-aut-2018-flex",
+      "fipeCodigo": "001484-2",
+      "displayName": "Fiat Toro Freedom Road 1.8 16V Flex Aut.",
+      "valorAtual": 82965,
+      "canonicalPath": "/fipe/fiat/toro-freedom-road-1-8-16v-flex-aut-2018-001484-2/",
+      "ano": 2018,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-toro-freedom-road-2-4-16v-flex-aut-2018-flex",
+      "fipeCodigo": "001485-0",
+      "displayName": "Fiat Toro Freedom Road 2.4 16V Flex Aut.",
+      "valorAtual": 83021,
+      "canonicalPath": "/fipe/fiat/toro-freedom-road-2-4-16v-flex-aut-2018-001485-0/",
+      "ano": 2018,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-toro-opening-ed-plus-1-8-16v-flex-aut-2017-flex",
+      "fipeCodigo": "001483-4",
+      "displayName": "Fiat Toro Opening Ed. Plus 1.8 16V Flex Aut.",
+      "valorAtual": 80901,
+      "canonicalPath": "/fipe/fiat/toro-opening-ed-plus-1-8-16v-flex-aut-2017-001483-4/",
+      "ano": 2017,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-toro-opening-edition-1-8-16v-flex-aut-2017-flex",
+      "fipeCodigo": "001450-8",
+      "displayName": "Fiat Toro Opening Edition 1.8 16V Flex Aut.",
+      "valorAtual": 80712,
+      "canonicalPath": "/fipe/fiat/toro-opening-edition-1-8-16v-flex-aut-2017-001450-8/",
+      "ano": 2017,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-toro-ranch-2-0-16v-4x4-tb-diesel-aut-2019-diesel",
+      "fipeCodigo": "001516-4",
+      "displayName": "Fiat Toro Ranch 2.0 16V 4x4 TB Diesel Aut.",
+      "valorAtual": 107976,
+      "canonicalPath": "/fipe/fiat/toro-ranch-2-0-16v-4x4-tb-diesel-aut-2019-001516-4/",
+      "ano": 2019,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-toro-ranch-2-0-16v-4x4-tb-diesel-aut-2020-diesel",
+      "fipeCodigo": "001516-4",
+      "displayName": "Fiat Toro Ranch 2.0 16V 4x4 TB Diesel Aut.",
+      "valorAtual": 113760,
+      "canonicalPath": "/fipe/fiat/toro-ranch-2-0-16v-4x4-tb-diesel-aut-2020-001516-4/",
+      "ano": 2020,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-toro-ranch-2-0-16v-4x4-tb-diesel-aut-2021-diesel",
+      "fipeCodigo": "001516-4",
+      "displayName": "Fiat Toro Ranch 2.0 16V 4x4 TB Diesel Aut.",
+      "valorAtual": 116604,
+      "canonicalPath": "/fipe/fiat/toro-ranch-2-0-16v-4x4-tb-diesel-aut-2021-001516-4/",
+      "ano": 2021,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-toro-ranch-2-0-16v-4x4-tb-diesel-aut-2022-diesel",
+      "fipeCodigo": "001516-4",
+      "displayName": "Fiat Toro Ranch 2.0 16V 4x4 TB Diesel Aut.",
+      "valorAtual": 129463,
+      "canonicalPath": "/fipe/fiat/toro-ranch-2-0-16v-4x4-tb-diesel-aut-2022-001516-4/",
+      "ano": 2022,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-toro-ranch-2-0-16v-4x4-tb-diesel-aut-2023-diesel",
+      "fipeCodigo": "001516-4",
+      "displayName": "Fiat Toro Ranch 2.0 16V 4x4 TB Diesel Aut.",
+      "valorAtual": 139424,
+      "canonicalPath": "/fipe/fiat/toro-ranch-2-0-16v-4x4-tb-diesel-aut-2023-001516-4/",
+      "ano": 2023,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-toro-ranch-2-0-16v-4x4-tb-diesel-aut-2024-diesel",
+      "fipeCodigo": "001516-4",
+      "displayName": "Fiat Toro Ranch 2.0 16V 4x4 TB Diesel Aut.",
+      "valorAtual": 154365,
+      "canonicalPath": "/fipe/fiat/toro-ranch-2-0-16v-4x4-tb-diesel-aut-2024-001516-4/",
+      "ano": 2024,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-toro-ranch-2-0-16v-4x4-tb-diesel-aut-2025-diesel",
+      "fipeCodigo": "001516-4",
+      "displayName": "Fiat Toro Ranch 2.0 16V 4x4 TB Diesel Aut.",
+      "valorAtual": 166059,
+      "canonicalPath": "/fipe/fiat/toro-ranch-2-0-16v-4x4-tb-diesel-aut-2025-001516-4/",
+      "ano": 2025,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-toro-ranch-2-2-16v-4x4-tb-diesel-aut-2025-diesel",
+      "fipeCodigo": "001587-3",
+      "displayName": "Fiat Toro Ranch 2.2 16V 4x4 TB Diesel Aut.",
+      "valorAtual": 168256,
+      "canonicalPath": "/fipe/fiat/toro-ranch-2-2-16v-4x4-tb-diesel-aut-2025-001587-3/",
+      "ano": 2025,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-toro-ranch-2-2-16v-4x4-tb-diesel-aut-2026-diesel",
+      "fipeCodigo": "001587-3",
+      "displayName": "Fiat Toro Ranch 2.2 16V 4x4 TB Diesel Aut.",
+      "valorAtual": 193019,
+      "canonicalPath": "/fipe/fiat/toro-ranch-2-2-16v-4x4-tb-diesel-aut-2026-001587-3/",
+      "ano": 2026,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-toro-ranch-2-2-16v-4x4-tb-diesel-aut-0-diesel",
+      "fipeCodigo": "001587-3",
+      "displayName": "Fiat Toro Ranch 2.2 16V 4x4 TB Diesel Aut.",
+      "valorAtual": 229219,
+      "canonicalPath": "/fipe/fiat/toro-ranch-2-2-16v-4x4-tb-diesel-aut-0-001587-3/",
+      "ano": 0,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-toro-ultra-1-3-16v-4x2-tb-flex-aut-2025-flex",
+      "fipeCodigo": "001588-1",
+      "displayName": "Fiat Toro Ultra 1.3 16V 4x2 TB Flex Aut.",
+      "valorAtual": 155456,
+      "canonicalPath": "/fipe/fiat/toro-ultra-1-3-16v-4x2-tb-flex-aut-2025-001588-1/",
+      "ano": 2025,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-toro-ultra-1-3-16v-4x2-tb-flex-aut-2026-flex",
+      "fipeCodigo": "001588-1",
+      "displayName": "Fiat Toro Ultra 1.3 16V 4x2 TB Flex Aut.",
+      "valorAtual": 170892,
+      "canonicalPath": "/fipe/fiat/toro-ultra-1-3-16v-4x2-tb-flex-aut-2026-001588-1/",
+      "ano": 2026,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-toro-ultra-1-3-16v-4x2-tb-flex-aut-0-flex",
+      "fipeCodigo": "001588-1",
+      "displayName": "Fiat Toro Ultra 1.3 16V 4x2 TB Flex Aut.",
+      "valorAtual": 196973,
+      "canonicalPath": "/fipe/fiat/toro-ultra-1-3-16v-4x2-tb-flex-aut-0-001588-1/",
+      "ano": 0,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-toro-ultra-2-0-16v-4x4-tb-diesel-aut-2020-diesel",
+      "fipeCodigo": "001525-3",
+      "displayName": "Fiat Toro Ultra 2.0 16V 4x4 TB Diesel Aut.",
+      "valorAtual": 115096,
+      "canonicalPath": "/fipe/fiat/toro-ultra-2-0-16v-4x4-tb-diesel-aut-2020-001525-3/",
+      "ano": 2020,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-toro-ultra-2-0-16v-4x4-tb-diesel-aut-2021-diesel",
+      "fipeCodigo": "001525-3",
+      "displayName": "Fiat Toro Ultra 2.0 16V 4x4 TB Diesel Aut.",
+      "valorAtual": 119741,
+      "canonicalPath": "/fipe/fiat/toro-ultra-2-0-16v-4x4-tb-diesel-aut-2021-001525-3/",
+      "ano": 2021,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-toro-ultra-2-0-16v-4x4-tb-diesel-aut-2022-diesel",
+      "fipeCodigo": "001525-3",
+      "displayName": "Fiat Toro Ultra 2.0 16V 4x4 TB Diesel Aut.",
+      "valorAtual": 132598,
+      "canonicalPath": "/fipe/fiat/toro-ultra-2-0-16v-4x4-tb-diesel-aut-2022-001525-3/",
+      "ano": 2022,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-toro-ultra-2-0-16v-4x4-tb-diesel-aut-2023-diesel",
+      "fipeCodigo": "001525-3",
+      "displayName": "Fiat Toro Ultra 2.0 16V 4x4 TB Diesel Aut.",
+      "valorAtual": 142636,
+      "canonicalPath": "/fipe/fiat/toro-ultra-2-0-16v-4x4-tb-diesel-aut-2023-001525-3/",
+      "ano": 2023,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-toro-ultra-2-0-16v-4x4-tb-diesel-aut-2024-diesel",
+      "fipeCodigo": "001525-3",
+      "displayName": "Fiat Toro Ultra 2.0 16V 4x4 TB Diesel Aut.",
+      "valorAtual": 154980,
+      "canonicalPath": "/fipe/fiat/toro-ultra-2-0-16v-4x4-tb-diesel-aut-2024-001525-3/",
+      "ano": 2024,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-toro-ultra-2-0-16v-4x4-tb-diesel-aut-2025-diesel",
+      "fipeCodigo": "001525-3",
+      "displayName": "Fiat Toro Ultra 2.0 16V 4x4 TB Diesel Aut.",
+      "valorAtual": 166931,
+      "canonicalPath": "/fipe/fiat/toro-ultra-2-0-16v-4x4-tb-diesel-aut-2025-001525-3/",
+      "ano": 2025,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-toro-vol-tributo-125-1-3-t270-flex-aut-2025-flex",
+      "fipeCodigo": "001585-7",
+      "displayName": "Fiat Toro Vol. TRIBUTO 125 1.3 T270 Flex Aut.",
+      "valorAtual": 152989,
+      "canonicalPath": "/fipe/fiat/toro-vol-tributo-125-1-3-t270-flex-aut-2025-001585-7/",
+      "ano": 2025,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-toro-volcano-1-3-t270-4x2-flex-aut-2022-flex",
+      "fipeCodigo": "001539-3",
+      "displayName": "Fiat Toro Volcano 1.3 T270 4x2 Flex Aut.",
+      "valorAtual": 117824,
+      "canonicalPath": "/fipe/fiat/toro-volcano-1-3-t270-4x2-flex-aut-2022-001539-3/",
+      "ano": 2022,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-toro-volcano-1-3-t270-4x2-flex-aut-2023-flex",
+      "fipeCodigo": "001539-3",
+      "displayName": "Fiat Toro Volcano 1.3 T270 4x2 Flex Aut.",
+      "valorAtual": 126857,
+      "canonicalPath": "/fipe/fiat/toro-volcano-1-3-t270-4x2-flex-aut-2023-001539-3/",
+      "ano": 2023,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-toro-volcano-1-3-t270-4x2-flex-aut-2024-flex",
+      "fipeCodigo": "001539-3",
+      "displayName": "Fiat Toro Volcano 1.3 T270 4x2 Flex Aut.",
+      "valorAtual": 137471,
+      "canonicalPath": "/fipe/fiat/toro-volcano-1-3-t270-4x2-flex-aut-2024-001539-3/",
+      "ano": 2024,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-toro-volcano-1-3-t270-4x2-flex-aut-2025-flex",
+      "fipeCodigo": "001539-3",
+      "displayName": "Fiat Toro Volcano 1.3 T270 4x2 Flex Aut.",
+      "valorAtual": 147747,
+      "canonicalPath": "/fipe/fiat/toro-volcano-1-3-t270-4x2-flex-aut-2025-001539-3/",
+      "ano": 2025,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-toro-volcano-1-3-t270-4x2-flex-aut-2026-flex",
+      "fipeCodigo": "001539-3",
+      "displayName": "Fiat Toro Volcano 1.3 T270 4x2 Flex Aut.",
+      "valorAtual": 165723,
+      "canonicalPath": "/fipe/fiat/toro-volcano-1-3-t270-4x2-flex-aut-2026-001539-3/",
+      "ano": 2026,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-toro-volcano-1-3-t270-4x2-flex-aut-0-flex",
+      "fipeCodigo": "001539-3",
+      "displayName": "Fiat Toro Volcano 1.3 T270 4x2 Flex Aut.",
+      "valorAtual": 185675,
+      "canonicalPath": "/fipe/fiat/toro-volcano-1-3-t270-4x2-flex-aut-0-001539-3/",
+      "ano": 0,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-toro-volcano-2-0-16v-4x4-tb-diesel-aut-2016-diesel",
+      "fipeCodigo": "001453-2",
+      "displayName": "Fiat Toro Volcano 2.0 16V 4x4 TB Diesel Aut.",
+      "valorAtual": 85012,
+      "canonicalPath": "/fipe/fiat/toro-volcano-2-0-16v-4x4-tb-diesel-aut-2016-001453-2/",
+      "ano": 2016,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-toro-volcano-2-0-16v-4x4-tb-diesel-aut-2017-diesel",
+      "fipeCodigo": "001453-2",
+      "displayName": "Fiat Toro Volcano 2.0 16V 4x4 TB Diesel Aut.",
+      "valorAtual": 93490,
+      "canonicalPath": "/fipe/fiat/toro-volcano-2-0-16v-4x4-tb-diesel-aut-2017-001453-2/",
+      "ano": 2017,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-toro-volcano-2-0-16v-4x4-tb-diesel-aut-2018-diesel",
+      "fipeCodigo": "001453-2",
+      "displayName": "Fiat Toro Volcano 2.0 16V 4x4 TB Diesel Aut.",
+      "valorAtual": 95828,
+      "canonicalPath": "/fipe/fiat/toro-volcano-2-0-16v-4x4-tb-diesel-aut-2018-001453-2/",
+      "ano": 2018,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-toro-volcano-2-0-16v-4x4-tb-diesel-aut-2019-diesel",
+      "fipeCodigo": "001453-2",
+      "displayName": "Fiat Toro Volcano 2.0 16V 4x4 TB Diesel Aut.",
+      "valorAtual": 101030,
+      "canonicalPath": "/fipe/fiat/toro-volcano-2-0-16v-4x4-tb-diesel-aut-2019-001453-2/",
+      "ano": 2019,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-toro-volcano-2-0-16v-4x4-tb-diesel-aut-2020-diesel",
+      "fipeCodigo": "001453-2",
+      "displayName": "Fiat Toro Volcano 2.0 16V 4x4 TB Diesel Aut.",
+      "valorAtual": 105659,
+      "canonicalPath": "/fipe/fiat/toro-volcano-2-0-16v-4x4-tb-diesel-aut-2020-001453-2/",
+      "ano": 2020,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-toro-volcano-2-0-16v-4x4-tb-diesel-aut-2021-diesel",
+      "fipeCodigo": "001453-2",
+      "displayName": "Fiat Toro Volcano 2.0 16V 4x4 TB Diesel Aut.",
+      "valorAtual": 113734,
+      "canonicalPath": "/fipe/fiat/toro-volcano-2-0-16v-4x4-tb-diesel-aut-2021-001453-2/",
+      "ano": 2021,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-toro-volcano-2-0-16v-4x4-tb-diesel-aut-2022-diesel",
+      "fipeCodigo": "001453-2",
+      "displayName": "Fiat Toro Volcano 2.0 16V 4x4 TB Diesel Aut.",
+      "valorAtual": 120093,
+      "canonicalPath": "/fipe/fiat/toro-volcano-2-0-16v-4x4-tb-diesel-aut-2022-001453-2/",
+      "ano": 2022,
+      "marca": "Fiat"
+    }
+  ],
+  "stats": {
+    "total": 256
+  },
+  "meta": {
+    "platformId": "small-wide"
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "tipo": "familia",
+  "slug": "a7500",
+  "canonicalPath": "/fipe/agrale/a7500/",
+  "titulo": "AGRALE a7500 - Tabela FIPE",
+  "descricao": "7 versoes e anos do AGRALE a7500 na Tabela FIPE.",
+  "seo": {
+    "title": "AGRALE a7500 - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes AGRALE a7500. 7 veiculos indexados.",
+    "h1": "AGRALE a7500 - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/agrale/a7500/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "agrale-a7500-2p-diesel-e5-2022-diesel",
+      "fipeCodigo": "501041-1",
+      "displayName": "AGRALE A7500 2p (diesel)(E5)",
+      "valorAtual": 188695,
+      "canonicalPath": "/fipe/agrale/a7500-2p-diesel-e5-2022-501041-1/",
+      "ano": 2022,
+      "marca": "AGRALE"
+    },
+    {
+      "vehicleId": "agrale-a7500-2p-diesel-e5-2021-diesel",
+      "fipeCodigo": "501041-1",
+      "displayName": "AGRALE A7500 2p (diesel)(E5)",
+      "valorAtual": 183611,
+      "canonicalPath": "/fipe/agrale/a7500-2p-diesel-e5-2021-501041-1/",
+      "ano": 2021,
+      "marca": "AGRALE"
+    },
+    {
+      "vehicleId": "agrale-a7500-2p-diesel-e5-2020-diesel",
+      "fipeCodigo": "501041-1",
+      "displayName": "AGRALE A7500 2p (diesel)(E5)",
+      "valorAtual": 154946,
+      "canonicalPath": "/fipe/agrale/a7500-2p-diesel-e5-2020-501041-1/",
+      "ano": 2020,
+      "marca": "AGRALE"
+    },
+    {
+      "vehicleId": "agrale-a7500-2p-diesel-e5-2019-diesel",
+      "fipeCodigo": "501041-1",
+      "displayName": "AGRALE A7500 2p (diesel)(E5)",
+      "valorAtual": 124998,
+      "canonicalPath": "/fipe/agrale/a7500-2p-diesel-e5-2019-501041-1/",
+      "ano": 2019,
+      "marca": "AGRALE"
+    },
+    {
+      "vehicleId": "agrale-a7500-2p-diesel-e5-2018-diesel",
+      "fipeCodigo": "501041-1",
+      "displayName": "AGRALE A7500 2p (diesel)(E5)",
+      "valorAtual": 104785,
+      "canonicalPath": "/fipe/agrale/a7500-2p-diesel-e5-2018-501041-1/",
+      "ano": 2018,
+      "marca": "AGRALE"
+    },
+    {
+      "vehicleId": "agrale-a7500-2p-diesel-e5-2017-diesel",
+      "fipeCodigo": "501041-1",
+      "displayName": "AGRALE A7500 2p (diesel)(E5)",
+      "valorAtual": 88223,
+      "canonicalPath": "/fipe/agrale/a7500-2p-diesel-e5-2017-501041-1/",
+      "ano": 2017,
+      "marca": "AGRALE"
+    },
+    {
+      "vehicleId": "agrale-a7500-2p-diesel-e5-2016-diesel",
+      "fipeCodigo": "501041-1",
+      "displayName": "AGRALE A7500 2p (diesel)(E5)",
+      "valorAtual": 79521,
+      "canonicalPath": "/fipe/agrale/a7500-2p-diesel-e5-2016-501041-1/",
+      "ano": 2016,
+      "marca": "AGRALE"
+    }
+  ],
+  "stats": {
+    "total": 7,
+    "precoMin": 79521,
+    "precoMax": 188695,
+    "anos": [
+      2022,
+      2021,
+      2020,
+      2019,
+      2018,
+      2017,
+      2016
+    ]
+  }
+}

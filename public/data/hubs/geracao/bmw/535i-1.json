@@ -1,0 +1,57 @@
+{
+  "tipo": "geracao",
+  "slug": "535i-1",
+  "canonicalPath": "/geracao/bmw/535i-1/",
+  "titulo": "Geracao 535i-1",
+  "descricao": "4 veiculos da geracao 535i-1.",
+  "seo": {
+    "title": "Geracao 535i-1 - Precos FIPE",
+    "description": "Veiculos da geracao 535i-1 na Tabela FIPE.",
+    "h1": "Geracao 535i-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/bmw/535i-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "bmw-535i-ia-3-5-24v-1990-gasolina",
+      "fipeCodigo": "009037-9",
+      "displayName": "BMW 535i/iA 3.5 24V",
+      "valorAtual": 17803,
+      "canonicalPath": "/fipe/bmw/535i-ia-3-5-24v-1990-009037-9/",
+      "ano": 1990,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-535i-ia-3-5-24v-1991-gasolina",
+      "fipeCodigo": "009037-9",
+      "displayName": "BMW 535i/iA 3.5 24V",
+      "valorAtual": 18251,
+      "canonicalPath": "/fipe/bmw/535i-ia-3-5-24v-1991-009037-9/",
+      "ano": 1991,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-535i-ia-3-5-24v-1992-gasolina",
+      "fipeCodigo": "009037-9",
+      "displayName": "BMW 535i/iA 3.5 24V",
+      "valorAtual": 18775,
+      "canonicalPath": "/fipe/bmw/535i-ia-3-5-24v-1992-009037-9/",
+      "ano": 1992,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-535i-ia-3-5-24v-1993-gasolina",
+      "fipeCodigo": "009037-9",
+      "displayName": "BMW 535i/iA 3.5 24V",
+      "valorAtual": 19864,
+      "canonicalPath": "/fipe/bmw/535i-ia-3-5-24v-1993-009037-9/",
+      "ano": 1993,
+      "marca": "BMW"
+    }
+  ],
+  "stats": {
+    "total": 4
+  },
+  "meta": {
+    "geracaoId": "535i-1"
+  }
+}

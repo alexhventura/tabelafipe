@@ -1,0 +1,82 @@
+{
+  "tipo": "familia",
+  "slug": "330cia",
+  "canonicalPath": "/fipe/bmw/330cia/",
+  "titulo": "BMW 330cia - Tabela FIPE",
+  "descricao": "6 versoes e anos do BMW 330cia na Tabela FIPE.",
+  "seo": {
+    "title": "BMW 330cia - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes BMW 330cia. 6 veiculos indexados.",
+    "h1": "BMW 330cia - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/bmw/330cia/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "bmw-330cia-cabriolet-2006-gasolina",
+      "fipeCodigo": "009087-5",
+      "displayName": "BMW 330CiA Cabriolet",
+      "valorAtual": 94179,
+      "canonicalPath": "/fipe/bmw/330cia-cabriolet-2006-009087-5/",
+      "ano": 2006,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-330cia-cabriolet-2005-gasolina",
+      "fipeCodigo": "009087-5",
+      "displayName": "BMW 330CiA Cabriolet",
+      "valorAtual": 91355,
+      "canonicalPath": "/fipe/bmw/330cia-cabriolet-2005-009087-5/",
+      "ano": 2005,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-330cia-cabriolet-2004-gasolina",
+      "fipeCodigo": "009087-5",
+      "displayName": "BMW 330CiA Cabriolet",
+      "valorAtual": 77190,
+      "canonicalPath": "/fipe/bmw/330cia-cabriolet-2004-009087-5/",
+      "ano": 2004,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-330cia-cabriolet-2003-gasolina",
+      "fipeCodigo": "009087-5",
+      "displayName": "BMW 330CiA Cabriolet",
+      "valorAtual": 73677,
+      "canonicalPath": "/fipe/bmw/330cia-cabriolet-2003-009087-5/",
+      "ano": 2003,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-330cia-cabriolet-2002-gasolina",
+      "fipeCodigo": "009087-5",
+      "displayName": "BMW 330CiA Cabriolet",
+      "valorAtual": 71880,
+      "canonicalPath": "/fipe/bmw/330cia-cabriolet-2002-009087-5/",
+      "ano": 2002,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-330cia-cabriolet-2001-gasolina",
+      "fipeCodigo": "009087-5",
+      "displayName": "BMW 330CiA Cabriolet",
+      "valorAtual": 70126,
+      "canonicalPath": "/fipe/bmw/330cia-cabriolet-2001-009087-5/",
+      "ano": 2001,
+      "marca": "BMW"
+    }
+  ],
+  "stats": {
+    "total": 6,
+    "precoMin": 70126,
+    "precoMax": 94179,
+    "anos": [
+      2006,
+      2005,
+      2004,
+      2003,
+      2002,
+      2001
+    ]
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "tipo": "familia",
+  "slug": "express",
+  "canonicalPath": "/fipe/renault/express/",
+  "titulo": "Renault express - Tabela FIPE",
+  "descricao": "3 versoes e anos do Renault express na Tabela FIPE.",
+  "seo": {
+    "title": "Renault express - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes Renault express. 3 veiculos indexados.",
+    "h1": "Renault express - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/renault/express/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "renault-express-1-6-rl-1-6-2000-gasolina",
+      "fipeCodigo": "025012-0",
+      "displayName": "Renault Express 1.6/ RL 1.6",
+      "valorAtual": 7779,
+      "canonicalPath": "/fipe/renault/express-1-6-rl-1-6-2000-025012-0/",
+      "ano": 2000,
+      "marca": "Renault"
+    },
+    {
+      "vehicleId": "renault-express-1-6-rl-1-6-1999-gasolina",
+      "fipeCodigo": "025012-0",
+      "displayName": "Renault Express 1.6/ RL 1.6",
+      "valorAtual": 7589,
+      "canonicalPath": "/fipe/renault/express-1-6-rl-1-6-1999-025012-0/",
+      "ano": 1999,
+      "marca": "Renault"
+    },
+    {
+      "vehicleId": "renault-express-1-6-rl-1-6-1998-gasolina",
+      "fipeCodigo": "025012-0",
+      "displayName": "Renault Express 1.6/ RL 1.6",
+      "valorAtual": 7403,
+      "canonicalPath": "/fipe/renault/express-1-6-rl-1-6-1998-025012-0/",
+      "ano": 1998,
+      "marca": "Renault"
+    }
+  ],
+  "stats": {
+    "total": 3,
+    "precoMin": 7403,
+    "precoMax": 7779,
+    "anos": [
+      2000,
+      1999,
+      1998
+    ]
+  }
+}

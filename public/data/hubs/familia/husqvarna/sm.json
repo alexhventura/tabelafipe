@@ -1,0 +1,62 @@
+{
+  "tipo": "familia",
+  "slug": "sm",
+  "canonicalPath": "/fipe/husqvarna/sm/",
+  "titulo": "HUSQVARNA sm - Tabela FIPE",
+  "descricao": "4 versoes e anos do HUSQVARNA sm na Tabela FIPE.",
+  "seo": {
+    "title": "HUSQVARNA sm - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes HUSQVARNA sm. 4 veiculos indexados.",
+    "h1": "HUSQVARNA sm - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/husqvarna/sm/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "husqvarna-sm-610-2008-gasolina",
+      "fipeCodigo": "812010-2",
+      "displayName": "HUSQVARNA SM 610",
+      "valorAtual": 30425,
+      "canonicalPath": "/fipe/husqvarna/sm-610-2008-812010-2/",
+      "ano": 2008,
+      "marca": "HUSQVARNA"
+    },
+    {
+      "vehicleId": "husqvarna-sm-610-2007-gasolina",
+      "fipeCodigo": "812010-2",
+      "displayName": "HUSQVARNA SM 610",
+      "valorAtual": 28607,
+      "canonicalPath": "/fipe/husqvarna/sm-610-2007-812010-2/",
+      "ano": 2007,
+      "marca": "HUSQVARNA"
+    },
+    {
+      "vehicleId": "husqvarna-sm-610-2000-gasolina",
+      "fipeCodigo": "812010-2",
+      "displayName": "HUSQVARNA SM 610",
+      "valorAtual": 9709,
+      "canonicalPath": "/fipe/husqvarna/sm-610-2000-812010-2/",
+      "ano": 2000,
+      "marca": "HUSQVARNA"
+    },
+    {
+      "vehicleId": "husqvarna-sm-610-1999-gasolina",
+      "fipeCodigo": "812010-2",
+      "displayName": "HUSQVARNA SM 610",
+      "valorAtual": 8765,
+      "canonicalPath": "/fipe/husqvarna/sm-610-1999-812010-2/",
+      "ano": 1999,
+      "marca": "HUSQVARNA"
+    }
+  ],
+  "stats": {
+    "total": 4,
+    "precoMin": 8765,
+    "precoMax": 30425,
+    "anos": [
+      2008,
+      2007,
+      2000,
+      1999
+    ]
+  }
+}

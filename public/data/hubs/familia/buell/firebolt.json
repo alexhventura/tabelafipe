@@ -1,0 +1,52 @@
+{
+  "tipo": "familia",
+  "slug": "firebolt",
+  "canonicalPath": "/fipe/buell/firebolt/",
+  "titulo": "BUELL firebolt - Tabela FIPE",
+  "descricao": "3 versoes e anos do BUELL firebolt na Tabela FIPE.",
+  "seo": {
+    "title": "BUELL firebolt - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes BUELL firebolt. 3 veiculos indexados.",
+    "h1": "BUELL firebolt - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/buell/firebolt/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "buell-firebolt-xb12-r-2008-gasolina",
+      "fipeCodigo": "846005-1",
+      "displayName": "BUELL FIREBOLT XB12 R",
+      "valorAtual": 24911,
+      "canonicalPath": "/fipe/buell/firebolt-xb12-r-2008-846005-1/",
+      "ano": 2008,
+      "marca": "BUELL"
+    },
+    {
+      "vehicleId": "buell-firebolt-xb12-r-2007-gasolina",
+      "fipeCodigo": "846005-1",
+      "displayName": "BUELL FIREBOLT XB12 R",
+      "valorAtual": 24303,
+      "canonicalPath": "/fipe/buell/firebolt-xb12-r-2007-846005-1/",
+      "ano": 2007,
+      "marca": "BUELL"
+    },
+    {
+      "vehicleId": "buell-firebolt-xb12-r-2006-gasolina",
+      "fipeCodigo": "846005-1",
+      "displayName": "BUELL FIREBOLT XB12 R",
+      "valorAtual": 23710,
+      "canonicalPath": "/fipe/buell/firebolt-xb12-r-2006-846005-1/",
+      "ano": 2006,
+      "marca": "BUELL"
+    }
+  ],
+  "stats": {
+    "total": 3,
+    "precoMin": 23710,
+    "precoMax": 24911,
+    "anos": [
+      2008,
+      2007,
+      2006
+    ]
+  }
+}

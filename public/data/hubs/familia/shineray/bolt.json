@@ -1,0 +1,62 @@
+{
+  "tipo": "familia",
+  "slug": "bolt",
+  "canonicalPath": "/fipe/shineray/bolt/",
+  "titulo": "SHINERAY bolt - Tabela FIPE",
+  "descricao": "4 versoes e anos do SHINERAY bolt na Tabela FIPE.",
+  "seo": {
+    "title": "SHINERAY bolt - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes SHINERAY bolt. 4 veiculos indexados.",
+    "h1": "SHINERAY bolt - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/shineray/bolt/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "shineray-bolt-250-2018-gasolina",
+      "fipeCodigo": "850023-1",
+      "displayName": "SHINERAY BOLT 250",
+      "valorAtual": 11258,
+      "canonicalPath": "/fipe/shineray/bolt-250-2018-850023-1/",
+      "ano": 2018,
+      "marca": "SHINERAY"
+    },
+    {
+      "vehicleId": "shineray-bolt-250-2017-gasolina",
+      "fipeCodigo": "850023-1",
+      "displayName": "SHINERAY BOLT 250",
+      "valorAtual": 9196,
+      "canonicalPath": "/fipe/shineray/bolt-250-2017-850023-1/",
+      "ano": 2017,
+      "marca": "SHINERAY"
+    },
+    {
+      "vehicleId": "shineray-bolt-250-2016-gasolina",
+      "fipeCodigo": "850023-1",
+      "displayName": "SHINERAY BOLT 250",
+      "valorAtual": 8971,
+      "canonicalPath": "/fipe/shineray/bolt-250-2016-850023-1/",
+      "ano": 2016,
+      "marca": "SHINERAY"
+    },
+    {
+      "vehicleId": "shineray-bolt-250-2015-gasolina",
+      "fipeCodigo": "850023-1",
+      "displayName": "SHINERAY BOLT 250",
+      "valorAtual": 8464,
+      "canonicalPath": "/fipe/shineray/bolt-250-2015-850023-1/",
+      "ano": 2015,
+      "marca": "SHINERAY"
+    }
+  ],
+  "stats": {
+    "total": 4,
+    "precoMin": 8464,
+    "precoMax": 11258,
+    "anos": [
+      2018,
+      2017,
+      2016,
+      2015
+    ]
+  }
+}

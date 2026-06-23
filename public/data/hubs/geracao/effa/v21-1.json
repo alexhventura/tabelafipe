@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "v21-1",
+  "canonicalPath": "/geracao/effa/v21-1/",
+  "titulo": "Geracao v21-1",
+  "descricao": "2 veiculos da geracao v21-1.",
+  "seo": {
+    "title": "Geracao v21-1 - Precos FIPE",
+    "description": "Veiculos da geracao v21-1 na Tabela FIPE.",
+    "h1": "Geracao v21-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/effa/v21-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "effa-v21-pick-up-cs-1-3-16v-2p-0-gasolina",
+      "fipeCodigo": "066014-0",
+      "displayName": "EFFA V21 Pick-up CS 1.3 16V 2p",
+      "valorAtual": 103451,
+      "canonicalPath": "/fipe/effa/v21-pick-up-cs-1-3-16v-2p-0-066014-0/",
+      "ano": 0,
+      "marca": "EFFA"
+    },
+    {
+      "vehicleId": "effa-v21-pick-up-cs-1-5-16v-2p-0-gasolina",
+      "fipeCodigo": "066017-5",
+      "displayName": "EFFA V21 Pick-up CS 1.5 16V 2p",
+      "valorAtual": 117980,
+      "canonicalPath": "/fipe/effa/v21-pick-up-cs-1-5-16v-2p-0-066017-5/",
+      "ano": 0,
+      "marca": "EFFA"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "v21-1"
+  }
+}

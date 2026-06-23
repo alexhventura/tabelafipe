@@ -1,0 +1,93 @@
+{
+  "tipo": "geracao",
+  "slug": "7-2",
+  "canonicalPath": "/geracao/jaecoo/7-2/",
+  "titulo": "Geracao 7-2",
+  "descricao": "8 veiculos da geracao 7-2.",
+  "seo": {
+    "title": "Geracao 7-2 - Precos FIPE",
+    "description": "Veiculos da geracao 7-2 na Tabela FIPE.",
+    "h1": "Geracao 7-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/jaecoo/7-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "jaecoo-7-elite-1-5-tb-16v-aut-5p-hibrido-2027-hibrido",
+      "fipeCodigo": "303003-2",
+      "displayName": "Jaecoo 7 Elite 1.5 TB 16v Aut 5p (Híbrido)",
+      "valorAtual": 175176,
+      "canonicalPath": "/fipe/jaecoo/7-elite-1-5-tb-16v-aut-5p-hibrido-2027-303003-2/",
+      "ano": 2027,
+      "marca": "Jaecoo"
+    },
+    {
+      "vehicleId": "jaecoo-7-luxury-1-5-tb-16v-aut-5p-hibrido-2026-hibrido",
+      "fipeCodigo": "303001-6",
+      "displayName": "Jaecoo 7 Luxury 1.5 TB 16v Aut 5p (Híbrido)",
+      "valorAtual": 196461,
+      "canonicalPath": "/fipe/jaecoo/7-luxury-1-5-tb-16v-aut-5p-hibrido-2026-303001-6/",
+      "ano": 2026,
+      "marca": "Jaecoo"
+    },
+    {
+      "vehicleId": "jaecoo-7-prestige1-5-tb-16v-aut-hibrido-2026-hibrido",
+      "fipeCodigo": "303002-4",
+      "displayName": "Jaecoo 7 Prestige1.5 TB 16v Aut  (Híbrido)",
+      "valorAtual": 224430,
+      "canonicalPath": "/fipe/jaecoo/7-prestige1-5-tb-16v-aut-hibrido-2026-303002-4/",
+      "ano": 2026,
+      "marca": "Jaecoo"
+    },
+    {
+      "vehicleId": "omoda-7-luxury-1-5-tb-fwd-2026-hibrido",
+      "fipeCodigo": "302004-5",
+      "displayName": "Omoda 7 Luxury 1.5 TB FWD",
+      "valorAtual": 211445,
+      "canonicalPath": "/fipe/omoda/7-luxury-1-5-tb-fwd-2026-302004-5/",
+      "ano": 2026,
+      "marca": "Omoda"
+    },
+    {
+      "vehicleId": "omoda-7-prestige-1-5-tb-fwd-2026-hibrido",
+      "fipeCodigo": "302005-3",
+      "displayName": "Omoda 7 Prestige 1.5 TB FWD",
+      "valorAtual": 234980,
+      "canonicalPath": "/fipe/omoda/7-prestige-1-5-tb-fwd-2026-302005-3/",
+      "ano": 2026,
+      "marca": "Omoda"
+    },
+    {
+      "vehicleId": "volkswagen-7-110-2p-diesel-2003-diesel",
+      "fipeCodigo": "515098-1",
+      "displayName": "VOLKSWAGEN 7-110 2p (diesel)",
+      "valorAtual": 111135,
+      "canonicalPath": "/fipe/volkswagen/7-110-2p-diesel-2003-515098-1/",
+      "ano": 2003,
+      "marca": "VOLKSWAGEN"
+    },
+    {
+      "vehicleId": "volkswagen-7-110-2p-diesel-2004-diesel",
+      "fipeCodigo": "515098-1",
+      "displayName": "VOLKSWAGEN 7-110 2p (diesel)",
+      "valorAtual": 113914,
+      "canonicalPath": "/fipe/volkswagen/7-110-2p-diesel-2004-515098-1/",
+      "ano": 2004,
+      "marca": "VOLKSWAGEN"
+    },
+    {
+      "vehicleId": "volkswagen-7-110-2p-diesel-2005-diesel",
+      "fipeCodigo": "515098-1",
+      "displayName": "VOLKSWAGEN 7-110 2p (diesel)",
+      "valorAtual": 120636,
+      "canonicalPath": "/fipe/volkswagen/7-110-2p-diesel-2005-515098-1/",
+      "ano": 2005,
+      "marca": "VOLKSWAGEN"
+    }
+  ],
+  "stats": {
+    "total": 8
+  },
+  "meta": {
+    "geracaoId": "7-2"
+  }
+}

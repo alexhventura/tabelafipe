@@ -1,0 +1,115 @@
+{
+  "tipo": "familia",
+  "slug": "nubira",
+  "canonicalPath": "/fipe/daewoo/nubira/",
+  "titulo": "Daewoo nubira - Tabela FIPE",
+  "descricao": "10 versoes e anos do Daewoo nubira na Tabela FIPE.",
+  "seo": {
+    "title": "Daewoo nubira - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes Daewoo nubira. 10 veiculos indexados.",
+    "h1": "Daewoo nubira - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/daewoo/nubira/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "daewoo-nubira-cdx-2-0-16v-mec-1999-gasolina",
+      "fipeCodigo": "030007-1",
+      "displayName": "Daewoo Nubira CDX 2.0 16V Mec.",
+      "valorAtual": 6846,
+      "canonicalPath": "/fipe/daewoo/nubira-cdx-2-0-16v-mec-1999-030007-1/",
+      "ano": 1999,
+      "marca": "Daewoo"
+    },
+    {
+      "vehicleId": "daewoo-nubira-cdx-2-0-16v-aut-1999-gasolina",
+      "fipeCodigo": "030013-6",
+      "displayName": "Daewoo Nubira CDX 2.0 16V Aut.",
+      "valorAtual": 7239,
+      "canonicalPath": "/fipe/daewoo/nubira-cdx-2-0-16v-aut-1999-030013-6/",
+      "ano": 1999,
+      "marca": "Daewoo"
+    },
+    {
+      "vehicleId": "daewoo-nubira-sw-cdx-2-0-16v-mec-1999-gasolina",
+      "fipeCodigo": "030008-0",
+      "displayName": "Daewoo Nubira SW CDX 2.0 16V Mec.",
+      "valorAtual": 7683,
+      "canonicalPath": "/fipe/daewoo/nubira-sw-cdx-2-0-16v-mec-1999-030008-0/",
+      "ano": 1999,
+      "marca": "Daewoo"
+    },
+    {
+      "vehicleId": "daewoo-nubira-sw-cdx-2-0-16v-aut-1999-gasolina",
+      "fipeCodigo": "030014-4",
+      "displayName": "Daewoo Nubira SW CDX 2.0 16V Aut.",
+      "valorAtual": 7831,
+      "canonicalPath": "/fipe/daewoo/nubira-sw-cdx-2-0-16v-aut-1999-030014-4/",
+      "ano": 1999,
+      "marca": "Daewoo"
+    },
+    {
+      "vehicleId": "daewoo-nubira-cdx-2-0-16v-mec-1998-gasolina",
+      "fipeCodigo": "030007-1",
+      "displayName": "Daewoo Nubira CDX 2.0 16V Mec.",
+      "valorAtual": 6131,
+      "canonicalPath": "/fipe/daewoo/nubira-cdx-2-0-16v-mec-1998-030007-1/",
+      "ano": 1998,
+      "marca": "Daewoo"
+    },
+    {
+      "vehicleId": "daewoo-nubira-cdx-2-0-16v-aut-1998-gasolina",
+      "fipeCodigo": "030013-6",
+      "displayName": "Daewoo Nubira CDX 2.0 16V Aut.",
+      "valorAtual": 6541,
+      "canonicalPath": "/fipe/daewoo/nubira-cdx-2-0-16v-aut-1998-030013-6/",
+      "ano": 1998,
+      "marca": "Daewoo"
+    },
+    {
+      "vehicleId": "daewoo-nubira-sw-cdx-2-0-16v-mec-1998-gasolina",
+      "fipeCodigo": "030008-0",
+      "displayName": "Daewoo Nubira SW CDX 2.0 16V Mec.",
+      "valorAtual": 6611,
+      "canonicalPath": "/fipe/daewoo/nubira-sw-cdx-2-0-16v-mec-1998-030008-0/",
+      "ano": 1998,
+      "marca": "Daewoo"
+    },
+    {
+      "vehicleId": "daewoo-nubira-sw-cdx-2-0-16v-aut-1998-gasolina",
+      "fipeCodigo": "030014-4",
+      "displayName": "Daewoo Nubira SW CDX 2.0 16V Aut.",
+      "valorAtual": 7035,
+      "canonicalPath": "/fipe/daewoo/nubira-sw-cdx-2-0-16v-aut-1998-030014-4/",
+      "ano": 1998,
+      "marca": "Daewoo"
+    },
+    {
+      "vehicleId": "daewoo-nubira-cdx-2-0-16v-mec-1997-gasolina",
+      "fipeCodigo": "030007-1",
+      "displayName": "Daewoo Nubira CDX 2.0 16V Mec.",
+      "valorAtual": 5272,
+      "canonicalPath": "/fipe/daewoo/nubira-cdx-2-0-16v-mec-1997-030007-1/",
+      "ano": 1997,
+      "marca": "Daewoo"
+    },
+    {
+      "vehicleId": "daewoo-nubira-cdx-2-0-16v-aut-1997-gasolina",
+      "fipeCodigo": "030013-6",
+      "displayName": "Daewoo Nubira CDX 2.0 16V Aut.",
+      "valorAtual": 6258,
+      "canonicalPath": "/fipe/daewoo/nubira-cdx-2-0-16v-aut-1997-030013-6/",
+      "ano": 1997,
+      "marca": "Daewoo"
+    }
+  ],
+  "stats": {
+    "total": 10,
+    "precoMin": 5272,
+    "precoMax": 7831,
+    "anos": [
+      1999,
+      1998,
+      1997
+    ]
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "tipo": "geracao",
+  "slug": "prima-2",
+  "canonicalPath": "/geracao/kasinski/prima-2/",
+  "titulo": "Geracao prima-2",
+  "descricao": "6 veiculos da geracao prima-2.",
+  "seo": {
+    "title": "Geracao prima-2 - Precos FIPE",
+    "description": "Veiculos da geracao prima-2 na Tabela FIPE.",
+    "h1": "Geracao prima-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/kasinski/prima-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "kasinski-prima-150-2011-gasolina",
+      "fipeCodigo": "816032-5",
+      "displayName": "KASINSKI PRIMA 150",
+      "valorAtual": 4996,
+      "canonicalPath": "/fipe/kasinski/prima-150-2011-816032-5/",
+      "ano": 2011,
+      "marca": "KASINSKI"
+    },
+    {
+      "vehicleId": "kasinski-prima-150-2012-gasolina",
+      "fipeCodigo": "816032-5",
+      "displayName": "KASINSKI PRIMA 150",
+      "valorAtual": 5728,
+      "canonicalPath": "/fipe/kasinski/prima-150-2012-816032-5/",
+      "ano": 2012,
+      "marca": "KASINSKI"
+    },
+    {
+      "vehicleId": "kasinski-prima-150-2013-gasolina",
+      "fipeCodigo": "816032-5",
+      "displayName": "KASINSKI PRIMA 150",
+      "valorAtual": 6488,
+      "canonicalPath": "/fipe/kasinski/prima-150-2013-816032-5/",
+      "ano": 2013,
+      "marca": "KASINSKI"
+    },
+    {
+      "vehicleId": "kasinski-prima-electra-2000w-eletrica-2010-eletrico",
+      "fipeCodigo": "816030-9",
+      "displayName": "KASINSKI PRIMA ELECTRA 2000W (Elétrica)",
+      "valorAtual": 3556,
+      "canonicalPath": "/fipe/kasinski/prima-electra-2000w-eletrica-2010-816030-9/",
+      "ano": 2010,
+      "marca": "KASINSKI"
+    },
+    {
+      "vehicleId": "kasinski-prima-electra-2000w-eletrica-2011-eletrico",
+      "fipeCodigo": "816030-9",
+      "displayName": "KASINSKI PRIMA ELECTRA 2000W (Elétrica)",
+      "valorAtual": 3655,
+      "canonicalPath": "/fipe/kasinski/prima-electra-2000w-eletrica-2011-816030-9/",
+      "ano": 2011,
+      "marca": "KASINSKI"
+    },
+    {
+      "vehicleId": "kasinski-prima-electra-2000w-eletrica-2013-eletrico",
+      "fipeCodigo": "816030-9",
+      "displayName": "KASINSKI PRIMA ELECTRA 2000W (Elétrica)",
+      "valorAtual": 3791,
+      "canonicalPath": "/fipe/kasinski/prima-electra-2000w-eletrica-2013-816030-9/",
+      "ano": 2013,
+      "marca": "KASINSKI"
+    }
+  ],
+  "stats": {
+    "total": 6
+  },
+  "meta": {
+    "geracaoId": "prima-2"
+  }
+}

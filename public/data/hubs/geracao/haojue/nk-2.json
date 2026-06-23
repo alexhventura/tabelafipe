@@ -1,0 +1,66 @@
+{
+  "tipo": "geracao",
+  "slug": "nk-2",
+  "canonicalPath": "/geracao/haojue/nk-2/",
+  "titulo": "Geracao nk-2",
+  "descricao": "5 veiculos da geracao nk-2.",
+  "seo": {
+    "title": "Geracao nk-2 - Precos FIPE",
+    "description": "Veiculos da geracao nk-2 na Tabela FIPE.",
+    "h1": "Geracao nk-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/haojue/nk-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "haojue-nk-150-2023-gasolina",
+      "fipeCodigo": "885010-0",
+      "displayName": "HAOJUE NK 150",
+      "valorAtual": 15277,
+      "canonicalPath": "/fipe/haojue/nk-150-2023-885010-0/",
+      "ano": 2023,
+      "marca": "HAOJUE"
+    },
+    {
+      "vehicleId": "haojue-nk-150-2024-gasolina",
+      "fipeCodigo": "885010-0",
+      "displayName": "HAOJUE NK 150",
+      "valorAtual": 16100,
+      "canonicalPath": "/fipe/haojue/nk-150-2024-885010-0/",
+      "ano": 2024,
+      "marca": "HAOJUE"
+    },
+    {
+      "vehicleId": "haojue-nk-150-2025-gasolina",
+      "fipeCodigo": "885010-0",
+      "displayName": "HAOJUE NK 150",
+      "valorAtual": 16559,
+      "canonicalPath": "/fipe/haojue/nk-150-2025-885010-0/",
+      "ano": 2025,
+      "marca": "HAOJUE"
+    },
+    {
+      "vehicleId": "haojue-nk-150-2026-gasolina",
+      "fipeCodigo": "885010-0",
+      "displayName": "HAOJUE NK 150",
+      "valorAtual": 17505,
+      "canonicalPath": "/fipe/haojue/nk-150-2026-885010-0/",
+      "ano": 2026,
+      "marca": "HAOJUE"
+    },
+    {
+      "vehicleId": "haojue-nk-150-2027-gasolina",
+      "fipeCodigo": "885010-0",
+      "displayName": "HAOJUE NK 150",
+      "valorAtual": 18647,
+      "canonicalPath": "/fipe/haojue/nk-150-2027-885010-0/",
+      "ano": 2027,
+      "marca": "HAOJUE"
+    }
+  ],
+  "stats": {
+    "total": 5
+  },
+  "meta": {
+    "geracaoId": "nk-2"
+  }
+}

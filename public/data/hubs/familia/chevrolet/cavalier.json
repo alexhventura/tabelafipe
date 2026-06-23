@@ -1,0 +1,108 @@
+{
+  "tipo": "familia",
+  "slug": "cavalier",
+  "canonicalPath": "/fipe/chevrolet/cavalier/",
+  "titulo": "GM - Chevrolet cavalier - Tabela FIPE",
+  "descricao": "9 versoes e anos do GM - Chevrolet cavalier na Tabela FIPE.",
+  "seo": {
+    "title": "GM - Chevrolet cavalier - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes GM - Chevrolet cavalier. 9 veiculos indexados.",
+    "h1": "GM - Chevrolet cavalier - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/chevrolet/cavalier/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "chevrolet-cavalier-l-2-0-1995-gasolina",
+      "fipeCodigo": "004139-4",
+      "displayName": "GM - Chevrolet Cavalier L 2.0",
+      "valorAtual": 10345,
+      "canonicalPath": "/fipe/chevrolet/cavalier-l-2-0-1995-004139-4/",
+      "ano": 1995,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-cavalier-l-2-0-1994-gasolina",
+      "fipeCodigo": "004139-4",
+      "displayName": "GM - Chevrolet Cavalier L 2.0",
+      "valorAtual": 8102,
+      "canonicalPath": "/fipe/chevrolet/cavalier-l-2-0-1994-004139-4/",
+      "ano": 1994,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-cavalier-3-1-conv-1994-gasolina",
+      "fipeCodigo": "004138-6",
+      "displayName": "GM - Chevrolet Cavalier 3.1 Conv.",
+      "valorAtual": 15959,
+      "canonicalPath": "/fipe/chevrolet/cavalier-3-1-conv-1994-004138-6/",
+      "ano": 1994,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-cavalier-l-2-0-1993-gasolina",
+      "fipeCodigo": "004139-4",
+      "displayName": "GM - Chevrolet Cavalier L 2.0",
+      "valorAtual": 7277,
+      "canonicalPath": "/fipe/chevrolet/cavalier-l-2-0-1993-004139-4/",
+      "ano": 1993,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-cavalier-3-1-conv-1993-gasolina",
+      "fipeCodigo": "004138-6",
+      "displayName": "GM - Chevrolet Cavalier 3.1 Conv.",
+      "valorAtual": 14981,
+      "canonicalPath": "/fipe/chevrolet/cavalier-3-1-conv-1993-004138-6/",
+      "ano": 1993,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-cavalier-l-2-0-1992-gasolina",
+      "fipeCodigo": "004139-4",
+      "displayName": "GM - Chevrolet Cavalier L 2.0",
+      "valorAtual": 6633,
+      "canonicalPath": "/fipe/chevrolet/cavalier-l-2-0-1992-004139-4/",
+      "ano": 1992,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-cavalier-3-1-conv-1992-gasolina",
+      "fipeCodigo": "004138-6",
+      "displayName": "GM - Chevrolet Cavalier 3.1 Conv.",
+      "valorAtual": 11240,
+      "canonicalPath": "/fipe/chevrolet/cavalier-3-1-conv-1992-004138-6/",
+      "ano": 1992,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-cavalier-l-2-0-1991-gasolina",
+      "fipeCodigo": "004139-4",
+      "displayName": "GM - Chevrolet Cavalier L 2.0",
+      "valorAtual": 6036,
+      "canonicalPath": "/fipe/chevrolet/cavalier-l-2-0-1991-004139-4/",
+      "ano": 1991,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-cavalier-3-1-conv-1991-gasolina",
+      "fipeCodigo": "004138-6",
+      "displayName": "GM - Chevrolet Cavalier 3.1 Conv.",
+      "valorAtual": 9812,
+      "canonicalPath": "/fipe/chevrolet/cavalier-3-1-conv-1991-004138-6/",
+      "ano": 1991,
+      "marca": "GM - Chevrolet"
+    }
+  ],
+  "stats": {
+    "total": 9,
+    "precoMin": 6036,
+    "precoMax": 15959,
+    "anos": [
+      1995,
+      1994,
+      1993,
+      1992,
+      1991
+    ]
+  }
+}

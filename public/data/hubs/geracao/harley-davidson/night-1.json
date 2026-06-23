@@ -1,0 +1,57 @@
+{
+  "tipo": "geracao",
+  "slug": "night-1",
+  "canonicalPath": "/geracao/harley-davidson/night-1/",
+  "titulo": "Geracao night-1",
+  "descricao": "4 veiculos da geracao night-1.",
+  "seo": {
+    "title": "Geracao night-1 - Precos FIPE",
+    "description": "Veiculos da geracao night-1 na Tabela FIPE.",
+    "h1": "Geracao night-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/harley-davidson/night-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "harley-davidson-night-train-1998-gasolina",
+      "fipeCodigo": "810001-2",
+      "displayName": "HARLEY-DAVIDSON NIGHT TRAIN",
+      "valorAtual": 34569,
+      "canonicalPath": "/fipe/harley-davidson/night-train-1998-810001-2/",
+      "ano": 1998,
+      "marca": "HARLEY-DAVIDSON"
+    },
+    {
+      "vehicleId": "harley-davidson-night-train-1999-gasolina",
+      "fipeCodigo": "810001-2",
+      "displayName": "HARLEY-DAVIDSON NIGHT TRAIN",
+      "valorAtual": 35856,
+      "canonicalPath": "/fipe/harley-davidson/night-train-1999-810001-2/",
+      "ano": 1999,
+      "marca": "HARLEY-DAVIDSON"
+    },
+    {
+      "vehicleId": "harley-davidson-night-train-2000-gasolina",
+      "fipeCodigo": "810001-2",
+      "displayName": "HARLEY-DAVIDSON NIGHT TRAIN",
+      "valorAtual": 41988,
+      "canonicalPath": "/fipe/harley-davidson/night-train-2000-810001-2/",
+      "ano": 2000,
+      "marca": "HARLEY-DAVIDSON"
+    },
+    {
+      "vehicleId": "harley-davidson-night-train-2001-gasolina",
+      "fipeCodigo": "810001-2",
+      "displayName": "HARLEY-DAVIDSON NIGHT TRAIN",
+      "valorAtual": 43503,
+      "canonicalPath": "/fipe/harley-davidson/night-train-2001-810001-2/",
+      "ano": 2001,
+      "marca": "HARLEY-DAVIDSON"
+    }
+  ],
+  "stats": {
+    "total": 4
+  },
+  "meta": {
+    "geracaoId": "night-1"
+  }
+}

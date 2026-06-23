@@ -1,0 +1,42 @@
+{
+  "tipo": "familia",
+  "slug": "master",
+  "canonicalPath": "/fipe/envemo/master/",
+  "titulo": "Envemo master - Tabela FIPE",
+  "descricao": "2 versoes e anos do Envemo master na Tabela FIPE.",
+  "seo": {
+    "title": "Envemo master - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes Envemo master. 2 veiculos indexados.",
+    "h1": "Envemo master - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/envemo/master/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "envemo-master-4-0-diesel-1996-diesel",
+      "fipeCodigo": "044004-3",
+      "displayName": "Envemo Master 4.0 Diesel",
+      "valorAtual": 27523,
+      "canonicalPath": "/fipe/envemo/master-4-0-diesel-1996-044004-3/",
+      "ano": 1996,
+      "marca": "Envemo"
+    },
+    {
+      "vehicleId": "envemo-master-4-0-diesel-1995-diesel",
+      "fipeCodigo": "044004-3",
+      "displayName": "Envemo Master 4.0 Diesel",
+      "valorAtual": 24543,
+      "canonicalPath": "/fipe/envemo/master-4-0-diesel-1995-044004-3/",
+      "ano": 1995,
+      "marca": "Envemo"
+    }
+  ],
+  "stats": {
+    "total": 2,
+    "precoMin": 24543,
+    "precoMax": 27523,
+    "anos": [
+      1996,
+      1995
+    ]
+  }
+}

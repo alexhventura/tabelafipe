@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "road-1",
+  "canonicalPath": "/geracao/harley-davidson/road-1/",
+  "titulo": "Geracao road-1",
+  "descricao": "2 veiculos da geracao road-1.",
+  "seo": {
+    "title": "Geracao road-1 - Precos FIPE",
+    "description": "Veiculos da geracao road-1 na Tabela FIPE.",
+    "h1": "Geracao road-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/harley-davidson/road-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "harley-davidson-road-glide-fltrx-0-gasolina",
+      "fipeCodigo": "810116-7",
+      "displayName": "HARLEY-DAVIDSON ROAD GLIDE FLTRX",
+      "valorAtual": 207469,
+      "canonicalPath": "/fipe/harley-davidson/road-glide-fltrx-0-810116-7/",
+      "ano": 0,
+      "marca": "HARLEY-DAVIDSON"
+    },
+    {
+      "vehicleId": "harley-davidson-road-glide-limited-fltrxl-0-gasolina",
+      "fipeCodigo": "810120-5",
+      "displayName": "HARLEY-DAVIDSON ROAD GLIDE LIMITED FLTRXL",
+      "valorAtual": 236632,
+      "canonicalPath": "/fipe/harley-davidson/road-glide-limited-fltrxl-0-810120-5/",
+      "ano": 0,
+      "marca": "HARLEY-DAVIDSON"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "road-1"
+  }
+}

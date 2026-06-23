@@ -1,0 +1,142 @@
+{
+  "tipo": "familia",
+  "slug": "apache",
+  "canonicalPath": "/fipe/dafra/apache/",
+  "titulo": "DAFRA apache - Tabela FIPE",
+  "descricao": "12 versoes e anos do DAFRA apache na Tabela FIPE.",
+  "seo": {
+    "title": "DAFRA apache - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes DAFRA apache. 12 veiculos indexados.",
+    "h1": "DAFRA apache - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/dafra/apache/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "dafra-apache-rtr-200cc-2024-gasolina",
+      "fipeCodigo": "861025-8",
+      "displayName": "DAFRA APACHE RTR 200cc",
+      "valorAtual": 14765,
+      "canonicalPath": "/fipe/dafra/apache-rtr-200cc-2024-861025-8/",
+      "ano": 2024,
+      "marca": "DAFRA"
+    },
+    {
+      "vehicleId": "dafra-apache-rtr-200cc-2023-gasolina",
+      "fipeCodigo": "861025-8",
+      "displayName": "DAFRA APACHE RTR 200cc",
+      "valorAtual": 13721,
+      "canonicalPath": "/fipe/dafra/apache-rtr-200cc-2023-861025-8/",
+      "ano": 2023,
+      "marca": "DAFRA"
+    },
+    {
+      "vehicleId": "dafra-apache-rtr-200cc-2022-gasolina",
+      "fipeCodigo": "861025-8",
+      "displayName": "DAFRA APACHE RTR 200cc",
+      "valorAtual": 12781,
+      "canonicalPath": "/fipe/dafra/apache-rtr-200cc-2022-861025-8/",
+      "ano": 2022,
+      "marca": "DAFRA"
+    },
+    {
+      "vehicleId": "dafra-apache-rtr-200cc-2021-gasolina",
+      "fipeCodigo": "861025-8",
+      "displayName": "DAFRA APACHE RTR 200cc",
+      "valorAtual": 12469,
+      "canonicalPath": "/fipe/dafra/apache-rtr-200cc-2021-861025-8/",
+      "ano": 2021,
+      "marca": "DAFRA"
+    },
+    {
+      "vehicleId": "dafra-apache-rtr-200cc-2020-gasolina",
+      "fipeCodigo": "861025-8",
+      "displayName": "DAFRA APACHE RTR 200cc",
+      "valorAtual": 10634,
+      "canonicalPath": "/fipe/dafra/apache-rtr-200cc-2020-861025-8/",
+      "ano": 2020,
+      "marca": "DAFRA"
+    },
+    {
+      "vehicleId": "dafra-apache-rtr-200cc-2019-gasolina",
+      "fipeCodigo": "861025-8",
+      "displayName": "DAFRA APACHE RTR 200cc",
+      "valorAtual": 10374,
+      "canonicalPath": "/fipe/dafra/apache-rtr-200cc-2019-861025-8/",
+      "ano": 2019,
+      "marca": "DAFRA"
+    },
+    {
+      "vehicleId": "dafra-apache-150cc-2015-gasolina",
+      "fipeCodigo": "861009-6",
+      "displayName": "DAFRA APACHE 150cc",
+      "valorAtual": 5964,
+      "canonicalPath": "/fipe/dafra/apache-150cc-2015-861009-6/",
+      "ano": 2015,
+      "marca": "DAFRA"
+    },
+    {
+      "vehicleId": "dafra-apache-150cc-2014-gasolina",
+      "fipeCodigo": "861009-6",
+      "displayName": "DAFRA APACHE 150cc",
+      "valorAtual": 5818,
+      "canonicalPath": "/fipe/dafra/apache-150cc-2014-861009-6/",
+      "ano": 2014,
+      "marca": "DAFRA"
+    },
+    {
+      "vehicleId": "dafra-apache-150cc-2013-gasolina",
+      "fipeCodigo": "861009-6",
+      "displayName": "DAFRA APACHE 150cc",
+      "valorAtual": 5475,
+      "canonicalPath": "/fipe/dafra/apache-150cc-2013-861009-6/",
+      "ano": 2013,
+      "marca": "DAFRA"
+    },
+    {
+      "vehicleId": "dafra-apache-150cc-2012-gasolina",
+      "fipeCodigo": "861009-6",
+      "displayName": "DAFRA APACHE 150cc",
+      "valorAtual": 5341,
+      "canonicalPath": "/fipe/dafra/apache-150cc-2012-861009-6/",
+      "ano": 2012,
+      "marca": "DAFRA"
+    },
+    {
+      "vehicleId": "dafra-apache-150cc-2011-gasolina",
+      "fipeCodigo": "861009-6",
+      "displayName": "DAFRA APACHE 150cc",
+      "valorAtual": 4764,
+      "canonicalPath": "/fipe/dafra/apache-150cc-2011-861009-6/",
+      "ano": 2011,
+      "marca": "DAFRA"
+    },
+    {
+      "vehicleId": "dafra-apache-150cc-2010-gasolina",
+      "fipeCodigo": "861009-6",
+      "displayName": "DAFRA APACHE 150cc",
+      "valorAtual": 4270,
+      "canonicalPath": "/fipe/dafra/apache-150cc-2010-861009-6/",
+      "ano": 2010,
+      "marca": "DAFRA"
+    }
+  ],
+  "stats": {
+    "total": 12,
+    "precoMin": 4270,
+    "precoMax": 14765,
+    "anos": [
+      2024,
+      2023,
+      2022,
+      2021,
+      2020,
+      2019,
+      2015,
+      2014,
+      2013,
+      2012,
+      2011,
+      2010
+    ]
+  }
+}

@@ -1,0 +1,283 @@
+{
+  "geradoEm": "2026-06-22T22:46:08.780Z",
+  "total": 13,
+  "documents": [
+    {
+      "id": "9cbe42a7f99adbce",
+      "marca": "Hyundai",
+      "modelo": "HB20",
+      "ano": 2026,
+      "url": "https://www.hyundai.com.br/content/dam/hmb/cars/hb20/2025-2026/catalogos/Catalogo_DIgital_Novo_HB20_Limited_TGDI_25_26.pdf",
+      "localPath": "hyundai\\Catalogo_DIgital_Novo_HB20_Limited_TGDI_25_26.pdf",
+      "hash": "11d04307faedd3f09c49b8bf6fc4720b56c1fd01cb00515a18275c9be65e3cbc",
+      "type": "catalog",
+      "captured_at": "2026-06-22T22:45:53.576Z",
+      "familiaKey": "hyundai|hb20",
+      "richness": {
+        "power": true,
+        "torque": true,
+        "dimensions": true,
+        "trunk": true,
+        "maintenance": false,
+        "fluids": true,
+        "richnessScore": 5
+      }
+    },
+    {
+      "id": "1100b65f8f52246f",
+      "marca": "Hyundai",
+      "modelo": "Creta",
+      "ano": 2026,
+      "url": "https://www.hyundai.com.br/content/dam/hmb/download-manuais/creta_25-26/Catalogo_Digital_-_Novo_CRETA_Limited_MY_25-26.pdf",
+      "localPath": "hyundai\\Catalogo_Digital_-_Novo_CRETA_Limited_MY_25-26.pdf",
+      "hash": "48bfcf708ab577e596507776432aa1247cbd35121e70c88bff975f799878cda0",
+      "type": "catalog",
+      "captured_at": "2026-06-22T22:45:56.635Z",
+      "familiaKey": "hyundai|creta",
+      "richness": {
+        "power": true,
+        "torque": true,
+        "dimensions": true,
+        "trunk": true,
+        "maintenance": true,
+        "fluids": true,
+        "richnessScore": 6
+      }
+    },
+    {
+      "id": "3fb7adbdd2ab8acc",
+      "marca": "Hyundai",
+      "modelo": "Tucson",
+      "ano": 2025,
+      "url": "https://www.hyundai.com.br/content/dam/hmb/cars/tucson/2024/catalog/TUCSON_Catalogo_Digital.pdf",
+      "localPath": "hyundai\\TUCSON_Catalogo_Digital.pdf",
+      "hash": "be79b8789bf0d22018b7a75bdde758271cd6cd84f06e60527c6fb5b8a2e634dd",
+      "type": "catalog",
+      "captured_at": "2026-06-22T22:45:57.546Z",
+      "familiaKey": "hyundai|tucson",
+      "richness": {
+        "power": true,
+        "torque": true,
+        "dimensions": true,
+        "trunk": true,
+        "maintenance": true,
+        "fluids": true,
+        "richnessScore": 6
+      }
+    },
+    {
+      "id": "db3f271a2fc27af3",
+      "marca": "Peugeot",
+      "modelo": "208MY26  digital",
+      "ano": 2026,
+      "url": "https://www.peugeot.com.br/content/dam/peugeot/catalogos/208MY26_Catalogo-digital.pdf",
+      "localPath": "peugeot\\208MY26_Catalogo-digital.pdf",
+      "hash": "d2c1e5156430863516e52e3d294a9338e3abbf21c840962bb942e73809a514d8",
+      "type": "catalog",
+      "captured_at": "2026-06-22T22:45:58.175Z",
+      "familiaKey": "peugeot|208my26digital",
+      "richness": {
+        "power": true,
+        "torque": true,
+        "dimensions": false,
+        "trunk": true,
+        "maintenance": false,
+        "fluids": true,
+        "richnessScore": 4
+      }
+    },
+    {
+      "id": "d7fc3d249cc6652f",
+      "marca": "BMW",
+      "modelo": "relatorio igualdade salarial lote 2026 1 882430001156 bmw br",
+      "ano": 2026,
+      "url": "https://www.bmw.com.br/content/dam/bmw/marketBR/bmw_com_br/Documents/relatorio_igualdade_salarial_lote_2026_1_882430001156_bmw_br.pdf.asset.1778683002143.pdf",
+      "localPath": "bmw\\relatorio_igualdade_salarial_lote_2026_1_882430001156_bmw_br.pdf.asset.1778683002143.pdf",
+      "hash": "018b1d59589c675a38e464e9b11421d833af21c37e553f90d3ddf185634eda94",
+      "type": "catalog",
+      "captured_at": "2026-06-22T22:45:58.835Z",
+      "familiaKey": "bmw|relatorioigualdadesalariallote20261882430001156bmwbr",
+      "richness": {
+        "power": false,
+        "torque": false,
+        "dimensions": false,
+        "trunk": false,
+        "maintenance": false,
+        "fluids": false,
+        "richnessScore": 0
+      }
+    },
+    {
+      "id": "43acbd272b7feed1",
+      "marca": "BMW",
+      "modelo": "manual basico de seguranca no transito bmw",
+      "ano": 2026,
+      "url": "https://www.bmw.com.br/content/dam/bmw/marketBR/bmw_com_br/Documents/manual-basico-de-seguranca-no-transito_bmw.pdf",
+      "localPath": "bmw\\manual-basico-de-seguranca-no-transito_bmw.pdf",
+      "hash": "fd07d254aa2615b9273322935eeda534eb6896580981a89ca44d7a0ce37ca951",
+      "type": "catalog",
+      "captured_at": "2026-06-22T22:45:59.424Z",
+      "familiaKey": "bmw|manualbasicodesegurancanotransitobmw",
+      "richness": {
+        "power": true,
+        "torque": false,
+        "dimensions": true,
+        "trunk": false,
+        "maintenance": true,
+        "fluids": true,
+        "richnessScore": 4
+      }
+    },
+    {
+      "id": "f91fc6eea24330c6",
+      "marca": "Peugeot",
+      "modelo": "fichas tecnicas 208 my26 at",
+      "ano": 2026,
+      "url": "https://www.peugeot.com.br/content/dam/peugeot/ficha-tecnica/208-my26/fichas-tecnicas-208-my26-at.pdf",
+      "localPath": "peugeot\\fichas-tecnicas-208-my26-at.pdf",
+      "hash": "6fb60c58b2e399265d16aec8a5bd0ae7362f9f4da8ea7d3be902a92a16eac643",
+      "type": "spec-sheet",
+      "captured_at": "2026-06-22T22:46:02.341Z",
+      "familiaKey": "peugeot|fichastecnicas208my26at",
+      "richness": {
+        "power": true,
+        "torque": true,
+        "dimensions": true,
+        "trunk": true,
+        "maintenance": false,
+        "fluids": true,
+        "richnessScore": 5
+      }
+    },
+    {
+      "id": "c3c2ddf5c4668cbb",
+      "marca": "Peugeot",
+      "modelo": "fichas tecnicas 208 my26 allure turbo",
+      "ano": 2026,
+      "url": "https://www.peugeot.com.br/content/dam/peugeot/ficha-tecnica/208-my26/fichas-tecnicas-208-my26-allure-turbo.pdf",
+      "localPath": "peugeot\\fichas-tecnicas-208-my26-allure-turbo.pdf",
+      "hash": "6eb564e6c15d468376727d49528d397cf88cc7621e26009ee6cba61fa10005bc",
+      "type": "spec-sheet",
+      "captured_at": "2026-06-22T22:46:02.820Z",
+      "familiaKey": "peugeot|fichastecnicas208my26allureturbo",
+      "richness": {
+        "power": true,
+        "torque": true,
+        "dimensions": true,
+        "trunk": true,
+        "maintenance": false,
+        "fluids": true,
+        "richnessScore": 5
+      }
+    },
+    {
+      "id": "e34c708143acfa0f",
+      "marca": "Peugeot",
+      "modelo": "fichas tecnicas 208 my26 active turbo",
+      "ano": 2026,
+      "url": "https://www.peugeot.com.br/content/dam/peugeot/ficha-tecnica/208-my26/fichas-tecnicas-208-my26-active-turbo.pdf",
+      "localPath": "peugeot\\fichas-tecnicas-208-my26-active-turbo.pdf",
+      "hash": "61b785390d3523085aefb3b616313abf7d418d75db2ae30edbe140c125706741",
+      "type": "spec-sheet",
+      "captured_at": "2026-06-22T22:46:03.267Z",
+      "familiaKey": "peugeot|fichastecnicas208my26activeturbo",
+      "richness": {
+        "power": true,
+        "torque": true,
+        "dimensions": true,
+        "trunk": true,
+        "maintenance": false,
+        "fluids": true,
+        "richnessScore": 5
+      }
+    },
+    {
+      "id": "794e87fc3bf95169",
+      "marca": "Peugeot",
+      "modelo": "fichas tecnicas 208 my26 style",
+      "ano": 2026,
+      "url": "https://www.peugeot.com.br/content/dam/peugeot/ficha-tecnica/208-my26/fichas-tecnicas-208-my26-style.pdf",
+      "localPath": "peugeot\\fichas-tecnicas-208-my26-style.pdf",
+      "hash": "9ae2529697c57bf8632929a67573e145dffb9334a42c5beec3ce7874415bacbc",
+      "type": "spec-sheet",
+      "captured_at": "2026-06-22T22:46:03.730Z",
+      "familiaKey": "peugeot|fichastecnicas208my26style",
+      "richness": {
+        "power": true,
+        "torque": true,
+        "dimensions": true,
+        "trunk": true,
+        "maintenance": false,
+        "fluids": true,
+        "richnessScore": 5
+      }
+    },
+    {
+      "id": "12a6f35923057089",
+      "marca": "Volvo",
+      "modelo": "2024 10 18 Manal Basico de Seguranca no Transito ONSV Versao Final",
+      "ano": 2026,
+      "url": "https://www.volvocars.com/images/cs/v3/assets/blt84e01a6904dbd2e8/bltf321cc0da5ae7b73/678039ac3246b0549ae1705b/2024-10-18-Manal-Basico-de-Seguranca-no-Transito-ONSV-Versao-Final.pdf?branch=prod_alias",
+      "localPath": "volvo\\2024-10-18-Manal-Basico-de-Seguranca-no-Transito-ONSV-Versao-Final.pdf",
+      "hash": "0a19361e285b4f715c3f13d2a7449358ac504f5eaf431174127817aa651575a4",
+      "type": "catalog",
+      "captured_at": "2026-06-22T22:46:04.414Z",
+      "familiaKey": "volvo|20241018manalbasicodesegurancanotransitoonsvversaofinal",
+      "richness": {
+        "power": true,
+        "torque": false,
+        "dimensions": true,
+        "trunk": false,
+        "maintenance": true,
+        "fluids": true,
+        "richnessScore": 4
+      }
+    },
+    {
+      "id": "7987c8f8778e3c6c",
+      "marca": "Land Rover",
+      "modelo": "Manal Basico de Seguranca no Transito ONSV",
+      "ano": 2026,
+      "url": "https://www.landrover.com.br/content/dam/lrdx/pdfs/br/Manal-Basico-de-Seguranca-no-Transito-ONSV.pdf",
+      "localPath": "land-rover\\Manal-Basico-de-Seguranca-no-Transito-ONSV.pdf",
+      "hash": "0a19361e285b4f715c3f13d2a7449358ac504f5eaf431174127817aa651575a4",
+      "type": "catalog",
+      "captured_at": "2026-06-22T22:46:06.566Z",
+      "familiaKey": "land-rover|manalbasicodesegurancanotransitoonsv",
+      "richness": {
+        "power": true,
+        "torque": false,
+        "dimensions": true,
+        "trunk": false,
+        "maintenance": true,
+        "fluids": true,
+        "richnessScore": 4
+      }
+    },
+    {
+      "id": "0664c2816f16b5d1",
+      "marca": "BYD",
+      "modelo": "Ficha%20Tecnica%20 %20BYD%20Atto%202%20DM i%20Flex%20 %20v1",
+      "ano": 2026,
+      "url": "https://www.byd.com/material/byd-site/br/product/atto-2-dmi/Ficha%20Tecnica%20-%20BYD%20Atto%202%20DM-i%20Flex%20-%20v1.pdf",
+      "localPath": "byd\\Ficha_20Tecnica_20-_20BYD_20Atto_202_20DM-i_20Flex_20-_20v1.pdf",
+      "hash": "c7be7462da1f7ca36d2d476de273daf718a4cf94a68333118c2d8bd3dd522d37",
+      "type": "spec-sheet",
+      "captured_at": "2026-06-22T22:46:07.821Z",
+      "familiaKey": "byd|ficha20tecnica2020byd20atto20220dmi20flex2020v1",
+      "richness": {
+        "power": true,
+        "torque": true,
+        "dimensions": true,
+        "trunk": true,
+        "maintenance": true,
+        "fluids": true,
+        "richnessScore": 6
+      }
+    }
+  ],
+  "downloaded": 0,
+  "changed": 0,
+  "skipped": 13,
+  "targets": 13
+}

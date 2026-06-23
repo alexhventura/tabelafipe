@@ -1,0 +1,90 @@
+{
+  "tipo": "familia",
+  "slug": "dy200",
+  "canonicalPath": "/fipe/dayang/dy200/",
+  "titulo": "DAYANG dy200 - Tabela FIPE",
+  "descricao": "7 versoes e anos do DAYANG dy200 na Tabela FIPE.",
+  "seo": {
+    "title": "DAYANG dy200 - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes DAYANG dy200. 7 veiculos indexados.",
+    "h1": "DAYANG dy200 - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/dayang/dy200/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "dayang-dy200-thor-2015-gasolina",
+      "fipeCodigo": "857016-7",
+      "displayName": "DAYANG DY200 THOR",
+      "valorAtual": 5833,
+      "canonicalPath": "/fipe/dayang/dy200-thor-2015-857016-7/",
+      "ano": 2015,
+      "marca": "DAYANG"
+    },
+    {
+      "vehicleId": "dayang-dy200-rev-2015-gasolina",
+      "fipeCodigo": "857014-0",
+      "displayName": "DAYANG DY200 REV",
+      "valorAtual": 7083,
+      "canonicalPath": "/fipe/dayang/dy200-rev-2015-857014-0/",
+      "ano": 2015,
+      "marca": "DAYANG"
+    },
+    {
+      "vehicleId": "dayang-dy200-thor-2014-gasolina",
+      "fipeCodigo": "857016-7",
+      "displayName": "DAYANG DY200 THOR",
+      "valorAtual": 5182,
+      "canonicalPath": "/fipe/dayang/dy200-thor-2014-857016-7/",
+      "ano": 2014,
+      "marca": "DAYANG"
+    },
+    {
+      "vehicleId": "dayang-dy200-rev-2014-gasolina",
+      "fipeCodigo": "857014-0",
+      "displayName": "DAYANG DY200 REV",
+      "valorAtual": 6145,
+      "canonicalPath": "/fipe/dayang/dy200-rev-2014-857014-0/",
+      "ano": 2014,
+      "marca": "DAYANG"
+    },
+    {
+      "vehicleId": "dayang-dy200-2010-gasolina",
+      "fipeCodigo": "857001-9",
+      "displayName": "DAYANG DY200",
+      "valorAtual": 3677,
+      "canonicalPath": "/fipe/dayang/dy200-2010-857001-9/",
+      "ano": 2010,
+      "marca": "DAYANG"
+    },
+    {
+      "vehicleId": "dayang-dy200-2008-gasolina",
+      "fipeCodigo": "857001-9",
+      "displayName": "DAYANG DY200",
+      "valorAtual": 3376,
+      "canonicalPath": "/fipe/dayang/dy200-2008-857001-9/",
+      "ano": 2008,
+      "marca": "DAYANG"
+    },
+    {
+      "vehicleId": "dayang-dy200-2007-gasolina",
+      "fipeCodigo": "857001-9",
+      "displayName": "DAYANG DY200",
+      "valorAtual": 3293,
+      "canonicalPath": "/fipe/dayang/dy200-2007-857001-9/",
+      "ano": 2007,
+      "marca": "DAYANG"
+    }
+  ],
+  "stats": {
+    "total": 7,
+    "precoMin": 3293,
+    "precoMax": 7083,
+    "anos": [
+      2015,
+      2014,
+      2010,
+      2008,
+      2007
+    ]
+  }
+}

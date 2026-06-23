@@ -1,0 +1,42 @@
+{
+  "tipo": "familia",
+  "slug": "cb1300",
+  "canonicalPath": "/fipe/honda/cb1300/",
+  "titulo": "HONDA cb1300 - Tabela FIPE",
+  "descricao": "2 versoes e anos do HONDA cb1300 na Tabela FIPE.",
+  "seo": {
+    "title": "HONDA cb1300 - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes HONDA cb1300. 2 veiculos indexados.",
+    "h1": "HONDA cb1300 - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/honda/cb1300/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "honda-cb1300-super-four-2008-gasolina",
+      "fipeCodigo": "811086-7",
+      "displayName": "HONDA CB1300 SUPER FOUR",
+      "valorAtual": 51194,
+      "canonicalPath": "/fipe/honda/cb1300-super-four-2008-811086-7/",
+      "ano": 2008,
+      "marca": "HONDA"
+    },
+    {
+      "vehicleId": "honda-cb1300-super-four-2007-gasolina",
+      "fipeCodigo": "811086-7",
+      "displayName": "HONDA CB1300 SUPER FOUR",
+      "valorAtual": 46473,
+      "canonicalPath": "/fipe/honda/cb1300-super-four-2007-811086-7/",
+      "ano": 2007,
+      "marca": "HONDA"
+    }
+  ],
+  "stats": {
+    "total": 2,
+    "precoMin": 46473,
+    "precoMax": 51194,
+    "anos": [
+      2008,
+      2007
+    ]
+  }
+}

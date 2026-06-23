@@ -1,0 +1,102 @@
+{
+  "tipo": "familia",
+  "slug": "nex",
+  "canonicalPath": "/fipe/haojue/nex/",
+  "titulo": "HAOJUE nex - Tabela FIPE",
+  "descricao": "8 versoes e anos do HAOJUE nex na Tabela FIPE.",
+  "seo": {
+    "title": "HAOJUE nex - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes HAOJUE nex. 8 veiculos indexados.",
+    "h1": "HAOJUE nex - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/haojue/nex/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "haojue-nex-115-2024-gasolina",
+      "fipeCodigo": "885006-2",
+      "displayName": "HAOJUE NEX 115",
+      "valorAtual": 11167,
+      "canonicalPath": "/fipe/haojue/nex-115-2024-885006-2/",
+      "ano": 2024,
+      "marca": "HAOJUE"
+    },
+    {
+      "vehicleId": "haojue-nex-115-2023-gasolina",
+      "fipeCodigo": "885006-2",
+      "displayName": "HAOJUE NEX 115",
+      "valorAtual": 10355,
+      "canonicalPath": "/fipe/haojue/nex-115-2023-885006-2/",
+      "ano": 2023,
+      "marca": "HAOJUE"
+    },
+    {
+      "vehicleId": "haojue-nex-115-2022-gasolina",
+      "fipeCodigo": "885006-2",
+      "displayName": "HAOJUE NEX 115",
+      "valorAtual": 8800,
+      "canonicalPath": "/fipe/haojue/nex-115-2022-885006-2/",
+      "ano": 2022,
+      "marca": "HAOJUE"
+    },
+    {
+      "vehicleId": "haojue-nex-115-2021-gasolina",
+      "fipeCodigo": "885006-2",
+      "displayName": "HAOJUE NEX 115",
+      "valorAtual": 8031,
+      "canonicalPath": "/fipe/haojue/nex-115-2021-885006-2/",
+      "ano": 2021,
+      "marca": "HAOJUE"
+    },
+    {
+      "vehicleId": "haojue-nex-115-2020-gasolina",
+      "fipeCodigo": "885006-2",
+      "displayName": "HAOJUE NEX 115",
+      "valorAtual": 7169,
+      "canonicalPath": "/fipe/haojue/nex-115-2020-885006-2/",
+      "ano": 2020,
+      "marca": "HAOJUE"
+    },
+    {
+      "vehicleId": "haojue-nex-110-2019-gasolina",
+      "fipeCodigo": "885003-8",
+      "displayName": "HAOJUE NEX 110",
+      "valorAtual": 6950,
+      "canonicalPath": "/fipe/haojue/nex-110-2019-885003-8/",
+      "ano": 2019,
+      "marca": "HAOJUE"
+    },
+    {
+      "vehicleId": "haojue-nex-110-2018-gasolina",
+      "fipeCodigo": "885003-8",
+      "displayName": "HAOJUE NEX 110",
+      "valorAtual": 6780,
+      "canonicalPath": "/fipe/haojue/nex-110-2018-885003-8/",
+      "ano": 2018,
+      "marca": "HAOJUE"
+    },
+    {
+      "vehicleId": "haojue-nex-110-2017-gasolina",
+      "fipeCodigo": "885003-8",
+      "displayName": "HAOJUE NEX 110",
+      "valorAtual": 5918,
+      "canonicalPath": "/fipe/haojue/nex-110-2017-885003-8/",
+      "ano": 2017,
+      "marca": "HAOJUE"
+    }
+  ],
+  "stats": {
+    "total": 8,
+    "precoMin": 5918,
+    "precoMax": 11167,
+    "anos": [
+      2024,
+      2023,
+      2022,
+      2021,
+      2020,
+      2019,
+      2018,
+      2017
+    ]
+  }
+}

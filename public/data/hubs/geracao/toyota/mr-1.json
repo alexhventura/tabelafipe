@@ -1,0 +1,57 @@
+{
+  "tipo": "geracao",
+  "slug": "mr-1",
+  "canonicalPath": "/geracao/toyota/mr-1/",
+  "titulo": "Geracao mr-1",
+  "descricao": "4 veiculos da geracao mr-1.",
+  "seo": {
+    "title": "Geracao mr-1 - Precos FIPE",
+    "description": "Veiculos da geracao mr-1 na Tabela FIPE.",
+    "h1": "Geracao mr-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/toyota/mr-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "toyota-mr-2-turbo-2-0-1991-gasolina",
+      "fipeCodigo": "002055-9",
+      "displayName": "Toyota MR-2 Turbo 2.0",
+      "valorAtual": 26425,
+      "canonicalPath": "/fipe/toyota/mr-2-turbo-2-0-1991-002055-9/",
+      "ano": 1991,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-mr-2-turbo-2-0-1992-gasolina",
+      "fipeCodigo": "002055-9",
+      "displayName": "Toyota MR-2 Turbo 2.0",
+      "valorAtual": 28833,
+      "canonicalPath": "/fipe/toyota/mr-2-turbo-2-0-1992-002055-9/",
+      "ano": 1992,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-mr-2-turbo-2-0-1993-gasolina",
+      "fipeCodigo": "002055-9",
+      "displayName": "Toyota MR-2 Turbo 2.0",
+      "valorAtual": 29992,
+      "canonicalPath": "/fipe/toyota/mr-2-turbo-2-0-1993-002055-9/",
+      "ano": 1993,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-mr-2-turbo-2-0-1994-gasolina",
+      "fipeCodigo": "002055-9",
+      "displayName": "Toyota MR-2 Turbo 2.0",
+      "valorAtual": 34371,
+      "canonicalPath": "/fipe/toyota/mr-2-turbo-2-0-1994-002055-9/",
+      "ano": 1994,
+      "marca": "Toyota"
+    }
+  ],
+  "stats": {
+    "total": 4
+  },
+  "meta": {
+    "geracaoId": "mr-1"
+  }
+}

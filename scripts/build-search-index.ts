@@ -18,6 +18,7 @@ interface VeiculoRecord {
   valor?: number;
   tipo: string;
   dataPath?: string;
+  fipeCodigo?: string;
 }
 
 interface SearchIndexItem {
@@ -31,6 +32,9 @@ interface SearchIndexItem {
   tipo: string;
   searchText: string;
   dataPath: string;
+  fipeCodigo?: string;
+  canonicalPath?: string;
+  pageSlug?: string;
 }
 
 interface CompactItem {
@@ -43,6 +47,8 @@ interface CompactItem {
   c: string;
   s: string;
   p: string;
+  f?: string;
+  cp?: string;
 }
 
 function normalizeText(text: string): string {
@@ -70,7 +76,12 @@ function loadVeiculos(): VeiculoRecord[] {
   return [];
 }
 
-function buildIndex(veiculos: VeiculoRecord[]): SearchIndexItem[] {
+function loadUrlMap(): Record<string, { canonicalPath?: string; pageSlug?: string }> {
+  if (!fs.existsSync(PATHS.vehicleUrlMap)) return {};
+  return JSON.parse(fs.readFileSync(PATHS.vehicleUrlMap, 'utf-8'));
+}
+
+function buildIndex(veiculos: VeiculoRecord[], urlMap: Record<string, { canonicalPath?: string; pageSlug?: string }>): SearchIndexItem[] {
   const seen = new Set<string>();
   const index: SearchIndexItem[] = [];
 
@@ -88,6 +99,7 @@ function buildIndex(veiculos: VeiculoRecord[]): SearchIndexItem[] {
         combustivel: v.combustivel,
       });
 
+    const urlEntry = urlMap[v.id];
     index.push({
       id: v.id,
       termoBusca: gerarTermoBusca(v),
@@ -98,6 +110,9 @@ function buildIndex(veiculos: VeiculoRecord[]): SearchIndexItem[] {
       combustivel: v.combustivel || 'Flex',
       tipo: v.tipo,
       searchText: normalizeText(nome),
+      fipeCodigo: v.fipeCodigo,
+      canonicalPath: urlEntry?.canonicalPath,
+      pageSlug: urlEntry?.pageSlug,
       dataPath,
     });
   }
@@ -122,6 +137,8 @@ function gerarShards(index: SearchIndexItem[]) {
       c: item.combustivel,
       s: item.termoBusca,
       p: item.dataPath,
+      f: item.fipeCodigo,
+      cp: item.canonicalPath,
     });
   }
 
@@ -149,11 +166,12 @@ function main() {
   console.log('=== Build Search Index ===');
 
   const veiculos = loadVeiculos();
+  const urlMap = loadUrlMap();
   const comPreco = veiculos.filter((v) => v.valor && v.valor > 0);
   console.log(`Veiculos no catalogo: ${veiculos.length}`);
   console.log(`Com preco: ${comPreco.length}`);
 
-  const index = buildIndex(veiculos);
+  const index = buildIndex(veiculos, urlMap);
   const manifest = gerarShards(index);
 
   const searchManifest = {

@@ -1,0 +1,57 @@
+{
+  "tipo": "geracao",
+  "slug": "gla-1",
+  "canonicalPath": "/geracao/mercedes-benz/gla-1/",
+  "titulo": "Geracao gla-1",
+  "descricao": "4 veiculos da geracao gla-1.",
+  "seo": {
+    "title": "Geracao gla-1 - Precos FIPE",
+    "description": "Veiculos da geracao gla-1 na Tabela FIPE.",
+    "h1": "Geracao gla-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/mercedes-benz/gla-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "mercedes-benz-gla-200-amg-line-1-3-16v-tb-aut-hib-0-hibrido",
+      "fipeCodigo": "021512-0",
+      "displayName": "Mercedes-Benz GLA 200 AMG Line 1.3 16V TB Aut.(Híb.)",
+      "valorAtual": 383900,
+      "canonicalPath": "/fipe/mercedes-benz/gla-200-amg-line-1-3-16v-tb-aut-hib-0-021512-0/",
+      "ano": 0,
+      "marca": "Mercedes-Benz"
+    },
+    {
+      "vehicleId": "mercedes-benz-gla-200-night-edition-1-3-tb-16v-aut-0-hibrido",
+      "fipeCodigo": "021573-2",
+      "displayName": "Mercedes-Benz GLA 200 Night Edition 1.3 TB 16V Aut.",
+      "valorAtual": 388900,
+      "canonicalPath": "/fipe/mercedes-benz/gla-200-night-edition-1-3-tb-16v-aut-0-021573-2/",
+      "ano": 0,
+      "marca": "Mercedes-Benz"
+    },
+    {
+      "vehicleId": "mercedes-benz-gla-200-progressive-1-3-tb-16v-aut-hib-0-hibrido",
+      "fipeCodigo": "021527-9",
+      "displayName": "Mercedes-Benz GLA 200 Progressive 1.3 TB 16V Aut.(Híb)",
+      "valorAtual": 359672,
+      "canonicalPath": "/fipe/mercedes-benz/gla-200-progressive-1-3-tb-16v-aut-hib-0-021527-9/",
+      "ano": 0,
+      "marca": "Mercedes-Benz"
+    },
+    {
+      "vehicleId": "mercedes-benz-gla-35-amg-4matic-2-0-turbo-aut-hib-0-hibrido",
+      "fipeCodigo": "021522-8",
+      "displayName": "Mercedes-Benz GLA 35 AMG 4MATIC 2.0 Turbo Aut. (Híb.)",
+      "valorAtual": 542400,
+      "canonicalPath": "/fipe/mercedes-benz/gla-35-amg-4matic-2-0-turbo-aut-hib-0-021522-8/",
+      "ano": 0,
+      "marca": "Mercedes-Benz"
+    }
+  ],
+  "stats": {
+    "total": 4
+  },
+  "meta": {
+    "geracaoId": "gla-1"
+  }
+}

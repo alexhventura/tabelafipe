@@ -1,0 +1,118 @@
+{
+  "tipo": "familia",
+  "slug": "yuan",
+  "canonicalPath": "/fipe/byd/yuan/",
+  "titulo": "BYD yuan - Tabela FIPE",
+  "descricao": "10 versoes e anos do BYD yuan na Tabela FIPE.",
+  "seo": {
+    "title": "BYD yuan - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes BYD yuan. 10 veiculos indexados.",
+    "h1": "BYD yuan - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/byd/yuan/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "byd-yuan-pro-eletrico-2027-eletrico",
+      "fipeCodigo": "095015-7",
+      "displayName": "BYD Yuan Pro (Elétrico)",
+      "valorAtual": 171956,
+      "canonicalPath": "/fipe/byd/yuan-pro-eletrico-2027-095015-7/",
+      "ano": 2027,
+      "marca": "BYD"
+    },
+    {
+      "vehicleId": "byd-yuan-plus-eletrico-2027-eletrico",
+      "fipeCodigo": "095006-8",
+      "displayName": "BYD Yuan Plus (Elétrico)",
+      "valorAtual": 201441,
+      "canonicalPath": "/fipe/byd/yuan-plus-eletrico-2027-095006-8/",
+      "ano": 2027,
+      "marca": "BYD"
+    },
+    {
+      "vehicleId": "byd-yuan-pro-eletrico-2026-eletrico",
+      "fipeCodigo": "095015-7",
+      "displayName": "BYD Yuan Pro (Elétrico)",
+      "valorAtual": 167138,
+      "canonicalPath": "/fipe/byd/yuan-pro-eletrico-2026-095015-7/",
+      "ano": 2026,
+      "marca": "BYD"
+    },
+    {
+      "vehicleId": "byd-yuan-plus-eletrico-2026-eletrico",
+      "fipeCodigo": "095006-8",
+      "displayName": "BYD Yuan Plus (Elétrico)",
+      "valorAtual": 191200,
+      "canonicalPath": "/fipe/byd/yuan-plus-eletrico-2026-095006-8/",
+      "ano": 2026,
+      "marca": "BYD"
+    },
+    {
+      "vehicleId": "byd-yuan-pro-eletrico-2025-eletrico",
+      "fipeCodigo": "095015-7",
+      "displayName": "BYD Yuan Pro (Elétrico)",
+      "valorAtual": 154707,
+      "canonicalPath": "/fipe/byd/yuan-pro-eletrico-2025-095015-7/",
+      "ano": 2025,
+      "marca": "BYD"
+    },
+    {
+      "vehicleId": "byd-yuan-plus-eletrico-2025-eletrico",
+      "fipeCodigo": "095006-8",
+      "displayName": "BYD Yuan Plus (Elétrico)",
+      "valorAtual": 176316,
+      "canonicalPath": "/fipe/byd/yuan-plus-eletrico-2025-095006-8/",
+      "ano": 2025,
+      "marca": "BYD"
+    },
+    {
+      "vehicleId": "byd-yuan-plus-eletrico-2024-eletrico",
+      "fipeCodigo": "095006-8",
+      "displayName": "BYD Yuan Plus (Elétrico)",
+      "valorAtual": 163742,
+      "canonicalPath": "/fipe/byd/yuan-plus-eletrico-2024-095006-8/",
+      "ano": 2024,
+      "marca": "BYD"
+    },
+    {
+      "vehicleId": "byd-yuan-plus-eletrico-2023-eletrico",
+      "fipeCodigo": "095006-8",
+      "displayName": "BYD Yuan Plus (Elétrico)",
+      "valorAtual": 155441,
+      "canonicalPath": "/fipe/byd/yuan-plus-eletrico-2023-095006-8/",
+      "ano": 2023,
+      "marca": "BYD"
+    },
+    {
+      "vehicleId": "byd-yuan-pro-eletrico-0-eletrico",
+      "fipeCodigo": "095015-7",
+      "displayName": "BYD Yuan Pro (Elétrico)",
+      "valorAtual": 183323,
+      "canonicalPath": "/fipe/byd/yuan-pro-eletrico-0-095015-7/",
+      "ano": 0,
+      "marca": "BYD"
+    },
+    {
+      "vehicleId": "byd-yuan-plus-eletrico-0-eletrico",
+      "fipeCodigo": "095006-8",
+      "displayName": "BYD Yuan Plus (Elétrico)",
+      "valorAtual": 236990,
+      "canonicalPath": "/fipe/byd/yuan-plus-eletrico-0-095006-8/",
+      "ano": 0,
+      "marca": "BYD"
+    }
+  ],
+  "stats": {
+    "total": 10,
+    "precoMin": 154707,
+    "precoMax": 236990,
+    "anos": [
+      2027,
+      2026,
+      2025,
+      2024,
+      2023,
+      0
+    ]
+  }
+}

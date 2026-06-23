@@ -1,0 +1,102 @@
+{
+  "tipo": "geracao",
+  "slug": "c70-1",
+  "canonicalPath": "/geracao/volvo/c70-1/",
+  "titulo": "Geracao c70-1",
+  "descricao": "9 veiculos da geracao c70-1.",
+  "seo": {
+    "title": "Geracao c70-1 - Precos FIPE",
+    "description": "Veiculos da geracao c70-1 na Tabela FIPE.",
+    "h1": "Geracao c70-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/volvo/c70-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "volvo-c70-cabriolet-1999-gasolina",
+      "fipeCodigo": "029027-0",
+      "displayName": "Volvo C70 Cabriolet",
+      "valorAtual": 32416,
+      "canonicalPath": "/fipe/volvo/c70-cabriolet-1999-029027-0/",
+      "ano": 1999,
+      "marca": "Volvo"
+    },
+    {
+      "vehicleId": "volvo-c70-cabriolet-2000-gasolina",
+      "fipeCodigo": "029027-0",
+      "displayName": "Volvo C70 Cabriolet",
+      "valorAtual": 35320,
+      "canonicalPath": "/fipe/volvo/c70-cabriolet-2000-029027-0/",
+      "ano": 2000,
+      "marca": "Volvo"
+    },
+    {
+      "vehicleId": "volvo-c70-cabriolet-2001-gasolina",
+      "fipeCodigo": "029027-0",
+      "displayName": "Volvo C70 Cabriolet",
+      "valorAtual": 38549,
+      "canonicalPath": "/fipe/volvo/c70-cabriolet-2001-029027-0/",
+      "ano": 2001,
+      "marca": "Volvo"
+    },
+    {
+      "vehicleId": "volvo-c70-cabriolet-2002-gasolina",
+      "fipeCodigo": "029027-0",
+      "displayName": "Volvo C70 Cabriolet",
+      "valorAtual": 39637,
+      "canonicalPath": "/fipe/volvo/c70-cabriolet-2002-029027-0/",
+      "ano": 2002,
+      "marca": "Volvo"
+    },
+    {
+      "vehicleId": "volvo-c70-cupe-1998-gasolina",
+      "fipeCodigo": "029007-6",
+      "displayName": "Volvo C70 Cupê",
+      "valorAtual": 29557,
+      "canonicalPath": "/fipe/volvo/c70-cupe-1998-029007-6/",
+      "ano": 1998,
+      "marca": "Volvo"
+    },
+    {
+      "vehicleId": "volvo-c70-cupe-1999-gasolina",
+      "fipeCodigo": "029007-6",
+      "displayName": "Volvo C70 Cupê",
+      "valorAtual": 30296,
+      "canonicalPath": "/fipe/volvo/c70-cupe-1999-029007-6/",
+      "ano": 1999,
+      "marca": "Volvo"
+    },
+    {
+      "vehicleId": "volvo-c70-cupe-2000-gasolina",
+      "fipeCodigo": "029007-6",
+      "displayName": "Volvo C70 Cupê",
+      "valorAtual": 31054,
+      "canonicalPath": "/fipe/volvo/c70-cupe-2000-029007-6/",
+      "ano": 2000,
+      "marca": "Volvo"
+    },
+    {
+      "vehicleId": "volvo-c70-cupe-2001-gasolina",
+      "fipeCodigo": "029007-6",
+      "displayName": "Volvo C70 Cupê",
+      "valorAtual": 37934,
+      "canonicalPath": "/fipe/volvo/c70-cupe-2001-029007-6/",
+      "ano": 2001,
+      "marca": "Volvo"
+    },
+    {
+      "vehicleId": "volvo-c70-cupe-2002-gasolina",
+      "fipeCodigo": "029007-6",
+      "displayName": "Volvo C70 Cupê",
+      "valorAtual": 38883,
+      "canonicalPath": "/fipe/volvo/c70-cupe-2002-029007-6/",
+      "ano": 2002,
+      "marca": "Volvo"
+    }
+  ],
+  "stats": {
+    "total": 9
+  },
+  "meta": {
+    "geracaoId": "c70-1"
+  }
+}

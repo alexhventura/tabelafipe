@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "296-1",
+  "canonicalPath": "/geracao/ferrari/296-1/",
+  "titulo": "Geracao 296-1",
+  "descricao": "2 veiculos da geracao 296-1.",
+  "seo": {
+    "title": "Geracao 296-1 - Precos FIPE",
+    "description": "Veiculos da geracao 296-1 na Tabela FIPE.",
+    "h1": "Geracao 296-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/ferrari/296-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "ferrari-296-gtb-hibrido-0-hibrido",
+      "fipeCodigo": "031054-9",
+      "displayName": "Ferrari 296 GTB (Hibrido)",
+      "valorAtual": 4308000,
+      "canonicalPath": "/fipe/ferrari/296-gtb-hibrido-0-031054-9/",
+      "ano": 0,
+      "marca": "Ferrari"
+    },
+    {
+      "vehicleId": "ferrari-296-gts-hibrido-0-hibrido",
+      "fipeCodigo": "031055-7",
+      "displayName": "Ferrari 296 GTS (Híbrido)",
+      "valorAtual": 4737450,
+      "canonicalPath": "/fipe/ferrari/296-gts-hibrido-0-031055-7/",
+      "ano": 0,
+      "marca": "Ferrari"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "296-1"
+  }
+}

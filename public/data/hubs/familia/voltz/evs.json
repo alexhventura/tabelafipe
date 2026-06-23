@@ -1,0 +1,52 @@
+{
+  "tipo": "familia",
+  "slug": "evs",
+  "canonicalPath": "/fipe/voltz/evs/",
+  "titulo": "VOLTZ evs - Tabela FIPE",
+  "descricao": "3 versoes e anos do VOLTZ evs na Tabela FIPE.",
+  "seo": {
+    "title": "VOLTZ evs - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes VOLTZ evs. 3 veiculos indexados.",
+    "h1": "VOLTZ evs - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/voltz/evs/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "voltz-evs-3000w-eletrica-2023-eletrico",
+      "fipeCodigo": "889002-1",
+      "displayName": "VOLTZ EVS 3000W (elétrica)",
+      "valorAtual": 13413,
+      "canonicalPath": "/fipe/voltz/evs-3000w-eletrica-2023-889002-1/",
+      "ano": 2023,
+      "marca": "VOLTZ"
+    },
+    {
+      "vehicleId": "voltz-evs-3000w-eletrica-2022-eletrico",
+      "fipeCodigo": "889002-1",
+      "displayName": "VOLTZ EVS 3000W (elétrica)",
+      "valorAtual": 13023,
+      "canonicalPath": "/fipe/voltz/evs-3000w-eletrica-2022-889002-1/",
+      "ano": 2022,
+      "marca": "VOLTZ"
+    },
+    {
+      "vehicleId": "voltz-evs-3000w-eletrica-2021-eletrico",
+      "fipeCodigo": "889002-1",
+      "displayName": "VOLTZ EVS 3000W (elétrica)",
+      "valorAtual": 12041,
+      "canonicalPath": "/fipe/voltz/evs-3000w-eletrica-2021-889002-1/",
+      "ano": 2021,
+      "marca": "VOLTZ"
+    }
+  ],
+  "stats": {
+    "total": 3,
+    "precoMin": 12041,
+    "precoMax": 13413,
+    "anos": [
+      2023,
+      2022,
+      2021
+    ]
+  }
+}

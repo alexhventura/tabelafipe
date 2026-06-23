@@ -1,0 +1,120 @@
+{
+  "tipo": "geracao",
+  "slug": "legend-1",
+  "canonicalPath": "/geracao/acura/legend-1/",
+  "titulo": "Geracao legend-1",
+  "descricao": "11 veiculos da geracao legend-1.",
+  "seo": {
+    "title": "Geracao legend-1 - Precos FIPE",
+    "description": "Veiculos da geracao legend-1 na Tabela FIPE.",
+    "h1": "Geracao legend-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/acura/legend-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "acura-legend-3-2-3-5-1991-gasolina",
+      "fipeCodigo": "038002-4",
+      "displayName": "Acura Legend 3.2/3.5",
+      "valorAtual": 13864,
+      "canonicalPath": "/fipe/acura/legend-3-2-3-5-1991-038002-4/",
+      "ano": 1991,
+      "marca": "Acura"
+    },
+    {
+      "vehicleId": "acura-legend-3-2-3-5-1992-gasolina",
+      "fipeCodigo": "038002-4",
+      "displayName": "Acura Legend 3.2/3.5",
+      "valorAtual": 14431,
+      "canonicalPath": "/fipe/acura/legend-3-2-3-5-1992-038002-4/",
+      "ano": 1992,
+      "marca": "Acura"
+    },
+    {
+      "vehicleId": "acura-legend-3-2-3-5-1993-gasolina",
+      "fipeCodigo": "038002-4",
+      "displayName": "Acura Legend 3.2/3.5",
+      "valorAtual": 15874,
+      "canonicalPath": "/fipe/acura/legend-3-2-3-5-1993-038002-4/",
+      "ano": 1993,
+      "marca": "Acura"
+    },
+    {
+      "vehicleId": "acura-legend-3-2-3-5-1994-gasolina",
+      "fipeCodigo": "038002-4",
+      "displayName": "Acura Legend 3.2/3.5",
+      "valorAtual": 17810,
+      "canonicalPath": "/fipe/acura/legend-3-2-3-5-1994-038002-4/",
+      "ano": 1994,
+      "marca": "Acura"
+    },
+    {
+      "vehicleId": "acura-legend-3-2-3-5-1995-gasolina",
+      "fipeCodigo": "038002-4",
+      "displayName": "Acura Legend 3.2/3.5",
+      "valorAtual": 18608,
+      "canonicalPath": "/fipe/acura/legend-3-2-3-5-1995-038002-4/",
+      "ano": 1995,
+      "marca": "Acura"
+    },
+    {
+      "vehicleId": "acura-legend-3-2-3-5-1996-gasolina",
+      "fipeCodigo": "038002-4",
+      "displayName": "Acura Legend 3.2/3.5",
+      "valorAtual": 20705,
+      "canonicalPath": "/fipe/acura/legend-3-2-3-5-1996-038002-4/",
+      "ano": 1996,
+      "marca": "Acura"
+    },
+    {
+      "vehicleId": "acura-legend-3-2-3-5-1997-gasolina",
+      "fipeCodigo": "038002-4",
+      "displayName": "Acura Legend 3.2/3.5",
+      "valorAtual": 22020,
+      "canonicalPath": "/fipe/acura/legend-3-2-3-5-1997-038002-4/",
+      "ano": 1997,
+      "marca": "Acura"
+    },
+    {
+      "vehicleId": "acura-legend-3-2-3-5-1998-gasolina",
+      "fipeCodigo": "038002-4",
+      "displayName": "Acura Legend 3.2/3.5",
+      "valorAtual": 24766,
+      "canonicalPath": "/fipe/acura/legend-3-2-3-5-1998-038002-4/",
+      "ano": 1998,
+      "marca": "Acura"
+    },
+    {
+      "vehicleId": "triumph-legend-900-1999-gasolina",
+      "fipeCodigo": "826006-0",
+      "displayName": "TRIUMPH LEGEND 900",
+      "valorAtual": 13506,
+      "canonicalPath": "/fipe/triumph/legend-900-1999-826006-0/",
+      "ano": 1999,
+      "marca": "TRIUMPH"
+    },
+    {
+      "vehicleId": "triumph-legend-900-2000-gasolina",
+      "fipeCodigo": "826006-0",
+      "displayName": "TRIUMPH LEGEND 900",
+      "valorAtual": 13887,
+      "canonicalPath": "/fipe/triumph/legend-900-2000-826006-0/",
+      "ano": 2000,
+      "marca": "TRIUMPH"
+    },
+    {
+      "vehicleId": "triumph-legend-900-2001-gasolina",
+      "fipeCodigo": "826006-0",
+      "displayName": "TRIUMPH LEGEND 900",
+      "valorAtual": 15964,
+      "canonicalPath": "/fipe/triumph/legend-900-2001-826006-0/",
+      "ano": 2001,
+      "marca": "TRIUMPH"
+    }
+  ],
+  "stats": {
+    "total": 11
+  },
+  "meta": {
+    "geracaoId": "legend-1"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "tipo": "geracao",
+  "slug": "vantage-3",
+  "canonicalPath": "/geracao/aston-martin/vantage-3/",
+  "titulo": "Geracao vantage-3",
+  "descricao": "4 veiculos da geracao vantage-3.",
+  "seo": {
+    "title": "Geracao vantage-3 - Precos FIPE",
+    "description": "Veiculos da geracao vantage-3 na Tabela FIPE.",
+    "h1": "Geracao vantage-3",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/aston-martin/vantage-3/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "aston-martin-vantage-coupe-4-7-v8-425cv-2014-gasolina",
+      "fipeCodigo": "085002-0",
+      "displayName": "ASTON MARTIN Vantage Coupe 4.7 V8 425cv",
+      "valorAtual": 624045,
+      "canonicalPath": "/fipe/aston-martin/vantage-coupe-4-7-v8-425cv-2014-085002-0/",
+      "ano": 2014,
+      "marca": "ASTON MARTIN"
+    },
+    {
+      "vehicleId": "aston-martin-vantage-coupe-4-7-v8-425cv-2016-gasolina",
+      "fipeCodigo": "085002-0",
+      "displayName": "ASTON MARTIN Vantage Coupe 4.7 V8 425cv",
+      "valorAtual": 641471,
+      "canonicalPath": "/fipe/aston-martin/vantage-coupe-4-7-v8-425cv-2016-085002-0/",
+      "ano": 2016,
+      "marca": "ASTON MARTIN"
+    },
+    {
+      "vehicleId": "aston-martin-vantage-s-6-0-v12-565cv-2015-gasolina",
+      "fipeCodigo": "085008-0",
+      "displayName": "ASTON MARTIN Vantage S 6.0 V12 565cv",
+      "valorAtual": 902696,
+      "canonicalPath": "/fipe/aston-martin/vantage-s-6-0-v12-565cv-2015-085008-0/",
+      "ano": 2015,
+      "marca": "ASTON MARTIN"
+    },
+    {
+      "vehicleId": "aston-martin-vantage-s-6-0-v12-565cv-2016-gasolina",
+      "fipeCodigo": "085008-0",
+      "displayName": "ASTON MARTIN Vantage S 6.0 V12 565cv",
+      "valorAtual": 1117688,
+      "canonicalPath": "/fipe/aston-martin/vantage-s-6-0-v12-565cv-2016-085008-0/",
+      "ano": 2016,
+      "marca": "ASTON MARTIN"
+    }
+  ],
+  "stats": {
+    "total": 4
+  },
+  "meta": {
+    "geracaoId": "vantage-3"
+  }
+}

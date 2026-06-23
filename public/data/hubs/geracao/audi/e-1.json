@@ -1,0 +1,543 @@
+{
+  "tipo": "geracao",
+  "slug": "e-1",
+  "canonicalPath": "/geracao/audi/e-1/",
+  "titulo": "Geracao e-1",
+  "descricao": "58 veiculos da geracao e-1.",
+  "seo": {
+    "title": "Geracao e-1 - Precos FIPE",
+    "description": "Veiculos da geracao e-1 na Tabela FIPE.",
+    "h1": "Geracao e-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/audi/e-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "audi-e-tron-gt-aut-eletrico-0-eletrico",
+      "fipeCodigo": "008295-3",
+      "displayName": "Audi E-TRON GT Aut. (Elétrico)",
+      "valorAtual": 701784,
+      "canonicalPath": "/fipe/audi/e-tron-gt-aut-eletrico-0-008295-3/",
+      "ano": 0,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "citroen-e-jumpy-cargo-136cv-eletrico-2022-eletrico",
+      "fipeCodigo": "011218-6",
+      "displayName": "Citroën Ë-Jumpy Cargo 136cv (Elétrico)",
+      "valorAtual": 181255,
+      "canonicalPath": "/fipe/citroen/e-jumpy-cargo-136cv-eletrico-2022-011218-6/",
+      "ano": 2022,
+      "marca": "Citroën"
+    },
+    {
+      "vehicleId": "citroen-e-jumpy-cargo-136cv-eletrico-2023-eletrico",
+      "fipeCodigo": "011218-6",
+      "displayName": "Citroën Ë-Jumpy Cargo 136cv (Elétrico)",
+      "valorAtual": 192423,
+      "canonicalPath": "/fipe/citroen/e-jumpy-cargo-136cv-eletrico-2023-011218-6/",
+      "ano": 2023,
+      "marca": "Citroën"
+    },
+    {
+      "vehicleId": "fiat-e-scudo-eletrico-0-eletrico",
+      "fipeCodigo": "001560-1",
+      "displayName": "Fiat E-Scudo (Elétrico)",
+      "valorAtual": 313692,
+      "canonicalPath": "/fipe/fiat/e-scudo-eletrico-0-001560-1/",
+      "ano": 0,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "ford-e-transit-furgao-longo-teto-alto-eletrico-0-eletrico",
+      "fipeCodigo": "003514-9",
+      "displayName": "Ford E-TRANSIT Furgão Longo Teto Alto (Elétrico)",
+      "valorAtual": 579979,
+      "canonicalPath": "/fipe/ford/e-transit-furgao-longo-teto-alto-eletrico-0-003514-9/",
+      "ano": 0,
+      "marca": "Ford"
+    },
+    {
+      "vehicleId": "hitech-electric-e-work-ec31-bau-38-7kw-0-eletrico",
+      "fipeCodigo": "091018-0",
+      "displayName": "HITECH ELECTRIC E-Work EC31 Baú 38,7kW",
+      "valorAtual": 228420,
+      "canonicalPath": "/fipe/hitech-electric/e-work-ec31-bau-38-7kw-0-091018-0/",
+      "ano": 0,
+      "marca": "HITECH ELECTRIC"
+    },
+    {
+      "vehicleId": "hitech-electric-e-work-ec31-cabine-chassi-38-7kw-0-eletrico",
+      "fipeCodigo": "091016-3",
+      "displayName": "HITECH ELECTRIC E-Work EC31 Cabine Chassi 38,7kW",
+      "valorAtual": 204420,
+      "canonicalPath": "/fipe/hitech-electric/e-work-ec31-cabine-chassi-38-7kw-0-091016-3/",
+      "ano": 0,
+      "marca": "HITECH ELECTRIC"
+    },
+    {
+      "vehicleId": "hitech-electric-e-work-ec31-cacamba-38-7kw-0-eletrico",
+      "fipeCodigo": "091017-1",
+      "displayName": "HITECH ELECTRIC E-Work EC31 Caçamba 38,7kW",
+      "valorAtual": 219420,
+      "canonicalPath": "/fipe/hitech-electric/e-work-ec31-cacamba-38-7kw-0-091017-1/",
+      "ano": 0,
+      "marca": "HITECH ELECTRIC"
+    },
+    {
+      "vehicleId": "hitech-electric-e-work-ec31-refrigerado-38-7kw-0-eletrico",
+      "fipeCodigo": "091019-8",
+      "displayName": "HITECH ELECTRIC E-Work EC31 Refrigerado 38,7kW",
+      "valorAtual": 249420,
+      "canonicalPath": "/fipe/hitech-electric/e-work-ec31-refrigerado-38-7kw-0-091019-8/",
+      "ano": 0,
+      "marca": "HITECH ELECTRIC"
+    },
+    {
+      "vehicleId": "hitech-electric-e-work-ec35-van-38-7kw-0-eletrico",
+      "fipeCodigo": "091020-1",
+      "displayName": "HITECH ELECTRIC E-Work EC35 Van 38,7kW",
+      "valorAtual": 239420,
+      "canonicalPath": "/fipe/hitech-electric/e-work-ec35-van-38-7kw-0-091020-1/",
+      "ano": 0,
+      "marca": "HITECH ELECTRIC"
+    },
+    {
+      "vehicleId": "hitech-electric-e-co-cargo-15-7kwh-eletrico-0-eletrico",
+      "fipeCodigo": "091010-4",
+      "displayName": "HITECH ELECTRIC e.co Cargo 15.7kWh (Elétrico)",
+      "valorAtual": 159490,
+      "canonicalPath": "/fipe/hitech-electric/e-co-cargo-15-7kwh-eletrico-0-091010-4/",
+      "ano": 0,
+      "marca": "HITECH ELECTRIC"
+    },
+    {
+      "vehicleId": "hitech-electric-e-co-delivery-15-7kwh-eletrico-0-eletrico",
+      "fipeCodigo": "091008-2",
+      "displayName": "HITECH ELECTRIC e.co Delivery 15,7kWh (Elétrico)",
+      "valorAtual": 139990,
+      "canonicalPath": "/fipe/hitech-electric/e-co-delivery-15-7kwh-eletrico-0-091008-2/",
+      "ano": 0,
+      "marca": "HITECH ELECTRIC"
+    },
+    {
+      "vehicleId": "hitech-electric-e-co-delivery-7-7kwh-eletrico-0-eletrico",
+      "fipeCodigo": "091007-4",
+      "displayName": "HITECH ELECTRIC e.co Delivery 7,7kWh (Elétrico)",
+      "valorAtual": 129945,
+      "canonicalPath": "/fipe/hitech-electric/e-co-delivery-7-7kwh-eletrico-0-091007-4/",
+      "ano": 0,
+      "marca": "HITECH ELECTRIC"
+    },
+    {
+      "vehicleId": "hitech-electric-e-co-truck-15-7kwh-eletrico-0-eletrico",
+      "fipeCodigo": "091009-0",
+      "displayName": "HITECH ELECTRIC e.co Truck 15,7kWh (Elétrico)",
+      "valorAtual": 158075,
+      "canonicalPath": "/fipe/hitech-electric/e-co-truck-15-7kwh-eletrico-0-091009-0/",
+      "ano": 0,
+      "marca": "HITECH ELECTRIC"
+    },
+    {
+      "vehicleId": "hitech-electric-e-cocargo-31-4-kw-eletrico-0-eletrico",
+      "fipeCodigo": "091011-2",
+      "displayName": "HITECH ELECTRIC e.coCargo 31,4 kW (Elétrico)",
+      "valorAtual": 205785,
+      "canonicalPath": "/fipe/hitech-electric/e-cocargo-31-4-kw-eletrico-0-091011-2/",
+      "ano": 0,
+      "marca": "HITECH ELECTRIC"
+    },
+    {
+      "vehicleId": "hitech-electric-e-cotruck-31-4-kw-eletrico-0-eletrico",
+      "fipeCodigo": "091012-0",
+      "displayName": "HITECH ELECTRIC e.coTruck 31,4 kW (Elétrico)",
+      "valorAtual": 200200,
+      "canonicalPath": "/fipe/hitech-electric/e-cotruck-31-4-kw-eletrico-0-091012-0/",
+      "ano": 0,
+      "marca": "HITECH ELECTRIC"
+    },
+    {
+      "vehicleId": "jac-e-j7-193cv-5p-aut-eletrico-0-eletrico",
+      "fipeCodigo": "080035-0",
+      "displayName": "JAC E-J7 193cv 5p Aut. (Elétrico)",
+      "valorAtual": 259900,
+      "canonicalPath": "/fipe/jac/e-j7-193cv-5p-aut-eletrico-0-080035-0/",
+      "ano": 0,
+      "marca": "JAC"
+    },
+    {
+      "vehicleId": "jac-e-js1-city-cargo-aut-eletrico-0-eletrico",
+      "fipeCodigo": "080040-6",
+      "displayName": "JAC E-JS1 City Cargo Aut. (Elétrico)",
+      "valorAtual": 130900,
+      "canonicalPath": "/fipe/jac/e-js1-city-cargo-aut-eletrico-0-080040-6/",
+      "ano": 0,
+      "marca": "JAC"
+    },
+    {
+      "vehicleId": "jac-e-jt-12-5-eletrico-0-eletrico",
+      "fipeCodigo": "525005-6",
+      "displayName": "JAC E-JT 12,5 (Elétrico)",
+      "valorAtual": 729900,
+      "canonicalPath": "/fipe/jac/e-jt-12-5-eletrico-0-525005-6/",
+      "ano": 0,
+      "marca": "JAC"
+    },
+    {
+      "vehicleId": "jac-e-jt-18-eletrico-0-eletrico",
+      "fipeCodigo": "525007-2",
+      "displayName": "JAC E-JT 18 (Elétrico)",
+      "valorAtual": 1295000,
+      "canonicalPath": "/fipe/jac/e-jt-18-eletrico-0-525007-2/",
+      "ano": 0,
+      "marca": "JAC"
+    },
+    {
+      "vehicleId": "jac-e-jt-9-5-eletrico-0-eletrico",
+      "fipeCodigo": "525006-4",
+      "displayName": "JAC E-JT 9,5 (Elétrico)",
+      "valorAtual": 559900,
+      "canonicalPath": "/fipe/jac/e-jt-9-5-eletrico-0-525006-4/",
+      "ano": 0,
+      "marca": "JAC"
+    },
+    {
+      "vehicleId": "jac-e-jt3-5-aut-0-eletrico",
+      "fipeCodigo": "080044-9",
+      "displayName": "JAC E-JT3.5 Aut.",
+      "valorAtual": 299945,
+      "canonicalPath": "/fipe/jac/e-jt3-5-aut-0-080044-9/",
+      "ano": 0,
+      "marca": "JAC"
+    },
+    {
+      "vehicleId": "jac-e-jv-cc-aut-eletrico-0-eletrico",
+      "fipeCodigo": "080038-4",
+      "displayName": "JAC E-JV CC Aut. (Elétrico)",
+      "valorAtual": 479500,
+      "canonicalPath": "/fipe/jac/e-jv-cc-aut-eletrico-0-080038-4/",
+      "ano": 0,
+      "marca": "JAC"
+    },
+    {
+      "vehicleId": "jac-e-jv12-aut-eletrico-0-eletrico",
+      "fipeCodigo": "080037-6",
+      "displayName": "JAC E-JV12 Aut. (Elétrico)",
+      "valorAtual": 489500,
+      "canonicalPath": "/fipe/jac/e-jv12-aut-eletrico-0-080037-6/",
+      "ano": 0,
+      "marca": "JAC"
+    },
+    {
+      "vehicleId": "jac-e-jv5-5-aut-eletrico-0-eletrico",
+      "fipeCodigo": "080036-8",
+      "displayName": "JAC E-JV5.5 Aut. (Elétrico)",
+      "valorAtual": 324950,
+      "canonicalPath": "/fipe/jac/e-jv5-5-aut-eletrico-0-080036-8/",
+      "ano": 0,
+      "marca": "JAC"
+    },
+    {
+      "vehicleId": "jac-e-jv7l-aut-eletrico-0-eletrico",
+      "fipeCodigo": "080039-2",
+      "displayName": "JAC E-JV7L Aut. (Elétrico)",
+      "valorAtual": 359900,
+      "canonicalPath": "/fipe/jac/e-jv7l-aut-eletrico-0-080039-2/",
+      "ano": 0,
+      "marca": "JAC"
+    },
+    {
+      "vehicleId": "jac-e-js1-62cv-5p-aut-eletrico-0-eletrico",
+      "fipeCodigo": "080031-7",
+      "displayName": "JAC e-JS1 62cv 5p Aut. (Elétrico)",
+      "valorAtual": 119520,
+      "canonicalPath": "/fipe/jac/e-js1-62cv-5p-aut-eletrico-0-080031-7/",
+      "ano": 0,
+      "marca": "JAC"
+    },
+    {
+      "vehicleId": "jac-e-js1-extreme-62cv-5p-aut-eletrico-0-eletrico",
+      "fipeCodigo": "080034-1",
+      "displayName": "JAC e-JS1 Extreme 62cv 5p Aut. (Elétrico)",
+      "valorAtual": 132400,
+      "canonicalPath": "/fipe/jac/e-js1-extreme-62cv-5p-aut-eletrico-0-080034-1/",
+      "ano": 0,
+      "marca": "JAC"
+    },
+    {
+      "vehicleId": "jac-e-js4-150cv-5p-aut-eletrico-0-eletrico",
+      "fipeCodigo": "080030-9",
+      "displayName": "JAC e-JS4 150CV 5p Aut. (Elétrico)",
+      "valorAtual": 254900,
+      "canonicalPath": "/fipe/jac/e-js4-150cv-5p-aut-eletrico-0-080030-9/",
+      "ano": 0,
+      "marca": "JAC"
+    },
+    {
+      "vehicleId": "jaguar-e-pace-2-0-awd-249cv-aut-flex-2018-gasolina",
+      "fipeCodigo": "016057-1",
+      "displayName": "Jaguar E-Pace 2.0 AWD 249cv Aut/Flex",
+      "valorAtual": 143607,
+      "canonicalPath": "/fipe/jaguar/e-pace-2-0-awd-249cv-aut-flex-2018-016057-1/",
+      "ano": 2018,
+      "marca": "Jaguar"
+    },
+    {
+      "vehicleId": "jaguar-e-pace-2-0-awd-249cv-aut-flex-2019-gasolina",
+      "fipeCodigo": "016057-1",
+      "displayName": "Jaguar E-Pace 2.0 AWD 249cv Aut/Flex",
+      "valorAtual": 158018,
+      "canonicalPath": "/fipe/jaguar/e-pace-2-0-awd-249cv-aut-flex-2019-016057-1/",
+      "ano": 2019,
+      "marca": "Jaguar"
+    },
+    {
+      "vehicleId": "jaguar-e-pace-2-0-awd-249cv-aut-flex-2020-gasolina",
+      "fipeCodigo": "016057-1",
+      "displayName": "Jaguar E-Pace 2.0 AWD 249cv Aut/Flex",
+      "valorAtual": 185333,
+      "canonicalPath": "/fipe/jaguar/e-pace-2-0-awd-249cv-aut-flex-2020-016057-1/",
+      "ano": 2020,
+      "marca": "Jaguar"
+    },
+    {
+      "vehicleId": "jaguar-e-pace-first-edition-2-0-awd-249cv-aut-2018-gasolina",
+      "fipeCodigo": "016060-1",
+      "displayName": "Jaguar E-Pace FIRST EDITION 2.0 AWD 249cv Aut.",
+      "valorAtual": 157699,
+      "canonicalPath": "/fipe/jaguar/e-pace-first-edition-2-0-awd-249cv-aut-2018-016060-1/",
+      "ano": 2018,
+      "marca": "Jaguar"
+    },
+    {
+      "vehicleId": "jaguar-e-pace-r-dyn-hse-2-0-awd-250cv-aut-flex-2024-flex",
+      "fipeCodigo": "016084-9",
+      "displayName": "Jaguar E-Pace R-Dyn. HSE 2.0 AWD 250cv Aut Flex",
+      "valorAtual": 362219,
+      "canonicalPath": "/fipe/jaguar/e-pace-r-dyn-hse-2-0-awd-250cv-aut-flex-2024-016084-9/",
+      "ano": 2024,
+      "marca": "Jaguar"
+    },
+    {
+      "vehicleId": "jaguar-e-pace-r-dyn-se-2-0-awd-250cv-aut-flex-2018-gasolina",
+      "fipeCodigo": "016068-7",
+      "displayName": "Jaguar E-Pace R-Dyn. SE 2.0 AWD 250cv Aut/Flex.",
+      "valorAtual": 156665,
+      "canonicalPath": "/fipe/jaguar/e-pace-r-dyn-se-2-0-awd-250cv-aut-flex-2018-016068-7/",
+      "ano": 2018,
+      "marca": "Jaguar"
+    },
+    {
+      "vehicleId": "jaguar-e-pace-r-dyn-se-2-0-awd-250cv-aut-flex-2019-gasolina",
+      "fipeCodigo": "016068-7",
+      "displayName": "Jaguar E-Pace R-Dyn. SE 2.0 AWD 250cv Aut/Flex.",
+      "valorAtual": 167770,
+      "canonicalPath": "/fipe/jaguar/e-pace-r-dyn-se-2-0-awd-250cv-aut-flex-2019-016068-7/",
+      "ano": 2019,
+      "marca": "Jaguar"
+    },
+    {
+      "vehicleId": "jaguar-e-pace-r-dyn-se-2-0-awd-250cv-aut-flex-2022-gasolina",
+      "fipeCodigo": "016068-7",
+      "displayName": "Jaguar E-Pace R-Dyn. SE 2.0 AWD 250cv Aut/Flex.",
+      "valorAtual": 257867,
+      "canonicalPath": "/fipe/jaguar/e-pace-r-dyn-se-2-0-awd-250cv-aut-flex-2022-016068-7/",
+      "ano": 2022,
+      "marca": "Jaguar"
+    },
+    {
+      "vehicleId": "jaguar-e-pace-r-dyn-se-2-0-awd-250cv-aut-flex-2023-gasolina",
+      "fipeCodigo": "016068-7",
+      "displayName": "Jaguar E-Pace R-Dyn. SE 2.0 AWD 250cv Aut/Flex.",
+      "valorAtual": 270239,
+      "canonicalPath": "/fipe/jaguar/e-pace-r-dyn-se-2-0-awd-250cv-aut-flex-2023-016068-7/",
+      "ano": 2023,
+      "marca": "Jaguar"
+    },
+    {
+      "vehicleId": "jaguar-e-pace-r-dynamic-hse-2-0-awd-300cv-aut-2018-gasolina",
+      "fipeCodigo": "016062-8",
+      "displayName": "Jaguar E-Pace R-Dynamic HSE 2.0 AWD 300cv Aut.",
+      "valorAtual": 171140,
+      "canonicalPath": "/fipe/jaguar/e-pace-r-dynamic-hse-2-0-awd-300cv-aut-2018-016062-8/",
+      "ano": 2018,
+      "marca": "Jaguar"
+    },
+    {
+      "vehicleId": "jaguar-e-pace-r-dynamic-s-2-0-awd-249cv-flex-2018-gasolina",
+      "fipeCodigo": "016058-0",
+      "displayName": "Jaguar E-Pace R-Dynamic S 2.0 AWD 249cv/ Flex",
+      "valorAtual": 154278,
+      "canonicalPath": "/fipe/jaguar/e-pace-r-dynamic-s-2-0-awd-249cv-flex-2018-016058-0/",
+      "ano": 2018,
+      "marca": "Jaguar"
+    },
+    {
+      "vehicleId": "jaguar-e-pace-r-dynamic-s-2-0-awd-249cv-flex-2019-gasolina",
+      "fipeCodigo": "016058-0",
+      "displayName": "Jaguar E-Pace R-Dynamic S 2.0 AWD 249cv/ Flex",
+      "valorAtual": 165950,
+      "canonicalPath": "/fipe/jaguar/e-pace-r-dynamic-s-2-0-awd-249cv-flex-2019-016058-0/",
+      "ano": 2019,
+      "marca": "Jaguar"
+    },
+    {
+      "vehicleId": "jaguar-e-pace-r-dynamic-s-2-0-awd-249cv-flex-2020-gasolina",
+      "fipeCodigo": "016058-0",
+      "displayName": "Jaguar E-Pace R-Dynamic S 2.0 AWD 249cv/ Flex",
+      "valorAtual": 176710,
+      "canonicalPath": "/fipe/jaguar/e-pace-r-dynamic-s-2-0-awd-249cv-flex-2020-016058-0/",
+      "ano": 2020,
+      "marca": "Jaguar"
+    },
+    {
+      "vehicleId": "jaguar-e-pace-r-dynamic-s-2-0-awd-249cv-flex-2021-gasolina",
+      "fipeCodigo": "016058-0",
+      "displayName": "Jaguar E-Pace R-Dynamic S 2.0 AWD 249cv/ Flex",
+      "valorAtual": 211319,
+      "canonicalPath": "/fipe/jaguar/e-pace-r-dynamic-s-2-0-awd-249cv-flex-2021-016058-0/",
+      "ano": 2021,
+      "marca": "Jaguar"
+    },
+    {
+      "vehicleId": "jaguar-e-pace-r-dynamic-s-2-0-awd-249cv-flex-2022-gasolina",
+      "fipeCodigo": "016058-0",
+      "displayName": "Jaguar E-Pace R-Dynamic S 2.0 AWD 249cv/ Flex",
+      "valorAtual": 250096,
+      "canonicalPath": "/fipe/jaguar/e-pace-r-dynamic-s-2-0-awd-249cv-flex-2022-016058-0/",
+      "ano": 2022,
+      "marca": "Jaguar"
+    },
+    {
+      "vehicleId": "jaguar-e-pace-r-dynamic-se-2-0-awd-300cv-aut-2018-gasolina",
+      "fipeCodigo": "016059-8",
+      "displayName": "Jaguar E-Pace R-Dynamic SE 2.0 AWD 300cv Aut.",
+      "valorAtual": 157178,
+      "canonicalPath": "/fipe/jaguar/e-pace-r-dynamic-se-2-0-awd-300cv-aut-2018-016059-8/",
+      "ano": 2018,
+      "marca": "Jaguar"
+    },
+    {
+      "vehicleId": "jaguar-e-pace-r-dynamic-se-2-0-awd-300cv-aut-2019-gasolina",
+      "fipeCodigo": "016059-8",
+      "displayName": "Jaguar E-Pace R-Dynamic SE 2.0 AWD 300cv Aut.",
+      "valorAtual": 170708,
+      "canonicalPath": "/fipe/jaguar/e-pace-r-dynamic-se-2-0-awd-300cv-aut-2019-016059-8/",
+      "ano": 2019,
+      "marca": "Jaguar"
+    },
+    {
+      "vehicleId": "jaguar-e-pace-r-dynamic-se-2-0-awd-300cv-aut-2020-gasolina",
+      "fipeCodigo": "016059-8",
+      "displayName": "Jaguar E-Pace R-Dynamic SE 2.0 AWD 300cv Aut.",
+      "valorAtual": 178808,
+      "canonicalPath": "/fipe/jaguar/e-pace-r-dynamic-se-2-0-awd-300cv-aut-2020-016059-8/",
+      "ano": 2020,
+      "marca": "Jaguar"
+    },
+    {
+      "vehicleId": "jaguar-e-pace-s-2-0-awd-249cv-flex-aut-2019-flex",
+      "fipeCodigo": "016071-7",
+      "displayName": "Jaguar E-Pace S 2.0 AWD 249cv Flex Aut.",
+      "valorAtual": 158738,
+      "canonicalPath": "/fipe/jaguar/e-pace-s-2-0-awd-249cv-flex-aut-2019-016071-7/",
+      "ano": 2019,
+      "marca": "Jaguar"
+    },
+    {
+      "vehicleId": "jaguar-e-pace-s-2-0-awd-249cv-flex-aut-2020-flex",
+      "fipeCodigo": "016071-7",
+      "displayName": "Jaguar E-Pace S 2.0 AWD 249cv Flex Aut.",
+      "valorAtual": 165520,
+      "canonicalPath": "/fipe/jaguar/e-pace-s-2-0-awd-249cv-flex-aut-2020-016071-7/",
+      "ano": 2020,
+      "marca": "Jaguar"
+    },
+    {
+      "vehicleId": "mercedes-benz-e-300-exclusive-2-0-tb-258cv-aut-hib-0-hibrido",
+      "fipeCodigo": "021525-2",
+      "displayName": "Mercedes-Benz E-300 Exclusive 2.0 TB 258cv Aut. (Híb.)",
+      "valorAtual": 623900,
+      "canonicalPath": "/fipe/mercedes-benz/e-300-exclusive-2-0-tb-258cv-aut-hib-0-021525-2/",
+      "ano": 0,
+      "marca": "Mercedes-Benz"
+    },
+    {
+      "vehicleId": "piaggio-e-cargo-eletrico-0-gasolina",
+      "fipeCodigo": "822048-4",
+      "displayName": "PIAGGIO E-Cargo (Elétrico)",
+      "valorAtual": 95990,
+      "canonicalPath": "/fipe/piaggio/e-cargo-eletrico-0-822048-4/",
+      "ano": 0,
+      "marca": "PIAGGIO"
+    },
+    {
+      "vehicleId": "piaggio-e-passenger-eletrico-0-gasolina",
+      "fipeCodigo": "822049-2",
+      "displayName": "PIAGGIO E-Passenger (Elétrico)",
+      "valorAtual": 109990,
+      "canonicalPath": "/fipe/piaggio/e-passenger-eletrico-0-822049-2/",
+      "ano": 0,
+      "marca": "PIAGGIO"
+    },
+    {
+      "vehicleId": "peugeot-e-expert-cargo-136cv-eletrico-2022-eletrico",
+      "fipeCodigo": "024258-6",
+      "displayName": "Peugeot E-Expert Cargo 136cv (Elétrico)",
+      "valorAtual": 143123,
+      "canonicalPath": "/fipe/peugeot/e-expert-cargo-136cv-eletrico-2022-024258-6/",
+      "ano": 2022,
+      "marca": "Peugeot"
+    },
+    {
+      "vehicleId": "peugeot-e-expert-cargo-136cv-eletrico-2023-eletrico",
+      "fipeCodigo": "024258-6",
+      "displayName": "Peugeot E-Expert Cargo 136cv (Elétrico)",
+      "valorAtual": 177413,
+      "canonicalPath": "/fipe/peugeot/e-expert-cargo-136cv-eletrico-2023-024258-6/",
+      "ano": 2023,
+      "marca": "Peugeot"
+    },
+    {
+      "vehicleId": "peugeot-e-2008-gt-5p-aut-eletrico-2023-eletrico",
+      "fipeCodigo": "024268-3",
+      "displayName": "Peugeot e-2008 GT 5p Aut. ( Elétrico)",
+      "valorAtual": 128223,
+      "canonicalPath": "/fipe/peugeot/e-2008-gt-5p-aut-eletrico-2023-024268-3/",
+      "ano": 2023,
+      "marca": "Peugeot"
+    },
+    {
+      "vehicleId": "peugeot-e-208-gt-5p-aut-eletrico-2022-eletrico",
+      "fipeCodigo": "024255-1",
+      "displayName": "Peugeot e-208 GT 5p Aut. (Elétrico)",
+      "valorAtual": 95014,
+      "canonicalPath": "/fipe/peugeot/e-208-gt-5p-aut-eletrico-2022-024255-1/",
+      "ano": 2022,
+      "marca": "Peugeot"
+    },
+    {
+      "vehicleId": "peugeot-e-208-gt-5p-aut-eletrico-2023-eletrico",
+      "fipeCodigo": "024255-1",
+      "displayName": "Peugeot e-208 GT 5p Aut. (Elétrico)",
+      "valorAtual": 97854,
+      "canonicalPath": "/fipe/peugeot/e-208-gt-5p-aut-eletrico-2023-024255-1/",
+      "ano": 2023,
+      "marca": "Peugeot"
+    },
+    {
+      "vehicleId": "zontes-e-350-0-gasolina",
+      "fipeCodigo": "895004-0",
+      "displayName": "ZONTES E 350",
+      "valorAtual": 39234,
+      "canonicalPath": "/fipe/zontes/e-350-0-895004-0/",
+      "ano": 0,
+      "marca": "ZONTES"
+    }
+  ],
+  "stats": {
+    "total": 58
+  },
+  "meta": {
+    "geracaoId": "e-1"
+  }
+}

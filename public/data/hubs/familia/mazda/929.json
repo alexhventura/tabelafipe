@@ -1,0 +1,62 @@
+{
+  "tipo": "familia",
+  "slug": "929",
+  "canonicalPath": "/fipe/mazda/929/",
+  "titulo": "Mazda 929 - Tabela FIPE",
+  "descricao": "4 versoes e anos do Mazda 929 na Tabela FIPE.",
+  "seo": {
+    "title": "Mazda 929 - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes Mazda 929. 4 veiculos indexados.",
+    "h1": "Mazda 929 - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/mazda/929/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "mazda-929-v6-aut-1995-gasolina",
+      "fipeCodigo": "020003-4",
+      "displayName": "Mazda 929 V6 Aut",
+      "valorAtual": 14702,
+      "canonicalPath": "/fipe/mazda/929-v6-aut-1995-020003-4/",
+      "ano": 1995,
+      "marca": "Mazda"
+    },
+    {
+      "vehicleId": "mazda-929-v6-aut-1994-gasolina",
+      "fipeCodigo": "020003-4",
+      "displayName": "Mazda 929 V6 Aut",
+      "valorAtual": 12737,
+      "canonicalPath": "/fipe/mazda/929-v6-aut-1994-020003-4/",
+      "ano": 1994,
+      "marca": "Mazda"
+    },
+    {
+      "vehicleId": "mazda-929-v6-aut-1993-gasolina",
+      "fipeCodigo": "020003-4",
+      "displayName": "Mazda 929 V6 Aut",
+      "valorAtual": 12426,
+      "canonicalPath": "/fipe/mazda/929-v6-aut-1993-020003-4/",
+      "ano": 1993,
+      "marca": "Mazda"
+    },
+    {
+      "vehicleId": "mazda-929-v6-aut-1992-gasolina",
+      "fipeCodigo": "020003-4",
+      "displayName": "Mazda 929 V6 Aut",
+      "valorAtual": 9804,
+      "canonicalPath": "/fipe/mazda/929-v6-aut-1992-020003-4/",
+      "ano": 1992,
+      "marca": "Mazda"
+    }
+  ],
+  "stats": {
+    "total": 4,
+    "precoMin": 9804,
+    "precoMax": 14702,
+    "anos": [
+      1995,
+      1994,
+      1993,
+      1992
+    ]
+  }
+}

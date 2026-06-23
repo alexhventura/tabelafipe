@@ -1,0 +1,108 @@
+{
+  "tipo": "familia",
+  "slug": "318ti",
+  "canonicalPath": "/fipe/bmw/318ti/",
+  "titulo": "BMW 318ti - Tabela FIPE",
+  "descricao": "9 versoes e anos do BMW 318ti na Tabela FIPE.",
+  "seo": {
+    "title": "BMW 318ti - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes BMW 318ti. 9 veiculos indexados.",
+    "h1": "BMW 318ti - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/bmw/318ti/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "bmw-318ti-tia-compact-1-9-16v-1999-gasolina",
+      "fipeCodigo": "009060-3",
+      "displayName": "BMW 318Ti/TiA Compact 1.9 16V",
+      "valorAtual": 36618,
+      "canonicalPath": "/fipe/bmw/318ti-tia-compact-1-9-16v-1999-009060-3/",
+      "ano": 1999,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-318ti-tia-compact-1-9-16v-1998-gasolina",
+      "fipeCodigo": "009060-3",
+      "displayName": "BMW 318Ti/TiA Compact 1.9 16V",
+      "valorAtual": 35724,
+      "canonicalPath": "/fipe/bmw/318ti-tia-compact-1-9-16v-1998-009060-3/",
+      "ano": 1998,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-318ti-compact-mec-1998-gasolina",
+      "fipeCodigo": "009003-4",
+      "displayName": "BMW 318Ti Compact Mec",
+      "valorAtual": 46583,
+      "canonicalPath": "/fipe/bmw/318ti-compact-mec-1998-009003-4/",
+      "ano": 1998,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-318ti-tia-compact-1-9-16v-1997-gasolina",
+      "fipeCodigo": "009060-3",
+      "displayName": "BMW 318Ti/TiA Compact 1.9 16V",
+      "valorAtual": 32461,
+      "canonicalPath": "/fipe/bmw/318ti-tia-compact-1-9-16v-1997-009060-3/",
+      "ano": 1997,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-318ti-compact-mec-1997-gasolina",
+      "fipeCodigo": "009003-4",
+      "displayName": "BMW 318Ti Compact Mec",
+      "valorAtual": 37678,
+      "canonicalPath": "/fipe/bmw/318ti-compact-mec-1997-009003-4/",
+      "ano": 1997,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-318ti-tia-compact-1-9-16v-1996-gasolina",
+      "fipeCodigo": "009060-3",
+      "displayName": "BMW 318Ti/TiA Compact 1.9 16V",
+      "valorAtual": 31669,
+      "canonicalPath": "/fipe/bmw/318ti-tia-compact-1-9-16v-1996-009060-3/",
+      "ano": 1996,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-318ti-compact-mec-1996-gasolina",
+      "fipeCodigo": "009003-4",
+      "displayName": "BMW 318Ti Compact Mec",
+      "valorAtual": 31889,
+      "canonicalPath": "/fipe/bmw/318ti-compact-mec-1996-009003-4/",
+      "ano": 1996,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-318ti-tia-compact-1-9-16v-1995-gasolina",
+      "fipeCodigo": "009060-3",
+      "displayName": "BMW 318Ti/TiA Compact 1.9 16V",
+      "valorAtual": 30896,
+      "canonicalPath": "/fipe/bmw/318ti-tia-compact-1-9-16v-1995-009060-3/",
+      "ano": 1995,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-318ti-compact-mec-1995-gasolina",
+      "fipeCodigo": "009003-4",
+      "displayName": "BMW 318Ti Compact Mec",
+      "valorAtual": 31111,
+      "canonicalPath": "/fipe/bmw/318ti-compact-mec-1995-009003-4/",
+      "ano": 1995,
+      "marca": "BMW"
+    }
+  ],
+  "stats": {
+    "total": 9,
+    "precoMin": 30896,
+    "precoMax": 46583,
+    "anos": [
+      1999,
+      1998,
+      1997,
+      1996,
+      1995
+    ]
+  }
+}

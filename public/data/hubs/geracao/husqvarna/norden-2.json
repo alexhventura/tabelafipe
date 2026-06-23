@@ -1,0 +1,66 @@
+{
+  "tipo": "geracao",
+  "slug": "norden-2",
+  "canonicalPath": "/geracao/husqvarna/norden-2/",
+  "titulo": "Geracao norden-2",
+  "descricao": "5 veiculos da geracao norden-2.",
+  "seo": {
+    "title": "Geracao norden-2 - Precos FIPE",
+    "description": "Veiculos da geracao norden-2 na Tabela FIPE.",
+    "h1": "Geracao norden-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/husqvarna/norden-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "husqvarna-norden-901-2022-gasolina",
+      "fipeCodigo": "812025-0",
+      "displayName": "HUSQVARNA NORDEN 901",
+      "valorAtual": 83224,
+      "canonicalPath": "/fipe/husqvarna/norden-901-2022-812025-0/",
+      "ano": 2022,
+      "marca": "HUSQVARNA"
+    },
+    {
+      "vehicleId": "husqvarna-norden-901-2023-gasolina",
+      "fipeCodigo": "812025-0",
+      "displayName": "HUSQVARNA NORDEN 901",
+      "valorAtual": 85912,
+      "canonicalPath": "/fipe/husqvarna/norden-901-2023-812025-0/",
+      "ano": 2023,
+      "marca": "HUSQVARNA"
+    },
+    {
+      "vehicleId": "husqvarna-norden-901-2024-gasolina",
+      "fipeCodigo": "812025-0",
+      "displayName": "HUSQVARNA NORDEN 901",
+      "valorAtual": 90917,
+      "canonicalPath": "/fipe/husqvarna/norden-901-2024-812025-0/",
+      "ano": 2024,
+      "marca": "HUSQVARNA"
+    },
+    {
+      "vehicleId": "husqvarna-norden-901-expedition-2023-gasolina",
+      "fipeCodigo": "812035-8",
+      "displayName": "HUSQVARNA NORDEN 901 Expedition",
+      "valorAtual": 88215,
+      "canonicalPath": "/fipe/husqvarna/norden-901-expedition-2023-812035-8/",
+      "ano": 2023,
+      "marca": "HUSQVARNA"
+    },
+    {
+      "vehicleId": "husqvarna-norden-901-expedition-2024-gasolina",
+      "fipeCodigo": "812035-8",
+      "displayName": "HUSQVARNA NORDEN 901 Expedition",
+      "valorAtual": 97100,
+      "canonicalPath": "/fipe/husqvarna/norden-901-expedition-2024-812035-8/",
+      "ano": 2024,
+      "marca": "HUSQVARNA"
+    }
+  ],
+  "stats": {
+    "total": 5
+  },
+  "meta": {
+    "geracaoId": "norden-2"
+  }
+}

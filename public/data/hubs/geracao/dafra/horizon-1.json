@@ -1,0 +1,129 @@
+{
+  "tipo": "geracao",
+  "slug": "horizon-1",
+  "canonicalPath": "/geracao/dafra/horizon-1/",
+  "titulo": "Geracao horizon-1",
+  "descricao": "12 veiculos da geracao horizon-1.",
+  "seo": {
+    "title": "Geracao horizon-1 - Precos FIPE",
+    "description": "Veiculos da geracao horizon-1 na Tabela FIPE.",
+    "h1": "Geracao horizon-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/dafra/horizon-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "dafra-horizon-150-2016-gasolina",
+      "fipeCodigo": "861021-5",
+      "displayName": "DAFRA HORIZON 150",
+      "valorAtual": 7110,
+      "canonicalPath": "/fipe/dafra/horizon-150-2016-861021-5/",
+      "ano": 2016,
+      "marca": "DAFRA"
+    },
+    {
+      "vehicleId": "dafra-horizon-150-2017-gasolina",
+      "fipeCodigo": "861021-5",
+      "displayName": "DAFRA HORIZON 150",
+      "valorAtual": 8193,
+      "canonicalPath": "/fipe/dafra/horizon-150-2017-861021-5/",
+      "ano": 2017,
+      "marca": "DAFRA"
+    },
+    {
+      "vehicleId": "dafra-horizon-150-2018-gasolina",
+      "fipeCodigo": "861021-5",
+      "displayName": "DAFRA HORIZON 150",
+      "valorAtual": 8527,
+      "canonicalPath": "/fipe/dafra/horizon-150-2018-861021-5/",
+      "ano": 2018,
+      "marca": "DAFRA"
+    },
+    {
+      "vehicleId": "dafra-horizon-150-2019-gasolina",
+      "fipeCodigo": "861021-5",
+      "displayName": "DAFRA HORIZON 150",
+      "valorAtual": 9944,
+      "canonicalPath": "/fipe/dafra/horizon-150-2019-861021-5/",
+      "ano": 2019,
+      "marca": "DAFRA"
+    },
+    {
+      "vehicleId": "dafra-horizon-150-2020-gasolina",
+      "fipeCodigo": "861021-5",
+      "displayName": "DAFRA HORIZON 150",
+      "valorAtual": 10198,
+      "canonicalPath": "/fipe/dafra/horizon-150-2020-861021-5/",
+      "ano": 2020,
+      "marca": "DAFRA"
+    },
+    {
+      "vehicleId": "dafra-horizon-150-2021-gasolina",
+      "fipeCodigo": "861021-5",
+      "displayName": "DAFRA HORIZON 150",
+      "valorAtual": 11096,
+      "canonicalPath": "/fipe/dafra/horizon-150-2021-861021-5/",
+      "ano": 2021,
+      "marca": "DAFRA"
+    },
+    {
+      "vehicleId": "dafra-horizon-150-2022-gasolina",
+      "fipeCodigo": "861021-5",
+      "displayName": "DAFRA HORIZON 150",
+      "valorAtual": 11374,
+      "canonicalPath": "/fipe/dafra/horizon-150-2022-861021-5/",
+      "ano": 2022,
+      "marca": "DAFRA"
+    },
+    {
+      "vehicleId": "dafra-horizon-250-2013-gasolina",
+      "fipeCodigo": "861018-5",
+      "displayName": "DAFRA HORIZON 250",
+      "valorAtual": 10644,
+      "canonicalPath": "/fipe/dafra/horizon-250-2013-861018-5/",
+      "ano": 2013,
+      "marca": "DAFRA"
+    },
+    {
+      "vehicleId": "dafra-horizon-250-2014-gasolina",
+      "fipeCodigo": "861018-5",
+      "displayName": "DAFRA HORIZON 250",
+      "valorAtual": 13768,
+      "canonicalPath": "/fipe/dafra/horizon-250-2014-861018-5/",
+      "ano": 2014,
+      "marca": "DAFRA"
+    },
+    {
+      "vehicleId": "dafra-horizon-250-2015-gasolina",
+      "fipeCodigo": "861018-5",
+      "displayName": "DAFRA HORIZON 250",
+      "valorAtual": 14113,
+      "canonicalPath": "/fipe/dafra/horizon-250-2015-861018-5/",
+      "ano": 2015,
+      "marca": "DAFRA"
+    },
+    {
+      "vehicleId": "dafra-horizon-250-2016-gasolina",
+      "fipeCodigo": "861018-5",
+      "displayName": "DAFRA HORIZON 250",
+      "valorAtual": 14466,
+      "canonicalPath": "/fipe/dafra/horizon-250-2016-861018-5/",
+      "ano": 2016,
+      "marca": "DAFRA"
+    },
+    {
+      "vehicleId": "dafra-horizon-250-2017-gasolina",
+      "fipeCodigo": "861018-5",
+      "displayName": "DAFRA HORIZON 250",
+      "valorAtual": 16448,
+      "canonicalPath": "/fipe/dafra/horizon-250-2017-861018-5/",
+      "ano": 2017,
+      "marca": "DAFRA"
+    }
+  ],
+  "stats": {
+    "total": 12
+  },
+  "meta": {
+    "geracaoId": "horizon-1"
+  }
+}

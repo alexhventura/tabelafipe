@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "duke-4",
+  "canonicalPath": "/geracao/ktm/duke-4/",
+  "titulo": "Geracao duke-4",
+  "descricao": "2 veiculos da geracao duke-4.",
+  "seo": {
+    "title": "Geracao duke-4 - Precos FIPE",
+    "description": "Veiculos da geracao duke-4 na Tabela FIPE.",
+    "h1": "Geracao duke-4",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/ktm/duke-4/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "ktm-duke-690-2009-gasolina",
+      "fipeCodigo": "818031-8",
+      "displayName": "KTM DUKE 690",
+      "valorAtual": 29547,
+      "canonicalPath": "/fipe/ktm/duke-690-2009-818031-8/",
+      "ano": 2009,
+      "marca": "KTM"
+    },
+    {
+      "vehicleId": "ktm-duke-690-2010-gasolina",
+      "fipeCodigo": "818031-8",
+      "displayName": "KTM DUKE 690",
+      "valorAtual": 35038,
+      "canonicalPath": "/fipe/ktm/duke-690-2010-818031-8/",
+      "ano": 2010,
+      "marca": "KTM"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "duke-4"
+  }
+}

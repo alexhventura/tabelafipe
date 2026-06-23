@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "et3-1",
+  "canonicalPath": "/geracao/byd/et3-1/",
+  "titulo": "Geracao et3-1",
+  "descricao": "2 veiculos da geracao et3-1.",
+  "seo": {
+    "title": "Geracao et3-1 - Precos FIPE",
+    "description": "Veiculos da geracao et3-1 na Tabela FIPE.",
+    "h1": "Geracao et3-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/byd/et3-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "byd-et3-eletrico-2022-eletrico",
+      "fipeCodigo": "095002-5",
+      "displayName": "BYD eT3  (Elétrico)",
+      "valorAtual": 160974,
+      "canonicalPath": "/fipe/byd/et3-eletrico-2022-095002-5/",
+      "ano": 2022,
+      "marca": "BYD"
+    },
+    {
+      "vehicleId": "byd-et3-eletrico-2023-eletrico",
+      "fipeCodigo": "095002-5",
+      "displayName": "BYD eT3  (Elétrico)",
+      "valorAtual": 165987,
+      "canonicalPath": "/fipe/byd/et3-eletrico-2023-095002-5/",
+      "ano": 2023,
+      "marca": "BYD"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "et3-1"
+  }
+}

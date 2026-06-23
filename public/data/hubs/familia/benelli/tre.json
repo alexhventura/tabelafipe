@@ -1,0 +1,69 @@
+{
+  "tipo": "familia",
+  "slug": "tre",
+  "canonicalPath": "/fipe/benelli/tre/",
+  "titulo": "Benelli tre - Tabela FIPE",
+  "descricao": "5 versoes e anos do Benelli tre na Tabela FIPE.",
+  "seo": {
+    "title": "Benelli tre - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes Benelli tre. 5 veiculos indexados.",
+    "h1": "Benelli tre - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/benelli/tre/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "benelli-tre-899-k-2014-gasolina",
+      "fipeCodigo": "870006-0",
+      "displayName": "Benelli TRE 899 K",
+      "valorAtual": 38921,
+      "canonicalPath": "/fipe/benelli/tre-899-k-2014-870006-0/",
+      "ano": 2014,
+      "marca": "Benelli"
+    },
+    {
+      "vehicleId": "benelli-tre-1130-k-2014-gasolina",
+      "fipeCodigo": "870003-6",
+      "displayName": "Benelli TRE 1130 K",
+      "valorAtual": 44670,
+      "canonicalPath": "/fipe/benelli/tre-1130-k-2014-870003-6/",
+      "ano": 2014,
+      "marca": "Benelli"
+    },
+    {
+      "vehicleId": "benelli-tre-1130-k-amazonas-2014-gasolina",
+      "fipeCodigo": "870004-4",
+      "displayName": "Benelli TRE 1130 K Amazonas",
+      "valorAtual": 49607,
+      "canonicalPath": "/fipe/benelli/tre-1130-k-amazonas-2014-870004-4/",
+      "ano": 2014,
+      "marca": "Benelli"
+    },
+    {
+      "vehicleId": "benelli-tre-1130-k-2008-gasolina",
+      "fipeCodigo": "870003-6",
+      "displayName": "Benelli TRE 1130 K",
+      "valorAtual": 29357,
+      "canonicalPath": "/fipe/benelli/tre-1130-k-2008-870003-6/",
+      "ano": 2008,
+      "marca": "Benelli"
+    },
+    {
+      "vehicleId": "benelli-tre-1130-k-amazonas-2008-gasolina",
+      "fipeCodigo": "870004-4",
+      "displayName": "Benelli TRE 1130 K Amazonas",
+      "valorAtual": 44056,
+      "canonicalPath": "/fipe/benelli/tre-1130-k-amazonas-2008-870004-4/",
+      "ano": 2008,
+      "marca": "Benelli"
+    }
+  ],
+  "stats": {
+    "total": 5,
+    "precoMin": 29357,
+    "precoMax": 49607,
+    "anos": [
+      2014,
+      2008
+    ]
+  }
+}

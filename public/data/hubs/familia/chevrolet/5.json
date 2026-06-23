@@ -1,0 +1,62 @@
+{
+  "tipo": "familia",
+  "slug": "5",
+  "canonicalPath": "/fipe/chevrolet/5/",
+  "titulo": "GMC 5 - Tabela FIPE",
+  "descricao": "4 versoes e anos do GMC 5 na Tabela FIPE.",
+  "seo": {
+    "title": "GMC 5 - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes GMC 5. 4 veiculos indexados.",
+    "h1": "GMC 5 - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/chevrolet/5/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "chevrolet-5-90-2p-diesel-2001-diesel",
+      "fipeCodigo": "505009-0",
+      "displayName": "GMC 5-90 2p (diesel)",
+      "valorAtual": 21877,
+      "canonicalPath": "/fipe/chevrolet/5-90-2p-diesel-2001-505009-0/",
+      "ano": 2001,
+      "marca": "GMC"
+    },
+    {
+      "vehicleId": "chevrolet-5-90-2p-diesel-2000-diesel",
+      "fipeCodigo": "505009-0",
+      "displayName": "GMC 5-90 2p (diesel)",
+      "valorAtual": 19663,
+      "canonicalPath": "/fipe/chevrolet/5-90-2p-diesel-2000-505009-0/",
+      "ano": 2000,
+      "marca": "GMC"
+    },
+    {
+      "vehicleId": "chevrolet-5-90-2p-diesel-1999-diesel",
+      "fipeCodigo": "505009-0",
+      "displayName": "GMC 5-90 2p (diesel)",
+      "valorAtual": 19183,
+      "canonicalPath": "/fipe/chevrolet/5-90-2p-diesel-1999-505009-0/",
+      "ano": 1999,
+      "marca": "GMC"
+    },
+    {
+      "vehicleId": "chevrolet-5-90-2p-diesel-1998-diesel",
+      "fipeCodigo": "505009-0",
+      "displayName": "GMC 5-90 2p (diesel)",
+      "valorAtual": 18531,
+      "canonicalPath": "/fipe/chevrolet/5-90-2p-diesel-1998-505009-0/",
+      "ano": 1998,
+      "marca": "GMC"
+    }
+  ],
+  "stats": {
+    "total": 4,
+    "precoMin": 18531,
+    "precoMax": 21877,
+    "anos": [
+      2001,
+      2000,
+      1999,
+      1998
+    ]
+  }
+}

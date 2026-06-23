@@ -1,0 +1,48 @@
+{
+  "tipo": "geracao",
+  "slug": "tsx-1",
+  "canonicalPath": "/geracao/super-soco/tsx-1/",
+  "titulo": "Geracao tsx-1",
+  "descricao": "3 veiculos da geracao tsx-1.",
+  "seo": {
+    "title": "Geracao tsx-1 - Precos FIPE",
+    "description": "Veiculos da geracao tsx-1 na Tabela FIPE.",
+    "h1": "Geracao tsx-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/super-soco/tsx-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "super-soco-tsx-3000w-eletrica-2020-eletrico",
+      "fipeCodigo": "891005-7",
+      "displayName": "SUPER SOCO TSX 3000W (Elétrica)",
+      "valorAtual": 17824,
+      "canonicalPath": "/fipe/super-soco/tsx-3000w-eletrica-2020-891005-7/",
+      "ano": 2020,
+      "marca": "SUPER SOCO"
+    },
+    {
+      "vehicleId": "super-soco-tsx-3000w-eletrica-2021-eletrico",
+      "fipeCodigo": "891005-7",
+      "displayName": "SUPER SOCO TSX 3000W (Elétrica)",
+      "valorAtual": 21850,
+      "canonicalPath": "/fipe/super-soco/tsx-3000w-eletrica-2021-891005-7/",
+      "ano": 2021,
+      "marca": "SUPER SOCO"
+    },
+    {
+      "vehicleId": "super-soco-tsx-3000w-eletrica-2022-eletrico",
+      "fipeCodigo": "891005-7",
+      "displayName": "SUPER SOCO TSX 3000W (Elétrica)",
+      "valorAtual": 22415,
+      "canonicalPath": "/fipe/super-soco/tsx-3000w-eletrica-2022-891005-7/",
+      "ano": 2022,
+      "marca": "SUPER SOCO"
+    }
+  ],
+  "stats": {
+    "total": 3
+  },
+  "meta": {
+    "geracaoId": "tsx-1"
+  }
+}

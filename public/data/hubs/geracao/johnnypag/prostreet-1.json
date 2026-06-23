@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "prostreet-1",
+  "canonicalPath": "/geracao/johnnypag/prostreet-1/",
+  "titulo": "Geracao prostreet-1",
+  "descricao": "2 veiculos da geracao prostreet-1.",
+  "seo": {
+    "title": "Geracao prostreet-1 - Precos FIPE",
+    "description": "Veiculos da geracao prostreet-1 na Tabela FIPE.",
+    "h1": "Geracao prostreet-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/johnnypag/prostreet-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "johnnypag-prostreet-300cc-2009-gasolina",
+      "fipeCodigo": "875001-7",
+      "displayName": "JOHNNYPAG PROSTREET 300cc",
+      "valorAtual": 7690,
+      "canonicalPath": "/fipe/johnnypag/prostreet-300cc-2009-875001-7/",
+      "ano": 2009,
+      "marca": "JOHNNYPAG"
+    },
+    {
+      "vehicleId": "johnnypag-prostreet-300cc-2010-gasolina",
+      "fipeCodigo": "875001-7",
+      "displayName": "JOHNNYPAG PROSTREET 300cc",
+      "valorAtual": 8435,
+      "canonicalPath": "/fipe/johnnypag/prostreet-300cc-2010-875001-7/",
+      "ano": 2010,
+      "marca": "JOHNNYPAG"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "prostreet-1"
+  }
+}

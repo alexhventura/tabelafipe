@@ -1,0 +1,120 @@
+{
+  "tipo": "geracao",
+  "slug": "ma-2",
+  "canonicalPath": "/geracao/mvk/ma-2/",
+  "titulo": "Geracao ma-2",
+  "descricao": "11 veiculos da geracao ma-2.",
+  "seo": {
+    "title": "Geracao ma-2 - Precos FIPE",
+    "description": "Veiculos da geracao ma-2 na Tabela FIPE.",
+    "h1": "Geracao ma-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/mvk/ma-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "mvk-ma-125-gy-2005-gasolina",
+      "fipeCodigo": "845004-8",
+      "displayName": "MVK MA 125-GY",
+      "valorAtual": 1691,
+      "canonicalPath": "/fipe/mvk/ma-125-gy-2005-845004-8/",
+      "ano": 2005,
+      "marca": "MVK"
+    },
+    {
+      "vehicleId": "mvk-ma-125-gy-2006-gasolina",
+      "fipeCodigo": "845004-8",
+      "displayName": "MVK MA 125-GY",
+      "valorAtual": 1832,
+      "canonicalPath": "/fipe/mvk/ma-125-gy-2006-845004-8/",
+      "ano": 2006,
+      "marca": "MVK"
+    },
+    {
+      "vehicleId": "mvk-ma-125-gy-2007-gasolina",
+      "fipeCodigo": "845004-8",
+      "displayName": "MVK MA 125-GY",
+      "valorAtual": 2026,
+      "canonicalPath": "/fipe/mvk/ma-125-gy-2007-845004-8/",
+      "ano": 2007,
+      "marca": "MVK"
+    },
+    {
+      "vehicleId": "mvk-ma-black-star-125-7-2005-gasolina",
+      "fipeCodigo": "845003-0",
+      "displayName": "MVK MA/ BLACK STAR 125-7",
+      "valorAtual": 1863,
+      "canonicalPath": "/fipe/mvk/ma-black-star-125-7-2005-845003-0/",
+      "ano": 2005,
+      "marca": "MVK"
+    },
+    {
+      "vehicleId": "mvk-ma-black-star-125-7-2006-gasolina",
+      "fipeCodigo": "845003-0",
+      "displayName": "MVK MA/ BLACK STAR 125-7",
+      "valorAtual": 2094,
+      "canonicalPath": "/fipe/mvk/ma-black-star-125-7-2006-845003-0/",
+      "ano": 2006,
+      "marca": "MVK"
+    },
+    {
+      "vehicleId": "mvk-ma-black-star-125-7-2007-gasolina",
+      "fipeCodigo": "845003-0",
+      "displayName": "MVK MA/ BLACK STAR 125-7",
+      "valorAtual": 2185,
+      "canonicalPath": "/fipe/mvk/ma-black-star-125-7-2007-845003-0/",
+      "ano": 2007,
+      "marca": "MVK"
+    },
+    {
+      "vehicleId": "mvk-ma-black-star-125-7-2008-gasolina",
+      "fipeCodigo": "845003-0",
+      "displayName": "MVK MA/ BLACK STAR 125-7",
+      "valorAtual": 2280,
+      "canonicalPath": "/fipe/mvk/ma-black-star-125-7-2008-845003-0/",
+      "ano": 2008,
+      "marca": "MVK"
+    },
+    {
+      "vehicleId": "mvk-ma-black-star-125-7-2009-gasolina",
+      "fipeCodigo": "845003-0",
+      "displayName": "MVK MA/ BLACK STAR 125-7",
+      "valorAtual": 2388,
+      "canonicalPath": "/fipe/mvk/ma-black-star-125-7-2009-845003-0/",
+      "ano": 2009,
+      "marca": "MVK"
+    },
+    {
+      "vehicleId": "mvk-ma-foxx-100-3-2005-gasolina",
+      "fipeCodigo": "845001-3",
+      "displayName": "MVK MA/ FOXX 100-3",
+      "valorAtual": 1526,
+      "canonicalPath": "/fipe/mvk/ma-foxx-100-3-2005-845001-3/",
+      "ano": 2005,
+      "marca": "MVK"
+    },
+    {
+      "vehicleId": "mvk-ma-foxx-100-3-2006-gasolina",
+      "fipeCodigo": "845001-3",
+      "displayName": "MVK MA/ FOXX 100-3",
+      "valorAtual": 1747,
+      "canonicalPath": "/fipe/mvk/ma-foxx-100-3-2006-845001-3/",
+      "ano": 2006,
+      "marca": "MVK"
+    },
+    {
+      "vehicleId": "mvk-ma-foxx-100-3-2007-gasolina",
+      "fipeCodigo": "845001-3",
+      "displayName": "MVK MA/ FOXX 100-3",
+      "valorAtual": 1967,
+      "canonicalPath": "/fipe/mvk/ma-foxx-100-3-2007-845001-3/",
+      "ano": 2007,
+      "marca": "MVK"
+    }
+  ],
+  "stats": {
+    "total": 11
+  },
+  "meta": {
+    "geracaoId": "ma-2"
+  }
+}

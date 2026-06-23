@@ -1,0 +1,84 @@
+{
+  "tipo": "geracao",
+  "slug": "corvette-1",
+  "canonicalPath": "/geracao/chevrolet/corvette-1/",
+  "titulo": "Geracao corvette-1",
+  "descricao": "7 veiculos da geracao corvette-1.",
+  "seo": {
+    "title": "Geracao corvette-1 - Precos FIPE",
+    "description": "Veiculos da geracao corvette-1 na Tabela FIPE.",
+    "h1": "Geracao corvette-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/chevrolet/corvette-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "chevrolet-corvette-5-7-6-0-6-2-conv-stingray-1991-gasolina",
+      "fipeCodigo": "004140-8",
+      "displayName": "GM - Chevrolet Corvette 5.7/ 6.0, 6.2 Conv./Stingray",
+      "valorAtual": 94369,
+      "canonicalPath": "/fipe/chevrolet/corvette-5-7-6-0-6-2-conv-stingray-1991-004140-8/",
+      "ano": 1991,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-corvette-5-7-6-0-6-2-conv-stingray-1995-gasolina",
+      "fipeCodigo": "004140-8",
+      "displayName": "GM - Chevrolet Corvette 5.7/ 6.0, 6.2 Conv./Stingray",
+      "valorAtual": 103899,
+      "canonicalPath": "/fipe/chevrolet/corvette-5-7-6-0-6-2-conv-stingray-1995-004140-8/",
+      "ano": 1995,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-corvette-5-7-6-0-6-2-targa-stingray-1991-gasolina",
+      "fipeCodigo": "004141-6",
+      "displayName": "GM - Chevrolet Corvette 5.7/ 6.0, 6.2 Targa/Stingray",
+      "valorAtual": 75088,
+      "canonicalPath": "/fipe/chevrolet/corvette-5-7-6-0-6-2-targa-stingray-1991-004141-6/",
+      "ano": 1991,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-corvette-5-7-6-0-6-2-targa-stingray-1992-gasolina",
+      "fipeCodigo": "004141-6",
+      "displayName": "GM - Chevrolet Corvette 5.7/ 6.0, 6.2 Targa/Stingray",
+      "valorAtual": 84786,
+      "canonicalPath": "/fipe/chevrolet/corvette-5-7-6-0-6-2-targa-stingray-1992-004141-6/",
+      "ano": 1992,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-corvette-5-7-6-0-6-2-targa-stingray-1993-gasolina",
+      "fipeCodigo": "004141-6",
+      "displayName": "GM - Chevrolet Corvette 5.7/ 6.0, 6.2 Targa/Stingray",
+      "valorAtual": 93262,
+      "canonicalPath": "/fipe/chevrolet/corvette-5-7-6-0-6-2-targa-stingray-1993-004141-6/",
+      "ano": 1993,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-corvette-5-7-6-0-6-2-targa-stingray-1994-gasolina",
+      "fipeCodigo": "004141-6",
+      "displayName": "GM - Chevrolet Corvette 5.7/ 6.0, 6.2 Targa/Stingray",
+      "valorAtual": 95594,
+      "canonicalPath": "/fipe/chevrolet/corvette-5-7-6-0-6-2-targa-stingray-1994-004141-6/",
+      "ano": 1994,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-corvette-5-7-6-0-6-2-targa-stingray-1995-gasolina",
+      "fipeCodigo": "004141-6",
+      "displayName": "GM - Chevrolet Corvette 5.7/ 6.0, 6.2 Targa/Stingray",
+      "valorAtual": 97984,
+      "canonicalPath": "/fipe/chevrolet/corvette-5-7-6-0-6-2-targa-stingray-1995-004141-6/",
+      "ano": 1995,
+      "marca": "GM - Chevrolet"
+    }
+  ],
+  "stats": {
+    "total": 7
+  },
+  "meta": {
+    "geracaoId": "corvette-1"
+  }
+}

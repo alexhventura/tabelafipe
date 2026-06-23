@@ -1,0 +1,79 @@
+{
+  "tipo": "familia",
+  "slug": "mx",
+  "canonicalPath": "/fipe/beta/mx/",
+  "titulo": "BETA mx - Tabela FIPE",
+  "descricao": "6 versoes e anos do BETA mx na Tabela FIPE.",
+  "seo": {
+    "title": "BETA mx - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes BETA mx. 6 veiculos indexados.",
+    "h1": "BETA mx - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/beta/mx/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "beta-mx-50-cross-50cc-2002-gasolina",
+      "fipeCodigo": "830001-1",
+      "displayName": "BETA MX-50 CROSS 50cc",
+      "valorAtual": 2351,
+      "canonicalPath": "/fipe/beta/mx-50-cross-50cc-2002-830001-1/",
+      "ano": 2002,
+      "marca": "BETA"
+    },
+    {
+      "vehicleId": "beta-mx-50-enduro-50cc-2002-gasolina",
+      "fipeCodigo": "830002-0",
+      "displayName": "BETA MX-50 ENDURO 50cc",
+      "valorAtual": 2648,
+      "canonicalPath": "/fipe/beta/mx-50-enduro-50cc-2002-830002-0/",
+      "ano": 2002,
+      "marca": "BETA"
+    },
+    {
+      "vehicleId": "beta-mx-50-cross-50cc-2001-gasolina",
+      "fipeCodigo": "830001-1",
+      "displayName": "BETA MX-50 CROSS 50cc",
+      "valorAtual": 2185,
+      "canonicalPath": "/fipe/beta/mx-50-cross-50cc-2001-830001-1/",
+      "ano": 2001,
+      "marca": "BETA"
+    },
+    {
+      "vehicleId": "beta-mx-50-enduro-50cc-2001-gasolina",
+      "fipeCodigo": "830002-0",
+      "displayName": "BETA MX-50 ENDURO 50cc",
+      "valorAtual": 2505,
+      "canonicalPath": "/fipe/beta/mx-50-enduro-50cc-2001-830002-0/",
+      "ano": 2001,
+      "marca": "BETA"
+    },
+    {
+      "vehicleId": "beta-mx-50-cross-50cc-2000-gasolina",
+      "fipeCodigo": "830001-1",
+      "displayName": "BETA MX-50 CROSS 50cc",
+      "valorAtual": 2103,
+      "canonicalPath": "/fipe/beta/mx-50-cross-50cc-2000-830001-1/",
+      "ano": 2000,
+      "marca": "BETA"
+    },
+    {
+      "vehicleId": "beta-mx-50-enduro-50cc-2000-gasolina",
+      "fipeCodigo": "830002-0",
+      "displayName": "BETA MX-50 ENDURO 50cc",
+      "valorAtual": 2411,
+      "canonicalPath": "/fipe/beta/mx-50-enduro-50cc-2000-830002-0/",
+      "ano": 2000,
+      "marca": "BETA"
+    }
+  ],
+  "stats": {
+    "total": 6,
+    "precoMin": 2103,
+    "precoMax": 2648,
+    "anos": [
+      2002,
+      2001,
+      2000
+    ]
+  }
+}

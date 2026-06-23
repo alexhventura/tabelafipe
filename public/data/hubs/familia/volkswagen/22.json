@@ -1,0 +1,117 @@
+{
+  "tipo": "familia",
+  "slug": "22",
+  "canonicalPath": "/fipe/volkswagen/22/",
+  "titulo": "VOLKSWAGEN 22 - Tabela FIPE",
+  "descricao": "10 versoes e anos do VOLKSWAGEN 22 na Tabela FIPE.",
+  "seo": {
+    "title": "VOLKSWAGEN 22 - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes VOLKSWAGEN 22. 10 veiculos indexados.",
+    "h1": "VOLKSWAGEN 22 - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/volkswagen/22/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "volkswagen-22-140-3-eixos-2p-diesel-1990-diesel",
+      "fipeCodigo": "515047-7",
+      "displayName": "VOLKSWAGEN 22-140 3-Eixos 2p (diesel)",
+      "valorAtual": 28788,
+      "canonicalPath": "/fipe/volkswagen/22-140-3-eixos-2p-diesel-1990-515047-7/",
+      "ano": 1990,
+      "marca": "VOLKSWAGEN"
+    },
+    {
+      "vehicleId": "volkswagen-22-140-3-eixos-2p-diesel-1989-diesel",
+      "fipeCodigo": "515047-7",
+      "displayName": "VOLKSWAGEN 22-140 3-Eixos 2p (diesel)",
+      "valorAtual": 25195,
+      "canonicalPath": "/fipe/volkswagen/22-140-3-eixos-2p-diesel-1989-515047-7/",
+      "ano": 1989,
+      "marca": "VOLKSWAGEN"
+    },
+    {
+      "vehicleId": "volkswagen-22-160-3-eixos-2p-diesel-1989-diesel",
+      "fipeCodigo": "515048-5",
+      "displayName": "VOLKSWAGEN 22-160 3-Eixos 2p (diesel)",
+      "valorAtual": 30231,
+      "canonicalPath": "/fipe/volkswagen/22-160-3-eixos-2p-diesel-1989-515048-5/",
+      "ano": 1989,
+      "marca": "VOLKSWAGEN"
+    },
+    {
+      "vehicleId": "volkswagen-22-140-3-eixos-2p-diesel-1988-diesel",
+      "fipeCodigo": "515047-7",
+      "displayName": "VOLKSWAGEN 22-140 3-Eixos 2p (diesel)",
+      "valorAtual": 24580,
+      "canonicalPath": "/fipe/volkswagen/22-140-3-eixos-2p-diesel-1988-515047-7/",
+      "ano": 1988,
+      "marca": "VOLKSWAGEN"
+    },
+    {
+      "vehicleId": "volkswagen-22-160-3-eixos-2p-diesel-1988-diesel",
+      "fipeCodigo": "515048-5",
+      "displayName": "VOLKSWAGEN 22-160 3-Eixos 2p (diesel)",
+      "valorAtual": 27518,
+      "canonicalPath": "/fipe/volkswagen/22-160-3-eixos-2p-diesel-1988-515048-5/",
+      "ano": 1988,
+      "marca": "VOLKSWAGEN"
+    },
+    {
+      "vehicleId": "volkswagen-22-210-h-3-eixos-2p-diesel-1988-diesel",
+      "fipeCodigo": "515049-3",
+      "displayName": "VOLKSWAGEN 22-210 H 3-Eixos 2p (diesel)",
+      "valorAtual": 29593,
+      "canonicalPath": "/fipe/volkswagen/22-210-h-3-eixos-2p-diesel-1988-515049-3/",
+      "ano": 1988,
+      "marca": "VOLKSWAGEN"
+    },
+    {
+      "vehicleId": "volkswagen-22-140-3-eixos-2p-diesel-1987-diesel",
+      "fipeCodigo": "515047-7",
+      "displayName": "VOLKSWAGEN 22-140 3-Eixos 2p (diesel)",
+      "valorAtual": 23648,
+      "canonicalPath": "/fipe/volkswagen/22-140-3-eixos-2p-diesel-1987-515047-7/",
+      "ano": 1987,
+      "marca": "VOLKSWAGEN"
+    },
+    {
+      "vehicleId": "volkswagen-22-160-3-eixos-2p-diesel-1987-diesel",
+      "fipeCodigo": "515048-5",
+      "displayName": "VOLKSWAGEN 22-160 3-Eixos 2p (diesel)",
+      "valorAtual": 26075,
+      "canonicalPath": "/fipe/volkswagen/22-160-3-eixos-2p-diesel-1987-515048-5/",
+      "ano": 1987,
+      "marca": "VOLKSWAGEN"
+    },
+    {
+      "vehicleId": "volkswagen-22-140-3-eixos-2p-diesel-1986-diesel",
+      "fipeCodigo": "515047-7",
+      "displayName": "VOLKSWAGEN 22-140 3-Eixos 2p (diesel)",
+      "valorAtual": 20555,
+      "canonicalPath": "/fipe/volkswagen/22-140-3-eixos-2p-diesel-1986-515047-7/",
+      "ano": 1986,
+      "marca": "VOLKSWAGEN"
+    },
+    {
+      "vehicleId": "volkswagen-22-160-3-eixos-2p-diesel-1986-diesel",
+      "fipeCodigo": "515048-5",
+      "displayName": "VOLKSWAGEN 22-160 3-Eixos 2p (diesel)",
+      "valorAtual": 22113,
+      "canonicalPath": "/fipe/volkswagen/22-160-3-eixos-2p-diesel-1986-515048-5/",
+      "ano": 1986,
+      "marca": "VOLKSWAGEN"
+    }
+  ],
+  "stats": {
+    "total": 10,
+    "precoMin": 20555,
+    "precoMax": 30231,
+    "anos": [
+      1990,
+      1989,
+      1988,
+      1987,
+      1986
+    ]
+  }
+}

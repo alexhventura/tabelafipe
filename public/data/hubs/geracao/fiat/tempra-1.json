@@ -1,0 +1,399 @@
+{
+  "tipo": "geracao",
+  "slug": "tempra-1",
+  "canonicalPath": "/geracao/fiat/tempra-1/",
+  "titulo": "Geracao tempra-1",
+  "descricao": "42 veiculos da geracao tempra-1.",
+  "seo": {
+    "title": "Geracao tempra-1 - Precos FIPE",
+    "description": "Veiculos da geracao tempra-1 na Tabela FIPE.",
+    "h1": "Geracao tempra-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/fiat/tempra-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "fiat-tempra-2-0-i-e-16v-2p-e-4p-1994-gasolina",
+      "fipeCodigo": "001037-5",
+      "displayName": "Fiat Tempra 2.0 i.e 16V 2p e 4p",
+      "valorAtual": 8333,
+      "canonicalPath": "/fipe/fiat/tempra-2-0-i-e-16v-2p-e-4p-1994-001037-5/",
+      "ano": 1994,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-tempra-2-0-i-e-16v-2p-e-4p-1995-etanol",
+      "fipeCodigo": "001037-5",
+      "displayName": "Fiat Tempra 2.0 i.e 16V 2p e 4p",
+      "valorAtual": 7236,
+      "canonicalPath": "/fipe/fiat/tempra-2-0-i-e-16v-2p-e-4p-1995-001037-5/",
+      "ano": 1995,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-tempra-2-0-i-e-16v-2p-e-4p-1995-gasolina",
+      "fipeCodigo": "001037-5",
+      "displayName": "Fiat Tempra 2.0 i.e 16V 2p e 4p",
+      "valorAtual": 9398,
+      "canonicalPath": "/fipe/fiat/tempra-2-0-i-e-16v-2p-e-4p-1995-001037-5/",
+      "ano": 1995,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-tempra-2-0-i-e-16v-2p-e-4p-1996-etanol",
+      "fipeCodigo": "001037-5",
+      "displayName": "Fiat Tempra 2.0 i.e 16V 2p e 4p",
+      "valorAtual": 8415,
+      "canonicalPath": "/fipe/fiat/tempra-2-0-i-e-16v-2p-e-4p-1996-001037-5/",
+      "ano": 1996,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-tempra-2-0-i-e-16v-2p-e-4p-1996-gasolina",
+      "fipeCodigo": "001037-5",
+      "displayName": "Fiat Tempra 2.0 i.e 16V 2p e 4p",
+      "valorAtual": 11583,
+      "canonicalPath": "/fipe/fiat/tempra-2-0-i-e-16v-2p-e-4p-1996-001037-5/",
+      "ano": 1996,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-tempra-2-0-i-e-8v-2p-e-4p-1994-gasolina",
+      "fipeCodigo": "001092-8",
+      "displayName": "Fiat Tempra 2.0 i.e. 8V 2p e 4p",
+      "valorAtual": 7283,
+      "canonicalPath": "/fipe/fiat/tempra-2-0-i-e-8v-2p-e-4p-1994-001092-8/",
+      "ano": 1994,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-tempra-2-0-i-e-8v-2p-e-4p-1995-etanol",
+      "fipeCodigo": "001092-8",
+      "displayName": "Fiat Tempra 2.0 i.e. 8V 2p e 4p",
+      "valorAtual": 6406,
+      "canonicalPath": "/fipe/fiat/tempra-2-0-i-e-8v-2p-e-4p-1995-001092-8/",
+      "ano": 1995,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-tempra-2-0-i-e-8v-2p-e-4p-1995-gasolina",
+      "fipeCodigo": "001092-8",
+      "displayName": "Fiat Tempra 2.0 i.e. 8V 2p e 4p",
+      "valorAtual": 9375,
+      "canonicalPath": "/fipe/fiat/tempra-2-0-i-e-8v-2p-e-4p-1995-001092-8/",
+      "ano": 1995,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-tempra-2-0-i-e-8v-2p-e-4p-1996-gasolina",
+      "fipeCodigo": "001092-8",
+      "displayName": "Fiat Tempra 2.0 i.e. 8V 2p e 4p",
+      "valorAtual": 11106,
+      "canonicalPath": "/fipe/fiat/tempra-2-0-i-e-8v-2p-e-4p-1996-001092-8/",
+      "ano": 1996,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-tempra-2-0-i-e-8v-2p-e-4p-1996-etanol",
+      "fipeCodigo": "001092-8",
+      "displayName": "Fiat Tempra 2.0 i.e. 8V 2p e 4p",
+      "valorAtual": 7430,
+      "canonicalPath": "/fipe/fiat/tempra-2-0-i-e-8v-2p-e-4p-1996-001092-8/",
+      "ano": 1996,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-tempra-2-0-mpi-16v-1999-gasolina",
+      "fipeCodigo": "001093-6",
+      "displayName": "Fiat Tempra 2.0 mpi 16V",
+      "valorAtual": 9059,
+      "canonicalPath": "/fipe/fiat/tempra-2-0-mpi-16v-1999-001093-6/",
+      "ano": 1999,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-tempra-8v-city-8v-1999-gasolina",
+      "fipeCodigo": "001102-9",
+      "displayName": "Fiat Tempra 8V/ City 8V",
+      "valorAtual": 8302,
+      "canonicalPath": "/fipe/fiat/tempra-8v-city-8v-1999-001102-9/",
+      "ano": 1999,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-tempra-hlx-2-0-16v-4p-1996-gasolina",
+      "fipeCodigo": "001042-1",
+      "displayName": "Fiat Tempra HLX 2.0 16V 4p",
+      "valorAtual": 9785,
+      "canonicalPath": "/fipe/fiat/tempra-hlx-2-0-16v-4p-1996-001042-1/",
+      "ano": 1996,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-tempra-hlx-2-0-16v-4p-1997-gasolina",
+      "fipeCodigo": "001042-1",
+      "displayName": "Fiat Tempra HLX 2.0 16V 4p",
+      "valorAtual": 11083,
+      "canonicalPath": "/fipe/fiat/tempra-hlx-2-0-16v-4p-1997-001042-1/",
+      "ano": 1997,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-tempra-hlx-2-0-16v-4p-1998-gasolina",
+      "fipeCodigo": "001042-1",
+      "displayName": "Fiat Tempra HLX 2.0 16V 4p",
+      "valorAtual": 11361,
+      "canonicalPath": "/fipe/fiat/tempra-hlx-2-0-16v-4p-1998-001042-1/",
+      "ano": 1998,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-tempra-hlx-2-0-16v-4p-1999-gasolina",
+      "fipeCodigo": "001042-1",
+      "displayName": "Fiat Tempra HLX 2.0 16V 4p",
+      "valorAtual": 11923,
+      "canonicalPath": "/fipe/fiat/tempra-hlx-2-0-16v-4p-1999-001042-1/",
+      "ano": 1999,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-tempra-ouro-16v-2p-e-4p-1993-gasolina",
+      "fipeCodigo": "001040-5",
+      "displayName": "Fiat Tempra Ouro 16V 2p e 4p",
+      "valorAtual": 7453,
+      "canonicalPath": "/fipe/fiat/tempra-ouro-16v-2p-e-4p-1993-001040-5/",
+      "ano": 1993,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-tempra-ouro-16v-2p-e-4p-1994-gasolina",
+      "fipeCodigo": "001040-5",
+      "displayName": "Fiat Tempra Ouro 16V 2p e 4p",
+      "valorAtual": 8626,
+      "canonicalPath": "/fipe/fiat/tempra-ouro-16v-2p-e-4p-1994-001040-5/",
+      "ano": 1994,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-tempra-ouro-16v-2p-e-4p-1995-etanol",
+      "fipeCodigo": "001040-5",
+      "displayName": "Fiat Tempra Ouro 16V 2p e 4p",
+      "valorAtual": 6408,
+      "canonicalPath": "/fipe/fiat/tempra-ouro-16v-2p-e-4p-1995-001040-5/",
+      "ano": 1995,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-tempra-ouro-16v-2p-e-4p-1995-gasolina",
+      "fipeCodigo": "001040-5",
+      "displayName": "Fiat Tempra Ouro 16V 2p e 4p",
+      "valorAtual": 9178,
+      "canonicalPath": "/fipe/fiat/tempra-ouro-16v-2p-e-4p-1995-001040-5/",
+      "ano": 1995,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-tempra-ouro-16v-2p-e-4p-1996-gasolina",
+      "fipeCodigo": "001040-5",
+      "displayName": "Fiat Tempra Ouro 16V 2p e 4p",
+      "valorAtual": 9696,
+      "canonicalPath": "/fipe/fiat/tempra-ouro-16v-2p-e-4p-1996-001040-5/",
+      "ano": 1996,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-tempra-ouro-prata-2-0-2p-e-4p-1992-gasolina",
+      "fipeCodigo": "001038-3",
+      "displayName": "Fiat Tempra Ouro/Prata 2.0 2p e 4p",
+      "valorAtual": 6301,
+      "canonicalPath": "/fipe/fiat/tempra-ouro-prata-2-0-2p-e-4p-1992-001038-3/",
+      "ano": 1992,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-tempra-ouro-prata-2-0-2p-e-4p-1993-gasolina",
+      "fipeCodigo": "001038-3",
+      "displayName": "Fiat Tempra Ouro/Prata 2.0 2p e 4p",
+      "valorAtual": 7419,
+      "canonicalPath": "/fipe/fiat/tempra-ouro-prata-2-0-2p-e-4p-1993-001038-3/",
+      "ano": 1993,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-tempra-ouro-prata-2-0-2p-e-4p-1994-gasolina",
+      "fipeCodigo": "001038-3",
+      "displayName": "Fiat Tempra Ouro/Prata 2.0 2p e 4p",
+      "valorAtual": 8882,
+      "canonicalPath": "/fipe/fiat/tempra-ouro-prata-2-0-2p-e-4p-1994-001038-3/",
+      "ano": 1994,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-tempra-sw-slx-2-0-i-e-1995-gasolina",
+      "fipeCodigo": "001058-8",
+      "displayName": "Fiat Tempra SW SLX 2.0 i.e.",
+      "valorAtual": 8689,
+      "canonicalPath": "/fipe/fiat/tempra-sw-slx-2-0-i-e-1995-001058-8/",
+      "ano": 1995,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-tempra-sw-slx-2-0-i-e-1996-gasolina",
+      "fipeCodigo": "001058-8",
+      "displayName": "Fiat Tempra SW SLX 2.0 i.e.",
+      "valorAtual": 8907,
+      "canonicalPath": "/fipe/fiat/tempra-sw-slx-2-0-i-e-1996-001058-8/",
+      "ano": 1996,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-tempra-sw-slx-2-0-i-e-1997-gasolina",
+      "fipeCodigo": "001058-8",
+      "displayName": "Fiat Tempra SW SLX 2.0 i.e.",
+      "valorAtual": 9384,
+      "canonicalPath": "/fipe/fiat/tempra-sw-slx-2-0-i-e-1997-001058-8/",
+      "ano": 1997,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-tempra-sx-2-0-16v-4p-1996-gasolina",
+      "fipeCodigo": "001041-3",
+      "displayName": "Fiat Tempra SX 2.0 16V 4p",
+      "valorAtual": 7491,
+      "canonicalPath": "/fipe/fiat/tempra-sx-2-0-16v-4p-1996-001041-3/",
+      "ano": 1996,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-tempra-sx-2-0-16v-4p-1997-gasolina",
+      "fipeCodigo": "001041-3",
+      "displayName": "Fiat Tempra SX 2.0 16V 4p",
+      "valorAtual": 10268,
+      "canonicalPath": "/fipe/fiat/tempra-sx-2-0-16v-4p-1997-001041-3/",
+      "ano": 1997,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-tempra-sx-2-0-16v-4p-1998-gasolina",
+      "fipeCodigo": "001041-3",
+      "displayName": "Fiat Tempra SX 2.0 16V 4p",
+      "valorAtual": 10525,
+      "canonicalPath": "/fipe/fiat/tempra-sx-2-0-16v-4p-1998-001041-3/",
+      "ano": 1998,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-tempra-sx-2-0-i-e-8v-4p-1996-gasolina",
+      "fipeCodigo": "001039-1",
+      "displayName": "Fiat Tempra SX 2.0 i.e. 8V 4p",
+      "valorAtual": 7212,
+      "canonicalPath": "/fipe/fiat/tempra-sx-2-0-i-e-8v-4p-1996-001039-1/",
+      "ano": 1996,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-tempra-sx-2-0-i-e-8v-4p-1997-gasolina",
+      "fipeCodigo": "001039-1",
+      "displayName": "Fiat Tempra SX 2.0 i.e. 8V 4p",
+      "valorAtual": 8456,
+      "canonicalPath": "/fipe/fiat/tempra-sx-2-0-i-e-8v-4p-1997-001039-1/",
+      "ano": 1997,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-tempra-sx-2-0-i-e-8v-4p-1998-gasolina",
+      "fipeCodigo": "001039-1",
+      "displayName": "Fiat Tempra SX 2.0 i.e. 8V 4p",
+      "valorAtual": 8816,
+      "canonicalPath": "/fipe/fiat/tempra-sx-2-0-i-e-8v-4p-1998-001039-1/",
+      "ano": 1998,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-tempra-sx-2-0-i-e-8v-4p-1999-gasolina",
+      "fipeCodigo": "001039-1",
+      "displayName": "Fiat Tempra SX 2.0 i.e. 8V 4p",
+      "valorAtual": 9739,
+      "canonicalPath": "/fipe/fiat/tempra-sx-2-0-i-e-8v-4p-1999-001039-1/",
+      "ano": 1999,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-tempra-stile-2-0-i-e-turbo-4p-1995-gasolina",
+      "fipeCodigo": "001044-8",
+      "displayName": "Fiat Tempra Stile 2.0 i.e. Turbo 4p",
+      "valorAtual": 13962,
+      "canonicalPath": "/fipe/fiat/tempra-stile-2-0-i-e-turbo-4p-1995-001044-8/",
+      "ano": 1995,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-tempra-stile-2-0-i-e-turbo-4p-1996-gasolina",
+      "fipeCodigo": "001044-8",
+      "displayName": "Fiat Tempra Stile 2.0 i.e. Turbo 4p",
+      "valorAtual": 14678,
+      "canonicalPath": "/fipe/fiat/tempra-stile-2-0-i-e-turbo-4p-1996-001044-8/",
+      "ano": 1996,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-tempra-stile-2-0-i-e-turbo-4p-1997-gasolina",
+      "fipeCodigo": "001044-8",
+      "displayName": "Fiat Tempra Stile 2.0 i.e. Turbo 4p",
+      "valorAtual": 15151,
+      "canonicalPath": "/fipe/fiat/tempra-stile-2-0-i-e-turbo-4p-1997-001044-8/",
+      "ano": 1997,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-tempra-stile-2-0-i-e-turbo-4p-1998-gasolina",
+      "fipeCodigo": "001044-8",
+      "displayName": "Fiat Tempra Stile 2.0 i.e. Turbo 4p",
+      "valorAtual": 15772,
+      "canonicalPath": "/fipe/fiat/tempra-stile-2-0-i-e-turbo-4p-1998-001044-8/",
+      "ano": 1998,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-tempra-turbo-2-0-i-e-2p-1994-gasolina",
+      "fipeCodigo": "001043-0",
+      "displayName": "Fiat Tempra Turbo 2.0 i.e. 2p",
+      "valorAtual": 9141,
+      "canonicalPath": "/fipe/fiat/tempra-turbo-2-0-i-e-2p-1994-001043-0/",
+      "ano": 1994,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-tempra-turbo-2-0-i-e-2p-1995-gasolina",
+      "fipeCodigo": "001043-0",
+      "displayName": "Fiat Tempra Turbo 2.0 i.e. 2p",
+      "valorAtual": 11760,
+      "canonicalPath": "/fipe/fiat/tempra-turbo-2-0-i-e-2p-1995-001043-0/",
+      "ano": 1995,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-tempra-turbo-2-0-i-e-2p-1996-gasolina",
+      "fipeCodigo": "001043-0",
+      "displayName": "Fiat Tempra Turbo 2.0 i.e. 2p",
+      "valorAtual": 12054,
+      "canonicalPath": "/fipe/fiat/tempra-turbo-2-0-i-e-2p-1996-001043-0/",
+      "ano": 1996,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-tempra-turbo-2-0-i-e-2p-1997-gasolina",
+      "fipeCodigo": "001043-0",
+      "displayName": "Fiat Tempra Turbo 2.0 i.e. 2p",
+      "valorAtual": 12356,
+      "canonicalPath": "/fipe/fiat/tempra-turbo-2-0-i-e-2p-1997-001043-0/",
+      "ano": 1997,
+      "marca": "Fiat"
+    }
+  ],
+  "stats": {
+    "total": 42
+  },
+  "meta": {
+    "geracaoId": "tempra-1"
+  }
+}

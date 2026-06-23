@@ -1,0 +1,111 @@
+{
+  "tipo": "geracao",
+  "slug": "1414-1",
+  "canonicalPath": "/geracao/mercedes-benz/1414-1/",
+  "titulo": "Geracao 1414-1",
+  "descricao": "10 veiculos da geracao 1414-1.",
+  "seo": {
+    "title": "Geracao 1414-1 - Precos FIPE",
+    "description": "Veiculos da geracao 1414-1 na Tabela FIPE.",
+    "h1": "Geracao 1414-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/mercedes-benz/1414-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "mercedes-benz-1414-2p-diesel-1990-diesel",
+      "fipeCodigo": "509008-3",
+      "displayName": "MERCEDES-BENZ 1414 2p (diesel)",
+      "valorAtual": 29383,
+      "canonicalPath": "/fipe/mercedes-benz/1414-2p-diesel-1990-509008-3/",
+      "ano": 1990,
+      "marca": "MERCEDES-BENZ"
+    },
+    {
+      "vehicleId": "mercedes-benz-1414-2p-diesel-1991-diesel",
+      "fipeCodigo": "509008-3",
+      "displayName": "MERCEDES-BENZ 1414 2p (diesel)",
+      "valorAtual": 30311,
+      "canonicalPath": "/fipe/mercedes-benz/1414-2p-diesel-1991-509008-3/",
+      "ano": 1991,
+      "marca": "MERCEDES-BENZ"
+    },
+    {
+      "vehicleId": "mercedes-benz-1414-2p-diesel-1992-diesel",
+      "fipeCodigo": "509008-3",
+      "displayName": "MERCEDES-BENZ 1414 2p (diesel)",
+      "valorAtual": 34336,
+      "canonicalPath": "/fipe/mercedes-benz/1414-2p-diesel-1992-509008-3/",
+      "ano": 1992,
+      "marca": "MERCEDES-BENZ"
+    },
+    {
+      "vehicleId": "mercedes-benz-1414-2p-diesel-1993-diesel",
+      "fipeCodigo": "509008-3",
+      "displayName": "MERCEDES-BENZ 1414 2p (diesel)",
+      "valorAtual": 41913,
+      "canonicalPath": "/fipe/mercedes-benz/1414-2p-diesel-1993-509008-3/",
+      "ano": 1993,
+      "marca": "MERCEDES-BENZ"
+    },
+    {
+      "vehicleId": "mercedes-benz-1414-2p-diesel-1994-diesel",
+      "fipeCodigo": "509008-3",
+      "displayName": "MERCEDES-BENZ 1414 2p (diesel)",
+      "valorAtual": 43885,
+      "canonicalPath": "/fipe/mercedes-benz/1414-2p-diesel-1994-509008-3/",
+      "ano": 1994,
+      "marca": "MERCEDES-BENZ"
+    },
+    {
+      "vehicleId": "mercedes-benz-1414-3-eixos-2p-diesel-1990-diesel",
+      "fipeCodigo": "509009-1",
+      "displayName": "MERCEDES-BENZ 1414 3-Eixos 2p (diesel)",
+      "valorAtual": 34930,
+      "canonicalPath": "/fipe/mercedes-benz/1414-3-eixos-2p-diesel-1990-509009-1/",
+      "ano": 1990,
+      "marca": "MERCEDES-BENZ"
+    },
+    {
+      "vehicleId": "mercedes-benz-1414-3-eixos-2p-diesel-1991-diesel",
+      "fipeCodigo": "509009-1",
+      "displayName": "MERCEDES-BENZ 1414 3-Eixos 2p (diesel)",
+      "valorAtual": 38722,
+      "canonicalPath": "/fipe/mercedes-benz/1414-3-eixos-2p-diesel-1991-509009-1/",
+      "ano": 1991,
+      "marca": "MERCEDES-BENZ"
+    },
+    {
+      "vehicleId": "mercedes-benz-1414-3-eixos-2p-diesel-1992-diesel",
+      "fipeCodigo": "509009-1",
+      "displayName": "MERCEDES-BENZ 1414 3-Eixos 2p (diesel)",
+      "valorAtual": 44440,
+      "canonicalPath": "/fipe/mercedes-benz/1414-3-eixos-2p-diesel-1992-509009-1/",
+      "ano": 1992,
+      "marca": "MERCEDES-BENZ"
+    },
+    {
+      "vehicleId": "mercedes-benz-1414-3-eixos-2p-diesel-1993-diesel",
+      "fipeCodigo": "509009-1",
+      "displayName": "MERCEDES-BENZ 1414 3-Eixos 2p (diesel)",
+      "valorAtual": 46352,
+      "canonicalPath": "/fipe/mercedes-benz/1414-3-eixos-2p-diesel-1993-509009-1/",
+      "ano": 1993,
+      "marca": "MERCEDES-BENZ"
+    },
+    {
+      "vehicleId": "mercedes-benz-1414-3-eixos-2p-diesel-1994-diesel",
+      "fipeCodigo": "509009-1",
+      "displayName": "MERCEDES-BENZ 1414 3-Eixos 2p (diesel)",
+      "valorAtual": 49376,
+      "canonicalPath": "/fipe/mercedes-benz/1414-3-eixos-2p-diesel-1994-509009-1/",
+      "ano": 1994,
+      "marca": "MERCEDES-BENZ"
+    }
+  ],
+  "stats": {
+    "total": 10
+  },
+  "meta": {
+    "geracaoId": "1414-1"
+  }
+}

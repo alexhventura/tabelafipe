@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "prince-1",
+  "canonicalPath": "/geracao/daewoo/prince-1/",
+  "titulo": "Geracao prince-1",
+  "descricao": "2 veiculos da geracao prince-1.",
+  "seo": {
+    "title": "Geracao prince-1 - Precos FIPE",
+    "description": "Veiculos da geracao prince-1 na Tabela FIPE.",
+    "h1": "Geracao prince-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/daewoo/prince-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "daewoo-prince-ace-2-0-1994-gasolina",
+      "fipeCodigo": "030002-0",
+      "displayName": "Daewoo Prince Ace 2.0",
+      "valorAtual": 4920,
+      "canonicalPath": "/fipe/daewoo/prince-ace-2-0-1994-030002-0/",
+      "ano": 1994,
+      "marca": "Daewoo"
+    },
+    {
+      "vehicleId": "daewoo-prince-ace-2-0-1995-gasolina",
+      "fipeCodigo": "030002-0",
+      "displayName": "Daewoo Prince Ace 2.0",
+      "valorAtual": 5243,
+      "canonicalPath": "/fipe/daewoo/prince-ace-2-0-1995-030002-0/",
+      "ano": 1995,
+      "marca": "Daewoo"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "prince-1"
+  }
+}

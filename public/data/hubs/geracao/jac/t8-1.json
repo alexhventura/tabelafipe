@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "t8-1",
+  "canonicalPath": "/geracao/jac/t8-1/",
+  "titulo": "Geracao t8-1",
+  "descricao": "2 veiculos da geracao t8-1.",
+  "seo": {
+    "title": "Geracao t8-1 - Precos FIPE",
+    "description": "Veiculos da geracao t8-1 na Tabela FIPE.",
+    "h1": "Geracao t8-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/jac/t8-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "jac-t8-2-0-16v-5p-mec-2013-gasolina",
+      "fipeCodigo": "080010-4",
+      "displayName": "JAC T8 2.0 16V 5p Mec.",
+      "valorAtual": 49743,
+      "canonicalPath": "/fipe/jac/t8-2-0-16v-5p-mec-2013-080010-4/",
+      "ano": 2013,
+      "marca": "JAC"
+    },
+    {
+      "vehicleId": "jac-t8-2-0-16v-5p-mec-2014-gasolina",
+      "fipeCodigo": "080010-4",
+      "displayName": "JAC T8 2.0 16V 5p Mec.",
+      "valorAtual": 67937,
+      "canonicalPath": "/fipe/jac/t8-2-0-16v-5p-mec-2014-080010-4/",
+      "ano": 2014,
+      "marca": "JAC"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "t8-1"
+  }
+}

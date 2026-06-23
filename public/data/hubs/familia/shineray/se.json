@@ -1,0 +1,127 @@
+{
+  "tipo": "familia",
+  "slug": "se",
+  "canonicalPath": "/fipe/shineray/se/",
+  "titulo": "SHINERAY se - Tabela FIPE",
+  "descricao": "11 versoes e anos do SHINERAY se na Tabela FIPE.",
+  "seo": {
+    "title": "SHINERAY se - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes SHINERAY se. 11 veiculos indexados.",
+    "h1": "SHINERAY se - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/shineray/se/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "shineray-se-1-2000w-eletrica-2025-eletrico",
+      "fipeCodigo": "850034-7",
+      "displayName": "SHINERAY SE-1 2000W (Elétrica)",
+      "valorAtual": 9669,
+      "canonicalPath": "/fipe/shineray/se-1-2000w-eletrica-2025-850034-7/",
+      "ano": 2025,
+      "marca": "SHINERAY"
+    },
+    {
+      "vehicleId": "shineray-se-2-2300w-eletrica-2025-eletrico",
+      "fipeCodigo": "850029-0",
+      "displayName": "SHINERAY SE-2 2300W (Elétrica)",
+      "valorAtual": 11191,
+      "canonicalPath": "/fipe/shineray/se-2-2300w-eletrica-2025-850029-0/",
+      "ano": 2025,
+      "marca": "SHINERAY"
+    },
+    {
+      "vehicleId": "shineray-se-1-2000w-eletrica-2024-eletrico",
+      "fipeCodigo": "850034-7",
+      "displayName": "SHINERAY SE-1 2000W (Elétrica)",
+      "valorAtual": 9379,
+      "canonicalPath": "/fipe/shineray/se-1-2000w-eletrica-2024-850034-7/",
+      "ano": 2024,
+      "marca": "SHINERAY"
+    },
+    {
+      "vehicleId": "shineray-se-2-2300w-eletrica-2024-eletrico",
+      "fipeCodigo": "850029-0",
+      "displayName": "SHINERAY SE-2 2300W (Elétrica)",
+      "valorAtual": 10009,
+      "canonicalPath": "/fipe/shineray/se-2-2300w-eletrica-2024-850029-0/",
+      "ano": 2024,
+      "marca": "SHINERAY"
+    },
+    {
+      "vehicleId": "shineray-se-1-2000w-eletrica-2023-eletrico",
+      "fipeCodigo": "850034-7",
+      "displayName": "SHINERAY SE-1 2000W (Elétrica)",
+      "valorAtual": 9047,
+      "canonicalPath": "/fipe/shineray/se-1-2000w-eletrica-2023-850034-7/",
+      "ano": 2023,
+      "marca": "SHINERAY"
+    },
+    {
+      "vehicleId": "shineray-se-2-2300w-eletrica-2023-eletrico",
+      "fipeCodigo": "850029-0",
+      "displayName": "SHINERAY SE-2 2300W (Elétrica)",
+      "valorAtual": 9736,
+      "canonicalPath": "/fipe/shineray/se-2-2300w-eletrica-2023-850029-0/",
+      "ano": 2023,
+      "marca": "SHINERAY"
+    },
+    {
+      "vehicleId": "shineray-se-1-2000w-eletrica-2022-eletrico",
+      "fipeCodigo": "850034-7",
+      "displayName": "SHINERAY SE-1 2000W (Elétrica)",
+      "valorAtual": 8314,
+      "canonicalPath": "/fipe/shineray/se-1-2000w-eletrica-2022-850034-7/",
+      "ano": 2022,
+      "marca": "SHINERAY"
+    },
+    {
+      "vehicleId": "shineray-se-2-2300w-eletrica-2022-eletrico",
+      "fipeCodigo": "850029-0",
+      "displayName": "SHINERAY SE-2 2300W (Elétrica)",
+      "valorAtual": 9426,
+      "canonicalPath": "/fipe/shineray/se-2-2300w-eletrica-2022-850029-0/",
+      "ano": 2022,
+      "marca": "SHINERAY"
+    },
+    {
+      "vehicleId": "shineray-se-2-2300w-eletrica-2021-eletrico",
+      "fipeCodigo": "850029-0",
+      "displayName": "SHINERAY SE-2 2300W (Elétrica)",
+      "valorAtual": 7848,
+      "canonicalPath": "/fipe/shineray/se-2-2300w-eletrica-2021-850029-0/",
+      "ano": 2021,
+      "marca": "SHINERAY"
+    },
+    {
+      "vehicleId": "shineray-se-1-2000w-eletrica-0-eletrico",
+      "fipeCodigo": "850034-7",
+      "displayName": "SHINERAY SE-1 2000W (Elétrica)",
+      "valorAtual": 12743,
+      "canonicalPath": "/fipe/shineray/se-1-2000w-eletrica-0-850034-7/",
+      "ano": 0,
+      "marca": "SHINERAY"
+    },
+    {
+      "vehicleId": "shineray-se-2-2300w-eletrica-0-eletrico",
+      "fipeCodigo": "850029-0",
+      "displayName": "SHINERAY SE-2 2300W (Elétrica)",
+      "valorAtual": 12834,
+      "canonicalPath": "/fipe/shineray/se-2-2300w-eletrica-0-850029-0/",
+      "ano": 0,
+      "marca": "SHINERAY"
+    }
+  ],
+  "stats": {
+    "total": 11,
+    "precoMin": 7848,
+    "precoMax": 12834,
+    "anos": [
+      2025,
+      2024,
+      2023,
+      2022,
+      2021,
+      0
+    ]
+  }
+}

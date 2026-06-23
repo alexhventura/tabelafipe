@@ -1,0 +1,42 @@
+{
+  "tipo": "familia",
+  "slug": "super",
+  "canonicalPath": "/fipe/ducati/super/",
+  "titulo": "DUCATI super - Tabela FIPE",
+  "descricao": "2 versoes e anos do DUCATI super na Tabela FIPE.",
+  "seo": {
+    "title": "DUCATI super - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes DUCATI super. 2 veiculos indexados.",
+    "h1": "DUCATI super - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/ducati/super/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "ducati-super-sport-s-937cc-2019-gasolina",
+      "fipeCodigo": "808078-0",
+      "displayName": "DUCATI SUPER SPORT S 937cc",
+      "valorAtual": 55772,
+      "canonicalPath": "/fipe/ducati/super-sport-s-937cc-2019-808078-0/",
+      "ano": 2019,
+      "marca": "DUCATI"
+    },
+    {
+      "vehicleId": "ducati-super-sport-s-937cc-2018-gasolina",
+      "fipeCodigo": "808078-0",
+      "displayName": "DUCATI SUPER SPORT S 937cc",
+      "valorAtual": 50889,
+      "canonicalPath": "/fipe/ducati/super-sport-s-937cc-2018-808078-0/",
+      "ano": 2018,
+      "marca": "DUCATI"
+    }
+  ],
+  "stats": {
+    "total": 2,
+    "precoMin": 50889,
+    "precoMax": 55772,
+    "anos": [
+      2019,
+      2018
+    ]
+  }
+}

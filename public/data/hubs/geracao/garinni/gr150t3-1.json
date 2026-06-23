@@ -1,0 +1,57 @@
+{
+  "tipo": "geracao",
+  "slug": "gr150t3-1",
+  "canonicalPath": "/geracao/garinni/gr150t3-1/",
+  "titulo": "Geracao gr150t3-1",
+  "descricao": "4 veiculos da geracao gr150t3-1.",
+  "seo": {
+    "title": "Geracao gr150t3-1 - Precos FIPE",
+    "description": "Veiculos da geracao gr150t3-1 na Tabela FIPE.",
+    "h1": "Geracao gr150t3-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/garinni/gr150t3-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "garinni-gr150t3-gr150ti-2006-gasolina",
+      "fipeCodigo": "847004-9",
+      "displayName": "GARINNI GR150T3/ GR150TI",
+      "valorAtual": 2046,
+      "canonicalPath": "/fipe/garinni/gr150t3-gr150ti-2006-847004-9/",
+      "ano": 2006,
+      "marca": "GARINNI"
+    },
+    {
+      "vehicleId": "garinni-gr150t3-gr150ti-2007-gasolina",
+      "fipeCodigo": "847004-9",
+      "displayName": "GARINNI GR150T3/ GR150TI",
+      "valorAtual": 2358,
+      "canonicalPath": "/fipe/garinni/gr150t3-gr150ti-2007-847004-9/",
+      "ano": 2007,
+      "marca": "GARINNI"
+    },
+    {
+      "vehicleId": "garinni-gr150t3-gr150ti-2008-gasolina",
+      "fipeCodigo": "847004-9",
+      "displayName": "GARINNI GR150T3/ GR150TI",
+      "valorAtual": 2594,
+      "canonicalPath": "/fipe/garinni/gr150t3-gr150ti-2008-847004-9/",
+      "ano": 2008,
+      "marca": "GARINNI"
+    },
+    {
+      "vehicleId": "garinni-gr150t3-gr150ti-2009-gasolina",
+      "fipeCodigo": "847004-9",
+      "displayName": "GARINNI GR150T3/ GR150TI",
+      "valorAtual": 2767,
+      "canonicalPath": "/fipe/garinni/gr150t3-gr150ti-2009-847004-9/",
+      "ano": 2009,
+      "marca": "GARINNI"
+    }
+  ],
+  "stats": {
+    "total": 4
+  },
+  "meta": {
+    "geracaoId": "gr150t3-1"
+  }
+}

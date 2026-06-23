@@ -1,0 +1,66 @@
+{
+  "tipo": "geracao",
+  "slug": "samara-1",
+  "canonicalPath": "/geracao/lada/samara-1/",
+  "titulo": "Geracao samara-1",
+  "descricao": "5 veiculos da geracao samara-1.",
+  "seo": {
+    "title": "Geracao samara-1 - Precos FIPE",
+    "description": "Veiculos da geracao samara-1 na Tabela FIPE.",
+    "h1": "Geracao samara-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/lada/samara-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "lada-samara-1-3-1-5-1991-gasolina",
+      "fipeCodigo": "019004-7",
+      "displayName": "Lada Samara 1.3/ 1.5",
+      "valorAtual": 2341,
+      "canonicalPath": "/fipe/lada/samara-1-3-1-5-1991-019004-7/",
+      "ano": 1991,
+      "marca": "Lada"
+    },
+    {
+      "vehicleId": "lada-samara-1-3-1-5-1992-gasolina",
+      "fipeCodigo": "019004-7",
+      "displayName": "Lada Samara 1.3/ 1.5",
+      "valorAtual": 2949,
+      "canonicalPath": "/fipe/lada/samara-1-3-1-5-1992-019004-7/",
+      "ano": 1992,
+      "marca": "Lada"
+    },
+    {
+      "vehicleId": "lada-samara-1-3-1-5-1993-gasolina",
+      "fipeCodigo": "019004-7",
+      "displayName": "Lada Samara 1.3/ 1.5",
+      "valorAtual": 3152,
+      "canonicalPath": "/fipe/lada/samara-1-3-1-5-1993-019004-7/",
+      "ano": 1993,
+      "marca": "Lada"
+    },
+    {
+      "vehicleId": "lada-samara-1-3-1-5-1994-gasolina",
+      "fipeCodigo": "019004-7",
+      "displayName": "Lada Samara 1.3/ 1.5",
+      "valorAtual": 3455,
+      "canonicalPath": "/fipe/lada/samara-1-3-1-5-1994-019004-7/",
+      "ano": 1994,
+      "marca": "Lada"
+    },
+    {
+      "vehicleId": "lada-samara-1-3-1-5-1995-gasolina",
+      "fipeCodigo": "019004-7",
+      "displayName": "Lada Samara 1.3/ 1.5",
+      "valorAtual": 4101,
+      "canonicalPath": "/fipe/lada/samara-1-3-1-5-1995-019004-7/",
+      "ano": 1995,
+      "marca": "Lada"
+    }
+  ],
+  "stats": {
+    "total": 5
+  },
+  "meta": {
+    "geracaoId": "samara-1"
+  }
+}

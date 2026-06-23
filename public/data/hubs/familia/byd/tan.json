@@ -1,0 +1,72 @@
+{
+  "tipo": "familia",
+  "slug": "tan",
+  "canonicalPath": "/fipe/byd/tan/",
+  "titulo": "BYD tan - Tabela FIPE",
+  "descricao": "5 versoes e anos do BYD tan na Tabela FIPE.",
+  "seo": {
+    "title": "BYD tan - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes BYD tan. 5 veiculos indexados.",
+    "h1": "BYD tan - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/byd/tan/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "byd-tan-ev-4x4-eletrico-2025-eletrico",
+      "fipeCodigo": "095001-7",
+      "displayName": "BYD TAN EV 4x4 (Elétrico)",
+      "valorAtual": 352607,
+      "canonicalPath": "/fipe/byd/tan-ev-4x4-eletrico-2025-095001-7/",
+      "ano": 2025,
+      "marca": "BYD"
+    },
+    {
+      "vehicleId": "byd-tan-ev-4x4-eletrico-2024-eletrico",
+      "fipeCodigo": "095001-7",
+      "displayName": "BYD TAN EV 4x4 (Elétrico)",
+      "valorAtual": 300553,
+      "canonicalPath": "/fipe/byd/tan-ev-4x4-eletrico-2024-095001-7/",
+      "ano": 2024,
+      "marca": "BYD"
+    },
+    {
+      "vehicleId": "byd-tan-ev-4x4-eletrico-2023-eletrico",
+      "fipeCodigo": "095001-7",
+      "displayName": "BYD TAN EV 4x4 (Elétrico)",
+      "valorAtual": 264730,
+      "canonicalPath": "/fipe/byd/tan-ev-4x4-eletrico-2023-095001-7/",
+      "ano": 2023,
+      "marca": "BYD"
+    },
+    {
+      "vehicleId": "byd-tan-ev-4x4-eletrico-2022-eletrico",
+      "fipeCodigo": "095001-7",
+      "displayName": "BYD TAN EV 4x4 (Elétrico)",
+      "valorAtual": 243537,
+      "canonicalPath": "/fipe/byd/tan-ev-4x4-eletrico-2022-095001-7/",
+      "ano": 2022,
+      "marca": "BYD"
+    },
+    {
+      "vehicleId": "byd-tan-ev-4x4-eletrico-0-eletrico",
+      "fipeCodigo": "095001-7",
+      "displayName": "BYD TAN EV 4x4 (Elétrico)",
+      "valorAtual": 423713,
+      "canonicalPath": "/fipe/byd/tan-ev-4x4-eletrico-0-095001-7/",
+      "ano": 0,
+      "marca": "BYD"
+    }
+  ],
+  "stats": {
+    "total": 5,
+    "precoMin": 243537,
+    "precoMax": 423713,
+    "anos": [
+      2025,
+      2024,
+      2023,
+      2022,
+      0
+    ]
+  }
+}

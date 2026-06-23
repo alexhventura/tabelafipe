@@ -1,0 +1,71 @@
+{
+  "tipo": "familia",
+  "slug": "action",
+  "canonicalPath": "/fipe/iros/action/",
+  "titulo": "IROS action - Tabela FIPE",
+  "descricao": "5 versoes e anos do IROS action na Tabela FIPE.",
+  "seo": {
+    "title": "IROS action - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes IROS action. 5 veiculos indexados.",
+    "h1": "IROS action - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/iros/action/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "iros-action-100-es-2012-gasolina",
+      "fipeCodigo": "867001-3",
+      "displayName": "IROS ACTION 100 ES",
+      "valorAtual": 2156,
+      "canonicalPath": "/fipe/iros/action-100-es-2012-867001-3/",
+      "ano": 2012,
+      "marca": "IROS"
+    },
+    {
+      "vehicleId": "iros-action-100-es-2011-gasolina",
+      "fipeCodigo": "867001-3",
+      "displayName": "IROS ACTION 100 ES",
+      "valorAtual": 2103,
+      "canonicalPath": "/fipe/iros/action-100-es-2011-867001-3/",
+      "ano": 2011,
+      "marca": "IROS"
+    },
+    {
+      "vehicleId": "iros-action-100-es-2010-gasolina",
+      "fipeCodigo": "867001-3",
+      "displayName": "IROS ACTION 100 ES",
+      "valorAtual": 1617,
+      "canonicalPath": "/fipe/iros/action-100-es-2010-867001-3/",
+      "ano": 2010,
+      "marca": "IROS"
+    },
+    {
+      "vehicleId": "iros-action-100-es-2009-gasolina",
+      "fipeCodigo": "867001-3",
+      "displayName": "IROS ACTION 100 ES",
+      "valorAtual": 1473,
+      "canonicalPath": "/fipe/iros/action-100-es-2009-867001-3/",
+      "ano": 2009,
+      "marca": "IROS"
+    },
+    {
+      "vehicleId": "iros-action-100-esa-2009-gasolina",
+      "fipeCodigo": "867002-1",
+      "displayName": "IROS ACTION 100 ESA",
+      "valorAtual": 1581,
+      "canonicalPath": "/fipe/iros/action-100-esa-2009-867002-1/",
+      "ano": 2009,
+      "marca": "IROS"
+    }
+  ],
+  "stats": {
+    "total": 5,
+    "precoMin": 1473,
+    "precoMax": 2156,
+    "anos": [
+      2012,
+      2011,
+      2010,
+      2009
+    ]
+  }
+}

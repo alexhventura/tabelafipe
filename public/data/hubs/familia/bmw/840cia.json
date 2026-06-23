@@ -1,0 +1,92 @@
+{
+  "tipo": "familia",
+  "slug": "840cia",
+  "canonicalPath": "/fipe/bmw/840cia/",
+  "titulo": "BMW 840cia - Tabela FIPE",
+  "descricao": "7 versoes e anos do BMW 840cia na Tabela FIPE.",
+  "seo": {
+    "title": "BMW 840cia - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes BMW 840cia. 7 veiculos indexados.",
+    "h1": "BMW 840cia - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/bmw/840cia/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "bmw-840cia-1998-gasolina",
+      "fipeCodigo": "009051-4",
+      "displayName": "BMW 840CiA",
+      "valorAtual": 64868,
+      "canonicalPath": "/fipe/bmw/840cia-1998-009051-4/",
+      "ano": 1998,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-840cia-1997-gasolina",
+      "fipeCodigo": "009051-4",
+      "displayName": "BMW 840CiA",
+      "valorAtual": 54592,
+      "canonicalPath": "/fipe/bmw/840cia-1997-009051-4/",
+      "ano": 1997,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-840cia-1996-gasolina",
+      "fipeCodigo": "009051-4",
+      "displayName": "BMW 840CiA",
+      "valorAtual": 45132,
+      "canonicalPath": "/fipe/bmw/840cia-1996-009051-4/",
+      "ano": 1996,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-840cia-1995-gasolina",
+      "fipeCodigo": "009051-4",
+      "displayName": "BMW 840CiA",
+      "valorAtual": 41542,
+      "canonicalPath": "/fipe/bmw/840cia-1995-009051-4/",
+      "ano": 1995,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-840cia-1994-gasolina",
+      "fipeCodigo": "009051-4",
+      "displayName": "BMW 840CiA",
+      "valorAtual": 38165,
+      "canonicalPath": "/fipe/bmw/840cia-1994-009051-4/",
+      "ano": 1994,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-840cia-1993-gasolina",
+      "fipeCodigo": "009051-4",
+      "displayName": "BMW 840CiA",
+      "valorAtual": 34410,
+      "canonicalPath": "/fipe/bmw/840cia-1993-009051-4/",
+      "ano": 1993,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-840cia-1992-gasolina",
+      "fipeCodigo": "009051-4",
+      "displayName": "BMW 840CiA",
+      "valorAtual": 33443,
+      "canonicalPath": "/fipe/bmw/840cia-1992-009051-4/",
+      "ano": 1992,
+      "marca": "BMW"
+    }
+  ],
+  "stats": {
+    "total": 7,
+    "precoMin": 33443,
+    "precoMax": 64868,
+    "anos": [
+      1998,
+      1997,
+      1996,
+      1995,
+      1994,
+      1993,
+      1992
+    ]
+  }
+}

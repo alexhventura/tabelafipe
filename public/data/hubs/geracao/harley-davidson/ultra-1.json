@@ -1,0 +1,93 @@
+{
+  "tipo": "geracao",
+  "slug": "ultra-1",
+  "canonicalPath": "/geracao/harley-davidson/ultra-1/",
+  "titulo": "Geracao ultra-1",
+  "descricao": "8 veiculos da geracao ultra-1.",
+  "seo": {
+    "title": "Geracao ultra-1 - Precos FIPE",
+    "description": "Veiculos da geracao ultra-1 na Tabela FIPE.",
+    "h1": "Geracao ultra-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/harley-davidson/ultra-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "harley-davidson-ultra-limited-115th-anniversary-flhtk-2018-gasolina",
+      "fipeCodigo": "810094-2",
+      "displayName": "HARLEY-DAVIDSON ULTRA LIMITED 115th ANNIVERSARY FLHTK",
+      "valorAtual": 95229,
+      "canonicalPath": "/fipe/harley-davidson/ultra-limited-115th-anniversary-flhtk-2018-810094-2/",
+      "ano": 2018,
+      "marca": "HARLEY-DAVIDSON"
+    },
+    {
+      "vehicleId": "harley-davidson-ultra-limited-120th-anniversary-flhtk-2023-gasolina",
+      "fipeCodigo": "810113-2",
+      "displayName": "HARLEY-DAVIDSON ULTRA LIMITED 120th ANNIVERSARY FLHTK",
+      "valorAtual": 165855,
+      "canonicalPath": "/fipe/harley-davidson/ultra-limited-120th-anniversary-flhtk-2023-810113-2/",
+      "ano": 2023,
+      "marca": "HARLEY-DAVIDSON"
+    },
+    {
+      "vehicleId": "harley-davidson-ultra-limited-flhtk-2019-gasolina",
+      "fipeCodigo": "810096-9",
+      "displayName": "HARLEY-DAVIDSON ULTRA LIMITED FLHTK",
+      "valorAtual": 99804,
+      "canonicalPath": "/fipe/harley-davidson/ultra-limited-flhtk-2019-810096-9/",
+      "ano": 2019,
+      "marca": "HARLEY-DAVIDSON"
+    },
+    {
+      "vehicleId": "harley-davidson-ultra-limited-flhtk-2020-gasolina",
+      "fipeCodigo": "810096-9",
+      "displayName": "HARLEY-DAVIDSON ULTRA LIMITED FLHTK",
+      "valorAtual": 111211,
+      "canonicalPath": "/fipe/harley-davidson/ultra-limited-flhtk-2020-810096-9/",
+      "ano": 2020,
+      "marca": "HARLEY-DAVIDSON"
+    },
+    {
+      "vehicleId": "harley-davidson-ultra-limited-flhtk-2021-gasolina",
+      "fipeCodigo": "810096-9",
+      "displayName": "HARLEY-DAVIDSON ULTRA LIMITED FLHTK",
+      "valorAtual": 122678,
+      "canonicalPath": "/fipe/harley-davidson/ultra-limited-flhtk-2021-810096-9/",
+      "ano": 2021,
+      "marca": "HARLEY-DAVIDSON"
+    },
+    {
+      "vehicleId": "harley-davidson-ultra-limited-flhtk-2022-gasolina",
+      "fipeCodigo": "810096-9",
+      "displayName": "HARLEY-DAVIDSON ULTRA LIMITED FLHTK",
+      "valorAtual": 129000,
+      "canonicalPath": "/fipe/harley-davidson/ultra-limited-flhtk-2022-810096-9/",
+      "ano": 2022,
+      "marca": "HARLEY-DAVIDSON"
+    },
+    {
+      "vehicleId": "harley-davidson-ultra-limited-flhtk-2023-gasolina",
+      "fipeCodigo": "810096-9",
+      "displayName": "HARLEY-DAVIDSON ULTRA LIMITED FLHTK",
+      "valorAtual": 135512,
+      "canonicalPath": "/fipe/harley-davidson/ultra-limited-flhtk-2023-810096-9/",
+      "ano": 2023,
+      "marca": "HARLEY-DAVIDSON"
+    },
+    {
+      "vehicleId": "harley-davidson-ultra-limited-flhtk-2024-gasolina",
+      "fipeCodigo": "810096-9",
+      "displayName": "HARLEY-DAVIDSON ULTRA LIMITED FLHTK",
+      "valorAtual": 158601,
+      "canonicalPath": "/fipe/harley-davidson/ultra-limited-flhtk-2024-810096-9/",
+      "ano": 2024,
+      "marca": "HARLEY-DAVIDSON"
+    }
+  ],
+  "stats": {
+    "total": 8
+  },
+  "meta": {
+    "geracaoId": "ultra-1"
+  }
+}

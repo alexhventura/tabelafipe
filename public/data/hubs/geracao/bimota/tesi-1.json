@@ -1,0 +1,66 @@
+{
+  "tipo": "geracao",
+  "slug": "tesi-1",
+  "canonicalPath": "/geracao/bimota/tesi-1/",
+  "titulo": "Geracao tesi-1",
+  "descricao": "5 veiculos da geracao tesi-1.",
+  "seo": {
+    "title": "Geracao tesi-1 - Precos FIPE",
+    "description": "Veiculos da geracao tesi-1 na Tabela FIPE.",
+    "h1": "Geracao tesi-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/bimota/tesi-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "bimota-tesi-3d-1100cc-aluminio-2009-gasolina",
+      "fipeCodigo": "828009-6",
+      "displayName": "BIMOTA Tesi 3D 1100cc ( Alumínio)",
+      "valorAtual": 44967,
+      "canonicalPath": "/fipe/bimota/tesi-3d-1100cc-aluminio-2009-828009-6/",
+      "ano": 2009,
+      "marca": "BIMOTA"
+    },
+    {
+      "vehicleId": "bimota-tesi-3d-1100cc-aluminio-2010-gasolina",
+      "fipeCodigo": "828009-6",
+      "displayName": "BIMOTA Tesi 3D 1100cc ( Alumínio)",
+      "valorAtual": 50867,
+      "canonicalPath": "/fipe/bimota/tesi-3d-1100cc-aluminio-2010-828009-6/",
+      "ano": 2010,
+      "marca": "BIMOTA"
+    },
+    {
+      "vehicleId": "bimota-tesi-3d-1100cc-carbono-2008-gasolina",
+      "fipeCodigo": "828008-8",
+      "displayName": "BIMOTA Tesi 3D 1100cc ( Carbono )",
+      "valorAtual": 46231,
+      "canonicalPath": "/fipe/bimota/tesi-3d-1100cc-carbono-2008-828008-8/",
+      "ano": 2008,
+      "marca": "BIMOTA"
+    },
+    {
+      "vehicleId": "bimota-tesi-3d-1100cc-carbono-2009-gasolina",
+      "fipeCodigo": "828008-8",
+      "displayName": "BIMOTA Tesi 3D 1100cc ( Carbono )",
+      "valorAtual": 50964,
+      "canonicalPath": "/fipe/bimota/tesi-3d-1100cc-carbono-2009-828008-8/",
+      "ano": 2009,
+      "marca": "BIMOTA"
+    },
+    {
+      "vehicleId": "bimota-tesi-3d-1100cc-carbono-2010-gasolina",
+      "fipeCodigo": "828008-8",
+      "displayName": "BIMOTA Tesi 3D 1100cc ( Carbono )",
+      "valorAtual": 59778,
+      "canonicalPath": "/fipe/bimota/tesi-3d-1100cc-carbono-2010-828008-8/",
+      "ano": 2010,
+      "marca": "BIMOTA"
+    }
+  ],
+  "stats": {
+    "total": 5
+  },
+  "meta": {
+    "geracaoId": "tesi-1"
+  }
+}

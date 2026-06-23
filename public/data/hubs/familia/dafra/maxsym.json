@@ -1,0 +1,142 @@
+{
+  "tipo": "familia",
+  "slug": "maxsym",
+  "canonicalPath": "/fipe/dafra/maxsym/",
+  "titulo": "DAFRA maxsym - Tabela FIPE",
+  "descricao": "12 versoes e anos do DAFRA maxsym na Tabela FIPE.",
+  "seo": {
+    "title": "DAFRA maxsym - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes DAFRA maxsym. 12 veiculos indexados.",
+    "h1": "DAFRA maxsym - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/dafra/maxsym/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "dafra-maxsym-400-gt-2026-gasolina",
+      "fipeCodigo": "861034-7",
+      "displayName": "DAFRA MAXSYM 400 GT",
+      "valorAtual": 36907,
+      "canonicalPath": "/fipe/dafra/maxsym-400-gt-2026-861034-7/",
+      "ano": 2026,
+      "marca": "DAFRA"
+    },
+    {
+      "vehicleId": "dafra-maxsym-400i-2024-gasolina",
+      "fipeCodigo": "861019-3",
+      "displayName": "DAFRA MAXSYM 400i",
+      "valorAtual": 30921,
+      "canonicalPath": "/fipe/dafra/maxsym-400i-2024-861019-3/",
+      "ano": 2024,
+      "marca": "DAFRA"
+    },
+    {
+      "vehicleId": "dafra-maxsym-400i-2023-gasolina",
+      "fipeCodigo": "861019-3",
+      "displayName": "DAFRA MAXSYM 400i",
+      "valorAtual": 29658,
+      "canonicalPath": "/fipe/dafra/maxsym-400i-2023-861019-3/",
+      "ano": 2023,
+      "marca": "DAFRA"
+    },
+    {
+      "vehicleId": "dafra-maxsym-400i-2022-gasolina",
+      "fipeCodigo": "861019-3",
+      "displayName": "DAFRA MAXSYM 400i",
+      "valorAtual": 27895,
+      "canonicalPath": "/fipe/dafra/maxsym-400i-2022-861019-3/",
+      "ano": 2022,
+      "marca": "DAFRA"
+    },
+    {
+      "vehicleId": "dafra-maxsym-400i-2021-gasolina",
+      "fipeCodigo": "861019-3",
+      "displayName": "DAFRA MAXSYM 400i",
+      "valorAtual": 26133,
+      "canonicalPath": "/fipe/dafra/maxsym-400i-2021-861019-3/",
+      "ano": 2021,
+      "marca": "DAFRA"
+    },
+    {
+      "vehicleId": "dafra-maxsym-400i-2020-gasolina",
+      "fipeCodigo": "861019-3",
+      "displayName": "DAFRA MAXSYM 400i",
+      "valorAtual": 24418,
+      "canonicalPath": "/fipe/dafra/maxsym-400i-2020-861019-3/",
+      "ano": 2020,
+      "marca": "DAFRA"
+    },
+    {
+      "vehicleId": "dafra-maxsym-400i-2019-gasolina",
+      "fipeCodigo": "861019-3",
+      "displayName": "DAFRA MAXSYM 400i",
+      "valorAtual": 23822,
+      "canonicalPath": "/fipe/dafra/maxsym-400i-2019-861019-3/",
+      "ano": 2019,
+      "marca": "DAFRA"
+    },
+    {
+      "vehicleId": "dafra-maxsym-400i-2018-gasolina",
+      "fipeCodigo": "861019-3",
+      "displayName": "DAFRA MAXSYM 400i",
+      "valorAtual": 21200,
+      "canonicalPath": "/fipe/dafra/maxsym-400i-2018-861019-3/",
+      "ano": 2018,
+      "marca": "DAFRA"
+    },
+    {
+      "vehicleId": "dafra-maxsym-400i-2017-gasolina",
+      "fipeCodigo": "861019-3",
+      "displayName": "DAFRA MAXSYM 400i",
+      "valorAtual": 18475,
+      "canonicalPath": "/fipe/dafra/maxsym-400i-2017-861019-3/",
+      "ano": 2017,
+      "marca": "DAFRA"
+    },
+    {
+      "vehicleId": "dafra-maxsym-400i-2016-gasolina",
+      "fipeCodigo": "861019-3",
+      "displayName": "DAFRA MAXSYM 400i",
+      "valorAtual": 17748,
+      "canonicalPath": "/fipe/dafra/maxsym-400i-2016-861019-3/",
+      "ano": 2016,
+      "marca": "DAFRA"
+    },
+    {
+      "vehicleId": "dafra-maxsym-400i-2015-gasolina",
+      "fipeCodigo": "861019-3",
+      "displayName": "DAFRA MAXSYM 400i",
+      "valorAtual": 17315,
+      "canonicalPath": "/fipe/dafra/maxsym-400i-2015-861019-3/",
+      "ano": 2015,
+      "marca": "DAFRA"
+    },
+    {
+      "vehicleId": "dafra-maxsym-400-gt-0-gasolina",
+      "fipeCodigo": "861034-7",
+      "displayName": "DAFRA MAXSYM 400 GT",
+      "valorAtual": 38529,
+      "canonicalPath": "/fipe/dafra/maxsym-400-gt-0-861034-7/",
+      "ano": 0,
+      "marca": "DAFRA"
+    }
+  ],
+  "stats": {
+    "total": 12,
+    "precoMin": 17315,
+    "precoMax": 38529,
+    "anos": [
+      2026,
+      2024,
+      2023,
+      2022,
+      2021,
+      2020,
+      2019,
+      2018,
+      2017,
+      2016,
+      2015,
+      0
+    ]
+  }
+}

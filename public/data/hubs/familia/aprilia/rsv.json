@@ -1,0 +1,42 @@
+{
+  "tipo": "familia",
+  "slug": "rsv",
+  "canonicalPath": "/fipe/aprilia/rsv/",
+  "titulo": "APRILIA rsv - Tabela FIPE",
+  "descricao": "2 versoes e anos do APRILIA rsv na Tabela FIPE.",
+  "seo": {
+    "title": "APRILIA rsv - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes APRILIA rsv. 2 veiculos indexados.",
+    "h1": "APRILIA rsv - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/aprilia/rsv/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "aprilia-rsv-mille-1000cc-2000-gasolina",
+      "fipeCodigo": "802009-4",
+      "displayName": "APRILIA RSV MILLE 1000cc",
+      "valorAtual": 19062,
+      "canonicalPath": "/fipe/aprilia/rsv-mille-1000cc-2000-802009-4/",
+      "ano": 2000,
+      "marca": "APRILIA"
+    },
+    {
+      "vehicleId": "aprilia-rsv-mille-1000cc-1999-gasolina",
+      "fipeCodigo": "802009-4",
+      "displayName": "APRILIA RSV MILLE 1000cc",
+      "valorAtual": 17639,
+      "canonicalPath": "/fipe/aprilia/rsv-mille-1000cc-1999-802009-4/",
+      "ano": 1999,
+      "marca": "APRILIA"
+    }
+  ],
+  "stats": {
+    "total": 2,
+    "precoMin": 17639,
+    "precoMax": 19062,
+    "anos": [
+      2000,
+      1999
+    ]
+  }
+}

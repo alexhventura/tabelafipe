@@ -1,0 +1,111 @@
+{
+  "tipo": "geracao",
+  "slug": "terracan-1",
+  "canonicalPath": "/geracao/hyundai/terracan-1/",
+  "titulo": "Geracao terracan-1",
+  "descricao": "10 veiculos da geracao terracan-1.",
+  "seo": {
+    "title": "Geracao terracan-1 - Precos FIPE",
+    "description": "Veiculos da geracao terracan-1 na Tabela FIPE.",
+    "h1": "Geracao terracan-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/hyundai/terracan-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "hyundai-terracan-2-5-8v-100cv-tb-diesel-aut-2003-diesel",
+      "fipeCodigo": "015056-8",
+      "displayName": "Hyundai Terracan 2.5 8V 100cv TB Diesel Aut.",
+      "valorAtual": 36497,
+      "canonicalPath": "/fipe/hyundai/terracan-2-5-8v-100cv-tb-diesel-aut-2003-015056-8/",
+      "ano": 2003,
+      "marca": "Hyundai"
+    },
+    {
+      "vehicleId": "hyundai-terracan-2-5-8v-100cv-tb-diesel-aut-2004-diesel",
+      "fipeCodigo": "015056-8",
+      "displayName": "Hyundai Terracan 2.5 8V 100cv TB Diesel Aut.",
+      "valorAtual": 40689,
+      "canonicalPath": "/fipe/hyundai/terracan-2-5-8v-100cv-tb-diesel-aut-2004-015056-8/",
+      "ano": 2004,
+      "marca": "Hyundai"
+    },
+    {
+      "vehicleId": "hyundai-terracan-2-5-8v-100cv-tb-diesel-aut-2005-diesel",
+      "fipeCodigo": "015056-8",
+      "displayName": "Hyundai Terracan 2.5 8V 100cv TB Diesel Aut.",
+      "valorAtual": 41707,
+      "canonicalPath": "/fipe/hyundai/terracan-2-5-8v-100cv-tb-diesel-aut-2005-015056-8/",
+      "ano": 2005,
+      "marca": "Hyundai"
+    },
+    {
+      "vehicleId": "hyundai-terracan-2-5-8v-100cv-tb-diesel-aut-2006-diesel",
+      "fipeCodigo": "015056-8",
+      "displayName": "Hyundai Terracan 2.5 8V 100cv TB Diesel Aut.",
+      "valorAtual": 46574,
+      "canonicalPath": "/fipe/hyundai/terracan-2-5-8v-100cv-tb-diesel-aut-2006-015056-8/",
+      "ano": 2006,
+      "marca": "Hyundai"
+    },
+    {
+      "vehicleId": "hyundai-terracan-2-5-8v-100cv-tb-diesel-mec-2003-diesel",
+      "fipeCodigo": "015055-0",
+      "displayName": "Hyundai Terracan 2.5 8V 100cv TB Diesel Mec.",
+      "valorAtual": 28376,
+      "canonicalPath": "/fipe/hyundai/terracan-2-5-8v-100cv-tb-diesel-mec-2003-015055-0/",
+      "ano": 2003,
+      "marca": "Hyundai"
+    },
+    {
+      "vehicleId": "hyundai-terracan-2-5-8v-100cv-tb-diesel-mec-2004-diesel",
+      "fipeCodigo": "015055-0",
+      "displayName": "Hyundai Terracan 2.5 8V 100cv TB Diesel Mec.",
+      "valorAtual": 33988,
+      "canonicalPath": "/fipe/hyundai/terracan-2-5-8v-100cv-tb-diesel-mec-2004-015055-0/",
+      "ano": 2004,
+      "marca": "Hyundai"
+    },
+    {
+      "vehicleId": "hyundai-terracan-2-5-8v-100cv-tb-diesel-mec-2005-diesel",
+      "fipeCodigo": "015055-0",
+      "displayName": "Hyundai Terracan 2.5 8V 100cv TB Diesel Mec.",
+      "valorAtual": 38416,
+      "canonicalPath": "/fipe/hyundai/terracan-2-5-8v-100cv-tb-diesel-mec-2005-015055-0/",
+      "ano": 2005,
+      "marca": "Hyundai"
+    },
+    {
+      "vehicleId": "hyundai-terracan-2-5-8v-100cv-tb-diesel-mec-2006-diesel",
+      "fipeCodigo": "015055-0",
+      "displayName": "Hyundai Terracan 2.5 8V 100cv TB Diesel Mec.",
+      "valorAtual": 43264,
+      "canonicalPath": "/fipe/hyundai/terracan-2-5-8v-100cv-tb-diesel-mec-2006-015055-0/",
+      "ano": 2006,
+      "marca": "Hyundai"
+    },
+    {
+      "vehicleId": "hyundai-terracan-2-9-crdi-8v-163cv-diesel-aut-2005-diesel",
+      "fipeCodigo": "015059-2",
+      "displayName": "Hyundai Terracan 2.9 CRDI 8V 163cv Diesel Aut.",
+      "valorAtual": 48378,
+      "canonicalPath": "/fipe/hyundai/terracan-2-9-crdi-8v-163cv-diesel-aut-2005-015059-2/",
+      "ano": 2005,
+      "marca": "Hyundai"
+    },
+    {
+      "vehicleId": "hyundai-terracan-2-9-crdi-8v-163cv-diesel-aut-2006-diesel",
+      "fipeCodigo": "015059-2",
+      "displayName": "Hyundai Terracan 2.9 CRDI 8V 163cv Diesel Aut.",
+      "valorAtual": 49588,
+      "canonicalPath": "/fipe/hyundai/terracan-2-9-crdi-8v-163cv-diesel-aut-2006-015059-2/",
+      "ano": 2006,
+      "marca": "Hyundai"
+    }
+  ],
+  "stats": {
+    "total": 10
+  },
+  "meta": {
+    "geracaoId": "terracan-1"
+  }
+}

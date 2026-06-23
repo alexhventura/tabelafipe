@@ -1,0 +1,84 @@
+{
+  "tipo": "geracao",
+  "slug": "krc-1",
+  "canonicalPath": "/geracao/bull/krc-1/",
+  "titulo": "Geracao krc-1",
+  "descricao": "7 veiculos da geracao krc-1.",
+  "seo": {
+    "title": "Geracao krc-1 - Precos FIPE",
+    "description": "Veiculos da geracao krc-1 na Tabela FIPE.",
+    "h1": "Geracao krc-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/bull/krc-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "bull-krc-f5-lx-50-2019-gasolina",
+      "fipeCodigo": "888010-7",
+      "displayName": "BULL KRC F5-LX 50",
+      "valorAtual": 4930,
+      "canonicalPath": "/fipe/bull/krc-f5-lx-50-2019-888010-7/",
+      "ano": 2019,
+      "marca": "BULL"
+    },
+    {
+      "vehicleId": "bull-krc-f5-lx-50-2020-gasolina",
+      "fipeCodigo": "888010-7",
+      "displayName": "BULL KRC F5-LX 50",
+      "valorAtual": 5199,
+      "canonicalPath": "/fipe/bull/krc-f5-lx-50-2020-888010-7/",
+      "ano": 2020,
+      "marca": "BULL"
+    },
+    {
+      "vehicleId": "bull-krc-f5-lx-50-2021-gasolina",
+      "fipeCodigo": "888010-7",
+      "displayName": "BULL KRC F5-LX 50",
+      "valorAtual": 6045,
+      "canonicalPath": "/fipe/bull/krc-f5-lx-50-2021-888010-7/",
+      "ano": 2021,
+      "marca": "BULL"
+    },
+    {
+      "vehicleId": "bull-krc-f5-lx-50-2022-gasolina",
+      "fipeCodigo": "888010-7",
+      "displayName": "BULL KRC F5-LX 50",
+      "valorAtual": 6589,
+      "canonicalPath": "/fipe/bull/krc-f5-lx-50-2022-888010-7/",
+      "ano": 2022,
+      "marca": "BULL"
+    },
+    {
+      "vehicleId": "bull-krc-f5-lx-50-2023-gasolina",
+      "fipeCodigo": "888010-7",
+      "displayName": "BULL KRC F5-LX 50",
+      "valorAtual": 6802,
+      "canonicalPath": "/fipe/bull/krc-f5-lx-50-2023-888010-7/",
+      "ano": 2023,
+      "marca": "BULL"
+    },
+    {
+      "vehicleId": "bull-krc-liv-50-2019-gasolina",
+      "fipeCodigo": "888002-6",
+      "displayName": "BULL KRC LIV-50",
+      "valorAtual": 5732,
+      "canonicalPath": "/fipe/bull/krc-liv-50-2019-888002-6/",
+      "ano": 2019,
+      "marca": "BULL"
+    },
+    {
+      "vehicleId": "bull-krc-liv-50-2020-gasolina",
+      "fipeCodigo": "888002-6",
+      "displayName": "BULL KRC LIV-50",
+      "valorAtual": 6091,
+      "canonicalPath": "/fipe/bull/krc-liv-50-2020-888002-6/",
+      "ano": 2020,
+      "marca": "BULL"
+    }
+  ],
+  "stats": {
+    "total": 7
+  },
+  "meta": {
+    "geracaoId": "krc-1"
+  }
+}

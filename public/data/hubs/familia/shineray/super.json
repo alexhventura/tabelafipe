@@ -1,0 +1,82 @@
+{
+  "tipo": "familia",
+  "slug": "super",
+  "canonicalPath": "/fipe/shineray/super/",
+  "titulo": "SHINERAY super - Tabela FIPE",
+  "descricao": "6 versoes e anos do SHINERAY super na Tabela FIPE.",
+  "seo": {
+    "title": "SHINERAY super - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes SHINERAY super. 6 veiculos indexados.",
+    "h1": "SHINERAY super - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/shineray/super/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "shineray-super-smart-50-2022-gasolina",
+      "fipeCodigo": "850025-8",
+      "displayName": "SHINERAY SUPER SMART 50",
+      "valorAtual": 6115,
+      "canonicalPath": "/fipe/shineray/super-smart-50-2022-850025-8/",
+      "ano": 2022,
+      "marca": "SHINERAY"
+    },
+    {
+      "vehicleId": "shineray-super-smart-50-2021-gasolina",
+      "fipeCodigo": "850025-8",
+      "displayName": "SHINERAY SUPER SMART 50",
+      "valorAtual": 4810,
+      "canonicalPath": "/fipe/shineray/super-smart-50-2021-850025-8/",
+      "ano": 2021,
+      "marca": "SHINERAY"
+    },
+    {
+      "vehicleId": "shineray-super-smart-50-2020-gasolina",
+      "fipeCodigo": "850025-8",
+      "displayName": "SHINERAY SUPER SMART 50",
+      "valorAtual": 4519,
+      "canonicalPath": "/fipe/shineray/super-smart-50-2020-850025-8/",
+      "ano": 2020,
+      "marca": "SHINERAY"
+    },
+    {
+      "vehicleId": "shineray-super-smart-50-2019-gasolina",
+      "fipeCodigo": "850025-8",
+      "displayName": "SHINERAY SUPER SMART 50",
+      "valorAtual": 4271,
+      "canonicalPath": "/fipe/shineray/super-smart-50-2019-850025-8/",
+      "ano": 2019,
+      "marca": "SHINERAY"
+    },
+    {
+      "vehicleId": "shineray-super-smart-50-2018-gasolina",
+      "fipeCodigo": "850025-8",
+      "displayName": "SHINERAY SUPER SMART 50",
+      "valorAtual": 3836,
+      "canonicalPath": "/fipe/shineray/super-smart-50-2018-850025-8/",
+      "ano": 2018,
+      "marca": "SHINERAY"
+    },
+    {
+      "vehicleId": "shineray-super-smart-50-2017-gasolina",
+      "fipeCodigo": "850025-8",
+      "displayName": "SHINERAY SUPER SMART 50",
+      "valorAtual": 3742,
+      "canonicalPath": "/fipe/shineray/super-smart-50-2017-850025-8/",
+      "ano": 2017,
+      "marca": "SHINERAY"
+    }
+  ],
+  "stats": {
+    "total": 6,
+    "precoMin": 3742,
+    "precoMax": 6115,
+    "anos": [
+      2022,
+      2021,
+      2020,
+      2019,
+      2018,
+      2017
+    ]
+  }
+}

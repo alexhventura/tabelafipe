@@ -1,0 +1,91 @@
+{
+  "tipo": "familia",
+  "slug": "xr",
+  "canonicalPath": "/fipe/harley-davidson/xr/",
+  "titulo": "HARLEY-DAVIDSON xr - Tabela FIPE",
+  "descricao": "7 versoes e anos do HARLEY-DAVIDSON xr na Tabela FIPE.",
+  "seo": {
+    "title": "HARLEY-DAVIDSON xr - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes HARLEY-DAVIDSON xr. 7 veiculos indexados.",
+    "h1": "HARLEY-DAVIDSON xr - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/harley-davidson/xr/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "harley-davidson-xr-1200x-sportster-2014-gasolina",
+      "fipeCodigo": "810054-3",
+      "displayName": "HARLEY-DAVIDSON XR 1200X SPORTSTER",
+      "valorAtual": 45192,
+      "canonicalPath": "/fipe/harley-davidson/xr-1200x-sportster-2014-810054-3/",
+      "ano": 2014,
+      "marca": "HARLEY-DAVIDSON"
+    },
+    {
+      "vehicleId": "harley-davidson-xr-1200x-sportster-2013-gasolina",
+      "fipeCodigo": "810054-3",
+      "displayName": "HARLEY-DAVIDSON XR 1200X SPORTSTER",
+      "valorAtual": 42440,
+      "canonicalPath": "/fipe/harley-davidson/xr-1200x-sportster-2013-810054-3/",
+      "ano": 2013,
+      "marca": "HARLEY-DAVIDSON"
+    },
+    {
+      "vehicleId": "harley-davidson-xr-1200x-sportster-2012-gasolina",
+      "fipeCodigo": "810054-3",
+      "displayName": "HARLEY-DAVIDSON XR 1200X SPORTSTER",
+      "valorAtual": 41404,
+      "canonicalPath": "/fipe/harley-davidson/xr-1200x-sportster-2012-810054-3/",
+      "ano": 2012,
+      "marca": "HARLEY-DAVIDSON"
+    },
+    {
+      "vehicleId": "harley-davidson-xr-1200x-sportster-2011-gasolina",
+      "fipeCodigo": "810054-3",
+      "displayName": "HARLEY-DAVIDSON XR 1200X SPORTSTER",
+      "valorAtual": 40336,
+      "canonicalPath": "/fipe/harley-davidson/xr-1200x-sportster-2011-810054-3/",
+      "ano": 2011,
+      "marca": "HARLEY-DAVIDSON"
+    },
+    {
+      "vehicleId": "harley-davidson-xr-1200-sportster-2010-gasolina",
+      "fipeCodigo": "810051-9",
+      "displayName": "HARLEY-DAVIDSON XR 1200 SPORTSTER",
+      "valorAtual": 39010,
+      "canonicalPath": "/fipe/harley-davidson/xr-1200-sportster-2010-810051-9/",
+      "ano": 2010,
+      "marca": "HARLEY-DAVIDSON"
+    },
+    {
+      "vehicleId": "harley-davidson-xr-1200x-sportster-2010-gasolina",
+      "fipeCodigo": "810054-3",
+      "displayName": "HARLEY-DAVIDSON XR 1200X SPORTSTER",
+      "valorAtual": 39323,
+      "canonicalPath": "/fipe/harley-davidson/xr-1200x-sportster-2010-810054-3/",
+      "ano": 2010,
+      "marca": "HARLEY-DAVIDSON"
+    },
+    {
+      "vehicleId": "harley-davidson-xr-1200-sportster-2009-gasolina",
+      "fipeCodigo": "810051-9",
+      "displayName": "HARLEY-DAVIDSON XR 1200 SPORTSTER",
+      "valorAtual": 37973,
+      "canonicalPath": "/fipe/harley-davidson/xr-1200-sportster-2009-810051-9/",
+      "ano": 2009,
+      "marca": "HARLEY-DAVIDSON"
+    }
+  ],
+  "stats": {
+    "total": 7,
+    "precoMin": 37973,
+    "precoMax": 45192,
+    "anos": [
+      2014,
+      2013,
+      2012,
+      2011,
+      2010,
+      2009
+    ]
+  }
+}

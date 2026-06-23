@@ -1,0 +1,52 @@
+{
+  "tipo": "familia",
+  "slug": "adxtg",
+  "canonicalPath": "/fipe/dafra/adxtg/",
+  "titulo": "DAFRA adxtg - Tabela FIPE",
+  "descricao": "3 versoes e anos do DAFRA adxtg na Tabela FIPE.",
+  "seo": {
+    "title": "DAFRA adxtg - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes DAFRA adxtg. 3 veiculos indexados.",
+    "h1": "DAFRA adxtg - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/dafra/adxtg/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "dafra-adxtg-150cc-2027-gasolina",
+      "fipeCodigo": "861035-5",
+      "displayName": "DAFRA ADXTG 150cc",
+      "valorAtual": 21380,
+      "canonicalPath": "/fipe/dafra/adxtg-150cc-2027-861035-5/",
+      "ano": 2027,
+      "marca": "DAFRA"
+    },
+    {
+      "vehicleId": "dafra-adxtg-150cc-2026-gasolina",
+      "fipeCodigo": "861035-5",
+      "displayName": "DAFRA ADXTG 150cc",
+      "valorAtual": 20418,
+      "canonicalPath": "/fipe/dafra/adxtg-150cc-2026-861035-5/",
+      "ano": 2026,
+      "marca": "DAFRA"
+    },
+    {
+      "vehicleId": "dafra-adxtg-150cc-0-gasolina",
+      "fipeCodigo": "861035-5",
+      "displayName": "DAFRA ADXTG 150cc",
+      "valorAtual": 22990,
+      "canonicalPath": "/fipe/dafra/adxtg-150cc-0-861035-5/",
+      "ano": 0,
+      "marca": "DAFRA"
+    }
+  ],
+  "stats": {
+    "total": 3,
+    "precoMin": 20418,
+    "precoMax": 22990,
+    "anos": [
+      2027,
+      2026,
+      0
+    ]
+  }
+}

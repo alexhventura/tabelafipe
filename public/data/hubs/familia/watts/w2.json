@@ -1,0 +1,42 @@
+{
+  "tipo": "familia",
+  "slug": "w2",
+  "canonicalPath": "/fipe/watts/w2/",
+  "titulo": "WATTS w2 - Tabela FIPE",
+  "descricao": "2 versoes e anos do WATTS w2 na Tabela FIPE.",
+  "seo": {
+    "title": "WATTS w2 - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes WATTS w2. 2 veiculos indexados.",
+    "h1": "WATTS w2 - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/watts/w2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "watts-w2-2500w-eletrica-2024-eletrico",
+      "fipeCodigo": "894004-5",
+      "displayName": "WATTS W2 2500W (Elétrica)",
+      "valorAtual": 9891,
+      "canonicalPath": "/fipe/watts/w2-2500w-eletrica-2024-894004-5/",
+      "ano": 2024,
+      "marca": "WATTS"
+    },
+    {
+      "vehicleId": "watts-w2-2500w-eletrica-0-eletrico",
+      "fipeCodigo": "894004-5",
+      "displayName": "WATTS W2 2500W (Elétrica)",
+      "valorAtual": 10874,
+      "canonicalPath": "/fipe/watts/w2-2500w-eletrica-0-894004-5/",
+      "ano": 0,
+      "marca": "WATTS"
+    }
+  ],
+  "stats": {
+    "total": 2,
+    "precoMin": 9891,
+    "precoMax": 10874,
+    "anos": [
+      2024,
+      0
+    ]
+  }
+}

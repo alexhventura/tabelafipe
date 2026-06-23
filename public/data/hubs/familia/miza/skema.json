@@ -1,0 +1,72 @@
+{
+  "tipo": "familia",
+  "slug": "skema",
+  "canonicalPath": "/fipe/miza/skema/",
+  "titulo": "MIZA skema - Tabela FIPE",
+  "descricao": "5 versoes e anos do MIZA skema na Tabela FIPE.",
+  "seo": {
+    "title": "MIZA skema - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes MIZA skema. 5 veiculos indexados.",
+    "h1": "MIZA skema - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/miza/skema/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "miza-skema-lj-125-6-2011-gasolina",
+      "fipeCodigo": "848002-8",
+      "displayName": "MIZA Skema LJ 125-6",
+      "valorAtual": 2265,
+      "canonicalPath": "/fipe/miza/skema-lj-125-6-2011-848002-8/",
+      "ano": 2011,
+      "marca": "MIZA"
+    },
+    {
+      "vehicleId": "miza-skema-lj-125-6-2009-gasolina",
+      "fipeCodigo": "848002-8",
+      "displayName": "MIZA Skema LJ 125-6",
+      "valorAtual": 2191,
+      "canonicalPath": "/fipe/miza/skema-lj-125-6-2009-848002-8/",
+      "ano": 2009,
+      "marca": "MIZA"
+    },
+    {
+      "vehicleId": "miza-skema-lj-125-6-2008-gasolina",
+      "fipeCodigo": "848002-8",
+      "displayName": "MIZA Skema LJ 125-6",
+      "valorAtual": 2135,
+      "canonicalPath": "/fipe/miza/skema-lj-125-6-2008-848002-8/",
+      "ano": 2008,
+      "marca": "MIZA"
+    },
+    {
+      "vehicleId": "miza-skema-lj-125-6-2007-gasolina",
+      "fipeCodigo": "848002-8",
+      "displayName": "MIZA Skema LJ 125-6",
+      "valorAtual": 1943,
+      "canonicalPath": "/fipe/miza/skema-lj-125-6-2007-848002-8/",
+      "ano": 2007,
+      "marca": "MIZA"
+    },
+    {
+      "vehicleId": "miza-skema-lj-125-6-2006-gasolina",
+      "fipeCodigo": "848002-8",
+      "displayName": "MIZA Skema LJ 125-6",
+      "valorAtual": 1646,
+      "canonicalPath": "/fipe/miza/skema-lj-125-6-2006-848002-8/",
+      "ano": 2006,
+      "marca": "MIZA"
+    }
+  ],
+  "stats": {
+    "total": 5,
+    "precoMin": 1646,
+    "precoMax": 2265,
+    "anos": [
+      2011,
+      2009,
+      2008,
+      2007,
+      2006
+    ]
+  }
+}

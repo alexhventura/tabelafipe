@@ -1,0 +1,62 @@
+{
+  "tipo": "familia",
+  "slug": "t8",
+  "canonicalPath": "/fipe/jac/t8/",
+  "titulo": "JAC t8 - Tabela FIPE",
+  "descricao": "4 versoes e anos do JAC t8 na Tabela FIPE.",
+  "seo": {
+    "title": "JAC t8 - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes JAC t8. 4 veiculos indexados.",
+    "h1": "JAC t8 - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/jac/t8/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "jac-t8-2-0-16v-5p-mec-2018-gasolina",
+      "fipeCodigo": "080010-4",
+      "displayName": "JAC T8 2.0 16V 5p Mec.",
+      "valorAtual": 81701,
+      "canonicalPath": "/fipe/jac/t8-2-0-16v-5p-mec-2018-080010-4/",
+      "ano": 2018,
+      "marca": "JAC"
+    },
+    {
+      "vehicleId": "jac-t8-2-0-16v-5p-mec-2017-gasolina",
+      "fipeCodigo": "080010-4",
+      "displayName": "JAC T8 2.0 16V 5p Mec.",
+      "valorAtual": 70392,
+      "canonicalPath": "/fipe/jac/t8-2-0-16v-5p-mec-2017-080010-4/",
+      "ano": 2017,
+      "marca": "JAC"
+    },
+    {
+      "vehicleId": "jac-t8-2-0-16v-5p-mec-2014-gasolina",
+      "fipeCodigo": "080010-4",
+      "displayName": "JAC T8 2.0 16V 5p Mec.",
+      "valorAtual": 67937,
+      "canonicalPath": "/fipe/jac/t8-2-0-16v-5p-mec-2014-080010-4/",
+      "ano": 2014,
+      "marca": "JAC"
+    },
+    {
+      "vehicleId": "jac-t8-2-0-16v-5p-mec-2013-gasolina",
+      "fipeCodigo": "080010-4",
+      "displayName": "JAC T8 2.0 16V 5p Mec.",
+      "valorAtual": 49743,
+      "canonicalPath": "/fipe/jac/t8-2-0-16v-5p-mec-2013-080010-4/",
+      "ano": 2013,
+      "marca": "JAC"
+    }
+  ],
+  "stats": {
+    "total": 4,
+    "precoMin": 49743,
+    "precoMax": 81701,
+    "anos": [
+      2018,
+      2017,
+      2014,
+      2013
+    ]
+  }
+}

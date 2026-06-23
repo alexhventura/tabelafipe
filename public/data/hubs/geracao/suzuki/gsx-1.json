@@ -1,0 +1,84 @@
+{
+  "tipo": "geracao",
+  "slug": "gsx-1",
+  "canonicalPath": "/geracao/suzuki/gsx-1/",
+  "titulo": "Geracao gsx-1",
+  "descricao": "7 veiculos da geracao gsx-1.",
+  "seo": {
+    "title": "Geracao gsx-1 - Precos FIPE",
+    "description": "Veiculos da geracao gsx-1 na Tabela FIPE.",
+    "h1": "Geracao gsx-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/suzuki/gsx-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "suzuki-gsx-1300-r-hayabusa-0-gasolina",
+      "fipeCodigo": "825017-0",
+      "displayName": "SUZUKI GSX 1300-R HAYABUSA",
+      "valorAtual": 126960,
+      "canonicalPath": "/fipe/suzuki/gsx-1300-r-hayabusa-0-825017-0/",
+      "ano": 0,
+      "marca": "SUZUKI"
+    },
+    {
+      "vehicleId": "suzuki-gsx-8r-0-gasolina",
+      "fipeCodigo": "825085-5",
+      "displayName": "SUZUKI GSX-8R",
+      "valorAtual": 56939,
+      "canonicalPath": "/fipe/suzuki/gsx-8r-0-825085-5/",
+      "ano": 0,
+      "marca": "SUZUKI"
+    },
+    {
+      "vehicleId": "suzuki-gsx-8s-0-gasolina",
+      "fipeCodigo": "825083-9",
+      "displayName": "SUZUKI GSX-8S",
+      "valorAtual": 51868,
+      "canonicalPath": "/fipe/suzuki/gsx-8s-0-825083-9/",
+      "ano": 0,
+      "marca": "SUZUKI"
+    },
+    {
+      "vehicleId": "suzuki-gsx-r-1000-r-0-gasolina",
+      "fipeCodigo": "825076-6",
+      "displayName": "SUZUKI GSX-R 1000 R",
+      "valorAtual": 108354,
+      "canonicalPath": "/fipe/suzuki/gsx-r-1000-r-0-825076-6/",
+      "ano": 0,
+      "marca": "SUZUKI"
+    },
+    {
+      "vehicleId": "suzuki-gsx-s-1000-0-gasolina",
+      "fipeCodigo": "825071-5",
+      "displayName": "SUZUKI GSX-S 1000",
+      "valorAtual": 81938,
+      "canonicalPath": "/fipe/suzuki/gsx-s-1000-0-825071-5/",
+      "ano": 0,
+      "marca": "SUZUKI"
+    },
+    {
+      "vehicleId": "suzuki-gsx-s-1000-gt-0-gasolina",
+      "fipeCodigo": "825080-4",
+      "displayName": "SUZUKI GSX-S 1000 GT",
+      "valorAtual": 92485,
+      "canonicalPath": "/fipe/suzuki/gsx-s-1000-gt-0-825080-4/",
+      "ano": 0,
+      "marca": "SUZUKI"
+    },
+    {
+      "vehicleId": "suzuki-gsx-s-1000-gx-0-gasolina",
+      "fipeCodigo": "825086-3",
+      "displayName": "SUZUKI GSX-S 1000 GX",
+      "valorAtual": 97441,
+      "canonicalPath": "/fipe/suzuki/gsx-s-1000-gx-0-825086-3/",
+      "ano": 0,
+      "marca": "SUZUKI"
+    }
+  ],
+  "stats": {
+    "total": 7
+  },
+  "meta": {
+    "geracaoId": "gsx-1"
+  }
+}

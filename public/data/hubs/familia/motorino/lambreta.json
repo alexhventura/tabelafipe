@@ -1,0 +1,42 @@
+{
+  "tipo": "familia",
+  "slug": "lambreta",
+  "canonicalPath": "/fipe/motorino/lambreta/",
+  "titulo": "MOTORINO lambreta - Tabela FIPE",
+  "descricao": "2 versoes e anos do MOTORINO lambreta na Tabela FIPE.",
+  "seo": {
+    "title": "MOTORINO lambreta - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes MOTORINO lambreta. 2 veiculos indexados.",
+    "h1": "MOTORINO lambreta - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/motorino/lambreta/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "motorino-lambreta-v200-special-2019-gasolina",
+      "fipeCodigo": "881017-6",
+      "displayName": "MOTORINO Lambreta V200 Special",
+      "valorAtual": 22304,
+      "canonicalPath": "/fipe/motorino/lambreta-v200-special-2019-881017-6/",
+      "ano": 2019,
+      "marca": "MOTORINO"
+    },
+    {
+      "vehicleId": "motorino-lambreta-v200-special-2018-gasolina",
+      "fipeCodigo": "881017-6",
+      "displayName": "MOTORINO Lambreta V200 Special",
+      "valorAtual": 21091,
+      "canonicalPath": "/fipe/motorino/lambreta-v200-special-2018-881017-6/",
+      "ano": 2018,
+      "marca": "MOTORINO"
+    }
+  ],
+  "stats": {
+    "total": 2,
+    "precoMin": 21091,
+    "precoMax": 22304,
+    "anos": [
+      2019,
+      2018
+    ]
+  }
+}

@@ -1,0 +1,129 @@
+{
+  "tipo": "geracao",
+  "slug": "transit-1",
+  "canonicalPath": "/geracao/ford/transit-1/",
+  "titulo": "Geracao transit-1",
+  "descricao": "12 veiculos da geracao transit-1.",
+  "seo": {
+    "title": "Geracao transit-1 - Precos FIPE",
+    "description": "Veiculos da geracao transit-1 na Tabela FIPE.",
+    "h1": "Geracao transit-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/ford/transit-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "ford-transit-chassi-350e-2-0-ecoblue-diesel-0-diesel",
+      "fipeCodigo": "003503-3",
+      "displayName": "Ford TRANSIT Chassi 350E 2.0 EcoBlue Diesel",
+      "valorAtual": 293100,
+      "canonicalPath": "/fipe/ford/transit-chassi-350e-2-0-ecoblue-diesel-0-003503-3/",
+      "ano": 0,
+      "marca": "Ford"
+    },
+    {
+      "vehicleId": "ford-transit-chassi-470e-2-0-ecoblue-diesel-0-diesel",
+      "fipeCodigo": "003504-1",
+      "displayName": "Ford TRANSIT Chassi 470E 2.0 EcoBlue Diesel",
+      "valorAtual": 275826,
+      "canonicalPath": "/fipe/ford/transit-chassi-470e-2-0-ecoblue-diesel-0-003504-1/",
+      "ano": 0,
+      "marca": "Ford"
+    },
+    {
+      "vehicleId": "ford-transit-furgao-2-0-longo-turbo-die-aut-0-diesel",
+      "fipeCodigo": "003494-0",
+      "displayName": "Ford TRANSIT Furgão 2.0 Longo Turbo Die Aut.",
+      "valorAtual": 309357,
+      "canonicalPath": "/fipe/ford/transit-furgao-2-0-longo-turbo-die-aut-0-003494-0/",
+      "ano": 0,
+      "marca": "Ford"
+    },
+    {
+      "vehicleId": "ford-transit-furgao-2-0-longo-turbo-diesel-0-diesel",
+      "fipeCodigo": "003488-6",
+      "displayName": "Ford TRANSIT Furgão 2.0 Longo Turbo Diesel",
+      "valorAtual": 299533,
+      "canonicalPath": "/fipe/ford/transit-furgao-2-0-longo-turbo-diesel-0-003488-6/",
+      "ano": 0,
+      "marca": "Ford"
+    },
+    {
+      "vehicleId": "ford-transit-furgao-2-0-medio-turbo-aut-0-diesel",
+      "fipeCodigo": "003517-3",
+      "displayName": "Ford TRANSIT Furgão 2.0 Medio Turbo Aut.",
+      "valorAtual": 300050,
+      "canonicalPath": "/fipe/ford/transit-furgao-2-0-medio-turbo-aut-0-003517-3/",
+      "ano": 0,
+      "marca": "Ford"
+    },
+    {
+      "vehicleId": "ford-transit-furgao-2-0-medio-turbo-diesel-0-diesel",
+      "fipeCodigo": "003487-8",
+      "displayName": "Ford TRANSIT Furgão 2.0 Medio Turbo Diesel",
+      "valorAtual": 295211,
+      "canonicalPath": "/fipe/ford/transit-furgao-2-0-medio-turbo-diesel-0-003487-8/",
+      "ano": 0,
+      "marca": "Ford"
+    },
+    {
+      "vehicleId": "ford-transit-minibus-15-lug-2-0-16v-die-aut-0-diesel",
+      "fipeCodigo": "003491-6",
+      "displayName": "Ford TRANSIT Minibus 15 Lug. 2.0 16V Die Aut.",
+      "valorAtual": 361120,
+      "canonicalPath": "/fipe/ford/transit-minibus-15-lug-2-0-16v-die-aut-0-003491-6/",
+      "ano": 0,
+      "marca": "Ford"
+    },
+    {
+      "vehicleId": "ford-transit-minibus-15-lug-2-0-16v-diesel-0-diesel",
+      "fipeCodigo": "003483-5",
+      "displayName": "Ford TRANSIT Minibus 15 Lug. 2.0 16V Diesel",
+      "valorAtual": 350215,
+      "canonicalPath": "/fipe/ford/transit-minibus-15-lug-2-0-16v-diesel-0-003483-5/",
+      "ano": 0,
+      "marca": "Ford"
+    },
+    {
+      "vehicleId": "ford-transit-minibus-18-lug-2-0-16v-die-aut-0-diesel",
+      "fipeCodigo": "003492-4",
+      "displayName": "Ford TRANSIT Minibus 18 Lug. 2.0 16V Die Aut.",
+      "valorAtual": 382206,
+      "canonicalPath": "/fipe/ford/transit-minibus-18-lug-2-0-16v-die-aut-0-003492-4/",
+      "ano": 0,
+      "marca": "Ford"
+    },
+    {
+      "vehicleId": "ford-transit-minibus-18-lug-2-0-16v-diesel-0-diesel",
+      "fipeCodigo": "003484-3",
+      "displayName": "Ford TRANSIT Minibus 18 Lug. 2.0 16V Diesel",
+      "valorAtual": 368131,
+      "canonicalPath": "/fipe/ford/transit-minibus-18-lug-2-0-16v-diesel-0-003484-3/",
+      "ano": 0,
+      "marca": "Ford"
+    },
+    {
+      "vehicleId": "ford-transit-minibus-vidrada-2-0-16v-die-aut-0-diesel",
+      "fipeCodigo": "003493-2",
+      "displayName": "Ford TRANSIT Minibus Vidrada 2.0 16V Die Aut.",
+      "valorAtual": 316344,
+      "canonicalPath": "/fipe/ford/transit-minibus-vidrada-2-0-16v-die-aut-0-003493-2/",
+      "ano": 0,
+      "marca": "Ford"
+    },
+    {
+      "vehicleId": "ford-transit-minibus-vidrada-2-0-16v-diesel-0-diesel",
+      "fipeCodigo": "003482-7",
+      "displayName": "Ford TRANSIT Minibus Vidrada 2.0 16V Diesel",
+      "valorAtual": 310255,
+      "canonicalPath": "/fipe/ford/transit-minibus-vidrada-2-0-16v-diesel-0-003482-7/",
+      "ano": 0,
+      "marca": "Ford"
+    }
+  ],
+  "stats": {
+    "total": 12
+  },
+  "meta": {
+    "geracaoId": "transit-1"
+  }
+}

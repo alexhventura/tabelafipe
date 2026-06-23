@@ -1,0 +1,588 @@
+{
+  "tipo": "geracao",
+  "slug": "s-1",
+  "canonicalPath": "/geracao/bmw/s-1/",
+  "titulo": "Geracao s-1",
+  "descricao": "63 veiculos da geracao s-1.",
+  "seo": {
+    "title": "Geracao s-1 - Precos FIPE",
+    "description": "Veiculos da geracao s-1 na Tabela FIPE.",
+    "h1": "Geracao s-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/bmw/s-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "bmw-s-1000-rr-0-gasolina",
+      "fipeCodigo": "803041-3",
+      "displayName": "BMW S 1000 RR",
+      "valorAtual": 140854,
+      "canonicalPath": "/fipe/bmw/s-1000-rr-0-803041-3/",
+      "ano": 0,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-s-1000-rr-m-0-gasolina",
+      "fipeCodigo": "803078-2",
+      "displayName": "BMW S 1000 RR-M",
+      "valorAtual": 153972,
+      "canonicalPath": "/fipe/bmw/s-1000-rr-m-0-803078-2/",
+      "ano": 0,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-s-1000-rr-m-carbon-0-gasolina",
+      "fipeCodigo": "803087-1",
+      "displayName": "BMW S 1000 RR-M Carbon",
+      "valorAtual": 180135,
+      "canonicalPath": "/fipe/bmw/s-1000-rr-m-carbon-0-803087-1/",
+      "ano": 0,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-s-1000-rr-m-package-0-gasolina",
+      "fipeCodigo": "803123-1",
+      "displayName": "BMW S 1000 RR-M Package",
+      "valorAtual": 159737,
+      "canonicalPath": "/fipe/bmw/s-1000-rr-m-package-0-803123-1/",
+      "ano": 0,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "caoa-chery-chery-s-18-1-3-16v-flex-mec-5p-2010-flex",
+      "fipeCodigo": "073006-8",
+      "displayName": "Caoa Chery/Chery S-18 1.3 16V Flex Mec. 5p",
+      "valorAtual": 15692,
+      "canonicalPath": "/fipe/caoa-chery-chery/s-18-1-3-16v-flex-mec-5p-2010-073006-8/",
+      "ano": 2010,
+      "marca": "Caoa Chery/Chery"
+    },
+    {
+      "vehicleId": "caoa-chery-chery-s-18-1-3-16v-flex-mec-5p-2011-flex",
+      "fipeCodigo": "073006-8",
+      "displayName": "Caoa Chery/Chery S-18 1.3 16V Flex Mec. 5p",
+      "valorAtual": 18207,
+      "canonicalPath": "/fipe/caoa-chery-chery/s-18-1-3-16v-flex-mec-5p-2011-073006-8/",
+      "ano": 2011,
+      "marca": "Caoa Chery/Chery"
+    },
+    {
+      "vehicleId": "caoa-chery-chery-s-18-1-3-16v-flex-mec-5p-2012-flex",
+      "fipeCodigo": "073006-8",
+      "displayName": "Caoa Chery/Chery S-18 1.3 16V Flex Mec. 5p",
+      "valorAtual": 22243,
+      "canonicalPath": "/fipe/caoa-chery-chery/s-18-1-3-16v-flex-mec-5p-2012-073006-8/",
+      "ano": 2012,
+      "marca": "Caoa Chery/Chery"
+    },
+    {
+      "vehicleId": "iveco-s-way-480-grand-cab-4x2-diesel-e6-0-diesel",
+      "fipeCodigo": "506184-9",
+      "displayName": "IVECO S-WAY 480 Grand Cab 4x2 (diesel)(E6)",
+      "valorAtual": 761125,
+      "canonicalPath": "/fipe/iveco/s-way-480-grand-cab-4x2-diesel-e6-0-506184-9/",
+      "ano": 0,
+      "marca": "IVECO"
+    },
+    {
+      "vehicleId": "iveco-s-way-480-grand-cab-6x2-diesel-e6-0-diesel",
+      "fipeCodigo": "506186-5",
+      "displayName": "IVECO S-WAY 480 Grand Cab 6x2 (diesel)(E6)",
+      "valorAtual": 769047,
+      "canonicalPath": "/fipe/iveco/s-way-480-grand-cab-6x2-diesel-e6-0-506186-5/",
+      "ano": 0,
+      "marca": "IVECO"
+    },
+    {
+      "vehicleId": "iveco-s-way-480-mega-cab-4x2-diesel-e6-0-diesel",
+      "fipeCodigo": "506185-7",
+      "displayName": "IVECO S-WAY 480 Mega Cab 4x2 (diesel)(E6)",
+      "valorAtual": 765307,
+      "canonicalPath": "/fipe/iveco/s-way-480-mega-cab-4x2-diesel-e6-0-506185-7/",
+      "ano": 0,
+      "marca": "IVECO"
+    },
+    {
+      "vehicleId": "iveco-s-way-480-mega-cab-6x2-diesel-e6-0-diesel",
+      "fipeCodigo": "506187-3",
+      "displayName": "IVECO S-WAY 480 Mega Cab 6x2 (diesel)(E6)",
+      "valorAtual": 792100,
+      "canonicalPath": "/fipe/iveco/s-way-480-mega-cab-6x2-diesel-e6-0-506187-3/",
+      "ano": 0,
+      "marca": "IVECO"
+    },
+    {
+      "vehicleId": "iveco-s-way-540-grand-cab-6x4-diesel-e6-0-diesel",
+      "fipeCodigo": "506189-0",
+      "displayName": "IVECO S-WAY 540 Grand Cab 6x4 (diesel)(E6)",
+      "valorAtual": 876692,
+      "canonicalPath": "/fipe/iveco/s-way-540-grand-cab-6x4-diesel-e6-0-506189-0/",
+      "ano": 0,
+      "marca": "IVECO"
+    },
+    {
+      "vehicleId": "iveco-s-way-540-mega-cab-6x4-diesel-e6-0-diesel",
+      "fipeCodigo": "506188-1",
+      "displayName": "IVECO S-WAY 540 Mega Cab 6x4 (diesel)(E6)",
+      "valorAtual": 869454,
+      "canonicalPath": "/fipe/iveco/s-way-540-mega-cab-6x4-diesel-e6-0-506188-1/",
+      "ano": 0,
+      "marca": "IVECO"
+    },
+    {
+      "vehicleId": "jaguar-s-type-3-0-3-0-se-v6-1999-gasolina",
+      "fipeCodigo": "016009-1",
+      "displayName": "Jaguar S-Type 3.0/ 3.0 SE V6",
+      "valorAtual": 48400,
+      "canonicalPath": "/fipe/jaguar/s-type-3-0-3-0-se-v6-1999-016009-1/",
+      "ano": 1999,
+      "marca": "Jaguar"
+    },
+    {
+      "vehicleId": "jaguar-s-type-3-0-3-0-se-v6-2000-gasolina",
+      "fipeCodigo": "016009-1",
+      "displayName": "Jaguar S-Type 3.0/ 3.0 SE V6",
+      "valorAtual": 65810,
+      "canonicalPath": "/fipe/jaguar/s-type-3-0-3-0-se-v6-2000-016009-1/",
+      "ano": 2000,
+      "marca": "Jaguar"
+    },
+    {
+      "vehicleId": "jaguar-s-type-3-0-3-0-se-v6-2001-gasolina",
+      "fipeCodigo": "016009-1",
+      "displayName": "Jaguar S-Type 3.0/ 3.0 SE V6",
+      "valorAtual": 76668,
+      "canonicalPath": "/fipe/jaguar/s-type-3-0-3-0-se-v6-2001-016009-1/",
+      "ano": 2001,
+      "marca": "Jaguar"
+    },
+    {
+      "vehicleId": "jaguar-s-type-3-0-3-0-se-v6-2002-gasolina",
+      "fipeCodigo": "016009-1",
+      "displayName": "Jaguar S-Type 3.0/ 3.0 SE V6",
+      "valorAtual": 78625,
+      "canonicalPath": "/fipe/jaguar/s-type-3-0-3-0-se-v6-2002-016009-1/",
+      "ano": 2002,
+      "marca": "Jaguar"
+    },
+    {
+      "vehicleId": "jaguar-s-type-3-0-3-0-se-v6-2003-gasolina",
+      "fipeCodigo": "016009-1",
+      "displayName": "Jaguar S-Type 3.0/ 3.0 SE V6",
+      "valorAtual": 80646,
+      "canonicalPath": "/fipe/jaguar/s-type-3-0-3-0-se-v6-2003-016009-1/",
+      "ano": 2003,
+      "marca": "Jaguar"
+    },
+    {
+      "vehicleId": "jaguar-s-type-3-0-3-0-se-v6-2004-gasolina",
+      "fipeCodigo": "016009-1",
+      "displayName": "Jaguar S-Type 3.0/ 3.0 SE V6",
+      "valorAtual": 82824,
+      "canonicalPath": "/fipe/jaguar/s-type-3-0-3-0-se-v6-2004-016009-1/",
+      "ano": 2004,
+      "marca": "Jaguar"
+    },
+    {
+      "vehicleId": "jaguar-s-type-3-0-3-0-se-v6-2005-gasolina",
+      "fipeCodigo": "016009-1",
+      "displayName": "Jaguar S-Type 3.0/ 3.0 SE V6",
+      "valorAtual": 85288,
+      "canonicalPath": "/fipe/jaguar/s-type-3-0-3-0-se-v6-2005-016009-1/",
+      "ano": 2005,
+      "marca": "Jaguar"
+    },
+    {
+      "vehicleId": "jaguar-s-type-3-0-3-0-se-v6-2006-gasolina",
+      "fipeCodigo": "016009-1",
+      "displayName": "Jaguar S-Type 3.0/ 3.0 SE V6",
+      "valorAtual": 88560,
+      "canonicalPath": "/fipe/jaguar/s-type-3-0-3-0-se-v6-2006-016009-1/",
+      "ano": 2006,
+      "marca": "Jaguar"
+    },
+    {
+      "vehicleId": "jaguar-s-type-3-0-3-0-se-v6-2007-gasolina",
+      "fipeCodigo": "016009-1",
+      "displayName": "Jaguar S-Type 3.0/ 3.0 SE V6",
+      "valorAtual": 92508,
+      "canonicalPath": "/fipe/jaguar/s-type-3-0-3-0-se-v6-2007-016009-1/",
+      "ano": 2007,
+      "marca": "Jaguar"
+    },
+    {
+      "vehicleId": "jaguar-s-type-3-0-3-0-se-v6-2008-gasolina",
+      "fipeCodigo": "016009-1",
+      "displayName": "Jaguar S-Type 3.0/ 3.0 SE V6",
+      "valorAtual": 96244,
+      "canonicalPath": "/fipe/jaguar/s-type-3-0-3-0-se-v6-2008-016009-1/",
+      "ano": 2008,
+      "marca": "Jaguar"
+    },
+    {
+      "vehicleId": "jaguar-s-type-4-2-4-2-se-4-0-v8-32v-2000-gasolina",
+      "fipeCodigo": "016015-6",
+      "displayName": "Jaguar S-Type 4.2/4.2 SE/4.0 V8 32V",
+      "valorAtual": 66426,
+      "canonicalPath": "/fipe/jaguar/s-type-4-2-4-2-se-4-0-v8-32v-2000-016015-6/",
+      "ano": 2000,
+      "marca": "Jaguar"
+    },
+    {
+      "vehicleId": "jaguar-s-type-4-2-4-2-se-4-0-v8-32v-2001-gasolina",
+      "fipeCodigo": "016015-6",
+      "displayName": "Jaguar S-Type 4.2/4.2 SE/4.0 V8 32V",
+      "valorAtual": 77107,
+      "canonicalPath": "/fipe/jaguar/s-type-4-2-4-2-se-4-0-v8-32v-2001-016015-6/",
+      "ano": 2001,
+      "marca": "Jaguar"
+    },
+    {
+      "vehicleId": "jaguar-s-type-4-2-4-2-se-4-0-v8-32v-2002-gasolina",
+      "fipeCodigo": "016015-6",
+      "displayName": "Jaguar S-Type 4.2/4.2 SE/4.0 V8 32V",
+      "valorAtual": 94259,
+      "canonicalPath": "/fipe/jaguar/s-type-4-2-4-2-se-4-0-v8-32v-2002-016015-6/",
+      "ano": 2002,
+      "marca": "Jaguar"
+    },
+    {
+      "vehicleId": "jaguar-s-type-4-2-4-2-se-4-0-v8-32v-2003-gasolina",
+      "fipeCodigo": "016015-6",
+      "displayName": "Jaguar S-Type 4.2/4.2 SE/4.0 V8 32V",
+      "valorAtual": 103332,
+      "canonicalPath": "/fipe/jaguar/s-type-4-2-4-2-se-4-0-v8-32v-2003-016015-6/",
+      "ano": 2003,
+      "marca": "Jaguar"
+    },
+    {
+      "vehicleId": "jaguar-s-type-4-2-4-2-se-4-0-v8-32v-2004-gasolina",
+      "fipeCodigo": "016015-6",
+      "displayName": "Jaguar S-Type 4.2/4.2 SE/4.0 V8 32V",
+      "valorAtual": 105916,
+      "canonicalPath": "/fipe/jaguar/s-type-4-2-4-2-se-4-0-v8-32v-2004-016015-6/",
+      "ano": 2004,
+      "marca": "Jaguar"
+    },
+    {
+      "vehicleId": "jaguar-s-type-4-2-4-2-se-4-0-v8-32v-2005-gasolina",
+      "fipeCodigo": "016015-6",
+      "displayName": "Jaguar S-Type 4.2/4.2 SE/4.0 V8 32V",
+      "valorAtual": 109946,
+      "canonicalPath": "/fipe/jaguar/s-type-4-2-4-2-se-4-0-v8-32v-2005-016015-6/",
+      "ano": 2005,
+      "marca": "Jaguar"
+    },
+    {
+      "vehicleId": "jaguar-s-type-4-2-4-2-se-4-0-v8-32v-2006-gasolina",
+      "fipeCodigo": "016015-6",
+      "displayName": "Jaguar S-Type 4.2/4.2 SE/4.0 V8 32V",
+      "valorAtual": 139916,
+      "canonicalPath": "/fipe/jaguar/s-type-4-2-4-2-se-4-0-v8-32v-2006-016015-6/",
+      "ano": 2006,
+      "marca": "Jaguar"
+    },
+    {
+      "vehicleId": "jaguar-s-type-4-2-4-2-se-4-0-v8-32v-2007-gasolina",
+      "fipeCodigo": "016015-6",
+      "displayName": "Jaguar S-Type 4.2/4.2 SE/4.0 V8 32V",
+      "valorAtual": 143414,
+      "canonicalPath": "/fipe/jaguar/s-type-4-2-4-2-se-4-0-v8-32v-2007-016015-6/",
+      "ano": 2007,
+      "marca": "Jaguar"
+    },
+    {
+      "vehicleId": "jaguar-s-type-4-2-4-2-se-4-0-v8-32v-2008-gasolina",
+      "fipeCodigo": "016015-6",
+      "displayName": "Jaguar S-Type 4.2/4.2 SE/4.0 V8 32V",
+      "valorAtual": 147000,
+      "canonicalPath": "/fipe/jaguar/s-type-4-2-4-2-se-4-0-v8-32v-2008-016015-6/",
+      "ano": 2008,
+      "marca": "Jaguar"
+    },
+    {
+      "vehicleId": "jaguar-s-type-r-4-2-v8-32v-400cv-2005-gasolina",
+      "fipeCodigo": "016019-9",
+      "displayName": "Jaguar S-Type R 4.2 V8 32V 400cv",
+      "valorAtual": 114628,
+      "canonicalPath": "/fipe/jaguar/s-type-r-4-2-v8-32v-400cv-2005-016019-9/",
+      "ano": 2005,
+      "marca": "Jaguar"
+    },
+    {
+      "vehicleId": "jaguar-s-type-r-4-2-v8-32v-400cv-2006-gasolina",
+      "fipeCodigo": "016019-9",
+      "displayName": "Jaguar S-Type R 4.2 V8 32V 400cv",
+      "valorAtual": 141092,
+      "canonicalPath": "/fipe/jaguar/s-type-r-4-2-v8-32v-400cv-2006-016019-9/",
+      "ano": 2006,
+      "marca": "Jaguar"
+    },
+    {
+      "vehicleId": "jaguar-s-type-r-4-2-v8-32v-400cv-2007-gasolina",
+      "fipeCodigo": "016019-9",
+      "displayName": "Jaguar S-Type R 4.2 V8 32V 400cv",
+      "valorAtual": 144620,
+      "canonicalPath": "/fipe/jaguar/s-type-r-4-2-v8-32v-400cv-2007-016019-9/",
+      "ano": 2007,
+      "marca": "Jaguar"
+    },
+    {
+      "vehicleId": "jaguar-s-type-r-4-2-v8-32v-400cv-2008-gasolina",
+      "fipeCodigo": "016019-9",
+      "displayName": "Jaguar S-Type R 4.2 V8 32V 400cv",
+      "valorAtual": 148236,
+      "canonicalPath": "/fipe/jaguar/s-type-r-4-2-v8-32v-400cv-2008-016019-9/",
+      "ano": 2008,
+      "marca": "Jaguar"
+    },
+    {
+      "vehicleId": "mercedes-benz-s-63-amg-s-e-performance-aut-hibrido-0-hibrido",
+      "fipeCodigo": "021540-6",
+      "displayName": "Mercedes-Benz S-63 AMG S E Performance Aut. (Híbrido)",
+      "valorAtual": 1793694,
+      "canonicalPath": "/fipe/mercedes-benz/s-63-amg-s-e-performance-aut-hibrido-0-021540-6/",
+      "ano": 0,
+      "marca": "Mercedes-Benz"
+    },
+    {
+      "vehicleId": "scania-s-460-a-4x2-2p-diesel-e6-0-diesel",
+      "fipeCodigo": "513383-1",
+      "displayName": "SCANIA S-460 A 4x2 2p (diesel)(E6)",
+      "valorAtual": 1142756,
+      "canonicalPath": "/fipe/scania/s-460-a-4x2-2p-diesel-e6-0-513383-1/",
+      "ano": 0,
+      "marca": "SCANIA"
+    },
+    {
+      "vehicleId": "scania-s-460-a-6x2-2p-diesel-e6-0-diesel",
+      "fipeCodigo": "513387-4",
+      "displayName": "SCANIA S-460 A 6x2 2p (diesel)(E6)",
+      "valorAtual": 1188445,
+      "canonicalPath": "/fipe/scania/s-460-a-6x2-2p-diesel-e6-0-513387-4/",
+      "ano": 0,
+      "marca": "SCANIA"
+    },
+    {
+      "vehicleId": "scania-s-500-a-6x2-2p-diesel-e6-0-diesel",
+      "fipeCodigo": "513397-1",
+      "displayName": "SCANIA S-500 A 6x2 2p (diesel)(E6)",
+      "valorAtual": 1212281,
+      "canonicalPath": "/fipe/scania/s-500-a-6x2-2p-diesel-e6-0-513397-1/",
+      "ano": 0,
+      "marca": "SCANIA"
+    },
+    {
+      "vehicleId": "scania-s-500-a-6x4-2p-diesel-e6-0-diesel",
+      "fipeCodigo": "513401-3",
+      "displayName": "SCANIA S-500 A 6x4 2p (diesel)(E6)",
+      "valorAtual": 1267998,
+      "canonicalPath": "/fipe/scania/s-500-a-6x4-2p-diesel-e6-0-513401-3/",
+      "ano": 0,
+      "marca": "SCANIA"
+    },
+    {
+      "vehicleId": "scania-s-560-a-6x2-2p-diesel-e6-0-diesel",
+      "fipeCodigo": "513408-0",
+      "displayName": "SCANIA S-560 A 6x2 2p (diesel)(E6)",
+      "valorAtual": 1255113,
+      "canonicalPath": "/fipe/scania/s-560-a-6x2-2p-diesel-e6-0-513408-0/",
+      "ano": 0,
+      "marca": "SCANIA"
+    },
+    {
+      "vehicleId": "scania-s-560-a-6x4-2p-diesel-e6-0-diesel",
+      "fipeCodigo": "513411-0",
+      "displayName": "SCANIA S-560 A 6x4 2p (diesel)(E6)",
+      "valorAtual": 1326568,
+      "canonicalPath": "/fipe/scania/s-560-a-6x4-2p-diesel-e6-0-513411-0/",
+      "ano": 0,
+      "marca": "SCANIA"
+    },
+    {
+      "vehicleId": "scania-s-660-a-6x2-2p-diesel-e6-0-diesel",
+      "fipeCodigo": "513415-3",
+      "displayName": "SCANIA S-660 A 6x2 2p (diesel)(E6)",
+      "valorAtual": 1332883,
+      "canonicalPath": "/fipe/scania/s-660-a-6x2-2p-diesel-e6-0-513415-3/",
+      "ano": 0,
+      "marca": "SCANIA"
+    },
+    {
+      "vehicleId": "scania-s-660-a-6x4-2p-diesel-e6-0-diesel",
+      "fipeCodigo": "513417-0",
+      "displayName": "SCANIA S-660 A 6x4 2p (diesel)(E6)",
+      "valorAtual": 1447186,
+      "canonicalPath": "/fipe/scania/s-660-a-6x4-2p-diesel-e6-0-513417-0/",
+      "ano": 0,
+      "marca": "SCANIA"
+    },
+    {
+      "vehicleId": "scania-s-770-a-6x2-2p-diesel-e6-0-diesel",
+      "fipeCodigo": "513422-6",
+      "displayName": "SCANIA S-770 A 6x2 2p (diesel)(E6)",
+      "valorAtual": 1465250,
+      "canonicalPath": "/fipe/scania/s-770-a-6x2-2p-diesel-e6-0-513422-6/",
+      "ano": 0,
+      "marca": "SCANIA"
+    },
+    {
+      "vehicleId": "scania-s-770-a-6x4-2p-diesel-e6-0-diesel",
+      "fipeCodigo": "513424-2",
+      "displayName": "SCANIA S-770 A 6x4 2p (diesel)(E6)",
+      "valorAtual": 1515448,
+      "canonicalPath": "/fipe/scania/s-770-a-6x4-2p-diesel-e6-0-513424-2/",
+      "ano": 0,
+      "marca": "SCANIA"
+    },
+    {
+      "vehicleId": "suzuki-s-cross-4style-1-4-tb-16v-aut-2017-gasolina",
+      "fipeCodigo": "028069-0",
+      "displayName": "Suzuki S-CROSS 4STYLE 1.4 TB 16V Aut.",
+      "valorAtual": 71406,
+      "canonicalPath": "/fipe/suzuki/s-cross-4style-1-4-tb-16v-aut-2017-028069-0/",
+      "ano": 2017,
+      "marca": "Suzuki"
+    },
+    {
+      "vehicleId": "suzuki-s-cross-4style-1-4-tb-16v-aut-2018-gasolina",
+      "fipeCodigo": "028069-0",
+      "displayName": "Suzuki S-CROSS 4STYLE 1.4 TB 16V Aut.",
+      "valorAtual": 77402,
+      "canonicalPath": "/fipe/suzuki/s-cross-4style-1-4-tb-16v-aut-2018-028069-0/",
+      "ano": 2018,
+      "marca": "Suzuki"
+    },
+    {
+      "vehicleId": "suzuki-s-cross-4style-1-4-tb-16v-aut-2019-gasolina",
+      "fipeCodigo": "028069-0",
+      "displayName": "Suzuki S-CROSS 4STYLE 1.4 TB 16V Aut.",
+      "valorAtual": 86126,
+      "canonicalPath": "/fipe/suzuki/s-cross-4style-1-4-tb-16v-aut-2019-028069-0/",
+      "ano": 2019,
+      "marca": "Suzuki"
+    },
+    {
+      "vehicleId": "suzuki-s-cross-4style-1-4-tb-16v-aut-2020-gasolina",
+      "fipeCodigo": "028069-0",
+      "displayName": "Suzuki S-CROSS 4STYLE 1.4 TB 16V Aut.",
+      "valorAtual": 90034,
+      "canonicalPath": "/fipe/suzuki/s-cross-4style-1-4-tb-16v-aut-2020-028069-0/",
+      "ano": 2020,
+      "marca": "Suzuki"
+    },
+    {
+      "vehicleId": "suzuki-s-cross-4style-allgrip-1-4-tb-16v-aut-2017-gasolina",
+      "fipeCodigo": "028071-2",
+      "displayName": "Suzuki S-CROSS 4STYLE ALLGRIP 1.4 TB 16V Aut.",
+      "valorAtual": 73677,
+      "canonicalPath": "/fipe/suzuki/s-cross-4style-allgrip-1-4-tb-16v-aut-2017-028071-2/",
+      "ano": 2017,
+      "marca": "Suzuki"
+    },
+    {
+      "vehicleId": "suzuki-s-cross-4style-allgrip-1-4-tb-16v-aut-2018-gasolina",
+      "fipeCodigo": "028071-2",
+      "displayName": "Suzuki S-CROSS 4STYLE ALLGRIP 1.4 TB 16V Aut.",
+      "valorAtual": 79506,
+      "canonicalPath": "/fipe/suzuki/s-cross-4style-allgrip-1-4-tb-16v-aut-2018-028071-2/",
+      "ano": 2018,
+      "marca": "Suzuki"
+    },
+    {
+      "vehicleId": "suzuki-s-cross-4style-allgrip-1-4-tb-16v-aut-2019-gasolina",
+      "fipeCodigo": "028071-2",
+      "displayName": "Suzuki S-CROSS 4STYLE ALLGRIP 1.4 TB 16V Aut.",
+      "valorAtual": 89150,
+      "canonicalPath": "/fipe/suzuki/s-cross-4style-allgrip-1-4-tb-16v-aut-2019-028071-2/",
+      "ano": 2019,
+      "marca": "Suzuki"
+    },
+    {
+      "vehicleId": "suzuki-s-cross-4style-allgrip-1-4-tb-16v-aut-2020-gasolina",
+      "fipeCodigo": "028071-2",
+      "displayName": "Suzuki S-CROSS 4STYLE ALLGRIP 1.4 TB 16V Aut.",
+      "valorAtual": 92664,
+      "canonicalPath": "/fipe/suzuki/s-cross-4style-allgrip-1-4-tb-16v-aut-2020-028071-2/",
+      "ano": 2020,
+      "marca": "Suzuki"
+    },
+    {
+      "vehicleId": "suzuki-s-cross-4style-allgrip-1-4-tb-16v-aut-2021-gasolina",
+      "fipeCodigo": "028071-2",
+      "displayName": "Suzuki S-CROSS 4STYLE ALLGRIP 1.4 TB 16V Aut.",
+      "valorAtual": 94981,
+      "canonicalPath": "/fipe/suzuki/s-cross-4style-allgrip-1-4-tb-16v-aut-2021-028071-2/",
+      "ano": 2021,
+      "marca": "Suzuki"
+    },
+    {
+      "vehicleId": "suzuki-s-cross-4style-s-allgrip-1-4-tb-16v-aut-2019-gasolina",
+      "fipeCodigo": "028074-7",
+      "displayName": "Suzuki S-CROSS 4STYLE-S ALLGRIP 1.4 TB 16V Aut.",
+      "valorAtual": 89681,
+      "canonicalPath": "/fipe/suzuki/s-cross-4style-s-allgrip-1-4-tb-16v-aut-2019-028074-7/",
+      "ano": 2019,
+      "marca": "Suzuki"
+    },
+    {
+      "vehicleId": "suzuki-s-cross-4style-s-allgrip-1-4-tb-16v-aut-2020-gasolina",
+      "fipeCodigo": "028074-7",
+      "displayName": "Suzuki S-CROSS 4STYLE-S ALLGRIP 1.4 TB 16V Aut.",
+      "valorAtual": 102073,
+      "canonicalPath": "/fipe/suzuki/s-cross-4style-s-allgrip-1-4-tb-16v-aut-2020-028074-7/",
+      "ano": 2020,
+      "marca": "Suzuki"
+    },
+    {
+      "vehicleId": "suzuki-s-cross-4style-s-allgrip-1-4-tb-16v-aut-2021-gasolina",
+      "fipeCodigo": "028074-7",
+      "displayName": "Suzuki S-CROSS 4STYLE-S ALLGRIP 1.4 TB 16V Aut.",
+      "valorAtual": 104625,
+      "canonicalPath": "/fipe/suzuki/s-cross-4style-s-allgrip-1-4-tb-16v-aut-2021-028074-7/",
+      "ano": 2021,
+      "marca": "Suzuki"
+    },
+    {
+      "vehicleId": "suzuki-s-cross-4you-1-6-16v-aut-2017-gasolina",
+      "fipeCodigo": "028070-4",
+      "displayName": "Suzuki S-CROSS 4YOU 1.6 16V Aut.",
+      "valorAtual": 66267,
+      "canonicalPath": "/fipe/suzuki/s-cross-4you-1-6-16v-aut-2017-028070-4/",
+      "ano": 2017,
+      "marca": "Suzuki"
+    },
+    {
+      "vehicleId": "suzuki-s-cross-4you-1-6-16v-aut-2018-gasolina",
+      "fipeCodigo": "028070-4",
+      "displayName": "Suzuki S-CROSS 4YOU 1.6 16V Aut.",
+      "valorAtual": 76821,
+      "canonicalPath": "/fipe/suzuki/s-cross-4you-1-6-16v-aut-2018-028070-4/",
+      "ano": 2018,
+      "marca": "Suzuki"
+    },
+    {
+      "vehicleId": "suzuki-s-cross-4you-1-6-16v-aut-2019-gasolina",
+      "fipeCodigo": "028070-4",
+      "displayName": "Suzuki S-CROSS 4YOU 1.6 16V Aut.",
+      "valorAtual": 81681,
+      "canonicalPath": "/fipe/suzuki/s-cross-4you-1-6-16v-aut-2019-028070-4/",
+      "ano": 2019,
+      "marca": "Suzuki"
+    },
+    {
+      "vehicleId": "zontes-s-350-0-gasolina",
+      "fipeCodigo": "895010-5",
+      "displayName": "ZONTES S 350",
+      "valorAtual": 34567,
+      "canonicalPath": "/fipe/zontes/s-350-0-895010-5/",
+      "ano": 0,
+      "marca": "ZONTES"
+    }
+  ],
+  "stats": {
+    "total": 63
+  },
+  "meta": {
+    "geracaoId": "s-1"
+  }
+}

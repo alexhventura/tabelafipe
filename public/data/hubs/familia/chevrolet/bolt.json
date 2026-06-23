@@ -1,0 +1,52 @@
+{
+  "tipo": "familia",
+  "slug": "bolt",
+  "canonicalPath": "/fipe/chevrolet/bolt/",
+  "titulo": "GM - Chevrolet bolt - Tabela FIPE",
+  "descricao": "3 versoes e anos do GM - Chevrolet bolt na Tabela FIPE.",
+  "seo": {
+    "title": "GM - Chevrolet bolt - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes GM - Chevrolet bolt. 3 veiculos indexados.",
+    "h1": "GM - Chevrolet bolt - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/chevrolet/bolt/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "chevrolet-bolt-euv-premier-203cv-eletrico-2023-eletrico",
+      "fipeCodigo": "004545-4",
+      "displayName": "GM - Chevrolet BOLT EUV Premier 203cv (Elétrico)",
+      "valorAtual": 162741,
+      "canonicalPath": "/fipe/chevrolet/bolt-euv-premier-203cv-eletrico-2023-004545-4/",
+      "ano": 2023,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-bolt-ev-premier-203cv-eletrico-2022-eletrico",
+      "fipeCodigo": "004520-9",
+      "displayName": "GM - Chevrolet BOLT EV Premier 203cv (Elétrico)",
+      "valorAtual": 135731,
+      "canonicalPath": "/fipe/chevrolet/bolt-ev-premier-203cv-eletrico-2022-004520-9/",
+      "ano": 2022,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-bolt-ev-premier-203cv-eletrico-2020-eletrico",
+      "fipeCodigo": "004520-9",
+      "displayName": "GM - Chevrolet BOLT EV Premier 203cv (Elétrico)",
+      "valorAtual": 131100,
+      "canonicalPath": "/fipe/chevrolet/bolt-ev-premier-203cv-eletrico-2020-004520-9/",
+      "ano": 2020,
+      "marca": "GM - Chevrolet"
+    }
+  ],
+  "stats": {
+    "total": 3,
+    "precoMin": 131100,
+    "precoMax": 162741,
+    "anos": [
+      2023,
+      2022,
+      2020
+    ]
+  }
+}

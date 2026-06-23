@@ -1,0 +1,52 @@
+{
+  "tipo": "familia",
+  "slug": "545ia",
+  "canonicalPath": "/fipe/bmw/545ia/",
+  "titulo": "BMW 545ia - Tabela FIPE",
+  "descricao": "3 versoes e anos do BMW 545ia na Tabela FIPE.",
+  "seo": {
+    "title": "BMW 545ia - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes BMW 545ia. 3 veiculos indexados.",
+    "h1": "BMW 545ia - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/bmw/545ia/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "bmw-545ia-4-4-32v-v8-333cv-2006-gasolina",
+      "fipeCodigo": "009102-2",
+      "displayName": "BMW 545iA 4.4 32V V8 333cv",
+      "valorAtual": 78398,
+      "canonicalPath": "/fipe/bmw/545ia-4-4-32v-v8-333cv-2006-009102-2/",
+      "ano": 2006,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-545ia-4-4-32v-v8-333cv-2005-gasolina",
+      "fipeCodigo": "009102-2",
+      "displayName": "BMW 545iA 4.4 32V V8 333cv",
+      "valorAtual": 67805,
+      "canonicalPath": "/fipe/bmw/545ia-4-4-32v-v8-333cv-2005-009102-2/",
+      "ano": 2005,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-545ia-4-4-32v-v8-333cv-2004-gasolina",
+      "fipeCodigo": "009102-2",
+      "displayName": "BMW 545iA 4.4 32V V8 333cv",
+      "valorAtual": 52714,
+      "canonicalPath": "/fipe/bmw/545ia-4-4-32v-v8-333cv-2004-009102-2/",
+      "ano": 2004,
+      "marca": "BMW"
+    }
+  ],
+  "stats": {
+    "total": 3,
+    "precoMin": 52714,
+    "precoMax": 78398,
+    "anos": [
+      2006,
+      2005,
+      2004
+    ]
+  }
+}

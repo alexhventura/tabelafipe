@@ -1,0 +1,52 @@
+{
+  "tipo": "familia",
+  "slug": "ev1",
+  "canonicalPath": "/fipe/voltz/ev1/",
+  "titulo": "VOLTZ ev1 - Tabela FIPE",
+  "descricao": "3 versoes e anos do VOLTZ ev1 na Tabela FIPE.",
+  "seo": {
+    "title": "VOLTZ ev1 - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes VOLTZ ev1. 3 veiculos indexados.",
+    "h1": "VOLTZ ev1 - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/voltz/ev1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "voltz-ev1-sport-3000w-eletrica-2023-eletrico",
+      "fipeCodigo": "889003-0",
+      "displayName": "VOLTZ EV1 Sport 3000W (elétrica)",
+      "valorAtual": 11815,
+      "canonicalPath": "/fipe/voltz/ev1-sport-3000w-eletrica-2023-889003-0/",
+      "ano": 2023,
+      "marca": "VOLTZ"
+    },
+    {
+      "vehicleId": "voltz-ev1-sport-3000w-eletrica-2022-eletrico",
+      "fipeCodigo": "889003-0",
+      "displayName": "VOLTZ EV1 Sport 3000W (elétrica)",
+      "valorAtual": 10998,
+      "canonicalPath": "/fipe/voltz/ev1-sport-3000w-eletrica-2022-889003-0/",
+      "ano": 2022,
+      "marca": "VOLTZ"
+    },
+    {
+      "vehicleId": "voltz-ev1-sport-3000w-eletrica-2021-eletrico",
+      "fipeCodigo": "889003-0",
+      "displayName": "VOLTZ EV1 Sport 3000W (elétrica)",
+      "valorAtual": 9909,
+      "canonicalPath": "/fipe/voltz/ev1-sport-3000w-eletrica-2021-889003-0/",
+      "ano": 2021,
+      "marca": "VOLTZ"
+    }
+  ],
+  "stats": {
+    "total": 3,
+    "precoMin": 9909,
+    "precoMax": 11815,
+    "anos": [
+      2023,
+      2022,
+      2021
+    ]
+  }
+}

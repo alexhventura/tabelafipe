@@ -1,0 +1,66 @@
+{
+  "tipo": "geracao",
+  "slug": "flhtcu-1",
+  "canonicalPath": "/geracao/harley-davidson/flhtcu-1/",
+  "titulo": "Geracao flhtcu-1",
+  "descricao": "5 veiculos da geracao flhtcu-1.",
+  "seo": {
+    "title": "Geracao flhtcu-1 - Precos FIPE",
+    "description": "Veiculos da geracao flhtcu-1 na Tabela FIPE.",
+    "h1": "Geracao flhtcu-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/harley-davidson/flhtcu-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "harley-davidson-flhtcu-ultra-glide-1995-gasolina",
+      "fipeCodigo": "810010-1",
+      "displayName": "HARLEY-DAVIDSON FLHTCU ULTRA GLIDE",
+      "valorAtual": 29193,
+      "canonicalPath": "/fipe/harley-davidson/flhtcu-ultra-glide-1995-810010-1/",
+      "ano": 1995,
+      "marca": "HARLEY-DAVIDSON"
+    },
+    {
+      "vehicleId": "harley-davidson-flhtcu-ultra-glide-1996-gasolina",
+      "fipeCodigo": "810010-1",
+      "displayName": "HARLEY-DAVIDSON FLHTCU ULTRA GLIDE",
+      "valorAtual": 31413,
+      "canonicalPath": "/fipe/harley-davidson/flhtcu-ultra-glide-1996-810010-1/",
+      "ano": 1996,
+      "marca": "HARLEY-DAVIDSON"
+    },
+    {
+      "vehicleId": "harley-davidson-flhtcu-ultra-glide-1997-gasolina",
+      "fipeCodigo": "810010-1",
+      "displayName": "HARLEY-DAVIDSON FLHTCU ULTRA GLIDE",
+      "valorAtual": 37625,
+      "canonicalPath": "/fipe/harley-davidson/flhtcu-ultra-glide-1997-810010-1/",
+      "ano": 1997,
+      "marca": "HARLEY-DAVIDSON"
+    },
+    {
+      "vehicleId": "harley-davidson-flhtcu-ultra-glide-1998-gasolina",
+      "fipeCodigo": "810010-1",
+      "displayName": "HARLEY-DAVIDSON FLHTCU ULTRA GLIDE",
+      "valorAtual": 43916,
+      "canonicalPath": "/fipe/harley-davidson/flhtcu-ultra-glide-1998-810010-1/",
+      "ano": 1998,
+      "marca": "HARLEY-DAVIDSON"
+    },
+    {
+      "vehicleId": "harley-davidson-flhtcu-ultra-glide-1999-gasolina",
+      "fipeCodigo": "810010-1",
+      "displayName": "HARLEY-DAVIDSON FLHTCU ULTRA GLIDE",
+      "valorAtual": 45014,
+      "canonicalPath": "/fipe/harley-davidson/flhtcu-ultra-glide-1999-810010-1/",
+      "ano": 1999,
+      "marca": "HARLEY-DAVIDSON"
+    }
+  ],
+  "stats": {
+    "total": 5
+  },
+  "meta": {
+    "geracaoId": "flhtcu-1"
+  }
+}

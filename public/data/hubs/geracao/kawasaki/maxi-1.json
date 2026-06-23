@@ -1,0 +1,48 @@
+{
+  "tipo": "geracao",
+  "slug": "maxi-1",
+  "canonicalPath": "/geracao/kawasaki/maxi-1/",
+  "titulo": "Geracao maxi-1",
+  "descricao": "3 veiculos da geracao maxi-1.",
+  "seo": {
+    "title": "Geracao maxi-1 - Precos FIPE",
+    "description": "Veiculos da geracao maxi-1 na Tabela FIPE.",
+    "h1": "Geracao maxi-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/kawasaki/maxi-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "kawasaki-maxi-ii-100cc-1997-gasolina",
+      "fipeCodigo": "817006-1",
+      "displayName": "KAWASAKI MAXI II 100cc",
+      "valorAtual": 1137,
+      "canonicalPath": "/fipe/kawasaki/maxi-ii-100cc-1997-817006-1/",
+      "ano": 1997,
+      "marca": "KAWASAKI"
+    },
+    {
+      "vehicleId": "kawasaki-maxi-ii-100cc-1998-gasolina",
+      "fipeCodigo": "817006-1",
+      "displayName": "KAWASAKI MAXI II 100cc",
+      "valorAtual": 1231,
+      "canonicalPath": "/fipe/kawasaki/maxi-ii-100cc-1998-817006-1/",
+      "ano": 1998,
+      "marca": "KAWASAKI"
+    },
+    {
+      "vehicleId": "kawasaki-maxi-ii-100cc-1999-gasolina",
+      "fipeCodigo": "817006-1",
+      "displayName": "KAWASAKI MAXI II 100cc",
+      "valorAtual": 1263,
+      "canonicalPath": "/fipe/kawasaki/maxi-ii-100cc-1999-817006-1/",
+      "ano": 1999,
+      "marca": "KAWASAKI"
+    }
+  ],
+  "stats": {
+    "total": 3
+  },
+  "meta": {
+    "geracaoId": "maxi-1"
+  }
+}

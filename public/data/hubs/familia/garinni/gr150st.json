@@ -1,0 +1,72 @@
+{
+  "tipo": "familia",
+  "slug": "gr150st",
+  "canonicalPath": "/fipe/garinni/gr150st/",
+  "titulo": "GARINNI gr150st - Tabela FIPE",
+  "descricao": "5 versoes e anos do GARINNI gr150st na Tabela FIPE.",
+  "seo": {
+    "title": "GARINNI gr150st - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes GARINNI gr150st. 5 veiculos indexados.",
+    "h1": "GARINNI gr150st - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/garinni/gr150st/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "garinni-gr150st-2011-gasolina",
+      "fipeCodigo": "847008-1",
+      "displayName": "GARINNI GR150ST",
+      "valorAtual": 2946,
+      "canonicalPath": "/fipe/garinni/gr150st-2011-847008-1/",
+      "ano": 2011,
+      "marca": "GARINNI"
+    },
+    {
+      "vehicleId": "garinni-gr150st-2010-gasolina",
+      "fipeCodigo": "847008-1",
+      "displayName": "GARINNI GR150ST",
+      "valorAtual": 2461,
+      "canonicalPath": "/fipe/garinni/gr150st-2010-847008-1/",
+      "ano": 2010,
+      "marca": "GARINNI"
+    },
+    {
+      "vehicleId": "garinni-gr150st-2009-gasolina",
+      "fipeCodigo": "847008-1",
+      "displayName": "GARINNI GR150ST",
+      "valorAtual": 2321,
+      "canonicalPath": "/fipe/garinni/gr150st-2009-847008-1/",
+      "ano": 2009,
+      "marca": "GARINNI"
+    },
+    {
+      "vehicleId": "garinni-gr150st-2008-gasolina",
+      "fipeCodigo": "847008-1",
+      "displayName": "GARINNI GR150ST",
+      "valorAtual": 2067,
+      "canonicalPath": "/fipe/garinni/gr150st-2008-847008-1/",
+      "ano": 2008,
+      "marca": "GARINNI"
+    },
+    {
+      "vehicleId": "garinni-gr150st-2007-gasolina",
+      "fipeCodigo": "847008-1",
+      "displayName": "GARINNI GR150ST",
+      "valorAtual": 1846,
+      "canonicalPath": "/fipe/garinni/gr150st-2007-847008-1/",
+      "ano": 2007,
+      "marca": "GARINNI"
+    }
+  ],
+  "stats": {
+    "total": 5,
+    "precoMin": 1846,
+    "precoMax": 2946,
+    "anos": [
+      2011,
+      2010,
+      2009,
+      2008,
+      2007
+    ]
+  }
+}

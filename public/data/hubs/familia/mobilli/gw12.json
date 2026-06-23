@@ -1,0 +1,52 @@
+{
+  "tipo": "familia",
+  "slug": "gw12",
+  "canonicalPath": "/fipe/mobilli/gw12/",
+  "titulo": "Mobílli gw12 - Tabela FIPE",
+  "descricao": "3 versoes e anos do Mobílli gw12 na Tabela FIPE.",
+  "seo": {
+    "title": "Mobílli gw12 - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes Mobílli gw12. 3 veiculos indexados.",
+    "h1": "Mobílli gw12 - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/mobilli/gw12/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "mobilli-gw12-2026-gasolina",
+      "fipeCodigo": "703001-0",
+      "displayName": "Mobílli GW12",
+      "valorAtual": 12965,
+      "canonicalPath": "/fipe/mobilli/gw12-2026-703001-0/",
+      "ano": 2026,
+      "marca": "Mobílli"
+    },
+    {
+      "vehicleId": "mobilli-gw12-2025-gasolina",
+      "fipeCodigo": "703001-0",
+      "displayName": "Mobílli GW12",
+      "valorAtual": 12485,
+      "canonicalPath": "/fipe/mobilli/gw12-2025-703001-0/",
+      "ano": 2025,
+      "marca": "Mobílli"
+    },
+    {
+      "vehicleId": "mobilli-gw12-0-gasolina",
+      "fipeCodigo": "703001-0",
+      "displayName": "Mobílli GW12",
+      "valorAtual": 14000,
+      "canonicalPath": "/fipe/mobilli/gw12-0-703001-0/",
+      "ano": 0,
+      "marca": "Mobílli"
+    }
+  ],
+  "stats": {
+    "total": 3,
+    "precoMin": 12485,
+    "precoMax": 14000,
+    "anos": [
+      2026,
+      2025,
+      0
+    ]
+  }
+}

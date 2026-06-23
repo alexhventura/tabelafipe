@@ -1,0 +1,52 @@
+{
+  "tipo": "familia",
+  "slug": "scram",
+  "canonicalPath": "/fipe/royal-enfield/scram/",
+  "titulo": "Royal Enfield scram - Tabela FIPE",
+  "descricao": "3 versoes e anos do Royal Enfield scram na Tabela FIPE.",
+  "seo": {
+    "title": "Royal Enfield scram - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes Royal Enfield scram. 3 veiculos indexados.",
+    "h1": "Royal Enfield scram - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/royal-enfield/scram/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "royal-enfield-scram-411-efi-2024-gasolina",
+      "fipeCodigo": "879031-0",
+      "displayName": "Royal Enfield Scram 411 EFI",
+      "valorAtual": 21362,
+      "canonicalPath": "/fipe/royal-enfield/scram-411-efi-2024-879031-0/",
+      "ano": 2024,
+      "marca": "Royal Enfield"
+    },
+    {
+      "vehicleId": "royal-enfield-scram-411-efi-2023-gasolina",
+      "fipeCodigo": "879031-0",
+      "displayName": "Royal Enfield Scram 411 EFI",
+      "valorAtual": 20835,
+      "canonicalPath": "/fipe/royal-enfield/scram-411-efi-2023-879031-0/",
+      "ano": 2023,
+      "marca": "Royal Enfield"
+    },
+    {
+      "vehicleId": "royal-enfield-scram-411-efi-2022-gasolina",
+      "fipeCodigo": "879031-0",
+      "displayName": "Royal Enfield Scram 411 EFI",
+      "valorAtual": 20225,
+      "canonicalPath": "/fipe/royal-enfield/scram-411-efi-2022-879031-0/",
+      "ano": 2022,
+      "marca": "Royal Enfield"
+    }
+  ],
+  "stats": {
+    "total": 3,
+    "precoMin": 20225,
+    "precoMax": 21362,
+    "anos": [
+      2024,
+      2023,
+      2022
+    ]
+  }
+}

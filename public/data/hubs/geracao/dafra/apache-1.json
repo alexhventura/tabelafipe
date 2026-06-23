@@ -1,0 +1,75 @@
+{
+  "tipo": "geracao",
+  "slug": "apache-1",
+  "canonicalPath": "/geracao/dafra/apache-1/",
+  "titulo": "Geracao apache-1",
+  "descricao": "6 veiculos da geracao apache-1.",
+  "seo": {
+    "title": "Geracao apache-1 - Precos FIPE",
+    "description": "Veiculos da geracao apache-1 na Tabela FIPE.",
+    "h1": "Geracao apache-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/dafra/apache-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "dafra-apache-150cc-2010-gasolina",
+      "fipeCodigo": "861009-6",
+      "displayName": "DAFRA APACHE 150cc",
+      "valorAtual": 4270,
+      "canonicalPath": "/fipe/dafra/apache-150cc-2010-861009-6/",
+      "ano": 2010,
+      "marca": "DAFRA"
+    },
+    {
+      "vehicleId": "dafra-apache-150cc-2011-gasolina",
+      "fipeCodigo": "861009-6",
+      "displayName": "DAFRA APACHE 150cc",
+      "valorAtual": 4764,
+      "canonicalPath": "/fipe/dafra/apache-150cc-2011-861009-6/",
+      "ano": 2011,
+      "marca": "DAFRA"
+    },
+    {
+      "vehicleId": "dafra-apache-150cc-2012-gasolina",
+      "fipeCodigo": "861009-6",
+      "displayName": "DAFRA APACHE 150cc",
+      "valorAtual": 5341,
+      "canonicalPath": "/fipe/dafra/apache-150cc-2012-861009-6/",
+      "ano": 2012,
+      "marca": "DAFRA"
+    },
+    {
+      "vehicleId": "dafra-apache-150cc-2013-gasolina",
+      "fipeCodigo": "861009-6",
+      "displayName": "DAFRA APACHE 150cc",
+      "valorAtual": 5475,
+      "canonicalPath": "/fipe/dafra/apache-150cc-2013-861009-6/",
+      "ano": 2013,
+      "marca": "DAFRA"
+    },
+    {
+      "vehicleId": "dafra-apache-150cc-2014-gasolina",
+      "fipeCodigo": "861009-6",
+      "displayName": "DAFRA APACHE 150cc",
+      "valorAtual": 5818,
+      "canonicalPath": "/fipe/dafra/apache-150cc-2014-861009-6/",
+      "ano": 2014,
+      "marca": "DAFRA"
+    },
+    {
+      "vehicleId": "dafra-apache-150cc-2015-gasolina",
+      "fipeCodigo": "861009-6",
+      "displayName": "DAFRA APACHE 150cc",
+      "valorAtual": 5964,
+      "canonicalPath": "/fipe/dafra/apache-150cc-2015-861009-6/",
+      "ano": 2015,
+      "marca": "DAFRA"
+    }
+  ],
+  "stats": {
+    "total": 6
+  },
+  "meta": {
+    "geracaoId": "apache-1"
+  }
+}

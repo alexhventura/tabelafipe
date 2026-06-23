@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "te-3",
+  "canonicalPath": "/geracao/husqvarna/te-3/",
+  "titulo": "Geracao te-3",
+  "descricao": "2 veiculos da geracao te-3.",
+  "seo": {
+    "title": "Geracao te-3 - Precos FIPE",
+    "description": "Veiculos da geracao te-3 na Tabela FIPE.",
+    "h1": "Geracao te-3",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/husqvarna/te-3/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "husqvarna-te-450-2004-gasolina",
+      "fipeCodigo": "812018-8",
+      "displayName": "HUSQVARNA TE 450",
+      "valorAtual": 10553,
+      "canonicalPath": "/fipe/husqvarna/te-450-2004-812018-8/",
+      "ano": 2004,
+      "marca": "HUSQVARNA"
+    },
+    {
+      "vehicleId": "husqvarna-te-570-2004-gasolina",
+      "fipeCodigo": "812014-5",
+      "displayName": "HUSQVARNA TE 570",
+      "valorAtual": 12703,
+      "canonicalPath": "/fipe/husqvarna/te-570-2004-812014-5/",
+      "ano": 2004,
+      "marca": "HUSQVARNA"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "te-3"
+  }
+}

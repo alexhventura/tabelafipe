@@ -1,0 +1,42 @@
+{
+  "tipo": "familia",
+  "slug": "vx",
+  "canonicalPath": "/fipe/suzuki/vx/",
+  "titulo": "SUZUKI vx - Tabela FIPE",
+  "descricao": "2 versoes e anos do SUZUKI vx na Tabela FIPE.",
+  "seo": {
+    "title": "SUZUKI vx - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes SUZUKI vx. 2 veiculos indexados.",
+    "h1": "SUZUKI vx - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/suzuki/vx/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "suzuki-vx-800cc-1995-gasolina",
+      "fipeCodigo": "825028-6",
+      "displayName": "SUZUKI VX 800cc",
+      "valorAtual": 14685,
+      "canonicalPath": "/fipe/suzuki/vx-800cc-1995-825028-6/",
+      "ano": 1995,
+      "marca": "SUZUKI"
+    },
+    {
+      "vehicleId": "suzuki-vx-800cc-1994-gasolina",
+      "fipeCodigo": "825028-6",
+      "displayName": "SUZUKI VX 800cc",
+      "valorAtual": 14326,
+      "canonicalPath": "/fipe/suzuki/vx-800cc-1994-825028-6/",
+      "ano": 1994,
+      "marca": "SUZUKI"
+    }
+  ],
+  "stats": {
+    "total": 2,
+    "precoMin": 14326,
+    "precoMax": 14685,
+    "anos": [
+      1995,
+      1994
+    ]
+  }
+}

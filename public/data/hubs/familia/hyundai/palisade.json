@@ -1,0 +1,52 @@
+{
+  "tipo": "familia",
+  "slug": "palisade",
+  "canonicalPath": "/fipe/hyundai/palisade/",
+  "titulo": "Hyundai palisade - Tabela FIPE",
+  "descricao": "3 versoes e anos do Hyundai palisade na Tabela FIPE.",
+  "seo": {
+    "title": "Hyundai palisade - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes Hyundai palisade. 3 veiculos indexados.",
+    "h1": "Hyundai palisade - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/hyundai/palisade/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "hyundai-palisade-signature-3-8-gdi-awd-aut-2026-gasolina",
+      "fipeCodigo": "015248-0",
+      "displayName": "Hyundai PALISADE Signature 3.8 GDI AWD Aut.",
+      "valorAtual": 410924,
+      "canonicalPath": "/fipe/hyundai/palisade-signature-3-8-gdi-awd-aut-2026-015248-0/",
+      "ano": 2026,
+      "marca": "Hyundai"
+    },
+    {
+      "vehicleId": "hyundai-palisade-signature-3-8-gdi-awd-aut-2025-gasolina",
+      "fipeCodigo": "015248-0",
+      "displayName": "Hyundai PALISADE Signature 3.8 GDI AWD Aut.",
+      "valorAtual": 366172,
+      "canonicalPath": "/fipe/hyundai/palisade-signature-3-8-gdi-awd-aut-2025-015248-0/",
+      "ano": 2025,
+      "marca": "Hyundai"
+    },
+    {
+      "vehicleId": "hyundai-palisade-signature-3-8-gdi-awd-aut-0-gasolina",
+      "fipeCodigo": "015248-0",
+      "displayName": "Hyundai PALISADE Signature 3.8 GDI AWD Aut.",
+      "valorAtual": 432561,
+      "canonicalPath": "/fipe/hyundai/palisade-signature-3-8-gdi-awd-aut-0-015248-0/",
+      "ano": 0,
+      "marca": "Hyundai"
+    }
+  ],
+  "stats": {
+    "total": 3,
+    "precoMin": 366172,
+    "precoMax": 432561,
+    "anos": [
+      2026,
+      2025,
+      0
+    ]
+  }
+}

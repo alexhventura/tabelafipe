@@ -1,0 +1,75 @@
+{
+  "tipo": "geracao",
+  "slug": "840ci-1",
+  "canonicalPath": "/geracao/bmw/840ci-1/",
+  "titulo": "Geracao 840ci-1",
+  "descricao": "6 veiculos da geracao 840ci-1.",
+  "seo": {
+    "title": "Geracao 840ci-1 - Precos FIPE",
+    "description": "Veiculos da geracao 840ci-1 na Tabela FIPE.",
+    "h1": "Geracao 840ci-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/bmw/840ci-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "bmw-840ci-1992-gasolina",
+      "fipeCodigo": "009050-6",
+      "displayName": "BMW 840Ci",
+      "valorAtual": 29990,
+      "canonicalPath": "/fipe/bmw/840ci-1992-009050-6/",
+      "ano": 1992,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-840ci-1993-gasolina",
+      "fipeCodigo": "009050-6",
+      "displayName": "BMW 840Ci",
+      "valorAtual": 31132,
+      "canonicalPath": "/fipe/bmw/840ci-1993-009050-6/",
+      "ano": 1993,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-840ci-1994-gasolina",
+      "fipeCodigo": "009050-6",
+      "displayName": "BMW 840Ci",
+      "valorAtual": 34237,
+      "canonicalPath": "/fipe/bmw/840ci-1994-009050-6/",
+      "ano": 1994,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-840ci-1995-gasolina",
+      "fipeCodigo": "009050-6",
+      "displayName": "BMW 840Ci",
+      "valorAtual": 40454,
+      "canonicalPath": "/fipe/bmw/840ci-1995-009050-6/",
+      "ano": 1995,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-840ci-1996-gasolina",
+      "fipeCodigo": "009050-6",
+      "displayName": "BMW 840Ci",
+      "valorAtual": 42941,
+      "canonicalPath": "/fipe/bmw/840ci-1996-009050-6/",
+      "ano": 1996,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-840ci-1997-gasolina",
+      "fipeCodigo": "009050-6",
+      "displayName": "BMW 840Ci",
+      "valorAtual": 44750,
+      "canonicalPath": "/fipe/bmw/840ci-1997-009050-6/",
+      "ano": 1997,
+      "marca": "BMW"
+    }
+  ],
+  "stats": {
+    "total": 6
+  },
+  "meta": {
+    "geracaoId": "840ci-1"
+  }
+}

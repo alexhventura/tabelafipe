@@ -1,0 +1,62 @@
+{
+  "tipo": "familia",
+  "slug": "gladiator",
+  "canonicalPath": "/fipe/jeep/gladiator/",
+  "titulo": "Jeep gladiator - Tabela FIPE",
+  "descricao": "4 versoes e anos do Jeep gladiator na Tabela FIPE.",
+  "seo": {
+    "title": "Jeep gladiator - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes Jeep gladiator. 4 veiculos indexados.",
+    "h1": "Jeep gladiator - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/jeep/gladiator/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "jeep-gladiator-rubicon-3-6-v6-284-cv-2024-gasolina",
+      "fipeCodigo": "017091-7",
+      "displayName": "Jeep Gladiator Rubicon 3.6 V6 284 cv",
+      "valorAtual": 440215,
+      "canonicalPath": "/fipe/jeep/gladiator-rubicon-3-6-v6-284-cv-2024-017091-7/",
+      "ano": 2024,
+      "marca": "Jeep"
+    },
+    {
+      "vehicleId": "jeep-gladiator-rubicon-3-6-v6-284-cv-2023-gasolina",
+      "fipeCodigo": "017091-7",
+      "displayName": "Jeep Gladiator Rubicon 3.6 V6 284 cv",
+      "valorAtual": 344446,
+      "canonicalPath": "/fipe/jeep/gladiator-rubicon-3-6-v6-284-cv-2023-017091-7/",
+      "ano": 2023,
+      "marca": "Jeep"
+    },
+    {
+      "vehicleId": "jeep-gladiator-rubicon-3-6-v6-284-cv-2022-gasolina",
+      "fipeCodigo": "017091-7",
+      "displayName": "Jeep Gladiator Rubicon 3.6 V6 284 cv",
+      "valorAtual": 327907,
+      "canonicalPath": "/fipe/jeep/gladiator-rubicon-3-6-v6-284-cv-2022-017091-7/",
+      "ano": 2022,
+      "marca": "Jeep"
+    },
+    {
+      "vehicleId": "jeep-gladiator-rubicon-3-6-v6-284-cv-0-gasolina",
+      "fipeCodigo": "017091-7",
+      "displayName": "Jeep Gladiator Rubicon 3.6 V6 284 cv",
+      "valorAtual": 495500,
+      "canonicalPath": "/fipe/jeep/gladiator-rubicon-3-6-v6-284-cv-0-017091-7/",
+      "ano": 0,
+      "marca": "Jeep"
+    }
+  ],
+  "stats": {
+    "total": 4,
+    "precoMin": 327907,
+    "precoMax": 495500,
+    "anos": [
+      2024,
+      2023,
+      2022,
+      0
+    ]
+  }
+}

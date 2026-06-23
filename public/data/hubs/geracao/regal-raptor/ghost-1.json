@@ -1,0 +1,57 @@
+{
+  "tipo": "geracao",
+  "slug": "ghost-1",
+  "canonicalPath": "/geracao/regal-raptor/ghost-1/",
+  "titulo": "Geracao ghost-1",
+  "descricao": "4 veiculos da geracao ghost-1.",
+  "seo": {
+    "title": "Geracao ghost-1 - Precos FIPE",
+    "description": "Veiculos da geracao ghost-1 na Tabela FIPE.",
+    "h1": "Geracao ghost-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/regal-raptor/ghost-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "regal-raptor-ghost-270-320-2009-gasolina",
+      "fipeCodigo": "872004-5",
+      "displayName": "REGAL RAPTOR GHOST 270/320",
+      "valorAtual": 8440,
+      "canonicalPath": "/fipe/regal-raptor/ghost-270-320-2009-872004-5/",
+      "ano": 2009,
+      "marca": "REGAL RAPTOR"
+    },
+    {
+      "vehicleId": "rolls-royce-ghost-6-6-v12-aut-2011-gasolina",
+      "fipeCodigo": "087001-3",
+      "displayName": "Rolls-Royce Ghost 6.6 V12 Aut.",
+      "valorAtual": 1832328,
+      "canonicalPath": "/fipe/rolls-royce/ghost-6-6-v12-aut-2011-087001-3/",
+      "ano": 2011,
+      "marca": "Rolls-Royce"
+    },
+    {
+      "vehicleId": "rolls-royce-ghost-6-6-v12-aut-2012-gasolina",
+      "fipeCodigo": "087001-3",
+      "displayName": "Rolls-Royce Ghost 6.6 V12 Aut.",
+      "valorAtual": 2130252,
+      "canonicalPath": "/fipe/rolls-royce/ghost-6-6-v12-aut-2012-087001-3/",
+      "ano": 2012,
+      "marca": "Rolls-Royce"
+    },
+    {
+      "vehicleId": "rolls-royce-ghost-6-6-v12-aut-2013-gasolina",
+      "fipeCodigo": "087001-3",
+      "displayName": "Rolls-Royce Ghost 6.6 V12 Aut.",
+      "valorAtual": 2251961,
+      "canonicalPath": "/fipe/rolls-royce/ghost-6-6-v12-aut-2013-087001-3/",
+      "ano": 2013,
+      "marca": "Rolls-Royce"
+    }
+  ],
+  "stats": {
+    "total": 4
+  },
+  "meta": {
+    "geracaoId": "ghost-1"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "tipo": "familia",
+  "slug": "ss10",
+  "canonicalPath": "/fipe/chevrolet/ss10/",
+  "titulo": "GM - Chevrolet ss10 - Tabela FIPE",
+  "descricao": "3 versoes e anos do GM - Chevrolet ss10 na Tabela FIPE.",
+  "seo": {
+    "title": "GM - Chevrolet ss10 - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes GM - Chevrolet ss10. 3 veiculos indexados.",
+    "h1": "GM - Chevrolet ss10 - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/chevrolet/ss10/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "chevrolet-ss10-pick-up-4-3-v6-1996-gasolina",
+      "fipeCodigo": "004163-7",
+      "displayName": "GM - Chevrolet SS10 Pick-Up 4.3 V6",
+      "valorAtual": 46444,
+      "canonicalPath": "/fipe/chevrolet/ss10-pick-up-4-3-v6-1996-004163-7/",
+      "ano": 1996,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-ss10-pick-up-4-3-v6-1995-gasolina",
+      "fipeCodigo": "004163-7",
+      "displayName": "GM - Chevrolet SS10 Pick-Up 4.3 V6",
+      "valorAtual": 45311,
+      "canonicalPath": "/fipe/chevrolet/ss10-pick-up-4-3-v6-1995-004163-7/",
+      "ano": 1995,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-ss10-pick-up-4-3-v6-1994-gasolina",
+      "fipeCodigo": "004163-7",
+      "displayName": "GM - Chevrolet SS10 Pick-Up 4.3 V6",
+      "valorAtual": 44205,
+      "canonicalPath": "/fipe/chevrolet/ss10-pick-up-4-3-v6-1994-004163-7/",
+      "ano": 1994,
+      "marca": "GM - Chevrolet"
+    }
+  ],
+  "stats": {
+    "total": 3,
+    "precoMin": 44205,
+    "precoMax": 46444,
+    "anos": [
+      1996,
+      1995,
+      1994
+    ]
+  }
+}

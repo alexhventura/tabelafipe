@@ -1,0 +1,98 @@
+{
+  "tipo": "familia",
+  "slug": "king",
+  "canonicalPath": "/fipe/byd/king/",
+  "titulo": "BYD king - Tabela FIPE",
+  "descricao": "8 versoes e anos do BYD king na Tabela FIPE.",
+  "seo": {
+    "title": "BYD king - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes BYD king. 8 veiculos indexados.",
+    "h1": "BYD king - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/byd/king/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "byd-king-gl-1-5-16v-aut-hibrido-2027-hibrido",
+      "fipeCodigo": "095012-2",
+      "displayName": "BYD King GL 1.5 16V Aut. (Hibrido)",
+      "valorAtual": 156266,
+      "canonicalPath": "/fipe/byd/king-gl-1-5-16v-aut-hibrido-2027-095012-2/",
+      "ano": 2027,
+      "marca": "BYD"
+    },
+    {
+      "vehicleId": "byd-king-gs-1-5-16v-aut-hibrido-2027-hibrido",
+      "fipeCodigo": "095011-4",
+      "displayName": "BYD King GS 1.5 16V Aut. (Hibrido)",
+      "valorAtual": 165206,
+      "canonicalPath": "/fipe/byd/king-gs-1-5-16v-aut-hibrido-2027-095011-4/",
+      "ano": 2027,
+      "marca": "BYD"
+    },
+    {
+      "vehicleId": "byd-king-gl-1-5-16v-aut-hibrido-2026-hibrido",
+      "fipeCodigo": "095012-2",
+      "displayName": "BYD King GL 1.5 16V Aut. (Hibrido)",
+      "valorAtual": 152203,
+      "canonicalPath": "/fipe/byd/king-gl-1-5-16v-aut-hibrido-2026-095012-2/",
+      "ano": 2026,
+      "marca": "BYD"
+    },
+    {
+      "vehicleId": "byd-king-gs-1-5-16v-aut-hibrido-2026-hibrido",
+      "fipeCodigo": "095011-4",
+      "displayName": "BYD King GS 1.5 16V Aut. (Hibrido)",
+      "valorAtual": 160020,
+      "canonicalPath": "/fipe/byd/king-gs-1-5-16v-aut-hibrido-2026-095011-4/",
+      "ano": 2026,
+      "marca": "BYD"
+    },
+    {
+      "vehicleId": "byd-king-gl-1-5-16v-aut-hibrido-2025-hibrido",
+      "fipeCodigo": "095012-2",
+      "displayName": "BYD King GL 1.5 16V Aut. (Hibrido)",
+      "valorAtual": 139053,
+      "canonicalPath": "/fipe/byd/king-gl-1-5-16v-aut-hibrido-2025-095012-2/",
+      "ano": 2025,
+      "marca": "BYD"
+    },
+    {
+      "vehicleId": "byd-king-gs-1-5-16v-aut-hibrido-2025-hibrido",
+      "fipeCodigo": "095011-4",
+      "displayName": "BYD King GS 1.5 16V Aut. (Hibrido)",
+      "valorAtual": 148128,
+      "canonicalPath": "/fipe/byd/king-gs-1-5-16v-aut-hibrido-2025-095011-4/",
+      "ano": 2025,
+      "marca": "BYD"
+    },
+    {
+      "vehicleId": "byd-king-gl-1-5-16v-aut-hibrido-0-hibrido",
+      "fipeCodigo": "095012-2",
+      "displayName": "BYD King GL 1.5 16V Aut. (Hibrido)",
+      "valorAtual": 172990,
+      "canonicalPath": "/fipe/byd/king-gl-1-5-16v-aut-hibrido-0-095012-2/",
+      "ano": 0,
+      "marca": "BYD"
+    },
+    {
+      "vehicleId": "byd-king-gs-1-5-16v-aut-hibrido-0-hibrido",
+      "fipeCodigo": "095011-4",
+      "displayName": "BYD King GS 1.5 16V Aut. (Hibrido)",
+      "valorAtual": 175990,
+      "canonicalPath": "/fipe/byd/king-gs-1-5-16v-aut-hibrido-0-095011-4/",
+      "ano": 0,
+      "marca": "BYD"
+    }
+  ],
+  "stats": {
+    "total": 8,
+    "precoMin": 139053,
+    "precoMax": 175990,
+    "anos": [
+      2027,
+      2026,
+      2025,
+      0
+    ]
+  }
+}

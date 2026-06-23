@@ -1,0 +1,52 @@
+{
+  "tipo": "familia",
+  "slug": "passing",
+  "canonicalPath": "/fipe/sanyang/passing/",
+  "titulo": "SANYANG passing - Tabela FIPE",
+  "descricao": "3 versoes e anos do SANYANG passing na Tabela FIPE.",
+  "seo": {
+    "title": "SANYANG passing - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes SANYANG passing. 3 veiculos indexados.",
+    "h1": "SANYANG passing - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/sanyang/passing/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "sanyang-passing-110-1998-gasolina",
+      "fipeCodigo": "823003-0",
+      "displayName": "SANYANG PASSING 110",
+      "valorAtual": 2020,
+      "canonicalPath": "/fipe/sanyang/passing-110-1998-823003-0/",
+      "ano": 1998,
+      "marca": "SANYANG"
+    },
+    {
+      "vehicleId": "sanyang-passing-110-1997-gasolina",
+      "fipeCodigo": "823003-0",
+      "displayName": "SANYANG PASSING 110",
+      "valorAtual": 1901,
+      "canonicalPath": "/fipe/sanyang/passing-110-1997-823003-0/",
+      "ano": 1997,
+      "marca": "SANYANG"
+    },
+    {
+      "vehicleId": "sanyang-passing-110-1996-gasolina",
+      "fipeCodigo": "823003-0",
+      "displayName": "SANYANG PASSING 110",
+      "valorAtual": 1661,
+      "canonicalPath": "/fipe/sanyang/passing-110-1996-823003-0/",
+      "ano": 1996,
+      "marca": "SANYANG"
+    }
+  ],
+  "stats": {
+    "total": 3,
+    "precoMin": 1661,
+    "precoMax": 2020,
+    "anos": [
+      1998,
+      1997,
+      1996
+    ]
+  }
+}

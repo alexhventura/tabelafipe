@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "nqi-1",
+  "canonicalPath": "/geracao/niu/nqi-1/",
+  "titulo": "Geracao nqi-1",
+  "descricao": "2 veiculos da geracao nqi-1.",
+  "seo": {
+    "title": "Geracao nqi-1 - Precos FIPE",
+    "description": "Veiculos da geracao nqi-1 na Tabela FIPE.",
+    "h1": "Geracao nqi-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/niu/nqi-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "niu-nqi-gts-3000w-eletrica-0-eletrico",
+      "fipeCodigo": "893003-1",
+      "displayName": "NIU NQI GTS 3000W (Elétrica)",
+      "valorAtual": 34456,
+      "canonicalPath": "/fipe/niu/nqi-gts-3000w-eletrica-0-893003-1/",
+      "ano": 0,
+      "marca": "NIU"
+    },
+    {
+      "vehicleId": "niu-nqi-sport-1500w-eletrica-0-eletrico",
+      "fipeCodigo": "893002-3",
+      "displayName": "NIU NQI Sport 1500W (Elétrica)",
+      "valorAtual": 19754,
+      "canonicalPath": "/fipe/niu/nqi-sport-1500w-eletrica-0-893002-3/",
+      "ano": 0,
+      "marca": "NIU"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "nqi-1"
+  }
+}

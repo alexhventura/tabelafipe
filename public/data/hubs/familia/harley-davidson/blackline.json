@@ -1,0 +1,42 @@
+{
+  "tipo": "familia",
+  "slug": "blackline",
+  "canonicalPath": "/fipe/harley-davidson/blackline/",
+  "titulo": "HARLEY-DAVIDSON blackline - Tabela FIPE",
+  "descricao": "2 versoes e anos do HARLEY-DAVIDSON blackline na Tabela FIPE.",
+  "seo": {
+    "title": "HARLEY-DAVIDSON blackline - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes HARLEY-DAVIDSON blackline. 2 veiculos indexados.",
+    "h1": "HARLEY-DAVIDSON blackline - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/harley-davidson/blackline/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "harley-davidson-blackline-fxs-2013-gasolina",
+      "fipeCodigo": "810057-8",
+      "displayName": "HARLEY-DAVIDSON BLACKLINE FXS",
+      "valorAtual": 56890,
+      "canonicalPath": "/fipe/harley-davidson/blackline-fxs-2013-810057-8/",
+      "ano": 2013,
+      "marca": "HARLEY-DAVIDSON"
+    },
+    {
+      "vehicleId": "harley-davidson-blackline-fxs-2012-gasolina",
+      "fipeCodigo": "810057-8",
+      "displayName": "HARLEY-DAVIDSON BLACKLINE FXS",
+      "valorAtual": 55502,
+      "canonicalPath": "/fipe/harley-davidson/blackline-fxs-2012-810057-8/",
+      "ano": 2012,
+      "marca": "HARLEY-DAVIDSON"
+    }
+  ],
+  "stats": {
+    "total": 2,
+    "precoMin": 55502,
+    "precoMax": 56890,
+    "anos": [
+      2013,
+      2012
+    ]
+  }
+}

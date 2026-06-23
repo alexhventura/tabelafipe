@@ -1,0 +1,62 @@
+{
+  "tipo": "familia",
+  "slug": "zr",
+  "canonicalPath": "/fipe/honda/zr/",
+  "titulo": "Honda zr - Tabela FIPE",
+  "descricao": "4 versoes e anos do Honda zr na Tabela FIPE.",
+  "seo": {
+    "title": "Honda zr - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes Honda zr. 4 veiculos indexados.",
+    "h1": "Honda zr - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/honda/zr/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "honda-zr-v-touring-2-0-16v-5p-aut-2026-gasolina",
+      "fipeCodigo": "014114-3",
+      "displayName": "Honda ZR-V Touring 2.0 16V 5p Aut.",
+      "valorAtual": 202155,
+      "canonicalPath": "/fipe/honda/zr-v-touring-2-0-16v-5p-aut-2026-014114-3/",
+      "ano": 2026,
+      "marca": "Honda"
+    },
+    {
+      "vehicleId": "honda-zr-v-touring-2-0-16v-5p-aut-2025-gasolina",
+      "fipeCodigo": "014114-3",
+      "displayName": "Honda ZR-V Touring 2.0 16V 5p Aut.",
+      "valorAtual": 164142,
+      "canonicalPath": "/fipe/honda/zr-v-touring-2-0-16v-5p-aut-2025-014114-3/",
+      "ano": 2025,
+      "marca": "Honda"
+    },
+    {
+      "vehicleId": "honda-zr-v-touring-2-0-16v-5p-aut-2024-gasolina",
+      "fipeCodigo": "014114-3",
+      "displayName": "Honda ZR-V Touring 2.0 16V 5p Aut.",
+      "valorAtual": 155993,
+      "canonicalPath": "/fipe/honda/zr-v-touring-2-0-16v-5p-aut-2024-014114-3/",
+      "ano": 2024,
+      "marca": "Honda"
+    },
+    {
+      "vehicleId": "honda-zr-v-touring-2-0-16v-5p-aut-0-gasolina",
+      "fipeCodigo": "014114-3",
+      "displayName": "Honda ZR-V Touring 2.0 16V 5p Aut.",
+      "valorAtual": 215133,
+      "canonicalPath": "/fipe/honda/zr-v-touring-2-0-16v-5p-aut-0-014114-3/",
+      "ano": 0,
+      "marca": "Honda"
+    }
+  ],
+  "stats": {
+    "total": 4,
+    "precoMin": 155993,
+    "precoMax": 215133,
+    "anos": [
+      2026,
+      2025,
+      2024,
+      0
+    ]
+  }
+}

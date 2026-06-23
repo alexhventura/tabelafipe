@@ -1,0 +1,41 @@
+{
+  "tipo": "familia",
+  "slug": "seres",
+  "canonicalPath": "/fipe/seres/seres/",
+  "titulo": "SERES seres - Tabela FIPE",
+  "descricao": "2 versoes e anos do SERES seres na Tabela FIPE.",
+  "seo": {
+    "title": "SERES seres - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes SERES seres. 2 veiculos indexados.",
+    "h1": "SERES seres - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/seres/seres/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "seres-seres-3-bev-eletrico-2023-eletrico",
+      "fipeCodigo": "098001-3",
+      "displayName": "SERES SERES 3 BEV  (Elétrico)",
+      "valorAtual": 141936,
+      "canonicalPath": "/fipe/seres/seres-3-bev-eletrico-2023-098001-3/",
+      "ano": 2023,
+      "marca": "SERES"
+    },
+    {
+      "vehicleId": "seres-seres-5-bev-eletrico-2023-eletrico",
+      "fipeCodigo": "098002-1",
+      "displayName": "SERES SERES 5 BEV (Elétrico)",
+      "valorAtual": 332334,
+      "canonicalPath": "/fipe/seres/seres-5-bev-eletrico-2023-098002-1/",
+      "ano": 2023,
+      "marca": "SERES"
+    }
+  ],
+  "stats": {
+    "total": 2,
+    "precoMin": 141936,
+    "precoMax": 332334,
+    "anos": [
+      2023
+    ]
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "tipo": "geracao",
+  "slug": "bonneville-1",
+  "canonicalPath": "/geracao/triumph/bonneville-1/",
+  "titulo": "Geracao bonneville-1",
+  "descricao": "7 veiculos da geracao bonneville-1.",
+  "seo": {
+    "title": "Geracao bonneville-1 - Precos FIPE",
+    "description": "Veiculos da geracao bonneville-1 na Tabela FIPE.",
+    "h1": "Geracao bonneville-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/triumph/bonneville-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "triumph-bonneville-bobber-1200cc-0-gasolina",
+      "fipeCodigo": "826060-5",
+      "displayName": "TRIUMPH BONNEVILLE BOBBER 1200cc",
+      "valorAtual": 72542,
+      "canonicalPath": "/fipe/triumph/bonneville-bobber-1200cc-0-826060-5/",
+      "ano": 0,
+      "marca": "TRIUMPH"
+    },
+    {
+      "vehicleId": "triumph-bonneville-bobber-icon-edition-1200cc-0-gasolina",
+      "fipeCodigo": "826115-6",
+      "displayName": "TRIUMPH BONNEVILLE BOBBER ICON EDITION 1200cc",
+      "valorAtual": 71000,
+      "canonicalPath": "/fipe/triumph/bonneville-bobber-icon-edition-1200cc-0-826115-6/",
+      "ano": 0,
+      "marca": "TRIUMPH"
+    },
+    {
+      "vehicleId": "triumph-bonneville-speedmaster-1200cc-0-gasolina",
+      "fipeCodigo": "826088-5",
+      "displayName": "TRIUMPH BONNEVILLE SPEEDMASTER 1200cc",
+      "valorAtual": 71607,
+      "canonicalPath": "/fipe/triumph/bonneville-speedmaster-1200cc-0-826088-5/",
+      "ano": 0,
+      "marca": "TRIUMPH"
+    },
+    {
+      "vehicleId": "triumph-bonneville-t100-0-gasolina",
+      "fipeCodigo": "826023-0",
+      "displayName": "TRIUMPH BONNEVILLE T100",
+      "valorAtual": 57243,
+      "canonicalPath": "/fipe/triumph/bonneville-t100-0-826023-0/",
+      "ano": 0,
+      "marca": "TRIUMPH"
+    },
+    {
+      "vehicleId": "triumph-bonneville-t100-stealth-edition-0-gasolina",
+      "fipeCodigo": "826108-3",
+      "displayName": "TRIUMPH BONNEVILLE T100 STEALTH EDITION",
+      "valorAtual": 58922,
+      "canonicalPath": "/fipe/triumph/bonneville-t100-stealth-edition-0-826108-3/",
+      "ano": 0,
+      "marca": "TRIUMPH"
+    },
+    {
+      "vehicleId": "triumph-bonneville-t120-black-0-gasolina",
+      "fipeCodigo": "826057-5",
+      "displayName": "TRIUMPH BONNEVILLE T120 BLACK",
+      "valorAtual": 64664,
+      "canonicalPath": "/fipe/triumph/bonneville-t120-black-0-826057-5/",
+      "ano": 0,
+      "marca": "TRIUMPH"
+    },
+    {
+      "vehicleId": "triumph-bonneville-t120-black-stealth-edition-0-gasolina",
+      "fipeCodigo": "826105-9",
+      "displayName": "TRIUMPH BONNEVILLE T120 BLACK STEALTH EDITION",
+      "valorAtual": 66246,
+      "canonicalPath": "/fipe/triumph/bonneville-t120-black-stealth-edition-0-826105-9/",
+      "ano": 0,
+      "marca": "TRIUMPH"
+    }
+  ],
+  "stats": {
+    "total": 7
+  },
+  "meta": {
+    "geracaoId": "bonneville-1"
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "tipo": "geracao",
+  "slug": "versa-2",
+  "canonicalPath": "/geracao/nissan/versa-2/",
+  "titulo": "Geracao versa-2",
+  "descricao": "9 veiculos da geracao versa-2.",
+  "seo": {
+    "title": "Geracao versa-2 - Precos FIPE",
+    "description": "Veiculos da geracao versa-2 na Tabela FIPE.",
+    "h1": "Geracao versa-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/nissan/versa-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "nissan-versa-s-1-6-16v-flex-fuel-4p-mec-2012-flex",
+      "fipeCodigo": "023111-8",
+      "displayName": "Nissan VERSA S 1.6 16V Flex Fuel 4p Mec.",
+      "valorAtual": 33042,
+      "canonicalPath": "/fipe/nissan/versa-s-1-6-16v-flex-fuel-4p-mec-2012-023111-8/",
+      "ano": 2012,
+      "marca": "Nissan"
+    },
+    {
+      "vehicleId": "nissan-versa-s-1-6-16v-flex-fuel-4p-mec-2013-flex",
+      "fipeCodigo": "023111-8",
+      "displayName": "Nissan VERSA S 1.6 16V Flex Fuel 4p Mec.",
+      "valorAtual": 37437,
+      "canonicalPath": "/fipe/nissan/versa-s-1-6-16v-flex-fuel-4p-mec-2013-023111-8/",
+      "ano": 2013,
+      "marca": "Nissan"
+    },
+    {
+      "vehicleId": "nissan-versa-s-1-6-16v-flex-fuel-4p-mec-2014-flex",
+      "fipeCodigo": "023111-8",
+      "displayName": "Nissan VERSA S 1.6 16V Flex Fuel 4p Mec.",
+      "valorAtual": 38373,
+      "canonicalPath": "/fipe/nissan/versa-s-1-6-16v-flex-fuel-4p-mec-2014-023111-8/",
+      "ano": 2014,
+      "marca": "Nissan"
+    },
+    {
+      "vehicleId": "nissan-versa-sl-1-6-16v-flex-fuel-4p-mec-2012-flex",
+      "fipeCodigo": "023113-4",
+      "displayName": "Nissan VERSA SL 1.6 16V Flex Fuel 4p Mec.",
+      "valorAtual": 33182,
+      "canonicalPath": "/fipe/nissan/versa-sl-1-6-16v-flex-fuel-4p-mec-2012-023113-4/",
+      "ano": 2012,
+      "marca": "Nissan"
+    },
+    {
+      "vehicleId": "nissan-versa-sl-1-6-16v-flex-fuel-4p-mec-2013-flex",
+      "fipeCodigo": "023113-4",
+      "displayName": "Nissan VERSA SL 1.6 16V Flex Fuel 4p Mec.",
+      "valorAtual": 38137,
+      "canonicalPath": "/fipe/nissan/versa-sl-1-6-16v-flex-fuel-4p-mec-2013-023113-4/",
+      "ano": 2013,
+      "marca": "Nissan"
+    },
+    {
+      "vehicleId": "nissan-versa-sl-1-6-16v-flex-fuel-4p-mec-2014-flex",
+      "fipeCodigo": "023113-4",
+      "displayName": "Nissan VERSA SL 1.6 16V Flex Fuel 4p Mec.",
+      "valorAtual": 39091,
+      "canonicalPath": "/fipe/nissan/versa-sl-1-6-16v-flex-fuel-4p-mec-2014-023113-4/",
+      "ano": 2014,
+      "marca": "Nissan"
+    },
+    {
+      "vehicleId": "nissan-versa-sv-1-6-16v-flex-fuel-4p-mec-2012-flex",
+      "fipeCodigo": "023112-6",
+      "displayName": "Nissan VERSA SV 1.6 16V Flex Fuel 4p Mec.",
+      "valorAtual": 33074,
+      "canonicalPath": "/fipe/nissan/versa-sv-1-6-16v-flex-fuel-4p-mec-2012-023112-6/",
+      "ano": 2012,
+      "marca": "Nissan"
+    },
+    {
+      "vehicleId": "nissan-versa-sv-1-6-16v-flex-fuel-4p-mec-2013-flex",
+      "fipeCodigo": "023112-6",
+      "displayName": "Nissan VERSA SV 1.6 16V Flex Fuel 4p Mec.",
+      "valorAtual": 37620,
+      "canonicalPath": "/fipe/nissan/versa-sv-1-6-16v-flex-fuel-4p-mec-2013-023112-6/",
+      "ano": 2013,
+      "marca": "Nissan"
+    },
+    {
+      "vehicleId": "nissan-versa-sv-1-6-16v-flex-fuel-4p-mec-2014-flex",
+      "fipeCodigo": "023112-6",
+      "displayName": "Nissan VERSA SV 1.6 16V Flex Fuel 4p Mec.",
+      "valorAtual": 38879,
+      "canonicalPath": "/fipe/nissan/versa-sv-1-6-16v-flex-fuel-4p-mec-2014-023112-6/",
+      "ano": 2014,
+      "marca": "Nissan"
+    }
+  ],
+  "stats": {
+    "total": 9
+  },
+  "meta": {
+    "geracaoId": "versa-2"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "tipo": "familia",
+  "slug": "m340i",
+  "canonicalPath": "/fipe/bmw/m340i/",
+  "titulo": "BMW m340i - Tabela FIPE",
+  "descricao": "3 versoes e anos do BMW m340i na Tabela FIPE.",
+  "seo": {
+    "title": "BMW m340i - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes BMW m340i. 3 veiculos indexados.",
+    "h1": "BMW m340i - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/bmw/m340i/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "bmw-m340i-xdrive-3-0-turbo-aut-2022-gasolina",
+      "fipeCodigo": "009269-0",
+      "displayName": "BMW M340i XDRIVE 3.0 Turbo Aut.",
+      "valorAtual": 343323,
+      "canonicalPath": "/fipe/bmw/m340i-xdrive-3-0-turbo-aut-2022-009269-0/",
+      "ano": 2022,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-m340i-xdrive-3-0-turbo-aut-2021-gasolina",
+      "fipeCodigo": "009269-0",
+      "displayName": "BMW M340i XDRIVE 3.0 Turbo Aut.",
+      "valorAtual": 320857,
+      "canonicalPath": "/fipe/bmw/m340i-xdrive-3-0-turbo-aut-2021-009269-0/",
+      "ano": 2021,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-m340i-xdrive-first-ed-3-0-turbo-aut-2020-gasolina",
+      "fipeCodigo": "009267-3",
+      "displayName": "BMW M340i XDRIVE First Ed. 3.0 Turbo Aut.",
+      "valorAtual": 334532,
+      "canonicalPath": "/fipe/bmw/m340i-xdrive-first-ed-3-0-turbo-aut-2020-009267-3/",
+      "ano": 2020,
+      "marca": "BMW"
+    }
+  ],
+  "stats": {
+    "total": 3,
+    "precoMin": 320857,
+    "precoMax": 343323,
+    "anos": [
+      2022,
+      2021,
+      2020
+    ]
+  }
+}

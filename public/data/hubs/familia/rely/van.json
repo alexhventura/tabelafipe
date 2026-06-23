@@ -1,0 +1,42 @@
+{
+  "tipo": "familia",
+  "slug": "van",
+  "canonicalPath": "/fipe/rely/van/",
+  "titulo": "RELY van - Tabela FIPE",
+  "descricao": "2 versoes e anos do RELY van na Tabela FIPE.",
+  "seo": {
+    "title": "RELY van - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes RELY van. 2 veiculos indexados.",
+    "h1": "RELY van - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/rely/van/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "rely-van-q22-1-0-5p-2014-gasolina",
+      "fipeCodigo": "084002-5",
+      "displayName": "RELY VAN Q22 1.0 5p",
+      "valorAtual": 23927,
+      "canonicalPath": "/fipe/rely/van-q22-1-0-5p-2014-084002-5/",
+      "ano": 2014,
+      "marca": "RELY"
+    },
+    {
+      "vehicleId": "rely-van-q22-1-0-5p-2013-gasolina",
+      "fipeCodigo": "084002-5",
+      "displayName": "RELY VAN Q22 1.0 5p",
+      "valorAtual": 22943,
+      "canonicalPath": "/fipe/rely/van-q22-1-0-5p-2013-084002-5/",
+      "ano": 2013,
+      "marca": "RELY"
+    }
+  ],
+  "stats": {
+    "total": 2,
+    "precoMin": 22943,
+    "precoMax": 23927,
+    "anos": [
+      2014,
+      2013
+    ]
+  }
+}

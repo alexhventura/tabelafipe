@@ -1,0 +1,72 @@
+{
+  "tipo": "familia",
+  "slug": "halley",
+  "canonicalPath": "/fipe/mvk/halley/",
+  "titulo": "MVK halley - Tabela FIPE",
+  "descricao": "5 versoes e anos do MVK halley na Tabela FIPE.",
+  "seo": {
+    "title": "MVK halley - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes MVK halley. 5 veiculos indexados.",
+    "h1": "MVK halley - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/mvk/halley/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "mvk-halley-fenix-200-2011-gasolina",
+      "fipeCodigo": "845008-0",
+      "displayName": "MVK HALLEY / FENIX 200",
+      "valorAtual": 6301,
+      "canonicalPath": "/fipe/mvk/halley-fenix-200-2011-845008-0/",
+      "ano": 2011,
+      "marca": "MVK"
+    },
+    {
+      "vehicleId": "mvk-halley-fenix-200-2009-gasolina",
+      "fipeCodigo": "845008-0",
+      "displayName": "MVK HALLEY / FENIX 200",
+      "valorAtual": 5851,
+      "canonicalPath": "/fipe/mvk/halley-fenix-200-2009-845008-0/",
+      "ano": 2009,
+      "marca": "MVK"
+    },
+    {
+      "vehicleId": "mvk-halley-fenix-200-2008-gasolina",
+      "fipeCodigo": "845008-0",
+      "displayName": "MVK HALLEY / FENIX 200",
+      "valorAtual": 4932,
+      "canonicalPath": "/fipe/mvk/halley-fenix-200-2008-845008-0/",
+      "ano": 2008,
+      "marca": "MVK"
+    },
+    {
+      "vehicleId": "mvk-halley-fenix-200-2007-gasolina",
+      "fipeCodigo": "845008-0",
+      "displayName": "MVK HALLEY / FENIX 200",
+      "valorAtual": 4500,
+      "canonicalPath": "/fipe/mvk/halley-fenix-200-2007-845008-0/",
+      "ano": 2007,
+      "marca": "MVK"
+    },
+    {
+      "vehicleId": "mvk-halley-150-2006-gasolina",
+      "fipeCodigo": "845006-4",
+      "displayName": "MVK HALLEY 150",
+      "valorAtual": 3441,
+      "canonicalPath": "/fipe/mvk/halley-150-2006-845006-4/",
+      "ano": 2006,
+      "marca": "MVK"
+    }
+  ],
+  "stats": {
+    "total": 5,
+    "precoMin": 3441,
+    "precoMax": 6301,
+    "anos": [
+      2011,
+      2009,
+      2008,
+      2007,
+      2006
+    ]
+  }
+}

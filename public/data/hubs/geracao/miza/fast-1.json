@@ -1,0 +1,48 @@
+{
+  "tipo": "geracao",
+  "slug": "fast-1",
+  "canonicalPath": "/geracao/miza/fast-1/",
+  "titulo": "Geracao fast-1",
+  "descricao": "3 veiculos da geracao fast-1.",
+  "seo": {
+    "title": "Geracao fast-1 - Precos FIPE",
+    "description": "Veiculos da geracao fast-1 na Tabela FIPE.",
+    "h1": "Geracao fast-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/miza/fast-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "miza-fast-lj-150-2-2007-gasolina",
+      "fipeCodigo": "848003-6",
+      "displayName": "MIZA FAST LJ 150-2",
+      "valorAtual": 2010,
+      "canonicalPath": "/fipe/miza/fast-lj-150-2-2007-848003-6/",
+      "ano": 2007,
+      "marca": "MIZA"
+    },
+    {
+      "vehicleId": "miza-fast-lj-150-2-2008-gasolina",
+      "fipeCodigo": "848003-6",
+      "displayName": "MIZA FAST LJ 150-2",
+      "valorAtual": 2336,
+      "canonicalPath": "/fipe/miza/fast-lj-150-2-2008-848003-6/",
+      "ano": 2008,
+      "marca": "MIZA"
+    },
+    {
+      "vehicleId": "miza-fast-lj-150-2-2009-gasolina",
+      "fipeCodigo": "848003-6",
+      "displayName": "MIZA FAST LJ 150-2",
+      "valorAtual": 2477,
+      "canonicalPath": "/fipe/miza/fast-lj-150-2-2009-848003-6/",
+      "ano": 2009,
+      "marca": "MIZA"
+    }
+  ],
+  "stats": {
+    "total": 3
+  },
+  "meta": {
+    "geracaoId": "fast-1"
+  }
+}

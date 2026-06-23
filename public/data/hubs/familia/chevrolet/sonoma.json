@@ -1,0 +1,42 @@
+{
+  "tipo": "familia",
+  "slug": "sonoma",
+  "canonicalPath": "/fipe/chevrolet/sonoma/",
+  "titulo": "GM - Chevrolet sonoma - Tabela FIPE",
+  "descricao": "2 versoes e anos do GM - Chevrolet sonoma na Tabela FIPE.",
+  "seo": {
+    "title": "GM - Chevrolet sonoma - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes GM - Chevrolet sonoma. 2 veiculos indexados.",
+    "h1": "GM - Chevrolet sonoma - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/chevrolet/sonoma/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "chevrolet-sonoma-ce-4-3-v6-1995-gasolina",
+      "fipeCodigo": "004166-1",
+      "displayName": "GM - Chevrolet Sonoma CE 4.3 V6",
+      "valorAtual": 22193,
+      "canonicalPath": "/fipe/chevrolet/sonoma-ce-4-3-v6-1995-004166-1/",
+      "ano": 1995,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-sonoma-ce-4-3-v6-1994-gasolina",
+      "fipeCodigo": "004166-1",
+      "displayName": "GM - Chevrolet Sonoma CE 4.3 V6",
+      "valorAtual": 18269,
+      "canonicalPath": "/fipe/chevrolet/sonoma-ce-4-3-v6-1994-004166-1/",
+      "ano": 1994,
+      "marca": "GM - Chevrolet"
+    }
+  ],
+  "stats": {
+    "total": 2,
+    "precoMin": 18269,
+    "precoMax": 22193,
+    "anos": [
+      1995,
+      1994
+    ]
+  }
+}

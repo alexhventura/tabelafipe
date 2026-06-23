@@ -1,0 +1,61 @@
+{
+  "tipo": "familia",
+  "slug": "super",
+  "canonicalPath": "/fipe/agrale/super/",
+  "titulo": "AGRALE super - Tabela FIPE",
+  "descricao": "4 versoes e anos do AGRALE super na Tabela FIPE.",
+  "seo": {
+    "title": "AGRALE super - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes AGRALE super. 4 veiculos indexados.",
+    "h1": "AGRALE super - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/agrale/super/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "agrale-super-city-150-1996-gasolina",
+      "fipeCodigo": "801016-1",
+      "displayName": "AGRALE SUPER CITY 150",
+      "valorAtual": 4180,
+      "canonicalPath": "/fipe/agrale/super-city-150-1996-801016-1/",
+      "ano": 1996,
+      "marca": "AGRALE"
+    },
+    {
+      "vehicleId": "agrale-super-city-150-1995-gasolina",
+      "fipeCodigo": "801016-1",
+      "displayName": "AGRALE SUPER CITY 150",
+      "valorAtual": 3943,
+      "canonicalPath": "/fipe/agrale/super-city-150-1995-801016-1/",
+      "ano": 1995,
+      "marca": "AGRALE"
+    },
+    {
+      "vehicleId": "agrale-super-city-125-1994-gasolina",
+      "fipeCodigo": "801020-0",
+      "displayName": "AGRALE SUPER CITY 125",
+      "valorAtual": 2885,
+      "canonicalPath": "/fipe/agrale/super-city-125-1994-801020-0/",
+      "ano": 1994,
+      "marca": "AGRALE"
+    },
+    {
+      "vehicleId": "agrale-super-city-150-1994-gasolina",
+      "fipeCodigo": "801016-1",
+      "displayName": "AGRALE SUPER CITY 150",
+      "valorAtual": 3655,
+      "canonicalPath": "/fipe/agrale/super-city-150-1994-801016-1/",
+      "ano": 1994,
+      "marca": "AGRALE"
+    }
+  ],
+  "stats": {
+    "total": 4,
+    "precoMin": 2885,
+    "precoMax": 4180,
+    "anos": [
+      1996,
+      1995,
+      1994
+    ]
+  }
+}

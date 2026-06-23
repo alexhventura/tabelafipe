@@ -1,0 +1,52 @@
+{
+  "tipo": "familia",
+  "slug": "w160s",
+  "canonicalPath": "/fipe/watts/w160s/",
+  "titulo": "WATTS w160s - Tabela FIPE",
+  "descricao": "3 versoes e anos do WATTS w160s na Tabela FIPE.",
+  "seo": {
+    "title": "WATTS w160s - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes WATTS w160s. 3 veiculos indexados.",
+    "h1": "WATTS w160s - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/watts/w160s/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "watts-w160s-10000w-eletrica-2024-eletrico",
+      "fipeCodigo": "894003-7",
+      "displayName": "WATTS W160S 10000W (Elétrica)",
+      "valorAtual": 18400,
+      "canonicalPath": "/fipe/watts/w160s-10000w-eletrica-2024-894003-7/",
+      "ano": 2024,
+      "marca": "WATTS"
+    },
+    {
+      "vehicleId": "watts-w160s-10000w-eletrica-2023-eletrico",
+      "fipeCodigo": "894003-7",
+      "displayName": "WATTS W160S 10000W (Elétrica)",
+      "valorAtual": 17363,
+      "canonicalPath": "/fipe/watts/w160s-10000w-eletrica-2023-894003-7/",
+      "ano": 2023,
+      "marca": "WATTS"
+    },
+    {
+      "vehicleId": "watts-w160s-10000w-eletrica-0-eletrico",
+      "fipeCodigo": "894003-7",
+      "displayName": "WATTS W160S 10000W (Elétrica)",
+      "valorAtual": 22900,
+      "canonicalPath": "/fipe/watts/w160s-10000w-eletrica-0-894003-7/",
+      "ano": 0,
+      "marca": "WATTS"
+    }
+  ],
+  "stats": {
+    "total": 3,
+    "precoMin": 17363,
+    "precoMax": 22900,
+    "anos": [
+      2024,
+      2023,
+      0
+    ]
+  }
+}

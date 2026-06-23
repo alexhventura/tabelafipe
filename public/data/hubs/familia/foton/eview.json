@@ -1,0 +1,78 @@
+{
+  "tipo": "familia",
+  "slug": "eview",
+  "canonicalPath": "/fipe/foton/eview/",
+  "titulo": "FOTON eview - Tabela FIPE",
+  "descricao": "6 versoes e anos do FOTON eview na Tabela FIPE.",
+  "seo": {
+    "title": "FOTON eview - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes FOTON eview. 6 veiculos indexados.",
+    "h1": "FOTON eview - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/foton/eview/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "foton-eview-connect-2026-eletrico",
+      "fipeCodigo": "086017-4",
+      "displayName": "FOTON eView Connect",
+      "valorAtual": 217383,
+      "canonicalPath": "/fipe/foton/eview-connect-2026-086017-4/",
+      "ano": 2026,
+      "marca": "FOTON"
+    },
+    {
+      "vehicleId": "foton-eview-grand-teto-baixo-2026-eletrico",
+      "fipeCodigo": "086018-2",
+      "displayName": "FOTON eView Grand Teto Baixo",
+      "valorAtual": 281279,
+      "canonicalPath": "/fipe/foton/eview-grand-teto-baixo-2026-086018-2/",
+      "ano": 2026,
+      "marca": "FOTON"
+    },
+    {
+      "vehicleId": "foton-eview-grand-teto-medio-2026-eletrico",
+      "fipeCodigo": "086019-0",
+      "displayName": "FOTON eView Grand Teto Médio",
+      "valorAtual": 295339,
+      "canonicalPath": "/fipe/foton/eview-grand-teto-medio-2026-086019-0/",
+      "ano": 2026,
+      "marca": "FOTON"
+    },
+    {
+      "vehicleId": "foton-eview-connect-0-eletrico",
+      "fipeCodigo": "086017-4",
+      "displayName": "FOTON eView Connect",
+      "valorAtual": 259900,
+      "canonicalPath": "/fipe/foton/eview-connect-0-086017-4/",
+      "ano": 0,
+      "marca": "FOTON"
+    },
+    {
+      "vehicleId": "foton-eview-grand-teto-baixo-0-eletrico",
+      "fipeCodigo": "086018-2",
+      "displayName": "FOTON eView Grand Teto Baixo",
+      "valorAtual": 322000,
+      "canonicalPath": "/fipe/foton/eview-grand-teto-baixo-0-086018-2/",
+      "ano": 0,
+      "marca": "FOTON"
+    },
+    {
+      "vehicleId": "foton-eview-grand-teto-medio-0-eletrico",
+      "fipeCodigo": "086019-0",
+      "displayName": "FOTON eView Grand Teto Médio",
+      "valorAtual": 347000,
+      "canonicalPath": "/fipe/foton/eview-grand-teto-medio-0-086019-0/",
+      "ano": 0,
+      "marca": "FOTON"
+    }
+  ],
+  "stats": {
+    "total": 6,
+    "precoMin": 217383,
+    "precoMax": 347000,
+    "anos": [
+      2026,
+      0
+    ]
+  }
+}

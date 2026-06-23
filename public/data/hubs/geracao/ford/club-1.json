@@ -1,0 +1,66 @@
+{
+  "tipo": "geracao",
+  "slug": "club-1",
+  "canonicalPath": "/geracao/ford/club-1/",
+  "titulo": "Geracao club-1",
+  "descricao": "5 veiculos da geracao club-1.",
+  "seo": {
+    "title": "Geracao club-1 - Precos FIPE",
+    "description": "Veiculos da geracao club-1 na Tabela FIPE.",
+    "h1": "Geracao club-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/ford/club-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "ford-club-wagon-v8-1993-gasolina",
+      "fipeCodigo": "003119-4",
+      "displayName": "Ford Club Wagon V8",
+      "valorAtual": 17633,
+      "canonicalPath": "/fipe/ford/club-wagon-v8-1993-003119-4/",
+      "ano": 1993,
+      "marca": "Ford"
+    },
+    {
+      "vehicleId": "ford-club-wagon-v8-1994-gasolina",
+      "fipeCodigo": "003119-4",
+      "displayName": "Ford Club Wagon V8",
+      "valorAtual": 22628,
+      "canonicalPath": "/fipe/ford/club-wagon-v8-1994-003119-4/",
+      "ano": 1994,
+      "marca": "Ford"
+    },
+    {
+      "vehicleId": "ford-club-wagon-v8-1995-gasolina",
+      "fipeCodigo": "003119-4",
+      "displayName": "Ford Club Wagon V8",
+      "valorAtual": 28058,
+      "canonicalPath": "/fipe/ford/club-wagon-v8-1995-003119-4/",
+      "ano": 1995,
+      "marca": "Ford"
+    },
+    {
+      "vehicleId": "ford-club-wagon-xlt-4-9-v6-1995-gasolina",
+      "fipeCodigo": "003120-8",
+      "displayName": "Ford Club Wagon XLT 4.9 V6",
+      "valorAtual": 24496,
+      "canonicalPath": "/fipe/ford/club-wagon-xlt-4-9-v6-1995-003120-8/",
+      "ano": 1995,
+      "marca": "Ford"
+    },
+    {
+      "vehicleId": "ford-club-wagon-xlt-4-9-v6-1996-gasolina",
+      "fipeCodigo": "003120-8",
+      "displayName": "Ford Club Wagon XLT 4.9 V6",
+      "valorAtual": 26636,
+      "canonicalPath": "/fipe/ford/club-wagon-xlt-4-9-v6-1996-003120-8/",
+      "ano": 1996,
+      "marca": "Ford"
+    }
+  ],
+  "stats": {
+    "total": 5
+  },
+  "meta": {
+    "geracaoId": "club-1"
+  }
+}

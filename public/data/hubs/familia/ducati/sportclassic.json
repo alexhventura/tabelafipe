@@ -1,0 +1,41 @@
+{
+  "tipo": "familia",
+  "slug": "sportclassic",
+  "canonicalPath": "/fipe/ducati/sportclassic/",
+  "titulo": "DUCATI sportclassic - Tabela FIPE",
+  "descricao": "2 versoes e anos do DUCATI sportclassic na Tabela FIPE.",
+  "seo": {
+    "title": "DUCATI sportclassic - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes DUCATI sportclassic. 2 veiculos indexados.",
+    "h1": "DUCATI sportclassic - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/ducati/sportclassic/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "ducati-sportclassic-sport-1000-992cc-2006-gasolina",
+      "fipeCodigo": "808021-6",
+      "displayName": "DUCATI SPORTCLASSIC SPORT 1000  992cc",
+      "valorAtual": 35638,
+      "canonicalPath": "/fipe/ducati/sportclassic-sport-1000-992cc-2006-808021-6/",
+      "ano": 2006,
+      "marca": "DUCATI"
+    },
+    {
+      "vehicleId": "ducati-sportclassic-paulsmart-1000le-992cc-2006-gasolina",
+      "fipeCodigo": "808019-4",
+      "displayName": "DUCATI SPORTCLASSIC  PAULSMART 1000LE  992cc",
+      "valorAtual": 38187,
+      "canonicalPath": "/fipe/ducati/sportclassic-paulsmart-1000le-992cc-2006-808019-4/",
+      "ano": 2006,
+      "marca": "DUCATI"
+    }
+  ],
+  "stats": {
+    "total": 2,
+    "precoMin": 35638,
+    "precoMax": 38187,
+    "anos": [
+      2006
+    ]
+  }
+}

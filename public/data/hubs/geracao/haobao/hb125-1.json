@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "hb125-1",
+  "canonicalPath": "/geracao/haobao/hb125-1/",
+  "titulo": "Geracao hb125-1",
+  "descricao": "2 veiculos da geracao hb125-1.",
+  "seo": {
+    "title": "Geracao hb125-1 - Precos FIPE",
+    "description": "Veiculos da geracao hb125-1 na Tabela FIPE.",
+    "h1": "Geracao hb125-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/haobao/hb125-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "haobao-hb125-9-fearfulspeed-2008-gasolina",
+      "fipeCodigo": "856001-3",
+      "displayName": "HAOBAO HB125-9 FEARFULSPEED",
+      "valorAtual": 2126,
+      "canonicalPath": "/fipe/haobao/hb125-9-fearfulspeed-2008-856001-3/",
+      "ano": 2008,
+      "marca": "HAOBAO"
+    },
+    {
+      "vehicleId": "haobao-hb125-9-fearfulspeed-2009-gasolina",
+      "fipeCodigo": "856001-3",
+      "displayName": "HAOBAO HB125-9 FEARFULSPEED",
+      "valorAtual": 2250,
+      "canonicalPath": "/fipe/haobao/hb125-9-fearfulspeed-2009-856001-3/",
+      "ano": 2009,
+      "marca": "HAOBAO"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "hb125-1"
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "tipo": "geracao",
+  "slug": "scout-1",
+  "canonicalPath": "/geracao/indian/scout-1/",
+  "titulo": "Geracao scout-1",
+  "descricao": "5 veiculos da geracao scout-1.",
+  "seo": {
+    "title": "Geracao scout-1 - Precos FIPE",
+    "description": "Veiculos da geracao scout-1 na Tabela FIPE.",
+    "h1": "Geracao scout-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/indian/scout-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "indian-scout-2015-gasolina",
+      "fipeCodigo": "883001-0",
+      "displayName": "INDIAN SCOUT",
+      "valorAtual": 51706,
+      "canonicalPath": "/fipe/indian/scout-2015-883001-0/",
+      "ano": 2015,
+      "marca": "INDIAN"
+    },
+    {
+      "vehicleId": "indian-scout-2016-gasolina",
+      "fipeCodigo": "883001-0",
+      "displayName": "INDIAN SCOUT",
+      "valorAtual": 52999,
+      "canonicalPath": "/fipe/indian/scout-2016-883001-0/",
+      "ano": 2016,
+      "marca": "INDIAN"
+    },
+    {
+      "vehicleId": "indian-scout-2017-gasolina",
+      "fipeCodigo": "883001-0",
+      "displayName": "INDIAN SCOUT",
+      "valorAtual": 60771,
+      "canonicalPath": "/fipe/indian/scout-2017-883001-0/",
+      "ano": 2017,
+      "marca": "INDIAN"
+    },
+    {
+      "vehicleId": "indian-scout-2018-gasolina",
+      "fipeCodigo": "883001-0",
+      "displayName": "INDIAN SCOUT",
+      "valorAtual": 64987,
+      "canonicalPath": "/fipe/indian/scout-2018-883001-0/",
+      "ano": 2018,
+      "marca": "INDIAN"
+    },
+    {
+      "vehicleId": "indian-scout-bobber-2018-gasolina",
+      "fipeCodigo": "883007-0",
+      "displayName": "INDIAN SCOUT BOBBER",
+      "valorAtual": 64933,
+      "canonicalPath": "/fipe/indian/scout-bobber-2018-883007-0/",
+      "ano": 2018,
+      "marca": "INDIAN"
+    }
+  ],
+  "stats": {
+    "total": 5
+  },
+  "meta": {
+    "geracaoId": "scout-1"
+  }
+}

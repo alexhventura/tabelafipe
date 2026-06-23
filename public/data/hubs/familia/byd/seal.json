@@ -1,0 +1,62 @@
+{
+  "tipo": "familia",
+  "slug": "seal",
+  "canonicalPath": "/fipe/byd/seal/",
+  "titulo": "BYD seal - Tabela FIPE",
+  "descricao": "4 versoes e anos do BYD seal na Tabela FIPE.",
+  "seo": {
+    "title": "BYD seal - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes BYD seal. 4 veiculos indexados.",
+    "h1": "BYD seal - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/byd/seal/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "byd-seal-eletrico-2027-eletrico",
+      "fipeCodigo": "095008-4",
+      "displayName": "BYD Seal (Elétrico)",
+      "valorAtual": 266790,
+      "canonicalPath": "/fipe/byd/seal-eletrico-2027-095008-4/",
+      "ano": 2027,
+      "marca": "BYD"
+    },
+    {
+      "vehicleId": "byd-seal-eletrico-2025-eletrico",
+      "fipeCodigo": "095008-4",
+      "displayName": "BYD Seal (Elétrico)",
+      "valorAtual": 214903,
+      "canonicalPath": "/fipe/byd/seal-eletrico-2025-095008-4/",
+      "ano": 2025,
+      "marca": "BYD"
+    },
+    {
+      "vehicleId": "byd-seal-eletrico-2024-eletrico",
+      "fipeCodigo": "095008-4",
+      "displayName": "BYD Seal (Elétrico)",
+      "valorAtual": 204964,
+      "canonicalPath": "/fipe/byd/seal-eletrico-2024-095008-4/",
+      "ano": 2024,
+      "marca": "BYD"
+    },
+    {
+      "vehicleId": "byd-seal-eletrico-0-eletrico",
+      "fipeCodigo": "095008-4",
+      "displayName": "BYD Seal (Elétrico)",
+      "valorAtual": 299990,
+      "canonicalPath": "/fipe/byd/seal-eletrico-0-095008-4/",
+      "ano": 0,
+      "marca": "BYD"
+    }
+  ],
+  "stats": {
+    "total": 4,
+    "precoMin": 204964,
+    "precoMax": 299990,
+    "anos": [
+      2027,
+      2025,
+      2024,
+      0
+    ]
+  }
+}

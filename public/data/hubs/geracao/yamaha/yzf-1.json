@@ -1,0 +1,48 @@
+{
+  "tipo": "geracao",
+  "slug": "yzf-1",
+  "canonicalPath": "/geracao/yamaha/yzf-1/",
+  "titulo": "Geracao yzf-1",
+  "descricao": "3 veiculos da geracao yzf-1.",
+  "seo": {
+    "title": "Geracao yzf-1 - Precos FIPE",
+    "description": "Veiculos da geracao yzf-1 na Tabela FIPE.",
+    "h1": "Geracao yzf-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/yamaha/yzf-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "yamaha-yzf-r-15-155-abs-0-gasolina",
+      "fipeCodigo": "827129-1",
+      "displayName": "YAMAHA YZF R-15 155 ABS",
+      "valorAtual": 25253,
+      "canonicalPath": "/fipe/yamaha/yzf-r-15-155-abs-0-827129-1/",
+      "ano": 0,
+      "marca": "YAMAHA"
+    },
+    {
+      "vehicleId": "yamaha-yzf-r-3-321-abs-0-gasolina",
+      "fipeCodigo": "827097-0",
+      "displayName": "YAMAHA YZF R-3 321/ABS",
+      "valorAtual": 37115,
+      "canonicalPath": "/fipe/yamaha/yzf-r-3-321-abs-0-827097-0/",
+      "ano": 0,
+      "marca": "YAMAHA"
+    },
+    {
+      "vehicleId": "yamaha-yzf-r-3-connected-321-abs-0-gasolina",
+      "fipeCodigo": "827138-0",
+      "displayName": "YAMAHA YZF R-3 CONNECTED 321/ABS",
+      "valorAtual": 39426,
+      "canonicalPath": "/fipe/yamaha/yzf-r-3-connected-321-abs-0-827138-0/",
+      "ano": 0,
+      "marca": "YAMAHA"
+    }
+  ],
+  "stats": {
+    "total": 3
+  },
+  "meta": {
+    "geracaoId": "yzf-1"
+  }
+}

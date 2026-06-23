@@ -1,0 +1,102 @@
+{
+  "tipo": "geracao",
+  "slug": "sahara-2",
+  "canonicalPath": "/geracao/honda/sahara-2/",
+  "titulo": "Geracao sahara-2",
+  "descricao": "9 veiculos da geracao sahara-2.",
+  "seo": {
+    "title": "Geracao sahara-2 - Precos FIPE",
+    "description": "Veiculos da geracao sahara-2 na Tabela FIPE.",
+    "h1": "Geracao sahara-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/honda/sahara-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "honda-sahara-300-abs-flex-2024-flex",
+      "fipeCodigo": "811178-2",
+      "displayName": "HONDA SAHARA 300 ABS FLEX",
+      "valorAtual": 30827,
+      "canonicalPath": "/fipe/honda/sahara-300-abs-flex-2024-811178-2/",
+      "ano": 2024,
+      "marca": "HONDA"
+    },
+    {
+      "vehicleId": "honda-sahara-300-abs-flex-2025-flex",
+      "fipeCodigo": "811178-2",
+      "displayName": "HONDA SAHARA 300 ABS FLEX",
+      "valorAtual": 31625,
+      "canonicalPath": "/fipe/honda/sahara-300-abs-flex-2025-811178-2/",
+      "ano": 2025,
+      "marca": "HONDA"
+    },
+    {
+      "vehicleId": "honda-sahara-300-abs-flex-2026-flex",
+      "fipeCodigo": "811178-2",
+      "displayName": "HONDA SAHARA 300 ABS FLEX",
+      "valorAtual": 33250,
+      "canonicalPath": "/fipe/honda/sahara-300-abs-flex-2026-811178-2/",
+      "ano": 2026,
+      "marca": "HONDA"
+    },
+    {
+      "vehicleId": "honda-sahara-300-adventure-abs-flex-2024-flex",
+      "fipeCodigo": "811176-6",
+      "displayName": "HONDA SAHARA 300 ADVENTURE ABS FLEX",
+      "valorAtual": 32161,
+      "canonicalPath": "/fipe/honda/sahara-300-adventure-abs-flex-2024-811176-6/",
+      "ano": 2024,
+      "marca": "HONDA"
+    },
+    {
+      "vehicleId": "honda-sahara-300-adventure-abs-flex-2025-flex",
+      "fipeCodigo": "811176-6",
+      "displayName": "HONDA SAHARA 300 ADVENTURE ABS FLEX",
+      "valorAtual": 32994,
+      "canonicalPath": "/fipe/honda/sahara-300-adventure-abs-flex-2025-811176-6/",
+      "ano": 2025,
+      "marca": "HONDA"
+    },
+    {
+      "vehicleId": "honda-sahara-300-adventure-abs-flex-2026-flex",
+      "fipeCodigo": "811176-6",
+      "displayName": "HONDA SAHARA 300 ADVENTURE ABS FLEX",
+      "valorAtual": 34551,
+      "canonicalPath": "/fipe/honda/sahara-300-adventure-abs-flex-2026-811176-6/",
+      "ano": 2026,
+      "marca": "HONDA"
+    },
+    {
+      "vehicleId": "honda-sahara-300-rally-abs-flex-2024-flex",
+      "fipeCodigo": "811177-4",
+      "displayName": "HONDA SAHARA 300 RALLY ABS FLEX",
+      "valorAtual": 31965,
+      "canonicalPath": "/fipe/honda/sahara-300-rally-abs-flex-2024-811177-4/",
+      "ano": 2024,
+      "marca": "HONDA"
+    },
+    {
+      "vehicleId": "honda-sahara-300-rally-abs-flex-2025-flex",
+      "fipeCodigo": "811177-4",
+      "displayName": "HONDA SAHARA 300 RALLY ABS FLEX",
+      "valorAtual": 32765,
+      "canonicalPath": "/fipe/honda/sahara-300-rally-abs-flex-2025-811177-4/",
+      "ano": 2025,
+      "marca": "HONDA"
+    },
+    {
+      "vehicleId": "honda-sahara-300-rally-abs-flex-2026-flex",
+      "fipeCodigo": "811177-4",
+      "displayName": "HONDA SAHARA 300 RALLY ABS FLEX",
+      "valorAtual": 34165,
+      "canonicalPath": "/fipe/honda/sahara-300-rally-abs-flex-2026-811177-4/",
+      "ano": 2026,
+      "marca": "HONDA"
+    }
+  ],
+  "stats": {
+    "total": 9
+  },
+  "meta": {
+    "geracaoId": "sahara-2"
+  }
+}

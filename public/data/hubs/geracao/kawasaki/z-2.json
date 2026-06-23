@@ -1,0 +1,48 @@
+{
+  "tipo": "geracao",
+  "slug": "z-2",
+  "canonicalPath": "/geracao/kawasaki/z-2/",
+  "titulo": "Geracao z-2",
+  "descricao": "3 veiculos da geracao z-2.",
+  "seo": {
+    "title": "Geracao z-2 - Precos FIPE",
+    "description": "Veiculos da geracao z-2 na Tabela FIPE.",
+    "h1": "Geracao z-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/kawasaki/z-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "kawasaki-z-1000-2004-gasolina",
+      "fipeCodigo": "817037-1",
+      "displayName": "KAWASAKI Z 1000",
+      "valorAtual": 18867,
+      "canonicalPath": "/fipe/kawasaki/z-1000-2004-817037-1/",
+      "ano": 2004,
+      "marca": "KAWASAKI"
+    },
+    {
+      "vehicleId": "kawasaki-z-1000-2005-gasolina",
+      "fipeCodigo": "817037-1",
+      "displayName": "KAWASAKI Z 1000",
+      "valorAtual": 23878,
+      "canonicalPath": "/fipe/kawasaki/z-1000-2005-817037-1/",
+      "ano": 2005,
+      "marca": "KAWASAKI"
+    },
+    {
+      "vehicleId": "kawasaki-z-1000-2006-gasolina",
+      "fipeCodigo": "817037-1",
+      "displayName": "KAWASAKI Z 1000",
+      "valorAtual": 27201,
+      "canonicalPath": "/fipe/kawasaki/z-1000-2006-817037-1/",
+      "ano": 2006,
+      "marca": "KAWASAKI"
+    }
+  ],
+  "stats": {
+    "total": 3
+  },
+  "meta": {
+    "geracaoId": "z-2"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "tipo": "geracao",
+  "slug": "rs4-2",
+  "canonicalPath": "/geracao/audi/rs4-2/",
+  "titulo": "Geracao rs4-2",
+  "descricao": "3 veiculos da geracao rs4-2.",
+  "seo": {
+    "title": "Geracao rs4-2 - Precos FIPE",
+    "description": "Veiculos da geracao rs4-2 na Tabela FIPE.",
+    "h1": "Geracao rs4-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/audi/rs4-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "audi-rs4-4-2-avant-32v-fsi-quattro-s-tronic-2013-gasolina",
+      "fipeCodigo": "008183-3",
+      "displayName": "Audi RS4 4.2 Avant 32V FSI Quattro S-tronic",
+      "valorAtual": 255933,
+      "canonicalPath": "/fipe/audi/rs4-4-2-avant-32v-fsi-quattro-s-tronic-2013-008183-3/",
+      "ano": 2013,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-rs4-4-2-avant-32v-fsi-quattro-s-tronic-2014-gasolina",
+      "fipeCodigo": "008183-3",
+      "displayName": "Audi RS4 4.2 Avant 32V FSI Quattro S-tronic",
+      "valorAtual": 347502,
+      "canonicalPath": "/fipe/audi/rs4-4-2-avant-32v-fsi-quattro-s-tronic-2014-008183-3/",
+      "ano": 2014,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-rs4-4-2-avant-32v-fsi-quattro-s-tronic-2015-gasolina",
+      "fipeCodigo": "008183-3",
+      "displayName": "Audi RS4 4.2 Avant 32V FSI Quattro S-tronic",
+      "valorAtual": 370185,
+      "canonicalPath": "/fipe/audi/rs4-4-2-avant-32v-fsi-quattro-s-tronic-2015-008183-3/",
+      "ano": 2015,
+      "marca": "Audi"
+    }
+  ],
+  "stats": {
+    "total": 3
+  },
+  "meta": {
+    "geracaoId": "rs4-2"
+  }
+}

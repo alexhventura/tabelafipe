@@ -1,0 +1,52 @@
+{
+  "tipo": "familia",
+  "slug": "roadmaster",
+  "canonicalPath": "/fipe/indian/roadmaster/",
+  "titulo": "INDIAN roadmaster - Tabela FIPE",
+  "descricao": "3 versoes e anos do INDIAN roadmaster na Tabela FIPE.",
+  "seo": {
+    "title": "INDIAN roadmaster - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes INDIAN roadmaster. 3 veiculos indexados.",
+    "h1": "INDIAN roadmaster - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/indian/roadmaster/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "indian-roadmaster-2018-gasolina",
+      "fipeCodigo": "883005-3",
+      "displayName": "INDIAN ROADMASTER",
+      "valorAtual": 104534,
+      "canonicalPath": "/fipe/indian/roadmaster-2018-883005-3/",
+      "ano": 2018,
+      "marca": "INDIAN"
+    },
+    {
+      "vehicleId": "indian-roadmaster-2017-gasolina",
+      "fipeCodigo": "883005-3",
+      "displayName": "INDIAN ROADMASTER",
+      "valorAtual": 90581,
+      "canonicalPath": "/fipe/indian/roadmaster-2017-883005-3/",
+      "ano": 2017,
+      "marca": "INDIAN"
+    },
+    {
+      "vehicleId": "indian-roadmaster-2016-gasolina",
+      "fipeCodigo": "883005-3",
+      "displayName": "INDIAN ROADMASTER",
+      "valorAtual": 78737,
+      "canonicalPath": "/fipe/indian/roadmaster-2016-883005-3/",
+      "ano": 2016,
+      "marca": "INDIAN"
+    }
+  ],
+  "stats": {
+    "total": 3,
+    "precoMin": 78737,
+    "precoMax": 104534,
+    "anos": [
+      2018,
+      2017,
+      2016
+    ]
+  }
+}

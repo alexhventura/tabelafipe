@@ -1,0 +1,90 @@
+{
+  "tipo": "familia",
+  "slug": "t5",
+  "canonicalPath": "/fipe/jac/t5/",
+  "titulo": "JAC t5 - Tabela FIPE",
+  "descricao": "7 versoes e anos do JAC t5 na Tabela FIPE.",
+  "seo": {
+    "title": "JAC t5 - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes JAC t5. 7 veiculos indexados.",
+    "h1": "JAC t5 - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/jac/t5/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "jac-t5-1-5-jet-flex-16v-5p-aut-2019-flex",
+      "fipeCodigo": "080016-3",
+      "displayName": "JAC T5 1.5 JET Flex 16V 5p Aut.",
+      "valorAtual": 55481,
+      "canonicalPath": "/fipe/jac/t5-1-5-jet-flex-16v-5p-aut-2019-080016-3/",
+      "ano": 2019,
+      "marca": "JAC"
+    },
+    {
+      "vehicleId": "jac-t5-1-5-jet-flex-16v-5p-mec-2018-flex",
+      "fipeCodigo": "080015-5",
+      "displayName": "JAC T5 1.5 JET Flex 16V 5p Mec.",
+      "valorAtual": 52029,
+      "canonicalPath": "/fipe/jac/t5-1-5-jet-flex-16v-5p-mec-2018-080015-5/",
+      "ano": 2018,
+      "marca": "JAC"
+    },
+    {
+      "vehicleId": "jac-t5-1-5-jet-flex-16v-5p-aut-2018-flex",
+      "fipeCodigo": "080016-3",
+      "displayName": "JAC T5 1.5 JET Flex 16V 5p Aut.",
+      "valorAtual": 54127,
+      "canonicalPath": "/fipe/jac/t5-1-5-jet-flex-16v-5p-aut-2018-080016-3/",
+      "ano": 2018,
+      "marca": "JAC"
+    },
+    {
+      "vehicleId": "jac-t5-1-5-jet-flex-16v-5p-mec-2017-flex",
+      "fipeCodigo": "080015-5",
+      "displayName": "JAC T5 1.5 JET Flex 16V 5p Mec.",
+      "valorAtual": 48222,
+      "canonicalPath": "/fipe/jac/t5-1-5-jet-flex-16v-5p-mec-2017-080015-5/",
+      "ano": 2017,
+      "marca": "JAC"
+    },
+    {
+      "vehicleId": "jac-t5-1-5-jet-flex-16v-5p-aut-2017-flex",
+      "fipeCodigo": "080016-3",
+      "displayName": "JAC T5 1.5 JET Flex 16V 5p Aut.",
+      "valorAtual": 49083,
+      "canonicalPath": "/fipe/jac/t5-1-5-jet-flex-16v-5p-aut-2017-080016-3/",
+      "ano": 2017,
+      "marca": "JAC"
+    },
+    {
+      "vehicleId": "jac-t5-1-5-jet-flex-16v-5p-mec-2016-flex",
+      "fipeCodigo": "080015-5",
+      "displayName": "JAC T5 1.5 JET Flex 16V 5p Mec.",
+      "valorAtual": 40604,
+      "canonicalPath": "/fipe/jac/t5-1-5-jet-flex-16v-5p-mec-2016-080015-5/",
+      "ano": 2016,
+      "marca": "JAC"
+    },
+    {
+      "vehicleId": "jac-t5-1-5-jet-flex-16v-5p-mec-2015-flex",
+      "fipeCodigo": "080015-5",
+      "displayName": "JAC T5 1.5 JET Flex 16V 5p Mec.",
+      "valorAtual": 37899,
+      "canonicalPath": "/fipe/jac/t5-1-5-jet-flex-16v-5p-mec-2015-080015-5/",
+      "ano": 2015,
+      "marca": "JAC"
+    }
+  ],
+  "stats": {
+    "total": 7,
+    "precoMin": 37899,
+    "precoMax": 55481,
+    "anos": [
+      2019,
+      2018,
+      2017,
+      2016,
+      2015
+    ]
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "tipo": "familia",
+  "slug": "txt",
+  "canonicalPath": "/fipe/gas-gas/txt/",
+  "titulo": "GAS GAS txt - Tabela FIPE",
+  "descricao": "6 versoes e anos do GAS GAS txt na Tabela FIPE.",
+  "seo": {
+    "title": "GAS GAS txt - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes GAS GAS txt. 6 veiculos indexados.",
+    "h1": "GAS GAS txt - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/gas-gas/txt/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "gas-gas-txt-200-contact-2002-gasolina",
+      "fipeCodigo": "834010-2",
+      "displayName": "GAS GAS TXT 200 CONTACT",
+      "valorAtual": 6598,
+      "canonicalPath": "/fipe/gas-gas/txt-200-contact-2002-834010-2/",
+      "ano": 2002,
+      "marca": "GAS GAS"
+    },
+    {
+      "vehicleId": "gas-gas-txt-280-contact-2002-gasolina",
+      "fipeCodigo": "834011-0",
+      "displayName": "GAS GAS TXT 280 CONTACT",
+      "valorAtual": 7115,
+      "canonicalPath": "/fipe/gas-gas/txt-280-contact-2002-834011-0/",
+      "ano": 2002,
+      "marca": "GAS GAS"
+    },
+    {
+      "vehicleId": "gas-gas-txt-50-rookie-2001-gasolina",
+      "fipeCodigo": "834015-3",
+      "displayName": "GAS GAS TXT 50 ROOKIE",
+      "valorAtual": 2837,
+      "canonicalPath": "/fipe/gas-gas/txt-50-rookie-2001-834015-3/",
+      "ano": 2001,
+      "marca": "GAS GAS"
+    },
+    {
+      "vehicleId": "gas-gas-txt-200-contact-2001-gasolina",
+      "fipeCodigo": "834010-2",
+      "displayName": "GAS GAS TXT 200 CONTACT",
+      "valorAtual": 5820,
+      "canonicalPath": "/fipe/gas-gas/txt-200-contact-2001-834010-2/",
+      "ano": 2001,
+      "marca": "GAS GAS"
+    },
+    {
+      "vehicleId": "gas-gas-txt-321-contact-2001-gasolina",
+      "fipeCodigo": "834012-9",
+      "displayName": "GAS GAS TXT 321 CONTACT",
+      "valorAtual": 6629,
+      "canonicalPath": "/fipe/gas-gas/txt-321-contact-2001-834012-9/",
+      "ano": 2001,
+      "marca": "GAS GAS"
+    },
+    {
+      "vehicleId": "gas-gas-txt-280-contact-2001-gasolina",
+      "fipeCodigo": "834011-0",
+      "displayName": "GAS GAS TXT 280 CONTACT",
+      "valorAtual": 6761,
+      "canonicalPath": "/fipe/gas-gas/txt-280-contact-2001-834011-0/",
+      "ano": 2001,
+      "marca": "GAS GAS"
+    }
+  ],
+  "stats": {
+    "total": 6,
+    "precoMin": 2837,
+    "precoMax": 7115,
+    "anos": [
+      2002,
+      2001
+    ]
+  }
+}

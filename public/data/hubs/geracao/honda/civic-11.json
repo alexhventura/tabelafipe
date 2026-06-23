@@ -1,0 +1,75 @@
+{
+  "tipo": "geracao",
+  "slug": "civic-11",
+  "canonicalPath": "/geracao/honda/civic-11/",
+  "titulo": "Geracao civic-11",
+  "descricao": "6 veiculos da geracao civic-11.",
+  "seo": {
+    "title": "Geracao civic-11 - Precos FIPE",
+    "description": "Veiculos da geracao civic-11 na Tabela FIPE.",
+    "h1": "Geracao civic-11",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/honda/civic-11/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "honda-civic-sed-touring-2-0-16v-aut-hibrido-2023-hibrido",
+      "fipeCodigo": "014112-7",
+      "displayName": "Honda Civic Sed.Touring 2.0 16V Aut. (Híbrido)",
+      "valorAtual": 179806,
+      "canonicalPath": "/fipe/honda/civic-sed-touring-2-0-16v-aut-hibrido-2023-014112-7/",
+      "ano": 2023,
+      "marca": "Honda"
+    },
+    {
+      "vehicleId": "honda-civic-sed-touring-2-0-16v-aut-hibrido-2024-hibrido",
+      "fipeCodigo": "014112-7",
+      "displayName": "Honda Civic Sed.Touring 2.0 16V Aut. (Híbrido)",
+      "valorAtual": 206779,
+      "canonicalPath": "/fipe/honda/civic-sed-touring-2-0-16v-aut-hibrido-2024-014112-7/",
+      "ano": 2024,
+      "marca": "Honda"
+    },
+    {
+      "vehicleId": "honda-civic-sed-touring-2-0-16v-aut-hibrido-2025-hibrido",
+      "fipeCodigo": "014112-7",
+      "displayName": "Honda Civic Sed.Touring 2.0 16V Aut. (Híbrido)",
+      "valorAtual": 221105,
+      "canonicalPath": "/fipe/honda/civic-sed-touring-2-0-16v-aut-hibrido-2025-014112-7/",
+      "ano": 2025,
+      "marca": "Honda"
+    },
+    {
+      "vehicleId": "honda-civic-type-r-2-0-turbo-16v-2023-gasolina",
+      "fipeCodigo": "014113-5",
+      "displayName": "Honda Civic Type-R 2.0 Turbo 16V",
+      "valorAtual": 355334,
+      "canonicalPath": "/fipe/honda/civic-type-r-2-0-turbo-16v-2023-014113-5/",
+      "ano": 2023,
+      "marca": "Honda"
+    },
+    {
+      "vehicleId": "honda-civic-type-r-2-0-turbo-16v-2024-gasolina",
+      "fipeCodigo": "014113-5",
+      "displayName": "Honda Civic Type-R 2.0 Turbo 16V",
+      "valorAtual": 365349,
+      "canonicalPath": "/fipe/honda/civic-type-r-2-0-turbo-16v-2024-014113-5/",
+      "ano": 2024,
+      "marca": "Honda"
+    },
+    {
+      "vehicleId": "honda-civic-type-r-2-0-turbo-16v-2025-gasolina",
+      "fipeCodigo": "014113-5",
+      "displayName": "Honda Civic Type-R 2.0 Turbo 16V",
+      "valorAtual": 386917,
+      "canonicalPath": "/fipe/honda/civic-type-r-2-0-turbo-16v-2025-014113-5/",
+      "ano": 2025,
+      "marca": "Honda"
+    }
+  ],
+  "stats": {
+    "total": 6
+  },
+  "meta": {
+    "geracaoId": "civic-11"
+  }
+}

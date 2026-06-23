@@ -1,0 +1,30 @@
+export interface ManufacturerRecord {
+  marca: string;
+  modelo: string;
+  versao?: string;
+  ano?: number;
+  potenciaCv?: number;
+  torqueNm?: number;
+  cambio?: string;
+  cilindradaCc?: number;
+  pesoKg?: number;
+  comprimentoMm?: number;
+  larguraMm?: number;
+  alturaMm?: number;
+  entreEixosMm?: number;
+  portaMalasL?: number;
+  tanqueL?: number;
+  aceleracao0a100?: number;
+  velocidadeMaxKmh?: number;
+  coeficienteAerodinamico?: number;
+  capacidadeReboqueKg?: number;
+  bateriaKwh?: number;
+  autonomiaKm?: number;
+  potenciaMotorEletricoCv?: number;
+  tempoRecargaMin?: number;
+  tipoCarregamento?: string;
+  fonte: string;
+  urlFonte?: string;
+  capturadoEm: string;
+  adapterId?: string;
+}

@@ -1,0 +1,66 @@
+{
+  "tipo": "geracao",
+  "slug": "sonic-1",
+  "canonicalPath": "/geracao/aprilia/sonic-1/",
+  "titulo": "Geracao sonic-1",
+  "descricao": "5 veiculos da geracao sonic-1.",
+  "seo": {
+    "title": "Geracao sonic-1 - Precos FIPE",
+    "description": "Veiculos da geracao sonic-1 na Tabela FIPE.",
+    "h1": "Geracao sonic-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/aprilia/sonic-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "aprilia-sonic-50cc-1998-gasolina",
+      "fipeCodigo": "802014-0",
+      "displayName": "APRILIA SONIC 50cc",
+      "valorAtual": 1630,
+      "canonicalPath": "/fipe/aprilia/sonic-50cc-1998-802014-0/",
+      "ano": 1998,
+      "marca": "APRILIA"
+    },
+    {
+      "vehicleId": "aprilia-sonic-50cc-1999-gasolina",
+      "fipeCodigo": "802014-0",
+      "displayName": "APRILIA SONIC 50cc",
+      "valorAtual": 1832,
+      "canonicalPath": "/fipe/aprilia/sonic-50cc-1999-802014-0/",
+      "ano": 1999,
+      "marca": "APRILIA"
+    },
+    {
+      "vehicleId": "aprilia-sonic-50cc-2000-gasolina",
+      "fipeCodigo": "802014-0",
+      "displayName": "APRILIA SONIC 50cc",
+      "valorAtual": 2157,
+      "canonicalPath": "/fipe/aprilia/sonic-50cc-2000-802014-0/",
+      "ano": 2000,
+      "marca": "APRILIA"
+    },
+    {
+      "vehicleId": "chevrolet-sonic-premier-1-0-12v-turbo-aut-0-flex",
+      "fipeCodigo": "004565-9",
+      "displayName": "GM - Chevrolet Sonic Premier 1.0 12V Turbo Aut.",
+      "valorAtual": 135893,
+      "canonicalPath": "/fipe/chevrolet/sonic-premier-1-0-12v-turbo-aut-0-004565-9/",
+      "ano": 0,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-sonic-rs-1-0-12v-turbo-aut-0-flex",
+      "fipeCodigo": "004566-7",
+      "displayName": "GM - Chevrolet Sonic RS 1.0 12V Turbo Aut.",
+      "valorAtual": 142807,
+      "canonicalPath": "/fipe/chevrolet/sonic-rs-1-0-12v-turbo-aut-0-004566-7/",
+      "ano": 0,
+      "marca": "GM - Chevrolet"
+    }
+  ],
+  "stats": {
+    "total": 5
+  },
+  "meta": {
+    "geracaoId": "sonic-1"
+  }
+}

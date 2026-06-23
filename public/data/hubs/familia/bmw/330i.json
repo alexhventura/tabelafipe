@@ -1,0 +1,100 @@
+{
+  "tipo": "familia",
+  "slug": "330i",
+  "canonicalPath": "/fipe/bmw/330i/",
+  "titulo": "BMW 330i - Tabela FIPE",
+  "descricao": "8 versoes e anos do BMW 330i na Tabela FIPE.",
+  "seo": {
+    "title": "BMW 330i - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes BMW 330i. 8 veiculos indexados.",
+    "h1": "BMW 330i - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/bmw/330i/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "bmw-330i-m-sport-2-0-tb-16v-4p-2021-gasolina",
+      "fipeCodigo": "009240-1",
+      "displayName": "BMW 330i M Sport 2.0 TB 16V 4p",
+      "valorAtual": 216895,
+      "canonicalPath": "/fipe/bmw/330i-m-sport-2-0-tb-16v-4p-2021-009240-1/",
+      "ano": 2021,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-330i-sport-2-0-tb-16v-4p-2020-gasolina",
+      "fipeCodigo": "009244-4",
+      "displayName": "BMW 330i Sport 2.0 TB 16V 4p",
+      "valorAtual": 201086,
+      "canonicalPath": "/fipe/bmw/330i-sport-2-0-tb-16v-4p-2020-009244-4/",
+      "ano": 2020,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-330i-m-sport-2-0-tb-16v-4p-2020-gasolina",
+      "fipeCodigo": "009240-1",
+      "displayName": "BMW 330i M Sport 2.0 TB 16V 4p",
+      "valorAtual": 211604,
+      "canonicalPath": "/fipe/bmw/330i-m-sport-2-0-tb-16v-4p-2020-009240-1/",
+      "ano": 2020,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-330i-sport-2-0-tb-16v-4p-2019-gasolina",
+      "fipeCodigo": "009244-4",
+      "displayName": "BMW 330i Sport 2.0 TB 16V 4p",
+      "valorAtual": 196181,
+      "canonicalPath": "/fipe/bmw/330i-sport-2-0-tb-16v-4p-2019-009244-4/",
+      "ano": 2019,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-330i-m-sport-2-0-tb-16v-4p-2019-gasolina",
+      "fipeCodigo": "009240-1",
+      "displayName": "BMW 330i M Sport 2.0 TB 16V 4p",
+      "valorAtual": 206442,
+      "canonicalPath": "/fipe/bmw/330i-m-sport-2-0-tb-16v-4p-2019-009240-1/",
+      "ano": 2019,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-330i-motorsport-3-0-24v-4p-2003-gasolina",
+      "fipeCodigo": "009092-1",
+      "displayName": "BMW 330i MotorSport 3.0 24V 4p",
+      "valorAtual": 65673,
+      "canonicalPath": "/fipe/bmw/330i-motorsport-3-0-24v-4p-2003-009092-1/",
+      "ano": 2003,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-330i-motorsport-3-0-24v-4p-2002-gasolina",
+      "fipeCodigo": "009092-1",
+      "displayName": "BMW 330i MotorSport 3.0 24V 4p",
+      "valorAtual": 64071,
+      "canonicalPath": "/fipe/bmw/330i-motorsport-3-0-24v-4p-2002-009092-1/",
+      "ano": 2002,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-330i-motorsport-3-0-24v-4p-2001-gasolina",
+      "fipeCodigo": "009092-1",
+      "displayName": "BMW 330i MotorSport 3.0 24V 4p",
+      "valorAtual": 61239,
+      "canonicalPath": "/fipe/bmw/330i-motorsport-3-0-24v-4p-2001-009092-1/",
+      "ano": 2001,
+      "marca": "BMW"
+    }
+  ],
+  "stats": {
+    "total": 8,
+    "precoMin": 61239,
+    "precoMax": 216895,
+    "anos": [
+      2021,
+      2020,
+      2019,
+      2003,
+      2002,
+      2001
+    ]
+  }
+}

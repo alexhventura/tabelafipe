@@ -1,0 +1,42 @@
+{
+  "tipo": "familia",
+  "slug": "rz",
+  "canonicalPath": "/fipe/lexus/rz/",
+  "titulo": "Lexus rz - Tabela FIPE",
+  "descricao": "2 versoes e anos do Lexus rz na Tabela FIPE.",
+  "seo": {
+    "title": "Lexus rz - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes Lexus rz. 2 veiculos indexados.",
+    "h1": "Lexus rz - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/lexus/rz/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "lexus-rz-500e-2027-eletrico",
+      "fipeCodigo": "057060-5",
+      "displayName": "Lexus RZ-500e",
+      "valorAtual": 428965,
+      "canonicalPath": "/fipe/lexus/rz-500e-2027-057060-5/",
+      "ano": 2027,
+      "marca": "Lexus"
+    },
+    {
+      "vehicleId": "lexus-rz-500e-0-eletrico",
+      "fipeCodigo": "057060-5",
+      "displayName": "Lexus RZ-500e",
+      "valorAtual": 488225,
+      "canonicalPath": "/fipe/lexus/rz-500e-0-057060-5/",
+      "ano": 0,
+      "marca": "Lexus"
+    }
+  ],
+  "stats": {
+    "total": 2,
+    "precoMin": 428965,
+    "precoMax": 488225,
+    "anos": [
+      2027,
+      0
+    ]
+  }
+}

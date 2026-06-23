@@ -1,0 +1,48 @@
+{
+  "tipo": "geracao",
+  "slug": "c8-1",
+  "canonicalPath": "/geracao/citroen/c8-1/",
+  "titulo": "Geracao c8-1",
+  "descricao": "3 veiculos da geracao c8-1.",
+  "seo": {
+    "title": "Geracao c8-1 - Precos FIPE",
+    "description": "Veiculos da geracao c8-1 na Tabela FIPE.",
+    "h1": "Geracao c8-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/citroen/c8-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "citroen-c8-exclusive-2-0-16v-138cv-5p-aut-2003-gasolina",
+      "fipeCodigo": "011073-6",
+      "displayName": "Citroën C8 Exclusive 2.0 16V 138cv 5p Aut.",
+      "valorAtual": 16156,
+      "canonicalPath": "/fipe/citroen/c8-exclusive-2-0-16v-138cv-5p-aut-2003-011073-6/",
+      "ano": 2003,
+      "marca": "Citroën"
+    },
+    {
+      "vehicleId": "citroen-c8-exclusive-2-0-16v-138cv-5p-aut-2004-gasolina",
+      "fipeCodigo": "011073-6",
+      "displayName": "Citroën C8 Exclusive 2.0 16V 138cv 5p Aut.",
+      "valorAtual": 20409,
+      "canonicalPath": "/fipe/citroen/c8-exclusive-2-0-16v-138cv-5p-aut-2004-011073-6/",
+      "ano": 2004,
+      "marca": "Citroën"
+    },
+    {
+      "vehicleId": "citroen-c8-exclusive-2-0-16v-138cv-5p-aut-2005-gasolina",
+      "fipeCodigo": "011073-6",
+      "displayName": "Citroën C8 Exclusive 2.0 16V 138cv 5p Aut.",
+      "valorAtual": 21647,
+      "canonicalPath": "/fipe/citroen/c8-exclusive-2-0-16v-138cv-5p-aut-2005-011073-6/",
+      "ano": 2005,
+      "marca": "Citroën"
+    }
+  ],
+  "stats": {
+    "total": 3
+  },
+  "meta": {
+    "geracaoId": "c8-1"
+  }
+}

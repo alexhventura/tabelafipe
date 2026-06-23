@@ -1,0 +1,57 @@
+{
+  "tipo": "geracao",
+  "slug": "cronos-1",
+  "canonicalPath": "/geracao/fiat/cronos-1/",
+  "titulo": "Geracao cronos-1",
+  "descricao": "4 veiculos da geracao cronos-1.",
+  "seo": {
+    "title": "Geracao cronos-1 - Precos FIPE",
+    "description": "Veiculos da geracao cronos-1 na Tabela FIPE.",
+    "h1": "Geracao cronos-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/fiat/cronos-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "fiat-cronos-drive-1-0-6v-flex-0-flex",
+      "fipeCodigo": "001553-9",
+      "displayName": "Fiat CRONOS DRIVE 1.0 6V Flex",
+      "valorAtual": 104969,
+      "canonicalPath": "/fipe/fiat/cronos-drive-1-0-6v-flex-0-001553-9/",
+      "ano": 0,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-cronos-drive-1-3-8v-flex-0-flex",
+      "fipeCodigo": "001505-9",
+      "displayName": "Fiat CRONOS DRIVE 1.3 8V Flex",
+      "valorAtual": 108704,
+      "canonicalPath": "/fipe/fiat/cronos-drive-1-3-8v-flex-0-001505-9/",
+      "ano": 0,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-cronos-drive-1-3-8v-flex-aut-0-flex",
+      "fipeCodigo": "001554-7",
+      "displayName": "Fiat CRONOS DRIVE 1.3 8V Flex Aut.",
+      "valorAtual": 114053,
+      "canonicalPath": "/fipe/fiat/cronos-drive-1-3-8v-flex-aut-0-001554-7/",
+      "ano": 0,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-cronos-precision-1-3-8v-flex-aut-0-flex",
+      "fipeCodigo": "001555-5",
+      "displayName": "Fiat CRONOS PRECISION 1.3 8V Flex Aut.",
+      "valorAtual": 119540,
+      "canonicalPath": "/fipe/fiat/cronos-precision-1-3-8v-flex-aut-0-001555-5/",
+      "ano": 0,
+      "marca": "Fiat"
+    }
+  ],
+  "stats": {
+    "total": 4
+  },
+  "meta": {
+    "geracaoId": "cronos-1"
+  }
+}

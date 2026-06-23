@@ -1,0 +1,57 @@
+{
+  "tipo": "geracao",
+  "slug": "versa-1",
+  "canonicalPath": "/geracao/nissan/versa-1/",
+  "titulo": "Geracao versa-1",
+  "descricao": "4 veiculos da geracao versa-1.",
+  "seo": {
+    "title": "Geracao versa-1 - Precos FIPE",
+    "description": "Veiculos da geracao versa-1 na Tabela FIPE.",
+    "h1": "Geracao versa-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/nissan/versa-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "nissan-versa-advance-1-6-16v-flex-aut-0-flex",
+      "fipeCodigo": "023175-4",
+      "displayName": "Nissan VERSA Advance 1.6 16V Flex Aut.",
+      "valorAtual": 127403,
+      "canonicalPath": "/fipe/nissan/versa-advance-1-6-16v-flex-aut-0-023175-4/",
+      "ano": 0,
+      "marca": "Nissan"
+    },
+    {
+      "vehicleId": "nissan-versa-exclusive-1-6-16v-flex-aut-0-flex",
+      "fipeCodigo": "023174-6",
+      "displayName": "Nissan VERSA Exclusive 1.6 16V Flex Aut.",
+      "valorAtual": 143884,
+      "canonicalPath": "/fipe/nissan/versa-exclusive-1-6-16v-flex-aut-0-023174-6/",
+      "ano": 0,
+      "marca": "Nissan"
+    },
+    {
+      "vehicleId": "nissan-versa-sr-1-6-16v-flex-aut-0-flex",
+      "fipeCodigo": "023190-8",
+      "displayName": "Nissan VERSA SR 1.6 16V Flex Aut.",
+      "valorAtual": 127521,
+      "canonicalPath": "/fipe/nissan/versa-sr-1-6-16v-flex-aut-0-023190-8/",
+      "ano": 0,
+      "marca": "Nissan"
+    },
+    {
+      "vehicleId": "nissan-versa-sense-1-6-16v-flex-aut-0-flex",
+      "fipeCodigo": "023176-2",
+      "displayName": "Nissan VERSA Sense 1.6 16V Flex Aut.",
+      "valorAtual": 118626,
+      "canonicalPath": "/fipe/nissan/versa-sense-1-6-16v-flex-aut-0-023176-2/",
+      "ano": 0,
+      "marca": "Nissan"
+    }
+  ],
+  "stats": {
+    "total": 4
+  },
+  "meta": {
+    "geracaoId": "versa-1"
+  }
+}

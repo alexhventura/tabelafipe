@@ -1,0 +1,72 @@
+{
+  "tipo": "familia",
+  "slug": "stream",
+  "canonicalPath": "/fipe/hero/stream/",
+  "titulo": "HERO stream - Tabela FIPE",
+  "descricao": "5 versoes e anos do HERO stream na Tabela FIPE.",
+  "seo": {
+    "title": "HERO stream - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes HERO stream. 5 veiculos indexados.",
+    "h1": "HERO stream - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/hero/stream/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "hero-stream-50-2002-gasolina",
+      "fipeCodigo": "841006-2",
+      "displayName": "HERO STREAM 50",
+      "valorAtual": 1219,
+      "canonicalPath": "/fipe/hero/stream-50-2002-841006-2/",
+      "ano": 2002,
+      "marca": "HERO"
+    },
+    {
+      "vehicleId": "hero-stream-50-2001-gasolina",
+      "fipeCodigo": "841006-2",
+      "displayName": "HERO STREAM 50",
+      "valorAtual": 1175,
+      "canonicalPath": "/fipe/hero/stream-50-2001-841006-2/",
+      "ano": 2001,
+      "marca": "HERO"
+    },
+    {
+      "vehicleId": "hero-stream-50-2000-gasolina",
+      "fipeCodigo": "841006-2",
+      "displayName": "HERO STREAM 50",
+      "valorAtual": 1125,
+      "canonicalPath": "/fipe/hero/stream-50-2000-841006-2/",
+      "ano": 2000,
+      "marca": "HERO"
+    },
+    {
+      "vehicleId": "hero-stream-50-1999-gasolina",
+      "fipeCodigo": "841006-2",
+      "displayName": "HERO STREAM 50",
+      "valorAtual": 1085,
+      "canonicalPath": "/fipe/hero/stream-50-1999-841006-2/",
+      "ano": 1999,
+      "marca": "HERO"
+    },
+    {
+      "vehicleId": "hero-stream-50-1998-gasolina",
+      "fipeCodigo": "841006-2",
+      "displayName": "HERO STREAM 50",
+      "valorAtual": 1015,
+      "canonicalPath": "/fipe/hero/stream-50-1998-841006-2/",
+      "ano": 1998,
+      "marca": "HERO"
+    }
+  ],
+  "stats": {
+    "total": 5,
+    "precoMin": 1015,
+    "precoMax": 1219,
+    "anos": [
+      2002,
+      2001,
+      2000,
+      1999,
+      1998
+    ]
+  }
+}

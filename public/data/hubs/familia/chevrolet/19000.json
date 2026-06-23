@@ -1,0 +1,117 @@
+{
+  "tipo": "familia",
+  "slug": "19000",
+  "canonicalPath": "/fipe/chevrolet/19000/",
+  "titulo": "CHEVROLET 19000 - Tabela FIPE",
+  "descricao": "10 versoes e anos do CHEVROLET 19000 na Tabela FIPE.",
+  "seo": {
+    "title": "CHEVROLET 19000 - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes CHEVROLET 19000. 10 veiculos indexados.",
+    "h1": "CHEVROLET 19000 - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/chevrolet/19000/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "chevrolet-19000-2p-diesel-1989-diesel",
+      "fipeCodigo": "502009-3",
+      "displayName": "CHEVROLET 19000 2p (diesel)",
+      "valorAtual": 27137,
+      "canonicalPath": "/fipe/chevrolet/19000-2p-diesel-1989-502009-3/",
+      "ano": 1989,
+      "marca": "CHEVROLET"
+    },
+    {
+      "vehicleId": "chevrolet-19000-3-eixos-2p-diesel-1989-diesel",
+      "fipeCodigo": "502010-7",
+      "displayName": "CHEVROLET 19000 3-Eixos 2p (diesel)",
+      "valorAtual": 27904,
+      "canonicalPath": "/fipe/chevrolet/19000-3-eixos-2p-diesel-1989-502010-7/",
+      "ano": 1989,
+      "marca": "CHEVROLET"
+    },
+    {
+      "vehicleId": "chevrolet-19000-2p-diesel-1988-diesel",
+      "fipeCodigo": "502009-3",
+      "displayName": "CHEVROLET 19000 2p (diesel)",
+      "valorAtual": 25935,
+      "canonicalPath": "/fipe/chevrolet/19000-2p-diesel-1988-502009-3/",
+      "ano": 1988,
+      "marca": "CHEVROLET"
+    },
+    {
+      "vehicleId": "chevrolet-19000-3-eixos-2p-diesel-1988-diesel",
+      "fipeCodigo": "502010-7",
+      "displayName": "CHEVROLET 19000 3-Eixos 2p (diesel)",
+      "valorAtual": 26993,
+      "canonicalPath": "/fipe/chevrolet/19000-3-eixos-2p-diesel-1988-502010-7/",
+      "ano": 1988,
+      "marca": "CHEVROLET"
+    },
+    {
+      "vehicleId": "chevrolet-19000-2p-diesel-1987-diesel",
+      "fipeCodigo": "502009-3",
+      "displayName": "CHEVROLET 19000 2p (diesel)",
+      "valorAtual": 23650,
+      "canonicalPath": "/fipe/chevrolet/19000-2p-diesel-1987-502009-3/",
+      "ano": 1987,
+      "marca": "CHEVROLET"
+    },
+    {
+      "vehicleId": "chevrolet-19000-3-eixos-2p-diesel-1987-diesel",
+      "fipeCodigo": "502010-7",
+      "displayName": "CHEVROLET 19000 3-Eixos 2p (diesel)",
+      "valorAtual": 25017,
+      "canonicalPath": "/fipe/chevrolet/19000-3-eixos-2p-diesel-1987-502010-7/",
+      "ano": 1987,
+      "marca": "CHEVROLET"
+    },
+    {
+      "vehicleId": "chevrolet-19000-2p-diesel-1986-diesel",
+      "fipeCodigo": "502009-3",
+      "displayName": "CHEVROLET 19000 2p (diesel)",
+      "valorAtual": 20956,
+      "canonicalPath": "/fipe/chevrolet/19000-2p-diesel-1986-502009-3/",
+      "ano": 1986,
+      "marca": "CHEVROLET"
+    },
+    {
+      "vehicleId": "chevrolet-19000-3-eixos-2p-diesel-1986-diesel",
+      "fipeCodigo": "502010-7",
+      "displayName": "CHEVROLET 19000 3-Eixos 2p (diesel)",
+      "valorAtual": 23585,
+      "canonicalPath": "/fipe/chevrolet/19000-3-eixos-2p-diesel-1986-502010-7/",
+      "ano": 1986,
+      "marca": "CHEVROLET"
+    },
+    {
+      "vehicleId": "chevrolet-19000-2p-diesel-1985-diesel",
+      "fipeCodigo": "502009-3",
+      "displayName": "CHEVROLET 19000 2p (diesel)",
+      "valorAtual": 18750,
+      "canonicalPath": "/fipe/chevrolet/19000-2p-diesel-1985-502009-3/",
+      "ano": 1985,
+      "marca": "CHEVROLET"
+    },
+    {
+      "vehicleId": "chevrolet-19000-3-eixos-2p-diesel-1985-diesel",
+      "fipeCodigo": "502010-7",
+      "displayName": "CHEVROLET 19000 3-Eixos 2p (diesel)",
+      "valorAtual": 20040,
+      "canonicalPath": "/fipe/chevrolet/19000-3-eixos-2p-diesel-1985-502010-7/",
+      "ano": 1985,
+      "marca": "CHEVROLET"
+    }
+  ],
+  "stats": {
+    "total": 10,
+    "precoMin": 18750,
+    "precoMax": 27904,
+    "anos": [
+      1989,
+      1988,
+      1987,
+      1986,
+      1985
+    ]
+  }
+}

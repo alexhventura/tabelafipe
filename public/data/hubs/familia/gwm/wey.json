@@ -1,0 +1,52 @@
+{
+  "tipo": "familia",
+  "slug": "wey",
+  "canonicalPath": "/fipe/gwm/wey/",
+  "titulo": "GWM wey - Tabela FIPE",
+  "descricao": "3 versoes e anos do GWM wey na Tabela FIPE.",
+  "seo": {
+    "title": "GWM wey - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes GWM wey. 3 veiculos indexados.",
+    "h1": "GWM wey - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/gwm/wey/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "gwm-wey-07-1-5-turbo-awd-2027-hibrido",
+      "fipeCodigo": "096015-2",
+      "displayName": "GWM Wey 07 1.5 Turbo AWD",
+      "valorAtual": 418236,
+      "canonicalPath": "/fipe/gwm/wey-07-1-5-turbo-awd-2027-096015-2/",
+      "ano": 2027,
+      "marca": "GWM"
+    },
+    {
+      "vehicleId": "gwm-wey-07-1-5-turbo-awd-2026-hibrido",
+      "fipeCodigo": "096015-2",
+      "displayName": "GWM Wey 07 1.5 Turbo AWD",
+      "valorAtual": 407346,
+      "canonicalPath": "/fipe/gwm/wey-07-1-5-turbo-awd-2026-096015-2/",
+      "ano": 2026,
+      "marca": "GWM"
+    },
+    {
+      "vehicleId": "gwm-wey-07-1-5-turbo-awd-0-hibrido",
+      "fipeCodigo": "096015-2",
+      "displayName": "GWM Wey 07 1.5 Turbo AWD",
+      "valorAtual": 435663,
+      "canonicalPath": "/fipe/gwm/wey-07-1-5-turbo-awd-0-096015-2/",
+      "ano": 0,
+      "marca": "GWM"
+    }
+  ],
+  "stats": {
+    "total": 3,
+    "precoMin": 407346,
+    "precoMax": 435663,
+    "anos": [
+      2027,
+      2026,
+      0
+    ]
+  }
+}

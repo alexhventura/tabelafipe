@@ -1,0 +1,79 @@
+{
+  "tipo": "familia",
+  "slug": "akros",
+  "canonicalPath": "/fipe/sundown/akros/",
+  "titulo": "SUNDOWN akros - Tabela FIPE",
+  "descricao": "6 versoes e anos do SUNDOWN akros na Tabela FIPE.",
+  "seo": {
+    "title": "SUNDOWN akros - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes SUNDOWN akros. 6 veiculos indexados.",
+    "h1": "SUNDOWN akros - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/sundown/akros/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "sundown-akros-50cc-1998-gasolina",
+      "fipeCodigo": "824001-9",
+      "displayName": "SUNDOWN AKROS 50cc",
+      "valorAtual": 1414,
+      "canonicalPath": "/fipe/sundown/akros-50cc-1998-824001-9/",
+      "ano": 1998,
+      "marca": "SUNDOWN"
+    },
+    {
+      "vehicleId": "sundown-akros-90cc-1998-gasolina",
+      "fipeCodigo": "824002-7",
+      "displayName": "SUNDOWN AKROS 90cc",
+      "valorAtual": 1658,
+      "canonicalPath": "/fipe/sundown/akros-90cc-1998-824002-7/",
+      "ano": 1998,
+      "marca": "SUNDOWN"
+    },
+    {
+      "vehicleId": "sundown-akros-50cc-1997-gasolina",
+      "fipeCodigo": "824001-9",
+      "displayName": "SUNDOWN AKROS 50cc",
+      "valorAtual": 1360,
+      "canonicalPath": "/fipe/sundown/akros-50cc-1997-824001-9/",
+      "ano": 1997,
+      "marca": "SUNDOWN"
+    },
+    {
+      "vehicleId": "sundown-akros-90cc-1997-gasolina",
+      "fipeCodigo": "824002-7",
+      "displayName": "SUNDOWN AKROS 90cc",
+      "valorAtual": 1545,
+      "canonicalPath": "/fipe/sundown/akros-90cc-1997-824002-7/",
+      "ano": 1997,
+      "marca": "SUNDOWN"
+    },
+    {
+      "vehicleId": "sundown-akros-50cc-1996-gasolina",
+      "fipeCodigo": "824001-9",
+      "displayName": "SUNDOWN AKROS 50cc",
+      "valorAtual": 1217,
+      "canonicalPath": "/fipe/sundown/akros-50cc-1996-824001-9/",
+      "ano": 1996,
+      "marca": "SUNDOWN"
+    },
+    {
+      "vehicleId": "sundown-akros-90cc-1996-gasolina",
+      "fipeCodigo": "824002-7",
+      "displayName": "SUNDOWN AKROS 90cc",
+      "valorAtual": 1409,
+      "canonicalPath": "/fipe/sundown/akros-90cc-1996-824002-7/",
+      "ano": 1996,
+      "marca": "SUNDOWN"
+    }
+  ],
+  "stats": {
+    "total": 6,
+    "precoMin": 1217,
+    "precoMax": 1658,
+    "anos": [
+      1998,
+      1997,
+      1996
+    ]
+  }
+}

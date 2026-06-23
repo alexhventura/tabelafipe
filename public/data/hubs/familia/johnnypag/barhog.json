@@ -1,0 +1,42 @@
+{
+  "tipo": "familia",
+  "slug": "barhog",
+  "canonicalPath": "/fipe/johnnypag/barhog/",
+  "titulo": "JOHNNYPAG barhog - Tabela FIPE",
+  "descricao": "2 versoes e anos do JOHNNYPAG barhog na Tabela FIPE.",
+  "seo": {
+    "title": "JOHNNYPAG barhog - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes JOHNNYPAG barhog. 2 veiculos indexados.",
+    "h1": "JOHNNYPAG barhog - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/johnnypag/barhog/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "johnnypag-barhog-300cc-2011-gasolina",
+      "fipeCodigo": "875003-3",
+      "displayName": "JOHNNYPAG BARHOG 300cc",
+      "valorAtual": 9709,
+      "canonicalPath": "/fipe/johnnypag/barhog-300cc-2011-875003-3/",
+      "ano": 2011,
+      "marca": "JOHNNYPAG"
+    },
+    {
+      "vehicleId": "johnnypag-barhog-300cc-2010-gasolina",
+      "fipeCodigo": "875003-3",
+      "displayName": "JOHNNYPAG BARHOG 300cc",
+      "valorAtual": 9441,
+      "canonicalPath": "/fipe/johnnypag/barhog-300cc-2010-875003-3/",
+      "ano": 2010,
+      "marca": "JOHNNYPAG"
+    }
+  ],
+  "stats": {
+    "total": 2,
+    "precoMin": 9441,
+    "precoMax": 9709,
+    "anos": [
+      2011,
+      2010
+    ]
+  }
+}

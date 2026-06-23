@@ -1,0 +1,93 @@
+{
+  "tipo": "geracao",
+  "slug": "850ci-1",
+  "canonicalPath": "/geracao/bmw/850ci-1/",
+  "titulo": "Geracao 850ci-1",
+  "descricao": "8 veiculos da geracao 850ci-1.",
+  "seo": {
+    "title": "Geracao 850ci-1 - Precos FIPE",
+    "description": "Veiculos da geracao 850ci-1 na Tabela FIPE.",
+    "h1": "Geracao 850ci-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/bmw/850ci-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "bmw-850ci-cia-5-0-24v-1991-gasolina",
+      "fipeCodigo": "009077-8",
+      "displayName": "BMW 850Ci/CiA 5.0 24V",
+      "valorAtual": 45606,
+      "canonicalPath": "/fipe/bmw/850ci-cia-5-0-24v-1991-009077-8/",
+      "ano": 1991,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-850ci-cia-5-0-24v-1992-gasolina",
+      "fipeCodigo": "009077-8",
+      "displayName": "BMW 850Ci/CiA 5.0 24V",
+      "valorAtual": 50794,
+      "canonicalPath": "/fipe/bmw/850ci-cia-5-0-24v-1992-009077-8/",
+      "ano": 1992,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-850ci-cia-5-0-24v-1993-gasolina",
+      "fipeCodigo": "009077-8",
+      "displayName": "BMW 850Ci/CiA 5.0 24V",
+      "valorAtual": 76259,
+      "canonicalPath": "/fipe/bmw/850ci-cia-5-0-24v-1993-009077-8/",
+      "ano": 1993,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-850ci-cia-5-0-24v-1994-gasolina",
+      "fipeCodigo": "009077-8",
+      "displayName": "BMW 850Ci/CiA 5.0 24V",
+      "valorAtual": 83623,
+      "canonicalPath": "/fipe/bmw/850ci-cia-5-0-24v-1994-009077-8/",
+      "ano": 1994,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-850ci-cia-5-0-24v-1995-gasolina",
+      "fipeCodigo": "009077-8",
+      "displayName": "BMW 850Ci/CiA 5.0 24V",
+      "valorAtual": 88885,
+      "canonicalPath": "/fipe/bmw/850ci-cia-5-0-24v-1995-009077-8/",
+      "ano": 1995,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-850ci-cia-5-4-24v-1996-gasolina",
+      "fipeCodigo": "009078-6",
+      "displayName": "BMW 850Ci/CiA 5.4 24V",
+      "valorAtual": 69292,
+      "canonicalPath": "/fipe/bmw/850ci-cia-5-4-24v-1996-009078-6/",
+      "ano": 1996,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-850ci-cia-5-4-24v-1997-gasolina",
+      "fipeCodigo": "009078-6",
+      "displayName": "BMW 850Ci/CiA 5.4 24V",
+      "valorAtual": 71025,
+      "canonicalPath": "/fipe/bmw/850ci-cia-5-4-24v-1997-009078-6/",
+      "ano": 1997,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-850ci-cia-5-4-24v-1998-gasolina",
+      "fipeCodigo": "009078-6",
+      "displayName": "BMW 850Ci/CiA 5.4 24V",
+      "valorAtual": 72801,
+      "canonicalPath": "/fipe/bmw/850ci-cia-5-4-24v-1998-009078-6/",
+      "ano": 1998,
+      "marca": "BMW"
+    }
+  ],
+  "stats": {
+    "total": 8
+  },
+  "meta": {
+    "geracaoId": "850ci-1"
+  }
+}

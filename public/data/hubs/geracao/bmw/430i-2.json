@@ -1,0 +1,48 @@
+{
+  "tipo": "geracao",
+  "slug": "430i-2",
+  "canonicalPath": "/geracao/bmw/430i-2/",
+  "titulo": "Geracao 430i-2",
+  "descricao": "3 veiculos da geracao 430i-2.",
+  "seo": {
+    "title": "Geracao 430i-2 - Precos FIPE",
+    "description": "Veiculos da geracao 430i-2 na Tabela FIPE.",
+    "h1": "Geracao 430i-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/bmw/430i-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "bmw-430i-cabriolet-m-sport-2-0-tb-258cv-2p-2021-gasolina",
+      "fipeCodigo": "009278-9",
+      "displayName": "BMW 430i Cabriolet M Sport 2.0 TB 258cv 2p",
+      "valorAtual": 353429,
+      "canonicalPath": "/fipe/bmw/430i-cabriolet-m-sport-2-0-tb-258cv-2p-2021-009278-9/",
+      "ano": 2021,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-430i-cabriolet-m-sport-2-0-tb-258cv-2p-2022-gasolina",
+      "fipeCodigo": "009278-9",
+      "displayName": "BMW 430i Cabriolet M Sport 2.0 TB 258cv 2p",
+      "valorAtual": 370367,
+      "canonicalPath": "/fipe/bmw/430i-cabriolet-m-sport-2-0-tb-258cv-2p-2022-009278-9/",
+      "ano": 2022,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-430i-cabriolet-sport-2-0-tb-252cv-2p-2020-gasolina",
+      "fipeCodigo": "009224-0",
+      "displayName": "BMW 430i Cabriolet Sport 2.0 TB 252cv 2p",
+      "valorAtual": 262121,
+      "canonicalPath": "/fipe/bmw/430i-cabriolet-sport-2-0-tb-252cv-2p-2020-009224-0/",
+      "ano": 2020,
+      "marca": "BMW"
+    }
+  ],
+  "stats": {
+    "total": 3
+  },
+  "meta": {
+    "geracaoId": "430i-2"
+  }
+}

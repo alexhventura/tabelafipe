@@ -1,0 +1,75 @@
+{
+  "tipo": "geracao",
+  "slug": "323ti-1",
+  "canonicalPath": "/geracao/bmw/323ti-1/",
+  "titulo": "Geracao 323ti-1",
+  "descricao": "6 veiculos da geracao 323ti-1.",
+  "seo": {
+    "title": "Geracao 323ti-1 - Precos FIPE",
+    "description": "Veiculos da geracao 323ti-1 na Tabela FIPE.",
+    "h1": "Geracao 323ti-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/bmw/323ti-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "bmw-323ti-compact-1998-gasolina",
+      "fipeCodigo": "009031-0",
+      "displayName": "BMW 323Ti Compact",
+      "valorAtual": 27167,
+      "canonicalPath": "/fipe/bmw/323ti-compact-1998-009031-0/",
+      "ano": 1998,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-323ti-compact-1999-gasolina",
+      "fipeCodigo": "009031-0",
+      "displayName": "BMW 323Ti Compact",
+      "valorAtual": 27847,
+      "canonicalPath": "/fipe/bmw/323ti-compact-1999-009031-0/",
+      "ano": 1999,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-323ti-compact-2000-gasolina",
+      "fipeCodigo": "009031-0",
+      "displayName": "BMW 323Ti Compact",
+      "valorAtual": 28544,
+      "canonicalPath": "/fipe/bmw/323ti-compact-2000-009031-0/",
+      "ano": 2000,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-323ti-compact-sport-1998-gasolina",
+      "fipeCodigo": "009032-8",
+      "displayName": "BMW 323Ti Compact Sport",
+      "valorAtual": 49519,
+      "canonicalPath": "/fipe/bmw/323ti-compact-sport-1998-009032-8/",
+      "ano": 1998,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-323ti-compact-sport-1999-gasolina",
+      "fipeCodigo": "009032-8",
+      "displayName": "BMW 323Ti Compact Sport",
+      "valorAtual": 54856,
+      "canonicalPath": "/fipe/bmw/323ti-compact-sport-1999-009032-8/",
+      "ano": 1999,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-323ti-compact-sport-2000-gasolina",
+      "fipeCodigo": "009032-8",
+      "displayName": "BMW 323Ti Compact Sport",
+      "valorAtual": 56228,
+      "canonicalPath": "/fipe/bmw/323ti-compact-sport-2000-009032-8/",
+      "ano": 2000,
+      "marca": "BMW"
+    }
+  ],
+  "stats": {
+    "total": 6
+  },
+  "meta": {
+    "geracaoId": "323ti-1"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "tipo": "geracao",
+  "slug": "grandis-1",
+  "canonicalPath": "/geracao/mitsubishi/grandis-1/",
+  "titulo": "Geracao grandis-1",
+  "descricao": "4 veiculos da geracao grandis-1.",
+  "seo": {
+    "title": "Geracao grandis-1 - Precos FIPE",
+    "description": "Veiculos da geracao grandis-1 na Tabela FIPE.",
+    "h1": "Geracao grandis-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/mitsubishi/grandis-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "mitsubishi-grandis-2-4-16v-163cv-5p-aut-2005-gasolina",
+      "fipeCodigo": "022085-0",
+      "displayName": "Mitsubishi GRANDIS 2.4 16V 163cv 5p Aut.",
+      "valorAtual": 30555,
+      "canonicalPath": "/fipe/mitsubishi/grandis-2-4-16v-163cv-5p-aut-2005-022085-0/",
+      "ano": 2005,
+      "marca": "Mitsubishi"
+    },
+    {
+      "vehicleId": "mitsubishi-grandis-2-4-16v-163cv-5p-aut-2006-gasolina",
+      "fipeCodigo": "022085-0",
+      "displayName": "Mitsubishi GRANDIS 2.4 16V 163cv 5p Aut.",
+      "valorAtual": 31382,
+      "canonicalPath": "/fipe/mitsubishi/grandis-2-4-16v-163cv-5p-aut-2006-022085-0/",
+      "ano": 2006,
+      "marca": "Mitsubishi"
+    },
+    {
+      "vehicleId": "mitsubishi-grandis-2-4-16v-163cv-5p-aut-2007-gasolina",
+      "fipeCodigo": "022085-0",
+      "displayName": "Mitsubishi GRANDIS 2.4 16V 163cv 5p Aut.",
+      "valorAtual": 34694,
+      "canonicalPath": "/fipe/mitsubishi/grandis-2-4-16v-163cv-5p-aut-2007-022085-0/",
+      "ano": 2007,
+      "marca": "Mitsubishi"
+    },
+    {
+      "vehicleId": "mitsubishi-grandis-2-4-16v-163cv-5p-aut-2008-gasolina",
+      "fipeCodigo": "022085-0",
+      "displayName": "Mitsubishi GRANDIS 2.4 16V 163cv 5p Aut.",
+      "valorAtual": 35562,
+      "canonicalPath": "/fipe/mitsubishi/grandis-2-4-16v-163cv-5p-aut-2008-022085-0/",
+      "ano": 2008,
+      "marca": "Mitsubishi"
+    }
+  ],
+  "stats": {
+    "total": 4
+  },
+  "meta": {
+    "geracaoId": "grandis-1"
+  }
+}

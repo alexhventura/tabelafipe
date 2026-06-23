@@ -1,0 +1,84 @@
+{
+  "tipo": "geracao",
+  "slug": "f-3",
+  "canonicalPath": "/geracao/ford/f-3/",
+  "titulo": "Geracao f-3",
+  "descricao": "7 veiculos da geracao f-3.",
+  "seo": {
+    "title": "Geracao f-3 - Precos FIPE",
+    "description": "Veiculos da geracao f-3 na Tabela FIPE.",
+    "h1": "Geracao f-3",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/ford/f-3/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "ford-f-150-lariat-4x4-5-0-v8-2023-gasolina",
+      "fipeCodigo": "003489-4",
+      "displayName": "Ford F-150 Lariat 4x4 5.0 V8",
+      "valorAtual": 364674,
+      "canonicalPath": "/fipe/ford/f-150-lariat-4x4-5-0-v8-2023-003489-4/",
+      "ano": 2023,
+      "marca": "Ford"
+    },
+    {
+      "vehicleId": "ford-f-150-lariat-4x4-5-0-v8-2024-gasolina",
+      "fipeCodigo": "003489-4",
+      "displayName": "Ford F-150 Lariat 4x4 5.0 V8",
+      "valorAtual": 443112,
+      "canonicalPath": "/fipe/ford/f-150-lariat-4x4-5-0-v8-2024-003489-4/",
+      "ano": 2024,
+      "marca": "Ford"
+    },
+    {
+      "vehicleId": "ford-f-150-lariat-4x4-5-0-v8-2025-gasolina",
+      "fipeCodigo": "003489-4",
+      "displayName": "Ford F-150 Lariat 4x4 5.0 V8",
+      "valorAtual": 513130,
+      "canonicalPath": "/fipe/ford/f-150-lariat-4x4-5-0-v8-2025-003489-4/",
+      "ano": 2025,
+      "marca": "Ford"
+    },
+    {
+      "vehicleId": "ford-f-150-lariat-black-4x4-5-0-v8-2024-gasolina",
+      "fipeCodigo": "003509-2",
+      "displayName": "Ford F-150 Lariat Black 4x4 5.0 V8",
+      "valorAtual": 449021,
+      "canonicalPath": "/fipe/ford/f-150-lariat-black-4x4-5-0-v8-2024-003509-2/",
+      "ano": 2024,
+      "marca": "Ford"
+    },
+    {
+      "vehicleId": "ford-f-150-lariat-black-4x4-5-0-v8-2025-gasolina",
+      "fipeCodigo": "003509-2",
+      "displayName": "Ford F-150 Lariat Black 4x4 5.0 V8",
+      "valorAtual": 504346,
+      "canonicalPath": "/fipe/ford/f-150-lariat-black-4x4-5-0-v8-2025-003509-2/",
+      "ano": 2025,
+      "marca": "Ford"
+    },
+    {
+      "vehicleId": "ford-f-150-platinum-4x4-5-0-v8-2023-gasolina",
+      "fipeCodigo": "003490-8",
+      "displayName": "Ford F-150 Platinum 4x4 5.0 V8",
+      "valorAtual": 354984,
+      "canonicalPath": "/fipe/ford/f-150-platinum-4x4-5-0-v8-2023-003490-8/",
+      "ano": 2023,
+      "marca": "Ford"
+    },
+    {
+      "vehicleId": "ford-f-150-tremor-4x4-5-0-v8-2025-gasolina",
+      "fipeCodigo": "003512-2",
+      "displayName": "Ford F-150 Tremor 4x4 5.0 V8",
+      "valorAtual": 520587,
+      "canonicalPath": "/fipe/ford/f-150-tremor-4x4-5-0-v8-2025-003512-2/",
+      "ano": 2025,
+      "marca": "Ford"
+    }
+  ],
+  "stats": {
+    "total": 7
+  },
+  "meta": {
+    "geracaoId": "f-3"
+  }
+}

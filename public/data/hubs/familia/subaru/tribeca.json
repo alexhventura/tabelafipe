@@ -1,0 +1,72 @@
+{
+  "tipo": "familia",
+  "slug": "tribeca",
+  "canonicalPath": "/fipe/subaru/tribeca/",
+  "titulo": "Subaru tribeca - Tabela FIPE",
+  "descricao": "5 versoes e anos do Subaru tribeca na Tabela FIPE.",
+  "seo": {
+    "title": "Subaru tribeca - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes Subaru tribeca. 5 veiculos indexados.",
+    "h1": "Subaru tribeca - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/subaru/tribeca/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "subaru-tribeca-3-6-24v-270cv-5p-aut-2012-gasolina",
+      "fipeCodigo": "027055-5",
+      "displayName": "Subaru TRIBECA 3.6 24V 270cv 5p Aut.",
+      "valorAtual": 54157,
+      "canonicalPath": "/fipe/subaru/tribeca-3-6-24v-270cv-5p-aut-2012-027055-5/",
+      "ano": 2012,
+      "marca": "Subaru"
+    },
+    {
+      "vehicleId": "subaru-tribeca-3-6-24v-270cv-5p-aut-2011-gasolina",
+      "fipeCodigo": "027055-5",
+      "displayName": "Subaru TRIBECA 3.6 24V 270cv 5p Aut.",
+      "valorAtual": 52836,
+      "canonicalPath": "/fipe/subaru/tribeca-3-6-24v-270cv-5p-aut-2011-027055-5/",
+      "ano": 2011,
+      "marca": "Subaru"
+    },
+    {
+      "vehicleId": "subaru-tribeca-3-6-24v-270cv-5p-aut-2010-gasolina",
+      "fipeCodigo": "027055-5",
+      "displayName": "Subaru TRIBECA 3.6 24V 270cv 5p Aut.",
+      "valorAtual": 49476,
+      "canonicalPath": "/fipe/subaru/tribeca-3-6-24v-270cv-5p-aut-2010-027055-5/",
+      "ano": 2010,
+      "marca": "Subaru"
+    },
+    {
+      "vehicleId": "subaru-tribeca-3-6-24v-270cv-5p-aut-2009-gasolina",
+      "fipeCodigo": "027055-5",
+      "displayName": "Subaru TRIBECA 3.6 24V 270cv 5p Aut.",
+      "valorAtual": 48269,
+      "canonicalPath": "/fipe/subaru/tribeca-3-6-24v-270cv-5p-aut-2009-027055-5/",
+      "ano": 2009,
+      "marca": "Subaru"
+    },
+    {
+      "vehicleId": "subaru-tribeca-3-6-24v-270cv-5p-aut-2008-gasolina",
+      "fipeCodigo": "027055-5",
+      "displayName": "Subaru TRIBECA 3.6 24V 270cv 5p Aut.",
+      "valorAtual": 43909,
+      "canonicalPath": "/fipe/subaru/tribeca-3-6-24v-270cv-5p-aut-2008-027055-5/",
+      "ano": 2008,
+      "marca": "Subaru"
+    }
+  ],
+  "stats": {
+    "total": 5,
+    "precoMin": 43909,
+    "precoMax": 54157,
+    "anos": [
+      2012,
+      2011,
+      2010,
+      2009,
+      2008
+    ]
+  }
+}

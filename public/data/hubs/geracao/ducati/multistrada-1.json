@@ -1,0 +1,48 @@
+{
+  "tipo": "geracao",
+  "slug": "multistrada-1",
+  "canonicalPath": "/geracao/ducati/multistrada-1/",
+  "titulo": "Geracao multistrada-1",
+  "descricao": "3 veiculos da geracao multistrada-1.",
+  "seo": {
+    "title": "Geracao multistrada-1 - Precos FIPE",
+    "description": "Veiculos da geracao multistrada-1 na Tabela FIPE.",
+    "h1": "Geracao multistrada-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/ducati/multistrada-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "ducati-multistrada-1160-v4-rally-0-gasolina",
+      "fipeCodigo": "808090-9",
+      "displayName": "DUCATI MULTISTRADA 1160 V4 Rally",
+      "valorAtual": 159856,
+      "canonicalPath": "/fipe/ducati/multistrada-1160-v4-rally-0-808090-9/",
+      "ano": 0,
+      "marca": "DUCATI"
+    },
+    {
+      "vehicleId": "ducati-multistrada-1160-v4s-0-gasolina",
+      "fipeCodigo": "808086-0",
+      "displayName": "DUCATI MULTISTRADA 1160 V4S",
+      "valorAtual": 149160,
+      "canonicalPath": "/fipe/ducati/multistrada-1160-v4s-0-808086-0/",
+      "ano": 0,
+      "marca": "DUCATI"
+    },
+    {
+      "vehicleId": "ducati-multistrada-v2s-0-gasolina",
+      "fipeCodigo": "808088-7",
+      "displayName": "DUCATI MULTISTRADA V2S",
+      "valorAtual": 106010,
+      "canonicalPath": "/fipe/ducati/multistrada-v2s-0-808088-7/",
+      "ano": 0,
+      "marca": "DUCATI"
+    }
+  ],
+  "stats": {
+    "total": 3
+  },
+  "meta": {
+    "geracaoId": "multistrada-1"
+  }
+}

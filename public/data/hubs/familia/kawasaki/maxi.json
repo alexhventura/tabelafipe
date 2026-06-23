@@ -1,0 +1,52 @@
+{
+  "tipo": "familia",
+  "slug": "maxi",
+  "canonicalPath": "/fipe/kawasaki/maxi/",
+  "titulo": "KAWASAKI maxi - Tabela FIPE",
+  "descricao": "3 versoes e anos do KAWASAKI maxi na Tabela FIPE.",
+  "seo": {
+    "title": "KAWASAKI maxi - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes KAWASAKI maxi. 3 veiculos indexados.",
+    "h1": "KAWASAKI maxi - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/kawasaki/maxi/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "kawasaki-maxi-ii-100cc-1999-gasolina",
+      "fipeCodigo": "817006-1",
+      "displayName": "KAWASAKI MAXI II 100cc",
+      "valorAtual": 1263,
+      "canonicalPath": "/fipe/kawasaki/maxi-ii-100cc-1999-817006-1/",
+      "ano": 1999,
+      "marca": "KAWASAKI"
+    },
+    {
+      "vehicleId": "kawasaki-maxi-ii-100cc-1998-gasolina",
+      "fipeCodigo": "817006-1",
+      "displayName": "KAWASAKI MAXI II 100cc",
+      "valorAtual": 1231,
+      "canonicalPath": "/fipe/kawasaki/maxi-ii-100cc-1998-817006-1/",
+      "ano": 1998,
+      "marca": "KAWASAKI"
+    },
+    {
+      "vehicleId": "kawasaki-maxi-ii-100cc-1997-gasolina",
+      "fipeCodigo": "817006-1",
+      "displayName": "KAWASAKI MAXI II 100cc",
+      "valorAtual": 1137,
+      "canonicalPath": "/fipe/kawasaki/maxi-ii-100cc-1997-817006-1/",
+      "ano": 1997,
+      "marca": "KAWASAKI"
+    }
+  ],
+  "stats": {
+    "total": 3,
+    "precoMin": 1137,
+    "precoMax": 1263,
+    "anos": [
+      1999,
+      1998,
+      1997
+    ]
+  }
+}

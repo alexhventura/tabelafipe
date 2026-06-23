@@ -1,0 +1,70 @@
+{
+  "tipo": "familia",
+  "slug": "urban",
+  "canonicalPath": "/fipe/shineray/urban/",
+  "titulo": "SHINERAY urban - Tabela FIPE",
+  "descricao": "5 versoes e anos do SHINERAY urban na Tabela FIPE.",
+  "seo": {
+    "title": "SHINERAY urban - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes SHINERAY urban. 5 veiculos indexados.",
+    "h1": "SHINERAY urban - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/shineray/urban/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "shineray-urban-lite-150-2026-gasolina",
+      "fipeCodigo": "850057-6",
+      "displayName": "SHINERAY URBAN LITE 150",
+      "valorAtual": 11813,
+      "canonicalPath": "/fipe/shineray/urban-lite-150-2026-850057-6/",
+      "ano": 2026,
+      "marca": "SHINERAY"
+    },
+    {
+      "vehicleId": "shineray-urban-150-efi-2026-gasolina",
+      "fipeCodigo": "850042-8",
+      "displayName": "SHINERAY URBAN 150 EFI",
+      "valorAtual": 20524,
+      "canonicalPath": "/fipe/shineray/urban-150-efi-2026-850042-8/",
+      "ano": 2026,
+      "marca": "SHINERAY"
+    },
+    {
+      "vehicleId": "shineray-urban-150-efi-2025-gasolina",
+      "fipeCodigo": "850042-8",
+      "displayName": "SHINERAY URBAN 150 EFI",
+      "valorAtual": 17425,
+      "canonicalPath": "/fipe/shineray/urban-150-efi-2025-850042-8/",
+      "ano": 2025,
+      "marca": "SHINERAY"
+    },
+    {
+      "vehicleId": "shineray-urban-lite-150-0-gasolina",
+      "fipeCodigo": "850057-6",
+      "displayName": "SHINERAY URBAN LITE 150",
+      "valorAtual": 12911,
+      "canonicalPath": "/fipe/shineray/urban-lite-150-0-850057-6/",
+      "ano": 0,
+      "marca": "SHINERAY"
+    },
+    {
+      "vehicleId": "shineray-urban-150-efi-0-gasolina",
+      "fipeCodigo": "850042-8",
+      "displayName": "SHINERAY URBAN 150 EFI",
+      "valorAtual": 21730,
+      "canonicalPath": "/fipe/shineray/urban-150-efi-0-850042-8/",
+      "ano": 0,
+      "marca": "SHINERAY"
+    }
+  ],
+  "stats": {
+    "total": 5,
+    "precoMin": 11813,
+    "precoMax": 21730,
+    "anos": [
+      2026,
+      2025,
+      0
+    ]
+  }
+}

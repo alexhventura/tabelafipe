@@ -1,0 +1,118 @@
+{
+  "tipo": "familia",
+  "slug": "jaguar",
+  "canonicalPath": "/fipe/adly/jaguar/",
+  "titulo": "ADLY jaguar - Tabela FIPE",
+  "descricao": "10 versoes e anos do ADLY jaguar na Tabela FIPE.",
+  "seo": {
+    "title": "ADLY jaguar - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes ADLY jaguar. 10 veiculos indexados.",
+    "h1": "ADLY jaguar - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/adly/jaguar/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "adly-jaguar-jt-50-2001-gasolina",
+      "fipeCodigo": "840008-3",
+      "displayName": "ADLY JAGUAR JT 50",
+      "valorAtual": 1809,
+      "canonicalPath": "/fipe/adly/jaguar-jt-50-2001-840008-3/",
+      "ano": 2001,
+      "marca": "ADLY"
+    },
+    {
+      "vehicleId": "adly-jaguar-jt-50-2000-gasolina",
+      "fipeCodigo": "840008-3",
+      "displayName": "ADLY JAGUAR JT 50",
+      "valorAtual": 1636,
+      "canonicalPath": "/fipe/adly/jaguar-jt-50-2000-840008-3/",
+      "ano": 2000,
+      "marca": "ADLY"
+    },
+    {
+      "vehicleId": "adly-jaguar-jt-50-1999-gasolina",
+      "fipeCodigo": "840008-3",
+      "displayName": "ADLY JAGUAR JT 50",
+      "valorAtual": 1541,
+      "canonicalPath": "/fipe/adly/jaguar-jt-50-1999-840008-3/",
+      "ano": 1999,
+      "marca": "ADLY"
+    },
+    {
+      "vehicleId": "adly-jaguar-jt-100-1999-gasolina",
+      "fipeCodigo": "840007-5",
+      "displayName": "ADLY JAGUAR JT 100",
+      "valorAtual": 1823,
+      "canonicalPath": "/fipe/adly/jaguar-jt-100-1999-840007-5/",
+      "ano": 1999,
+      "marca": "ADLY"
+    },
+    {
+      "vehicleId": "adly-jaguar-jt-50-1998-gasolina",
+      "fipeCodigo": "840008-3",
+      "displayName": "ADLY JAGUAR JT 50",
+      "valorAtual": 1389,
+      "canonicalPath": "/fipe/adly/jaguar-jt-50-1998-840008-3/",
+      "ano": 1998,
+      "marca": "ADLY"
+    },
+    {
+      "vehicleId": "adly-jaguar-jt-100-1998-gasolina",
+      "fipeCodigo": "840007-5",
+      "displayName": "ADLY JAGUAR JT 100",
+      "valorAtual": 1660,
+      "canonicalPath": "/fipe/adly/jaguar-jt-100-1998-840007-5/",
+      "ano": 1998,
+      "marca": "ADLY"
+    },
+    {
+      "vehicleId": "adly-jaguar-jt-50-1997-gasolina",
+      "fipeCodigo": "840008-3",
+      "displayName": "ADLY JAGUAR JT 50",
+      "valorAtual": 1320,
+      "canonicalPath": "/fipe/adly/jaguar-jt-50-1997-840008-3/",
+      "ano": 1997,
+      "marca": "ADLY"
+    },
+    {
+      "vehicleId": "adly-jaguar-jt-100-1997-gasolina",
+      "fipeCodigo": "840007-5",
+      "displayName": "ADLY JAGUAR JT 100",
+      "valorAtual": 1532,
+      "canonicalPath": "/fipe/adly/jaguar-jt-100-1997-840007-5/",
+      "ano": 1997,
+      "marca": "ADLY"
+    },
+    {
+      "vehicleId": "adly-jaguar-jt-50-1996-gasolina",
+      "fipeCodigo": "840008-3",
+      "displayName": "ADLY JAGUAR JT 50",
+      "valorAtual": 1208,
+      "canonicalPath": "/fipe/adly/jaguar-jt-50-1996-840008-3/",
+      "ano": 1996,
+      "marca": "ADLY"
+    },
+    {
+      "vehicleId": "adly-jaguar-jt-100-1996-gasolina",
+      "fipeCodigo": "840007-5",
+      "displayName": "ADLY JAGUAR JT 100",
+      "valorAtual": 1428,
+      "canonicalPath": "/fipe/adly/jaguar-jt-100-1996-840007-5/",
+      "ano": 1996,
+      "marca": "ADLY"
+    }
+  ],
+  "stats": {
+    "total": 10,
+    "precoMin": 1208,
+    "precoMax": 1823,
+    "anos": [
+      2001,
+      2000,
+      1999,
+      1998,
+      1997,
+      1996
+    ]
+  }
+}

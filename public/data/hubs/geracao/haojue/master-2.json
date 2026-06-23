@@ -1,0 +1,741 @@
+{
+  "tipo": "geracao",
+  "slug": "master-2",
+  "canonicalPath": "/geracao/haojue/master-2/",
+  "titulo": "Geracao master-2",
+  "descricao": "207 veiculos da geracao master-2.",
+  "seo": {
+    "title": "Geracao master-2 - Precos FIPE",
+    "description": "Veiculos da geracao master-2 na Tabela FIPE.",
+    "h1": "Geracao master-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/haojue/master-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "haojue-master-ride-150-2022-gasolina",
+      "fipeCodigo": "885009-7",
+      "displayName": "HAOJUE MASTER RIDE 150",
+      "valorAtual": 14264,
+      "canonicalPath": "/fipe/haojue/master-ride-150-2022-885009-7/",
+      "ano": 2022,
+      "marca": "HAOJUE"
+    },
+    {
+      "vehicleId": "haojue-master-ride-150-2023-gasolina",
+      "fipeCodigo": "885009-7",
+      "displayName": "HAOJUE MASTER RIDE 150",
+      "valorAtual": 14929,
+      "canonicalPath": "/fipe/haojue/master-ride-150-2023-885009-7/",
+      "ano": 2023,
+      "marca": "HAOJUE"
+    },
+    {
+      "vehicleId": "haojue-master-ride-150-2024-gasolina",
+      "fipeCodigo": "885009-7",
+      "displayName": "HAOJUE MASTER RIDE 150",
+      "valorAtual": 15321,
+      "canonicalPath": "/fipe/haojue/master-ride-150-2024-885009-7/",
+      "ano": 2024,
+      "marca": "HAOJUE"
+    },
+    {
+      "vehicleId": "haojue-master-ride-150-2025-gasolina",
+      "fipeCodigo": "885009-7",
+      "displayName": "HAOJUE MASTER RIDE 150",
+      "valorAtual": 15865,
+      "canonicalPath": "/fipe/haojue/master-ride-150-2025-885009-7/",
+      "ano": 2025,
+      "marca": "HAOJUE"
+    },
+    {
+      "vehicleId": "haojue-master-ride-150-2026-gasolina",
+      "fipeCodigo": "885009-7",
+      "displayName": "HAOJUE MASTER RIDE 150",
+      "valorAtual": 16829,
+      "canonicalPath": "/fipe/haojue/master-ride-150-2026-885009-7/",
+      "ano": 2026,
+      "marca": "HAOJUE"
+    },
+    {
+      "vehicleId": "haojue-master-ride-150-2027-gasolina",
+      "fipeCodigo": "885009-7",
+      "displayName": "HAOJUE MASTER RIDE 150",
+      "valorAtual": 17364,
+      "canonicalPath": "/fipe/haojue/master-ride-150-2027-885009-7/",
+      "ano": 2027,
+      "marca": "HAOJUE"
+    },
+    {
+      "vehicleId": "renault-master-2-3-dci-chassi-16v-diesel-2014-diesel",
+      "fipeCodigo": "025195-0",
+      "displayName": "Renault Master 2.3 dCi Chassi 16V Diesel",
+      "valorAtual": 103882,
+      "canonicalPath": "/fipe/renault/master-2-3-dci-chassi-16v-diesel-2014-025195-0/",
+      "ano": 2014,
+      "marca": "Renault"
+    },
+    {
+      "vehicleId": "renault-master-2-3-dci-chassi-16v-diesel-2015-diesel",
+      "fipeCodigo": "025195-0",
+      "displayName": "Renault Master 2.3 dCi Chassi 16V Diesel",
+      "valorAtual": 115515,
+      "canonicalPath": "/fipe/renault/master-2-3-dci-chassi-16v-diesel-2015-025195-0/",
+      "ano": 2015,
+      "marca": "Renault"
+    },
+    {
+      "vehicleId": "renault-master-2-3-dci-chassi-16v-diesel-2016-diesel",
+      "fipeCodigo": "025195-0",
+      "displayName": "Renault Master 2.3 dCi Chassi 16V Diesel",
+      "valorAtual": 119562,
+      "canonicalPath": "/fipe/renault/master-2-3-dci-chassi-16v-diesel-2016-025195-0/",
+      "ano": 2016,
+      "marca": "Renault"
+    },
+    {
+      "vehicleId": "renault-master-2-3-dci-chassi-16v-diesel-2017-diesel",
+      "fipeCodigo": "025195-0",
+      "displayName": "Renault Master 2.3 dCi Chassi 16V Diesel",
+      "valorAtual": 122770,
+      "canonicalPath": "/fipe/renault/master-2-3-dci-chassi-16v-diesel-2017-025195-0/",
+      "ano": 2017,
+      "marca": "Renault"
+    },
+    {
+      "vehicleId": "renault-master-2-3-dci-chassi-16v-diesel-2018-diesel",
+      "fipeCodigo": "025195-0",
+      "displayName": "Renault Master 2.3 dCi Chassi 16V Diesel",
+      "valorAtual": 132441,
+      "canonicalPath": "/fipe/renault/master-2-3-dci-chassi-16v-diesel-2018-025195-0/",
+      "ano": 2018,
+      "marca": "Renault"
+    },
+    {
+      "vehicleId": "renault-master-2-3-dci-chassi-16v-diesel-2019-diesel",
+      "fipeCodigo": "025195-0",
+      "displayName": "Renault Master 2.3 dCi Chassi 16V Diesel",
+      "valorAtual": 136210,
+      "canonicalPath": "/fipe/renault/master-2-3-dci-chassi-16v-diesel-2019-025195-0/",
+      "ano": 2019,
+      "marca": "Renault"
+    },
+    {
+      "vehicleId": "renault-master-2-3-dci-chassi-16v-diesel-2020-diesel",
+      "fipeCodigo": "025195-0",
+      "displayName": "Renault Master 2.3 dCi Chassi 16V Diesel",
+      "valorAtual": 146376,
+      "canonicalPath": "/fipe/renault/master-2-3-dci-chassi-16v-diesel-2020-025195-0/",
+      "ano": 2020,
+      "marca": "Renault"
+    },
+    {
+      "vehicleId": "renault-master-2-3-dci-chassi-16v-diesel-2021-diesel",
+      "fipeCodigo": "025195-0",
+      "displayName": "Renault Master 2.3 dCi Chassi 16V Diesel",
+      "valorAtual": 150938,
+      "canonicalPath": "/fipe/renault/master-2-3-dci-chassi-16v-diesel-2021-025195-0/",
+      "ano": 2021,
+      "marca": "Renault"
+    },
+    {
+      "vehicleId": "renault-master-2-3-dci-chassi-16v-diesel-2022-diesel",
+      "fipeCodigo": "025195-0",
+      "displayName": "Renault Master 2.3 dCi Chassi 16V Diesel",
+      "valorAtual": 158455,
+      "canonicalPath": "/fipe/renault/master-2-3-dci-chassi-16v-diesel-2022-025195-0/",
+      "ano": 2022,
+      "marca": "Renault"
+    },
+    {
+      "vehicleId": "renault-master-2-3-dci-chassi-16v-diesel-2023-diesel",
+      "fipeCodigo": "025195-0",
+      "displayName": "Renault Master 2.3 dCi Chassi 16V Diesel",
+      "valorAtual": 176783,
+      "canonicalPath": "/fipe/renault/master-2-3-dci-chassi-16v-diesel-2023-025195-0/",
+      "ano": 2023,
+      "marca": "Renault"
+    },
+    {
+      "vehicleId": "renault-master-2-3-dci-chassi-16v-diesel-2024-diesel",
+      "fipeCodigo": "025195-0",
+      "displayName": "Renault Master 2.3 dCi Chassi 16V Diesel",
+      "valorAtual": 189886,
+      "canonicalPath": "/fipe/renault/master-2-3-dci-chassi-16v-diesel-2024-025195-0/",
+      "ano": 2024,
+      "marca": "Renault"
+    },
+    {
+      "vehicleId": "renault-master-2-3-dci-chassi-16v-diesel-2025-diesel",
+      "fipeCodigo": "025195-0",
+      "displayName": "Renault Master 2.3 dCi Chassi 16V Diesel",
+      "valorAtual": 206026,
+      "canonicalPath": "/fipe/renault/master-2-3-dci-chassi-16v-diesel-2025-025195-0/",
+      "ano": 2025,
+      "marca": "Renault"
+    },
+    {
+      "vehicleId": "renault-master-2-3-dci-chassi-16v-diesel-2026-diesel",
+      "fipeCodigo": "025195-0",
+      "displayName": "Renault Master 2.3 dCi Chassi 16V Diesel",
+      "valorAtual": 212325,
+      "canonicalPath": "/fipe/renault/master-2-3-dci-chassi-16v-diesel-2026-025195-0/",
+      "ano": 2026,
+      "marca": "Renault"
+    },
+    {
+      "vehicleId": "renault-master-2-3-dci-chassi-16v-diesel-2027-diesel",
+      "fipeCodigo": "025195-0",
+      "displayName": "Renault Master 2.3 dCi Chassi 16V Diesel",
+      "valorAtual": 225926,
+      "canonicalPath": "/fipe/renault/master-2-3-dci-chassi-16v-diesel-2027-025195-0/",
+      "ano": 2027,
+      "marca": "Renault"
+    },
+    {
+      "vehicleId": "renault-master-2-3-dci-executive-longo-16l-dies-2013-diesel",
+      "fipeCodigo": "025205-0",
+      "displayName": "Renault Master 2.3 dCi Executive Longo 16L Dies",
+      "valorAtual": 97779,
+      "canonicalPath": "/fipe/renault/master-2-3-dci-executive-longo-16l-dies-2013-025205-0/",
+      "ano": 2013,
+      "marca": "Renault"
+    },
+    {
+      "vehicleId": "renault-master-2-3-dci-executive-longo-16l-dies-2014-diesel",
+      "fipeCodigo": "025205-0",
+      "displayName": "Renault Master 2.3 dCi Executive Longo 16L Dies",
+      "valorAtual": 126157,
+      "canonicalPath": "/fipe/renault/master-2-3-dci-executive-longo-16l-dies-2014-025205-0/",
+      "ano": 2014,
+      "marca": "Renault"
+    },
+    {
+      "vehicleId": "renault-master-2-3-dci-executive-longo-16l-dies-2015-diesel",
+      "fipeCodigo": "025205-0",
+      "displayName": "Renault Master 2.3 dCi Executive Longo 16L Dies",
+      "valorAtual": 143702,
+      "canonicalPath": "/fipe/renault/master-2-3-dci-executive-longo-16l-dies-2015-025205-0/",
+      "ano": 2015,
+      "marca": "Renault"
+    },
+    {
+      "vehicleId": "renault-master-2-3-dci-executive-longo-16l-dies-2016-diesel",
+      "fipeCodigo": "025205-0",
+      "displayName": "Renault Master 2.3 dCi Executive Longo 16L Dies",
+      "valorAtual": 148468,
+      "canonicalPath": "/fipe/renault/master-2-3-dci-executive-longo-16l-dies-2016-025205-0/",
+      "ano": 2016,
+      "marca": "Renault"
+    },
+    {
+      "vehicleId": "renault-master-2-3-dci-executive-longo-16l-dies-2017-diesel",
+      "fipeCodigo": "025205-0",
+      "displayName": "Renault Master 2.3 dCi Executive Longo 16L Dies",
+      "valorAtual": 166573,
+      "canonicalPath": "/fipe/renault/master-2-3-dci-executive-longo-16l-dies-2017-025205-0/",
+      "ano": 2017,
+      "marca": "Renault"
+    },
+    {
+      "vehicleId": "renault-master-2-3-dci-executive-longo-16l-dies-2018-diesel",
+      "fipeCodigo": "025205-0",
+      "displayName": "Renault Master 2.3 dCi Executive Longo 16L Dies",
+      "valorAtual": 173608,
+      "canonicalPath": "/fipe/renault/master-2-3-dci-executive-longo-16l-dies-2018-025205-0/",
+      "ano": 2018,
+      "marca": "Renault"
+    },
+    {
+      "vehicleId": "renault-master-2-3-dci-executive-longo-16l-dies-2019-diesel",
+      "fipeCodigo": "025205-0",
+      "displayName": "Renault Master 2.3 dCi Executive Longo 16L Dies",
+      "valorAtual": 184528,
+      "canonicalPath": "/fipe/renault/master-2-3-dci-executive-longo-16l-dies-2019-025205-0/",
+      "ano": 2019,
+      "marca": "Renault"
+    },
+    {
+      "vehicleId": "renault-master-2-3-dci-executive-longo-16l-dies-2020-diesel",
+      "fipeCodigo": "025205-0",
+      "displayName": "Renault Master 2.3 dCi Executive Longo 16L Dies",
+      "valorAtual": 208924,
+      "canonicalPath": "/fipe/renault/master-2-3-dci-executive-longo-16l-dies-2020-025205-0/",
+      "ano": 2020,
+      "marca": "Renault"
+    },
+    {
+      "vehicleId": "renault-master-2-3-dci-executive-longo-16l-dies-2021-diesel",
+      "fipeCodigo": "025205-0",
+      "displayName": "Renault Master 2.3 dCi Executive Longo 16L Dies",
+      "valorAtual": 214148,
+      "canonicalPath": "/fipe/renault/master-2-3-dci-executive-longo-16l-dies-2021-025205-0/",
+      "ano": 2021,
+      "marca": "Renault"
+    },
+    {
+      "vehicleId": "renault-master-2-3-dci-executive-longo-16l-dies-2022-diesel",
+      "fipeCodigo": "025205-0",
+      "displayName": "Renault Master 2.3 dCi Executive Longo 16L Dies",
+      "valorAtual": 219502,
+      "canonicalPath": "/fipe/renault/master-2-3-dci-executive-longo-16l-dies-2022-025205-0/",
+      "ano": 2022,
+      "marca": "Renault"
+    },
+    {
+      "vehicleId": "renault-master-2-3-dci-executive-longo-16l-dies-2023-diesel",
+      "fipeCodigo": "025205-0",
+      "displayName": "Renault Master 2.3 dCi Executive Longo 16L Dies",
+      "valorAtual": 257504,
+      "canonicalPath": "/fipe/renault/master-2-3-dci-executive-longo-16l-dies-2023-025205-0/",
+      "ano": 2023,
+      "marca": "Renault"
+    },
+    {
+      "vehicleId": "renault-master-2-3-dci-executive-longo-16l-dies-2024-diesel",
+      "fipeCodigo": "025205-0",
+      "displayName": "Renault Master 2.3 dCi Executive Longo 16L Dies",
+      "valorAtual": 265521,
+      "canonicalPath": "/fipe/renault/master-2-3-dci-executive-longo-16l-dies-2024-025205-0/",
+      "ano": 2024,
+      "marca": "Renault"
+    },
+    {
+      "vehicleId": "renault-master-2-3-dci-executive-longo-16l-dies-2025-diesel",
+      "fipeCodigo": "025205-0",
+      "displayName": "Renault Master 2.3 dCi Executive Longo 16L Dies",
+      "valorAtual": 297082,
+      "canonicalPath": "/fipe/renault/master-2-3-dci-executive-longo-16l-dies-2025-025205-0/",
+      "ano": 2025,
+      "marca": "Renault"
+    },
+    {
+      "vehicleId": "renault-master-2-3-dci-executive-longo-16l-dies-2026-diesel",
+      "fipeCodigo": "025205-0",
+      "displayName": "Renault Master 2.3 dCi Executive Longo 16L Dies",
+      "valorAtual": 317093,
+      "canonicalPath": "/fipe/renault/master-2-3-dci-executive-longo-16l-dies-2026-025205-0/",
+      "ano": 2026,
+      "marca": "Renault"
+    },
+    {
+      "vehicleId": "renault-master-2-3-dci-executive-longo-16l-dies-2027-diesel",
+      "fipeCodigo": "025205-0",
+      "displayName": "Renault Master 2.3 dCi Executive Longo 16L Dies",
+      "valorAtual": 327302,
+      "canonicalPath": "/fipe/renault/master-2-3-dci-executive-longo-16l-dies-2027-025205-0/",
+      "ano": 2027,
+      "marca": "Renault"
+    },
+    {
+      "vehicleId": "renault-master-2-3-dci-extra-f-vitre-16v-diesel-2014-diesel",
+      "fipeCodigo": "025201-8",
+      "displayName": "Renault Master 2.3 dCi Extra F.Vitre 16V Diesel",
+      "valorAtual": 133480,
+      "canonicalPath": "/fipe/renault/master-2-3-dci-extra-f-vitre-16v-diesel-2014-025201-8/",
+      "ano": 2014,
+      "marca": "Renault"
+    },
+    {
+      "vehicleId": "renault-master-2-3-dci-extra-f-vitre-16v-diesel-2015-diesel",
+      "fipeCodigo": "025201-8",
+      "displayName": "Renault Master 2.3 dCi Extra F.Vitre 16V Diesel",
+      "valorAtual": 149700,
+      "canonicalPath": "/fipe/renault/master-2-3-dci-extra-f-vitre-16v-diesel-2015-025201-8/",
+      "ano": 2015,
+      "marca": "Renault"
+    },
+    {
+      "vehicleId": "renault-master-2-3-dci-extra-f-vitre-16v-diesel-2016-diesel",
+      "fipeCodigo": "025201-8",
+      "displayName": "Renault Master 2.3 dCi Extra F.Vitre 16V Diesel",
+      "valorAtual": 155176,
+      "canonicalPath": "/fipe/renault/master-2-3-dci-extra-f-vitre-16v-diesel-2016-025201-8/",
+      "ano": 2016,
+      "marca": "Renault"
+    },
+    {
+      "vehicleId": "renault-master-2-3-dci-extra-f-vitre-16v-diesel-2017-diesel",
+      "fipeCodigo": "025201-8",
+      "displayName": "Renault Master 2.3 dCi Extra F.Vitre 16V Diesel",
+      "valorAtual": 159056,
+      "canonicalPath": "/fipe/renault/master-2-3-dci-extra-f-vitre-16v-diesel-2017-025201-8/",
+      "ano": 2017,
+      "marca": "Renault"
+    },
+    {
+      "vehicleId": "renault-master-2-3-dci-extra-f-vitre-16v-diesel-2018-diesel",
+      "fipeCodigo": "025201-8",
+      "displayName": "Renault Master 2.3 dCi Extra F.Vitre 16V Diesel",
+      "valorAtual": 163525,
+      "canonicalPath": "/fipe/renault/master-2-3-dci-extra-f-vitre-16v-diesel-2018-025201-8/",
+      "ano": 2018,
+      "marca": "Renault"
+    },
+    {
+      "vehicleId": "renault-master-2-3-dci-extra-f-vitre-16v-diesel-2019-diesel",
+      "fipeCodigo": "025201-8",
+      "displayName": "Renault Master 2.3 dCi Extra F.Vitre 16V Diesel",
+      "valorAtual": 173943,
+      "canonicalPath": "/fipe/renault/master-2-3-dci-extra-f-vitre-16v-diesel-2019-025201-8/",
+      "ano": 2019,
+      "marca": "Renault"
+    },
+    {
+      "vehicleId": "renault-master-2-3-dci-extra-f-vitre-16v-diesel-2020-diesel",
+      "fipeCodigo": "025201-8",
+      "displayName": "Renault Master 2.3 dCi Extra F.Vitre 16V Diesel",
+      "valorAtual": 179039,
+      "canonicalPath": "/fipe/renault/master-2-3-dci-extra-f-vitre-16v-diesel-2020-025201-8/",
+      "ano": 2020,
+      "marca": "Renault"
+    },
+    {
+      "vehicleId": "renault-master-2-3-dci-extra-f-vitre-16v-diesel-2021-diesel",
+      "fipeCodigo": "025201-8",
+      "displayName": "Renault Master 2.3 dCi Extra F.Vitre 16V Diesel",
+      "valorAtual": 186619,
+      "canonicalPath": "/fipe/renault/master-2-3-dci-extra-f-vitre-16v-diesel-2021-025201-8/",
+      "ano": 2021,
+      "marca": "Renault"
+    },
+    {
+      "vehicleId": "renault-master-2-3-dci-extra-f-vitre-16v-diesel-2022-diesel",
+      "fipeCodigo": "025201-8",
+      "displayName": "Renault Master 2.3 dCi Extra F.Vitre 16V Diesel",
+      "valorAtual": 191285,
+      "canonicalPath": "/fipe/renault/master-2-3-dci-extra-f-vitre-16v-diesel-2022-025201-8/",
+      "ano": 2022,
+      "marca": "Renault"
+    },
+    {
+      "vehicleId": "renault-master-2-3-dci-extra-f-vitre-16v-diesel-2023-diesel",
+      "fipeCodigo": "025201-8",
+      "displayName": "Renault Master 2.3 dCi Extra F.Vitre 16V Diesel",
+      "valorAtual": 241423,
+      "canonicalPath": "/fipe/renault/master-2-3-dci-extra-f-vitre-16v-diesel-2023-025201-8/",
+      "ano": 2023,
+      "marca": "Renault"
+    },
+    {
+      "vehicleId": "renault-master-2-3-dci-extra-f-vitre-16v-diesel-2024-diesel",
+      "fipeCodigo": "025201-8",
+      "displayName": "Renault Master 2.3 dCi Extra F.Vitre 16V Diesel",
+      "valorAtual": 248541,
+      "canonicalPath": "/fipe/renault/master-2-3-dci-extra-f-vitre-16v-diesel-2024-025201-8/",
+      "ano": 2024,
+      "marca": "Renault"
+    },
+    {
+      "vehicleId": "renault-master-2-3-dci-extra-f-vitre-16v-diesel-2025-diesel",
+      "fipeCodigo": "025201-8",
+      "displayName": "Renault Master 2.3 dCi Extra F.Vitre 16V Diesel",
+      "valorAtual": 257598,
+      "canonicalPath": "/fipe/renault/master-2-3-dci-extra-f-vitre-16v-diesel-2025-025201-8/",
+      "ano": 2025,
+      "marca": "Renault"
+    },
+    {
+      "vehicleId": "renault-master-2-3-dci-extra-f-vitre-16v-diesel-2026-diesel",
+      "fipeCodigo": "025201-8",
+      "displayName": "Renault Master 2.3 dCi Extra F.Vitre 16V Diesel",
+      "valorAtual": 265020,
+      "canonicalPath": "/fipe/renault/master-2-3-dci-extra-f-vitre-16v-diesel-2026-025201-8/",
+      "ano": 2026,
+      "marca": "Renault"
+    },
+    {
+      "vehicleId": "renault-master-2-3-dci-extra-f-vitre-16v-diesel-2027-diesel",
+      "fipeCodigo": "025201-8",
+      "displayName": "Renault Master 2.3 dCi Extra F.Vitre 16V Diesel",
+      "valorAtual": 281203,
+      "canonicalPath": "/fipe/renault/master-2-3-dci-extra-f-vitre-16v-diesel-2027-025201-8/",
+      "ano": 2027,
+      "marca": "Renault"
+    },
+    {
+      "vehicleId": "renault-master-2-3-dci-extra-furgao-16v-diesel-2014-diesel",
+      "fipeCodigo": "025198-4",
+      "displayName": "Renault Master 2.3 dCi Extra Furgão 16V Diesel",
+      "valorAtual": 112922,
+      "canonicalPath": "/fipe/renault/master-2-3-dci-extra-furgao-16v-diesel-2014-025198-4/",
+      "ano": 2014,
+      "marca": "Renault"
+    },
+    {
+      "vehicleId": "renault-master-2-3-dci-extra-furgao-16v-diesel-2015-diesel",
+      "fipeCodigo": "025198-4",
+      "displayName": "Renault Master 2.3 dCi Extra Furgão 16V Diesel",
+      "valorAtual": 123363,
+      "canonicalPath": "/fipe/renault/master-2-3-dci-extra-furgao-16v-diesel-2015-025198-4/",
+      "ano": 2015,
+      "marca": "Renault"
+    },
+    {
+      "vehicleId": "renault-master-2-3-dci-extra-furgao-16v-diesel-2016-diesel",
+      "fipeCodigo": "025198-4",
+      "displayName": "Renault Master 2.3 dCi Extra Furgão 16V Diesel",
+      "valorAtual": 126448,
+      "canonicalPath": "/fipe/renault/master-2-3-dci-extra-furgao-16v-diesel-2016-025198-4/",
+      "ano": 2016,
+      "marca": "Renault"
+    },
+    {
+      "vehicleId": "renault-master-2-3-dci-extra-furgao-16v-diesel-2017-diesel",
+      "fipeCodigo": "025198-4",
+      "displayName": "Renault Master 2.3 dCi Extra Furgão 16V Diesel",
+      "valorAtual": 141770,
+      "canonicalPath": "/fipe/renault/master-2-3-dci-extra-furgao-16v-diesel-2017-025198-4/",
+      "ano": 2017,
+      "marca": "Renault"
+    },
+    {
+      "vehicleId": "renault-master-2-3-dci-extra-furgao-16v-diesel-2018-diesel",
+      "fipeCodigo": "025198-4",
+      "displayName": "Renault Master 2.3 dCi Extra Furgão 16V Diesel",
+      "valorAtual": 154064,
+      "canonicalPath": "/fipe/renault/master-2-3-dci-extra-furgao-16v-diesel-2018-025198-4/",
+      "ano": 2018,
+      "marca": "Renault"
+    },
+    {
+      "vehicleId": "renault-master-2-3-dci-extra-furgao-16v-diesel-2019-diesel",
+      "fipeCodigo": "025198-4",
+      "displayName": "Renault Master 2.3 dCi Extra Furgão 16V Diesel",
+      "valorAtual": 157916,
+      "canonicalPath": "/fipe/renault/master-2-3-dci-extra-furgao-16v-diesel-2019-025198-4/",
+      "ano": 2019,
+      "marca": "Renault"
+    },
+    {
+      "vehicleId": "renault-master-2-3-dci-extra-furgao-16v-diesel-2020-diesel",
+      "fipeCodigo": "025198-4",
+      "displayName": "Renault Master 2.3 dCi Extra Furgão 16V Diesel",
+      "valorAtual": 170803,
+      "canonicalPath": "/fipe/renault/master-2-3-dci-extra-furgao-16v-diesel-2020-025198-4/",
+      "ano": 2020,
+      "marca": "Renault"
+    },
+    {
+      "vehicleId": "renault-master-2-3-dci-extra-furgao-16v-diesel-2021-diesel",
+      "fipeCodigo": "025198-4",
+      "displayName": "Renault Master 2.3 dCi Extra Furgão 16V Diesel",
+      "valorAtual": 181609,
+      "canonicalPath": "/fipe/renault/master-2-3-dci-extra-furgao-16v-diesel-2021-025198-4/",
+      "ano": 2021,
+      "marca": "Renault"
+    },
+    {
+      "vehicleId": "renault-master-2-3-dci-extra-furgao-16v-diesel-2022-diesel",
+      "fipeCodigo": "025198-4",
+      "displayName": "Renault Master 2.3 dCi Extra Furgão 16V Diesel",
+      "valorAtual": 186150,
+      "canonicalPath": "/fipe/renault/master-2-3-dci-extra-furgao-16v-diesel-2022-025198-4/",
+      "ano": 2022,
+      "marca": "Renault"
+    },
+    {
+      "vehicleId": "renault-master-2-3-dci-extra-furgao-16v-diesel-2023-diesel",
+      "fipeCodigo": "025198-4",
+      "displayName": "Renault Master 2.3 dCi Extra Furgão 16V Diesel",
+      "valorAtual": 215555,
+      "canonicalPath": "/fipe/renault/master-2-3-dci-extra-furgao-16v-diesel-2023-025198-4/",
+      "ano": 2023,
+      "marca": "Renault"
+    },
+    {
+      "vehicleId": "renault-master-2-3-dci-extra-furgao-16v-diesel-2024-diesel",
+      "fipeCodigo": "025198-4",
+      "displayName": "Renault Master 2.3 dCi Extra Furgão 16V Diesel",
+      "valorAtual": 223521,
+      "canonicalPath": "/fipe/renault/master-2-3-dci-extra-furgao-16v-diesel-2024-025198-4/",
+      "ano": 2024,
+      "marca": "Renault"
+    },
+    {
+      "vehicleId": "renault-master-2-3-dci-extra-furgao-16v-diesel-2025-diesel",
+      "fipeCodigo": "025198-4",
+      "displayName": "Renault Master 2.3 dCi Extra Furgão 16V Diesel",
+      "valorAtual": 230521,
+      "canonicalPath": "/fipe/renault/master-2-3-dci-extra-furgao-16v-diesel-2025-025198-4/",
+      "ano": 2025,
+      "marca": "Renault"
+    },
+    {
+      "vehicleId": "renault-master-2-3-dci-extra-furgao-16v-diesel-2026-diesel",
+      "fipeCodigo": "025198-4",
+      "displayName": "Renault Master 2.3 dCi Extra Furgão 16V Diesel",
+      "valorAtual": 247545,
+      "canonicalPath": "/fipe/renault/master-2-3-dci-extra-furgao-16v-diesel-2026-025198-4/",
+      "ano": 2026,
+      "marca": "Renault"
+    },
+    {
+      "vehicleId": "renault-master-2-3-dci-extra-furgao-16v-diesel-2027-diesel",
+      "fipeCodigo": "025198-4",
+      "displayName": "Renault Master 2.3 dCi Extra Furgão 16V Diesel",
+      "valorAtual": 260615,
+      "canonicalPath": "/fipe/renault/master-2-3-dci-extra-furgao-16v-diesel-2027-025198-4/",
+      "ano": 2027,
+      "marca": "Renault"
+    },
+    {
+      "vehicleId": "renault-master-2-3-dci-extra-pro-16v-diesel-2023-diesel",
+      "fipeCodigo": "025316-2",
+      "displayName": "Renault Master 2.3 dCi Extra Pro 16V Diesel",
+      "valorAtual": 214426,
+      "canonicalPath": "/fipe/renault/master-2-3-dci-extra-pro-16v-diesel-2023-025316-2/",
+      "ano": 2023,
+      "marca": "Renault"
+    },
+    {
+      "vehicleId": "renault-master-2-3-dci-extra-pro-16v-diesel-2024-diesel",
+      "fipeCodigo": "025316-2",
+      "displayName": "Renault Master 2.3 dCi Extra Pro 16V Diesel",
+      "valorAtual": 222820,
+      "canonicalPath": "/fipe/renault/master-2-3-dci-extra-pro-16v-diesel-2024-025316-2/",
+      "ano": 2024,
+      "marca": "Renault"
+    },
+    {
+      "vehicleId": "renault-master-2-3-dci-extra-pro-16v-diesel-2025-diesel",
+      "fipeCodigo": "025316-2",
+      "displayName": "Renault Master 2.3 dCi Extra Pro 16V Diesel",
+      "valorAtual": 230421,
+      "canonicalPath": "/fipe/renault/master-2-3-dci-extra-pro-16v-diesel-2025-025316-2/",
+      "ano": 2025,
+      "marca": "Renault"
+    },
+    {
+      "vehicleId": "renault-master-2-3-dci-extra-pro-16v-diesel-2026-diesel",
+      "fipeCodigo": "025316-2",
+      "displayName": "Renault Master 2.3 dCi Extra Pro 16V Diesel",
+      "valorAtual": 246347,
+      "canonicalPath": "/fipe/renault/master-2-3-dci-extra-pro-16v-diesel-2026-025316-2/",
+      "ano": 2026,
+      "marca": "Renault"
+    },
+    {
+      "vehicleId": "renault-master-2-3-dci-extra-pro-16v-diesel-2027-diesel",
+      "fipeCodigo": "025316-2",
+      "displayName": "Renault Master 2.3 dCi Extra Pro 16V Diesel",
+      "valorAtual": 256858,
+      "canonicalPath": "/fipe/renault/master-2-3-dci-extra-pro-16v-diesel-2027-025316-2/",
+      "ano": 2027,
+      "marca": "Renault"
+    },
+    {
+      "vehicleId": "renault-master-2-3-dci-furgao-16v-diesel-2014-diesel",
+      "fipeCodigo": "025196-8",
+      "displayName": "Renault Master 2.3 dCi Furgão 16V Diesel",
+      "valorAtual": 106416,
+      "canonicalPath": "/fipe/renault/master-2-3-dci-furgao-16v-diesel-2014-025196-8/",
+      "ano": 2014,
+      "marca": "Renault"
+    },
+    {
+      "vehicleId": "renault-master-2-3-dci-furgao-16v-diesel-2015-diesel",
+      "fipeCodigo": "025196-8",
+      "displayName": "Renault Master 2.3 dCi Furgão 16V Diesel",
+      "valorAtual": 116521,
+      "canonicalPath": "/fipe/renault/master-2-3-dci-furgao-16v-diesel-2015-025196-8/",
+      "ano": 2015,
+      "marca": "Renault"
+    },
+    {
+      "vehicleId": "renault-master-2-3-dci-furgao-16v-diesel-2016-diesel",
+      "fipeCodigo": "025196-8",
+      "displayName": "Renault Master 2.3 dCi Furgão 16V Diesel",
+      "valorAtual": 119652,
+      "canonicalPath": "/fipe/renault/master-2-3-dci-furgao-16v-diesel-2016-025196-8/",
+      "ano": 2016,
+      "marca": "Renault"
+    },
+    {
+      "vehicleId": "renault-master-2-3-dci-furgao-16v-diesel-2017-diesel",
+      "fipeCodigo": "025196-8",
+      "displayName": "Renault Master 2.3 dCi Furgão 16V Diesel",
+      "valorAtual": 123030,
+      "canonicalPath": "/fipe/renault/master-2-3-dci-furgao-16v-diesel-2017-025196-8/",
+      "ano": 2017,
+      "marca": "Renault"
+    },
+    {
+      "vehicleId": "renault-master-2-3-dci-furgao-16v-diesel-2018-diesel",
+      "fipeCodigo": "025196-8",
+      "displayName": "Renault Master 2.3 dCi Furgão 16V Diesel",
+      "valorAtual": 132465,
+      "canonicalPath": "/fipe/renault/master-2-3-dci-furgao-16v-diesel-2018-025196-8/",
+      "ano": 2018,
+      "marca": "Renault"
+    },
+    {
+      "vehicleId": "renault-master-2-3-dci-furgao-16v-diesel-2019-diesel",
+      "fipeCodigo": "025196-8",
+      "displayName": "Renault Master 2.3 dCi Furgão 16V Diesel",
+      "valorAtual": 137164,
+      "canonicalPath": "/fipe/renault/master-2-3-dci-furgao-16v-diesel-2019-025196-8/",
+      "ano": 2019,
+      "marca": "Renault"
+    },
+    {
+      "vehicleId": "renault-master-2-3-dci-furgao-16v-diesel-2020-diesel",
+      "fipeCodigo": "025196-8",
+      "displayName": "Renault Master 2.3 dCi Furgão 16V Diesel",
+      "valorAtual": 146418,
+      "canonicalPath": "/fipe/renault/master-2-3-dci-furgao-16v-diesel-2020-025196-8/",
+      "ano": 2020,
+      "marca": "Renault"
+    },
+    {
+      "vehicleId": "renault-master-2-3-dci-furgao-16v-diesel-2021-diesel",
+      "fipeCodigo": "025196-8",
+      "displayName": "Renault Master 2.3 dCi Furgão 16V Diesel",
+      "valorAtual": 151925,
+      "canonicalPath": "/fipe/renault/master-2-3-dci-furgao-16v-diesel-2021-025196-8/",
+      "ano": 2021,
+      "marca": "Renault"
+    },
+    {
+      "vehicleId": "renault-master-2-3-dci-furgao-16v-diesel-2022-diesel",
+      "fipeCodigo": "025196-8",
+      "displayName": "Renault Master 2.3 dCi Furgão 16V Diesel",
+      "valorAtual": 159116,
+      "canonicalPath": "/fipe/renault/master-2-3-dci-furgao-16v-diesel-2022-025196-8/",
+      "ano": 2022,
+      "marca": "Renault"
+    },
+    {
+      "vehicleId": "renault-master-2-3-dci-furgao-16v-diesel-2023-diesel",
+      "fipeCodigo": "025196-8",
+      "displayName": "Renault Master 2.3 dCi Furgão 16V Diesel",
+      "valorAtual": 184091,
+      "canonicalPath": "/fipe/renault/master-2-3-dci-furgao-16v-diesel-2023-025196-8/",
+      "ano": 2023,
+      "marca": "Renault"
+    },
+    {
+      "vehicleId": "renault-master-2-3-dci-furgao-16v-diesel-2024-diesel",
+      "fipeCodigo": "025196-8",
+      "displayName": "Renault Master 2.3 dCi Furgão 16V Diesel",
+      "valorAtual": 191210,
+      "canonicalPath": "/fipe/renault/master-2-3-dci-furgao-16v-diesel-2024-025196-8/",
+      "ano": 2024,
+      "marca": "Renault"
+    },
+    {
+      "vehicleId": "renault-master-2-3-dci-furgao-16v-diesel-2025-diesel",
+      "fipeCodigo": "025196-8",
+      "displayName": "Renault Master 2.3 dCi Furgão 16V Diesel",
+      "valorAtual": 215746,
+      "canonicalPath": "/fipe/renault/master-2-3-dci-furgao-16v-diesel-2025-025196-8/",
+      "ano": 2025,
+      "marca": "Renault"
+    }
+  ],
+  "stats": {
+    "total": 207
+  },
+  "meta": {
+    "geracaoId": "master-2"
+  }
+}

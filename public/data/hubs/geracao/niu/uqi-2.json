@@ -1,0 +1,57 @@
+{
+  "tipo": "geracao",
+  "slug": "uqi-2",
+  "canonicalPath": "/geracao/niu/uqi-2/",
+  "titulo": "Geracao uqi-2",
+  "descricao": "4 veiculos da geracao uqi-2.",
+  "seo": {
+    "title": "Geracao uqi-2 - Precos FIPE",
+    "description": "Veiculos da geracao uqi-2 na Tabela FIPE.",
+    "h1": "Geracao uqi-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/niu/uqi-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "niu-uqi-gt-1200w-eletrica-2021-eletrico",
+      "fipeCodigo": "893001-5",
+      "displayName": "NIU UQI GT 1200W (Elétrica)",
+      "valorAtual": 14320,
+      "canonicalPath": "/fipe/niu/uqi-gt-1200w-eletrica-2021-893001-5/",
+      "ano": 2021,
+      "marca": "NIU"
+    },
+    {
+      "vehicleId": "niu-uqi-gt-1200w-eletrica-2022-eletrico",
+      "fipeCodigo": "893001-5",
+      "displayName": "NIU UQI GT 1200W (Elétrica)",
+      "valorAtual": 15654,
+      "canonicalPath": "/fipe/niu/uqi-gt-1200w-eletrica-2022-893001-5/",
+      "ano": 2022,
+      "marca": "NIU"
+    },
+    {
+      "vehicleId": "niu-uqi-gt-1200w-eletrica-2023-eletrico",
+      "fipeCodigo": "893001-5",
+      "displayName": "NIU UQI GT 1200W (Elétrica)",
+      "valorAtual": 16926,
+      "canonicalPath": "/fipe/niu/uqi-gt-1200w-eletrica-2023-893001-5/",
+      "ano": 2023,
+      "marca": "NIU"
+    },
+    {
+      "vehicleId": "niu-uqi-gt-1200w-eletrica-2024-eletrico",
+      "fipeCodigo": "893001-5",
+      "displayName": "NIU UQI GT 1200W (Elétrica)",
+      "valorAtual": 17583,
+      "canonicalPath": "/fipe/niu/uqi-gt-1200w-eletrica-2024-893001-5/",
+      "ano": 2024,
+      "marca": "NIU"
+    }
+  ],
+  "stats": {
+    "total": 4
+  },
+  "meta": {
+    "geracaoId": "uqi-2"
+  }
+}

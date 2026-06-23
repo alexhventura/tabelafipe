@@ -1,0 +1,48 @@
+{
+  "tipo": "geracao",
+  "slug": "20-2",
+  "canonicalPath": "/geracao/volkswagen/20-2/",
+  "titulo": "Geracao 20-2",
+  "descricao": "3 veiculos da geracao 20-2.",
+  "seo": {
+    "title": "Geracao 20-2 - Precos FIPE",
+    "description": "Veiculos da geracao 20-2 na Tabela FIPE.",
+    "h1": "Geracao 20-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/volkswagen/20-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "volkswagen-20-480-constellation-4x2-2p-diesel-e6-2025-diesel",
+      "fipeCodigo": "515206-2",
+      "displayName": "VOLKSWAGEN 20-480 Constellation 4x2 2p (diesel)(E6)",
+      "valorAtual": 591700,
+      "canonicalPath": "/fipe/volkswagen/20-480-constellation-4x2-2p-diesel-e6-2025-515206-2/",
+      "ano": 2025,
+      "marca": "VOLKSWAGEN"
+    },
+    {
+      "vehicleId": "volkswagen-20-480-constellation-4x2-2p-diesel-e6-2026-diesel",
+      "fipeCodigo": "515206-2",
+      "displayName": "VOLKSWAGEN 20-480 Constellation 4x2 2p (diesel)(E6)",
+      "valorAtual": 644196,
+      "canonicalPath": "/fipe/volkswagen/20-480-constellation-4x2-2p-diesel-e6-2026-515206-2/",
+      "ano": 2026,
+      "marca": "VOLKSWAGEN"
+    },
+    {
+      "vehicleId": "volkswagen-20-480-constellation-4x2-2p-diesel-e6-2027-diesel",
+      "fipeCodigo": "515206-2",
+      "displayName": "VOLKSWAGEN 20-480 Constellation 4x2 2p (diesel)(E6)",
+      "valorAtual": 684555,
+      "canonicalPath": "/fipe/volkswagen/20-480-constellation-4x2-2p-diesel-e6-2027-515206-2/",
+      "ano": 2027,
+      "marca": "VOLKSWAGEN"
+    }
+  ],
+  "stats": {
+    "total": 3
+  },
+  "meta": {
+    "geracaoId": "20-2"
+  }
+}

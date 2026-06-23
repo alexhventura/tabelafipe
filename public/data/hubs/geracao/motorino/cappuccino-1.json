@@ -1,0 +1,48 @@
+{
+  "tipo": "geracao",
+  "slug": "cappuccino-1",
+  "canonicalPath": "/geracao/motorino/cappuccino-1/",
+  "titulo": "Geracao cappuccino-1",
+  "descricao": "3 veiculos da geracao cappuccino-1.",
+  "seo": {
+    "title": "Geracao cappuccino-1 - Precos FIPE",
+    "description": "Veiculos da geracao cappuccino-1 na Tabela FIPE.",
+    "h1": "Geracao cappuccino-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/motorino/cappuccino-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "motorino-cappuccino-absoluta-150cc-0-gasolina",
+      "fipeCodigo": "881019-2",
+      "displayName": "MOTORINO Cappuccino Absoluta 150cc",
+      "valorAtual": 27408,
+      "canonicalPath": "/fipe/motorino/cappuccino-absoluta-150cc-0-881019-2/",
+      "ano": 0,
+      "marca": "MOTORINO"
+    },
+    {
+      "vehicleId": "motorino-cappuccino-elettrica-3000w-0-eletrico",
+      "fipeCodigo": "881020-6",
+      "displayName": "MOTORINO Cappuccino ELETTRICA 3000W",
+      "valorAtual": 30806,
+      "canonicalPath": "/fipe/motorino/cappuccino-elettrica-3000w-0-881020-6/",
+      "ano": 0,
+      "marca": "MOTORINO"
+    },
+    {
+      "vehicleId": "motorino-cappuccino-ousada-150cc-0-gasolina",
+      "fipeCodigo": "881018-4",
+      "displayName": "MOTORINO Cappuccino Ousada 150cc",
+      "valorAtual": 25380,
+      "canonicalPath": "/fipe/motorino/cappuccino-ousada-150cc-0-881018-4/",
+      "ano": 0,
+      "marca": "MOTORINO"
+    }
+  ],
+  "stats": {
+    "total": 3
+  },
+  "meta": {
+    "geracaoId": "cappuccino-1"
+  }
+}

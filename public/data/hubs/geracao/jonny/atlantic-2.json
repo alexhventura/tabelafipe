@@ -1,0 +1,93 @@
+{
+  "tipo": "geracao",
+  "slug": "atlantic-2",
+  "canonicalPath": "/geracao/jonny/atlantic-2/",
+  "titulo": "Geracao atlantic-2",
+  "descricao": "8 veiculos da geracao atlantic-2.",
+  "seo": {
+    "title": "Geracao atlantic-2 - Precos FIPE",
+    "description": "Veiculos da geracao atlantic-2 na Tabela FIPE.",
+    "h1": "Geracao atlantic-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/jonny/atlantic-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "jonny-atlantic-150cc-2008-gasolina",
+      "fipeCodigo": "865001-2",
+      "displayName": "JONNY ATLANTIC 150cc",
+      "valorAtual": 3599,
+      "canonicalPath": "/fipe/jonny/atlantic-150cc-2008-865001-2/",
+      "ano": 2008,
+      "marca": "JONNY"
+    },
+    {
+      "vehicleId": "jonny-atlantic-150cc-2009-gasolina",
+      "fipeCodigo": "865001-2",
+      "displayName": "JONNY ATLANTIC 150cc",
+      "valorAtual": 3689,
+      "canonicalPath": "/fipe/jonny/atlantic-150cc-2009-865001-2/",
+      "ano": 2009,
+      "marca": "JONNY"
+    },
+    {
+      "vehicleId": "jonny-atlantic-150cc-2010-gasolina",
+      "fipeCodigo": "865001-2",
+      "displayName": "JONNY ATLANTIC 150cc",
+      "valorAtual": 4097,
+      "canonicalPath": "/fipe/jonny/atlantic-150cc-2010-865001-2/",
+      "ano": 2010,
+      "marca": "JONNY"
+    },
+    {
+      "vehicleId": "jonny-atlantic-150cc-2011-gasolina",
+      "fipeCodigo": "865001-2",
+      "displayName": "JONNY ATLANTIC 150cc",
+      "valorAtual": 4200,
+      "canonicalPath": "/fipe/jonny/atlantic-150cc-2011-865001-2/",
+      "ano": 2011,
+      "marca": "JONNY"
+    },
+    {
+      "vehicleId": "jonny-atlantic-250cc-2008-gasolina",
+      "fipeCodigo": "865006-3",
+      "displayName": "JONNY ATLANTIC 250cc",
+      "valorAtual": 5473,
+      "canonicalPath": "/fipe/jonny/atlantic-250cc-2008-865006-3/",
+      "ano": 2008,
+      "marca": "JONNY"
+    },
+    {
+      "vehicleId": "jonny-atlantic-250cc-2009-gasolina",
+      "fipeCodigo": "865006-3",
+      "displayName": "JONNY ATLANTIC 250cc",
+      "valorAtual": 5974,
+      "canonicalPath": "/fipe/jonny/atlantic-250cc-2009-865006-3/",
+      "ano": 2009,
+      "marca": "JONNY"
+    },
+    {
+      "vehicleId": "jonny-atlantic-250cc-2010-gasolina",
+      "fipeCodigo": "865006-3",
+      "displayName": "JONNY ATLANTIC 250cc",
+      "valorAtual": 6124,
+      "canonicalPath": "/fipe/jonny/atlantic-250cc-2010-865006-3/",
+      "ano": 2010,
+      "marca": "JONNY"
+    },
+    {
+      "vehicleId": "jonny-atlantic-250cc-2011-gasolina",
+      "fipeCodigo": "865006-3",
+      "displayName": "JONNY ATLANTIC 250cc",
+      "valorAtual": 6278,
+      "canonicalPath": "/fipe/jonny/atlantic-250cc-2011-865006-3/",
+      "ano": 2011,
+      "marca": "JONNY"
+    }
+  ],
+  "stats": {
+    "total": 8
+  },
+  "meta": {
+    "geracaoId": "atlantic-2"
+  }
+}

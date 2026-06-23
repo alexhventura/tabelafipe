@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "gr125u-1",
+  "canonicalPath": "/geracao/garinni/gr125u-1/",
+  "titulo": "Geracao gr125u-1",
+  "descricao": "2 veiculos da geracao gr125u-1.",
+  "seo": {
+    "title": "Geracao gr125u-1 - Precos FIPE",
+    "description": "Veiculos da geracao gr125u-1 na Tabela FIPE.",
+    "h1": "Geracao gr125u-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/garinni/gr125u-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "garinni-gr125u-2007-gasolina",
+      "fipeCodigo": "847007-3",
+      "displayName": "GARINNI GR125U",
+      "valorAtual": 1516,
+      "canonicalPath": "/fipe/garinni/gr125u-2007-847007-3/",
+      "ano": 2007,
+      "marca": "GARINNI"
+    },
+    {
+      "vehicleId": "garinni-gr125u-2008-gasolina",
+      "fipeCodigo": "847007-3",
+      "displayName": "GARINNI GR125U",
+      "valorAtual": 1800,
+      "canonicalPath": "/fipe/garinni/gr125u-2008-847007-3/",
+      "ano": 2008,
+      "marca": "GARINNI"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "gr125u-1"
+  }
+}

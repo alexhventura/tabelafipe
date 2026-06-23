@@ -1,0 +1,72 @@
+{
+  "tipo": "familia",
+  "slug": "cj",
+  "canonicalPath": "/fipe/traxx/cj/",
+  "titulo": "TRAXX cj - Tabela FIPE",
+  "descricao": "5 versoes e anos do TRAXX cj na Tabela FIPE.",
+  "seo": {
+    "title": "TRAXX cj - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes TRAXX cj. 5 veiculos indexados.",
+    "h1": "TRAXX cj - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/traxx/cj/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "traxx-cj-50-f-2000-gasolina",
+      "fipeCodigo": "814001-4",
+      "displayName": "TRAXX CJ 50-F",
+      "valorAtual": 1073,
+      "canonicalPath": "/fipe/traxx/cj-50-f-2000-814001-4/",
+      "ano": 2000,
+      "marca": "TRAXX"
+    },
+    {
+      "vehicleId": "traxx-cj-50-f-1998-gasolina",
+      "fipeCodigo": "814001-4",
+      "displayName": "TRAXX CJ 50-F",
+      "valorAtual": 1006,
+      "canonicalPath": "/fipe/traxx/cj-50-f-1998-814001-4/",
+      "ano": 1998,
+      "marca": "TRAXX"
+    },
+    {
+      "vehicleId": "traxx-cj-50-f-1997-gasolina",
+      "fipeCodigo": "814001-4",
+      "displayName": "TRAXX CJ 50-F",
+      "valorAtual": 941,
+      "canonicalPath": "/fipe/traxx/cj-50-f-1997-814001-4/",
+      "ano": 1997,
+      "marca": "TRAXX"
+    },
+    {
+      "vehicleId": "traxx-cj-50-f-1996-gasolina",
+      "fipeCodigo": "814001-4",
+      "displayName": "TRAXX CJ 50-F",
+      "valorAtual": 917,
+      "canonicalPath": "/fipe/traxx/cj-50-f-1996-814001-4/",
+      "ano": 1996,
+      "marca": "TRAXX"
+    },
+    {
+      "vehicleId": "traxx-cj-50-f-1995-gasolina",
+      "fipeCodigo": "814001-4",
+      "displayName": "TRAXX CJ 50-F",
+      "valorAtual": 878,
+      "canonicalPath": "/fipe/traxx/cj-50-f-1995-814001-4/",
+      "ano": 1995,
+      "marca": "TRAXX"
+    }
+  ],
+  "stats": {
+    "total": 5,
+    "precoMin": 878,
+    "precoMax": 1073,
+    "anos": [
+      2000,
+      1998,
+      1997,
+      1996,
+      1995
+    ]
+  }
+}

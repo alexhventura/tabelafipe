@@ -1,0 +1,62 @@
+{
+  "tipo": "familia",
+  "slug": "k01",
+  "canonicalPath": "/fipe/effa/k01/",
+  "titulo": "EFFA k01 - Tabela FIPE",
+  "descricao": "4 versoes e anos do EFFA k01 na Tabela FIPE.",
+  "seo": {
+    "title": "EFFA k01 - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes EFFA k01. 4 veiculos indexados.",
+    "h1": "EFFA k01 - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/effa/k01/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "effa-k01-pick-up-cs-1-0-8v-2p-2019-gasolina",
+      "fipeCodigo": "066012-4",
+      "displayName": "EFFA K01 Pick-up CS 1.0 8V 2p",
+      "valorAtual": 37178,
+      "canonicalPath": "/fipe/effa/k01-pick-up-cs-1-0-8v-2p-2019-066012-4/",
+      "ano": 2019,
+      "marca": "EFFA"
+    },
+    {
+      "vehicleId": "effa-k01-pick-up-cs-1-0-8v-2p-2018-gasolina",
+      "fipeCodigo": "066012-4",
+      "displayName": "EFFA K01 Pick-up CS 1.0 8V 2p",
+      "valorAtual": 36271,
+      "canonicalPath": "/fipe/effa/k01-pick-up-cs-1-0-8v-2p-2018-066012-4/",
+      "ano": 2018,
+      "marca": "EFFA"
+    },
+    {
+      "vehicleId": "effa-k01-pick-up-cs-1-0-8v-2p-2017-gasolina",
+      "fipeCodigo": "066012-4",
+      "displayName": "EFFA K01 Pick-up CS 1.0 8V 2p",
+      "valorAtual": 30588,
+      "canonicalPath": "/fipe/effa/k01-pick-up-cs-1-0-8v-2p-2017-066012-4/",
+      "ano": 2017,
+      "marca": "EFFA"
+    },
+    {
+      "vehicleId": "effa-k01-pick-up-cs-1-0-8v-2p-2016-gasolina",
+      "fipeCodigo": "066012-4",
+      "displayName": "EFFA K01 Pick-up CS 1.0 8V 2p",
+      "valorAtual": 25670,
+      "canonicalPath": "/fipe/effa/k01-pick-up-cs-1-0-8v-2p-2016-066012-4/",
+      "ano": 2016,
+      "marca": "EFFA"
+    }
+  ],
+  "stats": {
+    "total": 4,
+    "precoMin": 25670,
+    "precoMax": 37178,
+    "anos": [
+      2019,
+      2018,
+      2017,
+      2016
+    ]
+  }
+}

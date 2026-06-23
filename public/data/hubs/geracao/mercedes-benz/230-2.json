@@ -1,0 +1,57 @@
+{
+  "tipo": "geracao",
+  "slug": "230-2",
+  "canonicalPath": "/geracao/mercedes-benz/230-2/",
+  "titulo": "Geracao 230-2",
+  "descricao": "4 veiculos da geracao 230-2.",
+  "seo": {
+    "title": "Geracao 230-2 - Precos FIPE",
+    "description": "Veiculos da geracao 230-2 na Tabela FIPE.",
+    "h1": "Geracao 230-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/mercedes-benz/230-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "mercedes-benz-230-e-2-3-1990-gasolina",
+      "fipeCodigo": "021063-3",
+      "displayName": "Mercedes-Benz 230-E 2.3",
+      "valorAtual": 25824,
+      "canonicalPath": "/fipe/mercedes-benz/230-e-2-3-1990-021063-3/",
+      "ano": 1990,
+      "marca": "Mercedes-Benz"
+    },
+    {
+      "vehicleId": "mercedes-benz-230-e-2-3-1991-gasolina",
+      "fipeCodigo": "021063-3",
+      "displayName": "Mercedes-Benz 230-E 2.3",
+      "valorAtual": 26470,
+      "canonicalPath": "/fipe/mercedes-benz/230-e-2-3-1991-021063-3/",
+      "ano": 1991,
+      "marca": "Mercedes-Benz"
+    },
+    {
+      "vehicleId": "mercedes-benz-230-e-2-3-1992-gasolina",
+      "fipeCodigo": "021063-3",
+      "displayName": "Mercedes-Benz 230-E 2.3",
+      "valorAtual": 27132,
+      "canonicalPath": "/fipe/mercedes-benz/230-e-2-3-1992-021063-3/",
+      "ano": 1992,
+      "marca": "Mercedes-Benz"
+    },
+    {
+      "vehicleId": "mercedes-benz-230-e-2-3-1993-gasolina",
+      "fipeCodigo": "021063-3",
+      "displayName": "Mercedes-Benz 230-E 2.3",
+      "valorAtual": 27864,
+      "canonicalPath": "/fipe/mercedes-benz/230-e-2-3-1993-021063-3/",
+      "ano": 1993,
+      "marca": "Mercedes-Benz"
+    }
+  ],
+  "stats": {
+    "total": 4
+  },
+  "meta": {
+    "geracaoId": "230-2"
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "tipo": "geracao",
+  "slug": "outback-2",
+  "canonicalPath": "/geracao/subaru/outback-2/",
+  "titulo": "Geracao outback-2",
+  "descricao": "8 veiculos da geracao outback-2.",
+  "seo": {
+    "title": "Geracao outback-2 - Precos FIPE",
+    "description": "Veiculos da geracao outback-2 na Tabela FIPE.",
+    "h1": "Geracao outback-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/subaru/outback-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "subaru-outback-3-6-h6-sw-aut-2013-gasolina",
+      "fipeCodigo": "027060-1",
+      "displayName": "Subaru Outback 3.6 H6 SW Aut.",
+      "valorAtual": 66764,
+      "canonicalPath": "/fipe/subaru/outback-3-6-h6-sw-aut-2013-027060-1/",
+      "ano": 2013,
+      "marca": "Subaru"
+    },
+    {
+      "vehicleId": "subaru-outback-3-6-h6-sw-aut-2014-gasolina",
+      "fipeCodigo": "027060-1",
+      "displayName": "Subaru Outback 3.6 H6 SW Aut.",
+      "valorAtual": 72653,
+      "canonicalPath": "/fipe/subaru/outback-3-6-h6-sw-aut-2014-027060-1/",
+      "ano": 2014,
+      "marca": "Subaru"
+    },
+    {
+      "vehicleId": "subaru-outback-3-6-h6-sw-aut-2015-gasolina",
+      "fipeCodigo": "027060-1",
+      "displayName": "Subaru Outback 3.6 H6 SW Aut.",
+      "valorAtual": 88728,
+      "canonicalPath": "/fipe/subaru/outback-3-6-h6-sw-aut-2015-027060-1/",
+      "ano": 2015,
+      "marca": "Subaru"
+    },
+    {
+      "vehicleId": "subaru-outback-3-6-h6-sw-aut-2016-gasolina",
+      "fipeCodigo": "027060-1",
+      "displayName": "Subaru Outback 3.6 H6 SW Aut.",
+      "valorAtual": 95154,
+      "canonicalPath": "/fipe/subaru/outback-3-6-h6-sw-aut-2016-027060-1/",
+      "ano": 2016,
+      "marca": "Subaru"
+    },
+    {
+      "vehicleId": "subaru-outback-3-6-h6-sw-aut-2017-gasolina",
+      "fipeCodigo": "027060-1",
+      "displayName": "Subaru Outback 3.6 H6 SW Aut.",
+      "valorAtual": 110359,
+      "canonicalPath": "/fipe/subaru/outback-3-6-h6-sw-aut-2017-027060-1/",
+      "ano": 2017,
+      "marca": "Subaru"
+    },
+    {
+      "vehicleId": "subaru-outback-3-6-h6-sw-aut-2018-gasolina",
+      "fipeCodigo": "027060-1",
+      "displayName": "Subaru Outback 3.6 H6 SW Aut.",
+      "valorAtual": 132351,
+      "canonicalPath": "/fipe/subaru/outback-3-6-h6-sw-aut-2018-027060-1/",
+      "ano": 2018,
+      "marca": "Subaru"
+    },
+    {
+      "vehicleId": "subaru-outback-3-6-h6-sw-aut-2019-gasolina",
+      "fipeCodigo": "027060-1",
+      "displayName": "Subaru Outback 3.6 H6 SW Aut.",
+      "valorAtual": 153868,
+      "canonicalPath": "/fipe/subaru/outback-3-6-h6-sw-aut-2019-027060-1/",
+      "ano": 2019,
+      "marca": "Subaru"
+    },
+    {
+      "vehicleId": "subaru-outback-3-6-h6-sw-aut-2020-gasolina",
+      "fipeCodigo": "027060-1",
+      "displayName": "Subaru Outback 3.6 H6 SW Aut.",
+      "valorAtual": 177528,
+      "canonicalPath": "/fipe/subaru/outback-3-6-h6-sw-aut-2020-027060-1/",
+      "ano": 2020,
+      "marca": "Subaru"
+    }
+  ],
+  "stats": {
+    "total": 8
+  },
+  "meta": {
+    "geracaoId": "outback-2"
+  }
+}

@@ -1,0 +1,136 @@
+{
+  "tipo": "familia",
+  "slug": "sr",
+  "canonicalPath": "/fipe/aprilia/sr/",
+  "titulo": "APRILIA sr - Tabela FIPE",
+  "descricao": "12 versoes e anos do APRILIA sr na Tabela FIPE.",
+  "seo": {
+    "title": "APRILIA sr - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes APRILIA sr. 12 veiculos indexados.",
+    "h1": "APRILIA sr - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/aprilia/sr/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "aprilia-sr-150cc-2020-gasolina",
+      "fipeCodigo": "802019-1",
+      "displayName": "APRILIA SR 150cc",
+      "valorAtual": 14368,
+      "canonicalPath": "/fipe/aprilia/sr-150cc-2020-802019-1/",
+      "ano": 2020,
+      "marca": "APRILIA"
+    },
+    {
+      "vehicleId": "aprilia-sr-race-150cc-2020-gasolina",
+      "fipeCodigo": "802018-3",
+      "displayName": "APRILIA SR RACE 150cc",
+      "valorAtual": 16364,
+      "canonicalPath": "/fipe/aprilia/sr-race-150cc-2020-802018-3/",
+      "ano": 2020,
+      "marca": "APRILIA"
+    },
+    {
+      "vehicleId": "aprilia-sr-150cc-2017-gasolina",
+      "fipeCodigo": "802019-1",
+      "displayName": "APRILIA SR 150cc",
+      "valorAtual": 12991,
+      "canonicalPath": "/fipe/aprilia/sr-150cc-2017-802019-1/",
+      "ano": 2017,
+      "marca": "APRILIA"
+    },
+    {
+      "vehicleId": "aprilia-sr-race-150cc-2017-gasolina",
+      "fipeCodigo": "802018-3",
+      "displayName": "APRILIA SR RACE 150cc",
+      "valorAtual": 14324,
+      "canonicalPath": "/fipe/aprilia/sr-race-150cc-2017-802018-3/",
+      "ano": 2017,
+      "marca": "APRILIA"
+    },
+    {
+      "vehicleId": "aprilia-sr-www-50cc-2001-gasolina",
+      "fipeCodigo": "802017-5",
+      "displayName": "APRILIA SR WWW 50cc",
+      "valorAtual": 3475,
+      "canonicalPath": "/fipe/aprilia/sr-www-50cc-2001-802017-5/",
+      "ano": 2001,
+      "marca": "APRILIA"
+    },
+    {
+      "vehicleId": "aprilia-sr-racing-50cc-2001-gasolina",
+      "fipeCodigo": "802015-9",
+      "displayName": "APRILIA SR RACING 50cc",
+      "valorAtual": 7131,
+      "canonicalPath": "/fipe/aprilia/sr-racing-50cc-2001-802015-9/",
+      "ano": 2001,
+      "marca": "APRILIA"
+    },
+    {
+      "vehicleId": "aprilia-sr-www-50cc-2000-gasolina",
+      "fipeCodigo": "802017-5",
+      "displayName": "APRILIA SR WWW 50cc",
+      "valorAtual": 2975,
+      "canonicalPath": "/fipe/aprilia/sr-www-50cc-2000-802017-5/",
+      "ano": 2000,
+      "marca": "APRILIA"
+    },
+    {
+      "vehicleId": "aprilia-sr-racing-50cc-2000-gasolina",
+      "fipeCodigo": "802015-9",
+      "displayName": "APRILIA SR RACING 50cc",
+      "valorAtual": 5877,
+      "canonicalPath": "/fipe/aprilia/sr-racing-50cc-2000-802015-9/",
+      "ano": 2000,
+      "marca": "APRILIA"
+    },
+    {
+      "vehicleId": "aprilia-sr-www-50cc-1999-gasolina",
+      "fipeCodigo": "802017-5",
+      "displayName": "APRILIA SR WWW 50cc",
+      "valorAtual": 2806,
+      "canonicalPath": "/fipe/aprilia/sr-www-50cc-1999-802017-5/",
+      "ano": 1999,
+      "marca": "APRILIA"
+    },
+    {
+      "vehicleId": "aprilia-sr-racing-50cc-1999-gasolina",
+      "fipeCodigo": "802015-9",
+      "displayName": "APRILIA SR RACING 50cc",
+      "valorAtual": 4971,
+      "canonicalPath": "/fipe/aprilia/sr-racing-50cc-1999-802015-9/",
+      "ano": 1999,
+      "marca": "APRILIA"
+    },
+    {
+      "vehicleId": "aprilia-sr-www-50cc-1998-gasolina",
+      "fipeCodigo": "802017-5",
+      "displayName": "APRILIA SR WWW 50cc",
+      "valorAtual": 2486,
+      "canonicalPath": "/fipe/aprilia/sr-www-50cc-1998-802017-5/",
+      "ano": 1998,
+      "marca": "APRILIA"
+    },
+    {
+      "vehicleId": "aprilia-sr-racing-50cc-1998-gasolina",
+      "fipeCodigo": "802015-9",
+      "displayName": "APRILIA SR RACING 50cc",
+      "valorAtual": 4375,
+      "canonicalPath": "/fipe/aprilia/sr-racing-50cc-1998-802015-9/",
+      "ano": 1998,
+      "marca": "APRILIA"
+    }
+  ],
+  "stats": {
+    "total": 12,
+    "precoMin": 2486,
+    "precoMax": 16364,
+    "anos": [
+      2020,
+      2017,
+      2001,
+      2000,
+      1999,
+      1998
+    ]
+  }
+}

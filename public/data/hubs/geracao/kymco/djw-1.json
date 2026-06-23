@@ -1,0 +1,75 @@
+{
+  "tipo": "geracao",
+  "slug": "djw-1",
+  "canonicalPath": "/geracao/kymco/djw-1/",
+  "titulo": "Geracao djw-1",
+  "descricao": "6 veiculos da geracao djw-1.",
+  "seo": {
+    "title": "Geracao djw-1 - Precos FIPE",
+    "description": "Veiculos da geracao djw-1 na Tabela FIPE.",
+    "h1": "Geracao djw-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/kymco/djw-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "kymco-djw-50-50cc-1997-gasolina",
+      "fipeCodigo": "832001-2",
+      "displayName": "KYMCO DJW 50 50cc",
+      "valorAtual": 1511,
+      "canonicalPath": "/fipe/kymco/djw-50-50cc-1997-832001-2/",
+      "ano": 1997,
+      "marca": "KYMCO"
+    },
+    {
+      "vehicleId": "kymco-djw-50-50cc-1998-gasolina",
+      "fipeCodigo": "832001-2",
+      "displayName": "KYMCO DJW 50 50cc",
+      "valorAtual": 1646,
+      "canonicalPath": "/fipe/kymco/djw-50-50cc-1998-832001-2/",
+      "ano": 1998,
+      "marca": "KYMCO"
+    },
+    {
+      "vehicleId": "kymco-djw-50-50cc-1999-gasolina",
+      "fipeCodigo": "832001-2",
+      "displayName": "KYMCO DJW 50 50cc",
+      "valorAtual": 1858,
+      "canonicalPath": "/fipe/kymco/djw-50-50cc-1999-832001-2/",
+      "ano": 1999,
+      "marca": "KYMCO"
+    },
+    {
+      "vehicleId": "kymco-djw-50-50cc-2000-gasolina",
+      "fipeCodigo": "832001-2",
+      "displayName": "KYMCO DJW 50 50cc",
+      "valorAtual": 2082,
+      "canonicalPath": "/fipe/kymco/djw-50-50cc-2000-832001-2/",
+      "ano": 2000,
+      "marca": "KYMCO"
+    },
+    {
+      "vehicleId": "kymco-djw-50-50cc-2001-gasolina",
+      "fipeCodigo": "832001-2",
+      "displayName": "KYMCO DJW 50 50cc",
+      "valorAtual": 2268,
+      "canonicalPath": "/fipe/kymco/djw-50-50cc-2001-832001-2/",
+      "ano": 2001,
+      "marca": "KYMCO"
+    },
+    {
+      "vehicleId": "kymco-djw-50-50cc-2002-gasolina",
+      "fipeCodigo": "832001-2",
+      "displayName": "KYMCO DJW 50 50cc",
+      "valorAtual": 2400,
+      "canonicalPath": "/fipe/kymco/djw-50-50cc-2002-832001-2/",
+      "ano": 2002,
+      "marca": "KYMCO"
+    }
+  ],
+  "stats": {
+    "total": 6
+  },
+  "meta": {
+    "geracaoId": "djw-1"
+  }
+}

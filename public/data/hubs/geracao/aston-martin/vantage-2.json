@@ -1,0 +1,75 @@
+{
+  "tipo": "geracao",
+  "slug": "vantage-2",
+  "canonicalPath": "/geracao/aston-martin/vantage-2/",
+  "titulo": "Geracao vantage-2",
+  "descricao": "6 veiculos da geracao vantage-2.",
+  "seo": {
+    "title": "Geracao vantage-2 - Precos FIPE",
+    "description": "Veiculos da geracao vantage-2 na Tabela FIPE.",
+    "h1": "Geracao vantage-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/aston-martin/vantage-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "aston-martin-vantage-6-0-v12-510cv-2012-gasolina",
+      "fipeCodigo": "085004-7",
+      "displayName": "ASTON MARTIN Vantage 6.0 V12 510cv",
+      "valorAtual": 464336,
+      "canonicalPath": "/fipe/aston-martin/vantage-6-0-v12-510cv-2012-085004-7/",
+      "ano": 2012,
+      "marca": "ASTON MARTIN"
+    },
+    {
+      "vehicleId": "aston-martin-vantage-coupe-4-7-v8-425cv-2011-gasolina",
+      "fipeCodigo": "085002-0",
+      "displayName": "ASTON MARTIN Vantage Coupe 4.7 V8 425cv",
+      "valorAtual": 492510,
+      "canonicalPath": "/fipe/aston-martin/vantage-coupe-4-7-v8-425cv-2011-085002-0/",
+      "ano": 2011,
+      "marca": "ASTON MARTIN"
+    },
+    {
+      "vehicleId": "aston-martin-vantage-coupe-4-7-v8-425cv-2012-gasolina",
+      "fipeCodigo": "085002-0",
+      "displayName": "ASTON MARTIN Vantage Coupe 4.7 V8 425cv",
+      "valorAtual": 509599,
+      "canonicalPath": "/fipe/aston-martin/vantage-coupe-4-7-v8-425cv-2012-085002-0/",
+      "ano": 2012,
+      "marca": "ASTON MARTIN"
+    },
+    {
+      "vehicleId": "aston-martin-vantage-roadster-4-7-v8-420cv-2010-gasolina",
+      "fipeCodigo": "085003-9",
+      "displayName": "ASTON MARTIN Vantage Roadster 4.7 V8 420cv",
+      "valorAtual": 514052,
+      "canonicalPath": "/fipe/aston-martin/vantage-roadster-4-7-v8-420cv-2010-085003-9/",
+      "ano": 2010,
+      "marca": "ASTON MARTIN"
+    },
+    {
+      "vehicleId": "aston-martin-vantage-roadster-4-7-v8-420cv-2011-gasolina",
+      "fipeCodigo": "085003-9",
+      "displayName": "ASTON MARTIN Vantage Roadster 4.7 V8 420cv",
+      "valorAtual": 574020,
+      "canonicalPath": "/fipe/aston-martin/vantage-roadster-4-7-v8-420cv-2011-085003-9/",
+      "ano": 2011,
+      "marca": "ASTON MARTIN"
+    },
+    {
+      "vehicleId": "aston-martin-vantage-s-coupe-4-7-v8-430cv-2012-gasolina",
+      "fipeCodigo": "085001-2",
+      "displayName": "ASTON MARTIN Vantage S Coupe 4.7 V8 430cv",
+      "valorAtual": 510944,
+      "canonicalPath": "/fipe/aston-martin/vantage-s-coupe-4-7-v8-430cv-2012-085001-2/",
+      "ano": 2012,
+      "marca": "ASTON MARTIN"
+    }
+  ],
+  "stats": {
+    "total": 6
+  },
+  "meta": {
+    "geracaoId": "vantage-2"
+  }
+}

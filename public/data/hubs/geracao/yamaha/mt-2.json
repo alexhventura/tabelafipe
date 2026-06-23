@@ -1,0 +1,75 @@
+{
+  "tipo": "geracao",
+  "slug": "mt-2",
+  "canonicalPath": "/geracao/yamaha/mt-2/",
+  "titulo": "Geracao mt-2",
+  "descricao": "6 veiculos da geracao mt-2.",
+  "seo": {
+    "title": "Geracao mt-2 - Precos FIPE",
+    "description": "Veiculos da geracao mt-2 na Tabela FIPE.",
+    "h1": "Geracao mt-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/yamaha/mt-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "yamaha-mt-01-1-670cc-2005-gasolina",
+      "fipeCodigo": "827060-0",
+      "displayName": "YAMAHA MT-01 1.670cc",
+      "valorAtual": 33527,
+      "canonicalPath": "/fipe/yamaha/mt-01-1-670cc-2005-827060-0/",
+      "ano": 2005,
+      "marca": "YAMAHA"
+    },
+    {
+      "vehicleId": "yamaha-mt-01-1-670cc-2006-gasolina",
+      "fipeCodigo": "827060-0",
+      "displayName": "YAMAHA MT-01 1.670cc",
+      "valorAtual": 45177,
+      "canonicalPath": "/fipe/yamaha/mt-01-1-670cc-2006-827060-0/",
+      "ano": 2006,
+      "marca": "YAMAHA"
+    },
+    {
+      "vehicleId": "yamaha-mt-01-1-670cc-2007-gasolina",
+      "fipeCodigo": "827060-0",
+      "displayName": "YAMAHA MT-01 1.670cc",
+      "valorAtual": 46307,
+      "canonicalPath": "/fipe/yamaha/mt-01-1-670cc-2007-827060-0/",
+      "ano": 2007,
+      "marca": "YAMAHA"
+    },
+    {
+      "vehicleId": "yamaha-mt-01-1-670cc-2008-gasolina",
+      "fipeCodigo": "827060-0",
+      "displayName": "YAMAHA MT-01 1.670cc",
+      "valorAtual": 47465,
+      "canonicalPath": "/fipe/yamaha/mt-01-1-670cc-2008-827060-0/",
+      "ano": 2008,
+      "marca": "YAMAHA"
+    },
+    {
+      "vehicleId": "yamaha-mt-01-1-670cc-2009-gasolina",
+      "fipeCodigo": "827060-0",
+      "displayName": "YAMAHA MT-01 1.670cc",
+      "valorAtual": 49568,
+      "canonicalPath": "/fipe/yamaha/mt-01-1-670cc-2009-827060-0/",
+      "ano": 2009,
+      "marca": "YAMAHA"
+    },
+    {
+      "vehicleId": "yamaha-mt-03-660cc-2008-gasolina",
+      "fipeCodigo": "827070-8",
+      "displayName": "YAMAHA MT-03 660cc",
+      "valorAtual": 21789,
+      "canonicalPath": "/fipe/yamaha/mt-03-660cc-2008-827070-8/",
+      "ano": 2008,
+      "marca": "YAMAHA"
+    }
+  ],
+  "stats": {
+    "total": 6
+  },
+  "meta": {
+    "geracaoId": "mt-2"
+  }
+}

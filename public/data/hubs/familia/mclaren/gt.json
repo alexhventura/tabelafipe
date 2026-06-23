@@ -1,0 +1,52 @@
+{
+  "tipo": "familia",
+  "slug": "gt",
+  "canonicalPath": "/fipe/mclaren/gt/",
+  "titulo": "Mclaren gt - Tabela FIPE",
+  "descricao": "3 versoes e anos do Mclaren gt na Tabela FIPE.",
+  "seo": {
+    "title": "Mclaren gt - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes Mclaren gt. 3 veiculos indexados.",
+    "h1": "Mclaren gt - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/mclaren/gt/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "mclaren-gt-coupe-4-0-bi-turbo-v8-2p-2023-gasolina",
+      "fipeCodigo": "090008-7",
+      "displayName": "Mclaren GT Coupé 4.0 Bi-Turbo V8 2p",
+      "valorAtual": 2469489,
+      "canonicalPath": "/fipe/mclaren/gt-coupe-4-0-bi-turbo-v8-2p-2023-090008-7/",
+      "ano": 2023,
+      "marca": "Mclaren"
+    },
+    {
+      "vehicleId": "mclaren-gt-coupe-4-0-bi-turbo-v8-2p-2022-gasolina",
+      "fipeCodigo": "090008-7",
+      "displayName": "Mclaren GT Coupé 4.0 Bi-Turbo V8 2p",
+      "valorAtual": 2139787,
+      "canonicalPath": "/fipe/mclaren/gt-coupe-4-0-bi-turbo-v8-2p-2022-090008-7/",
+      "ano": 2022,
+      "marca": "Mclaren"
+    },
+    {
+      "vehicleId": "mclaren-gt-coupe-4-0-bi-turbo-v8-2p-2020-gasolina",
+      "fipeCodigo": "090008-7",
+      "displayName": "Mclaren GT Coupé 4.0 Bi-Turbo V8 2p",
+      "valorAtual": 1936766,
+      "canonicalPath": "/fipe/mclaren/gt-coupe-4-0-bi-turbo-v8-2p-2020-090008-7/",
+      "ano": 2020,
+      "marca": "Mclaren"
+    }
+  ],
+  "stats": {
+    "total": 3,
+    "precoMin": 1936766,
+    "precoMax": 2469489,
+    "anos": [
+      2023,
+      2022,
+      2020
+    ]
+  }
+}

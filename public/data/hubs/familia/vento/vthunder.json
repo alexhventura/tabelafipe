@@ -1,0 +1,52 @@
+{
+  "tipo": "familia",
+  "slug": "vthunder",
+  "canonicalPath": "/fipe/vento/vthunder/",
+  "titulo": "VENTO vthunder - Tabela FIPE",
+  "descricao": "3 versoes e anos do VENTO vthunder na Tabela FIPE.",
+  "seo": {
+    "title": "VENTO vthunder - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes VENTO vthunder. 3 veiculos indexados.",
+    "h1": "VENTO vthunder - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/vento/vthunder/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "vento-vthunder-250-2013-gasolina",
+      "fipeCodigo": "877003-4",
+      "displayName": "VENTO VTHUNDER 250",
+      "valorAtual": 9323,
+      "canonicalPath": "/fipe/vento/vthunder-250-2013-877003-4/",
+      "ano": 2013,
+      "marca": "VENTO"
+    },
+    {
+      "vehicleId": "vento-vthunder-250-2012-gasolina",
+      "fipeCodigo": "877003-4",
+      "displayName": "VENTO VTHUNDER 250",
+      "valorAtual": 8966,
+      "canonicalPath": "/fipe/vento/vthunder-250-2012-877003-4/",
+      "ano": 2012,
+      "marca": "VENTO"
+    },
+    {
+      "vehicleId": "vento-vthunder-250-2011-gasolina",
+      "fipeCodigo": "877003-4",
+      "displayName": "VENTO VTHUNDER 250",
+      "valorAtual": 8708,
+      "canonicalPath": "/fipe/vento/vthunder-250-2011-877003-4/",
+      "ano": 2011,
+      "marca": "VENTO"
+    }
+  ],
+  "stats": {
+    "total": 3,
+    "precoMin": 8708,
+    "precoMax": 9323,
+    "anos": [
+      2013,
+      2012,
+      2011
+    ]
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "tipo": "familia",
+  "slug": "supra",
+  "canonicalPath": "/fipe/toyota/supra/",
+  "titulo": "Toyota supra - Tabela FIPE",
+  "descricao": "4 versoes e anos do Toyota supra na Tabela FIPE.",
+  "seo": {
+    "title": "Toyota supra - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes Toyota supra. 4 veiculos indexados.",
+    "h1": "Toyota supra - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/toyota/supra/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "toyota-supra-2007-gasolina",
+      "fipeCodigo": "002023-0",
+      "displayName": "Toyota Supra",
+      "valorAtual": 43990,
+      "canonicalPath": "/fipe/toyota/supra-2007-002023-0/",
+      "ano": 2007,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-supra-1995-gasolina",
+      "fipeCodigo": "002023-0",
+      "displayName": "Toyota Supra",
+      "valorAtual": 34267,
+      "canonicalPath": "/fipe/toyota/supra-1995-002023-0/",
+      "ano": 1995,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-supra-1994-gasolina",
+      "fipeCodigo": "002023-0",
+      "displayName": "Toyota Supra",
+      "valorAtual": 33431,
+      "canonicalPath": "/fipe/toyota/supra-1994-002023-0/",
+      "ano": 1994,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-supra-1993-gasolina",
+      "fipeCodigo": "002023-0",
+      "displayName": "Toyota Supra",
+      "valorAtual": 31442,
+      "canonicalPath": "/fipe/toyota/supra-1993-002023-0/",
+      "ano": 1993,
+      "marca": "Toyota"
+    }
+  ],
+  "stats": {
+    "total": 4,
+    "precoMin": 31442,
+    "precoMax": 43990,
+    "anos": [
+      2007,
+      1995,
+      1994,
+      1993
+    ]
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "tipo": "familia",
+  "slug": "fox",
+  "canonicalPath": "/fipe/mvk/fox/",
+  "titulo": "MVK fox - Tabela FIPE",
+  "descricao": "4 versoes e anos do MVK fox na Tabela FIPE.",
+  "seo": {
+    "title": "MVK fox - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes MVK fox. 4 veiculos indexados.",
+    "h1": "MVK fox - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/mvk/fox/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "mvk-fox-110-2011-gasolina",
+      "fipeCodigo": "845010-2",
+      "displayName": "MVK FOX 110",
+      "valorAtual": 2625,
+      "canonicalPath": "/fipe/mvk/fox-110-2011-845010-2/",
+      "ano": 2011,
+      "marca": "MVK"
+    },
+    {
+      "vehicleId": "mvk-fox-110-2009-gasolina",
+      "fipeCodigo": "845010-2",
+      "displayName": "MVK FOX 110",
+      "valorAtual": 2392,
+      "canonicalPath": "/fipe/mvk/fox-110-2009-845010-2/",
+      "ano": 2009,
+      "marca": "MVK"
+    },
+    {
+      "vehicleId": "mvk-fox-110-2008-gasolina",
+      "fipeCodigo": "845010-2",
+      "displayName": "MVK FOX 110",
+      "valorAtual": 2098,
+      "canonicalPath": "/fipe/mvk/fox-110-2008-845010-2/",
+      "ano": 2008,
+      "marca": "MVK"
+    },
+    {
+      "vehicleId": "mvk-fox-110-2007-gasolina",
+      "fipeCodigo": "845010-2",
+      "displayName": "MVK FOX 110",
+      "valorAtual": 1812,
+      "canonicalPath": "/fipe/mvk/fox-110-2007-845010-2/",
+      "ano": 2007,
+      "marca": "MVK"
+    }
+  ],
+  "stats": {
+    "total": 4,
+    "precoMin": 1812,
+    "precoMax": 2625,
+    "anos": [
+      2011,
+      2009,
+      2008,
+      2007
+    ]
+  }
+}

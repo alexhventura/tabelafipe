@@ -1,0 +1,42 @@
+{
+  "tipo": "familia",
+  "slug": "d1",
+  "canonicalPath": "/fipe/byd/d1/",
+  "titulo": "BYD d1 - Tabela FIPE",
+  "descricao": "2 versoes e anos do BYD d1 na Tabela FIPE.",
+  "seo": {
+    "title": "BYD d1 - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes BYD d1. 2 veiculos indexados.",
+    "h1": "BYD d1 - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/byd/d1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "byd-d1-ev-eletrico-2023-eletrico",
+      "fipeCodigo": "095004-1",
+      "displayName": "BYD D1 EV (Elétrico)",
+      "valorAtual": 167223,
+      "canonicalPath": "/fipe/byd/d1-ev-eletrico-2023-095004-1/",
+      "ano": 2023,
+      "marca": "BYD"
+    },
+    {
+      "vehicleId": "byd-d1-ev-eletrico-2022-eletrico",
+      "fipeCodigo": "095004-1",
+      "displayName": "BYD D1 EV (Elétrico)",
+      "valorAtual": 162268,
+      "canonicalPath": "/fipe/byd/d1-ev-eletrico-2022-095004-1/",
+      "ano": 2022,
+      "marca": "BYD"
+    }
+  ],
+  "stats": {
+    "total": 2,
+    "precoMin": 162268,
+    "precoMax": 167223,
+    "anos": [
+      2023,
+      2022
+    ]
+  }
+}

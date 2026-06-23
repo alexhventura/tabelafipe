@@ -1,0 +1,48 @@
+{
+  "tipo": "geracao",
+  "slug": "l200-1",
+  "canonicalPath": "/geracao/mitsubishi/l200-1/",
+  "titulo": "Geracao l200-1",
+  "descricao": "3 veiculos da geracao l200-1.",
+  "seo": {
+    "title": "Geracao l200-1 - Precos FIPE",
+    "description": "Veiculos da geracao l200-1 na Tabela FIPE.",
+    "h1": "Geracao l200-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/mitsubishi/l200-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "mitsubishi-l200-tri-s-outd-plus-2-4-4x4-die-aut-0-diesel",
+      "fipeCodigo": "022210-0",
+      "displayName": "Mitsubishi L200 Tri. S. Outd. Plus 2.4 4x4 Die. Aut",
+      "valorAtual": 244738,
+      "canonicalPath": "/fipe/mitsubishi/l200-tri-s-outd-plus-2-4-4x4-die-aut-0-022210-0/",
+      "ano": 0,
+      "marca": "Mitsubishi"
+    },
+    {
+      "vehicleId": "mitsubishi-l200-trit-s-out-gls-2-4-cd-diesel-aut-0-diesel",
+      "fipeCodigo": "022206-2",
+      "displayName": "Mitsubishi L200 Trit. S.Out. GLS 2.4 CD Diesel Aut.",
+      "valorAtual": 245010,
+      "canonicalPath": "/fipe/mitsubishi/l200-trit-s-out-gls-2-4-cd-diesel-aut-0-022206-2/",
+      "ano": 0,
+      "marca": "Mitsubishi"
+    },
+    {
+      "vehicleId": "mitsubishi-l200-triton-sport-hpe-2-4-cd-diesel-aut-0-diesel",
+      "fipeCodigo": "022158-9",
+      "displayName": "Mitsubishi L200 Triton Sport HPE 2.4 CD Diesel Aut.",
+      "valorAtual": 263310,
+      "canonicalPath": "/fipe/mitsubishi/l200-triton-sport-hpe-2-4-cd-diesel-aut-0-022158-9/",
+      "ano": 0,
+      "marca": "Mitsubishi"
+    }
+  ],
+  "stats": {
+    "total": 3
+  },
+  "meta": {
+    "geracaoId": "l200-1"
+  }
+}

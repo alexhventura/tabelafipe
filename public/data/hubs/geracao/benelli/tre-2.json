@@ -1,0 +1,48 @@
+{
+  "tipo": "geracao",
+  "slug": "tre-2",
+  "canonicalPath": "/geracao/benelli/tre-2/",
+  "titulo": "Geracao tre-2",
+  "descricao": "3 veiculos da geracao tre-2.",
+  "seo": {
+    "title": "Geracao tre-2 - Precos FIPE",
+    "description": "Veiculos da geracao tre-2 na Tabela FIPE.",
+    "h1": "Geracao tre-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/benelli/tre-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "benelli-tre-1130-k-2014-gasolina",
+      "fipeCodigo": "870003-6",
+      "displayName": "Benelli TRE 1130 K",
+      "valorAtual": 44670,
+      "canonicalPath": "/fipe/benelli/tre-1130-k-2014-870003-6/",
+      "ano": 2014,
+      "marca": "Benelli"
+    },
+    {
+      "vehicleId": "benelli-tre-1130-k-amazonas-2014-gasolina",
+      "fipeCodigo": "870004-4",
+      "displayName": "Benelli TRE 1130 K Amazonas",
+      "valorAtual": 49607,
+      "canonicalPath": "/fipe/benelli/tre-1130-k-amazonas-2014-870004-4/",
+      "ano": 2014,
+      "marca": "Benelli"
+    },
+    {
+      "vehicleId": "benelli-tre-899-k-2014-gasolina",
+      "fipeCodigo": "870006-0",
+      "displayName": "Benelli TRE 899 K",
+      "valorAtual": 38921,
+      "canonicalPath": "/fipe/benelli/tre-899-k-2014-870006-0/",
+      "ano": 2014,
+      "marca": "Benelli"
+    }
+  ],
+  "stats": {
+    "total": 3
+  },
+  "meta": {
+    "geracaoId": "tre-2"
+  }
+}

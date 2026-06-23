@@ -1,0 +1,70 @@
+{
+  "tipo": "familia",
+  "slug": "cr",
+  "canonicalPath": "/fipe/husqvarna/cr/",
+  "titulo": "HUSQVARNA cr - Tabela FIPE",
+  "descricao": "5 versoes e anos do HUSQVARNA cr na Tabela FIPE.",
+  "seo": {
+    "title": "HUSQVARNA cr - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes HUSQVARNA cr. 5 veiculos indexados.",
+    "h1": "HUSQVARNA cr - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/husqvarna/cr/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "husqvarna-cr-125-2001-gasolina",
+      "fipeCodigo": "812008-0",
+      "displayName": "HUSQVARNA CR 125",
+      "valorAtual": 5977,
+      "canonicalPath": "/fipe/husqvarna/cr-125-2001-812008-0/",
+      "ano": 2001,
+      "marca": "HUSQVARNA"
+    },
+    {
+      "vehicleId": "husqvarna-cr-250-2001-gasolina",
+      "fipeCodigo": "812011-0",
+      "displayName": "HUSQVARNA CR 250",
+      "valorAtual": 9993,
+      "canonicalPath": "/fipe/husqvarna/cr-250-2001-812011-0/",
+      "ano": 2001,
+      "marca": "HUSQVARNA"
+    },
+    {
+      "vehicleId": "husqvarna-cr-125-2000-gasolina",
+      "fipeCodigo": "812008-0",
+      "displayName": "HUSQVARNA CR 125",
+      "valorAtual": 5380,
+      "canonicalPath": "/fipe/husqvarna/cr-125-2000-812008-0/",
+      "ano": 2000,
+      "marca": "HUSQVARNA"
+    },
+    {
+      "vehicleId": "husqvarna-cr-125-1999-gasolina",
+      "fipeCodigo": "812008-0",
+      "displayName": "HUSQVARNA CR 125",
+      "valorAtual": 4820,
+      "canonicalPath": "/fipe/husqvarna/cr-125-1999-812008-0/",
+      "ano": 1999,
+      "marca": "HUSQVARNA"
+    },
+    {
+      "vehicleId": "husqvarna-cr-250-1999-gasolina",
+      "fipeCodigo": "812011-0",
+      "displayName": "HUSQVARNA CR 250",
+      "valorAtual": 7514,
+      "canonicalPath": "/fipe/husqvarna/cr-250-1999-812011-0/",
+      "ano": 1999,
+      "marca": "HUSQVARNA"
+    }
+  ],
+  "stats": {
+    "total": 5,
+    "precoMin": 4820,
+    "precoMax": 9993,
+    "anos": [
+      2001,
+      2000,
+      1999
+    ]
+  }
+}

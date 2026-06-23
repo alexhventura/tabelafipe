@@ -1,0 +1,57 @@
+{
+  "tipo": "geracao",
+  "slug": "eclipse-3",
+  "canonicalPath": "/geracao/mitsubishi/eclipse-3/",
+  "titulo": "Geracao eclipse-3",
+  "descricao": "4 veiculos da geracao eclipse-3.",
+  "seo": {
+    "title": "Geracao eclipse-3 - Precos FIPE",
+    "description": "Veiculos da geracao eclipse-3 na Tabela FIPE.",
+    "h1": "Geracao eclipse-3",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/mitsubishi/eclipse-3/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "mitsubishi-eclipse-gt-3-8-v6-267cv-2006-gasolina",
+      "fipeCodigo": "022096-5",
+      "displayName": "Mitsubishi Eclipse GT 3.8 V6 267cv",
+      "valorAtual": 84386,
+      "canonicalPath": "/fipe/mitsubishi/eclipse-gt-3-8-v6-267cv-2006-022096-5/",
+      "ano": 2006,
+      "marca": "Mitsubishi"
+    },
+    {
+      "vehicleId": "mitsubishi-eclipse-gt-3-8-v6-267cv-2007-gasolina",
+      "fipeCodigo": "022096-5",
+      "displayName": "Mitsubishi Eclipse GT 3.8 V6 267cv",
+      "valorAtual": 121898,
+      "canonicalPath": "/fipe/mitsubishi/eclipse-gt-3-8-v6-267cv-2007-022096-5/",
+      "ano": 2007,
+      "marca": "Mitsubishi"
+    },
+    {
+      "vehicleId": "mitsubishi-eclipse-gt-3-8-v6-267cv-2008-gasolina",
+      "fipeCodigo": "022096-5",
+      "displayName": "Mitsubishi Eclipse GT 3.8 V6 267cv",
+      "valorAtual": 124946,
+      "canonicalPath": "/fipe/mitsubishi/eclipse-gt-3-8-v6-267cv-2008-022096-5/",
+      "ano": 2008,
+      "marca": "Mitsubishi"
+    },
+    {
+      "vehicleId": "mitsubishi-eclipse-gt-3-8-v6-267cv-2009-gasolina",
+      "fipeCodigo": "022096-5",
+      "displayName": "Mitsubishi Eclipse GT 3.8 V6 267cv",
+      "valorAtual": 130853,
+      "canonicalPath": "/fipe/mitsubishi/eclipse-gt-3-8-v6-267cv-2009-022096-5/",
+      "ano": 2009,
+      "marca": "Mitsubishi"
+    }
+  ],
+  "stats": {
+    "total": 4
+  },
+  "meta": {
+    "geracaoId": "eclipse-3"
+  }
+}

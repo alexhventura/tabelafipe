@@ -1,0 +1,48 @@
+{
+  "tipo": "geracao",
+  "slug": "508-1",
+  "canonicalPath": "/geracao/peugeot/508-1/",
+  "titulo": "Geracao 508-1",
+  "descricao": "3 veiculos da geracao 508-1.",
+  "seo": {
+    "title": "Geracao 508-1 - Precos FIPE",
+    "description": "Veiculos da geracao 508-1 na Tabela FIPE.",
+    "h1": "Geracao 508-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/peugeot/508-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "peugeot-508-thp-1-6-turbo-16v-4p-aut-2012-gasolina",
+      "fipeCodigo": "024190-3",
+      "displayName": "Peugeot 508 THP 1.6 Turbo 16V 4p Aut.",
+      "valorAtual": 50130,
+      "canonicalPath": "/fipe/peugeot/508-thp-1-6-turbo-16v-4p-aut-2012-024190-3/",
+      "ano": 2012,
+      "marca": "Peugeot"
+    },
+    {
+      "vehicleId": "peugeot-508-thp-1-6-turbo-16v-4p-aut-2013-gasolina",
+      "fipeCodigo": "024190-3",
+      "displayName": "Peugeot 508 THP 1.6 Turbo 16V 4p Aut.",
+      "valorAtual": 51737,
+      "canonicalPath": "/fipe/peugeot/508-thp-1-6-turbo-16v-4p-aut-2013-024190-3/",
+      "ano": 2013,
+      "marca": "Peugeot"
+    },
+    {
+      "vehicleId": "peugeot-508-thp-1-6-turbo-16v-4p-aut-2014-gasolina",
+      "fipeCodigo": "024190-3",
+      "displayName": "Peugeot 508 THP 1.6 Turbo 16V 4p Aut.",
+      "valorAtual": 56741,
+      "canonicalPath": "/fipe/peugeot/508-thp-1-6-turbo-16v-4p-aut-2014-024190-3/",
+      "ano": 2014,
+      "marca": "Peugeot"
+    }
+  ],
+  "stats": {
+    "total": 3
+  },
+  "meta": {
+    "geracaoId": "508-1"
+  }
+}

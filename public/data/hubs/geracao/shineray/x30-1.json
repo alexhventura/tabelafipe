@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "x30-1",
+  "canonicalPath": "/geracao/shineray/x30-1/",
+  "titulo": "Geracao x30-1",
+  "descricao": "2 veiculos da geracao x30-1.",
+  "seo": {
+    "title": "Geracao x30-1 - Precos FIPE",
+    "description": "Veiculos da geracao x30-1 na Tabela FIPE.",
+    "h1": "Geracao x30-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/shineray/x30-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "shineray-x30-van-1-3-16v-mec-2014-gasolina",
+      "fipeCodigo": "082007-5",
+      "displayName": "SHINERAY X30 VAN 1.3 16V Mec.",
+      "valorAtual": 33626,
+      "canonicalPath": "/fipe/shineray/x30-van-1-3-16v-mec-2014-082007-5/",
+      "ano": 2014,
+      "marca": "SHINERAY"
+    },
+    {
+      "vehicleId": "shineray-x30-van-1-3-16v-mec-2015-gasolina",
+      "fipeCodigo": "082007-5",
+      "displayName": "SHINERAY X30 VAN 1.3 16V Mec.",
+      "valorAtual": 34467,
+      "canonicalPath": "/fipe/shineray/x30-van-1-3-16v-mec-2015-082007-5/",
+      "ano": 2015,
+      "marca": "SHINERAY"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "x30-1"
+  }
+}

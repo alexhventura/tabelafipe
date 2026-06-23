@@ -1,0 +1,84 @@
+{
+  "tipo": "geracao",
+  "slug": "lanos-1",
+  "canonicalPath": "/geracao/daewoo/lanos-1/",
+  "titulo": "Geracao lanos-1",
+  "descricao": "7 veiculos da geracao lanos-1.",
+  "seo": {
+    "title": "Geracao lanos-1 - Precos FIPE",
+    "description": "Veiculos da geracao lanos-1 na Tabela FIPE.",
+    "h1": "Geracao lanos-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/daewoo/lanos-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "daewoo-lanos-hatch-sx-1-6-16v-1999-gasolina",
+      "fipeCodigo": "030010-1",
+      "displayName": "Daewoo Lanos Hatch SX 1.6 16V",
+      "valorAtual": 7633,
+      "canonicalPath": "/fipe/daewoo/lanos-hatch-sx-1-6-16v-1999-030010-1/",
+      "ano": 1999,
+      "marca": "Daewoo"
+    },
+    {
+      "vehicleId": "daewoo-lanos-sx-1-6-16v-1997-gasolina",
+      "fipeCodigo": "030005-5",
+      "displayName": "Daewoo Lanos SX 1.6 16V",
+      "valorAtual": 5205,
+      "canonicalPath": "/fipe/daewoo/lanos-sx-1-6-16v-1997-030005-5/",
+      "ano": 1997,
+      "marca": "Daewoo"
+    },
+    {
+      "vehicleId": "daewoo-lanos-sx-1-6-16v-1998-gasolina",
+      "fipeCodigo": "030005-5",
+      "displayName": "Daewoo Lanos SX 1.6 16V",
+      "valorAtual": 6771,
+      "canonicalPath": "/fipe/daewoo/lanos-sx-1-6-16v-1998-030005-5/",
+      "ano": 1998,
+      "marca": "Daewoo"
+    },
+    {
+      "vehicleId": "daewoo-lanos-sx-1-6-16v-1999-gasolina",
+      "fipeCodigo": "030005-5",
+      "displayName": "Daewoo Lanos SX 1.6 16V",
+      "valorAtual": 7154,
+      "canonicalPath": "/fipe/daewoo/lanos-sx-1-6-16v-1999-030005-5/",
+      "ano": 1999,
+      "marca": "Daewoo"
+    },
+    {
+      "vehicleId": "daewoo-lanos-sx-1-6-16v-aut-1997-gasolina",
+      "fipeCodigo": "030009-8",
+      "displayName": "Daewoo Lanos SX 1.6 16V Aut.",
+      "valorAtual": 5971,
+      "canonicalPath": "/fipe/daewoo/lanos-sx-1-6-16v-aut-1997-030009-8/",
+      "ano": 1997,
+      "marca": "Daewoo"
+    },
+    {
+      "vehicleId": "daewoo-lanos-sx-1-6-16v-aut-1998-gasolina",
+      "fipeCodigo": "030009-8",
+      "displayName": "Daewoo Lanos SX 1.6 16V Aut.",
+      "valorAtual": 6860,
+      "canonicalPath": "/fipe/daewoo/lanos-sx-1-6-16v-aut-1998-030009-8/",
+      "ano": 1998,
+      "marca": "Daewoo"
+    },
+    {
+      "vehicleId": "daewoo-lanos-sx-1-6-16v-aut-1999-gasolina",
+      "fipeCodigo": "030009-8",
+      "displayName": "Daewoo Lanos SX 1.6 16V Aut.",
+      "valorAtual": 7203,
+      "canonicalPath": "/fipe/daewoo/lanos-sx-1-6-16v-aut-1999-030009-8/",
+      "ano": 1999,
+      "marca": "Daewoo"
+    }
+  ],
+  "stats": {
+    "total": 7
+  },
+  "meta": {
+    "geracaoId": "lanos-1"
+  }
+}

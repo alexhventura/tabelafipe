@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "750s-1",
+  "canonicalPath": "/geracao/mclaren/750s-1/",
+  "titulo": "Geracao 750s-1",
+  "descricao": "2 veiculos da geracao 750s-1.",
+  "seo": {
+    "title": "Geracao 750s-1 - Precos FIPE",
+    "description": "Veiculos da geracao 750s-1 na Tabela FIPE.",
+    "h1": "Geracao 750s-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/mclaren/750s-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "mclaren-750s-coupe-4-0-bi-turbo-v8-0-gasolina",
+      "fipeCodigo": "090014-1",
+      "displayName": "Mclaren 750S Coupe 4.0 Bi-Turbo V8",
+      "valorAtual": 4600000,
+      "canonicalPath": "/fipe/mclaren/750s-coupe-4-0-bi-turbo-v8-0-090014-1/",
+      "ano": 0,
+      "marca": "Mclaren"
+    },
+    {
+      "vehicleId": "mclaren-750s-spider-4-0-bi-turbo-v8-2p-0-gasolina",
+      "fipeCodigo": "090013-3",
+      "displayName": "Mclaren 750S Spider 4.0 Bi-Turbo V8 2p",
+      "valorAtual": 5100000,
+      "canonicalPath": "/fipe/mclaren/750s-spider-4-0-bi-turbo-v8-2p-0-090013-3/",
+      "ano": 0,
+      "marca": "Mclaren"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "750s-1"
+  }
+}

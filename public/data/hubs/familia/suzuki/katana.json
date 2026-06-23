@@ -1,0 +1,92 @@
+{
+  "tipo": "familia",
+  "slug": "katana",
+  "canonicalPath": "/fipe/suzuki/katana/",
+  "titulo": "SUZUKI katana - Tabela FIPE",
+  "descricao": "7 versoes e anos do SUZUKI katana na Tabela FIPE.",
+  "seo": {
+    "title": "SUZUKI katana - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes SUZUKI katana. 7 veiculos indexados.",
+    "h1": "SUZUKI katana - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/suzuki/katana/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "suzuki-katana-125-2002-gasolina",
+      "fipeCodigo": "825022-7",
+      "displayName": "SUZUKI KATANA 125",
+      "valorAtual": 2223,
+      "canonicalPath": "/fipe/suzuki/katana-125-2002-825022-7/",
+      "ano": 2002,
+      "marca": "SUZUKI"
+    },
+    {
+      "vehicleId": "suzuki-katana-125-2001-gasolina",
+      "fipeCodigo": "825022-7",
+      "displayName": "SUZUKI KATANA 125",
+      "valorAtual": 1890,
+      "canonicalPath": "/fipe/suzuki/katana-125-2001-825022-7/",
+      "ano": 2001,
+      "marca": "SUZUKI"
+    },
+    {
+      "vehicleId": "suzuki-katana-125-2000-gasolina",
+      "fipeCodigo": "825022-7",
+      "displayName": "SUZUKI KATANA 125",
+      "valorAtual": 1790,
+      "canonicalPath": "/fipe/suzuki/katana-125-2000-825022-7/",
+      "ano": 2000,
+      "marca": "SUZUKI"
+    },
+    {
+      "vehicleId": "suzuki-katana-125-1999-gasolina",
+      "fipeCodigo": "825022-7",
+      "displayName": "SUZUKI KATANA 125",
+      "valorAtual": 1744,
+      "canonicalPath": "/fipe/suzuki/katana-125-1999-825022-7/",
+      "ano": 1999,
+      "marca": "SUZUKI"
+    },
+    {
+      "vehicleId": "suzuki-katana-125-1998-gasolina",
+      "fipeCodigo": "825022-7",
+      "displayName": "SUZUKI KATANA 125",
+      "valorAtual": 1700,
+      "canonicalPath": "/fipe/suzuki/katana-125-1998-825022-7/",
+      "ano": 1998,
+      "marca": "SUZUKI"
+    },
+    {
+      "vehicleId": "suzuki-katana-125-1997-gasolina",
+      "fipeCodigo": "825022-7",
+      "displayName": "SUZUKI KATANA 125",
+      "valorAtual": 1381,
+      "canonicalPath": "/fipe/suzuki/katana-125-1997-825022-7/",
+      "ano": 1997,
+      "marca": "SUZUKI"
+    },
+    {
+      "vehicleId": "suzuki-katana-125-1996-gasolina",
+      "fipeCodigo": "825022-7",
+      "displayName": "SUZUKI KATANA 125",
+      "valorAtual": 1232,
+      "canonicalPath": "/fipe/suzuki/katana-125-1996-825022-7/",
+      "ano": 1996,
+      "marca": "SUZUKI"
+    }
+  ],
+  "stats": {
+    "total": 7,
+    "precoMin": 1232,
+    "precoMax": 2223,
+    "anos": [
+      2002,
+      2001,
+      2000,
+      1999,
+      1998,
+      1997,
+      1996
+    ]
+  }
+}

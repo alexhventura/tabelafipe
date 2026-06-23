@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "n601-1",
+  "canonicalPath": "/geracao/effa-jmc/n601-1/",
+  "titulo": "Geracao n601-1",
+  "descricao": "2 veiculos da geracao n601-1.",
+  "seo": {
+    "title": "Geracao n601-1 - Precos FIPE",
+    "description": "Veiculos da geracao n601-1 na Tabela FIPE.",
+    "h1": "Geracao n601-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/effa-jmc/n601-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "effa-jmc-n601-2-8-2p-diesel-2011-diesel",
+      "fipeCodigo": "522001-7",
+      "displayName": "EFFA-JMC N601 2.8 2p (diesel)",
+      "valorAtual": 29560,
+      "canonicalPath": "/fipe/effa-jmc/n601-2-8-2p-diesel-2011-522001-7/",
+      "ano": 2011,
+      "marca": "EFFA-JMC"
+    },
+    {
+      "vehicleId": "effa-jmc-n601-2-8-2p-diesel-2012-diesel",
+      "fipeCodigo": "522001-7",
+      "displayName": "EFFA-JMC N601 2.8 2p (diesel)",
+      "valorAtual": 36495,
+      "canonicalPath": "/fipe/effa-jmc/n601-2-8-2p-diesel-2012-522001-7/",
+      "ano": 2012,
+      "marca": "EFFA-JMC"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "n601-1"
+  }
+}

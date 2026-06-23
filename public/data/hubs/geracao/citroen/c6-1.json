@@ -1,0 +1,48 @@
+{
+  "tipo": "geracao",
+  "slug": "c6-1",
+  "canonicalPath": "/geracao/citroen/c6-1/",
+  "titulo": "Geracao c6-1",
+  "descricao": "3 veiculos da geracao c6-1.",
+  "seo": {
+    "title": "Geracao c6-1 - Precos FIPE",
+    "description": "Veiculos da geracao c6-1 na Tabela FIPE.",
+    "h1": "Geracao c6-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/citroen/c6-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "citroen-c6-exclusive-3-0-v6-24v-215cv-aut-2006-gasolina",
+      "fipeCodigo": "011084-1",
+      "displayName": "Citroën C6 Exclusive 3.0 V6 24V 215cv Aut.",
+      "valorAtual": 34842,
+      "canonicalPath": "/fipe/citroen/c6-exclusive-3-0-v6-24v-215cv-aut-2006-011084-1/",
+      "ano": 2006,
+      "marca": "Citroën"
+    },
+    {
+      "vehicleId": "citroen-c6-exclusive-3-0-v6-24v-215cv-aut-2007-gasolina",
+      "fipeCodigo": "011084-1",
+      "displayName": "Citroën C6 Exclusive 3.0 V6 24V 215cv Aut.",
+      "valorAtual": 49854,
+      "canonicalPath": "/fipe/citroen/c6-exclusive-3-0-v6-24v-215cv-aut-2007-011084-1/",
+      "ano": 2007,
+      "marca": "Citroën"
+    },
+    {
+      "vehicleId": "citroen-c6-exclusive-3-0-v6-24v-215cv-aut-2008-gasolina",
+      "fipeCodigo": "011084-1",
+      "displayName": "Citroën C6 Exclusive 3.0 V6 24V 215cv Aut.",
+      "valorAtual": 92689,
+      "canonicalPath": "/fipe/citroen/c6-exclusive-3-0-v6-24v-215cv-aut-2008-011084-1/",
+      "ano": 2008,
+      "marca": "Citroën"
+    }
+  ],
+  "stats": {
+    "total": 3
+  },
+  "meta": {
+    "geracaoId": "c6-1"
+  }
+}

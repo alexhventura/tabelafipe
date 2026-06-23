@@ -1,0 +1,42 @@
+{
+  "tipo": "familia",
+  "slug": "cupe",
+  "canonicalPath": "/fipe/hyundai/cupe/",
+  "titulo": "Hyundai cupe - Tabela FIPE",
+  "descricao": "2 versoes e anos do Hyundai cupe na Tabela FIPE.",
+  "seo": {
+    "title": "Hyundai cupe - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes Hyundai cupe. 2 veiculos indexados.",
+    "h1": "Hyundai cupe - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/hyundai/cupe/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "hyundai-cupe-2-0-1998-gasolina",
+      "fipeCodigo": "015015-0",
+      "displayName": "Hyundai Cupê 2.0",
+      "valorAtual": 11749,
+      "canonicalPath": "/fipe/hyundai/cupe-2-0-1998-015015-0/",
+      "ano": 1998,
+      "marca": "Hyundai"
+    },
+    {
+      "vehicleId": "hyundai-cupe-2-0-1997-gasolina",
+      "fipeCodigo": "015015-0",
+      "displayName": "Hyundai Cupê 2.0",
+      "valorAtual": 11296,
+      "canonicalPath": "/fipe/hyundai/cupe-2-0-1997-015015-0/",
+      "ano": 1997,
+      "marca": "Hyundai"
+    }
+  ],
+  "stats": {
+    "total": 2,
+    "precoMin": 11296,
+    "precoMax": 11749,
+    "anos": [
+      1998,
+      1997
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "tipo": "familia",
+  "slug": "316i",
+  "canonicalPath": "/fipe/bmw/316i/",
+  "titulo": "BMW 316i - Tabela FIPE",
+  "descricao": "2 versoes e anos do BMW 316i na Tabela FIPE.",
+  "seo": {
+    "title": "BMW 316i - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes BMW 316i. 2 veiculos indexados.",
+    "h1": "BMW 316i - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/bmw/316i/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "bmw-316i-1-6-tb-16v-136cv-4p-2015-gasolina",
+      "fipeCodigo": "009189-8",
+      "displayName": "BMW 316i 1.6 TB 16V 136cv 4p",
+      "valorAtual": 87203,
+      "canonicalPath": "/fipe/bmw/316i-1-6-tb-16v-136cv-4p-2015-009189-8/",
+      "ano": 2015,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-316i-1-6-tb-16v-136cv-4p-2014-gasolina",
+      "fipeCodigo": "009189-8",
+      "displayName": "BMW 316i 1.6 TB 16V 136cv 4p",
+      "valorAtual": 78945,
+      "canonicalPath": "/fipe/bmw/316i-1-6-tb-16v-136cv-4p-2014-009189-8/",
+      "ano": 2014,
+      "marca": "BMW"
+    }
+  ],
+  "stats": {
+    "total": 2,
+    "precoMin": 78945,
+    "precoMax": 87203,
+    "anos": [
+      2015,
+      2014
+    ]
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "tipo": "geracao",
+  "slug": "1944-1",
+  "canonicalPath": "/geracao/mercedes-benz/1944-1/",
+  "titulo": "Geracao 1944-1",
+  "descricao": "6 veiculos da geracao 1944-1.",
+  "seo": {
+    "title": "Geracao 1944-1 - Precos FIPE",
+    "description": "Veiculos da geracao 1944-1 na Tabela FIPE.",
+    "h1": "Geracao 1944-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/mercedes-benz/1944-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "mercedes-benz-1944-s-2p-diesel-2003-diesel",
+      "fipeCodigo": "509218-3",
+      "displayName": "MERCEDES-BENZ 1944-S 2p (diesel)",
+      "valorAtual": 112681,
+      "canonicalPath": "/fipe/mercedes-benz/1944-s-2p-diesel-2003-509218-3/",
+      "ano": 2003,
+      "marca": "MERCEDES-BENZ"
+    },
+    {
+      "vehicleId": "mercedes-benz-1944-s-2p-diesel-2004-diesel",
+      "fipeCodigo": "509218-3",
+      "displayName": "MERCEDES-BENZ 1944-S 2p (diesel)",
+      "valorAtual": 116334,
+      "canonicalPath": "/fipe/mercedes-benz/1944-s-2p-diesel-2004-509218-3/",
+      "ano": 2004,
+      "marca": "MERCEDES-BENZ"
+    },
+    {
+      "vehicleId": "mercedes-benz-1944-s-2p-diesel-2005-diesel",
+      "fipeCodigo": "509218-3",
+      "displayName": "MERCEDES-BENZ 1944-S 2p (diesel)",
+      "valorAtual": 127210,
+      "canonicalPath": "/fipe/mercedes-benz/1944-s-2p-diesel-2005-509218-3/",
+      "ano": 2005,
+      "marca": "MERCEDES-BENZ"
+    },
+    {
+      "vehicleId": "mercedes-benz-1944-s-3-eixos-2p-diesel-2003-diesel",
+      "fipeCodigo": "509219-1",
+      "displayName": "MERCEDES-BENZ 1944-S 3-Eixos 2p (diesel)",
+      "valorAtual": 124980,
+      "canonicalPath": "/fipe/mercedes-benz/1944-s-3-eixos-2p-diesel-2003-509219-1/",
+      "ano": 2003,
+      "marca": "MERCEDES-BENZ"
+    },
+    {
+      "vehicleId": "mercedes-benz-1944-s-3-eixos-2p-diesel-2004-diesel",
+      "fipeCodigo": "509219-1",
+      "displayName": "MERCEDES-BENZ 1944-S 3-Eixos 2p (diesel)",
+      "valorAtual": 132856,
+      "canonicalPath": "/fipe/mercedes-benz/1944-s-3-eixos-2p-diesel-2004-509219-1/",
+      "ano": 2004,
+      "marca": "MERCEDES-BENZ"
+    },
+    {
+      "vehicleId": "mercedes-benz-1944-s-3-eixos-2p-diesel-2005-diesel",
+      "fipeCodigo": "509219-1",
+      "displayName": "MERCEDES-BENZ 1944-S 3-Eixos 2p (diesel)",
+      "valorAtual": 165381,
+      "canonicalPath": "/fipe/mercedes-benz/1944-s-3-eixos-2p-diesel-2005-509219-1/",
+      "ano": 2005,
+      "marca": "MERCEDES-BENZ"
+    }
+  ],
+  "stats": {
+    "total": 6
+  },
+  "meta": {
+    "geracaoId": "1944-1"
+  }
+}

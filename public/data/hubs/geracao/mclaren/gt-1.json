@@ -1,0 +1,66 @@
+{
+  "tipo": "geracao",
+  "slug": "gt-1",
+  "canonicalPath": "/geracao/mclaren/gt-1/",
+  "titulo": "Geracao gt-1",
+  "descricao": "5 veiculos da geracao gt-1.",
+  "seo": {
+    "title": "Geracao gt-1 - Precos FIPE",
+    "description": "Veiculos da geracao gt-1 na Tabela FIPE.",
+    "h1": "Geracao gt-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/mclaren/gt-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "mclaren-gt-coupe-4-0-bi-turbo-v8-2p-2020-gasolina",
+      "fipeCodigo": "090008-7",
+      "displayName": "Mclaren GT Coupé 4.0 Bi-Turbo V8 2p",
+      "valorAtual": 1936766,
+      "canonicalPath": "/fipe/mclaren/gt-coupe-4-0-bi-turbo-v8-2p-2020-090008-7/",
+      "ano": 2020,
+      "marca": "Mclaren"
+    },
+    {
+      "vehicleId": "mercedes-benz-gt-63-s-amg-e-performance-aut-2p-0-hibrido",
+      "fipeCodigo": "021559-7",
+      "displayName": "Mercedes-Benz GT 63 S AMG E Performance Aut. 2p",
+      "valorAtual": 1781757,
+      "canonicalPath": "/fipe/mercedes-benz/gt-63-s-amg-e-performance-aut-2p-0-021559-7/",
+      "ano": 0,
+      "marca": "Mercedes-Benz"
+    },
+    {
+      "vehicleId": "mercedes-benz-gt-63-s-amg-e-performance-aut-4p-0-hibrido",
+      "fipeCodigo": "021543-0",
+      "displayName": "Mercedes-Benz GT 63 S AMG E Performance Aut. 4p",
+      "valorAtual": 1720893,
+      "canonicalPath": "/fipe/mercedes-benz/gt-63-s-amg-e-performance-aut-4p-0-021543-0/",
+      "ano": 0,
+      "marca": "Mercedes-Benz"
+    },
+    {
+      "vehicleId": "nissan-gt-r-3-8-v6-biturbo-aut-2016-gasolina",
+      "fipeCodigo": "023151-7",
+      "displayName": "Nissan GT-R 3.8 V6 BiTurbo Aut.",
+      "valorAtual": 833863,
+      "canonicalPath": "/fipe/nissan/gt-r-3-8-v6-biturbo-aut-2016-023151-7/",
+      "ano": 2016,
+      "marca": "Nissan"
+    },
+    {
+      "vehicleId": "nissan-gt-r-3-8-v6-biturbo-aut-2017-gasolina",
+      "fipeCodigo": "023151-7",
+      "displayName": "Nissan GT-R 3.8 V6 BiTurbo Aut.",
+      "valorAtual": 1060775,
+      "canonicalPath": "/fipe/nissan/gt-r-3-8-v6-biturbo-aut-2017-023151-7/",
+      "ano": 2017,
+      "marca": "Nissan"
+    }
+  ],
+  "stats": {
+    "total": 5
+  },
+  "meta": {
+    "geracaoId": "gt-1"
+  }
+}

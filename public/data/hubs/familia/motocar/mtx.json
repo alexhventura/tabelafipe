@@ -1,0 +1,62 @@
+{
+  "tipo": "familia",
+  "slug": "mtx",
+  "canonicalPath": "/fipe/motocar/mtx/",
+  "titulo": "MOTOCAR mtx - Tabela FIPE",
+  "descricao": "4 versoes e anos do MOTOCAR mtx na Tabela FIPE.",
+  "seo": {
+    "title": "MOTOCAR mtx - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes MOTOCAR mtx. 4 veiculos indexados.",
+    "h1": "MOTOCAR mtx - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/motocar/mtx/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "motocar-mtx-150-2016-gasolina",
+      "fipeCodigo": "882001-5",
+      "displayName": "MOTOCAR MTX-150",
+      "valorAtual": 12375,
+      "canonicalPath": "/fipe/motocar/mtx-150-2016-882001-5/",
+      "ano": 2016,
+      "marca": "MOTOCAR"
+    },
+    {
+      "vehicleId": "motocar-mtx-150-2015-gasolina",
+      "fipeCodigo": "882001-5",
+      "displayName": "MOTOCAR MTX-150",
+      "valorAtual": 12025,
+      "canonicalPath": "/fipe/motocar/mtx-150-2015-882001-5/",
+      "ano": 2015,
+      "marca": "MOTOCAR"
+    },
+    {
+      "vehicleId": "motocar-mtx-150-2014-gasolina",
+      "fipeCodigo": "882001-5",
+      "displayName": "MOTOCAR MTX-150",
+      "valorAtual": 9661,
+      "canonicalPath": "/fipe/motocar/mtx-150-2014-882001-5/",
+      "ano": 2014,
+      "marca": "MOTOCAR"
+    },
+    {
+      "vehicleId": "motocar-mtx-150-2013-gasolina",
+      "fipeCodigo": "882001-5",
+      "displayName": "MOTOCAR MTX-150",
+      "valorAtual": 8298,
+      "canonicalPath": "/fipe/motocar/mtx-150-2013-882001-5/",
+      "ano": 2013,
+      "marca": "MOTOCAR"
+    }
+  ],
+  "stats": {
+    "total": 4,
+    "precoMin": 8298,
+    "precoMax": 12375,
+    "anos": [
+      2016,
+      2015,
+      2014,
+      2013
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "xj-2",
+  "canonicalPath": "/geracao/jaguar/xj-2/",
+  "titulo": "Geracao xj-2",
+  "descricao": "2 veiculos da geracao xj-2.",
+  "seo": {
+    "title": "Geracao xj-2 - Precos FIPE",
+    "description": "Veiculos da geracao xj-2 na Tabela FIPE.",
+    "h1": "Geracao xj-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/jaguar/xj-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "jaguar-xj-super-4-2-v8-32v-400cv-4p-2004-gasolina",
+      "fipeCodigo": "016018-0",
+      "displayName": "Jaguar XJ Super 4.2 V8 32V 400cv 4p",
+      "valorAtual": 133132,
+      "canonicalPath": "/fipe/jaguar/xj-super-4-2-v8-32v-400cv-4p-2004-016018-0/",
+      "ano": 2004,
+      "marca": "Jaguar"
+    },
+    {
+      "vehicleId": "jaguar-xj-8-executive-se-4-2-v8-32v-300cv-4p-2004-gasolina",
+      "fipeCodigo": "016016-4",
+      "displayName": "Jaguar XJ-8 Executive/ SE 4.2 V8 32V 300cv 4p",
+      "valorAtual": 98308,
+      "canonicalPath": "/fipe/jaguar/xj-8-executive-se-4-2-v8-32v-300cv-4p-2004-016016-4/",
+      "ano": 2004,
+      "marca": "Jaguar"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "xj-2"
+  }
+}

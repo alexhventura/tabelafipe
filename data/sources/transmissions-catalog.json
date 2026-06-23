@@ -1,0 +1,30 @@
+{
+  "geradoEm": "2026-06-22",
+  "observacao": "Catalogo de transmissoes para propagacao",
+  "transmissions": [
+    {
+      "id": "aisin-6at",
+      "nome": "AISIN 6AT",
+      "marcas": ["Toyota", "Peugeot", "Citroen", "Jeep"],
+      "modeloPatterns": ["corolla", "yaris", "208", "2008", "c3", "c4", "compass", "renegade"]
+    },
+    {
+      "id": "cvt-xtronic",
+      "nome": "CVT XTRONIC",
+      "marcas": ["Nissan", "Renault"],
+      "modeloPatterns": ["kicks", "versa", "sentra", "kwid", "duster", "captur", "sandero", "logan"]
+    },
+    {
+      "id": "dsg-7",
+      "nome": "DSG 7-speed",
+      "marcas": ["VW - VolksWagen", "Volkswagen", "Audi", "Seat", "Skoda"],
+      "modeloPatterns": ["polo", "virtus", "nivus", "tcross", "t-cross", "jetta", "golf", "tiguan", "taos"]
+    },
+    {
+      "id": "e-cvt",
+      "nome": "e-CVT",
+      "marcas": ["Toyota"],
+      "modeloPatterns": ["corolla", "corolla cross", "corollacross", "corolla-cross", "yaris", "prius", "rav4", "camry"]
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "tipo": "familia",
+  "slug": "street",
+  "canonicalPath": "/fipe/wake/street/",
+  "titulo": "Wake street - Tabela FIPE",
+  "descricao": "6 versoes e anos do Wake street na Tabela FIPE.",
+  "seo": {
+    "title": "Wake street - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes Wake street. 6 veiculos indexados.",
+    "h1": "Wake street - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/wake/street/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "wake-street-tsi-1-0-tb-12v-flex-mec-2026-flex",
+      "fipeCodigo": "074004-7",
+      "displayName": "Wake Street TSI 1.0 TB 12V Flex Mec.",
+      "valorAtual": 242083,
+      "canonicalPath": "/fipe/wake/street-tsi-1-0-tb-12v-flex-mec-2026-074004-7/",
+      "ano": 2026,
+      "marca": "Wake"
+    },
+    {
+      "vehicleId": "wake-street-tsi-1-0-tb-12v-flex-mec-2025-flex",
+      "fipeCodigo": "074004-7",
+      "displayName": "Wake Street TSI 1.0 TB 12V Flex Mec.",
+      "valorAtual": 228267,
+      "canonicalPath": "/fipe/wake/street-tsi-1-0-tb-12v-flex-mec-2025-074004-7/",
+      "ano": 2025,
+      "marca": "Wake"
+    },
+    {
+      "vehicleId": "wake-street-tsi-1-0-tb-12v-flex-mec-2024-flex",
+      "fipeCodigo": "074004-7",
+      "displayName": "Wake Street TSI 1.0 TB 12V Flex Mec.",
+      "valorAtual": 221531,
+      "canonicalPath": "/fipe/wake/street-tsi-1-0-tb-12v-flex-mec-2024-074004-7/",
+      "ano": 2024,
+      "marca": "Wake"
+    },
+    {
+      "vehicleId": "wake-street-tsi-1-0-tb-12v-flex-mec-2023-flex",
+      "fipeCodigo": "074004-7",
+      "displayName": "Wake Street TSI 1.0 TB 12V Flex Mec.",
+      "valorAtual": 214147,
+      "canonicalPath": "/fipe/wake/street-tsi-1-0-tb-12v-flex-mec-2023-074004-7/",
+      "ano": 2023,
+      "marca": "Wake"
+    },
+    {
+      "vehicleId": "wake-street-tsi-1-0-tb-12v-flex-mec-2022-flex",
+      "fipeCodigo": "074004-7",
+      "displayName": "Wake Street TSI 1.0 TB 12V Flex Mec.",
+      "valorAtual": 205881,
+      "canonicalPath": "/fipe/wake/street-tsi-1-0-tb-12v-flex-mec-2022-074004-7/",
+      "ano": 2022,
+      "marca": "Wake"
+    },
+    {
+      "vehicleId": "wake-street-tsi-1-0-tb-12v-flex-mec-0-flex",
+      "fipeCodigo": "074004-7",
+      "displayName": "Wake Street TSI 1.0 TB 12V Flex Mec.",
+      "valorAtual": 274000,
+      "canonicalPath": "/fipe/wake/street-tsi-1-0-tb-12v-flex-mec-0-074004-7/",
+      "ano": 0,
+      "marca": "Wake"
+    }
+  ],
+  "stats": {
+    "total": 6,
+    "precoMin": 205881,
+    "precoMax": 274000,
+    "anos": [
+      2026,
+      2025,
+      2024,
+      2023,
+      2022,
+      0
+    ]
+  }
+}

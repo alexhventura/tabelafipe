@@ -1,0 +1,72 @@
+{
+  "tipo": "familia",
+  "slug": "family",
+  "canonicalPath": "/fipe/chana/family/",
+  "titulo": "CHANA family - Tabela FIPE",
+  "descricao": "5 versoes e anos do CHANA family na Tabela FIPE.",
+  "seo": {
+    "title": "CHANA family - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes CHANA family. 5 veiculos indexados.",
+    "h1": "CHANA family - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/chana/family/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "chana-family-1-0-8v-53cv-perua-2009-gasolina",
+      "fipeCodigo": "064001-8",
+      "displayName": "CHANA Family 1.0 8V 53cv (Perua)",
+      "valorAtual": 13772,
+      "canonicalPath": "/fipe/chana/family-1-0-8v-53cv-perua-2009-064001-8/",
+      "ano": 2009,
+      "marca": "CHANA"
+    },
+    {
+      "vehicleId": "chana-family-1-0-8v-53cv-perua-2008-gasolina",
+      "fipeCodigo": "064001-8",
+      "displayName": "CHANA Family 1.0 8V 53cv (Perua)",
+      "valorAtual": 12067,
+      "canonicalPath": "/fipe/chana/family-1-0-8v-53cv-perua-2008-064001-8/",
+      "ano": 2008,
+      "marca": "CHANA"
+    },
+    {
+      "vehicleId": "chana-family-1-0-8v-53cv-perua-2007-gasolina",
+      "fipeCodigo": "064001-8",
+      "displayName": "CHANA Family 1.0 8V 53cv (Perua)",
+      "valorAtual": 10048,
+      "canonicalPath": "/fipe/chana/family-1-0-8v-53cv-perua-2007-064001-8/",
+      "ano": 2007,
+      "marca": "CHANA"
+    },
+    {
+      "vehicleId": "chana-family-1-0-8v-53cv-perua-2006-gasolina",
+      "fipeCodigo": "064001-8",
+      "displayName": "CHANA Family 1.0 8V 53cv (Perua)",
+      "valorAtual": 9261,
+      "canonicalPath": "/fipe/chana/family-1-0-8v-53cv-perua-2006-064001-8/",
+      "ano": 2006,
+      "marca": "CHANA"
+    },
+    {
+      "vehicleId": "chana-family-1-0-8v-53cv-perua-2005-gasolina",
+      "fipeCodigo": "064001-8",
+      "displayName": "CHANA Family 1.0 8V 53cv (Perua)",
+      "valorAtual": 9035,
+      "canonicalPath": "/fipe/chana/family-1-0-8v-53cv-perua-2005-064001-8/",
+      "ano": 2005,
+      "marca": "CHANA"
+    }
+  ],
+  "stats": {
+    "total": 5,
+    "precoMin": 9035,
+    "precoMax": 13772,
+    "anos": [
+      2009,
+      2008,
+      2007,
+      2006,
+      2005
+    ]
+  }
+}

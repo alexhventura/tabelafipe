@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "v22-1",
+  "canonicalPath": "/geracao/effa/v22-1/",
+  "titulo": "Geracao v22-1",
+  "descricao": "2 veiculos da geracao v22-1.",
+  "seo": {
+    "title": "Geracao v22-1 - Precos FIPE",
+    "description": "Veiculos da geracao v22-1 na Tabela FIPE.",
+    "h1": "Geracao v22-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/effa/v22-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "effa-v22-pick-up-cd-1-3-16v-4p-0-gasolina",
+      "fipeCodigo": "066015-9",
+      "displayName": "EFFA V22 Pick-up CD 1.3 16V 4p",
+      "valorAtual": 111252,
+      "canonicalPath": "/fipe/effa/v22-pick-up-cd-1-3-16v-4p-0-066015-9/",
+      "ano": 0,
+      "marca": "EFFA"
+    },
+    {
+      "vehicleId": "effa-v22-pick-up-cd-1-5-16v-4p-0-gasolina",
+      "fipeCodigo": "066018-3",
+      "displayName": "EFFA V22 Pick-up CD 1.5 16V 4p",
+      "valorAtual": 121970,
+      "canonicalPath": "/fipe/effa/v22-pick-up-cd-1-5-16v-4p-0-066018-3/",
+      "ano": 0,
+      "marca": "EFFA"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "v22-1"
+  }
+}

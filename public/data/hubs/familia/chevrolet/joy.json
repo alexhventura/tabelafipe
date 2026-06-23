@@ -1,0 +1,87 @@
+{
+  "tipo": "familia",
+  "slug": "joy",
+  "canonicalPath": "/fipe/chevrolet/joy/",
+  "titulo": "GM - Chevrolet joy - Tabela FIPE",
+  "descricao": "7 versoes e anos do GM - Chevrolet joy na Tabela FIPE.",
+  "seo": {
+    "title": "GM - Chevrolet joy - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes GM - Chevrolet joy. 7 veiculos indexados.",
+    "h1": "GM - Chevrolet joy - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/chevrolet/joy/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "chevrolet-joy-plus-black-ed-1-0-8v-4p-flex-mec-2021-flex",
+      "fipeCodigo": "004508-0",
+      "displayName": "GM - Chevrolet JOY Plus Black Ed.1.0 8V 4p Flex Mec.",
+      "valorAtual": 56765,
+      "canonicalPath": "/fipe/chevrolet/joy-plus-black-ed-1-0-8v-4p-flex-mec-2021-004508-0/",
+      "ano": 2021,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-joy-hatch-1-0-8v-black-edition-flex-mec-2021-flex",
+      "fipeCodigo": "004506-3",
+      "displayName": "GM - Chevrolet JOY Hatch 1.0 8V Black Edition Flex Mec.",
+      "valorAtual": 57718,
+      "canonicalPath": "/fipe/chevrolet/joy-hatch-1-0-8v-black-edition-flex-mec-2021-004506-3/",
+      "ano": 2021,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-joy-hatch-1-0-8v-flex-5p-mec-2021-flex",
+      "fipeCodigo": "004505-5",
+      "displayName": "GM - Chevrolet JOY Hatch 1.0 8V Flex 5p Mec.",
+      "valorAtual": 58954,
+      "canonicalPath": "/fipe/chevrolet/joy-hatch-1-0-8v-flex-5p-mec-2021-004505-5/",
+      "ano": 2021,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-joy-plus-1-0-8v-4p-flex-mec-2020-flex",
+      "fipeCodigo": "004507-1",
+      "displayName": "GM - Chevrolet JOY Plus 1.0 8V 4p Flex Mec.",
+      "valorAtual": 48464,
+      "canonicalPath": "/fipe/chevrolet/joy-plus-1-0-8v-4p-flex-mec-2020-004507-1/",
+      "ano": 2020,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-joy-plus-black-ed-1-0-8v-4p-flex-mec-2020-flex",
+      "fipeCodigo": "004508-0",
+      "displayName": "GM - Chevrolet JOY Plus Black Ed.1.0 8V 4p Flex Mec.",
+      "valorAtual": 50679,
+      "canonicalPath": "/fipe/chevrolet/joy-plus-black-ed-1-0-8v-4p-flex-mec-2020-004508-0/",
+      "ano": 2020,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-joy-hatch-1-0-8v-flex-5p-mec-2020-flex",
+      "fipeCodigo": "004505-5",
+      "displayName": "GM - Chevrolet JOY Hatch 1.0 8V Flex 5p Mec.",
+      "valorAtual": 51076,
+      "canonicalPath": "/fipe/chevrolet/joy-hatch-1-0-8v-flex-5p-mec-2020-004505-5/",
+      "ano": 2020,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-joy-hatch-1-0-8v-black-edition-flex-mec-2020-flex",
+      "fipeCodigo": "004506-3",
+      "displayName": "GM - Chevrolet JOY Hatch 1.0 8V Black Edition Flex Mec.",
+      "valorAtual": 54512,
+      "canonicalPath": "/fipe/chevrolet/joy-hatch-1-0-8v-black-edition-flex-mec-2020-004506-3/",
+      "ano": 2020,
+      "marca": "GM - Chevrolet"
+    }
+  ],
+  "stats": {
+    "total": 7,
+    "precoMin": 48464,
+    "precoMax": 58954,
+    "anos": [
+      2021,
+      2020
+    ]
+  }
+}

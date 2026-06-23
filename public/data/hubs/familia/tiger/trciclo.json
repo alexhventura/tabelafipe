@@ -1,0 +1,82 @@
+{
+  "tipo": "familia",
+  "slug": "trciclo",
+  "canonicalPath": "/fipe/tiger/trciclo/",
+  "titulo": "TIGER trciclo - Tabela FIPE",
+  "descricao": "6 versoes e anos do TIGER trciclo na Tabela FIPE.",
+  "seo": {
+    "title": "TIGER trciclo - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes TIGER trciclo. 6 veiculos indexados.",
+    "h1": "TIGER trciclo - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/tiger/trciclo/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "tiger-trciclo-tc-cargo-chassi-2015-gasolina",
+      "fipeCodigo": "878004-8",
+      "displayName": "TIGER Trciclo TC Cargo Chassi",
+      "valorAtual": 9661,
+      "canonicalPath": "/fipe/tiger/trciclo-tc-cargo-chassi-2015-878004-8/",
+      "ano": 2015,
+      "marca": "TIGER"
+    },
+    {
+      "vehicleId": "tiger-trciclo-tc-cargo-chassi-2014-gasolina",
+      "fipeCodigo": "878004-8",
+      "displayName": "TIGER Trciclo TC Cargo Chassi",
+      "valorAtual": 9259,
+      "canonicalPath": "/fipe/tiger/trciclo-tc-cargo-chassi-2014-878004-8/",
+      "ano": 2014,
+      "marca": "TIGER"
+    },
+    {
+      "vehicleId": "tiger-trciclo-tc-cargo-chassi-2013-gasolina",
+      "fipeCodigo": "878004-8",
+      "displayName": "TIGER Trciclo TC Cargo Chassi",
+      "valorAtual": 7670,
+      "canonicalPath": "/fipe/tiger/trciclo-tc-cargo-chassi-2013-878004-8/",
+      "ano": 2013,
+      "marca": "TIGER"
+    },
+    {
+      "vehicleId": "tiger-trciclo-tc-cargo-chassi-2012-gasolina",
+      "fipeCodigo": "878004-8",
+      "displayName": "TIGER Trciclo TC Cargo Chassi",
+      "valorAtual": 7260,
+      "canonicalPath": "/fipe/tiger/trciclo-tc-cargo-chassi-2012-878004-8/",
+      "ano": 2012,
+      "marca": "TIGER"
+    },
+    {
+      "vehicleId": "tiger-trciclo-tc-cargo-chassi-2011-gasolina",
+      "fipeCodigo": "878004-8",
+      "displayName": "TIGER Trciclo TC Cargo Chassi",
+      "valorAtual": 6671,
+      "canonicalPath": "/fipe/tiger/trciclo-tc-cargo-chassi-2011-878004-8/",
+      "ano": 2011,
+      "marca": "TIGER"
+    },
+    {
+      "vehicleId": "tiger-trciclo-tc-cargo-chassi-2010-gasolina",
+      "fipeCodigo": "878004-8",
+      "displayName": "TIGER Trciclo TC Cargo Chassi",
+      "valorAtual": 6483,
+      "canonicalPath": "/fipe/tiger/trciclo-tc-cargo-chassi-2010-878004-8/",
+      "ano": 2010,
+      "marca": "TIGER"
+    }
+  ],
+  "stats": {
+    "total": 6,
+    "precoMin": 6483,
+    "precoMax": 9661,
+    "anos": [
+      2015,
+      2014,
+      2013,
+      2012,
+      2011,
+      2010
+    ]
+  }
+}

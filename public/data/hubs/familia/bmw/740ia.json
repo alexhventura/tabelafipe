@@ -1,0 +1,92 @@
+{
+  "tipo": "familia",
+  "slug": "740ia",
+  "canonicalPath": "/fipe/bmw/740ia/",
+  "titulo": "BMW 740ia - Tabela FIPE",
+  "descricao": "7 versoes e anos do BMW 740ia na Tabela FIPE.",
+  "seo": {
+    "title": "BMW 740ia - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes BMW 740ia. 7 veiculos indexados.",
+    "h1": "BMW 740ia - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/bmw/740ia/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "bmw-740ia-2001-gasolina",
+      "fipeCodigo": "009027-1",
+      "displayName": "BMW 740iA",
+      "valorAtual": 42037,
+      "canonicalPath": "/fipe/bmw/740ia-2001-009027-1/",
+      "ano": 2001,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-740ia-2000-gasolina",
+      "fipeCodigo": "009027-1",
+      "displayName": "BMW 740iA",
+      "valorAtual": 40893,
+      "canonicalPath": "/fipe/bmw/740ia-2000-009027-1/",
+      "ano": 2000,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-740ia-1999-gasolina",
+      "fipeCodigo": "009027-1",
+      "displayName": "BMW 740iA",
+      "valorAtual": 39767,
+      "canonicalPath": "/fipe/bmw/740ia-1999-009027-1/",
+      "ano": 1999,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-740ia-1998-gasolina",
+      "fipeCodigo": "009027-1",
+      "displayName": "BMW 740iA",
+      "valorAtual": 38797,
+      "canonicalPath": "/fipe/bmw/740ia-1998-009027-1/",
+      "ano": 1998,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-740ia-1997-gasolina",
+      "fipeCodigo": "009027-1",
+      "displayName": "BMW 740iA",
+      "valorAtual": 37850,
+      "canonicalPath": "/fipe/bmw/740ia-1997-009027-1/",
+      "ano": 1997,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-740ia-1996-gasolina",
+      "fipeCodigo": "009027-1",
+      "displayName": "BMW 740iA",
+      "valorAtual": 36926,
+      "canonicalPath": "/fipe/bmw/740ia-1996-009027-1/",
+      "ano": 1996,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-740ia-1995-gasolina",
+      "fipeCodigo": "009027-1",
+      "displayName": "BMW 740iA",
+      "valorAtual": 34398,
+      "canonicalPath": "/fipe/bmw/740ia-1995-009027-1/",
+      "ano": 1995,
+      "marca": "BMW"
+    }
+  ],
+  "stats": {
+    "total": 7,
+    "precoMin": 34398,
+    "precoMax": 42037,
+    "anos": [
+      2001,
+      2000,
+      1999,
+      1998,
+      1997,
+      1996,
+      1995
+    ]
+  }
+}

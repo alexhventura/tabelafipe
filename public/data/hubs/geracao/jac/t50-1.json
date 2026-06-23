@@ -1,0 +1,84 @@
+{
+  "tipo": "geracao",
+  "slug": "t50-1",
+  "canonicalPath": "/geracao/jac/t50-1/",
+  "titulo": "Geracao t50-1",
+  "descricao": "7 veiculos da geracao t50-1.",
+  "seo": {
+    "title": "Geracao t50-1 - Precos FIPE",
+    "description": "Veiculos da geracao t50-1 na Tabela FIPE.",
+    "h1": "Geracao t50-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/jac/t50-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "jac-t50-1-6-16v-5p-aut-2017-gasolina",
+      "fipeCodigo": "080020-1",
+      "displayName": "JAC T50 1.6 16V 5p Aut.",
+      "valorAtual": 57156,
+      "canonicalPath": "/fipe/jac/t50-1-6-16v-5p-aut-2017-080020-1/",
+      "ano": 2017,
+      "marca": "JAC"
+    },
+    {
+      "vehicleId": "jac-t50-1-6-16v-5p-aut-2018-gasolina",
+      "fipeCodigo": "080020-1",
+      "displayName": "JAC T50 1.6 16V 5p Aut.",
+      "valorAtual": 58585,
+      "canonicalPath": "/fipe/jac/t50-1-6-16v-5p-aut-2018-080020-1/",
+      "ano": 2018,
+      "marca": "JAC"
+    },
+    {
+      "vehicleId": "jac-t50-1-6-16v-5p-aut-2019-gasolina",
+      "fipeCodigo": "080020-1",
+      "displayName": "JAC T50 1.6 16V 5p Aut.",
+      "valorAtual": 63143,
+      "canonicalPath": "/fipe/jac/t50-1-6-16v-5p-aut-2019-080020-1/",
+      "ano": 2019,
+      "marca": "JAC"
+    },
+    {
+      "vehicleId": "jac-t50-1-6-16v-5p-aut-2020-gasolina",
+      "fipeCodigo": "080020-1",
+      "displayName": "JAC T50 1.6 16V 5p Aut.",
+      "valorAtual": 68126,
+      "canonicalPath": "/fipe/jac/t50-1-6-16v-5p-aut-2020-080020-1/",
+      "ano": 2020,
+      "marca": "JAC"
+    },
+    {
+      "vehicleId": "jac-t50-1-6-16v-5p-aut-2021-gasolina",
+      "fipeCodigo": "080020-1",
+      "displayName": "JAC T50 1.6 16V 5p Aut.",
+      "valorAtual": 73710,
+      "canonicalPath": "/fipe/jac/t50-1-6-16v-5p-aut-2021-080020-1/",
+      "ano": 2021,
+      "marca": "JAC"
+    },
+    {
+      "vehicleId": "jac-t50-plus-1-6-16v-5p-aut-2021-gasolina",
+      "fipeCodigo": "080028-7",
+      "displayName": "JAC T50 PLUS 1.6 16V 5p Aut.",
+      "valorAtual": 69536,
+      "canonicalPath": "/fipe/jac/t50-plus-1-6-16v-5p-aut-2021-080028-7/",
+      "ano": 2021,
+      "marca": "JAC"
+    },
+    {
+      "vehicleId": "jac-t50-plus-1-6-16v-5p-aut-2022-gasolina",
+      "fipeCodigo": "080028-7",
+      "displayName": "JAC T50 PLUS 1.6 16V 5p Aut.",
+      "valorAtual": 78103,
+      "canonicalPath": "/fipe/jac/t50-plus-1-6-16v-5p-aut-2022-080028-7/",
+      "ano": 2022,
+      "marca": "JAC"
+    }
+  ],
+  "stats": {
+    "total": 7
+  },
+  "meta": {
+    "geracaoId": "t50-1"
+  }
+}

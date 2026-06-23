@@ -1,0 +1,75 @@
+{
+  "tipo": "geracao",
+  "slug": "316-2",
+  "canonicalPath": "/geracao/bmw/316-2/",
+  "titulo": "Geracao 316-2",
+  "descricao": "6 veiculos da geracao 316-2.",
+  "seo": {
+    "title": "Geracao 316-2 - Precos FIPE",
+    "description": "Veiculos da geracao 316-2 na Tabela FIPE.",
+    "h1": "Geracao 316-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/bmw/316-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "bmw-316-todas-1990-gasolina",
+      "fipeCodigo": "009059-0",
+      "displayName": "BMW 316 (todas)",
+      "valorAtual": 10179,
+      "canonicalPath": "/fipe/bmw/316-todas-1990-009059-0/",
+      "ano": 1990,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-316-todas-1991-gasolina",
+      "fipeCodigo": "009059-0",
+      "displayName": "BMW 316 (todas)",
+      "valorAtual": 10434,
+      "canonicalPath": "/fipe/bmw/316-todas-1991-009059-0/",
+      "ano": 1991,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-316-todas-1992-gasolina",
+      "fipeCodigo": "009059-0",
+      "displayName": "BMW 316 (todas)",
+      "valorAtual": 10695,
+      "canonicalPath": "/fipe/bmw/316-todas-1992-009059-0/",
+      "ano": 1992,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-316-todas-1993-gasolina",
+      "fipeCodigo": "009059-0",
+      "displayName": "BMW 316 (todas)",
+      "valorAtual": 10963,
+      "canonicalPath": "/fipe/bmw/316-todas-1993-009059-0/",
+      "ano": 1993,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-316-todas-1994-gasolina",
+      "fipeCodigo": "009059-0",
+      "displayName": "BMW 316 (todas)",
+      "valorAtual": 11945,
+      "canonicalPath": "/fipe/bmw/316-todas-1994-009059-0/",
+      "ano": 1994,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-316-todas-1995-gasolina",
+      "fipeCodigo": "009059-0",
+      "displayName": "BMW 316 (todas)",
+      "valorAtual": 13254,
+      "canonicalPath": "/fipe/bmw/316-todas-1995-009059-0/",
+      "ano": 1995,
+      "marca": "BMW"
+    }
+  ],
+  "stats": {
+    "total": 6
+  },
+  "meta": {
+    "geracaoId": "316-2"
+  }
+}

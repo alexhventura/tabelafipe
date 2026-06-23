@@ -1,0 +1,72 @@
+{
+  "tipo": "familia",
+  "slug": "paseo",
+  "canonicalPath": "/fipe/toyota/paseo/",
+  "titulo": "Toyota paseo - Tabela FIPE",
+  "descricao": "5 versoes e anos do Toyota paseo na Tabela FIPE.",
+  "seo": {
+    "title": "Toyota paseo - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes Toyota paseo. 5 veiculos indexados.",
+    "h1": "Toyota paseo - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/toyota/paseo/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "toyota-paseo-1996-gasolina",
+      "fipeCodigo": "002021-4",
+      "displayName": "Toyota Paseo",
+      "valorAtual": 38101,
+      "canonicalPath": "/fipe/toyota/paseo-1996-002021-4/",
+      "ano": 1996,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-paseo-1995-gasolina",
+      "fipeCodigo": "002021-4",
+      "displayName": "Toyota Paseo",
+      "valorAtual": 37171,
+      "canonicalPath": "/fipe/toyota/paseo-1995-002021-4/",
+      "ano": 1995,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-paseo-1994-gasolina",
+      "fipeCodigo": "002021-4",
+      "displayName": "Toyota Paseo",
+      "valorAtual": 36264,
+      "canonicalPath": "/fipe/toyota/paseo-1994-002021-4/",
+      "ano": 1994,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-paseo-1993-gasolina",
+      "fipeCodigo": "002021-4",
+      "displayName": "Toyota Paseo",
+      "valorAtual": 29721,
+      "canonicalPath": "/fipe/toyota/paseo-1993-002021-4/",
+      "ano": 1993,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-paseo-1992-gasolina",
+      "fipeCodigo": "002021-4",
+      "displayName": "Toyota Paseo",
+      "valorAtual": 28797,
+      "canonicalPath": "/fipe/toyota/paseo-1992-002021-4/",
+      "ano": 1992,
+      "marca": "Toyota"
+    }
+  ],
+  "stats": {
+    "total": 5,
+    "precoMin": 28797,
+    "precoMax": 38101,
+    "anos": [
+      1996,
+      1995,
+      1994,
+      1993,
+      1992
+    ]
+  }
+}

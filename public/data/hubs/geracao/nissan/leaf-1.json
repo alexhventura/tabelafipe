@@ -1,0 +1,75 @@
+{
+  "tipo": "geracao",
+  "slug": "leaf-1",
+  "canonicalPath": "/geracao/nissan/leaf-1/",
+  "titulo": "Geracao leaf-1",
+  "descricao": "6 veiculos da geracao leaf-1.",
+  "seo": {
+    "title": "Geracao leaf-1 - Precos FIPE",
+    "description": "Veiculos da geracao leaf-1 na Tabela FIPE.",
+    "h1": "Geracao leaf-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/nissan/leaf-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "nissan-leaf-aut-eletrico-2020-eletrico",
+      "fipeCodigo": "023163-0",
+      "displayName": "Nissan LEAF Aut. (Elétrico)",
+      "valorAtual": 90497,
+      "canonicalPath": "/fipe/nissan/leaf-aut-eletrico-2020-023163-0/",
+      "ano": 2020,
+      "marca": "Nissan"
+    },
+    {
+      "vehicleId": "nissan-leaf-aut-eletrico-2021-eletrico",
+      "fipeCodigo": "023163-0",
+      "displayName": "Nissan LEAF Aut. (Elétrico)",
+      "valorAtual": 93852,
+      "canonicalPath": "/fipe/nissan/leaf-aut-eletrico-2021-023163-0/",
+      "ano": 2021,
+      "marca": "Nissan"
+    },
+    {
+      "vehicleId": "nissan-leaf-aut-eletrico-2022-eletrico",
+      "fipeCodigo": "023163-0",
+      "displayName": "Nissan LEAF Aut. (Elétrico)",
+      "valorAtual": 96199,
+      "canonicalPath": "/fipe/nissan/leaf-aut-eletrico-2022-023163-0/",
+      "ano": 2022,
+      "marca": "Nissan"
+    },
+    {
+      "vehicleId": "nissan-leaf-aut-eletrico-2023-eletrico",
+      "fipeCodigo": "023163-0",
+      "displayName": "Nissan LEAF Aut. (Elétrico)",
+      "valorAtual": 106886,
+      "canonicalPath": "/fipe/nissan/leaf-aut-eletrico-2023-023163-0/",
+      "ano": 2023,
+      "marca": "Nissan"
+    },
+    {
+      "vehicleId": "nissan-leaf-aut-eletrico-2024-eletrico",
+      "fipeCodigo": "023163-0",
+      "displayName": "Nissan LEAF Aut. (Elétrico)",
+      "valorAtual": 129832,
+      "canonicalPath": "/fipe/nissan/leaf-aut-eletrico-2024-023163-0/",
+      "ano": 2024,
+      "marca": "Nissan"
+    },
+    {
+      "vehicleId": "nissan-leaf-aut-eletrico-2025-eletrico",
+      "fipeCodigo": "023163-0",
+      "displayName": "Nissan LEAF Aut. (Elétrico)",
+      "valorAtual": 147726,
+      "canonicalPath": "/fipe/nissan/leaf-aut-eletrico-2025-023163-0/",
+      "ano": 2025,
+      "marca": "Nissan"
+    }
+  ],
+  "stats": {
+    "total": 6
+  },
+  "meta": {
+    "geracaoId": "leaf-1"
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "tipo": "geracao",
+  "slug": "1190-1",
+  "canonicalPath": "/geracao/ktm/1190-1/",
+  "titulo": "Geracao 1190-1",
+  "descricao": "5 veiculos da geracao 1190-1.",
+  "seo": {
+    "title": "Geracao 1190-1 - Precos FIPE",
+    "description": "Veiculos da geracao 1190-1 na Tabela FIPE.",
+    "h1": "Geracao 1190-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/ktm/1190-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "ktm-1190-rc8-2009-gasolina",
+      "fipeCodigo": "818029-6",
+      "displayName": "KTM 1190 RC8",
+      "valorAtual": 48832,
+      "canonicalPath": "/fipe/ktm/1190-rc8-2009-818029-6/",
+      "ano": 2009,
+      "marca": "KTM"
+    },
+    {
+      "vehicleId": "ktm-1190-rc8-2010-gasolina",
+      "fipeCodigo": "818029-6",
+      "displayName": "KTM 1190 RC8",
+      "valorAtual": 50053,
+      "canonicalPath": "/fipe/ktm/1190-rc8-2010-818029-6/",
+      "ano": 2010,
+      "marca": "KTM"
+    },
+    {
+      "vehicleId": "ktm-1190-rc8-2011-gasolina",
+      "fipeCodigo": "818029-6",
+      "displayName": "KTM 1190 RC8",
+      "valorAtual": 51319,
+      "canonicalPath": "/fipe/ktm/1190-rc8-2011-818029-6/",
+      "ano": 2011,
+      "marca": "KTM"
+    },
+    {
+      "vehicleId": "ktm-1190-rc8-r-2010-gasolina",
+      "fipeCodigo": "818035-0",
+      "displayName": "KTM 1190 RC8 R",
+      "valorAtual": 62243,
+      "canonicalPath": "/fipe/ktm/1190-rc8-r-2010-818035-0/",
+      "ano": 2010,
+      "marca": "KTM"
+    },
+    {
+      "vehicleId": "ktm-1190-rc8-r-2011-gasolina",
+      "fipeCodigo": "818035-0",
+      "displayName": "KTM 1190 RC8 R",
+      "valorAtual": 63800,
+      "canonicalPath": "/fipe/ktm/1190-rc8-r-2011-818035-0/",
+      "ano": 2011,
+      "marca": "KTM"
+    }
+  ],
+  "stats": {
+    "total": 5
+  },
+  "meta": {
+    "geracaoId": "1190-1"
+  }
+}

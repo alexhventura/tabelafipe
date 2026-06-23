@@ -1,0 +1,57 @@
+{
+  "tipo": "geracao",
+  "slug": "tdr-1",
+  "canonicalPath": "/geracao/yamaha/tdr-1/",
+  "titulo": "Geracao tdr-1",
+  "descricao": "4 veiculos da geracao tdr-1.",
+  "seo": {
+    "title": "Geracao tdr-1 - Precos FIPE",
+    "description": "Veiculos da geracao tdr-1 na Tabela FIPE.",
+    "h1": "Geracao tdr-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/yamaha/tdr-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "yamaha-tdr-180-1990-gasolina",
+      "fipeCodigo": "827021-0",
+      "displayName": "YAMAHA TDR 180",
+      "valorAtual": 2491,
+      "canonicalPath": "/fipe/yamaha/tdr-180-1990-827021-0/",
+      "ano": 1990,
+      "marca": "YAMAHA"
+    },
+    {
+      "vehicleId": "yamaha-tdr-180-1991-gasolina",
+      "fipeCodigo": "827021-0",
+      "displayName": "YAMAHA TDR 180",
+      "valorAtual": 2820,
+      "canonicalPath": "/fipe/yamaha/tdr-180-1991-827021-0/",
+      "ano": 1991,
+      "marca": "YAMAHA"
+    },
+    {
+      "vehicleId": "yamaha-tdr-180-1992-gasolina",
+      "fipeCodigo": "827021-0",
+      "displayName": "YAMAHA TDR 180",
+      "valorAtual": 2898,
+      "canonicalPath": "/fipe/yamaha/tdr-180-1992-827021-0/",
+      "ano": 1992,
+      "marca": "YAMAHA"
+    },
+    {
+      "vehicleId": "yamaha-tdr-180-1993-gasolina",
+      "fipeCodigo": "827021-0",
+      "displayName": "YAMAHA TDR 180",
+      "valorAtual": 2988,
+      "canonicalPath": "/fipe/yamaha/tdr-180-1993-827021-0/",
+      "ano": 1993,
+      "marca": "YAMAHA"
+    }
+  ],
+  "stats": {
+    "total": 4
+  },
+  "meta": {
+    "geracaoId": "tdr-1"
+  }
+}

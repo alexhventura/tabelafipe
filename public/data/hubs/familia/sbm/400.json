@@ -1,0 +1,70 @@
+{
+  "tipo": "familia",
+  "slug": "400",
+  "canonicalPath": "/fipe/sbm/400/",
+  "titulo": "SBM 400 - Tabela FIPE",
+  "descricao": "5 versoes e anos do SBM 400 na Tabela FIPE.",
+  "seo": {
+    "title": "SBM 400 - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes SBM 400. 5 veiculos indexados.",
+    "h1": "SBM 400 - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/sbm/400/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "sbm-400-s-2026-gasolina",
+      "fipeCodigo": "704002-4",
+      "displayName": "SBM 400 S",
+      "valorAtual": 29213,
+      "canonicalPath": "/fipe/sbm/400-s-2026-704002-4/",
+      "ano": 2026,
+      "marca": "SBM"
+    },
+    {
+      "vehicleId": "sbm-400-ss-2026-gasolina",
+      "fipeCodigo": "704006-7",
+      "displayName": "SBM 400 SS",
+      "valorAtual": 32650,
+      "canonicalPath": "/fipe/sbm/400-ss-2026-704006-7/",
+      "ano": 2026,
+      "marca": "SBM"
+    },
+    {
+      "vehicleId": "sbm-400-s-2025-gasolina",
+      "fipeCodigo": "704002-4",
+      "displayName": "SBM 400 S",
+      "valorAtual": 28336,
+      "canonicalPath": "/fipe/sbm/400-s-2025-704002-4/",
+      "ano": 2025,
+      "marca": "SBM"
+    },
+    {
+      "vehicleId": "sbm-400-s-0-gasolina",
+      "fipeCodigo": "704002-4",
+      "displayName": "SBM 400 S",
+      "valorAtual": 33391,
+      "canonicalPath": "/fipe/sbm/400-s-0-704002-4/",
+      "ano": 0,
+      "marca": "SBM"
+    },
+    {
+      "vehicleId": "sbm-400-ss-0-gasolina",
+      "fipeCodigo": "704006-7",
+      "displayName": "SBM 400 SS",
+      "valorAtual": 36881,
+      "canonicalPath": "/fipe/sbm/400-ss-0-704006-7/",
+      "ano": 0,
+      "marca": "SBM"
+    }
+  ],
+  "stats": {
+    "total": 5,
+    "precoMin": 28336,
+    "precoMax": 36881,
+    "anos": [
+      2026,
+      2025,
+      0
+    ]
+  }
+}

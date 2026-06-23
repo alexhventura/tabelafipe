@@ -1,0 +1,106 @@
+{
+  "tipo": "familia",
+  "slug": "b",
+  "canonicalPath": "/fipe/mazda/b/",
+  "titulo": "Mazda b - Tabela FIPE",
+  "descricao": "9 versoes e anos do Mazda b na Tabela FIPE.",
+  "seo": {
+    "title": "Mazda b - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes Mazda b. 9 veiculos indexados.",
+    "h1": "Mazda b - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/mazda/b/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "mazda-b-2500-pick-up-2-5-diesel-2000-diesel",
+      "fipeCodigo": "020010-7",
+      "displayName": "Mazda B-2500 Pick-Up 2.5 Diesel",
+      "valorAtual": 15608,
+      "canonicalPath": "/fipe/mazda/b-2500-pick-up-2-5-diesel-2000-020010-7/",
+      "ano": 2000,
+      "marca": "Mazda"
+    },
+    {
+      "vehicleId": "mazda-b-2500-pick-up-4x4-2-5-diesel-2000-diesel",
+      "fipeCodigo": "020025-5",
+      "displayName": "Mazda B-2500 Pick-Up 4x4 2.5 Diesel",
+      "valorAtual": 19684,
+      "canonicalPath": "/fipe/mazda/b-2500-pick-up-4x4-2-5-diesel-2000-020025-5/",
+      "ano": 2000,
+      "marca": "Mazda"
+    },
+    {
+      "vehicleId": "mazda-b-2500-pick-up-cd-4x4-2-5-diesel-2000-diesel",
+      "fipeCodigo": "020011-5",
+      "displayName": "Mazda B-2500 Pick-Up CD 4x4 2.5 Diesel",
+      "valorAtual": 23366,
+      "canonicalPath": "/fipe/mazda/b-2500-pick-up-cd-4x4-2-5-diesel-2000-020011-5/",
+      "ano": 2000,
+      "marca": "Mazda"
+    },
+    {
+      "vehicleId": "mazda-b-2500-pick-up-2-5-diesel-1999-diesel",
+      "fipeCodigo": "020010-7",
+      "displayName": "Mazda B-2500 Pick-Up 2.5 Diesel",
+      "valorAtual": 13532,
+      "canonicalPath": "/fipe/mazda/b-2500-pick-up-2-5-diesel-1999-020010-7/",
+      "ano": 1999,
+      "marca": "Mazda"
+    },
+    {
+      "vehicleId": "mazda-b-2500-pick-up-4x4-2-5-diesel-1999-diesel",
+      "fipeCodigo": "020025-5",
+      "displayName": "Mazda B-2500 Pick-Up 4x4 2.5 Diesel",
+      "valorAtual": 17012,
+      "canonicalPath": "/fipe/mazda/b-2500-pick-up-4x4-2-5-diesel-1999-020025-5/",
+      "ano": 1999,
+      "marca": "Mazda"
+    },
+    {
+      "vehicleId": "mazda-b-2500-pick-up-cd-4x4-2-5-diesel-1999-diesel",
+      "fipeCodigo": "020011-5",
+      "displayName": "Mazda B-2500 Pick-Up CD 4x4 2.5 Diesel",
+      "valorAtual": 22796,
+      "canonicalPath": "/fipe/mazda/b-2500-pick-up-cd-4x4-2-5-diesel-1999-020011-5/",
+      "ano": 1999,
+      "marca": "Mazda"
+    },
+    {
+      "vehicleId": "mazda-b-2500-pick-up-2-5-diesel-1998-diesel",
+      "fipeCodigo": "020010-7",
+      "displayName": "Mazda B-2500 Pick-Up 2.5 Diesel",
+      "valorAtual": 12315,
+      "canonicalPath": "/fipe/mazda/b-2500-pick-up-2-5-diesel-1998-020010-7/",
+      "ano": 1998,
+      "marca": "Mazda"
+    },
+    {
+      "vehicleId": "mazda-b-2500-pick-up-4x4-2-5-diesel-1998-diesel",
+      "fipeCodigo": "020025-5",
+      "displayName": "Mazda B-2500 Pick-Up 4x4 2.5 Diesel",
+      "valorAtual": 16242,
+      "canonicalPath": "/fipe/mazda/b-2500-pick-up-4x4-2-5-diesel-1998-020025-5/",
+      "ano": 1998,
+      "marca": "Mazda"
+    },
+    {
+      "vehicleId": "mazda-b-2500-pick-up-cd-4x4-2-5-diesel-1998-diesel",
+      "fipeCodigo": "020011-5",
+      "displayName": "Mazda B-2500 Pick-Up CD 4x4 2.5 Diesel",
+      "valorAtual": 19005,
+      "canonicalPath": "/fipe/mazda/b-2500-pick-up-cd-4x4-2-5-diesel-1998-020011-5/",
+      "ano": 1998,
+      "marca": "Mazda"
+    }
+  ],
+  "stats": {
+    "total": 9,
+    "precoMin": 12315,
+    "precoMax": 23366,
+    "anos": [
+      2000,
+      1999,
+      1998
+    ]
+  }
+}

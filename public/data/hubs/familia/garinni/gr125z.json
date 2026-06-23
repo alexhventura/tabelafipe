@@ -1,0 +1,52 @@
+{
+  "tipo": "familia",
+  "slug": "gr125z",
+  "canonicalPath": "/fipe/garinni/gr125z/",
+  "titulo": "GARINNI gr125z - Tabela FIPE",
+  "descricao": "3 versoes e anos do GARINNI gr125z na Tabela FIPE.",
+  "seo": {
+    "title": "GARINNI gr125z - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes GARINNI gr125z. 3 veiculos indexados.",
+    "h1": "GARINNI gr125z - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/garinni/gr125z/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "garinni-gr125z-2008-gasolina",
+      "fipeCodigo": "847002-2",
+      "displayName": "GARINNI GR125Z",
+      "valorAtual": 1688,
+      "canonicalPath": "/fipe/garinni/gr125z-2008-847002-2/",
+      "ano": 2008,
+      "marca": "GARINNI"
+    },
+    {
+      "vehicleId": "garinni-gr125z-2007-gasolina",
+      "fipeCodigo": "847002-2",
+      "displayName": "GARINNI GR125Z",
+      "valorAtual": 1646,
+      "canonicalPath": "/fipe/garinni/gr125z-2007-847002-2/",
+      "ano": 2007,
+      "marca": "GARINNI"
+    },
+    {
+      "vehicleId": "garinni-gr125z-2006-gasolina",
+      "fipeCodigo": "847002-2",
+      "displayName": "GARINNI GR125Z",
+      "valorAtual": 1430,
+      "canonicalPath": "/fipe/garinni/gr125z-2006-847002-2/",
+      "ano": 2006,
+      "marca": "GARINNI"
+    }
+  ],
+  "stats": {
+    "total": 3,
+    "precoMin": 1430,
+    "precoMax": 1688,
+    "anos": [
+      2008,
+      2007,
+      2006
+    ]
+  }
+}

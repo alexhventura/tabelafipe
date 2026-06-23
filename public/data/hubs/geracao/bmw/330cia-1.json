@@ -1,0 +1,75 @@
+{
+  "tipo": "geracao",
+  "slug": "330cia-1",
+  "canonicalPath": "/geracao/bmw/330cia-1/",
+  "titulo": "Geracao 330cia-1",
+  "descricao": "6 veiculos da geracao 330cia-1.",
+  "seo": {
+    "title": "Geracao 330cia-1 - Precos FIPE",
+    "description": "Veiculos da geracao 330cia-1 na Tabela FIPE.",
+    "h1": "Geracao 330cia-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/bmw/330cia-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "bmw-330cia-cabriolet-2001-gasolina",
+      "fipeCodigo": "009087-5",
+      "displayName": "BMW 330CiA Cabriolet",
+      "valorAtual": 70126,
+      "canonicalPath": "/fipe/bmw/330cia-cabriolet-2001-009087-5/",
+      "ano": 2001,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-330cia-cabriolet-2002-gasolina",
+      "fipeCodigo": "009087-5",
+      "displayName": "BMW 330CiA Cabriolet",
+      "valorAtual": 71880,
+      "canonicalPath": "/fipe/bmw/330cia-cabriolet-2002-009087-5/",
+      "ano": 2002,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-330cia-cabriolet-2003-gasolina",
+      "fipeCodigo": "009087-5",
+      "displayName": "BMW 330CiA Cabriolet",
+      "valorAtual": 73677,
+      "canonicalPath": "/fipe/bmw/330cia-cabriolet-2003-009087-5/",
+      "ano": 2003,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-330cia-cabriolet-2004-gasolina",
+      "fipeCodigo": "009087-5",
+      "displayName": "BMW 330CiA Cabriolet",
+      "valorAtual": 77190,
+      "canonicalPath": "/fipe/bmw/330cia-cabriolet-2004-009087-5/",
+      "ano": 2004,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-330cia-cabriolet-2005-gasolina",
+      "fipeCodigo": "009087-5",
+      "displayName": "BMW 330CiA Cabriolet",
+      "valorAtual": 91355,
+      "canonicalPath": "/fipe/bmw/330cia-cabriolet-2005-009087-5/",
+      "ano": 2005,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-330cia-cabriolet-2006-gasolina",
+      "fipeCodigo": "009087-5",
+      "displayName": "BMW 330CiA Cabriolet",
+      "valorAtual": 94179,
+      "canonicalPath": "/fipe/bmw/330cia-cabriolet-2006-009087-5/",
+      "ano": 2006,
+      "marca": "BMW"
+    }
+  ],
+  "stats": {
+    "total": 6
+  },
+  "meta": {
+    "geracaoId": "330cia-1"
+  }
+}

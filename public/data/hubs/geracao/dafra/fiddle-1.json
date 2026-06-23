@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "fiddle-1",
+  "canonicalPath": "/geracao/dafra/fiddle-1/",
+  "titulo": "Geracao fiddle-1",
+  "descricao": "2 veiculos da geracao fiddle-1.",
+  "seo": {
+    "title": "Geracao fiddle-1 - Precos FIPE",
+    "description": "Veiculos da geracao fiddle-1 na Tabela FIPE.",
+    "h1": "Geracao fiddle-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/dafra/fiddle-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "dafra-fiddle-iii-125-2017-gasolina",
+      "fipeCodigo": "861023-1",
+      "displayName": "DAFRA FIDDLE III 125",
+      "valorAtual": 8534,
+      "canonicalPath": "/fipe/dafra/fiddle-iii-125-2017-861023-1/",
+      "ano": 2017,
+      "marca": "DAFRA"
+    },
+    {
+      "vehicleId": "dafra-fiddle-iii-125-2018-gasolina",
+      "fipeCodigo": "861023-1",
+      "displayName": "DAFRA FIDDLE III 125",
+      "valorAtual": 9668,
+      "canonicalPath": "/fipe/dafra/fiddle-iii-125-2018-861023-1/",
+      "ano": 2018,
+      "marca": "DAFRA"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "fiddle-1"
+  }
+}

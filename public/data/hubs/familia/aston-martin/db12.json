@@ -1,0 +1,89 @@
+{
+  "tipo": "familia",
+  "slug": "db12",
+  "canonicalPath": "/fipe/aston-martin/db12/",
+  "titulo": "ASTON MARTIN db12 - Tabela FIPE",
+  "descricao": "7 versoes e anos do ASTON MARTIN db12 na Tabela FIPE.",
+  "seo": {
+    "title": "ASTON MARTIN db12 - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes ASTON MARTIN db12. 7 veiculos indexados.",
+    "h1": "ASTON MARTIN db12 - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/aston-martin/db12/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "aston-martin-db12-coupe-4-0-v8-680cv-2026-gasolina",
+      "fipeCodigo": "085018-7",
+      "displayName": "ASTON MARTIN DB12 Coupe 4.0 V8 680cv",
+      "valorAtual": 3246198,
+      "canonicalPath": "/fipe/aston-martin/db12-coupe-4-0-v8-680cv-2026-085018-7/",
+      "ano": 2026,
+      "marca": "ASTON MARTIN"
+    },
+    {
+      "vehicleId": "aston-martin-db12-volante-4-0-v8-680cv-2026-gasolina",
+      "fipeCodigo": "085019-5",
+      "displayName": "ASTON MARTIN DB12 Volante 4.0 V8 680cv",
+      "valorAtual": 3578998,
+      "canonicalPath": "/fipe/aston-martin/db12-volante-4-0-v8-680cv-2026-085019-5/",
+      "ano": 2026,
+      "marca": "ASTON MARTIN"
+    },
+    {
+      "vehicleId": "aston-martin-db12-coupe-4-0-v8-680cv-2025-gasolina",
+      "fipeCodigo": "085018-7",
+      "displayName": "ASTON MARTIN DB12 Coupe 4.0 V8 680cv",
+      "valorAtual": 3149394,
+      "canonicalPath": "/fipe/aston-martin/db12-coupe-4-0-v8-680cv-2025-085018-7/",
+      "ano": 2025,
+      "marca": "ASTON MARTIN"
+    },
+    {
+      "vehicleId": "aston-martin-db12-volante-4-0-v8-680cv-2025-gasolina",
+      "fipeCodigo": "085019-5",
+      "displayName": "ASTON MARTIN DB12 Volante 4.0 V8 680cv",
+      "valorAtual": 3473248,
+      "canonicalPath": "/fipe/aston-martin/db12-volante-4-0-v8-680cv-2025-085019-5/",
+      "ano": 2025,
+      "marca": "ASTON MARTIN"
+    },
+    {
+      "vehicleId": "aston-martin-db12-coupe-4-0-v8-680cv-2024-gasolina",
+      "fipeCodigo": "085018-7",
+      "displayName": "ASTON MARTIN DB12 Coupe 4.0 V8 680cv",
+      "valorAtual": 2995073,
+      "canonicalPath": "/fipe/aston-martin/db12-coupe-4-0-v8-680cv-2024-085018-7/",
+      "ano": 2024,
+      "marca": "ASTON MARTIN"
+    },
+    {
+      "vehicleId": "aston-martin-db12-coupe-4-0-v8-680cv-0-gasolina",
+      "fipeCodigo": "085018-7",
+      "displayName": "ASTON MARTIN DB12 Coupe 4.0 V8 680cv",
+      "valorAtual": 3500000,
+      "canonicalPath": "/fipe/aston-martin/db12-coupe-4-0-v8-680cv-0-085018-7/",
+      "ano": 0,
+      "marca": "ASTON MARTIN"
+    },
+    {
+      "vehicleId": "aston-martin-db12-volante-4-0-v8-680cv-0-gasolina",
+      "fipeCodigo": "085019-5",
+      "displayName": "ASTON MARTIN DB12 Volante 4.0 V8 680cv",
+      "valorAtual": 3800000,
+      "canonicalPath": "/fipe/aston-martin/db12-volante-4-0-v8-680cv-0-085019-5/",
+      "ano": 0,
+      "marca": "ASTON MARTIN"
+    }
+  ],
+  "stats": {
+    "total": 7,
+    "precoMin": 2995073,
+    "precoMax": 3800000,
+    "anos": [
+      2026,
+      2025,
+      2024,
+      0
+    ]
+  }
+}

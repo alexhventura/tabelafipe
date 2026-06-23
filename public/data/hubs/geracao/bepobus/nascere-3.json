@@ -1,0 +1,75 @@
+{
+  "tipo": "geracao",
+  "slug": "nascere-3",
+  "canonicalPath": "/geracao/bepobus/nascere-3/",
+  "titulo": "Geracao nascere-3",
+  "descricao": "6 veiculos da geracao nascere-3.",
+  "seo": {
+    "title": "Geracao nascere-3 - Precos FIPE",
+    "description": "Veiculos da geracao nascere-3 na Tabela FIPE.",
+    "h1": "Geracao nascere-3",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/bepobus/nascere-3/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "bepobus-nascere-fretamento-diesel-e5-2022-diesel",
+      "fipeCodigo": "531002-4",
+      "displayName": "BEPOBUS NÀSCERE FRETAMENTO (diesel)(E5)",
+      "valorAtual": 331725,
+      "canonicalPath": "/fipe/bepobus/nascere-fretamento-diesel-e5-2022-531002-4/",
+      "ano": 2022,
+      "marca": "BEPOBUS"
+    },
+    {
+      "vehicleId": "bepobus-nascere-fretamento-diesel-e5-2023-diesel",
+      "fipeCodigo": "531002-4",
+      "displayName": "BEPOBUS NÀSCERE FRETAMENTO (diesel)(E5)",
+      "valorAtual": 357011,
+      "canonicalPath": "/fipe/bepobus/nascere-fretamento-diesel-e5-2023-531002-4/",
+      "ano": 2023,
+      "marca": "BEPOBUS"
+    },
+    {
+      "vehicleId": "bepobus-nascere-rodoviario-diesel-e5-2022-diesel",
+      "fipeCodigo": "531003-2",
+      "displayName": "BEPOBUS NÀSCERE RODOVIÁRIO (diesel)(E5)",
+      "valorAtual": 350915,
+      "canonicalPath": "/fipe/bepobus/nascere-rodoviario-diesel-e5-2022-531003-2/",
+      "ano": 2022,
+      "marca": "BEPOBUS"
+    },
+    {
+      "vehicleId": "bepobus-nascere-rodoviario-diesel-e5-2023-diesel",
+      "fipeCodigo": "531003-2",
+      "displayName": "BEPOBUS NÀSCERE RODOVIÁRIO (diesel)(E5)",
+      "valorAtual": 372202,
+      "canonicalPath": "/fipe/bepobus/nascere-rodoviario-diesel-e5-2023-531003-2/",
+      "ano": 2023,
+      "marca": "BEPOBUS"
+    },
+    {
+      "vehicleId": "bepobus-nascere-urbano-diesel-e5-2022-diesel",
+      "fipeCodigo": "531001-6",
+      "displayName": "BEPOBUS NÀSCERE URBANO (diesel)(E5)",
+      "valorAtual": 320528,
+      "canonicalPath": "/fipe/bepobus/nascere-urbano-diesel-e5-2022-531001-6/",
+      "ano": 2022,
+      "marca": "BEPOBUS"
+    },
+    {
+      "vehicleId": "bepobus-nascere-urbano-diesel-e5-2023-diesel",
+      "fipeCodigo": "531001-6",
+      "displayName": "BEPOBUS NÀSCERE URBANO (diesel)(E5)",
+      "valorAtual": 345357,
+      "canonicalPath": "/fipe/bepobus/nascere-urbano-diesel-e5-2023-531001-6/",
+      "ano": 2023,
+      "marca": "BEPOBUS"
+    }
+  ],
+  "stats": {
+    "total": 6
+  },
+  "meta": {
+    "geracaoId": "nascere-3"
+  }
+}

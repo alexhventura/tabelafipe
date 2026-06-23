@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "vxl-2",
+  "canonicalPath": "/geracao/vespa/vxl-2/",
+  "titulo": "Geracao vxl-2",
+  "descricao": "2 veiculos da geracao vxl-2.",
+  "seo": {
+    "title": "Geracao vxl-2 - Precos FIPE",
+    "description": "Veiculos da geracao vxl-2 na Tabela FIPE.",
+    "h1": "Geracao vxl-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/vespa/vxl-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "vespa-vxl-150-2025-gasolina",
+      "fipeCodigo": "898001-2",
+      "displayName": "VESPA VXL 150",
+      "valorAtual": 29401,
+      "canonicalPath": "/fipe/vespa/vxl-150-2025-898001-2/",
+      "ano": 2025,
+      "marca": "VESPA"
+    },
+    {
+      "vehicleId": "vespa-vxl-dual-150-2025-gasolina",
+      "fipeCodigo": "898003-9",
+      "displayName": "VESPA VXL Dual 150",
+      "valorAtual": 30384,
+      "canonicalPath": "/fipe/vespa/vxl-dual-150-2025-898003-9/",
+      "ano": 2025,
+      "marca": "VESPA"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "vxl-2"
+  }
+}

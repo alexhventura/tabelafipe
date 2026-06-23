@@ -1,0 +1,52 @@
+{
+  "tipo": "familia",
+  "slug": "t80",
+  "canonicalPath": "/fipe/jac/t80/",
+  "titulo": "JAC t80 - Tabela FIPE",
+  "descricao": "3 versoes e anos do JAC t80 na Tabela FIPE.",
+  "seo": {
+    "title": "JAC t80 - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes JAC t80. 3 veiculos indexados.",
+    "h1": "JAC t80 - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/jac/t80/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "jac-t80-2-0-turbo-16v-5p-aut-2020-gasolina",
+      "fipeCodigo": "080021-0",
+      "displayName": "JAC T80 2.0 Turbo 16V 5p Aut.",
+      "valorAtual": 99589,
+      "canonicalPath": "/fipe/jac/t80-2-0-turbo-16v-5p-aut-2020-080021-0/",
+      "ano": 2020,
+      "marca": "JAC"
+    },
+    {
+      "vehicleId": "jac-t80-2-0-turbo-16v-5p-aut-2019-gasolina",
+      "fipeCodigo": "080021-0",
+      "displayName": "JAC T80 2.0 Turbo 16V 5p Aut.",
+      "valorAtual": 95933,
+      "canonicalPath": "/fipe/jac/t80-2-0-turbo-16v-5p-aut-2019-080021-0/",
+      "ano": 2019,
+      "marca": "JAC"
+    },
+    {
+      "vehicleId": "jac-t80-2-0-turbo-16v-5p-aut-2018-gasolina",
+      "fipeCodigo": "080021-0",
+      "displayName": "JAC T80 2.0 Turbo 16V 5p Aut.",
+      "valorAtual": 93460,
+      "canonicalPath": "/fipe/jac/t80-2-0-turbo-16v-5p-aut-2018-080021-0/",
+      "ano": 2018,
+      "marca": "JAC"
+    }
+  ],
+  "stats": {
+    "total": 3,
+    "precoMin": 93460,
+    "precoMax": 99589,
+    "anos": [
+      2020,
+      2019,
+      2018
+    ]
+  }
+}

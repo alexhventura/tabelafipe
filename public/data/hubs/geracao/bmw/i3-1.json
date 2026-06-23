@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "i3-1",
+  "canonicalPath": "/geracao/bmw/i3-1/",
+  "titulo": "Geracao i3-1",
+  "descricao": "2 veiculos da geracao i3-1.",
+  "seo": {
+    "title": "Geracao i3-1 - Precos FIPE",
+    "description": "Veiculos da geracao i3-1 na Tabela FIPE.",
+    "h1": "Geracao i3-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/bmw/i3-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "bmw-i3-rex-e-drive-170cv-aut-eletrico-2015-eletrico",
+      "fipeCodigo": "009196-0",
+      "displayName": "BMW i3 Rex E Drive 170cv Aut.(Elétrico)",
+      "valorAtual": 103495,
+      "canonicalPath": "/fipe/bmw/i3-rex-e-drive-170cv-aut-eletrico-2015-009196-0/",
+      "ano": 2015,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-i3-rex-e-drive-full-170cv-aut-eletrico-2015-eletrico",
+      "fipeCodigo": "009195-2",
+      "displayName": "BMW i3 Rex E Drive Full 170cv Aut.(Elétrico)",
+      "valorAtual": 108278,
+      "canonicalPath": "/fipe/bmw/i3-rex-e-drive-full-170cv-aut-eletrico-2015-009195-2/",
+      "ano": 2015,
+      "marca": "BMW"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "i3-1"
+  }
+}

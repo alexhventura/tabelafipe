@@ -1,0 +1,102 @@
+{
+  "tipo": "geracao",
+  "slug": "verona-1",
+  "canonicalPath": "/geracao/ford/verona-1/",
+  "titulo": "Geracao verona-1",
+  "descricao": "9 veiculos da geracao verona-1.",
+  "seo": {
+    "title": "Geracao verona-1 - Precos FIPE",
+    "description": "Veiculos da geracao verona-1 na Tabela FIPE.",
+    "h1": "Geracao verona-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/ford/verona-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "ford-verona-glx-1-8-modelo-antigo-1990-gasolina",
+      "fipeCodigo": "003069-4",
+      "displayName": "Ford Verona GLX 1.8 (Modelo antigo)",
+      "valorAtual": 7537,
+      "canonicalPath": "/fipe/ford/verona-glx-1-8-modelo-antigo-1990-003069-4/",
+      "ano": 1990,
+      "marca": "Ford"
+    },
+    {
+      "vehicleId": "ford-verona-glx-1-8-modelo-antigo-1991-gasolina",
+      "fipeCodigo": "003069-4",
+      "displayName": "Ford Verona GLX 1.8 (Modelo antigo)",
+      "valorAtual": 7726,
+      "canonicalPath": "/fipe/ford/verona-glx-1-8-modelo-antigo-1991-003069-4/",
+      "ano": 1991,
+      "marca": "Ford"
+    },
+    {
+      "vehicleId": "ford-verona-glx-1-8-modelo-antigo-1992-gasolina",
+      "fipeCodigo": "003069-4",
+      "displayName": "Ford Verona GLX 1.8 (Modelo antigo)",
+      "valorAtual": 8203,
+      "canonicalPath": "/fipe/ford/verona-glx-1-8-modelo-antigo-1992-003069-4/",
+      "ano": 1992,
+      "marca": "Ford"
+    },
+    {
+      "vehicleId": "ford-verona-lx-1-6-modelo-antigo-1990-gasolina",
+      "fipeCodigo": "003067-8",
+      "displayName": "Ford Verona LX 1.6 (Modelo antigo)",
+      "valorAtual": 6584,
+      "canonicalPath": "/fipe/ford/verona-lx-1-6-modelo-antigo-1990-003067-8/",
+      "ano": 1990,
+      "marca": "Ford"
+    },
+    {
+      "vehicleId": "ford-verona-lx-1-6-modelo-antigo-1991-gasolina",
+      "fipeCodigo": "003067-8",
+      "displayName": "Ford Verona LX 1.6 (Modelo antigo)",
+      "valorAtual": 6927,
+      "canonicalPath": "/fipe/ford/verona-lx-1-6-modelo-antigo-1991-003067-8/",
+      "ano": 1991,
+      "marca": "Ford"
+    },
+    {
+      "vehicleId": "ford-verona-lx-1-6-modelo-antigo-1992-gasolina",
+      "fipeCodigo": "003067-8",
+      "displayName": "Ford Verona LX 1.6 (Modelo antigo)",
+      "valorAtual": 7319,
+      "canonicalPath": "/fipe/ford/verona-lx-1-6-modelo-antigo-1992-003067-8/",
+      "ano": 1992,
+      "marca": "Ford"
+    },
+    {
+      "vehicleId": "ford-verona-lx-1-8-modelo-antigo-1990-gasolina",
+      "fipeCodigo": "003068-6",
+      "displayName": "Ford Verona LX 1.8 (Modelo antigo)",
+      "valorAtual": 7373,
+      "canonicalPath": "/fipe/ford/verona-lx-1-8-modelo-antigo-1990-003068-6/",
+      "ano": 1990,
+      "marca": "Ford"
+    },
+    {
+      "vehicleId": "ford-verona-lx-1-8-modelo-antigo-1991-gasolina",
+      "fipeCodigo": "003068-6",
+      "displayName": "Ford Verona LX 1.8 (Modelo antigo)",
+      "valorAtual": 7558,
+      "canonicalPath": "/fipe/ford/verona-lx-1-8-modelo-antigo-1991-003068-6/",
+      "ano": 1991,
+      "marca": "Ford"
+    },
+    {
+      "vehicleId": "ford-verona-lx-1-8-modelo-antigo-1992-gasolina",
+      "fipeCodigo": "003068-6",
+      "displayName": "Ford Verona LX 1.8 (Modelo antigo)",
+      "valorAtual": 8158,
+      "canonicalPath": "/fipe/ford/verona-lx-1-8-modelo-antigo-1992-003068-6/",
+      "ano": 1992,
+      "marca": "Ford"
+    }
+  ],
+  "stats": {
+    "total": 9
+  },
+  "meta": {
+    "geracaoId": "verona-1"
+  }
+}

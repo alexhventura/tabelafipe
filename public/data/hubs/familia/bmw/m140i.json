@@ -1,0 +1,52 @@
+{
+  "tipo": "familia",
+  "slug": "m140i",
+  "canonicalPath": "/fipe/bmw/m140i/",
+  "titulo": "BMW m140i - Tabela FIPE",
+  "descricao": "3 versoes e anos do BMW m140i na Tabela FIPE.",
+  "seo": {
+    "title": "BMW m140i - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes BMW m140i. 3 veiculos indexados.",
+    "h1": "BMW m140i - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/bmw/m140i/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "bmw-m140i-3-0-24v-340cv-5p-2019-gasolina",
+      "fipeCodigo": "009222-3",
+      "displayName": "BMW M140i 3.0  24V 340cv 5p",
+      "valorAtual": 291285,
+      "canonicalPath": "/fipe/bmw/m140i-3-0-24v-340cv-5p-2019-009222-3/",
+      "ano": 2019,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-m140i-3-0-24v-340cv-5p-2018-gasolina",
+      "fipeCodigo": "009222-3",
+      "displayName": "BMW M140i 3.0  24V 340cv 5p",
+      "valorAtual": 252663,
+      "canonicalPath": "/fipe/bmw/m140i-3-0-24v-340cv-5p-2018-009222-3/",
+      "ano": 2018,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-m140i-3-0-24v-340cv-5p-2017-gasolina",
+      "fipeCodigo": "009222-3",
+      "displayName": "BMW M140i 3.0  24V 340cv 5p",
+      "valorAtual": 246500,
+      "canonicalPath": "/fipe/bmw/m140i-3-0-24v-340cv-5p-2017-009222-3/",
+      "ano": 2017,
+      "marca": "BMW"
+    }
+  ],
+  "stats": {
+    "total": 3,
+    "precoMin": 246500,
+    "precoMax": 291285,
+    "anos": [
+      2019,
+      2018,
+      2017
+    ]
+  }
+}

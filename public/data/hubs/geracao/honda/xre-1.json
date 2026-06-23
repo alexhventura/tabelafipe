@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "xre-1",
+  "canonicalPath": "/geracao/honda/xre-1/",
+  "titulo": "Geracao xre-1",
+  "descricao": "2 veiculos da geracao xre-1.",
+  "seo": {
+    "title": "Geracao xre-1 - Precos FIPE",
+    "description": "Veiculos da geracao xre-1 na Tabela FIPE.",
+    "h1": "Geracao xre-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/honda/xre-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "honda-xre-190-adventure-flex-0-flex",
+      "fipeCodigo": "811161-8",
+      "displayName": "HONDA XRE 190 ADVENTURE FLEX",
+      "valorAtual": 28785,
+      "canonicalPath": "/fipe/honda/xre-190-adventure-flex-0-811161-8/",
+      "ano": 0,
+      "marca": "HONDA"
+    },
+    {
+      "vehicleId": "honda-xre-190-flex-0-gasolina",
+      "fipeCodigo": "811141-3",
+      "displayName": "HONDA XRE 190/ Flex",
+      "valorAtual": 28431,
+      "canonicalPath": "/fipe/honda/xre-190-flex-0-811141-3/",
+      "ano": 0,
+      "marca": "HONDA"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "xre-1"
+  }
+}

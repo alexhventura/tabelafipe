@@ -1,0 +1,102 @@
+{
+  "tipo": "geracao",
+  "slug": "nascere-2",
+  "canonicalPath": "/geracao/bepobus/nascere-2/",
+  "titulo": "Geracao nascere-2",
+  "descricao": "9 veiculos da geracao nascere-2.",
+  "seo": {
+    "title": "Geracao nascere-2 - Precos FIPE",
+    "description": "Veiculos da geracao nascere-2 na Tabela FIPE.",
+    "h1": "Geracao nascere-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/bepobus/nascere-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "bepobus-nascere-fretamento-diesel-e5-2018-diesel",
+      "fipeCodigo": "531002-4",
+      "displayName": "BEPOBUS NÀSCERE FRETAMENTO (diesel)(E5)",
+      "valorAtual": 237376,
+      "canonicalPath": "/fipe/bepobus/nascere-fretamento-diesel-e5-2018-531002-4/",
+      "ano": 2018,
+      "marca": "BEPOBUS"
+    },
+    {
+      "vehicleId": "bepobus-nascere-fretamento-diesel-e5-2019-diesel",
+      "fipeCodigo": "531002-4",
+      "displayName": "BEPOBUS NÀSCERE FRETAMENTO (diesel)(E5)",
+      "valorAtual": 281881,
+      "canonicalPath": "/fipe/bepobus/nascere-fretamento-diesel-e5-2019-531002-4/",
+      "ano": 2019,
+      "marca": "BEPOBUS"
+    },
+    {
+      "vehicleId": "bepobus-nascere-fretamento-diesel-e5-2020-diesel",
+      "fipeCodigo": "531002-4",
+      "displayName": "BEPOBUS NÀSCERE FRETAMENTO (diesel)(E5)",
+      "valorAtual": 307888,
+      "canonicalPath": "/fipe/bepobus/nascere-fretamento-diesel-e5-2020-531002-4/",
+      "ano": 2020,
+      "marca": "BEPOBUS"
+    },
+    {
+      "vehicleId": "bepobus-nascere-rodoviario-diesel-e5-2018-diesel",
+      "fipeCodigo": "531003-2",
+      "displayName": "BEPOBUS NÀSCERE RODOVIÁRIO (diesel)(E5)",
+      "valorAtual": 238337,
+      "canonicalPath": "/fipe/bepobus/nascere-rodoviario-diesel-e5-2018-531003-2/",
+      "ano": 2018,
+      "marca": "BEPOBUS"
+    },
+    {
+      "vehicleId": "bepobus-nascere-rodoviario-diesel-e5-2019-diesel",
+      "fipeCodigo": "531003-2",
+      "displayName": "BEPOBUS NÀSCERE RODOVIÁRIO (diesel)(E5)",
+      "valorAtual": 282983,
+      "canonicalPath": "/fipe/bepobus/nascere-rodoviario-diesel-e5-2019-531003-2/",
+      "ano": 2019,
+      "marca": "BEPOBUS"
+    },
+    {
+      "vehicleId": "bepobus-nascere-rodoviario-diesel-e5-2020-diesel",
+      "fipeCodigo": "531003-2",
+      "displayName": "BEPOBUS NÀSCERE RODOVIÁRIO (diesel)(E5)",
+      "valorAtual": 310379,
+      "canonicalPath": "/fipe/bepobus/nascere-rodoviario-diesel-e5-2020-531003-2/",
+      "ano": 2020,
+      "marca": "BEPOBUS"
+    },
+    {
+      "vehicleId": "bepobus-nascere-urbano-diesel-e5-2018-diesel",
+      "fipeCodigo": "531001-6",
+      "displayName": "BEPOBUS NÀSCERE URBANO (diesel)(E5)",
+      "valorAtual": 197322,
+      "canonicalPath": "/fipe/bepobus/nascere-urbano-diesel-e5-2018-531001-6/",
+      "ano": 2018,
+      "marca": "BEPOBUS"
+    },
+    {
+      "vehicleId": "bepobus-nascere-urbano-diesel-e5-2019-diesel",
+      "fipeCodigo": "531001-6",
+      "displayName": "BEPOBUS NÀSCERE URBANO (diesel)(E5)",
+      "valorAtual": 237056,
+      "canonicalPath": "/fipe/bepobus/nascere-urbano-diesel-e5-2019-531001-6/",
+      "ano": 2019,
+      "marca": "BEPOBUS"
+    },
+    {
+      "vehicleId": "bepobus-nascere-urbano-diesel-e5-2020-diesel",
+      "fipeCodigo": "531001-6",
+      "displayName": "BEPOBUS NÀSCERE URBANO (diesel)(E5)",
+      "valorAtual": 258267,
+      "canonicalPath": "/fipe/bepobus/nascere-urbano-diesel-e5-2020-531001-6/",
+      "ano": 2020,
+      "marca": "BEPOBUS"
+    }
+  ],
+  "stats": {
+    "total": 9
+  },
+  "meta": {
+    "geracaoId": "nascere-2"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "tipo": "geracao",
+  "slug": "te-4",
+  "canonicalPath": "/geracao/husqvarna/te-4/",
+  "titulo": "Geracao te-4",
+  "descricao": "4 veiculos da geracao te-4.",
+  "seo": {
+    "title": "Geracao te-4 - Precos FIPE",
+    "description": "Veiculos da geracao te-4 na Tabela FIPE.",
+    "h1": "Geracao te-4",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/husqvarna/te-4/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "husqvarna-te-510-2007-gasolina",
+      "fipeCodigo": "812020-0",
+      "displayName": "HUSQVARNA TE 510",
+      "valorAtual": 15439,
+      "canonicalPath": "/fipe/husqvarna/te-510-2007-812020-0/",
+      "ano": 2007,
+      "marca": "HUSQVARNA"
+    },
+    {
+      "vehicleId": "husqvarna-te-510-2008-gasolina",
+      "fipeCodigo": "812020-0",
+      "displayName": "HUSQVARNA TE 510",
+      "valorAtual": 15825,
+      "canonicalPath": "/fipe/husqvarna/te-510-2008-812020-0/",
+      "ano": 2008,
+      "marca": "HUSQVARNA"
+    },
+    {
+      "vehicleId": "husqvarna-te-610-2007-gasolina",
+      "fipeCodigo": "812004-8",
+      "displayName": "HUSQVARNA TE 610",
+      "valorAtual": 18295,
+      "canonicalPath": "/fipe/husqvarna/te-610-2007-812004-8/",
+      "ano": 2007,
+      "marca": "HUSQVARNA"
+    },
+    {
+      "vehicleId": "husqvarna-te-610-2008-gasolina",
+      "fipeCodigo": "812004-8",
+      "displayName": "HUSQVARNA TE 610",
+      "valorAtual": 18912,
+      "canonicalPath": "/fipe/husqvarna/te-610-2008-812004-8/",
+      "ano": 2008,
+      "marca": "HUSQVARNA"
+    }
+  ],
+  "stats": {
+    "total": 4
+  },
+  "meta": {
+    "geracaoId": "te-4"
+  }
+}

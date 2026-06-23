@@ -1,0 +1,48 @@
+{
+  "tipo": "geracao",
+  "slug": "300-4",
+  "canonicalPath": "/geracao/chrysler/300-4/",
+  "titulo": "Geracao 300-4",
+  "descricao": "3 veiculos da geracao 300-4.",
+  "seo": {
+    "title": "Geracao 300-4 - Precos FIPE",
+    "description": "Veiculos da geracao 300-4 na Tabela FIPE.",
+    "h1": "Geracao 300-4",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/chrysler/300-4/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "chrysler-300-c-3-6-v6-aut-2014-gasolina",
+      "fipeCodigo": "010033-1",
+      "displayName": "Chrysler 300 C 3.6 V6 Aut.",
+      "valorAtual": 142821,
+      "canonicalPath": "/fipe/chrysler/300-c-3-6-v6-aut-2014-010033-1/",
+      "ano": 2014,
+      "marca": "Chrysler"
+    },
+    {
+      "vehicleId": "chrysler-300-c-3-6-v6-aut-2015-gasolina",
+      "fipeCodigo": "010033-1",
+      "displayName": "Chrysler 300 C 3.6 V6 Aut.",
+      "valorAtual": 203586,
+      "canonicalPath": "/fipe/chrysler/300-c-3-6-v6-aut-2015-010033-1/",
+      "ano": 2015,
+      "marca": "Chrysler"
+    },
+    {
+      "vehicleId": "chrysler-300-c-3-6-v6-aut-2016-gasolina",
+      "fipeCodigo": "010033-1",
+      "displayName": "Chrysler 300 C 3.6 V6 Aut.",
+      "valorAtual": 208676,
+      "canonicalPath": "/fipe/chrysler/300-c-3-6-v6-aut-2016-010033-1/",
+      "ano": 2016,
+      "marca": "Chrysler"
+    }
+  ],
+  "stats": {
+    "total": 3
+  },
+  "meta": {
+    "geracaoId": "300-4"
+  }
+}

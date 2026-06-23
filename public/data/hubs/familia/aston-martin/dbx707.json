@@ -1,0 +1,72 @@
+{
+  "tipo": "familia",
+  "slug": "dbx707",
+  "canonicalPath": "/fipe/aston-martin/dbx707/",
+  "titulo": "ASTON MARTIN dbx707 - Tabela FIPE",
+  "descricao": "5 versoes e anos do ASTON MARTIN dbx707 na Tabela FIPE.",
+  "seo": {
+    "title": "ASTON MARTIN dbx707 - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes ASTON MARTIN dbx707. 5 veiculos indexados.",
+    "h1": "ASTON MARTIN dbx707 - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/aston-martin/dbx707/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "aston-martin-dbx707-4-0-v8-707cv-2026-gasolina",
+      "fipeCodigo": "085016-0",
+      "displayName": "ASTON MARTIN DBX707 4.0 V8 707cv",
+      "valorAtual": 3321694,
+      "canonicalPath": "/fipe/aston-martin/dbx707-4-0-v8-707cv-2026-085016-0/",
+      "ano": 2026,
+      "marca": "ASTON MARTIN"
+    },
+    {
+      "vehicleId": "aston-martin-dbx707-4-0-v8-707cv-2025-gasolina",
+      "fipeCodigo": "085016-0",
+      "displayName": "ASTON MARTIN DBX707 4.0 V8 707cv",
+      "valorAtual": 3088965,
+      "canonicalPath": "/fipe/aston-martin/dbx707-4-0-v8-707cv-2025-085016-0/",
+      "ano": 2025,
+      "marca": "ASTON MARTIN"
+    },
+    {
+      "vehicleId": "aston-martin-dbx707-4-0-v8-707cv-2024-gasolina",
+      "fipeCodigo": "085016-0",
+      "displayName": "ASTON MARTIN DBX707 4.0 V8 707cv",
+      "valorAtual": 2662686,
+      "canonicalPath": "/fipe/aston-martin/dbx707-4-0-v8-707cv-2024-085016-0/",
+      "ano": 2024,
+      "marca": "ASTON MARTIN"
+    },
+    {
+      "vehicleId": "aston-martin-dbx707-4-0-v8-707cv-2023-gasolina",
+      "fipeCodigo": "085016-0",
+      "displayName": "ASTON MARTIN DBX707 4.0 V8 707cv",
+      "valorAtual": 2239210,
+      "canonicalPath": "/fipe/aston-martin/dbx707-4-0-v8-707cv-2023-085016-0/",
+      "ano": 2023,
+      "marca": "ASTON MARTIN"
+    },
+    {
+      "vehicleId": "aston-martin-dbx707-4-0-v8-707cv-0-gasolina",
+      "fipeCodigo": "085016-0",
+      "displayName": "ASTON MARTIN DBX707 4.0 V8 707cv",
+      "valorAtual": 3680000,
+      "canonicalPath": "/fipe/aston-martin/dbx707-4-0-v8-707cv-0-085016-0/",
+      "ano": 0,
+      "marca": "ASTON MARTIN"
+    }
+  ],
+  "stats": {
+    "total": 5,
+    "precoMin": 2239210,
+    "precoMax": 3680000,
+    "anos": [
+      2026,
+      2025,
+      2024,
+      2023,
+      0
+    ]
+  }
+}

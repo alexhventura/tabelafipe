@@ -1,0 +1,42 @@
+{
+  "tipo": "familia",
+  "slug": "duna",
+  "canonicalPath": "/fipe/fiat/duna/",
+  "titulo": "Fiat duna - Tabela FIPE",
+  "descricao": "2 versoes e anos do Fiat duna na Tabela FIPE.",
+  "seo": {
+    "title": "Fiat duna - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes Fiat duna. 2 veiculos indexados.",
+    "h1": "Fiat duna - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/fiat/duna/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "fiat-duna-1-6ie-1995-gasolina",
+      "fipeCodigo": "001129-0",
+      "displayName": "Fiat Duna 1.6ie",
+      "valorAtual": 8549,
+      "canonicalPath": "/fipe/fiat/duna-1-6ie-1995-001129-0/",
+      "ano": 1995,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-duna-1-6ie-1994-gasolina",
+      "fipeCodigo": "001129-0",
+      "displayName": "Fiat Duna 1.6ie",
+      "valorAtual": 5520,
+      "canonicalPath": "/fipe/fiat/duna-1-6ie-1994-001129-0/",
+      "ano": 1994,
+      "marca": "Fiat"
+    }
+  ],
+  "stats": {
+    "total": 2,
+    "precoMin": 5520,
+    "precoMax": 8549,
+    "anos": [
+      1995,
+      1994
+    ]
+  }
+}

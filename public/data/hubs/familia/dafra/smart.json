@@ -1,0 +1,82 @@
+{
+  "tipo": "familia",
+  "slug": "smart",
+  "canonicalPath": "/fipe/dafra/smart/",
+  "titulo": "DAFRA smart - Tabela FIPE",
+  "descricao": "6 versoes e anos do DAFRA smart na Tabela FIPE.",
+  "seo": {
+    "title": "DAFRA smart - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes DAFRA smart. 6 veiculos indexados.",
+    "h1": "DAFRA smart - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/dafra/smart/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "dafra-smart-125cc-2015-gasolina",
+      "fipeCodigo": "861008-8",
+      "displayName": "DAFRA SMART 125cc",
+      "valorAtual": 6713,
+      "canonicalPath": "/fipe/dafra/smart-125cc-2015-861008-8/",
+      "ano": 2015,
+      "marca": "DAFRA"
+    },
+    {
+      "vehicleId": "dafra-smart-125cc-2014-gasolina",
+      "fipeCodigo": "861008-8",
+      "displayName": "DAFRA SMART 125cc",
+      "valorAtual": 6368,
+      "canonicalPath": "/fipe/dafra/smart-125cc-2014-861008-8/",
+      "ano": 2014,
+      "marca": "DAFRA"
+    },
+    {
+      "vehicleId": "dafra-smart-125cc-2013-gasolina",
+      "fipeCodigo": "861008-8",
+      "displayName": "DAFRA SMART 125cc",
+      "valorAtual": 6168,
+      "canonicalPath": "/fipe/dafra/smart-125cc-2013-861008-8/",
+      "ano": 2013,
+      "marca": "DAFRA"
+    },
+    {
+      "vehicleId": "dafra-smart-125cc-2012-gasolina",
+      "fipeCodigo": "861008-8",
+      "displayName": "DAFRA SMART 125cc",
+      "valorAtual": 5820,
+      "canonicalPath": "/fipe/dafra/smart-125cc-2012-861008-8/",
+      "ano": 2012,
+      "marca": "DAFRA"
+    },
+    {
+      "vehicleId": "dafra-smart-125cc-2011-gasolina",
+      "fipeCodigo": "861008-8",
+      "displayName": "DAFRA SMART 125cc",
+      "valorAtual": 5599,
+      "canonicalPath": "/fipe/dafra/smart-125cc-2011-861008-8/",
+      "ano": 2011,
+      "marca": "DAFRA"
+    },
+    {
+      "vehicleId": "dafra-smart-125cc-2010-gasolina",
+      "fipeCodigo": "861008-8",
+      "displayName": "DAFRA SMART 125cc",
+      "valorAtual": 5457,
+      "canonicalPath": "/fipe/dafra/smart-125cc-2010-861008-8/",
+      "ano": 2010,
+      "marca": "DAFRA"
+    }
+  ],
+  "stats": {
+    "total": 6,
+    "precoMin": 5457,
+    "precoMax": 6713,
+    "anos": [
+      2015,
+      2014,
+      2013,
+      2012,
+      2011,
+      2010
+    ]
+  }
+}

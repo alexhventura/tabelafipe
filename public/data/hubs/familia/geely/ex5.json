@@ -1,0 +1,114 @@
+{
+  "tipo": "familia",
+  "slug": "ex5",
+  "canonicalPath": "/fipe/geely/ex5/",
+  "titulo": "GEELY ex5 - Tabela FIPE",
+  "descricao": "10 versoes e anos do GEELY ex5 na Tabela FIPE.",
+  "seo": {
+    "title": "GEELY ex5 - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes GEELY ex5. 10 veiculos indexados.",
+    "h1": "GEELY ex5 - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/geely/ex5/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "geely-ex5-pro-eletrico-2026-eletrico",
+      "fipeCodigo": "088003-5",
+      "displayName": "GEELY EX5 PRO (Elétrico)",
+      "valorAtual": 176848,
+      "canonicalPath": "/fipe/geely/ex5-pro-eletrico-2026-088003-5/",
+      "ano": 2026,
+      "marca": "GEELY"
+    },
+    {
+      "vehicleId": "geely-ex5-em-i-pro-2026-hibrido",
+      "fipeCodigo": "088007-8",
+      "displayName": "GEELY EX5 EM-i PRO",
+      "valorAtual": 180147,
+      "canonicalPath": "/fipe/geely/ex5-em-i-pro-2026-088007-8/",
+      "ano": 2026,
+      "marca": "GEELY"
+    },
+    {
+      "vehicleId": "geely-ex5-em-i-max-2026-hibrido",
+      "fipeCodigo": "088008-6",
+      "displayName": "GEELY EX5 EM-i MAX",
+      "valorAtual": 199490,
+      "canonicalPath": "/fipe/geely/ex5-em-i-max-2026-088008-6/",
+      "ano": 2026,
+      "marca": "GEELY"
+    },
+    {
+      "vehicleId": "geely-ex5-max-eletrico-2026-eletrico",
+      "fipeCodigo": "088004-3",
+      "displayName": "GEELY EX5 MAX (Elétrico)",
+      "valorAtual": 203618,
+      "canonicalPath": "/fipe/geely/ex5-max-eletrico-2026-088004-3/",
+      "ano": 2026,
+      "marca": "GEELY"
+    },
+    {
+      "vehicleId": "geely-ex5-em-i-ultra-2026-hibrido",
+      "fipeCodigo": "088009-4",
+      "displayName": "GEELY EX5 EM-i ULTRA",
+      "valorAtual": 223240,
+      "canonicalPath": "/fipe/geely/ex5-em-i-ultra-2026-088009-4/",
+      "ano": 2026,
+      "marca": "GEELY"
+    },
+    {
+      "vehicleId": "geely-ex5-em-i-pro-0-hibrido",
+      "fipeCodigo": "088007-8",
+      "displayName": "GEELY EX5 EM-i PRO",
+      "valorAtual": 189990,
+      "canonicalPath": "/fipe/geely/ex5-em-i-pro-0-088007-8/",
+      "ano": 0,
+      "marca": "GEELY"
+    },
+    {
+      "vehicleId": "geely-ex5-pro-eletrico-0-eletrico",
+      "fipeCodigo": "088003-5",
+      "displayName": "GEELY EX5 PRO (Elétrico)",
+      "valorAtual": 195800,
+      "canonicalPath": "/fipe/geely/ex5-pro-eletrico-0-088003-5/",
+      "ano": 0,
+      "marca": "GEELY"
+    },
+    {
+      "vehicleId": "geely-ex5-em-i-max-0-hibrido",
+      "fipeCodigo": "088008-6",
+      "displayName": "GEELY EX5 EM-i MAX",
+      "valorAtual": 209990,
+      "canonicalPath": "/fipe/geely/ex5-em-i-max-0-088008-6/",
+      "ano": 0,
+      "marca": "GEELY"
+    },
+    {
+      "vehicleId": "geely-ex5-max-eletrico-0-eletrico",
+      "fipeCodigo": "088004-3",
+      "displayName": "GEELY EX5 MAX (Elétrico)",
+      "valorAtual": 225133,
+      "canonicalPath": "/fipe/geely/ex5-max-eletrico-0-088004-3/",
+      "ano": 0,
+      "marca": "GEELY"
+    },
+    {
+      "vehicleId": "geely-ex5-em-i-ultra-0-hibrido",
+      "fipeCodigo": "088009-4",
+      "displayName": "GEELY EX5 EM-i ULTRA",
+      "valorAtual": 234990,
+      "canonicalPath": "/fipe/geely/ex5-em-i-ultra-0-088009-4/",
+      "ano": 0,
+      "marca": "GEELY"
+    }
+  ],
+  "stats": {
+    "total": 10,
+    "precoMin": 176848,
+    "precoMax": 234990,
+    "anos": [
+      2026,
+      0
+    ]
+  }
+}

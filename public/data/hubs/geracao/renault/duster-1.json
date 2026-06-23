@@ -1,0 +1,57 @@
+{
+  "tipo": "geracao",
+  "slug": "duster-1",
+  "canonicalPath": "/geracao/renault/duster-1/",
+  "titulo": "Geracao duster-1",
+  "descricao": "4 veiculos da geracao duster-1.",
+  "seo": {
+    "title": "Geracao duster-1 - Precos FIPE",
+    "description": "Veiculos da geracao duster-1 na Tabela FIPE.",
+    "h1": "Geracao duster-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/renault/duster-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "renault-duster-iconic-plus-1-3-tb-16v-flex-aut-0-flex",
+      "fipeCodigo": "025323-5",
+      "displayName": "Renault DUSTER Iconic Plus 1.3 TB 16V Flex Aut.",
+      "valorAtual": 171703,
+      "canonicalPath": "/fipe/renault/duster-iconic-plus-1-3-tb-16v-flex-aut-0-025323-5/",
+      "ano": 0,
+      "marca": "Renault"
+    },
+    {
+      "vehicleId": "renault-duster-iconic-plus-1-6-16v-flex-aut-0-flex",
+      "fipeCodigo": "025324-3",
+      "displayName": "Renault DUSTER Iconic Plus 1.6 16V Flex Aut.",
+      "valorAtual": 153701,
+      "canonicalPath": "/fipe/renault/duster-iconic-plus-1-6-16v-flex-aut-0-025324-3/",
+      "ano": 0,
+      "marca": "Renault"
+    },
+    {
+      "vehicleId": "renault-duster-intense-plus-1-6-16v-flex-aut-0-flex",
+      "fipeCodigo": "025322-7",
+      "displayName": "Renault DUSTER Intense Plus 1.6 16V Flex Aut.",
+      "valorAtual": 143735,
+      "canonicalPath": "/fipe/renault/duster-intense-plus-1-6-16v-flex-aut-0-025322-7/",
+      "ano": 0,
+      "marca": "Renault"
+    },
+    {
+      "vehicleId": "renault-duster-intense-plus-1-6-16v-flex-mec-0-flex",
+      "fipeCodigo": "025325-1",
+      "displayName": "Renault DUSTER Intense Plus 1.6 16V Flex Mec.",
+      "valorAtual": 130978,
+      "canonicalPath": "/fipe/renault/duster-intense-plus-1-6-16v-flex-mec-0-025325-1/",
+      "ano": 0,
+      "marca": "Renault"
+    }
+  ],
+  "stats": {
+    "total": 4
+  },
+  "meta": {
+    "geracaoId": "duster-1"
+  }
+}

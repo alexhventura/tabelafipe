@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "vespa-1",
+  "canonicalPath": "/geracao/piaggio/vespa-1/",
+  "titulo": "Geracao vespa-1",
+  "descricao": "2 veiculos da geracao vespa-1.",
+  "seo": {
+    "title": "Geracao vespa-1 - Precos FIPE",
+    "description": "Veiculos da geracao vespa-1 na Tabela FIPE.",
+    "h1": "Geracao vespa-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/piaggio/vespa-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "piaggio-vespa-px-200-1990-gasolina",
+      "fipeCodigo": "822003-4",
+      "displayName": "PIAGGIO VESPA PX 200",
+      "valorAtual": 2253,
+      "canonicalPath": "/fipe/piaggio/vespa-px-200-1990-822003-4/",
+      "ano": 1990,
+      "marca": "PIAGGIO"
+    },
+    {
+      "vehicleId": "piaggio-vespa-px-200-1991-gasolina",
+      "fipeCodigo": "822003-4",
+      "displayName": "PIAGGIO VESPA PX 200",
+      "valorAtual": 2340,
+      "canonicalPath": "/fipe/piaggio/vespa-px-200-1991-822003-4/",
+      "ano": 1991,
+      "marca": "PIAGGIO"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "vespa-1"
+  }
+}

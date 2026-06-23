@@ -1,0 +1,62 @@
+{
+  "tipo": "familia",
+  "slug": "portofino",
+  "canonicalPath": "/fipe/ferrari/portofino/",
+  "titulo": "Ferrari portofino - Tabela FIPE",
+  "descricao": "4 versoes e anos do Ferrari portofino na Tabela FIPE.",
+  "seo": {
+    "title": "Ferrari portofino - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes Ferrari portofino. 4 veiculos indexados.",
+    "h1": "Ferrari portofino - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/ferrari/portofino/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "ferrari-portofino-m-3-9-v8-620cv-2023-gasolina",
+      "fipeCodigo": "031052-2",
+      "displayName": "Ferrari PORTOFINO M 3.9 V8 620cv",
+      "valorAtual": 2900300,
+      "canonicalPath": "/fipe/ferrari/portofino-m-3-9-v8-620cv-2023-031052-2/",
+      "ano": 2023,
+      "marca": "Ferrari"
+    },
+    {
+      "vehicleId": "ferrari-portofino-m-3-9-v8-620cv-2022-gasolina",
+      "fipeCodigo": "031052-2",
+      "displayName": "Ferrari PORTOFINO M 3.9 V8 620cv",
+      "valorAtual": 2780259,
+      "canonicalPath": "/fipe/ferrari/portofino-m-3-9-v8-620cv-2022-031052-2/",
+      "ano": 2022,
+      "marca": "Ferrari"
+    },
+    {
+      "vehicleId": "ferrari-portofino-3-9-v8-600cv-2020-gasolina",
+      "fipeCodigo": "031044-1",
+      "displayName": "Ferrari PORTOFINO 3.9 V8 600cv",
+      "valorAtual": 2598219,
+      "canonicalPath": "/fipe/ferrari/portofino-3-9-v8-600cv-2020-031044-1/",
+      "ano": 2020,
+      "marca": "Ferrari"
+    },
+    {
+      "vehicleId": "ferrari-portofino-3-9-v8-600cv-2019-gasolina",
+      "fipeCodigo": "031044-1",
+      "displayName": "Ferrari PORTOFINO 3.9 V8 600cv",
+      "valorAtual": 2534847,
+      "canonicalPath": "/fipe/ferrari/portofino-3-9-v8-600cv-2019-031044-1/",
+      "ano": 2019,
+      "marca": "Ferrari"
+    }
+  ],
+  "stats": {
+    "total": 4,
+    "precoMin": 2534847,
+    "precoMax": 2900300,
+    "anos": [
+      2023,
+      2022,
+      2020,
+      2019
+    ]
+  }
+}

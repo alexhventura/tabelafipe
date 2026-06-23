@@ -1,0 +1,80 @@
+{
+  "tipo": "familia",
+  "slug": "espero",
+  "canonicalPath": "/fipe/daewoo/espero/",
+  "titulo": "Daewoo espero - Tabela FIPE",
+  "descricao": "6 versoes e anos do Daewoo espero na Tabela FIPE.",
+  "seo": {
+    "title": "Daewoo espero - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes Daewoo espero. 6 veiculos indexados.",
+    "h1": "Daewoo espero - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/daewoo/espero/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "daewoo-espero-cd-dlx-2-0-1997-gasolina",
+      "fipeCodigo": "030001-2",
+      "displayName": "Daewoo Espero CD / DLX 2.0",
+      "valorAtual": 9437,
+      "canonicalPath": "/fipe/daewoo/espero-cd-dlx-2-0-1997-030001-2/",
+      "ano": 1997,
+      "marca": "Daewoo"
+    },
+    {
+      "vehicleId": "daewoo-espero-cd-dlx-2-0-1996-gasolina",
+      "fipeCodigo": "030001-2",
+      "displayName": "Daewoo Espero CD / DLX 2.0",
+      "valorAtual": 7989,
+      "canonicalPath": "/fipe/daewoo/espero-cd-dlx-2-0-1996-030001-2/",
+      "ano": 1996,
+      "marca": "Daewoo"
+    },
+    {
+      "vehicleId": "daewoo-espero-2-0-1995-gasolina",
+      "fipeCodigo": "030017-9",
+      "displayName": "Daewoo Espero 2.0",
+      "valorAtual": 6169,
+      "canonicalPath": "/fipe/daewoo/espero-2-0-1995-030017-9/",
+      "ano": 1995,
+      "marca": "Daewoo"
+    },
+    {
+      "vehicleId": "daewoo-espero-cd-dlx-2-0-1995-gasolina",
+      "fipeCodigo": "030001-2",
+      "displayName": "Daewoo Espero CD / DLX 2.0",
+      "valorAtual": 7794,
+      "canonicalPath": "/fipe/daewoo/espero-cd-dlx-2-0-1995-030001-2/",
+      "ano": 1995,
+      "marca": "Daewoo"
+    },
+    {
+      "vehicleId": "daewoo-espero-2-0-1994-gasolina",
+      "fipeCodigo": "030017-9",
+      "displayName": "Daewoo Espero 2.0",
+      "valorAtual": 5724,
+      "canonicalPath": "/fipe/daewoo/espero-2-0-1994-030017-9/",
+      "ano": 1994,
+      "marca": "Daewoo"
+    },
+    {
+      "vehicleId": "daewoo-espero-cd-dlx-2-0-1994-gasolina",
+      "fipeCodigo": "030001-2",
+      "displayName": "Daewoo Espero CD / DLX 2.0",
+      "valorAtual": 6419,
+      "canonicalPath": "/fipe/daewoo/espero-cd-dlx-2-0-1994-030001-2/",
+      "ano": 1994,
+      "marca": "Daewoo"
+    }
+  ],
+  "stats": {
+    "total": 6,
+    "precoMin": 5724,
+    "precoMax": 9437,
+    "anos": [
+      1997,
+      1996,
+      1995,
+      1994
+    ]
+  }
+}

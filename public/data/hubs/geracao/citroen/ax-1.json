@@ -1,0 +1,102 @@
+{
+  "tipo": "geracao",
+  "slug": "ax-1",
+  "canonicalPath": "/geracao/citroen/ax-1/",
+  "titulo": "Geracao ax-1",
+  "descricao": "9 veiculos da geracao ax-1.",
+  "seo": {
+    "title": "Geracao ax-1 - Precos FIPE",
+    "description": "Veiculos da geracao ax-1 na Tabela FIPE.",
+    "h1": "Geracao ax-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/citroen/ax-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "citroen-ax-gti-1992-gasolina",
+      "fipeCodigo": "011001-9",
+      "displayName": "Citroën AX GTi",
+      "valorAtual": 3624,
+      "canonicalPath": "/fipe/citroen/ax-gti-1992-011001-9/",
+      "ano": 1992,
+      "marca": "Citroën"
+    },
+    {
+      "vehicleId": "citroen-ax-gti-1993-gasolina",
+      "fipeCodigo": "011001-9",
+      "displayName": "Citroën AX GTi",
+      "valorAtual": 4378,
+      "canonicalPath": "/fipe/citroen/ax-gti-1993-011001-9/",
+      "ano": 1993,
+      "marca": "Citroën"
+    },
+    {
+      "vehicleId": "citroen-ax-gti-1994-gasolina",
+      "fipeCodigo": "011001-9",
+      "displayName": "Citroën AX GTi",
+      "valorAtual": 5685,
+      "canonicalPath": "/fipe/citroen/ax-gti-1994-011001-9/",
+      "ano": 1994,
+      "marca": "Citroën"
+    },
+    {
+      "vehicleId": "citroen-ax-gti-1995-gasolina",
+      "fipeCodigo": "011001-9",
+      "displayName": "Citroën AX GTi",
+      "valorAtual": 10267,
+      "canonicalPath": "/fipe/citroen/ax-gti-1995-011001-9/",
+      "ano": 1995,
+      "marca": "Citroën"
+    },
+    {
+      "vehicleId": "nissan-ax-6-5d-turbo-diesel-1994-diesel",
+      "fipeCodigo": "023022-7",
+      "displayName": "Nissan AX 6.5D Turbo Diesel",
+      "valorAtual": 12329,
+      "canonicalPath": "/fipe/nissan/ax-6-5d-turbo-diesel-1994-023022-7/",
+      "ano": 1994,
+      "marca": "Nissan"
+    },
+    {
+      "vehicleId": "nissan-ax-6-5d-turbo-diesel-1995-diesel",
+      "fipeCodigo": "023022-7",
+      "displayName": "Nissan AX 6.5D Turbo Diesel",
+      "valorAtual": 12830,
+      "canonicalPath": "/fipe/nissan/ax-6-5d-turbo-diesel-1995-023022-7/",
+      "ano": 1995,
+      "marca": "Nissan"
+    },
+    {
+      "vehicleId": "nissan-ax-6-5d-turbo-diesel-1996-diesel",
+      "fipeCodigo": "023022-7",
+      "displayName": "Nissan AX 6.5D Turbo Diesel",
+      "valorAtual": 13616,
+      "canonicalPath": "/fipe/nissan/ax-6-5d-turbo-diesel-1996-023022-7/",
+      "ano": 1996,
+      "marca": "Nissan"
+    },
+    {
+      "vehicleId": "orca-ax-100-1998-gasolina",
+      "fipeCodigo": "820002-5",
+      "displayName": "ORCA AX 100",
+      "valorAtual": 1110,
+      "canonicalPath": "/fipe/orca/ax-100-1998-820002-5/",
+      "ano": 1998,
+      "marca": "ORCA"
+    },
+    {
+      "vehicleId": "orca-ax-100-a-1998-gasolina",
+      "fipeCodigo": "820001-7",
+      "displayName": "ORCA AX 100-A",
+      "valorAtual": 1212,
+      "canonicalPath": "/fipe/orca/ax-100-a-1998-820001-7/",
+      "ano": 1998,
+      "marca": "ORCA"
+    }
+  ],
+  "stats": {
+    "total": 9
+  },
+  "meta": {
+    "geracaoId": "ax-1"
+  }
+}

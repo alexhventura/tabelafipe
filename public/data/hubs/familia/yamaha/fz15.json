@@ -1,0 +1,81 @@
+{
+  "tipo": "familia",
+  "slug": "fz15",
+  "canonicalPath": "/fipe/yamaha/fz15/",
+  "titulo": "YAMAHA fz15 - Tabela FIPE",
+  "descricao": "6 versoes e anos do YAMAHA fz15 na Tabela FIPE.",
+  "seo": {
+    "title": "YAMAHA fz15 - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes YAMAHA fz15. 6 veiculos indexados.",
+    "h1": "YAMAHA fz15 - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/yamaha/fz15/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "yamaha-fz15-150-fazer-connected-flex-2026-flex",
+      "fipeCodigo": "827133-0",
+      "displayName": "YAMAHA FZ15 150 FAZER CONNECTED FLEX",
+      "valorAtual": 20368,
+      "canonicalPath": "/fipe/yamaha/fz15-150-fazer-connected-flex-2026-827133-0/",
+      "ano": 2026,
+      "marca": "YAMAHA"
+    },
+    {
+      "vehicleId": "yamaha-fz15-150-fazer-connected-flex-2025-flex",
+      "fipeCodigo": "827133-0",
+      "displayName": "YAMAHA FZ15 150 FAZER CONNECTED FLEX",
+      "valorAtual": 19324,
+      "canonicalPath": "/fipe/yamaha/fz15-150-fazer-connected-flex-2025-827133-0/",
+      "ano": 2025,
+      "marca": "YAMAHA"
+    },
+    {
+      "vehicleId": "yamaha-fz15-150-fazer-flex-2024-flex",
+      "fipeCodigo": "827124-0",
+      "displayName": "YAMAHA FZ15 150 FAZER FLEX",
+      "valorAtual": 17796,
+      "canonicalPath": "/fipe/yamaha/fz15-150-fazer-flex-2024-827124-0/",
+      "ano": 2024,
+      "marca": "YAMAHA"
+    },
+    {
+      "vehicleId": "yamaha-fz15-150-fazer-flex-2023-flex",
+      "fipeCodigo": "827124-0",
+      "displayName": "YAMAHA FZ15 150 FAZER FLEX",
+      "valorAtual": 17265,
+      "canonicalPath": "/fipe/yamaha/fz15-150-fazer-flex-2023-827124-0/",
+      "ano": 2023,
+      "marca": "YAMAHA"
+    },
+    {
+      "vehicleId": "yamaha-fz15-150-fazer-flex-0-flex",
+      "fipeCodigo": "827124-0",
+      "displayName": "YAMAHA FZ15 150 FAZER FLEX",
+      "valorAtual": 21070,
+      "canonicalPath": "/fipe/yamaha/fz15-150-fazer-flex-0-827124-0/",
+      "ano": 0,
+      "marca": "YAMAHA"
+    },
+    {
+      "vehicleId": "yamaha-fz15-150-fazer-connected-flex-0-flex",
+      "fipeCodigo": "827133-0",
+      "displayName": "YAMAHA FZ15 150 FAZER CONNECTED FLEX",
+      "valorAtual": 22757,
+      "canonicalPath": "/fipe/yamaha/fz15-150-fazer-connected-flex-0-827133-0/",
+      "ano": 0,
+      "marca": "YAMAHA"
+    }
+  ],
+  "stats": {
+    "total": 6,
+    "precoMin": 17265,
+    "precoMax": 22757,
+    "anos": [
+      2026,
+      2025,
+      2024,
+      2023,
+      0
+    ]
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "tipo": "geracao",
+  "slug": "cappuccino-3",
+  "canonicalPath": "/geracao/motorino/cappuccino-3/",
+  "titulo": "Geracao cappuccino-3",
+  "descricao": "8 veiculos da geracao cappuccino-3.",
+  "seo": {
+    "title": "Geracao cappuccino-3 - Precos FIPE",
+    "description": "Veiculos da geracao cappuccino-3 na Tabela FIPE.",
+    "h1": "Geracao cappuccino-3",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/motorino/cappuccino-3/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "motorino-cappuccino-absoluta-150cc-2023-gasolina",
+      "fipeCodigo": "881019-2",
+      "displayName": "MOTORINO Cappuccino Absoluta 150cc",
+      "valorAtual": 21542,
+      "canonicalPath": "/fipe/motorino/cappuccino-absoluta-150cc-2023-881019-2/",
+      "ano": 2023,
+      "marca": "MOTORINO"
+    },
+    {
+      "vehicleId": "motorino-cappuccino-absoluta-150cc-2024-gasolina",
+      "fipeCodigo": "881019-2",
+      "displayName": "MOTORINO Cappuccino Absoluta 150cc",
+      "valorAtual": 22211,
+      "canonicalPath": "/fipe/motorino/cappuccino-absoluta-150cc-2024-881019-2/",
+      "ano": 2024,
+      "marca": "MOTORINO"
+    },
+    {
+      "vehicleId": "motorino-cappuccino-absoluta-150cc-2025-gasolina",
+      "fipeCodigo": "881019-2",
+      "displayName": "MOTORINO Cappuccino Absoluta 150cc",
+      "valorAtual": 22907,
+      "canonicalPath": "/fipe/motorino/cappuccino-absoluta-150cc-2025-881019-2/",
+      "ano": 2025,
+      "marca": "MOTORINO"
+    },
+    {
+      "vehicleId": "motorino-cappuccino-elettrica-3000w-2025-eletrico",
+      "fipeCodigo": "881020-6",
+      "displayName": "MOTORINO Cappuccino ELETTRICA 3000W",
+      "valorAtual": 26824,
+      "canonicalPath": "/fipe/motorino/cappuccino-elettrica-3000w-2025-881020-6/",
+      "ano": 2025,
+      "marca": "MOTORINO"
+    },
+    {
+      "vehicleId": "motorino-cappuccino-elettrica-3000w-2026-eletrico",
+      "fipeCodigo": "881020-6",
+      "displayName": "MOTORINO Cappuccino ELETTRICA 3000W",
+      "valorAtual": 27632,
+      "canonicalPath": "/fipe/motorino/cappuccino-elettrica-3000w-2026-881020-6/",
+      "ano": 2026,
+      "marca": "MOTORINO"
+    },
+    {
+      "vehicleId": "motorino-cappuccino-ousada-150cc-2023-gasolina",
+      "fipeCodigo": "881018-4",
+      "displayName": "MOTORINO Cappuccino Ousada 150cc",
+      "valorAtual": 19403,
+      "canonicalPath": "/fipe/motorino/cappuccino-ousada-150cc-2023-881018-4/",
+      "ano": 2023,
+      "marca": "MOTORINO"
+    },
+    {
+      "vehicleId": "motorino-cappuccino-ousada-150cc-2024-gasolina",
+      "fipeCodigo": "881018-4",
+      "displayName": "MOTORINO Cappuccino Ousada 150cc",
+      "valorAtual": 20004,
+      "canonicalPath": "/fipe/motorino/cappuccino-ousada-150cc-2024-881018-4/",
+      "ano": 2024,
+      "marca": "MOTORINO"
+    },
+    {
+      "vehicleId": "motorino-cappuccino-ousada-150cc-2025-gasolina",
+      "fipeCodigo": "881018-4",
+      "displayName": "MOTORINO Cappuccino Ousada 150cc",
+      "valorAtual": 20726,
+      "canonicalPath": "/fipe/motorino/cappuccino-ousada-150cc-2025-881018-4/",
+      "ano": 2025,
+      "marca": "MOTORINO"
+    }
+  ],
+  "stats": {
+    "total": 8
+  },
+  "meta": {
+    "geracaoId": "cappuccino-3"
+  }
+}

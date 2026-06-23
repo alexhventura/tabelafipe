@@ -1,0 +1,48 @@
+{
+  "tipo": "geracao",
+  "slug": "daytona-6",
+  "canonicalPath": "/geracao/triumph/daytona-6/",
+  "titulo": "Geracao daytona-6",
+  "descricao": "3 veiculos da geracao daytona-6.",
+  "seo": {
+    "title": "Geracao daytona-6 - Precos FIPE",
+    "description": "Veiculos da geracao daytona-6 na Tabela FIPE.",
+    "h1": "Geracao daytona-6",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/triumph/daytona-6/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "triumph-daytona-660-2024-gasolina",
+      "fipeCodigo": "826101-6",
+      "displayName": "TRIUMPH DAYTONA 660",
+      "valorAtual": 50608,
+      "canonicalPath": "/fipe/triumph/daytona-660-2024-826101-6/",
+      "ano": 2024,
+      "marca": "TRIUMPH"
+    },
+    {
+      "vehicleId": "triumph-daytona-660-2025-gasolina",
+      "fipeCodigo": "826101-6",
+      "displayName": "TRIUMPH DAYTONA 660",
+      "valorAtual": 52479,
+      "canonicalPath": "/fipe/triumph/daytona-660-2025-826101-6/",
+      "ano": 2025,
+      "marca": "TRIUMPH"
+    },
+    {
+      "vehicleId": "triumph-daytona-660-2026-gasolina",
+      "fipeCodigo": "826101-6",
+      "displayName": "TRIUMPH DAYTONA 660",
+      "valorAtual": 55871,
+      "canonicalPath": "/fipe/triumph/daytona-660-2026-826101-6/",
+      "ano": 2026,
+      "marca": "TRIUMPH"
+    }
+  ],
+  "stats": {
+    "total": 3
+  },
+  "meta": {
+    "geracaoId": "daytona-6"
+  }
+}

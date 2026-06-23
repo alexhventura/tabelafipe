@@ -1,0 +1,57 @@
+{
+  "tipo": "geracao",
+  "slug": "cvo-1",
+  "canonicalPath": "/geracao/harley-davidson/cvo-1/",
+  "titulo": "Geracao cvo-1",
+  "descricao": "4 veiculos da geracao cvo-1.",
+  "seo": {
+    "title": "Geracao cvo-1 - Precos FIPE",
+    "description": "Veiculos da geracao cvo-1 na Tabela FIPE.",
+    "h1": "Geracao cvo-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/harley-davidson/cvo-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "harley-davidson-cvo-road-glide-fltrxse-0-gasolina",
+      "fipeCodigo": "810079-9",
+      "displayName": "HARLEY-DAVIDSON CVO ROAD GLIDE FLTRXSE",
+      "valorAtual": 313900,
+      "canonicalPath": "/fipe/harley-davidson/cvo-road-glide-fltrxse-0-810079-9/",
+      "ano": 0,
+      "marca": "HARLEY-DAVIDSON"
+    },
+    {
+      "vehicleId": "harley-davidson-cvo-road-glide-st-fltrxstse-0-gasolina",
+      "fipeCodigo": "810115-9",
+      "displayName": "HARLEY-DAVIDSON CVO ROAD GLIDE ST FLTRXSTSE",
+      "valorAtual": 289950,
+      "canonicalPath": "/fipe/harley-davidson/cvo-road-glide-st-fltrxstse-0-810115-9/",
+      "ano": 0,
+      "marca": "HARLEY-DAVIDSON"
+    },
+    {
+      "vehicleId": "harley-davidson-cvo-street-glide-flhxse-0-gasolina",
+      "fipeCodigo": "810070-5",
+      "displayName": "HARLEY-DAVIDSON CVO STREET GLIDE FLHXSE",
+      "valorAtual": 261667,
+      "canonicalPath": "/fipe/harley-davidson/cvo-street-glide-flhxse-0-810070-5/",
+      "ano": 0,
+      "marca": "HARLEY-DAVIDSON"
+    },
+    {
+      "vehicleId": "harley-davidson-cvo-street-glide-limited-flhxlse-0-gasolina",
+      "fipeCodigo": "810122-1",
+      "displayName": "HARLEY-DAVIDSON CVO STREET GLIDE LIMITED FLHXLSE",
+      "valorAtual": 315000,
+      "canonicalPath": "/fipe/harley-davidson/cvo-street-glide-limited-flhxlse-0-810122-1/",
+      "ano": 0,
+      "marca": "HARLEY-DAVIDSON"
+    }
+  ],
+  "stats": {
+    "total": 4
+  },
+  "meta": {
+    "geracaoId": "cvo-1"
+  }
+}

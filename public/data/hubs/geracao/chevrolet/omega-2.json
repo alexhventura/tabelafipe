@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "omega-2",
+  "canonicalPath": "/geracao/chevrolet/omega-2/",
+  "titulo": "Geracao omega-2",
+  "descricao": "2 veiculos da geracao omega-2.",
+  "seo": {
+    "title": "Geracao omega-2 - Precos FIPE",
+    "description": "Veiculos da geracao omega-2 na Tabela FIPE.",
+    "h1": "Geracao omega-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/chevrolet/omega-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "chevrolet-omega-cd-fittipaldi-3-6-v6-24v-4p-2011-gasolina",
+      "fipeCodigo": "004315-0",
+      "displayName": "GM - Chevrolet Omega CD/ FITTIPALDI 3.6 V6 24V 4p",
+      "valorAtual": 74899,
+      "canonicalPath": "/fipe/chevrolet/omega-cd-fittipaldi-3-6-v6-24v-4p-2011-004315-0/",
+      "ano": 2011,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-omega-cd-fittipaldi-3-6-v6-24v-4p-2012-gasolina",
+      "fipeCodigo": "004315-0",
+      "displayName": "GM - Chevrolet Omega CD/ FITTIPALDI 3.6 V6 24V 4p",
+      "valorAtual": 79076,
+      "canonicalPath": "/fipe/chevrolet/omega-cd-fittipaldi-3-6-v6-24v-4p-2012-004315-0/",
+      "ano": 2012,
+      "marca": "GM - Chevrolet"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "omega-2"
+  }
+}

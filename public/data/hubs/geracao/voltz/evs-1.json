@@ -1,0 +1,48 @@
+{
+  "tipo": "geracao",
+  "slug": "evs-1",
+  "canonicalPath": "/geracao/voltz/evs-1/",
+  "titulo": "Geracao evs-1",
+  "descricao": "3 veiculos da geracao evs-1.",
+  "seo": {
+    "title": "Geracao evs-1 - Precos FIPE",
+    "description": "Veiculos da geracao evs-1 na Tabela FIPE.",
+    "h1": "Geracao evs-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/voltz/evs-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "voltz-evs-3000w-eletrica-2021-eletrico",
+      "fipeCodigo": "889002-1",
+      "displayName": "VOLTZ EVS 3000W (elétrica)",
+      "valorAtual": 12041,
+      "canonicalPath": "/fipe/voltz/evs-3000w-eletrica-2021-889002-1/",
+      "ano": 2021,
+      "marca": "VOLTZ"
+    },
+    {
+      "vehicleId": "voltz-evs-3000w-eletrica-2022-eletrico",
+      "fipeCodigo": "889002-1",
+      "displayName": "VOLTZ EVS 3000W (elétrica)",
+      "valorAtual": 13023,
+      "canonicalPath": "/fipe/voltz/evs-3000w-eletrica-2022-889002-1/",
+      "ano": 2022,
+      "marca": "VOLTZ"
+    },
+    {
+      "vehicleId": "voltz-evs-3000w-eletrica-2023-eletrico",
+      "fipeCodigo": "889002-1",
+      "displayName": "VOLTZ EVS 3000W (elétrica)",
+      "valorAtual": 13413,
+      "canonicalPath": "/fipe/voltz/evs-3000w-eletrica-2023-889002-1/",
+      "ano": 2023,
+      "marca": "VOLTZ"
+    }
+  ],
+  "stats": {
+    "total": 3
+  },
+  "meta": {
+    "geracaoId": "evs-1"
+  }
+}

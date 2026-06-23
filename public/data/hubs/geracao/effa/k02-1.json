@@ -1,0 +1,57 @@
+{
+  "tipo": "geracao",
+  "slug": "k02-1",
+  "canonicalPath": "/geracao/effa/k02-1/",
+  "titulo": "Geracao k02-1",
+  "descricao": "4 veiculos da geracao k02-1.",
+  "seo": {
+    "title": "Geracao k02-1 - Precos FIPE",
+    "description": "Veiculos da geracao k02-1 na Tabela FIPE.",
+    "h1": "Geracao k02-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/effa/k02-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "effa-k02-pick-up-cd-1-0-8v-4p-2016-gasolina",
+      "fipeCodigo": "066013-2",
+      "displayName": "EFFA K02 Pick-up CD 1.0 8V 4p",
+      "valorAtual": 34301,
+      "canonicalPath": "/fipe/effa/k02-pick-up-cd-1-0-8v-4p-2016-066013-2/",
+      "ano": 2016,
+      "marca": "EFFA"
+    },
+    {
+      "vehicleId": "effa-k02-pick-up-cd-1-0-8v-4p-2017-gasolina",
+      "fipeCodigo": "066013-2",
+      "displayName": "EFFA K02 Pick-up CD 1.0 8V 4p",
+      "valorAtual": 35724,
+      "canonicalPath": "/fipe/effa/k02-pick-up-cd-1-0-8v-4p-2017-066013-2/",
+      "ano": 2017,
+      "marca": "EFFA"
+    },
+    {
+      "vehicleId": "effa-k02-pick-up-cd-1-0-8v-4p-2018-gasolina",
+      "fipeCodigo": "066013-2",
+      "displayName": "EFFA K02 Pick-up CD 1.0 8V 4p",
+      "valorAtual": 36819,
+      "canonicalPath": "/fipe/effa/k02-pick-up-cd-1-0-8v-4p-2018-066013-2/",
+      "ano": 2018,
+      "marca": "EFFA"
+    },
+    {
+      "vehicleId": "effa-k02-pick-up-cd-1-0-8v-4p-2019-gasolina",
+      "fipeCodigo": "066013-2",
+      "displayName": "EFFA K02 Pick-up CD 1.0 8V 4p",
+      "valorAtual": 37740,
+      "canonicalPath": "/fipe/effa/k02-pick-up-cd-1-0-8v-4p-2019-066013-2/",
+      "ano": 2019,
+      "marca": "EFFA"
+    }
+  ],
+  "stats": {
+    "total": 4
+  },
+  "meta": {
+    "geracaoId": "k02-1"
+  }
+}

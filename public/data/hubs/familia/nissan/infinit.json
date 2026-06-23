@@ -1,0 +1,42 @@
+{
+  "tipo": "familia",
+  "slug": "infinit",
+  "canonicalPath": "/fipe/nissan/infinit/",
+  "titulo": "Nissan infinit - Tabela FIPE",
+  "descricao": "2 versoes e anos do Nissan infinit na Tabela FIPE.",
+  "seo": {
+    "title": "Nissan infinit - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes Nissan infinit. 2 veiculos indexados.",
+    "h1": "Nissan infinit - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/nissan/infinit/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "nissan-infinit-3-0-1992-gasolina",
+      "fipeCodigo": "023025-1",
+      "displayName": "Nissan Infinit 3.0",
+      "valorAtual": 11205,
+      "canonicalPath": "/fipe/nissan/infinit-3-0-1992-023025-1/",
+      "ano": 1992,
+      "marca": "Nissan"
+    },
+    {
+      "vehicleId": "nissan-infinit-3-0-1991-gasolina",
+      "fipeCodigo": "023025-1",
+      "displayName": "Nissan Infinit 3.0",
+      "valorAtual": 9231,
+      "canonicalPath": "/fipe/nissan/infinit-3-0-1991-023025-1/",
+      "ano": 1991,
+      "marca": "Nissan"
+    }
+  ],
+  "stats": {
+    "total": 2,
+    "precoMin": 9231,
+    "precoMax": 11205,
+    "anos": [
+      1992,
+      1991
+    ]
+  }
+}

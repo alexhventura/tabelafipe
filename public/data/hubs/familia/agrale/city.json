@@ -1,0 +1,99 @@
+{
+  "tipo": "familia",
+  "slug": "city",
+  "canonicalPath": "/fipe/agrale/city/",
+  "titulo": "AGRALE city - Tabela FIPE",
+  "descricao": "8 versoes e anos do AGRALE city na Tabela FIPE.",
+  "seo": {
+    "title": "AGRALE city - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes AGRALE city. 8 veiculos indexados.",
+    "h1": "AGRALE city - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/agrale/city/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "agrale-city-50-2001-gasolina",
+      "fipeCodigo": "801002-1",
+      "displayName": "AGRALE CITY 50",
+      "valorAtual": 1537,
+      "canonicalPath": "/fipe/agrale/city-50-2001-801002-1/",
+      "ano": 2001,
+      "marca": "AGRALE"
+    },
+    {
+      "vehicleId": "agrale-city-50-2000-gasolina",
+      "fipeCodigo": "801002-1",
+      "displayName": "AGRALE CITY 50",
+      "valorAtual": 1481,
+      "canonicalPath": "/fipe/agrale/city-50-2000-801002-1/",
+      "ano": 2000,
+      "marca": "AGRALE"
+    },
+    {
+      "vehicleId": "agrale-city-50-1999-gasolina",
+      "fipeCodigo": "801002-1",
+      "displayName": "AGRALE CITY 50",
+      "valorAtual": 1399,
+      "canonicalPath": "/fipe/agrale/city-50-1999-801002-1/",
+      "ano": 1999,
+      "marca": "AGRALE"
+    },
+    {
+      "vehicleId": "agrale-city-90-1999-gasolina",
+      "fipeCodigo": "801003-0",
+      "displayName": "AGRALE CITY 90",
+      "valorAtual": 1940,
+      "canonicalPath": "/fipe/agrale/city-90-1999-801003-0/",
+      "ano": 1999,
+      "marca": "AGRALE"
+    },
+    {
+      "vehicleId": "agrale-city-50-1998-gasolina",
+      "fipeCodigo": "801002-1",
+      "displayName": "AGRALE CITY 50",
+      "valorAtual": 1263,
+      "canonicalPath": "/fipe/agrale/city-50-1998-801002-1/",
+      "ano": 1998,
+      "marca": "AGRALE"
+    },
+    {
+      "vehicleId": "agrale-city-90-1998-gasolina",
+      "fipeCodigo": "801003-0",
+      "displayName": "AGRALE CITY 90",
+      "valorAtual": 1758,
+      "canonicalPath": "/fipe/agrale/city-90-1998-801003-0/",
+      "ano": 1998,
+      "marca": "AGRALE"
+    },
+    {
+      "vehicleId": "agrale-city-50-1997-gasolina",
+      "fipeCodigo": "801002-1",
+      "displayName": "AGRALE CITY 50",
+      "valorAtual": 1213,
+      "canonicalPath": "/fipe/agrale/city-50-1997-801002-1/",
+      "ano": 1997,
+      "marca": "AGRALE"
+    },
+    {
+      "vehicleId": "agrale-city-90-1997-gasolina",
+      "fipeCodigo": "801003-0",
+      "displayName": "AGRALE CITY 90",
+      "valorAtual": 1593,
+      "canonicalPath": "/fipe/agrale/city-90-1997-801003-0/",
+      "ano": 1997,
+      "marca": "AGRALE"
+    }
+  ],
+  "stats": {
+    "total": 8,
+    "precoMin": 1213,
+    "precoMax": 1940,
+    "anos": [
+      2001,
+      2000,
+      1999,
+      1998,
+      1997
+    ]
+  }
+}

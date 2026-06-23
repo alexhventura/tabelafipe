@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "navajo-1",
+  "canonicalPath": "/geracao/mazda/navajo-1/",
+  "titulo": "Geracao navajo-1",
+  "descricao": "2 veiculos da geracao navajo-1.",
+  "seo": {
+    "title": "Geracao navajo-1 - Precos FIPE",
+    "description": "Veiculos da geracao navajo-1 na Tabela FIPE.",
+    "h1": "Geracao navajo-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/mazda/navajo-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "mazda-navajo-lx-3-0-v6-1992-gasolina",
+      "fipeCodigo": "020021-2",
+      "displayName": "Mazda Navajo LX 3.0 V6",
+      "valorAtual": 8436,
+      "canonicalPath": "/fipe/mazda/navajo-lx-3-0-v6-1992-020021-2/",
+      "ano": 1992,
+      "marca": "Mazda"
+    },
+    {
+      "vehicleId": "mazda-navajo-lx-3-0-v6-1993-gasolina",
+      "fipeCodigo": "020021-2",
+      "displayName": "Mazda Navajo LX 3.0 V6",
+      "valorAtual": 10655,
+      "canonicalPath": "/fipe/mazda/navajo-lx-3-0-v6-1993-020021-2/",
+      "ano": 1993,
+      "marca": "Mazda"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "navajo-1"
+  }
+}

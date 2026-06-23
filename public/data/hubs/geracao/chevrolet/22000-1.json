@@ -1,0 +1,75 @@
+{
+  "tipo": "geracao",
+  "slug": "22000-1",
+  "canonicalPath": "/geracao/chevrolet/22000-1/",
+  "titulo": "Geracao 22000-1",
+  "descricao": "6 veiculos da geracao 22000-1.",
+  "seo": {
+    "title": "Geracao 22000-1 - Precos FIPE",
+    "description": "Veiculos da geracao 22000-1 na Tabela FIPE.",
+    "h1": "Geracao 22000-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/chevrolet/22000-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "chevrolet-22000-2p-diesel-1985-diesel",
+      "fipeCodigo": "502012-3",
+      "displayName": "CHEVROLET 22000 2p (diesel)",
+      "valorAtual": 21398,
+      "canonicalPath": "/fipe/chevrolet/22000-2p-diesel-1985-502012-3/",
+      "ano": 1985,
+      "marca": "CHEVROLET"
+    },
+    {
+      "vehicleId": "chevrolet-22000-2p-diesel-1986-diesel",
+      "fipeCodigo": "502012-3",
+      "displayName": "CHEVROLET 22000 2p (diesel)",
+      "valorAtual": 22820,
+      "canonicalPath": "/fipe/chevrolet/22000-2p-diesel-1986-502012-3/",
+      "ano": 1986,
+      "marca": "CHEVROLET"
+    },
+    {
+      "vehicleId": "chevrolet-22000-2p-diesel-1987-diesel",
+      "fipeCodigo": "502012-3",
+      "displayName": "CHEVROLET 22000 2p (diesel)",
+      "valorAtual": 24180,
+      "canonicalPath": "/fipe/chevrolet/22000-2p-diesel-1987-502012-3/",
+      "ano": 1987,
+      "marca": "CHEVROLET"
+    },
+    {
+      "vehicleId": "chevrolet-22000-2p-diesel-1988-diesel",
+      "fipeCodigo": "502012-3",
+      "displayName": "CHEVROLET 22000 2p (diesel)",
+      "valorAtual": 26726,
+      "canonicalPath": "/fipe/chevrolet/22000-2p-diesel-1988-502012-3/",
+      "ano": 1988,
+      "marca": "CHEVROLET"
+    },
+    {
+      "vehicleId": "chevrolet-22000-2p-diesel-1989-diesel",
+      "fipeCodigo": "502012-3",
+      "displayName": "CHEVROLET 22000 2p (diesel)",
+      "valorAtual": 28315,
+      "canonicalPath": "/fipe/chevrolet/22000-2p-diesel-1989-502012-3/",
+      "ano": 1989,
+      "marca": "CHEVROLET"
+    },
+    {
+      "vehicleId": "chevrolet-22000-2p-diesel-1990-diesel",
+      "fipeCodigo": "502012-3",
+      "displayName": "CHEVROLET 22000 2p (diesel)",
+      "valorAtual": 30508,
+      "canonicalPath": "/fipe/chevrolet/22000-2p-diesel-1990-502012-3/",
+      "ano": 1990,
+      "marca": "CHEVROLET"
+    }
+  ],
+  "stats": {
+    "total": 6
+  },
+  "meta": {
+    "geracaoId": "22000-1"
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "tipo": "geracao",
+  "slug": "maverick-2",
+  "canonicalPath": "/geracao/ford/maverick-2/",
+  "titulo": "Geracao maverick-2",
+  "descricao": "10 veiculos da geracao maverick-2.",
+  "seo": {
+    "title": "Geracao maverick-2 - Precos FIPE",
+    "description": "Veiculos da geracao maverick-2 na Tabela FIPE.",
+    "h1": "Geracao maverick-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/ford/maverick-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "ford-maverick-l-black-2-0-ecoboost-awd-aut-2025-gasolina",
+      "fipeCodigo": "003510-6",
+      "displayName": "Ford Maverick L. Black 2.0 EcoBoost AWD Aut.",
+      "valorAtual": 201786,
+      "canonicalPath": "/fipe/ford/maverick-l-black-2-0-ecoboost-awd-aut-2025-003510-6/",
+      "ano": 2025,
+      "marca": "Ford"
+    },
+    {
+      "vehicleId": "ford-maverick-lariat-fx4-2-0-ecoboost-aut-2022-gasolina",
+      "fipeCodigo": "003485-1",
+      "displayName": "Ford Maverick Lariat FX4 2.0 EcoBoost Aut.",
+      "valorAtual": 152562,
+      "canonicalPath": "/fipe/ford/maverick-lariat-fx4-2-0-ecoboost-aut-2022-003485-1/",
+      "ano": 2022,
+      "marca": "Ford"
+    },
+    {
+      "vehicleId": "ford-maverick-lariat-fx4-2-0-ecoboost-aut-2023-gasolina",
+      "fipeCodigo": "003485-1",
+      "displayName": "Ford Maverick Lariat FX4 2.0 EcoBoost Aut.",
+      "valorAtual": 160887,
+      "canonicalPath": "/fipe/ford/maverick-lariat-fx4-2-0-ecoboost-aut-2023-003485-1/",
+      "ano": 2023,
+      "marca": "Ford"
+    },
+    {
+      "vehicleId": "ford-maverick-lariat-fx4-2-0-ecoboost-aut-2024-gasolina",
+      "fipeCodigo": "003485-1",
+      "displayName": "Ford Maverick Lariat FX4 2.0 EcoBoost Aut.",
+      "valorAtual": 173147,
+      "canonicalPath": "/fipe/ford/maverick-lariat-fx4-2-0-ecoboost-aut-2024-003485-1/",
+      "ano": 2024,
+      "marca": "Ford"
+    },
+    {
+      "vehicleId": "ford-maverick-lariat-hybrid-2-5-awd-aut-2025-hibrido",
+      "fipeCodigo": "003518-1",
+      "displayName": "Ford Maverick Lariat Hybrid 2.5 AWD Aut.",
+      "valorAtual": 207664,
+      "canonicalPath": "/fipe/ford/maverick-lariat-hybrid-2-5-awd-aut-2025-003518-1/",
+      "ano": 2025,
+      "marca": "Ford"
+    },
+    {
+      "vehicleId": "ford-maverick-lariat-hybrid-2-5-awd-aut-2026-hibrido",
+      "fipeCodigo": "003518-1",
+      "displayName": "Ford Maverick Lariat Hybrid 2.5 AWD Aut.",
+      "valorAtual": 214528,
+      "canonicalPath": "/fipe/ford/maverick-lariat-hybrid-2-5-awd-aut-2026-003518-1/",
+      "ano": 2026,
+      "marca": "Ford"
+    },
+    {
+      "vehicleId": "ford-maverick-lariat-hybrid-2-5-fwd-aut-2023-hibrido",
+      "fipeCodigo": "003495-9",
+      "displayName": "Ford Maverick Lariat Hybrid 2.5 FWD Aut.",
+      "valorAtual": 165202,
+      "canonicalPath": "/fipe/ford/maverick-lariat-hybrid-2-5-fwd-aut-2023-003495-9/",
+      "ano": 2023,
+      "marca": "Ford"
+    },
+    {
+      "vehicleId": "ford-maverick-lariat-hybrid-2-5-fwd-aut-2024-hibrido",
+      "fipeCodigo": "003495-9",
+      "displayName": "Ford Maverick Lariat Hybrid 2.5 FWD Aut.",
+      "valorAtual": 180473,
+      "canonicalPath": "/fipe/ford/maverick-lariat-hybrid-2-5-fwd-aut-2024-003495-9/",
+      "ano": 2024,
+      "marca": "Ford"
+    },
+    {
+      "vehicleId": "ford-maverick-tremor-2-0-ecoboost-4wd-aut-2025-gasolina",
+      "fipeCodigo": "003511-4",
+      "displayName": "Ford Maverick Tremor 2.0 EcoBoost 4WD Aut.",
+      "valorAtual": 218386,
+      "canonicalPath": "/fipe/ford/maverick-tremor-2-0-ecoboost-4wd-aut-2025-003511-4/",
+      "ano": 2025,
+      "marca": "Ford"
+    },
+    {
+      "vehicleId": "ford-maverick-tremor-2-0-ecoboost-4wd-aut-2026-gasolina",
+      "fipeCodigo": "003511-4",
+      "displayName": "Ford Maverick Tremor 2.0 EcoBoost 4WD Aut.",
+      "valorAtual": 225280,
+      "canonicalPath": "/fipe/ford/maverick-tremor-2-0-ecoboost-4wd-aut-2026-003511-4/",
+      "ano": 2026,
+      "marca": "Ford"
+    }
+  ],
+  "stats": {
+    "total": 10
+  },
+  "meta": {
+    "geracaoId": "maverick-2"
+  }
+}

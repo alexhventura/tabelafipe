@@ -1,0 +1,72 @@
+{
+  "tipo": "familia",
+  "slug": "velocette",
+  "canonicalPath": "/fipe/motorino/velocette/",
+  "titulo": "MOTORINO velocette - Tabela FIPE",
+  "descricao": "5 versoes e anos do MOTORINO velocette na Tabela FIPE.",
+  "seo": {
+    "title": "MOTORINO velocette - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes MOTORINO velocette. 5 veiculos indexados.",
+    "h1": "MOTORINO velocette - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/motorino/velocette/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "motorino-velocette-150cc-2019-gasolina",
+      "fipeCodigo": "881006-0",
+      "displayName": "MOTORINO Velocette 150cc",
+      "valorAtual": 16706,
+      "canonicalPath": "/fipe/motorino/velocette-150cc-2019-881006-0/",
+      "ano": 2019,
+      "marca": "MOTORINO"
+    },
+    {
+      "vehicleId": "motorino-velocette-150cc-2018-gasolina",
+      "fipeCodigo": "881006-0",
+      "displayName": "MOTORINO Velocette 150cc",
+      "valorAtual": 14020,
+      "canonicalPath": "/fipe/motorino/velocette-150cc-2018-881006-0/",
+      "ano": 2018,
+      "marca": "MOTORINO"
+    },
+    {
+      "vehicleId": "motorino-velocette-150cc-2016-gasolina",
+      "fipeCodigo": "881006-0",
+      "displayName": "MOTORINO Velocette 150cc",
+      "valorAtual": 13124,
+      "canonicalPath": "/fipe/motorino/velocette-150cc-2016-881006-0/",
+      "ano": 2016,
+      "marca": "MOTORINO"
+    },
+    {
+      "vehicleId": "motorino-velocette-150cc-2015-gasolina",
+      "fipeCodigo": "881006-0",
+      "displayName": "MOTORINO Velocette 150cc",
+      "valorAtual": 10513,
+      "canonicalPath": "/fipe/motorino/velocette-150cc-2015-881006-0/",
+      "ano": 2015,
+      "marca": "MOTORINO"
+    },
+    {
+      "vehicleId": "motorino-velocette-150cc-2014-gasolina",
+      "fipeCodigo": "881006-0",
+      "displayName": "MOTORINO Velocette 150cc",
+      "valorAtual": 8621,
+      "canonicalPath": "/fipe/motorino/velocette-150cc-2014-881006-0/",
+      "ano": 2014,
+      "marca": "MOTORINO"
+    }
+  ],
+  "stats": {
+    "total": 5,
+    "precoMin": 8621,
+    "precoMax": 16706,
+    "anos": [
+      2019,
+      2018,
+      2016,
+      2015,
+      2014
+    ]
+  }
+}

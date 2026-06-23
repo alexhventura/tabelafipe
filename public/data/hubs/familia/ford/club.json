@@ -1,0 +1,71 @@
+{
+  "tipo": "familia",
+  "slug": "club",
+  "canonicalPath": "/fipe/ford/club/",
+  "titulo": "Ford club - Tabela FIPE",
+  "descricao": "5 versoes e anos do Ford club na Tabela FIPE.",
+  "seo": {
+    "title": "Ford club - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes Ford club. 5 veiculos indexados.",
+    "h1": "Ford club - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/ford/club/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "ford-club-wagon-xlt-4-9-v6-1996-gasolina",
+      "fipeCodigo": "003120-8",
+      "displayName": "Ford Club Wagon XLT 4.9 V6",
+      "valorAtual": 26636,
+      "canonicalPath": "/fipe/ford/club-wagon-xlt-4-9-v6-1996-003120-8/",
+      "ano": 1996,
+      "marca": "Ford"
+    },
+    {
+      "vehicleId": "ford-club-wagon-xlt-4-9-v6-1995-gasolina",
+      "fipeCodigo": "003120-8",
+      "displayName": "Ford Club Wagon XLT 4.9 V6",
+      "valorAtual": 24496,
+      "canonicalPath": "/fipe/ford/club-wagon-xlt-4-9-v6-1995-003120-8/",
+      "ano": 1995,
+      "marca": "Ford"
+    },
+    {
+      "vehicleId": "ford-club-wagon-v8-1995-gasolina",
+      "fipeCodigo": "003119-4",
+      "displayName": "Ford Club Wagon V8",
+      "valorAtual": 28058,
+      "canonicalPath": "/fipe/ford/club-wagon-v8-1995-003119-4/",
+      "ano": 1995,
+      "marca": "Ford"
+    },
+    {
+      "vehicleId": "ford-club-wagon-v8-1994-gasolina",
+      "fipeCodigo": "003119-4",
+      "displayName": "Ford Club Wagon V8",
+      "valorAtual": 22628,
+      "canonicalPath": "/fipe/ford/club-wagon-v8-1994-003119-4/",
+      "ano": 1994,
+      "marca": "Ford"
+    },
+    {
+      "vehicleId": "ford-club-wagon-v8-1993-gasolina",
+      "fipeCodigo": "003119-4",
+      "displayName": "Ford Club Wagon V8",
+      "valorAtual": 17633,
+      "canonicalPath": "/fipe/ford/club-wagon-v8-1993-003119-4/",
+      "ano": 1993,
+      "marca": "Ford"
+    }
+  ],
+  "stats": {
+    "total": 5,
+    "precoMin": 17633,
+    "precoMax": 28058,
+    "anos": [
+      1996,
+      1995,
+      1994,
+      1993
+    ]
+  }
+}

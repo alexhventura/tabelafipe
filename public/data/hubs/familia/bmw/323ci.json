@@ -1,0 +1,42 @@
+{
+  "tipo": "familia",
+  "slug": "323ci",
+  "canonicalPath": "/fipe/bmw/323ci/",
+  "titulo": "BMW 323ci - Tabela FIPE",
+  "descricao": "2 versoes e anos do BMW 323ci na Tabela FIPE.",
+  "seo": {
+    "title": "BMW 323ci - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes BMW 323ci. 2 veiculos indexados.",
+    "h1": "BMW 323ci - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/bmw/323ci/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "bmw-323ci-coupe-2000-gasolina",
+      "fipeCodigo": "009057-3",
+      "displayName": "BMW 323Ci Coupê",
+      "valorAtual": 38482,
+      "canonicalPath": "/fipe/bmw/323ci-coupe-2000-009057-3/",
+      "ano": 2000,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-323ci-coupe-1999-gasolina",
+      "fipeCodigo": "009057-3",
+      "displayName": "BMW 323Ci Coupê",
+      "valorAtual": 34633,
+      "canonicalPath": "/fipe/bmw/323ci-coupe-1999-009057-3/",
+      "ano": 1999,
+      "marca": "BMW"
+    }
+  ],
+  "stats": {
+    "total": 2,
+    "precoMin": 34633,
+    "precoMax": 38482,
+    "anos": [
+      2000,
+      1999
+    ]
+  }
+}

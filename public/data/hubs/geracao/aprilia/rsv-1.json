@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "rsv-1",
+  "canonicalPath": "/geracao/aprilia/rsv-1/",
+  "titulo": "Geracao rsv-1",
+  "descricao": "2 veiculos da geracao rsv-1.",
+  "seo": {
+    "title": "Geracao rsv-1 - Precos FIPE",
+    "description": "Veiculos da geracao rsv-1 na Tabela FIPE.",
+    "h1": "Geracao rsv-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/aprilia/rsv-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "aprilia-rsv-mille-1000cc-1999-gasolina",
+      "fipeCodigo": "802009-4",
+      "displayName": "APRILIA RSV MILLE 1000cc",
+      "valorAtual": 17639,
+      "canonicalPath": "/fipe/aprilia/rsv-mille-1000cc-1999-802009-4/",
+      "ano": 1999,
+      "marca": "APRILIA"
+    },
+    {
+      "vehicleId": "aprilia-rsv-mille-1000cc-2000-gasolina",
+      "fipeCodigo": "802009-4",
+      "displayName": "APRILIA RSV MILLE 1000cc",
+      "valorAtual": 19062,
+      "canonicalPath": "/fipe/aprilia/rsv-mille-1000cc-2000-802009-4/",
+      "ano": 2000,
+      "marca": "APRILIA"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "rsv-1"
+  }
+}

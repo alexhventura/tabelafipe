@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "vite-1",
+  "canonicalPath": "/geracao/miza/vite-1/",
+  "titulo": "Geracao vite-1",
+  "descricao": "2 veiculos da geracao vite-1.",
+  "seo": {
+    "title": "Geracao vite-1 - Precos FIPE",
+    "description": "Veiculos da geracao vite-1 na Tabela FIPE.",
+    "h1": "Geracao vite-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/miza/vite-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "miza-vite-lj-150t-7-2007-gasolina",
+      "fipeCodigo": "848005-2",
+      "displayName": "MIZA VITE LJ 150T-7",
+      "valorAtual": 2138,
+      "canonicalPath": "/fipe/miza/vite-lj-150t-7-2007-848005-2/",
+      "ano": 2007,
+      "marca": "MIZA"
+    },
+    {
+      "vehicleId": "miza-vite-lj-150t-7-2008-gasolina",
+      "fipeCodigo": "848005-2",
+      "displayName": "MIZA VITE LJ 150T-7",
+      "valorAtual": 2452,
+      "canonicalPath": "/fipe/miza/vite-lj-150t-7-2008-848005-2/",
+      "ano": 2008,
+      "marca": "MIZA"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "vite-1"
+  }
+}

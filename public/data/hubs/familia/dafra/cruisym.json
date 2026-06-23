@@ -1,0 +1,127 @@
+{
+  "tipo": "familia",
+  "slug": "cruisym",
+  "canonicalPath": "/fipe/dafra/cruisym/",
+  "titulo": "DAFRA cruisym - Tabela FIPE",
+  "descricao": "11 versoes e anos do DAFRA cruisym na Tabela FIPE.",
+  "seo": {
+    "title": "DAFRA cruisym - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes DAFRA cruisym. 11 veiculos indexados.",
+    "h1": "DAFRA cruisym - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/dafra/cruisym/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "dafra-cruisym-150-2026-gasolina",
+      "fipeCodigo": "861029-0",
+      "displayName": "DAFRA CRUISYM 150",
+      "valorAtual": 17267,
+      "canonicalPath": "/fipe/dafra/cruisym-150-2026-861029-0/",
+      "ano": 2026,
+      "marca": "DAFRA"
+    },
+    {
+      "vehicleId": "dafra-cruisym-300-2026-gasolina",
+      "fipeCodigo": "861030-4",
+      "displayName": "DAFRA CRUISYM 300",
+      "valorAtual": 31374,
+      "canonicalPath": "/fipe/dafra/cruisym-300-2026-861030-4/",
+      "ano": 2026,
+      "marca": "DAFRA"
+    },
+    {
+      "vehicleId": "dafra-cruisym-150-2025-gasolina",
+      "fipeCodigo": "861029-0",
+      "displayName": "DAFRA CRUISYM 150",
+      "valorAtual": 16594,
+      "canonicalPath": "/fipe/dafra/cruisym-150-2025-861029-0/",
+      "ano": 2025,
+      "marca": "DAFRA"
+    },
+    {
+      "vehicleId": "dafra-cruisym-300-2025-gasolina",
+      "fipeCodigo": "861030-4",
+      "displayName": "DAFRA CRUISYM 300",
+      "valorAtual": 29733,
+      "canonicalPath": "/fipe/dafra/cruisym-300-2025-861030-4/",
+      "ano": 2025,
+      "marca": "DAFRA"
+    },
+    {
+      "vehicleId": "dafra-cruisym-150-2024-gasolina",
+      "fipeCodigo": "861029-0",
+      "displayName": "DAFRA CRUISYM 150",
+      "valorAtual": 14553,
+      "canonicalPath": "/fipe/dafra/cruisym-150-2024-861029-0/",
+      "ano": 2024,
+      "marca": "DAFRA"
+    },
+    {
+      "vehicleId": "dafra-cruisym-300-2024-gasolina",
+      "fipeCodigo": "861030-4",
+      "displayName": "DAFRA CRUISYM 300",
+      "valorAtual": 27726,
+      "canonicalPath": "/fipe/dafra/cruisym-300-2024-861030-4/",
+      "ano": 2024,
+      "marca": "DAFRA"
+    },
+    {
+      "vehicleId": "dafra-cruisym-150-2023-gasolina",
+      "fipeCodigo": "861029-0",
+      "displayName": "DAFRA CRUISYM 150",
+      "valorAtual": 12704,
+      "canonicalPath": "/fipe/dafra/cruisym-150-2023-861029-0/",
+      "ano": 2023,
+      "marca": "DAFRA"
+    },
+    {
+      "vehicleId": "dafra-cruisym-300-2023-gasolina",
+      "fipeCodigo": "861030-4",
+      "displayName": "DAFRA CRUISYM 300",
+      "valorAtual": 25745,
+      "canonicalPath": "/fipe/dafra/cruisym-300-2023-861030-4/",
+      "ano": 2023,
+      "marca": "DAFRA"
+    },
+    {
+      "vehicleId": "dafra-cruisym-150-2022-gasolina",
+      "fipeCodigo": "861029-0",
+      "displayName": "DAFRA CRUISYM 150",
+      "valorAtual": 12009,
+      "canonicalPath": "/fipe/dafra/cruisym-150-2022-861029-0/",
+      "ano": 2022,
+      "marca": "DAFRA"
+    },
+    {
+      "vehicleId": "dafra-cruisym-150-0-gasolina",
+      "fipeCodigo": "861029-0",
+      "displayName": "DAFRA CRUISYM 150",
+      "valorAtual": 18581,
+      "canonicalPath": "/fipe/dafra/cruisym-150-0-861029-0/",
+      "ano": 0,
+      "marca": "DAFRA"
+    },
+    {
+      "vehicleId": "dafra-cruisym-300-0-gasolina",
+      "fipeCodigo": "861030-4",
+      "displayName": "DAFRA CRUISYM 300",
+      "valorAtual": 33090,
+      "canonicalPath": "/fipe/dafra/cruisym-300-0-861030-4/",
+      "ano": 0,
+      "marca": "DAFRA"
+    }
+  ],
+  "stats": {
+    "total": 11,
+    "precoMin": 12009,
+    "precoMax": 33090,
+    "anos": [
+      2026,
+      2025,
+      2024,
+      2023,
+      2022,
+      0
+    ]
+  }
+}

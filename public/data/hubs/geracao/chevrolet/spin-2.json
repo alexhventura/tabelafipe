@@ -1,0 +1,741 @@
+{
+  "tipo": "geracao",
+  "slug": "spin-2",
+  "canonicalPath": "/geracao/chevrolet/spin-2/",
+  "titulo": "Geracao spin-2",
+  "descricao": "98 veiculos da geracao spin-2.",
+  "seo": {
+    "title": "Geracao spin-2 - Precos FIPE",
+    "description": "Veiculos da geracao spin-2 na Tabela FIPE.",
+    "h1": "Geracao spin-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/chevrolet/spin-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "chevrolet-spin-1-8-8v-econo-flex-5p-aut-2025-flex",
+      "fipeCodigo": "004564-0",
+      "displayName": "GM - Chevrolet SPIN 1.8 8V Econo.Flex 5p Aut.",
+      "valorAtual": 96433,
+      "canonicalPath": "/fipe/chevrolet/spin-1-8-8v-econo-flex-5p-aut-2025-004564-0/",
+      "ano": 2025,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-spin-1-8-8v-econo-flex-5p-aut-2026-flex",
+      "fipeCodigo": "004564-0",
+      "displayName": "GM - Chevrolet SPIN 1.8 8V Econo.Flex 5p Aut.",
+      "valorAtual": 104339,
+      "canonicalPath": "/fipe/chevrolet/spin-1-8-8v-econo-flex-5p-aut-2026-004564-0/",
+      "ano": 2026,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-spin-1-8-8v-econo-flex-5p-aut-2027-flex",
+      "fipeCodigo": "004564-0",
+      "displayName": "GM - Chevrolet SPIN 1.8 8V Econo.Flex 5p Aut.",
+      "valorAtual": 108204,
+      "canonicalPath": "/fipe/chevrolet/spin-1-8-8v-econo-flex-5p-aut-2027-004564-0/",
+      "ano": 2027,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-spin-activ-1-8-8v-econo-flex-5p-aut-2015-flex",
+      "fipeCodigo": "004458-0",
+      "displayName": "GM - Chevrolet SPIN ACTIV 1.8 8V Econo. Flex 5p Aut.",
+      "valorAtual": 55652,
+      "canonicalPath": "/fipe/chevrolet/spin-activ-1-8-8v-econo-flex-5p-aut-2015-004458-0/",
+      "ano": 2015,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-spin-activ-1-8-8v-econo-flex-5p-aut-2016-flex",
+      "fipeCodigo": "004458-0",
+      "displayName": "GM - Chevrolet SPIN ACTIV 1.8 8V Econo. Flex 5p Aut.",
+      "valorAtual": 58191,
+      "canonicalPath": "/fipe/chevrolet/spin-activ-1-8-8v-econo-flex-5p-aut-2016-004458-0/",
+      "ano": 2016,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-spin-activ-1-8-8v-econo-flex-5p-aut-2017-flex",
+      "fipeCodigo": "004458-0",
+      "displayName": "GM - Chevrolet SPIN ACTIV 1.8 8V Econo. Flex 5p Aut.",
+      "valorAtual": 60799,
+      "canonicalPath": "/fipe/chevrolet/spin-activ-1-8-8v-econo-flex-5p-aut-2017-004458-0/",
+      "ano": 2017,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-spin-activ-1-8-8v-econo-flex-5p-aut-2018-flex",
+      "fipeCodigo": "004458-0",
+      "displayName": "GM - Chevrolet SPIN ACTIV 1.8 8V Econo. Flex 5p Aut.",
+      "valorAtual": 63003,
+      "canonicalPath": "/fipe/chevrolet/spin-activ-1-8-8v-econo-flex-5p-aut-2018-004458-0/",
+      "ano": 2018,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-spin-activ-1-8-8v-econo-flex-5p-aut-2019-flex",
+      "fipeCodigo": "004458-0",
+      "displayName": "GM - Chevrolet SPIN ACTIV 1.8 8V Econo. Flex 5p Aut.",
+      "valorAtual": 70972,
+      "canonicalPath": "/fipe/chevrolet/spin-activ-1-8-8v-econo-flex-5p-aut-2019-004458-0/",
+      "ano": 2019,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-spin-activ-1-8-8v-econo-flex-5p-aut-2020-flex",
+      "fipeCodigo": "004458-0",
+      "displayName": "GM - Chevrolet SPIN ACTIV 1.8 8V Econo. Flex 5p Aut.",
+      "valorAtual": 73336,
+      "canonicalPath": "/fipe/chevrolet/spin-activ-1-8-8v-econo-flex-5p-aut-2020-004458-0/",
+      "ano": 2020,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-spin-activ-1-8-8v-econo-flex-5p-aut-2021-flex",
+      "fipeCodigo": "004458-0",
+      "displayName": "GM - Chevrolet SPIN ACTIV 1.8 8V Econo. Flex 5p Aut.",
+      "valorAtual": 77748,
+      "canonicalPath": "/fipe/chevrolet/spin-activ-1-8-8v-econo-flex-5p-aut-2021-004458-0/",
+      "ano": 2021,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-spin-activ-1-8-8v-econo-flex-5p-aut-2022-flex",
+      "fipeCodigo": "004458-0",
+      "displayName": "GM - Chevrolet SPIN ACTIV 1.8 8V Econo. Flex 5p Aut.",
+      "valorAtual": 82666,
+      "canonicalPath": "/fipe/chevrolet/spin-activ-1-8-8v-econo-flex-5p-aut-2022-004458-0/",
+      "ano": 2022,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-spin-activ-1-8-8v-econo-flex-5p-aut-2023-flex",
+      "fipeCodigo": "004458-0",
+      "displayName": "GM - Chevrolet SPIN ACTIV 1.8 8V Econo. Flex 5p Aut.",
+      "valorAtual": 87546,
+      "canonicalPath": "/fipe/chevrolet/spin-activ-1-8-8v-econo-flex-5p-aut-2023-004458-0/",
+      "ano": 2023,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-spin-activ-1-8-8v-econo-flex-5p-mec-2015-flex",
+      "fipeCodigo": "004459-8",
+      "displayName": "GM - Chevrolet SPIN ACTIV 1.8 8V Econo. Flex 5p Mec.",
+      "valorAtual": 52857,
+      "canonicalPath": "/fipe/chevrolet/spin-activ-1-8-8v-econo-flex-5p-mec-2015-004459-8/",
+      "ano": 2015,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-spin-activ-1-8-8v-econo-flex-5p-mec-2016-flex",
+      "fipeCodigo": "004459-8",
+      "displayName": "GM - Chevrolet SPIN ACTIV 1.8 8V Econo. Flex 5p Mec.",
+      "valorAtual": 57923,
+      "canonicalPath": "/fipe/chevrolet/spin-activ-1-8-8v-econo-flex-5p-mec-2016-004459-8/",
+      "ano": 2016,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-spin-activ7-1-8-8v-econo-flex-5p-aut-2019-flex",
+      "fipeCodigo": "004490-3",
+      "displayName": "GM - Chevrolet SPIN ACTIV7 1.8 8V Econo.Flex 5p Aut.",
+      "valorAtual": 74369,
+      "canonicalPath": "/fipe/chevrolet/spin-activ7-1-8-8v-econo-flex-5p-aut-2019-004490-3/",
+      "ano": 2019,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-spin-activ7-1-8-8v-econo-flex-5p-aut-2020-flex",
+      "fipeCodigo": "004490-3",
+      "displayName": "GM - Chevrolet SPIN ACTIV7 1.8 8V Econo.Flex 5p Aut.",
+      "valorAtual": 76229,
+      "canonicalPath": "/fipe/chevrolet/spin-activ7-1-8-8v-econo-flex-5p-aut-2020-004490-3/",
+      "ano": 2020,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-spin-activ7-1-8-8v-econo-flex-5p-aut-2021-flex",
+      "fipeCodigo": "004490-3",
+      "displayName": "GM - Chevrolet SPIN ACTIV7 1.8 8V Econo.Flex 5p Aut.",
+      "valorAtual": 79540,
+      "canonicalPath": "/fipe/chevrolet/spin-activ7-1-8-8v-econo-flex-5p-aut-2021-004490-3/",
+      "ano": 2021,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-spin-activ7-1-8-8v-econo-flex-5p-aut-2022-flex",
+      "fipeCodigo": "004490-3",
+      "displayName": "GM - Chevrolet SPIN ACTIV7 1.8 8V Econo.Flex 5p Aut.",
+      "valorAtual": 84282,
+      "canonicalPath": "/fipe/chevrolet/spin-activ7-1-8-8v-econo-flex-5p-aut-2022-004490-3/",
+      "ano": 2022,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-spin-activ7-1-8-8v-econo-flex-5p-aut-2023-flex",
+      "fipeCodigo": "004490-3",
+      "displayName": "GM - Chevrolet SPIN ACTIV7 1.8 8V Econo.Flex 5p Aut.",
+      "valorAtual": 92451,
+      "canonicalPath": "/fipe/chevrolet/spin-activ7-1-8-8v-econo-flex-5p-aut-2023-004490-3/",
+      "ano": 2023,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-spin-activ7-1-8-8v-econo-flex-5p-aut-2024-flex",
+      "fipeCodigo": "004490-3",
+      "displayName": "GM - Chevrolet SPIN ACTIV7 1.8 8V Econo.Flex 5p Aut.",
+      "valorAtual": 105179,
+      "canonicalPath": "/fipe/chevrolet/spin-activ7-1-8-8v-econo-flex-5p-aut-2024-004490-3/",
+      "ano": 2024,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-spin-advantage-1-8-8v-econo-flex-5p-aut-2014-flex",
+      "fipeCodigo": "004441-5",
+      "displayName": "GM - Chevrolet SPIN ADVANTAGE 1.8 8V Econo.Flex 5p Aut.",
+      "valorAtual": 44529,
+      "canonicalPath": "/fipe/chevrolet/spin-advantage-1-8-8v-econo-flex-5p-aut-2014-004441-5/",
+      "ano": 2014,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-spin-advantage-1-8-8v-econo-flex-5p-aut-2015-flex",
+      "fipeCodigo": "004441-5",
+      "displayName": "GM - Chevrolet SPIN ADVANTAGE 1.8 8V Econo.Flex 5p Aut.",
+      "valorAtual": 45643,
+      "canonicalPath": "/fipe/chevrolet/spin-advantage-1-8-8v-econo-flex-5p-aut-2015-004441-5/",
+      "ano": 2015,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-spin-advantage-1-8-8v-econo-flex-5p-aut-2017-flex",
+      "fipeCodigo": "004441-5",
+      "displayName": "GM - Chevrolet SPIN ADVANTAGE 1.8 8V Econo.Flex 5p Aut.",
+      "valorAtual": 52807,
+      "canonicalPath": "/fipe/chevrolet/spin-advantage-1-8-8v-econo-flex-5p-aut-2017-004441-5/",
+      "ano": 2017,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-spin-advantage-1-8-8v-econo-flex-5p-aut-2018-flex",
+      "fipeCodigo": "004441-5",
+      "displayName": "GM - Chevrolet SPIN ADVANTAGE 1.8 8V Econo.Flex 5p Aut.",
+      "valorAtual": 55574,
+      "canonicalPath": "/fipe/chevrolet/spin-advantage-1-8-8v-econo-flex-5p-aut-2018-004441-5/",
+      "ano": 2018,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-spin-advantage-1-8-8v-econo-flex-5p-mec-2014-flex",
+      "fipeCodigo": "004440-7",
+      "displayName": "GM - Chevrolet SPIN ADVANTAGE 1.8 8V Econo.Flex 5p Mec.",
+      "valorAtual": 43769,
+      "canonicalPath": "/fipe/chevrolet/spin-advantage-1-8-8v-econo-flex-5p-mec-2014-004440-7/",
+      "ano": 2014,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-spin-advantage-1-8-8v-econo-flex-5p-mec-2015-flex",
+      "fipeCodigo": "004440-7",
+      "displayName": "GM - Chevrolet SPIN ADVANTAGE 1.8 8V Econo.Flex 5p Mec.",
+      "valorAtual": 44864,
+      "canonicalPath": "/fipe/chevrolet/spin-advantage-1-8-8v-econo-flex-5p-mec-2015-004440-7/",
+      "ano": 2015,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-spin-ls-1-8-8v-econo-flex-5p-aut-2022-flex",
+      "fipeCodigo": "004534-9",
+      "displayName": "GM - Chevrolet SPIN LS 1.8 8V Econo.Flex 5p Aut.",
+      "valorAtual": 67391,
+      "canonicalPath": "/fipe/chevrolet/spin-ls-1-8-8v-econo-flex-5p-aut-2022-004534-9/",
+      "ano": 2022,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-spin-ls-1-8-8v-econo-flex-5p-aut-2023-flex",
+      "fipeCodigo": "004534-9",
+      "displayName": "GM - Chevrolet SPIN LS 1.8 8V Econo.Flex 5p Aut.",
+      "valorAtual": 72417,
+      "canonicalPath": "/fipe/chevrolet/spin-ls-1-8-8v-econo-flex-5p-aut-2023-004534-9/",
+      "ano": 2023,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-spin-ls-1-8-8v-econo-flex-5p-aut-2024-flex",
+      "fipeCodigo": "004534-9",
+      "displayName": "GM - Chevrolet SPIN LS 1.8 8V Econo.Flex 5p Aut.",
+      "valorAtual": 86497,
+      "canonicalPath": "/fipe/chevrolet/spin-ls-1-8-8v-econo-flex-5p-aut-2024-004534-9/",
+      "ano": 2024,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-spin-ls-1-8-8v-econo-flex-5p-mec-2013-flex",
+      "fipeCodigo": "004435-0",
+      "displayName": "GM - Chevrolet SPIN LS 1.8 8V Econo.Flex 5p Mec.",
+      "valorAtual": 31524,
+      "canonicalPath": "/fipe/chevrolet/spin-ls-1-8-8v-econo-flex-5p-mec-2013-004435-0/",
+      "ano": 2013,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-spin-ls-1-8-8v-econo-flex-5p-mec-2014-flex",
+      "fipeCodigo": "004435-0",
+      "displayName": "GM - Chevrolet SPIN LS 1.8 8V Econo.Flex 5p Mec.",
+      "valorAtual": 32693,
+      "canonicalPath": "/fipe/chevrolet/spin-ls-1-8-8v-econo-flex-5p-mec-2014-004435-0/",
+      "ano": 2014,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-spin-ls-1-8-8v-econo-flex-5p-mec-2016-flex",
+      "fipeCodigo": "004435-0",
+      "displayName": "GM - Chevrolet SPIN LS 1.8 8V Econo.Flex 5p Mec.",
+      "valorAtual": 39593,
+      "canonicalPath": "/fipe/chevrolet/spin-ls-1-8-8v-econo-flex-5p-mec-2016-004435-0/",
+      "ano": 2016,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-spin-ls-1-8-8v-econo-flex-5p-mec-2017-flex",
+      "fipeCodigo": "004435-0",
+      "displayName": "GM - Chevrolet SPIN LS 1.8 8V Econo.Flex 5p Mec.",
+      "valorAtual": 42336,
+      "canonicalPath": "/fipe/chevrolet/spin-ls-1-8-8v-econo-flex-5p-mec-2017-004435-0/",
+      "ano": 2017,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-spin-ls-1-8-8v-econo-flex-5p-mec-2018-flex",
+      "fipeCodigo": "004435-0",
+      "displayName": "GM - Chevrolet SPIN LS 1.8 8V Econo.Flex 5p Mec.",
+      "valorAtual": 45967,
+      "canonicalPath": "/fipe/chevrolet/spin-ls-1-8-8v-econo-flex-5p-mec-2018-004435-0/",
+      "ano": 2018,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-spin-ls-1-8-8v-econo-flex-5p-mec-2019-flex",
+      "fipeCodigo": "004435-0",
+      "displayName": "GM - Chevrolet SPIN LS 1.8 8V Econo.Flex 5p Mec.",
+      "valorAtual": 49430,
+      "canonicalPath": "/fipe/chevrolet/spin-ls-1-8-8v-econo-flex-5p-mec-2019-004435-0/",
+      "ano": 2019,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-spin-ls-1-8-8v-econo-flex-5p-mec-2020-flex",
+      "fipeCodigo": "004435-0",
+      "displayName": "GM - Chevrolet SPIN LS 1.8 8V Econo.Flex 5p Mec.",
+      "valorAtual": 56608,
+      "canonicalPath": "/fipe/chevrolet/spin-ls-1-8-8v-econo-flex-5p-mec-2020-004435-0/",
+      "ano": 2020,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-spin-ls-1-8-8v-econo-flex-5p-mec-2021-flex",
+      "fipeCodigo": "004435-0",
+      "displayName": "GM - Chevrolet SPIN LS 1.8 8V Econo.Flex 5p Mec.",
+      "valorAtual": 58954,
+      "canonicalPath": "/fipe/chevrolet/spin-ls-1-8-8v-econo-flex-5p-mec-2021-004435-0/",
+      "ano": 2021,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-spin-ls-1-8-8v-econo-flex-5p-mec-2022-flex",
+      "fipeCodigo": "004435-0",
+      "displayName": "GM - Chevrolet SPIN LS 1.8 8V Econo.Flex 5p Mec.",
+      "valorAtual": 60428,
+      "canonicalPath": "/fipe/chevrolet/spin-ls-1-8-8v-econo-flex-5p-mec-2022-004435-0/",
+      "ano": 2022,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-spin-ls-1-8-8v-econo-flex-5p-mec-2023-flex",
+      "fipeCodigo": "004435-0",
+      "displayName": "GM - Chevrolet SPIN LS 1.8 8V Econo.Flex 5p Mec.",
+      "valorAtual": 69017,
+      "canonicalPath": "/fipe/chevrolet/spin-ls-1-8-8v-econo-flex-5p-mec-2023-004435-0/",
+      "ano": 2023,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-spin-ls-1-8-8v-econo-flex-5p-mec-2024-flex",
+      "fipeCodigo": "004435-0",
+      "displayName": "GM - Chevrolet SPIN LS 1.8 8V Econo.Flex 5p Mec.",
+      "valorAtual": 81464,
+      "canonicalPath": "/fipe/chevrolet/spin-ls-1-8-8v-econo-flex-5p-mec-2024-004435-0/",
+      "ano": 2024,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-spin-lt-1-8-8v-econo-flex-5p-aut-2013-flex",
+      "fipeCodigo": "004415-6",
+      "displayName": "GM - Chevrolet SPIN LT 1.8 8V Econo.Flex 5p Aut.",
+      "valorAtual": 42520,
+      "canonicalPath": "/fipe/chevrolet/spin-lt-1-8-8v-econo-flex-5p-aut-2013-004415-6/",
+      "ano": 2013,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-spin-lt-1-8-8v-econo-flex-5p-aut-2014-flex",
+      "fipeCodigo": "004415-6",
+      "displayName": "GM - Chevrolet SPIN LT 1.8 8V Econo.Flex 5p Aut.",
+      "valorAtual": 43583,
+      "canonicalPath": "/fipe/chevrolet/spin-lt-1-8-8v-econo-flex-5p-aut-2014-004415-6/",
+      "ano": 2014,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-spin-lt-1-8-8v-econo-flex-5p-aut-2015-flex",
+      "fipeCodigo": "004415-6",
+      "displayName": "GM - Chevrolet SPIN LT 1.8 8V Econo.Flex 5p Aut.",
+      "valorAtual": 44673,
+      "canonicalPath": "/fipe/chevrolet/spin-lt-1-8-8v-econo-flex-5p-aut-2015-004415-6/",
+      "ano": 2015,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-spin-lt-1-8-8v-econo-flex-5p-aut-2016-flex",
+      "fipeCodigo": "004415-6",
+      "displayName": "GM - Chevrolet SPIN LT 1.8 8V Econo.Flex 5p Aut.",
+      "valorAtual": 47781,
+      "canonicalPath": "/fipe/chevrolet/spin-lt-1-8-8v-econo-flex-5p-aut-2016-004415-6/",
+      "ano": 2016,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-spin-lt-1-8-8v-econo-flex-5p-aut-2017-flex",
+      "fipeCodigo": "004415-6",
+      "displayName": "GM - Chevrolet SPIN LT 1.8 8V Econo.Flex 5p Aut.",
+      "valorAtual": 52765,
+      "canonicalPath": "/fipe/chevrolet/spin-lt-1-8-8v-econo-flex-5p-aut-2017-004415-6/",
+      "ano": 2017,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-spin-lt-1-8-8v-econo-flex-5p-aut-2019-flex",
+      "fipeCodigo": "004415-6",
+      "displayName": "GM - Chevrolet SPIN LT 1.8 8V Econo.Flex 5p Aut.",
+      "valorAtual": 61625,
+      "canonicalPath": "/fipe/chevrolet/spin-lt-1-8-8v-econo-flex-5p-aut-2019-004415-6/",
+      "ano": 2019,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-spin-lt-1-8-8v-econo-flex-5p-aut-2020-flex",
+      "fipeCodigo": "004415-6",
+      "displayName": "GM - Chevrolet SPIN LT 1.8 8V Econo.Flex 5p Aut.",
+      "valorAtual": 66487,
+      "canonicalPath": "/fipe/chevrolet/spin-lt-1-8-8v-econo-flex-5p-aut-2020-004415-6/",
+      "ano": 2020,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-spin-lt-1-8-8v-econo-flex-5p-aut-2021-flex",
+      "fipeCodigo": "004415-6",
+      "displayName": "GM - Chevrolet SPIN LT 1.8 8V Econo.Flex 5p Aut.",
+      "valorAtual": 75802,
+      "canonicalPath": "/fipe/chevrolet/spin-lt-1-8-8v-econo-flex-5p-aut-2021-004415-6/",
+      "ano": 2021,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-spin-lt-1-8-8v-econo-flex-5p-aut-2022-flex",
+      "fipeCodigo": "004415-6",
+      "displayName": "GM - Chevrolet SPIN LT 1.8 8V Econo.Flex 5p Aut.",
+      "valorAtual": 78237,
+      "canonicalPath": "/fipe/chevrolet/spin-lt-1-8-8v-econo-flex-5p-aut-2022-004415-6/",
+      "ano": 2022,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-spin-lt-1-8-8v-econo-flex-5p-aut-2023-flex",
+      "fipeCodigo": "004415-6",
+      "displayName": "GM - Chevrolet SPIN LT 1.8 8V Econo.Flex 5p Aut.",
+      "valorAtual": 83941,
+      "canonicalPath": "/fipe/chevrolet/spin-lt-1-8-8v-econo-flex-5p-aut-2023-004415-6/",
+      "ano": 2023,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-spin-lt-1-8-8v-econo-flex-5p-aut-2024-flex",
+      "fipeCodigo": "004415-6",
+      "displayName": "GM - Chevrolet SPIN LT 1.8 8V Econo.Flex 5p Aut.",
+      "valorAtual": 87866,
+      "canonicalPath": "/fipe/chevrolet/spin-lt-1-8-8v-econo-flex-5p-aut-2024-004415-6/",
+      "ano": 2024,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-spin-lt-1-8-8v-econo-flex-5p-aut-2025-flex",
+      "fipeCodigo": "004415-6",
+      "displayName": "GM - Chevrolet SPIN LT 1.8 8V Econo.Flex 5p Aut.",
+      "valorAtual": 114870,
+      "canonicalPath": "/fipe/chevrolet/spin-lt-1-8-8v-econo-flex-5p-aut-2025-004415-6/",
+      "ano": 2025,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-spin-lt-1-8-8v-econo-flex-5p-aut-2026-flex",
+      "fipeCodigo": "004415-6",
+      "displayName": "GM - Chevrolet SPIN LT 1.8 8V Econo.Flex 5p Aut.",
+      "valorAtual": 125033,
+      "canonicalPath": "/fipe/chevrolet/spin-lt-1-8-8v-econo-flex-5p-aut-2026-004415-6/",
+      "ano": 2026,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-spin-lt-1-8-8v-econo-flex-5p-mec-2013-flex",
+      "fipeCodigo": "004414-8",
+      "displayName": "GM - Chevrolet SPIN LT 1.8 8V Econo.Flex 5p Mec.",
+      "valorAtual": 38222,
+      "canonicalPath": "/fipe/chevrolet/spin-lt-1-8-8v-econo-flex-5p-mec-2013-004414-8/",
+      "ano": 2013,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-spin-lt-1-8-8v-econo-flex-5p-mec-2014-flex",
+      "fipeCodigo": "004414-8",
+      "displayName": "GM - Chevrolet SPIN LT 1.8 8V Econo.Flex 5p Mec.",
+      "valorAtual": 39178,
+      "canonicalPath": "/fipe/chevrolet/spin-lt-1-8-8v-econo-flex-5p-mec-2014-004414-8/",
+      "ano": 2014,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-spin-lt-1-8-8v-econo-flex-5p-mec-2015-flex",
+      "fipeCodigo": "004414-8",
+      "displayName": "GM - Chevrolet SPIN LT 1.8 8V Econo.Flex 5p Mec.",
+      "valorAtual": 40158,
+      "canonicalPath": "/fipe/chevrolet/spin-lt-1-8-8v-econo-flex-5p-mec-2015-004414-8/",
+      "ano": 2015,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-spin-lt-1-8-8v-econo-flex-5p-mec-2016-flex",
+      "fipeCodigo": "004414-8",
+      "displayName": "GM - Chevrolet SPIN LT 1.8 8V Econo.Flex 5p Mec.",
+      "valorAtual": 41162,
+      "canonicalPath": "/fipe/chevrolet/spin-lt-1-8-8v-econo-flex-5p-mec-2016-004414-8/",
+      "ano": 2016,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-spin-lt-1-8-8v-econo-flex-5p-mec-2017-flex",
+      "fipeCodigo": "004414-8",
+      "displayName": "GM - Chevrolet SPIN LT 1.8 8V Econo.Flex 5p Mec.",
+      "valorAtual": 50232,
+      "canonicalPath": "/fipe/chevrolet/spin-lt-1-8-8v-econo-flex-5p-mec-2017-004414-8/",
+      "ano": 2017,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-spin-lt-1-8-8v-econo-flex-5p-mec-2018-flex",
+      "fipeCodigo": "004414-8",
+      "displayName": "GM - Chevrolet SPIN LT 1.8 8V Econo.Flex 5p Mec.",
+      "valorAtual": 51488,
+      "canonicalPath": "/fipe/chevrolet/spin-lt-1-8-8v-econo-flex-5p-mec-2018-004414-8/",
+      "ano": 2018,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-spin-lt-1-8-8v-econo-flex-5p-mec-2019-flex",
+      "fipeCodigo": "004414-8",
+      "displayName": "GM - Chevrolet SPIN LT 1.8 8V Econo.Flex 5p Mec.",
+      "valorAtual": 56990,
+      "canonicalPath": "/fipe/chevrolet/spin-lt-1-8-8v-econo-flex-5p-mec-2019-004414-8/",
+      "ano": 2019,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-spin-lt-1-8-8v-econo-flex-5p-mec-2020-flex",
+      "fipeCodigo": "004414-8",
+      "displayName": "GM - Chevrolet SPIN LT 1.8 8V Econo.Flex 5p Mec.",
+      "valorAtual": 59345,
+      "canonicalPath": "/fipe/chevrolet/spin-lt-1-8-8v-econo-flex-5p-mec-2020-004414-8/",
+      "ano": 2020,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-spin-lt-1-8-8v-econo-flex-5p-mec-2021-flex",
+      "fipeCodigo": "004414-8",
+      "displayName": "GM - Chevrolet SPIN LT 1.8 8V Econo.Flex 5p Mec.",
+      "valorAtual": 62865,
+      "canonicalPath": "/fipe/chevrolet/spin-lt-1-8-8v-econo-flex-5p-mec-2021-004414-8/",
+      "ano": 2021,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-spin-lt-1-8-8v-econo-flex-5p-mec-2022-flex",
+      "fipeCodigo": "004414-8",
+      "displayName": "GM - Chevrolet SPIN LT 1.8 8V Econo.Flex 5p Mec.",
+      "valorAtual": 64437,
+      "canonicalPath": "/fipe/chevrolet/spin-lt-1-8-8v-econo-flex-5p-mec-2022-004414-8/",
+      "ano": 2022,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-spin-lt-1-8-8v-econo-flex-5p-mec-2023-flex",
+      "fipeCodigo": "004414-8",
+      "displayName": "GM - Chevrolet SPIN LT 1.8 8V Econo.Flex 5p Mec.",
+      "valorAtual": 75772,
+      "canonicalPath": "/fipe/chevrolet/spin-lt-1-8-8v-econo-flex-5p-mec-2023-004414-8/",
+      "ano": 2023,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-spin-lt-1-8-8v-econo-flex-5p-mec-2024-flex",
+      "fipeCodigo": "004414-8",
+      "displayName": "GM - Chevrolet SPIN LT 1.8 8V Econo.Flex 5p Mec.",
+      "valorAtual": 86331,
+      "canonicalPath": "/fipe/chevrolet/spin-lt-1-8-8v-econo-flex-5p-mec-2024-004414-8/",
+      "ano": 2024,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-spin-lt-1-8-8v-econo-flex-5p-mec-2025-flex",
+      "fipeCodigo": "004414-8",
+      "displayName": "GM - Chevrolet SPIN LT 1.8 8V Econo.Flex 5p Mec.",
+      "valorAtual": 107408,
+      "canonicalPath": "/fipe/chevrolet/spin-lt-1-8-8v-econo-flex-5p-mec-2025-004414-8/",
+      "ano": 2025,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-spin-lt-1-8-8v-econo-flex-5p-mec-2026-flex",
+      "fipeCodigo": "004414-8",
+      "displayName": "GM - Chevrolet SPIN LT 1.8 8V Econo.Flex 5p Mec.",
+      "valorAtual": 120995,
+      "canonicalPath": "/fipe/chevrolet/spin-lt-1-8-8v-econo-flex-5p-mec-2026-004414-8/",
+      "ano": 2026,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-spin-lt-1-8-8v-econo-flex-5p-mec-2027-flex",
+      "fipeCodigo": "004414-8",
+      "displayName": "GM - Chevrolet SPIN LT 1.8 8V Econo.Flex 5p Mec.",
+      "valorAtual": 126122,
+      "canonicalPath": "/fipe/chevrolet/spin-lt-1-8-8v-econo-flex-5p-mec-2027-004414-8/",
+      "ano": 2027,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-spin-ltz-1-8-8v-econo-flex-5p-aut-2013-flex",
+      "fipeCodigo": "004417-2",
+      "displayName": "GM - Chevrolet SPIN LTZ 1.8 8V Econo.Flex 5p Aut.",
+      "valorAtual": 52571,
+      "canonicalPath": "/fipe/chevrolet/spin-ltz-1-8-8v-econo-flex-5p-aut-2013-004417-2/",
+      "ano": 2013,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-spin-ltz-1-8-8v-econo-flex-5p-aut-2014-flex",
+      "fipeCodigo": "004417-2",
+      "displayName": "GM - Chevrolet SPIN LTZ 1.8 8V Econo.Flex 5p Aut.",
+      "valorAtual": 53886,
+      "canonicalPath": "/fipe/chevrolet/spin-ltz-1-8-8v-econo-flex-5p-aut-2014-004417-2/",
+      "ano": 2014,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-spin-ltz-1-8-8v-econo-flex-5p-aut-2015-flex",
+      "fipeCodigo": "004417-2",
+      "displayName": "GM - Chevrolet SPIN LTZ 1.8 8V Econo.Flex 5p Aut.",
+      "valorAtual": 55300,
+      "canonicalPath": "/fipe/chevrolet/spin-ltz-1-8-8v-econo-flex-5p-aut-2015-004417-2/",
+      "ano": 2015,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-spin-ltz-1-8-8v-econo-flex-5p-aut-2016-flex",
+      "fipeCodigo": "004417-2",
+      "displayName": "GM - Chevrolet SPIN LTZ 1.8 8V Econo.Flex 5p Aut.",
+      "valorAtual": 57052,
+      "canonicalPath": "/fipe/chevrolet/spin-ltz-1-8-8v-econo-flex-5p-aut-2016-004417-2/",
+      "ano": 2016,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-spin-ltz-1-8-8v-econo-flex-5p-aut-2017-flex",
+      "fipeCodigo": "004417-2",
+      "displayName": "GM - Chevrolet SPIN LTZ 1.8 8V Econo.Flex 5p Aut.",
+      "valorAtual": 60702,
+      "canonicalPath": "/fipe/chevrolet/spin-ltz-1-8-8v-econo-flex-5p-aut-2017-004417-2/",
+      "ano": 2017,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-spin-ltz-1-8-8v-econo-flex-5p-aut-2018-flex",
+      "fipeCodigo": "004417-2",
+      "displayName": "GM - Chevrolet SPIN LTZ 1.8 8V Econo.Flex 5p Aut.",
+      "valorAtual": 62578,
+      "canonicalPath": "/fipe/chevrolet/spin-ltz-1-8-8v-econo-flex-5p-aut-2018-004417-2/",
+      "ano": 2018,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-spin-ltz-1-8-8v-econo-flex-5p-aut-2019-flex",
+      "fipeCodigo": "004417-2",
+      "displayName": "GM - Chevrolet SPIN LTZ 1.8 8V Econo.Flex 5p Aut.",
+      "valorAtual": 70258,
+      "canonicalPath": "/fipe/chevrolet/spin-ltz-1-8-8v-econo-flex-5p-aut-2019-004417-2/",
+      "ano": 2019,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-spin-ltz-1-8-8v-econo-flex-5p-aut-2023-flex",
+      "fipeCodigo": "004417-2",
+      "displayName": "GM - Chevrolet SPIN LTZ 1.8 8V Econo.Flex 5p Aut.",
+      "valorAtual": 79757,
+      "canonicalPath": "/fipe/chevrolet/spin-ltz-1-8-8v-econo-flex-5p-aut-2023-004417-2/",
+      "ano": 2023,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-spin-ltz-1-8-8v-econo-flex-5p-aut-2024-flex",
+      "fipeCodigo": "004417-2",
+      "displayName": "GM - Chevrolet SPIN LTZ 1.8 8V Econo.Flex 5p Aut.",
+      "valorAtual": 91301,
+      "canonicalPath": "/fipe/chevrolet/spin-ltz-1-8-8v-econo-flex-5p-aut-2024-004417-2/",
+      "ano": 2024,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-spin-ltz-1-8-8v-econo-flex-5p-aut-2025-flex",
+      "fipeCodigo": "004417-2",
+      "displayName": "GM - Chevrolet SPIN LTZ 1.8 8V Econo.Flex 5p Aut.",
+      "valorAtual": 114028,
+      "canonicalPath": "/fipe/chevrolet/spin-ltz-1-8-8v-econo-flex-5p-aut-2025-004417-2/",
+      "ano": 2025,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-spin-ltz-1-8-8v-econo-flex-5p-aut-2026-flex",
+      "fipeCodigo": "004417-2",
+      "displayName": "GM - Chevrolet SPIN LTZ 1.8 8V Econo.Flex 5p Aut.",
+      "valorAtual": 136123,
+      "canonicalPath": "/fipe/chevrolet/spin-ltz-1-8-8v-econo-flex-5p-aut-2026-004417-2/",
+      "ano": 2026,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-spin-ltz-1-8-8v-econo-flex-5p-aut-2027-flex",
+      "fipeCodigo": "004417-2",
+      "displayName": "GM - Chevrolet SPIN LTZ 1.8 8V Econo.Flex 5p Aut.",
+      "valorAtual": 144708,
+      "canonicalPath": "/fipe/chevrolet/spin-ltz-1-8-8v-econo-flex-5p-aut-2027-004417-2/",
+      "ano": 2027,
+      "marca": "GM - Chevrolet"
+    }
+  ],
+  "stats": {
+    "total": 98
+  },
+  "meta": {
+    "geracaoId": "spin-2"
+  }
+}

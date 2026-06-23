@@ -1,0 +1,48 @@
+{
+  "tipo": "geracao",
+  "slug": "pan-2",
+  "canonicalPath": "/geracao/harley-davidson/pan-2/",
+  "titulo": "Geracao pan-2",
+  "descricao": "3 veiculos da geracao pan-2.",
+  "seo": {
+    "title": "Geracao pan-2 - Precos FIPE",
+    "description": "Veiculos da geracao pan-2 na Tabela FIPE.",
+    "h1": "Geracao pan-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/harley-davidson/pan-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "harley-davidson-pan-america-1250-special-2022-gasolina",
+      "fipeCodigo": "810102-7",
+      "displayName": "HARLEY-DAVIDSON PAN AMERICA 1250 SPECIAL",
+      "valorAtual": 78549,
+      "canonicalPath": "/fipe/harley-davidson/pan-america-1250-special-2022-810102-7/",
+      "ano": 2022,
+      "marca": "HARLEY-DAVIDSON"
+    },
+    {
+      "vehicleId": "harley-davidson-pan-america-1250-special-2023-gasolina",
+      "fipeCodigo": "810102-7",
+      "displayName": "HARLEY-DAVIDSON PAN AMERICA 1250 SPECIAL",
+      "valorAtual": 89588,
+      "canonicalPath": "/fipe/harley-davidson/pan-america-1250-special-2023-810102-7/",
+      "ano": 2023,
+      "marca": "HARLEY-DAVIDSON"
+    },
+    {
+      "vehicleId": "harley-davidson-pan-america-1250-special-2024-gasolina",
+      "fipeCodigo": "810102-7",
+      "displayName": "HARLEY-DAVIDSON PAN AMERICA 1250 SPECIAL",
+      "valorAtual": 92029,
+      "canonicalPath": "/fipe/harley-davidson/pan-america-1250-special-2024-810102-7/",
+      "ano": 2024,
+      "marca": "HARLEY-DAVIDSON"
+    }
+  ],
+  "stats": {
+    "total": 3
+  },
+  "meta": {
+    "geracaoId": "pan-2"
+  }
+}

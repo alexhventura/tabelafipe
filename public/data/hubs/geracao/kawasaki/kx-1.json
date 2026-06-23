@@ -1,0 +1,66 @@
+{
+  "tipo": "geracao",
+  "slug": "kx-1",
+  "canonicalPath": "/geracao/kawasaki/kx-1/",
+  "titulo": "Geracao kx-1",
+  "descricao": "5 veiculos da geracao kx-1.",
+  "seo": {
+    "title": "Geracao kx-1 - Precos FIPE",
+    "description": "Veiculos da geracao kx-1 na Tabela FIPE.",
+    "h1": "Geracao kx-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/kawasaki/kx-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "kawasaki-kx-112-0-gasolina",
+      "fipeCodigo": "817103-3",
+      "displayName": "KAWASAKI KX 112",
+      "valorAtual": 39266,
+      "canonicalPath": "/fipe/kawasaki/kx-112-0-817103-3/",
+      "ano": 0,
+      "marca": "KAWASAKI"
+    },
+    {
+      "vehicleId": "kawasaki-kx-250-x-0-gasolina",
+      "fipeCodigo": "817085-1",
+      "displayName": "KAWASAKI KX 250 X",
+      "valorAtual": 68720,
+      "canonicalPath": "/fipe/kawasaki/kx-250-x-0-817085-1/",
+      "ano": 0,
+      "marca": "KAWASAKI"
+    },
+    {
+      "vehicleId": "kawasaki-kx-250-250-f-0-gasolina",
+      "fipeCodigo": "817030-4",
+      "displayName": "KAWASAKI KX 250/ 250 F",
+      "valorAtual": 68046,
+      "canonicalPath": "/fipe/kawasaki/kx-250-250-f-0-817030-4/",
+      "ano": 0,
+      "marca": "KAWASAKI"
+    },
+    {
+      "vehicleId": "kawasaki-kx-450-f-0-gasolina",
+      "fipeCodigo": "817042-8",
+      "displayName": "KAWASAKI KX 450 F",
+      "valorAtual": 72641,
+      "canonicalPath": "/fipe/kawasaki/kx-450-f-0-817042-8/",
+      "ano": 0,
+      "marca": "KAWASAKI"
+    },
+    {
+      "vehicleId": "kawasaki-kx-450-x-0-gasolina",
+      "fipeCodigo": "817084-3",
+      "displayName": "KAWASAKI KX 450 X",
+      "valorAtual": 73767,
+      "canonicalPath": "/fipe/kawasaki/kx-450-x-0-817084-3/",
+      "ano": 0,
+      "marca": "KAWASAKI"
+    }
+  ],
+  "stats": {
+    "total": 5
+  },
+  "meta": {
+    "geracaoId": "kx-1"
+  }
+}

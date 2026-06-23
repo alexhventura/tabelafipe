@@ -1,0 +1,57 @@
+{
+  "tipo": "geracao",
+  "slug": "rally-1",
+  "canonicalPath": "/geracao/aprilia/rally-1/",
+  "titulo": "Geracao rally-1",
+  "descricao": "4 veiculos da geracao rally-1.",
+  "seo": {
+    "title": "Geracao rally-1 - Precos FIPE",
+    "description": "Veiculos da geracao rally-1 na Tabela FIPE.",
+    "h1": "Geracao rally-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/aprilia/rally-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "aprilia-rally-50cc-1998-gasolina",
+      "fipeCodigo": "802006-0",
+      "displayName": "APRILIA RALLY 50cc",
+      "valorAtual": 2491,
+      "canonicalPath": "/fipe/aprilia/rally-50cc-1998-802006-0/",
+      "ano": 1998,
+      "marca": "APRILIA"
+    },
+    {
+      "vehicleId": "aprilia-rally-50cc-1999-gasolina",
+      "fipeCodigo": "802006-0",
+      "displayName": "APRILIA RALLY 50cc",
+      "valorAtual": 2809,
+      "canonicalPath": "/fipe/aprilia/rally-50cc-1999-802006-0/",
+      "ano": 1999,
+      "marca": "APRILIA"
+    },
+    {
+      "vehicleId": "aprilia-rally-50cc-2000-gasolina",
+      "fipeCodigo": "802006-0",
+      "displayName": "APRILIA RALLY 50cc",
+      "valorAtual": 2980,
+      "canonicalPath": "/fipe/aprilia/rally-50cc-2000-802006-0/",
+      "ano": 2000,
+      "marca": "APRILIA"
+    },
+    {
+      "vehicleId": "aprilia-rally-50cc-2001-gasolina",
+      "fipeCodigo": "802006-0",
+      "displayName": "APRILIA RALLY 50cc",
+      "valorAtual": 3503,
+      "canonicalPath": "/fipe/aprilia/rally-50cc-2001-802006-0/",
+      "ano": 2001,
+      "marca": "APRILIA"
+    }
+  ],
+  "stats": {
+    "total": 4
+  },
+  "meta": {
+    "geracaoId": "rally-1"
+  }
+}

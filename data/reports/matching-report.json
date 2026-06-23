@@ -1,0 +1,133 @@
+{
+  "geradoEm": "2026-06-22T14:18:55.192Z",
+  "totalVeiculos": 50395,
+  "colisoesMatchKey": 23347,
+  "colisoesUid": 2900,
+  "amostraColisoes": [
+    {
+      "key": "adly|atv 100",
+      "ids": [
+        "adly-atv-100-2000-gasolina",
+        "adly-atv-100-2001-gasolina",
+        "adly-atv-100-2002-gasolina"
+      ]
+    },
+    {
+      "key": "adly|atv 50",
+      "ids": [
+        "adly-atv-50-2000-gasolina",
+        "adly-atv-50-2001-gasolina"
+      ]
+    },
+    {
+      "key": "adly|jaguar jt|1996",
+      "ids": [
+        "adly-jaguar-jt-100-1996-gasolina",
+        "adly-jaguar-jt-50-1996-gasolina"
+      ]
+    },
+    {
+      "key": "adly|jaguar jt 100",
+      "ids": [
+        "adly-jaguar-jt-100-1996-gasolina",
+        "adly-jaguar-jt-100-1997-gasolina",
+        "adly-jaguar-jt-100-1998-gasolina",
+        "adly-jaguar-jt-100-1999-gasolina"
+      ]
+    },
+    {
+      "key": "adly|jaguar jt|1997",
+      "ids": [
+        "adly-jaguar-jt-100-1997-gasolina",
+        "adly-jaguar-jt-50-1997-gasolina"
+      ]
+    },
+    {
+      "key": "adly|jaguar jt|1998",
+      "ids": [
+        "adly-jaguar-jt-100-1998-gasolina",
+        "adly-jaguar-jt-50-1998-gasolina"
+      ]
+    },
+    {
+      "key": "adly|jaguar jt|1999",
+      "ids": [
+        "adly-jaguar-jt-100-1999-gasolina",
+        "adly-jaguar-jt-50-1999-gasolina"
+      ]
+    },
+    {
+      "key": "adly|jaguar jt 50",
+      "ids": [
+        "adly-jaguar-jt-50-1996-gasolina",
+        "adly-jaguar-jt-50-1997-gasolina",
+        "adly-jaguar-jt-50-1998-gasolina",
+        "adly-jaguar-jt-50-1999-gasolina",
+        "adly-jaguar-jt-50-2000-gasolina",
+        "adly-jaguar-jt-50-2001-gasolina"
+      ]
+    },
+    {
+      "key": "agrale|10000 10000 e5",
+      "ids": [
+        "agrale-10000-10000-s-2p-diesel-e5-2012-diesel",
+        "agrale-10000-10000-s-2p-diesel-e5-2013-diesel",
+        "agrale-10000-10000-s-2p-diesel-e5-2014-diesel",
+        "agrale-10000-10000-s-2p-diesel-e5-2015-diesel",
+        "agrale-10000-10000-s-2p-diesel-e5-2016-diesel",
+        "agrale-10000-10000-s-2p-diesel-e5-2017-diesel",
+        "agrale-10000-10000-s-2p-diesel-e5-2018-diesel",
+        "agrale-10000-10000-s-2p-diesel-e5-2019-diesel",
+        "agrale-10000-10000-s-2p-diesel-e5-2020-diesel",
+        "agrale-10000-10000-s-2p-diesel-e5-2021-diesel",
+        "agrale-10000-10000-s-2p-diesel-e5-2022-diesel"
+      ]
+    },
+    {
+      "key": "agrale|10000 lx e5",
+      "ids": [
+        "agrale-10000-lx-2p-diesel-e5-2016-diesel",
+        "agrale-10000-lx-2p-diesel-e5-2017-diesel"
+      ]
+    },
+    {
+      "key": "agrale|13000 turbo",
+      "ids": [
+        "agrale-13000-turbo-2p-diesel-2007-diesel",
+        "agrale-13000-turbo-2p-diesel-2008-diesel",
+        "agrale-13000-turbo-2p-diesel-2009-diesel",
+        "agrale-13000-turbo-2p-diesel-2010-diesel",
+        "agrale-13000-turbo-2p-diesel-2011-diesel",
+        "agrale-13000-turbo-2p-diesel-2012-diesel"
+      ]
+    },
+    {
+      "key": "agrale|13000 turbo|2008",
+      "ids": [
+        "agrale-13000-turbo-2p-diesel-2008-diesel",
+        "agrale-13000-turbo-3-eixos-2p-diesel-2008-diesel"
+      ]
+    },
+    {
+      "key": "agrale|13000 turbo|2009",
+      "ids": [
+        "agrale-13000-turbo-2p-diesel-2009-diesel",
+        "agrale-13000-turbo-3-eixos-2p-diesel-2009-diesel"
+      ]
+    },
+    {
+      "key": "agrale|13000 turbo|2010",
+      "ids": [
+        "agrale-13000-turbo-2p-diesel-2010-diesel",
+        "agrale-13000-turbo-3-eixos-2p-diesel-2010-diesel"
+      ]
+    },
+    {
+      "key": "agrale|13000 turbo|2011",
+      "ids": [
+        "agrale-13000-turbo-2p-diesel-2011-diesel",
+        "agrale-13000-turbo-3-eixos-2p-diesel-2011-diesel"
+      ]
+    }
+  ]
+}

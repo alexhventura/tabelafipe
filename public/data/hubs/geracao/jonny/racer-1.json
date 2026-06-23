@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "racer-1",
+  "canonicalPath": "/geracao/jonny/racer-1/",
+  "titulo": "Geracao racer-1",
+  "descricao": "2 veiculos da geracao racer-1.",
+  "seo": {
+    "title": "Geracao racer-1 - Precos FIPE",
+    "description": "Veiculos da geracao racer-1 na Tabela FIPE.",
+    "h1": "Geracao racer-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/jonny/racer-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "jonny-racer-150cc-2012-gasolina",
+      "fipeCodigo": "865011-0",
+      "displayName": "JONNY RACER 150cc",
+      "valorAtual": 3063,
+      "canonicalPath": "/fipe/jonny/racer-150cc-2012-865011-0/",
+      "ano": 2012,
+      "marca": "JONNY"
+    },
+    {
+      "vehicleId": "jonny-racer-150cc-2013-gasolina",
+      "fipeCodigo": "865011-0",
+      "displayName": "JONNY RACER 150cc",
+      "valorAtual": 3548,
+      "canonicalPath": "/fipe/jonny/racer-150cc-2013-865011-0/",
+      "ano": 2013,
+      "marca": "JONNY"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "racer-1"
+  }
+}

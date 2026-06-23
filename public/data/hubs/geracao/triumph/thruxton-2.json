@@ -1,0 +1,66 @@
+{
+  "tipo": "geracao",
+  "slug": "thruxton-2",
+  "canonicalPath": "/geracao/triumph/thruxton-2/",
+  "titulo": "Geracao thruxton-2",
+  "descricao": "5 veiculos da geracao thruxton-2.",
+  "seo": {
+    "title": "Geracao thruxton-2 - Precos FIPE",
+    "description": "Veiculos da geracao thruxton-2 na Tabela FIPE.",
+    "h1": "Geracao thruxton-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/triumph/thruxton-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "triumph-thruxton-900cc-2014-gasolina",
+      "fipeCodigo": "826032-0",
+      "displayName": "TRIUMPH THRUXTON 900cc",
+      "valorAtual": 29293,
+      "canonicalPath": "/fipe/triumph/thruxton-900cc-2014-826032-0/",
+      "ano": 2014,
+      "marca": "TRIUMPH"
+    },
+    {
+      "vehicleId": "triumph-thruxton-900cc-2015-gasolina",
+      "fipeCodigo": "826032-0",
+      "displayName": "TRIUMPH THRUXTON 900cc",
+      "valorAtual": 30957,
+      "canonicalPath": "/fipe/triumph/thruxton-900cc-2015-826032-0/",
+      "ano": 2015,
+      "marca": "TRIUMPH"
+    },
+    {
+      "vehicleId": "triumph-thruxton-r-1200cc-2016-gasolina",
+      "fipeCodigo": "826056-7",
+      "displayName": "TRIUMPH THRUXTON R 1200cc",
+      "valorAtual": 44523,
+      "canonicalPath": "/fipe/triumph/thruxton-r-1200cc-2016-826056-7/",
+      "ano": 2016,
+      "marca": "TRIUMPH"
+    },
+    {
+      "vehicleId": "triumph-thruxton-r-1200cc-2017-gasolina",
+      "fipeCodigo": "826056-7",
+      "displayName": "TRIUMPH THRUXTON R 1200cc",
+      "valorAtual": 50402,
+      "canonicalPath": "/fipe/triumph/thruxton-r-1200cc-2017-826056-7/",
+      "ano": 2017,
+      "marca": "TRIUMPH"
+    },
+    {
+      "vehicleId": "triumph-thruxton-r-1200cc-2018-gasolina",
+      "fipeCodigo": "826056-7",
+      "displayName": "TRIUMPH THRUXTON R 1200cc",
+      "valorAtual": 54954,
+      "canonicalPath": "/fipe/triumph/thruxton-r-1200cc-2018-826056-7/",
+      "ano": 2018,
+      "marca": "TRIUMPH"
+    }
+  ],
+  "stats": {
+    "total": 5
+  },
+  "meta": {
+    "geracaoId": "thruxton-2"
+  }
+}

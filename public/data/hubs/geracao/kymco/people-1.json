@@ -1,0 +1,48 @@
+{
+  "tipo": "geracao",
+  "slug": "people-1",
+  "canonicalPath": "/geracao/kymco/people-1/",
+  "titulo": "Geracao people-1",
+  "descricao": "3 veiculos da geracao people-1.",
+  "seo": {
+    "title": "Geracao people-1 - Precos FIPE",
+    "description": "Veiculos da geracao people-1 na Tabela FIPE.",
+    "h1": "Geracao people-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/kymco/people-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "kymco-people-50-2001-gasolina",
+      "fipeCodigo": "832027-6",
+      "displayName": "KYMCO PEOPLE 50",
+      "valorAtual": 3427,
+      "canonicalPath": "/fipe/kymco/people-50-2001-832027-6/",
+      "ano": 2001,
+      "marca": "KYMCO"
+    },
+    {
+      "vehicleId": "kymco-people-50-2002-gasolina",
+      "fipeCodigo": "832027-6",
+      "displayName": "KYMCO PEOPLE 50",
+      "valorAtual": 3519,
+      "canonicalPath": "/fipe/kymco/people-50-2002-832027-6/",
+      "ano": 2002,
+      "marca": "KYMCO"
+    },
+    {
+      "vehicleId": "kymco-people-50-2003-gasolina",
+      "fipeCodigo": "832027-6",
+      "displayName": "KYMCO PEOPLE 50",
+      "valorAtual": 3612,
+      "canonicalPath": "/fipe/kymco/people-50-2003-832027-6/",
+      "ano": 2003,
+      "marca": "KYMCO"
+    }
+  ],
+  "stats": {
+    "total": 3
+  },
+  "meta": {
+    "geracaoId": "people-1"
+  }
+}

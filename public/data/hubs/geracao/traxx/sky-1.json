@@ -1,0 +1,66 @@
+{
+  "tipo": "geracao",
+  "slug": "sky-1",
+  "canonicalPath": "/geracao/traxx/sky-1/",
+  "titulo": "Geracao sky-1",
+  "descricao": "5 veiculos da geracao sky-1.",
+  "seo": {
+    "title": "Geracao sky-1 - Precos FIPE",
+    "description": "Veiculos da geracao sky-1 na Tabela FIPE.",
+    "h1": "Geracao sky-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/traxx/sky-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "traxx-sky-50-2014-gasolina",
+      "fipeCodigo": "814017-0",
+      "displayName": "TRAXX SKY 50",
+      "valorAtual": 4285,
+      "canonicalPath": "/fipe/traxx/sky-50-2014-814017-0/",
+      "ano": 2014,
+      "marca": "TRAXX"
+    },
+    {
+      "vehicleId": "traxx-sky-50-2015-gasolina",
+      "fipeCodigo": "814017-0",
+      "displayName": "TRAXX SKY 50",
+      "valorAtual": 4393,
+      "canonicalPath": "/fipe/traxx/sky-50-2015-814017-0/",
+      "ano": 2015,
+      "marca": "TRAXX"
+    },
+    {
+      "vehicleId": "traxx-sky-50-2016-gasolina",
+      "fipeCodigo": "814017-0",
+      "displayName": "TRAXX SKY 50",
+      "valorAtual": 4668,
+      "canonicalPath": "/fipe/traxx/sky-50-2016-814017-0/",
+      "ano": 2016,
+      "marca": "TRAXX"
+    },
+    {
+      "vehicleId": "traxx-sky-50-plus-2016-gasolina",
+      "fipeCodigo": "814022-7",
+      "displayName": "TRAXX SKY 50 PLUS",
+      "valorAtual": 4812,
+      "canonicalPath": "/fipe/traxx/sky-50-plus-2016-814022-7/",
+      "ano": 2016,
+      "marca": "TRAXX"
+    },
+    {
+      "vehicleId": "traxx-sky-50-plus-2017-gasolina",
+      "fipeCodigo": "814022-7",
+      "displayName": "TRAXX SKY 50 PLUS",
+      "valorAtual": 5449,
+      "canonicalPath": "/fipe/traxx/sky-50-plus-2017-814022-7/",
+      "ano": 2017,
+      "marca": "TRAXX"
+    }
+  ],
+  "stats": {
+    "total": 5
+  },
+  "meta": {
+    "geracaoId": "sky-1"
+  }
+}

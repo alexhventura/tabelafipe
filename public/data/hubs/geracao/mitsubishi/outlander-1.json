@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "outlander-1",
+  "canonicalPath": "/geracao/mitsubishi/outlander-1/",
+  "titulo": "Geracao outlander-1",
+  "descricao": "2 veiculos da geracao outlander-1.",
+  "seo": {
+    "title": "Geracao outlander-1 - Precos FIPE",
+    "description": "Veiculos da geracao outlander-1 na Tabela FIPE.",
+    "h1": "Geracao outlander-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/mitsubishi/outlander-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "mitsubishi-outlander-hpe-s-2-4-4x4-aut-hibrido-0-hibrido",
+      "fipeCodigo": "022219-4",
+      "displayName": "Mitsubishi OUTLANDER HPE-S 2.4 4x4 Aut (Híbrido)",
+      "valorAtual": 379713,
+      "canonicalPath": "/fipe/mitsubishi/outlander-hpe-s-2-4-4x4-aut-hibrido-0-022219-4/",
+      "ano": 0,
+      "marca": "Mitsubishi"
+    },
+    {
+      "vehicleId": "mitsubishi-outlander-signature-2-4-4x4-aut-hib-0-hibrido",
+      "fipeCodigo": "022220-8",
+      "displayName": "Mitsubishi OUTLANDER Signature 2.4 4x4 Aut (Híb)",
+      "valorAtual": 399072,
+      "canonicalPath": "/fipe/mitsubishi/outlander-signature-2-4-4x4-aut-hib-0-022220-8/",
+      "ano": 0,
+      "marca": "Mitsubishi"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "outlander-1"
+  }
+}

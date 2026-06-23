@@ -1,0 +1,66 @@
+{
+  "tipo": "geracao",
+  "slug": "terrano-1",
+  "canonicalPath": "/geracao/nissan/terrano-1/",
+  "titulo": "Geracao terrano-1",
+  "descricao": "5 veiculos da geracao terrano-1.",
+  "seo": {
+    "title": "Geracao terrano-1 - Precos FIPE",
+    "description": "Veiculos da geracao terrano-1 na Tabela FIPE.",
+    "h1": "Geracao terrano-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/nissan/terrano-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "nissan-terrano-ii-se-2-7-diesel-1996-diesel",
+      "fipeCodigo": "023033-2",
+      "displayName": "Nissan Terrano II SE 2.7 Diesel",
+      "valorAtual": 26343,
+      "canonicalPath": "/fipe/nissan/terrano-ii-se-2-7-diesel-1996-023033-2/",
+      "ano": 1996,
+      "marca": "Nissan"
+    },
+    {
+      "vehicleId": "nissan-terrano-ii-se-2-7-diesel-1997-diesel",
+      "fipeCodigo": "023033-2",
+      "displayName": "Nissan Terrano II SE 2.7 Diesel",
+      "valorAtual": 28103,
+      "canonicalPath": "/fipe/nissan/terrano-ii-se-2-7-diesel-1997-023033-2/",
+      "ano": 1997,
+      "marca": "Nissan"
+    },
+    {
+      "vehicleId": "nissan-terrano-ii-slx-2-7-diesel-1995-diesel",
+      "fipeCodigo": "023034-0",
+      "displayName": "Nissan Terrano II SLX 2.7 Diesel",
+      "valorAtual": 24291,
+      "canonicalPath": "/fipe/nissan/terrano-ii-slx-2-7-diesel-1995-023034-0/",
+      "ano": 1995,
+      "marca": "Nissan"
+    },
+    {
+      "vehicleId": "nissan-terrano-ii-slx-2-7-diesel-1996-diesel",
+      "fipeCodigo": "023034-0",
+      "displayName": "Nissan Terrano II SLX 2.7 Diesel",
+      "valorAtual": 26909,
+      "canonicalPath": "/fipe/nissan/terrano-ii-slx-2-7-diesel-1996-023034-0/",
+      "ano": 1996,
+      "marca": "Nissan"
+    },
+    {
+      "vehicleId": "nissan-terrano-ii-slx-2-7-diesel-1997-diesel",
+      "fipeCodigo": "023034-0",
+      "displayName": "Nissan Terrano II SLX 2.7 Diesel",
+      "valorAtual": 28545,
+      "canonicalPath": "/fipe/nissan/terrano-ii-slx-2-7-diesel-1997-023034-0/",
+      "ano": 1997,
+      "marca": "Nissan"
+    }
+  ],
+  "stats": {
+    "total": 5
+  },
+  "meta": {
+    "geracaoId": "terrano-1"
+  }
+}

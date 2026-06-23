@@ -1,0 +1,741 @@
+{
+  "tipo": "geracao",
+  "slug": "fit-1",
+  "canonicalPath": "/geracao/honda/fit-1/",
+  "titulo": "Geracao fit-1",
+  "descricao": "119 veiculos da geracao fit-1.",
+  "seo": {
+    "title": "Geracao fit-1 - Precos FIPE",
+    "description": "Veiculos da geracao fit-1 na Tabela FIPE.",
+    "h1": "Geracao fit-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/honda/fit-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "honda-fit-cx-1-4-flex-16v-5p-aut-2014-flex",
+      "fipeCodigo": "014079-1",
+      "displayName": "Honda Fit CX 1.4 Flex 16V 5p Aut.",
+      "valorAtual": 54650,
+      "canonicalPath": "/fipe/honda/fit-cx-1-4-flex-16v-5p-aut-2014-014079-1/",
+      "ano": 2014,
+      "marca": "Honda"
+    },
+    {
+      "vehicleId": "honda-fit-cx-1-4-flex-16v-5p-mec-2014-flex",
+      "fipeCodigo": "014078-3",
+      "displayName": "Honda Fit CX 1.4 Flex 16V 5p Mec.",
+      "valorAtual": 51463,
+      "canonicalPath": "/fipe/honda/fit-cx-1-4-flex-16v-5p-mec-2014-014078-3/",
+      "ano": 2014,
+      "marca": "Honda"
+    },
+    {
+      "vehicleId": "honda-fit-dx-1-4-flex-16v-5p-aut-2011-flex",
+      "fipeCodigo": "014070-8",
+      "displayName": "Honda Fit DX 1.4 Flex 16V 5p Aut.",
+      "valorAtual": 43472,
+      "canonicalPath": "/fipe/honda/fit-dx-1-4-flex-16v-5p-aut-2011-014070-8/",
+      "ano": 2011,
+      "marca": "Honda"
+    },
+    {
+      "vehicleId": "honda-fit-dx-1-4-flex-16v-5p-aut-2012-flex",
+      "fipeCodigo": "014070-8",
+      "displayName": "Honda Fit DX 1.4 Flex 16V 5p Aut.",
+      "valorAtual": 45665,
+      "canonicalPath": "/fipe/honda/fit-dx-1-4-flex-16v-5p-aut-2012-014070-8/",
+      "ano": 2012,
+      "marca": "Honda"
+    },
+    {
+      "vehicleId": "honda-fit-dx-1-4-flex-16v-5p-mec-2011-flex",
+      "fipeCodigo": "014069-4",
+      "displayName": "Honda Fit DX 1.4 Flex 16V 5p Mec.",
+      "valorAtual": 39857,
+      "canonicalPath": "/fipe/honda/fit-dx-1-4-flex-16v-5p-mec-2011-014069-4/",
+      "ano": 2011,
+      "marca": "Honda"
+    },
+    {
+      "vehicleId": "honda-fit-dx-1-4-flex-16v-5p-mec-2012-flex",
+      "fipeCodigo": "014069-4",
+      "displayName": "Honda Fit DX 1.4 Flex 16V 5p Mec.",
+      "valorAtual": 42993,
+      "canonicalPath": "/fipe/honda/fit-dx-1-4-flex-16v-5p-mec-2012-014069-4/",
+      "ano": 2012,
+      "marca": "Honda"
+    },
+    {
+      "vehicleId": "honda-fit-dx-1-4-flex-16v-5p-mec-2013-flex",
+      "fipeCodigo": "014069-4",
+      "displayName": "Honda Fit DX 1.4 Flex 16V 5p Mec.",
+      "valorAtual": 48316,
+      "canonicalPath": "/fipe/honda/fit-dx-1-4-flex-16v-5p-mec-2013-014069-4/",
+      "ano": 2013,
+      "marca": "Honda"
+    },
+    {
+      "vehicleId": "honda-fit-dx-1-4-flex-16v-5p-mec-2014-flex",
+      "fipeCodigo": "014069-4",
+      "displayName": "Honda Fit DX 1.4 Flex 16V 5p Mec.",
+      "valorAtual": 52267,
+      "canonicalPath": "/fipe/honda/fit-dx-1-4-flex-16v-5p-mec-2014-014069-4/",
+      "ano": 2014,
+      "marca": "Honda"
+    },
+    {
+      "vehicleId": "honda-fit-dx-1-5-flexone-16v-5p-aut-2015-flex",
+      "fipeCodigo": "014082-1",
+      "displayName": "Honda Fit DX 1.5 Flexone 16V 5p Aut.",
+      "valorAtual": 61646,
+      "canonicalPath": "/fipe/honda/fit-dx-1-5-flexone-16v-5p-aut-2015-014082-1/",
+      "ano": 2015,
+      "marca": "Honda"
+    },
+    {
+      "vehicleId": "honda-fit-dx-1-5-flexone-16v-5p-aut-2016-flex",
+      "fipeCodigo": "014082-1",
+      "displayName": "Honda Fit DX 1.5 Flexone 16V 5p Aut.",
+      "valorAtual": 64644,
+      "canonicalPath": "/fipe/honda/fit-dx-1-5-flexone-16v-5p-aut-2016-014082-1/",
+      "ano": 2016,
+      "marca": "Honda"
+    },
+    {
+      "vehicleId": "honda-fit-dx-1-5-flexone-16v-5p-aut-2017-flex",
+      "fipeCodigo": "014082-1",
+      "displayName": "Honda Fit DX 1.5 Flexone 16V 5p Aut.",
+      "valorAtual": 68659,
+      "canonicalPath": "/fipe/honda/fit-dx-1-5-flexone-16v-5p-aut-2017-014082-1/",
+      "ano": 2017,
+      "marca": "Honda"
+    },
+    {
+      "vehicleId": "honda-fit-dx-1-5-flexone-16v-5p-mec-2015-flex",
+      "fipeCodigo": "014083-0",
+      "displayName": "Honda Fit DX 1.5 Flexone 16V 5p Mec.",
+      "valorAtual": 61428,
+      "canonicalPath": "/fipe/honda/fit-dx-1-5-flexone-16v-5p-mec-2015-014083-0/",
+      "ano": 2015,
+      "marca": "Honda"
+    },
+    {
+      "vehicleId": "honda-fit-dx-1-5-flexone-16v-5p-mec-2016-flex",
+      "fipeCodigo": "014083-0",
+      "displayName": "Honda Fit DX 1.5 Flexone 16V 5p Mec.",
+      "valorAtual": 62964,
+      "canonicalPath": "/fipe/honda/fit-dx-1-5-flexone-16v-5p-mec-2016-014083-0/",
+      "ano": 2016,
+      "marca": "Honda"
+    },
+    {
+      "vehicleId": "honda-fit-dx-1-5-flexone-16v-5p-mec-2017-flex",
+      "fipeCodigo": "014083-0",
+      "displayName": "Honda Fit DX 1.5 Flexone 16V 5p Mec.",
+      "valorAtual": 65660,
+      "canonicalPath": "/fipe/honda/fit-dx-1-5-flexone-16v-5p-mec-2017-014083-0/",
+      "ano": 2017,
+      "marca": "Honda"
+    },
+    {
+      "vehicleId": "honda-fit-dx-1-5-flexone-16v-5p-mec-2018-flex",
+      "fipeCodigo": "014083-0",
+      "displayName": "Honda Fit DX 1.5 Flexone 16V 5p Mec.",
+      "valorAtual": 70696,
+      "canonicalPath": "/fipe/honda/fit-dx-1-5-flexone-16v-5p-mec-2018-014083-0/",
+      "ano": 2018,
+      "marca": "Honda"
+    },
+    {
+      "vehicleId": "honda-fit-dx-1-5-flexone-16v-5p-mec-2019-flex",
+      "fipeCodigo": "014083-0",
+      "displayName": "Honda Fit DX 1.5 Flexone 16V 5p Mec.",
+      "valorAtual": 72464,
+      "canonicalPath": "/fipe/honda/fit-dx-1-5-flexone-16v-5p-mec-2019-014083-0/",
+      "ano": 2019,
+      "marca": "Honda"
+    },
+    {
+      "vehicleId": "honda-fit-dx-1-5-flexone-16v-5p-mec-2020-flex",
+      "fipeCodigo": "014083-0",
+      "displayName": "Honda Fit DX 1.5 Flexone 16V 5p Mec.",
+      "valorAtual": 74276,
+      "canonicalPath": "/fipe/honda/fit-dx-1-5-flexone-16v-5p-mec-2020-014083-0/",
+      "ano": 2020,
+      "marca": "Honda"
+    },
+    {
+      "vehicleId": "honda-fit-dx-1-5-flexone-16v-5p-mec-2021-flex",
+      "fipeCodigo": "014083-0",
+      "displayName": "Honda Fit DX 1.5 Flexone 16V 5p Mec.",
+      "valorAtual": 76133,
+      "canonicalPath": "/fipe/honda/fit-dx-1-5-flexone-16v-5p-mec-2021-014083-0/",
+      "ano": 2021,
+      "marca": "Honda"
+    },
+    {
+      "vehicleId": "honda-fit-ex-s-1-5-ex-1-5-flex-16v-5p-mec-2005-gasolina",
+      "fipeCodigo": "014046-5",
+      "displayName": "Honda Fit EX/ S 1.5/ EX 1.5 Flex 16V 5p Mec.",
+      "valorAtual": 28466,
+      "canonicalPath": "/fipe/honda/fit-ex-s-1-5-ex-1-5-flex-16v-5p-mec-2005-014046-5/",
+      "ano": 2005,
+      "marca": "Honda"
+    },
+    {
+      "vehicleId": "honda-fit-ex-s-1-5-ex-1-5-flex-16v-5p-mec-2006-gasolina",
+      "fipeCodigo": "014046-5",
+      "displayName": "Honda Fit EX/ S 1.5/ EX 1.5 Flex 16V 5p Mec.",
+      "valorAtual": 29698,
+      "canonicalPath": "/fipe/honda/fit-ex-s-1-5-ex-1-5-flex-16v-5p-mec-2006-014046-5/",
+      "ano": 2006,
+      "marca": "Honda"
+    },
+    {
+      "vehicleId": "honda-fit-ex-s-1-5-ex-1-5-flex-16v-5p-mec-2007-gasolina",
+      "fipeCodigo": "014046-5",
+      "displayName": "Honda Fit EX/ S 1.5/ EX 1.5 Flex 16V 5p Mec.",
+      "valorAtual": 34519,
+      "canonicalPath": "/fipe/honda/fit-ex-s-1-5-ex-1-5-flex-16v-5p-mec-2007-014046-5/",
+      "ano": 2007,
+      "marca": "Honda"
+    },
+    {
+      "vehicleId": "honda-fit-ex-s-1-5-ex-1-5-flex-16v-5p-mec-2008-gasolina",
+      "fipeCodigo": "014046-5",
+      "displayName": "Honda Fit EX/ S 1.5/ EX 1.5 Flex 16V 5p Mec.",
+      "valorAtual": 37915,
+      "canonicalPath": "/fipe/honda/fit-ex-s-1-5-ex-1-5-flex-16v-5p-mec-2008-014046-5/",
+      "ano": 2008,
+      "marca": "Honda"
+    },
+    {
+      "vehicleId": "honda-fit-ex-s-1-5-ex-1-5-flex-16v-5p-mec-2009-gasolina",
+      "fipeCodigo": "014046-5",
+      "displayName": "Honda Fit EX/ S 1.5/ EX 1.5 Flex 16V 5p Mec.",
+      "valorAtual": 42499,
+      "canonicalPath": "/fipe/honda/fit-ex-s-1-5-ex-1-5-flex-16v-5p-mec-2009-014046-5/",
+      "ano": 2009,
+      "marca": "Honda"
+    },
+    {
+      "vehicleId": "honda-fit-ex-s-1-5-ex-1-5-flex-16v-5p-mec-2010-gasolina",
+      "fipeCodigo": "014046-5",
+      "displayName": "Honda Fit EX/ S 1.5/ EX 1.5 Flex 16V 5p Mec.",
+      "valorAtual": 43562,
+      "canonicalPath": "/fipe/honda/fit-ex-s-1-5-ex-1-5-flex-16v-5p-mec-2010-014046-5/",
+      "ano": 2010,
+      "marca": "Honda"
+    },
+    {
+      "vehicleId": "honda-fit-ex-s-1-5-ex-1-5-flex-16v-5p-mec-2011-gasolina",
+      "fipeCodigo": "014046-5",
+      "displayName": "Honda Fit EX/ S 1.5/ EX 1.5 Flex 16V 5p Mec.",
+      "valorAtual": 46705,
+      "canonicalPath": "/fipe/honda/fit-ex-s-1-5-ex-1-5-flex-16v-5p-mec-2011-014046-5/",
+      "ano": 2011,
+      "marca": "Honda"
+    },
+    {
+      "vehicleId": "honda-fit-ex-s-1-5-ex-1-5-flex-16v-5p-mec-2012-gasolina",
+      "fipeCodigo": "014046-5",
+      "displayName": "Honda Fit EX/ S 1.5/ EX 1.5 Flex 16V 5p Mec.",
+      "valorAtual": 48750,
+      "canonicalPath": "/fipe/honda/fit-ex-s-1-5-ex-1-5-flex-16v-5p-mec-2012-014046-5/",
+      "ano": 2012,
+      "marca": "Honda"
+    },
+    {
+      "vehicleId": "honda-fit-ex-s-1-5-ex-1-5-flex-16v-5p-mec-2013-gasolina",
+      "fipeCodigo": "014046-5",
+      "displayName": "Honda Fit EX/ S 1.5/ EX 1.5 Flex 16V 5p Mec.",
+      "valorAtual": 53343,
+      "canonicalPath": "/fipe/honda/fit-ex-s-1-5-ex-1-5-flex-16v-5p-mec-2013-014046-5/",
+      "ano": 2013,
+      "marca": "Honda"
+    },
+    {
+      "vehicleId": "honda-fit-ex-s-1-5-ex-1-5-flex-16v-5p-mec-2014-gasolina",
+      "fipeCodigo": "014046-5",
+      "displayName": "Honda Fit EX/ S 1.5/ EX 1.5 Flex 16V 5p Mec.",
+      "valorAtual": 56029,
+      "canonicalPath": "/fipe/honda/fit-ex-s-1-5-ex-1-5-flex-16v-5p-mec-2014-014046-5/",
+      "ano": 2014,
+      "marca": "Honda"
+    },
+    {
+      "vehicleId": "honda-fit-ex-s-1-5-flex-flexone-16v-5p-aut-2005-gasolina",
+      "fipeCodigo": "014045-7",
+      "displayName": "Honda Fit EX/S 1.5 Flex/Flexone 16V 5p Aut.",
+      "valorAtual": 29117,
+      "canonicalPath": "/fipe/honda/fit-ex-s-1-5-flex-flexone-16v-5p-aut-2005-014045-7/",
+      "ano": 2005,
+      "marca": "Honda"
+    },
+    {
+      "vehicleId": "honda-fit-ex-s-1-5-flex-flexone-16v-5p-aut-2006-gasolina",
+      "fipeCodigo": "014045-7",
+      "displayName": "Honda Fit EX/S 1.5 Flex/Flexone 16V 5p Aut.",
+      "valorAtual": 30774,
+      "canonicalPath": "/fipe/honda/fit-ex-s-1-5-flex-flexone-16v-5p-aut-2006-014045-7/",
+      "ano": 2006,
+      "marca": "Honda"
+    },
+    {
+      "vehicleId": "honda-fit-ex-s-1-5-flex-flexone-16v-5p-aut-2007-gasolina",
+      "fipeCodigo": "014045-7",
+      "displayName": "Honda Fit EX/S 1.5 Flex/Flexone 16V 5p Aut.",
+      "valorAtual": 35227,
+      "canonicalPath": "/fipe/honda/fit-ex-s-1-5-flex-flexone-16v-5p-aut-2007-014045-7/",
+      "ano": 2007,
+      "marca": "Honda"
+    },
+    {
+      "vehicleId": "honda-fit-ex-s-1-5-flex-flexone-16v-5p-aut-2008-gasolina",
+      "fipeCodigo": "014045-7",
+      "displayName": "Honda Fit EX/S 1.5 Flex/Flexone 16V 5p Aut.",
+      "valorAtual": 37949,
+      "canonicalPath": "/fipe/honda/fit-ex-s-1-5-flex-flexone-16v-5p-aut-2008-014045-7/",
+      "ano": 2008,
+      "marca": "Honda"
+    },
+    {
+      "vehicleId": "honda-fit-ex-s-1-5-flex-flexone-16v-5p-aut-2009-gasolina",
+      "fipeCodigo": "014045-7",
+      "displayName": "Honda Fit EX/S 1.5 Flex/Flexone 16V 5p Aut.",
+      "valorAtual": 46157,
+      "canonicalPath": "/fipe/honda/fit-ex-s-1-5-flex-flexone-16v-5p-aut-2009-014045-7/",
+      "ano": 2009,
+      "marca": "Honda"
+    },
+    {
+      "vehicleId": "honda-fit-ex-s-1-5-flex-flexone-16v-5p-aut-2010-gasolina",
+      "fipeCodigo": "014045-7",
+      "displayName": "Honda Fit EX/S 1.5 Flex/Flexone 16V 5p Aut.",
+      "valorAtual": 47311,
+      "canonicalPath": "/fipe/honda/fit-ex-s-1-5-flex-flexone-16v-5p-aut-2010-014045-7/",
+      "ano": 2010,
+      "marca": "Honda"
+    },
+    {
+      "vehicleId": "honda-fit-ex-s-1-5-flex-flexone-16v-5p-aut-2011-gasolina",
+      "fipeCodigo": "014045-7",
+      "displayName": "Honda Fit EX/S 1.5 Flex/Flexone 16V 5p Aut.",
+      "valorAtual": 48494,
+      "canonicalPath": "/fipe/honda/fit-ex-s-1-5-flex-flexone-16v-5p-aut-2011-014045-7/",
+      "ano": 2011,
+      "marca": "Honda"
+    },
+    {
+      "vehicleId": "honda-fit-ex-s-1-5-flex-flexone-16v-5p-aut-2012-gasolina",
+      "fipeCodigo": "014045-7",
+      "displayName": "Honda Fit EX/S 1.5 Flex/Flexone 16V 5p Aut.",
+      "valorAtual": 51380,
+      "canonicalPath": "/fipe/honda/fit-ex-s-1-5-flex-flexone-16v-5p-aut-2012-014045-7/",
+      "ano": 2012,
+      "marca": "Honda"
+    },
+    {
+      "vehicleId": "honda-fit-ex-s-1-5-flex-flexone-16v-5p-aut-2013-gasolina",
+      "fipeCodigo": "014045-7",
+      "displayName": "Honda Fit EX/S 1.5 Flex/Flexone 16V 5p Aut.",
+      "valorAtual": 54406,
+      "canonicalPath": "/fipe/honda/fit-ex-s-1-5-flex-flexone-16v-5p-aut-2013-014045-7/",
+      "ano": 2013,
+      "marca": "Honda"
+    },
+    {
+      "vehicleId": "honda-fit-ex-s-1-5-flex-flexone-16v-5p-aut-2014-gasolina",
+      "fipeCodigo": "014045-7",
+      "displayName": "Honda Fit EX/S 1.5 Flex/Flexone 16V 5p Aut.",
+      "valorAtual": 56963,
+      "canonicalPath": "/fipe/honda/fit-ex-s-1-5-flex-flexone-16v-5p-aut-2014-014045-7/",
+      "ano": 2014,
+      "marca": "Honda"
+    },
+    {
+      "vehicleId": "honda-fit-ex-s-1-5-flex-flexone-16v-5p-aut-2015-gasolina",
+      "fipeCodigo": "014045-7",
+      "displayName": "Honda Fit EX/S 1.5 Flex/Flexone 16V 5p Aut.",
+      "valorAtual": 65053,
+      "canonicalPath": "/fipe/honda/fit-ex-s-1-5-flex-flexone-16v-5p-aut-2015-014045-7/",
+      "ano": 2015,
+      "marca": "Honda"
+    },
+    {
+      "vehicleId": "honda-fit-ex-s-1-5-flex-flexone-16v-5p-aut-2016-gasolina",
+      "fipeCodigo": "014045-7",
+      "displayName": "Honda Fit EX/S 1.5 Flex/Flexone 16V 5p Aut.",
+      "valorAtual": 67243,
+      "canonicalPath": "/fipe/honda/fit-ex-s-1-5-flex-flexone-16v-5p-aut-2016-014045-7/",
+      "ano": 2016,
+      "marca": "Honda"
+    },
+    {
+      "vehicleId": "honda-fit-ex-s-1-5-flex-flexone-16v-5p-aut-2017-gasolina",
+      "fipeCodigo": "014045-7",
+      "displayName": "Honda Fit EX/S 1.5 Flex/Flexone 16V 5p Aut.",
+      "valorAtual": 72445,
+      "canonicalPath": "/fipe/honda/fit-ex-s-1-5-flex-flexone-16v-5p-aut-2017-014045-7/",
+      "ano": 2017,
+      "marca": "Honda"
+    },
+    {
+      "vehicleId": "honda-fit-ex-s-1-5-flex-flexone-16v-5p-aut-2018-gasolina",
+      "fipeCodigo": "014045-7",
+      "displayName": "Honda Fit EX/S 1.5 Flex/Flexone 16V 5p Aut.",
+      "valorAtual": 77722,
+      "canonicalPath": "/fipe/honda/fit-ex-s-1-5-flex-flexone-16v-5p-aut-2018-014045-7/",
+      "ano": 2018,
+      "marca": "Honda"
+    },
+    {
+      "vehicleId": "honda-fit-ex-s-1-5-flex-flexone-16v-5p-aut-2019-gasolina",
+      "fipeCodigo": "014045-7",
+      "displayName": "Honda Fit EX/S 1.5 Flex/Flexone 16V 5p Aut.",
+      "valorAtual": 81554,
+      "canonicalPath": "/fipe/honda/fit-ex-s-1-5-flex-flexone-16v-5p-aut-2019-014045-7/",
+      "ano": 2019,
+      "marca": "Honda"
+    },
+    {
+      "vehicleId": "honda-fit-ex-s-1-5-flex-flexone-16v-5p-aut-2020-gasolina",
+      "fipeCodigo": "014045-7",
+      "displayName": "Honda Fit EX/S 1.5 Flex/Flexone 16V 5p Aut.",
+      "valorAtual": 84465,
+      "canonicalPath": "/fipe/honda/fit-ex-s-1-5-flex-flexone-16v-5p-aut-2020-014045-7/",
+      "ano": 2020,
+      "marca": "Honda"
+    },
+    {
+      "vehicleId": "honda-fit-ex-s-1-5-flex-flexone-16v-5p-aut-2021-gasolina",
+      "fipeCodigo": "014045-7",
+      "displayName": "Honda Fit EX/S 1.5 Flex/Flexone 16V 5p Aut.",
+      "valorAtual": 86962,
+      "canonicalPath": "/fipe/honda/fit-ex-s-1-5-flex-flexone-16v-5p-aut-2021-014045-7/",
+      "ano": 2021,
+      "marca": "Honda"
+    },
+    {
+      "vehicleId": "honda-fit-exl-1-5-flex-16v-5p-mec-2009-flex",
+      "fipeCodigo": "014057-0",
+      "displayName": "Honda Fit EXL 1.5 Flex 16V 5p Mec",
+      "valorAtual": 41096,
+      "canonicalPath": "/fipe/honda/fit-exl-1-5-flex-16v-5p-mec-2009-014057-0/",
+      "ano": 2009,
+      "marca": "Honda"
+    },
+    {
+      "vehicleId": "honda-fit-exl-1-5-flex-16v-5p-mec-2010-flex",
+      "fipeCodigo": "014057-0",
+      "displayName": "Honda Fit EXL 1.5 Flex 16V 5p Mec",
+      "valorAtual": 42209,
+      "canonicalPath": "/fipe/honda/fit-exl-1-5-flex-16v-5p-mec-2010-014057-0/",
+      "ano": 2010,
+      "marca": "Honda"
+    },
+    {
+      "vehicleId": "honda-fit-exl-1-5-flex-16v-5p-mec-2011-flex",
+      "fipeCodigo": "014057-0",
+      "displayName": "Honda Fit EXL 1.5 Flex 16V 5p Mec",
+      "valorAtual": 46366,
+      "canonicalPath": "/fipe/honda/fit-exl-1-5-flex-16v-5p-mec-2011-014057-0/",
+      "ano": 2011,
+      "marca": "Honda"
+    },
+    {
+      "vehicleId": "honda-fit-exl-1-5-flex-16v-5p-mec-2012-flex",
+      "fipeCodigo": "014057-0",
+      "displayName": "Honda Fit EXL 1.5 Flex 16V 5p Mec",
+      "valorAtual": 48809,
+      "canonicalPath": "/fipe/honda/fit-exl-1-5-flex-16v-5p-mec-2012-014057-0/",
+      "ano": 2012,
+      "marca": "Honda"
+    },
+    {
+      "vehicleId": "honda-fit-exl-1-5-flex-flexone-16v-5p-aut-2009-flex",
+      "fipeCodigo": "014056-2",
+      "displayName": "Honda Fit EXL 1.5 Flex/Flexone 16V 5p Aut",
+      "valorAtual": 44080,
+      "canonicalPath": "/fipe/honda/fit-exl-1-5-flex-flexone-16v-5p-aut-2009-014056-2/",
+      "ano": 2009,
+      "marca": "Honda"
+    },
+    {
+      "vehicleId": "honda-fit-exl-1-5-flex-flexone-16v-5p-aut-2010-flex",
+      "fipeCodigo": "014056-2",
+      "displayName": "Honda Fit EXL 1.5 Flex/Flexone 16V 5p Aut",
+      "valorAtual": 47526,
+      "canonicalPath": "/fipe/honda/fit-exl-1-5-flex-flexone-16v-5p-aut-2010-014056-2/",
+      "ano": 2010,
+      "marca": "Honda"
+    },
+    {
+      "vehicleId": "honda-fit-exl-1-5-flex-flexone-16v-5p-aut-2011-flex",
+      "fipeCodigo": "014056-2",
+      "displayName": "Honda Fit EXL 1.5 Flex/Flexone 16V 5p Aut",
+      "valorAtual": 48715,
+      "canonicalPath": "/fipe/honda/fit-exl-1-5-flex-flexone-16v-5p-aut-2011-014056-2/",
+      "ano": 2011,
+      "marca": "Honda"
+    },
+    {
+      "vehicleId": "honda-fit-exl-1-5-flex-flexone-16v-5p-aut-2012-flex",
+      "fipeCodigo": "014056-2",
+      "displayName": "Honda Fit EXL 1.5 Flex/Flexone 16V 5p Aut",
+      "valorAtual": 49933,
+      "canonicalPath": "/fipe/honda/fit-exl-1-5-flex-flexone-16v-5p-aut-2012-014056-2/",
+      "ano": 2012,
+      "marca": "Honda"
+    },
+    {
+      "vehicleId": "honda-fit-exl-1-5-flex-flexone-16v-5p-aut-2013-flex",
+      "fipeCodigo": "014056-2",
+      "displayName": "Honda Fit EXL 1.5 Flex/Flexone 16V 5p Aut",
+      "valorAtual": 53345,
+      "canonicalPath": "/fipe/honda/fit-exl-1-5-flex-flexone-16v-5p-aut-2013-014056-2/",
+      "ano": 2013,
+      "marca": "Honda"
+    },
+    {
+      "vehicleId": "honda-fit-exl-1-5-flex-flexone-16v-5p-aut-2015-flex",
+      "fipeCodigo": "014056-2",
+      "displayName": "Honda Fit EXL 1.5 Flex/Flexone 16V 5p Aut",
+      "valorAtual": 65058,
+      "canonicalPath": "/fipe/honda/fit-exl-1-5-flex-flexone-16v-5p-aut-2015-014056-2/",
+      "ano": 2015,
+      "marca": "Honda"
+    },
+    {
+      "vehicleId": "honda-fit-exl-1-5-flex-flexone-16v-5p-aut-2016-flex",
+      "fipeCodigo": "014056-2",
+      "displayName": "Honda Fit EXL 1.5 Flex/Flexone 16V 5p Aut",
+      "valorAtual": 69589,
+      "canonicalPath": "/fipe/honda/fit-exl-1-5-flex-flexone-16v-5p-aut-2016-014056-2/",
+      "ano": 2016,
+      "marca": "Honda"
+    },
+    {
+      "vehicleId": "honda-fit-exl-1-5-flex-flexone-16v-5p-aut-2017-flex",
+      "fipeCodigo": "014056-2",
+      "displayName": "Honda Fit EXL 1.5 Flex/Flexone 16V 5p Aut",
+      "valorAtual": 72892,
+      "canonicalPath": "/fipe/honda/fit-exl-1-5-flex-flexone-16v-5p-aut-2017-014056-2/",
+      "ano": 2017,
+      "marca": "Honda"
+    },
+    {
+      "vehicleId": "honda-fit-exl-1-5-flex-flexone-16v-5p-aut-2018-flex",
+      "fipeCodigo": "014056-2",
+      "displayName": "Honda Fit EXL 1.5 Flex/Flexone 16V 5p Aut",
+      "valorAtual": 80856,
+      "canonicalPath": "/fipe/honda/fit-exl-1-5-flex-flexone-16v-5p-aut-2018-014056-2/",
+      "ano": 2018,
+      "marca": "Honda"
+    },
+    {
+      "vehicleId": "honda-fit-exl-1-5-flex-flexone-16v-5p-aut-2019-flex",
+      "fipeCodigo": "014056-2",
+      "displayName": "Honda Fit EXL 1.5 Flex/Flexone 16V 5p Aut",
+      "valorAtual": 83812,
+      "canonicalPath": "/fipe/honda/fit-exl-1-5-flex-flexone-16v-5p-aut-2019-014056-2/",
+      "ano": 2019,
+      "marca": "Honda"
+    },
+    {
+      "vehicleId": "honda-fit-exl-1-5-flex-flexone-16v-5p-aut-2020-flex",
+      "fipeCodigo": "014056-2",
+      "displayName": "Honda Fit EXL 1.5 Flex/Flexone 16V 5p Aut",
+      "valorAtual": 85908,
+      "canonicalPath": "/fipe/honda/fit-exl-1-5-flex-flexone-16v-5p-aut-2020-014056-2/",
+      "ano": 2020,
+      "marca": "Honda"
+    },
+    {
+      "vehicleId": "honda-fit-exl-1-5-flex-flexone-16v-5p-aut-2021-flex",
+      "fipeCodigo": "014056-2",
+      "displayName": "Honda Fit EXL 1.5 Flex/Flexone 16V 5p Aut",
+      "valorAtual": 88056,
+      "canonicalPath": "/fipe/honda/fit-exl-1-5-flex-flexone-16v-5p-aut-2021-014056-2/",
+      "ano": 2021,
+      "marca": "Honda"
+    },
+    {
+      "vehicleId": "honda-fit-lx-1-4-1-4-flex-8v-16v-5p-aut-2004-gasolina",
+      "fipeCodigo": "014040-6",
+      "displayName": "Honda Fit LX 1.4/ 1.4 Flex 8V/16V 5p Aut.",
+      "valorAtual": 25940,
+      "canonicalPath": "/fipe/honda/fit-lx-1-4-1-4-flex-8v-16v-5p-aut-2004-014040-6/",
+      "ano": 2004,
+      "marca": "Honda"
+    },
+    {
+      "vehicleId": "honda-fit-lx-1-4-1-4-flex-8v-16v-5p-aut-2005-gasolina",
+      "fipeCodigo": "014040-6",
+      "displayName": "Honda Fit LX 1.4/ 1.4 Flex 8V/16V 5p Aut.",
+      "valorAtual": 26589,
+      "canonicalPath": "/fipe/honda/fit-lx-1-4-1-4-flex-8v-16v-5p-aut-2005-014040-6/",
+      "ano": 2005,
+      "marca": "Honda"
+    },
+    {
+      "vehicleId": "honda-fit-lx-1-4-1-4-flex-8v-16v-5p-aut-2006-gasolina",
+      "fipeCodigo": "014040-6",
+      "displayName": "Honda Fit LX 1.4/ 1.4 Flex 8V/16V 5p Aut.",
+      "valorAtual": 28738,
+      "canonicalPath": "/fipe/honda/fit-lx-1-4-1-4-flex-8v-16v-5p-aut-2006-014040-6/",
+      "ano": 2006,
+      "marca": "Honda"
+    },
+    {
+      "vehicleId": "honda-fit-lx-1-4-1-4-flex-8v-16v-5p-aut-2007-gasolina",
+      "fipeCodigo": "014040-6",
+      "displayName": "Honda Fit LX 1.4/ 1.4 Flex 8V/16V 5p Aut.",
+      "valorAtual": 31339,
+      "canonicalPath": "/fipe/honda/fit-lx-1-4-1-4-flex-8v-16v-5p-aut-2007-014040-6/",
+      "ano": 2007,
+      "marca": "Honda"
+    },
+    {
+      "vehicleId": "honda-fit-lx-1-4-1-4-flex-8v-16v-5p-aut-2008-gasolina",
+      "fipeCodigo": "014040-6",
+      "displayName": "Honda Fit LX 1.4/ 1.4 Flex 8V/16V 5p Aut.",
+      "valorAtual": 35233,
+      "canonicalPath": "/fipe/honda/fit-lx-1-4-1-4-flex-8v-16v-5p-aut-2008-014040-6/",
+      "ano": 2008,
+      "marca": "Honda"
+    },
+    {
+      "vehicleId": "honda-fit-lx-1-4-1-4-flex-8v-16v-5p-aut-2009-gasolina",
+      "fipeCodigo": "014040-6",
+      "displayName": "Honda Fit LX 1.4/ 1.4 Flex 8V/16V 5p Aut.",
+      "valorAtual": 41166,
+      "canonicalPath": "/fipe/honda/fit-lx-1-4-1-4-flex-8v-16v-5p-aut-2009-014040-6/",
+      "ano": 2009,
+      "marca": "Honda"
+    },
+    {
+      "vehicleId": "honda-fit-lx-1-4-1-4-flex-8v-16v-5p-aut-2010-gasolina",
+      "fipeCodigo": "014040-6",
+      "displayName": "Honda Fit LX 1.4/ 1.4 Flex 8V/16V 5p Aut.",
+      "valorAtual": 42421,
+      "canonicalPath": "/fipe/honda/fit-lx-1-4-1-4-flex-8v-16v-5p-aut-2010-014040-6/",
+      "ano": 2010,
+      "marca": "Honda"
+    },
+    {
+      "vehicleId": "honda-fit-lx-1-4-1-4-flex-8v-16v-5p-aut-2011-gasolina",
+      "fipeCodigo": "014040-6",
+      "displayName": "Honda Fit LX 1.4/ 1.4 Flex 8V/16V 5p Aut.",
+      "valorAtual": 45706,
+      "canonicalPath": "/fipe/honda/fit-lx-1-4-1-4-flex-8v-16v-5p-aut-2011-014040-6/",
+      "ano": 2011,
+      "marca": "Honda"
+    },
+    {
+      "vehicleId": "honda-fit-lx-1-4-1-4-flex-8v-16v-5p-aut-2012-gasolina",
+      "fipeCodigo": "014040-6",
+      "displayName": "Honda Fit LX 1.4/ 1.4 Flex 8V/16V 5p Aut.",
+      "valorAtual": 48009,
+      "canonicalPath": "/fipe/honda/fit-lx-1-4-1-4-flex-8v-16v-5p-aut-2012-014040-6/",
+      "ano": 2012,
+      "marca": "Honda"
+    },
+    {
+      "vehicleId": "honda-fit-lx-1-4-1-4-flex-8v-16v-5p-aut-2013-gasolina",
+      "fipeCodigo": "014040-6",
+      "displayName": "Honda Fit LX 1.4/ 1.4 Flex 8V/16V 5p Aut.",
+      "valorAtual": 52925,
+      "canonicalPath": "/fipe/honda/fit-lx-1-4-1-4-flex-8v-16v-5p-aut-2013-014040-6/",
+      "ano": 2013,
+      "marca": "Honda"
+    },
+    {
+      "vehicleId": "honda-fit-lx-1-4-1-4-flex-8v-16v-5p-aut-2014-gasolina",
+      "fipeCodigo": "014040-6",
+      "displayName": "Honda Fit LX 1.4/ 1.4 Flex 8V/16V 5p Aut.",
+      "valorAtual": 55962,
+      "canonicalPath": "/fipe/honda/fit-lx-1-4-1-4-flex-8v-16v-5p-aut-2014-014040-6/",
+      "ano": 2014,
+      "marca": "Honda"
+    },
+    {
+      "vehicleId": "honda-fit-lx-1-4-1-4-flex-8v-16v-5p-mec-2004-gasolina",
+      "fipeCodigo": "014039-2",
+      "displayName": "Honda Fit LX 1.4/ 1.4 Flex 8V/16V 5p Mec.",
+      "valorAtual": 23742,
+      "canonicalPath": "/fipe/honda/fit-lx-1-4-1-4-flex-8v-16v-5p-mec-2004-014039-2/",
+      "ano": 2004,
+      "marca": "Honda"
+    },
+    {
+      "vehicleId": "honda-fit-lx-1-4-1-4-flex-8v-16v-5p-mec-2005-gasolina",
+      "fipeCodigo": "014039-2",
+      "displayName": "Honda Fit LX 1.4/ 1.4 Flex 8V/16V 5p Mec.",
+      "valorAtual": 24431,
+      "canonicalPath": "/fipe/honda/fit-lx-1-4-1-4-flex-8v-16v-5p-mec-2005-014039-2/",
+      "ano": 2005,
+      "marca": "Honda"
+    },
+    {
+      "vehicleId": "honda-fit-lx-1-4-1-4-flex-8v-16v-5p-mec-2006-gasolina",
+      "fipeCodigo": "014039-2",
+      "displayName": "Honda Fit LX 1.4/ 1.4 Flex 8V/16V 5p Mec.",
+      "valorAtual": 26261,
+      "canonicalPath": "/fipe/honda/fit-lx-1-4-1-4-flex-8v-16v-5p-mec-2006-014039-2/",
+      "ano": 2006,
+      "marca": "Honda"
+    },
+    {
+      "vehicleId": "honda-fit-lx-1-4-1-4-flex-8v-16v-5p-mec-2007-gasolina",
+      "fipeCodigo": "014039-2",
+      "displayName": "Honda Fit LX 1.4/ 1.4 Flex 8V/16V 5p Mec.",
+      "valorAtual": 30716,
+      "canonicalPath": "/fipe/honda/fit-lx-1-4-1-4-flex-8v-16v-5p-mec-2007-014039-2/",
+      "ano": 2007,
+      "marca": "Honda"
+    },
+    {
+      "vehicleId": "honda-fit-lx-1-4-1-4-flex-8v-16v-5p-mec-2008-gasolina",
+      "fipeCodigo": "014039-2",
+      "displayName": "Honda Fit LX 1.4/ 1.4 Flex 8V/16V 5p Mec.",
+      "valorAtual": 32361,
+      "canonicalPath": "/fipe/honda/fit-lx-1-4-1-4-flex-8v-16v-5p-mec-2008-014039-2/",
+      "ano": 2008,
+      "marca": "Honda"
+    },
+    {
+      "vehicleId": "honda-fit-lx-1-4-1-4-flex-8v-16v-5p-mec-2009-gasolina",
+      "fipeCodigo": "014039-2",
+      "displayName": "Honda Fit LX 1.4/ 1.4 Flex 8V/16V 5p Mec.",
+      "valorAtual": 39583,
+      "canonicalPath": "/fipe/honda/fit-lx-1-4-1-4-flex-8v-16v-5p-mec-2009-014039-2/",
+      "ano": 2009,
+      "marca": "Honda"
+    },
+    {
+      "vehicleId": "honda-fit-lx-1-4-1-4-flex-8v-16v-5p-mec-2010-gasolina",
+      "fipeCodigo": "014039-2",
+      "displayName": "Honda Fit LX 1.4/ 1.4 Flex 8V/16V 5p Mec.",
+      "valorAtual": 40844,
+      "canonicalPath": "/fipe/honda/fit-lx-1-4-1-4-flex-8v-16v-5p-mec-2010-014039-2/",
+      "ano": 2010,
+      "marca": "Honda"
+    },
+    {
+      "vehicleId": "honda-fit-lx-1-4-1-4-flex-8v-16v-5p-mec-2011-gasolina",
+      "fipeCodigo": "014039-2",
+      "displayName": "Honda Fit LX 1.4/ 1.4 Flex 8V/16V 5p Mec.",
+      "valorAtual": 41866,
+      "canonicalPath": "/fipe/honda/fit-lx-1-4-1-4-flex-8v-16v-5p-mec-2011-014039-2/",
+      "ano": 2011,
+      "marca": "Honda"
+    }
+  ],
+  "stats": {
+    "total": 119
+  },
+  "meta": {
+    "geracaoId": "fit-1"
+  }
+}

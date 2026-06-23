@@ -1,0 +1,561 @@
+{
+  "tipo": "geracao",
+  "slug": "polo-3",
+  "canonicalPath": "/geracao/volkswagen/polo-3/",
+  "titulo": "Geracao polo-3",
+  "descricao": "60 veiculos da geracao polo-3.",
+  "seo": {
+    "title": "Geracao polo-3 - Precos FIPE",
+    "description": "Veiculos da geracao polo-3 na Tabela FIPE.",
+    "h1": "Geracao polo-3",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/volkswagen/polo-3/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "volkswagen-polo-1-0-flex-12v-5p-2018-flex",
+      "fipeCodigo": "005479-8",
+      "displayName": "VW - VolksWagen Polo 1.0 Flex 12V 5p",
+      "valorAtual": 60600,
+      "canonicalPath": "/fipe/volkswagen/polo-1-0-flex-12v-5p-2018-005479-8/",
+      "ano": 2018,
+      "marca": "VW - VolksWagen"
+    },
+    {
+      "vehicleId": "volkswagen-polo-1-0-flex-12v-5p-2019-flex",
+      "fipeCodigo": "005479-8",
+      "displayName": "VW - VolksWagen Polo 1.0 Flex 12V 5p",
+      "valorAtual": 62723,
+      "canonicalPath": "/fipe/volkswagen/polo-1-0-flex-12v-5p-2019-005479-8/",
+      "ano": 2019,
+      "marca": "VW - VolksWagen"
+    },
+    {
+      "vehicleId": "volkswagen-polo-1-0-flex-12v-5p-2020-flex",
+      "fipeCodigo": "005479-8",
+      "displayName": "VW - VolksWagen Polo 1.0 Flex 12V 5p",
+      "valorAtual": 64292,
+      "canonicalPath": "/fipe/volkswagen/polo-1-0-flex-12v-5p-2020-005479-8/",
+      "ano": 2020,
+      "marca": "VW - VolksWagen"
+    },
+    {
+      "vehicleId": "volkswagen-polo-1-0-flex-12v-5p-2021-flex",
+      "fipeCodigo": "005479-8",
+      "displayName": "VW - VolksWagen Polo 1.0 Flex 12V 5p",
+      "valorAtual": 68360,
+      "canonicalPath": "/fipe/volkswagen/polo-1-0-flex-12v-5p-2021-005479-8/",
+      "ano": 2021,
+      "marca": "VW - VolksWagen"
+    },
+    {
+      "vehicleId": "volkswagen-polo-1-0-flex-12v-5p-2022-flex",
+      "fipeCodigo": "005479-8",
+      "displayName": "VW - VolksWagen Polo 1.0 Flex 12V 5p",
+      "valorAtual": 70218,
+      "canonicalPath": "/fipe/volkswagen/polo-1-0-flex-12v-5p-2022-005479-8/",
+      "ano": 2022,
+      "marca": "VW - VolksWagen"
+    },
+    {
+      "vehicleId": "volkswagen-polo-1-0-mpi-flex-12v-5p-2023-flex",
+      "fipeCodigo": "005533-6",
+      "displayName": "VW - VolksWagen Polo 1.0 MPI Flex 12V 5p",
+      "valorAtual": 70370,
+      "canonicalPath": "/fipe/volkswagen/polo-1-0-mpi-flex-12v-5p-2023-005533-6/",
+      "ano": 2023,
+      "marca": "VW - VolksWagen"
+    },
+    {
+      "vehicleId": "volkswagen-polo-1-0-mpi-flex-12v-5p-2024-flex",
+      "fipeCodigo": "005533-6",
+      "displayName": "VW - VolksWagen Polo 1.0 MPI Flex 12V 5p",
+      "valorAtual": 74562,
+      "canonicalPath": "/fipe/volkswagen/polo-1-0-mpi-flex-12v-5p-2024-005533-6/",
+      "ano": 2024,
+      "marca": "VW - VolksWagen"
+    },
+    {
+      "vehicleId": "volkswagen-polo-1-0-mpi-flex-12v-5p-2025-flex",
+      "fipeCodigo": "005533-6",
+      "displayName": "VW - VolksWagen Polo 1.0 MPI Flex 12V 5p",
+      "valorAtual": 76853,
+      "canonicalPath": "/fipe/volkswagen/polo-1-0-mpi-flex-12v-5p-2025-005533-6/",
+      "ano": 2025,
+      "marca": "VW - VolksWagen"
+    },
+    {
+      "vehicleId": "volkswagen-polo-1-0-mpi-flex-12v-5p-2026-flex",
+      "fipeCodigo": "005533-6",
+      "displayName": "VW - VolksWagen Polo 1.0 MPI Flex 12V 5p",
+      "valorAtual": 80525,
+      "canonicalPath": "/fipe/volkswagen/polo-1-0-mpi-flex-12v-5p-2026-005533-6/",
+      "ano": 2026,
+      "marca": "VW - VolksWagen"
+    },
+    {
+      "vehicleId": "volkswagen-polo-1-0-tsi-flex-12v-5p-2023-flex",
+      "fipeCodigo": "005534-4",
+      "displayName": "VW - VolksWagen Polo 1.0 TSI Flex 12V 5p",
+      "valorAtual": 79413,
+      "canonicalPath": "/fipe/volkswagen/polo-1-0-tsi-flex-12v-5p-2023-005534-4/",
+      "ano": 2023,
+      "marca": "VW - VolksWagen"
+    },
+    {
+      "vehicleId": "volkswagen-polo-1-0-tsi-flex-12v-5p-2024-flex",
+      "fipeCodigo": "005534-4",
+      "displayName": "VW - VolksWagen Polo 1.0 TSI Flex 12V 5p",
+      "valorAtual": 81521,
+      "canonicalPath": "/fipe/volkswagen/polo-1-0-tsi-flex-12v-5p-2024-005534-4/",
+      "ano": 2024,
+      "marca": "VW - VolksWagen"
+    },
+    {
+      "vehicleId": "volkswagen-polo-1-0-tsi-flex-12v-5p-2025-flex",
+      "fipeCodigo": "005534-4",
+      "displayName": "VW - VolksWagen Polo 1.0 TSI Flex 12V 5p",
+      "valorAtual": 90723,
+      "canonicalPath": "/fipe/volkswagen/polo-1-0-tsi-flex-12v-5p-2025-005534-4/",
+      "ano": 2025,
+      "marca": "VW - VolksWagen"
+    },
+    {
+      "vehicleId": "volkswagen-polo-1-0-tsi-flex-12v-5p-2026-flex",
+      "fipeCodigo": "005534-4",
+      "displayName": "VW - VolksWagen Polo 1.0 TSI Flex 12V 5p",
+      "valorAtual": 99557,
+      "canonicalPath": "/fipe/volkswagen/polo-1-0-tsi-flex-12v-5p-2026-005534-4/",
+      "ano": 2026,
+      "marca": "VW - VolksWagen"
+    },
+    {
+      "vehicleId": "volkswagen-polo-1-6-msi-flex-16v-5p-2018-flex",
+      "fipeCodigo": "005478-0",
+      "displayName": "VW - VolksWagen Polo 1.6 MSI Flex 16V 5p",
+      "valorAtual": 61356,
+      "canonicalPath": "/fipe/volkswagen/polo-1-6-msi-flex-16v-5p-2018-005478-0/",
+      "ano": 2018,
+      "marca": "VW - VolksWagen"
+    },
+    {
+      "vehicleId": "volkswagen-polo-1-6-msi-flex-16v-5p-2019-flex",
+      "fipeCodigo": "005478-0",
+      "displayName": "VW - VolksWagen Polo 1.6 MSI Flex 16V 5p",
+      "valorAtual": 64088,
+      "canonicalPath": "/fipe/volkswagen/polo-1-6-msi-flex-16v-5p-2019-005478-0/",
+      "ano": 2019,
+      "marca": "VW - VolksWagen"
+    },
+    {
+      "vehicleId": "volkswagen-polo-1-6-msi-flex-16v-5p-2020-flex",
+      "fipeCodigo": "005478-0",
+      "displayName": "VW - VolksWagen Polo 1.6 MSI Flex 16V 5p",
+      "valorAtual": 65931,
+      "canonicalPath": "/fipe/volkswagen/polo-1-6-msi-flex-16v-5p-2020-005478-0/",
+      "ano": 2020,
+      "marca": "VW - VolksWagen"
+    },
+    {
+      "vehicleId": "volkswagen-polo-1-6-msi-flex-16v-5p-2021-flex",
+      "fipeCodigo": "005478-0",
+      "displayName": "VW - VolksWagen Polo 1.6 MSI Flex 16V 5p",
+      "valorAtual": 69727,
+      "canonicalPath": "/fipe/volkswagen/polo-1-6-msi-flex-16v-5p-2021-005478-0/",
+      "ano": 2021,
+      "marca": "VW - VolksWagen"
+    },
+    {
+      "vehicleId": "volkswagen-polo-1-6-msi-flex-16v-5p-2022-flex",
+      "fipeCodigo": "005478-0",
+      "displayName": "VW - VolksWagen Polo 1.6 MSI Flex 16V 5p",
+      "valorAtual": 72368,
+      "canonicalPath": "/fipe/volkswagen/polo-1-6-msi-flex-16v-5p-2022-005478-0/",
+      "ano": 2022,
+      "marca": "VW - VolksWagen"
+    },
+    {
+      "vehicleId": "volkswagen-polo-1-6-msi-total-flex-16v-5p-aut-2019-flex",
+      "fipeCodigo": "005499-2",
+      "displayName": "VW - VolksWagen Polo 1.6 MSI Total Flex 16V 5p Aut.",
+      "valorAtual": 66579,
+      "canonicalPath": "/fipe/volkswagen/polo-1-6-msi-total-flex-16v-5p-aut-2019-005499-2/",
+      "ano": 2019,
+      "marca": "VW - VolksWagen"
+    },
+    {
+      "vehicleId": "volkswagen-polo-1-6-msi-total-flex-16v-5p-aut-2020-flex",
+      "fipeCodigo": "005499-2",
+      "displayName": "VW - VolksWagen Polo 1.6 MSI Total Flex 16V 5p Aut.",
+      "valorAtual": 68244,
+      "canonicalPath": "/fipe/volkswagen/polo-1-6-msi-total-flex-16v-5p-aut-2020-005499-2/",
+      "ano": 2020,
+      "marca": "VW - VolksWagen"
+    },
+    {
+      "vehicleId": "volkswagen-polo-1-6-msi-total-flex-16v-5p-aut-2021-flex",
+      "fipeCodigo": "005499-2",
+      "displayName": "VW - VolksWagen Polo 1.6 MSI Total Flex 16V 5p Aut.",
+      "valorAtual": 72053,
+      "canonicalPath": "/fipe/volkswagen/polo-1-6-msi-total-flex-16v-5p-aut-2021-005499-2/",
+      "ano": 2021,
+      "marca": "VW - VolksWagen"
+    },
+    {
+      "vehicleId": "volkswagen-polo-1-6-msi-total-flex-16v-5p-aut-2022-flex",
+      "fipeCodigo": "005499-2",
+      "displayName": "VW - VolksWagen Polo 1.6 MSI Total Flex 16V 5p Aut.",
+      "valorAtual": 73855,
+      "canonicalPath": "/fipe/volkswagen/polo-1-6-msi-total-flex-16v-5p-aut-2022-005499-2/",
+      "ano": 2022,
+      "marca": "VW - VolksWagen"
+    },
+    {
+      "vehicleId": "volkswagen-polo-comfort-200-tsi-1-0-flex-12v-aut-2018-flex",
+      "fipeCodigo": "005477-1",
+      "displayName": "VW - VolksWagen Polo Comfort. 200 TSI 1.0 Flex 12V Aut.",
+      "valorAtual": 68521,
+      "canonicalPath": "/fipe/volkswagen/polo-comfort-200-tsi-1-0-flex-12v-aut-2018-005477-1/",
+      "ano": 2018,
+      "marca": "VW - VolksWagen"
+    },
+    {
+      "vehicleId": "volkswagen-polo-comfort-200-tsi-1-0-flex-12v-aut-2019-flex",
+      "fipeCodigo": "005477-1",
+      "displayName": "VW - VolksWagen Polo Comfort. 200 TSI 1.0 Flex 12V Aut.",
+      "valorAtual": 71529,
+      "canonicalPath": "/fipe/volkswagen/polo-comfort-200-tsi-1-0-flex-12v-aut-2019-005477-1/",
+      "ano": 2019,
+      "marca": "VW - VolksWagen"
+    },
+    {
+      "vehicleId": "volkswagen-polo-comfort-200-tsi-1-0-flex-12v-aut-2020-flex",
+      "fipeCodigo": "005477-1",
+      "displayName": "VW - VolksWagen Polo Comfort. 200 TSI 1.0 Flex 12V Aut.",
+      "valorAtual": 75251,
+      "canonicalPath": "/fipe/volkswagen/polo-comfort-200-tsi-1-0-flex-12v-aut-2020-005477-1/",
+      "ano": 2020,
+      "marca": "VW - VolksWagen"
+    },
+    {
+      "vehicleId": "volkswagen-polo-comfort-200-tsi-1-0-flex-12v-aut-2021-flex",
+      "fipeCodigo": "005477-1",
+      "displayName": "VW - VolksWagen Polo Comfort. 200 TSI 1.0 Flex 12V Aut.",
+      "valorAtual": 78948,
+      "canonicalPath": "/fipe/volkswagen/polo-comfort-200-tsi-1-0-flex-12v-aut-2021-005477-1/",
+      "ano": 2021,
+      "marca": "VW - VolksWagen"
+    },
+    {
+      "vehicleId": "volkswagen-polo-comfort-200-tsi-1-0-flex-12v-aut-2022-flex",
+      "fipeCodigo": "005477-1",
+      "displayName": "VW - VolksWagen Polo Comfort. 200 TSI 1.0 Flex 12V Aut.",
+      "valorAtual": 84657,
+      "canonicalPath": "/fipe/volkswagen/polo-comfort-200-tsi-1-0-flex-12v-aut-2022-005477-1/",
+      "ano": 2022,
+      "marca": "VW - VolksWagen"
+    },
+    {
+      "vehicleId": "volkswagen-polo-comfortline-tsi-1-0-flex-12v-aut-2023-flex",
+      "fipeCodigo": "005535-2",
+      "displayName": "VW - VolksWagen Polo Comfortline TSI 1.0 Flex 12V Aut.",
+      "valorAtual": 85192,
+      "canonicalPath": "/fipe/volkswagen/polo-comfortline-tsi-1-0-flex-12v-aut-2023-005535-2/",
+      "ano": 2023,
+      "marca": "VW - VolksWagen"
+    },
+    {
+      "vehicleId": "volkswagen-polo-comfortline-tsi-1-0-flex-12v-aut-2024-flex",
+      "fipeCodigo": "005535-2",
+      "displayName": "VW - VolksWagen Polo Comfortline TSI 1.0 Flex 12V Aut.",
+      "valorAtual": 89416,
+      "canonicalPath": "/fipe/volkswagen/polo-comfortline-tsi-1-0-flex-12v-aut-2024-005535-2/",
+      "ano": 2024,
+      "marca": "VW - VolksWagen"
+    },
+    {
+      "vehicleId": "volkswagen-polo-comfortline-tsi-1-0-flex-12v-aut-2025-flex",
+      "fipeCodigo": "005535-2",
+      "displayName": "VW - VolksWagen Polo Comfortline TSI 1.0 Flex 12V Aut.",
+      "valorAtual": 98281,
+      "canonicalPath": "/fipe/volkswagen/polo-comfortline-tsi-1-0-flex-12v-aut-2025-005535-2/",
+      "ano": 2025,
+      "marca": "VW - VolksWagen"
+    },
+    {
+      "vehicleId": "volkswagen-polo-comfortline-tsi-1-0-flex-12v-aut-2026-flex",
+      "fipeCodigo": "005535-2",
+      "displayName": "VW - VolksWagen Polo Comfortline TSI 1.0 Flex 12V Aut.",
+      "valorAtual": 102887,
+      "canonicalPath": "/fipe/volkswagen/polo-comfortline-tsi-1-0-flex-12v-aut-2026-005535-2/",
+      "ano": 2026,
+      "marca": "VW - VolksWagen"
+    },
+    {
+      "vehicleId": "volkswagen-polo-gts-1-4-tsi-16v-flex-2020-flex",
+      "fipeCodigo": "005521-2",
+      "displayName": "VW - VolksWagen Polo GTS 1.4 TSI 16V Flex",
+      "valorAtual": 100961,
+      "canonicalPath": "/fipe/volkswagen/polo-gts-1-4-tsi-16v-flex-2020-005521-2/",
+      "ano": 2020,
+      "marca": "VW - VolksWagen"
+    },
+    {
+      "vehicleId": "volkswagen-polo-gts-1-4-tsi-16v-flex-2021-flex",
+      "fipeCodigo": "005521-2",
+      "displayName": "VW - VolksWagen Polo GTS 1.4 TSI 16V Flex",
+      "valorAtual": 105973,
+      "canonicalPath": "/fipe/volkswagen/polo-gts-1-4-tsi-16v-flex-2021-005521-2/",
+      "ano": 2021,
+      "marca": "VW - VolksWagen"
+    },
+    {
+      "vehicleId": "volkswagen-polo-gts-1-4-tsi-16v-flex-2022-flex",
+      "fipeCodigo": "005521-2",
+      "displayName": "VW - VolksWagen Polo GTS 1.4 TSI 16V Flex",
+      "valorAtual": 109224,
+      "canonicalPath": "/fipe/volkswagen/polo-gts-1-4-tsi-16v-flex-2022-005521-2/",
+      "ano": 2022,
+      "marca": "VW - VolksWagen"
+    },
+    {
+      "vehicleId": "volkswagen-polo-gts-1-4-tsi-16v-flex-2023-flex",
+      "fipeCodigo": "005521-2",
+      "displayName": "VW - VolksWagen Polo GTS 1.4 TSI 16V Flex",
+      "valorAtual": 118622,
+      "canonicalPath": "/fipe/volkswagen/polo-gts-1-4-tsi-16v-flex-2023-005521-2/",
+      "ano": 2023,
+      "marca": "VW - VolksWagen"
+    },
+    {
+      "vehicleId": "volkswagen-polo-gts-1-4-tsi-16v-flex-2024-flex",
+      "fipeCodigo": "005521-2",
+      "displayName": "VW - VolksWagen Polo GTS 1.4 TSI 16V Flex",
+      "valorAtual": 124906,
+      "canonicalPath": "/fipe/volkswagen/polo-gts-1-4-tsi-16v-flex-2024-005521-2/",
+      "ano": 2024,
+      "marca": "VW - VolksWagen"
+    },
+    {
+      "vehicleId": "volkswagen-polo-gts-1-4-tsi-16v-flex-2025-flex",
+      "fipeCodigo": "005521-2",
+      "displayName": "VW - VolksWagen Polo GTS 1.4 TSI 16V Flex",
+      "valorAtual": 134872,
+      "canonicalPath": "/fipe/volkswagen/polo-gts-1-4-tsi-16v-flex-2025-005521-2/",
+      "ano": 2025,
+      "marca": "VW - VolksWagen"
+    },
+    {
+      "vehicleId": "volkswagen-polo-highline-200-tsi-1-0-flex-12v-aut-2018-flex",
+      "fipeCodigo": "005476-3",
+      "displayName": "VW - VolksWagen Polo Highline 200 TSI 1.0 Flex 12V Aut.",
+      "valorAtual": 76357,
+      "canonicalPath": "/fipe/volkswagen/polo-highline-200-tsi-1-0-flex-12v-aut-2018-005476-3/",
+      "ano": 2018,
+      "marca": "VW - VolksWagen"
+    },
+    {
+      "vehicleId": "volkswagen-polo-highline-200-tsi-1-0-flex-12v-aut-2019-flex",
+      "fipeCodigo": "005476-3",
+      "displayName": "VW - VolksWagen Polo Highline 200 TSI 1.0 Flex 12V Aut.",
+      "valorAtual": 79354,
+      "canonicalPath": "/fipe/volkswagen/polo-highline-200-tsi-1-0-flex-12v-aut-2019-005476-3/",
+      "ano": 2019,
+      "marca": "VW - VolksWagen"
+    },
+    {
+      "vehicleId": "volkswagen-polo-highline-200-tsi-1-0-flex-12v-aut-2020-flex",
+      "fipeCodigo": "005476-3",
+      "displayName": "VW - VolksWagen Polo Highline 200 TSI 1.0 Flex 12V Aut.",
+      "valorAtual": 81338,
+      "canonicalPath": "/fipe/volkswagen/polo-highline-200-tsi-1-0-flex-12v-aut-2020-005476-3/",
+      "ano": 2020,
+      "marca": "VW - VolksWagen"
+    },
+    {
+      "vehicleId": "volkswagen-polo-highline-200-tsi-1-0-flex-12v-aut-2021-flex",
+      "fipeCodigo": "005476-3",
+      "displayName": "VW - VolksWagen Polo Highline 200 TSI 1.0 Flex 12V Aut.",
+      "valorAtual": 85018,
+      "canonicalPath": "/fipe/volkswagen/polo-highline-200-tsi-1-0-flex-12v-aut-2021-005476-3/",
+      "ano": 2021,
+      "marca": "VW - VolksWagen"
+    },
+    {
+      "vehicleId": "volkswagen-polo-highline-200-tsi-1-0-flex-12v-aut-2022-flex",
+      "fipeCodigo": "005476-3",
+      "displayName": "VW - VolksWagen Polo Highline 200 TSI 1.0 Flex 12V Aut.",
+      "valorAtual": 88101,
+      "canonicalPath": "/fipe/volkswagen/polo-highline-200-tsi-1-0-flex-12v-aut-2022-005476-3/",
+      "ano": 2022,
+      "marca": "VW - VolksWagen"
+    },
+    {
+      "vehicleId": "volkswagen-polo-highline-tsi-1-0-flex-12v-aut-2023-flex",
+      "fipeCodigo": "005536-0",
+      "displayName": "VW - VolksWagen Polo Highline TSI 1.0 Flex 12V Aut.",
+      "valorAtual": 93476,
+      "canonicalPath": "/fipe/volkswagen/polo-highline-tsi-1-0-flex-12v-aut-2023-005536-0/",
+      "ano": 2023,
+      "marca": "VW - VolksWagen"
+    },
+    {
+      "vehicleId": "volkswagen-polo-highline-tsi-1-0-flex-12v-aut-2024-flex",
+      "fipeCodigo": "005536-0",
+      "displayName": "VW - VolksWagen Polo Highline TSI 1.0 Flex 12V Aut.",
+      "valorAtual": 97481,
+      "canonicalPath": "/fipe/volkswagen/polo-highline-tsi-1-0-flex-12v-aut-2024-005536-0/",
+      "ano": 2024,
+      "marca": "VW - VolksWagen"
+    },
+    {
+      "vehicleId": "volkswagen-polo-highline-tsi-1-0-flex-12v-aut-2025-flex",
+      "fipeCodigo": "005536-0",
+      "displayName": "VW - VolksWagen Polo Highline TSI 1.0 Flex 12V Aut.",
+      "valorAtual": 106305,
+      "canonicalPath": "/fipe/volkswagen/polo-highline-tsi-1-0-flex-12v-aut-2025-005536-0/",
+      "ano": 2025,
+      "marca": "VW - VolksWagen"
+    },
+    {
+      "vehicleId": "volkswagen-polo-highline-tsi-1-0-flex-12v-aut-2026-flex",
+      "fipeCodigo": "005536-0",
+      "displayName": "VW - VolksWagen Polo Highline TSI 1.0 Flex 12V Aut.",
+      "valorAtual": 110562,
+      "canonicalPath": "/fipe/volkswagen/polo-highline-tsi-1-0-flex-12v-aut-2026-005536-0/",
+      "ano": 2026,
+      "marca": "VW - VolksWagen"
+    },
+    {
+      "vehicleId": "volkswagen-polo-robust-1-0-flex-12v-5p-2025-flex",
+      "fipeCodigo": "005550-6",
+      "displayName": "VW - VolksWagen Polo Robust 1.0 Flex 12V 5p",
+      "valorAtual": 77675,
+      "canonicalPath": "/fipe/volkswagen/polo-robust-1-0-flex-12v-5p-2025-005550-6/",
+      "ano": 2025,
+      "marca": "VW - VolksWagen"
+    },
+    {
+      "vehicleId": "volkswagen-polo-robust-1-0-flex-12v-5p-2026-flex",
+      "fipeCodigo": "005550-6",
+      "displayName": "VW - VolksWagen Polo Robust 1.0 Flex 12V 5p",
+      "valorAtual": 82639,
+      "canonicalPath": "/fipe/volkswagen/polo-robust-1-0-flex-12v-5p-2026-005550-6/",
+      "ano": 2026,
+      "marca": "VW - VolksWagen"
+    },
+    {
+      "vehicleId": "volkswagen-polo-sense-tsi-1-0-flex-12v-aut-2019-flex",
+      "fipeCodigo": "005513-1",
+      "displayName": "VW - VolksWagen Polo Sense TSI 1.0 Flex 12V Aut",
+      "valorAtual": 70994,
+      "canonicalPath": "/fipe/volkswagen/polo-sense-tsi-1-0-flex-12v-aut-2019-005513-1/",
+      "ano": 2019,
+      "marca": "VW - VolksWagen"
+    },
+    {
+      "vehicleId": "volkswagen-polo-sense-tsi-1-0-flex-12v-aut-2020-flex",
+      "fipeCodigo": "005513-1",
+      "displayName": "VW - VolksWagen Polo Sense TSI 1.0 Flex 12V Aut",
+      "valorAtual": 74588,
+      "canonicalPath": "/fipe/volkswagen/polo-sense-tsi-1-0-flex-12v-aut-2020-005513-1/",
+      "ano": 2020,
+      "marca": "VW - VolksWagen"
+    },
+    {
+      "vehicleId": "volkswagen-polo-sense-tsi-1-0-flex-12v-aut-2021-flex",
+      "fipeCodigo": "005513-1",
+      "displayName": "VW - VolksWagen Polo Sense TSI 1.0 Flex 12V Aut",
+      "valorAtual": 77988,
+      "canonicalPath": "/fipe/volkswagen/polo-sense-tsi-1-0-flex-12v-aut-2021-005513-1/",
+      "ano": 2021,
+      "marca": "VW - VolksWagen"
+    },
+    {
+      "vehicleId": "volkswagen-polo-sense-tsi-1-0-flex-12v-aut-2024-flex",
+      "fipeCodigo": "005513-1",
+      "displayName": "VW - VolksWagen Polo Sense TSI 1.0 Flex 12V Aut",
+      "valorAtual": 85958,
+      "canonicalPath": "/fipe/volkswagen/polo-sense-tsi-1-0-flex-12v-aut-2024-005513-1/",
+      "ano": 2024,
+      "marca": "VW - VolksWagen"
+    },
+    {
+      "vehicleId": "volkswagen-polo-sense-tsi-1-0-flex-12v-aut-2025-flex",
+      "fipeCodigo": "005513-1",
+      "displayName": "VW - VolksWagen Polo Sense TSI 1.0 Flex 12V Aut",
+      "valorAtual": 91154,
+      "canonicalPath": "/fipe/volkswagen/polo-sense-tsi-1-0-flex-12v-aut-2025-005513-1/",
+      "ano": 2025,
+      "marca": "VW - VolksWagen"
+    },
+    {
+      "vehicleId": "volkswagen-polo-sense-tsi-1-0-flex-12v-aut-2026-flex",
+      "fipeCodigo": "005513-1",
+      "displayName": "VW - VolksWagen Polo Sense TSI 1.0 Flex 12V Aut",
+      "valorAtual": 97568,
+      "canonicalPath": "/fipe/volkswagen/polo-sense-tsi-1-0-flex-12v-aut-2026-005513-1/",
+      "ano": 2026,
+      "marca": "VW - VolksWagen"
+    },
+    {
+      "vehicleId": "volkswagen-polo-track-1-0-flex-12v-5p-2023-flex",
+      "fipeCodigo": "005540-9",
+      "displayName": "VW - VolksWagen Polo Track 1.0 Flex 12V 5p",
+      "valorAtual": 65996,
+      "canonicalPath": "/fipe/volkswagen/polo-track-1-0-flex-12v-5p-2023-005540-9/",
+      "ano": 2023,
+      "marca": "VW - VolksWagen"
+    },
+    {
+      "vehicleId": "volkswagen-polo-track-1-0-flex-12v-5p-2024-flex",
+      "fipeCodigo": "005540-9",
+      "displayName": "VW - VolksWagen Polo Track 1.0 Flex 12V 5p",
+      "valorAtual": 70325,
+      "canonicalPath": "/fipe/volkswagen/polo-track-1-0-flex-12v-5p-2024-005540-9/",
+      "ano": 2024,
+      "marca": "VW - VolksWagen"
+    },
+    {
+      "vehicleId": "volkswagen-polo-track-1-0-flex-12v-5p-2025-flex",
+      "fipeCodigo": "005540-9",
+      "displayName": "VW - VolksWagen Polo Track 1.0 Flex 12V 5p",
+      "valorAtual": 75974,
+      "canonicalPath": "/fipe/volkswagen/polo-track-1-0-flex-12v-5p-2025-005540-9/",
+      "ano": 2025,
+      "marca": "VW - VolksWagen"
+    },
+    {
+      "vehicleId": "volkswagen-polo-track-1-0-flex-12v-5p-2026-flex",
+      "fipeCodigo": "005540-9",
+      "displayName": "VW - VolksWagen Polo Track 1.0 Flex 12V 5p",
+      "valorAtual": 81826,
+      "canonicalPath": "/fipe/volkswagen/polo-track-1-0-flex-12v-5p-2026-005540-9/",
+      "ano": 2026,
+      "marca": "VW - VolksWagen"
+    },
+    {
+      "vehicleId": "volkswagen-polo-track-first-edition-1-0-flex-12v-5p-2023-flex",
+      "fipeCodigo": "005545-0",
+      "displayName": "VW - VolksWagen Polo Track First Edition 1.0 Flex 12V 5p",
+      "valorAtual": 79753,
+      "canonicalPath": "/fipe/volkswagen/polo-track-first-edition-1-0-flex-12v-5p-2023-005545-0/",
+      "ano": 2023,
+      "marca": "VW - VolksWagen"
+    },
+    {
+      "vehicleId": "volkswagen-polo-track-rock-in-rio-1-0-flex-12v-5p-2025-flex",
+      "fipeCodigo": "005549-2",
+      "displayName": "VW - VolksWagen Polo Track Rock in Rio 1.0 Flex 12V 5p",
+      "valorAtual": 77448,
+      "canonicalPath": "/fipe/volkswagen/polo-track-rock-in-rio-1-0-flex-12v-5p-2025-005549-2/",
+      "ano": 2025,
+      "marca": "VW - VolksWagen"
+    }
+  ],
+  "stats": {
+    "total": 60
+  },
+  "meta": {
+    "geracaoId": "polo-3"
+  }
+}

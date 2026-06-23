@@ -1,0 +1,62 @@
+{
+  "tipo": "familia",
+  "slug": "sv650",
+  "canonicalPath": "/fipe/suzuki/sv650/",
+  "titulo": "SUZUKI sv650 - Tabela FIPE",
+  "descricao": "4 versoes e anos do SUZUKI sv650 na Tabela FIPE.",
+  "seo": {
+    "title": "SUZUKI sv650 - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes SUZUKI sv650. 4 veiculos indexados.",
+    "h1": "SUZUKI sv650 - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/suzuki/sv650/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "suzuki-sv650-2020-gasolina",
+      "fipeCodigo": "825073-1",
+      "displayName": "SUZUKI SV650",
+      "valorAtual": 37908,
+      "canonicalPath": "/fipe/suzuki/sv650-2020-825073-1/",
+      "ano": 2020,
+      "marca": "SUZUKI"
+    },
+    {
+      "vehicleId": "suzuki-sv650-2019-gasolina",
+      "fipeCodigo": "825073-1",
+      "displayName": "SUZUKI SV650",
+      "valorAtual": 36811,
+      "canonicalPath": "/fipe/suzuki/sv650-2019-825073-1/",
+      "ano": 2019,
+      "marca": "SUZUKI"
+    },
+    {
+      "vehicleId": "suzuki-sv650-2018-gasolina",
+      "fipeCodigo": "825073-1",
+      "displayName": "SUZUKI SV650",
+      "valorAtual": 35913,
+      "canonicalPath": "/fipe/suzuki/sv650-2018-825073-1/",
+      "ano": 2018,
+      "marca": "SUZUKI"
+    },
+    {
+      "vehicleId": "suzuki-sv650-2017-gasolina",
+      "fipeCodigo": "825073-1",
+      "displayName": "SUZUKI SV650",
+      "valorAtual": 35037,
+      "canonicalPath": "/fipe/suzuki/sv650-2017-825073-1/",
+      "ano": 2017,
+      "marca": "SUZUKI"
+    }
+  ],
+  "stats": {
+    "total": 4,
+    "precoMin": 35037,
+    "precoMax": 37908,
+    "anos": [
+      2020,
+      2019,
+      2018,
+      2017
+    ]
+  }
+}

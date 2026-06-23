@@ -1,0 +1,66 @@
+{
+  "tipo": "geracao",
+  "slug": "glc-1",
+  "canonicalPath": "/geracao/mercedes-benz/glc-1/",
+  "titulo": "Geracao glc-1",
+  "descricao": "5 veiculos da geracao glc-1.",
+  "seo": {
+    "title": "Geracao glc-1 - Precos FIPE",
+    "description": "Veiculos da geracao glc-1 na Tabela FIPE.",
+    "h1": "Geracao glc-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/mercedes-benz/glc-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "mercedes-benz-glc-300-amg-l-cou-4m-2-0-tb-aut-hib-0-hibrido",
+      "fipeCodigo": "021516-3",
+      "displayName": "Mercedes-Benz GLC-300 AMG L. Cou. 4M 2.0 TB Aut. (Híb)",
+      "valorAtual": 543960,
+      "canonicalPath": "/fipe/mercedes-benz/glc-300-amg-l-cou-4m-2-0-tb-aut-hib-0-021516-3/",
+      "ano": 0,
+      "marca": "Mercedes-Benz"
+    },
+    {
+      "vehicleId": "mercedes-benz-glc-300-amg-line-4matic-2-0-tb-aut-hib-0-hibrido",
+      "fipeCodigo": "021537-6",
+      "displayName": "Mercedes-Benz GLC-300 AMG Line 4MATIC 2.0 TB Aut (Híb)",
+      "valorAtual": 530428,
+      "canonicalPath": "/fipe/mercedes-benz/glc-300-amg-line-4matic-2-0-tb-aut-hib-0-021537-6/",
+      "ano": 0,
+      "marca": "Mercedes-Benz"
+    },
+    {
+      "vehicleId": "mercedes-benz-glc-43-amg-4m-coupe-2-0-turbo-aut-hib-0-hibrido",
+      "fipeCodigo": "021526-0",
+      "displayName": "Mercedes-Benz GLC-43 AMG 4M Coupe 2.0 Turbo Aut.(Híb).",
+      "valorAtual": 742612,
+      "canonicalPath": "/fipe/mercedes-benz/glc-43-amg-4m-coupe-2-0-turbo-aut-hib-0-021526-0/",
+      "ano": 0,
+      "marca": "Mercedes-Benz"
+    },
+    {
+      "vehicleId": "mercedes-benz-glc-43-amg-4matic-2-0-turbo-aut-hib-0-hibrido",
+      "fipeCodigo": "021528-7",
+      "displayName": "Mercedes-Benz GLC-43 AMG 4MATIC 2.0 Turbo Aut. (Híb).",
+      "valorAtual": 729028,
+      "canonicalPath": "/fipe/mercedes-benz/glc-43-amg-4matic-2-0-turbo-aut-hib-0-021528-7/",
+      "ano": 0,
+      "marca": "Mercedes-Benz"
+    },
+    {
+      "vehicleId": "mercedes-benz-glc-63-s-amg-e-perf-coupe-2-0-aut-hib-0-hibrido",
+      "fipeCodigo": "021542-2",
+      "displayName": "Mercedes-Benz GLC-63 S AMG E Perf. Coupe 2.0 Aut (Híb)",
+      "valorAtual": 1013040,
+      "canonicalPath": "/fipe/mercedes-benz/glc-63-s-amg-e-perf-coupe-2-0-aut-hib-0-021542-2/",
+      "ano": 0,
+      "marca": "Mercedes-Benz"
+    }
+  ],
+  "stats": {
+    "total": 5
+  },
+  "meta": {
+    "geracaoId": "glc-1"
+  }
+}

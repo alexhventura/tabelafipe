@@ -1,0 +1,57 @@
+{
+  "tipo": "geracao",
+  "slug": "v11-1",
+  "canonicalPath": "/geracao/moto-guzzi/v11-1/",
+  "titulo": "Geracao v11-1",
+  "descricao": "4 veiculos da geracao v11-1.",
+  "seo": {
+    "title": "Geracao v11-1 - Precos FIPE",
+    "description": "Veiculos da geracao v11-1 na Tabela FIPE.",
+    "h1": "Geracao v11-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/moto-guzzi/v11-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "moto-guzzi-v11-sport-le-mans-1064cc-2000-gasolina",
+      "fipeCodigo": "833001-8",
+      "displayName": "MOTO GUZZI V11 SPORT/ LE MANS 1064cc",
+      "valorAtual": 51528,
+      "canonicalPath": "/fipe/moto-guzzi/v11-sport-le-mans-1064cc-2000-833001-8/",
+      "ano": 2000,
+      "marca": "MOTO GUZZI"
+    },
+    {
+      "vehicleId": "moto-guzzi-v11-sport-le-mans-1064cc-2001-gasolina",
+      "fipeCodigo": "833001-8",
+      "displayName": "MOTO GUZZI V11 SPORT/ LE MANS 1064cc",
+      "valorAtual": 52920,
+      "canonicalPath": "/fipe/moto-guzzi/v11-sport-le-mans-1064cc-2001-833001-8/",
+      "ano": 2001,
+      "marca": "MOTO GUZZI"
+    },
+    {
+      "vehicleId": "moto-guzzi-v11-sport-le-mans-1064cc-2002-gasolina",
+      "fipeCodigo": "833001-8",
+      "displayName": "MOTO GUZZI V11 SPORT/ LE MANS 1064cc",
+      "valorAtual": 54819,
+      "canonicalPath": "/fipe/moto-guzzi/v11-sport-le-mans-1064cc-2002-833001-8/",
+      "ano": 2002,
+      "marca": "MOTO GUZZI"
+    },
+    {
+      "vehicleId": "moto-guzzi-v11-sport-le-mans-1064cc-2003-gasolina",
+      "fipeCodigo": "833001-8",
+      "displayName": "MOTO GUZZI V11 SPORT/ LE MANS 1064cc",
+      "valorAtual": 56242,
+      "canonicalPath": "/fipe/moto-guzzi/v11-sport-le-mans-1064cc-2003-833001-8/",
+      "ano": 2003,
+      "marca": "MOTO GUZZI"
+    }
+  ],
+  "stats": {
+    "total": 4
+  },
+  "meta": {
+    "geracaoId": "v11-1"
+  }
+}

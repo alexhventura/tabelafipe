@@ -1,0 +1,62 @@
+{
+  "tipo": "familia",
+  "slug": "master",
+  "canonicalPath": "/fipe/atala/master/",
+  "titulo": "ATALA master - Tabela FIPE",
+  "descricao": "4 versoes e anos do ATALA master na Tabela FIPE.",
+  "seo": {
+    "title": "ATALA master - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes ATALA master. 4 veiculos indexados.",
+    "h1": "ATALA master - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/atala/master/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "atala-master-50cc-2003-gasolina",
+      "fipeCodigo": "829001-6",
+      "displayName": "ATALA MASTER 50cc",
+      "valorAtual": 1611,
+      "canonicalPath": "/fipe/atala/master-50cc-2003-829001-6/",
+      "ano": 2003,
+      "marca": "ATALA"
+    },
+    {
+      "vehicleId": "atala-master-50cc-2002-gasolina",
+      "fipeCodigo": "829001-6",
+      "displayName": "ATALA MASTER 50cc",
+      "valorAtual": 1417,
+      "canonicalPath": "/fipe/atala/master-50cc-2002-829001-6/",
+      "ano": 2002,
+      "marca": "ATALA"
+    },
+    {
+      "vehicleId": "atala-master-50cc-2001-gasolina",
+      "fipeCodigo": "829001-6",
+      "displayName": "ATALA MASTER 50cc",
+      "valorAtual": 1235,
+      "canonicalPath": "/fipe/atala/master-50cc-2001-829001-6/",
+      "ano": 2001,
+      "marca": "ATALA"
+    },
+    {
+      "vehicleId": "atala-master-50cc-2000-gasolina",
+      "fipeCodigo": "829001-6",
+      "displayName": "ATALA MASTER 50cc",
+      "valorAtual": 1125,
+      "canonicalPath": "/fipe/atala/master-50cc-2000-829001-6/",
+      "ano": 2000,
+      "marca": "ATALA"
+    }
+  ],
+  "stats": {
+    "total": 4,
+    "precoMin": 1125,
+    "precoMax": 1611,
+    "anos": [
+      2003,
+      2002,
+      2001,
+      2000
+    ]
+  }
+}

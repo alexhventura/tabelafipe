@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "tx-1",
+  "canonicalPath": "/geracao/gas-gas/tx-1/",
+  "titulo": "Geracao tx-1",
+  "descricao": "2 veiculos da geracao tx-1.",
+  "seo": {
+    "title": "Geracao tx-1 - Precos FIPE",
+    "description": "Veiculos da geracao tx-1 na Tabela FIPE.",
+    "h1": "Geracao tx-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/gas-gas/tx-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "gas-gas-tx-boy-50-2001-gasolina",
+      "fipeCodigo": "834009-9",
+      "displayName": "GAS GAS TX BOY 50",
+      "valorAtual": 2063,
+      "canonicalPath": "/fipe/gas-gas/tx-boy-50-2001-834009-9/",
+      "ano": 2001,
+      "marca": "GAS GAS"
+    },
+    {
+      "vehicleId": "gas-gas-tx-boy-50-2002-gasolina",
+      "fipeCodigo": "834009-9",
+      "displayName": "GAS GAS TX BOY 50",
+      "valorAtual": 2206,
+      "canonicalPath": "/fipe/gas-gas/tx-boy-50-2002-834009-9/",
+      "ano": 2002,
+      "marca": "GAS GAS"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "tx-1"
+  }
+}

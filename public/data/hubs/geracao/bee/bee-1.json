@@ -1,0 +1,75 @@
+{
+  "tipo": "geracao",
+  "slug": "bee-1",
+  "canonicalPath": "/geracao/bee/bee-1/",
+  "titulo": "Geracao bee-1",
+  "descricao": "6 veiculos da geracao bee-1.",
+  "seo": {
+    "title": "Geracao bee-1 - Precos FIPE",
+    "description": "Veiculos da geracao bee-1 na Tabela FIPE.",
+    "h1": "Geracao bee-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/bee/bee-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "bee-bee-125cc-monaco-2015-gasolina",
+      "fipeCodigo": "886002-5",
+      "displayName": "BEE BEE 125cc Monaco",
+      "valorAtual": 5416,
+      "canonicalPath": "/fipe/bee/bee-125cc-monaco-2015-886002-5/",
+      "ano": 2015,
+      "marca": "BEE"
+    },
+    {
+      "vehicleId": "bee-bee-125cc-monaco-2016-gasolina",
+      "fipeCodigo": "886002-5",
+      "displayName": "BEE BEE 125cc Monaco",
+      "valorAtual": 6285,
+      "canonicalPath": "/fipe/bee/bee-125cc-monaco-2016-886002-5/",
+      "ano": 2016,
+      "marca": "BEE"
+    },
+    {
+      "vehicleId": "bee-bee-200cc-royale-2016-gasolina",
+      "fipeCodigo": "886003-3",
+      "displayName": "BEE BEE 200cc Royale",
+      "valorAtual": 8947,
+      "canonicalPath": "/fipe/bee/bee-200cc-royale-2016-886003-3/",
+      "ano": 2016,
+      "marca": "BEE"
+    },
+    {
+      "vehicleId": "bee-bee-200cc-royale-2017-gasolina",
+      "fipeCodigo": "886003-3",
+      "displayName": "BEE BEE 200cc Royale",
+      "valorAtual": 9171,
+      "canonicalPath": "/fipe/bee/bee-200cc-royale-2017-886003-3/",
+      "ano": 2017,
+      "marca": "BEE"
+    },
+    {
+      "vehicleId": "bee-bee-50cc-2016-gasolina",
+      "fipeCodigo": "886001-7",
+      "displayName": "BEE BEE 50cc",
+      "valorAtual": 5514,
+      "canonicalPath": "/fipe/bee/bee-50cc-2016-886001-7/",
+      "ano": 2016,
+      "marca": "BEE"
+    },
+    {
+      "vehicleId": "bee-bee-50cc-2017-gasolina",
+      "fipeCodigo": "886001-7",
+      "displayName": "BEE BEE 50cc",
+      "valorAtual": 5953,
+      "canonicalPath": "/fipe/bee/bee-50cc-2017-886001-7/",
+      "ano": 2017,
+      "marca": "BEE"
+    }
+  ],
+  "stats": {
+    "total": 6
+  },
+  "meta": {
+    "geracaoId": "bee-1"
+  }
+}

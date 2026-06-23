@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "w125-2",
+  "canonicalPath": "/geracao/watts/w125-2/",
+  "titulo": "Geracao w125-2",
+  "descricao": "2 veiculos da geracao w125-2.",
+  "seo": {
+    "title": "Geracao w125-2 - Precos FIPE",
+    "description": "Veiculos da geracao w125-2 na Tabela FIPE.",
+    "h1": "Geracao w125-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/watts/w125-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "watts-w125-3000w-eletrica-2022-eletrico",
+      "fipeCodigo": "894001-0",
+      "displayName": "WATTS W125 3000W (Elétrica)",
+      "valorAtual": 10782,
+      "canonicalPath": "/fipe/watts/w125-3000w-eletrica-2022-894001-0/",
+      "ano": 2022,
+      "marca": "WATTS"
+    },
+    {
+      "vehicleId": "watts-w125-3000w-eletrica-2023-eletrico",
+      "fipeCodigo": "894001-0",
+      "displayName": "WATTS W125 3000W (Elétrica)",
+      "valorAtual": 11892,
+      "canonicalPath": "/fipe/watts/w125-3000w-eletrica-2023-894001-0/",
+      "ano": 2023,
+      "marca": "WATTS"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "w125-2"
+  }
+}

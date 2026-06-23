@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "w160s-2",
+  "canonicalPath": "/geracao/watts/w160s-2/",
+  "titulo": "Geracao w160s-2",
+  "descricao": "2 veiculos da geracao w160s-2.",
+  "seo": {
+    "title": "Geracao w160s-2 - Precos FIPE",
+    "description": "Veiculos da geracao w160s-2 na Tabela FIPE.",
+    "h1": "Geracao w160s-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/watts/w160s-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "watts-w160s-10000w-eletrica-2023-eletrico",
+      "fipeCodigo": "894003-7",
+      "displayName": "WATTS W160S 10000W (Elétrica)",
+      "valorAtual": 17363,
+      "canonicalPath": "/fipe/watts/w160s-10000w-eletrica-2023-894003-7/",
+      "ano": 2023,
+      "marca": "WATTS"
+    },
+    {
+      "vehicleId": "watts-w160s-10000w-eletrica-2024-eletrico",
+      "fipeCodigo": "894003-7",
+      "displayName": "WATTS W160S 10000W (Elétrica)",
+      "valorAtual": 18400,
+      "canonicalPath": "/fipe/watts/w160s-10000w-eletrica-2024-894003-7/",
+      "ano": 2024,
+      "marca": "WATTS"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "w160s-2"
+  }
+}

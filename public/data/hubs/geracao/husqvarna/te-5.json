@@ -1,0 +1,102 @@
+{
+  "tipo": "geracao",
+  "slug": "te-5",
+  "canonicalPath": "/geracao/husqvarna/te-5/",
+  "titulo": "Geracao te-5",
+  "descricao": "9 veiculos da geracao te-5.",
+  "seo": {
+    "title": "Geracao te-5 - Precos FIPE",
+    "description": "Veiculos da geracao te-5 na Tabela FIPE.",
+    "h1": "Geracao te-5",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/husqvarna/te-5/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "husqvarna-te-150-2025-gasolina",
+      "fipeCodigo": "812033-1",
+      "displayName": "HUSQVARNA TE 150",
+      "valorAtual": 62603,
+      "canonicalPath": "/fipe/husqvarna/te-150-2025-812033-1/",
+      "ano": 2025,
+      "marca": "HUSQVARNA"
+    },
+    {
+      "vehicleId": "husqvarna-te-250-heritage-2025-gasolina",
+      "fipeCodigo": "812028-5",
+      "displayName": "HUSQVARNA TE 250 Heritage",
+      "valorAtual": 73805,
+      "canonicalPath": "/fipe/husqvarna/te-250-heritage-2025-812028-5/",
+      "ano": 2025,
+      "marca": "HUSQVARNA"
+    },
+    {
+      "vehicleId": "husqvarna-te-300-2021-gasolina",
+      "fipeCodigo": "812027-7",
+      "displayName": "HUSQVARNA TE 300",
+      "valorAtual": 58713,
+      "canonicalPath": "/fipe/husqvarna/te-300-2021-812027-7/",
+      "ano": 2021,
+      "marca": "HUSQVARNA"
+    },
+    {
+      "vehicleId": "husqvarna-te-300-2022-gasolina",
+      "fipeCodigo": "812027-7",
+      "displayName": "HUSQVARNA TE 300",
+      "valorAtual": 66347,
+      "canonicalPath": "/fipe/husqvarna/te-300-2022-812027-7/",
+      "ano": 2022,
+      "marca": "HUSQVARNA"
+    },
+    {
+      "vehicleId": "husqvarna-te-300-2023-gasolina",
+      "fipeCodigo": "812027-7",
+      "displayName": "HUSQVARNA TE 300",
+      "valorAtual": 71259,
+      "canonicalPath": "/fipe/husqvarna/te-300-2023-812027-7/",
+      "ano": 2023,
+      "marca": "HUSQVARNA"
+    },
+    {
+      "vehicleId": "husqvarna-te-300-2024-gasolina",
+      "fipeCodigo": "812027-7",
+      "displayName": "HUSQVARNA TE 300",
+      "valorAtual": 80112,
+      "canonicalPath": "/fipe/husqvarna/te-300-2024-812027-7/",
+      "ano": 2024,
+      "marca": "HUSQVARNA"
+    },
+    {
+      "vehicleId": "husqvarna-te-300-pro-2025-gasolina",
+      "fipeCodigo": "812029-3",
+      "displayName": "HUSQVARNA TE 300 Pro",
+      "valorAtual": 84746,
+      "canonicalPath": "/fipe/husqvarna/te-300-pro-2025-812029-3/",
+      "ano": 2025,
+      "marca": "HUSQVARNA"
+    },
+    {
+      "vehicleId": "husqvarna-te-300-pro-2026-gasolina",
+      "fipeCodigo": "812029-3",
+      "displayName": "HUSQVARNA TE 300 Pro",
+      "valorAtual": 92560,
+      "canonicalPath": "/fipe/husqvarna/te-300-pro-2026-812029-3/",
+      "ano": 2026,
+      "marca": "HUSQVARNA"
+    },
+    {
+      "vehicleId": "husqvarna-te-300i-edicao-rockstar-2022-gasolina",
+      "fipeCodigo": "812026-9",
+      "displayName": "HUSQVARNA TE 300i Edição Rockstar",
+      "valorAtual": 67994,
+      "canonicalPath": "/fipe/husqvarna/te-300i-edicao-rockstar-2022-812026-9/",
+      "ano": 2022,
+      "marca": "HUSQVARNA"
+    }
+  ],
+  "stats": {
+    "total": 9
+  },
+  "meta": {
+    "geracaoId": "te-5"
+  }
+}

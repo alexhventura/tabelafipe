@@ -1,0 +1,51 @@
+{
+  "tipo": "familia",
+  "slug": "hover",
+  "canonicalPath": "/fipe/great-wall/hover/",
+  "titulo": "GREAT WALL hover - Tabela FIPE",
+  "descricao": "3 versoes e anos do GREAT WALL hover na Tabela FIPE.",
+  "seo": {
+    "title": "GREAT WALL hover - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes GREAT WALL hover. 3 veiculos indexados.",
+    "h1": "GREAT WALL hover - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/great-wall/hover/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "great-wall-hover-cuv-2-4-16v-5p-mec-2008-gasolina",
+      "fipeCodigo": "069001-5",
+      "displayName": "GREAT WALL HOVER CUV 2.4 16V 5p Mec.",
+      "valorAtual": 34203,
+      "canonicalPath": "/fipe/great-wall/hover-cuv-2-4-16v-5p-mec-2008-069001-5/",
+      "ano": 2008,
+      "marca": "GREAT WALL"
+    },
+    {
+      "vehicleId": "great-wall-hover-cuv-2-4-16v-4wd-5p-mec-2008-gasolina",
+      "fipeCodigo": "069002-3",
+      "displayName": "GREAT WALL HOVER CUV 2.4 16V 4WD 5p Mec.",
+      "valorAtual": 34355,
+      "canonicalPath": "/fipe/great-wall/hover-cuv-2-4-16v-4wd-5p-mec-2008-069002-3/",
+      "ano": 2008,
+      "marca": "GREAT WALL"
+    },
+    {
+      "vehicleId": "great-wall-hover-cuv-2-4-16v-4wd-5p-mec-2007-gasolina",
+      "fipeCodigo": "069002-3",
+      "displayName": "GREAT WALL HOVER CUV 2.4 16V 4WD 5p Mec.",
+      "valorAtual": 32540,
+      "canonicalPath": "/fipe/great-wall/hover-cuv-2-4-16v-4wd-5p-mec-2007-069002-3/",
+      "ano": 2007,
+      "marca": "GREAT WALL"
+    }
+  ],
+  "stats": {
+    "total": 3,
+    "precoMin": 32540,
+    "precoMax": 34355,
+    "anos": [
+      2008,
+      2007
+    ]
+  }
+}

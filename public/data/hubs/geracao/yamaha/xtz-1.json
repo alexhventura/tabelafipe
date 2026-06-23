@@ -1,0 +1,57 @@
+{
+  "tipo": "geracao",
+  "slug": "xtz-1",
+  "canonicalPath": "/geracao/yamaha/xtz-1/",
+  "titulo": "Geracao xtz-1",
+  "descricao": "4 veiculos da geracao xtz-1.",
+  "seo": {
+    "title": "Geracao xtz-1 - Precos FIPE",
+    "description": "Veiculos da geracao xtz-1 na Tabela FIPE.",
+    "h1": "Geracao xtz-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/yamaha/xtz-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "yamaha-xtz-150-crosser-s-flex-0-flex",
+      "fipeCodigo": "827108-9",
+      "displayName": "YAMAHA XTZ 150 CROSSER S FLEX",
+      "valorAtual": 24204,
+      "canonicalPath": "/fipe/yamaha/xtz-150-crosser-s-flex-0-827108-9/",
+      "ano": 0,
+      "marca": "YAMAHA"
+    },
+    {
+      "vehicleId": "yamaha-xtz-150-crosser-z-flex-0-flex",
+      "fipeCodigo": "827109-7",
+      "displayName": "YAMAHA XTZ 150 CROSSER Z FLEX",
+      "valorAtual": 24463,
+      "canonicalPath": "/fipe/yamaha/xtz-150-crosser-z-flex-0-827109-7/",
+      "ano": 0,
+      "marca": "YAMAHA"
+    },
+    {
+      "vehicleId": "yamaha-xtz-250-lander-connected-0-gasolina",
+      "fipeCodigo": "827131-3",
+      "displayName": "YAMAHA XTZ 250 LANDER CONNECTED",
+      "valorAtual": 31072,
+      "canonicalPath": "/fipe/yamaha/xtz-250-lander-connected-0-827131-3/",
+      "ano": 0,
+      "marca": "YAMAHA"
+    },
+    {
+      "vehicleId": "yamaha-xtz-700-tenere-0-gasolina",
+      "fipeCodigo": "827143-7",
+      "displayName": "YAMAHA XTZ 700 TÉNÉRÉ",
+      "valorAtual": 76133,
+      "canonicalPath": "/fipe/yamaha/xtz-700-tenere-0-827143-7/",
+      "ano": 0,
+      "marca": "YAMAHA"
+    }
+  ],
+  "stats": {
+    "total": 4
+  },
+  "meta": {
+    "geracaoId": "xtz-1"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "tipo": "geracao",
+  "slug": "ulysses-1",
+  "canonicalPath": "/geracao/buell/ulysses-1/",
+  "titulo": "Geracao ulysses-1",
+  "descricao": "4 veiculos da geracao ulysses-1.",
+  "seo": {
+    "title": "Geracao ulysses-1 - Precos FIPE",
+    "description": "Veiculos da geracao ulysses-1 na Tabela FIPE.",
+    "h1": "Geracao ulysses-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/buell/ulysses-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "buell-ulysses-xb12x-2006-gasolina",
+      "fipeCodigo": "846001-9",
+      "displayName": "BUELL ULYSSES XB12X",
+      "valorAtual": 21970,
+      "canonicalPath": "/fipe/buell/ulysses-xb12x-2006-846001-9/",
+      "ano": 2006,
+      "marca": "BUELL"
+    },
+    {
+      "vehicleId": "buell-ulysses-xb12x-2007-gasolina",
+      "fipeCodigo": "846001-9",
+      "displayName": "BUELL ULYSSES XB12X",
+      "valorAtual": 23516,
+      "canonicalPath": "/fipe/buell/ulysses-xb12x-2007-846001-9/",
+      "ano": 2007,
+      "marca": "BUELL"
+    },
+    {
+      "vehicleId": "buell-ulysses-xb12x-2008-gasolina",
+      "fipeCodigo": "846001-9",
+      "displayName": "BUELL ULYSSES XB12X",
+      "valorAtual": 24104,
+      "canonicalPath": "/fipe/buell/ulysses-xb12x-2008-846001-9/",
+      "ano": 2008,
+      "marca": "BUELL"
+    },
+    {
+      "vehicleId": "buell-ulysses-xb12x-2009-gasolina",
+      "fipeCodigo": "846001-9",
+      "displayName": "BUELL ULYSSES XB12X",
+      "valorAtual": 25230,
+      "canonicalPath": "/fipe/buell/ulysses-xb12x-2009-846001-9/",
+      "ano": 2009,
+      "marca": "BUELL"
+    }
+  ],
+  "stats": {
+    "total": 4
+  },
+  "meta": {
+    "geracaoId": "ulysses-1"
+  }
+}

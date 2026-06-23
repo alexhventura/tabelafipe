@@ -1,0 +1,60 @@
+{
+  "tipo": "familia",
+  "slug": "12cilinrdri",
+  "canonicalPath": "/fipe/ferrari/12cilinrdri/",
+  "titulo": "Ferrari 12cilinrdri - Tabela FIPE",
+  "descricao": "4 versoes e anos do Ferrari 12cilinrdri na Tabela FIPE.",
+  "seo": {
+    "title": "Ferrari 12cilinrdri - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes Ferrari 12cilinrdri. 4 veiculos indexados.",
+    "h1": "Ferrari 12cilinrdri - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/ferrari/12cilinrdri/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "ferrari-12cilinrdri-coupe-6-5-v12-830cv-2025-gasolina",
+      "fipeCodigo": "031058-1",
+      "displayName": "Ferrari 12Cilinrdri Coupe 6.5 V12 830cv",
+      "valorAtual": 6496575,
+      "canonicalPath": "/fipe/ferrari/12cilinrdri-coupe-6-5-v12-830cv-2025-031058-1/",
+      "ano": 2025,
+      "marca": "Ferrari"
+    },
+    {
+      "vehicleId": "ferrari-12cilinrdri-spider-6-5-v12-830cv-2025-gasolina",
+      "fipeCodigo": "031059-0",
+      "displayName": "Ferrari 12Cilinrdri Spider 6.5 V12 830cv",
+      "valorAtual": 7652334,
+      "canonicalPath": "/fipe/ferrari/12cilinrdri-spider-6-5-v12-830cv-2025-031059-0/",
+      "ano": 2025,
+      "marca": "Ferrari"
+    },
+    {
+      "vehicleId": "ferrari-12cilinrdri-coupe-6-5-v12-830cv-0-gasolina",
+      "fipeCodigo": "031058-1",
+      "displayName": "Ferrari 12Cilinrdri Coupe 6.5 V12 830cv",
+      "valorAtual": 7700000,
+      "canonicalPath": "/fipe/ferrari/12cilinrdri-coupe-6-5-v12-830cv-0-031058-1/",
+      "ano": 0,
+      "marca": "Ferrari"
+    },
+    {
+      "vehicleId": "ferrari-12cilinrdri-spider-6-5-v12-830cv-0-gasolina",
+      "fipeCodigo": "031059-0",
+      "displayName": "Ferrari 12Cilinrdri Spider 6.5 V12 830cv",
+      "valorAtual": 8500000,
+      "canonicalPath": "/fipe/ferrari/12cilinrdri-spider-6-5-v12-830cv-0-031059-0/",
+      "ano": 0,
+      "marca": "Ferrari"
+    }
+  ],
+  "stats": {
+    "total": 4,
+    "precoMin": 6496575,
+    "precoMax": 8500000,
+    "anos": [
+      2025,
+      0
+    ]
+  }
+}

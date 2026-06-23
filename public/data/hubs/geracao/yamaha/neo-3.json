@@ -1,0 +1,102 @@
+{
+  "tipo": "geracao",
+  "slug": "neo-3",
+  "canonicalPath": "/geracao/yamaha/neo-3/",
+  "titulo": "Geracao neo-3",
+  "descricao": "9 veiculos da geracao neo-3.",
+  "seo": {
+    "title": "Geracao neo-3 - Precos FIPE",
+    "description": "Veiculos da geracao neo-3 na Tabela FIPE.",
+    "h1": "Geracao neo-3",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/yamaha/neo-3/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "yamaha-neo-automatic-125cc-2017-gasolina",
+      "fipeCodigo": "827106-2",
+      "displayName": "YAMAHA NEO AUTOMATIC 125cc",
+      "valorAtual": 9334,
+      "canonicalPath": "/fipe/yamaha/neo-automatic-125cc-2017-827106-2/",
+      "ano": 2017,
+      "marca": "YAMAHA"
+    },
+    {
+      "vehicleId": "yamaha-neo-automatic-125cc-2018-gasolina",
+      "fipeCodigo": "827106-2",
+      "displayName": "YAMAHA NEO AUTOMATIC 125cc",
+      "valorAtual": 9568,
+      "canonicalPath": "/fipe/yamaha/neo-automatic-125cc-2018-827106-2/",
+      "ano": 2018,
+      "marca": "YAMAHA"
+    },
+    {
+      "vehicleId": "yamaha-neo-automatic-125cc-2019-gasolina",
+      "fipeCodigo": "827106-2",
+      "displayName": "YAMAHA NEO AUTOMATIC 125cc",
+      "valorAtual": 10017,
+      "canonicalPath": "/fipe/yamaha/neo-automatic-125cc-2019-827106-2/",
+      "ano": 2019,
+      "marca": "YAMAHA"
+    },
+    {
+      "vehicleId": "yamaha-neo-automatic-125cc-2020-gasolina",
+      "fipeCodigo": "827106-2",
+      "displayName": "YAMAHA NEO AUTOMATIC 125cc",
+      "valorAtual": 10539,
+      "canonicalPath": "/fipe/yamaha/neo-automatic-125cc-2020-827106-2/",
+      "ano": 2020,
+      "marca": "YAMAHA"
+    },
+    {
+      "vehicleId": "yamaha-neo-automatic-125cc-2021-gasolina",
+      "fipeCodigo": "827106-2",
+      "displayName": "YAMAHA NEO AUTOMATIC 125cc",
+      "valorAtual": 10803,
+      "canonicalPath": "/fipe/yamaha/neo-automatic-125cc-2021-827106-2/",
+      "ano": 2021,
+      "marca": "YAMAHA"
+    },
+    {
+      "vehicleId": "yamaha-neo-automatic-125cc-2022-gasolina",
+      "fipeCodigo": "827106-2",
+      "displayName": "YAMAHA NEO AUTOMATIC 125cc",
+      "valorAtual": 11448,
+      "canonicalPath": "/fipe/yamaha/neo-automatic-125cc-2022-827106-2/",
+      "ano": 2022,
+      "marca": "YAMAHA"
+    },
+    {
+      "vehicleId": "yamaha-neo-automatic-125cc-2023-gasolina",
+      "fipeCodigo": "827106-2",
+      "displayName": "YAMAHA NEO AUTOMATIC 125cc",
+      "valorAtual": 12052,
+      "canonicalPath": "/fipe/yamaha/neo-automatic-125cc-2023-827106-2/",
+      "ano": 2023,
+      "marca": "YAMAHA"
+    },
+    {
+      "vehicleId": "yamaha-neo-automatic-125cc-2024-gasolina",
+      "fipeCodigo": "827106-2",
+      "displayName": "YAMAHA NEO AUTOMATIC 125cc",
+      "valorAtual": 12811,
+      "canonicalPath": "/fipe/yamaha/neo-automatic-125cc-2024-827106-2/",
+      "ano": 2024,
+      "marca": "YAMAHA"
+    },
+    {
+      "vehicleId": "yamaha-neo-automatic-125cc-2025-gasolina",
+      "fipeCodigo": "827106-2",
+      "displayName": "YAMAHA NEO AUTOMATIC 125cc",
+      "valorAtual": 13358,
+      "canonicalPath": "/fipe/yamaha/neo-automatic-125cc-2025-827106-2/",
+      "ano": 2025,
+      "marca": "YAMAHA"
+    }
+  ],
+  "stats": {
+    "total": 9
+  },
+  "meta": {
+    "geracaoId": "neo-3"
+  }
+}

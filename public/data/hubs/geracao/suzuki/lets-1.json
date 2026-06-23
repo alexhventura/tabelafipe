@@ -1,0 +1,48 @@
+{
+  "tipo": "geracao",
+  "slug": "lets-1",
+  "canonicalPath": "/geracao/suzuki/lets-1/",
+  "titulo": "Geracao lets-1",
+  "descricao": "3 veiculos da geracao lets-1.",
+  "seo": {
+    "title": "Geracao lets-1 - Precos FIPE",
+    "description": "Veiculos da geracao lets-1 na Tabela FIPE.",
+    "h1": "Geracao lets-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/suzuki/lets-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "suzuki-lets-ii-50cc-2001-gasolina",
+      "fipeCodigo": "825038-3",
+      "displayName": "SUZUKI Lets II 50cc",
+      "valorAtual": 2020,
+      "canonicalPath": "/fipe/suzuki/lets-ii-50cc-2001-825038-3/",
+      "ano": 2001,
+      "marca": "SUZUKI"
+    },
+    {
+      "vehicleId": "suzuki-lets-ii-50cc-2002-gasolina",
+      "fipeCodigo": "825038-3",
+      "displayName": "SUZUKI Lets II 50cc",
+      "valorAtual": 2217,
+      "canonicalPath": "/fipe/suzuki/lets-ii-50cc-2002-825038-3/",
+      "ano": 2002,
+      "marca": "SUZUKI"
+    },
+    {
+      "vehicleId": "suzuki-lets-ii-50cc-2003-gasolina",
+      "fipeCodigo": "825038-3",
+      "displayName": "SUZUKI Lets II 50cc",
+      "valorAtual": 2313,
+      "canonicalPath": "/fipe/suzuki/lets-ii-50cc-2003-825038-3/",
+      "ano": 2003,
+      "marca": "SUZUKI"
+    }
+  ],
+  "stats": {
+    "total": 3
+  },
+  "meta": {
+    "geracaoId": "lets-1"
+  }
+}

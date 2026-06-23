@@ -1,0 +1,84 @@
+{
+  "tipo": "geracao",
+  "slug": "trans-1",
+  "canonicalPath": "/geracao/pontiac/trans-1/",
+  "titulo": "Geracao trans-1",
+  "descricao": "7 veiculos da geracao trans-1.",
+  "seo": {
+    "title": "Geracao trans-1 - Precos FIPE",
+    "description": "Veiculos da geracao trans-1 na Tabela FIPE.",
+    "h1": "Geracao trans-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/pontiac/trans-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "pontiac-trans-am-5-7-v8-1991-gasolina",
+      "fipeCodigo": "051001-7",
+      "displayName": "Pontiac Trans-AM 5.7 V8",
+      "valorAtual": 46431,
+      "canonicalPath": "/fipe/pontiac/trans-am-5-7-v8-1991-051001-7/",
+      "ano": 1991,
+      "marca": "Pontiac"
+    },
+    {
+      "vehicleId": "pontiac-trans-am-5-7-v8-1992-gasolina",
+      "fipeCodigo": "051001-7",
+      "displayName": "Pontiac Trans-AM 5.7 V8",
+      "valorAtual": 50740,
+      "canonicalPath": "/fipe/pontiac/trans-am-5-7-v8-1992-051001-7/",
+      "ano": 1992,
+      "marca": "Pontiac"
+    },
+    {
+      "vehicleId": "pontiac-trans-am-5-7-v8-1993-gasolina",
+      "fipeCodigo": "051001-7",
+      "displayName": "Pontiac Trans-AM 5.7 V8",
+      "valorAtual": 57332,
+      "canonicalPath": "/fipe/pontiac/trans-am-5-7-v8-1993-051001-7/",
+      "ano": 1993,
+      "marca": "Pontiac"
+    },
+    {
+      "vehicleId": "pontiac-trans-am-5-7-v8-1994-gasolina",
+      "fipeCodigo": "051001-7",
+      "displayName": "Pontiac Trans-AM 5.7 V8",
+      "valorAtual": 68344,
+      "canonicalPath": "/fipe/pontiac/trans-am-5-7-v8-1994-051001-7/",
+      "ano": 1994,
+      "marca": "Pontiac"
+    },
+    {
+      "vehicleId": "pontiac-trans-am-5-7-v8-1995-gasolina",
+      "fipeCodigo": "051001-7",
+      "displayName": "Pontiac Trans-AM 5.7 V8",
+      "valorAtual": 77154,
+      "canonicalPath": "/fipe/pontiac/trans-am-5-7-v8-1995-051001-7/",
+      "ano": 1995,
+      "marca": "Pontiac"
+    },
+    {
+      "vehicleId": "pontiac-trans-sport-se-3-1-1991-gasolina",
+      "fipeCodigo": "051002-5",
+      "displayName": "Pontiac Trans-Sport SE 3.1",
+      "valorAtual": 18359,
+      "canonicalPath": "/fipe/pontiac/trans-sport-se-3-1-1991-051002-5/",
+      "ano": 1991,
+      "marca": "Pontiac"
+    },
+    {
+      "vehicleId": "pontiac-trans-sport-se-3-1-1992-gasolina",
+      "fipeCodigo": "051002-5",
+      "displayName": "Pontiac Trans-Sport SE 3.1",
+      "valorAtual": 21326,
+      "canonicalPath": "/fipe/pontiac/trans-sport-se-3-1-1992-051002-5/",
+      "ano": 1992,
+      "marca": "Pontiac"
+    }
+  ],
+  "stats": {
+    "total": 7
+  },
+  "meta": {
+    "geracaoId": "trans-1"
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "tipo": "geracao",
+  "slug": "318is-1",
+  "canonicalPath": "/geracao/bmw/318is-1/",
+  "titulo": "Geracao 318is-1",
+  "descricao": "6 veiculos da geracao 318is-1.",
+  "seo": {
+    "title": "Geracao 318is-1 - Precos FIPE",
+    "description": "Veiculos da geracao 318is-1 na Tabela FIPE.",
+    "h1": "Geracao 318is-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/bmw/318is-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "bmw-318is-isa-1-9-16v-1993-gasolina",
+      "fipeCodigo": "009002-6",
+      "displayName": "BMW 318iS/ISA 1.9 16V",
+      "valorAtual": 19324,
+      "canonicalPath": "/fipe/bmw/318is-isa-1-9-16v-1993-009002-6/",
+      "ano": 1993,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-318is-isa-1-9-16v-1994-gasolina",
+      "fipeCodigo": "009002-6",
+      "displayName": "BMW 318iS/ISA 1.9 16V",
+      "valorAtual": 19808,
+      "canonicalPath": "/fipe/bmw/318is-isa-1-9-16v-1994-009002-6/",
+      "ano": 1994,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-318is-isa-1-9-16v-1995-gasolina",
+      "fipeCodigo": "009002-6",
+      "displayName": "BMW 318iS/ISA 1.9 16V",
+      "valorAtual": 20304,
+      "canonicalPath": "/fipe/bmw/318is-isa-1-9-16v-1995-009002-6/",
+      "ano": 1995,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-318is-isa-1-9-16v-1996-gasolina",
+      "fipeCodigo": "009002-6",
+      "displayName": "BMW 318iS/ISA 1.9 16V",
+      "valorAtual": 20812,
+      "canonicalPath": "/fipe/bmw/318is-isa-1-9-16v-1996-009002-6/",
+      "ano": 1996,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-318is-isa-1-9-16v-1997-gasolina",
+      "fipeCodigo": "009002-6",
+      "displayName": "BMW 318iS/ISA 1.9 16V",
+      "valorAtual": 27848,
+      "canonicalPath": "/fipe/bmw/318is-isa-1-9-16v-1997-009002-6/",
+      "ano": 1997,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-318is-isa-1-9-16v-1998-gasolina",
+      "fipeCodigo": "009002-6",
+      "displayName": "BMW 318iS/ISA 1.9 16V",
+      "valorAtual": 30814,
+      "canonicalPath": "/fipe/bmw/318is-isa-1-9-16v-1998-009002-6/",
+      "ano": 1998,
+      "marca": "BMW"
+    }
+  ],
+  "stats": {
+    "total": 6
+  },
+  "meta": {
+    "geracaoId": "318is-1"
+  }
+}

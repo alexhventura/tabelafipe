@@ -1,0 +1,84 @@
+{
+  "tipo": "geracao",
+  "slug": "lumina-1",
+  "canonicalPath": "/geracao/chevrolet/lumina-1/",
+  "titulo": "Geracao lumina-1",
+  "descricao": "7 veiculos da geracao lumina-1.",
+  "seo": {
+    "title": "Geracao lumina-1 - Precos FIPE",
+    "description": "Veiculos da geracao lumina-1 na Tabela FIPE.",
+    "h1": "Geracao lumina-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/chevrolet/lumina-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "chevrolet-lumina-1990-gasolina",
+      "fipeCodigo": "004075-4",
+      "displayName": "GM - Chevrolet Lumina",
+      "valorAtual": 9398,
+      "canonicalPath": "/fipe/chevrolet/lumina-1990-004075-4/",
+      "ano": 1990,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-lumina-1991-gasolina",
+      "fipeCodigo": "004075-4",
+      "displayName": "GM - Chevrolet Lumina",
+      "valorAtual": 10712,
+      "canonicalPath": "/fipe/chevrolet/lumina-1991-004075-4/",
+      "ano": 1991,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-lumina-1992-gasolina",
+      "fipeCodigo": "004075-4",
+      "displayName": "GM - Chevrolet Lumina",
+      "valorAtual": 11590,
+      "canonicalPath": "/fipe/chevrolet/lumina-1992-004075-4/",
+      "ano": 1992,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-lumina-1993-gasolina",
+      "fipeCodigo": "004075-4",
+      "displayName": "GM - Chevrolet Lumina",
+      "valorAtual": 12696,
+      "canonicalPath": "/fipe/chevrolet/lumina-1993-004075-4/",
+      "ano": 1993,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-lumina-1994-gasolina",
+      "fipeCodigo": "004075-4",
+      "displayName": "GM - Chevrolet Lumina",
+      "valorAtual": 13356,
+      "canonicalPath": "/fipe/chevrolet/lumina-1994-004075-4/",
+      "ano": 1994,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-lumina-1995-gasolina",
+      "fipeCodigo": "004075-4",
+      "displayName": "GM - Chevrolet Lumina",
+      "valorAtual": 17214,
+      "canonicalPath": "/fipe/chevrolet/lumina-1995-004075-4/",
+      "ano": 1995,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-lumina-1996-gasolina",
+      "fipeCodigo": "004075-4",
+      "displayName": "GM - Chevrolet Lumina",
+      "valorAtual": 17857,
+      "canonicalPath": "/fipe/chevrolet/lumina-1996-004075-4/",
+      "ano": 1996,
+      "marca": "GM - Chevrolet"
+    }
+  ],
+  "stats": {
+    "total": 7
+  },
+  "meta": {
+    "geracaoId": "lumina-1"
+  }
+}

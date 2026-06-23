@@ -1,0 +1,79 @@
+{
+  "tipo": "familia",
+  "slug": "323ti",
+  "canonicalPath": "/fipe/bmw/323ti/",
+  "titulo": "BMW 323ti - Tabela FIPE",
+  "descricao": "6 versoes e anos do BMW 323ti na Tabela FIPE.",
+  "seo": {
+    "title": "BMW 323ti - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes BMW 323ti. 6 veiculos indexados.",
+    "h1": "BMW 323ti - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/bmw/323ti/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "bmw-323ti-compact-2000-gasolina",
+      "fipeCodigo": "009031-0",
+      "displayName": "BMW 323Ti Compact",
+      "valorAtual": 28544,
+      "canonicalPath": "/fipe/bmw/323ti-compact-2000-009031-0/",
+      "ano": 2000,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-323ti-compact-sport-2000-gasolina",
+      "fipeCodigo": "009032-8",
+      "displayName": "BMW 323Ti Compact Sport",
+      "valorAtual": 56228,
+      "canonicalPath": "/fipe/bmw/323ti-compact-sport-2000-009032-8/",
+      "ano": 2000,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-323ti-compact-1999-gasolina",
+      "fipeCodigo": "009031-0",
+      "displayName": "BMW 323Ti Compact",
+      "valorAtual": 27847,
+      "canonicalPath": "/fipe/bmw/323ti-compact-1999-009031-0/",
+      "ano": 1999,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-323ti-compact-sport-1999-gasolina",
+      "fipeCodigo": "009032-8",
+      "displayName": "BMW 323Ti Compact Sport",
+      "valorAtual": 54856,
+      "canonicalPath": "/fipe/bmw/323ti-compact-sport-1999-009032-8/",
+      "ano": 1999,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-323ti-compact-1998-gasolina",
+      "fipeCodigo": "009031-0",
+      "displayName": "BMW 323Ti Compact",
+      "valorAtual": 27167,
+      "canonicalPath": "/fipe/bmw/323ti-compact-1998-009031-0/",
+      "ano": 1998,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-323ti-compact-sport-1998-gasolina",
+      "fipeCodigo": "009032-8",
+      "displayName": "BMW 323Ti Compact Sport",
+      "valorAtual": 49519,
+      "canonicalPath": "/fipe/bmw/323ti-compact-sport-1998-009032-8/",
+      "ano": 1998,
+      "marca": "BMW"
+    }
+  ],
+  "stats": {
+    "total": 6,
+    "precoMin": 27167,
+    "precoMax": 56228,
+    "anos": [
+      2000,
+      1999,
+      1998
+    ]
+  }
+}

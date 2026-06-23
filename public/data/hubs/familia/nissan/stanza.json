@@ -1,0 +1,42 @@
+{
+  "tipo": "familia",
+  "slug": "stanza",
+  "canonicalPath": "/fipe/nissan/stanza/",
+  "titulo": "Nissan stanza - Tabela FIPE",
+  "descricao": "2 versoes e anos do Nissan stanza na Tabela FIPE.",
+  "seo": {
+    "title": "Nissan stanza - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes Nissan stanza. 2 veiculos indexados.",
+    "h1": "Nissan stanza - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/nissan/stanza/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "nissan-stanza-xe-2-4-12v-1993-gasolina",
+      "fipeCodigo": "023031-6",
+      "displayName": "Nissan Stanza XE 2.4 12V",
+      "valorAtual": 6652,
+      "canonicalPath": "/fipe/nissan/stanza-xe-2-4-12v-1993-023031-6/",
+      "ano": 1993,
+      "marca": "Nissan"
+    },
+    {
+      "vehicleId": "nissan-stanza-xe-2-4-12v-1992-gasolina",
+      "fipeCodigo": "023031-6",
+      "displayName": "Nissan Stanza XE 2.4 12V",
+      "valorAtual": 6096,
+      "canonicalPath": "/fipe/nissan/stanza-xe-2-4-12v-1992-023031-6/",
+      "ano": 1992,
+      "marca": "Nissan"
+    }
+  ],
+  "stats": {
+    "total": 2,
+    "precoMin": 6096,
+    "precoMax": 6652,
+    "anos": [
+      1993,
+      1992
+    ]
+  }
+}

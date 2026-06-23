@@ -1,0 +1,728 @@
+{
+  "geradoEm": "2026-06-21T05:31:09.087Z",
+  "missao": "Transformar cada pagina de veiculo em uma enciclopedia confiavel: specs permanentes, risco periodico e mercado mensal — sempre com fonte explicita e zero dados inventados.",
+  "camadasDados": [
+    {
+      "id": "permanente",
+      "label": "Permanente",
+      "cadencia": "captura unica, versionada",
+      "descricao": "Specs tecnicas estaveis. Imutaveis por ano-modelo."
+    },
+    {
+      "id": "semi_dinamico",
+      "label": "Semi-dinamico",
+      "cadencia": "trimestral / semestral",
+      "descricao": "Roubo, seguro, recalls."
+    },
+    {
+      "id": "dinamico",
+      "label": "Dinamico",
+      "cadencia": "mensal",
+      "descricao": "FIPE, historico, tendencias, liquidez."
+    }
+  ],
+  "storagePaths": {
+    "permanente": "data/static/specs",
+    "semiDinamico": "data/periodic",
+    "dinamico": "data/monthly",
+    "relatorios": "data/reports"
+  },
+  "dadosPorCampo": [
+    {
+      "id": "potencia",
+      "label": "Potencia",
+      "tier": "permanente",
+      "fontes": [
+        "FABRICANTE"
+      ],
+      "confiabilidade": "alta",
+      "descricao": "Potencia maxima (cv).",
+      "metaCoberturaPct": 60,
+      "coberturaAtual": {
+        "taxaPct": 0,
+        "preenchidos": 0,
+        "total": 50395,
+        "origemMedida": "FABRICANTE",
+        "gapPct": 60
+      }
+    },
+    {
+      "id": "torque",
+      "label": "Torque",
+      "tier": "permanente",
+      "fontes": [
+        "FABRICANTE"
+      ],
+      "confiabilidade": "alta",
+      "descricao": "Torque maximo (Nm).",
+      "metaCoberturaPct": 50,
+      "coberturaAtual": {
+        "taxaPct": 0,
+        "preenchidos": 0,
+        "total": 50395,
+        "origemMedida": "FABRICANTE",
+        "gapPct": 50
+      }
+    },
+    {
+      "id": "cilindrada",
+      "label": "Cilindrada",
+      "tier": "permanente",
+      "fontes": [
+        "FABRICANTE"
+      ],
+      "confiabilidade": "alta",
+      "descricao": "Cilindrada (cc).",
+      "metaCoberturaPct": 60,
+      "coberturaAtual": {
+        "taxaPct": 85.81,
+        "preenchidos": 43245,
+        "total": 50395,
+        "origemMedida": "STATIC/FIPE+INMETRO",
+        "gapPct": 0
+      }
+    },
+    {
+      "id": "consumo",
+      "label": "Consumo",
+      "tier": "permanente",
+      "fontes": [
+        "INMETRO/PBEV"
+      ],
+      "confiabilidade": "alta",
+      "descricao": "Consumo homologado INMETRO.",
+      "metaCoberturaPct": 40,
+      "coberturaAtual": {
+        "taxaPct": 41.59,
+        "preenchidos": 20957,
+        "total": 50395,
+        "origemMedida": "INMETRO/PBEV",
+        "gapPct": 0
+      }
+    },
+    {
+      "id": "classificacao_energetica",
+      "label": "Classificacao energetica",
+      "tier": "permanente",
+      "fontes": [
+        "INMETRO/PBEV"
+      ],
+      "confiabilidade": "alta",
+      "descricao": "Selo PBE (A-G).",
+      "metaCoberturaPct": 40,
+      "coberturaAtual": {
+        "taxaPct": 0,
+        "preenchidos": 0,
+        "total": 50395,
+        "origemMedida": "INMETRO/PBEV",
+        "gapPct": 40
+      }
+    },
+    {
+      "id": "cambio",
+      "label": "Cambio",
+      "tier": "permanente",
+      "fontes": [
+        "FABRICANTE"
+      ],
+      "confiabilidade": "alta",
+      "descricao": "Transmissao.",
+      "metaCoberturaPct": 50,
+      "coberturaAtual": {
+        "taxaPct": 23.52,
+        "preenchidos": 11854,
+        "total": 50395,
+        "origemMedida": "STATIC/FIPE+FABRICANTE",
+        "gapPct": 26.48
+      }
+    },
+    {
+      "id": "peso",
+      "label": "Peso",
+      "tier": "permanente",
+      "fontes": [
+        "FABRICANTE"
+      ],
+      "confiabilidade": "media",
+      "descricao": "Peso (kg).",
+      "metaCoberturaPct": 40,
+      "coberturaAtual": {
+        "taxaPct": 0,
+        "preenchidos": 0,
+        "total": 50395,
+        "origemMedida": "FABRICANTE",
+        "gapPct": 40
+      }
+    },
+    {
+      "id": "dimensoes",
+      "label": "Dimensoes",
+      "tier": "permanente",
+      "fontes": [
+        "FABRICANTE"
+      ],
+      "confiabilidade": "media",
+      "descricao": "C/L/A (mm).",
+      "metaCoberturaPct": 35,
+      "coberturaAtual": {
+        "taxaPct": 0,
+        "preenchidos": 0,
+        "total": 50395,
+        "origemMedida": "FABRICANTE",
+        "gapPct": 35
+      }
+    },
+    {
+      "id": "porta_malas",
+      "label": "Porta-malas",
+      "tier": "permanente",
+      "fontes": [
+        "FABRICANTE"
+      ],
+      "confiabilidade": "media",
+      "descricao": "Volume (L).",
+      "metaCoberturaPct": 35,
+      "coberturaAtual": {
+        "taxaPct": 0,
+        "preenchidos": 0,
+        "total": 50395,
+        "origemMedida": "FABRICANTE",
+        "gapPct": 35
+      }
+    },
+    {
+      "id": "tanque",
+      "label": "Tanque",
+      "tier": "permanente",
+      "fontes": [
+        "FABRICANTE"
+      ],
+      "confiabilidade": "media",
+      "descricao": "Capacidade (L).",
+      "metaCoberturaPct": 35,
+      "coberturaAtual": {
+        "taxaPct": 0,
+        "preenchidos": 0,
+        "total": 50395,
+        "origemMedida": "FABRICANTE",
+        "gapPct": 35
+      }
+    },
+    {
+      "id": "fotos",
+      "label": "Fotos",
+      "tier": "permanente",
+      "fontes": [
+        "FABRICANTE"
+      ],
+      "confiabilidade": "media",
+      "descricao": "Imagem representativa.",
+      "metaCoberturaPct": 20,
+      "coberturaAtual": {
+        "taxaPct": 0,
+        "preenchidos": 0,
+        "total": 50395,
+        "origemMedida": "FABRICANTE",
+        "gapPct": 20
+      }
+    },
+    {
+      "id": "roubo",
+      "label": "Roubo/furto",
+      "tier": "semi_dinamico",
+      "fontes": [
+        "CNseg"
+      ],
+      "confiabilidade": "media",
+      "descricao": "Muito visado | Visado | Medio | Pouco visado",
+      "metaCoberturaPct": 30,
+      "coberturaAtual": {
+        "taxaPct": 0,
+        "preenchidos": 0,
+        "total": 50395,
+        "origemMedida": "CNseg",
+        "gapPct": 30
+      }
+    },
+    {
+      "id": "seguro",
+      "label": "Faixa seguro",
+      "tier": "semi_dinamico",
+      "fontes": [
+        "CNseg"
+      ],
+      "confiabilidade": "media",
+      "descricao": "Baixa | Media | Alta | Muito alta",
+      "metaCoberturaPct": 25,
+      "coberturaAtual": {
+        "taxaPct": 0,
+        "preenchidos": 0,
+        "total": 50395,
+        "origemMedida": "CNseg",
+        "gapPct": 25
+      }
+    },
+    {
+      "id": "recalls",
+      "label": "Recalls",
+      "tier": "semi_dinamico",
+      "fontes": [
+        "DENATRAN"
+      ],
+      "confiabilidade": "alta",
+      "descricao": "Campanhas recall.",
+      "metaCoberturaPct": 40,
+      "coberturaAtual": {
+        "taxaPct": 0,
+        "preenchidos": 0,
+        "total": 50395,
+        "origemMedida": "DENATRAN",
+        "gapPct": 40
+      }
+    },
+    {
+      "id": "manutencao",
+      "label": "Manutencao",
+      "tier": "semi_dinamico",
+      "fontes": [
+        "DERIVED"
+      ],
+      "confiabilidade": "baixa",
+      "descricao": "Custo estimado.",
+      "metaCoberturaPct": 20,
+      "coberturaAtual": {
+        "taxaPct": 0,
+        "preenchidos": 0,
+        "total": 50395,
+        "origemMedida": "DERIVED",
+        "gapPct": 20
+      }
+    },
+    {
+      "id": "valor_fipe",
+      "label": "Valor FIPE",
+      "tier": "dinamico",
+      "fontes": [
+        "FIPE"
+      ],
+      "confiabilidade": "alta",
+      "descricao": "Preco mes corrente.",
+      "metaCoberturaPct": 100,
+      "coberturaAtual": {
+        "taxaPct": 100,
+        "preenchidos": 50395,
+        "total": 50395,
+        "origemMedida": "FIPE",
+        "gapPct": 0
+      }
+    },
+    {
+      "id": "historico",
+      "label": "Historico",
+      "tier": "dinamico",
+      "fontes": [
+        "fipeX"
+      ],
+      "confiabilidade": "alta",
+      "descricao": "Serie mensal.",
+      "metaCoberturaPct": 100,
+      "coberturaAtual": {
+        "taxaPct": 100,
+        "preenchidos": 50395,
+        "total": 50395,
+        "origemMedida": "FIPE/fipeX",
+        "gapPct": 0
+      }
+    },
+    {
+      "id": "tendencia",
+      "label": "Tendencia",
+      "tier": "dinamico",
+      "fontes": [
+        "DERIVED"
+      ],
+      "confiabilidade": "media",
+      "descricao": "Variacao 12m.",
+      "metaCoberturaPct": 80,
+      "coberturaAtual": {
+        "taxaPct": 100,
+        "preenchidos": 50395,
+        "total": 50395,
+        "origemMedida": "DERIVED",
+        "gapPct": 0
+      }
+    },
+    {
+      "id": "desvalorizacao",
+      "label": "Desvalorizacao",
+      "tier": "dinamico",
+      "fontes": [
+        "DERIVED"
+      ],
+      "confiabilidade": "media",
+      "descricao": "Depreciacao anual.",
+      "metaCoberturaPct": 80,
+      "coberturaAtual": {
+        "taxaPct": 100,
+        "preenchidos": 50395,
+        "total": 50395,
+        "origemMedida": "DERIVED",
+        "gapPct": 0
+      }
+    },
+    {
+      "id": "liquidez",
+      "label": "Liquidez",
+      "tier": "dinamico",
+      "fontes": [
+        "DERIVED"
+      ],
+      "confiabilidade": "baixa",
+      "descricao": "Revenda.",
+      "metaCoberturaPct": 30,
+      "coberturaAtual": {
+        "taxaPct": 0,
+        "preenchidos": 0,
+        "total": 50395,
+        "origemMedida": "DERIVED",
+        "gapPct": 30
+      }
+    },
+    {
+      "id": "posicao_mercado",
+      "label": "Posicao segmento",
+      "tier": "dinamico",
+      "fontes": [
+        "DERIVED"
+      ],
+      "confiabilidade": "media",
+      "descricao": "Percentil preco.",
+      "metaCoberturaPct": 70,
+      "coberturaAtual": {
+        "taxaPct": 100,
+        "preenchidos": 50395,
+        "total": 50395,
+        "origemMedida": "DERIVED",
+        "gapPct": 0
+      }
+    }
+  ],
+  "fontesPrioritarias": [
+    {
+      "id": "inmetro-pbev",
+      "nome": "INMETRO PBEV",
+      "prioridade": 1,
+      "campos": [
+        "consumo",
+        "classificacao_energetica"
+      ],
+      "coberturaAtualPct": 41.59,
+      "acao": "Expandir edicoes PBEV e melhorar matching marca/modelo (ex.: VOLKSWAGEN)."
+    },
+    {
+      "id": "fabricantes",
+      "nome": "Fichas tecnicas de fabricantes",
+      "prioridade": 2,
+      "campos": [
+        "potencia",
+        "torque",
+        "cilindrada",
+        "cambio",
+        "peso",
+        "dimensoes"
+      ],
+      "coberturaAtualPct": 0,
+      "acao": "Importar JSONs por marca a partir de catalogo em data/sources/manufacturers-catalog.json."
+    },
+    {
+      "id": "fipe-historico",
+      "nome": "FIPE + fipeX historico",
+      "prioridade": 3,
+      "campos": [
+        "valor_fipe",
+        "historico",
+        "tendencia",
+        "desvalorizacao"
+      ],
+      "coberturaAtualPct": 100,
+      "acao": "Manter pipeline mensal catalog:monthly."
+    },
+    {
+      "id": "recalls-senatran",
+      "nome": "Recalls SENATRAN / fabricantes",
+      "prioridade": 4,
+      "campos": [
+        "recalls"
+      ],
+      "coberturaAtualPct": 0,
+      "acao": "Investigar API ou dump de campanhas de recall."
+    },
+    {
+      "id": "marketplace",
+      "nome": "Marketplace / anuncios",
+      "prioridade": 5,
+      "campos": [
+        "liquidez"
+      ],
+      "coberturaAtualPct": 0,
+      "acao": "Agregar listings-summary em data/raw/marketplace_data/."
+    }
+  ],
+  "paginaVeiculo": {
+    "secoes": [
+      {
+        "id": "resumo",
+        "titulo": "Valor de Mercado",
+        "campos": [
+          "valor_fipe",
+          "historico",
+          "tendencia",
+          "desvalorizacao"
+        ],
+        "ordem": 1,
+        "tier": "dinamico"
+      },
+      {
+        "id": "specs_motor",
+        "titulo": "Ficha Tecnica — Motor",
+        "campos": [
+          "potencia",
+          "torque",
+          "cilindrada",
+          "cambio"
+        ],
+        "ordem": 2,
+        "tier": "permanente"
+      },
+      {
+        "id": "specs_consumo",
+        "titulo": "Consumo e Eficiencia",
+        "campos": [
+          "consumo",
+          "classificacao_energetica"
+        ],
+        "ordem": 3,
+        "tier": "permanente"
+      },
+      {
+        "id": "specs_dimensoes",
+        "titulo": "Dimensoes",
+        "campos": [
+          "peso",
+          "dimensoes",
+          "porta_malas",
+          "tanque"
+        ],
+        "ordem": 4,
+        "tier": "permanente"
+      },
+      {
+        "id": "indicadores",
+        "titulo": "Indicadores",
+        "campos": [
+          "manutencao",
+          "seguro",
+          "roubo",
+          "liquidez"
+        ],
+        "ordem": 5,
+        "tier": "semi_dinamico"
+      },
+      {
+        "id": "comparativos",
+        "titulo": "Comparativos",
+        "campos": [
+          "posicao_mercado"
+        ],
+        "ordem": 6,
+        "tier": "dinamico"
+      },
+      {
+        "id": "evolucao",
+        "titulo": "Evolucao",
+        "campos": [
+          "historico"
+        ],
+        "ordem": 7,
+        "tier": "dinamico"
+      }
+    ],
+    "principiosUX": [
+      "Resposta imediata (<3s): foto + FIPE + consumo + potencia no hero.",
+      "Escaneavel: blocos curtos, secoes colapsaveis, mobile-first.",
+      "Busca tolerante: civic, civc, sentra 2017 — fuzzy match.",
+      "Fonte visivel em cada dado (FIPE, INMETRO, fabricante).",
+      "Ocultar blocos vazios — simplicidade FIPE.",
+      "Zero dados inventados."
+    ]
+  },
+  "roadmapImplementacao": [
+    {
+      "fase": 1,
+      "titulo": "Fundacao e camadas de storage",
+      "prazo": "Sprint 1",
+      "entregas": [
+        "Manifestos data/static, data/periodic, data/monthly",
+        "Schema static-vehicle-specs.schema.json",
+        "Pipeline datasets:roadmap + relatorio de cobertura",
+        "Fix matching INMETRO (marcas) e consumo etanol"
+      ],
+      "camposAlvo": [
+        "consumo",
+        "classificacao_energetica",
+        "valor_fipe",
+        "historico"
+      ]
+    },
+    {
+      "fase": 2,
+      "titulo": "Specs permanentes via fabricantes",
+      "prazo": "Sprint 2-3",
+      "entregas": [
+        "Import VW, Fiat, GM, Toyota, Honda specs",
+        "Publicar JSON estatico por vehicle_id em data/static/specs/",
+        "Secoes specs_motor e specs_dimensoes na pagina"
+      ],
+      "camposAlvo": [
+        "potencia",
+        "torque",
+        "cilindrada",
+        "cambio",
+        "peso",
+        "dimensoes"
+      ]
+    },
+    {
+      "fase": 3,
+      "titulo": "Metricas derivadas e UX mercado",
+      "prazo": "Sprint 4",
+      "entregas": [
+        "Tendencia, desvalorizacao, posicao_mercado visiveis",
+        "Graficos Recharts responsivos",
+        "Badges de fonte/confiabilidade"
+      ],
+      "camposAlvo": [
+        "tendencia",
+        "desvalorizacao",
+        "posicao_mercado",
+        "liquidez"
+      ]
+    },
+    {
+      "fase": 4,
+      "titulo": "Camada semi-dinamica (risco)",
+      "prazo": "Sprint 5+",
+      "entregas": [
+        "Recalls e indice roubo por modelo",
+        "Estimativa seguro e manutencao",
+        "Atualizacao trimestral data/periodic/"
+      ],
+      "camposAlvo": [
+        "roubo",
+        "seguro",
+        "recalls",
+        "manutencao"
+      ]
+    }
+  ],
+  "metricasSucesso": [
+    {
+      "id": "cobertura_inmetro",
+      "meta": 40,
+      "atual": 41.59,
+      "unidade": "% veiculos"
+    },
+    {
+      "id": "cobertura_fabricante",
+      "meta": 30,
+      "atual": 0,
+      "unidade": "% veiculos"
+    },
+    {
+      "id": "cobertura_historico",
+      "meta": 100,
+      "atual": 100,
+      "unidade": "% veiculos"
+    },
+    {
+      "id": "campos_permanentes_meta",
+      "meta": 50,
+      "atual": 27,
+      "unidade": "% campos com >10%"
+    },
+    {
+      "id": "camada_periodic_lancada",
+      "meta": 1,
+      "atual": 0,
+      "unidade": "boolean (0/1)"
+    }
+  ],
+  "coberturaAtualMedida": {
+    "camposComDado": 8,
+    "camposTotal": 21,
+    "mediaTaxaPct": 81.37,
+    "catalogoFipe": {
+      "total": 50395,
+      "pct": 100
+    },
+    "coberturaEnriquecimento": {
+      "fipe": {
+        "veiculos": 50395,
+        "pct": 100
+      },
+      "historico": {
+        "veiculos": 50395,
+        "pct": 100
+      },
+      "inmetro": {
+        "veiculos": 20957,
+        "pct": 41.59,
+        "registrosFonte": 5631
+      },
+      "fabricantes": {
+        "veiculos": 0,
+        "pct": 0,
+        "registrosFonte": 0
+      },
+      "combinada": {
+        "veiculos": 20957,
+        "pct": 41.59,
+        "descricao": "INMETRO e/ou fabricante (campos novos alem de FIPE/historico)"
+      },
+      "staticSpecs": {
+        "veiculos": 50395,
+        "pct": 100,
+        "registrosFonte": 50395
+      },
+      "cilindrada": {
+        "veiculos": 43245,
+        "pct": 85.81
+      },
+      "cambio": {
+        "veiculos": 11854,
+        "pct": 23.52
+      }
+    },
+    "estimativaEnriquecimentoReal": {
+      "somenteHistorico": 100,
+      "novosCamposInmetro": 41.59,
+      "novosCamposFabricante": 0,
+      "novosCamposCombinados": 41.59,
+      "staticSpecsCatalogo": 100,
+      "cilindradaInferida": 85.81,
+      "cambioInferido": 23.52,
+      "carrosComInmetro": 41.4,
+      "observacao": "PBEV cobre veiculos leves novos (~760-1600 versoes/ano). FIPE inclui motos, caminhoes e veiculos antigos sem PBEV."
+    },
+    "enrichmentSummaryPresente": true
+  },
+  "relatoriosLidos": {
+    "coverageEnrichmentReport": true,
+    "fieldQualityReport": true,
+    "enrichmentSummary": true
+  },
+  "resumoEnrichment": {
+    "geradoEm": "2026-06-21T04:54:26.415Z",
+    "objetivo": "Medir enriquecimento real do catalogo FIPE (50.395 veiculos) antes de integracao visual"
+  }
+}

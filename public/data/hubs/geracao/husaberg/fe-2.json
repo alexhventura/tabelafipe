@@ -1,0 +1,111 @@
+{
+  "tipo": "geracao",
+  "slug": "fe-2",
+  "canonicalPath": "/geracao/husaberg/fe-2/",
+  "titulo": "Geracao fe-2",
+  "descricao": "10 veiculos da geracao fe-2.",
+  "seo": {
+    "title": "Geracao fe-2 - Precos FIPE",
+    "description": "Veiculos da geracao fe-2 na Tabela FIPE.",
+    "h1": "Geracao fe-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/husaberg/fe-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "husaberg-fe-550-e-2006-gasolina",
+      "fipeCodigo": "835003-5",
+      "displayName": "HUSABERG FE 550 E",
+      "valorAtual": 15508,
+      "canonicalPath": "/fipe/husaberg/fe-550-e-2006-835003-5/",
+      "ano": 2006,
+      "marca": "HUSABERG"
+    },
+    {
+      "vehicleId": "husaberg-fe-550-e-2007-gasolina",
+      "fipeCodigo": "835003-5",
+      "displayName": "HUSABERG FE 550 E",
+      "valorAtual": 17444,
+      "canonicalPath": "/fipe/husaberg/fe-550-e-2007-835003-5/",
+      "ano": 2007,
+      "marca": "HUSABERG"
+    },
+    {
+      "vehicleId": "husaberg-fe-550-e-2008-gasolina",
+      "fipeCodigo": "835003-5",
+      "displayName": "HUSABERG FE 550 E",
+      "valorAtual": 21816,
+      "canonicalPath": "/fipe/husaberg/fe-550-e-2008-835003-5/",
+      "ano": 2008,
+      "marca": "HUSABERG"
+    },
+    {
+      "vehicleId": "husqvarna-fe-350-2025-gasolina",
+      "fipeCodigo": "812030-7",
+      "displayName": "HUSQVARNA FE 350",
+      "valorAtual": 79943,
+      "canonicalPath": "/fipe/husqvarna/fe-350-2025-812030-7/",
+      "ano": 2025,
+      "marca": "HUSQVARNA"
+    },
+    {
+      "vehicleId": "husqvarna-fe-350-2026-gasolina",
+      "fipeCodigo": "812030-7",
+      "displayName": "HUSQVARNA FE 350",
+      "valorAtual": 84290,
+      "canonicalPath": "/fipe/husqvarna/fe-350-2026-812030-7/",
+      "ano": 2026,
+      "marca": "HUSQVARNA"
+    },
+    {
+      "vehicleId": "husqvarna-fe-350-heritage-2025-gasolina",
+      "fipeCodigo": "812031-5",
+      "displayName": "HUSQVARNA FE 350 Heritage",
+      "valorAtual": 77082,
+      "canonicalPath": "/fipe/husqvarna/fe-350-heritage-2025-812031-5/",
+      "ano": 2025,
+      "marca": "HUSQVARNA"
+    },
+    {
+      "vehicleId": "husqvarna-fe-450-2024-gasolina",
+      "fipeCodigo": "812037-4",
+      "displayName": "HUSQVARNA FE 450",
+      "valorAtual": 71800,
+      "canonicalPath": "/fipe/husqvarna/fe-450-2024-812037-4/",
+      "ano": 2024,
+      "marca": "HUSQVARNA"
+    },
+    {
+      "vehicleId": "husqvarna-fe-450-2025-gasolina",
+      "fipeCodigo": "812037-4",
+      "displayName": "HUSQVARNA FE 450",
+      "valorAtual": 78028,
+      "canonicalPath": "/fipe/husqvarna/fe-450-2025-812037-4/",
+      "ano": 2025,
+      "marca": "HUSQVARNA"
+    },
+    {
+      "vehicleId": "husqvarna-fe-450-2026-gasolina",
+      "fipeCodigo": "812037-4",
+      "displayName": "HUSQVARNA FE 450",
+      "valorAtual": 82799,
+      "canonicalPath": "/fipe/husqvarna/fe-450-2026-812037-4/",
+      "ano": 2026,
+      "marca": "HUSQVARNA"
+    },
+    {
+      "vehicleId": "husqvarna-fe-501-heritage-2025-gasolina",
+      "fipeCodigo": "812038-2",
+      "displayName": "HUSQVARNA FE 501 Heritage",
+      "valorAtual": 79778,
+      "canonicalPath": "/fipe/husqvarna/fe-501-heritage-2025-812038-2/",
+      "ano": 2025,
+      "marca": "HUSQVARNA"
+    }
+  ],
+  "stats": {
+    "total": 10
+  },
+  "meta": {
+    "geracaoId": "fe-2"
+  }
+}

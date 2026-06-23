@@ -1,0 +1,75 @@
+{
+  "tipo": "geracao",
+  "slug": "hd80-1",
+  "canonicalPath": "/geracao/hyundai/hd80-1/",
+  "titulo": "Geracao hd80-1",
+  "descricao": "6 veiculos da geracao hd80-1.",
+  "seo": {
+    "title": "Geracao hd80-1 - Precos FIPE",
+    "description": "Veiculos da geracao hd80-1 na Tabela FIPE.",
+    "h1": "Geracao hd80-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/hyundai/hd80-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "hyundai-hd80-3-0-16v-diesel-e5-2018-diesel",
+      "fipeCodigo": "523002-0",
+      "displayName": "HYUNDAI HD80 3.0 16V (diesel)(E5)",
+      "valorAtual": 111716,
+      "canonicalPath": "/fipe/hyundai/hd80-3-0-16v-diesel-e5-2018-523002-0/",
+      "ano": 2018,
+      "marca": "HYUNDAI"
+    },
+    {
+      "vehicleId": "hyundai-hd80-3-0-16v-diesel-e5-2019-diesel",
+      "fipeCodigo": "523002-0",
+      "displayName": "HYUNDAI HD80 3.0 16V (diesel)(E5)",
+      "valorAtual": 114798,
+      "canonicalPath": "/fipe/hyundai/hd80-3-0-16v-diesel-e5-2019-523002-0/",
+      "ano": 2019,
+      "marca": "HYUNDAI"
+    },
+    {
+      "vehicleId": "hyundai-hd80-3-0-16v-diesel-e5-2020-diesel",
+      "fipeCodigo": "523002-0",
+      "displayName": "HYUNDAI HD80 3.0 16V (diesel)(E5)",
+      "valorAtual": 117668,
+      "canonicalPath": "/fipe/hyundai/hd80-3-0-16v-diesel-e5-2020-523002-0/",
+      "ano": 2020,
+      "marca": "HYUNDAI"
+    },
+    {
+      "vehicleId": "hyundai-hd80-3-0-16v-diesel-e5-2021-diesel",
+      "fipeCodigo": "523002-0",
+      "displayName": "HYUNDAI HD80 3.0 16V (diesel)(E5)",
+      "valorAtual": 130626,
+      "canonicalPath": "/fipe/hyundai/hd80-3-0-16v-diesel-e5-2021-523002-0/",
+      "ano": 2021,
+      "marca": "HYUNDAI"
+    },
+    {
+      "vehicleId": "hyundai-hd80-3-0-16v-diesel-e5-2022-diesel",
+      "fipeCodigo": "523002-0",
+      "displayName": "HYUNDAI HD80 3.0 16V (diesel)(E5)",
+      "valorAtual": 136863,
+      "canonicalPath": "/fipe/hyundai/hd80-3-0-16v-diesel-e5-2022-523002-0/",
+      "ano": 2022,
+      "marca": "HYUNDAI"
+    },
+    {
+      "vehicleId": "hyundai-hd80-3-0-16v-diesel-e5-2023-diesel",
+      "fipeCodigo": "523002-0",
+      "displayName": "HYUNDAI HD80 3.0 16V (diesel)(E5)",
+      "valorAtual": 143499,
+      "canonicalPath": "/fipe/hyundai/hd80-3-0-16v-diesel-e5-2023-523002-0/",
+      "ano": 2023,
+      "marca": "HYUNDAI"
+    }
+  ],
+  "stats": {
+    "total": 6
+  },
+  "meta": {
+    "geracaoId": "hd80-1"
+  }
+}

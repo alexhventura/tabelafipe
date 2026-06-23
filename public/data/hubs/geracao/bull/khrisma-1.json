@@ -1,0 +1,48 @@
+{
+  "tipo": "geracao",
+  "slug": "khrisma-1",
+  "canonicalPath": "/geracao/bull/khrisma-1/",
+  "titulo": "Geracao khrisma-1",
+  "descricao": "3 veiculos da geracao khrisma-1.",
+  "seo": {
+    "title": "Geracao khrisma-1 - Precos FIPE",
+    "description": "Veiculos da geracao khrisma-1 na Tabela FIPE.",
+    "h1": "Geracao khrisma-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/bull/khrisma-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "bull-khrisma-50-2020-gasolina",
+      "fipeCodigo": "888012-3",
+      "displayName": "BULL KHRISMA 50",
+      "valorAtual": 5129,
+      "canonicalPath": "/fipe/bull/khrisma-50-2020-888012-3/",
+      "ano": 2020,
+      "marca": "BULL"
+    },
+    {
+      "vehicleId": "bull-khrisma-50-2021-gasolina",
+      "fipeCodigo": "888012-3",
+      "displayName": "BULL KHRISMA 50",
+      "valorAtual": 5677,
+      "canonicalPath": "/fipe/bull/khrisma-50-2021-888012-3/",
+      "ano": 2021,
+      "marca": "BULL"
+    },
+    {
+      "vehicleId": "bull-khrisma-50-2022-gasolina",
+      "fipeCodigo": "888012-3",
+      "displayName": "BULL KHRISMA 50",
+      "valorAtual": 6008,
+      "canonicalPath": "/fipe/bull/khrisma-50-2022-888012-3/",
+      "ano": 2022,
+      "marca": "BULL"
+    }
+  ],
+  "stats": {
+    "total": 3
+  },
+  "meta": {
+    "geracaoId": "khrisma-1"
+  }
+}

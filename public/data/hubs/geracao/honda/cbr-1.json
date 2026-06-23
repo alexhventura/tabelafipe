@@ -1,0 +1,48 @@
+{
+  "tipo": "geracao",
+  "slug": "cbr-1",
+  "canonicalPath": "/geracao/honda/cbr-1/",
+  "titulo": "Geracao cbr-1",
+  "descricao": "3 veiculos da geracao cbr-1.",
+  "seo": {
+    "title": "Geracao cbr-1 - Precos FIPE",
+    "description": "Veiculos da geracao cbr-1 na Tabela FIPE.",
+    "h1": "Geracao cbr-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/honda/cbr-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "honda-cbr-1000-rr-r-fireblade-sp-0-gasolina",
+      "fipeCodigo": "811168-5",
+      "displayName": "HONDA CBR 1000 RR-R Fireblade SP",
+      "valorAtual": 220739,
+      "canonicalPath": "/fipe/honda/cbr-1000-rr-r-fireblade-sp-0-811168-5/",
+      "ano": 0,
+      "marca": "HONDA"
+    },
+    {
+      "vehicleId": "honda-cbr-1000-rr-r-fireblade-sp-30th-edition-0-gasolina",
+      "fipeCodigo": "811175-8",
+      "displayName": "HONDA CBR 1000 RR-R Fireblade SP 30TH EDITION",
+      "valorAtual": 210637,
+      "canonicalPath": "/fipe/honda/cbr-1000-rr-r-fireblade-sp-30th-edition-0-811175-8/",
+      "ano": 0,
+      "marca": "HONDA"
+    },
+    {
+      "vehicleId": "honda-cbr-650-r-0-gasolina",
+      "fipeCodigo": "811162-6",
+      "displayName": "HONDA CBR 650 R",
+      "valorAtual": 64222,
+      "canonicalPath": "/fipe/honda/cbr-650-r-0-811162-6/",
+      "ano": 0,
+      "marca": "HONDA"
+    }
+  ],
+  "stats": {
+    "total": 3
+  },
+  "meta": {
+    "geracaoId": "cbr-1"
+  }
+}

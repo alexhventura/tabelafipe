@@ -1,0 +1,120 @@
+{
+  "tipo": "geracao",
+  "slug": "versys-2",
+  "canonicalPath": "/geracao/kawasaki/versys-2/",
+  "titulo": "Geracao versys-2",
+  "descricao": "11 veiculos da geracao versys-2.",
+  "seo": {
+    "title": "Geracao versys-2 - Precos FIPE",
+    "description": "Veiculos da geracao versys-2 na Tabela FIPE.",
+    "h1": "Geracao versys-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/kawasaki/versys-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "kawasaki-versys-1000-2012-gasolina",
+      "fipeCodigo": "817059-2",
+      "displayName": "KAWASAKI Versys 1000",
+      "valorAtual": 37144,
+      "canonicalPath": "/fipe/kawasaki/versys-1000-2012-817059-2/",
+      "ano": 2012,
+      "marca": "KAWASAKI"
+    },
+    {
+      "vehicleId": "kawasaki-versys-1000-2013-gasolina",
+      "fipeCodigo": "817059-2",
+      "displayName": "KAWASAKI Versys 1000",
+      "valorAtual": 40019,
+      "canonicalPath": "/fipe/kawasaki/versys-1000-2013-817059-2/",
+      "ano": 2013,
+      "marca": "KAWASAKI"
+    },
+    {
+      "vehicleId": "kawasaki-versys-1000-grand-tourer-2013-gasolina",
+      "fipeCodigo": "817060-6",
+      "displayName": "KAWASAKI Versys 1000 GRAND TOURER",
+      "valorAtual": 40031,
+      "canonicalPath": "/fipe/kawasaki/versys-1000-grand-tourer-2013-817060-6/",
+      "ano": 2013,
+      "marca": "KAWASAKI"
+    },
+    {
+      "vehicleId": "kawasaki-versys-650cc-2010-gasolina",
+      "fipeCodigo": "817052-5",
+      "displayName": "KAWASAKI Versys 650cc",
+      "valorAtual": 27203,
+      "canonicalPath": "/fipe/kawasaki/versys-650cc-2010-817052-5/",
+      "ano": 2010,
+      "marca": "KAWASAKI"
+    },
+    {
+      "vehicleId": "kawasaki-versys-650cc-2011-gasolina",
+      "fipeCodigo": "817052-5",
+      "displayName": "KAWASAKI Versys 650cc",
+      "valorAtual": 28008,
+      "canonicalPath": "/fipe/kawasaki/versys-650cc-2011-817052-5/",
+      "ano": 2011,
+      "marca": "KAWASAKI"
+    },
+    {
+      "vehicleId": "kawasaki-versys-650cc-2012-gasolina",
+      "fipeCodigo": "817052-5",
+      "displayName": "KAWASAKI Versys 650cc",
+      "valorAtual": 28818,
+      "canonicalPath": "/fipe/kawasaki/versys-650cc-2012-817052-5/",
+      "ano": 2012,
+      "marca": "KAWASAKI"
+    },
+    {
+      "vehicleId": "kawasaki-versys-650cc-2013-gasolina",
+      "fipeCodigo": "817052-5",
+      "displayName": "KAWASAKI Versys 650cc",
+      "valorAtual": 31753,
+      "canonicalPath": "/fipe/kawasaki/versys-650cc-2013-817052-5/",
+      "ano": 2013,
+      "marca": "KAWASAKI"
+    },
+    {
+      "vehicleId": "kawasaki-versys-city-650-2012-gasolina",
+      "fipeCodigo": "817057-6",
+      "displayName": "KAWASAKI Versys City 650",
+      "valorAtual": 28832,
+      "canonicalPath": "/fipe/kawasaki/versys-city-650-2012-817057-6/",
+      "ano": 2012,
+      "marca": "KAWASAKI"
+    },
+    {
+      "vehicleId": "kawasaki-versys-tourer-650-2011-gasolina",
+      "fipeCodigo": "817058-4",
+      "displayName": "KAWASAKI Versys TOURER 650",
+      "valorAtual": 28358,
+      "canonicalPath": "/fipe/kawasaki/versys-tourer-650-2011-817058-4/",
+      "ano": 2011,
+      "marca": "KAWASAKI"
+    },
+    {
+      "vehicleId": "kawasaki-versys-tourer-650-2012-gasolina",
+      "fipeCodigo": "817058-4",
+      "displayName": "KAWASAKI Versys TOURER 650",
+      "valorAtual": 29520,
+      "canonicalPath": "/fipe/kawasaki/versys-tourer-650-2012-817058-4/",
+      "ano": 2012,
+      "marca": "KAWASAKI"
+    },
+    {
+      "vehicleId": "kawasaki-versys-tourer-650-2013-gasolina",
+      "fipeCodigo": "817058-4",
+      "displayName": "KAWASAKI Versys TOURER 650",
+      "valorAtual": 32010,
+      "canonicalPath": "/fipe/kawasaki/versys-tourer-650-2013-817058-4/",
+      "ano": 2013,
+      "marca": "KAWASAKI"
+    }
+  ],
+  "stats": {
+    "total": 11
+  },
+  "meta": {
+    "geracaoId": "versys-2"
+  }
+}

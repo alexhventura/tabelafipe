@@ -1,0 +1,71 @@
+{
+  "tipo": "familia",
+  "slug": "quest",
+  "canonicalPath": "/fipe/nissan/quest/",
+  "titulo": "Nissan quest - Tabela FIPE",
+  "descricao": "5 versoes e anos do Nissan quest na Tabela FIPE.",
+  "seo": {
+    "title": "Nissan quest - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes Nissan quest. 5 veiculos indexados.",
+    "h1": "Nissan quest - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/nissan/quest/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "nissan-quest-gxe-gle-ser-1996-gasolina",
+      "fipeCodigo": "023007-3",
+      "displayName": "Nissan Quest GXE/ GLE/ SER",
+      "valorAtual": 19824,
+      "canonicalPath": "/fipe/nissan/quest-gxe-gle-ser-1996-023007-3/",
+      "ano": 1996,
+      "marca": "Nissan"
+    },
+    {
+      "vehicleId": "nissan-quest-xe-3-0-v6-1995-gasolina",
+      "fipeCodigo": "023030-8",
+      "displayName": "Nissan Quest XE 3.0 V6",
+      "valorAtual": 12706,
+      "canonicalPath": "/fipe/nissan/quest-xe-3-0-v6-1995-023030-8/",
+      "ano": 1995,
+      "marca": "Nissan"
+    },
+    {
+      "vehicleId": "nissan-quest-gxe-gle-ser-1995-gasolina",
+      "fipeCodigo": "023007-3",
+      "displayName": "Nissan Quest GXE/ GLE/ SER",
+      "valorAtual": 18995,
+      "canonicalPath": "/fipe/nissan/quest-gxe-gle-ser-1995-023007-3/",
+      "ano": 1995,
+      "marca": "Nissan"
+    },
+    {
+      "vehicleId": "nissan-quest-gxe-gle-ser-1994-gasolina",
+      "fipeCodigo": "023007-3",
+      "displayName": "Nissan Quest GXE/ GLE/ SER",
+      "valorAtual": 17971,
+      "canonicalPath": "/fipe/nissan/quest-gxe-gle-ser-1994-023007-3/",
+      "ano": 1994,
+      "marca": "Nissan"
+    },
+    {
+      "vehicleId": "nissan-quest-gxe-gle-ser-1993-gasolina",
+      "fipeCodigo": "023007-3",
+      "displayName": "Nissan Quest GXE/ GLE/ SER",
+      "valorAtual": 17532,
+      "canonicalPath": "/fipe/nissan/quest-gxe-gle-ser-1993-023007-3/",
+      "ano": 1993,
+      "marca": "Nissan"
+    }
+  ],
+  "stats": {
+    "total": 5,
+    "precoMin": 12706,
+    "precoMax": 19824,
+    "anos": [
+      1996,
+      1995,
+      1994,
+      1993
+    ]
+  }
+}

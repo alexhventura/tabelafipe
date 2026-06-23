@@ -1,0 +1,93 @@
+{
+  "tipo": "geracao",
+  "slug": "coupe-2",
+  "canonicalPath": "/geracao/hyundai/coupe-2/",
+  "titulo": "Geracao coupe-2",
+  "descricao": "8 veiculos da geracao coupe-2.",
+  "seo": {
+    "title": "Geracao coupe-2 - Precos FIPE",
+    "description": "Veiculos da geracao coupe-2 na Tabela FIPE.",
+    "h1": "Geracao coupe-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/hyundai/coupe-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "hyundai-coupe-fx-2-0-aut-2000-gasolina",
+      "fipeCodigo": "015037-1",
+      "displayName": "Hyundai Coupe FX 2.0 Aut.",
+      "valorAtual": 30947,
+      "canonicalPath": "/fipe/hyundai/coupe-fx-2-0-aut-2000-015037-1/",
+      "ano": 2000,
+      "marca": "Hyundai"
+    },
+    {
+      "vehicleId": "hyundai-coupe-fx-2-0-aut-2001-gasolina",
+      "fipeCodigo": "015037-1",
+      "displayName": "Hyundai Coupe FX 2.0 Aut.",
+      "valorAtual": 46793,
+      "canonicalPath": "/fipe/hyundai/coupe-fx-2-0-aut-2001-015037-1/",
+      "ano": 2001,
+      "marca": "Hyundai"
+    },
+    {
+      "vehicleId": "hyundai-coupe-fx-2-0-mec-2000-gasolina",
+      "fipeCodigo": "015036-3",
+      "displayName": "Hyundai Coupe FX 2.0 Mec.",
+      "valorAtual": 27858,
+      "canonicalPath": "/fipe/hyundai/coupe-fx-2-0-mec-2000-015036-3/",
+      "ano": 2000,
+      "marca": "Hyundai"
+    },
+    {
+      "vehicleId": "hyundai-coupe-fx-2-0-mec-2001-gasolina",
+      "fipeCodigo": "015036-3",
+      "displayName": "Hyundai Coupe FX 2.0 Mec.",
+      "valorAtual": 29632,
+      "canonicalPath": "/fipe/hyundai/coupe-fx-2-0-mec-2001-015036-3/",
+      "ano": 2001,
+      "marca": "Hyundai"
+    },
+    {
+      "vehicleId": "hyundai-coupe-fx-2-7-v6-24v-180cv-aut-2002-gasolina",
+      "fipeCodigo": "015054-1",
+      "displayName": "Hyundai Coupe FX 2.7 V6 24V 180cv Aut.",
+      "valorAtual": 52055,
+      "canonicalPath": "/fipe/hyundai/coupe-fx-2-7-v6-24v-180cv-aut-2002-015054-1/",
+      "ano": 2002,
+      "marca": "Hyundai"
+    },
+    {
+      "vehicleId": "hyundai-coupe-fx-2-7-v6-24v-180cv-aut-2003-gasolina",
+      "fipeCodigo": "015054-1",
+      "displayName": "Hyundai Coupe FX 2.7 V6 24V 180cv Aut.",
+      "valorAtual": 73424,
+      "canonicalPath": "/fipe/hyundai/coupe-fx-2-7-v6-24v-180cv-aut-2003-015054-1/",
+      "ano": 2003,
+      "marca": "Hyundai"
+    },
+    {
+      "vehicleId": "hyundai-coupe-fx-2-7-v6-24v-180cv-mec-2002-gasolina",
+      "fipeCodigo": "015053-3",
+      "displayName": "Hyundai Coupe FX 2.7 V6 24V 180cv Mec.",
+      "valorAtual": 39647,
+      "canonicalPath": "/fipe/hyundai/coupe-fx-2-7-v6-24v-180cv-mec-2002-015053-3/",
+      "ano": 2002,
+      "marca": "Hyundai"
+    },
+    {
+      "vehicleId": "hyundai-coupe-fx-2-7-v6-24v-180cv-mec-2003-gasolina",
+      "fipeCodigo": "015053-3",
+      "displayName": "Hyundai Coupe FX 2.7 V6 24V 180cv Mec.",
+      "valorAtual": 41553,
+      "canonicalPath": "/fipe/hyundai/coupe-fx-2-7-v6-24v-180cv-mec-2003-015053-3/",
+      "ano": 2003,
+      "marca": "Hyundai"
+    }
+  ],
+  "stats": {
+    "total": 8
+  },
+  "meta": {
+    "geracaoId": "coupe-2"
+  }
+}

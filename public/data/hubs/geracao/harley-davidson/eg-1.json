@@ -1,0 +1,48 @@
+{
+  "tipo": "geracao",
+  "slug": "eg-1",
+  "canonicalPath": "/geracao/harley-davidson/eg-1/",
+  "titulo": "Geracao eg-1",
+  "descricao": "3 veiculos da geracao eg-1.",
+  "seo": {
+    "title": "Geracao eg-1 - Precos FIPE",
+    "description": "Veiculos da geracao eg-1 na Tabela FIPE.",
+    "h1": "Geracao eg-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/harley-davidson/eg-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "harley-davidson-eg-road-king-fuel-injection-1996-gasolina",
+      "fipeCodigo": "810004-7",
+      "displayName": "HARLEY-DAVIDSON EG ROAD KING FUEL INJECTION",
+      "valorAtual": 21919,
+      "canonicalPath": "/fipe/harley-davidson/eg-road-king-fuel-injection-1996-810004-7/",
+      "ano": 1996,
+      "marca": "HARLEY-DAVIDSON"
+    },
+    {
+      "vehicleId": "harley-davidson-eg-road-king-fuel-injection-1997-gasolina",
+      "fipeCodigo": "810004-7",
+      "displayName": "HARLEY-DAVIDSON EG ROAD KING FUEL INJECTION",
+      "valorAtual": 25222,
+      "canonicalPath": "/fipe/harley-davidson/eg-road-king-fuel-injection-1997-810004-7/",
+      "ano": 1997,
+      "marca": "HARLEY-DAVIDSON"
+    },
+    {
+      "vehicleId": "harley-davidson-eg-road-king-fuel-injection-1998-gasolina",
+      "fipeCodigo": "810004-7",
+      "displayName": "HARLEY-DAVIDSON EG ROAD KING FUEL INJECTION",
+      "valorAtual": 29792,
+      "canonicalPath": "/fipe/harley-davidson/eg-road-king-fuel-injection-1998-810004-7/",
+      "ano": 1998,
+      "marca": "HARLEY-DAVIDSON"
+    }
+  ],
+  "stats": {
+    "total": 3
+  },
+  "meta": {
+    "geracaoId": "eg-1"
+  }
+}

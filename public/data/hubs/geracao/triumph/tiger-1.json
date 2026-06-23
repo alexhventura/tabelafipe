@@ -1,0 +1,147 @@
+{
+  "tipo": "geracao",
+  "slug": "tiger-1",
+  "canonicalPath": "/geracao/triumph/tiger-1/",
+  "titulo": "Geracao tiger-1",
+  "descricao": "14 veiculos da geracao tiger-1.",
+  "seo": {
+    "title": "Geracao tiger-1 - Precos FIPE",
+    "description": "Veiculos da geracao tiger-1 na Tabela FIPE.",
+    "h1": "Geracao tiger-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/triumph/tiger-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "triumph-tiger-1200-alpine-edition-0-gasolina",
+      "fipeCodigo": "826079-6",
+      "displayName": "TRIUMPH TIGER 1200 ALPINE Edition",
+      "valorAtual": 98998,
+      "canonicalPath": "/fipe/triumph/tiger-1200-alpine-edition-0-826079-6/",
+      "ano": 0,
+      "marca": "TRIUMPH"
+    },
+    {
+      "vehicleId": "triumph-tiger-1200-desert-edition-0-gasolina",
+      "fipeCodigo": "826080-0",
+      "displayName": "TRIUMPH TIGER 1200 DESERT Edition",
+      "valorAtual": 107512,
+      "canonicalPath": "/fipe/triumph/tiger-1200-desert-edition-0-826080-0/",
+      "ano": 0,
+      "marca": "TRIUMPH"
+    },
+    {
+      "vehicleId": "triumph-tiger-1200-gt-explorer-0-gasolina",
+      "fipeCodigo": "826085-0",
+      "displayName": "TRIUMPH TIGER 1200 GT EXPLORER",
+      "valorAtual": 115694,
+      "canonicalPath": "/fipe/triumph/tiger-1200-gt-explorer-0-826085-0/",
+      "ano": 0,
+      "marca": "TRIUMPH"
+    },
+    {
+      "vehicleId": "triumph-tiger-1200-gt-pro-0-gasolina",
+      "fipeCodigo": "826098-2",
+      "displayName": "TRIUMPH TIGER 1200 GT PRO",
+      "valorAtual": 102950,
+      "canonicalPath": "/fipe/triumph/tiger-1200-gt-pro-0-826098-2/",
+      "ano": 0,
+      "marca": "TRIUMPH"
+    },
+    {
+      "vehicleId": "triumph-tiger-1200-rally-black-edition-0-gasolina",
+      "fipeCodigo": "826097-4",
+      "displayName": "TRIUMPH TIGER 1200 RALLY BLACK Edition",
+      "valorAtual": 93960,
+      "canonicalPath": "/fipe/triumph/tiger-1200-rally-black-edition-0-826097-4/",
+      "ano": 0,
+      "marca": "TRIUMPH"
+    },
+    {
+      "vehicleId": "triumph-tiger-1200-rally-explorer-0-gasolina",
+      "fipeCodigo": "826086-9",
+      "displayName": "TRIUMPH TIGER 1200 RALLY EXPLORER",
+      "valorAtual": 125535,
+      "canonicalPath": "/fipe/triumph/tiger-1200-rally-explorer-0-826086-9/",
+      "ano": 0,
+      "marca": "TRIUMPH"
+    },
+    {
+      "vehicleId": "triumph-tiger-1200-rally-pro-0-gasolina",
+      "fipeCodigo": "826084-2",
+      "displayName": "TRIUMPH TIGER 1200 RALLY PRO",
+      "valorAtual": 97993,
+      "canonicalPath": "/fipe/triumph/tiger-1200-rally-pro-0-826084-2/",
+      "ano": 0,
+      "marca": "TRIUMPH"
+    },
+    {
+      "vehicleId": "triumph-tiger-660-sport-0-gasolina",
+      "fipeCodigo": "826083-4",
+      "displayName": "TRIUMPH TIGER 660 SPORT",
+      "valorAtual": 62421,
+      "canonicalPath": "/fipe/triumph/tiger-660-sport-0-826083-4/",
+      "ano": 0,
+      "marca": "TRIUMPH"
+    },
+    {
+      "vehicleId": "triumph-tiger-800-sport-0-gasolina",
+      "fipeCodigo": "826109-1",
+      "displayName": "TRIUMPH TIGER 800 SPORT",
+      "valorAtual": 70818,
+      "canonicalPath": "/fipe/triumph/tiger-800-sport-0-826109-1/",
+      "ano": 0,
+      "marca": "TRIUMPH"
+    },
+    {
+      "vehicleId": "triumph-tiger-900-alpine-edition-0-gasolina",
+      "fipeCodigo": "826116-4",
+      "displayName": "TRIUMPH TIGER 900 ALPINE Edition",
+      "valorAtual": 83592,
+      "canonicalPath": "/fipe/triumph/tiger-900-alpine-edition-0-826116-4/",
+      "ano": 0,
+      "marca": "TRIUMPH"
+    },
+    {
+      "vehicleId": "triumph-tiger-900-desert-edition-0-gasolina",
+      "fipeCodigo": "826117-2",
+      "displayName": "TRIUMPH TIGER 900 DESERT Edition",
+      "valorAtual": 88580,
+      "canonicalPath": "/fipe/triumph/tiger-900-desert-edition-0-826117-2/",
+      "ano": 0,
+      "marca": "TRIUMPH"
+    },
+    {
+      "vehicleId": "triumph-tiger-900-gt-0-gasolina",
+      "fipeCodigo": "826077-0",
+      "displayName": "TRIUMPH TIGER 900 GT",
+      "valorAtual": 71500,
+      "canonicalPath": "/fipe/triumph/tiger-900-gt-0-826077-0/",
+      "ano": 0,
+      "marca": "TRIUMPH"
+    },
+    {
+      "vehicleId": "triumph-tiger-900-gt-pro-0-gasolina",
+      "fipeCodigo": "826076-1",
+      "displayName": "TRIUMPH TIGER 900 GT PRO",
+      "valorAtual": 81613,
+      "canonicalPath": "/fipe/triumph/tiger-900-gt-pro-0-826076-1/",
+      "ano": 0,
+      "marca": "TRIUMPH"
+    },
+    {
+      "vehicleId": "triumph-tiger-900-rally-pro-0-gasolina",
+      "fipeCodigo": "826075-3",
+      "displayName": "TRIUMPH TIGER 900 RALLY PRO",
+      "valorAtual": 85411,
+      "canonicalPath": "/fipe/triumph/tiger-900-rally-pro-0-826075-3/",
+      "ano": 0,
+      "marca": "TRIUMPH"
+    }
+  ],
+  "stats": {
+    "total": 14
+  },
+  "meta": {
+    "geracaoId": "tiger-1"
+  }
+}

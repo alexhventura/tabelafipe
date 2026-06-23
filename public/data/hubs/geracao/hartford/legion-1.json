@@ -1,0 +1,57 @@
+{
+  "tipo": "geracao",
+  "slug": "legion-1",
+  "canonicalPath": "/geracao/hartford/legion-1/",
+  "titulo": "Geracao legion-1",
+  "descricao": "4 veiculos da geracao legion-1.",
+  "seo": {
+    "title": "Geracao legion-1 - Precos FIPE",
+    "description": "Veiculos da geracao legion-1 na Tabela FIPE.",
+    "h1": "Geracao legion-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/hartford/legion-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "hartford-legion-125-1997-gasolina",
+      "fipeCodigo": "838001-5",
+      "displayName": "HARTFORD LEGION 125",
+      "valorAtual": 1379,
+      "canonicalPath": "/fipe/hartford/legion-125-1997-838001-5/",
+      "ano": 1997,
+      "marca": "HARTFORD"
+    },
+    {
+      "vehicleId": "hartford-legion-125-1998-gasolina",
+      "fipeCodigo": "838001-5",
+      "displayName": "HARTFORD LEGION 125",
+      "valorAtual": 1459,
+      "canonicalPath": "/fipe/hartford/legion-125-1998-838001-5/",
+      "ano": 1998,
+      "marca": "HARTFORD"
+    },
+    {
+      "vehicleId": "hartford-legion-125-1999-gasolina",
+      "fipeCodigo": "838001-5",
+      "displayName": "HARTFORD LEGION 125",
+      "valorAtual": 1564,
+      "canonicalPath": "/fipe/hartford/legion-125-1999-838001-5/",
+      "ano": 1999,
+      "marca": "HARTFORD"
+    },
+    {
+      "vehicleId": "hartford-legion-125-2000-gasolina",
+      "fipeCodigo": "838001-5",
+      "displayName": "HARTFORD LEGION 125",
+      "valorAtual": 1735,
+      "canonicalPath": "/fipe/hartford/legion-125-2000-838001-5/",
+      "ano": 2000,
+      "marca": "HARTFORD"
+    }
+  ],
+  "stats": {
+    "total": 4
+  },
+  "meta": {
+    "geracaoId": "legion-1"
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "tipo": "geracao",
+  "slug": "brutale-1",
+  "canonicalPath": "/geracao/mv-agusta/brutale-1/",
+  "titulo": "Geracao brutale-1",
+  "descricao": "6 veiculos da geracao brutale-1.",
+  "seo": {
+    "title": "Geracao brutale-1 - Precos FIPE",
+    "description": "Veiculos da geracao brutale-1 na Tabela FIPE.",
+    "h1": "Geracao brutale-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/mv-agusta/brutale-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "mv-agusta-brutale-1078rr-2009-gasolina",
+      "fipeCodigo": "839008-8",
+      "displayName": "MV AGUSTA BRUTALE 1078RR",
+      "valorAtual": 29221,
+      "canonicalPath": "/fipe/mv-agusta/brutale-1078rr-2009-839008-8/",
+      "ano": 2009,
+      "marca": "MV AGUSTA"
+    },
+    {
+      "vehicleId": "mv-agusta-brutale-910r-2007-gasolina",
+      "fipeCodigo": "839005-3",
+      "displayName": "MV AGUSTA BRUTALE 910R",
+      "valorAtual": 27869,
+      "canonicalPath": "/fipe/mv-agusta/brutale-910r-2007-839005-3/",
+      "ano": 2007,
+      "marca": "MV AGUSTA"
+    },
+    {
+      "vehicleId": "mv-agusta-brutale-910r-2008-gasolina",
+      "fipeCodigo": "839005-3",
+      "displayName": "MV AGUSTA BRUTALE 910R",
+      "valorAtual": 32026,
+      "canonicalPath": "/fipe/mv-agusta/brutale-910r-2008-839005-3/",
+      "ano": 2008,
+      "marca": "MV AGUSTA"
+    },
+    {
+      "vehicleId": "mv-agusta-brutale-910s-2007-gasolina",
+      "fipeCodigo": "839003-7",
+      "displayName": "MV AGUSTA BRUTALE 910S",
+      "valorAtual": 27120,
+      "canonicalPath": "/fipe/mv-agusta/brutale-910s-2007-839003-7/",
+      "ano": 2007,
+      "marca": "MV AGUSTA"
+    },
+    {
+      "vehicleId": "mv-agusta-brutale-910s-2008-gasolina",
+      "fipeCodigo": "839003-7",
+      "displayName": "MV AGUSTA BRUTALE 910S",
+      "valorAtual": 31018,
+      "canonicalPath": "/fipe/mv-agusta/brutale-910s-2008-839003-7/",
+      "ano": 2008,
+      "marca": "MV AGUSTA"
+    },
+    {
+      "vehicleId": "mv-agusta-brutale-989r-2009-gasolina",
+      "fipeCodigo": "839007-0",
+      "displayName": "MV AGUSTA BRUTALE 989R",
+      "valorAtual": 28047,
+      "canonicalPath": "/fipe/mv-agusta/brutale-989r-2009-839007-0/",
+      "ano": 2009,
+      "marca": "MV AGUSTA"
+    }
+  ],
+  "stats": {
+    "total": 6
+  },
+  "meta": {
+    "geracaoId": "brutale-1"
+  }
+}

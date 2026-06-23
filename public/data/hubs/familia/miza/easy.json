@@ -1,0 +1,81 @@
+{
+  "tipo": "familia",
+  "slug": "easy",
+  "canonicalPath": "/fipe/miza/easy/",
+  "titulo": "MIZA easy - Tabela FIPE",
+  "descricao": "6 versoes e anos do MIZA easy na Tabela FIPE.",
+  "seo": {
+    "title": "MIZA easy - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes MIZA easy. 6 veiculos indexados.",
+    "h1": "MIZA easy - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/miza/easy/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "miza-easy-lj-125-10-2011-gasolina",
+      "fipeCodigo": "848006-0",
+      "displayName": "MIZA EASY LJ 125-10",
+      "valorAtual": 2224,
+      "canonicalPath": "/fipe/miza/easy-lj-125-10-2011-848006-0/",
+      "ano": 2011,
+      "marca": "MIZA"
+    },
+    {
+      "vehicleId": "miza-easy-lj-125-10-2009-gasolina",
+      "fipeCodigo": "848006-0",
+      "displayName": "MIZA EASY LJ 125-10",
+      "valorAtual": 2136,
+      "canonicalPath": "/fipe/miza/easy-lj-125-10-2009-848006-0/",
+      "ano": 2009,
+      "marca": "MIZA"
+    },
+    {
+      "vehicleId": "miza-easy-lj-125-10-2008-gasolina",
+      "fipeCodigo": "848006-0",
+      "displayName": "MIZA EASY LJ 125-10",
+      "valorAtual": 2026,
+      "canonicalPath": "/fipe/miza/easy-lj-125-10-2008-848006-0/",
+      "ano": 2008,
+      "marca": "MIZA"
+    },
+    {
+      "vehicleId": "miza-easy-lj-110-10-2007-gasolina",
+      "fipeCodigo": "848001-0",
+      "displayName": "MIZA EASY LJ 110-10",
+      "valorAtual": 1647,
+      "canonicalPath": "/fipe/miza/easy-lj-110-10-2007-848001-0/",
+      "ano": 2007,
+      "marca": "MIZA"
+    },
+    {
+      "vehicleId": "miza-easy-lj-125-10-2007-gasolina",
+      "fipeCodigo": "848006-0",
+      "displayName": "MIZA EASY LJ 125-10",
+      "valorAtual": 1938,
+      "canonicalPath": "/fipe/miza/easy-lj-125-10-2007-848006-0/",
+      "ano": 2007,
+      "marca": "MIZA"
+    },
+    {
+      "vehicleId": "miza-easy-lj-110-10-2006-gasolina",
+      "fipeCodigo": "848001-0",
+      "displayName": "MIZA EASY LJ 110-10",
+      "valorAtual": 1563,
+      "canonicalPath": "/fipe/miza/easy-lj-110-10-2006-848001-0/",
+      "ano": 2006,
+      "marca": "MIZA"
+    }
+  ],
+  "stats": {
+    "total": 6,
+    "precoMin": 1563,
+    "precoMax": 2224,
+    "anos": [
+      2011,
+      2009,
+      2008,
+      2007,
+      2006
+    ]
+  }
+}

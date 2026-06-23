@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "eko-1",
+  "canonicalPath": "/geracao/bull/eko-1/",
+  "titulo": "Geracao eko-1",
+  "descricao": "2 veiculos da geracao eko-1.",
+  "seo": {
+    "title": "Geracao eko-1 - Precos FIPE",
+    "description": "Veiculos da geracao eko-1 na Tabela FIPE.",
+    "h1": "Geracao eko-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/bull/eko-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "bull-eko-city-1200w-eletrica-2019-eletrico",
+      "fipeCodigo": "888005-0",
+      "displayName": "BULL Eko City 1200W (Elétrica)",
+      "valorAtual": 6553,
+      "canonicalPath": "/fipe/bull/eko-city-1200w-eletrica-2019-888005-0/",
+      "ano": 2019,
+      "marca": "BULL"
+    },
+    {
+      "vehicleId": "bull-eko-hunter-2000w-eletrica-2019-eletrico",
+      "fipeCodigo": "888008-5",
+      "displayName": "BULL Eko Hunter 2000W (Elétrica)",
+      "valorAtual": 6996,
+      "canonicalPath": "/fipe/bull/eko-hunter-2000w-eletrica-2019-888008-5/",
+      "ano": 2019,
+      "marca": "BULL"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "eko-1"
+  }
+}

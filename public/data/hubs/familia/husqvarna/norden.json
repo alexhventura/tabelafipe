@@ -1,0 +1,89 @@
+{
+  "tipo": "familia",
+  "slug": "norden",
+  "canonicalPath": "/fipe/husqvarna/norden/",
+  "titulo": "HUSQVARNA norden - Tabela FIPE",
+  "descricao": "7 versoes e anos do HUSQVARNA norden na Tabela FIPE.",
+  "seo": {
+    "title": "HUSQVARNA norden - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes HUSQVARNA norden. 7 veiculos indexados.",
+    "h1": "HUSQVARNA norden - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/husqvarna/norden/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "husqvarna-norden-901-2024-gasolina",
+      "fipeCodigo": "812025-0",
+      "displayName": "HUSQVARNA NORDEN 901",
+      "valorAtual": 90917,
+      "canonicalPath": "/fipe/husqvarna/norden-901-2024-812025-0/",
+      "ano": 2024,
+      "marca": "HUSQVARNA"
+    },
+    {
+      "vehicleId": "husqvarna-norden-901-expedition-2024-gasolina",
+      "fipeCodigo": "812035-8",
+      "displayName": "HUSQVARNA NORDEN 901 Expedition",
+      "valorAtual": 97100,
+      "canonicalPath": "/fipe/husqvarna/norden-901-expedition-2024-812035-8/",
+      "ano": 2024,
+      "marca": "HUSQVARNA"
+    },
+    {
+      "vehicleId": "husqvarna-norden-901-2023-gasolina",
+      "fipeCodigo": "812025-0",
+      "displayName": "HUSQVARNA NORDEN 901",
+      "valorAtual": 85912,
+      "canonicalPath": "/fipe/husqvarna/norden-901-2023-812025-0/",
+      "ano": 2023,
+      "marca": "HUSQVARNA"
+    },
+    {
+      "vehicleId": "husqvarna-norden-901-expedition-2023-gasolina",
+      "fipeCodigo": "812035-8",
+      "displayName": "HUSQVARNA NORDEN 901 Expedition",
+      "valorAtual": 88215,
+      "canonicalPath": "/fipe/husqvarna/norden-901-expedition-2023-812035-8/",
+      "ano": 2023,
+      "marca": "HUSQVARNA"
+    },
+    {
+      "vehicleId": "husqvarna-norden-901-2022-gasolina",
+      "fipeCodigo": "812025-0",
+      "displayName": "HUSQVARNA NORDEN 901",
+      "valorAtual": 83224,
+      "canonicalPath": "/fipe/husqvarna/norden-901-2022-812025-0/",
+      "ano": 2022,
+      "marca": "HUSQVARNA"
+    },
+    {
+      "vehicleId": "husqvarna-norden-901-0-gasolina",
+      "fipeCodigo": "812025-0",
+      "displayName": "HUSQVARNA NORDEN 901",
+      "valorAtual": 98496,
+      "canonicalPath": "/fipe/husqvarna/norden-901-0-812025-0/",
+      "ano": 0,
+      "marca": "HUSQVARNA"
+    },
+    {
+      "vehicleId": "husqvarna-norden-901-expedition-0-gasolina",
+      "fipeCodigo": "812035-8",
+      "displayName": "HUSQVARNA NORDEN 901 Expedition",
+      "valorAtual": 107751,
+      "canonicalPath": "/fipe/husqvarna/norden-901-expedition-0-812035-8/",
+      "ano": 0,
+      "marca": "HUSQVARNA"
+    }
+  ],
+  "stats": {
+    "total": 7,
+    "precoMin": 83224,
+    "precoMax": 107751,
+    "anos": [
+      2024,
+      2023,
+      2022,
+      0
+    ]
+  }
+}

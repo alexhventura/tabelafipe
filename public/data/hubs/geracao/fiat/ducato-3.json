@@ -1,0 +1,201 @@
+{
+  "tipo": "geracao",
+  "slug": "ducato-3",
+  "canonicalPath": "/geracao/fiat/ducato-3/",
+  "titulo": "Geracao ducato-3",
+  "descricao": "20 veiculos da geracao ducato-3.",
+  "seo": {
+    "title": "Geracao ducato-3 - Precos FIPE",
+    "description": "Veiculos da geracao ducato-3 na Tabela FIPE.",
+    "h1": "Geracao ducato-3",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/fiat/ducato-3/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "fiat-ducato-cargo-2-2-diesel-e6-2023-diesel",
+      "fipeCodigo": "001563-6",
+      "displayName": "Fiat Ducato Cargo 2.2 Diesel (E6)",
+      "valorAtual": 196868,
+      "canonicalPath": "/fipe/fiat/ducato-cargo-2-2-diesel-e6-2023-001563-6/",
+      "ano": 2023,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-ducato-cargo-2-2-diesel-e6-2024-diesel",
+      "fipeCodigo": "001563-6",
+      "displayName": "Fiat Ducato Cargo 2.2 Diesel (E6)",
+      "valorAtual": 205349,
+      "canonicalPath": "/fipe/fiat/ducato-cargo-2-2-diesel-e6-2024-001563-6/",
+      "ano": 2024,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-ducato-cargo-2-2-diesel-e6-2025-diesel",
+      "fipeCodigo": "001563-6",
+      "displayName": "Fiat Ducato Cargo 2.2 Diesel (E6)",
+      "valorAtual": 215966,
+      "canonicalPath": "/fipe/fiat/ducato-cargo-2-2-diesel-e6-2025-001563-6/",
+      "ano": 2025,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-ducato-cargo-2-2-diesel-e6-2026-diesel",
+      "fipeCodigo": "001563-6",
+      "displayName": "Fiat Ducato Cargo 2.2 Diesel (E6)",
+      "valorAtual": 243085,
+      "canonicalPath": "/fipe/fiat/ducato-cargo-2-2-diesel-e6-2026-001563-6/",
+      "ano": 2026,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-ducato-maxicargo-2-2-diesel-e6-2023-diesel",
+      "fipeCodigo": "001564-4",
+      "displayName": "Fiat Ducato MaxiCargo 2.2 Diesel (E6)",
+      "valorAtual": 205601,
+      "canonicalPath": "/fipe/fiat/ducato-maxicargo-2-2-diesel-e6-2023-001564-4/",
+      "ano": 2023,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-ducato-maxicargo-2-2-diesel-e6-2024-diesel",
+      "fipeCodigo": "001564-4",
+      "displayName": "Fiat Ducato MaxiCargo 2.2 Diesel (E6)",
+      "valorAtual": 212588,
+      "canonicalPath": "/fipe/fiat/ducato-maxicargo-2-2-diesel-e6-2024-001564-4/",
+      "ano": 2024,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-ducato-maxicargo-2-2-diesel-e6-2025-diesel",
+      "fipeCodigo": "001564-4",
+      "displayName": "Fiat Ducato MaxiCargo 2.2 Diesel (E6)",
+      "valorAtual": 222183,
+      "canonicalPath": "/fipe/fiat/ducato-maxicargo-2-2-diesel-e6-2025-001564-4/",
+      "ano": 2025,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-ducato-maxicargo-2-2-diesel-e6-2026-diesel",
+      "fipeCodigo": "001564-4",
+      "displayName": "Fiat Ducato MaxiCargo 2.2 Diesel (E6)",
+      "valorAtual": 251624,
+      "canonicalPath": "/fipe/fiat/ducato-maxicargo-2-2-diesel-e6-2026-001564-4/",
+      "ano": 2026,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-ducato-minibus-2-2-comf-19l-diesel-e6-2023-diesel",
+      "fipeCodigo": "001567-9",
+      "displayName": "Fiat Ducato Minibus 2.2 Comf.19L Diesel (E6)",
+      "valorAtual": 216376,
+      "canonicalPath": "/fipe/fiat/ducato-minibus-2-2-comf-19l-diesel-e6-2023-001567-9/",
+      "ano": 2023,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-ducato-minibus-2-2-comf-19l-diesel-e6-2024-diesel",
+      "fipeCodigo": "001567-9",
+      "displayName": "Fiat Ducato Minibus 2.2 Comf.19L Diesel (E6)",
+      "valorAtual": 247120,
+      "canonicalPath": "/fipe/fiat/ducato-minibus-2-2-comf-19l-diesel-e6-2024-001567-9/",
+      "ano": 2024,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-ducato-minibus-2-2-comf-19l-diesel-e6-2025-diesel",
+      "fipeCodigo": "001567-9",
+      "displayName": "Fiat Ducato Minibus 2.2 Comf.19L Diesel (E6)",
+      "valorAtual": 272439,
+      "canonicalPath": "/fipe/fiat/ducato-minibus-2-2-comf-19l-diesel-e6-2025-001567-9/",
+      "ano": 2025,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-ducato-minibus-2-2-comf-19l-diesel-e6-2026-diesel",
+      "fipeCodigo": "001567-9",
+      "displayName": "Fiat Ducato Minibus 2.2 Comf.19L Diesel (E6)",
+      "valorAtual": 305453,
+      "canonicalPath": "/fipe/fiat/ducato-minibus-2-2-comf-19l-diesel-e6-2026-001567-9/",
+      "ano": 2026,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-ducato-minibus-2-2-comfort18l-e6-2026-diesel",
+      "fipeCodigo": "001593-8",
+      "displayName": "Fiat Ducato Minibus 2.2 Comfort18L (E6)",
+      "valorAtual": 315789,
+      "canonicalPath": "/fipe/fiat/ducato-minibus-2-2-comfort18l-e6-2026-001593-8/",
+      "ano": 2026,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-ducato-minibus-2-2-exec-17l-diesel-e6-2023-diesel",
+      "fipeCodigo": "001566-0",
+      "displayName": "Fiat Ducato Minibus 2.2 Exec. 17L Diesel (E6)",
+      "valorAtual": 212994,
+      "canonicalPath": "/fipe/fiat/ducato-minibus-2-2-exec-17l-diesel-e6-2023-001566-0/",
+      "ano": 2023,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-ducato-minibus-2-2-exec-17l-diesel-e6-2024-diesel",
+      "fipeCodigo": "001566-0",
+      "displayName": "Fiat Ducato Minibus 2.2 Exec. 17L Diesel (E6)",
+      "valorAtual": 246515,
+      "canonicalPath": "/fipe/fiat/ducato-minibus-2-2-exec-17l-diesel-e6-2024-001566-0/",
+      "ano": 2024,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-ducato-minibus-2-2-exec-17l-diesel-e6-2025-diesel",
+      "fipeCodigo": "001566-0",
+      "displayName": "Fiat Ducato Minibus 2.2 Exec. 17L Diesel (E6)",
+      "valorAtual": 254100,
+      "canonicalPath": "/fipe/fiat/ducato-minibus-2-2-exec-17l-diesel-e6-2025-001566-0/",
+      "ano": 2025,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-ducato-minibus-2-2-luxo-16l-e6-2026-diesel",
+      "fipeCodigo": "001594-6",
+      "displayName": "Fiat Ducato Minibus 2.2 Luxo 16L (E6)",
+      "valorAtual": 320459,
+      "canonicalPath": "/fipe/fiat/ducato-minibus-2-2-luxo-16l-e6-2026-001594-6/",
+      "ano": 2026,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-ducato-multi-2-2-diesel-e6-2023-diesel",
+      "fipeCodigo": "001565-2",
+      "displayName": "Fiat Ducato Multi 2.2 Diesel (E6)",
+      "valorAtual": 214207,
+      "canonicalPath": "/fipe/fiat/ducato-multi-2-2-diesel-e6-2023-001565-2/",
+      "ano": 2023,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-ducato-multi-2-2-diesel-e6-2024-diesel",
+      "fipeCodigo": "001565-2",
+      "displayName": "Fiat Ducato Multi 2.2 Diesel (E6)",
+      "valorAtual": 232473,
+      "canonicalPath": "/fipe/fiat/ducato-multi-2-2-diesel-e6-2024-001565-2/",
+      "ano": 2024,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-ducato-multi-2-2-diesel-e6-2025-diesel",
+      "fipeCodigo": "001565-2",
+      "displayName": "Fiat Ducato Multi 2.2 Diesel (E6)",
+      "valorAtual": 248052,
+      "canonicalPath": "/fipe/fiat/ducato-multi-2-2-diesel-e6-2025-001565-2/",
+      "ano": 2025,
+      "marca": "Fiat"
+    }
+  ],
+  "stats": {
+    "total": 20
+  },
+  "meta": {
+    "geracaoId": "ducato-3"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "tipo": "geracao",
+  "slug": "jbr-2",
+  "canonicalPath": "/geracao/bueno/jbr-2/",
+  "titulo": "Geracao jbr-2",
+  "descricao": "4 veiculos da geracao jbr-2.",
+  "seo": {
+    "title": "Geracao jbr-2 - Precos FIPE",
+    "description": "Veiculos da geracao jbr-2 na Tabela FIPE.",
+    "h1": "Geracao jbr-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/bueno/jbr-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "bueno-jbr-125e-2011-gasolina",
+      "fipeCodigo": "866001-8",
+      "displayName": "BUENO JBr 125e",
+      "valorAtual": 2167,
+      "canonicalPath": "/fipe/bueno/jbr-125e-2011-866001-8/",
+      "ano": 2011,
+      "marca": "BUENO"
+    },
+    {
+      "vehicleId": "bueno-jbr-125e-2012-gasolina",
+      "fipeCodigo": "866001-8",
+      "displayName": "BUENO JBr 125e",
+      "valorAtual": 2372,
+      "canonicalPath": "/fipe/bueno/jbr-125e-2012-866001-8/",
+      "ano": 2012,
+      "marca": "BUENO"
+    },
+    {
+      "vehicleId": "bueno-jbr-150e-2011-gasolina",
+      "fipeCodigo": "866002-6",
+      "displayName": "BUENO JBr 150e",
+      "valorAtual": 2540,
+      "canonicalPath": "/fipe/bueno/jbr-150e-2011-866002-6/",
+      "ano": 2011,
+      "marca": "BUENO"
+    },
+    {
+      "vehicleId": "bueno-jbr-250e-2011-gasolina",
+      "fipeCodigo": "866003-4",
+      "displayName": "BUENO JBr 250e",
+      "valorAtual": 5863,
+      "canonicalPath": "/fipe/bueno/jbr-250e-2011-866003-4/",
+      "ano": 2011,
+      "marca": "BUENO"
+    }
+  ],
+  "stats": {
+    "total": 4
+  },
+  "meta": {
+    "geracaoId": "jbr-2"
+  }
+}

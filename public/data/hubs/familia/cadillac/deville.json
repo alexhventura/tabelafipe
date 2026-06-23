@@ -1,0 +1,72 @@
+{
+  "tipo": "familia",
+  "slug": "deville",
+  "canonicalPath": "/fipe/cadillac/deville/",
+  "titulo": "Cadillac deville - Tabela FIPE",
+  "descricao": "5 versoes e anos do Cadillac deville na Tabela FIPE.",
+  "seo": {
+    "title": "Cadillac deville - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes Cadillac deville. 5 veiculos indexados.",
+    "h1": "Cadillac deville - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/cadillac/deville/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "cadillac-deville-eldorado-4-9-1995-gasolina",
+      "fipeCodigo": "041001-2",
+      "displayName": "Cadillac Deville/Eldorado 4.9",
+      "valorAtual": 73395,
+      "canonicalPath": "/fipe/cadillac/deville-eldorado-4-9-1995-041001-2/",
+      "ano": 1995,
+      "marca": "Cadillac"
+    },
+    {
+      "vehicleId": "cadillac-deville-eldorado-4-9-1994-gasolina",
+      "fipeCodigo": "041001-2",
+      "displayName": "Cadillac Deville/Eldorado 4.9",
+      "valorAtual": 52068,
+      "canonicalPath": "/fipe/cadillac/deville-eldorado-4-9-1994-041001-2/",
+      "ano": 1994,
+      "marca": "Cadillac"
+    },
+    {
+      "vehicleId": "cadillac-deville-eldorado-4-9-1993-gasolina",
+      "fipeCodigo": "041001-2",
+      "displayName": "Cadillac Deville/Eldorado 4.9",
+      "valorAtual": 44377,
+      "canonicalPath": "/fipe/cadillac/deville-eldorado-4-9-1993-041001-2/",
+      "ano": 1993,
+      "marca": "Cadillac"
+    },
+    {
+      "vehicleId": "cadillac-deville-eldorado-4-9-1992-gasolina",
+      "fipeCodigo": "041001-2",
+      "displayName": "Cadillac Deville/Eldorado 4.9",
+      "valorAtual": 39427,
+      "canonicalPath": "/fipe/cadillac/deville-eldorado-4-9-1992-041001-2/",
+      "ano": 1992,
+      "marca": "Cadillac"
+    },
+    {
+      "vehicleId": "cadillac-deville-eldorado-4-9-1991-gasolina",
+      "fipeCodigo": "041001-2",
+      "displayName": "Cadillac Deville/Eldorado 4.9",
+      "valorAtual": 35277,
+      "canonicalPath": "/fipe/cadillac/deville-eldorado-4-9-1991-041001-2/",
+      "ano": 1991,
+      "marca": "Cadillac"
+    }
+  ],
+  "stats": {
+    "total": 5,
+    "precoMin": 35277,
+    "precoMax": 73395,
+    "anos": [
+      1995,
+      1994,
+      1993,
+      1992,
+      1991
+    ]
+  }
+}

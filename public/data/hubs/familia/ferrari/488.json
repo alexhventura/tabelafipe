@@ -1,0 +1,126 @@
+{
+  "tipo": "familia",
+  "slug": "488",
+  "canonicalPath": "/fipe/ferrari/488/",
+  "titulo": "Ferrari 488 - Tabela FIPE",
+  "descricao": "11 versoes e anos do Ferrari 488 na Tabela FIPE.",
+  "seo": {
+    "title": "Ferrari 488 - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes Ferrari 488. 11 veiculos indexados.",
+    "h1": "Ferrari 488 - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/ferrari/488/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "ferrari-488-pista-3-9-v8-720cv-2020-gasolina",
+      "fipeCodigo": "031046-8",
+      "displayName": "Ferrari 488 Pista 3.9 V8 720cv",
+      "valorAtual": 5577419,
+      "canonicalPath": "/fipe/ferrari/488-pista-3-9-v8-720cv-2020-031046-8/",
+      "ano": 2020,
+      "marca": "Ferrari"
+    },
+    {
+      "vehicleId": "ferrari-488-pista-spider-3-9-v8-720cv-2020-gasolina",
+      "fipeCodigo": "031045-0",
+      "displayName": "Ferrari 488 Pista Spider 3.9 V8 720cv",
+      "valorAtual": 5598415,
+      "canonicalPath": "/fipe/ferrari/488-pista-spider-3-9-v8-720cv-2020-031045-0/",
+      "ano": 2020,
+      "marca": "Ferrari"
+    },
+    {
+      "vehicleId": "ferrari-488-gtb-3-9-v8-670cv-2019-gasolina",
+      "fipeCodigo": "031037-9",
+      "displayName": "Ferrari 488 GTB 3.9 V8 670cv",
+      "valorAtual": 3174692,
+      "canonicalPath": "/fipe/ferrari/488-gtb-3-9-v8-670cv-2019-031037-9/",
+      "ano": 2019,
+      "marca": "Ferrari"
+    },
+    {
+      "vehicleId": "ferrari-488-spider-3-9-v8-670cv-2019-gasolina",
+      "fipeCodigo": "031039-5",
+      "displayName": "Ferrari 488 Spider 3.9 V8 670cv",
+      "valorAtual": 3488894,
+      "canonicalPath": "/fipe/ferrari/488-spider-3-9-v8-670cv-2019-031039-5/",
+      "ano": 2019,
+      "marca": "Ferrari"
+    },
+    {
+      "vehicleId": "ferrari-488-pista-3-9-v8-720cv-2019-gasolina",
+      "fipeCodigo": "031046-8",
+      "displayName": "Ferrari 488 Pista 3.9 V8 720cv",
+      "valorAtual": 5430787,
+      "canonicalPath": "/fipe/ferrari/488-pista-3-9-v8-720cv-2019-031046-8/",
+      "ano": 2019,
+      "marca": "Ferrari"
+    },
+    {
+      "vehicleId": "ferrari-488-gtb-3-9-v8-670cv-2018-gasolina",
+      "fipeCodigo": "031037-9",
+      "displayName": "Ferrari 488 GTB 3.9 V8 670cv",
+      "valorAtual": 3065182,
+      "canonicalPath": "/fipe/ferrari/488-gtb-3-9-v8-670cv-2018-031037-9/",
+      "ano": 2018,
+      "marca": "Ferrari"
+    },
+    {
+      "vehicleId": "ferrari-488-spider-3-9-v8-670cv-2018-gasolina",
+      "fipeCodigo": "031039-5",
+      "displayName": "Ferrari 488 Spider 3.9 V8 670cv",
+      "valorAtual": 3403799,
+      "canonicalPath": "/fipe/ferrari/488-spider-3-9-v8-670cv-2018-031039-5/",
+      "ano": 2018,
+      "marca": "Ferrari"
+    },
+    {
+      "vehicleId": "ferrari-488-gtb-3-9-v8-670cv-2017-gasolina",
+      "fipeCodigo": "031037-9",
+      "displayName": "Ferrari 488 GTB 3.9 V8 670cv",
+      "valorAtual": 2990421,
+      "canonicalPath": "/fipe/ferrari/488-gtb-3-9-v8-670cv-2017-031037-9/",
+      "ano": 2017,
+      "marca": "Ferrari"
+    },
+    {
+      "vehicleId": "ferrari-488-spider-3-9-v8-670cv-2017-gasolina",
+      "fipeCodigo": "031039-5",
+      "displayName": "Ferrari 488 Spider 3.9 V8 670cv",
+      "valorAtual": 3000764,
+      "canonicalPath": "/fipe/ferrari/488-spider-3-9-v8-670cv-2017-031039-5/",
+      "ano": 2017,
+      "marca": "Ferrari"
+    },
+    {
+      "vehicleId": "ferrari-488-gtb-3-9-v8-670cv-2016-gasolina",
+      "fipeCodigo": "031037-9",
+      "displayName": "Ferrari 488 GTB 3.9 V8 670cv",
+      "valorAtual": 2651834,
+      "canonicalPath": "/fipe/ferrari/488-gtb-3-9-v8-670cv-2016-031037-9/",
+      "ano": 2016,
+      "marca": "Ferrari"
+    },
+    {
+      "vehicleId": "ferrari-488-spider-3-9-v8-670cv-2016-gasolina",
+      "fipeCodigo": "031039-5",
+      "displayName": "Ferrari 488 Spider 3.9 V8 670cv",
+      "valorAtual": 2910000,
+      "canonicalPath": "/fipe/ferrari/488-spider-3-9-v8-670cv-2016-031039-5/",
+      "ano": 2016,
+      "marca": "Ferrari"
+    }
+  ],
+  "stats": {
+    "total": 11,
+    "precoMin": 2651834,
+    "precoMax": 5598415,
+    "anos": [
+      2020,
+      2019,
+      2018,
+      2017,
+      2016
+    ]
+  }
+}

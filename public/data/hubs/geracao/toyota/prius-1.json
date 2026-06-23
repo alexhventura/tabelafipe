@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "prius-1",
+  "canonicalPath": "/geracao/toyota/prius-1/",
+  "titulo": "Geracao prius-1",
+  "descricao": "2 veiculos da geracao prius-1.",
+  "seo": {
+    "title": "Geracao prius-1 - Precos FIPE",
+    "description": "Veiculos da geracao prius-1 na Tabela FIPE.",
+    "h1": "Geracao prius-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/toyota/prius-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "toyota-prius-1-8-16v-5p-aut-hibrido-2012-hibrido",
+      "fipeCodigo": "002129-6",
+      "displayName": "Toyota PRIUS 1.8 16V 5p Aut. (Híbrido)",
+      "valorAtual": 47943,
+      "canonicalPath": "/fipe/toyota/prius-1-8-16v-5p-aut-hibrido-2012-002129-6/",
+      "ano": 2012,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-prius-1-8-16v-5p-aut-hibrido-2013-hibrido",
+      "fipeCodigo": "002129-6",
+      "displayName": "Toyota PRIUS 1.8 16V 5p Aut. (Híbrido)",
+      "valorAtual": 50472,
+      "canonicalPath": "/fipe/toyota/prius-1-8-16v-5p-aut-hibrido-2013-002129-6/",
+      "ano": 2013,
+      "marca": "Toyota"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "prius-1"
+  }
+}

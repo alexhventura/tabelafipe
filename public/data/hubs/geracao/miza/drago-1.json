@@ -1,0 +1,48 @@
+{
+  "tipo": "geracao",
+  "slug": "drago-1",
+  "canonicalPath": "/geracao/miza/drago-1/",
+  "titulo": "Geracao drago-1",
+  "descricao": "3 veiculos da geracao drago-1.",
+  "seo": {
+    "title": "Geracao drago-1 - Precos FIPE",
+    "description": "Veiculos da geracao drago-1 na Tabela FIPE.",
+    "h1": "Geracao drago-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/miza/drago-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "miza-drago-lj-150-7-2007-gasolina",
+      "fipeCodigo": "848004-4",
+      "displayName": "MIZA DRAGO LJ 150-7",
+      "valorAtual": 3603,
+      "canonicalPath": "/fipe/miza/drago-lj-150-7-2007-848004-4/",
+      "ano": 2007,
+      "marca": "MIZA"
+    },
+    {
+      "vehicleId": "miza-drago-lj-150-7-2008-gasolina",
+      "fipeCodigo": "848004-4",
+      "displayName": "MIZA DRAGO LJ 150-7",
+      "valorAtual": 3894,
+      "canonicalPath": "/fipe/miza/drago-lj-150-7-2008-848004-4/",
+      "ano": 2008,
+      "marca": "MIZA"
+    },
+    {
+      "vehicleId": "miza-drago-lj-150-7-2009-gasolina",
+      "fipeCodigo": "848004-4",
+      "displayName": "MIZA DRAGO LJ 150-7",
+      "valorAtual": 4210,
+      "canonicalPath": "/fipe/miza/drago-lj-150-7-2009-848004-4/",
+      "ano": 2009,
+      "marca": "MIZA"
+    }
+  ],
+  "stats": {
+    "total": 3
+  },
+  "meta": {
+    "geracaoId": "drago-1"
+  }
+}

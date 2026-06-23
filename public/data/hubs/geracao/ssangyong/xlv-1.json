@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "xlv-1",
+  "canonicalPath": "/geracao/ssangyong/xlv-1/",
+  "titulo": "Geracao xlv-1",
+  "descricao": "2 veiculos da geracao xlv-1.",
+  "seo": {
+    "title": "Geracao xlv-1 - Precos FIPE",
+    "description": "Veiculos da geracao xlv-1 na Tabela FIPE.",
+    "h1": "Geracao xlv-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/ssangyong/xlv-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "ssangyong-xlv-1-6-16v-128cv-aut-2018-gasolina",
+      "fipeCodigo": "055038-8",
+      "displayName": "SSANGYONG XLV 1.6 16V 128cv Aut.",
+      "valorAtual": 80853,
+      "canonicalPath": "/fipe/ssangyong/xlv-1-6-16v-128cv-aut-2018-055038-8/",
+      "ano": 2018,
+      "marca": "SSANGYONG"
+    },
+    {
+      "vehicleId": "ssangyong-xlv-dlx-1-6-16v-128cv-aut-2018-gasolina",
+      "fipeCodigo": "055036-1",
+      "displayName": "SSANGYONG XLV DLX 1.6 16V 128cv Aut.",
+      "valorAtual": 64866,
+      "canonicalPath": "/fipe/ssangyong/xlv-dlx-1-6-16v-128cv-aut-2018-055036-1/",
+      "ano": 2018,
+      "marca": "SSANGYONG"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "xlv-1"
+  }
+}

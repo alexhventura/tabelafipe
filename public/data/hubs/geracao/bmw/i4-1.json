@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "i4-1",
+  "canonicalPath": "/geracao/bmw/i4-1/",
+  "titulo": "Geracao i4-1",
+  "descricao": "2 veiculos da geracao i4-1.",
+  "seo": {
+    "title": "Geracao i4-1 - Precos FIPE",
+    "description": "Veiculos da geracao i4-1 na Tabela FIPE.",
+    "h1": "Geracao i4-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/bmw/i4-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "bmw-i4-m50-eletrico-0-eletrico",
+      "fipeCodigo": "009302-5",
+      "displayName": "BMW i4 M50 (Elétrico)",
+      "valorAtual": 673277,
+      "canonicalPath": "/fipe/bmw/i4-m50-eletrico-0-009302-5/",
+      "ano": 0,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-i4-e-drive-40-m-sport-eletrico-0-eletrico",
+      "fipeCodigo": "009301-7",
+      "displayName": "BMW i4 e-Drive 40 M Sport (Elétrico)",
+      "valorAtual": 582127,
+      "canonicalPath": "/fipe/bmw/i4-e-drive-40-m-sport-eletrico-0-009301-7/",
+      "ano": 0,
+      "marca": "BMW"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "i4-1"
+  }
+}

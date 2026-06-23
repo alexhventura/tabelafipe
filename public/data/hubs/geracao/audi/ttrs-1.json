@@ -1,0 +1,75 @@
+{
+  "tipo": "geracao",
+  "slug": "ttrs-1",
+  "canonicalPath": "/geracao/audi/ttrs-1/",
+  "titulo": "Geracao ttrs-1",
+  "descricao": "6 veiculos da geracao ttrs-1.",
+  "seo": {
+    "title": "Geracao ttrs-1 - Precos FIPE",
+    "description": "Veiculos da geracao ttrs-1 na Tabela FIPE.",
+    "h1": "Geracao ttrs-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/audi/ttrs-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "audi-ttrs-2-5-tfsi-quattro-s-tronic-2012-gasolina",
+      "fipeCodigo": "008176-0",
+      "displayName": "Audi TTRS 2.5 TFSI QUATTRO S Tronic",
+      "valorAtual": 249210,
+      "canonicalPath": "/fipe/audi/ttrs-2-5-tfsi-quattro-s-tronic-2012-008176-0/",
+      "ano": 2012,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-ttrs-2-5-tfsi-quattro-s-tronic-2013-gasolina",
+      "fipeCodigo": "008176-0",
+      "displayName": "Audi TTRS 2.5 TFSI QUATTRO S Tronic",
+      "valorAtual": 255441,
+      "canonicalPath": "/fipe/audi/ttrs-2-5-tfsi-quattro-s-tronic-2013-008176-0/",
+      "ano": 2013,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-ttrs-2-5-tfsi-quattro-s-tronic-2014-gasolina",
+      "fipeCodigo": "008176-0",
+      "displayName": "Audi TTRS 2.5 TFSI QUATTRO S Tronic",
+      "valorAtual": 265081,
+      "canonicalPath": "/fipe/audi/ttrs-2-5-tfsi-quattro-s-tronic-2014-008176-0/",
+      "ano": 2014,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-ttrs-roadster-2-5-tb-fsi-quat-s-tronic-2012-gasolina",
+      "fipeCodigo": "008175-2",
+      "displayName": "Audi TTRS Roadster 2.5 TB FSI Quat. S Tronic",
+      "valorAtual": 244760,
+      "canonicalPath": "/fipe/audi/ttrs-roadster-2-5-tb-fsi-quat-s-tronic-2012-008175-2/",
+      "ano": 2012,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-ttrs-roadster-2-5-tb-fsi-quat-s-tronic-2013-gasolina",
+      "fipeCodigo": "008175-2",
+      "displayName": "Audi TTRS Roadster 2.5 TB FSI Quat. S Tronic",
+      "valorAtual": 258799,
+      "canonicalPath": "/fipe/audi/ttrs-roadster-2-5-tb-fsi-quat-s-tronic-2013-008175-2/",
+      "ano": 2013,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-ttrs-roadster-2-5-tb-fsi-quat-s-tronic-2014-gasolina",
+      "fipeCodigo": "008175-2",
+      "displayName": "Audi TTRS Roadster 2.5 TB FSI Quat. S Tronic",
+      "valorAtual": 269857,
+      "canonicalPath": "/fipe/audi/ttrs-roadster-2-5-tb-fsi-quat-s-tronic-2014-008175-2/",
+      "ano": 2014,
+      "marca": "Audi"
+    }
+  ],
+  "stats": {
+    "total": 6
+  },
+  "meta": {
+    "geracaoId": "ttrs-1"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "tipo": "geracao",
+  "slug": "oroch-1",
+  "canonicalPath": "/geracao/renault/oroch-1/",
+  "titulo": "Geracao oroch-1",
+  "descricao": "4 veiculos da geracao oroch-1.",
+  "seo": {
+    "title": "Geracao oroch-1 - Precos FIPE",
+    "description": "Veiculos da geracao oroch-1 na Tabela FIPE.",
+    "h1": "Geracao oroch-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/renault/oroch-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "renault-oroch-iconic-1-6-flex-16v-mec-0-flex",
+      "fipeCodigo": "025330-8",
+      "displayName": "Renault OROCH Iconic 1.6 Flex 16V Mec.",
+      "valorAtual": 139359,
+      "canonicalPath": "/fipe/renault/oroch-iconic-1-6-flex-16v-mec-0-025330-8/",
+      "ano": 0,
+      "marca": "Renault"
+    },
+    {
+      "vehicleId": "renault-oroch-intense-1-6-flex-16v-mec-0-flex",
+      "fipeCodigo": "025312-0",
+      "displayName": "Renault OROCH Intense 1.6 Flex 16V Mec.",
+      "valorAtual": 132515,
+      "canonicalPath": "/fipe/renault/oroch-intense-1-6-flex-16v-mec-0-025312-0/",
+      "ano": 0,
+      "marca": "Renault"
+    },
+    {
+      "vehicleId": "renault-oroch-outsider-1-3tce-flex-aut-0-flex",
+      "fipeCodigo": "025311-1",
+      "displayName": "Renault OROCH Outsider 1.3Tce Flex Aut.",
+      "valorAtual": 137025,
+      "canonicalPath": "/fipe/renault/oroch-outsider-1-3tce-flex-aut-0-025311-1/",
+      "ano": 0,
+      "marca": "Renault"
+    },
+    {
+      "vehicleId": "renault-oroch-pro-1-6-flex-16v-mec-0-flex",
+      "fipeCodigo": "025313-8",
+      "displayName": "Renault OROCH Pro 1.6 Flex 16V Mec.",
+      "valorAtual": 122323,
+      "canonicalPath": "/fipe/renault/oroch-pro-1-6-flex-16v-mec-0-025313-8/",
+      "ano": 0,
+      "marca": "Renault"
+    }
+  ],
+  "stats": {
+    "total": 4
+  },
+  "meta": {
+    "geracaoId": "oroch-1"
+  }
+}

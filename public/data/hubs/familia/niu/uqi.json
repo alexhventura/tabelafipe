@@ -1,0 +1,72 @@
+{
+  "tipo": "familia",
+  "slug": "uqi",
+  "canonicalPath": "/fipe/niu/uqi/",
+  "titulo": "NIU uqi - Tabela FIPE",
+  "descricao": "5 versoes e anos do NIU uqi na Tabela FIPE.",
+  "seo": {
+    "title": "NIU uqi - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes NIU uqi. 5 veiculos indexados.",
+    "h1": "NIU uqi - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/niu/uqi/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "niu-uqi-gt-1200w-eletrica-2024-eletrico",
+      "fipeCodigo": "893001-5",
+      "displayName": "NIU UQI GT 1200W (Elétrica)",
+      "valorAtual": 17583,
+      "canonicalPath": "/fipe/niu/uqi-gt-1200w-eletrica-2024-893001-5/",
+      "ano": 2024,
+      "marca": "NIU"
+    },
+    {
+      "vehicleId": "niu-uqi-gt-1200w-eletrica-2023-eletrico",
+      "fipeCodigo": "893001-5",
+      "displayName": "NIU UQI GT 1200W (Elétrica)",
+      "valorAtual": 16926,
+      "canonicalPath": "/fipe/niu/uqi-gt-1200w-eletrica-2023-893001-5/",
+      "ano": 2023,
+      "marca": "NIU"
+    },
+    {
+      "vehicleId": "niu-uqi-gt-1200w-eletrica-2022-eletrico",
+      "fipeCodigo": "893001-5",
+      "displayName": "NIU UQI GT 1200W (Elétrica)",
+      "valorAtual": 15654,
+      "canonicalPath": "/fipe/niu/uqi-gt-1200w-eletrica-2022-893001-5/",
+      "ano": 2022,
+      "marca": "NIU"
+    },
+    {
+      "vehicleId": "niu-uqi-gt-1200w-eletrica-2021-eletrico",
+      "fipeCodigo": "893001-5",
+      "displayName": "NIU UQI GT 1200W (Elétrica)",
+      "valorAtual": 14320,
+      "canonicalPath": "/fipe/niu/uqi-gt-1200w-eletrica-2021-893001-5/",
+      "ano": 2021,
+      "marca": "NIU"
+    },
+    {
+      "vehicleId": "niu-uqi-gt-1200w-eletrica-0-eletrico",
+      "fipeCodigo": "893001-5",
+      "displayName": "NIU UQI GT 1200W (Elétrica)",
+      "valorAtual": 19654,
+      "canonicalPath": "/fipe/niu/uqi-gt-1200w-eletrica-0-893001-5/",
+      "ano": 0,
+      "marca": "NIU"
+    }
+  ],
+  "stats": {
+    "total": 5,
+    "precoMin": 14320,
+    "precoMax": 19654,
+    "anos": [
+      2024,
+      2023,
+      2022,
+      2021,
+      0
+    ]
+  }
+}

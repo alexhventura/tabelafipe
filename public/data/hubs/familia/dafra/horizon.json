@@ -1,0 +1,140 @@
+{
+  "tipo": "familia",
+  "slug": "horizon",
+  "canonicalPath": "/fipe/dafra/horizon/",
+  "titulo": "DAFRA horizon - Tabela FIPE",
+  "descricao": "12 versoes e anos do DAFRA horizon na Tabela FIPE.",
+  "seo": {
+    "title": "DAFRA horizon - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes DAFRA horizon. 12 veiculos indexados.",
+    "h1": "DAFRA horizon - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/dafra/horizon/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "dafra-horizon-150-2022-gasolina",
+      "fipeCodigo": "861021-5",
+      "displayName": "DAFRA HORIZON 150",
+      "valorAtual": 11374,
+      "canonicalPath": "/fipe/dafra/horizon-150-2022-861021-5/",
+      "ano": 2022,
+      "marca": "DAFRA"
+    },
+    {
+      "vehicleId": "dafra-horizon-150-2021-gasolina",
+      "fipeCodigo": "861021-5",
+      "displayName": "DAFRA HORIZON 150",
+      "valorAtual": 11096,
+      "canonicalPath": "/fipe/dafra/horizon-150-2021-861021-5/",
+      "ano": 2021,
+      "marca": "DAFRA"
+    },
+    {
+      "vehicleId": "dafra-horizon-150-2020-gasolina",
+      "fipeCodigo": "861021-5",
+      "displayName": "DAFRA HORIZON 150",
+      "valorAtual": 10198,
+      "canonicalPath": "/fipe/dafra/horizon-150-2020-861021-5/",
+      "ano": 2020,
+      "marca": "DAFRA"
+    },
+    {
+      "vehicleId": "dafra-horizon-150-2019-gasolina",
+      "fipeCodigo": "861021-5",
+      "displayName": "DAFRA HORIZON 150",
+      "valorAtual": 9944,
+      "canonicalPath": "/fipe/dafra/horizon-150-2019-861021-5/",
+      "ano": 2019,
+      "marca": "DAFRA"
+    },
+    {
+      "vehicleId": "dafra-horizon-150-2018-gasolina",
+      "fipeCodigo": "861021-5",
+      "displayName": "DAFRA HORIZON 150",
+      "valorAtual": 8527,
+      "canonicalPath": "/fipe/dafra/horizon-150-2018-861021-5/",
+      "ano": 2018,
+      "marca": "DAFRA"
+    },
+    {
+      "vehicleId": "dafra-horizon-150-2017-gasolina",
+      "fipeCodigo": "861021-5",
+      "displayName": "DAFRA HORIZON 150",
+      "valorAtual": 8193,
+      "canonicalPath": "/fipe/dafra/horizon-150-2017-861021-5/",
+      "ano": 2017,
+      "marca": "DAFRA"
+    },
+    {
+      "vehicleId": "dafra-horizon-250-2017-gasolina",
+      "fipeCodigo": "861018-5",
+      "displayName": "DAFRA HORIZON 250",
+      "valorAtual": 16448,
+      "canonicalPath": "/fipe/dafra/horizon-250-2017-861018-5/",
+      "ano": 2017,
+      "marca": "DAFRA"
+    },
+    {
+      "vehicleId": "dafra-horizon-150-2016-gasolina",
+      "fipeCodigo": "861021-5",
+      "displayName": "DAFRA HORIZON 150",
+      "valorAtual": 7110,
+      "canonicalPath": "/fipe/dafra/horizon-150-2016-861021-5/",
+      "ano": 2016,
+      "marca": "DAFRA"
+    },
+    {
+      "vehicleId": "dafra-horizon-250-2016-gasolina",
+      "fipeCodigo": "861018-5",
+      "displayName": "DAFRA HORIZON 250",
+      "valorAtual": 14466,
+      "canonicalPath": "/fipe/dafra/horizon-250-2016-861018-5/",
+      "ano": 2016,
+      "marca": "DAFRA"
+    },
+    {
+      "vehicleId": "dafra-horizon-250-2015-gasolina",
+      "fipeCodigo": "861018-5",
+      "displayName": "DAFRA HORIZON 250",
+      "valorAtual": 14113,
+      "canonicalPath": "/fipe/dafra/horizon-250-2015-861018-5/",
+      "ano": 2015,
+      "marca": "DAFRA"
+    },
+    {
+      "vehicleId": "dafra-horizon-250-2014-gasolina",
+      "fipeCodigo": "861018-5",
+      "displayName": "DAFRA HORIZON 250",
+      "valorAtual": 13768,
+      "canonicalPath": "/fipe/dafra/horizon-250-2014-861018-5/",
+      "ano": 2014,
+      "marca": "DAFRA"
+    },
+    {
+      "vehicleId": "dafra-horizon-250-2013-gasolina",
+      "fipeCodigo": "861018-5",
+      "displayName": "DAFRA HORIZON 250",
+      "valorAtual": 10644,
+      "canonicalPath": "/fipe/dafra/horizon-250-2013-861018-5/",
+      "ano": 2013,
+      "marca": "DAFRA"
+    }
+  ],
+  "stats": {
+    "total": 12,
+    "precoMin": 7110,
+    "precoMax": 16448,
+    "anos": [
+      2022,
+      2021,
+      2020,
+      2019,
+      2018,
+      2017,
+      2016,
+      2015,
+      2014,
+      2013
+    ]
+  }
+}

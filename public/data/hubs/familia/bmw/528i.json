@@ -1,0 +1,72 @@
+{
+  "tipo": "familia",
+  "slug": "528i",
+  "canonicalPath": "/fipe/bmw/528i/",
+  "titulo": "BMW 528i - Tabela FIPE",
+  "descricao": "5 versoes e anos do BMW 528i na Tabela FIPE.",
+  "seo": {
+    "title": "BMW 528i - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes BMW 528i. 5 veiculos indexados.",
+    "h1": "BMW 528i - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/bmw/528i/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "bmw-528i-ia-2000-gasolina",
+      "fipeCodigo": "009008-5",
+      "displayName": "BMW 528i/iA",
+      "valorAtual": 33233,
+      "canonicalPath": "/fipe/bmw/528i-ia-2000-009008-5/",
+      "ano": 2000,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-528i-ia-1999-gasolina",
+      "fipeCodigo": "009008-5",
+      "displayName": "BMW 528i/iA",
+      "valorAtual": 31404,
+      "canonicalPath": "/fipe/bmw/528i-ia-1999-009008-5/",
+      "ano": 1999,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-528i-ia-1998-gasolina",
+      "fipeCodigo": "009008-5",
+      "displayName": "BMW 528i/iA",
+      "valorAtual": 29869,
+      "canonicalPath": "/fipe/bmw/528i-ia-1998-009008-5/",
+      "ano": 1998,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-528i-ia-1997-gasolina",
+      "fipeCodigo": "009008-5",
+      "displayName": "BMW 528i/iA",
+      "valorAtual": 27307,
+      "canonicalPath": "/fipe/bmw/528i-ia-1997-009008-5/",
+      "ano": 1997,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-528i-ia-1996-gasolina",
+      "fipeCodigo": "009008-5",
+      "displayName": "BMW 528i/iA",
+      "valorAtual": 24775,
+      "canonicalPath": "/fipe/bmw/528i-ia-1996-009008-5/",
+      "ano": 1996,
+      "marca": "BMW"
+    }
+  ],
+  "stats": {
+    "total": 5,
+    "precoMin": 24775,
+    "precoMax": 33233,
+    "anos": [
+      2000,
+      1999,
+      1998,
+      1997,
+      1996
+    ]
+  }
+}

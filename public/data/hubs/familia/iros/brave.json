@@ -1,0 +1,97 @@
+{
+  "tipo": "familia",
+  "slug": "brave",
+  "canonicalPath": "/fipe/iros/brave/",
+  "titulo": "IROS brave - Tabela FIPE",
+  "descricao": "8 versoes e anos do IROS brave na Tabela FIPE.",
+  "seo": {
+    "title": "IROS brave - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes IROS brave. 8 veiculos indexados.",
+    "h1": "IROS brave - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/iros/brave/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "iros-brave-70-quadriciclo-2011-gasolina",
+      "fipeCodigo": "867010-2",
+      "displayName": "IROS Brave 70  QUADRICICLO",
+      "valorAtual": 3145,
+      "canonicalPath": "/fipe/iros/brave-70-quadriciclo-2011-867010-2/",
+      "ano": 2011,
+      "marca": "IROS"
+    },
+    {
+      "vehicleId": "iros-brave-150-quadriciclo-2011-gasolina",
+      "fipeCodigo": "867011-0",
+      "displayName": "IROS Brave 150 QUADRICICLO",
+      "valorAtual": 4549,
+      "canonicalPath": "/fipe/iros/brave-150-quadriciclo-2011-867011-0/",
+      "ano": 2011,
+      "marca": "IROS"
+    },
+    {
+      "vehicleId": "iros-brave-70-quadriciclo-2010-gasolina",
+      "fipeCodigo": "867010-2",
+      "displayName": "IROS Brave 70  QUADRICICLO",
+      "valorAtual": 2908,
+      "canonicalPath": "/fipe/iros/brave-70-quadriciclo-2010-867010-2/",
+      "ano": 2010,
+      "marca": "IROS"
+    },
+    {
+      "vehicleId": "iros-brave-150-quadriciclo-2010-gasolina",
+      "fipeCodigo": "867011-0",
+      "displayName": "IROS Brave 150 QUADRICICLO",
+      "valorAtual": 4425,
+      "canonicalPath": "/fipe/iros/brave-150-quadriciclo-2010-867011-0/",
+      "ano": 2010,
+      "marca": "IROS"
+    },
+    {
+      "vehicleId": "iros-brave-450-quadriciclo-2010-gasolina",
+      "fipeCodigo": "867012-9",
+      "displayName": "IROS Brave 450 QUADRICICLO",
+      "valorAtual": 13498,
+      "canonicalPath": "/fipe/iros/brave-450-quadriciclo-2010-867012-9/",
+      "ano": 2010,
+      "marca": "IROS"
+    },
+    {
+      "vehicleId": "iros-brave-70-quadriciclo-2009-gasolina",
+      "fipeCodigo": "867010-2",
+      "displayName": "IROS Brave 70  QUADRICICLO",
+      "valorAtual": 2802,
+      "canonicalPath": "/fipe/iros/brave-70-quadriciclo-2009-867010-2/",
+      "ano": 2009,
+      "marca": "IROS"
+    },
+    {
+      "vehicleId": "iros-brave-150-quadriciclo-2009-gasolina",
+      "fipeCodigo": "867011-0",
+      "displayName": "IROS Brave 150 QUADRICICLO",
+      "valorAtual": 3998,
+      "canonicalPath": "/fipe/iros/brave-150-quadriciclo-2009-867011-0/",
+      "ano": 2009,
+      "marca": "IROS"
+    },
+    {
+      "vehicleId": "iros-brave-450-quadriciclo-2009-gasolina",
+      "fipeCodigo": "867012-9",
+      "displayName": "IROS Brave 450 QUADRICICLO",
+      "valorAtual": 12092,
+      "canonicalPath": "/fipe/iros/brave-450-quadriciclo-2009-867012-9/",
+      "ano": 2009,
+      "marca": "IROS"
+    }
+  ],
+  "stats": {
+    "total": 8,
+    "precoMin": 2802,
+    "precoMax": 13498,
+    "anos": [
+      2011,
+      2010,
+      2009
+    ]
+  }
+}

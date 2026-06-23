@@ -1,0 +1,152 @@
+{
+  "tipo": "familia",
+  "slug": "rmx",
+  "canonicalPath": "/fipe/suzuki/rmx/",
+  "titulo": "SUZUKI rmx - Tabela FIPE",
+  "descricao": "13 versoes e anos do SUZUKI rmx na Tabela FIPE.",
+  "seo": {
+    "title": "SUZUKI rmx - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes SUZUKI rmx. 13 veiculos indexados.",
+    "h1": "SUZUKI rmx - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/suzuki/rmx/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "suzuki-rmx-250-2002-gasolina",
+      "fipeCodigo": "825029-4",
+      "displayName": "SUZUKI RMX 250",
+      "valorAtual": 12439,
+      "canonicalPath": "/fipe/suzuki/rmx-250-2002-825029-4/",
+      "ano": 2002,
+      "marca": "SUZUKI"
+    },
+    {
+      "vehicleId": "suzuki-rmx-250-2001-gasolina",
+      "fipeCodigo": "825029-4",
+      "displayName": "SUZUKI RMX 250",
+      "valorAtual": 12135,
+      "canonicalPath": "/fipe/suzuki/rmx-250-2001-825029-4/",
+      "ano": 2001,
+      "marca": "SUZUKI"
+    },
+    {
+      "vehicleId": "suzuki-rmx-250-2000-gasolina",
+      "fipeCodigo": "825029-4",
+      "displayName": "SUZUKI RMX 250",
+      "valorAtual": 11354,
+      "canonicalPath": "/fipe/suzuki/rmx-250-2000-825029-4/",
+      "ano": 2000,
+      "marca": "SUZUKI"
+    },
+    {
+      "vehicleId": "suzuki-rmx-250-1999-gasolina",
+      "fipeCodigo": "825029-4",
+      "displayName": "SUZUKI RMX 250",
+      "valorAtual": 10116,
+      "canonicalPath": "/fipe/suzuki/rmx-250-1999-825029-4/",
+      "ano": 1999,
+      "marca": "SUZUKI"
+    },
+    {
+      "vehicleId": "suzuki-rmx-250-1998-gasolina",
+      "fipeCodigo": "825029-4",
+      "displayName": "SUZUKI RMX 250",
+      "valorAtual": 9869,
+      "canonicalPath": "/fipe/suzuki/rmx-250-1998-825029-4/",
+      "ano": 1998,
+      "marca": "SUZUKI"
+    },
+    {
+      "vehicleId": "suzuki-rmx-250-1997-gasolina",
+      "fipeCodigo": "825029-4",
+      "displayName": "SUZUKI RMX 250",
+      "valorAtual": 9628,
+      "canonicalPath": "/fipe/suzuki/rmx-250-1997-825029-4/",
+      "ano": 1997,
+      "marca": "SUZUKI"
+    },
+    {
+      "vehicleId": "suzuki-rmx-250-1996-gasolina",
+      "fipeCodigo": "825029-4",
+      "displayName": "SUZUKI RMX 250",
+      "valorAtual": 9393,
+      "canonicalPath": "/fipe/suzuki/rmx-250-1996-825029-4/",
+      "ano": 1996,
+      "marca": "SUZUKI"
+    },
+    {
+      "vehicleId": "suzuki-rmx-250-1995-gasolina",
+      "fipeCodigo": "825029-4",
+      "displayName": "SUZUKI RMX 250",
+      "valorAtual": 8293,
+      "canonicalPath": "/fipe/suzuki/rmx-250-1995-825029-4/",
+      "ano": 1995,
+      "marca": "SUZUKI"
+    },
+    {
+      "vehicleId": "suzuki-rmx-250-1994-gasolina",
+      "fipeCodigo": "825029-4",
+      "displayName": "SUZUKI RMX 250",
+      "valorAtual": 7174,
+      "canonicalPath": "/fipe/suzuki/rmx-250-1994-825029-4/",
+      "ano": 1994,
+      "marca": "SUZUKI"
+    },
+    {
+      "vehicleId": "suzuki-rmx-250-1993-gasolina",
+      "fipeCodigo": "825029-4",
+      "displayName": "SUZUKI RMX 250",
+      "valorAtual": 6937,
+      "canonicalPath": "/fipe/suzuki/rmx-250-1993-825029-4/",
+      "ano": 1993,
+      "marca": "SUZUKI"
+    },
+    {
+      "vehicleId": "suzuki-rmx-250-1992-gasolina",
+      "fipeCodigo": "825029-4",
+      "displayName": "SUZUKI RMX 250",
+      "valorAtual": 5482,
+      "canonicalPath": "/fipe/suzuki/rmx-250-1992-825029-4/",
+      "ano": 1992,
+      "marca": "SUZUKI"
+    },
+    {
+      "vehicleId": "suzuki-rmx-250-1991-gasolina",
+      "fipeCodigo": "825029-4",
+      "displayName": "SUZUKI RMX 250",
+      "valorAtual": 4127,
+      "canonicalPath": "/fipe/suzuki/rmx-250-1991-825029-4/",
+      "ano": 1991,
+      "marca": "SUZUKI"
+    },
+    {
+      "vehicleId": "suzuki-rmx-250-1990-gasolina",
+      "fipeCodigo": "825029-4",
+      "displayName": "SUZUKI RMX 250",
+      "valorAtual": 3449,
+      "canonicalPath": "/fipe/suzuki/rmx-250-1990-825029-4/",
+      "ano": 1990,
+      "marca": "SUZUKI"
+    }
+  ],
+  "stats": {
+    "total": 13,
+    "precoMin": 3449,
+    "precoMax": 12439,
+    "anos": [
+      2002,
+      2001,
+      2000,
+      1999,
+      1998,
+      1997,
+      1996,
+      1995,
+      1994,
+      1993,
+      1992,
+      1991,
+      1990
+    ]
+  }
+}

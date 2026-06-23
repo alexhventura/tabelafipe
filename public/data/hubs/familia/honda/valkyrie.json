@@ -1,0 +1,42 @@
+{
+  "tipo": "familia",
+  "slug": "valkyrie",
+  "canonicalPath": "/fipe/honda/valkyrie/",
+  "titulo": "HONDA valkyrie - Tabela FIPE",
+  "descricao": "2 versoes e anos do HONDA valkyrie na Tabela FIPE.",
+  "seo": {
+    "title": "HONDA valkyrie - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes HONDA valkyrie. 2 veiculos indexados.",
+    "h1": "HONDA valkyrie - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/honda/valkyrie/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "honda-valkyrie-1500-1998-gasolina",
+      "fipeCodigo": "811037-9",
+      "displayName": "HONDA VALKYRIE 1500",
+      "valorAtual": 81194,
+      "canonicalPath": "/fipe/honda/valkyrie-1500-1998-811037-9/",
+      "ano": 1998,
+      "marca": "HONDA"
+    },
+    {
+      "vehicleId": "honda-valkyrie-1500-1997-gasolina",
+      "fipeCodigo": "811037-9",
+      "displayName": "HONDA VALKYRIE 1500",
+      "valorAtual": 73132,
+      "canonicalPath": "/fipe/honda/valkyrie-1500-1997-811037-9/",
+      "ano": 1997,
+      "marca": "HONDA"
+    }
+  ],
+  "stats": {
+    "total": 2,
+    "precoMin": 73132,
+    "precoMax": 81194,
+    "anos": [
+      1998,
+      1997
+    ]
+  }
+}

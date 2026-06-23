@@ -1,0 +1,111 @@
+{
+  "tipo": "geracao",
+  "slug": "rs-3",
+  "canonicalPath": "/geracao/audi/rs-3/",
+  "titulo": "Geracao rs-3",
+  "descricao": "10 veiculos da geracao rs-3.",
+  "seo": {
+    "title": "Geracao rs-3 - Precos FIPE",
+    "description": "Veiculos da geracao rs-3 na Tabela FIPE.",
+    "h1": "Geracao rs-3",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/audi/rs-3/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "audi-rs-e-tron-gt-quattro-aut-eletrico-2022-eletrico",
+      "fipeCodigo": "008274-0",
+      "displayName": "Audi RS E-TRON GT Quattro Aut. (Elétrico)",
+      "valorAtual": 458826,
+      "canonicalPath": "/fipe/audi/rs-e-tron-gt-quattro-aut-eletrico-2022-008274-0/",
+      "ano": 2022,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-rs-e-tron-gt-quattro-aut-eletrico-2023-eletrico",
+      "fipeCodigo": "008274-0",
+      "displayName": "Audi RS E-TRON GT Quattro Aut. (Elétrico)",
+      "valorAtual": 646983,
+      "canonicalPath": "/fipe/audi/rs-e-tron-gt-quattro-aut-eletrico-2023-008274-0/",
+      "ano": 2023,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-rs-e-tron-gt-quattro-aut-eletrico-2024-eletrico",
+      "fipeCodigo": "008274-0",
+      "displayName": "Audi RS E-TRON GT Quattro Aut. (Elétrico)",
+      "valorAtual": 956344,
+      "canonicalPath": "/fipe/audi/rs-e-tron-gt-quattro-aut-eletrico-2024-008274-0/",
+      "ano": 2024,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-rs-q3-2-5-tfsi-quattro-s-tronic-5p-2021-gasolina",
+      "fipeCodigo": "008193-0",
+      "displayName": "Audi RS Q3 2.5 TFSI Quattro S-tronic 5p",
+      "valorAtual": 373945,
+      "canonicalPath": "/fipe/audi/rs-q3-2-5-tfsi-quattro-s-tronic-5p-2021-008193-0/",
+      "ano": 2021,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-rs-q3-2-5-tfsi-quattro-s-tronic-5p-2022-gasolina",
+      "fipeCodigo": "008193-0",
+      "displayName": "Audi RS Q3 2.5 TFSI Quattro S-tronic 5p",
+      "valorAtual": 405231,
+      "canonicalPath": "/fipe/audi/rs-q3-2-5-tfsi-quattro-s-tronic-5p-2022-008193-0/",
+      "ano": 2022,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-rs-q3-sportback-2-5-tfsi-quattro-s-tron-2021-gasolina",
+      "fipeCodigo": "008265-1",
+      "displayName": "Audi RS Q3 Sportback 2.5 TFSI Quattro S-tron.",
+      "valorAtual": 395197,
+      "canonicalPath": "/fipe/audi/rs-q3-sportback-2-5-tfsi-quattro-s-tron-2021-008265-1/",
+      "ano": 2021,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-rs-q3-sportback-2-5-tfsi-quattro-s-tron-2022-gasolina",
+      "fipeCodigo": "008265-1",
+      "displayName": "Audi RS Q3 Sportback 2.5 TFSI Quattro S-tron.",
+      "valorAtual": 407646,
+      "canonicalPath": "/fipe/audi/rs-q3-sportback-2-5-tfsi-quattro-s-tron-2022-008265-1/",
+      "ano": 2022,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-rs-q8-4-0-bi-tb-v8-fsi-quattro-tiptronic-2021-gasolina",
+      "fipeCodigo": "008262-7",
+      "displayName": "Audi RS Q8 4.0 Bi-TB V8 FSI Quattro Tiptronic",
+      "valorAtual": 710296,
+      "canonicalPath": "/fipe/audi/rs-q8-4-0-bi-tb-v8-fsi-quattro-tiptronic-2021-008262-7/",
+      "ano": 2021,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-rs-q8-4-0-bi-tb-v8-fsi-quattro-tiptronic-2022-gasolina",
+      "fipeCodigo": "008262-7",
+      "displayName": "Audi RS Q8 4.0 Bi-TB V8 FSI Quattro Tiptronic",
+      "valorAtual": 844125,
+      "canonicalPath": "/fipe/audi/rs-q8-4-0-bi-tb-v8-fsi-quattro-tiptronic-2022-008262-7/",
+      "ano": 2022,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-rs-q8-4-0-bi-tb-v8-fsi-quattro-tiptronic-2023-gasolina",
+      "fipeCodigo": "008262-7",
+      "displayName": "Audi RS Q8 4.0 Bi-TB V8 FSI Quattro Tiptronic",
+      "valorAtual": 867054,
+      "canonicalPath": "/fipe/audi/rs-q8-4-0-bi-tb-v8-fsi-quattro-tiptronic-2023-008262-7/",
+      "ano": 2023,
+      "marca": "Audi"
+    }
+  ],
+  "stats": {
+    "total": 10
+  },
+  "meta": {
+    "geracaoId": "rs-3"
+  }
+}

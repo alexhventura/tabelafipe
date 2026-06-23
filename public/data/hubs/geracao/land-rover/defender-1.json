@@ -1,0 +1,57 @@
+{
+  "tipo": "geracao",
+  "slug": "defender-1",
+  "canonicalPath": "/geracao/land-rover/defender-1/",
+  "titulo": "Geracao defender-1",
+  "descricao": "4 veiculos da geracao defender-1.",
+  "seo": {
+    "title": "Geracao defender-1 - Precos FIPE",
+    "description": "Veiculos da geracao defender-1 na Tabela FIPE.",
+    "h1": "Geracao defender-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/land-rover/defender-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "land-rover-defender-110-trophy-edition-3-0-d350-4x4-aut-0-hibrido",
+      "fipeCodigo": "033247-0",
+      "displayName": "Land Rover Defender 110 TROPHY Edition 3.0 D350 4X4 Aut.",
+      "valorAtual": 904770,
+      "canonicalPath": "/fipe/land-rover/defender-110-trophy-edition-3-0-d350-4x4-aut-0-033247-0/",
+      "ano": 0,
+      "marca": "Land Rover"
+    },
+    {
+      "vehicleId": "land-rover-defender-110-x-d350-die-aut-hib-0-hibrido",
+      "fipeCodigo": "033239-9",
+      "displayName": "Land Rover Defender 110 X D350  Die. Aut. (Híb.)",
+      "valorAtual": 913389,
+      "canonicalPath": "/fipe/land-rover/defender-110-x-d350-die-aut-hib-0-033239-9/",
+      "ano": 0,
+      "marca": "Land Rover"
+    },
+    {
+      "vehicleId": "land-rover-defender-130-x-3-0-i6-d350-aut-hibrido-0-hibrido",
+      "fipeCodigo": "033238-0",
+      "displayName": "Land Rover Defender 130 X 3.0 I6 D350.Aut.(Hibrido)",
+      "valorAtual": 975615,
+      "canonicalPath": "/fipe/land-rover/defender-130-x-3-0-i6-d350-aut-hibrido-0-033238-0/",
+      "ano": 0,
+      "marca": "Land Rover"
+    },
+    {
+      "vehicleId": "land-rover-defender-130-x-3-0-i6-die-aut-hibrido-0-hibrido",
+      "fipeCodigo": "033213-5",
+      "displayName": "Land Rover Defender 130 X 3.0 I6 Die.Aut.(Hibrido)",
+      "valorAtual": 904775,
+      "canonicalPath": "/fipe/land-rover/defender-130-x-3-0-i6-die-aut-hibrido-0-033213-5/",
+      "ano": 0,
+      "marca": "Land Rover"
+    }
+  ],
+  "stats": {
+    "total": 4
+  },
+  "meta": {
+    "geracaoId": "defender-1"
+  }
+}

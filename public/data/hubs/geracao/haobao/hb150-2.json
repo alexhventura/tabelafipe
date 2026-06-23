@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "hb150-2",
+  "canonicalPath": "/geracao/haobao/hb150-2/",
+  "titulo": "Geracao hb150-2",
+  "descricao": "2 veiculos da geracao hb150-2.",
+  "seo": {
+    "title": "Geracao hb150-2 - Precos FIPE",
+    "description": "Veiculos da geracao hb150-2 na Tabela FIPE.",
+    "h1": "Geracao hb150-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/haobao/hb150-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "haobao-hb150-2011-gasolina",
+      "fipeCodigo": "856004-8",
+      "displayName": "HAOBAO HB150",
+      "valorAtual": 2755,
+      "canonicalPath": "/fipe/haobao/hb150-2011-856004-8/",
+      "ano": 2011,
+      "marca": "HAOBAO"
+    },
+    {
+      "vehicleId": "haobao-hb150-t-r5-fearfulspeed-2011-gasolina",
+      "fipeCodigo": "856003-0",
+      "displayName": "HAOBAO HB150-T R5 FEARFULSPEED",
+      "valorAtual": 2883,
+      "canonicalPath": "/fipe/haobao/hb150-t-r5-fearfulspeed-2011-856003-0/",
+      "ano": 2011,
+      "marca": "HAOBAO"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "hb150-2"
+  }
+}

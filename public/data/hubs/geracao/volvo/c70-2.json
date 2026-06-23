@@ -1,0 +1,66 @@
+{
+  "tipo": "geracao",
+  "slug": "c70-2",
+  "canonicalPath": "/geracao/volvo/c70-2/",
+  "titulo": "Geracao c70-2",
+  "descricao": "5 veiculos da geracao c70-2.",
+  "seo": {
+    "title": "Geracao c70-2 - Precos FIPE",
+    "description": "Veiculos da geracao c70-2 na Tabela FIPE.",
+    "h1": "Geracao c70-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/volvo/c70-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "volvo-c70-cabriolet-2007-gasolina",
+      "fipeCodigo": "029027-0",
+      "displayName": "Volvo C70 Cabriolet",
+      "valorAtual": 73760,
+      "canonicalPath": "/fipe/volvo/c70-cabriolet-2007-029027-0/",
+      "ano": 2007,
+      "marca": "Volvo"
+    },
+    {
+      "vehicleId": "volvo-c70-cabriolet-2008-gasolina",
+      "fipeCodigo": "029027-0",
+      "displayName": "Volvo C70 Cabriolet",
+      "valorAtual": 75604,
+      "canonicalPath": "/fipe/volvo/c70-cabriolet-2008-029027-0/",
+      "ano": 2008,
+      "marca": "Volvo"
+    },
+    {
+      "vehicleId": "volvo-c70-cabriolet-2009-gasolina",
+      "fipeCodigo": "029027-0",
+      "displayName": "Volvo C70 Cabriolet",
+      "valorAtual": 86307,
+      "canonicalPath": "/fipe/volvo/c70-cabriolet-2009-029027-0/",
+      "ano": 2009,
+      "marca": "Volvo"
+    },
+    {
+      "vehicleId": "volvo-c70-cabriolet-2010-gasolina",
+      "fipeCodigo": "029027-0",
+      "displayName": "Volvo C70 Cabriolet",
+      "valorAtual": 90331,
+      "canonicalPath": "/fipe/volvo/c70-cabriolet-2010-029027-0/",
+      "ano": 2010,
+      "marca": "Volvo"
+    },
+    {
+      "vehicleId": "volvo-c70-cabriolet-2011-gasolina",
+      "fipeCodigo": "029027-0",
+      "displayName": "Volvo C70 Cabriolet",
+      "valorAtual": 94204,
+      "canonicalPath": "/fipe/volvo/c70-cabriolet-2011-029027-0/",
+      "ano": 2011,
+      "marca": "Volvo"
+    }
+  ],
+  "stats": {
+    "total": 5
+  },
+  "meta": {
+    "geracaoId": "c70-2"
+  }
+}

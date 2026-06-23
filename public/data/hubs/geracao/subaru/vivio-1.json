@@ -1,0 +1,57 @@
+{
+  "tipo": "geracao",
+  "slug": "vivio-1",
+  "canonicalPath": "/geracao/subaru/vivio-1/",
+  "titulo": "Geracao vivio-1",
+  "descricao": "4 veiculos da geracao vivio-1.",
+  "seo": {
+    "title": "Geracao vivio-1 - Precos FIPE",
+    "description": "Veiculos da geracao vivio-1 na Tabela FIPE.",
+    "h1": "Geracao vivio-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/subaru/vivio-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "subaru-vivio-sd-gli-3p-mec-1994-gasolina",
+      "fipeCodigo": "027009-1",
+      "displayName": "Subaru Vivio SD GLI 3p Mec.",
+      "valorAtual": 5379,
+      "canonicalPath": "/fipe/subaru/vivio-sd-gli-3p-mec-1994-027009-1/",
+      "ano": 1994,
+      "marca": "Subaru"
+    },
+    {
+      "vehicleId": "subaru-vivio-sd-gli-3p-mec-1995-gasolina",
+      "fipeCodigo": "027009-1",
+      "displayName": "Subaru Vivio SD GLI 3p Mec.",
+      "valorAtual": 7631,
+      "canonicalPath": "/fipe/subaru/vivio-sd-gli-3p-mec-1995-027009-1/",
+      "ano": 1995,
+      "marca": "Subaru"
+    },
+    {
+      "vehicleId": "subaru-vivio-sd-gli-3p-mec-1996-gasolina",
+      "fipeCodigo": "027009-1",
+      "displayName": "Subaru Vivio SD GLI 3p Mec.",
+      "valorAtual": 7822,
+      "canonicalPath": "/fipe/subaru/vivio-sd-gli-3p-mec-1996-027009-1/",
+      "ano": 1996,
+      "marca": "Subaru"
+    },
+    {
+      "vehicleId": "subaru-vivio-sd-gli-3p-mec-1997-gasolina",
+      "fipeCodigo": "027009-1",
+      "displayName": "Subaru Vivio SD GLI 3p Mec.",
+      "valorAtual": 8018,
+      "canonicalPath": "/fipe/subaru/vivio-sd-gli-3p-mec-1997-027009-1/",
+      "ano": 1997,
+      "marca": "Subaru"
+    }
+  ],
+  "stats": {
+    "total": 4
+  },
+  "meta": {
+    "geracaoId": "vivio-1"
+  }
+}

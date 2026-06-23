@@ -1,0 +1,48 @@
+{
+  "tipo": "geracao",
+  "slug": "330i-1",
+  "canonicalPath": "/geracao/bmw/330i-1/",
+  "titulo": "Geracao 330i-1",
+  "descricao": "3 veiculos da geracao 330i-1.",
+  "seo": {
+    "title": "Geracao 330i-1 - Precos FIPE",
+    "description": "Veiculos da geracao 330i-1 na Tabela FIPE.",
+    "h1": "Geracao 330i-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/bmw/330i-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "bmw-330i-motorsport-3-0-24v-4p-2001-gasolina",
+      "fipeCodigo": "009092-1",
+      "displayName": "BMW 330i MotorSport 3.0 24V 4p",
+      "valorAtual": 61239,
+      "canonicalPath": "/fipe/bmw/330i-motorsport-3-0-24v-4p-2001-009092-1/",
+      "ano": 2001,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-330i-motorsport-3-0-24v-4p-2002-gasolina",
+      "fipeCodigo": "009092-1",
+      "displayName": "BMW 330i MotorSport 3.0 24V 4p",
+      "valorAtual": 64071,
+      "canonicalPath": "/fipe/bmw/330i-motorsport-3-0-24v-4p-2002-009092-1/",
+      "ano": 2002,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-330i-motorsport-3-0-24v-4p-2003-gasolina",
+      "fipeCodigo": "009092-1",
+      "displayName": "BMW 330i MotorSport 3.0 24V 4p",
+      "valorAtual": 65673,
+      "canonicalPath": "/fipe/bmw/330i-motorsport-3-0-24v-4p-2003-009092-1/",
+      "ano": 2003,
+      "marca": "BMW"
+    }
+  ],
+  "stats": {
+    "total": 3
+  },
+  "meta": {
+    "geracaoId": "330i-1"
+  }
+}

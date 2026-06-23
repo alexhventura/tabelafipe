@@ -1,0 +1,52 @@
+{
+  "tipo": "familia",
+  "slug": "revuelto",
+  "canonicalPath": "/fipe/lamborghini/revuelto/",
+  "titulo": "LAMBORGHINI revuelto - Tabela FIPE",
+  "descricao": "3 versoes e anos do LAMBORGHINI revuelto na Tabela FIPE.",
+  "seo": {
+    "title": "LAMBORGHINI revuelto - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes LAMBORGHINI revuelto. 3 veiculos indexados.",
+    "h1": "LAMBORGHINI revuelto - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/lamborghini/revuelto/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "lamborghini-revuelto-coupe-lp-1015-4-hib-2025-hibrido",
+      "fipeCodigo": "078025-1",
+      "displayName": "LAMBORGHINI REVUELTO Coupe LP 1015-4 (Hib)",
+      "valorAtual": 8245000,
+      "canonicalPath": "/fipe/lamborghini/revuelto-coupe-lp-1015-4-hib-2025-078025-1/",
+      "ano": 2025,
+      "marca": "LAMBORGHINI"
+    },
+    {
+      "vehicleId": "lamborghini-revuelto-coupe-lp-1015-4-hib-2024-hibrido",
+      "fipeCodigo": "078025-1",
+      "displayName": "LAMBORGHINI REVUELTO Coupe LP 1015-4 (Hib)",
+      "valorAtual": 7508648,
+      "canonicalPath": "/fipe/lamborghini/revuelto-coupe-lp-1015-4-hib-2024-078025-1/",
+      "ano": 2024,
+      "marca": "LAMBORGHINI"
+    },
+    {
+      "vehicleId": "lamborghini-revuelto-coupe-lp-1015-4-hib-0-hibrido",
+      "fipeCodigo": "078025-1",
+      "displayName": "LAMBORGHINI REVUELTO Coupe LP 1015-4 (Hib)",
+      "valorAtual": 8580000,
+      "canonicalPath": "/fipe/lamborghini/revuelto-coupe-lp-1015-4-hib-0-078025-1/",
+      "ano": 0,
+      "marca": "LAMBORGHINI"
+    }
+  ],
+  "stats": {
+    "total": 3,
+    "precoMin": 7508648,
+    "precoMax": 8580000,
+    "anos": [
+      2025,
+      2024,
+      0
+    ]
+  }
+}

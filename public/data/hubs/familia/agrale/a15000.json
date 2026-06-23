@@ -1,0 +1,52 @@
+{
+  "tipo": "familia",
+  "slug": "a15000",
+  "canonicalPath": "/fipe/agrale/a15000/",
+  "titulo": "AGRALE a15000 - Tabela FIPE",
+  "descricao": "3 versoes e anos do AGRALE a15000 na Tabela FIPE.",
+  "seo": {
+    "title": "AGRALE a15000 - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes AGRALE a15000. 3 veiculos indexados.",
+    "h1": "AGRALE a15000 - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/agrale/a15000/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "agrale-a15000-4x2-2p-e6-2027-diesel",
+      "fipeCodigo": "501045-4",
+      "displayName": "AGRALE A15000 4x2 2p (E6)",
+      "valorAtual": 424577,
+      "canonicalPath": "/fipe/agrale/a15000-4x2-2p-e6-2027-501045-4/",
+      "ano": 2027,
+      "marca": "AGRALE"
+    },
+    {
+      "vehicleId": "agrale-a15000-4x2-2p-e6-2026-diesel",
+      "fipeCodigo": "501045-4",
+      "displayName": "AGRALE A15000 4x2 2p (E6)",
+      "valorAtual": 390455,
+      "canonicalPath": "/fipe/agrale/a15000-4x2-2p-e6-2026-501045-4/",
+      "ano": 2026,
+      "marca": "AGRALE"
+    },
+    {
+      "vehicleId": "agrale-a15000-4x2-2p-e6-0-diesel",
+      "fipeCodigo": "501045-4",
+      "displayName": "AGRALE A15000 4x2 2p (E6)",
+      "valorAtual": 488020,
+      "canonicalPath": "/fipe/agrale/a15000-4x2-2p-e6-0-501045-4/",
+      "ano": 0,
+      "marca": "AGRALE"
+    }
+  ],
+  "stats": {
+    "total": 3,
+    "precoMin": 390455,
+    "precoMax": 488020,
+    "anos": [
+      2027,
+      2026,
+      0
+    ]
+  }
+}

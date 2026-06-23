@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "champion-1",
+  "canonicalPath": "/geracao/bajaj/champion-1/",
+  "titulo": "Geracao champion-1",
+  "descricao": "2 veiculos da geracao champion-1.",
+  "seo": {
+    "title": "Geracao champion-1 - Precos FIPE",
+    "description": "Veiculos da geracao champion-1 na Tabela FIPE.",
+    "h1": "Geracao champion-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/bajaj/champion-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "bajaj-champion-45-100cc-1997-gasolina",
+      "fipeCodigo": "837001-0",
+      "displayName": "BAJAJ CHAMPION 45 100cc",
+      "valorAtual": 919,
+      "canonicalPath": "/fipe/bajaj/champion-45-100cc-1997-837001-0/",
+      "ano": 1997,
+      "marca": "BAJAJ"
+    },
+    {
+      "vehicleId": "bajaj-champion-45-100cc-1998-gasolina",
+      "fipeCodigo": "837001-0",
+      "displayName": "BAJAJ CHAMPION 45 100cc",
+      "valorAtual": 978,
+      "canonicalPath": "/fipe/bajaj/champion-45-100cc-1998-837001-0/",
+      "ano": 1998,
+      "marca": "BAJAJ"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "champion-1"
+  }
+}

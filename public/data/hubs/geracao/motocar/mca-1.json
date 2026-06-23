@@ -1,0 +1,66 @@
+{
+  "tipo": "geracao",
+  "slug": "mca-1",
+  "canonicalPath": "/geracao/motocar/mca-1/",
+  "titulo": "Geracao mca-1",
+  "descricao": "5 veiculos da geracao mca-1.",
+  "seo": {
+    "title": "Geracao mca-1 - Precos FIPE",
+    "description": "Veiculos da geracao mca-1 na Tabela FIPE.",
+    "h1": "Geracao mca-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/motocar/mca-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "motocar-mca-200-2013-gasolina",
+      "fipeCodigo": "882003-1",
+      "displayName": "MOTOCAR MCA-200",
+      "valorAtual": 12103,
+      "canonicalPath": "/fipe/motocar/mca-200-2013-882003-1/",
+      "ano": 2013,
+      "marca": "MOTOCAR"
+    },
+    {
+      "vehicleId": "motocar-mca-200-2014-gasolina",
+      "fipeCodigo": "882003-1",
+      "displayName": "MOTOCAR MCA-200",
+      "valorAtual": 13313,
+      "canonicalPath": "/fipe/motocar/mca-200-2014-882003-1/",
+      "ano": 2014,
+      "marca": "MOTOCAR"
+    },
+    {
+      "vehicleId": "motocar-mca-200-2015-gasolina",
+      "fipeCodigo": "882003-1",
+      "displayName": "MOTOCAR MCA-200",
+      "valorAtual": 14442,
+      "canonicalPath": "/fipe/motocar/mca-200-2015-882003-1/",
+      "ano": 2015,
+      "marca": "MOTOCAR"
+    },
+    {
+      "vehicleId": "motocar-mca-200-2016-gasolina",
+      "fipeCodigo": "882003-1",
+      "displayName": "MOTOCAR MCA-200",
+      "valorAtual": 15095,
+      "canonicalPath": "/fipe/motocar/mca-200-2016-882003-1/",
+      "ano": 2016,
+      "marca": "MOTOCAR"
+    },
+    {
+      "vehicleId": "motocar-mca-250-2017-gasolina",
+      "fipeCodigo": "882005-8",
+      "displayName": "MOTOCAR MCA-250",
+      "valorAtual": 16206,
+      "canonicalPath": "/fipe/motocar/mca-250-2017-882005-8/",
+      "ano": 2017,
+      "marca": "MOTOCAR"
+    }
+  ],
+  "stats": {
+    "total": 5
+  },
+  "meta": {
+    "geracaoId": "mca-1"
+  }
+}

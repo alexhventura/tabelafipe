@@ -1,0 +1,78 @@
+{
+  "tipo": "familia",
+  "slug": "x",
+  "canonicalPath": "/fipe/neta/x/",
+  "titulo": "NETA x - Tabela FIPE",
+  "descricao": "6 versoes e anos do NETA x na Tabela FIPE.",
+  "seo": {
+    "title": "NETA x - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes NETA x. 6 veiculos indexados.",
+    "h1": "NETA x - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/neta/x/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "neta-x-400-comfort-aut-eletrico-2024-eletrico",
+      "fipeCodigo": "092003-7",
+      "displayName": "NETA X 400 Comfort Aut. (Elétrico)",
+      "valorAtual": 160490,
+      "canonicalPath": "/fipe/neta/x-400-comfort-aut-eletrico-2024-092003-7/",
+      "ano": 2024,
+      "marca": "NETA"
+    },
+    {
+      "vehicleId": "neta-x-500-comfort-aut-eletrico-2024-eletrico",
+      "fipeCodigo": "092004-5",
+      "displayName": "NETA X 500 Comfort Aut. (Elétrico)",
+      "valorAtual": 172161,
+      "canonicalPath": "/fipe/neta/x-500-comfort-aut-eletrico-2024-092004-5/",
+      "ano": 2024,
+      "marca": "NETA"
+    },
+    {
+      "vehicleId": "neta-x-500-luxury-aut-eletrico-2024-eletrico",
+      "fipeCodigo": "092005-3",
+      "displayName": "NETA X 500 Luxury Aut. (Elétrico)",
+      "valorAtual": 174654,
+      "canonicalPath": "/fipe/neta/x-500-luxury-aut-eletrico-2024-092005-3/",
+      "ano": 2024,
+      "marca": "NETA"
+    },
+    {
+      "vehicleId": "neta-x-400-comfort-aut-eletrico-0-eletrico",
+      "fipeCodigo": "092003-7",
+      "displayName": "NETA X 400 Comfort Aut. (Elétrico)",
+      "valorAtual": 190880,
+      "canonicalPath": "/fipe/neta/x-400-comfort-aut-eletrico-0-092003-7/",
+      "ano": 0,
+      "marca": "NETA"
+    },
+    {
+      "vehicleId": "neta-x-500-comfort-aut-eletrico-0-eletrico",
+      "fipeCodigo": "092004-5",
+      "displayName": "NETA X 500 Comfort Aut. (Elétrico)",
+      "valorAtual": 204900,
+      "canonicalPath": "/fipe/neta/x-500-comfort-aut-eletrico-0-092004-5/",
+      "ano": 0,
+      "marca": "NETA"
+    },
+    {
+      "vehicleId": "neta-x-500-luxury-aut-eletrico-0-eletrico",
+      "fipeCodigo": "092005-3",
+      "displayName": "NETA X 500 Luxury Aut. (Elétrico)",
+      "valorAtual": 214900,
+      "canonicalPath": "/fipe/neta/x-500-luxury-aut-eletrico-0-092005-3/",
+      "ano": 0,
+      "marca": "NETA"
+    }
+  ],
+  "stats": {
+    "total": 6,
+    "precoMin": 160490,
+    "precoMax": 214900,
+    "anos": [
+      2024,
+      0
+    ]
+  }
+}

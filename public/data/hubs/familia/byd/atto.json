@@ -1,0 +1,42 @@
+{
+  "tipo": "familia",
+  "slug": "atto",
+  "canonicalPath": "/fipe/byd/atto/",
+  "titulo": "BYD atto - Tabela FIPE",
+  "descricao": "2 versoes e anos do BYD atto na Tabela FIPE.",
+  "seo": {
+    "title": "BYD atto - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes BYD atto. 2 veiculos indexados.",
+    "h1": "BYD atto - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/byd/atto/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "byd-atto-8-1-5-16v-aut-2027-hibrido",
+      "fipeCodigo": "095018-1",
+      "displayName": "BYD Atto 8 1.5 16V Aut.",
+      "valorAtual": 354535,
+      "canonicalPath": "/fipe/byd/atto-8-1-5-16v-aut-2027-095018-1/",
+      "ano": 2027,
+      "marca": "BYD"
+    },
+    {
+      "vehicleId": "byd-atto-8-1-5-16v-aut-0-hibrido",
+      "fipeCodigo": "095018-1",
+      "displayName": "BYD Atto 8 1.5 16V Aut.",
+      "valorAtual": 399990,
+      "canonicalPath": "/fipe/byd/atto-8-1-5-16v-aut-0-095018-1/",
+      "ano": 0,
+      "marca": "BYD"
+    }
+  ],
+  "stats": {
+    "total": 2,
+    "precoMin": 354535,
+    "precoMax": 399990,
+    "anos": [
+      2027,
+      0
+    ]
+  }
+}

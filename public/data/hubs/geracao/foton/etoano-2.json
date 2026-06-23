@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "etoano-2",
+  "canonicalPath": "/geracao/foton/etoano-2/",
+  "titulo": "Geracao etoano-2",
+  "descricao": "2 veiculos da geracao etoano-2.",
+  "seo": {
+    "title": "Geracao etoano-2 - Precos FIPE",
+    "description": "Veiculos da geracao etoano-2 na Tabela FIPE.",
+    "h1": "Geracao etoano-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/foton/etoano-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "foton-etoano-pro-teto-alto-2026-eletrico",
+      "fipeCodigo": "086021-2",
+      "displayName": "FOTON eToano Pro Teto Alto",
+      "valorAtual": 389281,
+      "canonicalPath": "/fipe/foton/etoano-pro-teto-alto-2026-086021-2/",
+      "ano": 2026,
+      "marca": "FOTON"
+    },
+    {
+      "vehicleId": "foton-etoano-pro-teto-medio-2026-eletrico",
+      "fipeCodigo": "086020-4",
+      "displayName": "FOTON eToano Pro Teto Médio",
+      "valorAtual": 371811,
+      "canonicalPath": "/fipe/foton/etoano-pro-teto-medio-2026-086020-4/",
+      "ano": 2026,
+      "marca": "FOTON"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "etoano-2"
+  }
+}

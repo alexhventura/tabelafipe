@@ -1,0 +1,273 @@
+{
+  "tipo": "geracao",
+  "slug": "classic-1",
+  "canonicalPath": "/geracao/aprilia/classic-1/",
+  "titulo": "Geracao classic-1",
+  "descricao": "28 veiculos da geracao classic-1.",
+  "seo": {
+    "title": "Geracao classic-1 - Precos FIPE",
+    "description": "Veiculos da geracao classic-1 na Tabela FIPE.",
+    "h1": "Geracao classic-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/aprilia/classic-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "aprilia-classic-50cc-1998-gasolina",
+      "fipeCodigo": "802002-7",
+      "displayName": "APRILIA CLASSIC 50cc",
+      "valorAtual": 2721,
+      "canonicalPath": "/fipe/aprilia/classic-50cc-1998-802002-7/",
+      "ano": 1998,
+      "marca": "APRILIA"
+    },
+    {
+      "vehicleId": "aprilia-classic-50cc-1999-gasolina",
+      "fipeCodigo": "802002-7",
+      "displayName": "APRILIA CLASSIC 50cc",
+      "valorAtual": 2868,
+      "canonicalPath": "/fipe/aprilia/classic-50cc-1999-802002-7/",
+      "ano": 1999,
+      "marca": "APRILIA"
+    },
+    {
+      "vehicleId": "aprilia-classic-50cc-2000-gasolina",
+      "fipeCodigo": "802002-7",
+      "displayName": "APRILIA CLASSIC 50cc",
+      "valorAtual": 3032,
+      "canonicalPath": "/fipe/aprilia/classic-50cc-2000-802002-7/",
+      "ano": 2000,
+      "marca": "APRILIA"
+    },
+    {
+      "vehicleId": "chevrolet-classic-advantage-1-0-vhc-flexpower-4p-2014-flex",
+      "fipeCodigo": "004450-4",
+      "displayName": "GM - Chevrolet Classic ADVANTAGE 1.0 VHC FlexPower 4p",
+      "valorAtual": 30555,
+      "canonicalPath": "/fipe/chevrolet/classic-advantage-1-0-vhc-flexpower-4p-2014-004450-4/",
+      "ano": 2014,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-classic-advantage-1-0-vhc-flexpower-4p-2015-flex",
+      "fipeCodigo": "004450-4",
+      "displayName": "GM - Chevrolet Classic ADVANTAGE 1.0 VHC FlexPower 4p",
+      "valorAtual": 35425,
+      "canonicalPath": "/fipe/chevrolet/classic-advantage-1-0-vhc-flexpower-4p-2015-004450-4/",
+      "ano": 2015,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-classic-life-ls-1-0-vhc-flexp-4p-2010-flex",
+      "fipeCodigo": "004360-5",
+      "displayName": "GM - Chevrolet Classic Life/LS 1.0 VHC FlexP. 4p",
+      "valorAtual": 21785,
+      "canonicalPath": "/fipe/chevrolet/classic-life-ls-1-0-vhc-flexp-4p-2010-004360-5/",
+      "ano": 2010,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-classic-life-ls-1-0-vhc-flexp-4p-2011-flex",
+      "fipeCodigo": "004360-5",
+      "displayName": "GM - Chevrolet Classic Life/LS 1.0 VHC FlexP. 4p",
+      "valorAtual": 24444,
+      "canonicalPath": "/fipe/chevrolet/classic-life-ls-1-0-vhc-flexp-4p-2011-004360-5/",
+      "ano": 2011,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-classic-life-ls-1-0-vhc-flexp-4p-2012-flex",
+      "fipeCodigo": "004360-5",
+      "displayName": "GM - Chevrolet Classic Life/LS 1.0 VHC FlexP. 4p",
+      "valorAtual": 27610,
+      "canonicalPath": "/fipe/chevrolet/classic-life-ls-1-0-vhc-flexp-4p-2012-004360-5/",
+      "ano": 2012,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-classic-life-ls-1-0-vhc-flexp-4p-2013-flex",
+      "fipeCodigo": "004360-5",
+      "displayName": "GM - Chevrolet Classic Life/LS 1.0 VHC FlexP. 4p",
+      "valorAtual": 29392,
+      "canonicalPath": "/fipe/chevrolet/classic-life-ls-1-0-vhc-flexp-4p-2013-004360-5/",
+      "ano": 2013,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-classic-life-ls-1-0-vhc-flexp-4p-2014-flex",
+      "fipeCodigo": "004360-5",
+      "displayName": "GM - Chevrolet Classic Life/LS 1.0 VHC FlexP. 4p",
+      "valorAtual": 30489,
+      "canonicalPath": "/fipe/chevrolet/classic-life-ls-1-0-vhc-flexp-4p-2014-004360-5/",
+      "ano": 2014,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-classic-life-ls-1-0-vhc-flexp-4p-2015-flex",
+      "fipeCodigo": "004360-5",
+      "displayName": "GM - Chevrolet Classic Life/LS 1.0 VHC FlexP. 4p",
+      "valorAtual": 33458,
+      "canonicalPath": "/fipe/chevrolet/classic-life-ls-1-0-vhc-flexp-4p-2015-004360-5/",
+      "ano": 2015,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-classic-life-ls-1-0-vhc-flexp-4p-2016-flex",
+      "fipeCodigo": "004360-5",
+      "displayName": "GM - Chevrolet Classic Life/LS 1.0 VHC FlexP. 4p",
+      "valorAtual": 35015,
+      "canonicalPath": "/fipe/chevrolet/classic-life-ls-1-0-vhc-flexp-4p-2016-004360-5/",
+      "ano": 2016,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "mercedes-benz-classic-6-0-1993-gasolina",
+      "fipeCodigo": "021082-0",
+      "displayName": "Mercedes-Benz Classic 6.0",
+      "valorAtual": 40304,
+      "canonicalPath": "/fipe/mercedes-benz/classic-6-0-1993-021082-0/",
+      "ano": 1993,
+      "marca": "Mercedes-Benz"
+    },
+    {
+      "vehicleId": "mercedes-benz-classic-6-0-1994-gasolina",
+      "fipeCodigo": "021082-0",
+      "displayName": "Mercedes-Benz Classic 6.0",
+      "valorAtual": 46558,
+      "canonicalPath": "/fipe/mercedes-benz/classic-6-0-1994-021082-0/",
+      "ano": 1994,
+      "marca": "Mercedes-Benz"
+    },
+    {
+      "vehicleId": "mercedes-benz-classic-6-0-1995-gasolina",
+      "fipeCodigo": "021082-0",
+      "displayName": "Mercedes-Benz Classic 6.0",
+      "valorAtual": 56131,
+      "canonicalPath": "/fipe/mercedes-benz/classic-6-0-1995-021082-0/",
+      "ano": 1995,
+      "marca": "Mercedes-Benz"
+    },
+    {
+      "vehicleId": "ram-classic-laramie-5-7-cd-v8-4x4-aut-2022-gasolina",
+      "fipeCodigo": "083010-0",
+      "displayName": "RAM CLASSIC LARAMIE 5.7 CD V8 4X4 Aut.",
+      "valorAtual": 250427,
+      "canonicalPath": "/fipe/ram/classic-laramie-5-7-cd-v8-4x4-aut-2022-083010-0/",
+      "ano": 2022,
+      "marca": "RAM"
+    },
+    {
+      "vehicleId": "ram-classic-laramie-5-7-cd-v8-4x4-aut-2023-gasolina",
+      "fipeCodigo": "083010-0",
+      "displayName": "RAM CLASSIC LARAMIE 5.7 CD V8 4X4 Aut.",
+      "valorAtual": 270555,
+      "canonicalPath": "/fipe/ram/classic-laramie-5-7-cd-v8-4x4-aut-2023-083010-0/",
+      "ano": 2023,
+      "marca": "RAM"
+    },
+    {
+      "vehicleId": "ram-classic-laramie-night-ed-5-7-4x4-aut-2022-gasolina",
+      "fipeCodigo": "083011-9",
+      "displayName": "RAM CLASSIC LARAMIE NIGHT ED. 5.7 4X4 Aut.",
+      "valorAtual": 254034,
+      "canonicalPath": "/fipe/ram/classic-laramie-night-ed-5-7-4x4-aut-2022-083011-9/",
+      "ano": 2022,
+      "marca": "RAM"
+    },
+    {
+      "vehicleId": "ram-classic-laramie-night-ed-5-7-4x4-aut-2023-gasolina",
+      "fipeCodigo": "083011-9",
+      "displayName": "RAM CLASSIC LARAMIE NIGHT ED. 5.7 4X4 Aut.",
+      "valorAtual": 267903,
+      "canonicalPath": "/fipe/ram/classic-laramie-night-ed-5-7-4x4-aut-2023-083011-9/",
+      "ano": 2023,
+      "marca": "RAM"
+    },
+    {
+      "vehicleId": "ram-classic-r-t-5-7-cd-v8-4x4-aut-2023-gasolina",
+      "fipeCodigo": "083020-8",
+      "displayName": "RAM CLASSIC R/T 5.7 CD V8 4X4 Aut.",
+      "valorAtual": 309300,
+      "canonicalPath": "/fipe/ram/classic-r-t-5-7-cd-v8-4x4-aut-2023-083020-8/",
+      "ano": 2023,
+      "marca": "RAM"
+    },
+    {
+      "vehicleId": "royal-enfield-classic-350-chrome-0-gasolina",
+      "fipeCodigo": "879030-2",
+      "displayName": "Royal Enfield Classic 350 Chrome",
+      "valorAtual": 24351,
+      "canonicalPath": "/fipe/royal-enfield/classic-350-chrome-0-879030-2/",
+      "ano": 0,
+      "marca": "Royal Enfield"
+    },
+    {
+      "vehicleId": "royal-enfield-classic-350-dark-0-gasolina",
+      "fipeCodigo": "879029-9",
+      "displayName": "Royal Enfield Classic 350 Dark",
+      "valorAtual": 24922,
+      "canonicalPath": "/fipe/royal-enfield/classic-350-dark-0-879029-9/",
+      "ano": 0,
+      "marca": "Royal Enfield"
+    },
+    {
+      "vehicleId": "royal-enfield-classic-350-halcyon-0-gasolina",
+      "fipeCodigo": "879027-2",
+      "displayName": "Royal Enfield Classic 350 Halcyon",
+      "valorAtual": 23385,
+      "canonicalPath": "/fipe/royal-enfield/classic-350-halcyon-0-879027-2/",
+      "ano": 0,
+      "marca": "Royal Enfield"
+    },
+    {
+      "vehicleId": "royal-enfield-classic-350-heritage-0-gasolina",
+      "fipeCodigo": "879042-6",
+      "displayName": "Royal Enfield Classic 350 Heritage",
+      "valorAtual": 24083,
+      "canonicalPath": "/fipe/royal-enfield/classic-350-heritage-0-879042-6/",
+      "ano": 0,
+      "marca": "Royal Enfield"
+    },
+    {
+      "vehicleId": "royal-enfield-classic-350-signals-0-gasolina",
+      "fipeCodigo": "879028-0",
+      "displayName": "Royal Enfield Classic 350 Signals",
+      "valorAtual": 24366,
+      "canonicalPath": "/fipe/royal-enfield/classic-350-signals-0-879028-0/",
+      "ano": 0,
+      "marca": "Royal Enfield"
+    },
+    {
+      "vehicleId": "royal-enfield-classic-650-base-0-gasolina",
+      "fipeCodigo": "879052-3",
+      "displayName": "Royal Enfield Classic 650 Base",
+      "valorAtual": 34661,
+      "canonicalPath": "/fipe/royal-enfield/classic-650-base-0-879052-3/",
+      "ano": 0,
+      "marca": "Royal Enfield"
+    },
+    {
+      "vehicleId": "royal-enfield-classic-650-mid-0-gasolina",
+      "fipeCodigo": "879053-1",
+      "displayName": "Royal Enfield Classic 650 Mid",
+      "valorAtual": 34742,
+      "canonicalPath": "/fipe/royal-enfield/classic-650-mid-0-879053-1/",
+      "ano": 0,
+      "marca": "Royal Enfield"
+    },
+    {
+      "vehicleId": "royal-enfield-classic-650-top-0-gasolina",
+      "fipeCodigo": "879054-0",
+      "displayName": "Royal Enfield Classic 650 Top",
+      "valorAtual": 35167,
+      "canonicalPath": "/fipe/royal-enfield/classic-650-top-0-879054-0/",
+      "ano": 0,
+      "marca": "Royal Enfield"
+    }
+  ],
+  "stats": {
+    "total": 28
+  },
+  "meta": {
+    "geracaoId": "classic-1"
+  }
+}

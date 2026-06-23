@@ -1,0 +1,741 @@
+{
+  "tipo": "geracao",
+  "slug": "range-2",
+  "canonicalPath": "/geracao/land-rover/range-2/",
+  "titulo": "Geracao range-2",
+  "descricao": "325 veiculos da geracao range-2.",
+  "seo": {
+    "title": "Geracao range-2 - Precos FIPE",
+    "description": "Veiculos da geracao range-2 na Tabela FIPE.",
+    "h1": "Geracao range-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/land-rover/range-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "land-rover-range-r-vel-r-dyn-s-2-0-aut-hibrido-2023-hibrido",
+      "fipeCodigo": "033214-3",
+      "displayName": "Land Rover  Range R. VEL. R-Dyn. S 2.0 Aut. (Híbrido)",
+      "valorAtual": 379996,
+      "canonicalPath": "/fipe/land-rover/range-r-vel-r-dyn-s-2-0-aut-hibrido-2023-033214-3/",
+      "ano": 2023,
+      "marca": "Land Rover"
+    },
+    {
+      "vehicleId": "land-rover-range-r-autobio-3-0-i6-tb-die-hib-2023-hibrido",
+      "fipeCodigo": "033209-7",
+      "displayName": "Land Rover Range R. Autobio. 3.0 I6 TB Die. (Híb.)",
+      "valorAtual": 898161,
+      "canonicalPath": "/fipe/land-rover/range-r-autobio-3-0-i6-tb-die-hib-2023-033209-7/",
+      "ano": 2023,
+      "marca": "Land Rover"
+    },
+    {
+      "vehicleId": "land-rover-range-r-autobio-3-0-i6-tb-die-hib-2024-hibrido",
+      "fipeCodigo": "033209-7",
+      "displayName": "Land Rover Range R. Autobio. 3.0 I6 TB Die. (Híb.)",
+      "valorAtual": 931502,
+      "canonicalPath": "/fipe/land-rover/range-r-autobio-3-0-i6-tb-die-hib-2024-033209-7/",
+      "ano": 2024,
+      "marca": "Land Rover"
+    },
+    {
+      "vehicleId": "land-rover-range-r-autobio-3-0-i6-tb-p550e-hib-2025-hibrido",
+      "fipeCodigo": "033236-4",
+      "displayName": "Land Rover Range R. Autobio. 3.0 I6 TB P550e (Híb.)",
+      "valorAtual": 1263018,
+      "canonicalPath": "/fipe/land-rover/range-r-autobio-3-0-i6-tb-p550e-hib-2025-033236-4/",
+      "ano": 2025,
+      "marca": "Land Rover"
+    },
+    {
+      "vehicleId": "land-rover-range-r-autobio-3-0-i6-tb-p550e-hib-2026-hibrido",
+      "fipeCodigo": "033236-4",
+      "displayName": "Land Rover Range R. Autobio. 3.0 I6 TB P550e (Híb.)",
+      "valorAtual": 1516546,
+      "canonicalPath": "/fipe/land-rover/range-r-autobio-3-0-i6-tb-p550e-hib-2026-033236-4/",
+      "ano": 2026,
+      "marca": "Land Rover"
+    },
+    {
+      "vehicleId": "land-rover-range-r-evo-hse-si4-r-dyn-2-0-300cv-aut-2020-gasolina",
+      "fipeCodigo": "033169-4",
+      "displayName": "Land Rover Range R. EVO HSE Si4 R-Dyn.2.0 300cv Aut",
+      "valorAtual": 231064,
+      "canonicalPath": "/fipe/land-rover/range-r-evo-hse-si4-r-dyn-2-0-300cv-aut-2020-033169-4/",
+      "ano": 2020,
+      "marca": "Land Rover"
+    },
+    {
+      "vehicleId": "land-rover-range-r-evo-se-si4-r-dyn-2-0-flex-aut-2020-flex",
+      "fipeCodigo": "033170-8",
+      "displayName": "Land Rover Range R. EVO SE Si4 R-Dyn. 2.0 Flex Aut.",
+      "valorAtual": 219468,
+      "canonicalPath": "/fipe/land-rover/range-r-evo-se-si4-r-dyn-2-0-flex-aut-2020-033170-8/",
+      "ano": 2020,
+      "marca": "Land Rover"
+    },
+    {
+      "vehicleId": "land-rover-range-r-evo-se-si4-r-dyn-2-0-flex-aut-2021-flex",
+      "fipeCodigo": "033170-8",
+      "displayName": "Land Rover Range R. EVO SE Si4 R-Dyn. 2.0 Flex Aut.",
+      "valorAtual": 236446,
+      "canonicalPath": "/fipe/land-rover/range-r-evo-se-si4-r-dyn-2-0-flex-aut-2021-033170-8/",
+      "ano": 2021,
+      "marca": "Land Rover"
+    },
+    {
+      "vehicleId": "land-rover-range-r-first-ed-3-0-350cv-die-hib-2022-hibrido",
+      "fipeCodigo": "033199-6",
+      "displayName": "Land Rover Range R. First Ed.3.0 350cv Die.(Hib.)",
+      "valorAtual": 939324,
+      "canonicalPath": "/fipe/land-rover/range-r-first-ed-3-0-350cv-die-hib-2022-033199-6/",
+      "ano": 2022,
+      "marca": "Land Rover"
+    },
+    {
+      "vehicleId": "land-rover-range-r-first-ed-3-0-350cv-die-hib-2023-hibrido",
+      "fipeCodigo": "033199-6",
+      "displayName": "Land Rover Range R. First Ed.3.0 350cv Die.(Hib.)",
+      "valorAtual": 1019952,
+      "canonicalPath": "/fipe/land-rover/range-r-first-ed-3-0-350cv-die-hib-2023-033199-6/",
+      "ano": 2023,
+      "marca": "Land Rover"
+    },
+    {
+      "vehicleId": "land-rover-range-r-first-ed-4-4-v8-tb-530cv-aut-2022-gasolina",
+      "fipeCodigo": "033206-2",
+      "displayName": "Land Rover Range R. First.Ed. 4.4 V8 TB 530cv Aut.",
+      "valorAtual": 900342,
+      "canonicalPath": "/fipe/land-rover/range-r-first-ed-4-4-v8-tb-530cv-aut-2022-033206-2/",
+      "ano": 2022,
+      "marca": "Land Rover"
+    },
+    {
+      "vehicleId": "land-rover-range-r-first-ed-4-4-v8-tb-530cv-aut-2023-gasolina",
+      "fipeCodigo": "033206-2",
+      "displayName": "Land Rover Range R. First.Ed. 4.4 V8 TB 530cv Aut.",
+      "valorAtual": 1025632,
+      "canonicalPath": "/fipe/land-rover/range-r-first-ed-4-4-v8-tb-530cv-aut-2023-033206-2/",
+      "ano": 2023,
+      "marca": "Land Rover"
+    },
+    {
+      "vehicleId": "land-rover-range-r-sv-autob-sc-dyn-swb-5-0-v8-2020-gasolina",
+      "fipeCodigo": "033183-0",
+      "displayName": "Land Rover Range R. SV Autob. Sc. Dyn. SWB 5.0 V8",
+      "valorAtual": 616525,
+      "canonicalPath": "/fipe/land-rover/range-r-sv-autob-sc-dyn-swb-5-0-v8-2020-033183-0/",
+      "ano": 2020,
+      "marca": "Land Rover"
+    },
+    {
+      "vehicleId": "land-rover-range-r-sv-autob-sc-dyn-swb-5-0-v8-2021-gasolina",
+      "fipeCodigo": "033183-0",
+      "displayName": "Land Rover Range R. SV Autob. Sc. Dyn. SWB 5.0 V8",
+      "valorAtual": 929535,
+      "canonicalPath": "/fipe/land-rover/range-r-sv-autob-sc-dyn-swb-5-0-v8-2021-033183-0/",
+      "ano": 2021,
+      "marca": "Land Rover"
+    },
+    {
+      "vehicleId": "land-rover-range-r-sv-autob-super-lwb-5-0-v8-2019-gasolina",
+      "fipeCodigo": "033177-5",
+      "displayName": "Land Rover Range R. SV Autob. Super. LWB 5.0 V8",
+      "valorAtual": 825442,
+      "canonicalPath": "/fipe/land-rover/range-r-sv-autob-super-lwb-5-0-v8-2019-033177-5/",
+      "ano": 2019,
+      "marca": "Land Rover"
+    },
+    {
+      "vehicleId": "land-rover-range-r-sv-autob-super-lwb-5-0-v8-2020-gasolina",
+      "fipeCodigo": "033177-5",
+      "displayName": "Land Rover Range R. SV Autob. Super. LWB 5.0 V8",
+      "valorAtual": 846079,
+      "canonicalPath": "/fipe/land-rover/range-r-sv-autob-super-lwb-5-0-v8-2020-033177-5/",
+      "ano": 2020,
+      "marca": "Land Rover"
+    },
+    {
+      "vehicleId": "land-rover-range-r-sv-autob-super-lwb-5-0-v8-2021-gasolina",
+      "fipeCodigo": "033177-5",
+      "displayName": "Land Rover Range R. SV Autob. Super. LWB 5.0 V8",
+      "valorAtual": 1270748,
+      "canonicalPath": "/fipe/land-rover/range-r-sv-autob-super-lwb-5-0-v8-2021-033177-5/",
+      "ano": 2021,
+      "marca": "Land Rover"
+    },
+    {
+      "vehicleId": "land-rover-range-r-svautobiography-superc-5-0-v8-2016-gasolina",
+      "fipeCodigo": "033123-6",
+      "displayName": "Land Rover Range R. SVAutobiography SUPERC. 5.0 V8",
+      "valorAtual": 708179,
+      "canonicalPath": "/fipe/land-rover/range-r-svautobiography-superc-5-0-v8-2016-033123-6/",
+      "ano": 2016,
+      "marca": "Land Rover"
+    },
+    {
+      "vehicleId": "land-rover-range-r-svautobiography-superc-5-0-v8-2017-gasolina",
+      "fipeCodigo": "033123-6",
+      "displayName": "Land Rover Range R. SVAutobiography SUPERC. 5.0 V8",
+      "valorAtual": 805515,
+      "canonicalPath": "/fipe/land-rover/range-r-svautobiography-superc-5-0-v8-2017-033123-6/",
+      "ano": 2017,
+      "marca": "Land Rover"
+    },
+    {
+      "vehicleId": "land-rover-range-r-sp-dyn-hse-3-0i6-die-hib-2023-hibrido",
+      "fipeCodigo": "033200-3",
+      "displayName": "Land Rover Range R. Sp. Dyn. HSE 3.0I6 Die. (Hib.)",
+      "valorAtual": 732002,
+      "canonicalPath": "/fipe/land-rover/range-r-sp-dyn-hse-3-0i6-die-hib-2023-033200-3/",
+      "ano": 2023,
+      "marca": "Land Rover"
+    },
+    {
+      "vehicleId": "land-rover-range-r-sp-dyn-hse-3-0i6-die-hib-2024-hibrido",
+      "fipeCodigo": "033200-3",
+      "displayName": "Land Rover Range R. Sp. Dyn. HSE 3.0I6 Die. (Hib.)",
+      "valorAtual": 822121,
+      "canonicalPath": "/fipe/land-rover/range-r-sp-dyn-hse-3-0i6-die-hib-2024-033200-3/",
+      "ano": 2024,
+      "marca": "Land Rover"
+    },
+    {
+      "vehicleId": "land-rover-range-r-sp-dynam-hse-3-0-hib-2023-hibrido",
+      "fipeCodigo": "033221-6",
+      "displayName": "Land Rover Range R. Sp. Dynam. HSE 3.0  (Híb.)",
+      "valorAtual": 746657,
+      "canonicalPath": "/fipe/land-rover/range-r-sp-dynam-hse-3-0-hib-2023-033221-6/",
+      "ano": 2023,
+      "marca": "Land Rover"
+    },
+    {
+      "vehicleId": "land-rover-range-r-sp-dynam-hse-3-0-hib-2025-hibrido",
+      "fipeCodigo": "033221-6",
+      "displayName": "Land Rover Range R. Sp. Dynam. HSE 3.0  (Híb.)",
+      "valorAtual": 1043755,
+      "canonicalPath": "/fipe/land-rover/range-r-sp-dynam-hse-3-0-hib-2025-033221-6/",
+      "ano": 2025,
+      "marca": "Land Rover"
+    },
+    {
+      "vehicleId": "land-rover-range-r-sp-first-ed-3-0-510cv-hib-2023-hibrido",
+      "fipeCodigo": "033222-4",
+      "displayName": "Land Rover Range R. Sp. First Ed. 3.0 510cv (Híb.)",
+      "valorAtual": 780078,
+      "canonicalPath": "/fipe/land-rover/range-r-sp-first-ed-3-0-510cv-hib-2023-033222-4/",
+      "ano": 2023,
+      "marca": "Land Rover"
+    },
+    {
+      "vehicleId": "land-rover-range-r-sp-svr-awd-5-0-carbon-ed-aut-2022-gasolina",
+      "fipeCodigo": "033192-9",
+      "displayName": "Land Rover Range R. Sp.SVR AWD 5.0 Carbon Ed. Aut.",
+      "valorAtual": 725150,
+      "canonicalPath": "/fipe/land-rover/range-r-sp-svr-awd-5-0-carbon-ed-aut-2022-033192-9/",
+      "ano": 2022,
+      "marca": "Land Rover"
+    },
+    {
+      "vehicleId": "land-rover-range-r-sport-autob-3-0-sdv6-diesel-2013-diesel",
+      "fipeCodigo": "033086-8",
+      "displayName": "Land Rover Range R. Sport Autob. 3.0 SDV6 Diesel",
+      "valorAtual": 161157,
+      "canonicalPath": "/fipe/land-rover/range-r-sport-autob-3-0-sdv6-diesel-2013-033086-8/",
+      "ano": 2013,
+      "marca": "Land Rover"
+    },
+    {
+      "vehicleId": "land-rover-range-r-sport-autob-3-0-sdv6-diesel-2014-diesel",
+      "fipeCodigo": "033086-8",
+      "displayName": "Land Rover Range R. Sport Autob. 3.0 SDV6 Diesel",
+      "valorAtual": 177822,
+      "canonicalPath": "/fipe/land-rover/range-r-sport-autob-3-0-sdv6-diesel-2014-033086-8/",
+      "ano": 2014,
+      "marca": "Land Rover"
+    },
+    {
+      "vehicleId": "land-rover-range-r-sport-autob-3-0-tb-die-hib-2024-hibrido",
+      "fipeCodigo": "033227-5",
+      "displayName": "Land Rover Range R. Sport Autob. 3.0 TB Die. (Híb.)",
+      "valorAtual": 854210,
+      "canonicalPath": "/fipe/land-rover/range-r-sport-autob-3-0-tb-die-hib-2024-033227-5/",
+      "ano": 2024,
+      "marca": "Land Rover"
+    },
+    {
+      "vehicleId": "land-rover-range-r-sport-autob-3-0-tb-die-hib-2025-hibrido",
+      "fipeCodigo": "033227-5",
+      "displayName": "Land Rover Range R. Sport Autob. 3.0 TB Die. (Híb.)",
+      "valorAtual": 970000,
+      "canonicalPath": "/fipe/land-rover/range-r-sport-autob-3-0-tb-die-hib-2025-033227-5/",
+      "ano": 2025,
+      "marca": "Land Rover"
+    },
+    {
+      "vehicleId": "land-rover-range-r-sport-autob-dyn-scha-5-0-v8-2014-gasolina",
+      "fipeCodigo": "033101-5",
+      "displayName": "Land Rover Range R. Sport Autob. Dyn.SCHA. 5.0 V8",
+      "valorAtual": 211102,
+      "canonicalPath": "/fipe/land-rover/range-r-sport-autob-dyn-scha-5-0-v8-2014-033101-5/",
+      "ano": 2014,
+      "marca": "Land Rover"
+    },
+    {
+      "vehicleId": "land-rover-range-r-sport-autob-dyn-scha-5-0-v8-2015-gasolina",
+      "fipeCodigo": "033101-5",
+      "displayName": "Land Rover Range R. Sport Autob. Dyn.SCHA. 5.0 V8",
+      "valorAtual": 303529,
+      "canonicalPath": "/fipe/land-rover/range-r-sport-autob-dyn-scha-5-0-v8-2015-033101-5/",
+      "ano": 2015,
+      "marca": "Land Rover"
+    },
+    {
+      "vehicleId": "land-rover-range-r-sport-autob-dyn-scha-5-0-v8-2016-gasolina",
+      "fipeCodigo": "033101-5",
+      "displayName": "Land Rover Range R. Sport Autob. Dyn.SCHA. 5.0 V8",
+      "valorAtual": 311118,
+      "canonicalPath": "/fipe/land-rover/range-r-sport-autob-dyn-scha-5-0-v8-2016-033101-5/",
+      "ano": 2016,
+      "marca": "Land Rover"
+    },
+    {
+      "vehicleId": "land-rover-range-r-sport-autob-superchar-5-0-v8-2013-gasolina",
+      "fipeCodigo": "033085-0",
+      "displayName": "Land Rover Range R. Sport Autob. SUPERCHAR. 5.0 V8",
+      "valorAtual": 225163,
+      "canonicalPath": "/fipe/land-rover/range-r-sport-autob-superchar-5-0-v8-2013-033085-0/",
+      "ano": 2013,
+      "marca": "Land Rover"
+    },
+    {
+      "vehicleId": "land-rover-range-r-sport-autob-superchar-5-0-v8-2014-gasolina",
+      "fipeCodigo": "033085-0",
+      "displayName": "Land Rover Range R. Sport Autob. SUPERCHAR. 5.0 V8",
+      "valorAtual": 230793,
+      "canonicalPath": "/fipe/land-rover/range-r-sport-autob-superchar-5-0-v8-2014-033085-0/",
+      "ano": 2014,
+      "marca": "Land Rover"
+    },
+    {
+      "vehicleId": "land-rover-range-r-sport-autobio-3-0-p550e-hib-2025-hibrido",
+      "fipeCodigo": "033234-8",
+      "displayName": "Land Rover Range R. Sport Autobio. 3.0 P550e (Híb.)",
+      "valorAtual": 1053627,
+      "canonicalPath": "/fipe/land-rover/range-r-sport-autobio-3-0-p550e-hib-2025-033234-8/",
+      "ano": 2025,
+      "marca": "Land Rover"
+    },
+    {
+      "vehicleId": "land-rover-range-r-sport-autobio-3-0-p550e-hib-2026-hibrido",
+      "fipeCodigo": "033234-8",
+      "displayName": "Land Rover Range R. Sport Autobio. 3.0 P550e (Híb.)",
+      "valorAtual": 1163030,
+      "canonicalPath": "/fipe/land-rover/range-r-sport-autobio-3-0-p550e-hib-2026-033234-8/",
+      "ano": 2026,
+      "marca": "Land Rover"
+    },
+    {
+      "vehicleId": "land-rover-range-r-sport-hse-dyna-3-0-sdv6-dies-2017-diesel",
+      "fipeCodigo": "033161-9",
+      "displayName": "Land Rover Range R. Sport HSE Dyna. 3.0 SDV6 Dies.",
+      "valorAtual": 270707,
+      "canonicalPath": "/fipe/land-rover/range-r-sport-hse-dyna-3-0-sdv6-dies-2017-033161-9/",
+      "ano": 2017,
+      "marca": "Land Rover"
+    },
+    {
+      "vehicleId": "land-rover-range-r-sport-hse-dyna-3-0-sdv6-dies-2018-diesel",
+      "fipeCodigo": "033161-9",
+      "displayName": "Land Rover Range R. Sport HSE Dyna. 3.0 SDV6 Dies.",
+      "valorAtual": 382006,
+      "canonicalPath": "/fipe/land-rover/range-r-sport-hse-dyna-3-0-sdv6-dies-2018-033161-9/",
+      "ano": 2018,
+      "marca": "Land Rover"
+    },
+    {
+      "vehicleId": "land-rover-range-r-sport-hse-dyna-3-0-sdv6-dies-2019-diesel",
+      "fipeCodigo": "033161-9",
+      "displayName": "Land Rover Range R. Sport HSE Dyna. 3.0 SDV6 Dies.",
+      "valorAtual": 428852,
+      "canonicalPath": "/fipe/land-rover/range-r-sport-hse-dyna-3-0-sdv6-dies-2019-033161-9/",
+      "ano": 2019,
+      "marca": "Land Rover"
+    },
+    {
+      "vehicleId": "land-rover-range-r-sport-hse-dyna-3-0-sdv6-dies-2020-diesel",
+      "fipeCodigo": "033161-9",
+      "displayName": "Land Rover Range R. Sport HSE Dyna. 3.0 SDV6 Dies.",
+      "valorAtual": 454055,
+      "canonicalPath": "/fipe/land-rover/range-r-sport-hse-dyna-3-0-sdv6-dies-2020-033161-9/",
+      "ano": 2020,
+      "marca": "Land Rover"
+    },
+    {
+      "vehicleId": "land-rover-range-r-sport-hse-dynamic-superc-5-0-v8-2014-gasolina",
+      "fipeCodigo": "033093-0",
+      "displayName": "Land Rover Range R. Sport HSE Dynamic SUPERC.5.0 V8",
+      "valorAtual": 175354,
+      "canonicalPath": "/fipe/land-rover/range-r-sport-hse-dynamic-superc-5-0-v8-2014-033093-0/",
+      "ano": 2014,
+      "marca": "Land Rover"
+    },
+    {
+      "vehicleId": "land-rover-range-r-sport-hse-dynamic-superc-5-0-v8-2015-gasolina",
+      "fipeCodigo": "033093-0",
+      "displayName": "Land Rover Range R. Sport HSE Dynamic SUPERC.5.0 V8",
+      "valorAtual": 218691,
+      "canonicalPath": "/fipe/land-rover/range-r-sport-hse-dynamic-superc-5-0-v8-2015-033093-0/",
+      "ano": 2015,
+      "marca": "Land Rover"
+    },
+    {
+      "vehicleId": "land-rover-range-r-sport-hse-dynamic-superc-5-0-v8-2016-gasolina",
+      "fipeCodigo": "033093-0",
+      "displayName": "Land Rover Range R. Sport HSE Dynamic SUPERC.5.0 V8",
+      "valorAtual": 287975,
+      "canonicalPath": "/fipe/land-rover/range-r-sport-hse-dynamic-superc-5-0-v8-2016-033093-0/",
+      "ano": 2016,
+      "marca": "Land Rover"
+    },
+    {
+      "vehicleId": "land-rover-range-r-sport-hse-dynamic-superc-5-0-v8-2017-gasolina",
+      "fipeCodigo": "033093-0",
+      "displayName": "Land Rover Range R. Sport HSE Dynamic SUPERC.5.0 V8",
+      "valorAtual": 334413,
+      "canonicalPath": "/fipe/land-rover/range-r-sport-hse-dynamic-superc-5-0-v8-2017-033093-0/",
+      "ano": 2017,
+      "marca": "Land Rover"
+    },
+    {
+      "vehicleId": "land-rover-range-r-sport-hse-supercharged-3-0-v6-2014-gasolina",
+      "fipeCodigo": "033094-9",
+      "displayName": "Land Rover Range R. Sport HSE SUPERCHARGED 3.0 V6",
+      "valorAtual": 151223,
+      "canonicalPath": "/fipe/land-rover/range-r-sport-hse-supercharged-3-0-v6-2014-033094-9/",
+      "ano": 2014,
+      "marca": "Land Rover"
+    },
+    {
+      "vehicleId": "land-rover-range-r-sport-hse-supercharged-3-0-v6-2015-gasolina",
+      "fipeCodigo": "033094-9",
+      "displayName": "Land Rover Range R. Sport HSE SUPERCHARGED 3.0 V6",
+      "valorAtual": 169563,
+      "canonicalPath": "/fipe/land-rover/range-r-sport-hse-supercharged-3-0-v6-2015-033094-9/",
+      "ano": 2015,
+      "marca": "Land Rover"
+    },
+    {
+      "vehicleId": "land-rover-range-r-sport-hse-supercharged-3-0-v6-2016-gasolina",
+      "fipeCodigo": "033094-9",
+      "displayName": "Land Rover Range R. Sport HSE SUPERCHARGED 3.0 V6",
+      "valorAtual": 184528,
+      "canonicalPath": "/fipe/land-rover/range-r-sport-hse-supercharged-3-0-v6-2016-033094-9/",
+      "ano": 2016,
+      "marca": "Land Rover"
+    },
+    {
+      "vehicleId": "land-rover-range-r-sport-hst-supercharged-3-0-v6-2016-gasolina",
+      "fipeCodigo": "033120-1",
+      "displayName": "Land Rover Range R. Sport HST SUPERCHARGED 3.0 V6",
+      "valorAtual": 288652,
+      "canonicalPath": "/fipe/land-rover/range-r-sport-hst-supercharged-3-0-v6-2016-033120-1/",
+      "ano": 2016,
+      "marca": "Land Rover"
+    },
+    {
+      "vehicleId": "land-rover-range-r-sport-l-edit-scharged-3-0-v6-2016-gasolina",
+      "fipeCodigo": "033125-2",
+      "displayName": "Land Rover Range R. Sport L. Edit. SCHARGED 3.0 V6",
+      "valorAtual": 154438,
+      "canonicalPath": "/fipe/land-rover/range-r-sport-l-edit-scharged-3-0-v6-2016-033125-2/",
+      "ano": 2016,
+      "marca": "Land Rover"
+    },
+    {
+      "vehicleId": "land-rover-range-r-sport-tech-s-3-0-sdv6-diesel-2015-diesel",
+      "fipeCodigo": "033108-2",
+      "displayName": "Land Rover Range R. Sport TECH S 3.0 SDV6 Diesel",
+      "valorAtual": 162580,
+      "canonicalPath": "/fipe/land-rover/range-r-sport-tech-s-3-0-sdv6-diesel-2015-033108-2/",
+      "ano": 2015,
+      "marca": "Land Rover"
+    },
+    {
+      "vehicleId": "land-rover-range-r-ve-r-dyn-hse-2-0-4x4-300cv-aut-2019-gasolina",
+      "fipeCodigo": "033166-0",
+      "displayName": "Land Rover Range R. VE. R-Dyn HSE 2.0 4X4 300cv Aut",
+      "valorAtual": 296083,
+      "canonicalPath": "/fipe/land-rover/range-r-ve-r-dyn-hse-2-0-4x4-300cv-aut-2019-033166-0/",
+      "ano": 2019,
+      "marca": "Land Rover"
+    },
+    {
+      "vehicleId": "land-rover-range-r-ve-r-dyn-hse-2-0-4x4-300cv-aut-2020-gasolina",
+      "fipeCodigo": "033166-0",
+      "displayName": "Land Rover Range R. VE. R-Dyn HSE 2.0 4X4 300cv Aut",
+      "valorAtual": 305938,
+      "canonicalPath": "/fipe/land-rover/range-r-ve-r-dyn-hse-2-0-4x4-300cv-aut-2020-033166-0/",
+      "ano": 2020,
+      "marca": "Land Rover"
+    },
+    {
+      "vehicleId": "land-rover-range-r-ve-r-dyn-s-2-0-4x4-300cv-aut-2019-gasolina",
+      "fipeCodigo": "033167-8",
+      "displayName": "Land Rover Range R. VE. R-Dyn S 2.0 4X4 300cv Aut.",
+      "valorAtual": 294932,
+      "canonicalPath": "/fipe/land-rover/range-r-ve-r-dyn-s-2-0-4x4-300cv-aut-2019-033167-8/",
+      "ano": 2019,
+      "marca": "Land Rover"
+    },
+    {
+      "vehicleId": "land-rover-range-r-ve-r-dyn-se-2-0-4x4-250cv-aut-2018-gasolina",
+      "fipeCodigo": "033142-2",
+      "displayName": "Land Rover Range R. VE. R-Dyn SE 2.0 4x4 250cv Aut.",
+      "valorAtual": 265254,
+      "canonicalPath": "/fipe/land-rover/range-r-ve-r-dyn-se-2-0-4x4-250cv-aut-2018-033142-2/",
+      "ano": 2018,
+      "marca": "Land Rover"
+    },
+    {
+      "vehicleId": "land-rover-range-r-ve-r-dyn-se-2-0-4x4-300cv-aut-2019-gasolina",
+      "fipeCodigo": "033162-7",
+      "displayName": "Land Rover Range R. VE. R-Dyn SE 2.0 4x4 300cv Aut.",
+      "valorAtual": 295851,
+      "canonicalPath": "/fipe/land-rover/range-r-ve-r-dyn-se-2-0-4x4-300cv-aut-2019-033162-7/",
+      "ano": 2019,
+      "marca": "Land Rover"
+    },
+    {
+      "vehicleId": "land-rover-range-r-ve-r-dyn-se-2-0-4x4-300cv-aut-2020-gasolina",
+      "fipeCodigo": "033162-7",
+      "displayName": "Land Rover Range R. VE. R-Dyn SE 2.0 4x4 300cv Aut.",
+      "valorAtual": 304458,
+      "canonicalPath": "/fipe/land-rover/range-r-ve-r-dyn-se-2-0-4x4-300cv-aut-2020-033162-7/",
+      "ano": 2020,
+      "marca": "Land Rover"
+    },
+    {
+      "vehicleId": "land-rover-range-r-vel-r-dyn-hse-3-0-aut-hib-2021-hibrido",
+      "fipeCodigo": "033185-6",
+      "displayName": "Land Rover Range R. VEL. R-Dyn HSE 3.0 Aut.(Híb.)",
+      "valorAtual": 372284,
+      "canonicalPath": "/fipe/land-rover/range-r-vel-r-dyn-hse-3-0-aut-hib-2021-033185-6/",
+      "ano": 2021,
+      "marca": "Land Rover"
+    },
+    {
+      "vehicleId": "land-rover-range-r-vel-r-dyn-hse-3-0-aut-hib-2022-hibrido",
+      "fipeCodigo": "033185-6",
+      "displayName": "Land Rover Range R. VEL. R-Dyn HSE 3.0 Aut.(Híb.)",
+      "valorAtual": 413265,
+      "canonicalPath": "/fipe/land-rover/range-r-vel-r-dyn-hse-3-0-aut-hib-2022-033185-6/",
+      "ano": 2022,
+      "marca": "Land Rover"
+    },
+    {
+      "vehicleId": "land-rover-range-r-vel-r-dyn-hse-3-0-aut-hib-2023-hibrido",
+      "fipeCodigo": "033185-6",
+      "displayName": "Land Rover Range R. VEL. R-Dyn HSE 3.0 Aut.(Híb.)",
+      "valorAtual": 423894,
+      "canonicalPath": "/fipe/land-rover/range-r-vel-r-dyn-hse-3-0-aut-hib-2023-033185-6/",
+      "ano": 2023,
+      "marca": "Land Rover"
+    },
+    {
+      "vehicleId": "land-rover-range-r-vel-r-dyn-hse-3-0-aut-hib-2024-hibrido",
+      "fipeCodigo": "033185-6",
+      "displayName": "Land Rover Range R. VEL. R-Dyn HSE 3.0 Aut.(Híb.)",
+      "valorAtual": 463297,
+      "canonicalPath": "/fipe/land-rover/range-r-vel-r-dyn-hse-3-0-aut-hib-2024-033185-6/",
+      "ano": 2024,
+      "marca": "Land Rover"
+    },
+    {
+      "vehicleId": "land-rover-range-r-vel-r-dyn-2-0-4x4-250cv-aut-2018-gasolina",
+      "fipeCodigo": "033140-6",
+      "displayName": "Land Rover Range R. VEL. R-Dyn. 2.0 4x4 250cv Aut.",
+      "valorAtual": 265075,
+      "canonicalPath": "/fipe/land-rover/range-r-vel-r-dyn-2-0-4x4-250cv-aut-2018-033140-6/",
+      "ano": 2018,
+      "marca": "Land Rover"
+    },
+    {
+      "vehicleId": "land-rover-range-r-vel-r-dyn-2-0-4x4-300cv-aut-2019-gasolina",
+      "fipeCodigo": "033163-5",
+      "displayName": "Land Rover Range R. VEL. R-Dyn. 2.0 4x4 300cv Aut.",
+      "valorAtual": 294089,
+      "canonicalPath": "/fipe/land-rover/range-r-vel-r-dyn-2-0-4x4-300cv-aut-2019-033163-5/",
+      "ano": 2019,
+      "marca": "Land Rover"
+    },
+    {
+      "vehicleId": "land-rover-range-r-vel-r-dyn-2-0-4x4-300cv-aut-2020-gasolina",
+      "fipeCodigo": "033163-5",
+      "displayName": "Land Rover Range R. VEL. R-Dyn. 2.0 4x4 300cv Aut.",
+      "valorAtual": 302320,
+      "canonicalPath": "/fipe/land-rover/range-r-vel-r-dyn-2-0-4x4-300cv-aut-2020-033163-5/",
+      "ano": 2020,
+      "marca": "Land Rover"
+    },
+    {
+      "vehicleId": "land-rover-range-r-vel-r-dyn-hse-2-0-aut-hib-2023-hibrido",
+      "fipeCodigo": "033215-1",
+      "displayName": "Land Rover Range R. VEL. R-Dyn. HSE 2.0 Aut. (Híb.)",
+      "valorAtual": 425733,
+      "canonicalPath": "/fipe/land-rover/range-r-vel-r-dyn-hse-2-0-aut-hib-2023-033215-1/",
+      "ano": 2023,
+      "marca": "Land Rover"
+    },
+    {
+      "vehicleId": "land-rover-range-r-vel-r-dyn-se-3-0-aut-hib-2021-hibrido",
+      "fipeCodigo": "033184-8",
+      "displayName": "Land Rover Range R. VEL. R-Dyn. SE 3.0 Aut. (Híb.)",
+      "valorAtual": 336190,
+      "canonicalPath": "/fipe/land-rover/range-r-vel-r-dyn-se-3-0-aut-hib-2021-033184-8/",
+      "ano": 2021,
+      "marca": "Land Rover"
+    },
+    {
+      "vehicleId": "land-rover-range-r-vel-r-dyn-se-3-0-aut-hib-2022-hibrido",
+      "fipeCodigo": "033184-8",
+      "displayName": "Land Rover Range R. VEL. R-Dyn. SE 3.0 Aut. (Híb.)",
+      "valorAtual": 409240,
+      "canonicalPath": "/fipe/land-rover/range-r-vel-r-dyn-se-3-0-aut-hib-2022-033184-8/",
+      "ano": 2022,
+      "marca": "Land Rover"
+    },
+    {
+      "vehicleId": "land-rover-range-r-velar-2-0-4x4-tb-250cv-aut-2018-gasolina",
+      "fipeCodigo": "033136-8",
+      "displayName": "Land Rover Range R. VELAR 2.0 4x4 TB 250cv Aut.",
+      "valorAtual": 257222,
+      "canonicalPath": "/fipe/land-rover/range-r-velar-2-0-4x4-tb-250cv-aut-2018-033136-8/",
+      "ano": 2018,
+      "marca": "Land Rover"
+    },
+    {
+      "vehicleId": "land-rover-range-r-velar-3-0-4x4-v6-380cv-aut-2018-gasolina",
+      "fipeCodigo": "033144-9",
+      "displayName": "Land Rover Range R. VELAR 3.0 4x4 V6 380cv Aut.",
+      "valorAtual": 283980,
+      "canonicalPath": "/fipe/land-rover/range-r-velar-3-0-4x4-v6-380cv-aut-2018-033144-9/",
+      "ano": 2018,
+      "marca": "Land Rover"
+    },
+    {
+      "vehicleId": "land-rover-range-r-velar-autobio-2-0-p400e-hib-2026-hibrido",
+      "fipeCodigo": "033243-7",
+      "displayName": "Land Rover Range R. VELAR Autobio. 2.0 P400e (Híb)",
+      "valorAtual": 656513,
+      "canonicalPath": "/fipe/land-rover/range-r-velar-autobio-2-0-p400e-hib-2026-033243-7/",
+      "ano": 2026,
+      "marca": "Land Rover"
+    },
+    {
+      "vehicleId": "land-rover-range-r-velar-first-ed-3-0-4x4-v6-aut-2018-gasolina",
+      "fipeCodigo": "033152-0",
+      "displayName": "Land Rover Range R. VELAR First Ed. 3.0 4x4 V6 Aut.",
+      "valorAtual": 291521,
+      "canonicalPath": "/fipe/land-rover/range-r-velar-first-ed-3-0-4x4-v6-aut-2018-033152-0/",
+      "ano": 2018,
+      "marca": "Land Rover"
+    },
+    {
+      "vehicleId": "land-rover-range-r-velar-hse-2-0-4x4-tb-250cv-aut-2018-gasolina",
+      "fipeCodigo": "033139-2",
+      "displayName": "Land Rover Range R. VELAR HSE 2.0 4x4 TB 250cv Aut.",
+      "valorAtual": 278027,
+      "canonicalPath": "/fipe/land-rover/range-r-velar-hse-2-0-4x4-tb-250cv-aut-2018-033139-2/",
+      "ano": 2018,
+      "marca": "Land Rover"
+    },
+    {
+      "vehicleId": "land-rover-range-r-velar-hse-3-0-4x4-v6-380cv-aut-2018-gasolina",
+      "fipeCodigo": "033147-3",
+      "displayName": "Land Rover Range R. VELAR HSE 3.0 4x4 V6 380cv Aut",
+      "valorAtual": 289969,
+      "canonicalPath": "/fipe/land-rover/range-r-velar-hse-3-0-4x4-v6-380cv-aut-2018-033147-3/",
+      "ano": 2018,
+      "marca": "Land Rover"
+    },
+    {
+      "vehicleId": "land-rover-range-r-velar-hse-dyn-2-0-p400e-hib-2024-hibrido",
+      "fipeCodigo": "033235-6",
+      "displayName": "Land Rover Range R. VELAR HSE Dyn 2.0 P400e (Hib.)",
+      "valorAtual": 473100,
+      "canonicalPath": "/fipe/land-rover/range-r-velar-hse-dyn-2-0-p400e-hib-2024-033235-6/",
+      "ano": 2024,
+      "marca": "Land Rover"
+    },
+    {
+      "vehicleId": "land-rover-range-r-velar-hse-dyn-2-0-p400e-hib-2025-hibrido",
+      "fipeCodigo": "033235-6",
+      "displayName": "Land Rover Range R. VELAR HSE Dyn 2.0 P400e (Hib.)",
+      "valorAtual": 527014,
+      "canonicalPath": "/fipe/land-rover/range-r-velar-hse-dyn-2-0-p400e-hib-2025-033235-6/",
+      "ano": 2025,
+      "marca": "Land Rover"
+    },
+    {
+      "vehicleId": "land-rover-range-r-velar-r-dyn-3-0-4x4-v6-aut-2018-gasolina",
+      "fipeCodigo": "033148-1",
+      "displayName": "Land Rover Range R. VELAR R-Dyn. 3.0 4x4 V6 Aut.",
+      "valorAtual": 277511,
+      "canonicalPath": "/fipe/land-rover/range-r-velar-r-dyn-3-0-4x4-v6-aut-2018-033148-1/",
+      "ano": 2018,
+      "marca": "Land Rover"
+    },
+    {
+      "vehicleId": "land-rover-range-r-velar-r-dyn-hse-2-0-4x4-tb-aut-2018-gasolina",
+      "fipeCodigo": "033143-0",
+      "displayName": "Land Rover Range R. VELAR R-Dyn. HSE 2.0 4x4 TB Aut",
+      "valorAtual": 284032,
+      "canonicalPath": "/fipe/land-rover/range-r-velar-r-dyn-hse-2-0-4x4-tb-aut-2018-033143-0/",
+      "ano": 2018,
+      "marca": "Land Rover"
+    },
+    {
+      "vehicleId": "land-rover-range-r-velar-r-dyn-hse-3-0-4x4-v6-aut-2018-gasolina",
+      "fipeCodigo": "033151-1",
+      "displayName": "Land Rover Range R. VELAR R-Dyn. HSE 3.0 4x4 V6 Aut",
+      "valorAtual": 290526,
+      "canonicalPath": "/fipe/land-rover/range-r-velar-r-dyn-hse-3-0-4x4-v6-aut-2018-033151-1/",
+      "ano": 2018,
+      "marca": "Land Rover"
+    },
+    {
+      "vehicleId": "land-rover-range-r-velar-r-dyn-hse-3-0-4x4-v6-aut-2019-gasolina",
+      "fipeCodigo": "033151-1",
+      "displayName": "Land Rover Range R. VELAR R-Dyn. HSE 3.0 4x4 V6 Aut",
+      "valorAtual": 298515,
+      "canonicalPath": "/fipe/land-rover/range-r-velar-r-dyn-hse-3-0-4x4-v6-aut-2019-033151-1/",
+      "ano": 2019,
+      "marca": "Land Rover"
+    },
+    {
+      "vehicleId": "land-rover-range-r-velar-r-dyn-hse-3-0-4x4-v6-aut-2020-gasolina",
+      "fipeCodigo": "033151-1",
+      "displayName": "Land Rover Range R. VELAR R-Dyn. HSE 3.0 4x4 V6 Aut",
+      "valorAtual": 321577,
+      "canonicalPath": "/fipe/land-rover/range-r-velar-r-dyn-hse-3-0-4x4-v6-aut-2020-033151-1/",
+      "ano": 2020,
+      "marca": "Land Rover"
+    },
+    {
+      "vehicleId": "land-rover-range-r-velar-r-dyn-s-2-0-4x4-tb-aut-2018-gasolina",
+      "fipeCodigo": "033141-4",
+      "displayName": "Land Rover Range R. VELAR R-Dyn. S 2.0 4x4 TB Aut.",
+      "valorAtual": 265152,
+      "canonicalPath": "/fipe/land-rover/range-r-velar-r-dyn-s-2-0-4x4-tb-aut-2018-033141-4/",
+      "ano": 2018,
+      "marca": "Land Rover"
+    }
+  ],
+  "stats": {
+    "total": 325
+  },
+  "meta": {
+    "geracaoId": "range-2"
+  }
+}

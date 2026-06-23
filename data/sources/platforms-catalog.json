@@ -1,0 +1,140 @@
+{
+  "geradoEm": "2026-06-22",
+  "observacao": "Plataformas compartilhadas - heranca de specs, recalls e manutencao",
+  "plataformas": [
+    {
+      "id": "mqb-a0",
+      "nome": "MQB A0",
+      "fabricante": "Volkswagen Group",
+      "familias": [
+        {
+          "marca": "VW - VolksWagen",
+          "modeloFamilia": "polo"
+        },
+        {
+          "marca": "VW - VolksWagen",
+          "modeloFamilia": "virtus"
+        },
+        {
+          "marca": "VW - VolksWagen",
+          "modeloFamilia": "tcross"
+        },
+        {
+          "marca": "VW - VolksWagen",
+          "modeloFamilia": "t-cross"
+        },
+        {
+          "marca": "VW - VolksWagen",
+          "modeloFamilia": "nivus"
+        },
+        {
+          "marca": "VW - VolksWagen",
+          "modeloFamilia": "taos"
+        }
+      ]
+    },
+    {
+      "id": "small-wide",
+      "nome": "Small Wide",
+      "fabricante": "Stellantis",
+      "familias": [
+        {
+          "marca": "Jeep",
+          "modeloFamilia": "compass"
+        },
+        {
+          "marca": "Jeep",
+          "modeloFamilia": "commander"
+        },
+        {
+          "marca": "Fiat",
+          "modeloFamilia": "toro"
+        },
+        {
+          "marca": "RAM",
+          "modeloFamilia": "rampage"
+        }
+      ]
+    },
+    {
+      "id": "cmp",
+      "nome": "CMP",
+      "fabricante": "Stellantis",
+      "familias": [
+        {
+          "marca": "Peugeot",
+          "modeloFamilia": "208"
+        },
+        {
+          "marca": "Peugeot",
+          "modeloFamilia": "2008"
+        },
+        {
+          "marca": "Citroen",
+          "modeloFamilia": "c3"
+        }
+      ]
+    },
+    {
+      "id": "tnga",
+      "nome": "TNGA",
+      "fabricante": "Toyota",
+      "familias": [
+        {
+          "marca": "Toyota",
+          "modeloFamilia": "corolla"
+        },
+        {
+          "marca": "Toyota",
+          "modeloFamilia": "yaris"
+        },
+        {
+          "marca": "Toyota",
+          "modeloFamilia": "sw4"
+        }
+      ]
+    },
+    {
+      "id": "global-small",
+      "nome": "Global Small",
+      "fabricante": "GM",
+      "familias": [
+        {
+          "marca": "GM - Chevrolet",
+          "modeloFamilia": "onix"
+        },
+        {
+          "marca": "GM - Chevrolet",
+          "modeloFamilia": "tracker"
+        },
+        {
+          "marca": "GM - Chevrolet",
+          "modeloFamilia": "spin"
+        },
+        {
+          "marca": "GM - Chevrolet",
+          "modeloFamilia": "montana"
+        }
+      ]
+    },
+    {
+      "id": "hb",
+      "nome": "HB",
+      "fabricante": "Hyundai",
+      "familias": [
+        {
+          "marca": "Hyundai",
+          "modeloFamilia": "hb20"
+        },
+        {
+          "marca": "Hyundai",
+          "modeloFamilia": "hb20s"
+        },
+        {
+          "marca": "Hyundai",
+          "modeloFamilia": "creta"
+        }
+      ]
+    }
+  ]
+}

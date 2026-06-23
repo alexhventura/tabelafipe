@@ -1,0 +1,57 @@
+{
+  "tipo": "geracao",
+  "slug": "1114-1",
+  "canonicalPath": "/geracao/mercedes-benz/1114-1/",
+  "titulo": "Geracao 1114-1",
+  "descricao": "4 veiculos da geracao 1114-1.",
+  "seo": {
+    "title": "Geracao 1114-1 - Precos FIPE",
+    "description": "Veiculos da geracao 1114-1 na Tabela FIPE.",
+    "h1": "Geracao 1114-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/mercedes-benz/1114-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "mercedes-benz-1114-3-eixos-2p-diesel-1994-diesel",
+      "fipeCodigo": "509001-6",
+      "displayName": "MERCEDES-BENZ 1114 3-Eixos 2p (diesel)",
+      "valorAtual": 36191,
+      "canonicalPath": "/fipe/mercedes-benz/1114-3-eixos-2p-diesel-1994-509001-6/",
+      "ano": 1994,
+      "marca": "MERCEDES-BENZ"
+    },
+    {
+      "vehicleId": "mercedes-benz-1114-3-eixos-2p-diesel-1995-diesel",
+      "fipeCodigo": "509001-6",
+      "displayName": "MERCEDES-BENZ 1114 3-Eixos 2p (diesel)",
+      "valorAtual": 42946,
+      "canonicalPath": "/fipe/mercedes-benz/1114-3-eixos-2p-diesel-1995-509001-6/",
+      "ano": 1995,
+      "marca": "MERCEDES-BENZ"
+    },
+    {
+      "vehicleId": "mercedes-benz-1114-3-eixos-2p-diesel-1996-diesel",
+      "fipeCodigo": "509001-6",
+      "displayName": "MERCEDES-BENZ 1114 3-Eixos 2p (diesel)",
+      "valorAtual": 44549,
+      "canonicalPath": "/fipe/mercedes-benz/1114-3-eixos-2p-diesel-1996-509001-6/",
+      "ano": 1996,
+      "marca": "MERCEDES-BENZ"
+    },
+    {
+      "vehicleId": "mercedes-benz-1114-3-eixos-2p-diesel-1997-diesel",
+      "fipeCodigo": "509001-6",
+      "displayName": "MERCEDES-BENZ 1114 3-Eixos 2p (diesel)",
+      "valorAtual": 45663,
+      "canonicalPath": "/fipe/mercedes-benz/1114-3-eixos-2p-diesel-1997-509001-6/",
+      "ano": 1997,
+      "marca": "MERCEDES-BENZ"
+    }
+  ],
+  "stats": {
+    "total": 4
+  },
+  "meta": {
+    "geracaoId": "1114-1"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "tipo": "familia",
+  "slug": "racer",
+  "canonicalPath": "/fipe/jonny/racer/",
+  "titulo": "JONNY racer - Tabela FIPE",
+  "descricao": "2 versoes e anos do JONNY racer na Tabela FIPE.",
+  "seo": {
+    "title": "JONNY racer - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes JONNY racer. 2 veiculos indexados.",
+    "h1": "JONNY racer - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/jonny/racer/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "jonny-racer-150cc-2013-gasolina",
+      "fipeCodigo": "865011-0",
+      "displayName": "JONNY RACER 150cc",
+      "valorAtual": 3548,
+      "canonicalPath": "/fipe/jonny/racer-150cc-2013-865011-0/",
+      "ano": 2013,
+      "marca": "JONNY"
+    },
+    {
+      "vehicleId": "jonny-racer-150cc-2012-gasolina",
+      "fipeCodigo": "865011-0",
+      "displayName": "JONNY RACER 150cc",
+      "valorAtual": 3063,
+      "canonicalPath": "/fipe/jonny/racer-150cc-2012-865011-0/",
+      "ano": 2012,
+      "marca": "JONNY"
+    }
+  ],
+  "stats": {
+    "total": 2,
+    "precoMin": 3063,
+    "precoMax": 3548,
+    "anos": [
+      2013,
+      2012
+    ]
+  }
+}

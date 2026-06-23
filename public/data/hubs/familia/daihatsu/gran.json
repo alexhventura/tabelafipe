@@ -1,0 +1,62 @@
+{
+  "tipo": "familia",
+  "slug": "gran",
+  "canonicalPath": "/fipe/daihatsu/gran/",
+  "titulo": "Daihatsu gran - Tabela FIPE",
+  "descricao": "4 versoes e anos do Daihatsu gran na Tabela FIPE.",
+  "seo": {
+    "title": "Daihatsu gran - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes Daihatsu gran. 4 veiculos indexados.",
+    "h1": "Daihatsu gran - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/daihatsu/gran/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "daihatsu-gran-move-1-5-1-6-16v-1999-gasolina",
+      "fipeCodigo": "012007-3",
+      "displayName": "Daihatsu Gran Move 1.5/1.6 16V",
+      "valorAtual": 7953,
+      "canonicalPath": "/fipe/daihatsu/gran-move-1-5-1-6-16v-1999-012007-3/",
+      "ano": 1999,
+      "marca": "Daihatsu"
+    },
+    {
+      "vehicleId": "daihatsu-gran-move-1-5-1-6-16v-1998-gasolina",
+      "fipeCodigo": "012007-3",
+      "displayName": "Daihatsu Gran Move 1.5/1.6 16V",
+      "valorAtual": 6584,
+      "canonicalPath": "/fipe/daihatsu/gran-move-1-5-1-6-16v-1998-012007-3/",
+      "ano": 1998,
+      "marca": "Daihatsu"
+    },
+    {
+      "vehicleId": "daihatsu-gran-move-1-5-1-6-16v-1997-gasolina",
+      "fipeCodigo": "012007-3",
+      "displayName": "Daihatsu Gran Move 1.5/1.6 16V",
+      "valorAtual": 5635,
+      "canonicalPath": "/fipe/daihatsu/gran-move-1-5-1-6-16v-1997-012007-3/",
+      "ano": 1997,
+      "marca": "Daihatsu"
+    },
+    {
+      "vehicleId": "daihatsu-gran-move-1-5-1-6-16v-1996-gasolina",
+      "fipeCodigo": "012007-3",
+      "displayName": "Daihatsu Gran Move 1.5/1.6 16V",
+      "valorAtual": 4568,
+      "canonicalPath": "/fipe/daihatsu/gran-move-1-5-1-6-16v-1996-012007-3/",
+      "ano": 1996,
+      "marca": "Daihatsu"
+    }
+  ],
+  "stats": {
+    "total": 4,
+    "precoMin": 4568,
+    "precoMax": 7953,
+    "anos": [
+      1999,
+      1998,
+      1997,
+      1996
+    ]
+  }
+}

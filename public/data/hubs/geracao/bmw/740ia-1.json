@@ -1,0 +1,84 @@
+{
+  "tipo": "geracao",
+  "slug": "740ia-1",
+  "canonicalPath": "/geracao/bmw/740ia-1/",
+  "titulo": "Geracao 740ia-1",
+  "descricao": "7 veiculos da geracao 740ia-1.",
+  "seo": {
+    "title": "Geracao 740ia-1 - Precos FIPE",
+    "description": "Veiculos da geracao 740ia-1 na Tabela FIPE.",
+    "h1": "Geracao 740ia-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/bmw/740ia-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "bmw-740ia-1995-gasolina",
+      "fipeCodigo": "009027-1",
+      "displayName": "BMW 740iA",
+      "valorAtual": 34398,
+      "canonicalPath": "/fipe/bmw/740ia-1995-009027-1/",
+      "ano": 1995,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-740ia-1996-gasolina",
+      "fipeCodigo": "009027-1",
+      "displayName": "BMW 740iA",
+      "valorAtual": 36926,
+      "canonicalPath": "/fipe/bmw/740ia-1996-009027-1/",
+      "ano": 1996,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-740ia-1997-gasolina",
+      "fipeCodigo": "009027-1",
+      "displayName": "BMW 740iA",
+      "valorAtual": 37850,
+      "canonicalPath": "/fipe/bmw/740ia-1997-009027-1/",
+      "ano": 1997,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-740ia-1998-gasolina",
+      "fipeCodigo": "009027-1",
+      "displayName": "BMW 740iA",
+      "valorAtual": 38797,
+      "canonicalPath": "/fipe/bmw/740ia-1998-009027-1/",
+      "ano": 1998,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-740ia-1999-gasolina",
+      "fipeCodigo": "009027-1",
+      "displayName": "BMW 740iA",
+      "valorAtual": 39767,
+      "canonicalPath": "/fipe/bmw/740ia-1999-009027-1/",
+      "ano": 1999,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-740ia-2000-gasolina",
+      "fipeCodigo": "009027-1",
+      "displayName": "BMW 740iA",
+      "valorAtual": 40893,
+      "canonicalPath": "/fipe/bmw/740ia-2000-009027-1/",
+      "ano": 2000,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-740ia-2001-gasolina",
+      "fipeCodigo": "009027-1",
+      "displayName": "BMW 740iA",
+      "valorAtual": 42037,
+      "canonicalPath": "/fipe/bmw/740ia-2001-009027-1/",
+      "ano": 2001,
+      "marca": "BMW"
+    }
+  ],
+  "stats": {
+    "total": 7
+  },
+  "meta": {
+    "geracaoId": "740ia-1"
+  }
+}

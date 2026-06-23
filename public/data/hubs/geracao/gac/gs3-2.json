@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "gs3-2",
+  "canonicalPath": "/geracao/gac/gs3-2/",
+  "titulo": "Geracao gs3-2",
+  "descricao": "2 veiculos da geracao gs3-2.",
+  "seo": {
+    "title": "Geracao gs3-2 - Precos FIPE",
+    "description": "Veiculos da geracao gs3-2 na Tabela FIPE.",
+    "h1": "Geracao gs3-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/gac/gs3-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "gac-gs3-elite-1-5-16v-turbo-aut-2027-gasolina",
+      "fipeCodigo": "304010-0",
+      "displayName": "GAC GS3 Elite 1,5 16V Turbo Aut.",
+      "valorAtual": 145244,
+      "canonicalPath": "/fipe/gac/gs3-elite-1-5-16v-turbo-aut-2027-304010-0/",
+      "ano": 2027,
+      "marca": "GAC"
+    },
+    {
+      "vehicleId": "gac-gs3-premium-1-5-16v-turbo-aut-2027-gasolina",
+      "fipeCodigo": "304009-7",
+      "displayName": "GAC GS3 Premium 1,5 16V Turbo Aut.",
+      "valorAtual": 128296,
+      "canonicalPath": "/fipe/gac/gs3-premium-1-5-16v-turbo-aut-2027-304009-7/",
+      "ano": 2027,
+      "marca": "GAC"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "gs3-2"
+  }
+}

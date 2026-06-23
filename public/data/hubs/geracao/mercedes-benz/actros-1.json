@@ -1,0 +1,111 @@
+{
+  "tipo": "geracao",
+  "slug": "actros-1",
+  "canonicalPath": "/geracao/mercedes-benz/actros-1/",
+  "titulo": "Geracao actros-1",
+  "descricao": "10 veiculos da geracao actros-1.",
+  "seo": {
+    "title": "Geracao actros-1 - Precos FIPE",
+    "description": "Veiculos da geracao actros-1 na Tabela FIPE.",
+    "h1": "Geracao actros-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/mercedes-benz/actros-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "mercedes-benz-actros-2045-ls-4x2-2p-diesel-e6-0-diesel",
+      "fipeCodigo": "509352-0",
+      "displayName": "MERCEDES-BENZ Actros 2045 LS 4x2 2p (diesel)(E6)",
+      "valorAtual": 835327,
+      "canonicalPath": "/fipe/mercedes-benz/actros-2045-ls-4x2-2p-diesel-e6-0-509352-0/",
+      "ano": 0,
+      "marca": "MERCEDES-BENZ"
+    },
+    {
+      "vehicleId": "mercedes-benz-actros-2045-s-4x2-2p-diesel-e6-0-diesel",
+      "fipeCodigo": "509371-6",
+      "displayName": "MERCEDES-BENZ Actros 2045 S 4x2 2p (diesel)(E6)",
+      "valorAtual": 821010,
+      "canonicalPath": "/fipe/mercedes-benz/actros-2045-s-4x2-2p-diesel-e6-0-509371-6/",
+      "ano": 0,
+      "marca": "MERCEDES-BENZ"
+    },
+    {
+      "vehicleId": "mercedes-benz-actros-2548-ls-6x2-2p-diesel-e6-0-diesel",
+      "fipeCodigo": "509353-8",
+      "displayName": "MERCEDES-BENZ Actros 2548 LS 6x2 2p (diesel)(E6)",
+      "valorAtual": 848135,
+      "canonicalPath": "/fipe/mercedes-benz/actros-2548-ls-6x2-2p-diesel-e6-0-509353-8/",
+      "ano": 0,
+      "marca": "MERCEDES-BENZ"
+    },
+    {
+      "vehicleId": "mercedes-benz-actros-2548-s-6x2-2p-diesel-e6-0-diesel",
+      "fipeCodigo": "509372-4",
+      "displayName": "MERCEDES-BENZ Actros 2548 S 6x2 2p (diesel)(E6)",
+      "valorAtual": 839850,
+      "canonicalPath": "/fipe/mercedes-benz/actros-2548-s-6x2-2p-diesel-e6-0-509372-4/",
+      "ano": 0,
+      "marca": "MERCEDES-BENZ"
+    },
+    {
+      "vehicleId": "mercedes-benz-actros-2553-ls-6x2-2p-diesel-e6-0-diesel",
+      "fipeCodigo": "509356-2",
+      "displayName": "MERCEDES-BENZ Actros 2553 LS 6x2 2p (diesel)(E6)",
+      "valorAtual": 935360,
+      "canonicalPath": "/fipe/mercedes-benz/actros-2553-ls-6x2-2p-diesel-e6-0-509356-2/",
+      "ano": 0,
+      "marca": "MERCEDES-BENZ"
+    },
+    {
+      "vehicleId": "mercedes-benz-actros-2553-s-6x2-2p-diesel-e6-0-diesel",
+      "fipeCodigo": "509366-0",
+      "displayName": "MERCEDES-BENZ Actros 2553 S 6x2 2p (diesel)(E6)",
+      "valorAtual": 895465,
+      "canonicalPath": "/fipe/mercedes-benz/actros-2553-s-6x2-2p-diesel-e6-0-509366-0/",
+      "ano": 0,
+      "marca": "MERCEDES-BENZ"
+    },
+    {
+      "vehicleId": "mercedes-benz-actros-2651-ls-6x4-diesel-e6-0-diesel",
+      "fipeCodigo": "509355-4",
+      "displayName": "MERCEDES-BENZ Actros 2651 LS 6x4 (diesel)(E6)",
+      "valorAtual": 935455,
+      "canonicalPath": "/fipe/mercedes-benz/actros-2651-ls-6x4-diesel-e6-0-509355-4/",
+      "ano": 0,
+      "marca": "MERCEDES-BENZ"
+    },
+    {
+      "vehicleId": "mercedes-benz-actros-2651-s-6x4-2p-diesel-e6-0-diesel",
+      "fipeCodigo": "509354-6",
+      "displayName": "MERCEDES-BENZ Actros 2651 S 6x4 2p (diesel)(E6)",
+      "valorAtual": 895699,
+      "canonicalPath": "/fipe/mercedes-benz/actros-2651-s-6x4-2p-diesel-e6-0-509354-6/",
+      "ano": 0,
+      "marca": "MERCEDES-BENZ"
+    },
+    {
+      "vehicleId": "mercedes-benz-actros-2653-ls-6x4-diesel-e6-0-diesel",
+      "fipeCodigo": "509358-9",
+      "displayName": "MERCEDES-BENZ Actros 2653 LS 6x4 (diesel)(E6)",
+      "valorAtual": 972481,
+      "canonicalPath": "/fipe/mercedes-benz/actros-2653-ls-6x4-diesel-e6-0-509358-9/",
+      "ano": 0,
+      "marca": "MERCEDES-BENZ"
+    },
+    {
+      "vehicleId": "mercedes-benz-actros-2653-s-6x4-2p-diesel-e6-0-diesel",
+      "fipeCodigo": "509357-0",
+      "displayName": "MERCEDES-BENZ Actros 2653 S 6x4 2p (diesel)(E6)",
+      "valorAtual": 949000,
+      "canonicalPath": "/fipe/mercedes-benz/actros-2653-s-6x4-2p-diesel-e6-0-509357-0/",
+      "ano": 0,
+      "marca": "MERCEDES-BENZ"
+    }
+  ],
+  "stats": {
+    "total": 10
+  },
+  "meta": {
+    "geracaoId": "actros-1"
+  }
+}

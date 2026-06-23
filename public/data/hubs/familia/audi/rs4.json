@@ -1,0 +1,92 @@
+{
+  "tipo": "familia",
+  "slug": "rs4",
+  "canonicalPath": "/fipe/audi/rs4/",
+  "titulo": "Audi rs4 - Tabela FIPE",
+  "descricao": "7 versoes e anos do Audi rs4 na Tabela FIPE.",
+  "seo": {
+    "title": "Audi rs4 - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes Audi rs4. 7 veiculos indexados.",
+    "h1": "Audi rs4 - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/audi/rs4/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "audi-rs4-2-9-avant-v6-tfsi-quattro-tiptronic-2022-gasolina",
+      "fipeCodigo": "008242-2",
+      "displayName": "Audi RS4 2.9 Avant V6 TFSI Quattro Tiptronic",
+      "valorAtual": 695222,
+      "canonicalPath": "/fipe/audi/rs4-2-9-avant-v6-tfsi-quattro-tiptronic-2022-008242-2/",
+      "ano": 2022,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-rs4-2-9-avant-v6-tfsi-quattro-tiptronic-2021-gasolina",
+      "fipeCodigo": "008242-2",
+      "displayName": "Audi RS4 2.9 Avant V6 TFSI Quattro Tiptronic",
+      "valorAtual": 511156,
+      "canonicalPath": "/fipe/audi/rs4-2-9-avant-v6-tfsi-quattro-tiptronic-2021-008242-2/",
+      "ano": 2021,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-rs4-2-9-avant-v6-tfsi-quattro-tiptronic-2019-gasolina",
+      "fipeCodigo": "008242-2",
+      "displayName": "Audi RS4 2.9 Avant V6 TFSI Quattro Tiptronic",
+      "valorAtual": 398191,
+      "canonicalPath": "/fipe/audi/rs4-2-9-avant-v6-tfsi-quattro-tiptronic-2019-008242-2/",
+      "ano": 2019,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-rs4-4-2-avant-32v-fsi-quattro-s-tronic-2015-gasolina",
+      "fipeCodigo": "008183-3",
+      "displayName": "Audi RS4 4.2 Avant 32V FSI Quattro S-tronic",
+      "valorAtual": 370185,
+      "canonicalPath": "/fipe/audi/rs4-4-2-avant-32v-fsi-quattro-s-tronic-2015-008183-3/",
+      "ano": 2015,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-rs4-4-2-avant-32v-fsi-quattro-s-tronic-2014-gasolina",
+      "fipeCodigo": "008183-3",
+      "displayName": "Audi RS4 4.2 Avant 32V FSI Quattro S-tronic",
+      "valorAtual": 347502,
+      "canonicalPath": "/fipe/audi/rs4-4-2-avant-32v-fsi-quattro-s-tronic-2014-008183-3/",
+      "ano": 2014,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-rs4-4-2-avant-32v-fsi-quattro-s-tronic-2013-gasolina",
+      "fipeCodigo": "008183-3",
+      "displayName": "Audi RS4 4.2 Avant 32V FSI Quattro S-tronic",
+      "valorAtual": 255933,
+      "canonicalPath": "/fipe/audi/rs4-4-2-avant-32v-fsi-quattro-s-tronic-2013-008183-3/",
+      "ano": 2013,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-rs4-2-7-avant-v6-30v-bi-tb-quattro-380cv-2001-gasolina",
+      "fipeCodigo": "008100-0",
+      "displayName": "Audi RS4 2.7 Avant V6 30V BI-TB Quattro 380cv",
+      "valorAtual": 158959,
+      "canonicalPath": "/fipe/audi/rs4-2-7-avant-v6-30v-bi-tb-quattro-380cv-2001-008100-0/",
+      "ano": 2001,
+      "marca": "Audi"
+    }
+  ],
+  "stats": {
+    "total": 7,
+    "precoMin": 158959,
+    "precoMax": 695222,
+    "anos": [
+      2022,
+      2021,
+      2019,
+      2015,
+      2014,
+      2013,
+      2001
+    ]
+  }
+}

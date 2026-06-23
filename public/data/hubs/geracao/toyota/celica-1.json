@@ -1,0 +1,66 @@
+{
+  "tipo": "geracao",
+  "slug": "celica-1",
+  "canonicalPath": "/geracao/toyota/celica-1/",
+  "titulo": "Geracao celica-1",
+  "descricao": "5 veiculos da geracao celica-1.",
+  "seo": {
+    "title": "Geracao celica-1 - Precos FIPE",
+    "description": "Veiculos da geracao celica-1 na Tabela FIPE.",
+    "h1": "Geracao celica-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/toyota/celica-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "toyota-celica-gt-2-2-16v-1993-gasolina",
+      "fipeCodigo": "002044-3",
+      "displayName": "Toyota Celica GT 2.2 16V",
+      "valorAtual": 10242,
+      "canonicalPath": "/fipe/toyota/celica-gt-2-2-16v-1993-002044-3/",
+      "ano": 1993,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-celica-gt-2-2-16v-1994-gasolina",
+      "fipeCodigo": "002044-3",
+      "displayName": "Toyota Celica GT 2.2 16V",
+      "valorAtual": 12373,
+      "canonicalPath": "/fipe/toyota/celica-gt-2-2-16v-1994-002044-3/",
+      "ano": 1994,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-celica-gt-2-2-16v-1995-gasolina",
+      "fipeCodigo": "002044-3",
+      "displayName": "Toyota Celica GT 2.2 16V",
+      "valorAtual": 18805,
+      "canonicalPath": "/fipe/toyota/celica-gt-2-2-16v-1995-002044-3/",
+      "ano": 1995,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-celica-st-1-8-1992-gasolina",
+      "fipeCodigo": "002036-2",
+      "displayName": "Toyota Celica ST 1.8",
+      "valorAtual": 9087,
+      "canonicalPath": "/fipe/toyota/celica-st-1-8-1992-002036-2/",
+      "ano": 1992,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-celica-st-1-8-1993-gasolina",
+      "fipeCodigo": "002036-2",
+      "displayName": "Toyota Celica ST 1.8",
+      "valorAtual": 10582,
+      "canonicalPath": "/fipe/toyota/celica-st-1-8-1993-002036-2/",
+      "ano": 1993,
+      "marca": "Toyota"
+    }
+  ],
+  "stats": {
+    "total": 5
+  },
+  "meta": {
+    "geracaoId": "celica-1"
+  }
+}

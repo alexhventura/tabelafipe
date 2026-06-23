@@ -1,0 +1,57 @@
+{
+  "tipo": "geracao",
+  "slug": "dakota-1",
+  "canonicalPath": "/geracao/dodge/dakota-1/",
+  "titulo": "Geracao dakota-1",
+  "descricao": "4 veiculos da geracao dakota-1.",
+  "seo": {
+    "title": "Geracao dakota-1 - Precos FIPE",
+    "description": "Veiculos da geracao dakota-1 na Tabela FIPE.",
+    "h1": "Geracao dakota-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/dodge/dakota-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "dodge-dakota-club-2-5-1995-gasolina",
+      "fipeCodigo": "013013-3",
+      "displayName": "Dodge Dakota Club 2.5",
+      "valorAtual": 8254,
+      "canonicalPath": "/fipe/dodge/dakota-club-2-5-1995-013013-3/",
+      "ano": 1995,
+      "marca": "Dodge"
+    },
+    {
+      "vehicleId": "dodge-dakota-sport-2-5-4x4-1995-gasolina",
+      "fipeCodigo": "013014-1",
+      "displayName": "Dodge Dakota Sport 2.5 4x4",
+      "valorAtual": 10071,
+      "canonicalPath": "/fipe/dodge/dakota-sport-2-5-4x4-1995-013014-1/",
+      "ano": 1995,
+      "marca": "Dodge"
+    },
+    {
+      "vehicleId": "ram-dakota-laramie-2-2-tb-cd-4x4-aut-0-diesel",
+      "fipeCodigo": "083028-3",
+      "displayName": "RAM DAKOTA LARAMIE 2.2 TB CD 4x4 Aut.",
+      "valorAtual": 322915,
+      "canonicalPath": "/fipe/ram/dakota-laramie-2-2-tb-cd-4x4-aut-0-083028-3/",
+      "ano": 0,
+      "marca": "RAM"
+    },
+    {
+      "vehicleId": "ram-dakota-warlock-2-2-tb-cd-4x4-aut-0-diesel",
+      "fipeCodigo": "083027-5",
+      "displayName": "RAM DAKOTA WARLOCK 2.2 TB CD 4x4 Aut.",
+      "valorAtual": 299804,
+      "canonicalPath": "/fipe/ram/dakota-warlock-2-2-tb-cd-4x4-aut-0-083027-5/",
+      "ano": 0,
+      "marca": "RAM"
+    }
+  ],
+  "stats": {
+    "total": 4
+  },
+  "meta": {
+    "geracaoId": "dakota-1"
+  }
+}

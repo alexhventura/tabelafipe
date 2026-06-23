@@ -1,0 +1,62 @@
+{
+  "tipo": "familia",
+  "slug": "fast",
+  "canonicalPath": "/fipe/miza/fast/",
+  "titulo": "MIZA fast - Tabela FIPE",
+  "descricao": "4 versoes e anos do MIZA fast na Tabela FIPE.",
+  "seo": {
+    "title": "MIZA fast - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes MIZA fast. 4 veiculos indexados.",
+    "h1": "MIZA fast - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/miza/fast/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "miza-fast-lj-150-2-2011-gasolina",
+      "fipeCodigo": "848003-6",
+      "displayName": "MIZA FAST LJ 150-2",
+      "valorAtual": 2713,
+      "canonicalPath": "/fipe/miza/fast-lj-150-2-2011-848003-6/",
+      "ano": 2011,
+      "marca": "MIZA"
+    },
+    {
+      "vehicleId": "miza-fast-lj-150-2-2009-gasolina",
+      "fipeCodigo": "848003-6",
+      "displayName": "MIZA FAST LJ 150-2",
+      "valorAtual": 2477,
+      "canonicalPath": "/fipe/miza/fast-lj-150-2-2009-848003-6/",
+      "ano": 2009,
+      "marca": "MIZA"
+    },
+    {
+      "vehicleId": "miza-fast-lj-150-2-2008-gasolina",
+      "fipeCodigo": "848003-6",
+      "displayName": "MIZA FAST LJ 150-2",
+      "valorAtual": 2336,
+      "canonicalPath": "/fipe/miza/fast-lj-150-2-2008-848003-6/",
+      "ano": 2008,
+      "marca": "MIZA"
+    },
+    {
+      "vehicleId": "miza-fast-lj-150-2-2007-gasolina",
+      "fipeCodigo": "848003-6",
+      "displayName": "MIZA FAST LJ 150-2",
+      "valorAtual": 2010,
+      "canonicalPath": "/fipe/miza/fast-lj-150-2-2007-848003-6/",
+      "ano": 2007,
+      "marca": "MIZA"
+    }
+  ],
+  "stats": {
+    "total": 4,
+    "precoMin": 2010,
+    "precoMax": 2713,
+    "anos": [
+      2011,
+      2009,
+      2008,
+      2007
+    ]
+  }
+}

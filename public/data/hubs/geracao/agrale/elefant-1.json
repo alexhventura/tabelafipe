@@ -1,0 +1,84 @@
+{
+  "tipo": "geracao",
+  "slug": "elefant-1",
+  "canonicalPath": "/geracao/agrale/elefant-1/",
+  "titulo": "Geracao elefant-1",
+  "descricao": "7 veiculos da geracao elefant-1.",
+  "seo": {
+    "title": "Geracao elefant-1 - Precos FIPE",
+    "description": "Veiculos da geracao elefant-1 na Tabela FIPE.",
+    "h1": "Geracao elefant-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/agrale/elefant-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "agrale-elefant-16-5-125cc-1990-gasolina",
+      "fipeCodigo": "801007-2",
+      "displayName": "AGRALE ELEFANT 16.5 125cc",
+      "valorAtual": 1235,
+      "canonicalPath": "/fipe/agrale/elefant-16-5-125cc-1990-801007-2/",
+      "ano": 1990,
+      "marca": "AGRALE"
+    },
+    {
+      "vehicleId": "agrale-elefant-27-5-190cc-1990-gasolina",
+      "fipeCodigo": "801006-4",
+      "displayName": "AGRALE ELEFANT 27.5 190cc",
+      "valorAtual": 1327,
+      "canonicalPath": "/fipe/agrale/elefant-27-5-190cc-1990-801006-4/",
+      "ano": 1990,
+      "marca": "AGRALE"
+    },
+    {
+      "vehicleId": "agrale-elefant-27-5-190cc-1991-gasolina",
+      "fipeCodigo": "801006-4",
+      "displayName": "AGRALE ELEFANT 27.5 190cc",
+      "valorAtual": 1420,
+      "canonicalPath": "/fipe/agrale/elefant-27-5-190cc-1991-801006-4/",
+      "ano": 1991,
+      "marca": "AGRALE"
+    },
+    {
+      "vehicleId": "cagiva-elefant-750-1994-gasolina",
+      "fipeCodigo": "805001-5",
+      "displayName": "CAGIVA ELEFANT 750",
+      "valorAtual": 9911,
+      "canonicalPath": "/fipe/cagiva/elefant-750-1994-805001-5/",
+      "ano": 1994,
+      "marca": "CAGIVA"
+    },
+    {
+      "vehicleId": "cagiva-elefant-750-1995-gasolina",
+      "fipeCodigo": "805001-5",
+      "displayName": "CAGIVA ELEFANT 750",
+      "valorAtual": 11263,
+      "canonicalPath": "/fipe/cagiva/elefant-750-1995-805001-5/",
+      "ano": 1995,
+      "marca": "CAGIVA"
+    },
+    {
+      "vehicleId": "cagiva-elefant-900-1994-gasolina",
+      "fipeCodigo": "805002-3",
+      "displayName": "CAGIVA ELEFANT 900",
+      "valorAtual": 16605,
+      "canonicalPath": "/fipe/cagiva/elefant-900-1994-805002-3/",
+      "ano": 1994,
+      "marca": "CAGIVA"
+    },
+    {
+      "vehicleId": "cagiva-elefant-900-1995-gasolina",
+      "fipeCodigo": "805002-3",
+      "displayName": "CAGIVA ELEFANT 900",
+      "valorAtual": 17656,
+      "canonicalPath": "/fipe/cagiva/elefant-900-1995-805002-3/",
+      "ano": 1995,
+      "marca": "CAGIVA"
+    }
+  ],
+  "stats": {
+    "total": 7
+  },
+  "meta": {
+    "geracaoId": "elefant-1"
+  }
+}

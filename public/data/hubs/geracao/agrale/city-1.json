@@ -1,0 +1,174 @@
+{
+  "tipo": "geracao",
+  "slug": "city-1",
+  "canonicalPath": "/geracao/agrale/city-1/",
+  "titulo": "Geracao city-1",
+  "descricao": "17 veiculos da geracao city-1.",
+  "seo": {
+    "title": "Geracao city-1 - Precos FIPE",
+    "description": "Veiculos da geracao city-1 na Tabela FIPE.",
+    "h1": "Geracao city-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/agrale/city-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "agrale-city-50-1997-gasolina",
+      "fipeCodigo": "801002-1",
+      "displayName": "AGRALE CITY 50",
+      "valorAtual": 1213,
+      "canonicalPath": "/fipe/agrale/city-50-1997-801002-1/",
+      "ano": 1997,
+      "marca": "AGRALE"
+    },
+    {
+      "vehicleId": "agrale-city-50-1998-gasolina",
+      "fipeCodigo": "801002-1",
+      "displayName": "AGRALE CITY 50",
+      "valorAtual": 1263,
+      "canonicalPath": "/fipe/agrale/city-50-1998-801002-1/",
+      "ano": 1998,
+      "marca": "AGRALE"
+    },
+    {
+      "vehicleId": "agrale-city-50-1999-gasolina",
+      "fipeCodigo": "801002-1",
+      "displayName": "AGRALE CITY 50",
+      "valorAtual": 1399,
+      "canonicalPath": "/fipe/agrale/city-50-1999-801002-1/",
+      "ano": 1999,
+      "marca": "AGRALE"
+    },
+    {
+      "vehicleId": "agrale-city-50-2000-gasolina",
+      "fipeCodigo": "801002-1",
+      "displayName": "AGRALE CITY 50",
+      "valorAtual": 1481,
+      "canonicalPath": "/fipe/agrale/city-50-2000-801002-1/",
+      "ano": 2000,
+      "marca": "AGRALE"
+    },
+    {
+      "vehicleId": "agrale-city-50-2001-gasolina",
+      "fipeCodigo": "801002-1",
+      "displayName": "AGRALE CITY 50",
+      "valorAtual": 1537,
+      "canonicalPath": "/fipe/agrale/city-50-2001-801002-1/",
+      "ano": 2001,
+      "marca": "AGRALE"
+    },
+    {
+      "vehicleId": "agrale-city-90-1997-gasolina",
+      "fipeCodigo": "801003-0",
+      "displayName": "AGRALE CITY 90",
+      "valorAtual": 1593,
+      "canonicalPath": "/fipe/agrale/city-90-1997-801003-0/",
+      "ano": 1997,
+      "marca": "AGRALE"
+    },
+    {
+      "vehicleId": "agrale-city-90-1998-gasolina",
+      "fipeCodigo": "801003-0",
+      "displayName": "AGRALE CITY 90",
+      "valorAtual": 1758,
+      "canonicalPath": "/fipe/agrale/city-90-1998-801003-0/",
+      "ano": 1998,
+      "marca": "AGRALE"
+    },
+    {
+      "vehicleId": "agrale-city-90-1999-gasolina",
+      "fipeCodigo": "801003-0",
+      "displayName": "AGRALE CITY 90",
+      "valorAtual": 1940,
+      "canonicalPath": "/fipe/agrale/city-90-1999-801003-0/",
+      "ano": 1999,
+      "marca": "AGRALE"
+    },
+    {
+      "vehicleId": "honda-city-hatchback-ex-1-5-flex-16v-aut-0-flex",
+      "fipeCodigo": "014115-1",
+      "displayName": "Honda CITY Hatchback EX 1.5 Flex 16V Aut.",
+      "valorAtual": 135362,
+      "canonicalPath": "/fipe/honda/city-hatchback-ex-1-5-flex-16v-aut-0-014115-1/",
+      "ano": 0,
+      "marca": "Honda"
+    },
+    {
+      "vehicleId": "honda-city-hatchback-exl-1-5-flex-16v-aut-0-flex",
+      "fipeCodigo": "014108-9",
+      "displayName": "Honda CITY Hatchback EXL 1.5 Flex 16V Aut.",
+      "valorAtual": 144101,
+      "canonicalPath": "/fipe/honda/city-hatchback-exl-1-5-flex-16v-aut-0-014108-9/",
+      "ano": 0,
+      "marca": "Honda"
+    },
+    {
+      "vehicleId": "honda-city-hatchback-lx-1-5-flex-16v-aut-0-flex",
+      "fipeCodigo": "014116-0",
+      "displayName": "Honda CITY Hatchback LX 1.5 Flex 16V Aut.",
+      "valorAtual": 121588,
+      "canonicalPath": "/fipe/honda/city-hatchback-lx-1-5-flex-16v-aut-0-014116-0/",
+      "ano": 0,
+      "marca": "Honda"
+    },
+    {
+      "vehicleId": "honda-city-hatchback-touring-1-5-flex-16v-aut-0-flex",
+      "fipeCodigo": "014107-0",
+      "displayName": "Honda CITY Hatchback Touring 1.5 Flex 16V Aut",
+      "valorAtual": 151319,
+      "canonicalPath": "/fipe/honda/city-hatchback-touring-1-5-flex-16v-aut-0-014107-0/",
+      "ano": 0,
+      "marca": "Honda"
+    },
+    {
+      "vehicleId": "honda-city-hatchback-touring-sport-1-5-16v-aut-0-flex",
+      "fipeCodigo": "014118-6",
+      "displayName": "Honda CITY Hatchback Touring Sport 1.5 16V Aut",
+      "valorAtual": 151015,
+      "canonicalPath": "/fipe/honda/city-hatchback-touring-sport-1-5-16v-aut-0-014118-6/",
+      "ano": 0,
+      "marca": "Honda"
+    },
+    {
+      "vehicleId": "honda-city-sedan-ex-1-5-flex-16v-4p-aut-0-flex",
+      "fipeCodigo": "014061-9",
+      "displayName": "Honda CITY Sedan EX 1.5 Flex 16V 4p Aut.",
+      "valorAtual": 136594,
+      "canonicalPath": "/fipe/honda/city-sedan-ex-1-5-flex-16v-4p-aut-0-014061-9/",
+      "ano": 0,
+      "marca": "Honda"
+    },
+    {
+      "vehicleId": "honda-city-sedan-exl-1-5-flex-16v-4p-aut-0-flex",
+      "fipeCodigo": "014063-5",
+      "displayName": "Honda CITY Sedan EXL 1.5 Flex  16V 4p Aut.",
+      "valorAtual": 144654,
+      "canonicalPath": "/fipe/honda/city-sedan-exl-1-5-flex-16v-4p-aut-0-014063-5/",
+      "ano": 0,
+      "marca": "Honda"
+    },
+    {
+      "vehicleId": "honda-city-sedan-lx-1-5-flex-16v-4p-aut-0-flex",
+      "fipeCodigo": "014059-7",
+      "displayName": "Honda CITY Sedan LX 1.5 Flex 16V 4p Aut.",
+      "valorAtual": 118761,
+      "canonicalPath": "/fipe/honda/city-sedan-lx-1-5-flex-16v-4p-aut-0-014059-7/",
+      "ano": 0,
+      "marca": "Honda"
+    },
+    {
+      "vehicleId": "honda-city-sedan-touring-1-5-flex-16v-4p-aut-0-flex",
+      "fipeCodigo": "014106-2",
+      "displayName": "Honda CITY Sedan Touring 1.5 Flex 16V 4p Aut.",
+      "valorAtual": 152248,
+      "canonicalPath": "/fipe/honda/city-sedan-touring-1-5-flex-16v-4p-aut-0-014106-2/",
+      "ano": 0,
+      "marca": "Honda"
+    }
+  ],
+  "stats": {
+    "total": 17
+  },
+  "meta": {
+    "geracaoId": "city-1"
+  }
+}

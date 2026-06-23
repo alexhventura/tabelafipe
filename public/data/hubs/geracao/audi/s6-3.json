@@ -1,0 +1,57 @@
+{
+  "tipo": "geracao",
+  "slug": "s6-3",
+  "canonicalPath": "/geracao/audi/s6-3/",
+  "titulo": "Geracao s6-3",
+  "descricao": "4 veiculos da geracao s6-3.",
+  "seo": {
+    "title": "Geracao s6-3 - Precos FIPE",
+    "description": "Veiculos da geracao s6-3 na Tabela FIPE.",
+    "h1": "Geracao s6-3",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/audi/s6-3/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "audi-s6-5-2-avant-fsi-v10-435cv-quattro-tiptr-2010-gasolina",
+      "fipeCodigo": "008144-2",
+      "displayName": "Audi S6 5.2 Avant FSI V10 435cv Quattro Tiptr",
+      "valorAtual": 198430,
+      "canonicalPath": "/fipe/audi/s6-5-2-avant-fsi-v10-435cv-quattro-tiptr-2010-008144-2/",
+      "ano": 2010,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-s6-5-2-avant-fsi-v10-435cv-quattro-tiptr-2011-gasolina",
+      "fipeCodigo": "008144-2",
+      "displayName": "Audi S6 5.2 Avant FSI V10 435cv Quattro Tiptr",
+      "valorAtual": 209490,
+      "canonicalPath": "/fipe/audi/s6-5-2-avant-fsi-v10-435cv-quattro-tiptr-2011-008144-2/",
+      "ano": 2011,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-s6-5-2-fsi-v10-435cv-quattro-tiptronic-2010-gasolina",
+      "fipeCodigo": "008143-4",
+      "displayName": "Audi S6 5.2 FSI V10 435cv Quattro Tiptronic",
+      "valorAtual": 173004,
+      "canonicalPath": "/fipe/audi/s6-5-2-fsi-v10-435cv-quattro-tiptronic-2010-008143-4/",
+      "ano": 2010,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-s6-5-2-fsi-v10-435cv-quattro-tiptronic-2011-gasolina",
+      "fipeCodigo": "008143-4",
+      "displayName": "Audi S6 5.2 FSI V10 435cv Quattro Tiptronic",
+      "valorAtual": 205219,
+      "canonicalPath": "/fipe/audi/s6-5-2-fsi-v10-435cv-quattro-tiptronic-2011-008143-4/",
+      "ano": 2011,
+      "marca": "Audi"
+    }
+  ],
+  "stats": {
+    "total": 4
+  },
+  "meta": {
+    "geracaoId": "s6-3"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "tipo": "geracao",
+  "slug": "axor-1",
+  "canonicalPath": "/geracao/mercedes-benz/axor-1/",
+  "titulo": "Geracao axor-1",
+  "descricao": "3 veiculos da geracao axor-1.",
+  "seo": {
+    "title": "Geracao axor-1 - Precos FIPE",
+    "description": "Veiculos da geracao axor-1 na Tabela FIPE.",
+    "h1": "Geracao axor-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/mercedes-benz/axor-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "mercedes-benz-axor-2038-s-4x2-2p-diesel-e6-0-diesel",
+      "fipeCodigo": "509374-0",
+      "displayName": "MERCEDES-BENZ Axor 2038 S 4x2 2p (diesel) (E6)",
+      "valorAtual": 696325,
+      "canonicalPath": "/fipe/mercedes-benz/axor-2038-s-4x2-2p-diesel-e6-0-509374-0/",
+      "ano": 0,
+      "marca": "MERCEDES-BENZ"
+    },
+    {
+      "vehicleId": "mercedes-benz-axor-2538-s-6x2-2p-diesel-e6-0-diesel",
+      "fipeCodigo": "509376-7",
+      "displayName": "MERCEDES-BENZ Axor 2538 S 6x2 2p (diesel) (E6)",
+      "valorAtual": 755888,
+      "canonicalPath": "/fipe/mercedes-benz/axor-2538-s-6x2-2p-diesel-e6-0-509376-7/",
+      "ano": 0,
+      "marca": "MERCEDES-BENZ"
+    },
+    {
+      "vehicleId": "mercedes-benz-axor-2545-s-6x2-2p-diesel-e6-0-diesel",
+      "fipeCodigo": "509375-9",
+      "displayName": "MERCEDES-BENZ Axor 2545 S 6x2 2p (diesel) (E6)",
+      "valorAtual": 758111,
+      "canonicalPath": "/fipe/mercedes-benz/axor-2545-s-6x2-2p-diesel-e6-0-509375-9/",
+      "ano": 0,
+      "marca": "MERCEDES-BENZ"
+    }
+  ],
+  "stats": {
+    "total": 3
+  },
+  "meta": {
+    "geracaoId": "axor-1"
+  }
+}

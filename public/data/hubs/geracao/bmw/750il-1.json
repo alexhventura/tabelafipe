@@ -1,0 +1,75 @@
+{
+  "tipo": "geracao",
+  "slug": "750il-1",
+  "canonicalPath": "/geracao/bmw/750il-1/",
+  "titulo": "Geracao 750il-1",
+  "descricao": "6 veiculos da geracao 750il-1.",
+  "seo": {
+    "title": "Geracao 750il-1 - Precos FIPE",
+    "description": "Veiculos da geracao 750il-1 na Tabela FIPE.",
+    "h1": "Geracao 750il-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/bmw/750il-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "bmw-750il-highline-5-4-24v-1993-gasolina",
+      "fipeCodigo": "009071-9",
+      "displayName": "BMW 750iL Highline 5.4 24V",
+      "valorAtual": 25892,
+      "canonicalPath": "/fipe/bmw/750il-highline-5-4-24v-1993-009071-9/",
+      "ano": 1993,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-750il-highline-5-4-24v-1994-gasolina",
+      "fipeCodigo": "009071-9",
+      "displayName": "BMW 750iL Highline 5.4 24V",
+      "valorAtual": 31080,
+      "canonicalPath": "/fipe/bmw/750il-highline-5-4-24v-1994-009071-9/",
+      "ano": 1994,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-750il-highline-5-4-24v-1995-gasolina",
+      "fipeCodigo": "009071-9",
+      "displayName": "BMW 750iL Highline 5.4 24V",
+      "valorAtual": 41441,
+      "canonicalPath": "/fipe/bmw/750il-highline-5-4-24v-1995-009071-9/",
+      "ano": 1995,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-750il-highline-5-4-24v-1996-gasolina",
+      "fipeCodigo": "009071-9",
+      "displayName": "BMW 750iL Highline 5.4 24V",
+      "valorAtual": 44688,
+      "canonicalPath": "/fipe/bmw/750il-highline-5-4-24v-1996-009071-9/",
+      "ano": 1996,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-750il-highline-5-4-24v-1997-gasolina",
+      "fipeCodigo": "009071-9",
+      "displayName": "BMW 750iL Highline 5.4 24V",
+      "valorAtual": 47252,
+      "canonicalPath": "/fipe/bmw/750il-highline-5-4-24v-1997-009071-9/",
+      "ano": 1997,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-750il-highline-5-4-24v-1998-gasolina",
+      "fipeCodigo": "009071-9",
+      "displayName": "BMW 750iL Highline 5.4 24V",
+      "valorAtual": 66170,
+      "canonicalPath": "/fipe/bmw/750il-highline-5-4-24v-1998-009071-9/",
+      "ano": 1998,
+      "marca": "BMW"
+    }
+  ],
+  "stats": {
+    "total": 6
+  },
+  "meta": {
+    "geracaoId": "750il-1"
+  }
+}

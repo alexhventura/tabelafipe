@@ -1,0 +1,93 @@
+{
+  "tipo": "geracao",
+  "slug": "ora-2",
+  "canonicalPath": "/geracao/gwm/ora-2/",
+  "titulo": "Geracao ora-2",
+  "descricao": "8 veiculos da geracao ora-2.",
+  "seo": {
+    "title": "Geracao ora-2 - Precos FIPE",
+    "description": "Veiculos da geracao ora-2 na Tabela FIPE.",
+    "h1": "Geracao ora-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/gwm/ora-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "gwm-ora-03-2026-eletrico",
+      "fipeCodigo": "096011-0",
+      "displayName": "GWM Ora 03",
+      "valorAtual": 147100,
+      "canonicalPath": "/fipe/gwm/ora-03-2026-096011-0/",
+      "ano": 2026,
+      "marca": "GWM"
+    },
+    {
+      "vehicleId": "gwm-ora-03-2027-eletrico",
+      "fipeCodigo": "096011-0",
+      "displayName": "GWM Ora 03",
+      "valorAtual": 153819,
+      "canonicalPath": "/fipe/gwm/ora-03-2027-096011-0/",
+      "ano": 2027,
+      "marca": "GWM"
+    },
+    {
+      "vehicleId": "gwm-ora-03-gt-eletrico-2024-eletrico",
+      "fipeCodigo": "096007-1",
+      "displayName": "GWM Ora 03 GT (Elétrico)",
+      "valorAtual": 145142,
+      "canonicalPath": "/fipe/gwm/ora-03-gt-eletrico-2024-096007-1/",
+      "ano": 2024,
+      "marca": "GWM"
+    },
+    {
+      "vehicleId": "gwm-ora-03-gt-eletrico-2026-eletrico",
+      "fipeCodigo": "096007-1",
+      "displayName": "GWM Ora 03 GT (Elétrico)",
+      "valorAtual": 164962,
+      "canonicalPath": "/fipe/gwm/ora-03-gt-eletrico-2026-096007-1/",
+      "ano": 2026,
+      "marca": "GWM"
+    },
+    {
+      "vehicleId": "gwm-ora-03-skin-eletrico-2023-eletrico",
+      "fipeCodigo": "096006-3",
+      "displayName": "GWM Ora 03 Skin (Elétrico)",
+      "valorAtual": 116787,
+      "canonicalPath": "/fipe/gwm/ora-03-skin-eletrico-2023-096006-3/",
+      "ano": 2023,
+      "marca": "GWM"
+    },
+    {
+      "vehicleId": "gwm-ora-03-skin-eletrico-2024-eletrico",
+      "fipeCodigo": "096006-3",
+      "displayName": "GWM Ora 03 Skin (Elétrico)",
+      "valorAtual": 120274,
+      "canonicalPath": "/fipe/gwm/ora-03-skin-eletrico-2024-096006-3/",
+      "ano": 2024,
+      "marca": "GWM"
+    },
+    {
+      "vehicleId": "gwm-ora-03-skin-eletrico-2025-eletrico",
+      "fipeCodigo": "096006-3",
+      "displayName": "GWM Ora 03 Skin (Elétrico)",
+      "valorAtual": 132210,
+      "canonicalPath": "/fipe/gwm/ora-03-skin-eletrico-2025-096006-3/",
+      "ano": 2025,
+      "marca": "GWM"
+    },
+    {
+      "vehicleId": "gwm-ora-03-skin-eletrico-2026-eletrico",
+      "fipeCodigo": "096006-3",
+      "displayName": "GWM Ora 03 Skin (Elétrico)",
+      "valorAtual": 143615,
+      "canonicalPath": "/fipe/gwm/ora-03-skin-eletrico-2026-096006-3/",
+      "ano": 2026,
+      "marca": "GWM"
+    }
+  ],
+  "stats": {
+    "total": 8
+  },
+  "meta": {
+    "geracaoId": "ora-2"
+  }
+}

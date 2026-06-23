@@ -1,0 +1,590 @@
+{
+  "tipo": "familia",
+  "slug": "argo",
+  "canonicalPath": "/fipe/fiat/argo/",
+  "titulo": "Fiat argo - Tabela FIPE",
+  "descricao": "62 versoes e anos do Fiat argo na Tabela FIPE.",
+  "seo": {
+    "title": "Fiat argo - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes Fiat argo. 62 veiculos indexados.",
+    "h1": "Fiat argo - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/fiat/argo/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "fiat-argo-1-0-6v-flex-2026-flex",
+      "fipeCodigo": "001509-1",
+      "displayName": "Fiat ARGO 1.0 6V Flex",
+      "valorAtual": 76933,
+      "canonicalPath": "/fipe/fiat/argo-1-0-6v-flex-2026-001509-1/",
+      "ano": 2026,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-argo-drive-1-0-6v-flex-2026-flex",
+      "fipeCodigo": "001494-0",
+      "displayName": "Fiat ARGO DRIVE 1.0 6V Flex",
+      "valorAtual": 80848,
+      "canonicalPath": "/fipe/fiat/argo-drive-1-0-6v-flex-2026-001494-0/",
+      "ano": 2026,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-argo-drive-1-3-8v-flex-aut-2026-flex",
+      "fipeCodigo": "001561-0",
+      "displayName": "Fiat ARGO DRIVE 1.3 8V Flex Aut.",
+      "valorAtual": 92562,
+      "canonicalPath": "/fipe/fiat/argo-drive-1-3-8v-flex-aut-2026-001561-0/",
+      "ano": 2026,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-argo-trekking-1-3-8v-flex-aut-2026-flex",
+      "fipeCodigo": "001562-8",
+      "displayName": "Fiat ARGO TREKKING 1.3 8V Flex Aut.",
+      "valorAtual": 97302,
+      "canonicalPath": "/fipe/fiat/argo-trekking-1-3-8v-flex-aut-2026-001562-8/",
+      "ano": 2026,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-argo-trekking-1-3-8v-flex-2026-flex",
+      "fipeCodigo": "001519-9",
+      "displayName": "Fiat ARGO TREKKING 1.3 8V Flex",
+      "valorAtual": 97965,
+      "canonicalPath": "/fipe/fiat/argo-trekking-1-3-8v-flex-2026-001519-9/",
+      "ano": 2026,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-argo-1-0-6v-flex-2025-flex",
+      "fipeCodigo": "001509-1",
+      "displayName": "Fiat ARGO 1.0 6V Flex",
+      "valorAtual": 71120,
+      "canonicalPath": "/fipe/fiat/argo-1-0-6v-flex-2025-001509-1/",
+      "ano": 2025,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-argo-drive-1-0-6v-flex-2025-flex",
+      "fipeCodigo": "001494-0",
+      "displayName": "Fiat ARGO DRIVE 1.0 6V Flex",
+      "valorAtual": 71590,
+      "canonicalPath": "/fipe/fiat/argo-drive-1-0-6v-flex-2025-001494-0/",
+      "ano": 2025,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-argo-drive-tributo-125-1-0-6v-flex-2025-flex",
+      "fipeCodigo": "001583-0",
+      "displayName": "Fiat ARGO DRIVE TRIBUTO 125 1.0 6V Flex",
+      "valorAtual": 73763,
+      "canonicalPath": "/fipe/fiat/argo-drive-tributo-125-1-0-6v-flex-2025-001583-0/",
+      "ano": 2025,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-argo-endurance-1-3-8v-flex-2025-flex",
+      "fipeCodigo": "001576-8",
+      "displayName": "Fiat ARGO ENDURANCE 1.3 8V Flex",
+      "valorAtual": 77272,
+      "canonicalPath": "/fipe/fiat/argo-endurance-1-3-8v-flex-2025-001576-8/",
+      "ano": 2025,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-argo-drive-1-3-8v-flex-aut-2025-flex",
+      "fipeCodigo": "001561-0",
+      "displayName": "Fiat ARGO DRIVE 1.3 8V Flex Aut.",
+      "valorAtual": 85970,
+      "canonicalPath": "/fipe/fiat/argo-drive-1-3-8v-flex-aut-2025-001561-0/",
+      "ano": 2025,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-argo-trekking-1-3-8v-flex-2025-flex",
+      "fipeCodigo": "001519-9",
+      "displayName": "Fiat ARGO TREKKING 1.3 8V Flex",
+      "valorAtual": 86678,
+      "canonicalPath": "/fipe/fiat/argo-trekking-1-3-8v-flex-2025-001519-9/",
+      "ano": 2025,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-argo-trekking-1-3-8v-flex-aut-2025-flex",
+      "fipeCodigo": "001562-8",
+      "displayName": "Fiat ARGO TREKKING 1.3 8V Flex Aut.",
+      "valorAtual": 89586,
+      "canonicalPath": "/fipe/fiat/argo-trekking-1-3-8v-flex-aut-2025-001562-8/",
+      "ano": 2025,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-argo-1-0-6v-flex-2024-flex",
+      "fipeCodigo": "001509-1",
+      "displayName": "Fiat ARGO 1.0 6V Flex",
+      "valorAtual": 65906,
+      "canonicalPath": "/fipe/fiat/argo-1-0-6v-flex-2024-001509-1/",
+      "ano": 2024,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-argo-drive-1-0-6v-flex-2024-flex",
+      "fipeCodigo": "001494-0",
+      "displayName": "Fiat ARGO DRIVE 1.0 6V Flex",
+      "valorAtual": 69044,
+      "canonicalPath": "/fipe/fiat/argo-drive-1-0-6v-flex-2024-001494-0/",
+      "ano": 2024,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-argo-drive-1-3-8v-flex-aut-2024-flex",
+      "fipeCodigo": "001561-0",
+      "displayName": "Fiat ARGO DRIVE 1.3 8V Flex Aut.",
+      "valorAtual": 80789,
+      "canonicalPath": "/fipe/fiat/argo-drive-1-3-8v-flex-aut-2024-001561-0/",
+      "ano": 2024,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-argo-trekking-1-3-8v-flex-2024-flex",
+      "fipeCodigo": "001519-9",
+      "displayName": "Fiat ARGO TREKKING 1.3 8V Flex",
+      "valorAtual": 83627,
+      "canonicalPath": "/fipe/fiat/argo-trekking-1-3-8v-flex-2024-001519-9/",
+      "ano": 2024,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-argo-trekking-1-3-8v-flex-aut-2024-flex",
+      "fipeCodigo": "001562-8",
+      "displayName": "Fiat ARGO TREKKING 1.3 8V Flex Aut.",
+      "valorAtual": 86628,
+      "canonicalPath": "/fipe/fiat/argo-trekking-1-3-8v-flex-aut-2024-001562-8/",
+      "ano": 2024,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-argo-1-0-6v-flex-2023-flex",
+      "fipeCodigo": "001509-1",
+      "displayName": "Fiat ARGO 1.0 6V Flex",
+      "valorAtual": 62999,
+      "canonicalPath": "/fipe/fiat/argo-1-0-6v-flex-2023-001509-1/",
+      "ano": 2023,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-argo-drive-1-0-6v-flex-2023-flex",
+      "fipeCodigo": "001494-0",
+      "displayName": "Fiat ARGO DRIVE 1.0 6V Flex",
+      "valorAtual": 65328,
+      "canonicalPath": "/fipe/fiat/argo-drive-1-0-6v-flex-2023-001494-0/",
+      "ano": 2023,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-argo-drive-s-design-1-3-8v-flex-2023-flex",
+      "fipeCodigo": "001540-7",
+      "displayName": "Fiat ARGO DRIVE S-DESIGN 1.3 8V Flex",
+      "valorAtual": 73999,
+      "canonicalPath": "/fipe/fiat/argo-drive-s-design-1-3-8v-flex-2023-001540-7/",
+      "ano": 2023,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-argo-trekking-1-3-8v-flex-2023-flex",
+      "fipeCodigo": "001519-9",
+      "displayName": "Fiat ARGO TREKKING 1.3 8V Flex",
+      "valorAtual": 77590,
+      "canonicalPath": "/fipe/fiat/argo-trekking-1-3-8v-flex-2023-001519-9/",
+      "ano": 2023,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-argo-drive-1-3-8v-flex-aut-2023-flex",
+      "fipeCodigo": "001561-0",
+      "displayName": "Fiat ARGO DRIVE 1.3 8V Flex Aut.",
+      "valorAtual": 77719,
+      "canonicalPath": "/fipe/fiat/argo-drive-1-3-8v-flex-aut-2023-001561-0/",
+      "ano": 2023,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-argo-trekking-1-3-8v-flex-aut-2023-flex",
+      "fipeCodigo": "001562-8",
+      "displayName": "Fiat ARGO TREKKING 1.3 8V Flex Aut.",
+      "valorAtual": 80312,
+      "canonicalPath": "/fipe/fiat/argo-trekking-1-3-8v-flex-aut-2023-001562-8/",
+      "ano": 2023,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-argo-1-0-6v-flex-2022-flex",
+      "fipeCodigo": "001509-1",
+      "displayName": "Fiat ARGO 1.0 6V Flex",
+      "valorAtual": 58729,
+      "canonicalPath": "/fipe/fiat/argo-1-0-6v-flex-2022-001509-1/",
+      "ano": 2022,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-argo-drive-1-0-6v-flex-2022-flex",
+      "fipeCodigo": "001494-0",
+      "displayName": "Fiat ARGO DRIVE 1.0 6V Flex",
+      "valorAtual": 60281,
+      "canonicalPath": "/fipe/fiat/argo-drive-1-0-6v-flex-2022-001494-0/",
+      "ano": 2022,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-argo-drive-s-design-1-3-8v-flex-2022-flex",
+      "fipeCodigo": "001540-7",
+      "displayName": "Fiat ARGO DRIVE S-DESIGN 1.3 8V Flex",
+      "valorAtual": 65223,
+      "canonicalPath": "/fipe/fiat/argo-drive-s-design-1-3-8v-flex-2022-001540-7/",
+      "ano": 2022,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-argo-trekking-1-3-8v-flex-2022-flex",
+      "fipeCodigo": "001519-9",
+      "displayName": "Fiat ARGO TREKKING 1.3 8V Flex",
+      "valorAtual": 72281,
+      "canonicalPath": "/fipe/fiat/argo-trekking-1-3-8v-flex-2022-001519-9/",
+      "ano": 2022,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-argo-1-0-6v-flex-2021-flex",
+      "fipeCodigo": "001509-1",
+      "displayName": "Fiat ARGO 1.0 6V Flex",
+      "valorAtual": 55477,
+      "canonicalPath": "/fipe/fiat/argo-1-0-6v-flex-2021-001509-1/",
+      "ano": 2021,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-argo-drive-1-0-6v-flex-2021-flex",
+      "fipeCodigo": "001494-0",
+      "displayName": "Fiat ARGO DRIVE 1.0 6V Flex",
+      "valorAtual": 55542,
+      "canonicalPath": "/fipe/fiat/argo-drive-1-0-6v-flex-2021-001494-0/",
+      "ano": 2021,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-argo-drive-1-3-8v-flex-2021-flex",
+      "fipeCodigo": "001493-1",
+      "displayName": "Fiat ARGO DRIVE 1.3 8V Flex",
+      "valorAtual": 67810,
+      "canonicalPath": "/fipe/fiat/argo-drive-1-3-8v-flex-2021-001493-1/",
+      "ano": 2021,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-argo-trekking-1-3-8v-flex-2021-flex",
+      "fipeCodigo": "001519-9",
+      "displayName": "Fiat ARGO TREKKING 1.3 8V Flex",
+      "valorAtual": 70518,
+      "canonicalPath": "/fipe/fiat/argo-trekking-1-3-8v-flex-2021-001519-9/",
+      "ano": 2021,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-argo-trekking-1-8-16v-flex-aut-2021-flex",
+      "fipeCodigo": "001524-5",
+      "displayName": "Fiat ARGO TREKKING 1.8 16V Flex Aut.",
+      "valorAtual": 76234,
+      "canonicalPath": "/fipe/fiat/argo-trekking-1-8-16v-flex-aut-2021-001524-5/",
+      "ano": 2021,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-argo-hgt-1-8-16v-flex-aut-2021-flex",
+      "fipeCodigo": "001488-5",
+      "displayName": "Fiat ARGO HGT 1.8 16V Flex Aut.",
+      "valorAtual": 77672,
+      "canonicalPath": "/fipe/fiat/argo-hgt-1-8-16v-flex-aut-2021-001488-5/",
+      "ano": 2021,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-argo-1-0-6v-flex-2020-flex",
+      "fipeCodigo": "001509-1",
+      "displayName": "Fiat ARGO 1.0 6V Flex",
+      "valorAtual": 51588,
+      "canonicalPath": "/fipe/fiat/argo-1-0-6v-flex-2020-001509-1/",
+      "ano": 2020,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-argo-drive-1-0-6v-flex-2020-flex",
+      "fipeCodigo": "001494-0",
+      "displayName": "Fiat ARGO DRIVE 1.0 6V Flex",
+      "valorAtual": 52543,
+      "canonicalPath": "/fipe/fiat/argo-drive-1-0-6v-flex-2020-001494-0/",
+      "ano": 2020,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-argo-drive-1-3-8v-flex-2020-flex",
+      "fipeCodigo": "001493-1",
+      "displayName": "Fiat ARGO DRIVE 1.3 8V Flex",
+      "valorAtual": 61155,
+      "canonicalPath": "/fipe/fiat/argo-drive-1-3-8v-flex-2020-001493-1/",
+      "ano": 2020,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-argo-drive-gsr-1-3-8v-flex-2020-flex",
+      "fipeCodigo": "001492-3",
+      "displayName": "Fiat ARGO DRIVE GSR 1.3 8V Flex",
+      "valorAtual": 64759,
+      "canonicalPath": "/fipe/fiat/argo-drive-gsr-1-3-8v-flex-2020-001492-3/",
+      "ano": 2020,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-argo-trekking-1-3-8v-flex-2020-flex",
+      "fipeCodigo": "001519-9",
+      "displayName": "Fiat ARGO TREKKING 1.3 8V Flex",
+      "valorAtual": 68200,
+      "canonicalPath": "/fipe/fiat/argo-trekking-1-3-8v-flex-2020-001519-9/",
+      "ano": 2020,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-argo-precision-1-8-16v-flex-aut-2020-flex",
+      "fipeCodigo": "001489-3",
+      "displayName": "Fiat ARGO PRECISION 1.8 16V Flex Aut.",
+      "valorAtual": 69573,
+      "canonicalPath": "/fipe/fiat/argo-precision-1-8-16v-flex-aut-2020-001489-3/",
+      "ano": 2020,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-argo-trekking-1-8-16v-flex-aut-2020-flex",
+      "fipeCodigo": "001524-5",
+      "displayName": "Fiat ARGO TREKKING 1.8 16V Flex Aut.",
+      "valorAtual": 70557,
+      "canonicalPath": "/fipe/fiat/argo-trekking-1-8-16v-flex-aut-2020-001524-5/",
+      "ano": 2020,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-argo-hgt-1-8-16v-flex-aut-2020-flex",
+      "fipeCodigo": "001488-5",
+      "displayName": "Fiat ARGO HGT 1.8 16V Flex Aut.",
+      "valorAtual": 71584,
+      "canonicalPath": "/fipe/fiat/argo-hgt-1-8-16v-flex-aut-2020-001488-5/",
+      "ano": 2020,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-argo-1-0-6v-flex-2019-flex",
+      "fipeCodigo": "001509-1",
+      "displayName": "Fiat ARGO 1.0 6V Flex",
+      "valorAtual": 50317,
+      "canonicalPath": "/fipe/fiat/argo-1-0-6v-flex-2019-001509-1/",
+      "ano": 2019,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-argo-drive-1-0-6v-flex-2019-flex",
+      "fipeCodigo": "001494-0",
+      "displayName": "Fiat ARGO DRIVE 1.0 6V Flex",
+      "valorAtual": 50447,
+      "canonicalPath": "/fipe/fiat/argo-drive-1-0-6v-flex-2019-001494-0/",
+      "ano": 2019,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-argo-drive-1-3-8v-flex-2019-flex",
+      "fipeCodigo": "001493-1",
+      "displayName": "Fiat ARGO DRIVE 1.3 8V Flex",
+      "valorAtual": 57958,
+      "canonicalPath": "/fipe/fiat/argo-drive-1-3-8v-flex-2019-001493-1/",
+      "ano": 2019,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-argo-drive-gsr-1-3-8v-flex-2019-flex",
+      "fipeCodigo": "001492-3",
+      "displayName": "Fiat ARGO DRIVE GSR 1.3 8V Flex",
+      "valorAtual": 59124,
+      "canonicalPath": "/fipe/fiat/argo-drive-gsr-1-3-8v-flex-2019-001492-3/",
+      "ano": 2019,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-argo-precision-1-8-16v-flex-mec-2019-flex",
+      "fipeCodigo": "001491-5",
+      "displayName": "Fiat ARGO PRECISION 1.8 16V Flex Mec.",
+      "valorAtual": 61529,
+      "canonicalPath": "/fipe/fiat/argo-precision-1-8-16v-flex-mec-2019-001491-5/",
+      "ano": 2019,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-argo-precision-1-8-16v-flex-aut-2019-flex",
+      "fipeCodigo": "001489-3",
+      "displayName": "Fiat ARGO PRECISION 1.8 16V Flex Aut.",
+      "valorAtual": 64766,
+      "canonicalPath": "/fipe/fiat/argo-precision-1-8-16v-flex-aut-2019-001489-3/",
+      "ano": 2019,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-argo-hgt-1-8-16v-flex-mec-2019-flex",
+      "fipeCodigo": "001490-7",
+      "displayName": "Fiat ARGO HGT 1.8 16V Flex Mec.",
+      "valorAtual": 66337,
+      "canonicalPath": "/fipe/fiat/argo-hgt-1-8-16v-flex-mec-2019-001490-7/",
+      "ano": 2019,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-argo-hgt-1-8-16v-flex-aut-2019-flex",
+      "fipeCodigo": "001488-5",
+      "displayName": "Fiat ARGO HGT 1.8 16V Flex Aut.",
+      "valorAtual": 67046,
+      "canonicalPath": "/fipe/fiat/argo-hgt-1-8-16v-flex-aut-2019-001488-5/",
+      "ano": 2019,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-argo-1-0-6v-flex-2018-flex",
+      "fipeCodigo": "001509-1",
+      "displayName": "Fiat ARGO 1.0 6V Flex",
+      "valorAtual": 46837,
+      "canonicalPath": "/fipe/fiat/argo-1-0-6v-flex-2018-001509-1/",
+      "ano": 2018,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-argo-drive-1-0-6v-flex-2018-flex",
+      "fipeCodigo": "001494-0",
+      "displayName": "Fiat ARGO DRIVE 1.0 6V Flex",
+      "valorAtual": 49022,
+      "canonicalPath": "/fipe/fiat/argo-drive-1-0-6v-flex-2018-001494-0/",
+      "ano": 2018,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-argo-drive-1-3-8v-flex-2018-flex",
+      "fipeCodigo": "001493-1",
+      "displayName": "Fiat ARGO DRIVE 1.3 8V Flex",
+      "valorAtual": 52555,
+      "canonicalPath": "/fipe/fiat/argo-drive-1-3-8v-flex-2018-001493-1/",
+      "ano": 2018,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-argo-drive-gsr-1-3-8v-flex-2018-flex",
+      "fipeCodigo": "001492-3",
+      "displayName": "Fiat ARGO DRIVE GSR 1.3 8V Flex",
+      "valorAtual": 53507,
+      "canonicalPath": "/fipe/fiat/argo-drive-gsr-1-3-8v-flex-2018-001492-3/",
+      "ano": 2018,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-argo-precision-1-8-16v-flex-mec-2018-flex",
+      "fipeCodigo": "001491-5",
+      "displayName": "Fiat ARGO PRECISION 1.8 16V Flex Mec.",
+      "valorAtual": 58535,
+      "canonicalPath": "/fipe/fiat/argo-precision-1-8-16v-flex-mec-2018-001491-5/",
+      "ano": 2018,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-argo-precision-1-8-16v-flex-aut-2018-flex",
+      "fipeCodigo": "001489-3",
+      "displayName": "Fiat ARGO PRECISION 1.8 16V Flex Aut.",
+      "valorAtual": 60801,
+      "canonicalPath": "/fipe/fiat/argo-precision-1-8-16v-flex-aut-2018-001489-3/",
+      "ano": 2018,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-argo-hgt-1-8-16v-flex-mec-2018-flex",
+      "fipeCodigo": "001490-7",
+      "displayName": "Fiat ARGO HGT 1.8 16V Flex Mec.",
+      "valorAtual": 61770,
+      "canonicalPath": "/fipe/fiat/argo-hgt-1-8-16v-flex-mec-2018-001490-7/",
+      "ano": 2018,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-argo-hgt-1-8-16v-flex-aut-2018-flex",
+      "fipeCodigo": "001488-5",
+      "displayName": "Fiat ARGO HGT 1.8 16V Flex Aut.",
+      "valorAtual": 64841,
+      "canonicalPath": "/fipe/fiat/argo-hgt-1-8-16v-flex-aut-2018-001488-5/",
+      "ano": 2018,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-argo-1-0-6v-flex-0-flex",
+      "fipeCodigo": "001509-1",
+      "displayName": "Fiat ARGO 1.0 6V Flex",
+      "valorAtual": 88890,
+      "canonicalPath": "/fipe/fiat/argo-1-0-6v-flex-0-001509-1/",
+      "ano": 0,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-argo-drive-1-0-6v-flex-0-flex",
+      "fipeCodigo": "001494-0",
+      "displayName": "Fiat ARGO DRIVE 1.0 6V Flex",
+      "valorAtual": 90956,
+      "canonicalPath": "/fipe/fiat/argo-drive-1-0-6v-flex-0-001494-0/",
+      "ano": 0,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-argo-trekking-1-3-8v-flex-0-flex",
+      "fipeCodigo": "001519-9",
+      "displayName": "Fiat ARGO TREKKING 1.3 8V Flex",
+      "valorAtual": 103255,
+      "canonicalPath": "/fipe/fiat/argo-trekking-1-3-8v-flex-0-001519-9/",
+      "ano": 0,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-argo-drive-1-3-8v-flex-aut-0-flex",
+      "fipeCodigo": "001561-0",
+      "displayName": "Fiat ARGO DRIVE 1.3 8V Flex Aut.",
+      "valorAtual": 104798,
+      "canonicalPath": "/fipe/fiat/argo-drive-1-3-8v-flex-aut-0-001561-0/",
+      "ano": 0,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-argo-trekking-1-3-8v-flex-aut-0-flex",
+      "fipeCodigo": "001562-8",
+      "displayName": "Fiat ARGO TREKKING 1.3 8V Flex Aut.",
+      "valorAtual": 110973,
+      "canonicalPath": "/fipe/fiat/argo-trekking-1-3-8v-flex-aut-0-001562-8/",
+      "ano": 0,
+      "marca": "Fiat"
+    }
+  ],
+  "stats": {
+    "total": 62,
+    "precoMin": 46837,
+    "precoMax": 110973,
+    "anos": [
+      2026,
+      2025,
+      2024,
+      2023,
+      2022,
+      2021,
+      2020,
+      2019,
+      2018,
+      0
+    ]
+  }
+}

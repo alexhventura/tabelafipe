@@ -1,0 +1,75 @@
+{
+  "tipo": "geracao",
+  "slug": "560-1",
+  "canonicalPath": "/geracao/mercedes-benz/560-1/",
+  "titulo": "Geracao 560-1",
+  "descricao": "6 veiculos da geracao 560-1.",
+  "seo": {
+    "title": "Geracao 560-1 - Precos FIPE",
+    "description": "Veiculos da geracao 560-1 na Tabela FIPE.",
+    "h1": "Geracao 560-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/mercedes-benz/560-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "mercedes-benz-560-sel-5-6-1987-gasolina",
+      "fipeCodigo": "021075-7",
+      "displayName": "Mercedes-Benz 560-SEL 5.6",
+      "valorAtual": 38357,
+      "canonicalPath": "/fipe/mercedes-benz/560-sel-5-6-1987-021075-7/",
+      "ano": 1987,
+      "marca": "Mercedes-Benz"
+    },
+    {
+      "vehicleId": "mercedes-benz-560-sel-5-6-1988-gasolina",
+      "fipeCodigo": "021075-7",
+      "displayName": "Mercedes-Benz 560-SEL 5.6",
+      "valorAtual": 39316,
+      "canonicalPath": "/fipe/mercedes-benz/560-sel-5-6-1988-021075-7/",
+      "ano": 1988,
+      "marca": "Mercedes-Benz"
+    },
+    {
+      "vehicleId": "mercedes-benz-560-sel-5-6-1989-gasolina",
+      "fipeCodigo": "021075-7",
+      "displayName": "Mercedes-Benz 560-SEL 5.6",
+      "valorAtual": 40299,
+      "canonicalPath": "/fipe/mercedes-benz/560-sel-5-6-1989-021075-7/",
+      "ano": 1989,
+      "marca": "Mercedes-Benz"
+    },
+    {
+      "vehicleId": "mercedes-benz-560-sel-5-6-1990-gasolina",
+      "fipeCodigo": "021075-7",
+      "displayName": "Mercedes-Benz 560-SEL 5.6",
+      "valorAtual": 41307,
+      "canonicalPath": "/fipe/mercedes-benz/560-sel-5-6-1990-021075-7/",
+      "ano": 1990,
+      "marca": "Mercedes-Benz"
+    },
+    {
+      "vehicleId": "mercedes-benz-560-sel-5-6-1991-gasolina",
+      "fipeCodigo": "021075-7",
+      "displayName": "Mercedes-Benz 560-SEL 5.6",
+      "valorAtual": 42340,
+      "canonicalPath": "/fipe/mercedes-benz/560-sel-5-6-1991-021075-7/",
+      "ano": 1991,
+      "marca": "Mercedes-Benz"
+    },
+    {
+      "vehicleId": "mercedes-benz-560-sel-5-6-1992-gasolina",
+      "fipeCodigo": "021075-7",
+      "displayName": "Mercedes-Benz 560-SEL 5.6",
+      "valorAtual": 43399,
+      "canonicalPath": "/fipe/mercedes-benz/560-sel-5-6-1992-021075-7/",
+      "ano": 1992,
+      "marca": "Mercedes-Benz"
+    }
+  ],
+  "stats": {
+    "total": 6
+  },
+  "meta": {
+    "geracaoId": "560-1"
+  }
+}

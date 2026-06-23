@@ -1,0 +1,138 @@
+{
+  "tipo": "geracao",
+  "slug": "wr-2",
+  "canonicalPath": "/geracao/husqvarna/wr-2/",
+  "titulo": "Geracao wr-2",
+  "descricao": "13 veiculos da geracao wr-2.",
+  "seo": {
+    "title": "Geracao wr-2 - Precos FIPE",
+    "description": "Veiculos da geracao wr-2 na Tabela FIPE.",
+    "h1": "Geracao wr-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/husqvarna/wr-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "husqvarna-wr-250-2004-gasolina",
+      "fipeCodigo": "812001-3",
+      "displayName": "HUSQVARNA WR 250",
+      "valorAtual": 9258,
+      "canonicalPath": "/fipe/husqvarna/wr-250-2004-812001-3/",
+      "ano": 2004,
+      "marca": "HUSQVARNA"
+    },
+    {
+      "vehicleId": "honda-wr-v-ex-1-5-flexone-16v-5p-aut-2018-flex",
+      "fipeCodigo": "014094-5",
+      "displayName": "Honda WR-V EX 1.5 Flexone 16V 5p Aut.",
+      "valorAtual": 78839,
+      "canonicalPath": "/fipe/honda/wr-v-ex-1-5-flexone-16v-5p-aut-2018-014094-5/",
+      "ano": 2018,
+      "marca": "Honda"
+    },
+    {
+      "vehicleId": "honda-wr-v-ex-1-5-flexone-16v-5p-aut-2019-flex",
+      "fipeCodigo": "014094-5",
+      "displayName": "Honda WR-V EX 1.5 Flexone 16V 5p Aut.",
+      "valorAtual": 80810,
+      "canonicalPath": "/fipe/honda/wr-v-ex-1-5-flexone-16v-5p-aut-2019-014094-5/",
+      "ano": 2019,
+      "marca": "Honda"
+    },
+    {
+      "vehicleId": "honda-wr-v-ex-1-5-flexone-16v-5p-aut-2020-flex",
+      "fipeCodigo": "014094-5",
+      "displayName": "Honda WR-V EX 1.5 Flexone 16V 5p Aut.",
+      "valorAtual": 86086,
+      "canonicalPath": "/fipe/honda/wr-v-ex-1-5-flexone-16v-5p-aut-2020-014094-5/",
+      "ano": 2020,
+      "marca": "Honda"
+    },
+    {
+      "vehicleId": "honda-wr-v-ex-1-5-flexone-16v-5p-aut-2021-flex",
+      "fipeCodigo": "014094-5",
+      "displayName": "Honda WR-V EX 1.5 Flexone 16V 5p Aut.",
+      "valorAtual": 88919,
+      "canonicalPath": "/fipe/honda/wr-v-ex-1-5-flexone-16v-5p-aut-2021-014094-5/",
+      "ano": 2021,
+      "marca": "Honda"
+    },
+    {
+      "vehicleId": "honda-wr-v-exl-1-5-flexone-16v-5p-aut-2018-flex",
+      "fipeCodigo": "014095-3",
+      "displayName": "Honda WR-V EXL 1.5 Flexone 16V 5p Aut.",
+      "valorAtual": 80970,
+      "canonicalPath": "/fipe/honda/wr-v-exl-1-5-flexone-16v-5p-aut-2018-014095-3/",
+      "ano": 2018,
+      "marca": "Honda"
+    },
+    {
+      "vehicleId": "honda-wr-v-exl-1-5-flexone-16v-5p-aut-2019-flex",
+      "fipeCodigo": "014095-3",
+      "displayName": "Honda WR-V EXL 1.5 Flexone 16V 5p Aut.",
+      "valorAtual": 85055,
+      "canonicalPath": "/fipe/honda/wr-v-exl-1-5-flexone-16v-5p-aut-2019-014095-3/",
+      "ano": 2019,
+      "marca": "Honda"
+    },
+    {
+      "vehicleId": "honda-wr-v-exl-1-5-flexone-16v-5p-aut-2020-flex",
+      "fipeCodigo": "014095-3",
+      "displayName": "Honda WR-V EXL 1.5 Flexone 16V 5p Aut.",
+      "valorAtual": 87483,
+      "canonicalPath": "/fipe/honda/wr-v-exl-1-5-flexone-16v-5p-aut-2020-014095-3/",
+      "ano": 2020,
+      "marca": "Honda"
+    },
+    {
+      "vehicleId": "honda-wr-v-exl-1-5-flexone-16v-5p-aut-2021-flex",
+      "fipeCodigo": "014095-3",
+      "displayName": "Honda WR-V EXL 1.5 Flexone 16V 5p Aut.",
+      "valorAtual": 93495,
+      "canonicalPath": "/fipe/honda/wr-v-exl-1-5-flexone-16v-5p-aut-2021-014095-3/",
+      "ano": 2021,
+      "marca": "Honda"
+    },
+    {
+      "vehicleId": "honda-wr-v-lx-1-5-flexone-16v-5p-aut-2021-flex",
+      "fipeCodigo": "014104-6",
+      "displayName": "Honda WR-V LX 1.5 Flexone 16V 5p Aut.",
+      "valorAtual": 87925,
+      "canonicalPath": "/fipe/honda/wr-v-lx-1-5-flexone-16v-5p-aut-2021-014104-6/",
+      "ano": 2021,
+      "marca": "Honda"
+    },
+    {
+      "vehicleId": "yamaha-wr-200-1994-gasolina",
+      "fipeCodigo": "827024-4",
+      "displayName": "YAMAHA WR 200",
+      "valorAtual": 6362,
+      "canonicalPath": "/fipe/yamaha/wr-200-1994-827024-4/",
+      "ano": 1994,
+      "marca": "YAMAHA"
+    },
+    {
+      "vehicleId": "yamaha-wr-200-1995-gasolina",
+      "fipeCodigo": "827024-4",
+      "displayName": "YAMAHA WR 200",
+      "valorAtual": 6616,
+      "canonicalPath": "/fipe/yamaha/wr-200-1995-827024-4/",
+      "ano": 1995,
+      "marca": "YAMAHA"
+    },
+    {
+      "vehicleId": "yamaha-wr-200-1996-gasolina",
+      "fipeCodigo": "827024-4",
+      "displayName": "YAMAHA WR 200",
+      "valorAtual": 6937,
+      "canonicalPath": "/fipe/yamaha/wr-200-1996-827024-4/",
+      "ano": 1996,
+      "marca": "YAMAHA"
+    }
+  ],
+  "stats": {
+    "total": 13
+  },
+  "meta": {
+    "geracaoId": "wr-2"
+  }
+}

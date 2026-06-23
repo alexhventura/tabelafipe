@@ -1,0 +1,66 @@
+{
+  "tipo": "geracao",
+  "slug": "460-1",
+  "canonicalPath": "/geracao/volvo/460-1/",
+  "titulo": "Geracao 460-1",
+  "descricao": "5 veiculos da geracao 460-1.",
+  "seo": {
+    "title": "Geracao 460-1 - Precos FIPE",
+    "description": "Veiculos da geracao 460-1 na Tabela FIPE.",
+    "h1": "Geracao 460-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/volvo/460-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "volvo-460-glt-2-0-turbo-1-8-1992-gasolina",
+      "fipeCodigo": "029001-7",
+      "displayName": "Volvo 460 GLT 2.0/ Turbo 1.8",
+      "valorAtual": 6108,
+      "canonicalPath": "/fipe/volvo/460-glt-2-0-turbo-1-8-1992-029001-7/",
+      "ano": 1992,
+      "marca": "Volvo"
+    },
+    {
+      "vehicleId": "volvo-460-glt-2-0-turbo-1-8-1993-gasolina",
+      "fipeCodigo": "029001-7",
+      "displayName": "Volvo 460 GLT 2.0/ Turbo 1.8",
+      "valorAtual": 6866,
+      "canonicalPath": "/fipe/volvo/460-glt-2-0-turbo-1-8-1993-029001-7/",
+      "ano": 1993,
+      "marca": "Volvo"
+    },
+    {
+      "vehicleId": "volvo-460-glt-2-0-turbo-1-8-1994-gasolina",
+      "fipeCodigo": "029001-7",
+      "displayName": "Volvo 460 GLT 2.0/ Turbo 1.8",
+      "valorAtual": 7038,
+      "canonicalPath": "/fipe/volvo/460-glt-2-0-turbo-1-8-1994-029001-7/",
+      "ano": 1994,
+      "marca": "Volvo"
+    },
+    {
+      "vehicleId": "volvo-460-glt-2-0-turbo-1-8-1995-gasolina",
+      "fipeCodigo": "029001-7",
+      "displayName": "Volvo 460 GLT 2.0/ Turbo 1.8",
+      "valorAtual": 10275,
+      "canonicalPath": "/fipe/volvo/460-glt-2-0-turbo-1-8-1995-029001-7/",
+      "ano": 1995,
+      "marca": "Volvo"
+    },
+    {
+      "vehicleId": "volvo-460-glt-2-0-turbo-1-8-1996-gasolina",
+      "fipeCodigo": "029001-7",
+      "displayName": "Volvo 460 GLT 2.0/ Turbo 1.8",
+      "valorAtual": 10532,
+      "canonicalPath": "/fipe/volvo/460-glt-2-0-turbo-1-8-1996-029001-7/",
+      "ano": 1996,
+      "marca": "Volvo"
+    }
+  ],
+  "stats": {
+    "total": 5
+  },
+  "meta": {
+    "geracaoId": "460-1"
+  }
+}

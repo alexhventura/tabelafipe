@@ -1,0 +1,102 @@
+{
+  "tipo": "geracao",
+  "slug": "expo-1",
+  "canonicalPath": "/geracao/mitsubishi/expo-1/",
+  "titulo": "Geracao expo-1",
+  "descricao": "9 veiculos da geracao expo-1.",
+  "seo": {
+    "title": "Geracao expo-1 - Precos FIPE",
+    "description": "Veiculos da geracao expo-1 na Tabela FIPE.",
+    "h1": "Geracao expo-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/mitsubishi/expo-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "mitsubishi-expo-lrv-sport-2-3-16v-1992-gasolina",
+      "fipeCodigo": "022042-6",
+      "displayName": "Mitsubishi Expo LRV Sport 2.3 16V",
+      "valorAtual": 6618,
+      "canonicalPath": "/fipe/mitsubishi/expo-lrv-sport-2-3-16v-1992-022042-6/",
+      "ano": 1992,
+      "marca": "Mitsubishi"
+    },
+    {
+      "vehicleId": "mitsubishi-expo-lrv-sport-2-3-16v-1993-gasolina",
+      "fipeCodigo": "022042-6",
+      "displayName": "Mitsubishi Expo LRV Sport 2.3 16V",
+      "valorAtual": 8034,
+      "canonicalPath": "/fipe/mitsubishi/expo-lrv-sport-2-3-16v-1993-022042-6/",
+      "ano": 1993,
+      "marca": "Mitsubishi"
+    },
+    {
+      "vehicleId": "mitsubishi-expo-lrv-sport-2-3-16v-1994-gasolina",
+      "fipeCodigo": "022042-6",
+      "displayName": "Mitsubishi Expo LRV Sport 2.3 16V",
+      "valorAtual": 8264,
+      "canonicalPath": "/fipe/mitsubishi/expo-lrv-sport-2-3-16v-1994-022042-6/",
+      "ano": 1994,
+      "marca": "Mitsubishi"
+    },
+    {
+      "vehicleId": "mitsubishi-expo-sp-van-2-3-16v-1992-gasolina",
+      "fipeCodigo": "022005-1",
+      "displayName": "Mitsubishi Expo SP Van 2.3 16V",
+      "valorAtual": 8329,
+      "canonicalPath": "/fipe/mitsubishi/expo-sp-van-2-3-16v-1992-022005-1/",
+      "ano": 1992,
+      "marca": "Mitsubishi"
+    },
+    {
+      "vehicleId": "mitsubishi-expo-sp-van-2-3-16v-1993-gasolina",
+      "fipeCodigo": "022005-1",
+      "displayName": "Mitsubishi Expo SP Van 2.3 16V",
+      "valorAtual": 8760,
+      "canonicalPath": "/fipe/mitsubishi/expo-sp-van-2-3-16v-1993-022005-1/",
+      "ano": 1993,
+      "marca": "Mitsubishi"
+    },
+    {
+      "vehicleId": "mitsubishi-expo-sp-van-2-3-16v-1994-gasolina",
+      "fipeCodigo": "022005-1",
+      "displayName": "Mitsubishi Expo SP Van 2.3 16V",
+      "valorAtual": 8979,
+      "canonicalPath": "/fipe/mitsubishi/expo-sp-van-2-3-16v-1994-022005-1/",
+      "ano": 1994,
+      "marca": "Mitsubishi"
+    },
+    {
+      "vehicleId": "mitsubishi-expo-sp-van-2-3-16v-1995-gasolina",
+      "fipeCodigo": "022005-1",
+      "displayName": "Mitsubishi Expo SP Van 2.3 16V",
+      "valorAtual": 9538,
+      "canonicalPath": "/fipe/mitsubishi/expo-sp-van-2-3-16v-1995-022005-1/",
+      "ano": 1995,
+      "marca": "Mitsubishi"
+    },
+    {
+      "vehicleId": "mitsubishi-expo-sp-van-2-3-16v-1996-gasolina",
+      "fipeCodigo": "022005-1",
+      "displayName": "Mitsubishi Expo SP Van 2.3 16V",
+      "valorAtual": 10193,
+      "canonicalPath": "/fipe/mitsubishi/expo-sp-van-2-3-16v-1996-022005-1/",
+      "ano": 1996,
+      "marca": "Mitsubishi"
+    },
+    {
+      "vehicleId": "mitsubishi-expo-sp-van-2-3-16v-1997-gasolina",
+      "fipeCodigo": "022005-1",
+      "displayName": "Mitsubishi Expo SP Van 2.3 16V",
+      "valorAtual": 11041,
+      "canonicalPath": "/fipe/mitsubishi/expo-sp-van-2-3-16v-1997-022005-1/",
+      "ano": 1997,
+      "marca": "Mitsubishi"
+    }
+  ],
+  "stats": {
+    "total": 9
+  },
+  "meta": {
+    "geracaoId": "expo-1"
+  }
+}

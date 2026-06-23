@@ -1,0 +1,48 @@
+{
+  "tipo": "geracao",
+  "slug": "carga-1",
+  "canonicalPath": "/geracao/fusco-motosegura/carga-1/",
+  "titulo": "Geracao carga-1",
+  "descricao": "3 veiculos da geracao carga-1.",
+  "seo": {
+    "title": "Geracao carga-1 - Precos FIPE",
+    "description": "Veiculos da geracao carga-1 na Tabela FIPE.",
+    "h1": "Geracao carga-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/fusco-motosegura/carga-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "fusco-motosegura-carga-bau-160cc-0-gasolina",
+      "fipeCodigo": "887003-9",
+      "displayName": "FUSCO MOTOSEGURA CARGA Baú 160cc",
+      "valorAtual": 45500,
+      "canonicalPath": "/fipe/fusco-motosegura/carga-bau-160cc-0-887003-9/",
+      "ano": 0,
+      "marca": "FUSCO MOTOSEGURA"
+    },
+    {
+      "vehicleId": "fusco-motosegura-carga-cacamba-160cc-0-gasolina",
+      "fipeCodigo": "887005-5",
+      "displayName": "FUSCO MOTOSEGURA CARGA Caçamba 160cc",
+      "valorAtual": 44300,
+      "canonicalPath": "/fipe/fusco-motosegura/carga-cacamba-160cc-0-887005-5/",
+      "ano": 0,
+      "marca": "FUSCO MOTOSEGURA"
+    },
+    {
+      "vehicleId": "fusco-motosegura-carga-gas-160cc-0-gasolina",
+      "fipeCodigo": "887004-7",
+      "displayName": "FUSCO MOTOSEGURA CARGA Gás 160cc",
+      "valorAtual": 43066,
+      "canonicalPath": "/fipe/fusco-motosegura/carga-gas-160cc-0-887004-7/",
+      "ano": 0,
+      "marca": "FUSCO MOTOSEGURA"
+    }
+  ],
+  "stats": {
+    "total": 3
+  },
+  "meta": {
+    "geracaoId": "carga-1"
+  }
+}

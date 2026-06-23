@@ -1,0 +1,57 @@
+{
+  "tipo": "geracao",
+  "slug": "punto-1",
+  "canonicalPath": "/geracao/fiat/punto-1/",
+  "titulo": "Geracao punto-1",
+  "descricao": "4 veiculos da geracao punto-1.",
+  "seo": {
+    "title": "Geracao punto-1 - Precos FIPE",
+    "description": "Veiculos da geracao punto-1 na Tabela FIPE.",
+    "h1": "Geracao punto-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/fiat/punto-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "fiat-punto-cabrio-1995-gasolina",
+      "fipeCodigo": "001120-7",
+      "displayName": "Fiat Punto Cabrio",
+      "valorAtual": 7207,
+      "canonicalPath": "/fipe/fiat/punto-cabrio-1995-001120-7/",
+      "ano": 1995,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-punto-el-elx-1995-gasolina",
+      "fipeCodigo": "001117-7",
+      "displayName": "Fiat Punto EL/ELX",
+      "valorAtual": 3956,
+      "canonicalPath": "/fipe/fiat/punto-el-elx-1995-001117-7/",
+      "ano": 1995,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-punto-s-1995-gasolina",
+      "fipeCodigo": "001118-5",
+      "displayName": "Fiat Punto S",
+      "valorAtual": 5548,
+      "canonicalPath": "/fipe/fiat/punto-s-1995-001118-5/",
+      "ano": 1995,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-punto-sx-1995-gasolina",
+      "fipeCodigo": "001119-3",
+      "displayName": "Fiat Punto SX",
+      "valorAtual": 4127,
+      "canonicalPath": "/fipe/fiat/punto-sx-1995-001119-3/",
+      "ano": 1995,
+      "marca": "Fiat"
+    }
+  ],
+  "stats": {
+    "total": 4
+  },
+  "meta": {
+    "geracaoId": "punto-1"
+  }
+}

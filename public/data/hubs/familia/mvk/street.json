@@ -1,0 +1,82 @@
+{
+  "tipo": "familia",
+  "slug": "street",
+  "canonicalPath": "/fipe/mvk/street/",
+  "titulo": "MVK street - Tabela FIPE",
+  "descricao": "6 versoes e anos do MVK street na Tabela FIPE.",
+  "seo": {
+    "title": "MVK street - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes MVK street. 6 veiculos indexados.",
+    "h1": "MVK street - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/mvk/street/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "mvk-street-150-street-limited-2013-gasolina",
+      "fipeCodigo": "845007-2",
+      "displayName": "MVK STREET 150/STREET LIMITED",
+      "valorAtual": 3029,
+      "canonicalPath": "/fipe/mvk/street-150-street-limited-2013-845007-2/",
+      "ano": 2013,
+      "marca": "MVK"
+    },
+    {
+      "vehicleId": "mvk-street-150-street-limited-2012-gasolina",
+      "fipeCodigo": "845007-2",
+      "displayName": "MVK STREET 150/STREET LIMITED",
+      "valorAtual": 2955,
+      "canonicalPath": "/fipe/mvk/street-150-street-limited-2012-845007-2/",
+      "ano": 2012,
+      "marca": "MVK"
+    },
+    {
+      "vehicleId": "mvk-street-150-street-limited-2011-gasolina",
+      "fipeCodigo": "845007-2",
+      "displayName": "MVK STREET 150/STREET LIMITED",
+      "valorAtual": 2795,
+      "canonicalPath": "/fipe/mvk/street-150-street-limited-2011-845007-2/",
+      "ano": 2011,
+      "marca": "MVK"
+    },
+    {
+      "vehicleId": "mvk-street-150-street-limited-2009-gasolina",
+      "fipeCodigo": "845007-2",
+      "displayName": "MVK STREET 150/STREET LIMITED",
+      "valorAtual": 2591,
+      "canonicalPath": "/fipe/mvk/street-150-street-limited-2009-845007-2/",
+      "ano": 2009,
+      "marca": "MVK"
+    },
+    {
+      "vehicleId": "mvk-street-150-street-limited-2008-gasolina",
+      "fipeCodigo": "845007-2",
+      "displayName": "MVK STREET 150/STREET LIMITED",
+      "valorAtual": 2191,
+      "canonicalPath": "/fipe/mvk/street-150-street-limited-2008-845007-2/",
+      "ano": 2008,
+      "marca": "MVK"
+    },
+    {
+      "vehicleId": "mvk-street-150-street-limited-2007-gasolina",
+      "fipeCodigo": "845007-2",
+      "displayName": "MVK STREET 150/STREET LIMITED",
+      "valorAtual": 1894,
+      "canonicalPath": "/fipe/mvk/street-150-street-limited-2007-845007-2/",
+      "ano": 2007,
+      "marca": "MVK"
+    }
+  ],
+  "stats": {
+    "total": 6,
+    "precoMin": 1894,
+    "precoMax": 3029,
+    "anos": [
+      2013,
+      2012,
+      2011,
+      2009,
+      2008,
+      2007
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "33-1",
+  "canonicalPath": "/geracao/volkswagen/33-1/",
+  "titulo": "Geracao 33-1",
+  "descricao": "2 veiculos da geracao 33-1.",
+  "seo": {
+    "title": "Geracao 33-1 - Precos FIPE",
+    "description": "Veiculos da geracao 33-1 na Tabela FIPE.",
+    "h1": "Geracao 33-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/volkswagen/33-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "volkswagen-33-260-constellation-8x4-2p-diesel-e6-0-diesel",
+      "fipeCodigo": "515207-0",
+      "displayName": "VOLKSWAGEN 33.260 Constellation 8x4 2p (diesel)(E6)",
+      "valorAtual": 770000,
+      "canonicalPath": "/fipe/volkswagen/33-260-constellation-8x4-2p-diesel-e6-0-515207-0/",
+      "ano": 0,
+      "marca": "VOLKSWAGEN"
+    },
+    {
+      "vehicleId": "volkswagen-33-480-constellation-6x4-2p-diesel-e6-0-diesel",
+      "fipeCodigo": "515199-6",
+      "displayName": "VOLKSWAGEN 33.480 Constellation 6x4 2p (diesel)(E6)",
+      "valorAtual": 899391,
+      "canonicalPath": "/fipe/volkswagen/33-480-constellation-6x4-2p-diesel-e6-0-515199-6/",
+      "ano": 0,
+      "marca": "VOLKSWAGEN"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "33-1"
+  }
+}

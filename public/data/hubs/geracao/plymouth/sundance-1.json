@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "sundance-1",
+  "canonicalPath": "/geracao/plymouth/sundance-1/",
+  "titulo": "Geracao sundance-1",
+  "descricao": "2 veiculos da geracao sundance-1.",
+  "seo": {
+    "title": "Geracao sundance-1 - Precos FIPE",
+    "description": "Veiculos da geracao sundance-1 na Tabela FIPE.",
+    "h1": "Geracao sundance-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/plymouth/sundance-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "plymouth-sundance-2-5-1992-gasolina",
+      "fipeCodigo": "050002-0",
+      "displayName": "Plymouth Sundance 2.5",
+      "valorAtual": 5200,
+      "canonicalPath": "/fipe/plymouth/sundance-2-5-1992-050002-0/",
+      "ano": 1992,
+      "marca": "Plymouth"
+    },
+    {
+      "vehicleId": "plymouth-sundance-2-5-1993-gasolina",
+      "fipeCodigo": "050002-0",
+      "displayName": "Plymouth Sundance 2.5",
+      "valorAtual": 6492,
+      "canonicalPath": "/fipe/plymouth/sundance-2-5-1993-050002-0/",
+      "ano": 1993,
+      "marca": "Plymouth"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "sundance-1"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "tipo": "geracao",
+  "slug": "749-1",
+  "canonicalPath": "/geracao/ducati/749-1/",
+  "titulo": "Geracao 749-1",
+  "descricao": "3 veiculos da geracao 749-1.",
+  "seo": {
+    "title": "Geracao 749-1 - Precos FIPE",
+    "description": "Veiculos da geracao 749-1 na Tabela FIPE.",
+    "h1": "Geracao 749-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/ducati/749-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "ducati-749-2004-gasolina",
+      "fipeCodigo": "808013-5",
+      "displayName": "DUCATI 749",
+      "valorAtual": 25793,
+      "canonicalPath": "/fipe/ducati/749-2004-808013-5/",
+      "ano": 2004,
+      "marca": "DUCATI"
+    },
+    {
+      "vehicleId": "ducati-749-2005-gasolina",
+      "fipeCodigo": "808013-5",
+      "displayName": "DUCATI 749",
+      "valorAtual": 27342,
+      "canonicalPath": "/fipe/ducati/749-2005-808013-5/",
+      "ano": 2005,
+      "marca": "DUCATI"
+    },
+    {
+      "vehicleId": "ducati-749-dark-748cc-2006-gasolina",
+      "fipeCodigo": "808016-0",
+      "displayName": "DUCATI 749 Dark  748cc",
+      "valorAtual": 30312,
+      "canonicalPath": "/fipe/ducati/749-dark-748cc-2006-808016-0/",
+      "ano": 2006,
+      "marca": "DUCATI"
+    }
+  ],
+  "stats": {
+    "total": 3
+  },
+  "meta": {
+    "geracaoId": "749-1"
+  }
+}

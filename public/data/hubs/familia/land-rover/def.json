@@ -1,0 +1,52 @@
+{
+  "tipo": "familia",
+  "slug": "def",
+  "canonicalPath": "/fipe/land-rover/def/",
+  "titulo": "Land Rover def - Tabela FIPE",
+  "descricao": "3 versoes e anos do Land Rover def na Tabela FIPE.",
+  "seo": {
+    "title": "Land Rover def - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes Land Rover def. 3 veiculos indexados.",
+    "h1": "Land Rover def - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/land-rover/def/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "land-rover-def-90-x-dy-d350-hse-die-aut-hib-2026-hibrido",
+      "fipeCodigo": "033244-5",
+      "displayName": "Land Rover Def. 90 X-DY D350 HSE Die. Aut.( Híb.)",
+      "valorAtual": 735258,
+      "canonicalPath": "/fipe/land-rover/def-90-x-dy-d350-hse-die-aut-hib-2026-033244-5/",
+      "ano": 2026,
+      "marca": "Land Rover"
+    },
+    {
+      "vehicleId": "land-rover-def-90-x-dy-d350-hse-die-aut-hib-2025-hibrido",
+      "fipeCodigo": "033244-5",
+      "displayName": "Land Rover Def. 90 X-DY D350 HSE Die. Aut.( Híb.)",
+      "valorAtual": 716876,
+      "canonicalPath": "/fipe/land-rover/def-90-x-dy-d350-hse-die-aut-hib-2025-033244-5/",
+      "ano": 2025,
+      "marca": "Land Rover"
+    },
+    {
+      "vehicleId": "land-rover-def-90-x-dy-d350-hse-die-aut-hib-0-hibrido",
+      "fipeCodigo": "033244-5",
+      "displayName": "Land Rover Def. 90 X-DY D350 HSE Die. Aut.( Híb.)",
+      "valorAtual": 803991,
+      "canonicalPath": "/fipe/land-rover/def-90-x-dy-d350-hse-die-aut-hib-0-033244-5/",
+      "ano": 0,
+      "marca": "Land Rover"
+    }
+  ],
+  "stats": {
+    "total": 3,
+    "precoMin": 716876,
+    "precoMax": 803991,
+    "anos": [
+      2026,
+      2025,
+      0
+    ]
+  }
+}

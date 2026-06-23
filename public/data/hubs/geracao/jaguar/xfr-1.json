@@ -1,0 +1,102 @@
+{
+  "tipo": "geracao",
+  "slug": "xfr-1",
+  "canonicalPath": "/geracao/jaguar/xfr-1/",
+  "titulo": "Geracao xfr-1",
+  "descricao": "9 veiculos da geracao xfr-1.",
+  "seo": {
+    "title": "Geracao xfr-1 - Precos FIPE",
+    "description": "Veiculos da geracao xfr-1 na Tabela FIPE.",
+    "h1": "Geracao xfr-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/jaguar/xfr-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "jaguar-xfr-supercharged-5-0-v8-510cv-aut-2009-gasolina",
+      "fipeCodigo": "016026-1",
+      "displayName": "Jaguar XFR Supercharged 5.0 V8 510cv Aut.",
+      "valorAtual": 132381,
+      "canonicalPath": "/fipe/jaguar/xfr-supercharged-5-0-v8-510cv-aut-2009-016026-1/",
+      "ano": 2009,
+      "marca": "Jaguar"
+    },
+    {
+      "vehicleId": "jaguar-xfr-supercharged-5-0-v8-510cv-aut-2010-gasolina",
+      "fipeCodigo": "016026-1",
+      "displayName": "Jaguar XFR Supercharged 5.0 V8 510cv Aut.",
+      "valorAtual": 135691,
+      "canonicalPath": "/fipe/jaguar/xfr-supercharged-5-0-v8-510cv-aut-2010-016026-1/",
+      "ano": 2010,
+      "marca": "Jaguar"
+    },
+    {
+      "vehicleId": "jaguar-xfr-supercharged-5-0-v8-510cv-aut-2011-gasolina",
+      "fipeCodigo": "016026-1",
+      "displayName": "Jaguar XFR Supercharged 5.0 V8 510cv Aut.",
+      "valorAtual": 139084,
+      "canonicalPath": "/fipe/jaguar/xfr-supercharged-5-0-v8-510cv-aut-2011-016026-1/",
+      "ano": 2011,
+      "marca": "Jaguar"
+    },
+    {
+      "vehicleId": "jaguar-xfr-supercharged-5-0-v8-510cv-aut-2012-gasolina",
+      "fipeCodigo": "016026-1",
+      "displayName": "Jaguar XFR Supercharged 5.0 V8 510cv Aut.",
+      "valorAtual": 211586,
+      "canonicalPath": "/fipe/jaguar/xfr-supercharged-5-0-v8-510cv-aut-2012-016026-1/",
+      "ano": 2012,
+      "marca": "Jaguar"
+    },
+    {
+      "vehicleId": "jaguar-xfr-supercharged-5-0-v8-510cv-aut-2013-gasolina",
+      "fipeCodigo": "016026-1",
+      "displayName": "Jaguar XFR Supercharged 5.0 V8 510cv Aut.",
+      "valorAtual": 230851,
+      "canonicalPath": "/fipe/jaguar/xfr-supercharged-5-0-v8-510cv-aut-2013-016026-1/",
+      "ano": 2013,
+      "marca": "Jaguar"
+    },
+    {
+      "vehicleId": "jaguar-xfr-supercharged-5-0-v8-510cv-aut-2014-gasolina",
+      "fipeCodigo": "016026-1",
+      "displayName": "Jaguar XFR Supercharged 5.0 V8 510cv Aut.",
+      "valorAtual": 334861,
+      "canonicalPath": "/fipe/jaguar/xfr-supercharged-5-0-v8-510cv-aut-2014-016026-1/",
+      "ano": 2014,
+      "marca": "Jaguar"
+    },
+    {
+      "vehicleId": "jaguar-xfr-supercharged-5-0-v8-510cv-aut-2015-gasolina",
+      "fipeCodigo": "016026-1",
+      "displayName": "Jaguar XFR Supercharged 5.0 V8 510cv Aut.",
+      "valorAtual": 343233,
+      "canonicalPath": "/fipe/jaguar/xfr-supercharged-5-0-v8-510cv-aut-2015-016026-1/",
+      "ano": 2015,
+      "marca": "Jaguar"
+    },
+    {
+      "vehicleId": "jaguar-xfr-s-supercharged-5-0-v8-550cv-aut-2014-gasolina",
+      "fipeCodigo": "016036-9",
+      "displayName": "Jaguar XFR-S Supercharged 5.0 V8 550cv Aut.",
+      "valorAtual": 349006,
+      "canonicalPath": "/fipe/jaguar/xfr-s-supercharged-5-0-v8-550cv-aut-2014-016036-9/",
+      "ano": 2014,
+      "marca": "Jaguar"
+    },
+    {
+      "vehicleId": "jaguar-xfr-s-supercharged-5-0-v8-550cv-aut-2015-gasolina",
+      "fipeCodigo": "016036-9",
+      "displayName": "Jaguar XFR-S Supercharged 5.0 V8 550cv Aut.",
+      "valorAtual": 361738,
+      "canonicalPath": "/fipe/jaguar/xfr-s-supercharged-5-0-v8-550cv-aut-2015-016036-9/",
+      "ano": 2015,
+      "marca": "Jaguar"
+    }
+  ],
+  "stats": {
+    "total": 9
+  },
+  "meta": {
+    "geracaoId": "xfr-1"
+  }
+}

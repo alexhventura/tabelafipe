@@ -1,0 +1,42 @@
+{
+  "tipo": "familia",
+  "slug": "gr125u",
+  "canonicalPath": "/fipe/garinni/gr125u/",
+  "titulo": "GARINNI gr125u - Tabela FIPE",
+  "descricao": "2 versoes e anos do GARINNI gr125u na Tabela FIPE.",
+  "seo": {
+    "title": "GARINNI gr125u - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes GARINNI gr125u. 2 veiculos indexados.",
+    "h1": "GARINNI gr125u - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/garinni/gr125u/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "garinni-gr125u-2008-gasolina",
+      "fipeCodigo": "847007-3",
+      "displayName": "GARINNI GR125U",
+      "valorAtual": 1800,
+      "canonicalPath": "/fipe/garinni/gr125u-2008-847007-3/",
+      "ano": 2008,
+      "marca": "GARINNI"
+    },
+    {
+      "vehicleId": "garinni-gr125u-2007-gasolina",
+      "fipeCodigo": "847007-3",
+      "displayName": "GARINNI GR125U",
+      "valorAtual": 1516,
+      "canonicalPath": "/fipe/garinni/gr125u-2007-847007-3/",
+      "ano": 2007,
+      "marca": "GARINNI"
+    }
+  ],
+  "stats": {
+    "total": 2,
+    "precoMin": 1516,
+    "precoMax": 1800,
+    "anos": [
+      2008,
+      2007
+    ]
+  }
+}

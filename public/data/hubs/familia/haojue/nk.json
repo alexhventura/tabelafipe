@@ -1,0 +1,82 @@
+{
+  "tipo": "familia",
+  "slug": "nk",
+  "canonicalPath": "/fipe/haojue/nk/",
+  "titulo": "HAOJUE nk - Tabela FIPE",
+  "descricao": "6 versoes e anos do HAOJUE nk na Tabela FIPE.",
+  "seo": {
+    "title": "HAOJUE nk - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes HAOJUE nk. 6 veiculos indexados.",
+    "h1": "HAOJUE nk - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/haojue/nk/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "haojue-nk-150-2027-gasolina",
+      "fipeCodigo": "885010-0",
+      "displayName": "HAOJUE NK 150",
+      "valorAtual": 18647,
+      "canonicalPath": "/fipe/haojue/nk-150-2027-885010-0/",
+      "ano": 2027,
+      "marca": "HAOJUE"
+    },
+    {
+      "vehicleId": "haojue-nk-150-2026-gasolina",
+      "fipeCodigo": "885010-0",
+      "displayName": "HAOJUE NK 150",
+      "valorAtual": 17505,
+      "canonicalPath": "/fipe/haojue/nk-150-2026-885010-0/",
+      "ano": 2026,
+      "marca": "HAOJUE"
+    },
+    {
+      "vehicleId": "haojue-nk-150-2025-gasolina",
+      "fipeCodigo": "885010-0",
+      "displayName": "HAOJUE NK 150",
+      "valorAtual": 16559,
+      "canonicalPath": "/fipe/haojue/nk-150-2025-885010-0/",
+      "ano": 2025,
+      "marca": "HAOJUE"
+    },
+    {
+      "vehicleId": "haojue-nk-150-2024-gasolina",
+      "fipeCodigo": "885010-0",
+      "displayName": "HAOJUE NK 150",
+      "valorAtual": 16100,
+      "canonicalPath": "/fipe/haojue/nk-150-2024-885010-0/",
+      "ano": 2024,
+      "marca": "HAOJUE"
+    },
+    {
+      "vehicleId": "haojue-nk-150-2023-gasolina",
+      "fipeCodigo": "885010-0",
+      "displayName": "HAOJUE NK 150",
+      "valorAtual": 15277,
+      "canonicalPath": "/fipe/haojue/nk-150-2023-885010-0/",
+      "ano": 2023,
+      "marca": "HAOJUE"
+    },
+    {
+      "vehicleId": "haojue-nk-150-0-gasolina",
+      "fipeCodigo": "885010-0",
+      "displayName": "HAOJUE NK 150",
+      "valorAtual": 20020,
+      "canonicalPath": "/fipe/haojue/nk-150-0-885010-0/",
+      "ano": 0,
+      "marca": "HAOJUE"
+    }
+  ],
+  "stats": {
+    "total": 6,
+    "precoMin": 15277,
+    "precoMax": 20020,
+    "anos": [
+      2027,
+      2026,
+      2025,
+      2024,
+      2023,
+      0
+    ]
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "tipo": "geracao",
+  "slug": "speedfight-1",
+  "canonicalPath": "/geracao/peugeot/speedfight-1/",
+  "titulo": "Geracao speedfight-1",
+  "descricao": "8 veiculos da geracao speedfight-1.",
+  "seo": {
+    "title": "Geracao speedfight-1 - Precos FIPE",
+    "description": "Veiculos da geracao speedfight-1 na Tabela FIPE.",
+    "h1": "Geracao speedfight-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/peugeot/speedfight-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "peugeot-speedfight-100-1999-gasolina",
+      "fipeCodigo": "821005-5",
+      "displayName": "PEUGEOT SPEEDFIGHT 100",
+      "valorAtual": 2880,
+      "canonicalPath": "/fipe/peugeot/speedfight-100-1999-821005-5/",
+      "ano": 1999,
+      "marca": "PEUGEOT"
+    },
+    {
+      "vehicleId": "peugeot-speedfight-100-2000-gasolina",
+      "fipeCodigo": "821005-5",
+      "displayName": "PEUGEOT SPEEDFIGHT 100",
+      "valorAtual": 3039,
+      "canonicalPath": "/fipe/peugeot/speedfight-100-2000-821005-5/",
+      "ano": 2000,
+      "marca": "PEUGEOT"
+    },
+    {
+      "vehicleId": "peugeot-speedfight-50-1997-gasolina",
+      "fipeCodigo": "821007-1",
+      "displayName": "PEUGEOT SPEEDFIGHT 50",
+      "valorAtual": 2255,
+      "canonicalPath": "/fipe/peugeot/speedfight-50-1997-821007-1/",
+      "ano": 1997,
+      "marca": "PEUGEOT"
+    },
+    {
+      "vehicleId": "peugeot-speedfight-50-1998-gasolina",
+      "fipeCodigo": "821007-1",
+      "displayName": "PEUGEOT SPEEDFIGHT 50",
+      "valorAtual": 2578,
+      "canonicalPath": "/fipe/peugeot/speedfight-50-1998-821007-1/",
+      "ano": 1998,
+      "marca": "PEUGEOT"
+    },
+    {
+      "vehicleId": "peugeot-speedfight-50-1999-gasolina",
+      "fipeCodigo": "821007-1",
+      "displayName": "PEUGEOT SPEEDFIGHT 50",
+      "valorAtual": 2751,
+      "canonicalPath": "/fipe/peugeot/speedfight-50-1999-821007-1/",
+      "ano": 1999,
+      "marca": "PEUGEOT"
+    },
+    {
+      "vehicleId": "peugeot-speedfight-50-lc-1997-gasolina",
+      "fipeCodigo": "821006-3",
+      "displayName": "PEUGEOT SPEEDFIGHT 50-LC",
+      "valorAtual": 2268,
+      "canonicalPath": "/fipe/peugeot/speedfight-50-lc-1997-821006-3/",
+      "ano": 1997,
+      "marca": "PEUGEOT"
+    },
+    {
+      "vehicleId": "peugeot-speedfight-50-lc-1998-gasolina",
+      "fipeCodigo": "821006-3",
+      "displayName": "PEUGEOT SPEEDFIGHT 50-LC",
+      "valorAtual": 2586,
+      "canonicalPath": "/fipe/peugeot/speedfight-50-lc-1998-821006-3/",
+      "ano": 1998,
+      "marca": "PEUGEOT"
+    },
+    {
+      "vehicleId": "peugeot-speedfight-50-lc-1999-gasolina",
+      "fipeCodigo": "821006-3",
+      "displayName": "PEUGEOT SPEEDFIGHT 50-LC",
+      "valorAtual": 2820,
+      "canonicalPath": "/fipe/peugeot/speedfight-50-lc-1999-821006-3/",
+      "ano": 1999,
+      "marca": "PEUGEOT"
+    }
+  ],
+  "stats": {
+    "total": 8
+  },
+  "meta": {
+    "geracaoId": "speedfight-1"
+  }
+}

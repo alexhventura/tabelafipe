@@ -1,0 +1,42 @@
+{
+  "tipo": "familia",
+  "slug": "neos",
+  "canonicalPath": "/fipe/yamaha/neos/",
+  "titulo": "YAMAHA neos - Tabela FIPE",
+  "descricao": "2 versoes e anos do YAMAHA neos na Tabela FIPE.",
+  "seo": {
+    "title": "YAMAHA neos - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes YAMAHA neos. 2 veiculos indexados.",
+    "h1": "YAMAHA neos - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/yamaha/neos/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "yamaha-neos-connected-eletrica-2026-eletrico",
+      "fipeCodigo": "827137-2",
+      "displayName": "YAMAHA NEOS CONNECTED (Elétrica)",
+      "valorAtual": 25656,
+      "canonicalPath": "/fipe/yamaha/neos-connected-eletrica-2026-827137-2/",
+      "ano": 2026,
+      "marca": "YAMAHA"
+    },
+    {
+      "vehicleId": "yamaha-neos-connected-eletrica-0-eletrico",
+      "fipeCodigo": "827137-2",
+      "displayName": "YAMAHA NEOS CONNECTED (Elétrica)",
+      "valorAtual": 29825,
+      "canonicalPath": "/fipe/yamaha/neos-connected-eletrica-0-827137-2/",
+      "ano": 0,
+      "marca": "YAMAHA"
+    }
+  ],
+  "stats": {
+    "total": 2,
+    "precoMin": 25656,
+    "precoMax": 29825,
+    "anos": [
+      2026,
+      0
+    ]
+  }
+}

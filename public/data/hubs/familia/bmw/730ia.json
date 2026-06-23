@@ -1,0 +1,42 @@
+{
+  "tipo": "familia",
+  "slug": "730ia",
+  "canonicalPath": "/fipe/bmw/730ia/",
+  "titulo": "BMW 730ia - Tabela FIPE",
+  "descricao": "2 versoes e anos do BMW 730ia na Tabela FIPE.",
+  "seo": {
+    "title": "BMW 730ia - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes BMW 730ia. 2 veiculos indexados.",
+    "h1": "BMW 730ia - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/bmw/730ia/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "bmw-730ia-3-0-32v-1992-gasolina",
+      "fipeCodigo": "009049-2",
+      "displayName": "BMW 730iA 3.0 32V",
+      "valorAtual": 16372,
+      "canonicalPath": "/fipe/bmw/730ia-3-0-32v-1992-009049-2/",
+      "ano": 1992,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-730ia-3-0-32v-1991-gasolina",
+      "fipeCodigo": "009049-2",
+      "displayName": "BMW 730iA 3.0 32V",
+      "valorAtual": 13684,
+      "canonicalPath": "/fipe/bmw/730ia-3-0-32v-1991-009049-2/",
+      "ano": 1991,
+      "marca": "BMW"
+    }
+  ],
+  "stats": {
+    "total": 2,
+    "precoMin": 13684,
+    "precoMax": 16372,
+    "anos": [
+      1992,
+      1991
+    ]
+  }
+}

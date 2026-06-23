@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "kona-3",
+  "canonicalPath": "/geracao/hyundai/kona-3/",
+  "titulo": "Geracao kona-3",
+  "descricao": "2 veiculos da geracao kona-3.",
+  "seo": {
+    "title": "Geracao kona-3 - Precos FIPE",
+    "description": "Veiculos da geracao kona-3 na Tabela FIPE.",
+    "h1": "Geracao kona-3",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/hyundai/kona-3/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "hyundai-kona-signature-gdi-1-6-16v-aut-hibrido-2026-hibrido",
+      "fipeCodigo": "015254-4",
+      "displayName": "Hyundai KONA Signature GDI 1.6 16V Aut (Hibrido)",
+      "valorAtual": 188221,
+      "canonicalPath": "/fipe/hyundai/kona-signature-gdi-1-6-16v-aut-hibrido-2026-015254-4/",
+      "ano": 2026,
+      "marca": "Hyundai"
+    },
+    {
+      "vehicleId": "hyundai-kona-ultimate-gdi-1-6-16v-aut-hibrido-2026-hibrido",
+      "fipeCodigo": "015253-6",
+      "displayName": "Hyundai KONA Ultimate GDI 1.6 16V Aut. (Hibrido)",
+      "valorAtual": 185780,
+      "canonicalPath": "/fipe/hyundai/kona-ultimate-gdi-1-6-16v-aut-hibrido-2026-015253-6/",
+      "ano": 2026,
+      "marca": "Hyundai"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "kona-3"
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "tipo": "familia",
+  "slug": "new",
+  "canonicalPath": "/fipe/land-rover/new/",
+  "titulo": "Land Rover new - Tabela FIPE",
+  "descricao": "4 versoes e anos do Land Rover new na Tabela FIPE.",
+  "seo": {
+    "title": "Land Rover new - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes Land Rover new. 4 veiculos indexados.",
+    "h1": "Land Rover new - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/land-rover/new/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "land-rover-new-range-range-rover-vogue-3-9-v8-1997-gasolina",
+      "fipeCodigo": "033019-1",
+      "displayName": "Land Rover New Range/Range Rover Vogue 3.9 V8",
+      "valorAtual": 19439,
+      "canonicalPath": "/fipe/land-rover/new-range-range-rover-vogue-3-9-v8-1997-033019-1/",
+      "ano": 1997,
+      "marca": "Land Rover"
+    },
+    {
+      "vehicleId": "land-rover-new-range-range-rover-vogue-3-9-v8-1996-gasolina",
+      "fipeCodigo": "033019-1",
+      "displayName": "Land Rover New Range/Range Rover Vogue 3.9 V8",
+      "valorAtual": 18611,
+      "canonicalPath": "/fipe/land-rover/new-range-range-rover-vogue-3-9-v8-1996-033019-1/",
+      "ano": 1996,
+      "marca": "Land Rover"
+    },
+    {
+      "vehicleId": "land-rover-new-range-range-rover-vogue-3-9-v8-1993-gasolina",
+      "fipeCodigo": "033019-1",
+      "displayName": "Land Rover New Range/Range Rover Vogue 3.9 V8",
+      "valorAtual": 17509,
+      "canonicalPath": "/fipe/land-rover/new-range-range-rover-vogue-3-9-v8-1993-033019-1/",
+      "ano": 1993,
+      "marca": "Land Rover"
+    },
+    {
+      "vehicleId": "land-rover-new-range-range-rover-vogue-3-9-v8-1992-gasolina",
+      "fipeCodigo": "033019-1",
+      "displayName": "Land Rover New Range/Range Rover Vogue 3.9 V8",
+      "valorAtual": 15006,
+      "canonicalPath": "/fipe/land-rover/new-range-range-rover-vogue-3-9-v8-1992-033019-1/",
+      "ano": 1992,
+      "marca": "Land Rover"
+    }
+  ],
+  "stats": {
+    "total": 4,
+    "precoMin": 15006,
+    "precoMax": 19439,
+    "anos": [
+      1997,
+      1996,
+      1993,
+      1992
+    ]
+  }
+}

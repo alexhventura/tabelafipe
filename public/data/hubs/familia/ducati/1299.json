@@ -1,0 +1,79 @@
+{
+  "tipo": "familia",
+  "slug": "1299",
+  "canonicalPath": "/fipe/ducati/1299/",
+  "titulo": "DUCATI 1299 - Tabela FIPE",
+  "descricao": "6 versoes e anos do DUCATI 1299 na Tabela FIPE.",
+  "seo": {
+    "title": "DUCATI 1299 - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes DUCATI 1299. 6 veiculos indexados.",
+    "h1": "DUCATI 1299 - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/ducati/1299/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "ducati-1299-panigale-2018-gasolina",
+      "fipeCodigo": "808067-4",
+      "displayName": "DUCATI 1299 Panigale",
+      "valorAtual": 74089,
+      "canonicalPath": "/fipe/ducati/1299-panigale-2018-808067-4/",
+      "ano": 2018,
+      "marca": "DUCATI"
+    },
+    {
+      "vehicleId": "ducati-1299-panigale-s-2018-gasolina",
+      "fipeCodigo": "808068-2",
+      "displayName": "DUCATI 1299 Panigale S",
+      "valorAtual": 78327,
+      "canonicalPath": "/fipe/ducati/1299-panigale-s-2018-808068-2/",
+      "ano": 2018,
+      "marca": "DUCATI"
+    },
+    {
+      "vehicleId": "ducati-1299-panigale-2017-gasolina",
+      "fipeCodigo": "808067-4",
+      "displayName": "DUCATI 1299 Panigale",
+      "valorAtual": 67890,
+      "canonicalPath": "/fipe/ducati/1299-panigale-2017-808067-4/",
+      "ano": 2017,
+      "marca": "DUCATI"
+    },
+    {
+      "vehicleId": "ducati-1299-panigale-s-2017-gasolina",
+      "fipeCodigo": "808068-2",
+      "displayName": "DUCATI 1299 Panigale S",
+      "valorAtual": 75124,
+      "canonicalPath": "/fipe/ducati/1299-panigale-s-2017-808068-2/",
+      "ano": 2017,
+      "marca": "DUCATI"
+    },
+    {
+      "vehicleId": "ducati-1299-panigale-2016-gasolina",
+      "fipeCodigo": "808067-4",
+      "displayName": "DUCATI 1299 Panigale",
+      "valorAtual": 61585,
+      "canonicalPath": "/fipe/ducati/1299-panigale-2016-808067-4/",
+      "ano": 2016,
+      "marca": "DUCATI"
+    },
+    {
+      "vehicleId": "ducati-1299-panigale-s-2016-gasolina",
+      "fipeCodigo": "808068-2",
+      "displayName": "DUCATI 1299 Panigale S",
+      "valorAtual": 64057,
+      "canonicalPath": "/fipe/ducati/1299-panigale-s-2016-808068-2/",
+      "ano": 2016,
+      "marca": "DUCATI"
+    }
+  ],
+  "stats": {
+    "total": 6,
+    "precoMin": 61585,
+    "precoMax": 78327,
+    "anos": [
+      2018,
+      2017,
+      2016
+    ]
+  }
+}

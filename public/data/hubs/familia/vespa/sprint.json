@@ -1,0 +1,80 @@
+{
+  "tipo": "familia",
+  "slug": "sprint",
+  "canonicalPath": "/fipe/vespa/sprint/",
+  "titulo": "VESPA sprint - Tabela FIPE",
+  "descricao": "6 versoes e anos do VESPA sprint na Tabela FIPE.",
+  "seo": {
+    "title": "VESPA sprint - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes VESPA sprint. 6 veiculos indexados.",
+    "h1": "VESPA sprint - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/vespa/sprint/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "vespa-sprint-s-150-2025-gasolina",
+      "fipeCodigo": "898006-3",
+      "displayName": "VESPA Sprint S 150",
+      "valorAtual": 54846,
+      "canonicalPath": "/fipe/vespa/sprint-s-150-2025-898006-3/",
+      "ano": 2025,
+      "marca": "VESPA"
+    },
+    {
+      "vehicleId": "vespa-sprint-150-2024-gasolina",
+      "fipeCodigo": "898005-5",
+      "displayName": "VESPA Sprint 150",
+      "valorAtual": 49031,
+      "canonicalPath": "/fipe/vespa/sprint-150-2024-898005-5/",
+      "ano": 2024,
+      "marca": "VESPA"
+    },
+    {
+      "vehicleId": "vespa-sprint-s-150-2024-gasolina",
+      "fipeCodigo": "898006-3",
+      "displayName": "VESPA Sprint S 150",
+      "valorAtual": 53201,
+      "canonicalPath": "/fipe/vespa/sprint-s-150-2024-898006-3/",
+      "ano": 2024,
+      "marca": "VESPA"
+    },
+    {
+      "vehicleId": "vespa-sprint-150-2023-gasolina",
+      "fipeCodigo": "898005-5",
+      "displayName": "VESPA Sprint 150",
+      "valorAtual": 47745,
+      "canonicalPath": "/fipe/vespa/sprint-150-2023-898005-5/",
+      "ano": 2023,
+      "marca": "VESPA"
+    },
+    {
+      "vehicleId": "vespa-sprint-150-0-gasolina",
+      "fipeCodigo": "898005-5",
+      "displayName": "VESPA Sprint 150",
+      "valorAtual": 52990,
+      "canonicalPath": "/fipe/vespa/sprint-150-0-898005-5/",
+      "ano": 0,
+      "marca": "VESPA"
+    },
+    {
+      "vehicleId": "vespa-sprint-s-150-0-gasolina",
+      "fipeCodigo": "898006-3",
+      "displayName": "VESPA Sprint S 150",
+      "valorAtual": 59789,
+      "canonicalPath": "/fipe/vespa/sprint-s-150-0-898006-3/",
+      "ano": 0,
+      "marca": "VESPA"
+    }
+  ],
+  "stats": {
+    "total": 6,
+    "precoMin": 47745,
+    "precoMax": 59789,
+    "anos": [
+      2025,
+      2024,
+      2023,
+      0
+    ]
+  }
+}

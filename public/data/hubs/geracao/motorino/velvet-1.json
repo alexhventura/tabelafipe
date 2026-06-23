@@ -1,0 +1,66 @@
+{
+  "tipo": "geracao",
+  "slug": "velvet-1",
+  "canonicalPath": "/geracao/motorino/velvet-1/",
+  "titulo": "Geracao velvet-1",
+  "descricao": "5 veiculos da geracao velvet-1.",
+  "seo": {
+    "title": "Geracao velvet-1 - Precos FIPE",
+    "description": "Veiculos da geracao velvet-1 na Tabela FIPE.",
+    "h1": "Geracao velvet-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/motorino/velvet-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "motorino-velvet-150cc-lt-2012-gasolina",
+      "fipeCodigo": "881005-2",
+      "displayName": "MOTORINO Velvet 150cc/LT",
+      "valorAtual": 9507,
+      "canonicalPath": "/fipe/motorino/velvet-150cc-lt-2012-881005-2/",
+      "ano": 2012,
+      "marca": "MOTORINO"
+    },
+    {
+      "vehicleId": "motorino-velvet-150cc-lt-2013-gasolina",
+      "fipeCodigo": "881005-2",
+      "displayName": "MOTORINO Velvet 150cc/LT",
+      "valorAtual": 10149,
+      "canonicalPath": "/fipe/motorino/velvet-150cc-lt-2013-881005-2/",
+      "ano": 2013,
+      "marca": "MOTORINO"
+    },
+    {
+      "vehicleId": "motorino-velvet-150cc-lt-2014-gasolina",
+      "fipeCodigo": "881005-2",
+      "displayName": "MOTORINO Velvet 150cc/LT",
+      "valorAtual": 11320,
+      "canonicalPath": "/fipe/motorino/velvet-150cc-lt-2014-881005-2/",
+      "ano": 2014,
+      "marca": "MOTORINO"
+    },
+    {
+      "vehicleId": "motorino-velvet-150cc-lt-2015-gasolina",
+      "fipeCodigo": "881005-2",
+      "displayName": "MOTORINO Velvet 150cc/LT",
+      "valorAtual": 11619,
+      "canonicalPath": "/fipe/motorino/velvet-150cc-lt-2015-881005-2/",
+      "ano": 2015,
+      "marca": "MOTORINO"
+    },
+    {
+      "vehicleId": "motorino-velvet-50cc-2013-gasolina",
+      "fipeCodigo": "881015-0",
+      "displayName": "MOTORINO Velvet 50cc",
+      "valorAtual": 6363,
+      "canonicalPath": "/fipe/motorino/velvet-50cc-2013-881015-0/",
+      "ano": 2013,
+      "marca": "MOTORINO"
+    }
+  ],
+  "stats": {
+    "total": 5
+  },
+  "meta": {
+    "geracaoId": "velvet-1"
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "tipo": "geracao",
+  "slug": "dy125-2",
+  "canonicalPath": "/geracao/dayang/dy125-2/",
+  "titulo": "Geracao dy125-2",
+  "descricao": "5 veiculos da geracao dy125-2.",
+  "seo": {
+    "title": "Geracao dy125-2 - Precos FIPE",
+    "description": "Veiculos da geracao dy125-2 na Tabela FIPE.",
+    "h1": "Geracao dy125-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/dayang/dy125-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "dayang-dy125-sprint-2014-gasolina",
+      "fipeCodigo": "857018-3",
+      "displayName": "DAYANG DY125 SPRINT",
+      "valorAtual": 3577,
+      "canonicalPath": "/fipe/dayang/dy125-sprint-2014-857018-3/",
+      "ano": 2014,
+      "marca": "DAYANG"
+    },
+    {
+      "vehicleId": "dayang-dy125-sprint-2015-gasolina",
+      "fipeCodigo": "857018-3",
+      "displayName": "DAYANG DY125 SPRINT",
+      "valorAtual": 3857,
+      "canonicalPath": "/fipe/dayang/dy125-sprint-2015-857018-3/",
+      "ano": 2015,
+      "marca": "DAYANG"
+    },
+    {
+      "vehicleId": "dayang-dy125-52-2012-gasolina",
+      "fipeCodigo": "857006-0",
+      "displayName": "DAYANG DY125-52",
+      "valorAtual": 3381,
+      "canonicalPath": "/fipe/dayang/dy125-52-2012-857006-0/",
+      "ano": 2012,
+      "marca": "DAYANG"
+    },
+    {
+      "vehicleId": "dayang-dy125-52-2013-gasolina",
+      "fipeCodigo": "857006-0",
+      "displayName": "DAYANG DY125-52",
+      "valorAtual": 3744,
+      "canonicalPath": "/fipe/dayang/dy125-52-2013-857006-0/",
+      "ano": 2013,
+      "marca": "DAYANG"
+    },
+    {
+      "vehicleId": "dayang-dy125-52-2014-gasolina",
+      "fipeCodigo": "857006-0",
+      "displayName": "DAYANG DY125-52",
+      "valorAtual": 3884,
+      "canonicalPath": "/fipe/dayang/dy125-52-2014-857006-0/",
+      "ano": 2014,
+      "marca": "DAYANG"
+    }
+  ],
+  "stats": {
+    "total": 5
+  },
+  "meta": {
+    "geracaoId": "dy125-2"
+  }
+}

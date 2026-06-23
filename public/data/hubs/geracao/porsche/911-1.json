@@ -1,0 +1,93 @@
+{
+  "tipo": "geracao",
+  "slug": "911-1",
+  "canonicalPath": "/geracao/porsche/911-1/",
+  "titulo": "Geracao 911-1",
+  "descricao": "8 veiculos da geracao 911-1.",
+  "seo": {
+    "title": "Geracao 911-1 - Precos FIPE",
+    "description": "Veiculos da geracao 911-1 na Tabela FIPE.",
+    "h1": "Geracao 911-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/porsche/911-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "porsche-911-carrera-cabriolet-3-0-991-992-0-gasolina",
+      "fipeCodigo": "035074-5",
+      "displayName": "Porsche 911 Carrera Cabriolet 3.0 (991/992)",
+      "valorAtual": 1287500,
+      "canonicalPath": "/fipe/porsche/911-carrera-cabriolet-3-0-991-992-0-035074-5/",
+      "ano": 0,
+      "marca": "Porsche"
+    },
+    {
+      "vehicleId": "porsche-911-carrera-coupe-3-0-991-992-0-gasolina",
+      "fipeCodigo": "035076-1",
+      "displayName": "Porsche 911 Carrera Coupe 3.0 (991/992)",
+      "valorAtual": 1225000,
+      "canonicalPath": "/fipe/porsche/911-carrera-coupe-3-0-991-992-0-035076-1/",
+      "ano": 0,
+      "marca": "Porsche"
+    },
+    {
+      "vehicleId": "porsche-911-carrera-gts-cabriolet-3-6-992-0-gasolina",
+      "fipeCodigo": "035172-5",
+      "displayName": "Porsche 911 Carrera GTS Cabriolet 3.6 (992)",
+      "valorAtual": 1600000,
+      "canonicalPath": "/fipe/porsche/911-carrera-gts-cabriolet-3-6-992-0-035172-5/",
+      "ano": 0,
+      "marca": "Porsche"
+    },
+    {
+      "vehicleId": "porsche-911-carrera-gts-coupe-3-6-992-hib-0-gasolina",
+      "fipeCodigo": "035173-3",
+      "displayName": "Porsche 911 Carrera GTS Coupe 3.6 (992) (Híb.)",
+      "valorAtual": 1537500,
+      "canonicalPath": "/fipe/porsche/911-carrera-gts-coupe-3-6-992-hib-0-035173-3/",
+      "ano": 0,
+      "marca": "Porsche"
+    },
+    {
+      "vehicleId": "porsche-911-carrera-s-cabriolet-3-0-991-992-0-gasolina",
+      "fipeCodigo": "035072-9",
+      "displayName": "Porsche 911 Carrera S Cabriolet 3.0 (991/992)",
+      "valorAtual": 1500000,
+      "canonicalPath": "/fipe/porsche/911-carrera-s-cabriolet-3-0-991-992-0-035072-9/",
+      "ano": 0,
+      "marca": "Porsche"
+    },
+    {
+      "vehicleId": "porsche-911-carrera-s-coupe-3-0-991-992-0-gasolina",
+      "fipeCodigo": "035077-0",
+      "displayName": "Porsche 911 Carrera S Coupe 3.0 (991/992)",
+      "valorAtual": 1437500,
+      "canonicalPath": "/fipe/porsche/911-carrera-s-coupe-3-0-991-992-0-035077-0/",
+      "ano": 0,
+      "marca": "Porsche"
+    },
+    {
+      "vehicleId": "porsche-911-carrera-t-3-0-0-gasolina",
+      "fipeCodigo": "035106-7",
+      "displayName": "Porsche 911 Carrera T 3.0",
+      "valorAtual": 1287500,
+      "canonicalPath": "/fipe/porsche/911-carrera-t-3-0-0-035106-7/",
+      "ano": 0,
+      "marca": "Porsche"
+    },
+    {
+      "vehicleId": "porsche-911-carrera-t-cabriolet-3-0-0-gasolina",
+      "fipeCodigo": "035168-7",
+      "displayName": "Porsche 911 Carrera T Cabriolet 3.0",
+      "valorAtual": 1362500,
+      "canonicalPath": "/fipe/porsche/911-carrera-t-cabriolet-3-0-0-035168-7/",
+      "ano": 0,
+      "marca": "Porsche"
+    }
+  ],
+  "stats": {
+    "total": 8
+  },
+  "meta": {
+    "geracaoId": "911-1"
+  }
+}

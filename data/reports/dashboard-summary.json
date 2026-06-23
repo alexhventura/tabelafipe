@@ -1,0 +1,105 @@
+{
+  "geradoEm": "2026-06-22T14:19:32.326Z",
+  "veiculosTotais": 50395,
+  "coberturaPorCampo": [
+    {
+      "campo": "valor_fipe",
+      "preenchidos": 50395,
+      "meta": 100,
+      "total": 50395,
+      "pct": 100,
+      "gap": 0
+    },
+    {
+      "campo": "historico_precos",
+      "preenchidos": 50395,
+      "meta": 100,
+      "total": 50395,
+      "pct": 100,
+      "gap": 0
+    },
+    {
+      "campo": "consumo_urbano",
+      "preenchidos": 20906,
+      "meta": 70,
+      "total": 50395,
+      "pct": 41.48,
+      "gap": 28.520000000000003
+    },
+    {
+      "campo": "potencia_cv",
+      "preenchidos": 0,
+      "meta": 70,
+      "total": 50395,
+      "pct": 0,
+      "gap": 70
+    },
+    {
+      "campo": "torque_nm",
+      "preenchidos": 0,
+      "meta": 70,
+      "total": 50395,
+      "pct": 0,
+      "gap": 70
+    },
+    {
+      "campo": "cilindrada_cc",
+      "preenchidos": 43245,
+      "meta": 95,
+      "total": 50395,
+      "pct": 85.81,
+      "gap": 9.189999999999998
+    },
+    {
+      "campo": "transmissao",
+      "preenchidos": 11854,
+      "meta": 70,
+      "total": 50395,
+      "pct": 23.52,
+      "gap": 46.480000000000004
+    },
+    {
+      "campo": "porta_malas_l",
+      "preenchidos": 0,
+      "meta": 50,
+      "total": 50395,
+      "pct": 0,
+      "gap": 50
+    },
+    {
+      "campo": "seguranca_ncap",
+      "preenchidos": 0,
+      "meta": 40,
+      "total": 50395,
+      "pct": 0,
+      "gap": 40
+    },
+    {
+      "campo": "recalls",
+      "preenchidos": 0,
+      "meta": 40,
+      "total": 50395,
+      "pct": 0,
+      "gap": 40
+    },
+    {
+      "campo": "garantia",
+      "preenchidos": 0,
+      "meta": 30,
+      "total": 50395,
+      "pct": 0,
+      "gap": 30
+    }
+  ],
+  "fontes": {
+    "fipe": "ok",
+    "inmetro": {
+      "pdfs": 33
+    },
+    "fabricantes": "pendente",
+    "ncap": "pendente",
+    "recalls": "pendente"
+  },
+  "erros": [],
+  "saude": "saudavel"
+}

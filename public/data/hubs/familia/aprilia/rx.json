@@ -1,0 +1,52 @@
+{
+  "tipo": "familia",
+  "slug": "rx",
+  "canonicalPath": "/fipe/aprilia/rx/",
+  "titulo": "APRILIA rx - Tabela FIPE",
+  "descricao": "3 versoes e anos do APRILIA rx na Tabela FIPE.",
+  "seo": {
+    "title": "APRILIA rx - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes APRILIA rx. 3 veiculos indexados.",
+    "h1": "APRILIA rx - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/aprilia/rx/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "aprilia-rx-50cc-2000-gasolina",
+      "fipeCodigo": "802010-8",
+      "displayName": "APRILIA RX 50cc",
+      "valorAtual": 3820,
+      "canonicalPath": "/fipe/aprilia/rx-50cc-2000-802010-8/",
+      "ano": 2000,
+      "marca": "APRILIA"
+    },
+    {
+      "vehicleId": "aprilia-rx-50cc-1999-gasolina",
+      "fipeCodigo": "802010-8",
+      "displayName": "APRILIA RX 50cc",
+      "valorAtual": 3480,
+      "canonicalPath": "/fipe/aprilia/rx-50cc-1999-802010-8/",
+      "ano": 1999,
+      "marca": "APRILIA"
+    },
+    {
+      "vehicleId": "aprilia-rx-50cc-1998-gasolina",
+      "fipeCodigo": "802010-8",
+      "displayName": "APRILIA RX 50cc",
+      "valorAtual": 3074,
+      "canonicalPath": "/fipe/aprilia/rx-50cc-1998-802010-8/",
+      "ano": 1998,
+      "marca": "APRILIA"
+    }
+  ],
+  "stats": {
+    "total": 3,
+    "precoMin": 3074,
+    "precoMax": 3820,
+    "anos": [
+      2000,
+      1999,
+      1998
+    ]
+  }
+}

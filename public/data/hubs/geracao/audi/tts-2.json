@@ -1,0 +1,75 @@
+{
+  "tipo": "geracao",
+  "slug": "tts-2",
+  "canonicalPath": "/geracao/audi/tts-2/",
+  "titulo": "Geracao tts-2",
+  "descricao": "6 veiculos da geracao tts-2.",
+  "seo": {
+    "title": "Geracao tts-2 - Precos FIPE",
+    "description": "Veiculos da geracao tts-2 na Tabela FIPE.",
+    "h1": "Geracao tts-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/audi/tts-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "audi-tts-2-0-tfsi-quattro-s-tronic-2016-gasolina",
+      "fipeCodigo": "008141-8",
+      "displayName": "Audi TTS 2.0 TFSI QUATTRO S Tronic",
+      "valorAtual": 278719,
+      "canonicalPath": "/fipe/audi/tts-2-0-tfsi-quattro-s-tronic-2016-008141-8/",
+      "ano": 2016,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-tts-2-0-tfsi-quattro-s-tronic-2017-gasolina",
+      "fipeCodigo": "008141-8",
+      "displayName": "Audi TTS 2.0 TFSI QUATTRO S Tronic",
+      "valorAtual": 290949,
+      "canonicalPath": "/fipe/audi/tts-2-0-tfsi-quattro-s-tronic-2017-008141-8/",
+      "ano": 2017,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-tts-2-0-tfsi-quattro-s-tronic-2018-gasolina",
+      "fipeCodigo": "008141-8",
+      "displayName": "Audi TTS 2.0 TFSI QUATTRO S Tronic",
+      "valorAtual": 308443,
+      "canonicalPath": "/fipe/audi/tts-2-0-tfsi-quattro-s-tronic-2018-008141-8/",
+      "ano": 2018,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-tts-roadster-2-0-tb-fsi-quattro-s-tronic-2016-gasolina",
+      "fipeCodigo": "008142-6",
+      "displayName": "Audi TTS Roadster 2.0 TB FSI Quattro S Tronic",
+      "valorAtual": 285019,
+      "canonicalPath": "/fipe/audi/tts-roadster-2-0-tb-fsi-quattro-s-tronic-2016-008142-6/",
+      "ano": 2016,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-tts-roadster-2-0-tb-fsi-quattro-s-tronic-2017-gasolina",
+      "fipeCodigo": "008142-6",
+      "displayName": "Audi TTS Roadster 2.0 TB FSI Quattro S Tronic",
+      "valorAtual": 308896,
+      "canonicalPath": "/fipe/audi/tts-roadster-2-0-tb-fsi-quattro-s-tronic-2017-008142-6/",
+      "ano": 2017,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-tts-roadster-2-0-tb-fsi-quattro-s-tronic-2018-gasolina",
+      "fipeCodigo": "008142-6",
+      "displayName": "Audi TTS Roadster 2.0 TB FSI Quattro S Tronic",
+      "valorAtual": 338758,
+      "canonicalPath": "/fipe/audi/tts-roadster-2-0-tb-fsi-quattro-s-tronic-2018-008142-6/",
+      "ano": 2018,
+      "marca": "Audi"
+    }
+  ],
+  "stats": {
+    "total": 6
+  },
+  "meta": {
+    "geracaoId": "tts-2"
+  }
+}

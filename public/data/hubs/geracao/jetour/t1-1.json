@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "t1-1",
+  "canonicalPath": "/geracao/jetour/t1-1/",
+  "titulo": "Geracao t1-1",
+  "descricao": "2 veiculos da geracao t1-1.",
+  "seo": {
+    "title": "Geracao t1-1 - Precos FIPE",
+    "description": "Veiculos da geracao t1-1 na Tabela FIPE.",
+    "h1": "Geracao t1-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/jetour/t1-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "jetour-t1-advance-0-hibrido",
+      "fipeCodigo": "307001-8",
+      "displayName": "Jetour T1 Advance",
+      "valorAtual": 251650,
+      "canonicalPath": "/fipe/jetour/t1-advance-0-307001-8/",
+      "ano": 0,
+      "marca": "Jetour"
+    },
+    {
+      "vehicleId": "jetour-t1-premium-0-hibrido",
+      "fipeCodigo": "307002-6",
+      "displayName": "Jetour T1 Premium",
+      "valorAtual": 266650,
+      "canonicalPath": "/fipe/jetour/t1-premium-0-307002-6/",
+      "ano": 0,
+      "marca": "Jetour"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "t1-1"
+  }
+}

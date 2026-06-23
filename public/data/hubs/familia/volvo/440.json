@@ -1,0 +1,42 @@
+{
+  "tipo": "familia",
+  "slug": "440",
+  "canonicalPath": "/fipe/volvo/440/",
+  "titulo": "Volvo 440 - Tabela FIPE",
+  "descricao": "2 versoes e anos do Volvo 440 na Tabela FIPE.",
+  "seo": {
+    "title": "Volvo 440 - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes Volvo 440. 2 veiculos indexados.",
+    "h1": "Volvo 440 - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/volvo/440/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "volvo-440-turbo-1-8-1993-gasolina",
+      "fipeCodigo": "029029-7",
+      "displayName": "Volvo 440 Turbo 1.8",
+      "valorAtual": 5803,
+      "canonicalPath": "/fipe/volvo/440-turbo-1-8-1993-029029-7/",
+      "ano": 1993,
+      "marca": "Volvo"
+    },
+    {
+      "vehicleId": "volvo-440-turbo-1-8-1992-gasolina",
+      "fipeCodigo": "029029-7",
+      "displayName": "Volvo 440 Turbo 1.8",
+      "valorAtual": 5581,
+      "canonicalPath": "/fipe/volvo/440-turbo-1-8-1992-029029-7/",
+      "ano": 1992,
+      "marca": "Volvo"
+    }
+  ],
+  "stats": {
+    "total": 2,
+    "precoMin": 5581,
+    "precoMax": 5803,
+    "anos": [
+      1993,
+      1992
+    ]
+  }
+}

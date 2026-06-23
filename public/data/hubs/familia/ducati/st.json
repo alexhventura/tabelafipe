@@ -1,0 +1,128 @@
+{
+  "tipo": "familia",
+  "slug": "st",
+  "canonicalPath": "/fipe/ducati/st/",
+  "titulo": "DUCATI st - Tabela FIPE",
+  "descricao": "11 versoes e anos do DUCATI st na Tabela FIPE.",
+  "seo": {
+    "title": "DUCATI st - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes DUCATI st. 11 veiculos indexados.",
+    "h1": "DUCATI st - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/ducati/st/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "ducati-st-4-900-996cc-2005-gasolina",
+      "fipeCodigo": "808007-0",
+      "displayName": "DUCATI ST-4 900/ 996cc",
+      "valorAtual": 27319,
+      "canonicalPath": "/fipe/ducati/st-4-900-996cc-2005-808007-0/",
+      "ano": 2005,
+      "marca": "DUCATI"
+    },
+    {
+      "vehicleId": "ducati-st-2-900-944cc-2003-gasolina",
+      "fipeCodigo": "808006-2",
+      "displayName": "DUCATI ST-2 900/ 944cc",
+      "valorAtual": 23779,
+      "canonicalPath": "/fipe/ducati/st-2-900-944cc-2003-808006-2/",
+      "ano": 2003,
+      "marca": "DUCATI"
+    },
+    {
+      "vehicleId": "ducati-st-4-900-996cc-2003-gasolina",
+      "fipeCodigo": "808007-0",
+      "displayName": "DUCATI ST-4 900/ 996cc",
+      "valorAtual": 25481,
+      "canonicalPath": "/fipe/ducati/st-4-900-996cc-2003-808007-0/",
+      "ano": 2003,
+      "marca": "DUCATI"
+    },
+    {
+      "vehicleId": "ducati-st-2-900-944cc-2002-gasolina",
+      "fipeCodigo": "808006-2",
+      "displayName": "DUCATI ST-2 900/ 944cc",
+      "valorAtual": 21620,
+      "canonicalPath": "/fipe/ducati/st-2-900-944cc-2002-808006-2/",
+      "ano": 2002,
+      "marca": "DUCATI"
+    },
+    {
+      "vehicleId": "ducati-st-4-900-996cc-2002-gasolina",
+      "fipeCodigo": "808007-0",
+      "displayName": "DUCATI ST-4 900/ 996cc",
+      "valorAtual": 24385,
+      "canonicalPath": "/fipe/ducati/st-4-900-996cc-2002-808007-0/",
+      "ano": 2002,
+      "marca": "DUCATI"
+    },
+    {
+      "vehicleId": "ducati-st-4-900-996cc-2000-gasolina",
+      "fipeCodigo": "808007-0",
+      "displayName": "DUCATI ST-4 900/ 996cc",
+      "valorAtual": 19222,
+      "canonicalPath": "/fipe/ducati/st-4-900-996cc-2000-808007-0/",
+      "ano": 2000,
+      "marca": "DUCATI"
+    },
+    {
+      "vehicleId": "ducati-st-4-900-996cc-1999-gasolina",
+      "fipeCodigo": "808007-0",
+      "displayName": "DUCATI ST-4 900/ 996cc",
+      "valorAtual": 16938,
+      "canonicalPath": "/fipe/ducati/st-4-900-996cc-1999-808007-0/",
+      "ano": 1999,
+      "marca": "DUCATI"
+    },
+    {
+      "vehicleId": "ducati-st-2-900-944cc-1998-gasolina",
+      "fipeCodigo": "808006-2",
+      "displayName": "DUCATI ST-2 900/ 944cc",
+      "valorAtual": 14062,
+      "canonicalPath": "/fipe/ducati/st-2-900-944cc-1998-808006-2/",
+      "ano": 1998,
+      "marca": "DUCATI"
+    },
+    {
+      "vehicleId": "ducati-st-4-900-996cc-1998-gasolina",
+      "fipeCodigo": "808007-0",
+      "displayName": "DUCATI ST-4 900/ 996cc",
+      "valorAtual": 16060,
+      "canonicalPath": "/fipe/ducati/st-4-900-996cc-1998-808007-0/",
+      "ano": 1998,
+      "marca": "DUCATI"
+    },
+    {
+      "vehicleId": "ducati-st-2-900-944cc-1997-gasolina",
+      "fipeCodigo": "808006-2",
+      "displayName": "DUCATI ST-2 900/ 944cc",
+      "valorAtual": 12229,
+      "canonicalPath": "/fipe/ducati/st-2-900-944cc-1997-808006-2/",
+      "ano": 1997,
+      "marca": "DUCATI"
+    },
+    {
+      "vehicleId": "ducati-st-4-900-996cc-1997-gasolina",
+      "fipeCodigo": "808007-0",
+      "displayName": "DUCATI ST-4 900/ 996cc",
+      "valorAtual": 13877,
+      "canonicalPath": "/fipe/ducati/st-4-900-996cc-1997-808007-0/",
+      "ano": 1997,
+      "marca": "DUCATI"
+    }
+  ],
+  "stats": {
+    "total": 11,
+    "precoMin": 12229,
+    "precoMax": 27319,
+    "anos": [
+      2005,
+      2003,
+      2002,
+      2000,
+      1999,
+      1998,
+      1997
+    ]
+  }
+}

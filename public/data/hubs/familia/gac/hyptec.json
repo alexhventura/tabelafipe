@@ -1,0 +1,89 @@
+{
+  "tipo": "familia",
+  "slug": "hyptec",
+  "canonicalPath": "/fipe/gac/hyptec/",
+  "titulo": "GAC hyptec - Tabela FIPE",
+  "descricao": "7 versoes e anos do GAC hyptec na Tabela FIPE.",
+  "seo": {
+    "title": "GAC hyptec - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes GAC hyptec. 7 veiculos indexados.",
+    "h1": "GAC hyptec - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/gac/hyptec/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "gac-hyptec-ht-elite-eletrico-2027-eletrico",
+      "fipeCodigo": "304004-6",
+      "displayName": "GAC HYPTEC HT Elite (Elétrico)",
+      "valorAtual": 275209,
+      "canonicalPath": "/fipe/gac/hyptec-ht-elite-eletrico-2027-304004-6/",
+      "ano": 2027,
+      "marca": "GAC"
+    },
+    {
+      "vehicleId": "gac-hyptec-ht-ultra-eletrico-2027-eletrico",
+      "fipeCodigo": "304005-4",
+      "displayName": "GAC HYPTEC HT Ultra (Elétrico)",
+      "valorAtual": 325708,
+      "canonicalPath": "/fipe/gac/hyptec-ht-ultra-eletrico-2027-304005-4/",
+      "ano": 2027,
+      "marca": "GAC"
+    },
+    {
+      "vehicleId": "gac-hyptec-ht-elite-eletrico-2026-eletrico",
+      "fipeCodigo": "304004-6",
+      "displayName": "GAC HYPTEC HT Elite (Elétrico)",
+      "valorAtual": 260365,
+      "canonicalPath": "/fipe/gac/hyptec-ht-elite-eletrico-2026-304004-6/",
+      "ano": 2026,
+      "marca": "GAC"
+    },
+    {
+      "vehicleId": "gac-hyptec-ht-ultra-eletrico-2026-eletrico",
+      "fipeCodigo": "304005-4",
+      "displayName": "GAC HYPTEC HT Ultra (Elétrico)",
+      "valorAtual": 308750,
+      "canonicalPath": "/fipe/gac/hyptec-ht-ultra-eletrico-2026-304005-4/",
+      "ano": 2026,
+      "marca": "GAC"
+    },
+    {
+      "vehicleId": "gac-hyptec-ht-elite-eletrico-2025-eletrico",
+      "fipeCodigo": "304004-6",
+      "displayName": "GAC HYPTEC HT Elite (Elétrico)",
+      "valorAtual": 237766,
+      "canonicalPath": "/fipe/gac/hyptec-ht-elite-eletrico-2025-304004-6/",
+      "ano": 2025,
+      "marca": "GAC"
+    },
+    {
+      "vehicleId": "gac-hyptec-ht-elite-eletrico-0-eletrico",
+      "fipeCodigo": "304004-6",
+      "displayName": "GAC HYPTEC HT Elite (Elétrico)",
+      "valorAtual": 314990,
+      "canonicalPath": "/fipe/gac/hyptec-ht-elite-eletrico-0-304004-6/",
+      "ano": 0,
+      "marca": "GAC"
+    },
+    {
+      "vehicleId": "gac-hyptec-ht-ultra-eletrico-0-eletrico",
+      "fipeCodigo": "304005-4",
+      "displayName": "GAC HYPTEC HT Ultra (Elétrico)",
+      "valorAtual": 369990,
+      "canonicalPath": "/fipe/gac/hyptec-ht-ultra-eletrico-0-304005-4/",
+      "ano": 0,
+      "marca": "GAC"
+    }
+  ],
+  "stats": {
+    "total": 7,
+    "precoMin": 237766,
+    "precoMax": 369990,
+    "anos": [
+      2027,
+      2026,
+      2025,
+      0
+    ]
+  }
+}

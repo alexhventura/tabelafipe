@@ -1,0 +1,88 @@
+{
+  "tipo": "familia",
+  "slug": "eko",
+  "canonicalPath": "/fipe/bull/eko/",
+  "titulo": "BULL eko - Tabela FIPE",
+  "descricao": "7 versoes e anos do BULL eko na Tabela FIPE.",
+  "seo": {
+    "title": "BULL eko - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes BULL eko. 7 veiculos indexados.",
+    "h1": "BULL eko - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/bull/eko/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "bull-eko-city-1200w-eletrica-2022-eletrico",
+      "fipeCodigo": "888005-0",
+      "displayName": "BULL Eko City 1200W (Elétrica)",
+      "valorAtual": 10633,
+      "canonicalPath": "/fipe/bull/eko-city-1200w-eletrica-2022-888005-0/",
+      "ano": 2022,
+      "marca": "BULL"
+    },
+    {
+      "vehicleId": "bull-eko-hunter-2000w-eletrica-2022-eletrico",
+      "fipeCodigo": "888008-5",
+      "displayName": "BULL Eko Hunter 2000W (Elétrica)",
+      "valorAtual": 11151,
+      "canonicalPath": "/fipe/bull/eko-hunter-2000w-eletrica-2022-888008-5/",
+      "ano": 2022,
+      "marca": "BULL"
+    },
+    {
+      "vehicleId": "bull-eko-sport-1200w-eletrica-2022-eletrico",
+      "fipeCodigo": "888014-0",
+      "displayName": "BULL Eko Sport 1200W (Elétrica)",
+      "valorAtual": 12676,
+      "canonicalPath": "/fipe/bull/eko-sport-1200w-eletrica-2022-888014-0/",
+      "ano": 2022,
+      "marca": "BULL"
+    },
+    {
+      "vehicleId": "bull-eko-hunter-2000w-eletrica-2021-eletrico",
+      "fipeCodigo": "888008-5",
+      "displayName": "BULL Eko Hunter 2000W (Elétrica)",
+      "valorAtual": 9128,
+      "canonicalPath": "/fipe/bull/eko-hunter-2000w-eletrica-2021-888008-5/",
+      "ano": 2021,
+      "marca": "BULL"
+    },
+    {
+      "vehicleId": "bull-eko-sport-1200w-eletrica-2021-eletrico",
+      "fipeCodigo": "888014-0",
+      "displayName": "BULL Eko Sport 1200W (Elétrica)",
+      "valorAtual": 11415,
+      "canonicalPath": "/fipe/bull/eko-sport-1200w-eletrica-2021-888014-0/",
+      "ano": 2021,
+      "marca": "BULL"
+    },
+    {
+      "vehicleId": "bull-eko-city-1200w-eletrica-2019-eletrico",
+      "fipeCodigo": "888005-0",
+      "displayName": "BULL Eko City 1200W (Elétrica)",
+      "valorAtual": 6553,
+      "canonicalPath": "/fipe/bull/eko-city-1200w-eletrica-2019-888005-0/",
+      "ano": 2019,
+      "marca": "BULL"
+    },
+    {
+      "vehicleId": "bull-eko-hunter-2000w-eletrica-2019-eletrico",
+      "fipeCodigo": "888008-5",
+      "displayName": "BULL Eko Hunter 2000W (Elétrica)",
+      "valorAtual": 6996,
+      "canonicalPath": "/fipe/bull/eko-hunter-2000w-eletrica-2019-888008-5/",
+      "ano": 2019,
+      "marca": "BULL"
+    }
+  ],
+  "stats": {
+    "total": 7,
+    "precoMin": 6553,
+    "precoMax": 12676,
+    "anos": [
+      2022,
+      2021,
+      2019
+    ]
+  }
+}

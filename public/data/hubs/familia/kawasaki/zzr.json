@@ -1,0 +1,42 @@
+{
+  "tipo": "familia",
+  "slug": "zzr",
+  "canonicalPath": "/fipe/kawasaki/zzr/",
+  "titulo": "KAWASAKI zzr - Tabela FIPE",
+  "descricao": "2 versoes e anos do KAWASAKI zzr na Tabela FIPE.",
+  "seo": {
+    "title": "KAWASAKI zzr - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes KAWASAKI zzr. 2 veiculos indexados.",
+    "h1": "KAWASAKI zzr - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/kawasaki/zzr/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "kawasaki-zzr-1200-2005-gasolina",
+      "fipeCodigo": "817035-5",
+      "displayName": "KAWASAKI ZZR 1200",
+      "valorAtual": 22261,
+      "canonicalPath": "/fipe/kawasaki/zzr-1200-2005-817035-5/",
+      "ano": 2005,
+      "marca": "KAWASAKI"
+    },
+    {
+      "vehicleId": "kawasaki-zzr-1200-2004-gasolina",
+      "fipeCodigo": "817035-5",
+      "displayName": "KAWASAKI ZZR 1200",
+      "valorAtual": 21198,
+      "canonicalPath": "/fipe/kawasaki/zzr-1200-2004-817035-5/",
+      "ano": 2004,
+      "marca": "KAWASAKI"
+    }
+  ],
+  "stats": {
+    "total": 2,
+    "precoMin": 21198,
+    "precoMax": 22261,
+    "anos": [
+      2005,
+      2004
+    ]
+  }
+}

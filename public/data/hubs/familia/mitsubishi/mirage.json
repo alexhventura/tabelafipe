@@ -1,0 +1,99 @@
+{
+  "tipo": "familia",
+  "slug": "mirage",
+  "canonicalPath": "/fipe/mitsubishi/mirage/",
+  "titulo": "Mitsubishi mirage - Tabela FIPE",
+  "descricao": "8 versoes e anos do Mitsubishi mirage na Tabela FIPE.",
+  "seo": {
+    "title": "Mitsubishi mirage - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes Mitsubishi mirage. 8 veiculos indexados.",
+    "h1": "Mitsubishi mirage - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/mitsubishi/mirage/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "mitsubishi-mirage-gs-16v-glsi1-6-1995-gasolina",
+      "fipeCodigo": "022035-3",
+      "displayName": "Mitsubishi Mirage GS 16V/ GLSi1.6",
+      "valorAtual": 8887,
+      "canonicalPath": "/fipe/mitsubishi/mirage-gs-16v-glsi1-6-1995-022035-3/",
+      "ano": 1995,
+      "marca": "Mitsubishi"
+    },
+    {
+      "vehicleId": "mitsubishi-mirage-es-1994-gasolina",
+      "fipeCodigo": "022034-5",
+      "displayName": "Mitsubishi Mirage ES",
+      "valorAtual": 4941,
+      "canonicalPath": "/fipe/mitsubishi/mirage-es-1994-022034-5/",
+      "ano": 1994,
+      "marca": "Mitsubishi"
+    },
+    {
+      "vehicleId": "mitsubishi-mirage-ls-1994-gasolina",
+      "fipeCodigo": "022033-7",
+      "displayName": "Mitsubishi Mirage LS",
+      "valorAtual": 6431,
+      "canonicalPath": "/fipe/mitsubishi/mirage-ls-1994-022033-7/",
+      "ano": 1994,
+      "marca": "Mitsubishi"
+    },
+    {
+      "vehicleId": "mitsubishi-mirage-es-1993-gasolina",
+      "fipeCodigo": "022034-5",
+      "displayName": "Mitsubishi Mirage ES",
+      "valorAtual": 4478,
+      "canonicalPath": "/fipe/mitsubishi/mirage-es-1993-022034-5/",
+      "ano": 1993,
+      "marca": "Mitsubishi"
+    },
+    {
+      "vehicleId": "mitsubishi-mirage-ls-1993-gasolina",
+      "fipeCodigo": "022033-7",
+      "displayName": "Mitsubishi Mirage LS",
+      "valorAtual": 6248,
+      "canonicalPath": "/fipe/mitsubishi/mirage-ls-1993-022033-7/",
+      "ano": 1993,
+      "marca": "Mitsubishi"
+    },
+    {
+      "vehicleId": "mitsubishi-mirage-es-1992-gasolina",
+      "fipeCodigo": "022034-5",
+      "displayName": "Mitsubishi Mirage ES",
+      "valorAtual": 4183,
+      "canonicalPath": "/fipe/mitsubishi/mirage-es-1992-022034-5/",
+      "ano": 1992,
+      "marca": "Mitsubishi"
+    },
+    {
+      "vehicleId": "mitsubishi-mirage-gs-16v-glsi1-6-1992-gasolina",
+      "fipeCodigo": "022035-3",
+      "displayName": "Mitsubishi Mirage GS 16V/ GLSi1.6",
+      "valorAtual": 5997,
+      "canonicalPath": "/fipe/mitsubishi/mirage-gs-16v-glsi1-6-1992-022035-3/",
+      "ano": 1992,
+      "marca": "Mitsubishi"
+    },
+    {
+      "vehicleId": "mitsubishi-mirage-gs-16v-glsi1-6-1991-gasolina",
+      "fipeCodigo": "022035-3",
+      "displayName": "Mitsubishi Mirage GS 16V/ GLSi1.6",
+      "valorAtual": 5151,
+      "canonicalPath": "/fipe/mitsubishi/mirage-gs-16v-glsi1-6-1991-022035-3/",
+      "ano": 1991,
+      "marca": "Mitsubishi"
+    }
+  ],
+  "stats": {
+    "total": 8,
+    "precoMin": 4183,
+    "precoMax": 8887,
+    "anos": [
+      1995,
+      1994,
+      1993,
+      1992,
+      1991
+    ]
+  }
+}

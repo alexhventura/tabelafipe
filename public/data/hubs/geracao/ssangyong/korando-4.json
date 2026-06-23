@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "korando-4",
+  "canonicalPath": "/geracao/ssangyong/korando-4/",
+  "titulo": "Geracao korando-4",
+  "descricao": "2 veiculos da geracao korando-4.",
+  "seo": {
+    "title": "Geracao korando-4 - Precos FIPE",
+    "description": "Veiculos da geracao korando-4 na Tabela FIPE.",
+    "h1": "Geracao korando-4",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/ssangyong/korando-4/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "ssangyong-korando-2-2-awd-178cv-tb-diesel-aut-2018-diesel",
+      "fipeCodigo": "055035-3",
+      "displayName": "SSANGYONG Korando 2.2 AWD 178cv TB Diesel Aut.",
+      "valorAtual": 91115,
+      "canonicalPath": "/fipe/ssangyong/korando-2-2-awd-178cv-tb-diesel-aut-2018-055035-3/",
+      "ano": 2018,
+      "marca": "SSANGYONG"
+    },
+    {
+      "vehicleId": "ssangyong-korando-dlx-2-2-awd-178cv-tb-diesel-aut-2018-diesel",
+      "fipeCodigo": "055032-9",
+      "displayName": "SSANGYONG Korando DLX 2.2 AWD 178cv TB Diesel Aut.",
+      "valorAtual": 83658,
+      "canonicalPath": "/fipe/ssangyong/korando-dlx-2-2-awd-178cv-tb-diesel-aut-2018-055032-9/",
+      "ano": 2018,
+      "marca": "SSANGYONG"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "korando-4"
+  }
+}

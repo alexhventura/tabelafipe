@@ -1,0 +1,137 @@
+{
+  "tipo": "familia",
+  "slug": "super",
+  "canonicalPath": "/fipe/ktm/super/",
+  "titulo": "KTM super - Tabela FIPE",
+  "descricao": "12 versoes e anos do KTM super na Tabela FIPE.",
+  "seo": {
+    "title": "KTM super - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes KTM super. 12 veiculos indexados.",
+    "h1": "KTM super - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/ktm/super/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "ktm-super-adventure-1290-s-2024-gasolina",
+      "fipeCodigo": "818047-4",
+      "displayName": "KTM SUPER ADVENTURE 1290 S",
+      "valorAtual": 122686,
+      "canonicalPath": "/fipe/ktm/super-adventure-1290-s-2024-818047-4/",
+      "ano": 2024,
+      "marca": "KTM"
+    },
+    {
+      "vehicleId": "ktm-super-adventure-1290-r-2024-gasolina",
+      "fipeCodigo": "818046-6",
+      "displayName": "KTM SUPER ADVENTURE 1290 R",
+      "valorAtual": 132779,
+      "canonicalPath": "/fipe/ktm/super-adventure-1290-r-2024-818046-6/",
+      "ano": 2024,
+      "marca": "KTM"
+    },
+    {
+      "vehicleId": "ktm-super-adventure-1290-r-2023-gasolina",
+      "fipeCodigo": "818046-6",
+      "displayName": "KTM SUPER ADVENTURE 1290 R",
+      "valorAtual": 129327,
+      "canonicalPath": "/fipe/ktm/super-adventure-1290-r-2023-818046-6/",
+      "ano": 2023,
+      "marca": "KTM"
+    },
+    {
+      "vehicleId": "ktm-super-adventure-1290-s-2019-gasolina",
+      "fipeCodigo": "818047-4",
+      "displayName": "KTM SUPER ADVENTURE 1290 S",
+      "valorAtual": 117787,
+      "canonicalPath": "/fipe/ktm/super-adventure-1290-s-2019-818047-4/",
+      "ano": 2019,
+      "marca": "KTM"
+    },
+    {
+      "vehicleId": "ktm-super-adventure-1290-s-2018-gasolina",
+      "fipeCodigo": "818047-4",
+      "displayName": "KTM SUPER ADVENTURE 1290 S",
+      "valorAtual": 105698,
+      "canonicalPath": "/fipe/ktm/super-adventure-1290-s-2018-818047-4/",
+      "ano": 2018,
+      "marca": "KTM"
+    },
+    {
+      "vehicleId": "ktm-super-adventure-1290-r-2018-gasolina",
+      "fipeCodigo": "818046-6",
+      "displayName": "KTM SUPER ADVENTURE 1290 R",
+      "valorAtual": 124287,
+      "canonicalPath": "/fipe/ktm/super-adventure-1290-r-2018-818046-6/",
+      "ano": 2018,
+      "marca": "KTM"
+    },
+    {
+      "vehicleId": "ktm-super-adventure-1290-2017-gasolina",
+      "fipeCodigo": "818045-8",
+      "displayName": "KTM SUPER ADVENTURE 1290",
+      "valorAtual": 93695,
+      "canonicalPath": "/fipe/ktm/super-adventure-1290-2017-818045-8/",
+      "ano": 2017,
+      "marca": "KTM"
+    },
+    {
+      "vehicleId": "ktm-super-adventure-1290-s-2017-gasolina",
+      "fipeCodigo": "818047-4",
+      "displayName": "KTM SUPER ADVENTURE 1290 S",
+      "valorAtual": 96814,
+      "canonicalPath": "/fipe/ktm/super-adventure-1290-s-2017-818047-4/",
+      "ano": 2017,
+      "marca": "KTM"
+    },
+    {
+      "vehicleId": "ktm-super-adventure-1290-r-2017-gasolina",
+      "fipeCodigo": "818046-6",
+      "displayName": "KTM SUPER ADVENTURE 1290 R",
+      "valorAtual": 117175,
+      "canonicalPath": "/fipe/ktm/super-adventure-1290-r-2017-818046-6/",
+      "ano": 2017,
+      "marca": "KTM"
+    },
+    {
+      "vehicleId": "ktm-super-adventure-1290-2016-gasolina",
+      "fipeCodigo": "818045-8",
+      "displayName": "KTM SUPER ADVENTURE 1290",
+      "valorAtual": 91409,
+      "canonicalPath": "/fipe/ktm/super-adventure-1290-2016-818045-8/",
+      "ano": 2016,
+      "marca": "KTM"
+    },
+    {
+      "vehicleId": "ktm-super-adventure-1290-s-0-gasolina",
+      "fipeCodigo": "818047-4",
+      "displayName": "KTM SUPER ADVENTURE 1290 S",
+      "valorAtual": 134495,
+      "canonicalPath": "/fipe/ktm/super-adventure-1290-s-0-818047-4/",
+      "ano": 0,
+      "marca": "KTM"
+    },
+    {
+      "vehicleId": "ktm-super-adventure-1290-r-0-gasolina",
+      "fipeCodigo": "818046-6",
+      "displayName": "KTM SUPER ADVENTURE 1290 R",
+      "valorAtual": 144495,
+      "canonicalPath": "/fipe/ktm/super-adventure-1290-r-0-818046-6/",
+      "ano": 0,
+      "marca": "KTM"
+    }
+  ],
+  "stats": {
+    "total": 12,
+    "precoMin": 91409,
+    "precoMax": 144495,
+    "anos": [
+      2024,
+      2023,
+      2019,
+      2018,
+      2017,
+      2016,
+      0
+    ]
+  }
+}

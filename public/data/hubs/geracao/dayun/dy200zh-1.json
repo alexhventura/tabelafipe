@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "dy200zh-1",
+  "canonicalPath": "/geracao/dayun/dy200zh-1/",
+  "titulo": "Geracao dy200zh-1",
+  "descricao": "2 veiculos da geracao dy200zh-1.",
+  "seo": {
+    "title": "Geracao dy200zh-1 - Precos FIPE",
+    "description": "Veiculos da geracao dy200zh-1 na Tabela FIPE.",
+    "h1": "Geracao dy200zh-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/dayun/dy200zh-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "dayun-dy200zh-triciclo-carga-2010-gasolina",
+      "fipeCodigo": "860009-0",
+      "displayName": "DAYUN DY200ZH  (triciclo carga)",
+      "valorAtual": 6467,
+      "canonicalPath": "/fipe/dayun/dy200zh-triciclo-carga-2010-860009-0/",
+      "ano": 2010,
+      "marca": "DAYUN"
+    },
+    {
+      "vehicleId": "dayun-dy200zh-triciclo-carga-2011-gasolina",
+      "fipeCodigo": "860009-0",
+      "displayName": "DAYUN DY200ZH  (triciclo carga)",
+      "valorAtual": 7339,
+      "canonicalPath": "/fipe/dayun/dy200zh-triciclo-carga-2011-860009-0/",
+      "ano": 2011,
+      "marca": "DAYUN"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "dy200zh-1"
+  }
+}

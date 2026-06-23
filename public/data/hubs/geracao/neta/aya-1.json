@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "aya-1",
+  "canonicalPath": "/geracao/neta/aya-1/",
+  "titulo": "Geracao aya-1",
+  "descricao": "2 veiculos da geracao aya-1.",
+  "seo": {
+    "title": "Geracao aya-1 - Precos FIPE",
+    "description": "Veiculos da geracao aya-1 na Tabela FIPE.",
+    "h1": "Geracao aya-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/neta/aya-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "neta-aya-comfort-4s-aut-eletrico-0-eletrico",
+      "fipeCodigo": "092001-0",
+      "displayName": "NETA AYA Comfort 4S Aut. (Elétrico)",
+      "valorAtual": 128900,
+      "canonicalPath": "/fipe/neta/aya-comfort-4s-aut-eletrico-0-092001-0/",
+      "ano": 0,
+      "marca": "NETA"
+    },
+    {
+      "vehicleId": "neta-aya-luxury-4s-aut-eletrico-0-eletrico",
+      "fipeCodigo": "092002-9",
+      "displayName": "NETA AYA Luxury 4S Aut. (Elétrico)",
+      "valorAtual": 134900,
+      "canonicalPath": "/fipe/neta/aya-luxury-4s-aut-eletrico-0-092002-9/",
+      "ano": 0,
+      "marca": "NETA"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "aya-1"
+  }
+}

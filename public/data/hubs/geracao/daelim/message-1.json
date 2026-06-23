@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "message-1",
+  "canonicalPath": "/geracao/daelim/message-1/",
+  "titulo": "Geracao message-1",
+  "descricao": "2 veiculos da geracao message-1.",
+  "seo": {
+    "title": "Geracao message-1 - Precos FIPE",
+    "description": "Veiculos da geracao message-1 na Tabela FIPE.",
+    "h1": "Geracao message-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/daelim/message-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "daelim-message-50cc-1998-gasolina",
+      "fipeCodigo": "807002-4",
+      "displayName": "DAELIM MESSAGE 50cc",
+      "valorAtual": 1055,
+      "canonicalPath": "/fipe/daelim/message-50cc-1998-807002-4/",
+      "ano": 1998,
+      "marca": "DAELIM"
+    },
+    {
+      "vehicleId": "daelim-message-50cc-1999-gasolina",
+      "fipeCodigo": "807002-4",
+      "displayName": "DAELIM MESSAGE 50cc",
+      "valorAtual": 1143,
+      "canonicalPath": "/fipe/daelim/message-50cc-1999-807002-4/",
+      "ano": 1999,
+      "marca": "DAELIM"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "message-1"
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "tipo": "familia",
+  "slug": "7900",
+  "canonicalPath": "/fipe/puma-alfa/7900/",
+  "titulo": "PUMA-ALFA 7900 - Tabela FIPE",
+  "descricao": "9 versoes e anos do PUMA-ALFA 7900 na Tabela FIPE.",
+  "seo": {
+    "title": "PUMA-ALFA 7900 - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes PUMA-ALFA 7900. 9 veiculos indexados.",
+    "h1": "PUMA-ALFA 7900 - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/puma-alfa/7900/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "puma-alfa-7900-cb-2p-diesel-1998-diesel",
+      "fipeCodigo": "511001-7",
+      "displayName": "PUMA-ALFA 7900 CB 2p (diesel)",
+      "valorAtual": 24563,
+      "canonicalPath": "/fipe/puma-alfa/7900-cb-2p-diesel-1998-511001-7/",
+      "ano": 1998,
+      "marca": "PUMA-ALFA"
+    },
+    {
+      "vehicleId": "puma-alfa-7900-cb-turbo-2p-diesel-1998-diesel",
+      "fipeCodigo": "511002-5",
+      "displayName": "PUMA-ALFA 7900 CB TURBO 2p (diesel)",
+      "valorAtual": 25499,
+      "canonicalPath": "/fipe/puma-alfa/7900-cb-turbo-2p-diesel-1998-511002-5/",
+      "ano": 1998,
+      "marca": "PUMA-ALFA"
+    },
+    {
+      "vehicleId": "puma-alfa-7900-cd-4p-diesel-1998-diesel",
+      "fipeCodigo": "511003-3",
+      "displayName": "PUMA-ALFA 7900 CD 4p (diesel)",
+      "valorAtual": 26831,
+      "canonicalPath": "/fipe/puma-alfa/7900-cd-4p-diesel-1998-511003-3/",
+      "ano": 1998,
+      "marca": "PUMA-ALFA"
+    },
+    {
+      "vehicleId": "puma-alfa-7900-cd-turbo-4p-diesel-1998-diesel",
+      "fipeCodigo": "511004-1",
+      "displayName": "PUMA-ALFA 7900 CD TURBO 4p (diesel)",
+      "valorAtual": 27988,
+      "canonicalPath": "/fipe/puma-alfa/7900-cd-turbo-4p-diesel-1998-511004-1/",
+      "ano": 1998,
+      "marca": "PUMA-ALFA"
+    },
+    {
+      "vehicleId": "puma-alfa-7900-cb-2p-diesel-1997-diesel",
+      "fipeCodigo": "511001-7",
+      "displayName": "PUMA-ALFA 7900 CB 2p (diesel)",
+      "valorAtual": 21813,
+      "canonicalPath": "/fipe/puma-alfa/7900-cb-2p-diesel-1997-511001-7/",
+      "ano": 1997,
+      "marca": "PUMA-ALFA"
+    },
+    {
+      "vehicleId": "puma-alfa-7900-cb-turbo-2p-diesel-1997-diesel",
+      "fipeCodigo": "511002-5",
+      "displayName": "PUMA-ALFA 7900 CB TURBO 2p (diesel)",
+      "valorAtual": 23418,
+      "canonicalPath": "/fipe/puma-alfa/7900-cb-turbo-2p-diesel-1997-511002-5/",
+      "ano": 1997,
+      "marca": "PUMA-ALFA"
+    },
+    {
+      "vehicleId": "puma-alfa-7900-cd-4p-diesel-1997-diesel",
+      "fipeCodigo": "511003-3",
+      "displayName": "PUMA-ALFA 7900 CD 4p (diesel)",
+      "valorAtual": 24740,
+      "canonicalPath": "/fipe/puma-alfa/7900-cd-4p-diesel-1997-511003-3/",
+      "ano": 1997,
+      "marca": "PUMA-ALFA"
+    },
+    {
+      "vehicleId": "puma-alfa-7900-cd-turbo-4p-diesel-1997-diesel",
+      "fipeCodigo": "511004-1",
+      "displayName": "PUMA-ALFA 7900 CD TURBO 4p (diesel)",
+      "valorAtual": 25815,
+      "canonicalPath": "/fipe/puma-alfa/7900-cd-turbo-4p-diesel-1997-511004-1/",
+      "ano": 1997,
+      "marca": "PUMA-ALFA"
+    },
+    {
+      "vehicleId": "puma-alfa-7900-cb-2p-diesel-1996-diesel",
+      "fipeCodigo": "511001-7",
+      "displayName": "PUMA-ALFA 7900 CB 2p (diesel)",
+      "valorAtual": 20401,
+      "canonicalPath": "/fipe/puma-alfa/7900-cb-2p-diesel-1996-511001-7/",
+      "ano": 1996,
+      "marca": "PUMA-ALFA"
+    }
+  ],
+  "stats": {
+    "total": 9,
+    "precoMin": 20401,
+    "precoMax": 27988,
+    "anos": [
+      1998,
+      1997,
+      1996
+    ]
+  }
+}

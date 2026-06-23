@@ -1,0 +1,52 @@
+{
+  "tipo": "familia",
+  "slug": "concours14",
+  "canonicalPath": "/fipe/kawasaki/concours14/",
+  "titulo": "KAWASAKI concours14 - Tabela FIPE",
+  "descricao": "3 versoes e anos do KAWASAKI concours14 na Tabela FIPE.",
+  "seo": {
+    "title": "KAWASAKI concours14 - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes KAWASAKI concours14. 3 veiculos indexados.",
+    "h1": "KAWASAKI concours14 - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/kawasaki/concours14/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "kawasaki-concours14-1352cc-2013-gasolina",
+      "fipeCodigo": "817044-4",
+      "displayName": "KAWASAKI CONCOURS14 1352cc",
+      "valorAtual": 46569,
+      "canonicalPath": "/fipe/kawasaki/concours14-1352cc-2013-817044-4/",
+      "ano": 2013,
+      "marca": "KAWASAKI"
+    },
+    {
+      "vehicleId": "kawasaki-concours14-1352cc-2012-gasolina",
+      "fipeCodigo": "817044-4",
+      "displayName": "KAWASAKI CONCOURS14 1352cc",
+      "valorAtual": 43782,
+      "canonicalPath": "/fipe/kawasaki/concours14-1352cc-2012-817044-4/",
+      "ano": 2012,
+      "marca": "KAWASAKI"
+    },
+    {
+      "vehicleId": "kawasaki-concours14-1352cc-2008-gasolina",
+      "fipeCodigo": "817044-4",
+      "displayName": "KAWASAKI CONCOURS14 1352cc",
+      "valorAtual": 30919,
+      "canonicalPath": "/fipe/kawasaki/concours14-1352cc-2008-817044-4/",
+      "ano": 2008,
+      "marca": "KAWASAKI"
+    }
+  ],
+  "stats": {
+    "total": 3,
+    "precoMin": 30919,
+    "precoMax": 46569,
+    "anos": [
+      2013,
+      2012,
+      2008
+    ]
+  }
+}

@@ -1,0 +1,146 @@
+{
+  "tipo": "familia",
+  "slug": "az",
+  "canonicalPath": "/fipe/avelloz/az/",
+  "titulo": "AVELLOZ az - Tabela FIPE",
+  "descricao": "13 versoes e anos do AVELLOZ az na Tabela FIPE.",
+  "seo": {
+    "title": "AVELLOZ az - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes AVELLOZ az. 13 veiculos indexados.",
+    "h1": "AVELLOZ az - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/avelloz/az/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "avelloz-az-01-50cc-2026-gasolina",
+      "fipeCodigo": "890001-9",
+      "displayName": "AVELLOZ AZ 01 50cc",
+      "valorAtual": 10522,
+      "canonicalPath": "/fipe/avelloz/az-01-50cc-2026-890001-9/",
+      "ano": 2026,
+      "marca": "AVELLOZ"
+    },
+    {
+      "vehicleId": "avelloz-az-125-alfa-2026-gasolina",
+      "fipeCodigo": "890002-7",
+      "displayName": "AVELLOZ AZ 125 ALFA",
+      "valorAtual": 12636,
+      "canonicalPath": "/fipe/avelloz/az-125-alfa-2026-890002-7/",
+      "ano": 2026,
+      "marca": "AVELLOZ"
+    },
+    {
+      "vehicleId": "avelloz-az-160-xtreme-2026-gasolina",
+      "fipeCodigo": "890003-5",
+      "displayName": "AVELLOZ AZ 160 XTREME",
+      "valorAtual": 17649,
+      "canonicalPath": "/fipe/avelloz/az-160-xtreme-2026-890003-5/",
+      "ano": 2026,
+      "marca": "AVELLOZ"
+    },
+    {
+      "vehicleId": "avelloz-az-01-50cc-2025-gasolina",
+      "fipeCodigo": "890001-9",
+      "displayName": "AVELLOZ AZ 01 50cc",
+      "valorAtual": 9176,
+      "canonicalPath": "/fipe/avelloz/az-01-50cc-2025-890001-9/",
+      "ano": 2025,
+      "marca": "AVELLOZ"
+    },
+    {
+      "vehicleId": "avelloz-az-125-alfa-2025-gasolina",
+      "fipeCodigo": "890002-7",
+      "displayName": "AVELLOZ AZ 125 ALFA",
+      "valorAtual": 12308,
+      "canonicalPath": "/fipe/avelloz/az-125-alfa-2025-890002-7/",
+      "ano": 2025,
+      "marca": "AVELLOZ"
+    },
+    {
+      "vehicleId": "avelloz-az-160-xtreme-2025-gasolina",
+      "fipeCodigo": "890003-5",
+      "displayName": "AVELLOZ AZ 160 XTREME",
+      "valorAtual": 16745,
+      "canonicalPath": "/fipe/avelloz/az-160-xtreme-2025-890003-5/",
+      "ano": 2025,
+      "marca": "AVELLOZ"
+    },
+    {
+      "vehicleId": "avelloz-az-01-50cc-2024-gasolina",
+      "fipeCodigo": "890001-9",
+      "displayName": "AVELLOZ AZ 01 50cc",
+      "valorAtual": 8024,
+      "canonicalPath": "/fipe/avelloz/az-01-50cc-2024-890001-9/",
+      "ano": 2024,
+      "marca": "AVELLOZ"
+    },
+    {
+      "vehicleId": "avelloz-az-01-50cc-2023-gasolina",
+      "fipeCodigo": "890001-9",
+      "displayName": "AVELLOZ AZ 01 50cc",
+      "valorAtual": 7221,
+      "canonicalPath": "/fipe/avelloz/az-01-50cc-2023-890001-9/",
+      "ano": 2023,
+      "marca": "AVELLOZ"
+    },
+    {
+      "vehicleId": "avelloz-az-01-50cc-2022-gasolina",
+      "fipeCodigo": "890001-9",
+      "displayName": "AVELLOZ AZ 01 50cc",
+      "valorAtual": 6670,
+      "canonicalPath": "/fipe/avelloz/az-01-50cc-2022-890001-9/",
+      "ano": 2022,
+      "marca": "AVELLOZ"
+    },
+    {
+      "vehicleId": "avelloz-az-01-50cc-2021-gasolina",
+      "fipeCodigo": "890001-9",
+      "displayName": "AVELLOZ AZ 01 50cc",
+      "valorAtual": 6022,
+      "canonicalPath": "/fipe/avelloz/az-01-50cc-2021-890001-9/",
+      "ano": 2021,
+      "marca": "AVELLOZ"
+    },
+    {
+      "vehicleId": "avelloz-az-01-50cc-0-gasolina",
+      "fipeCodigo": "890001-9",
+      "displayName": "AVELLOZ AZ 01 50cc",
+      "valorAtual": 11658,
+      "canonicalPath": "/fipe/avelloz/az-01-50cc-0-890001-9/",
+      "ano": 0,
+      "marca": "AVELLOZ"
+    },
+    {
+      "vehicleId": "avelloz-az-125-alfa-0-gasolina",
+      "fipeCodigo": "890002-7",
+      "displayName": "AVELLOZ AZ 125 ALFA",
+      "valorAtual": 13571,
+      "canonicalPath": "/fipe/avelloz/az-125-alfa-0-890002-7/",
+      "ano": 0,
+      "marca": "AVELLOZ"
+    },
+    {
+      "vehicleId": "avelloz-az-160-xtreme-0-gasolina",
+      "fipeCodigo": "890003-5",
+      "displayName": "AVELLOZ AZ 160 XTREME",
+      "valorAtual": 19746,
+      "canonicalPath": "/fipe/avelloz/az-160-xtreme-0-890003-5/",
+      "ano": 0,
+      "marca": "AVELLOZ"
+    }
+  ],
+  "stats": {
+    "total": 13,
+    "precoMin": 6022,
+    "precoMax": 19746,
+    "anos": [
+      2026,
+      2025,
+      2024,
+      2023,
+      2022,
+      2021,
+      0
+    ]
+  }
+}

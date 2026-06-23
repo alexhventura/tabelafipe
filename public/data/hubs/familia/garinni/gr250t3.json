@@ -1,0 +1,42 @@
+{
+  "tipo": "familia",
+  "slug": "gr250t3",
+  "canonicalPath": "/fipe/garinni/gr250t3/",
+  "titulo": "GARINNI gr250t3 - Tabela FIPE",
+  "descricao": "2 versoes e anos do GARINNI gr250t3 na Tabela FIPE.",
+  "seo": {
+    "title": "GARINNI gr250t3 - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes GARINNI gr250t3. 2 veiculos indexados.",
+    "h1": "GARINNI gr250t3 - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/garinni/gr250t3/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "garinni-gr250t3-2009-gasolina",
+      "fipeCodigo": "847010-3",
+      "displayName": "GARINNI GR250T3",
+      "valorAtual": 12698,
+      "canonicalPath": "/fipe/garinni/gr250t3-2009-847010-3/",
+      "ano": 2009,
+      "marca": "GARINNI"
+    },
+    {
+      "vehicleId": "garinni-gr250t3-2008-gasolina",
+      "fipeCodigo": "847010-3",
+      "displayName": "GARINNI GR250T3",
+      "valorAtual": 11211,
+      "canonicalPath": "/fipe/garinni/gr250t3-2008-847010-3/",
+      "ano": 2008,
+      "marca": "GARINNI"
+    }
+  ],
+  "stats": {
+    "total": 2,
+    "precoMin": 11211,
+    "precoMax": 12698,
+    "anos": [
+      2009,
+      2008
+    ]
+  }
+}

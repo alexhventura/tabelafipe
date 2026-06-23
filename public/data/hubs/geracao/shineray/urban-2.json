@@ -1,0 +1,48 @@
+{
+  "tipo": "geracao",
+  "slug": "urban-2",
+  "canonicalPath": "/geracao/shineray/urban-2/",
+  "titulo": "Geracao urban-2",
+  "descricao": "3 veiculos da geracao urban-2.",
+  "seo": {
+    "title": "Geracao urban-2 - Precos FIPE",
+    "description": "Veiculos da geracao urban-2 na Tabela FIPE.",
+    "h1": "Geracao urban-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/shineray/urban-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "shineray-urban-150-efi-2025-gasolina",
+      "fipeCodigo": "850042-8",
+      "displayName": "SHINERAY URBAN 150 EFI",
+      "valorAtual": 17425,
+      "canonicalPath": "/fipe/shineray/urban-150-efi-2025-850042-8/",
+      "ano": 2025,
+      "marca": "SHINERAY"
+    },
+    {
+      "vehicleId": "shineray-urban-150-efi-2026-gasolina",
+      "fipeCodigo": "850042-8",
+      "displayName": "SHINERAY URBAN 150 EFI",
+      "valorAtual": 20524,
+      "canonicalPath": "/fipe/shineray/urban-150-efi-2026-850042-8/",
+      "ano": 2026,
+      "marca": "SHINERAY"
+    },
+    {
+      "vehicleId": "shineray-urban-lite-150-2026-gasolina",
+      "fipeCodigo": "850057-6",
+      "displayName": "SHINERAY URBAN LITE 150",
+      "valorAtual": 11813,
+      "canonicalPath": "/fipe/shineray/urban-lite-150-2026-850057-6/",
+      "ano": 2026,
+      "marca": "SHINERAY"
+    }
+  ],
+  "stats": {
+    "total": 3
+  },
+  "meta": {
+    "geracaoId": "urban-2"
+  }
+}

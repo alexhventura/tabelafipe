@@ -1,0 +1,75 @@
+{
+  "tipo": "geracao",
+  "slug": "fy125-1",
+  "canonicalPath": "/geracao/fym/fy125-1/",
+  "titulo": "Geracao fy125-1",
+  "descricao": "6 veiculos da geracao fy125-1.",
+  "seo": {
+    "title": "Geracao fy125-1 - Precos FIPE",
+    "description": "Veiculos da geracao fy125-1 na Tabela FIPE.",
+    "h1": "Geracao fy125-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/fym/fy125-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "fym-fy125-19-125cc-2006-gasolina",
+      "fipeCodigo": "849004-0",
+      "displayName": "FYM FY125-19 125cc",
+      "valorAtual": 1547,
+      "canonicalPath": "/fipe/fym/fy125-19-125cc-2006-849004-0/",
+      "ano": 2006,
+      "marca": "FYM"
+    },
+    {
+      "vehicleId": "fym-fy125-19-125cc-2007-gasolina",
+      "fipeCodigo": "849004-0",
+      "displayName": "FYM FY125-19 125cc",
+      "valorAtual": 1708,
+      "canonicalPath": "/fipe/fym/fy125-19-125cc-2007-849004-0/",
+      "ano": 2007,
+      "marca": "FYM"
+    },
+    {
+      "vehicleId": "fym-fy125-19-125cc-2008-gasolina",
+      "fipeCodigo": "849004-0",
+      "displayName": "FYM FY125-19 125cc",
+      "valorAtual": 2130,
+      "canonicalPath": "/fipe/fym/fy125-19-125cc-2008-849004-0/",
+      "ano": 2008,
+      "marca": "FYM"
+    },
+    {
+      "vehicleId": "fym-fy125-20-sachs-125cc-2006-gasolina",
+      "fipeCodigo": "849001-5",
+      "displayName": "FYM FY125-20 Sachs 125cc",
+      "valorAtual": 3532,
+      "canonicalPath": "/fipe/fym/fy125-20-sachs-125cc-2006-849001-5/",
+      "ano": 2006,
+      "marca": "FYM"
+    },
+    {
+      "vehicleId": "fym-fy125-20-sachs-125cc-2007-gasolina",
+      "fipeCodigo": "849001-5",
+      "displayName": "FYM FY125-20 Sachs 125cc",
+      "valorAtual": 3974,
+      "canonicalPath": "/fipe/fym/fy125-20-sachs-125cc-2007-849001-5/",
+      "ano": 2007,
+      "marca": "FYM"
+    },
+    {
+      "vehicleId": "fym-fy125-20-sachs-125cc-2008-gasolina",
+      "fipeCodigo": "849001-5",
+      "displayName": "FYM FY125-20 Sachs 125cc",
+      "valorAtual": 4810,
+      "canonicalPath": "/fipe/fym/fy125-20-sachs-125cc-2008-849001-5/",
+      "ano": 2008,
+      "marca": "FYM"
+    }
+  ],
+  "stats": {
+    "total": 6
+  },
+  "meta": {
+    "geracaoId": "fy125-1"
+  }
+}

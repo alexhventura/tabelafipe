@@ -1,0 +1,57 @@
+{
+  "tipo": "geracao",
+  "slug": "cla-1",
+  "canonicalPath": "/geracao/mercedes-benz/cla-1/",
+  "titulo": "Geracao cla-1",
+  "descricao": "4 veiculos da geracao cla-1.",
+  "seo": {
+    "title": "Geracao cla-1 - Precos FIPE",
+    "description": "Veiculos da geracao cla-1 na Tabela FIPE.",
+    "h1": "Geracao cla-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/mercedes-benz/cla-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "mercedes-benz-cla-200-amg-line-1-3-tb-16v-aut-hib-0-hibrido",
+      "fipeCodigo": "021510-4",
+      "displayName": "Mercedes-Benz CLA-200 AMG Line 1.3 TB 16V Aut. (Híb.)",
+      "valorAtual": 329900,
+      "canonicalPath": "/fipe/mercedes-benz/cla-200-amg-line-1-3-tb-16v-aut-hib-0-021510-4/",
+      "ano": 0,
+      "marca": "Mercedes-Benz"
+    },
+    {
+      "vehicleId": "mercedes-benz-cla-200-progressive-1-3-tb-16v-aut-hib-0-hibrido",
+      "fipeCodigo": "021529-5",
+      "displayName": "Mercedes-Benz CLA-200 Progressive 1.3 TB 16V Aut.(Híb)",
+      "valorAtual": 304202,
+      "canonicalPath": "/fipe/mercedes-benz/cla-200-progressive-1-3-tb-16v-aut-hib-0-021529-5/",
+      "ano": 0,
+      "marca": "Mercedes-Benz"
+    },
+    {
+      "vehicleId": "mercedes-benz-cla-35-amg-4matic-2-0-tb-aut-hibrido-0-hibrido",
+      "fipeCodigo": "021523-6",
+      "displayName": "Mercedes-Benz CLA-35 AMG 4MATIC 2.0 TB Aut. (Híbrido)",
+      "valorAtual": 511900,
+      "canonicalPath": "/fipe/mercedes-benz/cla-35-amg-4matic-2-0-tb-aut-hibrido-0-021523-6/",
+      "ano": 0,
+      "marca": "Mercedes-Benz"
+    },
+    {
+      "vehicleId": "mercedes-benz-cla-45-s-amg-4matic-cgi-2-0-tb-aut-0-gasolina",
+      "fipeCodigo": "021451-5",
+      "displayName": "Mercedes-Benz CLA-45 S AMG 4MATIC CGI 2.0 TB Aut.",
+      "valorAtual": 650876,
+      "canonicalPath": "/fipe/mercedes-benz/cla-45-s-amg-4matic-cgi-2-0-tb-aut-0-021451-5/",
+      "ano": 0,
+      "marca": "Mercedes-Benz"
+    }
+  ],
+  "stats": {
+    "total": 4
+  },
+  "meta": {
+    "geracaoId": "cla-1"
+  }
+}

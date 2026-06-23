@@ -1,0 +1,66 @@
+{
+  "tipo": "geracao",
+  "slug": "940-1",
+  "canonicalPath": "/geracao/volvo/940-1/",
+  "titulo": "Geracao 940-1",
+  "descricao": "5 veiculos da geracao 940-1.",
+  "seo": {
+    "title": "Geracao 940-1 - Precos FIPE",
+    "description": "Veiculos da geracao 940-1 na Tabela FIPE.",
+    "h1": "Geracao 940-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/volvo/940-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "volvo-940-turbo-sw-turbo-3-0-1991-gasolina",
+      "fipeCodigo": "029033-5",
+      "displayName": "Volvo 940 Turbo/ SW Turbo 3.0",
+      "valorAtual": 8881,
+      "canonicalPath": "/fipe/volvo/940-turbo-sw-turbo-3-0-1991-029033-5/",
+      "ano": 1991,
+      "marca": "Volvo"
+    },
+    {
+      "vehicleId": "volvo-940-turbo-sw-turbo-3-0-1992-gasolina",
+      "fipeCodigo": "029033-5",
+      "displayName": "Volvo 940 Turbo/ SW Turbo 3.0",
+      "valorAtual": 9329,
+      "canonicalPath": "/fipe/volvo/940-turbo-sw-turbo-3-0-1992-029033-5/",
+      "ano": 1992,
+      "marca": "Volvo"
+    },
+    {
+      "vehicleId": "volvo-940-turbo-sw-turbo-3-0-1993-gasolina",
+      "fipeCodigo": "029033-5",
+      "displayName": "Volvo 940 Turbo/ SW Turbo 3.0",
+      "valorAtual": 11014,
+      "canonicalPath": "/fipe/volvo/940-turbo-sw-turbo-3-0-1993-029033-5/",
+      "ano": 1993,
+      "marca": "Volvo"
+    },
+    {
+      "vehicleId": "volvo-940-turbo-sw-turbo-3-0-1994-gasolina",
+      "fipeCodigo": "029033-5",
+      "displayName": "Volvo 940 Turbo/ SW Turbo 3.0",
+      "valorAtual": 14735,
+      "canonicalPath": "/fipe/volvo/940-turbo-sw-turbo-3-0-1994-029033-5/",
+      "ano": 1994,
+      "marca": "Volvo"
+    },
+    {
+      "vehicleId": "volvo-940-turbo-sw-turbo-3-0-1995-gasolina",
+      "fipeCodigo": "029033-5",
+      "displayName": "Volvo 940 Turbo/ SW Turbo 3.0",
+      "valorAtual": 16965,
+      "canonicalPath": "/fipe/volvo/940-turbo-sw-turbo-3-0-1995-029033-5/",
+      "ano": 1995,
+      "marca": "Volvo"
+    }
+  ],
+  "stats": {
+    "total": 5
+  },
+  "meta": {
+    "geracaoId": "940-1"
+  }
+}

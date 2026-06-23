@@ -1,0 +1,741 @@
+{
+  "tipo": "geracao",
+  "slug": "tector-2",
+  "canonicalPath": "/geracao/iveco/tector-2/",
+  "titulo": "Geracao tector-2",
+  "descricao": "177 veiculos da geracao tector-2.",
+  "seo": {
+    "title": "Geracao tector-2 - Precos FIPE",
+    "description": "Veiculos da geracao tector-2 na Tabela FIPE.",
+    "h1": "Geracao tector-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/iveco/tector-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "iveco-tector-11-190-4x2-diesel-e5-2019-diesel",
+      "fipeCodigo": "506161-0",
+      "displayName": "IVECO TECTOR 11-190 4x2 (diesel)(E5)",
+      "valorAtual": 202129,
+      "canonicalPath": "/fipe/iveco/tector-11-190-4x2-diesel-e5-2019-506161-0/",
+      "ano": 2019,
+      "marca": "IVECO"
+    },
+    {
+      "vehicleId": "iveco-tector-11-190-4x2-diesel-e5-2020-diesel",
+      "fipeCodigo": "506161-0",
+      "displayName": "IVECO TECTOR 11-190 4x2 (diesel)(E5)",
+      "valorAtual": 229175,
+      "canonicalPath": "/fipe/iveco/tector-11-190-4x2-diesel-e5-2020-506161-0/",
+      "ano": 2020,
+      "marca": "IVECO"
+    },
+    {
+      "vehicleId": "iveco-tector-11-190-4x2-diesel-e5-2021-diesel",
+      "fipeCodigo": "506161-0",
+      "displayName": "IVECO TECTOR 11-190 4x2 (diesel)(E5)",
+      "valorAtual": 246036,
+      "canonicalPath": "/fipe/iveco/tector-11-190-4x2-diesel-e5-2021-506161-0/",
+      "ano": 2021,
+      "marca": "IVECO"
+    },
+    {
+      "vehicleId": "iveco-tector-11-190-4x2-diesel-e5-2022-diesel",
+      "fipeCodigo": "506161-0",
+      "displayName": "IVECO TECTOR 11-190 4x2 (diesel)(E5)",
+      "valorAtual": 276824,
+      "canonicalPath": "/fipe/iveco/tector-11-190-4x2-diesel-e5-2022-506161-0/",
+      "ano": 2022,
+      "marca": "IVECO"
+    },
+    {
+      "vehicleId": "iveco-tector-11-190-4x2-diesel-e5-2023-diesel",
+      "fipeCodigo": "506161-0",
+      "displayName": "IVECO TECTOR 11-190 4x2 (diesel)(E5)",
+      "valorAtual": 297111,
+      "canonicalPath": "/fipe/iveco/tector-11-190-4x2-diesel-e5-2023-506161-0/",
+      "ano": 2023,
+      "marca": "IVECO"
+    },
+    {
+      "vehicleId": "iveco-tector-11-190-4x2-diesel-e6-2024-diesel",
+      "fipeCodigo": "506182-2",
+      "displayName": "IVECO TECTOR 11-190 4x2 (diesel)(E6)",
+      "valorAtual": 291125,
+      "canonicalPath": "/fipe/iveco/tector-11-190-4x2-diesel-e6-2024-506182-2/",
+      "ano": 2024,
+      "marca": "IVECO"
+    },
+    {
+      "vehicleId": "iveco-tector-11-190-4x2-diesel-e6-2025-diesel",
+      "fipeCodigo": "506182-2",
+      "displayName": "IVECO TECTOR 11-190 4x2 (diesel)(E6)",
+      "valorAtual": 300135,
+      "canonicalPath": "/fipe/iveco/tector-11-190-4x2-diesel-e6-2025-506182-2/",
+      "ano": 2025,
+      "marca": "IVECO"
+    },
+    {
+      "vehicleId": "iveco-tector-11-190-4x2-diesel-e6-2026-diesel",
+      "fipeCodigo": "506182-2",
+      "displayName": "IVECO TECTOR 11-190 4x2 (diesel)(E6)",
+      "valorAtual": 311154,
+      "canonicalPath": "/fipe/iveco/tector-11-190-4x2-diesel-e6-2026-506182-2/",
+      "ano": 2026,
+      "marca": "IVECO"
+    },
+    {
+      "vehicleId": "iveco-tector-15-210-4x2-2p-diesel-e6-2023-diesel",
+      "fipeCodigo": "506174-1",
+      "displayName": "IVECO TECTOR 15-210 4x2 2p (Diesel)(E6)",
+      "valorAtual": 329032,
+      "canonicalPath": "/fipe/iveco/tector-15-210-4x2-2p-diesel-e6-2023-506174-1/",
+      "ano": 2023,
+      "marca": "IVECO"
+    },
+    {
+      "vehicleId": "iveco-tector-15-210-4x2-2p-diesel-e6-2024-diesel",
+      "fipeCodigo": "506174-1",
+      "displayName": "IVECO TECTOR 15-210 4x2 2p (Diesel)(E6)",
+      "valorAtual": 337449,
+      "canonicalPath": "/fipe/iveco/tector-15-210-4x2-2p-diesel-e6-2024-506174-1/",
+      "ano": 2024,
+      "marca": "IVECO"
+    },
+    {
+      "vehicleId": "iveco-tector-15-210-4x2-2p-diesel-e6-2025-diesel",
+      "fipeCodigo": "506174-1",
+      "displayName": "IVECO TECTOR 15-210 4x2 2p (Diesel)(E6)",
+      "valorAtual": 347302,
+      "canonicalPath": "/fipe/iveco/tector-15-210-4x2-2p-diesel-e6-2025-506174-1/",
+      "ano": 2025,
+      "marca": "IVECO"
+    },
+    {
+      "vehicleId": "iveco-tector-15-210-4x2-2p-diesel-e6-2026-diesel",
+      "fipeCodigo": "506174-1",
+      "displayName": "IVECO TECTOR 15-210 4x2 2p (Diesel)(E6)",
+      "valorAtual": 356674,
+      "canonicalPath": "/fipe/iveco/tector-15-210-4x2-2p-diesel-e6-2026-506174-1/",
+      "ano": 2026,
+      "marca": "IVECO"
+    },
+    {
+      "vehicleId": "iveco-tector-150e21-attack-eco-4x2-dies-e5-2014-diesel",
+      "fipeCodigo": "506143-1",
+      "displayName": "IVECO TECTOR 150E21 ATTACK ECO. 4x2(dies.)(E5)",
+      "valorAtual": 94157,
+      "canonicalPath": "/fipe/iveco/tector-150e21-attack-eco-4x2-dies-e5-2014-506143-1/",
+      "ano": 2014,
+      "marca": "IVECO"
+    },
+    {
+      "vehicleId": "iveco-tector-150e21-attack-eco-4x2-dies-e5-2015-diesel",
+      "fipeCodigo": "506143-1",
+      "displayName": "IVECO TECTOR 150E21 ATTACK ECO. 4x2(dies.)(E5)",
+      "valorAtual": 104428,
+      "canonicalPath": "/fipe/iveco/tector-150e21-attack-eco-4x2-dies-e5-2015-506143-1/",
+      "ano": 2015,
+      "marca": "IVECO"
+    },
+    {
+      "vehicleId": "iveco-tector-150e21-attack-eco-4x2-dies-e5-2016-diesel",
+      "fipeCodigo": "506143-1",
+      "displayName": "IVECO TECTOR 150E21 ATTACK ECO. 4x2(dies.)(E5)",
+      "valorAtual": 109432,
+      "canonicalPath": "/fipe/iveco/tector-150e21-attack-eco-4x2-dies-e5-2016-506143-1/",
+      "ano": 2016,
+      "marca": "IVECO"
+    },
+    {
+      "vehicleId": "iveco-tector-150e21-attack-eco-4x2-dies-e5-2017-diesel",
+      "fipeCodigo": "506143-1",
+      "displayName": "IVECO TECTOR 150E21 ATTACK ECO. 4x2(dies.)(E5)",
+      "valorAtual": 127702,
+      "canonicalPath": "/fipe/iveco/tector-150e21-attack-eco-4x2-dies-e5-2017-506143-1/",
+      "ano": 2017,
+      "marca": "IVECO"
+    },
+    {
+      "vehicleId": "iveco-tector-150e21-attack-eco-4x2-dies-e5-2018-diesel",
+      "fipeCodigo": "506143-1",
+      "displayName": "IVECO TECTOR 150E21 ATTACK ECO. 4x2(dies.)(E5)",
+      "valorAtual": 140176,
+      "canonicalPath": "/fipe/iveco/tector-150e21-attack-eco-4x2-dies-e5-2018-506143-1/",
+      "ano": 2018,
+      "marca": "IVECO"
+    },
+    {
+      "vehicleId": "iveco-tector-150e21-attack-eco-4x2-dies-e5-2019-diesel",
+      "fipeCodigo": "506143-1",
+      "displayName": "IVECO TECTOR 150E21 ATTACK ECO. 4x2(dies.)(E5)",
+      "valorAtual": 168257,
+      "canonicalPath": "/fipe/iveco/tector-150e21-attack-eco-4x2-dies-e5-2019-506143-1/",
+      "ano": 2019,
+      "marca": "IVECO"
+    },
+    {
+      "vehicleId": "iveco-tector-150e21-attack-eco-4x2-dies-e5-2020-diesel",
+      "fipeCodigo": "506143-1",
+      "displayName": "IVECO TECTOR 150E21 ATTACK ECO. 4x2(dies.)(E5)",
+      "valorAtual": 192652,
+      "canonicalPath": "/fipe/iveco/tector-150e21-attack-eco-4x2-dies-e5-2020-506143-1/",
+      "ano": 2020,
+      "marca": "IVECO"
+    },
+    {
+      "vehicleId": "iveco-tector-150e21-attack-eco-4x2-dies-e5-2021-diesel",
+      "fipeCodigo": "506143-1",
+      "displayName": "IVECO TECTOR 150E21 ATTACK ECO. 4x2(dies.)(E5)",
+      "valorAtual": 209576,
+      "canonicalPath": "/fipe/iveco/tector-150e21-attack-eco-4x2-dies-e5-2021-506143-1/",
+      "ano": 2021,
+      "marca": "IVECO"
+    },
+    {
+      "vehicleId": "iveco-tector-150e21-attack-eco-4x2-dies-e5-2022-diesel",
+      "fipeCodigo": "506143-1",
+      "displayName": "IVECO TECTOR 150E21 ATTACK ECO. 4x2(dies.)(E5)",
+      "valorAtual": 238490,
+      "canonicalPath": "/fipe/iveco/tector-150e21-attack-eco-4x2-dies-e5-2022-506143-1/",
+      "ano": 2022,
+      "marca": "IVECO"
+    },
+    {
+      "vehicleId": "iveco-tector-150e21-attack-eco-4x2-dies-e5-2023-diesel",
+      "fipeCodigo": "506143-1",
+      "displayName": "IVECO TECTOR 150E21 ATTACK ECO. 4x2(dies.)(E5)",
+      "valorAtual": 255662,
+      "canonicalPath": "/fipe/iveco/tector-150e21-attack-eco-4x2-dies-e5-2023-506143-1/",
+      "ano": 2023,
+      "marca": "IVECO"
+    },
+    {
+      "vehicleId": "iveco-tector-17-210-4x2-2p-diesel-e6-2023-diesel",
+      "fipeCodigo": "506175-0",
+      "displayName": "IVECO TECTOR 17-210 4x2 2p (Diesel)(E6)",
+      "valorAtual": 336965,
+      "canonicalPath": "/fipe/iveco/tector-17-210-4x2-2p-diesel-e6-2023-506175-0/",
+      "ano": 2023,
+      "marca": "IVECO"
+    },
+    {
+      "vehicleId": "iveco-tector-17-210-4x2-2p-diesel-e6-2024-diesel",
+      "fipeCodigo": "506175-0",
+      "displayName": "IVECO TECTOR 17-210 4x2 2p (Diesel)(E6)",
+      "valorAtual": 345597,
+      "canonicalPath": "/fipe/iveco/tector-17-210-4x2-2p-diesel-e6-2024-506175-0/",
+      "ano": 2024,
+      "marca": "IVECO"
+    },
+    {
+      "vehicleId": "iveco-tector-17-210-4x2-2p-diesel-e6-2025-diesel",
+      "fipeCodigo": "506175-0",
+      "displayName": "IVECO TECTOR 17-210 4x2 2p (Diesel)(E6)",
+      "valorAtual": 357923,
+      "canonicalPath": "/fipe/iveco/tector-17-210-4x2-2p-diesel-e6-2025-506175-0/",
+      "ano": 2025,
+      "marca": "IVECO"
+    },
+    {
+      "vehicleId": "iveco-tector-17-210-4x2-2p-diesel-e6-2026-diesel",
+      "fipeCodigo": "506175-0",
+      "displayName": "IVECO TECTOR 17-210 4x2 2p (Diesel)(E6)",
+      "valorAtual": 370169,
+      "canonicalPath": "/fipe/iveco/tector-17-210-4x2-2p-diesel-e6-2026-506175-0/",
+      "ano": 2026,
+      "marca": "IVECO"
+    },
+    {
+      "vehicleId": "iveco-tector-17-280-4x2-diesel-e6-2023-diesel",
+      "fipeCodigo": "506179-2",
+      "displayName": "IVECO TECTOR 17-280 4x2 (diesel) (E6)",
+      "valorAtual": 375590,
+      "canonicalPath": "/fipe/iveco/tector-17-280-4x2-diesel-e6-2023-506179-2/",
+      "ano": 2023,
+      "marca": "IVECO"
+    },
+    {
+      "vehicleId": "iveco-tector-17-280-4x2-diesel-e6-2024-diesel",
+      "fipeCodigo": "506179-2",
+      "displayName": "IVECO TECTOR 17-280 4x2 (diesel) (E6)",
+      "valorAtual": 393856,
+      "canonicalPath": "/fipe/iveco/tector-17-280-4x2-diesel-e6-2024-506179-2/",
+      "ano": 2024,
+      "marca": "IVECO"
+    },
+    {
+      "vehicleId": "iveco-tector-17-280-4x2-diesel-e6-2025-diesel",
+      "fipeCodigo": "506179-2",
+      "displayName": "IVECO TECTOR 17-280 4x2 (diesel) (E6)",
+      "valorAtual": 404012,
+      "canonicalPath": "/fipe/iveco/tector-17-280-4x2-diesel-e6-2025-506179-2/",
+      "ano": 2025,
+      "marca": "IVECO"
+    },
+    {
+      "vehicleId": "iveco-tector-17-280-4x2-diesel-e6-2026-diesel",
+      "fipeCodigo": "506179-2",
+      "displayName": "IVECO TECTOR 17-280 4x2 (diesel) (E6)",
+      "valorAtual": 415125,
+      "canonicalPath": "/fipe/iveco/tector-17-280-4x2-diesel-e6-2026-506179-2/",
+      "ano": 2026,
+      "marca": "IVECO"
+    },
+    {
+      "vehicleId": "iveco-tector-17-280-4x2-diesel-e5-2020-diesel",
+      "fipeCodigo": "506162-8",
+      "displayName": "IVECO TECTOR 17-280 4x2 (diesel)(E5)",
+      "valorAtual": 261460,
+      "canonicalPath": "/fipe/iveco/tector-17-280-4x2-diesel-e5-2020-506162-8/",
+      "ano": 2020,
+      "marca": "IVECO"
+    },
+    {
+      "vehicleId": "iveco-tector-17-280-4x2-diesel-e5-2021-diesel",
+      "fipeCodigo": "506162-8",
+      "displayName": "IVECO TECTOR 17-280 4x2 (diesel)(E5)",
+      "valorAtual": 267997,
+      "canonicalPath": "/fipe/iveco/tector-17-280-4x2-diesel-e5-2021-506162-8/",
+      "ano": 2021,
+      "marca": "IVECO"
+    },
+    {
+      "vehicleId": "iveco-tector-17-280-4x2-diesel-e5-2022-diesel",
+      "fipeCodigo": "506162-8",
+      "displayName": "IVECO TECTOR 17-280 4x2 (diesel)(E5)",
+      "valorAtual": 274697,
+      "canonicalPath": "/fipe/iveco/tector-17-280-4x2-diesel-e5-2022-506162-8/",
+      "ano": 2022,
+      "marca": "IVECO"
+    },
+    {
+      "vehicleId": "iveco-tector-17-280-4x2-diesel-e5-2023-diesel",
+      "fipeCodigo": "506162-8",
+      "displayName": "IVECO TECTOR 17-280 4x2 (diesel)(E5)",
+      "valorAtual": 327938,
+      "canonicalPath": "/fipe/iveco/tector-17-280-4x2-diesel-e5-2023-506162-8/",
+      "ano": 2023,
+      "marca": "IVECO"
+    },
+    {
+      "vehicleId": "iveco-tector-17-300-4x2-diesel-e5-2020-diesel",
+      "fipeCodigo": "506163-6",
+      "displayName": "IVECO TECTOR 17-300 4x2 (diesel)(E5)",
+      "valorAtual": 216416,
+      "canonicalPath": "/fipe/iveco/tector-17-300-4x2-diesel-e5-2020-506163-6/",
+      "ano": 2020,
+      "marca": "IVECO"
+    },
+    {
+      "vehicleId": "iveco-tector-17-300-4x2-diesel-e5-2021-diesel",
+      "fipeCodigo": "506163-6",
+      "displayName": "IVECO TECTOR 17-300 4x2 (diesel)(E5)",
+      "valorAtual": 253925,
+      "canonicalPath": "/fipe/iveco/tector-17-300-4x2-diesel-e5-2021-506163-6/",
+      "ano": 2021,
+      "marca": "IVECO"
+    },
+    {
+      "vehicleId": "iveco-tector-17-300-4x2-diesel-e5-2022-diesel",
+      "fipeCodigo": "506163-6",
+      "displayName": "IVECO TECTOR 17-300 4x2 (diesel)(E5)",
+      "valorAtual": 273978,
+      "canonicalPath": "/fipe/iveco/tector-17-300-4x2-diesel-e5-2022-506163-6/",
+      "ano": 2022,
+      "marca": "IVECO"
+    },
+    {
+      "vehicleId": "iveco-tector-17-300-4x2-diesel-e5-2023-diesel",
+      "fipeCodigo": "506163-6",
+      "displayName": "IVECO TECTOR 17-300 4x2 (diesel)(E5)",
+      "valorAtual": 340056,
+      "canonicalPath": "/fipe/iveco/tector-17-300-4x2-diesel-e5-2023-506163-6/",
+      "ano": 2023,
+      "marca": "IVECO"
+    },
+    {
+      "vehicleId": "iveco-tector-17-300t-4x2-diesel-e5-2020-diesel",
+      "fipeCodigo": "506166-0",
+      "displayName": "IVECO TECTOR 17-300T 4x2 (diesel)(E5)",
+      "valorAtual": 211323,
+      "canonicalPath": "/fipe/iveco/tector-17-300t-4x2-diesel-e5-2020-506166-0/",
+      "ano": 2020,
+      "marca": "IVECO"
+    },
+    {
+      "vehicleId": "iveco-tector-17-300t-4x2-diesel-e5-2021-diesel",
+      "fipeCodigo": "506166-0",
+      "displayName": "IVECO TECTOR 17-300T 4x2 (diesel)(E5)",
+      "valorAtual": 255688,
+      "canonicalPath": "/fipe/iveco/tector-17-300t-4x2-diesel-e5-2021-506166-0/",
+      "ano": 2021,
+      "marca": "IVECO"
+    },
+    {
+      "vehicleId": "iveco-tector-17-300t-4x2-diesel-e5-2022-diesel",
+      "fipeCodigo": "506166-0",
+      "displayName": "IVECO TECTOR 17-300T 4x2 (diesel)(E5)",
+      "valorAtual": 315301,
+      "canonicalPath": "/fipe/iveco/tector-17-300t-4x2-diesel-e5-2022-506166-0/",
+      "ano": 2022,
+      "marca": "IVECO"
+    },
+    {
+      "vehicleId": "iveco-tector-17-300t-4x2-diesel-e5-2023-diesel",
+      "fipeCodigo": "506166-0",
+      "displayName": "IVECO TECTOR 17-300T 4x2 (diesel)(E5)",
+      "valorAtual": 332095,
+      "canonicalPath": "/fipe/iveco/tector-17-300t-4x2-diesel-e5-2023-506166-0/",
+      "ano": 2023,
+      "marca": "IVECO"
+    },
+    {
+      "vehicleId": "iveco-tector-17-320-4x2-2p-autoshift-e6-2023-diesel",
+      "fipeCodigo": "506176-8",
+      "displayName": "IVECO TECTOR 17-320 4x2 2p AutoShift (E6)",
+      "valorAtual": 381211,
+      "canonicalPath": "/fipe/iveco/tector-17-320-4x2-2p-autoshift-e6-2023-506176-8/",
+      "ano": 2023,
+      "marca": "IVECO"
+    },
+    {
+      "vehicleId": "iveco-tector-17-320-4x2-2p-autoshift-e6-2024-diesel",
+      "fipeCodigo": "506176-8",
+      "displayName": "IVECO TECTOR 17-320 4x2 2p AutoShift (E6)",
+      "valorAtual": 411012,
+      "canonicalPath": "/fipe/iveco/tector-17-320-4x2-2p-autoshift-e6-2024-506176-8/",
+      "ano": 2024,
+      "marca": "IVECO"
+    },
+    {
+      "vehicleId": "iveco-tector-17-320-4x2-2p-autoshift-e6-2025-diesel",
+      "fipeCodigo": "506176-8",
+      "displayName": "IVECO TECTOR 17-320 4x2 2p AutoShift (E6)",
+      "valorAtual": 423012,
+      "canonicalPath": "/fipe/iveco/tector-17-320-4x2-2p-autoshift-e6-2025-506176-8/",
+      "ano": 2025,
+      "marca": "IVECO"
+    },
+    {
+      "vehicleId": "iveco-tector-17-320-4x2-2p-autoshift-e6-2026-diesel",
+      "fipeCodigo": "506176-8",
+      "displayName": "IVECO TECTOR 17-320 4x2 2p AutoShift (E6)",
+      "valorAtual": 435012,
+      "canonicalPath": "/fipe/iveco/tector-17-320-4x2-2p-autoshift-e6-2026-506176-8/",
+      "ano": 2026,
+      "marca": "IVECO"
+    },
+    {
+      "vehicleId": "iveco-tector-170e21-attack-4x2-2p-dies-e5-2015-diesel",
+      "fipeCodigo": "506147-4",
+      "displayName": "IVECO TECTOR 170E21 ATTACK 4x2 2p (dies.)(E5)",
+      "valorAtual": 123932,
+      "canonicalPath": "/fipe/iveco/tector-170e21-attack-4x2-2p-dies-e5-2015-506147-4/",
+      "ano": 2015,
+      "marca": "IVECO"
+    },
+    {
+      "vehicleId": "iveco-tector-170e21-attack-4x2-2p-dies-e5-2016-diesel",
+      "fipeCodigo": "506147-4",
+      "displayName": "IVECO TECTOR 170E21 ATTACK 4x2 2p (dies.)(E5)",
+      "valorAtual": 127031,
+      "canonicalPath": "/fipe/iveco/tector-170e21-attack-4x2-2p-dies-e5-2016-506147-4/",
+      "ano": 2016,
+      "marca": "IVECO"
+    },
+    {
+      "vehicleId": "iveco-tector-170e21-attack-4x2-2p-dies-e5-2017-diesel",
+      "fipeCodigo": "506147-4",
+      "displayName": "IVECO TECTOR 170E21 ATTACK 4x2 2p (dies.)(E5)",
+      "valorAtual": 133252,
+      "canonicalPath": "/fipe/iveco/tector-170e21-attack-4x2-2p-dies-e5-2017-506147-4/",
+      "ano": 2017,
+      "marca": "IVECO"
+    },
+    {
+      "vehicleId": "iveco-tector-170e21-attack-4x2-2p-dies-e5-2018-diesel",
+      "fipeCodigo": "506147-4",
+      "displayName": "IVECO TECTOR 170E21 ATTACK 4x2 2p (dies.)(E5)",
+      "valorAtual": 140191,
+      "canonicalPath": "/fipe/iveco/tector-170e21-attack-4x2-2p-dies-e5-2018-506147-4/",
+      "ano": 2018,
+      "marca": "IVECO"
+    },
+    {
+      "vehicleId": "iveco-tector-170e21-attack-4x2-2p-dies-e5-2019-diesel",
+      "fipeCodigo": "506147-4",
+      "displayName": "IVECO TECTOR 170E21 ATTACK 4x2 2p (dies.)(E5)",
+      "valorAtual": 170645,
+      "canonicalPath": "/fipe/iveco/tector-170e21-attack-4x2-2p-dies-e5-2019-506147-4/",
+      "ano": 2019,
+      "marca": "IVECO"
+    },
+    {
+      "vehicleId": "iveco-tector-170e21-attack-4x2-2p-dies-e5-2020-diesel",
+      "fipeCodigo": "506147-4",
+      "displayName": "IVECO TECTOR 170E21 ATTACK 4x2 2p (dies.)(E5)",
+      "valorAtual": 205157,
+      "canonicalPath": "/fipe/iveco/tector-170e21-attack-4x2-2p-dies-e5-2020-506147-4/",
+      "ano": 2020,
+      "marca": "IVECO"
+    },
+    {
+      "vehicleId": "iveco-tector-170e21-attack-4x2-2p-dies-e5-2021-diesel",
+      "fipeCodigo": "506147-4",
+      "displayName": "IVECO TECTOR 170E21 ATTACK 4x2 2p (dies.)(E5)",
+      "valorAtual": 220068,
+      "canonicalPath": "/fipe/iveco/tector-170e21-attack-4x2-2p-dies-e5-2021-506147-4/",
+      "ano": 2021,
+      "marca": "IVECO"
+    },
+    {
+      "vehicleId": "iveco-tector-170e21-attack-4x2-2p-dies-e5-2022-diesel",
+      "fipeCodigo": "506147-4",
+      "displayName": "IVECO TECTOR 170E21 ATTACK 4x2 2p (dies.)(E5)",
+      "valorAtual": 246908,
+      "canonicalPath": "/fipe/iveco/tector-170e21-attack-4x2-2p-dies-e5-2022-506147-4/",
+      "ano": 2022,
+      "marca": "IVECO"
+    },
+    {
+      "vehicleId": "iveco-tector-170e21-attack-4x2-2p-dies-e5-2023-diesel",
+      "fipeCodigo": "506147-4",
+      "displayName": "IVECO TECTOR 170E21 ATTACK 4x2 2p (dies.)(E5)",
+      "valorAtual": 305451,
+      "canonicalPath": "/fipe/iveco/tector-170e21-attack-4x2-2p-dies-e5-2023-506147-4/",
+      "ano": 2023,
+      "marca": "IVECO"
+    },
+    {
+      "vehicleId": "iveco-tector-170e22-attack-4x2-2p-dies-e5-2013-diesel",
+      "fipeCodigo": "506087-7",
+      "displayName": "IVECO TECTOR 170E22 ATTACK 4x2 2p (dies.)(E5)",
+      "valorAtual": 146464,
+      "canonicalPath": "/fipe/iveco/tector-170e22-attack-4x2-2p-dies-e5-2013-506087-7/",
+      "ano": 2013,
+      "marca": "IVECO"
+    },
+    {
+      "vehicleId": "iveco-tector-170e22-attack-4x2-2p-dies-e5-2014-diesel",
+      "fipeCodigo": "506087-7",
+      "displayName": "IVECO TECTOR 170E22 ATTACK 4x2 2p (dies.)(E5)",
+      "valorAtual": 153418,
+      "canonicalPath": "/fipe/iveco/tector-170e22-attack-4x2-2p-dies-e5-2014-506087-7/",
+      "ano": 2014,
+      "marca": "IVECO"
+    },
+    {
+      "vehicleId": "iveco-tector-170e22-attack-4x2-2p-dies-e5-2015-diesel",
+      "fipeCodigo": "506087-7",
+      "displayName": "IVECO TECTOR 170E22 ATTACK 4x2 2p (dies.)(E5)",
+      "valorAtual": 185284,
+      "canonicalPath": "/fipe/iveco/tector-170e22-attack-4x2-2p-dies-e5-2015-506087-7/",
+      "ano": 2015,
+      "marca": "IVECO"
+    },
+    {
+      "vehicleId": "iveco-tector-170e22-attack-4x2-2p-dies-e5-2016-diesel",
+      "fipeCodigo": "506087-7",
+      "displayName": "IVECO TECTOR 170E22 ATTACK 4x2 2p (dies.)(E5)",
+      "valorAtual": 189917,
+      "canonicalPath": "/fipe/iveco/tector-170e22-attack-4x2-2p-dies-e5-2016-506087-7/",
+      "ano": 2016,
+      "marca": "IVECO"
+    },
+    {
+      "vehicleId": "iveco-tector-170e22-attack-4x2-2p-dies-e5-2019-diesel",
+      "fipeCodigo": "506087-7",
+      "displayName": "IVECO TECTOR 170E22 ATTACK 4x2 2p (dies.)(E5)",
+      "valorAtual": 194854,
+      "canonicalPath": "/fipe/iveco/tector-170e22-attack-4x2-2p-dies-e5-2019-506087-7/",
+      "ano": 2019,
+      "marca": "IVECO"
+    },
+    {
+      "vehicleId": "iveco-tector-170e25-4x2-2p-diesel-2009-diesel",
+      "fipeCodigo": "506053-2",
+      "displayName": "IVECO TECTOR 170E25 4x2 2p (diesel)",
+      "valorAtual": 106502,
+      "canonicalPath": "/fipe/iveco/tector-170e25-4x2-2p-diesel-2009-506053-2/",
+      "ano": 2009,
+      "marca": "IVECO"
+    },
+    {
+      "vehicleId": "iveco-tector-170e25-4x2-2p-diesel-2010-diesel",
+      "fipeCodigo": "506053-2",
+      "displayName": "IVECO TECTOR 170E25 4x2 2p (diesel)",
+      "valorAtual": 118131,
+      "canonicalPath": "/fipe/iveco/tector-170e25-4x2-2p-diesel-2010-506053-2/",
+      "ano": 2010,
+      "marca": "IVECO"
+    },
+    {
+      "vehicleId": "iveco-tector-170e25-4x2-2p-diesel-2011-diesel",
+      "fipeCodigo": "506053-2",
+      "displayName": "IVECO TECTOR 170E25 4x2 2p (diesel)",
+      "valorAtual": 127106,
+      "canonicalPath": "/fipe/iveco/tector-170e25-4x2-2p-diesel-2011-506053-2/",
+      "ano": 2011,
+      "marca": "IVECO"
+    },
+    {
+      "vehicleId": "iveco-tector-170e25-4x2-2p-diesel-2012-diesel",
+      "fipeCodigo": "506053-2",
+      "displayName": "IVECO TECTOR 170E25 4x2 2p (diesel)",
+      "valorAtual": 150696,
+      "canonicalPath": "/fipe/iveco/tector-170e25-4x2-2p-diesel-2012-506053-2/",
+      "ano": 2012,
+      "marca": "IVECO"
+    },
+    {
+      "vehicleId": "iveco-tector-170e28-4x2-2p-diesel-e5-2013-diesel",
+      "fipeCodigo": "506088-5",
+      "displayName": "IVECO TECTOR 170E28 4x2 2p (diesel)(E5)",
+      "valorAtual": 130276,
+      "canonicalPath": "/fipe/iveco/tector-170e28-4x2-2p-diesel-e5-2013-506088-5/",
+      "ano": 2013,
+      "marca": "IVECO"
+    },
+    {
+      "vehicleId": "iveco-tector-170e28-4x2-2p-diesel-e5-2014-diesel",
+      "fipeCodigo": "506088-5",
+      "displayName": "IVECO TECTOR 170E28 4x2 2p (diesel)(E5)",
+      "valorAtual": 140428,
+      "canonicalPath": "/fipe/iveco/tector-170e28-4x2-2p-diesel-e5-2014-506088-5/",
+      "ano": 2014,
+      "marca": "IVECO"
+    },
+    {
+      "vehicleId": "iveco-tector-170e28-4x2-2p-diesel-e5-2015-diesel",
+      "fipeCodigo": "506088-5",
+      "displayName": "IVECO TECTOR 170E28 4x2 2p (diesel)(E5)",
+      "valorAtual": 143939,
+      "canonicalPath": "/fipe/iveco/tector-170e28-4x2-2p-diesel-e5-2015-506088-5/",
+      "ano": 2015,
+      "marca": "IVECO"
+    },
+    {
+      "vehicleId": "iveco-tector-170e28-4x2-2p-diesel-e5-2016-diesel",
+      "fipeCodigo": "506088-5",
+      "displayName": "IVECO TECTOR 170E28 4x2 2p (diesel)(E5)",
+      "valorAtual": 159416,
+      "canonicalPath": "/fipe/iveco/tector-170e28-4x2-2p-diesel-e5-2016-506088-5/",
+      "ano": 2016,
+      "marca": "IVECO"
+    },
+    {
+      "vehicleId": "iveco-tector-170e28-4x2-2p-diesel-e5-2017-diesel",
+      "fipeCodigo": "506088-5",
+      "displayName": "IVECO TECTOR 170E28 4x2 2p (diesel)(E5)",
+      "valorAtual": 163402,
+      "canonicalPath": "/fipe/iveco/tector-170e28-4x2-2p-diesel-e5-2017-506088-5/",
+      "ano": 2017,
+      "marca": "IVECO"
+    },
+    {
+      "vehicleId": "iveco-tector-170e28-4x2-2p-diesel-e5-2018-diesel",
+      "fipeCodigo": "506088-5",
+      "displayName": "IVECO TECTOR 170E28 4x2 2p (diesel)(E5)",
+      "valorAtual": 167488,
+      "canonicalPath": "/fipe/iveco/tector-170e28-4x2-2p-diesel-e5-2018-506088-5/",
+      "ano": 2018,
+      "marca": "IVECO"
+    },
+    {
+      "vehicleId": "iveco-tector-170e28-4x2-2p-diesel-e5-2019-diesel",
+      "fipeCodigo": "506088-5",
+      "displayName": "IVECO TECTOR 170E28 4x2 2p (diesel)(E5)",
+      "valorAtual": 185364,
+      "canonicalPath": "/fipe/iveco/tector-170e28-4x2-2p-diesel-e5-2019-506088-5/",
+      "ano": 2019,
+      "marca": "IVECO"
+    },
+    {
+      "vehicleId": "iveco-tector-170e28-attack-4x2-2p-diesel-e5-2022-diesel",
+      "fipeCodigo": "506171-7",
+      "displayName": "IVECO TECTOR 170E28 ATTACK 4x2 2p (diesel)(E5)",
+      "valorAtual": 269235,
+      "canonicalPath": "/fipe/iveco/tector-170e28-attack-4x2-2p-diesel-e5-2022-506171-7/",
+      "ano": 2022,
+      "marca": "IVECO"
+    },
+    {
+      "vehicleId": "iveco-tector-170e28-attack-4x2-2p-diesel-e5-2023-diesel",
+      "fipeCodigo": "506171-7",
+      "displayName": "IVECO TECTOR 170E28 ATTACK 4x2 2p (diesel)(E5)",
+      "valorAtual": 322607,
+      "canonicalPath": "/fipe/iveco/tector-170e28-attack-4x2-2p-diesel-e5-2023-506171-7/",
+      "ano": 2023,
+      "marca": "IVECO"
+    },
+    {
+      "vehicleId": "iveco-tector-170e30-4x2-2p-diesel-e5-2018-diesel",
+      "fipeCodigo": "506154-7",
+      "displayName": "IVECO TECTOR 170E30 4x2 2p (diesel)(E5)",
+      "valorAtual": 210132,
+      "canonicalPath": "/fipe/iveco/tector-170e30-4x2-2p-diesel-e5-2018-506154-7/",
+      "ano": 2018,
+      "marca": "IVECO"
+    },
+    {
+      "vehicleId": "iveco-tector-170e30-4x2-2p-diesel-e5-2019-diesel",
+      "fipeCodigo": "506154-7",
+      "displayName": "IVECO TECTOR 170E30 4x2 2p (diesel)(E5)",
+      "valorAtual": 216889,
+      "canonicalPath": "/fipe/iveco/tector-170e30-4x2-2p-diesel-e5-2019-506154-7/",
+      "ano": 2019,
+      "marca": "IVECO"
+    },
+    {
+      "vehicleId": "iveco-tector-24-280-6x2-diesel-e5-2020-diesel",
+      "fipeCodigo": "506164-4",
+      "displayName": "IVECO TECTOR 24-280 6x2 (diesel)(E5)",
+      "valorAtual": 218845,
+      "canonicalPath": "/fipe/iveco/tector-24-280-6x2-diesel-e5-2020-506164-4/",
+      "ano": 2020,
+      "marca": "IVECO"
+    },
+    {
+      "vehicleId": "iveco-tector-24-280-6x2-diesel-e5-2021-diesel",
+      "fipeCodigo": "506164-4",
+      "displayName": "IVECO TECTOR 24-280 6x2 (diesel)(E5)",
+      "valorAtual": 272125,
+      "canonicalPath": "/fipe/iveco/tector-24-280-6x2-diesel-e5-2021-506164-4/",
+      "ano": 2021,
+      "marca": "IVECO"
+    },
+    {
+      "vehicleId": "iveco-tector-24-280-6x2-diesel-e5-2022-diesel",
+      "fipeCodigo": "506164-4",
+      "displayName": "IVECO TECTOR 24-280 6x2 (diesel)(E5)",
+      "valorAtual": 325010,
+      "canonicalPath": "/fipe/iveco/tector-24-280-6x2-diesel-e5-2022-506164-4/",
+      "ano": 2022,
+      "marca": "IVECO"
+    },
+    {
+      "vehicleId": "iveco-tector-24-280-6x2-diesel-e5-2023-diesel",
+      "fipeCodigo": "506164-4",
+      "displayName": "IVECO TECTOR 24-280 6x2 (diesel)(E5)",
+      "valorAtual": 334440,
+      "canonicalPath": "/fipe/iveco/tector-24-280-6x2-diesel-e5-2023-506164-4/",
+      "ano": 2023,
+      "marca": "IVECO"
+    },
+    {
+      "vehicleId": "iveco-tector-24-280-6x2-diesel-e6-2023-diesel",
+      "fipeCodigo": "506180-6",
+      "displayName": "IVECO TECTOR 24-280 6x2 (diesel)(E6)",
+      "valorAtual": 335679,
+      "canonicalPath": "/fipe/iveco/tector-24-280-6x2-diesel-e6-2023-506180-6/",
+      "ano": 2023,
+      "marca": "IVECO"
+    }
+  ],
+  "stats": {
+    "total": 177
+  },
+  "meta": {
+    "geracaoId": "tector-2"
+  }
+}

@@ -1,0 +1,129 @@
+{
+  "tipo": "geracao",
+  "slug": "cordoba-1",
+  "canonicalPath": "/geracao/seat/cordoba-1/",
+  "titulo": "Geracao cordoba-1",
+  "descricao": "12 veiculos da geracao cordoba-1.",
+  "seo": {
+    "title": "Geracao cordoba-1 - Precos FIPE",
+    "description": "Veiculos da geracao cordoba-1 na Tabela FIPE.",
+    "h1": "Geracao cordoba-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/seat/cordoba-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "seat-cordoba-1-6l-1999-gasolina",
+      "fipeCodigo": "026003-7",
+      "displayName": "Seat Cordoba 1.6L",
+      "valorAtual": 7979,
+      "canonicalPath": "/fipe/seat/cordoba-1-6l-1999-026003-7/",
+      "ano": 1999,
+      "marca": "Seat"
+    },
+    {
+      "vehicleId": "seat-cordoba-1-6l-2000-gasolina",
+      "fipeCodigo": "026003-7",
+      "displayName": "Seat Cordoba 1.6L",
+      "valorAtual": 8545,
+      "canonicalPath": "/fipe/seat/cordoba-1-6l-2000-026003-7/",
+      "ano": 2000,
+      "marca": "Seat"
+    },
+    {
+      "vehicleId": "seat-cordoba-1-6l-2001-gasolina",
+      "fipeCodigo": "026003-7",
+      "displayName": "Seat Cordoba 1.6L",
+      "valorAtual": 10312,
+      "canonicalPath": "/fipe/seat/cordoba-1-6l-2001-026003-7/",
+      "ano": 2001,
+      "marca": "Seat"
+    },
+    {
+      "vehicleId": "seat-cordoba-1-6l-2002-gasolina",
+      "fipeCodigo": "026003-7",
+      "displayName": "Seat Cordoba 1.6L",
+      "valorAtual": 11036,
+      "canonicalPath": "/fipe/seat/cordoba-1-6l-2002-026003-7/",
+      "ano": 2002,
+      "marca": "Seat"
+    },
+    {
+      "vehicleId": "seat-cordoba-sxe-1-8-glx-1-8-4p-1995-gasolina",
+      "fipeCodigo": "026001-0",
+      "displayName": "Seat Cordoba SXE 1.8 / GLX 1.8 4p",
+      "valorAtual": 5569,
+      "canonicalPath": "/fipe/seat/cordoba-sxe-1-8-glx-1-8-4p-1995-026001-0/",
+      "ano": 1995,
+      "marca": "Seat"
+    },
+    {
+      "vehicleId": "seat-cordoba-sxe-1-8-glx-1-8-4p-1996-gasolina",
+      "fipeCodigo": "026001-0",
+      "displayName": "Seat Cordoba SXE 1.8 / GLX 1.8 4p",
+      "valorAtual": 6364,
+      "canonicalPath": "/fipe/seat/cordoba-sxe-1-8-glx-1-8-4p-1996-026001-0/",
+      "ano": 1996,
+      "marca": "Seat"
+    },
+    {
+      "vehicleId": "seat-cordoba-sxe-1-8-glx-1-8-4p-1997-gasolina",
+      "fipeCodigo": "026001-0",
+      "displayName": "Seat Cordoba SXE 1.8 / GLX 1.8 4p",
+      "valorAtual": 6935,
+      "canonicalPath": "/fipe/seat/cordoba-sxe-1-8-glx-1-8-4p-1997-026001-0/",
+      "ano": 1997,
+      "marca": "Seat"
+    },
+    {
+      "vehicleId": "seat-cordoba-sxe-1-8-glx-1-8-4p-1998-gasolina",
+      "fipeCodigo": "026001-0",
+      "displayName": "Seat Cordoba SXE 1.8 / GLX 1.8 4p",
+      "valorAtual": 7710,
+      "canonicalPath": "/fipe/seat/cordoba-sxe-1-8-glx-1-8-4p-1998-026001-0/",
+      "ano": 1998,
+      "marca": "Seat"
+    },
+    {
+      "vehicleId": "seat-cordoba-sxe-1-8-glx-1-8-4p-1999-gasolina",
+      "fipeCodigo": "026001-0",
+      "displayName": "Seat Cordoba SXE 1.8 / GLX 1.8 4p",
+      "valorAtual": 7956,
+      "canonicalPath": "/fipe/seat/cordoba-sxe-1-8-glx-1-8-4p-1999-026001-0/",
+      "ano": 1999,
+      "marca": "Seat"
+    },
+    {
+      "vehicleId": "seat-cordoba-vario-1-6l-2000-gasolina",
+      "fipeCodigo": "026004-5",
+      "displayName": "Seat Cordoba Vario 1.6L",
+      "valorAtual": 10908,
+      "canonicalPath": "/fipe/seat/cordoba-vario-1-6l-2000-026004-5/",
+      "ano": 2000,
+      "marca": "Seat"
+    },
+    {
+      "vehicleId": "seat-cordoba-vario-1-6l-2001-gasolina",
+      "fipeCodigo": "026004-5",
+      "displayName": "Seat Cordoba Vario 1.6L",
+      "valorAtual": 11255,
+      "canonicalPath": "/fipe/seat/cordoba-vario-1-6l-2001-026004-5/",
+      "ano": 2001,
+      "marca": "Seat"
+    },
+    {
+      "vehicleId": "seat-cordoba-vario-1-6l-2002-gasolina",
+      "fipeCodigo": "026004-5",
+      "displayName": "Seat Cordoba Vario 1.6L",
+      "valorAtual": 11537,
+      "canonicalPath": "/fipe/seat/cordoba-vario-1-6l-2002-026004-5/",
+      "ano": 2002,
+      "marca": "Seat"
+    }
+  ],
+  "stats": {
+    "total": 12
+  },
+  "meta": {
+    "geracaoId": "cordoba-1"
+  }
+}

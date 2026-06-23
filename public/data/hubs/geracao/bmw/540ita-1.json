@@ -1,0 +1,93 @@
+{
+  "tipo": "geracao",
+  "slug": "540ita-1",
+  "canonicalPath": "/geracao/bmw/540ita-1/",
+  "titulo": "Geracao 540ita-1",
+  "descricao": "8 veiculos da geracao 540ita-1.",
+  "seo": {
+    "title": "Geracao 540ita-1 - Precos FIPE",
+    "description": "Veiculos da geracao 540ita-1 na Tabela FIPE.",
+    "h1": "Geracao 540ita-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/bmw/540ita-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "bmw-540ita-1994-gasolina",
+      "fipeCodigo": "009052-2",
+      "displayName": "BMW 540iTA",
+      "valorAtual": 21518,
+      "canonicalPath": "/fipe/bmw/540ita-1994-009052-2/",
+      "ano": 1994,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-540ita-1995-gasolina",
+      "fipeCodigo": "009052-2",
+      "displayName": "BMW 540iTA",
+      "valorAtual": 22487,
+      "canonicalPath": "/fipe/bmw/540ita-1995-009052-2/",
+      "ano": 1995,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-540ita-1996-gasolina",
+      "fipeCodigo": "009052-2",
+      "displayName": "BMW 540iTA",
+      "valorAtual": 27522,
+      "canonicalPath": "/fipe/bmw/540ita-1996-009052-2/",
+      "ano": 1996,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-540ita-1997-gasolina",
+      "fipeCodigo": "009052-2",
+      "displayName": "BMW 540iTA",
+      "valorAtual": 30795,
+      "canonicalPath": "/fipe/bmw/540ita-1997-009052-2/",
+      "ano": 1997,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-540ita-1998-gasolina",
+      "fipeCodigo": "009052-2",
+      "displayName": "BMW 540iTA",
+      "valorAtual": 32064,
+      "canonicalPath": "/fipe/bmw/540ita-1998-009052-2/",
+      "ano": 1998,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-540ita-1999-gasolina",
+      "fipeCodigo": "009052-2",
+      "displayName": "BMW 540iTA",
+      "valorAtual": 36541,
+      "canonicalPath": "/fipe/bmw/540ita-1999-009052-2/",
+      "ano": 1999,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-540ita-2000-gasolina",
+      "fipeCodigo": "009052-2",
+      "displayName": "BMW 540iTA",
+      "valorAtual": 38505,
+      "canonicalPath": "/fipe/bmw/540ita-2000-009052-2/",
+      "ano": 2000,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-540ita-2001-gasolina",
+      "fipeCodigo": "009052-2",
+      "displayName": "BMW 540iTA",
+      "valorAtual": 42933,
+      "canonicalPath": "/fipe/bmw/540ita-2001-009052-2/",
+      "ano": 2001,
+      "marca": "BMW"
+    }
+  ],
+  "stats": {
+    "total": 8
+  },
+  "meta": {
+    "geracaoId": "540ita-1"
+  }
+}

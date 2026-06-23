@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "dy150gy-2",
+  "canonicalPath": "/geracao/dayun/dy150gy-2/",
+  "titulo": "Geracao dy150gy-2",
+  "descricao": "2 veiculos da geracao dy150gy-2.",
+  "seo": {
+    "title": "Geracao dy150gy-2 - Precos FIPE",
+    "description": "Veiculos da geracao dy150gy-2 na Tabela FIPE.",
+    "h1": "Geracao dy150gy-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/dayun/dy150gy-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "dayun-dy150gy-2010-gasolina",
+      "fipeCodigo": "860006-6",
+      "displayName": "DAYUN DY150GY",
+      "valorAtual": 4090,
+      "canonicalPath": "/fipe/dayun/dy150gy-2010-860006-6/",
+      "ano": 2010,
+      "marca": "DAYUN"
+    },
+    {
+      "vehicleId": "dayun-dy150gy-2011-gasolina",
+      "fipeCodigo": "860006-6",
+      "displayName": "DAYUN DY150GY",
+      "valorAtual": 4638,
+      "canonicalPath": "/fipe/dayun/dy150gy-2011-860006-6/",
+      "ano": 2011,
+      "marca": "DAYUN"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "dy150gy-2"
+  }
+}

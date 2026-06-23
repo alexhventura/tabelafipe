@@ -1,0 +1,84 @@
+{
+  "tipo": "geracao",
+  "slug": "daytona-2",
+  "canonicalPath": "/geracao/triumph/daytona-2/",
+  "titulo": "Geracao daytona-2",
+  "descricao": "7 veiculos da geracao daytona-2.",
+  "seo": {
+    "title": "Geracao daytona-2 - Precos FIPE",
+    "description": "Veiculos da geracao daytona-2 na Tabela FIPE.",
+    "h1": "Geracao daytona-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/triumph/daytona-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "triumph-daytona-1200-1994-gasolina",
+      "fipeCodigo": "826002-8",
+      "displayName": "TRIUMPH DAYTONA 1200",
+      "valorAtual": 11740,
+      "canonicalPath": "/fipe/triumph/daytona-1200-1994-826002-8/",
+      "ano": 1994,
+      "marca": "TRIUMPH"
+    },
+    {
+      "vehicleId": "triumph-daytona-1200-1995-gasolina",
+      "fipeCodigo": "826002-8",
+      "displayName": "TRIUMPH DAYTONA 1200",
+      "valorAtual": 13266,
+      "canonicalPath": "/fipe/triumph/daytona-1200-1995-826002-8/",
+      "ano": 1995,
+      "marca": "TRIUMPH"
+    },
+    {
+      "vehicleId": "triumph-daytona-1200-1996-gasolina",
+      "fipeCodigo": "826002-8",
+      "displayName": "TRIUMPH DAYTONA 1200",
+      "valorAtual": 13598,
+      "canonicalPath": "/fipe/triumph/daytona-1200-1996-826002-8/",
+      "ano": 1996,
+      "marca": "TRIUMPH"
+    },
+    {
+      "vehicleId": "triumph-daytona-900-1995-gasolina",
+      "fipeCodigo": "826003-6",
+      "displayName": "TRIUMPH DAYTONA 900",
+      "valorAtual": 10533,
+      "canonicalPath": "/fipe/triumph/daytona-900-1995-826003-6/",
+      "ano": 1995,
+      "marca": "TRIUMPH"
+    },
+    {
+      "vehicleId": "triumph-daytona-900-1996-gasolina",
+      "fipeCodigo": "826003-6",
+      "displayName": "TRIUMPH DAYTONA 900",
+      "valorAtual": 11019,
+      "canonicalPath": "/fipe/triumph/daytona-900-1996-826003-6/",
+      "ano": 1996,
+      "marca": "TRIUMPH"
+    },
+    {
+      "vehicleId": "triumph-daytona-super-iii-1995-gasolina",
+      "fipeCodigo": "826004-4",
+      "displayName": "TRIUMPH DAYTONA SUPER III",
+      "valorAtual": 16566,
+      "canonicalPath": "/fipe/triumph/daytona-super-iii-1995-826004-4/",
+      "ano": 1995,
+      "marca": "TRIUMPH"
+    },
+    {
+      "vehicleId": "triumph-daytona-super-iii-1996-gasolina",
+      "fipeCodigo": "826004-4",
+      "displayName": "TRIUMPH DAYTONA SUPER III",
+      "valorAtual": 18100,
+      "canonicalPath": "/fipe/triumph/daytona-super-iii-1996-826004-4/",
+      "ano": 1996,
+      "marca": "TRIUMPH"
+    }
+  ],
+  "stats": {
+    "total": 7
+  },
+  "meta": {
+    "geracaoId": "daytona-2"
+  }
+}

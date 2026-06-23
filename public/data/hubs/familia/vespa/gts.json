@@ -1,0 +1,133 @@
+{
+  "tipo": "familia",
+  "slug": "gts",
+  "canonicalPath": "/fipe/vespa/gts/",
+  "titulo": "VESPA gts - Tabela FIPE",
+  "descricao": "12 versoes e anos do VESPA gts na Tabela FIPE.",
+  "seo": {
+    "title": "VESPA gts - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes VESPA gts. 12 veiculos indexados.",
+    "h1": "VESPA gts - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/vespa/gts/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "vespa-gts-300-2025-gasolina",
+      "fipeCodigo": "898013-6",
+      "displayName": "VESPA GTS 300",
+      "valorAtual": 73525,
+      "canonicalPath": "/fipe/vespa/gts-300-2025-898013-6/",
+      "ano": 2025,
+      "marca": "VESPA"
+    },
+    {
+      "vehicleId": "vespa-gts-super-300-2025-gasolina",
+      "fipeCodigo": "898012-8",
+      "displayName": "VESPA GTS Super 300",
+      "valorAtual": 76040,
+      "canonicalPath": "/fipe/vespa/gts-super-300-2025-898012-8/",
+      "ano": 2025,
+      "marca": "VESPA"
+    },
+    {
+      "vehicleId": "vespa-gts-super-tech-300-2025-gasolina",
+      "fipeCodigo": "898011-0",
+      "displayName": "VESPA GTS Super Tech 300",
+      "valorAtual": 78122,
+      "canonicalPath": "/fipe/vespa/gts-super-tech-300-2025-898011-0/",
+      "ano": 2025,
+      "marca": "VESPA"
+    },
+    {
+      "vehicleId": "vespa-gts-super-sport-300-2025-gasolina",
+      "fipeCodigo": "898010-1",
+      "displayName": "VESPA GTS Super Sport 300",
+      "valorAtual": 78206,
+      "canonicalPath": "/fipe/vespa/gts-super-sport-300-2025-898010-1/",
+      "ano": 2025,
+      "marca": "VESPA"
+    },
+    {
+      "vehicleId": "vespa-gts-300-2024-gasolina",
+      "fipeCodigo": "898013-6",
+      "displayName": "VESPA GTS 300",
+      "valorAtual": 71318,
+      "canonicalPath": "/fipe/vespa/gts-300-2024-898013-6/",
+      "ano": 2024,
+      "marca": "VESPA"
+    },
+    {
+      "vehicleId": "vespa-gts-super-300-2024-gasolina",
+      "fipeCodigo": "898012-8",
+      "displayName": "VESPA GTS Super 300",
+      "valorAtual": 73446,
+      "canonicalPath": "/fipe/vespa/gts-super-300-2024-898012-8/",
+      "ano": 2024,
+      "marca": "VESPA"
+    },
+    {
+      "vehicleId": "vespa-gts-super-sport-300-2024-gasolina",
+      "fipeCodigo": "898010-1",
+      "displayName": "VESPA GTS Super Sport 300",
+      "valorAtual": 75756,
+      "canonicalPath": "/fipe/vespa/gts-super-sport-300-2024-898010-1/",
+      "ano": 2024,
+      "marca": "VESPA"
+    },
+    {
+      "vehicleId": "vespa-gts-super-tech-300-2024-gasolina",
+      "fipeCodigo": "898011-0",
+      "displayName": "VESPA GTS Super Tech 300",
+      "valorAtual": 75777,
+      "canonicalPath": "/fipe/vespa/gts-super-tech-300-2024-898011-0/",
+      "ano": 2024,
+      "marca": "VESPA"
+    },
+    {
+      "vehicleId": "vespa-gts-300-0-gasolina",
+      "fipeCodigo": "898013-6",
+      "displayName": "VESPA GTS 300",
+      "valorAtual": 79990,
+      "canonicalPath": "/fipe/vespa/gts-300-0-898013-6/",
+      "ano": 0,
+      "marca": "VESPA"
+    },
+    {
+      "vehicleId": "vespa-gts-super-300-0-gasolina",
+      "fipeCodigo": "898012-8",
+      "displayName": "VESPA GTS Super 300",
+      "valorAtual": 82990,
+      "canonicalPath": "/fipe/vespa/gts-super-300-0-898012-8/",
+      "ano": 0,
+      "marca": "VESPA"
+    },
+    {
+      "vehicleId": "vespa-gts-super-sport-300-0-gasolina",
+      "fipeCodigo": "898010-1",
+      "displayName": "VESPA GTS Super Sport 300",
+      "valorAtual": 84990,
+      "canonicalPath": "/fipe/vespa/gts-super-sport-300-0-898010-1/",
+      "ano": 0,
+      "marca": "VESPA"
+    },
+    {
+      "vehicleId": "vespa-gts-super-tech-300-0-gasolina",
+      "fipeCodigo": "898011-0",
+      "displayName": "VESPA GTS Super Tech 300",
+      "valorAtual": 84990,
+      "canonicalPath": "/fipe/vespa/gts-super-tech-300-0-898011-0/",
+      "ano": 0,
+      "marca": "VESPA"
+    }
+  ],
+  "stats": {
+    "total": 12,
+    "precoMin": 71318,
+    "precoMax": 84990,
+    "anos": [
+      2025,
+      2024,
+      0
+    ]
+  }
+}

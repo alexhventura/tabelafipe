@@ -1,0 +1,62 @@
+{
+  "tipo": "familia",
+  "slug": "rcz",
+  "canonicalPath": "/fipe/peugeot/rcz/",
+  "titulo": "Peugeot rcz - Tabela FIPE",
+  "descricao": "4 versoes e anos do Peugeot rcz na Tabela FIPE.",
+  "seo": {
+    "title": "Peugeot rcz - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes Peugeot rcz. 4 veiculos indexados.",
+    "h1": "Peugeot rcz - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/peugeot/rcz/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "peugeot-rcz-1-6-turbo-16v-2p-aut-2015-gasolina",
+      "fipeCodigo": "024182-2",
+      "displayName": "Peugeot RCZ 1.6 Turbo 16V 2p Aut.",
+      "valorAtual": 133692,
+      "canonicalPath": "/fipe/peugeot/rcz-1-6-turbo-16v-2p-aut-2015-024182-2/",
+      "ano": 2015,
+      "marca": "Peugeot"
+    },
+    {
+      "vehicleId": "peugeot-rcz-1-6-turbo-16v-2p-aut-2014-gasolina",
+      "fipeCodigo": "024182-2",
+      "displayName": "Peugeot RCZ 1.6 Turbo 16V 2p Aut.",
+      "valorAtual": 106901,
+      "canonicalPath": "/fipe/peugeot/rcz-1-6-turbo-16v-2p-aut-2014-024182-2/",
+      "ano": 2014,
+      "marca": "Peugeot"
+    },
+    {
+      "vehicleId": "peugeot-rcz-1-6-turbo-16v-2p-aut-2013-gasolina",
+      "fipeCodigo": "024182-2",
+      "displayName": "Peugeot RCZ 1.6 Turbo 16V 2p Aut.",
+      "valorAtual": 103652,
+      "canonicalPath": "/fipe/peugeot/rcz-1-6-turbo-16v-2p-aut-2013-024182-2/",
+      "ano": 2013,
+      "marca": "Peugeot"
+    },
+    {
+      "vehicleId": "peugeot-rcz-1-6-turbo-16v-2p-aut-2012-gasolina",
+      "fipeCodigo": "024182-2",
+      "displayName": "Peugeot RCZ 1.6 Turbo 16V 2p Aut.",
+      "valorAtual": 91427,
+      "canonicalPath": "/fipe/peugeot/rcz-1-6-turbo-16v-2p-aut-2012-024182-2/",
+      "ano": 2012,
+      "marca": "Peugeot"
+    }
+  ],
+  "stats": {
+    "total": 4,
+    "precoMin": 91427,
+    "precoMax": 133692,
+    "anos": [
+      2015,
+      2014,
+      2013,
+      2012
+    ]
+  }
+}

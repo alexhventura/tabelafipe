@@ -1,0 +1,57 @@
+{
+  "tipo": "geracao",
+  "slug": "shi-1",
+  "canonicalPath": "/geracao/shineray/shi-1/",
+  "titulo": "Geracao shi-1",
+  "descricao": "4 veiculos da geracao shi-1.",
+  "seo": {
+    "title": "Geracao shi-1 - Precos FIPE",
+    "description": "Veiculos da geracao shi-1 na Tabela FIPE.",
+    "h1": "Geracao shi-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/shineray/shi-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "shineray-shi-170-0-gasolina",
+      "fipeCodigo": "850058-4",
+      "displayName": "SHINERAY SHI 170",
+      "valorAtual": 14657,
+      "canonicalPath": "/fipe/shineray/shi-170-0-850058-4/",
+      "ano": 0,
+      "marca": "SHINERAY"
+    },
+    {
+      "vehicleId": "shineray-shi-175-0-gasolina",
+      "fipeCodigo": "850031-2",
+      "displayName": "SHINERAY SHI 175",
+      "valorAtual": 16402,
+      "canonicalPath": "/fipe/shineray/shi-175-0-850031-2/",
+      "ano": 0,
+      "marca": "SHINERAY"
+    },
+    {
+      "vehicleId": "shineray-shi-175-s-efi-0-gasolina",
+      "fipeCodigo": "850044-4",
+      "displayName": "SHINERAY SHI 175 S EFI",
+      "valorAtual": 18821,
+      "canonicalPath": "/fipe/shineray/shi-175-s-efi-0-850044-4/",
+      "ano": 0,
+      "marca": "SHINERAY"
+    },
+    {
+      "vehicleId": "shineray-shi-250-0-gasolina",
+      "fipeCodigo": "850055-0",
+      "displayName": "SHINERAY SHI 250",
+      "valorAtual": 22676,
+      "canonicalPath": "/fipe/shineray/shi-250-0-850055-0/",
+      "ano": 0,
+      "marca": "SHINERAY"
+    }
+  ],
+  "stats": {
+    "total": 4
+  },
+  "meta": {
+    "geracaoId": "shi-1"
+  }
+}

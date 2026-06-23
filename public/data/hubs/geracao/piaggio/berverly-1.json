@@ -1,0 +1,48 @@
+{
+  "tipo": "geracao",
+  "slug": "berverly-1",
+  "canonicalPath": "/geracao/piaggio/berverly-1/",
+  "titulo": "Geracao berverly-1",
+  "descricao": "3 veiculos da geracao berverly-1.",
+  "seo": {
+    "title": "Geracao berverly-1 - Precos FIPE",
+    "description": "Veiculos da geracao berverly-1 na Tabela FIPE.",
+    "h1": "Geracao berverly-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/piaggio/berverly-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "piaggio-berverly-touring-300-i-e-278cc-2010-gasolina",
+      "fipeCodigo": "822023-9",
+      "displayName": "PIAGGIO BERVERLY  TOURING 300  i.e 278cc",
+      "valorAtual": 20794,
+      "canonicalPath": "/fipe/piaggio/berverly-touring-300-i-e-278cc-2010-822023-9/",
+      "ano": 2010,
+      "marca": "PIAGGIO"
+    },
+    {
+      "vehicleId": "piaggio-berverly-touring-300-i-e-278cc-2011-gasolina",
+      "fipeCodigo": "822023-9",
+      "displayName": "PIAGGIO BERVERLY  TOURING 300  i.e 278cc",
+      "valorAtual": 22340,
+      "canonicalPath": "/fipe/piaggio/berverly-touring-300-i-e-278cc-2011-822023-9/",
+      "ano": 2011,
+      "marca": "PIAGGIO"
+    },
+    {
+      "vehicleId": "piaggio-berverly-touring-300-i-e-278cc-2012-gasolina",
+      "fipeCodigo": "822023-9",
+      "displayName": "PIAGGIO BERVERLY  TOURING 300  i.e 278cc",
+      "valorAtual": 26860,
+      "canonicalPath": "/fipe/piaggio/berverly-touring-300-i-e-278cc-2012-822023-9/",
+      "ano": 2012,
+      "marca": "PIAGGIO"
+    }
+  ],
+  "stats": {
+    "total": 3
+  },
+  "meta": {
+    "geracaoId": "berverly-1"
+  }
+}

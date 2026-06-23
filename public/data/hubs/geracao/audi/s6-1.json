@@ -1,0 +1,129 @@
+{
+  "tipo": "geracao",
+  "slug": "s6-1",
+  "canonicalPath": "/geracao/audi/s6-1/",
+  "titulo": "Geracao s6-1",
+  "descricao": "12 veiculos da geracao s6-1.",
+  "seo": {
+    "title": "Geracao s6-1 - Precos FIPE",
+    "description": "Veiculos da geracao s6-1 na Tabela FIPE.",
+    "h1": "Geracao s6-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/audi/s6-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "audi-s6-2-2-20v-tb-1994-gasolina",
+      "fipeCodigo": "008038-1",
+      "displayName": "Audi S6 2.2 20V TB",
+      "valorAtual": 16510,
+      "canonicalPath": "/fipe/audi/s6-2-2-20v-tb-1994-008038-1/",
+      "ano": 1994,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-s6-2-2-20v-tb-1995-gasolina",
+      "fipeCodigo": "008038-1",
+      "displayName": "Audi S6 2.2 20V TB",
+      "valorAtual": 18063,
+      "canonicalPath": "/fipe/audi/s6-2-2-20v-tb-1995-008038-1/",
+      "ano": 1995,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-s6-2-2-20v-tb-1996-gasolina",
+      "fipeCodigo": "008038-1",
+      "displayName": "Audi S6 2.2 20V TB",
+      "valorAtual": 19011,
+      "canonicalPath": "/fipe/audi/s6-2-2-20v-tb-1996-008038-1/",
+      "ano": 1996,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-s6-2-2-20v-tb-1997-gasolina",
+      "fipeCodigo": "008038-1",
+      "displayName": "Audi S6 2.2 20V TB",
+      "valorAtual": 20049,
+      "canonicalPath": "/fipe/audi/s6-2-2-20v-tb-1997-008038-1/",
+      "ano": 1997,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-s6-2-2-avant-20v-tb-1995-gasolina",
+      "fipeCodigo": "008078-0",
+      "displayName": "Audi S6 2.2 Avant 20V TB",
+      "valorAtual": 18214,
+      "canonicalPath": "/fipe/audi/s6-2-2-avant-20v-tb-1995-008078-0/",
+      "ano": 1995,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-s6-2-2-avant-20v-tb-1996-gasolina",
+      "fipeCodigo": "008078-0",
+      "displayName": "Audi S6 2.2 Avant 20V TB",
+      "valorAtual": 19476,
+      "canonicalPath": "/fipe/audi/s6-2-2-avant-20v-tb-1996-008078-0/",
+      "ano": 1996,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-s6-2-2-avant-20v-tb-1997-gasolina",
+      "fipeCodigo": "008078-0",
+      "displayName": "Audi S6 2.2 Avant 20V TB",
+      "valorAtual": 20477,
+      "canonicalPath": "/fipe/audi/s6-2-2-avant-20v-tb-1997-008078-0/",
+      "ano": 1997,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-s6-plus-4-2-avant-v8-32v-1997-gasolina",
+      "fipeCodigo": "008016-0",
+      "displayName": "Audi S6 Plus 4.2 Avant V8 32V",
+      "valorAtual": 28852,
+      "canonicalPath": "/fipe/audi/s6-plus-4-2-avant-v8-32v-1997-008016-0/",
+      "ano": 1997,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-s6-plus-4-2-avant-v8-32v-1998-gasolina",
+      "fipeCodigo": "008016-0",
+      "displayName": "Audi S6 Plus 4.2 Avant V8 32V",
+      "valorAtual": 30735,
+      "canonicalPath": "/fipe/audi/s6-plus-4-2-avant-v8-32v-1998-008016-0/",
+      "ano": 1998,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-s6-plus-4-2-v8-32v-1996-gasolina",
+      "fipeCodigo": "008039-0",
+      "displayName": "Audi S6 Plus 4.2 V8 32V",
+      "valorAtual": 19959,
+      "canonicalPath": "/fipe/audi/s6-plus-4-2-v8-32v-1996-008039-0/",
+      "ano": 1996,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-s6-plus-4-2-v8-32v-1997-gasolina",
+      "fipeCodigo": "008039-0",
+      "displayName": "Audi S6 Plus 4.2 V8 32V",
+      "valorAtual": 23647,
+      "canonicalPath": "/fipe/audi/s6-plus-4-2-v8-32v-1997-008039-0/",
+      "ano": 1997,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-s6-plus-4-2-v8-32v-1998-gasolina",
+      "fipeCodigo": "008039-0",
+      "displayName": "Audi S6 Plus 4.2 V8 32V",
+      "valorAtual": 27934,
+      "canonicalPath": "/fipe/audi/s6-plus-4-2-v8-32v-1998-008039-0/",
+      "ano": 1998,
+      "marca": "Audi"
+    }
+  ],
+  "stats": {
+    "total": 12
+  },
+  "meta": {
+    "geracaoId": "s6-1"
+  }
+}

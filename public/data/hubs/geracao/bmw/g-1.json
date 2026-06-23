@@ -1,0 +1,408 @@
+{
+  "tipo": "geracao",
+  "slug": "g-1",
+  "canonicalPath": "/geracao/bmw/g-1/",
+  "titulo": "Geracao g-1",
+  "descricao": "43 veiculos da geracao g-1.",
+  "seo": {
+    "title": "Geracao g-1 - Precos FIPE",
+    "description": "Veiculos da geracao g-1 na Tabela FIPE.",
+    "h1": "Geracao g-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/bmw/g-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "bmw-g-310-gs-0-gasolina",
+      "fipeCodigo": "803062-6",
+      "displayName": "BMW G 310 GS",
+      "valorAtual": 42394,
+      "canonicalPath": "/fipe/bmw/g-310-gs-0-803062-6/",
+      "ano": 0,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-g-310-r-0-gasolina",
+      "fipeCodigo": "803060-0",
+      "displayName": "BMW G 310 R",
+      "valorAtual": 38543,
+      "canonicalPath": "/fipe/bmw/g-310-r-0-803060-0/",
+      "ano": 0,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "mercedes-benz-g-63-amg-4m-4-0-v8-bi-tb-aut-hib-0-hibrido",
+      "fipeCodigo": "021549-0",
+      "displayName": "Mercedes-Benz G-63 AMG 4M 4.0 V8 Bi-TB Aut. (Híb.)",
+      "valorAtual": 2319553,
+      "canonicalPath": "/fipe/mercedes-benz/g-63-amg-4m-4-0-v8-bi-tb-aut-hib-0-021549-0/",
+      "ano": 0,
+      "marca": "Mercedes-Benz"
+    },
+    {
+      "vehicleId": "mercedes-benz-g-63-amg-4m-man-4-0-v8-bi-tb-aut-hib-0-gasolina",
+      "fipeCodigo": "021557-0",
+      "displayName": "Mercedes-Benz G-63 AMG 4M Man.4.0 V8 Bi-TB Aut. (Híb.)",
+      "valorAtual": 2392323,
+      "canonicalPath": "/fipe/mercedes-benz/g-63-amg-4m-man-4-0-v8-bi-tb-aut-hib-0-021557-0/",
+      "ano": 0,
+      "marca": "Mercedes-Benz"
+    },
+    {
+      "vehicleId": "scania-g-340-a-4x2-cng-2p-gnv-e6-0-gnv",
+      "fipeCodigo": "513426-9",
+      "displayName": "SCANIA G-340 A 4x2 CNG 2p (GNV)(E6)",
+      "valorAtual": 1175454,
+      "canonicalPath": "/fipe/scania/g-340-a-4x2-cng-2p-gnv-e6-0-513426-9/",
+      "ano": 0,
+      "marca": "SCANIA"
+    },
+    {
+      "vehicleId": "scania-g-360-b-6x2-2p-diesel-e6-0-diesel",
+      "fipeCodigo": "513455-2",
+      "displayName": "SCANIA G-360 B 6x2 2p (diesel)(E6)",
+      "valorAtual": 858750,
+      "canonicalPath": "/fipe/scania/g-360-b-6x2-2p-diesel-e6-0-513455-2/",
+      "ano": 0,
+      "marca": "SCANIA"
+    },
+    {
+      "vehicleId": "scania-g-360-b-8x2-2p-diesel-e6-0-diesel",
+      "fipeCodigo": "513367-0",
+      "displayName": "SCANIA G-360 B 8x2 2p (diesel)(E6)",
+      "valorAtual": 929122,
+      "canonicalPath": "/fipe/scania/g-360-b-8x2-2p-diesel-e6-0-513367-0/",
+      "ano": 0,
+      "marca": "SCANIA"
+    },
+    {
+      "vehicleId": "scania-g-370-a-4x2-2p-diesel-e6-0-diesel",
+      "fipeCodigo": "513440-4",
+      "displayName": "SCANIA G-370 A 4x2 2p (diesel)(E6)",
+      "valorAtual": 853007,
+      "canonicalPath": "/fipe/scania/g-370-a-4x2-2p-diesel-e6-0-513440-4/",
+      "ano": 0,
+      "marca": "SCANIA"
+    },
+    {
+      "vehicleId": "scania-g-370-a-6x2-2p-diesel-e6-0-diesel",
+      "fipeCodigo": "513370-0",
+      "displayName": "SCANIA G-370 A 6x2 2p (diesel)(E6)",
+      "valorAtual": 888024,
+      "canonicalPath": "/fipe/scania/g-370-a-6x2-2p-diesel-e6-0-513370-0/",
+      "ano": 0,
+      "marca": "SCANIA"
+    },
+    {
+      "vehicleId": "scania-g-410-a-6x2-cng-2p-gnv-e6-0-gnv",
+      "fipeCodigo": "513427-7",
+      "displayName": "SCANIA G-410 A 6x2 CNG 2p (GNV)(E6)",
+      "valorAtual": 1335381,
+      "canonicalPath": "/fipe/scania/g-410-a-6x2-cng-2p-gnv-e6-0-513427-7/",
+      "ano": 0,
+      "marca": "SCANIA"
+    },
+    {
+      "vehicleId": "scania-g-410-a-6x2-lng-2p-gnv-e6-0-gnv",
+      "fipeCodigo": "513428-5",
+      "displayName": "SCANIA G-410 A 6x2 LNG 2p (GNV)(E6)",
+      "valorAtual": 1390284,
+      "canonicalPath": "/fipe/scania/g-410-a-6x2-lng-2p-gnv-e6-0-513428-5/",
+      "ano": 0,
+      "marca": "SCANIA"
+    },
+    {
+      "vehicleId": "scania-g-410-a-6x4-cng-2p-gnv-e6-0-gnv",
+      "fipeCodigo": "513429-3",
+      "displayName": "SCANIA G-410 A 6x4 CNG 2p (GNV)(E6)",
+      "valorAtual": 1407474,
+      "canonicalPath": "/fipe/scania/g-410-a-6x4-cng-2p-gnv-e6-0-513429-3/",
+      "ano": 0,
+      "marca": "SCANIA"
+    },
+    {
+      "vehicleId": "scania-g-410-a-6x4-cng-xt-gnv-e6-0-gnv",
+      "fipeCodigo": "513438-2",
+      "displayName": "SCANIA G-410 A 6x4 CNG XT (GNV)(E6)",
+      "valorAtual": 1439122,
+      "canonicalPath": "/fipe/scania/g-410-a-6x4-cng-xt-gnv-e6-0-513438-2/",
+      "ano": 0,
+      "marca": "SCANIA"
+    },
+    {
+      "vehicleId": "scania-g-420-a-4x2-2p-diesel-e6-0-diesel",
+      "fipeCodigo": "513372-6",
+      "displayName": "SCANIA G-420 A 4x2 2p (diesel)(E6)",
+      "valorAtual": 956671,
+      "canonicalPath": "/fipe/scania/g-420-a-4x2-2p-diesel-e6-0-513372-6/",
+      "ano": 0,
+      "marca": "SCANIA"
+    },
+    {
+      "vehicleId": "scania-g-420-a-4x2-cng-2p-e6-0-gnv",
+      "fipeCodigo": "513457-9",
+      "displayName": "SCANIA G-420 A 4x2 CNG 2p (E6)",
+      "valorAtual": 1141184,
+      "canonicalPath": "/fipe/scania/g-420-a-4x2-cng-2p-e6-0-513457-9/",
+      "ano": 0,
+      "marca": "SCANIA"
+    },
+    {
+      "vehicleId": "scania-g-420-a-6x2-2p-diesel-e6-0-diesel",
+      "fipeCodigo": "513375-0",
+      "displayName": "SCANIA G-420 A 6x2 2p (diesel)(E6)",
+      "valorAtual": 1006149,
+      "canonicalPath": "/fipe/scania/g-420-a-6x2-2p-diesel-e6-0-513375-0/",
+      "ano": 0,
+      "marca": "SCANIA"
+    },
+    {
+      "vehicleId": "scania-g-420-b-6x4-2p-diesel-e6-0-diesel",
+      "fipeCodigo": "513446-3",
+      "displayName": "SCANIA G-420 B 6x4 2p (diesel)(E6)",
+      "valorAtual": 1131436,
+      "canonicalPath": "/fipe/scania/g-420-b-6x4-2p-diesel-e6-0-513446-3/",
+      "ano": 0,
+      "marca": "SCANIA"
+    },
+    {
+      "vehicleId": "scania-g-450-a-6x2-2p-diesel-e6-0-diesel",
+      "fipeCodigo": "513448-0",
+      "displayName": "SCANIA G-450 A 6x2 2p (diesel)(E6)",
+      "valorAtual": 1042457,
+      "canonicalPath": "/fipe/scania/g-450-a-6x2-2p-diesel-e6-0-513448-0/",
+      "ano": 0,
+      "marca": "SCANIA"
+    },
+    {
+      "vehicleId": "scania-g-450-b-6x4-xt-diesel-e6-0-diesel",
+      "fipeCodigo": "513447-1",
+      "displayName": "SCANIA G-450 B 6x4 XT (diesel)(E6)",
+      "valorAtual": 1155854,
+      "canonicalPath": "/fipe/scania/g-450-b-6x4-xt-diesel-e6-0-513447-1/",
+      "ano": 0,
+      "marca": "SCANIA"
+    },
+    {
+      "vehicleId": "scania-g-460-a-4x2-2p-diesel-e6-0-diesel",
+      "fipeCodigo": "513381-5",
+      "displayName": "SCANIA G-460 A 4x2 2p (diesel)(E6)",
+      "valorAtual": 1053218,
+      "canonicalPath": "/fipe/scania/g-460-a-4x2-2p-diesel-e6-0-513381-5/",
+      "ano": 0,
+      "marca": "SCANIA"
+    },
+    {
+      "vehicleId": "scania-g-460-a-4x2-xt-diesel-e6-0-diesel",
+      "fipeCodigo": "513384-0",
+      "displayName": "SCANIA G-460 A 4x2 XT (diesel)(E6)",
+      "valorAtual": 1075996,
+      "canonicalPath": "/fipe/scania/g-460-a-4x2-xt-diesel-e6-0-513384-0/",
+      "ano": 0,
+      "marca": "SCANIA"
+    },
+    {
+      "vehicleId": "scania-g-460-a-6x2-2p-diesel-e6-0-diesel",
+      "fipeCodigo": "513385-8",
+      "displayName": "SCANIA G-460 A 6x2 2p (diesel)(E6)",
+      "valorAtual": 1081639,
+      "canonicalPath": "/fipe/scania/g-460-a-6x2-2p-diesel-e6-0-513385-8/",
+      "ano": 0,
+      "marca": "SCANIA"
+    },
+    {
+      "vehicleId": "scania-g-460-a-6x2-cng-2p-gnv-e6-0-gnv",
+      "fipeCodigo": "513452-8",
+      "displayName": "SCANIA G-460 A 6x2 CNG 2p (GNV)(E6)",
+      "valorAtual": 1201415,
+      "canonicalPath": "/fipe/scania/g-460-a-6x2-cng-2p-gnv-e6-0-513452-8/",
+      "ano": 0,
+      "marca": "SCANIA"
+    },
+    {
+      "vehicleId": "scania-g-460-a-6x4-2p-diesel-e6-0-diesel",
+      "fipeCodigo": "513389-0",
+      "displayName": "SCANIA G-460 A 6x4 2p (diesel)(E6)",
+      "valorAtual": 1123125,
+      "canonicalPath": "/fipe/scania/g-460-a-6x4-2p-diesel-e6-0-513389-0/",
+      "ano": 0,
+      "marca": "SCANIA"
+    },
+    {
+      "vehicleId": "scania-g-460-a-6x4-cng-2p-e6-0-gnv",
+      "fipeCodigo": "513458-7",
+      "displayName": "SCANIA G-460 A 6x4 CNG 2p (E6)",
+      "valorAtual": 1325854,
+      "canonicalPath": "/fipe/scania/g-460-a-6x4-cng-2p-e6-0-513458-7/",
+      "ano": 0,
+      "marca": "SCANIA"
+    },
+    {
+      "vehicleId": "scania-g-460-a-6x4-xt-diesel-e6-0-diesel",
+      "fipeCodigo": "513391-2",
+      "displayName": "SCANIA G-460 A 6x4 XT (diesel)(E6)",
+      "valorAtual": 1174745,
+      "canonicalPath": "/fipe/scania/g-460-a-6x4-xt-diesel-e6-0-513391-2/",
+      "ano": 0,
+      "marca": "SCANIA"
+    },
+    {
+      "vehicleId": "scania-g-460-b-6x4-2p-diesel-e6-0-diesel",
+      "fipeCodigo": "513392-0",
+      "displayName": "SCANIA G-460 B 6x4 2p (diesel)(E6)",
+      "valorAtual": 1225214,
+      "canonicalPath": "/fipe/scania/g-460-b-6x4-2p-diesel-e6-0-513392-0/",
+      "ano": 0,
+      "marca": "SCANIA"
+    },
+    {
+      "vehicleId": "scania-g-460-b-6x4-xt-diesel-e6-0-diesel",
+      "fipeCodigo": "513393-9",
+      "displayName": "SCANIA G-460 B 6x4 XT (diesel)(E6)",
+      "valorAtual": 1228854,
+      "canonicalPath": "/fipe/scania/g-460-b-6x4-xt-diesel-e6-0-513393-9/",
+      "ano": 0,
+      "marca": "SCANIA"
+    },
+    {
+      "vehicleId": "scania-g-460-b-8x4-2p-diesel-e6-0-diesel",
+      "fipeCodigo": "513394-7",
+      "displayName": "SCANIA G-460 B 8x4 2p (diesel)(E6)",
+      "valorAtual": 1439014,
+      "canonicalPath": "/fipe/scania/g-460-b-8x4-2p-diesel-e6-0-513394-7/",
+      "ano": 0,
+      "marca": "SCANIA"
+    },
+    {
+      "vehicleId": "scania-g-460-b-8x4-xt-diesel-e6-0-diesel",
+      "fipeCodigo": "513395-5",
+      "displayName": "SCANIA G-460 B 8x4 XT (diesel)(E6)",
+      "valorAtual": 1462615,
+      "canonicalPath": "/fipe/scania/g-460-b-8x4-xt-diesel-e6-0-513395-5/",
+      "ano": 0,
+      "marca": "SCANIA"
+    },
+    {
+      "vehicleId": "scania-g-500-a-6x4-2p-diesel-e6-0-diesel",
+      "fipeCodigo": "513398-0",
+      "displayName": "SCANIA G-500 A 6x4 2p (diesel)(E6)",
+      "valorAtual": 1123251,
+      "canonicalPath": "/fipe/scania/g-500-a-6x4-2p-diesel-e6-0-513398-0/",
+      "ano": 0,
+      "marca": "SCANIA"
+    },
+    {
+      "vehicleId": "scania-g-500-a-6x4-xt-diesel-e6-0-diesel",
+      "fipeCodigo": "513400-5",
+      "displayName": "SCANIA G-500 A 6x4 XT (diesel)(E6)",
+      "valorAtual": 1174759,
+      "canonicalPath": "/fipe/scania/g-500-a-6x4-xt-diesel-e6-0-513400-5/",
+      "ano": 0,
+      "marca": "SCANIA"
+    },
+    {
+      "vehicleId": "scania-g-500-b-6x4-2p-diesel-e6-0-diesel",
+      "fipeCodigo": "513403-0",
+      "displayName": "SCANIA G-500 B 6x4 2p (diesel)(E6)",
+      "valorAtual": 1228912,
+      "canonicalPath": "/fipe/scania/g-500-b-6x4-2p-diesel-e6-0-513403-0/",
+      "ano": 0,
+      "marca": "SCANIA"
+    },
+    {
+      "vehicleId": "scania-g-500-b-6x4-xt-diesel-e6-0-diesel",
+      "fipeCodigo": "513404-8",
+      "displayName": "SCANIA G-500 B 6x4 XT (diesel)(E6)",
+      "valorAtual": 1228945,
+      "canonicalPath": "/fipe/scania/g-500-b-6x4-xt-diesel-e6-0-513404-8/",
+      "ano": 0,
+      "marca": "SCANIA"
+    },
+    {
+      "vehicleId": "scania-g-500-b-8x4-2p-diesel-e6-0-diesel",
+      "fipeCodigo": "513405-6",
+      "displayName": "SCANIA G-500 B 8x4 2p (diesel)(E6)",
+      "valorAtual": 1439125,
+      "canonicalPath": "/fipe/scania/g-500-b-8x4-2p-diesel-e6-0-513405-6/",
+      "ano": 0,
+      "marca": "SCANIA"
+    },
+    {
+      "vehicleId": "scania-g-500-b-8x4-xt-diesel-e6-0-diesel",
+      "fipeCodigo": "513406-4",
+      "displayName": "SCANIA G-500 B 8x4 XT (diesel)(E6)",
+      "valorAtual": 1462745,
+      "canonicalPath": "/fipe/scania/g-500-b-8x4-xt-diesel-e6-0-513406-4/",
+      "ano": 0,
+      "marca": "SCANIA"
+    },
+    {
+      "vehicleId": "scania-g-540-a-6x4-2p-e6-0-diesel",
+      "fipeCodigo": "513459-5",
+      "displayName": "SCANIA G-540 A 6x4 2p (E6)",
+      "valorAtual": 1170000,
+      "canonicalPath": "/fipe/scania/g-540-a-6x4-2p-e6-0-513459-5/",
+      "ano": 0,
+      "marca": "SCANIA"
+    },
+    {
+      "vehicleId": "scania-g-560-a-6x4-2p-diesel-e6-0-diesel",
+      "fipeCodigo": "513409-9",
+      "displayName": "SCANIA G-560 A 6x4 2p (diesel)(E6)",
+      "valorAtual": 1185653,
+      "canonicalPath": "/fipe/scania/g-560-a-6x4-2p-diesel-e6-0-513409-9/",
+      "ano": 0,
+      "marca": "SCANIA"
+    },
+    {
+      "vehicleId": "scania-g-560-a-6x4-xt-diesel-e6-0-diesel",
+      "fipeCodigo": "513412-9",
+      "displayName": "SCANIA G-560 A 6x4 XT (diesel)(E6)",
+      "valorAtual": 1220154,
+      "canonicalPath": "/fipe/scania/g-560-a-6x4-xt-diesel-e6-0-513412-9/",
+      "ano": 0,
+      "marca": "SCANIA"
+    },
+    {
+      "vehicleId": "scania-g-560-b-6x4-2p-diesel-e6-0-diesel",
+      "fipeCodigo": "513414-5",
+      "displayName": "SCANIA G-560 B 6x4 2p (diesel)(E6)",
+      "valorAtual": 1228925,
+      "canonicalPath": "/fipe/scania/g-560-b-6x4-2p-diesel-e6-0-513414-5/",
+      "ano": 0,
+      "marca": "SCANIA"
+    },
+    {
+      "vehicleId": "scania-g-560-b-6x4-xt-diesel-e6-0-diesel",
+      "fipeCodigo": "513434-0",
+      "displayName": "SCANIA G-560 B 6x4 XT (diesel)(E6)",
+      "valorAtual": 1267981,
+      "canonicalPath": "/fipe/scania/g-560-b-6x4-xt-diesel-e6-0-513434-0/",
+      "ano": 0,
+      "marca": "SCANIA"
+    },
+    {
+      "vehicleId": "scania-g-560-b-8x4-2p-diesel-e6-0-diesel",
+      "fipeCodigo": "513436-6",
+      "displayName": "SCANIA G-560 B 8x4 2p (diesel)(E6)",
+      "valorAtual": 1439214,
+      "canonicalPath": "/fipe/scania/g-560-b-8x4-2p-diesel-e6-0-513436-6/",
+      "ano": 0,
+      "marca": "SCANIA"
+    },
+    {
+      "vehicleId": "scania-g-560-b-8x4-xt-diesel-e6-0-diesel",
+      "fipeCodigo": "513437-4",
+      "displayName": "SCANIA G-560 B 8x4 XT (diesel)(E6)",
+      "valorAtual": 1462854,
+      "canonicalPath": "/fipe/scania/g-560-b-8x4-xt-diesel-e6-0-513437-4/",
+      "ano": 0,
+      "marca": "SCANIA"
+    }
+  ],
+  "stats": {
+    "total": 43
+  },
+  "meta": {
+    "geracaoId": "g-1"
+  }
+}

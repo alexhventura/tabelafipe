@@ -1,0 +1,82 @@
+{
+  "tipo": "familia",
+  "slug": "bw",
+  "canonicalPath": "/fipe/yamaha/bw/",
+  "titulo": "YAMAHA bw - Tabela FIPE",
+  "descricao": "6 versoes e anos do YAMAHA bw na Tabela FIPE.",
+  "seo": {
+    "title": "YAMAHA bw - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes YAMAHA bw. 6 veiculos indexados.",
+    "h1": "YAMAHA bw - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/yamaha/bw/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "yamaha-bw-s-50-2000-gasolina",
+      "fipeCodigo": "827003-1",
+      "displayName": "YAMAHA BW S 50",
+      "valorAtual": 2882,
+      "canonicalPath": "/fipe/yamaha/bw-s-50-2000-827003-1/",
+      "ano": 2000,
+      "marca": "YAMAHA"
+    },
+    {
+      "vehicleId": "yamaha-bw-s-50-1999-gasolina",
+      "fipeCodigo": "827003-1",
+      "displayName": "YAMAHA BW S 50",
+      "valorAtual": 2544,
+      "canonicalPath": "/fipe/yamaha/bw-s-50-1999-827003-1/",
+      "ano": 1999,
+      "marca": "YAMAHA"
+    },
+    {
+      "vehicleId": "yamaha-bw-s-50-1998-gasolina",
+      "fipeCodigo": "827003-1",
+      "displayName": "YAMAHA BW S 50",
+      "valorAtual": 2010,
+      "canonicalPath": "/fipe/yamaha/bw-s-50-1998-827003-1/",
+      "ano": 1998,
+      "marca": "YAMAHA"
+    },
+    {
+      "vehicleId": "yamaha-bw-s-50-1997-gasolina",
+      "fipeCodigo": "827003-1",
+      "displayName": "YAMAHA BW S 50",
+      "valorAtual": 1753,
+      "canonicalPath": "/fipe/yamaha/bw-s-50-1997-827003-1/",
+      "ano": 1997,
+      "marca": "YAMAHA"
+    },
+    {
+      "vehicleId": "yamaha-bw-s-50-1996-gasolina",
+      "fipeCodigo": "827003-1",
+      "displayName": "YAMAHA BW S 50",
+      "valorAtual": 1534,
+      "canonicalPath": "/fipe/yamaha/bw-s-50-1996-827003-1/",
+      "ano": 1996,
+      "marca": "YAMAHA"
+    },
+    {
+      "vehicleId": "yamaha-bw-s-50-1995-gasolina",
+      "fipeCodigo": "827003-1",
+      "displayName": "YAMAHA BW S 50",
+      "valorAtual": 1387,
+      "canonicalPath": "/fipe/yamaha/bw-s-50-1995-827003-1/",
+      "ano": 1995,
+      "marca": "YAMAHA"
+    }
+  ],
+  "stats": {
+    "total": 6,
+    "precoMin": 1387,
+    "precoMax": 2882,
+    "anos": [
+      2000,
+      1999,
+      1998,
+      1997,
+      1996,
+      1995
+    ]
+  }
+}

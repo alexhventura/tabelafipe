@@ -1,0 +1,52 @@
+{
+  "tipo": "familia",
+  "slug": "enjoy",
+  "canonicalPath": "/fipe/sanyang/enjoy/",
+  "titulo": "SANYANG enjoy - Tabela FIPE",
+  "descricao": "3 versoes e anos do SANYANG enjoy na Tabela FIPE.",
+  "seo": {
+    "title": "SANYANG enjoy - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes SANYANG enjoy. 3 veiculos indexados.",
+    "h1": "SANYANG enjoy - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/sanyang/enjoy/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "sanyang-enjoy-50-1998-gasolina",
+      "fipeCodigo": "823001-3",
+      "displayName": "SANYANG ENJOY 50",
+      "valorAtual": 1261,
+      "canonicalPath": "/fipe/sanyang/enjoy-50-1998-823001-3/",
+      "ano": 1998,
+      "marca": "SANYANG"
+    },
+    {
+      "vehicleId": "sanyang-enjoy-50-1997-gasolina",
+      "fipeCodigo": "823001-3",
+      "displayName": "SANYANG ENJOY 50",
+      "valorAtual": 1114,
+      "canonicalPath": "/fipe/sanyang/enjoy-50-1997-823001-3/",
+      "ano": 1997,
+      "marca": "SANYANG"
+    },
+    {
+      "vehicleId": "sanyang-enjoy-50-1996-gasolina",
+      "fipeCodigo": "823001-3",
+      "displayName": "SANYANG ENJOY 50",
+      "valorAtual": 977,
+      "canonicalPath": "/fipe/sanyang/enjoy-50-1996-823001-3/",
+      "ano": 1996,
+      "marca": "SANYANG"
+    }
+  ],
+  "stats": {
+    "total": 3,
+    "precoMin": 977,
+    "precoMax": 1261,
+    "anos": [
+      1998,
+      1997,
+      1996
+    ]
+  }
+}

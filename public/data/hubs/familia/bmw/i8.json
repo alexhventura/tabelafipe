@@ -1,0 +1,71 @@
+{
+  "tipo": "familia",
+  "slug": "i8",
+  "canonicalPath": "/fipe/bmw/i8/",
+  "titulo": "BMW i8 - Tabela FIPE",
+  "descricao": "5 versoes e anos do BMW i8 na Tabela FIPE.",
+  "seo": {
+    "title": "BMW i8 - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes BMW i8. 5 veiculos indexados.",
+    "h1": "BMW i8 - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/bmw/i8/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "bmw-i8-road-e-drive-1-5-tb-12v-aut-hib-2020-hibrido",
+      "fipeCodigo": "009259-2",
+      "displayName": "BMW i8 Road. e-Drive 1.5 TB 12V Aut. (Híb.)",
+      "valorAtual": 808664,
+      "canonicalPath": "/fipe/bmw/i8-road-e-drive-1-5-tb-12v-aut-hib-2020-009259-2/",
+      "ano": 2020,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-i8-e-drive-1-5-tb-12v-aut-hibrido-2020-hibrido",
+      "fipeCodigo": "009197-9",
+      "displayName": "BMW i8 e-Drive 1.5 TB 12V  Aut. (Híbrido)",
+      "valorAtual": 819764,
+      "canonicalPath": "/fipe/bmw/i8-e-drive-1-5-tb-12v-aut-hibrido-2020-009197-9/",
+      "ano": 2020,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-i8-road-e-drive-1-5-tb-12v-aut-hib-2019-hibrido",
+      "fipeCodigo": "009259-2",
+      "displayName": "BMW i8 Road. e-Drive 1.5 TB 12V Aut. (Híb.)",
+      "valorAtual": 740449,
+      "canonicalPath": "/fipe/bmw/i8-road-e-drive-1-5-tb-12v-aut-hib-2019-009259-2/",
+      "ano": 2019,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-i8-e-drive-1-5-tb-12v-aut-hibrido-2016-hibrido",
+      "fipeCodigo": "009197-9",
+      "displayName": "BMW i8 e-Drive 1.5 TB 12V  Aut. (Híbrido)",
+      "valorAtual": 544844,
+      "canonicalPath": "/fipe/bmw/i8-e-drive-1-5-tb-12v-aut-hibrido-2016-009197-9/",
+      "ano": 2016,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-i8-e-drive-1-5-tb-12v-aut-hibrido-2015-hibrido",
+      "fipeCodigo": "009197-9",
+      "displayName": "BMW i8 e-Drive 1.5 TB 12V  Aut. (Híbrido)",
+      "valorAtual": 531555,
+      "canonicalPath": "/fipe/bmw/i8-e-drive-1-5-tb-12v-aut-hibrido-2015-009197-9/",
+      "ano": 2015,
+      "marca": "BMW"
+    }
+  ],
+  "stats": {
+    "total": 5,
+    "precoMin": 531555,
+    "precoMax": 819764,
+    "anos": [
+      2020,
+      2019,
+      2016,
+      2015
+    ]
+  }
+}

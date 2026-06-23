@@ -1,0 +1,61 @@
+{
+  "tipo": "familia",
+  "slug": "xvr",
+  "canonicalPath": "/fipe/polaris/xvr/",
+  "titulo": "POLARIS xvr - Tabela FIPE",
+  "descricao": "4 versoes e anos do POLARIS xvr na Tabela FIPE.",
+  "seo": {
+    "title": "POLARIS xvr - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes POLARIS xvr. 4 veiculos indexados.",
+    "h1": "POLARIS xvr - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/polaris/xvr/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "polaris-xvr-xpedition-xp-5-northstar-adv-4x4-utv-2025-gasolina",
+      "fipeCodigo": "884033-4",
+      "displayName": "POLARIS XVR XPEDITION XP 5 NORTHSTAR ADV 4x4 (UTV)",
+      "valorAtual": 254389,
+      "canonicalPath": "/fipe/polaris/xvr-xpedition-xp-5-northstar-adv-4x4-utv-2025-884033-4/",
+      "ano": 2025,
+      "marca": "POLARIS"
+    },
+    {
+      "vehicleId": "polaris-xvr-xpedition-xp-5-ultimate-4x4-utv-2024-gasolina",
+      "fipeCodigo": "884030-0",
+      "displayName": "POLARIS XVR XPEDITION XP 5 Ultimate 4X4 (UTV)",
+      "valorAtual": 202632,
+      "canonicalPath": "/fipe/polaris/xvr-xpedition-xp-5-ultimate-4x4-utv-2024-884030-0/",
+      "ano": 2024,
+      "marca": "POLARIS"
+    },
+    {
+      "vehicleId": "polaris-xvr-xpedition-xp-5-ultimate-4x4-utv-0-gasolina",
+      "fipeCodigo": "884030-0",
+      "displayName": "POLARIS XVR XPEDITION XP 5 Ultimate 4X4 (UTV)",
+      "valorAtual": 251678,
+      "canonicalPath": "/fipe/polaris/xvr-xpedition-xp-5-ultimate-4x4-utv-0-884030-0/",
+      "ano": 0,
+      "marca": "POLARIS"
+    },
+    {
+      "vehicleId": "polaris-xvr-xpedition-xp-5-northstar-adv-4x4-utv-0-gasolina",
+      "fipeCodigo": "884033-4",
+      "displayName": "POLARIS XVR XPEDITION XP 5 NORTHSTAR ADV 4x4 (UTV)",
+      "valorAtual": 309865,
+      "canonicalPath": "/fipe/polaris/xvr-xpedition-xp-5-northstar-adv-4x4-utv-0-884033-4/",
+      "ano": 0,
+      "marca": "POLARIS"
+    }
+  ],
+  "stats": {
+    "total": 4,
+    "precoMin": 202632,
+    "precoMax": 309865,
+    "anos": [
+      2025,
+      2024,
+      0
+    ]
+  }
+}

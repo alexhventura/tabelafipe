@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "plutus-1",
+  "canonicalPath": "/geracao/effa/plutus-1/",
+  "titulo": "Geracao plutus-1",
+  "descricao": "2 veiculos da geracao plutus-1.",
+  "seo": {
+    "title": "Geracao plutus-1 - Precos FIPE",
+    "description": "Veiculos da geracao plutus-1 na Tabela FIPE.",
+    "h1": "Geracao plutus-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/effa/plutus-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "effa-plutus-3-2-8v-4x2-cd-turbo-diesel-2011-diesel",
+      "fipeCodigo": "066011-6",
+      "displayName": "EFFA Plutus 3.2 8V 4x2 CD Turbo Diesel",
+      "valorAtual": 29291,
+      "canonicalPath": "/fipe/effa/plutus-3-2-8v-4x2-cd-turbo-diesel-2011-066011-6/",
+      "ano": 2011,
+      "marca": "EFFA"
+    },
+    {
+      "vehicleId": "effa-plutus-3-2-8v-4x2-cd-turbo-diesel-2012-diesel",
+      "fipeCodigo": "066011-6",
+      "displayName": "EFFA Plutus 3.2 8V 4x2 CD Turbo Diesel",
+      "valorAtual": 32985,
+      "canonicalPath": "/fipe/effa/plutus-3-2-8v-4x2-cd-turbo-diesel-2012-066011-6/",
+      "ano": 2012,
+      "marca": "EFFA"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "plutus-1"
+  }
+}

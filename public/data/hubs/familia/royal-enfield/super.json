@@ -1,0 +1,116 @@
+{
+  "tipo": "familia",
+  "slug": "super",
+  "canonicalPath": "/fipe/royal-enfield/super/",
+  "titulo": "Royal Enfield super - Tabela FIPE",
+  "descricao": "10 versoes e anos do Royal Enfield super na Tabela FIPE.",
+  "seo": {
+    "title": "Royal Enfield super - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes Royal Enfield super. 10 veiculos indexados.",
+    "h1": "Royal Enfield super - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/royal-enfield/super/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "royal-enfield-super-meteor-650-astral-2026-gasolina",
+      "fipeCodigo": "879034-5",
+      "displayName": "Royal Enfield Super Meteor 650 Astral",
+      "valorAtual": 33169,
+      "canonicalPath": "/fipe/royal-enfield/super-meteor-650-astral-2026-879034-5/",
+      "ano": 2026,
+      "marca": "Royal Enfield"
+    },
+    {
+      "vehicleId": "royal-enfield-super-meteor-650-interstellar-2026-gasolina",
+      "fipeCodigo": "879035-3",
+      "displayName": "Royal Enfield Super Meteor 650 Interstellar",
+      "valorAtual": 33760,
+      "canonicalPath": "/fipe/royal-enfield/super-meteor-650-interstellar-2026-879035-3/",
+      "ano": 2026,
+      "marca": "Royal Enfield"
+    },
+    {
+      "vehicleId": "royal-enfield-super-meteor-650-celestial-2026-gasolina",
+      "fipeCodigo": "879036-1",
+      "displayName": "Royal Enfield Super Meteor 650 Celestial",
+      "valorAtual": 35489,
+      "canonicalPath": "/fipe/royal-enfield/super-meteor-650-celestial-2026-879036-1/",
+      "ano": 2026,
+      "marca": "Royal Enfield"
+    },
+    {
+      "vehicleId": "royal-enfield-super-meteor-650-astral-2025-gasolina",
+      "fipeCodigo": "879034-5",
+      "displayName": "Royal Enfield Super Meteor 650 Astral",
+      "valorAtual": 32154,
+      "canonicalPath": "/fipe/royal-enfield/super-meteor-650-astral-2025-879034-5/",
+      "ano": 2025,
+      "marca": "Royal Enfield"
+    },
+    {
+      "vehicleId": "royal-enfield-super-meteor-650-interstellar-2025-gasolina",
+      "fipeCodigo": "879035-3",
+      "displayName": "Royal Enfield Super Meteor 650 Interstellar",
+      "valorAtual": 32883,
+      "canonicalPath": "/fipe/royal-enfield/super-meteor-650-interstellar-2025-879035-3/",
+      "ano": 2025,
+      "marca": "Royal Enfield"
+    },
+    {
+      "vehicleId": "royal-enfield-super-meteor-650-celestial-2025-gasolina",
+      "fipeCodigo": "879036-1",
+      "displayName": "Royal Enfield Super Meteor 650 Celestial",
+      "valorAtual": 34518,
+      "canonicalPath": "/fipe/royal-enfield/super-meteor-650-celestial-2025-879036-1/",
+      "ano": 2025,
+      "marca": "Royal Enfield"
+    },
+    {
+      "vehicleId": "royal-enfield-super-meteor-650-astral-2024-gasolina",
+      "fipeCodigo": "879034-5",
+      "displayName": "Royal Enfield Super Meteor 650 Astral",
+      "valorAtual": 30943,
+      "canonicalPath": "/fipe/royal-enfield/super-meteor-650-astral-2024-879034-5/",
+      "ano": 2024,
+      "marca": "Royal Enfield"
+    },
+    {
+      "vehicleId": "royal-enfield-super-meteor-650-astral-0-gasolina",
+      "fipeCodigo": "879034-5",
+      "displayName": "Royal Enfield Super Meteor 650 Astral",
+      "valorAtual": 34893,
+      "canonicalPath": "/fipe/royal-enfield/super-meteor-650-astral-0-879034-5/",
+      "ano": 0,
+      "marca": "Royal Enfield"
+    },
+    {
+      "vehicleId": "royal-enfield-super-meteor-650-interstellar-0-gasolina",
+      "fipeCodigo": "879035-3",
+      "displayName": "Royal Enfield Super Meteor 650 Interstellar",
+      "valorAtual": 35442,
+      "canonicalPath": "/fipe/royal-enfield/super-meteor-650-interstellar-0-879035-3/",
+      "ano": 0,
+      "marca": "Royal Enfield"
+    },
+    {
+      "vehicleId": "royal-enfield-super-meteor-650-celestial-0-gasolina",
+      "fipeCodigo": "879036-1",
+      "displayName": "Royal Enfield Super Meteor 650 Celestial",
+      "valorAtual": 37078,
+      "canonicalPath": "/fipe/royal-enfield/super-meteor-650-celestial-0-879036-1/",
+      "ano": 0,
+      "marca": "Royal Enfield"
+    }
+  ],
+  "stats": {
+    "total": 10,
+    "precoMin": 30943,
+    "precoMax": 37078,
+    "anos": [
+      2026,
+      2025,
+      2024,
+      0
+    ]
+  }
+}

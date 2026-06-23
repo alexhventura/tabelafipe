@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "hiace-1",
+  "canonicalPath": "/geracao/toyota/hiace-1/",
+  "titulo": "Geracao hiace-1",
+  "descricao": "2 veiculos da geracao hiace-1.",
+  "seo": {
+    "title": "Geracao hiace-1 - Precos FIPE",
+    "description": "Veiculos da geracao hiace-1 na Tabela FIPE.",
+    "h1": "Geracao hiace-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/toyota/hiace-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "toyota-hiace-furgao-dx-2-8-tdi-aut-0-diesel",
+      "fipeCodigo": "002227-6",
+      "displayName": "Toyota Hiace Furgão DX 2.8 TDI Aut.",
+      "valorAtual": 304990,
+      "canonicalPath": "/fipe/toyota/hiace-furgao-dx-2-8-tdi-aut-0-002227-6/",
+      "ano": 0,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-hiace-minibus-dx-2-8-tdi-16l-aut-0-diesel",
+      "fipeCodigo": "002221-7",
+      "displayName": "Toyota Hiace Minibus DX 2.8 TDI 16L Aut.",
+      "valorAtual": 344990,
+      "canonicalPath": "/fipe/toyota/hiace-minibus-dx-2-8-tdi-16l-aut-0-002221-7/",
+      "ano": 0,
+      "marca": "Toyota"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "hiace-1"
+  }
+}

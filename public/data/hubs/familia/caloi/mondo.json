@@ -1,0 +1,42 @@
+{
+  "tipo": "familia",
+  "slug": "mondo",
+  "canonicalPath": "/fipe/caloi/mondo/",
+  "titulo": "CALOI mondo - Tabela FIPE",
+  "descricao": "2 versoes e anos do CALOI mondo na Tabela FIPE.",
+  "seo": {
+    "title": "CALOI mondo - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes CALOI mondo. 2 veiculos indexados.",
+    "h1": "CALOI mondo - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/caloi/mondo/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "caloi-mondo-75cc-1998-gasolina",
+      "fipeCodigo": "806002-9",
+      "displayName": "CALOI MONDO 75cc",
+      "valorAtual": 1817,
+      "canonicalPath": "/fipe/caloi/mondo-75cc-1998-806002-9/",
+      "ano": 1998,
+      "marca": "CALOI"
+    },
+    {
+      "vehicleId": "caloi-mondo-75cc-1997-gasolina",
+      "fipeCodigo": "806002-9",
+      "displayName": "CALOI MONDO 75cc",
+      "valorAtual": 1765,
+      "canonicalPath": "/fipe/caloi/mondo-75cc-1997-806002-9/",
+      "ano": 1997,
+      "marca": "CALOI"
+    }
+  ],
+  "stats": {
+    "total": 2,
+    "precoMin": 1765,
+    "precoMax": 1817,
+    "anos": [
+      1998,
+      1997
+    ]
+  }
+}

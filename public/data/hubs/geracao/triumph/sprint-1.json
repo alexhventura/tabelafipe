@@ -1,0 +1,147 @@
+{
+  "tipo": "geracao",
+  "slug": "sprint-1",
+  "canonicalPath": "/geracao/triumph/sprint-1/",
+  "titulo": "Geracao sprint-1",
+  "descricao": "14 veiculos da geracao sprint-1.",
+  "seo": {
+    "title": "Geracao sprint-1 - Precos FIPE",
+    "description": "Veiculos da geracao sprint-1 na Tabela FIPE.",
+    "h1": "Geracao sprint-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/triumph/sprint-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "triumph-sprint-900-1995-gasolina",
+      "fipeCodigo": "826009-5",
+      "displayName": "TRIUMPH SPRINT 900",
+      "valorAtual": 12149,
+      "canonicalPath": "/fipe/triumph/sprint-900-1995-826009-5/",
+      "ano": 1995,
+      "marca": "TRIUMPH"
+    },
+    {
+      "vehicleId": "triumph-sprint-900-1996-gasolina",
+      "fipeCodigo": "826009-5",
+      "displayName": "TRIUMPH SPRINT 900",
+      "valorAtual": 12453,
+      "canonicalPath": "/fipe/triumph/sprint-900-1996-826009-5/",
+      "ano": 1996,
+      "marca": "TRIUMPH"
+    },
+    {
+      "vehicleId": "triumph-sprint-900-1997-gasolina",
+      "fipeCodigo": "826009-5",
+      "displayName": "TRIUMPH SPRINT 900",
+      "valorAtual": 12765,
+      "canonicalPath": "/fipe/triumph/sprint-900-1997-826009-5/",
+      "ano": 1997,
+      "marca": "TRIUMPH"
+    },
+    {
+      "vehicleId": "triumph-sprint-900-1998-gasolina",
+      "fipeCodigo": "826009-5",
+      "displayName": "TRIUMPH SPRINT 900",
+      "valorAtual": 13085,
+      "canonicalPath": "/fipe/triumph/sprint-900-1998-826009-5/",
+      "ano": 1998,
+      "marca": "TRIUMPH"
+    },
+    {
+      "vehicleId": "triumph-sprint-900-1999-gasolina",
+      "fipeCodigo": "826009-5",
+      "displayName": "TRIUMPH SPRINT 900",
+      "valorAtual": 13413,
+      "canonicalPath": "/fipe/triumph/sprint-900-1999-826009-5/",
+      "ano": 1999,
+      "marca": "TRIUMPH"
+    },
+    {
+      "vehicleId": "triumph-sprint-900-2000-gasolina",
+      "fipeCodigo": "826009-5",
+      "displayName": "TRIUMPH SPRINT 900",
+      "valorAtual": 13749,
+      "canonicalPath": "/fipe/triumph/sprint-900-2000-826009-5/",
+      "ano": 2000,
+      "marca": "TRIUMPH"
+    },
+    {
+      "vehicleId": "triumph-sprint-rs-955-2000-gasolina",
+      "fipeCodigo": "826020-6",
+      "displayName": "TRIUMPH SPRINT RS 955",
+      "valorAtual": 16205,
+      "canonicalPath": "/fipe/triumph/sprint-rs-955-2000-826020-6/",
+      "ano": 2000,
+      "marca": "TRIUMPH"
+    },
+    {
+      "vehicleId": "triumph-sprint-rs-955-2001-gasolina",
+      "fipeCodigo": "826020-6",
+      "displayName": "TRIUMPH SPRINT RS 955",
+      "valorAtual": 17842,
+      "canonicalPath": "/fipe/triumph/sprint-rs-955-2001-826020-6/",
+      "ano": 2001,
+      "marca": "TRIUMPH"
+    },
+    {
+      "vehicleId": "triumph-sprint-rs-955-2002-gasolina",
+      "fipeCodigo": "826020-6",
+      "displayName": "TRIUMPH SPRINT RS 955",
+      "valorAtual": 20747,
+      "canonicalPath": "/fipe/triumph/sprint-rs-955-2002-826020-6/",
+      "ano": 2002,
+      "marca": "TRIUMPH"
+    },
+    {
+      "vehicleId": "triumph-sprint-st-955-1999-gasolina",
+      "fipeCodigo": "826019-2",
+      "displayName": "TRIUMPH SPRINT ST 955",
+      "valorAtual": 14145,
+      "canonicalPath": "/fipe/triumph/sprint-st-955-1999-826019-2/",
+      "ano": 1999,
+      "marca": "TRIUMPH"
+    },
+    {
+      "vehicleId": "triumph-sprint-st-955-2000-gasolina",
+      "fipeCodigo": "826019-2",
+      "displayName": "TRIUMPH SPRINT ST 955",
+      "valorAtual": 16302,
+      "canonicalPath": "/fipe/triumph/sprint-st-955-2000-826019-2/",
+      "ano": 2000,
+      "marca": "TRIUMPH"
+    },
+    {
+      "vehicleId": "triumph-sprint-st-955-2001-gasolina",
+      "fipeCodigo": "826019-2",
+      "displayName": "TRIUMPH SPRINT ST 955",
+      "valorAtual": 18309,
+      "canonicalPath": "/fipe/triumph/sprint-st-955-2001-826019-2/",
+      "ano": 2001,
+      "marca": "TRIUMPH"
+    },
+    {
+      "vehicleId": "vespa-sprint-150-0-gasolina",
+      "fipeCodigo": "898005-5",
+      "displayName": "VESPA Sprint 150",
+      "valorAtual": 52990,
+      "canonicalPath": "/fipe/vespa/sprint-150-0-898005-5/",
+      "ano": 0,
+      "marca": "VESPA"
+    },
+    {
+      "vehicleId": "vespa-sprint-s-150-0-gasolina",
+      "fipeCodigo": "898006-3",
+      "displayName": "VESPA Sprint S 150",
+      "valorAtual": 59789,
+      "canonicalPath": "/fipe/vespa/sprint-s-150-0-898006-3/",
+      "ano": 0,
+      "marca": "VESPA"
+    }
+  ],
+  "stats": {
+    "total": 14
+  },
+  "meta": {
+    "geracaoId": "sprint-1"
+  }
+}

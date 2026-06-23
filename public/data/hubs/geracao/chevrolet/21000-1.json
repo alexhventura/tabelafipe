@@ -1,0 +1,66 @@
+{
+  "tipo": "geracao",
+  "slug": "21000-1",
+  "canonicalPath": "/geracao/chevrolet/21000-1/",
+  "titulo": "Geracao 21000-1",
+  "descricao": "5 veiculos da geracao 21000-1.",
+  "seo": {
+    "title": "Geracao 21000-1 - Precos FIPE",
+    "description": "Veiculos da geracao 21000-1 na Tabela FIPE.",
+    "h1": "Geracao 21000-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/chevrolet/21000-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "chevrolet-21000-2p-diesel-1985-diesel",
+      "fipeCodigo": "502011-5",
+      "displayName": "CHEVROLET 21000 2p (diesel)",
+      "valorAtual": 18848,
+      "canonicalPath": "/fipe/chevrolet/21000-2p-diesel-1985-502011-5/",
+      "ano": 1985,
+      "marca": "CHEVROLET"
+    },
+    {
+      "vehicleId": "chevrolet-21000-2p-diesel-1986-diesel",
+      "fipeCodigo": "502011-5",
+      "displayName": "CHEVROLET 21000 2p (diesel)",
+      "valorAtual": 20485,
+      "canonicalPath": "/fipe/chevrolet/21000-2p-diesel-1986-502011-5/",
+      "ano": 1986,
+      "marca": "CHEVROLET"
+    },
+    {
+      "vehicleId": "chevrolet-21000-2p-diesel-1987-diesel",
+      "fipeCodigo": "502011-5",
+      "displayName": "CHEVROLET 21000 2p (diesel)",
+      "valorAtual": 23142,
+      "canonicalPath": "/fipe/chevrolet/21000-2p-diesel-1987-502011-5/",
+      "ano": 1987,
+      "marca": "CHEVROLET"
+    },
+    {
+      "vehicleId": "chevrolet-21000-2p-diesel-1988-diesel",
+      "fipeCodigo": "502011-5",
+      "displayName": "CHEVROLET 21000 2p (diesel)",
+      "valorAtual": 24885,
+      "canonicalPath": "/fipe/chevrolet/21000-2p-diesel-1988-502011-5/",
+      "ano": 1988,
+      "marca": "CHEVROLET"
+    },
+    {
+      "vehicleId": "chevrolet-21000-2p-diesel-1989-diesel",
+      "fipeCodigo": "502011-5",
+      "displayName": "CHEVROLET 21000 2p (diesel)",
+      "valorAtual": 25929,
+      "canonicalPath": "/fipe/chevrolet/21000-2p-diesel-1989-502011-5/",
+      "ano": 1989,
+      "marca": "CHEVROLET"
+    }
+  ],
+  "stats": {
+    "total": 5
+  },
+  "meta": {
+    "geracaoId": "21000-1"
+  }
+}

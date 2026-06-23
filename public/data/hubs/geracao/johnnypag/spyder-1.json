@@ -1,0 +1,93 @@
+{
+  "tipo": "geracao",
+  "slug": "spyder-1",
+  "canonicalPath": "/geracao/johnnypag/spyder-1/",
+  "titulo": "Geracao spyder-1",
+  "descricao": "8 veiculos da geracao spyder-1.",
+  "seo": {
+    "title": "Geracao spyder-1 - Precos FIPE",
+    "description": "Veiculos da geracao spyder-1 na Tabela FIPE.",
+    "h1": "Geracao spyder-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/johnnypag/spyder-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "johnnypag-spyder-300cc-2010-gasolina",
+      "fipeCodigo": "875002-5",
+      "displayName": "JOHNNYPAG SPYDER 300cc",
+      "valorAtual": 8605,
+      "canonicalPath": "/fipe/johnnypag/spyder-300cc-2010-875002-5/",
+      "ano": 2010,
+      "marca": "JOHNNYPAG"
+    },
+    {
+      "vehicleId": "johnnypag-spyder-300cc-2011-gasolina",
+      "fipeCodigo": "875002-5",
+      "displayName": "JOHNNYPAG SPYDER 300cc",
+      "valorAtual": 8829,
+      "canonicalPath": "/fipe/johnnypag/spyder-300cc-2011-875002-5/",
+      "ano": 2011,
+      "marca": "JOHNNYPAG"
+    },
+    {
+      "vehicleId": "mvk-spyder-270-320-2008-gasolina",
+      "fipeCodigo": "845015-3",
+      "displayName": "MVK SPYDER 270 / 320",
+      "valorAtual": 9267,
+      "canonicalPath": "/fipe/mvk/spyder-270-320-2008-845015-3/",
+      "ano": 2008,
+      "marca": "MVK"
+    },
+    {
+      "vehicleId": "mvk-spyder-270-320-2009-gasolina",
+      "fipeCodigo": "845015-3",
+      "displayName": "MVK SPYDER 270 / 320",
+      "valorAtual": 11227,
+      "canonicalPath": "/fipe/mvk/spyder-270-320-2009-845015-3/",
+      "ano": 2009,
+      "marca": "MVK"
+    },
+    {
+      "vehicleId": "maserati-spyder-ie-2-0-v6-1992-gasolina",
+      "fipeCodigo": "034009-0",
+      "displayName": "Maserati Spyder IE 2.0 V6",
+      "valorAtual": 25078,
+      "canonicalPath": "/fipe/maserati/spyder-ie-2-0-v6-1992-034009-0/",
+      "ano": 1992,
+      "marca": "Maserati"
+    },
+    {
+      "vehicleId": "maserati-spyder-ie-2-0-v6-1993-gasolina",
+      "fipeCodigo": "034009-0",
+      "displayName": "Maserati Spyder IE 2.0 V6",
+      "valorAtual": 29034,
+      "canonicalPath": "/fipe/maserati/spyder-ie-2-0-v6-1993-034009-0/",
+      "ano": 1993,
+      "marca": "Maserati"
+    },
+    {
+      "vehicleId": "maserati-spyder-ie-2-0-v6-1994-gasolina",
+      "fipeCodigo": "034009-0",
+      "displayName": "Maserati Spyder IE 2.0 V6",
+      "valorAtual": 33489,
+      "canonicalPath": "/fipe/maserati/spyder-ie-2-0-v6-1994-034009-0/",
+      "ano": 1994,
+      "marca": "Maserati"
+    },
+    {
+      "vehicleId": "regal-raptor-spyder-320-2009-gasolina",
+      "fipeCodigo": "872002-9",
+      "displayName": "REGAL RAPTOR SPYDER 320",
+      "valorAtual": 7993,
+      "canonicalPath": "/fipe/regal-raptor/spyder-320-2009-872002-9/",
+      "ano": 2009,
+      "marca": "REGAL RAPTOR"
+    }
+  ],
+  "stats": {
+    "total": 8
+  },
+  "meta": {
+    "geracaoId": "spyder-1"
+  }
+}

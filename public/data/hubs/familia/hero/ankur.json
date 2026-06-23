@@ -1,0 +1,62 @@
+{
+  "tipo": "familia",
+  "slug": "ankur",
+  "canonicalPath": "/fipe/hero/ankur/",
+  "titulo": "HERO ankur - Tabela FIPE",
+  "descricao": "4 versoes e anos do HERO ankur na Tabela FIPE.",
+  "seo": {
+    "title": "HERO ankur - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes HERO ankur. 4 veiculos indexados.",
+    "h1": "HERO ankur - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/hero/ankur/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "hero-ankur-50-1998-gasolina",
+      "fipeCodigo": "841003-8",
+      "displayName": "HERO ANKUR 50",
+      "valorAtual": 1030,
+      "canonicalPath": "/fipe/hero/ankur-50-1998-841003-8/",
+      "ano": 1998,
+      "marca": "HERO"
+    },
+    {
+      "vehicleId": "hero-ankur-50-1997-gasolina",
+      "fipeCodigo": "841003-8",
+      "displayName": "HERO ANKUR 50",
+      "valorAtual": 1004,
+      "canonicalPath": "/fipe/hero/ankur-50-1997-841003-8/",
+      "ano": 1997,
+      "marca": "HERO"
+    },
+    {
+      "vehicleId": "hero-ankur-50-1996-gasolina",
+      "fipeCodigo": "841003-8",
+      "displayName": "HERO ANKUR 50",
+      "valorAtual": 978,
+      "canonicalPath": "/fipe/hero/ankur-50-1996-841003-8/",
+      "ano": 1996,
+      "marca": "HERO"
+    },
+    {
+      "vehicleId": "hero-ankur-50-1995-gasolina",
+      "fipeCodigo": "841003-8",
+      "displayName": "HERO ANKUR 50",
+      "valorAtual": 952,
+      "canonicalPath": "/fipe/hero/ankur-50-1995-841003-8/",
+      "ano": 1995,
+      "marca": "HERO"
+    }
+  ],
+  "stats": {
+    "total": 4,
+    "precoMin": 952,
+    "precoMax": 1030,
+    "anos": [
+      1998,
+      1997,
+      1996,
+      1995
+    ]
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "tipo": "geracao",
+  "slug": "dakar-1",
+  "canonicalPath": "/geracao/agrale/dakar-1/",
+  "titulo": "Geracao dakar-1",
+  "descricao": "5 veiculos da geracao dakar-1.",
+  "seo": {
+    "title": "Geracao dakar-1 - Precos FIPE",
+    "description": "Veiculos da geracao dakar-1 na Tabela FIPE.",
+    "h1": "Geracao dakar-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/agrale/dakar-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "agrale-dakar-30-0-190cc-1990-gasolina",
+      "fipeCodigo": "801004-8",
+      "displayName": "AGRALE DAKAR 30.0 190cc",
+      "valorAtual": 1326,
+      "canonicalPath": "/fipe/agrale/dakar-30-0-190cc-1990-801004-8/",
+      "ano": 1990,
+      "marca": "AGRALE"
+    },
+    {
+      "vehicleId": "agrale-dakar-30-0-190cc-1991-gasolina",
+      "fipeCodigo": "801004-8",
+      "displayName": "AGRALE DAKAR 30.0 190cc",
+      "valorAtual": 1374,
+      "canonicalPath": "/fipe/agrale/dakar-30-0-190cc-1991-801004-8/",
+      "ano": 1991,
+      "marca": "AGRALE"
+    },
+    {
+      "vehicleId": "agrale-dakar-30-0-190cc-1992-gasolina",
+      "fipeCodigo": "801004-8",
+      "displayName": "AGRALE DAKAR 30.0 190cc",
+      "valorAtual": 1439,
+      "canonicalPath": "/fipe/agrale/dakar-30-0-190cc-1992-801004-8/",
+      "ano": 1992,
+      "marca": "AGRALE"
+    },
+    {
+      "vehicleId": "agrale-dakar-30-0-190cc-1993-gasolina",
+      "fipeCodigo": "801004-8",
+      "displayName": "AGRALE DAKAR 30.0 190cc",
+      "valorAtual": 1621,
+      "canonicalPath": "/fipe/agrale/dakar-30-0-190cc-1993-801004-8/",
+      "ano": 1993,
+      "marca": "AGRALE"
+    },
+    {
+      "vehicleId": "agrale-dakar-30-0-190cc-1994-gasolina",
+      "fipeCodigo": "801004-8",
+      "displayName": "AGRALE DAKAR 30.0 190cc",
+      "valorAtual": 1784,
+      "canonicalPath": "/fipe/agrale/dakar-30-0-190cc-1994-801004-8/",
+      "ano": 1994,
+      "marca": "AGRALE"
+    }
+  ],
+  "stats": {
+    "total": 5
+  },
+  "meta": {
+    "geracaoId": "dakar-1"
+  }
+}

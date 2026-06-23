@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "gtv-2",
+  "canonicalPath": "/geracao/vespa/gtv-2/",
+  "titulo": "Geracao gtv-2",
+  "descricao": "2 veiculos da geracao gtv-2.",
+  "seo": {
+    "title": "Geracao gtv-2 - Precos FIPE",
+    "description": "Veiculos da geracao gtv-2 na Tabela FIPE.",
+    "h1": "Geracao gtv-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/vespa/gtv-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "vespa-gtv-300-2024-gasolina",
+      "fipeCodigo": "898004-7",
+      "displayName": "VESPA GTV 300",
+      "valorAtual": 79382,
+      "canonicalPath": "/fipe/vespa/gtv-300-2024-898004-7/",
+      "ano": 2024,
+      "marca": "VESPA"
+    },
+    {
+      "vehicleId": "vespa-gtv-300-2025-gasolina",
+      "fipeCodigo": "898004-7",
+      "displayName": "VESPA GTV 300",
+      "valorAtual": 81838,
+      "canonicalPath": "/fipe/vespa/gtv-300-2025-898004-7/",
+      "ano": 2025,
+      "marca": "VESPA"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "gtv-2"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "rocket-1",
+  "canonicalPath": "/geracao/triumph/rocket-1/",
+  "titulo": "Geracao rocket-1",
+  "descricao": "2 veiculos da geracao rocket-1.",
+  "seo": {
+    "title": "Geracao rocket-1 - Precos FIPE",
+    "description": "Veiculos da geracao rocket-1 na Tabela FIPE.",
+    "h1": "Geracao rocket-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/triumph/rocket-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "triumph-rocket-iii-storm-edition-gt-2500cc-0-gasolina",
+      "fipeCodigo": "826103-2",
+      "displayName": "TRIUMPH ROCKET III STORM Edition GT 2500cc",
+      "valorAtual": 141316,
+      "canonicalPath": "/fipe/triumph/rocket-iii-storm-edition-gt-2500cc-0-826103-2/",
+      "ano": 0,
+      "marca": "TRIUMPH"
+    },
+    {
+      "vehicleId": "triumph-rocket-iii-storm-edition-r-2500cc-0-gasolina",
+      "fipeCodigo": "826102-4",
+      "displayName": "TRIUMPH ROCKET III STORM Edition R 2500cc",
+      "valorAtual": 136278,
+      "canonicalPath": "/fipe/triumph/rocket-iii-storm-edition-r-2500cc-0-826102-4/",
+      "ano": 0,
+      "marca": "TRIUMPH"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "rocket-1"
+  }
+}

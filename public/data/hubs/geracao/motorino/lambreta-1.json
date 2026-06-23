@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "lambreta-1",
+  "canonicalPath": "/geracao/motorino/lambreta-1/",
+  "titulo": "Geracao lambreta-1",
+  "descricao": "2 veiculos da geracao lambreta-1.",
+  "seo": {
+    "title": "Geracao lambreta-1 - Precos FIPE",
+    "description": "Veiculos da geracao lambreta-1 na Tabela FIPE.",
+    "h1": "Geracao lambreta-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/motorino/lambreta-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "motorino-lambreta-v200-special-2018-gasolina",
+      "fipeCodigo": "881017-6",
+      "displayName": "MOTORINO Lambreta V200 Special",
+      "valorAtual": 21091,
+      "canonicalPath": "/fipe/motorino/lambreta-v200-special-2018-881017-6/",
+      "ano": 2018,
+      "marca": "MOTORINO"
+    },
+    {
+      "vehicleId": "motorino-lambreta-v200-special-2019-gasolina",
+      "fipeCodigo": "881017-6",
+      "displayName": "MOTORINO Lambreta V200 Special",
+      "valorAtual": 22304,
+      "canonicalPath": "/fipe/motorino/lambreta-v200-special-2019-881017-6/",
+      "ano": 2019,
+      "marca": "MOTORINO"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "lambreta-1"
+  }
+}

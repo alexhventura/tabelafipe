@@ -1,0 +1,71 @@
+{
+  "tipo": "familia",
+  "slug": "cullinan",
+  "canonicalPath": "/fipe/rolls-royce/cullinan/",
+  "titulo": "Rolls-Royce cullinan - Tabela FIPE",
+  "descricao": "5 versoes e anos do Rolls-Royce cullinan na Tabela FIPE.",
+  "seo": {
+    "title": "Rolls-Royce cullinan - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes Rolls-Royce cullinan. 5 veiculos indexados.",
+    "h1": "Rolls-Royce cullinan - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/rolls-royce/cullinan/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "rolls-royce-cullinan-black-badge-6-7-v12-aut-2023-gasolina",
+      "fipeCodigo": "087007-2",
+      "displayName": "Rolls-Royce Cullinan Black Badge 6.7 V12 Aut.",
+      "valorAtual": 6993753,
+      "canonicalPath": "/fipe/rolls-royce/cullinan-black-badge-6-7-v12-aut-2023-087007-2/",
+      "ano": 2023,
+      "marca": "Rolls-Royce"
+    },
+    {
+      "vehicleId": "rolls-royce-cullinan-black-badge-6-7-v12-aut-2022-gasolina",
+      "fipeCodigo": "087007-2",
+      "displayName": "Rolls-Royce Cullinan Black Badge 6.7 V12 Aut.",
+      "valorAtual": 6751630,
+      "canonicalPath": "/fipe/rolls-royce/cullinan-black-badge-6-7-v12-aut-2022-087007-2/",
+      "ano": 2022,
+      "marca": "Rolls-Royce"
+    },
+    {
+      "vehicleId": "rolls-royce-cullinan-6-7-v12-aut-2021-gasolina",
+      "fipeCodigo": "087006-4",
+      "displayName": "Rolls-Royce Cullinan 6.7 V12 Aut.",
+      "valorAtual": 5206302,
+      "canonicalPath": "/fipe/rolls-royce/cullinan-6-7-v12-aut-2021-087006-4/",
+      "ano": 2021,
+      "marca": "Rolls-Royce"
+    },
+    {
+      "vehicleId": "rolls-royce-cullinan-black-badge-6-7-v12-aut-2021-gasolina",
+      "fipeCodigo": "087007-2",
+      "displayName": "Rolls-Royce Cullinan Black Badge 6.7 V12 Aut.",
+      "valorAtual": 5769282,
+      "canonicalPath": "/fipe/rolls-royce/cullinan-black-badge-6-7-v12-aut-2021-087007-2/",
+      "ano": 2021,
+      "marca": "Rolls-Royce"
+    },
+    {
+      "vehicleId": "rolls-royce-cullinan-black-badge-6-7-v12-aut-0-gasolina",
+      "fipeCodigo": "087007-2",
+      "displayName": "Rolls-Royce Cullinan Black Badge 6.7 V12 Aut.",
+      "valorAtual": 7599466,
+      "canonicalPath": "/fipe/rolls-royce/cullinan-black-badge-6-7-v12-aut-0-087007-2/",
+      "ano": 0,
+      "marca": "Rolls-Royce"
+    }
+  ],
+  "stats": {
+    "total": 5,
+    "precoMin": 5206302,
+    "precoMax": 7599466,
+    "anos": [
+      2023,
+      2022,
+      2021,
+      0
+    ]
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "tipo": "familia",
+  "slug": "fy150",
+  "canonicalPath": "/fipe/fym/fy150/",
+  "titulo": "FYM fy150 - Tabela FIPE",
+  "descricao": "3 versoes e anos do FYM fy150 na Tabela FIPE.",
+  "seo": {
+    "title": "FYM fy150 - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes FYM fy150. 3 veiculos indexados.",
+    "h1": "FYM fy150 - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/fym/fy150/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "fym-fy150-3-150cc-2008-gasolina",
+      "fipeCodigo": "849005-8",
+      "displayName": "FYM FY150-3 150cc",
+      "valorAtual": 2139,
+      "canonicalPath": "/fipe/fym/fy150-3-150cc-2008-849005-8/",
+      "ano": 2008,
+      "marca": "FYM"
+    },
+    {
+      "vehicleId": "fym-fy150-3-150cc-2007-gasolina",
+      "fipeCodigo": "849005-8",
+      "displayName": "FYM FY150-3 150cc",
+      "valorAtual": 1715,
+      "canonicalPath": "/fipe/fym/fy150-3-150cc-2007-849005-8/",
+      "ano": 2007,
+      "marca": "FYM"
+    },
+    {
+      "vehicleId": "fym-fy150-3-150cc-2006-gasolina",
+      "fipeCodigo": "849005-8",
+      "displayName": "FYM FY150-3 150cc",
+      "valorAtual": 1587,
+      "canonicalPath": "/fipe/fym/fy150-3-150cc-2006-849005-8/",
+      "ano": 2006,
+      "marca": "FYM"
+    }
+  ],
+  "stats": {
+    "total": 3,
+    "precoMin": 1587,
+    "precoMax": 2139,
+    "anos": [
+      2008,
+      2007,
+      2006
+    ]
+  }
+}

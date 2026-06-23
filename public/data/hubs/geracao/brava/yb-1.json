@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "yb-1",
+  "canonicalPath": "/geracao/brava/yb-1/",
+  "titulo": "Geracao yb-1",
+  "descricao": "2 veiculos da geracao yb-1.",
+  "seo": {
+    "title": "Geracao yb-1 - Precos FIPE",
+    "description": "Veiculos da geracao yb-1 na Tabela FIPE.",
+    "h1": "Geracao yb-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/brava/yb-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "brava-yb-150t-15-150cc-2007-gasolina",
+      "fipeCodigo": "853001-7",
+      "displayName": "BRAVA YB 150T-15 150cc",
+      "valorAtual": 3029,
+      "canonicalPath": "/fipe/brava/yb-150t-15-150cc-2007-853001-7/",
+      "ano": 2007,
+      "marca": "BRAVA"
+    },
+    {
+      "vehicleId": "brava-yb-150t-15-150cc-2008-gasolina",
+      "fipeCodigo": "853001-7",
+      "displayName": "BRAVA YB 150T-15 150cc",
+      "valorAtual": 3504,
+      "canonicalPath": "/fipe/brava/yb-150t-15-150cc-2008-853001-7/",
+      "ano": 2008,
+      "marca": "BRAVA"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "yb-1"
+  }
+}

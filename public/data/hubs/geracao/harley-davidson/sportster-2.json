@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "sportster-2",
+  "canonicalPath": "/geracao/harley-davidson/sportster-2/",
+  "titulo": "Geracao sportster-2",
+  "descricao": "2 veiculos da geracao sportster-2.",
+  "seo": {
+    "title": "Geracao sportster-2 - Precos FIPE",
+    "description": "Veiculos da geracao sportster-2 na Tabela FIPE.",
+    "h1": "Geracao sportster-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/harley-davidson/sportster-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "harley-davidson-sportster-1200-1994-gasolina",
+      "fipeCodigo": "810022-5",
+      "displayName": "HARLEY-DAVIDSON SPORTSTER 1200",
+      "valorAtual": 11589,
+      "canonicalPath": "/fipe/harley-davidson/sportster-1200-1994-810022-5/",
+      "ano": 1994,
+      "marca": "HARLEY-DAVIDSON"
+    },
+    {
+      "vehicleId": "harley-davidson-sportster-1200-1995-gasolina",
+      "fipeCodigo": "810022-5",
+      "displayName": "HARLEY-DAVIDSON SPORTSTER 1200",
+      "valorAtual": 11879,
+      "canonicalPath": "/fipe/harley-davidson/sportster-1200-1995-810022-5/",
+      "ano": 1995,
+      "marca": "HARLEY-DAVIDSON"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "sportster-2"
+  }
+}

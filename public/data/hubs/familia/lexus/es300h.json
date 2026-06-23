@@ -1,0 +1,102 @@
+{
+  "tipo": "familia",
+  "slug": "es300h",
+  "canonicalPath": "/fipe/lexus/es300h/",
+  "titulo": "Lexus es300h - Tabela FIPE",
+  "descricao": "8 versoes e anos do Lexus es300h na Tabela FIPE.",
+  "seo": {
+    "title": "Lexus es300h - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes Lexus es300h. 8 veiculos indexados.",
+    "h1": "Lexus es300h - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/lexus/es300h/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "lexus-es300h-2-5-16v-aut-hibrido-2025-hibrido",
+      "fipeCodigo": "057047-8",
+      "displayName": "Lexus ES300h 2.5 16V Aut. (Híbrido)",
+      "valorAtual": 293628,
+      "canonicalPath": "/fipe/lexus/es300h-2-5-16v-aut-hibrido-2025-057047-8/",
+      "ano": 2025,
+      "marca": "Lexus"
+    },
+    {
+      "vehicleId": "lexus-es300h-2-5-16v-aut-hibrido-2024-hibrido",
+      "fipeCodigo": "057047-8",
+      "displayName": "Lexus ES300h 2.5 16V Aut. (Híbrido)",
+      "valorAtual": 274542,
+      "canonicalPath": "/fipe/lexus/es300h-2-5-16v-aut-hibrido-2024-057047-8/",
+      "ano": 2024,
+      "marca": "Lexus"
+    },
+    {
+      "vehicleId": "lexus-es300h-2-5-16v-aut-hibrido-2023-hibrido",
+      "fipeCodigo": "057047-8",
+      "displayName": "Lexus ES300h 2.5 16V Aut. (Híbrido)",
+      "valorAtual": 231838,
+      "canonicalPath": "/fipe/lexus/es300h-2-5-16v-aut-hibrido-2023-057047-8/",
+      "ano": 2023,
+      "marca": "Lexus"
+    },
+    {
+      "vehicleId": "lexus-es300h-2-5-16v-aut-hibrido-2022-hibrido",
+      "fipeCodigo": "057047-8",
+      "displayName": "Lexus ES300h 2.5 16V Aut. (Híbrido)",
+      "valorAtual": 224125,
+      "canonicalPath": "/fipe/lexus/es300h-2-5-16v-aut-hibrido-2022-057047-8/",
+      "ano": 2022,
+      "marca": "Lexus"
+    },
+    {
+      "vehicleId": "lexus-es300h-2-5-16v-aut-hibrido-2021-hibrido",
+      "fipeCodigo": "057047-8",
+      "displayName": "Lexus ES300h 2.5 16V Aut. (Híbrido)",
+      "valorAtual": 210118,
+      "canonicalPath": "/fipe/lexus/es300h-2-5-16v-aut-hibrido-2021-057047-8/",
+      "ano": 2021,
+      "marca": "Lexus"
+    },
+    {
+      "vehicleId": "lexus-es300h-2-5-16v-aut-hibrido-2020-hibrido",
+      "fipeCodigo": "057047-8",
+      "displayName": "Lexus ES300h 2.5 16V Aut. (Híbrido)",
+      "valorAtual": 181829,
+      "canonicalPath": "/fipe/lexus/es300h-2-5-16v-aut-hibrido-2020-057047-8/",
+      "ano": 2020,
+      "marca": "Lexus"
+    },
+    {
+      "vehicleId": "lexus-es300h-2-5-16v-aut-hibrido-2019-hibrido",
+      "fipeCodigo": "057047-8",
+      "displayName": "Lexus ES300h 2.5 16V Aut. (Híbrido)",
+      "valorAtual": 164010,
+      "canonicalPath": "/fipe/lexus/es300h-2-5-16v-aut-hibrido-2019-057047-8/",
+      "ano": 2019,
+      "marca": "Lexus"
+    },
+    {
+      "vehicleId": "lexus-es300h-2-5-16v-aut-hibrido-0-hibrido",
+      "fipeCodigo": "057047-8",
+      "displayName": "Lexus ES300h 2.5 16V Aut. (Híbrido)",
+      "valorAtual": 360990,
+      "canonicalPath": "/fipe/lexus/es300h-2-5-16v-aut-hibrido-0-057047-8/",
+      "ano": 0,
+      "marca": "Lexus"
+    }
+  ],
+  "stats": {
+    "total": 8,
+    "precoMin": 164010,
+    "precoMax": 360990,
+    "anos": [
+      2025,
+      2024,
+      2023,
+      2022,
+      2021,
+      2020,
+      2019,
+      0
+    ]
+  }
+}

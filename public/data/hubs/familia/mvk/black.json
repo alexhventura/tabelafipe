@@ -1,0 +1,62 @@
+{
+  "tipo": "familia",
+  "slug": "black",
+  "canonicalPath": "/fipe/mvk/black/",
+  "titulo": "MVK black - Tabela FIPE",
+  "descricao": "4 versoes e anos do MVK black na Tabela FIPE.",
+  "seo": {
+    "title": "MVK black - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes MVK black. 4 veiculos indexados.",
+    "h1": "MVK black - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/mvk/black/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "mvk-black-star-150-2011-gasolina",
+      "fipeCodigo": "845009-9",
+      "displayName": "MVK BLACK STAR 150",
+      "valorAtual": 3409,
+      "canonicalPath": "/fipe/mvk/black-star-150-2011-845009-9/",
+      "ano": 2011,
+      "marca": "MVK"
+    },
+    {
+      "vehicleId": "mvk-black-star-150-2009-gasolina",
+      "fipeCodigo": "845009-9",
+      "displayName": "MVK BLACK STAR 150",
+      "valorAtual": 3277,
+      "canonicalPath": "/fipe/mvk/black-star-150-2009-845009-9/",
+      "ano": 2009,
+      "marca": "MVK"
+    },
+    {
+      "vehicleId": "mvk-black-star-150-2008-gasolina",
+      "fipeCodigo": "845009-9",
+      "displayName": "MVK BLACK STAR 150",
+      "valorAtual": 2933,
+      "canonicalPath": "/fipe/mvk/black-star-150-2008-845009-9/",
+      "ano": 2008,
+      "marca": "MVK"
+    },
+    {
+      "vehicleId": "mvk-black-star-150-2007-gasolina",
+      "fipeCodigo": "845009-9",
+      "displayName": "MVK BLACK STAR 150",
+      "valorAtual": 2479,
+      "canonicalPath": "/fipe/mvk/black-star-150-2007-845009-9/",
+      "ano": 2007,
+      "marca": "MVK"
+    }
+  ],
+  "stats": {
+    "total": 4,
+    "precoMin": 2479,
+    "precoMax": 3409,
+    "anos": [
+      2011,
+      2009,
+      2008,
+      2007
+    ]
+  }
+}

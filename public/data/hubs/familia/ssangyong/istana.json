@@ -1,0 +1,42 @@
+{
+  "tipo": "familia",
+  "slug": "istana",
+  "canonicalPath": "/fipe/ssangyong/istana/",
+  "titulo": "SSANGYONG istana - Tabela FIPE",
+  "descricao": "2 versoes e anos do SSANGYONG istana na Tabela FIPE.",
+  "seo": {
+    "title": "SSANGYONG istana - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes SSANGYONG istana. 2 veiculos indexados.",
+    "h1": "SSANGYONG istana - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/ssangyong/istana/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "ssangyong-istana-2-9-95cv-tb-diesel-int-16lug-2002-diesel",
+      "fipeCodigo": "055014-0",
+      "displayName": "SSANGYONG Istana 2.9 95cv TB Diesel Int. 16Lug.",
+      "valorAtual": 16158,
+      "canonicalPath": "/fipe/ssangyong/istana-2-9-95cv-tb-diesel-int-16lug-2002-055014-0/",
+      "ano": 2002,
+      "marca": "SSANGYONG"
+    },
+    {
+      "vehicleId": "ssangyong-istana-2-9-95cv-tb-diesel-int-16lug-2001-diesel",
+      "fipeCodigo": "055014-0",
+      "displayName": "SSANGYONG Istana 2.9 95cv TB Diesel Int. 16Lug.",
+      "valorAtual": 13132,
+      "canonicalPath": "/fipe/ssangyong/istana-2-9-95cv-tb-diesel-int-16lug-2001-055014-0/",
+      "ano": 2001,
+      "marca": "SSANGYONG"
+    }
+  ],
+  "stats": {
+    "total": 2,
+    "precoMin": 13132,
+    "precoMax": 16158,
+    "anos": [
+      2002,
+      2001
+    ]
+  }
+}

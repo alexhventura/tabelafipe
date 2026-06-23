@@ -1,0 +1,93 @@
+{
+  "tipo": "geracao",
+  "slug": "speed-3",
+  "canonicalPath": "/geracao/triumph/speed-3/",
+  "titulo": "Geracao speed-3",
+  "descricao": "8 veiculos da geracao speed-3.",
+  "seo": {
+    "title": "Geracao speed-3 - Precos FIPE",
+    "description": "Veiculos da geracao speed-3 na Tabela FIPE.",
+    "h1": "Geracao speed-3",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/triumph/speed-3/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "triumph-speed-triple-1050i-2006-gasolina",
+      "fipeCodigo": "826028-1",
+      "displayName": "TRIUMPH SPEED TRIPLE 1050i",
+      "valorAtual": 25090,
+      "canonicalPath": "/fipe/triumph/speed-triple-1050i-2006-826028-1/",
+      "ano": 2006,
+      "marca": "TRIUMPH"
+    },
+    {
+      "vehicleId": "triumph-speed-triple-1050i-2007-gasolina",
+      "fipeCodigo": "826028-1",
+      "displayName": "TRIUMPH SPEED TRIPLE 1050i",
+      "valorAtual": 28470,
+      "canonicalPath": "/fipe/triumph/speed-triple-1050i-2007-826028-1/",
+      "ano": 2007,
+      "marca": "TRIUMPH"
+    },
+    {
+      "vehicleId": "triumph-speed-triple-1050i-2008-gasolina",
+      "fipeCodigo": "826028-1",
+      "displayName": "TRIUMPH SPEED TRIPLE 1050i",
+      "valorAtual": 29740,
+      "canonicalPath": "/fipe/triumph/speed-triple-1050i-2008-826028-1/",
+      "ano": 2008,
+      "marca": "TRIUMPH"
+    },
+    {
+      "vehicleId": "triumph-speed-triple-1050i-2009-gasolina",
+      "fipeCodigo": "826028-1",
+      "displayName": "TRIUMPH SPEED TRIPLE 1050i",
+      "valorAtual": 31115,
+      "canonicalPath": "/fipe/triumph/speed-triple-1050i-2009-826028-1/",
+      "ano": 2009,
+      "marca": "TRIUMPH"
+    },
+    {
+      "vehicleId": "triumph-speed-triple-1050i-2010-gasolina",
+      "fipeCodigo": "826028-1",
+      "displayName": "TRIUMPH SPEED TRIPLE 1050i",
+      "valorAtual": 31893,
+      "canonicalPath": "/fipe/triumph/speed-triple-1050i-2010-826028-1/",
+      "ano": 2010,
+      "marca": "TRIUMPH"
+    },
+    {
+      "vehicleId": "triumph-speed-triple-955i-2004-gasolina",
+      "fipeCodigo": "826024-9",
+      "displayName": "TRIUMPH SPEED TRIPLE 955i",
+      "valorAtual": 19458,
+      "canonicalPath": "/fipe/triumph/speed-triple-955i-2004-826024-9/",
+      "ano": 2004,
+      "marca": "TRIUMPH"
+    },
+    {
+      "vehicleId": "triumph-speed-triple-955i-2005-gasolina",
+      "fipeCodigo": "826024-9",
+      "displayName": "TRIUMPH SPEED TRIPLE 955i",
+      "valorAtual": 20741,
+      "canonicalPath": "/fipe/triumph/speed-triple-955i-2005-826024-9/",
+      "ano": 2005,
+      "marca": "TRIUMPH"
+    },
+    {
+      "vehicleId": "triumph-speed-triple-955i-2006-gasolina",
+      "fipeCodigo": "826024-9",
+      "displayName": "TRIUMPH SPEED TRIPLE 955i",
+      "valorAtual": 23260,
+      "canonicalPath": "/fipe/triumph/speed-triple-955i-2006-826024-9/",
+      "ano": 2006,
+      "marca": "TRIUMPH"
+    }
+  ],
+  "stats": {
+    "total": 8
+  },
+  "meta": {
+    "geracaoId": "speed-3"
+  }
+}

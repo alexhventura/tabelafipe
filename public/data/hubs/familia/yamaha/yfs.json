@@ -1,0 +1,62 @@
+{
+  "tipo": "familia",
+  "slug": "yfs",
+  "canonicalPath": "/fipe/yamaha/yfs/",
+  "titulo": "YAMAHA yfs - Tabela FIPE",
+  "descricao": "4 versoes e anos do YAMAHA yfs na Tabela FIPE.",
+  "seo": {
+    "title": "YAMAHA yfs - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes YAMAHA yfs. 4 veiculos indexados.",
+    "h1": "YAMAHA yfs - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/yamaha/yfs/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "yamaha-yfs-200-blaster-195cc-2006-gasolina",
+      "fipeCodigo": "827055-4",
+      "displayName": "YAMAHA YFS 200 BLASTER 195cc",
+      "valorAtual": 5850,
+      "canonicalPath": "/fipe/yamaha/yfs-200-blaster-195cc-2006-827055-4/",
+      "ano": 2006,
+      "marca": "YAMAHA"
+    },
+    {
+      "vehicleId": "yamaha-yfs-200-blaster-195cc-2005-gasolina",
+      "fipeCodigo": "827055-4",
+      "displayName": "YAMAHA YFS 200 BLASTER 195cc",
+      "valorAtual": 4727,
+      "canonicalPath": "/fipe/yamaha/yfs-200-blaster-195cc-2005-827055-4/",
+      "ano": 2005,
+      "marca": "YAMAHA"
+    },
+    {
+      "vehicleId": "yamaha-yfs-200-blaster-195cc-2004-gasolina",
+      "fipeCodigo": "827055-4",
+      "displayName": "YAMAHA YFS 200 BLASTER 195cc",
+      "valorAtual": 4611,
+      "canonicalPath": "/fipe/yamaha/yfs-200-blaster-195cc-2004-827055-4/",
+      "ano": 2004,
+      "marca": "YAMAHA"
+    },
+    {
+      "vehicleId": "yamaha-yfs-200-blaster-195cc-2003-gasolina",
+      "fipeCodigo": "827055-4",
+      "displayName": "YAMAHA YFS 200 BLASTER 195cc",
+      "valorAtual": 4354,
+      "canonicalPath": "/fipe/yamaha/yfs-200-blaster-195cc-2003-827055-4/",
+      "ano": 2003,
+      "marca": "YAMAHA"
+    }
+  ],
+  "stats": {
+    "total": 4,
+    "precoMin": 4354,
+    "precoMax": 5850,
+    "anos": [
+      2006,
+      2005,
+      2004,
+      2003
+    ]
+  }
+}

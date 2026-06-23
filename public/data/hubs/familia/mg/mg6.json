@@ -1,0 +1,42 @@
+{
+  "tipo": "familia",
+  "slug": "mg6",
+  "canonicalPath": "/fipe/mg/mg6/",
+  "titulo": "MG mg6 - Tabela FIPE",
+  "descricao": "2 versoes e anos do MG mg6 na Tabela FIPE.",
+  "seo": {
+    "title": "MG mg6 - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes MG mg6. 2 veiculos indexados.",
+    "h1": "MG mg6 - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/mg/mg6/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "mg-mg6-1-8-16v-turbo-170cv-aut-2012-gasolina",
+      "fipeCodigo": "076002-1",
+      "displayName": "MG MG6 1.8 16V Turbo 170cv Aut.",
+      "valorAtual": 61741,
+      "canonicalPath": "/fipe/mg/mg6-1-8-16v-turbo-170cv-aut-2012-076002-1/",
+      "ano": 2012,
+      "marca": "MG"
+    },
+    {
+      "vehicleId": "mg-mg6-1-8-16v-turbo-170cv-aut-2011-gasolina",
+      "fipeCodigo": "076002-1",
+      "displayName": "MG MG6 1.8 16V Turbo 170cv Aut.",
+      "valorAtual": 50155,
+      "canonicalPath": "/fipe/mg/mg6-1-8-16v-turbo-170cv-aut-2011-076002-1/",
+      "ano": 2011,
+      "marca": "MG"
+    }
+  ],
+  "stats": {
+    "total": 2,
+    "precoMin": 50155,
+    "precoMax": 61741,
+    "anos": [
+      2012,
+      2011
+    ]
+  }
+}

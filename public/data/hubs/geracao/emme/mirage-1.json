@@ -1,0 +1,129 @@
+{
+  "tipo": "geracao",
+  "slug": "mirage-1",
+  "canonicalPath": "/geracao/emme/mirage-1/",
+  "titulo": "Geracao mirage-1",
+  "descricao": "12 veiculos da geracao mirage-1.",
+  "seo": {
+    "title": "Geracao mirage-1 - Precos FIPE",
+    "description": "Veiculos da geracao mirage-1 na Tabela FIPE.",
+    "h1": "Geracao mirage-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/emme/mirage-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "emme-mirage-50cc-1997-gasolina",
+      "fipeCodigo": "809001-7",
+      "displayName": "EMME MIRAGE 50cc",
+      "valorAtual": 1140,
+      "canonicalPath": "/fipe/emme/mirage-50cc-1997-809001-7/",
+      "ano": 1997,
+      "marca": "EMME"
+    },
+    {
+      "vehicleId": "emme-mirage-50cc-1998-gasolina",
+      "fipeCodigo": "809001-7",
+      "displayName": "EMME MIRAGE 50cc",
+      "valorAtual": 1252,
+      "canonicalPath": "/fipe/emme/mirage-50cc-1998-809001-7/",
+      "ano": 1998,
+      "marca": "EMME"
+    },
+    {
+      "vehicleId": "emme-mirage-50cc-1999-gasolina",
+      "fipeCodigo": "809001-7",
+      "displayName": "EMME MIRAGE 50cc",
+      "valorAtual": 1379,
+      "canonicalPath": "/fipe/emme/mirage-50cc-1999-809001-7/",
+      "ano": 1999,
+      "marca": "EMME"
+    },
+    {
+      "vehicleId": "kasinski-mirage-650-v2power-2006-gasolina",
+      "fipeCodigo": "816020-1",
+      "displayName": "KASINSKI MIRAGE 650 V2power",
+      "valorAtual": 12618,
+      "canonicalPath": "/fipe/kasinski/mirage-650-v2power-2006-816020-1/",
+      "ano": 2006,
+      "marca": "KASINSKI"
+    },
+    {
+      "vehicleId": "mitsubishi-mirage-es-1992-gasolina",
+      "fipeCodigo": "022034-5",
+      "displayName": "Mitsubishi Mirage ES",
+      "valorAtual": 4183,
+      "canonicalPath": "/fipe/mitsubishi/mirage-es-1992-022034-5/",
+      "ano": 1992,
+      "marca": "Mitsubishi"
+    },
+    {
+      "vehicleId": "mitsubishi-mirage-es-1993-gasolina",
+      "fipeCodigo": "022034-5",
+      "displayName": "Mitsubishi Mirage ES",
+      "valorAtual": 4478,
+      "canonicalPath": "/fipe/mitsubishi/mirage-es-1993-022034-5/",
+      "ano": 1993,
+      "marca": "Mitsubishi"
+    },
+    {
+      "vehicleId": "mitsubishi-mirage-es-1994-gasolina",
+      "fipeCodigo": "022034-5",
+      "displayName": "Mitsubishi Mirage ES",
+      "valorAtual": 4941,
+      "canonicalPath": "/fipe/mitsubishi/mirage-es-1994-022034-5/",
+      "ano": 1994,
+      "marca": "Mitsubishi"
+    },
+    {
+      "vehicleId": "mitsubishi-mirage-gs-16v-glsi1-6-1991-gasolina",
+      "fipeCodigo": "022035-3",
+      "displayName": "Mitsubishi Mirage GS 16V/ GLSi1.6",
+      "valorAtual": 5151,
+      "canonicalPath": "/fipe/mitsubishi/mirage-gs-16v-glsi1-6-1991-022035-3/",
+      "ano": 1991,
+      "marca": "Mitsubishi"
+    },
+    {
+      "vehicleId": "mitsubishi-mirage-gs-16v-glsi1-6-1992-gasolina",
+      "fipeCodigo": "022035-3",
+      "displayName": "Mitsubishi Mirage GS 16V/ GLSi1.6",
+      "valorAtual": 5997,
+      "canonicalPath": "/fipe/mitsubishi/mirage-gs-16v-glsi1-6-1992-022035-3/",
+      "ano": 1992,
+      "marca": "Mitsubishi"
+    },
+    {
+      "vehicleId": "mitsubishi-mirage-gs-16v-glsi1-6-1995-gasolina",
+      "fipeCodigo": "022035-3",
+      "displayName": "Mitsubishi Mirage GS 16V/ GLSi1.6",
+      "valorAtual": 8887,
+      "canonicalPath": "/fipe/mitsubishi/mirage-gs-16v-glsi1-6-1995-022035-3/",
+      "ano": 1995,
+      "marca": "Mitsubishi"
+    },
+    {
+      "vehicleId": "mitsubishi-mirage-ls-1993-gasolina",
+      "fipeCodigo": "022033-7",
+      "displayName": "Mitsubishi Mirage LS",
+      "valorAtual": 6248,
+      "canonicalPath": "/fipe/mitsubishi/mirage-ls-1993-022033-7/",
+      "ano": 1993,
+      "marca": "Mitsubishi"
+    },
+    {
+      "vehicleId": "mitsubishi-mirage-ls-1994-gasolina",
+      "fipeCodigo": "022033-7",
+      "displayName": "Mitsubishi Mirage LS",
+      "valorAtual": 6431,
+      "canonicalPath": "/fipe/mitsubishi/mirage-ls-1994-022033-7/",
+      "ano": 1994,
+      "marca": "Mitsubishi"
+    }
+  ],
+  "stats": {
+    "total": 12
+  },
+  "meta": {
+    "geracaoId": "mirage-1"
+  }
+}

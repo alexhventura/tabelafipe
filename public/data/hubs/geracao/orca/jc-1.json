@@ -1,0 +1,48 @@
+{
+  "tipo": "geracao",
+  "slug": "jc-1",
+  "canonicalPath": "/geracao/orca/jc-1/",
+  "titulo": "Geracao jc-1",
+  "descricao": "3 veiculos da geracao jc-1.",
+  "seo": {
+    "title": "Geracao jc-1 - Precos FIPE",
+    "description": "Veiculos da geracao jc-1 na Tabela FIPE.",
+    "h1": "Geracao jc-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/orca/jc-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "orca-jc-125-1998-gasolina",
+      "fipeCodigo": "820005-0",
+      "displayName": "ORCA JC 125",
+      "valorAtual": 1200,
+      "canonicalPath": "/fipe/orca/jc-125-1998-820005-0/",
+      "ano": 1998,
+      "marca": "ORCA"
+    },
+    {
+      "vehicleId": "orca-jc-125-2-1998-gasolina",
+      "fipeCodigo": "820003-3",
+      "displayName": "ORCA JC 125-2",
+      "valorAtual": 1440,
+      "canonicalPath": "/fipe/orca/jc-125-2-1998-820003-3/",
+      "ano": 1998,
+      "marca": "ORCA"
+    },
+    {
+      "vehicleId": "orca-jc-125-8-1998-gasolina",
+      "fipeCodigo": "820004-1",
+      "displayName": "ORCA JC 125-8",
+      "valorAtual": 1445,
+      "canonicalPath": "/fipe/orca/jc-125-8-1998-820004-1/",
+      "ano": 1998,
+      "marca": "ORCA"
+    }
+  ],
+  "stats": {
+    "total": 3
+  },
+  "meta": {
+    "geracaoId": "jc-1"
+  }
+}

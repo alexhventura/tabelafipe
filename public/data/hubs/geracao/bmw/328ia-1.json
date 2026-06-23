@@ -1,0 +1,93 @@
+{
+  "tipo": "geracao",
+  "slug": "328ia-1",
+  "canonicalPath": "/geracao/bmw/328ia-1/",
+  "titulo": "Geracao 328ia-1",
+  "descricao": "8 veiculos da geracao 328ia-1.",
+  "seo": {
+    "title": "Geracao 328ia-1 - Precos FIPE",
+    "description": "Veiculos da geracao 328ia-1 na Tabela FIPE.",
+    "h1": "Geracao 328ia-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/bmw/328ia-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "bmw-328ia-exclusive-2-8-24v-1997-gasolina",
+      "fipeCodigo": "009067-0",
+      "displayName": "BMW 328iA Exclusive 2.8 24V",
+      "valorAtual": 44814,
+      "canonicalPath": "/fipe/bmw/328ia-exclusive-2-8-24v-1997-009067-0/",
+      "ano": 1997,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-328ia-exclusive-2-8-24v-1998-gasolina",
+      "fipeCodigo": "009067-0",
+      "displayName": "BMW 328iA Exclusive 2.8 24V",
+      "valorAtual": 49583,
+      "canonicalPath": "/fipe/bmw/328ia-exclusive-2-8-24v-1998-009067-0/",
+      "ano": 1998,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-328ia-exclusive-2-8-24v-1999-gasolina",
+      "fipeCodigo": "009067-0",
+      "displayName": "BMW 328iA Exclusive 2.8 24V",
+      "valorAtual": 50823,
+      "canonicalPath": "/fipe/bmw/328ia-exclusive-2-8-24v-1999-009067-0/",
+      "ano": 1999,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-328ia-exclusive-2-8-24v-2000-gasolina",
+      "fipeCodigo": "009067-0",
+      "displayName": "BMW 328iA Exclusive 2.8 24V",
+      "valorAtual": 52094,
+      "canonicalPath": "/fipe/bmw/328ia-exclusive-2-8-24v-2000-009067-0/",
+      "ano": 2000,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-328ia-touring-sport-1996-gasolina",
+      "fipeCodigo": "009065-4",
+      "displayName": "BMW 328iA Touring/Sport",
+      "valorAtual": 29763,
+      "canonicalPath": "/fipe/bmw/328ia-touring-sport-1996-009065-4/",
+      "ano": 1996,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-328ia-touring-sport-1997-gasolina",
+      "fipeCodigo": "009065-4",
+      "displayName": "BMW 328iA Touring/Sport",
+      "valorAtual": 31565,
+      "canonicalPath": "/fipe/bmw/328ia-touring-sport-1997-009065-4/",
+      "ano": 1997,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-328ia-touring-sport-1998-gasolina",
+      "fipeCodigo": "009065-4",
+      "displayName": "BMW 328iA Touring/Sport",
+      "valorAtual": 32455,
+      "canonicalPath": "/fipe/bmw/328ia-touring-sport-1998-009065-4/",
+      "ano": 1998,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-328ia-touring-sport-1999-gasolina",
+      "fipeCodigo": "009065-4",
+      "displayName": "BMW 328iA Touring/Sport",
+      "valorAtual": 34821,
+      "canonicalPath": "/fipe/bmw/328ia-touring-sport-1999-009065-4/",
+      "ano": 1999,
+      "marca": "BMW"
+    }
+  ],
+  "stats": {
+    "total": 8
+  },
+  "meta": {
+    "geracaoId": "328ia-1"
+  }
+}

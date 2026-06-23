@@ -1,0 +1,48 @@
+{
+  "tipo": "geracao",
+  "slug": "fy150-1",
+  "canonicalPath": "/geracao/fym/fy150-1/",
+  "titulo": "Geracao fy150-1",
+  "descricao": "3 veiculos da geracao fy150-1.",
+  "seo": {
+    "title": "Geracao fy150-1 - Precos FIPE",
+    "description": "Veiculos da geracao fy150-1 na Tabela FIPE.",
+    "h1": "Geracao fy150-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/fym/fy150-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "fym-fy150-3-150cc-2006-gasolina",
+      "fipeCodigo": "849005-8",
+      "displayName": "FYM FY150-3 150cc",
+      "valorAtual": 1587,
+      "canonicalPath": "/fipe/fym/fy150-3-150cc-2006-849005-8/",
+      "ano": 2006,
+      "marca": "FYM"
+    },
+    {
+      "vehicleId": "fym-fy150-3-150cc-2007-gasolina",
+      "fipeCodigo": "849005-8",
+      "displayName": "FYM FY150-3 150cc",
+      "valorAtual": 1715,
+      "canonicalPath": "/fipe/fym/fy150-3-150cc-2007-849005-8/",
+      "ano": 2007,
+      "marca": "FYM"
+    },
+    {
+      "vehicleId": "fym-fy150-3-150cc-2008-gasolina",
+      "fipeCodigo": "849005-8",
+      "displayName": "FYM FY150-3 150cc",
+      "valorAtual": 2139,
+      "canonicalPath": "/fipe/fym/fy150-3-150cc-2008-849005-8/",
+      "ano": 2008,
+      "marca": "FYM"
+    }
+  ],
+  "stats": {
+    "total": 3
+  },
+  "meta": {
+    "geracaoId": "fy150-1"
+  }
+}

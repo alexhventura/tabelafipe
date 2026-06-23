@@ -1,0 +1,66 @@
+{
+  "tipo": "geracao",
+  "slug": "daytona-3",
+  "canonicalPath": "/geracao/triumph/daytona-3/",
+  "titulo": "Geracao daytona-3",
+  "descricao": "5 veiculos da geracao daytona-3.",
+  "seo": {
+    "title": "Geracao daytona-3 - Precos FIPE",
+    "description": "Veiculos da geracao daytona-3 na Tabela FIPE.",
+    "h1": "Geracao daytona-3",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/triumph/daytona-3/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "triumph-daytona-t-955-1998-gasolina",
+      "fipeCodigo": "826005-2",
+      "displayName": "TRIUMPH DAYTONA T-955",
+      "valorAtual": 12555,
+      "canonicalPath": "/fipe/triumph/daytona-t-955-1998-826005-2/",
+      "ano": 1998,
+      "marca": "TRIUMPH"
+    },
+    {
+      "vehicleId": "triumph-daytona-t-955-1999-gasolina",
+      "fipeCodigo": "826005-2",
+      "displayName": "TRIUMPH DAYTONA T-955",
+      "valorAtual": 13777,
+      "canonicalPath": "/fipe/triumph/daytona-t-955-1999-826005-2/",
+      "ano": 1999,
+      "marca": "TRIUMPH"
+    },
+    {
+      "vehicleId": "triumph-daytona-t-955-2000-gasolina",
+      "fipeCodigo": "826005-2",
+      "displayName": "TRIUMPH DAYTONA T-955",
+      "valorAtual": 16062,
+      "canonicalPath": "/fipe/triumph/daytona-t-955-2000-826005-2/",
+      "ano": 2000,
+      "marca": "TRIUMPH"
+    },
+    {
+      "vehicleId": "triumph-daytona-t-955-2001-gasolina",
+      "fipeCodigo": "826005-2",
+      "displayName": "TRIUMPH DAYTONA T-955",
+      "valorAtual": 16516,
+      "canonicalPath": "/fipe/triumph/daytona-t-955-2001-826005-2/",
+      "ano": 2001,
+      "marca": "TRIUMPH"
+    },
+    {
+      "vehicleId": "triumph-daytona-t-955-2002-gasolina",
+      "fipeCodigo": "826005-2",
+      "displayName": "TRIUMPH DAYTONA T-955",
+      "valorAtual": 16983,
+      "canonicalPath": "/fipe/triumph/daytona-t-955-2002-826005-2/",
+      "ano": 2002,
+      "marca": "TRIUMPH"
+    }
+  ],
+  "stats": {
+    "total": 5
+  },
+  "meta": {
+    "geracaoId": "daytona-3"
+  }
+}

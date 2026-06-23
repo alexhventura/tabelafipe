@@ -1,0 +1,93 @@
+{
+  "tipo": "geracao",
+  "slug": "elantra-2",
+  "canonicalPath": "/geracao/hyundai/elantra-2/",
+  "titulo": "Geracao elantra-2",
+  "descricao": "8 veiculos da geracao elantra-2.",
+  "seo": {
+    "title": "Geracao elantra-2 - Precos FIPE",
+    "description": "Veiculos da geracao elantra-2 na Tabela FIPE.",
+    "h1": "Geracao elantra-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/hyundai/elantra-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "hyundai-elantra-gls-2-0-16v-aut-2001-gasolina",
+      "fipeCodigo": "015050-9",
+      "displayName": "Hyundai Elantra GLS 2.0 16V Aut.",
+      "valorAtual": 17725,
+      "canonicalPath": "/fipe/hyundai/elantra-gls-2-0-16v-aut-2001-015050-9/",
+      "ano": 2001,
+      "marca": "Hyundai"
+    },
+    {
+      "vehicleId": "hyundai-elantra-gls-2-0-16v-aut-2002-gasolina",
+      "fipeCodigo": "015050-9",
+      "displayName": "Hyundai Elantra GLS 2.0 16V Aut.",
+      "valorAtual": 19091,
+      "canonicalPath": "/fipe/hyundai/elantra-gls-2-0-16v-aut-2002-015050-9/",
+      "ano": 2002,
+      "marca": "Hyundai"
+    },
+    {
+      "vehicleId": "hyundai-elantra-gls-2-0-16v-aut-2003-gasolina",
+      "fipeCodigo": "015050-9",
+      "displayName": "Hyundai Elantra GLS 2.0 16V Aut.",
+      "valorAtual": 20284,
+      "canonicalPath": "/fipe/hyundai/elantra-gls-2-0-16v-aut-2003-015050-9/",
+      "ano": 2003,
+      "marca": "Hyundai"
+    },
+    {
+      "vehicleId": "hyundai-elantra-gls-2-0-16v-aut-2004-gasolina",
+      "fipeCodigo": "015050-9",
+      "displayName": "Hyundai Elantra GLS 2.0 16V Aut.",
+      "valorAtual": 20792,
+      "canonicalPath": "/fipe/hyundai/elantra-gls-2-0-16v-aut-2004-015050-9/",
+      "ano": 2004,
+      "marca": "Hyundai"
+    },
+    {
+      "vehicleId": "hyundai-elantra-gls-2-0-16v-mec-2001-gasolina",
+      "fipeCodigo": "015049-5",
+      "displayName": "Hyundai Elantra GLS 2.0 16V Mec.",
+      "valorAtual": 14275,
+      "canonicalPath": "/fipe/hyundai/elantra-gls-2-0-16v-mec-2001-015049-5/",
+      "ano": 2001,
+      "marca": "Hyundai"
+    },
+    {
+      "vehicleId": "hyundai-elantra-gls-2-0-16v-mec-2002-gasolina",
+      "fipeCodigo": "015049-5",
+      "displayName": "Hyundai Elantra GLS 2.0 16V Mec.",
+      "valorAtual": 14632,
+      "canonicalPath": "/fipe/hyundai/elantra-gls-2-0-16v-mec-2002-015049-5/",
+      "ano": 2002,
+      "marca": "Hyundai"
+    },
+    {
+      "vehicleId": "hyundai-elantra-gls-2-0-16v-mec-2003-gasolina",
+      "fipeCodigo": "015049-5",
+      "displayName": "Hyundai Elantra GLS 2.0 16V Mec.",
+      "valorAtual": 14998,
+      "canonicalPath": "/fipe/hyundai/elantra-gls-2-0-16v-mec-2003-015049-5/",
+      "ano": 2003,
+      "marca": "Hyundai"
+    },
+    {
+      "vehicleId": "hyundai-elantra-gls-2-0-16v-mec-2004-gasolina",
+      "fipeCodigo": "015049-5",
+      "displayName": "Hyundai Elantra GLS 2.0 16V Mec.",
+      "valorAtual": 15373,
+      "canonicalPath": "/fipe/hyundai/elantra-gls-2-0-16v-mec-2004-015049-5/",
+      "ano": 2004,
+      "marca": "Hyundai"
+    }
+  ],
+  "stats": {
+    "total": 8
+  },
+  "meta": {
+    "geracaoId": "elantra-2"
+  }
+}

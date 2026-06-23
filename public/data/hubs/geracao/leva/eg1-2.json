@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "eg1-2",
+  "canonicalPath": "/geracao/leva/eg1-2/",
+  "titulo": "Geracao eg1-2",
+  "descricao": "2 veiculos da geracao eg1-2.",
+  "seo": {
+    "title": "Geracao eg1-2 - Precos FIPE",
+    "description": "Veiculos da geracao eg1-2 na Tabela FIPE.",
+    "h1": "Geracao eg1-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/leva/eg1-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "leva-eg1-5000w-2025-eletrico",
+      "fipeCodigo": "701001-0",
+      "displayName": "LEVA EG1 5000W",
+      "valorAtual": 22910,
+      "canonicalPath": "/fipe/leva/eg1-5000w-2025-701001-0/",
+      "ano": 2025,
+      "marca": "LEVA"
+    },
+    {
+      "vehicleId": "leva-eg1-5000w-2026-eletrico",
+      "fipeCodigo": "701001-0",
+      "displayName": "LEVA EG1 5000W",
+      "valorAtual": 23763,
+      "canonicalPath": "/fipe/leva/eg1-5000w-2026-701001-0/",
+      "ano": 2026,
+      "marca": "LEVA"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "eg1-2"
+  }
+}

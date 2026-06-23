@@ -1,0 +1,68 @@
+{
+  "tipo": "familia",
+  "slug": "tt",
+  "canonicalPath": "/fipe/shacman/tt/",
+  "titulo": "SHACMAN tt - Tabela FIPE",
+  "descricao": "5 versoes e anos do SHACMAN tt na Tabela FIPE.",
+  "seo": {
+    "title": "SHACMAN tt - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes SHACMAN tt. 5 veiculos indexados.",
+    "h1": "SHACMAN tt - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/shacman/tt/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "shacman-tt-385-4x2-2p-diesel-e5-2012-diesel",
+      "fipeCodigo": "527001-4",
+      "displayName": "SHACMAN TT 385 4x2 2p (diesel)(E5)",
+      "valorAtual": 92558,
+      "canonicalPath": "/fipe/shacman/tt-385-4x2-2p-diesel-e5-2012-527001-4/",
+      "ano": 2012,
+      "marca": "SHACMAN"
+    },
+    {
+      "vehicleId": "shacman-tt-385-6x2-2p-diesel-e5-2012-diesel",
+      "fipeCodigo": "527002-2",
+      "displayName": "SHACMAN TT 385 6x2 2p (diesel)(E5)",
+      "valorAtual": 92597,
+      "canonicalPath": "/fipe/shacman/tt-385-6x2-2p-diesel-e5-2012-527002-2/",
+      "ano": 2012,
+      "marca": "SHACMAN"
+    },
+    {
+      "vehicleId": "shacman-tt-385-6x4-2p-diesel-e5-2012-diesel",
+      "fipeCodigo": "527003-0",
+      "displayName": "SHACMAN TT 385 6x4 2p (diesel)(E5)",
+      "valorAtual": 94064,
+      "canonicalPath": "/fipe/shacman/tt-385-6x4-2p-diesel-e5-2012-527003-0/",
+      "ano": 2012,
+      "marca": "SHACMAN"
+    },
+    {
+      "vehicleId": "shacman-tt-420-6x4-2p-diesel-e5-2012-diesel",
+      "fipeCodigo": "527004-9",
+      "displayName": "SHACMAN TT 420 6x4  2p (diesel)(E5)",
+      "valorAtual": 95375,
+      "canonicalPath": "/fipe/shacman/tt-420-6x4-2p-diesel-e5-2012-527004-9/",
+      "ano": 2012,
+      "marca": "SHACMAN"
+    },
+    {
+      "vehicleId": "shacman-tt-440-6x4-2p-diesel-e5-2012-diesel",
+      "fipeCodigo": "527005-7",
+      "displayName": "SHACMAN TT 440 6x4 2p (diesel)(E5)",
+      "valorAtual": 98880,
+      "canonicalPath": "/fipe/shacman/tt-440-6x4-2p-diesel-e5-2012-527005-7/",
+      "ano": 2012,
+      "marca": "SHACMAN"
+    }
+  ],
+  "stats": {
+    "total": 5,
+    "precoMin": 92558,
+    "precoMax": 98880,
+    "anos": [
+      2012
+    ]
+  }
+}

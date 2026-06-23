@@ -1,0 +1,48 @@
+{
+  "tipo": "geracao",
+  "slug": "tank-2",
+  "canonicalPath": "/geracao/gwm/tank-2/",
+  "titulo": "Geracao tank-2",
+  "descricao": "3 veiculos da geracao tank-2.",
+  "seo": {
+    "title": "Geracao tank-2 - Precos FIPE",
+    "description": "Veiculos da geracao tank-2 na Tabela FIPE.",
+    "h1": "Geracao tank-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/gwm/tank-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "gwm-tank-300-2-0-16v-awd-aut-hibrido-2025-hibrido",
+      "fipeCodigo": "096009-8",
+      "displayName": "GWM Tank 300 2.0 16V AWD Aut.(Hibrido)",
+      "valorAtual": 284200,
+      "canonicalPath": "/fipe/gwm/tank-300-2-0-16v-awd-aut-hibrido-2025-096009-8/",
+      "ano": 2025,
+      "marca": "GWM"
+    },
+    {
+      "vehicleId": "gwm-tank-300-2-0-16v-awd-aut-hibrido-2026-hibrido",
+      "fipeCodigo": "096009-8",
+      "displayName": "GWM Tank 300 2.0 16V AWD Aut.(Hibrido)",
+      "valorAtual": 299061,
+      "canonicalPath": "/fipe/gwm/tank-300-2-0-16v-awd-aut-hibrido-2026-096009-8/",
+      "ano": 2026,
+      "marca": "GWM"
+    },
+    {
+      "vehicleId": "gwm-tank-300-2-0-16v-awd-aut-hibrido-2027-hibrido",
+      "fipeCodigo": "096009-8",
+      "displayName": "GWM Tank 300 2.0 16V AWD Aut.(Hibrido)",
+      "valorAtual": 310218,
+      "canonicalPath": "/fipe/gwm/tank-300-2-0-16v-awd-aut-hibrido-2027-096009-8/",
+      "ano": 2027,
+      "marca": "GWM"
+    }
+  ],
+  "stats": {
+    "total": 3
+  },
+  "meta": {
+    "geracaoId": "tank-2"
+  }
+}

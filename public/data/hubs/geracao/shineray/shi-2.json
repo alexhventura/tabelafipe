@@ -1,0 +1,111 @@
+{
+  "tipo": "geracao",
+  "slug": "shi-2",
+  "canonicalPath": "/geracao/shineray/shi-2/",
+  "titulo": "Geracao shi-2",
+  "descricao": "10 veiculos da geracao shi-2.",
+  "seo": {
+    "title": "Geracao shi-2 - Precos FIPE",
+    "description": "Veiculos da geracao shi-2 na Tabela FIPE.",
+    "h1": "Geracao shi-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/shineray/shi-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "shineray-shi-170-2026-gasolina",
+      "fipeCodigo": "850058-4",
+      "displayName": "SHINERAY SHI 170",
+      "valorAtual": 13484,
+      "canonicalPath": "/fipe/shineray/shi-170-2026-850058-4/",
+      "ano": 2026,
+      "marca": "SHINERAY"
+    },
+    {
+      "vehicleId": "shineray-shi-175-2023-gasolina",
+      "fipeCodigo": "850031-2",
+      "displayName": "SHINERAY SHI 175",
+      "valorAtual": 11065,
+      "canonicalPath": "/fipe/shineray/shi-175-2023-850031-2/",
+      "ano": 2023,
+      "marca": "SHINERAY"
+    },
+    {
+      "vehicleId": "shineray-shi-175-2024-gasolina",
+      "fipeCodigo": "850031-2",
+      "displayName": "SHINERAY SHI 175",
+      "valorAtual": 12250,
+      "canonicalPath": "/fipe/shineray/shi-175-2024-850031-2/",
+      "ano": 2024,
+      "marca": "SHINERAY"
+    },
+    {
+      "vehicleId": "shineray-shi-175-2025-gasolina",
+      "fipeCodigo": "850031-2",
+      "displayName": "SHINERAY SHI 175",
+      "valorAtual": 13194,
+      "canonicalPath": "/fipe/shineray/shi-175-2025-850031-2/",
+      "ano": 2025,
+      "marca": "SHINERAY"
+    },
+    {
+      "vehicleId": "shineray-shi-175-2026-gasolina",
+      "fipeCodigo": "850031-2",
+      "displayName": "SHINERAY SHI 175",
+      "valorAtual": 14748,
+      "canonicalPath": "/fipe/shineray/shi-175-2026-850031-2/",
+      "ano": 2026,
+      "marca": "SHINERAY"
+    },
+    {
+      "vehicleId": "shineray-shi-175-s-efi-2024-gasolina",
+      "fipeCodigo": "850044-4",
+      "displayName": "SHINERAY SHI 175 S EFI",
+      "valorAtual": 13877,
+      "canonicalPath": "/fipe/shineray/shi-175-s-efi-2024-850044-4/",
+      "ano": 2024,
+      "marca": "SHINERAY"
+    },
+    {
+      "vehicleId": "shineray-shi-175-s-efi-2025-gasolina",
+      "fipeCodigo": "850044-4",
+      "displayName": "SHINERAY SHI 175 S EFI",
+      "valorAtual": 14431,
+      "canonicalPath": "/fipe/shineray/shi-175-s-efi-2025-850044-4/",
+      "ano": 2025,
+      "marca": "SHINERAY"
+    },
+    {
+      "vehicleId": "shineray-shi-175-s-efi-2026-gasolina",
+      "fipeCodigo": "850044-4",
+      "displayName": "SHINERAY SHI 175 S EFI",
+      "valorAtual": 15531,
+      "canonicalPath": "/fipe/shineray/shi-175-s-efi-2026-850044-4/",
+      "ano": 2026,
+      "marca": "SHINERAY"
+    },
+    {
+      "vehicleId": "shineray-shi-250-2025-gasolina",
+      "fipeCodigo": "850055-0",
+      "displayName": "SHINERAY SHI 250",
+      "valorAtual": 19079,
+      "canonicalPath": "/fipe/shineray/shi-250-2025-850055-0/",
+      "ano": 2025,
+      "marca": "SHINERAY"
+    },
+    {
+      "vehicleId": "shineray-shi-250-2026-gasolina",
+      "fipeCodigo": "850055-0",
+      "displayName": "SHINERAY SHI 250",
+      "valorAtual": 19826,
+      "canonicalPath": "/fipe/shineray/shi-250-2026-850055-0/",
+      "ano": 2026,
+      "marca": "SHINERAY"
+    }
+  ],
+  "stats": {
+    "total": 10
+  },
+  "meta": {
+    "geracaoId": "shi-2"
+  }
+}

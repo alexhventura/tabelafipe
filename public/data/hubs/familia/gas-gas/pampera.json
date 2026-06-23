@@ -1,0 +1,71 @@
+{
+  "tipo": "familia",
+  "slug": "pampera",
+  "canonicalPath": "/fipe/gas-gas/pampera/",
+  "titulo": "GAS GAS pampera - Tabela FIPE",
+  "descricao": "5 versoes e anos do GAS GAS pampera na Tabela FIPE.",
+  "seo": {
+    "title": "GAS GAS pampera - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes GAS GAS pampera. 5 veiculos indexados.",
+    "h1": "GAS GAS pampera - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/gas-gas/pampera/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "gas-gas-pampera-250cc-2002-gasolina",
+      "fipeCodigo": "834002-1",
+      "displayName": "GAS GAS PAMPERA 250cc",
+      "valorAtual": 5508,
+      "canonicalPath": "/fipe/gas-gas/pampera-250cc-2002-834002-1/",
+      "ano": 2002,
+      "marca": "GAS GAS"
+    },
+    {
+      "vehicleId": "gas-gas-pampera-250cc-2001-gasolina",
+      "fipeCodigo": "834002-1",
+      "displayName": "GAS GAS PAMPERA 250cc",
+      "valorAtual": 5349,
+      "canonicalPath": "/fipe/gas-gas/pampera-250cc-2001-834002-1/",
+      "ano": 2001,
+      "marca": "GAS GAS"
+    },
+    {
+      "vehicleId": "gas-gas-pampera-125cc-2001-gasolina",
+      "fipeCodigo": "834001-3",
+      "displayName": "GAS GAS PAMPERA 125cc",
+      "valorAtual": 5628,
+      "canonicalPath": "/fipe/gas-gas/pampera-125cc-2001-834001-3/",
+      "ano": 2001,
+      "marca": "GAS GAS"
+    },
+    {
+      "vehicleId": "gas-gas-pampera-250cc-2000-gasolina",
+      "fipeCodigo": "834002-1",
+      "displayName": "GAS GAS PAMPERA 250cc",
+      "valorAtual": 4942,
+      "canonicalPath": "/fipe/gas-gas/pampera-250cc-2000-834002-1/",
+      "ano": 2000,
+      "marca": "GAS GAS"
+    },
+    {
+      "vehicleId": "gas-gas-pampera-250cc-1999-gasolina",
+      "fipeCodigo": "834002-1",
+      "displayName": "GAS GAS PAMPERA 250cc",
+      "valorAtual": 4734,
+      "canonicalPath": "/fipe/gas-gas/pampera-250cc-1999-834002-1/",
+      "ano": 1999,
+      "marca": "GAS GAS"
+    }
+  ],
+  "stats": {
+    "total": 5,
+    "precoMin": 4734,
+    "precoMax": 5628,
+    "anos": [
+      2002,
+      2001,
+      2000,
+      1999
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "kz-1",
+  "canonicalPath": "/geracao/kawasaki/kz-1/",
+  "titulo": "Geracao kz-1",
+  "descricao": "2 veiculos da geracao kz-1.",
+  "seo": {
+    "title": "Geracao kz-1 - Precos FIPE",
+    "description": "Veiculos da geracao kz-1 na Tabela FIPE.",
+    "h1": "Geracao kz-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/kawasaki/kz-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "kawasaki-kz-1000-touring-2001-gasolina",
+      "fipeCodigo": "817026-6",
+      "displayName": "KAWASAKI KZ 1000 TOURING",
+      "valorAtual": 40456,
+      "canonicalPath": "/fipe/kawasaki/kz-1000-touring-2001-817026-6/",
+      "ano": 2001,
+      "marca": "KAWASAKI"
+    },
+    {
+      "vehicleId": "kawasaki-kz-1000-touring-2002-gasolina",
+      "fipeCodigo": "817026-6",
+      "displayName": "KAWASAKI KZ 1000 TOURING",
+      "valorAtual": 42872,
+      "canonicalPath": "/fipe/kawasaki/kz-1000-touring-2002-817026-6/",
+      "ano": 2002,
+      "marca": "KAWASAKI"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "kz-1"
+  }
+}

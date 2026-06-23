@@ -1,0 +1,52 @@
+{
+  "tipo": "familia",
+  "slug": "switchback",
+  "canonicalPath": "/fipe/harley-davidson/switchback/",
+  "titulo": "HARLEY-DAVIDSON switchback - Tabela FIPE",
+  "descricao": "3 versoes e anos do HARLEY-DAVIDSON switchback na Tabela FIPE.",
+  "seo": {
+    "title": "HARLEY-DAVIDSON switchback - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes HARLEY-DAVIDSON switchback. 3 veiculos indexados.",
+    "h1": "HARLEY-DAVIDSON switchback - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/harley-davidson/switchback/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "harley-davidson-switchback-fld-2014-gasolina",
+      "fipeCodigo": "810056-0",
+      "displayName": "HARLEY-DAVIDSON SWITCHBACK FLD",
+      "valorAtual": 54612,
+      "canonicalPath": "/fipe/harley-davidson/switchback-fld-2014-810056-0/",
+      "ano": 2014,
+      "marca": "HARLEY-DAVIDSON"
+    },
+    {
+      "vehicleId": "harley-davidson-switchback-fld-2013-gasolina",
+      "fipeCodigo": "810056-0",
+      "displayName": "HARLEY-DAVIDSON SWITCHBACK FLD",
+      "valorAtual": 53280,
+      "canonicalPath": "/fipe/harley-davidson/switchback-fld-2013-810056-0/",
+      "ano": 2013,
+      "marca": "HARLEY-DAVIDSON"
+    },
+    {
+      "vehicleId": "harley-davidson-switchback-fld-2012-gasolina",
+      "fipeCodigo": "810056-0",
+      "displayName": "HARLEY-DAVIDSON SWITCHBACK FLD",
+      "valorAtual": 51980,
+      "canonicalPath": "/fipe/harley-davidson/switchback-fld-2012-810056-0/",
+      "ano": 2012,
+      "marca": "HARLEY-DAVIDSON"
+    }
+  ],
+  "stats": {
+    "total": 3,
+    "precoMin": 51980,
+    "precoMax": 54612,
+    "anos": [
+      2014,
+      2013,
+      2012
+    ]
+  }
+}

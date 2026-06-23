@@ -1,0 +1,42 @@
+{
+  "tipo": "familia",
+  "slug": "way",
+  "canonicalPath": "/fipe/kasinski/way/",
+  "titulo": "KASINSKI way - Tabela FIPE",
+  "descricao": "2 versoes e anos do KASINSKI way na Tabela FIPE.",
+  "seo": {
+    "title": "KASINSKI way - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes KASINSKI way. 2 veiculos indexados.",
+    "h1": "KASINSKI way - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/kasinski/way/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "kasinski-way-125-2009-gasolina",
+      "fipeCodigo": "816024-4",
+      "displayName": "KASINSKI WAY 125",
+      "valorAtual": 2253,
+      "canonicalPath": "/fipe/kasinski/way-125-2009-816024-4/",
+      "ano": 2009,
+      "marca": "KASINSKI"
+    },
+    {
+      "vehicleId": "kasinski-way-125-2008-gasolina",
+      "fipeCodigo": "816024-4",
+      "displayName": "KASINSKI WAY 125",
+      "valorAtual": 2083,
+      "canonicalPath": "/fipe/kasinski/way-125-2008-816024-4/",
+      "ano": 2008,
+      "marca": "KASINSKI"
+    }
+  ],
+  "stats": {
+    "total": 2,
+    "precoMin": 2083,
+    "precoMax": 2253,
+    "anos": [
+      2009,
+      2008
+    ]
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "tipo": "geracao",
+  "slug": "xjr-2",
+  "canonicalPath": "/geracao/jaguar/xjr-2/",
+  "titulo": "Geracao xjr-2",
+  "descricao": "3 veiculos da geracao xjr-2.",
+  "seo": {
+    "title": "Geracao xjr-2 - Precos FIPE",
+    "description": "Veiculos da geracao xjr-2 na Tabela FIPE.",
+    "h1": "Geracao xjr-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/jaguar/xjr-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "jaguar-xjr-4-2-v8-32v-400cv-4p-2007-gasolina",
+      "fipeCodigo": "016017-2",
+      "displayName": "Jaguar XJR 4.2 V8 32V 400cv 4p",
+      "valorAtual": 130064,
+      "canonicalPath": "/fipe/jaguar/xjr-4-2-v8-32v-400cv-4p-2007-016017-2/",
+      "ano": 2007,
+      "marca": "Jaguar"
+    },
+    {
+      "vehicleId": "jaguar-xjr-4-2-v8-32v-400cv-4p-2008-gasolina",
+      "fipeCodigo": "016017-2",
+      "displayName": "Jaguar XJR 4.2 V8 32V 400cv 4p",
+      "valorAtual": 134282,
+      "canonicalPath": "/fipe/jaguar/xjr-4-2-v8-32v-400cv-4p-2008-016017-2/",
+      "ano": 2008,
+      "marca": "Jaguar"
+    },
+    {
+      "vehicleId": "jaguar-xjr-4-2-v8-32v-400cv-4p-2009-gasolina",
+      "fipeCodigo": "016017-2",
+      "displayName": "Jaguar XJR 4.2 V8 32V 400cv 4p",
+      "valorAtual": 148421,
+      "canonicalPath": "/fipe/jaguar/xjr-4-2-v8-32v-400cv-4p-2009-016017-2/",
+      "ano": 2009,
+      "marca": "Jaguar"
+    }
+  ],
+  "stats": {
+    "total": 3
+  },
+  "meta": {
+    "geracaoId": "xjr-2"
+  }
+}

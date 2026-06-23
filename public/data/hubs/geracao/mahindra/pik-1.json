@@ -1,0 +1,75 @@
+{
+  "tipo": "geracao",
+  "slug": "pik-1",
+  "canonicalPath": "/geracao/mahindra/pik-1/",
+  "titulo": "Geracao pik-1",
+  "descricao": "6 veiculos da geracao pik-1.",
+  "seo": {
+    "title": "Geracao pik-1 - Precos FIPE",
+    "description": "Veiculos da geracao pik-1 na Tabela FIPE.",
+    "h1": "Geracao pik-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/mahindra/pik-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "mahindra-pik-up-cd-2-2-4x2-diesel-mec-2014-diesel",
+      "fipeCodigo": "065007-2",
+      "displayName": "Mahindra PIK-UP CD 2.2 4X2 (diesel) Mec.",
+      "valorAtual": 43353,
+      "canonicalPath": "/fipe/mahindra/pik-up-cd-2-2-4x2-diesel-mec-2014-065007-2/",
+      "ano": 2014,
+      "marca": "Mahindra"
+    },
+    {
+      "vehicleId": "mahindra-pik-up-cd-2-2-4x4-diesel-mec-2013-diesel",
+      "fipeCodigo": "065005-6",
+      "displayName": "Mahindra PIK-UP CD 2.2 4X4 (diesel) Mec.",
+      "valorAtual": 50139,
+      "canonicalPath": "/fipe/mahindra/pik-up-cd-2-2-4x4-diesel-mec-2013-065005-6/",
+      "ano": 2013,
+      "marca": "Mahindra"
+    },
+    {
+      "vehicleId": "mahindra-pik-up-cd-2-2-4x4-diesel-mec-2014-diesel",
+      "fipeCodigo": "065005-6",
+      "displayName": "Mahindra PIK-UP CD 2.2 4X4 (diesel) Mec.",
+      "valorAtual": 53262,
+      "canonicalPath": "/fipe/mahindra/pik-up-cd-2-2-4x4-diesel-mec-2014-065005-6/",
+      "ano": 2014,
+      "marca": "Mahindra"
+    },
+    {
+      "vehicleId": "mahindra-pik-up-cs-2-2-4x2-diesel-mec-2014-diesel",
+      "fipeCodigo": "065006-4",
+      "displayName": "Mahindra PIK-UP CS 2.2 4X2 (diesel) Mec.",
+      "valorAtual": 44687,
+      "canonicalPath": "/fipe/mahindra/pik-up-cs-2-2-4x2-diesel-mec-2014-065006-4/",
+      "ano": 2014,
+      "marca": "Mahindra"
+    },
+    {
+      "vehicleId": "mahindra-pik-up-cs-2-2-4x4-diesel-mec-2013-diesel",
+      "fipeCodigo": "065004-8",
+      "displayName": "Mahindra PIK-UP CS 2.2 4X4 (diesel) Mec.",
+      "valorAtual": 49882,
+      "canonicalPath": "/fipe/mahindra/pik-up-cs-2-2-4x4-diesel-mec-2013-065004-8/",
+      "ano": 2013,
+      "marca": "Mahindra"
+    },
+    {
+      "vehicleId": "mahindra-pik-up-cs-2-2-4x4-diesel-mec-2014-diesel",
+      "fipeCodigo": "065004-8",
+      "displayName": "Mahindra PIK-UP CS 2.2 4X4 (diesel) Mec.",
+      "valorAtual": 53063,
+      "canonicalPath": "/fipe/mahindra/pik-up-cs-2-2-4x4-diesel-mec-2014-065004-8/",
+      "ano": 2014,
+      "marca": "Mahindra"
+    }
+  ],
+  "stats": {
+    "total": 6
+  },
+  "meta": {
+    "geracaoId": "pik-1"
+  }
+}

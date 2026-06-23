@@ -1,0 +1,62 @@
+{
+  "tipo": "familia",
+  "slug": "grand",
+  "canonicalPath": "/fipe/hyundai/grand/",
+  "titulo": "Hyundai grand - Tabela FIPE",
+  "descricao": "4 versoes e anos do Hyundai grand na Tabela FIPE.",
+  "seo": {
+    "title": "Hyundai grand - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes Hyundai grand. 4 veiculos indexados.",
+    "h1": "Hyundai grand - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/hyundai/grand/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "hyundai-grand-santa-fe-3-3-v6-4x4-tiptronic-2016-gasolina",
+      "fipeCodigo": "015108-4",
+      "displayName": "Hyundai Grand Santa Fé  3.3 V6 4X4 Tiptronic",
+      "valorAtual": 101537,
+      "canonicalPath": "/fipe/hyundai/grand-santa-fe-3-3-v6-4x4-tiptronic-2016-015108-4/",
+      "ano": 2016,
+      "marca": "Hyundai"
+    },
+    {
+      "vehicleId": "hyundai-grand-santa-fe-3-3-v6-4x4-tiptronic-2015-gasolina",
+      "fipeCodigo": "015108-4",
+      "displayName": "Hyundai Grand Santa Fé  3.3 V6 4X4 Tiptronic",
+      "valorAtual": 92144,
+      "canonicalPath": "/fipe/hyundai/grand-santa-fe-3-3-v6-4x4-tiptronic-2015-015108-4/",
+      "ano": 2015,
+      "marca": "Hyundai"
+    },
+    {
+      "vehicleId": "hyundai-grand-santa-fe-3-3-v6-4x4-tiptronic-2014-gasolina",
+      "fipeCodigo": "015108-4",
+      "displayName": "Hyundai Grand Santa Fé  3.3 V6 4X4 Tiptronic",
+      "valorAtual": 88096,
+      "canonicalPath": "/fipe/hyundai/grand-santa-fe-3-3-v6-4x4-tiptronic-2014-015108-4/",
+      "ano": 2014,
+      "marca": "Hyundai"
+    },
+    {
+      "vehicleId": "hyundai-grand-santa-fe-3-3-v6-4x4-tiptronic-2013-gasolina",
+      "fipeCodigo": "015108-4",
+      "displayName": "Hyundai Grand Santa Fé  3.3 V6 4X4 Tiptronic",
+      "valorAtual": 84591,
+      "canonicalPath": "/fipe/hyundai/grand-santa-fe-3-3-v6-4x4-tiptronic-2013-015108-4/",
+      "ano": 2013,
+      "marca": "Hyundai"
+    }
+  ],
+  "stats": {
+    "total": 4,
+    "precoMin": 84591,
+    "precoMax": 101537,
+    "anos": [
+      2016,
+      2015,
+      2014,
+      2013
+    ]
+  }
+}

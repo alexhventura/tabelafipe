@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "sonoma-1",
+  "canonicalPath": "/geracao/chevrolet/sonoma-1/",
+  "titulo": "Geracao sonoma-1",
+  "descricao": "2 veiculos da geracao sonoma-1.",
+  "seo": {
+    "title": "Geracao sonoma-1 - Precos FIPE",
+    "description": "Veiculos da geracao sonoma-1 na Tabela FIPE.",
+    "h1": "Geracao sonoma-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/chevrolet/sonoma-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "chevrolet-sonoma-ce-4-3-v6-1994-gasolina",
+      "fipeCodigo": "004166-1",
+      "displayName": "GM - Chevrolet Sonoma CE 4.3 V6",
+      "valorAtual": 18269,
+      "canonicalPath": "/fipe/chevrolet/sonoma-ce-4-3-v6-1994-004166-1/",
+      "ano": 1994,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-sonoma-ce-4-3-v6-1995-gasolina",
+      "fipeCodigo": "004166-1",
+      "displayName": "GM - Chevrolet Sonoma CE 4.3 V6",
+      "valorAtual": 22193,
+      "canonicalPath": "/fipe/chevrolet/sonoma-ce-4-3-v6-1995-004166-1/",
+      "ano": 1995,
+      "marca": "GM - Chevrolet"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "sonoma-1"
+  }
+}

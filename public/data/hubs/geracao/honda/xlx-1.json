@@ -1,0 +1,84 @@
+{
+  "tipo": "geracao",
+  "slug": "xlx-1",
+  "canonicalPath": "/geracao/honda/xlx-1/",
+  "titulo": "Geracao xlx-1",
+  "descricao": "7 veiculos da geracao xlx-1.",
+  "seo": {
+    "title": "Geracao xlx-1 - Precos FIPE",
+    "description": "Veiculos da geracao xlx-1 na Tabela FIPE.",
+    "h1": "Geracao xlx-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/honda/xlx-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "honda-xlx-250-r-1990-gasolina",
+      "fipeCodigo": "811044-1",
+      "displayName": "HONDA XLX 250 R",
+      "valorAtual": 8087,
+      "canonicalPath": "/fipe/honda/xlx-250-r-1990-811044-1/",
+      "ano": 1990,
+      "marca": "HONDA"
+    },
+    {
+      "vehicleId": "honda-xlx-250-r-1991-gasolina",
+      "fipeCodigo": "811044-1",
+      "displayName": "HONDA XLX 250 R",
+      "valorAtual": 9061,
+      "canonicalPath": "/fipe/honda/xlx-250-r-1991-811044-1/",
+      "ano": 1991,
+      "marca": "HONDA"
+    },
+    {
+      "vehicleId": "honda-xlx-250-r-1992-gasolina",
+      "fipeCodigo": "811044-1",
+      "displayName": "HONDA XLX 250 R",
+      "valorAtual": 9558,
+      "canonicalPath": "/fipe/honda/xlx-250-r-1992-811044-1/",
+      "ano": 1992,
+      "marca": "HONDA"
+    },
+    {
+      "vehicleId": "honda-xlx-250-r-1993-gasolina",
+      "fipeCodigo": "811044-1",
+      "displayName": "HONDA XLX 250 R",
+      "valorAtual": 9797,
+      "canonicalPath": "/fipe/honda/xlx-250-r-1993-811044-1/",
+      "ano": 1993,
+      "marca": "HONDA"
+    },
+    {
+      "vehicleId": "honda-xlx-250-r-1994-gasolina",
+      "fipeCodigo": "811044-1",
+      "displayName": "HONDA XLX 250 R",
+      "valorAtual": 10042,
+      "canonicalPath": "/fipe/honda/xlx-250-r-1994-811044-1/",
+      "ano": 1994,
+      "marca": "HONDA"
+    },
+    {
+      "vehicleId": "honda-xlx-350-r-1990-gasolina",
+      "fipeCodigo": "811045-0",
+      "displayName": "HONDA XLX 350 R",
+      "valorAtual": 11987,
+      "canonicalPath": "/fipe/honda/xlx-350-r-1990-811045-0/",
+      "ano": 1990,
+      "marca": "HONDA"
+    },
+    {
+      "vehicleId": "honda-xlx-350-r-1991-gasolina",
+      "fipeCodigo": "811045-0",
+      "displayName": "HONDA XLX 350 R",
+      "valorAtual": 12498,
+      "canonicalPath": "/fipe/honda/xlx-350-r-1991-811045-0/",
+      "ano": 1991,
+      "marca": "HONDA"
+    }
+  ],
+  "stats": {
+    "total": 7
+  },
+  "meta": {
+    "geracaoId": "xlx-1"
+  }
+}

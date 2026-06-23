@@ -1,0 +1,57 @@
+{
+  "tipo": "geracao",
+  "slug": "x60-2",
+  "canonicalPath": "/geracao/lifan/x60-2/",
+  "titulo": "Geracao x60-2",
+  "descricao": "4 veiculos da geracao x60-2.",
+  "seo": {
+    "title": "Geracao x60-2 - Precos FIPE",
+    "description": "Veiculos da geracao x60-2 na Tabela FIPE.",
+    "h1": "Geracao x60-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/lifan/x60-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "lifan-x60-1-8-16v-128cv-5p-mec-2018-gasolina",
+      "fipeCodigo": "077003-5",
+      "displayName": "LIFAN X60 1.8 16V 128cv 5p Mec.",
+      "valorAtual": 50797,
+      "canonicalPath": "/fipe/lifan/x60-1-8-16v-128cv-5p-mec-2018-077003-5/",
+      "ano": 2018,
+      "marca": "LIFAN"
+    },
+    {
+      "vehicleId": "lifan-x60-1-8-16v-128cv-5p-mec-2019-gasolina",
+      "fipeCodigo": "077003-5",
+      "displayName": "LIFAN X60 1.8 16V 128cv 5p Mec.",
+      "valorAtual": 53104,
+      "canonicalPath": "/fipe/lifan/x60-1-8-16v-128cv-5p-mec-2019-077003-5/",
+      "ano": 2019,
+      "marca": "LIFAN"
+    },
+    {
+      "vehicleId": "lifan-x60-vip-1-8-16v-128cv-5p-aut-2018-gasolina",
+      "fipeCodigo": "077007-8",
+      "displayName": "LIFAN X60 VIP 1.8 16V 128cv 5p Aut.",
+      "valorAtual": 51060,
+      "canonicalPath": "/fipe/lifan/x60-vip-1-8-16v-128cv-5p-aut-2018-077007-8/",
+      "ano": 2018,
+      "marca": "LIFAN"
+    },
+    {
+      "vehicleId": "lifan-x60-vip-1-8-16v-128cv-5p-aut-2019-gasolina",
+      "fipeCodigo": "077007-8",
+      "displayName": "LIFAN X60 VIP 1.8 16V 128cv 5p Aut.",
+      "valorAtual": 58854,
+      "canonicalPath": "/fipe/lifan/x60-vip-1-8-16v-128cv-5p-aut-2019-077007-8/",
+      "ano": 2019,
+      "marca": "LIFAN"
+    }
+  ],
+  "stats": {
+    "total": 4
+  },
+  "meta": {
+    "geracaoId": "x60-2"
+  }
+}

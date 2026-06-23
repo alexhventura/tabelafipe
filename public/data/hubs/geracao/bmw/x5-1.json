@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "x5-1",
+  "canonicalPath": "/geracao/bmw/x5-1/",
+  "titulo": "Geracao x5-1",
+  "descricao": "2 veiculos da geracao x5-1.",
+  "seo": {
+    "title": "Geracao x5-1 - Precos FIPE",
+    "description": "Veiculos da geracao x5-1 na Tabela FIPE.",
+    "h1": "Geracao x5-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/bmw/x5-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "bmw-x5-xdrive-50e-3-0-m-sport-aut-hibrido-0-hibrido",
+      "fipeCodigo": "009307-6",
+      "displayName": "BMW X5 XDRIVE 50e 3.0 M Sport Aut. (Hibrido)",
+      "valorAtual": 856190,
+      "canonicalPath": "/fipe/bmw/x5-xdrive-50e-3-0-m-sport-aut-hibrido-0-009307-6/",
+      "ano": 0,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-x5-xdrive-50e-3-0-x-line-aut-hibrido-0-hibrido",
+      "fipeCodigo": "009308-4",
+      "displayName": "BMW X5 XDRIVE 50e 3.0 X-Line Aut. (Hibrido)",
+      "valorAtual": 789015,
+      "canonicalPath": "/fipe/bmw/x5-xdrive-50e-3-0-x-line-aut-hibrido-0-009308-4/",
+      "ano": 0,
+      "marca": "BMW"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "x5-1"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "s06-1",
+  "canonicalPath": "/geracao/jetour/s06-1/",
+  "titulo": "Geracao s06-1",
+  "descricao": "2 veiculos da geracao s06-1.",
+  "seo": {
+    "title": "Geracao s06-1 - Precos FIPE",
+    "description": "Veiculos da geracao s06-1 na Tabela FIPE.",
+    "h1": "Geracao s06-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/jetour/s06-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "jetour-s06-advance-0-hibrido",
+      "fipeCodigo": "307005-0",
+      "displayName": "Jetour S06 Advance",
+      "valorAtual": 199908,
+      "canonicalPath": "/fipe/jetour/s06-advance-0-307005-0/",
+      "ano": 0,
+      "marca": "Jetour"
+    },
+    {
+      "vehicleId": "jetour-s06-premium-0-hibrido",
+      "fipeCodigo": "307006-9",
+      "displayName": "Jetour S06 Premium",
+      "valorAtual": 229905,
+      "canonicalPath": "/fipe/jetour/s06-premium-0-307006-9/",
+      "ano": 0,
+      "marca": "Jetour"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "s06-1"
+  }
+}

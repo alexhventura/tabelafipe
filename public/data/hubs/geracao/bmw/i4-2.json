@@ -1,0 +1,93 @@
+{
+  "tipo": "geracao",
+  "slug": "i4-2",
+  "canonicalPath": "/geracao/bmw/i4-2/",
+  "titulo": "Geracao i4-2",
+  "descricao": "8 veiculos da geracao i4-2.",
+  "seo": {
+    "title": "Geracao i4-2 - Precos FIPE",
+    "description": "Veiculos da geracao i4-2 na Tabela FIPE.",
+    "h1": "Geracao i4-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/bmw/i4-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "bmw-i4-m50-eletrico-2023-eletrico",
+      "fipeCodigo": "009302-5",
+      "displayName": "BMW i4 M50 (Elétrico)",
+      "valorAtual": 393215,
+      "canonicalPath": "/fipe/bmw/i4-m50-eletrico-2023-009302-5/",
+      "ano": 2023,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-i4-m50-eletrico-2024-eletrico",
+      "fipeCodigo": "009302-5",
+      "displayName": "BMW i4 M50 (Elétrico)",
+      "valorAtual": 404225,
+      "canonicalPath": "/fipe/bmw/i4-m50-eletrico-2024-009302-5/",
+      "ano": 2024,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-i4-m50-eletrico-2025-eletrico",
+      "fipeCodigo": "009302-5",
+      "displayName": "BMW i4 M50 (Elétrico)",
+      "valorAtual": 553279,
+      "canonicalPath": "/fipe/bmw/i4-m50-eletrico-2025-009302-5/",
+      "ano": 2025,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-i4-e-drive-35-m-sport-eletrico-2023-eletrico",
+      "fipeCodigo": "009306-8",
+      "displayName": "BMW i4 e-Drive 35 M Sport (Elétrico)",
+      "valorAtual": 281118,
+      "canonicalPath": "/fipe/bmw/i4-e-drive-35-m-sport-eletrico-2023-009306-8/",
+      "ano": 2023,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-i4-e-drive-35-m-sport-eletrico-2024-eletrico",
+      "fipeCodigo": "009306-8",
+      "displayName": "BMW i4 e-Drive 35 M Sport (Elétrico)",
+      "valorAtual": 321471,
+      "canonicalPath": "/fipe/bmw/i4-e-drive-35-m-sport-eletrico-2024-009306-8/",
+      "ano": 2024,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-i4-e-drive-40-m-sport-eletrico-2023-eletrico",
+      "fipeCodigo": "009301-7",
+      "displayName": "BMW i4 e-Drive 40 M Sport (Elétrico)",
+      "valorAtual": 320745,
+      "canonicalPath": "/fipe/bmw/i4-e-drive-40-m-sport-eletrico-2023-009301-7/",
+      "ano": 2023,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-i4-e-drive-40-m-sport-eletrico-2024-eletrico",
+      "fipeCodigo": "009301-7",
+      "displayName": "BMW i4 e-Drive 40 M Sport (Elétrico)",
+      "valorAtual": 360272,
+      "canonicalPath": "/fipe/bmw/i4-e-drive-40-m-sport-eletrico-2024-009301-7/",
+      "ano": 2024,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-i4-e-drive-40-m-sport-eletrico-2025-eletrico",
+      "fipeCodigo": "009301-7",
+      "displayName": "BMW i4 e-Drive 40 M Sport (Elétrico)",
+      "valorAtual": 438423,
+      "canonicalPath": "/fipe/bmw/i4-e-drive-40-m-sport-eletrico-2025-009301-7/",
+      "ano": 2025,
+      "marca": "BMW"
+    }
+  ],
+  "stats": {
+    "total": 8
+  },
+  "meta": {
+    "geracaoId": "i4-2"
+  }
+}

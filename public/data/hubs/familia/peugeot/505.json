@@ -1,0 +1,42 @@
+{
+  "tipo": "familia",
+  "slug": "505",
+  "canonicalPath": "/fipe/peugeot/505/",
+  "titulo": "Peugeot 505 - Tabela FIPE",
+  "descricao": "2 versoes e anos do Peugeot 505 na Tabela FIPE.",
+  "seo": {
+    "title": "Peugeot 505 - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes Peugeot 505. 2 veiculos indexados.",
+    "h1": "Peugeot 505 - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/peugeot/505/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "peugeot-505-sr-sri-srx-1993-gasolina",
+      "fipeCodigo": "024061-3",
+      "displayName": "Peugeot 505 SR/ SRi/ SRX",
+      "valorAtual": 3677,
+      "canonicalPath": "/fipe/peugeot/505-sr-sri-srx-1993-024061-3/",
+      "ano": 1993,
+      "marca": "Peugeot"
+    },
+    {
+      "vehicleId": "peugeot-505-sr-sri-srx-1992-gasolina",
+      "fipeCodigo": "024061-3",
+      "displayName": "Peugeot 505 SR/ SRi/ SRX",
+      "valorAtual": 3224,
+      "canonicalPath": "/fipe/peugeot/505-sr-sri-srx-1992-024061-3/",
+      "ano": 1992,
+      "marca": "Peugeot"
+    }
+  ],
+  "stats": {
+    "total": 2,
+    "precoMin": 3224,
+    "precoMax": 3677,
+    "anos": [
+      1993,
+      1992
+    ]
+  }
+}

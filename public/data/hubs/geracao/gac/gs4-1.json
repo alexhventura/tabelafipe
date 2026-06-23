@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "gs4-1",
+  "canonicalPath": "/geracao/gac/gs4-1/",
+  "titulo": "Geracao gs4-1",
+  "descricao": "2 veiculos da geracao gs4-1.",
+  "seo": {
+    "title": "Geracao gs4-1 - Precos FIPE",
+    "description": "Veiculos da geracao gs4-1 na Tabela FIPE.",
+    "h1": "Geracao gs4-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/gac/gs4-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "gac-gs4-elite-hibrido-0-hibrido",
+      "fipeCodigo": "304003-8",
+      "displayName": "GAC GS4 Elite (Híbrido)",
+      "valorAtual": 210155,
+      "canonicalPath": "/fipe/gac/gs4-elite-hibrido-0-304003-8/",
+      "ano": 0,
+      "marca": "GAC"
+    },
+    {
+      "vehicleId": "gac-gs4-premium-hibrido-0-hibrido",
+      "fipeCodigo": "304001-1",
+      "displayName": "GAC GS4 Premium (Híbrido)",
+      "valorAtual": 191790,
+      "canonicalPath": "/fipe/gac/gs4-premium-hibrido-0-304001-1/",
+      "ano": 0,
+      "marca": "GAC"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "gs4-1"
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "tipo": "familia",
+  "slug": "135ia",
+  "canonicalPath": "/fipe/bmw/135ia/",
+  "titulo": "BMW 135ia - Tabela FIPE",
+  "descricao": "4 versoes e anos do BMW 135ia na Tabela FIPE.",
+  "seo": {
+    "title": "BMW 135ia - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes BMW 135ia. 4 veiculos indexados.",
+    "h1": "BMW 135ia - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/bmw/135ia/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "bmw-135ia-coupe-3-0-24v-306cv-2012-gasolina",
+      "fipeCodigo": "009135-9",
+      "displayName": "BMW 135iA Coupé 3.0 24V 306cv",
+      "valorAtual": 229641,
+      "canonicalPath": "/fipe/bmw/135ia-coupe-3-0-24v-306cv-2012-009135-9/",
+      "ano": 2012,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-135ia-coupe-3-0-24v-306cv-2011-gasolina",
+      "fipeCodigo": "009135-9",
+      "displayName": "BMW 135iA Coupé 3.0 24V 306cv",
+      "valorAtual": 205349,
+      "canonicalPath": "/fipe/bmw/135ia-coupe-3-0-24v-306cv-2011-009135-9/",
+      "ano": 2011,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-135ia-coupe-3-0-24v-306cv-2010-gasolina",
+      "fipeCodigo": "009135-9",
+      "displayName": "BMW 135iA Coupé 3.0 24V 306cv",
+      "valorAtual": 183300,
+      "canonicalPath": "/fipe/bmw/135ia-coupe-3-0-24v-306cv-2010-009135-9/",
+      "ano": 2010,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-135ia-coupe-3-0-24v-306cv-2009-gasolina",
+      "fipeCodigo": "009135-9",
+      "displayName": "BMW 135iA Coupé 3.0 24V 306cv",
+      "valorAtual": 163299,
+      "canonicalPath": "/fipe/bmw/135ia-coupe-3-0-24v-306cv-2009-009135-9/",
+      "ano": 2009,
+      "marca": "BMW"
+    }
+  ],
+  "stats": {
+    "total": 4,
+    "precoMin": 163299,
+    "precoMax": 229641,
+    "anos": [
+      2012,
+      2011,
+      2010,
+      2009
+    ]
+  }
+}

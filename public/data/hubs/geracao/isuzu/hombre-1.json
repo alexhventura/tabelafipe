@@ -1,0 +1,57 @@
+{
+  "tipo": "geracao",
+  "slug": "hombre-1",
+  "canonicalPath": "/geracao/isuzu/hombre-1/",
+  "titulo": "Geracao hombre-1",
+  "descricao": "4 veiculos da geracao hombre-1.",
+  "seo": {
+    "title": "Geracao hombre-1 - Precos FIPE",
+    "description": "Veiculos da geracao hombre-1 na Tabela FIPE.",
+    "h1": "Geracao hombre-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/isuzu/hombre-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "isuzu-hombre-2-wd-xs-2-2-1995-gasolina",
+      "fipeCodigo": "046002-8",
+      "displayName": "Isuzu Hombre 2 WD XS 2.2",
+      "valorAtual": 12498,
+      "canonicalPath": "/fipe/isuzu/hombre-2-wd-xs-2-2-1995-046002-8/",
+      "ano": 1995,
+      "marca": "Isuzu"
+    },
+    {
+      "vehicleId": "isuzu-hombre-2-wd-xs-2-2-1996-gasolina",
+      "fipeCodigo": "046002-8",
+      "displayName": "Isuzu Hombre 2 WD XS 2.2",
+      "valorAtual": 13109,
+      "canonicalPath": "/fipe/isuzu/hombre-2-wd-xs-2-2-1996-046002-8/",
+      "ano": 1996,
+      "marca": "Isuzu"
+    },
+    {
+      "vehicleId": "isuzu-hombre-2-wd-xs-2-2-1997-gasolina",
+      "fipeCodigo": "046002-8",
+      "displayName": "Isuzu Hombre 2 WD XS 2.2",
+      "valorAtual": 15275,
+      "canonicalPath": "/fipe/isuzu/hombre-2-wd-xs-2-2-1997-046002-8/",
+      "ano": 1997,
+      "marca": "Isuzu"
+    },
+    {
+      "vehicleId": "isuzu-hombre-2-wd-xs-2-2-1998-gasolina",
+      "fipeCodigo": "046002-8",
+      "displayName": "Isuzu Hombre 2 WD XS 2.2",
+      "valorAtual": 17078,
+      "canonicalPath": "/fipe/isuzu/hombre-2-wd-xs-2-2-1998-046002-8/",
+      "ano": 1998,
+      "marca": "Isuzu"
+    }
+  ],
+  "stats": {
+    "total": 4
+  },
+  "meta": {
+    "geracaoId": "hombre-1"
+  }
+}

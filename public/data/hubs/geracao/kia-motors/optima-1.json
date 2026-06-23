@@ -1,0 +1,66 @@
+{
+  "tipo": "geracao",
+  "slug": "optima-1",
+  "canonicalPath": "/geracao/kia-motors/optima-1/",
+  "titulo": "Geracao optima-1",
+  "descricao": "5 veiculos da geracao optima-1.",
+  "seo": {
+    "title": "Geracao optima-1 - Precos FIPE",
+    "description": "Veiculos da geracao optima-1 na Tabela FIPE.",
+    "h1": "Geracao optima-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/kia-motors/optima-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "kia-motors-optima-2-0-16v-165cv-aut-2014-gasolina",
+      "fipeCodigo": "018086-6",
+      "displayName": "Kia Motors OPTIMA 2.0 16V 165cv Aut.",
+      "valorAtual": 64405,
+      "canonicalPath": "/fipe/kia-motors/optima-2-0-16v-165cv-aut-2014-018086-6/",
+      "ano": 2014,
+      "marca": "Kia Motors"
+    },
+    {
+      "vehicleId": "kia-motors-optima-2-0-16v-165cv-aut-2015-gasolina",
+      "fipeCodigo": "018086-6",
+      "displayName": "Kia Motors OPTIMA 2.0 16V 165cv Aut.",
+      "valorAtual": 69358,
+      "canonicalPath": "/fipe/kia-motors/optima-2-0-16v-165cv-aut-2015-018086-6/",
+      "ano": 2015,
+      "marca": "Kia Motors"
+    },
+    {
+      "vehicleId": "kia-motors-optima-2-0-16v-165cv-aut-2016-gasolina",
+      "fipeCodigo": "018086-6",
+      "displayName": "Kia Motors OPTIMA 2.0 16V 165cv Aut.",
+      "valorAtual": 74151,
+      "canonicalPath": "/fipe/kia-motors/optima-2-0-16v-165cv-aut-2016-018086-6/",
+      "ano": 2016,
+      "marca": "Kia Motors"
+    },
+    {
+      "vehicleId": "kia-motors-optima-2-4-16v-180cv-aut-2013-gasolina",
+      "fipeCodigo": "018083-1",
+      "displayName": "Kia Motors OPTIMA 2.4 16V 180cv Aut.",
+      "valorAtual": 63303,
+      "canonicalPath": "/fipe/kia-motors/optima-2-4-16v-180cv-aut-2013-018083-1/",
+      "ano": 2013,
+      "marca": "Kia Motors"
+    },
+    {
+      "vehicleId": "kia-motors-optima-2-4-16v-180cv-aut-2014-gasolina",
+      "fipeCodigo": "018083-1",
+      "displayName": "Kia Motors OPTIMA 2.4 16V 180cv Aut.",
+      "valorAtual": 70097,
+      "canonicalPath": "/fipe/kia-motors/optima-2-4-16v-180cv-aut-2014-018083-1/",
+      "ano": 2014,
+      "marca": "Kia Motors"
+    }
+  ],
+  "stats": {
+    "total": 5
+  },
+  "meta": {
+    "geracaoId": "optima-1"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "tipo": "familia",
+  "slug": "one",
+  "canonicalPath": "/fipe/arrow/one/",
+  "titulo": "ARROW one - Tabela FIPE",
+  "descricao": "5 versoes e anos do ARROW one na Tabela FIPE.",
+  "seo": {
+    "title": "ARROW one - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes ARROW one. 5 veiculos indexados.",
+    "h1": "ARROW one - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/arrow/one/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "arrow-one-work-eletrico-2026-eletrico",
+      "fipeCodigo": "532001-1",
+      "displayName": "ARROW ONE Work (Elétrico)",
+      "valorAtual": 608778,
+      "canonicalPath": "/fipe/arrow/one-work-eletrico-2026-532001-1/",
+      "ano": 2026,
+      "marca": "ARROW"
+    },
+    {
+      "vehicleId": "arrow-one-work-eletrico-2025-eletrico",
+      "fipeCodigo": "532001-1",
+      "displayName": "ARROW ONE Work (Elétrico)",
+      "valorAtual": 591100,
+      "canonicalPath": "/fipe/arrow/one-work-eletrico-2025-532001-1/",
+      "ano": 2025,
+      "marca": "ARROW"
+    },
+    {
+      "vehicleId": "arrow-one-work-eletrico-2024-eletrico",
+      "fipeCodigo": "532001-1",
+      "displayName": "ARROW ONE Work (Elétrico)",
+      "valorAtual": 542185,
+      "canonicalPath": "/fipe/arrow/one-work-eletrico-2024-532001-1/",
+      "ano": 2024,
+      "marca": "ARROW"
+    },
+    {
+      "vehicleId": "arrow-one-work-eletrico-2023-eletrico",
+      "fipeCodigo": "532001-1",
+      "displayName": "ARROW ONE Work (Elétrico)",
+      "valorAtual": 527451,
+      "canonicalPath": "/fipe/arrow/one-work-eletrico-2023-532001-1/",
+      "ano": 2023,
+      "marca": "ARROW"
+    },
+    {
+      "vehicleId": "arrow-one-work-eletrico-0-eletrico",
+      "fipeCodigo": "532001-1",
+      "displayName": "ARROW ONE Work (Elétrico)",
+      "valorAtual": 689000,
+      "canonicalPath": "/fipe/arrow/one-work-eletrico-0-532001-1/",
+      "ano": 0,
+      "marca": "ARROW"
+    }
+  ],
+  "stats": {
+    "total": 5,
+    "precoMin": 527451,
+    "precoMax": 689000,
+    "anos": [
+      2026,
+      2025,
+      2024,
+      2023,
+      0
+    ]
+  }
+}

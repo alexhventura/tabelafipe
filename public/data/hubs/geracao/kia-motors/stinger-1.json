@@ -1,0 +1,48 @@
+{
+  "tipo": "geracao",
+  "slug": "stinger-1",
+  "canonicalPath": "/geracao/kia-motors/stinger-1/",
+  "titulo": "Geracao stinger-1",
+  "descricao": "3 veiculos da geracao stinger-1.",
+  "seo": {
+    "title": "Geracao stinger-1 - Precos FIPE",
+    "description": "Veiculos da geracao stinger-1 na Tabela FIPE.",
+    "h1": "Geracao stinger-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/kia-motors/stinger-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "kia-motors-stinger-gt-3-3-v6-bi-turbo-370cv-aut-2018-gasolina",
+      "fipeCodigo": "018091-2",
+      "displayName": "Kia Motors Stinger GT 3.3 V6 Bi-Turbo 370cv Aut.",
+      "valorAtual": 234793,
+      "canonicalPath": "/fipe/kia-motors/stinger-gt-3-3-v6-bi-turbo-370cv-aut-2018-018091-2/",
+      "ano": 2018,
+      "marca": "Kia Motors"
+    },
+    {
+      "vehicleId": "kia-motors-stinger-gt-3-3-v6-bi-turbo-370cv-aut-2019-gasolina",
+      "fipeCodigo": "018091-2",
+      "displayName": "Kia Motors Stinger GT 3.3 V6 Bi-Turbo 370cv Aut.",
+      "valorAtual": 240663,
+      "canonicalPath": "/fipe/kia-motors/stinger-gt-3-3-v6-bi-turbo-370cv-aut-2019-018091-2/",
+      "ano": 2019,
+      "marca": "Kia Motors"
+    },
+    {
+      "vehicleId": "kia-motors-stinger-gt-3-3-v6-bi-turbo-370cv-aut-2020-gasolina",
+      "fipeCodigo": "018091-2",
+      "displayName": "Kia Motors Stinger GT 3.3 V6 Bi-Turbo 370cv Aut.",
+      "valorAtual": 252487,
+      "canonicalPath": "/fipe/kia-motors/stinger-gt-3-3-v6-bi-turbo-370cv-aut-2020-018091-2/",
+      "ano": 2020,
+      "marca": "Kia Motors"
+    }
+  ],
+  "stats": {
+    "total": 3
+  },
+  "meta": {
+    "geracaoId": "stinger-1"
+  }
+}

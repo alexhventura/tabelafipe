@@ -1,0 +1,42 @@
+{
+  "tipo": "familia",
+  "slug": "safrane",
+  "canonicalPath": "/fipe/renault/safrane/",
+  "titulo": "Renault safrane - Tabela FIPE",
+  "descricao": "2 versoes e anos do Renault safrane na Tabela FIPE.",
+  "seo": {
+    "title": "Renault safrane - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes Renault safrane. 2 veiculos indexados.",
+    "h1": "Renault safrane - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/renault/safrane/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "renault-safrane-rxe-1995-gasolina",
+      "fipeCodigo": "025023-6",
+      "displayName": "Renault Safrane RXE",
+      "valorAtual": 8091,
+      "canonicalPath": "/fipe/renault/safrane-rxe-1995-025023-6/",
+      "ano": 1995,
+      "marca": "Renault"
+    },
+    {
+      "vehicleId": "renault-safrane-rxe-1993-gasolina",
+      "fipeCodigo": "025023-6",
+      "displayName": "Renault Safrane RXE",
+      "valorAtual": 7252,
+      "canonicalPath": "/fipe/renault/safrane-rxe-1993-025023-6/",
+      "ano": 1993,
+      "marca": "Renault"
+    }
+  ],
+  "stats": {
+    "total": 2,
+    "precoMin": 7252,
+    "precoMax": 8091,
+    "anos": [
+      1995,
+      1993
+    ]
+  }
+}

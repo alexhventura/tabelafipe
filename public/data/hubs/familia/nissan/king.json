@@ -1,0 +1,62 @@
+{
+  "tipo": "familia",
+  "slug": "king",
+  "canonicalPath": "/fipe/nissan/king/",
+  "titulo": "Nissan king - Tabela FIPE",
+  "descricao": "4 versoes e anos do Nissan king na Tabela FIPE.",
+  "seo": {
+    "title": "Nissan king - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes Nissan king. 4 veiculos indexados.",
+    "h1": "Nissan king - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/nissan/king/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "nissan-king-cab-se-4x4-3-0-v6-1995-gasolina",
+      "fipeCodigo": "023026-0",
+      "displayName": "Nissan King-Cab SE 4x4 3.0 V6",
+      "valorAtual": 15399,
+      "canonicalPath": "/fipe/nissan/king-cab-se-4x4-3-0-v6-1995-023026-0/",
+      "ano": 1995,
+      "marca": "Nissan"
+    },
+    {
+      "vehicleId": "nissan-king-cab-se-4x4-3-0-v6-1994-gasolina",
+      "fipeCodigo": "023026-0",
+      "displayName": "Nissan King-Cab SE 4x4 3.0 V6",
+      "valorAtual": 13925,
+      "canonicalPath": "/fipe/nissan/king-cab-se-4x4-3-0-v6-1994-023026-0/",
+      "ano": 1994,
+      "marca": "Nissan"
+    },
+    {
+      "vehicleId": "nissan-king-cab-se-4x4-3-0-v6-1993-gasolina",
+      "fipeCodigo": "023026-0",
+      "displayName": "Nissan King-Cab SE 4x4 3.0 V6",
+      "valorAtual": 11697,
+      "canonicalPath": "/fipe/nissan/king-cab-se-4x4-3-0-v6-1993-023026-0/",
+      "ano": 1993,
+      "marca": "Nissan"
+    },
+    {
+      "vehicleId": "nissan-king-cab-se-4x4-3-0-v6-1992-gasolina",
+      "fipeCodigo": "023026-0",
+      "displayName": "Nissan King-Cab SE 4x4 3.0 V6",
+      "valorAtual": 10142,
+      "canonicalPath": "/fipe/nissan/king-cab-se-4x4-3-0-v6-1992-023026-0/",
+      "ano": 1992,
+      "marca": "Nissan"
+    }
+  ],
+  "stats": {
+    "total": 4,
+    "precoMin": 10142,
+    "precoMax": 15399,
+    "anos": [
+      1995,
+      1994,
+      1993,
+      1992
+    ]
+  }
+}

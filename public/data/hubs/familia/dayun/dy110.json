@@ -1,0 +1,52 @@
+{
+  "tipo": "familia",
+  "slug": "dy110",
+  "canonicalPath": "/fipe/dayun/dy110/",
+  "titulo": "DAYUN dy110 - Tabela FIPE",
+  "descricao": "3 versoes e anos do DAYUN dy110 na Tabela FIPE.",
+  "seo": {
+    "title": "DAYUN dy110 - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes DAYUN dy110. 3 veiculos indexados.",
+    "h1": "DAYUN dy110 - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/dayun/dy110/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "dayun-dy110-6-2011-gasolina",
+      "fipeCodigo": "860001-5",
+      "displayName": "DAYUN DY110-6",
+      "valorAtual": 2626,
+      "canonicalPath": "/fipe/dayun/dy110-6-2011-860001-5/",
+      "ano": 2011,
+      "marca": "DAYUN"
+    },
+    {
+      "vehicleId": "dayun-dy110-6-2010-gasolina",
+      "fipeCodigo": "860001-5",
+      "displayName": "DAYUN DY110-6",
+      "valorAtual": 2469,
+      "canonicalPath": "/fipe/dayun/dy110-6-2010-860001-5/",
+      "ano": 2010,
+      "marca": "DAYUN"
+    },
+    {
+      "vehicleId": "dayun-dy110-6-2008-gasolina",
+      "fipeCodigo": "860001-5",
+      "displayName": "DAYUN DY110-6",
+      "valorAtual": 2188,
+      "canonicalPath": "/fipe/dayun/dy110-6-2008-860001-5/",
+      "ano": 2008,
+      "marca": "DAYUN"
+    }
+  ],
+  "stats": {
+    "total": 3,
+    "precoMin": 2188,
+    "precoMax": 2626,
+    "anos": [
+      2011,
+      2010,
+      2008
+    ]
+  }
+}

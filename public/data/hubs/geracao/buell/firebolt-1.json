@@ -1,0 +1,48 @@
+{
+  "tipo": "geracao",
+  "slug": "firebolt-1",
+  "canonicalPath": "/geracao/buell/firebolt-1/",
+  "titulo": "Geracao firebolt-1",
+  "descricao": "3 veiculos da geracao firebolt-1.",
+  "seo": {
+    "title": "Geracao firebolt-1 - Precos FIPE",
+    "description": "Veiculos da geracao firebolt-1 na Tabela FIPE.",
+    "h1": "Geracao firebolt-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/buell/firebolt-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "buell-firebolt-xb12-r-2006-gasolina",
+      "fipeCodigo": "846005-1",
+      "displayName": "BUELL FIREBOLT XB12 R",
+      "valorAtual": 23710,
+      "canonicalPath": "/fipe/buell/firebolt-xb12-r-2006-846005-1/",
+      "ano": 2006,
+      "marca": "BUELL"
+    },
+    {
+      "vehicleId": "buell-firebolt-xb12-r-2007-gasolina",
+      "fipeCodigo": "846005-1",
+      "displayName": "BUELL FIREBOLT XB12 R",
+      "valorAtual": 24303,
+      "canonicalPath": "/fipe/buell/firebolt-xb12-r-2007-846005-1/",
+      "ano": 2007,
+      "marca": "BUELL"
+    },
+    {
+      "vehicleId": "buell-firebolt-xb12-r-2008-gasolina",
+      "fipeCodigo": "846005-1",
+      "displayName": "BUELL FIREBOLT XB12 R",
+      "valorAtual": 24911,
+      "canonicalPath": "/fipe/buell/firebolt-xb12-r-2008-846005-1/",
+      "ano": 2008,
+      "marca": "BUELL"
+    }
+  ],
+  "stats": {
+    "total": 3
+  },
+  "meta": {
+    "geracaoId": "firebolt-1"
+  }
+}

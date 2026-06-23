@@ -1,0 +1,75 @@
+{
+  "tipo": "geracao",
+  "slug": "b2200-1",
+  "canonicalPath": "/geracao/mazda/b2200-1/",
+  "titulo": "Geracao b2200-1",
+  "descricao": "6 veiculos da geracao b2200-1.",
+  "seo": {
+    "title": "Geracao b2200-1 - Precos FIPE",
+    "description": "Veiculos da geracao b2200-1 na Tabela FIPE.",
+    "h1": "Geracao b2200-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/mazda/b2200-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "mazda-b2200-pick-up-2-2-diesel-1993-diesel",
+      "fipeCodigo": "020007-7",
+      "displayName": "Mazda B2200 Pick-Up 2.2 Diesel",
+      "valorAtual": 7589,
+      "canonicalPath": "/fipe/mazda/b2200-pick-up-2-2-diesel-1993-020007-7/",
+      "ano": 1993,
+      "marca": "Mazda"
+    },
+    {
+      "vehicleId": "mazda-b2200-pick-up-2-2-diesel-1994-diesel",
+      "fipeCodigo": "020007-7",
+      "displayName": "Mazda B2200 Pick-Up 2.2 Diesel",
+      "valorAtual": 9051,
+      "canonicalPath": "/fipe/mazda/b2200-pick-up-2-2-diesel-1994-020007-7/",
+      "ano": 1994,
+      "marca": "Mazda"
+    },
+    {
+      "vehicleId": "mazda-b2200-pick-up-2-2-diesel-1995-diesel",
+      "fipeCodigo": "020007-7",
+      "displayName": "Mazda B2200 Pick-Up 2.2 Diesel",
+      "valorAtual": 13795,
+      "canonicalPath": "/fipe/mazda/b2200-pick-up-2-2-diesel-1995-020007-7/",
+      "ano": 1995,
+      "marca": "Mazda"
+    },
+    {
+      "vehicleId": "mazda-b2200-pick-up-cd-2-2-diesel-1993-diesel",
+      "fipeCodigo": "020008-5",
+      "displayName": "Mazda B2200 Pick-Up CD 2.2 Diesel",
+      "valorAtual": 7793,
+      "canonicalPath": "/fipe/mazda/b2200-pick-up-cd-2-2-diesel-1993-020008-5/",
+      "ano": 1993,
+      "marca": "Mazda"
+    },
+    {
+      "vehicleId": "mazda-b2200-pick-up-cd-2-2-diesel-1994-diesel",
+      "fipeCodigo": "020008-5",
+      "displayName": "Mazda B2200 Pick-Up CD 2.2 Diesel",
+      "valorAtual": 9481,
+      "canonicalPath": "/fipe/mazda/b2200-pick-up-cd-2-2-diesel-1994-020008-5/",
+      "ano": 1994,
+      "marca": "Mazda"
+    },
+    {
+      "vehicleId": "mazda-b2200-pick-up-cd-2-2-diesel-1995-diesel",
+      "fipeCodigo": "020008-5",
+      "displayName": "Mazda B2200 Pick-Up CD 2.2 Diesel",
+      "valorAtual": 12535,
+      "canonicalPath": "/fipe/mazda/b2200-pick-up-cd-2-2-diesel-1995-020008-5/",
+      "ano": 1995,
+      "marca": "Mazda"
+    }
+  ],
+  "stats": {
+    "total": 6
+  },
+  "meta": {
+    "geracaoId": "b2200-1"
+  }
+}

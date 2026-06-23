@@ -1,0 +1,81 @@
+{
+  "tipo": "familia",
+  "slug": "x",
+  "canonicalPath": "/fipe/nissan/x/",
+  "titulo": "Nissan x - Tabela FIPE",
+  "descricao": "6 versoes e anos do Nissan x na Tabela FIPE.",
+  "seo": {
+    "title": "Nissan x - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes Nissan x. 6 veiculos indexados.",
+    "h1": "Nissan x - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/nissan/x/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "nissan-x-trail-se-2-0-16v-138cv-aut-2009-gasolina",
+      "fipeCodigo": "023074-0",
+      "displayName": "Nissan X-TRAIL SE 2.0 16V 138cv Aut.",
+      "valorAtual": 39529,
+      "canonicalPath": "/fipe/nissan/x-trail-se-2-0-16v-138cv-aut-2009-023074-0/",
+      "ano": 2009,
+      "marca": "Nissan"
+    },
+    {
+      "vehicleId": "nissan-x-trail-le-2-0-16v-138cv-aut-2009-gasolina",
+      "fipeCodigo": "023075-8",
+      "displayName": "Nissan X-TRAIL LE 2.0 16V 138cv Aut.",
+      "valorAtual": 47858,
+      "canonicalPath": "/fipe/nissan/x-trail-le-2-0-16v-138cv-aut-2009-023075-8/",
+      "ano": 2009,
+      "marca": "Nissan"
+    },
+    {
+      "vehicleId": "nissan-x-trail-gx-2-5-16v-180cv-5p-2008-gasolina",
+      "fipeCodigo": "023053-7",
+      "displayName": "Nissan X-TRAIL GX 2.5 16V 180cv 5p",
+      "valorAtual": 40182,
+      "canonicalPath": "/fipe/nissan/x-trail-gx-2-5-16v-180cv-5p-2008-023053-7/",
+      "ano": 2008,
+      "marca": "Nissan"
+    },
+    {
+      "vehicleId": "nissan-x-trail-gx-2-5-16v-180cv-5p-2007-gasolina",
+      "fipeCodigo": "023053-7",
+      "displayName": "Nissan X-TRAIL GX 2.5 16V 180cv 5p",
+      "valorAtual": 39201,
+      "canonicalPath": "/fipe/nissan/x-trail-gx-2-5-16v-180cv-5p-2007-023053-7/",
+      "ano": 2007,
+      "marca": "Nissan"
+    },
+    {
+      "vehicleId": "nissan-x-trail-gx-2-5-16v-180cv-5p-2006-gasolina",
+      "fipeCodigo": "023053-7",
+      "displayName": "Nissan X-TRAIL GX 2.5 16V 180cv 5p",
+      "valorAtual": 35044,
+      "canonicalPath": "/fipe/nissan/x-trail-gx-2-5-16v-180cv-5p-2006-023053-7/",
+      "ano": 2006,
+      "marca": "Nissan"
+    },
+    {
+      "vehicleId": "nissan-x-trail-gx-2-5-16v-180cv-5p-2005-gasolina",
+      "fipeCodigo": "023053-7",
+      "displayName": "Nissan X-TRAIL GX 2.5 16V 180cv 5p",
+      "valorAtual": 29881,
+      "canonicalPath": "/fipe/nissan/x-trail-gx-2-5-16v-180cv-5p-2005-023053-7/",
+      "ano": 2005,
+      "marca": "Nissan"
+    }
+  ],
+  "stats": {
+    "total": 6,
+    "precoMin": 29881,
+    "precoMax": 47858,
+    "anos": [
+      2009,
+      2008,
+      2007,
+      2006,
+      2005
+    ]
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "tipo": "geracao",
+  "slug": "f12-1",
+  "canonicalPath": "/geracao/ferrari/f12-1/",
+  "titulo": "Geracao f12-1",
+  "descricao": "6 veiculos da geracao f12-1.",
+  "seo": {
+    "title": "Geracao f12-1 - Precos FIPE",
+    "description": "Veiculos da geracao f12-1 na Tabela FIPE.",
+    "h1": "Geracao f12-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/ferrari/f12-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "ferrari-f12-berlinetta-740cv-2013-gasolina",
+      "fipeCodigo": "031034-4",
+      "displayName": "Ferrari F12 Berlinetta 740cv",
+      "valorAtual": 3766432,
+      "canonicalPath": "/fipe/ferrari/f12-berlinetta-740cv-2013-031034-4/",
+      "ano": 2013,
+      "marca": "Ferrari"
+    },
+    {
+      "vehicleId": "ferrari-f12-berlinetta-740cv-2014-gasolina",
+      "fipeCodigo": "031034-4",
+      "displayName": "Ferrari F12 Berlinetta 740cv",
+      "valorAtual": 3860593,
+      "canonicalPath": "/fipe/ferrari/f12-berlinetta-740cv-2014-031034-4/",
+      "ano": 2014,
+      "marca": "Ferrari"
+    },
+    {
+      "vehicleId": "ferrari-f12-berlinetta-740cv-2015-gasolina",
+      "fipeCodigo": "031034-4",
+      "displayName": "Ferrari F12 Berlinetta 740cv",
+      "valorAtual": 4684034,
+      "canonicalPath": "/fipe/ferrari/f12-berlinetta-740cv-2015-031034-4/",
+      "ano": 2015,
+      "marca": "Ferrari"
+    },
+    {
+      "vehicleId": "ferrari-f12-berlinetta-740cv-2016-gasolina",
+      "fipeCodigo": "031034-4",
+      "displayName": "Ferrari F12 Berlinetta 740cv",
+      "valorAtual": 4801135,
+      "canonicalPath": "/fipe/ferrari/f12-berlinetta-740cv-2016-031034-4/",
+      "ano": 2016,
+      "marca": "Ferrari"
+    },
+    {
+      "vehicleId": "ferrari-f12-berlinetta-740cv-2017-gasolina",
+      "fipeCodigo": "031034-4",
+      "displayName": "Ferrari F12 Berlinetta 740cv",
+      "valorAtual": 4921164,
+      "canonicalPath": "/fipe/ferrari/f12-berlinetta-740cv-2017-031034-4/",
+      "ano": 2017,
+      "marca": "Ferrari"
+    },
+    {
+      "vehicleId": "ferrari-f12-tdf-780cv-2017-gasolina",
+      "fipeCodigo": "031038-7",
+      "displayName": "Ferrari F12 TDF 780cv",
+      "valorAtual": 3720414,
+      "canonicalPath": "/fipe/ferrari/f12-tdf-780cv-2017-031038-7/",
+      "ano": 2017,
+      "marca": "Ferrari"
+    }
+  ],
+  "stats": {
+    "total": 6
+  },
+  "meta": {
+    "geracaoId": "f12-1"
+  }
+}

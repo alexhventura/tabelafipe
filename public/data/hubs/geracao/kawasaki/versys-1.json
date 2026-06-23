@@ -1,0 +1,93 @@
+{
+  "tipo": "geracao",
+  "slug": "versys-1",
+  "canonicalPath": "/geracao/kawasaki/versys-1/",
+  "titulo": "Geracao versys-1",
+  "descricao": "8 veiculos da geracao versys-1.",
+  "seo": {
+    "title": "Geracao versys-1 - Precos FIPE",
+    "description": "Veiculos da geracao versys-1 na Tabela FIPE.",
+    "h1": "Geracao versys-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/kawasaki/versys-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "kawasaki-versys-1000-0-gasolina",
+      "fipeCodigo": "817059-2",
+      "displayName": "KAWASAKI Versys 1000",
+      "valorAtual": 78545,
+      "canonicalPath": "/fipe/kawasaki/versys-1000-0-817059-2/",
+      "ano": 0,
+      "marca": "KAWASAKI"
+    },
+    {
+      "vehicleId": "kawasaki-versys-1000-grand-tourer-0-gasolina",
+      "fipeCodigo": "817060-6",
+      "displayName": "KAWASAKI Versys 1000 GRAND TOURER",
+      "valorAtual": 100087,
+      "canonicalPath": "/fipe/kawasaki/versys-1000-grand-tourer-0-817060-6/",
+      "ano": 0,
+      "marca": "KAWASAKI"
+    },
+    {
+      "vehicleId": "kawasaki-versys-1100-0-gasolina",
+      "fipeCodigo": "817100-9",
+      "displayName": "KAWASAKI Versys 1100",
+      "valorAtual": 79883,
+      "canonicalPath": "/fipe/kawasaki/versys-1100-0-817100-9/",
+      "ano": 0,
+      "marca": "KAWASAKI"
+    },
+    {
+      "vehicleId": "kawasaki-versys-1100-grand-tourer-0-gasolina",
+      "fipeCodigo": "817101-7",
+      "displayName": "KAWASAKI Versys 1100 GRAND TOURER",
+      "valorAtual": 102572,
+      "canonicalPath": "/fipe/kawasaki/versys-1100-grand-tourer-0-817101-7/",
+      "ano": 0,
+      "marca": "KAWASAKI"
+    },
+    {
+      "vehicleId": "kawasaki-versys-650cc-0-gasolina",
+      "fipeCodigo": "817052-5",
+      "displayName": "KAWASAKI Versys 650cc",
+      "valorAtual": 57427,
+      "canonicalPath": "/fipe/kawasaki/versys-650cc-0-817052-5/",
+      "ano": 0,
+      "marca": "KAWASAKI"
+    },
+    {
+      "vehicleId": "kawasaki-versys-tourer-650-0-gasolina",
+      "fipeCodigo": "817058-4",
+      "displayName": "KAWASAKI Versys TOURER 650",
+      "valorAtual": 65760,
+      "canonicalPath": "/fipe/kawasaki/versys-tourer-650-0-817058-4/",
+      "ano": 0,
+      "marca": "KAWASAKI"
+    },
+    {
+      "vehicleId": "kawasaki-versys-x-300-0-gasolina",
+      "fipeCodigo": "817075-4",
+      "displayName": "KAWASAKI Versys-X 300",
+      "valorAtual": 37506,
+      "canonicalPath": "/fipe/kawasaki/versys-x-300-0-817075-4/",
+      "ano": 0,
+      "marca": "KAWASAKI"
+    },
+    {
+      "vehicleId": "kawasaki-versys-x-300-tourer-0-gasolina",
+      "fipeCodigo": "817074-6",
+      "displayName": "KAWASAKI Versys-X 300 TOURER",
+      "valorAtual": 41401,
+      "canonicalPath": "/fipe/kawasaki/versys-x-300-tourer-0-817074-6/",
+      "ano": 0,
+      "marca": "KAWASAKI"
+    }
+  ],
+  "stats": {
+    "total": 8
+  },
+  "meta": {
+    "geracaoId": "versys-1"
+  }
+}

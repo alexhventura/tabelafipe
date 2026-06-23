@@ -1,0 +1,72 @@
+{
+  "tipo": "familia",
+  "slug": "pan",
+  "canonicalPath": "/fipe/harley-davidson/pan/",
+  "titulo": "HARLEY-DAVIDSON pan - Tabela FIPE",
+  "descricao": "5 versoes e anos do HARLEY-DAVIDSON pan na Tabela FIPE.",
+  "seo": {
+    "title": "HARLEY-DAVIDSON pan - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes HARLEY-DAVIDSON pan. 5 veiculos indexados.",
+    "h1": "HARLEY-DAVIDSON pan - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/harley-davidson/pan/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "harley-davidson-pan-america-1250-special-2026-gasolina",
+      "fipeCodigo": "810102-7",
+      "displayName": "HARLEY-DAVIDSON PAN AMERICA 1250 SPECIAL",
+      "valorAtual": 131823,
+      "canonicalPath": "/fipe/harley-davidson/pan-america-1250-special-2026-810102-7/",
+      "ano": 2026,
+      "marca": "HARLEY-DAVIDSON"
+    },
+    {
+      "vehicleId": "harley-davidson-pan-america-1250-special-2024-gasolina",
+      "fipeCodigo": "810102-7",
+      "displayName": "HARLEY-DAVIDSON PAN AMERICA 1250 SPECIAL",
+      "valorAtual": 92029,
+      "canonicalPath": "/fipe/harley-davidson/pan-america-1250-special-2024-810102-7/",
+      "ano": 2024,
+      "marca": "HARLEY-DAVIDSON"
+    },
+    {
+      "vehicleId": "harley-davidson-pan-america-1250-special-2023-gasolina",
+      "fipeCodigo": "810102-7",
+      "displayName": "HARLEY-DAVIDSON PAN AMERICA 1250 SPECIAL",
+      "valorAtual": 89588,
+      "canonicalPath": "/fipe/harley-davidson/pan-america-1250-special-2023-810102-7/",
+      "ano": 2023,
+      "marca": "HARLEY-DAVIDSON"
+    },
+    {
+      "vehicleId": "harley-davidson-pan-america-1250-special-2022-gasolina",
+      "fipeCodigo": "810102-7",
+      "displayName": "HARLEY-DAVIDSON PAN AMERICA 1250 SPECIAL",
+      "valorAtual": 78549,
+      "canonicalPath": "/fipe/harley-davidson/pan-america-1250-special-2022-810102-7/",
+      "ano": 2022,
+      "marca": "HARLEY-DAVIDSON"
+    },
+    {
+      "vehicleId": "harley-davidson-pan-america-1250-special-0-gasolina",
+      "fipeCodigo": "810102-7",
+      "displayName": "HARLEY-DAVIDSON PAN AMERICA 1250 SPECIAL",
+      "valorAtual": 144845,
+      "canonicalPath": "/fipe/harley-davidson/pan-america-1250-special-0-810102-7/",
+      "ano": 0,
+      "marca": "HARLEY-DAVIDSON"
+    }
+  ],
+  "stats": {
+    "total": 5,
+    "precoMin": 78549,
+    "precoMax": 144845,
+    "anos": [
+      2026,
+      2024,
+      2023,
+      2022,
+      0
+    ]
+  }
+}

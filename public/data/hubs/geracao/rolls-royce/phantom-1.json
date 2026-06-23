@@ -1,0 +1,57 @@
+{
+  "tipo": "geracao",
+  "slug": "phantom-1",
+  "canonicalPath": "/geracao/rolls-royce/phantom-1/",
+  "titulo": "Geracao phantom-1",
+  "descricao": "4 veiculos da geracao phantom-1.",
+  "seo": {
+    "title": "Geracao phantom-1 - Precos FIPE",
+    "description": "Veiculos da geracao phantom-1 na Tabela FIPE.",
+    "h1": "Geracao phantom-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/rolls-royce/phantom-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "rolls-royce-phantom-6-7-v12-aut-2013-gasolina",
+      "fipeCodigo": "087002-1",
+      "displayName": "Rolls-Royce Phantom 6.7 V12 Aut.",
+      "valorAtual": 2624941,
+      "canonicalPath": "/fipe/rolls-royce/phantom-6-7-v12-aut-2013-087002-1/",
+      "ano": 2013,
+      "marca": "Rolls-Royce"
+    },
+    {
+      "vehicleId": "rolls-royce-phantom-6-7-v12-aut-2014-gasolina",
+      "fipeCodigo": "087002-1",
+      "displayName": "Rolls-Royce Phantom 6.7 V12 Aut.",
+      "valorAtual": 2813220,
+      "canonicalPath": "/fipe/rolls-royce/phantom-6-7-v12-aut-2014-087002-1/",
+      "ano": 2014,
+      "marca": "Rolls-Royce"
+    },
+    {
+      "vehicleId": "rolls-royce-phantom-6-7-v12-aut-2015-gasolina",
+      "fipeCodigo": "087002-1",
+      "displayName": "Rolls-Royce Phantom 6.7 V12 Aut.",
+      "valorAtual": 3021331,
+      "canonicalPath": "/fipe/rolls-royce/phantom-6-7-v12-aut-2015-087002-1/",
+      "ano": 2015,
+      "marca": "Rolls-Royce"
+    },
+    {
+      "vehicleId": "rolls-royce-phantom-6-7-v12-aut-2016-gasolina",
+      "fipeCodigo": "087002-1",
+      "displayName": "Rolls-Royce Phantom 6.7 V12 Aut.",
+      "valorAtual": 3204244,
+      "canonicalPath": "/fipe/rolls-royce/phantom-6-7-v12-aut-2016-087002-1/",
+      "ano": 2016,
+      "marca": "Rolls-Royce"
+    }
+  ],
+  "stats": {
+    "total": 4
+  },
+  "meta": {
+    "geracaoId": "phantom-1"
+  }
+}

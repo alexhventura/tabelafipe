@@ -1,0 +1,57 @@
+{
+  "tipo": "geracao",
+  "slug": "jonny-3",
+  "canonicalPath": "/geracao/jonny/jonny-3/",
+  "titulo": "Geracao jonny-3",
+  "descricao": "4 veiculos da geracao jonny-3.",
+  "seo": {
+    "title": "Geracao jonny-3 - Precos FIPE",
+    "description": "Veiculos da geracao jonny-3 na Tabela FIPE.",
+    "h1": "Geracao jonny-3",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/jonny/jonny-3/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "jonny-jonny-50-49cc-2010-gasolina",
+      "fipeCodigo": "865003-9",
+      "displayName": "JONNY JONNY 50 49cc",
+      "valorAtual": 2089,
+      "canonicalPath": "/fipe/jonny/jonny-50-49cc-2010-865003-9/",
+      "ano": 2010,
+      "marca": "JONNY"
+    },
+    {
+      "vehicleId": "jonny-jonny-50-49cc-2011-gasolina",
+      "fipeCodigo": "865003-9",
+      "displayName": "JONNY JONNY 50 49cc",
+      "valorAtual": 2169,
+      "canonicalPath": "/fipe/jonny/jonny-50-49cc-2011-865003-9/",
+      "ano": 2011,
+      "marca": "JONNY"
+    },
+    {
+      "vehicleId": "jonny-jonny-50-49cc-2012-gasolina",
+      "fipeCodigo": "865003-9",
+      "displayName": "JONNY JONNY 50 49cc",
+      "valorAtual": 2225,
+      "canonicalPath": "/fipe/jonny/jonny-50-49cc-2012-865003-9/",
+      "ano": 2012,
+      "marca": "JONNY"
+    },
+    {
+      "vehicleId": "jonny-jonny-50-49cc-2013-gasolina",
+      "fipeCodigo": "865003-9",
+      "displayName": "JONNY JONNY 50 49cc",
+      "valorAtual": 2527,
+      "canonicalPath": "/fipe/jonny/jonny-50-49cc-2013-865003-9/",
+      "ano": 2013,
+      "marca": "JONNY"
+    }
+  ],
+  "stats": {
+    "total": 4
+  },
+  "meta": {
+    "geracaoId": "jonny-3"
+  }
+}

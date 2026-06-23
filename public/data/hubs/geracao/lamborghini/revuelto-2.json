@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "revuelto-2",
+  "canonicalPath": "/geracao/lamborghini/revuelto-2/",
+  "titulo": "Geracao revuelto-2",
+  "descricao": "2 veiculos da geracao revuelto-2.",
+  "seo": {
+    "title": "Geracao revuelto-2 - Precos FIPE",
+    "description": "Veiculos da geracao revuelto-2 na Tabela FIPE.",
+    "h1": "Geracao revuelto-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/lamborghini/revuelto-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "lamborghini-revuelto-coupe-lp-1015-4-hib-2024-hibrido",
+      "fipeCodigo": "078025-1",
+      "displayName": "LAMBORGHINI REVUELTO Coupe LP 1015-4 (Hib)",
+      "valorAtual": 7508648,
+      "canonicalPath": "/fipe/lamborghini/revuelto-coupe-lp-1015-4-hib-2024-078025-1/",
+      "ano": 2024,
+      "marca": "LAMBORGHINI"
+    },
+    {
+      "vehicleId": "lamborghini-revuelto-coupe-lp-1015-4-hib-2025-hibrido",
+      "fipeCodigo": "078025-1",
+      "displayName": "LAMBORGHINI REVUELTO Coupe LP 1015-4 (Hib)",
+      "valorAtual": 8245000,
+      "canonicalPath": "/fipe/lamborghini/revuelto-coupe-lp-1015-4-hib-2025-078025-1/",
+      "ano": 2025,
+      "marca": "LAMBORGHINI"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "revuelto-2"
+  }
+}

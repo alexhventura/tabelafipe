@@ -1,0 +1,84 @@
+{
+  "tipo": "geracao",
+  "slug": "force-1",
+  "canonicalPath": "/geracao/agrale/force-1/",
+  "titulo": "Geracao force-1",
+  "descricao": "7 veiculos da geracao force-1.",
+  "seo": {
+    "title": "Geracao force-1 - Precos FIPE",
+    "description": "Veiculos da geracao force-1 na Tabela FIPE.",
+    "h1": "Geracao force-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/agrale/force-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "agrale-force-50-1997-gasolina",
+      "fipeCodigo": "801010-2",
+      "displayName": "AGRALE FORCE 50",
+      "valorAtual": 1464,
+      "canonicalPath": "/fipe/agrale/force-50-1997-801010-2/",
+      "ano": 1997,
+      "marca": "AGRALE"
+    },
+    {
+      "vehicleId": "agrale-force-50-1998-gasolina",
+      "fipeCodigo": "801010-2",
+      "displayName": "AGRALE FORCE 50",
+      "valorAtual": 1550,
+      "canonicalPath": "/fipe/agrale/force-50-1998-801010-2/",
+      "ano": 1998,
+      "marca": "AGRALE"
+    },
+    {
+      "vehicleId": "agrale-force-50-1999-gasolina",
+      "fipeCodigo": "801010-2",
+      "displayName": "AGRALE FORCE 50",
+      "valorAtual": 1711,
+      "canonicalPath": "/fipe/agrale/force-50-1999-801010-2/",
+      "ano": 1999,
+      "marca": "AGRALE"
+    },
+    {
+      "vehicleId": "agrale-force-50-2000-gasolina",
+      "fipeCodigo": "801010-2",
+      "displayName": "AGRALE FORCE 50",
+      "valorAtual": 1864,
+      "canonicalPath": "/fipe/agrale/force-50-2000-801010-2/",
+      "ano": 2000,
+      "marca": "AGRALE"
+    },
+    {
+      "vehicleId": "agrale-force-90-1997-gasolina",
+      "fipeCodigo": "801011-0",
+      "displayName": "AGRALE FORCE 90",
+      "valorAtual": 1586,
+      "canonicalPath": "/fipe/agrale/force-90-1997-801011-0/",
+      "ano": 1997,
+      "marca": "AGRALE"
+    },
+    {
+      "vehicleId": "agrale-force-90-1998-gasolina",
+      "fipeCodigo": "801011-0",
+      "displayName": "AGRALE FORCE 90",
+      "valorAtual": 1719,
+      "canonicalPath": "/fipe/agrale/force-90-1998-801011-0/",
+      "ano": 1998,
+      "marca": "AGRALE"
+    },
+    {
+      "vehicleId": "agrale-force-90-1999-gasolina",
+      "fipeCodigo": "801011-0",
+      "displayName": "AGRALE FORCE 90",
+      "valorAtual": 1962,
+      "canonicalPath": "/fipe/agrale/force-90-1999-801011-0/",
+      "ano": 1999,
+      "marca": "AGRALE"
+    }
+  ],
+  "stats": {
+    "total": 7
+  },
+  "meta": {
+    "geracaoId": "force-1"
+  }
+}

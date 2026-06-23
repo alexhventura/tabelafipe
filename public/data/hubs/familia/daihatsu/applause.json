@@ -1,0 +1,60 @@
+{
+  "tipo": "familia",
+  "slug": "applause",
+  "canonicalPath": "/fipe/daihatsu/applause/",
+  "titulo": "Daihatsu applause - Tabela FIPE",
+  "descricao": "4 versoes e anos do Daihatsu applause na Tabela FIPE.",
+  "seo": {
+    "title": "Daihatsu applause - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes Daihatsu applause. 4 veiculos indexados.",
+    "h1": "Daihatsu applause - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/daihatsu/applause/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "daihatsu-applause-1-6-16v-1995-gasolina",
+      "fipeCodigo": "012012-0",
+      "displayName": "Daihatsu Applause 1.6 16V",
+      "valorAtual": 5015,
+      "canonicalPath": "/fipe/daihatsu/applause-1-6-16v-1995-012012-0/",
+      "ano": 1995,
+      "marca": "Daihatsu"
+    },
+    {
+      "vehicleId": "daihatsu-applause-dlx-1-6-16v-1995-gasolina",
+      "fipeCodigo": "012011-1",
+      "displayName": "Daihatsu Applause DLX 1.6 16V",
+      "valorAtual": 5915,
+      "canonicalPath": "/fipe/daihatsu/applause-dlx-1-6-16v-1995-012011-1/",
+      "ano": 1995,
+      "marca": "Daihatsu"
+    },
+    {
+      "vehicleId": "daihatsu-applause-1-6-16v-1994-gasolina",
+      "fipeCodigo": "012012-0",
+      "displayName": "Daihatsu Applause 1.6 16V",
+      "valorAtual": 4649,
+      "canonicalPath": "/fipe/daihatsu/applause-1-6-16v-1994-012012-0/",
+      "ano": 1994,
+      "marca": "Daihatsu"
+    },
+    {
+      "vehicleId": "daihatsu-applause-dlx-1-6-16v-1994-gasolina",
+      "fipeCodigo": "012011-1",
+      "displayName": "Daihatsu Applause DLX 1.6 16V",
+      "valorAtual": 4902,
+      "canonicalPath": "/fipe/daihatsu/applause-dlx-1-6-16v-1994-012011-1/",
+      "ano": 1994,
+      "marca": "Daihatsu"
+    }
+  ],
+  "stats": {
+    "total": 4,
+    "precoMin": 4649,
+    "precoMax": 5915,
+    "anos": [
+      1995,
+      1994
+    ]
+  }
+}

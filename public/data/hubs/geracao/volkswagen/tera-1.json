@@ -1,0 +1,57 @@
+{
+  "tipo": "geracao",
+  "slug": "tera-1",
+  "canonicalPath": "/geracao/volkswagen/tera-1/",
+  "titulo": "Geracao tera-1",
+  "descricao": "4 veiculos da geracao tera-1.",
+  "seo": {
+    "title": "Geracao tera-1 - Precos FIPE",
+    "description": "Veiculos da geracao tera-1 na Tabela FIPE.",
+    "h1": "Geracao tera-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/volkswagen/tera-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "volkswagen-tera-1-0-170-tsi-flex-12v-5p-mec-0-flex",
+      "fipeCodigo": "005554-9",
+      "displayName": "VW - VolksWagen Tera 1.0 170 TSI Flex 12V 5p Mec.",
+      "valorAtual": 121712,
+      "canonicalPath": "/fipe/volkswagen/tera-1-0-170-tsi-flex-12v-5p-mec-0-005554-9/",
+      "ano": 0,
+      "marca": "VW - VolksWagen"
+    },
+    {
+      "vehicleId": "volkswagen-tera-1-0-mpi-flex-12v-5p-mec-0-flex",
+      "fipeCodigo": "005557-3",
+      "displayName": "VW - VolksWagen Tera 1.0 MPI Flex 12V 5p Mec.",
+      "valorAtual": 105594,
+      "canonicalPath": "/fipe/volkswagen/tera-1-0-mpi-flex-12v-5p-mec-0-005557-3/",
+      "ano": 0,
+      "marca": "VW - VolksWagen"
+    },
+    {
+      "vehicleId": "volkswagen-tera-comfort-1-0-170-tsi-flex-12v-5p-aut-0-flex",
+      "fipeCodigo": "005555-7",
+      "displayName": "VW - VolksWagen Tera Comfort 1.0 170 TSI Flex 12V 5p Aut",
+      "valorAtual": 129985,
+      "canonicalPath": "/fipe/volkswagen/tera-comfort-1-0-170-tsi-flex-12v-5p-aut-0-005555-7/",
+      "ano": 0,
+      "marca": "VW - VolksWagen"
+    },
+    {
+      "vehicleId": "volkswagen-tera-high-1-0-170-tsi-flex-12v-5p-aut-0-flex",
+      "fipeCodigo": "005556-5",
+      "displayName": "VW - VolksWagen Tera High 1.0 170 TSI Flex 12V 5p Aut",
+      "valorAtual": 142511,
+      "canonicalPath": "/fipe/volkswagen/tera-high-1-0-170-tsi-flex-12v-5p-aut-0-005556-5/",
+      "ano": 0,
+      "marca": "VW - VolksWagen"
+    }
+  ],
+  "stats": {
+    "total": 4
+  },
+  "meta": {
+    "geracaoId": "tera-1"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "mobi-1",
+  "canonicalPath": "/geracao/fiat/mobi-1/",
+  "titulo": "Geracao mobi-1",
+  "descricao": "2 veiculos da geracao mobi-1.",
+  "seo": {
+    "title": "Geracao mobi-1 - Precos FIPE",
+    "description": "Veiculos da geracao mobi-1 na Tabela FIPE.",
+    "h1": "Geracao mobi-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/fiat/mobi-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "fiat-mobi-like-1-0-fire-flex-5p-0-flex",
+      "fipeCodigo": "001461-3",
+      "displayName": "Fiat MOBI LIKE 1.0 Fire Flex 5p.",
+      "valorAtual": 72879,
+      "canonicalPath": "/fipe/fiat/mobi-like-1-0-fire-flex-5p-0-001461-3/",
+      "ano": 0,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-mobi-trekking-1-0-flex-5p-0-flex",
+      "fipeCodigo": "001536-9",
+      "displayName": "Fiat MOBI TREKKING 1.0 Flex 5p.",
+      "valorAtual": 79678,
+      "canonicalPath": "/fipe/fiat/mobi-trekking-1-0-flex-5p-0-001536-9/",
+      "ano": 0,
+      "marca": "Fiat"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "mobi-1"
+  }
+}

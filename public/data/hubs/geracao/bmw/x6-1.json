@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "x6-1",
+  "canonicalPath": "/geracao/bmw/x6-1/",
+  "titulo": "Geracao x6-1",
+  "descricao": "2 veiculos da geracao x6-1.",
+  "seo": {
+    "title": "Geracao x6-1 - Precos FIPE",
+    "description": "Veiculos da geracao x6-1 na Tabela FIPE.",
+    "h1": "Geracao x6-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/bmw/x6-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "bmw-x6-m-competition-4-4-v8-bi-tb-hib-aut-0-hibrido",
+      "fipeCodigo": "009311-4",
+      "displayName": "BMW X6 M Competition 4.4 V8 BI-TB (Hib) Aut.",
+      "valorAtual": 1123043,
+      "canonicalPath": "/fipe/bmw/x6-m-competition-4-4-v8-bi-tb-hib-aut-0-009311-4/",
+      "ano": 0,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-x6-xdrive-40i-m-sport-3-0-bi-tb-hib-0-hibrido",
+      "fipeCodigo": "009310-6",
+      "displayName": "BMW X6 XDRIVE 40i M Sport 3.0 Bi-TB (Hib.)",
+      "valorAtual": 888134,
+      "canonicalPath": "/fipe/bmw/x6-xdrive-40i-m-sport-3-0-bi-tb-hib-0-009310-6/",
+      "ano": 0,
+      "marca": "BMW"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "x6-1"
+  }
+}

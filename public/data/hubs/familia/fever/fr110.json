@@ -1,0 +1,52 @@
+{
+  "tipo": "familia",
+  "slug": "fr110",
+  "canonicalPath": "/fipe/fever/fr110/",
+  "titulo": "FEVER fr110 - Tabela FIPE",
+  "descricao": "3 versoes e anos do FEVER fr110 na Tabela FIPE.",
+  "seo": {
+    "title": "FEVER fr110 - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes FEVER fr110. 3 veiculos indexados.",
+    "h1": "FEVER fr110 - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/fever/fr110/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "fever-fr110-box-eletrica-2026-eletrico",
+      "fipeCodigo": "897006-8",
+      "displayName": "FEVER FR110 BOX (Elétrica)",
+      "valorAtual": 53271,
+      "canonicalPath": "/fipe/fever/fr110-box-eletrica-2026-897006-8/",
+      "ano": 2026,
+      "marca": "FEVER"
+    },
+    {
+      "vehicleId": "fever-fr110-box-eletrica-2025-eletrico",
+      "fipeCodigo": "897006-8",
+      "displayName": "FEVER FR110 BOX (Elétrica)",
+      "valorAtual": 48192,
+      "canonicalPath": "/fipe/fever/fr110-box-eletrica-2025-897006-8/",
+      "ano": 2025,
+      "marca": "FEVER"
+    },
+    {
+      "vehicleId": "fever-fr110-box-eletrica-0-eletrico",
+      "fipeCodigo": "897006-8",
+      "displayName": "FEVER FR110 BOX (Elétrica)",
+      "valorAtual": 58877,
+      "canonicalPath": "/fipe/fever/fr110-box-eletrica-0-897006-8/",
+      "ano": 0,
+      "marca": "FEVER"
+    }
+  ],
+  "stats": {
+    "total": 3,
+    "precoMin": 48192,
+    "precoMax": 58877,
+    "anos": [
+      2026,
+      2025,
+      0
+    ]
+  }
+}

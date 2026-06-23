@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "vespa-2",
+  "canonicalPath": "/geracao/piaggio/vespa-2/",
+  "titulo": "Geracao vespa-2",
+  "descricao": "2 veiculos da geracao vespa-2.",
+  "seo": {
+    "title": "Geracao vespa-2 - Precos FIPE",
+    "description": "Veiculos da geracao vespa-2 na Tabela FIPE.",
+    "h1": "Geracao vespa-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/piaggio/vespa-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "piaggio-vespa-px-150-originale-1998-gasolina",
+      "fipeCodigo": "822002-6",
+      "displayName": "PIAGGIO VESPA PX 150 ORIGINALE",
+      "valorAtual": 1941,
+      "canonicalPath": "/fipe/piaggio/vespa-px-150-originale-1998-822002-6/",
+      "ano": 1998,
+      "marca": "PIAGGIO"
+    },
+    {
+      "vehicleId": "piaggio-vespa-px-150-originale-1999-gasolina",
+      "fipeCodigo": "822002-6",
+      "displayName": "PIAGGIO VESPA PX 150 ORIGINALE",
+      "valorAtual": 1991,
+      "canonicalPath": "/fipe/piaggio/vespa-px-150-originale-1999-822002-6/",
+      "ano": 1999,
+      "marca": "PIAGGIO"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "vespa-2"
+  }
+}

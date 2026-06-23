@@ -1,0 +1,57 @@
+{
+  "tipo": "geracao",
+  "slug": "atilis-1",
+  "canonicalPath": "/geracao/mercedes-benz/atilis-1/",
+  "titulo": "Geracao atilis-1",
+  "descricao": "4 veiculos da geracao atilis-1.",
+  "seo": {
+    "title": "Geracao atilis-1 - Precos FIPE",
+    "description": "Veiculos da geracao atilis-1 na Tabela FIPE.",
+    "h1": "Geracao atilis-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/mercedes-benz/atilis-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "mercedes-benz-atilis-712-e-furgao-caio-4p-diesel-2006-diesel",
+      "fipeCodigo": "509259-0",
+      "displayName": "MERCEDES-BENZ Atilis 712 E Furgão Caio 4p (Diesel)",
+      "valorAtual": 82191,
+      "canonicalPath": "/fipe/mercedes-benz/atilis-712-e-furgao-caio-4p-diesel-2006-509259-0/",
+      "ano": 2006,
+      "marca": "MERCEDES-BENZ"
+    },
+    {
+      "vehicleId": "mercedes-benz-atilis-712-e-furgao-caio-4p-diesel-2007-diesel",
+      "fipeCodigo": "509259-0",
+      "displayName": "MERCEDES-BENZ Atilis 712 E Furgão Caio 4p (Diesel)",
+      "valorAtual": 89961,
+      "canonicalPath": "/fipe/mercedes-benz/atilis-712-e-furgao-caio-4p-diesel-2007-509259-0/",
+      "ano": 2007,
+      "marca": "MERCEDES-BENZ"
+    },
+    {
+      "vehicleId": "mercedes-benz-atilis-712-e-furgao-caio-4p-diesel-2008-diesel",
+      "fipeCodigo": "509259-0",
+      "displayName": "MERCEDES-BENZ Atilis 712 E Furgão Caio 4p (Diesel)",
+      "valorAtual": 108292,
+      "canonicalPath": "/fipe/mercedes-benz/atilis-712-e-furgao-caio-4p-diesel-2008-509259-0/",
+      "ano": 2008,
+      "marca": "MERCEDES-BENZ"
+    },
+    {
+      "vehicleId": "mercedes-benz-atilis-712-e-furgao-caio-4p-diesel-2009-diesel",
+      "fipeCodigo": "509259-0",
+      "displayName": "MERCEDES-BENZ Atilis 712 E Furgão Caio 4p (Diesel)",
+      "valorAtual": 114182,
+      "canonicalPath": "/fipe/mercedes-benz/atilis-712-e-furgao-caio-4p-diesel-2009-509259-0/",
+      "ano": 2009,
+      "marca": "MERCEDES-BENZ"
+    }
+  ],
+  "stats": {
+    "total": 4
+  },
+  "meta": {
+    "geracaoId": "atilis-1"
+  }
+}

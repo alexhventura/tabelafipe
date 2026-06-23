@@ -1,0 +1,129 @@
+{
+  "tipo": "geracao",
+  "slug": "se-2",
+  "canonicalPath": "/geracao/mercedes-benz/se-2/",
+  "titulo": "Geracao se-2",
+  "descricao": "12 veiculos da geracao se-2.",
+  "seo": {
+    "title": "Geracao se-2 - Precos FIPE",
+    "description": "Veiculos da geracao se-2 na Tabela FIPE.",
+    "h1": "Geracao se-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/mercedes-benz/se-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "mercedes-benz-se-500-1991-gasolina",
+      "fipeCodigo": "021016-1",
+      "displayName": "Mercedes-Benz SE-500",
+      "valorAtual": 35681,
+      "canonicalPath": "/fipe/mercedes-benz/se-500-1991-021016-1/",
+      "ano": 1991,
+      "marca": "Mercedes-Benz"
+    },
+    {
+      "vehicleId": "mercedes-benz-se-500-1992-gasolina",
+      "fipeCodigo": "021016-1",
+      "displayName": "Mercedes-Benz SE-500",
+      "valorAtual": 42845,
+      "canonicalPath": "/fipe/mercedes-benz/se-500-1992-021016-1/",
+      "ano": 1992,
+      "marca": "Mercedes-Benz"
+    },
+    {
+      "vehicleId": "mercedes-benz-se-500-1993-gasolina",
+      "fipeCodigo": "021016-1",
+      "displayName": "Mercedes-Benz SE-500",
+      "valorAtual": 47569,
+      "canonicalPath": "/fipe/mercedes-benz/se-500-1993-021016-1/",
+      "ano": 1993,
+      "marca": "Mercedes-Benz"
+    },
+    {
+      "vehicleId": "shineray-se-1-2000w-eletrica-2022-eletrico",
+      "fipeCodigo": "850034-7",
+      "displayName": "SHINERAY SE-1 2000W (Elétrica)",
+      "valorAtual": 8314,
+      "canonicalPath": "/fipe/shineray/se-1-2000w-eletrica-2022-850034-7/",
+      "ano": 2022,
+      "marca": "SHINERAY"
+    },
+    {
+      "vehicleId": "shineray-se-1-2000w-eletrica-2023-eletrico",
+      "fipeCodigo": "850034-7",
+      "displayName": "SHINERAY SE-1 2000W (Elétrica)",
+      "valorAtual": 9047,
+      "canonicalPath": "/fipe/shineray/se-1-2000w-eletrica-2023-850034-7/",
+      "ano": 2023,
+      "marca": "SHINERAY"
+    },
+    {
+      "vehicleId": "shineray-se-1-2000w-eletrica-2024-eletrico",
+      "fipeCodigo": "850034-7",
+      "displayName": "SHINERAY SE-1 2000W (Elétrica)",
+      "valorAtual": 9379,
+      "canonicalPath": "/fipe/shineray/se-1-2000w-eletrica-2024-850034-7/",
+      "ano": 2024,
+      "marca": "SHINERAY"
+    },
+    {
+      "vehicleId": "shineray-se-1-2000w-eletrica-2025-eletrico",
+      "fipeCodigo": "850034-7",
+      "displayName": "SHINERAY SE-1 2000W (Elétrica)",
+      "valorAtual": 9669,
+      "canonicalPath": "/fipe/shineray/se-1-2000w-eletrica-2025-850034-7/",
+      "ano": 2025,
+      "marca": "SHINERAY"
+    },
+    {
+      "vehicleId": "shineray-se-2-2300w-eletrica-2021-eletrico",
+      "fipeCodigo": "850029-0",
+      "displayName": "SHINERAY SE-2 2300W (Elétrica)",
+      "valorAtual": 7848,
+      "canonicalPath": "/fipe/shineray/se-2-2300w-eletrica-2021-850029-0/",
+      "ano": 2021,
+      "marca": "SHINERAY"
+    },
+    {
+      "vehicleId": "shineray-se-2-2300w-eletrica-2022-eletrico",
+      "fipeCodigo": "850029-0",
+      "displayName": "SHINERAY SE-2 2300W (Elétrica)",
+      "valorAtual": 9426,
+      "canonicalPath": "/fipe/shineray/se-2-2300w-eletrica-2022-850029-0/",
+      "ano": 2022,
+      "marca": "SHINERAY"
+    },
+    {
+      "vehicleId": "shineray-se-2-2300w-eletrica-2023-eletrico",
+      "fipeCodigo": "850029-0",
+      "displayName": "SHINERAY SE-2 2300W (Elétrica)",
+      "valorAtual": 9736,
+      "canonicalPath": "/fipe/shineray/se-2-2300w-eletrica-2023-850029-0/",
+      "ano": 2023,
+      "marca": "SHINERAY"
+    },
+    {
+      "vehicleId": "shineray-se-2-2300w-eletrica-2024-eletrico",
+      "fipeCodigo": "850029-0",
+      "displayName": "SHINERAY SE-2 2300W (Elétrica)",
+      "valorAtual": 10009,
+      "canonicalPath": "/fipe/shineray/se-2-2300w-eletrica-2024-850029-0/",
+      "ano": 2024,
+      "marca": "SHINERAY"
+    },
+    {
+      "vehicleId": "shineray-se-2-2300w-eletrica-2025-eletrico",
+      "fipeCodigo": "850029-0",
+      "displayName": "SHINERAY SE-2 2300W (Elétrica)",
+      "valorAtual": 11191,
+      "canonicalPath": "/fipe/shineray/se-2-2300w-eletrica-2025-850029-0/",
+      "ano": 2025,
+      "marca": "SHINERAY"
+    }
+  ],
+  "stats": {
+    "total": 12
+  },
+  "meta": {
+    "geracaoId": "se-2"
+  }
+}

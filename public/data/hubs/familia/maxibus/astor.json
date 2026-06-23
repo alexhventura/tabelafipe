@@ -1,0 +1,50 @@
+{
+  "tipo": "familia",
+  "slug": "astor",
+  "canonicalPath": "/fipe/maxibus/astor/",
+  "titulo": "MAXIBUS astor - Tabela FIPE",
+  "descricao": "3 versoes e anos do MAXIBUS astor na Tabela FIPE.",
+  "seo": {
+    "title": "MAXIBUS astor - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes MAXIBUS astor. 3 veiculos indexados.",
+    "h1": "MAXIBUS astor - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/maxibus/astor/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "maxibus-astor-escolar-diesel-e5-2013-diesel",
+      "fipeCodigo": "528002-8",
+      "displayName": "MAXIBUS ASTOR ESCOLAR (diesel)(E5)",
+      "valorAtual": 124602,
+      "canonicalPath": "/fipe/maxibus/astor-escolar-diesel-e5-2013-528002-8/",
+      "ano": 2013,
+      "marca": "MAXIBUS"
+    },
+    {
+      "vehicleId": "maxibus-astor-urbano-diesel-e5-2013-diesel",
+      "fipeCodigo": "528001-0",
+      "displayName": "MAXIBUS ASTOR URBANO (diesel)(E5)",
+      "valorAtual": 128819,
+      "canonicalPath": "/fipe/maxibus/astor-urbano-diesel-e5-2013-528001-0/",
+      "ano": 2013,
+      "marca": "MAXIBUS"
+    },
+    {
+      "vehicleId": "maxibus-astor-turismo-diesel-e5-2013-diesel",
+      "fipeCodigo": "528003-6",
+      "displayName": "MAXIBUS ASTOR TURISMO (diesel)(E5)",
+      "valorAtual": 153007,
+      "canonicalPath": "/fipe/maxibus/astor-turismo-diesel-e5-2013-528003-6/",
+      "ano": 2013,
+      "marca": "MAXIBUS"
+    }
+  ],
+  "stats": {
+    "total": 3,
+    "precoMin": 124602,
+    "precoMax": 153007,
+    "anos": [
+      2013
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "tipo": "familia",
+  "slug": "aerox",
+  "canonicalPath": "/fipe/yamaha/aerox/",
+  "titulo": "YAMAHA aerox - Tabela FIPE",
+  "descricao": "2 versoes e anos do YAMAHA aerox na Tabela FIPE.",
+  "seo": {
+    "title": "YAMAHA aerox - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes YAMAHA aerox. 2 veiculos indexados.",
+    "h1": "YAMAHA aerox - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/yamaha/aerox/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "yamaha-aerox-connected-abs-2026-gasolina",
+      "fipeCodigo": "827144-5",
+      "displayName": "YAMAHA AEROX CONNECTED ABS",
+      "valorAtual": 19874,
+      "canonicalPath": "/fipe/yamaha/aerox-connected-abs-2026-827144-5/",
+      "ano": 2026,
+      "marca": "YAMAHA"
+    },
+    {
+      "vehicleId": "yamaha-aerox-connected-abs-0-gasolina",
+      "fipeCodigo": "827144-5",
+      "displayName": "YAMAHA AEROX CONNECTED ABS",
+      "valorAtual": 21113,
+      "canonicalPath": "/fipe/yamaha/aerox-connected-abs-0-827144-5/",
+      "ano": 0,
+      "marca": "YAMAHA"
+    }
+  ],
+  "stats": {
+    "total": 2,
+    "precoMin": 19874,
+    "precoMax": 21113,
+    "anos": [
+      2026,
+      0
+    ]
+  }
+}

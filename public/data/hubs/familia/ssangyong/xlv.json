@@ -1,0 +1,41 @@
+{
+  "tipo": "familia",
+  "slug": "xlv",
+  "canonicalPath": "/fipe/ssangyong/xlv/",
+  "titulo": "SSANGYONG xlv - Tabela FIPE",
+  "descricao": "2 versoes e anos do SSANGYONG xlv na Tabela FIPE.",
+  "seo": {
+    "title": "SSANGYONG xlv - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes SSANGYONG xlv. 2 veiculos indexados.",
+    "h1": "SSANGYONG xlv - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/ssangyong/xlv/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "ssangyong-xlv-dlx-1-6-16v-128cv-aut-2018-gasolina",
+      "fipeCodigo": "055036-1",
+      "displayName": "SSANGYONG XLV DLX 1.6 16V 128cv Aut.",
+      "valorAtual": 64866,
+      "canonicalPath": "/fipe/ssangyong/xlv-dlx-1-6-16v-128cv-aut-2018-055036-1/",
+      "ano": 2018,
+      "marca": "SSANGYONG"
+    },
+    {
+      "vehicleId": "ssangyong-xlv-1-6-16v-128cv-aut-2018-gasolina",
+      "fipeCodigo": "055038-8",
+      "displayName": "SSANGYONG XLV 1.6 16V 128cv Aut.",
+      "valorAtual": 80853,
+      "canonicalPath": "/fipe/ssangyong/xlv-1-6-16v-128cv-aut-2018-055038-8/",
+      "ano": 2018,
+      "marca": "SSANGYONG"
+    }
+  ],
+  "stats": {
+    "total": 2,
+    "precoMin": 64866,
+    "precoMax": 80853,
+    "anos": [
+      2018
+    ]
+  }
+}

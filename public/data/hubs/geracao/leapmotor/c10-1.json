@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "c10-1",
+  "canonicalPath": "/geracao/leapmotor/c10-1/",
+  "titulo": "Geracao c10-1",
+  "descricao": "2 veiculos da geracao c10-1.",
+  "seo": {
+    "title": "Geracao c10-1 - Precos FIPE",
+    "description": "Veiculos da geracao c10-1 na Tabela FIPE.",
+    "h1": "Geracao c10-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/leapmotor/c10-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "leapmotor-c10-eletrico-0-eletrico",
+      "fipeCodigo": "305001-7",
+      "displayName": "Leapmotor C10 (Elétrico)",
+      "valorAtual": 204990,
+      "canonicalPath": "/fipe/leapmotor/c10-eletrico-0-305001-7/",
+      "ano": 0,
+      "marca": "Leapmotor"
+    },
+    {
+      "vehicleId": "leapmotor-c10-hibrido-0-hibrido",
+      "fipeCodigo": "305002-5",
+      "displayName": "Leapmotor C10 (Híbrido)",
+      "valorAtual": 219990,
+      "canonicalPath": "/fipe/leapmotor/c10-hibrido-0-305002-5/",
+      "ano": 0,
+      "marca": "Leapmotor"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "c10-1"
+  }
+}

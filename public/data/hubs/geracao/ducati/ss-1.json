@@ -1,0 +1,48 @@
+{
+  "tipo": "geracao",
+  "slug": "ss-1",
+  "canonicalPath": "/geracao/ducati/ss-1/",
+  "titulo": "Geracao ss-1",
+  "descricao": "3 veiculos da geracao ss-1.",
+  "seo": {
+    "title": "Geracao ss-1 - Precos FIPE",
+    "description": "Veiculos da geracao ss-1 na Tabela FIPE.",
+    "h1": "Geracao ss-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/ducati/ss-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "ducati-ss-900cc-1999-gasolina",
+      "fipeCodigo": "808005-4",
+      "displayName": "DUCATI SS 900cc",
+      "valorAtual": 16428,
+      "canonicalPath": "/fipe/ducati/ss-900cc-1999-808005-4/",
+      "ano": 1999,
+      "marca": "DUCATI"
+    },
+    {
+      "vehicleId": "ducati-ss-900cc-2000-gasolina",
+      "fipeCodigo": "808005-4",
+      "displayName": "DUCATI SS 900cc",
+      "valorAtual": 16839,
+      "canonicalPath": "/fipe/ducati/ss-900cc-2000-808005-4/",
+      "ano": 2000,
+      "marca": "DUCATI"
+    },
+    {
+      "vehicleId": "ducati-ss-900cc-2001-gasolina",
+      "fipeCodigo": "808005-4",
+      "displayName": "DUCATI SS 900cc",
+      "valorAtual": 18533,
+      "canonicalPath": "/fipe/ducati/ss-900cc-2001-808005-4/",
+      "ano": 2001,
+      "marca": "DUCATI"
+    }
+  ],
+  "stats": {
+    "total": 3
+  },
+  "meta": {
+    "geracaoId": "ss-1"
+  }
+}

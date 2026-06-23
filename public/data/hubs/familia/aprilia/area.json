@@ -1,0 +1,52 @@
+{
+  "tipo": "familia",
+  "slug": "area",
+  "canonicalPath": "/fipe/aprilia/area/",
+  "titulo": "APRILIA area - Tabela FIPE",
+  "descricao": "3 versoes e anos do APRILIA area na Tabela FIPE.",
+  "seo": {
+    "title": "APRILIA area - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes APRILIA area. 3 veiculos indexados.",
+    "h1": "APRILIA area - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/aprilia/area/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "aprilia-area-51-50cc-2000-gasolina",
+      "fipeCodigo": "802001-9",
+      "displayName": "APRILIA AREA-51 50cc",
+      "valorAtual": 4528,
+      "canonicalPath": "/fipe/aprilia/area-51-50cc-2000-802001-9/",
+      "ano": 2000,
+      "marca": "APRILIA"
+    },
+    {
+      "vehicleId": "aprilia-area-51-50cc-1999-gasolina",
+      "fipeCodigo": "802001-9",
+      "displayName": "APRILIA AREA-51 50cc",
+      "valorAtual": 4417,
+      "canonicalPath": "/fipe/aprilia/area-51-50cc-1999-802001-9/",
+      "ano": 1999,
+      "marca": "APRILIA"
+    },
+    {
+      "vehicleId": "aprilia-area-51-50cc-1998-gasolina",
+      "fipeCodigo": "802001-9",
+      "displayName": "APRILIA AREA-51 50cc",
+      "valorAtual": 4038,
+      "canonicalPath": "/fipe/aprilia/area-51-50cc-1998-802001-9/",
+      "ano": 1998,
+      "marca": "APRILIA"
+    }
+  ],
+  "stats": {
+    "total": 3,
+    "precoMin": 4038,
+    "precoMax": 4528,
+    "anos": [
+      2000,
+      1999,
+      1998
+    ]
+  }
+}

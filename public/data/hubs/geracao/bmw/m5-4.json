@@ -1,0 +1,57 @@
+{
+  "tipo": "geracao",
+  "slug": "m5-4",
+  "canonicalPath": "/geracao/bmw/m5-4/",
+  "titulo": "Geracao m5-4",
+  "descricao": "4 veiculos da geracao m5-4.",
+  "seo": {
+    "title": "Geracao m5-4 - Precos FIPE",
+    "description": "Veiculos da geracao m5-4 na Tabela FIPE.",
+    "h1": "Geracao m5-4",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/bmw/m5-4/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "bmw-m5-4-4-560cv-bi-turbo-aut-2012-gasolina",
+      "fipeCodigo": "009173-1",
+      "displayName": "BMW M5 4.4 560cv Bi-Turbo Aut.",
+      "valorAtual": 227419,
+      "canonicalPath": "/fipe/bmw/m5-4-4-560cv-bi-turbo-aut-2012-009173-1/",
+      "ano": 2012,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-m5-4-4-560cv-bi-turbo-aut-2013-gasolina",
+      "fipeCodigo": "009173-1",
+      "displayName": "BMW M5 4.4 560cv Bi-Turbo Aut.",
+      "valorAtual": 245031,
+      "canonicalPath": "/fipe/bmw/m5-4-4-560cv-bi-turbo-aut-2013-009173-1/",
+      "ano": 2013,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-m5-4-4-560cv-bi-turbo-aut-2014-gasolina",
+      "fipeCodigo": "009173-1",
+      "displayName": "BMW M5 4.4 560cv Bi-Turbo Aut.",
+      "valorAtual": 261267,
+      "canonicalPath": "/fipe/bmw/m5-4-4-560cv-bi-turbo-aut-2014-009173-1/",
+      "ano": 2014,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-m5-4-4-560cv-bi-turbo-aut-2015-gasolina",
+      "fipeCodigo": "009173-1",
+      "displayName": "BMW M5 4.4 560cv Bi-Turbo Aut.",
+      "valorAtual": 268194,
+      "canonicalPath": "/fipe/bmw/m5-4-4-560cv-bi-turbo-aut-2015-009173-1/",
+      "ano": 2015,
+      "marca": "BMW"
+    }
+  ],
+  "stats": {
+    "total": 4
+  },
+  "meta": {
+    "geracaoId": "m5-4"
+  }
+}

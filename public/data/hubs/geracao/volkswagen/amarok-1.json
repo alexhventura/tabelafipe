@@ -1,0 +1,48 @@
+{
+  "tipo": "geracao",
+  "slug": "amarok-1",
+  "canonicalPath": "/geracao/volkswagen/amarok-1/",
+  "titulo": "Geracao amarok-1",
+  "descricao": "3 veiculos da geracao amarok-1.",
+  "seo": {
+    "title": "Geracao amarok-1 - Precos FIPE",
+    "description": "Veiculos da geracao amarok-1 na Tabela FIPE.",
+    "h1": "Geracao amarok-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/volkswagen/amarok-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "volkswagen-amarok-comfor-3-0-v6-tdi-4x4-dies-aut-0-diesel",
+      "fipeCodigo": "005532-8",
+      "displayName": "VW - VolksWagen AMAROK Comfor. 3.0 V6 TDI 4x4 Dies. Aut.",
+      "valorAtual": 357408,
+      "canonicalPath": "/fipe/volkswagen/amarok-comfor-3-0-v6-tdi-4x4-dies-aut-0-005532-8/",
+      "ano": 0,
+      "marca": "VW - VolksWagen"
+    },
+    {
+      "vehicleId": "volkswagen-amarok-extreme-cd-3-0-4x4-tb-dies-aut-0-diesel",
+      "fipeCodigo": "005506-9",
+      "displayName": "VW - VolksWagen AMAROK Extreme CD 3.0 4x4 TB Dies. Aut.",
+      "valorAtual": 395336,
+      "canonicalPath": "/fipe/volkswagen/amarok-extreme-cd-3-0-4x4-tb-dies-aut-0-005506-9/",
+      "ano": 0,
+      "marca": "VW - VolksWagen"
+    },
+    {
+      "vehicleId": "volkswagen-amarok-highline-cd-3-0-4x4-tb-dies-aut-0-diesel",
+      "fipeCodigo": "005483-6",
+      "displayName": "VW - VolksWagen AMAROK Highline CD 3.0 4x4 TB Dies. Aut.",
+      "valorAtual": 371748,
+      "canonicalPath": "/fipe/volkswagen/amarok-highline-cd-3-0-4x4-tb-dies-aut-0-005483-6/",
+      "ano": 0,
+      "marca": "VW - VolksWagen"
+    }
+  ],
+  "stats": {
+    "total": 3
+  },
+  "meta": {
+    "geracaoId": "amarok-1"
+  }
+}

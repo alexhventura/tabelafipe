@@ -1,0 +1,57 @@
+{
+  "tipo": "geracao",
+  "slug": "t2-2",
+  "canonicalPath": "/geracao/jetour/t2-2/",
+  "titulo": "Geracao t2-2",
+  "descricao": "4 veiculos da geracao t2-2.",
+  "seo": {
+    "title": "Geracao t2-2 - Precos FIPE",
+    "description": "Veiculos da geracao t2-2 na Tabela FIPE.",
+    "h1": "Geracao t2-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/jetour/t2-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "jetour-t2-advance-2026-hibrido",
+      "fipeCodigo": "307003-4",
+      "displayName": "Jetour T2 Advance",
+      "valorAtual": 265250,
+      "canonicalPath": "/fipe/jetour/t2-advance-2026-307003-4/",
+      "ano": 2026,
+      "marca": "Jetour"
+    },
+    {
+      "vehicleId": "jetour-t2-advance-2027-hibrido",
+      "fipeCodigo": "307003-4",
+      "displayName": "Jetour T2 Advance",
+      "valorAtual": 274167,
+      "canonicalPath": "/fipe/jetour/t2-advance-2027-307003-4/",
+      "ano": 2027,
+      "marca": "Jetour"
+    },
+    {
+      "vehicleId": "jetour-t2-premium-2026-hibrido",
+      "fipeCodigo": "307004-2",
+      "displayName": "Jetour T2 Premium",
+      "valorAtual": 272622,
+      "canonicalPath": "/fipe/jetour/t2-premium-2026-307004-2/",
+      "ano": 2026,
+      "marca": "Jetour"
+    },
+    {
+      "vehicleId": "jetour-t2-premium-2027-hibrido",
+      "fipeCodigo": "307004-2",
+      "displayName": "Jetour T2 Premium",
+      "valorAtual": 282684,
+      "canonicalPath": "/fipe/jetour/t2-premium-2027-307004-2/",
+      "ano": 2027,
+      "marca": "Jetour"
+    }
+  ],
+  "stats": {
+    "total": 4
+  },
+  "meta": {
+    "geracaoId": "t2-2"
+  }
+}

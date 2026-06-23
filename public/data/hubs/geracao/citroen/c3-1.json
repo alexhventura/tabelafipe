@@ -1,0 +1,93 @@
+{
+  "tipo": "geracao",
+  "slug": "c3-1",
+  "canonicalPath": "/geracao/citroen/c3-1/",
+  "titulo": "Geracao c3-1",
+  "descricao": "8 veiculos da geracao c3-1.",
+  "seo": {
+    "title": "Geracao c3-1 - Precos FIPE",
+    "description": "Veiculos da geracao c3-1 na Tabela FIPE.",
+    "h1": "Geracao c3-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/citroen/c3-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "citroen-c3-feel-1-0-flex-6v-5p-mec-0-flex",
+      "fipeCodigo": "011224-0",
+      "displayName": "Citroën C3 Feel 1.0 Flex 6V 5p Mec.",
+      "valorAtual": 89489,
+      "canonicalPath": "/fipe/citroen/c3-feel-1-0-flex-6v-5p-mec-0-011224-0/",
+      "ano": 0,
+      "marca": "Citroën"
+    },
+    {
+      "vehicleId": "citroen-c3-feel-plus-1-0-6v-5p-mec-0-flex",
+      "fipeCodigo": "011251-8",
+      "displayName": "Citroën C3 Feel Plus 1.0 6V 5p Mec.",
+      "valorAtual": 91012,
+      "canonicalPath": "/fipe/citroen/c3-feel-plus-1-0-6v-5p-mec-0-011251-8/",
+      "ano": 0,
+      "marca": "Citroën"
+    },
+    {
+      "vehicleId": "citroen-c3-live-1-0-flex-6v-5p-mec-0-flex",
+      "fipeCodigo": "011222-4",
+      "displayName": "Citroën C3 Live 1.0 Flex 6V 5p Mec.",
+      "valorAtual": 78043,
+      "canonicalPath": "/fipe/citroen/c3-live-1-0-flex-6v-5p-mec-0-011222-4/",
+      "ano": 0,
+      "marca": "Citroën"
+    },
+    {
+      "vehicleId": "citroen-c3-live-go-1-0-6v-5p-mec-0-flex",
+      "fipeCodigo": "011249-6",
+      "displayName": "Citroën C3 Live Go 1.0 6V 5p Mec.",
+      "valorAtual": 80085,
+      "canonicalPath": "/fipe/citroen/c3-live-go-1-0-6v-5p-mec-0-011249-6/",
+      "ano": 0,
+      "marca": "Citroën"
+    },
+    {
+      "vehicleId": "citroen-c3-live-pack-1-0-flex-6v-5p-mec-0-flex",
+      "fipeCodigo": "011223-2",
+      "displayName": "Citroën C3 Live Pack 1.0 Flex 6V 5p Mec.",
+      "valorAtual": 86490,
+      "canonicalPath": "/fipe/citroen/c3-live-pack-1-0-flex-6v-5p-mec-0-011223-2/",
+      "ano": 0,
+      "marca": "Citroën"
+    },
+    {
+      "vehicleId": "citroen-c3-live-plus-1-0-6v-5p-mec-0-flex",
+      "fipeCodigo": "011250-0",
+      "displayName": "Citroën C3 Live Plus 1.0 6V 5p Mec.",
+      "valorAtual": 88485,
+      "canonicalPath": "/fipe/citroen/c3-live-plus-1-0-6v-5p-mec-0-011250-0/",
+      "ano": 0,
+      "marca": "Citroën"
+    },
+    {
+      "vehicleId": "citroen-c3-xtr-1-0-8v-5p-0-flex",
+      "fipeCodigo": "011247-0",
+      "displayName": "Citroën C3 XTR 1.0 8V 5p",
+      "valorAtual": 93005,
+      "canonicalPath": "/fipe/citroen/c3-xtr-1-0-8v-5p-0-011247-0/",
+      "ano": 0,
+      "marca": "Citroën"
+    },
+    {
+      "vehicleId": "citroen-c3-you-1-0-flex-turbo-200-aut-0-flex",
+      "fipeCodigo": "011237-2",
+      "displayName": "Citroën C3 YOU! 1.0 Flex Turbo 200 Aut.",
+      "valorAtual": 109550,
+      "canonicalPath": "/fipe/citroen/c3-you-1-0-flex-turbo-200-aut-0-011237-2/",
+      "ano": 0,
+      "marca": "Citroën"
+    }
+  ],
+  "stats": {
+    "total": 8
+  },
+  "meta": {
+    "geracaoId": "c3-1"
+  }
+}

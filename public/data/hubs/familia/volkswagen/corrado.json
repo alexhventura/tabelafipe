@@ -1,0 +1,60 @@
+{
+  "tipo": "familia",
+  "slug": "corrado",
+  "canonicalPath": "/fipe/volkswagen/corrado/",
+  "titulo": "VW - VolksWagen corrado - Tabela FIPE",
+  "descricao": "4 versoes e anos do VW - VolksWagen corrado na Tabela FIPE.",
+  "seo": {
+    "title": "VW - VolksWagen corrado - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes VW - VolksWagen corrado. 4 veiculos indexados.",
+    "h1": "VW - VolksWagen corrado - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/volkswagen/corrado/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "volkswagen-corrado-2-0-turbo-1992-gasolina",
+      "fipeCodigo": "005118-7",
+      "displayName": "VW - VolksWagen Corrado 2.0 Turbo",
+      "valorAtual": 20041,
+      "canonicalPath": "/fipe/volkswagen/corrado-2-0-turbo-1992-005118-7/",
+      "ano": 1992,
+      "marca": "VW - VolksWagen"
+    },
+    {
+      "vehicleId": "volkswagen-corrado-g-60-2-8-1992-gasolina",
+      "fipeCodigo": "005117-9",
+      "displayName": "VW - VolksWagen Corrado G-60 2.8",
+      "valorAtual": 25528,
+      "canonicalPath": "/fipe/volkswagen/corrado-g-60-2-8-1992-005117-9/",
+      "ano": 1992,
+      "marca": "VW - VolksWagen"
+    },
+    {
+      "vehicleId": "volkswagen-corrado-2-0-turbo-1991-gasolina",
+      "fipeCodigo": "005118-7",
+      "displayName": "VW - VolksWagen Corrado 2.0 Turbo",
+      "valorAtual": 18404,
+      "canonicalPath": "/fipe/volkswagen/corrado-2-0-turbo-1991-005118-7/",
+      "ano": 1991,
+      "marca": "VW - VolksWagen"
+    },
+    {
+      "vehicleId": "volkswagen-corrado-g-60-2-8-1991-gasolina",
+      "fipeCodigo": "005117-9",
+      "displayName": "VW - VolksWagen Corrado G-60 2.8",
+      "valorAtual": 23590,
+      "canonicalPath": "/fipe/volkswagen/corrado-g-60-2-8-1991-005117-9/",
+      "ano": 1991,
+      "marca": "VW - VolksWagen"
+    }
+  ],
+  "stats": {
+    "total": 4,
+    "precoMin": 18404,
+    "precoMax": 25528,
+    "anos": [
+      1992,
+      1991
+    ]
+  }
+}

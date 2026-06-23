@@ -1,0 +1,165 @@
+{
+  "tipo": "geracao",
+  "slug": "300-1",
+  "canonicalPath": "/geracao/chrysler/300-1/",
+  "titulo": "Geracao 300-1",
+  "descricao": "16 veiculos da geracao 300-1.",
+  "seo": {
+    "title": "Geracao 300-1 - Precos FIPE",
+    "description": "Veiculos da geracao 300-1 na Tabela FIPE.",
+    "h1": "Geracao 300-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/chrysler/300-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "chrysler-300-m-3-5-1998-gasolina",
+      "fipeCodigo": "010014-5",
+      "displayName": "Chrysler 300 M 3.5",
+      "valorAtual": 27467,
+      "canonicalPath": "/fipe/chrysler/300-m-3-5-1998-010014-5/",
+      "ano": 1998,
+      "marca": "Chrysler"
+    },
+    {
+      "vehicleId": "chrysler-300-m-3-5-1999-gasolina",
+      "fipeCodigo": "010014-5",
+      "displayName": "Chrysler 300 M 3.5",
+      "valorAtual": 37289,
+      "canonicalPath": "/fipe/chrysler/300-m-3-5-1999-010014-5/",
+      "ano": 1999,
+      "marca": "Chrysler"
+    },
+    {
+      "vehicleId": "chrysler-300-m-3-5-2000-gasolina",
+      "fipeCodigo": "010014-5",
+      "displayName": "Chrysler 300 M 3.5",
+      "valorAtual": 40822,
+      "canonicalPath": "/fipe/chrysler/300-m-3-5-2000-010014-5/",
+      "ano": 2000,
+      "marca": "Chrysler"
+    },
+    {
+      "vehicleId": "chrysler-300-m-3-5-2001-gasolina",
+      "fipeCodigo": "010014-5",
+      "displayName": "Chrysler 300 M 3.5",
+      "valorAtual": 43594,
+      "canonicalPath": "/fipe/chrysler/300-m-3-5-2001-010014-5/",
+      "ano": 2001,
+      "marca": "Chrysler"
+    },
+    {
+      "vehicleId": "mercedes-benz-300-d-3-0-diesel-1991-diesel",
+      "fipeCodigo": "021068-4",
+      "displayName": "Mercedes-Benz 300-D 3.0 Diesel",
+      "valorAtual": 16195,
+      "canonicalPath": "/fipe/mercedes-benz/300-d-3-0-diesel-1991-021068-4/",
+      "ano": 1991,
+      "marca": "Mercedes-Benz"
+    },
+    {
+      "vehicleId": "mercedes-benz-300-d-3-0-diesel-1992-diesel",
+      "fipeCodigo": "021068-4",
+      "displayName": "Mercedes-Benz 300-D 3.0 Diesel",
+      "valorAtual": 17031,
+      "canonicalPath": "/fipe/mercedes-benz/300-d-3-0-diesel-1992-021068-4/",
+      "ano": 1992,
+      "marca": "Mercedes-Benz"
+    },
+    {
+      "vehicleId": "mercedes-benz-300-e-3-0-1991-gasolina",
+      "fipeCodigo": "021069-2",
+      "displayName": "Mercedes-Benz 300-E 3.0",
+      "valorAtual": 41371,
+      "canonicalPath": "/fipe/mercedes-benz/300-e-3-0-1991-021069-2/",
+      "ano": 1991,
+      "marca": "Mercedes-Benz"
+    },
+    {
+      "vehicleId": "mercedes-benz-300-e-3-0-1992-gasolina",
+      "fipeCodigo": "021069-2",
+      "displayName": "Mercedes-Benz 300-E 3.0",
+      "valorAtual": 43963,
+      "canonicalPath": "/fipe/mercedes-benz/300-e-3-0-1992-021069-2/",
+      "ano": 1992,
+      "marca": "Mercedes-Benz"
+    },
+    {
+      "vehicleId": "mercedes-benz-300-e-3-0-1993-gasolina",
+      "fipeCodigo": "021069-2",
+      "displayName": "Mercedes-Benz 300-E 3.0",
+      "valorAtual": 45063,
+      "canonicalPath": "/fipe/mercedes-benz/300-e-3-0-1993-021069-2/",
+      "ano": 1993,
+      "marca": "Mercedes-Benz"
+    },
+    {
+      "vehicleId": "mercedes-benz-300-se-3-0-3-2-1991-gasolina",
+      "fipeCodigo": "021045-5",
+      "displayName": "Mercedes-Benz 300-SE 3.0/3.2",
+      "valorAtual": 46918,
+      "canonicalPath": "/fipe/mercedes-benz/300-se-3-0-3-2-1991-021045-5/",
+      "ano": 1991,
+      "marca": "Mercedes-Benz"
+    },
+    {
+      "vehicleId": "mercedes-benz-300-se-3-0-3-2-1992-gasolina",
+      "fipeCodigo": "021045-5",
+      "displayName": "Mercedes-Benz 300-SE 3.0/3.2",
+      "valorAtual": 65570,
+      "canonicalPath": "/fipe/mercedes-benz/300-se-3-0-3-2-1992-021045-5/",
+      "ano": 1992,
+      "marca": "Mercedes-Benz"
+    },
+    {
+      "vehicleId": "mercedes-benz-300-se-3-0-3-2-1993-gasolina",
+      "fipeCodigo": "021045-5",
+      "displayName": "Mercedes-Benz 300-SE 3.0/3.2",
+      "valorAtual": 111679,
+      "canonicalPath": "/fipe/mercedes-benz/300-se-3-0-3-2-1993-021045-5/",
+      "ano": 1993,
+      "marca": "Mercedes-Benz"
+    },
+    {
+      "vehicleId": "mercedes-benz-300-sl-3-0-1991-gasolina",
+      "fipeCodigo": "021070-6",
+      "displayName": "Mercedes-Benz 300-SL 3.0",
+      "valorAtual": 54726,
+      "canonicalPath": "/fipe/mercedes-benz/300-sl-3-0-1991-021070-6/",
+      "ano": 1991,
+      "marca": "Mercedes-Benz"
+    },
+    {
+      "vehicleId": "mercedes-benz-300-sl-3-0-1992-gasolina",
+      "fipeCodigo": "021070-6",
+      "displayName": "Mercedes-Benz 300-SL 3.0",
+      "valorAtual": 73186,
+      "canonicalPath": "/fipe/mercedes-benz/300-sl-3-0-1992-021070-6/",
+      "ano": 1992,
+      "marca": "Mercedes-Benz"
+    },
+    {
+      "vehicleId": "mercedes-benz-300-sl-3-0-1993-gasolina",
+      "fipeCodigo": "021070-6",
+      "displayName": "Mercedes-Benz 300-SL 3.0",
+      "valorAtual": 104689,
+      "canonicalPath": "/fipe/mercedes-benz/300-sl-3-0-1993-021070-6/",
+      "ano": 1993,
+      "marca": "Mercedes-Benz"
+    },
+    {
+      "vehicleId": "mercedes-benz-300-te-wagon-3-0-1992-gasolina",
+      "fipeCodigo": "021071-4",
+      "displayName": "Mercedes-Benz 300-TE Wagon 3.0",
+      "valorAtual": 31178,
+      "canonicalPath": "/fipe/mercedes-benz/300-te-wagon-3-0-1992-021071-4/",
+      "ano": 1992,
+      "marca": "Mercedes-Benz"
+    }
+  ],
+  "stats": {
+    "total": 16
+  },
+  "meta": {
+    "geracaoId": "300-1"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "tipo": "geracao",
+  "slug": "fosti-1",
+  "canonicalPath": "/geracao/brandy/fosti-1/",
+  "titulo": "Geracao fosti-1",
+  "descricao": "3 veiculos da geracao fosti-1.",
+  "seo": {
+    "title": "Geracao fosti-1 - Precos FIPE",
+    "description": "Veiculos da geracao fosti-1 na Tabela FIPE.",
+    "h1": "Geracao fosti-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/brandy/fosti-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "brandy-fosti-125-1997-gasolina",
+      "fipeCodigo": "804002-8",
+      "displayName": "BRANDY FOSTI 125",
+      "valorAtual": 1252,
+      "canonicalPath": "/fipe/brandy/fosti-125-1997-804002-8/",
+      "ano": 1997,
+      "marca": "BRANDY"
+    },
+    {
+      "vehicleId": "brandy-fosti-125-1998-gasolina",
+      "fipeCodigo": "804002-8",
+      "displayName": "BRANDY FOSTI 125",
+      "valorAtual": 1284,
+      "canonicalPath": "/fipe/brandy/fosti-125-1998-804002-8/",
+      "ano": 1998,
+      "marca": "BRANDY"
+    },
+    {
+      "vehicleId": "brandy-fosti-125-1999-gasolina",
+      "fipeCodigo": "804002-8",
+      "displayName": "BRANDY FOSTI 125",
+      "valorAtual": 1317,
+      "canonicalPath": "/fipe/brandy/fosti-125-1999-804002-8/",
+      "ano": 1999,
+      "marca": "BRANDY"
+    }
+  ],
+  "stats": {
+    "total": 3
+  },
+  "meta": {
+    "geracaoId": "fosti-1"
+  }
+}

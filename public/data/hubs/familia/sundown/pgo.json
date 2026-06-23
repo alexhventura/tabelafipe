@@ -1,0 +1,51 @@
+{
+  "tipo": "familia",
+  "slug": "pgo",
+  "canonicalPath": "/fipe/sundown/pgo/",
+  "titulo": "SUNDOWN pgo - Tabela FIPE",
+  "descricao": "3 versoes e anos do SUNDOWN pgo na Tabela FIPE.",
+  "seo": {
+    "title": "SUNDOWN pgo - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes SUNDOWN pgo. 3 veiculos indexados.",
+    "h1": "SUNDOWN pgo - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/sundown/pgo/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "sundown-pgo-speed-90cc-1998-gasolina",
+      "fipeCodigo": "824007-8",
+      "displayName": "SUNDOWN PGO SPEED 90cc",
+      "valorAtual": 1649,
+      "canonicalPath": "/fipe/sundown/pgo-speed-90cc-1998-824007-8/",
+      "ano": 1998,
+      "marca": "SUNDOWN"
+    },
+    {
+      "vehicleId": "sundown-pgo-speed-50cc-1997-gasolina",
+      "fipeCodigo": "824006-0",
+      "displayName": "SUNDOWN PGO SPEED 50cc",
+      "valorAtual": 1206,
+      "canonicalPath": "/fipe/sundown/pgo-speed-50cc-1997-824006-0/",
+      "ano": 1997,
+      "marca": "SUNDOWN"
+    },
+    {
+      "vehicleId": "sundown-pgo-speed-90cc-1997-gasolina",
+      "fipeCodigo": "824007-8",
+      "displayName": "SUNDOWN PGO SPEED 90cc",
+      "valorAtual": 1470,
+      "canonicalPath": "/fipe/sundown/pgo-speed-90cc-1997-824007-8/",
+      "ano": 1997,
+      "marca": "SUNDOWN"
+    }
+  ],
+  "stats": {
+    "total": 3,
+    "precoMin": 1206,
+    "precoMax": 1649,
+    "anos": [
+      1998,
+      1997
+    ]
+  }
+}

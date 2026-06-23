@@ -1,0 +1,112 @@
+{
+  "tipo": "familia",
+  "slug": "sst",
+  "canonicalPath": "/fipe/agrale/sst/",
+  "titulo": "AGRALE sst - Tabela FIPE",
+  "descricao": "9 versoes e anos do AGRALE sst na Tabela FIPE.",
+  "seo": {
+    "title": "AGRALE sst - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes AGRALE sst. 9 veiculos indexados.",
+    "h1": "AGRALE sst - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/agrale/sst/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "agrale-sst-13-5-125cc-1998-gasolina",
+      "fipeCodigo": "801014-5",
+      "displayName": "AGRALE SST 13.5 125cc",
+      "valorAtual": 1456,
+      "canonicalPath": "/fipe/agrale/sst-13-5-125cc-1998-801014-5/",
+      "ano": 1998,
+      "marca": "AGRALE"
+    },
+    {
+      "vehicleId": "agrale-sst-13-5-125cc-1997-gasolina",
+      "fipeCodigo": "801014-5",
+      "displayName": "AGRALE SST 13.5 125cc",
+      "valorAtual": 1377,
+      "canonicalPath": "/fipe/agrale/sst-13-5-125cc-1997-801014-5/",
+      "ano": 1997,
+      "marca": "AGRALE"
+    },
+    {
+      "vehicleId": "agrale-sst-13-5-125cc-1996-gasolina",
+      "fipeCodigo": "801014-5",
+      "displayName": "AGRALE SST 13.5 125cc",
+      "valorAtual": 1198,
+      "canonicalPath": "/fipe/agrale/sst-13-5-125cc-1996-801014-5/",
+      "ano": 1996,
+      "marca": "AGRALE"
+    },
+    {
+      "vehicleId": "agrale-sst-13-5-125cc-1995-gasolina",
+      "fipeCodigo": "801014-5",
+      "displayName": "AGRALE SST 13.5 125cc",
+      "valorAtual": 1147,
+      "canonicalPath": "/fipe/agrale/sst-13-5-125cc-1995-801014-5/",
+      "ano": 1995,
+      "marca": "AGRALE"
+    },
+    {
+      "vehicleId": "agrale-sst-13-5-125cc-1994-gasolina",
+      "fipeCodigo": "801014-5",
+      "displayName": "AGRALE SST 13.5 125cc",
+      "valorAtual": 1086,
+      "canonicalPath": "/fipe/agrale/sst-13-5-125cc-1994-801014-5/",
+      "ano": 1994,
+      "marca": "AGRALE"
+    },
+    {
+      "vehicleId": "agrale-sst-13-5-125cc-1993-gasolina",
+      "fipeCodigo": "801014-5",
+      "displayName": "AGRALE SST 13.5 125cc",
+      "valorAtual": 1025,
+      "canonicalPath": "/fipe/agrale/sst-13-5-125cc-1993-801014-5/",
+      "ano": 1993,
+      "marca": "AGRALE"
+    },
+    {
+      "vehicleId": "agrale-sst-13-5-125cc-1992-gasolina",
+      "fipeCodigo": "801014-5",
+      "displayName": "AGRALE SST 13.5 125cc",
+      "valorAtual": 998,
+      "canonicalPath": "/fipe/agrale/sst-13-5-125cc-1992-801014-5/",
+      "ano": 1992,
+      "marca": "AGRALE"
+    },
+    {
+      "vehicleId": "agrale-sst-13-5-125cc-1991-gasolina",
+      "fipeCodigo": "801014-5",
+      "displayName": "AGRALE SST 13.5 125cc",
+      "valorAtual": 972,
+      "canonicalPath": "/fipe/agrale/sst-13-5-125cc-1991-801014-5/",
+      "ano": 1991,
+      "marca": "AGRALE"
+    },
+    {
+      "vehicleId": "agrale-sst-13-5-125cc-1990-gasolina",
+      "fipeCodigo": "801014-5",
+      "displayName": "AGRALE SST 13.5 125cc",
+      "valorAtual": 928,
+      "canonicalPath": "/fipe/agrale/sst-13-5-125cc-1990-801014-5/",
+      "ano": 1990,
+      "marca": "AGRALE"
+    }
+  ],
+  "stats": {
+    "total": 9,
+    "precoMin": 928,
+    "precoMax": 1456,
+    "anos": [
+      1998,
+      1997,
+      1996,
+      1995,
+      1994,
+      1993,
+      1992,
+      1991,
+      1990
+    ]
+  }
+}

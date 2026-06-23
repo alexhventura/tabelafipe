@@ -1,0 +1,84 @@
+{
+  "tipo": "geracao",
+  "slug": "s4-3",
+  "canonicalPath": "/geracao/audi/s4-3/",
+  "titulo": "Geracao s4-3",
+  "descricao": "7 veiculos da geracao s4-3.",
+  "seo": {
+    "title": "Geracao s4-3 - Precos FIPE",
+    "description": "Veiculos da geracao s4-3 na Tabela FIPE.",
+    "h1": "Geracao s4-3",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/audi/s4-3/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "audi-s4-3-0-avant-tfsi-v6-24v-quattro-stronic-2012-gasolina",
+      "fipeCodigo": "008163-9",
+      "displayName": "Audi S4 3.0 Avant TFSI V6 24V Quattro Stronic",
+      "valorAtual": 165841,
+      "canonicalPath": "/fipe/audi/s4-3-0-avant-tfsi-v6-24v-quattro-stronic-2012-008163-9/",
+      "ano": 2012,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-s4-3-0-avant-tfsi-v6-24v-quattro-stronic-2013-gasolina",
+      "fipeCodigo": "008163-9",
+      "displayName": "Audi S4 3.0 Avant TFSI V6 24V Quattro Stronic",
+      "valorAtual": 176555,
+      "canonicalPath": "/fipe/audi/s4-3-0-avant-tfsi-v6-24v-quattro-stronic-2013-008163-9/",
+      "ano": 2013,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-s4-3-0-avant-tfsi-v6-24v-quattro-stronic-2014-gasolina",
+      "fipeCodigo": "008163-9",
+      "displayName": "Audi S4 3.0 Avant TFSI V6 24V Quattro Stronic",
+      "valorAtual": 214356,
+      "canonicalPath": "/fipe/audi/s4-3-0-avant-tfsi-v6-24v-quattro-stronic-2014-008163-9/",
+      "ano": 2014,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-s4-3-0-tfsi-v6-24v-quattro-stronic-2011-gasolina",
+      "fipeCodigo": "008162-0",
+      "displayName": "Audi S4 3.0 TFSI V6 24V Quattro Stronic",
+      "valorAtual": 120020,
+      "canonicalPath": "/fipe/audi/s4-3-0-tfsi-v6-24v-quattro-stronic-2011-008162-0/",
+      "ano": 2011,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-s4-3-0-tfsi-v6-24v-quattro-stronic-2012-gasolina",
+      "fipeCodigo": "008162-0",
+      "displayName": "Audi S4 3.0 TFSI V6 24V Quattro Stronic",
+      "valorAtual": 149008,
+      "canonicalPath": "/fipe/audi/s4-3-0-tfsi-v6-24v-quattro-stronic-2012-008162-0/",
+      "ano": 2012,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-s4-3-0-tfsi-v6-24v-quattro-stronic-2013-gasolina",
+      "fipeCodigo": "008162-0",
+      "displayName": "Audi S4 3.0 TFSI V6 24V Quattro Stronic",
+      "valorAtual": 173290,
+      "canonicalPath": "/fipe/audi/s4-3-0-tfsi-v6-24v-quattro-stronic-2013-008162-0/",
+      "ano": 2013,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-s4-3-0-tfsi-v6-24v-quattro-stronic-2014-gasolina",
+      "fipeCodigo": "008162-0",
+      "displayName": "Audi S4 3.0 TFSI V6 24V Quattro Stronic",
+      "valorAtual": 181450,
+      "canonicalPath": "/fipe/audi/s4-3-0-tfsi-v6-24v-quattro-stronic-2014-008162-0/",
+      "ano": 2014,
+      "marca": "Audi"
+    }
+  ],
+  "stats": {
+    "total": 7
+  },
+  "meta": {
+    "geracaoId": "s4-3"
+  }
+}

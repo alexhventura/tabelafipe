@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "wre-1",
+  "canonicalPath": "/geracao/husqvarna/wre-1/",
+  "titulo": "Geracao wre-1",
+  "descricao": "2 veiculos da geracao wre-1.",
+  "seo": {
+    "title": "Geracao wre-1 - Precos FIPE",
+    "description": "Veiculos da geracao wre-1 na Tabela FIPE.",
+    "h1": "Geracao wre-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/husqvarna/wre-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "husqvarna-wre-125-1995-gasolina",
+      "fipeCodigo": "812003-0",
+      "displayName": "HUSQVARNA WRE 125",
+      "valorAtual": 2990,
+      "canonicalPath": "/fipe/husqvarna/wre-125-1995-812003-0/",
+      "ano": 1995,
+      "marca": "HUSQVARNA"
+    },
+    {
+      "vehicleId": "husqvarna-wre-125-1996-gasolina",
+      "fipeCodigo": "812003-0",
+      "displayName": "HUSQVARNA WRE 125",
+      "valorAtual": 3282,
+      "canonicalPath": "/fipe/husqvarna/wre-125-1996-812003-0/",
+      "ano": 1996,
+      "marca": "HUSQVARNA"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "wre-1"
+  }
+}

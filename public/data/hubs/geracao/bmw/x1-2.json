@@ -1,0 +1,507 @@
+{
+  "tipo": "geracao",
+  "slug": "x1-2",
+  "canonicalPath": "/geracao/bmw/x1-2/",
+  "titulo": "Geracao x1-2",
+  "descricao": "54 veiculos da geracao x1-2.",
+  "seo": {
+    "title": "Geracao x1-2 - Precos FIPE",
+    "description": "Veiculos da geracao x1-2 na Tabela FIPE.",
+    "h1": "Geracao x1-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/bmw/x1-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "bmw-x1-sdrive-18i-2-0-16v-4x2-aut-2010-gasolina",
+      "fipeCodigo": "009145-6",
+      "displayName": "BMW X1 SDRIVE 18i 2.0 16V 4x2 Aut.",
+      "valorAtual": 58172,
+      "canonicalPath": "/fipe/bmw/x1-sdrive-18i-2-0-16v-4x2-aut-2010-009145-6/",
+      "ano": 2010,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-x1-sdrive-18i-2-0-16v-4x2-aut-2011-gasolina",
+      "fipeCodigo": "009145-6",
+      "displayName": "BMW X1 SDRIVE 18i 2.0 16V 4x2 Aut.",
+      "valorAtual": 59627,
+      "canonicalPath": "/fipe/bmw/x1-sdrive-18i-2-0-16v-4x2-aut-2011-009145-6/",
+      "ano": 2011,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-x1-sdrive-18i-2-0-16v-4x2-aut-2012-gasolina",
+      "fipeCodigo": "009145-6",
+      "displayName": "BMW X1 SDRIVE 18i 2.0 16V 4x2 Aut.",
+      "valorAtual": 62685,
+      "canonicalPath": "/fipe/bmw/x1-sdrive-18i-2-0-16v-4x2-aut-2012-009145-6/",
+      "ano": 2012,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-x1-sdrive-18i-2-0-16v-4x2-aut-2013-gasolina",
+      "fipeCodigo": "009145-6",
+      "displayName": "BMW X1 SDRIVE 18i 2.0 16V 4x2 Aut.",
+      "valorAtual": 66525,
+      "canonicalPath": "/fipe/bmw/x1-sdrive-18i-2-0-16v-4x2-aut-2013-009145-6/",
+      "ano": 2013,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-x1-sdrive-18i-2-0-16v-4x2-aut-2014-gasolina",
+      "fipeCodigo": "009145-6",
+      "displayName": "BMW X1 SDRIVE 18i 2.0 16V 4x2 Aut.",
+      "valorAtual": 71428,
+      "canonicalPath": "/fipe/bmw/x1-sdrive-18i-2-0-16v-4x2-aut-2014-009145-6/",
+      "ano": 2014,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-x1-sdrive-18i-gp-1-5-tb-aut-2023-gasolina",
+      "fipeCodigo": "009304-1",
+      "displayName": "BMW X1 SDRIVE 18i GP 1.5 TB Aut.",
+      "valorAtual": 244175,
+      "canonicalPath": "/fipe/bmw/x1-sdrive-18i-gp-1-5-tb-aut-2023-009304-1/",
+      "ano": 2023,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-x1-sdrive-18i-gp-1-5-tb-aut-2024-gasolina",
+      "fipeCodigo": "009304-1",
+      "displayName": "BMW X1 SDRIVE 18i GP 1.5 TB Aut.",
+      "valorAtual": 265765,
+      "canonicalPath": "/fipe/bmw/x1-sdrive-18i-gp-1-5-tb-aut-2024-009304-1/",
+      "ano": 2024,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-x1-sdrive-18i-gp-1-5-tb-aut-2025-gasolina",
+      "fipeCodigo": "009304-1",
+      "displayName": "BMW X1 SDRIVE 18i GP 1.5 TB Aut.",
+      "valorAtual": 272972,
+      "canonicalPath": "/fipe/bmw/x1-sdrive-18i-gp-1-5-tb-aut-2025-009304-1/",
+      "ano": 2025,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-x1-sdrive-20i-2-0-2-0-tb-acti-flex-aut-2012-gasolina",
+      "fipeCodigo": "009172-3",
+      "displayName": "BMW X1 SDRIVE 20i 2.0/2.0 TB Acti.Flex Aut.",
+      "valorAtual": 61061,
+      "canonicalPath": "/fipe/bmw/x1-sdrive-20i-2-0-2-0-tb-acti-flex-aut-2012-009172-3/",
+      "ano": 2012,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-x1-sdrive-20i-2-0-2-0-tb-acti-flex-aut-2013-gasolina",
+      "fipeCodigo": "009172-3",
+      "displayName": "BMW X1 SDRIVE 20i 2.0/2.0 TB Acti.Flex Aut.",
+      "valorAtual": 74430,
+      "canonicalPath": "/fipe/bmw/x1-sdrive-20i-2-0-2-0-tb-acti-flex-aut-2013-009172-3/",
+      "ano": 2013,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-x1-sdrive-20i-2-0-2-0-tb-acti-flex-aut-2014-gasolina",
+      "fipeCodigo": "009172-3",
+      "displayName": "BMW X1 SDRIVE 20i 2.0/2.0 TB Acti.Flex Aut.",
+      "valorAtual": 78318,
+      "canonicalPath": "/fipe/bmw/x1-sdrive-20i-2-0-2-0-tb-acti-flex-aut-2014-009172-3/",
+      "ano": 2014,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-x1-sdrive-20i-2-0-2-0-tb-acti-flex-aut-2015-gasolina",
+      "fipeCodigo": "009172-3",
+      "displayName": "BMW X1 SDRIVE 20i 2.0/2.0 TB Acti.Flex Aut.",
+      "valorAtual": 80534,
+      "canonicalPath": "/fipe/bmw/x1-sdrive-20i-2-0-2-0-tb-acti-flex-aut-2015-009172-3/",
+      "ano": 2015,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-x1-sdrive-20i-2-0-2-0-tb-acti-flex-aut-2016-gasolina",
+      "fipeCodigo": "009172-3",
+      "displayName": "BMW X1 SDRIVE 20i 2.0/2.0 TB Acti.Flex Aut.",
+      "valorAtual": 103406,
+      "canonicalPath": "/fipe/bmw/x1-sdrive-20i-2-0-2-0-tb-acti-flex-aut-2016-009172-3/",
+      "ano": 2016,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-x1-sdrive-20i-2-0-2-0-tb-acti-flex-aut-2017-gasolina",
+      "fipeCodigo": "009172-3",
+      "displayName": "BMW X1 SDRIVE 20i 2.0/2.0 TB Acti.Flex Aut.",
+      "valorAtual": 108395,
+      "canonicalPath": "/fipe/bmw/x1-sdrive-20i-2-0-2-0-tb-acti-flex-aut-2017-009172-3/",
+      "ano": 2017,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-x1-sdrive-20i-2-0-2-0-tb-acti-flex-aut-2018-gasolina",
+      "fipeCodigo": "009172-3",
+      "displayName": "BMW X1 SDRIVE 20i 2.0/2.0 TB Acti.Flex Aut.",
+      "valorAtual": 115681,
+      "canonicalPath": "/fipe/bmw/x1-sdrive-20i-2-0-2-0-tb-acti-flex-aut-2018-009172-3/",
+      "ano": 2018,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-x1-sdrive-20i-2-0-2-0-tb-acti-flex-aut-2019-gasolina",
+      "fipeCodigo": "009172-3",
+      "displayName": "BMW X1 SDRIVE 20i 2.0/2.0 TB Acti.Flex Aut.",
+      "valorAtual": 125997,
+      "canonicalPath": "/fipe/bmw/x1-sdrive-20i-2-0-2-0-tb-acti-flex-aut-2019-009172-3/",
+      "ano": 2019,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-x1-sdrive-20i-2-0-2-0-tb-acti-flex-aut-2020-gasolina",
+      "fipeCodigo": "009172-3",
+      "displayName": "BMW X1 SDRIVE 20i 2.0/2.0 TB Acti.Flex Aut.",
+      "valorAtual": 138911,
+      "canonicalPath": "/fipe/bmw/x1-sdrive-20i-2-0-2-0-tb-acti-flex-aut-2020-009172-3/",
+      "ano": 2020,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-x1-sdrive-20i-2-0-2-0-tb-acti-flex-aut-2021-gasolina",
+      "fipeCodigo": "009172-3",
+      "displayName": "BMW X1 SDRIVE 20i 2.0/2.0 TB Acti.Flex Aut.",
+      "valorAtual": 153559,
+      "canonicalPath": "/fipe/bmw/x1-sdrive-20i-2-0-2-0-tb-acti-flex-aut-2021-009172-3/",
+      "ano": 2021,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-x1-sdrive-20i-2-0-2-0-tb-acti-flex-aut-2022-gasolina",
+      "fipeCodigo": "009172-3",
+      "displayName": "BMW X1 SDRIVE 20i 2.0/2.0 TB Acti.Flex Aut.",
+      "valorAtual": 165205,
+      "canonicalPath": "/fipe/bmw/x1-sdrive-20i-2-0-2-0-tb-acti-flex-aut-2022-009172-3/",
+      "ano": 2022,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-x1-sdrive-20i-gp-2-0-tb-aut-2025-gasolina",
+      "fipeCodigo": "009323-8",
+      "displayName": "BMW X1 SDRIVE 20i GP 2.0 TB Aut.",
+      "valorAtual": 279323,
+      "canonicalPath": "/fipe/bmw/x1-sdrive-20i-gp-2-0-tb-aut-2025-009323-8/",
+      "ano": 2025,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-x1-sdrive-20i-gp-2-0-tb-aut-2026-gasolina",
+      "fipeCodigo": "009323-8",
+      "displayName": "BMW X1 SDRIVE 20i GP 2.0 TB Aut.",
+      "valorAtual": 289414,
+      "canonicalPath": "/fipe/bmw/x1-sdrive-20i-gp-2-0-tb-aut-2026-009323-8/",
+      "ano": 2026,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-x1-sdrive-20i-m-s-2-0-25-anos-tb-flex-2021-flex",
+      "fipeCodigo": "009275-4",
+      "displayName": "BMW X1 SDRIVE 20i M S. 2.0 25 Anos TB Flex",
+      "valorAtual": 187513,
+      "canonicalPath": "/fipe/bmw/x1-sdrive-20i-m-s-2-0-25-anos-tb-flex-2021-009275-4/",
+      "ano": 2021,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-x1-sdrive-20i-m-sport-2-0-tb-aut-2023-gasolina",
+      "fipeCodigo": "009305-0",
+      "displayName": "BMW X1 SDRIVE 20i M Sport 2.0 TB Aut.",
+      "valorAtual": 275829,
+      "canonicalPath": "/fipe/bmw/x1-sdrive-20i-m-sport-2-0-tb-aut-2023-009305-0/",
+      "ano": 2023,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-x1-sdrive-20i-m-sport-2-0-tb-aut-2024-gasolina",
+      "fipeCodigo": "009305-0",
+      "displayName": "BMW X1 SDRIVE 20i M Sport 2.0 TB Aut.",
+      "valorAtual": 290190,
+      "canonicalPath": "/fipe/bmw/x1-sdrive-20i-m-sport-2-0-tb-aut-2024-009305-0/",
+      "ano": 2024,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-x1-sdrive-20i-m-sport-2-0-tb-aut-2025-gasolina",
+      "fipeCodigo": "009305-0",
+      "displayName": "BMW X1 SDRIVE 20i M Sport 2.0 TB Aut.",
+      "valorAtual": 319311,
+      "canonicalPath": "/fipe/bmw/x1-sdrive-20i-m-sport-2-0-tb-aut-2025-009305-0/",
+      "ano": 2025,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-x1-sdrive-20i-m-sport-2-0-tb-aut-2026-gasolina",
+      "fipeCodigo": "009305-0",
+      "displayName": "BMW X1 SDRIVE 20i M Sport 2.0 TB Aut.",
+      "valorAtual": 346765,
+      "canonicalPath": "/fipe/bmw/x1-sdrive-20i-m-sport-2-0-tb-aut-2026-009305-0/",
+      "ano": 2026,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-x1-sdrive-20i-m-sport-2-0-tb-flex-aut-2022-flex",
+      "fipeCodigo": "009288-6",
+      "displayName": "BMW X1 SDRIVE 20i M Sport 2.0 TB Flex Aut.",
+      "valorAtual": 194913,
+      "canonicalPath": "/fipe/bmw/x1-sdrive-20i-m-sport-2-0-tb-flex-aut-2022-009288-6/",
+      "ano": 2022,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-x1-sdrive-20i-outdoor-2-0-flex-aut-2022-flex",
+      "fipeCodigo": "009300-9",
+      "displayName": "BMW X1 SDRIVE 20i Outdoor 2.0.Flex Aut.",
+      "valorAtual": 169456,
+      "canonicalPath": "/fipe/bmw/x1-sdrive-20i-outdoor-2-0-flex-aut-2022-009300-9/",
+      "ano": 2022,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-x1-sdrive-20i-x-line-2-0-tb-active-flex-2015-flex",
+      "fipeCodigo": "009239-8",
+      "displayName": "BMW X1 SDRIVE 20i X-Line 2.0 TB Active Flex",
+      "valorAtual": 80573,
+      "canonicalPath": "/fipe/bmw/x1-sdrive-20i-x-line-2-0-tb-active-flex-2015-009239-8/",
+      "ano": 2015,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-x1-sdrive-20i-x-line-2-0-tb-active-flex-2016-flex",
+      "fipeCodigo": "009239-8",
+      "displayName": "BMW X1 SDRIVE 20i X-Line 2.0 TB Active Flex",
+      "valorAtual": 102788,
+      "canonicalPath": "/fipe/bmw/x1-sdrive-20i-x-line-2-0-tb-active-flex-2016-009239-8/",
+      "ano": 2016,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-x1-sdrive-20i-x-line-2-0-tb-active-flex-2017-flex",
+      "fipeCodigo": "009239-8",
+      "displayName": "BMW X1 SDRIVE 20i X-Line 2.0 TB Active Flex",
+      "valorAtual": 110173,
+      "canonicalPath": "/fipe/bmw/x1-sdrive-20i-x-line-2-0-tb-active-flex-2017-009239-8/",
+      "ano": 2017,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-x1-sdrive-20i-x-line-2-0-tb-active-flex-2018-flex",
+      "fipeCodigo": "009239-8",
+      "displayName": "BMW X1 SDRIVE 20i X-Line 2.0 TB Active Flex",
+      "valorAtual": 119304,
+      "canonicalPath": "/fipe/bmw/x1-sdrive-20i-x-line-2-0-tb-active-flex-2018-009239-8/",
+      "ano": 2018,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-x1-sdrive-20i-x-line-2-0-tb-active-flex-2019-flex",
+      "fipeCodigo": "009239-8",
+      "displayName": "BMW X1 SDRIVE 20i X-Line 2.0 TB Active Flex",
+      "valorAtual": 131815,
+      "canonicalPath": "/fipe/bmw/x1-sdrive-20i-x-line-2-0-tb-active-flex-2019-009239-8/",
+      "ano": 2019,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-x1-sdrive-20i-x-line-2-0-tb-active-flex-2020-flex",
+      "fipeCodigo": "009239-8",
+      "displayName": "BMW X1 SDRIVE 20i X-Line 2.0 TB Active Flex",
+      "valorAtual": 147386,
+      "canonicalPath": "/fipe/bmw/x1-sdrive-20i-x-line-2-0-tb-active-flex-2020-009239-8/",
+      "ano": 2020,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-x1-sdrive-20i-x-line-2-0-tb-active-flex-2021-flex",
+      "fipeCodigo": "009239-8",
+      "displayName": "BMW X1 SDRIVE 20i X-Line 2.0 TB Active Flex",
+      "valorAtual": 161731,
+      "canonicalPath": "/fipe/bmw/x1-sdrive-20i-x-line-2-0-tb-active-flex-2021-009239-8/",
+      "ano": 2021,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-x1-sdrive-20i-x-line-2-0-tb-active-flex-2022-flex",
+      "fipeCodigo": "009239-8",
+      "displayName": "BMW X1 SDRIVE 20i X-Line 2.0 TB Active Flex",
+      "valorAtual": 178943,
+      "canonicalPath": "/fipe/bmw/x1-sdrive-20i-x-line-2-0-tb-active-flex-2022-009239-8/",
+      "ano": 2022,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-x1-sdrive-20i-x-line-2-0-tb-aut-2023-gasolina",
+      "fipeCodigo": "009303-3",
+      "displayName": "BMW X1 SDRIVE 20i X-Line 2.0 TB Aut.",
+      "valorAtual": 262451,
+      "canonicalPath": "/fipe/bmw/x1-sdrive-20i-x-line-2-0-tb-aut-2023-009303-3/",
+      "ano": 2023,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-x1-sdrive-20i-x-line-2-0-tb-aut-2024-gasolina",
+      "fipeCodigo": "009303-3",
+      "displayName": "BMW X1 SDRIVE 20i X-Line 2.0 TB Aut.",
+      "valorAtual": 273773,
+      "canonicalPath": "/fipe/bmw/x1-sdrive-20i-x-line-2-0-tb-aut-2024-009303-3/",
+      "ano": 2024,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-x1-sdrive-20i-x-line-2-0-tb-aut-2025-gasolina",
+      "fipeCodigo": "009303-3",
+      "displayName": "BMW X1 SDRIVE 20i X-Line 2.0 TB Aut.",
+      "valorAtual": 299263,
+      "canonicalPath": "/fipe/bmw/x1-sdrive-20i-x-line-2-0-tb-aut-2025-009303-3/",
+      "ano": 2025,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-x1-sdrive-20i-x-line-2-0-tb-aut-2026-gasolina",
+      "fipeCodigo": "009303-3",
+      "displayName": "BMW X1 SDRIVE 20i X-Line 2.0 TB Aut.",
+      "valorAtual": 327511,
+      "canonicalPath": "/fipe/bmw/x1-sdrive-20i-x-line-2-0-tb-aut-2026-009303-3/",
+      "ano": 2026,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-x1-xdrive-25i-sport-2-0-2-0-flex-aut-2016-gasolina",
+      "fipeCodigo": "009216-9",
+      "displayName": "BMW X1 XDRIVE 25i Sport 2.0/2.0 Flex Aut.",
+      "valorAtual": 112419,
+      "canonicalPath": "/fipe/bmw/x1-xdrive-25i-sport-2-0-2-0-flex-aut-2016-009216-9/",
+      "ano": 2016,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-x1-xdrive-25i-sport-2-0-2-0-flex-aut-2017-gasolina",
+      "fipeCodigo": "009216-9",
+      "displayName": "BMW X1 XDRIVE 25i Sport 2.0/2.0 Flex Aut.",
+      "valorAtual": 118819,
+      "canonicalPath": "/fipe/bmw/x1-xdrive-25i-sport-2-0-2-0-flex-aut-2017-009216-9/",
+      "ano": 2017,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-x1-xdrive-25i-sport-2-0-2-0-flex-aut-2018-gasolina",
+      "fipeCodigo": "009216-9",
+      "displayName": "BMW X1 XDRIVE 25i Sport 2.0/2.0 Flex Aut.",
+      "valorAtual": 129785,
+      "canonicalPath": "/fipe/bmw/x1-xdrive-25i-sport-2-0-2-0-flex-aut-2018-009216-9/",
+      "ano": 2018,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-x1-xdrive-25i-sport-2-0-2-0-flex-aut-2019-gasolina",
+      "fipeCodigo": "009216-9",
+      "displayName": "BMW X1 XDRIVE 25i Sport 2.0/2.0 Flex Aut.",
+      "valorAtual": 141020,
+      "canonicalPath": "/fipe/bmw/x1-xdrive-25i-sport-2-0-2-0-flex-aut-2019-009216-9/",
+      "ano": 2019,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-x1-xdrive-25i-sport-2-0-2-0-flex-aut-2020-gasolina",
+      "fipeCodigo": "009216-9",
+      "displayName": "BMW X1 XDRIVE 25i Sport 2.0/2.0 Flex Aut.",
+      "valorAtual": 167112,
+      "canonicalPath": "/fipe/bmw/x1-xdrive-25i-sport-2-0-2-0-flex-aut-2020-009216-9/",
+      "ano": 2020,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-x1-xdrive-25i-sport-2-0-2-0-flex-aut-2021-gasolina",
+      "fipeCodigo": "009216-9",
+      "displayName": "BMW X1 XDRIVE 25i Sport 2.0/2.0 Flex Aut.",
+      "valorAtual": 171290,
+      "canonicalPath": "/fipe/bmw/x1-xdrive-25i-sport-2-0-2-0-flex-aut-2021-009216-9/",
+      "ano": 2021,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-x1-xdrive-25i-sport-2-0-2-0-flex-aut-2022-gasolina",
+      "fipeCodigo": "009216-9",
+      "displayName": "BMW X1 XDRIVE 25i Sport 2.0/2.0 Flex Aut.",
+      "valorAtual": 178798,
+      "canonicalPath": "/fipe/bmw/x1-xdrive-25i-sport-2-0-2-0-flex-aut-2022-009216-9/",
+      "ano": 2022,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-x1-xdrive-28i-2-0-turbo-16v-4x4-aut-2012-gasolina",
+      "fipeCodigo": "009167-7",
+      "displayName": "BMW X1 XDRIVE 28i 2.0 Turbo 16V 4x4 Aut.",
+      "valorAtual": 74554,
+      "canonicalPath": "/fipe/bmw/x1-xdrive-28i-2-0-turbo-16v-4x4-aut-2012-009167-7/",
+      "ano": 2012,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-x1-xdrive-28i-2-0-turbo-16v-4x4-aut-2013-gasolina",
+      "fipeCodigo": "009167-7",
+      "displayName": "BMW X1 XDRIVE 28i 2.0 Turbo 16V 4x4 Aut.",
+      "valorAtual": 76418,
+      "canonicalPath": "/fipe/bmw/x1-xdrive-28i-2-0-turbo-16v-4x4-aut-2013-009167-7/",
+      "ano": 2013,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-x1-xdrive-28i-2-0-turbo-16v-4x4-aut-2014-gasolina",
+      "fipeCodigo": "009167-7",
+      "displayName": "BMW X1 XDRIVE 28i 2.0 Turbo 16V 4x4 Aut.",
+      "valorAtual": 78329,
+      "canonicalPath": "/fipe/bmw/x1-xdrive-28i-2-0-turbo-16v-4x4-aut-2014-009167-7/",
+      "ano": 2014,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-x1-xdrive-28i-3-0-24v-4x4-aut-2010-gasolina",
+      "fipeCodigo": "009142-1",
+      "displayName": "BMW X1 XDRIVE 28i 3.0 24V 4x4 Aut.",
+      "valorAtual": 66310,
+      "canonicalPath": "/fipe/bmw/x1-xdrive-28i-3-0-24v-4x4-aut-2010-009142-1/",
+      "ano": 2010,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-x1-xdrive-28i-3-0-24v-4x4-aut-2011-gasolina",
+      "fipeCodigo": "009142-1",
+      "displayName": "BMW X1 XDRIVE 28i 3.0 24V 4x4 Aut.",
+      "valorAtual": 67968,
+      "canonicalPath": "/fipe/bmw/x1-xdrive-28i-3-0-24v-4x4-aut-2011-009142-1/",
+      "ano": 2011,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-x1-xdrive-28i-3-0-24v-4x4-aut-2012-gasolina",
+      "fipeCodigo": "009142-1",
+      "displayName": "BMW X1 XDRIVE 28i 3.0 24V 4x4 Aut.",
+      "valorAtual": 70957,
+      "canonicalPath": "/fipe/bmw/x1-xdrive-28i-3-0-24v-4x4-aut-2012-009142-1/",
+      "ano": 2012,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-x1-xdrive-28i-sport-2-0-activeflex-aut-2015-flex",
+      "fipeCodigo": "009200-2",
+      "displayName": "BMW X1 XDRIVE 28i Sport 2.0 ActiveFlex Aut.",
+      "valorAtual": 84851,
+      "canonicalPath": "/fipe/bmw/x1-xdrive-28i-sport-2-0-activeflex-aut-2015-009200-2/",
+      "ano": 2015,
+      "marca": "BMW"
+    }
+  ],
+  "stats": {
+    "total": 54
+  },
+  "meta": {
+    "geracaoId": "x1-2"
+  }
+}

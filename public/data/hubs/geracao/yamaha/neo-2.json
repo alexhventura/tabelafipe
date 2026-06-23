@@ -1,0 +1,93 @@
+{
+  "tipo": "geracao",
+  "slug": "neo-2",
+  "canonicalPath": "/geracao/yamaha/neo-2/",
+  "titulo": "Geracao neo-2",
+  "descricao": "8 veiculos da geracao neo-2.",
+  "seo": {
+    "title": "Geracao neo-2 - Precos FIPE",
+    "description": "Veiculos da geracao neo-2 na Tabela FIPE.",
+    "h1": "Geracao neo-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/yamaha/neo-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "yamaha-neo-at-115cc-2005-gasolina",
+      "fipeCodigo": "827049-0",
+      "displayName": "YAMAHA NEO AT 115cc",
+      "valorAtual": 4540,
+      "canonicalPath": "/fipe/yamaha/neo-at-115cc-2005-827049-0/",
+      "ano": 2005,
+      "marca": "YAMAHA"
+    },
+    {
+      "vehicleId": "yamaha-neo-at-115cc-2006-gasolina",
+      "fipeCodigo": "827049-0",
+      "displayName": "YAMAHA NEO AT 115cc",
+      "valorAtual": 4976,
+      "canonicalPath": "/fipe/yamaha/neo-at-115cc-2006-827049-0/",
+      "ano": 2006,
+      "marca": "YAMAHA"
+    },
+    {
+      "vehicleId": "yamaha-neo-at-115cc-2007-gasolina",
+      "fipeCodigo": "827049-0",
+      "displayName": "YAMAHA NEO AT 115cc",
+      "valorAtual": 5538,
+      "canonicalPath": "/fipe/yamaha/neo-at-115cc-2007-827049-0/",
+      "ano": 2007,
+      "marca": "YAMAHA"
+    },
+    {
+      "vehicleId": "yamaha-neo-automatic-115cc-2008-gasolina",
+      "fipeCodigo": "827061-9",
+      "displayName": "YAMAHA NEO AUTOMATIC 115cc",
+      "valorAtual": 5352,
+      "canonicalPath": "/fipe/yamaha/neo-automatic-115cc-2008-827061-9/",
+      "ano": 2008,
+      "marca": "YAMAHA"
+    },
+    {
+      "vehicleId": "yamaha-neo-automatic-115cc-2009-gasolina",
+      "fipeCodigo": "827061-9",
+      "displayName": "YAMAHA NEO AUTOMATIC 115cc",
+      "valorAtual": 5839,
+      "canonicalPath": "/fipe/yamaha/neo-automatic-115cc-2009-827061-9/",
+      "ano": 2009,
+      "marca": "YAMAHA"
+    },
+    {
+      "vehicleId": "yamaha-neo-automatic-115cc-2010-gasolina",
+      "fipeCodigo": "827061-9",
+      "displayName": "YAMAHA NEO AUTOMATIC 115cc",
+      "valorAtual": 6419,
+      "canonicalPath": "/fipe/yamaha/neo-automatic-115cc-2010-827061-9/",
+      "ano": 2010,
+      "marca": "YAMAHA"
+    },
+    {
+      "vehicleId": "yamaha-neo-automatic-115cc-2011-gasolina",
+      "fipeCodigo": "827061-9",
+      "displayName": "YAMAHA NEO AUTOMATIC 115cc",
+      "valorAtual": 6580,
+      "canonicalPath": "/fipe/yamaha/neo-automatic-115cc-2011-827061-9/",
+      "ano": 2011,
+      "marca": "YAMAHA"
+    },
+    {
+      "vehicleId": "yamaha-neo-automatic-115cc-2012-gasolina",
+      "fipeCodigo": "827061-9",
+      "displayName": "YAMAHA NEO AUTOMATIC 115cc",
+      "valorAtual": 7239,
+      "canonicalPath": "/fipe/yamaha/neo-automatic-115cc-2012-827061-9/",
+      "ano": 2012,
+      "marca": "YAMAHA"
+    }
+  ],
+  "stats": {
+    "total": 8
+  },
+  "meta": {
+    "geracaoId": "neo-2"
+  }
+}

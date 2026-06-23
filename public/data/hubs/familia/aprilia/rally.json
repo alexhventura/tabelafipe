@@ -1,0 +1,62 @@
+{
+  "tipo": "familia",
+  "slug": "rally",
+  "canonicalPath": "/fipe/aprilia/rally/",
+  "titulo": "APRILIA rally - Tabela FIPE",
+  "descricao": "4 versoes e anos do APRILIA rally na Tabela FIPE.",
+  "seo": {
+    "title": "APRILIA rally - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes APRILIA rally. 4 veiculos indexados.",
+    "h1": "APRILIA rally - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/aprilia/rally/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "aprilia-rally-50cc-2001-gasolina",
+      "fipeCodigo": "802006-0",
+      "displayName": "APRILIA RALLY 50cc",
+      "valorAtual": 3503,
+      "canonicalPath": "/fipe/aprilia/rally-50cc-2001-802006-0/",
+      "ano": 2001,
+      "marca": "APRILIA"
+    },
+    {
+      "vehicleId": "aprilia-rally-50cc-2000-gasolina",
+      "fipeCodigo": "802006-0",
+      "displayName": "APRILIA RALLY 50cc",
+      "valorAtual": 2980,
+      "canonicalPath": "/fipe/aprilia/rally-50cc-2000-802006-0/",
+      "ano": 2000,
+      "marca": "APRILIA"
+    },
+    {
+      "vehicleId": "aprilia-rally-50cc-1999-gasolina",
+      "fipeCodigo": "802006-0",
+      "displayName": "APRILIA RALLY 50cc",
+      "valorAtual": 2809,
+      "canonicalPath": "/fipe/aprilia/rally-50cc-1999-802006-0/",
+      "ano": 1999,
+      "marca": "APRILIA"
+    },
+    {
+      "vehicleId": "aprilia-rally-50cc-1998-gasolina",
+      "fipeCodigo": "802006-0",
+      "displayName": "APRILIA RALLY 50cc",
+      "valorAtual": 2491,
+      "canonicalPath": "/fipe/aprilia/rally-50cc-1998-802006-0/",
+      "ano": 1998,
+      "marca": "APRILIA"
+    }
+  ],
+  "stats": {
+    "total": 4,
+    "precoMin": 2491,
+    "precoMax": 3503,
+    "anos": [
+      2001,
+      2000,
+      1999,
+      1998
+    ]
+  }
+}

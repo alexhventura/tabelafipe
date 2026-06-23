@@ -1,0 +1,48 @@
+{
+  "tipo": "geracao",
+  "slug": "vthunder-1",
+  "canonicalPath": "/geracao/vento/vthunder-1/",
+  "titulo": "Geracao vthunder-1",
+  "descricao": "3 veiculos da geracao vthunder-1.",
+  "seo": {
+    "title": "Geracao vthunder-1 - Precos FIPE",
+    "description": "Veiculos da geracao vthunder-1 na Tabela FIPE.",
+    "h1": "Geracao vthunder-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/vento/vthunder-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "vento-vthunder-250-2011-gasolina",
+      "fipeCodigo": "877003-4",
+      "displayName": "VENTO VTHUNDER 250",
+      "valorAtual": 8708,
+      "canonicalPath": "/fipe/vento/vthunder-250-2011-877003-4/",
+      "ano": 2011,
+      "marca": "VENTO"
+    },
+    {
+      "vehicleId": "vento-vthunder-250-2012-gasolina",
+      "fipeCodigo": "877003-4",
+      "displayName": "VENTO VTHUNDER 250",
+      "valorAtual": 8966,
+      "canonicalPath": "/fipe/vento/vthunder-250-2012-877003-4/",
+      "ano": 2012,
+      "marca": "VENTO"
+    },
+    {
+      "vehicleId": "vento-vthunder-250-2013-gasolina",
+      "fipeCodigo": "877003-4",
+      "displayName": "VENTO VTHUNDER 250",
+      "valorAtual": 9323,
+      "canonicalPath": "/fipe/vento/vthunder-250-2013-877003-4/",
+      "ano": 2013,
+      "marca": "VENTO"
+    }
+  ],
+  "stats": {
+    "total": 3
+  },
+  "meta": {
+    "geracaoId": "vthunder-1"
+  }
+}

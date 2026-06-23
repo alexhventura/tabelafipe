@@ -1,0 +1,72 @@
+{
+  "tipo": "familia",
+  "slug": "m235i",
+  "canonicalPath": "/fipe/bmw/m235i/",
+  "titulo": "BMW m235i - Tabela FIPE",
+  "descricao": "5 versoes e anos do BMW m235i na Tabela FIPE.",
+  "seo": {
+    "title": "BMW m235i - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes BMW m235i. 5 veiculos indexados.",
+    "h1": "BMW m235i - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/bmw/m235i/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "bmw-m235i-xdrive-gran-coupe-2-0-aut-2026-gasolina",
+      "fipeCodigo": "009270-3",
+      "displayName": "BMW M235i XDRIVE Gran Coupé 2.0 Aut.",
+      "valorAtual": 419879,
+      "canonicalPath": "/fipe/bmw/m235i-xdrive-gran-coupe-2-0-aut-2026-009270-3/",
+      "ano": 2026,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-m235i-xdrive-gran-coupe-2-0-aut-2022-gasolina",
+      "fipeCodigo": "009270-3",
+      "displayName": "BMW M235i XDRIVE Gran Coupé 2.0 Aut.",
+      "valorAtual": 258862,
+      "canonicalPath": "/fipe/bmw/m235i-xdrive-gran-coupe-2-0-aut-2022-009270-3/",
+      "ano": 2022,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-m235i-xdrive-gran-coupe-2-0-aut-2021-gasolina",
+      "fipeCodigo": "009270-3",
+      "displayName": "BMW M235i XDRIVE Gran Coupé 2.0 Aut.",
+      "valorAtual": 250168,
+      "canonicalPath": "/fipe/bmw/m235i-xdrive-gran-coupe-2-0-aut-2021-009270-3/",
+      "ano": 2021,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-m235i-xdrive-gran-coupe-2-0-aut-2020-gasolina",
+      "fipeCodigo": "009270-3",
+      "displayName": "BMW M235i XDRIVE Gran Coupé 2.0 Aut.",
+      "valorAtual": 237772,
+      "canonicalPath": "/fipe/bmw/m235i-xdrive-gran-coupe-2-0-aut-2020-009270-3/",
+      "ano": 2020,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-m235i-xdrive-gran-coupe-2-0-aut-0-gasolina",
+      "fipeCodigo": "009270-3",
+      "displayName": "BMW M235i XDRIVE Gran Coupé 2.0 Aut.",
+      "valorAtual": 488287,
+      "canonicalPath": "/fipe/bmw/m235i-xdrive-gran-coupe-2-0-aut-0-009270-3/",
+      "ano": 0,
+      "marca": "BMW"
+    }
+  ],
+  "stats": {
+    "total": 5,
+    "precoMin": 237772,
+    "precoMax": 488287,
+    "anos": [
+      2026,
+      2022,
+      2021,
+      2020,
+      0
+    ]
+  }
+}

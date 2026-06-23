@@ -1,0 +1,41 @@
+{
+  "tipo": "familia",
+  "slug": "ax",
+  "canonicalPath": "/fipe/orca/ax/",
+  "titulo": "ORCA ax - Tabela FIPE",
+  "descricao": "2 versoes e anos do ORCA ax na Tabela FIPE.",
+  "seo": {
+    "title": "ORCA ax - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes ORCA ax. 2 veiculos indexados.",
+    "h1": "ORCA ax - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/orca/ax/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "orca-ax-100-1998-gasolina",
+      "fipeCodigo": "820002-5",
+      "displayName": "ORCA AX 100",
+      "valorAtual": 1110,
+      "canonicalPath": "/fipe/orca/ax-100-1998-820002-5/",
+      "ano": 1998,
+      "marca": "ORCA"
+    },
+    {
+      "vehicleId": "orca-ax-100-a-1998-gasolina",
+      "fipeCodigo": "820001-7",
+      "displayName": "ORCA AX 100-A",
+      "valorAtual": 1212,
+      "canonicalPath": "/fipe/orca/ax-100-a-1998-820001-7/",
+      "ano": 1998,
+      "marca": "ORCA"
+    }
+  ],
+  "stats": {
+    "total": 2,
+    "precoMin": 1110,
+    "precoMax": 1212,
+    "anos": [
+      1998
+    ]
+  }
+}

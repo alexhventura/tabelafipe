@@ -1,0 +1,72 @@
+{
+  "tipo": "familia",
+  "slug": "650i",
+  "canonicalPath": "/fipe/bmw/650i/",
+  "titulo": "BMW 650i - Tabela FIPE",
+  "descricao": "5 versoes e anos do BMW 650i na Tabela FIPE.",
+  "seo": {
+    "title": "BMW 650i - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes BMW 650i. 5 veiculos indexados.",
+    "h1": "BMW 650i - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/bmw/650i/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "bmw-650i-gran-coupe-4-4-v8-450cv-4p-2016-gasolina",
+      "fipeCodigo": "009188-0",
+      "displayName": "BMW 650i Gran Coupe 4.4 V8 450cv 4p",
+      "valorAtual": 371781,
+      "canonicalPath": "/fipe/bmw/650i-gran-coupe-4-4-v8-450cv-4p-2016-009188-0/",
+      "ano": 2016,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-650i-gran-coupe-4-4-v8-450cv-4p-2015-gasolina",
+      "fipeCodigo": "009188-0",
+      "displayName": "BMW 650i Gran Coupe 4.4 V8 450cv 4p",
+      "valorAtual": 271640,
+      "canonicalPath": "/fipe/bmw/650i-gran-coupe-4-4-v8-450cv-4p-2015-009188-0/",
+      "ano": 2015,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-650i-gran-coupe-4-4-v8-450cv-4p-2014-gasolina",
+      "fipeCodigo": "009188-0",
+      "displayName": "BMW 650i Gran Coupe 4.4 V8 450cv 4p",
+      "valorAtual": 242793,
+      "canonicalPath": "/fipe/bmw/650i-gran-coupe-4-4-v8-450cv-4p-2014-009188-0/",
+      "ano": 2014,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-650i-gran-coupe-4-4-v8-450cv-4p-2013-gasolina",
+      "fipeCodigo": "009188-0",
+      "displayName": "BMW 650i Gran Coupe 4.4 V8 450cv 4p",
+      "valorAtual": 236871,
+      "canonicalPath": "/fipe/bmw/650i-gran-coupe-4-4-v8-450cv-4p-2013-009188-0/",
+      "ano": 2013,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-650i-gran-coupe-4-4-v8-450cv-4p-2012-gasolina",
+      "fipeCodigo": "009188-0",
+      "displayName": "BMW 650i Gran Coupe 4.4 V8 450cv 4p",
+      "valorAtual": 226778,
+      "canonicalPath": "/fipe/bmw/650i-gran-coupe-4-4-v8-450cv-4p-2012-009188-0/",
+      "ano": 2012,
+      "marca": "BMW"
+    }
+  ],
+  "stats": {
+    "total": 5,
+    "precoMin": 226778,
+    "precoMax": 371781,
+    "anos": [
+      2016,
+      2015,
+      2014,
+      2013,
+      2012
+    ]
+  }
+}

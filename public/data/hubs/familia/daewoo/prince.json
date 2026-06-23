@@ -1,0 +1,42 @@
+{
+  "tipo": "familia",
+  "slug": "prince",
+  "canonicalPath": "/fipe/daewoo/prince/",
+  "titulo": "Daewoo prince - Tabela FIPE",
+  "descricao": "2 versoes e anos do Daewoo prince na Tabela FIPE.",
+  "seo": {
+    "title": "Daewoo prince - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes Daewoo prince. 2 veiculos indexados.",
+    "h1": "Daewoo prince - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/daewoo/prince/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "daewoo-prince-ace-2-0-1995-gasolina",
+      "fipeCodigo": "030002-0",
+      "displayName": "Daewoo Prince Ace 2.0",
+      "valorAtual": 5243,
+      "canonicalPath": "/fipe/daewoo/prince-ace-2-0-1995-030002-0/",
+      "ano": 1995,
+      "marca": "Daewoo"
+    },
+    {
+      "vehicleId": "daewoo-prince-ace-2-0-1994-gasolina",
+      "fipeCodigo": "030002-0",
+      "displayName": "Daewoo Prince Ace 2.0",
+      "valorAtual": 4920,
+      "canonicalPath": "/fipe/daewoo/prince-ace-2-0-1994-030002-0/",
+      "ano": 1994,
+      "marca": "Daewoo"
+    }
+  ],
+  "stats": {
+    "total": 2,
+    "precoMin": 4920,
+    "precoMax": 5243,
+    "anos": [
+      1995,
+      1994
+    ]
+  }
+}

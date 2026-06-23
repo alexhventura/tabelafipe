@@ -1,0 +1,57 @@
+{
+  "tipo": "geracao",
+  "slug": "996-1",
+  "canonicalPath": "/geracao/ducati/996-1/",
+  "titulo": "Geracao 996-1",
+  "descricao": "4 veiculos da geracao 996-1.",
+  "seo": {
+    "title": "Geracao 996-1 - Precos FIPE",
+    "description": "Veiculos da geracao 996-1 na Tabela FIPE.",
+    "h1": "Geracao 996-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/ducati/996-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "ducati-996-1999-gasolina",
+      "fipeCodigo": "808002-0",
+      "displayName": "DUCATI 996",
+      "valorAtual": 27599,
+      "canonicalPath": "/fipe/ducati/996-1999-808002-0/",
+      "ano": 1999,
+      "marca": "DUCATI"
+    },
+    {
+      "vehicleId": "ducati-996-2000-gasolina",
+      "fipeCodigo": "808002-0",
+      "displayName": "DUCATI 996",
+      "valorAtual": 32722,
+      "canonicalPath": "/fipe/ducati/996-2000-808002-0/",
+      "ano": 2000,
+      "marca": "DUCATI"
+    },
+    {
+      "vehicleId": "ducati-996-2001-gasolina",
+      "fipeCodigo": "808002-0",
+      "displayName": "DUCATI 996",
+      "valorAtual": 34138,
+      "canonicalPath": "/fipe/ducati/996-2001-808002-0/",
+      "ano": 2001,
+      "marca": "DUCATI"
+    },
+    {
+      "vehicleId": "ducati-996-s-2001-gasolina",
+      "fipeCodigo": "808008-9",
+      "displayName": "DUCATI 996 S",
+      "valorAtual": 34348,
+      "canonicalPath": "/fipe/ducati/996-s-2001-808008-9/",
+      "ano": 2001,
+      "marca": "DUCATI"
+    }
+  ],
+  "stats": {
+    "total": 4
+  },
+  "meta": {
+    "geracaoId": "996-1"
+  }
+}

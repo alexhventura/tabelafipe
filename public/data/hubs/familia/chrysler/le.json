@@ -1,0 +1,80 @@
+{
+  "tipo": "familia",
+  "slug": "le",
+  "canonicalPath": "/fipe/chrysler/le/",
+  "titulo": "Chrysler le - Tabela FIPE",
+  "descricao": "6 versoes e anos do Chrysler le na Tabela FIPE.",
+  "seo": {
+    "title": "Chrysler le - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes Chrysler le. 6 veiculos indexados.",
+    "h1": "Chrysler le - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/chrysler/le/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "chrysler-le-baron-3-0-v6-conv-1995-gasolina",
+      "fipeCodigo": "010018-8",
+      "displayName": "Chrysler LE Baron 3.0 V6 Conv.",
+      "valorAtual": 18667,
+      "canonicalPath": "/fipe/chrysler/le-baron-3-0-v6-conv-1995-010018-8/",
+      "ano": 1995,
+      "marca": "Chrysler"
+    },
+    {
+      "vehicleId": "chrysler-le-baron-3-0-v6-conv-1994-gasolina",
+      "fipeCodigo": "010018-8",
+      "displayName": "Chrysler LE Baron 3.0 V6 Conv.",
+      "valorAtual": 18211,
+      "canonicalPath": "/fipe/chrysler/le-baron-3-0-v6-conv-1994-010018-8/",
+      "ano": 1994,
+      "marca": "Chrysler"
+    },
+    {
+      "vehicleId": "chrysler-le-baron-3-0-v6-1993-gasolina",
+      "fipeCodigo": "010017-0",
+      "displayName": "Chrysler LE Baron 3.0 V6",
+      "valorAtual": 12641,
+      "canonicalPath": "/fipe/chrysler/le-baron-3-0-v6-1993-010017-0/",
+      "ano": 1993,
+      "marca": "Chrysler"
+    },
+    {
+      "vehicleId": "chrysler-le-baron-3-0-v6-conv-1993-gasolina",
+      "fipeCodigo": "010018-8",
+      "displayName": "Chrysler LE Baron 3.0 V6 Conv.",
+      "valorAtual": 14095,
+      "canonicalPath": "/fipe/chrysler/le-baron-3-0-v6-conv-1993-010018-8/",
+      "ano": 1993,
+      "marca": "Chrysler"
+    },
+    {
+      "vehicleId": "chrysler-le-baron-3-0-v6-1992-gasolina",
+      "fipeCodigo": "010017-0",
+      "displayName": "Chrysler LE Baron 3.0 V6",
+      "valorAtual": 12332,
+      "canonicalPath": "/fipe/chrysler/le-baron-3-0-v6-1992-010017-0/",
+      "ano": 1992,
+      "marca": "Chrysler"
+    },
+    {
+      "vehicleId": "chrysler-le-baron-3-0-v6-conv-1992-gasolina",
+      "fipeCodigo": "010018-8",
+      "displayName": "Chrysler LE Baron 3.0 V6 Conv.",
+      "valorAtual": 12435,
+      "canonicalPath": "/fipe/chrysler/le-baron-3-0-v6-conv-1992-010018-8/",
+      "ano": 1992,
+      "marca": "Chrysler"
+    }
+  ],
+  "stats": {
+    "total": 6,
+    "precoMin": 12332,
+    "precoMax": 18667,
+    "anos": [
+      1995,
+      1994,
+      1993,
+      1992
+    ]
+  }
+}

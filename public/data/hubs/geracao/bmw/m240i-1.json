@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "m240i-1",
+  "canonicalPath": "/geracao/bmw/m240i-1/",
+  "titulo": "Geracao m240i-1",
+  "descricao": "2 veiculos da geracao m240i-1.",
+  "seo": {
+    "title": "Geracao m240i-1 - Precos FIPE",
+    "description": "Veiculos da geracao m240i-1 na Tabela FIPE.",
+    "h1": "Geracao m240i-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/bmw/m240i-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "bmw-m240i-coupe-3-0-24v-340cv-2p-2017-gasolina",
+      "fipeCodigo": "009223-1",
+      "displayName": "BMW M240i Coupe 3.0 24V 340cv 2p",
+      "valorAtual": 280978,
+      "canonicalPath": "/fipe/bmw/m240i-coupe-3-0-24v-340cv-2p-2017-009223-1/",
+      "ano": 2017,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-m240i-coupe-3-0-24v-340cv-2p-2018-gasolina",
+      "fipeCodigo": "009223-1",
+      "displayName": "BMW M240i Coupe 3.0 24V 340cv 2p",
+      "valorAtual": 301443,
+      "canonicalPath": "/fipe/bmw/m240i-coupe-3-0-24v-340cv-2p-2018-009223-1/",
+      "ano": 2018,
+      "marca": "BMW"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "m240i-1"
+  }
+}

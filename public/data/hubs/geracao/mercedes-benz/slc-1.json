@@ -1,0 +1,75 @@
+{
+  "tipo": "geracao",
+  "slug": "slc-1",
+  "canonicalPath": "/geracao/mercedes-benz/slc-1/",
+  "titulo": "Geracao slc-1",
+  "descricao": "6 veiculos da geracao slc-1.",
+  "seo": {
+    "title": "Geracao slc-1 - Precos FIPE",
+    "description": "Veiculos da geracao slc-1 na Tabela FIPE.",
+    "h1": "Geracao slc-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/mercedes-benz/slc-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "mercedes-benz-slc-300-2-0-turbo-245cv-aut-2017-gasolina",
+      "fipeCodigo": "021351-9",
+      "displayName": "Mercedes-Benz SLC-300 2.0 Turbo 245cv Aut.",
+      "valorAtual": 264797,
+      "canonicalPath": "/fipe/mercedes-benz/slc-300-2-0-turbo-245cv-aut-2017-021351-9/",
+      "ano": 2017,
+      "marca": "Mercedes-Benz"
+    },
+    {
+      "vehicleId": "mercedes-benz-slc-300-2-0-turbo-245cv-aut-2018-gasolina",
+      "fipeCodigo": "021351-9",
+      "displayName": "Mercedes-Benz SLC-300 2.0 Turbo 245cv Aut.",
+      "valorAtual": 311224,
+      "canonicalPath": "/fipe/mercedes-benz/slc-300-2-0-turbo-245cv-aut-2018-021351-9/",
+      "ano": 2018,
+      "marca": "Mercedes-Benz"
+    },
+    {
+      "vehicleId": "mercedes-benz-slc-300-2-0-turbo-245cv-aut-2019-gasolina",
+      "fipeCodigo": "021351-9",
+      "displayName": "Mercedes-Benz SLC-300 2.0 Turbo 245cv Aut.",
+      "valorAtual": 322209,
+      "canonicalPath": "/fipe/mercedes-benz/slc-300-2-0-turbo-245cv-aut-2019-021351-9/",
+      "ano": 2019,
+      "marca": "Mercedes-Benz"
+    },
+    {
+      "vehicleId": "mercedes-benz-slc-300-2-0-turbo-245cv-aut-2020-gasolina",
+      "fipeCodigo": "021351-9",
+      "displayName": "Mercedes-Benz SLC-300 2.0 Turbo 245cv Aut.",
+      "valorAtual": 377330,
+      "canonicalPath": "/fipe/mercedes-benz/slc-300-2-0-turbo-245cv-aut-2020-021351-9/",
+      "ano": 2020,
+      "marca": "Mercedes-Benz"
+    },
+    {
+      "vehicleId": "mercedes-benz-slc-43-amg-3-0-v6-aut-2017-gasolina",
+      "fipeCodigo": "021355-1",
+      "displayName": "Mercedes-Benz SLC-43 AMG 3.0 V6 Aut.",
+      "valorAtual": 377060,
+      "canonicalPath": "/fipe/mercedes-benz/slc-43-amg-3-0-v6-aut-2017-021355-1/",
+      "ano": 2017,
+      "marca": "Mercedes-Benz"
+    },
+    {
+      "vehicleId": "mercedes-benz-slc-43-amg-3-0-v6-aut-2018-gasolina",
+      "fipeCodigo": "021355-1",
+      "displayName": "Mercedes-Benz SLC-43 AMG 3.0 V6 Aut.",
+      "valorAtual": 386487,
+      "canonicalPath": "/fipe/mercedes-benz/slc-43-amg-3-0-v6-aut-2018-021355-1/",
+      "ano": 2018,
+      "marca": "Mercedes-Benz"
+    }
+  ],
+  "stats": {
+    "total": 6
+  },
+  "meta": {
+    "geracaoId": "slc-1"
+  }
+}

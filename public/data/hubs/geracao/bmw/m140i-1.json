@@ -1,0 +1,48 @@
+{
+  "tipo": "geracao",
+  "slug": "m140i-1",
+  "canonicalPath": "/geracao/bmw/m140i-1/",
+  "titulo": "Geracao m140i-1",
+  "descricao": "3 veiculos da geracao m140i-1.",
+  "seo": {
+    "title": "Geracao m140i-1 - Precos FIPE",
+    "description": "Veiculos da geracao m140i-1 na Tabela FIPE.",
+    "h1": "Geracao m140i-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/bmw/m140i-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "bmw-m140i-3-0-24v-340cv-5p-2017-gasolina",
+      "fipeCodigo": "009222-3",
+      "displayName": "BMW M140i 3.0  24V 340cv 5p",
+      "valorAtual": 246500,
+      "canonicalPath": "/fipe/bmw/m140i-3-0-24v-340cv-5p-2017-009222-3/",
+      "ano": 2017,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-m140i-3-0-24v-340cv-5p-2018-gasolina",
+      "fipeCodigo": "009222-3",
+      "displayName": "BMW M140i 3.0  24V 340cv 5p",
+      "valorAtual": 252663,
+      "canonicalPath": "/fipe/bmw/m140i-3-0-24v-340cv-5p-2018-009222-3/",
+      "ano": 2018,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-m140i-3-0-24v-340cv-5p-2019-gasolina",
+      "fipeCodigo": "009222-3",
+      "displayName": "BMW M140i 3.0  24V 340cv 5p",
+      "valorAtual": 291285,
+      "canonicalPath": "/fipe/bmw/m140i-3-0-24v-340cv-5p-2019-009222-3/",
+      "ano": 2019,
+      "marca": "BMW"
+    }
+  ],
+  "stats": {
+    "total": 3
+  },
+  "meta": {
+    "geracaoId": "m140i-1"
+  }
+}

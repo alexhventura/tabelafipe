@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "jetta-2",
+  "canonicalPath": "/geracao/volkswagen/jetta-2/",
+  "titulo": "Geracao jetta-2",
+  "descricao": "2 veiculos da geracao jetta-2.",
+  "seo": {
+    "title": "Geracao jetta-2 - Precos FIPE",
+    "description": "Veiculos da geracao jetta-2 na Tabela FIPE.",
+    "h1": "Geracao jetta-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/volkswagen/jetta-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "volkswagen-jetta-glx-iii-2-8-vr6-1994-gasolina",
+      "fipeCodigo": "005121-7",
+      "displayName": "VW - VolksWagen JETTA  GLX III 2.8 VR6",
+      "valorAtual": 7028,
+      "canonicalPath": "/fipe/volkswagen/jetta-glx-iii-2-8-vr6-1994-005121-7/",
+      "ano": 1994,
+      "marca": "VW - VolksWagen"
+    },
+    {
+      "vehicleId": "volkswagen-jetta-glx-iii-2-8-vr6-1995-gasolina",
+      "fipeCodigo": "005121-7",
+      "displayName": "VW - VolksWagen JETTA  GLX III 2.8 VR6",
+      "valorAtual": 7999,
+      "canonicalPath": "/fipe/volkswagen/jetta-glx-iii-2-8-vr6-1995-005121-7/",
+      "ano": 1995,
+      "marca": "VW - VolksWagen"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "jetta-2"
+  }
+}

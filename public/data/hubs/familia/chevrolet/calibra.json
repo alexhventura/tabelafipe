@@ -1,0 +1,52 @@
+{
+  "tipo": "familia",
+  "slug": "calibra",
+  "canonicalPath": "/fipe/chevrolet/calibra/",
+  "titulo": "GM - Chevrolet calibra - Tabela FIPE",
+  "descricao": "3 versoes e anos do GM - Chevrolet calibra na Tabela FIPE.",
+  "seo": {
+    "title": "GM - Chevrolet calibra - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes GM - Chevrolet calibra. 3 veiculos indexados.",
+    "h1": "GM - Chevrolet calibra - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/chevrolet/calibra/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "chevrolet-calibra-16v-1996-gasolina",
+      "fipeCodigo": "004074-6",
+      "displayName": "GM - Chevrolet Calibra 16V",
+      "valorAtual": 35532,
+      "canonicalPath": "/fipe/chevrolet/calibra-16v-1996-004074-6/",
+      "ano": 1996,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-calibra-16v-1995-gasolina",
+      "fipeCodigo": "004074-6",
+      "displayName": "GM - Chevrolet Calibra 16V",
+      "valorAtual": 34665,
+      "canonicalPath": "/fipe/chevrolet/calibra-16v-1995-004074-6/",
+      "ano": 1995,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-calibra-16v-1994-gasolina",
+      "fipeCodigo": "004074-6",
+      "displayName": "GM - Chevrolet Calibra 16V",
+      "valorAtual": 33819,
+      "canonicalPath": "/fipe/chevrolet/calibra-16v-1994-004074-6/",
+      "ano": 1994,
+      "marca": "GM - Chevrolet"
+    }
+  ],
+  "stats": {
+    "total": 3,
+    "precoMin": 33819,
+    "precoMax": 35532,
+    "anos": [
+      1996,
+      1995,
+      1994
+    ]
+  }
+}

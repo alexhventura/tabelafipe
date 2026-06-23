@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "seal-2",
+  "canonicalPath": "/geracao/byd/seal-2/",
+  "titulo": "Geracao seal-2",
+  "descricao": "2 veiculos da geracao seal-2.",
+  "seo": {
+    "title": "Geracao seal-2 - Precos FIPE",
+    "description": "Veiculos da geracao seal-2 na Tabela FIPE.",
+    "h1": "Geracao seal-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/byd/seal-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "byd-seal-eletrico-2024-eletrico",
+      "fipeCodigo": "095008-4",
+      "displayName": "BYD Seal (Elétrico)",
+      "valorAtual": 204964,
+      "canonicalPath": "/fipe/byd/seal-eletrico-2024-095008-4/",
+      "ano": 2024,
+      "marca": "BYD"
+    },
+    {
+      "vehicleId": "byd-seal-eletrico-2025-eletrico",
+      "fipeCodigo": "095008-4",
+      "displayName": "BYD Seal (Elétrico)",
+      "valorAtual": 214903,
+      "canonicalPath": "/fipe/byd/seal-eletrico-2025-095008-4/",
+      "ano": 2025,
+      "marca": "BYD"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "seal-2"
+  }
+}

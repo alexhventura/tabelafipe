@@ -1,0 +1,57 @@
+{
+  "tipo": "geracao",
+  "slug": "song-1",
+  "canonicalPath": "/geracao/byd/song-1/",
+  "titulo": "Geracao song-1",
+  "descricao": "4 veiculos da geracao song-1.",
+  "seo": {
+    "title": "Geracao song-1 - Precos FIPE",
+    "description": "Veiculos da geracao song-1 na Tabela FIPE.",
+    "h1": "Geracao song-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/byd/song-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "byd-song-plus-1-5-16v-aut-hibrido-0-hibrido",
+      "fipeCodigo": "095005-0",
+      "displayName": "BYD Song Plus 1.5 16V Aut. (Hibrido)",
+      "valorAtual": 248574,
+      "canonicalPath": "/fipe/byd/song-plus-1-5-16v-aut-hibrido-0-095005-0/",
+      "ano": 0,
+      "marca": "BYD"
+    },
+    {
+      "vehicleId": "byd-song-plus-premium-1-5-16v-aut-hibrido-0-hibrido",
+      "fipeCodigo": "095017-3",
+      "displayName": "BYD Song Plus Premium 1.5 16V Aut. (Hibrido)",
+      "valorAtual": 298300,
+      "canonicalPath": "/fipe/byd/song-plus-premium-1-5-16v-aut-hibrido-0-095017-3/",
+      "ano": 0,
+      "marca": "BYD"
+    },
+    {
+      "vehicleId": "byd-song-pro-gl-1-5-16v-aut-hibrido-0-hibrido",
+      "fipeCodigo": "095013-0",
+      "displayName": "BYD Song Pro GL 1.5 16V Aut. (Hibrido)",
+      "valorAtual": 189633,
+      "canonicalPath": "/fipe/byd/song-pro-gl-1-5-16v-aut-hibrido-0-095013-0/",
+      "ano": 0,
+      "marca": "BYD"
+    },
+    {
+      "vehicleId": "byd-song-pro-gs-1-5-16v-aut-hibrido-0-hibrido",
+      "fipeCodigo": "095014-9",
+      "displayName": "BYD Song Pro GS 1.5 16V Aut. (Hibrido)",
+      "valorAtual": 199990,
+      "canonicalPath": "/fipe/byd/song-pro-gs-1-5-16v-aut-hibrido-0-095014-9/",
+      "ano": 0,
+      "marca": "BYD"
+    }
+  ],
+  "stats": {
+    "total": 4
+  },
+  "meta": {
+    "geracaoId": "song-1"
+  }
+}

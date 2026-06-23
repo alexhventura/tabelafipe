@@ -1,0 +1,42 @@
+{
+  "tipo": "familia",
+  "slug": "e",
+  "canonicalPath": "/fipe/fiat/e/",
+  "titulo": "Fiat e - Tabela FIPE",
+  "descricao": "2 versoes e anos do Fiat e na Tabela FIPE.",
+  "seo": {
+    "title": "Fiat e - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes Fiat e. 2 veiculos indexados.",
+    "h1": "Fiat e - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/fiat/e/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "fiat-e-scudo-eletrico-2023-eletrico",
+      "fipeCodigo": "001560-1",
+      "displayName": "Fiat E-Scudo (Elétrico)",
+      "valorAtual": 195296,
+      "canonicalPath": "/fipe/fiat/e-scudo-eletrico-2023-001560-1/",
+      "ano": 2023,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-e-scudo-eletrico-0-eletrico",
+      "fipeCodigo": "001560-1",
+      "displayName": "Fiat E-Scudo (Elétrico)",
+      "valorAtual": 313692,
+      "canonicalPath": "/fipe/fiat/e-scudo-eletrico-0-001560-1/",
+      "ano": 0,
+      "marca": "Fiat"
+    }
+  ],
+  "stats": {
+    "total": 2,
+    "precoMin": 195296,
+    "precoMax": 313692,
+    "anos": [
+      2023,
+      0
+    ]
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "tipo": "geracao",
+  "slug": "eko-2",
+  "canonicalPath": "/geracao/bull/eko-2/",
+  "titulo": "Geracao eko-2",
+  "descricao": "5 veiculos da geracao eko-2.",
+  "seo": {
+    "title": "Geracao eko-2 - Precos FIPE",
+    "description": "Veiculos da geracao eko-2 na Tabela FIPE.",
+    "h1": "Geracao eko-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/bull/eko-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "bull-eko-city-1200w-eletrica-2022-eletrico",
+      "fipeCodigo": "888005-0",
+      "displayName": "BULL Eko City 1200W (Elétrica)",
+      "valorAtual": 10633,
+      "canonicalPath": "/fipe/bull/eko-city-1200w-eletrica-2022-888005-0/",
+      "ano": 2022,
+      "marca": "BULL"
+    },
+    {
+      "vehicleId": "bull-eko-hunter-2000w-eletrica-2021-eletrico",
+      "fipeCodigo": "888008-5",
+      "displayName": "BULL Eko Hunter 2000W (Elétrica)",
+      "valorAtual": 9128,
+      "canonicalPath": "/fipe/bull/eko-hunter-2000w-eletrica-2021-888008-5/",
+      "ano": 2021,
+      "marca": "BULL"
+    },
+    {
+      "vehicleId": "bull-eko-hunter-2000w-eletrica-2022-eletrico",
+      "fipeCodigo": "888008-5",
+      "displayName": "BULL Eko Hunter 2000W (Elétrica)",
+      "valorAtual": 11151,
+      "canonicalPath": "/fipe/bull/eko-hunter-2000w-eletrica-2022-888008-5/",
+      "ano": 2022,
+      "marca": "BULL"
+    },
+    {
+      "vehicleId": "bull-eko-sport-1200w-eletrica-2021-eletrico",
+      "fipeCodigo": "888014-0",
+      "displayName": "BULL Eko Sport 1200W (Elétrica)",
+      "valorAtual": 11415,
+      "canonicalPath": "/fipe/bull/eko-sport-1200w-eletrica-2021-888014-0/",
+      "ano": 2021,
+      "marca": "BULL"
+    },
+    {
+      "vehicleId": "bull-eko-sport-1200w-eletrica-2022-eletrico",
+      "fipeCodigo": "888014-0",
+      "displayName": "BULL Eko Sport 1200W (Elétrica)",
+      "valorAtual": 12676,
+      "canonicalPath": "/fipe/bull/eko-sport-1200w-eletrica-2022-888014-0/",
+      "ano": 2022,
+      "marca": "BULL"
+    }
+  ],
+  "stats": {
+    "total": 5
+  },
+  "meta": {
+    "geracaoId": "eko-2"
+  }
+}

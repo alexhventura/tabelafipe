@@ -1,0 +1,57 @@
+{
+  "tipo": "geracao",
+  "slug": "retro-1",
+  "canonicalPath": "/geracao/shineray/retro-1/",
+  "titulo": "Geracao retro-1",
+  "descricao": "4 veiculos da geracao retro-1.",
+  "seo": {
+    "title": "Geracao retro-1 - Precos FIPE",
+    "description": "Veiculos da geracao retro-1 na Tabela FIPE.",
+    "h1": "Geracao retro-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/shineray/retro-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "shineray-retro-ex-50-2017-gasolina",
+      "fipeCodigo": "850024-0",
+      "displayName": "SHINERAY RETRO EX 50",
+      "valorAtual": 4392,
+      "canonicalPath": "/fipe/shineray/retro-ex-50-2017-850024-0/",
+      "ano": 2017,
+      "marca": "SHINERAY"
+    },
+    {
+      "vehicleId": "shineray-retro-ex-50-2018-gasolina",
+      "fipeCodigo": "850024-0",
+      "displayName": "SHINERAY RETRO EX 50",
+      "valorAtual": 4952,
+      "canonicalPath": "/fipe/shineray/retro-ex-50-2018-850024-0/",
+      "ano": 2018,
+      "marca": "SHINERAY"
+    },
+    {
+      "vehicleId": "shineray-retro-ex-50-2019-gasolina",
+      "fipeCodigo": "850024-0",
+      "displayName": "SHINERAY RETRO EX 50",
+      "valorAtual": 5220,
+      "canonicalPath": "/fipe/shineray/retro-ex-50-2019-850024-0/",
+      "ano": 2019,
+      "marca": "SHINERAY"
+    },
+    {
+      "vehicleId": "shineray-retro-ex-50-2020-gasolina",
+      "fipeCodigo": "850024-0",
+      "displayName": "SHINERAY RETRO EX 50",
+      "valorAtual": 5744,
+      "canonicalPath": "/fipe/shineray/retro-ex-50-2020-850024-0/",
+      "ano": 2020,
+      "marca": "SHINERAY"
+    }
+  ],
+  "stats": {
+    "total": 4
+  },
+  "meta": {
+    "geracaoId": "retro-1"
+  }
+}

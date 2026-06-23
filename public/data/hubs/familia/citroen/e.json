@@ -1,0 +1,42 @@
+{
+  "tipo": "familia",
+  "slug": "e",
+  "canonicalPath": "/fipe/citroen/e/",
+  "titulo": "Citroën e - Tabela FIPE",
+  "descricao": "2 versoes e anos do Citroën e na Tabela FIPE.",
+  "seo": {
+    "title": "Citroën e - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes Citroën e. 2 veiculos indexados.",
+    "h1": "Citroën e - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/citroen/e/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "citroen-e-jumpy-cargo-136cv-eletrico-2023-eletrico",
+      "fipeCodigo": "011218-6",
+      "displayName": "Citroën Ë-Jumpy Cargo 136cv (Elétrico)",
+      "valorAtual": 192423,
+      "canonicalPath": "/fipe/citroen/e-jumpy-cargo-136cv-eletrico-2023-011218-6/",
+      "ano": 2023,
+      "marca": "Citroën"
+    },
+    {
+      "vehicleId": "citroen-e-jumpy-cargo-136cv-eletrico-2022-eletrico",
+      "fipeCodigo": "011218-6",
+      "displayName": "Citroën Ë-Jumpy Cargo 136cv (Elétrico)",
+      "valorAtual": 181255,
+      "canonicalPath": "/fipe/citroen/e-jumpy-cargo-136cv-eletrico-2022-011218-6/",
+      "ano": 2022,
+      "marca": "Citroën"
+    }
+  ],
+  "stats": {
+    "total": 2,
+    "precoMin": 181255,
+    "precoMax": 192423,
+    "anos": [
+      2023,
+      2022
+    ]
+  }
+}

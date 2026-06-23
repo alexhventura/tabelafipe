@@ -1,0 +1,75 @@
+{
+  "tipo": "geracao",
+  "slug": "feroza-1",
+  "canonicalPath": "/geracao/daihatsu/feroza-1/",
+  "titulo": "Geracao feroza-1",
+  "descricao": "6 veiculos da geracao feroza-1.",
+  "seo": {
+    "title": "Geracao feroza-1 - Precos FIPE",
+    "description": "Veiculos da geracao feroza-1 na Tabela FIPE.",
+    "h1": "Geracao feroza-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/daihatsu/feroza-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "daihatsu-feroza-dx-1-6-16v-1994-gasolina",
+      "fipeCodigo": "012009-0",
+      "displayName": "Daihatsu Feroza DX 1.6 16V",
+      "valorAtual": 15945,
+      "canonicalPath": "/fipe/daihatsu/feroza-dx-1-6-16v-1994-012009-0/",
+      "ano": 1994,
+      "marca": "Daihatsu"
+    },
+    {
+      "vehicleId": "daihatsu-feroza-dx-1-6-16v-1995-gasolina",
+      "fipeCodigo": "012009-0",
+      "displayName": "Daihatsu Feroza DX 1.6 16V",
+      "valorAtual": 17375,
+      "canonicalPath": "/fipe/daihatsu/feroza-dx-1-6-16v-1995-012009-0/",
+      "ano": 1995,
+      "marca": "Daihatsu"
+    },
+    {
+      "vehicleId": "daihatsu-feroza-sx-1-6i-16v-1994-gasolina",
+      "fipeCodigo": "012005-7",
+      "displayName": "Daihatsu Feroza SX 1.6i 16V",
+      "valorAtual": 28288,
+      "canonicalPath": "/fipe/daihatsu/feroza-sx-1-6i-16v-1994-012005-7/",
+      "ano": 1994,
+      "marca": "Daihatsu"
+    },
+    {
+      "vehicleId": "daihatsu-feroza-sx-1-6i-16v-1995-gasolina",
+      "fipeCodigo": "012005-7",
+      "displayName": "Daihatsu Feroza SX 1.6i 16V",
+      "valorAtual": 28996,
+      "canonicalPath": "/fipe/daihatsu/feroza-sx-1-6i-16v-1995-012005-7/",
+      "ano": 1995,
+      "marca": "Daihatsu"
+    },
+    {
+      "vehicleId": "daihatsu-feroza-sx-1-6i-16v-1996-gasolina",
+      "fipeCodigo": "012005-7",
+      "displayName": "Daihatsu Feroza SX 1.6i 16V",
+      "valorAtual": 29721,
+      "canonicalPath": "/fipe/daihatsu/feroza-sx-1-6i-16v-1996-012005-7/",
+      "ano": 1996,
+      "marca": "Daihatsu"
+    },
+    {
+      "vehicleId": "daihatsu-feroza-sx-1-6i-16v-1997-gasolina",
+      "fipeCodigo": "012005-7",
+      "displayName": "Daihatsu Feroza SX 1.6i 16V",
+      "valorAtual": 31713,
+      "canonicalPath": "/fipe/daihatsu/feroza-sx-1-6i-16v-1997-012005-7/",
+      "ano": 1997,
+      "marca": "Daihatsu"
+    }
+  ],
+  "stats": {
+    "total": 6
+  },
+  "meta": {
+    "geracaoId": "feroza-1"
+  }
+}

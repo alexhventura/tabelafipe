@@ -1,0 +1,75 @@
+{
+  "tipo": "geracao",
+  "slug": "eqs-2",
+  "canonicalPath": "/geracao/mercedes-benz/eqs-2/",
+  "titulo": "Geracao eqs-2",
+  "descricao": "6 veiculos da geracao eqs-2.",
+  "seo": {
+    "title": "Geracao eqs-2 - Precos FIPE",
+    "description": "Veiculos da geracao eqs-2 na Tabela FIPE.",
+    "h1": "Geracao eqs-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/mercedes-benz/eqs-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "mercedes-benz-eqs-450-suv-4matic-eletrico-2024-eletrico",
+      "fipeCodigo": "021535-0",
+      "displayName": "Mercedes-Benz EQS 450 SUV 4MATIC ( Elétrico)",
+      "valorAtual": 841747,
+      "canonicalPath": "/fipe/mercedes-benz/eqs-450-suv-4matic-eletrico-2024-021535-0/",
+      "ano": 2024,
+      "marca": "Mercedes-Benz"
+    },
+    {
+      "vehicleId": "mercedes-benz-eqs-450-suv-4matic-eletrico-2025-eletrico",
+      "fipeCodigo": "021535-0",
+      "displayName": "Mercedes-Benz EQS 450 SUV 4MATIC ( Elétrico)",
+      "valorAtual": 867210,
+      "canonicalPath": "/fipe/mercedes-benz/eqs-450-suv-4matic-eletrico-2025-021535-0/",
+      "ano": 2025,
+      "marca": "Mercedes-Benz"
+    },
+    {
+      "vehicleId": "mercedes-benz-eqs-450-suv-amg-line-eletrico-2023-eletrico",
+      "fipeCodigo": "021515-5",
+      "displayName": "Mercedes-Benz EQS 450+ SUV AMG Line ( Elétrico)",
+      "valorAtual": 715302,
+      "canonicalPath": "/fipe/mercedes-benz/eqs-450-suv-amg-line-eletrico-2023-021515-5/",
+      "ano": 2023,
+      "marca": "Mercedes-Benz"
+    },
+    {
+      "vehicleId": "mercedes-benz-eqs-53-amg-4matic-eletrico-2022-eletrico",
+      "fipeCodigo": "021482-5",
+      "displayName": "Mercedes-Benz EQS 53 AMG 4MATIC+ ( Elétrico)",
+      "valorAtual": 811960,
+      "canonicalPath": "/fipe/mercedes-benz/eqs-53-amg-4matic-eletrico-2022-021482-5/",
+      "ano": 2022,
+      "marca": "Mercedes-Benz"
+    },
+    {
+      "vehicleId": "mercedes-benz-eqs-53-amg-4matic-eletrico-2023-eletrico",
+      "fipeCodigo": "021482-5",
+      "displayName": "Mercedes-Benz EQS 53 AMG 4MATIC+ ( Elétrico)",
+      "valorAtual": 1115451,
+      "canonicalPath": "/fipe/mercedes-benz/eqs-53-amg-4matic-eletrico-2023-021482-5/",
+      "ano": 2023,
+      "marca": "Mercedes-Benz"
+    },
+    {
+      "vehicleId": "mercedes-benz-eqs-53-amg-4matic-eletrico-2024-eletrico",
+      "fipeCodigo": "021482-5",
+      "displayName": "Mercedes-Benz EQS 53 AMG 4MATIC+ ( Elétrico)",
+      "valorAtual": 1160556,
+      "canonicalPath": "/fipe/mercedes-benz/eqs-53-amg-4matic-eletrico-2024-021482-5/",
+      "ano": 2024,
+      "marca": "Mercedes-Benz"
+    }
+  ],
+  "stats": {
+    "total": 6
+  },
+  "meta": {
+    "geracaoId": "eqs-2"
+  }
+}

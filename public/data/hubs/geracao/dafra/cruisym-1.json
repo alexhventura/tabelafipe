@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "cruisym-1",
+  "canonicalPath": "/geracao/dafra/cruisym-1/",
+  "titulo": "Geracao cruisym-1",
+  "descricao": "2 veiculos da geracao cruisym-1.",
+  "seo": {
+    "title": "Geracao cruisym-1 - Precos FIPE",
+    "description": "Veiculos da geracao cruisym-1 na Tabela FIPE.",
+    "h1": "Geracao cruisym-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/dafra/cruisym-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "dafra-cruisym-150-0-gasolina",
+      "fipeCodigo": "861029-0",
+      "displayName": "DAFRA CRUISYM 150",
+      "valorAtual": 18581,
+      "canonicalPath": "/fipe/dafra/cruisym-150-0-861029-0/",
+      "ano": 0,
+      "marca": "DAFRA"
+    },
+    {
+      "vehicleId": "dafra-cruisym-300-0-gasolina",
+      "fipeCodigo": "861030-4",
+      "displayName": "DAFRA CRUISYM 300",
+      "valorAtual": 33090,
+      "canonicalPath": "/fipe/dafra/cruisym-300-0-861030-4/",
+      "ano": 0,
+      "marca": "DAFRA"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "cruisym-1"
+  }
+}

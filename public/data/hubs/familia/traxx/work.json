@@ -1,0 +1,92 @@
+{
+  "tipo": "familia",
+  "slug": "work",
+  "canonicalPath": "/fipe/traxx/work/",
+  "titulo": "TRAXX work - Tabela FIPE",
+  "descricao": "7 versoes e anos do TRAXX work na Tabela FIPE.",
+  "seo": {
+    "title": "TRAXX work - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes TRAXX work. 7 veiculos indexados.",
+    "h1": "TRAXX work - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/traxx/work/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "traxx-work-125-2016-gasolina",
+      "fipeCodigo": "814012-0",
+      "displayName": "TRAXX WORK 125",
+      "valorAtual": 4485,
+      "canonicalPath": "/fipe/traxx/work-125-2016-814012-0/",
+      "ano": 2016,
+      "marca": "TRAXX"
+    },
+    {
+      "vehicleId": "traxx-work-125-2015-gasolina",
+      "fipeCodigo": "814012-0",
+      "displayName": "TRAXX WORK 125",
+      "valorAtual": 4375,
+      "canonicalPath": "/fipe/traxx/work-125-2015-814012-0/",
+      "ano": 2015,
+      "marca": "TRAXX"
+    },
+    {
+      "vehicleId": "traxx-work-125-2014-gasolina",
+      "fipeCodigo": "814012-0",
+      "displayName": "TRAXX WORK 125",
+      "valorAtual": 3734,
+      "canonicalPath": "/fipe/traxx/work-125-2014-814012-0/",
+      "ano": 2014,
+      "marca": "TRAXX"
+    },
+    {
+      "vehicleId": "traxx-work-125-2013-gasolina",
+      "fipeCodigo": "814012-0",
+      "displayName": "TRAXX WORK 125",
+      "valorAtual": 3247,
+      "canonicalPath": "/fipe/traxx/work-125-2013-814012-0/",
+      "ano": 2013,
+      "marca": "TRAXX"
+    },
+    {
+      "vehicleId": "traxx-work-125-2012-gasolina",
+      "fipeCodigo": "814012-0",
+      "displayName": "TRAXX WORK 125",
+      "valorAtual": 3167,
+      "canonicalPath": "/fipe/traxx/work-125-2012-814012-0/",
+      "ano": 2012,
+      "marca": "TRAXX"
+    },
+    {
+      "vehicleId": "traxx-work-125-2011-gasolina",
+      "fipeCodigo": "814012-0",
+      "displayName": "TRAXX WORK 125",
+      "valorAtual": 2755,
+      "canonicalPath": "/fipe/traxx/work-125-2011-814012-0/",
+      "ano": 2011,
+      "marca": "TRAXX"
+    },
+    {
+      "vehicleId": "traxx-work-125-2010-gasolina",
+      "fipeCodigo": "814012-0",
+      "displayName": "TRAXX WORK 125",
+      "valorAtual": 2550,
+      "canonicalPath": "/fipe/traxx/work-125-2010-814012-0/",
+      "ano": 2010,
+      "marca": "TRAXX"
+    }
+  ],
+  "stats": {
+    "total": 7,
+    "precoMin": 2550,
+    "precoMax": 4485,
+    "anos": [
+      2016,
+      2015,
+      2014,
+      2013,
+      2012,
+      2011,
+      2010
+    ]
+  }
+}

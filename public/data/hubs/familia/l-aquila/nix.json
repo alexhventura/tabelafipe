@@ -1,0 +1,52 @@
+{
+  "tipo": "familia",
+  "slug": "nix",
+  "canonicalPath": "/fipe/l-aquila/nix/",
+  "titulo": "L'AQUILA nix - Tabela FIPE",
+  "descricao": "3 versoes e anos do L'AQUILA nix na Tabela FIPE.",
+  "seo": {
+    "title": "L'AQUILA nix - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes L'AQUILA nix. 3 veiculos indexados.",
+    "h1": "L'AQUILA nix - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/l-aquila/nix/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "l-aquila-nix-50-2001-gasolina",
+      "fipeCodigo": "819004-6",
+      "displayName": "L'AQUILA NIX 50",
+      "valorAtual": 2054,
+      "canonicalPath": "/fipe/l-aquila/nix-50-2001-819004-6/",
+      "ano": 2001,
+      "marca": "L'AQUILA"
+    },
+    {
+      "vehicleId": "l-aquila-nix-50-2000-gasolina",
+      "fipeCodigo": "819004-6",
+      "displayName": "L'AQUILA NIX 50",
+      "valorAtual": 1778,
+      "canonicalPath": "/fipe/l-aquila/nix-50-2000-819004-6/",
+      "ano": 2000,
+      "marca": "L'AQUILA"
+    },
+    {
+      "vehicleId": "l-aquila-nix-50-1999-gasolina",
+      "fipeCodigo": "819004-6",
+      "displayName": "L'AQUILA NIX 50",
+      "valorAtual": 1563,
+      "canonicalPath": "/fipe/l-aquila/nix-50-1999-819004-6/",
+      "ano": 1999,
+      "marca": "L'AQUILA"
+    }
+  ],
+  "stats": {
+    "total": 3,
+    "precoMin": 1563,
+    "precoMax": 2054,
+    "anos": [
+      2001,
+      2000,
+      1999
+    ]
+  }
+}

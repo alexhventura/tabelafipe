@@ -1,0 +1,42 @@
+{
+  "tipo": "familia",
+  "slug": "grand",
+  "canonicalPath": "/fipe/volkswagen/grand/",
+  "titulo": "VW - VolksWagen grand - Tabela FIPE",
+  "descricao": "2 versoes e anos do VW - VolksWagen grand na Tabela FIPE.",
+  "seo": {
+    "title": "VW - VolksWagen grand - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes VW - VolksWagen grand. 2 veiculos indexados.",
+    "h1": "VW - VolksWagen grand - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/volkswagen/grand/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "volkswagen-grand-saveiro-xtreme-street-1-6-1-8-2-0-2003-gasolina",
+      "fipeCodigo": "005168-3",
+      "displayName": "VW - VolksWagen Grand Saveiro Xtreme/Street  1.6/1.8/2.0",
+      "valorAtual": 22711,
+      "canonicalPath": "/fipe/volkswagen/grand-saveiro-xtreme-street-1-6-1-8-2-0-2003-005168-3/",
+      "ano": 2003,
+      "marca": "VW - VolksWagen"
+    },
+    {
+      "vehicleId": "volkswagen-grand-saveiro-xtreme-street-1-6-1-8-2-0-2002-gasolina",
+      "fipeCodigo": "005168-3",
+      "displayName": "VW - VolksWagen Grand Saveiro Xtreme/Street  1.6/1.8/2.0",
+      "valorAtual": 22157,
+      "canonicalPath": "/fipe/volkswagen/grand-saveiro-xtreme-street-1-6-1-8-2-0-2002-005168-3/",
+      "ano": 2002,
+      "marca": "VW - VolksWagen"
+    }
+  ],
+  "stats": {
+    "total": 2,
+    "precoMin": 22157,
+    "precoMax": 22711,
+    "anos": [
+      2003,
+      2002
+    ]
+  }
+}

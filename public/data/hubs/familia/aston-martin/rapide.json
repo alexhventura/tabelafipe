@@ -1,0 +1,62 @@
+{
+  "tipo": "familia",
+  "slug": "rapide",
+  "canonicalPath": "/fipe/aston-martin/rapide/",
+  "titulo": "ASTON MARTIN rapide - Tabela FIPE",
+  "descricao": "4 versoes e anos do ASTON MARTIN rapide na Tabela FIPE.",
+  "seo": {
+    "title": "ASTON MARTIN rapide - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes ASTON MARTIN rapide. 4 veiculos indexados.",
+    "h1": "ASTON MARTIN rapide - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/aston-martin/rapide/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "aston-martin-rapide-s-6-0-v12-550cv-2016-gasolina",
+      "fipeCodigo": "085009-8",
+      "displayName": "ASTON MARTIN Rapide S 6.0 V12 550cv",
+      "valorAtual": 1264767,
+      "canonicalPath": "/fipe/aston-martin/rapide-s-6-0-v12-550cv-2016-085009-8/",
+      "ano": 2016,
+      "marca": "ASTON MARTIN"
+    },
+    {
+      "vehicleId": "aston-martin-rapide-s-6-0-v12-550cv-2014-gasolina",
+      "fipeCodigo": "085009-8",
+      "displayName": "ASTON MARTIN Rapide S 6.0 V12 550cv",
+      "valorAtual": 910897,
+      "canonicalPath": "/fipe/aston-martin/rapide-s-6-0-v12-550cv-2014-085009-8/",
+      "ano": 2014,
+      "marca": "ASTON MARTIN"
+    },
+    {
+      "vehicleId": "aston-martin-rapide-6-0-v12-477cv-2012-gasolina",
+      "fipeCodigo": "085007-1",
+      "displayName": "ASTON MARTIN Rapide 6.0 V12 477cv",
+      "valorAtual": 775030,
+      "canonicalPath": "/fipe/aston-martin/rapide-6-0-v12-477cv-2012-085007-1/",
+      "ano": 2012,
+      "marca": "ASTON MARTIN"
+    },
+    {
+      "vehicleId": "aston-martin-rapide-6-0-v12-477cv-2011-gasolina",
+      "fipeCodigo": "085007-1",
+      "displayName": "ASTON MARTIN Rapide 6.0 V12 477cv",
+      "valorAtual": 717670,
+      "canonicalPath": "/fipe/aston-martin/rapide-6-0-v12-477cv-2011-085007-1/",
+      "ano": 2011,
+      "marca": "ASTON MARTIN"
+    }
+  ],
+  "stats": {
+    "total": 4,
+    "precoMin": 717670,
+    "precoMax": 1264767,
+    "anos": [
+      2016,
+      2014,
+      2012,
+      2011
+    ]
+  }
+}

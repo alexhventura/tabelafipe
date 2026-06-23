@@ -1,0 +1,66 @@
+{
+  "tipo": "geracao",
+  "slug": "bullet-1",
+  "canonicalPath": "/geracao/royal-enfield/bullet-1/",
+  "titulo": "Geracao bullet-1",
+  "descricao": "5 veiculos da geracao bullet-1.",
+  "seo": {
+    "title": "Geracao bullet-1 - Precos FIPE",
+    "description": "Veiculos da geracao bullet-1 na Tabela FIPE.",
+    "h1": "Geracao bullet-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/royal-enfield/bullet-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "royal-enfield-bullet-500-2016-gasolina",
+      "fipeCodigo": "879008-6",
+      "displayName": "Royal Enfield Bullet 500",
+      "valorAtual": 16103,
+      "canonicalPath": "/fipe/royal-enfield/bullet-500-2016-879008-6/",
+      "ano": 2016,
+      "marca": "Royal Enfield"
+    },
+    {
+      "vehicleId": "royal-enfield-bullet-500-2017-gasolina",
+      "fipeCodigo": "879008-6",
+      "displayName": "Royal Enfield Bullet 500",
+      "valorAtual": 17666,
+      "canonicalPath": "/fipe/royal-enfield/bullet-500-2017-879008-6/",
+      "ano": 2017,
+      "marca": "Royal Enfield"
+    },
+    {
+      "vehicleId": "royal-enfield-bullet-500-2018-gasolina",
+      "fipeCodigo": "879008-6",
+      "displayName": "Royal Enfield Bullet 500",
+      "valorAtual": 18874,
+      "canonicalPath": "/fipe/royal-enfield/bullet-500-2018-879008-6/",
+      "ano": 2018,
+      "marca": "Royal Enfield"
+    },
+    {
+      "vehicleId": "royal-enfield-bullet-500-2019-gasolina",
+      "fipeCodigo": "879008-6",
+      "displayName": "Royal Enfield Bullet 500",
+      "valorAtual": 19354,
+      "canonicalPath": "/fipe/royal-enfield/bullet-500-2019-879008-6/",
+      "ano": 2019,
+      "marca": "Royal Enfield"
+    },
+    {
+      "vehicleId": "royal-enfield-bullet-500-2020-gasolina",
+      "fipeCodigo": "879008-6",
+      "displayName": "Royal Enfield Bullet 500",
+      "valorAtual": 20586,
+      "canonicalPath": "/fipe/royal-enfield/bullet-500-2020-879008-6/",
+      "ano": 2020,
+      "marca": "Royal Enfield"
+    }
+  ],
+  "stats": {
+    "total": 5
+  },
+  "meta": {
+    "geracaoId": "bullet-1"
+  }
+}

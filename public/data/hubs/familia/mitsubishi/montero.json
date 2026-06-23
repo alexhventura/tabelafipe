@@ -1,0 +1,62 @@
+{
+  "tipo": "familia",
+  "slug": "montero",
+  "canonicalPath": "/fipe/mitsubishi/montero/",
+  "titulo": "Mitsubishi montero - Tabela FIPE",
+  "descricao": "4 versoes e anos do Mitsubishi montero na Tabela FIPE.",
+  "seo": {
+    "title": "Mitsubishi montero - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes Mitsubishi montero. 4 veiculos indexados.",
+    "h1": "Mitsubishi montero - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/mitsubishi/montero/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "mitsubishi-montero-2-8-diesel-1995-diesel",
+      "fipeCodigo": "022046-9",
+      "displayName": "Mitsubishi Montero 2.8 Diesel",
+      "valorAtual": 19837,
+      "canonicalPath": "/fipe/mitsubishi/montero-2-8-diesel-1995-022046-9/",
+      "ano": 1995,
+      "marca": "Mitsubishi"
+    },
+    {
+      "vehicleId": "mitsubishi-montero-2-8-diesel-1994-diesel",
+      "fipeCodigo": "022046-9",
+      "displayName": "Mitsubishi Montero 2.8 Diesel",
+      "valorAtual": 15686,
+      "canonicalPath": "/fipe/mitsubishi/montero-2-8-diesel-1994-022046-9/",
+      "ano": 1994,
+      "marca": "Mitsubishi"
+    },
+    {
+      "vehicleId": "mitsubishi-montero-2-8-diesel-1993-diesel",
+      "fipeCodigo": "022046-9",
+      "displayName": "Mitsubishi Montero 2.8 Diesel",
+      "valorAtual": 13342,
+      "canonicalPath": "/fipe/mitsubishi/montero-2-8-diesel-1993-022046-9/",
+      "ano": 1993,
+      "marca": "Mitsubishi"
+    },
+    {
+      "vehicleId": "mitsubishi-montero-2-8-diesel-1992-diesel",
+      "fipeCodigo": "022046-9",
+      "displayName": "Mitsubishi Montero 2.8 Diesel",
+      "valorAtual": 12100,
+      "canonicalPath": "/fipe/mitsubishi/montero-2-8-diesel-1992-022046-9/",
+      "ano": 1992,
+      "marca": "Mitsubishi"
+    }
+  ],
+  "stats": {
+    "total": 4,
+    "precoMin": 12100,
+    "precoMax": 19837,
+    "anos": [
+      1995,
+      1994,
+      1993,
+      1992
+    ]
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "tipo": "geracao",
+  "slug": "boreal-2",
+  "canonicalPath": "/geracao/renault/boreal-2/",
+  "titulo": "Geracao boreal-2",
+  "descricao": "3 veiculos da geracao boreal-2.",
+  "seo": {
+    "title": "Geracao boreal-2 - Precos FIPE",
+    "description": "Veiculos da geracao boreal-2 na Tabela FIPE.",
+    "h1": "Geracao boreal-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/renault/boreal-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "renault-boreal-evolution-1-3-turbo-16v-5p-aut-2026-flex",
+      "fipeCodigo": "025336-7",
+      "displayName": "Renault Boreal Evolution 1.3 Turbo 16V 5p Aut.",
+      "valorAtual": 158680,
+      "canonicalPath": "/fipe/renault/boreal-evolution-1-3-turbo-16v-5p-aut-2026-025336-7/",
+      "ano": 2026,
+      "marca": "Renault"
+    },
+    {
+      "vehicleId": "renault-boreal-iconic-1-3-turbo-16v-5p-aut-2026-flex",
+      "fipeCodigo": "025338-3",
+      "displayName": "Renault Boreal Iconic 1.3 Turbo 16V 5p Aut.",
+      "valorAtual": 194463,
+      "canonicalPath": "/fipe/renault/boreal-iconic-1-3-turbo-16v-5p-aut-2026-025338-3/",
+      "ano": 2026,
+      "marca": "Renault"
+    },
+    {
+      "vehicleId": "renault-boreal-techno-1-3-turbo-16v-5p-aut-2026-flex",
+      "fipeCodigo": "025337-5",
+      "displayName": "Renault Boreal Techno 1.3 Turbo 16V 5p Aut.",
+      "valorAtual": 188884,
+      "canonicalPath": "/fipe/renault/boreal-techno-1-3-turbo-16v-5p-aut-2026-025337-5/",
+      "ano": 2026,
+      "marca": "Renault"
+    }
+  ],
+  "stats": {
+    "total": 3
+  },
+  "meta": {
+    "geracaoId": "boreal-2"
+  }
+}

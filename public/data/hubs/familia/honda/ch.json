@@ -1,0 +1,52 @@
+{
+  "tipo": "familia",
+  "slug": "ch",
+  "canonicalPath": "/fipe/honda/ch/",
+  "titulo": "HONDA ch - Tabela FIPE",
+  "descricao": "3 versoes e anos do HONDA ch na Tabela FIPE.",
+  "seo": {
+    "title": "HONDA ch - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes HONDA ch. 3 veiculos indexados.",
+    "h1": "HONDA ch - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/honda/ch/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "honda-ch-125-r-spacy-1996-gasolina",
+      "fipeCodigo": "811025-5",
+      "displayName": "HONDA CH 125-R SPACY",
+      "valorAtual": 4160,
+      "canonicalPath": "/fipe/honda/ch-125-r-spacy-1996-811025-5/",
+      "ano": 1996,
+      "marca": "HONDA"
+    },
+    {
+      "vehicleId": "honda-ch-125-r-spacy-1995-gasolina",
+      "fipeCodigo": "811025-5",
+      "displayName": "HONDA CH 125-R SPACY",
+      "valorAtual": 4053,
+      "canonicalPath": "/fipe/honda/ch-125-r-spacy-1995-811025-5/",
+      "ano": 1995,
+      "marca": "HONDA"
+    },
+    {
+      "vehicleId": "honda-ch-125-r-spacy-1994-gasolina",
+      "fipeCodigo": "811025-5",
+      "displayName": "HONDA CH 125-R SPACY",
+      "valorAtual": 3954,
+      "canonicalPath": "/fipe/honda/ch-125-r-spacy-1994-811025-5/",
+      "ano": 1994,
+      "marca": "HONDA"
+    }
+  ],
+  "stats": {
+    "total": 3,
+    "precoMin": 3954,
+    "precoMax": 4160,
+    "anos": [
+      1996,
+      1995,
+      1994
+    ]
+  }
+}

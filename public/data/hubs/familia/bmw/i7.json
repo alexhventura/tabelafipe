@@ -1,0 +1,52 @@
+{
+  "tipo": "familia",
+  "slug": "i7",
+  "canonicalPath": "/fipe/bmw/i7/",
+  "titulo": "BMW i7 - Tabela FIPE",
+  "descricao": "3 versoes e anos do BMW i7 na Tabela FIPE.",
+  "seo": {
+    "title": "BMW i7 - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes BMW i7. 3 veiculos indexados.",
+    "h1": "BMW i7 - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/bmw/i7/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "bmw-i7-xdrive-60-m-sport-aut-eletrico-2025-eletrico",
+      "fipeCodigo": "009313-0",
+      "displayName": "BMW i7 XDrive 60 M Sport Aut. (Elétrico)",
+      "valorAtual": 1029311,
+      "canonicalPath": "/fipe/bmw/i7-xdrive-60-m-sport-aut-eletrico-2025-009313-0/",
+      "ano": 2025,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-i7-xdrive-60-m-sport-aut-eletrico-2024-eletrico",
+      "fipeCodigo": "009313-0",
+      "displayName": "BMW i7 XDrive 60 M Sport Aut. (Elétrico)",
+      "valorAtual": 851489,
+      "canonicalPath": "/fipe/bmw/i7-xdrive-60-m-sport-aut-eletrico-2024-009313-0/",
+      "ano": 2024,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-i7-xdrive-60-m-sport-aut-eletrico-0-eletrico",
+      "fipeCodigo": "009313-0",
+      "displayName": "BMW i7 XDrive 60 M Sport Aut. (Elétrico)",
+      "valorAtual": 1371751,
+      "canonicalPath": "/fipe/bmw/i7-xdrive-60-m-sport-aut-eletrico-0-009313-0/",
+      "ano": 0,
+      "marca": "BMW"
+    }
+  ],
+  "stats": {
+    "total": 3,
+    "precoMin": 851489,
+    "precoMax": 1371751,
+    "anos": [
+      2025,
+      2024,
+      0
+    ]
+  }
+}

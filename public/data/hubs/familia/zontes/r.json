@@ -1,0 +1,82 @@
+{
+  "tipo": "familia",
+  "slug": "r",
+  "canonicalPath": "/fipe/zontes/r/",
+  "titulo": "ZONTES r - Tabela FIPE",
+  "descricao": "6 versoes e anos do ZONTES r na Tabela FIPE.",
+  "seo": {
+    "title": "ZONTES r - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes ZONTES r. 6 veiculos indexados.",
+    "h1": "ZONTES r - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/zontes/r/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "zontes-r-350-2027-gasolina",
+      "fipeCodigo": "895005-9",
+      "displayName": "ZONTES R 350",
+      "valorAtual": 29590,
+      "canonicalPath": "/fipe/zontes/r-350-2027-895005-9/",
+      "ano": 2027,
+      "marca": "ZONTES"
+    },
+    {
+      "vehicleId": "zontes-r-350-2026-gasolina",
+      "fipeCodigo": "895005-9",
+      "displayName": "ZONTES R 350",
+      "valorAtual": 28525,
+      "canonicalPath": "/fipe/zontes/r-350-2026-895005-9/",
+      "ano": 2026,
+      "marca": "ZONTES"
+    },
+    {
+      "vehicleId": "zontes-r-350-2025-gasolina",
+      "fipeCodigo": "895005-9",
+      "displayName": "ZONTES R 350",
+      "valorAtual": 27304,
+      "canonicalPath": "/fipe/zontes/r-350-2025-895005-9/",
+      "ano": 2025,
+      "marca": "ZONTES"
+    },
+    {
+      "vehicleId": "zontes-r-310-2024-gasolina",
+      "fipeCodigo": "895001-6",
+      "displayName": "ZONTES R 310",
+      "valorAtual": 25346,
+      "canonicalPath": "/fipe/zontes/r-310-2024-895001-6/",
+      "ano": 2024,
+      "marca": "ZONTES"
+    },
+    {
+      "vehicleId": "zontes-r-310-2023-gasolina",
+      "fipeCodigo": "895001-6",
+      "displayName": "ZONTES R 310",
+      "valorAtual": 23267,
+      "canonicalPath": "/fipe/zontes/r-310-2023-895001-6/",
+      "ano": 2023,
+      "marca": "ZONTES"
+    },
+    {
+      "vehicleId": "zontes-r-350-0-gasolina",
+      "fipeCodigo": "895005-9",
+      "displayName": "ZONTES R 350",
+      "valorAtual": 31460,
+      "canonicalPath": "/fipe/zontes/r-350-0-895005-9/",
+      "ano": 0,
+      "marca": "ZONTES"
+    }
+  ],
+  "stats": {
+    "total": 6,
+    "precoMin": 23267,
+    "precoMax": 31460,
+    "anos": [
+      2027,
+      2026,
+      2025,
+      2024,
+      2023,
+      0
+    ]
+  }
+}

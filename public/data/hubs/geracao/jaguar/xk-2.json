@@ -1,0 +1,93 @@
+{
+  "tipo": "geracao",
+  "slug": "xk-2",
+  "canonicalPath": "/geracao/jaguar/xk-2/",
+  "titulo": "Geracao xk-2",
+  "descricao": "8 veiculos da geracao xk-2.",
+  "seo": {
+    "title": "Geracao xk-2 - Precos FIPE",
+    "description": "Veiculos da geracao xk-2 na Tabela FIPE.",
+    "h1": "Geracao xk-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/jaguar/xk-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "jaguar-xk-8-br-conversivel-xk-8-conversivel-2007-gasolina",
+      "fipeCodigo": "016008-3",
+      "displayName": "Jaguar XK-8 BR Conversível / XK-8 Conversível",
+      "valorAtual": 173826,
+      "canonicalPath": "/fipe/jaguar/xk-8-br-conversivel-xk-8-conversivel-2007-016008-3/",
+      "ano": 2007,
+      "marca": "Jaguar"
+    },
+    {
+      "vehicleId": "jaguar-xk-8-br-conversivel-xk-8-conversivel-2008-gasolina",
+      "fipeCodigo": "016008-3",
+      "displayName": "Jaguar XK-8 BR Conversível / XK-8 Conversível",
+      "valorAtual": 189117,
+      "canonicalPath": "/fipe/jaguar/xk-8-br-conversivel-xk-8-conversivel-2008-016008-3/",
+      "ano": 2008,
+      "marca": "Jaguar"
+    },
+    {
+      "vehicleId": "jaguar-xk-8-br-conversivel-xk-8-conversivel-2009-gasolina",
+      "fipeCodigo": "016008-3",
+      "displayName": "Jaguar XK-8 BR Conversível / XK-8 Conversível",
+      "valorAtual": 201494,
+      "canonicalPath": "/fipe/jaguar/xk-8-br-conversivel-xk-8-conversivel-2009-016008-3/",
+      "ano": 2009,
+      "marca": "Jaguar"
+    },
+    {
+      "vehicleId": "jaguar-xk-8-br-conversivel-xk-8-conversivel-2010-gasolina",
+      "fipeCodigo": "016008-3",
+      "displayName": "Jaguar XK-8 BR Conversível / XK-8 Conversível",
+      "valorAtual": 229696,
+      "canonicalPath": "/fipe/jaguar/xk-8-br-conversivel-xk-8-conversivel-2010-016008-3/",
+      "ano": 2010,
+      "marca": "Jaguar"
+    },
+    {
+      "vehicleId": "jaguar-xk-8-br-coupe-xk-8-coupe-2007-gasolina",
+      "fipeCodigo": "016007-5",
+      "displayName": "Jaguar XK-8 BR Coupe/ XK-8 Coupe",
+      "valorAtual": 173250,
+      "canonicalPath": "/fipe/jaguar/xk-8-br-coupe-xk-8-coupe-2007-016007-5/",
+      "ano": 2007,
+      "marca": "Jaguar"
+    },
+    {
+      "vehicleId": "jaguar-xk-8-br-coupe-xk-8-coupe-2008-gasolina",
+      "fipeCodigo": "016007-5",
+      "displayName": "Jaguar XK-8 BR Coupe/ XK-8 Coupe",
+      "valorAtual": 186025,
+      "canonicalPath": "/fipe/jaguar/xk-8-br-coupe-xk-8-coupe-2008-016007-5/",
+      "ano": 2008,
+      "marca": "Jaguar"
+    },
+    {
+      "vehicleId": "jaguar-xk-8-br-coupe-xk-8-coupe-2009-gasolina",
+      "fipeCodigo": "016007-5",
+      "displayName": "Jaguar XK-8 BR Coupe/ XK-8 Coupe",
+      "valorAtual": 190676,
+      "canonicalPath": "/fipe/jaguar/xk-8-br-coupe-xk-8-coupe-2009-016007-5/",
+      "ano": 2009,
+      "marca": "Jaguar"
+    },
+    {
+      "vehicleId": "jaguar-xk-8-br-coupe-xk-8-coupe-2010-gasolina",
+      "fipeCodigo": "016007-5",
+      "displayName": "Jaguar XK-8 BR Coupe/ XK-8 Coupe",
+      "valorAtual": 195443,
+      "canonicalPath": "/fipe/jaguar/xk-8-br-coupe-xk-8-coupe-2010-016007-5/",
+      "ano": 2010,
+      "marca": "Jaguar"
+    }
+  ],
+  "stats": {
+    "total": 8
+  },
+  "meta": {
+    "geracaoId": "xk-2"
+  }
+}

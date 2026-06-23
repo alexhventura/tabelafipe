@@ -1,0 +1,111 @@
+{
+  "tipo": "geracao",
+  "slug": "nx-1",
+  "canonicalPath": "/geracao/honda/nx-1/",
+  "titulo": "Geracao nx-1",
+  "descricao": "10 veiculos da geracao nx-1.",
+  "seo": {
+    "title": "Geracao nx-1 - Precos FIPE",
+    "description": "Veiculos da geracao nx-1 na Tabela FIPE.",
+    "h1": "Geracao nx-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/honda/nx-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "honda-nx-500-0-gasolina",
+      "fipeCodigo": "811189-8",
+      "displayName": "HONDA NX 500",
+      "valorAtual": 52511,
+      "canonicalPath": "/fipe/honda/nx-500-0-811189-8/",
+      "ano": 0,
+      "marca": "HONDA"
+    },
+    {
+      "vehicleId": "lexus-nx-350h-4x4-dynamic-2-5-16v-aut-hib-0-hibrido",
+      "fipeCodigo": "057054-0",
+      "displayName": "Lexus NX-350h 4x4 Dynamic 2.5 16V Aut. (Híb.)",
+      "valorAtual": 400195,
+      "canonicalPath": "/fipe/lexus/nx-350h-4x4-dynamic-2-5-16v-aut-hib-0-057054-0/",
+      "ano": 0,
+      "marca": "Lexus"
+    },
+    {
+      "vehicleId": "lexus-nx-350h-4x4-luxury-2-5-16v-aut-hib-0-hibrido",
+      "fipeCodigo": "057053-2",
+      "displayName": "Lexus NX-350h 4x4 Luxury 2.5 16V Aut. (Híb.)",
+      "valorAtual": 419543,
+      "canonicalPath": "/fipe/lexus/nx-350h-4x4-luxury-2-5-16v-aut-hib-0-057053-2/",
+      "ano": 0,
+      "marca": "Lexus"
+    },
+    {
+      "vehicleId": "lexus-nx-350h-awd-f-sport-2-5-16v-aut-hib-0-hibrido",
+      "fipeCodigo": "057055-9",
+      "displayName": "Lexus NX-350h AWD F-Sport 2.5 16V Aut. (Híb.)",
+      "valorAtual": 463425,
+      "canonicalPath": "/fipe/lexus/nx-350h-awd-f-sport-2-5-16v-aut-hib-0-057055-9/",
+      "ano": 0,
+      "marca": "Lexus"
+    },
+    {
+      "vehicleId": "lexus-nx-450h-awd-2-5-16v-aut-hibrido-0-hibrido",
+      "fipeCodigo": "057059-1",
+      "displayName": "Lexus NX-450h+ AWD 2.5 16V Aut. (Híbrido)",
+      "valorAtual": 487758,
+      "canonicalPath": "/fipe/lexus/nx-450h-awd-2-5-16v-aut-hibrido-0-057059-1/",
+      "ano": 0,
+      "marca": "Lexus"
+    },
+    {
+      "vehicleId": "nissan-nx-2000-1992-gasolina",
+      "fipeCodigo": "023016-2",
+      "displayName": "Nissan NX 2000",
+      "valorAtual": 5763,
+      "canonicalPath": "/fipe/nissan/nx-2000-1992-023016-2/",
+      "ano": 1992,
+      "marca": "Nissan"
+    },
+    {
+      "vehicleId": "nissan-nx-2000-1993-gasolina",
+      "fipeCodigo": "023016-2",
+      "displayName": "Nissan NX 2000",
+      "valorAtual": 6766,
+      "canonicalPath": "/fipe/nissan/nx-2000-1993-023016-2/",
+      "ano": 1993,
+      "marca": "Nissan"
+    },
+    {
+      "vehicleId": "nissan-nx-2000-1994-gasolina",
+      "fipeCodigo": "023016-2",
+      "displayName": "Nissan NX 2000",
+      "valorAtual": 7416,
+      "canonicalPath": "/fipe/nissan/nx-2000-1994-023016-2/",
+      "ano": 1994,
+      "marca": "Nissan"
+    },
+    {
+      "vehicleId": "nissan-nx-2000-targa-2-0-1992-gasolina",
+      "fipeCodigo": "023029-4",
+      "displayName": "Nissan NX 2000 Targa 2.0",
+      "valorAtual": 8304,
+      "canonicalPath": "/fipe/nissan/nx-2000-targa-2-0-1992-023029-4/",
+      "ano": 1992,
+      "marca": "Nissan"
+    },
+    {
+      "vehicleId": "nissan-nx-2000-targa-2-0-1993-gasolina",
+      "fipeCodigo": "023029-4",
+      "displayName": "Nissan NX 2000 Targa 2.0",
+      "valorAtual": 8680,
+      "canonicalPath": "/fipe/nissan/nx-2000-targa-2-0-1993-023029-4/",
+      "ano": 1993,
+      "marca": "Nissan"
+    }
+  ],
+  "stats": {
+    "total": 10
+  },
+  "meta": {
+    "geracaoId": "nx-1"
+  }
+}

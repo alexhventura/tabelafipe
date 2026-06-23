@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "taos-1",
+  "canonicalPath": "/geracao/volkswagen/taos-1/",
+  "titulo": "Geracao taos-1",
+  "descricao": "2 veiculos da geracao taos-1.",
+  "seo": {
+    "title": "Geracao taos-1 - Precos FIPE",
+    "description": "Veiculos da geracao taos-1 na Tabela FIPE.",
+    "h1": "Geracao taos-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/volkswagen/taos-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "volkswagen-taos-comfortline-1-4-250-tsi-flex-aut-0-flex",
+      "fipeCodigo": "005527-1",
+      "displayName": "VW - VolksWagen TAOS Comfortline 1.4 250 TSI Flex Aut.",
+      "valorAtual": 193053,
+      "canonicalPath": "/fipe/volkswagen/taos-comfortline-1-4-250-tsi-flex-aut-0-005527-1/",
+      "ano": 0,
+      "marca": "VW - VolksWagen"
+    },
+    {
+      "vehicleId": "volkswagen-taos-highline-1-4-250-tsi-flex-aut-0-flex",
+      "fipeCodigo": "005528-0",
+      "displayName": "VW - VolksWagen TAOS Highline 1.4 250 TSI Flex Aut.",
+      "valorAtual": 214940,
+      "canonicalPath": "/fipe/volkswagen/taos-highline-1-4-250-tsi-flex-aut-0-005528-0/",
+      "ano": 0,
+      "marca": "VW - VolksWagen"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "taos-1"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "veloster-1",
+  "canonicalPath": "/geracao/hyundai/veloster-1/",
+  "titulo": "Geracao veloster-1",
+  "descricao": "2 veiculos da geracao veloster-1.",
+  "seo": {
+    "title": "Geracao veloster-1 - Precos FIPE",
+    "description": "Veiculos da geracao veloster-1 na Tabela FIPE.",
+    "h1": "Geracao veloster-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/hyundai/veloster-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "hyundai-veloster-1-6-16v-140cv-aut-2012-gasolina",
+      "fipeCodigo": "015079-7",
+      "displayName": "Hyundai Veloster 1.6 16V  140cv Aut.",
+      "valorAtual": 57214,
+      "canonicalPath": "/fipe/hyundai/veloster-1-6-16v-140cv-aut-2012-015079-7/",
+      "ano": 2012,
+      "marca": "Hyundai"
+    },
+    {
+      "vehicleId": "hyundai-veloster-1-6-16v-140cv-aut-2013-gasolina",
+      "fipeCodigo": "015079-7",
+      "displayName": "Hyundai Veloster 1.6 16V  140cv Aut.",
+      "valorAtual": 62524,
+      "canonicalPath": "/fipe/hyundai/veloster-1-6-16v-140cv-aut-2013-015079-7/",
+      "ano": 2013,
+      "marca": "Hyundai"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "veloster-1"
+  }
+}

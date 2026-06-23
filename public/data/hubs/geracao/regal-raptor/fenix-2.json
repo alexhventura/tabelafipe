@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "fenix-2",
+  "canonicalPath": "/geracao/regal-raptor/fenix-2/",
+  "titulo": "Geracao fenix-2",
+  "descricao": "2 veiculos da geracao fenix-2.",
+  "seo": {
+    "title": "Geracao fenix-2 - Precos FIPE",
+    "description": "Veiculos da geracao fenix-2 na Tabela FIPE.",
+    "h1": "Geracao fenix-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/regal-raptor/fenix-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "regal-raptor-fenix-gold-240-2011-gasolina",
+      "fipeCodigo": "872001-0",
+      "displayName": "REGAL RAPTOR FENIX GOLD 240",
+      "valorAtual": 7178,
+      "canonicalPath": "/fipe/regal-raptor/fenix-gold-240-2011-872001-0/",
+      "ano": 2011,
+      "marca": "REGAL RAPTOR"
+    },
+    {
+      "vehicleId": "regal-raptor-fenix-gold-240-2012-gasolina",
+      "fipeCodigo": "872001-0",
+      "displayName": "REGAL RAPTOR FENIX GOLD 240",
+      "valorAtual": 7952,
+      "canonicalPath": "/fipe/regal-raptor/fenix-gold-240-2012-872001-0/",
+      "ano": 2012,
+      "marca": "REGAL RAPTOR"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "fenix-2"
+  }
+}

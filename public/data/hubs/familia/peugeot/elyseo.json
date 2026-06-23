@@ -1,0 +1,42 @@
+{
+  "tipo": "familia",
+  "slug": "elyseo",
+  "canonicalPath": "/fipe/peugeot/elyseo/",
+  "titulo": "PEUGEOT elyseo - Tabela FIPE",
+  "descricao": "2 versoes e anos do PEUGEOT elyseo na Tabela FIPE.",
+  "seo": {
+    "title": "PEUGEOT elyseo - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes PEUGEOT elyseo. 2 veiculos indexados.",
+    "h1": "PEUGEOT elyseo - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/peugeot/elyseo/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "peugeot-elyseo-125-2000-gasolina",
+      "fipeCodigo": "821002-0",
+      "displayName": "PEUGEOT ELYSEO 125",
+      "valorAtual": 3412,
+      "canonicalPath": "/fipe/peugeot/elyseo-125-2000-821002-0/",
+      "ano": 2000,
+      "marca": "PEUGEOT"
+    },
+    {
+      "vehicleId": "peugeot-elyseo-125-1999-gasolina",
+      "fipeCodigo": "821002-0",
+      "displayName": "PEUGEOT ELYSEO 125",
+      "valorAtual": 2931,
+      "canonicalPath": "/fipe/peugeot/elyseo-125-1999-821002-0/",
+      "ano": 1999,
+      "marca": "PEUGEOT"
+    }
+  ],
+  "stats": {
+    "total": 2,
+    "precoMin": 2931,
+    "precoMax": 3412,
+    "anos": [
+      2000,
+      1999
+    ]
+  }
+}

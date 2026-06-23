@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "nascere-1",
+  "canonicalPath": "/geracao/bepobus/nascere-1/",
+  "titulo": "Geracao nascere-1",
+  "descricao": "2 veiculos da geracao nascere-1.",
+  "seo": {
+    "title": "Geracao nascere-1 - Precos FIPE",
+    "description": "Veiculos da geracao nascere-1 na Tabela FIPE.",
+    "h1": "Geracao nascere-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/bepobus/nascere-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "bepobus-nascere-rodoviario-diesel-e6-0-diesel",
+      "fipeCodigo": "531005-9",
+      "displayName": "BEPOBUS NÀSCERE RODOVIARIO (diesel)(E6)",
+      "valorAtual": 950016,
+      "canonicalPath": "/fipe/bepobus/nascere-rodoviario-diesel-e6-0-531005-9/",
+      "ano": 0,
+      "marca": "BEPOBUS"
+    },
+    {
+      "vehicleId": "bepobus-nascere-urbano-diesel-e6-0-diesel",
+      "fipeCodigo": "531004-0",
+      "displayName": "BEPOBUS NÀSCERE URBANO (diesel)(E6)",
+      "valorAtual": 800858,
+      "canonicalPath": "/fipe/bepobus/nascere-urbano-diesel-e6-0-531004-0/",
+      "ano": 0,
+      "marca": "BEPOBUS"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "nascere-1"
+  }
+}

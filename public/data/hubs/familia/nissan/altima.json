@@ -1,0 +1,80 @@
+{
+  "tipo": "familia",
+  "slug": "altima",
+  "canonicalPath": "/fipe/nissan/altima/",
+  "titulo": "Nissan altima - Tabela FIPE",
+  "descricao": "6 versoes e anos do Nissan altima na Tabela FIPE.",
+  "seo": {
+    "title": "Nissan altima - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes Nissan altima. 6 veiculos indexados.",
+    "h1": "Nissan altima - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/nissan/altima/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "nissan-altima-sl-2-5-16v-4p-aut-2014-gasolina",
+      "fipeCodigo": "023124-0",
+      "displayName": "Nissan ALTIMA SL 2.5 16V 4p Aut.",
+      "valorAtual": 62143,
+      "canonicalPath": "/fipe/nissan/altima-sl-2-5-16v-4p-aut-2014-023124-0/",
+      "ano": 2014,
+      "marca": "Nissan"
+    },
+    {
+      "vehicleId": "nissan-altima-se-2-4-16v-1995-gasolina",
+      "fipeCodigo": "023021-9",
+      "displayName": "Nissan Altima SE 2.4 16V",
+      "valorAtual": 8461,
+      "canonicalPath": "/fipe/nissan/altima-se-2-4-16v-1995-023021-9/",
+      "ano": 1995,
+      "marca": "Nissan"
+    },
+    {
+      "vehicleId": "nissan-altima-gxe-2-4-16v-1994-gasolina",
+      "fipeCodigo": "023020-0",
+      "displayName": "Nissan Altima GXE 2.4 16V",
+      "valorAtual": 6136,
+      "canonicalPath": "/fipe/nissan/altima-gxe-2-4-16v-1994-023020-0/",
+      "ano": 1994,
+      "marca": "Nissan"
+    },
+    {
+      "vehicleId": "nissan-altima-se-2-4-16v-1994-gasolina",
+      "fipeCodigo": "023021-9",
+      "displayName": "Nissan Altima SE 2.4 16V",
+      "valorAtual": 6715,
+      "canonicalPath": "/fipe/nissan/altima-se-2-4-16v-1994-023021-9/",
+      "ano": 1994,
+      "marca": "Nissan"
+    },
+    {
+      "vehicleId": "nissan-altima-gxe-2-4-16v-1993-gasolina",
+      "fipeCodigo": "023020-0",
+      "displayName": "Nissan Altima GXE 2.4 16V",
+      "valorAtual": 5509,
+      "canonicalPath": "/fipe/nissan/altima-gxe-2-4-16v-1993-023020-0/",
+      "ano": 1993,
+      "marca": "Nissan"
+    },
+    {
+      "vehicleId": "nissan-altima-se-2-4-16v-1993-gasolina",
+      "fipeCodigo": "023021-9",
+      "displayName": "Nissan Altima SE 2.4 16V",
+      "valorAtual": 5985,
+      "canonicalPath": "/fipe/nissan/altima-se-2-4-16v-1993-023021-9/",
+      "ano": 1993,
+      "marca": "Nissan"
+    }
+  ],
+  "stats": {
+    "total": 6,
+    "precoMin": 5509,
+    "precoMax": 62143,
+    "anos": [
+      2014,
+      1995,
+      1994,
+      1993
+    ]
+  }
+}

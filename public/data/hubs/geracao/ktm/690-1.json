@@ -1,0 +1,48 @@
+{
+  "tipo": "geracao",
+  "slug": "690-1",
+  "canonicalPath": "/geracao/ktm/690-1/",
+  "titulo": "Geracao 690-1",
+  "descricao": "3 veiculos da geracao 690-1.",
+  "seo": {
+    "title": "Geracao 690-1 - Precos FIPE",
+    "description": "Veiculos da geracao 690-1 na Tabela FIPE.",
+    "h1": "Geracao 690-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/ktm/690-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "ktm-690-enduro-enduro-r-2009-gasolina",
+      "fipeCodigo": "818028-8",
+      "displayName": "KTM 690 ENDURO /ENDURO R",
+      "valorAtual": 34312,
+      "canonicalPath": "/fipe/ktm/690-enduro-enduro-r-2009-818028-8/",
+      "ano": 2009,
+      "marca": "KTM"
+    },
+    {
+      "vehicleId": "ktm-690-enduro-enduro-r-2010-gasolina",
+      "fipeCodigo": "818028-8",
+      "displayName": "KTM 690 ENDURO /ENDURO R",
+      "valorAtual": 39097,
+      "canonicalPath": "/fipe/ktm/690-enduro-enduro-r-2010-818028-8/",
+      "ano": 2010,
+      "marca": "KTM"
+    },
+    {
+      "vehicleId": "ktm-690-enduro-enduro-r-2011-gasolina",
+      "fipeCodigo": "818028-8",
+      "displayName": "KTM 690 ENDURO /ENDURO R",
+      "valorAtual": 45125,
+      "canonicalPath": "/fipe/ktm/690-enduro-enduro-r-2011-818028-8/",
+      "ano": 2011,
+      "marca": "KTM"
+    }
+  ],
+  "stats": {
+    "total": 3
+  },
+  "meta": {
+    "geracaoId": "690-1"
+  }
+}

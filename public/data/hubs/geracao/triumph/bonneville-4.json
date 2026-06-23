@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "bonneville-4",
+  "canonicalPath": "/geracao/triumph/bonneville-4/",
+  "titulo": "Geracao bonneville-4",
+  "descricao": "2 veiculos da geracao bonneville-4.",
+  "seo": {
+    "title": "Geracao bonneville-4 - Precos FIPE",
+    "description": "Veiculos da geracao bonneville-4 na Tabela FIPE.",
+    "h1": "Geracao bonneville-4",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/triumph/bonneville-4/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "triumph-bonneville-750cc-790cc-865cc-2009-gasolina",
+      "fipeCodigo": "826021-4",
+      "displayName": "TRIUMPH BONNEVILLE 750cc/ 790cc / 865cc",
+      "valorAtual": 19813,
+      "canonicalPath": "/fipe/triumph/bonneville-750cc-790cc-865cc-2009-826021-4/",
+      "ano": 2009,
+      "marca": "TRIUMPH"
+    },
+    {
+      "vehicleId": "triumph-bonneville-750cc-790cc-865cc-2010-gasolina",
+      "fipeCodigo": "826021-4",
+      "displayName": "TRIUMPH BONNEVILLE 750cc/ 790cc / 865cc",
+      "valorAtual": 22903,
+      "canonicalPath": "/fipe/triumph/bonneville-750cc-790cc-865cc-2010-826021-4/",
+      "ano": 2010,
+      "marca": "TRIUMPH"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "bonneville-4"
+  }
+}

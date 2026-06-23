@@ -1,0 +1,57 @@
+{
+  "tipo": "geracao",
+  "slug": "gr125t3-1",
+  "canonicalPath": "/geracao/garinni/gr125t3-1/",
+  "titulo": "Geracao gr125t3-1",
+  "descricao": "4 veiculos da geracao gr125t3-1.",
+  "seo": {
+    "title": "Geracao gr125t3-1 - Precos FIPE",
+    "description": "Veiculos da geracao gr125t3-1 na Tabela FIPE.",
+    "h1": "Geracao gr125t3-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/garinni/gr125t3-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "garinni-gr125t3-2006-gasolina",
+      "fipeCodigo": "847003-0",
+      "displayName": "GARINNI GR125T3",
+      "valorAtual": 1975,
+      "canonicalPath": "/fipe/garinni/gr125t3-2006-847003-0/",
+      "ano": 2006,
+      "marca": "GARINNI"
+    },
+    {
+      "vehicleId": "garinni-gr125t3-2007-gasolina",
+      "fipeCodigo": "847003-0",
+      "displayName": "GARINNI GR125T3",
+      "valorAtual": 2293,
+      "canonicalPath": "/fipe/garinni/gr125t3-2007-847003-0/",
+      "ano": 2007,
+      "marca": "GARINNI"
+    },
+    {
+      "vehicleId": "garinni-gr125t3-2008-gasolina",
+      "fipeCodigo": "847003-0",
+      "displayName": "GARINNI GR125T3",
+      "valorAtual": 2564,
+      "canonicalPath": "/fipe/garinni/gr125t3-2008-847003-0/",
+      "ano": 2008,
+      "marca": "GARINNI"
+    },
+    {
+      "vehicleId": "garinni-gr125t3-2009-gasolina",
+      "fipeCodigo": "847003-0",
+      "displayName": "GARINNI GR125T3",
+      "valorAtual": 2630,
+      "canonicalPath": "/fipe/garinni/gr125t3-2009-847003-0/",
+      "ano": 2009,
+      "marca": "GARINNI"
+    }
+  ],
+  "stats": {
+    "total": 4
+  },
+  "meta": {
+    "geracaoId": "gr125t3-1"
+  }
+}

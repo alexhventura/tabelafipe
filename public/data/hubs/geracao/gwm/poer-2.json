@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "poer-2",
+  "canonicalPath": "/geracao/gwm/poer-2/",
+  "titulo": "Geracao poer-2",
+  "descricao": "2 veiculos da geracao poer-2.",
+  "seo": {
+    "title": "Geracao poer-2 - Precos FIPE",
+    "description": "Veiculos da geracao poer-2 na Tabela FIPE.",
+    "h1": "Geracao poer-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/gwm/poer-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "gwm-poer-p30-exclusive-2-4-16v-turbo-4x4-aut-2026-diesel",
+      "fipeCodigo": "096014-4",
+      "displayName": "GWM Poer P30 Exclusive 2.4 16V Turbo 4X4 Aut.",
+      "valorAtual": 221103,
+      "canonicalPath": "/fipe/gwm/poer-p30-exclusive-2-4-16v-turbo-4x4-aut-2026-096014-4/",
+      "ano": 2026,
+      "marca": "GWM"
+    },
+    {
+      "vehicleId": "gwm-poer-p30-trail-2-4-16v-turbo-4x4-aut-2026-diesel",
+      "fipeCodigo": "096013-6",
+      "displayName": "GWM Poer P30 Trail 2.4 16V Turbo 4X4 Aut.",
+      "valorAtual": 212994,
+      "canonicalPath": "/fipe/gwm/poer-p30-trail-2-4-16v-turbo-4x4-aut-2026-096013-6/",
+      "ano": 2026,
+      "marca": "GWM"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "poer-2"
+  }
+}

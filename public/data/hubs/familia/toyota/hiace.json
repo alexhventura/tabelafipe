@@ -1,0 +1,70 @@
+{
+  "tipo": "familia",
+  "slug": "hiace",
+  "canonicalPath": "/fipe/toyota/hiace/",
+  "titulo": "Toyota hiace - Tabela FIPE",
+  "descricao": "5 versoes e anos do Toyota hiace na Tabela FIPE.",
+  "seo": {
+    "title": "Toyota hiace - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes Toyota hiace. 5 veiculos indexados.",
+    "h1": "Toyota hiace - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/toyota/hiace/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "toyota-hiace-furgao-dx-2-8-tdi-aut-2026-diesel",
+      "fipeCodigo": "002227-6",
+      "displayName": "Toyota Hiace Furgão DX 2.8 TDI Aut.",
+      "valorAtual": 275916,
+      "canonicalPath": "/fipe/toyota/hiace-furgao-dx-2-8-tdi-aut-2026-002227-6/",
+      "ano": 2026,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-hiace-minibus-dx-2-8-tdi-16l-aut-2026-diesel",
+      "fipeCodigo": "002221-7",
+      "displayName": "Toyota Hiace Minibus DX 2.8 TDI 16L Aut.",
+      "valorAtual": 327125,
+      "canonicalPath": "/fipe/toyota/hiace-minibus-dx-2-8-tdi-16l-aut-2026-002221-7/",
+      "ano": 2026,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-hiace-minibus-dx-2-8-tdi-16l-aut-2025-diesel",
+      "fipeCodigo": "002221-7",
+      "displayName": "Toyota Hiace Minibus DX 2.8 TDI 16L Aut.",
+      "valorAtual": 316608,
+      "canonicalPath": "/fipe/toyota/hiace-minibus-dx-2-8-tdi-16l-aut-2025-002221-7/",
+      "ano": 2025,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-hiace-furgao-dx-2-8-tdi-aut-0-diesel",
+      "fipeCodigo": "002227-6",
+      "displayName": "Toyota Hiace Furgão DX 2.8 TDI Aut.",
+      "valorAtual": 304990,
+      "canonicalPath": "/fipe/toyota/hiace-furgao-dx-2-8-tdi-aut-0-002227-6/",
+      "ano": 0,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-hiace-minibus-dx-2-8-tdi-16l-aut-0-diesel",
+      "fipeCodigo": "002221-7",
+      "displayName": "Toyota Hiace Minibus DX 2.8 TDI 16L Aut.",
+      "valorAtual": 344990,
+      "canonicalPath": "/fipe/toyota/hiace-minibus-dx-2-8-tdi-16l-aut-0-002221-7/",
+      "ano": 0,
+      "marca": "Toyota"
+    }
+  ],
+  "stats": {
+    "total": 5,
+    "precoMin": 275916,
+    "precoMax": 344990,
+    "anos": [
+      2026,
+      2025,
+      0
+    ]
+  }
+}

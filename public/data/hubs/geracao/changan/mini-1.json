@@ -1,0 +1,111 @@
+{
+  "tipo": "geracao",
+  "slug": "mini-1",
+  "canonicalPath": "/geracao/changan/mini-1/",
+  "titulo": "Geracao mini-1",
+  "descricao": "10 veiculos da geracao mini-1.",
+  "seo": {
+    "title": "Geracao mini-1 - Precos FIPE",
+    "description": "Veiculos da geracao mini-1 na Tabela FIPE.",
+    "h1": "Geracao mini-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/changan/mini-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "changan-mini-star-cd-1-0-8v-53cv-pick-up-2012-gasolina",
+      "fipeCodigo": "081004-5",
+      "displayName": "CHANGAN MINI STAR CD 1.0 8V 53cv (Pick-Up)",
+      "valorAtual": 22932,
+      "canonicalPath": "/fipe/changan/mini-star-cd-1-0-8v-53cv-pick-up-2012-081004-5/",
+      "ano": 2012,
+      "marca": "CHANGAN"
+    },
+    {
+      "vehicleId": "changan-mini-star-ce-1-0-8v-53cv-pick-up-2011-gasolina",
+      "fipeCodigo": "081003-7",
+      "displayName": "CHANGAN MINI STAR CE 1.0 8V 53cv (Pick-Up)",
+      "valorAtual": 19066,
+      "canonicalPath": "/fipe/changan/mini-star-ce-1-0-8v-53cv-pick-up-2011-081003-7/",
+      "ano": 2011,
+      "marca": "CHANGAN"
+    },
+    {
+      "vehicleId": "changan-mini-star-ce-1-0-8v-53cv-pick-up-2012-gasolina",
+      "fipeCodigo": "081003-7",
+      "displayName": "CHANGAN MINI STAR CE 1.0 8V 53cv (Pick-Up)",
+      "valorAtual": 22264,
+      "canonicalPath": "/fipe/changan/mini-star-ce-1-0-8v-53cv-pick-up-2012-081003-7/",
+      "ano": 2012,
+      "marca": "CHANGAN"
+    },
+    {
+      "vehicleId": "changan-mini-star-cs-1-0-8v-53cv-pick-up-2011-gasolina",
+      "fipeCodigo": "081001-0",
+      "displayName": "CHANGAN MINI STAR CS 1.0 8V 53cv (Pick-Up)",
+      "valorAtual": 18534,
+      "canonicalPath": "/fipe/changan/mini-star-cs-1-0-8v-53cv-pick-up-2011-081001-0/",
+      "ano": 2011,
+      "marca": "CHANGAN"
+    },
+    {
+      "vehicleId": "changan-mini-star-cs-1-0-8v-53cv-pick-up-2012-gasolina",
+      "fipeCodigo": "081001-0",
+      "displayName": "CHANGAN MINI STAR CS 1.0 8V 53cv (Pick-Up)",
+      "valorAtual": 19015,
+      "canonicalPath": "/fipe/changan/mini-star-cs-1-0-8v-53cv-pick-up-2012-081001-0/",
+      "ano": 2012,
+      "marca": "CHANGAN"
+    },
+    {
+      "vehicleId": "changan-mini-star-csb-1-0-8v-53cv-pick-up-bau-2012-gasolina",
+      "fipeCodigo": "081002-9",
+      "displayName": "CHANGAN MINI STAR CSB 1.0 8V 53cv (Pick-Up Báu)",
+      "valorAtual": 25299,
+      "canonicalPath": "/fipe/changan/mini-star-csb-1-0-8v-53cv-pick-up-bau-2012-081002-9/",
+      "ano": 2012,
+      "marca": "CHANGAN"
+    },
+    {
+      "vehicleId": "changan-mini-star-family-1-0-8v-53cv-minivan-2012-gasolina",
+      "fipeCodigo": "081006-1",
+      "displayName": "CHANGAN MINI STAR Family 1.0 8V 53cv (MiniVan)",
+      "valorAtual": 18929,
+      "canonicalPath": "/fipe/changan/mini-star-family-1-0-8v-53cv-minivan-2012-081006-1/",
+      "ano": 2012,
+      "marca": "CHANGAN"
+    },
+    {
+      "vehicleId": "changan-mini-star-utility-1-0-8v-53cv-furgao-2012-gasolina",
+      "fipeCodigo": "081005-3",
+      "displayName": "CHANGAN MINI STAR Utility 1.0 8V 53cv (Furgão)",
+      "valorAtual": 17826,
+      "canonicalPath": "/fipe/changan/mini-star-utility-1-0-8v-53cv-furgao-2012-081005-3/",
+      "ano": 2012,
+      "marca": "CHANGAN"
+    },
+    {
+      "vehicleId": "rover-mini-cooper-1-3-1992-gasolina",
+      "fipeCodigo": "052001-2",
+      "displayName": "Rover Mini Cooper 1.3",
+      "valorAtual": 18394,
+      "canonicalPath": "/fipe/rover/mini-cooper-1-3-1992-052001-2/",
+      "ano": 1992,
+      "marca": "Rover"
+    },
+    {
+      "vehicleId": "rover-mini-cooper-1-3-1993-gasolina",
+      "fipeCodigo": "052001-2",
+      "displayName": "Rover Mini Cooper 1.3",
+      "valorAtual": 21127,
+      "canonicalPath": "/fipe/rover/mini-cooper-1-3-1993-052001-2/",
+      "ano": 1993,
+      "marca": "Rover"
+    }
+  ],
+  "stats": {
+    "total": 10
+  },
+  "meta": {
+    "geracaoId": "mini-1"
+  }
+}

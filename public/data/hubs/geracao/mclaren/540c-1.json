@@ -1,0 +1,48 @@
+{
+  "tipo": "geracao",
+  "slug": "540c-1",
+  "canonicalPath": "/geracao/mclaren/540c-1/",
+  "titulo": "Geracao 540c-1",
+  "descricao": "3 veiculos da geracao 540c-1.",
+  "seo": {
+    "title": "Geracao 540c-1 - Precos FIPE",
+    "description": "Veiculos da geracao 540c-1 na Tabela FIPE.",
+    "h1": "Geracao 540c-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/mclaren/540c-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "mclaren-540c-coupe-3-8-bi-turbo-v8-2018-gasolina",
+      "fipeCodigo": "090001-0",
+      "displayName": "Mclaren 540C Coupe 3.8 Bi-Turbo V8",
+      "valorAtual": 1815492,
+      "canonicalPath": "/fipe/mclaren/540c-coupe-3-8-bi-turbo-v8-2018-090001-0/",
+      "ano": 2018,
+      "marca": "Mclaren"
+    },
+    {
+      "vehicleId": "mclaren-540c-coupe-3-8-bi-turbo-v8-2019-gasolina",
+      "fipeCodigo": "090001-0",
+      "displayName": "Mclaren 540C Coupe 3.8 Bi-Turbo V8",
+      "valorAtual": 1943284,
+      "canonicalPath": "/fipe/mclaren/540c-coupe-3-8-bi-turbo-v8-2019-090001-0/",
+      "ano": 2019,
+      "marca": "Mclaren"
+    },
+    {
+      "vehicleId": "mclaren-540c-coupe-3-8-bi-turbo-v8-2020-gasolina",
+      "fipeCodigo": "090001-0",
+      "displayName": "Mclaren 540C Coupe 3.8 Bi-Turbo V8",
+      "valorAtual": 2277808,
+      "canonicalPath": "/fipe/mclaren/540c-coupe-3-8-bi-turbo-v8-2020-090001-0/",
+      "ano": 2020,
+      "marca": "Mclaren"
+    }
+  ],
+  "stats": {
+    "total": 3
+  },
+  "meta": {
+    "geracaoId": "540c-1"
+  }
+}

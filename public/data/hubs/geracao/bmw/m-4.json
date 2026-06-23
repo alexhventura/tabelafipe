@@ -1,0 +1,48 @@
+{
+  "tipo": "geracao",
+  "slug": "m-4",
+  "canonicalPath": "/geracao/bmw/m-4/",
+  "titulo": "Geracao m-4",
+  "descricao": "3 veiculos da geracao m-4.",
+  "seo": {
+    "title": "Geracao m-4 - Precos FIPE",
+    "description": "Veiculos da geracao m-4 na Tabela FIPE.",
+    "h1": "Geracao m-4",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/bmw/m-4/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "bmw-m-135i-xdrive-2-0-tb-aut-2020-gasolina",
+      "fipeCodigo": "009261-4",
+      "displayName": "BMW M 135i XDRIVE 2.0 TB Aut.",
+      "valorAtual": 236449,
+      "canonicalPath": "/fipe/bmw/m-135i-xdrive-2-0-tb-aut-2020-009261-4/",
+      "ano": 2020,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-m-135i-xdrive-2-0-tb-aut-2021-gasolina",
+      "fipeCodigo": "009261-4",
+      "displayName": "BMW M 135i XDRIVE 2.0 TB Aut.",
+      "valorAtual": 245431,
+      "canonicalPath": "/fipe/bmw/m-135i-xdrive-2-0-tb-aut-2021-009261-4/",
+      "ano": 2021,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-m-135i-xdrive-2-0-tb-aut-2022-gasolina",
+      "fipeCodigo": "009261-4",
+      "displayName": "BMW M 135i XDRIVE 2.0 TB Aut.",
+      "valorAtual": 255172,
+      "canonicalPath": "/fipe/bmw/m-135i-xdrive-2-0-tb-aut-2022-009261-4/",
+      "ano": 2022,
+      "marca": "BMW"
+    }
+  ],
+  "stats": {
+    "total": 3
+  },
+  "meta": {
+    "geracaoId": "m-4"
+  }
+}

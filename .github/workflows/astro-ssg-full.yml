@@ -1,0 +1,63 @@
+name: Astro SSG Full Build
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - 'astro-ssg/**'
+      - 'public/data/bundles/**'
+      - 'public/data/hubs/**'
+      - 'public/data/vehicle-url-map.json'
+      - 'scripts/ssg/**'
+
+jobs:
+  ssg-full:
+    runs-on: ubuntu-latest
+    timeout-minutes: 240
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+          cache: npm
+
+      - name: Install root dependencies
+        run: npm ci
+
+      - name: Install astro-ssg dependencies
+        run: npm ci
+        working-directory: astro-ssg
+
+      - name: Build full static site
+        run: npm run ssg:astro:full
+        env:
+          NODE_OPTIONS: '--max-old-space-size=8192'
+
+      - name: Upload build audit
+        uses: actions/upload-artifact@v4
+        with:
+          name: astro-build-audit
+          path: |
+            data/reports/astro-build-audit.json
+            data/reports/astro-sitemap-report.json
+          retention-days: 30
+
+      - name: Upload static dist
+        uses: actions/upload-artifact@v4
+        with:
+          name: astro-ssg-dist
+          path: astro-ssg/dist/
+          retention-days: 7
+
+      - name: Validate build metrics
+        run: |
+          node -e "
+          const r = require('./data/reports/astro-build-audit.json');
+          const m = r.metricas;
+          console.log(JSON.stringify(m, null, 2));
+          if (m.htmlGerados < 50000) throw new Error('HTML count below 50k: ' + m.htmlGerados);
+          if (m.sitemapTotal < 50000) throw new Error('Sitemap URLs below 50k: ' + m.sitemapTotal);
+          "

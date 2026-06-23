@@ -1,0 +1,48 @@
+{
+  "tipo": "geracao",
+  "slug": "t6-1",
+  "canonicalPath": "/geracao/jac/t6-1/",
+  "titulo": "Geracao t6-1",
+  "descricao": "3 veiculos da geracao t6-1.",
+  "seo": {
+    "title": "Geracao t6-1 - Precos FIPE",
+    "description": "Veiculos da geracao t6-1 na Tabela FIPE.",
+    "h1": "Geracao t6-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/jac/t6-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "jac-t6-2-0-jet-flex-5p-mec-2014-flex",
+      "fipeCodigo": "080013-9",
+      "displayName": "JAC T6 2.0 JET Flex 5p Mec.",
+      "valorAtual": 38088,
+      "canonicalPath": "/fipe/jac/t6-2-0-jet-flex-5p-mec-2014-080013-9/",
+      "ano": 2014,
+      "marca": "JAC"
+    },
+    {
+      "vehicleId": "jac-t6-2-0-jet-flex-5p-mec-2015-flex",
+      "fipeCodigo": "080013-9",
+      "displayName": "JAC T6 2.0 JET Flex 5p Mec.",
+      "valorAtual": 39041,
+      "canonicalPath": "/fipe/jac/t6-2-0-jet-flex-5p-mec-2015-080013-9/",
+      "ano": 2015,
+      "marca": "JAC"
+    },
+    {
+      "vehicleId": "jac-t6-2-0-jet-flex-5p-mec-2016-flex",
+      "fipeCodigo": "080013-9",
+      "displayName": "JAC T6 2.0 JET Flex 5p Mec.",
+      "valorAtual": 45143,
+      "canonicalPath": "/fipe/jac/t6-2-0-jet-flex-5p-mec-2016-080013-9/",
+      "ano": 2016,
+      "marca": "JAC"
+    }
+  ],
+  "stats": {
+    "total": 3
+  },
+  "meta": {
+    "geracaoId": "t6-1"
+  }
+}

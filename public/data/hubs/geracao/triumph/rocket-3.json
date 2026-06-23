@@ -1,0 +1,84 @@
+{
+  "tipo": "geracao",
+  "slug": "rocket-3",
+  "canonicalPath": "/geracao/triumph/rocket-3/",
+  "titulo": "Geracao rocket-3",
+  "descricao": "7 veiculos da geracao rocket-3.",
+  "seo": {
+    "title": "Geracao rocket-3 - Precos FIPE",
+    "description": "Veiculos da geracao rocket-3 na Tabela FIPE.",
+    "h1": "Geracao rocket-3",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/triumph/rocket-3/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "triumph-rocket-iii-roadster-2300cc-2011-gasolina",
+      "fipeCodigo": "826038-9",
+      "displayName": "TRIUMPH ROCKET III ROADSTER 2300cc",
+      "valorAtual": 48418,
+      "canonicalPath": "/fipe/triumph/rocket-iii-roadster-2300cc-2011-826038-9/",
+      "ano": 2011,
+      "marca": "TRIUMPH"
+    },
+    {
+      "vehicleId": "triumph-rocket-iii-roadster-2300cc-2012-gasolina",
+      "fipeCodigo": "826038-9",
+      "displayName": "TRIUMPH ROCKET III ROADSTER 2300cc",
+      "valorAtual": 53076,
+      "canonicalPath": "/fipe/triumph/rocket-iii-roadster-2300cc-2012-826038-9/",
+      "ano": 2012,
+      "marca": "TRIUMPH"
+    },
+    {
+      "vehicleId": "triumph-rocket-iii-roadster-2300cc-2013-gasolina",
+      "fipeCodigo": "826038-9",
+      "displayName": "TRIUMPH ROCKET III ROADSTER 2300cc",
+      "valorAtual": 64505,
+      "canonicalPath": "/fipe/triumph/rocket-iii-roadster-2300cc-2013-826038-9/",
+      "ano": 2013,
+      "marca": "TRIUMPH"
+    },
+    {
+      "vehicleId": "triumph-rocket-iii-roadster-2300cc-2014-gasolina",
+      "fipeCodigo": "826038-9",
+      "displayName": "TRIUMPH ROCKET III ROADSTER 2300cc",
+      "valorAtual": 66118,
+      "canonicalPath": "/fipe/triumph/rocket-iii-roadster-2300cc-2014-826038-9/",
+      "ano": 2014,
+      "marca": "TRIUMPH"
+    },
+    {
+      "vehicleId": "triumph-rocket-iii-roadster-2300cc-2015-gasolina",
+      "fipeCodigo": "826038-9",
+      "displayName": "TRIUMPH ROCKET III ROADSTER 2300cc",
+      "valorAtual": 67771,
+      "canonicalPath": "/fipe/triumph/rocket-iii-roadster-2300cc-2015-826038-9/",
+      "ano": 2015,
+      "marca": "TRIUMPH"
+    },
+    {
+      "vehicleId": "triumph-rocket-iii-roadster-2300cc-2016-gasolina",
+      "fipeCodigo": "826038-9",
+      "displayName": "TRIUMPH ROCKET III ROADSTER 2300cc",
+      "valorAtual": 69466,
+      "canonicalPath": "/fipe/triumph/rocket-iii-roadster-2300cc-2016-826038-9/",
+      "ano": 2016,
+      "marca": "TRIUMPH"
+    },
+    {
+      "vehicleId": "triumph-rocket-iii-roadster-2300cc-2017-gasolina",
+      "fipeCodigo": "826038-9",
+      "displayName": "TRIUMPH ROCKET III ROADSTER 2300cc",
+      "valorAtual": 72604,
+      "canonicalPath": "/fipe/triumph/rocket-iii-roadster-2300cc-2017-826038-9/",
+      "ano": 2017,
+      "marca": "TRIUMPH"
+    }
+  ],
+  "stats": {
+    "total": 7
+  },
+  "meta": {
+    "geracaoId": "rocket-3"
+  }
+}

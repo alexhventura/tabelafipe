@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "trekker-1",
+  "canonicalPath": "/geracao/peugeot/trekker-1/",
+  "titulo": "Geracao trekker-1",
+  "descricao": "2 veiculos da geracao trekker-1.",
+  "seo": {
+    "title": "Geracao trekker-1 - Precos FIPE",
+    "description": "Veiculos da geracao trekker-1 na Tabela FIPE.",
+    "h1": "Geracao trekker-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/peugeot/trekker-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "peugeot-trekker-100-1999-gasolina",
+      "fipeCodigo": "821009-8",
+      "displayName": "PEUGEOT TREKKER 100",
+      "valorAtual": 2265,
+      "canonicalPath": "/fipe/peugeot/trekker-100-1999-821009-8/",
+      "ano": 1999,
+      "marca": "PEUGEOT"
+    },
+    {
+      "vehicleId": "peugeot-trekker-100-2000-gasolina",
+      "fipeCodigo": "821009-8",
+      "displayName": "PEUGEOT TREKKER 100",
+      "valorAtual": 2384,
+      "canonicalPath": "/fipe/peugeot/trekker-100-2000-821009-8/",
+      "ano": 2000,
+      "marca": "PEUGEOT"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "trekker-1"
+  }
+}

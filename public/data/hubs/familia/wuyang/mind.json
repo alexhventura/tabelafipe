@@ -1,0 +1,72 @@
+{
+  "tipo": "familia",
+  "slug": "mind",
+  "canonicalPath": "/fipe/wuyang/mind/",
+  "titulo": "WUYANG mind - Tabela FIPE",
+  "descricao": "5 versoes e anos do WUYANG mind na Tabela FIPE.",
+  "seo": {
+    "title": "WUYANG mind - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes WUYANG mind. 5 veiculos indexados.",
+    "h1": "WUYANG mind - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/wuyang/mind/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "wuyang-mind-x50q-2020-gasolina",
+      "fipeCodigo": "851006-7",
+      "displayName": "WUYANG MIND X50q",
+      "valorAtual": 7118,
+      "canonicalPath": "/fipe/wuyang/mind-x50q-2020-851006-7/",
+      "ano": 2020,
+      "marca": "WUYANG"
+    },
+    {
+      "vehicleId": "wuyang-mind-x50q-2019-gasolina",
+      "fipeCodigo": "851006-7",
+      "displayName": "WUYANG MIND X50q",
+      "valorAtual": 6166,
+      "canonicalPath": "/fipe/wuyang/mind-x50q-2019-851006-7/",
+      "ano": 2019,
+      "marca": "WUYANG"
+    },
+    {
+      "vehicleId": "wuyang-mind-x50q-2018-gasolina",
+      "fipeCodigo": "851006-7",
+      "displayName": "WUYANG MIND X50q",
+      "valorAtual": 4675,
+      "canonicalPath": "/fipe/wuyang/mind-x50q-2018-851006-7/",
+      "ano": 2018,
+      "marca": "WUYANG"
+    },
+    {
+      "vehicleId": "wuyang-mind-x50q-2017-gasolina",
+      "fipeCodigo": "851006-7",
+      "displayName": "WUYANG MIND X50q",
+      "valorAtual": 4514,
+      "canonicalPath": "/fipe/wuyang/mind-x50q-2017-851006-7/",
+      "ano": 2017,
+      "marca": "WUYANG"
+    },
+    {
+      "vehicleId": "wuyang-mind-x50q-2016-gasolina",
+      "fipeCodigo": "851006-7",
+      "displayName": "WUYANG MIND X50q",
+      "valorAtual": 4333,
+      "canonicalPath": "/fipe/wuyang/mind-x50q-2016-851006-7/",
+      "ano": 2016,
+      "marca": "WUYANG"
+    }
+  ],
+  "stats": {
+    "total": 5,
+    "precoMin": 4333,
+    "precoMax": 7118,
+    "anos": [
+      2020,
+      2019,
+      2018,
+      2017,
+      2016
+    ]
+  }
+}

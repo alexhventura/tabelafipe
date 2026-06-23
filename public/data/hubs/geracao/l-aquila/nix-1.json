@@ -1,0 +1,48 @@
+{
+  "tipo": "geracao",
+  "slug": "nix-1",
+  "canonicalPath": "/geracao/l-aquila/nix-1/",
+  "titulo": "Geracao nix-1",
+  "descricao": "3 veiculos da geracao nix-1.",
+  "seo": {
+    "title": "Geracao nix-1 - Precos FIPE",
+    "description": "Veiculos da geracao nix-1 na Tabela FIPE.",
+    "h1": "Geracao nix-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/l-aquila/nix-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "l-aquila-nix-50-1999-gasolina",
+      "fipeCodigo": "819004-6",
+      "displayName": "L'AQUILA NIX 50",
+      "valorAtual": 1563,
+      "canonicalPath": "/fipe/l-aquila/nix-50-1999-819004-6/",
+      "ano": 1999,
+      "marca": "L'AQUILA"
+    },
+    {
+      "vehicleId": "l-aquila-nix-50-2000-gasolina",
+      "fipeCodigo": "819004-6",
+      "displayName": "L'AQUILA NIX 50",
+      "valorAtual": 1778,
+      "canonicalPath": "/fipe/l-aquila/nix-50-2000-819004-6/",
+      "ano": 2000,
+      "marca": "L'AQUILA"
+    },
+    {
+      "vehicleId": "l-aquila-nix-50-2001-gasolina",
+      "fipeCodigo": "819004-6",
+      "displayName": "L'AQUILA NIX 50",
+      "valorAtual": 2054,
+      "canonicalPath": "/fipe/l-aquila/nix-50-2001-819004-6/",
+      "ano": 2001,
+      "marca": "L'AQUILA"
+    }
+  ],
+  "stats": {
+    "total": 3
+  },
+  "meta": {
+    "geracaoId": "nix-1"
+  }
+}

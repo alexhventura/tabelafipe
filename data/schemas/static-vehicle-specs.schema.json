@@ -1,0 +1,309 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://consulta-tabela-fipe.local/schemas/static-vehicle-specs.schema.json",
+  "title": "StaticVehicleSpecs",
+  "description": "Registro estatico (camada permanente) de specs tecnicas por vehicle_id.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "vehicleId",
+    "marca",
+    "modelo",
+    "ano",
+    "specs",
+    "metadata"
+  ],
+  "properties": {
+    "vehicleId": {
+      "type": "string",
+      "minLength": 1
+    },
+    "marca": {
+      "type": "string"
+    },
+    "modelo": {
+      "type": "string"
+    },
+    "ano": {
+      "type": "integer"
+    },
+    "specs": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "potencia": {
+          "type": "object",
+          "properties": {
+            "valor": {
+              "type": [
+                "number",
+                "null"
+              ]
+            },
+            "unidade": {
+              "type": [
+                "string",
+                "null"
+              ],
+              "enum": [
+                "cv",
+                "hp",
+                "kW",
+                null
+              ]
+            },
+            "fonte": {
+              "type": [
+                "string",
+                "null"
+              ]
+            }
+          }
+        },
+        "torque": {
+          "type": "object",
+          "properties": {
+            "valor": {
+              "type": [
+                "number",
+                "null"
+              ]
+            },
+            "unidade": {
+              "type": [
+                "string",
+                "null"
+              ],
+              "enum": [
+                "Nm",
+                "kgfm",
+                "lbft",
+                null
+              ]
+            },
+            "fonte": {
+              "type": [
+                "string",
+                "null"
+              ]
+            }
+          }
+        },
+        "cilindrada": {
+          "type": "object",
+          "properties": {
+            "valor": {
+              "type": [
+                "number",
+                "null"
+              ]
+            },
+            "unidade": {
+              "type": [
+                "string",
+                "null"
+              ],
+              "enum": [
+                "cc",
+                "L",
+                null
+              ]
+            }
+          }
+        },
+        "consumo": {
+          "type": "object",
+          "properties": {
+            "cidadeG": {
+              "type": [
+                "number",
+                "null"
+              ]
+            },
+            "cidadeE": {
+              "type": [
+                "number",
+                "null"
+              ]
+            },
+            "estradaG": {
+              "type": [
+                "number",
+                "null"
+              ]
+            },
+            "estradaE": {
+              "type": [
+                "number",
+                "null"
+              ]
+            },
+            "unidade": {
+              "type": [
+                "string",
+                "null"
+              ],
+              "enum": [
+                "km/l",
+                null
+              ]
+            },
+            "fonte": {
+              "type": [
+                "string",
+                "null"
+              ]
+            }
+          }
+        },
+        "classificacaoEnergetica": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "cambio": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "peso": {
+          "type": "object",
+          "properties": {
+            "valor": {
+              "type": [
+                "number",
+                "null"
+              ]
+            },
+            "unidade": {
+              "type": [
+                "string",
+                "null"
+              ],
+              "enum": [
+                "kg",
+                null
+              ]
+            }
+          }
+        },
+        "dimensoes": {
+          "type": "object",
+          "properties": {
+            "comprimento": {
+              "type": [
+                "number",
+                "null"
+              ]
+            },
+            "largura": {
+              "type": [
+                "number",
+                "null"
+              ]
+            },
+            "altura": {
+              "type": [
+                "number",
+                "null"
+              ]
+            },
+            "unidade": {
+              "type": [
+                "string",
+                "null"
+              ],
+              "enum": [
+                "mm",
+                null
+              ]
+            }
+          }
+        },
+        "portaMalas": {
+          "type": "object",
+          "properties": {
+            "valor": {
+              "type": [
+                "number",
+                "null"
+              ]
+            },
+            "unidade": {
+              "type": [
+                "string",
+                "null"
+              ],
+              "enum": [
+                "L",
+                null
+              ]
+            }
+          }
+        },
+        "tanque": {
+          "type": "object",
+          "properties": {
+            "valor": {
+              "type": [
+                "number",
+                "null"
+              ]
+            },
+            "unidade": {
+              "type": [
+                "string",
+                "null"
+              ],
+              "enum": [
+                "L",
+                null
+              ]
+            }
+          }
+        }
+      }
+    },
+    "attributions": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "source": {
+            "type": "string"
+          },
+          "field": {
+            "type": "string"
+          },
+          "confidence": {
+            "type": "string"
+          }
+        }
+      }
+    },
+    "metadata": {
+      "type": "object",
+      "required": [
+        "capturedAt",
+        "pipelineVersion"
+      ],
+      "properties": {
+        "capturedAt": {
+          "type": "string",
+          "format": "date-time"
+        },
+        "pipelineVersion": {
+          "type": "integer"
+        },
+        "sources": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        }
+      }
+    }
+  }
+}

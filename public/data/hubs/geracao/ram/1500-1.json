@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "1500-1",
+  "canonicalPath": "/geracao/ram/1500-1/",
+  "titulo": "Geracao 1500-1",
+  "descricao": "2 veiculos da geracao 1500-1.",
+  "seo": {
+    "title": "Geracao 1500-1 - Precos FIPE",
+    "description": "Veiculos da geracao 1500-1 na Tabela FIPE.",
+    "h1": "Geracao 1500-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/ram/1500-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "ram-1500-laram-night-ed-bi-tb-3-0-4x4-aut-0-gasolina",
+      "fipeCodigo": "083024-0",
+      "displayName": "RAM 1500 LARAM. NIGHT ED. BI-TB 3.0 4x4 Aut.",
+      "valorAtual": 602066,
+      "canonicalPath": "/fipe/ram/1500-laram-night-ed-bi-tb-3-0-4x4-aut-0-083024-0/",
+      "ano": 0,
+      "marca": "RAM"
+    },
+    {
+      "vehicleId": "ram-1500-laramie-3-0-cd-bi-tb-4x4-aut-0-gasolina",
+      "fipeCodigo": "083025-9",
+      "displayName": "RAM 1500 LARAMIE 3.0 CD BI-TB 4x4 Aut.",
+      "valorAtual": 585363,
+      "canonicalPath": "/fipe/ram/1500-laramie-3-0-cd-bi-tb-4x4-aut-0-083025-9/",
+      "ano": 0,
+      "marca": "RAM"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "1500-1"
+  }
+}

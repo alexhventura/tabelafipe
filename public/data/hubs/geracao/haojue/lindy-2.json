@@ -1,0 +1,102 @@
+{
+  "tipo": "geracao",
+  "slug": "lindy-2",
+  "canonicalPath": "/geracao/haojue/lindy-2/",
+  "titulo": "Geracao lindy-2",
+  "descricao": "9 veiculos da geracao lindy-2.",
+  "seo": {
+    "title": "Geracao lindy-2 - Precos FIPE",
+    "description": "Veiculos da geracao lindy-2 na Tabela FIPE.",
+    "h1": "Geracao lindy-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/haojue/lindy-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "haojue-lindy-125-2017-gasolina",
+      "fipeCodigo": "885001-1",
+      "displayName": "HAOJUE LINDY 125",
+      "valorAtual": 7768,
+      "canonicalPath": "/fipe/haojue/lindy-125-2017-885001-1/",
+      "ano": 2017,
+      "marca": "HAOJUE"
+    },
+    {
+      "vehicleId": "haojue-lindy-125-2018-gasolina",
+      "fipeCodigo": "885001-1",
+      "displayName": "HAOJUE LINDY 125",
+      "valorAtual": 8749,
+      "canonicalPath": "/fipe/haojue/lindy-125-2018-885001-1/",
+      "ano": 2018,
+      "marca": "HAOJUE"
+    },
+    {
+      "vehicleId": "haojue-lindy-125-2019-gasolina",
+      "fipeCodigo": "885001-1",
+      "displayName": "HAOJUE LINDY 125",
+      "valorAtual": 8968,
+      "canonicalPath": "/fipe/haojue/lindy-125-2019-885001-1/",
+      "ano": 2019,
+      "marca": "HAOJUE"
+    },
+    {
+      "vehicleId": "haojue-lindy-125-2020-gasolina",
+      "fipeCodigo": "885001-1",
+      "displayName": "HAOJUE LINDY 125",
+      "valorAtual": 9193,
+      "canonicalPath": "/fipe/haojue/lindy-125-2020-885001-1/",
+      "ano": 2020,
+      "marca": "HAOJUE"
+    },
+    {
+      "vehicleId": "haojue-lindy-125-2021-gasolina",
+      "fipeCodigo": "885001-1",
+      "displayName": "HAOJUE LINDY 125",
+      "valorAtual": 9423,
+      "canonicalPath": "/fipe/haojue/lindy-125-2021-885001-1/",
+      "ano": 2021,
+      "marca": "HAOJUE"
+    },
+    {
+      "vehicleId": "haojue-lindy-125-2022-gasolina",
+      "fipeCodigo": "885001-1",
+      "displayName": "HAOJUE LINDY 125",
+      "valorAtual": 10660,
+      "canonicalPath": "/fipe/haojue/lindy-125-2022-885001-1/",
+      "ano": 2022,
+      "marca": "HAOJUE"
+    },
+    {
+      "vehicleId": "haojue-lindy-125-2023-gasolina",
+      "fipeCodigo": "885001-1",
+      "displayName": "HAOJUE LINDY 125",
+      "valorAtual": 11084,
+      "canonicalPath": "/fipe/haojue/lindy-125-2023-885001-1/",
+      "ano": 2023,
+      "marca": "HAOJUE"
+    },
+    {
+      "vehicleId": "haojue-lindy-125-2024-gasolina",
+      "fipeCodigo": "885001-1",
+      "displayName": "HAOJUE LINDY 125",
+      "valorAtual": 11438,
+      "canonicalPath": "/fipe/haojue/lindy-125-2024-885001-1/",
+      "ano": 2024,
+      "marca": "HAOJUE"
+    },
+    {
+      "vehicleId": "haojue-lindy-125-2025-gasolina",
+      "fipeCodigo": "885001-1",
+      "displayName": "HAOJUE LINDY 125",
+      "valorAtual": 12447,
+      "canonicalPath": "/fipe/haojue/lindy-125-2025-885001-1/",
+      "ano": 2025,
+      "marca": "HAOJUE"
+    }
+  ],
+  "stats": {
+    "total": 9
+  },
+  "meta": {
+    "geracaoId": "lindy-2"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "tipo": "geracao",
+  "slug": "auman-2",
+  "canonicalPath": "/geracao/foton/auman-2/",
+  "titulo": "Geracao auman-2",
+  "descricao": "4 veiculos da geracao auman-2.",
+  "seo": {
+    "title": "Geracao auman-2 - Precos FIPE",
+    "description": "Veiculos da geracao auman-2 na Tabela FIPE.",
+    "h1": "Geracao auman-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/foton/auman-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "foton-auman-d-1722-4x2-diesel-e6-2025-diesel",
+      "fipeCodigo": "526014-0",
+      "displayName": "FOTON AUMAN D 1722 4x2 (diesel) (E6)",
+      "valorAtual": 350503,
+      "canonicalPath": "/fipe/foton/auman-d-1722-4x2-diesel-e6-2025-526014-0/",
+      "ano": 2025,
+      "marca": "FOTON"
+    },
+    {
+      "vehicleId": "foton-auman-d-1722-4x2-diesel-e6-2026-diesel",
+      "fipeCodigo": "526014-0",
+      "displayName": "FOTON AUMAN D 1722 4x2 (diesel) (E6)",
+      "valorAtual": 383112,
+      "canonicalPath": "/fipe/foton/auman-d-1722-4x2-diesel-e6-2026-526014-0/",
+      "ano": 2026,
+      "marca": "FOTON"
+    },
+    {
+      "vehicleId": "foton-auman-d-1722l-4x2-diesel-e6-2025-diesel",
+      "fipeCodigo": "526013-2",
+      "displayName": "FOTON AUMAN D 1722L 4x2 (diesel) (E6)",
+      "valorAtual": 374401,
+      "canonicalPath": "/fipe/foton/auman-d-1722l-4x2-diesel-e6-2025-526013-2/",
+      "ano": 2025,
+      "marca": "FOTON"
+    },
+    {
+      "vehicleId": "foton-auman-d-1722l-4x2-diesel-e6-2026-diesel",
+      "fipeCodigo": "526013-2",
+      "displayName": "FOTON AUMAN D 1722L 4x2 (diesel) (E6)",
+      "valorAtual": 385572,
+      "canonicalPath": "/fipe/foton/auman-d-1722l-4x2-diesel-e6-2026-526013-2/",
+      "ano": 2026,
+      "marca": "FOTON"
+    }
+  ],
+  "stats": {
+    "total": 4
+  },
+  "meta": {
+    "geracaoId": "auman-2"
+  }
+}

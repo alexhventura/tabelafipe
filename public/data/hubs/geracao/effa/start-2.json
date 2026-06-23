@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "start-2",
+  "canonicalPath": "/geracao/effa/start-2/",
+  "titulo": "Geracao start-2",
+  "descricao": "2 veiculos da geracao start-2.",
+  "seo": {
+    "title": "Geracao start-2 - Precos FIPE",
+    "description": "Veiculos da geracao start-2 na Tabela FIPE.",
+    "h1": "Geracao start-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/effa/start-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "effa-start-picape-cd-1-0-8v-5p-2014-gasolina",
+      "fipeCodigo": "066010-8",
+      "displayName": "EFFA Start Picape CD 1.0 8V 5p",
+      "valorAtual": 24031,
+      "canonicalPath": "/fipe/effa/start-picape-cd-1-0-8v-5p-2014-066010-8/",
+      "ano": 2014,
+      "marca": "EFFA"
+    },
+    {
+      "vehicleId": "effa-start-picape-l-1-0-8v-2p-2014-gasolina",
+      "fipeCodigo": "066008-6",
+      "displayName": "EFFA Start Picape L 1.0 8V 2p",
+      "valorAtual": 23647,
+      "canonicalPath": "/fipe/effa/start-picape-l-1-0-8v-2p-2014-066008-6/",
+      "ano": 2014,
+      "marca": "EFFA"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "start-2"
+  }
+}

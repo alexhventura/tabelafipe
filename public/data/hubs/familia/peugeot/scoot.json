@@ -1,0 +1,42 @@
+{
+  "tipo": "familia",
+  "slug": "scoot",
+  "canonicalPath": "/fipe/peugeot/scoot/",
+  "titulo": "PEUGEOT scoot - Tabela FIPE",
+  "descricao": "2 versoes e anos do PEUGEOT scoot na Tabela FIPE.",
+  "seo": {
+    "title": "PEUGEOT scoot - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes PEUGEOT scoot. 2 veiculos indexados.",
+    "h1": "PEUGEOT scoot - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/peugeot/scoot/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "peugeot-scoot-elec-1998-gasolina",
+      "fipeCodigo": "821003-9",
+      "displayName": "PEUGEOT SCOOT ELEC",
+      "valorAtual": 1538,
+      "canonicalPath": "/fipe/peugeot/scoot-elec-1998-821003-9/",
+      "ano": 1998,
+      "marca": "PEUGEOT"
+    },
+    {
+      "vehicleId": "peugeot-scoot-elec-1997-gasolina",
+      "fipeCodigo": "821003-9",
+      "displayName": "PEUGEOT SCOOT ELEC",
+      "valorAtual": 1332,
+      "canonicalPath": "/fipe/peugeot/scoot-elec-1997-821003-9/",
+      "ano": 1997,
+      "marca": "PEUGEOT"
+    }
+  ],
+  "stats": {
+    "total": 2,
+    "precoMin": 1332,
+    "precoMax": 1538,
+    "anos": [
+      1998,
+      1997
+    ]
+  }
+}

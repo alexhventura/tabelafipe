@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "fz15-1",
+  "canonicalPath": "/geracao/yamaha/fz15-1/",
+  "titulo": "Geracao fz15-1",
+  "descricao": "2 veiculos da geracao fz15-1.",
+  "seo": {
+    "title": "Geracao fz15-1 - Precos FIPE",
+    "description": "Veiculos da geracao fz15-1 na Tabela FIPE.",
+    "h1": "Geracao fz15-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/yamaha/fz15-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "yamaha-fz15-150-fazer-connected-flex-0-flex",
+      "fipeCodigo": "827133-0",
+      "displayName": "YAMAHA FZ15 150 FAZER CONNECTED FLEX",
+      "valorAtual": 22757,
+      "canonicalPath": "/fipe/yamaha/fz15-150-fazer-connected-flex-0-827133-0/",
+      "ano": 0,
+      "marca": "YAMAHA"
+    },
+    {
+      "vehicleId": "yamaha-fz15-150-fazer-flex-0-flex",
+      "fipeCodigo": "827124-0",
+      "displayName": "YAMAHA FZ15 150 FAZER FLEX",
+      "valorAtual": 21070,
+      "canonicalPath": "/fipe/yamaha/fz15-150-fazer-flex-0-827124-0/",
+      "ano": 0,
+      "marca": "YAMAHA"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "fz15-1"
+  }
+}

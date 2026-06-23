@@ -1,0 +1,62 @@
+{
+  "tipo": "familia",
+  "slug": "skegia",
+  "canonicalPath": "/fipe/atala/skegia/",
+  "titulo": "ATALA skegia - Tabela FIPE",
+  "descricao": "4 versoes e anos do ATALA skegia na Tabela FIPE.",
+  "seo": {
+    "title": "ATALA skegia - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes ATALA skegia. 4 veiculos indexados.",
+    "h1": "ATALA skegia - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/atala/skegia/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "atala-skegia-50cc-2003-gasolina",
+      "fipeCodigo": "829003-2",
+      "displayName": "ATALA SKEGIA 50cc",
+      "valorAtual": 2027,
+      "canonicalPath": "/fipe/atala/skegia-50cc-2003-829003-2/",
+      "ano": 2003,
+      "marca": "ATALA"
+    },
+    {
+      "vehicleId": "atala-skegia-50cc-2002-gasolina",
+      "fipeCodigo": "829003-2",
+      "displayName": "ATALA SKEGIA 50cc",
+      "valorAtual": 1771,
+      "canonicalPath": "/fipe/atala/skegia-50cc-2002-829003-2/",
+      "ano": 2002,
+      "marca": "ATALA"
+    },
+    {
+      "vehicleId": "atala-skegia-50cc-2001-gasolina",
+      "fipeCodigo": "829003-2",
+      "displayName": "ATALA SKEGIA 50cc",
+      "valorAtual": 1656,
+      "canonicalPath": "/fipe/atala/skegia-50cc-2001-829003-2/",
+      "ano": 2001,
+      "marca": "ATALA"
+    },
+    {
+      "vehicleId": "atala-skegia-50cc-2000-gasolina",
+      "fipeCodigo": "829003-2",
+      "displayName": "ATALA SKEGIA 50cc",
+      "valorAtual": 1577,
+      "canonicalPath": "/fipe/atala/skegia-50cc-2000-829003-2/",
+      "ano": 2000,
+      "marca": "ATALA"
+    }
+  ],
+  "stats": {
+    "total": 4,
+    "precoMin": 1577,
+    "precoMax": 2027,
+    "anos": [
+      2003,
+      2002,
+      2001,
+      2000
+    ]
+  }
+}

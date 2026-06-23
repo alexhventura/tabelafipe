@@ -1,0 +1,589 @@
+{
+  "tipo": "motor",
+  "slug": "kappa-1.0-turbo",
+  "canonicalPath": "/motor/kappa-1.0-turbo/",
+  "titulo": "Motor kappa-1.0-turbo",
+  "descricao": "63 veiculos com motor kappa-1.0-turbo na Tabela FIPE.",
+  "seo": {
+    "title": "Motor kappa-1.0-turbo - Veiculos e precos FIPE",
+    "description": "Veiculos equipados com kappa-1.0-turbo. Specs e precos FIPE.",
+    "h1": "Motor kappa-1.0-turbo",
+    "canonical": "https://pesquisatabelafipe.com.br/motor/kappa-1.0-turbo/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "fiat-fastback-1-0-200-turbo-flex-aut-2024-flex",
+      "fipeCodigo": "001568-7",
+      "displayName": "Fiat Fastback 1.0 200 Turbo Flex Aut",
+      "valorAtual": 101695,
+      "canonicalPath": "/fipe/fiat/fastback-1-0-200-turbo-flex-aut-2024-001568-7/",
+      "ano": 2024,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-fastback-1-0-200-turbo-flex-aut-2025-flex",
+      "fipeCodigo": "001568-7",
+      "displayName": "Fiat Fastback 1.0 200 Turbo Flex Aut",
+      "valorAtual": 106601,
+      "canonicalPath": "/fipe/fiat/fastback-1-0-200-turbo-flex-aut-2025-001568-7/",
+      "ano": 2025,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-fastback-1-0-200-turbo-flex-aut-2026-flex",
+      "fipeCodigo": "001568-7",
+      "displayName": "Fiat Fastback 1.0 200 Turbo Flex Aut",
+      "valorAtual": 110584,
+      "canonicalPath": "/fipe/fiat/fastback-1-0-200-turbo-flex-aut-2026-001568-7/",
+      "ano": 2026,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-fastback-1-0-200-turbo-flex-aut-0-flex",
+      "fipeCodigo": "001568-7",
+      "displayName": "Fiat Fastback 1.0 200 Turbo Flex Aut",
+      "valorAtual": 119912,
+      "canonicalPath": "/fipe/fiat/fastback-1-0-200-turbo-flex-aut-0-001568-7/",
+      "ano": 0,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-fastback-abarth-turbo-flex-1-3-aut-2024-flex",
+      "fipeCodigo": "001572-5",
+      "displayName": "Fiat Fastback ABARTH Turbo Flex 1.3 Aut.",
+      "valorAtual": 127132,
+      "canonicalPath": "/fipe/fiat/fastback-abarth-turbo-flex-1-3-aut-2024-001572-5/",
+      "ano": 2024,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-fastback-abarth-turbo-flex-1-3-aut-2025-flex",
+      "fipeCodigo": "001572-5",
+      "displayName": "Fiat Fastback ABARTH Turbo Flex 1.3 Aut.",
+      "valorAtual": 137551,
+      "canonicalPath": "/fipe/fiat/fastback-abarth-turbo-flex-1-3-aut-2025-001572-5/",
+      "ano": 2025,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-fastback-abarth-turbo-flex-1-3-aut-2026-flex",
+      "fipeCodigo": "001572-5",
+      "displayName": "Fiat Fastback ABARTH Turbo Flex 1.3 Aut.",
+      "valorAtual": 155045,
+      "canonicalPath": "/fipe/fiat/fastback-abarth-turbo-flex-1-3-aut-2026-001572-5/",
+      "ano": 2026,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-fastback-abarth-turbo-flex-1-3-aut-0-flex",
+      "fipeCodigo": "001572-5",
+      "displayName": "Fiat Fastback ABARTH Turbo Flex 1.3 Aut.",
+      "valorAtual": 181291,
+      "canonicalPath": "/fipe/fiat/fastback-abarth-turbo-flex-1-3-aut-0-001572-5/",
+      "ano": 0,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-fastback-audace-1-0-200-t-flex-aut-2023-flex",
+      "fipeCodigo": "001558-0",
+      "displayName": "Fiat Fastback Audace 1.0 200 T. Flex Aut",
+      "valorAtual": 103811,
+      "canonicalPath": "/fipe/fiat/fastback-audace-1-0-200-t-flex-aut-2023-001558-0/",
+      "ano": 2023,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-fastback-audace-1-0-200-t-flex-aut-2024-flex",
+      "fipeCodigo": "001558-0",
+      "displayName": "Fiat Fastback Audace 1.0 200 T. Flex Aut",
+      "valorAtual": 110324,
+      "canonicalPath": "/fipe/fiat/fastback-audace-1-0-200-t-flex-aut-2024-001558-0/",
+      "ano": 2024,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-fastback-audace-1-0-200-t-flex-aut-2025-flex",
+      "fipeCodigo": "001558-0",
+      "displayName": "Fiat Fastback Audace 1.0 200 T. Flex Aut",
+      "valorAtual": 114918,
+      "canonicalPath": "/fipe/fiat/fastback-audace-1-0-200-t-flex-aut-2025-001558-0/",
+      "ano": 2025,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-fastback-audace-200-tb-aut-hibrido-2025-hibrido",
+      "fipeCodigo": "001578-4",
+      "displayName": "Fiat Fastback Audace 200 TB Aut (Hibrído)",
+      "valorAtual": 120101,
+      "canonicalPath": "/fipe/fiat/fastback-audace-200-tb-aut-hibrido-2025-001578-4/",
+      "ano": 2025,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-fastback-audace-200-tb-aut-hibrido-2026-hibrido",
+      "fipeCodigo": "001578-4",
+      "displayName": "Fiat Fastback Audace 200 TB Aut (Hibrído)",
+      "valorAtual": 126724,
+      "canonicalPath": "/fipe/fiat/fastback-audace-200-tb-aut-hibrido-2026-001578-4/",
+      "ano": 2026,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-fastback-audace-200-tb-aut-hibrido-0-hibrido",
+      "fipeCodigo": "001578-4",
+      "displayName": "Fiat Fastback Audace 200 TB Aut (Hibrído)",
+      "valorAtual": 155148,
+      "canonicalPath": "/fipe/fiat/fastback-audace-200-tb-aut-hibrido-0-001578-4/",
+      "ano": 0,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-fastback-impetus-1-0-200-t-flex-aut-2023-flex",
+      "fipeCodigo": "001557-1",
+      "displayName": "Fiat Fastback Impetus 1.0 200 T. Flex Aut",
+      "valorAtual": 107815,
+      "canonicalPath": "/fipe/fiat/fastback-impetus-1-0-200-t-flex-aut-2023-001557-1/",
+      "ano": 2023,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-fastback-impetus-1-0-200-t-flex-aut-2024-flex",
+      "fipeCodigo": "001557-1",
+      "displayName": "Fiat Fastback Impetus 1.0 200 T. Flex Aut",
+      "valorAtual": 116773,
+      "canonicalPath": "/fipe/fiat/fastback-impetus-1-0-200-t-flex-aut-2024-001557-1/",
+      "ano": 2024,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-fastback-impetus-1-0-200-t-flex-aut-2025-flex",
+      "fipeCodigo": "001557-1",
+      "displayName": "Fiat Fastback Impetus 1.0 200 T. Flex Aut",
+      "valorAtual": 121594,
+      "canonicalPath": "/fipe/fiat/fastback-impetus-1-0-200-t-flex-aut-2025-001557-1/",
+      "ano": 2025,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-fastback-impetus-200-t-aut-hibrido-2025-hibrido",
+      "fipeCodigo": "001577-6",
+      "displayName": "Fiat Fastback Impetus 200 T. Aut (Hibrído)",
+      "valorAtual": 125765,
+      "canonicalPath": "/fipe/fiat/fastback-impetus-200-t-aut-hibrido-2025-001577-6/",
+      "ano": 2025,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-fastback-impetus-200-t-aut-hibrido-2026-hibrido",
+      "fipeCodigo": "001577-6",
+      "displayName": "Fiat Fastback Impetus 200 T. Aut (Hibrído)",
+      "valorAtual": 136588,
+      "canonicalPath": "/fipe/fiat/fastback-impetus-200-t-aut-hibrido-2026-001577-6/",
+      "ano": 2026,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-fastback-impetus-200-t-aut-hibrido-0-hibrido",
+      "fipeCodigo": "001577-6",
+      "displayName": "Fiat Fastback Impetus 200 T. Aut (Hibrído)",
+      "valorAtual": 166047,
+      "canonicalPath": "/fipe/fiat/fastback-impetus-200-t-aut-hibrido-0-001577-6/",
+      "ano": 0,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-fastback-limited-ed-1-3-270-t-flex-aut-2023-flex",
+      "fipeCodigo": "001556-3",
+      "displayName": "Fiat Fastback Limited Ed.1.3 270 T.Flex Aut.",
+      "valorAtual": 112261,
+      "canonicalPath": "/fipe/fiat/fastback-limited-ed-1-3-270-t-flex-aut-2023-001556-3/",
+      "ano": 2023,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-fastback-limited-ed-1-3-270-t-flex-aut-2024-flex",
+      "fipeCodigo": "001556-3",
+      "displayName": "Fiat Fastback Limited Ed.1.3 270 T.Flex Aut.",
+      "valorAtual": 121059,
+      "canonicalPath": "/fipe/fiat/fastback-limited-ed-1-3-270-t-flex-aut-2024-001556-3/",
+      "ano": 2024,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-fastback-limited-ed-1-3-270-t-flex-aut-2025-flex",
+      "fipeCodigo": "001556-3",
+      "displayName": "Fiat Fastback Limited Ed.1.3 270 T.Flex Aut.",
+      "valorAtual": 129738,
+      "canonicalPath": "/fipe/fiat/fastback-limited-ed-1-3-270-t-flex-aut-2025-001556-3/",
+      "ano": 2025,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-fastback-limited-ed-1-3-270-t-flex-aut-2026-flex",
+      "fipeCodigo": "001556-3",
+      "displayName": "Fiat Fastback Limited Ed.1.3 270 T.Flex Aut.",
+      "valorAtual": 146837,
+      "canonicalPath": "/fipe/fiat/fastback-limited-ed-1-3-270-t-flex-aut-2026-001556-3/",
+      "ano": 2026,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-fastback-limited-ed-1-3-270-t-flex-aut-0-flex",
+      "fipeCodigo": "001556-3",
+      "displayName": "Fiat Fastback Limited Ed.1.3 270 T.Flex Aut.",
+      "valorAtual": 173845,
+      "canonicalPath": "/fipe/fiat/fastback-limited-ed-1-3-270-t-flex-aut-0-001556-3/",
+      "ano": 0,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-fastback-tributo-125-1-0-turb-flex-aut-2025-flex",
+      "fipeCodigo": "001581-4",
+      "displayName": "Fiat Fastback Tributo 125 1.0 Turb. Flex Aut",
+      "valorAtual": 119849,
+      "canonicalPath": "/fipe/fiat/fastback-tributo-125-1-0-turb-flex-aut-2025-001581-4/",
+      "ano": 2025,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-pulse-1-0-turbo-200-flex-aut-2026-flex",
+      "fipeCodigo": "001592-0",
+      "displayName": "Fiat PULSE 1.0 Turbo 200  Flex Aut.",
+      "valorAtual": 108343,
+      "canonicalPath": "/fipe/fiat/pulse-1-0-turbo-200-flex-aut-2026-001592-0/",
+      "ano": 2026,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-pulse-1-0-turbo-200-flex-aut-0-flex",
+      "fipeCodigo": "001592-0",
+      "displayName": "Fiat PULSE 1.0 Turbo 200  Flex Aut.",
+      "valorAtual": 118705,
+      "canonicalPath": "/fipe/fiat/pulse-1-0-turbo-200-flex-aut-0-001592-0/",
+      "ano": 0,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-pulse-abarth-1-3-turbo-16v-flex-aut-2023-flex",
+      "fipeCodigo": "001559-8",
+      "displayName": "Fiat PULSE ABARTH 1.3 Turbo 16V Flex Aut.",
+      "valorAtual": 111596,
+      "canonicalPath": "/fipe/fiat/pulse-abarth-1-3-turbo-16v-flex-aut-2023-001559-8/",
+      "ano": 2023,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-pulse-abarth-1-3-turbo-16v-flex-aut-2024-flex",
+      "fipeCodigo": "001559-8",
+      "displayName": "Fiat PULSE ABARTH 1.3 Turbo 16V Flex Aut.",
+      "valorAtual": 120005,
+      "canonicalPath": "/fipe/fiat/pulse-abarth-1-3-turbo-16v-flex-aut-2024-001559-8/",
+      "ano": 2024,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-pulse-abarth-1-3-turbo-16v-flex-aut-2025-flex",
+      "fipeCodigo": "001559-8",
+      "displayName": "Fiat PULSE ABARTH 1.3 Turbo 16V Flex Aut.",
+      "valorAtual": 125341,
+      "canonicalPath": "/fipe/fiat/pulse-abarth-1-3-turbo-16v-flex-aut-2025-001559-8/",
+      "ano": 2025,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-pulse-abarth-1-3-turbo-16v-flex-aut-2026-flex",
+      "fipeCodigo": "001559-8",
+      "displayName": "Fiat PULSE ABARTH 1.3 Turbo 16V Flex Aut.",
+      "valorAtual": 142884,
+      "canonicalPath": "/fipe/fiat/pulse-abarth-1-3-turbo-16v-flex-aut-2026-001559-8/",
+      "ano": 2026,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-pulse-abarth-1-3-turbo-16v-flex-aut-0-flex",
+      "fipeCodigo": "001559-8",
+      "displayName": "Fiat PULSE ABARTH 1.3 Turbo 16V Flex Aut.",
+      "valorAtual": 161896,
+      "canonicalPath": "/fipe/fiat/pulse-abarth-1-3-turbo-16v-flex-aut-0-001559-8/",
+      "ano": 0,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-pulse-audace-1-0-turbo-200-flex-aut-2022-flex",
+      "fipeCodigo": "001542-3",
+      "displayName": "Fiat PULSE AUDACE 1.0 Turbo 200 Flex Aut.",
+      "valorAtual": 88223,
+      "canonicalPath": "/fipe/fiat/pulse-audace-1-0-turbo-200-flex-aut-2022-001542-3/",
+      "ano": 2022,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-pulse-audace-1-0-turbo-200-flex-aut-2023-flex",
+      "fipeCodigo": "001542-3",
+      "displayName": "Fiat PULSE AUDACE 1.0 Turbo 200 Flex Aut.",
+      "valorAtual": 94186,
+      "canonicalPath": "/fipe/fiat/pulse-audace-1-0-turbo-200-flex-aut-2023-001542-3/",
+      "ano": 2023,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-pulse-audace-1-0-turbo-200-flex-aut-2024-flex",
+      "fipeCodigo": "001542-3",
+      "displayName": "Fiat PULSE AUDACE 1.0 Turbo 200 Flex Aut.",
+      "valorAtual": 99166,
+      "canonicalPath": "/fipe/fiat/pulse-audace-1-0-turbo-200-flex-aut-2024-001542-3/",
+      "ano": 2024,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-pulse-audace-1-0-turbo-200-flex-aut-2025-flex",
+      "fipeCodigo": "001542-3",
+      "displayName": "Fiat PULSE AUDACE 1.0 Turbo 200 Flex Aut.",
+      "valorAtual": 105429,
+      "canonicalPath": "/fipe/fiat/pulse-audace-1-0-turbo-200-flex-aut-2025-001542-3/",
+      "ano": 2025,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-pulse-audace-1-0-turbo-200-flex-aut-0-flex",
+      "fipeCodigo": "001542-3",
+      "displayName": "Fiat PULSE AUDACE 1.0 Turbo 200 Flex Aut.",
+      "valorAtual": 119521,
+      "canonicalPath": "/fipe/fiat/pulse-audace-1-0-turbo-200-flex-aut-0-001542-3/",
+      "ano": 0,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-pulse-audace-turbo-200-aut-hibrido-2025-hibrido",
+      "fipeCodigo": "001579-2",
+      "displayName": "Fiat PULSE AUDACE Turbo 200  Aut. (Hibrído)",
+      "valorAtual": 111392,
+      "canonicalPath": "/fipe/fiat/pulse-audace-turbo-200-aut-hibrido-2025-001579-2/",
+      "ano": 2025,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-pulse-audace-turbo-200-aut-hibrido-2026-hibrido",
+      "fipeCodigo": "001579-2",
+      "displayName": "Fiat PULSE AUDACE Turbo 200  Aut. (Hibrído)",
+      "valorAtual": 116375,
+      "canonicalPath": "/fipe/fiat/pulse-audace-turbo-200-aut-hibrido-2026-001579-2/",
+      "ano": 2026,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-pulse-audace-turbo-200-aut-hibrido-0-hibrido",
+      "fipeCodigo": "001579-2",
+      "displayName": "Fiat PULSE AUDACE Turbo 200  Aut. (Hibrído)",
+      "valorAtual": 134665,
+      "canonicalPath": "/fipe/fiat/pulse-audace-turbo-200-aut-hibrido-0-001579-2/",
+      "ano": 0,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-pulse-drive-1-0-turbo-200-flex-aut-2022-flex",
+      "fipeCodigo": "001543-1",
+      "displayName": "Fiat PULSE DRIVE 1.0 Turbo 200 Flex Aut.",
+      "valorAtual": 85223,
+      "canonicalPath": "/fipe/fiat/pulse-drive-1-0-turbo-200-flex-aut-2022-001543-1/",
+      "ano": 2022,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-pulse-drive-1-0-turbo-200-flex-aut-2023-flex",
+      "fipeCodigo": "001543-1",
+      "displayName": "Fiat PULSE DRIVE 1.0 Turbo 200 Flex Aut.",
+      "valorAtual": 87701,
+      "canonicalPath": "/fipe/fiat/pulse-drive-1-0-turbo-200-flex-aut-2023-001543-1/",
+      "ano": 2023,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-pulse-drive-1-3-8v-flex-aut-2022-flex",
+      "fipeCodigo": "001544-0",
+      "displayName": "Fiat PULSE DRIVE 1.3 8V Flex Aut.",
+      "valorAtual": 85860,
+      "canonicalPath": "/fipe/fiat/pulse-drive-1-3-8v-flex-aut-2022-001544-0/",
+      "ano": 2022,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-pulse-drive-1-3-8v-flex-aut-2023-flex",
+      "fipeCodigo": "001544-0",
+      "displayName": "Fiat PULSE DRIVE 1.3 8V Flex Aut.",
+      "valorAtual": 88092,
+      "canonicalPath": "/fipe/fiat/pulse-drive-1-3-8v-flex-aut-2023-001544-0/",
+      "ano": 2023,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-pulse-drive-1-3-8v-flex-aut-2024-flex",
+      "fipeCodigo": "001544-0",
+      "displayName": "Fiat PULSE DRIVE 1.3 8V Flex Aut.",
+      "valorAtual": 92670,
+      "canonicalPath": "/fipe/fiat/pulse-drive-1-3-8v-flex-aut-2024-001544-0/",
+      "ano": 2024,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-pulse-drive-1-3-8v-flex-aut-2025-flex",
+      "fipeCodigo": "001544-0",
+      "displayName": "Fiat PULSE DRIVE 1.3 8V Flex Aut.",
+      "valorAtual": 97832,
+      "canonicalPath": "/fipe/fiat/pulse-drive-1-3-8v-flex-aut-2025-001544-0/",
+      "ano": 2025,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-pulse-drive-1-3-8v-flex-aut-2026-flex",
+      "fipeCodigo": "001544-0",
+      "displayName": "Fiat PULSE DRIVE 1.3 8V Flex Aut.",
+      "valorAtual": 106575,
+      "canonicalPath": "/fipe/fiat/pulse-drive-1-3-8v-flex-aut-2026-001544-0/",
+      "ano": 2026,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-pulse-drive-1-3-8v-flex-aut-0-flex",
+      "fipeCodigo": "001544-0",
+      "displayName": "Fiat PULSE DRIVE 1.3 8V Flex Aut.",
+      "valorAtual": 115228,
+      "canonicalPath": "/fipe/fiat/pulse-drive-1-3-8v-flex-aut-0-001544-0/",
+      "ano": 0,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-pulse-drive-1-3-8v-flex-mec-2022-flex",
+      "fipeCodigo": "001545-8",
+      "displayName": "Fiat PULSE DRIVE 1.3 8V Flex Mec.",
+      "valorAtual": 80260,
+      "canonicalPath": "/fipe/fiat/pulse-drive-1-3-8v-flex-mec-2022-001545-8/",
+      "ano": 2022,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-pulse-drive-1-3-8v-flex-mec-2023-flex",
+      "fipeCodigo": "001545-8",
+      "displayName": "Fiat PULSE DRIVE 1.3 8V Flex Mec.",
+      "valorAtual": 85807,
+      "canonicalPath": "/fipe/fiat/pulse-drive-1-3-8v-flex-mec-2023-001545-8/",
+      "ano": 2023,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-pulse-drive-1-3-8v-flex-mec-2024-flex",
+      "fipeCodigo": "001545-8",
+      "displayName": "Fiat PULSE DRIVE 1.3 8V Flex Mec.",
+      "valorAtual": 89102,
+      "canonicalPath": "/fipe/fiat/pulse-drive-1-3-8v-flex-mec-2024-001545-8/",
+      "ano": 2024,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-pulse-drive-1-3-8v-flex-mec-2025-flex",
+      "fipeCodigo": "001545-8",
+      "displayName": "Fiat PULSE DRIVE 1.3 8V Flex Mec.",
+      "valorAtual": 92904,
+      "canonicalPath": "/fipe/fiat/pulse-drive-1-3-8v-flex-mec-2025-001545-8/",
+      "ano": 2025,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-pulse-drive-1-3-8v-flex-mec-2026-flex",
+      "fipeCodigo": "001545-8",
+      "displayName": "Fiat PULSE DRIVE 1.3 8V Flex Mec.",
+      "valorAtual": 96483,
+      "canonicalPath": "/fipe/fiat/pulse-drive-1-3-8v-flex-mec-2026-001545-8/",
+      "ano": 2026,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-pulse-drive-1-3-8v-flex-mec-0-flex",
+      "fipeCodigo": "001545-8",
+      "displayName": "Fiat PULSE DRIVE 1.3 8V Flex Mec.",
+      "valorAtual": 102433,
+      "canonicalPath": "/fipe/fiat/pulse-drive-1-3-8v-flex-mec-0-001545-8/",
+      "ano": 0,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-pulse-impetus-1-0-turbo-200-flex-aut-2022-flex",
+      "fipeCodigo": "001546-6",
+      "displayName": "Fiat PULSE IMPETUS 1.0 TURBO 200 Flex Aut.",
+      "valorAtual": 96063,
+      "canonicalPath": "/fipe/fiat/pulse-impetus-1-0-turbo-200-flex-aut-2022-001546-6/",
+      "ano": 2022,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-pulse-impetus-1-0-turbo-200-flex-aut-2023-flex",
+      "fipeCodigo": "001546-6",
+      "displayName": "Fiat PULSE IMPETUS 1.0 TURBO 200 Flex Aut.",
+      "valorAtual": 101682,
+      "canonicalPath": "/fipe/fiat/pulse-impetus-1-0-turbo-200-flex-aut-2023-001546-6/",
+      "ano": 2023,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-pulse-impetus-1-0-turbo-200-flex-aut-2024-flex",
+      "fipeCodigo": "001546-6",
+      "displayName": "Fiat PULSE IMPETUS 1.0 TURBO 200 Flex Aut.",
+      "valorAtual": 109020,
+      "canonicalPath": "/fipe/fiat/pulse-impetus-1-0-turbo-200-flex-aut-2024-001546-6/",
+      "ano": 2024,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-pulse-impetus-1-0-turbo-200-flex-aut-2025-flex",
+      "fipeCodigo": "001546-6",
+      "displayName": "Fiat PULSE IMPETUS 1.0 TURBO 200 Flex Aut.",
+      "valorAtual": 117585,
+      "canonicalPath": "/fipe/fiat/pulse-impetus-1-0-turbo-200-flex-aut-2025-001546-6/",
+      "ano": 2025,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-pulse-impetus-t-200-aut-hibrido-2025-hibrido",
+      "fipeCodigo": "001580-6",
+      "displayName": "Fiat PULSE IMPETUS T. 200 Aut. (Hibrído)",
+      "valorAtual": 119506,
+      "canonicalPath": "/fipe/fiat/pulse-impetus-t-200-aut-hibrido-2025-001580-6/",
+      "ano": 2025,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-pulse-impetus-t-200-aut-hibrido-2026-hibrido",
+      "fipeCodigo": "001580-6",
+      "displayName": "Fiat PULSE IMPETUS T. 200 Aut. (Hibrído)",
+      "valorAtual": 127467,
+      "canonicalPath": "/fipe/fiat/pulse-impetus-t-200-aut-hibrido-2026-001580-6/",
+      "ano": 2026,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-pulse-impetus-t-200-aut-hibrido-0-hibrido",
+      "fipeCodigo": "001580-6",
+      "displayName": "Fiat PULSE IMPETUS T. 200 Aut. (Hibrído)",
+      "valorAtual": 150599,
+      "canonicalPath": "/fipe/fiat/pulse-impetus-t-200-aut-hibrido-0-001580-6/",
+      "ano": 0,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-pulse-tributo-125-1-0-tb-200-flex-aut-2025-flex",
+      "fipeCodigo": "001582-2",
+      "displayName": "Fiat PULSE TRIBUTO 125 1.0 TB. 200 Flex Aut.",
+      "valorAtual": 111530,
+      "canonicalPath": "/fipe/fiat/pulse-tributo-125-1-0-tb-200-flex-aut-2025-001582-2/",
+      "ano": 2025,
+      "marca": "Fiat"
+    }
+  ],
+  "stats": {
+    "total": 63
+  },
+  "meta": {
+    "engineId": "kappa-1.0-turbo",
+    "engineNome": "kappa-1.0-turbo"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "tipo": "familia",
+  "slug": "323tia",
+  "canonicalPath": "/fipe/bmw/323tia/",
+  "titulo": "BMW 323tia - Tabela FIPE",
+  "descricao": "2 versoes e anos do BMW 323tia na Tabela FIPE.",
+  "seo": {
+    "title": "BMW 323tia - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes BMW 323tia. 2 veiculos indexados.",
+    "h1": "BMW 323tia - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/bmw/323tia/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "bmw-323tia-compact-top-1999-gasolina",
+      "fipeCodigo": "009033-6",
+      "displayName": "BMW 323TiA Compact Top",
+      "valorAtual": 50277,
+      "canonicalPath": "/fipe/bmw/323tia-compact-top-1999-009033-6/",
+      "ano": 1999,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-323tia-compact-top-1998-gasolina",
+      "fipeCodigo": "009033-6",
+      "displayName": "BMW 323TiA Compact Top",
+      "valorAtual": 47593,
+      "canonicalPath": "/fipe/bmw/323tia-compact-top-1998-009033-6/",
+      "ano": 1998,
+      "marca": "BMW"
+    }
+  ],
+  "stats": {
+    "total": 2,
+    "precoMin": 47593,
+    "precoMax": 50277,
+    "anos": [
+      1999,
+      1998
+    ]
+  }
+}

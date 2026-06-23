@@ -1,0 +1,52 @@
+{
+  "tipo": "familia",
+  "slug": "titanium",
+  "canonicalPath": "/fipe/shineray/titanium/",
+  "titulo": "SHINERAY titanium - Tabela FIPE",
+  "descricao": "3 versoes e anos do SHINERAY titanium na Tabela FIPE.",
+  "seo": {
+    "title": "SHINERAY titanium - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes SHINERAY titanium. 3 veiculos indexados.",
+    "h1": "SHINERAY titanium - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/shineray/titanium/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "shineray-titanium-250-efi-2026-gasolina",
+      "fipeCodigo": "850051-7",
+      "displayName": "SHINERAY TITANIUM 250 EFI",
+      "valorAtual": 25162,
+      "canonicalPath": "/fipe/shineray/titanium-250-efi-2026-850051-7/",
+      "ano": 2026,
+      "marca": "SHINERAY"
+    },
+    {
+      "vehicleId": "shineray-titanium-250-efi-2025-gasolina",
+      "fipeCodigo": "850051-7",
+      "displayName": "SHINERAY TITANIUM 250 EFI",
+      "valorAtual": 23225,
+      "canonicalPath": "/fipe/shineray/titanium-250-efi-2025-850051-7/",
+      "ano": 2025,
+      "marca": "SHINERAY"
+    },
+    {
+      "vehicleId": "shineray-titanium-250-efi-0-gasolina",
+      "fipeCodigo": "850051-7",
+      "displayName": "SHINERAY TITANIUM 250 EFI",
+      "valorAtual": 26496,
+      "canonicalPath": "/fipe/shineray/titanium-250-efi-0-850051-7/",
+      "ano": 0,
+      "marca": "SHINERAY"
+    }
+  ],
+  "stats": {
+    "total": 3,
+    "precoMin": 23225,
+    "precoMax": 26496,
+    "anos": [
+      2026,
+      2025,
+      0
+    ]
+  }
+}

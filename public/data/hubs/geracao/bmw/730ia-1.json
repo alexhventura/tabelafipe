@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "730ia-1",
+  "canonicalPath": "/geracao/bmw/730ia-1/",
+  "titulo": "Geracao 730ia-1",
+  "descricao": "2 veiculos da geracao 730ia-1.",
+  "seo": {
+    "title": "Geracao 730ia-1 - Precos FIPE",
+    "description": "Veiculos da geracao 730ia-1 na Tabela FIPE.",
+    "h1": "Geracao 730ia-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/bmw/730ia-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "bmw-730ia-3-0-32v-1991-gasolina",
+      "fipeCodigo": "009049-2",
+      "displayName": "BMW 730iA 3.0 32V",
+      "valorAtual": 13684,
+      "canonicalPath": "/fipe/bmw/730ia-3-0-32v-1991-009049-2/",
+      "ano": 1991,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-730ia-3-0-32v-1992-gasolina",
+      "fipeCodigo": "009049-2",
+      "displayName": "BMW 730iA 3.0 32V",
+      "valorAtual": 16372,
+      "canonicalPath": "/fipe/bmw/730ia-3-0-32v-1992-009049-2/",
+      "ano": 1992,
+      "marca": "BMW"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "730ia-1"
+  }
+}

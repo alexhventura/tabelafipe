@@ -1,0 +1,120 @@
+{
+  "tipo": "familia",
+  "slug": "velvet",
+  "canonicalPath": "/fipe/motorino/velvet/",
+  "titulo": "MOTORINO velvet - Tabela FIPE",
+  "descricao": "10 versoes e anos do MOTORINO velvet na Tabela FIPE.",
+  "seo": {
+    "title": "MOTORINO velvet - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes MOTORINO velvet. 10 veiculos indexados.",
+    "h1": "MOTORINO velvet - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/motorino/velvet/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "motorino-velvet-lt-125cc-2021-gasolina",
+      "fipeCodigo": "881016-8",
+      "displayName": "MOTORINO Velvet LT 125cc",
+      "valorAtual": 15278,
+      "canonicalPath": "/fipe/motorino/velvet-lt-125cc-2021-881016-8/",
+      "ano": 2021,
+      "marca": "MOTORINO"
+    },
+    {
+      "vehicleId": "motorino-velvet-150cc-lt-2021-gasolina",
+      "fipeCodigo": "881005-2",
+      "displayName": "MOTORINO Velvet 150cc/LT",
+      "valorAtual": 15429,
+      "canonicalPath": "/fipe/motorino/velvet-150cc-lt-2021-881005-2/",
+      "ano": 2021,
+      "marca": "MOTORINO"
+    },
+    {
+      "vehicleId": "motorino-velvet-lt-125cc-2020-gasolina",
+      "fipeCodigo": "881016-8",
+      "displayName": "MOTORINO Velvet LT 125cc",
+      "valorAtual": 14302,
+      "canonicalPath": "/fipe/motorino/velvet-lt-125cc-2020-881016-8/",
+      "ano": 2020,
+      "marca": "MOTORINO"
+    },
+    {
+      "vehicleId": "motorino-velvet-lt-125cc-2019-gasolina",
+      "fipeCodigo": "881016-8",
+      "displayName": "MOTORINO Velvet LT 125cc",
+      "valorAtual": 11769,
+      "canonicalPath": "/fipe/motorino/velvet-lt-125cc-2019-881016-8/",
+      "ano": 2019,
+      "marca": "MOTORINO"
+    },
+    {
+      "vehicleId": "motorino-velvet-lt-125cc-2018-gasolina",
+      "fipeCodigo": "881016-8",
+      "displayName": "MOTORINO Velvet LT 125cc",
+      "valorAtual": 10978,
+      "canonicalPath": "/fipe/motorino/velvet-lt-125cc-2018-881016-8/",
+      "ano": 2018,
+      "marca": "MOTORINO"
+    },
+    {
+      "vehicleId": "motorino-velvet-150cc-lt-2015-gasolina",
+      "fipeCodigo": "881005-2",
+      "displayName": "MOTORINO Velvet 150cc/LT",
+      "valorAtual": 11619,
+      "canonicalPath": "/fipe/motorino/velvet-150cc-lt-2015-881005-2/",
+      "ano": 2015,
+      "marca": "MOTORINO"
+    },
+    {
+      "vehicleId": "motorino-velvet-150cc-lt-2014-gasolina",
+      "fipeCodigo": "881005-2",
+      "displayName": "MOTORINO Velvet 150cc/LT",
+      "valorAtual": 11320,
+      "canonicalPath": "/fipe/motorino/velvet-150cc-lt-2014-881005-2/",
+      "ano": 2014,
+      "marca": "MOTORINO"
+    },
+    {
+      "vehicleId": "motorino-velvet-50cc-2013-gasolina",
+      "fipeCodigo": "881015-0",
+      "displayName": "MOTORINO Velvet 50cc",
+      "valorAtual": 6363,
+      "canonicalPath": "/fipe/motorino/velvet-50cc-2013-881015-0/",
+      "ano": 2013,
+      "marca": "MOTORINO"
+    },
+    {
+      "vehicleId": "motorino-velvet-150cc-lt-2013-gasolina",
+      "fipeCodigo": "881005-2",
+      "displayName": "MOTORINO Velvet 150cc/LT",
+      "valorAtual": 10149,
+      "canonicalPath": "/fipe/motorino/velvet-150cc-lt-2013-881005-2/",
+      "ano": 2013,
+      "marca": "MOTORINO"
+    },
+    {
+      "vehicleId": "motorino-velvet-150cc-lt-2012-gasolina",
+      "fipeCodigo": "881005-2",
+      "displayName": "MOTORINO Velvet 150cc/LT",
+      "valorAtual": 9507,
+      "canonicalPath": "/fipe/motorino/velvet-150cc-lt-2012-881005-2/",
+      "ano": 2012,
+      "marca": "MOTORINO"
+    }
+  ],
+  "stats": {
+    "total": 10,
+    "precoMin": 6363,
+    "precoMax": 15429,
+    "anos": [
+      2021,
+      2020,
+      2019,
+      2018,
+      2015,
+      2014,
+      2013,
+      2012
+    ]
+  }
+}

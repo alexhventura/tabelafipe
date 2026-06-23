@@ -1,0 +1,62 @@
+{
+  "tipo": "familia",
+  "slug": "pegasus",
+  "canonicalPath": "/fipe/jonny/pegasus/",
+  "titulo": "JONNY pegasus - Tabela FIPE",
+  "descricao": "4 versoes e anos do JONNY pegasus na Tabela FIPE.",
+  "seo": {
+    "title": "JONNY pegasus - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes JONNY pegasus. 4 veiculos indexados.",
+    "h1": "JONNY pegasus - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/jonny/pegasus/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "jonny-pegasus-150cc-2011-gasolina",
+      "fipeCodigo": "865007-1",
+      "displayName": "JONNY PEGASUS 150cc",
+      "valorAtual": 2911,
+      "canonicalPath": "/fipe/jonny/pegasus-150cc-2011-865007-1/",
+      "ano": 2011,
+      "marca": "JONNY"
+    },
+    {
+      "vehicleId": "jonny-pegasus-150cc-2010-gasolina",
+      "fipeCodigo": "865007-1",
+      "displayName": "JONNY PEGASUS 150cc",
+      "valorAtual": 2785,
+      "canonicalPath": "/fipe/jonny/pegasus-150cc-2010-865007-1/",
+      "ano": 2010,
+      "marca": "JONNY"
+    },
+    {
+      "vehicleId": "jonny-pegasus-150cc-2008-gasolina",
+      "fipeCodigo": "865007-1",
+      "displayName": "JONNY PEGASUS 150cc",
+      "valorAtual": 2632,
+      "canonicalPath": "/fipe/jonny/pegasus-150cc-2008-865007-1/",
+      "ano": 2008,
+      "marca": "JONNY"
+    },
+    {
+      "vehicleId": "jonny-pegasus-150cc-2006-gasolina",
+      "fipeCodigo": "865007-1",
+      "displayName": "JONNY PEGASUS 150cc",
+      "valorAtual": 2346,
+      "canonicalPath": "/fipe/jonny/pegasus-150cc-2006-865007-1/",
+      "ano": 2006,
+      "marca": "JONNY"
+    }
+  ],
+  "stats": {
+    "total": 4,
+    "precoMin": 2346,
+    "precoMax": 2911,
+    "anos": [
+      2011,
+      2010,
+      2008,
+      2006
+    ]
+  }
+}

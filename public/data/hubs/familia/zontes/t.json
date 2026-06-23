@@ -1,0 +1,118 @@
+{
+  "tipo": "familia",
+  "slug": "t",
+  "canonicalPath": "/fipe/zontes/t/",
+  "titulo": "ZONTES t - Tabela FIPE",
+  "descricao": "10 versoes e anos do ZONTES t na Tabela FIPE.",
+  "seo": {
+    "title": "ZONTES t - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes ZONTES t. 10 veiculos indexados.",
+    "h1": "ZONTES t - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/zontes/t/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "zontes-t-350-2027-gasolina",
+      "fipeCodigo": "895006-7",
+      "displayName": "ZONTES T 350",
+      "valorAtual": 32578,
+      "canonicalPath": "/fipe/zontes/t-350-2027-895006-7/",
+      "ano": 2027,
+      "marca": "ZONTES"
+    },
+    {
+      "vehicleId": "zontes-t-350-x-2027-gasolina",
+      "fipeCodigo": "895007-5",
+      "displayName": "ZONTES T 350 X",
+      "valorAtual": 33934,
+      "canonicalPath": "/fipe/zontes/t-350-x-2027-895007-5/",
+      "ano": 2027,
+      "marca": "ZONTES"
+    },
+    {
+      "vehicleId": "zontes-t-350-2026-gasolina",
+      "fipeCodigo": "895006-7",
+      "displayName": "ZONTES T 350",
+      "valorAtual": 31695,
+      "canonicalPath": "/fipe/zontes/t-350-2026-895006-7/",
+      "ano": 2026,
+      "marca": "ZONTES"
+    },
+    {
+      "vehicleId": "zontes-t-350-x-2026-gasolina",
+      "fipeCodigo": "895007-5",
+      "displayName": "ZONTES T 350 X",
+      "valorAtual": 32510,
+      "canonicalPath": "/fipe/zontes/t-350-x-2026-895007-5/",
+      "ano": 2026,
+      "marca": "ZONTES"
+    },
+    {
+      "vehicleId": "zontes-t-350-2025-gasolina",
+      "fipeCodigo": "895006-7",
+      "displayName": "ZONTES T 350",
+      "valorAtual": 30630,
+      "canonicalPath": "/fipe/zontes/t-350-2025-895006-7/",
+      "ano": 2025,
+      "marca": "ZONTES"
+    },
+    {
+      "vehicleId": "zontes-t-350-x-2025-gasolina",
+      "fipeCodigo": "895007-5",
+      "displayName": "ZONTES T 350 X",
+      "valorAtual": 31673,
+      "canonicalPath": "/fipe/zontes/t-350-x-2025-895007-5/",
+      "ano": 2025,
+      "marca": "ZONTES"
+    },
+    {
+      "vehicleId": "zontes-t-310-2024-gasolina",
+      "fipeCodigo": "895003-2",
+      "displayName": "ZONTES T 310",
+      "valorAtual": 27855,
+      "canonicalPath": "/fipe/zontes/t-310-2024-895003-2/",
+      "ano": 2024,
+      "marca": "ZONTES"
+    },
+    {
+      "vehicleId": "zontes-t-310-2023-gasolina",
+      "fipeCodigo": "895003-2",
+      "displayName": "ZONTES T 310",
+      "valorAtual": 27102,
+      "canonicalPath": "/fipe/zontes/t-310-2023-895003-2/",
+      "ano": 2023,
+      "marca": "ZONTES"
+    },
+    {
+      "vehicleId": "zontes-t-350-0-gasolina",
+      "fipeCodigo": "895006-7",
+      "displayName": "ZONTES T 350",
+      "valorAtual": 35274,
+      "canonicalPath": "/fipe/zontes/t-350-0-895006-7/",
+      "ano": 0,
+      "marca": "ZONTES"
+    },
+    {
+      "vehicleId": "zontes-t-350-x-0-gasolina",
+      "fipeCodigo": "895007-5",
+      "displayName": "ZONTES T 350 X",
+      "valorAtual": 36472,
+      "canonicalPath": "/fipe/zontes/t-350-x-0-895007-5/",
+      "ano": 0,
+      "marca": "ZONTES"
+    }
+  ],
+  "stats": {
+    "total": 10,
+    "precoMin": 27102,
+    "precoMax": 36472,
+    "anos": [
+      2027,
+      2026,
+      2025,
+      2024,
+      2023,
+      0
+    ]
+  }
+}

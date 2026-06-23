@@ -1,0 +1,52 @@
+{
+  "tipo": "familia",
+  "slug": "b5",
+  "canonicalPath": "/fipe/denza/b5/",
+  "titulo": "Denza b5 - Tabela FIPE",
+  "descricao": "3 versoes e anos do Denza b5 na Tabela FIPE.",
+  "seo": {
+    "title": "Denza b5 - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes Denza b5. 3 veiculos indexados.",
+    "h1": "Denza b5 - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/denza/b5/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "denza-b5-4wd-2027-hibrido",
+      "fipeCodigo": "306001-2",
+      "displayName": "Denza B5 4WD",
+      "valorAtual": 408109,
+      "canonicalPath": "/fipe/denza/b5-4wd-2027-306001-2/",
+      "ano": 2027,
+      "marca": "Denza"
+    },
+    {
+      "vehicleId": "denza-b5-4wd-2026-hibrido",
+      "fipeCodigo": "306001-2",
+      "displayName": "Denza B5 4WD",
+      "valorAtual": 391105,
+      "canonicalPath": "/fipe/denza/b5-4wd-2026-306001-2/",
+      "ano": 2026,
+      "marca": "Denza"
+    },
+    {
+      "vehicleId": "denza-b5-4wd-0-hibrido",
+      "fipeCodigo": "306001-2",
+      "displayName": "Denza B5 4WD",
+      "valorAtual": 436300,
+      "canonicalPath": "/fipe/denza/b5-4wd-0-306001-2/",
+      "ano": 0,
+      "marca": "Denza"
+    }
+  ],
+  "stats": {
+    "total": 3,
+    "precoMin": 391105,
+    "precoMax": 436300,
+    "anos": [
+      2027,
+      2026,
+      0
+    ]
+  }
+}

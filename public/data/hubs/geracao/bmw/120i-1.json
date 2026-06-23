@@ -1,0 +1,66 @@
+{
+  "tipo": "geracao",
+  "slug": "120i-1",
+  "canonicalPath": "/geracao/bmw/120i-1/",
+  "titulo": "Geracao 120i-1",
+  "descricao": "5 veiculos da geracao 120i-1.",
+  "seo": {
+    "title": "Geracao 120i-1 - Precos FIPE",
+    "description": "Veiculos da geracao 120i-1 na Tabela FIPE.",
+    "h1": "Geracao 120i-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/bmw/120i-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "bmw-120i-2-0-16v-150cv-156cv-5p-2005-gasolina",
+      "fipeCodigo": "009106-5",
+      "displayName": "BMW 120i 2.0 16V 150cv/ 156cv 5p",
+      "valorAtual": 34767,
+      "canonicalPath": "/fipe/bmw/120i-2-0-16v-150cv-156cv-5p-2005-009106-5/",
+      "ano": 2005,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-120i-2-0-16v-150cv-156cv-5p-2006-gasolina",
+      "fipeCodigo": "009106-5",
+      "displayName": "BMW 120i 2.0 16V 150cv/ 156cv 5p",
+      "valorAtual": 39487,
+      "canonicalPath": "/fipe/bmw/120i-2-0-16v-150cv-156cv-5p-2006-009106-5/",
+      "ano": 2006,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-120i-2-0-16v-150cv-156cv-5p-2007-gasolina",
+      "fipeCodigo": "009106-5",
+      "displayName": "BMW 120i 2.0 16V 150cv/ 156cv 5p",
+      "valorAtual": 44462,
+      "canonicalPath": "/fipe/bmw/120i-2-0-16v-150cv-156cv-5p-2007-009106-5/",
+      "ano": 2007,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-120i-2-0-16v-150cv-156cv-5p-2008-gasolina",
+      "fipeCodigo": "009106-5",
+      "displayName": "BMW 120i 2.0 16V 150cv/ 156cv 5p",
+      "valorAtual": 49234,
+      "canonicalPath": "/fipe/bmw/120i-2-0-16v-150cv-156cv-5p-2008-009106-5/",
+      "ano": 2008,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-120i-2-0-16v-150cv-156cv-5p-2009-gasolina",
+      "fipeCodigo": "009106-5",
+      "displayName": "BMW 120i 2.0 16V 150cv/ 156cv 5p",
+      "valorAtual": 50950,
+      "canonicalPath": "/fipe/bmw/120i-2-0-16v-150cv-156cv-5p-2009-009106-5/",
+      "ano": 2009,
+      "marca": "BMW"
+    }
+  ],
+  "stats": {
+    "total": 5
+  },
+  "meta": {
+    "geracaoId": "120i-1"
+  }
+}

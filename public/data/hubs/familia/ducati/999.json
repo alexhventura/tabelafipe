@@ -1,0 +1,72 @@
+{
+  "tipo": "familia",
+  "slug": "999",
+  "canonicalPath": "/fipe/ducati/999/",
+  "titulo": "DUCATI 999 - Tabela FIPE",
+  "descricao": "5 versoes e anos do DUCATI 999 na Tabela FIPE.",
+  "seo": {
+    "title": "DUCATI 999 - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes DUCATI 999. 5 veiculos indexados.",
+    "h1": "DUCATI 999 - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/ducati/999/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "ducati-999-998cc-2006-gasolina",
+      "fipeCodigo": "808011-9",
+      "displayName": "DUCATI 999 998cc",
+      "valorAtual": 48940,
+      "canonicalPath": "/fipe/ducati/999-998cc-2006-808011-9/",
+      "ano": 2006,
+      "marca": "DUCATI"
+    },
+    {
+      "vehicleId": "ducati-999-998cc-2005-gasolina",
+      "fipeCodigo": "808011-9",
+      "displayName": "DUCATI 999 998cc",
+      "valorAtual": 39743,
+      "canonicalPath": "/fipe/ducati/999-998cc-2005-808011-9/",
+      "ano": 2005,
+      "marca": "DUCATI"
+    },
+    {
+      "vehicleId": "ducati-999-998cc-2004-gasolina",
+      "fipeCodigo": "808011-9",
+      "displayName": "DUCATI 999 998cc",
+      "valorAtual": 35603,
+      "canonicalPath": "/fipe/ducati/999-998cc-2004-808011-9/",
+      "ano": 2004,
+      "marca": "DUCATI"
+    },
+    {
+      "vehicleId": "ducati-999-998cc-2003-gasolina",
+      "fipeCodigo": "808011-9",
+      "displayName": "DUCATI 999 998cc",
+      "valorAtual": 34682,
+      "canonicalPath": "/fipe/ducati/999-998cc-2003-808011-9/",
+      "ano": 2003,
+      "marca": "DUCATI"
+    },
+    {
+      "vehicleId": "ducati-999-998cc-2002-gasolina",
+      "fipeCodigo": "808011-9",
+      "displayName": "DUCATI 999 998cc",
+      "valorAtual": 33780,
+      "canonicalPath": "/fipe/ducati/999-998cc-2002-808011-9/",
+      "ano": 2002,
+      "marca": "DUCATI"
+    }
+  ],
+  "stats": {
+    "total": 5,
+    "precoMin": 33780,
+    "precoMax": 48940,
+    "anos": [
+      2006,
+      2005,
+      2004,
+      2003,
+      2002
+    ]
+  }
+}

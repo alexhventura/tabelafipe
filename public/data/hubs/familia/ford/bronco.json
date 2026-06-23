@@ -1,0 +1,82 @@
+{
+  "tipo": "familia",
+  "slug": "bronco",
+  "canonicalPath": "/fipe/ford/bronco/",
+  "titulo": "Ford bronco - Tabela FIPE",
+  "descricao": "6 versoes e anos do Ford bronco na Tabela FIPE.",
+  "seo": {
+    "title": "Ford bronco - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes Ford bronco. 6 veiculos indexados.",
+    "h1": "Ford bronco - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/ford/bronco/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "ford-bronco-sport-badlands-2-0l-tb-4wd-aut-2025-gasolina",
+      "fipeCodigo": "003513-0",
+      "displayName": "Ford Bronco Sport Badlands 2.0L TB 4WD Aut.",
+      "valorAtual": 234624,
+      "canonicalPath": "/fipe/ford/bronco-sport-badlands-2-0l-tb-4wd-aut-2025-003513-0/",
+      "ano": 2025,
+      "marca": "Ford"
+    },
+    {
+      "vehicleId": "ford-bronco-sport-wildtrak-2-0-tb-16v-awd-aut-2024-gasolina",
+      "fipeCodigo": "003481-9",
+      "displayName": "Ford Bronco Sport Wildtrak 2.0 Tb 16V AWD Aut",
+      "valorAtual": 194581,
+      "canonicalPath": "/fipe/ford/bronco-sport-wildtrak-2-0-tb-16v-awd-aut-2024-003481-9/",
+      "ano": 2024,
+      "marca": "Ford"
+    },
+    {
+      "vehicleId": "ford-bronco-sport-wildtrak-2-0-tb-16v-awd-aut-2023-gasolina",
+      "fipeCodigo": "003481-9",
+      "displayName": "Ford Bronco Sport Wildtrak 2.0 Tb 16V AWD Aut",
+      "valorAtual": 179625,
+      "canonicalPath": "/fipe/ford/bronco-sport-wildtrak-2-0-tb-16v-awd-aut-2023-003481-9/",
+      "ano": 2023,
+      "marca": "Ford"
+    },
+    {
+      "vehicleId": "ford-bronco-sport-wildtrak-2-0-tb-16v-awd-aut-2022-gasolina",
+      "fipeCodigo": "003481-9",
+      "displayName": "Ford Bronco Sport Wildtrak 2.0 Tb 16V AWD Aut",
+      "valorAtual": 161661,
+      "canonicalPath": "/fipe/ford/bronco-sport-wildtrak-2-0-tb-16v-awd-aut-2022-003481-9/",
+      "ano": 2022,
+      "marca": "Ford"
+    },
+    {
+      "vehicleId": "ford-bronco-sport-wildtrak-2-0-tb-16v-awd-aut-2021-gasolina",
+      "fipeCodigo": "003481-9",
+      "displayName": "Ford Bronco Sport Wildtrak 2.0 Tb 16V AWD Aut",
+      "valorAtual": 148325,
+      "canonicalPath": "/fipe/ford/bronco-sport-wildtrak-2-0-tb-16v-awd-aut-2021-003481-9/",
+      "ano": 2021,
+      "marca": "Ford"
+    },
+    {
+      "vehicleId": "ford-bronco-sport-badlands-2-0l-tb-4wd-aut-0-gasolina",
+      "fipeCodigo": "003513-0",
+      "displayName": "Ford Bronco Sport Badlands 2.0L TB 4WD Aut.",
+      "valorAtual": 267733,
+      "canonicalPath": "/fipe/ford/bronco-sport-badlands-2-0l-tb-4wd-aut-0-003513-0/",
+      "ano": 0,
+      "marca": "Ford"
+    }
+  ],
+  "stats": {
+    "total": 6,
+    "precoMin": 148325,
+    "precoMax": 267733,
+    "anos": [
+      2025,
+      2024,
+      2023,
+      2022,
+      2021,
+      0
+    ]
+  }
+}

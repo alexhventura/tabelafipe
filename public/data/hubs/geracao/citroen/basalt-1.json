@@ -1,0 +1,57 @@
+{
+  "tipo": "geracao",
+  "slug": "basalt-1",
+  "canonicalPath": "/geracao/citroen/basalt-1/",
+  "titulo": "Geracao basalt-1",
+  "descricao": "4 veiculos da geracao basalt-1.",
+  "seo": {
+    "title": "Geracao basalt-1 - Precos FIPE",
+    "description": "Veiculos da geracao basalt-1 na Tabela FIPE.",
+    "h1": "Geracao basalt-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/citroen/basalt-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "citroen-basalt-dark-edition-1-0-tb-200-5p-aut-0-flex",
+      "fipeCodigo": "011246-1",
+      "displayName": "Citroën BASALT Dark Edition 1.0 TB 200 5p Aut.",
+      "valorAtual": 120313,
+      "canonicalPath": "/fipe/citroen/basalt-dark-edition-1-0-tb-200-5p-aut-0-011246-1/",
+      "ano": 0,
+      "marca": "Citroën"
+    },
+    {
+      "vehicleId": "citroen-basalt-feel-1-0-flex-6v-5p-mec-0-flex",
+      "fipeCodigo": "011238-0",
+      "displayName": "Citroën BASALT Feel 1.0 Flex 6V 5p Mec.",
+      "valorAtual": 97520,
+      "canonicalPath": "/fipe/citroen/basalt-feel-1-0-flex-6v-5p-mec-0-011238-0/",
+      "ano": 0,
+      "marca": "Citroën"
+    },
+    {
+      "vehicleId": "citroen-basalt-feel-1-0-flex-tb-200-5p-aut-0-flex",
+      "fipeCodigo": "011239-9",
+      "displayName": "Citroën BASALT Feel 1.0 Flex TB 200 5p Aut.",
+      "valorAtual": 112364,
+      "canonicalPath": "/fipe/citroen/basalt-feel-1-0-flex-tb-200-5p-aut-0-011239-9/",
+      "ano": 0,
+      "marca": "Citroën"
+    },
+    {
+      "vehicleId": "citroen-basalt-shine-1-0-flex-tb-200-5p-aut-0-flex",
+      "fipeCodigo": "011240-2",
+      "displayName": "Citroën BASALT Shine 1.0 Flex TB 200 5p Aut.",
+      "valorAtual": 117661,
+      "canonicalPath": "/fipe/citroen/basalt-shine-1-0-flex-tb-200-5p-aut-0-011240-2/",
+      "ano": 0,
+      "marca": "Citroën"
+    }
+  ],
+  "stats": {
+    "total": 4
+  },
+  "meta": {
+    "geracaoId": "basalt-1"
+  }
+}

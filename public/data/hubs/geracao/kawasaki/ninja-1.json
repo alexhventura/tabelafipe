@@ -1,0 +1,93 @@
+{
+  "tipo": "geracao",
+  "slug": "ninja-1",
+  "canonicalPath": "/geracao/kawasaki/ninja-1/",
+  "titulo": "Geracao ninja-1",
+  "descricao": "8 veiculos da geracao ninja-1.",
+  "seo": {
+    "title": "Geracao ninja-1 - Precos FIPE",
+    "description": "Veiculos da geracao ninja-1 na Tabela FIPE.",
+    "h1": "Geracao ninja-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/kawasaki/ninja-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "kawasaki-ninja-300-0-gasolina",
+      "fipeCodigo": "817061-4",
+      "displayName": "KAWASAKI NINJA 300",
+      "valorAtual": 31456,
+      "canonicalPath": "/fipe/kawasaki/ninja-300-0-817061-4/",
+      "ano": 0,
+      "marca": "KAWASAKI"
+    },
+    {
+      "vehicleId": "kawasaki-ninja-500-0-gasolina",
+      "fipeCodigo": "817095-9",
+      "displayName": "KAWASAKI NINJA 500",
+      "valorAtual": 39821,
+      "canonicalPath": "/fipe/kawasaki/ninja-500-0-817095-9/",
+      "ano": 0,
+      "marca": "KAWASAKI"
+    },
+    {
+      "vehicleId": "kawasaki-ninja-500-se-0-gasolina",
+      "fipeCodigo": "817094-0",
+      "displayName": "KAWASAKI NINJA 500 SE",
+      "valorAtual": 43934,
+      "canonicalPath": "/fipe/kawasaki/ninja-500-se-0-817094-0/",
+      "ano": 0,
+      "marca": "KAWASAKI"
+    },
+    {
+      "vehicleId": "kawasaki-ninja-650r-649cc-0-gasolina",
+      "fipeCodigo": "817055-0",
+      "displayName": "KAWASAKI NINJA 650R 649cc",
+      "valorAtual": 51677,
+      "canonicalPath": "/fipe/kawasaki/ninja-650r-649cc-0-817055-0/",
+      "ano": 0,
+      "marca": "KAWASAKI"
+    },
+    {
+      "vehicleId": "kawasaki-ninja-zx-10-zx-10r-1000cc-30th-aniv-0-gasolina",
+      "fipeCodigo": "817008-8",
+      "displayName": "KAWASAKI NINJA ZX-10/ ZX-10R 1000cc/30TH Aniv.",
+      "valorAtual": 122481,
+      "canonicalPath": "/fipe/kawasaki/ninja-zx-10-zx-10r-1000cc-30th-aniv-0-817008-8/",
+      "ano": 0,
+      "marca": "KAWASAKI"
+    },
+    {
+      "vehicleId": "kawasaki-ninja-zx-4r-0-gasolina",
+      "fipeCodigo": "817091-6",
+      "displayName": "KAWASAKI NINJA ZX-4R",
+      "valorAtual": 57887,
+      "canonicalPath": "/fipe/kawasaki/ninja-zx-4r-0-817091-6/",
+      "ano": 0,
+      "marca": "KAWASAKI"
+    },
+    {
+      "vehicleId": "kawasaki-ninja-zx-4rr-0-gasolina",
+      "fipeCodigo": "817102-5",
+      "displayName": "KAWASAKI NINJA ZX-4RR",
+      "valorAtual": 60420,
+      "canonicalPath": "/fipe/kawasaki/ninja-zx-4rr-0-817102-5/",
+      "ano": 0,
+      "marca": "KAWASAKI"
+    },
+    {
+      "vehicleId": "kawasaki-ninja-zx-6r-636cc-0-gasolina",
+      "fipeCodigo": "817036-3",
+      "displayName": "KAWASAKI NINJA ZX-6R 636cc",
+      "valorAtual": 74332,
+      "canonicalPath": "/fipe/kawasaki/ninja-zx-6r-636cc-0-817036-3/",
+      "ano": 0,
+      "marca": "KAWASAKI"
+    }
+  ],
+  "stats": {
+    "total": 8
+  },
+  "meta": {
+    "geracaoId": "ninja-1"
+  }
+}

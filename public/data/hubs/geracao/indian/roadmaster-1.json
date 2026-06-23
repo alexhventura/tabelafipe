@@ -1,0 +1,48 @@
+{
+  "tipo": "geracao",
+  "slug": "roadmaster-1",
+  "canonicalPath": "/geracao/indian/roadmaster-1/",
+  "titulo": "Geracao roadmaster-1",
+  "descricao": "3 veiculos da geracao roadmaster-1.",
+  "seo": {
+    "title": "Geracao roadmaster-1 - Precos FIPE",
+    "description": "Veiculos da geracao roadmaster-1 na Tabela FIPE.",
+    "h1": "Geracao roadmaster-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/indian/roadmaster-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "indian-roadmaster-2016-gasolina",
+      "fipeCodigo": "883005-3",
+      "displayName": "INDIAN ROADMASTER",
+      "valorAtual": 78737,
+      "canonicalPath": "/fipe/indian/roadmaster-2016-883005-3/",
+      "ano": 2016,
+      "marca": "INDIAN"
+    },
+    {
+      "vehicleId": "indian-roadmaster-2017-gasolina",
+      "fipeCodigo": "883005-3",
+      "displayName": "INDIAN ROADMASTER",
+      "valorAtual": 90581,
+      "canonicalPath": "/fipe/indian/roadmaster-2017-883005-3/",
+      "ano": 2017,
+      "marca": "INDIAN"
+    },
+    {
+      "vehicleId": "indian-roadmaster-2018-gasolina",
+      "fipeCodigo": "883005-3",
+      "displayName": "INDIAN ROADMASTER",
+      "valorAtual": 104534,
+      "canonicalPath": "/fipe/indian/roadmaster-2018-883005-3/",
+      "ano": 2018,
+      "marca": "INDIAN"
+    }
+  ],
+  "stats": {
+    "total": 3
+  },
+  "meta": {
+    "geracaoId": "roadmaster-1"
+  }
+}

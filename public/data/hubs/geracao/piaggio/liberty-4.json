@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "liberty-4",
+  "canonicalPath": "/geracao/piaggio/liberty-4/",
+  "titulo": "Geracao liberty-4",
+  "descricao": "2 veiculos da geracao liberty-4.",
+  "seo": {
+    "title": "Geracao liberty-4 - Precos FIPE",
+    "description": "Veiculos da geracao liberty-4 na Tabela FIPE.",
+    "h1": "Geracao liberty-4",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/piaggio/liberty-4/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "piaggio-liberty-s-150-iget-2024-gasolina",
+      "fipeCodigo": "822036-0",
+      "displayName": "PIAGGIO Liberty S 150 IGET",
+      "valorAtual": 27088,
+      "canonicalPath": "/fipe/piaggio/liberty-s-150-iget-2024-822036-0/",
+      "ano": 2024,
+      "marca": "PIAGGIO"
+    },
+    {
+      "vehicleId": "piaggio-liberty-s-150-iget-2025-gasolina",
+      "fipeCodigo": "822036-0",
+      "displayName": "PIAGGIO Liberty S 150 IGET",
+      "valorAtual": 27784,
+      "canonicalPath": "/fipe/piaggio/liberty-s-150-iget-2025-822036-0/",
+      "ano": 2025,
+      "marca": "PIAGGIO"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "liberty-4"
+  }
+}

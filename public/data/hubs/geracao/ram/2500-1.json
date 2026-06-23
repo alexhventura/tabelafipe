@@ -1,0 +1,48 @@
+{
+  "tipo": "geracao",
+  "slug": "2500-1",
+  "canonicalPath": "/geracao/ram/2500-1/",
+  "titulo": "Geracao 2500-1",
+  "descricao": "3 veiculos da geracao 2500-1.",
+  "seo": {
+    "title": "Geracao 2500-1 - Precos FIPE",
+    "description": "Veiculos da geracao 2500-1 na Tabela FIPE.",
+    "h1": "Geracao 2500-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/ram/2500-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "ram-2500-laram-6-7-ed-abqm-tb-cd-4x4-die-0-diesel",
+      "fipeCodigo": "083006-2",
+      "displayName": "RAM 2500 LARAM. 6.7 Ed. ABQM TB CD 4X4 Die.",
+      "valorAtual": 422463,
+      "canonicalPath": "/fipe/ram/2500-laram-6-7-ed-abqm-tb-cd-4x4-die-0-083006-2/",
+      "ano": 0,
+      "marca": "RAM"
+    },
+    {
+      "vehicleId": "ram-2500-laram-6-7-night-ed-tb-cd-4x4-die-0-diesel",
+      "fipeCodigo": "083003-8",
+      "displayName": "RAM 2500 LARAM. 6.7 NIGHT ED. TB CD 4x4 Die.",
+      "valorAtual": 483197,
+      "canonicalPath": "/fipe/ram/2500-laram-6-7-night-ed-tb-cd-4x4-die-0-083003-8/",
+      "ano": 0,
+      "marca": "RAM"
+    },
+    {
+      "vehicleId": "ram-2500-laramie-6-7-tdi-cd-4x4-diesel-0-diesel",
+      "fipeCodigo": "083001-1",
+      "displayName": "RAM 2500 LARAMIE  6.7 TDI  CD 4x4 Diesel",
+      "valorAtual": 560018,
+      "canonicalPath": "/fipe/ram/2500-laramie-6-7-tdi-cd-4x4-diesel-0-083001-1/",
+      "ano": 0,
+      "marca": "RAM"
+    }
+  ],
+  "stats": {
+    "total": 3
+  },
+  "meta": {
+    "geracaoId": "2500-1"
+  }
+}

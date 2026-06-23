@@ -1,0 +1,102 @@
+{
+  "tipo": "geracao",
+  "slug": "mp3-2",
+  "canonicalPath": "/geracao/piaggio/mp3-2/",
+  "titulo": "Geracao mp3-2",
+  "descricao": "9 veiculos da geracao mp3-2.",
+  "seo": {
+    "title": "Geracao mp3-2 - Precos FIPE",
+    "description": "Veiculos da geracao mp3-2 na Tabela FIPE.",
+    "h1": "Geracao mp3-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/piaggio/mp3-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "piaggio-mp3-300-278cc-2012-gasolina",
+      "fipeCodigo": "822026-3",
+      "displayName": "PIAGGIO MP3 300 278cc",
+      "valorAtual": 26880,
+      "canonicalPath": "/fipe/piaggio/mp3-300-278cc-2012-822026-3/",
+      "ano": 2012,
+      "marca": "PIAGGIO"
+    },
+    {
+      "vehicleId": "piaggio-mp3-300-278cc-2013-gasolina",
+      "fipeCodigo": "822026-3",
+      "displayName": "PIAGGIO MP3 300 278cc",
+      "valorAtual": 27571,
+      "canonicalPath": "/fipe/piaggio/mp3-300-278cc-2013-822026-3/",
+      "ano": 2013,
+      "marca": "PIAGGIO"
+    },
+    {
+      "vehicleId": "piaggio-mp3-400-398cc-2008-gasolina",
+      "fipeCodigo": "822019-0",
+      "displayName": "PIAGGIO MP3 400 398cc",
+      "valorAtual": 27300,
+      "canonicalPath": "/fipe/piaggio/mp3-400-398cc-2008-822019-0/",
+      "ano": 2008,
+      "marca": "PIAGGIO"
+    },
+    {
+      "vehicleId": "piaggio-mp3-400-398cc-2009-gasolina",
+      "fipeCodigo": "822019-0",
+      "displayName": "PIAGGIO MP3 400 398cc",
+      "valorAtual": 28858,
+      "canonicalPath": "/fipe/piaggio/mp3-400-398cc-2009-822019-0/",
+      "ano": 2009,
+      "marca": "PIAGGIO"
+    },
+    {
+      "vehicleId": "piaggio-mp3-400-398cc-2010-gasolina",
+      "fipeCodigo": "822019-0",
+      "displayName": "PIAGGIO MP3 400 398cc",
+      "valorAtual": 29607,
+      "canonicalPath": "/fipe/piaggio/mp3-400-398cc-2010-822019-0/",
+      "ano": 2010,
+      "marca": "PIAGGIO"
+    },
+    {
+      "vehicleId": "piaggio-mp3-500-493cc-2010-gasolina",
+      "fipeCodigo": "822021-2",
+      "displayName": "PIAGGIO MP3 500 493cc",
+      "valorAtual": 31098,
+      "canonicalPath": "/fipe/piaggio/mp3-500-493cc-2010-822021-2/",
+      "ano": 2010,
+      "marca": "PIAGGIO"
+    },
+    {
+      "vehicleId": "piaggio-mp3-500-493cc-2011-gasolina",
+      "fipeCodigo": "822021-2",
+      "displayName": "PIAGGIO MP3 500 493cc",
+      "valorAtual": 31876,
+      "canonicalPath": "/fipe/piaggio/mp3-500-493cc-2011-822021-2/",
+      "ano": 2011,
+      "marca": "PIAGGIO"
+    },
+    {
+      "vehicleId": "piaggio-mp3-500-493cc-2012-gasolina",
+      "fipeCodigo": "822021-2",
+      "displayName": "PIAGGIO MP3 500 493cc",
+      "valorAtual": 34783,
+      "canonicalPath": "/fipe/piaggio/mp3-500-493cc-2012-822021-2/",
+      "ano": 2012,
+      "marca": "PIAGGIO"
+    },
+    {
+      "vehicleId": "piaggio-mp3-500-493cc-2013-gasolina",
+      "fipeCodigo": "822021-2",
+      "displayName": "PIAGGIO MP3 500 493cc",
+      "valorAtual": 35653,
+      "canonicalPath": "/fipe/piaggio/mp3-500-493cc-2013-822021-2/",
+      "ano": 2013,
+      "marca": "PIAGGIO"
+    }
+  ],
+  "stats": {
+    "total": 9
+  },
+  "meta": {
+    "geracaoId": "mp3-2"
+  }
+}

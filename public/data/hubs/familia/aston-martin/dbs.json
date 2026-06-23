@@ -1,0 +1,42 @@
+{
+  "tipo": "familia",
+  "slug": "dbs",
+  "canonicalPath": "/fipe/aston-martin/dbs/",
+  "titulo": "ASTON MARTIN dbs - Tabela FIPE",
+  "descricao": "2 versoes e anos do ASTON MARTIN dbs na Tabela FIPE.",
+  "seo": {
+    "title": "ASTON MARTIN dbs - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes ASTON MARTIN dbs. 2 veiculos indexados.",
+    "h1": "ASTON MARTIN dbs - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/aston-martin/dbs/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "aston-martin-dbs-coupe-5-2-v12-725cv-2023-gasolina",
+      "fipeCodigo": "085014-4",
+      "displayName": "ASTON MARTIN DBS Coupe 5.2 V12 725cv",
+      "valorAtual": 3977000,
+      "canonicalPath": "/fipe/aston-martin/dbs-coupe-5-2-v12-725cv-2023-085014-4/",
+      "ano": 2023,
+      "marca": "ASTON MARTIN"
+    },
+    {
+      "vehicleId": "aston-martin-dbs-coupe-5-2-v12-725cv-2022-gasolina",
+      "fipeCodigo": "085014-4",
+      "displayName": "ASTON MARTIN DBS Coupe 5.2 V12 725cv",
+      "valorAtual": 3655514,
+      "canonicalPath": "/fipe/aston-martin/dbs-coupe-5-2-v12-725cv-2022-085014-4/",
+      "ano": 2022,
+      "marca": "ASTON MARTIN"
+    }
+  ],
+  "stats": {
+    "total": 2,
+    "precoMin": 3655514,
+    "precoMax": 3977000,
+    "anos": [
+      2023,
+      2022
+    ]
+  }
+}

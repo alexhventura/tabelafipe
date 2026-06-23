@@ -1,0 +1,116 @@
+{
+  "tipo": "familia",
+  "slug": "topic",
+  "canonicalPath": "/fipe/asia-motors/topic/",
+  "titulo": "Asia Motors topic - Tabela FIPE",
+  "descricao": "10 versoes e anos do Asia Motors topic na Tabela FIPE.",
+  "seo": {
+    "title": "Asia Motors topic - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes Asia Motors topic. 10 veiculos indexados.",
+    "h1": "Asia Motors topic - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/asia-motors/topic/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "asia-motors-topic-carga-2-7-diesel-furgao-1999-diesel",
+      "fipeCodigo": "007016-5",
+      "displayName": "Asia Motors Topic Carga 2.7 Diesel (furgão)",
+      "valorAtual": 16005,
+      "canonicalPath": "/fipe/asia-motors/topic-carga-2-7-diesel-furgao-1999-007016-5/",
+      "ano": 1999,
+      "marca": "Asia Motors"
+    },
+    {
+      "vehicleId": "asia-motors-topic-luxo-diesel-1999-diesel",
+      "fipeCodigo": "007014-9",
+      "displayName": "Asia Motors Topic Luxo Diesel",
+      "valorAtual": 16550,
+      "canonicalPath": "/fipe/asia-motors/topic-luxo-diesel-1999-007014-9/",
+      "ano": 1999,
+      "marca": "Asia Motors"
+    },
+    {
+      "vehicleId": "asia-motors-topic-super-luxo-diesel-1999-diesel",
+      "fipeCodigo": "007015-7",
+      "displayName": "Asia Motors Topic Super Luxo Diesel",
+      "valorAtual": 19217,
+      "canonicalPath": "/fipe/asia-motors/topic-super-luxo-diesel-1999-007015-7/",
+      "ano": 1999,
+      "marca": "Asia Motors"
+    },
+    {
+      "vehicleId": "asia-motors-topic-carga-2-7-diesel-furgao-1998-diesel",
+      "fipeCodigo": "007016-5",
+      "displayName": "Asia Motors Topic Carga 2.7 Diesel (furgão)",
+      "valorAtual": 13621,
+      "canonicalPath": "/fipe/asia-motors/topic-carga-2-7-diesel-furgao-1998-007016-5/",
+      "ano": 1998,
+      "marca": "Asia Motors"
+    },
+    {
+      "vehicleId": "asia-motors-topic-luxo-diesel-1998-diesel",
+      "fipeCodigo": "007014-9",
+      "displayName": "Asia Motors Topic Luxo Diesel",
+      "valorAtual": 14617,
+      "canonicalPath": "/fipe/asia-motors/topic-luxo-diesel-1998-007014-9/",
+      "ano": 1998,
+      "marca": "Asia Motors"
+    },
+    {
+      "vehicleId": "asia-motors-topic-super-luxo-diesel-1998-diesel",
+      "fipeCodigo": "007015-7",
+      "displayName": "Asia Motors Topic Super Luxo Diesel",
+      "valorAtual": 15229,
+      "canonicalPath": "/fipe/asia-motors/topic-super-luxo-diesel-1998-007015-7/",
+      "ano": 1998,
+      "marca": "Asia Motors"
+    },
+    {
+      "vehicleId": "asia-motors-topic-luxo-diesel-1997-diesel",
+      "fipeCodigo": "007014-9",
+      "displayName": "Asia Motors Topic Luxo Diesel",
+      "valorAtual": 13182,
+      "canonicalPath": "/fipe/asia-motors/topic-luxo-diesel-1997-007014-9/",
+      "ano": 1997,
+      "marca": "Asia Motors"
+    },
+    {
+      "vehicleId": "asia-motors-topic-carga-2-7-diesel-furgao-1997-diesel",
+      "fipeCodigo": "007016-5",
+      "displayName": "Asia Motors Topic Carga 2.7 Diesel (furgão)",
+      "valorAtual": 13244,
+      "canonicalPath": "/fipe/asia-motors/topic-carga-2-7-diesel-furgao-1997-007016-5/",
+      "ano": 1997,
+      "marca": "Asia Motors"
+    },
+    {
+      "vehicleId": "asia-motors-topic-super-luxo-diesel-1997-diesel",
+      "fipeCodigo": "007015-7",
+      "displayName": "Asia Motors Topic Super Luxo Diesel",
+      "valorAtual": 14320,
+      "canonicalPath": "/fipe/asia-motors/topic-super-luxo-diesel-1997-007015-7/",
+      "ano": 1997,
+      "marca": "Asia Motors"
+    },
+    {
+      "vehicleId": "asia-motors-topic-super-luxo-diesel-1996-diesel",
+      "fipeCodigo": "007015-7",
+      "displayName": "Asia Motors Topic Super Luxo Diesel",
+      "valorAtual": 11699,
+      "canonicalPath": "/fipe/asia-motors/topic-super-luxo-diesel-1996-007015-7/",
+      "ano": 1996,
+      "marca": "Asia Motors"
+    }
+  ],
+  "stats": {
+    "total": 10,
+    "precoMin": 11699,
+    "precoMax": 19217,
+    "anos": [
+      1999,
+      1998,
+      1997,
+      1996
+    ]
+  }
+}

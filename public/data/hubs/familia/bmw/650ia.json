@@ -1,0 +1,82 @@
+{
+  "tipo": "familia",
+  "slug": "650ia",
+  "canonicalPath": "/fipe/bmw/650ia/",
+  "titulo": "BMW 650ia - Tabela FIPE",
+  "descricao": "6 versoes e anos do BMW 650ia na Tabela FIPE.",
+  "seo": {
+    "title": "BMW 650ia - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes BMW 650ia. 6 veiculos indexados.",
+    "h1": "BMW 650ia - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/bmw/650ia/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "bmw-650ia-4-4-407cv-bi-turbo-2012-gasolina",
+      "fipeCodigo": "009166-9",
+      "displayName": "BMW 650iA 4.4 407cv Bi-Turbo",
+      "valorAtual": 221797,
+      "canonicalPath": "/fipe/bmw/650ia-4-4-407cv-bi-turbo-2012-009166-9/",
+      "ano": 2012,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-650ia-limited-sport-edition-4-8-32v-2010-gasolina",
+      "fipeCodigo": "009141-3",
+      "displayName": "BMW 650iA Limited Sport  Edition 4.8 32V",
+      "valorAtual": 168398,
+      "canonicalPath": "/fipe/bmw/650ia-limited-sport-edition-4-8-32v-2010-009141-3/",
+      "ano": 2010,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-650ia-4-8-v8-32v-360cv-2009-gasolina",
+      "fipeCodigo": "009114-6",
+      "displayName": "BMW 650iA 4.8 V8 32V 360cv",
+      "valorAtual": 158552,
+      "canonicalPath": "/fipe/bmw/650ia-4-8-v8-32v-360cv-2009-009114-6/",
+      "ano": 2009,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-650ia-4-8-v8-32v-360cv-2008-gasolina",
+      "fipeCodigo": "009114-6",
+      "displayName": "BMW 650iA 4.8 V8 32V 360cv",
+      "valorAtual": 144028,
+      "canonicalPath": "/fipe/bmw/650ia-4-8-v8-32v-360cv-2008-009114-6/",
+      "ano": 2008,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-650ia-4-8-v8-32v-360cv-2007-gasolina",
+      "fipeCodigo": "009114-6",
+      "displayName": "BMW 650iA 4.8 V8 32V 360cv",
+      "valorAtual": 140515,
+      "canonicalPath": "/fipe/bmw/650ia-4-8-v8-32v-360cv-2007-009114-6/",
+      "ano": 2007,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-650ia-4-8-v8-32v-360cv-2006-gasolina",
+      "fipeCodigo": "009114-6",
+      "displayName": "BMW 650iA 4.8 V8 32V 360cv",
+      "valorAtual": 137087,
+      "canonicalPath": "/fipe/bmw/650ia-4-8-v8-32v-360cv-2006-009114-6/",
+      "ano": 2006,
+      "marca": "BMW"
+    }
+  ],
+  "stats": {
+    "total": 6,
+    "precoMin": 137087,
+    "precoMax": 221797,
+    "anos": [
+      2012,
+      2010,
+      2009,
+      2008,
+      2007,
+      2006
+    ]
+  }
+}

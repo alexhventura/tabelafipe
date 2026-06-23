@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "defe-1",
+  "canonicalPath": "/geracao/land-rover/defe-1/",
+  "titulo": "Geracao defe-1",
+  "descricao": "2 veiculos da geracao defe-1.",
+  "seo": {
+    "title": "Geracao defe-1 - Precos FIPE",
+    "description": "Veiculos da geracao defe-1 na Tabela FIPE.",
+    "h1": "Geracao defe-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/land-rover/defe-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "land-rover-defe-110-x-dy-hse-d300-die-aut-hib-0-hibrido",
+      "fipeCodigo": "033194-5",
+      "displayName": "Land Rover Defe. 110 X-DY.HSE D300 Die Aut. (Híb.)",
+      "valorAtual": 746292,
+      "canonicalPath": "/fipe/land-rover/defe-110-x-dy-hse-d300-die-aut-hib-0-033194-5/",
+      "ano": 0,
+      "marca": "Land Rover"
+    },
+    {
+      "vehicleId": "land-rover-defe-110-x-dy-hse-d350-die-aut-hib-0-hibrido",
+      "fipeCodigo": "033237-2",
+      "displayName": "Land Rover Defe. 110 X-DY.HSE D350 Die Aut. (Híb.)",
+      "valorAtual": 849701,
+      "canonicalPath": "/fipe/land-rover/defe-110-x-dy-hse-d350-die-aut-hib-0-033237-2/",
+      "ano": 0,
+      "marca": "Land Rover"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "defe-1"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "tipo": "familia",
+  "slug": "caravelle",
+  "canonicalPath": "/fipe/volkswagen/caravelle/",
+  "titulo": "VW - VolksWagen caravelle - Tabela FIPE",
+  "descricao": "3 versoes e anos do VW - VolksWagen caravelle na Tabela FIPE.",
+  "seo": {
+    "title": "VW - VolksWagen caravelle - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes VW - VolksWagen caravelle. 3 veiculos indexados.",
+    "h1": "VW - VolksWagen caravelle - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/volkswagen/caravelle/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "volkswagen-caravelle-2-4-diesel-2000-diesel",
+      "fipeCodigo": "005083-0",
+      "displayName": "VW - VolksWagen Caravelle 2.4 Diesel",
+      "valorAtual": 29969,
+      "canonicalPath": "/fipe/volkswagen/caravelle-2-4-diesel-2000-005083-0/",
+      "ano": 2000,
+      "marca": "VW - VolksWagen"
+    },
+    {
+      "vehicleId": "volkswagen-caravelle-2-4-diesel-1999-diesel",
+      "fipeCodigo": "005083-0",
+      "displayName": "VW - VolksWagen Caravelle 2.4 Diesel",
+      "valorAtual": 28694,
+      "canonicalPath": "/fipe/volkswagen/caravelle-2-4-diesel-1999-005083-0/",
+      "ano": 1999,
+      "marca": "VW - VolksWagen"
+    },
+    {
+      "vehicleId": "volkswagen-caravelle-2-4-diesel-1998-diesel",
+      "fipeCodigo": "005083-0",
+      "displayName": "VW - VolksWagen Caravelle 2.4 Diesel",
+      "valorAtual": 26115,
+      "canonicalPath": "/fipe/volkswagen/caravelle-2-4-diesel-1998-005083-0/",
+      "ano": 1998,
+      "marca": "VW - VolksWagen"
+    }
+  ],
+  "stats": {
+    "total": 3,
+    "precoMin": 26115,
+    "precoMax": 29969,
+    "anos": [
+      2000,
+      1999,
+      1998
+    ]
+  }
+}

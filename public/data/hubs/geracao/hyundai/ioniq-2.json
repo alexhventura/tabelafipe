@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "ioniq-2",
+  "canonicalPath": "/geracao/hyundai/ioniq-2/",
+  "titulo": "Geracao ioniq-2",
+  "descricao": "2 veiculos da geracao ioniq-2.",
+  "seo": {
+    "title": "Geracao ioniq-2 - Precos FIPE",
+    "description": "Veiculos da geracao ioniq-2 na Tabela FIPE.",
+    "h1": "Geracao ioniq-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/hyundai/ioniq-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "hyundai-ioniq-1-6-16v-aut-hibrido-2022-hibrido",
+      "fipeCodigo": "015230-7",
+      "displayName": "Hyundai IONIQ 1.6 16V Aut. (Híbrido)",
+      "valorAtual": 111511,
+      "canonicalPath": "/fipe/hyundai/ioniq-1-6-16v-aut-hibrido-2022-015230-7/",
+      "ano": 2022,
+      "marca": "Hyundai"
+    },
+    {
+      "vehicleId": "hyundai-ioniq-1-6-16v-aut-hibrido-2023-hibrido",
+      "fipeCodigo": "015230-7",
+      "displayName": "Hyundai IONIQ 1.6 16V Aut. (Híbrido)",
+      "valorAtual": 115657,
+      "canonicalPath": "/fipe/hyundai/ioniq-1-6-16v-aut-hibrido-2023-015230-7/",
+      "ano": 2023,
+      "marca": "Hyundai"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "ioniq-2"
+  }
+}

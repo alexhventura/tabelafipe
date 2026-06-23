@@ -1,0 +1,42 @@
+{
+  "tipo": "familia",
+  "slug": "super",
+  "canonicalPath": "/fipe/daewoo/super/",
+  "titulo": "Daewoo super - Tabela FIPE",
+  "descricao": "2 versoes e anos do Daewoo super na Tabela FIPE.",
+  "seo": {
+    "title": "Daewoo super - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes Daewoo super. 2 veiculos indexados.",
+    "h1": "Daewoo super - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/daewoo/super/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "daewoo-super-salon-ace-1995-gasolina",
+      "fipeCodigo": "030004-7",
+      "displayName": "Daewoo Super Salon Ace",
+      "valorAtual": 14626,
+      "canonicalPath": "/fipe/daewoo/super-salon-ace-1995-030004-7/",
+      "ano": 1995,
+      "marca": "Daewoo"
+    },
+    {
+      "vehicleId": "daewoo-super-salon-ace-1994-gasolina",
+      "fipeCodigo": "030004-7",
+      "displayName": "Daewoo Super Salon Ace",
+      "valorAtual": 12415,
+      "canonicalPath": "/fipe/daewoo/super-salon-ace-1994-030004-7/",
+      "ano": 1994,
+      "marca": "Daewoo"
+    }
+  ],
+  "stats": {
+    "total": 2,
+    "precoMin": 12415,
+    "precoMax": 14626,
+    "anos": [
+      1995,
+      1994
+    ]
+  }
+}

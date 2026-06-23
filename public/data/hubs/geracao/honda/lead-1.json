@@ -1,0 +1,84 @@
+{
+  "tipo": "geracao",
+  "slug": "lead-1",
+  "canonicalPath": "/geracao/honda/lead-1/",
+  "titulo": "Geracao lead-1",
+  "descricao": "7 veiculos da geracao lead-1.",
+  "seo": {
+    "title": "Geracao lead-1 - Precos FIPE",
+    "description": "Veiculos da geracao lead-1 na Tabela FIPE.",
+    "h1": "Geracao lead-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/honda/lead-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "honda-lead-110-2010-gasolina",
+      "fipeCodigo": "811099-9",
+      "displayName": "HONDA LEAD 110",
+      "valorAtual": 7782,
+      "canonicalPath": "/fipe/honda/lead-110-2010-811099-9/",
+      "ano": 2010,
+      "marca": "HONDA"
+    },
+    {
+      "vehicleId": "honda-lead-110-2011-gasolina",
+      "fipeCodigo": "811099-9",
+      "displayName": "HONDA LEAD 110",
+      "valorAtual": 7977,
+      "canonicalPath": "/fipe/honda/lead-110-2011-811099-9/",
+      "ano": 2011,
+      "marca": "HONDA"
+    },
+    {
+      "vehicleId": "honda-lead-110-2012-gasolina",
+      "fipeCodigo": "811099-9",
+      "displayName": "HONDA LEAD 110",
+      "valorAtual": 8177,
+      "canonicalPath": "/fipe/honda/lead-110-2012-811099-9/",
+      "ano": 2012,
+      "marca": "HONDA"
+    },
+    {
+      "vehicleId": "honda-lead-110-2013-gasolina",
+      "fipeCodigo": "811099-9",
+      "displayName": "HONDA LEAD 110",
+      "valorAtual": 8382,
+      "canonicalPath": "/fipe/honda/lead-110-2013-811099-9/",
+      "ano": 2013,
+      "marca": "HONDA"
+    },
+    {
+      "vehicleId": "honda-lead-110-2014-gasolina",
+      "fipeCodigo": "811099-9",
+      "displayName": "HONDA LEAD 110",
+      "valorAtual": 8770,
+      "canonicalPath": "/fipe/honda/lead-110-2014-811099-9/",
+      "ano": 2014,
+      "marca": "HONDA"
+    },
+    {
+      "vehicleId": "honda-lead-110-2015-gasolina",
+      "fipeCodigo": "811099-9",
+      "displayName": "HONDA LEAD 110",
+      "valorAtual": 9322,
+      "canonicalPath": "/fipe/honda/lead-110-2015-811099-9/",
+      "ano": 2015,
+      "marca": "HONDA"
+    },
+    {
+      "vehicleId": "honda-lead-110-2016-gasolina",
+      "fipeCodigo": "811099-9",
+      "displayName": "HONDA LEAD 110",
+      "valorAtual": 9556,
+      "canonicalPath": "/fipe/honda/lead-110-2016-811099-9/",
+      "ano": 2016,
+      "marca": "HONDA"
+    }
+  ],
+  "stats": {
+    "total": 7
+  },
+  "meta": {
+    "geracaoId": "lead-1"
+  }
+}

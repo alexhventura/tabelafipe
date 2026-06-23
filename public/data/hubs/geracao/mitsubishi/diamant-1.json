@@ -1,0 +1,48 @@
+{
+  "tipo": "geracao",
+  "slug": "diamant-1",
+  "canonicalPath": "/geracao/mitsubishi/diamant-1/",
+  "titulo": "Geracao diamant-1",
+  "descricao": "3 veiculos da geracao diamant-1.",
+  "seo": {
+    "title": "Geracao diamant-1 - Precos FIPE",
+    "description": "Veiculos da geracao diamant-1 na Tabela FIPE.",
+    "h1": "Geracao diamant-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/mitsubishi/diamant-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "mitsubishi-diamant-ls-3-0-v6-1991-gasolina",
+      "fipeCodigo": "022030-2",
+      "displayName": "Mitsubishi Diamant  LS 3.0 V6",
+      "valorAtual": 7900,
+      "canonicalPath": "/fipe/mitsubishi/diamant-ls-3-0-v6-1991-022030-2/",
+      "ano": 1991,
+      "marca": "Mitsubishi"
+    },
+    {
+      "vehicleId": "mitsubishi-diamant-ls-3-0-v6-1992-gasolina",
+      "fipeCodigo": "022030-2",
+      "displayName": "Mitsubishi Diamant  LS 3.0 V6",
+      "valorAtual": 9728,
+      "canonicalPath": "/fipe/mitsubishi/diamant-ls-3-0-v6-1992-022030-2/",
+      "ano": 1992,
+      "marca": "Mitsubishi"
+    },
+    {
+      "vehicleId": "mitsubishi-diamant-ls-3-0-v6-1993-gasolina",
+      "fipeCodigo": "022030-2",
+      "displayName": "Mitsubishi Diamant  LS 3.0 V6",
+      "valorAtual": 11046,
+      "canonicalPath": "/fipe/mitsubishi/diamant-ls-3-0-v6-1993-022030-2/",
+      "ano": 1993,
+      "marca": "Mitsubishi"
+    }
+  ],
+  "stats": {
+    "total": 3
+  },
+  "meta": {
+    "geracaoId": "diamant-1"
+  }
+}

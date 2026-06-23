@@ -1,0 +1,363 @@
+{
+  "tipo": "geracao",
+  "slug": "mobi-2",
+  "canonicalPath": "/geracao/fiat/mobi-2/",
+  "titulo": "Geracao mobi-2",
+  "descricao": "38 veiculos da geracao mobi-2.",
+  "seo": {
+    "title": "Geracao mobi-2 - Precos FIPE",
+    "description": "Veiculos da geracao mobi-2 na Tabela FIPE.",
+    "h1": "Geracao mobi-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/fiat/mobi-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "fiat-mobi-drive-1-0-flex-6v-5p-2017-flex",
+      "fipeCodigo": "001480-0",
+      "displayName": "Fiat MOBI DRIVE 1.0 Flex 6V 5p",
+      "valorAtual": 39256,
+      "canonicalPath": "/fipe/fiat/mobi-drive-1-0-flex-6v-5p-2017-001480-0/",
+      "ano": 2017,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-mobi-drive-1-0-flex-6v-5p-2018-flex",
+      "fipeCodigo": "001480-0",
+      "displayName": "Fiat MOBI DRIVE 1.0 Flex 6V 5p",
+      "valorAtual": 41138,
+      "canonicalPath": "/fipe/fiat/mobi-drive-1-0-flex-6v-5p-2018-001480-0/",
+      "ano": 2018,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-mobi-drive-1-0-flex-6v-5p-2019-flex",
+      "fipeCodigo": "001480-0",
+      "displayName": "Fiat MOBI DRIVE 1.0 Flex 6V 5p",
+      "valorAtual": 42895,
+      "canonicalPath": "/fipe/fiat/mobi-drive-1-0-flex-6v-5p-2019-001480-0/",
+      "ano": 2019,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-mobi-drive-1-0-flex-6v-5p-2020-flex",
+      "fipeCodigo": "001480-0",
+      "displayName": "Fiat MOBI DRIVE 1.0 Flex 6V 5p",
+      "valorAtual": 45698,
+      "canonicalPath": "/fipe/fiat/mobi-drive-1-0-flex-6v-5p-2020-001480-0/",
+      "ano": 2020,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-mobi-drive-gsr-1-0-flex-6v-5p-2018-flex",
+      "fipeCodigo": "001482-6",
+      "displayName": "Fiat MOBI DRIVE GSR 1.0 Flex 6V 5p",
+      "valorAtual": 39944,
+      "canonicalPath": "/fipe/fiat/mobi-drive-gsr-1-0-flex-6v-5p-2018-001482-6/",
+      "ano": 2018,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-mobi-drive-gsr-1-0-flex-6v-5p-2019-flex",
+      "fipeCodigo": "001482-6",
+      "displayName": "Fiat MOBI DRIVE GSR 1.0 Flex 6V 5p",
+      "valorAtual": 42801,
+      "canonicalPath": "/fipe/fiat/mobi-drive-gsr-1-0-flex-6v-5p-2019-001482-6/",
+      "ano": 2019,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-mobi-drive-gsr-1-0-flex-6v-5p-2020-flex",
+      "fipeCodigo": "001482-6",
+      "displayName": "Fiat MOBI DRIVE GSR 1.0 Flex 6V 5p",
+      "valorAtual": 47655,
+      "canonicalPath": "/fipe/fiat/mobi-drive-gsr-1-0-flex-6v-5p-2020-001482-6/",
+      "ano": 2020,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-mobi-easy-1-0-fire-flex-5p-2017-flex",
+      "fipeCodigo": "001463-0",
+      "displayName": "Fiat MOBI EASY 1.0 Fire Flex 5p.",
+      "valorAtual": 38537,
+      "canonicalPath": "/fipe/fiat/mobi-easy-1-0-fire-flex-5p-2017-001463-0/",
+      "ano": 2017,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-mobi-easy-1-0-fire-flex-5p-2018-flex",
+      "fipeCodigo": "001463-0",
+      "displayName": "Fiat MOBI EASY 1.0 Fire Flex 5p.",
+      "valorAtual": 39501,
+      "canonicalPath": "/fipe/fiat/mobi-easy-1-0-fire-flex-5p-2018-001463-0/",
+      "ano": 2018,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-mobi-easy-1-0-fire-flex-5p-2019-flex",
+      "fipeCodigo": "001463-0",
+      "displayName": "Fiat MOBI EASY 1.0 Fire Flex 5p.",
+      "valorAtual": 40489,
+      "canonicalPath": "/fipe/fiat/mobi-easy-1-0-fire-flex-5p-2019-001463-0/",
+      "ano": 2019,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-mobi-easy-1-0-fire-flex-5p-2020-flex",
+      "fipeCodigo": "001463-0",
+      "displayName": "Fiat MOBI EASY 1.0 Fire Flex 5p.",
+      "valorAtual": 41502,
+      "canonicalPath": "/fipe/fiat/mobi-easy-1-0-fire-flex-5p-2020-001463-0/",
+      "ano": 2020,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-mobi-easy-1-0-fire-flex-5p-2021-flex",
+      "fipeCodigo": "001463-0",
+      "displayName": "Fiat MOBI EASY 1.0 Fire Flex 5p.",
+      "valorAtual": 43720,
+      "canonicalPath": "/fipe/fiat/mobi-easy-1-0-fire-flex-5p-2021-001463-0/",
+      "ano": 2021,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-mobi-easy-1-0-fire-flex-5p-2022-flex",
+      "fipeCodigo": "001463-0",
+      "displayName": "Fiat MOBI EASY 1.0 Fire Flex 5p.",
+      "valorAtual": 49002,
+      "canonicalPath": "/fipe/fiat/mobi-easy-1-0-fire-flex-5p-2022-001463-0/",
+      "ano": 2022,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-mobi-easy-comfort-1-0-flex-5p-2019-flex",
+      "fipeCodigo": "001510-5",
+      "displayName": "Fiat MOBI EASY COMFORT 1.0 Flex 5p.",
+      "valorAtual": 41343,
+      "canonicalPath": "/fipe/fiat/mobi-easy-comfort-1-0-flex-5p-2019-001510-5/",
+      "ano": 2019,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-mobi-easy-comfort-1-0-flex-5p-2020-flex",
+      "fipeCodigo": "001510-5",
+      "displayName": "Fiat MOBI EASY COMFORT 1.0 Flex 5p.",
+      "valorAtual": 43530,
+      "canonicalPath": "/fipe/fiat/mobi-easy-comfort-1-0-flex-5p-2020-001510-5/",
+      "ano": 2020,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-mobi-easy-on-1-0-fire-flex-5p-2017-flex",
+      "fipeCodigo": "001464-8",
+      "displayName": "Fiat MOBI EASY on 1.0 Fire Flex 5p.",
+      "valorAtual": 41446,
+      "canonicalPath": "/fipe/fiat/mobi-easy-on-1-0-fire-flex-5p-2017-001464-8/",
+      "ano": 2017,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-mobi-like-1-0-fire-flex-5p-2017-flex",
+      "fipeCodigo": "001461-3",
+      "displayName": "Fiat MOBI LIKE 1.0 Fire Flex 5p.",
+      "valorAtual": 41743,
+      "canonicalPath": "/fipe/fiat/mobi-like-1-0-fire-flex-5p-2017-001461-3/",
+      "ano": 2017,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-mobi-like-1-0-fire-flex-5p-2018-flex",
+      "fipeCodigo": "001461-3",
+      "displayName": "Fiat MOBI LIKE 1.0 Fire Flex 5p.",
+      "valorAtual": 42787,
+      "canonicalPath": "/fipe/fiat/mobi-like-1-0-fire-flex-5p-2018-001461-3/",
+      "ano": 2018,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-mobi-like-1-0-fire-flex-5p-2019-flex",
+      "fipeCodigo": "001461-3",
+      "displayName": "Fiat MOBI LIKE 1.0 Fire Flex 5p.",
+      "valorAtual": 43857,
+      "canonicalPath": "/fipe/fiat/mobi-like-1-0-fire-flex-5p-2019-001461-3/",
+      "ano": 2019,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-mobi-like-1-0-fire-flex-5p-2020-flex",
+      "fipeCodigo": "001461-3",
+      "displayName": "Fiat MOBI LIKE 1.0 Fire Flex 5p.",
+      "valorAtual": 44954,
+      "canonicalPath": "/fipe/fiat/mobi-like-1-0-fire-flex-5p-2020-001461-3/",
+      "ano": 2020,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-mobi-like-1-0-fire-flex-5p-2021-flex",
+      "fipeCodigo": "001461-3",
+      "displayName": "Fiat MOBI LIKE 1.0 Fire Flex 5p.",
+      "valorAtual": 46518,
+      "canonicalPath": "/fipe/fiat/mobi-like-1-0-fire-flex-5p-2021-001461-3/",
+      "ano": 2021,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-mobi-like-1-0-fire-flex-5p-2022-flex",
+      "fipeCodigo": "001461-3",
+      "displayName": "Fiat MOBI LIKE 1.0 Fire Flex 5p.",
+      "valorAtual": 50190,
+      "canonicalPath": "/fipe/fiat/mobi-like-1-0-fire-flex-5p-2022-001461-3/",
+      "ano": 2022,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-mobi-like-1-0-fire-flex-5p-2023-flex",
+      "fipeCodigo": "001461-3",
+      "displayName": "Fiat MOBI LIKE 1.0 Fire Flex 5p.",
+      "valorAtual": 53853,
+      "canonicalPath": "/fipe/fiat/mobi-like-1-0-fire-flex-5p-2023-001461-3/",
+      "ano": 2023,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-mobi-like-1-0-fire-flex-5p-2024-flex",
+      "fipeCodigo": "001461-3",
+      "displayName": "Fiat MOBI LIKE 1.0 Fire Flex 5p.",
+      "valorAtual": 56244,
+      "canonicalPath": "/fipe/fiat/mobi-like-1-0-fire-flex-5p-2024-001461-3/",
+      "ano": 2024,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-mobi-like-1-0-fire-flex-5p-2025-flex",
+      "fipeCodigo": "001461-3",
+      "displayName": "Fiat MOBI LIKE 1.0 Fire Flex 5p.",
+      "valorAtual": 60737,
+      "canonicalPath": "/fipe/fiat/mobi-like-1-0-fire-flex-5p-2025-001461-3/",
+      "ano": 2025,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-mobi-like-1-0-fire-flex-5p-2026-flex",
+      "fipeCodigo": "001461-3",
+      "displayName": "Fiat MOBI LIKE 1.0 Fire Flex 5p.",
+      "valorAtual": 66934,
+      "canonicalPath": "/fipe/fiat/mobi-like-1-0-fire-flex-5p-2026-001461-3/",
+      "ano": 2026,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-mobi-like-on-1-0-fire-flex-5p-2017-flex",
+      "fipeCodigo": "001462-1",
+      "displayName": "Fiat MOBI LIKE ON 1.0 Fire Flex 5p.",
+      "valorAtual": 42318,
+      "canonicalPath": "/fipe/fiat/mobi-like-on-1-0-fire-flex-5p-2017-001462-1/",
+      "ano": 2017,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-mobi-trekking-1-0-flex-5p-2021-flex",
+      "fipeCodigo": "001536-9",
+      "displayName": "Fiat MOBI TREKKING 1.0 Flex 5p.",
+      "valorAtual": 55505,
+      "canonicalPath": "/fipe/fiat/mobi-trekking-1-0-flex-5p-2021-001536-9/",
+      "ano": 2021,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-mobi-trekking-1-0-flex-5p-2022-flex",
+      "fipeCodigo": "001536-9",
+      "displayName": "Fiat MOBI TREKKING 1.0 Flex 5p.",
+      "valorAtual": 57271,
+      "canonicalPath": "/fipe/fiat/mobi-trekking-1-0-flex-5p-2022-001536-9/",
+      "ano": 2022,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-mobi-trekking-1-0-flex-5p-2023-flex",
+      "fipeCodigo": "001536-9",
+      "displayName": "Fiat MOBI TREKKING 1.0 Flex 5p.",
+      "valorAtual": 59963,
+      "canonicalPath": "/fipe/fiat/mobi-trekking-1-0-flex-5p-2023-001536-9/",
+      "ano": 2023,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-mobi-trekking-1-0-flex-5p-2024-flex",
+      "fipeCodigo": "001536-9",
+      "displayName": "Fiat MOBI TREKKING 1.0 Flex 5p.",
+      "valorAtual": 61478,
+      "canonicalPath": "/fipe/fiat/mobi-trekking-1-0-flex-5p-2024-001536-9/",
+      "ano": 2024,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-mobi-trekking-1-0-flex-5p-2025-flex",
+      "fipeCodigo": "001536-9",
+      "displayName": "Fiat MOBI TREKKING 1.0 Flex 5p.",
+      "valorAtual": 66890,
+      "canonicalPath": "/fipe/fiat/mobi-trekking-1-0-flex-5p-2025-001536-9/",
+      "ano": 2025,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-mobi-trekking-1-0-flex-5p-2026-flex",
+      "fipeCodigo": "001536-9",
+      "displayName": "Fiat MOBI TREKKING 1.0 Flex 5p.",
+      "valorAtual": 73188,
+      "canonicalPath": "/fipe/fiat/mobi-trekking-1-0-flex-5p-2026-001536-9/",
+      "ano": 2026,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-mobi-way-1-0-fire-flex-5p-2017-flex",
+      "fipeCodigo": "001466-4",
+      "displayName": "Fiat MOBI WAY 1.0 Fire Flex 5p.",
+      "valorAtual": 44316,
+      "canonicalPath": "/fipe/fiat/mobi-way-1-0-fire-flex-5p-2017-001466-4/",
+      "ano": 2017,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-mobi-way-1-0-fire-flex-5p-2018-flex",
+      "fipeCodigo": "001466-4",
+      "displayName": "Fiat MOBI WAY 1.0 Fire Flex 5p.",
+      "valorAtual": 45424,
+      "canonicalPath": "/fipe/fiat/mobi-way-1-0-fire-flex-5p-2018-001466-4/",
+      "ano": 2018,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-mobi-way-1-0-fire-flex-5p-2019-flex",
+      "fipeCodigo": "001466-4",
+      "displayName": "Fiat MOBI WAY 1.0 Fire Flex 5p.",
+      "valorAtual": 48646,
+      "canonicalPath": "/fipe/fiat/mobi-way-1-0-fire-flex-5p-2019-001466-4/",
+      "ano": 2019,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-mobi-way-1-0-fire-flex-5p-2020-flex",
+      "fipeCodigo": "001466-4",
+      "displayName": "Fiat MOBI WAY 1.0 Fire Flex 5p.",
+      "valorAtual": 51859,
+      "canonicalPath": "/fipe/fiat/mobi-way-1-0-fire-flex-5p-2020-001466-4/",
+      "ano": 2020,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-mobi-way-on-1-0-fire-flex-5p-2017-flex",
+      "fipeCodigo": "001465-6",
+      "displayName": "Fiat MOBI WAY on 1.0 Fire Flex 5p.",
+      "valorAtual": 45105,
+      "canonicalPath": "/fipe/fiat/mobi-way-on-1-0-fire-flex-5p-2017-001465-6/",
+      "ano": 2017,
+      "marca": "Fiat"
+    }
+  ],
+  "stats": {
+    "total": 38
+  },
+  "meta": {
+    "geracaoId": "mobi-2"
+  }
+}

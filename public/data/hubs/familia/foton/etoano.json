@@ -1,0 +1,60 @@
+{
+  "tipo": "familia",
+  "slug": "etoano",
+  "canonicalPath": "/fipe/foton/etoano/",
+  "titulo": "FOTON etoano - Tabela FIPE",
+  "descricao": "4 versoes e anos do FOTON etoano na Tabela FIPE.",
+  "seo": {
+    "title": "FOTON etoano - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes FOTON etoano. 4 veiculos indexados.",
+    "h1": "FOTON etoano - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/foton/etoano/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "foton-etoano-pro-teto-medio-2026-eletrico",
+      "fipeCodigo": "086020-4",
+      "displayName": "FOTON eToano Pro Teto Médio",
+      "valorAtual": 371811,
+      "canonicalPath": "/fipe/foton/etoano-pro-teto-medio-2026-086020-4/",
+      "ano": 2026,
+      "marca": "FOTON"
+    },
+    {
+      "vehicleId": "foton-etoano-pro-teto-alto-2026-eletrico",
+      "fipeCodigo": "086021-2",
+      "displayName": "FOTON eToano Pro Teto Alto",
+      "valorAtual": 389281,
+      "canonicalPath": "/fipe/foton/etoano-pro-teto-alto-2026-086021-2/",
+      "ano": 2026,
+      "marca": "FOTON"
+    },
+    {
+      "vehicleId": "foton-etoano-pro-teto-medio-0-eletrico",
+      "fipeCodigo": "086020-4",
+      "displayName": "FOTON eToano Pro Teto Médio",
+      "valorAtual": 459900,
+      "canonicalPath": "/fipe/foton/etoano-pro-teto-medio-0-086020-4/",
+      "ano": 0,
+      "marca": "FOTON"
+    },
+    {
+      "vehicleId": "foton-etoano-pro-teto-alto-0-eletrico",
+      "fipeCodigo": "086021-2",
+      "displayName": "FOTON eToano Pro Teto Alto",
+      "valorAtual": 459985,
+      "canonicalPath": "/fipe/foton/etoano-pro-teto-alto-0-086021-2/",
+      "ano": 0,
+      "marca": "FOTON"
+    }
+  ],
+  "stats": {
+    "total": 4,
+    "precoMin": 371811,
+    "precoMax": 459985,
+    "anos": [
+      2026,
+      0
+    ]
+  }
+}

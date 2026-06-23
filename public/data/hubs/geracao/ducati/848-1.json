@@ -1,0 +1,84 @@
+{
+  "tipo": "geracao",
+  "slug": "848-1",
+  "canonicalPath": "/geracao/ducati/848-1/",
+  "titulo": "Geracao 848-1",
+  "descricao": "7 veiculos da geracao 848-1.",
+  "seo": {
+    "title": "Geracao 848-1 - Precos FIPE",
+    "description": "Veiculos da geracao 848-1 na Tabela FIPE.",
+    "h1": "Geracao 848-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/ducati/848-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "ducati-848-2008-gasolina",
+      "fipeCodigo": "808026-7",
+      "displayName": "DUCATI 848",
+      "valorAtual": 30324,
+      "canonicalPath": "/fipe/ducati/848-2008-808026-7/",
+      "ano": 2008,
+      "marca": "DUCATI"
+    },
+    {
+      "vehicleId": "ducati-848-2009-gasolina",
+      "fipeCodigo": "808026-7",
+      "displayName": "DUCATI 848",
+      "valorAtual": 31179,
+      "canonicalPath": "/fipe/ducati/848-2009-808026-7/",
+      "ano": 2009,
+      "marca": "DUCATI"
+    },
+    {
+      "vehicleId": "ducati-848-2010-gasolina",
+      "fipeCodigo": "808026-7",
+      "displayName": "DUCATI 848",
+      "valorAtual": 35793,
+      "canonicalPath": "/fipe/ducati/848-2010-808026-7/",
+      "ano": 2010,
+      "marca": "DUCATI"
+    },
+    {
+      "vehicleId": "ducati-848-2011-gasolina",
+      "fipeCodigo": "808026-7",
+      "displayName": "DUCATI 848",
+      "valorAtual": 36765,
+      "canonicalPath": "/fipe/ducati/848-2011-808026-7/",
+      "ano": 2011,
+      "marca": "DUCATI"
+    },
+    {
+      "vehicleId": "ducati-848-evo-2011-gasolina",
+      "fipeCodigo": "808040-2",
+      "displayName": "DUCATI 848 Evo",
+      "valorAtual": 36800,
+      "canonicalPath": "/fipe/ducati/848-evo-2011-808040-2/",
+      "ano": 2011,
+      "marca": "DUCATI"
+    },
+    {
+      "vehicleId": "ducati-848-evo-2012-gasolina",
+      "fipeCodigo": "808040-2",
+      "displayName": "DUCATI 848 Evo",
+      "valorAtual": 38900,
+      "canonicalPath": "/fipe/ducati/848-evo-2012-808040-2/",
+      "ano": 2012,
+      "marca": "DUCATI"
+    },
+    {
+      "vehicleId": "ducati-848-evo-2013-gasolina",
+      "fipeCodigo": "808040-2",
+      "displayName": "DUCATI 848 Evo",
+      "valorAtual": 43086,
+      "canonicalPath": "/fipe/ducati/848-evo-2013-808040-2/",
+      "ano": 2013,
+      "marca": "DUCATI"
+    }
+  ],
+  "stats": {
+    "total": 7
+  },
+  "meta": {
+    "geracaoId": "848-1"
+  }
+}

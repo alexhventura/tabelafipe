@@ -1,0 +1,48 @@
+{
+  "tipo": "geracao",
+  "slug": "er-1",
+  "canonicalPath": "/geracao/kawasaki/er-1/",
+  "titulo": "Geracao er-1",
+  "descricao": "3 veiculos da geracao er-1.",
+  "seo": {
+    "title": "Geracao er-1 - Precos FIPE",
+    "description": "Veiculos da geracao er-1 na Tabela FIPE.",
+    "h1": "Geracao er-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/kawasaki/er-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "kawasaki-er-5-500cc-1998-gasolina",
+      "fipeCodigo": "817003-7",
+      "displayName": "KAWASAKI ER-5 500cc",
+      "valorAtual": 8057,
+      "canonicalPath": "/fipe/kawasaki/er-5-500cc-1998-817003-7/",
+      "ano": 1998,
+      "marca": "KAWASAKI"
+    },
+    {
+      "vehicleId": "kawasaki-er-5-500cc-1999-gasolina",
+      "fipeCodigo": "817003-7",
+      "displayName": "KAWASAKI ER-5 500cc",
+      "valorAtual": 10091,
+      "canonicalPath": "/fipe/kawasaki/er-5-500cc-1999-817003-7/",
+      "ano": 1999,
+      "marca": "KAWASAKI"
+    },
+    {
+      "vehicleId": "kawasaki-er-5-500cc-2000-gasolina",
+      "fipeCodigo": "817003-7",
+      "displayName": "KAWASAKI ER-5 500cc",
+      "valorAtual": 10881,
+      "canonicalPath": "/fipe/kawasaki/er-5-500cc-2000-817003-7/",
+      "ano": 2000,
+      "marca": "KAWASAKI"
+    }
+  ],
+  "stats": {
+    "total": 3
+  },
+  "meta": {
+    "geracaoId": "er-1"
+  }
+}

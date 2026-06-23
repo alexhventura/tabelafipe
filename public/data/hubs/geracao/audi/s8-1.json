@@ -1,0 +1,57 @@
+{
+  "tipo": "geracao",
+  "slug": "s8-1",
+  "canonicalPath": "/geracao/audi/s8-1/",
+  "titulo": "Geracao s8-1",
+  "descricao": "4 veiculos da geracao s8-1.",
+  "seo": {
+    "title": "Geracao s8-1 - Precos FIPE",
+    "description": "Veiculos da geracao s8-1 na Tabela FIPE.",
+    "h1": "Geracao s8-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/audi/s8-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "audi-s8-4-2-mec-1996-gasolina",
+      "fipeCodigo": "008028-4",
+      "displayName": "Audi S8 4.2 Mec",
+      "valorAtual": 30435,
+      "canonicalPath": "/fipe/audi/s8-4-2-mec-1996-008028-4/",
+      "ano": 1996,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-s8-4-2-mec-1997-gasolina",
+      "fipeCodigo": "008028-4",
+      "displayName": "Audi S8 4.2 Mec",
+      "valorAtual": 39092,
+      "canonicalPath": "/fipe/audi/s8-4-2-mec-1997-008028-4/",
+      "ano": 1997,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-s8-4-2-mec-1998-gasolina",
+      "fipeCodigo": "008028-4",
+      "displayName": "Audi S8 4.2 Mec",
+      "valorAtual": 40070,
+      "canonicalPath": "/fipe/audi/s8-4-2-mec-1998-008028-4/",
+      "ano": 1998,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-s8-4-2-tiptronic-1998-gasolina",
+      "fipeCodigo": "008029-2",
+      "displayName": "Audi S8 4.2 Tiptronic",
+      "valorAtual": 39062,
+      "canonicalPath": "/fipe/audi/s8-4-2-tiptronic-1998-008029-2/",
+      "ano": 1998,
+      "marca": "Audi"
+    }
+  ],
+  "stats": {
+    "total": 4
+  },
+  "meta": {
+    "geracaoId": "s8-1"
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "tipo": "geracao",
+  "slug": "dominar-1",
+  "canonicalPath": "/geracao/bajaj/dominar-1/",
+  "titulo": "Geracao dominar-1",
+  "descricao": "7 veiculos da geracao dominar-1.",
+  "seo": {
+    "title": "Geracao dominar-1 - Precos FIPE",
+    "description": "Veiculos da geracao dominar-1 na Tabela FIPE.",
+    "h1": "Geracao dominar-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/bajaj/dominar-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "bajaj-dominar-160-0-gasolina",
+      "fipeCodigo": "837004-4",
+      "displayName": "BAJAJ DOMINAR 160",
+      "valorAtual": 17644,
+      "canonicalPath": "/fipe/bajaj/dominar-160-0-837004-4/",
+      "ano": 0,
+      "marca": "BAJAJ"
+    },
+    {
+      "vehicleId": "bajaj-dominar-200-0-gasolina",
+      "fipeCodigo": "837005-2",
+      "displayName": "BAJAJ DOMINAR 200",
+      "valorAtual": 19397,
+      "canonicalPath": "/fipe/bajaj/dominar-200-0-837005-2/",
+      "ano": 0,
+      "marca": "BAJAJ"
+    },
+    {
+      "vehicleId": "bajaj-dominar-250-0-gasolina",
+      "fipeCodigo": "837006-0",
+      "displayName": "BAJAJ DOMINAR 250",
+      "valorAtual": 23230,
+      "canonicalPath": "/fipe/bajaj/dominar-250-0-837006-0/",
+      "ano": 0,
+      "marca": "BAJAJ"
+    },
+    {
+      "vehicleId": "bajaj-dominar-400-0-gasolina",
+      "fipeCodigo": "837003-6",
+      "displayName": "BAJAJ DOMINAR 400",
+      "valorAtual": 26629,
+      "canonicalPath": "/fipe/bajaj/dominar-400-0-837003-6/",
+      "ano": 0,
+      "marca": "BAJAJ"
+    },
+    {
+      "vehicleId": "bajaj-dominar-ns160-0-gasolina",
+      "fipeCodigo": "837007-9",
+      "displayName": "BAJAJ DOMINAR NS160",
+      "valorAtual": 18987,
+      "canonicalPath": "/fipe/bajaj/dominar-ns160-0-837007-9/",
+      "ano": 0,
+      "marca": "BAJAJ"
+    },
+    {
+      "vehicleId": "bajaj-dominar-ns200-0-gasolina",
+      "fipeCodigo": "837008-7",
+      "displayName": "BAJAJ DOMINAR NS200",
+      "valorAtual": 21629,
+      "canonicalPath": "/fipe/bajaj/dominar-ns200-0-837008-7/",
+      "ano": 0,
+      "marca": "BAJAJ"
+    },
+    {
+      "vehicleId": "bajaj-dominar-ns400z-0-gasolina",
+      "fipeCodigo": "837010-9",
+      "displayName": "BAJAJ DOMINAR NS400Z",
+      "valorAtual": 26640,
+      "canonicalPath": "/fipe/bajaj/dominar-ns400z-0-837010-9/",
+      "ano": 0,
+      "marca": "BAJAJ"
+    }
+  ],
+  "stats": {
+    "total": 7
+  },
+  "meta": {
+    "geracaoId": "dominar-1"
+  }
+}

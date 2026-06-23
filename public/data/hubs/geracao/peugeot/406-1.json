@@ -1,0 +1,498 @@
+{
+  "tipo": "geracao",
+  "slug": "406-1",
+  "canonicalPath": "/geracao/peugeot/406-1/",
+  "titulo": "Geracao 406-1",
+  "descricao": "53 veiculos da geracao 406-1.",
+  "seo": {
+    "title": "Geracao 406-1 - Precos FIPE",
+    "description": "Veiculos da geracao 406-1 na Tabela FIPE.",
+    "h1": "Geracao 406-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/peugeot/406-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "peugeot-406-break-2-0-16v-1999-gasolina",
+      "fipeCodigo": "024036-2",
+      "displayName": "Peugeot 406 Break 2.0 16V",
+      "valorAtual": 8826,
+      "canonicalPath": "/fipe/peugeot/406-break-2-0-16v-1999-024036-2/",
+      "ano": 1999,
+      "marca": "Peugeot"
+    },
+    {
+      "vehicleId": "peugeot-406-break-3-0-v6-24v-1998-gasolina",
+      "fipeCodigo": "024059-1",
+      "displayName": "Peugeot 406 Break 3.0 V6 24V",
+      "valorAtual": 10013,
+      "canonicalPath": "/fipe/peugeot/406-break-3-0-v6-24v-1998-024059-1/",
+      "ano": 1998,
+      "marca": "Peugeot"
+    },
+    {
+      "vehicleId": "peugeot-406-break-3-0-v6-24v-1999-gasolina",
+      "fipeCodigo": "024059-1",
+      "displayName": "Peugeot 406 Break 3.0 V6 24V",
+      "valorAtual": 11034,
+      "canonicalPath": "/fipe/peugeot/406-break-3-0-v6-24v-1999-024059-1/",
+      "ano": 1999,
+      "marca": "Peugeot"
+    },
+    {
+      "vehicleId": "peugeot-406-break-st-2-0-1998-gasolina",
+      "fipeCodigo": "024074-5",
+      "displayName": "Peugeot 406 Break ST 2.0",
+      "valorAtual": 8701,
+      "canonicalPath": "/fipe/peugeot/406-break-st-2-0-1998-024074-5/",
+      "ano": 1998,
+      "marca": "Peugeot"
+    },
+    {
+      "vehicleId": "peugeot-406-break-st-2-0-1999-gasolina",
+      "fipeCodigo": "024074-5",
+      "displayName": "Peugeot 406 Break ST 2.0",
+      "valorAtual": 10232,
+      "canonicalPath": "/fipe/peugeot/406-break-st-2-0-1999-024074-5/",
+      "ano": 1999,
+      "marca": "Peugeot"
+    },
+    {
+      "vehicleId": "peugeot-406-cupe-3-0-24v-aut-1998-gasolina",
+      "fipeCodigo": "024070-2",
+      "displayName": "Peugeot 406 Cupê 3.0 24V Aut.",
+      "valorAtual": 28979,
+      "canonicalPath": "/fipe/peugeot/406-cupe-3-0-24v-aut-1998-024070-2/",
+      "ano": 1998,
+      "marca": "Peugeot"
+    },
+    {
+      "vehicleId": "peugeot-406-cupe-3-0-24v-aut-1999-gasolina",
+      "fipeCodigo": "024070-2",
+      "displayName": "Peugeot 406 Cupê 3.0 24V Aut.",
+      "valorAtual": 29704,
+      "canonicalPath": "/fipe/peugeot/406-cupe-3-0-24v-aut-1999-024070-2/",
+      "ano": 1999,
+      "marca": "Peugeot"
+    },
+    {
+      "vehicleId": "peugeot-406-cupe-3-0-24v-aut-2000-gasolina",
+      "fipeCodigo": "024070-2",
+      "displayName": "Peugeot 406 Cupê 3.0 24V Aut.",
+      "valorAtual": 30447,
+      "canonicalPath": "/fipe/peugeot/406-cupe-3-0-24v-aut-2000-024070-2/",
+      "ano": 2000,
+      "marca": "Peugeot"
+    },
+    {
+      "vehicleId": "peugeot-406-cupe-3-0-24v-aut-2001-gasolina",
+      "fipeCodigo": "024070-2",
+      "displayName": "Peugeot 406 Cupê 3.0 24V Aut.",
+      "valorAtual": 34676,
+      "canonicalPath": "/fipe/peugeot/406-cupe-3-0-24v-aut-2001-024070-2/",
+      "ano": 2001,
+      "marca": "Peugeot"
+    },
+    {
+      "vehicleId": "peugeot-406-cupe-3-0-24v-aut-2002-gasolina",
+      "fipeCodigo": "024070-2",
+      "displayName": "Peugeot 406 Cupê 3.0 24V Aut.",
+      "valorAtual": 38154,
+      "canonicalPath": "/fipe/peugeot/406-cupe-3-0-24v-aut-2002-024070-2/",
+      "ano": 2002,
+      "marca": "Peugeot"
+    },
+    {
+      "vehicleId": "peugeot-406-cupe-3-0-24v-aut-2004-gasolina",
+      "fipeCodigo": "024070-2",
+      "displayName": "Peugeot 406 Cupê 3.0 24V Aut.",
+      "valorAtual": 43348,
+      "canonicalPath": "/fipe/peugeot/406-cupe-3-0-24v-aut-2004-024070-2/",
+      "ano": 2004,
+      "marca": "Peugeot"
+    },
+    {
+      "vehicleId": "peugeot-406-cupe-3-0-24v-mec-1998-gasolina",
+      "fipeCodigo": "024023-0",
+      "displayName": "Peugeot 406 Cupê 3.0 24V Mec.",
+      "valorAtual": 25150,
+      "canonicalPath": "/fipe/peugeot/406-cupe-3-0-24v-mec-1998-024023-0/",
+      "ano": 1998,
+      "marca": "Peugeot"
+    },
+    {
+      "vehicleId": "peugeot-406-cupe-3-0-24v-mec-1999-gasolina",
+      "fipeCodigo": "024023-0",
+      "displayName": "Peugeot 406 Cupê 3.0 24V Mec.",
+      "valorAtual": 27872,
+      "canonicalPath": "/fipe/peugeot/406-cupe-3-0-24v-mec-1999-024023-0/",
+      "ano": 1999,
+      "marca": "Peugeot"
+    },
+    {
+      "vehicleId": "peugeot-406-cupe-3-0-24v-mec-2000-gasolina",
+      "fipeCodigo": "024023-0",
+      "displayName": "Peugeot 406 Cupê 3.0 24V Mec.",
+      "valorAtual": 28569,
+      "canonicalPath": "/fipe/peugeot/406-cupe-3-0-24v-mec-2000-024023-0/",
+      "ano": 2000,
+      "marca": "Peugeot"
+    },
+    {
+      "vehicleId": "peugeot-406-cupe-3-0-24v-mec-2001-gasolina",
+      "fipeCodigo": "024023-0",
+      "displayName": "Peugeot 406 Cupê 3.0 24V Mec.",
+      "valorAtual": 32600,
+      "canonicalPath": "/fipe/peugeot/406-cupe-3-0-24v-mec-2001-024023-0/",
+      "ano": 2001,
+      "marca": "Peugeot"
+    },
+    {
+      "vehicleId": "peugeot-406-familiale-2-0-16v-aut-2000-gasolina",
+      "fipeCodigo": "024071-0",
+      "displayName": "Peugeot 406 Familiale 2.0 16V Aut.",
+      "valorAtual": 11119,
+      "canonicalPath": "/fipe/peugeot/406-familiale-2-0-16v-aut-2000-024071-0/",
+      "ano": 2000,
+      "marca": "Peugeot"
+    },
+    {
+      "vehicleId": "peugeot-406-familiale-2-0-16v-aut-2001-gasolina",
+      "fipeCodigo": "024071-0",
+      "displayName": "Peugeot 406 Familiale 2.0 16V Aut.",
+      "valorAtual": 11467,
+      "canonicalPath": "/fipe/peugeot/406-familiale-2-0-16v-aut-2001-024071-0/",
+      "ano": 2001,
+      "marca": "Peugeot"
+    },
+    {
+      "vehicleId": "peugeot-406-familiale-2-0-16v-mec-2000-gasolina",
+      "fipeCodigo": "024052-4",
+      "displayName": "Peugeot 406 Familiale 2.0 16V Mec.",
+      "valorAtual": 8271,
+      "canonicalPath": "/fipe/peugeot/406-familiale-2-0-16v-mec-2000-024052-4/",
+      "ano": 2000,
+      "marca": "Peugeot"
+    },
+    {
+      "vehicleId": "peugeot-406-familiale-2-0-16v-mec-2001-gasolina",
+      "fipeCodigo": "024052-4",
+      "displayName": "Peugeot 406 Familiale 2.0 16V Mec.",
+      "valorAtual": 9532,
+      "canonicalPath": "/fipe/peugeot/406-familiale-2-0-16v-mec-2001-024052-4/",
+      "ano": 2001,
+      "marca": "Peugeot"
+    },
+    {
+      "vehicleId": "peugeot-406-familiale-2-0-16v-mec-2002-gasolina",
+      "fipeCodigo": "024052-4",
+      "displayName": "Peugeot 406 Familiale 2.0 16V Mec.",
+      "valorAtual": 10480,
+      "canonicalPath": "/fipe/peugeot/406-familiale-2-0-16v-mec-2002-024052-4/",
+      "ano": 2002,
+      "marca": "Peugeot"
+    },
+    {
+      "vehicleId": "peugeot-406-familiale-2-0-16v-mec-2003-gasolina",
+      "fipeCodigo": "024052-4",
+      "displayName": "Peugeot 406 Familiale 2.0 16V Mec.",
+      "valorAtual": 10742,
+      "canonicalPath": "/fipe/peugeot/406-familiale-2-0-16v-mec-2003-024052-4/",
+      "ano": 2003,
+      "marca": "Peugeot"
+    },
+    {
+      "vehicleId": "peugeot-406-st-2-0-16v-mec-1997-gasolina",
+      "fipeCodigo": "024035-4",
+      "displayName": "Peugeot 406 ST 2.0 16V  Mec",
+      "valorAtual": 7947,
+      "canonicalPath": "/fipe/peugeot/406-st-2-0-16v-mec-1997-024035-4/",
+      "ano": 1997,
+      "marca": "Peugeot"
+    },
+    {
+      "vehicleId": "peugeot-406-st-2-0-16v-mec-1998-gasolina",
+      "fipeCodigo": "024035-4",
+      "displayName": "Peugeot 406 ST 2.0 16V  Mec",
+      "valorAtual": 8862,
+      "canonicalPath": "/fipe/peugeot/406-st-2-0-16v-mec-1998-024035-4/",
+      "ano": 1998,
+      "marca": "Peugeot"
+    },
+    {
+      "vehicleId": "peugeot-406-st-2-0-16v-mec-1999-gasolina",
+      "fipeCodigo": "024035-4",
+      "displayName": "Peugeot 406 ST 2.0 16V  Mec",
+      "valorAtual": 10014,
+      "canonicalPath": "/fipe/peugeot/406-st-2-0-16v-mec-1999-024035-4/",
+      "ano": 1999,
+      "marca": "Peugeot"
+    },
+    {
+      "vehicleId": "peugeot-406-st-2-0-16v-mec-2000-gasolina",
+      "fipeCodigo": "024035-4",
+      "displayName": "Peugeot 406 ST 2.0 16V  Mec",
+      "valorAtual": 10892,
+      "canonicalPath": "/fipe/peugeot/406-st-2-0-16v-mec-2000-024035-4/",
+      "ano": 2000,
+      "marca": "Peugeot"
+    },
+    {
+      "vehicleId": "peugeot-406-st-2-0-16v-mec-2001-gasolina",
+      "fipeCodigo": "024035-4",
+      "displayName": "Peugeot 406 ST 2.0 16V  Mec",
+      "valorAtual": 11602,
+      "canonicalPath": "/fipe/peugeot/406-st-2-0-16v-mec-2001-024035-4/",
+      "ano": 2001,
+      "marca": "Peugeot"
+    },
+    {
+      "vehicleId": "peugeot-406-st-sva-2-0-16v-aut-1997-gasolina",
+      "fipeCodigo": "024020-6",
+      "displayName": "Peugeot 406 ST/ SVA 2.0 16V Aut",
+      "valorAtual": 8961,
+      "canonicalPath": "/fipe/peugeot/406-st-sva-2-0-16v-aut-1997-024020-6/",
+      "ano": 1997,
+      "marca": "Peugeot"
+    },
+    {
+      "vehicleId": "peugeot-406-st-sva-2-0-16v-aut-1998-gasolina",
+      "fipeCodigo": "024020-6",
+      "displayName": "Peugeot 406 ST/ SVA 2.0 16V Aut",
+      "valorAtual": 10495,
+      "canonicalPath": "/fipe/peugeot/406-st-sva-2-0-16v-aut-1998-024020-6/",
+      "ano": 1998,
+      "marca": "Peugeot"
+    },
+    {
+      "vehicleId": "peugeot-406-st-sva-2-0-16v-aut-1999-gasolina",
+      "fipeCodigo": "024020-6",
+      "displayName": "Peugeot 406 ST/ SVA 2.0 16V Aut",
+      "valorAtual": 11286,
+      "canonicalPath": "/fipe/peugeot/406-st-sva-2-0-16v-aut-1999-024020-6/",
+      "ano": 1999,
+      "marca": "Peugeot"
+    },
+    {
+      "vehicleId": "peugeot-406-st-sva-2-0-16v-aut-2000-gasolina",
+      "fipeCodigo": "024020-6",
+      "displayName": "Peugeot 406 ST/ SVA 2.0 16V Aut",
+      "valorAtual": 12414,
+      "canonicalPath": "/fipe/peugeot/406-st-sva-2-0-16v-aut-2000-024020-6/",
+      "ano": 2000,
+      "marca": "Peugeot"
+    },
+    {
+      "vehicleId": "peugeot-406-st-sva-2-0-16v-aut-2001-gasolina",
+      "fipeCodigo": "024020-6",
+      "displayName": "Peugeot 406 ST/ SVA 2.0 16V Aut",
+      "valorAtual": 12871,
+      "canonicalPath": "/fipe/peugeot/406-st-sva-2-0-16v-aut-2001-024020-6/",
+      "ano": 2001,
+      "marca": "Peugeot"
+    },
+    {
+      "vehicleId": "peugeot-406-sv-2-0-16v-1997-gasolina",
+      "fipeCodigo": "024037-0",
+      "displayName": "Peugeot 406 SV 2.0 16V",
+      "valorAtual": 8867,
+      "canonicalPath": "/fipe/peugeot/406-sv-2-0-16v-1997-024037-0/",
+      "ano": 1997,
+      "marca": "Peugeot"
+    },
+    {
+      "vehicleId": "peugeot-406-sv-2-0-16v-1998-gasolina",
+      "fipeCodigo": "024037-0",
+      "displayName": "Peugeot 406 SV 2.0 16V",
+      "valorAtual": 9752,
+      "canonicalPath": "/fipe/peugeot/406-sv-2-0-16v-1998-024037-0/",
+      "ano": 1998,
+      "marca": "Peugeot"
+    },
+    {
+      "vehicleId": "peugeot-406-sv-2-0-16v-1999-gasolina",
+      "fipeCodigo": "024037-0",
+      "displayName": "Peugeot 406 SV 2.0 16V",
+      "valorAtual": 10327,
+      "canonicalPath": "/fipe/peugeot/406-sv-2-0-16v-1999-024037-0/",
+      "ano": 1999,
+      "marca": "Peugeot"
+    },
+    {
+      "vehicleId": "peugeot-406-sv-2-0-16v-2000-gasolina",
+      "fipeCodigo": "024037-0",
+      "displayName": "Peugeot 406 SV 2.0 16V",
+      "valorAtual": 11350,
+      "canonicalPath": "/fipe/peugeot/406-sv-2-0-16v-2000-024037-0/",
+      "ano": 2000,
+      "marca": "Peugeot"
+    },
+    {
+      "vehicleId": "peugeot-406-sva-3-0-24v-1998-gasolina",
+      "fipeCodigo": "024060-5",
+      "displayName": "Peugeot 406 SVA 3.0 24V",
+      "valorAtual": 12831,
+      "canonicalPath": "/fipe/peugeot/406-sva-3-0-24v-1998-024060-5/",
+      "ano": 1998,
+      "marca": "Peugeot"
+    },
+    {
+      "vehicleId": "peugeot-406-sva-3-0-24v-1999-gasolina",
+      "fipeCodigo": "024060-5",
+      "displayName": "Peugeot 406 SVA 3.0 24V",
+      "valorAtual": 13895,
+      "canonicalPath": "/fipe/peugeot/406-sva-3-0-24v-1999-024060-5/",
+      "ano": 1999,
+      "marca": "Peugeot"
+    },
+    {
+      "vehicleId": "peugeot-406-sva-3-0-24v-2000-gasolina",
+      "fipeCodigo": "024060-5",
+      "displayName": "Peugeot 406 SVA 3.0 24V",
+      "valorAtual": 14243,
+      "canonicalPath": "/fipe/peugeot/406-sva-3-0-24v-2000-024060-5/",
+      "ano": 2000,
+      "marca": "Peugeot"
+    },
+    {
+      "vehicleId": "peugeot-406-sve-3-0-24v-1998-gasolina",
+      "fipeCodigo": "024025-7",
+      "displayName": "Peugeot 406 SVE 3.0 24V",
+      "valorAtual": 10269,
+      "canonicalPath": "/fipe/peugeot/406-sve-3-0-24v-1998-024025-7/",
+      "ano": 1998,
+      "marca": "Peugeot"
+    },
+    {
+      "vehicleId": "peugeot-406-sve-3-0-24v-1999-gasolina",
+      "fipeCodigo": "024025-7",
+      "displayName": "Peugeot 406 SVE 3.0 24V",
+      "valorAtual": 11354,
+      "canonicalPath": "/fipe/peugeot/406-sve-3-0-24v-1999-024025-7/",
+      "ano": 1999,
+      "marca": "Peugeot"
+    },
+    {
+      "vehicleId": "peugeot-406-sedan-2-0-aut-1999-gasolina",
+      "fipeCodigo": "024072-9",
+      "displayName": "Peugeot 406 Sedan 2.0 Aut.",
+      "valorAtual": 9966,
+      "canonicalPath": "/fipe/peugeot/406-sedan-2-0-aut-1999-024072-9/",
+      "ano": 1999,
+      "marca": "Peugeot"
+    },
+    {
+      "vehicleId": "peugeot-406-sedan-2-0-aut-2000-gasolina",
+      "fipeCodigo": "024072-9",
+      "displayName": "Peugeot 406 Sedan 2.0 Aut.",
+      "valorAtual": 11126,
+      "canonicalPath": "/fipe/peugeot/406-sedan-2-0-aut-2000-024072-9/",
+      "ano": 2000,
+      "marca": "Peugeot"
+    },
+    {
+      "vehicleId": "peugeot-406-sedan-2-0-aut-2001-gasolina",
+      "fipeCodigo": "024072-9",
+      "displayName": "Peugeot 406 Sedan 2.0 Aut.",
+      "valorAtual": 12885,
+      "canonicalPath": "/fipe/peugeot/406-sedan-2-0-aut-2001-024072-9/",
+      "ano": 2001,
+      "marca": "Peugeot"
+    },
+    {
+      "vehicleId": "peugeot-406-sedan-2-0-mec-1999-gasolina",
+      "fipeCodigo": "024051-6",
+      "displayName": "Peugeot 406 Sedan 2.0 Mec.",
+      "valorAtual": 8760,
+      "canonicalPath": "/fipe/peugeot/406-sedan-2-0-mec-1999-024051-6/",
+      "ano": 1999,
+      "marca": "Peugeot"
+    },
+    {
+      "vehicleId": "peugeot-406-sedan-2-0-mec-2000-gasolina",
+      "fipeCodigo": "024051-6",
+      "displayName": "Peugeot 406 Sedan 2.0 Mec.",
+      "valorAtual": 9191,
+      "canonicalPath": "/fipe/peugeot/406-sedan-2-0-mec-2000-024051-6/",
+      "ano": 2000,
+      "marca": "Peugeot"
+    },
+    {
+      "vehicleId": "peugeot-406-sedan-2-0-mec-2001-gasolina",
+      "fipeCodigo": "024051-6",
+      "displayName": "Peugeot 406 Sedan 2.0 Mec.",
+      "valorAtual": 12298,
+      "canonicalPath": "/fipe/peugeot/406-sedan-2-0-mec-2001-024051-6/",
+      "ano": 2001,
+      "marca": "Peugeot"
+    },
+    {
+      "vehicleId": "peugeot-406-sedan-2-0-mec-2002-gasolina",
+      "fipeCodigo": "024051-6",
+      "displayName": "Peugeot 406 Sedan 2.0 Mec.",
+      "valorAtual": 15319,
+      "canonicalPath": "/fipe/peugeot/406-sedan-2-0-mec-2002-024051-6/",
+      "ano": 2002,
+      "marca": "Peugeot"
+    },
+    {
+      "vehicleId": "peugeot-406-sedan-2-0-mec-2003-gasolina",
+      "fipeCodigo": "024051-6",
+      "displayName": "Peugeot 406 Sedan 2.0 Mec.",
+      "valorAtual": 24070,
+      "canonicalPath": "/fipe/peugeot/406-sedan-2-0-mec-2003-024051-6/",
+      "ano": 2003,
+      "marca": "Peugeot"
+    },
+    {
+      "vehicleId": "peugeot-406-sedan-3-0-v6-24v-2000-gasolina",
+      "fipeCodigo": "024075-3",
+      "displayName": "Peugeot 406 Sedan 3.0 V6 24V",
+      "valorAtual": 20400,
+      "canonicalPath": "/fipe/peugeot/406-sedan-3-0-v6-24v-2000-024075-3/",
+      "ano": 2000,
+      "marca": "Peugeot"
+    },
+    {
+      "vehicleId": "peugeot-406-sedan-3-0-v6-24v-2001-gasolina",
+      "fipeCodigo": "024075-3",
+      "displayName": "Peugeot 406 Sedan 3.0 V6 24V",
+      "valorAtual": 21411,
+      "canonicalPath": "/fipe/peugeot/406-sedan-3-0-v6-24v-2001-024075-3/",
+      "ano": 2001,
+      "marca": "Peugeot"
+    },
+    {
+      "vehicleId": "peugeot-406-sedan-3-0-v6-24v-2002-gasolina",
+      "fipeCodigo": "024075-3",
+      "displayName": "Peugeot 406 Sedan 3.0 V6 24V",
+      "valorAtual": 22721,
+      "canonicalPath": "/fipe/peugeot/406-sedan-3-0-v6-24v-2002-024075-3/",
+      "ano": 2002,
+      "marca": "Peugeot"
+    },
+    {
+      "vehicleId": "peugeot-406-sedan-3-0-v6-24v-2003-gasolina",
+      "fipeCodigo": "024075-3",
+      "displayName": "Peugeot 406 Sedan 3.0 V6 24V",
+      "valorAtual": 26837,
+      "canonicalPath": "/fipe/peugeot/406-sedan-3-0-v6-24v-2003-024075-3/",
+      "ano": 2003,
+      "marca": "Peugeot"
+    },
+    {
+      "vehicleId": "peugeot-406-sedan-3-0-v6-24v-2004-gasolina",
+      "fipeCodigo": "024075-3",
+      "displayName": "Peugeot 406 Sedan 3.0 V6 24V",
+      "valorAtual": 27508,
+      "canonicalPath": "/fipe/peugeot/406-sedan-3-0-v6-24v-2004-024075-3/",
+      "ano": 2004,
+      "marca": "Peugeot"
+    }
+  ],
+  "stats": {
+    "total": 53
+  },
+  "meta": {
+    "geracaoId": "406-1"
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "tipo": "geracao",
+  "slug": "pegaso-1",
+  "canonicalPath": "/geracao/aprilia/pegaso-1/",
+  "titulo": "Geracao pegaso-1",
+  "descricao": "5 veiculos da geracao pegaso-1.",
+  "seo": {
+    "title": "Geracao pegaso-1 - Precos FIPE",
+    "description": "Veiculos da geracao pegaso-1 na Tabela FIPE.",
+    "h1": "Geracao pegaso-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/aprilia/pegaso-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "aprilia-pegaso-650cc-1998-gasolina",
+      "fipeCodigo": "802005-1",
+      "displayName": "APRILIA PEGASO 650cc",
+      "valorAtual": 10508,
+      "canonicalPath": "/fipe/aprilia/pegaso-650cc-1998-802005-1/",
+      "ano": 1998,
+      "marca": "APRILIA"
+    },
+    {
+      "vehicleId": "aprilia-pegaso-650cc-1999-gasolina",
+      "fipeCodigo": "802005-1",
+      "displayName": "APRILIA PEGASO 650cc",
+      "valorAtual": 11800,
+      "canonicalPath": "/fipe/aprilia/pegaso-650cc-1999-802005-1/",
+      "ano": 1999,
+      "marca": "APRILIA"
+    },
+    {
+      "vehicleId": "aprilia-pegaso-650cc-2000-gasolina",
+      "fipeCodigo": "802005-1",
+      "displayName": "APRILIA PEGASO 650cc",
+      "valorAtual": 12637,
+      "canonicalPath": "/fipe/aprilia/pegaso-650cc-2000-802005-1/",
+      "ano": 2000,
+      "marca": "APRILIA"
+    },
+    {
+      "vehicleId": "aprilia-pegaso-650cc-2001-gasolina",
+      "fipeCodigo": "802005-1",
+      "displayName": "APRILIA PEGASO 650cc",
+      "valorAtual": 14931,
+      "canonicalPath": "/fipe/aprilia/pegaso-650cc-2001-802005-1/",
+      "ano": 2001,
+      "marca": "APRILIA"
+    },
+    {
+      "vehicleId": "aprilia-pegaso-650cc-2002-gasolina",
+      "fipeCodigo": "802005-1",
+      "displayName": "APRILIA PEGASO 650cc",
+      "valorAtual": 17060,
+      "canonicalPath": "/fipe/aprilia/pegaso-650cc-2002-802005-1/",
+      "ano": 2002,
+      "marca": "APRILIA"
+    }
+  ],
+  "stats": {
+    "total": 5
+  },
+  "meta": {
+    "geracaoId": "pegaso-1"
+  }
+}

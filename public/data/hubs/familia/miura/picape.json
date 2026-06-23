@@ -1,0 +1,72 @@
+{
+  "tipo": "familia",
+  "slug": "picape",
+  "canonicalPath": "/fipe/miura/picape/",
+  "titulo": "Miura picape - Tabela FIPE",
+  "descricao": "5 versoes e anos do Miura picape na Tabela FIPE.",
+  "seo": {
+    "title": "Miura picape - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes Miura picape. 5 veiculos indexados.",
+    "h1": "Miura picape - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/miura/picape/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "miura-picape-bg-truck-cd-turbo-diesel-1997-diesel",
+      "fipeCodigo": "049001-6",
+      "displayName": "Miura Picape BG-Truck CD Turbo Diesel",
+      "valorAtual": 50818,
+      "canonicalPath": "/fipe/miura/picape-bg-truck-cd-turbo-diesel-1997-049001-6/",
+      "ano": 1997,
+      "marca": "Miura"
+    },
+    {
+      "vehicleId": "miura-picape-bg-truck-cd-turbo-diesel-1996-diesel",
+      "fipeCodigo": "049001-6",
+      "displayName": "Miura Picape BG-Truck CD Turbo Diesel",
+      "valorAtual": 49578,
+      "canonicalPath": "/fipe/miura/picape-bg-truck-cd-turbo-diesel-1996-049001-6/",
+      "ano": 1996,
+      "marca": "Miura"
+    },
+    {
+      "vehicleId": "miura-picape-bg-truck-cd-turbo-diesel-1995-diesel",
+      "fipeCodigo": "049001-6",
+      "displayName": "Miura Picape BG-Truck CD Turbo Diesel",
+      "valorAtual": 48368,
+      "canonicalPath": "/fipe/miura/picape-bg-truck-cd-turbo-diesel-1995-049001-6/",
+      "ano": 1995,
+      "marca": "Miura"
+    },
+    {
+      "vehicleId": "miura-picape-bg-truck-cd-turbo-diesel-1994-diesel",
+      "fipeCodigo": "049001-6",
+      "displayName": "Miura Picape BG-Truck CD Turbo Diesel",
+      "valorAtual": 40977,
+      "canonicalPath": "/fipe/miura/picape-bg-truck-cd-turbo-diesel-1994-049001-6/",
+      "ano": 1994,
+      "marca": "Miura"
+    },
+    {
+      "vehicleId": "miura-picape-bg-truck-cd-turbo-diesel-1993-diesel",
+      "fipeCodigo": "049001-6",
+      "displayName": "Miura Picape BG-Truck CD Turbo Diesel",
+      "valorAtual": 34015,
+      "canonicalPath": "/fipe/miura/picape-bg-truck-cd-turbo-diesel-1993-049001-6/",
+      "ano": 1993,
+      "marca": "Miura"
+    }
+  ],
+  "stats": {
+    "total": 5,
+    "precoMin": 34015,
+    "precoMax": 50818,
+    "anos": [
+      1997,
+      1996,
+      1995,
+      1994,
+      1993
+    ]
+  }
+}

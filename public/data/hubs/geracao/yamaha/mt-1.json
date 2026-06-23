@@ -1,0 +1,66 @@
+{
+  "tipo": "geracao",
+  "slug": "mt-1",
+  "canonicalPath": "/geracao/yamaha/mt-1/",
+  "titulo": "Geracao mt-1",
+  "descricao": "5 veiculos da geracao mt-1.",
+  "seo": {
+    "title": "Geracao mt-1 - Precos FIPE",
+    "description": "Veiculos da geracao mt-1 na Tabela FIPE.",
+    "h1": "Geracao mt-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/yamaha/mt-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "yamaha-mt-03-321-abs-0-gasolina",
+      "fipeCodigo": "827103-8",
+      "displayName": "YAMAHA MT-03 321/ABS",
+      "valorAtual": 35875,
+      "canonicalPath": "/fipe/yamaha/mt-03-321-abs-0-827103-8/",
+      "ano": 0,
+      "marca": "YAMAHA"
+    },
+    {
+      "vehicleId": "yamaha-mt-03-connected-321cc-abs-0-gasolina",
+      "fipeCodigo": "827140-2",
+      "displayName": "YAMAHA MT-03 CONNECTED 321cc ABS",
+      "valorAtual": 36970,
+      "canonicalPath": "/fipe/yamaha/mt-03-connected-321cc-abs-0-827140-2/",
+      "ano": 0,
+      "marca": "YAMAHA"
+    },
+    {
+      "vehicleId": "yamaha-mt-07-connected-689cc-abs-0-gasolina",
+      "fipeCodigo": "827141-0",
+      "displayName": "YAMAHA MT-07 CONNECTED 689cc ABS",
+      "valorAtual": 59395,
+      "canonicalPath": "/fipe/yamaha/mt-07-connected-689cc-abs-0-827141-0/",
+      "ano": 0,
+      "marca": "YAMAHA"
+    },
+    {
+      "vehicleId": "yamaha-mt-07-mt-07-abs-689cc-0-gasolina",
+      "fipeCodigo": "827095-3",
+      "displayName": "YAMAHA MT-07/MT-07 ABS 689cc",
+      "valorAtual": 57845,
+      "canonicalPath": "/fipe/yamaha/mt-07-mt-07-abs-689cc-0-827095-3/",
+      "ano": 0,
+      "marca": "YAMAHA"
+    },
+    {
+      "vehicleId": "yamaha-mt-09-850cc-abs-0-gasolina",
+      "fipeCodigo": "827094-5",
+      "displayName": "YAMAHA MT-09 850cc/ABS",
+      "valorAtual": 63194,
+      "canonicalPath": "/fipe/yamaha/mt-09-850cc-abs-0-827094-5/",
+      "ano": 0,
+      "marca": "YAMAHA"
+    }
+  ],
+  "stats": {
+    "total": 5
+  },
+  "meta": {
+    "geracaoId": "mt-1"
+  }
+}

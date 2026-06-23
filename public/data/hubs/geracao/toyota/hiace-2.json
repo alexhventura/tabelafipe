@@ -1,0 +1,48 @@
+{
+  "tipo": "geracao",
+  "slug": "hiace-2",
+  "canonicalPath": "/geracao/toyota/hiace-2/",
+  "titulo": "Geracao hiace-2",
+  "descricao": "3 veiculos da geracao hiace-2.",
+  "seo": {
+    "title": "Geracao hiace-2 - Precos FIPE",
+    "description": "Veiculos da geracao hiace-2 na Tabela FIPE.",
+    "h1": "Geracao hiace-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/toyota/hiace-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "toyota-hiace-furgao-dx-2-8-tdi-aut-2026-diesel",
+      "fipeCodigo": "002227-6",
+      "displayName": "Toyota Hiace Furgão DX 2.8 TDI Aut.",
+      "valorAtual": 275916,
+      "canonicalPath": "/fipe/toyota/hiace-furgao-dx-2-8-tdi-aut-2026-002227-6/",
+      "ano": 2026,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-hiace-minibus-dx-2-8-tdi-16l-aut-2025-diesel",
+      "fipeCodigo": "002221-7",
+      "displayName": "Toyota Hiace Minibus DX 2.8 TDI 16L Aut.",
+      "valorAtual": 316608,
+      "canonicalPath": "/fipe/toyota/hiace-minibus-dx-2-8-tdi-16l-aut-2025-002221-7/",
+      "ano": 2025,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-hiace-minibus-dx-2-8-tdi-16l-aut-2026-diesel",
+      "fipeCodigo": "002221-7",
+      "displayName": "Toyota Hiace Minibus DX 2.8 TDI 16L Aut.",
+      "valorAtual": 327125,
+      "canonicalPath": "/fipe/toyota/hiace-minibus-dx-2-8-tdi-16l-aut-2026-002221-7/",
+      "ano": 2026,
+      "marca": "Toyota"
+    }
+  ],
+  "stats": {
+    "total": 3
+  },
+  "meta": {
+    "geracaoId": "hiace-2"
+  }
+}

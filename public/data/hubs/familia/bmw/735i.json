@@ -1,0 +1,82 @@
+{
+  "tipo": "familia",
+  "slug": "735i",
+  "canonicalPath": "/fipe/bmw/735i/",
+  "titulo": "BMW 735i - Tabela FIPE",
+  "descricao": "6 versoes e anos do BMW 735i na Tabela FIPE.",
+  "seo": {
+    "title": "BMW 735i - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes BMW 735i. 6 veiculos indexados.",
+    "h1": "BMW 735i - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/bmw/735i/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "bmw-735i-ia-3-5-32v-1992-gasolina",
+      "fipeCodigo": "009070-0",
+      "displayName": "BMW 735i/iA 3.5 32V",
+      "valorAtual": 16718,
+      "canonicalPath": "/fipe/bmw/735i-ia-3-5-32v-1992-009070-0/",
+      "ano": 1992,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-735i-ia-3-5-32v-1991-gasolina",
+      "fipeCodigo": "009070-0",
+      "displayName": "BMW 735i/iA 3.5 32V",
+      "valorAtual": 16251,
+      "canonicalPath": "/fipe/bmw/735i-ia-3-5-32v-1991-009070-0/",
+      "ano": 1991,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-735i-ia-3-5-32v-1990-gasolina",
+      "fipeCodigo": "009070-0",
+      "displayName": "BMW 735i/iA 3.5 32V",
+      "valorAtual": 15854,
+      "canonicalPath": "/fipe/bmw/735i-ia-3-5-32v-1990-009070-0/",
+      "ano": 1990,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-735i-ia-3-5-32v-1989-gasolina",
+      "fipeCodigo": "009070-0",
+      "displayName": "BMW 735i/iA 3.5 32V",
+      "valorAtual": 13777,
+      "canonicalPath": "/fipe/bmw/735i-ia-3-5-32v-1989-009070-0/",
+      "ano": 1989,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-735i-ia-3-5-32v-1988-gasolina",
+      "fipeCodigo": "009070-0",
+      "displayName": "BMW 735i/iA 3.5 32V",
+      "valorAtual": 13289,
+      "canonicalPath": "/fipe/bmw/735i-ia-3-5-32v-1988-009070-0/",
+      "ano": 1988,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-735i-ia-3-5-32v-1987-gasolina",
+      "fipeCodigo": "009070-0",
+      "displayName": "BMW 735i/iA 3.5 32V",
+      "valorAtual": 11350,
+      "canonicalPath": "/fipe/bmw/735i-ia-3-5-32v-1987-009070-0/",
+      "ano": 1987,
+      "marca": "BMW"
+    }
+  ],
+  "stats": {
+    "total": 6,
+    "precoMin": 11350,
+    "precoMax": 16718,
+    "anos": [
+      1992,
+      1991,
+      1990,
+      1989,
+      1988,
+      1987
+    ]
+  }
+}

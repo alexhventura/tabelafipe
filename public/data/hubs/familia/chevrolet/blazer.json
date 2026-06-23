@@ -1,0 +1,109 @@
+{
+  "tipo": "familia",
+  "slug": "blazer",
+  "canonicalPath": "/fipe/chevrolet/blazer/",
+  "titulo": "GM - Chevrolet blazer - Tabela FIPE",
+  "descricao": "9 versoes e anos do GM - Chevrolet blazer na Tabela FIPE.",
+  "seo": {
+    "title": "GM - Chevrolet blazer - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes GM - Chevrolet blazer. 9 veiculos indexados.",
+    "h1": "GM - Chevrolet blazer - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/chevrolet/blazer/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "chevrolet-blazer-ev-rs-347cv-eletrico-2025-eletrico",
+      "fipeCodigo": "004553-5",
+      "displayName": "GM - Chevrolet BLAZER EV RS 347cv (Elétrico)",
+      "valorAtual": 427711,
+      "canonicalPath": "/fipe/chevrolet/blazer-ev-rs-347cv-eletrico-2025-004553-5/",
+      "ano": 2025,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-blazer-ev-rs-347cv-eletrico-2024-eletrico",
+      "fipeCodigo": "004553-5",
+      "displayName": "GM - Chevrolet BLAZER EV RS 347cv (Elétrico)",
+      "valorAtual": 364511,
+      "canonicalPath": "/fipe/chevrolet/blazer-ev-rs-347cv-eletrico-2024-004553-5/",
+      "ano": 2024,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-blazer-s-10-4-3-v6-1995-gasolina",
+      "fipeCodigo": "004159-9",
+      "displayName": "GM - Chevrolet Blazer S-10 4.3 V6",
+      "valorAtual": 13709,
+      "canonicalPath": "/fipe/chevrolet/blazer-s-10-4-3-v6-1995-004159-9/",
+      "ano": 1995,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-blazer-ss-10-4-3-v6-1995-gasolina",
+      "fipeCodigo": "004160-2",
+      "displayName": "GM - Chevrolet Blazer SS-10 4.3 V6",
+      "valorAtual": 17896,
+      "canonicalPath": "/fipe/chevrolet/blazer-ss-10-4-3-v6-1995-004160-2/",
+      "ano": 1995,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-blazer-jimmy-4-3-v6-1995-gasolina",
+      "fipeCodigo": "004158-0",
+      "displayName": "GM - Chevrolet Blazer Jimmy 4.3 V6",
+      "valorAtual": 35795,
+      "canonicalPath": "/fipe/chevrolet/blazer-jimmy-4-3-v6-1995-004158-0/",
+      "ano": 1995,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-blazer-s-10-4-3-v6-1994-gasolina",
+      "fipeCodigo": "004159-9",
+      "displayName": "GM - Chevrolet Blazer S-10 4.3 V6",
+      "valorAtual": 11590,
+      "canonicalPath": "/fipe/chevrolet/blazer-s-10-4-3-v6-1994-004159-9/",
+      "ano": 1994,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-blazer-jimmy-4-3-v6-1994-gasolina",
+      "fipeCodigo": "004158-0",
+      "displayName": "GM - Chevrolet Blazer Jimmy 4.3 V6",
+      "valorAtual": 20557,
+      "canonicalPath": "/fipe/chevrolet/blazer-jimmy-4-3-v6-1994-004158-0/",
+      "ano": 1994,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-blazer-jimmy-4-3-v6-1993-gasolina",
+      "fipeCodigo": "004158-0",
+      "displayName": "GM - Chevrolet Blazer Jimmy 4.3 V6",
+      "valorAtual": 17896,
+      "canonicalPath": "/fipe/chevrolet/blazer-jimmy-4-3-v6-1993-004158-0/",
+      "ano": 1993,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-blazer-ev-rs-347cv-eletrico-0-eletrico",
+      "fipeCodigo": "004553-5",
+      "displayName": "GM - Chevrolet BLAZER EV RS 347cv (Elétrico)",
+      "valorAtual": 503190,
+      "canonicalPath": "/fipe/chevrolet/blazer-ev-rs-347cv-eletrico-0-004553-5/",
+      "ano": 0,
+      "marca": "GM - Chevrolet"
+    }
+  ],
+  "stats": {
+    "total": 9,
+    "precoMin": 11590,
+    "precoMax": 503190,
+    "anos": [
+      2025,
+      2024,
+      1995,
+      1994,
+      1993,
+      0
+    ]
+  }
+}

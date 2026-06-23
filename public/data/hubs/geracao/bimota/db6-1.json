@@ -1,0 +1,48 @@
+{
+  "tipo": "geracao",
+  "slug": "db6-1",
+  "canonicalPath": "/geracao/bimota/db6-1/",
+  "titulo": "Geracao db6-1",
+  "descricao": "3 veiculos da geracao db6-1.",
+  "seo": {
+    "title": "Geracao db6-1 - Precos FIPE",
+    "description": "Veiculos da geracao db6-1 na Tabela FIPE.",
+    "h1": "Geracao db6-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/bimota/db6-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "bimota-db6-delirio-1078cc-2008-gasolina",
+      "fipeCodigo": "828006-1",
+      "displayName": "BIMOTA DB6 Delirio 1078cc",
+      "valorAtual": 33991,
+      "canonicalPath": "/fipe/bimota/db6-delirio-1078cc-2008-828006-1/",
+      "ano": 2008,
+      "marca": "BIMOTA"
+    },
+    {
+      "vehicleId": "bimota-db6-delirio-1078cc-2009-gasolina",
+      "fipeCodigo": "828006-1",
+      "displayName": "BIMOTA DB6 Delirio 1078cc",
+      "valorAtual": 37809,
+      "canonicalPath": "/fipe/bimota/db6-delirio-1078cc-2009-828006-1/",
+      "ano": 2009,
+      "marca": "BIMOTA"
+    },
+    {
+      "vehicleId": "bimota-db6-delirio-1078cc-2010-gasolina",
+      "fipeCodigo": "828006-1",
+      "displayName": "BIMOTA DB6 Delirio 1078cc",
+      "valorAtual": 40289,
+      "canonicalPath": "/fipe/bimota/db6-delirio-1078cc-2010-828006-1/",
+      "ano": 2010,
+      "marca": "BIMOTA"
+    }
+  ],
+  "stats": {
+    "total": 3
+  },
+  "meta": {
+    "geracaoId": "db6-1"
+  }
+}

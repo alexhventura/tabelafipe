@@ -1,0 +1,75 @@
+{
+  "tipo": "geracao",
+  "slug": "tracker-2",
+  "canonicalPath": "/geracao/chevrolet/tracker-2/",
+  "titulo": "Geracao tracker-2",
+  "descricao": "6 veiculos da geracao tracker-2.",
+  "seo": {
+    "title": "Geracao tracker-2 - Precos FIPE",
+    "description": "Veiculos da geracao tracker-2 na Tabela FIPE.",
+    "h1": "Geracao tracker-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/chevrolet/tracker-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "chevrolet-tracker-2-0-tb-int-diesel-4x4-4p-1999-diesel",
+      "fipeCodigo": "004210-2",
+      "displayName": "GM - Chevrolet TRACKER 2.0 TB Int. Diesel 4x4 4p",
+      "valorAtual": 22291,
+      "canonicalPath": "/fipe/chevrolet/tracker-2-0-tb-int-diesel-4x4-4p-1999-004210-2/",
+      "ano": 1999,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-tracker-2-0-tb-int-diesel-4x4-4p-2000-diesel",
+      "fipeCodigo": "004210-2",
+      "displayName": "GM - Chevrolet TRACKER 2.0 TB Int. Diesel 4x4 4p",
+      "valorAtual": 25608,
+      "canonicalPath": "/fipe/chevrolet/tracker-2-0-tb-int-diesel-4x4-4p-2000-004210-2/",
+      "ano": 2000,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-tracker-2-0-tb-int-diesel-4x4-4p-2001-diesel",
+      "fipeCodigo": "004210-2",
+      "displayName": "GM - Chevrolet TRACKER 2.0 TB Int. Diesel 4x4 4p",
+      "valorAtual": 30573,
+      "canonicalPath": "/fipe/chevrolet/tracker-2-0-tb-int-diesel-4x4-4p-2001-004210-2/",
+      "ano": 2001,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-tracker-2-0-tb-int-diesel-4x4-4p-2002-diesel",
+      "fipeCodigo": "004210-2",
+      "displayName": "GM - Chevrolet TRACKER 2.0 TB Int. Diesel 4x4 4p",
+      "valorAtual": 33381,
+      "canonicalPath": "/fipe/chevrolet/tracker-2-0-tb-int-diesel-4x4-4p-2002-004210-2/",
+      "ano": 2002,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-tracker-2-0-tb-int-diesel-4x4-4p-2003-diesel",
+      "fipeCodigo": "004210-2",
+      "displayName": "GM - Chevrolet TRACKER 2.0 TB Int. Diesel 4x4 4p",
+      "valorAtual": 42552,
+      "canonicalPath": "/fipe/chevrolet/tracker-2-0-tb-int-diesel-4x4-4p-2003-004210-2/",
+      "ano": 2003,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-tracker-2-0-tb-int-diesel-4x4-4p-2004-diesel",
+      "fipeCodigo": "004210-2",
+      "displayName": "GM - Chevrolet TRACKER 2.0 TB Int. Diesel 4x4 4p",
+      "valorAtual": 43616,
+      "canonicalPath": "/fipe/chevrolet/tracker-2-0-tb-int-diesel-4x4-4p-2004-004210-2/",
+      "ano": 2004,
+      "marca": "GM - Chevrolet"
+    }
+  ],
+  "stats": {
+    "total": 6
+  },
+  "meta": {
+    "geracaoId": "tracker-2"
+  }
+}

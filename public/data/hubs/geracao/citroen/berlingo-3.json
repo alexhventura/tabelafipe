@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "berlingo-3",
+  "canonicalPath": "/geracao/citroen/berlingo-3/",
+  "titulo": "Geracao berlingo-3",
+  "descricao": "2 veiculos da geracao berlingo-3.",
+  "seo": {
+    "title": "Geracao berlingo-3 - Precos FIPE",
+    "description": "Veiculos da geracao berlingo-3 na Tabela FIPE.",
+    "h1": "Geracao berlingo-3",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/citroen/berlingo-3/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "citroen-berlingo-furgao-1-6-16v-flex-5p-2018-flex",
+      "fipeCodigo": "011194-5",
+      "displayName": "Citroën Berlingo Furgão 1.6 16V Flex 5P",
+      "valorAtual": 48156,
+      "canonicalPath": "/fipe/citroen/berlingo-furgao-1-6-16v-flex-5p-2018-011194-5/",
+      "ano": 2018,
+      "marca": "Citroën"
+    },
+    {
+      "vehicleId": "citroen-berlingo-furgao-1-6-16v-flex-5p-2019-flex",
+      "fipeCodigo": "011194-5",
+      "displayName": "Citroën Berlingo Furgão 1.6 16V Flex 5P",
+      "valorAtual": 53712,
+      "canonicalPath": "/fipe/citroen/berlingo-furgao-1-6-16v-flex-5p-2019-011194-5/",
+      "ano": 2019,
+      "marca": "Citroën"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "berlingo-3"
+  }
+}

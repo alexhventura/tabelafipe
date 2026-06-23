@@ -1,0 +1,102 @@
+{
+  "tipo": "geracao",
+  "slug": "rocket-2",
+  "canonicalPath": "/geracao/triumph/rocket-2/",
+  "titulo": "Geracao rocket-2",
+  "descricao": "9 veiculos da geracao rocket-2.",
+  "seo": {
+    "title": "Geracao rocket-2 - Precos FIPE",
+    "description": "Veiculos da geracao rocket-2 na Tabela FIPE.",
+    "h1": "Geracao rocket-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/triumph/rocket-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "triumph-rocket-iii-2300cc-2005-gasolina",
+      "fipeCodigo": "826025-7",
+      "displayName": "TRIUMPH ROCKET III 2300cc",
+      "valorAtual": 45880,
+      "canonicalPath": "/fipe/triumph/rocket-iii-2300cc-2005-826025-7/",
+      "ano": 2005,
+      "marca": "TRIUMPH"
+    },
+    {
+      "vehicleId": "triumph-rocket-iii-2300cc-2006-gasolina",
+      "fipeCodigo": "826025-7",
+      "displayName": "TRIUMPH ROCKET III 2300cc",
+      "valorAtual": 47884,
+      "canonicalPath": "/fipe/triumph/rocket-iii-2300cc-2006-826025-7/",
+      "ano": 2006,
+      "marca": "TRIUMPH"
+    },
+    {
+      "vehicleId": "triumph-rocket-iii-2300cc-2007-gasolina",
+      "fipeCodigo": "826025-7",
+      "displayName": "TRIUMPH ROCKET III 2300cc",
+      "valorAtual": 51005,
+      "canonicalPath": "/fipe/triumph/rocket-iii-2300cc-2007-826025-7/",
+      "ano": 2007,
+      "marca": "TRIUMPH"
+    },
+    {
+      "vehicleId": "triumph-rocket-iii-2300cc-2008-gasolina",
+      "fipeCodigo": "826025-7",
+      "displayName": "TRIUMPH ROCKET III 2300cc",
+      "valorAtual": 55314,
+      "canonicalPath": "/fipe/triumph/rocket-iii-2300cc-2008-826025-7/",
+      "ano": 2008,
+      "marca": "TRIUMPH"
+    },
+    {
+      "vehicleId": "triumph-rocket-iii-2300cc-2009-gasolina",
+      "fipeCodigo": "826025-7",
+      "displayName": "TRIUMPH ROCKET III 2300cc",
+      "valorAtual": 57792,
+      "canonicalPath": "/fipe/triumph/rocket-iii-2300cc-2009-826025-7/",
+      "ano": 2009,
+      "marca": "TRIUMPH"
+    },
+    {
+      "vehicleId": "triumph-rocket-iii-classic-2300cc-2006-gasolina",
+      "fipeCodigo": "826029-0",
+      "displayName": "TRIUMPH ROCKET III CLASSIC 2300cc",
+      "valorAtual": 43198,
+      "canonicalPath": "/fipe/triumph/rocket-iii-classic-2300cc-2006-826029-0/",
+      "ano": 2006,
+      "marca": "TRIUMPH"
+    },
+    {
+      "vehicleId": "triumph-rocket-iii-classic-2300cc-2007-gasolina",
+      "fipeCodigo": "826029-0",
+      "displayName": "TRIUMPH ROCKET III CLASSIC 2300cc",
+      "valorAtual": 46122,
+      "canonicalPath": "/fipe/triumph/rocket-iii-classic-2300cc-2007-826029-0/",
+      "ano": 2007,
+      "marca": "TRIUMPH"
+    },
+    {
+      "vehicleId": "triumph-rocket-iii-classic-2300cc-2008-gasolina",
+      "fipeCodigo": "826029-0",
+      "displayName": "TRIUMPH ROCKET III CLASSIC 2300cc",
+      "valorAtual": 53796,
+      "canonicalPath": "/fipe/triumph/rocket-iii-classic-2300cc-2008-826029-0/",
+      "ano": 2008,
+      "marca": "TRIUMPH"
+    },
+    {
+      "vehicleId": "triumph-rocket-iii-classic-2300cc-2009-gasolina",
+      "fipeCodigo": "826029-0",
+      "displayName": "TRIUMPH ROCKET III CLASSIC 2300cc",
+      "valorAtual": 55141,
+      "canonicalPath": "/fipe/triumph/rocket-iii-classic-2300cc-2009-826029-0/",
+      "ano": 2009,
+      "marca": "TRIUMPH"
+    }
+  ],
+  "stats": {
+    "total": 9
+  },
+  "meta": {
+    "geracaoId": "rocket-2"
+  }
+}

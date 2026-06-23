@@ -1,0 +1,111 @@
+{
+  "tipo": "geracao",
+  "slug": "528ia-1",
+  "canonicalPath": "/geracao/bmw/528ia-1/",
+  "titulo": "Geracao 528ia-1",
+  "descricao": "10 veiculos da geracao 528ia-1.",
+  "seo": {
+    "title": "Geracao 528ia-1 - Precos FIPE",
+    "description": "Veiculos da geracao 528ia-1 na Tabela FIPE.",
+    "h1": "Geracao 528ia-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/bmw/528ia-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "bmw-528ia-high-1996-gasolina",
+      "fipeCodigo": "009023-9",
+      "displayName": "BMW 528iA High",
+      "valorAtual": 24952,
+      "canonicalPath": "/fipe/bmw/528ia-high-1996-009023-9/",
+      "ano": 1996,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-528ia-high-1997-gasolina",
+      "fipeCodigo": "009023-9",
+      "displayName": "BMW 528iA High",
+      "valorAtual": 27443,
+      "canonicalPath": "/fipe/bmw/528ia-high-1997-009023-9/",
+      "ano": 1997,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-528ia-high-1998-gasolina",
+      "fipeCodigo": "009023-9",
+      "displayName": "BMW 528iA High",
+      "valorAtual": 30185,
+      "canonicalPath": "/fipe/bmw/528ia-high-1998-009023-9/",
+      "ano": 1998,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-528ia-high-1999-gasolina",
+      "fipeCodigo": "009023-9",
+      "displayName": "BMW 528iA High",
+      "valorAtual": 31729,
+      "canonicalPath": "/fipe/bmw/528ia-high-1999-009023-9/",
+      "ano": 1999,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-528ia-high-2000-gasolina",
+      "fipeCodigo": "009023-9",
+      "displayName": "BMW 528iA High",
+      "valorAtual": 33368,
+      "canonicalPath": "/fipe/bmw/528ia-high-2000-009023-9/",
+      "ano": 2000,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-528ia-high-2001-gasolina",
+      "fipeCodigo": "009023-9",
+      "displayName": "BMW 528iA High",
+      "valorAtual": 39182,
+      "canonicalPath": "/fipe/bmw/528ia-high-2001-009023-9/",
+      "ano": 2001,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-528ia-touring-1996-gasolina",
+      "fipeCodigo": "009024-7",
+      "displayName": "BMW 528iA Touring",
+      "valorAtual": 27900,
+      "canonicalPath": "/fipe/bmw/528ia-touring-1996-009024-7/",
+      "ano": 1996,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-528ia-touring-1997-gasolina",
+      "fipeCodigo": "009024-7",
+      "displayName": "BMW 528iA Touring",
+      "valorAtual": 31561,
+      "canonicalPath": "/fipe/bmw/528ia-touring-1997-009024-7/",
+      "ano": 1997,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-528ia-touring-1998-gasolina",
+      "fipeCodigo": "009024-7",
+      "displayName": "BMW 528iA Touring",
+      "valorAtual": 39493,
+      "canonicalPath": "/fipe/bmw/528ia-touring-1998-009024-7/",
+      "ano": 1998,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-528ia-touring-1999-gasolina",
+      "fipeCodigo": "009024-7",
+      "displayName": "BMW 528iA Touring",
+      "valorAtual": 40481,
+      "canonicalPath": "/fipe/bmw/528ia-touring-1999-009024-7/",
+      "ano": 1999,
+      "marca": "BMW"
+    }
+  ],
+  "stats": {
+    "total": 10
+  },
+  "meta": {
+    "geracaoId": "528ia-1"
+  }
+}

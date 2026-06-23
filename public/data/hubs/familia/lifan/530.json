@@ -1,0 +1,80 @@
+{
+  "tipo": "familia",
+  "slug": "530",
+  "canonicalPath": "/fipe/lifan/530/",
+  "titulo": "LIFAN 530 - Tabela FIPE",
+  "descricao": "6 versoes e anos do LIFAN 530 na Tabela FIPE.",
+  "seo": {
+    "title": "LIFAN 530 - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes LIFAN 530. 6 veiculos indexados.",
+    "h1": "LIFAN 530 - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/lifan/530/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "lifan-530-talent-1-5-16v-103cv-4p-2019-gasolina",
+      "fipeCodigo": "077006-0",
+      "displayName": "LIFAN 530 TALENT 1.5 16V 103cv 4p",
+      "valorAtual": 36952,
+      "canonicalPath": "/fipe/lifan/530-talent-1-5-16v-103cv-4p-2019-077006-0/",
+      "ano": 2019,
+      "marca": "LIFAN"
+    },
+    {
+      "vehicleId": "lifan-530-talent-1-5-16v-103cv-4p-2018-gasolina",
+      "fipeCodigo": "077006-0",
+      "displayName": "LIFAN 530 TALENT 1.5 16V 103cv 4p",
+      "valorAtual": 31464,
+      "canonicalPath": "/fipe/lifan/530-talent-1-5-16v-103cv-4p-2018-077006-0/",
+      "ano": 2018,
+      "marca": "LIFAN"
+    },
+    {
+      "vehicleId": "lifan-530-talent-1-5-16v-103cv-4p-2016-gasolina",
+      "fipeCodigo": "077006-0",
+      "displayName": "LIFAN 530 TALENT 1.5 16V 103cv 4p",
+      "valorAtual": 24220,
+      "canonicalPath": "/fipe/lifan/530-talent-1-5-16v-103cv-4p-2016-077006-0/",
+      "ano": 2016,
+      "marca": "LIFAN"
+    },
+    {
+      "vehicleId": "lifan-530-1-5-16v-103cv-4p-2016-gasolina",
+      "fipeCodigo": "077005-1",
+      "displayName": "LIFAN 530 1.5 16V 103cv 4p",
+      "valorAtual": 25442,
+      "canonicalPath": "/fipe/lifan/530-1-5-16v-103cv-4p-2016-077005-1/",
+      "ano": 2016,
+      "marca": "LIFAN"
+    },
+    {
+      "vehicleId": "lifan-530-talent-1-5-16v-103cv-4p-2015-gasolina",
+      "fipeCodigo": "077006-0",
+      "displayName": "LIFAN 530 TALENT 1.5 16V 103cv 4p",
+      "valorAtual": 19944,
+      "canonicalPath": "/fipe/lifan/530-talent-1-5-16v-103cv-4p-2015-077006-0/",
+      "ano": 2015,
+      "marca": "LIFAN"
+    },
+    {
+      "vehicleId": "lifan-530-1-5-16v-103cv-4p-2015-gasolina",
+      "fipeCodigo": "077005-1",
+      "displayName": "LIFAN 530 1.5 16V 103cv 4p",
+      "valorAtual": 24229,
+      "canonicalPath": "/fipe/lifan/530-1-5-16v-103cv-4p-2015-077005-1/",
+      "ano": 2015,
+      "marca": "LIFAN"
+    }
+  ],
+  "stats": {
+    "total": 6,
+    "precoMin": 19944,
+    "precoMax": 36952,
+    "anos": [
+      2019,
+      2018,
+      2016,
+      2015
+    ]
+  }
+}

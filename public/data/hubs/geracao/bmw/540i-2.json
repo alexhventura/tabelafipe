@@ -1,0 +1,57 @@
+{
+  "tipo": "geracao",
+  "slug": "540i-2",
+  "canonicalPath": "/geracao/bmw/540i-2/",
+  "titulo": "Geracao 540i-2",
+  "descricao": "4 veiculos da geracao 540i-2.",
+  "seo": {
+    "title": "Geracao 540i-2 - Precos FIPE",
+    "description": "Veiculos da geracao 540i-2 na Tabela FIPE.",
+    "h1": "Geracao 540i-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/bmw/540i-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "bmw-540i-m-sport-3-0-turbo-340cv-aut-2017-gasolina",
+      "fipeCodigo": "009225-8",
+      "displayName": "BMW 540i M Sport 3.0 Turbo 340cv Aut.",
+      "valorAtual": 177779,
+      "canonicalPath": "/fipe/bmw/540i-m-sport-3-0-turbo-340cv-aut-2017-009225-8/",
+      "ano": 2017,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-540i-m-sport-3-0-turbo-340cv-aut-2018-gasolina",
+      "fipeCodigo": "009225-8",
+      "displayName": "BMW 540i M Sport 3.0 Turbo 340cv Aut.",
+      "valorAtual": 214208,
+      "canonicalPath": "/fipe/bmw/540i-m-sport-3-0-turbo-340cv-aut-2018-009225-8/",
+      "ano": 2018,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-540i-m-sport-3-0-turbo-340cv-aut-2019-gasolina",
+      "fipeCodigo": "009225-8",
+      "displayName": "BMW 540i M Sport 3.0 Turbo 340cv Aut.",
+      "valorAtual": 249428,
+      "canonicalPath": "/fipe/bmw/540i-m-sport-3-0-turbo-340cv-aut-2019-009225-8/",
+      "ano": 2019,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-540i-m-sport-3-0-turbo-340cv-aut-2020-gasolina",
+      "fipeCodigo": "009225-8",
+      "displayName": "BMW 540i M Sport 3.0 Turbo 340cv Aut.",
+      "valorAtual": 299208,
+      "canonicalPath": "/fipe/bmw/540i-m-sport-3-0-turbo-340cv-aut-2020-009225-8/",
+      "ano": 2020,
+      "marca": "BMW"
+    }
+  ],
+  "stats": {
+    "total": 4
+  },
+  "meta": {
+    "geracaoId": "540i-2"
+  }
+}

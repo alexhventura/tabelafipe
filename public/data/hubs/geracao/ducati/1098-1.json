@@ -1,0 +1,57 @@
+{
+  "tipo": "geracao",
+  "slug": "1098-1",
+  "canonicalPath": "/geracao/ducati/1098-1/",
+  "titulo": "Geracao 1098-1",
+  "descricao": "4 veiculos da geracao 1098-1.",
+  "seo": {
+    "title": "Geracao 1098-1 - Precos FIPE",
+    "description": "Veiculos da geracao 1098-1 na Tabela FIPE.",
+    "h1": "Geracao 1098-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/ducati/1098-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "ducati-1098-1099cc-2007-gasolina",
+      "fipeCodigo": "808023-2",
+      "displayName": "DUCATI 1098 1099cc",
+      "valorAtual": 32255,
+      "canonicalPath": "/fipe/ducati/1098-1099cc-2007-808023-2/",
+      "ano": 2007,
+      "marca": "DUCATI"
+    },
+    {
+      "vehicleId": "ducati-1098-1099cc-2008-gasolina",
+      "fipeCodigo": "808023-2",
+      "displayName": "DUCATI 1098 1099cc",
+      "valorAtual": 42862,
+      "canonicalPath": "/fipe/ducati/1098-1099cc-2008-808023-2/",
+      "ano": 2008,
+      "marca": "DUCATI"
+    },
+    {
+      "vehicleId": "ducati-1098-s-1099cc-2007-gasolina",
+      "fipeCodigo": "808024-0",
+      "displayName": "DUCATI 1098 S 1099cc",
+      "valorAtual": 39676,
+      "canonicalPath": "/fipe/ducati/1098-s-1099cc-2007-808024-0/",
+      "ano": 2007,
+      "marca": "DUCATI"
+    },
+    {
+      "vehicleId": "ducati-1098-s-1099cc-2008-gasolina",
+      "fipeCodigo": "808024-0",
+      "displayName": "DUCATI 1098 S 1099cc",
+      "valorAtual": 43634,
+      "canonicalPath": "/fipe/ducati/1098-s-1099cc-2008-808024-0/",
+      "ano": 2008,
+      "marca": "DUCATI"
+    }
+  ],
+  "stats": {
+    "total": 4
+  },
+  "meta": {
+    "geracaoId": "1098-1"
+  }
+}

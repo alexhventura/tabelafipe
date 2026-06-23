@@ -1,0 +1,92 @@
+{
+  "tipo": "familia",
+  "slug": "adv",
+  "canonicalPath": "/fipe/honda/adv/",
+  "titulo": "HONDA adv - Tabela FIPE",
+  "descricao": "7 versoes e anos do HONDA adv na Tabela FIPE.",
+  "seo": {
+    "title": "HONDA adv - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes HONDA adv. 7 veiculos indexados.",
+    "h1": "HONDA adv - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/honda/adv/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "honda-adv-160-2026-gasolina",
+      "fipeCodigo": "811186-3",
+      "displayName": "HONDA ADV 160",
+      "valorAtual": 26980,
+      "canonicalPath": "/fipe/honda/adv-160-2026-811186-3/",
+      "ano": 2026,
+      "marca": "HONDA"
+    },
+    {
+      "vehicleId": "honda-adv-160-2025-gasolina",
+      "fipeCodigo": "811186-3",
+      "displayName": "HONDA ADV 160",
+      "valorAtual": 25016,
+      "canonicalPath": "/fipe/honda/adv-160-2025-811186-3/",
+      "ano": 2025,
+      "marca": "HONDA"
+    },
+    {
+      "vehicleId": "honda-adv-150-2024-gasolina",
+      "fipeCodigo": "811165-0",
+      "displayName": "HONDA ADV 150",
+      "valorAtual": 23131,
+      "canonicalPath": "/fipe/honda/adv-150-2024-811165-0/",
+      "ano": 2024,
+      "marca": "HONDA"
+    },
+    {
+      "vehicleId": "honda-adv-150-2023-gasolina",
+      "fipeCodigo": "811165-0",
+      "displayName": "HONDA ADV 150",
+      "valorAtual": 21996,
+      "canonicalPath": "/fipe/honda/adv-150-2023-811165-0/",
+      "ano": 2023,
+      "marca": "HONDA"
+    },
+    {
+      "vehicleId": "honda-adv-150-2022-gasolina",
+      "fipeCodigo": "811165-0",
+      "displayName": "HONDA ADV 150",
+      "valorAtual": 21413,
+      "canonicalPath": "/fipe/honda/adv-150-2022-811165-0/",
+      "ano": 2022,
+      "marca": "HONDA"
+    },
+    {
+      "vehicleId": "honda-adv-150-2021-gasolina",
+      "fipeCodigo": "811165-0",
+      "displayName": "HONDA ADV 150",
+      "valorAtual": 20793,
+      "canonicalPath": "/fipe/honda/adv-150-2021-811165-0/",
+      "ano": 2021,
+      "marca": "HONDA"
+    },
+    {
+      "vehicleId": "honda-adv-160-0-gasolina",
+      "fipeCodigo": "811186-3",
+      "displayName": "HONDA ADV 160",
+      "valorAtual": 29526,
+      "canonicalPath": "/fipe/honda/adv-160-0-811186-3/",
+      "ano": 0,
+      "marca": "HONDA"
+    }
+  ],
+  "stats": {
+    "total": 7,
+    "precoMin": 20793,
+    "precoMax": 29526,
+    "anos": [
+      2026,
+      2025,
+      2024,
+      2023,
+      2022,
+      2021,
+      0
+    ]
+  }
+}

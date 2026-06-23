@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "shark-2",
+  "canonicalPath": "/geracao/byd/shark-2/",
+  "titulo": "Geracao shark-2",
+  "descricao": "2 veiculos da geracao shark-2.",
+  "seo": {
+    "title": "Geracao shark-2 - Precos FIPE",
+    "description": "Veiculos da geracao shark-2 na Tabela FIPE.",
+    "h1": "Geracao shark-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/byd/shark-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "byd-shark-gs-1-5-16v-4x4-aut-hibrido-2025-hibrido",
+      "fipeCodigo": "095016-5",
+      "displayName": "BYD SHARK GS 1.5 16V 4x4 Aut. (Híbrido)",
+      "valorAtual": 280494,
+      "canonicalPath": "/fipe/byd/shark-gs-1-5-16v-4x4-aut-hibrido-2025-095016-5/",
+      "ano": 2025,
+      "marca": "BYD"
+    },
+    {
+      "vehicleId": "byd-shark-gs-1-5-16v-4x4-aut-hibrido-2026-hibrido",
+      "fipeCodigo": "095016-5",
+      "displayName": "BYD SHARK GS 1.5 16V 4x4 Aut. (Híbrido)",
+      "valorAtual": 300646,
+      "canonicalPath": "/fipe/byd/shark-gs-1-5-16v-4x4-aut-hibrido-2026-095016-5/",
+      "ano": 2026,
+      "marca": "BYD"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "shark-2"
+  }
+}

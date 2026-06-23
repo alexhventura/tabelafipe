@@ -1,0 +1,48 @@
+{
+  "tipo": "geracao",
+  "slug": "flash-1",
+  "canonicalPath": "/geracao/kasinski/flash-1/",
+  "titulo": "Geracao flash-1",
+  "descricao": "3 veiculos da geracao flash-1.",
+  "seo": {
+    "title": "Geracao flash-1 - Precos FIPE",
+    "description": "Veiculos da geracao flash-1 na Tabela FIPE.",
+    "h1": "Geracao flash-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/kasinski/flash-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "kasinski-flash-k-150cc-2006-gasolina",
+      "fipeCodigo": "816018-0",
+      "displayName": "KASINSKI FLASH K 150cc",
+      "valorAtual": 1814,
+      "canonicalPath": "/fipe/kasinski/flash-k-150cc-2006-816018-0/",
+      "ano": 2006,
+      "marca": "KASINSKI"
+    },
+    {
+      "vehicleId": "kasinski-flash-k-150cc-2007-gasolina",
+      "fipeCodigo": "816018-0",
+      "displayName": "KASINSKI FLASH K 150cc",
+      "valorAtual": 2204,
+      "canonicalPath": "/fipe/kasinski/flash-k-150cc-2007-816018-0/",
+      "ano": 2007,
+      "marca": "KASINSKI"
+    },
+    {
+      "vehicleId": "kasinski-flash-k-150cc-2008-gasolina",
+      "fipeCodigo": "816018-0",
+      "displayName": "KASINSKI FLASH K 150cc",
+      "valorAtual": 2861,
+      "canonicalPath": "/fipe/kasinski/flash-k-150cc-2008-816018-0/",
+      "ano": 2008,
+      "marca": "KASINSKI"
+    }
+  ],
+  "stats": {
+    "total": 3
+  },
+  "meta": {
+    "geracaoId": "flash-1"
+  }
+}

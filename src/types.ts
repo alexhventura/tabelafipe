@@ -36,6 +36,11 @@ export interface SearchIndexItem {
   combustivel?: string;
   tipo?: VehicleTipo;
   popularidade?: number;
+  /** Codigo FIPE ex: 001234-5 */
+  fipeCodigo?: string;
+  /** URL canonica pre-calculada no build */
+  canonicalPath?: string;
+  pageSlug?: string;
   /** Texto normalizado para ranking (nome + modelo, sem aliases expandidos) */
   searchText?: string;
   /** Caminho estatico do JSON do veiculo, ex: /data/fipe/toyota/corolla/2024.json */

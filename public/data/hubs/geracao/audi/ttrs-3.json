@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "ttrs-3",
+  "canonicalPath": "/geracao/audi/ttrs-3/",
+  "titulo": "Geracao ttrs-3",
+  "descricao": "2 veiculos da geracao ttrs-3.",
+  "seo": {
+    "title": "Geracao ttrs-3 - Precos FIPE",
+    "description": "Veiculos da geracao ttrs-3 na Tabela FIPE.",
+    "h1": "Geracao ttrs-3",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/audi/ttrs-3/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "audi-ttrs-2-5-tfsi-quattro-s-tronic-2021-gasolina",
+      "fipeCodigo": "008176-0",
+      "displayName": "Audi TTRS 2.5 TFSI QUATTRO S Tronic",
+      "valorAtual": 541162,
+      "canonicalPath": "/fipe/audi/ttrs-2-5-tfsi-quattro-s-tronic-2021-008176-0/",
+      "ano": 2021,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-ttrs-2-5-tfsi-quattro-s-tronic-2022-gasolina",
+      "fipeCodigo": "008176-0",
+      "displayName": "Audi TTRS 2.5 TFSI QUATTRO S Tronic",
+      "valorAtual": 554692,
+      "canonicalPath": "/fipe/audi/ttrs-2-5-tfsi-quattro-s-tronic-2022-008176-0/",
+      "ano": 2022,
+      "marca": "Audi"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "ttrs-3"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "tipo": "familia",
+  "slug": "go",
+  "canonicalPath": "/fipe/mvk/go/",
+  "titulo": "MVK go - Tabela FIPE",
+  "descricao": "2 versoes e anos do MVK go na Tabela FIPE.",
+  "seo": {
+    "title": "MVK go - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes MVK go. 2 veiculos indexados.",
+    "h1": "MVK go - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/mvk/go/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "mvk-go-100-2007-gasolina",
+      "fipeCodigo": "845005-6",
+      "displayName": "MVK GO 100",
+      "valorAtual": 1980,
+      "canonicalPath": "/fipe/mvk/go-100-2007-845005-6/",
+      "ano": 2007,
+      "marca": "MVK"
+    },
+    {
+      "vehicleId": "mvk-go-100-2006-gasolina",
+      "fipeCodigo": "845005-6",
+      "displayName": "MVK GO 100",
+      "valorAtual": 1773,
+      "canonicalPath": "/fipe/mvk/go-100-2006-845005-6/",
+      "ano": 2006,
+      "marca": "MVK"
+    }
+  ],
+  "stats": {
+    "total": 2,
+    "precoMin": 1773,
+    "precoMax": 1980,
+    "anos": [
+      2007,
+      2006
+    ]
+  }
+}

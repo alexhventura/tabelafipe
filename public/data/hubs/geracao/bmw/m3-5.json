@@ -1,0 +1,111 @@
+{
+  "tipo": "geracao",
+  "slug": "m3-5",
+  "canonicalPath": "/geracao/bmw/m3-5/",
+  "titulo": "Geracao m3-5",
+  "descricao": "10 veiculos da geracao m3-5.",
+  "seo": {
+    "title": "Geracao m3-5 - Precos FIPE",
+    "description": "Veiculos da geracao m3-5 na Tabela FIPE.",
+    "h1": "Geracao m3-5",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/bmw/m3-5/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "bmw-m3-competition-m-3-0-bi-tb-510cv-2021-gasolina",
+      "fipeCodigo": "009280-0",
+      "displayName": "BMW M3 Competition M 3.0 Bi-TB 510cv",
+      "valorAtual": 523321,
+      "canonicalPath": "/fipe/bmw/m3-competition-m-3-0-bi-tb-510cv-2021-009280-0/",
+      "ano": 2021,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-m3-competition-m-3-0-bi-tb-510cv-2022-gasolina",
+      "fipeCodigo": "009280-0",
+      "displayName": "BMW M3 Competition M 3.0 Bi-TB 510cv",
+      "valorAtual": 545139,
+      "canonicalPath": "/fipe/bmw/m3-competition-m-3-0-bi-tb-510cv-2022-009280-0/",
+      "ano": 2022,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-m3-competition-m-3-0-bi-tb-510cv-2023-gasolina",
+      "fipeCodigo": "009280-0",
+      "displayName": "BMW M3 Competition M 3.0 Bi-TB 510cv",
+      "valorAtual": 599077,
+      "canonicalPath": "/fipe/bmw/m3-competition-m-3-0-bi-tb-510cv-2023-009280-0/",
+      "ano": 2023,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-m3-competition-m-3-0-bi-tb-510cv-2024-gasolina",
+      "fipeCodigo": "009280-0",
+      "displayName": "BMW M3 Competition M 3.0 Bi-TB 510cv",
+      "valorAtual": 650345,
+      "canonicalPath": "/fipe/bmw/m3-competition-m-3-0-bi-tb-510cv-2024-009280-0/",
+      "ano": 2024,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-m3-competition-m-3-0-bi-tb-510cv-2025-gasolina",
+      "fipeCodigo": "009280-0",
+      "displayName": "BMW M3 Competition M 3.0 Bi-TB 510cv",
+      "valorAtual": 742908,
+      "canonicalPath": "/fipe/bmw/m3-competition-m-3-0-bi-tb-510cv-2025-009280-0/",
+      "ano": 2025,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-m3-competition-m-3-0-bi-tb-510cv-2026-gasolina",
+      "fipeCodigo": "009280-0",
+      "displayName": "BMW M3 Competition M 3.0 Bi-TB 510cv",
+      "valorAtual": 807181,
+      "canonicalPath": "/fipe/bmw/m3-competition-m-3-0-bi-tb-510cv-2026-009280-0/",
+      "ano": 2026,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-m3-competition-m-track-3-0-bi-tb-2021-gasolina",
+      "fipeCodigo": "009281-9",
+      "displayName": "BMW M3 Competition M Track 3.0 Bi-TB",
+      "valorAtual": 532389,
+      "canonicalPath": "/fipe/bmw/m3-competition-m-track-3-0-bi-tb-2021-009281-9/",
+      "ano": 2021,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-m3-competition-m-track-3-0-bi-tb-2024-gasolina",
+      "fipeCodigo": "009281-9",
+      "displayName": "BMW M3 Competition M Track 3.0 Bi-TB",
+      "valorAtual": 741830,
+      "canonicalPath": "/fipe/bmw/m3-competition-m-track-3-0-bi-tb-2024-009281-9/",
+      "ano": 2024,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-m3-competition-m-track-3-0-bi-tb-2025-gasolina",
+      "fipeCodigo": "009281-9",
+      "displayName": "BMW M3 Competition M Track 3.0 Bi-TB",
+      "valorAtual": 774428,
+      "canonicalPath": "/fipe/bmw/m3-competition-m-track-3-0-bi-tb-2025-009281-9/",
+      "ano": 2025,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-m3-competition-m-track-3-0-bi-tb-2026-gasolina",
+      "fipeCodigo": "009281-9",
+      "displayName": "BMW M3 Competition M Track 3.0 Bi-TB",
+      "valorAtual": 904534,
+      "canonicalPath": "/fipe/bmw/m3-competition-m-track-3-0-bi-tb-2026-009281-9/",
+      "ano": 2026,
+      "marca": "BMW"
+    }
+  ],
+  "stats": {
+    "total": 10
+  },
+  "meta": {
+    "geracaoId": "m3-5"
+  }
+}

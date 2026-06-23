@@ -1,0 +1,57 @@
+{
+  "tipo": "geracao",
+  "slug": "nextem-1",
+  "canonicalPath": "/geracao/fever/nextem-1/",
+  "titulo": "Geracao nextem-1",
+  "descricao": "4 veiculos da geracao nextem-1.",
+  "seo": {
+    "title": "Geracao nextem-1 - Precos FIPE",
+    "description": "Veiculos da geracao nextem-1 na Tabela FIPE.",
+    "h1": "Geracao nextem-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/fever/nextem-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "fever-nextem-fn1000-box-eletrico-0-eletrico",
+      "fipeCodigo": "036003-1",
+      "displayName": "FEVER NEXTEM FN1000 BOX (Elétrico)",
+      "valorAtual": 224990,
+      "canonicalPath": "/fipe/fever/nextem-fn1000-box-eletrico-0-036003-1/",
+      "ano": 0,
+      "marca": "FEVER"
+    },
+    {
+      "vehicleId": "fever-nextem-fn1000-cc-eletrico-0-eletrico",
+      "fipeCodigo": "036001-5",
+      "displayName": "FEVER NEXTEM FN1000 CC (Elétrico)",
+      "valorAtual": 189990,
+      "canonicalPath": "/fipe/fever/nextem-fn1000-cc-eletrico-0-036001-5/",
+      "ano": 0,
+      "marca": "FEVER"
+    },
+    {
+      "vehicleId": "fever-nextem-fn1000-high-box-eletrico-0-eletrico",
+      "fipeCodigo": "036004-0",
+      "displayName": "FEVER NEXTEM FN1000 HIGH BOX (Elétrico)",
+      "valorAtual": 219990,
+      "canonicalPath": "/fipe/fever/nextem-fn1000-high-box-eletrico-0-036004-0/",
+      "ano": 0,
+      "marca": "FEVER"
+    },
+    {
+      "vehicleId": "fever-nextem-fn1000-pickup-eletrico-0-eletrico",
+      "fipeCodigo": "036002-3",
+      "displayName": "FEVER NEXTEM FN1000 PickUp (Elétrico)",
+      "valorAtual": 208490,
+      "canonicalPath": "/fipe/fever/nextem-fn1000-pickup-eletrico-0-036002-3/",
+      "ano": 0,
+      "marca": "FEVER"
+    }
+  ],
+  "stats": {
+    "total": 4
+  },
+  "meta": {
+    "geracaoId": "nextem-1"
+  }
+}

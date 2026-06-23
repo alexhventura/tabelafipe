@@ -1,0 +1,66 @@
+{
+  "tipo": "geracao",
+  "slug": "shuma-1",
+  "canonicalPath": "/geracao/kia-motors/shuma-1/",
+  "titulo": "Geracao shuma-1",
+  "descricao": "5 veiculos da geracao shuma-1.",
+  "seo": {
+    "title": "Geracao shuma-1 - Precos FIPE",
+    "description": "Veiculos da geracao shuma-1 na Tabela FIPE.",
+    "h1": "Geracao shuma-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/kia-motors/shuma-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "kia-motors-shuma-ls-1-5-16v-aut-1999-gasolina",
+      "fipeCodigo": "018032-7",
+      "displayName": "Kia Motors Shuma LS 1.5 16V Aut.",
+      "valorAtual": 8174,
+      "canonicalPath": "/fipe/kia-motors/shuma-ls-1-5-16v-aut-1999-018032-7/",
+      "ano": 1999,
+      "marca": "Kia Motors"
+    },
+    {
+      "vehicleId": "kia-motors-shuma-ls-1-5-16v-aut-2000-gasolina",
+      "fipeCodigo": "018032-7",
+      "displayName": "Kia Motors Shuma LS 1.5 16V Aut.",
+      "valorAtual": 8491,
+      "canonicalPath": "/fipe/kia-motors/shuma-ls-1-5-16v-aut-2000-018032-7/",
+      "ano": 2000,
+      "marca": "Kia Motors"
+    },
+    {
+      "vehicleId": "kia-motors-shuma-ls-1-5-16v-mec-1998-gasolina",
+      "fipeCodigo": "018023-8",
+      "displayName": "Kia Motors Shuma LS 1.5 16V Mec.",
+      "valorAtual": 6465,
+      "canonicalPath": "/fipe/kia-motors/shuma-ls-1-5-16v-mec-1998-018023-8/",
+      "ano": 1998,
+      "marca": "Kia Motors"
+    },
+    {
+      "vehicleId": "kia-motors-shuma-ls-1-5-16v-mec-1999-gasolina",
+      "fipeCodigo": "018023-8",
+      "displayName": "Kia Motors Shuma LS 1.5 16V Mec.",
+      "valorAtual": 7870,
+      "canonicalPath": "/fipe/kia-motors/shuma-ls-1-5-16v-mec-1999-018023-8/",
+      "ano": 1999,
+      "marca": "Kia Motors"
+    },
+    {
+      "vehicleId": "kia-motors-shuma-ls-1-5-16v-mec-2000-gasolina",
+      "fipeCodigo": "018023-8",
+      "displayName": "Kia Motors Shuma LS 1.5 16V Mec.",
+      "valorAtual": 8314,
+      "canonicalPath": "/fipe/kia-motors/shuma-ls-1-5-16v-mec-2000-018023-8/",
+      "ano": 2000,
+      "marca": "Kia Motors"
+    }
+  ],
+  "stats": {
+    "total": 5
+  },
+  "meta": {
+    "geracaoId": "shuma-1"
+  }
+}

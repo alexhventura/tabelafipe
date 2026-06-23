@@ -1,0 +1,57 @@
+{
+  "tipo": "geracao",
+  "slug": "dy150-1",
+  "canonicalPath": "/geracao/dayang/dy150-1/",
+  "titulo": "Geracao dy150-1",
+  "descricao": "4 veiculos da geracao dy150-1.",
+  "seo": {
+    "title": "Geracao dy150-1 - Precos FIPE",
+    "description": "Veiculos da geracao dy150-1 na Tabela FIPE.",
+    "h1": "Geracao dy150-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/dayang/dy150-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "dayang-dy150-12-2008-gasolina",
+      "fipeCodigo": "857003-5",
+      "displayName": "DAYANG DY150-12",
+      "valorAtual": 3083,
+      "canonicalPath": "/fipe/dayang/dy150-12-2008-857003-5/",
+      "ano": 2008,
+      "marca": "DAYANG"
+    },
+    {
+      "vehicleId": "dayang-dy150-12-2009-gasolina",
+      "fipeCodigo": "857003-5",
+      "displayName": "DAYANG DY150-12",
+      "valorAtual": 3168,
+      "canonicalPath": "/fipe/dayang/dy150-12-2009-857003-5/",
+      "ano": 2009,
+      "marca": "DAYANG"
+    },
+    {
+      "vehicleId": "dayun-dy150-7-2008-gasolina",
+      "fipeCodigo": "860004-0",
+      "displayName": "DAYUN DY150-7",
+      "valorAtual": 4289,
+      "canonicalPath": "/fipe/dayun/dy150-7-2008-860004-0/",
+      "ano": 2008,
+      "marca": "DAYUN"
+    },
+    {
+      "vehicleId": "dayun-dy150-9-2008-gasolina",
+      "fipeCodigo": "860005-8",
+      "displayName": "DAYUN DY150-9",
+      "valorAtual": 2986,
+      "canonicalPath": "/fipe/dayun/dy150-9-2008-860005-8/",
+      "ano": 2008,
+      "marca": "DAYUN"
+    }
+  ],
+  "stats": {
+    "total": 4
+  },
+  "meta": {
+    "geracaoId": "dy150-1"
+  }
+}

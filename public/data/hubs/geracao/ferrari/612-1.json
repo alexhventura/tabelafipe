@@ -1,0 +1,84 @@
+{
+  "tipo": "geracao",
+  "slug": "612-1",
+  "canonicalPath": "/geracao/ferrari/612-1/",
+  "titulo": "Geracao 612-1",
+  "descricao": "7 veiculos da geracao 612-1.",
+  "seo": {
+    "title": "Geracao 612-1 - Precos FIPE",
+    "description": "Veiculos da geracao 612-1 na Tabela FIPE.",
+    "h1": "Geracao 612-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/ferrari/612-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "ferrari-612-scaglietti-f1-v12-540cv-2005-gasolina",
+      "fipeCodigo": "031026-3",
+      "displayName": "Ferrari 612 Scaglietti F1 V12 540cv",
+      "valorAtual": 883960,
+      "canonicalPath": "/fipe/ferrari/612-scaglietti-f1-v12-540cv-2005-031026-3/",
+      "ano": 2005,
+      "marca": "Ferrari"
+    },
+    {
+      "vehicleId": "ferrari-612-scaglietti-f1-v12-540cv-2006-gasolina",
+      "fipeCodigo": "031026-3",
+      "displayName": "Ferrari 612 Scaglietti F1 V12 540cv",
+      "valorAtual": 1037565,
+      "canonicalPath": "/fipe/ferrari/612-scaglietti-f1-v12-540cv-2006-031026-3/",
+      "ano": 2006,
+      "marca": "Ferrari"
+    },
+    {
+      "vehicleId": "ferrari-612-scaglietti-f1-v12-540cv-2007-gasolina",
+      "fipeCodigo": "031026-3",
+      "displayName": "Ferrari 612 Scaglietti F1 V12 540cv",
+      "valorAtual": 1255183,
+      "canonicalPath": "/fipe/ferrari/612-scaglietti-f1-v12-540cv-2007-031026-3/",
+      "ano": 2007,
+      "marca": "Ferrari"
+    },
+    {
+      "vehicleId": "ferrari-612-scaglietti-f1-v12-540cv-2008-gasolina",
+      "fipeCodigo": "031026-3",
+      "displayName": "Ferrari 612 Scaglietti F1 V12 540cv",
+      "valorAtual": 1305667,
+      "canonicalPath": "/fipe/ferrari/612-scaglietti-f1-v12-540cv-2008-031026-3/",
+      "ano": 2008,
+      "marca": "Ferrari"
+    },
+    {
+      "vehicleId": "ferrari-612-scaglietti-f1-v12-540cv-2009-gasolina",
+      "fipeCodigo": "031026-3",
+      "displayName": "Ferrari 612 Scaglietti F1 V12 540cv",
+      "valorAtual": 1367823,
+      "canonicalPath": "/fipe/ferrari/612-scaglietti-f1-v12-540cv-2009-031026-3/",
+      "ano": 2009,
+      "marca": "Ferrari"
+    },
+    {
+      "vehicleId": "ferrari-612-scaglietti-f1-v12-540cv-2010-gasolina",
+      "fipeCodigo": "031026-3",
+      "displayName": "Ferrari 612 Scaglietti F1 V12 540cv",
+      "valorAtual": 1458575,
+      "canonicalPath": "/fipe/ferrari/612-scaglietti-f1-v12-540cv-2010-031026-3/",
+      "ano": 2010,
+      "marca": "Ferrari"
+    },
+    {
+      "vehicleId": "ferrari-612-scaglietti-f1-v12-540cv-2011-gasolina",
+      "fipeCodigo": "031026-3",
+      "displayName": "Ferrari 612 Scaglietti F1 V12 540cv",
+      "valorAtual": 1586482,
+      "canonicalPath": "/fipe/ferrari/612-scaglietti-f1-v12-540cv-2011-031026-3/",
+      "ano": 2011,
+      "marca": "Ferrari"
+    }
+  ],
+  "stats": {
+    "total": 7
+  },
+  "meta": {
+    "geracaoId": "612-1"
+  }
+}

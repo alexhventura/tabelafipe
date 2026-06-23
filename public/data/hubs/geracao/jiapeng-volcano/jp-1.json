@@ -1,0 +1,57 @@
+{
+  "tipo": "geracao",
+  "slug": "jp-1",
+  "canonicalPath": "/geracao/jiapeng-volcano/jp-1/",
+  "titulo": "Geracao jp-1",
+  "descricao": "4 veiculos da geracao jp-1.",
+  "seo": {
+    "title": "Geracao jp-1 - Precos FIPE",
+    "description": "Veiculos da geracao jp-1 na Tabela FIPE.",
+    "h1": "Geracao jp-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/jiapeng-volcano/jp-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "jiapeng-volcano-jp-110-2007-gasolina",
+      "fipeCodigo": "859002-8",
+      "displayName": "JIAPENG VOLCANO JP 110",
+      "valorAtual": 1430,
+      "canonicalPath": "/fipe/jiapeng-volcano/jp-110-2007-859002-8/",
+      "ano": 2007,
+      "marca": "JIAPENG VOLCANO"
+    },
+    {
+      "vehicleId": "jiapeng-volcano-jp-150-2007-gasolina",
+      "fipeCodigo": "859001-0",
+      "displayName": "JIAPENG VOLCANO JP 150",
+      "valorAtual": 1877,
+      "canonicalPath": "/fipe/jiapeng-volcano/jp-150-2007-859001-0/",
+      "ano": 2007,
+      "marca": "JIAPENG VOLCANO"
+    },
+    {
+      "vehicleId": "jiapeng-volcano-jp-150-2008-gasolina",
+      "fipeCodigo": "859001-0",
+      "displayName": "JIAPENG VOLCANO JP 150",
+      "valorAtual": 2087,
+      "canonicalPath": "/fipe/jiapeng-volcano/jp-150-2008-859001-0/",
+      "ano": 2008,
+      "marca": "JIAPENG VOLCANO"
+    },
+    {
+      "vehicleId": "jiapeng-volcano-jp-150-2009-gasolina",
+      "fipeCodigo": "859001-0",
+      "displayName": "JIAPENG VOLCANO JP 150",
+      "valorAtual": 2381,
+      "canonicalPath": "/fipe/jiapeng-volcano/jp-150-2009-859001-0/",
+      "ano": 2009,
+      "marca": "JIAPENG VOLCANO"
+    }
+  ],
+  "stats": {
+    "total": 4
+  },
+  "meta": {
+    "geracaoId": "jp-1"
+  }
+}

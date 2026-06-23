@@ -1,0 +1,52 @@
+{
+  "tipo": "familia",
+  "slug": "dominator",
+  "canonicalPath": "/fipe/honda/dominator/",
+  "titulo": "HONDA dominator - Tabela FIPE",
+  "descricao": "3 versoes e anos do HONDA dominator na Tabela FIPE.",
+  "seo": {
+    "title": "HONDA dominator - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes HONDA dominator. 3 veiculos indexados.",
+    "h1": "HONDA dominator - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/honda/dominator/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "honda-dominator-650-1994-gasolina",
+      "fipeCodigo": "811026-3",
+      "displayName": "HONDA DOMINATOR 650",
+      "valorAtual": 11382,
+      "canonicalPath": "/fipe/honda/dominator-650-1994-811026-3/",
+      "ano": 1994,
+      "marca": "HONDA"
+    },
+    {
+      "vehicleId": "honda-dominator-650-1993-gasolina",
+      "fipeCodigo": "811026-3",
+      "displayName": "HONDA DOMINATOR 650",
+      "valorAtual": 11104,
+      "canonicalPath": "/fipe/honda/dominator-650-1993-811026-3/",
+      "ano": 1993,
+      "marca": "HONDA"
+    },
+    {
+      "vehicleId": "honda-dominator-650-1992-gasolina",
+      "fipeCodigo": "811026-3",
+      "displayName": "HONDA DOMINATOR 650",
+      "valorAtual": 10642,
+      "canonicalPath": "/fipe/honda/dominator-650-1992-811026-3/",
+      "ano": 1992,
+      "marca": "HONDA"
+    }
+  ],
+  "stats": {
+    "total": 3,
+    "precoMin": 10642,
+    "precoMax": 11382,
+    "anos": [
+      1994,
+      1993,
+      1992
+    ]
+  }
+}

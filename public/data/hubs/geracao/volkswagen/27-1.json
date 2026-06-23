@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "27-1",
+  "canonicalPath": "/geracao/volkswagen/27-1/",
+  "titulo": "Geracao 27-1",
+  "descricao": "2 veiculos da geracao 27-1.",
+  "seo": {
+    "title": "Geracao 27-1 - Precos FIPE",
+    "description": "Veiculos da geracao 27-1 na Tabela FIPE.",
+    "h1": "Geracao 27-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/volkswagen/27-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "volkswagen-27-260-constellation-6x4-2p-diesel-e6-0-diesel",
+      "fipeCodigo": "515195-3",
+      "displayName": "VOLKSWAGEN 27-260 Constellation 6x4 2p (diesel)(E6)",
+      "valorAtual": 748744,
+      "canonicalPath": "/fipe/volkswagen/27-260-constellation-6x4-2p-diesel-e6-0-515195-3/",
+      "ano": 0,
+      "marca": "VOLKSWAGEN"
+    },
+    {
+      "vehicleId": "volkswagen-27-320-constellation-6x4-2p-e6-0-diesel",
+      "fipeCodigo": "515209-7",
+      "displayName": "VOLKSWAGEN 27-320 Constellation 6x4 2p (E6)",
+      "valorAtual": 749010,
+      "canonicalPath": "/fipe/volkswagen/27-320-constellation-6x4-2p-e6-0-515209-7/",
+      "ano": 0,
+      "marca": "VOLKSWAGEN"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "27-1"
+  }
+}

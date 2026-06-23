@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "artura-1",
+  "canonicalPath": "/geracao/mclaren/artura-1/",
+  "titulo": "Geracao artura-1",
+  "descricao": "2 veiculos da geracao artura-1.",
+  "seo": {
+    "title": "Geracao artura-1 - Precos FIPE",
+    "description": "Veiculos da geracao artura-1 na Tabela FIPE.",
+    "h1": "Geracao artura-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/mclaren/artura-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "mclaren-artura-coupe-3-0-v6-2p-hibrido-0-hibrido",
+      "fipeCodigo": "090011-7",
+      "displayName": "Mclaren Artura Coupe 3.0 V6 2p (Híbrido)",
+      "valorAtual": 2830000,
+      "canonicalPath": "/fipe/mclaren/artura-coupe-3-0-v6-2p-hibrido-0-090011-7/",
+      "ano": 0,
+      "marca": "Mclaren"
+    },
+    {
+      "vehicleId": "mclaren-artura-spider-3-0-v6-2p-hibrido-0-hibrido",
+      "fipeCodigo": "090015-0",
+      "displayName": "Mclaren Artura Spider 3.0 V6 2p (Híbrido)",
+      "valorAtual": 3200000,
+      "canonicalPath": "/fipe/mclaren/artura-spider-3-0-v6-2p-hibrido-0-090015-0/",
+      "ano": 0,
+      "marca": "Mclaren"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "artura-1"
+  }
+}

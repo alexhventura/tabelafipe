@@ -1,0 +1,72 @@
+{
+  "tipo": "familia",
+  "slug": "hb110",
+  "canonicalPath": "/fipe/haobao/hb110/",
+  "titulo": "HAOBAO hb110 - Tabela FIPE",
+  "descricao": "5 versoes e anos do HAOBAO hb110 na Tabela FIPE.",
+  "seo": {
+    "title": "HAOBAO hb110 - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes HAOBAO hb110. 5 veiculos indexados.",
+    "h1": "HAOBAO hb110 - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/haobao/hb110/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "haobao-hb110-3-2014-gasolina",
+      "fipeCodigo": "856002-1",
+      "displayName": "HAOBAO HB110-3",
+      "valorAtual": 2247,
+      "canonicalPath": "/fipe/haobao/hb110-3-2014-856002-1/",
+      "ano": 2014,
+      "marca": "HAOBAO"
+    },
+    {
+      "vehicleId": "haobao-hb110-3-2011-gasolina",
+      "fipeCodigo": "856002-1",
+      "displayName": "HAOBAO HB110-3",
+      "valorAtual": 1946,
+      "canonicalPath": "/fipe/haobao/hb110-3-2011-856002-1/",
+      "ano": 2011,
+      "marca": "HAOBAO"
+    },
+    {
+      "vehicleId": "haobao-hb110-3-2010-gasolina",
+      "fipeCodigo": "856002-1",
+      "displayName": "HAOBAO HB110-3",
+      "valorAtual": 1886,
+      "canonicalPath": "/fipe/haobao/hb110-3-2010-856002-1/",
+      "ano": 2010,
+      "marca": "HAOBAO"
+    },
+    {
+      "vehicleId": "haobao-hb110-3-2009-gasolina",
+      "fipeCodigo": "856002-1",
+      "displayName": "HAOBAO HB110-3",
+      "valorAtual": 1833,
+      "canonicalPath": "/fipe/haobao/hb110-3-2009-856002-1/",
+      "ano": 2009,
+      "marca": "HAOBAO"
+    },
+    {
+      "vehicleId": "haobao-hb110-3-2008-gasolina",
+      "fipeCodigo": "856002-1",
+      "displayName": "HAOBAO HB110-3",
+      "valorAtual": 1783,
+      "canonicalPath": "/fipe/haobao/hb110-3-2008-856002-1/",
+      "ano": 2008,
+      "marca": "HAOBAO"
+    }
+  ],
+  "stats": {
+    "total": 5,
+    "precoMin": 1783,
+    "precoMax": 2247,
+    "anos": [
+      2014,
+      2011,
+      2010,
+      2009,
+      2008
+    ]
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "tipo": "familia",
+  "slug": "1190",
+  "canonicalPath": "/fipe/ktm/1190/",
+  "titulo": "KTM 1190 - Tabela FIPE",
+  "descricao": "5 versoes e anos do KTM 1190 na Tabela FIPE.",
+  "seo": {
+    "title": "KTM 1190 - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes KTM 1190. 5 veiculos indexados.",
+    "h1": "KTM 1190 - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/ktm/1190/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "ktm-1190-rc8-2011-gasolina",
+      "fipeCodigo": "818029-6",
+      "displayName": "KTM 1190 RC8",
+      "valorAtual": 51319,
+      "canonicalPath": "/fipe/ktm/1190-rc8-2011-818029-6/",
+      "ano": 2011,
+      "marca": "KTM"
+    },
+    {
+      "vehicleId": "ktm-1190-rc8-r-2011-gasolina",
+      "fipeCodigo": "818035-0",
+      "displayName": "KTM 1190 RC8 R",
+      "valorAtual": 63800,
+      "canonicalPath": "/fipe/ktm/1190-rc8-r-2011-818035-0/",
+      "ano": 2011,
+      "marca": "KTM"
+    },
+    {
+      "vehicleId": "ktm-1190-rc8-2010-gasolina",
+      "fipeCodigo": "818029-6",
+      "displayName": "KTM 1190 RC8",
+      "valorAtual": 50053,
+      "canonicalPath": "/fipe/ktm/1190-rc8-2010-818029-6/",
+      "ano": 2010,
+      "marca": "KTM"
+    },
+    {
+      "vehicleId": "ktm-1190-rc8-r-2010-gasolina",
+      "fipeCodigo": "818035-0",
+      "displayName": "KTM 1190 RC8 R",
+      "valorAtual": 62243,
+      "canonicalPath": "/fipe/ktm/1190-rc8-r-2010-818035-0/",
+      "ano": 2010,
+      "marca": "KTM"
+    },
+    {
+      "vehicleId": "ktm-1190-rc8-2009-gasolina",
+      "fipeCodigo": "818029-6",
+      "displayName": "KTM 1190 RC8",
+      "valorAtual": 48832,
+      "canonicalPath": "/fipe/ktm/1190-rc8-2009-818029-6/",
+      "ano": 2009,
+      "marca": "KTM"
+    }
+  ],
+  "stats": {
+    "total": 5,
+    "precoMin": 48832,
+    "precoMax": 63800,
+    "anos": [
+      2011,
+      2010,
+      2009
+    ]
+  }
+}

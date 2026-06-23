@@ -1,0 +1,70 @@
+{
+  "tipo": "familia",
+  "slug": "shuma",
+  "canonicalPath": "/fipe/kia-motors/shuma/",
+  "titulo": "Kia Motors shuma - Tabela FIPE",
+  "descricao": "5 versoes e anos do Kia Motors shuma na Tabela FIPE.",
+  "seo": {
+    "title": "Kia Motors shuma - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes Kia Motors shuma. 5 veiculos indexados.",
+    "h1": "Kia Motors shuma - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/kia-motors/shuma/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "kia-motors-shuma-ls-1-5-16v-mec-2000-gasolina",
+      "fipeCodigo": "018023-8",
+      "displayName": "Kia Motors Shuma LS 1.5 16V Mec.",
+      "valorAtual": 8314,
+      "canonicalPath": "/fipe/kia-motors/shuma-ls-1-5-16v-mec-2000-018023-8/",
+      "ano": 2000,
+      "marca": "Kia Motors"
+    },
+    {
+      "vehicleId": "kia-motors-shuma-ls-1-5-16v-aut-2000-gasolina",
+      "fipeCodigo": "018032-7",
+      "displayName": "Kia Motors Shuma LS 1.5 16V Aut.",
+      "valorAtual": 8491,
+      "canonicalPath": "/fipe/kia-motors/shuma-ls-1-5-16v-aut-2000-018032-7/",
+      "ano": 2000,
+      "marca": "Kia Motors"
+    },
+    {
+      "vehicleId": "kia-motors-shuma-ls-1-5-16v-mec-1999-gasolina",
+      "fipeCodigo": "018023-8",
+      "displayName": "Kia Motors Shuma LS 1.5 16V Mec.",
+      "valorAtual": 7870,
+      "canonicalPath": "/fipe/kia-motors/shuma-ls-1-5-16v-mec-1999-018023-8/",
+      "ano": 1999,
+      "marca": "Kia Motors"
+    },
+    {
+      "vehicleId": "kia-motors-shuma-ls-1-5-16v-aut-1999-gasolina",
+      "fipeCodigo": "018032-7",
+      "displayName": "Kia Motors Shuma LS 1.5 16V Aut.",
+      "valorAtual": 8174,
+      "canonicalPath": "/fipe/kia-motors/shuma-ls-1-5-16v-aut-1999-018032-7/",
+      "ano": 1999,
+      "marca": "Kia Motors"
+    },
+    {
+      "vehicleId": "kia-motors-shuma-ls-1-5-16v-mec-1998-gasolina",
+      "fipeCodigo": "018023-8",
+      "displayName": "Kia Motors Shuma LS 1.5 16V Mec.",
+      "valorAtual": 6465,
+      "canonicalPath": "/fipe/kia-motors/shuma-ls-1-5-16v-mec-1998-018023-8/",
+      "ano": 1998,
+      "marca": "Kia Motors"
+    }
+  ],
+  "stats": {
+    "total": 5,
+    "precoMin": 6465,
+    "precoMax": 8491,
+    "anos": [
+      2000,
+      1999,
+      1998
+    ]
+  }
+}

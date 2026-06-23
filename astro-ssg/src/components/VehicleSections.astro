@@ -1,0 +1,181 @@
+---
+import { formatBRL, formatPct } from '../lib/format';
+import type { VehicleBundle, RelatedLink } from '../lib/types';
+
+interface Props {
+  bundle: VehicleBundle;
+}
+
+const { bundle } = Astro.props;
+const { identity, fipe, sections, seo } = bundle;
+const specs = bundle.specs;
+const engine = bundle.engine?.entity;
+const inmetro = bundle.inmetro;
+
+function relatedLinks(links: RelatedLink[] | undefined) {
+  return links ?? [];
+}
+
+const historicoRecent = [...fipe.historico].slice(-24).reverse();
+---
+
+<nav class="breadcrumb" aria-label="Breadcrumb">
+  {seo.breadcrumb.map((crumb, i) => (
+    <>
+      {i > 0 && <span aria-hidden="true"> › </span>}
+      {i < seo.breadcrumb.length - 1 ? (
+        <a href={crumb.path}>{crumb.name}</a>
+      ) : (
+        <span aria-current="page">{crumb.name}</span>
+      )}
+    </>
+  ))}
+</nav>
+
+<header class="page-header">
+  <h1>{seo.h1}</h1>
+  <p>FIPE {fipe.fipeCodigo} · {identity.combustivel} · Ref. {fipe.mesReferencia}</p>
+</header>
+
+{sections.preco && (
+  <section class="section" aria-labelledby="sec-preco">
+    <h2 id="sec-preco">Preço FIPE</h2>
+    <div class="price-card">
+      <p class="label">Valor de referência</p>
+      <p class="value">{formatBRL(fipe.valorAtual)}</p>
+      {fipe.trend6m != null && (
+        <p class="trend">
+          {fipe.trend6m >= 0 ? '▲' : '▼'} {formatPct(Math.abs(fipe.trend6m))} em 6 meses
+        </p>
+      )}
+    </div>
+    <div class="card">
+      <dl>
+        {identity.combustivel && (
+          <div class="spec-row"><dt>Combustível</dt><dd>{identity.combustivel}</dd></div>
+        )}
+        {(specs?.cambio || bundle.transmission?.transmissionNome) && (
+          <div class="spec-row"><dt>Transmissão</dt><dd>{specs?.cambio ?? bundle.transmission?.transmissionNome}</dd></div>
+        )}
+        {(specs?.potenciaCv || engine?.potencia) && (
+          <div class="spec-row"><dt>Potência</dt><dd>{specs?.potenciaCv ?? engine?.potencia} cv</dd></div>
+        )}
+      </dl>
+    </div>
+  </section>
+)}
+
+{sections.historico && historicoRecent.length > 0 && (
+  <section class="section" aria-labelledby="sec-historico">
+    <h2 id="sec-historico">Histórico FIPE</h2>
+    <div class="card">
+      <table class="history-table">
+        <thead>
+          <tr><th>Mês</th><th>Valor</th></tr>
+        </thead>
+        <tbody>
+          {historicoRecent.map((p) => (
+            <tr>
+              <td>{p.referencia ?? '—'}</td>
+              <td>{formatBRL(p.valor)}</td>
+            </tr>
+          ))}
+        </tbody>
+      </table>
+    </div>
+  </section>
+)}
+
+{sections.specs && specs && (
+  <section class="section" aria-labelledby="sec-specs">
+    <h2 id="sec-specs">Ficha técnica</h2>
+    <div class="card">
+      <dl>
+        {specs.potenciaCv && <div class="spec-row"><dt>Potência</dt><dd>{specs.potenciaCv} cv</dd></div>}
+        {specs.torqueNm && <div class="spec-row"><dt>Torque</dt><dd>{specs.torqueNm} Nm</dd></div>}
+        {specs.cambio && <div class="spec-row"><dt>Câmbio</dt><dd>{specs.cambio}</dd></div>}
+        {specs.portaMalasL && <div class="spec-row"><dt>Porta-malas</dt><dd>{specs.portaMalasL} L</dd></div>}
+      </dl>
+    </div>
+  </section>
+)}
+
+{sections.engine && bundle.engine && (
+  <section class="section" aria-labelledby="sec-engine">
+    <h2 id="sec-engine">Motor</h2>
+    <div class="card">
+      <dl>
+        {bundle.engine.engineNome && <div class="spec-row"><dt>Motor</dt><dd>{bundle.engine.engineNome}</dd></div>}
+        {engine?.potencia && <div class="spec-row"><dt>Potência</dt><dd>{engine.potencia} cv</dd></div>}
+        {engine?.torqueNm && <div class="spec-row"><dt>Torque</dt><dd>{engine.torqueNm} Nm</dd></div>}
+      </dl>
+    </div>
+  </section>
+)}
+
+{sections.inmetro && inmetro && (
+  <section class="section" aria-labelledby="sec-inmetro">
+    <h2 id="sec-inmetro">Consumo e eficiência</h2>
+    <div class="card">
+      <dl>
+        {inmetro.consumoCidade && <div class="spec-row"><dt>Cidade (gasolina)</dt><dd>{inmetro.consumoCidade} km/l</dd></div>}
+        {inmetro.consumoEstrada && <div class="spec-row"><dt>Estrada (gasolina)</dt><dd>{inmetro.consumoEstrada} km/l</dd></div>}
+        {inmetro.classificacaoEnergetica && <div class="spec-row"><dt>Classificação</dt><dd>{inmetro.classificacaoEnergetica}</dd></div>}
+      </dl>
+    </div>
+  </section>
+)}
+
+{sections.generation && bundle.generation?.catalogEntry && (
+  <section class="section" aria-labelledby="sec-gen">
+    <h2 id="sec-gen">Geração</h2>
+    <div class="card">
+      <p><strong>{bundle.generation.catalogEntry.label ?? bundle.generation.geracaoId}</strong></p>
+    </div>
+  </section>
+)}
+
+{sections.relacionados && (
+  <>
+    {relatedLinks(bundle.related.mesmaGeracao).length > 0 && (
+      <section class="section">
+        <h2>Mesma geração</h2>
+        <div class="grid-2">
+          {relatedLinks(bundle.related.mesmaGeracao).map((v) => (
+            <a class="vehicle-link" href={v.canonicalPath}>
+              <div class="name">{v.displayName}</div>
+              <div class="meta">{v.ano} · FIPE {v.fipeCodigo}</div>
+              <div class="price">{formatBRL(v.valorAtual)}</div>
+            </a>
+          ))}
+        </div>
+      </section>
+    )}
+    {relatedLinks(bundle.related.mesmaFamilia).length > 0 && (
+      <section class="section">
+        <h2>Mesma família</h2>
+        <div class="grid-2">
+          {relatedLinks(bundle.related.mesmaFamilia).map((v) => (
+            <a class="vehicle-link" href={v.canonicalPath}>
+              <div class="name">{v.displayName}</div>
+              <div class="meta">{v.ano} · FIPE {v.fipeCodigo}</div>
+              <div class="price">{formatBRL(v.valorAtual)}</div>
+            </a>
+          ))}
+        </div>
+      </section>
+    )}
+  </>
+)}
+
+{bundle.faq.length > 0 && (
+  <section class="section faq" aria-labelledby="sec-faq">
+    <h2 id="sec-faq">Perguntas frequentes</h2>
+    {bundle.faq.map((item) => (
+      <details>
+        <summary>{item.pergunta}</summary>
+        <p>{item.resposta}</p>
+      </details>
+    ))}
+  </section>
+)}

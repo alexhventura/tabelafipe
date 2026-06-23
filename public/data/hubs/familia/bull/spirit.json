@@ -1,0 +1,62 @@
+{
+  "tipo": "familia",
+  "slug": "spirit",
+  "canonicalPath": "/fipe/bull/spirit/",
+  "titulo": "BULL spirit - Tabela FIPE",
+  "descricao": "4 versoes e anos do BULL spirit na Tabela FIPE.",
+  "seo": {
+    "title": "BULL spirit - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes BULL spirit. 4 veiculos indexados.",
+    "h1": "BULL spirit - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/bull/spirit/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "bull-spirit-se-50-2023-gasolina",
+      "fipeCodigo": "888013-1",
+      "displayName": "BULL Spirit SE 50",
+      "valorAtual": 7747,
+      "canonicalPath": "/fipe/bull/spirit-se-50-2023-888013-1/",
+      "ano": 2023,
+      "marca": "BULL"
+    },
+    {
+      "vehicleId": "bull-spirit-se-50-2022-gasolina",
+      "fipeCodigo": "888013-1",
+      "displayName": "BULL Spirit SE 50",
+      "valorAtual": 7436,
+      "canonicalPath": "/fipe/bull/spirit-se-50-2022-888013-1/",
+      "ano": 2022,
+      "marca": "BULL"
+    },
+    {
+      "vehicleId": "bull-spirit-se-50-2021-gasolina",
+      "fipeCodigo": "888013-1",
+      "displayName": "BULL Spirit SE 50",
+      "valorAtual": 6046,
+      "canonicalPath": "/fipe/bull/spirit-se-50-2021-888013-1/",
+      "ano": 2021,
+      "marca": "BULL"
+    },
+    {
+      "vehicleId": "bull-spirit-se-50-2020-gasolina",
+      "fipeCodigo": "888013-1",
+      "displayName": "BULL Spirit SE 50",
+      "valorAtual": 5818,
+      "canonicalPath": "/fipe/bull/spirit-se-50-2020-888013-1/",
+      "ano": 2020,
+      "marca": "BULL"
+    }
+  ],
+  "stats": {
+    "total": 4,
+    "precoMin": 5818,
+    "precoMax": 7747,
+    "anos": [
+      2023,
+      2022,
+      2021,
+      2020
+    ]
+  }
+}

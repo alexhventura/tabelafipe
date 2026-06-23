@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "spark-2",
+  "canonicalPath": "/geracao/chevrolet/spark-2/",
+  "titulo": "Geracao spark-2",
+  "descricao": "2 veiculos da geracao spark-2.",
+  "seo": {
+    "title": "Geracao spark-2 - Precos FIPE",
+    "description": "Veiculos da geracao spark-2 na Tabela FIPE.",
+    "h1": "Geracao spark-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/chevrolet/spark-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "chevrolet-spark-euv-activ-2025-eletrico",
+      "fipeCodigo": "004560-8",
+      "displayName": "GM - Chevrolet SPARK EUV ACTIV",
+      "valorAtual": 140249,
+      "canonicalPath": "/fipe/chevrolet/spark-euv-activ-2025-004560-8/",
+      "ano": 2025,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-spark-euv-activ-2026-eletrico",
+      "fipeCodigo": "004560-8",
+      "displayName": "GM - Chevrolet SPARK EUV ACTIV",
+      "valorAtual": 143993,
+      "canonicalPath": "/fipe/chevrolet/spark-euv-activ-2026-004560-8/",
+      "ano": 2026,
+      "marca": "GM - Chevrolet"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "spark-2"
+  }
+}

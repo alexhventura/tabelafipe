@@ -1,0 +1,48 @@
+{
+  "tipo": "geracao",
+  "slug": "xl-3",
+  "canonicalPath": "/geracao/honda/xl-3/",
+  "titulo": "Geracao xl-3",
+  "descricao": "3 veiculos da geracao xl-3.",
+  "seo": {
+    "title": "Geracao xl-3 - Precos FIPE",
+    "description": "Veiculos da geracao xl-3 na Tabela FIPE.",
+    "h1": "Geracao xl-3",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/honda/xl-3/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "honda-xl-1000v-varadero-2007-gasolina",
+      "fipeCodigo": "811088-3",
+      "displayName": "HONDA XL 1000V VARADERO",
+      "valorAtual": 31898,
+      "canonicalPath": "/fipe/honda/xl-1000v-varadero-2007-811088-3/",
+      "ano": 2007,
+      "marca": "HONDA"
+    },
+    {
+      "vehicleId": "honda-xl-1000v-varadero-2008-gasolina",
+      "fipeCodigo": "811088-3",
+      "displayName": "HONDA XL 1000V VARADERO",
+      "valorAtual": 32836,
+      "canonicalPath": "/fipe/honda/xl-1000v-varadero-2008-811088-3/",
+      "ano": 2008,
+      "marca": "HONDA"
+    },
+    {
+      "vehicleId": "honda-xl-1000v-varadero-2009-gasolina",
+      "fipeCodigo": "811088-3",
+      "displayName": "HONDA XL 1000V VARADERO",
+      "valorAtual": 34565,
+      "canonicalPath": "/fipe/honda/xl-1000v-varadero-2009-811088-3/",
+      "ano": 2009,
+      "marca": "HONDA"
+    }
+  ],
+  "stats": {
+    "total": 3
+  },
+  "meta": {
+    "geracaoId": "xl-3"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "duna-1",
+  "canonicalPath": "/geracao/fiat/duna-1/",
+  "titulo": "Geracao duna-1",
+  "descricao": "2 veiculos da geracao duna-1.",
+  "seo": {
+    "title": "Geracao duna-1 - Precos FIPE",
+    "description": "Veiculos da geracao duna-1 na Tabela FIPE.",
+    "h1": "Geracao duna-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/fiat/duna-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "fiat-duna-1-6ie-1994-gasolina",
+      "fipeCodigo": "001129-0",
+      "displayName": "Fiat Duna 1.6ie",
+      "valorAtual": 5520,
+      "canonicalPath": "/fipe/fiat/duna-1-6ie-1994-001129-0/",
+      "ano": 1994,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-duna-1-6ie-1995-gasolina",
+      "fipeCodigo": "001129-0",
+      "displayName": "Fiat Duna 1.6ie",
+      "valorAtual": 8549,
+      "canonicalPath": "/fipe/fiat/duna-1-6ie-1995-001129-0/",
+      "ano": 1995,
+      "marca": "Fiat"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "duna-1"
+  }
+}

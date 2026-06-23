@@ -1,0 +1,75 @@
+{
+  "tipo": "geracao",
+  "slug": "king-1",
+  "canonicalPath": "/geracao/byd/king-1/",
+  "titulo": "Geracao king-1",
+  "descricao": "6 veiculos da geracao king-1.",
+  "seo": {
+    "title": "Geracao king-1 - Precos FIPE",
+    "description": "Veiculos da geracao king-1 na Tabela FIPE.",
+    "h1": "Geracao king-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/byd/king-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "byd-king-gl-1-5-16v-aut-hibrido-0-hibrido",
+      "fipeCodigo": "095012-2",
+      "displayName": "BYD King GL 1.5 16V Aut. (Hibrido)",
+      "valorAtual": 172990,
+      "canonicalPath": "/fipe/byd/king-gl-1-5-16v-aut-hibrido-0-095012-2/",
+      "ano": 0,
+      "marca": "BYD"
+    },
+    {
+      "vehicleId": "byd-king-gs-1-5-16v-aut-hibrido-0-hibrido",
+      "fipeCodigo": "095011-4",
+      "displayName": "BYD King GS 1.5 16V Aut. (Hibrido)",
+      "valorAtual": 175990,
+      "canonicalPath": "/fipe/byd/king-gs-1-5-16v-aut-hibrido-0-095011-4/",
+      "ano": 0,
+      "marca": "BYD"
+    },
+    {
+      "vehicleId": "nissan-king-cab-se-4x4-3-0-v6-1992-gasolina",
+      "fipeCodigo": "023026-0",
+      "displayName": "Nissan King-Cab SE 4x4 3.0 V6",
+      "valorAtual": 10142,
+      "canonicalPath": "/fipe/nissan/king-cab-se-4x4-3-0-v6-1992-023026-0/",
+      "ano": 1992,
+      "marca": "Nissan"
+    },
+    {
+      "vehicleId": "nissan-king-cab-se-4x4-3-0-v6-1993-gasolina",
+      "fipeCodigo": "023026-0",
+      "displayName": "Nissan King-Cab SE 4x4 3.0 V6",
+      "valorAtual": 11697,
+      "canonicalPath": "/fipe/nissan/king-cab-se-4x4-3-0-v6-1993-023026-0/",
+      "ano": 1993,
+      "marca": "Nissan"
+    },
+    {
+      "vehicleId": "nissan-king-cab-se-4x4-3-0-v6-1994-gasolina",
+      "fipeCodigo": "023026-0",
+      "displayName": "Nissan King-Cab SE 4x4 3.0 V6",
+      "valorAtual": 13925,
+      "canonicalPath": "/fipe/nissan/king-cab-se-4x4-3-0-v6-1994-023026-0/",
+      "ano": 1994,
+      "marca": "Nissan"
+    },
+    {
+      "vehicleId": "nissan-king-cab-se-4x4-3-0-v6-1995-gasolina",
+      "fipeCodigo": "023026-0",
+      "displayName": "Nissan King-Cab SE 4x4 3.0 V6",
+      "valorAtual": 15399,
+      "canonicalPath": "/fipe/nissan/king-cab-se-4x4-3-0-v6-1995-023026-0/",
+      "ano": 1995,
+      "marca": "Nissan"
+    }
+  ],
+  "stats": {
+    "total": 6
+  },
+  "meta": {
+    "geracaoId": "king-1"
+  }
+}

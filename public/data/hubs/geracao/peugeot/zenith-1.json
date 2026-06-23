@@ -1,0 +1,48 @@
+{
+  "tipo": "geracao",
+  "slug": "zenith-1",
+  "canonicalPath": "/geracao/peugeot/zenith-1/",
+  "titulo": "Geracao zenith-1",
+  "descricao": "3 veiculos da geracao zenith-1.",
+  "seo": {
+    "title": "Geracao zenith-1 - Precos FIPE",
+    "description": "Veiculos da geracao zenith-1 na Tabela FIPE.",
+    "h1": "Geracao zenith-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/peugeot/zenith-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "peugeot-zenith-50-1997-gasolina",
+      "fipeCodigo": "821011-0",
+      "displayName": "PEUGEOT ZENITH 50",
+      "valorAtual": 1155,
+      "canonicalPath": "/fipe/peugeot/zenith-50-1997-821011-0/",
+      "ano": 1997,
+      "marca": "PEUGEOT"
+    },
+    {
+      "vehicleId": "peugeot-zenith-50-1998-gasolina",
+      "fipeCodigo": "821011-0",
+      "displayName": "PEUGEOT ZENITH 50",
+      "valorAtual": 1253,
+      "canonicalPath": "/fipe/peugeot/zenith-50-1998-821011-0/",
+      "ano": 1998,
+      "marca": "PEUGEOT"
+    },
+    {
+      "vehicleId": "peugeot-zenith-50-1999-gasolina",
+      "fipeCodigo": "821011-0",
+      "displayName": "PEUGEOT ZENITH 50",
+      "valorAtual": 1383,
+      "canonicalPath": "/fipe/peugeot/zenith-50-1999-821011-0/",
+      "ano": 1999,
+      "marca": "PEUGEOT"
+    }
+  ],
+  "stats": {
+    "total": 3
+  },
+  "meta": {
+    "geracaoId": "zenith-1"
+  }
+}

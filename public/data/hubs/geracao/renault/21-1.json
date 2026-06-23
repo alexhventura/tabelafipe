@@ -1,0 +1,129 @@
+{
+  "tipo": "geracao",
+  "slug": "21-1",
+  "canonicalPath": "/geracao/renault/21-1/",
+  "titulo": "Geracao 21-1",
+  "descricao": "12 veiculos da geracao 21-1.",
+  "seo": {
+    "title": "Geracao 21-1 - Precos FIPE",
+    "description": "Veiculos da geracao 21-1 na Tabela FIPE.",
+    "h1": "Geracao 21-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/renault/21-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "renault-21-gtx-2-0-1992-gasolina",
+      "fipeCodigo": "025020-1",
+      "displayName": "Renault 21 GTX 2.0",
+      "valorAtual": 3211,
+      "canonicalPath": "/fipe/renault/21-gtx-2-0-1992-025020-1/",
+      "ano": 1992,
+      "marca": "Renault"
+    },
+    {
+      "vehicleId": "renault-21-gtx-2-0-1993-gasolina",
+      "fipeCodigo": "025020-1",
+      "displayName": "Renault 21 GTX 2.0",
+      "valorAtual": 3596,
+      "canonicalPath": "/fipe/renault/21-gtx-2-0-1993-025020-1/",
+      "ano": 1993,
+      "marca": "Renault"
+    },
+    {
+      "vehicleId": "renault-21-gtx-2-0-1994-gasolina",
+      "fipeCodigo": "025020-1",
+      "displayName": "Renault 21 GTX 2.0",
+      "valorAtual": 4141,
+      "canonicalPath": "/fipe/renault/21-gtx-2-0-1994-025020-1/",
+      "ano": 1994,
+      "marca": "Renault"
+    },
+    {
+      "vehicleId": "renault-21-nevada-gtx-2-2-1992-gasolina",
+      "fipeCodigo": "025033-3",
+      "displayName": "Renault 21 Nevada GTX 2.2",
+      "valorAtual": 3215,
+      "canonicalPath": "/fipe/renault/21-nevada-gtx-2-2-1992-025033-3/",
+      "ano": 1992,
+      "marca": "Renault"
+    },
+    {
+      "vehicleId": "renault-21-nevada-gtx-2-2-1993-gasolina",
+      "fipeCodigo": "025033-3",
+      "displayName": "Renault 21 Nevada GTX 2.2",
+      "valorAtual": 3600,
+      "canonicalPath": "/fipe/renault/21-nevada-gtx-2-2-1993-025033-3/",
+      "ano": 1993,
+      "marca": "Renault"
+    },
+    {
+      "vehicleId": "renault-21-nevada-gtx-2-2-1994-gasolina",
+      "fipeCodigo": "025033-3",
+      "displayName": "Renault 21 Nevada GTX 2.2",
+      "valorAtual": 4190,
+      "canonicalPath": "/fipe/renault/21-nevada-gtx-2-2-1994-025033-3/",
+      "ano": 1994,
+      "marca": "Renault"
+    },
+    {
+      "vehicleId": "renault-21-nevada-txe-2-2-1992-gasolina",
+      "fipeCodigo": "025008-2",
+      "displayName": "Renault 21 Nevada TXE 2.2",
+      "valorAtual": 3798,
+      "canonicalPath": "/fipe/renault/21-nevada-txe-2-2-1992-025008-2/",
+      "ano": 1992,
+      "marca": "Renault"
+    },
+    {
+      "vehicleId": "renault-21-nevada-txe-2-2-1993-gasolina",
+      "fipeCodigo": "025008-2",
+      "displayName": "Renault 21 Nevada TXE 2.2",
+      "valorAtual": 4214,
+      "canonicalPath": "/fipe/renault/21-nevada-txe-2-2-1993-025008-2/",
+      "ano": 1993,
+      "marca": "Renault"
+    },
+    {
+      "vehicleId": "renault-21-nevada-txe-2-2-1994-gasolina",
+      "fipeCodigo": "025008-2",
+      "displayName": "Renault 21 Nevada TXE 2.2",
+      "valorAtual": 4579,
+      "canonicalPath": "/fipe/renault/21-nevada-txe-2-2-1994-025008-2/",
+      "ano": 1994,
+      "marca": "Renault"
+    },
+    {
+      "vehicleId": "renault-21-txe-txi-2-2-1992-gasolina",
+      "fipeCodigo": "025034-1",
+      "displayName": "Renault 21 TXE/ TXi 2.2",
+      "valorAtual": 4061,
+      "canonicalPath": "/fipe/renault/21-txe-txi-2-2-1992-025034-1/",
+      "ano": 1992,
+      "marca": "Renault"
+    },
+    {
+      "vehicleId": "renault-21-txe-txi-2-2-1993-gasolina",
+      "fipeCodigo": "025034-1",
+      "displayName": "Renault 21 TXE/ TXi 2.2",
+      "valorAtual": 4478,
+      "canonicalPath": "/fipe/renault/21-txe-txi-2-2-1993-025034-1/",
+      "ano": 1993,
+      "marca": "Renault"
+    },
+    {
+      "vehicleId": "renault-21-txe-txi-2-2-1994-gasolina",
+      "fipeCodigo": "025034-1",
+      "displayName": "Renault 21 TXE/ TXi 2.2",
+      "valorAtual": 4849,
+      "canonicalPath": "/fipe/renault/21-txe-txi-2-2-1994-025034-1/",
+      "ano": 1994,
+      "marca": "Renault"
+    }
+  ],
+  "stats": {
+    "total": 12
+  },
+  "meta": {
+    "geracaoId": "21-1"
+  }
+}

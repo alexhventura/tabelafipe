@@ -1,0 +1,52 @@
+{
+  "tipo": "familia",
+  "slug": "mini",
+  "canonicalPath": "/fipe/rover/mini/",
+  "titulo": "Rover mini - Tabela FIPE",
+  "descricao": "3 versoes e anos do Rover mini na Tabela FIPE.",
+  "seo": {
+    "title": "Rover mini - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes Rover mini. 3 veiculos indexados.",
+    "h1": "Rover mini - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/rover/mini/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "rover-mini-cooper-1-3-1995-gasolina",
+      "fipeCodigo": "052001-2",
+      "displayName": "Rover Mini Cooper 1.3",
+      "valorAtual": 27602,
+      "canonicalPath": "/fipe/rover/mini-cooper-1-3-1995-052001-2/",
+      "ano": 1995,
+      "marca": "Rover"
+    },
+    {
+      "vehicleId": "rover-mini-cooper-1-3-1993-gasolina",
+      "fipeCodigo": "052001-2",
+      "displayName": "Rover Mini Cooper 1.3",
+      "valorAtual": 21127,
+      "canonicalPath": "/fipe/rover/mini-cooper-1-3-1993-052001-2/",
+      "ano": 1993,
+      "marca": "Rover"
+    },
+    {
+      "vehicleId": "rover-mini-cooper-1-3-1992-gasolina",
+      "fipeCodigo": "052001-2",
+      "displayName": "Rover Mini Cooper 1.3",
+      "valorAtual": 18394,
+      "canonicalPath": "/fipe/rover/mini-cooper-1-3-1992-052001-2/",
+      "ano": 1992,
+      "marca": "Rover"
+    }
+  ],
+  "stats": {
+    "total": 3,
+    "precoMin": 18394,
+    "precoMax": 27602,
+    "anos": [
+      1995,
+      1993,
+      1992
+    ]
+  }
+}

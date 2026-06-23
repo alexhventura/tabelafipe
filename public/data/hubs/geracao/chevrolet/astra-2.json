@@ -1,0 +1,741 @@
+{
+  "tipo": "geracao",
+  "slug": "astra-2",
+  "canonicalPath": "/geracao/chevrolet/astra-2/",
+  "titulo": "Geracao astra-2",
+  "descricao": "124 veiculos da geracao astra-2.",
+  "seo": {
+    "title": "Geracao astra-2 - Precos FIPE",
+    "description": "Veiculos da geracao astra-2 na Tabela FIPE.",
+    "h1": "Geracao astra-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/chevrolet/astra-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "chevrolet-astra-2-0-8v-cd-2-0-8v-hatchback-5p-aut-2003-gasolina",
+      "fipeCodigo": "004232-3",
+      "displayName": "GM - Chevrolet Astra 2.0 8V/ CD 2.0 8V Hatchback 5p Aut",
+      "valorAtual": 23868,
+      "canonicalPath": "/fipe/chevrolet/astra-2-0-8v-cd-2-0-8v-hatchback-5p-aut-2003-004232-3/",
+      "ano": 2003,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-astra-2-0-8v-cd-2-0-8v-hatchback-5p-aut-2004-gasolina",
+      "fipeCodigo": "004232-3",
+      "displayName": "GM - Chevrolet Astra 2.0 8V/ CD 2.0 8V Hatchback 5p Aut",
+      "valorAtual": 24756,
+      "canonicalPath": "/fipe/chevrolet/astra-2-0-8v-cd-2-0-8v-hatchback-5p-aut-2004-004232-3/",
+      "ano": 2004,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-astra-2-0-8v-cd-2-0-8v-hatchback-5p-mec-2003-gasolina",
+      "fipeCodigo": "004231-5",
+      "displayName": "GM - Chevrolet Astra 2.0 8V/ CD 2.0 8V Hatchback 5p Mec",
+      "valorAtual": 23121,
+      "canonicalPath": "/fipe/chevrolet/astra-2-0-8v-cd-2-0-8v-hatchback-5p-mec-2003-004231-5/",
+      "ano": 2003,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-astra-2-0-8v-cd-2-0-8v-hatchback-5p-mec-2004-gasolina",
+      "fipeCodigo": "004231-5",
+      "displayName": "GM - Chevrolet Astra 2.0 8V/ CD 2.0 8V Hatchback 5p Mec",
+      "valorAtual": 24123,
+      "canonicalPath": "/fipe/chevrolet/astra-2-0-8v-cd-2-0-8v-hatchback-5p-mec-2004-004231-5/",
+      "ano": 2004,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-astra-2-0-cd-2-0-8v-3p-aut-2002-gasolina",
+      "fipeCodigo": "004223-4",
+      "displayName": "GM - Chevrolet Astra 2.0/ CD 2.0 8V 3p Aut.",
+      "valorAtual": 18207,
+      "canonicalPath": "/fipe/chevrolet/astra-2-0-cd-2-0-8v-3p-aut-2002-004223-4/",
+      "ano": 2002,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-astra-2-0-cd-2-0-8v-3p-aut-2003-gasolina",
+      "fipeCodigo": "004223-4",
+      "displayName": "GM - Chevrolet Astra 2.0/ CD 2.0 8V 3p Aut.",
+      "valorAtual": 22946,
+      "canonicalPath": "/fipe/chevrolet/astra-2-0-cd-2-0-8v-3p-aut-2003-004223-4/",
+      "ano": 2003,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-astra-2-0-cd-2-0-8v-3p-aut-2004-gasolina",
+      "fipeCodigo": "004223-4",
+      "displayName": "GM - Chevrolet Astra 2.0/ CD 2.0 8V 3p Aut.",
+      "valorAtual": 24045,
+      "canonicalPath": "/fipe/chevrolet/astra-2-0-cd-2-0-8v-3p-aut-2004-004223-4/",
+      "ano": 2004,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-astra-2-0-cd-gls-2-0-mpfi-16v-3p-1999-gasolina",
+      "fipeCodigo": "004169-6",
+      "displayName": "GM - Chevrolet Astra 2.0/ CD/ GLS 2.0 MPFI 16V 3p",
+      "valorAtual": 16686,
+      "canonicalPath": "/fipe/chevrolet/astra-2-0-cd-gls-2-0-mpfi-16v-3p-1999-004169-6/",
+      "ano": 1999,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-astra-2-0-cd-gls-2-0-mpfi-16v-3p-2000-gasolina",
+      "fipeCodigo": "004169-6",
+      "displayName": "GM - Chevrolet Astra 2.0/ CD/ GLS 2.0 MPFI 16V 3p",
+      "valorAtual": 17178,
+      "canonicalPath": "/fipe/chevrolet/astra-2-0-cd-gls-2-0-mpfi-16v-3p-2000-004169-6/",
+      "ano": 2000,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-astra-2-0-cd-gls-2-0-mpfi-16v-3p-2001-gasolina",
+      "fipeCodigo": "004169-6",
+      "displayName": "GM - Chevrolet Astra 2.0/ CD/ GLS 2.0 MPFI 16V 3p",
+      "valorAtual": 19630,
+      "canonicalPath": "/fipe/chevrolet/astra-2-0-cd-gls-2-0-mpfi-16v-3p-2001-004169-6/",
+      "ano": 2001,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-astra-2-0-cd-gls-2-0-mpfi-16v-3p-2002-gasolina",
+      "fipeCodigo": "004169-6",
+      "displayName": "GM - Chevrolet Astra 2.0/ CD/ GLS 2.0 MPFI 16V 3p",
+      "valorAtual": 20160,
+      "canonicalPath": "/fipe/chevrolet/astra-2-0-cd-gls-2-0-mpfi-16v-3p-2002-004169-6/",
+      "ano": 2002,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-astra-2-0-cd-sunny-gls-2-0-8v-3p-1999-gasolina",
+      "fipeCodigo": "004082-7",
+      "displayName": "GM - Chevrolet Astra 2.0/ CD/ Sunny/ GLS 2.0 8V 3p",
+      "valorAtual": 15589,
+      "canonicalPath": "/fipe/chevrolet/astra-2-0-cd-sunny-gls-2-0-8v-3p-1999-004082-7/",
+      "ano": 1999,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-astra-2-0-cd-sunny-gls-2-0-8v-3p-2000-gasolina",
+      "fipeCodigo": "004082-7",
+      "displayName": "GM - Chevrolet Astra 2.0/ CD/ Sunny/ GLS 2.0 8V 3p",
+      "valorAtual": 17108,
+      "canonicalPath": "/fipe/chevrolet/astra-2-0-cd-sunny-gls-2-0-8v-3p-2000-004082-7/",
+      "ano": 2000,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-astra-2-0-cd-sunny-gls-2-0-8v-3p-2001-gasolina",
+      "fipeCodigo": "004082-7",
+      "displayName": "GM - Chevrolet Astra 2.0/ CD/ Sunny/ GLS 2.0 8V 3p",
+      "valorAtual": 17693,
+      "canonicalPath": "/fipe/chevrolet/astra-2-0-cd-sunny-gls-2-0-8v-3p-2001-004082-7/",
+      "ano": 2001,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-astra-2-0-cd-sunny-gls-2-0-8v-3p-2002-gasolina",
+      "fipeCodigo": "004082-7",
+      "displayName": "GM - Chevrolet Astra 2.0/ CD/ Sunny/ GLS 2.0 8V 3p",
+      "valorAtual": 18136,
+      "canonicalPath": "/fipe/chevrolet/astra-2-0-cd-sunny-gls-2-0-8v-3p-2002-004082-7/",
+      "ano": 2002,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-astra-2-0-cd-sunny-gls-2-0-8v-3p-2003-gasolina",
+      "fipeCodigo": "004082-7",
+      "displayName": "GM - Chevrolet Astra 2.0/ CD/ Sunny/ GLS 2.0 8V 3p",
+      "valorAtual": 20373,
+      "canonicalPath": "/fipe/chevrolet/astra-2-0-cd-sunny-gls-2-0-8v-3p-2003-004082-7/",
+      "ano": 2003,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-astra-2-0-cd-sunny-gls-2-0-8v-3p-2004-gasolina",
+      "fipeCodigo": "004082-7",
+      "displayName": "GM - Chevrolet Astra 2.0/ CD/ Sunny/ GLS 2.0 8V 3p",
+      "valorAtual": 21655,
+      "canonicalPath": "/fipe/chevrolet/astra-2-0-cd-sunny-gls-2-0-8v-3p-2004-004082-7/",
+      "ano": 2004,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-astra-500-sedan-2-0-mpfi-16v-4p-2000-gasolina",
+      "fipeCodigo": "004194-7",
+      "displayName": "GM - Chevrolet Astra 500 Sedan 2.0 MPFI 16V 4p",
+      "valorAtual": 15168,
+      "canonicalPath": "/fipe/chevrolet/astra-500-sedan-2-0-mpfi-16v-4p-2000-004194-7/",
+      "ano": 2000,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-astra-advant-2-0-mpfi-8v-flexp-5p-aut-2007-flex",
+      "fipeCodigo": "004330-3",
+      "displayName": "GM - Chevrolet Astra Advant. 2.0 MPFI 8V FlexP. 5p Aut.",
+      "valorAtual": 29789,
+      "canonicalPath": "/fipe/chevrolet/astra-advant-2-0-mpfi-8v-flexp-5p-aut-2007-004330-3/",
+      "ano": 2007,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-astra-advant-2-0-mpfi-8v-flexp-5p-aut-2008-flex",
+      "fipeCodigo": "004330-3",
+      "displayName": "GM - Chevrolet Astra Advant. 2.0 MPFI 8V FlexP. 5p Aut.",
+      "valorAtual": 32124,
+      "canonicalPath": "/fipe/chevrolet/astra-advant-2-0-mpfi-8v-flexp-5p-aut-2008-004330-3/",
+      "ano": 2008,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-astra-advant-2-0-mpfi-8v-flexp-5p-aut-2009-flex",
+      "fipeCodigo": "004330-3",
+      "displayName": "GM - Chevrolet Astra Advant. 2.0 MPFI 8V FlexP. 5p Aut.",
+      "valorAtual": 34740,
+      "canonicalPath": "/fipe/chevrolet/astra-advant-2-0-mpfi-8v-flexp-5p-aut-2009-004330-3/",
+      "ano": 2009,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-astra-advant-2-0-mpfi-8v-flexp-5p-aut-2010-flex",
+      "fipeCodigo": "004330-3",
+      "displayName": "GM - Chevrolet Astra Advant. 2.0 MPFI 8V FlexP. 5p Aut.",
+      "valorAtual": 37582,
+      "canonicalPath": "/fipe/chevrolet/astra-advant-2-0-mpfi-8v-flexp-5p-aut-2010-004330-3/",
+      "ano": 2010,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-astra-advant-2-0-mpfi-8v-flexp-5p-aut-2011-flex",
+      "fipeCodigo": "004330-3",
+      "displayName": "GM - Chevrolet Astra Advant. 2.0 MPFI 8V FlexP. 5p Aut.",
+      "valorAtual": 42515,
+      "canonicalPath": "/fipe/chevrolet/astra-advant-2-0-mpfi-8v-flexp-5p-aut-2011-004330-3/",
+      "ano": 2011,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-astra-advantage-2-0-mpfi-8v-flexpower-5p-2007-flex",
+      "fipeCodigo": "004328-1",
+      "displayName": "GM - Chevrolet Astra Advantage 2.0 MPFI 8V FlexPower 5p",
+      "valorAtual": 29110,
+      "canonicalPath": "/fipe/chevrolet/astra-advantage-2-0-mpfi-8v-flexpower-5p-2007-004328-1/",
+      "ano": 2007,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-astra-advantage-2-0-mpfi-8v-flexpower-5p-2008-flex",
+      "fipeCodigo": "004328-1",
+      "displayName": "GM - Chevrolet Astra Advantage 2.0 MPFI 8V FlexPower 5p",
+      "valorAtual": 31734,
+      "canonicalPath": "/fipe/chevrolet/astra-advantage-2-0-mpfi-8v-flexpower-5p-2008-004328-1/",
+      "ano": 2008,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-astra-advantage-2-0-mpfi-8v-flexpower-5p-2009-flex",
+      "fipeCodigo": "004328-1",
+      "displayName": "GM - Chevrolet Astra Advantage 2.0 MPFI 8V FlexPower 5p",
+      "valorAtual": 33403,
+      "canonicalPath": "/fipe/chevrolet/astra-advantage-2-0-mpfi-8v-flexpower-5p-2009-004328-1/",
+      "ano": 2009,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-astra-advantage-2-0-mpfi-8v-flexpower-5p-2010-flex",
+      "fipeCodigo": "004328-1",
+      "displayName": "GM - Chevrolet Astra Advantage 2.0 MPFI 8V FlexPower 5p",
+      "valorAtual": 37532,
+      "canonicalPath": "/fipe/chevrolet/astra-advantage-2-0-mpfi-8v-flexpower-5p-2010-004328-1/",
+      "ano": 2010,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-astra-advantage-2-0-mpfi-8v-flexpower-5p-2011-flex",
+      "fipeCodigo": "004328-1",
+      "displayName": "GM - Chevrolet Astra Advantage 2.0 MPFI 8V FlexPower 5p",
+      "valorAtual": 40555,
+      "canonicalPath": "/fipe/chevrolet/astra-advantage-2-0-mpfi-8v-flexpower-5p-2011-004328-1/",
+      "ano": 2011,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-astra-advantage-2-0-mpfi-flexpower-8v-3p-2005-flex",
+      "fipeCodigo": "004312-5",
+      "displayName": "GM - Chevrolet Astra Advantage 2.0 MPFI FlexPower 8V 3p",
+      "valorAtual": 20903,
+      "canonicalPath": "/fipe/chevrolet/astra-advantage-2-0-mpfi-flexpower-8v-3p-2005-004312-5/",
+      "ano": 2005,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-astra-advantage-2-0-mpfi-flexpower-8v-3p-2006-flex",
+      "fipeCodigo": "004312-5",
+      "displayName": "GM - Chevrolet Astra Advantage 2.0 MPFI FlexPower 8V 3p",
+      "valorAtual": 24960,
+      "canonicalPath": "/fipe/chevrolet/astra-advantage-2-0-mpfi-flexpower-8v-3p-2006-004312-5/",
+      "ano": 2006,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-astra-advantage-2-0-mpfi-flexpower-8v-3p-2007-flex",
+      "fipeCodigo": "004312-5",
+      "displayName": "GM - Chevrolet Astra Advantage 2.0 MPFI FlexPower 8V 3p",
+      "valorAtual": 31032,
+      "canonicalPath": "/fipe/chevrolet/astra-advantage-2-0-mpfi-flexpower-8v-3p-2007-004312-5/",
+      "ano": 2007,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-astra-comfort-2-0-mpfi-flexpower-8v-3p-2005-flex",
+      "fipeCodigo": "004252-8",
+      "displayName": "GM - Chevrolet Astra Comfort 2.0 MPFI FlexPower 8V 3p",
+      "valorAtual": 25602,
+      "canonicalPath": "/fipe/chevrolet/astra-comfort-2-0-mpfi-flexpower-8v-3p-2005-004252-8/",
+      "ano": 2005,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-astra-comfort-2-0-mpfi-flexpower-8v-5p-2005-flex",
+      "fipeCodigo": "004254-4",
+      "displayName": "GM - Chevrolet Astra Comfort 2.0 MPFI FlexPower 8V 5p",
+      "valorAtual": 21823,
+      "canonicalPath": "/fipe/chevrolet/astra-comfort-2-0-mpfi-flexpower-8v-5p-2005-004254-4/",
+      "ano": 2005,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-astra-comfort-2-0-mpfi-flexpower-8v-5p-2006-flex",
+      "fipeCodigo": "004254-4",
+      "displayName": "GM - Chevrolet Astra Comfort 2.0 MPFI FlexPower 8V 5p",
+      "valorAtual": 22839,
+      "canonicalPath": "/fipe/chevrolet/astra-comfort-2-0-mpfi-flexpower-8v-5p-2006-004254-4/",
+      "ano": 2006,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-astra-comfort-2-0-mpfi-flexpower-8v-5p-2007-flex",
+      "fipeCodigo": "004254-4",
+      "displayName": "GM - Chevrolet Astra Comfort 2.0 MPFI FlexPower 8V 5p",
+      "valorAtual": 28540,
+      "canonicalPath": "/fipe/chevrolet/astra-comfort-2-0-mpfi-flexpower-8v-5p-2007-004254-4/",
+      "ano": 2007,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-astra-eleg-2-0-mpfi-flexpower-8v-5p-aut-2005-flex",
+      "fipeCodigo": "004256-0",
+      "displayName": "GM - Chevrolet Astra Eleg. 2.0 MPFI FlexPower 8V 5p Aut",
+      "valorAtual": 22003,
+      "canonicalPath": "/fipe/chevrolet/astra-eleg-2-0-mpfi-flexpower-8v-5p-aut-2005-004256-0/",
+      "ano": 2005,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-astra-eleg-2-0-mpfi-flexpower-8v-5p-aut-2006-flex",
+      "fipeCodigo": "004256-0",
+      "displayName": "GM - Chevrolet Astra Eleg. 2.0 MPFI FlexPower 8V 5p Aut",
+      "valorAtual": 28226,
+      "canonicalPath": "/fipe/chevrolet/astra-eleg-2-0-mpfi-flexpower-8v-5p-aut-2006-004256-0/",
+      "ano": 2006,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-astra-eleg-2-0-mpfi-flexpower-8v-5p-aut-2007-flex",
+      "fipeCodigo": "004256-0",
+      "displayName": "GM - Chevrolet Astra Eleg. 2.0 MPFI FlexPower 8V 5p Aut",
+      "valorAtual": 28932,
+      "canonicalPath": "/fipe/chevrolet/astra-eleg-2-0-mpfi-flexpower-8v-5p-aut-2007-004256-0/",
+      "ano": 2007,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-astra-eleg-2-0-mpfi-flexpower-8v-5p-aut-2008-flex",
+      "fipeCodigo": "004256-0",
+      "displayName": "GM - Chevrolet Astra Eleg. 2.0 MPFI FlexPower 8V 5p Aut",
+      "valorAtual": 29656,
+      "canonicalPath": "/fipe/chevrolet/astra-eleg-2-0-mpfi-flexpower-8v-5p-aut-2008-004256-0/",
+      "ano": 2008,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-astra-eleg-2-0-mpfi-flexpower-8v-5p-aut-2009-flex",
+      "fipeCodigo": "004256-0",
+      "displayName": "GM - Chevrolet Astra Eleg. 2.0 MPFI FlexPower 8V 5p Aut",
+      "valorAtual": 33885,
+      "canonicalPath": "/fipe/chevrolet/astra-eleg-2-0-mpfi-flexpower-8v-5p-aut-2009-004256-0/",
+      "ano": 2009,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-astra-elegance-2-0-mpfi-flexpower-8v-3p-2005-flex",
+      "fipeCodigo": "004253-6",
+      "displayName": "GM - Chevrolet Astra Elegance 2.0 MPFI FlexPower 8V 3p",
+      "valorAtual": 21837,
+      "canonicalPath": "/fipe/chevrolet/astra-elegance-2-0-mpfi-flexpower-8v-3p-2005-004253-6/",
+      "ano": 2005,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-astra-elegance-2-0-mpfi-flexpower-8v-3p-2006-flex",
+      "fipeCodigo": "004253-6",
+      "displayName": "GM - Chevrolet Astra Elegance 2.0 MPFI FlexPower 8V 3p",
+      "valorAtual": 23651,
+      "canonicalPath": "/fipe/chevrolet/astra-elegance-2-0-mpfi-flexpower-8v-3p-2006-004253-6/",
+      "ano": 2006,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-astra-elegance-2-0-mpfi-flexpower-8v-5p-2004-flex",
+      "fipeCodigo": "004255-2",
+      "displayName": "GM - Chevrolet Astra Elegance 2.0 MPFI FlexPower 8V 5p",
+      "valorAtual": 18498,
+      "canonicalPath": "/fipe/chevrolet/astra-elegance-2-0-mpfi-flexpower-8v-5p-2004-004255-2/",
+      "ano": 2004,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-astra-elegance-2-0-mpfi-flexpower-8v-5p-2005-flex",
+      "fipeCodigo": "004255-2",
+      "displayName": "GM - Chevrolet Astra Elegance 2.0 MPFI FlexPower 8V 5p",
+      "valorAtual": 21807,
+      "canonicalPath": "/fipe/chevrolet/astra-elegance-2-0-mpfi-flexpower-8v-5p-2005-004255-2/",
+      "ano": 2005,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-astra-elegance-2-0-mpfi-flexpower-8v-5p-2006-flex",
+      "fipeCodigo": "004255-2",
+      "displayName": "GM - Chevrolet Astra Elegance 2.0 MPFI FlexPower 8V 5p",
+      "valorAtual": 27237,
+      "canonicalPath": "/fipe/chevrolet/astra-elegance-2-0-mpfi-flexpower-8v-5p-2006-004255-2/",
+      "ano": 2006,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-astra-elegance-2-0-mpfi-flexpower-8v-5p-2007-flex",
+      "fipeCodigo": "004255-2",
+      "displayName": "GM - Chevrolet Astra Elegance 2.0 MPFI FlexPower 8V 5p",
+      "valorAtual": 27989,
+      "canonicalPath": "/fipe/chevrolet/astra-elegance-2-0-mpfi-flexpower-8v-5p-2007-004255-2/",
+      "ano": 2007,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-astra-elegance-2-0-mpfi-flexpower-8v-5p-2008-flex",
+      "fipeCodigo": "004255-2",
+      "displayName": "GM - Chevrolet Astra Elegance 2.0 MPFI FlexPower 8V 5p",
+      "valorAtual": 28689,
+      "canonicalPath": "/fipe/chevrolet/astra-elegance-2-0-mpfi-flexpower-8v-5p-2008-004255-2/",
+      "ano": 2008,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-astra-elegance-2-0-mpfi-flexpower-8v-5p-2009-flex",
+      "fipeCodigo": "004255-2",
+      "displayName": "GM - Chevrolet Astra Elegance 2.0 MPFI FlexPower 8V 5p",
+      "valorAtual": 31363,
+      "canonicalPath": "/fipe/chevrolet/astra-elegance-2-0-mpfi-flexpower-8v-5p-2009-004255-2/",
+      "ano": 2009,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-astra-elite-2-0-mpfi-flex-pow-8v-5p-aut-2005-flex",
+      "fipeCodigo": "004310-9",
+      "displayName": "GM - Chevrolet Astra Elite 2.0 MPFI Flex Pow. 8V 5p Aut",
+      "valorAtual": 32471,
+      "canonicalPath": "/fipe/chevrolet/astra-elite-2-0-mpfi-flex-pow-8v-5p-aut-2005-004310-9/",
+      "ano": 2005,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-astra-elite-2-0-mpfi-flex-pow-8v-5p-aut-2006-flex",
+      "fipeCodigo": "004310-9",
+      "displayName": "GM - Chevrolet Astra Elite 2.0 MPFI Flex Pow. 8V 5p Aut",
+      "valorAtual": 33283,
+      "canonicalPath": "/fipe/chevrolet/astra-elite-2-0-mpfi-flex-pow-8v-5p-aut-2006-004310-9/",
+      "ano": 2006,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-astra-elite-2-0-mpfi-flex-pow-8v-5p-aut-2007-flex",
+      "fipeCodigo": "004310-9",
+      "displayName": "GM - Chevrolet Astra Elite 2.0 MPFI Flex Pow. 8V 5p Aut",
+      "valorAtual": 34116,
+      "canonicalPath": "/fipe/chevrolet/astra-elite-2-0-mpfi-flex-pow-8v-5p-aut-2007-004310-9/",
+      "ano": 2007,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-astra-elite-2-0-mpfi-flexpower-8v-5p-mec-2005-flex",
+      "fipeCodigo": "004257-9",
+      "displayName": "GM - Chevrolet Astra Elite 2.0 MPFI FlexPower 8V 5p Mec",
+      "valorAtual": 25781,
+      "canonicalPath": "/fipe/chevrolet/astra-elite-2-0-mpfi-flexpower-8v-5p-mec-2005-004257-9/",
+      "ano": 2005,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-astra-elite-2-0-mpfi-flexpower-8v-5p-mec-2006-flex",
+      "fipeCodigo": "004257-9",
+      "displayName": "GM - Chevrolet Astra Elite 2.0 MPFI FlexPower 8V 5p Mec",
+      "valorAtual": 29299,
+      "canonicalPath": "/fipe/chevrolet/astra-elite-2-0-mpfi-flexpower-8v-5p-mec-2006-004257-9/",
+      "ano": 2006,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-astra-elite-2-0-mpfi-flexpower-8v-5p-mec-2007-flex",
+      "fipeCodigo": "004257-9",
+      "displayName": "GM - Chevrolet Astra Elite 2.0 MPFI FlexPower 8V 5p Mec",
+      "valorAtual": 32603,
+      "canonicalPath": "/fipe/chevrolet/astra-elite-2-0-mpfi-flexpower-8v-5p-mec-2007-004257-9/",
+      "ano": 2007,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-astra-gl-1-8-mpfi-3p-1999-gasolina",
+      "fipeCodigo": "004081-9",
+      "displayName": "GM - Chevrolet Astra GL 1.8 MPFI 3p",
+      "valorAtual": 14485,
+      "canonicalPath": "/fipe/chevrolet/astra-gl-1-8-mpfi-3p-1999-004081-9/",
+      "ano": 1999,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-astra-gl-1-8-mpfi-3p-2000-gasolina",
+      "fipeCodigo": "004081-9",
+      "displayName": "GM - Chevrolet Astra GL 1.8 MPFI 3p",
+      "valorAtual": 15656,
+      "canonicalPath": "/fipe/chevrolet/astra-gl-1-8-mpfi-3p-2000-004081-9/",
+      "ano": 2000,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-astra-gl-1-8-mpfi-3p-2001-gasolina",
+      "fipeCodigo": "004081-9",
+      "displayName": "GM - Chevrolet Astra GL 1.8 MPFI 3p",
+      "valorAtual": 18404,
+      "canonicalPath": "/fipe/chevrolet/astra-gl-1-8-mpfi-3p-2001-004081-9/",
+      "ano": 2001,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-astra-gl-milenium-1-8-mpfi-4p-2000-gasolina",
+      "fipeCodigo": "004120-3",
+      "displayName": "GM - Chevrolet Astra GL Milenium 1.8 MPFI 4p",
+      "valorAtual": 15659,
+      "canonicalPath": "/fipe/chevrolet/astra-gl-milenium-1-8-mpfi-4p-2000-004120-3/",
+      "ano": 2000,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-astra-gl-milenium-1-8-mpfi-4p-2001-gasolina",
+      "fipeCodigo": "004120-3",
+      "displayName": "GM - Chevrolet Astra GL Milenium 1.8 MPFI 4p",
+      "valorAtual": 19981,
+      "canonicalPath": "/fipe/chevrolet/astra-gl-milenium-1-8-mpfi-4p-2001-004120-3/",
+      "ano": 2001,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-astra-gsi-2-0-16v-136cv-hatchback-5p-2003-gasolina",
+      "fipeCodigo": "004230-7",
+      "displayName": "GM - Chevrolet Astra GSi 2.0 16V 136cv Hatchback 5p",
+      "valorAtual": 29056,
+      "canonicalPath": "/fipe/chevrolet/astra-gsi-2-0-16v-136cv-hatchback-5p-2003-004230-7/",
+      "ano": 2003,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-astra-gsi-2-0-16v-136cv-hatchback-5p-2004-gasolina",
+      "fipeCodigo": "004230-7",
+      "displayName": "GM - Chevrolet Astra GSi 2.0 16V 136cv Hatchback 5p",
+      "valorAtual": 29783,
+      "canonicalPath": "/fipe/chevrolet/astra-gsi-2-0-16v-136cv-hatchback-5p-2004-004230-7/",
+      "ano": 2004,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-astra-gsi-2-0-16v-136cv-hatchback-5p-2005-gasolina",
+      "fipeCodigo": "004230-7",
+      "displayName": "GM - Chevrolet Astra GSi 2.0 16V 136cv Hatchback 5p",
+      "valorAtual": 32939,
+      "canonicalPath": "/fipe/chevrolet/astra-gsi-2-0-16v-136cv-hatchback-5p-2005-004230-7/",
+      "ano": 2005,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-astra-s-sport-2-0-f-pow-5p-sport-2-0-3p-2000-gasolina",
+      "fipeCodigo": "004195-5",
+      "displayName": "GM - Chevrolet Astra S.Sport 2.0 F.Pow. 5p/Sport 2.0 3p",
+      "valorAtual": 16734,
+      "canonicalPath": "/fipe/chevrolet/astra-s-sport-2-0-f-pow-5p-sport-2-0-3p-2000-004195-5/",
+      "ano": 2000,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-astra-s-sport-2-0-f-pow-5p-sport-2-0-3p-2001-gasolina",
+      "fipeCodigo": "004195-5",
+      "displayName": "GM - Chevrolet Astra S.Sport 2.0 F.Pow. 5p/Sport 2.0 3p",
+      "valorAtual": 21098,
+      "canonicalPath": "/fipe/chevrolet/astra-s-sport-2-0-f-pow-5p-sport-2-0-3p-2001-004195-5/",
+      "ano": 2001,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-astra-s-sport-2-0-f-pow-5p-sport-2-0-3p-2002-gasolina",
+      "fipeCodigo": "004195-5",
+      "displayName": "GM - Chevrolet Astra S.Sport 2.0 F.Pow. 5p/Sport 2.0 3p",
+      "valorAtual": 21626,
+      "canonicalPath": "/fipe/chevrolet/astra-s-sport-2-0-f-pow-5p-sport-2-0-3p-2002-004195-5/",
+      "ano": 2002,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-astra-s-sport-2-0-f-pow-5p-sport-2-0-3p-2006-gasolina",
+      "fipeCodigo": "004195-5",
+      "displayName": "GM - Chevrolet Astra S.Sport 2.0 F.Pow. 5p/Sport 2.0 3p",
+      "valorAtual": 36637,
+      "canonicalPath": "/fipe/chevrolet/astra-s-sport-2-0-f-pow-5p-sport-2-0-3p-2006-004195-5/",
+      "ano": 2006,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-astra-s-sport-2-0-f-pow-5p-sport-2-0-3p-2007-gasolina",
+      "fipeCodigo": "004195-5",
+      "displayName": "GM - Chevrolet Astra S.Sport 2.0 F.Pow. 5p/Sport 2.0 3p",
+      "valorAtual": 44282,
+      "canonicalPath": "/fipe/chevrolet/astra-s-sport-2-0-f-pow-5p-sport-2-0-3p-2007-004195-5/",
+      "ano": 2007,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-astra-s-sport-2-0-f-pow-5p-sport-2-0-3p-2008-gasolina",
+      "fipeCodigo": "004195-5",
+      "displayName": "GM - Chevrolet Astra S.Sport 2.0 F.Pow. 5p/Sport 2.0 3p",
+      "valorAtual": 48116,
+      "canonicalPath": "/fipe/chevrolet/astra-s-sport-2-0-f-pow-5p-sport-2-0-3p-2008-004195-5/",
+      "ano": 2008,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-astra-sed-advant-2-0-8v-mpfi-flexp-4p-2007-flex",
+      "fipeCodigo": "004329-0",
+      "displayName": "GM - Chevrolet Astra Sed. Advant. 2.0 8V MPFI FlexP. 4p",
+      "valorAtual": 26786,
+      "canonicalPath": "/fipe/chevrolet/astra-sed-advant-2-0-8v-mpfi-flexp-4p-2007-004329-0/",
+      "ano": 2007,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-astra-sed-advant-2-0-8v-mpfi-flexp-4p-2008-flex",
+      "fipeCodigo": "004329-0",
+      "displayName": "GM - Chevrolet Astra Sed. Advant. 2.0 8V MPFI FlexP. 4p",
+      "valorAtual": 30030,
+      "canonicalPath": "/fipe/chevrolet/astra-sed-advant-2-0-8v-mpfi-flexp-4p-2008-004329-0/",
+      "ano": 2008,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-astra-sed-advant-2-0-8v-mpfi-flexp-4p-2009-flex",
+      "fipeCodigo": "004329-0",
+      "displayName": "GM - Chevrolet Astra Sed. Advant. 2.0 8V MPFI FlexP. 4p",
+      "valorAtual": 31790,
+      "canonicalPath": "/fipe/chevrolet/astra-sed-advant-2-0-8v-mpfi-flexp-4p-2009-004329-0/",
+      "ano": 2009,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-astra-sed-advant-2-0-8v-mpfi-flexp-4p-2010-flex",
+      "fipeCodigo": "004329-0",
+      "displayName": "GM - Chevrolet Astra Sed. Advant. 2.0 8V MPFI FlexP. 4p",
+      "valorAtual": 35211,
+      "canonicalPath": "/fipe/chevrolet/astra-sed-advant-2-0-8v-mpfi-flexp-4p-2010-004329-0/",
+      "ano": 2010,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-astra-sed-advant-2-0-8v-mpfi-flexp-4p-2011-flex",
+      "fipeCodigo": "004329-0",
+      "displayName": "GM - Chevrolet Astra Sed. Advant. 2.0 8V MPFI FlexP. 4p",
+      "valorAtual": 37848,
+      "canonicalPath": "/fipe/chevrolet/astra-sed-advant-2-0-8v-mpfi-flexp-4p-2011-004329-0/",
+      "ano": 2011,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-astra-sed-advan-2-0-8v-mpfi-flexp-aut-2007-flex",
+      "fipeCodigo": "004331-1",
+      "displayName": "GM - Chevrolet Astra Sed.Advan. 2.0 8V MPFI FlexP. Aut.",
+      "valorAtual": 29920,
+      "canonicalPath": "/fipe/chevrolet/astra-sed-advan-2-0-8v-mpfi-flexp-aut-2007-004331-1/",
+      "ano": 2007,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-astra-sed-advan-2-0-8v-mpfi-flexp-aut-2008-flex",
+      "fipeCodigo": "004331-1",
+      "displayName": "GM - Chevrolet Astra Sed.Advan. 2.0 8V MPFI FlexP. Aut.",
+      "valorAtual": 31560,
+      "canonicalPath": "/fipe/chevrolet/astra-sed-advan-2-0-8v-mpfi-flexp-aut-2008-004331-1/",
+      "ano": 2008,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-astra-sed-advan-2-0-8v-mpfi-flexp-aut-2009-flex",
+      "fipeCodigo": "004331-1",
+      "displayName": "GM - Chevrolet Astra Sed.Advan. 2.0 8V MPFI FlexP. Aut.",
+      "valorAtual": 32349,
+      "canonicalPath": "/fipe/chevrolet/astra-sed-advan-2-0-8v-mpfi-flexp-aut-2009-004331-1/",
+      "ano": 2009,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-astra-sed-advan-2-0-8v-mpfi-flexp-aut-2010-flex",
+      "fipeCodigo": "004331-1",
+      "displayName": "GM - Chevrolet Astra Sed.Advan. 2.0 8V MPFI FlexP. Aut.",
+      "valorAtual": 37223,
+      "canonicalPath": "/fipe/chevrolet/astra-sed-advan-2-0-8v-mpfi-flexp-aut-2010-004331-1/",
+      "ano": 2010,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-astra-sed-advan-2-0-8v-mpfi-flexp-aut-2011-flex",
+      "fipeCodigo": "004331-1",
+      "displayName": "GM - Chevrolet Astra Sed.Advan. 2.0 8V MPFI FlexP. Aut.",
+      "valorAtual": 38154,
+      "canonicalPath": "/fipe/chevrolet/astra-sed-advan-2-0-8v-mpfi-flexp-aut-2011-004331-1/",
+      "ano": 2011,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-astra-sed-comf-2-0-mpfi-flexpower-8v-4p-2005-flex",
+      "fipeCodigo": "004258-7",
+      "displayName": "GM - Chevrolet Astra Sed.Comf. 2.0 MPFI FlexPower 8V 4p",
+      "valorAtual": 22830,
+      "canonicalPath": "/fipe/chevrolet/astra-sed-comf-2-0-mpfi-flexpower-8v-4p-2005-004258-7/",
+      "ano": 2005,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-astra-sed-comf-2-0-mpfi-flexpower-8v-4p-2006-flex",
+      "fipeCodigo": "004258-7",
+      "displayName": "GM - Chevrolet Astra Sed.Comf. 2.0 MPFI FlexPower 8V 4p",
+      "valorAtual": 23689,
+      "canonicalPath": "/fipe/chevrolet/astra-sed-comf-2-0-mpfi-flexpower-8v-4p-2006-004258-7/",
+      "ano": 2006,
+      "marca": "GM - Chevrolet"
+    }
+  ],
+  "stats": {
+    "total": 124
+  },
+  "meta": {
+    "geracaoId": "astra-2"
+  }
+}

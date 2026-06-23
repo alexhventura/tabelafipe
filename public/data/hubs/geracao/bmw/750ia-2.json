@@ -1,0 +1,84 @@
+{
+  "tipo": "geracao",
+  "slug": "750ia-2",
+  "canonicalPath": "/geracao/bmw/750ia-2/",
+  "titulo": "Geracao 750ia-2",
+  "descricao": "7 veiculos da geracao 750ia-2.",
+  "seo": {
+    "title": "Geracao 750ia-2 - Precos FIPE",
+    "description": "Veiculos da geracao 750ia-2 na Tabela FIPE.",
+    "h1": "Geracao 750ia-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/bmw/750ia-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "bmw-750ia-2006-gasolina",
+      "fipeCodigo": "009028-0",
+      "displayName": "BMW 750iA",
+      "valorAtual": 125586,
+      "canonicalPath": "/fipe/bmw/750ia-2006-009028-0/",
+      "ano": 2006,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-750ia-2007-gasolina",
+      "fipeCodigo": "009028-0",
+      "displayName": "BMW 750iA",
+      "valorAtual": 128726,
+      "canonicalPath": "/fipe/bmw/750ia-2007-009028-0/",
+      "ano": 2007,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-750ia-2008-gasolina",
+      "fipeCodigo": "009028-0",
+      "displayName": "BMW 750iA",
+      "valorAtual": 131945,
+      "canonicalPath": "/fipe/bmw/750ia-2008-009028-0/",
+      "ano": 2008,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-750ia-2009-gasolina",
+      "fipeCodigo": "009028-0",
+      "displayName": "BMW 750iA",
+      "valorAtual": 139421,
+      "canonicalPath": "/fipe/bmw/750ia-2009-009028-0/",
+      "ano": 2009,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-750ia-2010-gasolina",
+      "fipeCodigo": "009028-0",
+      "displayName": "BMW 750iA",
+      "valorAtual": 143053,
+      "canonicalPath": "/fipe/bmw/750ia-2010-009028-0/",
+      "ano": 2010,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-750ia-2011-gasolina",
+      "fipeCodigo": "009028-0",
+      "displayName": "BMW 750iA",
+      "valorAtual": 146974,
+      "canonicalPath": "/fipe/bmw/750ia-2011-009028-0/",
+      "ano": 2011,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-750ia-2012-gasolina",
+      "fipeCodigo": "009028-0",
+      "displayName": "BMW 750iA",
+      "valorAtual": 180510,
+      "canonicalPath": "/fipe/bmw/750ia-2012-009028-0/",
+      "ano": 2012,
+      "marca": "BMW"
+    }
+  ],
+  "stats": {
+    "total": 7
+  },
+  "meta": {
+    "geracaoId": "750ia-2"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "tipo": "familia",
+  "slug": "ss",
+  "canonicalPath": "/fipe/ducati/ss/",
+  "titulo": "DUCATI ss - Tabela FIPE",
+  "descricao": "3 versoes e anos do DUCATI ss na Tabela FIPE.",
+  "seo": {
+    "title": "DUCATI ss - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes DUCATI ss. 3 veiculos indexados.",
+    "h1": "DUCATI ss - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/ducati/ss/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "ducati-ss-900cc-2001-gasolina",
+      "fipeCodigo": "808005-4",
+      "displayName": "DUCATI SS 900cc",
+      "valorAtual": 18533,
+      "canonicalPath": "/fipe/ducati/ss-900cc-2001-808005-4/",
+      "ano": 2001,
+      "marca": "DUCATI"
+    },
+    {
+      "vehicleId": "ducati-ss-900cc-2000-gasolina",
+      "fipeCodigo": "808005-4",
+      "displayName": "DUCATI SS 900cc",
+      "valorAtual": 16839,
+      "canonicalPath": "/fipe/ducati/ss-900cc-2000-808005-4/",
+      "ano": 2000,
+      "marca": "DUCATI"
+    },
+    {
+      "vehicleId": "ducati-ss-900cc-1999-gasolina",
+      "fipeCodigo": "808005-4",
+      "displayName": "DUCATI SS 900cc",
+      "valorAtual": 16428,
+      "canonicalPath": "/fipe/ducati/ss-900cc-1999-808005-4/",
+      "ano": 1999,
+      "marca": "DUCATI"
+    }
+  ],
+  "stats": {
+    "total": 3,
+    "precoMin": 16428,
+    "precoMax": 18533,
+    "anos": [
+      2001,
+      2000,
+      1999
+    ]
+  }
+}

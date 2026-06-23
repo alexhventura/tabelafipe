@@ -1,0 +1,52 @@
+{
+  "tipo": "familia",
+  "slug": "10",
+  "canonicalPath": "/fipe/foton/10/",
+  "titulo": "FOTON 10 - Tabela FIPE",
+  "descricao": "3 versoes e anos do FOTON 10 na Tabela FIPE.",
+  "seo": {
+    "title": "FOTON 10 - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes FOTON 10. 3 veiculos indexados.",
+    "h1": "FOTON 10 - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/foton/10/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "foton-10-16dt-3-8-4x2-diesel-e5-2015-diesel",
+      "fipeCodigo": "526003-5",
+      "displayName": "FOTON 10-16DT 3.8 4x2 Diesel(E5)",
+      "valorAtual": 69853,
+      "canonicalPath": "/fipe/foton/10-16dt-3-8-4x2-diesel-e5-2015-526003-5/",
+      "ano": 2015,
+      "marca": "FOTON"
+    },
+    {
+      "vehicleId": "foton-10-16dt-3-8-4x2-diesel-e5-2014-diesel",
+      "fipeCodigo": "526003-5",
+      "displayName": "FOTON 10-16DT 3.8 4x2 Diesel(E5)",
+      "valorAtual": 66744,
+      "canonicalPath": "/fipe/foton/10-16dt-3-8-4x2-diesel-e5-2014-526003-5/",
+      "ano": 2014,
+      "marca": "FOTON"
+    },
+    {
+      "vehicleId": "foton-10-16dt-3-8-4x2-diesel-e5-2013-diesel",
+      "fipeCodigo": "526003-5",
+      "displayName": "FOTON 10-16DT 3.8 4x2 Diesel(E5)",
+      "valorAtual": 56352,
+      "canonicalPath": "/fipe/foton/10-16dt-3-8-4x2-diesel-e5-2013-526003-5/",
+      "ano": 2013,
+      "marca": "FOTON"
+    }
+  ],
+  "stats": {
+    "total": 3,
+    "precoMin": 56352,
+    "precoMax": 69853,
+    "anos": [
+      2015,
+      2014,
+      2013
+    ]
+  }
+}

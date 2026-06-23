@@ -1,0 +1,75 @@
+{
+  "tipo": "geracao",
+  "slug": "750i-1",
+  "canonicalPath": "/geracao/bmw/750i-1/",
+  "titulo": "Geracao 750i-1",
+  "descricao": "6 veiculos da geracao 750i-1.",
+  "seo": {
+    "title": "Geracao 750i-1 - Precos FIPE",
+    "description": "Veiculos da geracao 750i-1 na Tabela FIPE.",
+    "h1": "Geracao 750i-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/bmw/750i-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "bmw-750i-1991-gasolina",
+      "fipeCodigo": "009012-3",
+      "displayName": "BMW 750i",
+      "valorAtual": 16576,
+      "canonicalPath": "/fipe/bmw/750i-1991-009012-3/",
+      "ano": 1991,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-750i-1992-gasolina",
+      "fipeCodigo": "009012-3",
+      "displayName": "BMW 750i",
+      "valorAtual": 19876,
+      "canonicalPath": "/fipe/bmw/750i-1992-009012-3/",
+      "ano": 1992,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-750i-1993-gasolina",
+      "fipeCodigo": "009012-3",
+      "displayName": "BMW 750i",
+      "valorAtual": 22444,
+      "canonicalPath": "/fipe/bmw/750i-1993-009012-3/",
+      "ano": 1993,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-750i-1994-gasolina",
+      "fipeCodigo": "009012-3",
+      "displayName": "BMW 750i",
+      "valorAtual": 23327,
+      "canonicalPath": "/fipe/bmw/750i-1994-009012-3/",
+      "ano": 1994,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-750i-1995-gasolina",
+      "fipeCodigo": "009012-3",
+      "displayName": "BMW 750i",
+      "valorAtual": 26844,
+      "canonicalPath": "/fipe/bmw/750i-1995-009012-3/",
+      "ano": 1995,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-750i-1996-gasolina",
+      "fipeCodigo": "009012-3",
+      "displayName": "BMW 750i",
+      "valorAtual": 27598,
+      "canonicalPath": "/fipe/bmw/750i-1996-009012-3/",
+      "ano": 1996,
+      "marca": "BMW"
+    }
+  ],
+  "stats": {
+    "total": 6
+  },
+  "meta": {
+    "geracaoId": "750i-1"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "wrangler-2",
+  "canonicalPath": "/geracao/jeep/wrangler-2/",
+  "titulo": "Geracao wrangler-2",
+  "descricao": "2 veiculos da geracao wrangler-2.",
+  "seo": {
+    "title": "Geracao wrangler-2 - Precos FIPE",
+    "description": "Veiculos da geracao wrangler-2 na Tabela FIPE.",
+    "h1": "Geracao wrangler-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/jeep/wrangler-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "jeep-wrangler-4-0-sport-4-0-1992-gasolina",
+      "fipeCodigo": "017003-8",
+      "displayName": "Jeep Wrangler 4.0/Sport 4.0",
+      "valorAtual": 20909,
+      "canonicalPath": "/fipe/jeep/wrangler-4-0-sport-4-0-1992-017003-8/",
+      "ano": 1992,
+      "marca": "Jeep"
+    },
+    {
+      "vehicleId": "jeep-wrangler-4-0-sport-4-0-1993-gasolina",
+      "fipeCodigo": "017003-8",
+      "displayName": "Jeep Wrangler 4.0/Sport 4.0",
+      "valorAtual": 26023,
+      "canonicalPath": "/fipe/jeep/wrangler-4-0-sport-4-0-1993-017003-8/",
+      "ano": 1993,
+      "marca": "Jeep"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "wrangler-2"
+  }
+}

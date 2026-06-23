@@ -1,0 +1,84 @@
+{
+  "tipo": "geracao",
+  "slug": "evasion-1",
+  "canonicalPath": "/geracao/citroen/evasion-1/",
+  "titulo": "Geracao evasion-1",
+  "descricao": "7 veiculos da geracao evasion-1.",
+  "seo": {
+    "title": "Geracao evasion-1 - Precos FIPE",
+    "description": "Veiculos da geracao evasion-1 na Tabela FIPE.",
+    "h1": "Geracao evasion-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/citroen/evasion-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "citroen-evasion-glx-2-0-16v-1998-gasolina",
+      "fipeCodigo": "011027-2",
+      "displayName": "Citroën Evasion  GLX 2.0 16V",
+      "valorAtual": 10878,
+      "canonicalPath": "/fipe/citroen/evasion-glx-2-0-16v-1998-011027-2/",
+      "ano": 1998,
+      "marca": "Citroën"
+    },
+    {
+      "vehicleId": "citroen-evasion-glx-2-0-16v-1999-gasolina",
+      "fipeCodigo": "011027-2",
+      "displayName": "Citroën Evasion  GLX 2.0 16V",
+      "valorAtual": 11774,
+      "canonicalPath": "/fipe/citroen/evasion-glx-2-0-16v-1999-011027-2/",
+      "ano": 1999,
+      "marca": "Citroën"
+    },
+    {
+      "vehicleId": "citroen-evasion-glx-2-0-16v-2000-gasolina",
+      "fipeCodigo": "011027-2",
+      "displayName": "Citroën Evasion  GLX 2.0 16V",
+      "valorAtual": 14258,
+      "canonicalPath": "/fipe/citroen/evasion-glx-2-0-16v-2000-011027-2/",
+      "ano": 2000,
+      "marca": "Citroën"
+    },
+    {
+      "vehicleId": "citroen-evasion-glx-2-0-16v-2001-gasolina",
+      "fipeCodigo": "011027-2",
+      "displayName": "Citroën Evasion  GLX 2.0 16V",
+      "valorAtual": 14615,
+      "canonicalPath": "/fipe/citroen/evasion-glx-2-0-16v-2001-011027-2/",
+      "ano": 2001,
+      "marca": "Citroën"
+    },
+    {
+      "vehicleId": "citroen-evasion-vsx-turbo-1995-gasolina",
+      "fipeCodigo": "011003-5",
+      "displayName": "Citroën Evasion VSX Turbo",
+      "valorAtual": 13621,
+      "canonicalPath": "/fipe/citroen/evasion-vsx-turbo-1995-011003-5/",
+      "ano": 1995,
+      "marca": "Citroën"
+    },
+    {
+      "vehicleId": "citroen-evasion-vsx-turbo-1996-gasolina",
+      "fipeCodigo": "011003-5",
+      "displayName": "Citroën Evasion VSX Turbo",
+      "valorAtual": 15817,
+      "canonicalPath": "/fipe/citroen/evasion-vsx-turbo-1996-011003-5/",
+      "ano": 1996,
+      "marca": "Citroën"
+    },
+    {
+      "vehicleId": "citroen-evasion-vsx-turbo-1997-gasolina",
+      "fipeCodigo": "011003-5",
+      "displayName": "Citroën Evasion VSX Turbo",
+      "valorAtual": 20231,
+      "canonicalPath": "/fipe/citroen/evasion-vsx-turbo-1997-011003-5/",
+      "ano": 1997,
+      "marca": "Citroën"
+    }
+  ],
+  "stats": {
+    "total": 7
+  },
+  "meta": {
+    "geracaoId": "evasion-1"
+  }
+}

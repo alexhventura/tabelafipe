@@ -1,0 +1,79 @@
+{
+  "tipo": "familia",
+  "slug": "kona",
+  "canonicalPath": "/fipe/hyundai/kona/",
+  "titulo": "Hyundai kona - Tabela FIPE",
+  "descricao": "6 versoes e anos do Hyundai kona na Tabela FIPE.",
+  "seo": {
+    "title": "Hyundai kona - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes Hyundai kona. 6 veiculos indexados.",
+    "h1": "Hyundai kona - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/hyundai/kona/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "hyundai-kona-ultimate-gdi-1-6-16v-aut-hibrido-2026-hibrido",
+      "fipeCodigo": "015253-6",
+      "displayName": "Hyundai KONA Ultimate GDI 1.6 16V Aut. (Hibrido)",
+      "valorAtual": 185780,
+      "canonicalPath": "/fipe/hyundai/kona-ultimate-gdi-1-6-16v-aut-hibrido-2026-015253-6/",
+      "ano": 2026,
+      "marca": "Hyundai"
+    },
+    {
+      "vehicleId": "hyundai-kona-signature-gdi-1-6-16v-aut-hibrido-2026-hibrido",
+      "fipeCodigo": "015254-4",
+      "displayName": "Hyundai KONA Signature GDI 1.6 16V Aut (Hibrido)",
+      "valorAtual": 188221,
+      "canonicalPath": "/fipe/hyundai/kona-signature-gdi-1-6-16v-aut-hibrido-2026-015254-4/",
+      "ano": 2026,
+      "marca": "Hyundai"
+    },
+    {
+      "vehicleId": "hyundai-kona-1-6-16v-aut-hibrido-2024-hibrido",
+      "fipeCodigo": "015232-3",
+      "displayName": "Hyundai KONA 1.6 16V Aut. (Hibrido)",
+      "valorAtual": 130976,
+      "canonicalPath": "/fipe/hyundai/kona-1-6-16v-aut-hibrido-2024-015232-3/",
+      "ano": 2024,
+      "marca": "Hyundai"
+    },
+    {
+      "vehicleId": "hyundai-kona-ev-eletrico-2024-eletrico",
+      "fipeCodigo": "015231-5",
+      "displayName": "Hyundai KONA EV (Elétrico)",
+      "valorAtual": 133559,
+      "canonicalPath": "/fipe/hyundai/kona-ev-eletrico-2024-015231-5/",
+      "ano": 2024,
+      "marca": "Hyundai"
+    },
+    {
+      "vehicleId": "hyundai-kona-ultimate-gdi-1-6-16v-aut-hibrido-0-hibrido",
+      "fipeCodigo": "015253-6",
+      "displayName": "Hyundai KONA Ultimate GDI 1.6 16V Aut. (Hibrido)",
+      "valorAtual": 209653,
+      "canonicalPath": "/fipe/hyundai/kona-ultimate-gdi-1-6-16v-aut-hibrido-0-015253-6/",
+      "ano": 0,
+      "marca": "Hyundai"
+    },
+    {
+      "vehicleId": "hyundai-kona-signature-gdi-1-6-16v-aut-hibrido-0-hibrido",
+      "fipeCodigo": "015254-4",
+      "displayName": "Hyundai KONA Signature GDI 1.6 16V Aut (Hibrido)",
+      "valorAtual": 234831,
+      "canonicalPath": "/fipe/hyundai/kona-signature-gdi-1-6-16v-aut-hibrido-0-015254-4/",
+      "ano": 0,
+      "marca": "Hyundai"
+    }
+  ],
+  "stats": {
+    "total": 6,
+    "precoMin": 130976,
+    "precoMax": 234831,
+    "anos": [
+      2026,
+      2024,
+      0
+    ]
+  }
+}

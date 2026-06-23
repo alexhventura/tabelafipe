@@ -1,0 +1,52 @@
+{
+  "tipo": "familia",
+  "slug": "vitesse",
+  "canonicalPath": "/fipe/motorino/vitesse/",
+  "titulo": "MOTORINO vitesse - Tabela FIPE",
+  "descricao": "3 versoes e anos do MOTORINO vitesse na Tabela FIPE.",
+  "seo": {
+    "title": "MOTORINO vitesse - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes MOTORINO vitesse. 3 veiculos indexados.",
+    "h1": "MOTORINO vitesse - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/motorino/vitesse/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "motorino-vitesse-150cc-2015-gasolina",
+      "fipeCodigo": "881012-5",
+      "displayName": "MOTORINO Vitesse 150cc",
+      "valorAtual": 7576,
+      "canonicalPath": "/fipe/motorino/vitesse-150cc-2015-881012-5/",
+      "ano": 2015,
+      "marca": "MOTORINO"
+    },
+    {
+      "vehicleId": "motorino-vitesse-150cc-2014-gasolina",
+      "fipeCodigo": "881012-5",
+      "displayName": "MOTORINO Vitesse 150cc",
+      "valorAtual": 6621,
+      "canonicalPath": "/fipe/motorino/vitesse-150cc-2014-881012-5/",
+      "ano": 2014,
+      "marca": "MOTORINO"
+    },
+    {
+      "vehicleId": "motorino-vitesse-150cc-2013-gasolina",
+      "fipeCodigo": "881012-5",
+      "displayName": "MOTORINO Vitesse 150cc",
+      "valorAtual": 5973,
+      "canonicalPath": "/fipe/motorino/vitesse-150cc-2013-881012-5/",
+      "ano": 2013,
+      "marca": "MOTORINO"
+    }
+  ],
+  "stats": {
+    "total": 3,
+    "precoMin": 5973,
+    "precoMax": 7576,
+    "anos": [
+      2015,
+      2014,
+      2013
+    ]
+  }
+}

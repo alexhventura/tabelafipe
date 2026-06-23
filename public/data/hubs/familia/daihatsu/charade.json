@@ -1,0 +1,105 @@
+{
+  "tipo": "familia",
+  "slug": "charade",
+  "canonicalPath": "/fipe/daihatsu/charade/",
+  "titulo": "Daihatsu charade - Tabela FIPE",
+  "descricao": "9 versoes e anos do Daihatsu charade na Tabela FIPE.",
+  "seo": {
+    "title": "Daihatsu charade - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes Daihatsu charade. 9 veiculos indexados.",
+    "h1": "Daihatsu charade - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/daihatsu/charade/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "daihatsu-charade-sedan-1-3i-16v-1995-gasolina",
+      "fipeCodigo": "012006-5",
+      "displayName": "Daihatsu Charade Sedan 1.3i 16V",
+      "valorAtual": 6105,
+      "canonicalPath": "/fipe/daihatsu/charade-sedan-1-3i-16v-1995-012006-5/",
+      "ano": 1995,
+      "marca": "Daihatsu"
+    },
+    {
+      "vehicleId": "daihatsu-charade-cx-ts-1-0-1995-gasolina",
+      "fipeCodigo": "012015-4",
+      "displayName": "Daihatsu Charade CX/TS 1.0",
+      "valorAtual": 6111,
+      "canonicalPath": "/fipe/daihatsu/charade-cx-ts-1-0-1995-012015-4/",
+      "ano": 1995,
+      "marca": "Daihatsu"
+    },
+    {
+      "vehicleId": "daihatsu-charade-tx-1-3-16v-1995-gasolina",
+      "fipeCodigo": "012010-3",
+      "displayName": "Daihatsu Charade TX 1.3 16V",
+      "valorAtual": 6620,
+      "canonicalPath": "/fipe/daihatsu/charade-tx-1-3-16v-1995-012010-3/",
+      "ano": 1995,
+      "marca": "Daihatsu"
+    },
+    {
+      "vehicleId": "daihatsu-charade-sedan-1-5-dlx-1-3-1995-gasolina",
+      "fipeCodigo": "012001-4",
+      "displayName": "Daihatsu Charade Sedan 1.5/DLX 1.3",
+      "valorAtual": 7454,
+      "canonicalPath": "/fipe/daihatsu/charade-sedan-1-5-dlx-1-3-1995-012001-4/",
+      "ano": 1995,
+      "marca": "Daihatsu"
+    },
+    {
+      "vehicleId": "daihatsu-charade-ts-tsi-1-3-lsi-1-5-16v-1995-gasolina",
+      "fipeCodigo": "012002-2",
+      "displayName": "Daihatsu Charade TS/TSi 1.3/LSi 1.5 16V",
+      "valorAtual": 9295,
+      "canonicalPath": "/fipe/daihatsu/charade-ts-tsi-1-3-lsi-1-5-16v-1995-012002-2/",
+      "ano": 1995,
+      "marca": "Daihatsu"
+    },
+    {
+      "vehicleId": "daihatsu-charade-sedan-1-3i-16v-1994-gasolina",
+      "fipeCodigo": "012006-5",
+      "displayName": "Daihatsu Charade Sedan 1.3i 16V",
+      "valorAtual": 5122,
+      "canonicalPath": "/fipe/daihatsu/charade-sedan-1-3i-16v-1994-012006-5/",
+      "ano": 1994,
+      "marca": "Daihatsu"
+    },
+    {
+      "vehicleId": "daihatsu-charade-cx-ts-1-0-1994-gasolina",
+      "fipeCodigo": "012015-4",
+      "displayName": "Daihatsu Charade CX/TS 1.0",
+      "valorAtual": 5215,
+      "canonicalPath": "/fipe/daihatsu/charade-cx-ts-1-0-1994-012015-4/",
+      "ano": 1994,
+      "marca": "Daihatsu"
+    },
+    {
+      "vehicleId": "daihatsu-charade-sedan-1-5-dlx-1-3-1994-gasolina",
+      "fipeCodigo": "012001-4",
+      "displayName": "Daihatsu Charade Sedan 1.5/DLX 1.3",
+      "valorAtual": 5874,
+      "canonicalPath": "/fipe/daihatsu/charade-sedan-1-5-dlx-1-3-1994-012001-4/",
+      "ano": 1994,
+      "marca": "Daihatsu"
+    },
+    {
+      "vehicleId": "daihatsu-charade-ts-tsi-1-3-lsi-1-5-16v-1994-gasolina",
+      "fipeCodigo": "012002-2",
+      "displayName": "Daihatsu Charade TS/TSi 1.3/LSi 1.5 16V",
+      "valorAtual": 7340,
+      "canonicalPath": "/fipe/daihatsu/charade-ts-tsi-1-3-lsi-1-5-16v-1994-012002-2/",
+      "ano": 1994,
+      "marca": "Daihatsu"
+    }
+  ],
+  "stats": {
+    "total": 9,
+    "precoMin": 5122,
+    "precoMax": 9295,
+    "anos": [
+      1995,
+      1994
+    ]
+  }
+}

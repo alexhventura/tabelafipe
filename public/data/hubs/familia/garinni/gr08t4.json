@@ -1,0 +1,42 @@
+{
+  "tipo": "familia",
+  "slug": "gr08t4",
+  "canonicalPath": "/fipe/garinni/gr08t4/",
+  "titulo": "GARINNI gr08t4 - Tabela FIPE",
+  "descricao": "2 versoes e anos do GARINNI gr08t4 na Tabela FIPE.",
+  "seo": {
+    "title": "GARINNI gr08t4 - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes GARINNI gr08t4. 2 veiculos indexados.",
+    "h1": "GARINNI gr08t4 - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/garinni/gr08t4/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "garinni-gr08t4-2007-gasolina",
+      "fipeCodigo": "847001-4",
+      "displayName": "GARINNI GR08T4",
+      "valorAtual": 1916,
+      "canonicalPath": "/fipe/garinni/gr08t4-2007-847001-4/",
+      "ano": 2007,
+      "marca": "GARINNI"
+    },
+    {
+      "vehicleId": "garinni-gr08t4-2006-gasolina",
+      "fipeCodigo": "847001-4",
+      "displayName": "GARINNI GR08T4",
+      "valorAtual": 1697,
+      "canonicalPath": "/fipe/garinni/gr08t4-2006-847001-4/",
+      "ano": 2006,
+      "marca": "GARINNI"
+    }
+  ],
+  "stats": {
+    "total": 2,
+    "precoMin": 1697,
+    "precoMax": 1916,
+    "anos": [
+      2007,
+      2006
+    ]
+  }
+}

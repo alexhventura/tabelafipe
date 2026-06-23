@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "mg6-1",
+  "canonicalPath": "/geracao/mg/mg6-1/",
+  "titulo": "Geracao mg6-1",
+  "descricao": "2 veiculos da geracao mg6-1.",
+  "seo": {
+    "title": "Geracao mg6-1 - Precos FIPE",
+    "description": "Veiculos da geracao mg6-1 na Tabela FIPE.",
+    "h1": "Geracao mg6-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/mg/mg6-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "mg-mg6-1-8-16v-turbo-170cv-aut-2011-gasolina",
+      "fipeCodigo": "076002-1",
+      "displayName": "MG MG6 1.8 16V Turbo 170cv Aut.",
+      "valorAtual": 50155,
+      "canonicalPath": "/fipe/mg/mg6-1-8-16v-turbo-170cv-aut-2011-076002-1/",
+      "ano": 2011,
+      "marca": "MG"
+    },
+    {
+      "vehicleId": "mg-mg6-1-8-16v-turbo-170cv-aut-2012-gasolina",
+      "fipeCodigo": "076002-1",
+      "displayName": "MG MG6 1.8 16V Turbo 170cv Aut.",
+      "valorAtual": 61741,
+      "canonicalPath": "/fipe/mg/mg6-1-8-16v-turbo-170cv-aut-2012-076002-1/",
+      "ano": 2012,
+      "marca": "MG"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "mg6-1"
+  }
+}

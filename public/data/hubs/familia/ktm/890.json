@@ -1,0 +1,42 @@
+{
+  "tipo": "familia",
+  "slug": "890",
+  "canonicalPath": "/fipe/ktm/890/",
+  "titulo": "KTM 890 - Tabela FIPE",
+  "descricao": "2 versoes e anos do KTM 890 na Tabela FIPE.",
+  "seo": {
+    "title": "KTM 890 - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes KTM 890. 2 veiculos indexados.",
+    "h1": "KTM 890 - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/ktm/890/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "ktm-890-smt-2024-gasolina",
+      "fipeCodigo": "818052-0",
+      "displayName": "KTM 890 SMT",
+      "valorAtual": 87084,
+      "canonicalPath": "/fipe/ktm/890-smt-2024-818052-0/",
+      "ano": 2024,
+      "marca": "KTM"
+    },
+    {
+      "vehicleId": "ktm-890-smt-0-gasolina",
+      "fipeCodigo": "818052-0",
+      "displayName": "KTM 890 SMT",
+      "valorAtual": 94194,
+      "canonicalPath": "/fipe/ktm/890-smt-0-818052-0/",
+      "ano": 0,
+      "marca": "KTM"
+    }
+  ],
+  "stats": {
+    "total": 2,
+    "precoMin": 87084,
+    "precoMax": 94194,
+    "anos": [
+      2024,
+      0
+    ]
+  }
+}

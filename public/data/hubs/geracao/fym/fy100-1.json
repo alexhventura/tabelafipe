@@ -1,0 +1,57 @@
+{
+  "tipo": "geracao",
+  "slug": "fy100-1",
+  "canonicalPath": "/geracao/fym/fy100-1/",
+  "titulo": "Geracao fy100-1",
+  "descricao": "4 veiculos da geracao fy100-1.",
+  "seo": {
+    "title": "Geracao fy100-1 - Precos FIPE",
+    "description": "Veiculos da geracao fy100-1 na Tabela FIPE.",
+    "h1": "Geracao fy100-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/fym/fy100-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "fym-fy100-10a-100cc-2006-gasolina",
+      "fipeCodigo": "849003-1",
+      "displayName": "FYM FY100-10A 100cc",
+      "valorAtual": 1274,
+      "canonicalPath": "/fipe/fym/fy100-10a-100cc-2006-849003-1/",
+      "ano": 2006,
+      "marca": "FYM"
+    },
+    {
+      "vehicleId": "fym-fy100-10a-100cc-2007-gasolina",
+      "fipeCodigo": "849003-1",
+      "displayName": "FYM FY100-10A 100cc",
+      "valorAtual": 1387,
+      "canonicalPath": "/fipe/fym/fy100-10a-100cc-2007-849003-1/",
+      "ano": 2007,
+      "marca": "FYM"
+    },
+    {
+      "vehicleId": "fym-fy100-10a-100cc-2008-gasolina",
+      "fipeCodigo": "849003-1",
+      "displayName": "FYM FY100-10A 100cc",
+      "valorAtual": 1448,
+      "canonicalPath": "/fipe/fym/fy100-10a-100cc-2008-849003-1/",
+      "ano": 2008,
+      "marca": "FYM"
+    },
+    {
+      "vehicleId": "fym-fy100-10a-100cc-2009-gasolina",
+      "fipeCodigo": "849003-1",
+      "displayName": "FYM FY100-10A 100cc",
+      "valorAtual": 1530,
+      "canonicalPath": "/fipe/fym/fy100-10a-100cc-2009-849003-1/",
+      "ano": 2009,
+      "marca": "FYM"
+    }
+  ],
+  "stats": {
+    "total": 4
+  },
+  "meta": {
+    "geracaoId": "fy100-1"
+  }
+}

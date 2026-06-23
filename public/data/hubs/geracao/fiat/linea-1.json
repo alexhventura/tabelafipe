@@ -1,0 +1,345 @@
+{
+  "tipo": "geracao",
+  "slug": "linea-1",
+  "canonicalPath": "/geracao/fiat/linea-1/",
+  "titulo": "Geracao linea-1",
+  "descricao": "36 veiculos da geracao linea-1.",
+  "seo": {
+    "title": "Geracao linea-1 - Precos FIPE",
+    "description": "Veiculos da geracao linea-1 na Tabela FIPE.",
+    "h1": "Geracao linea-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/fiat/linea-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "fiat-linea-1-9-hlx-1-9-1-8-flex-16v-4p-2009-flex",
+      "fipeCodigo": "001258-0",
+      "displayName": "Fiat LINEA 1.9/ HLX 1.9/ 1.8 Flex 16V 4p",
+      "valorAtual": 23141,
+      "canonicalPath": "/fipe/fiat/linea-1-9-hlx-1-9-1-8-flex-16v-4p-2009-001258-0/",
+      "ano": 2009,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-linea-1-9-hlx-1-9-1-8-flex-16v-4p-2010-flex",
+      "fipeCodigo": "001258-0",
+      "displayName": "Fiat LINEA 1.9/ HLX 1.9/ 1.8 Flex 16V 4p",
+      "valorAtual": 25451,
+      "canonicalPath": "/fipe/fiat/linea-1-9-hlx-1-9-1-8-flex-16v-4p-2010-001258-0/",
+      "ano": 2010,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-linea-1-9-hlx-1-9-1-8-flex-16v-4p-2011-flex",
+      "fipeCodigo": "001258-0",
+      "displayName": "Fiat LINEA 1.9/ HLX 1.9/ 1.8 Flex 16V 4p",
+      "valorAtual": 26652,
+      "canonicalPath": "/fipe/fiat/linea-1-9-hlx-1-9-1-8-flex-16v-4p-2011-001258-0/",
+      "ano": 2011,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-linea-1-9-hlx-1-9-1-8-flex-dualogic-4p-2009-flex",
+      "fipeCodigo": "001259-9",
+      "displayName": "Fiat LINEA 1.9/ HLX 1.9/1.8 Flex  Dualogic 4p",
+      "valorAtual": 23348,
+      "canonicalPath": "/fipe/fiat/linea-1-9-hlx-1-9-1-8-flex-dualogic-4p-2009-001259-9/",
+      "ano": 2009,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-linea-1-9-hlx-1-9-1-8-flex-dualogic-4p-2010-flex",
+      "fipeCodigo": "001259-9",
+      "displayName": "Fiat LINEA 1.9/ HLX 1.9/1.8 Flex  Dualogic 4p",
+      "valorAtual": 25493,
+      "canonicalPath": "/fipe/fiat/linea-1-9-hlx-1-9-1-8-flex-dualogic-4p-2010-001259-9/",
+      "ano": 2010,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-linea-1-9-hlx-1-9-1-8-flex-dualogic-4p-2011-flex",
+      "fipeCodigo": "001259-9",
+      "displayName": "Fiat LINEA 1.9/ HLX 1.9/1.8 Flex  Dualogic 4p",
+      "valorAtual": 26752,
+      "canonicalPath": "/fipe/fiat/linea-1-9-hlx-1-9-1-8-flex-dualogic-4p-2011-001259-9/",
+      "ano": 2011,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-linea-absolute-1-9-1-8-flex-dualogic-4p-2009-flex",
+      "fipeCodigo": "001260-2",
+      "displayName": "Fiat LINEA ABSOLUTE 1.9/1.8 Flex Dualogic 4p",
+      "valorAtual": 23590,
+      "canonicalPath": "/fipe/fiat/linea-absolute-1-9-1-8-flex-dualogic-4p-2009-001260-2/",
+      "ano": 2009,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-linea-absolute-1-9-1-8-flex-dualogic-4p-2010-flex",
+      "fipeCodigo": "001260-2",
+      "displayName": "Fiat LINEA ABSOLUTE 1.9/1.8 Flex Dualogic 4p",
+      "valorAtual": 25594,
+      "canonicalPath": "/fipe/fiat/linea-absolute-1-9-1-8-flex-dualogic-4p-2010-001260-2/",
+      "ano": 2010,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-linea-absolute-1-9-1-8-flex-dualogic-4p-2011-flex",
+      "fipeCodigo": "001260-2",
+      "displayName": "Fiat LINEA ABSOLUTE 1.9/1.8 Flex Dualogic 4p",
+      "valorAtual": 27367,
+      "canonicalPath": "/fipe/fiat/linea-absolute-1-9-1-8-flex-dualogic-4p-2011-001260-2/",
+      "ano": 2011,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-linea-absolute-1-9-1-8-flex-dualogic-4p-2012-flex",
+      "fipeCodigo": "001260-2",
+      "displayName": "Fiat LINEA ABSOLUTE 1.9/1.8 Flex Dualogic 4p",
+      "valorAtual": 29746,
+      "canonicalPath": "/fipe/fiat/linea-absolute-1-9-1-8-flex-dualogic-4p-2012-001260-2/",
+      "ano": 2012,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-linea-absolute-1-9-1-8-flex-dualogic-4p-2013-flex",
+      "fipeCodigo": "001260-2",
+      "displayName": "Fiat LINEA ABSOLUTE 1.9/1.8 Flex Dualogic 4p",
+      "valorAtual": 32654,
+      "canonicalPath": "/fipe/fiat/linea-absolute-1-9-1-8-flex-dualogic-4p-2013-001260-2/",
+      "ano": 2013,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-linea-absolute-1-9-1-8-flex-dualogic-4p-2014-flex",
+      "fipeCodigo": "001260-2",
+      "displayName": "Fiat LINEA ABSOLUTE 1.9/1.8 Flex Dualogic 4p",
+      "valorAtual": 34448,
+      "canonicalPath": "/fipe/fiat/linea-absolute-1-9-1-8-flex-dualogic-4p-2014-001260-2/",
+      "ano": 2014,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-linea-absolute-1-9-1-8-flex-dualogic-4p-2015-flex",
+      "fipeCodigo": "001260-2",
+      "displayName": "Fiat LINEA ABSOLUTE 1.9/1.8 Flex Dualogic 4p",
+      "valorAtual": 36644,
+      "canonicalPath": "/fipe/fiat/linea-absolute-1-9-1-8-flex-dualogic-4p-2015-001260-2/",
+      "ano": 2015,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-linea-absolute-1-9-1-8-flex-dualogic-4p-2016-flex",
+      "fipeCodigo": "001260-2",
+      "displayName": "Fiat LINEA ABSOLUTE 1.9/1.8 Flex Dualogic 4p",
+      "valorAtual": 43498,
+      "canonicalPath": "/fipe/fiat/linea-absolute-1-9-1-8-flex-dualogic-4p-2016-001260-2/",
+      "ano": 2016,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-linea-essen-sublime-1-8-flex-16v-4p-2013-flex",
+      "fipeCodigo": "001409-5",
+      "displayName": "Fiat LINEA ESSEN.SUBLIME 1.8 Flex 16V 4p",
+      "valorAtual": 30710,
+      "canonicalPath": "/fipe/fiat/linea-essen-sublime-1-8-flex-16v-4p-2013-001409-5/",
+      "ano": 2013,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-linea-essen-sublime-1-8-flex-16v-4p-2014-flex",
+      "fipeCodigo": "001409-5",
+      "displayName": "Fiat LINEA ESSEN.SUBLIME 1.8 Flex 16V 4p",
+      "valorAtual": 32118,
+      "canonicalPath": "/fipe/fiat/linea-essen-sublime-1-8-flex-16v-4p-2014-001409-5/",
+      "ano": 2014,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-linea-essen-sublime-dual-1-8-flex-16v-4p-2013-flex",
+      "fipeCodigo": "001410-9",
+      "displayName": "Fiat LINEA ESSEN.SUBLIME Dual.1.8 Flex 16V 4p",
+      "valorAtual": 30906,
+      "canonicalPath": "/fipe/fiat/linea-essen-sublime-dual-1-8-flex-16v-4p-2013-001410-9/",
+      "ano": 2013,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-linea-essen-sublime-dual-1-8-flex-16v-4p-2014-flex",
+      "fipeCodigo": "001410-9",
+      "displayName": "Fiat LINEA ESSEN.SUBLIME Dual.1.8 Flex 16V 4p",
+      "valorAtual": 33571,
+      "canonicalPath": "/fipe/fiat/linea-essen-sublime-dual-1-8-flex-16v-4p-2014-001410-9/",
+      "ano": 2014,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-linea-essence-1-8-flex-16v-4p-2012-flex",
+      "fipeCodigo": "001354-4",
+      "displayName": "Fiat LINEA ESSENCE 1.8 Flex 16V 4p",
+      "valorAtual": 29193,
+      "canonicalPath": "/fipe/fiat/linea-essence-1-8-flex-16v-4p-2012-001354-4/",
+      "ano": 2012,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-linea-essence-1-8-flex-16v-4p-2013-flex",
+      "fipeCodigo": "001354-4",
+      "displayName": "Fiat LINEA ESSENCE 1.8 Flex 16V 4p",
+      "valorAtual": 30552,
+      "canonicalPath": "/fipe/fiat/linea-essence-1-8-flex-16v-4p-2013-001354-4/",
+      "ano": 2013,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-linea-essence-1-8-flex-16v-4p-2014-flex",
+      "fipeCodigo": "001354-4",
+      "displayName": "Fiat LINEA ESSENCE 1.8 Flex 16V 4p",
+      "valorAtual": 31999,
+      "canonicalPath": "/fipe/fiat/linea-essence-1-8-flex-16v-4p-2014-001354-4/",
+      "ano": 2014,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-linea-essence-1-8-flex-16v-4p-2015-flex",
+      "fipeCodigo": "001354-4",
+      "displayName": "Fiat LINEA ESSENCE 1.8 Flex 16V 4p",
+      "valorAtual": 36933,
+      "canonicalPath": "/fipe/fiat/linea-essence-1-8-flex-16v-4p-2015-001354-4/",
+      "ano": 2015,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-linea-essence-1-8-flex-16v-4p-2016-flex",
+      "fipeCodigo": "001354-4",
+      "displayName": "Fiat LINEA ESSENCE 1.8 Flex 16V 4p",
+      "valorAtual": 39303,
+      "canonicalPath": "/fipe/fiat/linea-essence-1-8-flex-16v-4p-2016-001354-4/",
+      "ano": 2016,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-linea-essence-dualogic-1-8-flex-16v-4p-2012-flex",
+      "fipeCodigo": "001355-2",
+      "displayName": "Fiat LINEA ESSENCE Dualogic 1.8 Flex 16V 4p",
+      "valorAtual": 27767,
+      "canonicalPath": "/fipe/fiat/linea-essence-dualogic-1-8-flex-16v-4p-2012-001355-2/",
+      "ano": 2012,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-linea-essence-dualogic-1-8-flex-16v-4p-2013-flex",
+      "fipeCodigo": "001355-2",
+      "displayName": "Fiat LINEA ESSENCE Dualogic 1.8 Flex 16V 4p",
+      "valorAtual": 28462,
+      "canonicalPath": "/fipe/fiat/linea-essence-dualogic-1-8-flex-16v-4p-2013-001355-2/",
+      "ano": 2013,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-linea-essence-dualogic-1-8-flex-16v-4p-2014-flex",
+      "fipeCodigo": "001355-2",
+      "displayName": "Fiat LINEA ESSENCE Dualogic 1.8 Flex 16V 4p",
+      "valorAtual": 29174,
+      "canonicalPath": "/fipe/fiat/linea-essence-dualogic-1-8-flex-16v-4p-2014-001355-2/",
+      "ano": 2014,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-linea-essence-dualogic-1-8-flex-16v-4p-2015-flex",
+      "fipeCodigo": "001355-2",
+      "displayName": "Fiat LINEA ESSENCE Dualogic 1.8 Flex 16V 4p",
+      "valorAtual": 34109,
+      "canonicalPath": "/fipe/fiat/linea-essence-dualogic-1-8-flex-16v-4p-2015-001355-2/",
+      "ano": 2015,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-linea-essence-dualogic-1-8-flex-16v-4p-2016-flex",
+      "fipeCodigo": "001355-2",
+      "displayName": "Fiat LINEA ESSENCE Dualogic 1.8 Flex 16V 4p",
+      "valorAtual": 38653,
+      "canonicalPath": "/fipe/fiat/linea-essence-dualogic-1-8-flex-16v-4p-2016-001355-2/",
+      "ano": 2016,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-linea-lx-1-9-1-8-flex-16v-4p-2010-flex",
+      "fipeCodigo": "001274-2",
+      "displayName": "Fiat LINEA LX 1.9/ 1.8 Flex 16V 4p",
+      "valorAtual": 22848,
+      "canonicalPath": "/fipe/fiat/linea-lx-1-9-1-8-flex-16v-4p-2010-001274-2/",
+      "ano": 2010,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-linea-lx-1-9-1-8-flex-16v-4p-2011-flex",
+      "fipeCodigo": "001274-2",
+      "displayName": "Fiat LINEA LX 1.9/ 1.8 Flex 16V 4p",
+      "valorAtual": 26516,
+      "canonicalPath": "/fipe/fiat/linea-lx-1-9-1-8-flex-16v-4p-2011-001274-2/",
+      "ano": 2011,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-linea-lx-1-9-1-8-flex-16v-dualogic-4p-2010-flex",
+      "fipeCodigo": "001275-0",
+      "displayName": "Fiat LINEA LX 1.9/ 1.8 Flex 16V Dualogic 4p",
+      "valorAtual": 21591,
+      "canonicalPath": "/fipe/fiat/linea-lx-1-9-1-8-flex-16v-dualogic-4p-2010-001275-0/",
+      "ano": 2010,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-linea-lx-1-9-1-8-flex-16v-dualogic-4p-2011-flex",
+      "fipeCodigo": "001275-0",
+      "displayName": "Fiat LINEA LX 1.9/ 1.8 Flex 16V Dualogic 4p",
+      "valorAtual": 24391,
+      "canonicalPath": "/fipe/fiat/linea-lx-1-9-1-8-flex-16v-dualogic-4p-2011-001275-0/",
+      "ano": 2011,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-linea-t-jet-1-4-16v-turbo-4p-2009-gasolina",
+      "fipeCodigo": "001261-0",
+      "displayName": "Fiat LINEA T-JET 1.4 16V Turbo 4p",
+      "valorAtual": 32904,
+      "canonicalPath": "/fipe/fiat/linea-t-jet-1-4-16v-turbo-4p-2009-001261-0/",
+      "ano": 2009,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-linea-t-jet-1-4-16v-turbo-4p-2010-gasolina",
+      "fipeCodigo": "001261-0",
+      "displayName": "Fiat LINEA T-JET 1.4 16V Turbo 4p",
+      "valorAtual": 35145,
+      "canonicalPath": "/fipe/fiat/linea-t-jet-1-4-16v-turbo-4p-2010-001261-0/",
+      "ano": 2010,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-linea-t-jet-1-4-16v-turbo-4p-2011-gasolina",
+      "fipeCodigo": "001261-0",
+      "displayName": "Fiat LINEA T-JET 1.4 16V Turbo 4p",
+      "valorAtual": 36024,
+      "canonicalPath": "/fipe/fiat/linea-t-jet-1-4-16v-turbo-4p-2011-001261-0/",
+      "ano": 2011,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-linea-t-jet-1-4-16v-turbo-4p-2012-gasolina",
+      "fipeCodigo": "001261-0",
+      "displayName": "Fiat LINEA T-JET 1.4 16V Turbo 4p",
+      "valorAtual": 36925,
+      "canonicalPath": "/fipe/fiat/linea-t-jet-1-4-16v-turbo-4p-2012-001261-0/",
+      "ano": 2012,
+      "marca": "Fiat"
+    }
+  ],
+  "stats": {
+    "total": 36
+  },
+  "meta": {
+    "geracaoId": "linea-1"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "tipo": "geracao",
+  "slug": "murano-1",
+  "canonicalPath": "/geracao/nissan/murano-1/",
+  "titulo": "Geracao murano-1",
+  "descricao": "3 veiculos da geracao murano-1.",
+  "seo": {
+    "title": "Geracao murano-1 - Precos FIPE",
+    "description": "Veiculos da geracao murano-1 na Tabela FIPE.",
+    "h1": "Geracao murano-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/nissan/murano-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "nissan-murano-se-3-5-v6-24v-231cv-aut-2007-gasolina",
+      "fipeCodigo": "023058-8",
+      "displayName": "Nissan MURANO SE 3.5 V6 24V 231cv Aut",
+      "valorAtual": 44472,
+      "canonicalPath": "/fipe/nissan/murano-se-3-5-v6-24v-231cv-aut-2007-023058-8/",
+      "ano": 2007,
+      "marca": "Nissan"
+    },
+    {
+      "vehicleId": "nissan-murano-se-3-5-v6-24v-231cv-aut-2008-gasolina",
+      "fipeCodigo": "023058-8",
+      "displayName": "Nissan MURANO SE 3.5 V6 24V 231cv Aut",
+      "valorAtual": 48490,
+      "canonicalPath": "/fipe/nissan/murano-se-3-5-v6-24v-231cv-aut-2008-023058-8/",
+      "ano": 2008,
+      "marca": "Nissan"
+    },
+    {
+      "vehicleId": "nissan-murano-se-3-5-v6-24v-231cv-aut-2009-gasolina",
+      "fipeCodigo": "023058-8",
+      "displayName": "Nissan MURANO SE 3.5 V6 24V 231cv Aut",
+      "valorAtual": 50773,
+      "canonicalPath": "/fipe/nissan/murano-se-3-5-v6-24v-231cv-aut-2009-023058-8/",
+      "ano": 2009,
+      "marca": "Nissan"
+    }
+  ],
+  "stats": {
+    "total": 3
+  },
+  "meta": {
+    "geracaoId": "murano-1"
+  }
+}

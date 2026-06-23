@@ -1,0 +1,48 @@
+{
+  "tipo": "geracao",
+  "slug": "klx-1",
+  "canonicalPath": "/geracao/kawasaki/klx-1/",
+  "titulo": "Geracao klx-1",
+  "descricao": "3 veiculos da geracao klx-1.",
+  "seo": {
+    "title": "Geracao klx-1 - Precos FIPE",
+    "description": "Veiculos da geracao klx-1 na Tabela FIPE.",
+    "h1": "Geracao klx-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/kawasaki/klx-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "kawasaki-klx-110-0-gasolina",
+      "fipeCodigo": "817045-2",
+      "displayName": "KAWASAKI KLX 110",
+      "valorAtual": 18772,
+      "canonicalPath": "/fipe/kawasaki/klx-110-0-817045-2/",
+      "ano": 0,
+      "marca": "KAWASAKI"
+    },
+    {
+      "vehicleId": "kawasaki-klx-110r-0-gasolina",
+      "fipeCodigo": "817104-1",
+      "displayName": "KAWASAKI KLX 110R",
+      "valorAtual": 18782,
+      "canonicalPath": "/fipe/kawasaki/klx-110r-0-817104-1/",
+      "ano": 0,
+      "marca": "KAWASAKI"
+    },
+    {
+      "vehicleId": "kawasaki-klx-300r-0-gasolina",
+      "fipeCodigo": "817098-3",
+      "displayName": "KAWASAKI KLX 300R",
+      "valorAtual": 35588,
+      "canonicalPath": "/fipe/kawasaki/klx-300r-0-817098-3/",
+      "ano": 0,
+      "marca": "KAWASAKI"
+    }
+  ],
+  "stats": {
+    "total": 3
+  },
+  "meta": {
+    "geracaoId": "klx-1"
+  }
+}

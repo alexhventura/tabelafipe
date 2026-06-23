@@ -1,0 +1,82 @@
+{
+  "tipo": "familia",
+  "slug": "318is",
+  "canonicalPath": "/fipe/bmw/318is/",
+  "titulo": "BMW 318is - Tabela FIPE",
+  "descricao": "6 versoes e anos do BMW 318is na Tabela FIPE.",
+  "seo": {
+    "title": "BMW 318is - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes BMW 318is. 6 veiculos indexados.",
+    "h1": "BMW 318is - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/bmw/318is/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "bmw-318is-isa-1-9-16v-1998-gasolina",
+      "fipeCodigo": "009002-6",
+      "displayName": "BMW 318iS/ISA 1.9 16V",
+      "valorAtual": 30814,
+      "canonicalPath": "/fipe/bmw/318is-isa-1-9-16v-1998-009002-6/",
+      "ano": 1998,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-318is-isa-1-9-16v-1997-gasolina",
+      "fipeCodigo": "009002-6",
+      "displayName": "BMW 318iS/ISA 1.9 16V",
+      "valorAtual": 27848,
+      "canonicalPath": "/fipe/bmw/318is-isa-1-9-16v-1997-009002-6/",
+      "ano": 1997,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-318is-isa-1-9-16v-1996-gasolina",
+      "fipeCodigo": "009002-6",
+      "displayName": "BMW 318iS/ISA 1.9 16V",
+      "valorAtual": 20812,
+      "canonicalPath": "/fipe/bmw/318is-isa-1-9-16v-1996-009002-6/",
+      "ano": 1996,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-318is-isa-1-9-16v-1995-gasolina",
+      "fipeCodigo": "009002-6",
+      "displayName": "BMW 318iS/ISA 1.9 16V",
+      "valorAtual": 20304,
+      "canonicalPath": "/fipe/bmw/318is-isa-1-9-16v-1995-009002-6/",
+      "ano": 1995,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-318is-isa-1-9-16v-1994-gasolina",
+      "fipeCodigo": "009002-6",
+      "displayName": "BMW 318iS/ISA 1.9 16V",
+      "valorAtual": 19808,
+      "canonicalPath": "/fipe/bmw/318is-isa-1-9-16v-1994-009002-6/",
+      "ano": 1994,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-318is-isa-1-9-16v-1993-gasolina",
+      "fipeCodigo": "009002-6",
+      "displayName": "BMW 318iS/ISA 1.9 16V",
+      "valorAtual": 19324,
+      "canonicalPath": "/fipe/bmw/318is-isa-1-9-16v-1993-009002-6/",
+      "ano": 1993,
+      "marca": "BMW"
+    }
+  ],
+  "stats": {
+    "total": 6,
+    "precoMin": 19324,
+    "precoMax": 30814,
+    "anos": [
+      1998,
+      1997,
+      1996,
+      1995,
+      1994,
+      1993
+    ]
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "tipo": "familia",
+  "slug": "650ci",
+  "canonicalPath": "/fipe/bmw/650ci/",
+  "titulo": "BMW 650ci - Tabela FIPE",
+  "descricao": "4 versoes e anos do BMW 650ci na Tabela FIPE.",
+  "seo": {
+    "title": "BMW 650ci - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes BMW 650ci. 4 veiculos indexados.",
+    "h1": "BMW 650ci - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/bmw/650ci/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "bmw-650ci-cabriolet-4-4-407cv-bi-turbo-2012-gasolina",
+      "fipeCodigo": "009158-8",
+      "displayName": "BMW 650Ci Cabriolet 4.4 407cv Bi-Turbo",
+      "valorAtual": 260434,
+      "canonicalPath": "/fipe/bmw/650ci-cabriolet-4-4-407cv-bi-turbo-2012-009158-8/",
+      "ano": 2012,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-650ci-cabriolet-4-8-v8-32v-360cv-2012-gasolina",
+      "fipeCodigo": "009115-4",
+      "displayName": "BMW 650Ci Cabriolet 4.8 V8 32V 360cv",
+      "valorAtual": 284068,
+      "canonicalPath": "/fipe/bmw/650ci-cabriolet-4-8-v8-32v-360cv-2012-009115-4/",
+      "ano": 2012,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-650ci-cabriolet-4-8-v8-32v-360cv-2007-gasolina",
+      "fipeCodigo": "009115-4",
+      "displayName": "BMW 650Ci Cabriolet 4.8 V8 32V 360cv",
+      "valorAtual": 152895,
+      "canonicalPath": "/fipe/bmw/650ci-cabriolet-4-8-v8-32v-360cv-2007-009115-4/",
+      "ano": 2007,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-650ci-cabriolet-4-8-v8-32v-360cv-2006-gasolina",
+      "fipeCodigo": "009115-4",
+      "displayName": "BMW 650Ci Cabriolet 4.8 V8 32V 360cv",
+      "valorAtual": 134812,
+      "canonicalPath": "/fipe/bmw/650ci-cabriolet-4-8-v8-32v-360cv-2006-009115-4/",
+      "ano": 2006,
+      "marca": "BMW"
+    }
+  ],
+  "stats": {
+    "total": 4,
+    "precoMin": 134812,
+    "precoMax": 284068,
+    "anos": [
+      2012,
+      2007,
+      2006
+    ]
+  }
+}

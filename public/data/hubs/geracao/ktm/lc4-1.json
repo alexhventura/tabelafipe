@@ -1,0 +1,66 @@
+{
+  "tipo": "geracao",
+  "slug": "lc4-1",
+  "canonicalPath": "/geracao/ktm/lc4-1/",
+  "titulo": "Geracao lc4-1",
+  "descricao": "5 veiculos da geracao lc4-1.",
+  "seo": {
+    "title": "Geracao lc4-1 - Precos FIPE",
+    "description": "Veiculos da geracao lc4-1 na Tabela FIPE.",
+    "h1": "Geracao lc4-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/ktm/lc4-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "ktm-lc4-640-trail-1998-gasolina",
+      "fipeCodigo": "818002-4",
+      "displayName": "KTM LC4 640 TRAIL",
+      "valorAtual": 9339,
+      "canonicalPath": "/fipe/ktm/lc4-640-trail-1998-818002-4/",
+      "ano": 1998,
+      "marca": "KTM"
+    },
+    {
+      "vehicleId": "ktm-lc4-640-trail-1999-gasolina",
+      "fipeCodigo": "818002-4",
+      "displayName": "KTM LC4 640 TRAIL",
+      "valorAtual": 10658,
+      "canonicalPath": "/fipe/ktm/lc4-640-trail-1999-818002-4/",
+      "ano": 1999,
+      "marca": "KTM"
+    },
+    {
+      "vehicleId": "ktm-lc4-640-trail-2000-gasolina",
+      "fipeCodigo": "818002-4",
+      "displayName": "KTM LC4 640 TRAIL",
+      "valorAtual": 12641,
+      "canonicalPath": "/fipe/ktm/lc4-640-trail-2000-818002-4/",
+      "ano": 2000,
+      "marca": "KTM"
+    },
+    {
+      "vehicleId": "ktm-lc4-640-trail-2001-gasolina",
+      "fipeCodigo": "818002-4",
+      "displayName": "KTM LC4 640 TRAIL",
+      "valorAtual": 14819,
+      "canonicalPath": "/fipe/ktm/lc4-640-trail-2001-818002-4/",
+      "ano": 2001,
+      "marca": "KTM"
+    },
+    {
+      "vehicleId": "ktm-lc4-640-trail-2002-gasolina",
+      "fipeCodigo": "818002-4",
+      "displayName": "KTM LC4 640 TRAIL",
+      "valorAtual": 18152,
+      "canonicalPath": "/fipe/ktm/lc4-640-trail-2002-818002-4/",
+      "ano": 2002,
+      "marca": "KTM"
+    }
+  ],
+  "stats": {
+    "total": 5
+  },
+  "meta": {
+    "geracaoId": "lc4-1"
+  }
+}

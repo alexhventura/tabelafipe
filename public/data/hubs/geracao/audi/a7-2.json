@@ -1,0 +1,48 @@
+{
+  "tipo": "geracao",
+  "slug": "a7-2",
+  "canonicalPath": "/geracao/audi/a7-2/",
+  "titulo": "Geracao a7-2",
+  "descricao": "3 veiculos da geracao a7-2.",
+  "seo": {
+    "title": "Geracao a7-2 - Precos FIPE",
+    "description": "Veiculos da geracao a7-2 na Tabela FIPE.",
+    "h1": "Geracao a7-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/audi/a7-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "audi-a7-sp-b-perf-bla-3-0-tfsi-quat-s-tro-2021-gasolina",
+      "fipeCodigo": "008268-6",
+      "displayName": "Audi A7 SP.b. Perf. Bla. 3.0 TFSI Quat. S-tro",
+      "valorAtual": 325716,
+      "canonicalPath": "/fipe/audi/a7-sp-b-perf-bla-3-0-tfsi-quat-s-tro-2021-008268-6/",
+      "ano": 2021,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-a7-sp-b-perf-bla-3-0-tfsi-quat-s-tro-2022-gasolina",
+      "fipeCodigo": "008268-6",
+      "displayName": "Audi A7 SP.b. Perf. Bla. 3.0 TFSI Quat. S-tro",
+      "valorAtual": 450903,
+      "canonicalPath": "/fipe/audi/a7-sp-b-perf-bla-3-0-tfsi-quat-s-tro-2022-008268-6/",
+      "ano": 2022,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-a7-sportback-perf-3-0-tfsi-s-tron-quat-2020-gasolina",
+      "fipeCodigo": "008254-6",
+      "displayName": "Audi A7 Sportback Perf. 3.0 TFSI S-tron Quat.",
+      "valorAtual": 330952,
+      "canonicalPath": "/fipe/audi/a7-sportback-perf-3-0-tfsi-s-tron-quat-2020-008254-6/",
+      "ano": 2020,
+      "marca": "Audi"
+    }
+  ],
+  "stats": {
+    "total": 3
+  },
+  "meta": {
+    "geracaoId": "a7-2"
+  }
+}

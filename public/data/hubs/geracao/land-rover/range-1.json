@@ -1,0 +1,120 @@
+{
+  "tipo": "geracao",
+  "slug": "range-1",
+  "canonicalPath": "/geracao/land-rover/range-1/",
+  "titulo": "Geracao range-1",
+  "descricao": "11 veiculos da geracao range-1.",
+  "seo": {
+    "title": "Geracao range-1 - Precos FIPE",
+    "description": "Veiculos da geracao range-1 na Tabela FIPE.",
+    "h1": "Geracao range-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/land-rover/range-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "land-rover-range-r-autobio-3-0-i6-tb-die-hib-0-hibrido",
+      "fipeCodigo": "033209-7",
+      "displayName": "Land Rover Range R. Autobio. 3.0 I6 TB Die. (Híb.)",
+      "valorAtual": 1164309,
+      "canonicalPath": "/fipe/land-rover/range-r-autobio-3-0-i6-tb-die-hib-0-033209-7/",
+      "ano": 0,
+      "marca": "Land Rover"
+    },
+    {
+      "vehicleId": "land-rover-range-r-autobio-3-0-i6-tb-p550e-hib-0-hibrido",
+      "fipeCodigo": "033236-4",
+      "displayName": "Land Rover Range R. Autobio. 3.0 I6 TB P550e (Híb.)",
+      "valorAtual": 1744350,
+      "canonicalPath": "/fipe/land-rover/range-r-autobio-3-0-i6-tb-p550e-hib-0-033236-4/",
+      "ano": 0,
+      "marca": "Land Rover"
+    },
+    {
+      "vehicleId": "land-rover-range-r-sp-dynam-hse-3-0-hib-0-hibrido",
+      "fipeCodigo": "033221-6",
+      "displayName": "Land Rover Range R. Sp. Dynam. HSE 3.0  (Híb.)",
+      "valorAtual": 1234064,
+      "canonicalPath": "/fipe/land-rover/range-r-sp-dynam-hse-3-0-hib-0-033221-6/",
+      "ano": 0,
+      "marca": "Land Rover"
+    },
+    {
+      "vehicleId": "land-rover-range-r-sport-autob-3-0-tb-die-hib-0-hibrido",
+      "fipeCodigo": "033227-5",
+      "displayName": "Land Rover Range R. Sport Autob. 3.0 TB Die. (Híb.)",
+      "valorAtual": 1204088,
+      "canonicalPath": "/fipe/land-rover/range-r-sport-autob-3-0-tb-die-hib-0-033227-5/",
+      "ano": 0,
+      "marca": "Land Rover"
+    },
+    {
+      "vehicleId": "land-rover-range-r-sport-autobio-3-0-p550e-hib-0-hibrido",
+      "fipeCodigo": "033234-8",
+      "displayName": "Land Rover Range R. Sport Autobio. 3.0 P550e (Híb.)",
+      "valorAtual": 1279665,
+      "canonicalPath": "/fipe/land-rover/range-r-sport-autobio-3-0-p550e-hib-0-033234-8/",
+      "ano": 0,
+      "marca": "Land Rover"
+    },
+    {
+      "vehicleId": "land-rover-range-r-velar-autobio-2-0-p400e-hib-0-hibrido",
+      "fipeCodigo": "033243-7",
+      "displayName": "Land Rover Range R. VELAR Autobio. 2.0 P400e (Híb)",
+      "valorAtual": 786470,
+      "canonicalPath": "/fipe/land-rover/range-r-velar-autobio-2-0-p400e-hib-0-033243-7/",
+      "ano": 0,
+      "marca": "Land Rover"
+    },
+    {
+      "vehicleId": "land-rover-range-r-velar-hse-dyn-2-0-p400e-hib-0-hibrido",
+      "fipeCodigo": "033235-6",
+      "displayName": "Land Rover Range R. VELAR HSE Dyn 2.0 P400e (Hib.)",
+      "valorAtual": 730286,
+      "canonicalPath": "/fipe/land-rover/range-r-velar-hse-dyn-2-0-p400e-hib-0-033235-6/",
+      "ano": 0,
+      "marca": "Land Rover"
+    },
+    {
+      "vehicleId": "land-rover-range-r-evoque-autob-2-0-p250-flex-aut-0-flex",
+      "fipeCodigo": "033242-9",
+      "displayName": "Land Rover Range R.EVOQUE Autob. 2.0 P250 Flex Aut",
+      "valorAtual": 513399,
+      "canonicalPath": "/fipe/land-rover/range-r-evoque-autob-2-0-p250-flex-aut-0-033242-9/",
+      "ano": 0,
+      "marca": "Land Rover"
+    },
+    {
+      "vehicleId": "land-rover-range-r-evoque-si4-hse-dyn-2-0-flex-aut-0-gasolina",
+      "fipeCodigo": "033115-5",
+      "displayName": "Land Rover Range R.EVOQUE Si4 HSE Dyn. 2.0/Flex Aut",
+      "valorAtual": 479823,
+      "canonicalPath": "/fipe/land-rover/range-r-evoque-si4-hse-dyn-2-0-flex-aut-0-033115-5/",
+      "ano": 0,
+      "marca": "Land Rover"
+    },
+    {
+      "vehicleId": "land-rover-range-rover-sv-3-0-i6-tb-hib-0-gasolina",
+      "fipeCodigo": "033245-3",
+      "displayName": "Land Rover Range Rover SV 3.0 I6 TB (Híb.)",
+      "valorAtual": 2101002,
+      "canonicalPath": "/fipe/land-rover/range-rover-sv-3-0-i6-tb-hib-0-033245-3/",
+      "ano": 0,
+      "marca": "Land Rover"
+    },
+    {
+      "vehicleId": "land-rover-range-rover-sport-dynamic-hse-3-0-4x4-p550e-0-hibrido",
+      "fipeCodigo": "033246-1",
+      "displayName": "Land Rover Range Rover Sport Dynamic HSE 3.0 4X4 P550e",
+      "valorAtual": 1169530,
+      "canonicalPath": "/fipe/land-rover/range-rover-sport-dynamic-hse-3-0-4x4-p550e-0-033246-1/",
+      "ano": 0,
+      "marca": "Land Rover"
+    }
+  ],
+  "stats": {
+    "total": 11
+  },
+  "meta": {
+    "geracaoId": "range-1"
+  }
+}

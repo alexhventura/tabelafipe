@@ -1,0 +1,57 @@
+{
+  "tipo": "geracao",
+  "slug": "cj-1",
+  "canonicalPath": "/geracao/traxx/cj-1/",
+  "titulo": "Geracao cj-1",
+  "descricao": "4 veiculos da geracao cj-1.",
+  "seo": {
+    "title": "Geracao cj-1 - Precos FIPE",
+    "description": "Veiculos da geracao cj-1 na Tabela FIPE.",
+    "h1": "Geracao cj-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/traxx/cj-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "traxx-cj-50-f-1995-gasolina",
+      "fipeCodigo": "814001-4",
+      "displayName": "TRAXX CJ 50-F",
+      "valorAtual": 878,
+      "canonicalPath": "/fipe/traxx/cj-50-f-1995-814001-4/",
+      "ano": 1995,
+      "marca": "TRAXX"
+    },
+    {
+      "vehicleId": "traxx-cj-50-f-1996-gasolina",
+      "fipeCodigo": "814001-4",
+      "displayName": "TRAXX CJ 50-F",
+      "valorAtual": 917,
+      "canonicalPath": "/fipe/traxx/cj-50-f-1996-814001-4/",
+      "ano": 1996,
+      "marca": "TRAXX"
+    },
+    {
+      "vehicleId": "traxx-cj-50-f-1997-gasolina",
+      "fipeCodigo": "814001-4",
+      "displayName": "TRAXX CJ 50-F",
+      "valorAtual": 941,
+      "canonicalPath": "/fipe/traxx/cj-50-f-1997-814001-4/",
+      "ano": 1997,
+      "marca": "TRAXX"
+    },
+    {
+      "vehicleId": "traxx-cj-50-f-1998-gasolina",
+      "fipeCodigo": "814001-4",
+      "displayName": "TRAXX CJ 50-F",
+      "valorAtual": 1006,
+      "canonicalPath": "/fipe/traxx/cj-50-f-1998-814001-4/",
+      "ano": 1998,
+      "marca": "TRAXX"
+    }
+  ],
+  "stats": {
+    "total": 4
+  },
+  "meta": {
+    "geracaoId": "cj-1"
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "tipo": "familia",
+  "slug": "gladius",
+  "canonicalPath": "/fipe/suzuki/gladius/",
+  "titulo": "SUZUKI gladius - Tabela FIPE",
+  "descricao": "4 versoes e anos do SUZUKI gladius na Tabela FIPE.",
+  "seo": {
+    "title": "SUZUKI gladius - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes SUZUKI gladius. 4 veiculos indexados.",
+    "h1": "SUZUKI gladius - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/suzuki/gladius/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "suzuki-gladius-650-2016-gasolina",
+      "fipeCodigo": "825066-9",
+      "displayName": "SUZUKI GLADIUS 650",
+      "valorAtual": 26125,
+      "canonicalPath": "/fipe/suzuki/gladius-650-2016-825066-9/",
+      "ano": 2016,
+      "marca": "SUZUKI"
+    },
+    {
+      "vehicleId": "suzuki-gladius-650-2015-gasolina",
+      "fipeCodigo": "825066-9",
+      "displayName": "SUZUKI GLADIUS 650",
+      "valorAtual": 25487,
+      "canonicalPath": "/fipe/suzuki/gladius-650-2015-825066-9/",
+      "ano": 2015,
+      "marca": "SUZUKI"
+    },
+    {
+      "vehicleId": "suzuki-gladius-650-2014-gasolina",
+      "fipeCodigo": "825066-9",
+      "displayName": "SUZUKI GLADIUS 650",
+      "valorAtual": 21179,
+      "canonicalPath": "/fipe/suzuki/gladius-650-2014-825066-9/",
+      "ano": 2014,
+      "marca": "SUZUKI"
+    },
+    {
+      "vehicleId": "suzuki-gladius-650-2013-gasolina",
+      "fipeCodigo": "825066-9",
+      "displayName": "SUZUKI GLADIUS 650",
+      "valorAtual": 20662,
+      "canonicalPath": "/fipe/suzuki/gladius-650-2013-825066-9/",
+      "ano": 2013,
+      "marca": "SUZUKI"
+    }
+  ],
+  "stats": {
+    "total": 4,
+    "precoMin": 20662,
+    "precoMax": 26125,
+    "anos": [
+      2016,
+      2015,
+      2014,
+      2013
+    ]
+  }
+}

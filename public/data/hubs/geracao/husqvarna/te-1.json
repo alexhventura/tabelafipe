@@ -1,0 +1,57 @@
+{
+  "tipo": "geracao",
+  "slug": "te-1",
+  "canonicalPath": "/geracao/husqvarna/te-1/",
+  "titulo": "Geracao te-1",
+  "descricao": "4 veiculos da geracao te-1.",
+  "seo": {
+    "title": "Geracao te-1 - Precos FIPE",
+    "description": "Veiculos da geracao te-1 na Tabela FIPE.",
+    "h1": "Geracao te-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/husqvarna/te-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "husqvarna-te-150-0-gasolina",
+      "fipeCodigo": "812033-1",
+      "displayName": "HUSQVARNA TE 150",
+      "valorAtual": 71794,
+      "canonicalPath": "/fipe/husqvarna/te-150-0-812033-1/",
+      "ano": 0,
+      "marca": "HUSQVARNA"
+    },
+    {
+      "vehicleId": "husqvarna-te-250-heritage-0-gasolina",
+      "fipeCodigo": "812028-5",
+      "displayName": "HUSQVARNA TE 250 Heritage",
+      "valorAtual": 84794,
+      "canonicalPath": "/fipe/husqvarna/te-250-heritage-0-812028-5/",
+      "ano": 0,
+      "marca": "HUSQVARNA"
+    },
+    {
+      "vehicleId": "husqvarna-te-300-0-gasolina",
+      "fipeCodigo": "812027-7",
+      "displayName": "HUSQVARNA TE 300",
+      "valorAtual": 90776,
+      "canonicalPath": "/fipe/husqvarna/te-300-0-812027-7/",
+      "ano": 0,
+      "marca": "HUSQVARNA"
+    },
+    {
+      "vehicleId": "husqvarna-te-300-pro-0-gasolina",
+      "fipeCodigo": "812029-3",
+      "displayName": "HUSQVARNA TE 300 Pro",
+      "valorAtual": 98394,
+      "canonicalPath": "/fipe/husqvarna/te-300-pro-0-812029-3/",
+      "ano": 0,
+      "marca": "HUSQVARNA"
+    }
+  ],
+  "stats": {
+    "total": 4
+  },
+  "meta": {
+    "geracaoId": "te-1"
+  }
+}

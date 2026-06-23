@@ -1,0 +1,111 @@
+{
+  "tipo": "geracao",
+  "slug": "galloper-1",
+  "canonicalPath": "/geracao/hyundai/galloper-1/",
+  "titulo": "Geracao galloper-1",
+  "descricao": "10 veiculos da geracao galloper-1.",
+  "seo": {
+    "title": "Geracao galloper-1 - Precos FIPE",
+    "description": "Veiculos da geracao galloper-1 na Tabela FIPE.",
+    "h1": "Geracao galloper-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/hyundai/galloper-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "hyundai-galloper-2-5-luxo-turbo-diesel-1998-diesel",
+      "fipeCodigo": "015022-3",
+      "displayName": "Hyundai Galloper 2.5 Luxo Turbo Diesel",
+      "valorAtual": 26926,
+      "canonicalPath": "/fipe/hyundai/galloper-2-5-luxo-turbo-diesel-1998-015022-3/",
+      "ano": 1998,
+      "marca": "Hyundai"
+    },
+    {
+      "vehicleId": "hyundai-galloper-2-5-luxo-turbo-diesel-1999-diesel",
+      "fipeCodigo": "015022-3",
+      "displayName": "Hyundai Galloper 2.5 Luxo Turbo Diesel",
+      "valorAtual": 31878,
+      "canonicalPath": "/fipe/hyundai/galloper-2-5-luxo-turbo-diesel-1999-015022-3/",
+      "ano": 1999,
+      "marca": "Hyundai"
+    },
+    {
+      "vehicleId": "hyundai-galloper-2-5-super-luxo-turbo-diesel-1998-diesel",
+      "fipeCodigo": "015021-5",
+      "displayName": "Hyundai Galloper 2.5 Super Luxo Turbo Diesel",
+      "valorAtual": 34955,
+      "canonicalPath": "/fipe/hyundai/galloper-2-5-super-luxo-turbo-diesel-1998-015021-5/",
+      "ano": 1998,
+      "marca": "Hyundai"
+    },
+    {
+      "vehicleId": "hyundai-galloper-2-5-super-luxo-turbo-diesel-1999-diesel",
+      "fipeCodigo": "015021-5",
+      "displayName": "Hyundai Galloper 2.5 Super Luxo Turbo Diesel",
+      "valorAtual": 35829,
+      "canonicalPath": "/fipe/hyundai/galloper-2-5-super-luxo-turbo-diesel-1999-015021-5/",
+      "ano": 1999,
+      "marca": "Hyundai"
+    },
+    {
+      "vehicleId": "hyundai-galloper-3-0-v6-luxo-1998-gasolina",
+      "fipeCodigo": "015023-1",
+      "displayName": "Hyundai Galloper 3.0 V6 Luxo",
+      "valorAtual": 16907,
+      "canonicalPath": "/fipe/hyundai/galloper-3-0-v6-luxo-1998-015023-1/",
+      "ano": 1998,
+      "marca": "Hyundai"
+    },
+    {
+      "vehicleId": "hyundai-galloper-3-0-v6-luxo-1999-gasolina",
+      "fipeCodigo": "015023-1",
+      "displayName": "Hyundai Galloper 3.0 V6 Luxo",
+      "valorAtual": 19846,
+      "canonicalPath": "/fipe/hyundai/galloper-3-0-v6-luxo-1999-015023-1/",
+      "ano": 1999,
+      "marca": "Hyundai"
+    },
+    {
+      "vehicleId": "hyundai-galloper-3-0-v6-super-luxo-aut-1998-gasolina",
+      "fipeCodigo": "015025-8",
+      "displayName": "Hyundai Galloper 3.0 V6 Super Luxo Aut",
+      "valorAtual": 25194,
+      "canonicalPath": "/fipe/hyundai/galloper-3-0-v6-super-luxo-aut-1998-015025-8/",
+      "ano": 1998,
+      "marca": "Hyundai"
+    },
+    {
+      "vehicleId": "hyundai-galloper-3-0-v6-super-luxo-aut-1999-gasolina",
+      "fipeCodigo": "015025-8",
+      "displayName": "Hyundai Galloper 3.0 V6 Super Luxo Aut",
+      "valorAtual": 29896,
+      "canonicalPath": "/fipe/hyundai/galloper-3-0-v6-super-luxo-aut-1999-015025-8/",
+      "ano": 1999,
+      "marca": "Hyundai"
+    },
+    {
+      "vehicleId": "hyundai-galloper-3-0-v6-super-luxo-mec-1998-gasolina",
+      "fipeCodigo": "015024-0",
+      "displayName": "Hyundai Galloper 3.0 V6 Super Luxo Mec",
+      "valorAtual": 25120,
+      "canonicalPath": "/fipe/hyundai/galloper-3-0-v6-super-luxo-mec-1998-015024-0/",
+      "ano": 1998,
+      "marca": "Hyundai"
+    },
+    {
+      "vehicleId": "hyundai-galloper-3-0-v6-super-luxo-mec-1999-gasolina",
+      "fipeCodigo": "015024-0",
+      "displayName": "Hyundai Galloper 3.0 V6 Super Luxo Mec",
+      "valorAtual": 26176,
+      "canonicalPath": "/fipe/hyundai/galloper-3-0-v6-super-luxo-mec-1999-015024-0/",
+      "ano": 1999,
+      "marca": "Hyundai"
+    }
+  ],
+  "stats": {
+    "total": 10
+  },
+  "meta": {
+    "geracaoId": "galloper-1"
+  }
+}

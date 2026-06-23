@@ -1,0 +1,75 @@
+{
+  "tipo": "geracao",
+  "slug": "duke-2",
+  "canonicalPath": "/geracao/ktm/duke-2/",
+  "titulo": "Geracao duke-2",
+  "descricao": "6 veiculos da geracao duke-2.",
+  "seo": {
+    "title": "Geracao duke-2 - Precos FIPE",
+    "description": "Veiculos da geracao duke-2 na Tabela FIPE.",
+    "h1": "Geracao duke-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/ktm/duke-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "ktm-duke-640-duke-ii-640-1999-gasolina",
+      "fipeCodigo": "818016-4",
+      "displayName": "KTM DUKE 640/ DUKE II 640",
+      "valorAtual": 8837,
+      "canonicalPath": "/fipe/ktm/duke-640-duke-ii-640-1999-818016-4/",
+      "ano": 1999,
+      "marca": "KTM"
+    },
+    {
+      "vehicleId": "ktm-duke-640-duke-ii-640-2000-gasolina",
+      "fipeCodigo": "818016-4",
+      "displayName": "KTM DUKE 640/ DUKE II 640",
+      "valorAtual": 9730,
+      "canonicalPath": "/fipe/ktm/duke-640-duke-ii-640-2000-818016-4/",
+      "ano": 2000,
+      "marca": "KTM"
+    },
+    {
+      "vehicleId": "ktm-duke-640-duke-ii-640-2001-gasolina",
+      "fipeCodigo": "818016-4",
+      "displayName": "KTM DUKE 640/ DUKE II 640",
+      "valorAtual": 10004,
+      "canonicalPath": "/fipe/ktm/duke-640-duke-ii-640-2001-818016-4/",
+      "ano": 2001,
+      "marca": "KTM"
+    },
+    {
+      "vehicleId": "ktm-duke-640-duke-ii-640-2002-gasolina",
+      "fipeCodigo": "818016-4",
+      "displayName": "KTM DUKE 640/ DUKE II 640",
+      "valorAtual": 10591,
+      "canonicalPath": "/fipe/ktm/duke-640-duke-ii-640-2002-818016-4/",
+      "ano": 2002,
+      "marca": "KTM"
+    },
+    {
+      "vehicleId": "ktm-duke-640-duke-ii-640-2003-gasolina",
+      "fipeCodigo": "818016-4",
+      "displayName": "KTM DUKE 640/ DUKE II 640",
+      "valorAtual": 12338,
+      "canonicalPath": "/fipe/ktm/duke-640-duke-ii-640-2003-818016-4/",
+      "ano": 2003,
+      "marca": "KTM"
+    },
+    {
+      "vehicleId": "ktm-duke-640-duke-ii-640-2004-gasolina",
+      "fipeCodigo": "818016-4",
+      "displayName": "KTM DUKE 640/ DUKE II 640",
+      "valorAtual": 13763,
+      "canonicalPath": "/fipe/ktm/duke-640-duke-ii-640-2004-818016-4/",
+      "ano": 2004,
+      "marca": "KTM"
+    }
+  ],
+  "stats": {
+    "total": 6
+  },
+  "meta": {
+    "geracaoId": "duke-2"
+  }
+}

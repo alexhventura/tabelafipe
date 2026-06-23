@@ -1,0 +1,84 @@
+{
+  "tipo": "geracao",
+  "slug": "cadenza-1",
+  "canonicalPath": "/geracao/kia-motors/cadenza-1/",
+  "titulo": "Geracao cadenza-1",
+  "descricao": "7 veiculos da geracao cadenza-1.",
+  "seo": {
+    "title": "Geracao cadenza-1 - Precos FIPE",
+    "description": "Veiculos da geracao cadenza-1 na Tabela FIPE.",
+    "h1": "Geracao cadenza-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/kia-motors/cadenza-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "kia-motors-cadenza-ex-3-5-v6-24v-aut-2011-gasolina",
+      "fipeCodigo": "018080-7",
+      "displayName": "Kia Motors CADENZA EX 3.5 V6 24V Aut.",
+      "valorAtual": 54932,
+      "canonicalPath": "/fipe/kia-motors/cadenza-ex-3-5-v6-24v-aut-2011-018080-7/",
+      "ano": 2011,
+      "marca": "Kia Motors"
+    },
+    {
+      "vehicleId": "kia-motors-cadenza-ex-3-5-v6-24v-aut-2012-gasolina",
+      "fipeCodigo": "018080-7",
+      "displayName": "Kia Motors CADENZA EX 3.5 V6 24V Aut.",
+      "valorAtual": 62179,
+      "canonicalPath": "/fipe/kia-motors/cadenza-ex-3-5-v6-24v-aut-2012-018080-7/",
+      "ano": 2012,
+      "marca": "Kia Motors"
+    },
+    {
+      "vehicleId": "kia-motors-cadenza-ex-3-5-v6-24v-aut-2013-gasolina",
+      "fipeCodigo": "018080-7",
+      "displayName": "Kia Motors CADENZA EX 3.5 V6 24V Aut.",
+      "valorAtual": 75412,
+      "canonicalPath": "/fipe/kia-motors/cadenza-ex-3-5-v6-24v-aut-2013-018080-7/",
+      "ano": 2013,
+      "marca": "Kia Motors"
+    },
+    {
+      "vehicleId": "kia-motors-cadenza-ex-3-5-v6-24v-aut-2014-gasolina",
+      "fipeCodigo": "018080-7",
+      "displayName": "Kia Motors CADENZA EX 3.5 V6 24V Aut.",
+      "valorAtual": 77298,
+      "canonicalPath": "/fipe/kia-motors/cadenza-ex-3-5-v6-24v-aut-2014-018080-7/",
+      "ano": 2014,
+      "marca": "Kia Motors"
+    },
+    {
+      "vehicleId": "kia-motors-cadenza-ex-3-5-v6-24v-aut-2015-gasolina",
+      "fipeCodigo": "018080-7",
+      "displayName": "Kia Motors CADENZA EX 3.5 V6 24V Aut.",
+      "valorAtual": 90177,
+      "canonicalPath": "/fipe/kia-motors/cadenza-ex-3-5-v6-24v-aut-2015-018080-7/",
+      "ano": 2015,
+      "marca": "Kia Motors"
+    },
+    {
+      "vehicleId": "kia-motors-cadenza-ex-3-5-v6-24v-aut-2016-gasolina",
+      "fipeCodigo": "018080-7",
+      "displayName": "Kia Motors CADENZA EX 3.5 V6 24V Aut.",
+      "valorAtual": 98645,
+      "canonicalPath": "/fipe/kia-motors/cadenza-ex-3-5-v6-24v-aut-2016-018080-7/",
+      "ano": 2016,
+      "marca": "Kia Motors"
+    },
+    {
+      "vehicleId": "kia-motors-cadenza-ex-3-5-v6-24v-aut-2017-gasolina",
+      "fipeCodigo": "018080-7",
+      "displayName": "Kia Motors CADENZA EX 3.5 V6 24V Aut.",
+      "valorAtual": 117787,
+      "canonicalPath": "/fipe/kia-motors/cadenza-ex-3-5-v6-24v-aut-2017-018080-7/",
+      "ano": 2017,
+      "marca": "Kia Motors"
+    }
+  ],
+  "stats": {
+    "total": 7
+  },
+  "meta": {
+    "geracaoId": "cadenza-1"
+  }
+}

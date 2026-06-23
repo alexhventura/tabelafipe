@@ -1,0 +1,66 @@
+{
+  "tipo": "geracao",
+  "slug": "fastback-1",
+  "canonicalPath": "/geracao/fiat/fastback-1/",
+  "titulo": "Geracao fastback-1",
+  "descricao": "5 veiculos da geracao fastback-1.",
+  "seo": {
+    "title": "Geracao fastback-1 - Precos FIPE",
+    "description": "Veiculos da geracao fastback-1 na Tabela FIPE.",
+    "h1": "Geracao fastback-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/fiat/fastback-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "fiat-fastback-1-0-200-turbo-flex-aut-0-flex",
+      "fipeCodigo": "001568-7",
+      "displayName": "Fiat Fastback 1.0 200 Turbo Flex Aut",
+      "valorAtual": 119912,
+      "canonicalPath": "/fipe/fiat/fastback-1-0-200-turbo-flex-aut-0-001568-7/",
+      "ano": 0,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-fastback-abarth-turbo-flex-1-3-aut-0-flex",
+      "fipeCodigo": "001572-5",
+      "displayName": "Fiat Fastback ABARTH Turbo Flex 1.3 Aut.",
+      "valorAtual": 181291,
+      "canonicalPath": "/fipe/fiat/fastback-abarth-turbo-flex-1-3-aut-0-001572-5/",
+      "ano": 0,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-fastback-audace-200-tb-aut-hibrido-0-hibrido",
+      "fipeCodigo": "001578-4",
+      "displayName": "Fiat Fastback Audace 200 TB Aut (Hibrído)",
+      "valorAtual": 155148,
+      "canonicalPath": "/fipe/fiat/fastback-audace-200-tb-aut-hibrido-0-001578-4/",
+      "ano": 0,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-fastback-impetus-200-t-aut-hibrido-0-hibrido",
+      "fipeCodigo": "001577-6",
+      "displayName": "Fiat Fastback Impetus 200 T. Aut (Hibrído)",
+      "valorAtual": 166047,
+      "canonicalPath": "/fipe/fiat/fastback-impetus-200-t-aut-hibrido-0-001577-6/",
+      "ano": 0,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-fastback-limited-ed-1-3-270-t-flex-aut-0-flex",
+      "fipeCodigo": "001556-3",
+      "displayName": "Fiat Fastback Limited Ed.1.3 270 T.Flex Aut.",
+      "valorAtual": 173845,
+      "canonicalPath": "/fipe/fiat/fastback-limited-ed-1-3-270-t-flex-aut-0-001556-3/",
+      "ano": 0,
+      "marca": "Fiat"
+    }
+  ],
+  "stats": {
+    "total": 5
+  },
+  "meta": {
+    "geracaoId": "fastback-1"
+  }
+}

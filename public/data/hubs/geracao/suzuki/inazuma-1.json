@@ -1,0 +1,48 @@
+{
+  "tipo": "geracao",
+  "slug": "inazuma-1",
+  "canonicalPath": "/geracao/suzuki/inazuma-1/",
+  "titulo": "Geracao inazuma-1",
+  "descricao": "3 veiculos da geracao inazuma-1.",
+  "seo": {
+    "title": "Geracao inazuma-1 - Precos FIPE",
+    "description": "Veiculos da geracao inazuma-1 na Tabela FIPE.",
+    "h1": "Geracao inazuma-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/suzuki/inazuma-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "suzuki-inazuma-250cc-2014-gasolina",
+      "fipeCodigo": "825067-7",
+      "displayName": "SUZUKI INAZUMA 250cc",
+      "valorAtual": 11331,
+      "canonicalPath": "/fipe/suzuki/inazuma-250cc-2014-825067-7/",
+      "ano": 2014,
+      "marca": "SUZUKI"
+    },
+    {
+      "vehicleId": "suzuki-inazuma-250cc-2015-gasolina",
+      "fipeCodigo": "825067-7",
+      "displayName": "SUZUKI INAZUMA 250cc",
+      "valorAtual": 12801,
+      "canonicalPath": "/fipe/suzuki/inazuma-250cc-2015-825067-7/",
+      "ano": 2015,
+      "marca": "SUZUKI"
+    },
+    {
+      "vehicleId": "suzuki-inazuma-250cc-2016-gasolina",
+      "fipeCodigo": "825067-7",
+      "displayName": "SUZUKI INAZUMA 250cc",
+      "valorAtual": 13998,
+      "canonicalPath": "/fipe/suzuki/inazuma-250cc-2016-825067-7/",
+      "ano": 2016,
+      "marca": "SUZUKI"
+    }
+  ],
+  "stats": {
+    "total": 3
+  },
+  "meta": {
+    "geracaoId": "inazuma-1"
+  }
+}

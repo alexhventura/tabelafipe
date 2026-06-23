@@ -1,0 +1,102 @@
+{
+  "tipo": "geracao",
+  "slug": "akros-1",
+  "canonicalPath": "/geracao/l-aquila/akros-1/",
+  "titulo": "Geracao akros-1",
+  "descricao": "9 veiculos da geracao akros-1.",
+  "seo": {
+    "title": "Geracao akros-1 - Precos FIPE",
+    "description": "Veiculos da geracao akros-1 na Tabela FIPE.",
+    "h1": "Geracao akros-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/l-aquila/akros-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "l-aquila-akros-50-1999-gasolina",
+      "fipeCodigo": "819001-1",
+      "displayName": "L'AQUILA AKROS 50",
+      "valorAtual": 1324,
+      "canonicalPath": "/fipe/l-aquila/akros-50-1999-819001-1/",
+      "ano": 1999,
+      "marca": "L'AQUILA"
+    },
+    {
+      "vehicleId": "l-aquila-akros-90-1999-gasolina",
+      "fipeCodigo": "819002-0",
+      "displayName": "L'AQUILA AKROS 90",
+      "valorAtual": 1591,
+      "canonicalPath": "/fipe/l-aquila/akros-90-1999-819002-0/",
+      "ano": 1999,
+      "marca": "L'AQUILA"
+    },
+    {
+      "vehicleId": "l-aquila-akros-90-2000-gasolina",
+      "fipeCodigo": "819002-0",
+      "displayName": "L'AQUILA AKROS 90",
+      "valorAtual": 1797,
+      "canonicalPath": "/fipe/l-aquila/akros-90-2000-819002-0/",
+      "ano": 2000,
+      "marca": "L'AQUILA"
+    },
+    {
+      "vehicleId": "sundown-akros-50cc-1996-gasolina",
+      "fipeCodigo": "824001-9",
+      "displayName": "SUNDOWN AKROS 50cc",
+      "valorAtual": 1217,
+      "canonicalPath": "/fipe/sundown/akros-50cc-1996-824001-9/",
+      "ano": 1996,
+      "marca": "SUNDOWN"
+    },
+    {
+      "vehicleId": "sundown-akros-50cc-1997-gasolina",
+      "fipeCodigo": "824001-9",
+      "displayName": "SUNDOWN AKROS 50cc",
+      "valorAtual": 1360,
+      "canonicalPath": "/fipe/sundown/akros-50cc-1997-824001-9/",
+      "ano": 1997,
+      "marca": "SUNDOWN"
+    },
+    {
+      "vehicleId": "sundown-akros-50cc-1998-gasolina",
+      "fipeCodigo": "824001-9",
+      "displayName": "SUNDOWN AKROS 50cc",
+      "valorAtual": 1414,
+      "canonicalPath": "/fipe/sundown/akros-50cc-1998-824001-9/",
+      "ano": 1998,
+      "marca": "SUNDOWN"
+    },
+    {
+      "vehicleId": "sundown-akros-90cc-1996-gasolina",
+      "fipeCodigo": "824002-7",
+      "displayName": "SUNDOWN AKROS 90cc",
+      "valorAtual": 1409,
+      "canonicalPath": "/fipe/sundown/akros-90cc-1996-824002-7/",
+      "ano": 1996,
+      "marca": "SUNDOWN"
+    },
+    {
+      "vehicleId": "sundown-akros-90cc-1997-gasolina",
+      "fipeCodigo": "824002-7",
+      "displayName": "SUNDOWN AKROS 90cc",
+      "valorAtual": 1545,
+      "canonicalPath": "/fipe/sundown/akros-90cc-1997-824002-7/",
+      "ano": 1997,
+      "marca": "SUNDOWN"
+    },
+    {
+      "vehicleId": "sundown-akros-90cc-1998-gasolina",
+      "fipeCodigo": "824002-7",
+      "displayName": "SUNDOWN AKROS 90cc",
+      "valorAtual": 1658,
+      "canonicalPath": "/fipe/sundown/akros-90cc-1998-824002-7/",
+      "ano": 1998,
+      "marca": "SUNDOWN"
+    }
+  ],
+  "stats": {
+    "total": 9
+  },
+  "meta": {
+    "geracaoId": "akros-1"
+  }
+}

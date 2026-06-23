@@ -1,0 +1,79 @@
+{
+  "tipo": "familia",
+  "slug": "155",
+  "canonicalPath": "/fipe/alfa-romeo/155/",
+  "titulo": "Alfa Romeo 155 - Tabela FIPE",
+  "descricao": "6 versoes e anos do Alfa Romeo 155 na Tabela FIPE.",
+  "seo": {
+    "title": "Alfa Romeo 155 - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes Alfa Romeo 155. 6 veiculos indexados.",
+    "h1": "Alfa Romeo 155 - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/alfa-romeo/155/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "alfa-romeo-155-1997-gasolina",
+      "fipeCodigo": "006003-8",
+      "displayName": "Alfa Romeo 155",
+      "valorAtual": 19024,
+      "canonicalPath": "/fipe/alfa-romeo/155-1997-006003-8/",
+      "ano": 1997,
+      "marca": "Alfa Romeo"
+    },
+    {
+      "vehicleId": "alfa-romeo-155-super-1997-gasolina",
+      "fipeCodigo": "006004-6",
+      "displayName": "Alfa Romeo 155 Super",
+      "valorAtual": 27050,
+      "canonicalPath": "/fipe/alfa-romeo/155-super-1997-006004-6/",
+      "ano": 1997,
+      "marca": "Alfa Romeo"
+    },
+    {
+      "vehicleId": "alfa-romeo-155-1996-gasolina",
+      "fipeCodigo": "006003-8",
+      "displayName": "Alfa Romeo 155",
+      "valorAtual": 18433,
+      "canonicalPath": "/fipe/alfa-romeo/155-1996-006003-8/",
+      "ano": 1996,
+      "marca": "Alfa Romeo"
+    },
+    {
+      "vehicleId": "alfa-romeo-155-super-1996-gasolina",
+      "fipeCodigo": "006004-6",
+      "displayName": "Alfa Romeo 155 Super",
+      "valorAtual": 26390,
+      "canonicalPath": "/fipe/alfa-romeo/155-super-1996-006004-6/",
+      "ano": 1996,
+      "marca": "Alfa Romeo"
+    },
+    {
+      "vehicleId": "alfa-romeo-155-1995-gasolina",
+      "fipeCodigo": "006003-8",
+      "displayName": "Alfa Romeo 155",
+      "valorAtual": 16476,
+      "canonicalPath": "/fipe/alfa-romeo/155-1995-006003-8/",
+      "ano": 1995,
+      "marca": "Alfa Romeo"
+    },
+    {
+      "vehicleId": "alfa-romeo-155-super-1995-gasolina",
+      "fipeCodigo": "006004-6",
+      "displayName": "Alfa Romeo 155 Super",
+      "valorAtual": 19262,
+      "canonicalPath": "/fipe/alfa-romeo/155-super-1995-006004-6/",
+      "ano": 1995,
+      "marca": "Alfa Romeo"
+    }
+  ],
+  "stats": {
+    "total": 6,
+    "precoMin": 16476,
+    "precoMax": 27050,
+    "anos": [
+      1997,
+      1996,
+      1995
+    ]
+  }
+}

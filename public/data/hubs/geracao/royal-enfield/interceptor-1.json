@@ -1,0 +1,75 @@
+{
+  "tipo": "geracao",
+  "slug": "interceptor-1",
+  "canonicalPath": "/geracao/royal-enfield/interceptor-1/",
+  "titulo": "Geracao interceptor-1",
+  "descricao": "6 veiculos da geracao interceptor-1.",
+  "seo": {
+    "title": "Geracao interceptor-1 - Precos FIPE",
+    "description": "Veiculos da geracao interceptor-1 na Tabela FIPE.",
+    "h1": "Geracao interceptor-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/royal-enfield/interceptor-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "royal-enfield-interceptor-650-custom-0-gasolina",
+      "fipeCodigo": "879016-7",
+      "displayName": "Royal Enfield Interceptor 650 Custom",
+      "valorAtual": 31656,
+      "canonicalPath": "/fipe/royal-enfield/interceptor-650-custom-0-879016-7/",
+      "ano": 0,
+      "marca": "Royal Enfield"
+    },
+    {
+      "vehicleId": "royal-enfield-interceptor-650-special-colorway-0-gasolina",
+      "fipeCodigo": "879018-3",
+      "displayName": "Royal Enfield Interceptor 650 Special Colorway",
+      "valorAtual": 29154,
+      "canonicalPath": "/fipe/royal-enfield/interceptor-650-special-colorway-0-879018-3/",
+      "ano": 0,
+      "marca": "Royal Enfield"
+    },
+    {
+      "vehicleId": "royal-enfield-interceptor-650-standard-0-gasolina",
+      "fipeCodigo": "879015-9",
+      "displayName": "Royal Enfield Interceptor 650 Standard",
+      "valorAtual": 31422,
+      "canonicalPath": "/fipe/royal-enfield/interceptor-650-standard-0-879015-9/",
+      "ano": 0,
+      "marca": "Royal Enfield"
+    },
+    {
+      "vehicleId": "royal-enfield-interceptor-bear-650-custom-0-gasolina",
+      "fipeCodigo": "879049-3",
+      "displayName": "Royal Enfield Interceptor Bear 650 Custom",
+      "valorAtual": 33711,
+      "canonicalPath": "/fipe/royal-enfield/interceptor-bear-650-custom-0-879049-3/",
+      "ano": 0,
+      "marca": "Royal Enfield"
+    },
+    {
+      "vehicleId": "royal-enfield-interceptor-bear-650-premium-0-gasolina",
+      "fipeCodigo": "879050-7",
+      "displayName": "Royal Enfield Interceptor Bear 650 Premium",
+      "valorAtual": 34393,
+      "canonicalPath": "/fipe/royal-enfield/interceptor-bear-650-premium-0-879050-7/",
+      "ano": 0,
+      "marca": "Royal Enfield"
+    },
+    {
+      "vehicleId": "royal-enfield-interceptor-bear-650-top-0-gasolina",
+      "fipeCodigo": "879051-5",
+      "displayName": "Royal Enfield Interceptor Bear 650 Top",
+      "valorAtual": 34608,
+      "canonicalPath": "/fipe/royal-enfield/interceptor-bear-650-top-0-879051-5/",
+      "ano": 0,
+      "marca": "Royal Enfield"
+    }
+  ],
+  "stats": {
+    "total": 6
+  },
+  "meta": {
+    "geracaoId": "interceptor-1"
+  }
+}

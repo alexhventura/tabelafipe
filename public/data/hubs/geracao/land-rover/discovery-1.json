@@ -1,0 +1,66 @@
+{
+  "tipo": "geracao",
+  "slug": "discovery-1",
+  "canonicalPath": "/geracao/land-rover/discovery-1/",
+  "titulo": "Geracao discovery-1",
+  "descricao": "5 veiculos da geracao discovery-1.",
+  "seo": {
+    "title": "Geracao discovery-1 - Precos FIPE",
+    "description": "Veiculos da geracao discovery-1 na Tabela FIPE.",
+    "h1": "Geracao discovery-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/land-rover/discovery-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "land-rover-discovery-dyn-hse-3-0-4x4-die-hib-0-hibrido",
+      "fipeCodigo": "033241-0",
+      "displayName": "Land Rover Discovery Dyn HSE 3.0 4x4 Die. (Hib.)",
+      "valorAtual": 759875,
+      "canonicalPath": "/fipe/land-rover/discovery-dyn-hse-3-0-4x4-die-hib-0-033241-0/",
+      "ano": 0,
+      "marca": "Land Rover"
+    },
+    {
+      "vehicleId": "land-rover-discovery-sp-se-dyn-2-0-p250-flex-aut-0-flex",
+      "fipeCodigo": "033232-1",
+      "displayName": "Land Rover Discovery Sp. SE Dyn 2.0 P250 Flex Aut.",
+      "valorAtual": 448450,
+      "canonicalPath": "/fipe/land-rover/discovery-sp-se-dyn-2-0-p250-flex-aut-0-033232-1/",
+      "ano": 0,
+      "marca": "Land Rover"
+    },
+    {
+      "vehicleId": "land-rover-discovery-sp-se-dyn-2-0-tb-die-hib-0-hibrido",
+      "fipeCodigo": "033240-2",
+      "displayName": "Land Rover Discovery Sp. SE Dyn 2.0 TB Die.(Híb.)",
+      "valorAtual": 480950,
+      "canonicalPath": "/fipe/land-rover/discovery-sp-se-dyn-2-0-tb-die-hib-0-033240-2/",
+      "ano": 0,
+      "marca": "Land Rover"
+    },
+    {
+      "vehicleId": "land-rover-discovery-sport-landmark-2-0-4x4-aut-0-flex",
+      "fipeCodigo": "033249-6",
+      "displayName": "Land Rover Discovery Sport Landmark 2.0 4x4 Aut.",
+      "valorAtual": 484995,
+      "canonicalPath": "/fipe/land-rover/discovery-sport-landmark-2-0-4x4-aut-0-033249-6/",
+      "ano": 0,
+      "marca": "Land Rover"
+    },
+    {
+      "vehicleId": "land-rover-discovery-tempest-3-0-d350-4x4-aut-0-hibrido",
+      "fipeCodigo": "033248-8",
+      "displayName": "Land Rover Discovery Tempest 3.0 D350 4X4 Aut.",
+      "valorAtual": 817990,
+      "canonicalPath": "/fipe/land-rover/discovery-tempest-3-0-d350-4x4-aut-0-033248-8/",
+      "ano": 0,
+      "marca": "Land Rover"
+    }
+  ],
+  "stats": {
+    "total": 5
+  },
+  "meta": {
+    "geracaoId": "discovery-1"
+  }
+}

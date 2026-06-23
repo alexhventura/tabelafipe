@@ -1,0 +1,111 @@
+{
+  "tipo": "geracao",
+  "slug": "s60-3",
+  "canonicalPath": "/geracao/volvo/s60-3/",
+  "titulo": "Geracao s60-3",
+  "descricao": "10 veiculos da geracao s60-3.",
+  "seo": {
+    "title": "Geracao s60-3 - Precos FIPE",
+    "description": "Veiculos da geracao s60-3 na Tabela FIPE.",
+    "h1": "Geracao s60-3",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/volvo/s60-3/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "volvo-s60-t-4-momentum-2-0-190cv-4p-2020-gasolina",
+      "fipeCodigo": "029115-3",
+      "displayName": "Volvo S60 T-4 MOMENTUM 2.0 190cv 4p",
+      "valorAtual": 135270,
+      "canonicalPath": "/fipe/volvo/s60-t-4-momentum-2-0-190cv-4p-2020-029115-3/",
+      "ano": 2020,
+      "marca": "Volvo"
+    },
+    {
+      "vehicleId": "volvo-s60-t-4-momentum-2-0-190cv-4p-2021-gasolina",
+      "fipeCodigo": "029115-3",
+      "displayName": "Volvo S60 T-4 MOMENTUM 2.0 190cv 4p",
+      "valorAtual": 172355,
+      "canonicalPath": "/fipe/volvo/s60-t-4-momentum-2-0-190cv-4p-2021-029115-3/",
+      "ano": 2021,
+      "marca": "Volvo"
+    },
+    {
+      "vehicleId": "volvo-s60-t-5-inscription-2-0-254cv-4p-2020-gasolina",
+      "fipeCodigo": "029136-6",
+      "displayName": "Volvo S60 T-5 INSCRIPTION 2.0 254cv 4p",
+      "valorAtual": 161535,
+      "canonicalPath": "/fipe/volvo/s60-t-5-inscription-2-0-254cv-4p-2020-029136-6/",
+      "ano": 2020,
+      "marca": "Volvo"
+    },
+    {
+      "vehicleId": "volvo-s60-t-5-inscription-2-0-254cv-4p-2021-gasolina",
+      "fipeCodigo": "029136-6",
+      "displayName": "Volvo S60 T-5 INSCRIPTION 2.0 254cv 4p",
+      "valorAtual": 173009,
+      "canonicalPath": "/fipe/volvo/s60-t-5-inscription-2-0-254cv-4p-2021-029136-6/",
+      "ano": 2021,
+      "marca": "Volvo"
+    },
+    {
+      "vehicleId": "volvo-s60-t-8-r-design-2-0-407cv-hibrido-2020-hibrido",
+      "fipeCodigo": "029135-8",
+      "displayName": "Volvo S60 T-8 R-DESIGN 2.0 407cv (Híbrido)",
+      "valorAtual": 181973,
+      "canonicalPath": "/fipe/volvo/s60-t-8-r-design-2-0-407cv-hibrido-2020-029135-8/",
+      "ano": 2020,
+      "marca": "Volvo"
+    },
+    {
+      "vehicleId": "volvo-s60-t-8-r-design-2-0-407cv-hibrido-2021-hibrido",
+      "fipeCodigo": "029135-8",
+      "displayName": "Volvo S60 T-8 R-DESIGN 2.0 407cv (Híbrido)",
+      "valorAtual": 186523,
+      "canonicalPath": "/fipe/volvo/s60-t-8-r-design-2-0-407cv-hibrido-2021-029135-8/",
+      "ano": 2021,
+      "marca": "Volvo"
+    },
+    {
+      "vehicleId": "volvo-s60-t-8-r-design-2-0-407cv-hibrido-2022-hibrido",
+      "fipeCodigo": "029135-8",
+      "displayName": "Volvo S60 T-8 R-DESIGN 2.0 407cv (Híbrido)",
+      "valorAtual": 224975,
+      "canonicalPath": "/fipe/volvo/s60-t-8-r-design-2-0-407cv-hibrido-2022-029135-8/",
+      "ano": 2022,
+      "marca": "Volvo"
+    },
+    {
+      "vehicleId": "volvo-s60-t8-polestar-2-0-hibrido-2020-hibrido",
+      "fipeCodigo": "029138-2",
+      "displayName": "Volvo S60 T8 POLESTAR 2.0  (Híbrido)",
+      "valorAtual": 212905,
+      "canonicalPath": "/fipe/volvo/s60-t8-polestar-2-0-hibrido-2020-029138-2/",
+      "ano": 2020,
+      "marca": "Volvo"
+    },
+    {
+      "vehicleId": "volvo-s60-t8-polestar-2-0-hibrido-2021-hibrido",
+      "fipeCodigo": "029138-2",
+      "displayName": "Volvo S60 T8 POLESTAR 2.0  (Híbrido)",
+      "valorAtual": 218228,
+      "canonicalPath": "/fipe/volvo/s60-t8-polestar-2-0-hibrido-2021-029138-2/",
+      "ano": 2021,
+      "marca": "Volvo"
+    },
+    {
+      "vehicleId": "volvo-s60-t8-polestar-2-0-hibrido-2022-hibrido",
+      "fipeCodigo": "029138-2",
+      "displayName": "Volvo S60 T8 POLESTAR 2.0  (Híbrido)",
+      "valorAtual": 276100,
+      "canonicalPath": "/fipe/volvo/s60-t8-polestar-2-0-hibrido-2022-029138-2/",
+      "ano": 2022,
+      "marca": "Volvo"
+    }
+  ],
+  "stats": {
+    "total": 10
+  },
+  "meta": {
+    "geracaoId": "s60-3"
+  }
+}

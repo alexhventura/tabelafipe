@@ -1,0 +1,48 @@
+{
+  "tipo": "geracao",
+  "slug": "m235i-2",
+  "canonicalPath": "/geracao/bmw/m235i-2/",
+  "titulo": "Geracao m235i-2",
+  "descricao": "3 veiculos da geracao m235i-2.",
+  "seo": {
+    "title": "Geracao m235i-2 - Precos FIPE",
+    "description": "Veiculos da geracao m235i-2 na Tabela FIPE.",
+    "h1": "Geracao m235i-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/bmw/m235i-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "bmw-m235i-xdrive-gran-coupe-2-0-aut-2020-gasolina",
+      "fipeCodigo": "009270-3",
+      "displayName": "BMW M235i XDRIVE Gran Coupé 2.0 Aut.",
+      "valorAtual": 237772,
+      "canonicalPath": "/fipe/bmw/m235i-xdrive-gran-coupe-2-0-aut-2020-009270-3/",
+      "ano": 2020,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-m235i-xdrive-gran-coupe-2-0-aut-2021-gasolina",
+      "fipeCodigo": "009270-3",
+      "displayName": "BMW M235i XDRIVE Gran Coupé 2.0 Aut.",
+      "valorAtual": 250168,
+      "canonicalPath": "/fipe/bmw/m235i-xdrive-gran-coupe-2-0-aut-2021-009270-3/",
+      "ano": 2021,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-m235i-xdrive-gran-coupe-2-0-aut-2022-gasolina",
+      "fipeCodigo": "009270-3",
+      "displayName": "BMW M235i XDRIVE Gran Coupé 2.0 Aut.",
+      "valorAtual": 258862,
+      "canonicalPath": "/fipe/bmw/m235i-xdrive-gran-coupe-2-0-aut-2022-009270-3/",
+      "ano": 2022,
+      "marca": "BMW"
+    }
+  ],
+  "stats": {
+    "total": 3
+  },
+  "meta": {
+    "geracaoId": "m235i-2"
+  }
+}

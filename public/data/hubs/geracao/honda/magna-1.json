@@ -1,0 +1,66 @@
+{
+  "tipo": "geracao",
+  "slug": "magna-1",
+  "canonicalPath": "/geracao/honda/magna-1/",
+  "titulo": "Geracao magna-1",
+  "descricao": "5 veiculos da geracao magna-1.",
+  "seo": {
+    "title": "Geracao magna-1 - Precos FIPE",
+    "description": "Veiculos da geracao magna-1 na Tabela FIPE.",
+    "h1": "Geracao magna-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/honda/magna-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "honda-magna-750-1994-gasolina",
+      "fipeCodigo": "811028-0",
+      "displayName": "HONDA MAGNA 750",
+      "valorAtual": 27523,
+      "canonicalPath": "/fipe/honda/magna-750-1994-811028-0/",
+      "ano": 1994,
+      "marca": "HONDA"
+    },
+    {
+      "vehicleId": "honda-magna-750-1995-gasolina",
+      "fipeCodigo": "811028-0",
+      "displayName": "HONDA MAGNA 750",
+      "valorAtual": 29313,
+      "canonicalPath": "/fipe/honda/magna-750-1995-811028-0/",
+      "ano": 1995,
+      "marca": "HONDA"
+    },
+    {
+      "vehicleId": "honda-magna-750-1996-gasolina",
+      "fipeCodigo": "811028-0",
+      "displayName": "HONDA MAGNA 750",
+      "valorAtual": 30046,
+      "canonicalPath": "/fipe/honda/magna-750-1996-811028-0/",
+      "ano": 1996,
+      "marca": "HONDA"
+    },
+    {
+      "vehicleId": "honda-magna-750-1997-gasolina",
+      "fipeCodigo": "811028-0",
+      "displayName": "HONDA MAGNA 750",
+      "valorAtual": 30798,
+      "canonicalPath": "/fipe/honda/magna-750-1997-811028-0/",
+      "ano": 1997,
+      "marca": "HONDA"
+    },
+    {
+      "vehicleId": "honda-magna-750-1998-gasolina",
+      "fipeCodigo": "811028-0",
+      "displayName": "HONDA MAGNA 750",
+      "valorAtual": 31568,
+      "canonicalPath": "/fipe/honda/magna-750-1998-811028-0/",
+      "ano": 1998,
+      "marca": "HONDA"
+    }
+  ],
+  "stats": {
+    "total": 5
+  },
+  "meta": {
+    "geracaoId": "magna-1"
+  }
+}

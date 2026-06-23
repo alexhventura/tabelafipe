@@ -1,0 +1,741 @@
+{
+  "tipo": "geracao",
+  "slug": "c-2",
+  "canonicalPath": "/geracao/bmw/c-2/",
+  "titulo": "Geracao c-2",
+  "descricao": "287 veiculos da geracao c-2.",
+  "seo": {
+    "title": "Geracao c-2 - Precos FIPE",
+    "description": "Veiculos da geracao c-2 na Tabela FIPE.",
+    "h1": "Geracao c-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/bmw/c-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "bmw-c-600-sport-2013-gasolina",
+      "fipeCodigo": "803053-7",
+      "displayName": "BMW C 600 Sport",
+      "valorAtual": 37161,
+      "canonicalPath": "/fipe/bmw/c-600-sport-2013-803053-7/",
+      "ano": 2013,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-c-600-sport-2014-gasolina",
+      "fipeCodigo": "803053-7",
+      "displayName": "BMW C 600 Sport",
+      "valorAtual": 41195,
+      "canonicalPath": "/fipe/bmw/c-600-sport-2014-803053-7/",
+      "ano": 2014,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-c-600-sport-2015-gasolina",
+      "fipeCodigo": "803053-7",
+      "displayName": "BMW C 600 Sport",
+      "valorAtual": 42225,
+      "canonicalPath": "/fipe/bmw/c-600-sport-2015-803053-7/",
+      "ano": 2015,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-c-650-gt-2014-gasolina",
+      "fipeCodigo": "803057-0",
+      "displayName": "BMW C 650 GT",
+      "valorAtual": 43084,
+      "canonicalPath": "/fipe/bmw/c-650-gt-2014-803057-0/",
+      "ano": 2014,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-c-650-gt-2015-gasolina",
+      "fipeCodigo": "803057-0",
+      "displayName": "BMW C 650 GT",
+      "valorAtual": 50675,
+      "canonicalPath": "/fipe/bmw/c-650-gt-2015-803057-0/",
+      "ano": 2015,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "honda-c-100-biz-es-2012-gasolina",
+      "fipeCodigo": "811002-6",
+      "displayName": "HONDA C 100 BIZ-ES",
+      "valorAtual": 10349,
+      "canonicalPath": "/fipe/honda/c-100-biz-es-2012-811002-6/",
+      "ano": 2012,
+      "marca": "HONDA"
+    },
+    {
+      "vehicleId": "honda-c-100-biz-es-2013-gasolina",
+      "fipeCodigo": "811002-6",
+      "displayName": "HONDA C 100 BIZ-ES",
+      "valorAtual": 10608,
+      "canonicalPath": "/fipe/honda/c-100-biz-es-2013-811002-6/",
+      "ano": 2013,
+      "marca": "HONDA"
+    },
+    {
+      "vehicleId": "honda-c-100-biz-es-2014-gasolina",
+      "fipeCodigo": "811002-6",
+      "displayName": "HONDA C 100 BIZ-ES",
+      "valorAtual": 10874,
+      "canonicalPath": "/fipe/honda/c-100-biz-es-2014-811002-6/",
+      "ano": 2014,
+      "marca": "HONDA"
+    },
+    {
+      "vehicleId": "honda-c-100-biz-es-2015-gasolina",
+      "fipeCodigo": "811002-6",
+      "displayName": "HONDA C 100 BIZ-ES",
+      "valorAtual": 11621,
+      "canonicalPath": "/fipe/honda/c-100-biz-es-2015-811002-6/",
+      "ano": 2015,
+      "marca": "HONDA"
+    },
+    {
+      "vehicleId": "honda-c-100-biz-100-biz-ks-2013-gasolina",
+      "fipeCodigo": "811003-4",
+      "displayName": "HONDA C 100 BIZ/ 100 BIZ KS",
+      "valorAtual": 9829,
+      "canonicalPath": "/fipe/honda/c-100-biz-100-biz-ks-2013-811003-4/",
+      "ano": 2013,
+      "marca": "HONDA"
+    },
+    {
+      "vehicleId": "honda-c-100-biz-100-biz-ks-2014-gasolina",
+      "fipeCodigo": "811003-4",
+      "displayName": "HONDA C 100 BIZ/ 100 BIZ KS",
+      "valorAtual": 10105,
+      "canonicalPath": "/fipe/honda/c-100-biz-100-biz-ks-2014-811003-4/",
+      "ano": 2014,
+      "marca": "HONDA"
+    },
+    {
+      "vehicleId": "honda-c-100-biz-100-biz-ks-2015-gasolina",
+      "fipeCodigo": "811003-4",
+      "displayName": "HONDA C 100 BIZ/ 100 BIZ KS",
+      "valorAtual": 10695,
+      "canonicalPath": "/fipe/honda/c-100-biz-100-biz-ks-2015-811003-4/",
+      "ano": 2015,
+      "marca": "HONDA"
+    },
+    {
+      "vehicleId": "mercedes-benz-c-180-1-6-turbo-16v-flex-16v-aut-2015-gasolina",
+      "fipeCodigo": "021331-4",
+      "displayName": "Mercedes-Benz C-180 1.6 Turbo 16V/Flex 16V Aut.",
+      "valorAtual": 96596,
+      "canonicalPath": "/fipe/mercedes-benz/c-180-1-6-turbo-16v-flex-16v-aut-2015-021331-4/",
+      "ano": 2015,
+      "marca": "Mercedes-Benz"
+    },
+    {
+      "vehicleId": "mercedes-benz-c-180-1-6-turbo-16v-flex-16v-aut-2016-gasolina",
+      "fipeCodigo": "021331-4",
+      "displayName": "Mercedes-Benz C-180 1.6 Turbo 16V/Flex 16V Aut.",
+      "valorAtual": 102899,
+      "canonicalPath": "/fipe/mercedes-benz/c-180-1-6-turbo-16v-flex-16v-aut-2016-021331-4/",
+      "ano": 2016,
+      "marca": "Mercedes-Benz"
+    },
+    {
+      "vehicleId": "mercedes-benz-c-180-1-6-turbo-16v-flex-16v-aut-2017-gasolina",
+      "fipeCodigo": "021331-4",
+      "displayName": "Mercedes-Benz C-180 1.6 Turbo 16V/Flex 16V Aut.",
+      "valorAtual": 110398,
+      "canonicalPath": "/fipe/mercedes-benz/c-180-1-6-turbo-16v-flex-16v-aut-2017-021331-4/",
+      "ano": 2017,
+      "marca": "Mercedes-Benz"
+    },
+    {
+      "vehicleId": "mercedes-benz-c-180-cgi-avant-1-6-1-6-flextb-16v-aut-2015-gasolina",
+      "fipeCodigo": "021308-0",
+      "displayName": "Mercedes-Benz C-180 CGI Avant. 1.6/1.6 FlexTB 16V Aut.",
+      "valorAtual": 96776,
+      "canonicalPath": "/fipe/mercedes-benz/c-180-cgi-avant-1-6-1-6-flextb-16v-aut-2015-021308-0/",
+      "ano": 2015,
+      "marca": "Mercedes-Benz"
+    },
+    {
+      "vehicleId": "mercedes-benz-c-180-cgi-avant-1-6-1-6-flextb-16v-aut-2016-gasolina",
+      "fipeCodigo": "021308-0",
+      "displayName": "Mercedes-Benz C-180 CGI Avant. 1.6/1.6 FlexTB 16V Aut.",
+      "valorAtual": 103479,
+      "canonicalPath": "/fipe/mercedes-benz/c-180-cgi-avant-1-6-1-6-flextb-16v-aut-2016-021308-0/",
+      "ano": 2016,
+      "marca": "Mercedes-Benz"
+    },
+    {
+      "vehicleId": "mercedes-benz-c-180-cgi-avant-1-6-1-6-flextb-16v-aut-2017-gasolina",
+      "fipeCodigo": "021308-0",
+      "displayName": "Mercedes-Benz C-180 CGI Avant. 1.6/1.6 FlexTB 16V Aut.",
+      "valorAtual": 109600,
+      "canonicalPath": "/fipe/mercedes-benz/c-180-cgi-avant-1-6-1-6-flextb-16v-aut-2017-021308-0/",
+      "ano": 2017,
+      "marca": "Mercedes-Benz"
+    },
+    {
+      "vehicleId": "mercedes-benz-c-180-cgi-avant-1-6-1-6-flextb-16v-aut-2018-gasolina",
+      "fipeCodigo": "021308-0",
+      "displayName": "Mercedes-Benz C-180 CGI Avant. 1.6/1.6 FlexTB 16V Aut.",
+      "valorAtual": 115776,
+      "canonicalPath": "/fipe/mercedes-benz/c-180-cgi-avant-1-6-1-6-flextb-16v-aut-2018-021308-0/",
+      "ano": 2018,
+      "marca": "Mercedes-Benz"
+    },
+    {
+      "vehicleId": "mercedes-benz-c-180-cgi-avant-1-6-1-6-flextb-16v-aut-2019-gasolina",
+      "fipeCodigo": "021308-0",
+      "displayName": "Mercedes-Benz C-180 CGI Avant. 1.6/1.6 FlexTB 16V Aut.",
+      "valorAtual": 131152,
+      "canonicalPath": "/fipe/mercedes-benz/c-180-cgi-avant-1-6-1-6-flextb-16v-aut-2019-021308-0/",
+      "ano": 2019,
+      "marca": "Mercedes-Benz"
+    },
+    {
+      "vehicleId": "mercedes-benz-c-180-cgi-avant-1-6-1-6-flextb-16v-aut-2020-gasolina",
+      "fipeCodigo": "021308-0",
+      "displayName": "Mercedes-Benz C-180 CGI Avant. 1.6/1.6 FlexTB 16V Aut.",
+      "valorAtual": 145275,
+      "canonicalPath": "/fipe/mercedes-benz/c-180-cgi-avant-1-6-1-6-flextb-16v-aut-2020-021308-0/",
+      "ano": 2020,
+      "marca": "Mercedes-Benz"
+    },
+    {
+      "vehicleId": "mercedes-benz-c-180-cgi-classic-1-8-16v-156cv-aut-2011-gasolina",
+      "fipeCodigo": "021239-3",
+      "displayName": "Mercedes-Benz C-180 CGI Classic 1.8 16V 156cv Aut.",
+      "valorAtual": 58097,
+      "canonicalPath": "/fipe/mercedes-benz/c-180-cgi-classic-1-8-16v-156cv-aut-2011-021239-3/",
+      "ano": 2011,
+      "marca": "Mercedes-Benz"
+    },
+    {
+      "vehicleId": "mercedes-benz-c-180-cgi-classic-1-8-16v-156cv-aut-2012-gasolina",
+      "fipeCodigo": "021239-3",
+      "displayName": "Mercedes-Benz C-180 CGI Classic 1.8 16V 156cv Aut.",
+      "valorAtual": 64947,
+      "canonicalPath": "/fipe/mercedes-benz/c-180-cgi-classic-1-8-16v-156cv-aut-2012-021239-3/",
+      "ano": 2012,
+      "marca": "Mercedes-Benz"
+    },
+    {
+      "vehicleId": "mercedes-benz-c-180-cgi-coupe-1-8-16v-156cv-aut-2012-gasolina",
+      "fipeCodigo": "021246-6",
+      "displayName": "Mercedes-Benz C-180 CGI Coupe 1.8 16V 156cv Aut.",
+      "valorAtual": 74173,
+      "canonicalPath": "/fipe/mercedes-benz/c-180-cgi-coupe-1-8-16v-156cv-aut-2012-021246-6/",
+      "ano": 2012,
+      "marca": "Mercedes-Benz"
+    },
+    {
+      "vehicleId": "mercedes-benz-c-180-cgi-coupe-avant-1-6-tb-16v-aut-2016-gasolina",
+      "fipeCodigo": "021377-2",
+      "displayName": "Mercedes-Benz C-180 CGI Coupe Avant. 1.6 TB 16V Aut.",
+      "valorAtual": 111771,
+      "canonicalPath": "/fipe/mercedes-benz/c-180-cgi-coupe-avant-1-6-tb-16v-aut-2016-021377-2/",
+      "ano": 2016,
+      "marca": "Mercedes-Benz"
+    },
+    {
+      "vehicleId": "mercedes-benz-c-180-cgi-coupe-avant-1-6-tb-16v-aut-2017-gasolina",
+      "fipeCodigo": "021377-2",
+      "displayName": "Mercedes-Benz C-180 CGI Coupe Avant. 1.6 TB 16V Aut.",
+      "valorAtual": 144336,
+      "canonicalPath": "/fipe/mercedes-benz/c-180-cgi-coupe-avant-1-6-tb-16v-aut-2017-021377-2/",
+      "ano": 2017,
+      "marca": "Mercedes-Benz"
+    },
+    {
+      "vehicleId": "mercedes-benz-c-180-cgi-coupe-avant-1-6-tb-16v-aut-2018-gasolina",
+      "fipeCodigo": "021377-2",
+      "displayName": "Mercedes-Benz C-180 CGI Coupe Avant. 1.6 TB 16V Aut.",
+      "valorAtual": 150836,
+      "canonicalPath": "/fipe/mercedes-benz/c-180-cgi-coupe-avant-1-6-tb-16v-aut-2018-021377-2/",
+      "ano": 2018,
+      "marca": "Mercedes-Benz"
+    },
+    {
+      "vehicleId": "mercedes-benz-c-180-cgi-coupe-avant-1-6-tb-16v-aut-2019-gasolina",
+      "fipeCodigo": "021377-2",
+      "displayName": "Mercedes-Benz C-180 CGI Coupe Avant. 1.6 TB 16V Aut.",
+      "valorAtual": 176859,
+      "canonicalPath": "/fipe/mercedes-benz/c-180-cgi-coupe-avant-1-6-tb-16v-aut-2019-021377-2/",
+      "ano": 2019,
+      "marca": "Mercedes-Benz"
+    },
+    {
+      "vehicleId": "mercedes-benz-c-180-cgi-coupe-sport-1-5-tb-16v-aut-2020-gasolina",
+      "fipeCodigo": "021436-1",
+      "displayName": "Mercedes-Benz C-180 CGI Coupe Sport 1.5 TB 16V Aut.",
+      "valorAtual": 241674,
+      "canonicalPath": "/fipe/mercedes-benz/c-180-cgi-coupe-sport-1-5-tb-16v-aut-2020-021436-1/",
+      "ano": 2020,
+      "marca": "Mercedes-Benz"
+    },
+    {
+      "vehicleId": "mercedes-benz-c-180-cgi-coupe-sport-1-6-tb-16v-aut-2013-gasolina",
+      "fipeCodigo": "021281-4",
+      "displayName": "Mercedes-Benz C-180 CGI Coupe Sport 1.6 TB 16V Aut.",
+      "valorAtual": 81128,
+      "canonicalPath": "/fipe/mercedes-benz/c-180-cgi-coupe-sport-1-6-tb-16v-aut-2013-021281-4/",
+      "ano": 2013,
+      "marca": "Mercedes-Benz"
+    },
+    {
+      "vehicleId": "mercedes-benz-c-180-cgi-coupe-sport-1-6-tb-16v-aut-2014-gasolina",
+      "fipeCodigo": "021281-4",
+      "displayName": "Mercedes-Benz C-180 CGI Coupe Sport 1.6 TB 16V Aut.",
+      "valorAtual": 83157,
+      "canonicalPath": "/fipe/mercedes-benz/c-180-cgi-coupe-sport-1-6-tb-16v-aut-2014-021281-4/",
+      "ano": 2014,
+      "marca": "Mercedes-Benz"
+    },
+    {
+      "vehicleId": "mercedes-benz-c-180-cgi-coupe-sport-1-6-tb-16v-aut-2015-gasolina",
+      "fipeCodigo": "021281-4",
+      "displayName": "Mercedes-Benz C-180 CGI Coupe Sport 1.6 TB 16V Aut.",
+      "valorAtual": 93507,
+      "canonicalPath": "/fipe/mercedes-benz/c-180-cgi-coupe-sport-1-6-tb-16v-aut-2015-021281-4/",
+      "ano": 2015,
+      "marca": "Mercedes-Benz"
+    },
+    {
+      "vehicleId": "mercedes-benz-c-180-cgi-coupe-sport-1-6-tb-16v-aut-2019-gasolina",
+      "fipeCodigo": "021281-4",
+      "displayName": "Mercedes-Benz C-180 CGI Coupe Sport 1.6 TB 16V Aut.",
+      "valorAtual": 170924,
+      "canonicalPath": "/fipe/mercedes-benz/c-180-cgi-coupe-sport-1-6-tb-16v-aut-2019-021281-4/",
+      "ano": 2019,
+      "marca": "Mercedes-Benz"
+    },
+    {
+      "vehicleId": "mercedes-benz-c-180-cgi-coupe-sport-1-6-tb-16v-aut-2020-gasolina",
+      "fipeCodigo": "021281-4",
+      "displayName": "Mercedes-Benz C-180 CGI Coupe Sport 1.6 TB 16V Aut.",
+      "valorAtual": 204791,
+      "canonicalPath": "/fipe/mercedes-benz/c-180-cgi-coupe-sport-1-6-tb-16v-aut-2020-021281-4/",
+      "ano": 2020,
+      "marca": "Mercedes-Benz"
+    },
+    {
+      "vehicleId": "mercedes-benz-c-180-cgi-estate-avant-1-6-tb-16v-aut-2015-gasolina",
+      "fipeCodigo": "021320-9",
+      "displayName": "Mercedes-Benz C-180 CGI Estate Avant. 1.6 TB 16V Aut.",
+      "valorAtual": 102882,
+      "canonicalPath": "/fipe/mercedes-benz/c-180-cgi-estate-avant-1-6-tb-16v-aut-2015-021320-9/",
+      "ano": 2015,
+      "marca": "Mercedes-Benz"
+    },
+    {
+      "vehicleId": "mercedes-benz-c-180-cgi-estate-avant-1-6-tb-16v-aut-2016-gasolina",
+      "fipeCodigo": "021320-9",
+      "displayName": "Mercedes-Benz C-180 CGI Estate Avant. 1.6 TB 16V Aut.",
+      "valorAtual": 106316,
+      "canonicalPath": "/fipe/mercedes-benz/c-180-cgi-estate-avant-1-6-tb-16v-aut-2016-021320-9/",
+      "ano": 2016,
+      "marca": "Mercedes-Benz"
+    },
+    {
+      "vehicleId": "mercedes-benz-c-180-cgi-estate-avant-1-6-tb-16v-aut-2017-gasolina",
+      "fipeCodigo": "021320-9",
+      "displayName": "Mercedes-Benz C-180 CGI Estate Avant. 1.6 TB 16V Aut.",
+      "valorAtual": 112489,
+      "canonicalPath": "/fipe/mercedes-benz/c-180-cgi-estate-avant-1-6-tb-16v-aut-2017-021320-9/",
+      "ano": 2017,
+      "marca": "Mercedes-Benz"
+    },
+    {
+      "vehicleId": "mercedes-benz-c-180-cgi-exc-1-6-1-6-flex-tb-16v-aut-2015-gasolina",
+      "fipeCodigo": "021307-1",
+      "displayName": "Mercedes-Benz C-180 CGI Exc. 1.6/1.6 Flex TB 16V  Aut.",
+      "valorAtual": 101671,
+      "canonicalPath": "/fipe/mercedes-benz/c-180-cgi-exc-1-6-1-6-flex-tb-16v-aut-2015-021307-1/",
+      "ano": 2015,
+      "marca": "Mercedes-Benz"
+    },
+    {
+      "vehicleId": "mercedes-benz-c-180-cgi-exc-1-6-1-6-flex-tb-16v-aut-2016-gasolina",
+      "fipeCodigo": "021307-1",
+      "displayName": "Mercedes-Benz C-180 CGI Exc. 1.6/1.6 Flex TB 16V  Aut.",
+      "valorAtual": 104213,
+      "canonicalPath": "/fipe/mercedes-benz/c-180-cgi-exc-1-6-1-6-flex-tb-16v-aut-2016-021307-1/",
+      "ano": 2016,
+      "marca": "Mercedes-Benz"
+    },
+    {
+      "vehicleId": "mercedes-benz-c-180-cgi-exc-1-6-1-6-flex-tb-16v-aut-2017-gasolina",
+      "fipeCodigo": "021307-1",
+      "displayName": "Mercedes-Benz C-180 CGI Exc. 1.6/1.6 Flex TB 16V  Aut.",
+      "valorAtual": 117705,
+      "canonicalPath": "/fipe/mercedes-benz/c-180-cgi-exc-1-6-1-6-flex-tb-16v-aut-2017-021307-1/",
+      "ano": 2017,
+      "marca": "Mercedes-Benz"
+    },
+    {
+      "vehicleId": "mercedes-benz-c-180-cgi-exc-1-6-1-6-flex-tb-16v-aut-2018-gasolina",
+      "fipeCodigo": "021307-1",
+      "displayName": "Mercedes-Benz C-180 CGI Exc. 1.6/1.6 Flex TB 16V  Aut.",
+      "valorAtual": 120648,
+      "canonicalPath": "/fipe/mercedes-benz/c-180-cgi-exc-1-6-1-6-flex-tb-16v-aut-2018-021307-1/",
+      "ano": 2018,
+      "marca": "Mercedes-Benz"
+    },
+    {
+      "vehicleId": "mercedes-benz-c-180-cgi-exc-1-6-1-6-flex-tb-16v-aut-2019-gasolina",
+      "fipeCodigo": "021307-1",
+      "displayName": "Mercedes-Benz C-180 CGI Exc. 1.6/1.6 Flex TB 16V  Aut.",
+      "valorAtual": 135020,
+      "canonicalPath": "/fipe/mercedes-benz/c-180-cgi-exc-1-6-1-6-flex-tb-16v-aut-2019-021307-1/",
+      "ano": 2019,
+      "marca": "Mercedes-Benz"
+    },
+    {
+      "vehicleId": "mercedes-benz-c-180-cgi-exc-1-6-1-6-flex-tb-16v-aut-2020-gasolina",
+      "fipeCodigo": "021307-1",
+      "displayName": "Mercedes-Benz C-180 CGI Exc. 1.6/1.6 Flex TB 16V  Aut.",
+      "valorAtual": 148679,
+      "canonicalPath": "/fipe/mercedes-benz/c-180-cgi-exc-1-6-1-6-flex-tb-16v-aut-2020-021307-1/",
+      "ano": 2020,
+      "marca": "Mercedes-Benz"
+    },
+    {
+      "vehicleId": "mercedes-benz-c-180-cgi-sport-1-6-tb-16v-156cv-aut-2013-gasolina",
+      "fipeCodigo": "021280-6",
+      "displayName": "Mercedes-Benz C-180 CGI Sport 1.6 TB 16V 156cv Aut.",
+      "valorAtual": 69886,
+      "canonicalPath": "/fipe/mercedes-benz/c-180-cgi-sport-1-6-tb-16v-156cv-aut-2013-021280-6/",
+      "ano": 2013,
+      "marca": "Mercedes-Benz"
+    },
+    {
+      "vehicleId": "mercedes-benz-c-180-cgi-sport-1-6-tb-16v-156cv-aut-2014-gasolina",
+      "fipeCodigo": "021280-6",
+      "displayName": "Mercedes-Benz C-180 CGI Sport 1.6 TB 16V 156cv Aut.",
+      "valorAtual": 78733,
+      "canonicalPath": "/fipe/mercedes-benz/c-180-cgi-sport-1-6-tb-16v-156cv-aut-2014-021280-6/",
+      "ano": 2014,
+      "marca": "Mercedes-Benz"
+    },
+    {
+      "vehicleId": "mercedes-benz-c-180-cgi-touring-1-8-16v-aut-2012-gasolina",
+      "fipeCodigo": "021255-5",
+      "displayName": "Mercedes-Benz C-180 CGI Touring 1.8 16V Aut.",
+      "valorAtual": 65631,
+      "canonicalPath": "/fipe/mercedes-benz/c-180-cgi-touring-1-8-16v-aut-2012-021255-5/",
+      "ano": 2012,
+      "marca": "Mercedes-Benz"
+    },
+    {
+      "vehicleId": "mercedes-benz-c-180-cgi-touring-sport-1-6-tb-aut-2013-gasolina",
+      "fipeCodigo": "021282-2",
+      "displayName": "Mercedes-Benz C-180 CGI Touring Sport 1.6 TB Aut.",
+      "valorAtual": 78002,
+      "canonicalPath": "/fipe/mercedes-benz/c-180-cgi-touring-sport-1-6-tb-aut-2013-021282-2/",
+      "ano": 2013,
+      "marca": "Mercedes-Benz"
+    },
+    {
+      "vehicleId": "mercedes-benz-c-180-cgi-touring-sport-1-6-tb-aut-2014-gasolina",
+      "fipeCodigo": "021282-2",
+      "displayName": "Mercedes-Benz C-180 CGI Touring Sport 1.6 TB Aut.",
+      "valorAtual": 85460,
+      "canonicalPath": "/fipe/mercedes-benz/c-180-cgi-touring-sport-1-6-tb-aut-2014-021282-2/",
+      "ano": 2014,
+      "marca": "Mercedes-Benz"
+    },
+    {
+      "vehicleId": "mercedes-benz-c-180-classic-classic-plus-elegance-1993-gasolina",
+      "fipeCodigo": "021001-3",
+      "displayName": "Mercedes-Benz C-180 Classic/Classic Plus/Elegance",
+      "valorAtual": 19268,
+      "canonicalPath": "/fipe/mercedes-benz/c-180-classic-classic-plus-elegance-1993-021001-3/",
+      "ano": 1993,
+      "marca": "Mercedes-Benz"
+    },
+    {
+      "vehicleId": "mercedes-benz-c-180-classic-classic-plus-elegance-1994-gasolina",
+      "fipeCodigo": "021001-3",
+      "displayName": "Mercedes-Benz C-180 Classic/Classic Plus/Elegance",
+      "valorAtual": 22752,
+      "canonicalPath": "/fipe/mercedes-benz/c-180-classic-classic-plus-elegance-1994-021001-3/",
+      "ano": 1994,
+      "marca": "Mercedes-Benz"
+    },
+    {
+      "vehicleId": "mercedes-benz-c-180-classic-classic-plus-elegance-1995-gasolina",
+      "fipeCodigo": "021001-3",
+      "displayName": "Mercedes-Benz C-180 Classic/Classic Plus/Elegance",
+      "valorAtual": 27154,
+      "canonicalPath": "/fipe/mercedes-benz/c-180-classic-classic-plus-elegance-1995-021001-3/",
+      "ano": 1995,
+      "marca": "Mercedes-Benz"
+    },
+    {
+      "vehicleId": "mercedes-benz-c-180-classic-classic-plus-elegance-1996-gasolina",
+      "fipeCodigo": "021001-3",
+      "displayName": "Mercedes-Benz C-180 Classic/Classic Plus/Elegance",
+      "valorAtual": 33731,
+      "canonicalPath": "/fipe/mercedes-benz/c-180-classic-classic-plus-elegance-1996-021001-3/",
+      "ano": 1996,
+      "marca": "Mercedes-Benz"
+    },
+    {
+      "vehicleId": "mercedes-benz-c-180-classic-classic-plus-elegance-1997-gasolina",
+      "fipeCodigo": "021001-3",
+      "displayName": "Mercedes-Benz C-180 Classic/Classic Plus/Elegance",
+      "valorAtual": 35631,
+      "canonicalPath": "/fipe/mercedes-benz/c-180-classic-classic-plus-elegance-1997-021001-3/",
+      "ano": 1997,
+      "marca": "Mercedes-Benz"
+    },
+    {
+      "vehicleId": "mercedes-benz-c-180-classic-classic-plus-elegance-1998-gasolina",
+      "fipeCodigo": "021001-3",
+      "displayName": "Mercedes-Benz C-180 Classic/Classic Plus/Elegance",
+      "valorAtual": 37533,
+      "canonicalPath": "/fipe/mercedes-benz/c-180-classic-classic-plus-elegance-1998-021001-3/",
+      "ano": 1998,
+      "marca": "Mercedes-Benz"
+    },
+    {
+      "vehicleId": "mercedes-benz-c-180-classic-classic-plus-elegance-1999-gasolina",
+      "fipeCodigo": "021001-3",
+      "displayName": "Mercedes-Benz C-180 Classic/Classic Plus/Elegance",
+      "valorAtual": 38472,
+      "canonicalPath": "/fipe/mercedes-benz/c-180-classic-classic-plus-elegance-1999-021001-3/",
+      "ano": 1999,
+      "marca": "Mercedes-Benz"
+    },
+    {
+      "vehicleId": "mercedes-benz-c-180-classic-classic-plus-elegance-2000-gasolina",
+      "fipeCodigo": "021001-3",
+      "displayName": "Mercedes-Benz C-180 Classic/Classic Plus/Elegance",
+      "valorAtual": 40256,
+      "canonicalPath": "/fipe/mercedes-benz/c-180-classic-classic-plus-elegance-2000-021001-3/",
+      "ano": 2000,
+      "marca": "Mercedes-Benz"
+    },
+    {
+      "vehicleId": "mercedes-benz-c-180-classic-classic-plus-elegance-2001-gasolina",
+      "fipeCodigo": "021001-3",
+      "displayName": "Mercedes-Benz C-180 Classic/Classic Plus/Elegance",
+      "valorAtual": 42903,
+      "canonicalPath": "/fipe/mercedes-benz/c-180-classic-classic-plus-elegance-2001-021001-3/",
+      "ano": 2001,
+      "marca": "Mercedes-Benz"
+    },
+    {
+      "vehicleId": "mercedes-benz-c-180-classic-classic-plus-elegance-2002-gasolina",
+      "fipeCodigo": "021001-3",
+      "displayName": "Mercedes-Benz C-180 Classic/Classic Plus/Elegance",
+      "valorAtual": 43976,
+      "canonicalPath": "/fipe/mercedes-benz/c-180-classic-classic-plus-elegance-2002-021001-3/",
+      "ano": 2002,
+      "marca": "Mercedes-Benz"
+    },
+    {
+      "vehicleId": "mercedes-benz-c-180-kompressor-classic-1-6-16v-aut-2010-gasolina",
+      "fipeCodigo": "021230-0",
+      "displayName": "Mercedes-Benz C-180 Kompressor Classic 1.6 16V Aut.",
+      "valorAtual": 57087,
+      "canonicalPath": "/fipe/mercedes-benz/c-180-kompressor-classic-1-6-16v-aut-2010-021230-0/",
+      "ano": 2010,
+      "marca": "Mercedes-Benz"
+    },
+    {
+      "vehicleId": "mercedes-benz-c-180-kompressor-classic-1-6-16v-aut-2011-gasolina",
+      "fipeCodigo": "021230-0",
+      "displayName": "Mercedes-Benz C-180 Kompressor Classic 1.6 16V Aut.",
+      "valorAtual": 59258,
+      "canonicalPath": "/fipe/mercedes-benz/c-180-kompressor-classic-1-6-16v-aut-2011-021230-0/",
+      "ano": 2011,
+      "marca": "Mercedes-Benz"
+    },
+    {
+      "vehicleId": "mercedes-benz-c-180-kompressor-classic-1-8-16v-143cv-2003-gasolina",
+      "fipeCodigo": "021151-6",
+      "displayName": "Mercedes-Benz C-180 Kompressor Classic 1.8 16V 143cv",
+      "valorAtual": 42485,
+      "canonicalPath": "/fipe/mercedes-benz/c-180-kompressor-classic-1-8-16v-143cv-2003-021151-6/",
+      "ano": 2003,
+      "marca": "Mercedes-Benz"
+    },
+    {
+      "vehicleId": "mercedes-benz-c-180-kompressor-classic-1-8-16v-143cv-2004-gasolina",
+      "fipeCodigo": "021151-6",
+      "displayName": "Mercedes-Benz C-180 Kompressor Classic 1.8 16V 143cv",
+      "valorAtual": 45697,
+      "canonicalPath": "/fipe/mercedes-benz/c-180-kompressor-classic-1-8-16v-143cv-2004-021151-6/",
+      "ano": 2004,
+      "marca": "Mercedes-Benz"
+    },
+    {
+      "vehicleId": "mercedes-benz-c-180-kompressor-classic-1-8-16v-143cv-2005-gasolina",
+      "fipeCodigo": "021151-6",
+      "displayName": "Mercedes-Benz C-180 Kompressor Classic 1.8 16V 143cv",
+      "valorAtual": 47519,
+      "canonicalPath": "/fipe/mercedes-benz/c-180-kompressor-classic-1-8-16v-143cv-2005-021151-6/",
+      "ano": 2005,
+      "marca": "Mercedes-Benz"
+    },
+    {
+      "vehicleId": "mercedes-benz-c-180-kompressor-classic-1-8-16v-143cv-2006-gasolina",
+      "fipeCodigo": "021151-6",
+      "displayName": "Mercedes-Benz C-180 Kompressor Classic 1.8 16V 143cv",
+      "valorAtual": 48707,
+      "canonicalPath": "/fipe/mercedes-benz/c-180-kompressor-classic-1-8-16v-143cv-2006-021151-6/",
+      "ano": 2006,
+      "marca": "Mercedes-Benz"
+    },
+    {
+      "vehicleId": "mercedes-benz-c-180-kompressor-classic-1-8-16v-143cv-2007-gasolina",
+      "fipeCodigo": "021151-6",
+      "displayName": "Mercedes-Benz C-180 Kompressor Classic 1.8 16V 143cv",
+      "valorAtual": 49925,
+      "canonicalPath": "/fipe/mercedes-benz/c-180-kompressor-classic-1-8-16v-143cv-2007-021151-6/",
+      "ano": 2007,
+      "marca": "Mercedes-Benz"
+    },
+    {
+      "vehicleId": "mercedes-benz-c-200-1-5-tb-16v-183cv-aut-hibrido-2019-hibrido",
+      "fipeCodigo": "021399-3",
+      "displayName": "Mercedes-Benz C-200 1.5 TB 16V 183cv Aut. (Híbrido)",
+      "valorAtual": 152930,
+      "canonicalPath": "/fipe/mercedes-benz/c-200-1-5-tb-16v-183cv-aut-hibrido-2019-021399-3/",
+      "ano": 2019,
+      "marca": "Mercedes-Benz"
+    },
+    {
+      "vehicleId": "mercedes-benz-c-200-1-5-tb-16v-183cv-aut-hibrido-2020-hibrido",
+      "fipeCodigo": "021399-3",
+      "displayName": "Mercedes-Benz C-200 1.5 TB 16V 183cv Aut. (Híbrido)",
+      "valorAtual": 178029,
+      "canonicalPath": "/fipe/mercedes-benz/c-200-1-5-tb-16v-183cv-aut-hibrido-2020-021399-3/",
+      "ano": 2020,
+      "marca": "Mercedes-Benz"
+    },
+    {
+      "vehicleId": "mercedes-benz-c-200-amg-line-eq-boost-1-5-tb-hib-2022-hibrido",
+      "fipeCodigo": "021468-0",
+      "displayName": "Mercedes-Benz C-200 AMG Line EQ Boost 1.5 TB (Hib.)",
+      "valorAtual": 258070,
+      "canonicalPath": "/fipe/mercedes-benz/c-200-amg-line-eq-boost-1-5-tb-hib-2022-021468-0/",
+      "ano": 2022,
+      "marca": "Mercedes-Benz"
+    },
+    {
+      "vehicleId": "mercedes-benz-c-200-amg-line-eq-boost-1-5-tb-hib-2023-hibrido",
+      "fipeCodigo": "021468-0",
+      "displayName": "Mercedes-Benz C-200 AMG Line EQ Boost 1.5 TB (Hib.)",
+      "valorAtual": 271587,
+      "canonicalPath": "/fipe/mercedes-benz/c-200-amg-line-eq-boost-1-5-tb-hib-2023-021468-0/",
+      "ano": 2023,
+      "marca": "Mercedes-Benz"
+    },
+    {
+      "vehicleId": "mercedes-benz-c-200-amg-line-eq-boost-1-5-tb-hib-2024-hibrido",
+      "fipeCodigo": "021468-0",
+      "displayName": "Mercedes-Benz C-200 AMG Line EQ Boost 1.5 TB (Hib.)",
+      "valorAtual": 295129,
+      "canonicalPath": "/fipe/mercedes-benz/c-200-amg-line-eq-boost-1-5-tb-hib-2024-021468-0/",
+      "ano": 2024,
+      "marca": "Mercedes-Benz"
+    },
+    {
+      "vehicleId": "mercedes-benz-c-200-amg-line-eq-boost-1-5-tb-hib-2025-hibrido",
+      "fipeCodigo": "021468-0",
+      "displayName": "Mercedes-Benz C-200 AMG Line EQ Boost 1.5 TB (Hib.)",
+      "valorAtual": 334944,
+      "canonicalPath": "/fipe/mercedes-benz/c-200-amg-line-eq-boost-1-5-tb-hib-2025-021468-0/",
+      "ano": 2025,
+      "marca": "Mercedes-Benz"
+    },
+    {
+      "vehicleId": "mercedes-benz-c-200-amg-line-eq-boost-1-5-tb-hib-2026-hibrido",
+      "fipeCodigo": "021468-0",
+      "displayName": "Mercedes-Benz C-200 AMG Line EQ Boost 1.5 TB (Hib.)",
+      "valorAtual": 345854,
+      "canonicalPath": "/fipe/mercedes-benz/c-200-amg-line-eq-boost-1-5-tb-hib-2026-021468-0/",
+      "ano": 2026,
+      "marca": "Mercedes-Benz"
+    },
+    {
+      "vehicleId": "mercedes-benz-c-200-avantgarde-2-0-tb-16v-184cv-aut-2015-gasolina",
+      "fipeCodigo": "021310-1",
+      "displayName": "Mercedes-Benz C-200 Avantgarde 2.0 TB 16V 184cv Aut.",
+      "valorAtual": 107749,
+      "canonicalPath": "/fipe/mercedes-benz/c-200-avantgarde-2-0-tb-16v-184cv-aut-2015-021310-1/",
+      "ano": 2015,
+      "marca": "Mercedes-Benz"
+    },
+    {
+      "vehicleId": "mercedes-benz-c-200-avantgarde-2-0-tb-16v-184cv-aut-2016-gasolina",
+      "fipeCodigo": "021310-1",
+      "displayName": "Mercedes-Benz C-200 Avantgarde 2.0 TB 16V 184cv Aut.",
+      "valorAtual": 110443,
+      "canonicalPath": "/fipe/mercedes-benz/c-200-avantgarde-2-0-tb-16v-184cv-aut-2016-021310-1/",
+      "ano": 2016,
+      "marca": "Mercedes-Benz"
+    },
+    {
+      "vehicleId": "mercedes-benz-c-200-avantgarde-2-0-tb-16v-184cv-aut-2017-gasolina",
+      "fipeCodigo": "021310-1",
+      "displayName": "Mercedes-Benz C-200 Avantgarde 2.0 TB 16V 184cv Aut.",
+      "valorAtual": 125156,
+      "canonicalPath": "/fipe/mercedes-benz/c-200-avantgarde-2-0-tb-16v-184cv-aut-2017-021310-1/",
+      "ano": 2017,
+      "marca": "Mercedes-Benz"
+    },
+    {
+      "vehicleId": "mercedes-benz-c-200-cgi-avantgarde-1-8-16v-184cv-aut-2010-gasolina",
+      "fipeCodigo": "021233-4",
+      "displayName": "Mercedes-Benz C-200 CGI Avantgarde 1.8 16V 184cv Aut.",
+      "valorAtual": 60309,
+      "canonicalPath": "/fipe/mercedes-benz/c-200-cgi-avantgarde-1-8-16v-184cv-aut-2010-021233-4/",
+      "ano": 2010,
+      "marca": "Mercedes-Benz"
+    },
+    {
+      "vehicleId": "mercedes-benz-c-200-cgi-avantgarde-1-8-16v-184cv-aut-2011-gasolina",
+      "fipeCodigo": "021233-4",
+      "displayName": "Mercedes-Benz C-200 CGI Avantgarde 1.8 16V 184cv Aut.",
+      "valorAtual": 62653,
+      "canonicalPath": "/fipe/mercedes-benz/c-200-cgi-avantgarde-1-8-16v-184cv-aut-2011-021233-4/",
+      "ano": 2011,
+      "marca": "Mercedes-Benz"
+    },
+    {
+      "vehicleId": "mercedes-benz-c-200-cgi-avantgarde-1-8-16v-184cv-aut-2012-gasolina",
+      "fipeCodigo": "021233-4",
+      "displayName": "Mercedes-Benz C-200 CGI Avantgarde 1.8 16V 184cv Aut.",
+      "valorAtual": 68038,
+      "canonicalPath": "/fipe/mercedes-benz/c-200-cgi-avantgarde-1-8-16v-184cv-aut-2012-021233-4/",
+      "ano": 2012,
+      "marca": "Mercedes-Benz"
+    },
+    {
+      "vehicleId": "mercedes-benz-c-200-cgi-avantgarde-1-8-16v-184cv-aut-2013-gasolina",
+      "fipeCodigo": "021233-4",
+      "displayName": "Mercedes-Benz C-200 CGI Avantgarde 1.8 16V 184cv Aut.",
+      "valorAtual": 75664,
+      "canonicalPath": "/fipe/mercedes-benz/c-200-cgi-avantgarde-1-8-16v-184cv-aut-2013-021233-4/",
+      "ano": 2013,
+      "marca": "Mercedes-Benz"
+    },
+    {
+      "vehicleId": "mercedes-benz-c-200-cgi-avantgarde-1-8-16v-184cv-aut-2014-gasolina",
+      "fipeCodigo": "021233-4",
+      "displayName": "Mercedes-Benz C-200 CGI Avantgarde 1.8 16V 184cv Aut.",
+      "valorAtual": 77912,
+      "canonicalPath": "/fipe/mercedes-benz/c-200-cgi-avantgarde-1-8-16v-184cv-aut-2014-021233-4/",
+      "ano": 2014,
+      "marca": "Mercedes-Benz"
+    }
+  ],
+  "stats": {
+    "total": 287
+  },
+  "meta": {
+    "geracaoId": "c-2"
+  }
+}

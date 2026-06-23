@@ -1,0 +1,857 @@
+{
+  "tipo": "familia",
+  "slug": "207",
+  "canonicalPath": "/fipe/peugeot/207/",
+  "titulo": "Peugeot 207 - Tabela FIPE",
+  "descricao": "92 versoes e anos do Peugeot 207 na Tabela FIPE.",
+  "seo": {
+    "title": "Peugeot 207 - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes Peugeot 207. 92 veiculos indexados.",
+    "h1": "Peugeot 207 - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/peugeot/207/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "peugeot-207-sedan-active-1-4-flex-8v-4p-2015-flex",
+      "fipeCodigo": "024203-9",
+      "displayName": "Peugeot 207 Sedan Active 1.4 Flex 8V 4p",
+      "valorAtual": 29040,
+      "canonicalPath": "/fipe/peugeot/207-sedan-active-1-4-flex-8v-4p-2015-024203-9/",
+      "ano": 2015,
+      "marca": "Peugeot"
+    },
+    {
+      "vehicleId": "peugeot-207-active-1-4-flex-8v-5p-2015-flex",
+      "fipeCodigo": "024202-0",
+      "displayName": "Peugeot 207 Active 1.4 Flex 8V 5p",
+      "valorAtual": 30132,
+      "canonicalPath": "/fipe/peugeot/207-active-1-4-flex-8v-5p-2015-024202-0/",
+      "ano": 2015,
+      "marca": "Peugeot"
+    },
+    {
+      "vehicleId": "peugeot-207-sedan-active-1-4-flex-8v-4p-2014-flex",
+      "fipeCodigo": "024203-9",
+      "displayName": "Peugeot 207 Sedan Active 1.4 Flex 8V 4p",
+      "valorAtual": 22282,
+      "canonicalPath": "/fipe/peugeot/207-sedan-active-1-4-flex-8v-4p-2014-024203-9/",
+      "ano": 2014,
+      "marca": "Peugeot"
+    },
+    {
+      "vehicleId": "peugeot-207-xr-1-4-flex-8v-5p-2014-flex",
+      "fipeCodigo": "024146-6",
+      "displayName": "Peugeot 207 XR 1.4 Flex 8V 5p",
+      "valorAtual": 24868,
+      "canonicalPath": "/fipe/peugeot/207-xr-1-4-flex-8v-5p-2014-024146-6/",
+      "ano": 2014,
+      "marca": "Peugeot"
+    },
+    {
+      "vehicleId": "peugeot-207-blue-lion-1-4-flex-8v-5p-2014-flex",
+      "fipeCodigo": "024192-0",
+      "displayName": "Peugeot 207 Blue Lion 1.4 Flex 8V 5p",
+      "valorAtual": 25381,
+      "canonicalPath": "/fipe/peugeot/207-blue-lion-1-4-flex-8v-5p-2014-024192-0/",
+      "ano": 2014,
+      "marca": "Peugeot"
+    },
+    {
+      "vehicleId": "peugeot-207-sedan-allure-1-4-flex-8v-4p-2014-flex",
+      "fipeCodigo": "024204-7",
+      "displayName": "Peugeot 207 Sedan Allure 1.4 Flex 8v 4p",
+      "valorAtual": 25760,
+      "canonicalPath": "/fipe/peugeot/207-sedan-allure-1-4-flex-8v-4p-2014-024204-7/",
+      "ano": 2014,
+      "marca": "Peugeot"
+    },
+    {
+      "vehicleId": "peugeot-207-active-1-4-flex-8v-5p-2014-flex",
+      "fipeCodigo": "024202-0",
+      "displayName": "Peugeot 207 Active 1.4 Flex 8V 5p",
+      "valorAtual": 28348,
+      "canonicalPath": "/fipe/peugeot/207-active-1-4-flex-8v-5p-2014-024202-0/",
+      "ano": 2014,
+      "marca": "Peugeot"
+    },
+    {
+      "vehicleId": "peugeot-207-sedan-passion-xr-1-4-flex-8v-4p-2013-flex",
+      "fipeCodigo": "024155-5",
+      "displayName": "Peugeot 207 Sedan Passion XR 1.4 Flex 8V 4p",
+      "valorAtual": 21540,
+      "canonicalPath": "/fipe/peugeot/207-sedan-passion-xr-1-4-flex-8v-4p-2013-024155-5/",
+      "ano": 2013,
+      "marca": "Peugeot"
+    },
+    {
+      "vehicleId": "peugeot-207-sed-passion-xr-sport-1-4-flex-8v-4p-2013-flex",
+      "fipeCodigo": "024156-3",
+      "displayName": "Peugeot 207 Sed. Passion XR Sport 1.4 Flex 8V 4p",
+      "valorAtual": 22145,
+      "canonicalPath": "/fipe/peugeot/207-sed-passion-xr-sport-1-4-flex-8v-4p-2013-024156-3/",
+      "ano": 2013,
+      "marca": "Peugeot"
+    },
+    {
+      "vehicleId": "peugeot-207-active-1-4-flex-8v-5p-2013-flex",
+      "fipeCodigo": "024202-0",
+      "displayName": "Peugeot 207 Active 1.4 Flex 8V 5p",
+      "valorAtual": 22202,
+      "canonicalPath": "/fipe/peugeot/207-active-1-4-flex-8v-5p-2013-024202-0/",
+      "ano": 2013,
+      "marca": "Peugeot"
+    },
+    {
+      "vehicleId": "peugeot-207-xr-1-4-flex-8v-3p-2013-flex",
+      "fipeCodigo": "024145-8",
+      "displayName": "Peugeot 207 XR 1.4 Flex 8V 3p",
+      "valorAtual": 22809,
+      "canonicalPath": "/fipe/peugeot/207-xr-1-4-flex-8v-3p-2013-024145-8/",
+      "ano": 2013,
+      "marca": "Peugeot"
+    },
+    {
+      "vehicleId": "peugeot-207-xr-1-4-flex-8v-5p-2013-flex",
+      "fipeCodigo": "024146-6",
+      "displayName": "Peugeot 207 XR 1.4 Flex 8V 5p",
+      "valorAtual": 23154,
+      "canonicalPath": "/fipe/peugeot/207-xr-1-4-flex-8v-5p-2013-024146-6/",
+      "ano": 2013,
+      "marca": "Peugeot"
+    },
+    {
+      "vehicleId": "peugeot-207-blue-lion-1-4-flex-8v-5p-2013-flex",
+      "fipeCodigo": "024192-0",
+      "displayName": "Peugeot 207 Blue Lion 1.4 Flex 8V 5p",
+      "valorAtual": 23207,
+      "canonicalPath": "/fipe/peugeot/207-blue-lion-1-4-flex-8v-5p-2013-024192-0/",
+      "ano": 2013,
+      "marca": "Peugeot"
+    },
+    {
+      "vehicleId": "peugeot-207-sw-xr-1-4-flex-8v-5p-2013-flex",
+      "fipeCodigo": "024152-0",
+      "displayName": "Peugeot 207 SW XR 1.4 Flex 8V 5p",
+      "valorAtual": 23256,
+      "canonicalPath": "/fipe/peugeot/207-sw-xr-1-4-flex-8v-5p-2013-024152-0/",
+      "ano": 2013,
+      "marca": "Peugeot"
+    },
+    {
+      "vehicleId": "peugeot-207-xr-sport-1-4-flex-8v-5p-2013-flex",
+      "fipeCodigo": "024148-2",
+      "displayName": "Peugeot 207 XR Sport 1.4 Flex 8V 5p",
+      "valorAtual": 24201,
+      "canonicalPath": "/fipe/peugeot/207-xr-sport-1-4-flex-8v-5p-2013-024148-2/",
+      "ano": 2013,
+      "marca": "Peugeot"
+    },
+    {
+      "vehicleId": "peugeot-207-sw-xr-sport-1-4-flex-8v-5p-2013-flex",
+      "fipeCodigo": "024153-9",
+      "displayName": "Peugeot 207 SW XR Sport 1.4 Flex 8V 5p",
+      "valorAtual": 24917,
+      "canonicalPath": "/fipe/peugeot/207-sw-xr-sport-1-4-flex-8v-5p-2013-024153-9/",
+      "ano": 2013,
+      "marca": "Peugeot"
+    },
+    {
+      "vehicleId": "peugeot-207-sedan-passion-xs-1-6-flex-16v-4p-2013-flex",
+      "fipeCodigo": "024157-1",
+      "displayName": "Peugeot 207 Sedan Passion XS 1.6 Flex 16V 4p",
+      "valorAtual": 24946,
+      "canonicalPath": "/fipe/peugeot/207-sedan-passion-xs-1-6-flex-16v-4p-2013-024157-1/",
+      "ano": 2013,
+      "marca": "Peugeot"
+    },
+    {
+      "vehicleId": "peugeot-207-sw-escapade-1-6-16v-flex-5p-2013-flex",
+      "fipeCodigo": "024159-8",
+      "displayName": "Peugeot 207 SW ESCAPADE 1.6 16V Flex 5p",
+      "valorAtual": 24964,
+      "canonicalPath": "/fipe/peugeot/207-sw-escapade-1-6-16v-flex-5p-2013-024159-8/",
+      "ano": 2013,
+      "marca": "Peugeot"
+    },
+    {
+      "vehicleId": "peugeot-207-sw-xs-1-6-flex-16v-5p-aut-2013-flex",
+      "fipeCodigo": "024154-7",
+      "displayName": "Peugeot 207 SW XS 1.6 Flex 16V 5p Aut.",
+      "valorAtual": 24984,
+      "canonicalPath": "/fipe/peugeot/207-sw-xs-1-6-flex-16v-5p-aut-2013-024154-7/",
+      "ano": 2013,
+      "marca": "Peugeot"
+    },
+    {
+      "vehicleId": "peugeot-207-xs-1-6-flex-16v-5p-2013-flex",
+      "fipeCodigo": "024150-4",
+      "displayName": "Peugeot 207 XS 1.6 Flex 16V 5p",
+      "valorAtual": 25083,
+      "canonicalPath": "/fipe/peugeot/207-xs-1-6-flex-16v-5p-2013-024150-4/",
+      "ano": 2013,
+      "marca": "Peugeot"
+    },
+    {
+      "vehicleId": "peugeot-207-quiksilver-1-6-flex-16v-5p-2013-flex",
+      "fipeCodigo": "024183-0",
+      "displayName": "Peugeot 207 QUIKSILVER 1.6 Flex 16V 5p",
+      "valorAtual": 28336,
+      "canonicalPath": "/fipe/peugeot/207-quiksilver-1-6-flex-16v-5p-2013-024183-0/",
+      "ano": 2013,
+      "marca": "Peugeot"
+    },
+    {
+      "vehicleId": "peugeot-207-sedan-passion-xs-1-6-flex-16v-4p-aut-2013-flex",
+      "fipeCodigo": "024158-0",
+      "displayName": "Peugeot 207 Sedan Passion XS 1.6 Flex 16V 4p Aut",
+      "valorAtual": 28593,
+      "canonicalPath": "/fipe/peugeot/207-sedan-passion-xs-1-6-flex-16v-4p-aut-2013-024158-0/",
+      "ano": 2013,
+      "marca": "Peugeot"
+    },
+    {
+      "vehicleId": "peugeot-207-xs-1-6-flex-16v-5p-aut-2013-flex",
+      "fipeCodigo": "024151-2",
+      "displayName": "Peugeot 207 XS 1.6 Flex 16V 5p Aut.",
+      "valorAtual": 28661,
+      "canonicalPath": "/fipe/peugeot/207-xs-1-6-flex-16v-5p-aut-2013-024151-2/",
+      "ano": 2013,
+      "marca": "Peugeot"
+    },
+    {
+      "vehicleId": "peugeot-207-sedan-passion-xr-1-4-flex-8v-4p-2012-flex",
+      "fipeCodigo": "024155-5",
+      "displayName": "Peugeot 207 Sedan Passion XR 1.4 Flex 8V 4p",
+      "valorAtual": 20658,
+      "canonicalPath": "/fipe/peugeot/207-sedan-passion-xr-1-4-flex-8v-4p-2012-024155-5/",
+      "ano": 2012,
+      "marca": "Peugeot"
+    },
+    {
+      "vehicleId": "peugeot-207-sed-passion-xr-sport-1-4-flex-8v-4p-2012-flex",
+      "fipeCodigo": "024156-3",
+      "displayName": "Peugeot 207 Sed. Passion XR Sport 1.4 Flex 8V 4p",
+      "valorAtual": 20728,
+      "canonicalPath": "/fipe/peugeot/207-sed-passion-xr-sport-1-4-flex-8v-4p-2012-024156-3/",
+      "ano": 2012,
+      "marca": "Peugeot"
+    },
+    {
+      "vehicleId": "peugeot-207-sedan-passion-xs-1-6-flex-16v-4p-2012-flex",
+      "fipeCodigo": "024157-1",
+      "displayName": "Peugeot 207 Sedan Passion XS 1.6 Flex 16V 4p",
+      "valorAtual": 21106,
+      "canonicalPath": "/fipe/peugeot/207-sedan-passion-xs-1-6-flex-16v-4p-2012-024157-1/",
+      "ano": 2012,
+      "marca": "Peugeot"
+    },
+    {
+      "vehicleId": "peugeot-207-x-line-1-4-flex-8v-3p-2012-flex",
+      "fipeCodigo": "024164-4",
+      "displayName": "Peugeot 207 X-Line 1.4 Flex 8V 3p",
+      "valorAtual": 21243,
+      "canonicalPath": "/fipe/peugeot/207-x-line-1-4-flex-8v-3p-2012-024164-4/",
+      "ano": 2012,
+      "marca": "Peugeot"
+    },
+    {
+      "vehicleId": "peugeot-207-sw-xr-1-4-flex-8v-5p-2012-flex",
+      "fipeCodigo": "024152-0",
+      "displayName": "Peugeot 207 SW XR 1.4 Flex 8V 5p",
+      "valorAtual": 21330,
+      "canonicalPath": "/fipe/peugeot/207-sw-xr-1-4-flex-8v-5p-2012-024152-0/",
+      "ano": 2012,
+      "marca": "Peugeot"
+    },
+    {
+      "vehicleId": "peugeot-207-sedan-passion-xs-1-6-flex-16v-4p-aut-2012-flex",
+      "fipeCodigo": "024158-0",
+      "displayName": "Peugeot 207 Sedan Passion XS 1.6 Flex 16V 4p Aut",
+      "valorAtual": 21347,
+      "canonicalPath": "/fipe/peugeot/207-sedan-passion-xs-1-6-flex-16v-4p-aut-2012-024158-0/",
+      "ano": 2012,
+      "marca": "Peugeot"
+    },
+    {
+      "vehicleId": "peugeot-207-xr-1-4-flex-8v-3p-2012-flex",
+      "fipeCodigo": "024145-8",
+      "displayName": "Peugeot 207 XR 1.4 Flex 8V 3p",
+      "valorAtual": 21934,
+      "canonicalPath": "/fipe/peugeot/207-xr-1-4-flex-8v-3p-2012-024145-8/",
+      "ano": 2012,
+      "marca": "Peugeot"
+    },
+    {
+      "vehicleId": "peugeot-207-x-line-1-4-flex-8v-5p-2012-flex",
+      "fipeCodigo": "024165-2",
+      "displayName": "Peugeot 207 X-Line 1.4 Flex 8V 5p",
+      "valorAtual": 22352,
+      "canonicalPath": "/fipe/peugeot/207-x-line-1-4-flex-8v-5p-2012-024165-2/",
+      "ano": 2012,
+      "marca": "Peugeot"
+    },
+    {
+      "vehicleId": "peugeot-207-xr-1-4-flex-8v-5p-2012-flex",
+      "fipeCodigo": "024146-6",
+      "displayName": "Peugeot 207 XR 1.4 Flex 8V 5p",
+      "valorAtual": 22589,
+      "canonicalPath": "/fipe/peugeot/207-xr-1-4-flex-8v-5p-2012-024146-6/",
+      "ano": 2012,
+      "marca": "Peugeot"
+    },
+    {
+      "vehicleId": "peugeot-207-xr-sport-1-4-flex-8v-5p-2012-flex",
+      "fipeCodigo": "024148-2",
+      "displayName": "Peugeot 207 XR Sport 1.4 Flex 8V 5p",
+      "valorAtual": 22946,
+      "canonicalPath": "/fipe/peugeot/207-xr-sport-1-4-flex-8v-5p-2012-024148-2/",
+      "ano": 2012,
+      "marca": "Peugeot"
+    },
+    {
+      "vehicleId": "peugeot-207-sw-xr-sport-1-4-flex-8v-5p-2012-flex",
+      "fipeCodigo": "024153-9",
+      "displayName": "Peugeot 207 SW XR Sport 1.4 Flex 8V 5p",
+      "valorAtual": 23226,
+      "canonicalPath": "/fipe/peugeot/207-sw-xr-sport-1-4-flex-8v-5p-2012-024153-9/",
+      "ano": 2012,
+      "marca": "Peugeot"
+    },
+    {
+      "vehicleId": "peugeot-207-sw-escapade-1-6-16v-flex-5p-2012-flex",
+      "fipeCodigo": "024159-8",
+      "displayName": "Peugeot 207 SW ESCAPADE 1.6 16V Flex 5p",
+      "valorAtual": 23456,
+      "canonicalPath": "/fipe/peugeot/207-sw-escapade-1-6-16v-flex-5p-2012-024159-8/",
+      "ano": 2012,
+      "marca": "Peugeot"
+    },
+    {
+      "vehicleId": "peugeot-207-sw-xs-1-6-flex-16v-5p-aut-2012-flex",
+      "fipeCodigo": "024154-7",
+      "displayName": "Peugeot 207 SW XS 1.6 Flex 16V 5p Aut.",
+      "valorAtual": 23546,
+      "canonicalPath": "/fipe/peugeot/207-sw-xs-1-6-flex-16v-5p-aut-2012-024154-7/",
+      "ano": 2012,
+      "marca": "Peugeot"
+    },
+    {
+      "vehicleId": "peugeot-207-quiksilver-1-6-flex-16v-5p-2012-flex",
+      "fipeCodigo": "024183-0",
+      "displayName": "Peugeot 207 QUIKSILVER 1.6 Flex 16V 5p",
+      "valorAtual": 24444,
+      "canonicalPath": "/fipe/peugeot/207-quiksilver-1-6-flex-16v-5p-2012-024183-0/",
+      "ano": 2012,
+      "marca": "Peugeot"
+    },
+    {
+      "vehicleId": "peugeot-207-xs-1-6-flex-16v-5p-2012-flex",
+      "fipeCodigo": "024150-4",
+      "displayName": "Peugeot 207 XS 1.6 Flex 16V 5p",
+      "valorAtual": 24471,
+      "canonicalPath": "/fipe/peugeot/207-xs-1-6-flex-16v-5p-2012-024150-4/",
+      "ano": 2012,
+      "marca": "Peugeot"
+    },
+    {
+      "vehicleId": "peugeot-207-xs-1-6-flex-16v-5p-aut-2012-flex",
+      "fipeCodigo": "024151-2",
+      "displayName": "Peugeot 207 XS 1.6 Flex 16V 5p Aut.",
+      "valorAtual": 26350,
+      "canonicalPath": "/fipe/peugeot/207-xs-1-6-flex-16v-5p-aut-2012-024151-2/",
+      "ano": 2012,
+      "marca": "Peugeot"
+    },
+    {
+      "vehicleId": "peugeot-207-x-line-1-4-flex-8v-3p-2011-flex",
+      "fipeCodigo": "024164-4",
+      "displayName": "Peugeot 207 X-Line 1.4 Flex 8V 3p",
+      "valorAtual": 17472,
+      "canonicalPath": "/fipe/peugeot/207-x-line-1-4-flex-8v-3p-2011-024164-4/",
+      "ano": 2011,
+      "marca": "Peugeot"
+    },
+    {
+      "vehicleId": "peugeot-207-x-line-1-4-flex-8v-5p-2011-flex",
+      "fipeCodigo": "024165-2",
+      "displayName": "Peugeot 207 X-Line 1.4 Flex 8V 5p",
+      "valorAtual": 18021,
+      "canonicalPath": "/fipe/peugeot/207-x-line-1-4-flex-8v-5p-2011-024165-2/",
+      "ano": 2011,
+      "marca": "Peugeot"
+    },
+    {
+      "vehicleId": "peugeot-207-sedan-passion-xr-1-4-flex-8v-4p-2011-flex",
+      "fipeCodigo": "024155-5",
+      "displayName": "Peugeot 207 Sedan Passion XR 1.4 Flex 8V 4p",
+      "valorAtual": 19978,
+      "canonicalPath": "/fipe/peugeot/207-sedan-passion-xr-1-4-flex-8v-4p-2011-024155-5/",
+      "ano": 2011,
+      "marca": "Peugeot"
+    },
+    {
+      "vehicleId": "peugeot-207-xr-1-4-flex-8v-3p-2011-flex",
+      "fipeCodigo": "024145-8",
+      "displayName": "Peugeot 207 XR 1.4 Flex 8V 3p",
+      "valorAtual": 19980,
+      "canonicalPath": "/fipe/peugeot/207-xr-1-4-flex-8v-3p-2011-024145-8/",
+      "ano": 2011,
+      "marca": "Peugeot"
+    },
+    {
+      "vehicleId": "peugeot-207-sed-passion-xr-sport-1-4-flex-8v-4p-2011-flex",
+      "fipeCodigo": "024156-3",
+      "displayName": "Peugeot 207 Sed. Passion XR Sport 1.4 Flex 8V 4p",
+      "valorAtual": 20222,
+      "canonicalPath": "/fipe/peugeot/207-sed-passion-xr-sport-1-4-flex-8v-4p-2011-024156-3/",
+      "ano": 2011,
+      "marca": "Peugeot"
+    },
+    {
+      "vehicleId": "peugeot-207-sedan-passion-xs-1-6-flex-16v-4p-2011-flex",
+      "fipeCodigo": "024157-1",
+      "displayName": "Peugeot 207 Sedan Passion XS 1.6 Flex 16V 4p",
+      "valorAtual": 20298,
+      "canonicalPath": "/fipe/peugeot/207-sedan-passion-xs-1-6-flex-16v-4p-2011-024157-1/",
+      "ano": 2011,
+      "marca": "Peugeot"
+    },
+    {
+      "vehicleId": "peugeot-207-sedan-passion-xs-1-6-flex-16v-4p-aut-2011-flex",
+      "fipeCodigo": "024158-0",
+      "displayName": "Peugeot 207 Sedan Passion XS 1.6 Flex 16V 4p Aut",
+      "valorAtual": 20362,
+      "canonicalPath": "/fipe/peugeot/207-sedan-passion-xs-1-6-flex-16v-4p-aut-2011-024158-0/",
+      "ano": 2011,
+      "marca": "Peugeot"
+    },
+    {
+      "vehicleId": "peugeot-207-sw-xr-1-4-flex-8v-5p-2011-flex",
+      "fipeCodigo": "024152-0",
+      "displayName": "Peugeot 207 SW XR 1.4 Flex 8V 5p",
+      "valorAtual": 20809,
+      "canonicalPath": "/fipe/peugeot/207-sw-xr-1-4-flex-8v-5p-2011-024152-0/",
+      "ano": 2011,
+      "marca": "Peugeot"
+    },
+    {
+      "vehicleId": "peugeot-207-xr-1-4-flex-8v-5p-2011-flex",
+      "fipeCodigo": "024146-6",
+      "displayName": "Peugeot 207 XR 1.4 Flex 8V 5p",
+      "valorAtual": 21581,
+      "canonicalPath": "/fipe/peugeot/207-xr-1-4-flex-8v-5p-2011-024146-6/",
+      "ano": 2011,
+      "marca": "Peugeot"
+    },
+    {
+      "vehicleId": "peugeot-207-xr-sport-1-4-flex-8v-5p-2011-flex",
+      "fipeCodigo": "024148-2",
+      "displayName": "Peugeot 207 XR Sport 1.4 Flex 8V 5p",
+      "valorAtual": 21652,
+      "canonicalPath": "/fipe/peugeot/207-xr-sport-1-4-flex-8v-5p-2011-024148-2/",
+      "ano": 2011,
+      "marca": "Peugeot"
+    },
+    {
+      "vehicleId": "peugeot-207-xs-1-6-flex-16v-5p-2011-flex",
+      "fipeCodigo": "024150-4",
+      "displayName": "Peugeot 207 XS 1.6 Flex 16V 5p",
+      "valorAtual": 21685,
+      "canonicalPath": "/fipe/peugeot/207-xs-1-6-flex-16v-5p-2011-024150-4/",
+      "ano": 2011,
+      "marca": "Peugeot"
+    },
+    {
+      "vehicleId": "peugeot-207-sw-xr-sport-1-4-flex-8v-5p-2011-flex",
+      "fipeCodigo": "024153-9",
+      "displayName": "Peugeot 207 SW XR Sport 1.4 Flex 8V 5p",
+      "valorAtual": 22543,
+      "canonicalPath": "/fipe/peugeot/207-sw-xr-sport-1-4-flex-8v-5p-2011-024153-9/",
+      "ano": 2011,
+      "marca": "Peugeot"
+    },
+    {
+      "vehicleId": "peugeot-207-sw-escapade-1-6-16v-flex-5p-2011-flex",
+      "fipeCodigo": "024159-8",
+      "displayName": "Peugeot 207 SW ESCAPADE 1.6 16V Flex 5p",
+      "valorAtual": 22800,
+      "canonicalPath": "/fipe/peugeot/207-sw-escapade-1-6-16v-flex-5p-2011-024159-8/",
+      "ano": 2011,
+      "marca": "Peugeot"
+    },
+    {
+      "vehicleId": "peugeot-207-sw-xs-1-6-flex-16v-5p-aut-2011-flex",
+      "fipeCodigo": "024154-7",
+      "displayName": "Peugeot 207 SW XS 1.6 Flex 16V 5p Aut.",
+      "valorAtual": 22853,
+      "canonicalPath": "/fipe/peugeot/207-sw-xs-1-6-flex-16v-5p-aut-2011-024154-7/",
+      "ano": 2011,
+      "marca": "Peugeot"
+    },
+    {
+      "vehicleId": "peugeot-207-quiksilver-1-4-flex-8v-3p-2011-flex",
+      "fipeCodigo": "024167-9",
+      "displayName": "Peugeot 207 QUIKSILVER 1.4 Flex 8V 3p",
+      "valorAtual": 23078,
+      "canonicalPath": "/fipe/peugeot/207-quiksilver-1-4-flex-8v-3p-2011-024167-9/",
+      "ano": 2011,
+      "marca": "Peugeot"
+    },
+    {
+      "vehicleId": "peugeot-207-quiksilver-1-4-flex-8v-5p-2011-flex",
+      "fipeCodigo": "024168-7",
+      "displayName": "Peugeot 207 QUIKSILVER 1.4 Flex 8V 5p",
+      "valorAtual": 24564,
+      "canonicalPath": "/fipe/peugeot/207-quiksilver-1-4-flex-8v-5p-2011-024168-7/",
+      "ano": 2011,
+      "marca": "Peugeot"
+    },
+    {
+      "vehicleId": "peugeot-207-xs-1-6-flex-16v-5p-aut-2011-flex",
+      "fipeCodigo": "024151-2",
+      "displayName": "Peugeot 207 XS 1.6 Flex 16V 5p Aut.",
+      "valorAtual": 24635,
+      "canonicalPath": "/fipe/peugeot/207-xs-1-6-flex-16v-5p-aut-2011-024151-2/",
+      "ano": 2011,
+      "marca": "Peugeot"
+    },
+    {
+      "vehicleId": "peugeot-207-x-line-1-4-flex-8v-3p-2010-flex",
+      "fipeCodigo": "024164-4",
+      "displayName": "Peugeot 207 X-Line 1.4 Flex 8V 3p",
+      "valorAtual": 17045,
+      "canonicalPath": "/fipe/peugeot/207-x-line-1-4-flex-8v-3p-2010-024164-4/",
+      "ano": 2010,
+      "marca": "Peugeot"
+    },
+    {
+      "vehicleId": "peugeot-207-x-line-1-4-flex-8v-5p-2010-flex",
+      "fipeCodigo": "024165-2",
+      "displayName": "Peugeot 207 X-Line 1.4 Flex 8V 5p",
+      "valorAtual": 17494,
+      "canonicalPath": "/fipe/peugeot/207-x-line-1-4-flex-8v-5p-2010-024165-2/",
+      "ano": 2010,
+      "marca": "Peugeot"
+    },
+    {
+      "vehicleId": "peugeot-207-sw-xr-1-4-flex-8v-5p-2010-flex",
+      "fipeCodigo": "024152-0",
+      "displayName": "Peugeot 207 SW XR 1.4 Flex 8V 5p",
+      "valorAtual": 19337,
+      "canonicalPath": "/fipe/peugeot/207-sw-xr-1-4-flex-8v-5p-2010-024152-0/",
+      "ano": 2010,
+      "marca": "Peugeot"
+    },
+    {
+      "vehicleId": "peugeot-207-sedan-passion-xr-1-4-flex-8v-4p-2010-flex",
+      "fipeCodigo": "024155-5",
+      "displayName": "Peugeot 207 Sedan Passion XR 1.4 Flex 8V 4p",
+      "valorAtual": 19490,
+      "canonicalPath": "/fipe/peugeot/207-sedan-passion-xr-1-4-flex-8v-4p-2010-024155-5/",
+      "ano": 2010,
+      "marca": "Peugeot"
+    },
+    {
+      "vehicleId": "peugeot-207-xr-1-4-flex-8v-3p-2010-flex",
+      "fipeCodigo": "024145-8",
+      "displayName": "Peugeot 207 XR 1.4 Flex 8V 3p",
+      "valorAtual": 19492,
+      "canonicalPath": "/fipe/peugeot/207-xr-1-4-flex-8v-3p-2010-024145-8/",
+      "ano": 2010,
+      "marca": "Peugeot"
+    },
+    {
+      "vehicleId": "peugeot-207-sedan-passion-xs-1-6-flex-16v-4p-2010-flex",
+      "fipeCodigo": "024157-1",
+      "displayName": "Peugeot 207 Sedan Passion XS 1.6 Flex 16V 4p",
+      "valorAtual": 19606,
+      "canonicalPath": "/fipe/peugeot/207-sedan-passion-xs-1-6-flex-16v-4p-2010-024157-1/",
+      "ano": 2010,
+      "marca": "Peugeot"
+    },
+    {
+      "vehicleId": "peugeot-207-sedan-passion-xs-1-6-flex-16v-4p-aut-2010-flex",
+      "fipeCodigo": "024158-0",
+      "displayName": "Peugeot 207 Sedan Passion XS 1.6 Flex 16V 4p Aut",
+      "valorAtual": 19667,
+      "canonicalPath": "/fipe/peugeot/207-sedan-passion-xs-1-6-flex-16v-4p-aut-2010-024158-0/",
+      "ano": 2010,
+      "marca": "Peugeot"
+    },
+    {
+      "vehicleId": "peugeot-207-sed-passion-xr-sport-1-4-flex-8v-4p-2010-flex",
+      "fipeCodigo": "024156-3",
+      "displayName": "Peugeot 207 Sed. Passion XR Sport 1.4 Flex 8V 4p",
+      "valorAtual": 19728,
+      "canonicalPath": "/fipe/peugeot/207-sed-passion-xr-sport-1-4-flex-8v-4p-2010-024156-3/",
+      "ano": 2010,
+      "marca": "Peugeot"
+    },
+    {
+      "vehicleId": "peugeot-207-xr-sport-1-4-flex-8v-3p-2010-flex",
+      "fipeCodigo": "024147-4",
+      "displayName": "Peugeot 207 XR Sport 1.4 Flex 8V 3p",
+      "valorAtual": 19919,
+      "canonicalPath": "/fipe/peugeot/207-xr-sport-1-4-flex-8v-3p-2010-024147-4/",
+      "ano": 2010,
+      "marca": "Peugeot"
+    },
+    {
+      "vehicleId": "peugeot-207-xs-1-6-flex-16v-3p-2010-flex",
+      "fipeCodigo": "024149-0",
+      "displayName": "Peugeot 207 XS 1.6 Flex 16V 3p",
+      "valorAtual": 20202,
+      "canonicalPath": "/fipe/peugeot/207-xs-1-6-flex-16v-3p-2010-024149-0/",
+      "ano": 2010,
+      "marca": "Peugeot"
+    },
+    {
+      "vehicleId": "peugeot-207-sw-xr-sport-1-4-flex-8v-5p-2010-flex",
+      "fipeCodigo": "024153-9",
+      "displayName": "Peugeot 207 SW XR Sport 1.4 Flex 8V 5p",
+      "valorAtual": 20316,
+      "canonicalPath": "/fipe/peugeot/207-sw-xr-sport-1-4-flex-8v-5p-2010-024153-9/",
+      "ano": 2010,
+      "marca": "Peugeot"
+    },
+    {
+      "vehicleId": "peugeot-207-xr-1-4-flex-8v-5p-2010-flex",
+      "fipeCodigo": "024146-6",
+      "displayName": "Peugeot 207 XR 1.4 Flex 8V 5p",
+      "valorAtual": 20449,
+      "canonicalPath": "/fipe/peugeot/207-xr-1-4-flex-8v-5p-2010-024146-6/",
+      "ano": 2010,
+      "marca": "Peugeot"
+    },
+    {
+      "vehicleId": "peugeot-207-quiksilver-1-4-flex-8v-3p-2010-flex",
+      "fipeCodigo": "024167-9",
+      "displayName": "Peugeot 207 QUIKSILVER 1.4 Flex 8V 3p",
+      "valorAtual": 20478,
+      "canonicalPath": "/fipe/peugeot/207-quiksilver-1-4-flex-8v-3p-2010-024167-9/",
+      "ano": 2010,
+      "marca": "Peugeot"
+    },
+    {
+      "vehicleId": "peugeot-207-xr-sport-1-4-flex-8v-5p-2010-flex",
+      "fipeCodigo": "024148-2",
+      "displayName": "Peugeot 207 XR Sport 1.4 Flex 8V 5p",
+      "valorAtual": 20521,
+      "canonicalPath": "/fipe/peugeot/207-xr-sport-1-4-flex-8v-5p-2010-024148-2/",
+      "ano": 2010,
+      "marca": "Peugeot"
+    },
+    {
+      "vehicleId": "peugeot-207-xs-1-6-flex-16v-5p-2010-flex",
+      "fipeCodigo": "024150-4",
+      "displayName": "Peugeot 207 XS 1.6 Flex 16V 5p",
+      "valorAtual": 20554,
+      "canonicalPath": "/fipe/peugeot/207-xs-1-6-flex-16v-5p-2010-024150-4/",
+      "ano": 2010,
+      "marca": "Peugeot"
+    },
+    {
+      "vehicleId": "peugeot-207-quiksilver-1-4-flex-8v-5p-2010-flex",
+      "fipeCodigo": "024168-7",
+      "displayName": "Peugeot 207 QUIKSILVER 1.4 Flex 8V 5p",
+      "valorAtual": 20806,
+      "canonicalPath": "/fipe/peugeot/207-quiksilver-1-4-flex-8v-5p-2010-024168-7/",
+      "ano": 2010,
+      "marca": "Peugeot"
+    },
+    {
+      "vehicleId": "peugeot-207-sw-escapade-1-6-16v-flex-5p-2010-flex",
+      "fipeCodigo": "024159-8",
+      "displayName": "Peugeot 207 SW ESCAPADE 1.6 16V Flex 5p",
+      "valorAtual": 21354,
+      "canonicalPath": "/fipe/peugeot/207-sw-escapade-1-6-16v-flex-5p-2010-024159-8/",
+      "ano": 2010,
+      "marca": "Peugeot"
+    },
+    {
+      "vehicleId": "peugeot-207-sw-xs-1-6-flex-16v-5p-aut-2010-flex",
+      "fipeCodigo": "024154-7",
+      "displayName": "Peugeot 207 SW XS 1.6 Flex 16V 5p Aut.",
+      "valorAtual": 22295,
+      "canonicalPath": "/fipe/peugeot/207-sw-xs-1-6-flex-16v-5p-aut-2010-024154-7/",
+      "ano": 2010,
+      "marca": "Peugeot"
+    },
+    {
+      "vehicleId": "peugeot-207-xs-1-6-flex-16v-5p-aut-2010-flex",
+      "fipeCodigo": "024151-2",
+      "displayName": "Peugeot 207 XS 1.6 Flex 16V 5p Aut.",
+      "valorAtual": 24034,
+      "canonicalPath": "/fipe/peugeot/207-xs-1-6-flex-16v-5p-aut-2010-024151-2/",
+      "ano": 2010,
+      "marca": "Peugeot"
+    },
+    {
+      "vehicleId": "peugeot-207-x-line-1-4-flex-8v-3p-2009-flex",
+      "fipeCodigo": "024164-4",
+      "displayName": "Peugeot 207 X-Line 1.4 Flex 8V 3p",
+      "valorAtual": 16280,
+      "canonicalPath": "/fipe/peugeot/207-x-line-1-4-flex-8v-3p-2009-024164-4/",
+      "ano": 2009,
+      "marca": "Peugeot"
+    },
+    {
+      "vehicleId": "peugeot-207-x-line-1-4-flex-8v-5p-2009-flex",
+      "fipeCodigo": "024165-2",
+      "displayName": "Peugeot 207 X-Line 1.4 Flex 8V 5p",
+      "valorAtual": 16512,
+      "canonicalPath": "/fipe/peugeot/207-x-line-1-4-flex-8v-5p-2009-024165-2/",
+      "ano": 2009,
+      "marca": "Peugeot"
+    },
+    {
+      "vehicleId": "peugeot-207-xr-1-4-flex-8v-3p-2009-flex",
+      "fipeCodigo": "024145-8",
+      "displayName": "Peugeot 207 XR 1.4 Flex 8V 3p",
+      "valorAtual": 17720,
+      "canonicalPath": "/fipe/peugeot/207-xr-1-4-flex-8v-3p-2009-024145-8/",
+      "ano": 2009,
+      "marca": "Peugeot"
+    },
+    {
+      "vehicleId": "peugeot-207-sedan-passion-xr-1-4-flex-8v-4p-2009-flex",
+      "fipeCodigo": "024155-5",
+      "displayName": "Peugeot 207 Sedan Passion XR 1.4 Flex 8V 4p",
+      "valorAtual": 17722,
+      "canonicalPath": "/fipe/peugeot/207-sedan-passion-xr-1-4-flex-8v-4p-2009-024155-5/",
+      "ano": 2009,
+      "marca": "Peugeot"
+    },
+    {
+      "vehicleId": "peugeot-207-xr-sport-1-4-flex-8v-3p-2009-flex",
+      "fipeCodigo": "024147-4",
+      "displayName": "Peugeot 207 XR Sport 1.4 Flex 8V 3p",
+      "valorAtual": 17997,
+      "canonicalPath": "/fipe/peugeot/207-xr-sport-1-4-flex-8v-3p-2009-024147-4/",
+      "ano": 2009,
+      "marca": "Peugeot"
+    },
+    {
+      "vehicleId": "peugeot-207-xs-1-6-flex-16v-3p-2009-flex",
+      "fipeCodigo": "024149-0",
+      "displayName": "Peugeot 207 XS 1.6 Flex 16V 3p",
+      "valorAtual": 18086,
+      "canonicalPath": "/fipe/peugeot/207-xs-1-6-flex-16v-3p-2009-024149-0/",
+      "ano": 2009,
+      "marca": "Peugeot"
+    },
+    {
+      "vehicleId": "peugeot-207-sed-passion-xr-sport-1-4-flex-8v-4p-2009-flex",
+      "fipeCodigo": "024156-3",
+      "displayName": "Peugeot 207 Sed. Passion XR Sport 1.4 Flex 8V 4p",
+      "valorAtual": 18138,
+      "canonicalPath": "/fipe/peugeot/207-sed-passion-xr-sport-1-4-flex-8v-4p-2009-024156-3/",
+      "ano": 2009,
+      "marca": "Peugeot"
+    },
+    {
+      "vehicleId": "peugeot-207-sw-xr-1-4-flex-8v-5p-2009-flex",
+      "fipeCodigo": "024152-0",
+      "displayName": "Peugeot 207 SW XR 1.4 Flex 8V 5p",
+      "valorAtual": 18348,
+      "canonicalPath": "/fipe/peugeot/207-sw-xr-1-4-flex-8v-5p-2009-024152-0/",
+      "ano": 2009,
+      "marca": "Peugeot"
+    },
+    {
+      "vehicleId": "peugeot-207-sw-xr-sport-1-4-flex-8v-5p-2009-flex",
+      "fipeCodigo": "024153-9",
+      "displayName": "Peugeot 207 SW XR Sport 1.4 Flex 8V 5p",
+      "valorAtual": 18484,
+      "canonicalPath": "/fipe/peugeot/207-sw-xr-sport-1-4-flex-8v-5p-2009-024153-9/",
+      "ano": 2009,
+      "marca": "Peugeot"
+    },
+    {
+      "vehicleId": "peugeot-207-sedan-passion-xs-1-6-flex-16v-4p-2009-flex",
+      "fipeCodigo": "024157-1",
+      "displayName": "Peugeot 207 Sedan Passion XS 1.6 Flex 16V 4p",
+      "valorAtual": 18566,
+      "canonicalPath": "/fipe/peugeot/207-sedan-passion-xs-1-6-flex-16v-4p-2009-024157-1/",
+      "ano": 2009,
+      "marca": "Peugeot"
+    },
+    {
+      "vehicleId": "peugeot-207-sedan-passion-xs-1-6-flex-16v-4p-aut-2009-flex",
+      "fipeCodigo": "024158-0",
+      "displayName": "Peugeot 207 Sedan Passion XS 1.6 Flex 16V 4p Aut",
+      "valorAtual": 18980,
+      "canonicalPath": "/fipe/peugeot/207-sedan-passion-xs-1-6-flex-16v-4p-aut-2009-024158-0/",
+      "ano": 2009,
+      "marca": "Peugeot"
+    },
+    {
+      "vehicleId": "peugeot-207-xr-1-4-flex-8v-5p-2009-flex",
+      "fipeCodigo": "024146-6",
+      "displayName": "Peugeot 207 XR 1.4 Flex 8V 5p",
+      "valorAtual": 19037,
+      "canonicalPath": "/fipe/peugeot/207-xr-1-4-flex-8v-5p-2009-024146-6/",
+      "ano": 2009,
+      "marca": "Peugeot"
+    },
+    {
+      "vehicleId": "peugeot-207-sw-escapade-1-6-16v-flex-5p-2009-flex",
+      "fipeCodigo": "024159-8",
+      "displayName": "Peugeot 207 SW ESCAPADE 1.6 16V Flex 5p",
+      "valorAtual": 19068,
+      "canonicalPath": "/fipe/peugeot/207-sw-escapade-1-6-16v-flex-5p-2009-024159-8/",
+      "ano": 2009,
+      "marca": "Peugeot"
+    },
+    {
+      "vehicleId": "peugeot-207-xr-sport-1-4-flex-8v-5p-2009-flex",
+      "fipeCodigo": "024148-2",
+      "displayName": "Peugeot 207 XR Sport 1.4 Flex 8V 5p",
+      "valorAtual": 19268,
+      "canonicalPath": "/fipe/peugeot/207-xr-sport-1-4-flex-8v-5p-2009-024148-2/",
+      "ano": 2009,
+      "marca": "Peugeot"
+    },
+    {
+      "vehicleId": "peugeot-207-xs-1-6-flex-16v-5p-2009-flex",
+      "fipeCodigo": "024150-4",
+      "displayName": "Peugeot 207 XS 1.6 Flex 16V 5p",
+      "valorAtual": 19303,
+      "canonicalPath": "/fipe/peugeot/207-xs-1-6-flex-16v-5p-2009-024150-4/",
+      "ano": 2009,
+      "marca": "Peugeot"
+    },
+    {
+      "vehicleId": "peugeot-207-xs-1-6-flex-16v-5p-aut-2009-flex",
+      "fipeCodigo": "024151-2",
+      "displayName": "Peugeot 207 XS 1.6 Flex 16V 5p Aut.",
+      "valorAtual": 21650,
+      "canonicalPath": "/fipe/peugeot/207-xs-1-6-flex-16v-5p-aut-2009-024151-2/",
+      "ano": 2009,
+      "marca": "Peugeot"
+    },
+    {
+      "vehicleId": "peugeot-207-sw-xs-1-6-flex-16v-5p-aut-2009-flex",
+      "fipeCodigo": "024154-7",
+      "displayName": "Peugeot 207 SW XS 1.6 Flex 16V 5p Aut.",
+      "valorAtual": 21751,
+      "canonicalPath": "/fipe/peugeot/207-sw-xs-1-6-flex-16v-5p-aut-2009-024154-7/",
+      "ano": 2009,
+      "marca": "Peugeot"
+    }
+  ],
+  "stats": {
+    "total": 92,
+    "precoMin": 16280,
+    "precoMax": 30132,
+    "anos": [
+      2015,
+      2014,
+      2013,
+      2012,
+      2011,
+      2010,
+      2009
+    ]
+  }
+}

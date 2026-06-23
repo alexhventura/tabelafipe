@@ -1,0 +1,52 @@
+{
+  "tipo": "familia",
+  "slug": "avatr11",
+  "canonicalPath": "/fipe/caoa-changan/avatr11/",
+  "titulo": "Caoa Changan avatr11 - Tabela FIPE",
+  "descricao": "3 versoes e anos do Caoa Changan avatr11 na Tabela FIPE.",
+  "seo": {
+    "title": "Caoa Changan avatr11 - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes Caoa Changan avatr11. 3 veiculos indexados.",
+    "h1": "Caoa Changan avatr11 - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/caoa-changan/avatr11/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "caoa-changan-avatr11-2027-eletrico",
+      "fipeCodigo": "308002-1",
+      "displayName": "Caoa Changan AVATR11",
+      "valorAtual": 568541,
+      "canonicalPath": "/fipe/caoa-changan/avatr11-2027-308002-1/",
+      "ano": 2027,
+      "marca": "Caoa Changan"
+    },
+    {
+      "vehicleId": "caoa-changan-avatr11-2026-eletrico",
+      "fipeCodigo": "308002-1",
+      "displayName": "Caoa Changan AVATR11",
+      "valorAtual": 542897,
+      "canonicalPath": "/fipe/caoa-changan/avatr11-2026-308002-1/",
+      "ano": 2026,
+      "marca": "Caoa Changan"
+    },
+    {
+      "vehicleId": "caoa-changan-avatr11-0-eletrico",
+      "fipeCodigo": "308002-1",
+      "displayName": "Caoa Changan AVATR11",
+      "valorAtual": 609997,
+      "canonicalPath": "/fipe/caoa-changan/avatr11-0-308002-1/",
+      "ano": 0,
+      "marca": "Caoa Changan"
+    }
+  ],
+  "stats": {
+    "total": 3,
+    "precoMin": 542897,
+    "precoMax": 609997,
+    "anos": [
+      2027,
+      2026,
+      0
+    ]
+  }
+}

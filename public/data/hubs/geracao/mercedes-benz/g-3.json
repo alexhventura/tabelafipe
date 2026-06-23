@@ -1,0 +1,66 @@
+{
+  "tipo": "geracao",
+  "slug": "g-3",
+  "canonicalPath": "/geracao/mercedes-benz/g-3/",
+  "titulo": "Geracao g-3",
+  "descricao": "5 veiculos da geracao g-3.",
+  "seo": {
+    "title": "Geracao g-3 - Precos FIPE",
+    "description": "Veiculos da geracao g-3 na Tabela FIPE.",
+    "h1": "Geracao g-3",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/mercedes-benz/g-3/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "mercedes-benz-g-63-amg-4m-4-0-bi-tb-magno-edition-aut-2021-gasolina",
+      "fipeCodigo": "021464-7",
+      "displayName": "Mercedes-Benz G-63 AMG 4M 4.0 Bi-TB Magno Edition Aut.",
+      "valorAtual": 1742261,
+      "canonicalPath": "/fipe/mercedes-benz/g-63-amg-4m-4-0-bi-tb-magno-edition-aut-2021-021464-7/",
+      "ano": 2021,
+      "marca": "Mercedes-Benz"
+    },
+    {
+      "vehicleId": "mercedes-benz-g-63-amg-4matic-4-0-v8-bi-tb-585cv-aut-2019-gasolina",
+      "fipeCodigo": "021395-0",
+      "displayName": "Mercedes-Benz G-63 AMG 4MATIC 4.0 V8 Bi-TB 585cv Aut.",
+      "valorAtual": 1720282,
+      "canonicalPath": "/fipe/mercedes-benz/g-63-amg-4matic-4-0-v8-bi-tb-585cv-aut-2019-021395-0/",
+      "ano": 2019,
+      "marca": "Mercedes-Benz"
+    },
+    {
+      "vehicleId": "mercedes-benz-g-63-amg-4matic-4-0-v8-bi-tb-585cv-aut-2020-gasolina",
+      "fipeCodigo": "021395-0",
+      "displayName": "Mercedes-Benz G-63 AMG 4MATIC 4.0 V8 Bi-TB 585cv Aut.",
+      "valorAtual": 1887909,
+      "canonicalPath": "/fipe/mercedes-benz/g-63-amg-4matic-4-0-v8-bi-tb-585cv-aut-2020-021395-0/",
+      "ano": 2020,
+      "marca": "Mercedes-Benz"
+    },
+    {
+      "vehicleId": "mercedes-benz-g-63-amg-4matic-4-0-v8-bi-tb-585cv-aut-2021-gasolina",
+      "fipeCodigo": "021395-0",
+      "displayName": "Mercedes-Benz G-63 AMG 4MATIC 4.0 V8 Bi-TB 585cv Aut.",
+      "valorAtual": 1935107,
+      "canonicalPath": "/fipe/mercedes-benz/g-63-amg-4matic-4-0-v8-bi-tb-585cv-aut-2021-021395-0/",
+      "ano": 2021,
+      "marca": "Mercedes-Benz"
+    },
+    {
+      "vehicleId": "mercedes-benz-g-63-amg-ed1-4matic-4-0-v8-bi-tb-aut-2019-gasolina",
+      "fipeCodigo": "021396-9",
+      "displayName": "Mercedes-Benz G-63 AMG ED1 4MATIC 4.0 V8 Bi-TB Aut.",
+      "valorAtual": 1536342,
+      "canonicalPath": "/fipe/mercedes-benz/g-63-amg-ed1-4matic-4-0-v8-bi-tb-aut-2019-021396-9/",
+      "ano": 2019,
+      "marca": "Mercedes-Benz"
+    }
+  ],
+  "stats": {
+    "total": 5
+  },
+  "meta": {
+    "geracaoId": "g-3"
+  }
+}

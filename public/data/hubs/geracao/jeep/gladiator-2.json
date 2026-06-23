@@ -1,0 +1,48 @@
+{
+  "tipo": "geracao",
+  "slug": "gladiator-2",
+  "canonicalPath": "/geracao/jeep/gladiator-2/",
+  "titulo": "Geracao gladiator-2",
+  "descricao": "3 veiculos da geracao gladiator-2.",
+  "seo": {
+    "title": "Geracao gladiator-2 - Precos FIPE",
+    "description": "Veiculos da geracao gladiator-2 na Tabela FIPE.",
+    "h1": "Geracao gladiator-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/jeep/gladiator-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "jeep-gladiator-rubicon-3-6-v6-284-cv-2022-gasolina",
+      "fipeCodigo": "017091-7",
+      "displayName": "Jeep Gladiator Rubicon 3.6 V6 284 cv",
+      "valorAtual": 327907,
+      "canonicalPath": "/fipe/jeep/gladiator-rubicon-3-6-v6-284-cv-2022-017091-7/",
+      "ano": 2022,
+      "marca": "Jeep"
+    },
+    {
+      "vehicleId": "jeep-gladiator-rubicon-3-6-v6-284-cv-2023-gasolina",
+      "fipeCodigo": "017091-7",
+      "displayName": "Jeep Gladiator Rubicon 3.6 V6 284 cv",
+      "valorAtual": 344446,
+      "canonicalPath": "/fipe/jeep/gladiator-rubicon-3-6-v6-284-cv-2023-017091-7/",
+      "ano": 2023,
+      "marca": "Jeep"
+    },
+    {
+      "vehicleId": "jeep-gladiator-rubicon-3-6-v6-284-cv-2024-gasolina",
+      "fipeCodigo": "017091-7",
+      "displayName": "Jeep Gladiator Rubicon 3.6 V6 284 cv",
+      "valorAtual": 440215,
+      "canonicalPath": "/fipe/jeep/gladiator-rubicon-3-6-v6-284-cv-2024-017091-7/",
+      "ano": 2024,
+      "marca": "Jeep"
+    }
+  ],
+  "stats": {
+    "total": 3
+  },
+  "meta": {
+    "geracaoId": "gladiator-2"
+  }
+}

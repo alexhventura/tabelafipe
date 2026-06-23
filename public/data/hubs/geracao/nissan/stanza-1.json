@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "stanza-1",
+  "canonicalPath": "/geracao/nissan/stanza-1/",
+  "titulo": "Geracao stanza-1",
+  "descricao": "2 veiculos da geracao stanza-1.",
+  "seo": {
+    "title": "Geracao stanza-1 - Precos FIPE",
+    "description": "Veiculos da geracao stanza-1 na Tabela FIPE.",
+    "h1": "Geracao stanza-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/nissan/stanza-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "nissan-stanza-xe-2-4-12v-1992-gasolina",
+      "fipeCodigo": "023031-6",
+      "displayName": "Nissan Stanza XE 2.4 12V",
+      "valorAtual": 6096,
+      "canonicalPath": "/fipe/nissan/stanza-xe-2-4-12v-1992-023031-6/",
+      "ano": 1992,
+      "marca": "Nissan"
+    },
+    {
+      "vehicleId": "nissan-stanza-xe-2-4-12v-1993-gasolina",
+      "fipeCodigo": "023031-6",
+      "displayName": "Nissan Stanza XE 2.4 12V",
+      "valorAtual": 6652,
+      "canonicalPath": "/fipe/nissan/stanza-xe-2-4-12v-1993-023031-6/",
+      "ano": 1993,
+      "marca": "Nissan"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "stanza-1"
+  }
+}

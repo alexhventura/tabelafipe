@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "ev9-2",
+  "canonicalPath": "/geracao/kia-motors/ev9-2/",
+  "titulo": "Geracao ev9-2",
+  "descricao": "2 veiculos da geracao ev9-2.",
+  "seo": {
+    "title": "Geracao ev9-2 - Precos FIPE",
+    "description": "Veiculos da geracao ev9-2 na Tabela FIPE.",
+    "h1": "Geracao ev9-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/kia-motors/ev9-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "kia-motors-ev9-gtl-eletrico-2025-eletrico",
+      "fipeCodigo": "018104-8",
+      "displayName": "Kia Motors EV9 GTL (Elétrico)",
+      "valorAtual": 661393,
+      "canonicalPath": "/fipe/kia-motors/ev9-gtl-eletrico-2025-018104-8/",
+      "ano": 2025,
+      "marca": "Kia Motors"
+    },
+    {
+      "vehicleId": "kia-motors-ev9-gtl-eletrico-2026-eletrico",
+      "fipeCodigo": "018104-8",
+      "displayName": "Kia Motors EV9 GTL (Elétrico)",
+      "valorAtual": 680862,
+      "canonicalPath": "/fipe/kia-motors/ev9-gtl-eletrico-2026-018104-8/",
+      "ano": 2026,
+      "marca": "Kia Motors"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "ev9-2"
+  }
+}

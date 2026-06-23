@@ -1,0 +1,42 @@
+{
+  "tipo": "familia",
+  "slug": "tt",
+  "canonicalPath": "/fipe/triumph/tt/",
+  "titulo": "TRIUMPH tt - Tabela FIPE",
+  "descricao": "2 versoes e anos do TRIUMPH tt na Tabela FIPE.",
+  "seo": {
+    "title": "TRIUMPH tt - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes TRIUMPH tt. 2 veiculos indexados.",
+    "h1": "TRIUMPH tt - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/triumph/tt/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "triumph-tt-600-2001-gasolina",
+      "fipeCodigo": "826018-4",
+      "displayName": "TRIUMPH TT 600",
+      "valorAtual": 18645,
+      "canonicalPath": "/fipe/triumph/tt-600-2001-826018-4/",
+      "ano": 2001,
+      "marca": "TRIUMPH"
+    },
+    {
+      "vehicleId": "triumph-tt-600-2000-gasolina",
+      "fipeCodigo": "826018-4",
+      "displayName": "TRIUMPH TT 600",
+      "valorAtual": 16021,
+      "canonicalPath": "/fipe/triumph/tt-600-2000-826018-4/",
+      "ano": 2000,
+      "marca": "TRIUMPH"
+    }
+  ],
+  "stats": {
+    "total": 2,
+    "precoMin": 16021,
+    "precoMax": 18645,
+    "anos": [
+      2001,
+      2000
+    ]
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "tipo": "geracao",
+  "slug": "bw-1",
+  "canonicalPath": "/geracao/yamaha/bw-1/",
+  "titulo": "Geracao bw-1",
+  "descricao": "6 veiculos da geracao bw-1.",
+  "seo": {
+    "title": "Geracao bw-1 - Precos FIPE",
+    "description": "Veiculos da geracao bw-1 na Tabela FIPE.",
+    "h1": "Geracao bw-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/yamaha/bw-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "yamaha-bw-s-50-1995-gasolina",
+      "fipeCodigo": "827003-1",
+      "displayName": "YAMAHA BW S 50",
+      "valorAtual": 1387,
+      "canonicalPath": "/fipe/yamaha/bw-s-50-1995-827003-1/",
+      "ano": 1995,
+      "marca": "YAMAHA"
+    },
+    {
+      "vehicleId": "yamaha-bw-s-50-1996-gasolina",
+      "fipeCodigo": "827003-1",
+      "displayName": "YAMAHA BW S 50",
+      "valorAtual": 1534,
+      "canonicalPath": "/fipe/yamaha/bw-s-50-1996-827003-1/",
+      "ano": 1996,
+      "marca": "YAMAHA"
+    },
+    {
+      "vehicleId": "yamaha-bw-s-50-1997-gasolina",
+      "fipeCodigo": "827003-1",
+      "displayName": "YAMAHA BW S 50",
+      "valorAtual": 1753,
+      "canonicalPath": "/fipe/yamaha/bw-s-50-1997-827003-1/",
+      "ano": 1997,
+      "marca": "YAMAHA"
+    },
+    {
+      "vehicleId": "yamaha-bw-s-50-1998-gasolina",
+      "fipeCodigo": "827003-1",
+      "displayName": "YAMAHA BW S 50",
+      "valorAtual": 2010,
+      "canonicalPath": "/fipe/yamaha/bw-s-50-1998-827003-1/",
+      "ano": 1998,
+      "marca": "YAMAHA"
+    },
+    {
+      "vehicleId": "yamaha-bw-s-50-1999-gasolina",
+      "fipeCodigo": "827003-1",
+      "displayName": "YAMAHA BW S 50",
+      "valorAtual": 2544,
+      "canonicalPath": "/fipe/yamaha/bw-s-50-1999-827003-1/",
+      "ano": 1999,
+      "marca": "YAMAHA"
+    },
+    {
+      "vehicleId": "yamaha-bw-s-50-2000-gasolina",
+      "fipeCodigo": "827003-1",
+      "displayName": "YAMAHA BW S 50",
+      "valorAtual": 2882,
+      "canonicalPath": "/fipe/yamaha/bw-s-50-2000-827003-1/",
+      "ano": 2000,
+      "marca": "YAMAHA"
+    }
+  ],
+  "stats": {
+    "total": 6
+  },
+  "meta": {
+    "geracaoId": "bw-1"
+  }
+}

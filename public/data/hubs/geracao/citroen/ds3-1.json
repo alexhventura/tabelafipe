@@ -1,0 +1,75 @@
+{
+  "tipo": "geracao",
+  "slug": "ds3-1",
+  "canonicalPath": "/geracao/citroen/ds3-1/",
+  "titulo": "Geracao ds3-1",
+  "descricao": "6 veiculos da geracao ds3-1.",
+  "seo": {
+    "title": "Geracao ds3-1 - Precos FIPE",
+    "description": "Veiculos da geracao ds3-1 na Tabela FIPE.",
+    "h1": "Geracao ds3-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/citroen/ds3-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "citroen-ds3-1-6-turbo-16v-3p-mec-2012-gasolina",
+      "fipeCodigo": "011113-9",
+      "displayName": "Citroën DS3 1.6 Turbo 16V 3p Mec.",
+      "valorAtual": 53046,
+      "canonicalPath": "/fipe/citroen/ds3-1-6-turbo-16v-3p-mec-2012-011113-9/",
+      "ano": 2012,
+      "marca": "Citroën"
+    },
+    {
+      "vehicleId": "citroen-ds3-1-6-turbo-16v-3p-mec-2013-gasolina",
+      "fipeCodigo": "011113-9",
+      "displayName": "Citroën DS3 1.6 Turbo 16V 3p Mec.",
+      "valorAtual": 56952,
+      "canonicalPath": "/fipe/citroen/ds3-1-6-turbo-16v-3p-mec-2013-011113-9/",
+      "ano": 2013,
+      "marca": "Citroën"
+    },
+    {
+      "vehicleId": "citroen-ds3-1-6-turbo-16v-3p-mec-2014-gasolina",
+      "fipeCodigo": "011113-9",
+      "displayName": "Citroën DS3 1.6 Turbo 16V 3p Mec.",
+      "valorAtual": 65130,
+      "canonicalPath": "/fipe/citroen/ds3-1-6-turbo-16v-3p-mec-2014-011113-9/",
+      "ano": 2014,
+      "marca": "Citroën"
+    },
+    {
+      "vehicleId": "citroen-ds3-sport-chic-1-6-tb-16v-3p-mec-2015-gasolina",
+      "fipeCodigo": "011149-0",
+      "displayName": "Citroën DS3 Sport Chic 1.6 TB 16V 3p Mec.",
+      "valorAtual": 73615,
+      "canonicalPath": "/fipe/citroen/ds3-sport-chic-1-6-tb-16v-3p-mec-2015-011149-0/",
+      "ano": 2015,
+      "marca": "Citroën"
+    },
+    {
+      "vehicleId": "citroen-ds3-sport-chic-1-6-tb-16v-3p-mec-2016-gasolina",
+      "fipeCodigo": "011149-0",
+      "displayName": "Citroën DS3 Sport Chic 1.6 TB 16V 3p Mec.",
+      "valorAtual": 75456,
+      "canonicalPath": "/fipe/citroen/ds3-sport-chic-1-6-tb-16v-3p-mec-2016-011149-0/",
+      "ano": 2016,
+      "marca": "Citroën"
+    },
+    {
+      "vehicleId": "citroen-ds3-sport-chic-1-6-tb-16v-3p-mec-2017-gasolina",
+      "fipeCodigo": "011149-0",
+      "displayName": "Citroën DS3 Sport Chic 1.6 TB 16V 3p Mec.",
+      "valorAtual": 77495,
+      "canonicalPath": "/fipe/citroen/ds3-sport-chic-1-6-tb-16v-3p-mec-2017-011149-0/",
+      "ano": 2017,
+      "marca": "Citroën"
+    }
+  ],
+  "stats": {
+    "total": 6
+  },
+  "meta": {
+    "geracaoId": "ds3-1"
+  }
+}

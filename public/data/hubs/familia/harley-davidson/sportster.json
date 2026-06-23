@@ -1,0 +1,102 @@
+{
+  "tipo": "familia",
+  "slug": "sportster",
+  "canonicalPath": "/fipe/harley-davidson/sportster/",
+  "titulo": "HARLEY-DAVIDSON sportster - Tabela FIPE",
+  "descricao": "8 versoes e anos do HARLEY-DAVIDSON sportster na Tabela FIPE.",
+  "seo": {
+    "title": "HARLEY-DAVIDSON sportster - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes HARLEY-DAVIDSON sportster. 8 veiculos indexados.",
+    "h1": "HARLEY-DAVIDSON sportster - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/harley-davidson/sportster/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "harley-davidson-sportster-s-2026-gasolina",
+      "fipeCodigo": "810107-8",
+      "displayName": "HARLEY-DAVIDSON SPORTSTER S",
+      "valorAtual": 122931,
+      "canonicalPath": "/fipe/harley-davidson/sportster-s-2026-810107-8/",
+      "ano": 2026,
+      "marca": "HARLEY-DAVIDSON"
+    },
+    {
+      "vehicleId": "harley-davidson-sportster-s-2025-gasolina",
+      "fipeCodigo": "810107-8",
+      "displayName": "HARLEY-DAVIDSON SPORTSTER S",
+      "valorAtual": 118538,
+      "canonicalPath": "/fipe/harley-davidson/sportster-s-2025-810107-8/",
+      "ano": 2025,
+      "marca": "HARLEY-DAVIDSON"
+    },
+    {
+      "vehicleId": "harley-davidson-sportster-s-2024-gasolina",
+      "fipeCodigo": "810107-8",
+      "displayName": "HARLEY-DAVIDSON SPORTSTER S",
+      "valorAtual": 100635,
+      "canonicalPath": "/fipe/harley-davidson/sportster-s-2024-810107-8/",
+      "ano": 2024,
+      "marca": "HARLEY-DAVIDSON"
+    },
+    {
+      "vehicleId": "harley-davidson-sportster-s-2023-gasolina",
+      "fipeCodigo": "810107-8",
+      "displayName": "HARLEY-DAVIDSON SPORTSTER S",
+      "valorAtual": 97115,
+      "canonicalPath": "/fipe/harley-davidson/sportster-s-2023-810107-8/",
+      "ano": 2023,
+      "marca": "HARLEY-DAVIDSON"
+    },
+    {
+      "vehicleId": "harley-davidson-sportster-1200-custom-xl1200c-2018-gasolina",
+      "fipeCodigo": "810091-8",
+      "displayName": "HARLEY-DAVIDSON SPORTSTER 1200 CUSTOM XL1200C",
+      "valorAtual": 50974,
+      "canonicalPath": "/fipe/harley-davidson/sportster-1200-custom-xl1200c-2018-810091-8/",
+      "ano": 2018,
+      "marca": "HARLEY-DAVIDSON"
+    },
+    {
+      "vehicleId": "harley-davidson-sportster-1200-1995-gasolina",
+      "fipeCodigo": "810022-5",
+      "displayName": "HARLEY-DAVIDSON SPORTSTER 1200",
+      "valorAtual": 11879,
+      "canonicalPath": "/fipe/harley-davidson/sportster-1200-1995-810022-5/",
+      "ano": 1995,
+      "marca": "HARLEY-DAVIDSON"
+    },
+    {
+      "vehicleId": "harley-davidson-sportster-1200-1994-gasolina",
+      "fipeCodigo": "810022-5",
+      "displayName": "HARLEY-DAVIDSON SPORTSTER 1200",
+      "valorAtual": 11589,
+      "canonicalPath": "/fipe/harley-davidson/sportster-1200-1994-810022-5/",
+      "ano": 1994,
+      "marca": "HARLEY-DAVIDSON"
+    },
+    {
+      "vehicleId": "harley-davidson-sportster-s-0-gasolina",
+      "fipeCodigo": "810107-8",
+      "displayName": "HARLEY-DAVIDSON SPORTSTER S",
+      "valorAtual": 135913,
+      "canonicalPath": "/fipe/harley-davidson/sportster-s-0-810107-8/",
+      "ano": 0,
+      "marca": "HARLEY-DAVIDSON"
+    }
+  ],
+  "stats": {
+    "total": 8,
+    "precoMin": 11589,
+    "precoMax": 135913,
+    "anos": [
+      2026,
+      2025,
+      2024,
+      2023,
+      2018,
+      1995,
+      1994,
+      0
+    ]
+  }
+}

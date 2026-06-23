@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "fusca-1",
+  "canonicalPath": "/geracao/volkswagen/fusca-1/",
+  "titulo": "Geracao fusca-1",
+  "descricao": "2 veiculos da geracao fusca-1.",
+  "seo": {
+    "title": "Geracao fusca-1 - Precos FIPE",
+    "description": "Veiculos da geracao fusca-1 na Tabela FIPE.",
+    "h1": "Geracao fusca-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/volkswagen/fusca-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "volkswagen-fusca-1985-gasolina",
+      "fipeCodigo": "005027-0",
+      "displayName": "VW - VolksWagen Fusca",
+      "valorAtual": 26370,
+      "canonicalPath": "/fipe/volkswagen/fusca-1985-005027-0/",
+      "ano": 1985,
+      "marca": "VW - VolksWagen"
+    },
+    {
+      "vehicleId": "volkswagen-fusca-1986-gasolina",
+      "fipeCodigo": "005027-0",
+      "displayName": "VW - VolksWagen Fusca",
+      "valorAtual": 30696,
+      "canonicalPath": "/fipe/volkswagen/fusca-1986-005027-0/",
+      "ano": 1986,
+      "marca": "VW - VolksWagen"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "fusca-1"
+  }
+}

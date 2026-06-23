@@ -1,0 +1,66 @@
+{
+  "tipo": "geracao",
+  "slug": "kx-2",
+  "canonicalPath": "/geracao/kawasaki/kx-2/",
+  "titulo": "Geracao kx-2",
+  "descricao": "5 veiculos da geracao kx-2.",
+  "seo": {
+    "title": "Geracao kx-2 - Precos FIPE",
+    "description": "Veiculos da geracao kx-2 na Tabela FIPE.",
+    "h1": "Geracao kx-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/kawasaki/kx-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "kawasaki-kx-125-2001-gasolina",
+      "fipeCodigo": "817031-2",
+      "displayName": "KAWASAKI KX 125",
+      "valorAtual": 4823,
+      "canonicalPath": "/fipe/kawasaki/kx-125-2001-817031-2/",
+      "ano": 2001,
+      "marca": "KAWASAKI"
+    },
+    {
+      "vehicleId": "kawasaki-kx-125-2002-gasolina",
+      "fipeCodigo": "817031-2",
+      "displayName": "KAWASAKI KX 125",
+      "valorAtual": 4944,
+      "canonicalPath": "/fipe/kawasaki/kx-125-2002-817031-2/",
+      "ano": 2002,
+      "marca": "KAWASAKI"
+    },
+    {
+      "vehicleId": "kawasaki-kx-125-2003-gasolina",
+      "fipeCodigo": "817031-2",
+      "displayName": "KAWASAKI KX 125",
+      "valorAtual": 6047,
+      "canonicalPath": "/fipe/kawasaki/kx-125-2003-817031-2/",
+      "ano": 2003,
+      "marca": "KAWASAKI"
+    },
+    {
+      "vehicleId": "kawasaki-kx-250-250-f-2001-gasolina",
+      "fipeCodigo": "817030-4",
+      "displayName": "KAWASAKI KX 250/ 250 F",
+      "valorAtual": 6293,
+      "canonicalPath": "/fipe/kawasaki/kx-250-250-f-2001-817030-4/",
+      "ano": 2001,
+      "marca": "KAWASAKI"
+    },
+    {
+      "vehicleId": "kawasaki-kx-250-250-f-2002-gasolina",
+      "fipeCodigo": "817030-4",
+      "displayName": "KAWASAKI KX 250/ 250 F",
+      "valorAtual": 7571,
+      "canonicalPath": "/fipe/kawasaki/kx-250-250-f-2002-817030-4/",
+      "ano": 2002,
+      "marca": "KAWASAKI"
+    }
+  ],
+  "stats": {
+    "total": 5
+  },
+  "meta": {
+    "geracaoId": "kx-2"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "tipo": "geracao",
+  "slug": "low-2",
+  "canonicalPath": "/geracao/harley-davidson/low-2/",
+  "titulo": "Geracao low-2",
+  "descricao": "3 veiculos da geracao low-2.",
+  "seo": {
+    "title": "Geracao low-2 - Precos FIPE",
+    "description": "Veiculos da geracao low-2 na Tabela FIPE.",
+    "h1": "Geracao low-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/harley-davidson/low-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "harley-davidson-low-rider-fxdl-2015-gasolina",
+      "fipeCodigo": "810073-0",
+      "displayName": "HARLEY-DAVIDSON LOW RIDER FXDL",
+      "valorAtual": 46895,
+      "canonicalPath": "/fipe/harley-davidson/low-rider-fxdl-2015-810073-0/",
+      "ano": 2015,
+      "marca": "HARLEY-DAVIDSON"
+    },
+    {
+      "vehicleId": "harley-davidson-low-rider-fxdl-2016-gasolina",
+      "fipeCodigo": "810073-0",
+      "displayName": "HARLEY-DAVIDSON LOW RIDER FXDL",
+      "valorAtual": 48068,
+      "canonicalPath": "/fipe/harley-davidson/low-rider-fxdl-2016-810073-0/",
+      "ano": 2016,
+      "marca": "HARLEY-DAVIDSON"
+    },
+    {
+      "vehicleId": "harley-davidson-low-rider-fxdl-2017-gasolina",
+      "fipeCodigo": "810073-0",
+      "displayName": "HARLEY-DAVIDSON LOW RIDER FXDL",
+      "valorAtual": 54758,
+      "canonicalPath": "/fipe/harley-davidson/low-rider-fxdl-2017-810073-0/",
+      "ano": 2017,
+      "marca": "HARLEY-DAVIDSON"
+    }
+  ],
+  "stats": {
+    "total": 3
+  },
+  "meta": {
+    "geracaoId": "low-2"
+  }
+}

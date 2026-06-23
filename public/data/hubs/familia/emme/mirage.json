@@ -1,0 +1,52 @@
+{
+  "tipo": "familia",
+  "slug": "mirage",
+  "canonicalPath": "/fipe/emme/mirage/",
+  "titulo": "EMME mirage - Tabela FIPE",
+  "descricao": "3 versoes e anos do EMME mirage na Tabela FIPE.",
+  "seo": {
+    "title": "EMME mirage - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes EMME mirage. 3 veiculos indexados.",
+    "h1": "EMME mirage - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/emme/mirage/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "emme-mirage-50cc-1999-gasolina",
+      "fipeCodigo": "809001-7",
+      "displayName": "EMME MIRAGE 50cc",
+      "valorAtual": 1379,
+      "canonicalPath": "/fipe/emme/mirage-50cc-1999-809001-7/",
+      "ano": 1999,
+      "marca": "EMME"
+    },
+    {
+      "vehicleId": "emme-mirage-50cc-1998-gasolina",
+      "fipeCodigo": "809001-7",
+      "displayName": "EMME MIRAGE 50cc",
+      "valorAtual": 1252,
+      "canonicalPath": "/fipe/emme/mirage-50cc-1998-809001-7/",
+      "ano": 1998,
+      "marca": "EMME"
+    },
+    {
+      "vehicleId": "emme-mirage-50cc-1997-gasolina",
+      "fipeCodigo": "809001-7",
+      "displayName": "EMME MIRAGE 50cc",
+      "valorAtual": 1140,
+      "canonicalPath": "/fipe/emme/mirage-50cc-1997-809001-7/",
+      "ano": 1997,
+      "marca": "EMME"
+    }
+  ],
+  "stats": {
+    "total": 3,
+    "precoMin": 1140,
+    "precoMax": 1379,
+    "anos": [
+      1999,
+      1998,
+      1997
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "vantage-1",
+  "canonicalPath": "/geracao/aston-martin/vantage-1/",
+  "titulo": "Geracao vantage-1",
+  "descricao": "2 veiculos da geracao vantage-1.",
+  "seo": {
+    "title": "Geracao vantage-1 - Precos FIPE",
+    "description": "Veiculos da geracao vantage-1 na Tabela FIPE.",
+    "h1": "Geracao vantage-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/aston-martin/vantage-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "aston-martin-vantage-cupe-4-0-v8-510cv-0-gasolina",
+      "fipeCodigo": "085012-8",
+      "displayName": "ASTON MARTIN Vantage Cupê  4.0 V8 510cv",
+      "valorAtual": 2600000,
+      "canonicalPath": "/fipe/aston-martin/vantage-cupe-4-0-v8-510cv-0-085012-8/",
+      "ano": 0,
+      "marca": "ASTON MARTIN"
+    },
+    {
+      "vehicleId": "aston-martin-vantage-s-coupe-4-0-v8-680cv-0-gasolina",
+      "fipeCodigo": "085021-7",
+      "displayName": "ASTON MARTIN Vantage S Coupe 4.0 V8 680cv",
+      "valorAtual": 2700000,
+      "canonicalPath": "/fipe/aston-martin/vantage-s-coupe-4-0-v8-680cv-0-085021-7/",
+      "ano": 0,
+      "marca": "ASTON MARTIN"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "vantage-1"
+  }
+}

@@ -1,0 +1,20 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { SITE_URL } from '../lib/config';
+---
+
+<BaseLayout
+  title="Pesquisa Tabela FIPE — Consulta FIPE Gratuita"
+  description="Consulte o preço FIPE de carros, motos e caminhões. Digite marca, modelo, versão ou código FIPE."
+  canonical={`${SITE_URL}/`}
+>
+  <div class="home">
+    <h1>Consulta Tabela FIPE</h1>
+    <p>50.395 veículos indexados</p>
+    <form class="search-form" action="/busca" method="get" role="search">
+      <input type="search" name="q" placeholder="Marca, modelo ou código FIPE" autocomplete="off" />
+      <button type="submit">Buscar</button>
+    </form>
+    <p class="hint">Ex: Corolla · Onix LT 2024 · 002112-1</p>
+  </div>
+</BaseLayout>

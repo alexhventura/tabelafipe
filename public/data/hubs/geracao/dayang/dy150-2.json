@@ -1,0 +1,111 @@
+{
+  "tipo": "geracao",
+  "slug": "dy150-2",
+  "canonicalPath": "/geracao/dayang/dy150-2/",
+  "titulo": "Geracao dy150-2",
+  "descricao": "10 veiculos da geracao dy150-2.",
+  "seo": {
+    "title": "Geracao dy150-2 - Precos FIPE",
+    "description": "Veiculos da geracao dy150-2 na Tabela FIPE.",
+    "h1": "Geracao dy150-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/dayang/dy150-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "dayang-dy150-28-thor-2014-gasolina",
+      "fipeCodigo": "857017-5",
+      "displayName": "DAYANG DY150-28 THOR",
+      "valorAtual": 3780,
+      "canonicalPath": "/fipe/dayang/dy150-28-thor-2014-857017-5/",
+      "ano": 2014,
+      "marca": "DAYANG"
+    },
+    {
+      "vehicleId": "dayang-dy150-28-thor-2015-gasolina",
+      "fipeCodigo": "857017-5",
+      "displayName": "DAYANG DY150-28 THOR",
+      "valorAtual": 4258,
+      "canonicalPath": "/fipe/dayang/dy150-28-thor-2015-857017-5/",
+      "ano": 2015,
+      "marca": "DAYANG"
+    },
+    {
+      "vehicleId": "dayang-dy150-28-thor-2016-gasolina",
+      "fipeCodigo": "857017-5",
+      "displayName": "DAYANG DY150-28 THOR",
+      "valorAtual": 4709,
+      "canonicalPath": "/fipe/dayang/dy150-28-thor-2016-857017-5/",
+      "ano": 2016,
+      "marca": "DAYANG"
+    },
+    {
+      "vehicleId": "dayang-dy150-58-eagle-copa-2013-gasolina",
+      "fipeCodigo": "857010-8",
+      "displayName": "DAYANG DY150-58 EAGLE/COPA",
+      "valorAtual": 3406,
+      "canonicalPath": "/fipe/dayang/dy150-58-eagle-copa-2013-857010-8/",
+      "ano": 2013,
+      "marca": "DAYANG"
+    },
+    {
+      "vehicleId": "dayang-dy150-58-eagle-copa-2014-gasolina",
+      "fipeCodigo": "857010-8",
+      "displayName": "DAYANG DY150-58 EAGLE/COPA",
+      "valorAtual": 3793,
+      "canonicalPath": "/fipe/dayang/dy150-58-eagle-copa-2014-857010-8/",
+      "ano": 2014,
+      "marca": "DAYANG"
+    },
+    {
+      "vehicleId": "dayang-dy150-58-eagle-copa-2015-gasolina",
+      "fipeCodigo": "857010-8",
+      "displayName": "DAYANG DY150-58 EAGLE/COPA",
+      "valorAtual": 3899,
+      "canonicalPath": "/fipe/dayang/dy150-58-eagle-copa-2015-857010-8/",
+      "ano": 2015,
+      "marca": "DAYANG"
+    },
+    {
+      "vehicleId": "dayun-dy150-7-2010-gasolina",
+      "fipeCodigo": "860004-0",
+      "displayName": "DAYUN DY150-7",
+      "valorAtual": 5437,
+      "canonicalPath": "/fipe/dayun/dy150-7-2010-860004-0/",
+      "ano": 2010,
+      "marca": "DAYUN"
+    },
+    {
+      "vehicleId": "dayun-dy150-7-2011-gasolina",
+      "fipeCodigo": "860004-0",
+      "displayName": "DAYUN DY150-7",
+      "valorAtual": 6632,
+      "canonicalPath": "/fipe/dayun/dy150-7-2011-860004-0/",
+      "ano": 2011,
+      "marca": "DAYUN"
+    },
+    {
+      "vehicleId": "dayun-dy150-9-2010-gasolina",
+      "fipeCodigo": "860005-8",
+      "displayName": "DAYUN DY150-9",
+      "valorAtual": 3175,
+      "canonicalPath": "/fipe/dayun/dy150-9-2010-860005-8/",
+      "ano": 2010,
+      "marca": "DAYUN"
+    },
+    {
+      "vehicleId": "dayun-dy150-9-2011-gasolina",
+      "fipeCodigo": "860005-8",
+      "displayName": "DAYUN DY150-9",
+      "valorAtual": 3398,
+      "canonicalPath": "/fipe/dayun/dy150-9-2011-860005-8/",
+      "ano": 2011,
+      "marca": "DAYUN"
+    }
+  ],
+  "stats": {
+    "total": 10
+  },
+  "meta": {
+    "geracaoId": "dy150-2"
+  }
+}

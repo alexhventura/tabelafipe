@@ -1,0 +1,17 @@
+{
+  "name": "astro-ssg",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build",
+    "build:phase1": "cross-env SSG_LIMIT_VEHICLES=100 SSG_LIMIT_FAMILIES=100 SSG_LIMIT_GENERATIONS=50 SSG_LIMIT_ENGINES=5 SSG_LIMIT_PLATFORMS=6 astro build",
+    "build:full": "astro build",
+    "preview": "astro preview"
+  },
+  "devDependencies": {
+    "astro": "^5.18.2",
+    "typescript": "^5.9.3"
+  }
+}

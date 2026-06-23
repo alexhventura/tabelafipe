@@ -1,0 +1,79 @@
+{
+  "tipo": "familia",
+  "slug": "430",
+  "canonicalPath": "/fipe/maserati/430/",
+  "titulo": "Maserati 430 - Tabela FIPE",
+  "descricao": "6 versoes e anos do Maserati 430 na Tabela FIPE.",
+  "seo": {
+    "title": "Maserati 430 - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes Maserati 430. 6 veiculos indexados.",
+    "h1": "Maserati 430 - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/maserati/430/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "maserati-430-2-0-v6-1994-gasolina",
+      "fipeCodigo": "034005-7",
+      "displayName": "Maserati 430 2.0 V6",
+      "valorAtual": 26544,
+      "canonicalPath": "/fipe/maserati/430-2-0-v6-1994-034005-7/",
+      "ano": 1994,
+      "marca": "Maserati"
+    },
+    {
+      "vehicleId": "maserati-430-ii-2-0-v6-1994-gasolina",
+      "fipeCodigo": "034006-5",
+      "displayName": "Maserati 430 II 2.0 V6",
+      "valorAtual": 27942,
+      "canonicalPath": "/fipe/maserati/430-ii-2-0-v6-1994-034006-5/",
+      "ano": 1994,
+      "marca": "Maserati"
+    },
+    {
+      "vehicleId": "maserati-430-2-0-v6-1993-gasolina",
+      "fipeCodigo": "034005-7",
+      "displayName": "Maserati 430 2.0 V6",
+      "valorAtual": 22049,
+      "canonicalPath": "/fipe/maserati/430-2-0-v6-1993-034005-7/",
+      "ano": 1993,
+      "marca": "Maserati"
+    },
+    {
+      "vehicleId": "maserati-430-ii-2-0-v6-1993-gasolina",
+      "fipeCodigo": "034006-5",
+      "displayName": "Maserati 430 II 2.0 V6",
+      "valorAtual": 23920,
+      "canonicalPath": "/fipe/maserati/430-ii-2-0-v6-1993-034006-5/",
+      "ano": 1993,
+      "marca": "Maserati"
+    },
+    {
+      "vehicleId": "maserati-430-2-0-v6-1992-gasolina",
+      "fipeCodigo": "034005-7",
+      "displayName": "Maserati 430 2.0 V6",
+      "valorAtual": 17791,
+      "canonicalPath": "/fipe/maserati/430-2-0-v6-1992-034005-7/",
+      "ano": 1992,
+      "marca": "Maserati"
+    },
+    {
+      "vehicleId": "maserati-430-ii-2-0-v6-1992-gasolina",
+      "fipeCodigo": "034006-5",
+      "displayName": "Maserati 430 II 2.0 V6",
+      "valorAtual": 20720,
+      "canonicalPath": "/fipe/maserati/430-ii-2-0-v6-1992-034006-5/",
+      "ano": 1992,
+      "marca": "Maserati"
+    }
+  ],
+  "stats": {
+    "total": 6,
+    "precoMin": 17791,
+    "precoMax": 27942,
+    "anos": [
+      1994,
+      1993,
+      1992
+    ]
+  }
+}

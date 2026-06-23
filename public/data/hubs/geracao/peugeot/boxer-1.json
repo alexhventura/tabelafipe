@@ -1,0 +1,57 @@
+{
+  "tipo": "geracao",
+  "slug": "boxer-1",
+  "canonicalPath": "/geracao/peugeot/boxer-1/",
+  "titulo": "Geracao boxer-1",
+  "descricao": "4 veiculos da geracao boxer-1.",
+  "seo": {
+    "title": "Geracao boxer-1 - Precos FIPE",
+    "description": "Veiculos da geracao boxer-1 na Tabela FIPE.",
+    "h1": "Geracao boxer-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/peugeot/boxer-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "peugeot-boxer-cargo-2-2-turbo-diesel-0-diesel",
+      "fipeCodigo": "024262-4",
+      "displayName": "Peugeot Boxer Cargo 2.2 Turbo Diesel",
+      "valorAtual": 256030,
+      "canonicalPath": "/fipe/peugeot/boxer-cargo-2-2-turbo-diesel-0-024262-4/",
+      "ano": 0,
+      "marca": "Peugeot"
+    },
+    {
+      "vehicleId": "peugeot-boxer-furgao-2-2-turbo-diesel-0-diesel",
+      "fipeCodigo": "024261-6",
+      "displayName": "Peugeot Boxer Furgão 2.2 Turbo Diesel",
+      "valorAtual": 237740,
+      "canonicalPath": "/fipe/peugeot/boxer-furgao-2-2-turbo-diesel-0-024261-6/",
+      "ano": 0,
+      "marca": "Peugeot"
+    },
+    {
+      "vehicleId": "peugeot-boxer-minibus-exec-2-2-17l-turbo-diesel-0-diesel",
+      "fipeCodigo": "024280-2",
+      "displayName": "Peugeot Boxer Minibus Exec. 2.2 17L Turbo Diesel",
+      "valorAtual": 305312,
+      "canonicalPath": "/fipe/peugeot/boxer-minibus-exec-2-2-17l-turbo-diesel-0-024280-2/",
+      "ano": 0,
+      "marca": "Peugeot"
+    },
+    {
+      "vehicleId": "peugeot-boxer-vidrado-2-2-turbo-diesel-0-diesel",
+      "fipeCodigo": "024281-0",
+      "displayName": "Peugeot Boxer Vidrado 2.2 Turbo Diesel",
+      "valorAtual": 218047,
+      "canonicalPath": "/fipe/peugeot/boxer-vidrado-2-2-turbo-diesel-0-024281-0/",
+      "ano": 0,
+      "marca": "Peugeot"
+    }
+  ],
+  "stats": {
+    "total": 4
+  },
+  "meta": {
+    "geracaoId": "boxer-1"
+  }
+}

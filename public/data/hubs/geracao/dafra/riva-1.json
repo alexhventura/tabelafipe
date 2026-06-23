@@ -1,0 +1,111 @@
+{
+  "tipo": "geracao",
+  "slug": "riva-1",
+  "canonicalPath": "/geracao/dafra/riva-1/",
+  "titulo": "Geracao riva-1",
+  "descricao": "10 veiculos da geracao riva-1.",
+  "seo": {
+    "title": "Geracao riva-1 - Precos FIPE",
+    "description": "Veiculos da geracao riva-1 na Tabela FIPE.",
+    "h1": "Geracao riva-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/dafra/riva-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "dafra-riva-150cc-2012-gasolina",
+      "fipeCodigo": "861014-2",
+      "displayName": "DAFRA RIVA 150cc",
+      "valorAtual": 4899,
+      "canonicalPath": "/fipe/dafra/riva-150cc-2012-861014-2/",
+      "ano": 2012,
+      "marca": "DAFRA"
+    },
+    {
+      "vehicleId": "dafra-riva-150cc-2013-gasolina",
+      "fipeCodigo": "861014-2",
+      "displayName": "DAFRA RIVA 150cc",
+      "valorAtual": 5939,
+      "canonicalPath": "/fipe/dafra/riva-150cc-2013-861014-2/",
+      "ano": 2013,
+      "marca": "DAFRA"
+    },
+    {
+      "vehicleId": "dafra-riva-150cc-2014-gasolina",
+      "fipeCodigo": "861014-2",
+      "displayName": "DAFRA RIVA 150cc",
+      "valorAtual": 6088,
+      "canonicalPath": "/fipe/dafra/riva-150cc-2014-861014-2/",
+      "ano": 2014,
+      "marca": "DAFRA"
+    },
+    {
+      "vehicleId": "dafra-riva-150cc-2015-gasolina",
+      "fipeCodigo": "861014-2",
+      "displayName": "DAFRA RIVA 150cc",
+      "valorAtual": 6262,
+      "canonicalPath": "/fipe/dafra/riva-150cc-2015-861014-2/",
+      "ano": 2015,
+      "marca": "DAFRA"
+    },
+    {
+      "vehicleId": "dafra-riva-150cc-2016-gasolina",
+      "fipeCodigo": "861014-2",
+      "displayName": "DAFRA RIVA 150cc",
+      "valorAtual": 6458,
+      "canonicalPath": "/fipe/dafra/riva-150cc-2016-861014-2/",
+      "ano": 2016,
+      "marca": "DAFRA"
+    },
+    {
+      "vehicleId": "dafra-riva-150cc-2017-gasolina",
+      "fipeCodigo": "861014-2",
+      "displayName": "DAFRA RIVA 150cc",
+      "valorAtual": 8506,
+      "canonicalPath": "/fipe/dafra/riva-150cc-2017-861014-2/",
+      "ano": 2017,
+      "marca": "DAFRA"
+    },
+    {
+      "vehicleId": "dafra-riva-cargo-150cc-2013-gasolina",
+      "fipeCodigo": "861017-7",
+      "displayName": "DAFRA RIVA Cargo 150cc",
+      "valorAtual": 5254,
+      "canonicalPath": "/fipe/dafra/riva-cargo-150cc-2013-861017-7/",
+      "ano": 2013,
+      "marca": "DAFRA"
+    },
+    {
+      "vehicleId": "dafra-riva-cargo-150cc-2014-gasolina",
+      "fipeCodigo": "861017-7",
+      "displayName": "DAFRA RIVA Cargo 150cc",
+      "valorAtual": 5773,
+      "canonicalPath": "/fipe/dafra/riva-cargo-150cc-2014-861017-7/",
+      "ano": 2014,
+      "marca": "DAFRA"
+    },
+    {
+      "vehicleId": "dafra-riva-cargo-150cc-2015-gasolina",
+      "fipeCodigo": "861017-7",
+      "displayName": "DAFRA RIVA Cargo 150cc",
+      "valorAtual": 5918,
+      "canonicalPath": "/fipe/dafra/riva-cargo-150cc-2015-861017-7/",
+      "ano": 2015,
+      "marca": "DAFRA"
+    },
+    {
+      "vehicleId": "dafra-riva-cargo-150cc-2016-gasolina",
+      "fipeCodigo": "861017-7",
+      "displayName": "DAFRA RIVA Cargo 150cc",
+      "valorAtual": 6066,
+      "canonicalPath": "/fipe/dafra/riva-cargo-150cc-2016-861017-7/",
+      "ano": 2016,
+      "marca": "DAFRA"
+    }
+  ],
+  "stats": {
+    "total": 10
+  },
+  "meta": {
+    "geracaoId": "riva-1"
+  }
+}

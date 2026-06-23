@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "voyager-1",
+  "canonicalPath": "/geracao/kawasaki/voyager-1/",
+  "titulo": "Geracao voyager-1",
+  "descricao": "2 veiculos da geracao voyager-1.",
+  "seo": {
+    "title": "Geracao voyager-1 - Precos FIPE",
+    "description": "Veiculos da geracao voyager-1 na Tabela FIPE.",
+    "h1": "Geracao voyager-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/kawasaki/voyager-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "kawasaki-voyager-1200cc-1996-gasolina",
+      "fipeCodigo": "817015-0",
+      "displayName": "KAWASAKI VOYAGER 1200cc",
+      "valorAtual": 29216,
+      "canonicalPath": "/fipe/kawasaki/voyager-1200cc-1996-817015-0/",
+      "ano": 1996,
+      "marca": "KAWASAKI"
+    },
+    {
+      "vehicleId": "kawasaki-voyager-1200cc-1997-gasolina",
+      "fipeCodigo": "817015-0",
+      "displayName": "KAWASAKI VOYAGER 1200cc",
+      "valorAtual": 30210,
+      "canonicalPath": "/fipe/kawasaki/voyager-1200cc-1997-817015-0/",
+      "ano": 1997,
+      "marca": "KAWASAKI"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "voyager-1"
+  }
+}

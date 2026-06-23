@@ -1,0 +1,48 @@
+{
+  "tipo": "geracao",
+  "slug": "fy125ey-1",
+  "canonicalPath": "/geracao/fym/fy125ey-1/",
+  "titulo": "Geracao fy125ey-1",
+  "descricao": "3 veiculos da geracao fy125ey-1.",
+  "seo": {
+    "title": "Geracao fy125ey-1 - Precos FIPE",
+    "description": "Veiculos da geracao fy125ey-1 na Tabela FIPE.",
+    "h1": "Geracao fy125ey-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/fym/fy125ey-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "fym-fy125ey-2-125cc-2006-gasolina",
+      "fipeCodigo": "849007-4",
+      "displayName": "FYM FY125EY-2 125cc",
+      "valorAtual": 2006,
+      "canonicalPath": "/fipe/fym/fy125ey-2-125cc-2006-849007-4/",
+      "ano": 2006,
+      "marca": "FYM"
+    },
+    {
+      "vehicleId": "fym-fy125ey-2-125cc-2007-gasolina",
+      "fipeCodigo": "849007-4",
+      "displayName": "FYM FY125EY-2 125cc",
+      "valorAtual": 2172,
+      "canonicalPath": "/fipe/fym/fy125ey-2-125cc-2007-849007-4/",
+      "ano": 2007,
+      "marca": "FYM"
+    },
+    {
+      "vehicleId": "fym-fy125ey-2-125cc-2008-gasolina",
+      "fipeCodigo": "849007-4",
+      "displayName": "FYM FY125EY-2 125cc",
+      "valorAtual": 2328,
+      "canonicalPath": "/fipe/fym/fy125ey-2-125cc-2008-849007-4/",
+      "ano": 2008,
+      "marca": "FYM"
+    }
+  ],
+  "stats": {
+    "total": 3
+  },
+  "meta": {
+    "geracaoId": "fy125ey-1"
+  }
+}

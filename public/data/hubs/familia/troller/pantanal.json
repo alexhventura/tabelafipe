@@ -1,0 +1,60 @@
+{
+  "tipo": "familia",
+  "slug": "pantanal",
+  "canonicalPath": "/fipe/troller/pantanal/",
+  "titulo": "Troller pantanal - Tabela FIPE",
+  "descricao": "4 versoes e anos do Troller pantanal na Tabela FIPE.",
+  "seo": {
+    "title": "Troller pantanal - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes Troller pantanal. 4 veiculos indexados.",
+    "h1": "Troller pantanal - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/troller/pantanal/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "troller-pantanal-3-0-tdi-elet-4x2-cs-diesel-2007-diesel",
+      "fipeCodigo": "056008-1",
+      "displayName": "Troller PANTANAL 3.0 TDI Elet. 4x2 CS Diesel",
+      "valorAtual": 30641,
+      "canonicalPath": "/fipe/troller/pantanal-3-0-tdi-elet-4x2-cs-diesel-2007-056008-1/",
+      "ano": 2007,
+      "marca": "Troller"
+    },
+    {
+      "vehicleId": "troller-pantanal-3-0-tdi-elet-4x4-cs-diesel-2007-diesel",
+      "fipeCodigo": "056009-0",
+      "displayName": "Troller PANTANAL 3.0 TDI Elet. 4x4 CS Diesel",
+      "valorAtual": 34011,
+      "canonicalPath": "/fipe/troller/pantanal-3-0-tdi-elet-4x4-cs-diesel-2007-056009-0/",
+      "ano": 2007,
+      "marca": "Troller"
+    },
+    {
+      "vehicleId": "troller-pantanal-3-0-tdi-elet-4x2-cs-diesel-2006-diesel",
+      "fipeCodigo": "056008-1",
+      "displayName": "Troller PANTANAL 3.0 TDI Elet. 4x2 CS Diesel",
+      "valorAtual": 27490,
+      "canonicalPath": "/fipe/troller/pantanal-3-0-tdi-elet-4x2-cs-diesel-2006-056008-1/",
+      "ano": 2006,
+      "marca": "Troller"
+    },
+    {
+      "vehicleId": "troller-pantanal-3-0-tdi-elet-4x4-cs-diesel-2006-diesel",
+      "fipeCodigo": "056009-0",
+      "displayName": "Troller PANTANAL 3.0 TDI Elet. 4x4 CS Diesel",
+      "valorAtual": 30194,
+      "canonicalPath": "/fipe/troller/pantanal-3-0-tdi-elet-4x4-cs-diesel-2006-056009-0/",
+      "ano": 2006,
+      "marca": "Troller"
+    }
+  ],
+  "stats": {
+    "total": 4,
+    "precoMin": 27490,
+    "precoMax": 34011,
+    "anos": [
+      2007,
+      2006
+    ]
+  }
+}

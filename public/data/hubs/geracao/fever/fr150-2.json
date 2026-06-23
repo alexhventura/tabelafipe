@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "fr150-2",
+  "canonicalPath": "/geracao/fever/fr150-2/",
+  "titulo": "Geracao fr150-2",
+  "descricao": "2 veiculos da geracao fr150-2.",
+  "seo": {
+    "title": "Geracao fr150-2 - Precos FIPE",
+    "description": "Veiculos da geracao fr150-2 na Tabela FIPE.",
+    "h1": "Geracao fr150-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/fever/fr150-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "fever-fr150-frigo-eletrica-2023-eletrico",
+      "fipeCodigo": "897005-0",
+      "displayName": "FEVER FR150 FRIGO (Elétrica)",
+      "valorAtual": 64163,
+      "canonicalPath": "/fipe/fever/fr150-frigo-eletrica-2023-897005-0/",
+      "ano": 2023,
+      "marca": "FEVER"
+    },
+    {
+      "vehicleId": "fever-fr150-frigo-eletrica-2024-eletrico",
+      "fipeCodigo": "897005-0",
+      "displayName": "FEVER FR150 FRIGO (Elétrica)",
+      "valorAtual": 66114,
+      "canonicalPath": "/fipe/fever/fr150-frigo-eletrica-2024-897005-0/",
+      "ano": 2024,
+      "marca": "FEVER"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "fr150-2"
+  }
+}

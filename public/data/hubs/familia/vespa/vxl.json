@@ -1,0 +1,60 @@
+{
+  "tipo": "familia",
+  "slug": "vxl",
+  "canonicalPath": "/fipe/vespa/vxl/",
+  "titulo": "VESPA vxl - Tabela FIPE",
+  "descricao": "4 versoes e anos do VESPA vxl na Tabela FIPE.",
+  "seo": {
+    "title": "VESPA vxl - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes VESPA vxl. 4 veiculos indexados.",
+    "h1": "VESPA vxl - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/vespa/vxl/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "vespa-vxl-150-2025-gasolina",
+      "fipeCodigo": "898001-2",
+      "displayName": "VESPA VXL 150",
+      "valorAtual": 29401,
+      "canonicalPath": "/fipe/vespa/vxl-150-2025-898001-2/",
+      "ano": 2025,
+      "marca": "VESPA"
+    },
+    {
+      "vehicleId": "vespa-vxl-dual-150-2025-gasolina",
+      "fipeCodigo": "898003-9",
+      "displayName": "VESPA VXL Dual 150",
+      "valorAtual": 30384,
+      "canonicalPath": "/fipe/vespa/vxl-dual-150-2025-898003-9/",
+      "ano": 2025,
+      "marca": "VESPA"
+    },
+    {
+      "vehicleId": "vespa-vxl-150-0-gasolina",
+      "fipeCodigo": "898001-2",
+      "displayName": "VESPA VXL 150",
+      "valorAtual": 31990,
+      "canonicalPath": "/fipe/vespa/vxl-150-0-898001-2/",
+      "ano": 0,
+      "marca": "VESPA"
+    },
+    {
+      "vehicleId": "vespa-vxl-dual-150-0-gasolina",
+      "fipeCodigo": "898003-9",
+      "displayName": "VESPA VXL Dual 150",
+      "valorAtual": 32790,
+      "canonicalPath": "/fipe/vespa/vxl-dual-150-0-898003-9/",
+      "ano": 0,
+      "marca": "VESPA"
+    }
+  ],
+  "stats": {
+    "total": 4,
+    "precoMin": 29401,
+    "precoMax": 32790,
+    "anos": [
+      2025,
+      0
+    ]
+  }
+}

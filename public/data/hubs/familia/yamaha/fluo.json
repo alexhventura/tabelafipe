@@ -1,0 +1,82 @@
+{
+  "tipo": "familia",
+  "slug": "fluo",
+  "canonicalPath": "/fipe/yamaha/fluo/",
+  "titulo": "YAMAHA fluo - Tabela FIPE",
+  "descricao": "6 versoes e anos do YAMAHA fluo na Tabela FIPE.",
+  "seo": {
+    "title": "YAMAHA fluo - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes YAMAHA fluo. 6 veiculos indexados.",
+    "h1": "YAMAHA fluo - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/yamaha/fluo/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "yamaha-fluo-125-connected-2027-hibrido",
+      "fipeCodigo": "827136-4",
+      "displayName": "YAMAHA FLUO 125 CONNECTED",
+      "valorAtual": 16393,
+      "canonicalPath": "/fipe/yamaha/fluo-125-connected-2027-827136-4/",
+      "ano": 2027,
+      "marca": "YAMAHA"
+    },
+    {
+      "vehicleId": "yamaha-fluo-125-connected-2026-hibrido",
+      "fipeCodigo": "827136-4",
+      "displayName": "YAMAHA FLUO 125 CONNECTED",
+      "valorAtual": 15560,
+      "canonicalPath": "/fipe/yamaha/fluo-125-connected-2026-827136-4/",
+      "ano": 2026,
+      "marca": "YAMAHA"
+    },
+    {
+      "vehicleId": "yamaha-fluo-125-abs-2025-gasolina",
+      "fipeCodigo": "827121-6",
+      "displayName": "YAMAHA FLUO 125 ABS",
+      "valorAtual": 14994,
+      "canonicalPath": "/fipe/yamaha/fluo-125-abs-2025-827121-6/",
+      "ano": 2025,
+      "marca": "YAMAHA"
+    },
+    {
+      "vehicleId": "yamaha-fluo-125-abs-2024-gasolina",
+      "fipeCodigo": "827121-6",
+      "displayName": "YAMAHA FLUO 125 ABS",
+      "valorAtual": 13656,
+      "canonicalPath": "/fipe/yamaha/fluo-125-abs-2024-827121-6/",
+      "ano": 2024,
+      "marca": "YAMAHA"
+    },
+    {
+      "vehicleId": "yamaha-fluo-125-abs-2023-gasolina",
+      "fipeCodigo": "827121-6",
+      "displayName": "YAMAHA FLUO 125 ABS",
+      "valorAtual": 12762,
+      "canonicalPath": "/fipe/yamaha/fluo-125-abs-2023-827121-6/",
+      "ano": 2023,
+      "marca": "YAMAHA"
+    },
+    {
+      "vehicleId": "yamaha-fluo-125-connected-0-hibrido",
+      "fipeCodigo": "827136-4",
+      "displayName": "YAMAHA FLUO 125 CONNECTED",
+      "valorAtual": 17659,
+      "canonicalPath": "/fipe/yamaha/fluo-125-connected-0-827136-4/",
+      "ano": 0,
+      "marca": "YAMAHA"
+    }
+  ],
+  "stats": {
+    "total": 6,
+    "precoMin": 12762,
+    "precoMax": 17659,
+    "anos": [
+      2027,
+      2026,
+      2025,
+      2024,
+      2023,
+      0
+    ]
+  }
+}

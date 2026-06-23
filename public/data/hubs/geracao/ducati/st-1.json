@@ -1,0 +1,75 @@
+{
+  "tipo": "geracao",
+  "slug": "st-1",
+  "canonicalPath": "/geracao/ducati/st-1/",
+  "titulo": "Geracao st-1",
+  "descricao": "6 veiculos da geracao st-1.",
+  "seo": {
+    "title": "Geracao st-1 - Precos FIPE",
+    "description": "Veiculos da geracao st-1 na Tabela FIPE.",
+    "h1": "Geracao st-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/ducati/st-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "ducati-st-2-900-944cc-1997-gasolina",
+      "fipeCodigo": "808006-2",
+      "displayName": "DUCATI ST-2 900/ 944cc",
+      "valorAtual": 12229,
+      "canonicalPath": "/fipe/ducati/st-2-900-944cc-1997-808006-2/",
+      "ano": 1997,
+      "marca": "DUCATI"
+    },
+    {
+      "vehicleId": "ducati-st-2-900-944cc-1998-gasolina",
+      "fipeCodigo": "808006-2",
+      "displayName": "DUCATI ST-2 900/ 944cc",
+      "valorAtual": 14062,
+      "canonicalPath": "/fipe/ducati/st-2-900-944cc-1998-808006-2/",
+      "ano": 1998,
+      "marca": "DUCATI"
+    },
+    {
+      "vehicleId": "ducati-st-4-900-996cc-1997-gasolina",
+      "fipeCodigo": "808007-0",
+      "displayName": "DUCATI ST-4 900/ 996cc",
+      "valorAtual": 13877,
+      "canonicalPath": "/fipe/ducati/st-4-900-996cc-1997-808007-0/",
+      "ano": 1997,
+      "marca": "DUCATI"
+    },
+    {
+      "vehicleId": "ducati-st-4-900-996cc-1998-gasolina",
+      "fipeCodigo": "808007-0",
+      "displayName": "DUCATI ST-4 900/ 996cc",
+      "valorAtual": 16060,
+      "canonicalPath": "/fipe/ducati/st-4-900-996cc-1998-808007-0/",
+      "ano": 1998,
+      "marca": "DUCATI"
+    },
+    {
+      "vehicleId": "ducati-st-4-900-996cc-1999-gasolina",
+      "fipeCodigo": "808007-0",
+      "displayName": "DUCATI ST-4 900/ 996cc",
+      "valorAtual": 16938,
+      "canonicalPath": "/fipe/ducati/st-4-900-996cc-1999-808007-0/",
+      "ano": 1999,
+      "marca": "DUCATI"
+    },
+    {
+      "vehicleId": "ducati-st-4-900-996cc-2000-gasolina",
+      "fipeCodigo": "808007-0",
+      "displayName": "DUCATI ST-4 900/ 996cc",
+      "valorAtual": 19222,
+      "canonicalPath": "/fipe/ducati/st-4-900-996cc-2000-808007-0/",
+      "ano": 2000,
+      "marca": "DUCATI"
+    }
+  ],
+  "stats": {
+    "total": 6
+  },
+  "meta": {
+    "geracaoId": "st-1"
+  }
+}

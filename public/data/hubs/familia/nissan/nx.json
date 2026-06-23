@@ -1,0 +1,70 @@
+{
+  "tipo": "familia",
+  "slug": "nx",
+  "canonicalPath": "/fipe/nissan/nx/",
+  "titulo": "Nissan nx - Tabela FIPE",
+  "descricao": "5 versoes e anos do Nissan nx na Tabela FIPE.",
+  "seo": {
+    "title": "Nissan nx - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes Nissan nx. 5 veiculos indexados.",
+    "h1": "Nissan nx - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/nissan/nx/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "nissan-nx-2000-1994-gasolina",
+      "fipeCodigo": "023016-2",
+      "displayName": "Nissan NX 2000",
+      "valorAtual": 7416,
+      "canonicalPath": "/fipe/nissan/nx-2000-1994-023016-2/",
+      "ano": 1994,
+      "marca": "Nissan"
+    },
+    {
+      "vehicleId": "nissan-nx-2000-1993-gasolina",
+      "fipeCodigo": "023016-2",
+      "displayName": "Nissan NX 2000",
+      "valorAtual": 6766,
+      "canonicalPath": "/fipe/nissan/nx-2000-1993-023016-2/",
+      "ano": 1993,
+      "marca": "Nissan"
+    },
+    {
+      "vehicleId": "nissan-nx-2000-targa-2-0-1993-gasolina",
+      "fipeCodigo": "023029-4",
+      "displayName": "Nissan NX 2000 Targa 2.0",
+      "valorAtual": 8680,
+      "canonicalPath": "/fipe/nissan/nx-2000-targa-2-0-1993-023029-4/",
+      "ano": 1993,
+      "marca": "Nissan"
+    },
+    {
+      "vehicleId": "nissan-nx-2000-1992-gasolina",
+      "fipeCodigo": "023016-2",
+      "displayName": "Nissan NX 2000",
+      "valorAtual": 5763,
+      "canonicalPath": "/fipe/nissan/nx-2000-1992-023016-2/",
+      "ano": 1992,
+      "marca": "Nissan"
+    },
+    {
+      "vehicleId": "nissan-nx-2000-targa-2-0-1992-gasolina",
+      "fipeCodigo": "023029-4",
+      "displayName": "Nissan NX 2000 Targa 2.0",
+      "valorAtual": 8304,
+      "canonicalPath": "/fipe/nissan/nx-2000-targa-2-0-1992-023029-4/",
+      "ano": 1992,
+      "marca": "Nissan"
+    }
+  ],
+  "stats": {
+    "total": 5,
+    "precoMin": 5763,
+    "precoMax": 8680,
+    "anos": [
+      1994,
+      1993,
+      1992
+    ]
+  }
+}

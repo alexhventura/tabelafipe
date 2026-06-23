@@ -1,0 +1,98 @@
+{
+  "tipo": "familia",
+  "slug": "primavera",
+  "canonicalPath": "/fipe/vespa/primavera/",
+  "titulo": "VESPA primavera - Tabela FIPE",
+  "descricao": "8 versoes e anos do VESPA primavera na Tabela FIPE.",
+  "seo": {
+    "title": "VESPA primavera - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes VESPA primavera. 8 veiculos indexados.",
+    "h1": "VESPA primavera - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/vespa/primavera/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "vespa-primavera-150-2025-gasolina",
+      "fipeCodigo": "898007-1",
+      "displayName": "VESPA Primavera 150",
+      "valorAtual": 53220,
+      "canonicalPath": "/fipe/vespa/primavera-150-2025-898007-1/",
+      "ano": 2025,
+      "marca": "VESPA"
+    },
+    {
+      "vehicleId": "vespa-primavera-sport-150-2025-gasolina",
+      "fipeCodigo": "898008-0",
+      "displayName": "VESPA Primavera Sport 150",
+      "valorAtual": 54095,
+      "canonicalPath": "/fipe/vespa/primavera-sport-150-2025-898008-0/",
+      "ano": 2025,
+      "marca": "VESPA"
+    },
+    {
+      "vehicleId": "vespa-primavera-150-2024-gasolina",
+      "fipeCodigo": "898007-1",
+      "displayName": "VESPA Primavera 150",
+      "valorAtual": 51457,
+      "canonicalPath": "/fipe/vespa/primavera-150-2024-898007-1/",
+      "ano": 2024,
+      "marca": "VESPA"
+    },
+    {
+      "vehicleId": "vespa-primavera-sport-150-2024-gasolina",
+      "fipeCodigo": "898008-0",
+      "displayName": "VESPA Primavera Sport 150",
+      "valorAtual": 52299,
+      "canonicalPath": "/fipe/vespa/primavera-sport-150-2024-898008-0/",
+      "ano": 2024,
+      "marca": "VESPA"
+    },
+    {
+      "vehicleId": "vespa-primavera-edicao-mickey-mouse-150-2023-gasolina",
+      "fipeCodigo": "898009-8",
+      "displayName": "VESPA Primavera Edição Mickey Mouse 150",
+      "valorAtual": 58138,
+      "canonicalPath": "/fipe/vespa/primavera-edicao-mickey-mouse-150-2023-898009-8/",
+      "ano": 2023,
+      "marca": "VESPA"
+    },
+    {
+      "vehicleId": "vespa-primavera-150-0-gasolina",
+      "fipeCodigo": "898007-1",
+      "displayName": "VESPA Primavera 150",
+      "valorAtual": 57593,
+      "canonicalPath": "/fipe/vespa/primavera-150-0-898007-1/",
+      "ano": 0,
+      "marca": "VESPA"
+    },
+    {
+      "vehicleId": "vespa-primavera-sport-150-0-gasolina",
+      "fipeCodigo": "898008-0",
+      "displayName": "VESPA Primavera Sport 150",
+      "valorAtual": 58946,
+      "canonicalPath": "/fipe/vespa/primavera-sport-150-0-898008-0/",
+      "ano": 0,
+      "marca": "VESPA"
+    },
+    {
+      "vehicleId": "vespa-primavera-edicao-mickey-mouse-150-0-gasolina",
+      "fipeCodigo": "898009-8",
+      "displayName": "VESPA Primavera Edição Mickey Mouse 150",
+      "valorAtual": 62781,
+      "canonicalPath": "/fipe/vespa/primavera-edicao-mickey-mouse-150-0-898009-8/",
+      "ano": 0,
+      "marca": "VESPA"
+    }
+  ],
+  "stats": {
+    "total": 8,
+    "precoMin": 51457,
+    "precoMax": 62781,
+    "anos": [
+      2025,
+      2024,
+      2023,
+      0
+    ]
+  }
+}

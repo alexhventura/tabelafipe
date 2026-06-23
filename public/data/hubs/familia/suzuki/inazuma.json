@@ -1,0 +1,52 @@
+{
+  "tipo": "familia",
+  "slug": "inazuma",
+  "canonicalPath": "/fipe/suzuki/inazuma/",
+  "titulo": "SUZUKI inazuma - Tabela FIPE",
+  "descricao": "3 versoes e anos do SUZUKI inazuma na Tabela FIPE.",
+  "seo": {
+    "title": "SUZUKI inazuma - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes SUZUKI inazuma. 3 veiculos indexados.",
+    "h1": "SUZUKI inazuma - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/suzuki/inazuma/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "suzuki-inazuma-250cc-2016-gasolina",
+      "fipeCodigo": "825067-7",
+      "displayName": "SUZUKI INAZUMA 250cc",
+      "valorAtual": 13998,
+      "canonicalPath": "/fipe/suzuki/inazuma-250cc-2016-825067-7/",
+      "ano": 2016,
+      "marca": "SUZUKI"
+    },
+    {
+      "vehicleId": "suzuki-inazuma-250cc-2015-gasolina",
+      "fipeCodigo": "825067-7",
+      "displayName": "SUZUKI INAZUMA 250cc",
+      "valorAtual": 12801,
+      "canonicalPath": "/fipe/suzuki/inazuma-250cc-2015-825067-7/",
+      "ano": 2015,
+      "marca": "SUZUKI"
+    },
+    {
+      "vehicleId": "suzuki-inazuma-250cc-2014-gasolina",
+      "fipeCodigo": "825067-7",
+      "displayName": "SUZUKI INAZUMA 250cc",
+      "valorAtual": 11331,
+      "canonicalPath": "/fipe/suzuki/inazuma-250cc-2014-825067-7/",
+      "ano": 2014,
+      "marca": "SUZUKI"
+    }
+  ],
+  "stats": {
+    "total": 3,
+    "precoMin": 11331,
+    "precoMax": 13998,
+    "anos": [
+      2016,
+      2015,
+      2014
+    ]
+  }
+}

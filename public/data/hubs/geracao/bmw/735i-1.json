@@ -1,0 +1,75 @@
+{
+  "tipo": "geracao",
+  "slug": "735i-1",
+  "canonicalPath": "/geracao/bmw/735i-1/",
+  "titulo": "Geracao 735i-1",
+  "descricao": "6 veiculos da geracao 735i-1.",
+  "seo": {
+    "title": "Geracao 735i-1 - Precos FIPE",
+    "description": "Veiculos da geracao 735i-1 na Tabela FIPE.",
+    "h1": "Geracao 735i-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/bmw/735i-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "bmw-735i-ia-3-5-32v-1987-gasolina",
+      "fipeCodigo": "009070-0",
+      "displayName": "BMW 735i/iA 3.5 32V",
+      "valorAtual": 11350,
+      "canonicalPath": "/fipe/bmw/735i-ia-3-5-32v-1987-009070-0/",
+      "ano": 1987,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-735i-ia-3-5-32v-1988-gasolina",
+      "fipeCodigo": "009070-0",
+      "displayName": "BMW 735i/iA 3.5 32V",
+      "valorAtual": 13289,
+      "canonicalPath": "/fipe/bmw/735i-ia-3-5-32v-1988-009070-0/",
+      "ano": 1988,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-735i-ia-3-5-32v-1989-gasolina",
+      "fipeCodigo": "009070-0",
+      "displayName": "BMW 735i/iA 3.5 32V",
+      "valorAtual": 13777,
+      "canonicalPath": "/fipe/bmw/735i-ia-3-5-32v-1989-009070-0/",
+      "ano": 1989,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-735i-ia-3-5-32v-1990-gasolina",
+      "fipeCodigo": "009070-0",
+      "displayName": "BMW 735i/iA 3.5 32V",
+      "valorAtual": 15854,
+      "canonicalPath": "/fipe/bmw/735i-ia-3-5-32v-1990-009070-0/",
+      "ano": 1990,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-735i-ia-3-5-32v-1991-gasolina",
+      "fipeCodigo": "009070-0",
+      "displayName": "BMW 735i/iA 3.5 32V",
+      "valorAtual": 16251,
+      "canonicalPath": "/fipe/bmw/735i-ia-3-5-32v-1991-009070-0/",
+      "ano": 1991,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-735i-ia-3-5-32v-1992-gasolina",
+      "fipeCodigo": "009070-0",
+      "displayName": "BMW 735i/iA 3.5 32V",
+      "valorAtual": 16718,
+      "canonicalPath": "/fipe/bmw/735i-ia-3-5-32v-1992-009070-0/",
+      "ano": 1992,
+      "marca": "BMW"
+    }
+  ],
+  "stats": {
+    "total": 6
+  },
+  "meta": {
+    "geracaoId": "735i-1"
+  }
+}

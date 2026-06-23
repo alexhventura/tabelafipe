@@ -1,0 +1,82 @@
+{
+  "tipo": "familia",
+  "slug": "cityclass",
+  "canonicalPath": "/fipe/dafra/cityclass/",
+  "titulo": "DAFRA cityclass - Tabela FIPE",
+  "descricao": "6 versoes e anos do DAFRA cityclass na Tabela FIPE.",
+  "seo": {
+    "title": "DAFRA cityclass - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes DAFRA cityclass. 6 veiculos indexados.",
+    "h1": "DAFRA cityclass - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/dafra/cityclass/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "dafra-cityclass-200i-2020-gasolina",
+      "fipeCodigo": "861020-7",
+      "displayName": "DAFRA CITYCLASS 200i",
+      "valorAtual": 10259,
+      "canonicalPath": "/fipe/dafra/cityclass-200i-2020-861020-7/",
+      "ano": 2020,
+      "marca": "DAFRA"
+    },
+    {
+      "vehicleId": "dafra-cityclass-200i-2019-gasolina",
+      "fipeCodigo": "861020-7",
+      "displayName": "DAFRA CITYCLASS 200i",
+      "valorAtual": 10000,
+      "canonicalPath": "/fipe/dafra/cityclass-200i-2019-861020-7/",
+      "ano": 2019,
+      "marca": "DAFRA"
+    },
+    {
+      "vehicleId": "dafra-cityclass-200i-2018-gasolina",
+      "fipeCodigo": "861020-7",
+      "displayName": "DAFRA CITYCLASS 200i",
+      "valorAtual": 8543,
+      "canonicalPath": "/fipe/dafra/cityclass-200i-2018-861020-7/",
+      "ano": 2018,
+      "marca": "DAFRA"
+    },
+    {
+      "vehicleId": "dafra-cityclass-200i-2017-gasolina",
+      "fipeCodigo": "861020-7",
+      "displayName": "DAFRA CITYCLASS 200i",
+      "valorAtual": 8335,
+      "canonicalPath": "/fipe/dafra/cityclass-200i-2017-861020-7/",
+      "ano": 2017,
+      "marca": "DAFRA"
+    },
+    {
+      "vehicleId": "dafra-cityclass-200i-2016-gasolina",
+      "fipeCodigo": "861020-7",
+      "displayName": "DAFRA CITYCLASS 200i",
+      "valorAtual": 7891,
+      "canonicalPath": "/fipe/dafra/cityclass-200i-2016-861020-7/",
+      "ano": 2016,
+      "marca": "DAFRA"
+    },
+    {
+      "vehicleId": "dafra-cityclass-200i-2015-gasolina",
+      "fipeCodigo": "861020-7",
+      "displayName": "DAFRA CITYCLASS 200i",
+      "valorAtual": 7296,
+      "canonicalPath": "/fipe/dafra/cityclass-200i-2015-861020-7/",
+      "ano": 2015,
+      "marca": "DAFRA"
+    }
+  ],
+  "stats": {
+    "total": 6,
+    "precoMin": 7296,
+    "precoMax": 10259,
+    "anos": [
+      2020,
+      2019,
+      2018,
+      2017,
+      2016,
+      2015
+    ]
+  }
+}

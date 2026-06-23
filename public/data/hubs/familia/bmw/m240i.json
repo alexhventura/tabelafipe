@@ -1,0 +1,42 @@
+{
+  "tipo": "familia",
+  "slug": "m240i",
+  "canonicalPath": "/fipe/bmw/m240i/",
+  "titulo": "BMW m240i - Tabela FIPE",
+  "descricao": "2 versoes e anos do BMW m240i na Tabela FIPE.",
+  "seo": {
+    "title": "BMW m240i - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes BMW m240i. 2 veiculos indexados.",
+    "h1": "BMW m240i - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/bmw/m240i/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "bmw-m240i-coupe-3-0-24v-340cv-2p-2018-gasolina",
+      "fipeCodigo": "009223-1",
+      "displayName": "BMW M240i Coupe 3.0 24V 340cv 2p",
+      "valorAtual": 301443,
+      "canonicalPath": "/fipe/bmw/m240i-coupe-3-0-24v-340cv-2p-2018-009223-1/",
+      "ano": 2018,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-m240i-coupe-3-0-24v-340cv-2p-2017-gasolina",
+      "fipeCodigo": "009223-1",
+      "displayName": "BMW M240i Coupe 3.0 24V 340cv 2p",
+      "valorAtual": 280978,
+      "canonicalPath": "/fipe/bmw/m240i-coupe-3-0-24v-340cv-2p-2017-009223-1/",
+      "ano": 2017,
+      "marca": "BMW"
+    }
+  ],
+  "stats": {
+    "total": 2,
+    "precoMin": 280978,
+    "precoMax": 301443,
+    "anos": [
+      2018,
+      2017
+    ]
+  }
+}

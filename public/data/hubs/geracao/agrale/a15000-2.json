@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "a15000-2",
+  "canonicalPath": "/geracao/agrale/a15000-2/",
+  "titulo": "Geracao a15000-2",
+  "descricao": "2 veiculos da geracao a15000-2.",
+  "seo": {
+    "title": "Geracao a15000-2 - Precos FIPE",
+    "description": "Veiculos da geracao a15000-2 na Tabela FIPE.",
+    "h1": "Geracao a15000-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/agrale/a15000-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "agrale-a15000-4x2-2p-e6-2026-diesel",
+      "fipeCodigo": "501045-4",
+      "displayName": "AGRALE A15000 4x2 2p (E6)",
+      "valorAtual": 390455,
+      "canonicalPath": "/fipe/agrale/a15000-4x2-2p-e6-2026-501045-4/",
+      "ano": 2026,
+      "marca": "AGRALE"
+    },
+    {
+      "vehicleId": "agrale-a15000-4x2-2p-e6-2027-diesel",
+      "fipeCodigo": "501045-4",
+      "displayName": "AGRALE A15000 4x2 2p (E6)",
+      "valorAtual": 424577,
+      "canonicalPath": "/fipe/agrale/a15000-4x2-2p-e6-2027-501045-4/",
+      "ano": 2027,
+      "marca": "AGRALE"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "a15000-2"
+  }
+}

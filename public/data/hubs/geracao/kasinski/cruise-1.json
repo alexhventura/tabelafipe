@@ -1,0 +1,138 @@
+{
+  "tipo": "geracao",
+  "slug": "cruise-1",
+  "canonicalPath": "/geracao/kasinski/cruise-1/",
+  "titulo": "Geracao cruise-1",
+  "descricao": "13 veiculos da geracao cruise-1.",
+  "seo": {
+    "title": "Geracao cruise-1 - Precos FIPE",
+    "description": "Veiculos da geracao cruise-1 na Tabela FIPE.",
+    "h1": "Geracao cruise-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/kasinski/cruise-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "kasinski-cruise-125-1994-gasolina",
+      "fipeCodigo": "816001-5",
+      "displayName": "KASINSKI CRUISE 125",
+      "valorAtual": 1902,
+      "canonicalPath": "/fipe/kasinski/cruise-125-1994-816001-5/",
+      "ano": 1994,
+      "marca": "KASINSKI"
+    },
+    {
+      "vehicleId": "kasinski-cruise-125-1995-gasolina",
+      "fipeCodigo": "816001-5",
+      "displayName": "KASINSKI CRUISE 125",
+      "valorAtual": 1952,
+      "canonicalPath": "/fipe/kasinski/cruise-125-1995-816001-5/",
+      "ano": 1995,
+      "marca": "KASINSKI"
+    },
+    {
+      "vehicleId": "kasinski-cruise-125-1996-gasolina",
+      "fipeCodigo": "816001-5",
+      "displayName": "KASINSKI CRUISE 125",
+      "valorAtual": 2003,
+      "canonicalPath": "/fipe/kasinski/cruise-125-1996-816001-5/",
+      "ano": 1996,
+      "marca": "KASINSKI"
+    },
+    {
+      "vehicleId": "kasinski-cruise-ii-125-1997-gasolina",
+      "fipeCodigo": "816006-6",
+      "displayName": "KASINSKI CRUISE II 125",
+      "valorAtual": 2134,
+      "canonicalPath": "/fipe/kasinski/cruise-ii-125-1997-816006-6/",
+      "ano": 1997,
+      "marca": "KASINSKI"
+    },
+    {
+      "vehicleId": "kasinski-cruise-ii-125-1998-gasolina",
+      "fipeCodigo": "816006-6",
+      "displayName": "KASINSKI CRUISE II 125",
+      "valorAtual": 2189,
+      "canonicalPath": "/fipe/kasinski/cruise-ii-125-1998-816006-6/",
+      "ano": 1998,
+      "marca": "KASINSKI"
+    },
+    {
+      "vehicleId": "kasinski-cruise-ii-125-1999-gasolina",
+      "fipeCodigo": "816006-6",
+      "displayName": "KASINSKI CRUISE II 125",
+      "valorAtual": 2272,
+      "canonicalPath": "/fipe/kasinski/cruise-ii-125-1999-816006-6/",
+      "ano": 1999,
+      "marca": "KASINSKI"
+    },
+    {
+      "vehicleId": "kasinski-cruise-ii-125-2000-gasolina",
+      "fipeCodigo": "816006-6",
+      "displayName": "KASINSKI CRUISE II 125",
+      "valorAtual": 2680,
+      "canonicalPath": "/fipe/kasinski/cruise-ii-125-2000-816006-6/",
+      "ano": 2000,
+      "marca": "KASINSKI"
+    },
+    {
+      "vehicleId": "kasinski-cruise-ii-125-2001-gasolina",
+      "fipeCodigo": "816006-6",
+      "displayName": "KASINSKI CRUISE II 125",
+      "valorAtual": 2780,
+      "canonicalPath": "/fipe/kasinski/cruise-ii-125-2001-816006-6/",
+      "ano": 2001,
+      "marca": "KASINSKI"
+    },
+    {
+      "vehicleId": "kasinski-cruise-ii-125-2002-gasolina",
+      "fipeCodigo": "816006-6",
+      "displayName": "KASINSKI CRUISE II 125",
+      "valorAtual": 2902,
+      "canonicalPath": "/fipe/kasinski/cruise-ii-125-2002-816006-6/",
+      "ano": 2002,
+      "marca": "KASINSKI"
+    },
+    {
+      "vehicleId": "kasinski-cruise-ii-125-2003-gasolina",
+      "fipeCodigo": "816006-6",
+      "displayName": "KASINSKI CRUISE II 125",
+      "valorAtual": 3498,
+      "canonicalPath": "/fipe/kasinski/cruise-ii-125-2003-816006-6/",
+      "ano": 2003,
+      "marca": "KASINSKI"
+    },
+    {
+      "vehicleId": "kasinski-cruise-ii-125-2004-gasolina",
+      "fipeCodigo": "816006-6",
+      "displayName": "KASINSKI CRUISE II 125",
+      "valorAtual": 3746,
+      "canonicalPath": "/fipe/kasinski/cruise-ii-125-2004-816006-6/",
+      "ano": 2004,
+      "marca": "KASINSKI"
+    },
+    {
+      "vehicleId": "kasinski-cruise-ii-125-2005-gasolina",
+      "fipeCodigo": "816006-6",
+      "displayName": "KASINSKI CRUISE II 125",
+      "valorAtual": 3840,
+      "canonicalPath": "/fipe/kasinski/cruise-ii-125-2005-816006-6/",
+      "ano": 2005,
+      "marca": "KASINSKI"
+    },
+    {
+      "vehicleId": "kasinski-cruise-ii-125-2006-gasolina",
+      "fipeCodigo": "816006-6",
+      "displayName": "KASINSKI CRUISE II 125",
+      "valorAtual": 3936,
+      "canonicalPath": "/fipe/kasinski/cruise-ii-125-2006-816006-6/",
+      "ano": 2006,
+      "marca": "KASINSKI"
+    }
+  ],
+  "stats": {
+    "total": 13
+  },
+  "meta": {
+    "geracaoId": "cruise-1"
+  }
+}

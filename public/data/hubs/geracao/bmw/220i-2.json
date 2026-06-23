@@ -1,0 +1,48 @@
+{
+  "tipo": "geracao",
+  "slug": "220i-2",
+  "canonicalPath": "/geracao/bmw/220i-2/",
+  "titulo": "Geracao 220i-2",
+  "descricao": "3 veiculos da geracao 220i-2.",
+  "seo": {
+    "title": "Geracao 220i-2 - Precos FIPE",
+    "description": "Veiculos da geracao 220i-2 na Tabela FIPE.",
+    "h1": "Geracao 220i-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/bmw/220i-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "bmw-220i-tourer-active-flex-2-0-tb-aut-2016-flex",
+      "fipeCodigo": "009217-7",
+      "displayName": "BMW 220i Tourer Active Flex 2.0 TB Aut.",
+      "valorAtual": 78804,
+      "canonicalPath": "/fipe/bmw/220i-tourer-active-flex-2-0-tb-aut-2016-009217-7/",
+      "ano": 2016,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-220i-tourer-active-flex-2-0-tb-aut-2017-flex",
+      "fipeCodigo": "009217-7",
+      "displayName": "BMW 220i Tourer Active Flex 2.0 TB Aut.",
+      "valorAtual": 83679,
+      "canonicalPath": "/fipe/bmw/220i-tourer-active-flex-2-0-tb-aut-2017-009217-7/",
+      "ano": 2017,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-220i-tourer-active-flex-2-0-tb-aut-2018-flex",
+      "fipeCodigo": "009217-7",
+      "displayName": "BMW 220i Tourer Active Flex 2.0 TB Aut.",
+      "valorAtual": 93812,
+      "canonicalPath": "/fipe/bmw/220i-tourer-active-flex-2-0-tb-aut-2018-009217-7/",
+      "ano": 2018,
+      "marca": "BMW"
+    }
+  ],
+  "stats": {
+    "total": 3
+  },
+  "meta": {
+    "geracaoId": "220i-2"
+  }
+}

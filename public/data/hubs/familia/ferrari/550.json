@@ -1,0 +1,72 @@
+{
+  "tipo": "familia",
+  "slug": "550",
+  "canonicalPath": "/fipe/ferrari/550/",
+  "titulo": "Ferrari 550 - Tabela FIPE",
+  "descricao": "5 versoes e anos do Ferrari 550 na Tabela FIPE.",
+  "seo": {
+    "title": "Ferrari 550 - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes Ferrari 550. 5 veiculos indexados.",
+    "h1": "Ferrari 550 - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/ferrari/550/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "ferrari-550-maranello-2001-gasolina",
+      "fipeCodigo": "031007-7",
+      "displayName": "Ferrari 550 Maranello",
+      "valorAtual": 339397,
+      "canonicalPath": "/fipe/ferrari/550-maranello-2001-031007-7/",
+      "ano": 2001,
+      "marca": "Ferrari"
+    },
+    {
+      "vehicleId": "ferrari-550-maranello-2000-gasolina",
+      "fipeCodigo": "031007-7",
+      "displayName": "Ferrari 550 Maranello",
+      "valorAtual": 329172,
+      "canonicalPath": "/fipe/ferrari/550-maranello-2000-031007-7/",
+      "ano": 2000,
+      "marca": "Ferrari"
+    },
+    {
+      "vehicleId": "ferrari-550-maranello-1999-gasolina",
+      "fipeCodigo": "031007-7",
+      "displayName": "Ferrari 550 Maranello",
+      "valorAtual": 320205,
+      "canonicalPath": "/fipe/ferrari/550-maranello-1999-031007-7/",
+      "ano": 1999,
+      "marca": "Ferrari"
+    },
+    {
+      "vehicleId": "ferrari-550-maranello-1998-gasolina",
+      "fipeCodigo": "031007-7",
+      "displayName": "Ferrari 550 Maranello",
+      "valorAtual": 311420,
+      "canonicalPath": "/fipe/ferrari/550-maranello-1998-031007-7/",
+      "ano": 1998,
+      "marca": "Ferrari"
+    },
+    {
+      "vehicleId": "ferrari-550-maranello-1997-gasolina",
+      "fipeCodigo": "031007-7",
+      "displayName": "Ferrari 550 Maranello",
+      "valorAtual": 289901,
+      "canonicalPath": "/fipe/ferrari/550-maranello-1997-031007-7/",
+      "ano": 1997,
+      "marca": "Ferrari"
+    }
+  ],
+  "stats": {
+    "total": 5,
+    "precoMin": 289901,
+    "precoMax": 339397,
+    "anos": [
+      2001,
+      2000,
+      1999,
+      1998,
+      1997
+    ]
+  }
+}

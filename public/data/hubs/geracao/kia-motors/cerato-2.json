@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "cerato-2",
+  "canonicalPath": "/geracao/kia-motors/cerato-2/",
+  "titulo": "Geracao cerato-2",
+  "descricao": "2 veiculos da geracao cerato-2.",
+  "seo": {
+    "title": "Geracao cerato-2 - Precos FIPE",
+    "description": "Veiculos da geracao cerato-2 na Tabela FIPE.",
+    "h1": "Geracao cerato-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/kia-motors/cerato-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "kia-motors-cerato-ex-2-0-16v-flex-aut-2022-flex",
+      "fipeCodigo": "018093-9",
+      "displayName": "Kia Motors Cerato EX 2.0 16V Flex Aut.",
+      "valorAtual": 85328,
+      "canonicalPath": "/fipe/kia-motors/cerato-ex-2-0-16v-flex-aut-2022-018093-9/",
+      "ano": 2022,
+      "marca": "Kia Motors"
+    },
+    {
+      "vehicleId": "kia-motors-cerato-sx-2-0-16v-flex-aut-2022-flex",
+      "fipeCodigo": "018092-0",
+      "displayName": "Kia Motors Cerato SX 2.0 16V Flex Aut.",
+      "valorAtual": 85940,
+      "canonicalPath": "/fipe/kia-motors/cerato-sx-2-0-16v-flex-aut-2022-018092-0/",
+      "ano": 2022,
+      "marca": "Kia Motors"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "cerato-2"
+  }
+}

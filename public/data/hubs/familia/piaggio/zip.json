@@ -1,0 +1,52 @@
+{
+  "tipo": "familia",
+  "slug": "zip",
+  "canonicalPath": "/fipe/piaggio/zip/",
+  "titulo": "PIAGGIO zip - Tabela FIPE",
+  "descricao": "3 versoes e anos do PIAGGIO zip na Tabela FIPE.",
+  "seo": {
+    "title": "PIAGGIO zip - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes PIAGGIO zip. 3 veiculos indexados.",
+    "h1": "PIAGGIO zip - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/piaggio/zip/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "piaggio-zip-50-2000-gasolina",
+      "fipeCodigo": "822013-1",
+      "displayName": "PIAGGIO ZIP 50",
+      "valorAtual": 1719,
+      "canonicalPath": "/fipe/piaggio/zip-50-2000-822013-1/",
+      "ano": 2000,
+      "marca": "PIAGGIO"
+    },
+    {
+      "vehicleId": "piaggio-zip-50-1999-gasolina",
+      "fipeCodigo": "822013-1",
+      "displayName": "PIAGGIO ZIP 50",
+      "valorAtual": 1671,
+      "canonicalPath": "/fipe/piaggio/zip-50-1999-822013-1/",
+      "ano": 1999,
+      "marca": "PIAGGIO"
+    },
+    {
+      "vehicleId": "piaggio-zip-50-1998-gasolina",
+      "fipeCodigo": "822013-1",
+      "displayName": "PIAGGIO ZIP 50",
+      "valorAtual": 1609,
+      "canonicalPath": "/fipe/piaggio/zip-50-1998-822013-1/",
+      "ano": 1998,
+      "marca": "PIAGGIO"
+    }
+  ],
+  "stats": {
+    "total": 3,
+    "precoMin": 1609,
+    "precoMax": 1719,
+    "anos": [
+      2000,
+      1999,
+      1998
+    ]
+  }
+}

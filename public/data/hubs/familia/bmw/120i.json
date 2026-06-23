@@ -1,0 +1,72 @@
+{
+  "tipo": "familia",
+  "slug": "120i",
+  "canonicalPath": "/fipe/bmw/120i/",
+  "titulo": "BMW 120i - Tabela FIPE",
+  "descricao": "5 versoes e anos do BMW 120i na Tabela FIPE.",
+  "seo": {
+    "title": "BMW 120i - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes BMW 120i. 5 veiculos indexados.",
+    "h1": "BMW 120i - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/bmw/120i/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "bmw-120i-2-0-16v-150cv-156cv-5p-2009-gasolina",
+      "fipeCodigo": "009106-5",
+      "displayName": "BMW 120i 2.0 16V 150cv/ 156cv 5p",
+      "valorAtual": 50950,
+      "canonicalPath": "/fipe/bmw/120i-2-0-16v-150cv-156cv-5p-2009-009106-5/",
+      "ano": 2009,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-120i-2-0-16v-150cv-156cv-5p-2008-gasolina",
+      "fipeCodigo": "009106-5",
+      "displayName": "BMW 120i 2.0 16V 150cv/ 156cv 5p",
+      "valorAtual": 49234,
+      "canonicalPath": "/fipe/bmw/120i-2-0-16v-150cv-156cv-5p-2008-009106-5/",
+      "ano": 2008,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-120i-2-0-16v-150cv-156cv-5p-2007-gasolina",
+      "fipeCodigo": "009106-5",
+      "displayName": "BMW 120i 2.0 16V 150cv/ 156cv 5p",
+      "valorAtual": 44462,
+      "canonicalPath": "/fipe/bmw/120i-2-0-16v-150cv-156cv-5p-2007-009106-5/",
+      "ano": 2007,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-120i-2-0-16v-150cv-156cv-5p-2006-gasolina",
+      "fipeCodigo": "009106-5",
+      "displayName": "BMW 120i 2.0 16V 150cv/ 156cv 5p",
+      "valorAtual": 39487,
+      "canonicalPath": "/fipe/bmw/120i-2-0-16v-150cv-156cv-5p-2006-009106-5/",
+      "ano": 2006,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-120i-2-0-16v-150cv-156cv-5p-2005-gasolina",
+      "fipeCodigo": "009106-5",
+      "displayName": "BMW 120i 2.0 16V 150cv/ 156cv 5p",
+      "valorAtual": 34767,
+      "canonicalPath": "/fipe/bmw/120i-2-0-16v-150cv-156cv-5p-2005-009106-5/",
+      "ano": 2005,
+      "marca": "BMW"
+    }
+  ],
+  "stats": {
+    "total": 5,
+    "precoMin": 34767,
+    "precoMax": 50950,
+    "anos": [
+      2009,
+      2008,
+      2007,
+      2006,
+      2005
+    ]
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "tipo": "geracao",
+  "slug": "130i-1",
+  "canonicalPath": "/geracao/bmw/130i-1/",
+  "titulo": "Geracao 130i-1",
+  "descricao": "4 veiculos da geracao 130i-1.",
+  "seo": {
+    "title": "Geracao 130i-1 - Precos FIPE",
+    "description": "Veiculos da geracao 130i-1 na Tabela FIPE.",
+    "h1": "Geracao 130i-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/bmw/130i-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "bmw-130i-3-0-24v-265cv-5p-2006-gasolina",
+      "fipeCodigo": "009109-0",
+      "displayName": "BMW 130i 3.0 24V 265cv 5p",
+      "valorAtual": 71595,
+      "canonicalPath": "/fipe/bmw/130i-3-0-24v-265cv-5p-2006-009109-0/",
+      "ano": 2006,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-130i-3-0-24v-265cv-5p-2007-gasolina",
+      "fipeCodigo": "009109-0",
+      "displayName": "BMW 130i 3.0 24V 265cv 5p",
+      "valorAtual": 79305,
+      "canonicalPath": "/fipe/bmw/130i-3-0-24v-265cv-5p-2007-009109-0/",
+      "ano": 2007,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-130i-3-0-24v-265cv-5p-2008-gasolina",
+      "fipeCodigo": "009109-0",
+      "displayName": "BMW 130i 3.0 24V 265cv 5p",
+      "valorAtual": 81288,
+      "canonicalPath": "/fipe/bmw/130i-3-0-24v-265cv-5p-2008-009109-0/",
+      "ano": 2008,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-130i-3-0-24v-265cv-5p-2009-gasolina",
+      "fipeCodigo": "009109-0",
+      "displayName": "BMW 130i 3.0 24V 265cv 5p",
+      "valorAtual": 83321,
+      "canonicalPath": "/fipe/bmw/130i-3-0-24v-265cv-5p-2009-009109-0/",
+      "ano": 2009,
+      "marca": "BMW"
+    }
+  ],
+  "stats": {
+    "total": 4
+  },
+  "meta": {
+    "geracaoId": "130i-1"
+  }
+}

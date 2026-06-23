@@ -1,0 +1,66 @@
+{
+  "tipo": "geracao",
+  "slug": "ls-2",
+  "canonicalPath": "/geracao/lexus/ls-2/",
+  "titulo": "Geracao ls-2",
+  "descricao": "5 veiculos da geracao ls-2.",
+  "seo": {
+    "title": "Geracao ls-2 - Precos FIPE",
+    "description": "Veiculos da geracao ls-2 na Tabela FIPE.",
+    "h1": "Geracao ls-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/lexus/ls-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "lexus-ls-400-4-0-1997-gasolina",
+      "fipeCodigo": "057025-7",
+      "displayName": "Lexus LS 400 4.0",
+      "valorAtual": 56459,
+      "canonicalPath": "/fipe/lexus/ls-400-4-0-1997-057025-7/",
+      "ano": 1997,
+      "marca": "Lexus"
+    },
+    {
+      "vehicleId": "lexus-ls-400-4-0-1998-gasolina",
+      "fipeCodigo": "057025-7",
+      "displayName": "Lexus LS 400 4.0",
+      "valorAtual": 57871,
+      "canonicalPath": "/fipe/lexus/ls-400-4-0-1998-057025-7/",
+      "ano": 1998,
+      "marca": "Lexus"
+    },
+    {
+      "vehicleId": "lexus-ls-400-4-0-1999-gasolina",
+      "fipeCodigo": "057025-7",
+      "displayName": "Lexus LS 400 4.0",
+      "valorAtual": 60231,
+      "canonicalPath": "/fipe/lexus/ls-400-4-0-1999-057025-7/",
+      "ano": 1999,
+      "marca": "Lexus"
+    },
+    {
+      "vehicleId": "lexus-ls-400-4-0-2000-gasolina",
+      "fipeCodigo": "057025-7",
+      "displayName": "Lexus LS 400 4.0",
+      "valorAtual": 61737,
+      "canonicalPath": "/fipe/lexus/ls-400-4-0-2000-057025-7/",
+      "ano": 2000,
+      "marca": "Lexus"
+    },
+    {
+      "vehicleId": "lexus-ls-430-4-3-32v-281cv-2001-gasolina",
+      "fipeCodigo": "057026-5",
+      "displayName": "Lexus LS 430 4.3 32V 281cv",
+      "valorAtual": 61914,
+      "canonicalPath": "/fipe/lexus/ls-430-4-3-32v-281cv-2001-057026-5/",
+      "ano": 2001,
+      "marca": "Lexus"
+    }
+  ],
+  "stats": {
+    "total": 5
+  },
+  "meta": {
+    "geracaoId": "ls-2"
+  }
+}

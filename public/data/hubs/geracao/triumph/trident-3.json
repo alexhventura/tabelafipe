@@ -1,0 +1,102 @@
+{
+  "tipo": "geracao",
+  "slug": "trident-3",
+  "canonicalPath": "/geracao/triumph/trident-3/",
+  "titulo": "Geracao trident-3",
+  "descricao": "9 veiculos da geracao trident-3.",
+  "seo": {
+    "title": "Geracao trident-3 - Precos FIPE",
+    "description": "Veiculos da geracao trident-3 na Tabela FIPE.",
+    "h1": "Geracao trident-3",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/triumph/trident-3/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "triumph-trident-660-2021-gasolina",
+      "fipeCodigo": "826081-8",
+      "displayName": "TRIUMPH TRIDENT 660",
+      "valorAtual": 38417,
+      "canonicalPath": "/fipe/triumph/trident-660-2021-826081-8/",
+      "ano": 2021,
+      "marca": "TRIUMPH"
+    },
+    {
+      "vehicleId": "triumph-trident-660-2022-gasolina",
+      "fipeCodigo": "826081-8",
+      "displayName": "TRIUMPH TRIDENT 660",
+      "valorAtual": 40712,
+      "canonicalPath": "/fipe/triumph/trident-660-2022-826081-8/",
+      "ano": 2022,
+      "marca": "TRIUMPH"
+    },
+    {
+      "vehicleId": "triumph-trident-660-2023-gasolina",
+      "fipeCodigo": "826081-8",
+      "displayName": "TRIUMPH TRIDENT 660",
+      "valorAtual": 42537,
+      "canonicalPath": "/fipe/triumph/trident-660-2023-826081-8/",
+      "ano": 2023,
+      "marca": "TRIUMPH"
+    },
+    {
+      "vehicleId": "triumph-trident-660-2024-gasolina",
+      "fipeCodigo": "826081-8",
+      "displayName": "TRIUMPH TRIDENT 660",
+      "valorAtual": 44357,
+      "canonicalPath": "/fipe/triumph/trident-660-2024-826081-8/",
+      "ano": 2024,
+      "marca": "TRIUMPH"
+    },
+    {
+      "vehicleId": "triumph-trident-660-2025-gasolina",
+      "fipeCodigo": "826081-8",
+      "displayName": "TRIUMPH TRIDENT 660",
+      "valorAtual": 46700,
+      "canonicalPath": "/fipe/triumph/trident-660-2025-826081-8/",
+      "ano": 2025,
+      "marca": "TRIUMPH"
+    },
+    {
+      "vehicleId": "triumph-trident-660-2026-gasolina",
+      "fipeCodigo": "826081-8",
+      "displayName": "TRIUMPH TRIDENT 660",
+      "valorAtual": 50876,
+      "canonicalPath": "/fipe/triumph/trident-660-2026-826081-8/",
+      "ano": 2026,
+      "marca": "TRIUMPH"
+    },
+    {
+      "vehicleId": "triumph-trident-660-triple-tribute-2024-gasolina",
+      "fipeCodigo": "826100-8",
+      "displayName": "TRIUMPH TRIDENT 660 TRIPLE TRIBUTE",
+      "valorAtual": 46602,
+      "canonicalPath": "/fipe/triumph/trident-660-triple-tribute-2024-826100-8/",
+      "ano": 2024,
+      "marca": "TRIUMPH"
+    },
+    {
+      "vehicleId": "triumph-trident-660-triple-tribute-2025-gasolina",
+      "fipeCodigo": "826100-8",
+      "displayName": "TRIUMPH TRIDENT 660 TRIPLE TRIBUTE",
+      "valorAtual": 47849,
+      "canonicalPath": "/fipe/triumph/trident-660-triple-tribute-2025-826100-8/",
+      "ano": 2025,
+      "marca": "TRIUMPH"
+    },
+    {
+      "vehicleId": "triumph-trident-800-2026-gasolina",
+      "fipeCodigo": "826119-9",
+      "displayName": "TRIUMPH TRIDENT 800",
+      "valorAtual": 56749,
+      "canonicalPath": "/fipe/triumph/trident-800-2026-826119-9/",
+      "ano": 2026,
+      "marca": "TRIUMPH"
+    }
+  ],
+  "stats": {
+    "total": 9
+  },
+  "meta": {
+    "geracaoId": "trident-3"
+  }
+}

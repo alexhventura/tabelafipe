@@ -1,0 +1,102 @@
+{
+  "tipo": "geracao",
+  "slug": "diavel-3",
+  "canonicalPath": "/geracao/ducati/diavel-3/",
+  "titulo": "Geracao diavel-3",
+  "descricao": "9 veiculos da geracao diavel-3.",
+  "seo": {
+    "title": "Geracao diavel-3 - Precos FIPE",
+    "description": "Veiculos da geracao diavel-3 na Tabela FIPE.",
+    "h1": "Geracao diavel-3",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/ducati/diavel-3/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "ducati-diavel-1198-dark-2018-gasolina",
+      "fipeCodigo": "808056-9",
+      "displayName": "DUCATI DIAVEL 1198 Dark",
+      "valorAtual": 63810,
+      "canonicalPath": "/fipe/ducati/diavel-1198-dark-2018-808056-9/",
+      "ano": 2018,
+      "marca": "DUCATI"
+    },
+    {
+      "vehicleId": "ducati-diavel-1260-s-2019-gasolina",
+      "fipeCodigo": "808082-8",
+      "displayName": "DUCATI DIAVEL 1260 S",
+      "valorAtual": 65955,
+      "canonicalPath": "/fipe/ducati/diavel-1260-s-2019-808082-8/",
+      "ano": 2019,
+      "marca": "DUCATI"
+    },
+    {
+      "vehicleId": "ducati-diavel-1260-s-2020-gasolina",
+      "fipeCodigo": "808082-8",
+      "displayName": "DUCATI DIAVEL 1260 S",
+      "valorAtual": 73736,
+      "canonicalPath": "/fipe/ducati/diavel-1260-s-2020-808082-8/",
+      "ano": 2020,
+      "marca": "DUCATI"
+    },
+    {
+      "vehicleId": "ducati-diavel-1260-s-2021-gasolina",
+      "fipeCodigo": "808082-8",
+      "displayName": "DUCATI DIAVEL 1260 S",
+      "valorAtual": 79122,
+      "canonicalPath": "/fipe/ducati/diavel-1260-s-2021-808082-8/",
+      "ano": 2021,
+      "marca": "DUCATI"
+    },
+    {
+      "vehicleId": "ducati-diavel-1260-s-2022-gasolina",
+      "fipeCodigo": "808082-8",
+      "displayName": "DUCATI DIAVEL 1260 S",
+      "valorAtual": 84966,
+      "canonicalPath": "/fipe/ducati/diavel-1260-s-2022-808082-8/",
+      "ano": 2022,
+      "marca": "DUCATI"
+    },
+    {
+      "vehicleId": "ducati-diavel-1260-s-2023-gasolina",
+      "fipeCodigo": "808082-8",
+      "displayName": "DUCATI DIAVEL 1260 S",
+      "valorAtual": 89544,
+      "canonicalPath": "/fipe/ducati/diavel-1260-s-2023-808082-8/",
+      "ano": 2023,
+      "marca": "DUCATI"
+    },
+    {
+      "vehicleId": "ducati-diavel-v4-1158-2024-gasolina",
+      "fipeCodigo": "808091-7",
+      "displayName": "DUCATI DIAVEL V4 1158",
+      "valorAtual": 124671,
+      "canonicalPath": "/fipe/ducati/diavel-v4-1158-2024-808091-7/",
+      "ano": 2024,
+      "marca": "DUCATI"
+    },
+    {
+      "vehicleId": "ducati-diavel-v4-1158-2025-gasolina",
+      "fipeCodigo": "808091-7",
+      "displayName": "DUCATI DIAVEL V4 1158",
+      "valorAtual": 128776,
+      "canonicalPath": "/fipe/ducati/diavel-v4-1158-2025-808091-7/",
+      "ano": 2025,
+      "marca": "DUCATI"
+    },
+    {
+      "vehicleId": "ducati-diavel-v4-1158-2026-gasolina",
+      "fipeCodigo": "808091-7",
+      "displayName": "DUCATI DIAVEL V4 1158",
+      "valorAtual": 146582,
+      "canonicalPath": "/fipe/ducati/diavel-v4-1158-2026-808091-7/",
+      "ano": 2026,
+      "marca": "DUCATI"
+    }
+  ],
+  "stats": {
+    "total": 9
+  },
+  "meta": {
+    "geracaoId": "diavel-3"
+  }
+}

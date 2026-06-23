@@ -1,0 +1,42 @@
+{
+  "tipo": "familia",
+  "slug": "syclone",
+  "canonicalPath": "/fipe/chevrolet/syclone/",
+  "titulo": "GM - Chevrolet syclone - Tabela FIPE",
+  "descricao": "2 versoes e anos do GM - Chevrolet syclone na Tabela FIPE.",
+  "seo": {
+    "title": "GM - Chevrolet syclone - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes GM - Chevrolet syclone. 2 veiculos indexados.",
+    "h1": "GM - Chevrolet syclone - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/chevrolet/syclone/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "chevrolet-syclone-5-7-v8-1992-gasolina",
+      "fipeCodigo": "004167-0",
+      "displayName": "GM - Chevrolet Syclone 5.7 V8",
+      "valorAtual": 9045,
+      "canonicalPath": "/fipe/chevrolet/syclone-5-7-v8-1992-004167-0/",
+      "ano": 1992,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-syclone-5-7-v8-1991-gasolina",
+      "fipeCodigo": "004167-0",
+      "displayName": "GM - Chevrolet Syclone 5.7 V8",
+      "valorAtual": 8221,
+      "canonicalPath": "/fipe/chevrolet/syclone-5-7-v8-1991-004167-0/",
+      "ano": 1991,
+      "marca": "GM - Chevrolet"
+    }
+  ],
+  "stats": {
+    "total": 2,
+    "precoMin": 8221,
+    "precoMax": 9045,
+    "anos": [
+      1992,
+      1991
+    ]
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "tipo": "geracao",
+  "slug": "330i-2",
+  "canonicalPath": "/geracao/bmw/330i-2/",
+  "titulo": "Geracao 330i-2",
+  "descricao": "5 veiculos da geracao 330i-2.",
+  "seo": {
+    "title": "Geracao 330i-2 - Precos FIPE",
+    "description": "Veiculos da geracao 330i-2 na Tabela FIPE.",
+    "h1": "Geracao 330i-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/bmw/330i-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "bmw-330i-m-sport-2-0-tb-16v-4p-2019-gasolina",
+      "fipeCodigo": "009240-1",
+      "displayName": "BMW 330i M Sport 2.0 TB 16V 4p",
+      "valorAtual": 206442,
+      "canonicalPath": "/fipe/bmw/330i-m-sport-2-0-tb-16v-4p-2019-009240-1/",
+      "ano": 2019,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-330i-m-sport-2-0-tb-16v-4p-2020-gasolina",
+      "fipeCodigo": "009240-1",
+      "displayName": "BMW 330i M Sport 2.0 TB 16V 4p",
+      "valorAtual": 211604,
+      "canonicalPath": "/fipe/bmw/330i-m-sport-2-0-tb-16v-4p-2020-009240-1/",
+      "ano": 2020,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-330i-m-sport-2-0-tb-16v-4p-2021-gasolina",
+      "fipeCodigo": "009240-1",
+      "displayName": "BMW 330i M Sport 2.0 TB 16V 4p",
+      "valorAtual": 216895,
+      "canonicalPath": "/fipe/bmw/330i-m-sport-2-0-tb-16v-4p-2021-009240-1/",
+      "ano": 2021,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-330i-sport-2-0-tb-16v-4p-2019-gasolina",
+      "fipeCodigo": "009244-4",
+      "displayName": "BMW 330i Sport 2.0 TB 16V 4p",
+      "valorAtual": 196181,
+      "canonicalPath": "/fipe/bmw/330i-sport-2-0-tb-16v-4p-2019-009244-4/",
+      "ano": 2019,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-330i-sport-2-0-tb-16v-4p-2020-gasolina",
+      "fipeCodigo": "009244-4",
+      "displayName": "BMW 330i Sport 2.0 TB 16V 4p",
+      "valorAtual": 201086,
+      "canonicalPath": "/fipe/bmw/330i-sport-2-0-tb-16v-4p-2020-009244-4/",
+      "ano": 2020,
+      "marca": "BMW"
+    }
+  ],
+  "stats": {
+    "total": 5
+  },
+  "meta": {
+    "geracaoId": "330i-2"
+  }
+}

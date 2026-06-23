@@ -1,0 +1,75 @@
+{
+  "tipo": "geracao",
+  "slug": "txt-1",
+  "canonicalPath": "/geracao/gas-gas/txt-1/",
+  "titulo": "Geracao txt-1",
+  "descricao": "6 veiculos da geracao txt-1.",
+  "seo": {
+    "title": "Geracao txt-1 - Precos FIPE",
+    "description": "Veiculos da geracao txt-1 na Tabela FIPE.",
+    "h1": "Geracao txt-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/gas-gas/txt-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "gas-gas-txt-200-contact-2001-gasolina",
+      "fipeCodigo": "834010-2",
+      "displayName": "GAS GAS TXT 200 CONTACT",
+      "valorAtual": 5820,
+      "canonicalPath": "/fipe/gas-gas/txt-200-contact-2001-834010-2/",
+      "ano": 2001,
+      "marca": "GAS GAS"
+    },
+    {
+      "vehicleId": "gas-gas-txt-200-contact-2002-gasolina",
+      "fipeCodigo": "834010-2",
+      "displayName": "GAS GAS TXT 200 CONTACT",
+      "valorAtual": 6598,
+      "canonicalPath": "/fipe/gas-gas/txt-200-contact-2002-834010-2/",
+      "ano": 2002,
+      "marca": "GAS GAS"
+    },
+    {
+      "vehicleId": "gas-gas-txt-280-contact-2001-gasolina",
+      "fipeCodigo": "834011-0",
+      "displayName": "GAS GAS TXT 280 CONTACT",
+      "valorAtual": 6761,
+      "canonicalPath": "/fipe/gas-gas/txt-280-contact-2001-834011-0/",
+      "ano": 2001,
+      "marca": "GAS GAS"
+    },
+    {
+      "vehicleId": "gas-gas-txt-280-contact-2002-gasolina",
+      "fipeCodigo": "834011-0",
+      "displayName": "GAS GAS TXT 280 CONTACT",
+      "valorAtual": 7115,
+      "canonicalPath": "/fipe/gas-gas/txt-280-contact-2002-834011-0/",
+      "ano": 2002,
+      "marca": "GAS GAS"
+    },
+    {
+      "vehicleId": "gas-gas-txt-321-contact-2001-gasolina",
+      "fipeCodigo": "834012-9",
+      "displayName": "GAS GAS TXT 321 CONTACT",
+      "valorAtual": 6629,
+      "canonicalPath": "/fipe/gas-gas/txt-321-contact-2001-834012-9/",
+      "ano": 2001,
+      "marca": "GAS GAS"
+    },
+    {
+      "vehicleId": "gas-gas-txt-50-rookie-2001-gasolina",
+      "fipeCodigo": "834015-3",
+      "displayName": "GAS GAS TXT 50 ROOKIE",
+      "valorAtual": 2837,
+      "canonicalPath": "/fipe/gas-gas/txt-50-rookie-2001-834015-3/",
+      "ano": 2001,
+      "marca": "GAS GAS"
+    }
+  ],
+  "stats": {
+    "total": 6
+  },
+  "meta": {
+    "geracaoId": "txt-1"
+  }
+}

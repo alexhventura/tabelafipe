@@ -1,0 +1,75 @@
+{
+  "tipo": "geracao",
+  "slug": "forge-1",
+  "canonicalPath": "/geracao/hisun/forge-1/",
+  "titulo": "Geracao forge-1",
+  "descricao": "6 veiculos da geracao forge-1.",
+  "seo": {
+    "title": "Geracao forge-1 - Precos FIPE",
+    "description": "Veiculos da geracao forge-1 na Tabela FIPE.",
+    "h1": "Geracao forge-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/hisun/forge-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "hisun-forge-400i-4wd-2024-gasolina",
+      "fipeCodigo": "702002-3",
+      "displayName": "Hisun Forge 400I 4WD",
+      "valorAtual": 39386,
+      "canonicalPath": "/fipe/hisun/forge-400i-4wd-2024-702002-3/",
+      "ano": 2024,
+      "marca": "Hisun"
+    },
+    {
+      "vehicleId": "hisun-forge-400i-4wd-2025-gasolina",
+      "fipeCodigo": "702002-3",
+      "displayName": "Hisun Forge 400I 4WD",
+      "valorAtual": 42798,
+      "canonicalPath": "/fipe/hisun/forge-400i-4wd-2025-702002-3/",
+      "ano": 2025,
+      "marca": "Hisun"
+    },
+    {
+      "vehicleId": "hisun-forge-400i-camo-4wd-2023-gasolina",
+      "fipeCodigo": "702004-0",
+      "displayName": "Hisun Forge 400I Camo 4WD",
+      "valorAtual": 38798,
+      "canonicalPath": "/fipe/hisun/forge-400i-camo-4wd-2023-702004-0/",
+      "ano": 2023,
+      "marca": "Hisun"
+    },
+    {
+      "vehicleId": "hisun-forge-400i-dlx-4wd-2023-gasolina",
+      "fipeCodigo": "702001-5",
+      "displayName": "Hisun Forge 400I DLX 4WD",
+      "valorAtual": 38917,
+      "canonicalPath": "/fipe/hisun/forge-400i-dlx-4wd-2023-702001-5/",
+      "ano": 2023,
+      "marca": "Hisun"
+    },
+    {
+      "vehicleId": "hisun-forge-400i-dlx-camo-4wd-2024-gasolina",
+      "fipeCodigo": "702005-8",
+      "displayName": "Hisun Forge 400I DLX Camo 4WD",
+      "valorAtual": 44169,
+      "canonicalPath": "/fipe/hisun/forge-400i-dlx-camo-4wd-2024-702005-8/",
+      "ano": 2024,
+      "marca": "Hisun"
+    },
+    {
+      "vehicleId": "hisun-forge-400i-standard-l-4wd-2024-gasolina",
+      "fipeCodigo": "702003-1",
+      "displayName": "Hisun Forge 400I Standard L 4WD",
+      "valorAtual": 42964,
+      "canonicalPath": "/fipe/hisun/forge-400i-standard-l-4wd-2024-702003-1/",
+      "ano": 2024,
+      "marca": "Hisun"
+    }
+  ],
+  "stats": {
+    "total": 6
+  },
+  "meta": {
+    "geracaoId": "forge-1"
+  }
+}

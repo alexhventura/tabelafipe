@@ -1,0 +1,42 @@
+{
+  "tipo": "familia",
+  "slug": "t",
+  "canonicalPath": "/fipe/toyota/t/",
+  "titulo": "Toyota t - Tabela FIPE",
+  "descricao": "2 versoes e anos do Toyota t na Tabela FIPE.",
+  "seo": {
+    "title": "Toyota t - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes Toyota t. 2 veiculos indexados.",
+    "h1": "Toyota t - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/toyota/t/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "toyota-t-100-3-4-v6-1995-gasolina",
+      "fipeCodigo": "002058-3",
+      "displayName": "Toyota T-100 3.4 V6",
+      "valorAtual": 18221,
+      "canonicalPath": "/fipe/toyota/t-100-3-4-v6-1995-002058-3/",
+      "ano": 1995,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-t-100-3-4-v6-1994-gasolina",
+      "fipeCodigo": "002058-3",
+      "displayName": "Toyota T-100 3.4 V6",
+      "valorAtual": 13818,
+      "canonicalPath": "/fipe/toyota/t-100-3-4-v6-1994-002058-3/",
+      "ano": 1994,
+      "marca": "Toyota"
+    }
+  ],
+  "stats": {
+    "total": 2,
+    "precoMin": 13818,
+    "precoMax": 18221,
+    "anos": [
+      1995,
+      1994
+    ]
+  }
+}

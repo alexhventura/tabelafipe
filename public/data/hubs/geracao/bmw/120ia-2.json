@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "120ia-2",
+  "canonicalPath": "/geracao/bmw/120ia-2/",
+  "titulo": "Geracao 120ia-2",
+  "descricao": "2 veiculos da geracao 120ia-2.",
+  "seo": {
+    "title": "Geracao 120ia-2 - Precos FIPE",
+    "description": "Veiculos da geracao 120ia-2 na Tabela FIPE.",
+    "h1": "Geracao 120ia-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/bmw/120ia-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "bmw-120ia-sport-2-0-activeflex-16v-aut-2015-gasolina",
+      "fipeCodigo": "009212-6",
+      "displayName": "BMW 120iA Sport 2.0/ActiveFlex 16V Aut.",
+      "valorAtual": 82552,
+      "canonicalPath": "/fipe/bmw/120ia-sport-2-0-activeflex-16v-aut-2015-009212-6/",
+      "ano": 2015,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-120ia-sport-2-0-activeflex-16v-aut-2016-gasolina",
+      "fipeCodigo": "009212-6",
+      "displayName": "BMW 120iA Sport 2.0/ActiveFlex 16V Aut.",
+      "valorAtual": 95534,
+      "canonicalPath": "/fipe/bmw/120ia-sport-2-0-activeflex-16v-aut-2016-009212-6/",
+      "ano": 2016,
+      "marca": "BMW"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "120ia-2"
+  }
+}

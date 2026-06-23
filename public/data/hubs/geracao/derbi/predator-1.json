@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "predator-1",
+  "canonicalPath": "/geracao/derbi/predator-1/",
+  "titulo": "Geracao predator-1",
+  "descricao": "2 veiculos da geracao predator-1.",
+  "seo": {
+    "title": "Geracao predator-1 - Precos FIPE",
+    "description": "Veiculos da geracao predator-1 na Tabela FIPE.",
+    "h1": "Geracao predator-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/derbi/predator-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "derbi-predator-ar-49cc-2001-gasolina",
+      "fipeCodigo": "844005-0",
+      "displayName": "DERBI PREDATOR AR 49cc",
+      "valorAtual": 3138,
+      "canonicalPath": "/fipe/derbi/predator-ar-49cc-2001-844005-0/",
+      "ano": 2001,
+      "marca": "DERBI"
+    },
+    {
+      "vehicleId": "derbi-predator-lc-49cc-2001-gasolina",
+      "fipeCodigo": "844006-9",
+      "displayName": "DERBI PREDATOR LC 49cc",
+      "valorAtual": 3345,
+      "canonicalPath": "/fipe/derbi/predator-lc-49cc-2001-844006-9/",
+      "ano": 2001,
+      "marca": "DERBI"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "predator-1"
+  }
+}

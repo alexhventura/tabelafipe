@@ -1,0 +1,36 @@
+---
+import { formatBRL } from '../lib/format';
+import type { HubBundle } from '../lib/types';
+
+interface Props {
+  hub: HubBundle;
+}
+
+const { hub } = Astro.props;
+---
+
+<header class="page-header">
+  <h1>{hub.seo.h1}</h1>
+  <p>{hub.descricao}</p>
+  {hub.stats && (
+    <p>
+      {hub.stats.total} versões
+      {hub.stats.precoMin != null && hub.stats.precoMax != null && (
+        <> · {formatBRL(hub.stats.precoMin)} – {formatBRL(hub.stats.precoMax)}</>
+      )}
+    </p>
+  )}
+</header>
+
+<section class="section">
+  <h2>Versões e anos</h2>
+  <div class="grid-2">
+    {hub.veiculos.map((v) => (
+      <a class="vehicle-link" href={v.canonicalPath}>
+        <div class="name">{v.displayName}</div>
+        <div class="meta">{v.ano} · FIPE {v.fipeCodigo}</div>
+        <div class="price">{formatBRL(v.valorAtual)}</div>
+      </a>
+    ))}
+  </div>
+</section>

@@ -1,0 +1,42 @@
+{
+  "tipo": "familia",
+  "slug": "elegant",
+  "canonicalPath": "/fipe/brandy/elegant/",
+  "titulo": "BRANDY elegant - Tabela FIPE",
+  "descricao": "2 versoes e anos do BRANDY elegant na Tabela FIPE.",
+  "seo": {
+    "title": "BRANDY elegant - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes BRANDY elegant. 2 veiculos indexados.",
+    "h1": "BRANDY elegant - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/brandy/elegant/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "brandy-elegant-50-1996-gasolina",
+      "fipeCodigo": "804001-0",
+      "displayName": "BRANDY ELEGANT 50",
+      "valorAtual": 1028,
+      "canonicalPath": "/fipe/brandy/elegant-50-1996-804001-0/",
+      "ano": 1996,
+      "marca": "BRANDY"
+    },
+    {
+      "vehicleId": "brandy-elegant-50-1995-gasolina",
+      "fipeCodigo": "804001-0",
+      "displayName": "BRANDY ELEGANT 50",
+      "valorAtual": 985,
+      "canonicalPath": "/fipe/brandy/elegant-50-1995-804001-0/",
+      "ano": 1995,
+      "marca": "BRANDY"
+    }
+  ],
+  "stats": {
+    "total": 2,
+    "precoMin": 985,
+    "precoMax": 1028,
+    "anos": [
+      1996,
+      1995
+    ]
+  }
+}

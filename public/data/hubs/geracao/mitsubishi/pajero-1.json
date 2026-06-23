@@ -1,0 +1,57 @@
+{
+  "tipo": "geracao",
+  "slug": "pajero-1",
+  "canonicalPath": "/geracao/mitsubishi/pajero-1/",
+  "titulo": "Geracao pajero-1",
+  "descricao": "4 veiculos da geracao pajero-1.",
+  "seo": {
+    "title": "Geracao pajero-1 - Precos FIPE",
+    "description": "Veiculos da geracao pajero-1 na Tabela FIPE.",
+    "h1": "Geracao pajero-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/mitsubishi/pajero-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "mitsubishi-pajero-sport-hpe-2-4-4x4-diesel-aut-0-diesel",
+      "fipeCodigo": "022178-3",
+      "displayName": "Mitsubishi Pajero Sport HPE 2.4 4x4 Diesel Aut.",
+      "valorAtual": 349496,
+      "canonicalPath": "/fipe/mitsubishi/pajero-sport-hpe-2-4-4x4-diesel-aut-0-022178-3/",
+      "ano": 0,
+      "marca": "Mitsubishi"
+    },
+    {
+      "vehicleId": "mitsubishi-pajero-sport-hpe-s-2-4-4x4-diesel-aut-0-diesel",
+      "fipeCodigo": "022185-6",
+      "displayName": "Mitsubishi Pajero Sport HPE-S 2.4  4x4 Diesel Aut.",
+      "valorAtual": 384684,
+      "canonicalPath": "/fipe/mitsubishi/pajero-sport-hpe-s-2-4-4x4-diesel-aut-0-022185-6/",
+      "ano": 0,
+      "marca": "Mitsubishi"
+    },
+    {
+      "vehicleId": "mitsubishi-pajero-sport-le-black-2-4-4x4-die-aut-0-diesel",
+      "fipeCodigo": "022209-7",
+      "displayName": "Mitsubishi Pajero Sport Le.Black 2.4 4x4 (Die) Aut.",
+      "valorAtual": 426521,
+      "canonicalPath": "/fipe/mitsubishi/pajero-sport-le-black-2-4-4x4-die-aut-0-022209-7/",
+      "ano": 0,
+      "marca": "Mitsubishi"
+    },
+    {
+      "vehicleId": "mitsubishi-pajero-sport-legend-2-4-4x4-diesel-aut-0-diesel",
+      "fipeCodigo": "022204-6",
+      "displayName": "Mitsubishi Pajero Sport Legend 2.4 4x4 Diesel Aut.",
+      "valorAtual": 425371,
+      "canonicalPath": "/fipe/mitsubishi/pajero-sport-legend-2-4-4x4-diesel-aut-0-022204-6/",
+      "ano": 0,
+      "marca": "Mitsubishi"
+    }
+  ],
+  "stats": {
+    "total": 4
+  },
+  "meta": {
+    "geracaoId": "pajero-1"
+  }
+}

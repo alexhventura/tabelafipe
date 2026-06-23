@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "istana-1",
+  "canonicalPath": "/geracao/ssangyong/istana-1/",
+  "titulo": "Geracao istana-1",
+  "descricao": "2 veiculos da geracao istana-1.",
+  "seo": {
+    "title": "Geracao istana-1 - Precos FIPE",
+    "description": "Veiculos da geracao istana-1 na Tabela FIPE.",
+    "h1": "Geracao istana-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/ssangyong/istana-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "ssangyong-istana-2-9-95cv-tb-diesel-int-16lug-2001-diesel",
+      "fipeCodigo": "055014-0",
+      "displayName": "SSANGYONG Istana 2.9 95cv TB Diesel Int. 16Lug.",
+      "valorAtual": 13132,
+      "canonicalPath": "/fipe/ssangyong/istana-2-9-95cv-tb-diesel-int-16lug-2001-055014-0/",
+      "ano": 2001,
+      "marca": "SSANGYONG"
+    },
+    {
+      "vehicleId": "ssangyong-istana-2-9-95cv-tb-diesel-int-16lug-2002-diesel",
+      "fipeCodigo": "055014-0",
+      "displayName": "SSANGYONG Istana 2.9 95cv TB Diesel Int. 16Lug.",
+      "valorAtual": 16158,
+      "canonicalPath": "/fipe/ssangyong/istana-2-9-95cv-tb-diesel-int-16lug-2002-055014-0/",
+      "ano": 2002,
+      "marca": "SSANGYONG"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "istana-1"
+  }
+}

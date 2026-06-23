@@ -1,0 +1,75 @@
+{
+  "tipo": "geracao",
+  "slug": "previa-1",
+  "canonicalPath": "/geracao/toyota/previa-1/",
+  "titulo": "Geracao previa-1",
+  "descricao": "6 veiculos da geracao previa-1.",
+  "seo": {
+    "title": "Geracao previa-1 - Precos FIPE",
+    "description": "Veiculos da geracao previa-1 na Tabela FIPE.",
+    "h1": "Geracao previa-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/toyota/previa-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "toyota-previa-le-2-4-16v-1991-gasolina",
+      "fipeCodigo": "002022-2",
+      "displayName": "Toyota Previa LE 2.4 16V",
+      "valorAtual": 14880,
+      "canonicalPath": "/fipe/toyota/previa-le-2-4-16v-1991-002022-2/",
+      "ano": 1991,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-previa-le-2-4-16v-1992-gasolina",
+      "fipeCodigo": "002022-2",
+      "displayName": "Toyota Previa LE 2.4 16V",
+      "valorAtual": 18543,
+      "canonicalPath": "/fipe/toyota/previa-le-2-4-16v-1992-002022-2/",
+      "ano": 1992,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-previa-le-2-4-16v-1993-gasolina",
+      "fipeCodigo": "002022-2",
+      "displayName": "Toyota Previa LE 2.4 16V",
+      "valorAtual": 20019,
+      "canonicalPath": "/fipe/toyota/previa-le-2-4-16v-1993-002022-2/",
+      "ano": 1993,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-previa-le-2-4-16v-1994-gasolina",
+      "fipeCodigo": "002022-2",
+      "displayName": "Toyota Previa LE 2.4 16V",
+      "valorAtual": 20520,
+      "canonicalPath": "/fipe/toyota/previa-le-2-4-16v-1994-002022-2/",
+      "ano": 1994,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-previa-le-2-4-16v-1995-gasolina",
+      "fipeCodigo": "002022-2",
+      "displayName": "Toyota Previa LE 2.4 16V",
+      "valorAtual": 21033,
+      "canonicalPath": "/fipe/toyota/previa-le-2-4-16v-1995-002022-2/",
+      "ano": 1995,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-previa-lx-2-5-1992-gasolina",
+      "fipeCodigo": "002056-7",
+      "displayName": "Toyota Previa LX 2.5",
+      "valorAtual": 13735,
+      "canonicalPath": "/fipe/toyota/previa-lx-2-5-1992-002056-7/",
+      "ano": 1992,
+      "marca": "Toyota"
+    }
+  ],
+  "stats": {
+    "total": 6
+  },
+  "meta": {
+    "geracaoId": "previa-1"
+  }
+}

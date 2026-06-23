@@ -1,0 +1,52 @@
+{
+  "tipo": "familia",
+  "slug": "508",
+  "canonicalPath": "/fipe/peugeot/508/",
+  "titulo": "Peugeot 508 - Tabela FIPE",
+  "descricao": "3 versoes e anos do Peugeot 508 na Tabela FIPE.",
+  "seo": {
+    "title": "Peugeot 508 - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes Peugeot 508. 3 veiculos indexados.",
+    "h1": "Peugeot 508 - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/peugeot/508/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "peugeot-508-thp-1-6-turbo-16v-4p-aut-2014-gasolina",
+      "fipeCodigo": "024190-3",
+      "displayName": "Peugeot 508 THP 1.6 Turbo 16V 4p Aut.",
+      "valorAtual": 56741,
+      "canonicalPath": "/fipe/peugeot/508-thp-1-6-turbo-16v-4p-aut-2014-024190-3/",
+      "ano": 2014,
+      "marca": "Peugeot"
+    },
+    {
+      "vehicleId": "peugeot-508-thp-1-6-turbo-16v-4p-aut-2013-gasolina",
+      "fipeCodigo": "024190-3",
+      "displayName": "Peugeot 508 THP 1.6 Turbo 16V 4p Aut.",
+      "valorAtual": 51737,
+      "canonicalPath": "/fipe/peugeot/508-thp-1-6-turbo-16v-4p-aut-2013-024190-3/",
+      "ano": 2013,
+      "marca": "Peugeot"
+    },
+    {
+      "vehicleId": "peugeot-508-thp-1-6-turbo-16v-4p-aut-2012-gasolina",
+      "fipeCodigo": "024190-3",
+      "displayName": "Peugeot 508 THP 1.6 Turbo 16V 4p Aut.",
+      "valorAtual": 50130,
+      "canonicalPath": "/fipe/peugeot/508-thp-1-6-turbo-16v-4p-aut-2012-024190-3/",
+      "ano": 2012,
+      "marca": "Peugeot"
+    }
+  ],
+  "stats": {
+    "total": 3,
+    "precoMin": 50130,
+    "precoMax": 56741,
+    "anos": [
+      2014,
+      2013,
+      2012
+    ]
+  }
+}

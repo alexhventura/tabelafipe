@@ -1,0 +1,70 @@
+{
+  "tipo": "familia",
+  "slug": "fzr",
+  "canonicalPath": "/fipe/yamaha/fzr/",
+  "titulo": "YAMAHA fzr - Tabela FIPE",
+  "descricao": "5 versoes e anos do YAMAHA fzr na Tabela FIPE.",
+  "seo": {
+    "title": "YAMAHA fzr - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes YAMAHA fzr. 5 veiculos indexados.",
+    "h1": "YAMAHA fzr - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/yamaha/fzr/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "yamaha-fzr-600-1995-gasolina",
+      "fipeCodigo": "827010-4",
+      "displayName": "YAMAHA FZR 600",
+      "valorAtual": 13055,
+      "canonicalPath": "/fipe/yamaha/fzr-600-1995-827010-4/",
+      "ano": 1995,
+      "marca": "YAMAHA"
+    },
+    {
+      "vehicleId": "yamaha-fzr-1000-1995-gasolina",
+      "fipeCodigo": "827009-0",
+      "displayName": "YAMAHA FZR 1000",
+      "valorAtual": 26515,
+      "canonicalPath": "/fipe/yamaha/fzr-1000-1995-827009-0/",
+      "ano": 1995,
+      "marca": "YAMAHA"
+    },
+    {
+      "vehicleId": "yamaha-fzr-600-1994-gasolina",
+      "fipeCodigo": "827010-4",
+      "displayName": "YAMAHA FZR 600",
+      "valorAtual": 11691,
+      "canonicalPath": "/fipe/yamaha/fzr-600-1994-827010-4/",
+      "ano": 1994,
+      "marca": "YAMAHA"
+    },
+    {
+      "vehicleId": "yamaha-fzr-1000-1994-gasolina",
+      "fipeCodigo": "827009-0",
+      "displayName": "YAMAHA FZR 1000",
+      "valorAtual": 25868,
+      "canonicalPath": "/fipe/yamaha/fzr-1000-1994-827009-0/",
+      "ano": 1994,
+      "marca": "YAMAHA"
+    },
+    {
+      "vehicleId": "yamaha-fzr-1000-1993-gasolina",
+      "fipeCodigo": "827009-0",
+      "displayName": "YAMAHA FZR 1000",
+      "valorAtual": 23915,
+      "canonicalPath": "/fipe/yamaha/fzr-1000-1993-827009-0/",
+      "ano": 1993,
+      "marca": "YAMAHA"
+    }
+  ],
+  "stats": {
+    "total": 5,
+    "precoMin": 11691,
+    "precoMax": 26515,
+    "anos": [
+      1995,
+      1994,
+      1993
+    ]
+  }
+}

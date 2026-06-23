@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "gw12-2",
+  "canonicalPath": "/geracao/mobilli/gw12-2/",
+  "titulo": "Geracao gw12-2",
+  "descricao": "2 veiculos da geracao gw12-2.",
+  "seo": {
+    "title": "Geracao gw12-2 - Precos FIPE",
+    "description": "Veiculos da geracao gw12-2 na Tabela FIPE.",
+    "h1": "Geracao gw12-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/mobilli/gw12-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "mobilli-gw12-2025-gasolina",
+      "fipeCodigo": "703001-0",
+      "displayName": "Mobílli GW12",
+      "valorAtual": 12485,
+      "canonicalPath": "/fipe/mobilli/gw12-2025-703001-0/",
+      "ano": 2025,
+      "marca": "Mobílli"
+    },
+    {
+      "vehicleId": "mobilli-gw12-2026-gasolina",
+      "fipeCodigo": "703001-0",
+      "displayName": "Mobílli GW12",
+      "valorAtual": 12965,
+      "canonicalPath": "/fipe/mobilli/gw12-2026-703001-0/",
+      "ano": 2026,
+      "marca": "Mobílli"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "gw12-2"
+  }
+}

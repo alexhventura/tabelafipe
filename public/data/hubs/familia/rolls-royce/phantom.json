@@ -1,0 +1,72 @@
+{
+  "tipo": "familia",
+  "slug": "phantom",
+  "canonicalPath": "/fipe/rolls-royce/phantom/",
+  "titulo": "Rolls-Royce phantom - Tabela FIPE",
+  "descricao": "5 versoes e anos do Rolls-Royce phantom na Tabela FIPE.",
+  "seo": {
+    "title": "Rolls-Royce phantom - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes Rolls-Royce phantom. 5 veiculos indexados.",
+    "h1": "Rolls-Royce phantom - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/rolls-royce/phantom/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "rolls-royce-phantom-6-7-v12-aut-2019-gasolina",
+      "fipeCodigo": "087002-1",
+      "displayName": "Rolls-Royce Phantom 6.7 V12 Aut.",
+      "valorAtual": 6343944,
+      "canonicalPath": "/fipe/rolls-royce/phantom-6-7-v12-aut-2019-087002-1/",
+      "ano": 2019,
+      "marca": "Rolls-Royce"
+    },
+    {
+      "vehicleId": "rolls-royce-phantom-6-7-v12-aut-2016-gasolina",
+      "fipeCodigo": "087002-1",
+      "displayName": "Rolls-Royce Phantom 6.7 V12 Aut.",
+      "valorAtual": 3204244,
+      "canonicalPath": "/fipe/rolls-royce/phantom-6-7-v12-aut-2016-087002-1/",
+      "ano": 2016,
+      "marca": "Rolls-Royce"
+    },
+    {
+      "vehicleId": "rolls-royce-phantom-6-7-v12-aut-2015-gasolina",
+      "fipeCodigo": "087002-1",
+      "displayName": "Rolls-Royce Phantom 6.7 V12 Aut.",
+      "valorAtual": 3021331,
+      "canonicalPath": "/fipe/rolls-royce/phantom-6-7-v12-aut-2015-087002-1/",
+      "ano": 2015,
+      "marca": "Rolls-Royce"
+    },
+    {
+      "vehicleId": "rolls-royce-phantom-6-7-v12-aut-2014-gasolina",
+      "fipeCodigo": "087002-1",
+      "displayName": "Rolls-Royce Phantom 6.7 V12 Aut.",
+      "valorAtual": 2813220,
+      "canonicalPath": "/fipe/rolls-royce/phantom-6-7-v12-aut-2014-087002-1/",
+      "ano": 2014,
+      "marca": "Rolls-Royce"
+    },
+    {
+      "vehicleId": "rolls-royce-phantom-6-7-v12-aut-2013-gasolina",
+      "fipeCodigo": "087002-1",
+      "displayName": "Rolls-Royce Phantom 6.7 V12 Aut.",
+      "valorAtual": 2624941,
+      "canonicalPath": "/fipe/rolls-royce/phantom-6-7-v12-aut-2013-087002-1/",
+      "ano": 2013,
+      "marca": "Rolls-Royce"
+    }
+  ],
+  "stats": {
+    "total": 5,
+    "precoMin": 2624941,
+    "precoMax": 6343944,
+    "anos": [
+      2019,
+      2016,
+      2015,
+      2014,
+      2013
+    ]
+  }
+}

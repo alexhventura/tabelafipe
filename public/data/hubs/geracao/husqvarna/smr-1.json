@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "smr-1",
+  "canonicalPath": "/geracao/husqvarna/smr-1/",
+  "titulo": "Geracao smr-1",
+  "descricao": "2 veiculos da geracao smr-1.",
+  "seo": {
+    "title": "Geracao smr-1 - Precos FIPE",
+    "description": "Veiculos da geracao smr-1 na Tabela FIPE.",
+    "h1": "Geracao smr-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/husqvarna/smr-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "husqvarna-smr-510-2007-gasolina",
+      "fipeCodigo": "812019-6",
+      "displayName": "HUSQVARNA SMR 510",
+      "valorAtual": 25694,
+      "canonicalPath": "/fipe/husqvarna/smr-510-2007-812019-6/",
+      "ano": 2007,
+      "marca": "HUSQVARNA"
+    },
+    {
+      "vehicleId": "husqvarna-smr-510-2008-gasolina",
+      "fipeCodigo": "812019-6",
+      "displayName": "HUSQVARNA SMR 510",
+      "valorAtual": 27000,
+      "canonicalPath": "/fipe/husqvarna/smr-510-2008-812019-6/",
+      "ano": 2008,
+      "marca": "HUSQVARNA"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "smr-1"
+  }
+}

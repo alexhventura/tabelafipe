@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "yzf-2",
+  "canonicalPath": "/geracao/yamaha/yzf-2/",
+  "titulo": "Geracao yzf-2",
+  "descricao": "2 veiculos da geracao yzf-2.",
+  "seo": {
+    "title": "Geracao yzf-2 - Precos FIPE",
+    "description": "Veiculos da geracao yzf-2 na Tabela FIPE.",
+    "h1": "Geracao yzf-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/yamaha/yzf-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "yamaha-yzf-750-1993-gasolina",
+      "fipeCodigo": "827036-8",
+      "displayName": "YAMAHA YZF 750",
+      "valorAtual": 10131,
+      "canonicalPath": "/fipe/yamaha/yzf-750-1993-827036-8/",
+      "ano": 1993,
+      "marca": "YAMAHA"
+    },
+    {
+      "vehicleId": "yamaha-yzf-750-1994-gasolina",
+      "fipeCodigo": "827036-8",
+      "displayName": "YAMAHA YZF 750",
+      "valorAtual": 10988,
+      "canonicalPath": "/fipe/yamaha/yzf-750-1994-827036-8/",
+      "ano": 1994,
+      "marca": "YAMAHA"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "yzf-2"
+  }
+}

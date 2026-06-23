@@ -1,0 +1,48 @@
+{
+  "tipo": "geracao",
+  "slug": "gk-2",
+  "canonicalPath": "/geracao/zontes/gk-2/",
+  "titulo": "Geracao gk-2",
+  "descricao": "3 veiculos da geracao gk-2.",
+  "seo": {
+    "title": "Geracao gk-2 - Precos FIPE",
+    "description": "Veiculos da geracao gk-2 na Tabela FIPE.",
+    "h1": "Geracao gk-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/zontes/gk-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "zontes-gk-350-2025-gasolina",
+      "fipeCodigo": "895009-1",
+      "displayName": "ZONTES GK 350",
+      "valorAtual": 28632,
+      "canonicalPath": "/fipe/zontes/gk-350-2025-895009-1/",
+      "ano": 2025,
+      "marca": "ZONTES"
+    },
+    {
+      "vehicleId": "zontes-gk-350-2026-gasolina",
+      "fipeCodigo": "895009-1",
+      "displayName": "ZONTES GK 350",
+      "valorAtual": 29789,
+      "canonicalPath": "/fipe/zontes/gk-350-2026-895009-1/",
+      "ano": 2026,
+      "marca": "ZONTES"
+    },
+    {
+      "vehicleId": "zontes-gk-350-2027-gasolina",
+      "fipeCodigo": "895009-1",
+      "displayName": "ZONTES GK 350",
+      "valorAtual": 31378,
+      "canonicalPath": "/fipe/zontes/gk-350-2027-895009-1/",
+      "ano": 2027,
+      "marca": "ZONTES"
+    }
+  ],
+  "stats": {
+    "total": 3
+  },
+  "meta": {
+    "geracaoId": "gk-2"
+  }
+}

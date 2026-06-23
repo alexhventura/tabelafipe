@@ -1,0 +1,42 @@
+{
+  "tipo": "familia",
+  "slug": "monaco",
+  "canonicalPath": "/fipe/bee/monaco/",
+  "titulo": "BEE monaco - Tabela FIPE",
+  "descricao": "2 versoes e anos do BEE monaco na Tabela FIPE.",
+  "seo": {
+    "title": "BEE monaco - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes BEE monaco. 2 veiculos indexados.",
+    "h1": "BEE monaco - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/bee/monaco/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "bee-monaco-150cc-2020-gasolina",
+      "fipeCodigo": "886004-1",
+      "displayName": "BEE Monaco 150cc",
+      "valorAtual": 9419,
+      "canonicalPath": "/fipe/bee/monaco-150cc-2020-886004-1/",
+      "ano": 2020,
+      "marca": "BEE"
+    },
+    {
+      "vehicleId": "bee-monaco-150cc-2019-gasolina",
+      "fipeCodigo": "886004-1",
+      "displayName": "BEE Monaco 150cc",
+      "valorAtual": 7954,
+      "canonicalPath": "/fipe/bee/monaco-150cc-2019-886004-1/",
+      "ano": 2019,
+      "marca": "BEE"
+    }
+  ],
+  "stats": {
+    "total": 2,
+    "precoMin": 7954,
+    "precoMax": 9419,
+    "anos": [
+      2020,
+      2019
+    ]
+  }
+}

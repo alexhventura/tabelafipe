@@ -1,0 +1,195 @@
+{
+  "geradoEm": "2026-06-21T05:31:03.815Z",
+  "catalogoFipe": {
+    "total": 50395,
+    "pct": 100
+  },
+  "cobertura": {
+    "fipe": {
+      "veiculos": 50395,
+      "pct": 100
+    },
+    "historico": {
+      "veiculos": 50395,
+      "pct": 100
+    },
+    "inmetro": {
+      "veiculos": 20957,
+      "pct": 41.59,
+      "registrosFonte": 5631
+    },
+    "fabricantes": {
+      "veiculos": 0,
+      "pct": 0,
+      "registrosFonte": 0
+    },
+    "combinada": {
+      "veiculos": 20957,
+      "pct": 41.59,
+      "descricao": "INMETRO e/ou fabricante (campos novos alem de FIPE/historico)"
+    },
+    "staticSpecs": {
+      "veiculos": 50395,
+      "pct": 100,
+      "registrosFonte": 50395
+    },
+    "cilindrada": {
+      "veiculos": 43245,
+      "pct": 85.81
+    },
+    "cambio": {
+      "veiculos": 11854,
+      "pct": 23.52
+    }
+  },
+  "porTipo": {
+    "carros": {
+      "total": 30180,
+      "inmetro": 20865,
+      "inmetroPct": 41.4
+    },
+    "motos": {
+      "total": 8847,
+      "inmetro": 55,
+      "inmetroPct": 0.11
+    },
+    "caminhoes": {
+      "total": 11368,
+      "inmetro": 37,
+      "inmetroPct": 0.07
+    }
+  },
+  "topMarcas": [
+    {
+      "marca": "MERCEDES-BENZ",
+      "total": 4531,
+      "inmetroPct": 29,
+      "manufacturerPct": 0
+    },
+    {
+      "marca": "FORD",
+      "total": 3313,
+      "inmetroPct": 41.9,
+      "manufacturerPct": 0
+    },
+    {
+      "marca": "VW - VOLKSWAGEN",
+      "total": 2708,
+      "inmetroPct": 83.23,
+      "manufacturerPct": 0
+    },
+    {
+      "marca": "GM - CHEVROLET",
+      "total": 2619,
+      "inmetroPct": 52.31,
+      "manufacturerPct": 0
+    },
+    {
+      "marca": "FIAT",
+      "total": 2494,
+      "inmetroPct": 88.69,
+      "manufacturerPct": 0
+    },
+    {
+      "marca": "VOLVO",
+      "total": 2219,
+      "inmetroPct": 17.62,
+      "manufacturerPct": 0
+    },
+    {
+      "marca": "SCANIA",
+      "total": 2043,
+      "inmetroPct": 0,
+      "manufacturerPct": 0
+    },
+    {
+      "marca": "BMW",
+      "total": 1870,
+      "inmetroPct": 39.09,
+      "manufacturerPct": 0
+    },
+    {
+      "marca": "HONDA",
+      "total": 1738,
+      "inmetroPct": 35.9,
+      "manufacturerPct": 0
+    },
+    {
+      "marca": "RENAULT",
+      "total": 1430,
+      "inmetroPct": 87.48,
+      "manufacturerPct": 0
+    },
+    {
+      "marca": "VOLKSWAGEN",
+      "total": 1367,
+      "inmetroPct": 0,
+      "manufacturerPct": 0
+    },
+    {
+      "marca": "AUDI",
+      "total": 1161,
+      "inmetroPct": 95.35,
+      "manufacturerPct": 0
+    },
+    {
+      "marca": "TOYOTA",
+      "total": 1127,
+      "inmetroPct": 85.8,
+      "manufacturerPct": 0
+    },
+    {
+      "marca": "IVECO",
+      "total": 1091,
+      "inmetroPct": 0,
+      "manufacturerPct": 0
+    },
+    {
+      "marca": "PEUGEOT",
+      "total": 1044,
+      "inmetroPct": 52.49,
+      "manufacturerPct": 0
+    },
+    {
+      "marca": "SUZUKI",
+      "total": 1006,
+      "inmetroPct": 29.82,
+      "manufacturerPct": 0
+    },
+    {
+      "marca": "MITSUBISHI",
+      "total": 972,
+      "inmetroPct": 89.3,
+      "manufacturerPct": 0
+    },
+    {
+      "marca": "PORSCHE",
+      "total": 879,
+      "inmetroPct": 93.74,
+      "manufacturerPct": 0
+    },
+    {
+      "marca": "CITROËN",
+      "total": 863,
+      "inmetroPct": 66.51,
+      "manufacturerPct": 0
+    },
+    {
+      "marca": "HYUNDAI",
+      "total": 827,
+      "inmetroPct": 76.06,
+      "manufacturerPct": 0
+    }
+  ],
+  "estimativaEnriquecimentoReal": {
+    "somenteHistorico": 100,
+    "novosCamposInmetro": 41.59,
+    "novosCamposFabricante": 0,
+    "novosCamposCombinados": 41.59,
+    "staticSpecsCatalogo": 100,
+    "cilindradaInferida": 85.81,
+    "cambioInferido": 23.52,
+    "carrosComInmetro": 41.4,
+    "observacao": "PBEV cobre veiculos leves novos (~760-1600 versoes/ano). FIPE inclui motos, caminhoes e veiculos antigos sem PBEV."
+  }
+}

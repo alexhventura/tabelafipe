@@ -1,0 +1,52 @@
+{
+  "tipo": "familia",
+  "slug": "gr150p",
+  "canonicalPath": "/fipe/garinni/gr150p/",
+  "titulo": "GARINNI gr150p - Tabela FIPE",
+  "descricao": "3 versoes e anos do GARINNI gr150p na Tabela FIPE.",
+  "seo": {
+    "title": "GARINNI gr150p - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes GARINNI gr150p. 3 veiculos indexados.",
+    "h1": "GARINNI gr150p - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/garinni/gr150p/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "garinni-gr150p-gr150pi-2008-gasolina",
+      "fipeCodigo": "847006-5",
+      "displayName": "GARINNI GR150P/ GR150PI",
+      "valorAtual": 3909,
+      "canonicalPath": "/fipe/garinni/gr150p-gr150pi-2008-847006-5/",
+      "ano": 2008,
+      "marca": "GARINNI"
+    },
+    {
+      "vehicleId": "garinni-gr150p-gr150pi-2007-gasolina",
+      "fipeCodigo": "847006-5",
+      "displayName": "GARINNI GR150P/ GR150PI",
+      "valorAtual": 3515,
+      "canonicalPath": "/fipe/garinni/gr150p-gr150pi-2007-847006-5/",
+      "ano": 2007,
+      "marca": "GARINNI"
+    },
+    {
+      "vehicleId": "garinni-gr150p-gr150pi-2006-gasolina",
+      "fipeCodigo": "847006-5",
+      "displayName": "GARINNI GR150P/ GR150PI",
+      "valorAtual": 3339,
+      "canonicalPath": "/fipe/garinni/gr150p-gr150pi-2006-847006-5/",
+      "ano": 2006,
+      "marca": "GARINNI"
+    }
+  ],
+  "stats": {
+    "total": 3,
+    "precoMin": 3339,
+    "precoMax": 3909,
+    "anos": [
+      2008,
+      2007,
+      2006
+    ]
+  }
+}

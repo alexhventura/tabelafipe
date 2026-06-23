@@ -1,0 +1,57 @@
+{
+  "tipo": "geracao",
+  "slug": "s8-2",
+  "canonicalPath": "/geracao/audi/s8-2/",
+  "titulo": "Geracao s8-2",
+  "descricao": "4 veiculos da geracao s8-2.",
+  "seo": {
+    "title": "Geracao s8-2 - Precos FIPE",
+    "description": "Veiculos da geracao s8-2 na Tabela FIPE.",
+    "h1": "Geracao s8-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/audi/s8-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "audi-s8-4-2-quattro-mec-2000-gasolina",
+      "fipeCodigo": "008064-0",
+      "displayName": "Audi S8 4.2 Quattro Mec.",
+      "valorAtual": 60265,
+      "canonicalPath": "/fipe/audi/s8-4-2-quattro-mec-2000-008064-0/",
+      "ano": 2000,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-s8-4-2-quattro-tiptronic-2000-gasolina",
+      "fipeCodigo": "008065-9",
+      "displayName": "Audi S8 4.2 Quattro Tiptronic",
+      "valorAtual": 68952,
+      "canonicalPath": "/fipe/audi/s8-4-2-quattro-tiptronic-2000-008065-9/",
+      "ano": 2000,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-s8-4-2-tiptronic-2000-gasolina",
+      "fipeCodigo": "008029-2",
+      "displayName": "Audi S8 4.2 Tiptronic",
+      "valorAtual": 64552,
+      "canonicalPath": "/fipe/audi/s8-4-2-tiptronic-2000-008029-2/",
+      "ano": 2000,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-s8-4-2-tiptronic-2001-gasolina",
+      "fipeCodigo": "008029-2",
+      "displayName": "Audi S8 4.2 Tiptronic",
+      "valorAtual": 69959,
+      "canonicalPath": "/fipe/audi/s8-4-2-tiptronic-2001-008029-2/",
+      "ano": 2001,
+      "marca": "Audi"
+    }
+  ],
+  "stats": {
+    "total": 4
+  },
+  "meta": {
+    "geracaoId": "s8-2"
+  }
+}

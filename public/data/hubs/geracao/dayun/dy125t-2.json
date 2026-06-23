@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "dy125t-2",
+  "canonicalPath": "/geracao/dayun/dy125t-2/",
+  "titulo": "Geracao dy125t-2",
+  "descricao": "2 veiculos da geracao dy125t-2.",
+  "seo": {
+    "title": "Geracao dy125t-2 - Precos FIPE",
+    "description": "Veiculos da geracao dy125t-2 na Tabela FIPE.",
+    "h1": "Geracao dy125t-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/dayun/dy125t-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "dayun-dy125t-10-2010-gasolina",
+      "fipeCodigo": "860002-3",
+      "displayName": "DAYUN DY125T-10",
+      "valorAtual": 3577,
+      "canonicalPath": "/fipe/dayun/dy125t-10-2010-860002-3/",
+      "ano": 2010,
+      "marca": "DAYUN"
+    },
+    {
+      "vehicleId": "dayun-dy125t-10-2011-gasolina",
+      "fipeCodigo": "860002-3",
+      "displayName": "DAYUN DY125T-10",
+      "valorAtual": 3667,
+      "canonicalPath": "/fipe/dayun/dy125t-10-2011-860002-3/",
+      "ano": 2011,
+      "marca": "DAYUN"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "dy125t-2"
+  }
+}

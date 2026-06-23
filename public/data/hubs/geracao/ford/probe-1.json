@@ -1,0 +1,66 @@
+{
+  "tipo": "geracao",
+  "slug": "probe-1",
+  "canonicalPath": "/geracao/ford/probe-1/",
+  "titulo": "Geracao probe-1",
+  "descricao": "5 veiculos da geracao probe-1.",
+  "seo": {
+    "title": "Geracao probe-1 - Precos FIPE",
+    "description": "Veiculos da geracao probe-1 na Tabela FIPE.",
+    "h1": "Geracao probe-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/ford/probe-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "ford-probe-2-0-2-2-1992-gasolina",
+      "fipeCodigo": "003125-9",
+      "displayName": "Ford Probe 2.0/2.2",
+      "valorAtual": 6728,
+      "canonicalPath": "/fipe/ford/probe-2-0-2-2-1992-003125-9/",
+      "ano": 1992,
+      "marca": "Ford"
+    },
+    {
+      "vehicleId": "ford-probe-2-0-2-2-1993-gasolina",
+      "fipeCodigo": "003125-9",
+      "displayName": "Ford Probe 2.0/2.2",
+      "valorAtual": 8211,
+      "canonicalPath": "/fipe/ford/probe-2-0-2-2-1993-003125-9/",
+      "ano": 1993,
+      "marca": "Ford"
+    },
+    {
+      "vehicleId": "ford-probe-gt-2-5-v6-1993-gasolina",
+      "fipeCodigo": "003182-8",
+      "displayName": "Ford Probe GT 2.5 V6",
+      "valorAtual": 9283,
+      "canonicalPath": "/fipe/ford/probe-gt-2-5-v6-1993-003182-8/",
+      "ano": 1993,
+      "marca": "Ford"
+    },
+    {
+      "vehicleId": "ford-probe-gt-2-5-v6-1994-gasolina",
+      "fipeCodigo": "003182-8",
+      "displayName": "Ford Probe GT 2.5 V6",
+      "valorAtual": 9632,
+      "canonicalPath": "/fipe/ford/probe-gt-2-5-v6-1994-003182-8/",
+      "ano": 1994,
+      "marca": "Ford"
+    },
+    {
+      "vehicleId": "ford-probe-gt-2-5-v6-1995-gasolina",
+      "fipeCodigo": "003182-8",
+      "displayName": "Ford Probe GT 2.5 V6",
+      "valorAtual": 10546,
+      "canonicalPath": "/fipe/ford/probe-gt-2-5-v6-1995-003182-8/",
+      "ano": 1995,
+      "marca": "Ford"
+    }
+  ],
+  "stats": {
+    "total": 5
+  },
+  "meta": {
+    "geracaoId": "probe-1"
+  }
+}

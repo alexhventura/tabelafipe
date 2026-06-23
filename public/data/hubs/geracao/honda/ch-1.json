@@ -1,0 +1,48 @@
+{
+  "tipo": "geracao",
+  "slug": "ch-1",
+  "canonicalPath": "/geracao/honda/ch-1/",
+  "titulo": "Geracao ch-1",
+  "descricao": "3 veiculos da geracao ch-1.",
+  "seo": {
+    "title": "Geracao ch-1 - Precos FIPE",
+    "description": "Veiculos da geracao ch-1 na Tabela FIPE.",
+    "h1": "Geracao ch-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/honda/ch-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "honda-ch-125-r-spacy-1994-gasolina",
+      "fipeCodigo": "811025-5",
+      "displayName": "HONDA CH 125-R SPACY",
+      "valorAtual": 3954,
+      "canonicalPath": "/fipe/honda/ch-125-r-spacy-1994-811025-5/",
+      "ano": 1994,
+      "marca": "HONDA"
+    },
+    {
+      "vehicleId": "honda-ch-125-r-spacy-1995-gasolina",
+      "fipeCodigo": "811025-5",
+      "displayName": "HONDA CH 125-R SPACY",
+      "valorAtual": 4053,
+      "canonicalPath": "/fipe/honda/ch-125-r-spacy-1995-811025-5/",
+      "ano": 1995,
+      "marca": "HONDA"
+    },
+    {
+      "vehicleId": "honda-ch-125-r-spacy-1996-gasolina",
+      "fipeCodigo": "811025-5",
+      "displayName": "HONDA CH 125-R SPACY",
+      "valorAtual": 4160,
+      "canonicalPath": "/fipe/honda/ch-125-r-spacy-1996-811025-5/",
+      "ano": 1996,
+      "marca": "HONDA"
+    }
+  ],
+  "stats": {
+    "total": 3
+  },
+  "meta": {
+    "geracaoId": "ch-1"
+  }
+}

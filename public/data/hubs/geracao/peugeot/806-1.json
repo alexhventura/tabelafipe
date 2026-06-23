@@ -1,0 +1,84 @@
+{
+  "tipo": "geracao",
+  "slug": "806-1",
+  "canonicalPath": "/geracao/peugeot/806-1/",
+  "titulo": "Geracao 806-1",
+  "descricao": "7 veiculos da geracao 806-1.",
+  "seo": {
+    "title": "Geracao 806-1 - Precos FIPE",
+    "description": "Veiculos da geracao 806-1 na Tabela FIPE.",
+    "h1": "Geracao 806-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/peugeot/806-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "peugeot-806-st-turbo-1995-gasolina",
+      "fipeCodigo": "024022-2",
+      "displayName": "Peugeot 806 ST Turbo",
+      "valorAtual": 12079,
+      "canonicalPath": "/fipe/peugeot/806-st-turbo-1995-024022-2/",
+      "ano": 1995,
+      "marca": "Peugeot"
+    },
+    {
+      "vehicleId": "peugeot-806-st-turbo-1996-gasolina",
+      "fipeCodigo": "024022-2",
+      "displayName": "Peugeot 806 ST Turbo",
+      "valorAtual": 12488,
+      "canonicalPath": "/fipe/peugeot/806-st-turbo-1996-024022-2/",
+      "ano": 1996,
+      "marca": "Peugeot"
+    },
+    {
+      "vehicleId": "peugeot-806-st-turbo-1997-gasolina",
+      "fipeCodigo": "024022-2",
+      "displayName": "Peugeot 806 ST Turbo",
+      "valorAtual": 13215,
+      "canonicalPath": "/fipe/peugeot/806-st-turbo-1997-024022-2/",
+      "ano": 1997,
+      "marca": "Peugeot"
+    },
+    {
+      "vehicleId": "peugeot-806-st-turbo-1998-gasolina",
+      "fipeCodigo": "024022-2",
+      "displayName": "Peugeot 806 ST Turbo",
+      "valorAtual": 14019,
+      "canonicalPath": "/fipe/peugeot/806-st-turbo-1998-024022-2/",
+      "ano": 1998,
+      "marca": "Peugeot"
+    },
+    {
+      "vehicleId": "peugeot-806-st-turbo-1999-gasolina",
+      "fipeCodigo": "024022-2",
+      "displayName": "Peugeot 806 ST Turbo",
+      "valorAtual": 17134,
+      "canonicalPath": "/fipe/peugeot/806-st-turbo-1999-024022-2/",
+      "ano": 1999,
+      "marca": "Peugeot"
+    },
+    {
+      "vehicleId": "peugeot-806-st-turbo-2000-gasolina",
+      "fipeCodigo": "024022-2",
+      "displayName": "Peugeot 806 ST Turbo",
+      "valorAtual": 20714,
+      "canonicalPath": "/fipe/peugeot/806-st-turbo-2000-024022-2/",
+      "ano": 2000,
+      "marca": "Peugeot"
+    },
+    {
+      "vehicleId": "peugeot-806-sv-2-0-turbo-1995-gasolina",
+      "fipeCodigo": "024017-6",
+      "displayName": "Peugeot 806 SV 2.0 Turbo",
+      "valorAtual": 12285,
+      "canonicalPath": "/fipe/peugeot/806-sv-2-0-turbo-1995-024017-6/",
+      "ano": 1995,
+      "marca": "Peugeot"
+    }
+  ],
+  "stats": {
+    "total": 7
+  },
+  "meta": {
+    "geracaoId": "806-1"
+  }
+}

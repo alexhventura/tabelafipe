@@ -1,0 +1,69 @@
+{
+  "tipo": "familia",
+  "slug": "passport",
+  "canonicalPath": "/fipe/honda/passport/",
+  "titulo": "Honda passport - Tabela FIPE",
+  "descricao": "5 versoes e anos do Honda passport na Tabela FIPE.",
+  "seo": {
+    "title": "Honda passport - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes Honda passport. 5 veiculos indexados.",
+    "h1": "Honda passport - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/honda/passport/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "honda-passport-pick-up-4x2-1995-gasolina",
+      "fipeCodigo": "014026-0",
+      "displayName": "Honda Passport PIck-Up 4x2",
+      "valorAtual": 10603,
+      "canonicalPath": "/fipe/honda/passport-pick-up-4x2-1995-014026-0/",
+      "ano": 1995,
+      "marca": "Honda"
+    },
+    {
+      "vehicleId": "honda-passport-lx-1995-gasolina",
+      "fipeCodigo": "014025-2",
+      "displayName": "Honda Passport LX",
+      "valorAtual": 13940,
+      "canonicalPath": "/fipe/honda/passport-lx-1995-014025-2/",
+      "ano": 1995,
+      "marca": "Honda"
+    },
+    {
+      "vehicleId": "honda-passport-ex-1995-gasolina",
+      "fipeCodigo": "014024-4",
+      "displayName": "Honda Passport EX",
+      "valorAtual": 17479,
+      "canonicalPath": "/fipe/honda/passport-ex-1995-014024-4/",
+      "ano": 1995,
+      "marca": "Honda"
+    },
+    {
+      "vehicleId": "honda-passport-lx-1994-gasolina",
+      "fipeCodigo": "014025-2",
+      "displayName": "Honda Passport LX",
+      "valorAtual": 11290,
+      "canonicalPath": "/fipe/honda/passport-lx-1994-014025-2/",
+      "ano": 1994,
+      "marca": "Honda"
+    },
+    {
+      "vehicleId": "honda-passport-ex-1994-gasolina",
+      "fipeCodigo": "014024-4",
+      "displayName": "Honda Passport EX",
+      "valorAtual": 17052,
+      "canonicalPath": "/fipe/honda/passport-ex-1994-014024-4/",
+      "ano": 1994,
+      "marca": "Honda"
+    }
+  ],
+  "stats": {
+    "total": 5,
+    "precoMin": 10603,
+    "precoMax": 17479,
+    "anos": [
+      1995,
+      1994
+    ]
+  }
+}

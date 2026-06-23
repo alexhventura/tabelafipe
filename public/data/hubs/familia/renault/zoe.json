@@ -1,0 +1,79 @@
+{
+  "tipo": "familia",
+  "slug": "zoe",
+  "canonicalPath": "/fipe/renault/zoe/",
+  "titulo": "Renault zoe - Tabela FIPE",
+  "descricao": "6 versoes e anos do Renault zoe na Tabela FIPE.",
+  "seo": {
+    "title": "Renault zoe - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes Renault zoe. 6 veiculos indexados.",
+    "h1": "Renault zoe - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/renault/zoe/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "renault-zoe-intense-eletrico-2023-eletrico",
+      "fipeCodigo": "025276-0",
+      "displayName": "Renault ZOE Intense (Elétrico)",
+      "valorAtual": 141130,
+      "canonicalPath": "/fipe/renault/zoe-intense-eletrico-2023-025276-0/",
+      "ano": 2023,
+      "marca": "Renault"
+    },
+    {
+      "vehicleId": "renault-zoe-intense-eletrico-2022-eletrico",
+      "fipeCodigo": "025276-0",
+      "displayName": "Renault ZOE Intense (Elétrico)",
+      "valorAtual": 105572,
+      "canonicalPath": "/fipe/renault/zoe-intense-eletrico-2022-025276-0/",
+      "ano": 2022,
+      "marca": "Renault"
+    },
+    {
+      "vehicleId": "renault-zoe-zen-eletrico-2022-eletrico",
+      "fipeCodigo": "025305-7",
+      "displayName": "Renault ZOE Zen (Elétrico)",
+      "valorAtual": 132711,
+      "canonicalPath": "/fipe/renault/zoe-zen-eletrico-2022-025305-7/",
+      "ano": 2022,
+      "marca": "Renault"
+    },
+    {
+      "vehicleId": "renault-zoe-life-92cv-eletrico-2019-eletrico",
+      "fipeCodigo": "025297-2",
+      "displayName": "Renault ZOE Life 92cv (Elétrico)",
+      "valorAtual": 77939,
+      "canonicalPath": "/fipe/renault/zoe-life-92cv-eletrico-2019-025297-2/",
+      "ano": 2019,
+      "marca": "Renault"
+    },
+    {
+      "vehicleId": "renault-zoe-intense-eletrico-2019-eletrico",
+      "fipeCodigo": "025276-0",
+      "displayName": "Renault ZOE Intense (Elétrico)",
+      "valorAtual": 90063,
+      "canonicalPath": "/fipe/renault/zoe-intense-eletrico-2019-025276-0/",
+      "ano": 2019,
+      "marca": "Renault"
+    },
+    {
+      "vehicleId": "renault-zoe-ultimate-92cv-eletrico-2019-eletrico",
+      "fipeCodigo": "025277-8",
+      "displayName": "Renault ZOE Ultimate 92cv (Elétrico)",
+      "valorAtual": 94649,
+      "canonicalPath": "/fipe/renault/zoe-ultimate-92cv-eletrico-2019-025277-8/",
+      "ano": 2019,
+      "marca": "Renault"
+    }
+  ],
+  "stats": {
+    "total": 6,
+    "precoMin": 77939,
+    "precoMax": 141130,
+    "anos": [
+      2023,
+      2022,
+      2019
+    ]
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "tipo": "familia",
+  "slug": "fy100",
+  "canonicalPath": "/fipe/fym/fy100/",
+  "titulo": "FYM fy100 - Tabela FIPE",
+  "descricao": "4 versoes e anos do FYM fy100 na Tabela FIPE.",
+  "seo": {
+    "title": "FYM fy100 - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes FYM fy100. 4 veiculos indexados.",
+    "h1": "FYM fy100 - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/fym/fy100/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "fym-fy100-10a-100cc-2009-gasolina",
+      "fipeCodigo": "849003-1",
+      "displayName": "FYM FY100-10A 100cc",
+      "valorAtual": 1530,
+      "canonicalPath": "/fipe/fym/fy100-10a-100cc-2009-849003-1/",
+      "ano": 2009,
+      "marca": "FYM"
+    },
+    {
+      "vehicleId": "fym-fy100-10a-100cc-2008-gasolina",
+      "fipeCodigo": "849003-1",
+      "displayName": "FYM FY100-10A 100cc",
+      "valorAtual": 1448,
+      "canonicalPath": "/fipe/fym/fy100-10a-100cc-2008-849003-1/",
+      "ano": 2008,
+      "marca": "FYM"
+    },
+    {
+      "vehicleId": "fym-fy100-10a-100cc-2007-gasolina",
+      "fipeCodigo": "849003-1",
+      "displayName": "FYM FY100-10A 100cc",
+      "valorAtual": 1387,
+      "canonicalPath": "/fipe/fym/fy100-10a-100cc-2007-849003-1/",
+      "ano": 2007,
+      "marca": "FYM"
+    },
+    {
+      "vehicleId": "fym-fy100-10a-100cc-2006-gasolina",
+      "fipeCodigo": "849003-1",
+      "displayName": "FYM FY100-10A 100cc",
+      "valorAtual": 1274,
+      "canonicalPath": "/fipe/fym/fy100-10a-100cc-2006-849003-1/",
+      "ano": 2006,
+      "marca": "FYM"
+    }
+  ],
+  "stats": {
+    "total": 4,
+    "precoMin": 1274,
+    "precoMax": 1530,
+    "anos": [
+      2009,
+      2008,
+      2007,
+      2006
+    ]
+  }
+}

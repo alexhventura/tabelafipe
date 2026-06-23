@@ -1,0 +1,80 @@
+{
+  "tipo": "familia",
+  "slug": "sy6390",
+  "canonicalPath": "/fipe/shineray/sy6390/",
+  "titulo": "SHINERAY sy6390 - Tabela FIPE",
+  "descricao": "6 versoes e anos do SHINERAY sy6390 na Tabela FIPE.",
+  "seo": {
+    "title": "SHINERAY sy6390 - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes SHINERAY sy6390. 6 veiculos indexados.",
+    "h1": "SHINERAY sy6390 - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/shineray/sy6390/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "shineray-sy6390-a9-cargov-2015-gasolina",
+      "fipeCodigo": "082001-6",
+      "displayName": "SHINERAY SY6390 A9 CARGOV",
+      "valorAtual": 23068,
+      "canonicalPath": "/fipe/shineray/sy6390-a9-cargov-2015-082001-6/",
+      "ano": 2015,
+      "marca": "SHINERAY"
+    },
+    {
+      "vehicleId": "shineray-sy6390-a9-pvans-2015-gasolina",
+      "fipeCodigo": "082002-4",
+      "displayName": "SHINERAY SY6390 A9 PVANS",
+      "valorAtual": 27089,
+      "canonicalPath": "/fipe/shineray/sy6390-a9-pvans-2015-082002-4/",
+      "ano": 2015,
+      "marca": "SHINERAY"
+    },
+    {
+      "vehicleId": "shineray-sy6390-a9-pvans-2014-gasolina",
+      "fipeCodigo": "082002-4",
+      "displayName": "SHINERAY SY6390 A9 PVANS",
+      "valorAtual": 23326,
+      "canonicalPath": "/fipe/shineray/sy6390-a9-pvans-2014-082002-4/",
+      "ano": 2014,
+      "marca": "SHINERAY"
+    },
+    {
+      "vehicleId": "shineray-sy6390-a9-pvans-2013-gasolina",
+      "fipeCodigo": "082002-4",
+      "displayName": "SHINERAY SY6390 A9 PVANS",
+      "valorAtual": 22235,
+      "canonicalPath": "/fipe/shineray/sy6390-a9-pvans-2013-082002-4/",
+      "ano": 2013,
+      "marca": "SHINERAY"
+    },
+    {
+      "vehicleId": "shineray-sy6390-a9-pvans-2012-gasolina",
+      "fipeCodigo": "082002-4",
+      "displayName": "SHINERAY SY6390 A9 PVANS",
+      "valorAtual": 19337,
+      "canonicalPath": "/fipe/shineray/sy6390-a9-pvans-2012-082002-4/",
+      "ano": 2012,
+      "marca": "SHINERAY"
+    },
+    {
+      "vehicleId": "shineray-sy6390-a9-cargov-2012-gasolina",
+      "fipeCodigo": "082001-6",
+      "displayName": "SHINERAY SY6390 A9 CARGOV",
+      "valorAtual": 20006,
+      "canonicalPath": "/fipe/shineray/sy6390-a9-cargov-2012-082001-6/",
+      "ano": 2012,
+      "marca": "SHINERAY"
+    }
+  ],
+  "stats": {
+    "total": 6,
+    "precoMin": 19337,
+    "precoMax": 27089,
+    "anos": [
+      2015,
+      2014,
+      2013,
+      2012
+    ]
+  }
+}

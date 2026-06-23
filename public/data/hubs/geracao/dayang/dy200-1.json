@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "dy200-1",
+  "canonicalPath": "/geracao/dayang/dy200-1/",
+  "titulo": "Geracao dy200-1",
+  "descricao": "2 veiculos da geracao dy200-1.",
+  "seo": {
+    "title": "Geracao dy200-1 - Precos FIPE",
+    "description": "Veiculos da geracao dy200-1 na Tabela FIPE.",
+    "h1": "Geracao dy200-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/dayang/dy200-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "dayang-dy200-2007-gasolina",
+      "fipeCodigo": "857001-9",
+      "displayName": "DAYANG DY200",
+      "valorAtual": 3293,
+      "canonicalPath": "/fipe/dayang/dy200-2007-857001-9/",
+      "ano": 2007,
+      "marca": "DAYANG"
+    },
+    {
+      "vehicleId": "dayang-dy200-2008-gasolina",
+      "fipeCodigo": "857001-9",
+      "displayName": "DAYANG DY200",
+      "valorAtual": 3376,
+      "canonicalPath": "/fipe/dayang/dy200-2008-857001-9/",
+      "ano": 2008,
+      "marca": "DAYANG"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "dy200-1"
+  }
+}

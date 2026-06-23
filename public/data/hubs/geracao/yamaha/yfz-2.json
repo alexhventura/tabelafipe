@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "yfz-2",
+  "canonicalPath": "/geracao/yamaha/yfz-2/",
+  "titulo": "Geracao yfz-2",
+  "descricao": "2 veiculos da geracao yfz-2.",
+  "seo": {
+    "title": "Geracao yfz-2 - Precos FIPE",
+    "description": "Veiculos da geracao yfz-2 na Tabela FIPE.",
+    "h1": "Geracao yfz-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/yamaha/yfz-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "yamaha-yfz-450-yz-450-f-449cc-2008-gasolina",
+      "fipeCodigo": "827069-4",
+      "displayName": "YAMAHA YFZ 450/ YZ 450 F 449cc",
+      "valorAtual": 20052,
+      "canonicalPath": "/fipe/yamaha/yfz-450-yz-450-f-449cc-2008-827069-4/",
+      "ano": 2008,
+      "marca": "YAMAHA"
+    },
+    {
+      "vehicleId": "yamaha-yfz-450-yz-450-f-449cc-2009-gasolina",
+      "fipeCodigo": "827069-4",
+      "displayName": "YAMAHA YFZ 450/ YZ 450 F 449cc",
+      "valorAtual": 20855,
+      "canonicalPath": "/fipe/yamaha/yfz-450-yz-450-f-449cc-2009-827069-4/",
+      "ano": 2009,
+      "marca": "YAMAHA"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "yfz-2"
+  }
+}

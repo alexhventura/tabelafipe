@@ -1,0 +1,57 @@
+{
+  "tipo": "geracao",
+  "slug": "mustang-1",
+  "canonicalPath": "/geracao/ford/mustang-1/",
+  "titulo": "Geracao mustang-1",
+  "descricao": "4 veiculos da geracao mustang-1.",
+  "seo": {
+    "title": "Geracao mustang-1 - Precos FIPE",
+    "description": "Veiculos da geracao mustang-1 na Tabela FIPE.",
+    "h1": "Geracao mustang-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/ford/mustang-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "ford-mustang-dark-horse-5-0-v8-aut-0-gasolina",
+      "fipeCodigo": "003516-5",
+      "displayName": "Ford Mustang Dark Horse 5.0 V8 Aut.",
+      "valorAtual": 649195,
+      "canonicalPath": "/fipe/ford/mustang-dark-horse-5-0-v8-aut-0-003516-5/",
+      "ano": 0,
+      "marca": "Ford"
+    },
+    {
+      "vehicleId": "ford-mustang-gt-performance-5-0-v8-aut-0-gasolina",
+      "fipeCodigo": "003507-6",
+      "displayName": "Ford Mustang GT Performance 5.0 V8 Aut.",
+      "valorAtual": 571080,
+      "canonicalPath": "/fipe/ford/mustang-gt-performance-5-0-v8-aut-0-003507-6/",
+      "ano": 0,
+      "marca": "Ford"
+    },
+    {
+      "vehicleId": "ford-mustang-gt-performance-5-0-v8-mec-0-gasolina",
+      "fipeCodigo": "003515-7",
+      "displayName": "Ford Mustang GT Performance 5.0 V8 Mec.",
+      "valorAtual": 630000,
+      "canonicalPath": "/fipe/ford/mustang-gt-performance-5-0-v8-mec-0-003515-7/",
+      "ano": 0,
+      "marca": "Ford"
+    },
+    {
+      "vehicleId": "ford-mustang-mach-e-gt-performance-eletrico-0-eletrico",
+      "fipeCodigo": "003505-0",
+      "displayName": "Ford Mustang Mach-E GT Performance (Elétrico)",
+      "valorAtual": 449000,
+      "canonicalPath": "/fipe/ford/mustang-mach-e-gt-performance-eletrico-0-003505-0/",
+      "ano": 0,
+      "marca": "Ford"
+    }
+  ],
+  "stats": {
+    "total": 4
+  },
+  "meta": {
+    "geracaoId": "mustang-1"
+  }
+}

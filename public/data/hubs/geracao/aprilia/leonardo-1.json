@@ -1,0 +1,48 @@
+{
+  "tipo": "geracao",
+  "slug": "leonardo-1",
+  "canonicalPath": "/geracao/aprilia/leonardo-1/",
+  "titulo": "Geracao leonardo-1",
+  "descricao": "3 veiculos da geracao leonardo-1.",
+  "seo": {
+    "title": "Geracao leonardo-1 - Precos FIPE",
+    "description": "Veiculos da geracao leonardo-1 na Tabela FIPE.",
+    "h1": "Geracao leonardo-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/aprilia/leonardo-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "aprilia-leonardo-150cc-1998-gasolina",
+      "fipeCodigo": "802003-5",
+      "displayName": "APRILIA LEONARDO 150cc",
+      "valorAtual": 5830,
+      "canonicalPath": "/fipe/aprilia/leonardo-150cc-1998-802003-5/",
+      "ano": 1998,
+      "marca": "APRILIA"
+    },
+    {
+      "vehicleId": "aprilia-leonardo-150cc-1999-gasolina",
+      "fipeCodigo": "802003-5",
+      "displayName": "APRILIA LEONARDO 150cc",
+      "valorAtual": 6522,
+      "canonicalPath": "/fipe/aprilia/leonardo-150cc-1999-802003-5/",
+      "ano": 1999,
+      "marca": "APRILIA"
+    },
+    {
+      "vehicleId": "aprilia-leonardo-150cc-2000-gasolina",
+      "fipeCodigo": "802003-5",
+      "displayName": "APRILIA LEONARDO 150cc",
+      "valorAtual": 6752,
+      "canonicalPath": "/fipe/aprilia/leonardo-150cc-2000-802003-5/",
+      "ano": 2000,
+      "marca": "APRILIA"
+    }
+  ],
+  "stats": {
+    "total": 3
+  },
+  "meta": {
+    "geracaoId": "leonardo-1"
+  }
+}

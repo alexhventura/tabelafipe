@@ -1,0 +1,52 @@
+{
+  "tipo": "familia",
+  "slug": "lets",
+  "canonicalPath": "/fipe/suzuki/lets/",
+  "titulo": "SUZUKI lets - Tabela FIPE",
+  "descricao": "3 versoes e anos do SUZUKI lets na Tabela FIPE.",
+  "seo": {
+    "title": "SUZUKI lets - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes SUZUKI lets. 3 veiculos indexados.",
+    "h1": "SUZUKI lets - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/suzuki/lets/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "suzuki-lets-ii-50cc-2003-gasolina",
+      "fipeCodigo": "825038-3",
+      "displayName": "SUZUKI Lets II 50cc",
+      "valorAtual": 2313,
+      "canonicalPath": "/fipe/suzuki/lets-ii-50cc-2003-825038-3/",
+      "ano": 2003,
+      "marca": "SUZUKI"
+    },
+    {
+      "vehicleId": "suzuki-lets-ii-50cc-2002-gasolina",
+      "fipeCodigo": "825038-3",
+      "displayName": "SUZUKI Lets II 50cc",
+      "valorAtual": 2217,
+      "canonicalPath": "/fipe/suzuki/lets-ii-50cc-2002-825038-3/",
+      "ano": 2002,
+      "marca": "SUZUKI"
+    },
+    {
+      "vehicleId": "suzuki-lets-ii-50cc-2001-gasolina",
+      "fipeCodigo": "825038-3",
+      "displayName": "SUZUKI Lets II 50cc",
+      "valorAtual": 2020,
+      "canonicalPath": "/fipe/suzuki/lets-ii-50cc-2001-825038-3/",
+      "ano": 2001,
+      "marca": "SUZUKI"
+    }
+  ],
+  "stats": {
+    "total": 3,
+    "precoMin": 2020,
+    "precoMax": 2313,
+    "anos": [
+      2003,
+      2002,
+      2001
+    ]
+  }
+}

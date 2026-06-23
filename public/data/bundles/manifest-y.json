@@ -1,0 +1,4062 @@
+[
+  {
+    "vehicleId": "yamaha-750-virago-1993-gasolina",
+    "canonicalPath": "/fipe/yamaha/750-virago-1993-827001-5/",
+    "bundlePath": "/data/bundles/yamaha/750-virago-1993-827001-5.json"
+  },
+  {
+    "vehicleId": "yamaha-750-virago-1994-gasolina",
+    "canonicalPath": "/fipe/yamaha/750-virago-1994-827001-5/",
+    "bundlePath": "/data/bundles/yamaha/750-virago-1994-827001-5.json"
+  },
+  {
+    "vehicleId": "yamaha-750-virago-1995-gasolina",
+    "canonicalPath": "/fipe/yamaha/750-virago-1995-827001-5/",
+    "bundlePath": "/data/bundles/yamaha/750-virago-1995-827001-5.json"
+  },
+  {
+    "vehicleId": "yamaha-750-virago-1996-gasolina",
+    "canonicalPath": "/fipe/yamaha/750-virago-1996-827001-5/",
+    "bundlePath": "/data/bundles/yamaha/750-virago-1996-827001-5.json"
+  },
+  {
+    "vehicleId": "yamaha-750-virago-1997-gasolina",
+    "canonicalPath": "/fipe/yamaha/750-virago-1997-827001-5/",
+    "bundlePath": "/data/bundles/yamaha/750-virago-1997-827001-5.json"
+  },
+  {
+    "vehicleId": "yamaha-aerox-connected-abs-2026-gasolina",
+    "canonicalPath": "/fipe/yamaha/aerox-connected-abs-2026-827144-5/",
+    "bundlePath": "/data/bundles/yamaha/aerox-connected-abs-2026-827144-5.json"
+  },
+  {
+    "vehicleId": "yamaha-aerox-connected-abs-0-gasolina",
+    "canonicalPath": "/fipe/yamaha/aerox-connected-abs-0-827144-5/",
+    "bundlePath": "/data/bundles/yamaha/aerox-connected-abs-0-827144-5.json"
+  },
+  {
+    "vehicleId": "yamaha-axis-90-1994-gasolina",
+    "canonicalPath": "/fipe/yamaha/axis-90-1994-827002-3/",
+    "bundlePath": "/data/bundles/yamaha/axis-90-1994-827002-3.json"
+  },
+  {
+    "vehicleId": "yamaha-axis-90-1995-gasolina",
+    "canonicalPath": "/fipe/yamaha/axis-90-1995-827002-3/",
+    "bundlePath": "/data/bundles/yamaha/axis-90-1995-827002-3.json"
+  },
+  {
+    "vehicleId": "yamaha-axis-90-1996-gasolina",
+    "canonicalPath": "/fipe/yamaha/axis-90-1996-827002-3/",
+    "bundlePath": "/data/bundles/yamaha/axis-90-1996-827002-3.json"
+  },
+  {
+    "vehicleId": "yamaha-axis-90-1997-gasolina",
+    "canonicalPath": "/fipe/yamaha/axis-90-1997-827002-3/",
+    "bundlePath": "/data/bundles/yamaha/axis-90-1997-827002-3.json"
+  },
+  {
+    "vehicleId": "yamaha-axis-90-1998-gasolina",
+    "canonicalPath": "/fipe/yamaha/axis-90-1998-827002-3/",
+    "bundlePath": "/data/bundles/yamaha/axis-90-1998-827002-3.json"
+  },
+  {
+    "vehicleId": "yamaha-bw-s-50-1995-gasolina",
+    "canonicalPath": "/fipe/yamaha/bw-s-50-1995-827003-1/",
+    "bundlePath": "/data/bundles/yamaha/bw-s-50-1995-827003-1.json"
+  },
+  {
+    "vehicleId": "yamaha-bw-s-50-1996-gasolina",
+    "canonicalPath": "/fipe/yamaha/bw-s-50-1996-827003-1/",
+    "bundlePath": "/data/bundles/yamaha/bw-s-50-1996-827003-1.json"
+  },
+  {
+    "vehicleId": "yamaha-bw-s-50-1997-gasolina",
+    "canonicalPath": "/fipe/yamaha/bw-s-50-1997-827003-1/",
+    "bundlePath": "/data/bundles/yamaha/bw-s-50-1997-827003-1.json"
+  },
+  {
+    "vehicleId": "yamaha-bw-s-50-1998-gasolina",
+    "canonicalPath": "/fipe/yamaha/bw-s-50-1998-827003-1/",
+    "bundlePath": "/data/bundles/yamaha/bw-s-50-1998-827003-1.json"
+  },
+  {
+    "vehicleId": "yamaha-bw-s-50-1999-gasolina",
+    "canonicalPath": "/fipe/yamaha/bw-s-50-1999-827003-1/",
+    "bundlePath": "/data/bundles/yamaha/bw-s-50-1999-827003-1.json"
+  },
+  {
+    "vehicleId": "yamaha-bw-s-50-2000-gasolina",
+    "canonicalPath": "/fipe/yamaha/bw-s-50-2000-827003-1/",
+    "bundlePath": "/data/bundles/yamaha/bw-s-50-2000-827003-1.json"
+  },
+  {
+    "vehicleId": "yamaha-crypton-100-1997-gasolina",
+    "canonicalPath": "/fipe/yamaha/crypton-100-1997-827004-0/",
+    "bundlePath": "/data/bundles/yamaha/crypton-100-1997-827004-0.json"
+  },
+  {
+    "vehicleId": "yamaha-crypton-100-1998-gasolina",
+    "canonicalPath": "/fipe/yamaha/crypton-100-1998-827004-0/",
+    "bundlePath": "/data/bundles/yamaha/crypton-100-1998-827004-0.json"
+  },
+  {
+    "vehicleId": "yamaha-crypton-100-1999-gasolina",
+    "canonicalPath": "/fipe/yamaha/crypton-100-1999-827004-0/",
+    "bundlePath": "/data/bundles/yamaha/crypton-100-1999-827004-0.json"
+  },
+  {
+    "vehicleId": "yamaha-crypton-100-2000-gasolina",
+    "canonicalPath": "/fipe/yamaha/crypton-100-2000-827004-0/",
+    "bundlePath": "/data/bundles/yamaha/crypton-100-2000-827004-0.json"
+  },
+  {
+    "vehicleId": "yamaha-crypton-100-2001-gasolina",
+    "canonicalPath": "/fipe/yamaha/crypton-100-2001-827004-0/",
+    "bundlePath": "/data/bundles/yamaha/crypton-100-2001-827004-0.json"
+  },
+  {
+    "vehicleId": "yamaha-crypton-100-2002-gasolina",
+    "canonicalPath": "/fipe/yamaha/crypton-100-2002-827004-0/",
+    "bundlePath": "/data/bundles/yamaha/crypton-100-2002-827004-0.json"
+  },
+  {
+    "vehicleId": "yamaha-crypton-100-2003-gasolina",
+    "canonicalPath": "/fipe/yamaha/crypton-100-2003-827004-0/",
+    "bundlePath": "/data/bundles/yamaha/crypton-100-2003-827004-0.json"
+  },
+  {
+    "vehicleId": "yamaha-crypton-100-2004-gasolina",
+    "canonicalPath": "/fipe/yamaha/crypton-100-2004-827004-0/",
+    "bundlePath": "/data/bundles/yamaha/crypton-100-2004-827004-0.json"
+  },
+  {
+    "vehicleId": "yamaha-crypton-100-2005-gasolina",
+    "canonicalPath": "/fipe/yamaha/crypton-100-2005-827004-0/",
+    "bundlePath": "/data/bundles/yamaha/crypton-100-2005-827004-0.json"
+  },
+  {
+    "vehicleId": "yamaha-dt-180-z-trail-1990-gasolina",
+    "canonicalPath": "/fipe/yamaha/dt-180-z-trail-1990-827006-6/",
+    "bundlePath": "/data/bundles/yamaha/dt-180-z-trail-1990-827006-6.json"
+  },
+  {
+    "vehicleId": "yamaha-dt-180-z-trail-1991-gasolina",
+    "canonicalPath": "/fipe/yamaha/dt-180-z-trail-1991-827006-6/",
+    "bundlePath": "/data/bundles/yamaha/dt-180-z-trail-1991-827006-6.json"
+  },
+  {
+    "vehicleId": "yamaha-dt-180-z-trail-1992-gasolina",
+    "canonicalPath": "/fipe/yamaha/dt-180-z-trail-1992-827006-6/",
+    "bundlePath": "/data/bundles/yamaha/dt-180-z-trail-1992-827006-6.json"
+  },
+  {
+    "vehicleId": "yamaha-dt-180-z-trail-1993-gasolina",
+    "canonicalPath": "/fipe/yamaha/dt-180-z-trail-1993-827006-6/",
+    "bundlePath": "/data/bundles/yamaha/dt-180-z-trail-1993-827006-6.json"
+  },
+  {
+    "vehicleId": "yamaha-dt-180-z-trail-1994-gasolina",
+    "canonicalPath": "/fipe/yamaha/dt-180-z-trail-1994-827006-6/",
+    "bundlePath": "/data/bundles/yamaha/dt-180-z-trail-1994-827006-6.json"
+  },
+  {
+    "vehicleId": "yamaha-dt-180-z-trail-1995-gasolina",
+    "canonicalPath": "/fipe/yamaha/dt-180-z-trail-1995-827006-6/",
+    "bundlePath": "/data/bundles/yamaha/dt-180-z-trail-1995-827006-6.json"
+  },
+  {
+    "vehicleId": "yamaha-dt-180-z-trail-1996-gasolina",
+    "canonicalPath": "/fipe/yamaha/dt-180-z-trail-1996-827006-6/",
+    "bundlePath": "/data/bundles/yamaha/dt-180-z-trail-1996-827006-6.json"
+  },
+  {
+    "vehicleId": "yamaha-dt-180-z-trail-1997-gasolina",
+    "canonicalPath": "/fipe/yamaha/dt-180-z-trail-1997-827006-6/",
+    "bundlePath": "/data/bundles/yamaha/dt-180-z-trail-1997-827006-6.json"
+  },
+  {
+    "vehicleId": "yamaha-dt-200-1992-gasolina",
+    "canonicalPath": "/fipe/yamaha/dt-200-1992-827008-2/",
+    "bundlePath": "/data/bundles/yamaha/dt-200-1992-827008-2.json"
+  },
+  {
+    "vehicleId": "yamaha-dt-200-1993-gasolina",
+    "canonicalPath": "/fipe/yamaha/dt-200-1993-827008-2/",
+    "bundlePath": "/data/bundles/yamaha/dt-200-1993-827008-2.json"
+  },
+  {
+    "vehicleId": "yamaha-dt-200-1994-gasolina",
+    "canonicalPath": "/fipe/yamaha/dt-200-1994-827008-2/",
+    "bundlePath": "/data/bundles/yamaha/dt-200-1994-827008-2.json"
+  },
+  {
+    "vehicleId": "yamaha-dt-200-1995-gasolina",
+    "canonicalPath": "/fipe/yamaha/dt-200-1995-827008-2/",
+    "bundlePath": "/data/bundles/yamaha/dt-200-1995-827008-2.json"
+  },
+  {
+    "vehicleId": "yamaha-dt-200-1996-gasolina",
+    "canonicalPath": "/fipe/yamaha/dt-200-1996-827008-2/",
+    "bundlePath": "/data/bundles/yamaha/dt-200-1996-827008-2.json"
+  },
+  {
+    "vehicleId": "yamaha-dt-200-1997-gasolina",
+    "canonicalPath": "/fipe/yamaha/dt-200-1997-827008-2/",
+    "bundlePath": "/data/bundles/yamaha/dt-200-1997-827008-2.json"
+  },
+  {
+    "vehicleId": "yamaha-dt-200-r-1994-gasolina",
+    "canonicalPath": "/fipe/yamaha/dt-200-r-1994-827007-4/",
+    "bundlePath": "/data/bundles/yamaha/dt-200-r-1994-827007-4.json"
+  },
+  {
+    "vehicleId": "yamaha-dt-200-r-1995-gasolina",
+    "canonicalPath": "/fipe/yamaha/dt-200-r-1995-827007-4/",
+    "bundlePath": "/data/bundles/yamaha/dt-200-r-1995-827007-4.json"
+  },
+  {
+    "vehicleId": "yamaha-dt-200-r-1996-gasolina",
+    "canonicalPath": "/fipe/yamaha/dt-200-r-1996-827007-4/",
+    "bundlePath": "/data/bundles/yamaha/dt-200-r-1996-827007-4.json"
+  },
+  {
+    "vehicleId": "yamaha-dt-200-r-1997-gasolina",
+    "canonicalPath": "/fipe/yamaha/dt-200-r-1997-827007-4/",
+    "bundlePath": "/data/bundles/yamaha/dt-200-r-1997-827007-4.json"
+  },
+  {
+    "vehicleId": "yamaha-dt-200-r-1998-gasolina",
+    "canonicalPath": "/fipe/yamaha/dt-200-r-1998-827007-4/",
+    "bundlePath": "/data/bundles/yamaha/dt-200-r-1998-827007-4.json"
+  },
+  {
+    "vehicleId": "yamaha-dt-200-r-1999-gasolina",
+    "canonicalPath": "/fipe/yamaha/dt-200-r-1999-827007-4/",
+    "bundlePath": "/data/bundles/yamaha/dt-200-r-1999-827007-4.json"
+  },
+  {
+    "vehicleId": "yamaha-dt-200-r-2000-gasolina",
+    "canonicalPath": "/fipe/yamaha/dt-200-r-2000-827007-4/",
+    "bundlePath": "/data/bundles/yamaha/dt-200-r-2000-827007-4.json"
+  },
+  {
+    "vehicleId": "yamaha-fazer-600-fz6-s-2005-gasolina",
+    "canonicalPath": "/fipe/yamaha/fazer-600-fz6-s-2005-827051-1/",
+    "bundlePath": "/data/bundles/yamaha/fazer-600-fz6-s-2005-827051-1.json"
+  },
+  {
+    "vehicleId": "yamaha-fazer-600-fz6-s-2006-gasolina",
+    "canonicalPath": "/fipe/yamaha/fazer-600-fz6-s-2006-827051-1/",
+    "bundlePath": "/data/bundles/yamaha/fazer-600-fz6-s-2006-827051-1.json"
+  },
+  {
+    "vehicleId": "yamaha-fazer-600-fz6-s-2007-gasolina",
+    "canonicalPath": "/fipe/yamaha/fazer-600-fz6-s-2007-827051-1/",
+    "bundlePath": "/data/bundles/yamaha/fazer-600-fz6-s-2007-827051-1.json"
+  },
+  {
+    "vehicleId": "yamaha-fazer-600-fz6-s-2008-gasolina",
+    "canonicalPath": "/fipe/yamaha/fazer-600-fz6-s-2008-827051-1/",
+    "bundlePath": "/data/bundles/yamaha/fazer-600-fz6-s-2008-827051-1.json"
+  },
+  {
+    "vehicleId": "yamaha-fazer-600-fz6-s-2009-gasolina",
+    "canonicalPath": "/fipe/yamaha/fazer-600-fz6-s-2009-827051-1/",
+    "bundlePath": "/data/bundles/yamaha/fazer-600-fz6-s-2009-827051-1.json"
+  },
+  {
+    "vehicleId": "yamaha-fluo-125-abs-2023-gasolina",
+    "canonicalPath": "/fipe/yamaha/fluo-125-abs-2023-827121-6/",
+    "bundlePath": "/data/bundles/yamaha/fluo-125-abs-2023-827121-6.json"
+  },
+  {
+    "vehicleId": "yamaha-fluo-125-abs-2024-gasolina",
+    "canonicalPath": "/fipe/yamaha/fluo-125-abs-2024-827121-6/",
+    "bundlePath": "/data/bundles/yamaha/fluo-125-abs-2024-827121-6.json"
+  },
+  {
+    "vehicleId": "yamaha-fluo-125-abs-2025-gasolina",
+    "canonicalPath": "/fipe/yamaha/fluo-125-abs-2025-827121-6/",
+    "bundlePath": "/data/bundles/yamaha/fluo-125-abs-2025-827121-6.json"
+  },
+  {
+    "vehicleId": "yamaha-fluo-125-connected-2026-hibrido",
+    "canonicalPath": "/fipe/yamaha/fluo-125-connected-2026-827136-4/",
+    "bundlePath": "/data/bundles/yamaha/fluo-125-connected-2026-827136-4.json"
+  },
+  {
+    "vehicleId": "yamaha-fluo-125-connected-2027-hibrido",
+    "canonicalPath": "/fipe/yamaha/fluo-125-connected-2027-827136-4/",
+    "bundlePath": "/data/bundles/yamaha/fluo-125-connected-2027-827136-4.json"
+  },
+  {
+    "vehicleId": "yamaha-fluo-125-connected-0-hibrido",
+    "canonicalPath": "/fipe/yamaha/fluo-125-connected-0-827136-4/",
+    "bundlePath": "/data/bundles/yamaha/fluo-125-connected-0-827136-4.json"
+  },
+  {
+    "vehicleId": "yamaha-fz15-150-fazer-connected-flex-2025-flex",
+    "canonicalPath": "/fipe/yamaha/fz15-150-fazer-connected-flex-2025-827133-0/",
+    "bundlePath": "/data/bundles/yamaha/fz15-150-fazer-connected-flex-2025-827133-0.json"
+  },
+  {
+    "vehicleId": "yamaha-fz15-150-fazer-connected-flex-2026-flex",
+    "canonicalPath": "/fipe/yamaha/fz15-150-fazer-connected-flex-2026-827133-0/",
+    "bundlePath": "/data/bundles/yamaha/fz15-150-fazer-connected-flex-2026-827133-0.json"
+  },
+  {
+    "vehicleId": "yamaha-fz15-150-fazer-connected-flex-0-flex",
+    "canonicalPath": "/fipe/yamaha/fz15-150-fazer-connected-flex-0-827133-0/",
+    "bundlePath": "/data/bundles/yamaha/fz15-150-fazer-connected-flex-0-827133-0.json"
+  },
+  {
+    "vehicleId": "yamaha-fz15-150-fazer-flex-2023-flex",
+    "canonicalPath": "/fipe/yamaha/fz15-150-fazer-flex-2023-827124-0/",
+    "bundlePath": "/data/bundles/yamaha/fz15-150-fazer-flex-2023-827124-0.json"
+  },
+  {
+    "vehicleId": "yamaha-fz15-150-fazer-flex-2024-flex",
+    "canonicalPath": "/fipe/yamaha/fz15-150-fazer-flex-2024-827124-0/",
+    "bundlePath": "/data/bundles/yamaha/fz15-150-fazer-flex-2024-827124-0.json"
+  },
+  {
+    "vehicleId": "yamaha-fz15-150-fazer-flex-0-flex",
+    "canonicalPath": "/fipe/yamaha/fz15-150-fazer-flex-0-827124-0/",
+    "bundlePath": "/data/bundles/yamaha/fz15-150-fazer-flex-0-827124-0.json"
+  },
+  {
+    "vehicleId": "yamaha-fz25-250-fazer-capita-marvel-flex-2021-flex",
+    "canonicalPath": "/fipe/yamaha/fz25-250-fazer-capita-marvel-flex-2021-827116-0/",
+    "bundlePath": "/data/bundles/yamaha/fz25-250-fazer-capita-marvel-flex-2021-827116-0.json"
+  },
+  {
+    "vehicleId": "yamaha-fz25-250-fazer-capita-marvel-flex-2023-flex",
+    "canonicalPath": "/fipe/yamaha/fz25-250-fazer-capita-marvel-flex-2023-827116-0/",
+    "bundlePath": "/data/bundles/yamaha/fz25-250-fazer-capita-marvel-flex-2023-827116-0.json"
+  },
+  {
+    "vehicleId": "yamaha-fz25-250-fazer-connected-2025-gasolina",
+    "canonicalPath": "/fipe/yamaha/fz25-250-fazer-connected-2025-827130-5/",
+    "bundlePath": "/data/bundles/yamaha/fz25-250-fazer-connected-2025-827130-5.json"
+  },
+  {
+    "vehicleId": "yamaha-fz25-250-fazer-connected-2026-gasolina",
+    "canonicalPath": "/fipe/yamaha/fz25-250-fazer-connected-2026-827130-5/",
+    "bundlePath": "/data/bundles/yamaha/fz25-250-fazer-connected-2026-827130-5.json"
+  },
+  {
+    "vehicleId": "yamaha-fz25-250-fazer-connected-0-gasolina",
+    "canonicalPath": "/fipe/yamaha/fz25-250-fazer-connected-0-827130-5/",
+    "bundlePath": "/data/bundles/yamaha/fz25-250-fazer-connected-0-827130-5.json"
+  },
+  {
+    "vehicleId": "yamaha-fz25-250-fazer-flex-2018-flex",
+    "canonicalPath": "/fipe/yamaha/fz25-250-fazer-flex-2018-827107-0/",
+    "bundlePath": "/data/bundles/yamaha/fz25-250-fazer-flex-2018-827107-0.json"
+  },
+  {
+    "vehicleId": "yamaha-fz25-250-fazer-flex-2019-flex",
+    "canonicalPath": "/fipe/yamaha/fz25-250-fazer-flex-2019-827107-0/",
+    "bundlePath": "/data/bundles/yamaha/fz25-250-fazer-flex-2019-827107-0.json"
+  },
+  {
+    "vehicleId": "yamaha-fz25-250-fazer-flex-2020-flex",
+    "canonicalPath": "/fipe/yamaha/fz25-250-fazer-flex-2020-827107-0/",
+    "bundlePath": "/data/bundles/yamaha/fz25-250-fazer-flex-2020-827107-0.json"
+  },
+  {
+    "vehicleId": "yamaha-fz25-250-fazer-flex-2021-flex",
+    "canonicalPath": "/fipe/yamaha/fz25-250-fazer-flex-2021-827107-0/",
+    "bundlePath": "/data/bundles/yamaha/fz25-250-fazer-flex-2021-827107-0.json"
+  },
+  {
+    "vehicleId": "yamaha-fz25-250-fazer-flex-2022-flex",
+    "canonicalPath": "/fipe/yamaha/fz25-250-fazer-flex-2022-827107-0/",
+    "bundlePath": "/data/bundles/yamaha/fz25-250-fazer-flex-2022-827107-0.json"
+  },
+  {
+    "vehicleId": "yamaha-fz25-250-fazer-flex-2023-flex",
+    "canonicalPath": "/fipe/yamaha/fz25-250-fazer-flex-2023-827107-0/",
+    "bundlePath": "/data/bundles/yamaha/fz25-250-fazer-flex-2023-827107-0.json"
+  },
+  {
+    "vehicleId": "yamaha-fz25-250-fazer-flex-2024-flex",
+    "canonicalPath": "/fipe/yamaha/fz25-250-fazer-flex-2024-827107-0/",
+    "bundlePath": "/data/bundles/yamaha/fz25-250-fazer-flex-2024-827107-0.json"
+  },
+  {
+    "vehicleId": "yamaha-fz25-250-fazer-pantera-negra-flex-2021-flex",
+    "canonicalPath": "/fipe/yamaha/fz25-250-fazer-pantera-negra-flex-2021-827117-8/",
+    "bundlePath": "/data/bundles/yamaha/fz25-250-fazer-pantera-negra-flex-2021-827117-8.json"
+  },
+  {
+    "vehicleId": "yamaha-fz25-250-fazer-pantera-negra-flex-2023-flex",
+    "canonicalPath": "/fipe/yamaha/fz25-250-fazer-pantera-negra-flex-2023-827117-8/",
+    "bundlePath": "/data/bundles/yamaha/fz25-250-fazer-pantera-negra-flex-2023-827117-8.json"
+  },
+  {
+    "vehicleId": "yamaha-fz25-fazer-thor-flex-2023-flex",
+    "canonicalPath": "/fipe/yamaha/fz25-fazer-thor-flex-2023-827123-2/",
+    "bundlePath": "/data/bundles/yamaha/fz25-fazer-thor-flex-2023-827123-2.json"
+  },
+  {
+    "vehicleId": "yamaha-fz6-n-2008-gasolina",
+    "canonicalPath": "/fipe/yamaha/fz6-n-2008-827067-8/",
+    "bundlePath": "/data/bundles/yamaha/fz6-n-2008-827067-8.json"
+  },
+  {
+    "vehicleId": "yamaha-fz6-n-2009-gasolina",
+    "canonicalPath": "/fipe/yamaha/fz6-n-2009-827067-8/",
+    "bundlePath": "/data/bundles/yamaha/fz6-n-2009-827067-8.json"
+  },
+  {
+    "vehicleId": "yamaha-fzr-1000-1993-gasolina",
+    "canonicalPath": "/fipe/yamaha/fzr-1000-1993-827009-0/",
+    "bundlePath": "/data/bundles/yamaha/fzr-1000-1993-827009-0.json"
+  },
+  {
+    "vehicleId": "yamaha-fzr-1000-1994-gasolina",
+    "canonicalPath": "/fipe/yamaha/fzr-1000-1994-827009-0/",
+    "bundlePath": "/data/bundles/yamaha/fzr-1000-1994-827009-0.json"
+  },
+  {
+    "vehicleId": "yamaha-fzr-1000-1995-gasolina",
+    "canonicalPath": "/fipe/yamaha/fzr-1000-1995-827009-0/",
+    "bundlePath": "/data/bundles/yamaha/fzr-1000-1995-827009-0.json"
+  },
+  {
+    "vehicleId": "yamaha-fzr-600-1994-gasolina",
+    "canonicalPath": "/fipe/yamaha/fzr-600-1994-827010-4/",
+    "bundlePath": "/data/bundles/yamaha/fzr-600-1994-827010-4.json"
+  },
+  {
+    "vehicleId": "yamaha-fzr-600-1995-gasolina",
+    "canonicalPath": "/fipe/yamaha/fzr-600-1995-827010-4/",
+    "bundlePath": "/data/bundles/yamaha/fzr-600-1995-827010-4.json"
+  },
+  {
+    "vehicleId": "yamaha-jog-50-1993-gasolina",
+    "canonicalPath": "/fipe/yamaha/jog-50-1993-827011-2/",
+    "bundlePath": "/data/bundles/yamaha/jog-50-1993-827011-2.json"
+  },
+  {
+    "vehicleId": "yamaha-jog-50-1994-gasolina",
+    "canonicalPath": "/fipe/yamaha/jog-50-1994-827011-2/",
+    "bundlePath": "/data/bundles/yamaha/jog-50-1994-827011-2.json"
+  },
+  {
+    "vehicleId": "yamaha-jog-50-1995-gasolina",
+    "canonicalPath": "/fipe/yamaha/jog-50-1995-827011-2/",
+    "bundlePath": "/data/bundles/yamaha/jog-50-1995-827011-2.json"
+  },
+  {
+    "vehicleId": "yamaha-jog-50-1996-gasolina",
+    "canonicalPath": "/fipe/yamaha/jog-50-1996-827011-2/",
+    "bundlePath": "/data/bundles/yamaha/jog-50-1996-827011-2.json"
+  },
+  {
+    "vehicleId": "yamaha-jog-50-1997-gasolina",
+    "canonicalPath": "/fipe/yamaha/jog-50-1997-827011-2/",
+    "bundlePath": "/data/bundles/yamaha/jog-50-1997-827011-2.json"
+  },
+  {
+    "vehicleId": "yamaha-jog-50-1998-gasolina",
+    "canonicalPath": "/fipe/yamaha/jog-50-1998-827011-2/",
+    "bundlePath": "/data/bundles/yamaha/jog-50-1998-827011-2.json"
+  },
+  {
+    "vehicleId": "yamaha-jog-50-1999-gasolina",
+    "canonicalPath": "/fipe/yamaha/jog-50-1999-827011-2/",
+    "bundlePath": "/data/bundles/yamaha/jog-50-1999-827011-2.json"
+  },
+  {
+    "vehicleId": "yamaha-jog-teen-50-1998-gasolina",
+    "canonicalPath": "/fipe/yamaha/jog-teen-50-1998-827012-0/",
+    "bundlePath": "/data/bundles/yamaha/jog-teen-50-1998-827012-0.json"
+  },
+  {
+    "vehicleId": "yamaha-jog-teen-50-1999-gasolina",
+    "canonicalPath": "/fipe/yamaha/jog-teen-50-1999-827012-0/",
+    "bundlePath": "/data/bundles/yamaha/jog-teen-50-1999-827012-0.json"
+  },
+  {
+    "vehicleId": "yamaha-jog-teen-50-2000-gasolina",
+    "canonicalPath": "/fipe/yamaha/jog-teen-50-2000-827012-0/",
+    "bundlePath": "/data/bundles/yamaha/jog-teen-50-2000-827012-0.json"
+  },
+  {
+    "vehicleId": "yamaha-jog-teen-50-2001-gasolina",
+    "canonicalPath": "/fipe/yamaha/jog-teen-50-2001-827012-0/",
+    "bundlePath": "/data/bundles/yamaha/jog-teen-50-2001-827012-0.json"
+  },
+  {
+    "vehicleId": "yamaha-jog-teen-50-2002-gasolina",
+    "canonicalPath": "/fipe/yamaha/jog-teen-50-2002-827012-0/",
+    "bundlePath": "/data/bundles/yamaha/jog-teen-50-2002-827012-0.json"
+  },
+  {
+    "vehicleId": "yamaha-jog-teen-50-2003-gasolina",
+    "canonicalPath": "/fipe/yamaha/jog-teen-50-2003-827012-0/",
+    "bundlePath": "/data/bundles/yamaha/jog-teen-50-2003-827012-0.json"
+  },
+  {
+    "vehicleId": "yamaha-jog-teen-50-2004-gasolina",
+    "canonicalPath": "/fipe/yamaha/jog-teen-50-2004-827012-0/",
+    "bundlePath": "/data/bundles/yamaha/jog-teen-50-2004-827012-0.json"
+  },
+  {
+    "vehicleId": "yamaha-jog-teen-50-2005-gasolina",
+    "canonicalPath": "/fipe/yamaha/jog-teen-50-2005-827012-0/",
+    "bundlePath": "/data/bundles/yamaha/jog-teen-50-2005-827012-0.json"
+  },
+  {
+    "vehicleId": "yamaha-majesty-yp-250-1998-gasolina",
+    "canonicalPath": "/fipe/yamaha/majesty-yp-250-1998-827044-9/",
+    "bundlePath": "/data/bundles/yamaha/majesty-yp-250-1998-827044-9.json"
+  },
+  {
+    "vehicleId": "yamaha-mt-01-1-670cc-2005-gasolina",
+    "canonicalPath": "/fipe/yamaha/mt-01-1-670cc-2005-827060-0/",
+    "bundlePath": "/data/bundles/yamaha/mt-01-1-670cc-2005-827060-0.json"
+  },
+  {
+    "vehicleId": "yamaha-mt-01-1-670cc-2006-gasolina",
+    "canonicalPath": "/fipe/yamaha/mt-01-1-670cc-2006-827060-0/",
+    "bundlePath": "/data/bundles/yamaha/mt-01-1-670cc-2006-827060-0.json"
+  },
+  {
+    "vehicleId": "yamaha-mt-01-1-670cc-2007-gasolina",
+    "canonicalPath": "/fipe/yamaha/mt-01-1-670cc-2007-827060-0/",
+    "bundlePath": "/data/bundles/yamaha/mt-01-1-670cc-2007-827060-0.json"
+  },
+  {
+    "vehicleId": "yamaha-mt-01-1-670cc-2008-gasolina",
+    "canonicalPath": "/fipe/yamaha/mt-01-1-670cc-2008-827060-0/",
+    "bundlePath": "/data/bundles/yamaha/mt-01-1-670cc-2008-827060-0.json"
+  },
+  {
+    "vehicleId": "yamaha-mt-01-1-670cc-2009-gasolina",
+    "canonicalPath": "/fipe/yamaha/mt-01-1-670cc-2009-827060-0/",
+    "bundlePath": "/data/bundles/yamaha/mt-01-1-670cc-2009-827060-0.json"
+  },
+  {
+    "vehicleId": "yamaha-mt-03-321-abs-homem-de-ferro-2022-gasolina",
+    "canonicalPath": "/fipe/yamaha/mt-03-321-abs-homem-de-ferro-2022-827118-6/",
+    "bundlePath": "/data/bundles/yamaha/mt-03-321-abs-homem-de-ferro-2022-827118-6.json"
+  },
+  {
+    "vehicleId": "yamaha-mt-03-321-abs-2017-gasolina",
+    "canonicalPath": "/fipe/yamaha/mt-03-321-abs-2017-827103-8/",
+    "bundlePath": "/data/bundles/yamaha/mt-03-321-abs-2017-827103-8.json"
+  },
+  {
+    "vehicleId": "yamaha-mt-03-321-abs-2018-gasolina",
+    "canonicalPath": "/fipe/yamaha/mt-03-321-abs-2018-827103-8/",
+    "bundlePath": "/data/bundles/yamaha/mt-03-321-abs-2018-827103-8.json"
+  },
+  {
+    "vehicleId": "yamaha-mt-03-321-abs-2019-gasolina",
+    "canonicalPath": "/fipe/yamaha/mt-03-321-abs-2019-827103-8/",
+    "bundlePath": "/data/bundles/yamaha/mt-03-321-abs-2019-827103-8.json"
+  },
+  {
+    "vehicleId": "yamaha-mt-03-321-abs-2020-gasolina",
+    "canonicalPath": "/fipe/yamaha/mt-03-321-abs-2020-827103-8/",
+    "bundlePath": "/data/bundles/yamaha/mt-03-321-abs-2020-827103-8.json"
+  },
+  {
+    "vehicleId": "yamaha-mt-03-321-abs-2021-gasolina",
+    "canonicalPath": "/fipe/yamaha/mt-03-321-abs-2021-827103-8/",
+    "bundlePath": "/data/bundles/yamaha/mt-03-321-abs-2021-827103-8.json"
+  },
+  {
+    "vehicleId": "yamaha-mt-03-321-abs-2022-gasolina",
+    "canonicalPath": "/fipe/yamaha/mt-03-321-abs-2022-827103-8/",
+    "bundlePath": "/data/bundles/yamaha/mt-03-321-abs-2022-827103-8.json"
+  },
+  {
+    "vehicleId": "yamaha-mt-03-321-abs-2023-gasolina",
+    "canonicalPath": "/fipe/yamaha/mt-03-321-abs-2023-827103-8/",
+    "bundlePath": "/data/bundles/yamaha/mt-03-321-abs-2023-827103-8.json"
+  },
+  {
+    "vehicleId": "yamaha-mt-03-321-abs-2024-gasolina",
+    "canonicalPath": "/fipe/yamaha/mt-03-321-abs-2024-827103-8/",
+    "bundlePath": "/data/bundles/yamaha/mt-03-321-abs-2024-827103-8.json"
+  },
+  {
+    "vehicleId": "yamaha-mt-03-321-abs-2025-gasolina",
+    "canonicalPath": "/fipe/yamaha/mt-03-321-abs-2025-827103-8/",
+    "bundlePath": "/data/bundles/yamaha/mt-03-321-abs-2025-827103-8.json"
+  },
+  {
+    "vehicleId": "yamaha-mt-03-321-abs-0-gasolina",
+    "canonicalPath": "/fipe/yamaha/mt-03-321-abs-0-827103-8/",
+    "bundlePath": "/data/bundles/yamaha/mt-03-321-abs-0-827103-8.json"
+  },
+  {
+    "vehicleId": "yamaha-mt-03-660cc-2008-gasolina",
+    "canonicalPath": "/fipe/yamaha/mt-03-660cc-2008-827070-8/",
+    "bundlePath": "/data/bundles/yamaha/mt-03-660cc-2008-827070-8.json"
+  },
+  {
+    "vehicleId": "yamaha-mt-03-connected-321cc-abs-2026-gasolina",
+    "canonicalPath": "/fipe/yamaha/mt-03-connected-321cc-abs-2026-827140-2/",
+    "bundlePath": "/data/bundles/yamaha/mt-03-connected-321cc-abs-2026-827140-2.json"
+  },
+  {
+    "vehicleId": "yamaha-mt-03-connected-321cc-abs-2027-gasolina",
+    "canonicalPath": "/fipe/yamaha/mt-03-connected-321cc-abs-2027-827140-2/",
+    "bundlePath": "/data/bundles/yamaha/mt-03-connected-321cc-abs-2027-827140-2.json"
+  },
+  {
+    "vehicleId": "yamaha-mt-03-connected-321cc-abs-0-gasolina",
+    "canonicalPath": "/fipe/yamaha/mt-03-connected-321cc-abs-0-827140-2/",
+    "bundlePath": "/data/bundles/yamaha/mt-03-connected-321cc-abs-0-827140-2.json"
+  },
+  {
+    "vehicleId": "yamaha-mt-07-connected-689cc-abs-2026-gasolina",
+    "canonicalPath": "/fipe/yamaha/mt-07-connected-689cc-abs-2026-827141-0/",
+    "bundlePath": "/data/bundles/yamaha/mt-07-connected-689cc-abs-2026-827141-0.json"
+  },
+  {
+    "vehicleId": "yamaha-mt-07-connected-689cc-abs-0-gasolina",
+    "canonicalPath": "/fipe/yamaha/mt-07-connected-689cc-abs-0-827141-0/",
+    "bundlePath": "/data/bundles/yamaha/mt-07-connected-689cc-abs-0-827141-0.json"
+  },
+  {
+    "vehicleId": "yamaha-mt-07-mt-07-abs-689cc-2015-gasolina",
+    "canonicalPath": "/fipe/yamaha/mt-07-mt-07-abs-689cc-2015-827095-3/",
+    "bundlePath": "/data/bundles/yamaha/mt-07-mt-07-abs-689cc-2015-827095-3.json"
+  },
+  {
+    "vehicleId": "yamaha-mt-07-mt-07-abs-689cc-2016-gasolina",
+    "canonicalPath": "/fipe/yamaha/mt-07-mt-07-abs-689cc-2016-827095-3/",
+    "bundlePath": "/data/bundles/yamaha/mt-07-mt-07-abs-689cc-2016-827095-3.json"
+  },
+  {
+    "vehicleId": "yamaha-mt-07-mt-07-abs-689cc-2017-gasolina",
+    "canonicalPath": "/fipe/yamaha/mt-07-mt-07-abs-689cc-2017-827095-3/",
+    "bundlePath": "/data/bundles/yamaha/mt-07-mt-07-abs-689cc-2017-827095-3.json"
+  },
+  {
+    "vehicleId": "yamaha-mt-07-mt-07-abs-689cc-2018-gasolina",
+    "canonicalPath": "/fipe/yamaha/mt-07-mt-07-abs-689cc-2018-827095-3/",
+    "bundlePath": "/data/bundles/yamaha/mt-07-mt-07-abs-689cc-2018-827095-3.json"
+  },
+  {
+    "vehicleId": "yamaha-mt-07-mt-07-abs-689cc-2019-gasolina",
+    "canonicalPath": "/fipe/yamaha/mt-07-mt-07-abs-689cc-2019-827095-3/",
+    "bundlePath": "/data/bundles/yamaha/mt-07-mt-07-abs-689cc-2019-827095-3.json"
+  },
+  {
+    "vehicleId": "yamaha-mt-07-mt-07-abs-689cc-2020-gasolina",
+    "canonicalPath": "/fipe/yamaha/mt-07-mt-07-abs-689cc-2020-827095-3/",
+    "bundlePath": "/data/bundles/yamaha/mt-07-mt-07-abs-689cc-2020-827095-3.json"
+  },
+  {
+    "vehicleId": "yamaha-mt-07-mt-07-abs-689cc-2021-gasolina",
+    "canonicalPath": "/fipe/yamaha/mt-07-mt-07-abs-689cc-2021-827095-3/",
+    "bundlePath": "/data/bundles/yamaha/mt-07-mt-07-abs-689cc-2021-827095-3.json"
+  },
+  {
+    "vehicleId": "yamaha-mt-07-mt-07-abs-689cc-2022-gasolina",
+    "canonicalPath": "/fipe/yamaha/mt-07-mt-07-abs-689cc-2022-827095-3/",
+    "bundlePath": "/data/bundles/yamaha/mt-07-mt-07-abs-689cc-2022-827095-3.json"
+  },
+  {
+    "vehicleId": "yamaha-mt-07-mt-07-abs-689cc-2023-gasolina",
+    "canonicalPath": "/fipe/yamaha/mt-07-mt-07-abs-689cc-2023-827095-3/",
+    "bundlePath": "/data/bundles/yamaha/mt-07-mt-07-abs-689cc-2023-827095-3.json"
+  },
+  {
+    "vehicleId": "yamaha-mt-07-mt-07-abs-689cc-2024-gasolina",
+    "canonicalPath": "/fipe/yamaha/mt-07-mt-07-abs-689cc-2024-827095-3/",
+    "bundlePath": "/data/bundles/yamaha/mt-07-mt-07-abs-689cc-2024-827095-3.json"
+  },
+  {
+    "vehicleId": "yamaha-mt-07-mt-07-abs-689cc-2025-gasolina",
+    "canonicalPath": "/fipe/yamaha/mt-07-mt-07-abs-689cc-2025-827095-3/",
+    "bundlePath": "/data/bundles/yamaha/mt-07-mt-07-abs-689cc-2025-827095-3.json"
+  },
+  {
+    "vehicleId": "yamaha-mt-07-mt-07-abs-689cc-0-gasolina",
+    "canonicalPath": "/fipe/yamaha/mt-07-mt-07-abs-689cc-0-827095-3/",
+    "bundlePath": "/data/bundles/yamaha/mt-07-mt-07-abs-689cc-0-827095-3.json"
+  },
+  {
+    "vehicleId": "yamaha-mt-09-850cc-abs-2015-gasolina",
+    "canonicalPath": "/fipe/yamaha/mt-09-850cc-abs-2015-827094-5/",
+    "bundlePath": "/data/bundles/yamaha/mt-09-850cc-abs-2015-827094-5.json"
+  },
+  {
+    "vehicleId": "yamaha-mt-09-850cc-abs-2016-gasolina",
+    "canonicalPath": "/fipe/yamaha/mt-09-850cc-abs-2016-827094-5/",
+    "bundlePath": "/data/bundles/yamaha/mt-09-850cc-abs-2016-827094-5.json"
+  },
+  {
+    "vehicleId": "yamaha-mt-09-850cc-abs-2017-gasolina",
+    "canonicalPath": "/fipe/yamaha/mt-09-850cc-abs-2017-827094-5/",
+    "bundlePath": "/data/bundles/yamaha/mt-09-850cc-abs-2017-827094-5.json"
+  },
+  {
+    "vehicleId": "yamaha-mt-09-850cc-abs-2018-gasolina",
+    "canonicalPath": "/fipe/yamaha/mt-09-850cc-abs-2018-827094-5/",
+    "bundlePath": "/data/bundles/yamaha/mt-09-850cc-abs-2018-827094-5.json"
+  },
+  {
+    "vehicleId": "yamaha-mt-09-850cc-abs-2020-gasolina",
+    "canonicalPath": "/fipe/yamaha/mt-09-850cc-abs-2020-827094-5/",
+    "bundlePath": "/data/bundles/yamaha/mt-09-850cc-abs-2020-827094-5.json"
+  },
+  {
+    "vehicleId": "yamaha-mt-09-850cc-abs-2021-gasolina",
+    "canonicalPath": "/fipe/yamaha/mt-09-850cc-abs-2021-827094-5/",
+    "bundlePath": "/data/bundles/yamaha/mt-09-850cc-abs-2021-827094-5.json"
+  },
+  {
+    "vehicleId": "yamaha-mt-09-850cc-abs-2022-gasolina",
+    "canonicalPath": "/fipe/yamaha/mt-09-850cc-abs-2022-827094-5/",
+    "bundlePath": "/data/bundles/yamaha/mt-09-850cc-abs-2022-827094-5.json"
+  },
+  {
+    "vehicleId": "yamaha-mt-09-850cc-abs-2023-gasolina",
+    "canonicalPath": "/fipe/yamaha/mt-09-850cc-abs-2023-827094-5/",
+    "bundlePath": "/data/bundles/yamaha/mt-09-850cc-abs-2023-827094-5.json"
+  },
+  {
+    "vehicleId": "yamaha-mt-09-850cc-abs-2024-gasolina",
+    "canonicalPath": "/fipe/yamaha/mt-09-850cc-abs-2024-827094-5/",
+    "bundlePath": "/data/bundles/yamaha/mt-09-850cc-abs-2024-827094-5.json"
+  },
+  {
+    "vehicleId": "yamaha-mt-09-850cc-abs-2025-gasolina",
+    "canonicalPath": "/fipe/yamaha/mt-09-850cc-abs-2025-827094-5/",
+    "bundlePath": "/data/bundles/yamaha/mt-09-850cc-abs-2025-827094-5.json"
+  },
+  {
+    "vehicleId": "yamaha-mt-09-850cc-abs-0-gasolina",
+    "canonicalPath": "/fipe/yamaha/mt-09-850cc-abs-0-827094-5/",
+    "bundlePath": "/data/bundles/yamaha/mt-09-850cc-abs-0-827094-5.json"
+  },
+  {
+    "vehicleId": "yamaha-mt-09-tracer-2017-gasolina",
+    "canonicalPath": "/fipe/yamaha/mt-09-tracer-2017-827100-3/",
+    "bundlePath": "/data/bundles/yamaha/mt-09-tracer-2017-827100-3.json"
+  },
+  {
+    "vehicleId": "yamaha-mt-09-tracer-2018-gasolina",
+    "canonicalPath": "/fipe/yamaha/mt-09-tracer-2018-827100-3/",
+    "bundlePath": "/data/bundles/yamaha/mt-09-tracer-2018-827100-3.json"
+  },
+  {
+    "vehicleId": "yamaha-mt-09-tracer-900-gt-2020-gasolina",
+    "canonicalPath": "/fipe/yamaha/mt-09-tracer-900-gt-2020-827110-0/",
+    "bundlePath": "/data/bundles/yamaha/mt-09-tracer-900-gt-2020-827110-0.json"
+  },
+  {
+    "vehicleId": "yamaha-mt-09-tracer-900-gt-2021-gasolina",
+    "canonicalPath": "/fipe/yamaha/mt-09-tracer-900-gt-2021-827110-0/",
+    "bundlePath": "/data/bundles/yamaha/mt-09-tracer-900-gt-2021-827110-0.json"
+  },
+  {
+    "vehicleId": "yamaha-mt-09-tracer-900-gt-2022-gasolina",
+    "canonicalPath": "/fipe/yamaha/mt-09-tracer-900-gt-2022-827110-0/",
+    "bundlePath": "/data/bundles/yamaha/mt-09-tracer-900-gt-2022-827110-0.json"
+  },
+  {
+    "vehicleId": "yamaha-mt-09-tracer-900-gt-2023-gasolina",
+    "canonicalPath": "/fipe/yamaha/mt-09-tracer-900-gt-2023-827110-0/",
+    "bundlePath": "/data/bundles/yamaha/mt-09-tracer-900-gt-2023-827110-0.json"
+  },
+  {
+    "vehicleId": "yamaha-mt-09-tracer-900-gt-2024-gasolina",
+    "canonicalPath": "/fipe/yamaha/mt-09-tracer-900-gt-2024-827110-0/",
+    "bundlePath": "/data/bundles/yamaha/mt-09-tracer-900-gt-2024-827110-0.json"
+  },
+  {
+    "vehicleId": "yamaha-mt-09-tracer-900-gt-2025-gasolina",
+    "canonicalPath": "/fipe/yamaha/mt-09-tracer-900-gt-2025-827110-0/",
+    "bundlePath": "/data/bundles/yamaha/mt-09-tracer-900-gt-2025-827110-0.json"
+  },
+  {
+    "vehicleId": "yamaha-neo-at-115cc-2005-gasolina",
+    "canonicalPath": "/fipe/yamaha/neo-at-115cc-2005-827049-0/",
+    "bundlePath": "/data/bundles/yamaha/neo-at-115cc-2005-827049-0.json"
+  },
+  {
+    "vehicleId": "yamaha-neo-at-115cc-2006-gasolina",
+    "canonicalPath": "/fipe/yamaha/neo-at-115cc-2006-827049-0/",
+    "bundlePath": "/data/bundles/yamaha/neo-at-115cc-2006-827049-0.json"
+  },
+  {
+    "vehicleId": "yamaha-neo-at-115cc-2007-gasolina",
+    "canonicalPath": "/fipe/yamaha/neo-at-115cc-2007-827049-0/",
+    "bundlePath": "/data/bundles/yamaha/neo-at-115cc-2007-827049-0.json"
+  },
+  {
+    "vehicleId": "yamaha-neo-automatic-115cc-2008-gasolina",
+    "canonicalPath": "/fipe/yamaha/neo-automatic-115cc-2008-827061-9/",
+    "bundlePath": "/data/bundles/yamaha/neo-automatic-115cc-2008-827061-9.json"
+  },
+  {
+    "vehicleId": "yamaha-neo-automatic-115cc-2009-gasolina",
+    "canonicalPath": "/fipe/yamaha/neo-automatic-115cc-2009-827061-9/",
+    "bundlePath": "/data/bundles/yamaha/neo-automatic-115cc-2009-827061-9.json"
+  },
+  {
+    "vehicleId": "yamaha-neo-automatic-115cc-2010-gasolina",
+    "canonicalPath": "/fipe/yamaha/neo-automatic-115cc-2010-827061-9/",
+    "bundlePath": "/data/bundles/yamaha/neo-automatic-115cc-2010-827061-9.json"
+  },
+  {
+    "vehicleId": "yamaha-neo-automatic-115cc-2011-gasolina",
+    "canonicalPath": "/fipe/yamaha/neo-automatic-115cc-2011-827061-9/",
+    "bundlePath": "/data/bundles/yamaha/neo-automatic-115cc-2011-827061-9.json"
+  },
+  {
+    "vehicleId": "yamaha-neo-automatic-115cc-2012-gasolina",
+    "canonicalPath": "/fipe/yamaha/neo-automatic-115cc-2012-827061-9/",
+    "bundlePath": "/data/bundles/yamaha/neo-automatic-115cc-2012-827061-9.json"
+  },
+  {
+    "vehicleId": "yamaha-neo-automatic-125cc-2017-gasolina",
+    "canonicalPath": "/fipe/yamaha/neo-automatic-125cc-2017-827106-2/",
+    "bundlePath": "/data/bundles/yamaha/neo-automatic-125cc-2017-827106-2.json"
+  },
+  {
+    "vehicleId": "yamaha-neo-automatic-125cc-2018-gasolina",
+    "canonicalPath": "/fipe/yamaha/neo-automatic-125cc-2018-827106-2/",
+    "bundlePath": "/data/bundles/yamaha/neo-automatic-125cc-2018-827106-2.json"
+  },
+  {
+    "vehicleId": "yamaha-neo-automatic-125cc-2019-gasolina",
+    "canonicalPath": "/fipe/yamaha/neo-automatic-125cc-2019-827106-2/",
+    "bundlePath": "/data/bundles/yamaha/neo-automatic-125cc-2019-827106-2.json"
+  },
+  {
+    "vehicleId": "yamaha-neo-automatic-125cc-2020-gasolina",
+    "canonicalPath": "/fipe/yamaha/neo-automatic-125cc-2020-827106-2/",
+    "bundlePath": "/data/bundles/yamaha/neo-automatic-125cc-2020-827106-2.json"
+  },
+  {
+    "vehicleId": "yamaha-neo-automatic-125cc-2021-gasolina",
+    "canonicalPath": "/fipe/yamaha/neo-automatic-125cc-2021-827106-2/",
+    "bundlePath": "/data/bundles/yamaha/neo-automatic-125cc-2021-827106-2.json"
+  },
+  {
+    "vehicleId": "yamaha-neo-automatic-125cc-2022-gasolina",
+    "canonicalPath": "/fipe/yamaha/neo-automatic-125cc-2022-827106-2/",
+    "bundlePath": "/data/bundles/yamaha/neo-automatic-125cc-2022-827106-2.json"
+  },
+  {
+    "vehicleId": "yamaha-neo-automatic-125cc-2023-gasolina",
+    "canonicalPath": "/fipe/yamaha/neo-automatic-125cc-2023-827106-2/",
+    "bundlePath": "/data/bundles/yamaha/neo-automatic-125cc-2023-827106-2.json"
+  },
+  {
+    "vehicleId": "yamaha-neo-automatic-125cc-2024-gasolina",
+    "canonicalPath": "/fipe/yamaha/neo-automatic-125cc-2024-827106-2/",
+    "bundlePath": "/data/bundles/yamaha/neo-automatic-125cc-2024-827106-2.json"
+  },
+  {
+    "vehicleId": "yamaha-neo-automatic-125cc-2025-gasolina",
+    "canonicalPath": "/fipe/yamaha/neo-automatic-125cc-2025-827106-2/",
+    "bundlePath": "/data/bundles/yamaha/neo-automatic-125cc-2025-827106-2.json"
+  },
+  {
+    "vehicleId": "yamaha-neo-automatic-125cc-0-gasolina",
+    "canonicalPath": "/fipe/yamaha/neo-automatic-125cc-0-827106-2/",
+    "bundlePath": "/data/bundles/yamaha/neo-automatic-125cc-0-827106-2.json"
+  },
+  {
+    "vehicleId": "yamaha-neos-connected-eletrica-2026-eletrico",
+    "canonicalPath": "/fipe/yamaha/neos-connected-eletrica-2026-827137-2/",
+    "bundlePath": "/data/bundles/yamaha/neos-connected-eletrica-2026-827137-2.json"
+  },
+  {
+    "vehicleId": "yamaha-neos-connected-eletrica-0-eletrico",
+    "canonicalPath": "/fipe/yamaha/neos-connected-eletrica-0-827137-2/",
+    "bundlePath": "/data/bundles/yamaha/neos-connected-eletrica-0-827137-2.json"
+  },
+  {
+    "vehicleId": "yamaha-nmax-160-2017-gasolina",
+    "canonicalPath": "/fipe/yamaha/nmax-160-2017-827102-0/",
+    "bundlePath": "/data/bundles/yamaha/nmax-160-2017-827102-0.json"
+  },
+  {
+    "vehicleId": "yamaha-nmax-160-2018-gasolina",
+    "canonicalPath": "/fipe/yamaha/nmax-160-2018-827102-0/",
+    "bundlePath": "/data/bundles/yamaha/nmax-160-2018-827102-0.json"
+  },
+  {
+    "vehicleId": "yamaha-nmax-160-2019-gasolina",
+    "canonicalPath": "/fipe/yamaha/nmax-160-2019-827102-0/",
+    "bundlePath": "/data/bundles/yamaha/nmax-160-2019-827102-0.json"
+  },
+  {
+    "vehicleId": "yamaha-nmax-160-2020-gasolina",
+    "canonicalPath": "/fipe/yamaha/nmax-160-2020-827102-0/",
+    "bundlePath": "/data/bundles/yamaha/nmax-160-2020-827102-0.json"
+  },
+  {
+    "vehicleId": "yamaha-nmax-160-2021-gasolina",
+    "canonicalPath": "/fipe/yamaha/nmax-160-2021-827102-0/",
+    "bundlePath": "/data/bundles/yamaha/nmax-160-2021-827102-0.json"
+  },
+  {
+    "vehicleId": "yamaha-nmax-160-2022-gasolina",
+    "canonicalPath": "/fipe/yamaha/nmax-160-2022-827102-0/",
+    "bundlePath": "/data/bundles/yamaha/nmax-160-2022-827102-0.json"
+  },
+  {
+    "vehicleId": "yamaha-nmax-connected-160-abs-2023-gasolina",
+    "canonicalPath": "/fipe/yamaha/nmax-connected-160-abs-2023-827125-9/",
+    "bundlePath": "/data/bundles/yamaha/nmax-connected-160-abs-2023-827125-9.json"
+  },
+  {
+    "vehicleId": "yamaha-nmax-connected-160-abs-2024-gasolina",
+    "canonicalPath": "/fipe/yamaha/nmax-connected-160-abs-2024-827125-9/",
+    "bundlePath": "/data/bundles/yamaha/nmax-connected-160-abs-2024-827125-9.json"
+  },
+  {
+    "vehicleId": "yamaha-nmax-connected-160-abs-2025-gasolina",
+    "canonicalPath": "/fipe/yamaha/nmax-connected-160-abs-2025-827125-9/",
+    "bundlePath": "/data/bundles/yamaha/nmax-connected-160-abs-2025-827125-9.json"
+  },
+  {
+    "vehicleId": "yamaha-nmax-connected-160-abs-2026-gasolina",
+    "canonicalPath": "/fipe/yamaha/nmax-connected-160-abs-2026-827125-9/",
+    "bundlePath": "/data/bundles/yamaha/nmax-connected-160-abs-2026-827125-9.json"
+  },
+  {
+    "vehicleId": "yamaha-nmax-connected-160-abs-0-gasolina",
+    "canonicalPath": "/fipe/yamaha/nmax-connected-160-abs-0-827125-9/",
+    "bundlePath": "/data/bundles/yamaha/nmax-connected-160-abs-0-827125-9.json"
+  },
+  {
+    "vehicleId": "yamaha-nmax-connected-mandalorian-160-abs-2023-gasolina",
+    "canonicalPath": "/fipe/yamaha/nmax-connected-mandalorian-160-abs-2023-827128-3/",
+    "bundlePath": "/data/bundles/yamaha/nmax-connected-mandalorian-160-abs-2023-827128-3.json"
+  },
+  {
+    "vehicleId": "yamaha-nmax-connected-se-160-abs-2023-gasolina",
+    "canonicalPath": "/fipe/yamaha/nmax-connected-se-160-abs-2023-827127-5/",
+    "bundlePath": "/data/bundles/yamaha/nmax-connected-se-160-abs-2023-827127-5.json"
+  },
+  {
+    "vehicleId": "yamaha-nmax-connected-se-160-abs-2024-gasolina",
+    "canonicalPath": "/fipe/yamaha/nmax-connected-se-160-abs-2024-827127-5/",
+    "bundlePath": "/data/bundles/yamaha/nmax-connected-se-160-abs-2024-827127-5.json"
+  },
+  {
+    "vehicleId": "yamaha-nmax-homem-aranha-160-abs-2022-gasolina",
+    "canonicalPath": "/fipe/yamaha/nmax-homem-aranha-160-abs-2022-827119-4/",
+    "bundlePath": "/data/bundles/yamaha/nmax-homem-aranha-160-abs-2022-827119-4.json"
+  },
+  {
+    "vehicleId": "yamaha-nmax-star-wars-160-abs-2020-gasolina",
+    "canonicalPath": "/fipe/yamaha/nmax-star-wars-160-abs-2020-827114-3/",
+    "bundlePath": "/data/bundles/yamaha/nmax-star-wars-160-abs-2020-827114-3.json"
+  },
+  {
+    "vehicleId": "yamaha-nmax-star-wars-160-abs-2021-gasolina",
+    "canonicalPath": "/fipe/yamaha/nmax-star-wars-160-abs-2021-827114-3/",
+    "bundlePath": "/data/bundles/yamaha/nmax-star-wars-160-abs-2021-827114-3.json"
+  },
+  {
+    "vehicleId": "yamaha-rd-135-1990-gasolina",
+    "canonicalPath": "/fipe/yamaha/rd-135-1990-827014-7/",
+    "bundlePath": "/data/bundles/yamaha/rd-135-1990-827014-7.json"
+  },
+  {
+    "vehicleId": "yamaha-rd-135-1991-gasolina",
+    "canonicalPath": "/fipe/yamaha/rd-135-1991-827014-7/",
+    "bundlePath": "/data/bundles/yamaha/rd-135-1991-827014-7.json"
+  },
+  {
+    "vehicleId": "yamaha-rd-135-1992-gasolina",
+    "canonicalPath": "/fipe/yamaha/rd-135-1992-827014-7/",
+    "bundlePath": "/data/bundles/yamaha/rd-135-1992-827014-7.json"
+  },
+  {
+    "vehicleId": "yamaha-rd-135-1993-gasolina",
+    "canonicalPath": "/fipe/yamaha/rd-135-1993-827014-7/",
+    "bundlePath": "/data/bundles/yamaha/rd-135-1993-827014-7.json"
+  },
+  {
+    "vehicleId": "yamaha-rd-135-1994-gasolina",
+    "canonicalPath": "/fipe/yamaha/rd-135-1994-827014-7/",
+    "bundlePath": "/data/bundles/yamaha/rd-135-1994-827014-7.json"
+  },
+  {
+    "vehicleId": "yamaha-rd-135-1995-gasolina",
+    "canonicalPath": "/fipe/yamaha/rd-135-1995-827014-7/",
+    "bundlePath": "/data/bundles/yamaha/rd-135-1995-827014-7.json"
+  },
+  {
+    "vehicleId": "yamaha-rd-135-1996-gasolina",
+    "canonicalPath": "/fipe/yamaha/rd-135-1996-827014-7/",
+    "bundlePath": "/data/bundles/yamaha/rd-135-1996-827014-7.json"
+  },
+  {
+    "vehicleId": "yamaha-rd-135-1997-gasolina",
+    "canonicalPath": "/fipe/yamaha/rd-135-1997-827014-7/",
+    "bundlePath": "/data/bundles/yamaha/rd-135-1997-827014-7.json"
+  },
+  {
+    "vehicleId": "yamaha-rd-135-1998-gasolina",
+    "canonicalPath": "/fipe/yamaha/rd-135-1998-827014-7/",
+    "bundlePath": "/data/bundles/yamaha/rd-135-1998-827014-7.json"
+  },
+  {
+    "vehicleId": "yamaha-rd-135-1999-gasolina",
+    "canonicalPath": "/fipe/yamaha/rd-135-1999-827014-7/",
+    "bundlePath": "/data/bundles/yamaha/rd-135-1999-827014-7.json"
+  },
+  {
+    "vehicleId": "yamaha-rd-135-2000-gasolina",
+    "canonicalPath": "/fipe/yamaha/rd-135-2000-827014-7/",
+    "bundlePath": "/data/bundles/yamaha/rd-135-2000-827014-7.json"
+  },
+  {
+    "vehicleId": "yamaha-rd-350-lc-r-1990-gasolina",
+    "canonicalPath": "/fipe/yamaha/rd-350-lc-r-1990-827015-5/",
+    "bundlePath": "/data/bundles/yamaha/rd-350-lc-r-1990-827015-5.json"
+  },
+  {
+    "vehicleId": "yamaha-rd-350-lc-r-1991-gasolina",
+    "canonicalPath": "/fipe/yamaha/rd-350-lc-r-1991-827015-5/",
+    "bundlePath": "/data/bundles/yamaha/rd-350-lc-r-1991-827015-5.json"
+  },
+  {
+    "vehicleId": "yamaha-rd-350-lc-r-1992-gasolina",
+    "canonicalPath": "/fipe/yamaha/rd-350-lc-r-1992-827015-5/",
+    "bundlePath": "/data/bundles/yamaha/rd-350-lc-r-1992-827015-5.json"
+  },
+  {
+    "vehicleId": "yamaha-rd-350-lc-r-1993-gasolina",
+    "canonicalPath": "/fipe/yamaha/rd-350-lc-r-1993-827015-5/",
+    "bundlePath": "/data/bundles/yamaha/rd-350-lc-r-1993-827015-5.json"
+  },
+  {
+    "vehicleId": "yamaha-rdz-125-1990-gasolina",
+    "canonicalPath": "/fipe/yamaha/rdz-125-1990-827016-3/",
+    "bundlePath": "/data/bundles/yamaha/rdz-125-1990-827016-3.json"
+  },
+  {
+    "vehicleId": "yamaha-rdz-125-1991-gasolina",
+    "canonicalPath": "/fipe/yamaha/rdz-125-1991-827016-3/",
+    "bundlePath": "/data/bundles/yamaha/rdz-125-1991-827016-3.json"
+  },
+  {
+    "vehicleId": "yamaha-rdz-125-1992-gasolina",
+    "canonicalPath": "/fipe/yamaha/rdz-125-1992-827016-3/",
+    "bundlePath": "/data/bundles/yamaha/rdz-125-1992-827016-3.json"
+  },
+  {
+    "vehicleId": "yamaha-rdz-125-1993-gasolina",
+    "canonicalPath": "/fipe/yamaha/rdz-125-1993-827016-3/",
+    "bundlePath": "/data/bundles/yamaha/rdz-125-1993-827016-3.json"
+  },
+  {
+    "vehicleId": "yamaha-rdz-135-1990-gasolina",
+    "canonicalPath": "/fipe/yamaha/rdz-135-1990-827017-1/",
+    "bundlePath": "/data/bundles/yamaha/rdz-135-1990-827017-1.json"
+  },
+  {
+    "vehicleId": "yamaha-rdz-135-1991-gasolina",
+    "canonicalPath": "/fipe/yamaha/rdz-135-1991-827017-1/",
+    "bundlePath": "/data/bundles/yamaha/rdz-135-1991-827017-1.json"
+  },
+  {
+    "vehicleId": "yamaha-rdz-135-1992-gasolina",
+    "canonicalPath": "/fipe/yamaha/rdz-135-1992-827017-1/",
+    "bundlePath": "/data/bundles/yamaha/rdz-135-1992-827017-1.json"
+  },
+  {
+    "vehicleId": "yamaha-royal-star-1300-1996-gasolina",
+    "canonicalPath": "/fipe/yamaha/royal-star-1300-1996-827018-0/",
+    "bundlePath": "/data/bundles/yamaha/royal-star-1300-1996-827018-0.json"
+  },
+  {
+    "vehicleId": "yamaha-royal-star-1300-1997-gasolina",
+    "canonicalPath": "/fipe/yamaha/royal-star-1300-1997-827018-0/",
+    "bundlePath": "/data/bundles/yamaha/royal-star-1300-1997-827018-0.json"
+  },
+  {
+    "vehicleId": "yamaha-royal-star-1300-1998-gasolina",
+    "canonicalPath": "/fipe/yamaha/royal-star-1300-1998-827018-0/",
+    "bundlePath": "/data/bundles/yamaha/royal-star-1300-1998-827018-0.json"
+  },
+  {
+    "vehicleId": "yamaha-royal-star-1300-1999-gasolina",
+    "canonicalPath": "/fipe/yamaha/royal-star-1300-1999-827018-0/",
+    "bundlePath": "/data/bundles/yamaha/royal-star-1300-1999-827018-0.json"
+  },
+  {
+    "vehicleId": "yamaha-royal-star-1300-2000-gasolina",
+    "canonicalPath": "/fipe/yamaha/royal-star-1300-2000-827018-0/",
+    "bundlePath": "/data/bundles/yamaha/royal-star-1300-2000-827018-0.json"
+  },
+  {
+    "vehicleId": "yamaha-royal-star-1300-2001-gasolina",
+    "canonicalPath": "/fipe/yamaha/royal-star-1300-2001-827018-0/",
+    "bundlePath": "/data/bundles/yamaha/royal-star-1300-2001-827018-0.json"
+  },
+  {
+    "vehicleId": "yamaha-t115-crypton-ed-2010-gasolina",
+    "canonicalPath": "/fipe/yamaha/t115-crypton-ed-2010-827079-1/",
+    "bundlePath": "/data/bundles/yamaha/t115-crypton-ed-2010-827079-1.json"
+  },
+  {
+    "vehicleId": "yamaha-t115-crypton-ed-2011-gasolina",
+    "canonicalPath": "/fipe/yamaha/t115-crypton-ed-2011-827079-1/",
+    "bundlePath": "/data/bundles/yamaha/t115-crypton-ed-2011-827079-1.json"
+  },
+  {
+    "vehicleId": "yamaha-t115-crypton-ed-2012-gasolina",
+    "canonicalPath": "/fipe/yamaha/t115-crypton-ed-2012-827079-1/",
+    "bundlePath": "/data/bundles/yamaha/t115-crypton-ed-2012-827079-1.json"
+  },
+  {
+    "vehicleId": "yamaha-t115-crypton-ed-2013-gasolina",
+    "canonicalPath": "/fipe/yamaha/t115-crypton-ed-2013-827079-1/",
+    "bundlePath": "/data/bundles/yamaha/t115-crypton-ed-2013-827079-1.json"
+  },
+  {
+    "vehicleId": "yamaha-t115-crypton-ed-2014-gasolina",
+    "canonicalPath": "/fipe/yamaha/t115-crypton-ed-2014-827079-1/",
+    "bundlePath": "/data/bundles/yamaha/t115-crypton-ed-2014-827079-1.json"
+  },
+  {
+    "vehicleId": "yamaha-t115-crypton-ed-2015-gasolina",
+    "canonicalPath": "/fipe/yamaha/t115-crypton-ed-2015-827079-1/",
+    "bundlePath": "/data/bundles/yamaha/t115-crypton-ed-2015-827079-1.json"
+  },
+  {
+    "vehicleId": "yamaha-t115-crypton-ed-2016-gasolina",
+    "canonicalPath": "/fipe/yamaha/t115-crypton-ed-2016-827079-1/",
+    "bundlePath": "/data/bundles/yamaha/t115-crypton-ed-2016-827079-1.json"
+  },
+  {
+    "vehicleId": "yamaha-t115-crypton-ed-penelope-2014-gasolina",
+    "canonicalPath": "/fipe/yamaha/t115-crypton-ed-penelope-2014-827084-8/",
+    "bundlePath": "/data/bundles/yamaha/t115-crypton-ed-penelope-2014-827084-8.json"
+  },
+  {
+    "vehicleId": "yamaha-t115-crypton-k-2010-gasolina",
+    "canonicalPath": "/fipe/yamaha/t115-crypton-k-2010-827078-3/",
+    "bundlePath": "/data/bundles/yamaha/t115-crypton-k-2010-827078-3.json"
+  },
+  {
+    "vehicleId": "yamaha-t115-crypton-k-2011-gasolina",
+    "canonicalPath": "/fipe/yamaha/t115-crypton-k-2011-827078-3/",
+    "bundlePath": "/data/bundles/yamaha/t115-crypton-k-2011-827078-3.json"
+  },
+  {
+    "vehicleId": "yamaha-t115-crypton-k-2012-gasolina",
+    "canonicalPath": "/fipe/yamaha/t115-crypton-k-2012-827078-3/",
+    "bundlePath": "/data/bundles/yamaha/t115-crypton-k-2012-827078-3.json"
+  },
+  {
+    "vehicleId": "yamaha-t115-crypton-k-2013-gasolina",
+    "canonicalPath": "/fipe/yamaha/t115-crypton-k-2013-827078-3/",
+    "bundlePath": "/data/bundles/yamaha/t115-crypton-k-2013-827078-3.json"
+  },
+  {
+    "vehicleId": "yamaha-t115-crypton-k-2014-gasolina",
+    "canonicalPath": "/fipe/yamaha/t115-crypton-k-2014-827078-3/",
+    "bundlePath": "/data/bundles/yamaha/t115-crypton-k-2014-827078-3.json"
+  },
+  {
+    "vehicleId": "yamaha-t115-crypton-k-2015-gasolina",
+    "canonicalPath": "/fipe/yamaha/t115-crypton-k-2015-827078-3/",
+    "bundlePath": "/data/bundles/yamaha/t115-crypton-k-2015-827078-3.json"
+  },
+  {
+    "vehicleId": "yamaha-t115-crypton-k-2016-gasolina",
+    "canonicalPath": "/fipe/yamaha/t115-crypton-k-2016-827078-3/",
+    "bundlePath": "/data/bundles/yamaha/t115-crypton-k-2016-827078-3.json"
+  },
+  {
+    "vehicleId": "yamaha-tdm-225-1997-gasolina",
+    "canonicalPath": "/fipe/yamaha/tdm-225-1997-827019-8/",
+    "bundlePath": "/data/bundles/yamaha/tdm-225-1997-827019-8.json"
+  },
+  {
+    "vehicleId": "yamaha-tdm-225-1998-gasolina",
+    "canonicalPath": "/fipe/yamaha/tdm-225-1998-827019-8/",
+    "bundlePath": "/data/bundles/yamaha/tdm-225-1998-827019-8.json"
+  },
+  {
+    "vehicleId": "yamaha-tdm-225-1999-gasolina",
+    "canonicalPath": "/fipe/yamaha/tdm-225-1999-827019-8/",
+    "bundlePath": "/data/bundles/yamaha/tdm-225-1999-827019-8.json"
+  },
+  {
+    "vehicleId": "yamaha-tdm-225-2000-gasolina",
+    "canonicalPath": "/fipe/yamaha/tdm-225-2000-827019-8/",
+    "bundlePath": "/data/bundles/yamaha/tdm-225-2000-827019-8.json"
+  },
+  {
+    "vehicleId": "yamaha-tdm-225-2001-gasolina",
+    "canonicalPath": "/fipe/yamaha/tdm-225-2001-827019-8/",
+    "bundlePath": "/data/bundles/yamaha/tdm-225-2001-827019-8.json"
+  },
+  {
+    "vehicleId": "yamaha-tdm-225-2002-gasolina",
+    "canonicalPath": "/fipe/yamaha/tdm-225-2002-827019-8/",
+    "bundlePath": "/data/bundles/yamaha/tdm-225-2002-827019-8.json"
+  },
+  {
+    "vehicleId": "yamaha-tdm-225-2003-gasolina",
+    "canonicalPath": "/fipe/yamaha/tdm-225-2003-827019-8/",
+    "bundlePath": "/data/bundles/yamaha/tdm-225-2003-827019-8.json"
+  },
+  {
+    "vehicleId": "yamaha-tdm-225-2004-gasolina",
+    "canonicalPath": "/fipe/yamaha/tdm-225-2004-827019-8/",
+    "bundlePath": "/data/bundles/yamaha/tdm-225-2004-827019-8.json"
+  },
+  {
+    "vehicleId": "yamaha-tdm-225-2005-gasolina",
+    "canonicalPath": "/fipe/yamaha/tdm-225-2005-827019-8/",
+    "bundlePath": "/data/bundles/yamaha/tdm-225-2005-827019-8.json"
+  },
+  {
+    "vehicleId": "yamaha-tdm-850-1993-gasolina",
+    "canonicalPath": "/fipe/yamaha/tdm-850-1993-827020-1/",
+    "bundlePath": "/data/bundles/yamaha/tdm-850-1993-827020-1.json"
+  },
+  {
+    "vehicleId": "yamaha-tdm-850-1994-gasolina",
+    "canonicalPath": "/fipe/yamaha/tdm-850-1994-827020-1/",
+    "bundlePath": "/data/bundles/yamaha/tdm-850-1994-827020-1.json"
+  },
+  {
+    "vehicleId": "yamaha-tdm-850-1995-gasolina",
+    "canonicalPath": "/fipe/yamaha/tdm-850-1995-827020-1/",
+    "bundlePath": "/data/bundles/yamaha/tdm-850-1995-827020-1.json"
+  },
+  {
+    "vehicleId": "yamaha-tdm-850-1996-gasolina",
+    "canonicalPath": "/fipe/yamaha/tdm-850-1996-827020-1/",
+    "bundlePath": "/data/bundles/yamaha/tdm-850-1996-827020-1.json"
+  },
+  {
+    "vehicleId": "yamaha-tdm-850-1997-gasolina",
+    "canonicalPath": "/fipe/yamaha/tdm-850-1997-827020-1/",
+    "bundlePath": "/data/bundles/yamaha/tdm-850-1997-827020-1.json"
+  },
+  {
+    "vehicleId": "yamaha-tdm-850-1998-gasolina",
+    "canonicalPath": "/fipe/yamaha/tdm-850-1998-827020-1/",
+    "bundlePath": "/data/bundles/yamaha/tdm-850-1998-827020-1.json"
+  },
+  {
+    "vehicleId": "yamaha-tdm-850-1999-gasolina",
+    "canonicalPath": "/fipe/yamaha/tdm-850-1999-827020-1/",
+    "bundlePath": "/data/bundles/yamaha/tdm-850-1999-827020-1.json"
+  },
+  {
+    "vehicleId": "yamaha-tdm-850-2000-gasolina",
+    "canonicalPath": "/fipe/yamaha/tdm-850-2000-827020-1/",
+    "bundlePath": "/data/bundles/yamaha/tdm-850-2000-827020-1.json"
+  },
+  {
+    "vehicleId": "yamaha-tdm-850-2001-gasolina",
+    "canonicalPath": "/fipe/yamaha/tdm-850-2001-827020-1/",
+    "bundlePath": "/data/bundles/yamaha/tdm-850-2001-827020-1.json"
+  },
+  {
+    "vehicleId": "yamaha-tdm-900-2002-gasolina",
+    "canonicalPath": "/fipe/yamaha/tdm-900-2002-827048-1/",
+    "bundlePath": "/data/bundles/yamaha/tdm-900-2002-827048-1.json"
+  },
+  {
+    "vehicleId": "yamaha-tdm-900-2003-gasolina",
+    "canonicalPath": "/fipe/yamaha/tdm-900-2003-827048-1/",
+    "bundlePath": "/data/bundles/yamaha/tdm-900-2003-827048-1.json"
+  },
+  {
+    "vehicleId": "yamaha-tdm-900-2004-gasolina",
+    "canonicalPath": "/fipe/yamaha/tdm-900-2004-827048-1/",
+    "bundlePath": "/data/bundles/yamaha/tdm-900-2004-827048-1.json"
+  },
+  {
+    "vehicleId": "yamaha-tdm-900-2005-gasolina",
+    "canonicalPath": "/fipe/yamaha/tdm-900-2005-827048-1/",
+    "bundlePath": "/data/bundles/yamaha/tdm-900-2005-827048-1.json"
+  },
+  {
+    "vehicleId": "yamaha-tdm-900-2006-gasolina",
+    "canonicalPath": "/fipe/yamaha/tdm-900-2006-827048-1/",
+    "bundlePath": "/data/bundles/yamaha/tdm-900-2006-827048-1.json"
+  },
+  {
+    "vehicleId": "yamaha-tdm-900-2007-gasolina",
+    "canonicalPath": "/fipe/yamaha/tdm-900-2007-827048-1/",
+    "bundlePath": "/data/bundles/yamaha/tdm-900-2007-827048-1.json"
+  },
+  {
+    "vehicleId": "yamaha-tdm-900-2008-gasolina",
+    "canonicalPath": "/fipe/yamaha/tdm-900-2008-827048-1/",
+    "bundlePath": "/data/bundles/yamaha/tdm-900-2008-827048-1.json"
+  },
+  {
+    "vehicleId": "yamaha-tdr-180-1990-gasolina",
+    "canonicalPath": "/fipe/yamaha/tdr-180-1990-827021-0/",
+    "bundlePath": "/data/bundles/yamaha/tdr-180-1990-827021-0.json"
+  },
+  {
+    "vehicleId": "yamaha-tdr-180-1991-gasolina",
+    "canonicalPath": "/fipe/yamaha/tdr-180-1991-827021-0/",
+    "bundlePath": "/data/bundles/yamaha/tdr-180-1991-827021-0.json"
+  },
+  {
+    "vehicleId": "yamaha-tdr-180-1992-gasolina",
+    "canonicalPath": "/fipe/yamaha/tdr-180-1992-827021-0/",
+    "bundlePath": "/data/bundles/yamaha/tdr-180-1992-827021-0.json"
+  },
+  {
+    "vehicleId": "yamaha-tdr-180-1993-gasolina",
+    "canonicalPath": "/fipe/yamaha/tdr-180-1993-827021-0/",
+    "bundlePath": "/data/bundles/yamaha/tdr-180-1993-827021-0.json"
+  },
+  {
+    "vehicleId": "yamaha-tmax-530-2014-gasolina",
+    "canonicalPath": "/fipe/yamaha/tmax-530-2014-827089-9/",
+    "bundlePath": "/data/bundles/yamaha/tmax-530-2014-827089-9.json"
+  },
+  {
+    "vehicleId": "yamaha-tmax-530-2015-gasolina",
+    "canonicalPath": "/fipe/yamaha/tmax-530-2015-827089-9/",
+    "bundlePath": "/data/bundles/yamaha/tmax-530-2015-827089-9.json"
+  },
+  {
+    "vehicleId": "yamaha-tmax-530-2016-gasolina",
+    "canonicalPath": "/fipe/yamaha/tmax-530-2016-827089-9/",
+    "bundlePath": "/data/bundles/yamaha/tmax-530-2016-827089-9.json"
+  },
+  {
+    "vehicleId": "yamaha-tmax-530-2017-gasolina",
+    "canonicalPath": "/fipe/yamaha/tmax-530-2017-827089-9/",
+    "bundlePath": "/data/bundles/yamaha/tmax-530-2017-827089-9.json"
+  },
+  {
+    "vehicleId": "yamaha-trx-850-1997-gasolina",
+    "canonicalPath": "/fipe/yamaha/trx-850-1997-827022-8/",
+    "bundlePath": "/data/bundles/yamaha/trx-850-1997-827022-8.json"
+  },
+  {
+    "vehicleId": "yamaha-tt-r-125-e-2008-gasolina",
+    "canonicalPath": "/fipe/yamaha/tt-r-125-e-2008-827062-7/",
+    "bundlePath": "/data/bundles/yamaha/tt-r-125-e-2008-827062-7.json"
+  },
+  {
+    "vehicleId": "yamaha-tt-r-125-e-2009-gasolina",
+    "canonicalPath": "/fipe/yamaha/tt-r-125-e-2009-827062-7/",
+    "bundlePath": "/data/bundles/yamaha/tt-r-125-e-2009-827062-7.json"
+  },
+  {
+    "vehicleId": "yamaha-tt-r-125-e-2011-gasolina",
+    "canonicalPath": "/fipe/yamaha/tt-r-125-e-2011-827062-7/",
+    "bundlePath": "/data/bundles/yamaha/tt-r-125-e-2011-827062-7.json"
+  },
+  {
+    "vehicleId": "yamaha-tt-r-125-le-2008-gasolina",
+    "canonicalPath": "/fipe/yamaha/tt-r-125-le-2008-827063-5/",
+    "bundlePath": "/data/bundles/yamaha/tt-r-125-le-2008-827063-5.json"
+  },
+  {
+    "vehicleId": "yamaha-tt-r-125-le-2009-gasolina",
+    "canonicalPath": "/fipe/yamaha/tt-r-125-le-2009-827063-5/",
+    "bundlePath": "/data/bundles/yamaha/tt-r-125-le-2009-827063-5.json"
+  },
+  {
+    "vehicleId": "yamaha-tt-r-125-le-2010-gasolina",
+    "canonicalPath": "/fipe/yamaha/tt-r-125-le-2010-827063-5/",
+    "bundlePath": "/data/bundles/yamaha/tt-r-125-le-2010-827063-5.json"
+  },
+  {
+    "vehicleId": "yamaha-tt-r-125-le-2011-gasolina",
+    "canonicalPath": "/fipe/yamaha/tt-r-125-le-2011-827063-5/",
+    "bundlePath": "/data/bundles/yamaha/tt-r-125-le-2011-827063-5.json"
+  },
+  {
+    "vehicleId": "yamaha-tt-r-125-lwe-2015-gasolina",
+    "canonicalPath": "/fipe/yamaha/tt-r-125-lwe-2015-827096-1/",
+    "bundlePath": "/data/bundles/yamaha/tt-r-125-lwe-2015-827096-1.json"
+  },
+  {
+    "vehicleId": "yamaha-tt-r-230-2008-gasolina",
+    "canonicalPath": "/fipe/yamaha/tt-r-230-2008-827064-3/",
+    "bundlePath": "/data/bundles/yamaha/tt-r-230-2008-827064-3.json"
+  },
+  {
+    "vehicleId": "yamaha-tt-r-230-2009-gasolina",
+    "canonicalPath": "/fipe/yamaha/tt-r-230-2009-827064-3/",
+    "bundlePath": "/data/bundles/yamaha/tt-r-230-2009-827064-3.json"
+  },
+  {
+    "vehicleId": "yamaha-tt-r-230-2010-gasolina",
+    "canonicalPath": "/fipe/yamaha/tt-r-230-2010-827064-3/",
+    "bundlePath": "/data/bundles/yamaha/tt-r-230-2010-827064-3.json"
+  },
+  {
+    "vehicleId": "yamaha-tt-r-230-2011-gasolina",
+    "canonicalPath": "/fipe/yamaha/tt-r-230-2011-827064-3/",
+    "bundlePath": "/data/bundles/yamaha/tt-r-230-2011-827064-3.json"
+  },
+  {
+    "vehicleId": "yamaha-tt-r-230-2012-gasolina",
+    "canonicalPath": "/fipe/yamaha/tt-r-230-2012-827064-3/",
+    "bundlePath": "/data/bundles/yamaha/tt-r-230-2012-827064-3.json"
+  },
+  {
+    "vehicleId": "yamaha-tt-r-230-2013-gasolina",
+    "canonicalPath": "/fipe/yamaha/tt-r-230-2013-827064-3/",
+    "bundlePath": "/data/bundles/yamaha/tt-r-230-2013-827064-3.json"
+  },
+  {
+    "vehicleId": "yamaha-tt-r-230-2014-gasolina",
+    "canonicalPath": "/fipe/yamaha/tt-r-230-2014-827064-3/",
+    "bundlePath": "/data/bundles/yamaha/tt-r-230-2014-827064-3.json"
+  },
+  {
+    "vehicleId": "yamaha-tt-r-230-2015-gasolina",
+    "canonicalPath": "/fipe/yamaha/tt-r-230-2015-827064-3/",
+    "bundlePath": "/data/bundles/yamaha/tt-r-230-2015-827064-3.json"
+  },
+  {
+    "vehicleId": "yamaha-tt-r-230-2016-gasolina",
+    "canonicalPath": "/fipe/yamaha/tt-r-230-2016-827064-3/",
+    "bundlePath": "/data/bundles/yamaha/tt-r-230-2016-827064-3.json"
+  },
+  {
+    "vehicleId": "yamaha-tt-r-230-2017-gasolina",
+    "canonicalPath": "/fipe/yamaha/tt-r-230-2017-827064-3/",
+    "bundlePath": "/data/bundles/yamaha/tt-r-230-2017-827064-3.json"
+  },
+  {
+    "vehicleId": "yamaha-tt-r-230-2018-gasolina",
+    "canonicalPath": "/fipe/yamaha/tt-r-230-2018-827064-3/",
+    "bundlePath": "/data/bundles/yamaha/tt-r-230-2018-827064-3.json"
+  },
+  {
+    "vehicleId": "yamaha-tt-r-230-2019-gasolina",
+    "canonicalPath": "/fipe/yamaha/tt-r-230-2019-827064-3/",
+    "bundlePath": "/data/bundles/yamaha/tt-r-230-2019-827064-3.json"
+  },
+  {
+    "vehicleId": "yamaha-tt-r-230-2020-gasolina",
+    "canonicalPath": "/fipe/yamaha/tt-r-230-2020-827064-3/",
+    "bundlePath": "/data/bundles/yamaha/tt-r-230-2020-827064-3.json"
+  },
+  {
+    "vehicleId": "yamaha-tt-r-230-2021-gasolina",
+    "canonicalPath": "/fipe/yamaha/tt-r-230-2021-827064-3/",
+    "bundlePath": "/data/bundles/yamaha/tt-r-230-2021-827064-3.json"
+  },
+  {
+    "vehicleId": "yamaha-tt-r-230-2022-gasolina",
+    "canonicalPath": "/fipe/yamaha/tt-r-230-2022-827064-3/",
+    "bundlePath": "/data/bundles/yamaha/tt-r-230-2022-827064-3.json"
+  },
+  {
+    "vehicleId": "yamaha-tt-r-230-2023-gasolina",
+    "canonicalPath": "/fipe/yamaha/tt-r-230-2023-827064-3/",
+    "bundlePath": "/data/bundles/yamaha/tt-r-230-2023-827064-3.json"
+  },
+  {
+    "vehicleId": "yamaha-tt-r-230-2024-gasolina",
+    "canonicalPath": "/fipe/yamaha/tt-r-230-2024-827064-3/",
+    "bundlePath": "/data/bundles/yamaha/tt-r-230-2024-827064-3.json"
+  },
+  {
+    "vehicleId": "yamaha-tt-r-230-2025-gasolina",
+    "canonicalPath": "/fipe/yamaha/tt-r-230-2025-827064-3/",
+    "bundlePath": "/data/bundles/yamaha/tt-r-230-2025-827064-3.json"
+  },
+  {
+    "vehicleId": "yamaha-tt-r-230-2026-gasolina",
+    "canonicalPath": "/fipe/yamaha/tt-r-230-2026-827064-3/",
+    "bundlePath": "/data/bundles/yamaha/tt-r-230-2026-827064-3.json"
+  },
+  {
+    "vehicleId": "yamaha-tt-r-230-0-gasolina",
+    "canonicalPath": "/fipe/yamaha/tt-r-230-0-827064-3/",
+    "bundlePath": "/data/bundles/yamaha/tt-r-230-0-827064-3.json"
+  },
+  {
+    "vehicleId": "yamaha-v-max-1200-1991-gasolina",
+    "canonicalPath": "/fipe/yamaha/v-max-1200-1991-827023-6/",
+    "bundlePath": "/data/bundles/yamaha/v-max-1200-1991-827023-6.json"
+  },
+  {
+    "vehicleId": "yamaha-v-max-1200-1992-gasolina",
+    "canonicalPath": "/fipe/yamaha/v-max-1200-1992-827023-6/",
+    "bundlePath": "/data/bundles/yamaha/v-max-1200-1992-827023-6.json"
+  },
+  {
+    "vehicleId": "yamaha-v-max-1200-1993-gasolina",
+    "canonicalPath": "/fipe/yamaha/v-max-1200-1993-827023-6/",
+    "bundlePath": "/data/bundles/yamaha/v-max-1200-1993-827023-6.json"
+  },
+  {
+    "vehicleId": "yamaha-v-max-1200-1994-gasolina",
+    "canonicalPath": "/fipe/yamaha/v-max-1200-1994-827023-6/",
+    "bundlePath": "/data/bundles/yamaha/v-max-1200-1994-827023-6.json"
+  },
+  {
+    "vehicleId": "yamaha-v-max-1200-1995-gasolina",
+    "canonicalPath": "/fipe/yamaha/v-max-1200-1995-827023-6/",
+    "bundlePath": "/data/bundles/yamaha/v-max-1200-1995-827023-6.json"
+  },
+  {
+    "vehicleId": "yamaha-v-max-1200-1996-gasolina",
+    "canonicalPath": "/fipe/yamaha/v-max-1200-1996-827023-6/",
+    "bundlePath": "/data/bundles/yamaha/v-max-1200-1996-827023-6.json"
+  },
+  {
+    "vehicleId": "yamaha-v-max-1200-1997-gasolina",
+    "canonicalPath": "/fipe/yamaha/v-max-1200-1997-827023-6/",
+    "bundlePath": "/data/bundles/yamaha/v-max-1200-1997-827023-6.json"
+  },
+  {
+    "vehicleId": "yamaha-v-max-1200-1998-gasolina",
+    "canonicalPath": "/fipe/yamaha/v-max-1200-1998-827023-6/",
+    "bundlePath": "/data/bundles/yamaha/v-max-1200-1998-827023-6.json"
+  },
+  {
+    "vehicleId": "yamaha-v-max-1200-1999-gasolina",
+    "canonicalPath": "/fipe/yamaha/v-max-1200-1999-827023-6/",
+    "bundlePath": "/data/bundles/yamaha/v-max-1200-1999-827023-6.json"
+  },
+  {
+    "vehicleId": "yamaha-v-max-1200-2000-gasolina",
+    "canonicalPath": "/fipe/yamaha/v-max-1200-2000-827023-6/",
+    "bundlePath": "/data/bundles/yamaha/v-max-1200-2000-827023-6.json"
+  },
+  {
+    "vehicleId": "yamaha-v-max-1200-2001-gasolina",
+    "canonicalPath": "/fipe/yamaha/v-max-1200-2001-827023-6/",
+    "bundlePath": "/data/bundles/yamaha/v-max-1200-2001-827023-6.json"
+  },
+  {
+    "vehicleId": "yamaha-v-max-1700-2014-gasolina",
+    "canonicalPath": "/fipe/yamaha/v-max-1700-2014-827090-2/",
+    "bundlePath": "/data/bundles/yamaha/v-max-1700-2014-827090-2.json"
+  },
+  {
+    "vehicleId": "yamaha-v-max-1700-2015-gasolina",
+    "canonicalPath": "/fipe/yamaha/v-max-1700-2015-827090-2/",
+    "bundlePath": "/data/bundles/yamaha/v-max-1700-2015-827090-2.json"
+  },
+  {
+    "vehicleId": "yamaha-wr-200-1994-gasolina",
+    "canonicalPath": "/fipe/yamaha/wr-200-1994-827024-4/",
+    "bundlePath": "/data/bundles/yamaha/wr-200-1994-827024-4.json"
+  },
+  {
+    "vehicleId": "yamaha-wr-200-1995-gasolina",
+    "canonicalPath": "/fipe/yamaha/wr-200-1995-827024-4/",
+    "bundlePath": "/data/bundles/yamaha/wr-200-1995-827024-4.json"
+  },
+  {
+    "vehicleId": "yamaha-wr-200-1996-gasolina",
+    "canonicalPath": "/fipe/yamaha/wr-200-1996-827024-4/",
+    "bundlePath": "/data/bundles/yamaha/wr-200-1996-827024-4.json"
+  },
+  {
+    "vehicleId": "yamaha-wr-250-f-2024-gasolina",
+    "canonicalPath": "/fipe/yamaha/wr-250-f-2024-827139-9/",
+    "bundlePath": "/data/bundles/yamaha/wr-250-f-2024-827139-9.json"
+  },
+  {
+    "vehicleId": "yamaha-wr-250-f-2025-gasolina",
+    "canonicalPath": "/fipe/yamaha/wr-250-f-2025-827139-9/",
+    "bundlePath": "/data/bundles/yamaha/wr-250-f-2025-827139-9.json"
+  },
+  {
+    "vehicleId": "yamaha-wr-250-f-0-gasolina",
+    "canonicalPath": "/fipe/yamaha/wr-250-f-0-827139-9/",
+    "bundlePath": "/data/bundles/yamaha/wr-250-f-0-827139-9.json"
+  },
+  {
+    "vehicleId": "yamaha-wr-426-f-2001-gasolina",
+    "canonicalPath": "/fipe/yamaha/wr-426-f-2001-827043-0/",
+    "bundlePath": "/data/bundles/yamaha/wr-426-f-2001-827043-0.json"
+  },
+  {
+    "vehicleId": "yamaha-wr-450-f-2018-gasolina",
+    "canonicalPath": "/fipe/yamaha/wr-450-f-2018-827120-8/",
+    "bundlePath": "/data/bundles/yamaha/wr-450-f-2018-827120-8.json"
+  },
+  {
+    "vehicleId": "yamaha-wr-450-f-2021-gasolina",
+    "canonicalPath": "/fipe/yamaha/wr-450-f-2021-827120-8/",
+    "bundlePath": "/data/bundles/yamaha/wr-450-f-2021-827120-8.json"
+  },
+  {
+    "vehicleId": "yamaha-wr-450-f-2022-gasolina",
+    "canonicalPath": "/fipe/yamaha/wr-450-f-2022-827120-8/",
+    "bundlePath": "/data/bundles/yamaha/wr-450-f-2022-827120-8.json"
+  },
+  {
+    "vehicleId": "yamaha-wr-450-f-2023-gasolina",
+    "canonicalPath": "/fipe/yamaha/wr-450-f-2023-827120-8/",
+    "bundlePath": "/data/bundles/yamaha/wr-450-f-2023-827120-8.json"
+  },
+  {
+    "vehicleId": "yamaha-wr-450-f-2024-gasolina",
+    "canonicalPath": "/fipe/yamaha/wr-450-f-2024-827120-8/",
+    "bundlePath": "/data/bundles/yamaha/wr-450-f-2024-827120-8.json"
+  },
+  {
+    "vehicleId": "yamaha-wr-450-f-2025-gasolina",
+    "canonicalPath": "/fipe/yamaha/wr-450-f-2025-827120-8/",
+    "bundlePath": "/data/bundles/yamaha/wr-450-f-2025-827120-8.json"
+  },
+  {
+    "vehicleId": "yamaha-wr-450-f-0-gasolina",
+    "canonicalPath": "/fipe/yamaha/wr-450-f-0-827120-8/",
+    "bundlePath": "/data/bundles/yamaha/wr-450-f-0-827120-8.json"
+  },
+  {
+    "vehicleId": "yamaha-xj-600-1992-gasolina",
+    "canonicalPath": "/fipe/yamaha/xj-600-1992-827025-2/",
+    "bundlePath": "/data/bundles/yamaha/xj-600-1992-827025-2.json"
+  },
+  {
+    "vehicleId": "yamaha-xj6-f-2010-gasolina",
+    "canonicalPath": "/fipe/yamaha/xj6-f-2010-827077-5/",
+    "bundlePath": "/data/bundles/yamaha/xj6-f-2010-827077-5.json"
+  },
+  {
+    "vehicleId": "yamaha-xj6-f-2011-gasolina",
+    "canonicalPath": "/fipe/yamaha/xj6-f-2011-827077-5/",
+    "bundlePath": "/data/bundles/yamaha/xj6-f-2011-827077-5.json"
+  },
+  {
+    "vehicleId": "yamaha-xj6-f-2012-gasolina",
+    "canonicalPath": "/fipe/yamaha/xj6-f-2012-827077-5/",
+    "bundlePath": "/data/bundles/yamaha/xj6-f-2012-827077-5.json"
+  },
+  {
+    "vehicleId": "yamaha-xj6-f-2013-gasolina",
+    "canonicalPath": "/fipe/yamaha/xj6-f-2013-827077-5/",
+    "bundlePath": "/data/bundles/yamaha/xj6-f-2013-827077-5.json"
+  },
+  {
+    "vehicleId": "yamaha-xj6-f-2014-gasolina",
+    "canonicalPath": "/fipe/yamaha/xj6-f-2014-827077-5/",
+    "bundlePath": "/data/bundles/yamaha/xj6-f-2014-827077-5.json"
+  },
+  {
+    "vehicleId": "yamaha-xj6-f-2015-gasolina",
+    "canonicalPath": "/fipe/yamaha/xj6-f-2015-827077-5/",
+    "bundlePath": "/data/bundles/yamaha/xj6-f-2015-827077-5.json"
+  },
+  {
+    "vehicleId": "yamaha-xj6-f-2016-gasolina",
+    "canonicalPath": "/fipe/yamaha/xj6-f-2016-827077-5/",
+    "bundlePath": "/data/bundles/yamaha/xj6-f-2016-827077-5.json"
+  },
+  {
+    "vehicleId": "yamaha-xj6-f-2017-gasolina",
+    "canonicalPath": "/fipe/yamaha/xj6-f-2017-827077-5/",
+    "bundlePath": "/data/bundles/yamaha/xj6-f-2017-827077-5.json"
+  },
+  {
+    "vehicleId": "yamaha-xj6-n-sp-2015-gasolina",
+    "canonicalPath": "/fipe/yamaha/xj6-n-sp-2015-827091-0/",
+    "bundlePath": "/data/bundles/yamaha/xj6-n-sp-2015-827091-0.json"
+  },
+  {
+    "vehicleId": "yamaha-xj6-n-sp-2016-gasolina",
+    "canonicalPath": "/fipe/yamaha/xj6-n-sp-2016-827091-0/",
+    "bundlePath": "/data/bundles/yamaha/xj6-n-sp-2016-827091-0.json"
+  },
+  {
+    "vehicleId": "yamaha-xj6-n-abs-2010-gasolina",
+    "canonicalPath": "/fipe/yamaha/xj6-n-abs-2010-827076-7/",
+    "bundlePath": "/data/bundles/yamaha/xj6-n-abs-2010-827076-7.json"
+  },
+  {
+    "vehicleId": "yamaha-xj6-n-abs-2011-gasolina",
+    "canonicalPath": "/fipe/yamaha/xj6-n-abs-2011-827076-7/",
+    "bundlePath": "/data/bundles/yamaha/xj6-n-abs-2011-827076-7.json"
+  },
+  {
+    "vehicleId": "yamaha-xj6-n-abs-2012-gasolina",
+    "canonicalPath": "/fipe/yamaha/xj6-n-abs-2012-827076-7/",
+    "bundlePath": "/data/bundles/yamaha/xj6-n-abs-2012-827076-7.json"
+  },
+  {
+    "vehicleId": "yamaha-xj6-n-abs-2013-gasolina",
+    "canonicalPath": "/fipe/yamaha/xj6-n-abs-2013-827076-7/",
+    "bundlePath": "/data/bundles/yamaha/xj6-n-abs-2013-827076-7.json"
+  },
+  {
+    "vehicleId": "yamaha-xj6-n-abs-2014-gasolina",
+    "canonicalPath": "/fipe/yamaha/xj6-n-abs-2014-827076-7/",
+    "bundlePath": "/data/bundles/yamaha/xj6-n-abs-2014-827076-7.json"
+  },
+  {
+    "vehicleId": "yamaha-xj6-n-abs-2015-gasolina",
+    "canonicalPath": "/fipe/yamaha/xj6-n-abs-2015-827076-7/",
+    "bundlePath": "/data/bundles/yamaha/xj6-n-abs-2015-827076-7.json"
+  },
+  {
+    "vehicleId": "yamaha-xj6-n-abs-2016-gasolina",
+    "canonicalPath": "/fipe/yamaha/xj6-n-abs-2016-827076-7/",
+    "bundlePath": "/data/bundles/yamaha/xj6-n-abs-2016-827076-7.json"
+  },
+  {
+    "vehicleId": "yamaha-xj6-n-abs-2017-gasolina",
+    "canonicalPath": "/fipe/yamaha/xj6-n-abs-2017-827076-7/",
+    "bundlePath": "/data/bundles/yamaha/xj6-n-abs-2017-827076-7.json"
+  },
+  {
+    "vehicleId": "yamaha-xj6-n-abs-2018-gasolina",
+    "canonicalPath": "/fipe/yamaha/xj6-n-abs-2018-827076-7/",
+    "bundlePath": "/data/bundles/yamaha/xj6-n-abs-2018-827076-7.json"
+  },
+  {
+    "vehicleId": "yamaha-xj6-n-abs-2019-gasolina",
+    "canonicalPath": "/fipe/yamaha/xj6-n-abs-2019-827076-7/",
+    "bundlePath": "/data/bundles/yamaha/xj6-n-abs-2019-827076-7.json"
+  },
+  {
+    "vehicleId": "yamaha-xjr-1200-1995-gasolina",
+    "canonicalPath": "/fipe/yamaha/xjr-1200-1995-827026-0/",
+    "bundlePath": "/data/bundles/yamaha/xjr-1200-1995-827026-0.json"
+  },
+  {
+    "vehicleId": "yamaha-xmax-250-abs-2020-gasolina",
+    "canonicalPath": "/fipe/yamaha/xmax-250-abs-2020-827113-5/",
+    "bundlePath": "/data/bundles/yamaha/xmax-250-abs-2020-827113-5.json"
+  },
+  {
+    "vehicleId": "yamaha-xmax-250-abs-2021-gasolina",
+    "canonicalPath": "/fipe/yamaha/xmax-250-abs-2021-827113-5/",
+    "bundlePath": "/data/bundles/yamaha/xmax-250-abs-2021-827113-5.json"
+  },
+  {
+    "vehicleId": "yamaha-xmax-250-abs-2022-gasolina",
+    "canonicalPath": "/fipe/yamaha/xmax-250-abs-2022-827113-5/",
+    "bundlePath": "/data/bundles/yamaha/xmax-250-abs-2022-827113-5.json"
+  },
+  {
+    "vehicleId": "yamaha-xmax-250-abs-2023-gasolina",
+    "canonicalPath": "/fipe/yamaha/xmax-250-abs-2023-827113-5/",
+    "bundlePath": "/data/bundles/yamaha/xmax-250-abs-2023-827113-5.json"
+  },
+  {
+    "vehicleId": "yamaha-xmax-250-abs-2024-gasolina",
+    "canonicalPath": "/fipe/yamaha/xmax-250-abs-2024-827113-5/",
+    "bundlePath": "/data/bundles/yamaha/xmax-250-abs-2024-827113-5.json"
+  },
+  {
+    "vehicleId": "yamaha-xmax-250-abs-2025-gasolina",
+    "canonicalPath": "/fipe/yamaha/xmax-250-abs-2025-827113-5/",
+    "bundlePath": "/data/bundles/yamaha/xmax-250-abs-2025-827113-5.json"
+  },
+  {
+    "vehicleId": "yamaha-xmax-250-abs-darth-vader-2022-gasolina",
+    "canonicalPath": "/fipe/yamaha/xmax-250-abs-darth-vader-2022-827122-4/",
+    "bundlePath": "/data/bundles/yamaha/xmax-250-abs-darth-vader-2022-827122-4.json"
+  },
+  {
+    "vehicleId": "yamaha-xmax-250-connected-2025-gasolina",
+    "canonicalPath": "/fipe/yamaha/xmax-250-connected-2025-827132-1/",
+    "bundlePath": "/data/bundles/yamaha/xmax-250-connected-2025-827132-1.json"
+  },
+  {
+    "vehicleId": "yamaha-xmax-250-connected-0-gasolina",
+    "canonicalPath": "/fipe/yamaha/xmax-250-connected-0-827132-1/",
+    "bundlePath": "/data/bundles/yamaha/xmax-250-connected-0-827132-1.json"
+  },
+  {
+    "vehicleId": "yamaha-xmax-300-connected-2026-gasolina",
+    "canonicalPath": "/fipe/yamaha/xmax-300-connected-2026-827142-9/",
+    "bundlePath": "/data/bundles/yamaha/xmax-300-connected-2026-827142-9.json"
+  },
+  {
+    "vehicleId": "yamaha-xmax-300-connected-0-gasolina",
+    "canonicalPath": "/fipe/yamaha/xmax-300-connected-0-827142-9/",
+    "bundlePath": "/data/bundles/yamaha/xmax-300-connected-0-827142-9.json"
+  },
+  {
+    "vehicleId": "yamaha-xt-1200-z-super-tenere-dx-2011-gasolina",
+    "canonicalPath": "/fipe/yamaha/xt-1200-z-super-tenere-dx-2011-827081-3/",
+    "bundlePath": "/data/bundles/yamaha/xt-1200-z-super-tenere-dx-2011-827081-3.json"
+  },
+  {
+    "vehicleId": "yamaha-xt-1200-z-super-tenere-dx-2012-gasolina",
+    "canonicalPath": "/fipe/yamaha/xt-1200-z-super-tenere-dx-2012-827081-3/",
+    "bundlePath": "/data/bundles/yamaha/xt-1200-z-super-tenere-dx-2012-827081-3.json"
+  },
+  {
+    "vehicleId": "yamaha-xt-1200-z-super-tenere-dx-2013-gasolina",
+    "canonicalPath": "/fipe/yamaha/xt-1200-z-super-tenere-dx-2013-827081-3/",
+    "bundlePath": "/data/bundles/yamaha/xt-1200-z-super-tenere-dx-2013-827081-3.json"
+  },
+  {
+    "vehicleId": "yamaha-xt-1200-z-super-tenere-dx-2014-gasolina",
+    "canonicalPath": "/fipe/yamaha/xt-1200-z-super-tenere-dx-2014-827081-3/",
+    "bundlePath": "/data/bundles/yamaha/xt-1200-z-super-tenere-dx-2014-827081-3.json"
+  },
+  {
+    "vehicleId": "yamaha-xt-1200-z-super-tenere-dx-2015-gasolina",
+    "canonicalPath": "/fipe/yamaha/xt-1200-z-super-tenere-dx-2015-827081-3/",
+    "bundlePath": "/data/bundles/yamaha/xt-1200-z-super-tenere-dx-2015-827081-3.json"
+  },
+  {
+    "vehicleId": "yamaha-xt-1200-z-super-tenere-dx-2016-gasolina",
+    "canonicalPath": "/fipe/yamaha/xt-1200-z-super-tenere-dx-2016-827081-3/",
+    "bundlePath": "/data/bundles/yamaha/xt-1200-z-super-tenere-dx-2016-827081-3.json"
+  },
+  {
+    "vehicleId": "yamaha-xt-1200-z-super-tenere-dx-2017-gasolina",
+    "canonicalPath": "/fipe/yamaha/xt-1200-z-super-tenere-dx-2017-827081-3/",
+    "bundlePath": "/data/bundles/yamaha/xt-1200-z-super-tenere-dx-2017-827081-3.json"
+  },
+  {
+    "vehicleId": "yamaha-xt-1200-z-super-tenere-dx-2018-gasolina",
+    "canonicalPath": "/fipe/yamaha/xt-1200-z-super-tenere-dx-2018-827081-3/",
+    "bundlePath": "/data/bundles/yamaha/xt-1200-z-super-tenere-dx-2018-827081-3.json"
+  },
+  {
+    "vehicleId": "yamaha-xt-1200-z-super-tenere-dx-2019-gasolina",
+    "canonicalPath": "/fipe/yamaha/xt-1200-z-super-tenere-dx-2019-827081-3/",
+    "bundlePath": "/data/bundles/yamaha/xt-1200-z-super-tenere-dx-2019-827081-3.json"
+  },
+  {
+    "vehicleId": "yamaha-xt-1200-z-super-tenere-dx-2020-gasolina",
+    "canonicalPath": "/fipe/yamaha/xt-1200-z-super-tenere-dx-2020-827081-3/",
+    "bundlePath": "/data/bundles/yamaha/xt-1200-z-super-tenere-dx-2020-827081-3.json"
+  },
+  {
+    "vehicleId": "yamaha-xt-1200-z-s-tenere-60th-aniniversary-2017-gasolina",
+    "canonicalPath": "/fipe/yamaha/xt-1200-z-s-tenere-60th-aniniversary-2017-827101-1/",
+    "bundlePath": "/data/bundles/yamaha/xt-1200-z-s-tenere-60th-aniniversary-2017-827101-1.json"
+  },
+  {
+    "vehicleId": "yamaha-xt-225-1996-gasolina",
+    "canonicalPath": "/fipe/yamaha/xt-225-1996-827027-9/",
+    "bundlePath": "/data/bundles/yamaha/xt-225-1996-827027-9.json"
+  },
+  {
+    "vehicleId": "yamaha-xt-225-1997-gasolina",
+    "canonicalPath": "/fipe/yamaha/xt-225-1997-827027-9/",
+    "bundlePath": "/data/bundles/yamaha/xt-225-1997-827027-9.json"
+  },
+  {
+    "vehicleId": "yamaha-xt-225-1998-gasolina",
+    "canonicalPath": "/fipe/yamaha/xt-225-1998-827027-9/",
+    "bundlePath": "/data/bundles/yamaha/xt-225-1998-827027-9.json"
+  },
+  {
+    "vehicleId": "yamaha-xt-225-1999-gasolina",
+    "canonicalPath": "/fipe/yamaha/xt-225-1999-827027-9/",
+    "bundlePath": "/data/bundles/yamaha/xt-225-1999-827027-9.json"
+  },
+  {
+    "vehicleId": "yamaha-xt-225-2000-gasolina",
+    "canonicalPath": "/fipe/yamaha/xt-225-2000-827027-9/",
+    "bundlePath": "/data/bundles/yamaha/xt-225-2000-827027-9.json"
+  },
+  {
+    "vehicleId": "yamaha-xt-225-2001-gasolina",
+    "canonicalPath": "/fipe/yamaha/xt-225-2001-827027-9/",
+    "bundlePath": "/data/bundles/yamaha/xt-225-2001-827027-9.json"
+  },
+  {
+    "vehicleId": "yamaha-xt-225-2002-gasolina",
+    "canonicalPath": "/fipe/yamaha/xt-225-2002-827027-9/",
+    "bundlePath": "/data/bundles/yamaha/xt-225-2002-827027-9.json"
+  },
+  {
+    "vehicleId": "yamaha-xt-225-2003-gasolina",
+    "canonicalPath": "/fipe/yamaha/xt-225-2003-827027-9/",
+    "bundlePath": "/data/bundles/yamaha/xt-225-2003-827027-9.json"
+  },
+  {
+    "vehicleId": "yamaha-xt-225-2004-gasolina",
+    "canonicalPath": "/fipe/yamaha/xt-225-2004-827027-9/",
+    "bundlePath": "/data/bundles/yamaha/xt-225-2004-827027-9.json"
+  },
+  {
+    "vehicleId": "yamaha-xt-225-2005-gasolina",
+    "canonicalPath": "/fipe/yamaha/xt-225-2005-827027-9/",
+    "bundlePath": "/data/bundles/yamaha/xt-225-2005-827027-9.json"
+  },
+  {
+    "vehicleId": "yamaha-xt-225-2006-gasolina",
+    "canonicalPath": "/fipe/yamaha/xt-225-2006-827027-9/",
+    "bundlePath": "/data/bundles/yamaha/xt-225-2006-827027-9.json"
+  },
+  {
+    "vehicleId": "yamaha-xt-600-e-1993-gasolina",
+    "canonicalPath": "/fipe/yamaha/xt-600-e-1993-827028-7/",
+    "bundlePath": "/data/bundles/yamaha/xt-600-e-1993-827028-7.json"
+  },
+  {
+    "vehicleId": "yamaha-xt-600-e-1994-gasolina",
+    "canonicalPath": "/fipe/yamaha/xt-600-e-1994-827028-7/",
+    "bundlePath": "/data/bundles/yamaha/xt-600-e-1994-827028-7.json"
+  },
+  {
+    "vehicleId": "yamaha-xt-600-e-1995-gasolina",
+    "canonicalPath": "/fipe/yamaha/xt-600-e-1995-827028-7/",
+    "bundlePath": "/data/bundles/yamaha/xt-600-e-1995-827028-7.json"
+  },
+  {
+    "vehicleId": "yamaha-xt-600-e-1996-gasolina",
+    "canonicalPath": "/fipe/yamaha/xt-600-e-1996-827028-7/",
+    "bundlePath": "/data/bundles/yamaha/xt-600-e-1996-827028-7.json"
+  },
+  {
+    "vehicleId": "yamaha-xt-600-e-1997-gasolina",
+    "canonicalPath": "/fipe/yamaha/xt-600-e-1997-827028-7/",
+    "bundlePath": "/data/bundles/yamaha/xt-600-e-1997-827028-7.json"
+  },
+  {
+    "vehicleId": "yamaha-xt-600-e-1998-gasolina",
+    "canonicalPath": "/fipe/yamaha/xt-600-e-1998-827028-7/",
+    "bundlePath": "/data/bundles/yamaha/xt-600-e-1998-827028-7.json"
+  },
+  {
+    "vehicleId": "yamaha-xt-600-e-1999-gasolina",
+    "canonicalPath": "/fipe/yamaha/xt-600-e-1999-827028-7/",
+    "bundlePath": "/data/bundles/yamaha/xt-600-e-1999-827028-7.json"
+  },
+  {
+    "vehicleId": "yamaha-xt-600-e-2000-gasolina",
+    "canonicalPath": "/fipe/yamaha/xt-600-e-2000-827028-7/",
+    "bundlePath": "/data/bundles/yamaha/xt-600-e-2000-827028-7.json"
+  },
+  {
+    "vehicleId": "yamaha-xt-600-e-2001-gasolina",
+    "canonicalPath": "/fipe/yamaha/xt-600-e-2001-827028-7/",
+    "bundlePath": "/data/bundles/yamaha/xt-600-e-2001-827028-7.json"
+  },
+  {
+    "vehicleId": "yamaha-xt-600-e-2002-gasolina",
+    "canonicalPath": "/fipe/yamaha/xt-600-e-2002-827028-7/",
+    "bundlePath": "/data/bundles/yamaha/xt-600-e-2002-827028-7.json"
+  },
+  {
+    "vehicleId": "yamaha-xt-600-e-2003-gasolina",
+    "canonicalPath": "/fipe/yamaha/xt-600-e-2003-827028-7/",
+    "bundlePath": "/data/bundles/yamaha/xt-600-e-2003-827028-7.json"
+  },
+  {
+    "vehicleId": "yamaha-xt-600-e-2004-gasolina",
+    "canonicalPath": "/fipe/yamaha/xt-600-e-2004-827028-7/",
+    "bundlePath": "/data/bundles/yamaha/xt-600-e-2004-827028-7.json"
+  },
+  {
+    "vehicleId": "yamaha-xt-600-e-2005-gasolina",
+    "canonicalPath": "/fipe/yamaha/xt-600-e-2005-827028-7/",
+    "bundlePath": "/data/bundles/yamaha/xt-600-e-2005-827028-7.json"
+  },
+  {
+    "vehicleId": "yamaha-xt-600-z-tenere-1990-gasolina",
+    "canonicalPath": "/fipe/yamaha/xt-600-z-tenere-1990-827029-5/",
+    "bundlePath": "/data/bundles/yamaha/xt-600-z-tenere-1990-827029-5.json"
+  },
+  {
+    "vehicleId": "yamaha-xt-600-z-tenere-1991-gasolina",
+    "canonicalPath": "/fipe/yamaha/xt-600-z-tenere-1991-827029-5/",
+    "bundlePath": "/data/bundles/yamaha/xt-600-z-tenere-1991-827029-5.json"
+  },
+  {
+    "vehicleId": "yamaha-xt-600-z-tenere-1992-gasolina",
+    "canonicalPath": "/fipe/yamaha/xt-600-z-tenere-1992-827029-5/",
+    "bundlePath": "/data/bundles/yamaha/xt-600-z-tenere-1992-827029-5.json"
+  },
+  {
+    "vehicleId": "yamaha-xt-600-z-tenere-1993-gasolina",
+    "canonicalPath": "/fipe/yamaha/xt-600-z-tenere-1993-827029-5/",
+    "bundlePath": "/data/bundles/yamaha/xt-600-z-tenere-1993-827029-5.json"
+  },
+  {
+    "vehicleId": "yamaha-xt-660-r-2005-gasolina",
+    "canonicalPath": "/fipe/yamaha/xt-660-r-2005-827050-3/",
+    "bundlePath": "/data/bundles/yamaha/xt-660-r-2005-827050-3.json"
+  },
+  {
+    "vehicleId": "yamaha-xt-660-r-2006-gasolina",
+    "canonicalPath": "/fipe/yamaha/xt-660-r-2006-827050-3/",
+    "bundlePath": "/data/bundles/yamaha/xt-660-r-2006-827050-3.json"
+  },
+  {
+    "vehicleId": "yamaha-xt-660-r-2007-gasolina",
+    "canonicalPath": "/fipe/yamaha/xt-660-r-2007-827050-3/",
+    "bundlePath": "/data/bundles/yamaha/xt-660-r-2007-827050-3.json"
+  },
+  {
+    "vehicleId": "yamaha-xt-660-r-2008-gasolina",
+    "canonicalPath": "/fipe/yamaha/xt-660-r-2008-827050-3/",
+    "bundlePath": "/data/bundles/yamaha/xt-660-r-2008-827050-3.json"
+  },
+  {
+    "vehicleId": "yamaha-xt-660-r-2009-gasolina",
+    "canonicalPath": "/fipe/yamaha/xt-660-r-2009-827050-3/",
+    "bundlePath": "/data/bundles/yamaha/xt-660-r-2009-827050-3.json"
+  },
+  {
+    "vehicleId": "yamaha-xt-660-r-2010-gasolina",
+    "canonicalPath": "/fipe/yamaha/xt-660-r-2010-827050-3/",
+    "bundlePath": "/data/bundles/yamaha/xt-660-r-2010-827050-3.json"
+  },
+  {
+    "vehicleId": "yamaha-xt-660-r-2011-gasolina",
+    "canonicalPath": "/fipe/yamaha/xt-660-r-2011-827050-3/",
+    "bundlePath": "/data/bundles/yamaha/xt-660-r-2011-827050-3.json"
+  },
+  {
+    "vehicleId": "yamaha-xt-660-r-2012-gasolina",
+    "canonicalPath": "/fipe/yamaha/xt-660-r-2012-827050-3/",
+    "bundlePath": "/data/bundles/yamaha/xt-660-r-2012-827050-3.json"
+  },
+  {
+    "vehicleId": "yamaha-xt-660-r-2013-gasolina",
+    "canonicalPath": "/fipe/yamaha/xt-660-r-2013-827050-3/",
+    "bundlePath": "/data/bundles/yamaha/xt-660-r-2013-827050-3.json"
+  },
+  {
+    "vehicleId": "yamaha-xt-660-r-2014-gasolina",
+    "canonicalPath": "/fipe/yamaha/xt-660-r-2014-827050-3/",
+    "bundlePath": "/data/bundles/yamaha/xt-660-r-2014-827050-3.json"
+  },
+  {
+    "vehicleId": "yamaha-xt-660-r-2015-gasolina",
+    "canonicalPath": "/fipe/yamaha/xt-660-r-2015-827050-3/",
+    "bundlePath": "/data/bundles/yamaha/xt-660-r-2015-827050-3.json"
+  },
+  {
+    "vehicleId": "yamaha-xt-660-r-2016-gasolina",
+    "canonicalPath": "/fipe/yamaha/xt-660-r-2016-827050-3/",
+    "bundlePath": "/data/bundles/yamaha/xt-660-r-2016-827050-3.json"
+  },
+  {
+    "vehicleId": "yamaha-xt-660-r-2017-gasolina",
+    "canonicalPath": "/fipe/yamaha/xt-660-r-2017-827050-3/",
+    "bundlePath": "/data/bundles/yamaha/xt-660-r-2017-827050-3.json"
+  },
+  {
+    "vehicleId": "yamaha-xt-660-r-2018-gasolina",
+    "canonicalPath": "/fipe/yamaha/xt-660-r-2018-827050-3/",
+    "bundlePath": "/data/bundles/yamaha/xt-660-r-2018-827050-3.json"
+  },
+  {
+    "vehicleId": "yamaha-xt-660z-tenere-2011-gasolina",
+    "canonicalPath": "/fipe/yamaha/xt-660z-tenere-2011-827083-0/",
+    "bundlePath": "/data/bundles/yamaha/xt-660z-tenere-2011-827083-0.json"
+  },
+  {
+    "vehicleId": "yamaha-xt-660z-tenere-2012-gasolina",
+    "canonicalPath": "/fipe/yamaha/xt-660z-tenere-2012-827083-0/",
+    "bundlePath": "/data/bundles/yamaha/xt-660z-tenere-2012-827083-0.json"
+  },
+  {
+    "vehicleId": "yamaha-xt-660z-tenere-2013-gasolina",
+    "canonicalPath": "/fipe/yamaha/xt-660z-tenere-2013-827083-0/",
+    "bundlePath": "/data/bundles/yamaha/xt-660z-tenere-2013-827083-0.json"
+  },
+  {
+    "vehicleId": "yamaha-xt-660z-tenere-2014-gasolina",
+    "canonicalPath": "/fipe/yamaha/xt-660z-tenere-2014-827083-0/",
+    "bundlePath": "/data/bundles/yamaha/xt-660z-tenere-2014-827083-0.json"
+  },
+  {
+    "vehicleId": "yamaha-xt-660z-tenere-2015-gasolina",
+    "canonicalPath": "/fipe/yamaha/xt-660z-tenere-2015-827083-0/",
+    "bundlePath": "/data/bundles/yamaha/xt-660z-tenere-2015-827083-0.json"
+  },
+  {
+    "vehicleId": "yamaha-xt-660z-tenere-2016-gasolina",
+    "canonicalPath": "/fipe/yamaha/xt-660z-tenere-2016-827083-0/",
+    "bundlePath": "/data/bundles/yamaha/xt-660z-tenere-2016-827083-0.json"
+  },
+  {
+    "vehicleId": "yamaha-xt-660z-tenere-2017-gasolina",
+    "canonicalPath": "/fipe/yamaha/xt-660z-tenere-2017-827083-0/",
+    "bundlePath": "/data/bundles/yamaha/xt-660z-tenere-2017-827083-0.json"
+  },
+  {
+    "vehicleId": "yamaha-xtz-125-e-2003-gasolina",
+    "canonicalPath": "/fipe/yamaha/xtz-125-e-2003-827047-3/",
+    "bundlePath": "/data/bundles/yamaha/xtz-125-e-2003-827047-3.json"
+  },
+  {
+    "vehicleId": "yamaha-xtz-125-e-2004-gasolina",
+    "canonicalPath": "/fipe/yamaha/xtz-125-e-2004-827047-3/",
+    "bundlePath": "/data/bundles/yamaha/xtz-125-e-2004-827047-3.json"
+  },
+  {
+    "vehicleId": "yamaha-xtz-125-e-2005-gasolina",
+    "canonicalPath": "/fipe/yamaha/xtz-125-e-2005-827047-3/",
+    "bundlePath": "/data/bundles/yamaha/xtz-125-e-2005-827047-3.json"
+  },
+  {
+    "vehicleId": "yamaha-xtz-125-e-2006-gasolina",
+    "canonicalPath": "/fipe/yamaha/xtz-125-e-2006-827047-3/",
+    "bundlePath": "/data/bundles/yamaha/xtz-125-e-2006-827047-3.json"
+  },
+  {
+    "vehicleId": "yamaha-xtz-125-e-2007-gasolina",
+    "canonicalPath": "/fipe/yamaha/xtz-125-e-2007-827047-3/",
+    "bundlePath": "/data/bundles/yamaha/xtz-125-e-2007-827047-3.json"
+  },
+  {
+    "vehicleId": "yamaha-xtz-125-e-2008-gasolina",
+    "canonicalPath": "/fipe/yamaha/xtz-125-e-2008-827047-3/",
+    "bundlePath": "/data/bundles/yamaha/xtz-125-e-2008-827047-3.json"
+  },
+  {
+    "vehicleId": "yamaha-xtz-125-e-2009-gasolina",
+    "canonicalPath": "/fipe/yamaha/xtz-125-e-2009-827047-3/",
+    "bundlePath": "/data/bundles/yamaha/xtz-125-e-2009-827047-3.json"
+  },
+  {
+    "vehicleId": "yamaha-xtz-125-e-2010-gasolina",
+    "canonicalPath": "/fipe/yamaha/xtz-125-e-2010-827047-3/",
+    "bundlePath": "/data/bundles/yamaha/xtz-125-e-2010-827047-3.json"
+  },
+  {
+    "vehicleId": "yamaha-xtz-125-e-2011-gasolina",
+    "canonicalPath": "/fipe/yamaha/xtz-125-e-2011-827047-3/",
+    "bundlePath": "/data/bundles/yamaha/xtz-125-e-2011-827047-3.json"
+  },
+  {
+    "vehicleId": "yamaha-xtz-125-e-2012-gasolina",
+    "canonicalPath": "/fipe/yamaha/xtz-125-e-2012-827047-3/",
+    "bundlePath": "/data/bundles/yamaha/xtz-125-e-2012-827047-3.json"
+  },
+  {
+    "vehicleId": "yamaha-xtz-125-e-2013-gasolina",
+    "canonicalPath": "/fipe/yamaha/xtz-125-e-2013-827047-3/",
+    "bundlePath": "/data/bundles/yamaha/xtz-125-e-2013-827047-3.json"
+  },
+  {
+    "vehicleId": "yamaha-xtz-125-e-2014-gasolina",
+    "canonicalPath": "/fipe/yamaha/xtz-125-e-2014-827047-3/",
+    "bundlePath": "/data/bundles/yamaha/xtz-125-e-2014-827047-3.json"
+  },
+  {
+    "vehicleId": "yamaha-xtz-125-e-2015-gasolina",
+    "canonicalPath": "/fipe/yamaha/xtz-125-e-2015-827047-3/",
+    "bundlePath": "/data/bundles/yamaha/xtz-125-e-2015-827047-3.json"
+  },
+  {
+    "vehicleId": "yamaha-xtz-125-e-2016-gasolina",
+    "canonicalPath": "/fipe/yamaha/xtz-125-e-2016-827047-3/",
+    "bundlePath": "/data/bundles/yamaha/xtz-125-e-2016-827047-3.json"
+  },
+  {
+    "vehicleId": "yamaha-xtz-125-k-2003-gasolina",
+    "canonicalPath": "/fipe/yamaha/xtz-125-k-2003-827046-5/",
+    "bundlePath": "/data/bundles/yamaha/xtz-125-k-2003-827046-5.json"
+  },
+  {
+    "vehicleId": "yamaha-xtz-125-k-2004-gasolina",
+    "canonicalPath": "/fipe/yamaha/xtz-125-k-2004-827046-5/",
+    "bundlePath": "/data/bundles/yamaha/xtz-125-k-2004-827046-5.json"
+  },
+  {
+    "vehicleId": "yamaha-xtz-125-k-2005-gasolina",
+    "canonicalPath": "/fipe/yamaha/xtz-125-k-2005-827046-5/",
+    "bundlePath": "/data/bundles/yamaha/xtz-125-k-2005-827046-5.json"
+  },
+  {
+    "vehicleId": "yamaha-xtz-125-k-2006-gasolina",
+    "canonicalPath": "/fipe/yamaha/xtz-125-k-2006-827046-5/",
+    "bundlePath": "/data/bundles/yamaha/xtz-125-k-2006-827046-5.json"
+  },
+  {
+    "vehicleId": "yamaha-xtz-125-k-2007-gasolina",
+    "canonicalPath": "/fipe/yamaha/xtz-125-k-2007-827046-5/",
+    "bundlePath": "/data/bundles/yamaha/xtz-125-k-2007-827046-5.json"
+  },
+  {
+    "vehicleId": "yamaha-xtz-125-k-2008-gasolina",
+    "canonicalPath": "/fipe/yamaha/xtz-125-k-2008-827046-5/",
+    "bundlePath": "/data/bundles/yamaha/xtz-125-k-2008-827046-5.json"
+  },
+  {
+    "vehicleId": "yamaha-xtz-125-k-2009-gasolina",
+    "canonicalPath": "/fipe/yamaha/xtz-125-k-2009-827046-5/",
+    "bundlePath": "/data/bundles/yamaha/xtz-125-k-2009-827046-5.json"
+  },
+  {
+    "vehicleId": "yamaha-xtz-125-k-2010-gasolina",
+    "canonicalPath": "/fipe/yamaha/xtz-125-k-2010-827046-5/",
+    "bundlePath": "/data/bundles/yamaha/xtz-125-k-2010-827046-5.json"
+  },
+  {
+    "vehicleId": "yamaha-xtz-125-k-2011-gasolina",
+    "canonicalPath": "/fipe/yamaha/xtz-125-k-2011-827046-5/",
+    "bundlePath": "/data/bundles/yamaha/xtz-125-k-2011-827046-5.json"
+  },
+  {
+    "vehicleId": "yamaha-xtz-125-k-2012-gasolina",
+    "canonicalPath": "/fipe/yamaha/xtz-125-k-2012-827046-5/",
+    "bundlePath": "/data/bundles/yamaha/xtz-125-k-2012-827046-5.json"
+  },
+  {
+    "vehicleId": "yamaha-xtz-125-k-2013-gasolina",
+    "canonicalPath": "/fipe/yamaha/xtz-125-k-2013-827046-5/",
+    "bundlePath": "/data/bundles/yamaha/xtz-125-k-2013-827046-5.json"
+  },
+  {
+    "vehicleId": "yamaha-xtz-125-k-2014-gasolina",
+    "canonicalPath": "/fipe/yamaha/xtz-125-k-2014-827046-5/",
+    "bundlePath": "/data/bundles/yamaha/xtz-125-k-2014-827046-5.json"
+  },
+  {
+    "vehicleId": "yamaha-xtz-125-xe-2008-gasolina",
+    "canonicalPath": "/fipe/yamaha/xtz-125-xe-2008-827065-1/",
+    "bundlePath": "/data/bundles/yamaha/xtz-125-xe-2008-827065-1.json"
+  },
+  {
+    "vehicleId": "yamaha-xtz-125-xe-2009-gasolina",
+    "canonicalPath": "/fipe/yamaha/xtz-125-xe-2009-827065-1/",
+    "bundlePath": "/data/bundles/yamaha/xtz-125-xe-2009-827065-1.json"
+  },
+  {
+    "vehicleId": "yamaha-xtz-125-xe-2010-gasolina",
+    "canonicalPath": "/fipe/yamaha/xtz-125-xe-2010-827065-1/",
+    "bundlePath": "/data/bundles/yamaha/xtz-125-xe-2010-827065-1.json"
+  },
+  {
+    "vehicleId": "yamaha-xtz-125-xe-2011-gasolina",
+    "canonicalPath": "/fipe/yamaha/xtz-125-xe-2011-827065-1/",
+    "bundlePath": "/data/bundles/yamaha/xtz-125-xe-2011-827065-1.json"
+  },
+  {
+    "vehicleId": "yamaha-xtz-125-xe-2012-gasolina",
+    "canonicalPath": "/fipe/yamaha/xtz-125-xe-2012-827065-1/",
+    "bundlePath": "/data/bundles/yamaha/xtz-125-xe-2012-827065-1.json"
+  },
+  {
+    "vehicleId": "yamaha-xtz-125-xe-2013-gasolina",
+    "canonicalPath": "/fipe/yamaha/xtz-125-xe-2013-827065-1/",
+    "bundlePath": "/data/bundles/yamaha/xtz-125-xe-2013-827065-1.json"
+  },
+  {
+    "vehicleId": "yamaha-xtz-125-xe-2014-gasolina",
+    "canonicalPath": "/fipe/yamaha/xtz-125-xe-2014-827065-1/",
+    "bundlePath": "/data/bundles/yamaha/xtz-125-xe-2014-827065-1.json"
+  },
+  {
+    "vehicleId": "yamaha-xtz-125-xe-2015-gasolina",
+    "canonicalPath": "/fipe/yamaha/xtz-125-xe-2015-827065-1/",
+    "bundlePath": "/data/bundles/yamaha/xtz-125-xe-2015-827065-1.json"
+  },
+  {
+    "vehicleId": "yamaha-xtz-125-xe-2016-gasolina",
+    "canonicalPath": "/fipe/yamaha/xtz-125-xe-2016-827065-1/",
+    "bundlePath": "/data/bundles/yamaha/xtz-125-xe-2016-827065-1.json"
+  },
+  {
+    "vehicleId": "yamaha-xtz-125-xk-2008-gasolina",
+    "canonicalPath": "/fipe/yamaha/xtz-125-xk-2008-827066-0/",
+    "bundlePath": "/data/bundles/yamaha/xtz-125-xk-2008-827066-0.json"
+  },
+  {
+    "vehicleId": "yamaha-xtz-125-xk-2009-gasolina",
+    "canonicalPath": "/fipe/yamaha/xtz-125-xk-2009-827066-0/",
+    "bundlePath": "/data/bundles/yamaha/xtz-125-xk-2009-827066-0.json"
+  },
+  {
+    "vehicleId": "yamaha-xtz-125-xk-2010-gasolina",
+    "canonicalPath": "/fipe/yamaha/xtz-125-xk-2010-827066-0/",
+    "bundlePath": "/data/bundles/yamaha/xtz-125-xk-2010-827066-0.json"
+  },
+  {
+    "vehicleId": "yamaha-xtz-125-xk-2011-gasolina",
+    "canonicalPath": "/fipe/yamaha/xtz-125-xk-2011-827066-0/",
+    "bundlePath": "/data/bundles/yamaha/xtz-125-xk-2011-827066-0.json"
+  },
+  {
+    "vehicleId": "yamaha-xtz-125-xk-2012-gasolina",
+    "canonicalPath": "/fipe/yamaha/xtz-125-xk-2012-827066-0/",
+    "bundlePath": "/data/bundles/yamaha/xtz-125-xk-2012-827066-0.json"
+  },
+  {
+    "vehicleId": "yamaha-xtz-125-xk-2013-gasolina",
+    "canonicalPath": "/fipe/yamaha/xtz-125-xk-2013-827066-0/",
+    "bundlePath": "/data/bundles/yamaha/xtz-125-xk-2013-827066-0.json"
+  },
+  {
+    "vehicleId": "yamaha-xtz-150-crosser-e-flex-2014-gasolina",
+    "canonicalPath": "/fipe/yamaha/xtz-150-crosser-e-flex-2014-827092-9/",
+    "bundlePath": "/data/bundles/yamaha/xtz-150-crosser-e-flex-2014-827092-9.json"
+  },
+  {
+    "vehicleId": "yamaha-xtz-150-crosser-e-flex-2015-gasolina",
+    "canonicalPath": "/fipe/yamaha/xtz-150-crosser-e-flex-2015-827092-9/",
+    "bundlePath": "/data/bundles/yamaha/xtz-150-crosser-e-flex-2015-827092-9.json"
+  },
+  {
+    "vehicleId": "yamaha-xtz-150-crosser-e-flex-2017-gasolina",
+    "canonicalPath": "/fipe/yamaha/xtz-150-crosser-e-flex-2017-827092-9/",
+    "bundlePath": "/data/bundles/yamaha/xtz-150-crosser-e-flex-2017-827092-9.json"
+  },
+  {
+    "vehicleId": "yamaha-xtz-150-crosser-ed-flex-2014-gasolina",
+    "canonicalPath": "/fipe/yamaha/xtz-150-crosser-ed-flex-2014-827093-7/",
+    "bundlePath": "/data/bundles/yamaha/xtz-150-crosser-ed-flex-2014-827093-7.json"
+  },
+  {
+    "vehicleId": "yamaha-xtz-150-crosser-ed-flex-2015-gasolina",
+    "canonicalPath": "/fipe/yamaha/xtz-150-crosser-ed-flex-2015-827093-7/",
+    "bundlePath": "/data/bundles/yamaha/xtz-150-crosser-ed-flex-2015-827093-7.json"
+  },
+  {
+    "vehicleId": "yamaha-xtz-150-crosser-ed-flex-2016-gasolina",
+    "canonicalPath": "/fipe/yamaha/xtz-150-crosser-ed-flex-2016-827093-7/",
+    "bundlePath": "/data/bundles/yamaha/xtz-150-crosser-ed-flex-2016-827093-7.json"
+  },
+  {
+    "vehicleId": "yamaha-xtz-150-crosser-ed-flex-2017-gasolina",
+    "canonicalPath": "/fipe/yamaha/xtz-150-crosser-ed-flex-2017-827093-7/",
+    "bundlePath": "/data/bundles/yamaha/xtz-150-crosser-ed-flex-2017-827093-7.json"
+  },
+  {
+    "vehicleId": "yamaha-xtz-150-crosser-s-flex-2018-flex",
+    "canonicalPath": "/fipe/yamaha/xtz-150-crosser-s-flex-2018-827108-9/",
+    "bundlePath": "/data/bundles/yamaha/xtz-150-crosser-s-flex-2018-827108-9.json"
+  },
+  {
+    "vehicleId": "yamaha-xtz-150-crosser-s-flex-2019-flex",
+    "canonicalPath": "/fipe/yamaha/xtz-150-crosser-s-flex-2019-827108-9/",
+    "bundlePath": "/data/bundles/yamaha/xtz-150-crosser-s-flex-2019-827108-9.json"
+  },
+  {
+    "vehicleId": "yamaha-xtz-150-crosser-s-flex-2020-flex",
+    "canonicalPath": "/fipe/yamaha/xtz-150-crosser-s-flex-2020-827108-9/",
+    "bundlePath": "/data/bundles/yamaha/xtz-150-crosser-s-flex-2020-827108-9.json"
+  },
+  {
+    "vehicleId": "yamaha-xtz-150-crosser-s-flex-2021-flex",
+    "canonicalPath": "/fipe/yamaha/xtz-150-crosser-s-flex-2021-827108-9/",
+    "bundlePath": "/data/bundles/yamaha/xtz-150-crosser-s-flex-2021-827108-9.json"
+  },
+  {
+    "vehicleId": "yamaha-xtz-150-crosser-s-flex-2022-flex",
+    "canonicalPath": "/fipe/yamaha/xtz-150-crosser-s-flex-2022-827108-9/",
+    "bundlePath": "/data/bundles/yamaha/xtz-150-crosser-s-flex-2022-827108-9.json"
+  },
+  {
+    "vehicleId": "yamaha-xtz-150-crosser-s-flex-2023-flex",
+    "canonicalPath": "/fipe/yamaha/xtz-150-crosser-s-flex-2023-827108-9/",
+    "bundlePath": "/data/bundles/yamaha/xtz-150-crosser-s-flex-2023-827108-9.json"
+  },
+  {
+    "vehicleId": "yamaha-xtz-150-crosser-s-flex-2024-flex",
+    "canonicalPath": "/fipe/yamaha/xtz-150-crosser-s-flex-2024-827108-9/",
+    "bundlePath": "/data/bundles/yamaha/xtz-150-crosser-s-flex-2024-827108-9.json"
+  },
+  {
+    "vehicleId": "yamaha-xtz-150-crosser-s-flex-2025-flex",
+    "canonicalPath": "/fipe/yamaha/xtz-150-crosser-s-flex-2025-827108-9/",
+    "bundlePath": "/data/bundles/yamaha/xtz-150-crosser-s-flex-2025-827108-9.json"
+  },
+  {
+    "vehicleId": "yamaha-xtz-150-crosser-s-flex-2026-flex",
+    "canonicalPath": "/fipe/yamaha/xtz-150-crosser-s-flex-2026-827108-9/",
+    "bundlePath": "/data/bundles/yamaha/xtz-150-crosser-s-flex-2026-827108-9.json"
+  },
+  {
+    "vehicleId": "yamaha-xtz-150-crosser-s-flex-0-flex",
+    "canonicalPath": "/fipe/yamaha/xtz-150-crosser-s-flex-0-827108-9/",
+    "bundlePath": "/data/bundles/yamaha/xtz-150-crosser-s-flex-0-827108-9.json"
+  },
+  {
+    "vehicleId": "yamaha-xtz-150-crosser-z-flex-2018-flex",
+    "canonicalPath": "/fipe/yamaha/xtz-150-crosser-z-flex-2018-827109-7/",
+    "bundlePath": "/data/bundles/yamaha/xtz-150-crosser-z-flex-2018-827109-7.json"
+  },
+  {
+    "vehicleId": "yamaha-xtz-150-crosser-z-flex-2019-flex",
+    "canonicalPath": "/fipe/yamaha/xtz-150-crosser-z-flex-2019-827109-7/",
+    "bundlePath": "/data/bundles/yamaha/xtz-150-crosser-z-flex-2019-827109-7.json"
+  },
+  {
+    "vehicleId": "yamaha-xtz-150-crosser-z-flex-2020-flex",
+    "canonicalPath": "/fipe/yamaha/xtz-150-crosser-z-flex-2020-827109-7/",
+    "bundlePath": "/data/bundles/yamaha/xtz-150-crosser-z-flex-2020-827109-7.json"
+  },
+  {
+    "vehicleId": "yamaha-xtz-150-crosser-z-flex-2021-flex",
+    "canonicalPath": "/fipe/yamaha/xtz-150-crosser-z-flex-2021-827109-7/",
+    "bundlePath": "/data/bundles/yamaha/xtz-150-crosser-z-flex-2021-827109-7.json"
+  },
+  {
+    "vehicleId": "yamaha-xtz-150-crosser-z-flex-2022-flex",
+    "canonicalPath": "/fipe/yamaha/xtz-150-crosser-z-flex-2022-827109-7/",
+    "bundlePath": "/data/bundles/yamaha/xtz-150-crosser-z-flex-2022-827109-7.json"
+  },
+  {
+    "vehicleId": "yamaha-xtz-150-crosser-z-flex-2023-flex",
+    "canonicalPath": "/fipe/yamaha/xtz-150-crosser-z-flex-2023-827109-7/",
+    "bundlePath": "/data/bundles/yamaha/xtz-150-crosser-z-flex-2023-827109-7.json"
+  },
+  {
+    "vehicleId": "yamaha-xtz-150-crosser-z-flex-2024-flex",
+    "canonicalPath": "/fipe/yamaha/xtz-150-crosser-z-flex-2024-827109-7/",
+    "bundlePath": "/data/bundles/yamaha/xtz-150-crosser-z-flex-2024-827109-7.json"
+  },
+  {
+    "vehicleId": "yamaha-xtz-150-crosser-z-flex-2025-flex",
+    "canonicalPath": "/fipe/yamaha/xtz-150-crosser-z-flex-2025-827109-7/",
+    "bundlePath": "/data/bundles/yamaha/xtz-150-crosser-z-flex-2025-827109-7.json"
+  },
+  {
+    "vehicleId": "yamaha-xtz-150-crosser-z-flex-2026-flex",
+    "canonicalPath": "/fipe/yamaha/xtz-150-crosser-z-flex-2026-827109-7/",
+    "bundlePath": "/data/bundles/yamaha/xtz-150-crosser-z-flex-2026-827109-7.json"
+  },
+  {
+    "vehicleId": "yamaha-xtz-150-crosser-z-flex-0-flex",
+    "canonicalPath": "/fipe/yamaha/xtz-150-crosser-z-flex-0-827109-7/",
+    "bundlePath": "/data/bundles/yamaha/xtz-150-crosser-z-flex-0-827109-7.json"
+  },
+  {
+    "vehicleId": "yamaha-xtz-250-lander-249cc-lander-blueflex-abs-2007-gasolina",
+    "canonicalPath": "/fipe/yamaha/xtz-250-lander-249cc-lander-blueflex-abs-2007-827059-7/",
+    "bundlePath": "/data/bundles/yamaha/xtz-250-lander-249cc-lander-blueflex-abs-2007-827059-7.json"
+  },
+  {
+    "vehicleId": "yamaha-xtz-250-lander-249cc-lander-blueflex-abs-2008-gasolina",
+    "canonicalPath": "/fipe/yamaha/xtz-250-lander-249cc-lander-blueflex-abs-2008-827059-7/",
+    "bundlePath": "/data/bundles/yamaha/xtz-250-lander-249cc-lander-blueflex-abs-2008-827059-7.json"
+  },
+  {
+    "vehicleId": "yamaha-xtz-250-lander-249cc-lander-blueflex-abs-2009-gasolina",
+    "canonicalPath": "/fipe/yamaha/xtz-250-lander-249cc-lander-blueflex-abs-2009-827059-7/",
+    "bundlePath": "/data/bundles/yamaha/xtz-250-lander-249cc-lander-blueflex-abs-2009-827059-7.json"
+  },
+  {
+    "vehicleId": "yamaha-xtz-250-lander-249cc-lander-blueflex-abs-2010-gasolina",
+    "canonicalPath": "/fipe/yamaha/xtz-250-lander-249cc-lander-blueflex-abs-2010-827059-7/",
+    "bundlePath": "/data/bundles/yamaha/xtz-250-lander-249cc-lander-blueflex-abs-2010-827059-7.json"
+  },
+  {
+    "vehicleId": "yamaha-xtz-250-lander-249cc-lander-blueflex-abs-2011-gasolina",
+    "canonicalPath": "/fipe/yamaha/xtz-250-lander-249cc-lander-blueflex-abs-2011-827059-7/",
+    "bundlePath": "/data/bundles/yamaha/xtz-250-lander-249cc-lander-blueflex-abs-2011-827059-7.json"
+  },
+  {
+    "vehicleId": "yamaha-xtz-250-lander-249cc-lander-blueflex-abs-2012-gasolina",
+    "canonicalPath": "/fipe/yamaha/xtz-250-lander-249cc-lander-blueflex-abs-2012-827059-7/",
+    "bundlePath": "/data/bundles/yamaha/xtz-250-lander-249cc-lander-blueflex-abs-2012-827059-7.json"
+  },
+  {
+    "vehicleId": "yamaha-xtz-250-lander-249cc-lander-blueflex-abs-2013-gasolina",
+    "canonicalPath": "/fipe/yamaha/xtz-250-lander-249cc-lander-blueflex-abs-2013-827059-7/",
+    "bundlePath": "/data/bundles/yamaha/xtz-250-lander-249cc-lander-blueflex-abs-2013-827059-7.json"
+  },
+  {
+    "vehicleId": "yamaha-xtz-250-lander-249cc-lander-blueflex-abs-2014-gasolina",
+    "canonicalPath": "/fipe/yamaha/xtz-250-lander-249cc-lander-blueflex-abs-2014-827059-7/",
+    "bundlePath": "/data/bundles/yamaha/xtz-250-lander-249cc-lander-blueflex-abs-2014-827059-7.json"
+  },
+  {
+    "vehicleId": "yamaha-xtz-250-lander-249cc-lander-blueflex-abs-2015-gasolina",
+    "canonicalPath": "/fipe/yamaha/xtz-250-lander-249cc-lander-blueflex-abs-2015-827059-7/",
+    "bundlePath": "/data/bundles/yamaha/xtz-250-lander-249cc-lander-blueflex-abs-2015-827059-7.json"
+  },
+  {
+    "vehicleId": "yamaha-xtz-250-lander-249cc-lander-blueflex-abs-2016-gasolina",
+    "canonicalPath": "/fipe/yamaha/xtz-250-lander-249cc-lander-blueflex-abs-2016-827059-7/",
+    "bundlePath": "/data/bundles/yamaha/xtz-250-lander-249cc-lander-blueflex-abs-2016-827059-7.json"
+  },
+  {
+    "vehicleId": "yamaha-xtz-250-lander-249cc-lander-blueflex-abs-2017-gasolina",
+    "canonicalPath": "/fipe/yamaha/xtz-250-lander-249cc-lander-blueflex-abs-2017-827059-7/",
+    "bundlePath": "/data/bundles/yamaha/xtz-250-lander-249cc-lander-blueflex-abs-2017-827059-7.json"
+  },
+  {
+    "vehicleId": "yamaha-xtz-250-lander-249cc-lander-blueflex-abs-2018-gasolina",
+    "canonicalPath": "/fipe/yamaha/xtz-250-lander-249cc-lander-blueflex-abs-2018-827059-7/",
+    "bundlePath": "/data/bundles/yamaha/xtz-250-lander-249cc-lander-blueflex-abs-2018-827059-7.json"
+  },
+  {
+    "vehicleId": "yamaha-xtz-250-lander-249cc-lander-blueflex-abs-2019-gasolina",
+    "canonicalPath": "/fipe/yamaha/xtz-250-lander-249cc-lander-blueflex-abs-2019-827059-7/",
+    "bundlePath": "/data/bundles/yamaha/xtz-250-lander-249cc-lander-blueflex-abs-2019-827059-7.json"
+  },
+  {
+    "vehicleId": "yamaha-xtz-250-lander-249cc-lander-blueflex-abs-2020-gasolina",
+    "canonicalPath": "/fipe/yamaha/xtz-250-lander-249cc-lander-blueflex-abs-2020-827059-7/",
+    "bundlePath": "/data/bundles/yamaha/xtz-250-lander-249cc-lander-blueflex-abs-2020-827059-7.json"
+  },
+  {
+    "vehicleId": "yamaha-xtz-250-lander-249cc-lander-blueflex-abs-2021-gasolina",
+    "canonicalPath": "/fipe/yamaha/xtz-250-lander-249cc-lander-blueflex-abs-2021-827059-7/",
+    "bundlePath": "/data/bundles/yamaha/xtz-250-lander-249cc-lander-blueflex-abs-2021-827059-7.json"
+  },
+  {
+    "vehicleId": "yamaha-xtz-250-lander-249cc-lander-blueflex-abs-2022-gasolina",
+    "canonicalPath": "/fipe/yamaha/xtz-250-lander-249cc-lander-blueflex-abs-2022-827059-7/",
+    "bundlePath": "/data/bundles/yamaha/xtz-250-lander-249cc-lander-blueflex-abs-2022-827059-7.json"
+  },
+  {
+    "vehicleId": "yamaha-xtz-250-lander-249cc-lander-blueflex-abs-2023-gasolina",
+    "canonicalPath": "/fipe/yamaha/xtz-250-lander-249cc-lander-blueflex-abs-2023-827059-7/",
+    "bundlePath": "/data/bundles/yamaha/xtz-250-lander-249cc-lander-blueflex-abs-2023-827059-7.json"
+  },
+  {
+    "vehicleId": "yamaha-xtz-250-lander-249cc-lander-blueflex-abs-2024-gasolina",
+    "canonicalPath": "/fipe/yamaha/xtz-250-lander-249cc-lander-blueflex-abs-2024-827059-7/",
+    "bundlePath": "/data/bundles/yamaha/xtz-250-lander-249cc-lander-blueflex-abs-2024-827059-7.json"
+  },
+  {
+    "vehicleId": "yamaha-xtz-250-lander-249cc-lander-blueflex-abs-2025-gasolina",
+    "canonicalPath": "/fipe/yamaha/xtz-250-lander-249cc-lander-blueflex-abs-2025-827059-7/",
+    "bundlePath": "/data/bundles/yamaha/xtz-250-lander-249cc-lander-blueflex-abs-2025-827059-7.json"
+  },
+  {
+    "vehicleId": "yamaha-xtz-250-lander-capitao-america-flex-abs-2021-flex",
+    "canonicalPath": "/fipe/yamaha/xtz-250-lander-capitao-america-flex-abs-2021-827115-1/",
+    "bundlePath": "/data/bundles/yamaha/xtz-250-lander-capitao-america-flex-abs-2021-827115-1.json"
+  },
+  {
+    "vehicleId": "yamaha-xtz-250-lander-capitao-america-flex-abs-2022-flex",
+    "canonicalPath": "/fipe/yamaha/xtz-250-lander-capitao-america-flex-abs-2022-827115-1/",
+    "bundlePath": "/data/bundles/yamaha/xtz-250-lander-capitao-america-flex-abs-2022-827115-1.json"
+  },
+  {
+    "vehicleId": "yamaha-xtz-250-lander-capitao-america-flex-abs-2023-flex",
+    "canonicalPath": "/fipe/yamaha/xtz-250-lander-capitao-america-flex-abs-2023-827115-1/",
+    "bundlePath": "/data/bundles/yamaha/xtz-250-lander-capitao-america-flex-abs-2023-827115-1.json"
+  },
+  {
+    "vehicleId": "yamaha-xtz-250-lander-connected-2025-gasolina",
+    "canonicalPath": "/fipe/yamaha/xtz-250-lander-connected-2025-827131-3/",
+    "bundlePath": "/data/bundles/yamaha/xtz-250-lander-connected-2025-827131-3.json"
+  },
+  {
+    "vehicleId": "yamaha-xtz-250-lander-connected-2026-gasolina",
+    "canonicalPath": "/fipe/yamaha/xtz-250-lander-connected-2026-827131-3/",
+    "bundlePath": "/data/bundles/yamaha/xtz-250-lander-connected-2026-827131-3.json"
+  },
+  {
+    "vehicleId": "yamaha-xtz-250-lander-connected-0-gasolina",
+    "canonicalPath": "/fipe/yamaha/xtz-250-lander-connected-0-827131-3/",
+    "bundlePath": "/data/bundles/yamaha/xtz-250-lander-connected-0-827131-3.json"
+  },
+  {
+    "vehicleId": "yamaha-xtz-250-tenere-tenere-blueflex-2011-gasolina",
+    "canonicalPath": "/fipe/yamaha/xtz-250-tenere-tenere-blueflex-2011-827080-5/",
+    "bundlePath": "/data/bundles/yamaha/xtz-250-tenere-tenere-blueflex-2011-827080-5.json"
+  },
+  {
+    "vehicleId": "yamaha-xtz-250-tenere-tenere-blueflex-2012-gasolina",
+    "canonicalPath": "/fipe/yamaha/xtz-250-tenere-tenere-blueflex-2012-827080-5/",
+    "bundlePath": "/data/bundles/yamaha/xtz-250-tenere-tenere-blueflex-2012-827080-5.json"
+  },
+  {
+    "vehicleId": "yamaha-xtz-250-tenere-tenere-blueflex-2013-gasolina",
+    "canonicalPath": "/fipe/yamaha/xtz-250-tenere-tenere-blueflex-2013-827080-5/",
+    "bundlePath": "/data/bundles/yamaha/xtz-250-tenere-tenere-blueflex-2013-827080-5.json"
+  },
+  {
+    "vehicleId": "yamaha-xtz-250-tenere-tenere-blueflex-2014-gasolina",
+    "canonicalPath": "/fipe/yamaha/xtz-250-tenere-tenere-blueflex-2014-827080-5/",
+    "bundlePath": "/data/bundles/yamaha/xtz-250-tenere-tenere-blueflex-2014-827080-5.json"
+  },
+  {
+    "vehicleId": "yamaha-xtz-250-tenere-tenere-blueflex-2015-gasolina",
+    "canonicalPath": "/fipe/yamaha/xtz-250-tenere-tenere-blueflex-2015-827080-5/",
+    "bundlePath": "/data/bundles/yamaha/xtz-250-tenere-tenere-blueflex-2015-827080-5.json"
+  },
+  {
+    "vehicleId": "yamaha-xtz-250-tenere-tenere-blueflex-2016-gasolina",
+    "canonicalPath": "/fipe/yamaha/xtz-250-tenere-tenere-blueflex-2016-827080-5/",
+    "bundlePath": "/data/bundles/yamaha/xtz-250-tenere-tenere-blueflex-2016-827080-5.json"
+  },
+  {
+    "vehicleId": "yamaha-xtz-250-tenere-tenere-blueflex-2017-gasolina",
+    "canonicalPath": "/fipe/yamaha/xtz-250-tenere-tenere-blueflex-2017-827080-5/",
+    "bundlePath": "/data/bundles/yamaha/xtz-250-tenere-tenere-blueflex-2017-827080-5.json"
+  },
+  {
+    "vehicleId": "yamaha-xtz-250-tenere-tenere-blueflex-2018-gasolina",
+    "canonicalPath": "/fipe/yamaha/xtz-250-tenere-tenere-blueflex-2018-827080-5/",
+    "bundlePath": "/data/bundles/yamaha/xtz-250-tenere-tenere-blueflex-2018-827080-5.json"
+  },
+  {
+    "vehicleId": "yamaha-xtz-250-tenere-tenere-blueflex-2019-gasolina",
+    "canonicalPath": "/fipe/yamaha/xtz-250-tenere-tenere-blueflex-2019-827080-5/",
+    "bundlePath": "/data/bundles/yamaha/xtz-250-tenere-tenere-blueflex-2019-827080-5.json"
+  },
+  {
+    "vehicleId": "yamaha-xtz-250x-2007-gasolina",
+    "canonicalPath": "/fipe/yamaha/xtz-250x-2007-827071-6/",
+    "bundlePath": "/data/bundles/yamaha/xtz-250x-2007-827071-6.json"
+  },
+  {
+    "vehicleId": "yamaha-xtz-250x-2008-gasolina",
+    "canonicalPath": "/fipe/yamaha/xtz-250x-2008-827071-6/",
+    "bundlePath": "/data/bundles/yamaha/xtz-250x-2008-827071-6.json"
+  },
+  {
+    "vehicleId": "yamaha-xtz-250x-2009-gasolina",
+    "canonicalPath": "/fipe/yamaha/xtz-250x-2009-827071-6/",
+    "bundlePath": "/data/bundles/yamaha/xtz-250x-2009-827071-6.json"
+  },
+  {
+    "vehicleId": "yamaha-xtz-250x-2010-gasolina",
+    "canonicalPath": "/fipe/yamaha/xtz-250x-2010-827071-6/",
+    "bundlePath": "/data/bundles/yamaha/xtz-250x-2010-827071-6.json"
+  },
+  {
+    "vehicleId": "yamaha-xtz-250x-2011-gasolina",
+    "canonicalPath": "/fipe/yamaha/xtz-250x-2011-827071-6/",
+    "bundlePath": "/data/bundles/yamaha/xtz-250x-2011-827071-6.json"
+  },
+  {
+    "vehicleId": "yamaha-xtz-700-tenere-2026-gasolina",
+    "canonicalPath": "/fipe/yamaha/xtz-700-tenere-2026-827143-7/",
+    "bundlePath": "/data/bundles/yamaha/xtz-700-tenere-2026-827143-7.json"
+  },
+  {
+    "vehicleId": "yamaha-xtz-700-tenere-2027-gasolina",
+    "canonicalPath": "/fipe/yamaha/xtz-700-tenere-2027-827143-7/",
+    "bundlePath": "/data/bundles/yamaha/xtz-700-tenere-2027-827143-7.json"
+  },
+  {
+    "vehicleId": "yamaha-xtz-700-tenere-0-gasolina",
+    "canonicalPath": "/fipe/yamaha/xtz-700-tenere-0-827143-7/",
+    "bundlePath": "/data/bundles/yamaha/xtz-700-tenere-0-827143-7.json"
+  },
+  {
+    "vehicleId": "yamaha-xtz-750-s-tenere-1990-gasolina",
+    "canonicalPath": "/fipe/yamaha/xtz-750-s-tenere-1990-827030-9/",
+    "bundlePath": "/data/bundles/yamaha/xtz-750-s-tenere-1990-827030-9.json"
+  },
+  {
+    "vehicleId": "yamaha-xtz-750-s-tenere-1991-gasolina",
+    "canonicalPath": "/fipe/yamaha/xtz-750-s-tenere-1991-827030-9/",
+    "bundlePath": "/data/bundles/yamaha/xtz-750-s-tenere-1991-827030-9.json"
+  },
+  {
+    "vehicleId": "yamaha-xtz-750-s-tenere-1992-gasolina",
+    "canonicalPath": "/fipe/yamaha/xtz-750-s-tenere-1992-827030-9/",
+    "bundlePath": "/data/bundles/yamaha/xtz-750-s-tenere-1992-827030-9.json"
+  },
+  {
+    "vehicleId": "yamaha-xtz-750-s-tenere-1993-gasolina",
+    "canonicalPath": "/fipe/yamaha/xtz-750-s-tenere-1993-827030-9/",
+    "bundlePath": "/data/bundles/yamaha/xtz-750-s-tenere-1993-827030-9.json"
+  },
+  {
+    "vehicleId": "yamaha-xtz-750-s-tenere-1994-gasolina",
+    "canonicalPath": "/fipe/yamaha/xtz-750-s-tenere-1994-827030-9/",
+    "bundlePath": "/data/bundles/yamaha/xtz-750-s-tenere-1994-827030-9.json"
+  },
+  {
+    "vehicleId": "yamaha-xtz-750-s-tenere-1995-gasolina",
+    "canonicalPath": "/fipe/yamaha/xtz-750-s-tenere-1995-827030-9/",
+    "bundlePath": "/data/bundles/yamaha/xtz-750-s-tenere-1995-827030-9.json"
+  },
+  {
+    "vehicleId": "yamaha-xtz-750-s-tenere-1996-gasolina",
+    "canonicalPath": "/fipe/yamaha/xtz-750-s-tenere-1996-827030-9/",
+    "bundlePath": "/data/bundles/yamaha/xtz-750-s-tenere-1996-827030-9.json"
+  },
+  {
+    "vehicleId": "yamaha-xtz-750-s-tenere-1997-gasolina",
+    "canonicalPath": "/fipe/yamaha/xtz-750-s-tenere-1997-827030-9/",
+    "bundlePath": "/data/bundles/yamaha/xtz-750-s-tenere-1997-827030-9.json"
+  },
+  {
+    "vehicleId": "yamaha-xtz-750-s-tenere-1998-gasolina",
+    "canonicalPath": "/fipe/yamaha/xtz-750-s-tenere-1998-827030-9/",
+    "bundlePath": "/data/bundles/yamaha/xtz-750-s-tenere-1998-827030-9.json"
+  },
+  {
+    "vehicleId": "yamaha-xv-1100-virago-1993-gasolina",
+    "canonicalPath": "/fipe/yamaha/xv-1100-virago-1993-827031-7/",
+    "bundlePath": "/data/bundles/yamaha/xv-1100-virago-1993-827031-7.json"
+  },
+  {
+    "vehicleId": "yamaha-xv-1100-virago-1994-gasolina",
+    "canonicalPath": "/fipe/yamaha/xv-1100-virago-1994-827031-7/",
+    "bundlePath": "/data/bundles/yamaha/xv-1100-virago-1994-827031-7.json"
+  },
+  {
+    "vehicleId": "yamaha-xv-1100-virago-1995-gasolina",
+    "canonicalPath": "/fipe/yamaha/xv-1100-virago-1995-827031-7/",
+    "bundlePath": "/data/bundles/yamaha/xv-1100-virago-1995-827031-7.json"
+  },
+  {
+    "vehicleId": "yamaha-xv-1100-virago-1996-gasolina",
+    "canonicalPath": "/fipe/yamaha/xv-1100-virago-1996-827031-7/",
+    "bundlePath": "/data/bundles/yamaha/xv-1100-virago-1996-827031-7.json"
+  },
+  {
+    "vehicleId": "yamaha-xv-1100-virago-1997-gasolina",
+    "canonicalPath": "/fipe/yamaha/xv-1100-virago-1997-827031-7/",
+    "bundlePath": "/data/bundles/yamaha/xv-1100-virago-1997-827031-7.json"
+  },
+  {
+    "vehicleId": "yamaha-xv-1100-virago-1998-gasolina",
+    "canonicalPath": "/fipe/yamaha/xv-1100-virago-1998-827031-7/",
+    "bundlePath": "/data/bundles/yamaha/xv-1100-virago-1998-827031-7.json"
+  },
+  {
+    "vehicleId": "yamaha-xv-1100-virago-1999-gasolina",
+    "canonicalPath": "/fipe/yamaha/xv-1100-virago-1999-827031-7/",
+    "bundlePath": "/data/bundles/yamaha/xv-1100-virago-1999-827031-7.json"
+  },
+  {
+    "vehicleId": "yamaha-xv-250-virago-1995-gasolina",
+    "canonicalPath": "/fipe/yamaha/xv-250-virago-1995-827032-5/",
+    "bundlePath": "/data/bundles/yamaha/xv-250-virago-1995-827032-5.json"
+  },
+  {
+    "vehicleId": "yamaha-xv-250-virago-1996-gasolina",
+    "canonicalPath": "/fipe/yamaha/xv-250-virago-1996-827032-5/",
+    "bundlePath": "/data/bundles/yamaha/xv-250-virago-1996-827032-5.json"
+  },
+  {
+    "vehicleId": "yamaha-xv-250-virago-1997-gasolina",
+    "canonicalPath": "/fipe/yamaha/xv-250-virago-1997-827032-5/",
+    "bundlePath": "/data/bundles/yamaha/xv-250-virago-1997-827032-5.json"
+  },
+  {
+    "vehicleId": "yamaha-xv-250-virago-1998-gasolina",
+    "canonicalPath": "/fipe/yamaha/xv-250-virago-1998-827032-5/",
+    "bundlePath": "/data/bundles/yamaha/xv-250-virago-1998-827032-5.json"
+  },
+  {
+    "vehicleId": "yamaha-xv-250-virago-1999-gasolina",
+    "canonicalPath": "/fipe/yamaha/xv-250-virago-1999-827032-5/",
+    "bundlePath": "/data/bundles/yamaha/xv-250-virago-1999-827032-5.json"
+  },
+  {
+    "vehicleId": "yamaha-xv-250-virago-2000-gasolina",
+    "canonicalPath": "/fipe/yamaha/xv-250-virago-2000-827032-5/",
+    "bundlePath": "/data/bundles/yamaha/xv-250-virago-2000-827032-5.json"
+  },
+  {
+    "vehicleId": "yamaha-xv-250-virago-2001-gasolina",
+    "canonicalPath": "/fipe/yamaha/xv-250-virago-2001-827032-5/",
+    "bundlePath": "/data/bundles/yamaha/xv-250-virago-2001-827032-5.json"
+  },
+  {
+    "vehicleId": "yamaha-xv-250-virago-2002-gasolina",
+    "canonicalPath": "/fipe/yamaha/xv-250-virago-2002-827032-5/",
+    "bundlePath": "/data/bundles/yamaha/xv-250-virago-2002-827032-5.json"
+  },
+  {
+    "vehicleId": "yamaha-xv-535-s-virago-1994-gasolina",
+    "canonicalPath": "/fipe/yamaha/xv-535-s-virago-1994-827033-3/",
+    "bundlePath": "/data/bundles/yamaha/xv-535-s-virago-1994-827033-3.json"
+  },
+  {
+    "vehicleId": "yamaha-xv-535-s-virago-1995-gasolina",
+    "canonicalPath": "/fipe/yamaha/xv-535-s-virago-1995-827033-3/",
+    "bundlePath": "/data/bundles/yamaha/xv-535-s-virago-1995-827033-3.json"
+  },
+  {
+    "vehicleId": "yamaha-xv-535-s-virago-1996-gasolina",
+    "canonicalPath": "/fipe/yamaha/xv-535-s-virago-1996-827033-3/",
+    "bundlePath": "/data/bundles/yamaha/xv-535-s-virago-1996-827033-3.json"
+  },
+  {
+    "vehicleId": "yamaha-xv-535-s-virago-1997-gasolina",
+    "canonicalPath": "/fipe/yamaha/xv-535-s-virago-1997-827033-3/",
+    "bundlePath": "/data/bundles/yamaha/xv-535-s-virago-1997-827033-3.json"
+  },
+  {
+    "vehicleId": "yamaha-xv-535-s-virago-1998-gasolina",
+    "canonicalPath": "/fipe/yamaha/xv-535-s-virago-1998-827033-3/",
+    "bundlePath": "/data/bundles/yamaha/xv-535-s-virago-1998-827033-3.json"
+  },
+  {
+    "vehicleId": "yamaha-xv-535-s-virago-1999-gasolina",
+    "canonicalPath": "/fipe/yamaha/xv-535-s-virago-1999-827033-3/",
+    "bundlePath": "/data/bundles/yamaha/xv-535-s-virago-1999-827033-3.json"
+  },
+  {
+    "vehicleId": "yamaha-xv-535-s-virago-2000-gasolina",
+    "canonicalPath": "/fipe/yamaha/xv-535-s-virago-2000-827033-3/",
+    "bundlePath": "/data/bundles/yamaha/xv-535-s-virago-2000-827033-3.json"
+  },
+  {
+    "vehicleId": "yamaha-xv-535-s-virago-2001-gasolina",
+    "canonicalPath": "/fipe/yamaha/xv-535-s-virago-2001-827033-3/",
+    "bundlePath": "/data/bundles/yamaha/xv-535-s-virago-2001-827033-3.json"
+  },
+  {
+    "vehicleId": "yamaha-xv-535-s-virago-2002-gasolina",
+    "canonicalPath": "/fipe/yamaha/xv-535-s-virago-2002-827033-3/",
+    "bundlePath": "/data/bundles/yamaha/xv-535-s-virago-2002-827033-3.json"
+  },
+  {
+    "vehicleId": "yamaha-xvs-1100-drag-star-1999-gasolina",
+    "canonicalPath": "/fipe/yamaha/xvs-1100-drag-star-1999-827038-4/",
+    "bundlePath": "/data/bundles/yamaha/xvs-1100-drag-star-1999-827038-4.json"
+  },
+  {
+    "vehicleId": "yamaha-xvs-1100-drag-star-2000-gasolina",
+    "canonicalPath": "/fipe/yamaha/xvs-1100-drag-star-2000-827038-4/",
+    "bundlePath": "/data/bundles/yamaha/xvs-1100-drag-star-2000-827038-4.json"
+  },
+  {
+    "vehicleId": "yamaha-xvs-1100-drag-star-2001-gasolina",
+    "canonicalPath": "/fipe/yamaha/xvs-1100-drag-star-2001-827038-4/",
+    "bundlePath": "/data/bundles/yamaha/xvs-1100-drag-star-2001-827038-4.json"
+  },
+  {
+    "vehicleId": "yamaha-xvs-650-drag-star-1997-gasolina",
+    "canonicalPath": "/fipe/yamaha/xvs-650-drag-star-1997-827005-8/",
+    "bundlePath": "/data/bundles/yamaha/xvs-650-drag-star-1997-827005-8.json"
+  },
+  {
+    "vehicleId": "yamaha-xvs-650-drag-star-1998-gasolina",
+    "canonicalPath": "/fipe/yamaha/xvs-650-drag-star-1998-827005-8/",
+    "bundlePath": "/data/bundles/yamaha/xvs-650-drag-star-1998-827005-8.json"
+  },
+  {
+    "vehicleId": "yamaha-xvs-650-drag-star-1999-gasolina",
+    "canonicalPath": "/fipe/yamaha/xvs-650-drag-star-1999-827005-8/",
+    "bundlePath": "/data/bundles/yamaha/xvs-650-drag-star-1999-827005-8.json"
+  },
+  {
+    "vehicleId": "yamaha-xvs-650-drag-star-2000-gasolina",
+    "canonicalPath": "/fipe/yamaha/xvs-650-drag-star-2000-827005-8/",
+    "bundlePath": "/data/bundles/yamaha/xvs-650-drag-star-2000-827005-8.json"
+  },
+  {
+    "vehicleId": "yamaha-xvs-650-drag-star-2001-gasolina",
+    "canonicalPath": "/fipe/yamaha/xvs-650-drag-star-2001-827005-8/",
+    "bundlePath": "/data/bundles/yamaha/xvs-650-drag-star-2001-827005-8.json"
+  },
+  {
+    "vehicleId": "yamaha-xvs-650-drag-star-2002-gasolina",
+    "canonicalPath": "/fipe/yamaha/xvs-650-drag-star-2002-827005-8/",
+    "bundlePath": "/data/bundles/yamaha/xvs-650-drag-star-2002-827005-8.json"
+  },
+  {
+    "vehicleId": "yamaha-xvs-650-drag-star-2003-gasolina",
+    "canonicalPath": "/fipe/yamaha/xvs-650-drag-star-2003-827005-8/",
+    "bundlePath": "/data/bundles/yamaha/xvs-650-drag-star-2003-827005-8.json"
+  },
+  {
+    "vehicleId": "yamaha-xvs-650-drag-star-2004-gasolina",
+    "canonicalPath": "/fipe/yamaha/xvs-650-drag-star-2004-827005-8/",
+    "bundlePath": "/data/bundles/yamaha/xvs-650-drag-star-2004-827005-8.json"
+  },
+  {
+    "vehicleId": "yamaha-xvs-650-drag-star-2005-gasolina",
+    "canonicalPath": "/fipe/yamaha/xvs-650-drag-star-2005-827005-8/",
+    "bundlePath": "/data/bundles/yamaha/xvs-650-drag-star-2005-827005-8.json"
+  },
+  {
+    "vehicleId": "yamaha-xvs-650-drag-star-2006-gasolina",
+    "canonicalPath": "/fipe/yamaha/xvs-650-drag-star-2006-827005-8/",
+    "bundlePath": "/data/bundles/yamaha/xvs-650-drag-star-2006-827005-8.json"
+  },
+  {
+    "vehicleId": "yamaha-xvs-650-drag-star-2007-gasolina",
+    "canonicalPath": "/fipe/yamaha/xvs-650-drag-star-2007-827005-8/",
+    "bundlePath": "/data/bundles/yamaha/xvs-650-drag-star-2007-827005-8.json"
+  },
+  {
+    "vehicleId": "yamaha-xvs-650-drag-star-2008-gasolina",
+    "canonicalPath": "/fipe/yamaha/xvs-650-drag-star-2008-827005-8/",
+    "bundlePath": "/data/bundles/yamaha/xvs-650-drag-star-2008-827005-8.json"
+  },
+  {
+    "vehicleId": "yamaha-xvs-950-midnight-star-2009-gasolina",
+    "canonicalPath": "/fipe/yamaha/xvs-950-midnight-star-2009-827075-9/",
+    "bundlePath": "/data/bundles/yamaha/xvs-950-midnight-star-2009-827075-9.json"
+  },
+  {
+    "vehicleId": "yamaha-xvs-950-midnight-star-2010-gasolina",
+    "canonicalPath": "/fipe/yamaha/xvs-950-midnight-star-2010-827075-9/",
+    "bundlePath": "/data/bundles/yamaha/xvs-950-midnight-star-2010-827075-9.json"
+  },
+  {
+    "vehicleId": "yamaha-xvs-950-midnight-star-2011-gasolina",
+    "canonicalPath": "/fipe/yamaha/xvs-950-midnight-star-2011-827075-9/",
+    "bundlePath": "/data/bundles/yamaha/xvs-950-midnight-star-2011-827075-9.json"
+  },
+  {
+    "vehicleId": "yamaha-xvs-950-midnight-star-2012-gasolina",
+    "canonicalPath": "/fipe/yamaha/xvs-950-midnight-star-2012-827075-9/",
+    "bundlePath": "/data/bundles/yamaha/xvs-950-midnight-star-2012-827075-9.json"
+  },
+  {
+    "vehicleId": "yamaha-xvs-950-midnight-star-2013-gasolina",
+    "canonicalPath": "/fipe/yamaha/xvs-950-midnight-star-2013-827075-9/",
+    "bundlePath": "/data/bundles/yamaha/xvs-950-midnight-star-2013-827075-9.json"
+  },
+  {
+    "vehicleId": "yamaha-xvs-950-midnight-star-2014-gasolina",
+    "canonicalPath": "/fipe/yamaha/xvs-950-midnight-star-2014-827075-9/",
+    "bundlePath": "/data/bundles/yamaha/xvs-950-midnight-star-2014-827075-9.json"
+  },
+  {
+    "vehicleId": "yamaha-xvs-950-midnight-star-2015-gasolina",
+    "canonicalPath": "/fipe/yamaha/xvs-950-midnight-star-2015-827075-9/",
+    "bundlePath": "/data/bundles/yamaha/xvs-950-midnight-star-2015-827075-9.json"
+  },
+  {
+    "vehicleId": "yamaha-xvs-950-midnight-star-2016-gasolina",
+    "canonicalPath": "/fipe/yamaha/xvs-950-midnight-star-2016-827075-9/",
+    "bundlePath": "/data/bundles/yamaha/xvs-950-midnight-star-2016-827075-9.json"
+  },
+  {
+    "vehicleId": "yamaha-ybr-125-e-2000-gasolina",
+    "canonicalPath": "/fipe/yamaha/ybr-125-e-2000-827039-2/",
+    "bundlePath": "/data/bundles/yamaha/ybr-125-e-2000-827039-2.json"
+  },
+  {
+    "vehicleId": "yamaha-ybr-125-e-2001-gasolina",
+    "canonicalPath": "/fipe/yamaha/ybr-125-e-2001-827039-2/",
+    "bundlePath": "/data/bundles/yamaha/ybr-125-e-2001-827039-2.json"
+  },
+  {
+    "vehicleId": "yamaha-ybr-125-e-2002-gasolina",
+    "canonicalPath": "/fipe/yamaha/ybr-125-e-2002-827039-2/",
+    "bundlePath": "/data/bundles/yamaha/ybr-125-e-2002-827039-2.json"
+  },
+  {
+    "vehicleId": "yamaha-ybr-125-e-2003-gasolina",
+    "canonicalPath": "/fipe/yamaha/ybr-125-e-2003-827039-2/",
+    "bundlePath": "/data/bundles/yamaha/ybr-125-e-2003-827039-2.json"
+  },
+  {
+    "vehicleId": "yamaha-ybr-125-e-2004-gasolina",
+    "canonicalPath": "/fipe/yamaha/ybr-125-e-2004-827039-2/",
+    "bundlePath": "/data/bundles/yamaha/ybr-125-e-2004-827039-2.json"
+  },
+  {
+    "vehicleId": "yamaha-ybr-125-e-2005-gasolina",
+    "canonicalPath": "/fipe/yamaha/ybr-125-e-2005-827039-2/",
+    "bundlePath": "/data/bundles/yamaha/ybr-125-e-2005-827039-2.json"
+  },
+  {
+    "vehicleId": "yamaha-ybr-125-e-2006-gasolina",
+    "canonicalPath": "/fipe/yamaha/ybr-125-e-2006-827039-2/",
+    "bundlePath": "/data/bundles/yamaha/ybr-125-e-2006-827039-2.json"
+  },
+  {
+    "vehicleId": "yamaha-ybr-125-e-2007-gasolina",
+    "canonicalPath": "/fipe/yamaha/ybr-125-e-2007-827039-2/",
+    "bundlePath": "/data/bundles/yamaha/ybr-125-e-2007-827039-2.json"
+  },
+  {
+    "vehicleId": "yamaha-ybr-125-e-2008-gasolina",
+    "canonicalPath": "/fipe/yamaha/ybr-125-e-2008-827039-2/",
+    "bundlePath": "/data/bundles/yamaha/ybr-125-e-2008-827039-2.json"
+  },
+  {
+    "vehicleId": "yamaha-ybr-125-ed-2002-gasolina",
+    "canonicalPath": "/fipe/yamaha/ybr-125-ed-2002-827045-7/",
+    "bundlePath": "/data/bundles/yamaha/ybr-125-ed-2002-827045-7.json"
+  },
+  {
+    "vehicleId": "yamaha-ybr-125-ed-2003-gasolina",
+    "canonicalPath": "/fipe/yamaha/ybr-125-ed-2003-827045-7/",
+    "bundlePath": "/data/bundles/yamaha/ybr-125-ed-2003-827045-7.json"
+  },
+  {
+    "vehicleId": "yamaha-ybr-125-ed-2004-gasolina",
+    "canonicalPath": "/fipe/yamaha/ybr-125-ed-2004-827045-7/",
+    "bundlePath": "/data/bundles/yamaha/ybr-125-ed-2004-827045-7.json"
+  },
+  {
+    "vehicleId": "yamaha-ybr-125-ed-2005-gasolina",
+    "canonicalPath": "/fipe/yamaha/ybr-125-ed-2005-827045-7/",
+    "bundlePath": "/data/bundles/yamaha/ybr-125-ed-2005-827045-7.json"
+  },
+  {
+    "vehicleId": "yamaha-ybr-125-ed-2006-gasolina",
+    "canonicalPath": "/fipe/yamaha/ybr-125-ed-2006-827045-7/",
+    "bundlePath": "/data/bundles/yamaha/ybr-125-ed-2006-827045-7.json"
+  },
+  {
+    "vehicleId": "yamaha-ybr-125-ed-2007-gasolina",
+    "canonicalPath": "/fipe/yamaha/ybr-125-ed-2007-827045-7/",
+    "bundlePath": "/data/bundles/yamaha/ybr-125-ed-2007-827045-7.json"
+  },
+  {
+    "vehicleId": "yamaha-ybr-125-ed-2008-gasolina",
+    "canonicalPath": "/fipe/yamaha/ybr-125-ed-2008-827045-7/",
+    "bundlePath": "/data/bundles/yamaha/ybr-125-ed-2008-827045-7.json"
+  },
+  {
+    "vehicleId": "yamaha-ybr-125-factor-e-2009-gasolina",
+    "canonicalPath": "/fipe/yamaha/ybr-125-factor-e-2009-827073-2/",
+    "bundlePath": "/data/bundles/yamaha/ybr-125-factor-e-2009-827073-2.json"
+  },
+  {
+    "vehicleId": "yamaha-ybr-125-factor-e-2010-gasolina",
+    "canonicalPath": "/fipe/yamaha/ybr-125-factor-e-2010-827073-2/",
+    "bundlePath": "/data/bundles/yamaha/ybr-125-factor-e-2010-827073-2.json"
+  },
+  {
+    "vehicleId": "yamaha-ybr-125-factor-e-2011-gasolina",
+    "canonicalPath": "/fipe/yamaha/ybr-125-factor-e-2011-827073-2/",
+    "bundlePath": "/data/bundles/yamaha/ybr-125-factor-e-2011-827073-2.json"
+  },
+  {
+    "vehicleId": "yamaha-ybr-125-factor-e-2012-gasolina",
+    "canonicalPath": "/fipe/yamaha/ybr-125-factor-e-2012-827073-2/",
+    "bundlePath": "/data/bundles/yamaha/ybr-125-factor-e-2012-827073-2.json"
+  },
+  {
+    "vehicleId": "yamaha-ybr-125-factor-e-2013-gasolina",
+    "canonicalPath": "/fipe/yamaha/ybr-125-factor-e-2013-827073-2/",
+    "bundlePath": "/data/bundles/yamaha/ybr-125-factor-e-2013-827073-2.json"
+  },
+  {
+    "vehicleId": "yamaha-ybr-125-factor-e-2014-gasolina",
+    "canonicalPath": "/fipe/yamaha/ybr-125-factor-e-2014-827073-2/",
+    "bundlePath": "/data/bundles/yamaha/ybr-125-factor-e-2014-827073-2.json"
+  },
+  {
+    "vehicleId": "yamaha-ybr-125-factor-e-2015-gasolina",
+    "canonicalPath": "/fipe/yamaha/ybr-125-factor-e-2015-827073-2/",
+    "bundlePath": "/data/bundles/yamaha/ybr-125-factor-e-2015-827073-2.json"
+  },
+  {
+    "vehicleId": "yamaha-ybr-125-factor-e-2016-gasolina",
+    "canonicalPath": "/fipe/yamaha/ybr-125-factor-e-2016-827073-2/",
+    "bundlePath": "/data/bundles/yamaha/ybr-125-factor-e-2016-827073-2.json"
+  },
+  {
+    "vehicleId": "yamaha-ybr-125-factor-ed-factor-edition-2009-gasolina",
+    "canonicalPath": "/fipe/yamaha/ybr-125-factor-ed-factor-edition-2009-827074-0/",
+    "bundlePath": "/data/bundles/yamaha/ybr-125-factor-ed-factor-edition-2009-827074-0.json"
+  },
+  {
+    "vehicleId": "yamaha-ybr-125-factor-ed-factor-edition-2010-gasolina",
+    "canonicalPath": "/fipe/yamaha/ybr-125-factor-ed-factor-edition-2010-827074-0/",
+    "bundlePath": "/data/bundles/yamaha/ybr-125-factor-ed-factor-edition-2010-827074-0.json"
+  },
+  {
+    "vehicleId": "yamaha-ybr-125-factor-ed-factor-edition-2011-gasolina",
+    "canonicalPath": "/fipe/yamaha/ybr-125-factor-ed-factor-edition-2011-827074-0/",
+    "bundlePath": "/data/bundles/yamaha/ybr-125-factor-ed-factor-edition-2011-827074-0.json"
+  },
+  {
+    "vehicleId": "yamaha-ybr-125-factor-ed-factor-edition-2012-gasolina",
+    "canonicalPath": "/fipe/yamaha/ybr-125-factor-ed-factor-edition-2012-827074-0/",
+    "bundlePath": "/data/bundles/yamaha/ybr-125-factor-ed-factor-edition-2012-827074-0.json"
+  },
+  {
+    "vehicleId": "yamaha-ybr-125-factor-ed-factor-edition-2013-gasolina",
+    "canonicalPath": "/fipe/yamaha/ybr-125-factor-ed-factor-edition-2013-827074-0/",
+    "bundlePath": "/data/bundles/yamaha/ybr-125-factor-ed-factor-edition-2013-827074-0.json"
+  },
+  {
+    "vehicleId": "yamaha-ybr-125-factor-ed-factor-edition-2014-gasolina",
+    "canonicalPath": "/fipe/yamaha/ybr-125-factor-ed-factor-edition-2014-827074-0/",
+    "bundlePath": "/data/bundles/yamaha/ybr-125-factor-ed-factor-edition-2014-827074-0.json"
+  },
+  {
+    "vehicleId": "yamaha-ybr-125-factor-ed-factor-edition-2015-gasolina",
+    "canonicalPath": "/fipe/yamaha/ybr-125-factor-ed-factor-edition-2015-827074-0/",
+    "bundlePath": "/data/bundles/yamaha/ybr-125-factor-ed-factor-edition-2015-827074-0.json"
+  },
+  {
+    "vehicleId": "yamaha-ybr-125-factor-ed-factor-edition-2016-gasolina",
+    "canonicalPath": "/fipe/yamaha/ybr-125-factor-ed-factor-edition-2016-827074-0/",
+    "bundlePath": "/data/bundles/yamaha/ybr-125-factor-ed-factor-edition-2016-827074-0.json"
+  },
+  {
+    "vehicleId": "yamaha-ybr-125-factor-k-factor-k1-2009-gasolina",
+    "canonicalPath": "/fipe/yamaha/ybr-125-factor-k-factor-k1-2009-827072-4/",
+    "bundlePath": "/data/bundles/yamaha/ybr-125-factor-k-factor-k1-2009-827072-4.json"
+  },
+  {
+    "vehicleId": "yamaha-ybr-125-factor-k-factor-k1-2010-gasolina",
+    "canonicalPath": "/fipe/yamaha/ybr-125-factor-k-factor-k1-2010-827072-4/",
+    "bundlePath": "/data/bundles/yamaha/ybr-125-factor-k-factor-k1-2010-827072-4.json"
+  },
+  {
+    "vehicleId": "yamaha-ybr-125-factor-k-factor-k1-2011-gasolina",
+    "canonicalPath": "/fipe/yamaha/ybr-125-factor-k-factor-k1-2011-827072-4/",
+    "bundlePath": "/data/bundles/yamaha/ybr-125-factor-k-factor-k1-2011-827072-4.json"
+  },
+  {
+    "vehicleId": "yamaha-ybr-125-factor-k-factor-k1-2012-gasolina",
+    "canonicalPath": "/fipe/yamaha/ybr-125-factor-k-factor-k1-2012-827072-4/",
+    "bundlePath": "/data/bundles/yamaha/ybr-125-factor-k-factor-k1-2012-827072-4.json"
+  },
+  {
+    "vehicleId": "yamaha-ybr-125-factor-k-factor-k1-2013-gasolina",
+    "canonicalPath": "/fipe/yamaha/ybr-125-factor-k-factor-k1-2013-827072-4/",
+    "bundlePath": "/data/bundles/yamaha/ybr-125-factor-k-factor-k1-2013-827072-4.json"
+  },
+  {
+    "vehicleId": "yamaha-ybr-125-factor-k-factor-k1-2014-gasolina",
+    "canonicalPath": "/fipe/yamaha/ybr-125-factor-k-factor-k1-2014-827072-4/",
+    "bundlePath": "/data/bundles/yamaha/ybr-125-factor-k-factor-k1-2014-827072-4.json"
+  },
+  {
+    "vehicleId": "yamaha-ybr-125-factor-k-factor-k1-2015-gasolina",
+    "canonicalPath": "/fipe/yamaha/ybr-125-factor-k-factor-k1-2015-827072-4/",
+    "bundlePath": "/data/bundles/yamaha/ybr-125-factor-k-factor-k1-2015-827072-4.json"
+  },
+  {
+    "vehicleId": "yamaha-ybr-125-factor-k-factor-k1-2016-gasolina",
+    "canonicalPath": "/fipe/yamaha/ybr-125-factor-k-factor-k1-2016-827072-4/",
+    "bundlePath": "/data/bundles/yamaha/ybr-125-factor-k-factor-k1-2016-827072-4.json"
+  },
+  {
+    "vehicleId": "yamaha-ybr-125-factor-pro-e-2014-gasolina",
+    "canonicalPath": "/fipe/yamaha/ybr-125-factor-pro-e-2014-827086-4/",
+    "bundlePath": "/data/bundles/yamaha/ybr-125-factor-pro-e-2014-827086-4.json"
+  },
+  {
+    "vehicleId": "yamaha-ybr-125-factor-pro-k-2014-gasolina",
+    "canonicalPath": "/fipe/yamaha/ybr-125-factor-pro-k-2014-827085-6/",
+    "bundlePath": "/data/bundles/yamaha/ybr-125-factor-pro-k-2014-827085-6.json"
+  },
+  {
+    "vehicleId": "yamaha-ybr-125-k-2001-gasolina",
+    "canonicalPath": "/fipe/yamaha/ybr-125-k-2001-827040-6/",
+    "bundlePath": "/data/bundles/yamaha/ybr-125-k-2001-827040-6.json"
+  },
+  {
+    "vehicleId": "yamaha-ybr-125-k-2002-gasolina",
+    "canonicalPath": "/fipe/yamaha/ybr-125-k-2002-827040-6/",
+    "bundlePath": "/data/bundles/yamaha/ybr-125-k-2002-827040-6.json"
+  },
+  {
+    "vehicleId": "yamaha-ybr-125-k-2003-gasolina",
+    "canonicalPath": "/fipe/yamaha/ybr-125-k-2003-827040-6/",
+    "bundlePath": "/data/bundles/yamaha/ybr-125-k-2003-827040-6.json"
+  },
+  {
+    "vehicleId": "yamaha-ybr-125-k-2004-gasolina",
+    "canonicalPath": "/fipe/yamaha/ybr-125-k-2004-827040-6/",
+    "bundlePath": "/data/bundles/yamaha/ybr-125-k-2004-827040-6.json"
+  },
+  {
+    "vehicleId": "yamaha-ybr-125-k-2005-gasolina",
+    "canonicalPath": "/fipe/yamaha/ybr-125-k-2005-827040-6/",
+    "bundlePath": "/data/bundles/yamaha/ybr-125-k-2005-827040-6.json"
+  },
+  {
+    "vehicleId": "yamaha-ybr-125-k-2006-gasolina",
+    "canonicalPath": "/fipe/yamaha/ybr-125-k-2006-827040-6/",
+    "bundlePath": "/data/bundles/yamaha/ybr-125-k-2006-827040-6.json"
+  },
+  {
+    "vehicleId": "yamaha-ybr-125-k-2007-gasolina",
+    "canonicalPath": "/fipe/yamaha/ybr-125-k-2007-827040-6/",
+    "bundlePath": "/data/bundles/yamaha/ybr-125-k-2007-827040-6.json"
+  },
+  {
+    "vehicleId": "yamaha-ybr-125-k-2008-gasolina",
+    "canonicalPath": "/fipe/yamaha/ybr-125-k-2008-827040-6/",
+    "bundlePath": "/data/bundles/yamaha/ybr-125-k-2008-827040-6.json"
+  },
+  {
+    "vehicleId": "yamaha-ybr-125i-factor-ed-flex-2017-gasolina",
+    "canonicalPath": "/fipe/yamaha/ybr-125i-factor-ed-flex-2017-827104-6/",
+    "bundlePath": "/data/bundles/yamaha/ybr-125i-factor-ed-flex-2017-827104-6.json"
+  },
+  {
+    "vehicleId": "yamaha-ybr-125i-factor-ed-flex-2018-gasolina",
+    "canonicalPath": "/fipe/yamaha/ybr-125i-factor-ed-flex-2018-827104-6/",
+    "bundlePath": "/data/bundles/yamaha/ybr-125i-factor-ed-flex-2018-827104-6.json"
+  },
+  {
+    "vehicleId": "yamaha-ybr-125i-factor-ed-flex-2019-gasolina",
+    "canonicalPath": "/fipe/yamaha/ybr-125i-factor-ed-flex-2019-827104-6/",
+    "bundlePath": "/data/bundles/yamaha/ybr-125i-factor-ed-flex-2019-827104-6.json"
+  },
+  {
+    "vehicleId": "yamaha-ybr-125i-factor-ed-flex-2020-gasolina",
+    "canonicalPath": "/fipe/yamaha/ybr-125i-factor-ed-flex-2020-827104-6/",
+    "bundlePath": "/data/bundles/yamaha/ybr-125i-factor-ed-flex-2020-827104-6.json"
+  },
+  {
+    "vehicleId": "yamaha-ybr-125i-factor-ed-flex-2021-gasolina",
+    "canonicalPath": "/fipe/yamaha/ybr-125i-factor-ed-flex-2021-827104-6/",
+    "bundlePath": "/data/bundles/yamaha/ybr-125i-factor-ed-flex-2021-827104-6.json"
+  },
+  {
+    "vehicleId": "yamaha-ybr-125i-factor-ed-flex-2022-gasolina",
+    "canonicalPath": "/fipe/yamaha/ybr-125i-factor-ed-flex-2022-827104-6/",
+    "bundlePath": "/data/bundles/yamaha/ybr-125i-factor-ed-flex-2022-827104-6.json"
+  },
+  {
+    "vehicleId": "yamaha-ybr-125i-factor-ed-flex-2023-gasolina",
+    "canonicalPath": "/fipe/yamaha/ybr-125i-factor-ed-flex-2023-827104-6/",
+    "bundlePath": "/data/bundles/yamaha/ybr-125i-factor-ed-flex-2023-827104-6.json"
+  },
+  {
+    "vehicleId": "yamaha-ybr-125i-factor-ed-flex-2024-gasolina",
+    "canonicalPath": "/fipe/yamaha/ybr-125i-factor-ed-flex-2024-827104-6/",
+    "bundlePath": "/data/bundles/yamaha/ybr-125i-factor-ed-flex-2024-827104-6.json"
+  },
+  {
+    "vehicleId": "yamaha-ybr-125i-factor-ed-flex-2025-gasolina",
+    "canonicalPath": "/fipe/yamaha/ybr-125i-factor-ed-flex-2025-827104-6/",
+    "bundlePath": "/data/bundles/yamaha/ybr-125i-factor-ed-flex-2025-827104-6.json"
+  },
+  {
+    "vehicleId": "yamaha-ybr-150-factor-dx-flex-2025-gasolina",
+    "canonicalPath": "/fipe/yamaha/ybr-150-factor-dx-flex-2025-827134-8/",
+    "bundlePath": "/data/bundles/yamaha/ybr-150-factor-dx-flex-2025-827134-8.json"
+  },
+  {
+    "vehicleId": "yamaha-ybr-150-factor-dx-flex-2026-gasolina",
+    "canonicalPath": "/fipe/yamaha/ybr-150-factor-dx-flex-2026-827134-8/",
+    "bundlePath": "/data/bundles/yamaha/ybr-150-factor-dx-flex-2026-827134-8.json"
+  },
+  {
+    "vehicleId": "yamaha-ybr-150-factor-dx-flex-0-gasolina",
+    "canonicalPath": "/fipe/yamaha/ybr-150-factor-dx-flex-0-827134-8/",
+    "bundlePath": "/data/bundles/yamaha/ybr-150-factor-dx-flex-0-827134-8.json"
+  },
+  {
+    "vehicleId": "yamaha-ybr-150-factor-e-flex-2016-gasolina",
+    "canonicalPath": "/fipe/yamaha/ybr-150-factor-e-flex-2016-827098-8/",
+    "bundlePath": "/data/bundles/yamaha/ybr-150-factor-e-flex-2016-827098-8.json"
+  },
+  {
+    "vehicleId": "yamaha-ybr-150-factor-e-flex-2017-gasolina",
+    "canonicalPath": "/fipe/yamaha/ybr-150-factor-e-flex-2017-827098-8/",
+    "bundlePath": "/data/bundles/yamaha/ybr-150-factor-e-flex-2017-827098-8.json"
+  },
+  {
+    "vehicleId": "yamaha-ybr-150-factor-e-flex-2018-gasolina",
+    "canonicalPath": "/fipe/yamaha/ybr-150-factor-e-flex-2018-827098-8/",
+    "bundlePath": "/data/bundles/yamaha/ybr-150-factor-e-flex-2018-827098-8.json"
+  },
+  {
+    "vehicleId": "yamaha-ybr-150-factor-ed-flex-2016-gasolina",
+    "canonicalPath": "/fipe/yamaha/ybr-150-factor-ed-flex-2016-827099-6/",
+    "bundlePath": "/data/bundles/yamaha/ybr-150-factor-ed-flex-2016-827099-6.json"
+  },
+  {
+    "vehicleId": "yamaha-ybr-150-factor-ed-flex-2017-gasolina",
+    "canonicalPath": "/fipe/yamaha/ybr-150-factor-ed-flex-2017-827099-6/",
+    "bundlePath": "/data/bundles/yamaha/ybr-150-factor-ed-flex-2017-827099-6.json"
+  },
+  {
+    "vehicleId": "yamaha-ybr-150-factor-ed-flex-2018-gasolina",
+    "canonicalPath": "/fipe/yamaha/ybr-150-factor-ed-flex-2018-827099-6/",
+    "bundlePath": "/data/bundles/yamaha/ybr-150-factor-ed-flex-2018-827099-6.json"
+  },
+  {
+    "vehicleId": "yamaha-ybr-150-factor-ed-flex-2019-gasolina",
+    "canonicalPath": "/fipe/yamaha/ybr-150-factor-ed-flex-2019-827099-6/",
+    "bundlePath": "/data/bundles/yamaha/ybr-150-factor-ed-flex-2019-827099-6.json"
+  },
+  {
+    "vehicleId": "yamaha-ybr-150-factor-ed-flex-2020-gasolina",
+    "canonicalPath": "/fipe/yamaha/ybr-150-factor-ed-flex-2020-827099-6/",
+    "bundlePath": "/data/bundles/yamaha/ybr-150-factor-ed-flex-2020-827099-6.json"
+  },
+  {
+    "vehicleId": "yamaha-ybr-150-factor-ed-flex-2021-gasolina",
+    "canonicalPath": "/fipe/yamaha/ybr-150-factor-ed-flex-2021-827099-6/",
+    "bundlePath": "/data/bundles/yamaha/ybr-150-factor-ed-flex-2021-827099-6.json"
+  },
+  {
+    "vehicleId": "yamaha-ybr-150-factor-ed-flex-2022-gasolina",
+    "canonicalPath": "/fipe/yamaha/ybr-150-factor-ed-flex-2022-827099-6/",
+    "bundlePath": "/data/bundles/yamaha/ybr-150-factor-ed-flex-2022-827099-6.json"
+  },
+  {
+    "vehicleId": "yamaha-ybr-150-factor-ed-flex-2023-gasolina",
+    "canonicalPath": "/fipe/yamaha/ybr-150-factor-ed-flex-2023-827099-6/",
+    "bundlePath": "/data/bundles/yamaha/ybr-150-factor-ed-flex-2023-827099-6.json"
+  },
+  {
+    "vehicleId": "yamaha-ybr-150-factor-ed-flex-2024-gasolina",
+    "canonicalPath": "/fipe/yamaha/ybr-150-factor-ed-flex-2024-827099-6/",
+    "bundlePath": "/data/bundles/yamaha/ybr-150-factor-ed-flex-2024-827099-6.json"
+  },
+  {
+    "vehicleId": "yamaha-ybr-150-factor-ed-flex-0-gasolina",
+    "canonicalPath": "/fipe/yamaha/ybr-150-factor-ed-flex-0-827099-6/",
+    "bundlePath": "/data/bundles/yamaha/ybr-150-factor-ed-flex-0-827099-6.json"
+  },
+  {
+    "vehicleId": "yamaha-ybr-150-factor-flex-2025-flex",
+    "canonicalPath": "/fipe/yamaha/ybr-150-factor-flex-2025-827135-6/",
+    "bundlePath": "/data/bundles/yamaha/ybr-150-factor-flex-2025-827135-6.json"
+  },
+  {
+    "vehicleId": "yamaha-ybr-150-factor-flex-2026-flex",
+    "canonicalPath": "/fipe/yamaha/ybr-150-factor-flex-2026-827135-6/",
+    "bundlePath": "/data/bundles/yamaha/ybr-150-factor-flex-2026-827135-6.json"
+  },
+  {
+    "vehicleId": "yamaha-ybr-150-factor-flex-0-flex",
+    "canonicalPath": "/fipe/yamaha/ybr-150-factor-flex-0-827135-6/",
+    "bundlePath": "/data/bundles/yamaha/ybr-150-factor-flex-0-827135-6.json"
+  },
+  {
+    "vehicleId": "yamaha-yfm-250-bruin-230cc-2006-gasolina",
+    "canonicalPath": "/fipe/yamaha/yfm-250-bruin-230cc-2006-827057-0/",
+    "bundlePath": "/data/bundles/yamaha/yfm-250-bruin-230cc-2006-827057-0.json"
+  },
+  {
+    "vehicleId": "yamaha-yfm-250-bruin-230cc-2007-gasolina",
+    "canonicalPath": "/fipe/yamaha/yfm-250-bruin-230cc-2007-827057-0/",
+    "bundlePath": "/data/bundles/yamaha/yfm-250-bruin-230cc-2007-827057-0.json"
+  },
+  {
+    "vehicleId": "yamaha-yfm-350-grizzly-350cc-2006-gasolina",
+    "canonicalPath": "/fipe/yamaha/yfm-350-grizzly-350cc-2006-827058-9/",
+    "bundlePath": "/data/bundles/yamaha/yfm-350-grizzly-350cc-2006-827058-9.json"
+  },
+  {
+    "vehicleId": "yamaha-yfm-350-grizzly-350cc-2007-gasolina",
+    "canonicalPath": "/fipe/yamaha/yfm-350-grizzly-350cc-2007-827058-9/",
+    "bundlePath": "/data/bundles/yamaha/yfm-350-grizzly-350cc-2007-827058-9.json"
+  },
+  {
+    "vehicleId": "yamaha-yfm-660r-660cc-2003-gasolina",
+    "canonicalPath": "/fipe/yamaha/yfm-660r-660cc-2003-827056-2/",
+    "bundlePath": "/data/bundles/yamaha/yfm-660r-660cc-2003-827056-2.json"
+  },
+  {
+    "vehicleId": "yamaha-yfm-660r-660cc-2004-gasolina",
+    "canonicalPath": "/fipe/yamaha/yfm-660r-660cc-2004-827056-2/",
+    "bundlePath": "/data/bundles/yamaha/yfm-660r-660cc-2004-827056-2.json"
+  },
+  {
+    "vehicleId": "yamaha-yfm-660r-660cc-2005-gasolina",
+    "canonicalPath": "/fipe/yamaha/yfm-660r-660cc-2005-827056-2/",
+    "bundlePath": "/data/bundles/yamaha/yfm-660r-660cc-2005-827056-2.json"
+  },
+  {
+    "vehicleId": "yamaha-yfm-660r-660cc-2006-gasolina",
+    "canonicalPath": "/fipe/yamaha/yfm-660r-660cc-2006-827056-2/",
+    "bundlePath": "/data/bundles/yamaha/yfm-660r-660cc-2006-827056-2.json"
+  },
+  {
+    "vehicleId": "yamaha-yfm-700r-686cc-2008-gasolina",
+    "canonicalPath": "/fipe/yamaha/yfm-700r-686cc-2008-827068-6/",
+    "bundlePath": "/data/bundles/yamaha/yfm-700r-686cc-2008-827068-6.json"
+  },
+  {
+    "vehicleId": "yamaha-yfm-700r-686cc-2010-gasolina",
+    "canonicalPath": "/fipe/yamaha/yfm-700r-686cc-2010-827068-6/",
+    "bundlePath": "/data/bundles/yamaha/yfm-700r-686cc-2010-827068-6.json"
+  },
+  {
+    "vehicleId": "yamaha-yfm-80-79cc-2003-gasolina",
+    "canonicalPath": "/fipe/yamaha/yfm-80-79cc-2003-827054-6/",
+    "bundlePath": "/data/bundles/yamaha/yfm-80-79cc-2003-827054-6.json"
+  },
+  {
+    "vehicleId": "yamaha-yfm-80-79cc-2004-gasolina",
+    "canonicalPath": "/fipe/yamaha/yfm-80-79cc-2004-827054-6/",
+    "bundlePath": "/data/bundles/yamaha/yfm-80-79cc-2004-827054-6.json"
+  },
+  {
+    "vehicleId": "yamaha-yfm-80-79cc-2005-gasolina",
+    "canonicalPath": "/fipe/yamaha/yfm-80-79cc-2005-827054-6/",
+    "bundlePath": "/data/bundles/yamaha/yfm-80-79cc-2005-827054-6.json"
+  },
+  {
+    "vehicleId": "yamaha-yfm-80-79cc-2006-gasolina",
+    "canonicalPath": "/fipe/yamaha/yfm-80-79cc-2006-827054-6/",
+    "bundlePath": "/data/bundles/yamaha/yfm-80-79cc-2006-827054-6.json"
+  },
+  {
+    "vehicleId": "yamaha-yfm-80-79cc-2007-gasolina",
+    "canonicalPath": "/fipe/yamaha/yfm-80-79cc-2007-827054-6/",
+    "bundlePath": "/data/bundles/yamaha/yfm-80-79cc-2007-827054-6.json"
+  },
+  {
+    "vehicleId": "yamaha-yfs-200-blaster-195cc-2003-gasolina",
+    "canonicalPath": "/fipe/yamaha/yfs-200-blaster-195cc-2003-827055-4/",
+    "bundlePath": "/data/bundles/yamaha/yfs-200-blaster-195cc-2003-827055-4.json"
+  },
+  {
+    "vehicleId": "yamaha-yfs-200-blaster-195cc-2004-gasolina",
+    "canonicalPath": "/fipe/yamaha/yfs-200-blaster-195cc-2004-827055-4/",
+    "bundlePath": "/data/bundles/yamaha/yfs-200-blaster-195cc-2004-827055-4.json"
+  },
+  {
+    "vehicleId": "yamaha-yfs-200-blaster-195cc-2005-gasolina",
+    "canonicalPath": "/fipe/yamaha/yfs-200-blaster-195cc-2005-827055-4/",
+    "bundlePath": "/data/bundles/yamaha/yfs-200-blaster-195cc-2005-827055-4.json"
+  },
+  {
+    "vehicleId": "yamaha-yfs-200-blaster-195cc-2006-gasolina",
+    "canonicalPath": "/fipe/yamaha/yfs-200-blaster-195cc-2006-827055-4/",
+    "bundlePath": "/data/bundles/yamaha/yfs-200-blaster-195cc-2006-827055-4.json"
+  },
+  {
+    "vehicleId": "yamaha-yfz-450-yz-450-f-449cc-2008-gasolina",
+    "canonicalPath": "/fipe/yamaha/yfz-450-yz-450-f-449cc-2008-827069-4/",
+    "bundlePath": "/data/bundles/yamaha/yfz-450-yz-450-f-449cc-2008-827069-4.json"
+  },
+  {
+    "vehicleId": "yamaha-yfz-450-yz-450-f-449cc-2009-gasolina",
+    "canonicalPath": "/fipe/yamaha/yfz-450-yz-450-f-449cc-2009-827069-4/",
+    "bundlePath": "/data/bundles/yamaha/yfz-450-yz-450-f-449cc-2009-827069-4.json"
+  },
+  {
+    "vehicleId": "yamaha-yfz-450-yz-450-f-449cc-2012-gasolina",
+    "canonicalPath": "/fipe/yamaha/yfz-450-yz-450-f-449cc-2012-827069-4/",
+    "bundlePath": "/data/bundles/yamaha/yfz-450-yz-450-f-449cc-2012-827069-4.json"
+  },
+  {
+    "vehicleId": "yamaha-yfz-450-yz-450-f-449cc-2020-gasolina",
+    "canonicalPath": "/fipe/yamaha/yfz-450-yz-450-f-449cc-2020-827069-4/",
+    "bundlePath": "/data/bundles/yamaha/yfz-450-yz-450-f-449cc-2020-827069-4.json"
+  },
+  {
+    "vehicleId": "yamaha-yfz-450-yz-450-f-449cc-2021-gasolina",
+    "canonicalPath": "/fipe/yamaha/yfz-450-yz-450-f-449cc-2021-827069-4/",
+    "bundlePath": "/data/bundles/yamaha/yfz-450-yz-450-f-449cc-2021-827069-4.json"
+  },
+  {
+    "vehicleId": "yamaha-yfz-450-yz-450-f-449cc-2022-gasolina",
+    "canonicalPath": "/fipe/yamaha/yfz-450-yz-450-f-449cc-2022-827069-4/",
+    "bundlePath": "/data/bundles/yamaha/yfz-450-yz-450-f-449cc-2022-827069-4.json"
+  },
+  {
+    "vehicleId": "yamaha-yfz-450-yz-450-f-449cc-2023-gasolina",
+    "canonicalPath": "/fipe/yamaha/yfz-450-yz-450-f-449cc-2023-827069-4/",
+    "bundlePath": "/data/bundles/yamaha/yfz-450-yz-450-f-449cc-2023-827069-4.json"
+  },
+  {
+    "vehicleId": "yamaha-yfz-450-yz-450-f-449cc-2024-gasolina",
+    "canonicalPath": "/fipe/yamaha/yfz-450-yz-450-f-449cc-2024-827069-4/",
+    "bundlePath": "/data/bundles/yamaha/yfz-450-yz-450-f-449cc-2024-827069-4.json"
+  },
+  {
+    "vehicleId": "yamaha-yfz-450-yz-450-f-449cc-2025-gasolina",
+    "canonicalPath": "/fipe/yamaha/yfz-450-yz-450-f-449cc-2025-827069-4/",
+    "bundlePath": "/data/bundles/yamaha/yfz-450-yz-450-f-449cc-2025-827069-4.json"
+  },
+  {
+    "vehicleId": "yamaha-yfz-450-yz-450-f-449cc-0-gasolina",
+    "canonicalPath": "/fipe/yamaha/yfz-450-yz-450-f-449cc-0-827069-4/",
+    "bundlePath": "/data/bundles/yamaha/yfz-450-yz-450-f-449cc-0-827069-4.json"
+  },
+  {
+    "vehicleId": "yamaha-ys-150-fazer-ed-flex-2014-gasolina",
+    "canonicalPath": "/fipe/yamaha/ys-150-fazer-ed-flex-2014-827087-2/",
+    "bundlePath": "/data/bundles/yamaha/ys-150-fazer-ed-flex-2014-827087-2.json"
+  },
+  {
+    "vehicleId": "yamaha-ys-150-fazer-ed-flex-2015-gasolina",
+    "canonicalPath": "/fipe/yamaha/ys-150-fazer-ed-flex-2015-827087-2/",
+    "bundlePath": "/data/bundles/yamaha/ys-150-fazer-ed-flex-2015-827087-2.json"
+  },
+  {
+    "vehicleId": "yamaha-ys-150-fazer-sed-flex-2014-gasolina",
+    "canonicalPath": "/fipe/yamaha/ys-150-fazer-sed-flex-2014-827088-0/",
+    "bundlePath": "/data/bundles/yamaha/ys-150-fazer-sed-flex-2014-827088-0.json"
+  },
+  {
+    "vehicleId": "yamaha-ys-150-fazer-sed-flex-2015-gasolina",
+    "canonicalPath": "/fipe/yamaha/ys-150-fazer-sed-flex-2015-827088-0/",
+    "bundlePath": "/data/bundles/yamaha/ys-150-fazer-sed-flex-2015-827088-0.json"
+  },
+  {
+    "vehicleId": "yamaha-ys-150-fazer-sed-flex-2016-gasolina",
+    "canonicalPath": "/fipe/yamaha/ys-150-fazer-sed-flex-2016-827088-0/",
+    "bundlePath": "/data/bundles/yamaha/ys-150-fazer-sed-flex-2016-827088-0.json"
+  },
+  {
+    "vehicleId": "yamaha-ys-150-fazer-sed-flex-2017-gasolina",
+    "canonicalPath": "/fipe/yamaha/ys-150-fazer-sed-flex-2017-827088-0/",
+    "bundlePath": "/data/bundles/yamaha/ys-150-fazer-sed-flex-2017-827088-0.json"
+  },
+  {
+    "vehicleId": "yamaha-ys-150-fazer-sed-flex-2018-gasolina",
+    "canonicalPath": "/fipe/yamaha/ys-150-fazer-sed-flex-2018-827088-0/",
+    "bundlePath": "/data/bundles/yamaha/ys-150-fazer-sed-flex-2018-827088-0.json"
+  },
+  {
+    "vehicleId": "yamaha-ys-150-fazer-sed-flex-2019-gasolina",
+    "canonicalPath": "/fipe/yamaha/ys-150-fazer-sed-flex-2019-827088-0/",
+    "bundlePath": "/data/bundles/yamaha/ys-150-fazer-sed-flex-2019-827088-0.json"
+  },
+  {
+    "vehicleId": "yamaha-ys-150-fazer-sed-flex-2020-gasolina",
+    "canonicalPath": "/fipe/yamaha/ys-150-fazer-sed-flex-2020-827088-0/",
+    "bundlePath": "/data/bundles/yamaha/ys-150-fazer-sed-flex-2020-827088-0.json"
+  },
+  {
+    "vehicleId": "yamaha-ys-150-fazer-sed-flex-2021-gasolina",
+    "canonicalPath": "/fipe/yamaha/ys-150-fazer-sed-flex-2021-827088-0/",
+    "bundlePath": "/data/bundles/yamaha/ys-150-fazer-sed-flex-2021-827088-0.json"
+  },
+  {
+    "vehicleId": "yamaha-ys-150-fazer-sed-flex-2022-gasolina",
+    "canonicalPath": "/fipe/yamaha/ys-150-fazer-sed-flex-2022-827088-0/",
+    "bundlePath": "/data/bundles/yamaha/ys-150-fazer-sed-flex-2022-827088-0.json"
+  },
+  {
+    "vehicleId": "yamaha-ys-150-fazer-sed-flex-2023-gasolina",
+    "canonicalPath": "/fipe/yamaha/ys-150-fazer-sed-flex-2023-827088-0/",
+    "bundlePath": "/data/bundles/yamaha/ys-150-fazer-sed-flex-2023-827088-0.json"
+  },
+  {
+    "vehicleId": "yamaha-ys-150-fazer-sed-flex-2024-gasolina",
+    "canonicalPath": "/fipe/yamaha/ys-150-fazer-sed-flex-2024-827088-0/",
+    "bundlePath": "/data/bundles/yamaha/ys-150-fazer-sed-flex-2024-827088-0.json"
+  },
+  {
+    "vehicleId": "yamaha-ys-150-fazer-sed-flex-2025-gasolina",
+    "canonicalPath": "/fipe/yamaha/ys-150-fazer-sed-flex-2025-827088-0/",
+    "bundlePath": "/data/bundles/yamaha/ys-150-fazer-sed-flex-2025-827088-0.json"
+  },
+  {
+    "vehicleId": "yamaha-ys-250-fazer-fazer-l-edition-blueflex-2006-gasolina",
+    "canonicalPath": "/fipe/yamaha/ys-250-fazer-fazer-l-edition-blueflex-2006-827052-0/",
+    "bundlePath": "/data/bundles/yamaha/ys-250-fazer-fazer-l-edition-blueflex-2006-827052-0.json"
+  },
+  {
+    "vehicleId": "yamaha-ys-250-fazer-fazer-l-edition-blueflex-2007-gasolina",
+    "canonicalPath": "/fipe/yamaha/ys-250-fazer-fazer-l-edition-blueflex-2007-827052-0/",
+    "bundlePath": "/data/bundles/yamaha/ys-250-fazer-fazer-l-edition-blueflex-2007-827052-0.json"
+  },
+  {
+    "vehicleId": "yamaha-ys-250-fazer-fazer-l-edition-blueflex-2008-gasolina",
+    "canonicalPath": "/fipe/yamaha/ys-250-fazer-fazer-l-edition-blueflex-2008-827052-0/",
+    "bundlePath": "/data/bundles/yamaha/ys-250-fazer-fazer-l-edition-blueflex-2008-827052-0.json"
+  },
+  {
+    "vehicleId": "yamaha-ys-250-fazer-fazer-l-edition-blueflex-2009-gasolina",
+    "canonicalPath": "/fipe/yamaha/ys-250-fazer-fazer-l-edition-blueflex-2009-827052-0/",
+    "bundlePath": "/data/bundles/yamaha/ys-250-fazer-fazer-l-edition-blueflex-2009-827052-0.json"
+  },
+  {
+    "vehicleId": "yamaha-ys-250-fazer-fazer-l-edition-blueflex-2010-gasolina",
+    "canonicalPath": "/fipe/yamaha/ys-250-fazer-fazer-l-edition-blueflex-2010-827052-0/",
+    "bundlePath": "/data/bundles/yamaha/ys-250-fazer-fazer-l-edition-blueflex-2010-827052-0.json"
+  },
+  {
+    "vehicleId": "yamaha-ys-250-fazer-fazer-l-edition-blueflex-2011-gasolina",
+    "canonicalPath": "/fipe/yamaha/ys-250-fazer-fazer-l-edition-blueflex-2011-827052-0/",
+    "bundlePath": "/data/bundles/yamaha/ys-250-fazer-fazer-l-edition-blueflex-2011-827052-0.json"
+  },
+  {
+    "vehicleId": "yamaha-ys-250-fazer-fazer-l-edition-blueflex-2012-gasolina",
+    "canonicalPath": "/fipe/yamaha/ys-250-fazer-fazer-l-edition-blueflex-2012-827052-0/",
+    "bundlePath": "/data/bundles/yamaha/ys-250-fazer-fazer-l-edition-blueflex-2012-827052-0.json"
+  },
+  {
+    "vehicleId": "yamaha-ys-250-fazer-fazer-l-edition-blueflex-2013-gasolina",
+    "canonicalPath": "/fipe/yamaha/ys-250-fazer-fazer-l-edition-blueflex-2013-827052-0/",
+    "bundlePath": "/data/bundles/yamaha/ys-250-fazer-fazer-l-edition-blueflex-2013-827052-0.json"
+  },
+  {
+    "vehicleId": "yamaha-ys-250-fazer-fazer-l-edition-blueflex-2014-gasolina",
+    "canonicalPath": "/fipe/yamaha/ys-250-fazer-fazer-l-edition-blueflex-2014-827052-0/",
+    "bundlePath": "/data/bundles/yamaha/ys-250-fazer-fazer-l-edition-blueflex-2014-827052-0.json"
+  },
+  {
+    "vehicleId": "yamaha-ys-250-fazer-fazer-l-edition-blueflex-2015-gasolina",
+    "canonicalPath": "/fipe/yamaha/ys-250-fazer-fazer-l-edition-blueflex-2015-827052-0/",
+    "bundlePath": "/data/bundles/yamaha/ys-250-fazer-fazer-l-edition-blueflex-2015-827052-0.json"
+  },
+  {
+    "vehicleId": "yamaha-ys-250-fazer-fazer-l-edition-blueflex-2016-gasolina",
+    "canonicalPath": "/fipe/yamaha/ys-250-fazer-fazer-l-edition-blueflex-2016-827052-0/",
+    "bundlePath": "/data/bundles/yamaha/ys-250-fazer-fazer-l-edition-blueflex-2016-827052-0.json"
+  },
+  {
+    "vehicleId": "yamaha-ys-250-fazer-fazer-l-edition-blueflex-2017-gasolina",
+    "canonicalPath": "/fipe/yamaha/ys-250-fazer-fazer-l-edition-blueflex-2017-827052-0/",
+    "bundlePath": "/data/bundles/yamaha/ys-250-fazer-fazer-l-edition-blueflex-2017-827052-0.json"
+  },
+  {
+    "vehicleId": "yamaha-yz-125-2000-gasolina",
+    "canonicalPath": "/fipe/yamaha/yz-125-2000-827041-4/",
+    "bundlePath": "/data/bundles/yamaha/yz-125-2000-827041-4.json"
+  },
+  {
+    "vehicleId": "yamaha-yz-125-2001-gasolina",
+    "canonicalPath": "/fipe/yamaha/yz-125-2001-827041-4/",
+    "bundlePath": "/data/bundles/yamaha/yz-125-2001-827041-4.json"
+  },
+  {
+    "vehicleId": "yamaha-yz-125-2002-gasolina",
+    "canonicalPath": "/fipe/yamaha/yz-125-2002-827041-4/",
+    "bundlePath": "/data/bundles/yamaha/yz-125-2002-827041-4.json"
+  },
+  {
+    "vehicleId": "yamaha-yz-125-2003-gasolina",
+    "canonicalPath": "/fipe/yamaha/yz-125-2003-827041-4/",
+    "bundlePath": "/data/bundles/yamaha/yz-125-2003-827041-4.json"
+  },
+  {
+    "vehicleId": "yamaha-yz-125-2004-gasolina",
+    "canonicalPath": "/fipe/yamaha/yz-125-2004-827041-4/",
+    "bundlePath": "/data/bundles/yamaha/yz-125-2004-827041-4.json"
+  },
+  {
+    "vehicleId": "yamaha-yz-125-2005-gasolina",
+    "canonicalPath": "/fipe/yamaha/yz-125-2005-827041-4/",
+    "bundlePath": "/data/bundles/yamaha/yz-125-2005-827041-4.json"
+  },
+  {
+    "vehicleId": "yamaha-yz-125-2006-gasolina",
+    "canonicalPath": "/fipe/yamaha/yz-125-2006-827041-4/",
+    "bundlePath": "/data/bundles/yamaha/yz-125-2006-827041-4.json"
+  },
+  {
+    "vehicleId": "yamaha-yz-125-2007-gasolina",
+    "canonicalPath": "/fipe/yamaha/yz-125-2007-827041-4/",
+    "bundlePath": "/data/bundles/yamaha/yz-125-2007-827041-4.json"
+  },
+  {
+    "vehicleId": "yamaha-yz-125-2008-gasolina",
+    "canonicalPath": "/fipe/yamaha/yz-125-2008-827041-4/",
+    "bundlePath": "/data/bundles/yamaha/yz-125-2008-827041-4.json"
+  },
+  {
+    "vehicleId": "yamaha-yz-250-2000-gasolina",
+    "canonicalPath": "/fipe/yamaha/yz-250-2000-827042-2/",
+    "bundlePath": "/data/bundles/yamaha/yz-250-2000-827042-2.json"
+  },
+  {
+    "vehicleId": "yamaha-yz-250-2001-gasolina",
+    "canonicalPath": "/fipe/yamaha/yz-250-2001-827042-2/",
+    "bundlePath": "/data/bundles/yamaha/yz-250-2001-827042-2.json"
+  },
+  {
+    "vehicleId": "yamaha-yz-250-2002-gasolina",
+    "canonicalPath": "/fipe/yamaha/yz-250-2002-827042-2/",
+    "bundlePath": "/data/bundles/yamaha/yz-250-2002-827042-2.json"
+  },
+  {
+    "vehicleId": "yamaha-yz-250-2003-gasolina",
+    "canonicalPath": "/fipe/yamaha/yz-250-2003-827042-2/",
+    "bundlePath": "/data/bundles/yamaha/yz-250-2003-827042-2.json"
+  },
+  {
+    "vehicleId": "yamaha-yz-250-2004-gasolina",
+    "canonicalPath": "/fipe/yamaha/yz-250-2004-827042-2/",
+    "bundlePath": "/data/bundles/yamaha/yz-250-2004-827042-2.json"
+  },
+  {
+    "vehicleId": "yamaha-yz-250-2005-gasolina",
+    "canonicalPath": "/fipe/yamaha/yz-250-2005-827042-2/",
+    "bundlePath": "/data/bundles/yamaha/yz-250-2005-827042-2.json"
+  },
+  {
+    "vehicleId": "yamaha-yz-250-2006-gasolina",
+    "canonicalPath": "/fipe/yamaha/yz-250-2006-827042-2/",
+    "bundlePath": "/data/bundles/yamaha/yz-250-2006-827042-2.json"
+  },
+  {
+    "vehicleId": "yamaha-yz-250-2007-gasolina",
+    "canonicalPath": "/fipe/yamaha/yz-250-2007-827042-2/",
+    "bundlePath": "/data/bundles/yamaha/yz-250-2007-827042-2.json"
+  },
+  {
+    "vehicleId": "yamaha-yz-250-2008-gasolina",
+    "canonicalPath": "/fipe/yamaha/yz-250-2008-827042-2/",
+    "bundlePath": "/data/bundles/yamaha/yz-250-2008-827042-2.json"
+  },
+  {
+    "vehicleId": "yamaha-yz-250-2009-gasolina",
+    "canonicalPath": "/fipe/yamaha/yz-250-2009-827042-2/",
+    "bundlePath": "/data/bundles/yamaha/yz-250-2009-827042-2.json"
+  },
+  {
+    "vehicleId": "yamaha-yz-250-2020-gasolina",
+    "canonicalPath": "/fipe/yamaha/yz-250-2020-827042-2/",
+    "bundlePath": "/data/bundles/yamaha/yz-250-2020-827042-2.json"
+  },
+  {
+    "vehicleId": "yamaha-yz-250-2021-gasolina",
+    "canonicalPath": "/fipe/yamaha/yz-250-2021-827042-2/",
+    "bundlePath": "/data/bundles/yamaha/yz-250-2021-827042-2.json"
+  },
+  {
+    "vehicleId": "yamaha-yz-250-2022-gasolina",
+    "canonicalPath": "/fipe/yamaha/yz-250-2022-827042-2/",
+    "bundlePath": "/data/bundles/yamaha/yz-250-2022-827042-2.json"
+  },
+  {
+    "vehicleId": "yamaha-yz-250-2023-gasolina",
+    "canonicalPath": "/fipe/yamaha/yz-250-2023-827042-2/",
+    "bundlePath": "/data/bundles/yamaha/yz-250-2023-827042-2.json"
+  },
+  {
+    "vehicleId": "yamaha-yz-250-2024-gasolina",
+    "canonicalPath": "/fipe/yamaha/yz-250-2024-827042-2/",
+    "bundlePath": "/data/bundles/yamaha/yz-250-2024-827042-2.json"
+  },
+  {
+    "vehicleId": "yamaha-yz-250-2025-gasolina",
+    "canonicalPath": "/fipe/yamaha/yz-250-2025-827042-2/",
+    "bundlePath": "/data/bundles/yamaha/yz-250-2025-827042-2.json"
+  },
+  {
+    "vehicleId": "yamaha-yz-250-0-gasolina",
+    "canonicalPath": "/fipe/yamaha/yz-250-0-827042-2/",
+    "bundlePath": "/data/bundles/yamaha/yz-250-0-827042-2.json"
+  },
+  {
+    "vehicleId": "yamaha-yz-250-f-250cc-2020-gasolina",
+    "canonicalPath": "/fipe/yamaha/yz-250-f-250cc-2020-827111-9/",
+    "bundlePath": "/data/bundles/yamaha/yz-250-f-250cc-2020-827111-9.json"
+  },
+  {
+    "vehicleId": "yamaha-yz-250-f-250cc-2021-gasolina",
+    "canonicalPath": "/fipe/yamaha/yz-250-f-250cc-2021-827111-9/",
+    "bundlePath": "/data/bundles/yamaha/yz-250-f-250cc-2021-827111-9.json"
+  },
+  {
+    "vehicleId": "yamaha-yz-250-f-250cc-2022-gasolina",
+    "canonicalPath": "/fipe/yamaha/yz-250-f-250cc-2022-827111-9/",
+    "bundlePath": "/data/bundles/yamaha/yz-250-f-250cc-2022-827111-9.json"
+  },
+  {
+    "vehicleId": "yamaha-yz-250-f-250cc-2023-gasolina",
+    "canonicalPath": "/fipe/yamaha/yz-250-f-250cc-2023-827111-9/",
+    "bundlePath": "/data/bundles/yamaha/yz-250-f-250cc-2023-827111-9.json"
+  },
+  {
+    "vehicleId": "yamaha-yz-250-f-250cc-2024-gasolina",
+    "canonicalPath": "/fipe/yamaha/yz-250-f-250cc-2024-827111-9/",
+    "bundlePath": "/data/bundles/yamaha/yz-250-f-250cc-2024-827111-9.json"
+  },
+  {
+    "vehicleId": "yamaha-yz-250-f-250cc-2025-gasolina",
+    "canonicalPath": "/fipe/yamaha/yz-250-f-250cc-2025-827111-9/",
+    "bundlePath": "/data/bundles/yamaha/yz-250-f-250cc-2025-827111-9.json"
+  },
+  {
+    "vehicleId": "yamaha-yz-250-f-250cc-0-gasolina",
+    "canonicalPath": "/fipe/yamaha/yz-250-f-250cc-0-827111-9/",
+    "bundlePath": "/data/bundles/yamaha/yz-250-f-250cc-0-827111-9.json"
+  },
+  {
+    "vehicleId": "yamaha-yz-85-lw-85cc-2020-gasolina",
+    "canonicalPath": "/fipe/yamaha/yz-85-lw-85cc-2020-827112-7/",
+    "bundlePath": "/data/bundles/yamaha/yz-85-lw-85cc-2020-827112-7.json"
+  },
+  {
+    "vehicleId": "yamaha-yz-85-lw-85cc-2021-gasolina",
+    "canonicalPath": "/fipe/yamaha/yz-85-lw-85cc-2021-827112-7/",
+    "bundlePath": "/data/bundles/yamaha/yz-85-lw-85cc-2021-827112-7.json"
+  },
+  {
+    "vehicleId": "yamaha-yz-85-lw-85cc-2022-gasolina",
+    "canonicalPath": "/fipe/yamaha/yz-85-lw-85cc-2022-827112-7/",
+    "bundlePath": "/data/bundles/yamaha/yz-85-lw-85cc-2022-827112-7.json"
+  },
+  {
+    "vehicleId": "yamaha-yz-85-lw-85cc-2023-gasolina",
+    "canonicalPath": "/fipe/yamaha/yz-85-lw-85cc-2023-827112-7/",
+    "bundlePath": "/data/bundles/yamaha/yz-85-lw-85cc-2023-827112-7.json"
+  },
+  {
+    "vehicleId": "yamaha-yz-85-lw-85cc-2025-gasolina",
+    "canonicalPath": "/fipe/yamaha/yz-85-lw-85cc-2025-827112-7/",
+    "bundlePath": "/data/bundles/yamaha/yz-85-lw-85cc-2025-827112-7.json"
+  },
+  {
+    "vehicleId": "yamaha-yz-85-lw-85cc-0-gasolina",
+    "canonicalPath": "/fipe/yamaha/yz-85-lw-85cc-0-827112-7/",
+    "bundlePath": "/data/bundles/yamaha/yz-85-lw-85cc-0-827112-7.json"
+  },
+  {
+    "vehicleId": "yamaha-yzf-1000-thunderace-1996-gasolina",
+    "canonicalPath": "/fipe/yamaha/yzf-1000-thunderace-1996-827034-1/",
+    "bundlePath": "/data/bundles/yamaha/yzf-1000-thunderace-1996-827034-1.json"
+  },
+  {
+    "vehicleId": "yamaha-yzf-1000-thunderace-1997-gasolina",
+    "canonicalPath": "/fipe/yamaha/yzf-1000-thunderace-1997-827034-1/",
+    "bundlePath": "/data/bundles/yamaha/yzf-1000-thunderace-1997-827034-1.json"
+  },
+  {
+    "vehicleId": "yamaha-yzf-1000-thunderace-1998-gasolina",
+    "canonicalPath": "/fipe/yamaha/yzf-1000-thunderace-1998-827034-1/",
+    "bundlePath": "/data/bundles/yamaha/yzf-1000-thunderace-1998-827034-1.json"
+  },
+  {
+    "vehicleId": "yamaha-yzf-600-thundercat-1996-gasolina",
+    "canonicalPath": "/fipe/yamaha/yzf-600-thundercat-1996-827035-0/",
+    "bundlePath": "/data/bundles/yamaha/yzf-600-thundercat-1996-827035-0.json"
+  },
+  {
+    "vehicleId": "yamaha-yzf-600-thundercat-1997-gasolina",
+    "canonicalPath": "/fipe/yamaha/yzf-600-thundercat-1997-827035-0/",
+    "bundlePath": "/data/bundles/yamaha/yzf-600-thundercat-1997-827035-0.json"
+  },
+  {
+    "vehicleId": "yamaha-yzf-750-1993-gasolina",
+    "canonicalPath": "/fipe/yamaha/yzf-750-1993-827036-8/",
+    "bundlePath": "/data/bundles/yamaha/yzf-750-1993-827036-8.json"
+  },
+  {
+    "vehicleId": "yamaha-yzf-750-1994-gasolina",
+    "canonicalPath": "/fipe/yamaha/yzf-750-1994-827036-8/",
+    "bundlePath": "/data/bundles/yamaha/yzf-750-1994-827036-8.json"
+  },
+  {
+    "vehicleId": "yamaha-yzf-r-1-1000-1998-gasolina",
+    "canonicalPath": "/fipe/yamaha/yzf-r-1-1000-1998-827037-6/",
+    "bundlePath": "/data/bundles/yamaha/yzf-r-1-1000-1998-827037-6.json"
+  },
+  {
+    "vehicleId": "yamaha-yzf-r-1-1000-1999-gasolina",
+    "canonicalPath": "/fipe/yamaha/yzf-r-1-1000-1999-827037-6/",
+    "bundlePath": "/data/bundles/yamaha/yzf-r-1-1000-1999-827037-6.json"
+  },
+  {
+    "vehicleId": "yamaha-yzf-r-1-1000-2000-gasolina",
+    "canonicalPath": "/fipe/yamaha/yzf-r-1-1000-2000-827037-6/",
+    "bundlePath": "/data/bundles/yamaha/yzf-r-1-1000-2000-827037-6.json"
+  },
+  {
+    "vehicleId": "yamaha-yzf-r-1-1000-2001-gasolina",
+    "canonicalPath": "/fipe/yamaha/yzf-r-1-1000-2001-827037-6/",
+    "bundlePath": "/data/bundles/yamaha/yzf-r-1-1000-2001-827037-6.json"
+  },
+  {
+    "vehicleId": "yamaha-yzf-r-1-1000-2002-gasolina",
+    "canonicalPath": "/fipe/yamaha/yzf-r-1-1000-2002-827037-6/",
+    "bundlePath": "/data/bundles/yamaha/yzf-r-1-1000-2002-827037-6.json"
+  },
+  {
+    "vehicleId": "yamaha-yzf-r-1-1000-2003-gasolina",
+    "canonicalPath": "/fipe/yamaha/yzf-r-1-1000-2003-827037-6/",
+    "bundlePath": "/data/bundles/yamaha/yzf-r-1-1000-2003-827037-6.json"
+  },
+  {
+    "vehicleId": "yamaha-yzf-r-1-1000-2004-gasolina",
+    "canonicalPath": "/fipe/yamaha/yzf-r-1-1000-2004-827037-6/",
+    "bundlePath": "/data/bundles/yamaha/yzf-r-1-1000-2004-827037-6.json"
+  },
+  {
+    "vehicleId": "yamaha-yzf-r-1-1000-2005-gasolina",
+    "canonicalPath": "/fipe/yamaha/yzf-r-1-1000-2005-827037-6/",
+    "bundlePath": "/data/bundles/yamaha/yzf-r-1-1000-2005-827037-6.json"
+  },
+  {
+    "vehicleId": "yamaha-yzf-r-1-1000-2006-gasolina",
+    "canonicalPath": "/fipe/yamaha/yzf-r-1-1000-2006-827037-6/",
+    "bundlePath": "/data/bundles/yamaha/yzf-r-1-1000-2006-827037-6.json"
+  },
+  {
+    "vehicleId": "yamaha-yzf-r-1-1000-2007-gasolina",
+    "canonicalPath": "/fipe/yamaha/yzf-r-1-1000-2007-827037-6/",
+    "bundlePath": "/data/bundles/yamaha/yzf-r-1-1000-2007-827037-6.json"
+  },
+  {
+    "vehicleId": "yamaha-yzf-r-1-1000-2008-gasolina",
+    "canonicalPath": "/fipe/yamaha/yzf-r-1-1000-2008-827037-6/",
+    "bundlePath": "/data/bundles/yamaha/yzf-r-1-1000-2008-827037-6.json"
+  },
+  {
+    "vehicleId": "yamaha-yzf-r-1-1000-2009-gasolina",
+    "canonicalPath": "/fipe/yamaha/yzf-r-1-1000-2009-827037-6/",
+    "bundlePath": "/data/bundles/yamaha/yzf-r-1-1000-2009-827037-6.json"
+  },
+  {
+    "vehicleId": "yamaha-yzf-r-1-1000-2010-gasolina",
+    "canonicalPath": "/fipe/yamaha/yzf-r-1-1000-2010-827037-6/",
+    "bundlePath": "/data/bundles/yamaha/yzf-r-1-1000-2010-827037-6.json"
+  },
+  {
+    "vehicleId": "yamaha-yzf-r-1-1000-2011-gasolina",
+    "canonicalPath": "/fipe/yamaha/yzf-r-1-1000-2011-827037-6/",
+    "bundlePath": "/data/bundles/yamaha/yzf-r-1-1000-2011-827037-6.json"
+  },
+  {
+    "vehicleId": "yamaha-yzf-r-1-1000-2012-gasolina",
+    "canonicalPath": "/fipe/yamaha/yzf-r-1-1000-2012-827037-6/",
+    "bundlePath": "/data/bundles/yamaha/yzf-r-1-1000-2012-827037-6.json"
+  },
+  {
+    "vehicleId": "yamaha-yzf-r-1-1000-2013-gasolina",
+    "canonicalPath": "/fipe/yamaha/yzf-r-1-1000-2013-827037-6/",
+    "bundlePath": "/data/bundles/yamaha/yzf-r-1-1000-2013-827037-6.json"
+  },
+  {
+    "vehicleId": "yamaha-yzf-r-1-1000-2014-gasolina",
+    "canonicalPath": "/fipe/yamaha/yzf-r-1-1000-2014-827037-6/",
+    "bundlePath": "/data/bundles/yamaha/yzf-r-1-1000-2014-827037-6.json"
+  },
+  {
+    "vehicleId": "yamaha-yzf-r-1-1000-2015-gasolina",
+    "canonicalPath": "/fipe/yamaha/yzf-r-1-1000-2015-827037-6/",
+    "bundlePath": "/data/bundles/yamaha/yzf-r-1-1000-2015-827037-6.json"
+  },
+  {
+    "vehicleId": "yamaha-yzf-r-1-1000-2016-gasolina",
+    "canonicalPath": "/fipe/yamaha/yzf-r-1-1000-2016-827037-6/",
+    "bundlePath": "/data/bundles/yamaha/yzf-r-1-1000-2016-827037-6.json"
+  },
+  {
+    "vehicleId": "yamaha-yzf-r-15-155-abs-2024-gasolina",
+    "canonicalPath": "/fipe/yamaha/yzf-r-15-155-abs-2024-827129-1/",
+    "bundlePath": "/data/bundles/yamaha/yzf-r-15-155-abs-2024-827129-1.json"
+  },
+  {
+    "vehicleId": "yamaha-yzf-r-15-155-abs-2025-gasolina",
+    "canonicalPath": "/fipe/yamaha/yzf-r-15-155-abs-2025-827129-1/",
+    "bundlePath": "/data/bundles/yamaha/yzf-r-15-155-abs-2025-827129-1.json"
+  },
+  {
+    "vehicleId": "yamaha-yzf-r-15-155-abs-2026-gasolina",
+    "canonicalPath": "/fipe/yamaha/yzf-r-15-155-abs-2026-827129-1/",
+    "bundlePath": "/data/bundles/yamaha/yzf-r-15-155-abs-2026-827129-1.json"
+  },
+  {
+    "vehicleId": "yamaha-yzf-r-15-155-abs-0-gasolina",
+    "canonicalPath": "/fipe/yamaha/yzf-r-15-155-abs-0-827129-1/",
+    "bundlePath": "/data/bundles/yamaha/yzf-r-15-155-abs-0-827129-1.json"
+  },
+  {
+    "vehicleId": "yamaha-yzf-r-1m-1000-2016-gasolina",
+    "canonicalPath": "/fipe/yamaha/yzf-r-1m-1000-2016-827105-4/",
+    "bundlePath": "/data/bundles/yamaha/yzf-r-1m-1000-2016-827105-4.json"
+  },
+  {
+    "vehicleId": "yamaha-yzf-r-3-321-abs-2016-gasolina",
+    "canonicalPath": "/fipe/yamaha/yzf-r-3-321-abs-2016-827097-0/",
+    "bundlePath": "/data/bundles/yamaha/yzf-r-3-321-abs-2016-827097-0.json"
+  },
+  {
+    "vehicleId": "yamaha-yzf-r-3-321-abs-2017-gasolina",
+    "canonicalPath": "/fipe/yamaha/yzf-r-3-321-abs-2017-827097-0/",
+    "bundlePath": "/data/bundles/yamaha/yzf-r-3-321-abs-2017-827097-0.json"
+  },
+  {
+    "vehicleId": "yamaha-yzf-r-3-321-abs-2018-gasolina",
+    "canonicalPath": "/fipe/yamaha/yzf-r-3-321-abs-2018-827097-0/",
+    "bundlePath": "/data/bundles/yamaha/yzf-r-3-321-abs-2018-827097-0.json"
+  },
+  {
+    "vehicleId": "yamaha-yzf-r-3-321-abs-2019-gasolina",
+    "canonicalPath": "/fipe/yamaha/yzf-r-3-321-abs-2019-827097-0/",
+    "bundlePath": "/data/bundles/yamaha/yzf-r-3-321-abs-2019-827097-0.json"
+  },
+  {
+    "vehicleId": "yamaha-yzf-r-3-321-abs-2020-gasolina",
+    "canonicalPath": "/fipe/yamaha/yzf-r-3-321-abs-2020-827097-0/",
+    "bundlePath": "/data/bundles/yamaha/yzf-r-3-321-abs-2020-827097-0.json"
+  },
+  {
+    "vehicleId": "yamaha-yzf-r-3-321-abs-2021-gasolina",
+    "canonicalPath": "/fipe/yamaha/yzf-r-3-321-abs-2021-827097-0/",
+    "bundlePath": "/data/bundles/yamaha/yzf-r-3-321-abs-2021-827097-0.json"
+  },
+  {
+    "vehicleId": "yamaha-yzf-r-3-321-abs-2022-gasolina",
+    "canonicalPath": "/fipe/yamaha/yzf-r-3-321-abs-2022-827097-0/",
+    "bundlePath": "/data/bundles/yamaha/yzf-r-3-321-abs-2022-827097-0.json"
+  },
+  {
+    "vehicleId": "yamaha-yzf-r-3-321-abs-2023-gasolina",
+    "canonicalPath": "/fipe/yamaha/yzf-r-3-321-abs-2023-827097-0/",
+    "bundlePath": "/data/bundles/yamaha/yzf-r-3-321-abs-2023-827097-0.json"
+  },
+  {
+    "vehicleId": "yamaha-yzf-r-3-321-abs-2024-gasolina",
+    "canonicalPath": "/fipe/yamaha/yzf-r-3-321-abs-2024-827097-0/",
+    "bundlePath": "/data/bundles/yamaha/yzf-r-3-321-abs-2024-827097-0.json"
+  },
+  {
+    "vehicleId": "yamaha-yzf-r-3-321-abs-2025-gasolina",
+    "canonicalPath": "/fipe/yamaha/yzf-r-3-321-abs-2025-827097-0/",
+    "bundlePath": "/data/bundles/yamaha/yzf-r-3-321-abs-2025-827097-0.json"
+  },
+  {
+    "vehicleId": "yamaha-yzf-r-3-321-abs-0-gasolina",
+    "canonicalPath": "/fipe/yamaha/yzf-r-3-321-abs-0-827097-0/",
+    "bundlePath": "/data/bundles/yamaha/yzf-r-3-321-abs-0-827097-0.json"
+  },
+  {
+    "vehicleId": "yamaha-yzf-r-3-connected-321-abs-2026-gasolina",
+    "canonicalPath": "/fipe/yamaha/yzf-r-3-connected-321-abs-2026-827138-0/",
+    "bundlePath": "/data/bundles/yamaha/yzf-r-3-connected-321-abs-2026-827138-0.json"
+  },
+  {
+    "vehicleId": "yamaha-yzf-r-3-connected-321-abs-0-gasolina",
+    "canonicalPath": "/fipe/yamaha/yzf-r-3-connected-321-abs-0-827138-0/",
+    "bundlePath": "/data/bundles/yamaha/yzf-r-3-connected-321-abs-0-827138-0.json"
+  },
+  {
+    "vehicleId": "yamaha-yzf-r-3-world-gp-60th-aniniversary-ed-2023-gasolina",
+    "canonicalPath": "/fipe/yamaha/yzf-r-3-world-gp-60th-aniniversary-ed-2023-827126-7/",
+    "bundlePath": "/data/bundles/yamaha/yzf-r-3-world-gp-60th-aniniversary-ed-2023-827126-7.json"
+  },
+  {
+    "vehicleId": "yamaha-yzf-r-6-600-2004-gasolina",
+    "canonicalPath": "/fipe/yamaha/yzf-r-6-600-2004-827053-8/",
+    "bundlePath": "/data/bundles/yamaha/yzf-r-6-600-2004-827053-8.json"
+  },
+  {
+    "vehicleId": "yamaha-yzf-r-6-600-2005-gasolina",
+    "canonicalPath": "/fipe/yamaha/yzf-r-6-600-2005-827053-8/",
+    "bundlePath": "/data/bundles/yamaha/yzf-r-6-600-2005-827053-8.json"
+  },
+  {
+    "vehicleId": "yamaha-yzf-r-6-600-2006-gasolina",
+    "canonicalPath": "/fipe/yamaha/yzf-r-6-600-2006-827053-8/",
+    "bundlePath": "/data/bundles/yamaha/yzf-r-6-600-2006-827053-8.json"
+  },
+  {
+    "vehicleId": "yamaha-yzf-r-6-600-2007-gasolina",
+    "canonicalPath": "/fipe/yamaha/yzf-r-6-600-2007-827053-8/",
+    "bundlePath": "/data/bundles/yamaha/yzf-r-6-600-2007-827053-8.json"
+  },
+  {
+    "vehicleId": "yamaha-yzf-r-6-600-2008-gasolina",
+    "canonicalPath": "/fipe/yamaha/yzf-r-6-600-2008-827053-8/",
+    "bundlePath": "/data/bundles/yamaha/yzf-r-6-600-2008-827053-8.json"
+  },
+  {
+    "vehicleId": "yamaha-yzf-r-6-600-2009-gasolina",
+    "canonicalPath": "/fipe/yamaha/yzf-r-6-600-2009-827053-8/",
+    "bundlePath": "/data/bundles/yamaha/yzf-r-6-600-2009-827053-8.json"
+  },
+  {
+    "vehicleId": "yamaha-yzf-r-6-600-2010-gasolina",
+    "canonicalPath": "/fipe/yamaha/yzf-r-6-600-2010-827053-8/",
+    "bundlePath": "/data/bundles/yamaha/yzf-r-6-600-2010-827053-8.json"
+  },
+  {
+    "vehicleId": "yamaha-yzf-r-6-600-2011-gasolina",
+    "canonicalPath": "/fipe/yamaha/yzf-r-6-600-2011-827053-8/",
+    "bundlePath": "/data/bundles/yamaha/yzf-r-6-600-2011-827053-8.json"
+  },
+  {
+    "vehicleId": "yamaha-yzf-r-6-600-2012-gasolina",
+    "canonicalPath": "/fipe/yamaha/yzf-r-6-600-2012-827053-8/",
+    "bundlePath": "/data/bundles/yamaha/yzf-r-6-600-2012-827053-8.json"
+  },
+  {
+    "vehicleId": "yamaha-zr-125-connected-2027-hibrido",
+    "canonicalPath": "/fipe/yamaha/zr-125-connected-2027-827145-3/",
+    "bundlePath": "/data/bundles/yamaha/zr-125-connected-2027-827145-3.json"
+  },
+  {
+    "vehicleId": "yamaha-zr-125-connected-0-hibrido",
+    "canonicalPath": "/fipe/yamaha/zr-125-connected-0-827145-3/",
+    "bundlePath": "/data/bundles/yamaha/zr-125-connected-0-827145-3.json"
+  }
+]

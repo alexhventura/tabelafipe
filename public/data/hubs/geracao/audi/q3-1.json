@@ -1,0 +1,75 @@
+{
+  "tipo": "geracao",
+  "slug": "q3-1",
+  "canonicalPath": "/geracao/audi/q3-1/",
+  "titulo": "Geracao q3-1",
+  "descricao": "6 veiculos da geracao q3-1.",
+  "seo": {
+    "title": "Geracao q3-1 - Precos FIPE",
+    "description": "Veiculos da geracao q3-1 na Tabela FIPE.",
+    "h1": "Geracao q3-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/audi/q3-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "audi-q3-launch-edition-2-0-tfsi-quattro-s-tronic-0-gasolina",
+      "fipeCodigo": "008326-7",
+      "displayName": "Audi Q3 Launch Edition 2.0 TFSI Quattro S tronic",
+      "valorAtual": 390990,
+      "canonicalPath": "/fipe/audi/q3-launch-edition-2-0-tfsi-quattro-s-tronic-0-008326-7/",
+      "ano": 0,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-q3-perf-black-plus-2-0-tfsi-tip-quat-0-gasolina",
+      "fipeCodigo": "008304-6",
+      "displayName": "Audi Q3 Perf. Black.Plus 2.0 TFSI Tip. Quat.",
+      "valorAtual": 347377,
+      "canonicalPath": "/fipe/audi/q3-perf-black-plus-2-0-tfsi-tip-quat-0-008304-6/",
+      "ano": 0,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-q3-performance-2-0-tfsi-tiptr-quattro-0-gasolina",
+      "fipeCodigo": "008284-8",
+      "displayName": "Audi Q3 Performance 2.0 TFSI Tiptr. Quattro",
+      "valorAtual": 343117,
+      "canonicalPath": "/fipe/audi/q3-performance-2-0-tfsi-tiptr-quattro-0-008284-8/",
+      "ano": 0,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-q3-prestige-2-0-tfsi-tiptr-quatro-0-gasolina",
+      "fipeCodigo": "008289-9",
+      "displayName": "Audi Q3 Prestige 2.0 TFSI Tiptr.Quatro",
+      "valorAtual": 288134,
+      "canonicalPath": "/fipe/audi/q3-prestige-2-0-tfsi-tiptr-quatro-0-008289-9/",
+      "ano": 0,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-q3-spb-perf-black-plus-2-0-tfsi-tip-quat-0-gasolina",
+      "fipeCodigo": "008305-4",
+      "displayName": "Audi Q3 SPB Perf.Black Plus 2.0 TFSI Tip.Quat",
+      "valorAtual": 367103,
+      "canonicalPath": "/fipe/audi/q3-spb-perf-black-plus-2-0-tfsi-tip-quat-0-008305-4/",
+      "ano": 0,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-q3-spb-performance-2-0-tfsi-tipt-quatt-0-gasolina",
+      "fipeCodigo": "008282-1",
+      "displayName": "Audi Q3 SPB Performance 2.0 TFSI Tipt. Quatt.",
+      "valorAtual": 344192,
+      "canonicalPath": "/fipe/audi/q3-spb-performance-2-0-tfsi-tipt-quatt-0-008282-1/",
+      "ano": 0,
+      "marca": "Audi"
+    }
+  ],
+  "stats": {
+    "total": 6
+  },
+  "meta": {
+    "geracaoId": "q3-1"
+  }
+}

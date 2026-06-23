@@ -1,0 +1,42 @@
+{
+  "tipo": "familia",
+  "slug": "sable",
+  "canonicalPath": "/fipe/mercury/sable/",
+  "titulo": "Mercury sable - Tabela FIPE",
+  "descricao": "2 versoes e anos do Mercury sable na Tabela FIPE.",
+  "seo": {
+    "title": "Mercury sable - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes Mercury sable. 2 veiculos indexados.",
+    "h1": "Mercury sable - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/mercury/sable/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "mercury-sable-ls-3-0-v6-1993-gasolina",
+      "fipeCodigo": "048002-9",
+      "displayName": "Mercury Sable LS 3.0 V6",
+      "valorAtual": 7916,
+      "canonicalPath": "/fipe/mercury/sable-ls-3-0-v6-1993-048002-9/",
+      "ano": 1993,
+      "marca": "Mercury"
+    },
+    {
+      "vehicleId": "mercury-sable-ls-3-0-v6-1992-gasolina",
+      "fipeCodigo": "048002-9",
+      "displayName": "Mercury Sable LS 3.0 V6",
+      "valorAtual": 6936,
+      "canonicalPath": "/fipe/mercury/sable-ls-3-0-v6-1992-048002-9/",
+      "ano": 1992,
+      "marca": "Mercury"
+    }
+  ],
+  "stats": {
+    "total": 2,
+    "precoMin": 6936,
+    "precoMax": 7916,
+    "anos": [
+      1993,
+      1992
+    ]
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "tipo": "geracao",
+  "slug": "q5-1",
+  "canonicalPath": "/geracao/audi/q5-1/",
+  "titulo": "Geracao q5-1",
+  "descricao": "7 veiculos da geracao q5-1.",
+  "seo": {
+    "title": "Geracao q5-1 - Precos FIPE",
+    "description": "Veiculos da geracao q5-1 na Tabela FIPE.",
+    "h1": "Geracao q5-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/audi/q5-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "audi-q5-advanced-2-0-tfsi-quattro-s-tronic-0-gasolina",
+      "fipeCodigo": "008317-8",
+      "displayName": "Audi Q5 Advanced 2.0 TFSI Quattro S-tronic",
+      "valorAtual": 430990,
+      "canonicalPath": "/fipe/audi/q5-advanced-2-0-tfsi-quattro-s-tronic-0-008317-8/",
+      "ano": 0,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-q5-prestige-2-0-tfsi-quattro-s-tronic-0-gasolina",
+      "fipeCodigo": "008238-4",
+      "displayName": "Audi Q5 Prestige 2.0 TFSI Quattro S tronic",
+      "valorAtual": 415593,
+      "canonicalPath": "/fipe/audi/q5-prestige-2-0-tfsi-quattro-s-tronic-0-008238-4/",
+      "ano": 0,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-q5-s-line-2-0-tfsi-quattro-s-tronic-252cv-0-gasolina",
+      "fipeCodigo": "008248-1",
+      "displayName": "Audi Q5 S-Line 2.0 TFSI Quattro S-tronic 252cv",
+      "valorAtual": 484695,
+      "canonicalPath": "/fipe/audi/q5-s-line-2-0-tfsi-quattro-s-tronic-252cv-0-008248-1/",
+      "ano": 0,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-q5-s-line-2-0-tfsi-quattro-s-tronic-272cv-0-gasolina",
+      "fipeCodigo": "008319-4",
+      "displayName": "Audi Q5 S-Line 2.0 TFSI Quattro S-tronic 272cv",
+      "valorAtual": 513990,
+      "canonicalPath": "/fipe/audi/q5-s-line-2-0-tfsi-quattro-s-tronic-272cv-0-008319-4/",
+      "ano": 0,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-q5-sb-perf-2-0-tfsie-s-tr-qt-hib-0-hibrido",
+      "fipeCodigo": "008286-4",
+      "displayName": "Audi Q5 SB Perf. 2.0 TFSIe S.Tr. Qt (Hib.)",
+      "valorAtual": 458194,
+      "canonicalPath": "/fipe/audi/q5-sb-perf-2-0-tfsie-s-tr-qt-hib-0-008286-4/",
+      "ano": 0,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-q5-sportback-advanced-2-0-tfsi-quattro-s-tronic-0-gasolina",
+      "fipeCodigo": "008318-6",
+      "displayName": "Audi Q5 Sportback Advanced 2.0 TFSI Quattro S-tronic",
+      "valorAtual": 455142,
+      "canonicalPath": "/fipe/audi/q5-sportback-advanced-2-0-tfsi-quattro-s-tronic-0-008318-6/",
+      "ano": 0,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-q5-sportback-s-line-2-0-tfsi-quattro-s-tronic-0-gasolina",
+      "fipeCodigo": "008271-6",
+      "displayName": "Audi Q5 Sportback S-Line 2.0 TFSI Quattro S-tronic",
+      "valorAtual": 499986,
+      "canonicalPath": "/fipe/audi/q5-sportback-s-line-2-0-tfsi-quattro-s-tronic-0-008271-6/",
+      "ano": 0,
+      "marca": "Audi"
+    }
+  ],
+  "stats": {
+    "total": 7
+  },
+  "meta": {
+    "geracaoId": "q5-1"
+  }
+}

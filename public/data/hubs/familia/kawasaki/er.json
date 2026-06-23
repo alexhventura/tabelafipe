@@ -1,0 +1,132 @@
+{
+  "tipo": "familia",
+  "slug": "er",
+  "canonicalPath": "/fipe/kawasaki/er/",
+  "titulo": "KAWASAKI er - Tabela FIPE",
+  "descricao": "11 versoes e anos do KAWASAKI er na Tabela FIPE.",
+  "seo": {
+    "title": "KAWASAKI er - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes KAWASAKI er. 11 veiculos indexados.",
+    "h1": "KAWASAKI er - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/kawasaki/er/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "kawasaki-er-6n-650cc-2017-gasolina",
+      "fipeCodigo": "817051-7",
+      "displayName": "KAWASAKI ER-6N 650cc",
+      "valorAtual": 31772,
+      "canonicalPath": "/fipe/kawasaki/er-6n-650cc-2017-817051-7/",
+      "ano": 2017,
+      "marca": "KAWASAKI"
+    },
+    {
+      "vehicleId": "kawasaki-er-6n-650cc-2015-gasolina",
+      "fipeCodigo": "817051-7",
+      "displayName": "KAWASAKI ER-6N 650cc",
+      "valorAtual": 27498,
+      "canonicalPath": "/fipe/kawasaki/er-6n-650cc-2015-817051-7/",
+      "ano": 2015,
+      "marca": "KAWASAKI"
+    },
+    {
+      "vehicleId": "kawasaki-er-6n-650cc-2014-gasolina",
+      "fipeCodigo": "817051-7",
+      "displayName": "KAWASAKI ER-6N 650cc",
+      "valorAtual": 24459,
+      "canonicalPath": "/fipe/kawasaki/er-6n-650cc-2014-817051-7/",
+      "ano": 2014,
+      "marca": "KAWASAKI"
+    },
+    {
+      "vehicleId": "kawasaki-er-6n-650cc-2013-gasolina",
+      "fipeCodigo": "817051-7",
+      "displayName": "KAWASAKI ER-6N 650cc",
+      "valorAtual": 23323,
+      "canonicalPath": "/fipe/kawasaki/er-6n-650cc-2013-817051-7/",
+      "ano": 2013,
+      "marca": "KAWASAKI"
+    },
+    {
+      "vehicleId": "kawasaki-er-6n-650cc-2012-gasolina",
+      "fipeCodigo": "817051-7",
+      "displayName": "KAWASAKI ER-6N 650cc",
+      "valorAtual": 22258,
+      "canonicalPath": "/fipe/kawasaki/er-6n-650cc-2012-817051-7/",
+      "ano": 2012,
+      "marca": "KAWASAKI"
+    },
+    {
+      "vehicleId": "kawasaki-er-6n-650cc-2011-gasolina",
+      "fipeCodigo": "817051-7",
+      "displayName": "KAWASAKI ER-6N 650cc",
+      "valorAtual": 21535,
+      "canonicalPath": "/fipe/kawasaki/er-6n-650cc-2011-817051-7/",
+      "ano": 2011,
+      "marca": "KAWASAKI"
+    },
+    {
+      "vehicleId": "kawasaki-er-6n-650cc-2010-gasolina",
+      "fipeCodigo": "817051-7",
+      "displayName": "KAWASAKI ER-6N 650cc",
+      "valorAtual": 19778,
+      "canonicalPath": "/fipe/kawasaki/er-6n-650cc-2010-817051-7/",
+      "ano": 2010,
+      "marca": "KAWASAKI"
+    },
+    {
+      "vehicleId": "kawasaki-er-6n-650cc-2009-gasolina",
+      "fipeCodigo": "817051-7",
+      "displayName": "KAWASAKI ER-6N 650cc",
+      "valorAtual": 17300,
+      "canonicalPath": "/fipe/kawasaki/er-6n-650cc-2009-817051-7/",
+      "ano": 2009,
+      "marca": "KAWASAKI"
+    },
+    {
+      "vehicleId": "kawasaki-er-5-500cc-2000-gasolina",
+      "fipeCodigo": "817003-7",
+      "displayName": "KAWASAKI ER-5 500cc",
+      "valorAtual": 10881,
+      "canonicalPath": "/fipe/kawasaki/er-5-500cc-2000-817003-7/",
+      "ano": 2000,
+      "marca": "KAWASAKI"
+    },
+    {
+      "vehicleId": "kawasaki-er-5-500cc-1999-gasolina",
+      "fipeCodigo": "817003-7",
+      "displayName": "KAWASAKI ER-5 500cc",
+      "valorAtual": 10091,
+      "canonicalPath": "/fipe/kawasaki/er-5-500cc-1999-817003-7/",
+      "ano": 1999,
+      "marca": "KAWASAKI"
+    },
+    {
+      "vehicleId": "kawasaki-er-5-500cc-1998-gasolina",
+      "fipeCodigo": "817003-7",
+      "displayName": "KAWASAKI ER-5 500cc",
+      "valorAtual": 8057,
+      "canonicalPath": "/fipe/kawasaki/er-5-500cc-1998-817003-7/",
+      "ano": 1998,
+      "marca": "KAWASAKI"
+    }
+  ],
+  "stats": {
+    "total": 11,
+    "precoMin": 8057,
+    "precoMax": 31772,
+    "anos": [
+      2017,
+      2015,
+      2014,
+      2013,
+      2012,
+      2011,
+      2010,
+      2009,
+      2000,
+      1999,
+      1998
+    ]
+  }
+}

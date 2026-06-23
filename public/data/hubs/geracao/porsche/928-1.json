@@ -1,0 +1,57 @@
+{
+  "tipo": "geracao",
+  "slug": "928-1",
+  "canonicalPath": "/geracao/porsche/928-1/",
+  "titulo": "Geracao 928-1",
+  "descricao": "4 veiculos da geracao 928-1.",
+  "seo": {
+    "title": "Geracao 928-1 - Precos FIPE",
+    "description": "Veiculos da geracao 928-1 na Tabela FIPE.",
+    "h1": "Geracao 928-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/porsche/928-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "porsche-928-gts-5-4-32v-1992-gasolina",
+      "fipeCodigo": "035016-8",
+      "displayName": "Porsche 928 GTS 5.4 32V",
+      "valorAtual": 48086,
+      "canonicalPath": "/fipe/porsche/928-gts-5-4-32v-1992-035016-8/",
+      "ano": 1992,
+      "marca": "Porsche"
+    },
+    {
+      "vehicleId": "porsche-928-gts-5-4-32v-1993-gasolina",
+      "fipeCodigo": "035016-8",
+      "displayName": "Porsche 928 GTS 5.4 32V",
+      "valorAtual": 50399,
+      "canonicalPath": "/fipe/porsche/928-gts-5-4-32v-1993-035016-8/",
+      "ano": 1993,
+      "marca": "Porsche"
+    },
+    {
+      "vehicleId": "porsche-928-gts-5-4-32v-1994-gasolina",
+      "fipeCodigo": "035016-8",
+      "displayName": "Porsche 928 GTS 5.4 32V",
+      "valorAtual": 54606,
+      "canonicalPath": "/fipe/porsche/928-gts-5-4-32v-1994-035016-8/",
+      "ano": 1994,
+      "marca": "Porsche"
+    },
+    {
+      "vehicleId": "porsche-928-gts-5-4-32v-1995-gasolina",
+      "fipeCodigo": "035016-8",
+      "displayName": "Porsche 928 GTS 5.4 32V",
+      "valorAtual": 58145,
+      "canonicalPath": "/fipe/porsche/928-gts-5-4-32v-1995-035016-8/",
+      "ano": 1995,
+      "marca": "Porsche"
+    }
+  ],
+  "stats": {
+    "total": 4
+  },
+  "meta": {
+    "geracaoId": "928-1"
+  }
+}

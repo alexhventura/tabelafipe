@@ -1,0 +1,102 @@
+{
+  "tipo": "geracao",
+  "slug": "creta-1",
+  "canonicalPath": "/geracao/hyundai/creta-1/",
+  "titulo": "Geracao creta-1",
+  "descricao": "9 veiculos da geracao creta-1.",
+  "seo": {
+    "title": "Geracao creta-1 - Precos FIPE",
+    "description": "Veiculos da geracao creta-1 na Tabela FIPE.",
+    "h1": "Geracao creta-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/hyundai/creta-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "hyundai-creta-action-1-0-tb-12v-aut-0-flex",
+      "fipeCodigo": "015258-7",
+      "displayName": "Hyundai Creta Action 1.0 TB 12V Aut.",
+      "valorAtual": 121205,
+      "canonicalPath": "/fipe/hyundai/creta-action-1-0-tb-12v-aut-0-015258-7/",
+      "ano": 0,
+      "marca": "Hyundai"
+    },
+    {
+      "vehicleId": "hyundai-creta-comfort-1-0-tb-12v-flex-aut-0-flex",
+      "fipeCodigo": "015200-5",
+      "displayName": "Hyundai Creta Comfort 1.0 TB 12V Flex Aut.",
+      "valorAtual": 144025,
+      "canonicalPath": "/fipe/hyundai/creta-comfort-1-0-tb-12v-flex-aut-0-015200-5/",
+      "ano": 0,
+      "marca": "Hyundai"
+    },
+    {
+      "vehicleId": "hyundai-creta-comfort-safety-1-0-tb-12v-aut-0-flex",
+      "fipeCodigo": "015255-2",
+      "displayName": "Hyundai Creta Comfort Safety 1.0 TB 12V Aut.",
+      "valorAtual": 144120,
+      "canonicalPath": "/fipe/hyundai/creta-comfort-safety-1-0-tb-12v-aut-0-015255-2/",
+      "ano": 0,
+      "marca": "Hyundai"
+    },
+    {
+      "vehicleId": "hyundai-creta-limited-1-0-tb-12v-flex-aut-0-flex",
+      "fipeCodigo": "015203-0",
+      "displayName": "Hyundai Creta Limited 1.0 TB 12V Flex Aut.",
+      "valorAtual": 166985,
+      "canonicalPath": "/fipe/hyundai/creta-limited-1-0-tb-12v-flex-aut-0-015203-0/",
+      "ano": 0,
+      "marca": "Hyundai"
+    },
+    {
+      "vehicleId": "hyundai-creta-n-line-1-0-tb-12v-flex-aut-0-flex",
+      "fipeCodigo": "015212-9",
+      "displayName": "Hyundai Creta N Line 1.0 TB 12V Flex Aut.",
+      "valorAtual": 184292,
+      "canonicalPath": "/fipe/hyundai/creta-n-line-1-0-tb-12v-flex-aut-0-015212-9/",
+      "ano": 0,
+      "marca": "Hyundai"
+    },
+    {
+      "vehicleId": "hyundai-creta-n-line-1-6-tb-12v-flex-aut-0-flex",
+      "fipeCodigo": "015256-0",
+      "displayName": "Hyundai Creta N Line 1.6 TB 12V Flex Aut.",
+      "valorAtual": 201832,
+      "canonicalPath": "/fipe/hyundai/creta-n-line-1-6-tb-12v-flex-aut-0-015256-0/",
+      "ano": 0,
+      "marca": "Hyundai"
+    },
+    {
+      "vehicleId": "hyundai-creta-platinum-1-0-tb-12v-flex-aut-0-flex",
+      "fipeCodigo": "015202-1",
+      "displayName": "Hyundai Creta Platinum 1.0 TB 12V Flex Aut.",
+      "valorAtual": 180254,
+      "canonicalPath": "/fipe/hyundai/creta-platinum-1-0-tb-12v-flex-aut-0-015202-1/",
+      "ano": 0,
+      "marca": "Hyundai"
+    },
+    {
+      "vehicleId": "hyundai-creta-ultimate-1-6-tb-16v-aut-0-gasolina",
+      "fipeCodigo": "015249-8",
+      "displayName": "Hyundai Creta Ultimate 1.6 TB 16V Aut.",
+      "valorAtual": 187077,
+      "canonicalPath": "/fipe/hyundai/creta-ultimate-1-6-tb-16v-aut-0-015249-8/",
+      "ano": 0,
+      "marca": "Hyundai"
+    },
+    {
+      "vehicleId": "hyundai-creta-ultimate-1-6-tb-16v-flex-aut-0-flex",
+      "fipeCodigo": "015257-9",
+      "displayName": "Hyundai Creta Ultimate 1.6 TB 16V Flex Aut.",
+      "valorAtual": 196727,
+      "canonicalPath": "/fipe/hyundai/creta-ultimate-1-6-tb-16v-flex-aut-0-015257-9/",
+      "ano": 0,
+      "marca": "Hyundai"
+    }
+  ],
+  "stats": {
+    "total": 9
+  },
+  "meta": {
+    "geracaoId": "creta-1"
+  }
+}

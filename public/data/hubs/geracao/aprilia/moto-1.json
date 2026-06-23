@@ -1,0 +1,48 @@
+{
+  "tipo": "geracao",
+  "slug": "moto-1",
+  "canonicalPath": "/geracao/aprilia/moto-1/",
+  "titulo": "Geracao moto-1",
+  "descricao": "3 veiculos da geracao moto-1.",
+  "seo": {
+    "title": "Geracao moto-1 - Precos FIPE",
+    "description": "Veiculos da geracao moto-1 na Tabela FIPE.",
+    "h1": "Geracao moto-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/aprilia/moto-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "aprilia-moto-650cc-1998-gasolina",
+      "fipeCodigo": "802004-3",
+      "displayName": "APRILIA MOTO 650cc",
+      "valorAtual": 11650,
+      "canonicalPath": "/fipe/aprilia/moto-650cc-1998-802004-3/",
+      "ano": 1998,
+      "marca": "APRILIA"
+    },
+    {
+      "vehicleId": "aprilia-moto-650cc-1999-gasolina",
+      "fipeCodigo": "802004-3",
+      "displayName": "APRILIA MOTO 650cc",
+      "valorAtual": 13388,
+      "canonicalPath": "/fipe/aprilia/moto-650cc-1999-802004-3/",
+      "ano": 1999,
+      "marca": "APRILIA"
+    },
+    {
+      "vehicleId": "aprilia-moto-650cc-2000-gasolina",
+      "fipeCodigo": "802004-3",
+      "displayName": "APRILIA MOTO 650cc",
+      "valorAtual": 14081,
+      "canonicalPath": "/fipe/aprilia/moto-650cc-2000-802004-3/",
+      "ano": 2000,
+      "marca": "APRILIA"
+    }
+  ],
+  "stats": {
+    "total": 3
+  },
+  "meta": {
+    "geracaoId": "moto-1"
+  }
+}

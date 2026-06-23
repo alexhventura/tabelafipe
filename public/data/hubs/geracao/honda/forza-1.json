@@ -1,0 +1,48 @@
+{
+  "tipo": "geracao",
+  "slug": "forza-1",
+  "canonicalPath": "/geracao/honda/forza-1/",
+  "titulo": "Geracao forza-1",
+  "descricao": "3 veiculos da geracao forza-1.",
+  "seo": {
+    "title": "Geracao forza-1 - Precos FIPE",
+    "description": "Veiculos da geracao forza-1 na Tabela FIPE.",
+    "h1": "Geracao forza-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/honda/forza-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "honda-forza-350-2022-gasolina",
+      "fipeCodigo": "811170-7",
+      "displayName": "HONDA Forza 350",
+      "valorAtual": 45034,
+      "canonicalPath": "/fipe/honda/forza-350-2022-811170-7/",
+      "ano": 2022,
+      "marca": "HONDA"
+    },
+    {
+      "vehicleId": "honda-forza-350-2023-gasolina",
+      "fipeCodigo": "811170-7",
+      "displayName": "HONDA Forza 350",
+      "valorAtual": 46182,
+      "canonicalPath": "/fipe/honda/forza-350-2023-811170-7/",
+      "ano": 2023,
+      "marca": "HONDA"
+    },
+    {
+      "vehicleId": "honda-forza-350-2024-gasolina",
+      "fipeCodigo": "811170-7",
+      "displayName": "HONDA Forza 350",
+      "valorAtual": 48206,
+      "canonicalPath": "/fipe/honda/forza-350-2024-811170-7/",
+      "ano": 2024,
+      "marca": "HONDA"
+    }
+  ],
+  "stats": {
+    "total": 3
+  },
+  "meta": {
+    "geracaoId": "forza-1"
+  }
+}

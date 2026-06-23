@@ -1,0 +1,741 @@
+{
+  "tipo": "geracao",
+  "slug": "fiorino-2",
+  "canonicalPath": "/geracao/fiat/fiorino-2/",
+  "titulo": "Geracao fiorino-2",
+  "descricao": "107 veiculos da geracao fiorino-2.",
+  "seo": {
+    "title": "Geracao fiorino-2 - Precos FIPE",
+    "description": "Veiculos da geracao fiorino-2 na Tabela FIPE.",
+    "h1": "Geracao fiorino-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/fiat/fiorino-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "fiat-fiorino-endurance-1-3-flex-8v-2p-2025-flex",
+      "fipeCodigo": "001589-0",
+      "displayName": "Fiat Fiorino Endurance 1.3 Flex 8V 2p",
+      "valorAtual": 97887,
+      "canonicalPath": "/fipe/fiat/fiorino-endurance-1-3-flex-8v-2p-2025-001589-0/",
+      "ano": 2025,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-fiorino-endurance-1-3-flex-8v-2p-2026-flex",
+      "fipeCodigo": "001589-0",
+      "displayName": "Fiat Fiorino Endurance 1.3 Flex 8V 2p",
+      "valorAtual": 110299,
+      "canonicalPath": "/fipe/fiat/fiorino-endurance-1-3-flex-8v-2p-2026-001589-0/",
+      "ano": 2026,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-fiorino-endurance-evo-1-4-flex-8v-2p-2021-flex",
+      "fipeCodigo": "001531-8",
+      "displayName": "Fiat Fiorino Endurance EVO 1.4 Flex 8V 2p",
+      "valorAtual": 75530,
+      "canonicalPath": "/fipe/fiat/fiorino-endurance-evo-1-4-flex-8v-2p-2021-001531-8/",
+      "ano": 2021,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-fiorino-endurance-evo-1-4-flex-8v-2p-2022-flex",
+      "fipeCodigo": "001531-8",
+      "displayName": "Fiat Fiorino Endurance EVO 1.4 Flex 8V 2p",
+      "valorAtual": 79933,
+      "canonicalPath": "/fipe/fiat/fiorino-endurance-evo-1-4-flex-8v-2p-2022-001531-8/",
+      "ano": 2022,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-fiorino-endurance-evo-1-4-flex-8v-2p-2023-flex",
+      "fipeCodigo": "001531-8",
+      "displayName": "Fiat Fiorino Endurance EVO 1.4 Flex 8V 2p",
+      "valorAtual": 84274,
+      "canonicalPath": "/fipe/fiat/fiorino-endurance-evo-1-4-flex-8v-2p-2023-001531-8/",
+      "ano": 2023,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-fiorino-endurance-evo-1-4-flex-8v-2p-2024-flex",
+      "fipeCodigo": "001531-8",
+      "displayName": "Fiat Fiorino Endurance EVO 1.4 Flex 8V 2p",
+      "valorAtual": 89667,
+      "canonicalPath": "/fipe/fiat/fiorino-endurance-evo-1-4-flex-8v-2p-2024-001531-8/",
+      "ano": 2024,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-fiorino-endurance-evo-1-4-flex-8v-2p-2025-flex",
+      "fipeCodigo": "001531-8",
+      "displayName": "Fiat Fiorino Endurance EVO 1.4 Flex 8V 2p",
+      "valorAtual": 98269,
+      "canonicalPath": "/fipe/fiat/fiorino-endurance-evo-1-4-flex-8v-2p-2025-001531-8/",
+      "ano": 2025,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-fiorino-furg-1-5-1-3-1-3-fire-1-3-f-flex-1986-gasolina",
+      "fipeCodigo": "001027-8",
+      "displayName": "Fiat Fiorino Furg.1.5/1.3/1.3 Fire/1.3 F.Flex",
+      "valorAtual": 4881,
+      "canonicalPath": "/fipe/fiat/fiorino-furg-1-5-1-3-1-3-fire-1-3-f-flex-1986-001027-8/",
+      "ano": 1986,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-fiorino-furg-1-5-1-3-1-3-fire-1-3-f-flex-1987-gasolina",
+      "fipeCodigo": "001027-8",
+      "displayName": "Fiat Fiorino Furg.1.5/1.3/1.3 Fire/1.3 F.Flex",
+      "valorAtual": 5840,
+      "canonicalPath": "/fipe/fiat/fiorino-furg-1-5-1-3-1-3-fire-1-3-f-flex-1987-001027-8/",
+      "ano": 1987,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-fiorino-furg-1-5-1-3-1-3-fire-1-3-f-flex-1988-gasolina",
+      "fipeCodigo": "001027-8",
+      "displayName": "Fiat Fiorino Furg.1.5/1.3/1.3 Fire/1.3 F.Flex",
+      "valorAtual": 5986,
+      "canonicalPath": "/fipe/fiat/fiorino-furg-1-5-1-3-1-3-fire-1-3-f-flex-1988-001027-8/",
+      "ano": 1988,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-fiorino-furg-1-5-1-3-1-3-fire-1-3-f-flex-1989-gasolina",
+      "fipeCodigo": "001027-8",
+      "displayName": "Fiat Fiorino Furg.1.5/1.3/1.3 Fire/1.3 F.Flex",
+      "valorAtual": 6615,
+      "canonicalPath": "/fipe/fiat/fiorino-furg-1-5-1-3-1-3-fire-1-3-f-flex-1989-001027-8/",
+      "ano": 1989,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-fiorino-furg-1-5-1-3-1-3-fire-1-3-f-flex-1990-gasolina",
+      "fipeCodigo": "001027-8",
+      "displayName": "Fiat Fiorino Furg.1.5/1.3/1.3 Fire/1.3 F.Flex",
+      "valorAtual": 7868,
+      "canonicalPath": "/fipe/fiat/fiorino-furg-1-5-1-3-1-3-fire-1-3-f-flex-1990-001027-8/",
+      "ano": 1990,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-fiorino-furg-1-5-1-3-1-3-fire-1-3-f-flex-1991-gasolina",
+      "fipeCodigo": "001027-8",
+      "displayName": "Fiat Fiorino Furg.1.5/1.3/1.3 Fire/1.3 F.Flex",
+      "valorAtual": 9603,
+      "canonicalPath": "/fipe/fiat/fiorino-furg-1-5-1-3-1-3-fire-1-3-f-flex-1991-001027-8/",
+      "ano": 1991,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-fiorino-furg-1-5-1-3-1-3-fire-1-3-f-flex-1992-gasolina",
+      "fipeCodigo": "001027-8",
+      "displayName": "Fiat Fiorino Furg.1.5/1.3/1.3 Fire/1.3 F.Flex",
+      "valorAtual": 10002,
+      "canonicalPath": "/fipe/fiat/fiorino-furg-1-5-1-3-1-3-fire-1-3-f-flex-1992-001027-8/",
+      "ano": 1992,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-fiorino-furg-1-5-1-3-1-3-fire-1-3-f-flex-1993-gasolina",
+      "fipeCodigo": "001027-8",
+      "displayName": "Fiat Fiorino Furg.1.5/1.3/1.3 Fire/1.3 F.Flex",
+      "valorAtual": 10636,
+      "canonicalPath": "/fipe/fiat/fiorino-furg-1-5-1-3-1-3-fire-1-3-f-flex-1993-001027-8/",
+      "ano": 1993,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-fiorino-furg-1-5-1-3-1-3-fire-1-3-f-flex-1994-gasolina",
+      "fipeCodigo": "001027-8",
+      "displayName": "Fiat Fiorino Furg.1.5/1.3/1.3 Fire/1.3 F.Flex",
+      "valorAtual": 10902,
+      "canonicalPath": "/fipe/fiat/fiorino-furg-1-5-1-3-1-3-fire-1-3-f-flex-1994-001027-8/",
+      "ano": 1994,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-fiorino-furg-1-5-1-3-1-3-fire-1-3-f-flex-2003-gasolina",
+      "fipeCodigo": "001027-8",
+      "displayName": "Fiat Fiorino Furg.1.5/1.3/1.3 Fire/1.3 F.Flex",
+      "valorAtual": 18280,
+      "canonicalPath": "/fipe/fiat/fiorino-furg-1-5-1-3-1-3-fire-1-3-f-flex-2003-001027-8/",
+      "ano": 2003,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-fiorino-furg-1-5-1-3-1-3-fire-1-3-f-flex-2004-gasolina",
+      "fipeCodigo": "001027-8",
+      "displayName": "Fiat Fiorino Furg.1.5/1.3/1.3 Fire/1.3 F.Flex",
+      "valorAtual": 20096,
+      "canonicalPath": "/fipe/fiat/fiorino-furg-1-5-1-3-1-3-fire-1-3-f-flex-2004-001027-8/",
+      "ano": 2004,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-fiorino-furg-1-5-1-3-1-3-fire-1-3-f-flex-2005-gasolina",
+      "fipeCodigo": "001027-8",
+      "displayName": "Fiat Fiorino Furg.1.5/1.3/1.3 Fire/1.3 F.Flex",
+      "valorAtual": 23295,
+      "canonicalPath": "/fipe/fiat/fiorino-furg-1-5-1-3-1-3-fire-1-3-f-flex-2005-001027-8/",
+      "ano": 2005,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-fiorino-furg-1-5-1-3-1-3-fire-1-3-f-flex-2006-gasolina",
+      "fipeCodigo": "001027-8",
+      "displayName": "Fiat Fiorino Furg.1.5/1.3/1.3 Fire/1.3 F.Flex",
+      "valorAtual": 25297,
+      "canonicalPath": "/fipe/fiat/fiorino-furg-1-5-1-3-1-3-fire-1-3-f-flex-2006-001027-8/",
+      "ano": 2006,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-fiorino-furg-1-5-1-3-1-3-fire-1-3-f-flex-2007-gasolina",
+      "fipeCodigo": "001027-8",
+      "displayName": "Fiat Fiorino Furg.1.5/1.3/1.3 Fire/1.3 F.Flex",
+      "valorAtual": 26075,
+      "canonicalPath": "/fipe/fiat/fiorino-furg-1-5-1-3-1-3-fire-1-3-f-flex-2007-001027-8/",
+      "ano": 2007,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-fiorino-furg-1-5-1-3-1-3-fire-1-3-f-flex-2008-gasolina",
+      "fipeCodigo": "001027-8",
+      "displayName": "Fiat Fiorino Furg.1.5/1.3/1.3 Fire/1.3 F.Flex",
+      "valorAtual": 30434,
+      "canonicalPath": "/fipe/fiat/fiorino-furg-1-5-1-3-1-3-fire-1-3-f-flex-2008-001027-8/",
+      "ano": 2008,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-fiorino-furg-1-5-1-3-1-3-fire-1-3-f-flex-2009-gasolina",
+      "fipeCodigo": "001027-8",
+      "displayName": "Fiat Fiorino Furg.1.5/1.3/1.3 Fire/1.3 F.Flex",
+      "valorAtual": 32020,
+      "canonicalPath": "/fipe/fiat/fiorino-furg-1-5-1-3-1-3-fire-1-3-f-flex-2009-001027-8/",
+      "ano": 2009,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-fiorino-furg-1-5-1-3-1-3-fire-1-3-f-flex-2010-gasolina",
+      "fipeCodigo": "001027-8",
+      "displayName": "Fiat Fiorino Furg.1.5/1.3/1.3 Fire/1.3 F.Flex",
+      "valorAtual": 34319,
+      "canonicalPath": "/fipe/fiat/fiorino-furg-1-5-1-3-1-3-fire-1-3-f-flex-2010-001027-8/",
+      "ano": 2010,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-fiorino-furg-1-5-1-3-1-3-fire-1-3-f-flex-2011-gasolina",
+      "fipeCodigo": "001027-8",
+      "displayName": "Fiat Fiorino Furg.1.5/1.3/1.3 Fire/1.3 F.Flex",
+      "valorAtual": 35177,
+      "canonicalPath": "/fipe/fiat/fiorino-furg-1-5-1-3-1-3-fire-1-3-f-flex-2011-001027-8/",
+      "ano": 2011,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-fiorino-furg-1-5-1-3-1-3-fire-1-3-f-flex-2012-gasolina",
+      "fipeCodigo": "001027-8",
+      "displayName": "Fiat Fiorino Furg.1.5/1.3/1.3 Fire/1.3 F.Flex",
+      "valorAtual": 38348,
+      "canonicalPath": "/fipe/fiat/fiorino-furg-1-5-1-3-1-3-fire-1-3-f-flex-2012-001027-8/",
+      "ano": 2012,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-fiorino-furg-1-5-1-3-1-3-fire-1-3-f-flex-2013-gasolina",
+      "fipeCodigo": "001027-8",
+      "displayName": "Fiat Fiorino Furg.1.5/1.3/1.3 Fire/1.3 F.Flex",
+      "valorAtual": 39368,
+      "canonicalPath": "/fipe/fiat/fiorino-furg-1-5-1-3-1-3-fire-1-3-f-flex-2013-001027-8/",
+      "ano": 2013,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-fiorino-furgao-1-0-1993-gasolina",
+      "fipeCodigo": "001026-0",
+      "displayName": "Fiat Fiorino Furgão 1.0",
+      "valorAtual": 9285,
+      "canonicalPath": "/fipe/fiat/fiorino-furgao-1-0-1993-001026-0/",
+      "ano": 1993,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-fiorino-furgao-1-0-1994-gasolina",
+      "fipeCodigo": "001026-0",
+      "displayName": "Fiat Fiorino Furgão 1.0",
+      "valorAtual": 11042,
+      "canonicalPath": "/fipe/fiat/fiorino-furgao-1-0-1994-001026-0/",
+      "ano": 1994,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-fiorino-furgao-1-0-1995-gasolina",
+      "fipeCodigo": "001026-0",
+      "displayName": "Fiat Fiorino Furgão 1.0",
+      "valorAtual": 12033,
+      "canonicalPath": "/fipe/fiat/fiorino-furgao-1-0-1995-001026-0/",
+      "ano": 1995,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-fiorino-furgao-1-0-1995-etanol",
+      "fipeCodigo": "001026-0",
+      "displayName": "Fiat Fiorino Furgão 1.0",
+      "valorAtual": 7720,
+      "canonicalPath": "/fipe/fiat/fiorino-furgao-1-0-1995-001026-0/",
+      "ano": 1995,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-fiorino-furgao-1-0-1996-etanol",
+      "fipeCodigo": "001026-0",
+      "displayName": "Fiat Fiorino Furgão 1.0",
+      "valorAtual": 8089,
+      "canonicalPath": "/fipe/fiat/fiorino-furgao-1-0-1996-001026-0/",
+      "ano": 1996,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-fiorino-furgao-1-0-1996-gasolina",
+      "fipeCodigo": "001026-0",
+      "displayName": "Fiat Fiorino Furgão 1.0",
+      "valorAtual": 12334,
+      "canonicalPath": "/fipe/fiat/fiorino-furgao-1-0-1996-001026-0/",
+      "ano": 1996,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-fiorino-furgao-1-0-1997-gasolina",
+      "fipeCodigo": "001026-0",
+      "displayName": "Fiat Fiorino Furgão 1.0",
+      "valorAtual": 12846,
+      "canonicalPath": "/fipe/fiat/fiorino-furgao-1-0-1997-001026-0/",
+      "ano": 1997,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-fiorino-furgao-1-5-mpi-i-e-1992-gasolina",
+      "fipeCodigo": "001001-4",
+      "displayName": "Fiat Fiorino Furgão 1.5 mpi / i.e.",
+      "valorAtual": 9464,
+      "canonicalPath": "/fipe/fiat/fiorino-furgao-1-5-mpi-i-e-1992-001001-4/",
+      "ano": 1992,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-fiorino-furgao-1-5-mpi-i-e-1993-gasolina",
+      "fipeCodigo": "001001-4",
+      "displayName": "Fiat Fiorino Furgão 1.5 mpi / i.e.",
+      "valorAtual": 10241,
+      "canonicalPath": "/fipe/fiat/fiorino-furgao-1-5-mpi-i-e-1993-001001-4/",
+      "ano": 1993,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-fiorino-furgao-1-5-mpi-i-e-1994-gasolina",
+      "fipeCodigo": "001001-4",
+      "displayName": "Fiat Fiorino Furgão 1.5 mpi / i.e.",
+      "valorAtual": 10842,
+      "canonicalPath": "/fipe/fiat/fiorino-furgao-1-5-mpi-i-e-1994-001001-4/",
+      "ano": 1994,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-fiorino-furgao-1-5-mpi-i-e-1995-etanol",
+      "fipeCodigo": "001001-4",
+      "displayName": "Fiat Fiorino Furgão 1.5 mpi / i.e.",
+      "valorAtual": 8742,
+      "canonicalPath": "/fipe/fiat/fiorino-furgao-1-5-mpi-i-e-1995-001001-4/",
+      "ano": 1995,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-fiorino-furgao-1-5-mpi-i-e-1995-gasolina",
+      "fipeCodigo": "001001-4",
+      "displayName": "Fiat Fiorino Furgão 1.5 mpi / i.e.",
+      "valorAtual": 12109,
+      "canonicalPath": "/fipe/fiat/fiorino-furgao-1-5-mpi-i-e-1995-001001-4/",
+      "ano": 1995,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-fiorino-furgao-1-5-mpi-i-e-1996-etanol",
+      "fipeCodigo": "001001-4",
+      "displayName": "Fiat Fiorino Furgão 1.5 mpi / i.e.",
+      "valorAtual": 10052,
+      "canonicalPath": "/fipe/fiat/fiorino-furgao-1-5-mpi-i-e-1996-001001-4/",
+      "ano": 1996,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-fiorino-furgao-1-5-mpi-i-e-1996-gasolina",
+      "fipeCodigo": "001001-4",
+      "displayName": "Fiat Fiorino Furgão 1.5 mpi / i.e.",
+      "valorAtual": 12779,
+      "canonicalPath": "/fipe/fiat/fiorino-furgao-1-5-mpi-i-e-1996-001001-4/",
+      "ano": 1996,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-fiorino-furgao-1-5-mpi-i-e-1997-gasolina",
+      "fipeCodigo": "001001-4",
+      "displayName": "Fiat Fiorino Furgão 1.5 mpi / i.e.",
+      "valorAtual": 13450,
+      "canonicalPath": "/fipe/fiat/fiorino-furgao-1-5-mpi-i-e-1997-001001-4/",
+      "ano": 1997,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-fiorino-furgao-1-5-mpi-i-e-1998-gasolina",
+      "fipeCodigo": "001001-4",
+      "displayName": "Fiat Fiorino Furgão 1.5 mpi / i.e.",
+      "valorAtual": 13787,
+      "canonicalPath": "/fipe/fiat/fiorino-furgao-1-5-mpi-i-e-1998-001001-4/",
+      "ano": 1998,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-fiorino-furgao-1-5-mpi-i-e-1999-gasolina",
+      "fipeCodigo": "001001-4",
+      "displayName": "Fiat Fiorino Furgão 1.5 mpi / i.e.",
+      "valorAtual": 14837,
+      "canonicalPath": "/fipe/fiat/fiorino-furgao-1-5-mpi-i-e-1999-001001-4/",
+      "ano": 1999,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-fiorino-furgao-1-5-mpi-i-e-2000-gasolina",
+      "fipeCodigo": "001001-4",
+      "displayName": "Fiat Fiorino Furgão 1.5 mpi / i.e.",
+      "valorAtual": 16593,
+      "canonicalPath": "/fipe/fiat/fiorino-furgao-1-5-mpi-i-e-2000-001001-4/",
+      "ano": 2000,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-fiorino-furgao-1-5-mpi-i-e-2001-etanol",
+      "fipeCodigo": "001001-4",
+      "displayName": "Fiat Fiorino Furgão 1.5 mpi / i.e.",
+      "valorAtual": 15172,
+      "canonicalPath": "/fipe/fiat/fiorino-furgao-1-5-mpi-i-e-2001-001001-4/",
+      "ano": 2001,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-fiorino-furgao-1-5-mpi-i-e-2001-gasolina",
+      "fipeCodigo": "001001-4",
+      "displayName": "Fiat Fiorino Furgão 1.5 mpi / i.e.",
+      "valorAtual": 17736,
+      "canonicalPath": "/fipe/fiat/fiorino-furgao-1-5-mpi-i-e-2001-001001-4/",
+      "ano": 2001,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-fiorino-furgao-1-5-mpi-i-e-2002-etanol",
+      "fipeCodigo": "001001-4",
+      "displayName": "Fiat Fiorino Furgão 1.5 mpi / i.e.",
+      "valorAtual": 15746,
+      "canonicalPath": "/fipe/fiat/fiorino-furgao-1-5-mpi-i-e-2002-001001-4/",
+      "ano": 2002,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-fiorino-furgao-1-5-mpi-i-e-2002-gasolina",
+      "fipeCodigo": "001001-4",
+      "displayName": "Fiat Fiorino Furgão 1.5 mpi / i.e.",
+      "valorAtual": 18882,
+      "canonicalPath": "/fipe/fiat/fiorino-furgao-1-5-mpi-i-e-2002-001001-4/",
+      "ano": 2002,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-fiorino-furgao-1-5-mpi-i-e-2003-etanol",
+      "fipeCodigo": "001001-4",
+      "displayName": "Fiat Fiorino Furgão 1.5 mpi / i.e.",
+      "valorAtual": 16434,
+      "canonicalPath": "/fipe/fiat/fiorino-furgao-1-5-mpi-i-e-2003-001001-4/",
+      "ano": 2003,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-fiorino-furgao-1-5-mpi-i-e-2004-etanol",
+      "fipeCodigo": "001001-4",
+      "displayName": "Fiat Fiorino Furgão 1.5 mpi / i.e.",
+      "valorAtual": 16845,
+      "canonicalPath": "/fipe/fiat/fiorino-furgao-1-5-mpi-i-e-2004-001001-4/",
+      "ano": 2004,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-fiorino-furgao-1-5-mpi-i-e-2005-gasolina",
+      "fipeCodigo": "001001-4",
+      "displayName": "Fiat Fiorino Furgão 1.5 mpi / i.e.",
+      "valorAtual": 24561,
+      "canonicalPath": "/fipe/fiat/fiorino-furgao-1-5-mpi-i-e-2005-001001-4/",
+      "ano": 2005,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-fiorino-furgao-1-5-mpi-i-e-2005-etanol",
+      "fipeCodigo": "001001-4",
+      "displayName": "Fiat Fiorino Furgão 1.5 mpi / i.e.",
+      "valorAtual": 18596,
+      "canonicalPath": "/fipe/fiat/fiorino-furgao-1-5-mpi-i-e-2005-001001-4/",
+      "ano": 2005,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-fiorino-furgao-celeb-evo-1-4-flex-8v-2p-2014-flex",
+      "fipeCodigo": "001414-1",
+      "displayName": "Fiat Fiorino Furgão Celeb. EVO 1.4 Flex 8V 2p",
+      "valorAtual": 48831,
+      "canonicalPath": "/fipe/fiat/fiorino-furgao-celeb-evo-1-4-flex-8v-2p-2014-001414-1/",
+      "ano": 2014,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-fiorino-furgao-celeb-evo-1-4-flex-8v-2p-2015-flex",
+      "fipeCodigo": "001414-1",
+      "displayName": "Fiat Fiorino Furgão Celeb. EVO 1.4 Flex 8V 2p",
+      "valorAtual": 53989,
+      "canonicalPath": "/fipe/fiat/fiorino-furgao-celeb-evo-1-4-flex-8v-2p-2015-001414-1/",
+      "ano": 2015,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-fiorino-furgao-celeb-evo-1-4-flex-8v-2p-2016-flex",
+      "fipeCodigo": "001414-1",
+      "displayName": "Fiat Fiorino Furgão Celeb. EVO 1.4 Flex 8V 2p",
+      "valorAtual": 56777,
+      "canonicalPath": "/fipe/fiat/fiorino-furgao-celeb-evo-1-4-flex-8v-2p-2016-001414-1/",
+      "ano": 2016,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-fiorino-furgao-evo-1-4-flex-8v-2p-2014-flex",
+      "fipeCodigo": "001413-3",
+      "displayName": "Fiat Fiorino Furgão EVO 1.4 Flex 8V 2p",
+      "valorAtual": 50743,
+      "canonicalPath": "/fipe/fiat/fiorino-furgao-evo-1-4-flex-8v-2p-2014-001413-3/",
+      "ano": 2014,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-fiorino-furgao-evo-1-4-flex-8v-2p-2015-flex",
+      "fipeCodigo": "001413-3",
+      "displayName": "Fiat Fiorino Furgão EVO 1.4 Flex 8V 2p",
+      "valorAtual": 54005,
+      "canonicalPath": "/fipe/fiat/fiorino-furgao-evo-1-4-flex-8v-2p-2015-001413-3/",
+      "ano": 2015,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-fiorino-furgao-evo-1-4-flex-8v-2p-2016-flex",
+      "fipeCodigo": "001413-3",
+      "displayName": "Fiat Fiorino Furgão EVO 1.4 Flex 8V 2p",
+      "valorAtual": 57697,
+      "canonicalPath": "/fipe/fiat/fiorino-furgao-evo-1-4-flex-8v-2p-2016-001413-3/",
+      "ano": 2016,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-fiorino-furgao-evo-1-4-flex-8v-2p-2017-flex",
+      "fipeCodigo": "001413-3",
+      "displayName": "Fiat Fiorino Furgão EVO 1.4 Flex 8V 2p",
+      "valorAtual": 61168,
+      "canonicalPath": "/fipe/fiat/fiorino-furgao-evo-1-4-flex-8v-2p-2017-001413-3/",
+      "ano": 2017,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-fiorino-furgao-evo-1-4-flex-8v-2p-2018-flex",
+      "fipeCodigo": "001413-3",
+      "displayName": "Fiat Fiorino Furgão EVO 1.4 Flex 8V 2p",
+      "valorAtual": 62698,
+      "canonicalPath": "/fipe/fiat/fiorino-furgao-evo-1-4-flex-8v-2p-2018-001413-3/",
+      "ano": 2018,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-fiorino-furgao-evo-1-4-flex-8v-2p-2019-flex",
+      "fipeCodigo": "001413-3",
+      "displayName": "Fiat Fiorino Furgão EVO 1.4 Flex 8V 2p",
+      "valorAtual": 68229,
+      "canonicalPath": "/fipe/fiat/fiorino-furgao-evo-1-4-flex-8v-2p-2019-001413-3/",
+      "ano": 2019,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-fiorino-furgao-evo-1-4-flex-8v-2p-2020-flex",
+      "fipeCodigo": "001413-3",
+      "displayName": "Fiat Fiorino Furgão EVO 1.4 Flex 8V 2p",
+      "valorAtual": 69983,
+      "canonicalPath": "/fipe/fiat/fiorino-furgao-evo-1-4-flex-8v-2p-2020-001413-3/",
+      "ano": 2020,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-fiorino-furgao-evo-1-4-flex-8v-2p-2021-flex",
+      "fipeCodigo": "001413-3",
+      "displayName": "Fiat Fiorino Furgão EVO 1.4 Flex 8V 2p",
+      "valorAtual": 71733,
+      "canonicalPath": "/fipe/fiat/fiorino-furgao-evo-1-4-flex-8v-2p-2021-001413-3/",
+      "ano": 2021,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-fiorino-furgao-work-hard-1-4-flex-8v-2p-2017-flex",
+      "fipeCodigo": "001477-0",
+      "displayName": "Fiat Fiorino Furgão Work. HARD 1.4 Flex 8V 2p",
+      "valorAtual": 60093,
+      "canonicalPath": "/fipe/fiat/fiorino-furgao-work-hard-1-4-flex-8v-2p-2017-001477-0/",
+      "ano": 2017,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-fiorino-furgao-work-hard-1-4-flex-8v-2p-2018-flex",
+      "fipeCodigo": "001477-0",
+      "displayName": "Fiat Fiorino Furgão Work. HARD 1.4 Flex 8V 2p",
+      "valorAtual": 64339,
+      "canonicalPath": "/fipe/fiat/fiorino-furgao-work-hard-1-4-flex-8v-2p-2018-001477-0/",
+      "ano": 2018,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-fiorino-furgao-work-hard-1-4-flex-8v-2p-2019-flex",
+      "fipeCodigo": "001477-0",
+      "displayName": "Fiat Fiorino Furgão Work. HARD 1.4 Flex 8V 2p",
+      "valorAtual": 66352,
+      "canonicalPath": "/fipe/fiat/fiorino-furgao-work-hard-1-4-flex-8v-2p-2019-001477-0/",
+      "ano": 2019,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-fiorino-furgao-work-hard-1-4-flex-8v-2p-2020-flex",
+      "fipeCodigo": "001477-0",
+      "displayName": "Fiat Fiorino Furgão Work. HARD 1.4 Flex 8V 2p",
+      "valorAtual": 69290,
+      "canonicalPath": "/fipe/fiat/fiorino-furgao-work-hard-1-4-flex-8v-2p-2020-001477-0/",
+      "ano": 2020,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-fiorino-furgao-work-hard-1-4-flex-8v-2p-2021-flex",
+      "fipeCodigo": "001477-0",
+      "displayName": "Fiat Fiorino Furgão Work. HARD 1.4 Flex 8V 2p",
+      "valorAtual": 76483,
+      "canonicalPath": "/fipe/fiat/fiorino-furgao-work-hard-1-4-flex-8v-2p-2021-001477-0/",
+      "ano": 2021,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-fiorino-pick-up-1-0-1993-gasolina",
+      "fipeCodigo": "001028-6",
+      "displayName": "Fiat Fiorino Pick-Up 1.0",
+      "valorAtual": 7809,
+      "canonicalPath": "/fipe/fiat/fiorino-pick-up-1-0-1993-001028-6/",
+      "ano": 1993,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-fiorino-pick-up-1-0-1994-gasolina",
+      "fipeCodigo": "001028-6",
+      "displayName": "Fiat Fiorino Pick-Up 1.0",
+      "valorAtual": 9057,
+      "canonicalPath": "/fipe/fiat/fiorino-pick-up-1-0-1994-001028-6/",
+      "ano": 1994,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-fiorino-pick-up-1-0-1995-gasolina",
+      "fipeCodigo": "001028-6",
+      "displayName": "Fiat Fiorino Pick-Up 1.0",
+      "valorAtual": 10668,
+      "canonicalPath": "/fipe/fiat/fiorino-pick-up-1-0-1995-001028-6/",
+      "ano": 1995,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-fiorino-pick-up-1-0-1996-gasolina",
+      "fipeCodigo": "001028-6",
+      "displayName": "Fiat Fiorino Pick-Up 1.0",
+      "valorAtual": 10935,
+      "canonicalPath": "/fipe/fiat/fiorino-pick-up-1-0-1996-001028-6/",
+      "ano": 1996,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-fiorino-pick-up-1-0-1997-gasolina",
+      "fipeCodigo": "001028-6",
+      "displayName": "Fiat Fiorino Pick-Up 1.0",
+      "valorAtual": 11397,
+      "canonicalPath": "/fipe/fiat/fiorino-pick-up-1-0-1997-001028-6/",
+      "ano": 1997,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-fiorino-pick-up-1-5-i-e-1-3-1-5-hd-1988-gasolina",
+      "fipeCodigo": "001029-4",
+      "displayName": "Fiat Fiorino Pick-Up 1.5 i.e./1.3/1.5/HD",
+      "valorAtual": 4744,
+      "canonicalPath": "/fipe/fiat/fiorino-pick-up-1-5-i-e-1-3-1-5-hd-1988-001029-4/",
+      "ano": 1988,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-fiorino-pick-up-1-5-i-e-1-3-1-5-hd-1989-gasolina",
+      "fipeCodigo": "001029-4",
+      "displayName": "Fiat Fiorino Pick-Up 1.5 i.e./1.3/1.5/HD",
+      "valorAtual": 5532,
+      "canonicalPath": "/fipe/fiat/fiorino-pick-up-1-5-i-e-1-3-1-5-hd-1989-001029-4/",
+      "ano": 1989,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-fiorino-pick-up-1-5-i-e-1-3-1-5-hd-1990-gasolina",
+      "fipeCodigo": "001029-4",
+      "displayName": "Fiat Fiorino Pick-Up 1.5 i.e./1.3/1.5/HD",
+      "valorAtual": 5671,
+      "canonicalPath": "/fipe/fiat/fiorino-pick-up-1-5-i-e-1-3-1-5-hd-1990-001029-4/",
+      "ano": 1990,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-fiorino-pick-up-1-5-i-e-1-3-1-5-hd-1991-gasolina",
+      "fipeCodigo": "001029-4",
+      "displayName": "Fiat Fiorino Pick-Up 1.5 i.e./1.3/1.5/HD",
+      "valorAtual": 6409,
+      "canonicalPath": "/fipe/fiat/fiorino-pick-up-1-5-i-e-1-3-1-5-hd-1991-001029-4/",
+      "ano": 1991,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-fiorino-pick-up-1-5-i-e-1-3-1-5-hd-1992-gasolina",
+      "fipeCodigo": "001029-4",
+      "displayName": "Fiat Fiorino Pick-Up 1.5 i.e./1.3/1.5/HD",
+      "valorAtual": 6927,
+      "canonicalPath": "/fipe/fiat/fiorino-pick-up-1-5-i-e-1-3-1-5-hd-1992-001029-4/",
+      "ano": 1992,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-fiorino-pick-up-1-5-i-e-1-3-1-5-hd-1993-gasolina",
+      "fipeCodigo": "001029-4",
+      "displayName": "Fiat Fiorino Pick-Up 1.5 i.e./1.3/1.5/HD",
+      "valorAtual": 7923,
+      "canonicalPath": "/fipe/fiat/fiorino-pick-up-1-5-i-e-1-3-1-5-hd-1993-001029-4/",
+      "ano": 1993,
+      "marca": "Fiat"
+    }
+  ],
+  "stats": {
+    "total": 107
+  },
+  "meta": {
+    "geracaoId": "fiorino-2"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "tipo": "geracao",
+  "slug": "accord-3",
+  "canonicalPath": "/geracao/honda/accord-3/",
+  "titulo": "Geracao accord-3",
+  "descricao": "3 veiculos da geracao accord-3.",
+  "seo": {
+    "title": "Geracao accord-3 - Precos FIPE",
+    "description": "Veiculos da geracao accord-3 na Tabela FIPE.",
+    "h1": "Geracao accord-3",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/honda/accord-3/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "honda-accord-sedan-2-0-tb-16v-aut-hibrido-2023-hibrido",
+      "fipeCodigo": "014105-4",
+      "displayName": "Honda Accord Sedan 2.0 TB 16V Aut. (Híbrido)",
+      "valorAtual": 240020,
+      "canonicalPath": "/fipe/honda/accord-sedan-2-0-tb-16v-aut-hibrido-2023-014105-4/",
+      "ano": 2023,
+      "marca": "Honda"
+    },
+    {
+      "vehicleId": "honda-accord-sedan-2-0-tb-16v-aut-hibrido-2024-hibrido",
+      "fipeCodigo": "014105-4",
+      "displayName": "Honda Accord Sedan 2.0 TB 16V Aut. (Híbrido)",
+      "valorAtual": 248040,
+      "canonicalPath": "/fipe/honda/accord-sedan-2-0-tb-16v-aut-hibrido-2024-014105-4/",
+      "ano": 2024,
+      "marca": "Honda"
+    },
+    {
+      "vehicleId": "honda-accord-sedan-2-0-tb-16v-aut-hibrido-2025-hibrido",
+      "fipeCodigo": "014105-4",
+      "displayName": "Honda Accord Sedan 2.0 TB 16V Aut. (Híbrido)",
+      "valorAtual": 270925,
+      "canonicalPath": "/fipe/honda/accord-sedan-2-0-tb-16v-aut-hibrido-2025-014105-4/",
+      "ano": 2025,
+      "marca": "Honda"
+    }
+  ],
+  "stats": {
+    "total": 3
+  },
+  "meta": {
+    "geracaoId": "accord-3"
+  }
+}

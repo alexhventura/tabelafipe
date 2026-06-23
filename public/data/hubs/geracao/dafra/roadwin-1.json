@@ -1,0 +1,57 @@
+{
+  "tipo": "geracao",
+  "slug": "roadwin-1",
+  "canonicalPath": "/geracao/dafra/roadwin-1/",
+  "titulo": "Geracao roadwin-1",
+  "descricao": "4 veiculos da geracao roadwin-1.",
+  "seo": {
+    "title": "Geracao roadwin-1 - Precos FIPE",
+    "description": "Veiculos da geracao roadwin-1 na Tabela FIPE.",
+    "h1": "Geracao roadwin-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/dafra/roadwin-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "dafra-roadwin-250r-2012-gasolina",
+      "fipeCodigo": "861015-0",
+      "displayName": "DAFRA ROADWIN 250R",
+      "valorAtual": 7760,
+      "canonicalPath": "/fipe/dafra/roadwin-250r-2012-861015-0/",
+      "ano": 2012,
+      "marca": "DAFRA"
+    },
+    {
+      "vehicleId": "dafra-roadwin-250r-2013-gasolina",
+      "fipeCodigo": "861015-0",
+      "displayName": "DAFRA ROADWIN 250R",
+      "valorAtual": 7995,
+      "canonicalPath": "/fipe/dafra/roadwin-250r-2013-861015-0/",
+      "ano": 2013,
+      "marca": "DAFRA"
+    },
+    {
+      "vehicleId": "dafra-roadwin-250r-2014-gasolina",
+      "fipeCodigo": "861015-0",
+      "displayName": "DAFRA ROADWIN 250R",
+      "valorAtual": 8744,
+      "canonicalPath": "/fipe/dafra/roadwin-250r-2014-861015-0/",
+      "ano": 2014,
+      "marca": "DAFRA"
+    },
+    {
+      "vehicleId": "dafra-roadwin-250r-2015-gasolina",
+      "fipeCodigo": "861015-0",
+      "displayName": "DAFRA ROADWIN 250R",
+      "valorAtual": 9124,
+      "canonicalPath": "/fipe/dafra/roadwin-250r-2015-861015-0/",
+      "ano": 2015,
+      "marca": "DAFRA"
+    }
+  ],
+  "stats": {
+    "total": 4
+  },
+  "meta": {
+    "geracaoId": "roadwin-1"
+  }
+}

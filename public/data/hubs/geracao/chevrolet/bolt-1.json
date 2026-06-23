@@ -1,0 +1,66 @@
+{
+  "tipo": "geracao",
+  "slug": "bolt-1",
+  "canonicalPath": "/geracao/chevrolet/bolt-1/",
+  "titulo": "Geracao bolt-1",
+  "descricao": "5 veiculos da geracao bolt-1.",
+  "seo": {
+    "title": "Geracao bolt-1 - Precos FIPE",
+    "description": "Veiculos da geracao bolt-1 na Tabela FIPE.",
+    "h1": "Geracao bolt-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/chevrolet/bolt-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "chevrolet-bolt-ev-premier-203cv-eletrico-2020-eletrico",
+      "fipeCodigo": "004520-9",
+      "displayName": "GM - Chevrolet BOLT EV Premier 203cv (Elétrico)",
+      "valorAtual": 131100,
+      "canonicalPath": "/fipe/chevrolet/bolt-ev-premier-203cv-eletrico-2020-004520-9/",
+      "ano": 2020,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "shineray-bolt-250-2015-gasolina",
+      "fipeCodigo": "850023-1",
+      "displayName": "SHINERAY BOLT 250",
+      "valorAtual": 8464,
+      "canonicalPath": "/fipe/shineray/bolt-250-2015-850023-1/",
+      "ano": 2015,
+      "marca": "SHINERAY"
+    },
+    {
+      "vehicleId": "shineray-bolt-250-2016-gasolina",
+      "fipeCodigo": "850023-1",
+      "displayName": "SHINERAY BOLT 250",
+      "valorAtual": 8971,
+      "canonicalPath": "/fipe/shineray/bolt-250-2016-850023-1/",
+      "ano": 2016,
+      "marca": "SHINERAY"
+    },
+    {
+      "vehicleId": "shineray-bolt-250-2017-gasolina",
+      "fipeCodigo": "850023-1",
+      "displayName": "SHINERAY BOLT 250",
+      "valorAtual": 9196,
+      "canonicalPath": "/fipe/shineray/bolt-250-2017-850023-1/",
+      "ano": 2017,
+      "marca": "SHINERAY"
+    },
+    {
+      "vehicleId": "shineray-bolt-250-2018-gasolina",
+      "fipeCodigo": "850023-1",
+      "displayName": "SHINERAY BOLT 250",
+      "valorAtual": 11258,
+      "canonicalPath": "/fipe/shineray/bolt-250-2018-850023-1/",
+      "ano": 2018,
+      "marca": "SHINERAY"
+    }
+  ],
+  "stats": {
+    "total": 5
+  },
+  "meta": {
+    "geracaoId": "bolt-1"
+  }
+}

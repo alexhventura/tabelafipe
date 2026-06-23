@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "765lt-2",
+  "canonicalPath": "/geracao/mclaren/765lt-2/",
+  "titulo": "Geracao 765lt-2",
+  "descricao": "2 veiculos da geracao 765lt-2.",
+  "seo": {
+    "title": "Geracao 765lt-2 - Precos FIPE",
+    "description": "Veiculos da geracao 765lt-2 na Tabela FIPE.",
+    "h1": "Geracao 765lt-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/mclaren/765lt-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "mclaren-765lt-coupe-4-0-bi-turbo-v8-2021-gasolina",
+      "fipeCodigo": "090009-5",
+      "displayName": "Mclaren 765LT Coupe 4.0 Bi-Turbo V8",
+      "valorAtual": 4704500,
+      "canonicalPath": "/fipe/mclaren/765lt-coupe-4-0-bi-turbo-v8-2021-090009-5/",
+      "ano": 2021,
+      "marca": "Mclaren"
+    },
+    {
+      "vehicleId": "mclaren-765lt-spider-4-0-bi-turbo-v8-2022-gasolina",
+      "fipeCodigo": "090012-5",
+      "displayName": "Mclaren 765LT Spider 4.0 Bi-Turbo V8",
+      "valorAtual": 5063463,
+      "canonicalPath": "/fipe/mclaren/765lt-spider-4-0-bi-turbo-v8-2022-090012-5/",
+      "ano": 2022,
+      "marca": "Mclaren"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "765lt-2"
+  }
+}

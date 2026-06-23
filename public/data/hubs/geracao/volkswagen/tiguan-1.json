@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "tiguan-1",
+  "canonicalPath": "/geracao/volkswagen/tiguan-1/",
+  "titulo": "Geracao tiguan-1",
+  "descricao": "2 veiculos da geracao tiguan-1.",
+  "seo": {
+    "title": "Geracao tiguan-1 - Precos FIPE",
+    "description": "Veiculos da geracao tiguan-1 na Tabela FIPE.",
+    "h1": "Geracao tiguan-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/volkswagen/tiguan-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "volkswagen-tiguan-allspac-r-line-300-tsi-2-0-0-gasolina",
+      "fipeCodigo": "005547-6",
+      "displayName": "VW - VolksWagen TIGUAN Allspac R-Line 300 TSI 2.0",
+      "valorAtual": 296984,
+      "canonicalPath": "/fipe/volkswagen/tiguan-allspac-r-line-300-tsi-2-0-0-005547-6/",
+      "ano": 0,
+      "marca": "VW - VolksWagen"
+    },
+    {
+      "vehicleId": "volkswagen-tiguan-r-line-2-0-350-tsi-4motion-aut-0-gasolina",
+      "fipeCodigo": "005558-1",
+      "displayName": "VW - VolksWagen TIGUAN R-Line 2.0 350 TSI 4Motion Aut.",
+      "valorAtual": 299990,
+      "canonicalPath": "/fipe/volkswagen/tiguan-r-line-2-0-350-tsi-4motion-aut-0-005558-1/",
+      "ano": 0,
+      "marca": "VW - VolksWagen"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "tiguan-1"
+  }
+}

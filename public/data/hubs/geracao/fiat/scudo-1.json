@@ -1,0 +1,48 @@
+{
+  "tipo": "geracao",
+  "slug": "scudo-1",
+  "canonicalPath": "/geracao/fiat/scudo-1/",
+  "titulo": "Geracao scudo-1",
+  "descricao": "3 veiculos da geracao scudo-1.",
+  "seo": {
+    "title": "Geracao scudo-1 - Precos FIPE",
+    "description": "Veiculos da geracao scudo-1 na Tabela FIPE.",
+    "h1": "Geracao scudo-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/fiat/scudo-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "fiat-scudo-cargo-1-5-16v-turbo-diesel-0-diesel",
+      "fipeCodigo": "001550-4",
+      "displayName": "Fiat Scudo Cargo 1.5 16V Turbo Diesel",
+      "valorAtual": 209801,
+      "canonicalPath": "/fipe/fiat/scudo-cargo-1-5-16v-turbo-diesel-0-001550-4/",
+      "ano": 0,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-scudo-cargo-2-2-16v-turbo-diesel-0-diesel",
+      "fipeCodigo": "001590-3",
+      "displayName": "Fiat Scudo Cargo 2.2 16V Turbo Diesel",
+      "valorAtual": 213076,
+      "canonicalPath": "/fipe/fiat/scudo-cargo-2-2-16v-turbo-diesel-0-001590-3/",
+      "ano": 0,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-scudo-multi-2-2-16-v-turbo-diesel-0-diesel",
+      "fipeCodigo": "001591-1",
+      "displayName": "Fiat Scudo Multi 2.2 16 V Turbo Diesel",
+      "valorAtual": 222416,
+      "canonicalPath": "/fipe/fiat/scudo-multi-2-2-16-v-turbo-diesel-0-001591-1/",
+      "ano": 0,
+      "marca": "Fiat"
+    }
+  ],
+  "stats": {
+    "total": 3
+  },
+  "meta": {
+    "geracaoId": "scudo-1"
+  }
+}

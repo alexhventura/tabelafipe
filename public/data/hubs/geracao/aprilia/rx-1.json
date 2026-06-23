@@ -1,0 +1,138 @@
+{
+  "tipo": "geracao",
+  "slug": "rx-1",
+  "canonicalPath": "/geracao/aprilia/rx-1/",
+  "titulo": "Geracao rx-1",
+  "descricao": "13 veiculos da geracao rx-1.",
+  "seo": {
+    "title": "Geracao rx-1 - Precos FIPE",
+    "description": "Veiculos da geracao rx-1 na Tabela FIPE.",
+    "h1": "Geracao rx-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/aprilia/rx-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "aprilia-rx-50cc-1998-gasolina",
+      "fipeCodigo": "802010-8",
+      "displayName": "APRILIA RX 50cc",
+      "valorAtual": 3074,
+      "canonicalPath": "/fipe/aprilia/rx-50cc-1998-802010-8/",
+      "ano": 1998,
+      "marca": "APRILIA"
+    },
+    {
+      "vehicleId": "aprilia-rx-50cc-1999-gasolina",
+      "fipeCodigo": "802010-8",
+      "displayName": "APRILIA RX 50cc",
+      "valorAtual": 3480,
+      "canonicalPath": "/fipe/aprilia/rx-50cc-1999-802010-8/",
+      "ano": 1999,
+      "marca": "APRILIA"
+    },
+    {
+      "vehicleId": "aprilia-rx-50cc-2000-gasolina",
+      "fipeCodigo": "802010-8",
+      "displayName": "APRILIA RX 50cc",
+      "valorAtual": 3820,
+      "canonicalPath": "/fipe/aprilia/rx-50cc-2000-802010-8/",
+      "ano": 2000,
+      "marca": "APRILIA"
+    },
+    {
+      "vehicleId": "kasinski-rx-125-1999-gasolina",
+      "fipeCodigo": "816009-0",
+      "displayName": "KASINSKI RX 125",
+      "valorAtual": 2528,
+      "canonicalPath": "/fipe/kasinski/rx-125-1999-816009-0/",
+      "ano": 1999,
+      "marca": "KASINSKI"
+    },
+    {
+      "vehicleId": "kasinski-rx-125-2000-gasolina",
+      "fipeCodigo": "816009-0",
+      "displayName": "KASINSKI RX 125",
+      "valorAtual": 2757,
+      "canonicalPath": "/fipe/kasinski/rx-125-2000-816009-0/",
+      "ano": 2000,
+      "marca": "KASINSKI"
+    },
+    {
+      "vehicleId": "kasinski-rx-125-2001-gasolina",
+      "fipeCodigo": "816009-0",
+      "displayName": "KASINSKI RX 125",
+      "valorAtual": 2927,
+      "canonicalPath": "/fipe/kasinski/rx-125-2001-816009-0/",
+      "ano": 2001,
+      "marca": "KASINSKI"
+    },
+    {
+      "vehicleId": "kasinski-rx-125-2002-gasolina",
+      "fipeCodigo": "816009-0",
+      "displayName": "KASINSKI RX 125",
+      "valorAtual": 3197,
+      "canonicalPath": "/fipe/kasinski/rx-125-2002-816009-0/",
+      "ano": 2002,
+      "marca": "KASINSKI"
+    },
+    {
+      "vehicleId": "kasinski-rx-125-2003-gasolina",
+      "fipeCodigo": "816009-0",
+      "displayName": "KASINSKI RX 125",
+      "valorAtual": 3761,
+      "canonicalPath": "/fipe/kasinski/rx-125-2003-816009-0/",
+      "ano": 2003,
+      "marca": "KASINSKI"
+    },
+    {
+      "vehicleId": "kasinski-rx-125-2004-gasolina",
+      "fipeCodigo": "816009-0",
+      "displayName": "KASINSKI RX 125",
+      "valorAtual": 4296,
+      "canonicalPath": "/fipe/kasinski/rx-125-2004-816009-0/",
+      "ano": 2004,
+      "marca": "KASINSKI"
+    },
+    {
+      "vehicleId": "lexus-rx-450h-awd-2-5-16v-aut-hibrido-0-hibrido",
+      "fipeCodigo": "057057-5",
+      "displayName": "Lexus RX-450h+ AWD 2.5 16V Aut. (Híbrido)",
+      "valorAtual": 616255,
+      "canonicalPath": "/fipe/lexus/rx-450h-awd-2-5-16v-aut-hibrido-0-057057-5/",
+      "ano": 0,
+      "marca": "Lexus"
+    },
+    {
+      "vehicleId": "lexus-rx-500h-4x4-f-sport-2-4-16v-aut-hib-0-hibrido",
+      "fipeCodigo": "057056-7",
+      "displayName": "Lexus RX-500h 4x4 F-Sport 2.4 16V Aut. (Híb)",
+      "valorAtual": 619990,
+      "canonicalPath": "/fipe/lexus/rx-500h-4x4-f-sport-2-4-16v-aut-hib-0-057056-7/",
+      "ano": 0,
+      "marca": "Lexus"
+    },
+    {
+      "vehicleId": "mazda-rx-7-2-6-turbo-1993-gasolina",
+      "fipeCodigo": "020012-3",
+      "displayName": "Mazda RX 7 2.6 Turbo",
+      "valorAtual": 52677,
+      "canonicalPath": "/fipe/mazda/rx-7-2-6-turbo-1993-020012-3/",
+      "ano": 1993,
+      "marca": "Mazda"
+    },
+    {
+      "vehicleId": "mazda-rx-7-2-6-turbo-1994-gasolina",
+      "fipeCodigo": "020012-3",
+      "displayName": "Mazda RX 7 2.6 Turbo",
+      "valorAtual": 59731,
+      "canonicalPath": "/fipe/mazda/rx-7-2-6-turbo-1994-020012-3/",
+      "ano": 1994,
+      "marca": "Mazda"
+    }
+  ],
+  "stats": {
+    "total": 13
+  },
+  "meta": {
+    "geracaoId": "rx-1"
+  }
+}

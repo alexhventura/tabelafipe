@@ -1,0 +1,84 @@
+{
+  "tipo": "geracao",
+  "slug": "s10-1",
+  "canonicalPath": "/geracao/chevrolet/s10-1/",
+  "titulo": "Geracao s10-1",
+  "descricao": "7 veiculos da geracao s10-1.",
+  "seo": {
+    "title": "Geracao s10-1 - Precos FIPE",
+    "description": "Veiculos da geracao s10-1 na Tabela FIPE.",
+    "h1": "Geracao s10-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/chevrolet/s10-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "chevrolet-s10-p-up-h-country-2-8-4x4-cd-dies-aut-0-diesel",
+      "fipeCodigo": "004464-4",
+      "displayName": "GM - Chevrolet S10 P-Up H.Country 2.8 4x4 CD Dies.Aut.",
+      "valorAtual": 322021,
+      "canonicalPath": "/fipe/chevrolet/s10-p-up-h-country-2-8-4x4-cd-dies-aut-0-004464-4/",
+      "ano": 0,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-s10-pick-up-100-anos-2-8-tdi-4x4-cd-aut-0-diesel",
+      "fipeCodigo": "004562-4",
+      "displayName": "GM - Chevrolet S10 Pick-Up 100 Anos 2.8 TDI 4x4 CD Aut.",
+      "valorAtual": 312527,
+      "canonicalPath": "/fipe/chevrolet/s10-pick-up-100-anos-2-8-tdi-4x4-cd-aut-0-004562-4/",
+      "ano": 0,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-s10-pick-up-ltz-2-8-tdi-4x4-cd-dies-aut-0-diesel",
+      "fipeCodigo": "004397-4",
+      "displayName": "GM - Chevrolet S10 Pick-Up LTZ 2.8 TDI 4x4 CD Dies.Aut",
+      "valorAtual": 321033,
+      "canonicalPath": "/fipe/chevrolet/s10-pick-up-ltz-2-8-tdi-4x4-cd-dies-aut-0-004397-4/",
+      "ano": 0,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-s10-pick-up-wt-2-8-tdi-4x4-cd-diesel-aut-0-diesel",
+      "fipeCodigo": "004550-0",
+      "displayName": "GM - Chevrolet S10 Pick-Up WT 2.8 TDI 4x4 CD Diesel Aut",
+      "valorAtual": 295425,
+      "canonicalPath": "/fipe/chevrolet/s10-pick-up-wt-2-8-tdi-4x4-cd-diesel-aut-0-004550-0/",
+      "ano": 0,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-s10-pick-up-wt-2-8-tdi-4x4-cd-diesel-mec-0-diesel",
+      "fipeCodigo": "004552-7",
+      "displayName": "GM - Chevrolet S10 Pick-Up WT 2.8 TDI 4x4 CD Diesel Mec",
+      "valorAtual": 276858,
+      "canonicalPath": "/fipe/chevrolet/s10-pick-up-wt-2-8-tdi-4x4-cd-diesel-mec-0-004552-7/",
+      "ano": 0,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-s10-pick-up-wt-2-8-tdi-4x4-cs-diesel-mec-0-diesel",
+      "fipeCodigo": "004551-9",
+      "displayName": "GM - Chevrolet S10 Pick-Up WT 2.8 TDI 4x4 CS Diesel Mec",
+      "valorAtual": 256579,
+      "canonicalPath": "/fipe/chevrolet/s10-pick-up-wt-2-8-tdi-4x4-cs-diesel-mec-0-004551-9/",
+      "ano": 0,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-s10-pick-up-z71-2-8-tdi-4x4-cd-dies-aut-0-diesel",
+      "fipeCodigo": "004535-7",
+      "displayName": "GM - Chevrolet S10 Pick-Up Z71 2.8 TDI 4x4 CD Dies. Aut",
+      "valorAtual": 325290,
+      "canonicalPath": "/fipe/chevrolet/s10-pick-up-z71-2-8-tdi-4x4-cd-dies-aut-0-004535-7/",
+      "ano": 0,
+      "marca": "GM - Chevrolet"
+    }
+  ],
+  "stats": {
+    "total": 7
+  },
+  "meta": {
+    "geracaoId": "s10-1"
+  }
+}

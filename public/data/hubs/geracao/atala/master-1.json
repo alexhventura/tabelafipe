@@ -1,0 +1,165 @@
+{
+  "tipo": "geracao",
+  "slug": "master-1",
+  "canonicalPath": "/geracao/atala/master-1/",
+  "titulo": "Geracao master-1",
+  "descricao": "16 veiculos da geracao master-1.",
+  "seo": {
+    "title": "Geracao master-1 - Precos FIPE",
+    "description": "Veiculos da geracao master-1 na Tabela FIPE.",
+    "h1": "Geracao master-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/atala/master-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "atala-master-50cc-2000-gasolina",
+      "fipeCodigo": "829001-6",
+      "displayName": "ATALA MASTER 50cc",
+      "valorAtual": 1125,
+      "canonicalPath": "/fipe/atala/master-50cc-2000-829001-6/",
+      "ano": 2000,
+      "marca": "ATALA"
+    },
+    {
+      "vehicleId": "atala-master-50cc-2001-gasolina",
+      "fipeCodigo": "829001-6",
+      "displayName": "ATALA MASTER 50cc",
+      "valorAtual": 1235,
+      "canonicalPath": "/fipe/atala/master-50cc-2001-829001-6/",
+      "ano": 2001,
+      "marca": "ATALA"
+    },
+    {
+      "vehicleId": "atala-master-50cc-2002-gasolina",
+      "fipeCodigo": "829001-6",
+      "displayName": "ATALA MASTER 50cc",
+      "valorAtual": 1417,
+      "canonicalPath": "/fipe/atala/master-50cc-2002-829001-6/",
+      "ano": 2002,
+      "marca": "ATALA"
+    },
+    {
+      "vehicleId": "atala-master-50cc-2003-gasolina",
+      "fipeCodigo": "829001-6",
+      "displayName": "ATALA MASTER 50cc",
+      "valorAtual": 1611,
+      "canonicalPath": "/fipe/atala/master-50cc-2003-829001-6/",
+      "ano": 2003,
+      "marca": "ATALA"
+    },
+    {
+      "vehicleId": "envemo-master-4-0-diesel-1995-diesel",
+      "fipeCodigo": "044004-3",
+      "displayName": "Envemo Master 4.0 Diesel",
+      "valorAtual": 24543,
+      "canonicalPath": "/fipe/envemo/master-4-0-diesel-1995-044004-3/",
+      "ano": 1995,
+      "marca": "Envemo"
+    },
+    {
+      "vehicleId": "envemo-master-4-0-diesel-1996-diesel",
+      "fipeCodigo": "044004-3",
+      "displayName": "Envemo Master 4.0 Diesel",
+      "valorAtual": 27523,
+      "canonicalPath": "/fipe/envemo/master-4-0-diesel-1996-044004-3/",
+      "ano": 1996,
+      "marca": "Envemo"
+    },
+    {
+      "vehicleId": "haojue-master-ride-150-0-gasolina",
+      "fipeCodigo": "885009-7",
+      "displayName": "HAOJUE MASTER RIDE 150",
+      "valorAtual": 18443,
+      "canonicalPath": "/fipe/haojue/master-ride-150-0-885009-7/",
+      "ano": 0,
+      "marca": "HAOJUE"
+    },
+    {
+      "vehicleId": "renault-master-2-3-dci-chassi-16v-diesel-0-diesel",
+      "fipeCodigo": "025195-0",
+      "displayName": "Renault Master 2.3 dCi Chassi 16V Diesel",
+      "valorAtual": 247978,
+      "canonicalPath": "/fipe/renault/master-2-3-dci-chassi-16v-diesel-0-025195-0/",
+      "ano": 0,
+      "marca": "Renault"
+    },
+    {
+      "vehicleId": "renault-master-2-3-dci-executive-longo-16l-dies-0-diesel",
+      "fipeCodigo": "025205-0",
+      "displayName": "Renault Master 2.3 dCi Executive Longo 16L Dies",
+      "valorAtual": 344167,
+      "canonicalPath": "/fipe/renault/master-2-3-dci-executive-longo-16l-dies-0-025205-0/",
+      "ano": 0,
+      "marca": "Renault"
+    },
+    {
+      "vehicleId": "renault-master-2-3-dci-extra-f-vitre-16v-diesel-0-diesel",
+      "fipeCodigo": "025201-8",
+      "displayName": "Renault Master 2.3 dCi Extra F.Vitre 16V Diesel",
+      "valorAtual": 293982,
+      "canonicalPath": "/fipe/renault/master-2-3-dci-extra-f-vitre-16v-diesel-0-025201-8/",
+      "ano": 0,
+      "marca": "Renault"
+    },
+    {
+      "vehicleId": "renault-master-2-3-dci-extra-furgao-16v-diesel-0-diesel",
+      "fipeCodigo": "025198-4",
+      "displayName": "Renault Master 2.3 dCi Extra Furgão 16V Diesel",
+      "valorAtual": 288344,
+      "canonicalPath": "/fipe/renault/master-2-3-dci-extra-furgao-16v-diesel-0-025198-4/",
+      "ano": 0,
+      "marca": "Renault"
+    },
+    {
+      "vehicleId": "renault-master-2-3-dci-extra-pro-16v-diesel-0-diesel",
+      "fipeCodigo": "025316-2",
+      "displayName": "Renault Master 2.3 dCi Extra Pro 16V Diesel",
+      "valorAtual": 280357,
+      "canonicalPath": "/fipe/renault/master-2-3-dci-extra-pro-16v-diesel-0-025316-2/",
+      "ano": 0,
+      "marca": "Renault"
+    },
+    {
+      "vehicleId": "renault-master-2-3-dci-furgao-16v-diesel-0-diesel",
+      "fipeCodigo": "025196-8",
+      "displayName": "Renault Master 2.3 dCi Furgão 16V Diesel",
+      "valorAtual": 271483,
+      "canonicalPath": "/fipe/renault/master-2-3-dci-furgao-16v-diesel-0-025196-8/",
+      "ano": 0,
+      "marca": "Renault"
+    },
+    {
+      "vehicleId": "renault-master-2-3-dci-grand-furgao16v-diesel-0-diesel",
+      "fipeCodigo": "025197-6",
+      "displayName": "Renault Master 2.3 dCi Grand Furgão16V Diesel",
+      "valorAtual": 281315,
+      "canonicalPath": "/fipe/renault/master-2-3-dci-grand-furgao16v-diesel-0-025197-6/",
+      "ano": 0,
+      "marca": "Renault"
+    },
+    {
+      "vehicleId": "renault-master-2-3-dci-grand-pro-16v-diesel-0-diesel",
+      "fipeCodigo": "025315-4",
+      "displayName": "Renault Master 2.3 dCi Grand Pro 16V Diesel",
+      "valorAtual": 272713,
+      "canonicalPath": "/fipe/renault/master-2-3-dci-grand-pro-16v-diesel-0-025315-4/",
+      "ano": 0,
+      "marca": "Renault"
+    },
+    {
+      "vehicleId": "renault-master-2-3-dci-pro-16v-diesel-0-diesel",
+      "fipeCodigo": "025314-6",
+      "displayName": "Renault Master 2.3 dCi Pro 16V Diesel",
+      "valorAtual": 258363,
+      "canonicalPath": "/fipe/renault/master-2-3-dci-pro-16v-diesel-0-025314-6/",
+      "ano": 0,
+      "marca": "Renault"
+    }
+  ],
+  "stats": {
+    "total": 16
+  },
+  "meta": {
+    "geracaoId": "master-1"
+  }
+}

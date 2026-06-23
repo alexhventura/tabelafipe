@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "auman-1",
+  "canonicalPath": "/geracao/foton/auman-1/",
+  "titulo": "Geracao auman-1",
+  "descricao": "2 veiculos da geracao auman-1.",
+  "seo": {
+    "title": "Geracao auman-1 - Precos FIPE",
+    "description": "Veiculos da geracao auman-1 na Tabela FIPE.",
+    "h1": "Geracao auman-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/foton/auman-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "foton-auman-d-1722-4x2-diesel-e6-0-diesel",
+      "fipeCodigo": "526014-0",
+      "displayName": "FOTON AUMAN D 1722 4x2 (diesel) (E6)",
+      "valorAtual": 464666,
+      "canonicalPath": "/fipe/foton/auman-d-1722-4x2-diesel-e6-0-526014-0/",
+      "ano": 0,
+      "marca": "FOTON"
+    },
+    {
+      "vehicleId": "foton-auman-d-1722l-4x2-diesel-e6-0-diesel",
+      "fipeCodigo": "526013-2",
+      "displayName": "FOTON AUMAN D 1722L 4x2 (diesel) (E6)",
+      "valorAtual": 454500,
+      "canonicalPath": "/fipe/foton/auman-d-1722l-4x2-diesel-e6-0-526013-2/",
+      "ano": 0,
+      "marca": "FOTON"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "auman-1"
+  }
+}

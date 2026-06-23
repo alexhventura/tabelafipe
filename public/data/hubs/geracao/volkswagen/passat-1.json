@@ -1,0 +1,111 @@
+{
+  "tipo": "geracao",
+  "slug": "passat-1",
+  "canonicalPath": "/geracao/volkswagen/passat-1/",
+  "titulo": "Geracao passat-1",
+  "descricao": "10 veiculos da geracao passat-1.",
+  "seo": {
+    "title": "Geracao passat-1 - Precos FIPE",
+    "description": "Veiculos da geracao passat-1 na Tabela FIPE.",
+    "h1": "Geracao passat-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/volkswagen/passat-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "volkswagen-passat-l-ls-lse-gl-gls-ts-fla-vill-plus-1985-gasolina",
+      "fipeCodigo": "005101-2",
+      "displayName": "VW - VolksWagen Passat  L/LS/LSe/GL/GLS/TS/Fla/Vill/Plus",
+      "valorAtual": 7317,
+      "canonicalPath": "/fipe/volkswagen/passat-l-ls-lse-gl-gls-ts-fla-vill-plus-1985-005101-2/",
+      "ano": 1985,
+      "marca": "VW - VolksWagen"
+    },
+    {
+      "vehicleId": "volkswagen-passat-l-ls-lse-gl-gls-ts-fla-vill-plus-1986-gasolina",
+      "fipeCodigo": "005101-2",
+      "displayName": "VW - VolksWagen Passat  L/LS/LSe/GL/GLS/TS/Fla/Vill/Plus",
+      "valorAtual": 7979,
+      "canonicalPath": "/fipe/volkswagen/passat-l-ls-lse-gl-gls-ts-fla-vill-plus-1986-005101-2/",
+      "ano": 1986,
+      "marca": "VW - VolksWagen"
+    },
+    {
+      "vehicleId": "volkswagen-passat-l-ls-lse-gl-gls-ts-fla-vill-plus-1987-gasolina",
+      "fipeCodigo": "005101-2",
+      "displayName": "VW - VolksWagen Passat  L/LS/LSe/GL/GLS/TS/Fla/Vill/Plus",
+      "valorAtual": 8325,
+      "canonicalPath": "/fipe/volkswagen/passat-l-ls-lse-gl-gls-ts-fla-vill-plus-1987-005101-2/",
+      "ano": 1987,
+      "marca": "VW - VolksWagen"
+    },
+    {
+      "vehicleId": "volkswagen-passat-l-ls-lse-gl-gls-ts-fla-vill-plus-1988-gasolina",
+      "fipeCodigo": "005101-2",
+      "displayName": "VW - VolksWagen Passat  L/LS/LSe/GL/GLS/TS/Fla/Vill/Plus",
+      "valorAtual": 8550,
+      "canonicalPath": "/fipe/volkswagen/passat-l-ls-lse-gl-gls-ts-fla-vill-plus-1988-005101-2/",
+      "ano": 1988,
+      "marca": "VW - VolksWagen"
+    },
+    {
+      "vehicleId": "volkswagen-passat-l-ls-lse-gl-gls-ts-fla-vill-plus-1989-gasolina",
+      "fipeCodigo": "005101-2",
+      "displayName": "VW - VolksWagen Passat  L/LS/LSe/GL/GLS/TS/Fla/Vill/Plus",
+      "valorAtual": 8777,
+      "canonicalPath": "/fipe/volkswagen/passat-l-ls-lse-gl-gls-ts-fla-vill-plus-1989-005101-2/",
+      "ano": 1989,
+      "marca": "VW - VolksWagen"
+    },
+    {
+      "vehicleId": "volkswagen-passat-pointer-gts-1985-gasolina",
+      "fipeCodigo": "005054-7",
+      "displayName": "VW - VolksWagen Passat Pointer GTS",
+      "valorAtual": 7322,
+      "canonicalPath": "/fipe/volkswagen/passat-pointer-gts-1985-005054-7/",
+      "ano": 1985,
+      "marca": "VW - VolksWagen"
+    },
+    {
+      "vehicleId": "volkswagen-passat-pointer-gts-1986-gasolina",
+      "fipeCodigo": "005054-7",
+      "displayName": "VW - VolksWagen Passat Pointer GTS",
+      "valorAtual": 8009,
+      "canonicalPath": "/fipe/volkswagen/passat-pointer-gts-1986-005054-7/",
+      "ano": 1986,
+      "marca": "VW - VolksWagen"
+    },
+    {
+      "vehicleId": "volkswagen-passat-pointer-gts-1987-gasolina",
+      "fipeCodigo": "005054-7",
+      "displayName": "VW - VolksWagen Passat Pointer GTS",
+      "valorAtual": 8335,
+      "canonicalPath": "/fipe/volkswagen/passat-pointer-gts-1987-005054-7/",
+      "ano": 1987,
+      "marca": "VW - VolksWagen"
+    },
+    {
+      "vehicleId": "volkswagen-passat-pointer-gts-1988-gasolina",
+      "fipeCodigo": "005054-7",
+      "displayName": "VW - VolksWagen Passat Pointer GTS",
+      "valorAtual": 8556,
+      "canonicalPath": "/fipe/volkswagen/passat-pointer-gts-1988-005054-7/",
+      "ano": 1988,
+      "marca": "VW - VolksWagen"
+    },
+    {
+      "vehicleId": "volkswagen-passat-pointer-gts-1989-gasolina",
+      "fipeCodigo": "005054-7",
+      "displayName": "VW - VolksWagen Passat Pointer GTS",
+      "valorAtual": 8809,
+      "canonicalPath": "/fipe/volkswagen/passat-pointer-gts-1989-005054-7/",
+      "ano": 1989,
+      "marca": "VW - VolksWagen"
+    }
+  ],
+  "stats": {
+    "total": 10
+  },
+  "meta": {
+    "geracaoId": "passat-1"
+  }
+}

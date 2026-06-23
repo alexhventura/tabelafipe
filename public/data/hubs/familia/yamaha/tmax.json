@@ -1,0 +1,62 @@
+{
+  "tipo": "familia",
+  "slug": "tmax",
+  "canonicalPath": "/fipe/yamaha/tmax/",
+  "titulo": "YAMAHA tmax - Tabela FIPE",
+  "descricao": "4 versoes e anos do YAMAHA tmax na Tabela FIPE.",
+  "seo": {
+    "title": "YAMAHA tmax - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes YAMAHA tmax. 4 veiculos indexados.",
+    "h1": "YAMAHA tmax - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/yamaha/tmax/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "yamaha-tmax-530-2017-gasolina",
+      "fipeCodigo": "827089-9",
+      "displayName": "YAMAHA TMAX 530",
+      "valorAtual": 56944,
+      "canonicalPath": "/fipe/yamaha/tmax-530-2017-827089-9/",
+      "ano": 2017,
+      "marca": "YAMAHA"
+    },
+    {
+      "vehicleId": "yamaha-tmax-530-2016-gasolina",
+      "fipeCodigo": "827089-9",
+      "displayName": "YAMAHA TMAX 530",
+      "valorAtual": 49716,
+      "canonicalPath": "/fipe/yamaha/tmax-530-2016-827089-9/",
+      "ano": 2016,
+      "marca": "YAMAHA"
+    },
+    {
+      "vehicleId": "yamaha-tmax-530-2015-gasolina",
+      "fipeCodigo": "827089-9",
+      "displayName": "YAMAHA TMAX 530",
+      "valorAtual": 43299,
+      "canonicalPath": "/fipe/yamaha/tmax-530-2015-827089-9/",
+      "ano": 2015,
+      "marca": "YAMAHA"
+    },
+    {
+      "vehicleId": "yamaha-tmax-530-2014-gasolina",
+      "fipeCodigo": "827089-9",
+      "displayName": "YAMAHA TMAX 530",
+      "valorAtual": 42242,
+      "canonicalPath": "/fipe/yamaha/tmax-530-2014-827089-9/",
+      "ano": 2014,
+      "marca": "YAMAHA"
+    }
+  ],
+  "stats": {
+    "total": 4,
+    "precoMin": 42242,
+    "precoMax": 56944,
+    "anos": [
+      2017,
+      2016,
+      2015,
+      2014
+    ]
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "tipo": "geracao",
+  "slug": "m5-5",
+  "canonicalPath": "/geracao/bmw/m5-5/",
+  "titulo": "Geracao m5-5",
+  "descricao": "7 veiculos da geracao m5-5.",
+  "seo": {
+    "title": "Geracao m5-5 - Precos FIPE",
+    "description": "Veiculos da geracao m5-5 na Tabela FIPE.",
+    "h1": "Geracao m5-5",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/bmw/m5-5/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "bmw-m5-competition-m-xdrive-4-4-bi-tb-v8-2021-gasolina",
+      "fipeCodigo": "009279-7",
+      "displayName": "BMW M5 Competition M XDRIVE 4.4 Bi-TB V8",
+      "valorAtual": 654750,
+      "canonicalPath": "/fipe/bmw/m5-competition-m-xdrive-4-4-bi-tb-v8-2021-009279-7/",
+      "ano": 2021,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-m5-competition-m-xdrive-4-4-bi-tb-v8-2022-gasolina",
+      "fipeCodigo": "009279-7",
+      "displayName": "BMW M5 Competition M XDRIVE 4.4 Bi-TB V8",
+      "valorAtual": 696460,
+      "canonicalPath": "/fipe/bmw/m5-competition-m-xdrive-4-4-bi-tb-v8-2022-009279-7/",
+      "ano": 2022,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-m5-m-xdrive-4-4-bi-tb-v8-2019-gasolina",
+      "fipeCodigo": "009232-0",
+      "displayName": "BMW M5 M XDRIVE 4.4 Bi-TB V8",
+      "valorAtual": 459574,
+      "canonicalPath": "/fipe/bmw/m5-m-xdrive-4-4-bi-tb-v8-2019-009232-0/",
+      "ano": 2019,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-m5-m-xdrive-4-4-bi-tb-v8-2020-gasolina",
+      "fipeCodigo": "009232-0",
+      "displayName": "BMW M5 M XDRIVE 4.4 Bi-TB V8",
+      "valorAtual": 537206,
+      "canonicalPath": "/fipe/bmw/m5-m-xdrive-4-4-bi-tb-v8-2020-009232-0/",
+      "ano": 2020,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-m5-m-xdrive-4-4-bi-tb-v8-2022-gasolina",
+      "fipeCodigo": "009232-0",
+      "displayName": "BMW M5 M XDRIVE 4.4 Bi-TB V8",
+      "valorAtual": 797841,
+      "canonicalPath": "/fipe/bmw/m5-m-xdrive-4-4-bi-tb-v8-2022-009232-0/",
+      "ano": 2022,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-m5-perform-pack-m-xdrive-4-4-bi-tb-v8-2019-gasolina",
+      "fipeCodigo": "009233-9",
+      "displayName": "BMW M5 Perform. Pack M XDRIVE 4.4 Bi-TB V8",
+      "valorAtual": 499429,
+      "canonicalPath": "/fipe/bmw/m5-perform-pack-m-xdrive-4-4-bi-tb-v8-2019-009233-9/",
+      "ano": 2019,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-m5-perform-pack-m-xdrive-4-4-bi-tb-v8-2020-gasolina",
+      "fipeCodigo": "009233-9",
+      "displayName": "BMW M5 Perform. Pack M XDRIVE 4.4 Bi-TB V8",
+      "valorAtual": 586076,
+      "canonicalPath": "/fipe/bmw/m5-perform-pack-m-xdrive-4-4-bi-tb-v8-2020-009233-9/",
+      "ano": 2020,
+      "marca": "BMW"
+    }
+  ],
+  "stats": {
+    "total": 7
+  },
+  "meta": {
+    "geracaoId": "m5-5"
+  }
+}

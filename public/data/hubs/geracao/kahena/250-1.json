@@ -1,0 +1,84 @@
+{
+  "tipo": "geracao",
+  "slug": "250-1",
+  "canonicalPath": "/geracao/kahena/250-1/",
+  "titulo": "Geracao 250-1",
+  "descricao": "7 veiculos da geracao 250-1.",
+  "seo": {
+    "title": "Geracao 250-1 - Precos FIPE",
+    "description": "Veiculos da geracao 250-1 na Tabela FIPE.",
+    "h1": "Geracao 250-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/kahena/250-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "kahena-250-dual-2009-gasolina",
+      "fipeCodigo": "815006-0",
+      "displayName": "KAHENA 250 DUAL",
+      "valorAtual": 5723,
+      "canonicalPath": "/fipe/kahena/250-dual-2009-815006-0/",
+      "ano": 2009,
+      "marca": "KAHENA"
+    },
+    {
+      "vehicleId": "kahena-250-dual-2010-gasolina",
+      "fipeCodigo": "815006-0",
+      "displayName": "KAHENA 250 DUAL",
+      "valorAtual": 6147,
+      "canonicalPath": "/fipe/kahena/250-dual-2010-815006-0/",
+      "ano": 2010,
+      "marca": "KAHENA"
+    },
+    {
+      "vehicleId": "kahena-250-dual-2011-gasolina",
+      "fipeCodigo": "815006-0",
+      "displayName": "KAHENA 250 DUAL",
+      "valorAtual": 7021,
+      "canonicalPath": "/fipe/kahena/250-dual-2011-815006-0/",
+      "ano": 2011,
+      "marca": "KAHENA"
+    },
+    {
+      "vehicleId": "kahena-250-dual-t-2010-gasolina",
+      "fipeCodigo": "815007-9",
+      "displayName": "KAHENA 250 DUAL-T",
+      "valorAtual": 6981,
+      "canonicalPath": "/fipe/kahena/250-dual-t-2010-815007-9/",
+      "ano": 2010,
+      "marca": "KAHENA"
+    },
+    {
+      "vehicleId": "kahena-250-dual-t-2011-gasolina",
+      "fipeCodigo": "815007-9",
+      "displayName": "KAHENA 250 DUAL-T",
+      "valorAtual": 7182,
+      "canonicalPath": "/fipe/kahena/250-dual-t-2011-815007-9/",
+      "ano": 2011,
+      "marca": "KAHENA"
+    },
+    {
+      "vehicleId": "sbm-250-s-0-gasolina",
+      "fipeCodigo": "704001-6",
+      "displayName": "SBM 250 S",
+      "valorAtual": 23391,
+      "canonicalPath": "/fipe/sbm/250-s-0-704001-6/",
+      "ano": 0,
+      "marca": "SBM"
+    },
+    {
+      "vehicleId": "sbm-250-t-0-gasolina",
+      "fipeCodigo": "704008-3",
+      "displayName": "SBM 250 T",
+      "valorAtual": 24995,
+      "canonicalPath": "/fipe/sbm/250-t-0-704008-3/",
+      "ano": 0,
+      "marca": "SBM"
+    }
+  ],
+  "stats": {
+    "total": 7
+  },
+  "meta": {
+    "geracaoId": "250-1"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "tipo": "familia",
+  "slug": "220i",
+  "canonicalPath": "/fipe/bmw/220i/",
+  "titulo": "BMW 220i - Tabela FIPE",
+  "descricao": "5 versoes e anos do BMW 220i na Tabela FIPE.",
+  "seo": {
+    "title": "BMW 220i - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes BMW 220i. 5 veiculos indexados.",
+    "h1": "BMW 220i - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/bmw/220i/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "bmw-220i-gran-coupe-m-sport-2-0-tb-aut-2026-gasolina",
+      "fipeCodigo": "009326-2",
+      "displayName": "BMW 220i Gran Coupe M Sport 2.0 TB Aut.",
+      "valorAtual": 287818,
+      "canonicalPath": "/fipe/bmw/220i-gran-coupe-m-sport-2-0-tb-aut-2026-009326-2/",
+      "ano": 2026,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-220i-tourer-active-flex-2-0-tb-aut-2018-flex",
+      "fipeCodigo": "009217-7",
+      "displayName": "BMW 220i Tourer Active Flex 2.0 TB Aut.",
+      "valorAtual": 93812,
+      "canonicalPath": "/fipe/bmw/220i-tourer-active-flex-2-0-tb-aut-2018-009217-7/",
+      "ano": 2018,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-220i-tourer-active-flex-2-0-tb-aut-2017-flex",
+      "fipeCodigo": "009217-7",
+      "displayName": "BMW 220i Tourer Active Flex 2.0 TB Aut.",
+      "valorAtual": 83679,
+      "canonicalPath": "/fipe/bmw/220i-tourer-active-flex-2-0-tb-aut-2017-009217-7/",
+      "ano": 2017,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-220i-tourer-active-flex-2-0-tb-aut-2016-flex",
+      "fipeCodigo": "009217-7",
+      "displayName": "BMW 220i Tourer Active Flex 2.0 TB Aut.",
+      "valorAtual": 78804,
+      "canonicalPath": "/fipe/bmw/220i-tourer-active-flex-2-0-tb-aut-2016-009217-7/",
+      "ano": 2016,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-220i-gran-coupe-m-sport-2-0-tb-aut-0-gasolina",
+      "fipeCodigo": "009326-2",
+      "displayName": "BMW 220i Gran Coupe M Sport 2.0 TB Aut.",
+      "valorAtual": 331502,
+      "canonicalPath": "/fipe/bmw/220i-gran-coupe-m-sport-2-0-tb-aut-0-009326-2/",
+      "ano": 0,
+      "marca": "BMW"
+    }
+  ],
+  "stats": {
+    "total": 5,
+    "precoMin": 78804,
+    "precoMax": 331502,
+    "anos": [
+      2026,
+      2018,
+      2017,
+      2016,
+      0
+    ]
+  }
+}

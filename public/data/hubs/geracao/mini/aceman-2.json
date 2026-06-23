@@ -1,0 +1,57 @@
+{
+  "tipo": "geracao",
+  "slug": "aceman-2",
+  "canonicalPath": "/geracao/mini/aceman-2/",
+  "titulo": "Geracao aceman-2",
+  "descricao": "4 veiculos da geracao aceman-2.",
+  "seo": {
+    "title": "Geracao aceman-2 - Precos FIPE",
+    "description": "Veiculos da geracao aceman-2 na Tabela FIPE.",
+    "h1": "Geracao aceman-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/mini/aceman-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "mini-aceman-e-eletrico-2025-eletrico",
+      "fipeCodigo": "071062-8",
+      "displayName": "MINI Aceman E (Elétrico)",
+      "valorAtual": 206707,
+      "canonicalPath": "/fipe/mini/aceman-e-eletrico-2025-071062-8/",
+      "ano": 2025,
+      "marca": "MINI"
+    },
+    {
+      "vehicleId": "mini-aceman-e-eletrico-2026-eletrico",
+      "fipeCodigo": "071062-8",
+      "displayName": "MINI Aceman E (Elétrico)",
+      "valorAtual": 225773,
+      "canonicalPath": "/fipe/mini/aceman-e-eletrico-2026-071062-8/",
+      "ano": 2026,
+      "marca": "MINI"
+    },
+    {
+      "vehicleId": "mini-aceman-se-eletrico-2025-eletrico",
+      "fipeCodigo": "071063-6",
+      "displayName": "MINI Aceman SE (Elétrico)",
+      "valorAtual": 246057,
+      "canonicalPath": "/fipe/mini/aceman-se-eletrico-2025-071063-6/",
+      "ano": 2025,
+      "marca": "MINI"
+    },
+    {
+      "vehicleId": "mini-aceman-se-eletrico-2026-eletrico",
+      "fipeCodigo": "071063-6",
+      "displayName": "MINI Aceman SE (Elétrico)",
+      "valorAtual": 265854,
+      "canonicalPath": "/fipe/mini/aceman-se-eletrico-2026-071063-6/",
+      "ano": 2026,
+      "marca": "MINI"
+    }
+  ],
+  "stats": {
+    "total": 4
+  },
+  "meta": {
+    "geracaoId": "aceman-2"
+  }
+}

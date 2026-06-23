@@ -1,0 +1,60 @@
+{
+  "tipo": "familia",
+  "slug": "windstar",
+  "canonicalPath": "/fipe/ford/windstar/",
+  "titulo": "Ford windstar - Tabela FIPE",
+  "descricao": "4 versoes e anos do Ford windstar na Tabela FIPE.",
+  "seo": {
+    "title": "Ford windstar - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes Ford windstar. 4 veiculos indexados.",
+    "h1": "Ford windstar - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/ford/windstar/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "ford-windstar-gl-1995-gasolina",
+      "fipeCodigo": "003093-7",
+      "displayName": "Ford Windstar GL",
+      "valorAtual": 14800,
+      "canonicalPath": "/fipe/ford/windstar-gl-1995-003093-7/",
+      "ano": 1995,
+      "marca": "Ford"
+    },
+    {
+      "vehicleId": "ford-windstar-lx-1995-gasolina",
+      "fipeCodigo": "003094-5",
+      "displayName": "Ford Windstar LX",
+      "valorAtual": 14908,
+      "canonicalPath": "/fipe/ford/windstar-lx-1995-003094-5/",
+      "ano": 1995,
+      "marca": "Ford"
+    },
+    {
+      "vehicleId": "ford-windstar-gl-1994-gasolina",
+      "fipeCodigo": "003093-7",
+      "displayName": "Ford Windstar GL",
+      "valorAtual": 12116,
+      "canonicalPath": "/fipe/ford/windstar-gl-1994-003093-7/",
+      "ano": 1994,
+      "marca": "Ford"
+    },
+    {
+      "vehicleId": "ford-windstar-lx-1994-gasolina",
+      "fipeCodigo": "003094-5",
+      "displayName": "Ford Windstar LX",
+      "valorAtual": 12368,
+      "canonicalPath": "/fipe/ford/windstar-lx-1994-003094-5/",
+      "ano": 1994,
+      "marca": "Ford"
+    }
+  ],
+  "stats": {
+    "total": 4,
+    "precoMin": 12116,
+    "precoMax": 14908,
+    "anos": [
+      1995,
+      1994
+    ]
+  }
+}

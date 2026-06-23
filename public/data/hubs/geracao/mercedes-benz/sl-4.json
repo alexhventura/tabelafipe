@@ -1,0 +1,48 @@
+{
+  "tipo": "geracao",
+  "slug": "sl-4",
+  "canonicalPath": "/geracao/mercedes-benz/sl-4/",
+  "titulo": "Geracao sl-4",
+  "descricao": "3 veiculos da geracao sl-4.",
+  "seo": {
+    "title": "Geracao sl-4 - Precos FIPE",
+    "description": "Veiculos da geracao sl-4 na Tabela FIPE.",
+    "h1": "Geracao sl-4",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/mercedes-benz/sl-4/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "mercedes-benz-sl-63-amg-s-e-performance-aut-hibrido-2024-hibrido",
+      "fipeCodigo": "021541-4",
+      "displayName": "Mercedes-Benz SL-63 AMG S E Performance Aut. (Híbrido)",
+      "valorAtual": 1572485,
+      "canonicalPath": "/fipe/mercedes-benz/sl-63-amg-s-e-performance-aut-hibrido-2024-021541-4/",
+      "ano": 2024,
+      "marca": "Mercedes-Benz"
+    },
+    {
+      "vehicleId": "mercedes-benz-sl-63-amg-s-e-performance-aut-hibrido-2025-hibrido",
+      "fipeCodigo": "021541-4",
+      "displayName": "Mercedes-Benz SL-63 AMG S E Performance Aut. (Híbrido)",
+      "valorAtual": 1615521,
+      "canonicalPath": "/fipe/mercedes-benz/sl-63-amg-s-e-performance-aut-hibrido-2025-021541-4/",
+      "ano": 2025,
+      "marca": "Mercedes-Benz"
+    },
+    {
+      "vehicleId": "mercedes-benz-sl-63-amg-s-e-performance-aut-hibrido-2026-hibrido",
+      "fipeCodigo": "021541-4",
+      "displayName": "Mercedes-Benz SL-63 AMG S E Performance Aut. (Híbrido)",
+      "valorAtual": 1665521,
+      "canonicalPath": "/fipe/mercedes-benz/sl-63-amg-s-e-performance-aut-hibrido-2026-021541-4/",
+      "ano": 2026,
+      "marca": "Mercedes-Benz"
+    }
+  ],
+  "stats": {
+    "total": 3
+  },
+  "meta": {
+    "geracaoId": "sl-4"
+  }
+}

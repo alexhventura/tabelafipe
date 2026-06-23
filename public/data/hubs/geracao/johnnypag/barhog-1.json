@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "barhog-1",
+  "canonicalPath": "/geracao/johnnypag/barhog-1/",
+  "titulo": "Geracao barhog-1",
+  "descricao": "2 veiculos da geracao barhog-1.",
+  "seo": {
+    "title": "Geracao barhog-1 - Precos FIPE",
+    "description": "Veiculos da geracao barhog-1 na Tabela FIPE.",
+    "h1": "Geracao barhog-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/johnnypag/barhog-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "johnnypag-barhog-300cc-2010-gasolina",
+      "fipeCodigo": "875003-3",
+      "displayName": "JOHNNYPAG BARHOG 300cc",
+      "valorAtual": 9441,
+      "canonicalPath": "/fipe/johnnypag/barhog-300cc-2010-875003-3/",
+      "ano": 2010,
+      "marca": "JOHNNYPAG"
+    },
+    {
+      "vehicleId": "johnnypag-barhog-300cc-2011-gasolina",
+      "fipeCodigo": "875003-3",
+      "displayName": "JOHNNYPAG BARHOG 300cc",
+      "valorAtual": 9709,
+      "canonicalPath": "/fipe/johnnypag/barhog-300cc-2011-875003-3/",
+      "ano": 2011,
+      "marca": "JOHNNYPAG"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "barhog-1"
+  }
+}

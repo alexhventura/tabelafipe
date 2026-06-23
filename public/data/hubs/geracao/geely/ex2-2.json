@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "ex2-2",
+  "canonicalPath": "/geracao/geely/ex2-2/",
+  "titulo": "Geracao ex2-2",
+  "descricao": "2 veiculos da geracao ex2-2.",
+  "seo": {
+    "title": "Geracao ex2-2 - Precos FIPE",
+    "description": "Veiculos da geracao ex2-2 na Tabela FIPE.",
+    "h1": "Geracao ex2-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/geely/ex2-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "geely-ex2-max-2026-eletrico",
+      "fipeCodigo": "088006-0",
+      "displayName": "GEELY EX2 MAX",
+      "valorAtual": 132793,
+      "canonicalPath": "/fipe/geely/ex2-max-2026-088006-0/",
+      "ano": 2026,
+      "marca": "GEELY"
+    },
+    {
+      "vehicleId": "geely-ex2-pro-2026-eletrico",
+      "fipeCodigo": "088005-1",
+      "displayName": "GEELY EX2 PRO",
+      "valorAtual": 118013,
+      "canonicalPath": "/fipe/geely/ex2-pro-2026-088005-1/",
+      "ano": 2026,
+      "marca": "GEELY"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "ex2-2"
+  }
+}

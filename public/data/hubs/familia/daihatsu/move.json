@@ -1,0 +1,42 @@
+{
+  "tipo": "familia",
+  "slug": "move",
+  "canonicalPath": "/fipe/daihatsu/move/",
+  "titulo": "Daihatsu move - Tabela FIPE",
+  "descricao": "2 versoes e anos do Daihatsu move na Tabela FIPE.",
+  "seo": {
+    "title": "Daihatsu move - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes Daihatsu move. 2 veiculos indexados.",
+    "h1": "Daihatsu move - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/daihatsu/move/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "daihatsu-move-van-1997-gasolina",
+      "fipeCodigo": "012014-6",
+      "displayName": "Daihatsu Move Van",
+      "valorAtual": 2923,
+      "canonicalPath": "/fipe/daihatsu/move-van-1997-012014-6/",
+      "ano": 1997,
+      "marca": "Daihatsu"
+    },
+    {
+      "vehicleId": "daihatsu-move-van-1996-gasolina",
+      "fipeCodigo": "012014-6",
+      "displayName": "Daihatsu Move Van",
+      "valorAtual": 2588,
+      "canonicalPath": "/fipe/daihatsu/move-van-1996-012014-6/",
+      "ano": 1996,
+      "marca": "Daihatsu"
+    }
+  ],
+  "stats": {
+    "total": 2,
+    "precoMin": 2588,
+    "precoMax": 2923,
+    "anos": [
+      1997,
+      1996
+    ]
+  }
+}

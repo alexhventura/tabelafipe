@@ -1,0 +1,99 @@
+{
+  "tipo": "familia",
+  "slug": "sierra",
+  "canonicalPath": "/fipe/chevrolet/sierra/",
+  "titulo": "GM - Chevrolet sierra - Tabela FIPE",
+  "descricao": "8 versoes e anos do GM - Chevrolet sierra na Tabela FIPE.",
+  "seo": {
+    "title": "GM - Chevrolet sierra - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes GM - Chevrolet sierra. 8 veiculos indexados.",
+    "h1": "GM - Chevrolet sierra - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/chevrolet/sierra/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "chevrolet-sierra-sport-5-0-v8-1995-gasolina",
+      "fipeCodigo": "004165-3",
+      "displayName": "GM - Chevrolet Sierra Sport 5.0 V8",
+      "valorAtual": 20691,
+      "canonicalPath": "/fipe/chevrolet/sierra-sport-5-0-v8-1995-004165-3/",
+      "ano": 1995,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-sierra-ce-5-7-v8-1995-gasolina",
+      "fipeCodigo": "004164-5",
+      "displayName": "GM - Chevrolet Sierra CE 5.7 V8",
+      "valorAtual": 30084,
+      "canonicalPath": "/fipe/chevrolet/sierra-ce-5-7-v8-1995-004164-5/",
+      "ano": 1995,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-sierra-sport-5-0-v8-1994-gasolina",
+      "fipeCodigo": "004165-3",
+      "displayName": "GM - Chevrolet Sierra Sport 5.0 V8",
+      "valorAtual": 18342,
+      "canonicalPath": "/fipe/chevrolet/sierra-sport-5-0-v8-1994-004165-3/",
+      "ano": 1994,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-sierra-ce-5-7-v8-1994-gasolina",
+      "fipeCodigo": "004164-5",
+      "displayName": "GM - Chevrolet Sierra CE 5.7 V8",
+      "valorAtual": 28415,
+      "canonicalPath": "/fipe/chevrolet/sierra-ce-5-7-v8-1994-004164-5/",
+      "ano": 1994,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-sierra-sport-5-0-v8-1993-gasolina",
+      "fipeCodigo": "004165-3",
+      "displayName": "GM - Chevrolet Sierra Sport 5.0 V8",
+      "valorAtual": 16302,
+      "canonicalPath": "/fipe/chevrolet/sierra-sport-5-0-v8-1993-004165-3/",
+      "ano": 1993,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-sierra-ce-5-7-v8-1993-gasolina",
+      "fipeCodigo": "004164-5",
+      "displayName": "GM - Chevrolet Sierra CE 5.7 V8",
+      "valorAtual": 24461,
+      "canonicalPath": "/fipe/chevrolet/sierra-ce-5-7-v8-1993-004164-5/",
+      "ano": 1993,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-sierra-ce-5-7-v8-1992-gasolina",
+      "fipeCodigo": "004164-5",
+      "displayName": "GM - Chevrolet Sierra CE 5.7 V8",
+      "valorAtual": 20092,
+      "canonicalPath": "/fipe/chevrolet/sierra-ce-5-7-v8-1992-004164-5/",
+      "ano": 1992,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-sierra-ce-5-7-v8-1991-gasolina",
+      "fipeCodigo": "004164-5",
+      "displayName": "GM - Chevrolet Sierra CE 5.7 V8",
+      "valorAtual": 18324,
+      "canonicalPath": "/fipe/chevrolet/sierra-ce-5-7-v8-1991-004164-5/",
+      "ano": 1991,
+      "marca": "GM - Chevrolet"
+    }
+  ],
+  "stats": {
+    "total": 8,
+    "precoMin": 16302,
+    "precoMax": 30084,
+    "anos": [
+      1995,
+      1994,
+      1993,
+      1992,
+      1991
+    ]
+  }
+}

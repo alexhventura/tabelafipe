@@ -1,0 +1,106 @@
+{
+  "tipo": "familia",
+  "slug": "x",
+  "canonicalPath": "/fipe/motomorini/x/",
+  "titulo": "MOTOMORINI x - Tabela FIPE",
+  "descricao": "9 versoes e anos do MOTOMORINI x na Tabela FIPE.",
+  "seo": {
+    "title": "MOTOMORINI x - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes MOTOMORINI x. 9 veiculos indexados.",
+    "h1": "MOTOMORINI x - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/motomorini/x/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "motomorini-x-cape-alloy-650-2026-gasolina",
+      "fipeCodigo": "899001-8",
+      "displayName": "MOTOMORINI X-CAPE ALLOY 650",
+      "valorAtual": 48500,
+      "canonicalPath": "/fipe/motomorini/x-cape-alloy-650-2026-899001-8/",
+      "ano": 2026,
+      "marca": "MOTOMORINI"
+    },
+    {
+      "vehicleId": "motomorini-x-cape-spoke-650-2026-gasolina",
+      "fipeCodigo": "899002-6",
+      "displayName": "MOTOMORINI X-CAPE SPOKE 650",
+      "valorAtual": 50546,
+      "canonicalPath": "/fipe/motomorini/x-cape-spoke-650-2026-899002-6/",
+      "ano": 2026,
+      "marca": "MOTOMORINI"
+    },
+    {
+      "vehicleId": "motomorini-x-cape-spoke-gold-edition-650-2026-gasolina",
+      "fipeCodigo": "899003-4",
+      "displayName": "MOTOMORINI X-CAPE SPOKE GOLD EDITION 650",
+      "valorAtual": 53350,
+      "canonicalPath": "/fipe/motomorini/x-cape-spoke-gold-edition-650-2026-899003-4/",
+      "ano": 2026,
+      "marca": "MOTOMORINI"
+    },
+    {
+      "vehicleId": "motomorini-x-cape-alloy-650-2025-gasolina",
+      "fipeCodigo": "899001-8",
+      "displayName": "MOTOMORINI X-CAPE ALLOY 650",
+      "valorAtual": 46116,
+      "canonicalPath": "/fipe/motomorini/x-cape-alloy-650-2025-899001-8/",
+      "ano": 2025,
+      "marca": "MOTOMORINI"
+    },
+    {
+      "vehicleId": "motomorini-x-cape-spoke-650-2025-gasolina",
+      "fipeCodigo": "899002-6",
+      "displayName": "MOTOMORINI X-CAPE SPOKE 650",
+      "valorAtual": 48896,
+      "canonicalPath": "/fipe/motomorini/x-cape-spoke-650-2025-899002-6/",
+      "ano": 2025,
+      "marca": "MOTOMORINI"
+    },
+    {
+      "vehicleId": "motomorini-x-cape-spoke-gold-edition-650-2025-gasolina",
+      "fipeCodigo": "899003-4",
+      "displayName": "MOTOMORINI X-CAPE SPOKE GOLD EDITION 650",
+      "valorAtual": 49212,
+      "canonicalPath": "/fipe/motomorini/x-cape-spoke-gold-edition-650-2025-899003-4/",
+      "ano": 2025,
+      "marca": "MOTOMORINI"
+    },
+    {
+      "vehicleId": "motomorini-x-cape-alloy-650-0-gasolina",
+      "fipeCodigo": "899001-8",
+      "displayName": "MOTOMORINI X-CAPE ALLOY 650",
+      "valorAtual": 52748,
+      "canonicalPath": "/fipe/motomorini/x-cape-alloy-650-0-899001-8/",
+      "ano": 0,
+      "marca": "MOTOMORINI"
+    },
+    {
+      "vehicleId": "motomorini-x-cape-spoke-650-0-gasolina",
+      "fipeCodigo": "899002-6",
+      "displayName": "MOTOMORINI X-CAPE SPOKE 650",
+      "valorAtual": 57174,
+      "canonicalPath": "/fipe/motomorini/x-cape-spoke-650-0-899002-6/",
+      "ano": 0,
+      "marca": "MOTOMORINI"
+    },
+    {
+      "vehicleId": "motomorini-x-cape-spoke-gold-edition-650-0-gasolina",
+      "fipeCodigo": "899003-4",
+      "displayName": "MOTOMORINI X-CAPE SPOKE GOLD EDITION 650",
+      "valorAtual": 57764,
+      "canonicalPath": "/fipe/motomorini/x-cape-spoke-gold-edition-650-0-899003-4/",
+      "ano": 0,
+      "marca": "MOTOMORINI"
+    }
+  ],
+  "stats": {
+    "total": 9,
+    "precoMin": 46116,
+    "precoMax": 57764,
+    "anos": [
+      2026,
+      2025,
+      0
+    ]
+  }
+}

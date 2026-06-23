@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "25-1",
+  "canonicalPath": "/geracao/volkswagen/25-1/",
+  "titulo": "Geracao 25-1",
+  "descricao": "2 veiculos da geracao 25-1.",
+  "seo": {
+    "title": "Geracao 25-1 - Precos FIPE",
+    "description": "Veiculos da geracao 25-1 na Tabela FIPE.",
+    "h1": "Geracao 25-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/volkswagen/25-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "volkswagen-25-380-constellation-6x2-2p-diesel-e6-0-diesel",
+      "fipeCodigo": "515203-8",
+      "displayName": "VOLKSWAGEN 25-380 Constellation 6x2 2p (diesel)(E6)",
+      "valorAtual": 810000,
+      "canonicalPath": "/fipe/volkswagen/25-380-constellation-6x2-2p-diesel-e6-0-515203-8/",
+      "ano": 0,
+      "marca": "VOLKSWAGEN"
+    },
+    {
+      "vehicleId": "volkswagen-25-480-constellation-6x2-2p-diesel-e6-0-diesel",
+      "fipeCodigo": "515192-9",
+      "displayName": "VOLKSWAGEN 25.480 Constellation 6x2 2p (diesel)(E6)",
+      "valorAtual": 805500,
+      "canonicalPath": "/fipe/volkswagen/25-480-constellation-6x2-2p-diesel-e6-0-515192-9/",
+      "ano": 0,
+      "marca": "VOLKSWAGEN"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "25-1"
+  }
+}

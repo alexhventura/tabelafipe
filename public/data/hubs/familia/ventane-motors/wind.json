@@ -1,0 +1,42 @@
+{
+  "tipo": "familia",
+  "slug": "wind",
+  "canonicalPath": "/fipe/ventane-motors/wind/",
+  "titulo": "Ventane Motors wind - Tabela FIPE",
+  "descricao": "2 versoes e anos do Ventane Motors wind na Tabela FIPE.",
+  "seo": {
+    "title": "Ventane Motors wind - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes Ventane Motors wind. 2 veiculos indexados.",
+    "h1": "Ventane Motors wind - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/ventane-motors/wind/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "ventane-motors-wind-2000w-eletrica-2023-eletrico",
+      "fipeCodigo": "896002-0",
+      "displayName": "Ventane Motors WIND 2000W (Elétrica)",
+      "valorAtual": 12003,
+      "canonicalPath": "/fipe/ventane-motors/wind-2000w-eletrica-2023-896002-0/",
+      "ano": 2023,
+      "marca": "Ventane Motors"
+    },
+    {
+      "vehicleId": "ventane-motors-wind-2000w-eletrica-0-eletrico",
+      "fipeCodigo": "896002-0",
+      "displayName": "Ventane Motors WIND 2000W (Elétrica)",
+      "valorAtual": 15500,
+      "canonicalPath": "/fipe/ventane-motors/wind-2000w-eletrica-0-896002-0/",
+      "ano": 0,
+      "marca": "Ventane Motors"
+    }
+  ],
+  "stats": {
+    "total": 2,
+    "precoMin": 12003,
+    "precoMax": 15500,
+    "anos": [
+      2023,
+      0
+    ]
+  }
+}

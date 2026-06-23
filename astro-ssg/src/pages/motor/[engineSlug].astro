@@ -1,0 +1,26 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import HubSections from '../../components/HubSections.astro';
+import { getMotorPaths, loadMotorHub } from '../../lib/paths.server';
+
+export function getStaticPaths() {
+  return getMotorPaths().map(({ engineSlug }) => ({
+    params: { engineSlug },
+  }));
+}
+
+const { engineSlug } = Astro.params;
+const hub = loadMotorHub(engineSlug!);
+if (!hub) throw new Error(`Hub motor not found: ${engineSlug}`);
+const seo = hub.seo;
+---
+
+<BaseLayout
+  title={seo.title}
+  description={seo.description}
+  canonical={seo.canonical}
+  og={{ 'og:title': seo.title, 'og:description': seo.description, 'og:url': seo.canonical }}
+  twitter={{ 'twitter:card': 'summary_large_image', 'twitter:title': seo.title, 'twitter:description': seo.description }}
+>
+  <HubSections hub={hub} />
+</BaseLayout>

@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "urban-1",
+  "canonicalPath": "/geracao/shineray/urban-1/",
+  "titulo": "Geracao urban-1",
+  "descricao": "2 veiculos da geracao urban-1.",
+  "seo": {
+    "title": "Geracao urban-1 - Precos FIPE",
+    "description": "Veiculos da geracao urban-1 na Tabela FIPE.",
+    "h1": "Geracao urban-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/shineray/urban-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "shineray-urban-150-efi-0-gasolina",
+      "fipeCodigo": "850042-8",
+      "displayName": "SHINERAY URBAN 150 EFI",
+      "valorAtual": 21730,
+      "canonicalPath": "/fipe/shineray/urban-150-efi-0-850042-8/",
+      "ano": 0,
+      "marca": "SHINERAY"
+    },
+    {
+      "vehicleId": "shineray-urban-lite-150-0-gasolina",
+      "fipeCodigo": "850057-6",
+      "displayName": "SHINERAY URBAN LITE 150",
+      "valorAtual": 12911,
+      "canonicalPath": "/fipe/shineray/urban-lite-150-0-850057-6/",
+      "ano": 0,
+      "marca": "SHINERAY"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "urban-1"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "tipo": "geracao",
+  "slug": "dbx707-2",
+  "canonicalPath": "/geracao/aston-martin/dbx707-2/",
+  "titulo": "Geracao dbx707-2",
+  "descricao": "4 veiculos da geracao dbx707-2.",
+  "seo": {
+    "title": "Geracao dbx707-2 - Precos FIPE",
+    "description": "Veiculos da geracao dbx707-2 na Tabela FIPE.",
+    "h1": "Geracao dbx707-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/aston-martin/dbx707-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "aston-martin-dbx707-4-0-v8-707cv-2023-gasolina",
+      "fipeCodigo": "085016-0",
+      "displayName": "ASTON MARTIN DBX707 4.0 V8 707cv",
+      "valorAtual": 2239210,
+      "canonicalPath": "/fipe/aston-martin/dbx707-4-0-v8-707cv-2023-085016-0/",
+      "ano": 2023,
+      "marca": "ASTON MARTIN"
+    },
+    {
+      "vehicleId": "aston-martin-dbx707-4-0-v8-707cv-2024-gasolina",
+      "fipeCodigo": "085016-0",
+      "displayName": "ASTON MARTIN DBX707 4.0 V8 707cv",
+      "valorAtual": 2662686,
+      "canonicalPath": "/fipe/aston-martin/dbx707-4-0-v8-707cv-2024-085016-0/",
+      "ano": 2024,
+      "marca": "ASTON MARTIN"
+    },
+    {
+      "vehicleId": "aston-martin-dbx707-4-0-v8-707cv-2025-gasolina",
+      "fipeCodigo": "085016-0",
+      "displayName": "ASTON MARTIN DBX707 4.0 V8 707cv",
+      "valorAtual": 3088965,
+      "canonicalPath": "/fipe/aston-martin/dbx707-4-0-v8-707cv-2025-085016-0/",
+      "ano": 2025,
+      "marca": "ASTON MARTIN"
+    },
+    {
+      "vehicleId": "aston-martin-dbx707-4-0-v8-707cv-2026-gasolina",
+      "fipeCodigo": "085016-0",
+      "displayName": "ASTON MARTIN DBX707 4.0 V8 707cv",
+      "valorAtual": 3321694,
+      "canonicalPath": "/fipe/aston-martin/dbx707-4-0-v8-707cv-2026-085016-0/",
+      "ano": 2026,
+      "marca": "ASTON MARTIN"
+    }
+  ],
+  "stats": {
+    "total": 4
+  },
+  "meta": {
+    "geracaoId": "dbx707-2"
+  }
+}

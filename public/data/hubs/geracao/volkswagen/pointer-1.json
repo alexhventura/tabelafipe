@@ -1,0 +1,201 @@
+{
+  "tipo": "geracao",
+  "slug": "pointer-1",
+  "canonicalPath": "/geracao/volkswagen/pointer-1/",
+  "titulo": "Geracao pointer-1",
+  "descricao": "20 veiculos da geracao pointer-1.",
+  "seo": {
+    "title": "Geracao pointer-1 - Precos FIPE",
+    "description": "Veiculos da geracao pointer-1 na Tabela FIPE.",
+    "h1": "Geracao pointer-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/volkswagen/pointer-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "volkswagen-pointer-1-8-cli-1994-gasolina",
+      "fipeCodigo": "005055-5",
+      "displayName": "VW - VolksWagen Pointer 1.8 / CLi",
+      "valorAtual": 5046,
+      "canonicalPath": "/fipe/volkswagen/pointer-1-8-cli-1994-005055-5/",
+      "ano": 1994,
+      "marca": "VW - VolksWagen"
+    },
+    {
+      "vehicleId": "volkswagen-pointer-1-8-cli-1995-etanol",
+      "fipeCodigo": "005055-5",
+      "displayName": "VW - VolksWagen Pointer 1.8 / CLi",
+      "valorAtual": 5291,
+      "canonicalPath": "/fipe/volkswagen/pointer-1-8-cli-1995-005055-5/",
+      "ano": 1995,
+      "marca": "VW - VolksWagen"
+    },
+    {
+      "vehicleId": "volkswagen-pointer-1-8-cli-1995-gasolina",
+      "fipeCodigo": "005055-5",
+      "displayName": "VW - VolksWagen Pointer 1.8 / CLi",
+      "valorAtual": 6318,
+      "canonicalPath": "/fipe/volkswagen/pointer-1-8-cli-1995-005055-5/",
+      "ano": 1995,
+      "marca": "VW - VolksWagen"
+    },
+    {
+      "vehicleId": "volkswagen-pointer-1-8-cli-1996-etanol",
+      "fipeCodigo": "005055-5",
+      "displayName": "VW - VolksWagen Pointer 1.8 / CLi",
+      "valorAtual": 5440,
+      "canonicalPath": "/fipe/volkswagen/pointer-1-8-cli-1996-005055-5/",
+      "ano": 1996,
+      "marca": "VW - VolksWagen"
+    },
+    {
+      "vehicleId": "volkswagen-pointer-1-8-cli-1996-gasolina",
+      "fipeCodigo": "005055-5",
+      "displayName": "VW - VolksWagen Pointer 1.8 / CLi",
+      "valorAtual": 7748,
+      "canonicalPath": "/fipe/volkswagen/pointer-1-8-cli-1996-005055-5/",
+      "ano": 1996,
+      "marca": "VW - VolksWagen"
+    },
+    {
+      "vehicleId": "volkswagen-pointer-gli-1-8-1994-gasolina",
+      "fipeCodigo": "005056-3",
+      "displayName": "VW - VolksWagen Pointer GLi 1.8",
+      "valorAtual": 5541,
+      "canonicalPath": "/fipe/volkswagen/pointer-gli-1-8-1994-005056-3/",
+      "ano": 1994,
+      "marca": "VW - VolksWagen"
+    },
+    {
+      "vehicleId": "volkswagen-pointer-gli-1-8-1995-etanol",
+      "fipeCodigo": "005056-3",
+      "displayName": "VW - VolksWagen Pointer GLi 1.8",
+      "valorAtual": 6139,
+      "canonicalPath": "/fipe/volkswagen/pointer-gli-1-8-1995-005056-3/",
+      "ano": 1995,
+      "marca": "VW - VolksWagen"
+    },
+    {
+      "vehicleId": "volkswagen-pointer-gli-1-8-1995-gasolina",
+      "fipeCodigo": "005056-3",
+      "displayName": "VW - VolksWagen Pointer GLi 1.8",
+      "valorAtual": 6680,
+      "canonicalPath": "/fipe/volkswagen/pointer-gli-1-8-1995-005056-3/",
+      "ano": 1995,
+      "marca": "VW - VolksWagen"
+    },
+    {
+      "vehicleId": "volkswagen-pointer-gli-1-8-1996-etanol",
+      "fipeCodigo": "005056-3",
+      "displayName": "VW - VolksWagen Pointer GLi 1.8",
+      "valorAtual": 7422,
+      "canonicalPath": "/fipe/volkswagen/pointer-gli-1-8-1996-005056-3/",
+      "ano": 1996,
+      "marca": "VW - VolksWagen"
+    },
+    {
+      "vehicleId": "volkswagen-pointer-gli-1-8-1996-gasolina",
+      "fipeCodigo": "005056-3",
+      "displayName": "VW - VolksWagen Pointer GLi 1.8",
+      "valorAtual": 10216,
+      "canonicalPath": "/fipe/volkswagen/pointer-gli-1-8-1996-005056-3/",
+      "ano": 1996,
+      "marca": "VW - VolksWagen"
+    },
+    {
+      "vehicleId": "volkswagen-pointer-gli-2-0-1994-gasolina",
+      "fipeCodigo": "005057-1",
+      "displayName": "VW - VolksWagen Pointer GLi 2.0",
+      "valorAtual": 10668,
+      "canonicalPath": "/fipe/volkswagen/pointer-gli-2-0-1994-005057-1/",
+      "ano": 1994,
+      "marca": "VW - VolksWagen"
+    },
+    {
+      "vehicleId": "volkswagen-pointer-gli-2-0-1995-etanol",
+      "fipeCodigo": "005057-1",
+      "displayName": "VW - VolksWagen Pointer GLi 2.0",
+      "valorAtual": 8252,
+      "canonicalPath": "/fipe/volkswagen/pointer-gli-2-0-1995-005057-1/",
+      "ano": 1995,
+      "marca": "VW - VolksWagen"
+    },
+    {
+      "vehicleId": "volkswagen-pointer-gli-2-0-1995-gasolina",
+      "fipeCodigo": "005057-1",
+      "displayName": "VW - VolksWagen Pointer GLi 2.0",
+      "valorAtual": 11219,
+      "canonicalPath": "/fipe/volkswagen/pointer-gli-2-0-1995-005057-1/",
+      "ano": 1995,
+      "marca": "VW - VolksWagen"
+    },
+    {
+      "vehicleId": "volkswagen-pointer-gli-2-0-1996-etanol",
+      "fipeCodigo": "005057-1",
+      "displayName": "VW - VolksWagen Pointer GLi 2.0",
+      "valorAtual": 9216,
+      "canonicalPath": "/fipe/volkswagen/pointer-gli-2-0-1996-005057-1/",
+      "ano": 1996,
+      "marca": "VW - VolksWagen"
+    },
+    {
+      "vehicleId": "volkswagen-pointer-gli-2-0-1996-gasolina",
+      "fipeCodigo": "005057-1",
+      "displayName": "VW - VolksWagen Pointer GLi 2.0",
+      "valorAtual": 15284,
+      "canonicalPath": "/fipe/volkswagen/pointer-gli-2-0-1996-005057-1/",
+      "ano": 1996,
+      "marca": "VW - VolksWagen"
+    },
+    {
+      "vehicleId": "volkswagen-pointer-gti-2-0-1994-gasolina",
+      "fipeCodigo": "005058-0",
+      "displayName": "VW - VolksWagen Pointer GTi 2.0",
+      "valorAtual": 13216,
+      "canonicalPath": "/fipe/volkswagen/pointer-gti-2-0-1994-005058-0/",
+      "ano": 1994,
+      "marca": "VW - VolksWagen"
+    },
+    {
+      "vehicleId": "volkswagen-pointer-gti-2-0-1995-gasolina",
+      "fipeCodigo": "005058-0",
+      "displayName": "VW - VolksWagen Pointer GTi 2.0",
+      "valorAtual": 14664,
+      "canonicalPath": "/fipe/volkswagen/pointer-gti-2-0-1995-005058-0/",
+      "ano": 1995,
+      "marca": "VW - VolksWagen"
+    },
+    {
+      "vehicleId": "volkswagen-pointer-gti-2-0-1995-etanol",
+      "fipeCodigo": "005058-0",
+      "displayName": "VW - VolksWagen Pointer GTi 2.0",
+      "valorAtual": 11390,
+      "canonicalPath": "/fipe/volkswagen/pointer-gti-2-0-1995-005058-0/",
+      "ano": 1995,
+      "marca": "VW - VolksWagen"
+    },
+    {
+      "vehicleId": "volkswagen-pointer-gti-2-0-1996-gasolina",
+      "fipeCodigo": "005058-0",
+      "displayName": "VW - VolksWagen Pointer GTi 2.0",
+      "valorAtual": 20038,
+      "canonicalPath": "/fipe/volkswagen/pointer-gti-2-0-1996-005058-0/",
+      "ano": 1996,
+      "marca": "VW - VolksWagen"
+    },
+    {
+      "vehicleId": "volkswagen-pointer-gti-2-0-1996-etanol",
+      "fipeCodigo": "005058-0",
+      "displayName": "VW - VolksWagen Pointer GTi 2.0",
+      "valorAtual": 11885,
+      "canonicalPath": "/fipe/volkswagen/pointer-gti-2-0-1996-005058-0/",
+      "ano": 1996,
+      "marca": "VW - VolksWagen"
+    }
+  ],
+  "stats": {
+    "total": 20
+  },
+  "meta": {
+    "geracaoId": "pointer-1"
+  }
+}

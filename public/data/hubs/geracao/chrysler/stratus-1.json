@@ -1,0 +1,192 @@
+{
+  "tipo": "geracao",
+  "slug": "stratus-1",
+  "canonicalPath": "/geracao/chrysler/stratus-1/",
+  "titulo": "Geracao stratus-1",
+  "descricao": "19 veiculos da geracao stratus-1.",
+  "seo": {
+    "title": "Geracao stratus-1 - Precos FIPE",
+    "description": "Veiculos da geracao stratus-1 na Tabela FIPE.",
+    "h1": "Geracao stratus-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/chrysler/stratus-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "chrysler-stratus-le-2-0-1996-gasolina",
+      "fipeCodigo": "010003-0",
+      "displayName": "Chrysler Stratus LE 2.0",
+      "valorAtual": 9275,
+      "canonicalPath": "/fipe/chrysler/stratus-le-2-0-1996-010003-0/",
+      "ano": 1996,
+      "marca": "Chrysler"
+    },
+    {
+      "vehicleId": "chrysler-stratus-le-2-0-1997-gasolina",
+      "fipeCodigo": "010003-0",
+      "displayName": "Chrysler Stratus LE 2.0",
+      "valorAtual": 11690,
+      "canonicalPath": "/fipe/chrysler/stratus-le-2-0-1997-010003-0/",
+      "ano": 1997,
+      "marca": "Chrysler"
+    },
+    {
+      "vehicleId": "chrysler-stratus-le-2-0-1998-gasolina",
+      "fipeCodigo": "010003-0",
+      "displayName": "Chrysler Stratus LE 2.0",
+      "valorAtual": 12050,
+      "canonicalPath": "/fipe/chrysler/stratus-le-2-0-1998-010003-0/",
+      "ano": 1998,
+      "marca": "Chrysler"
+    },
+    {
+      "vehicleId": "chrysler-stratus-le-2-0-1999-gasolina",
+      "fipeCodigo": "010003-0",
+      "displayName": "Chrysler Stratus LE 2.0",
+      "valorAtual": 12352,
+      "canonicalPath": "/fipe/chrysler/stratus-le-2-0-1999-010003-0/",
+      "ano": 1999,
+      "marca": "Chrysler"
+    },
+    {
+      "vehicleId": "chrysler-stratus-le-2-0-2000-gasolina",
+      "fipeCodigo": "010003-0",
+      "displayName": "Chrysler Stratus LE 2.0",
+      "valorAtual": 12661,
+      "canonicalPath": "/fipe/chrysler/stratus-le-2-0-2000-010003-0/",
+      "ano": 2000,
+      "marca": "Chrysler"
+    },
+    {
+      "vehicleId": "chrysler-stratus-le-2-0-2001-gasolina",
+      "fipeCodigo": "010003-0",
+      "displayName": "Chrysler Stratus LE 2.0",
+      "valorAtual": 15114,
+      "canonicalPath": "/fipe/chrysler/stratus-le-2-0-2001-010003-0/",
+      "ano": 2001,
+      "marca": "Chrysler"
+    },
+    {
+      "vehicleId": "chrysler-stratus-lx-2-0-mec-1996-gasolina",
+      "fipeCodigo": "010004-8",
+      "displayName": "Chrysler Stratus LX 2.0 Mec",
+      "valorAtual": 9330,
+      "canonicalPath": "/fipe/chrysler/stratus-lx-2-0-mec-1996-010004-8/",
+      "ano": 1996,
+      "marca": "Chrysler"
+    },
+    {
+      "vehicleId": "chrysler-stratus-lx-2-0-mec-1997-gasolina",
+      "fipeCodigo": "010004-8",
+      "displayName": "Chrysler Stratus LX 2.0 Mec",
+      "valorAtual": 12188,
+      "canonicalPath": "/fipe/chrysler/stratus-lx-2-0-mec-1997-010004-8/",
+      "ano": 1997,
+      "marca": "Chrysler"
+    },
+    {
+      "vehicleId": "chrysler-stratus-lx-2-0-mec-1998-gasolina",
+      "fipeCodigo": "010004-8",
+      "displayName": "Chrysler Stratus LX 2.0 Mec",
+      "valorAtual": 12802,
+      "canonicalPath": "/fipe/chrysler/stratus-lx-2-0-mec-1998-010004-8/",
+      "ano": 1998,
+      "marca": "Chrysler"
+    },
+    {
+      "vehicleId": "chrysler-stratus-lx-2-5-aut-1995-gasolina",
+      "fipeCodigo": "010005-6",
+      "displayName": "Chrysler Stratus LX 2.5 Aut",
+      "valorAtual": 8543,
+      "canonicalPath": "/fipe/chrysler/stratus-lx-2-5-aut-1995-010005-6/",
+      "ano": 1995,
+      "marca": "Chrysler"
+    },
+    {
+      "vehicleId": "chrysler-stratus-lx-2-5-aut-1996-gasolina",
+      "fipeCodigo": "010005-6",
+      "displayName": "Chrysler Stratus LX 2.5 Aut",
+      "valorAtual": 11288,
+      "canonicalPath": "/fipe/chrysler/stratus-lx-2-5-aut-1996-010005-6/",
+      "ano": 1996,
+      "marca": "Chrysler"
+    },
+    {
+      "vehicleId": "chrysler-stratus-lx-2-5-aut-1997-gasolina",
+      "fipeCodigo": "010005-6",
+      "displayName": "Chrysler Stratus LX 2.5 Aut",
+      "valorAtual": 13956,
+      "canonicalPath": "/fipe/chrysler/stratus-lx-2-5-aut-1997-010005-6/",
+      "ano": 1997,
+      "marca": "Chrysler"
+    },
+    {
+      "vehicleId": "chrysler-stratus-lx-2-5-aut-1998-gasolina",
+      "fipeCodigo": "010005-6",
+      "displayName": "Chrysler Stratus LX 2.5 Aut",
+      "valorAtual": 17119,
+      "canonicalPath": "/fipe/chrysler/stratus-lx-2-5-aut-1998-010005-6/",
+      "ano": 1998,
+      "marca": "Chrysler"
+    },
+    {
+      "vehicleId": "chrysler-stratus-lx-2-5-aut-1999-gasolina",
+      "fipeCodigo": "010005-6",
+      "displayName": "Chrysler Stratus LX 2.5 Aut",
+      "valorAtual": 17577,
+      "canonicalPath": "/fipe/chrysler/stratus-lx-2-5-aut-1999-010005-6/",
+      "ano": 1999,
+      "marca": "Chrysler"
+    },
+    {
+      "vehicleId": "chrysler-stratus-lx-2-5-aut-2000-gasolina",
+      "fipeCodigo": "010005-6",
+      "displayName": "Chrysler Stratus LX 2.5 Aut",
+      "valorAtual": 18017,
+      "canonicalPath": "/fipe/chrysler/stratus-lx-2-5-aut-2000-010005-6/",
+      "ano": 2000,
+      "marca": "Chrysler"
+    },
+    {
+      "vehicleId": "chrysler-stratus-lx-2-5-conversivel-aut-1996-gasolina",
+      "fipeCodigo": "010006-4",
+      "displayName": "Chrysler Stratus LX 2.5 Conversível Aut",
+      "valorAtual": 28822,
+      "canonicalPath": "/fipe/chrysler/stratus-lx-2-5-conversivel-aut-1996-010006-4/",
+      "ano": 1996,
+      "marca": "Chrysler"
+    },
+    {
+      "vehicleId": "chrysler-stratus-lx-2-5-conversivel-aut-1997-gasolina",
+      "fipeCodigo": "010006-4",
+      "displayName": "Chrysler Stratus LX 2.5 Conversível Aut",
+      "valorAtual": 39661,
+      "canonicalPath": "/fipe/chrysler/stratus-lx-2-5-conversivel-aut-1997-010006-4/",
+      "ano": 1997,
+      "marca": "Chrysler"
+    },
+    {
+      "vehicleId": "chrysler-stratus-lx-2-5-conversivel-aut-1998-gasolina",
+      "fipeCodigo": "010006-4",
+      "displayName": "Chrysler Stratus LX 2.5 Conversível Aut",
+      "valorAtual": 43164,
+      "canonicalPath": "/fipe/chrysler/stratus-lx-2-5-conversivel-aut-1998-010006-4/",
+      "ano": 1998,
+      "marca": "Chrysler"
+    },
+    {
+      "vehicleId": "chrysler-stratus-lx-2-5-conversivel-aut-1999-gasolina",
+      "fipeCodigo": "010006-4",
+      "displayName": "Chrysler Stratus LX 2.5 Conversível Aut",
+      "valorAtual": 44244,
+      "canonicalPath": "/fipe/chrysler/stratus-lx-2-5-conversivel-aut-1999-010006-4/",
+      "ano": 1999,
+      "marca": "Chrysler"
+    }
+  ],
+  "stats": {
+    "total": 19
+  },
+  "meta": {
+    "geracaoId": "stratus-1"
+  }
+}

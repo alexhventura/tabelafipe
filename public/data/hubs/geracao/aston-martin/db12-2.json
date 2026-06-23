@@ -1,0 +1,66 @@
+{
+  "tipo": "geracao",
+  "slug": "db12-2",
+  "canonicalPath": "/geracao/aston-martin/db12-2/",
+  "titulo": "Geracao db12-2",
+  "descricao": "5 veiculos da geracao db12-2.",
+  "seo": {
+    "title": "Geracao db12-2 - Precos FIPE",
+    "description": "Veiculos da geracao db12-2 na Tabela FIPE.",
+    "h1": "Geracao db12-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/aston-martin/db12-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "aston-martin-db12-coupe-4-0-v8-680cv-2024-gasolina",
+      "fipeCodigo": "085018-7",
+      "displayName": "ASTON MARTIN DB12 Coupe 4.0 V8 680cv",
+      "valorAtual": 2995073,
+      "canonicalPath": "/fipe/aston-martin/db12-coupe-4-0-v8-680cv-2024-085018-7/",
+      "ano": 2024,
+      "marca": "ASTON MARTIN"
+    },
+    {
+      "vehicleId": "aston-martin-db12-coupe-4-0-v8-680cv-2025-gasolina",
+      "fipeCodigo": "085018-7",
+      "displayName": "ASTON MARTIN DB12 Coupe 4.0 V8 680cv",
+      "valorAtual": 3149394,
+      "canonicalPath": "/fipe/aston-martin/db12-coupe-4-0-v8-680cv-2025-085018-7/",
+      "ano": 2025,
+      "marca": "ASTON MARTIN"
+    },
+    {
+      "vehicleId": "aston-martin-db12-coupe-4-0-v8-680cv-2026-gasolina",
+      "fipeCodigo": "085018-7",
+      "displayName": "ASTON MARTIN DB12 Coupe 4.0 V8 680cv",
+      "valorAtual": 3246198,
+      "canonicalPath": "/fipe/aston-martin/db12-coupe-4-0-v8-680cv-2026-085018-7/",
+      "ano": 2026,
+      "marca": "ASTON MARTIN"
+    },
+    {
+      "vehicleId": "aston-martin-db12-volante-4-0-v8-680cv-2025-gasolina",
+      "fipeCodigo": "085019-5",
+      "displayName": "ASTON MARTIN DB12 Volante 4.0 V8 680cv",
+      "valorAtual": 3473248,
+      "canonicalPath": "/fipe/aston-martin/db12-volante-4-0-v8-680cv-2025-085019-5/",
+      "ano": 2025,
+      "marca": "ASTON MARTIN"
+    },
+    {
+      "vehicleId": "aston-martin-db12-volante-4-0-v8-680cv-2026-gasolina",
+      "fipeCodigo": "085019-5",
+      "displayName": "ASTON MARTIN DB12 Volante 4.0 V8 680cv",
+      "valorAtual": 3578998,
+      "canonicalPath": "/fipe/aston-martin/db12-volante-4-0-v8-680cv-2026-085019-5/",
+      "ano": 2026,
+      "marca": "ASTON MARTIN"
+    }
+  ],
+  "stats": {
+    "total": 5
+  },
+  "meta": {
+    "geracaoId": "db12-2"
+  }
+}

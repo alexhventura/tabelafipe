@@ -1,0 +1,84 @@
+{
+  "tipo": "geracao",
+  "slug": "midas-1",
+  "canonicalPath": "/geracao/kasinski/midas-1/",
+  "titulo": "Geracao midas-1",
+  "descricao": "7 veiculos da geracao midas-1.",
+  "seo": {
+    "title": "Geracao midas-1 - Precos FIPE",
+    "description": "Veiculos da geracao midas-1 na Tabela FIPE.",
+    "h1": "Geracao midas-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/kasinski/midas-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "kasinski-midas-fx-110cc-1998-gasolina",
+      "fipeCodigo": "816003-1",
+      "displayName": "KASINSKI MIDAS FX 110cc",
+      "valorAtual": 1386,
+      "canonicalPath": "/fipe/kasinski/midas-fx-110cc-1998-816003-1/",
+      "ano": 1998,
+      "marca": "KASINSKI"
+    },
+    {
+      "vehicleId": "kasinski-midas-fx-110cc-1999-gasolina",
+      "fipeCodigo": "816003-1",
+      "displayName": "KASINSKI MIDAS FX 110cc",
+      "valorAtual": 1444,
+      "canonicalPath": "/fipe/kasinski/midas-fx-110cc-1999-816003-1/",
+      "ano": 1999,
+      "marca": "KASINSKI"
+    },
+    {
+      "vehicleId": "kasinski-midas-fx-110cc-2000-gasolina",
+      "fipeCodigo": "816003-1",
+      "displayName": "KASINSKI MIDAS FX 110cc",
+      "valorAtual": 1492,
+      "canonicalPath": "/fipe/kasinski/midas-fx-110cc-2000-816003-1/",
+      "ano": 2000,
+      "marca": "KASINSKI"
+    },
+    {
+      "vehicleId": "kasinski-midas-fx-110cc-2001-gasolina",
+      "fipeCodigo": "816003-1",
+      "displayName": "KASINSKI MIDAS FX 110cc",
+      "valorAtual": 1639,
+      "canonicalPath": "/fipe/kasinski/midas-fx-110cc-2001-816003-1/",
+      "ano": 2001,
+      "marca": "KASINSKI"
+    },
+    {
+      "vehicleId": "kasinski-midas-fx-110cc-2002-gasolina",
+      "fipeCodigo": "816003-1",
+      "displayName": "KASINSKI MIDAS FX 110cc",
+      "valorAtual": 1683,
+      "canonicalPath": "/fipe/kasinski/midas-fx-110cc-2002-816003-1/",
+      "ano": 2002,
+      "marca": "KASINSKI"
+    },
+    {
+      "vehicleId": "kasinski-midas-fx-110cc-2003-gasolina",
+      "fipeCodigo": "816003-1",
+      "displayName": "KASINSKI MIDAS FX 110cc",
+      "valorAtual": 1727,
+      "canonicalPath": "/fipe/kasinski/midas-fx-110cc-2003-816003-1/",
+      "ano": 2003,
+      "marca": "KASINSKI"
+    },
+    {
+      "vehicleId": "kasinski-midas-fx-110cc-2004-gasolina",
+      "fipeCodigo": "816003-1",
+      "displayName": "KASINSKI MIDAS FX 110cc",
+      "valorAtual": 1810,
+      "canonicalPath": "/fipe/kasinski/midas-fx-110cc-2004-816003-1/",
+      "ano": 2004,
+      "marca": "KASINSKI"
+    }
+  ],
+  "stats": {
+    "total": 7
+  },
+  "meta": {
+    "geracaoId": "midas-1"
+  }
+}

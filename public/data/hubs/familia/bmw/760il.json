@@ -1,0 +1,112 @@
+{
+  "tipo": "familia",
+  "slug": "760il",
+  "canonicalPath": "/fipe/bmw/760il/",
+  "titulo": "BMW 760il - Tabela FIPE",
+  "descricao": "9 versoes e anos do BMW 760il na Tabela FIPE.",
+  "seo": {
+    "title": "BMW 760il - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes BMW 760il. 9 veiculos indexados.",
+    "h1": "BMW 760il - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/bmw/760il/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "bmw-760il-6-0-v12-445cv-544cv-2012-gasolina",
+      "fipeCodigo": "009099-9",
+      "displayName": "BMW 760iL 6.0 V12 445cv/544cv",
+      "valorAtual": 233763,
+      "canonicalPath": "/fipe/bmw/760il-6-0-v12-445cv-544cv-2012-009099-9/",
+      "ano": 2012,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-760il-6-0-v12-445cv-544cv-2011-gasolina",
+      "fipeCodigo": "009099-9",
+      "displayName": "BMW 760iL 6.0 V12 445cv/544cv",
+      "valorAtual": 225984,
+      "canonicalPath": "/fipe/bmw/760il-6-0-v12-445cv-544cv-2011-009099-9/",
+      "ano": 2011,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-760il-6-0-v12-445cv-544cv-2010-gasolina",
+      "fipeCodigo": "009099-9",
+      "displayName": "BMW 760iL 6.0 V12 445cv/544cv",
+      "valorAtual": 220108,
+      "canonicalPath": "/fipe/bmw/760il-6-0-v12-445cv-544cv-2010-009099-9/",
+      "ano": 2010,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-760il-6-0-v12-445cv-544cv-2008-gasolina",
+      "fipeCodigo": "009099-9",
+      "displayName": "BMW 760iL 6.0 V12 445cv/544cv",
+      "valorAtual": 211784,
+      "canonicalPath": "/fipe/bmw/760il-6-0-v12-445cv-544cv-2008-009099-9/",
+      "ano": 2008,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-760il-6-0-v12-445cv-544cv-2007-gasolina",
+      "fipeCodigo": "009099-9",
+      "displayName": "BMW 760iL 6.0 V12 445cv/544cv",
+      "valorAtual": 206618,
+      "canonicalPath": "/fipe/bmw/760il-6-0-v12-445cv-544cv-2007-009099-9/",
+      "ano": 2007,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-760il-6-0-v12-445cv-544cv-2006-gasolina",
+      "fipeCodigo": "009099-9",
+      "displayName": "BMW 760iL 6.0 V12 445cv/544cv",
+      "valorAtual": 201578,
+      "canonicalPath": "/fipe/bmw/760il-6-0-v12-445cv-544cv-2006-009099-9/",
+      "ano": 2006,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-760il-6-0-v12-445cv-544cv-2005-gasolina",
+      "fipeCodigo": "009099-9",
+      "displayName": "BMW 760iL 6.0 V12 445cv/544cv",
+      "valorAtual": 140365,
+      "canonicalPath": "/fipe/bmw/760il-6-0-v12-445cv-544cv-2005-009099-9/",
+      "ano": 2005,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-760il-6-0-v12-445cv-544cv-2004-gasolina",
+      "fipeCodigo": "009099-9",
+      "displayName": "BMW 760iL 6.0 V12 445cv/544cv",
+      "valorAtual": 126918,
+      "canonicalPath": "/fipe/bmw/760il-6-0-v12-445cv-544cv-2004-009099-9/",
+      "ano": 2004,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-760il-6-0-v12-445cv-544cv-2003-gasolina",
+      "fipeCodigo": "009099-9",
+      "displayName": "BMW 760iL 6.0 V12 445cv/544cv",
+      "valorAtual": 99845,
+      "canonicalPath": "/fipe/bmw/760il-6-0-v12-445cv-544cv-2003-009099-9/",
+      "ano": 2003,
+      "marca": "BMW"
+    }
+  ],
+  "stats": {
+    "total": 9,
+    "precoMin": 99845,
+    "precoMax": 233763,
+    "anos": [
+      2012,
+      2011,
+      2010,
+      2008,
+      2007,
+      2006,
+      2005,
+      2004,
+      2003
+    ]
+  }
+}

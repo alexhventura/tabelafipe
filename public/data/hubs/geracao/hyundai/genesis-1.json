@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "genesis-1",
+  "canonicalPath": "/geracao/hyundai/genesis-1/",
+  "titulo": "Geracao genesis-1",
+  "descricao": "2 veiculos da geracao genesis-1.",
+  "seo": {
+    "title": "Geracao genesis-1 - Precos FIPE",
+    "description": "Veiculos da geracao genesis-1 na Tabela FIPE.",
+    "h1": "Geracao genesis-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/hyundai/genesis-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "hyundai-genesis-3-8-v6-24v-290cv-4p-aut-2012-gasolina",
+      "fipeCodigo": "015084-3",
+      "displayName": "Hyundai GENESIS 3.8 V6 24V 290cv 4p Aut.",
+      "valorAtual": 68076,
+      "canonicalPath": "/fipe/hyundai/genesis-3-8-v6-24v-290cv-4p-aut-2012-015084-3/",
+      "ano": 2012,
+      "marca": "Hyundai"
+    },
+    {
+      "vehicleId": "hyundai-genesis-3-8-v6-24v-290cv-4p-aut-2013-gasolina",
+      "fipeCodigo": "015084-3",
+      "displayName": "Hyundai GENESIS 3.8 V6 24V 290cv 4p Aut.",
+      "valorAtual": 84953,
+      "canonicalPath": "/fipe/hyundai/genesis-3-8-v6-24v-290cv-4p-aut-2013-015084-3/",
+      "ano": 2013,
+      "marca": "Hyundai"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "genesis-1"
+  }
+}

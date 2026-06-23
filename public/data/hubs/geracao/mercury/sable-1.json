@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "sable-1",
+  "canonicalPath": "/geracao/mercury/sable-1/",
+  "titulo": "Geracao sable-1",
+  "descricao": "2 veiculos da geracao sable-1.",
+  "seo": {
+    "title": "Geracao sable-1 - Precos FIPE",
+    "description": "Veiculos da geracao sable-1 na Tabela FIPE.",
+    "h1": "Geracao sable-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/mercury/sable-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "mercury-sable-ls-3-0-v6-1992-gasolina",
+      "fipeCodigo": "048002-9",
+      "displayName": "Mercury Sable LS 3.0 V6",
+      "valorAtual": 6936,
+      "canonicalPath": "/fipe/mercury/sable-ls-3-0-v6-1992-048002-9/",
+      "ano": 1992,
+      "marca": "Mercury"
+    },
+    {
+      "vehicleId": "mercury-sable-ls-3-0-v6-1993-gasolina",
+      "fipeCodigo": "048002-9",
+      "displayName": "Mercury Sable LS 3.0 V6",
+      "valorAtual": 7916,
+      "canonicalPath": "/fipe/mercury/sable-ls-3-0-v6-1993-048002-9/",
+      "ano": 1993,
+      "marca": "Mercury"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "sable-1"
+  }
+}

@@ -1,0 +1,732 @@
+{
+  "tipo": "geracao",
+  "slug": "yaris-2",
+  "canonicalPath": "/geracao/toyota/yaris-2/",
+  "titulo": "Geracao yaris-2",
+  "descricao": "79 veiculos da geracao yaris-2.",
+  "seo": {
+    "title": "Geracao yaris-2 - Precos FIPE",
+    "description": "Veiculos da geracao yaris-2 na Tabela FIPE.",
+    "h1": "Geracao yaris-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/toyota/yaris-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "toyota-yaris-cross-xr-1-5-16v-5p-aut-2026-flex",
+      "fipeCodigo": "002228-4",
+      "displayName": "Toyota YARIS Cross XR 1.5 16V 5p Aut.",
+      "valorAtual": 141221,
+      "canonicalPath": "/fipe/toyota/yaris-cross-xr-1-5-16v-5p-aut-2026-002228-4/",
+      "ano": 2026,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-yaris-cross-xre-1-5-16v-5p-aut-2026-flex",
+      "fipeCodigo": "002223-3",
+      "displayName": "Toyota YARIS Cross XRE 1.5 16V 5p Aut.",
+      "valorAtual": 153650,
+      "canonicalPath": "/fipe/toyota/yaris-cross-xre-1-5-16v-5p-aut-2026-002223-3/",
+      "ano": 2026,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-yaris-cross-xre-1-5-16v-5p-aut-hibrido-2026-hibrido",
+      "fipeCodigo": "002225-0",
+      "displayName": "Toyota YARIS Cross XRE 1.5 16V 5p Aut. (Híbrido)",
+      "valorAtual": 164540,
+      "canonicalPath": "/fipe/toyota/yaris-cross-xre-1-5-16v-5p-aut-hibrido-2026-002225-0/",
+      "ano": 2026,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-yaris-cross-xrx-1-5-16v-5p-aut-2026-flex",
+      "fipeCodigo": "002224-1",
+      "displayName": "Toyota YARIS Cross XRX 1.5 16V 5p Aut.",
+      "valorAtual": 170623,
+      "canonicalPath": "/fipe/toyota/yaris-cross-xrx-1-5-16v-5p-aut-2026-002224-1/",
+      "ano": 2026,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-yaris-cross-xrx-1-5-16v-5p-aut-hibrido-2026-hibrido",
+      "fipeCodigo": "002226-8",
+      "displayName": "Toyota YARIS Cross XRX 1.5 16V 5p Aut. (Híbrido)",
+      "valorAtual": 180424,
+      "canonicalPath": "/fipe/toyota/yaris-cross-xrx-1-5-16v-5p-aut-hibrido-2026-002226-8/",
+      "ano": 2026,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-yaris-gr-1-6-turbo-4x4-aut-2026-gasolina",
+      "fipeCodigo": "002230-6",
+      "displayName": "Toyota YARIS GR 1.6 Turbo 4x4 Aut.",
+      "valorAtual": 332709,
+      "canonicalPath": "/fipe/toyota/yaris-gr-1-6-turbo-4x4-aut-2026-002230-6/",
+      "ano": 2026,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-yaris-gr-1-6-turbo-4x4-mec-2026-gasolina",
+      "fipeCodigo": "002229-2",
+      "displayName": "Toyota YARIS GR 1.6 Turbo 4x4 Mec.",
+      "valorAtual": 331270,
+      "canonicalPath": "/fipe/toyota/yaris-gr-1-6-turbo-4x4-mec-2026-002229-2/",
+      "ano": 2026,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-yaris-s-1-5-flex-16v-5p-aut-2021-flex",
+      "fipeCodigo": "002198-9",
+      "displayName": "Toyota YARIS S 1.5 Flex 16V 5p Aut.",
+      "valorAtual": 85358,
+      "canonicalPath": "/fipe/toyota/yaris-s-1-5-flex-16v-5p-aut-2021-002198-9/",
+      "ano": 2021,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-yaris-x-way-1-5-flex-16v-5p-aut-2019-flex",
+      "fipeCodigo": "002178-4",
+      "displayName": "Toyota YARIS X-WAY 1.5 Flex 16V 5p Aut.",
+      "valorAtual": 78275,
+      "canonicalPath": "/fipe/toyota/yaris-x-way-1-5-flex-16v-5p-aut-2019-002178-4/",
+      "ano": 2019,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-yaris-x-way-1-5-flex-16v-5p-aut-2020-flex",
+      "fipeCodigo": "002178-4",
+      "displayName": "Toyota YARIS X-WAY 1.5 Flex 16V 5p Aut.",
+      "valorAtual": 82162,
+      "canonicalPath": "/fipe/toyota/yaris-x-way-1-5-flex-16v-5p-aut-2020-002178-4/",
+      "ano": 2020,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-yaris-x-way-connect-1-5-flex-16v-5p-aut-2020-flex",
+      "fipeCodigo": "002192-0",
+      "displayName": "Toyota YARIS X-WAY Connect 1.5 Flex 16V 5p Aut.",
+      "valorAtual": 82134,
+      "canonicalPath": "/fipe/toyota/yaris-x-way-connect-1-5-flex-16v-5p-aut-2020-002192-0/",
+      "ano": 2020,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-yaris-x-way-connect-1-5-flex-16v-5p-aut-2021-flex",
+      "fipeCodigo": "002192-0",
+      "displayName": "Toyota YARIS X-WAY Connect 1.5 Flex 16V 5p Aut.",
+      "valorAtual": 85687,
+      "canonicalPath": "/fipe/toyota/yaris-x-way-connect-1-5-flex-16v-5p-aut-2021-002192-0/",
+      "ano": 2021,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-yaris-x-way-connect-1-5-flex-16v-5p-aut-2022-flex",
+      "fipeCodigo": "002192-0",
+      "displayName": "Toyota YARIS X-WAY Connect 1.5 Flex 16V 5p Aut.",
+      "valorAtual": 87830,
+      "canonicalPath": "/fipe/toyota/yaris-x-way-connect-1-5-flex-16v-5p-aut-2022-002192-0/",
+      "ano": 2022,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-yaris-xl-1-3-flex-16v-5p-aut-2019-flex",
+      "fipeCodigo": "002172-5",
+      "displayName": "Toyota YARIS XL 1.3 Flex 16V 5p Aut.",
+      "valorAtual": 74776,
+      "canonicalPath": "/fipe/toyota/yaris-xl-1-3-flex-16v-5p-aut-2019-002172-5/",
+      "ano": 2019,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-yaris-xl-1-3-flex-16v-5p-aut-2020-flex",
+      "fipeCodigo": "002172-5",
+      "displayName": "Toyota YARIS XL 1.3 Flex 16V 5p Aut.",
+      "valorAtual": 77768,
+      "canonicalPath": "/fipe/toyota/yaris-xl-1-3-flex-16v-5p-aut-2020-002172-5/",
+      "ano": 2020,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-yaris-xl-1-3-flex-16v-5p-mec-2019-flex",
+      "fipeCodigo": "002171-7",
+      "displayName": "Toyota YARIS XL 1.3 Flex 16V 5p Mec.",
+      "valorAtual": 70177,
+      "canonicalPath": "/fipe/toyota/yaris-xl-1-3-flex-16v-5p-mec-2019-002171-7/",
+      "ano": 2019,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-yaris-xl-1-3-flex-16v-5p-mec-2020-flex",
+      "fipeCodigo": "002171-7",
+      "displayName": "Toyota YARIS XL 1.3 Flex 16V 5p Mec.",
+      "valorAtual": 71932,
+      "canonicalPath": "/fipe/toyota/yaris-xl-1-3-flex-16v-5p-mec-2020-002171-7/",
+      "ano": 2020,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-yaris-xl-1-5-flex-16v-5p-aut-2023-flex",
+      "fipeCodigo": "002207-1",
+      "displayName": "Toyota YARIS XL 1.5 Flex 16V 5p Aut.",
+      "valorAtual": 84270,
+      "canonicalPath": "/fipe/toyota/yaris-xl-1-5-flex-16v-5p-aut-2023-002207-1/",
+      "ano": 2023,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-yaris-xl-1-5-flex-16v-5p-aut-2024-flex",
+      "fipeCodigo": "002207-1",
+      "displayName": "Toyota YARIS XL 1.5 Flex 16V 5p Aut.",
+      "valorAtual": 89872,
+      "canonicalPath": "/fipe/toyota/yaris-xl-1-5-flex-16v-5p-aut-2024-002207-1/",
+      "ano": 2024,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-yaris-xl-1-5-flex-16v-5p-aut-2025-flex",
+      "fipeCodigo": "002207-1",
+      "displayName": "Toyota YARIS XL 1.5 Flex 16V 5p Aut.",
+      "valorAtual": 95837,
+      "canonicalPath": "/fipe/toyota/yaris-xl-1-5-flex-16v-5p-aut-2025-002207-1/",
+      "ano": 2025,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-yaris-xl-live-1-3-flex-16v-5p-aut-2020-flex",
+      "fipeCodigo": "002184-9",
+      "displayName": "Toyota YARIS XL Live 1.3 Flex 16V 5p Aut.",
+      "valorAtual": 78550,
+      "canonicalPath": "/fipe/toyota/yaris-xl-live-1-3-flex-16v-5p-aut-2020-002184-9/",
+      "ano": 2020,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-yaris-xl-live-1-3-flex-16v-5p-aut-2021-flex",
+      "fipeCodigo": "002184-9",
+      "displayName": "Toyota YARIS XL Live 1.3 Flex 16V 5p Aut.",
+      "valorAtual": 80514,
+      "canonicalPath": "/fipe/toyota/yaris-xl-live-1-3-flex-16v-5p-aut-2021-002184-9/",
+      "ano": 2021,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-yaris-xl-live-1-3-flex-16v-5p-aut-2022-flex",
+      "fipeCodigo": "002184-9",
+      "displayName": "Toyota YARIS XL Live 1.3 Flex 16V 5p Aut.",
+      "valorAtual": 82527,
+      "canonicalPath": "/fipe/toyota/yaris-xl-live-1-3-flex-16v-5p-aut-2022-002184-9/",
+      "ano": 2022,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-yaris-xl-live-1-3-flex-16v-5p-mec-2020-flex",
+      "fipeCodigo": "002185-7",
+      "displayName": "Toyota YARIS XL Live 1.3 Flex 16V 5p Mec.",
+      "valorAtual": 76327,
+      "canonicalPath": "/fipe/toyota/yaris-xl-live-1-3-flex-16v-5p-mec-2020-002185-7/",
+      "ano": 2020,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-yaris-xl-live-1-3-flex-16v-5p-mec-2021-flex",
+      "fipeCodigo": "002185-7",
+      "displayName": "Toyota YARIS XL Live 1.3 Flex 16V 5p Mec.",
+      "valorAtual": 79875,
+      "canonicalPath": "/fipe/toyota/yaris-xl-live-1-3-flex-16v-5p-mec-2021-002185-7/",
+      "ano": 2021,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-yaris-xl-live-sedan-1-5-flex-16v-4p-aut-2020-flex",
+      "fipeCodigo": "002186-5",
+      "displayName": "Toyota YARIS XL Live Sedan 1.5 Flex 16V 4p Aut.",
+      "valorAtual": 76328,
+      "canonicalPath": "/fipe/toyota/yaris-xl-live-sedan-1-5-flex-16v-4p-aut-2020-002186-5/",
+      "ano": 2020,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-yaris-xl-live-sedan-1-5-flex-16v-4p-aut-2021-flex",
+      "fipeCodigo": "002186-5",
+      "displayName": "Toyota YARIS XL Live Sedan 1.5 Flex 16V 4p Aut.",
+      "valorAtual": 78237,
+      "canonicalPath": "/fipe/toyota/yaris-xl-live-sedan-1-5-flex-16v-4p-aut-2021-002186-5/",
+      "ano": 2021,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-yaris-xl-live-sedan-1-5-flex-16v-4p-aut-2022-flex",
+      "fipeCodigo": "002186-5",
+      "displayName": "Toyota YARIS XL Live Sedan 1.5 Flex 16V 4p Aut.",
+      "valorAtual": 80193,
+      "canonicalPath": "/fipe/toyota/yaris-xl-live-sedan-1-5-flex-16v-4p-aut-2022-002186-5/",
+      "ano": 2022,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-yaris-xl-live-sedan-1-5-flex-16v-4p-mec-2020-flex",
+      "fipeCodigo": "002187-3",
+      "displayName": "Toyota YARIS XL Live Sedan 1.5 Flex 16V 4p Mec.",
+      "valorAtual": 72852,
+      "canonicalPath": "/fipe/toyota/yaris-xl-live-sedan-1-5-flex-16v-4p-mec-2020-002187-3/",
+      "ano": 2020,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-yaris-xl-live-sedan-1-5-flex-16v-4p-mec-2021-flex",
+      "fipeCodigo": "002187-3",
+      "displayName": "Toyota YARIS XL Live Sedan 1.5 Flex 16V 4p Mec.",
+      "valorAtual": 74674,
+      "canonicalPath": "/fipe/toyota/yaris-xl-live-sedan-1-5-flex-16v-4p-mec-2021-002187-3/",
+      "ano": 2021,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-yaris-xl-plus-con-1-5-flex-16v-5p-aut-2020-flex",
+      "fipeCodigo": "002188-1",
+      "displayName": "Toyota YARIS XL Plus Con. 1.5 Flex 16V 5p Aut.",
+      "valorAtual": 80126,
+      "canonicalPath": "/fipe/toyota/yaris-xl-plus-con-1-5-flex-16v-5p-aut-2020-002188-1/",
+      "ano": 2020,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-yaris-xl-plus-con-1-5-flex-16v-5p-aut-2021-flex",
+      "fipeCodigo": "002188-1",
+      "displayName": "Toyota YARIS XL Plus Con. 1.5 Flex 16V 5p Aut.",
+      "valorAtual": 82130,
+      "canonicalPath": "/fipe/toyota/yaris-xl-plus-con-1-5-flex-16v-5p-aut-2021-002188-1/",
+      "ano": 2021,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-yaris-xl-plus-con-1-5-flex-16v-5p-aut-2022-flex",
+      "fipeCodigo": "002188-1",
+      "displayName": "Toyota YARIS XL Plus Con. 1.5 Flex 16V 5p Aut.",
+      "valorAtual": 84184,
+      "canonicalPath": "/fipe/toyota/yaris-xl-plus-con-1-5-flex-16v-5p-aut-2022-002188-1/",
+      "ano": 2022,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-yaris-xl-plus-con-sed-1-5-flex-16v-aut-2020-flex",
+      "fipeCodigo": "002189-0",
+      "displayName": "Toyota YARIS XL Plus Con. Sed. 1.5 Flex 16V Aut",
+      "valorAtual": 79491,
+      "canonicalPath": "/fipe/toyota/yaris-xl-plus-con-sed-1-5-flex-16v-aut-2020-002189-0/",
+      "ano": 2020,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-yaris-xl-plus-con-sed-1-5-flex-16v-aut-2021-flex",
+      "fipeCodigo": "002189-0",
+      "displayName": "Toyota YARIS XL Plus Con. Sed. 1.5 Flex 16V Aut",
+      "valorAtual": 81479,
+      "canonicalPath": "/fipe/toyota/yaris-xl-plus-con-sed-1-5-flex-16v-aut-2021-002189-0/",
+      "ano": 2021,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-yaris-xl-plus-con-sed-1-5-flex-16v-aut-2022-flex",
+      "fipeCodigo": "002189-0",
+      "displayName": "Toyota YARIS XL Plus Con. Sed. 1.5 Flex 16V Aut",
+      "valorAtual": 83860,
+      "canonicalPath": "/fipe/toyota/yaris-xl-plus-con-sed-1-5-flex-16v-aut-2022-002189-0/",
+      "ano": 2022,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-yaris-xl-plus-t-sed-1-5-flex-16v-aut-2019-flex",
+      "fipeCodigo": "002176-8",
+      "displayName": "Toyota YARIS XL Plus T. Sed. 1.5 Flex 16V Aut.",
+      "valorAtual": 75021,
+      "canonicalPath": "/fipe/toyota/yaris-xl-plus-t-sed-1-5-flex-16v-aut-2019-002176-8/",
+      "ano": 2019,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-yaris-xl-plus-t-sed-1-5-flex-16v-aut-2020-flex",
+      "fipeCodigo": "002176-8",
+      "displayName": "Toyota YARIS XL Plus T. Sed. 1.5 Flex 16V Aut.",
+      "valorAtual": 81683,
+      "canonicalPath": "/fipe/toyota/yaris-xl-plus-t-sed-1-5-flex-16v-aut-2020-002176-8/",
+      "ano": 2020,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-yaris-xl-plus-tech-1-3-flex-16v-aut-2019-flex",
+      "fipeCodigo": "002175-0",
+      "displayName": "Toyota YARIS XL Plus Tech 1.3 Flex 16V Aut.",
+      "valorAtual": 74985,
+      "canonicalPath": "/fipe/toyota/yaris-xl-plus-tech-1-3-flex-16v-aut-2019-002175-0/",
+      "ano": 2019,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-yaris-xl-plus-tech-1-3-flex-16v-aut-2020-flex",
+      "fipeCodigo": "002175-0",
+      "displayName": "Toyota YARIS XL Plus Tech 1.3 Flex 16V Aut.",
+      "valorAtual": 79026,
+      "canonicalPath": "/fipe/toyota/yaris-xl-plus-tech-1-3-flex-16v-aut-2020-002175-0/",
+      "ano": 2020,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-yaris-xl-sedan-1-5-flex-16v-4p-aut-2019-flex",
+      "fipeCodigo": "002168-7",
+      "displayName": "Toyota YARIS XL Sedan 1.5 Flex 16V 4p Aut.",
+      "valorAtual": 74827,
+      "canonicalPath": "/fipe/toyota/yaris-xl-sedan-1-5-flex-16v-4p-aut-2019-002168-7/",
+      "ano": 2019,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-yaris-xl-sedan-1-5-flex-16v-4p-aut-2020-flex",
+      "fipeCodigo": "002168-7",
+      "displayName": "Toyota YARIS XL Sedan 1.5 Flex 16V 4p Aut.",
+      "valorAtual": 78239,
+      "canonicalPath": "/fipe/toyota/yaris-xl-sedan-1-5-flex-16v-4p-aut-2020-002168-7/",
+      "ano": 2020,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-yaris-xl-sedan-1-5-flex-16v-4p-aut-2023-flex",
+      "fipeCodigo": "002168-7",
+      "displayName": "Toyota YARIS XL Sedan 1.5 Flex 16V 4p Aut.",
+      "valorAtual": 84597,
+      "canonicalPath": "/fipe/toyota/yaris-xl-sedan-1-5-flex-16v-4p-aut-2023-002168-7/",
+      "ano": 2023,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-yaris-xl-sedan-1-5-flex-16v-4p-aut-2024-flex",
+      "fipeCodigo": "002168-7",
+      "displayName": "Toyota YARIS XL Sedan 1.5 Flex 16V 4p Aut.",
+      "valorAtual": 90114,
+      "canonicalPath": "/fipe/toyota/yaris-xl-sedan-1-5-flex-16v-4p-aut-2024-002168-7/",
+      "ano": 2024,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-yaris-xl-sedan-1-5-flex-16v-4p-aut-2025-flex",
+      "fipeCodigo": "002168-7",
+      "displayName": "Toyota YARIS XL Sedan 1.5 Flex 16V 4p Aut.",
+      "valorAtual": 97018,
+      "canonicalPath": "/fipe/toyota/yaris-xl-sedan-1-5-flex-16v-4p-aut-2025-002168-7/",
+      "ano": 2025,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-yaris-xl-sedan-1-5-flex-16v-4p-mec-2019-flex",
+      "fipeCodigo": "002167-9",
+      "displayName": "Toyota YARIS XL Sedan 1.5 Flex 16V 4p Mec.",
+      "valorAtual": 72955,
+      "canonicalPath": "/fipe/toyota/yaris-xl-sedan-1-5-flex-16v-4p-mec-2019-002167-9/",
+      "ano": 2019,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-yaris-xl-sedan-1-5-flex-16v-4p-mec-2020-flex",
+      "fipeCodigo": "002167-9",
+      "displayName": "Toyota YARIS XL Sedan 1.5 Flex 16V 4p Mec.",
+      "valorAtual": 77742,
+      "canonicalPath": "/fipe/toyota/yaris-xl-sedan-1-5-flex-16v-4p-mec-2020-002167-9/",
+      "ano": 2020,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-yaris-xls-1-5-flex-16v-5p-aut-2019-flex",
+      "fipeCodigo": "002174-1",
+      "displayName": "Toyota YARIS XLS 1.5 Flex 16V 5p Aut.",
+      "valorAtual": 79606,
+      "canonicalPath": "/fipe/toyota/yaris-xls-1-5-flex-16v-5p-aut-2019-002174-1/",
+      "ano": 2019,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-yaris-xls-1-5-flex-16v-5p-aut-2020-flex",
+      "fipeCodigo": "002174-1",
+      "displayName": "Toyota YARIS XLS 1.5 Flex 16V 5p Aut.",
+      "valorAtual": 83551,
+      "canonicalPath": "/fipe/toyota/yaris-xls-1-5-flex-16v-5p-aut-2020-002174-1/",
+      "ano": 2020,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-yaris-xls-1-5-flex-16v-5p-aut-2023-flex",
+      "fipeCodigo": "002174-1",
+      "displayName": "Toyota YARIS XLS 1.5 Flex 16V 5p Aut.",
+      "valorAtual": 94995,
+      "canonicalPath": "/fipe/toyota/yaris-xls-1-5-flex-16v-5p-aut-2023-002174-1/",
+      "ano": 2023,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-yaris-xls-1-5-flex-16v-5p-aut-2024-flex",
+      "fipeCodigo": "002174-1",
+      "displayName": "Toyota YARIS XLS 1.5 Flex 16V 5p Aut.",
+      "valorAtual": 105325,
+      "canonicalPath": "/fipe/toyota/yaris-xls-1-5-flex-16v-5p-aut-2024-002174-1/",
+      "ano": 2024,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-yaris-xls-1-5-flex-16v-5p-aut-2025-flex",
+      "fipeCodigo": "002174-1",
+      "displayName": "Toyota YARIS XLS 1.5 Flex 16V 5p Aut.",
+      "valorAtual": 109756,
+      "canonicalPath": "/fipe/toyota/yaris-xls-1-5-flex-16v-5p-aut-2025-002174-1/",
+      "ano": 2025,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-yaris-xls-connect-1-5-flex-16v-5p-aut-2020-flex",
+      "fipeCodigo": "002193-8",
+      "displayName": "Toyota YARIS XLS Connect 1.5 Flex 16V 5p Aut.",
+      "valorAtual": 83652,
+      "canonicalPath": "/fipe/toyota/yaris-xls-connect-1-5-flex-16v-5p-aut-2020-002193-8/",
+      "ano": 2020,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-yaris-xls-connect-1-5-flex-16v-5p-aut-2021-flex",
+      "fipeCodigo": "002193-8",
+      "displayName": "Toyota YARIS XLS Connect 1.5 Flex 16V 5p Aut.",
+      "valorAtual": 86230,
+      "canonicalPath": "/fipe/toyota/yaris-xls-connect-1-5-flex-16v-5p-aut-2021-002193-8/",
+      "ano": 2021,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-yaris-xls-connect-1-5-flex-16v-5p-aut-2022-flex",
+      "fipeCodigo": "002193-8",
+      "displayName": "Toyota YARIS XLS Connect 1.5 Flex 16V 5p Aut.",
+      "valorAtual": 89227,
+      "canonicalPath": "/fipe/toyota/yaris-xls-connect-1-5-flex-16v-5p-aut-2022-002193-8/",
+      "ano": 2022,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-yaris-xls-connect-sed-1-5-flex-16v-aut-2020-flex",
+      "fipeCodigo": "002194-6",
+      "displayName": "Toyota YARIS XLS Connect Sed. 1.5 Flex 16V Aut.",
+      "valorAtual": 83754,
+      "canonicalPath": "/fipe/toyota/yaris-xls-connect-sed-1-5-flex-16v-aut-2020-002194-6/",
+      "ano": 2020,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-yaris-xls-connect-sed-1-5-flex-16v-aut-2021-flex",
+      "fipeCodigo": "002194-6",
+      "displayName": "Toyota YARIS XLS Connect Sed. 1.5 Flex 16V Aut.",
+      "valorAtual": 87541,
+      "canonicalPath": "/fipe/toyota/yaris-xls-connect-sed-1-5-flex-16v-aut-2021-002194-6/",
+      "ano": 2021,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-yaris-xls-connect-sed-1-5-flex-16v-aut-2022-flex",
+      "fipeCodigo": "002194-6",
+      "displayName": "Toyota YARIS XLS Connect Sed. 1.5 Flex 16V Aut.",
+      "valorAtual": 90112,
+      "canonicalPath": "/fipe/toyota/yaris-xls-connect-sed-1-5-flex-16v-aut-2022-002194-6/",
+      "ano": 2022,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-yaris-xls-sedan-1-5-flex-16v-4p-aut-2019-flex",
+      "fipeCodigo": "002170-9",
+      "displayName": "Toyota YARIS XLS Sedan 1.5 Flex 16V 4p Aut.",
+      "valorAtual": 80077,
+      "canonicalPath": "/fipe/toyota/yaris-xls-sedan-1-5-flex-16v-4p-aut-2019-002170-9/",
+      "ano": 2019,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-yaris-xls-sedan-1-5-flex-16v-4p-aut-2020-flex",
+      "fipeCodigo": "002170-9",
+      "displayName": "Toyota YARIS XLS Sedan 1.5 Flex 16V 4p Aut.",
+      "valorAtual": 83562,
+      "canonicalPath": "/fipe/toyota/yaris-xls-sedan-1-5-flex-16v-4p-aut-2020-002170-9/",
+      "ano": 2020,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-yaris-xls-sedan-1-5-flex-16v-4p-aut-2023-flex",
+      "fipeCodigo": "002170-9",
+      "displayName": "Toyota YARIS XLS Sedan 1.5 Flex 16V 4p Aut.",
+      "valorAtual": 96542,
+      "canonicalPath": "/fipe/toyota/yaris-xls-sedan-1-5-flex-16v-4p-aut-2023-002170-9/",
+      "ano": 2023,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-yaris-xls-sedan-1-5-flex-16v-4p-aut-2024-flex",
+      "fipeCodigo": "002170-9",
+      "displayName": "Toyota YARIS XLS Sedan 1.5 Flex 16V 4p Aut.",
+      "valorAtual": 106008,
+      "canonicalPath": "/fipe/toyota/yaris-xls-sedan-1-5-flex-16v-4p-aut-2024-002170-9/",
+      "ano": 2024,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-yaris-xls-sedan-1-5-flex-16v-4p-aut-2025-flex",
+      "fipeCodigo": "002170-9",
+      "displayName": "Toyota YARIS XLS Sedan 1.5 Flex 16V 4p Aut.",
+      "valorAtual": 112918,
+      "canonicalPath": "/fipe/toyota/yaris-xls-sedan-1-5-flex-16v-4p-aut-2025-002170-9/",
+      "ano": 2025,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-yaris-xs-1-5-flex-16v-5p-aut-2019-flex",
+      "fipeCodigo": "002173-3",
+      "displayName": "Toyota YARIS XS 1.5 Flex 16V 5p Aut.",
+      "valorAtual": 77390,
+      "canonicalPath": "/fipe/toyota/yaris-xs-1-5-flex-16v-5p-aut-2019-002173-3/",
+      "ano": 2019,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-yaris-xs-1-5-flex-16v-5p-aut-2020-flex",
+      "fipeCodigo": "002173-3",
+      "displayName": "Toyota YARIS XS 1.5 Flex 16V 5p Aut.",
+      "valorAtual": 81754,
+      "canonicalPath": "/fipe/toyota/yaris-xs-1-5-flex-16v-5p-aut-2020-002173-3/",
+      "ano": 2020,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-yaris-xs-1-5-flex-16v-5p-aut-2023-flex",
+      "fipeCodigo": "002173-3",
+      "displayName": "Toyota YARIS XS 1.5 Flex 16V 5p Aut.",
+      "valorAtual": 87203,
+      "canonicalPath": "/fipe/toyota/yaris-xs-1-5-flex-16v-5p-aut-2023-002173-3/",
+      "ano": 2023,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-yaris-xs-1-5-flex-16v-5p-aut-2024-flex",
+      "fipeCodigo": "002173-3",
+      "displayName": "Toyota YARIS XS 1.5 Flex 16V 5p Aut.",
+      "valorAtual": 98036,
+      "canonicalPath": "/fipe/toyota/yaris-xs-1-5-flex-16v-5p-aut-2024-002173-3/",
+      "ano": 2024,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-yaris-xs-1-5-flex-16v-5p-aut-2025-flex",
+      "fipeCodigo": "002173-3",
+      "displayName": "Toyota YARIS XS 1.5 Flex 16V 5p Aut.",
+      "valorAtual": 104953,
+      "canonicalPath": "/fipe/toyota/yaris-xs-1-5-flex-16v-5p-aut-2025-002173-3/",
+      "ano": 2025,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-yaris-xs-connect-1-5-flex-16v-5p-aut-2020-flex",
+      "fipeCodigo": "002190-3",
+      "displayName": "Toyota YARIS XS Connect 1.5 Flex 16V 5p Aut.",
+      "valorAtual": 80800,
+      "canonicalPath": "/fipe/toyota/yaris-xs-connect-1-5-flex-16v-5p-aut-2020-002190-3/",
+      "ano": 2020,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-yaris-xs-connect-1-5-flex-16v-5p-aut-2021-flex",
+      "fipeCodigo": "002190-3",
+      "displayName": "Toyota YARIS XS Connect 1.5 Flex 16V 5p Aut.",
+      "valorAtual": 82820,
+      "canonicalPath": "/fipe/toyota/yaris-xs-connect-1-5-flex-16v-5p-aut-2021-002190-3/",
+      "ano": 2021,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-yaris-xs-connect-1-5-flex-16v-5p-aut-2022-flex",
+      "fipeCodigo": "002190-3",
+      "displayName": "Toyota YARIS XS Connect 1.5 Flex 16V 5p Aut.",
+      "valorAtual": 86141,
+      "canonicalPath": "/fipe/toyota/yaris-xs-connect-1-5-flex-16v-5p-aut-2022-002190-3/",
+      "ano": 2022,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-yaris-xs-connect-sedan-1-5-flex-16v-aut-2020-flex",
+      "fipeCodigo": "002191-1",
+      "displayName": "Toyota YARIS XS Connect Sedan 1.5 Flex 16V Aut.",
+      "valorAtual": 81901,
+      "canonicalPath": "/fipe/toyota/yaris-xs-connect-sedan-1-5-flex-16v-aut-2020-002191-1/",
+      "ano": 2020,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-yaris-xs-connect-sedan-1-5-flex-16v-aut-2021-flex",
+      "fipeCodigo": "002191-1",
+      "displayName": "Toyota YARIS XS Connect Sedan 1.5 Flex 16V Aut.",
+      "valorAtual": 84021,
+      "canonicalPath": "/fipe/toyota/yaris-xs-connect-sedan-1-5-flex-16v-aut-2021-002191-1/",
+      "ano": 2021,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-yaris-xs-connect-sedan-1-5-flex-16v-aut-2022-flex",
+      "fipeCodigo": "002191-1",
+      "displayName": "Toyota YARIS XS Connect Sedan 1.5 Flex 16V Aut.",
+      "valorAtual": 86230,
+      "canonicalPath": "/fipe/toyota/yaris-xs-connect-sedan-1-5-flex-16v-aut-2022-002191-1/",
+      "ano": 2022,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-yaris-xs-sedan-1-5-flex-16v-4p-aut-2019-flex",
+      "fipeCodigo": "002169-5",
+      "displayName": "Toyota YARIS XS Sedan 1.5 Flex 16V 4p Aut.",
+      "valorAtual": 78166,
+      "canonicalPath": "/fipe/toyota/yaris-xs-sedan-1-5-flex-16v-4p-aut-2019-002169-5/",
+      "ano": 2019,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-yaris-xs-sedan-1-5-flex-16v-4p-aut-2020-flex",
+      "fipeCodigo": "002169-5",
+      "displayName": "Toyota YARIS XS Sedan 1.5 Flex 16V 4p Aut.",
+      "valorAtual": 81874,
+      "canonicalPath": "/fipe/toyota/yaris-xs-sedan-1-5-flex-16v-4p-aut-2020-002169-5/",
+      "ano": 2020,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-yaris-xs-sedan-1-5-flex-16v-4p-aut-2023-flex",
+      "fipeCodigo": "002169-5",
+      "displayName": "Toyota YARIS XS Sedan 1.5 Flex 16V 4p Aut.",
+      "valorAtual": 90051,
+      "canonicalPath": "/fipe/toyota/yaris-xs-sedan-1-5-flex-16v-4p-aut-2023-002169-5/",
+      "ano": 2023,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-yaris-xs-sedan-1-5-flex-16v-4p-aut-2024-flex",
+      "fipeCodigo": "002169-5",
+      "displayName": "Toyota YARIS XS Sedan 1.5 Flex 16V 4p Aut.",
+      "valorAtual": 98712,
+      "canonicalPath": "/fipe/toyota/yaris-xs-sedan-1-5-flex-16v-4p-aut-2024-002169-5/",
+      "ano": 2024,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-yaris-xs-sedan-1-5-flex-16v-4p-aut-2025-flex",
+      "fipeCodigo": "002169-5",
+      "displayName": "Toyota YARIS XS Sedan 1.5 Flex 16V 4p Aut.",
+      "valorAtual": 105431,
+      "canonicalPath": "/fipe/toyota/yaris-xs-sedan-1-5-flex-16v-4p-aut-2025-002169-5/",
+      "ano": 2025,
+      "marca": "Toyota"
+    }
+  ],
+  "stats": {
+    "total": 79
+  },
+  "meta": {
+    "geracaoId": "yaris-2"
+  }
+}

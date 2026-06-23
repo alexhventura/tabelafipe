@@ -1,0 +1,57 @@
+{
+  "tipo": "geracao",
+  "slug": "sv650-1",
+  "canonicalPath": "/geracao/suzuki/sv650-1/",
+  "titulo": "Geracao sv650-1",
+  "descricao": "4 veiculos da geracao sv650-1.",
+  "seo": {
+    "title": "Geracao sv650-1 - Precos FIPE",
+    "description": "Veiculos da geracao sv650-1 na Tabela FIPE.",
+    "h1": "Geracao sv650-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/suzuki/sv650-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "suzuki-sv650-2017-gasolina",
+      "fipeCodigo": "825073-1",
+      "displayName": "SUZUKI SV650",
+      "valorAtual": 35037,
+      "canonicalPath": "/fipe/suzuki/sv650-2017-825073-1/",
+      "ano": 2017,
+      "marca": "SUZUKI"
+    },
+    {
+      "vehicleId": "suzuki-sv650-2018-gasolina",
+      "fipeCodigo": "825073-1",
+      "displayName": "SUZUKI SV650",
+      "valorAtual": 35913,
+      "canonicalPath": "/fipe/suzuki/sv650-2018-825073-1/",
+      "ano": 2018,
+      "marca": "SUZUKI"
+    },
+    {
+      "vehicleId": "suzuki-sv650-2019-gasolina",
+      "fipeCodigo": "825073-1",
+      "displayName": "SUZUKI SV650",
+      "valorAtual": 36811,
+      "canonicalPath": "/fipe/suzuki/sv650-2019-825073-1/",
+      "ano": 2019,
+      "marca": "SUZUKI"
+    },
+    {
+      "vehicleId": "suzuki-sv650-2020-gasolina",
+      "fipeCodigo": "825073-1",
+      "displayName": "SUZUKI SV650",
+      "valorAtual": 37908,
+      "canonicalPath": "/fipe/suzuki/sv650-2020-825073-1/",
+      "ano": 2020,
+      "marca": "SUZUKI"
+    }
+  ],
+  "stats": {
+    "total": 4
+  },
+  "meta": {
+    "geracaoId": "sv650-1"
+  }
+}

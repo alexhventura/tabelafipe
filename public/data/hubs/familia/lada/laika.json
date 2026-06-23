@@ -1,0 +1,135 @@
+{
+  "tipo": "familia",
+  "slug": "laika",
+  "canonicalPath": "/fipe/lada/laika/",
+  "titulo": "Lada laika - Tabela FIPE",
+  "descricao": "12 versoes e anos do Lada laika na Tabela FIPE.",
+  "seo": {
+    "title": "Lada laika - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes Lada laika. 12 veiculos indexados.",
+    "h1": "Lada laika - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/lada/laika/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "lada-laika-1-6-1995-gasolina",
+      "fipeCodigo": "019001-2",
+      "displayName": "Lada Laika 1.6",
+      "valorAtual": 3486,
+      "canonicalPath": "/fipe/lada/laika-1-6-1995-019001-2/",
+      "ano": 1995,
+      "marca": "Lada"
+    },
+    {
+      "vehicleId": "lada-laika-sw-5p-1995-gasolina",
+      "fipeCodigo": "019002-0",
+      "displayName": "Lada Laika SW 5p",
+      "valorAtual": 3507,
+      "canonicalPath": "/fipe/lada/laika-sw-5p-1995-019002-0/",
+      "ano": 1995,
+      "marca": "Lada"
+    },
+    {
+      "vehicleId": "lada-laika-1-6-1994-gasolina",
+      "fipeCodigo": "019001-2",
+      "displayName": "Lada Laika 1.6",
+      "valorAtual": 3146,
+      "canonicalPath": "/fipe/lada/laika-1-6-1994-019001-2/",
+      "ano": 1994,
+      "marca": "Lada"
+    },
+    {
+      "vehicleId": "lada-laika-sw-5p-1994-gasolina",
+      "fipeCodigo": "019002-0",
+      "displayName": "Lada Laika SW 5p",
+      "valorAtual": 3174,
+      "canonicalPath": "/fipe/lada/laika-sw-5p-1994-019002-0/",
+      "ano": 1994,
+      "marca": "Lada"
+    },
+    {
+      "vehicleId": "lada-laika-1-6-1993-gasolina",
+      "fipeCodigo": "019001-2",
+      "displayName": "Lada Laika 1.6",
+      "valorAtual": 3054,
+      "canonicalPath": "/fipe/lada/laika-1-6-1993-019001-2/",
+      "ano": 1993,
+      "marca": "Lada"
+    },
+    {
+      "vehicleId": "lada-laika-sw-5p-1993-gasolina",
+      "fipeCodigo": "019002-0",
+      "displayName": "Lada Laika SW 5p",
+      "valorAtual": 3062,
+      "canonicalPath": "/fipe/lada/laika-sw-5p-1993-019002-0/",
+      "ano": 1993,
+      "marca": "Lada"
+    },
+    {
+      "vehicleId": "lada-laika-1-5-1992-gasolina",
+      "fipeCodigo": "019005-5",
+      "displayName": "Lada Laika 1.5",
+      "valorAtual": 1993,
+      "canonicalPath": "/fipe/lada/laika-1-5-1992-019005-5/",
+      "ano": 1992,
+      "marca": "Lada"
+    },
+    {
+      "vehicleId": "lada-laika-1-6-1992-gasolina",
+      "fipeCodigo": "019001-2",
+      "displayName": "Lada Laika 1.6",
+      "valorAtual": 2959,
+      "canonicalPath": "/fipe/lada/laika-1-6-1992-019001-2/",
+      "ano": 1992,
+      "marca": "Lada"
+    },
+    {
+      "vehicleId": "lada-laika-sw-5p-1992-gasolina",
+      "fipeCodigo": "019002-0",
+      "displayName": "Lada Laika SW 5p",
+      "valorAtual": 2963,
+      "canonicalPath": "/fipe/lada/laika-sw-5p-1992-019002-0/",
+      "ano": 1992,
+      "marca": "Lada"
+    },
+    {
+      "vehicleId": "lada-laika-1-5-1991-gasolina",
+      "fipeCodigo": "019005-5",
+      "displayName": "Lada Laika 1.5",
+      "valorAtual": 1780,
+      "canonicalPath": "/fipe/lada/laika-1-5-1991-019005-5/",
+      "ano": 1991,
+      "marca": "Lada"
+    },
+    {
+      "vehicleId": "lada-laika-1-6-1991-gasolina",
+      "fipeCodigo": "019001-2",
+      "displayName": "Lada Laika 1.6",
+      "valorAtual": 2655,
+      "canonicalPath": "/fipe/lada/laika-1-6-1991-019001-2/",
+      "ano": 1991,
+      "marca": "Lada"
+    },
+    {
+      "vehicleId": "lada-laika-sw-5p-1991-gasolina",
+      "fipeCodigo": "019002-0",
+      "displayName": "Lada Laika SW 5p",
+      "valorAtual": 2890,
+      "canonicalPath": "/fipe/lada/laika-sw-5p-1991-019002-0/",
+      "ano": 1991,
+      "marca": "Lada"
+    }
+  ],
+  "stats": {
+    "total": 12,
+    "precoMin": 1780,
+    "precoMax": 3507,
+    "anos": [
+      1995,
+      1994,
+      1993,
+      1992,
+      1991
+    ]
+  }
+}

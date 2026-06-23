@@ -1,0 +1,48 @@
+{
+  "tipo": "geracao",
+  "slug": "eurotrakker-1",
+  "canonicalPath": "/geracao/iveco/eurotrakker-1/",
+  "titulo": "Geracao eurotrakker-1",
+  "descricao": "3 veiculos da geracao eurotrakker-1.",
+  "seo": {
+    "title": "Geracao eurotrakker-1 - Precos FIPE",
+    "description": "Veiculos da geracao eurotrakker-1 na Tabela FIPE.",
+    "h1": "Geracao eurotrakker-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/iveco/eurotrakker-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "iveco-eurotrakker-mp-450-e37-2p-diesel-1997-diesel",
+      "fipeCodigo": "506014-1",
+      "displayName": "IVECO EUROTRAKKER MP 450-E37 2p (diesel)",
+      "valorAtual": 78872,
+      "canonicalPath": "/fipe/iveco/eurotrakker-mp-450-e37-2p-diesel-1997-506014-1/",
+      "ano": 1997,
+      "marca": "IVECO"
+    },
+    {
+      "vehicleId": "iveco-eurotrakker-mp-450-e37-2p-diesel-1998-diesel",
+      "fipeCodigo": "506014-1",
+      "displayName": "IVECO EUROTRAKKER MP 450-E37 2p (diesel)",
+      "valorAtual": 80844,
+      "canonicalPath": "/fipe/iveco/eurotrakker-mp-450-e37-2p-diesel-1998-506014-1/",
+      "ano": 1998,
+      "marca": "IVECO"
+    },
+    {
+      "vehicleId": "iveco-eurotrakker-mp-450-e37-2p-diesel-1999-diesel",
+      "fipeCodigo": "506014-1",
+      "displayName": "IVECO EUROTRAKKER MP 450-E37 2p (diesel)",
+      "valorAtual": 83866,
+      "canonicalPath": "/fipe/iveco/eurotrakker-mp-450-e37-2p-diesel-1999-506014-1/",
+      "ano": 1999,
+      "marca": "IVECO"
+    }
+  ],
+  "stats": {
+    "total": 3
+  },
+  "meta": {
+    "geracaoId": "eurotrakker-1"
+  }
+}

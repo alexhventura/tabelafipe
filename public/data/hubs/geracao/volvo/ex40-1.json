@@ -1,0 +1,48 @@
+{
+  "tipo": "geracao",
+  "slug": "ex40-1",
+  "canonicalPath": "/geracao/volvo/ex40-1/",
+  "titulo": "Geracao ex40-1",
+  "descricao": "3 veiculos da geracao ex40-1.",
+  "seo": {
+    "title": "Geracao ex40-1 - Precos FIPE",
+    "description": "Veiculos da geracao ex40-1 na Tabela FIPE.",
+    "h1": "Geracao ex40-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/volvo/ex40-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "volvo-ex40-black-edition-ultra-awd-p8-0-eletrico",
+      "fipeCodigo": "029177-3",
+      "displayName": "Volvo EX40 Black Edition Ultra AWD P8",
+      "valorAtual": 384950,
+      "canonicalPath": "/fipe/volvo/ex40-black-edition-ultra-awd-p8-0-029177-3/",
+      "ano": 0,
+      "marca": "Volvo"
+    },
+    {
+      "vehicleId": "volvo-ex40-plus-p6-eletrico-0-eletrico",
+      "fipeCodigo": "029175-7",
+      "displayName": "Volvo EX40 Plus P6 (Elétrico)",
+      "valorAtual": 323266,
+      "canonicalPath": "/fipe/volvo/ex40-plus-p6-eletrico-0-029175-7/",
+      "ano": 0,
+      "marca": "Volvo"
+    },
+    {
+      "vehicleId": "volvo-ex40-ultra-p8-awd-eletrico-0-eletrico",
+      "fipeCodigo": "029171-4",
+      "displayName": "Volvo EX40 Ultra P8 AWD (Elétrico)",
+      "valorAtual": 376352,
+      "canonicalPath": "/fipe/volvo/ex40-ultra-p8-awd-eletrico-0-029171-4/",
+      "ano": 0,
+      "marca": "Volvo"
+    }
+  ],
+  "stats": {
+    "total": 3
+  },
+  "meta": {
+    "geracaoId": "ex40-1"
+  }
+}

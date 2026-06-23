@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "meet-1",
+  "canonicalPath": "/geracao/jonny/meet-1/",
+  "titulo": "Geracao meet-1",
+  "descricao": "2 veiculos da geracao meet-1.",
+  "seo": {
+    "title": "Geracao meet-1 - Precos FIPE",
+    "description": "Veiculos da geracao meet-1 na Tabela FIPE.",
+    "h1": "Geracao meet-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/jonny/meet-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "jonny-meet-50cc-2013-gasolina",
+      "fipeCodigo": "865014-4",
+      "displayName": "JONNY Meet 50cc",
+      "valorAtual": 2351,
+      "canonicalPath": "/fipe/jonny/meet-50cc-2013-865014-4/",
+      "ano": 2013,
+      "marca": "JONNY"
+    },
+    {
+      "vehicleId": "jonny-meet-50cc-2014-gasolina",
+      "fipeCodigo": "865014-4",
+      "displayName": "JONNY Meet 50cc",
+      "valorAtual": 2693,
+      "canonicalPath": "/fipe/jonny/meet-50cc-2014-865014-4/",
+      "ano": 2014,
+      "marca": "JONNY"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "meet-1"
+  }
+}

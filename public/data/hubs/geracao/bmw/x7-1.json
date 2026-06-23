@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "x7-1",
+  "canonicalPath": "/geracao/bmw/x7-1/",
+  "titulo": "Geracao x7-1",
+  "descricao": "2 veiculos da geracao x7-1.",
+  "seo": {
+    "title": "Geracao x7-1 - Precos FIPE",
+    "description": "Veiculos da geracao x7-1 na Tabela FIPE.",
+    "h1": "Geracao x7-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/bmw/x7-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "bmw-x7-m60i-4-4-v8-bi-tb-aut-hibrido-0-hibrido",
+      "fipeCodigo": "009316-5",
+      "displayName": "BMW X7 M60i 4.4 V8 Bi-TB Aut.(Híbrido)",
+      "valorAtual": 1248728,
+      "canonicalPath": "/fipe/bmw/x7-m60i-4-4-v8-bi-tb-aut-hibrido-0-009316-5/",
+      "ano": 0,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-x7-xdrive-40i-m-sport-3-0-v6-turbo-aut-0-hibrido",
+      "fipeCodigo": "009328-9",
+      "displayName": "BMW X7 XDRIVE 40i M Sport 3.0 V6 Turbo Aut.",
+      "valorAtual": 1024039,
+      "canonicalPath": "/fipe/bmw/x7-xdrive-40i-m-sport-3-0-v6-turbo-aut-0-009328-9/",
+      "ano": 0,
+      "marca": "BMW"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "x7-1"
+  }
+}

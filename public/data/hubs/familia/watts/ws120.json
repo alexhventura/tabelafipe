@@ -1,0 +1,52 @@
+{
+  "tipo": "familia",
+  "slug": "ws120",
+  "canonicalPath": "/fipe/watts/ws120/",
+  "titulo": "WATTS ws120 - Tabela FIPE",
+  "descricao": "3 versoes e anos do WATTS ws120 na Tabela FIPE.",
+  "seo": {
+    "title": "WATTS ws120 - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes WATTS ws120. 3 veiculos indexados.",
+    "h1": "WATTS ws120 - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/watts/ws120/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "watts-ws120-3500w-eletrica-2024-eletrico",
+      "fipeCodigo": "894002-9",
+      "displayName": "WATTS WS120 3500W (Elétrica)",
+      "valorAtual": 13319,
+      "canonicalPath": "/fipe/watts/ws120-3500w-eletrica-2024-894002-9/",
+      "ano": 2024,
+      "marca": "WATTS"
+    },
+    {
+      "vehicleId": "watts-ws120-3500w-eletrica-2023-eletrico",
+      "fipeCodigo": "894002-9",
+      "displayName": "WATTS WS120 3500W (Elétrica)",
+      "valorAtual": 12603,
+      "canonicalPath": "/fipe/watts/ws120-3500w-eletrica-2023-894002-9/",
+      "ano": 2023,
+      "marca": "WATTS"
+    },
+    {
+      "vehicleId": "watts-ws120-3500w-eletrica-0-eletrico",
+      "fipeCodigo": "894002-9",
+      "displayName": "WATTS WS120 3500W (Elétrica)",
+      "valorAtual": 16372,
+      "canonicalPath": "/fipe/watts/ws120-3500w-eletrica-0-894002-9/",
+      "ano": 0,
+      "marca": "WATTS"
+    }
+  ],
+  "stats": {
+    "total": 3,
+    "precoMin": 12603,
+    "precoMax": 16372,
+    "anos": [
+      2024,
+      2023,
+      0
+    ]
+  }
+}

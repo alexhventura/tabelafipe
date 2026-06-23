@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "kona-2",
+  "canonicalPath": "/geracao/hyundai/kona-2/",
+  "titulo": "Geracao kona-2",
+  "descricao": "2 veiculos da geracao kona-2.",
+  "seo": {
+    "title": "Geracao kona-2 - Precos FIPE",
+    "description": "Veiculos da geracao kona-2 na Tabela FIPE.",
+    "h1": "Geracao kona-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/hyundai/kona-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "hyundai-kona-1-6-16v-aut-hibrido-2024-hibrido",
+      "fipeCodigo": "015232-3",
+      "displayName": "Hyundai KONA 1.6 16V Aut. (Hibrido)",
+      "valorAtual": 130976,
+      "canonicalPath": "/fipe/hyundai/kona-1-6-16v-aut-hibrido-2024-015232-3/",
+      "ano": 2024,
+      "marca": "Hyundai"
+    },
+    {
+      "vehicleId": "hyundai-kona-ev-eletrico-2024-eletrico",
+      "fipeCodigo": "015231-5",
+      "displayName": "Hyundai KONA EV (Elétrico)",
+      "valorAtual": 133559,
+      "canonicalPath": "/fipe/hyundai/kona-ev-eletrico-2024-015231-5/",
+      "ano": 2024,
+      "marca": "Hyundai"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "kona-2"
+  }
+}

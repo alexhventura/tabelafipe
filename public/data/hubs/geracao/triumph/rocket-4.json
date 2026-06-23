@@ -1,0 +1,111 @@
+{
+  "tipo": "geracao",
+  "slug": "rocket-4",
+  "canonicalPath": "/geracao/triumph/rocket-4/",
+  "titulo": "Geracao rocket-4",
+  "descricao": "10 veiculos da geracao rocket-4.",
+  "seo": {
+    "title": "Geracao rocket-4 - Precos FIPE",
+    "description": "Veiculos da geracao rocket-4 na Tabela FIPE.",
+    "h1": "Geracao rocket-4",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/triumph/rocket-4/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "triumph-rocket-iii-gt-2500cc-2023-gasolina",
+      "fipeCodigo": "826089-3",
+      "displayName": "TRIUMPH ROCKET III GT 2500cc",
+      "valorAtual": 107526,
+      "canonicalPath": "/fipe/triumph/rocket-iii-gt-2500cc-2023-826089-3/",
+      "ano": 2023,
+      "marca": "TRIUMPH"
+    },
+    {
+      "vehicleId": "triumph-rocket-iii-gt-2500cc-2024-gasolina",
+      "fipeCodigo": "826089-3",
+      "displayName": "TRIUMPH ROCKET III GT 2500cc",
+      "valorAtual": 115033,
+      "canonicalPath": "/fipe/triumph/rocket-iii-gt-2500cc-2024-826089-3/",
+      "ano": 2024,
+      "marca": "TRIUMPH"
+    },
+    {
+      "vehicleId": "triumph-rocket-iii-r-2500cc-2020-gasolina",
+      "fipeCodigo": "826074-5",
+      "displayName": "TRIUMPH ROCKET III R 2500cc",
+      "valorAtual": 88928,
+      "canonicalPath": "/fipe/triumph/rocket-iii-r-2500cc-2020-826074-5/",
+      "ano": 2020,
+      "marca": "TRIUMPH"
+    },
+    {
+      "vehicleId": "triumph-rocket-iii-r-2500cc-2021-gasolina",
+      "fipeCodigo": "826074-5",
+      "displayName": "TRIUMPH ROCKET III R 2500cc",
+      "valorAtual": 93991,
+      "canonicalPath": "/fipe/triumph/rocket-iii-r-2500cc-2021-826074-5/",
+      "ano": 2021,
+      "marca": "TRIUMPH"
+    },
+    {
+      "vehicleId": "triumph-rocket-iii-r-2500cc-2022-gasolina",
+      "fipeCodigo": "826074-5",
+      "displayName": "TRIUMPH ROCKET III R 2500cc",
+      "valorAtual": 101568,
+      "canonicalPath": "/fipe/triumph/rocket-iii-r-2500cc-2022-826074-5/",
+      "ano": 2022,
+      "marca": "TRIUMPH"
+    },
+    {
+      "vehicleId": "triumph-rocket-iii-r-2500cc-2023-gasolina",
+      "fipeCodigo": "826074-5",
+      "displayName": "TRIUMPH ROCKET III R 2500cc",
+      "valorAtual": 104693,
+      "canonicalPath": "/fipe/triumph/rocket-iii-r-2500cc-2023-826074-5/",
+      "ano": 2023,
+      "marca": "TRIUMPH"
+    },
+    {
+      "vehicleId": "triumph-rocket-iii-r-2500cc-2024-gasolina",
+      "fipeCodigo": "826074-5",
+      "displayName": "TRIUMPH ROCKET III R 2500cc",
+      "valorAtual": 113507,
+      "canonicalPath": "/fipe/triumph/rocket-iii-r-2500cc-2024-826074-5/",
+      "ano": 2024,
+      "marca": "TRIUMPH"
+    },
+    {
+      "vehicleId": "triumph-rocket-iii-r-black-edition-2500cc-2022-gasolina",
+      "fipeCodigo": "826082-6",
+      "displayName": "TRIUMPH ROCKET III R Black Edition 2500cc",
+      "valorAtual": 120704,
+      "canonicalPath": "/fipe/triumph/rocket-iii-r-black-edition-2500cc-2022-826082-6/",
+      "ano": 2022,
+      "marca": "TRIUMPH"
+    },
+    {
+      "vehicleId": "triumph-rocket-iii-storm-edition-gt-2500cc-2025-gasolina",
+      "fipeCodigo": "826103-2",
+      "displayName": "TRIUMPH ROCKET III STORM Edition GT 2500cc",
+      "valorAtual": 124836,
+      "canonicalPath": "/fipe/triumph/rocket-iii-storm-edition-gt-2500cc-2025-826103-2/",
+      "ano": 2025,
+      "marca": "TRIUMPH"
+    },
+    {
+      "vehicleId": "triumph-rocket-iii-storm-edition-r-2500cc-2025-gasolina",
+      "fipeCodigo": "826102-4",
+      "displayName": "TRIUMPH ROCKET III STORM Edition R 2500cc",
+      "valorAtual": 119778,
+      "canonicalPath": "/fipe/triumph/rocket-iii-storm-edition-r-2500cc-2025-826102-4/",
+      "ano": 2025,
+      "marca": "TRIUMPH"
+    }
+  ],
+  "stats": {
+    "total": 10
+  },
+  "meta": {
+    "geracaoId": "rocket-4"
+  }
+}

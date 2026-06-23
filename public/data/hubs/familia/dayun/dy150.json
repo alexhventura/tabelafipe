@@ -1,0 +1,79 @@
+{
+  "tipo": "familia",
+  "slug": "dy150",
+  "canonicalPath": "/fipe/dayun/dy150/",
+  "titulo": "DAYUN dy150 - Tabela FIPE",
+  "descricao": "6 versoes e anos do DAYUN dy150 na Tabela FIPE.",
+  "seo": {
+    "title": "DAYUN dy150 - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes DAYUN dy150. 6 veiculos indexados.",
+    "h1": "DAYUN dy150 - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/dayun/dy150/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "dayun-dy150-9-2011-gasolina",
+      "fipeCodigo": "860005-8",
+      "displayName": "DAYUN DY150-9",
+      "valorAtual": 3398,
+      "canonicalPath": "/fipe/dayun/dy150-9-2011-860005-8/",
+      "ano": 2011,
+      "marca": "DAYUN"
+    },
+    {
+      "vehicleId": "dayun-dy150-7-2011-gasolina",
+      "fipeCodigo": "860004-0",
+      "displayName": "DAYUN DY150-7",
+      "valorAtual": 6632,
+      "canonicalPath": "/fipe/dayun/dy150-7-2011-860004-0/",
+      "ano": 2011,
+      "marca": "DAYUN"
+    },
+    {
+      "vehicleId": "dayun-dy150-9-2010-gasolina",
+      "fipeCodigo": "860005-8",
+      "displayName": "DAYUN DY150-9",
+      "valorAtual": 3175,
+      "canonicalPath": "/fipe/dayun/dy150-9-2010-860005-8/",
+      "ano": 2010,
+      "marca": "DAYUN"
+    },
+    {
+      "vehicleId": "dayun-dy150-7-2010-gasolina",
+      "fipeCodigo": "860004-0",
+      "displayName": "DAYUN DY150-7",
+      "valorAtual": 5437,
+      "canonicalPath": "/fipe/dayun/dy150-7-2010-860004-0/",
+      "ano": 2010,
+      "marca": "DAYUN"
+    },
+    {
+      "vehicleId": "dayun-dy150-9-2008-gasolina",
+      "fipeCodigo": "860005-8",
+      "displayName": "DAYUN DY150-9",
+      "valorAtual": 2986,
+      "canonicalPath": "/fipe/dayun/dy150-9-2008-860005-8/",
+      "ano": 2008,
+      "marca": "DAYUN"
+    },
+    {
+      "vehicleId": "dayun-dy150-7-2008-gasolina",
+      "fipeCodigo": "860004-0",
+      "displayName": "DAYUN DY150-7",
+      "valorAtual": 4289,
+      "canonicalPath": "/fipe/dayun/dy150-7-2008-860004-0/",
+      "ano": 2008,
+      "marca": "DAYUN"
+    }
+  ],
+  "stats": {
+    "total": 6,
+    "precoMin": 2986,
+    "precoMax": 6632,
+    "anos": [
+      2011,
+      2010,
+      2008
+    ]
+  }
+}

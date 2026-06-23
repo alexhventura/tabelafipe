@@ -1,0 +1,219 @@
+{
+  "tipo": "geracao",
+  "slug": "a1-1",
+  "canonicalPath": "/geracao/audi/a1-1/",
+  "titulo": "Geracao a1-1",
+  "descricao": "22 veiculos da geracao a1-1.",
+  "seo": {
+    "title": "Geracao a1-1 - Precos FIPE",
+    "description": "Veiculos da geracao a1-1 na Tabela FIPE.",
+    "h1": "Geracao a1-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/audi/a1-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "audi-a1-1-4-tfsi-122cv-s-tronic-3p-2011-gasolina",
+      "fipeCodigo": "008153-1",
+      "displayName": "Audi A1 1.4 TFSI 122cv S-tronic 3p",
+      "valorAtual": 55163,
+      "canonicalPath": "/fipe/audi/a1-1-4-tfsi-122cv-s-tronic-3p-2011-008153-1/",
+      "ano": 2011,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-a1-1-4-tfsi-122cv-s-tronic-3p-2012-gasolina",
+      "fipeCodigo": "008153-1",
+      "displayName": "Audi A1 1.4 TFSI 122cv S-tronic 3p",
+      "valorAtual": 57037,
+      "canonicalPath": "/fipe/audi/a1-1-4-tfsi-122cv-s-tronic-3p-2012-008153-1/",
+      "ano": 2012,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-a1-1-4-tfsi-122cv-s-tronic-3p-2013-gasolina",
+      "fipeCodigo": "008153-1",
+      "displayName": "Audi A1 1.4 TFSI 122cv S-tronic 3p",
+      "valorAtual": 65324,
+      "canonicalPath": "/fipe/audi/a1-1-4-tfsi-122cv-s-tronic-3p-2013-008153-1/",
+      "ano": 2013,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-a1-1-4-tfsi-122cv-s-tronic-3p-2014-gasolina",
+      "fipeCodigo": "008153-1",
+      "displayName": "Audi A1 1.4 TFSI 122cv S-tronic 3p",
+      "valorAtual": 67950,
+      "canonicalPath": "/fipe/audi/a1-1-4-tfsi-122cv-s-tronic-3p-2014-008153-1/",
+      "ano": 2014,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-a1-2-0-tfsi-quattro-256cv-3p-2013-gasolina",
+      "fipeCodigo": "008177-9",
+      "displayName": "Audi A1 2.0 TFSI Quattro 256cv 3p",
+      "valorAtual": 118900,
+      "canonicalPath": "/fipe/audi/a1-2-0-tfsi-quattro-256cv-3p-2013-008177-9/",
+      "ano": 2013,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-a1-sport-1-4-tfsi-185cv-3p-s-tronic-2012-gasolina",
+      "fipeCodigo": "008172-8",
+      "displayName": "Audi A1 Sport 1.4 TFSI 185cv 3p S-tronic",
+      "valorAtual": 58801,
+      "canonicalPath": "/fipe/audi/a1-sport-1-4-tfsi-185cv-3p-s-tronic-2012-008172-8/",
+      "ano": 2012,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-a1-sport-1-4-tfsi-185cv-3p-s-tronic-2013-gasolina",
+      "fipeCodigo": "008172-8",
+      "displayName": "Audi A1 Sport 1.4 TFSI 185cv 3p S-tronic",
+      "valorAtual": 67077,
+      "canonicalPath": "/fipe/audi/a1-sport-1-4-tfsi-185cv-3p-s-tronic-2013-008172-8/",
+      "ano": 2013,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-a1-sport-1-4-tfsi-185cv-3p-s-tronic-2014-gasolina",
+      "fipeCodigo": "008172-8",
+      "displayName": "Audi A1 Sport 1.4 TFSI 185cv 3p S-tronic",
+      "valorAtual": 70286,
+      "canonicalPath": "/fipe/audi/a1-sport-1-4-tfsi-185cv-3p-s-tronic-2014-008172-8/",
+      "ano": 2014,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-a1-sport-s-edition-1-4-tfsi-5p-s-tronic-2016-gasolina",
+      "fipeCodigo": "008210-4",
+      "displayName": "Audi A1 Sport. S Edition 1.4 TFSI 5p S-tronic",
+      "valorAtual": 80499,
+      "canonicalPath": "/fipe/audi/a1-sport-s-edition-1-4-tfsi-5p-s-tronic-2016-008210-4/",
+      "ano": 2016,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-a1-sport-s-edition-1-4-tfsi-5p-s-tronic-2017-gasolina",
+      "fipeCodigo": "008210-4",
+      "displayName": "Audi A1 Sport. S Edition 1.4 TFSI 5p S-tronic",
+      "valorAtual": 82512,
+      "canonicalPath": "/fipe/audi/a1-sport-s-edition-1-4-tfsi-5p-s-tronic-2017-008210-4/",
+      "ano": 2017,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-a1-sportback-1-4-tfsi-185cv-5p-s-tronic-2013-gasolina",
+      "fipeCodigo": "008174-4",
+      "displayName": "Audi A1 Sportback 1.4 TFSI 185cv 5p S-tronic",
+      "valorAtual": 68156,
+      "canonicalPath": "/fipe/audi/a1-sportback-1-4-tfsi-185cv-5p-s-tronic-2013-008174-4/",
+      "ano": 2013,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-a1-sportback-1-4-tfsi-185cv-5p-s-tronic-2014-gasolina",
+      "fipeCodigo": "008174-4",
+      "displayName": "Audi A1 Sportback 1.4 TFSI 185cv 5p S-tronic",
+      "valorAtual": 69860,
+      "canonicalPath": "/fipe/audi/a1-sportback-1-4-tfsi-185cv-5p-s-tronic-2014-008174-4/",
+      "ano": 2014,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-a1-sportback-1-4-tfsi-185cv-5p-s-tronic-2015-gasolina",
+      "fipeCodigo": "008174-4",
+      "displayName": "Audi A1 Sportback 1.4 TFSI 185cv 5p S-tronic",
+      "valorAtual": 72439,
+      "canonicalPath": "/fipe/audi/a1-sportback-1-4-tfsi-185cv-5p-s-tronic-2015-008174-4/",
+      "ano": 2015,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-a1-sportback-1-4-tfsi-5p-s-tronic-2013-gasolina",
+      "fipeCodigo": "008173-6",
+      "displayName": "Audi A1 Sportback 1.4 TFSI 5p S-tronic",
+      "valorAtual": 63560,
+      "canonicalPath": "/fipe/audi/a1-sportback-1-4-tfsi-5p-s-tronic-2013-008173-6/",
+      "ano": 2013,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-a1-sportback-1-4-tfsi-5p-s-tronic-2014-gasolina",
+      "fipeCodigo": "008173-6",
+      "displayName": "Audi A1 Sportback 1.4 TFSI 5p S-tronic",
+      "valorAtual": 65149,
+      "canonicalPath": "/fipe/audi/a1-sportback-1-4-tfsi-5p-s-tronic-2014-008173-6/",
+      "ano": 2014,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-a1-sportback-1-4-tfsi-5p-s-tronic-2015-gasolina",
+      "fipeCodigo": "008173-6",
+      "displayName": "Audi A1 Sportback 1.4 TFSI 5p S-tronic",
+      "valorAtual": 69425,
+      "canonicalPath": "/fipe/audi/a1-sportback-1-4-tfsi-5p-s-tronic-2015-008173-6/",
+      "ano": 2015,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-a1-sportback-1-4-tfsi-5p-s-tronic-2016-gasolina",
+      "fipeCodigo": "008173-6",
+      "displayName": "Audi A1 Sportback 1.4 TFSI 5p S-tronic",
+      "valorAtual": 74984,
+      "canonicalPath": "/fipe/audi/a1-sportback-1-4-tfsi-5p-s-tronic-2016-008173-6/",
+      "ano": 2016,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-a1-sportback-1-4-tfsi-5p-s-tronic-2017-gasolina",
+      "fipeCodigo": "008173-6",
+      "displayName": "Audi A1 Sportback 1.4 TFSI 5p S-tronic",
+      "valorAtual": 81987,
+      "canonicalPath": "/fipe/audi/a1-sportback-1-4-tfsi-5p-s-tronic-2017-008173-6/",
+      "ano": 2017,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-a1-sportback-1-4-tfsi-5p-s-tronic-2018-gasolina",
+      "fipeCodigo": "008173-6",
+      "displayName": "Audi A1 Sportback 1.4 TFSI 5p S-tronic",
+      "valorAtual": 102075,
+      "canonicalPath": "/fipe/audi/a1-sportback-1-4-tfsi-5p-s-tronic-2018-008173-6/",
+      "ano": 2018,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-a1-sportback-1-8-tfsi-192cv-5p-s-tronic-2016-gasolina",
+      "fipeCodigo": "008204-0",
+      "displayName": "Audi A1 Sportback 1.8 TFSI 192cv 5p S-tronic",
+      "valorAtual": 103685,
+      "canonicalPath": "/fipe/audi/a1-sportback-1-8-tfsi-192cv-5p-s-tronic-2016-008204-0/",
+      "ano": 2016,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-a1-sportback-1-8-tfsi-192cv-5p-s-tronic-2017-gasolina",
+      "fipeCodigo": "008204-0",
+      "displayName": "Audi A1 Sportback 1.8 TFSI 192cv 5p S-tronic",
+      "valorAtual": 113573,
+      "canonicalPath": "/fipe/audi/a1-sportback-1-8-tfsi-192cv-5p-s-tronic-2017-008204-0/",
+      "ano": 2017,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-a1-sportback-1-8-tfsi-192cv-5p-s-tronic-2018-gasolina",
+      "fipeCodigo": "008204-0",
+      "displayName": "Audi A1 Sportback 1.8 TFSI 192cv 5p S-tronic",
+      "valorAtual": 118403,
+      "canonicalPath": "/fipe/audi/a1-sportback-1-8-tfsi-192cv-5p-s-tronic-2018-008204-0/",
+      "ano": 2018,
+      "marca": "Audi"
+    }
+  ],
+  "stats": {
+    "total": 22
+  },
+  "meta": {
+    "geracaoId": "a1-1"
+  }
+}

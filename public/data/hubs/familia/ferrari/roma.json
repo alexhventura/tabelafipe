@@ -1,0 +1,91 @@
+{
+  "tipo": "familia",
+  "slug": "roma",
+  "canonicalPath": "/fipe/ferrari/roma/",
+  "titulo": "Ferrari roma - Tabela FIPE",
+  "descricao": "7 versoes e anos do Ferrari roma na Tabela FIPE.",
+  "seo": {
+    "title": "Ferrari roma - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes Ferrari roma. 7 veiculos indexados.",
+    "h1": "Ferrari roma - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/ferrari/roma/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "ferrari-roma-spider-3-9-v8-620cv-2025-gasolina",
+      "fipeCodigo": "031057-3",
+      "displayName": "Ferrari Roma Spider 3.9 V8 620cv",
+      "valorAtual": 3554458,
+      "canonicalPath": "/fipe/ferrari/roma-spider-3-9-v8-620cv-2025-031057-3/",
+      "ano": 2025,
+      "marca": "Ferrari"
+    },
+    {
+      "vehicleId": "ferrari-roma-3-9-v8-620cv-2024-gasolina",
+      "fipeCodigo": "031051-4",
+      "displayName": "Ferrari Roma 3.9 V8 620cv",
+      "valorAtual": 3140860,
+      "canonicalPath": "/fipe/ferrari/roma-3-9-v8-620cv-2024-031051-4/",
+      "ano": 2024,
+      "marca": "Ferrari"
+    },
+    {
+      "vehicleId": "ferrari-roma-spider-3-9-v8-620cv-2024-gasolina",
+      "fipeCodigo": "031057-3",
+      "displayName": "Ferrari Roma Spider 3.9 V8 620cv",
+      "valorAtual": 3411166,
+      "canonicalPath": "/fipe/ferrari/roma-spider-3-9-v8-620cv-2024-031057-3/",
+      "ano": 2024,
+      "marca": "Ferrari"
+    },
+    {
+      "vehicleId": "ferrari-roma-3-9-v8-620cv-2023-gasolina",
+      "fipeCodigo": "031051-4",
+      "displayName": "Ferrari Roma 3.9 V8 620cv",
+      "valorAtual": 2978826,
+      "canonicalPath": "/fipe/ferrari/roma-3-9-v8-620cv-2023-031051-4/",
+      "ano": 2023,
+      "marca": "Ferrari"
+    },
+    {
+      "vehicleId": "ferrari-roma-3-9-v8-620cv-2022-gasolina",
+      "fipeCodigo": "031051-4",
+      "displayName": "Ferrari Roma 3.9 V8 620cv",
+      "valorAtual": 2898212,
+      "canonicalPath": "/fipe/ferrari/roma-3-9-v8-620cv-2022-031051-4/",
+      "ano": 2022,
+      "marca": "Ferrari"
+    },
+    {
+      "vehicleId": "ferrari-roma-3-9-v8-620cv-2021-gasolina",
+      "fipeCodigo": "031051-4",
+      "displayName": "Ferrari Roma 3.9 V8 620cv",
+      "valorAtual": 2695872,
+      "canonicalPath": "/fipe/ferrari/roma-3-9-v8-620cv-2021-031051-4/",
+      "ano": 2021,
+      "marca": "Ferrari"
+    },
+    {
+      "vehicleId": "ferrari-roma-spider-3-9-v8-620cv-0-gasolina",
+      "fipeCodigo": "031057-3",
+      "displayName": "Ferrari Roma Spider 3.9 V8 620cv",
+      "valorAtual": 4214990,
+      "canonicalPath": "/fipe/ferrari/roma-spider-3-9-v8-620cv-0-031057-3/",
+      "ano": 0,
+      "marca": "Ferrari"
+    }
+  ],
+  "stats": {
+    "total": 7,
+    "precoMin": 2695872,
+    "precoMax": 4214990,
+    "anos": [
+      2025,
+      2024,
+      2023,
+      2022,
+      2021,
+      0
+    ]
+  }
+}

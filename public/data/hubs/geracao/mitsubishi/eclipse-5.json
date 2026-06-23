@@ -1,0 +1,471 @@
+{
+  "tipo": "geracao",
+  "slug": "eclipse-5",
+  "canonicalPath": "/geracao/mitsubishi/eclipse-5/",
+  "titulo": "Geracao eclipse-5",
+  "descricao": "50 veiculos da geracao eclipse-5.",
+  "seo": {
+    "title": "Geracao eclipse-5 - Precos FIPE",
+    "description": "Veiculos da geracao eclipse-5 na Tabela FIPE.",
+    "h1": "Geracao eclipse-5",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/mitsubishi/eclipse-5/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "mitsubishi-eclipse-cross-gls-1-5-16v-tb-165cv-aut-2020-gasolina",
+      "fipeCodigo": "022182-1",
+      "displayName": "Mitsubishi Eclipse Cross GLS 1.5 16V TB 165cv Aut.",
+      "valorAtual": 100829,
+      "canonicalPath": "/fipe/mitsubishi/eclipse-cross-gls-1-5-16v-tb-165cv-aut-2020-022182-1/",
+      "ano": 2020,
+      "marca": "Mitsubishi"
+    },
+    {
+      "vehicleId": "mitsubishi-eclipse-cross-gls-1-5-16v-tb-165cv-aut-2021-gasolina",
+      "fipeCodigo": "022182-1",
+      "displayName": "Mitsubishi Eclipse Cross GLS 1.5 16V TB 165cv Aut.",
+      "valorAtual": 103350,
+      "canonicalPath": "/fipe/mitsubishi/eclipse-cross-gls-1-5-16v-tb-165cv-aut-2021-022182-1/",
+      "ano": 2021,
+      "marca": "Mitsubishi"
+    },
+    {
+      "vehicleId": "mitsubishi-eclipse-cross-gls-1-5-16v-tb-165cv-aut-2022-gasolina",
+      "fipeCodigo": "022182-1",
+      "displayName": "Mitsubishi Eclipse Cross GLS 1.5 16V TB 165cv Aut.",
+      "valorAtual": 110466,
+      "canonicalPath": "/fipe/mitsubishi/eclipse-cross-gls-1-5-16v-tb-165cv-aut-2022-022182-1/",
+      "ano": 2022,
+      "marca": "Mitsubishi"
+    },
+    {
+      "vehicleId": "mitsubishi-eclipse-cross-gls-1-5-16v-tb-165cv-aut-2023-gasolina",
+      "fipeCodigo": "022182-1",
+      "displayName": "Mitsubishi Eclipse Cross GLS 1.5 16V TB 165cv Aut.",
+      "valorAtual": 114494,
+      "canonicalPath": "/fipe/mitsubishi/eclipse-cross-gls-1-5-16v-tb-165cv-aut-2023-022182-1/",
+      "ano": 2023,
+      "marca": "Mitsubishi"
+    },
+    {
+      "vehicleId": "mitsubishi-eclipse-cross-gls-1-5-16v-tb-165cv-aut-2024-gasolina",
+      "fipeCodigo": "022182-1",
+      "displayName": "Mitsubishi Eclipse Cross GLS 1.5 16V TB 165cv Aut.",
+      "valorAtual": 135578,
+      "canonicalPath": "/fipe/mitsubishi/eclipse-cross-gls-1-5-16v-tb-165cv-aut-2024-022182-1/",
+      "ano": 2024,
+      "marca": "Mitsubishi"
+    },
+    {
+      "vehicleId": "mitsubishi-eclipse-cross-gls-rush-1-5-16v-tb-165cv-aut-2025-gasolina",
+      "fipeCodigo": "022205-4",
+      "displayName": "Mitsubishi Eclipse Cross GLS RUSH 1.5 16V TB 165cv Aut",
+      "valorAtual": 132943,
+      "canonicalPath": "/fipe/mitsubishi/eclipse-cross-gls-rush-1-5-16v-tb-165cv-aut-2025-022205-4/",
+      "ano": 2025,
+      "marca": "Mitsubishi"
+    },
+    {
+      "vehicleId": "mitsubishi-eclipse-cross-hpe-1-5-16v-tb-165cv-aut-2020-gasolina",
+      "fipeCodigo": "022181-3",
+      "displayName": "Mitsubishi Eclipse Cross HPE 1.5 16V TB 165cv Aut.",
+      "valorAtual": 102851,
+      "canonicalPath": "/fipe/mitsubishi/eclipse-cross-hpe-1-5-16v-tb-165cv-aut-2020-022181-3/",
+      "ano": 2020,
+      "marca": "Mitsubishi"
+    },
+    {
+      "vehicleId": "mitsubishi-eclipse-cross-hpe-1-5-16v-tb-165cv-aut-2021-gasolina",
+      "fipeCodigo": "022181-3",
+      "displayName": "Mitsubishi Eclipse Cross HPE 1.5 16V TB 165cv Aut.",
+      "valorAtual": 105423,
+      "canonicalPath": "/fipe/mitsubishi/eclipse-cross-hpe-1-5-16v-tb-165cv-aut-2021-022181-3/",
+      "ano": 2021,
+      "marca": "Mitsubishi"
+    },
+    {
+      "vehicleId": "mitsubishi-eclipse-cross-hpe-1-5-16v-tb-165cv-aut-2022-gasolina",
+      "fipeCodigo": "022181-3",
+      "displayName": "Mitsubishi Eclipse Cross HPE 1.5 16V TB 165cv Aut.",
+      "valorAtual": 113441,
+      "canonicalPath": "/fipe/mitsubishi/eclipse-cross-hpe-1-5-16v-tb-165cv-aut-2022-022181-3/",
+      "ano": 2022,
+      "marca": "Mitsubishi"
+    },
+    {
+      "vehicleId": "mitsubishi-eclipse-cross-hpe-1-5-16v-tb-165cv-aut-2023-gasolina",
+      "fipeCodigo": "022181-3",
+      "displayName": "Mitsubishi Eclipse Cross HPE 1.5 16V TB 165cv Aut.",
+      "valorAtual": 118184,
+      "canonicalPath": "/fipe/mitsubishi/eclipse-cross-hpe-1-5-16v-tb-165cv-aut-2023-022181-3/",
+      "ano": 2023,
+      "marca": "Mitsubishi"
+    },
+    {
+      "vehicleId": "mitsubishi-eclipse-cross-hpe-1-5-16v-tb-165cv-aut-2024-gasolina",
+      "fipeCodigo": "022181-3",
+      "displayName": "Mitsubishi Eclipse Cross HPE 1.5 16V TB 165cv Aut.",
+      "valorAtual": 142774,
+      "canonicalPath": "/fipe/mitsubishi/eclipse-cross-hpe-1-5-16v-tb-165cv-aut-2024-022181-3/",
+      "ano": 2024,
+      "marca": "Mitsubishi"
+    },
+    {
+      "vehicleId": "mitsubishi-eclipse-cross-hpe-1-5-16v-tb-165cv-aut-2025-gasolina",
+      "fipeCodigo": "022181-3",
+      "displayName": "Mitsubishi Eclipse Cross HPE 1.5 16V TB 165cv Aut.",
+      "valorAtual": 151279,
+      "canonicalPath": "/fipe/mitsubishi/eclipse-cross-hpe-1-5-16v-tb-165cv-aut-2025-022181-3/",
+      "ano": 2025,
+      "marca": "Mitsubishi"
+    },
+    {
+      "vehicleId": "mitsubishi-eclipse-cross-hpe-1-5-16v-tb-165cv-aut-2026-gasolina",
+      "fipeCodigo": "022181-3",
+      "displayName": "Mitsubishi Eclipse Cross HPE 1.5 16V TB 165cv Aut.",
+      "valorAtual": 161061,
+      "canonicalPath": "/fipe/mitsubishi/eclipse-cross-hpe-1-5-16v-tb-165cv-aut-2026-022181-3/",
+      "ano": 2026,
+      "marca": "Mitsubishi"
+    },
+    {
+      "vehicleId": "mitsubishi-eclipse-cross-hpe-1-5-16v-tb-165cv-aut-2027-gasolina",
+      "fipeCodigo": "022181-3",
+      "displayName": "Mitsubishi Eclipse Cross HPE 1.5 16V TB 165cv Aut.",
+      "valorAtual": 178018,
+      "canonicalPath": "/fipe/mitsubishi/eclipse-cross-hpe-1-5-16v-tb-165cv-aut-2027-022181-3/",
+      "ano": 2027,
+      "marca": "Mitsubishi"
+    },
+    {
+      "vehicleId": "mitsubishi-eclipse-cross-hpe-black-1-5-16v-tb-165cv-aut-2026-gasolina",
+      "fipeCodigo": "022218-6",
+      "displayName": "Mitsubishi Eclipse Cross HPE Black 1.5 16V TB 165cv Aut.",
+      "valorAtual": 172847,
+      "canonicalPath": "/fipe/mitsubishi/eclipse-cross-hpe-black-1-5-16v-tb-165cv-aut-2026-022218-6/",
+      "ano": 2026,
+      "marca": "Mitsubishi"
+    },
+    {
+      "vehicleId": "mitsubishi-eclipse-cross-hpe-s-1-5-16v-awc-tb-165cv-aut-2018-gasolina",
+      "fipeCodigo": "022169-4",
+      "displayName": "Mitsubishi Eclipse Cross HPE-S 1.5 16V AWC TB 165cv Aut.",
+      "valorAtual": 102826,
+      "canonicalPath": "/fipe/mitsubishi/eclipse-cross-hpe-s-1-5-16v-awc-tb-165cv-aut-2018-022169-4/",
+      "ano": 2018,
+      "marca": "Mitsubishi"
+    },
+    {
+      "vehicleId": "mitsubishi-eclipse-cross-hpe-s-1-5-16v-awc-tb-165cv-aut-2019-gasolina",
+      "fipeCodigo": "022169-4",
+      "displayName": "Mitsubishi Eclipse Cross HPE-S 1.5 16V AWC TB 165cv Aut.",
+      "valorAtual": 106731,
+      "canonicalPath": "/fipe/mitsubishi/eclipse-cross-hpe-s-1-5-16v-awc-tb-165cv-aut-2019-022169-4/",
+      "ano": 2019,
+      "marca": "Mitsubishi"
+    },
+    {
+      "vehicleId": "mitsubishi-eclipse-cross-hpe-s-1-5-16v-awc-tb-165cv-aut-2020-gasolina",
+      "fipeCodigo": "022169-4",
+      "displayName": "Mitsubishi Eclipse Cross HPE-S 1.5 16V AWC TB 165cv Aut.",
+      "valorAtual": 109400,
+      "canonicalPath": "/fipe/mitsubishi/eclipse-cross-hpe-s-1-5-16v-awc-tb-165cv-aut-2020-022169-4/",
+      "ano": 2020,
+      "marca": "Mitsubishi"
+    },
+    {
+      "vehicleId": "mitsubishi-eclipse-cross-hpe-s-1-5-16v-awc-tb-165cv-aut-2021-gasolina",
+      "fipeCodigo": "022169-4",
+      "displayName": "Mitsubishi Eclipse Cross HPE-S 1.5 16V AWC TB 165cv Aut.",
+      "valorAtual": 124409,
+      "canonicalPath": "/fipe/mitsubishi/eclipse-cross-hpe-s-1-5-16v-awc-tb-165cv-aut-2021-022169-4/",
+      "ano": 2021,
+      "marca": "Mitsubishi"
+    },
+    {
+      "vehicleId": "mitsubishi-eclipse-cross-hpe-s-1-5-16v-awc-tb-165cv-aut-2022-gasolina",
+      "fipeCodigo": "022169-4",
+      "displayName": "Mitsubishi Eclipse Cross HPE-S 1.5 16V AWC TB 165cv Aut.",
+      "valorAtual": 127854,
+      "canonicalPath": "/fipe/mitsubishi/eclipse-cross-hpe-s-1-5-16v-awc-tb-165cv-aut-2022-022169-4/",
+      "ano": 2022,
+      "marca": "Mitsubishi"
+    },
+    {
+      "vehicleId": "mitsubishi-eclipse-cross-hpe-s-1-5-16v-awc-tb-165cv-aut-2023-gasolina",
+      "fipeCodigo": "022169-4",
+      "displayName": "Mitsubishi Eclipse Cross HPE-S 1.5 16V AWC TB 165cv Aut.",
+      "valorAtual": 140158,
+      "canonicalPath": "/fipe/mitsubishi/eclipse-cross-hpe-s-1-5-16v-awc-tb-165cv-aut-2023-022169-4/",
+      "ano": 2023,
+      "marca": "Mitsubishi"
+    },
+    {
+      "vehicleId": "mitsubishi-eclipse-cross-hpe-s-1-5-16v-awc-tb-165cv-aut-2024-gasolina",
+      "fipeCodigo": "022169-4",
+      "displayName": "Mitsubishi Eclipse Cross HPE-S 1.5 16V AWC TB 165cv Aut.",
+      "valorAtual": 158507,
+      "canonicalPath": "/fipe/mitsubishi/eclipse-cross-hpe-s-1-5-16v-awc-tb-165cv-aut-2024-022169-4/",
+      "ano": 2024,
+      "marca": "Mitsubishi"
+    },
+    {
+      "vehicleId": "mitsubishi-eclipse-cross-hpe-s-1-5-16v-awc-tb-165cv-aut-2025-gasolina",
+      "fipeCodigo": "022169-4",
+      "displayName": "Mitsubishi Eclipse Cross HPE-S 1.5 16V AWC TB 165cv Aut.",
+      "valorAtual": 170895,
+      "canonicalPath": "/fipe/mitsubishi/eclipse-cross-hpe-s-1-5-16v-awc-tb-165cv-aut-2025-022169-4/",
+      "ano": 2025,
+      "marca": "Mitsubishi"
+    },
+    {
+      "vehicleId": "mitsubishi-eclipse-cross-hpe-s-1-5-16v-awc-tb-165cv-aut-2026-gasolina",
+      "fipeCodigo": "022169-4",
+      "displayName": "Mitsubishi Eclipse Cross HPE-S 1.5 16V AWC TB 165cv Aut.",
+      "valorAtual": 190938,
+      "canonicalPath": "/fipe/mitsubishi/eclipse-cross-hpe-s-1-5-16v-awc-tb-165cv-aut-2026-022169-4/",
+      "ano": 2026,
+      "marca": "Mitsubishi"
+    },
+    {
+      "vehicleId": "mitsubishi-eclipse-cross-hpe-s-1-5-16v-awc-tb-165cv-aut-2027-gasolina",
+      "fipeCodigo": "022169-4",
+      "displayName": "Mitsubishi Eclipse Cross HPE-S 1.5 16V AWC TB 165cv Aut.",
+      "valorAtual": 204532,
+      "canonicalPath": "/fipe/mitsubishi/eclipse-cross-hpe-s-1-5-16v-awc-tb-165cv-aut-2027-022169-4/",
+      "ano": 2027,
+      "marca": "Mitsubishi"
+    },
+    {
+      "vehicleId": "mitsubishi-eclipse-cross-hpe-s-1-5-16v-tb-165cv-aut-2019-gasolina",
+      "fipeCodigo": "022170-8",
+      "displayName": "Mitsubishi Eclipse Cross HPE-S 1.5 16V TB 165cv Aut.",
+      "valorAtual": 102856,
+      "canonicalPath": "/fipe/mitsubishi/eclipse-cross-hpe-s-1-5-16v-tb-165cv-aut-2019-022170-8/",
+      "ano": 2019,
+      "marca": "Mitsubishi"
+    },
+    {
+      "vehicleId": "mitsubishi-eclipse-cross-hpe-s-1-5-16v-tb-165cv-aut-2020-gasolina",
+      "fipeCodigo": "022170-8",
+      "displayName": "Mitsubishi Eclipse Cross HPE-S 1.5 16V TB 165cv Aut.",
+      "valorAtual": 105428,
+      "canonicalPath": "/fipe/mitsubishi/eclipse-cross-hpe-s-1-5-16v-tb-165cv-aut-2020-022170-8/",
+      "ano": 2020,
+      "marca": "Mitsubishi"
+    },
+    {
+      "vehicleId": "mitsubishi-eclipse-cross-hpe-s-1-5-16v-tb-165cv-aut-2021-gasolina",
+      "fipeCodigo": "022170-8",
+      "displayName": "Mitsubishi Eclipse Cross HPE-S 1.5 16V TB 165cv Aut.",
+      "valorAtual": 119958,
+      "canonicalPath": "/fipe/mitsubishi/eclipse-cross-hpe-s-1-5-16v-tb-165cv-aut-2021-022170-8/",
+      "ano": 2021,
+      "marca": "Mitsubishi"
+    },
+    {
+      "vehicleId": "mitsubishi-eclipse-cross-hpe-s-1-5-16v-tb-165cv-aut-2022-gasolina",
+      "fipeCodigo": "022170-8",
+      "displayName": "Mitsubishi Eclipse Cross HPE-S 1.5 16V TB 165cv Aut.",
+      "valorAtual": 122957,
+      "canonicalPath": "/fipe/mitsubishi/eclipse-cross-hpe-s-1-5-16v-tb-165cv-aut-2022-022170-8/",
+      "ano": 2022,
+      "marca": "Mitsubishi"
+    },
+    {
+      "vehicleId": "mitsubishi-eclipse-cross-hpe-s-1-5-16v-tb-165cv-aut-2023-gasolina",
+      "fipeCodigo": "022170-8",
+      "displayName": "Mitsubishi Eclipse Cross HPE-S 1.5 16V TB 165cv Aut.",
+      "valorAtual": 138028,
+      "canonicalPath": "/fipe/mitsubishi/eclipse-cross-hpe-s-1-5-16v-tb-165cv-aut-2023-022170-8/",
+      "ano": 2023,
+      "marca": "Mitsubishi"
+    },
+    {
+      "vehicleId": "mitsubishi-eclipse-cross-hpe-s-1-5-16v-tb-165cv-aut-2024-gasolina",
+      "fipeCodigo": "022170-8",
+      "displayName": "Mitsubishi Eclipse Cross HPE-S 1.5 16V TB 165cv Aut.",
+      "valorAtual": 150463,
+      "canonicalPath": "/fipe/mitsubishi/eclipse-cross-hpe-s-1-5-16v-tb-165cv-aut-2024-022170-8/",
+      "ano": 2024,
+      "marca": "Mitsubishi"
+    },
+    {
+      "vehicleId": "mitsubishi-eclipse-cross-hpe-s-1-5-16v-tb-165cv-aut-2025-gasolina",
+      "fipeCodigo": "022170-8",
+      "displayName": "Mitsubishi Eclipse Cross HPE-S 1.5 16V TB 165cv Aut.",
+      "valorAtual": 167419,
+      "canonicalPath": "/fipe/mitsubishi/eclipse-cross-hpe-s-1-5-16v-tb-165cv-aut-2025-022170-8/",
+      "ano": 2025,
+      "marca": "Mitsubishi"
+    },
+    {
+      "vehicleId": "mitsubishi-eclipse-cross-hpe-s-1-5-16v-tb-165cv-aut-2026-gasolina",
+      "fipeCodigo": "022170-8",
+      "displayName": "Mitsubishi Eclipse Cross HPE-S 1.5 16V TB 165cv Aut.",
+      "valorAtual": 187190,
+      "canonicalPath": "/fipe/mitsubishi/eclipse-cross-hpe-s-1-5-16v-tb-165cv-aut-2026-022170-8/",
+      "ano": 2026,
+      "marca": "Mitsubishi"
+    },
+    {
+      "vehicleId": "mitsubishi-eclipse-cross-hpe-s-1-5-16v-tb-165cv-aut-2027-gasolina",
+      "fipeCodigo": "022170-8",
+      "displayName": "Mitsubishi Eclipse Cross HPE-S 1.5 16V TB 165cv Aut.",
+      "valorAtual": 197229,
+      "canonicalPath": "/fipe/mitsubishi/eclipse-cross-hpe-s-1-5-16v-tb-165cv-aut-2027-022170-8/",
+      "ano": 2027,
+      "marca": "Mitsubishi"
+    },
+    {
+      "vehicleId": "mitsubishi-eclipse-cross-hpe-s-black-1-5-16v-awc-tb-165cv-aut-2026-gasolina",
+      "fipeCodigo": "022217-8",
+      "displayName": "Mitsubishi Eclipse Cross HPE-S Black 1.5 16V AWC TB 165cv Aut",
+      "valorAtual": 196079,
+      "canonicalPath": "/fipe/mitsubishi/eclipse-cross-hpe-s-black-1-5-16v-awc-tb-165cv-aut-2026-022217-8/",
+      "ano": 2026,
+      "marca": "Mitsubishi"
+    },
+    {
+      "vehicleId": "mitsubishi-eclipse-cross-hpe-s-black-1-5-16v-awc-tb-165cv-aut-2027-gasolina",
+      "fipeCodigo": "022217-8",
+      "displayName": "Mitsubishi Eclipse Cross HPE-S Black 1.5 16V AWC TB 165cv Aut",
+      "valorAtual": 216111,
+      "canonicalPath": "/fipe/mitsubishi/eclipse-cross-hpe-s-black-1-5-16v-awc-tb-165cv-aut-2027-022217-8/",
+      "ano": 2027,
+      "marca": "Mitsubishi"
+    },
+    {
+      "vehicleId": "mitsubishi-eclipse-cross-hpe-s-mtsp-1-5-16v-awc-tb-165cv-aut-2025-gasolina",
+      "fipeCodigo": "022211-9",
+      "displayName": "Mitsubishi Eclipse Cross HPE-S MTSp. 1.5 16V AWC TB 165cv Aut",
+      "valorAtual": 175004,
+      "canonicalPath": "/fipe/mitsubishi/eclipse-cross-hpe-s-mtsp-1-5-16v-awc-tb-165cv-aut-2025-022211-9/",
+      "ano": 2025,
+      "marca": "Mitsubishi"
+    },
+    {
+      "vehicleId": "mitsubishi-eclipse-cross-hpe-s-outd-1-5-16v-awc-tb-165cv-aut-2020-gasolina",
+      "fipeCodigo": "022193-7",
+      "displayName": "Mitsubishi Eclipse Cross HPE-S Outd. 1.5 16V AWC TB 165cv Aut",
+      "valorAtual": 120567,
+      "canonicalPath": "/fipe/mitsubishi/eclipse-cross-hpe-s-outd-1-5-16v-awc-tb-165cv-aut-2020-022193-7/",
+      "ano": 2020,
+      "marca": "Mitsubishi"
+    },
+    {
+      "vehicleId": "mitsubishi-eclipse-cross-hpe-s-sport-1-5-16v-awc-tb-165cv-aut-2020-gasolina",
+      "fipeCodigo": "022194-5",
+      "displayName": "Mitsubishi Eclipse Cross HPE-S Sport 1.5 16V AWC TB 165cv Aut",
+      "valorAtual": 110193,
+      "canonicalPath": "/fipe/mitsubishi/eclipse-cross-hpe-s-sport-1-5-16v-awc-tb-165cv-aut-2020-022194-5/",
+      "ano": 2020,
+      "marca": "Mitsubishi"
+    },
+    {
+      "vehicleId": "mitsubishi-eclipse-cross-hpe-s-sport-1-5-16v-awc-tb-165cv-aut-2022-gasolina",
+      "fipeCodigo": "022194-5",
+      "displayName": "Mitsubishi Eclipse Cross HPE-S Sport 1.5 16V AWC TB 165cv Aut",
+      "valorAtual": 128185,
+      "canonicalPath": "/fipe/mitsubishi/eclipse-cross-hpe-s-sport-1-5-16v-awc-tb-165cv-aut-2022-022194-5/",
+      "ano": 2022,
+      "marca": "Mitsubishi"
+    },
+    {
+      "vehicleId": "mitsubishi-eclipse-cross-hpe-s-sport-1-5-16v-awc-tb-165cv-aut-2023-gasolina",
+      "fipeCodigo": "022194-5",
+      "displayName": "Mitsubishi Eclipse Cross HPE-S Sport 1.5 16V AWC TB 165cv Aut",
+      "valorAtual": 143868,
+      "canonicalPath": "/fipe/mitsubishi/eclipse-cross-hpe-s-sport-1-5-16v-awc-tb-165cv-aut-2023-022194-5/",
+      "ano": 2023,
+      "marca": "Mitsubishi"
+    },
+    {
+      "vehicleId": "mitsubishi-eclipse-cross-hpe-s-sport-1-5-16v-awc-tb-165cv-aut-2024-gasolina",
+      "fipeCodigo": "022194-5",
+      "displayName": "Mitsubishi Eclipse Cross HPE-S Sport 1.5 16V AWC TB 165cv Aut",
+      "valorAtual": 160332,
+      "canonicalPath": "/fipe/mitsubishi/eclipse-cross-hpe-s-sport-1-5-16v-awc-tb-165cv-aut-2024-022194-5/",
+      "ano": 2024,
+      "marca": "Mitsubishi"
+    },
+    {
+      "vehicleId": "mitsubishi-eclipse-cross-hpe-s-sport-1-5-16v-awc-tb-165cv-aut-2025-gasolina",
+      "fipeCodigo": "022194-5",
+      "displayName": "Mitsubishi Eclipse Cross HPE-S Sport 1.5 16V AWC TB 165cv Aut",
+      "valorAtual": 173438,
+      "canonicalPath": "/fipe/mitsubishi/eclipse-cross-hpe-s-sport-1-5-16v-awc-tb-165cv-aut-2025-022194-5/",
+      "ano": 2025,
+      "marca": "Mitsubishi"
+    },
+    {
+      "vehicleId": "mitsubishi-eclipse-cross-hpe-s-sport-1-5-16v-tb-165cv-aut-2022-gasolina",
+      "fipeCodigo": "022197-0",
+      "displayName": "Mitsubishi Eclipse Cross HPE-S Sport 1.5 16V TB 165cv Aut.",
+      "valorAtual": 122561,
+      "canonicalPath": "/fipe/mitsubishi/eclipse-cross-hpe-s-sport-1-5-16v-tb-165cv-aut-2022-022197-0/",
+      "ano": 2022,
+      "marca": "Mitsubishi"
+    },
+    {
+      "vehicleId": "mitsubishi-eclipse-cross-hpe-s-sport-1-5-16v-tb-165cv-aut-2024-gasolina",
+      "fipeCodigo": "022197-0",
+      "displayName": "Mitsubishi Eclipse Cross HPE-S Sport 1.5 16V TB 165cv Aut.",
+      "valorAtual": 160079,
+      "canonicalPath": "/fipe/mitsubishi/eclipse-cross-hpe-s-sport-1-5-16v-tb-165cv-aut-2024-022197-0/",
+      "ano": 2024,
+      "marca": "Mitsubishi"
+    },
+    {
+      "vehicleId": "mitsubishi-eclipse-cross-hpe-s-sport-1-5-16v-tb-165cv-aut-2025-gasolina",
+      "fipeCodigo": "022197-0",
+      "displayName": "Mitsubishi Eclipse Cross HPE-S Sport 1.5 16V TB 165cv Aut.",
+      "valorAtual": 167389,
+      "canonicalPath": "/fipe/mitsubishi/eclipse-cross-hpe-s-sport-1-5-16v-tb-165cv-aut-2025-022197-0/",
+      "ano": 2025,
+      "marca": "Mitsubishi"
+    },
+    {
+      "vehicleId": "mitsubishi-eclipse-cross-rush-1-5-16v-tb-165cv-aut-2026-gasolina",
+      "fipeCodigo": "022216-0",
+      "displayName": "Mitsubishi Eclipse Cross RUSH 1.5 16V TB 165cv Aut.",
+      "valorAtual": 153467,
+      "canonicalPath": "/fipe/mitsubishi/eclipse-cross-rush-1-5-16v-tb-165cv-aut-2026-022216-0/",
+      "ano": 2026,
+      "marca": "Mitsubishi"
+    },
+    {
+      "vehicleId": "mitsubishi-eclipse-cross-rush-1-5-16v-tb-165cv-aut-2027-gasolina",
+      "fipeCodigo": "022216-0",
+      "displayName": "Mitsubishi Eclipse Cross RUSH 1.5 16V TB 165cv Aut.",
+      "valorAtual": 162413,
+      "canonicalPath": "/fipe/mitsubishi/eclipse-cross-rush-1-5-16v-tb-165cv-aut-2027-022216-0/",
+      "ano": 2027,
+      "marca": "Mitsubishi"
+    },
+    {
+      "vehicleId": "mitsubishi-eclipse-cross-tarmac-1-5-16v-tb-165cv-aut-2026-gasolina",
+      "fipeCodigo": "022223-2",
+      "displayName": "Mitsubishi Eclipse Cross Tarmac 1.5 16V TB 165cv Aut.",
+      "valorAtual": 179391,
+      "canonicalPath": "/fipe/mitsubishi/eclipse-cross-tarmac-1-5-16v-tb-165cv-aut-2026-022223-2/",
+      "ano": 2026,
+      "marca": "Mitsubishi"
+    },
+    {
+      "vehicleId": "mitsubishi-eclipse-cross-tarmac-1-5-16v-tb-165cv-aut-2027-gasolina",
+      "fipeCodigo": "022223-2",
+      "displayName": "Mitsubishi Eclipse Cross Tarmac 1.5 16V TB 165cv Aut.",
+      "valorAtual": 185990,
+      "canonicalPath": "/fipe/mitsubishi/eclipse-cross-tarmac-1-5-16v-tb-165cv-aut-2027-022223-2/",
+      "ano": 2027,
+      "marca": "Mitsubishi"
+    }
+  ],
+  "stats": {
+    "total": 50
+  },
+  "meta": {
+    "geracaoId": "eclipse-5"
+  }
+}

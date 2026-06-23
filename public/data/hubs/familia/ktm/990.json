@@ -1,0 +1,42 @@
+{
+  "tipo": "familia",
+  "slug": "990",
+  "canonicalPath": "/fipe/ktm/990/",
+  "titulo": "KTM 990 - Tabela FIPE",
+  "descricao": "2 versoes e anos do KTM 990 na Tabela FIPE.",
+  "seo": {
+    "title": "KTM 990 - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes KTM 990. 2 veiculos indexados.",
+    "h1": "KTM 990 - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/ktm/990/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "ktm-990-duke-2024-gasolina",
+      "fipeCodigo": "818053-9",
+      "displayName": "KTM 990 DUKE",
+      "valorAtual": 77281,
+      "canonicalPath": "/fipe/ktm/990-duke-2024-818053-9/",
+      "ano": 2024,
+      "marca": "KTM"
+    },
+    {
+      "vehicleId": "ktm-990-duke-0-gasolina",
+      "fipeCodigo": "818053-9",
+      "displayName": "KTM 990 DUKE",
+      "valorAtual": 85174,
+      "canonicalPath": "/fipe/ktm/990-duke-0-818053-9/",
+      "ano": 0,
+      "marca": "KTM"
+    }
+  ],
+  "stats": {
+    "total": 2,
+    "precoMin": 77281,
+    "precoMax": 85174,
+    "anos": [
+      2024,
+      0
+    ]
+  }
+}

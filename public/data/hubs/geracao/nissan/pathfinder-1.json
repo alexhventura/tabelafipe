@@ -1,0 +1,408 @@
+{
+  "tipo": "geracao",
+  "slug": "pathfinder-1",
+  "canonicalPath": "/geracao/nissan/pathfinder-1/",
+  "titulo": "Geracao pathfinder-1",
+  "descricao": "43 veiculos da geracao pathfinder-1.",
+  "seo": {
+    "title": "Geracao pathfinder-1 - Precos FIPE",
+    "description": "Veiculos da geracao pathfinder-1 na Tabela FIPE.",
+    "h1": "Geracao pathfinder-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/nissan/pathfinder-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "nissan-pathfinder-le-2-5-16v-tdi-diesel-aut-2006-diesel",
+      "fipeCodigo": "023054-5",
+      "displayName": "Nissan Pathfinder LE 2.5 16V TDI Diesel Aut",
+      "valorAtual": 80147,
+      "canonicalPath": "/fipe/nissan/pathfinder-le-2-5-16v-tdi-diesel-aut-2006-023054-5/",
+      "ano": 2006,
+      "marca": "Nissan"
+    },
+    {
+      "vehicleId": "nissan-pathfinder-le-2-5-16v-tdi-diesel-aut-2007-diesel",
+      "fipeCodigo": "023054-5",
+      "displayName": "Nissan Pathfinder LE 2.5 16V TDI Diesel Aut",
+      "valorAtual": 82151,
+      "canonicalPath": "/fipe/nissan/pathfinder-le-2-5-16v-tdi-diesel-aut-2007-023054-5/",
+      "ano": 2007,
+      "marca": "Nissan"
+    },
+    {
+      "vehicleId": "nissan-pathfinder-le-2-5-16v-tdi-diesel-aut-2008-diesel",
+      "fipeCodigo": "023054-5",
+      "displayName": "Nissan Pathfinder LE 2.5 16V TDI Diesel Aut",
+      "valorAtual": 84205,
+      "canonicalPath": "/fipe/nissan/pathfinder-le-2-5-16v-tdi-diesel-aut-2008-023054-5/",
+      "ano": 2008,
+      "marca": "Nissan"
+    },
+    {
+      "vehicleId": "nissan-pathfinder-le-2-5-16v-tdi-diesel-aut-2009-diesel",
+      "fipeCodigo": "023054-5",
+      "displayName": "Nissan Pathfinder LE 2.5 16V TDI Diesel Aut",
+      "valorAtual": 86311,
+      "canonicalPath": "/fipe/nissan/pathfinder-le-2-5-16v-tdi-diesel-aut-2009-023054-5/",
+      "ano": 2009,
+      "marca": "Nissan"
+    },
+    {
+      "vehicleId": "nissan-pathfinder-le-4-0-v6-24v-266cv-aut-2006-gasolina",
+      "fipeCodigo": "023055-3",
+      "displayName": "Nissan Pathfinder LE 4.0 V6 24V 266cv Aut",
+      "valorAtual": 54854,
+      "canonicalPath": "/fipe/nissan/pathfinder-le-4-0-v6-24v-266cv-aut-2006-023055-3/",
+      "ano": 2006,
+      "marca": "Nissan"
+    },
+    {
+      "vehicleId": "nissan-pathfinder-le-4-0-v6-24v-266cv-aut-2007-gasolina",
+      "fipeCodigo": "023055-3",
+      "displayName": "Nissan Pathfinder LE 4.0 V6 24V 266cv Aut",
+      "valorAtual": 66323,
+      "canonicalPath": "/fipe/nissan/pathfinder-le-4-0-v6-24v-266cv-aut-2007-023055-3/",
+      "ano": 2007,
+      "marca": "Nissan"
+    },
+    {
+      "vehicleId": "nissan-pathfinder-le-4-0-v6-24v-266cv-aut-2008-gasolina",
+      "fipeCodigo": "023055-3",
+      "displayName": "Nissan Pathfinder LE 4.0 V6 24V 266cv Aut",
+      "valorAtual": 67982,
+      "canonicalPath": "/fipe/nissan/pathfinder-le-4-0-v6-24v-266cv-aut-2008-023055-3/",
+      "ano": 2008,
+      "marca": "Nissan"
+    },
+    {
+      "vehicleId": "nissan-pathfinder-se-2-5-16v-tdi-diesel-aut-2008-diesel",
+      "fipeCodigo": "023073-1",
+      "displayName": "Nissan Pathfinder SE 2.5 16V TDI Diesel Aut.",
+      "valorAtual": 65508,
+      "canonicalPath": "/fipe/nissan/pathfinder-se-2-5-16v-tdi-diesel-aut-2008-023073-1/",
+      "ano": 2008,
+      "marca": "Nissan"
+    },
+    {
+      "vehicleId": "nissan-pathfinder-se-2-5-16v-tdi-diesel-aut-2009-diesel",
+      "fipeCodigo": "023073-1",
+      "displayName": "Nissan Pathfinder SE 2.5 16V TDI Diesel Aut.",
+      "valorAtual": 69449,
+      "canonicalPath": "/fipe/nissan/pathfinder-se-2-5-16v-tdi-diesel-aut-2009-023073-1/",
+      "ano": 2009,
+      "marca": "Nissan"
+    },
+    {
+      "vehicleId": "nissan-pathfinder-se-3-3-v6-12v-2000-gasolina",
+      "fipeCodigo": "023040-5",
+      "displayName": "Nissan Pathfinder SE 3.3 V6 12V",
+      "valorAtual": 29119,
+      "canonicalPath": "/fipe/nissan/pathfinder-se-3-3-v6-12v-2000-023040-5/",
+      "ano": 2000,
+      "marca": "Nissan"
+    },
+    {
+      "vehicleId": "nissan-pathfinder-se-3-3-v6-12v-2001-gasolina",
+      "fipeCodigo": "023040-5",
+      "displayName": "Nissan Pathfinder SE 3.3 V6 12V",
+      "valorAtual": 41256,
+      "canonicalPath": "/fipe/nissan/pathfinder-se-3-3-v6-12v-2001-023040-5/",
+      "ano": 2001,
+      "marca": "Nissan"
+    },
+    {
+      "vehicleId": "nissan-pathfinder-se-4-0-v6-24v-266cv-aut-2008-gasolina",
+      "fipeCodigo": "023072-3",
+      "displayName": "Nissan Pathfinder SE 4.0 V6 24V 266cv Aut.",
+      "valorAtual": 67428,
+      "canonicalPath": "/fipe/nissan/pathfinder-se-4-0-v6-24v-266cv-aut-2008-023072-3/",
+      "ano": 2008,
+      "marca": "Nissan"
+    },
+    {
+      "vehicleId": "nissan-pathfinder-se-4x4-3-0-12v-aut-mec-1991-gasolina",
+      "fipeCodigo": "023001-4",
+      "displayName": "Nissan Pathfinder SE 4x4 3.0 12V Aut./Mec.",
+      "valorAtual": 12373,
+      "canonicalPath": "/fipe/nissan/pathfinder-se-4x4-3-0-12v-aut-mec-1991-023001-4/",
+      "ano": 1991,
+      "marca": "Nissan"
+    },
+    {
+      "vehicleId": "nissan-pathfinder-se-4x4-3-0-12v-aut-mec-1992-gasolina",
+      "fipeCodigo": "023001-4",
+      "displayName": "Nissan Pathfinder SE 4x4 3.0 12V Aut./Mec.",
+      "valorAtual": 12683,
+      "canonicalPath": "/fipe/nissan/pathfinder-se-4x4-3-0-12v-aut-mec-1992-023001-4/",
+      "ano": 1992,
+      "marca": "Nissan"
+    },
+    {
+      "vehicleId": "nissan-pathfinder-se-4x4-3-0-12v-aut-mec-1993-gasolina",
+      "fipeCodigo": "023001-4",
+      "displayName": "Nissan Pathfinder SE 4x4 3.0 12V Aut./Mec.",
+      "valorAtual": 17635,
+      "canonicalPath": "/fipe/nissan/pathfinder-se-4x4-3-0-12v-aut-mec-1993-023001-4/",
+      "ano": 1993,
+      "marca": "Nissan"
+    },
+    {
+      "vehicleId": "nissan-pathfinder-se-4x4-3-0-12v-aut-mec-1994-gasolina",
+      "fipeCodigo": "023001-4",
+      "displayName": "Nissan Pathfinder SE 4x4 3.0 12V Aut./Mec.",
+      "valorAtual": 24351,
+      "canonicalPath": "/fipe/nissan/pathfinder-se-4x4-3-0-12v-aut-mec-1994-023001-4/",
+      "ano": 1994,
+      "marca": "Nissan"
+    },
+    {
+      "vehicleId": "nissan-pathfinder-se-4x4-3-0-12v-aut-mec-1995-gasolina",
+      "fipeCodigo": "023001-4",
+      "displayName": "Nissan Pathfinder SE 4x4 3.0 12V Aut./Mec.",
+      "valorAtual": 28141,
+      "canonicalPath": "/fipe/nissan/pathfinder-se-4x4-3-0-12v-aut-mec-1995-023001-4/",
+      "ano": 1995,
+      "marca": "Nissan"
+    },
+    {
+      "vehicleId": "nissan-pathfinder-se-4x4-3-0-12v-aut-mec-1996-gasolina",
+      "fipeCodigo": "023001-4",
+      "displayName": "Nissan Pathfinder SE 4x4 3.0 12V Aut./Mec.",
+      "valorAtual": 28845,
+      "canonicalPath": "/fipe/nissan/pathfinder-se-4x4-3-0-12v-aut-mec-1996-023001-4/",
+      "ano": 1996,
+      "marca": "Nissan"
+    },
+    {
+      "vehicleId": "nissan-pathfinder-se-luxo-3-3-v6-12v-1996-gasolina",
+      "fipeCodigo": "023039-1",
+      "displayName": "Nissan Pathfinder SE Luxo 3.3 V6 12V",
+      "valorAtual": 15953,
+      "canonicalPath": "/fipe/nissan/pathfinder-se-luxo-3-3-v6-12v-1996-023039-1/",
+      "ano": 1996,
+      "marca": "Nissan"
+    },
+    {
+      "vehicleId": "nissan-pathfinder-se-luxo-3-3-v6-12v-1997-gasolina",
+      "fipeCodigo": "023039-1",
+      "displayName": "Nissan Pathfinder SE Luxo 3.3 V6 12V",
+      "valorAtual": 20505,
+      "canonicalPath": "/fipe/nissan/pathfinder-se-luxo-3-3-v6-12v-1997-023039-1/",
+      "ano": 1997,
+      "marca": "Nissan"
+    },
+    {
+      "vehicleId": "nissan-pathfinder-se-luxo-3-3-v6-12v-1998-gasolina",
+      "fipeCodigo": "023039-1",
+      "displayName": "Nissan Pathfinder SE Luxo 3.3 V6 12V",
+      "valorAtual": 21018,
+      "canonicalPath": "/fipe/nissan/pathfinder-se-luxo-3-3-v6-12v-1998-023039-1/",
+      "ano": 1998,
+      "marca": "Nissan"
+    },
+    {
+      "vehicleId": "nissan-pathfinder-se-luxo-3-3-v6-12v-1999-gasolina",
+      "fipeCodigo": "023039-1",
+      "displayName": "Nissan Pathfinder SE Luxo 3.3 V6 12V",
+      "valorAtual": 21715,
+      "canonicalPath": "/fipe/nissan/pathfinder-se-luxo-3-3-v6-12v-1999-023039-1/",
+      "ano": 1999,
+      "marca": "Nissan"
+    },
+    {
+      "vehicleId": "nissan-pathfinder-se-luxo-3-3-v6-12v-2000-gasolina",
+      "fipeCodigo": "023039-1",
+      "displayName": "Nissan Pathfinder SE Luxo 3.3 V6 12V",
+      "valorAtual": 25073,
+      "canonicalPath": "/fipe/nissan/pathfinder-se-luxo-3-3-v6-12v-2000-023039-1/",
+      "ano": 2000,
+      "marca": "Nissan"
+    },
+    {
+      "vehicleId": "nissan-pathfinder-se-luxo-3-3-v6-12v-2001-gasolina",
+      "fipeCodigo": "023039-1",
+      "displayName": "Nissan Pathfinder SE Luxo 3.3 V6 12V",
+      "valorAtual": 28171,
+      "canonicalPath": "/fipe/nissan/pathfinder-se-luxo-3-3-v6-12v-2001-023039-1/",
+      "ano": 2001,
+      "marca": "Nissan"
+    },
+    {
+      "vehicleId": "nissan-pathfinder-se-luxo-3-5-v6-24v-243cv-2001-gasolina",
+      "fipeCodigo": "023043-0",
+      "displayName": "Nissan Pathfinder SE Luxo 3.5 V6 24V 243cv",
+      "valorAtual": 29142,
+      "canonicalPath": "/fipe/nissan/pathfinder-se-luxo-3-5-v6-24v-243cv-2001-023043-0/",
+      "ano": 2001,
+      "marca": "Nissan"
+    },
+    {
+      "vehicleId": "nissan-pathfinder-se-luxo-3-5-v6-24v-243cv-2002-gasolina",
+      "fipeCodigo": "023043-0",
+      "displayName": "Nissan Pathfinder SE Luxo 3.5 V6 24V 243cv",
+      "valorAtual": 40538,
+      "canonicalPath": "/fipe/nissan/pathfinder-se-luxo-3-5-v6-24v-243cv-2002-023043-0/",
+      "ano": 2002,
+      "marca": "Nissan"
+    },
+    {
+      "vehicleId": "nissan-pathfinder-se-luxo-3-5-v6-24v-243cv-2003-gasolina",
+      "fipeCodigo": "023043-0",
+      "displayName": "Nissan Pathfinder SE Luxo 3.5 V6 24V 243cv",
+      "valorAtual": 41552,
+      "canonicalPath": "/fipe/nissan/pathfinder-se-luxo-3-5-v6-24v-243cv-2003-023043-0/",
+      "ano": 2003,
+      "marca": "Nissan"
+    },
+    {
+      "vehicleId": "nissan-pathfinder-se-luxo-3-5-v6-24v-243cv-2004-gasolina",
+      "fipeCodigo": "023043-0",
+      "displayName": "Nissan Pathfinder SE Luxo 3.5 V6 24V 243cv",
+      "valorAtual": 54170,
+      "canonicalPath": "/fipe/nissan/pathfinder-se-luxo-3-5-v6-24v-243cv-2004-023043-0/",
+      "ano": 2004,
+      "marca": "Nissan"
+    },
+    {
+      "vehicleId": "nissan-pathfinder-se-luxo-3-5-v6-24v-243cv-2005-gasolina",
+      "fipeCodigo": "023043-0",
+      "displayName": "Nissan Pathfinder SE Luxo 3.5 V6 24V 243cv",
+      "valorAtual": 55525,
+      "canonicalPath": "/fipe/nissan/pathfinder-se-luxo-3-5-v6-24v-243cv-2005-023043-0/",
+      "ano": 2005,
+      "marca": "Nissan"
+    },
+    {
+      "vehicleId": "nissan-pathfinder-se-titanium-3-3-v6-12v-1996-gasolina",
+      "fipeCodigo": "023019-7",
+      "displayName": "Nissan Pathfinder SE Titanium 3.3 V6 12V",
+      "valorAtual": 16135,
+      "canonicalPath": "/fipe/nissan/pathfinder-se-titanium-3-3-v6-12v-1996-023019-7/",
+      "ano": 1996,
+      "marca": "Nissan"
+    },
+    {
+      "vehicleId": "nissan-pathfinder-se-titanium-3-3-v6-12v-1997-gasolina",
+      "fipeCodigo": "023019-7",
+      "displayName": "Nissan Pathfinder SE Titanium 3.3 V6 12V",
+      "valorAtual": 25314,
+      "canonicalPath": "/fipe/nissan/pathfinder-se-titanium-3-3-v6-12v-1997-023019-7/",
+      "ano": 1997,
+      "marca": "Nissan"
+    },
+    {
+      "vehicleId": "nissan-pathfinder-se-titanium-3-3-v6-12v-1998-gasolina",
+      "fipeCodigo": "023019-7",
+      "displayName": "Nissan Pathfinder SE Titanium 3.3 V6 12V",
+      "valorAtual": 25947,
+      "canonicalPath": "/fipe/nissan/pathfinder-se-titanium-3-3-v6-12v-1998-023019-7/",
+      "ano": 1998,
+      "marca": "Nissan"
+    },
+    {
+      "vehicleId": "nissan-pathfinder-se-titanium-3-3-v6-12v-1999-gasolina",
+      "fipeCodigo": "023019-7",
+      "displayName": "Nissan Pathfinder SE Titanium 3.3 V6 12V",
+      "valorAtual": 26596,
+      "canonicalPath": "/fipe/nissan/pathfinder-se-titanium-3-3-v6-12v-1999-023019-7/",
+      "ano": 1999,
+      "marca": "Nissan"
+    },
+    {
+      "vehicleId": "nissan-pathfinder-se-titanium-3-3-v6-12v-2000-gasolina",
+      "fipeCodigo": "023019-7",
+      "displayName": "Nissan Pathfinder SE Titanium 3.3 V6 12V",
+      "valorAtual": 27543,
+      "canonicalPath": "/fipe/nissan/pathfinder-se-titanium-3-3-v6-12v-2000-023019-7/",
+      "ano": 2000,
+      "marca": "Nissan"
+    },
+    {
+      "vehicleId": "nissan-pathfinder-xe-2-7-tb-diesel-1993-diesel",
+      "fipeCodigo": "023042-1",
+      "displayName": "Nissan Pathfinder XE 2.7 TB Diesel",
+      "valorAtual": 19089,
+      "canonicalPath": "/fipe/nissan/pathfinder-xe-2-7-tb-diesel-1993-023042-1/",
+      "ano": 1993,
+      "marca": "Nissan"
+    },
+    {
+      "vehicleId": "nissan-pathfinder-xe-2-7-tb-diesel-1994-diesel",
+      "fipeCodigo": "023042-1",
+      "displayName": "Nissan Pathfinder XE 2.7 TB Diesel",
+      "valorAtual": 23372,
+      "canonicalPath": "/fipe/nissan/pathfinder-xe-2-7-tb-diesel-1994-023042-1/",
+      "ano": 1994,
+      "marca": "Nissan"
+    },
+    {
+      "vehicleId": "nissan-pathfinder-xe-2-7-tb-diesel-1995-diesel",
+      "fipeCodigo": "023042-1",
+      "displayName": "Nissan Pathfinder XE 2.7 TB Diesel",
+      "valorAtual": 24996,
+      "canonicalPath": "/fipe/nissan/pathfinder-xe-2-7-tb-diesel-1995-023042-1/",
+      "ano": 1995,
+      "marca": "Nissan"
+    },
+    {
+      "vehicleId": "nissan-pathfinder-xe-2-7-tb-diesel-1996-diesel",
+      "fipeCodigo": "023042-1",
+      "displayName": "Nissan Pathfinder XE 2.7 TB Diesel",
+      "valorAtual": 25648,
+      "canonicalPath": "/fipe/nissan/pathfinder-xe-2-7-tb-diesel-1996-023042-1/",
+      "ano": 1996,
+      "marca": "Nissan"
+    },
+    {
+      "vehicleId": "nissan-pathfinder-xe-4x4-1991-gasolina",
+      "fipeCodigo": "023003-0",
+      "displayName": "Nissan Pathfinder XE 4x4",
+      "valorAtual": 8073,
+      "canonicalPath": "/fipe/nissan/pathfinder-xe-4x4-1991-023003-0/",
+      "ano": 1991,
+      "marca": "Nissan"
+    },
+    {
+      "vehicleId": "nissan-pathfinder-xe-4x4-1992-gasolina",
+      "fipeCodigo": "023003-0",
+      "displayName": "Nissan Pathfinder XE 4x4",
+      "valorAtual": 9505,
+      "canonicalPath": "/fipe/nissan/pathfinder-xe-4x4-1992-023003-0/",
+      "ano": 1992,
+      "marca": "Nissan"
+    },
+    {
+      "vehicleId": "nissan-pathfinder-xe-4x4-1993-gasolina",
+      "fipeCodigo": "023003-0",
+      "displayName": "Nissan Pathfinder XE 4x4",
+      "valorAtual": 9743,
+      "canonicalPath": "/fipe/nissan/pathfinder-xe-4x4-1993-023003-0/",
+      "ano": 1993,
+      "marca": "Nissan"
+    },
+    {
+      "vehicleId": "nissan-pathfinder-xe-4x4-1994-gasolina",
+      "fipeCodigo": "023003-0",
+      "displayName": "Nissan Pathfinder XE 4x4",
+      "valorAtual": 10966,
+      "canonicalPath": "/fipe/nissan/pathfinder-xe-4x4-1994-023003-0/",
+      "ano": 1994,
+      "marca": "Nissan"
+    },
+    {
+      "vehicleId": "nissan-pathfinder-xe-4x4-1995-gasolina",
+      "fipeCodigo": "023003-0",
+      "displayName": "Nissan Pathfinder XE 4x4",
+      "valorAtual": 11332,
+      "canonicalPath": "/fipe/nissan/pathfinder-xe-4x4-1995-023003-0/",
+      "ano": 1995,
+      "marca": "Nissan"
+    }
+  ],
+  "stats": {
+    "total": 43
+  },
+  "meta": {
+    "geracaoId": "pathfinder-1"
+  }
+}

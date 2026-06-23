@@ -1,0 +1,84 @@
+{
+  "tipo": "geracao",
+  "slug": "es-2",
+  "canonicalPath": "/geracao/lexus/es-2/",
+  "titulo": "Geracao es-2",
+  "descricao": "7 veiculos da geracao es-2.",
+  "seo": {
+    "title": "Geracao es-2 - Precos FIPE",
+    "description": "Veiculos da geracao es-2 na Tabela FIPE.",
+    "h1": "Geracao es-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/lexus/es-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "lexus-es-300-3-0-1997-gasolina",
+      "fipeCodigo": "057020-6",
+      "displayName": "Lexus ES-300 3.0",
+      "valorAtual": 23056,
+      "canonicalPath": "/fipe/lexus/es-300-3-0-1997-057020-6/",
+      "ano": 1997,
+      "marca": "Lexus"
+    },
+    {
+      "vehicleId": "lexus-es-300-3-0-1998-gasolina",
+      "fipeCodigo": "057020-6",
+      "displayName": "Lexus ES-300 3.0",
+      "valorAtual": 27600,
+      "canonicalPath": "/fipe/lexus/es-300-3-0-1998-057020-6/",
+      "ano": 1998,
+      "marca": "Lexus"
+    },
+    {
+      "vehicleId": "lexus-es-300-3-0-1999-gasolina",
+      "fipeCodigo": "057020-6",
+      "displayName": "Lexus ES-300 3.0",
+      "valorAtual": 28290,
+      "canonicalPath": "/fipe/lexus/es-300-3-0-1999-057020-6/",
+      "ano": 1999,
+      "marca": "Lexus"
+    },
+    {
+      "vehicleId": "lexus-es-300-3-0-2000-gasolina",
+      "fipeCodigo": "057020-6",
+      "displayName": "Lexus ES-300 3.0",
+      "valorAtual": 28998,
+      "canonicalPath": "/fipe/lexus/es-300-3-0-2000-057020-6/",
+      "ano": 2000,
+      "marca": "Lexus"
+    },
+    {
+      "vehicleId": "lexus-es-300-3-0-2001-gasolina",
+      "fipeCodigo": "057020-6",
+      "displayName": "Lexus ES-300 3.0",
+      "valorAtual": 29723,
+      "canonicalPath": "/fipe/lexus/es-300-3-0-2001-057020-6/",
+      "ano": 2001,
+      "marca": "Lexus"
+    },
+    {
+      "vehicleId": "lexus-es-300-3-0-2002-gasolina",
+      "fipeCodigo": "057020-6",
+      "displayName": "Lexus ES-300 3.0",
+      "valorAtual": 32134,
+      "canonicalPath": "/fipe/lexus/es-300-3-0-2002-057020-6/",
+      "ano": 2002,
+      "marca": "Lexus"
+    },
+    {
+      "vehicleId": "lexus-es-300-3-0-2003-gasolina",
+      "fipeCodigo": "057020-6",
+      "displayName": "Lexus ES-300 3.0",
+      "valorAtual": 37744,
+      "canonicalPath": "/fipe/lexus/es-300-3-0-2003-057020-6/",
+      "ano": 2003,
+      "marca": "Lexus"
+    }
+  ],
+  "stats": {
+    "total": 7
+  },
+  "meta": {
+    "geracaoId": "es-2"
+  }
+}

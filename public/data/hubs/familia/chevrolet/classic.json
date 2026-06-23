@@ -1,0 +1,110 @@
+{
+  "tipo": "familia",
+  "slug": "classic",
+  "canonicalPath": "/fipe/chevrolet/classic/",
+  "titulo": "GM - Chevrolet classic - Tabela FIPE",
+  "descricao": "9 versoes e anos do GM - Chevrolet classic na Tabela FIPE.",
+  "seo": {
+    "title": "GM - Chevrolet classic - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes GM - Chevrolet classic. 9 veiculos indexados.",
+    "h1": "GM - Chevrolet classic - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/chevrolet/classic/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "chevrolet-classic-life-ls-1-0-vhc-flexp-4p-2016-flex",
+      "fipeCodigo": "004360-5",
+      "displayName": "GM - Chevrolet Classic Life/LS 1.0 VHC FlexP. 4p",
+      "valorAtual": 35015,
+      "canonicalPath": "/fipe/chevrolet/classic-life-ls-1-0-vhc-flexp-4p-2016-004360-5/",
+      "ano": 2016,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-classic-life-ls-1-0-vhc-flexp-4p-2015-flex",
+      "fipeCodigo": "004360-5",
+      "displayName": "GM - Chevrolet Classic Life/LS 1.0 VHC FlexP. 4p",
+      "valorAtual": 33458,
+      "canonicalPath": "/fipe/chevrolet/classic-life-ls-1-0-vhc-flexp-4p-2015-004360-5/",
+      "ano": 2015,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-classic-advantage-1-0-vhc-flexpower-4p-2015-flex",
+      "fipeCodigo": "004450-4",
+      "displayName": "GM - Chevrolet Classic ADVANTAGE 1.0 VHC FlexPower 4p",
+      "valorAtual": 35425,
+      "canonicalPath": "/fipe/chevrolet/classic-advantage-1-0-vhc-flexpower-4p-2015-004450-4/",
+      "ano": 2015,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-classic-life-ls-1-0-vhc-flexp-4p-2014-flex",
+      "fipeCodigo": "004360-5",
+      "displayName": "GM - Chevrolet Classic Life/LS 1.0 VHC FlexP. 4p",
+      "valorAtual": 30489,
+      "canonicalPath": "/fipe/chevrolet/classic-life-ls-1-0-vhc-flexp-4p-2014-004360-5/",
+      "ano": 2014,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-classic-advantage-1-0-vhc-flexpower-4p-2014-flex",
+      "fipeCodigo": "004450-4",
+      "displayName": "GM - Chevrolet Classic ADVANTAGE 1.0 VHC FlexPower 4p",
+      "valorAtual": 30555,
+      "canonicalPath": "/fipe/chevrolet/classic-advantage-1-0-vhc-flexpower-4p-2014-004450-4/",
+      "ano": 2014,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-classic-life-ls-1-0-vhc-flexp-4p-2013-flex",
+      "fipeCodigo": "004360-5",
+      "displayName": "GM - Chevrolet Classic Life/LS 1.0 VHC FlexP. 4p",
+      "valorAtual": 29392,
+      "canonicalPath": "/fipe/chevrolet/classic-life-ls-1-0-vhc-flexp-4p-2013-004360-5/",
+      "ano": 2013,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-classic-life-ls-1-0-vhc-flexp-4p-2012-flex",
+      "fipeCodigo": "004360-5",
+      "displayName": "GM - Chevrolet Classic Life/LS 1.0 VHC FlexP. 4p",
+      "valorAtual": 27610,
+      "canonicalPath": "/fipe/chevrolet/classic-life-ls-1-0-vhc-flexp-4p-2012-004360-5/",
+      "ano": 2012,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-classic-life-ls-1-0-vhc-flexp-4p-2011-flex",
+      "fipeCodigo": "004360-5",
+      "displayName": "GM - Chevrolet Classic Life/LS 1.0 VHC FlexP. 4p",
+      "valorAtual": 24444,
+      "canonicalPath": "/fipe/chevrolet/classic-life-ls-1-0-vhc-flexp-4p-2011-004360-5/",
+      "ano": 2011,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-classic-life-ls-1-0-vhc-flexp-4p-2010-flex",
+      "fipeCodigo": "004360-5",
+      "displayName": "GM - Chevrolet Classic Life/LS 1.0 VHC FlexP. 4p",
+      "valorAtual": 21785,
+      "canonicalPath": "/fipe/chevrolet/classic-life-ls-1-0-vhc-flexp-4p-2010-004360-5/",
+      "ano": 2010,
+      "marca": "GM - Chevrolet"
+    }
+  ],
+  "stats": {
+    "total": 9,
+    "precoMin": 21785,
+    "precoMax": 35425,
+    "anos": [
+      2016,
+      2015,
+      2014,
+      2013,
+      2012,
+      2011,
+      2010
+    ]
+  }
+}

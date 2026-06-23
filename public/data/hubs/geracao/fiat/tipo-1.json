@@ -1,0 +1,102 @@
+{
+  "tipo": "geracao",
+  "slug": "tipo-1",
+  "canonicalPath": "/geracao/fiat/tipo-1/",
+  "titulo": "Geracao tipo-1",
+  "descricao": "9 veiculos da geracao tipo-1.",
+  "seo": {
+    "title": "Geracao tipo-1 - Precos FIPE",
+    "description": "Veiculos da geracao tipo-1 na Tabela FIPE.",
+    "h1": "Geracao tipo-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/fiat/tipo-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "fiat-tipo-1-6-i-e-2p-e-4p-1993-gasolina",
+      "fipeCodigo": "001059-6",
+      "displayName": "Fiat Tipo 1.6 i.e. 2p e 4p",
+      "valorAtual": 5610,
+      "canonicalPath": "/fipe/fiat/tipo-1-6-i-e-2p-e-4p-1993-001059-6/",
+      "ano": 1993,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-tipo-1-6-i-e-2p-e-4p-1994-gasolina",
+      "fipeCodigo": "001059-6",
+      "displayName": "Fiat Tipo 1.6 i.e. 2p e 4p",
+      "valorAtual": 6583,
+      "canonicalPath": "/fipe/fiat/tipo-1-6-i-e-2p-e-4p-1994-001059-6/",
+      "ano": 1994,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-tipo-1-6-i-e-2p-e-4p-1995-gasolina",
+      "fipeCodigo": "001059-6",
+      "displayName": "Fiat Tipo 1.6 i.e. 2p e 4p",
+      "valorAtual": 8996,
+      "canonicalPath": "/fipe/fiat/tipo-1-6-i-e-2p-e-4p-1995-001059-6/",
+      "ano": 1995,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-tipo-1-6-mpi-4p-1996-gasolina",
+      "fipeCodigo": "001045-6",
+      "displayName": "Fiat Tipo 1.6 mpi 4p",
+      "valorAtual": 5665,
+      "canonicalPath": "/fipe/fiat/tipo-1-6-mpi-4p-1996-001045-6/",
+      "ano": 1996,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-tipo-1-6-mpi-4p-1997-gasolina",
+      "fipeCodigo": "001045-6",
+      "displayName": "Fiat Tipo 1.6 mpi 4p",
+      "valorAtual": 6198,
+      "canonicalPath": "/fipe/fiat/tipo-1-6-mpi-4p-1997-001045-6/",
+      "ano": 1997,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-tipo-2-0-16v-2p-4p-1995-gasolina",
+      "fipeCodigo": "001061-8",
+      "displayName": "Fiat Tipo 2.0 16V 2p/4p",
+      "valorAtual": 15160,
+      "canonicalPath": "/fipe/fiat/tipo-2-0-16v-2p-4p-1995-001061-8/",
+      "ano": 1995,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-tipo-2-0-slx-4p-1994-gasolina",
+      "fipeCodigo": "001062-6",
+      "displayName": "Fiat Tipo 2.0 SLX 4p",
+      "valorAtual": 6344,
+      "canonicalPath": "/fipe/fiat/tipo-2-0-slx-4p-1994-001062-6/",
+      "ano": 1994,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-tipo-2-0-slx-4p-1995-gasolina",
+      "fipeCodigo": "001062-6",
+      "displayName": "Fiat Tipo 2.0 SLX 4p",
+      "valorAtual": 8274,
+      "canonicalPath": "/fipe/fiat/tipo-2-0-slx-4p-1995-001062-6/",
+      "ano": 1995,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-tipo-2-0-slx-4p-1996-gasolina",
+      "fipeCodigo": "001062-6",
+      "displayName": "Fiat Tipo 2.0 SLX 4p",
+      "valorAtual": 8481,
+      "canonicalPath": "/fipe/fiat/tipo-2-0-slx-4p-1996-001062-6/",
+      "ano": 1996,
+      "marca": "Fiat"
+    }
+  ],
+  "stats": {
+    "total": 9
+  },
+  "meta": {
+    "geracaoId": "tipo-1"
+  }
+}

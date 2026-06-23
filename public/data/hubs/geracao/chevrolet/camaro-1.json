@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "camaro-1",
+  "canonicalPath": "/geracao/chevrolet/camaro-1/",
+  "titulo": "Geracao camaro-1",
+  "descricao": "2 veiculos da geracao camaro-1.",
+  "seo": {
+    "title": "Geracao camaro-1 - Precos FIPE",
+    "description": "Veiculos da geracao camaro-1 na Tabela FIPE.",
+    "h1": "Geracao camaro-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/chevrolet/camaro-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "chevrolet-camaro-ss-collection-6-2-v8-16v-0-gasolina",
+      "fipeCodigo": "004548-9",
+      "displayName": "GM - Chevrolet Camaro SS Collection 6.2 V8 16V",
+      "valorAtual": 555900,
+      "canonicalPath": "/fipe/chevrolet/camaro-ss-collection-6-2-v8-16v-0-004548-9/",
+      "ano": 0,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-camaro-ss-conversivel-6-2-v8-16v-0-gasolina",
+      "fipeCodigo": "004453-9",
+      "displayName": "GM - Chevrolet Camaro SS Conversível 6.2 V8 16V",
+      "valorAtual": 589657,
+      "canonicalPath": "/fipe/chevrolet/camaro-ss-conversivel-6-2-v8-16v-0-004453-9/",
+      "ano": 0,
+      "marca": "GM - Chevrolet"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "camaro-1"
+  }
+}

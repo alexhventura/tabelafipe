@@ -1,0 +1,75 @@
+{
+  "tipo": "geracao",
+  "slug": "348-1",
+  "canonicalPath": "/geracao/ferrari/348-1/",
+  "titulo": "Geracao 348-1",
+  "descricao": "6 veiculos da geracao 348-1.",
+  "seo": {
+    "title": "Geracao 348-1 - Precos FIPE",
+    "description": "Veiculos da geracao 348-1 na Tabela FIPE.",
+    "h1": "Geracao 348-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/ferrari/348-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "ferrari-348-gts-3-4-1993-gasolina",
+      "fipeCodigo": "031014-0",
+      "displayName": "Ferrari 348 GTS 3.4",
+      "valorAtual": 155618,
+      "canonicalPath": "/fipe/ferrari/348-gts-3-4-1993-031014-0/",
+      "ano": 1993,
+      "marca": "Ferrari"
+    },
+    {
+      "vehicleId": "ferrari-348-gts-3-4-1994-gasolina",
+      "fipeCodigo": "031014-0",
+      "displayName": "Ferrari 348 GTS 3.4",
+      "valorAtual": 177846,
+      "canonicalPath": "/fipe/ferrari/348-gts-3-4-1994-031014-0/",
+      "ano": 1994,
+      "marca": "Ferrari"
+    },
+    {
+      "vehicleId": "ferrari-348-spider-3-4-1993-gasolina",
+      "fipeCodigo": "031013-1",
+      "displayName": "Ferrari 348 Spider 3.4",
+      "valorAtual": 162552,
+      "canonicalPath": "/fipe/ferrari/348-spider-3-4-1993-031013-1/",
+      "ano": 1993,
+      "marca": "Ferrari"
+    },
+    {
+      "vehicleId": "ferrari-348-spider-3-4-1994-gasolina",
+      "fipeCodigo": "031013-1",
+      "displayName": "Ferrari 348 Spider 3.4",
+      "valorAtual": 179437,
+      "canonicalPath": "/fipe/ferrari/348-spider-3-4-1994-031013-1/",
+      "ano": 1994,
+      "marca": "Ferrari"
+    },
+    {
+      "vehicleId": "ferrari-348-ts-tb-3-4-1993-gasolina",
+      "fipeCodigo": "031008-5",
+      "displayName": "Ferrari 348 TS/TB 3.4",
+      "valorAtual": 154110,
+      "canonicalPath": "/fipe/ferrari/348-ts-tb-3-4-1993-031008-5/",
+      "ano": 1993,
+      "marca": "Ferrari"
+    },
+    {
+      "vehicleId": "ferrari-348-ts-tb-3-4-1994-gasolina",
+      "fipeCodigo": "031008-5",
+      "displayName": "Ferrari 348 TS/TB 3.4",
+      "valorAtual": 176338,
+      "canonicalPath": "/fipe/ferrari/348-ts-tb-3-4-1994-031008-5/",
+      "ano": 1994,
+      "marca": "Ferrari"
+    }
+  ],
+  "stats": {
+    "total": 6
+  },
+  "meta": {
+    "geracaoId": "348-1"
+  }
+}

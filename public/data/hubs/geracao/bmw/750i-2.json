@@ -1,0 +1,48 @@
+{
+  "tipo": "geracao",
+  "slug": "750i-2",
+  "canonicalPath": "/geracao/bmw/750i-2/",
+  "titulo": "Geracao 750i-2",
+  "descricao": "3 veiculos da geracao 750i-2.",
+  "seo": {
+    "title": "Geracao 750i-2 - Precos FIPE",
+    "description": "Veiculos da geracao 750i-2 na Tabela FIPE.",
+    "h1": "Geracao 750i-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/bmw/750i-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "bmw-750i-m-sport-sedan-4-4-v8-450cv-aut-2013-gasolina",
+      "fipeCodigo": "009211-8",
+      "displayName": "BMW 750i M Sport Sedan 4.4 V8 450cv Aut.",
+      "valorAtual": 178246,
+      "canonicalPath": "/fipe/bmw/750i-m-sport-sedan-4-4-v8-450cv-aut-2013-009211-8/",
+      "ano": 2013,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-750i-m-sport-sedan-4-4-v8-450cv-aut-2014-gasolina",
+      "fipeCodigo": "009211-8",
+      "displayName": "BMW 750i M Sport Sedan 4.4 V8 450cv Aut.",
+      "valorAtual": 182703,
+      "canonicalPath": "/fipe/bmw/750i-m-sport-sedan-4-4-v8-450cv-aut-2014-009211-8/",
+      "ano": 2014,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-750i-m-sport-sedan-4-4-v8-450cv-aut-2015-gasolina",
+      "fipeCodigo": "009211-8",
+      "displayName": "BMW 750i M Sport Sedan 4.4 V8 450cv Aut.",
+      "valorAtual": 210393,
+      "canonicalPath": "/fipe/bmw/750i-m-sport-sedan-4-4-v8-450cv-aut-2015-009211-8/",
+      "ano": 2015,
+      "marca": "BMW"
+    }
+  ],
+  "stats": {
+    "total": 3
+  },
+  "meta": {
+    "geracaoId": "750i-2"
+  }
+}

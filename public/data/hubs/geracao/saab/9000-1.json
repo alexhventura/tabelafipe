@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "9000-1",
+  "canonicalPath": "/geracao/saab/9000-1/",
+  "titulo": "Geracao 9000-1",
+  "descricao": "2 veiculos da geracao 9000-1.",
+  "seo": {
+    "title": "Geracao 9000-1 - Precos FIPE",
+    "description": "Veiculos da geracao 9000-1 na Tabela FIPE.",
+    "h1": "Geracao 9000-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/saab/9000-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "saab-9000-cd-2-3-turbo-1992-gasolina",
+      "fipeCodigo": "053001-8",
+      "displayName": "Saab 9000 CD 2.3 Turbo",
+      "valorAtual": 11769,
+      "canonicalPath": "/fipe/saab/9000-cd-2-3-turbo-1992-053001-8/",
+      "ano": 1992,
+      "marca": "Saab"
+    },
+    {
+      "vehicleId": "saab-9000-cd-2-3-turbo-1993-gasolina",
+      "fipeCodigo": "053001-8",
+      "displayName": "Saab 9000 CD 2.3 Turbo",
+      "valorAtual": 12968,
+      "canonicalPath": "/fipe/saab/9000-cd-2-3-turbo-1993-053001-8/",
+      "ano": 1993,
+      "marca": "Saab"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "9000-1"
+  }
+}

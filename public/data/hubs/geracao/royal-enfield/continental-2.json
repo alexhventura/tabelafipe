@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "continental-2",
+  "canonicalPath": "/geracao/royal-enfield/continental-2/",
+  "titulo": "Geracao continental-2",
+  "descricao": "2 veiculos da geracao continental-2.",
+  "seo": {
+    "title": "Geracao continental-2 - Precos FIPE",
+    "description": "Veiculos da geracao continental-2 na Tabela FIPE.",
+    "h1": "Geracao continental-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/royal-enfield/continental-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "royal-enfield-continental-535-efi-2016-gasolina",
+      "fipeCodigo": "879002-7",
+      "displayName": "Royal Enfield Continental 535 EFI",
+      "valorAtual": 18721,
+      "canonicalPath": "/fipe/royal-enfield/continental-535-efi-2016-879002-7/",
+      "ano": 2016,
+      "marca": "Royal Enfield"
+    },
+    {
+      "vehicleId": "royal-enfield-continental-535-efi-2017-gasolina",
+      "fipeCodigo": "879002-7",
+      "displayName": "Royal Enfield Continental 535 EFI",
+      "valorAtual": 20284,
+      "canonicalPath": "/fipe/royal-enfield/continental-535-efi-2017-879002-7/",
+      "ano": 2017,
+      "marca": "Royal Enfield"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "continental-2"
+  }
+}

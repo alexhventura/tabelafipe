@@ -1,0 +1,48 @@
+{
+  "tipo": "geracao",
+  "slug": "222-1",
+  "canonicalPath": "/geracao/maserati/222-1/",
+  "titulo": "Geracao 222-1",
+  "descricao": "3 veiculos da geracao 222-1.",
+  "seo": {
+    "title": "Geracao 222-1 - Precos FIPE",
+    "description": "Veiculos da geracao 222-1 na Tabela FIPE.",
+    "h1": "Geracao 222-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/maserati/222-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "maserati-222-se-sr-2-0-v6-1992-gasolina",
+      "fipeCodigo": "034003-0",
+      "displayName": "Maserati 222 SE/SR 2.0 V6",
+      "valorAtual": 19409,
+      "canonicalPath": "/fipe/maserati/222-se-sr-2-0-v6-1992-034003-0/",
+      "ano": 1992,
+      "marca": "Maserati"
+    },
+    {
+      "vehicleId": "maserati-222-se-sr-2-0-v6-1993-gasolina",
+      "fipeCodigo": "034003-0",
+      "displayName": "Maserati 222 SE/SR 2.0 V6",
+      "valorAtual": 21858,
+      "canonicalPath": "/fipe/maserati/222-se-sr-2-0-v6-1993-034003-0/",
+      "ano": 1993,
+      "marca": "Maserati"
+    },
+    {
+      "vehicleId": "maserati-222-se-sr-2-0-v6-1994-gasolina",
+      "fipeCodigo": "034003-0",
+      "displayName": "Maserati 222 SE/SR 2.0 V6",
+      "valorAtual": 26504,
+      "canonicalPath": "/fipe/maserati/222-se-sr-2-0-v6-1994-034003-0/",
+      "ano": 1994,
+      "marca": "Maserati"
+    }
+  ],
+  "stats": {
+    "total": 3
+  },
+  "meta": {
+    "geracaoId": "222-1"
+  }
+}

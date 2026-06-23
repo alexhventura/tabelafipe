@@ -1,0 +1,75 @@
+{
+  "tipo": "geracao",
+  "slug": "gls-3",
+  "canonicalPath": "/geracao/mercedes-benz/gls-3/",
+  "titulo": "Geracao gls-3",
+  "descricao": "6 veiculos da geracao gls-3.",
+  "seo": {
+    "title": "Geracao gls-3 - Precos FIPE",
+    "description": "Veiculos da geracao gls-3 na Tabela FIPE.",
+    "h1": "Geracao gls-3",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/mercedes-benz/gls-3/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "mercedes-benz-gls-450-4m-3-0-bi-tb-aut-hibrido-2021-hibrido",
+      "fipeCodigo": "021460-4",
+      "displayName": "Mercedes-Benz GLS-450 4M 3.0 Bi-TB Aut. (Híbrido)",
+      "valorAtual": 501639,
+      "canonicalPath": "/fipe/mercedes-benz/gls-450-4m-3-0-bi-tb-aut-hibrido-2021-021460-4/",
+      "ano": 2021,
+      "marca": "Mercedes-Benz"
+    },
+    {
+      "vehicleId": "mercedes-benz-gls-450-4m-3-0-bi-tb-aut-hibrido-2022-hibrido",
+      "fipeCodigo": "021460-4",
+      "displayName": "Mercedes-Benz GLS-450 4M 3.0 Bi-TB Aut. (Híbrido)",
+      "valorAtual": 575487,
+      "canonicalPath": "/fipe/mercedes-benz/gls-450-4m-3-0-bi-tb-aut-hibrido-2022-021460-4/",
+      "ano": 2022,
+      "marca": "Mercedes-Benz"
+    },
+    {
+      "vehicleId": "mercedes-benz-gls-450-4m-3-0-bi-tb-aut-hibrido-2023-hibrido",
+      "fipeCodigo": "021460-4",
+      "displayName": "Mercedes-Benz GLS-450 4M 3.0 Bi-TB Aut. (Híbrido)",
+      "valorAtual": 745123,
+      "canonicalPath": "/fipe/mercedes-benz/gls-450-4m-3-0-bi-tb-aut-hibrido-2023-021460-4/",
+      "ano": 2023,
+      "marca": "Mercedes-Benz"
+    },
+    {
+      "vehicleId": "mercedes-benz-gls-450-4m-3-0-bi-tb-aut-hibrido-2024-hibrido",
+      "fipeCodigo": "021460-4",
+      "displayName": "Mercedes-Benz GLS-450 4M 3.0 Bi-TB Aut. (Híbrido)",
+      "valorAtual": 775030,
+      "canonicalPath": "/fipe/mercedes-benz/gls-450-4m-3-0-bi-tb-aut-hibrido-2024-021460-4/",
+      "ano": 2024,
+      "marca": "Mercedes-Benz"
+    },
+    {
+      "vehicleId": "mercedes-benz-gls-450-4m-3-0-bi-tb-aut-hibrido-2025-hibrido",
+      "fipeCodigo": "021460-4",
+      "displayName": "Mercedes-Benz GLS-450 4M 3.0 Bi-TB Aut. (Híbrido)",
+      "valorAtual": 907024,
+      "canonicalPath": "/fipe/mercedes-benz/gls-450-4m-3-0-bi-tb-aut-hibrido-2025-021460-4/",
+      "ano": 2025,
+      "marca": "Mercedes-Benz"
+    },
+    {
+      "vehicleId": "mercedes-benz-gls-450-amg-line-4m-3-0-bi-tb-aut-hibrido-2026-hibrido",
+      "fipeCodigo": "021560-0",
+      "displayName": "Mercedes-Benz GLS-450 AMG Line 4M 3.0 Bi-TB Aut. (Híbrido)",
+      "valorAtual": 926729,
+      "canonicalPath": "/fipe/mercedes-benz/gls-450-amg-line-4m-3-0-bi-tb-aut-hibrido-2026-021560-0/",
+      "ano": 2026,
+      "marca": "Mercedes-Benz"
+    }
+  ],
+  "stats": {
+    "total": 6
+  },
+  "meta": {
+    "geracaoId": "gls-3"
+  }
+}

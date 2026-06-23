@@ -1,0 +1,48 @@
+{
+  "tipo": "geracao",
+  "slug": "11-1",
+  "canonicalPath": "/geracao/volkswagen/11-1/",
+  "titulo": "Geracao 11-1",
+  "descricao": "3 veiculos da geracao 11-1.",
+  "seo": {
+    "title": "Geracao 11-1 - Precos FIPE",
+    "description": "Veiculos da geracao 11-1 na Tabela FIPE.",
+    "h1": "Geracao 11-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/volkswagen/11-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "volkswagen-11-180-delivery-4x2-2p-diesel-e6-0-diesel",
+      "fipeCodigo": "515186-4",
+      "displayName": "VOLKSWAGEN 11-180 Delivery 4x2 2p (diesel)(E6)",
+      "valorAtual": 415945,
+      "canonicalPath": "/fipe/volkswagen/11-180-delivery-4x2-2p-diesel-e6-0-515186-4/",
+      "ano": 0,
+      "marca": "VOLKSWAGEN"
+    },
+    {
+      "vehicleId": "volkswagen-11-180-delivery-4x4-2p-diesel-e6-0-diesel",
+      "fipeCodigo": "515205-4",
+      "displayName": "VOLKSWAGEN 11-180 Delivery 4x4 2p (diesel)(E6)",
+      "valorAtual": 616258,
+      "canonicalPath": "/fipe/volkswagen/11-180-delivery-4x4-2p-diesel-e6-0-515205-4/",
+      "ano": 0,
+      "marca": "VOLKSWAGEN"
+    },
+    {
+      "vehicleId": "volkswagen-11-410-e-delivery-4x2-2p-eletrico-0-eletrico",
+      "fipeCodigo": "515182-1",
+      "displayName": "VOLKSWAGEN 11-410 e-Delivery 4X2 2p (Elétrico)",
+      "valorAtual": 831224,
+      "canonicalPath": "/fipe/volkswagen/11-410-e-delivery-4x2-2p-eletrico-0-515182-1/",
+      "ano": 0,
+      "marca": "VOLKSWAGEN"
+    }
+  ],
+  "stats": {
+    "total": 3
+  },
+  "meta": {
+    "geracaoId": "11-1"
+  }
+}

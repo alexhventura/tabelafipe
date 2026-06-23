@@ -1,0 +1,93 @@
+{
+  "tipo": "geracao",
+  "slug": "low-3",
+  "canonicalPath": "/geracao/harley-davidson/low-3/",
+  "titulo": "Geracao low-3",
+  "descricao": "8 veiculos da geracao low-3.",
+  "seo": {
+    "title": "Geracao low-3 - Precos FIPE",
+    "description": "Veiculos da geracao low-3 na Tabela FIPE.",
+    "h1": "Geracao low-3",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/harley-davidson/low-3/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "harley-davidson-low-rider-s-fxlrs-2023-gasolina",
+      "fipeCodigo": "810108-6",
+      "displayName": "HARLEY-DAVIDSON LOW RIDER S FXLRS",
+      "valorAtual": 99020,
+      "canonicalPath": "/fipe/harley-davidson/low-rider-s-fxlrs-2023-810108-6/",
+      "ano": 2023,
+      "marca": "HARLEY-DAVIDSON"
+    },
+    {
+      "vehicleId": "harley-davidson-low-rider-s-fxlrs-2024-gasolina",
+      "fipeCodigo": "810108-6",
+      "displayName": "HARLEY-DAVIDSON LOW RIDER S FXLRS",
+      "valorAtual": 105315,
+      "canonicalPath": "/fipe/harley-davidson/low-rider-s-fxlrs-2024-810108-6/",
+      "ano": 2024,
+      "marca": "HARLEY-DAVIDSON"
+    },
+    {
+      "vehicleId": "harley-davidson-low-rider-s-fxlrs-2025-gasolina",
+      "fipeCodigo": "810108-6",
+      "displayName": "HARLEY-DAVIDSON LOW RIDER S FXLRS",
+      "valorAtual": 109870,
+      "canonicalPath": "/fipe/harley-davidson/low-rider-s-fxlrs-2025-810108-6/",
+      "ano": 2025,
+      "marca": "HARLEY-DAVIDSON"
+    },
+    {
+      "vehicleId": "harley-davidson-low-rider-s-fxlrs-2026-gasolina",
+      "fipeCodigo": "810108-6",
+      "displayName": "HARLEY-DAVIDSON LOW RIDER S FXLRS",
+      "valorAtual": 113856,
+      "canonicalPath": "/fipe/harley-davidson/low-rider-s-fxlrs-2026-810108-6/",
+      "ano": 2026,
+      "marca": "HARLEY-DAVIDSON"
+    },
+    {
+      "vehicleId": "harley-davidson-low-rider-st-fxlrst-2023-gasolina",
+      "fipeCodigo": "810111-6",
+      "displayName": "HARLEY-DAVIDSON LOW RIDER ST FXLRST",
+      "valorAtual": 117436,
+      "canonicalPath": "/fipe/harley-davidson/low-rider-st-fxlrst-2023-810111-6/",
+      "ano": 2023,
+      "marca": "HARLEY-DAVIDSON"
+    },
+    {
+      "vehicleId": "harley-davidson-low-rider-st-fxlrst-2024-gasolina",
+      "fipeCodigo": "810111-6",
+      "displayName": "HARLEY-DAVIDSON LOW RIDER ST FXLRST",
+      "valorAtual": 125804,
+      "canonicalPath": "/fipe/harley-davidson/low-rider-st-fxlrst-2024-810111-6/",
+      "ano": 2024,
+      "marca": "HARLEY-DAVIDSON"
+    },
+    {
+      "vehicleId": "harley-davidson-low-rider-st-fxlrst-2025-gasolina",
+      "fipeCodigo": "810111-6",
+      "displayName": "HARLEY-DAVIDSON LOW RIDER ST FXLRST",
+      "valorAtual": 135681,
+      "canonicalPath": "/fipe/harley-davidson/low-rider-st-fxlrst-2025-810111-6/",
+      "ano": 2025,
+      "marca": "HARLEY-DAVIDSON"
+    },
+    {
+      "vehicleId": "harley-davidson-low-rider-st-fxlrst-2026-gasolina",
+      "fipeCodigo": "810111-6",
+      "displayName": "HARLEY-DAVIDSON LOW RIDER ST FXLRST",
+      "valorAtual": 141715,
+      "canonicalPath": "/fipe/harley-davidson/low-rider-st-fxlrst-2026-810111-6/",
+      "ano": 2026,
+      "marca": "HARLEY-DAVIDSON"
+    }
+  ],
+  "stats": {
+    "total": 8
+  },
+  "meta": {
+    "geracaoId": "low-3"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "tipo": "geracao",
+  "slug": "seiemmezzo-2",
+  "canonicalPath": "/geracao/motomorini/seiemmezzo-2/",
+  "titulo": "Geracao seiemmezzo-2",
+  "descricao": "4 veiculos da geracao seiemmezzo-2.",
+  "seo": {
+    "title": "Geracao seiemmezzo-2 - Precos FIPE",
+    "description": "Veiculos da geracao seiemmezzo-2 na Tabela FIPE.",
+    "h1": "Geracao seiemmezzo-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/motomorini/seiemmezzo-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "motomorini-seiemmezzo-scramble-650-2025-gasolina",
+      "fipeCodigo": "899004-2",
+      "displayName": "MOTOMORINI SEIEMMEZZO SCRAMBLE 650",
+      "valorAtual": 46075,
+      "canonicalPath": "/fipe/motomorini/seiemmezzo-scramble-650-2025-899004-2/",
+      "ano": 2025,
+      "marca": "MOTOMORINI"
+    },
+    {
+      "vehicleId": "motomorini-seiemmezzo-scramble-650-2026-gasolina",
+      "fipeCodigo": "899004-2",
+      "displayName": "MOTOMORINI SEIEMMEZZO SCRAMBLE 650",
+      "valorAtual": 47550,
+      "canonicalPath": "/fipe/motomorini/seiemmezzo-scramble-650-2026-899004-2/",
+      "ano": 2026,
+      "marca": "MOTOMORINI"
+    },
+    {
+      "vehicleId": "motomorini-seiemmezzo-street-650-2025-gasolina",
+      "fipeCodigo": "899005-0",
+      "displayName": "MOTOMORINI SEIEMMEZZO STREET 650",
+      "valorAtual": 44080,
+      "canonicalPath": "/fipe/motomorini/seiemmezzo-street-650-2025-899005-0/",
+      "ano": 2025,
+      "marca": "MOTOMORINI"
+    },
+    {
+      "vehicleId": "motomorini-seiemmezzo-street-650-2026-gasolina",
+      "fipeCodigo": "899005-0",
+      "displayName": "MOTOMORINI SEIEMMEZZO STREET 650",
+      "valorAtual": 45337,
+      "canonicalPath": "/fipe/motomorini/seiemmezzo-street-650-2026-899005-0/",
+      "ano": 2026,
+      "marca": "MOTOMORINI"
+    }
+  ],
+  "stats": {
+    "total": 4
+  },
+  "meta": {
+    "geracaoId": "seiemmezzo-2"
+  }
+}

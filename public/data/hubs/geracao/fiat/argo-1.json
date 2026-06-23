@@ -1,0 +1,66 @@
+{
+  "tipo": "geracao",
+  "slug": "argo-1",
+  "canonicalPath": "/geracao/fiat/argo-1/",
+  "titulo": "Geracao argo-1",
+  "descricao": "5 veiculos da geracao argo-1.",
+  "seo": {
+    "title": "Geracao argo-1 - Precos FIPE",
+    "description": "Veiculos da geracao argo-1 na Tabela FIPE.",
+    "h1": "Geracao argo-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/fiat/argo-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "fiat-argo-1-0-6v-flex-0-flex",
+      "fipeCodigo": "001509-1",
+      "displayName": "Fiat ARGO 1.0 6V Flex",
+      "valorAtual": 88890,
+      "canonicalPath": "/fipe/fiat/argo-1-0-6v-flex-0-001509-1/",
+      "ano": 0,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-argo-drive-1-0-6v-flex-0-flex",
+      "fipeCodigo": "001494-0",
+      "displayName": "Fiat ARGO DRIVE 1.0 6V Flex",
+      "valorAtual": 90956,
+      "canonicalPath": "/fipe/fiat/argo-drive-1-0-6v-flex-0-001494-0/",
+      "ano": 0,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-argo-drive-1-3-8v-flex-aut-0-flex",
+      "fipeCodigo": "001561-0",
+      "displayName": "Fiat ARGO DRIVE 1.3 8V Flex Aut.",
+      "valorAtual": 104798,
+      "canonicalPath": "/fipe/fiat/argo-drive-1-3-8v-flex-aut-0-001561-0/",
+      "ano": 0,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-argo-trekking-1-3-8v-flex-0-flex",
+      "fipeCodigo": "001519-9",
+      "displayName": "Fiat ARGO TREKKING 1.3 8V Flex",
+      "valorAtual": 103255,
+      "canonicalPath": "/fipe/fiat/argo-trekking-1-3-8v-flex-0-001519-9/",
+      "ano": 0,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-argo-trekking-1-3-8v-flex-aut-0-flex",
+      "fipeCodigo": "001562-8",
+      "displayName": "Fiat ARGO TREKKING 1.3 8V Flex Aut.",
+      "valorAtual": 110973,
+      "canonicalPath": "/fipe/fiat/argo-trekking-1-3-8v-flex-aut-0-001562-8/",
+      "ano": 0,
+      "marca": "Fiat"
+    }
+  ],
+  "stats": {
+    "total": 5
+  },
+  "meta": {
+    "geracaoId": "argo-1"
+  }
+}

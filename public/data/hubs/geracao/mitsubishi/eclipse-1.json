@@ -1,0 +1,84 @@
+{
+  "tipo": "geracao",
+  "slug": "eclipse-1",
+  "canonicalPath": "/geracao/mitsubishi/eclipse-1/",
+  "titulo": "Geracao eclipse-1",
+  "descricao": "7 veiculos da geracao eclipse-1.",
+  "seo": {
+    "title": "Geracao eclipse-1 - Precos FIPE",
+    "description": "Veiculos da geracao eclipse-1 na Tabela FIPE.",
+    "h1": "Geracao eclipse-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/mitsubishi/eclipse-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "mitsubishi-eclipse-cross-hpe-1-5-16v-tb-165cv-aut-0-gasolina",
+      "fipeCodigo": "022181-3",
+      "displayName": "Mitsubishi Eclipse Cross HPE 1.5 16V TB 165cv Aut.",
+      "valorAtual": 197748,
+      "canonicalPath": "/fipe/mitsubishi/eclipse-cross-hpe-1-5-16v-tb-165cv-aut-0-022181-3/",
+      "ano": 0,
+      "marca": "Mitsubishi"
+    },
+    {
+      "vehicleId": "mitsubishi-eclipse-cross-hpe-black-1-5-16v-tb-165cv-aut-0-gasolina",
+      "fipeCodigo": "022218-6",
+      "displayName": "Mitsubishi Eclipse Cross HPE Black 1.5 16V TB 165cv Aut.",
+      "valorAtual": 199990,
+      "canonicalPath": "/fipe/mitsubishi/eclipse-cross-hpe-black-1-5-16v-tb-165cv-aut-0-022218-6/",
+      "ano": 0,
+      "marca": "Mitsubishi"
+    },
+    {
+      "vehicleId": "mitsubishi-eclipse-cross-hpe-s-1-5-16v-awc-tb-165cv-aut-0-gasolina",
+      "fipeCodigo": "022169-4",
+      "displayName": "Mitsubishi Eclipse Cross HPE-S 1.5 16V AWC TB 165cv Aut.",
+      "valorAtual": 230034,
+      "canonicalPath": "/fipe/mitsubishi/eclipse-cross-hpe-s-1-5-16v-awc-tb-165cv-aut-0-022169-4/",
+      "ano": 0,
+      "marca": "Mitsubishi"
+    },
+    {
+      "vehicleId": "mitsubishi-eclipse-cross-hpe-s-1-5-16v-tb-165cv-aut-0-gasolina",
+      "fipeCodigo": "022170-8",
+      "displayName": "Mitsubishi Eclipse Cross HPE-S 1.5 16V TB 165cv Aut.",
+      "valorAtual": 222259,
+      "canonicalPath": "/fipe/mitsubishi/eclipse-cross-hpe-s-1-5-16v-tb-165cv-aut-0-022170-8/",
+      "ano": 0,
+      "marca": "Mitsubishi"
+    },
+    {
+      "vehicleId": "mitsubishi-eclipse-cross-hpe-s-black-1-5-16v-awc-tb-165cv-aut-0-gasolina",
+      "fipeCodigo": "022217-8",
+      "displayName": "Mitsubishi Eclipse Cross HPE-S Black 1.5 16V AWC TB 165cv Aut",
+      "valorAtual": 234904,
+      "canonicalPath": "/fipe/mitsubishi/eclipse-cross-hpe-s-black-1-5-16v-awc-tb-165cv-aut-0-022217-8/",
+      "ano": 0,
+      "marca": "Mitsubishi"
+    },
+    {
+      "vehicleId": "mitsubishi-eclipse-cross-rush-1-5-16v-tb-165cv-aut-0-gasolina",
+      "fipeCodigo": "022216-0",
+      "displayName": "Mitsubishi Eclipse Cross RUSH 1.5 16V TB 165cv Aut.",
+      "valorAtual": 174474,
+      "canonicalPath": "/fipe/mitsubishi/eclipse-cross-rush-1-5-16v-tb-165cv-aut-0-022216-0/",
+      "ano": 0,
+      "marca": "Mitsubishi"
+    },
+    {
+      "vehicleId": "mitsubishi-eclipse-cross-tarmac-1-5-16v-tb-165cv-aut-0-gasolina",
+      "fipeCodigo": "022223-2",
+      "displayName": "Mitsubishi Eclipse Cross Tarmac 1.5 16V TB 165cv Aut.",
+      "valorAtual": 199990,
+      "canonicalPath": "/fipe/mitsubishi/eclipse-cross-tarmac-1-5-16v-tb-165cv-aut-0-022223-2/",
+      "ano": 0,
+      "marca": "Mitsubishi"
+    }
+  ],
+  "stats": {
+    "total": 7
+  },
+  "meta": {
+    "geracaoId": "eclipse-1"
+  }
+}

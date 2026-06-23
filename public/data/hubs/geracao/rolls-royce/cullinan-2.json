@@ -1,0 +1,57 @@
+{
+  "tipo": "geracao",
+  "slug": "cullinan-2",
+  "canonicalPath": "/geracao/rolls-royce/cullinan-2/",
+  "titulo": "Geracao cullinan-2",
+  "descricao": "4 veiculos da geracao cullinan-2.",
+  "seo": {
+    "title": "Geracao cullinan-2 - Precos FIPE",
+    "description": "Veiculos da geracao cullinan-2 na Tabela FIPE.",
+    "h1": "Geracao cullinan-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/rolls-royce/cullinan-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "rolls-royce-cullinan-6-7-v12-aut-2021-gasolina",
+      "fipeCodigo": "087006-4",
+      "displayName": "Rolls-Royce Cullinan 6.7 V12 Aut.",
+      "valorAtual": 5206302,
+      "canonicalPath": "/fipe/rolls-royce/cullinan-6-7-v12-aut-2021-087006-4/",
+      "ano": 2021,
+      "marca": "Rolls-Royce"
+    },
+    {
+      "vehicleId": "rolls-royce-cullinan-black-badge-6-7-v12-aut-2021-gasolina",
+      "fipeCodigo": "087007-2",
+      "displayName": "Rolls-Royce Cullinan Black Badge 6.7 V12 Aut.",
+      "valorAtual": 5769282,
+      "canonicalPath": "/fipe/rolls-royce/cullinan-black-badge-6-7-v12-aut-2021-087007-2/",
+      "ano": 2021,
+      "marca": "Rolls-Royce"
+    },
+    {
+      "vehicleId": "rolls-royce-cullinan-black-badge-6-7-v12-aut-2022-gasolina",
+      "fipeCodigo": "087007-2",
+      "displayName": "Rolls-Royce Cullinan Black Badge 6.7 V12 Aut.",
+      "valorAtual": 6751630,
+      "canonicalPath": "/fipe/rolls-royce/cullinan-black-badge-6-7-v12-aut-2022-087007-2/",
+      "ano": 2022,
+      "marca": "Rolls-Royce"
+    },
+    {
+      "vehicleId": "rolls-royce-cullinan-black-badge-6-7-v12-aut-2023-gasolina",
+      "fipeCodigo": "087007-2",
+      "displayName": "Rolls-Royce Cullinan Black Badge 6.7 V12 Aut.",
+      "valorAtual": 6993753,
+      "canonicalPath": "/fipe/rolls-royce/cullinan-black-badge-6-7-v12-aut-2023-087007-2/",
+      "ano": 2023,
+      "marca": "Rolls-Royce"
+    }
+  ],
+  "stats": {
+    "total": 4
+  },
+  "meta": {
+    "geracaoId": "cullinan-2"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "tipo": "familia",
+  "slug": "745le",
+  "canonicalPath": "/fipe/bmw/745le/",
+  "titulo": "BMW 745le - Tabela FIPE",
+  "descricao": "3 versoes e anos do BMW 745le na Tabela FIPE.",
+  "seo": {
+    "title": "BMW 745le - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes BMW 745le. 3 veiculos indexados.",
+    "h1": "BMW 745le - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/bmw/745le/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "bmw-745le-m-sport-sedan-3-0-v6-aut-hib-2022-hibrido",
+      "fipeCodigo": "009257-6",
+      "displayName": "BMW 745Le M Sport Sedan 3.0 V6 Aut. (Híb.)",
+      "valorAtual": 453142,
+      "canonicalPath": "/fipe/bmw/745le-m-sport-sedan-3-0-v6-aut-hib-2022-009257-6/",
+      "ano": 2022,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-745le-m-sport-sedan-3-0-v6-aut-hib-2021-hibrido",
+      "fipeCodigo": "009257-6",
+      "displayName": "BMW 745Le M Sport Sedan 3.0 V6 Aut. (Híb.)",
+      "valorAtual": 442089,
+      "canonicalPath": "/fipe/bmw/745le-m-sport-sedan-3-0-v6-aut-hib-2021-009257-6/",
+      "ano": 2021,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-745le-m-sport-sedan-3-0-v6-aut-hib-2020-hibrido",
+      "fipeCodigo": "009257-6",
+      "displayName": "BMW 745Le M Sport Sedan 3.0 V6 Aut. (Híb.)",
+      "valorAtual": 381187,
+      "canonicalPath": "/fipe/bmw/745le-m-sport-sedan-3-0-v6-aut-hib-2020-009257-6/",
+      "ano": 2020,
+      "marca": "BMW"
+    }
+  ],
+  "stats": {
+    "total": 3,
+    "precoMin": 381187,
+    "precoMax": 453142,
+    "anos": [
+      2022,
+      2021,
+      2020
+    ]
+  }
+}

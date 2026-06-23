@@ -1,0 +1,102 @@
+{
+  "tipo": "geracao",
+  "slug": "mustang-2",
+  "canonicalPath": "/geracao/ford/mustang-2/",
+  "titulo": "Geracao mustang-2",
+  "descricao": "9 veiculos da geracao mustang-2.",
+  "seo": {
+    "title": "Geracao mustang-2 - Precos FIPE",
+    "description": "Veiculos da geracao mustang-2 na Tabela FIPE.",
+    "h1": "Geracao mustang-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/ford/mustang-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "ford-mustang-3-8-v6-1994-gasolina",
+      "fipeCodigo": "003179-8",
+      "displayName": "Ford Mustang 3.8 V6",
+      "valorAtual": 74265,
+      "canonicalPath": "/fipe/ford/mustang-3-8-v6-1994-003179-8/",
+      "ano": 1994,
+      "marca": "Ford"
+    },
+    {
+      "vehicleId": "ford-mustang-3-8-v6-1995-gasolina",
+      "fipeCodigo": "003179-8",
+      "displayName": "Ford Mustang 3.8 V6",
+      "valorAtual": 98898,
+      "canonicalPath": "/fipe/ford/mustang-3-8-v6-1995-003179-8/",
+      "ano": 1995,
+      "marca": "Ford"
+    },
+    {
+      "vehicleId": "ford-mustang-3-8-v6-conv-1994-gasolina",
+      "fipeCodigo": "003180-1",
+      "displayName": "Ford Mustang 3.8 V6 Conv.",
+      "valorAtual": 74790,
+      "canonicalPath": "/fipe/ford/mustang-3-8-v6-conv-1994-003180-1/",
+      "ano": 1994,
+      "marca": "Ford"
+    },
+    {
+      "vehicleId": "ford-mustang-3-8-v6-conv-1995-gasolina",
+      "fipeCodigo": "003180-1",
+      "displayName": "Ford Mustang 3.8 V6 Conv.",
+      "valorAtual": 99964,
+      "canonicalPath": "/fipe/ford/mustang-3-8-v6-conv-1995-003180-1/",
+      "ano": 1995,
+      "marca": "Ford"
+    },
+    {
+      "vehicleId": "ford-mustang-cobra-5-7-v8-1995-gasolina",
+      "fipeCodigo": "003190-9",
+      "displayName": "Ford Mustang Cobra 5.7 V8",
+      "valorAtual": 125021,
+      "canonicalPath": "/fipe/ford/mustang-cobra-5-7-v8-1995-003190-9/",
+      "ano": 1995,
+      "marca": "Ford"
+    },
+    {
+      "vehicleId": "ford-mustang-gt-v8-1994-gasolina",
+      "fipeCodigo": "003083-0",
+      "displayName": "Ford Mustang GT V8",
+      "valorAtual": 121187,
+      "canonicalPath": "/fipe/ford/mustang-gt-v8-1994-003083-0/",
+      "ano": 1994,
+      "marca": "Ford"
+    },
+    {
+      "vehicleId": "ford-mustang-gt-v8-1995-gasolina",
+      "fipeCodigo": "003083-0",
+      "displayName": "Ford Mustang GT V8",
+      "valorAtual": 124821,
+      "canonicalPath": "/fipe/ford/mustang-gt-v8-1995-003083-0/",
+      "ano": 1995,
+      "marca": "Ford"
+    },
+    {
+      "vehicleId": "ford-mustang-gt-v8-conversivel-1994-gasolina",
+      "fipeCodigo": "003084-8",
+      "displayName": "Ford Mustang GT V8 Conversível",
+      "valorAtual": 133381,
+      "canonicalPath": "/fipe/ford/mustang-gt-v8-conversivel-1994-003084-8/",
+      "ano": 1994,
+      "marca": "Ford"
+    },
+    {
+      "vehicleId": "ford-mustang-gt-v8-conversivel-1995-gasolina",
+      "fipeCodigo": "003084-8",
+      "displayName": "Ford Mustang GT V8 Conversível",
+      "valorAtual": 153550,
+      "canonicalPath": "/fipe/ford/mustang-gt-v8-conversivel-1995-003084-8/",
+      "ano": 1995,
+      "marca": "Ford"
+    }
+  ],
+  "stats": {
+    "total": 9
+  },
+  "meta": {
+    "geracaoId": "mustang-2"
+  }
+}

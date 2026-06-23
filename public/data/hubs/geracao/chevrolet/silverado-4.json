@@ -1,0 +1,57 @@
+{
+  "tipo": "geracao",
+  "slug": "silverado-4",
+  "canonicalPath": "/geracao/chevrolet/silverado-4/",
+  "titulo": "Geracao silverado-4",
+  "descricao": "4 veiculos da geracao silverado-4.",
+  "seo": {
+    "title": "Geracao silverado-4 - Precos FIPE",
+    "description": "Veiculos da geracao silverado-4 na Tabela FIPE.",
+    "h1": "Geracao silverado-4",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/chevrolet/silverado-4/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "chevrolet-silverado-high-country-5-3-v8-awd-aut-2023-gasolina",
+      "fipeCodigo": "004547-0",
+      "displayName": "GM - Chevrolet Silverado High Country 5.3 V8 AWD Aut.",
+      "valorAtual": 383889,
+      "canonicalPath": "/fipe/chevrolet/silverado-high-country-5-3-v8-awd-aut-2023-004547-0/",
+      "ano": 2023,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-silverado-high-country-5-3-v8-awd-aut-2024-gasolina",
+      "fipeCodigo": "004547-0",
+      "displayName": "GM - Chevrolet Silverado High Country 5.3 V8 AWD Aut.",
+      "valorAtual": 395652,
+      "canonicalPath": "/fipe/chevrolet/silverado-high-country-5-3-v8-awd-aut-2024-004547-0/",
+      "ano": 2024,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-silverado-high-country-5-3-v8-awd-aut-2025-gasolina",
+      "fipeCodigo": "004547-0",
+      "displayName": "GM - Chevrolet Silverado High Country 5.3 V8 AWD Aut.",
+      "valorAtual": 424557,
+      "canonicalPath": "/fipe/chevrolet/silverado-high-country-5-3-v8-awd-aut-2025-004547-0/",
+      "ano": 2025,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-silverado-high-country-5-3-v8-awd-aut-2026-gasolina",
+      "fipeCodigo": "004547-0",
+      "displayName": "GM - Chevrolet Silverado High Country 5.3 V8 AWD Aut.",
+      "valorAtual": 441737,
+      "canonicalPath": "/fipe/chevrolet/silverado-high-country-5-3-v8-awd-aut-2026-004547-0/",
+      "ano": 2026,
+      "marca": "GM - Chevrolet"
+    }
+  ],
+  "stats": {
+    "total": 4
+  },
+  "meta": {
+    "geracaoId": "silverado-4"
+  }
+}

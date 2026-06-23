@@ -1,0 +1,51 @@
+{
+  "tipo": "familia",
+  "slug": "rio",
+  "canonicalPath": "/fipe/kia-motors/rio/",
+  "titulo": "Kia Motors rio - Tabela FIPE",
+  "descricao": "3 versoes e anos do Kia Motors rio na Tabela FIPE.",
+  "seo": {
+    "title": "Kia Motors rio - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes Kia Motors rio. 3 veiculos indexados.",
+    "h1": "Kia Motors rio - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/kia-motors/rio/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "kia-motors-rio-ex-1-6-flex-aut-2021-flex",
+      "fipeCodigo": "018094-7",
+      "displayName": "Kia Motors RIO EX 1.6 Flex Aut.",
+      "valorAtual": 79010,
+      "canonicalPath": "/fipe/kia-motors/rio-ex-1-6-flex-aut-2021-018094-7/",
+      "ano": 2021,
+      "marca": "Kia Motors"
+    },
+    {
+      "vehicleId": "kia-motors-rio-lx-1-6-flex-aut-2020-flex",
+      "fipeCodigo": "018095-5",
+      "displayName": "Kia Motors RIO LX 1.6 Flex Aut.",
+      "valorAtual": 61100,
+      "canonicalPath": "/fipe/kia-motors/rio-lx-1-6-flex-aut-2020-018095-5/",
+      "ano": 2020,
+      "marca": "Kia Motors"
+    },
+    {
+      "vehicleId": "kia-motors-rio-ex-1-6-flex-aut-2020-flex",
+      "fipeCodigo": "018094-7",
+      "displayName": "Kia Motors RIO EX 1.6 Flex Aut.",
+      "valorAtual": 65702,
+      "canonicalPath": "/fipe/kia-motors/rio-ex-1-6-flex-aut-2020-018094-7/",
+      "ano": 2020,
+      "marca": "Kia Motors"
+    }
+  ],
+  "stats": {
+    "total": 3,
+    "precoMin": 61100,
+    "precoMax": 79010,
+    "anos": [
+      2021,
+      2020
+    ]
+  }
+}

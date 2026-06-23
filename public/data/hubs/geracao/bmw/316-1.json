@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "316-1",
+  "canonicalPath": "/geracao/bmw/316-1/",
+  "titulo": "Geracao 316-1",
+  "descricao": "2 veiculos da geracao 316-1.",
+  "seo": {
+    "title": "Geracao 316-1 - Precos FIPE",
+    "description": "Veiculos da geracao 316-1 na Tabela FIPE.",
+    "h1": "Geracao 316-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/bmw/316-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "bmw-316-todas-1986-gasolina",
+      "fipeCodigo": "009059-0",
+      "displayName": "BMW 316 (todas)",
+      "valorAtual": 7892,
+      "canonicalPath": "/fipe/bmw/316-todas-1986-009059-0/",
+      "ano": 1986,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-316-todas-1987-gasolina",
+      "fipeCodigo": "009059-0",
+      "displayName": "BMW 316 (todas)",
+      "valorAtual": 8635,
+      "canonicalPath": "/fipe/bmw/316-todas-1987-009059-0/",
+      "ano": 1987,
+      "marca": "BMW"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "316-1"
+  }
+}

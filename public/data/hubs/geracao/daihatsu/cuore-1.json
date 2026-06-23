@@ -1,0 +1,129 @@
+{
+  "tipo": "geracao",
+  "slug": "cuore-1",
+  "canonicalPath": "/geracao/daihatsu/cuore-1/",
+  "titulo": "Geracao cuore-1",
+  "descricao": "12 veiculos da geracao cuore-1.",
+  "seo": {
+    "title": "Geracao cuore-1 - Precos FIPE",
+    "description": "Veiculos da geracao cuore-1 na Tabela FIPE.",
+    "h1": "Geracao cuore-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/daihatsu/cuore-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "daihatsu-cuore-0-ts0-85i-1995-gasolina",
+      "fipeCodigo": "012013-8",
+      "displayName": "Daihatsu Cuore 0/TS0 85i",
+      "valorAtual": 3575,
+      "canonicalPath": "/fipe/daihatsu/cuore-0-ts0-85i-1995-012013-8/",
+      "ano": 1995,
+      "marca": "Daihatsu"
+    },
+    {
+      "vehicleId": "daihatsu-cuore-0-ts0-85i-1996-gasolina",
+      "fipeCodigo": "012013-8",
+      "displayName": "Daihatsu Cuore 0/TS0 85i",
+      "valorAtual": 3665,
+      "canonicalPath": "/fipe/daihatsu/cuore-0-ts0-85i-1996-012013-8/",
+      "ano": 1996,
+      "marca": "Daihatsu"
+    },
+    {
+      "vehicleId": "daihatsu-cuore-0-ts0-85i-1997-gasolina",
+      "fipeCodigo": "012013-8",
+      "displayName": "Daihatsu Cuore 0/TS0 85i",
+      "valorAtual": 4243,
+      "canonicalPath": "/fipe/daihatsu/cuore-0-ts0-85i-1997-012013-8/",
+      "ano": 1997,
+      "marca": "Daihatsu"
+    },
+    {
+      "vehicleId": "daihatsu-cuore-0-ts0-85i-1998-gasolina",
+      "fipeCodigo": "012013-8",
+      "displayName": "Daihatsu Cuore 0/TS0 85i",
+      "valorAtual": 4752,
+      "canonicalPath": "/fipe/daihatsu/cuore-0-ts0-85i-1998-012013-8/",
+      "ano": 1998,
+      "marca": "Daihatsu"
+    },
+    {
+      "vehicleId": "daihatsu-cuore-0-ts0-85i-1999-gasolina",
+      "fipeCodigo": "012013-8",
+      "displayName": "Daihatsu Cuore 0/TS0 85i",
+      "valorAtual": 4871,
+      "canonicalPath": "/fipe/daihatsu/cuore-0-ts0-85i-1999-012013-8/",
+      "ano": 1999,
+      "marca": "Daihatsu"
+    },
+    {
+      "vehicleId": "daihatsu-cuore-cs-csl-1995-gasolina",
+      "fipeCodigo": "012003-0",
+      "displayName": "Daihatsu Cuore CS/CSL",
+      "valorAtual": 8780,
+      "canonicalPath": "/fipe/daihatsu/cuore-cs-csl-1995-012003-0/",
+      "ano": 1995,
+      "marca": "Daihatsu"
+    },
+    {
+      "vehicleId": "daihatsu-cuore-cs-csl-1996-gasolina",
+      "fipeCodigo": "012003-0",
+      "displayName": "Daihatsu Cuore CS/CSL",
+      "valorAtual": 9220,
+      "canonicalPath": "/fipe/daihatsu/cuore-cs-csl-1996-012003-0/",
+      "ano": 1996,
+      "marca": "Daihatsu"
+    },
+    {
+      "vehicleId": "daihatsu-cuore-cs-csl-1997-gasolina",
+      "fipeCodigo": "012003-0",
+      "displayName": "Daihatsu Cuore CS/CSL",
+      "valorAtual": 11617,
+      "canonicalPath": "/fipe/daihatsu/cuore-cs-csl-1997-012003-0/",
+      "ano": 1997,
+      "marca": "Daihatsu"
+    },
+    {
+      "vehicleId": "daihatsu-cuore-cs-csl-1998-gasolina",
+      "fipeCodigo": "012003-0",
+      "displayName": "Daihatsu Cuore CS/CSL",
+      "valorAtual": 12887,
+      "canonicalPath": "/fipe/daihatsu/cuore-cs-csl-1998-012003-0/",
+      "ano": 1998,
+      "marca": "Daihatsu"
+    },
+    {
+      "vehicleId": "daihatsu-cuore-ts-tsl-1995-gasolina",
+      "fipeCodigo": "012004-9",
+      "displayName": "Daihatsu Cuore TS/TSL",
+      "valorAtual": 5902,
+      "canonicalPath": "/fipe/daihatsu/cuore-ts-tsl-1995-012004-9/",
+      "ano": 1995,
+      "marca": "Daihatsu"
+    },
+    {
+      "vehicleId": "daihatsu-cuore-ts-tsl-1996-gasolina",
+      "fipeCodigo": "012004-9",
+      "displayName": "Daihatsu Cuore TS/TSL",
+      "valorAtual": 6210,
+      "canonicalPath": "/fipe/daihatsu/cuore-ts-tsl-1996-012004-9/",
+      "ano": 1996,
+      "marca": "Daihatsu"
+    },
+    {
+      "vehicleId": "daihatsu-cuore-ts-tsl-1997-gasolina",
+      "fipeCodigo": "012004-9",
+      "displayName": "Daihatsu Cuore TS/TSL",
+      "valorAtual": 7501,
+      "canonicalPath": "/fipe/daihatsu/cuore-ts-tsl-1997-012004-9/",
+      "ano": 1997,
+      "marca": "Daihatsu"
+    }
+  ],
+  "stats": {
+    "total": 12
+  },
+  "meta": {
+    "geracaoId": "cuore-1"
+  }
+}

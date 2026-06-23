@@ -1,0 +1,57 @@
+{
+  "tipo": "geracao",
+  "slug": "scoupe-1",
+  "canonicalPath": "/geracao/hyundai/scoupe-1/",
+  "titulo": "Geracao scoupe-1",
+  "descricao": "4 veiculos da geracao scoupe-1.",
+  "seo": {
+    "title": "Geracao scoupe-1 - Precos FIPE",
+    "description": "Veiculos da geracao scoupe-1 na Tabela FIPE.",
+    "h1": "Geracao scoupe-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/hyundai/scoupe-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "hyundai-scoupe-1992-gasolina",
+      "fipeCodigo": "015009-6",
+      "displayName": "Hyundai Scoupe",
+      "valorAtual": 4442,
+      "canonicalPath": "/fipe/hyundai/scoupe-1992-015009-6/",
+      "ano": 1992,
+      "marca": "Hyundai"
+    },
+    {
+      "vehicleId": "hyundai-scoupe-1993-gasolina",
+      "fipeCodigo": "015009-6",
+      "displayName": "Hyundai Scoupe",
+      "valorAtual": 4669,
+      "canonicalPath": "/fipe/hyundai/scoupe-1993-015009-6/",
+      "ano": 1993,
+      "marca": "Hyundai"
+    },
+    {
+      "vehicleId": "hyundai-scoupe-1994-gasolina",
+      "fipeCodigo": "015009-6",
+      "displayName": "Hyundai Scoupe",
+      "valorAtual": 4871,
+      "canonicalPath": "/fipe/hyundai/scoupe-1994-015009-6/",
+      "ano": 1994,
+      "marca": "Hyundai"
+    },
+    {
+      "vehicleId": "hyundai-scoupe-1995-gasolina",
+      "fipeCodigo": "015009-6",
+      "displayName": "Hyundai Scoupe",
+      "valorAtual": 5370,
+      "canonicalPath": "/fipe/hyundai/scoupe-1995-015009-6/",
+      "ano": 1995,
+      "marca": "Hyundai"
+    }
+  ],
+  "stats": {
+    "total": 4
+  },
+  "meta": {
+    "geracaoId": "scoupe-1"
+  }
+}

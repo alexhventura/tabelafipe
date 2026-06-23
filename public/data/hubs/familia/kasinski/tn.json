@@ -1,0 +1,42 @@
+{
+  "tipo": "familia",
+  "slug": "tn",
+  "canonicalPath": "/fipe/kasinski/tn/",
+  "titulo": "KASINSKI tn - Tabela FIPE",
+  "descricao": "2 versoes e anos do KASINSKI tn na Tabela FIPE.",
+  "seo": {
+    "title": "KASINSKI tn - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes KASINSKI tn. 2 veiculos indexados.",
+    "h1": "KASINSKI tn - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/kasinski/tn/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "kasinski-tn-125-1996-gasolina",
+      "fipeCodigo": "816007-4",
+      "displayName": "KASINSKI TN 125",
+      "valorAtual": 1800,
+      "canonicalPath": "/fipe/kasinski/tn-125-1996-816007-4/",
+      "ano": 1996,
+      "marca": "KASINSKI"
+    },
+    {
+      "vehicleId": "kasinski-tn-125-1995-gasolina",
+      "fipeCodigo": "816007-4",
+      "displayName": "KASINSKI TN 125",
+      "valorAtual": 1737,
+      "canonicalPath": "/fipe/kasinski/tn-125-1995-816007-4/",
+      "ano": 1995,
+      "marca": "KASINSKI"
+    }
+  ],
+  "stats": {
+    "total": 2,
+    "precoMin": 1737,
+    "precoMax": 1800,
+    "anos": [
+      1996,
+      1995
+    ]
+  }
+}

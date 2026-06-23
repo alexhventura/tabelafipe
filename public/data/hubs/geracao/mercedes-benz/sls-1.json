@@ -1,0 +1,75 @@
+{
+  "tipo": "geracao",
+  "slug": "sls-1",
+  "canonicalPath": "/geracao/mercedes-benz/sls-1/",
+  "titulo": "Geracao sls-1",
+  "descricao": "6 veiculos da geracao sls-1.",
+  "seo": {
+    "title": "Geracao sls-1 - Precos FIPE",
+    "description": "Veiculos da geracao sls-1 na Tabela FIPE.",
+    "h1": "Geracao sls-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/mercedes-benz/sls-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "mercedes-benz-sls-63-amg-6-2-8v-black-series-aut-2014-gasolina",
+      "fipeCodigo": "021303-9",
+      "displayName": "Mercedes-Benz SLS-63 AMG 6.2 8V Black Series Aut.",
+      "valorAtual": 1329912,
+      "canonicalPath": "/fipe/mercedes-benz/sls-63-amg-6-2-8v-black-series-aut-2014-021303-9/",
+      "ano": 2014,
+      "marca": "Mercedes-Benz"
+    },
+    {
+      "vehicleId": "mercedes-benz-sls-63-amg-6-2-v8-aut-2011-gasolina",
+      "fipeCodigo": "021247-4",
+      "displayName": "Mercedes-Benz SLS-63 AMG 6.2 V8 Aut.",
+      "valorAtual": 1649571,
+      "canonicalPath": "/fipe/mercedes-benz/sls-63-amg-6-2-v8-aut-2011-021247-4/",
+      "ano": 2011,
+      "marca": "Mercedes-Benz"
+    },
+    {
+      "vehicleId": "mercedes-benz-sls-63-amg-6-2-v8-aut-2012-gasolina",
+      "fipeCodigo": "021247-4",
+      "displayName": "Mercedes-Benz SLS-63 AMG 6.2 V8 Aut.",
+      "valorAtual": 1690811,
+      "canonicalPath": "/fipe/mercedes-benz/sls-63-amg-6-2-v8-aut-2012-021247-4/",
+      "ano": 2012,
+      "marca": "Mercedes-Benz"
+    },
+    {
+      "vehicleId": "mercedes-benz-sls-63-amg-6-2-v8-aut-2013-gasolina",
+      "fipeCodigo": "021247-4",
+      "displayName": "Mercedes-Benz SLS-63 AMG 6.2 V8 Aut.",
+      "valorAtual": 1733082,
+      "canonicalPath": "/fipe/mercedes-benz/sls-63-amg-6-2-v8-aut-2013-021247-4/",
+      "ano": 2013,
+      "marca": "Mercedes-Benz"
+    },
+    {
+      "vehicleId": "mercedes-benz-sls-63-amg-roadster-6-3-v8-aut-2012-gasolina",
+      "fipeCodigo": "021253-9",
+      "displayName": "Mercedes-Benz SLS-63 AMG Roadster 6.3 V8 Aut.",
+      "valorAtual": 1141822,
+      "canonicalPath": "/fipe/mercedes-benz/sls-63-amg-roadster-6-3-v8-aut-2012-021253-9/",
+      "ano": 2012,
+      "marca": "Mercedes-Benz"
+    },
+    {
+      "vehicleId": "mercedes-benz-sls-63-amg-roadster-6-3-v8-aut-2013-gasolina",
+      "fipeCodigo": "021253-9",
+      "displayName": "Mercedes-Benz SLS-63 AMG Roadster 6.3 V8 Aut.",
+      "valorAtual": 1170368,
+      "canonicalPath": "/fipe/mercedes-benz/sls-63-amg-roadster-6-3-v8-aut-2013-021253-9/",
+      "ano": 2013,
+      "marca": "Mercedes-Benz"
+    }
+  ],
+  "stats": {
+    "total": 6
+  },
+  "meta": {
+    "geracaoId": "sls-1"
+  }
+}

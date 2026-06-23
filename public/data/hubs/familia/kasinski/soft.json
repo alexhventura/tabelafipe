@@ -1,0 +1,42 @@
+{
+  "tipo": "familia",
+  "slug": "soft",
+  "canonicalPath": "/fipe/kasinski/soft/",
+  "titulo": "KASINSKI soft - Tabela FIPE",
+  "descricao": "2 versoes e anos do KASINSKI soft na Tabela FIPE.",
+  "seo": {
+    "title": "KASINSKI soft - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes KASINSKI soft. 2 veiculos indexados.",
+    "h1": "KASINSKI soft - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/kasinski/soft/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "kasinski-soft-50cc-2013-gasolina",
+      "fipeCodigo": "816031-7",
+      "displayName": "KASINSKI SOFT 50cc",
+      "valorAtual": 3394,
+      "canonicalPath": "/fipe/kasinski/soft-50cc-2013-816031-7/",
+      "ano": 2013,
+      "marca": "KASINSKI"
+    },
+    {
+      "vehicleId": "kasinski-soft-50cc-2011-gasolina",
+      "fipeCodigo": "816031-7",
+      "displayName": "KASINSKI SOFT 50cc",
+      "valorAtual": 2825,
+      "canonicalPath": "/fipe/kasinski/soft-50cc-2011-816031-7/",
+      "ano": 2011,
+      "marca": "KASINSKI"
+    }
+  ],
+  "stats": {
+    "total": 2,
+    "precoMin": 2825,
+    "precoMax": 3394,
+    "anos": [
+      2013,
+      2011
+    ]
+  }
+}

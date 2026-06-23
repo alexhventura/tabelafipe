@@ -1,0 +1,79 @@
+{
+  "tipo": "familia",
+  "slug": "eliminator",
+  "canonicalPath": "/fipe/kawasaki/eliminator/",
+  "titulo": "KAWASAKI eliminator - Tabela FIPE",
+  "descricao": "6 versoes e anos do KAWASAKI eliminator na Tabela FIPE.",
+  "seo": {
+    "title": "KAWASAKI eliminator - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes KAWASAKI eliminator. 6 veiculos indexados.",
+    "h1": "KAWASAKI eliminator - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/kawasaki/eliminator/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "kawasaki-eliminator-500-2026-gasolina",
+      "fipeCodigo": "817093-2",
+      "displayName": "KAWASAKI ELIMINATOR 500",
+      "valorAtual": 38232,
+      "canonicalPath": "/fipe/kawasaki/eliminator-500-2026-817093-2/",
+      "ano": 2026,
+      "marca": "KAWASAKI"
+    },
+    {
+      "vehicleId": "kawasaki-eliminator-500-se-2026-gasolina",
+      "fipeCodigo": "817092-4",
+      "displayName": "KAWASAKI ELIMINATOR 500 SE",
+      "valorAtual": 39203,
+      "canonicalPath": "/fipe/kawasaki/eliminator-500-se-2026-817092-4/",
+      "ano": 2026,
+      "marca": "KAWASAKI"
+    },
+    {
+      "vehicleId": "kawasaki-eliminator-500-2025-gasolina",
+      "fipeCodigo": "817093-2",
+      "displayName": "KAWASAKI ELIMINATOR 500",
+      "valorAtual": 37237,
+      "canonicalPath": "/fipe/kawasaki/eliminator-500-2025-817093-2/",
+      "ano": 2025,
+      "marca": "KAWASAKI"
+    },
+    {
+      "vehicleId": "kawasaki-eliminator-500-se-2025-gasolina",
+      "fipeCodigo": "817092-4",
+      "displayName": "KAWASAKI ELIMINATOR 500 SE",
+      "valorAtual": 38149,
+      "canonicalPath": "/fipe/kawasaki/eliminator-500-se-2025-817092-4/",
+      "ano": 2025,
+      "marca": "KAWASAKI"
+    },
+    {
+      "vehicleId": "kawasaki-eliminator-500-0-gasolina",
+      "fipeCodigo": "817093-2",
+      "displayName": "KAWASAKI ELIMINATOR 500",
+      "valorAtual": 41943,
+      "canonicalPath": "/fipe/kawasaki/eliminator-500-0-817093-2/",
+      "ano": 0,
+      "marca": "KAWASAKI"
+    },
+    {
+      "vehicleId": "kawasaki-eliminator-500-se-0-gasolina",
+      "fipeCodigo": "817092-4",
+      "displayName": "KAWASAKI ELIMINATOR 500 SE",
+      "valorAtual": 42921,
+      "canonicalPath": "/fipe/kawasaki/eliminator-500-se-0-817092-4/",
+      "ano": 0,
+      "marca": "KAWASAKI"
+    }
+  ],
+  "stats": {
+    "total": 6,
+    "precoMin": 37237,
+    "precoMax": 42921,
+    "anos": [
+      2026,
+      2025,
+      0
+    ]
+  }
+}

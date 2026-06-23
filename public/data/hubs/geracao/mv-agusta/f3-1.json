@@ -1,0 +1,48 @@
+{
+  "tipo": "geracao",
+  "slug": "f3-1",
+  "canonicalPath": "/geracao/mv-agusta/f3-1/",
+  "titulo": "Geracao f3-1",
+  "descricao": "3 veiculos da geracao f3-1.",
+  "seo": {
+    "title": "Geracao f3-1 - Precos FIPE",
+    "description": "Veiculos da geracao f3-1 na Tabela FIPE.",
+    "h1": "Geracao f3-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/mv-agusta/f3-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "mv-agusta-f3-800-2014-gasolina",
+      "fipeCodigo": "839014-2",
+      "displayName": "MV AGUSTA F3 800",
+      "valorAtual": 36478,
+      "canonicalPath": "/fipe/mv-agusta/f3-800-2014-839014-2/",
+      "ano": 2014,
+      "marca": "MV AGUSTA"
+    },
+    {
+      "vehicleId": "mv-agusta-f3-800-2015-gasolina",
+      "fipeCodigo": "839014-2",
+      "displayName": "MV AGUSTA F3 800",
+      "valorAtual": 39299,
+      "canonicalPath": "/fipe/mv-agusta/f3-800-2015-839014-2/",
+      "ano": 2015,
+      "marca": "MV AGUSTA"
+    },
+    {
+      "vehicleId": "mv-agusta-f3-800-2016-gasolina",
+      "fipeCodigo": "839014-2",
+      "displayName": "MV AGUSTA F3 800",
+      "valorAtual": 42701,
+      "canonicalPath": "/fipe/mv-agusta/f3-800-2016-839014-2/",
+      "ano": 2016,
+      "marca": "MV AGUSTA"
+    }
+  ],
+  "stats": {
+    "total": 3
+  },
+  "meta": {
+    "geracaoId": "f3-1"
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "tipo": "familia",
+  "slug": "570s",
+  "canonicalPath": "/fipe/mclaren/570s/",
+  "titulo": "Mclaren 570s - Tabela FIPE",
+  "descricao": "7 versoes e anos do Mclaren 570s na Tabela FIPE.",
+  "seo": {
+    "title": "Mclaren 570s - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes Mclaren 570s. 7 veiculos indexados.",
+    "h1": "Mclaren 570s - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/mclaren/570s/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "mclaren-570s-coupe-3-8-bi-turbo-v8-2019-gasolina",
+      "fipeCodigo": "090005-2",
+      "displayName": "Mclaren 570S Coupé 3.8 Bi-Turbo V8",
+      "valorAtual": 2014812,
+      "canonicalPath": "/fipe/mclaren/570s-coupe-3-8-bi-turbo-v8-2019-090005-2/",
+      "ano": 2019,
+      "marca": "Mclaren"
+    },
+    {
+      "vehicleId": "mclaren-570s-spider-3-8-bi-turbo-v8-2019-gasolina",
+      "fipeCodigo": "090002-8",
+      "displayName": "Mclaren 570S Spider 3.8 Bi-Turbo V8",
+      "valorAtual": 2061817,
+      "canonicalPath": "/fipe/mclaren/570s-spider-3-8-bi-turbo-v8-2019-090002-8/",
+      "ano": 2019,
+      "marca": "Mclaren"
+    },
+    {
+      "vehicleId": "mclaren-570s-gt-coupe-3-8-bi-turbo-v8-2019-gasolina",
+      "fipeCodigo": "090003-6",
+      "displayName": "Mclaren 570S GT Coupé 3.8 Bi-Turbo V8",
+      "valorAtual": 2069236,
+      "canonicalPath": "/fipe/mclaren/570s-gt-coupe-3-8-bi-turbo-v8-2019-090003-6/",
+      "ano": 2019,
+      "marca": "Mclaren"
+    },
+    {
+      "vehicleId": "mclaren-570s-coupe-3-8-bi-turbo-v8-2018-gasolina",
+      "fipeCodigo": "090005-2",
+      "displayName": "Mclaren 570S Coupé 3.8 Bi-Turbo V8",
+      "valorAtual": 1826122,
+      "canonicalPath": "/fipe/mclaren/570s-coupe-3-8-bi-turbo-v8-2018-090005-2/",
+      "ano": 2018,
+      "marca": "Mclaren"
+    },
+    {
+      "vehicleId": "mclaren-570s-gt-coupe-3-8-bi-turbo-v8-2018-gasolina",
+      "fipeCodigo": "090003-6",
+      "displayName": "Mclaren 570S GT Coupé 3.8 Bi-Turbo V8",
+      "valorAtual": 1965017,
+      "canonicalPath": "/fipe/mclaren/570s-gt-coupe-3-8-bi-turbo-v8-2018-090003-6/",
+      "ano": 2018,
+      "marca": "Mclaren"
+    },
+    {
+      "vehicleId": "mclaren-570s-spider-3-8-bi-turbo-v8-2018-gasolina",
+      "fipeCodigo": "090002-8",
+      "displayName": "Mclaren 570S Spider 3.8 Bi-Turbo V8",
+      "valorAtual": 2011528,
+      "canonicalPath": "/fipe/mclaren/570s-spider-3-8-bi-turbo-v8-2018-090002-8/",
+      "ano": 2018,
+      "marca": "Mclaren"
+    },
+    {
+      "vehicleId": "mclaren-570s-coupe-3-8-bi-turbo-v8-2017-gasolina",
+      "fipeCodigo": "090005-2",
+      "displayName": "Mclaren 570S Coupé 3.8 Bi-Turbo V8",
+      "valorAtual": 1578716,
+      "canonicalPath": "/fipe/mclaren/570s-coupe-3-8-bi-turbo-v8-2017-090005-2/",
+      "ano": 2017,
+      "marca": "Mclaren"
+    }
+  ],
+  "stats": {
+    "total": 7,
+    "precoMin": 1578716,
+    "precoMax": 2069236,
+    "anos": [
+      2019,
+      2018,
+      2017
+    ]
+  }
+}

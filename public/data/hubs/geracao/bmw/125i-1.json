@@ -1,0 +1,57 @@
+{
+  "tipo": "geracao",
+  "slug": "125i-1",
+  "canonicalPath": "/geracao/bmw/125i-1/",
+  "titulo": "Geracao 125i-1",
+  "descricao": "4 veiculos da geracao 125i-1.",
+  "seo": {
+    "title": "Geracao 125i-1 - Precos FIPE",
+    "description": "Veiculos da geracao 125i-1 na Tabela FIPE.",
+    "h1": "Geracao 125i-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/bmw/125i-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "bmw-125i-m-sport-active-flex-2-0-tb-aut-5p-2013-gasolina",
+      "fipeCodigo": "009176-6",
+      "displayName": "BMW 125i M Sport/Active Flex 2.0 TB Aut. 5p",
+      "valorAtual": 103741,
+      "canonicalPath": "/fipe/bmw/125i-m-sport-active-flex-2-0-tb-aut-5p-2013-009176-6/",
+      "ano": 2013,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-125i-m-sport-active-flex-2-0-tb-aut-5p-2014-gasolina",
+      "fipeCodigo": "009176-6",
+      "displayName": "BMW 125i M Sport/Active Flex 2.0 TB Aut. 5p",
+      "valorAtual": 108840,
+      "canonicalPath": "/fipe/bmw/125i-m-sport-active-flex-2-0-tb-aut-5p-2014-009176-6/",
+      "ano": 2014,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-125i-m-sport-active-flex-2-0-tb-aut-5p-2015-gasolina",
+      "fipeCodigo": "009176-6",
+      "displayName": "BMW 125i M Sport/Active Flex 2.0 TB Aut. 5p",
+      "valorAtual": 123679,
+      "canonicalPath": "/fipe/bmw/125i-m-sport-active-flex-2-0-tb-aut-5p-2015-009176-6/",
+      "ano": 2015,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-125i-m-sport-active-flex-2-0-tb-aut-5p-2016-gasolina",
+      "fipeCodigo": "009176-6",
+      "displayName": "BMW 125i M Sport/Active Flex 2.0 TB Aut. 5p",
+      "valorAtual": 137444,
+      "canonicalPath": "/fipe/bmw/125i-m-sport-active-flex-2-0-tb-aut-5p-2016-009176-6/",
+      "ano": 2016,
+      "marca": "BMW"
+    }
+  ],
+  "stats": {
+    "total": 4
+  },
+  "meta": {
+    "geracaoId": "125i-1"
+  }
+}

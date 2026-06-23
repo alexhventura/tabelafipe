@@ -1,0 +1,52 @@
+{
+  "tipo": "familia",
+  "slug": "gt",
+  "canonicalPath": "/fipe/nissan/gt/",
+  "titulo": "Nissan gt - Tabela FIPE",
+  "descricao": "3 versoes e anos do Nissan gt na Tabela FIPE.",
+  "seo": {
+    "title": "Nissan gt - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes Nissan gt. 3 veiculos indexados.",
+    "h1": "Nissan gt - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/nissan/gt/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "nissan-gt-r-3-8-v6-biturbo-aut-2019-gasolina",
+      "fipeCodigo": "023151-7",
+      "displayName": "Nissan GT-R 3.8 V6 BiTurbo Aut.",
+      "valorAtual": 1413922,
+      "canonicalPath": "/fipe/nissan/gt-r-3-8-v6-biturbo-aut-2019-023151-7/",
+      "ano": 2019,
+      "marca": "Nissan"
+    },
+    {
+      "vehicleId": "nissan-gt-r-3-8-v6-biturbo-aut-2017-gasolina",
+      "fipeCodigo": "023151-7",
+      "displayName": "Nissan GT-R 3.8 V6 BiTurbo Aut.",
+      "valorAtual": 1060775,
+      "canonicalPath": "/fipe/nissan/gt-r-3-8-v6-biturbo-aut-2017-023151-7/",
+      "ano": 2017,
+      "marca": "Nissan"
+    },
+    {
+      "vehicleId": "nissan-gt-r-3-8-v6-biturbo-aut-2016-gasolina",
+      "fipeCodigo": "023151-7",
+      "displayName": "Nissan GT-R 3.8 V6 BiTurbo Aut.",
+      "valorAtual": 833863,
+      "canonicalPath": "/fipe/nissan/gt-r-3-8-v6-biturbo-aut-2016-023151-7/",
+      "ano": 2016,
+      "marca": "Nissan"
+    }
+  ],
+  "stats": {
+    "total": 3,
+    "precoMin": 833863,
+    "precoMax": 1413922,
+    "anos": [
+      2019,
+      2017,
+      2016
+    ]
+  }
+}

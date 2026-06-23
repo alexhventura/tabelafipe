@@ -1,0 +1,62 @@
+{
+  "tipo": "familia",
+  "slug": "cargo",
+  "canonicalPath": "/fipe/lifan/cargo/",
+  "titulo": "LIFAN cargo - Tabela FIPE",
+  "descricao": "4 versoes e anos do LIFAN cargo na Tabela FIPE.",
+  "seo": {
+    "title": "LIFAN cargo - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes LIFAN cargo. 4 veiculos indexados.",
+    "h1": "LIFAN cargo - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/lifan/cargo/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "lifan-cargo-200-zh-triciclo-carga-2011-gasolina",
+      "fipeCodigo": "876001-2",
+      "displayName": "LIFAN CARGO 200 ZH (triciclo carga)",
+      "valorAtual": 7332,
+      "canonicalPath": "/fipe/lifan/cargo-200-zh-triciclo-carga-2011-876001-2/",
+      "ano": 2011,
+      "marca": "LIFAN"
+    },
+    {
+      "vehicleId": "lifan-cargo-200-zh-triciclo-carga-2010-gasolina",
+      "fipeCodigo": "876001-2",
+      "displayName": "LIFAN CARGO 200 ZH (triciclo carga)",
+      "valorAtual": 7153,
+      "canonicalPath": "/fipe/lifan/cargo-200-zh-triciclo-carga-2010-876001-2/",
+      "ano": 2010,
+      "marca": "LIFAN"
+    },
+    {
+      "vehicleId": "lifan-cargo-200-zh-triciclo-carga-2009-gasolina",
+      "fipeCodigo": "876001-2",
+      "displayName": "LIFAN CARGO 200 ZH (triciclo carga)",
+      "valorAtual": 6945,
+      "canonicalPath": "/fipe/lifan/cargo-200-zh-triciclo-carga-2009-876001-2/",
+      "ano": 2009,
+      "marca": "LIFAN"
+    },
+    {
+      "vehicleId": "lifan-cargo-200-zh-triciclo-carga-2008-gasolina",
+      "fipeCodigo": "876001-2",
+      "displayName": "LIFAN CARGO 200 ZH (triciclo carga)",
+      "valorAtual": 6014,
+      "canonicalPath": "/fipe/lifan/cargo-200-zh-triciclo-carga-2008-876001-2/",
+      "ano": 2008,
+      "marca": "LIFAN"
+    }
+  ],
+  "stats": {
+    "total": 4,
+    "precoMin": 6014,
+    "precoMax": 7332,
+    "anos": [
+      2011,
+      2010,
+      2009,
+      2008
+    ]
+  }
+}

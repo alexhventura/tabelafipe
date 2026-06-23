@@ -1,0 +1,62 @@
+{
+  "tipo": "familia",
+  "slug": "mr",
+  "canonicalPath": "/fipe/toyota/mr/",
+  "titulo": "Toyota mr - Tabela FIPE",
+  "descricao": "4 versoes e anos do Toyota mr na Tabela FIPE.",
+  "seo": {
+    "title": "Toyota mr - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes Toyota mr. 4 veiculos indexados.",
+    "h1": "Toyota mr - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/toyota/mr/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "toyota-mr-2-turbo-2-0-1994-gasolina",
+      "fipeCodigo": "002055-9",
+      "displayName": "Toyota MR-2 Turbo 2.0",
+      "valorAtual": 34371,
+      "canonicalPath": "/fipe/toyota/mr-2-turbo-2-0-1994-002055-9/",
+      "ano": 1994,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-mr-2-turbo-2-0-1993-gasolina",
+      "fipeCodigo": "002055-9",
+      "displayName": "Toyota MR-2 Turbo 2.0",
+      "valorAtual": 29992,
+      "canonicalPath": "/fipe/toyota/mr-2-turbo-2-0-1993-002055-9/",
+      "ano": 1993,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-mr-2-turbo-2-0-1992-gasolina",
+      "fipeCodigo": "002055-9",
+      "displayName": "Toyota MR-2 Turbo 2.0",
+      "valorAtual": 28833,
+      "canonicalPath": "/fipe/toyota/mr-2-turbo-2-0-1992-002055-9/",
+      "ano": 1992,
+      "marca": "Toyota"
+    },
+    {
+      "vehicleId": "toyota-mr-2-turbo-2-0-1991-gasolina",
+      "fipeCodigo": "002055-9",
+      "displayName": "Toyota MR-2 Turbo 2.0",
+      "valorAtual": 26425,
+      "canonicalPath": "/fipe/toyota/mr-2-turbo-2-0-1991-002055-9/",
+      "ano": 1991,
+      "marca": "Toyota"
+    }
+  ],
+  "stats": {
+    "total": 4,
+    "precoMin": 26425,
+    "precoMax": 34371,
+    "anos": [
+      1994,
+      1993,
+      1992,
+      1991
+    ]
+  }
+}

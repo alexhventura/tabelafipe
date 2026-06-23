@@ -1,0 +1,57 @@
+{
+  "tipo": "geracao",
+  "slug": "ducato-1",
+  "canonicalPath": "/geracao/fiat/ducato-1/",
+  "titulo": "Geracao ducato-1",
+  "descricao": "4 veiculos da geracao ducato-1.",
+  "seo": {
+    "title": "Geracao ducato-1 - Precos FIPE",
+    "description": "Veiculos da geracao ducato-1 na Tabela FIPE.",
+    "h1": "Geracao ducato-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/fiat/ducato-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "fiat-ducato-cargo-2-2-diesel-e6-0-diesel",
+      "fipeCodigo": "001563-6",
+      "displayName": "Fiat Ducato Cargo 2.2 Diesel (E6)",
+      "valorAtual": 281873,
+      "canonicalPath": "/fipe/fiat/ducato-cargo-2-2-diesel-e6-0-001563-6/",
+      "ano": 0,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-ducato-maxicargo-2-2-diesel-e6-0-diesel",
+      "fipeCodigo": "001564-4",
+      "displayName": "Fiat Ducato MaxiCargo 2.2 Diesel (E6)",
+      "valorAtual": 292244,
+      "canonicalPath": "/fipe/fiat/ducato-maxicargo-2-2-diesel-e6-0-001564-4/",
+      "ano": 0,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-ducato-minibus-2-2-comfort18l-e6-0-diesel",
+      "fipeCodigo": "001593-8",
+      "displayName": "Fiat Ducato Minibus 2.2 Comfort18L (E6)",
+      "valorAtual": 356665,
+      "canonicalPath": "/fipe/fiat/ducato-minibus-2-2-comfort18l-e6-0-001593-8/",
+      "ano": 0,
+      "marca": "Fiat"
+    },
+    {
+      "vehicleId": "fiat-ducato-minibus-2-2-luxo-16l-e6-0-diesel",
+      "fipeCodigo": "001594-6",
+      "displayName": "Fiat Ducato Minibus 2.2 Luxo 16L (E6)",
+      "valorAtual": 365371,
+      "canonicalPath": "/fipe/fiat/ducato-minibus-2-2-luxo-16l-e6-0-001594-6/",
+      "ano": 0,
+      "marca": "Fiat"
+    }
+  ],
+  "stats": {
+    "total": 4
+  },
+  "meta": {
+    "geracaoId": "ducato-1"
+  }
+}

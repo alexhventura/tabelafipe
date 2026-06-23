@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "wey-2",
+  "canonicalPath": "/geracao/gwm/wey-2/",
+  "titulo": "Geracao wey-2",
+  "descricao": "2 veiculos da geracao wey-2.",
+  "seo": {
+    "title": "Geracao wey-2 - Precos FIPE",
+    "description": "Veiculos da geracao wey-2 na Tabela FIPE.",
+    "h1": "Geracao wey-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/gwm/wey-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "gwm-wey-07-1-5-turbo-awd-2026-hibrido",
+      "fipeCodigo": "096015-2",
+      "displayName": "GWM Wey 07 1.5 Turbo AWD",
+      "valorAtual": 407346,
+      "canonicalPath": "/fipe/gwm/wey-07-1-5-turbo-awd-2026-096015-2/",
+      "ano": 2026,
+      "marca": "GWM"
+    },
+    {
+      "vehicleId": "gwm-wey-07-1-5-turbo-awd-2027-hibrido",
+      "fipeCodigo": "096015-2",
+      "displayName": "GWM Wey 07 1.5 Turbo AWD",
+      "valorAtual": 418236,
+      "canonicalPath": "/fipe/gwm/wey-07-1-5-turbo-awd-2027-096015-2/",
+      "ano": 2027,
+      "marca": "GWM"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "wey-2"
+  }
+}

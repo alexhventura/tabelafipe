@@ -1,0 +1,80 @@
+{
+  "tipo": "familia",
+  "slug": "eqa",
+  "canonicalPath": "/fipe/mercedes-benz/eqa/",
+  "titulo": "Mercedes-Benz eqa - Tabela FIPE",
+  "descricao": "6 versoes e anos do Mercedes-Benz eqa na Tabela FIPE.",
+  "seo": {
+    "title": "Mercedes-Benz eqa - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes Mercedes-Benz eqa. 6 veiculos indexados.",
+    "h1": "Mercedes-Benz eqa - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/mercedes-benz/eqa/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "mercedes-benz-eqa-250-eletrico-2025-eletrico",
+      "fipeCodigo": "021484-1",
+      "displayName": "Mercedes-Benz EQA 250 (Elétrico)",
+      "valorAtual": 301084,
+      "canonicalPath": "/fipe/mercedes-benz/eqa-250-eletrico-2025-021484-1/",
+      "ano": 2025,
+      "marca": "Mercedes-Benz"
+    },
+    {
+      "vehicleId": "mercedes-benz-eqa-250-amg-line-eletrico-2025-eletrico",
+      "fipeCodigo": "021538-4",
+      "displayName": "Mercedes-Benz EQA 250 AMG Line (Elétrico)",
+      "valorAtual": 314421,
+      "canonicalPath": "/fipe/mercedes-benz/eqa-250-amg-line-eletrico-2025-021538-4/",
+      "ano": 2025,
+      "marca": "Mercedes-Benz"
+    },
+    {
+      "vehicleId": "mercedes-benz-eqa-250-eletrico-2024-eletrico",
+      "fipeCodigo": "021484-1",
+      "displayName": "Mercedes-Benz EQA 250 (Elétrico)",
+      "valorAtual": 291521,
+      "canonicalPath": "/fipe/mercedes-benz/eqa-250-eletrico-2024-021484-1/",
+      "ano": 2024,
+      "marca": "Mercedes-Benz"
+    },
+    {
+      "vehicleId": "mercedes-benz-eqa-250-eletrico-2023-eletrico",
+      "fipeCodigo": "021484-1",
+      "displayName": "Mercedes-Benz EQA 250 (Elétrico)",
+      "valorAtual": 267191,
+      "canonicalPath": "/fipe/mercedes-benz/eqa-250-eletrico-2023-021484-1/",
+      "ano": 2023,
+      "marca": "Mercedes-Benz"
+    },
+    {
+      "vehicleId": "mercedes-benz-eqa-250-eletrico-0-eletrico",
+      "fipeCodigo": "021484-1",
+      "displayName": "Mercedes-Benz EQA 250 (Elétrico)",
+      "valorAtual": 376196,
+      "canonicalPath": "/fipe/mercedes-benz/eqa-250-eletrico-0-021484-1/",
+      "ano": 0,
+      "marca": "Mercedes-Benz"
+    },
+    {
+      "vehicleId": "mercedes-benz-eqa-250-amg-line-eletrico-0-eletrico",
+      "fipeCodigo": "021538-4",
+      "displayName": "Mercedes-Benz EQA 250 AMG Line (Elétrico)",
+      "valorAtual": 399139,
+      "canonicalPath": "/fipe/mercedes-benz/eqa-250-amg-line-eletrico-0-021538-4/",
+      "ano": 0,
+      "marca": "Mercedes-Benz"
+    }
+  ],
+  "stats": {
+    "total": 6,
+    "precoMin": 267191,
+    "precoMax": 399139,
+    "anos": [
+      2025,
+      2024,
+      2023,
+      0
+    ]
+  }
+}

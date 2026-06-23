@@ -1,0 +1,84 @@
+{
+  "tipo": "geracao",
+  "slug": "v-2",
+  "canonicalPath": "/geracao/yamaha/v-2/",
+  "titulo": "Geracao v-2",
+  "descricao": "7 veiculos da geracao v-2.",
+  "seo": {
+    "title": "Geracao v-2 - Precos FIPE",
+    "description": "Veiculos da geracao v-2 na Tabela FIPE.",
+    "h1": "Geracao v-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/yamaha/v-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "yamaha-v-max-1700-2014-gasolina",
+      "fipeCodigo": "827090-2",
+      "displayName": "YAMAHA V-MAX 1700",
+      "valorAtual": 152601,
+      "canonicalPath": "/fipe/yamaha/v-max-1700-2014-827090-2/",
+      "ano": 2014,
+      "marca": "YAMAHA"
+    },
+    {
+      "vehicleId": "yamaha-v-max-1700-2015-gasolina",
+      "fipeCodigo": "827090-2",
+      "displayName": "YAMAHA V-MAX 1700",
+      "valorAtual": 157314,
+      "canonicalPath": "/fipe/yamaha/v-max-1700-2015-827090-2/",
+      "ano": 2015,
+      "marca": "YAMAHA"
+    },
+    {
+      "vehicleId": "zontes-v-310-2023-gasolina",
+      "fipeCodigo": "895002-4",
+      "displayName": "ZONTES V 310",
+      "valorAtual": 22459,
+      "canonicalPath": "/fipe/zontes/v-310-2023-895002-4/",
+      "ano": 2023,
+      "marca": "ZONTES"
+    },
+    {
+      "vehicleId": "zontes-v-310-2024-gasolina",
+      "fipeCodigo": "895002-4",
+      "displayName": "ZONTES V 310",
+      "valorAtual": 24572,
+      "canonicalPath": "/fipe/zontes/v-310-2024-895002-4/",
+      "ano": 2024,
+      "marca": "ZONTES"
+    },
+    {
+      "vehicleId": "zontes-v-350-2025-gasolina",
+      "fipeCodigo": "895008-3",
+      "displayName": "ZONTES V 350",
+      "valorAtual": 27596,
+      "canonicalPath": "/fipe/zontes/v-350-2025-895008-3/",
+      "ano": 2025,
+      "marca": "ZONTES"
+    },
+    {
+      "vehicleId": "zontes-v-350-2026-gasolina",
+      "fipeCodigo": "895008-3",
+      "displayName": "ZONTES V 350",
+      "valorAtual": 29003,
+      "canonicalPath": "/fipe/zontes/v-350-2026-895008-3/",
+      "ano": 2026,
+      "marca": "ZONTES"
+    },
+    {
+      "vehicleId": "zontes-v-350-2027-gasolina",
+      "fipeCodigo": "895008-3",
+      "displayName": "ZONTES V 350",
+      "valorAtual": 30487,
+      "canonicalPath": "/fipe/zontes/v-350-2027-895008-3/",
+      "ano": 2027,
+      "marca": "ZONTES"
+    }
+  ],
+  "stats": {
+    "total": 7
+  },
+  "meta": {
+    "geracaoId": "v-2"
+  }
+}

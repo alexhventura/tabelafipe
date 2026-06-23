@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "concours14-2",
+  "canonicalPath": "/geracao/kawasaki/concours14-2/",
+  "titulo": "Geracao concours14-2",
+  "descricao": "2 veiculos da geracao concours14-2.",
+  "seo": {
+    "title": "Geracao concours14-2 - Precos FIPE",
+    "description": "Veiculos da geracao concours14-2 na Tabela FIPE.",
+    "h1": "Geracao concours14-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/kawasaki/concours14-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "kawasaki-concours14-1352cc-2012-gasolina",
+      "fipeCodigo": "817044-4",
+      "displayName": "KAWASAKI CONCOURS14 1352cc",
+      "valorAtual": 43782,
+      "canonicalPath": "/fipe/kawasaki/concours14-1352cc-2012-817044-4/",
+      "ano": 2012,
+      "marca": "KAWASAKI"
+    },
+    {
+      "vehicleId": "kawasaki-concours14-1352cc-2013-gasolina",
+      "fipeCodigo": "817044-4",
+      "displayName": "KAWASAKI CONCOURS14 1352cc",
+      "valorAtual": 46569,
+      "canonicalPath": "/fipe/kawasaki/concours14-1352cc-2013-817044-4/",
+      "ano": 2013,
+      "marca": "KAWASAKI"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "concours14-2"
+  }
+}

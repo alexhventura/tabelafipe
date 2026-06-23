@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "avenger-1",
+  "canonicalPath": "/geracao/dodge/avenger-1/",
+  "titulo": "Geracao avenger-1",
+  "descricao": "2 veiculos da geracao avenger-1.",
+  "seo": {
+    "title": "Geracao avenger-1 - Precos FIPE",
+    "description": "Veiculos da geracao avenger-1 na Tabela FIPE.",
+    "h1": "Geracao avenger-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/dodge/avenger-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "dodge-avenger-es-2-0-2-5-16v-1994-gasolina",
+      "fipeCodigo": "013010-9",
+      "displayName": "Dodge Avenger ES 2.0/2.5 16V",
+      "valorAtual": 9386,
+      "canonicalPath": "/fipe/dodge/avenger-es-2-0-2-5-16v-1994-013010-9/",
+      "ano": 1994,
+      "marca": "Dodge"
+    },
+    {
+      "vehicleId": "dodge-avenger-es-2-0-2-5-16v-1995-gasolina",
+      "fipeCodigo": "013010-9",
+      "displayName": "Dodge Avenger ES 2.0/2.5 16V",
+      "valorAtual": 10206,
+      "canonicalPath": "/fipe/dodge/avenger-es-2-0-2-5-16v-1995-013010-9/",
+      "ano": 1995,
+      "marca": "Dodge"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "avenger-1"
+  }
+}

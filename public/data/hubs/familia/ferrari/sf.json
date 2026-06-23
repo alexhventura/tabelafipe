@@ -1,0 +1,70 @@
+{
+  "tipo": "familia",
+  "slug": "sf",
+  "canonicalPath": "/fipe/ferrari/sf/",
+  "titulo": "Ferrari sf - Tabela FIPE",
+  "descricao": "5 versoes e anos do Ferrari sf na Tabela FIPE.",
+  "seo": {
+    "title": "Ferrari sf - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes Ferrari sf. 5 veiculos indexados.",
+    "h1": "Ferrari sf - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/ferrari/sf/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "ferrari-sf-90-stradale-4-0-v8-bi-turbo-hibrido-2023-hibrido",
+      "fipeCodigo": "031049-2",
+      "displayName": "Ferrari SF 90 STRADALE 4.0 V8 Bi-Turbo (Híbrido)",
+      "valorAtual": 5338228,
+      "canonicalPath": "/fipe/ferrari/sf-90-stradale-4-0-v8-bi-turbo-hibrido-2023-031049-2/",
+      "ano": 2023,
+      "marca": "Ferrari"
+    },
+    {
+      "vehicleId": "ferrari-sf-90-spider-4-0-v8-bi-turbo-hibrido-2023-hibrido",
+      "fipeCodigo": "031053-0",
+      "displayName": "Ferrari SF 90 SPIDER 4.0 V8 Bi-Turbo (Híbrido)",
+      "valorAtual": 7127644,
+      "canonicalPath": "/fipe/ferrari/sf-90-spider-4-0-v8-bi-turbo-hibrido-2023-031053-0/",
+      "ano": 2023,
+      "marca": "Ferrari"
+    },
+    {
+      "vehicleId": "ferrari-sf-90-stradale-4-0-v8-bi-turbo-hibrido-2022-hibrido",
+      "fipeCodigo": "031049-2",
+      "displayName": "Ferrari SF 90 STRADALE 4.0 V8 Bi-Turbo (Híbrido)",
+      "valorAtual": 5182746,
+      "canonicalPath": "/fipe/ferrari/sf-90-stradale-4-0-v8-bi-turbo-hibrido-2022-031049-2/",
+      "ano": 2022,
+      "marca": "Ferrari"
+    },
+    {
+      "vehicleId": "ferrari-sf-90-spider-4-0-v8-bi-turbo-hibrido-2022-hibrido",
+      "fipeCodigo": "031053-0",
+      "displayName": "Ferrari SF 90 SPIDER 4.0 V8 Bi-Turbo (Híbrido)",
+      "valorAtual": 5868500,
+      "canonicalPath": "/fipe/ferrari/sf-90-spider-4-0-v8-bi-turbo-hibrido-2022-031053-0/",
+      "ano": 2022,
+      "marca": "Ferrari"
+    },
+    {
+      "vehicleId": "ferrari-sf-90-stradale-4-0-v8-bi-turbo-hibrido-2021-hibrido",
+      "fipeCodigo": "031049-2",
+      "displayName": "Ferrari SF 90 STRADALE 4.0 V8 Bi-Turbo (Híbrido)",
+      "valorAtual": 4211288,
+      "canonicalPath": "/fipe/ferrari/sf-90-stradale-4-0-v8-bi-turbo-hibrido-2021-031049-2/",
+      "ano": 2021,
+      "marca": "Ferrari"
+    }
+  ],
+  "stats": {
+    "total": 5,
+    "precoMin": 4211288,
+    "precoMax": 7127644,
+    "anos": [
+      2023,
+      2022,
+      2021
+    ]
+  }
+}

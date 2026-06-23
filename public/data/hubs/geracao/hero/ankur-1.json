@@ -1,0 +1,57 @@
+{
+  "tipo": "geracao",
+  "slug": "ankur-1",
+  "canonicalPath": "/geracao/hero/ankur-1/",
+  "titulo": "Geracao ankur-1",
+  "descricao": "4 veiculos da geracao ankur-1.",
+  "seo": {
+    "title": "Geracao ankur-1 - Precos FIPE",
+    "description": "Veiculos da geracao ankur-1 na Tabela FIPE.",
+    "h1": "Geracao ankur-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/hero/ankur-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "hero-ankur-50-1995-gasolina",
+      "fipeCodigo": "841003-8",
+      "displayName": "HERO ANKUR 50",
+      "valorAtual": 952,
+      "canonicalPath": "/fipe/hero/ankur-50-1995-841003-8/",
+      "ano": 1995,
+      "marca": "HERO"
+    },
+    {
+      "vehicleId": "hero-ankur-50-1996-gasolina",
+      "fipeCodigo": "841003-8",
+      "displayName": "HERO ANKUR 50",
+      "valorAtual": 978,
+      "canonicalPath": "/fipe/hero/ankur-50-1996-841003-8/",
+      "ano": 1996,
+      "marca": "HERO"
+    },
+    {
+      "vehicleId": "hero-ankur-50-1997-gasolina",
+      "fipeCodigo": "841003-8",
+      "displayName": "HERO ANKUR 50",
+      "valorAtual": 1004,
+      "canonicalPath": "/fipe/hero/ankur-50-1997-841003-8/",
+      "ano": 1997,
+      "marca": "HERO"
+    },
+    {
+      "vehicleId": "hero-ankur-50-1998-gasolina",
+      "fipeCodigo": "841003-8",
+      "displayName": "HERO ANKUR 50",
+      "valorAtual": 1030,
+      "canonicalPath": "/fipe/hero/ankur-50-1998-841003-8/",
+      "ano": 1998,
+      "marca": "HERO"
+    }
+  ],
+  "stats": {
+    "total": 4
+  },
+  "meta": {
+    "geracaoId": "ankur-1"
+  }
+}

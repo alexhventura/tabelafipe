@@ -1,0 +1,42 @@
+{
+  "tipo": "familia",
+  "slug": "998",
+  "canonicalPath": "/fipe/ducati/998/",
+  "titulo": "DUCATI 998 - Tabela FIPE",
+  "descricao": "2 versoes e anos do DUCATI 998 na Tabela FIPE.",
+  "seo": {
+    "title": "DUCATI 998 - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes DUCATI 998. 2 veiculos indexados.",
+    "h1": "DUCATI 998 - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/ducati/998/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "ducati-998-997cc-2003-gasolina",
+      "fipeCodigo": "808010-0",
+      "displayName": "DUCATI 998 997cc",
+      "valorAtual": 37796,
+      "canonicalPath": "/fipe/ducati/998-997cc-2003-808010-0/",
+      "ano": 2003,
+      "marca": "DUCATI"
+    },
+    {
+      "vehicleId": "ducati-998-997cc-2002-gasolina",
+      "fipeCodigo": "808010-0",
+      "displayName": "DUCATI 998 997cc",
+      "valorAtual": 36874,
+      "canonicalPath": "/fipe/ducati/998-997cc-2002-808010-0/",
+      "ano": 2002,
+      "marca": "DUCATI"
+    }
+  ],
+  "stats": {
+    "total": 2,
+    "precoMin": 36874,
+    "precoMax": 37796,
+    "anos": [
+      2003,
+      2002
+    ]
+  }
+}

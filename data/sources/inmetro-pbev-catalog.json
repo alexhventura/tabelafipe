@@ -1,0 +1,243 @@
+{
+  "geradoEm": "2026-06-21",
+  "fonteOficial": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular",
+  "formatoOficial": "PDF",
+  "observacao": "INMETRO nao publica CSV/XLSX nativo. Pipeline extrai tabelas dos PDFs oficiais.",
+  "edicoes": [
+    {
+      "id": "pbev-tabela-pbev-2026-3-jun-1",
+      "arquivo": "Tabela PBEV 2026_3_JUN-1.pdf",
+      "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf/@@download/file",
+      "prioridade": 1
+    },
+    {
+      "id": "pbev-m-scara-pbev-2025-24-nov-2025-4-1-",
+      "arquivo": "MÁSCARA-PBEV-2025-24-NOV-2025 (4) (1).pdf",
+      "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2025-mar-11.pdf/@@download/file",
+      "prioridade": 2
+    },
+    {
+      "id": "pbev-mascara-pbev-2024-4-out-7-",
+      "arquivo": "Mascara PBEV 2024-4-OUT (7).pdf",
+      "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/pbe-veicular-2024-1.pdf/@@download/file",
+      "prioridade": 3
+    },
+    {
+      "id": "pbev-pbev-11-2023",
+      "arquivo": "PBEV 11.2023.pdf",
+      "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/pbe-veicular-2023.pdf/@@download/file",
+      "prioridade": 4
+    },
+    {
+      "id": "pbev-pbe-veicular-2022",
+      "arquivo": "pbe-veicular-2022.pdf",
+      "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/pbe-veicular-2022.pdf/@@download/file",
+      "prioridade": 5
+    },
+    {
+      "id": "pbev-pbe-veicular-2021",
+      "arquivo": "pbe-veicular-2021.pdf",
+      "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/veiculos-leves-2021/@@download/file",
+      "prioridade": 6
+    },
+    {
+      "id": "pbev-veiculos-leves-2020",
+      "arquivo": "veiculos_leves_2020.pdf",
+      "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/veiculos-leves-2020/@@download/file",
+      "prioridade": 7
+    },
+    {
+      "id": "pbev-veiculos-leves-2019",
+      "arquivo": "veiculos_leves_2019.pdf",
+      "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/veiculos-leves-2019/@@download/file",
+      "prioridade": 8
+    },
+    {
+      "id": "pbev-veiculos-leves-2018",
+      "arquivo": "veiculos_leves_2018.pdf",
+      "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/veiculos-leves-2018/@@download/file",
+      "prioridade": 9
+    },
+    {
+      "id": "pbev-veiculos-leves-2017",
+      "arquivo": "veiculos_leves_2017.pdf",
+      "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/veiculos-leves-2017/@@download/file",
+      "prioridade": 10
+    },
+    {
+      "id": "pbev-veiculos-leves-2016",
+      "arquivo": "veiculos_leves_2016.pdf",
+      "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/veiculos-leves-2016/@@download/file",
+      "prioridade": 11
+    },
+    {
+      "id": "pbev-veiculos-leves-2015",
+      "arquivo": "veiculos_leves_2015.pdf",
+      "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/veiculos-leves-2015/@@download/file",
+      "prioridade": 12
+    },
+    {
+      "id": "pbev-veiculos-leves-2014",
+      "arquivo": "veiculos_leves_2014.pdf",
+      "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/veiculos-leves-2014/@@download/file",
+      "prioridade": 13
+    },
+    {
+      "id": "pbev-veiculos-leves-2013",
+      "arquivo": "veiculos_leves_2013.pdf",
+      "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/veiculos-leves-2013/@@download/file",
+      "prioridade": 14
+    },
+    {
+      "id": "pbev-veiculos-leves-2012",
+      "arquivo": "veiculos_leves_2012.pdf",
+      "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/veiculos-leves-2012/@@download/file",
+      "prioridade": 15
+    },
+    {
+      "id": "pbev-veiculos-leves-2011",
+      "arquivo": "veiculos_leves_2011.pdf",
+      "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/veiculos-leves-2011/@@download/file",
+      "prioridade": 16
+    },
+    {
+      "id": "pbev-veiculos-leves-2010",
+      "arquivo": "veiculos_leves_2010.pdf",
+      "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/veiculos-leves-2010/@@download/file",
+      "prioridade": 17
+    },
+    {
+      "id": "pbev-veiculos-leves",
+      "arquivo": "veiculos_leves.pdf",
+      "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/veiculos-leves-2009/@@download/file",
+      "prioridade": 18
+    },
+    {
+      "id": "pbev-metodologia-consumo-veicular",
+      "arquivo": "Metodologia_Consumo_Veicular.pdf",
+      "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/metodologia-para-divulgacao-de-dados-de-consumo-veicular/@@download/file",
+      "prioridade": 19
+    },
+    {
+      "id": "pbev-mascara-pbev-2026-19-jan-rev01",
+      "arquivo": "mascara-pbev-2026_19_jan-rev01.pdf",
+      "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2026_19_jan-rev01.pdf/@@download/file",
+      "prioridade": 20
+    },
+    {
+      "id": "pbev-mascara-pbev-2025-mar-11",
+      "arquivo": "mascara-pbev-2025-mar-11.pdf",
+      "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/mascara-pbev-2025-mar-11.pdf/@@download/file",
+      "prioridade": 21
+    },
+    {
+      "id": "pbev-pbe-veicular-2024-1",
+      "arquivo": "pbe-veicular-2024-1.pdf",
+      "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/pbe-veicular-2024-1.pdf/@@download/file",
+      "prioridade": 22
+    },
+    {
+      "id": "pbev-pbe-veicular-2023",
+      "arquivo": "pbe-veicular-2023.pdf",
+      "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/pbe-veicular-2023.pdf/@@download/file",
+      "prioridade": 23
+    },
+    {
+      "id": "pbev-pbe-veicular-vehp",
+      "arquivo": "PBE-veicular-VEHP.pdf",
+      "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/pbe-veicular-vehp.pdf/@@download/file",
+      "prioridade": 24
+    },
+    {
+      "id": "pbev-pbe-veicular-veb",
+      "arquivo": "PBE-veicular-VEB.pdf",
+      "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/ence-pev-veic-eletricos.pdf/@@download/file",
+      "prioridade": 25
+    },
+    {
+      "id": "pbev-pbe-veicular-vehp-flex",
+      "arquivo": "PBE-veicular-VEHP FLEX.pdf",
+      "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/pbe-veicular-vehp-flex.pdf/@@download/file",
+      "prioridade": 26
+    },
+    {
+      "id": "pbev-pbe-veicular-motores-a-combustao",
+      "arquivo": "PBE-veicular-motores-a-combustao.pdf",
+      "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/pbe-veicular-motores-a-combustao.png/@@download/file",
+      "prioridade": 27
+    },
+    {
+      "id": "pbev-pbe-veicular-veh",
+      "arquivo": "PBE-veicular-VEH.pdf",
+      "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/ence-pev-veic-hibridos.pdf/@@download/file",
+      "prioridade": 28
+    },
+    {
+      "id": "pbev-pbe-veicular-vehp",
+      "arquivo": "pbe-veicular-vehp.pdf",
+      "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/pbe-veicular-vehp.pdf/@@download/file",
+      "prioridade": 29
+    },
+    {
+      "id": "pbev-ence-pev-veic-eletricos",
+      "arquivo": "ence-pev-veic-eletricos.pdf",
+      "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/ence-pev-veic-eletricos.pdf/@@download/file",
+      "prioridade": 30
+    },
+    {
+      "id": "pbev-pbe-veicular-vehp-flex",
+      "arquivo": "pbe-veicular-vehp-flex.pdf",
+      "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/pbe-veicular-vehp-flex.pdf/@@download/file",
+      "prioridade": 31
+    },
+    {
+      "id": "pbev-ence-pev-veic-hibridos",
+      "arquivo": "ence-pev-veic-hibridos.pdf",
+      "url": "https://www.gov.br/inmetro/pt-br/assuntos/regulamentacao/avaliacao-da-conformidade/programa-brasileiro-de-etiquetagem/tabelas-de-eficiencia-energetica/veiculos-automotivos-pbe-veicular/ence-pev-veic-hibridos.pdf/@@download/file",
+      "prioridade": 32
+    }
+  ],
+  "historicos": [
+    {
+      "ano": 2019,
+      "arquivo": "veiculos_leves_2019.pdf"
+    },
+    {
+      "ano": 2018,
+      "arquivo": "veiculos_leves_2018.pdf"
+    },
+    {
+      "ano": 2017,
+      "arquivo": "veiculos_leves_2017.pdf"
+    },
+    {
+      "ano": 2016,
+      "arquivo": "veiculos_leves_2016.pdf"
+    },
+    {
+      "ano": 2015,
+      "arquivo": "veiculos_leves_2015.pdf"
+    },
+    {
+      "ano": 2014,
+      "arquivo": "veiculos_leves_2014.pdf"
+    },
+    {
+      "ano": 2013,
+      "arquivo": "veiculos_leves_2013.pdf"
+    },
+    {
+      "ano": 2012,
+      "arquivo": "veiculos_leves_2012.pdf"
+    },
+    {
+      "ano": 2011,
+      "arquivo": "veiculos_leves_2011.pdf"
+    },
+    {
+      "ano": 2010,
+      "arquivo": "veiculos_leves_2010.pdf"
+    }
+  ],
+  "descobertos": 32
+}

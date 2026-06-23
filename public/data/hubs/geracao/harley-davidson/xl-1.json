@@ -1,0 +1,741 @@
+{
+  "tipo": "geracao",
+  "slug": "xl-1",
+  "canonicalPath": "/geracao/harley-davidson/xl-1/",
+  "titulo": "Geracao xl-1",
+  "descricao": "88 veiculos da geracao xl-1.",
+  "seo": {
+    "title": "Geracao xl-1 - Precos FIPE",
+    "description": "Veiculos da geracao xl-1 na Tabela FIPE.",
+    "h1": "Geracao xl-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/harley-davidson/xl-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "harley-davidson-xl-1200-1994-gasolina",
+      "fipeCodigo": "810026-8",
+      "displayName": "HARLEY-DAVIDSON XL 1200",
+      "valorAtual": 13002,
+      "canonicalPath": "/fipe/harley-davidson/xl-1200-1994-810026-8/",
+      "ano": 1994,
+      "marca": "HARLEY-DAVIDSON"
+    },
+    {
+      "vehicleId": "harley-davidson-xl-1200-1995-gasolina",
+      "fipeCodigo": "810026-8",
+      "displayName": "HARLEY-DAVIDSON XL 1200",
+      "valorAtual": 14222,
+      "canonicalPath": "/fipe/harley-davidson/xl-1200-1995-810026-8/",
+      "ano": 1995,
+      "marca": "HARLEY-DAVIDSON"
+    },
+    {
+      "vehicleId": "harley-davidson-xl-1200-1996-gasolina",
+      "fipeCodigo": "810026-8",
+      "displayName": "HARLEY-DAVIDSON XL 1200",
+      "valorAtual": 17002,
+      "canonicalPath": "/fipe/harley-davidson/xl-1200-1996-810026-8/",
+      "ano": 1996,
+      "marca": "HARLEY-DAVIDSON"
+    },
+    {
+      "vehicleId": "harley-davidson-xl-1200-c-sportster-custom-1996-gasolina",
+      "fipeCodigo": "810023-3",
+      "displayName": "HARLEY-DAVIDSON XL 1200 C-SPORTSTER CUSTOM",
+      "valorAtual": 20490,
+      "canonicalPath": "/fipe/harley-davidson/xl-1200-c-sportster-custom-1996-810023-3/",
+      "ano": 1996,
+      "marca": "HARLEY-DAVIDSON"
+    },
+    {
+      "vehicleId": "harley-davidson-xl-1200-c-sportster-custom-1997-gasolina",
+      "fipeCodigo": "810023-3",
+      "displayName": "HARLEY-DAVIDSON XL 1200 C-SPORTSTER CUSTOM",
+      "valorAtual": 22548,
+      "canonicalPath": "/fipe/harley-davidson/xl-1200-c-sportster-custom-1997-810023-3/",
+      "ano": 1997,
+      "marca": "HARLEY-DAVIDSON"
+    },
+    {
+      "vehicleId": "harley-davidson-xl-1200-c-sportster-custom-1998-gasolina",
+      "fipeCodigo": "810023-3",
+      "displayName": "HARLEY-DAVIDSON XL 1200 C-SPORTSTER CUSTOM",
+      "valorAtual": 25574,
+      "canonicalPath": "/fipe/harley-davidson/xl-1200-c-sportster-custom-1998-810023-3/",
+      "ano": 1998,
+      "marca": "HARLEY-DAVIDSON"
+    },
+    {
+      "vehicleId": "harley-davidson-xl-1200-custom-1996-gasolina",
+      "fipeCodigo": "810024-1",
+      "displayName": "HARLEY-DAVIDSON XL 1200 CUSTOM",
+      "valorAtual": 19857,
+      "canonicalPath": "/fipe/harley-davidson/xl-1200-custom-1996-810024-1/",
+      "ano": 1996,
+      "marca": "HARLEY-DAVIDSON"
+    },
+    {
+      "vehicleId": "harley-davidson-xl-1200-custom-1997-gasolina",
+      "fipeCodigo": "810024-1",
+      "displayName": "HARLEY-DAVIDSON XL 1200 CUSTOM",
+      "valorAtual": 22467,
+      "canonicalPath": "/fipe/harley-davidson/xl-1200-custom-1997-810024-1/",
+      "ano": 1997,
+      "marca": "HARLEY-DAVIDSON"
+    },
+    {
+      "vehicleId": "harley-davidson-xl-1200-custom-1998-gasolina",
+      "fipeCodigo": "810024-1",
+      "displayName": "HARLEY-DAVIDSON XL 1200 CUSTOM",
+      "valorAtual": 25493,
+      "canonicalPath": "/fipe/harley-davidson/xl-1200-custom-1998-810024-1/",
+      "ano": 1998,
+      "marca": "HARLEY-DAVIDSON"
+    },
+    {
+      "vehicleId": "harley-davidson-xl-1200-custom-2012-gasolina",
+      "fipeCodigo": "810024-1",
+      "displayName": "HARLEY-DAVIDSON XL 1200 CUSTOM",
+      "valorAtual": 38418,
+      "canonicalPath": "/fipe/harley-davidson/xl-1200-custom-2012-810024-1/",
+      "ano": 2012,
+      "marca": "HARLEY-DAVIDSON"
+    },
+    {
+      "vehicleId": "harley-davidson-xl-1200-custom-2013-gasolina",
+      "fipeCodigo": "810024-1",
+      "displayName": "HARLEY-DAVIDSON XL 1200 CUSTOM",
+      "valorAtual": 39399,
+      "canonicalPath": "/fipe/harley-davidson/xl-1200-custom-2013-810024-1/",
+      "ano": 2013,
+      "marca": "HARLEY-DAVIDSON"
+    },
+    {
+      "vehicleId": "harley-davidson-xl-1200-custom-2014-gasolina",
+      "fipeCodigo": "810024-1",
+      "displayName": "HARLEY-DAVIDSON XL 1200 CUSTOM",
+      "valorAtual": 41549,
+      "canonicalPath": "/fipe/harley-davidson/xl-1200-custom-2014-810024-1/",
+      "ano": 2014,
+      "marca": "HARLEY-DAVIDSON"
+    },
+    {
+      "vehicleId": "harley-davidson-xl-1200-custom-2015-gasolina",
+      "fipeCodigo": "810024-1",
+      "displayName": "HARLEY-DAVIDSON XL 1200 CUSTOM",
+      "valorAtual": 42634,
+      "canonicalPath": "/fipe/harley-davidson/xl-1200-custom-2015-810024-1/",
+      "ano": 2015,
+      "marca": "HARLEY-DAVIDSON"
+    },
+    {
+      "vehicleId": "harley-davidson-xl-1200-custom-limited-ca-cb-2013-gasolina",
+      "fipeCodigo": "810067-5",
+      "displayName": "HARLEY-DAVIDSON XL 1200 CUSTOM LIMITED CA/CB",
+      "valorAtual": 39421,
+      "canonicalPath": "/fipe/harley-davidson/xl-1200-custom-limited-ca-cb-2013-810067-5/",
+      "ano": 2013,
+      "marca": "HARLEY-DAVIDSON"
+    },
+    {
+      "vehicleId": "harley-davidson-xl-1200-custom-limited-ca-cb-2014-gasolina",
+      "fipeCodigo": "810067-5",
+      "displayName": "HARLEY-DAVIDSON XL 1200 CUSTOM LIMITED CA/CB",
+      "valorAtual": 42313,
+      "canonicalPath": "/fipe/harley-davidson/xl-1200-custom-limited-ca-cb-2014-810067-5/",
+      "ano": 2014,
+      "marca": "HARLEY-DAVIDSON"
+    },
+    {
+      "vehicleId": "harley-davidson-xl-1200-custom-limited-ca-cb-2015-gasolina",
+      "fipeCodigo": "810067-5",
+      "displayName": "HARLEY-DAVIDSON XL 1200 CUSTOM LIMITED CA/CB",
+      "valorAtual": 43939,
+      "canonicalPath": "/fipe/harley-davidson/xl-1200-custom-limited-ca-cb-2015-810067-5/",
+      "ano": 2015,
+      "marca": "HARLEY-DAVIDSON"
+    },
+    {
+      "vehicleId": "harley-davidson-xl-1200-custom-limited-ca-cb-2016-gasolina",
+      "fipeCodigo": "810067-5",
+      "displayName": "HARLEY-DAVIDSON XL 1200 CUSTOM LIMITED CA/CB",
+      "valorAtual": 47825,
+      "canonicalPath": "/fipe/harley-davidson/xl-1200-custom-limited-ca-cb-2016-810067-5/",
+      "ano": 2016,
+      "marca": "HARLEY-DAVIDSON"
+    },
+    {
+      "vehicleId": "harley-davidson-xl-1200-custom-limited-ca-cb-2017-gasolina",
+      "fipeCodigo": "810067-5",
+      "displayName": "HARLEY-DAVIDSON XL 1200 CUSTOM LIMITED CA/CB",
+      "valorAtual": 49429,
+      "canonicalPath": "/fipe/harley-davidson/xl-1200-custom-limited-ca-cb-2017-810067-5/",
+      "ano": 2017,
+      "marca": "HARLEY-DAVIDSON"
+    },
+    {
+      "vehicleId": "harley-davidson-xl-1200-cx-roadster-2017-gasolina",
+      "fipeCodigo": "810075-6",
+      "displayName": "HARLEY-DAVIDSON XL 1200 CX ROADSTER",
+      "valorAtual": 49893,
+      "canonicalPath": "/fipe/harley-davidson/xl-1200-cx-roadster-2017-810075-6/",
+      "ano": 2017,
+      "marca": "HARLEY-DAVIDSON"
+    },
+    {
+      "vehicleId": "harley-davidson-xl-1200-cx-roadster-2018-gasolina",
+      "fipeCodigo": "810075-6",
+      "displayName": "HARLEY-DAVIDSON XL 1200 CX ROADSTER",
+      "valorAtual": 51302,
+      "canonicalPath": "/fipe/harley-davidson/xl-1200-cx-roadster-2018-810075-6/",
+      "ano": 2018,
+      "marca": "HARLEY-DAVIDSON"
+    },
+    {
+      "vehicleId": "harley-davidson-xl-1200-sport-1996-gasolina",
+      "fipeCodigo": "810025-0",
+      "displayName": "HARLEY-DAVIDSON XL 1200 SPORT",
+      "valorAtual": 21728,
+      "canonicalPath": "/fipe/harley-davidson/xl-1200-sport-1996-810025-0/",
+      "ano": 1996,
+      "marca": "HARLEY-DAVIDSON"
+    },
+    {
+      "vehicleId": "harley-davidson-xl-1200-sport-1997-gasolina",
+      "fipeCodigo": "810025-0",
+      "displayName": "HARLEY-DAVIDSON XL 1200 SPORT",
+      "valorAtual": 25243,
+      "canonicalPath": "/fipe/harley-davidson/xl-1200-sport-1997-810025-0/",
+      "ano": 1997,
+      "marca": "HARLEY-DAVIDSON"
+    },
+    {
+      "vehicleId": "harley-davidson-xl-1200-sport-1998-gasolina",
+      "fipeCodigo": "810025-0",
+      "displayName": "HARLEY-DAVIDSON XL 1200 SPORT",
+      "valorAtual": 28395,
+      "canonicalPath": "/fipe/harley-davidson/xl-1200-sport-1998-810025-0/",
+      "ano": 1998,
+      "marca": "HARLEY-DAVIDSON"
+    },
+    {
+      "vehicleId": "harley-davidson-xl-1200-sport-1999-gasolina",
+      "fipeCodigo": "810025-0",
+      "displayName": "HARLEY-DAVIDSON XL 1200 SPORT",
+      "valorAtual": 37706,
+      "canonicalPath": "/fipe/harley-davidson/xl-1200-sport-1999-810025-0/",
+      "ano": 1999,
+      "marca": "HARLEY-DAVIDSON"
+    },
+    {
+      "vehicleId": "harley-davidson-xl-1200-sport-2001-gasolina",
+      "fipeCodigo": "810025-0",
+      "displayName": "HARLEY-DAVIDSON XL 1200 SPORT",
+      "valorAtual": 43113,
+      "canonicalPath": "/fipe/harley-davidson/xl-1200-sport-2001-810025-0/",
+      "ano": 2001,
+      "marca": "HARLEY-DAVIDSON"
+    },
+    {
+      "vehicleId": "harley-davidson-xl-1200n-sportster-nightster-2008-gasolina",
+      "fipeCodigo": "810049-7",
+      "displayName": "HARLEY-DAVIDSON XL 1200N SPORTSTER NIGHTSTER",
+      "valorAtual": 37284,
+      "canonicalPath": "/fipe/harley-davidson/xl-1200n-sportster-nightster-2008-810049-7/",
+      "ano": 2008,
+      "marca": "HARLEY-DAVIDSON"
+    },
+    {
+      "vehicleId": "harley-davidson-xl-1200n-sportster-nightster-2009-gasolina",
+      "fipeCodigo": "810049-7",
+      "displayName": "HARLEY-DAVIDSON XL 1200N SPORTSTER NIGHTSTER",
+      "valorAtual": 38400,
+      "canonicalPath": "/fipe/harley-davidson/xl-1200n-sportster-nightster-2009-810049-7/",
+      "ano": 2009,
+      "marca": "HARLEY-DAVIDSON"
+    },
+    {
+      "vehicleId": "harley-davidson-xl-1200ns-sportster-iron-2019-gasolina",
+      "fipeCodigo": "810099-3",
+      "displayName": "HARLEY-DAVIDSON XL 1200NS SPORTSTER IRON",
+      "valorAtual": 49374,
+      "canonicalPath": "/fipe/harley-davidson/xl-1200ns-sportster-iron-2019-810099-3/",
+      "ano": 2019,
+      "marca": "HARLEY-DAVIDSON"
+    },
+    {
+      "vehicleId": "harley-davidson-xl-1200ns-sportster-iron-2020-gasolina",
+      "fipeCodigo": "810099-3",
+      "displayName": "HARLEY-DAVIDSON XL 1200NS SPORTSTER IRON",
+      "valorAtual": 54213,
+      "canonicalPath": "/fipe/harley-davidson/xl-1200ns-sportster-iron-2020-810099-3/",
+      "ano": 2020,
+      "marca": "HARLEY-DAVIDSON"
+    },
+    {
+      "vehicleId": "harley-davidson-xl-1200x-forty-eight-115th-anniversary-2018-gasolina",
+      "fipeCodigo": "810093-4",
+      "displayName": "HARLEY-DAVIDSON XL 1200X FORTY EIGHT 115th ANNIVERSARY",
+      "valorAtual": 60550,
+      "canonicalPath": "/fipe/harley-davidson/xl-1200x-forty-eight-115th-anniversary-2018-810093-4/",
+      "ano": 2018,
+      "marca": "HARLEY-DAVIDSON"
+    },
+    {
+      "vehicleId": "harley-davidson-xl-1200x-forty-eight-sportster-2014-gasolina",
+      "fipeCodigo": "810066-7",
+      "displayName": "HARLEY-DAVIDSON XL 1200X FORTY EIGHT SPORTSTER",
+      "valorAtual": 42120,
+      "canonicalPath": "/fipe/harley-davidson/xl-1200x-forty-eight-sportster-2014-810066-7/",
+      "ano": 2014,
+      "marca": "HARLEY-DAVIDSON"
+    },
+    {
+      "vehicleId": "harley-davidson-xl-1200x-forty-eight-sportster-2015-gasolina",
+      "fipeCodigo": "810066-7",
+      "displayName": "HARLEY-DAVIDSON XL 1200X FORTY EIGHT SPORTSTER",
+      "valorAtual": 43521,
+      "canonicalPath": "/fipe/harley-davidson/xl-1200x-forty-eight-sportster-2015-810066-7/",
+      "ano": 2015,
+      "marca": "HARLEY-DAVIDSON"
+    },
+    {
+      "vehicleId": "harley-davidson-xl-1200x-forty-eight-sportster-2016-gasolina",
+      "fipeCodigo": "810066-7",
+      "displayName": "HARLEY-DAVIDSON XL 1200X FORTY EIGHT SPORTSTER",
+      "valorAtual": 47787,
+      "canonicalPath": "/fipe/harley-davidson/xl-1200x-forty-eight-sportster-2016-810066-7/",
+      "ano": 2016,
+      "marca": "HARLEY-DAVIDSON"
+    },
+    {
+      "vehicleId": "harley-davidson-xl-1200x-forty-eight-sportster-2017-gasolina",
+      "fipeCodigo": "810066-7",
+      "displayName": "HARLEY-DAVIDSON XL 1200X FORTY EIGHT SPORTSTER",
+      "valorAtual": 49383,
+      "canonicalPath": "/fipe/harley-davidson/xl-1200x-forty-eight-sportster-2017-810066-7/",
+      "ano": 2017,
+      "marca": "HARLEY-DAVIDSON"
+    },
+    {
+      "vehicleId": "harley-davidson-xl-1200x-forty-eight-sportster-2018-gasolina",
+      "fipeCodigo": "810066-7",
+      "displayName": "HARLEY-DAVIDSON XL 1200X FORTY EIGHT SPORTSTER",
+      "valorAtual": 52269,
+      "canonicalPath": "/fipe/harley-davidson/xl-1200x-forty-eight-sportster-2018-810066-7/",
+      "ano": 2018,
+      "marca": "HARLEY-DAVIDSON"
+    },
+    {
+      "vehicleId": "harley-davidson-xl-1200x-forty-eight-sportster-2019-gasolina",
+      "fipeCodigo": "810066-7",
+      "displayName": "HARLEY-DAVIDSON XL 1200X FORTY EIGHT SPORTSTER",
+      "valorAtual": 54186,
+      "canonicalPath": "/fipe/harley-davidson/xl-1200x-forty-eight-sportster-2019-810066-7/",
+      "ano": 2019,
+      "marca": "HARLEY-DAVIDSON"
+    },
+    {
+      "vehicleId": "harley-davidson-xl-883-custom-1997-gasolina",
+      "fipeCodigo": "810028-4",
+      "displayName": "HARLEY-DAVIDSON XL 883 CUSTOM",
+      "valorAtual": 16065,
+      "canonicalPath": "/fipe/harley-davidson/xl-883-custom-1997-810028-4/",
+      "ano": 1997,
+      "marca": "HARLEY-DAVIDSON"
+    },
+    {
+      "vehicleId": "harley-davidson-xl-883-custom-1998-gasolina",
+      "fipeCodigo": "810028-4",
+      "displayName": "HARLEY-DAVIDSON XL 883 CUSTOM",
+      "valorAtual": 18608,
+      "canonicalPath": "/fipe/harley-davidson/xl-883-custom-1998-810028-4/",
+      "ano": 1998,
+      "marca": "HARLEY-DAVIDSON"
+    },
+    {
+      "vehicleId": "harley-davidson-xl-883-custom-1999-gasolina",
+      "fipeCodigo": "810028-4",
+      "displayName": "HARLEY-DAVIDSON XL 883 CUSTOM",
+      "valorAtual": 19278,
+      "canonicalPath": "/fipe/harley-davidson/xl-883-custom-1999-810028-4/",
+      "ano": 1999,
+      "marca": "HARLEY-DAVIDSON"
+    },
+    {
+      "vehicleId": "harley-davidson-xl-883-custom-2000-gasolina",
+      "fipeCodigo": "810028-4",
+      "displayName": "HARLEY-DAVIDSON XL 883 CUSTOM",
+      "valorAtual": 20877,
+      "canonicalPath": "/fipe/harley-davidson/xl-883-custom-2000-810028-4/",
+      "ano": 2000,
+      "marca": "HARLEY-DAVIDSON"
+    },
+    {
+      "vehicleId": "harley-davidson-xl-883-custom-2004-gasolina",
+      "fipeCodigo": "810028-4",
+      "displayName": "HARLEY-DAVIDSON XL 883 CUSTOM",
+      "valorAtual": 34767,
+      "canonicalPath": "/fipe/harley-davidson/xl-883-custom-2004-810028-4/",
+      "ano": 2004,
+      "marca": "HARLEY-DAVIDSON"
+    },
+    {
+      "vehicleId": "harley-davidson-xl-883-custom-2005-gasolina",
+      "fipeCodigo": "810028-4",
+      "displayName": "HARLEY-DAVIDSON XL 883 CUSTOM",
+      "valorAtual": 38205,
+      "canonicalPath": "/fipe/harley-davidson/xl-883-custom-2005-810028-4/",
+      "ano": 2005,
+      "marca": "HARLEY-DAVIDSON"
+    },
+    {
+      "vehicleId": "harley-davidson-xl-883-custom-2006-gasolina",
+      "fipeCodigo": "810028-4",
+      "displayName": "HARLEY-DAVIDSON XL 883 CUSTOM",
+      "valorAtual": 39161,
+      "canonicalPath": "/fipe/harley-davidson/xl-883-custom-2006-810028-4/",
+      "ano": 2006,
+      "marca": "HARLEY-DAVIDSON"
+    },
+    {
+      "vehicleId": "harley-davidson-xl-883-custom-2007-gasolina",
+      "fipeCodigo": "810028-4",
+      "displayName": "HARLEY-DAVIDSON XL 883 CUSTOM",
+      "valorAtual": 40141,
+      "canonicalPath": "/fipe/harley-davidson/xl-883-custom-2007-810028-4/",
+      "ano": 2007,
+      "marca": "HARLEY-DAVIDSON"
+    },
+    {
+      "vehicleId": "harley-davidson-xl-883-custom-2008-gasolina",
+      "fipeCodigo": "810028-4",
+      "displayName": "HARLEY-DAVIDSON XL 883 CUSTOM",
+      "valorAtual": 41145,
+      "canonicalPath": "/fipe/harley-davidson/xl-883-custom-2008-810028-4/",
+      "ano": 2008,
+      "marca": "HARLEY-DAVIDSON"
+    },
+    {
+      "vehicleId": "harley-davidson-xl-883-hugger-1994-gasolina",
+      "fipeCodigo": "810027-6",
+      "displayName": "HARLEY-DAVIDSON XL 883 HUGGER",
+      "valorAtual": 12185,
+      "canonicalPath": "/fipe/harley-davidson/xl-883-hugger-1994-810027-6/",
+      "ano": 1994,
+      "marca": "HARLEY-DAVIDSON"
+    },
+    {
+      "vehicleId": "harley-davidson-xl-883-hugger-1995-gasolina",
+      "fipeCodigo": "810027-6",
+      "displayName": "HARLEY-DAVIDSON XL 883 HUGGER",
+      "valorAtual": 13905,
+      "canonicalPath": "/fipe/harley-davidson/xl-883-hugger-1995-810027-6/",
+      "ano": 1995,
+      "marca": "HARLEY-DAVIDSON"
+    },
+    {
+      "vehicleId": "harley-davidson-xl-883-hugger-1996-gasolina",
+      "fipeCodigo": "810027-6",
+      "displayName": "HARLEY-DAVIDSON XL 883 HUGGER",
+      "valorAtual": 16901,
+      "canonicalPath": "/fipe/harley-davidson/xl-883-hugger-1996-810027-6/",
+      "ano": 1996,
+      "marca": "HARLEY-DAVIDSON"
+    },
+    {
+      "vehicleId": "harley-davidson-xl-883-r-2005-gasolina",
+      "fipeCodigo": "810037-3",
+      "displayName": "HARLEY-DAVIDSON XL 883 R",
+      "valorAtual": 33130,
+      "canonicalPath": "/fipe/harley-davidson/xl-883-r-2005-810037-3/",
+      "ano": 2005,
+      "marca": "HARLEY-DAVIDSON"
+    },
+    {
+      "vehicleId": "harley-davidson-xl-883-r-2006-gasolina",
+      "fipeCodigo": "810037-3",
+      "displayName": "HARLEY-DAVIDSON XL 883 R",
+      "valorAtual": 34295,
+      "canonicalPath": "/fipe/harley-davidson/xl-883-r-2006-810037-3/",
+      "ano": 2006,
+      "marca": "HARLEY-DAVIDSON"
+    },
+    {
+      "vehicleId": "harley-davidson-xl-883-r-2007-gasolina",
+      "fipeCodigo": "810037-3",
+      "displayName": "HARLEY-DAVIDSON XL 883 R",
+      "valorAtual": 35153,
+      "canonicalPath": "/fipe/harley-davidson/xl-883-r-2007-810037-3/",
+      "ano": 2007,
+      "marca": "HARLEY-DAVIDSON"
+    },
+    {
+      "vehicleId": "harley-davidson-xl-883-r-2008-gasolina",
+      "fipeCodigo": "810037-3",
+      "displayName": "HARLEY-DAVIDSON XL 883 R",
+      "valorAtual": 36032,
+      "canonicalPath": "/fipe/harley-davidson/xl-883-r-2008-810037-3/",
+      "ano": 2008,
+      "marca": "HARLEY-DAVIDSON"
+    },
+    {
+      "vehicleId": "harley-davidson-xl-883-r-2009-gasolina",
+      "fipeCodigo": "810037-3",
+      "displayName": "HARLEY-DAVIDSON XL 883 R",
+      "valorAtual": 36933,
+      "canonicalPath": "/fipe/harley-davidson/xl-883-r-2009-810037-3/",
+      "ano": 2009,
+      "marca": "HARLEY-DAVIDSON"
+    },
+    {
+      "vehicleId": "harley-davidson-xl-883-r-2010-gasolina",
+      "fipeCodigo": "810037-3",
+      "displayName": "HARLEY-DAVIDSON XL 883 R",
+      "valorAtual": 37865,
+      "canonicalPath": "/fipe/harley-davidson/xl-883-r-2010-810037-3/",
+      "ano": 2010,
+      "marca": "HARLEY-DAVIDSON"
+    },
+    {
+      "vehicleId": "harley-davidson-xl-883-r-2011-gasolina",
+      "fipeCodigo": "810037-3",
+      "displayName": "HARLEY-DAVIDSON XL 883 R",
+      "valorAtual": 38869,
+      "canonicalPath": "/fipe/harley-davidson/xl-883-r-2011-810037-3/",
+      "ano": 2011,
+      "marca": "HARLEY-DAVIDSON"
+    },
+    {
+      "vehicleId": "harley-davidson-xl-883-r-2012-gasolina",
+      "fipeCodigo": "810037-3",
+      "displayName": "HARLEY-DAVIDSON XL 883 R",
+      "valorAtual": 39874,
+      "canonicalPath": "/fipe/harley-davidson/xl-883-r-2012-810037-3/",
+      "ano": 2012,
+      "marca": "HARLEY-DAVIDSON"
+    },
+    {
+      "vehicleId": "harley-davidson-xl-883-r-2013-gasolina",
+      "fipeCodigo": "810037-3",
+      "displayName": "HARLEY-DAVIDSON XL 883 R",
+      "valorAtual": 40891,
+      "canonicalPath": "/fipe/harley-davidson/xl-883-r-2013-810037-3/",
+      "ano": 2013,
+      "marca": "HARLEY-DAVIDSON"
+    },
+    {
+      "vehicleId": "harley-davidson-xl-883-r-2014-gasolina",
+      "fipeCodigo": "810037-3",
+      "displayName": "HARLEY-DAVIDSON XL 883 R",
+      "valorAtual": 41928,
+      "canonicalPath": "/fipe/harley-davidson/xl-883-r-2014-810037-3/",
+      "ano": 2014,
+      "marca": "HARLEY-DAVIDSON"
+    },
+    {
+      "vehicleId": "harley-davidson-xl-883-std-low-1991-gasolina",
+      "fipeCodigo": "810029-2",
+      "displayName": "HARLEY-DAVIDSON XL 883 STD/ LOW",
+      "valorAtual": 11338,
+      "canonicalPath": "/fipe/harley-davidson/xl-883-std-low-1991-810029-2/",
+      "ano": 1991,
+      "marca": "HARLEY-DAVIDSON"
+    },
+    {
+      "vehicleId": "harley-davidson-xl-883-std-low-1992-gasolina",
+      "fipeCodigo": "810029-2",
+      "displayName": "HARLEY-DAVIDSON XL 883 STD/ LOW",
+      "valorAtual": 13768,
+      "canonicalPath": "/fipe/harley-davidson/xl-883-std-low-1992-810029-2/",
+      "ano": 1992,
+      "marca": "HARLEY-DAVIDSON"
+    },
+    {
+      "vehicleId": "harley-davidson-xl-883-std-low-1993-gasolina",
+      "fipeCodigo": "810029-2",
+      "displayName": "HARLEY-DAVIDSON XL 883 STD/ LOW",
+      "valorAtual": 14113,
+      "canonicalPath": "/fipe/harley-davidson/xl-883-std-low-1993-810029-2/",
+      "ano": 1993,
+      "marca": "HARLEY-DAVIDSON"
+    },
+    {
+      "vehicleId": "harley-davidson-xl-883-std-low-1994-gasolina",
+      "fipeCodigo": "810029-2",
+      "displayName": "HARLEY-DAVIDSON XL 883 STD/ LOW",
+      "valorAtual": 14466,
+      "canonicalPath": "/fipe/harley-davidson/xl-883-std-low-1994-810029-2/",
+      "ano": 1994,
+      "marca": "HARLEY-DAVIDSON"
+    },
+    {
+      "vehicleId": "harley-davidson-xl-883-std-low-1995-gasolina",
+      "fipeCodigo": "810029-2",
+      "displayName": "HARLEY-DAVIDSON XL 883 STD/ LOW",
+      "valorAtual": 14828,
+      "canonicalPath": "/fipe/harley-davidson/xl-883-std-low-1995-810029-2/",
+      "ano": 1995,
+      "marca": "HARLEY-DAVIDSON"
+    },
+    {
+      "vehicleId": "harley-davidson-xl-883-std-low-1996-gasolina",
+      "fipeCodigo": "810029-2",
+      "displayName": "HARLEY-DAVIDSON XL 883 STD/ LOW",
+      "valorAtual": 15494,
+      "canonicalPath": "/fipe/harley-davidson/xl-883-std-low-1996-810029-2/",
+      "ano": 1996,
+      "marca": "HARLEY-DAVIDSON"
+    },
+    {
+      "vehicleId": "harley-davidson-xl-883-std-low-1997-gasolina",
+      "fipeCodigo": "810029-2",
+      "displayName": "HARLEY-DAVIDSON XL 883 STD/ LOW",
+      "valorAtual": 15956,
+      "canonicalPath": "/fipe/harley-davidson/xl-883-std-low-1997-810029-2/",
+      "ano": 1997,
+      "marca": "HARLEY-DAVIDSON"
+    },
+    {
+      "vehicleId": "harley-davidson-xl-883-std-low-1998-gasolina",
+      "fipeCodigo": "810029-2",
+      "displayName": "HARLEY-DAVIDSON XL 883 STD/ LOW",
+      "valorAtual": 18346,
+      "canonicalPath": "/fipe/harley-davidson/xl-883-std-low-1998-810029-2/",
+      "ano": 1998,
+      "marca": "HARLEY-DAVIDSON"
+    },
+    {
+      "vehicleId": "harley-davidson-xl-883-std-low-1999-gasolina",
+      "fipeCodigo": "810029-2",
+      "displayName": "HARLEY-DAVIDSON XL 883 STD/ LOW",
+      "valorAtual": 18805,
+      "canonicalPath": "/fipe/harley-davidson/xl-883-std-low-1999-810029-2/",
+      "ano": 1999,
+      "marca": "HARLEY-DAVIDSON"
+    },
+    {
+      "vehicleId": "harley-davidson-xl-883-std-low-2000-gasolina",
+      "fipeCodigo": "810029-2",
+      "displayName": "HARLEY-DAVIDSON XL 883 STD/ LOW",
+      "valorAtual": 19499,
+      "canonicalPath": "/fipe/harley-davidson/xl-883-std-low-2000-810029-2/",
+      "ano": 2000,
+      "marca": "HARLEY-DAVIDSON"
+    },
+    {
+      "vehicleId": "harley-davidson-xl-883-std-low-2001-gasolina",
+      "fipeCodigo": "810029-2",
+      "displayName": "HARLEY-DAVIDSON XL 883 STD/ LOW",
+      "valorAtual": 19987,
+      "canonicalPath": "/fipe/harley-davidson/xl-883-std-low-2001-810029-2/",
+      "ano": 2001,
+      "marca": "HARLEY-DAVIDSON"
+    },
+    {
+      "vehicleId": "harley-davidson-xl-883-std-low-2002-gasolina",
+      "fipeCodigo": "810029-2",
+      "displayName": "HARLEY-DAVIDSON XL 883 STD/ LOW",
+      "valorAtual": 20487,
+      "canonicalPath": "/fipe/harley-davidson/xl-883-std-low-2002-810029-2/",
+      "ano": 2002,
+      "marca": "HARLEY-DAVIDSON"
+    },
+    {
+      "vehicleId": "harley-davidson-xl-883-std-low-2003-gasolina",
+      "fipeCodigo": "810029-2",
+      "displayName": "HARLEY-DAVIDSON XL 883 STD/ LOW",
+      "valorAtual": 21909,
+      "canonicalPath": "/fipe/harley-davidson/xl-883-std-low-2003-810029-2/",
+      "ano": 2003,
+      "marca": "HARLEY-DAVIDSON"
+    },
+    {
+      "vehicleId": "harley-davidson-xl-883-std-low-2004-gasolina",
+      "fipeCodigo": "810029-2",
+      "displayName": "HARLEY-DAVIDSON XL 883 STD/ LOW",
+      "valorAtual": 25878,
+      "canonicalPath": "/fipe/harley-davidson/xl-883-std-low-2004-810029-2/",
+      "ano": 2004,
+      "marca": "HARLEY-DAVIDSON"
+    },
+    {
+      "vehicleId": "harley-davidson-xl-883-std-low-2005-gasolina",
+      "fipeCodigo": "810029-2",
+      "displayName": "HARLEY-DAVIDSON XL 883 STD/ LOW",
+      "valorAtual": 30920,
+      "canonicalPath": "/fipe/harley-davidson/xl-883-std-low-2005-810029-2/",
+      "ano": 2005,
+      "marca": "HARLEY-DAVIDSON"
+    },
+    {
+      "vehicleId": "harley-davidson-xl-883-std-low-2006-gasolina",
+      "fipeCodigo": "810029-2",
+      "displayName": "HARLEY-DAVIDSON XL 883 STD/ LOW",
+      "valorAtual": 32951,
+      "canonicalPath": "/fipe/harley-davidson/xl-883-std-low-2006-810029-2/",
+      "ano": 2006,
+      "marca": "HARLEY-DAVIDSON"
+    },
+    {
+      "vehicleId": "harley-davidson-xl-883-std-low-2007-gasolina",
+      "fipeCodigo": "810029-2",
+      "displayName": "HARLEY-DAVIDSON XL 883 STD/ LOW",
+      "valorAtual": 33775,
+      "canonicalPath": "/fipe/harley-davidson/xl-883-std-low-2007-810029-2/",
+      "ano": 2007,
+      "marca": "HARLEY-DAVIDSON"
+    },
+    {
+      "vehicleId": "harley-davidson-xl-883-std-low-2008-gasolina",
+      "fipeCodigo": "810029-2",
+      "displayName": "HARLEY-DAVIDSON XL 883 STD/ LOW",
+      "valorAtual": 34620,
+      "canonicalPath": "/fipe/harley-davidson/xl-883-std-low-2008-810029-2/",
+      "ano": 2008,
+      "marca": "HARLEY-DAVIDSON"
+    },
+    {
+      "vehicleId": "harley-davidson-xl-883n-iron-2010-gasolina",
+      "fipeCodigo": "810052-7",
+      "displayName": "HARLEY-DAVIDSON XL 883N IRON",
+      "valorAtual": 37873,
+      "canonicalPath": "/fipe/harley-davidson/xl-883n-iron-2010-810052-7/",
+      "ano": 2010,
+      "marca": "HARLEY-DAVIDSON"
+    },
+    {
+      "vehicleId": "harley-davidson-xl-883n-iron-2011-gasolina",
+      "fipeCodigo": "810052-7",
+      "displayName": "HARLEY-DAVIDSON XL 883N IRON",
+      "valorAtual": 38939,
+      "canonicalPath": "/fipe/harley-davidson/xl-883n-iron-2011-810052-7/",
+      "ano": 2011,
+      "marca": "HARLEY-DAVIDSON"
+    },
+    {
+      "vehicleId": "harley-davidson-xl-883n-iron-2012-gasolina",
+      "fipeCodigo": "810052-7",
+      "displayName": "HARLEY-DAVIDSON XL 883N IRON",
+      "valorAtual": 39928,
+      "canonicalPath": "/fipe/harley-davidson/xl-883n-iron-2012-810052-7/",
+      "ano": 2012,
+      "marca": "HARLEY-DAVIDSON"
+    },
+    {
+      "vehicleId": "harley-davidson-xl-883n-iron-2013-gasolina",
+      "fipeCodigo": "810052-7",
+      "displayName": "HARLEY-DAVIDSON XL 883N IRON",
+      "valorAtual": 40937,
+      "canonicalPath": "/fipe/harley-davidson/xl-883n-iron-2013-810052-7/",
+      "ano": 2013,
+      "marca": "HARLEY-DAVIDSON"
+    }
+  ],
+  "stats": {
+    "total": 88
+  },
+  "meta": {
+    "geracaoId": "xl-1"
+  }
+}

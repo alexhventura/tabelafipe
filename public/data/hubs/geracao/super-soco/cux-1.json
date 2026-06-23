@@ -1,0 +1,48 @@
+{
+  "tipo": "geracao",
+  "slug": "cux-1",
+  "canonicalPath": "/geracao/super-soco/cux-1/",
+  "titulo": "Geracao cux-1",
+  "descricao": "3 veiculos da geracao cux-1.",
+  "seo": {
+    "title": "Geracao cux-1 - Precos FIPE",
+    "description": "Veiculos da geracao cux-1 na Tabela FIPE.",
+    "h1": "Geracao cux-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/super-soco/cux-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "super-soco-cux-2788w-eletrica-2020-eletrico",
+      "fipeCodigo": "891003-0",
+      "displayName": "SUPER SOCO CUX 2788W (Elétrica)",
+      "valorAtual": 17142,
+      "canonicalPath": "/fipe/super-soco/cux-2788w-eletrica-2020-891003-0/",
+      "ano": 2020,
+      "marca": "SUPER SOCO"
+    },
+    {
+      "vehicleId": "super-soco-cux-2788w-eletrica-2021-eletrico",
+      "fipeCodigo": "891003-0",
+      "displayName": "SUPER SOCO CUX 2788W (Elétrica)",
+      "valorAtual": 21648,
+      "canonicalPath": "/fipe/super-soco/cux-2788w-eletrica-2021-891003-0/",
+      "ano": 2021,
+      "marca": "SUPER SOCO"
+    },
+    {
+      "vehicleId": "super-soco-cux-2788w-eletrica-2022-eletrico",
+      "fipeCodigo": "891003-0",
+      "displayName": "SUPER SOCO CUX 2788W (Elétrica)",
+      "valorAtual": 22336,
+      "canonicalPath": "/fipe/super-soco/cux-2788w-eletrica-2022-891003-0/",
+      "ano": 2022,
+      "marca": "SUPER SOCO"
+    }
+  ],
+  "stats": {
+    "total": 3
+  },
+  "meta": {
+    "geracaoId": "cux-1"
+  }
+}

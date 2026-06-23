@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "flhtcui-1",
+  "canonicalPath": "/geracao/harley-davidson/flhtcui-1/",
+  "titulo": "Geracao flhtcui-1",
+  "descricao": "2 veiculos da geracao flhtcui-1.",
+  "seo": {
+    "title": "Geracao flhtcui-1 - Precos FIPE",
+    "description": "Veiculos da geracao flhtcui-1 na Tabela FIPE.",
+    "h1": "Geracao flhtcui-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/harley-davidson/flhtcui-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "harley-davidson-flhtcui-ultra-classic-1999-gasolina",
+      "fipeCodigo": "810009-8",
+      "displayName": "HARLEY-DAVIDSON FLHTCUI ULTRA CLASSIC",
+      "valorAtual": 41799,
+      "canonicalPath": "/fipe/harley-davidson/flhtcui-ultra-classic-1999-810009-8/",
+      "ano": 1999,
+      "marca": "HARLEY-DAVIDSON"
+    },
+    {
+      "vehicleId": "harley-davidson-flhtcui-ultra-classic-2000-gasolina",
+      "fipeCodigo": "810009-8",
+      "displayName": "HARLEY-DAVIDSON FLHTCUI ULTRA CLASSIC",
+      "valorAtual": 42951,
+      "canonicalPath": "/fipe/harley-davidson/flhtcui-ultra-classic-2000-810009-8/",
+      "ano": 2000,
+      "marca": "HARLEY-DAVIDSON"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "flhtcui-1"
+  }
+}

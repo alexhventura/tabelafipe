@@ -1,0 +1,62 @@
+{
+  "tipo": "familia",
+  "slug": "gts",
+  "canonicalPath": "/fipe/mclaren/gts/",
+  "titulo": "Mclaren gts - Tabela FIPE",
+  "descricao": "4 versoes e anos do Mclaren gts na Tabela FIPE.",
+  "seo": {
+    "title": "Mclaren gts - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes Mclaren gts. 4 veiculos indexados.",
+    "h1": "Mclaren gts - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/mclaren/gts/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "mclaren-gts-coupe-4-0-bi-turbo-v8-2p-2026-gasolina",
+      "fipeCodigo": "090016-8",
+      "displayName": "Mclaren GTS Coupé 4.0 Bi-Turbo V8 2p",
+      "valorAtual": 3048215,
+      "canonicalPath": "/fipe/mclaren/gts-coupe-4-0-bi-turbo-v8-2p-2026-090016-8/",
+      "ano": 2026,
+      "marca": "Mclaren"
+    },
+    {
+      "vehicleId": "mclaren-gts-coupe-4-0-bi-turbo-v8-2p-2025-gasolina",
+      "fipeCodigo": "090016-8",
+      "displayName": "Mclaren GTS Coupé 4.0 Bi-Turbo V8 2p",
+      "valorAtual": 2968961,
+      "canonicalPath": "/fipe/mclaren/gts-coupe-4-0-bi-turbo-v8-2p-2025-090016-8/",
+      "ano": 2025,
+      "marca": "Mclaren"
+    },
+    {
+      "vehicleId": "mclaren-gts-coupe-4-0-bi-turbo-v8-2p-2024-gasolina",
+      "fipeCodigo": "090016-8",
+      "displayName": "Mclaren GTS Coupé 4.0 Bi-Turbo V8 2p",
+      "valorAtual": 2623077,
+      "canonicalPath": "/fipe/mclaren/gts-coupe-4-0-bi-turbo-v8-2p-2024-090016-8/",
+      "ano": 2024,
+      "marca": "Mclaren"
+    },
+    {
+      "vehicleId": "mclaren-gts-coupe-4-0-bi-turbo-v8-2p-0-gasolina",
+      "fipeCodigo": "090016-8",
+      "displayName": "Mclaren GTS Coupé 4.0 Bi-Turbo V8 2p",
+      "valorAtual": 3300000,
+      "canonicalPath": "/fipe/mclaren/gts-coupe-4-0-bi-turbo-v8-2p-0-090016-8/",
+      "ano": 0,
+      "marca": "Mclaren"
+    }
+  ],
+  "stats": {
+    "total": 4,
+    "precoMin": 2623077,
+    "precoMax": 3300000,
+    "anos": [
+      2026,
+      2025,
+      2024,
+      0
+    ]
+  }
+}

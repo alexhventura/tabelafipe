@@ -1,0 +1,52 @@
+{
+  "tipo": "familia",
+  "slug": "i5",
+  "canonicalPath": "/fipe/bmw/i5/",
+  "titulo": "BMW i5 - Tabela FIPE",
+  "descricao": "3 versoes e anos do BMW i5 na Tabela FIPE.",
+  "seo": {
+    "title": "BMW i5 - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes BMW i5. 3 veiculos indexados.",
+    "h1": "BMW i5 - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/bmw/i5/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "bmw-i5-m60-eletrico-2025-eletrico",
+      "fipeCodigo": "009317-3",
+      "displayName": "BMW i5 M60 (Elétrico)",
+      "valorAtual": 606341,
+      "canonicalPath": "/fipe/bmw/i5-m60-eletrico-2025-009317-3/",
+      "ano": 2025,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-i5-m60-eletrico-2024-eletrico",
+      "fipeCodigo": "009317-3",
+      "displayName": "BMW i5 M60 (Elétrico)",
+      "valorAtual": 531982,
+      "canonicalPath": "/fipe/bmw/i5-m60-eletrico-2024-009317-3/",
+      "ano": 2024,
+      "marca": "BMW"
+    },
+    {
+      "vehicleId": "bmw-i5-m60-eletrico-0-eletrico",
+      "fipeCodigo": "009317-3",
+      "displayName": "BMW i5 M60 (Elétrico)",
+      "valorAtual": 793296,
+      "canonicalPath": "/fipe/bmw/i5-m60-eletrico-0-009317-3/",
+      "ano": 0,
+      "marca": "BMW"
+    }
+  ],
+  "stats": {
+    "total": 3,
+    "precoMin": 531982,
+    "precoMax": 793296,
+    "anos": [
+      2025,
+      2024,
+      0
+    ]
+  }
+}

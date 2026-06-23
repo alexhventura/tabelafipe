@@ -1,0 +1,72 @@
+{
+  "tipo": "familia",
+  "slug": "750",
+  "canonicalPath": "/fipe/yamaha/750/",
+  "titulo": "YAMAHA 750 - Tabela FIPE",
+  "descricao": "5 versoes e anos do YAMAHA 750 na Tabela FIPE.",
+  "seo": {
+    "title": "YAMAHA 750 - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes YAMAHA 750. 5 veiculos indexados.",
+    "h1": "YAMAHA 750 - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/yamaha/750/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "yamaha-750-virago-1997-gasolina",
+      "fipeCodigo": "827001-5",
+      "displayName": "YAMAHA 750 VIRAGO",
+      "valorAtual": 24491,
+      "canonicalPath": "/fipe/yamaha/750-virago-1997-827001-5/",
+      "ano": 1997,
+      "marca": "YAMAHA"
+    },
+    {
+      "vehicleId": "yamaha-750-virago-1996-gasolina",
+      "fipeCodigo": "827001-5",
+      "displayName": "YAMAHA 750 VIRAGO",
+      "valorAtual": 23602,
+      "canonicalPath": "/fipe/yamaha/750-virago-1996-827001-5/",
+      "ano": 1996,
+      "marca": "YAMAHA"
+    },
+    {
+      "vehicleId": "yamaha-750-virago-1995-gasolina",
+      "fipeCodigo": "827001-5",
+      "displayName": "YAMAHA 750 VIRAGO",
+      "valorAtual": 23026,
+      "canonicalPath": "/fipe/yamaha/750-virago-1995-827001-5/",
+      "ano": 1995,
+      "marca": "YAMAHA"
+    },
+    {
+      "vehicleId": "yamaha-750-virago-1994-gasolina",
+      "fipeCodigo": "827001-5",
+      "displayName": "YAMAHA 750 VIRAGO",
+      "valorAtual": 19210,
+      "canonicalPath": "/fipe/yamaha/750-virago-1994-827001-5/",
+      "ano": 1994,
+      "marca": "YAMAHA"
+    },
+    {
+      "vehicleId": "yamaha-750-virago-1993-gasolina",
+      "fipeCodigo": "827001-5",
+      "displayName": "YAMAHA 750 VIRAGO",
+      "valorAtual": 16355,
+      "canonicalPath": "/fipe/yamaha/750-virago-1993-827001-5/",
+      "ano": 1993,
+      "marca": "YAMAHA"
+    }
+  ],
+  "stats": {
+    "total": 5,
+    "precoMin": 16355,
+    "precoMax": 24491,
+    "anos": [
+      1997,
+      1996,
+      1995,
+      1994,
+      1993
+    ]
+  }
+}

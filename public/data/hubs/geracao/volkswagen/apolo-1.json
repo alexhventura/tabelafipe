@@ -1,0 +1,75 @@
+{
+  "tipo": "geracao",
+  "slug": "apolo-1",
+  "canonicalPath": "/geracao/volkswagen/apolo-1/",
+  "titulo": "Geracao apolo-1",
+  "descricao": "6 veiculos da geracao apolo-1.",
+  "seo": {
+    "title": "Geracao apolo-1 - Precos FIPE",
+    "description": "Veiculos da geracao apolo-1 na Tabela FIPE.",
+    "h1": "Geracao apolo-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/volkswagen/apolo-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "volkswagen-apolo-gl-1-8-1990-gasolina",
+      "fipeCodigo": "005025-3",
+      "displayName": "VW - VolksWagen Apolo GL 1.8",
+      "valorAtual": 6439,
+      "canonicalPath": "/fipe/volkswagen/apolo-gl-1-8-1990-005025-3/",
+      "ano": 1990,
+      "marca": "VW - VolksWagen"
+    },
+    {
+      "vehicleId": "volkswagen-apolo-gl-1-8-1991-gasolina",
+      "fipeCodigo": "005025-3",
+      "displayName": "VW - VolksWagen Apolo GL 1.8",
+      "valorAtual": 8772,
+      "canonicalPath": "/fipe/volkswagen/apolo-gl-1-8-1991-005025-3/",
+      "ano": 1991,
+      "marca": "VW - VolksWagen"
+    },
+    {
+      "vehicleId": "volkswagen-apolo-gl-1-8-1992-gasolina",
+      "fipeCodigo": "005025-3",
+      "displayName": "VW - VolksWagen Apolo GL 1.8",
+      "valorAtual": 9636,
+      "canonicalPath": "/fipe/volkswagen/apolo-gl-1-8-1992-005025-3/",
+      "ano": 1992,
+      "marca": "VW - VolksWagen"
+    },
+    {
+      "vehicleId": "volkswagen-apolo-gls-vip-1-8-1990-gasolina",
+      "fipeCodigo": "005026-1",
+      "displayName": "VW - VolksWagen Apolo GLS/ Vip 1.8",
+      "valorAtual": 7187,
+      "canonicalPath": "/fipe/volkswagen/apolo-gls-vip-1-8-1990-005026-1/",
+      "ano": 1990,
+      "marca": "VW - VolksWagen"
+    },
+    {
+      "vehicleId": "volkswagen-apolo-gls-vip-1-8-1991-gasolina",
+      "fipeCodigo": "005026-1",
+      "displayName": "VW - VolksWagen Apolo GLS/ Vip 1.8",
+      "valorAtual": 9257,
+      "canonicalPath": "/fipe/volkswagen/apolo-gls-vip-1-8-1991-005026-1/",
+      "ano": 1991,
+      "marca": "VW - VolksWagen"
+    },
+    {
+      "vehicleId": "volkswagen-apolo-gls-vip-1-8-1992-gasolina",
+      "fipeCodigo": "005026-1",
+      "displayName": "VW - VolksWagen Apolo GLS/ Vip 1.8",
+      "valorAtual": 13190,
+      "canonicalPath": "/fipe/volkswagen/apolo-gls-vip-1-8-1992-005026-1/",
+      "ano": 1992,
+      "marca": "VW - VolksWagen"
+    }
+  ],
+  "stats": {
+    "total": 6
+  },
+  "meta": {
+    "geracaoId": "apolo-1"
+  }
+}

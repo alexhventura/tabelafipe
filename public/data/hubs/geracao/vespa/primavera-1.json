@@ -1,0 +1,48 @@
+{
+  "tipo": "geracao",
+  "slug": "primavera-1",
+  "canonicalPath": "/geracao/vespa/primavera-1/",
+  "titulo": "Geracao primavera-1",
+  "descricao": "3 veiculos da geracao primavera-1.",
+  "seo": {
+    "title": "Geracao primavera-1 - Precos FIPE",
+    "description": "Veiculos da geracao primavera-1 na Tabela FIPE.",
+    "h1": "Geracao primavera-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/vespa/primavera-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "vespa-primavera-150-0-gasolina",
+      "fipeCodigo": "898007-1",
+      "displayName": "VESPA Primavera 150",
+      "valorAtual": 57593,
+      "canonicalPath": "/fipe/vespa/primavera-150-0-898007-1/",
+      "ano": 0,
+      "marca": "VESPA"
+    },
+    {
+      "vehicleId": "vespa-primavera-edicao-mickey-mouse-150-0-gasolina",
+      "fipeCodigo": "898009-8",
+      "displayName": "VESPA Primavera Edição Mickey Mouse 150",
+      "valorAtual": 62781,
+      "canonicalPath": "/fipe/vespa/primavera-edicao-mickey-mouse-150-0-898009-8/",
+      "ano": 0,
+      "marca": "VESPA"
+    },
+    {
+      "vehicleId": "vespa-primavera-sport-150-0-gasolina",
+      "fipeCodigo": "898008-0",
+      "displayName": "VESPA Primavera Sport 150",
+      "valorAtual": 58946,
+      "canonicalPath": "/fipe/vespa/primavera-sport-150-0-898008-0/",
+      "ano": 0,
+      "marca": "VESPA"
+    }
+  ],
+  "stats": {
+    "total": 3
+  },
+  "meta": {
+    "geracaoId": "primavera-1"
+  }
+}

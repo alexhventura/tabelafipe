@@ -1,0 +1,57 @@
+{
+  "tipo": "geracao",
+  "slug": "han-2",
+  "canonicalPath": "/geracao/byd/han-2/",
+  "titulo": "Geracao han-2",
+  "descricao": "4 veiculos da geracao han-2.",
+  "seo": {
+    "title": "Geracao han-2 - Precos FIPE",
+    "description": "Veiculos da geracao han-2 na Tabela FIPE.",
+    "h1": "Geracao han-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/byd/han-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "byd-han-ev-eletrico-2022-eletrico",
+      "fipeCodigo": "095003-3",
+      "displayName": "BYD Han EV  (Elétrico)",
+      "valorAtual": 257913,
+      "canonicalPath": "/fipe/byd/han-ev-eletrico-2022-095003-3/",
+      "ano": 2022,
+      "marca": "BYD"
+    },
+    {
+      "vehicleId": "byd-han-ev-eletrico-2023-eletrico",
+      "fipeCodigo": "095003-3",
+      "displayName": "BYD Han EV  (Elétrico)",
+      "valorAtual": 287368,
+      "canonicalPath": "/fipe/byd/han-ev-eletrico-2023-095003-3/",
+      "ano": 2023,
+      "marca": "BYD"
+    },
+    {
+      "vehicleId": "byd-han-ev-eletrico-2024-eletrico",
+      "fipeCodigo": "095003-3",
+      "displayName": "BYD Han EV  (Elétrico)",
+      "valorAtual": 309654,
+      "canonicalPath": "/fipe/byd/han-ev-eletrico-2024-095003-3/",
+      "ano": 2024,
+      "marca": "BYD"
+    },
+    {
+      "vehicleId": "byd-han-ev-eletrico-2025-eletrico",
+      "fipeCodigo": "095003-3",
+      "displayName": "BYD Han EV  (Elétrico)",
+      "valorAtual": 387202,
+      "canonicalPath": "/fipe/byd/han-ev-eletrico-2025-095003-3/",
+      "ano": 2025,
+      "marca": "BYD"
+    }
+  ],
+  "stats": {
+    "total": 4
+  },
+  "meta": {
+    "geracaoId": "han-2"
+  }
+}

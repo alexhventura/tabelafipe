@@ -1,0 +1,79 @@
+{
+  "tipo": "familia",
+  "slug": "leganza",
+  "canonicalPath": "/fipe/daewoo/leganza/",
+  "titulo": "Daewoo leganza - Tabela FIPE",
+  "descricao": "6 versoes e anos do Daewoo leganza na Tabela FIPE.",
+  "seo": {
+    "title": "Daewoo leganza - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes Daewoo leganza. 6 veiculos indexados.",
+    "h1": "Daewoo leganza - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/daewoo/leganza/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "daewoo-leganza-cdx-2-0-16v-mec-1999-gasolina",
+      "fipeCodigo": "030006-3",
+      "displayName": "Daewoo Leganza CDX 2.0 16V Mec.",
+      "valorAtual": 8001,
+      "canonicalPath": "/fipe/daewoo/leganza-cdx-2-0-16v-mec-1999-030006-3/",
+      "ano": 1999,
+      "marca": "Daewoo"
+    },
+    {
+      "vehicleId": "daewoo-leganza-cdx-2-0-16v-aut-1999-gasolina",
+      "fipeCodigo": "030012-8",
+      "displayName": "Daewoo Leganza CDX 2.0 16V Aut.",
+      "valorAtual": 9373,
+      "canonicalPath": "/fipe/daewoo/leganza-cdx-2-0-16v-aut-1999-030012-8/",
+      "ano": 1999,
+      "marca": "Daewoo"
+    },
+    {
+      "vehicleId": "daewoo-leganza-cdx-2-0-16v-mec-1998-gasolina",
+      "fipeCodigo": "030006-3",
+      "displayName": "Daewoo Leganza CDX 2.0 16V Mec.",
+      "valorAtual": 7350,
+      "canonicalPath": "/fipe/daewoo/leganza-cdx-2-0-16v-mec-1998-030006-3/",
+      "ano": 1998,
+      "marca": "Daewoo"
+    },
+    {
+      "vehicleId": "daewoo-leganza-cdx-2-0-16v-aut-1998-gasolina",
+      "fipeCodigo": "030012-8",
+      "displayName": "Daewoo Leganza CDX 2.0 16V Aut.",
+      "valorAtual": 8170,
+      "canonicalPath": "/fipe/daewoo/leganza-cdx-2-0-16v-aut-1998-030012-8/",
+      "ano": 1998,
+      "marca": "Daewoo"
+    },
+    {
+      "vehicleId": "daewoo-leganza-cdx-2-0-16v-mec-1997-gasolina",
+      "fipeCodigo": "030006-3",
+      "displayName": "Daewoo Leganza CDX 2.0 16V Mec.",
+      "valorAtual": 6173,
+      "canonicalPath": "/fipe/daewoo/leganza-cdx-2-0-16v-mec-1997-030006-3/",
+      "ano": 1997,
+      "marca": "Daewoo"
+    },
+    {
+      "vehicleId": "daewoo-leganza-cdx-2-0-16v-aut-1997-gasolina",
+      "fipeCodigo": "030012-8",
+      "displayName": "Daewoo Leganza CDX 2.0 16V Aut.",
+      "valorAtual": 6963,
+      "canonicalPath": "/fipe/daewoo/leganza-cdx-2-0-16v-aut-1997-030012-8/",
+      "ano": 1997,
+      "marca": "Daewoo"
+    }
+  ],
+  "stats": {
+    "total": 6,
+    "precoMin": 6173,
+    "precoMax": 9373,
+    "anos": [
+      1999,
+      1998,
+      1997
+    ]
+  }
+}

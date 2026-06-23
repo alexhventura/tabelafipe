@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "505-1",
+  "canonicalPath": "/geracao/peugeot/505-1/",
+  "titulo": "Geracao 505-1",
+  "descricao": "2 veiculos da geracao 505-1.",
+  "seo": {
+    "title": "Geracao 505-1 - Precos FIPE",
+    "description": "Veiculos da geracao 505-1 na Tabela FIPE.",
+    "h1": "Geracao 505-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/peugeot/505-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "peugeot-505-sr-sri-srx-1992-gasolina",
+      "fipeCodigo": "024061-3",
+      "displayName": "Peugeot 505 SR/ SRi/ SRX",
+      "valorAtual": 3224,
+      "canonicalPath": "/fipe/peugeot/505-sr-sri-srx-1992-024061-3/",
+      "ano": 1992,
+      "marca": "Peugeot"
+    },
+    {
+      "vehicleId": "peugeot-505-sr-sri-srx-1993-gasolina",
+      "fipeCodigo": "024061-3",
+      "displayName": "Peugeot 505 SR/ SRi/ SRX",
+      "valorAtual": 3677,
+      "canonicalPath": "/fipe/peugeot/505-sr-sri-srx-1993-024061-3/",
+      "ano": 1993,
+      "marca": "Peugeot"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "505-1"
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "tipo": "familia",
+  "slug": "hb125",
+  "canonicalPath": "/fipe/haobao/hb125/",
+  "titulo": "HAOBAO hb125 - Tabela FIPE",
+  "descricao": "4 versoes e anos do HAOBAO hb125 na Tabela FIPE.",
+  "seo": {
+    "title": "HAOBAO hb125 - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes HAOBAO hb125. 4 veiculos indexados.",
+    "h1": "HAOBAO hb125 - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/haobao/hb125/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "haobao-hb125-9-fearfulspeed-2014-gasolina",
+      "fipeCodigo": "856001-3",
+      "displayName": "HAOBAO HB125-9 FEARFULSPEED",
+      "valorAtual": 2807,
+      "canonicalPath": "/fipe/haobao/hb125-9-fearfulspeed-2014-856001-3/",
+      "ano": 2014,
+      "marca": "HAOBAO"
+    },
+    {
+      "vehicleId": "haobao-hb125-9-fearfulspeed-2011-gasolina",
+      "fipeCodigo": "856001-3",
+      "displayName": "HAOBAO HB125-9 FEARFULSPEED",
+      "valorAtual": 2658,
+      "canonicalPath": "/fipe/haobao/hb125-9-fearfulspeed-2011-856001-3/",
+      "ano": 2011,
+      "marca": "HAOBAO"
+    },
+    {
+      "vehicleId": "haobao-hb125-9-fearfulspeed-2009-gasolina",
+      "fipeCodigo": "856001-3",
+      "displayName": "HAOBAO HB125-9 FEARFULSPEED",
+      "valorAtual": 2250,
+      "canonicalPath": "/fipe/haobao/hb125-9-fearfulspeed-2009-856001-3/",
+      "ano": 2009,
+      "marca": "HAOBAO"
+    },
+    {
+      "vehicleId": "haobao-hb125-9-fearfulspeed-2008-gasolina",
+      "fipeCodigo": "856001-3",
+      "displayName": "HAOBAO HB125-9 FEARFULSPEED",
+      "valorAtual": 2126,
+      "canonicalPath": "/fipe/haobao/hb125-9-fearfulspeed-2008-856001-3/",
+      "ano": 2008,
+      "marca": "HAOBAO"
+    }
+  ],
+  "stats": {
+    "total": 4,
+    "precoMin": 2126,
+    "precoMax": 2807,
+    "anos": [
+      2014,
+      2011,
+      2009,
+      2008
+    ]
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "tipo": "geracao",
+  "slug": "tracker-1",
+  "canonicalPath": "/geracao/chevrolet/tracker-1/",
+  "titulo": "Geracao tracker-1",
+  "descricao": "6 veiculos da geracao tracker-1.",
+  "seo": {
+    "title": "Geracao tracker-1 - Precos FIPE",
+    "description": "Veiculos da geracao tracker-1 na Tabela FIPE.",
+    "h1": "Geracao tracker-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/chevrolet/tracker-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "chevrolet-tracker-1-0-turbo-12v-flex-aut-0-flex",
+      "fipeCodigo": "004526-8",
+      "displayName": "GM - Chevrolet TRACKER 1.0 Turbo 12V Flex Aut.",
+      "valorAtual": 117433,
+      "canonicalPath": "/fipe/chevrolet/tracker-1-0-turbo-12v-flex-aut-0-004526-8/",
+      "ano": 0,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-tracker-100-anos-1-2-turbo-12v-aut-0-flex",
+      "fipeCodigo": "004558-6",
+      "displayName": "GM - Chevrolet TRACKER 100 Anos 1.2 Turbo 12V Aut.",
+      "valorAtual": 171527,
+      "canonicalPath": "/fipe/chevrolet/tracker-100-anos-1-2-turbo-12v-aut-0-004558-6/",
+      "ano": 0,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-tracker-lt-1-0-turbo-12v-flex-aut-0-flex",
+      "fipeCodigo": "004522-5",
+      "displayName": "GM - Chevrolet TRACKER LT 1.0 Turbo 12V Flex Aut.",
+      "valorAtual": 140620,
+      "canonicalPath": "/fipe/chevrolet/tracker-lt-1-0-turbo-12v-flex-aut-0-004522-5/",
+      "ano": 0,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-tracker-ltz-1-0-turbo-12v-flex-aut-0-flex",
+      "fipeCodigo": "004532-2",
+      "displayName": "GM - Chevrolet TRACKER LTZ 1.0 Turbo 12V Flex Aut.",
+      "valorAtual": 156195,
+      "canonicalPath": "/fipe/chevrolet/tracker-ltz-1-0-turbo-12v-flex-aut-0-004532-2/",
+      "ano": 0,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-tracker-premier-1-2-turbo-12v-flex-aut-0-flex",
+      "fipeCodigo": "004525-0",
+      "displayName": "GM - Chevrolet TRACKER Premier 1.2 Turbo 12V Flex Aut.",
+      "valorAtual": 173021,
+      "canonicalPath": "/fipe/chevrolet/tracker-premier-1-2-turbo-12v-flex-aut-0-004525-0/",
+      "ano": 0,
+      "marca": "GM - Chevrolet"
+    },
+    {
+      "vehicleId": "chevrolet-tracker-rs-1-2-turbo-12v-flex-aut-0-flex",
+      "fipeCodigo": "004544-6",
+      "displayName": "GM - Chevrolet TRACKER RS 1.2 Turbo 12V Flex Aut.",
+      "valorAtual": 172596,
+      "canonicalPath": "/fipe/chevrolet/tracker-rs-1-2-turbo-12v-flex-aut-0-004544-6/",
+      "ano": 0,
+      "marca": "GM - Chevrolet"
+    }
+  ],
+  "stats": {
+    "total": 6
+  },
+  "meta": {
+    "geracaoId": "tracker-1"
+  }
+}

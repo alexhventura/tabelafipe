@@ -1,0 +1,42 @@
+{
+  "tipo": "familia",
+  "slug": "et3",
+  "canonicalPath": "/fipe/byd/et3/",
+  "titulo": "BYD et3 - Tabela FIPE",
+  "descricao": "2 versoes e anos do BYD et3 na Tabela FIPE.",
+  "seo": {
+    "title": "BYD et3 - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes BYD et3. 2 veiculos indexados.",
+    "h1": "BYD et3 - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/byd/et3/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "byd-et3-eletrico-2023-eletrico",
+      "fipeCodigo": "095002-5",
+      "displayName": "BYD eT3  (Elétrico)",
+      "valorAtual": 165987,
+      "canonicalPath": "/fipe/byd/et3-eletrico-2023-095002-5/",
+      "ano": 2023,
+      "marca": "BYD"
+    },
+    {
+      "vehicleId": "byd-et3-eletrico-2022-eletrico",
+      "fipeCodigo": "095002-5",
+      "displayName": "BYD eT3  (Elétrico)",
+      "valorAtual": 160974,
+      "canonicalPath": "/fipe/byd/et3-eletrico-2022-095002-5/",
+      "ano": 2022,
+      "marca": "BYD"
+    }
+  ],
+  "stats": {
+    "total": 2,
+    "precoMin": 160974,
+    "precoMax": 165987,
+    "anos": [
+      2023,
+      2022
+    ]
+  }
+}

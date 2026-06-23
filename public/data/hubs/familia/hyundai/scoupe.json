@@ -1,0 +1,62 @@
+{
+  "tipo": "familia",
+  "slug": "scoupe",
+  "canonicalPath": "/fipe/hyundai/scoupe/",
+  "titulo": "Hyundai scoupe - Tabela FIPE",
+  "descricao": "4 versoes e anos do Hyundai scoupe na Tabela FIPE.",
+  "seo": {
+    "title": "Hyundai scoupe - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes Hyundai scoupe. 4 veiculos indexados.",
+    "h1": "Hyundai scoupe - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/hyundai/scoupe/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "hyundai-scoupe-1995-gasolina",
+      "fipeCodigo": "015009-6",
+      "displayName": "Hyundai Scoupe",
+      "valorAtual": 5370,
+      "canonicalPath": "/fipe/hyundai/scoupe-1995-015009-6/",
+      "ano": 1995,
+      "marca": "Hyundai"
+    },
+    {
+      "vehicleId": "hyundai-scoupe-1994-gasolina",
+      "fipeCodigo": "015009-6",
+      "displayName": "Hyundai Scoupe",
+      "valorAtual": 4871,
+      "canonicalPath": "/fipe/hyundai/scoupe-1994-015009-6/",
+      "ano": 1994,
+      "marca": "Hyundai"
+    },
+    {
+      "vehicleId": "hyundai-scoupe-1993-gasolina",
+      "fipeCodigo": "015009-6",
+      "displayName": "Hyundai Scoupe",
+      "valorAtual": 4669,
+      "canonicalPath": "/fipe/hyundai/scoupe-1993-015009-6/",
+      "ano": 1993,
+      "marca": "Hyundai"
+    },
+    {
+      "vehicleId": "hyundai-scoupe-1992-gasolina",
+      "fipeCodigo": "015009-6",
+      "displayName": "Hyundai Scoupe",
+      "valorAtual": 4442,
+      "canonicalPath": "/fipe/hyundai/scoupe-1992-015009-6/",
+      "ano": 1992,
+      "marca": "Hyundai"
+    }
+  ],
+  "stats": {
+    "total": 4,
+    "precoMin": 4442,
+    "precoMax": 5370,
+    "anos": [
+      1995,
+      1994,
+      1993,
+      1992
+    ]
+  }
+}

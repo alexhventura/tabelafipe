@@ -1,0 +1,112 @@
+{
+  "tipo": "familia",
+  "slug": "stark",
+  "canonicalPath": "/fipe/tac/stark/",
+  "titulo": "TAC stark - Tabela FIPE",
+  "descricao": "9 versoes e anos do TAC stark na Tabela FIPE.",
+  "seo": {
+    "title": "TAC stark - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes TAC stark. 9 veiculos indexados.",
+    "h1": "TAC stark - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/tac/stark/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "tac-stark-2-3-4wd-127cv-tdi-diesel-3p-2020-diesel",
+      "fipeCodigo": "075001-8",
+      "displayName": "TAC Stark 2.3 4WD 127cv TDI Diesel 3p",
+      "valorAtual": 188759,
+      "canonicalPath": "/fipe/tac/stark-2-3-4wd-127cv-tdi-diesel-3p-2020-075001-8/",
+      "ano": 2020,
+      "marca": "TAC"
+    },
+    {
+      "vehicleId": "tac-stark-2-3-4wd-127cv-tdi-diesel-3p-2019-diesel",
+      "fipeCodigo": "075001-8",
+      "displayName": "TAC Stark 2.3 4WD 127cv TDI Diesel 3p",
+      "valorAtual": 182915,
+      "canonicalPath": "/fipe/tac/stark-2-3-4wd-127cv-tdi-diesel-3p-2019-075001-8/",
+      "ano": 2019,
+      "marca": "TAC"
+    },
+    {
+      "vehicleId": "tac-stark-2-3-4wd-127cv-tdi-diesel-3p-2018-diesel",
+      "fipeCodigo": "075001-8",
+      "displayName": "TAC Stark 2.3 4WD 127cv TDI Diesel 3p",
+      "valorAtual": 177046,
+      "canonicalPath": "/fipe/tac/stark-2-3-4wd-127cv-tdi-diesel-3p-2018-075001-8/",
+      "ano": 2018,
+      "marca": "TAC"
+    },
+    {
+      "vehicleId": "tac-stark-2-3-4wd-127cv-tdi-diesel-3p-2017-diesel",
+      "fipeCodigo": "075001-8",
+      "displayName": "TAC Stark 2.3 4WD 127cv TDI Diesel 3p",
+      "valorAtual": 168201,
+      "canonicalPath": "/fipe/tac/stark-2-3-4wd-127cv-tdi-diesel-3p-2017-075001-8/",
+      "ano": 2017,
+      "marca": "TAC"
+    },
+    {
+      "vehicleId": "tac-stark-2-3-4wd-127cv-tdi-diesel-3p-2014-diesel",
+      "fipeCodigo": "075001-8",
+      "displayName": "TAC Stark 2.3 4WD 127cv TDI Diesel 3p",
+      "valorAtual": 163625,
+      "canonicalPath": "/fipe/tac/stark-2-3-4wd-127cv-tdi-diesel-3p-2014-075001-8/",
+      "ano": 2014,
+      "marca": "TAC"
+    },
+    {
+      "vehicleId": "tac-stark-2-3-4wd-127cv-tdi-diesel-3p-2013-diesel",
+      "fipeCodigo": "075001-8",
+      "displayName": "TAC Stark 2.3 4WD 127cv TDI Diesel 3p",
+      "valorAtual": 159634,
+      "canonicalPath": "/fipe/tac/stark-2-3-4wd-127cv-tdi-diesel-3p-2013-075001-8/",
+      "ano": 2013,
+      "marca": "TAC"
+    },
+    {
+      "vehicleId": "tac-stark-2-3-4wd-127cv-tdi-diesel-3p-2012-diesel",
+      "fipeCodigo": "075001-8",
+      "displayName": "TAC Stark 2.3 4WD 127cv TDI Diesel 3p",
+      "valorAtual": 155740,
+      "canonicalPath": "/fipe/tac/stark-2-3-4wd-127cv-tdi-diesel-3p-2012-075001-8/",
+      "ano": 2012,
+      "marca": "TAC"
+    },
+    {
+      "vehicleId": "tac-stark-2-3-4wd-127cv-tdi-diesel-3p-2011-diesel",
+      "fipeCodigo": "075001-8",
+      "displayName": "TAC Stark 2.3 4WD 127cv TDI Diesel 3p",
+      "valorAtual": 151941,
+      "canonicalPath": "/fipe/tac/stark-2-3-4wd-127cv-tdi-diesel-3p-2011-075001-8/",
+      "ano": 2011,
+      "marca": "TAC"
+    },
+    {
+      "vehicleId": "tac-stark-2-3-4wd-127cv-tdi-diesel-3p-2010-diesel",
+      "fipeCodigo": "075001-8",
+      "displayName": "TAC Stark 2.3 4WD 127cv TDI Diesel 3p",
+      "valorAtual": 148235,
+      "canonicalPath": "/fipe/tac/stark-2-3-4wd-127cv-tdi-diesel-3p-2010-075001-8/",
+      "ano": 2010,
+      "marca": "TAC"
+    }
+  ],
+  "stats": {
+    "total": 9,
+    "precoMin": 148235,
+    "precoMax": 188759,
+    "anos": [
+      2020,
+      2019,
+      2018,
+      2017,
+      2014,
+      2013,
+      2012,
+      2011,
+      2010
+    ]
+  }
+}

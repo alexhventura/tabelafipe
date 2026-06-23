@@ -1,0 +1,57 @@
+{
+  "tipo": "geracao",
+  "slug": "fr250-3",
+  "canonicalPath": "/geracao/fever/fr250-3/",
+  "titulo": "Geracao fr250-3",
+  "descricao": "4 veiculos da geracao fr250-3.",
+  "seo": {
+    "title": "Geracao fr250-3 - Precos FIPE",
+    "description": "Veiculos da geracao fr250-3 na Tabela FIPE.",
+    "h1": "Geracao fr250-3",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/fever/fr250-3/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "fever-fr250-box-eletrica-2026-eletrico",
+      "fipeCodigo": "897002-5",
+      "displayName": "FEVER FR250 BOX (Elétrica)",
+      "valorAtual": 61938,
+      "canonicalPath": "/fipe/fever/fr250-box-eletrica-2026-897002-5/",
+      "ano": 2026,
+      "marca": "FEVER"
+    },
+    {
+      "vehicleId": "fever-fr250-cage-eletrica-2026-eletrico",
+      "fipeCodigo": "897004-1",
+      "displayName": "FEVER FR250 CAGE (Elétrica)",
+      "valorAtual": 69693,
+      "canonicalPath": "/fipe/fever/fr250-cage-eletrica-2026-897004-1/",
+      "ano": 2026,
+      "marca": "FEVER"
+    },
+    {
+      "vehicleId": "fever-fr250-pet-eletrica-2026-eletrico",
+      "fipeCodigo": "897003-3",
+      "displayName": "FEVER FR250 PET (Elétrica)",
+      "valorAtual": 70295,
+      "canonicalPath": "/fipe/fever/fr250-pet-eletrica-2026-897003-3/",
+      "ano": 2026,
+      "marca": "FEVER"
+    },
+    {
+      "vehicleId": "fever-fr250-pick-up-eletrica-2026-eletrico",
+      "fipeCodigo": "897001-7",
+      "displayName": "FEVER FR250 PICK-UP (Elétrica)",
+      "valorAtual": 65660,
+      "canonicalPath": "/fipe/fever/fr250-pick-up-eletrica-2026-897001-7/",
+      "ano": 2026,
+      "marca": "FEVER"
+    }
+  ],
+  "stats": {
+    "total": 4
+  },
+  "meta": {
+    "geracaoId": "fr250-3"
+  }
+}

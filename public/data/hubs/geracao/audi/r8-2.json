@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "r8-2",
+  "canonicalPath": "/geracao/audi/r8-2/",
+  "titulo": "Geracao r8-2",
+  "descricao": "2 veiculos da geracao r8-2.",
+  "seo": {
+    "title": "Geracao r8-2 - Precos FIPE",
+    "description": "Veiculos da geracao r8-2 na Tabela FIPE.",
+    "h1": "Geracao r8-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/audi/r8-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "audi-r8-5-2-v10-quattro-r-tronic-s-tronic-2021-gasolina",
+      "fipeCodigo": "008146-9",
+      "displayName": "Audi R8 5.2 V10 Quattro R-tronic/S-tronic",
+      "valorAtual": 1618940,
+      "canonicalPath": "/fipe/audi/r8-5-2-v10-quattro-r-tronic-s-tronic-2021-008146-9/",
+      "ano": 2021,
+      "marca": "Audi"
+    },
+    {
+      "vehicleId": "audi-r8-5-2-v10-quattro-r-tronic-s-tronic-2022-gasolina",
+      "fipeCodigo": "008146-9",
+      "displayName": "Audi R8 5.2 V10 Quattro R-tronic/S-tronic",
+      "valorAtual": 1954405,
+      "canonicalPath": "/fipe/audi/r8-5-2-v10-quattro-r-tronic-s-tronic-2022-008146-9/",
+      "ano": 2022,
+      "marca": "Audi"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "r8-2"
+  }
+}

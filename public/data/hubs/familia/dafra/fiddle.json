@@ -1,0 +1,42 @@
+{
+  "tipo": "familia",
+  "slug": "fiddle",
+  "canonicalPath": "/fipe/dafra/fiddle/",
+  "titulo": "DAFRA fiddle - Tabela FIPE",
+  "descricao": "2 versoes e anos do DAFRA fiddle na Tabela FIPE.",
+  "seo": {
+    "title": "DAFRA fiddle - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes DAFRA fiddle. 2 veiculos indexados.",
+    "h1": "DAFRA fiddle - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/dafra/fiddle/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "dafra-fiddle-iii-125-2018-gasolina",
+      "fipeCodigo": "861023-1",
+      "displayName": "DAFRA FIDDLE III 125",
+      "valorAtual": 9668,
+      "canonicalPath": "/fipe/dafra/fiddle-iii-125-2018-861023-1/",
+      "ano": 2018,
+      "marca": "DAFRA"
+    },
+    {
+      "vehicleId": "dafra-fiddle-iii-125-2017-gasolina",
+      "fipeCodigo": "861023-1",
+      "displayName": "DAFRA FIDDLE III 125",
+      "valorAtual": 8534,
+      "canonicalPath": "/fipe/dafra/fiddle-iii-125-2017-861023-1/",
+      "ano": 2017,
+      "marca": "DAFRA"
+    }
+  ],
+  "stats": {
+    "total": 2,
+    "precoMin": 8534,
+    "precoMax": 9668,
+    "anos": [
+      2018,
+      2017
+    ]
+  }
+}

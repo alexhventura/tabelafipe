@@ -1,0 +1,48 @@
+{
+  "tipo": "geracao",
+  "slug": "switchback-1",
+  "canonicalPath": "/geracao/harley-davidson/switchback-1/",
+  "titulo": "Geracao switchback-1",
+  "descricao": "3 veiculos da geracao switchback-1.",
+  "seo": {
+    "title": "Geracao switchback-1 - Precos FIPE",
+    "description": "Veiculos da geracao switchback-1 na Tabela FIPE.",
+    "h1": "Geracao switchback-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/harley-davidson/switchback-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "harley-davidson-switchback-fld-2012-gasolina",
+      "fipeCodigo": "810056-0",
+      "displayName": "HARLEY-DAVIDSON SWITCHBACK FLD",
+      "valorAtual": 51980,
+      "canonicalPath": "/fipe/harley-davidson/switchback-fld-2012-810056-0/",
+      "ano": 2012,
+      "marca": "HARLEY-DAVIDSON"
+    },
+    {
+      "vehicleId": "harley-davidson-switchback-fld-2013-gasolina",
+      "fipeCodigo": "810056-0",
+      "displayName": "HARLEY-DAVIDSON SWITCHBACK FLD",
+      "valorAtual": 53280,
+      "canonicalPath": "/fipe/harley-davidson/switchback-fld-2013-810056-0/",
+      "ano": 2013,
+      "marca": "HARLEY-DAVIDSON"
+    },
+    {
+      "vehicleId": "harley-davidson-switchback-fld-2014-gasolina",
+      "fipeCodigo": "810056-0",
+      "displayName": "HARLEY-DAVIDSON SWITCHBACK FLD",
+      "valorAtual": 54612,
+      "canonicalPath": "/fipe/harley-davidson/switchback-fld-2014-810056-0/",
+      "ano": 2014,
+      "marca": "HARLEY-DAVIDSON"
+    }
+  ],
+  "stats": {
+    "total": 3
+  },
+  "meta": {
+    "geracaoId": "switchback-1"
+  }
+}

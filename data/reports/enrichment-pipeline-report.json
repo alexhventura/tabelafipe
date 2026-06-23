@@ -1,0 +1,28 @@
+{
+  "geradoEm": "2026-06-21T05:26:07.641Z",
+  "camadas": {
+    "raw": {
+      "fontesPresentes": 3,
+      "fontesTotal": 6
+    },
+    "normalized": {
+      "veiculos": 50395,
+      "matchKeys": 0
+    },
+    "enriched": {
+      "veiculos": 50395,
+      "comInmetro": 20957,
+      "comHistorico": 50238,
+      "comSpecs": 43564
+    },
+    "generated": {
+      "veiculos": 50395
+    }
+  },
+  "cobertura": {
+    "inmetroPct": 41.59,
+    "historicoPct": 99.69,
+    "specsPct": 86.45,
+    "derivedPct": 100
+  }
+}

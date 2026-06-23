@@ -1,0 +1,69 @@
+{
+  "tipo": "familia",
+  "slug": "e",
+  "canonicalPath": "/fipe/peugeot/e/",
+  "titulo": "Peugeot e - Tabela FIPE",
+  "descricao": "5 versoes e anos do Peugeot e na Tabela FIPE.",
+  "seo": {
+    "title": "Peugeot e - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes Peugeot e. 5 veiculos indexados.",
+    "h1": "Peugeot e - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/peugeot/e/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "peugeot-e-208-gt-5p-aut-eletrico-2023-eletrico",
+      "fipeCodigo": "024255-1",
+      "displayName": "Peugeot e-208 GT 5p Aut. (Elétrico)",
+      "valorAtual": 97854,
+      "canonicalPath": "/fipe/peugeot/e-208-gt-5p-aut-eletrico-2023-024255-1/",
+      "ano": 2023,
+      "marca": "Peugeot"
+    },
+    {
+      "vehicleId": "peugeot-e-2008-gt-5p-aut-eletrico-2023-eletrico",
+      "fipeCodigo": "024268-3",
+      "displayName": "Peugeot e-2008 GT 5p Aut. ( Elétrico)",
+      "valorAtual": 128223,
+      "canonicalPath": "/fipe/peugeot/e-2008-gt-5p-aut-eletrico-2023-024268-3/",
+      "ano": 2023,
+      "marca": "Peugeot"
+    },
+    {
+      "vehicleId": "peugeot-e-expert-cargo-136cv-eletrico-2023-eletrico",
+      "fipeCodigo": "024258-6",
+      "displayName": "Peugeot E-Expert Cargo 136cv (Elétrico)",
+      "valorAtual": 177413,
+      "canonicalPath": "/fipe/peugeot/e-expert-cargo-136cv-eletrico-2023-024258-6/",
+      "ano": 2023,
+      "marca": "Peugeot"
+    },
+    {
+      "vehicleId": "peugeot-e-208-gt-5p-aut-eletrico-2022-eletrico",
+      "fipeCodigo": "024255-1",
+      "displayName": "Peugeot e-208 GT 5p Aut. (Elétrico)",
+      "valorAtual": 95014,
+      "canonicalPath": "/fipe/peugeot/e-208-gt-5p-aut-eletrico-2022-024255-1/",
+      "ano": 2022,
+      "marca": "Peugeot"
+    },
+    {
+      "vehicleId": "peugeot-e-expert-cargo-136cv-eletrico-2022-eletrico",
+      "fipeCodigo": "024258-6",
+      "displayName": "Peugeot E-Expert Cargo 136cv (Elétrico)",
+      "valorAtual": 143123,
+      "canonicalPath": "/fipe/peugeot/e-expert-cargo-136cv-eletrico-2022-024258-6/",
+      "ano": 2022,
+      "marca": "Peugeot"
+    }
+  ],
+  "stats": {
+    "total": 5,
+    "precoMin": 95014,
+    "precoMax": 177413,
+    "anos": [
+      2023,
+      2022
+    ]
+  }
+}

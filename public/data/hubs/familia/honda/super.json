@@ -1,0 +1,42 @@
+{
+  "tipo": "familia",
+  "slug": "super",
+  "canonicalPath": "/fipe/honda/super/",
+  "titulo": "HONDA super - Tabela FIPE",
+  "descricao": "2 versoes e anos do HONDA super na Tabela FIPE.",
+  "seo": {
+    "title": "HONDA super - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes HONDA super. 2 veiculos indexados.",
+    "h1": "HONDA super - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/honda/super/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "honda-super-hawk-1000-1998-gasolina",
+      "fipeCodigo": "811036-0",
+      "displayName": "HONDA SUPER HAWK 1000",
+      "valorAtual": 23630,
+      "canonicalPath": "/fipe/honda/super-hawk-1000-1998-811036-0/",
+      "ano": 1998,
+      "marca": "HONDA"
+    },
+    {
+      "vehicleId": "honda-super-hawk-1000-1997-gasolina",
+      "fipeCodigo": "811036-0",
+      "displayName": "HONDA SUPER HAWK 1000",
+      "valorAtual": 23036,
+      "canonicalPath": "/fipe/honda/super-hawk-1000-1997-811036-0/",
+      "ano": 1997,
+      "marca": "HONDA"
+    }
+  ],
+  "stats": {
+    "total": 2,
+    "precoMin": 23036,
+    "precoMax": 23630,
+    "anos": [
+      1998,
+      1997
+    ]
+  }
+}

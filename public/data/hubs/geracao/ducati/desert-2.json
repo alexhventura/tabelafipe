@@ -1,0 +1,48 @@
+{
+  "tipo": "geracao",
+  "slug": "desert-2",
+  "canonicalPath": "/geracao/ducati/desert-2/",
+  "titulo": "Geracao desert-2",
+  "descricao": "3 veiculos da geracao desert-2.",
+  "seo": {
+    "title": "Geracao desert-2 - Precos FIPE",
+    "description": "Veiculos da geracao desert-2 na Tabela FIPE.",
+    "h1": "Geracao desert-2",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/ducati/desert-2/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "ducati-desert-x-2023-gasolina",
+      "fipeCodigo": "808089-5",
+      "displayName": "DUCATI DESERT X",
+      "valorAtual": 73014,
+      "canonicalPath": "/fipe/ducati/desert-x-2023-808089-5/",
+      "ano": 2023,
+      "marca": "DUCATI"
+    },
+    {
+      "vehicleId": "ducati-desert-x-2024-gasolina",
+      "fipeCodigo": "808089-5",
+      "displayName": "DUCATI DESERT X",
+      "valorAtual": 82288,
+      "canonicalPath": "/fipe/ducati/desert-x-2024-808089-5/",
+      "ano": 2024,
+      "marca": "DUCATI"
+    },
+    {
+      "vehicleId": "ducati-desert-x-2025-gasolina",
+      "fipeCodigo": "808089-5",
+      "displayName": "DUCATI DESERT X",
+      "valorAtual": 86009,
+      "canonicalPath": "/fipe/ducati/desert-x-2025-808089-5/",
+      "ano": 2025,
+      "marca": "DUCATI"
+    }
+  ],
+  "stats": {
+    "total": 3
+  },
+  "meta": {
+    "geracaoId": "desert-2"
+  }
+}

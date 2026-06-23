@@ -1,0 +1,39 @@
+{
+  "tipo": "geracao",
+  "slug": "squab-1",
+  "canonicalPath": "/geracao/peugeot/squab-1/",
+  "titulo": "Geracao squab-1",
+  "descricao": "2 veiculos da geracao squab-1.",
+  "seo": {
+    "title": "Geracao squab-1 - Precos FIPE",
+    "description": "Veiculos da geracao squab-1 na Tabela FIPE.",
+    "h1": "Geracao squab-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/peugeot/squab-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "peugeot-squab-50-1997-gasolina",
+      "fipeCodigo": "821008-0",
+      "displayName": "PEUGEOT SQUAB 50",
+      "valorAtual": 1199,
+      "canonicalPath": "/fipe/peugeot/squab-50-1997-821008-0/",
+      "ano": 1997,
+      "marca": "PEUGEOT"
+    },
+    {
+      "vehicleId": "peugeot-squab-50-1998-gasolina",
+      "fipeCodigo": "821008-0",
+      "displayName": "PEUGEOT SQUAB 50",
+      "valorAtual": 1291,
+      "canonicalPath": "/fipe/peugeot/squab-50-1998-821008-0/",
+      "ano": 1998,
+      "marca": "PEUGEOT"
+    }
+  ],
+  "stats": {
+    "total": 2
+  },
+  "meta": {
+    "geracaoId": "squab-1"
+  }
+}

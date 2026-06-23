@@ -1,0 +1,42 @@
+{
+  "tipo": "familia",
+  "slug": "spyder",
+  "canonicalPath": "/fipe/johnnypag/spyder/",
+  "titulo": "JOHNNYPAG spyder - Tabela FIPE",
+  "descricao": "2 versoes e anos do JOHNNYPAG spyder na Tabela FIPE.",
+  "seo": {
+    "title": "JOHNNYPAG spyder - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes JOHNNYPAG spyder. 2 veiculos indexados.",
+    "h1": "JOHNNYPAG spyder - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/johnnypag/spyder/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "johnnypag-spyder-300cc-2011-gasolina",
+      "fipeCodigo": "875002-5",
+      "displayName": "JOHNNYPAG SPYDER 300cc",
+      "valorAtual": 8829,
+      "canonicalPath": "/fipe/johnnypag/spyder-300cc-2011-875002-5/",
+      "ano": 2011,
+      "marca": "JOHNNYPAG"
+    },
+    {
+      "vehicleId": "johnnypag-spyder-300cc-2010-gasolina",
+      "fipeCodigo": "875002-5",
+      "displayName": "JOHNNYPAG SPYDER 300cc",
+      "valorAtual": 8605,
+      "canonicalPath": "/fipe/johnnypag/spyder-300cc-2010-875002-5/",
+      "ano": 2010,
+      "marca": "JOHNNYPAG"
+    }
+  ],
+  "stats": {
+    "total": 2,
+    "precoMin": 8605,
+    "precoMax": 8829,
+    "anos": [
+      2011,
+      2010
+    ]
+  }
+}

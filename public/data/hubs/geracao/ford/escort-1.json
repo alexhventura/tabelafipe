@@ -1,0 +1,741 @@
+{
+  "tipo": "geracao",
+  "slug": "escort-1",
+  "canonicalPath": "/geracao/ford/escort-1/",
+  "titulo": "Geracao escort-1",
+  "descricao": "142 veiculos da geracao escort-1.",
+  "seo": {
+    "title": "Geracao escort-1 - Precos FIPE",
+    "description": "Veiculos da geracao escort-1 na Tabela FIPE.",
+    "h1": "Geracao escort-1",
+    "canonical": "https://pesquisatabelafipe.com.br/geracao/ford/escort-1/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "ford-escort-racer-2-0i-1996-gasolina",
+      "fipeCodigo": "003123-2",
+      "displayName": "Ford Escort  Racer 2.0i",
+      "valorAtual": 15700,
+      "canonicalPath": "/fipe/ford/escort-racer-2-0i-1996-003123-2/",
+      "ano": 1996,
+      "marca": "Ford"
+    },
+    {
+      "vehicleId": "ford-escort-gl-1-6-mpi-2000-gasolina",
+      "fipeCodigo": "003207-7",
+      "displayName": "Ford Escort GL 1.6 MPI",
+      "valorAtual": 9251,
+      "canonicalPath": "/fipe/ford/escort-gl-1-6-mpi-2000-003207-7/",
+      "ano": 2000,
+      "marca": "Ford"
+    },
+    {
+      "vehicleId": "ford-escort-gl-1-6-mpi-2001-gasolina",
+      "fipeCodigo": "003207-7",
+      "displayName": "Ford Escort GL 1.6 MPI",
+      "valorAtual": 11246,
+      "canonicalPath": "/fipe/ford/escort-gl-1-6-mpi-2001-003207-7/",
+      "ano": 2001,
+      "marca": "Ford"
+    },
+    {
+      "vehicleId": "ford-escort-gl-1-6-mpi-2002-gasolina",
+      "fipeCodigo": "003207-7",
+      "displayName": "Ford Escort GL 1.6 MPI",
+      "valorAtual": 11528,
+      "canonicalPath": "/fipe/ford/escort-gl-1-6-mpi-2002-003207-7/",
+      "ano": 2002,
+      "marca": "Ford"
+    },
+    {
+      "vehicleId": "ford-escort-gl-1-6i-1-6-1985-gasolina",
+      "fipeCodigo": "003030-9",
+      "displayName": "Ford Escort GL 1.6i / 1.6",
+      "valorAtual": 3017,
+      "canonicalPath": "/fipe/ford/escort-gl-1-6i-1-6-1985-003030-9/",
+      "ano": 1985,
+      "marca": "Ford"
+    },
+    {
+      "vehicleId": "ford-escort-gl-1-6i-1-6-1986-gasolina",
+      "fipeCodigo": "003030-9",
+      "displayName": "Ford Escort GL 1.6i / 1.6",
+      "valorAtual": 3898,
+      "canonicalPath": "/fipe/ford/escort-gl-1-6i-1-6-1986-003030-9/",
+      "ano": 1986,
+      "marca": "Ford"
+    },
+    {
+      "vehicleId": "ford-escort-gl-1-6i-1-6-1987-gasolina",
+      "fipeCodigo": "003030-9",
+      "displayName": "Ford Escort GL 1.6i / 1.6",
+      "valorAtual": 4461,
+      "canonicalPath": "/fipe/ford/escort-gl-1-6i-1-6-1987-003030-9/",
+      "ano": 1987,
+      "marca": "Ford"
+    },
+    {
+      "vehicleId": "ford-escort-gl-1-6i-1-6-1988-gasolina",
+      "fipeCodigo": "003030-9",
+      "displayName": "Ford Escort GL 1.6i / 1.6",
+      "valorAtual": 4743,
+      "canonicalPath": "/fipe/ford/escort-gl-1-6i-1-6-1988-003030-9/",
+      "ano": 1988,
+      "marca": "Ford"
+    },
+    {
+      "vehicleId": "ford-escort-gl-1-6i-1-6-1989-gasolina",
+      "fipeCodigo": "003030-9",
+      "displayName": "Ford Escort GL 1.6i / 1.6",
+      "valorAtual": 5092,
+      "canonicalPath": "/fipe/ford/escort-gl-1-6i-1-6-1989-003030-9/",
+      "ano": 1989,
+      "marca": "Ford"
+    },
+    {
+      "vehicleId": "ford-escort-gl-1-6i-1-6-1990-gasolina",
+      "fipeCodigo": "003030-9",
+      "displayName": "Ford Escort GL 1.6i / 1.6",
+      "valorAtual": 5364,
+      "canonicalPath": "/fipe/ford/escort-gl-1-6i-1-6-1990-003030-9/",
+      "ano": 1990,
+      "marca": "Ford"
+    },
+    {
+      "vehicleId": "ford-escort-gl-1-6i-1-6-1991-gasolina",
+      "fipeCodigo": "003030-9",
+      "displayName": "Ford Escort GL 1.6i / 1.6",
+      "valorAtual": 5956,
+      "canonicalPath": "/fipe/ford/escort-gl-1-6i-1-6-1991-003030-9/",
+      "ano": 1991,
+      "marca": "Ford"
+    },
+    {
+      "vehicleId": "ford-escort-gl-1-6i-1-6-1992-gasolina",
+      "fipeCodigo": "003030-9",
+      "displayName": "Ford Escort GL 1.6i / 1.6",
+      "valorAtual": 6823,
+      "canonicalPath": "/fipe/ford/escort-gl-1-6i-1-6-1992-003030-9/",
+      "ano": 1992,
+      "marca": "Ford"
+    },
+    {
+      "vehicleId": "ford-escort-gl-1-6i-1-6-1993-gasolina",
+      "fipeCodigo": "003030-9",
+      "displayName": "Ford Escort GL 1.6i / 1.6",
+      "valorAtual": 7062,
+      "canonicalPath": "/fipe/ford/escort-gl-1-6i-1-6-1993-003030-9/",
+      "ano": 1993,
+      "marca": "Ford"
+    },
+    {
+      "vehicleId": "ford-escort-gl-1-6i-1-6-1994-gasolina",
+      "fipeCodigo": "003030-9",
+      "displayName": "Ford Escort GL 1.6i / 1.6",
+      "valorAtual": 7926,
+      "canonicalPath": "/fipe/ford/escort-gl-1-6i-1-6-1994-003030-9/",
+      "ano": 1994,
+      "marca": "Ford"
+    },
+    {
+      "vehicleId": "ford-escort-gl-1-6i-1-6-1995-etanol",
+      "fipeCodigo": "003030-9",
+      "displayName": "Ford Escort GL 1.6i / 1.6",
+      "valorAtual": 6406,
+      "canonicalPath": "/fipe/ford/escort-gl-1-6i-1-6-1995-003030-9/",
+      "ano": 1995,
+      "marca": "Ford"
+    },
+    {
+      "vehicleId": "ford-escort-gl-1-6i-1-6-1995-gasolina",
+      "fipeCodigo": "003030-9",
+      "displayName": "Ford Escort GL 1.6i / 1.6",
+      "valorAtual": 8498,
+      "canonicalPath": "/fipe/ford/escort-gl-1-6i-1-6-1995-003030-9/",
+      "ano": 1995,
+      "marca": "Ford"
+    },
+    {
+      "vehicleId": "ford-escort-gl-1-6i-1-6-1996-etanol",
+      "fipeCodigo": "003030-9",
+      "displayName": "Ford Escort GL 1.6i / 1.6",
+      "valorAtual": 7126,
+      "canonicalPath": "/fipe/ford/escort-gl-1-6i-1-6-1996-003030-9/",
+      "ano": 1996,
+      "marca": "Ford"
+    },
+    {
+      "vehicleId": "ford-escort-gl-1-6i-1-6-1996-gasolina",
+      "fipeCodigo": "003030-9",
+      "displayName": "Ford Escort GL 1.6i / 1.6",
+      "valorAtual": 8873,
+      "canonicalPath": "/fipe/ford/escort-gl-1-6i-1-6-1996-003030-9/",
+      "ano": 1996,
+      "marca": "Ford"
+    },
+    {
+      "vehicleId": "ford-escort-gl-1-8i-1-8-1989-gasolina",
+      "fipeCodigo": "003031-7",
+      "displayName": "Ford Escort GL 1.8i / 1.8",
+      "valorAtual": 5069,
+      "canonicalPath": "/fipe/ford/escort-gl-1-8i-1-8-1989-003031-7/",
+      "ano": 1989,
+      "marca": "Ford"
+    },
+    {
+      "vehicleId": "ford-escort-gl-1-8i-1-8-1990-gasolina",
+      "fipeCodigo": "003031-7",
+      "displayName": "Ford Escort GL 1.8i / 1.8",
+      "valorAtual": 5758,
+      "canonicalPath": "/fipe/ford/escort-gl-1-8i-1-8-1990-003031-7/",
+      "ano": 1990,
+      "marca": "Ford"
+    },
+    {
+      "vehicleId": "ford-escort-gl-1-8i-1-8-1991-gasolina",
+      "fipeCodigo": "003031-7",
+      "displayName": "Ford Escort GL 1.8i / 1.8",
+      "valorAtual": 6127,
+      "canonicalPath": "/fipe/ford/escort-gl-1-8i-1-8-1991-003031-7/",
+      "ano": 1991,
+      "marca": "Ford"
+    },
+    {
+      "vehicleId": "ford-escort-gl-1-8i-1-8-1992-gasolina",
+      "fipeCodigo": "003031-7",
+      "displayName": "Ford Escort GL 1.8i / 1.8",
+      "valorAtual": 6281,
+      "canonicalPath": "/fipe/ford/escort-gl-1-8i-1-8-1992-003031-7/",
+      "ano": 1992,
+      "marca": "Ford"
+    },
+    {
+      "vehicleId": "ford-escort-gl-1-8i-1-8-1993-gasolina",
+      "fipeCodigo": "003031-7",
+      "displayName": "Ford Escort GL 1.8i / 1.8",
+      "valorAtual": 7157,
+      "canonicalPath": "/fipe/ford/escort-gl-1-8i-1-8-1993-003031-7/",
+      "ano": 1993,
+      "marca": "Ford"
+    },
+    {
+      "vehicleId": "ford-escort-gl-1-8i-1-8-1994-gasolina",
+      "fipeCodigo": "003031-7",
+      "displayName": "Ford Escort GL 1.8i / 1.8",
+      "valorAtual": 7661,
+      "canonicalPath": "/fipe/ford/escort-gl-1-8i-1-8-1994-003031-7/",
+      "ano": 1994,
+      "marca": "Ford"
+    },
+    {
+      "vehicleId": "ford-escort-gl-1-8i-1-8-1995-gasolina",
+      "fipeCodigo": "003031-7",
+      "displayName": "Ford Escort GL 1.8i / 1.8",
+      "valorAtual": 8309,
+      "canonicalPath": "/fipe/ford/escort-gl-1-8i-1-8-1995-003031-7/",
+      "ano": 1995,
+      "marca": "Ford"
+    },
+    {
+      "vehicleId": "ford-escort-gl-1-8i-1-8-1995-etanol",
+      "fipeCodigo": "003031-7",
+      "displayName": "Ford Escort GL 1.8i / 1.8",
+      "valorAtual": 6517,
+      "canonicalPath": "/fipe/ford/escort-gl-1-8i-1-8-1995-003031-7/",
+      "ano": 1995,
+      "marca": "Ford"
+    },
+    {
+      "vehicleId": "ford-escort-gl-1-8i-1-8-1996-etanol",
+      "fipeCodigo": "003031-7",
+      "displayName": "Ford Escort GL 1.8i / 1.8",
+      "valorAtual": 7236,
+      "canonicalPath": "/fipe/ford/escort-gl-1-8i-1-8-1996-003031-7/",
+      "ano": 1996,
+      "marca": "Ford"
+    },
+    {
+      "vehicleId": "ford-escort-gl-1-8i-1-8-1996-gasolina",
+      "fipeCodigo": "003031-7",
+      "displayName": "Ford Escort GL 1.8i / 1.8",
+      "valorAtual": 10599,
+      "canonicalPath": "/fipe/ford/escort-gl-1-8i-1-8-1996-003031-7/",
+      "ano": 1996,
+      "marca": "Ford"
+    },
+    {
+      "vehicleId": "ford-escort-gl-1-8i-16v-3p-1997-gasolina",
+      "fipeCodigo": "003004-0",
+      "displayName": "Ford Escort GL 1.8i 16V 3p",
+      "valorAtual": 7589,
+      "canonicalPath": "/fipe/ford/escort-gl-1-8i-16v-3p-1997-003004-0/",
+      "ano": 1997,
+      "marca": "Ford"
+    },
+    {
+      "vehicleId": "ford-escort-gl-1-8i-16v-3p-1998-gasolina",
+      "fipeCodigo": "003004-0",
+      "displayName": "Ford Escort GL 1.8i 16V 3p",
+      "valorAtual": 8703,
+      "canonicalPath": "/fipe/ford/escort-gl-1-8i-16v-3p-1998-003004-0/",
+      "ano": 1998,
+      "marca": "Ford"
+    },
+    {
+      "vehicleId": "ford-escort-gl-1-8i-16v-3p-1999-gasolina",
+      "fipeCodigo": "003004-0",
+      "displayName": "Ford Escort GL 1.8i 16V 3p",
+      "valorAtual": 9185,
+      "canonicalPath": "/fipe/ford/escort-gl-1-8i-16v-3p-1999-003004-0/",
+      "ano": 1999,
+      "marca": "Ford"
+    },
+    {
+      "vehicleId": "ford-escort-gl-1-8i-16v-4p-1997-gasolina",
+      "fipeCodigo": "003005-8",
+      "displayName": "Ford Escort GL 1.8i 16V 4p",
+      "valorAtual": 8203,
+      "canonicalPath": "/fipe/ford/escort-gl-1-8i-16v-4p-1997-003005-8/",
+      "ano": 1997,
+      "marca": "Ford"
+    },
+    {
+      "vehicleId": "ford-escort-gl-1-8i-16v-4p-1998-gasolina",
+      "fipeCodigo": "003005-8",
+      "displayName": "Ford Escort GL 1.8i 16V 4p",
+      "valorAtual": 8409,
+      "canonicalPath": "/fipe/ford/escort-gl-1-8i-16v-4p-1998-003005-8/",
+      "ano": 1998,
+      "marca": "Ford"
+    },
+    {
+      "vehicleId": "ford-escort-gl-1-8i-16v-4p-1999-gasolina",
+      "fipeCodigo": "003005-8",
+      "displayName": "Ford Escort GL 1.8i 16V 4p",
+      "valorAtual": 8620,
+      "canonicalPath": "/fipe/ford/escort-gl-1-8i-16v-4p-1999-003005-8/",
+      "ano": 1999,
+      "marca": "Ford"
+    },
+    {
+      "vehicleId": "ford-escort-gl-1-8i-16v-4p-2000-gasolina",
+      "fipeCodigo": "003005-8",
+      "displayName": "Ford Escort GL 1.8i 16V 4p",
+      "valorAtual": 9077,
+      "canonicalPath": "/fipe/ford/escort-gl-1-8i-16v-4p-2000-003005-8/",
+      "ano": 2000,
+      "marca": "Ford"
+    },
+    {
+      "vehicleId": "ford-escort-gl-1-8i-16v-4p-2001-gasolina",
+      "fipeCodigo": "003005-8",
+      "displayName": "Ford Escort GL 1.8i 16V 4p",
+      "valorAtual": 9598,
+      "canonicalPath": "/fipe/ford/escort-gl-1-8i-16v-4p-2001-003005-8/",
+      "ano": 2001,
+      "marca": "Ford"
+    },
+    {
+      "vehicleId": "ford-escort-gl-1-8i-16v-4p-2002-gasolina",
+      "fipeCodigo": "003005-8",
+      "displayName": "Ford Escort GL 1.8i 16V 4p",
+      "valorAtual": 9838,
+      "canonicalPath": "/fipe/ford/escort-gl-1-8i-16v-4p-2002-003005-8/",
+      "ano": 2002,
+      "marca": "Ford"
+    },
+    {
+      "vehicleId": "ford-escort-gl-1-8i-16v-4p-2003-gasolina",
+      "fipeCodigo": "003005-8",
+      "displayName": "Ford Escort GL 1.8i 16V 4p",
+      "valorAtual": 11180,
+      "canonicalPath": "/fipe/ford/escort-gl-1-8i-16v-4p-2003-003005-8/",
+      "ano": 2003,
+      "marca": "Ford"
+    },
+    {
+      "vehicleId": "ford-escort-glx-1-6i-1994-gasolina",
+      "fipeCodigo": "003032-5",
+      "displayName": "Ford Escort GLX 1.6i",
+      "valorAtual": 5549,
+      "canonicalPath": "/fipe/ford/escort-glx-1-6i-1994-003032-5/",
+      "ano": 1994,
+      "marca": "Ford"
+    },
+    {
+      "vehicleId": "ford-escort-glx-1-6i-1995-etanol",
+      "fipeCodigo": "003032-5",
+      "displayName": "Ford Escort GLX 1.6i",
+      "valorAtual": 6338,
+      "canonicalPath": "/fipe/ford/escort-glx-1-6i-1995-003032-5/",
+      "ano": 1995,
+      "marca": "Ford"
+    },
+    {
+      "vehicleId": "ford-escort-glx-1-6i-1995-gasolina",
+      "fipeCodigo": "003032-5",
+      "displayName": "Ford Escort GLX 1.6i",
+      "valorAtual": 6286,
+      "canonicalPath": "/fipe/ford/escort-glx-1-6i-1995-003032-5/",
+      "ano": 1995,
+      "marca": "Ford"
+    },
+    {
+      "vehicleId": "ford-escort-glx-1-6i-1996-gasolina",
+      "fipeCodigo": "003032-5",
+      "displayName": "Ford Escort GLX 1.6i",
+      "valorAtual": 7322,
+      "canonicalPath": "/fipe/ford/escort-glx-1-6i-1996-003032-5/",
+      "ano": 1996,
+      "marca": "Ford"
+    },
+    {
+      "vehicleId": "ford-escort-glx-1-6i-1996-etanol",
+      "fipeCodigo": "003032-5",
+      "displayName": "Ford Escort GLX 1.6i",
+      "valorAtual": 7322,
+      "canonicalPath": "/fipe/ford/escort-glx-1-6i-1996-003032-5/",
+      "ano": 1996,
+      "marca": "Ford"
+    },
+    {
+      "vehicleId": "ford-escort-glx-1-8i-16v-4p-1997-gasolina",
+      "fipeCodigo": "003007-4",
+      "displayName": "Ford Escort GLX 1.8i 16V 4p",
+      "valorAtual": 10368,
+      "canonicalPath": "/fipe/ford/escort-glx-1-8i-16v-4p-1997-003007-4/",
+      "ano": 1997,
+      "marca": "Ford"
+    },
+    {
+      "vehicleId": "ford-escort-glx-1-8i-16v-4p-1998-gasolina",
+      "fipeCodigo": "003007-4",
+      "displayName": "Ford Escort GLX 1.8i 16V 4p",
+      "valorAtual": 10628,
+      "canonicalPath": "/fipe/ford/escort-glx-1-8i-16v-4p-1998-003007-4/",
+      "ano": 1998,
+      "marca": "Ford"
+    },
+    {
+      "vehicleId": "ford-escort-glx-1-8i-16v-4p-1999-gasolina",
+      "fipeCodigo": "003007-4",
+      "displayName": "Ford Escort GLX 1.8i 16V 4p",
+      "valorAtual": 10894,
+      "canonicalPath": "/fipe/ford/escort-glx-1-8i-16v-4p-1999-003007-4/",
+      "ano": 1999,
+      "marca": "Ford"
+    },
+    {
+      "vehicleId": "ford-escort-glx-1-8i-16v-4p-2000-gasolina",
+      "fipeCodigo": "003007-4",
+      "displayName": "Ford Escort GLX 1.8i 16V 4p",
+      "valorAtual": 11167,
+      "canonicalPath": "/fipe/ford/escort-glx-1-8i-16v-4p-2000-003007-4/",
+      "ano": 2000,
+      "marca": "Ford"
+    },
+    {
+      "vehicleId": "ford-escort-glx-1-8i-16v-4p-2001-gasolina",
+      "fipeCodigo": "003007-4",
+      "displayName": "Ford Escort GLX 1.8i 16V 4p",
+      "valorAtual": 12686,
+      "canonicalPath": "/fipe/ford/escort-glx-1-8i-16v-4p-2001-003007-4/",
+      "ano": 2001,
+      "marca": "Ford"
+    },
+    {
+      "vehicleId": "ford-escort-glx-1-8i-8v-1994-gasolina",
+      "fipeCodigo": "003033-3",
+      "displayName": "Ford Escort GLX 1.8i 8v",
+      "valorAtual": 7447,
+      "canonicalPath": "/fipe/ford/escort-glx-1-8i-8v-1994-003033-3/",
+      "ano": 1994,
+      "marca": "Ford"
+    },
+    {
+      "vehicleId": "ford-escort-glx-1-8i-8v-1995-gasolina",
+      "fipeCodigo": "003033-3",
+      "displayName": "Ford Escort GLX 1.8i 8v",
+      "valorAtual": 8076,
+      "canonicalPath": "/fipe/ford/escort-glx-1-8i-8v-1995-003033-3/",
+      "ano": 1995,
+      "marca": "Ford"
+    },
+    {
+      "vehicleId": "ford-escort-glx-1-8i-8v-1995-etanol",
+      "fipeCodigo": "003033-3",
+      "displayName": "Ford Escort GLX 1.8i 8v",
+      "valorAtual": 6536,
+      "canonicalPath": "/fipe/ford/escort-glx-1-8i-8v-1995-003033-3/",
+      "ano": 1995,
+      "marca": "Ford"
+    },
+    {
+      "vehicleId": "ford-escort-glx-1-8i-8v-1996-etanol",
+      "fipeCodigo": "003033-3",
+      "displayName": "Ford Escort GLX 1.8i 8v",
+      "valorAtual": 7718,
+      "canonicalPath": "/fipe/ford/escort-glx-1-8i-8v-1996-003033-3/",
+      "ano": 1996,
+      "marca": "Ford"
+    },
+    {
+      "vehicleId": "ford-escort-glx-1-8i-8v-1996-gasolina",
+      "fipeCodigo": "003033-3",
+      "displayName": "Ford Escort GLX 1.8i 8v",
+      "valorAtual": 12895,
+      "canonicalPath": "/fipe/ford/escort-glx-1-8i-8v-1996-003033-3/",
+      "ano": 1996,
+      "marca": "Ford"
+    },
+    {
+      "vehicleId": "ford-escort-ghia-1-8i-1-8-1-6-1985-gasolina",
+      "fipeCodigo": "003035-0",
+      "displayName": "Ford Escort Ghia 1.8i / 1.8 / 1.6",
+      "valorAtual": 3094,
+      "canonicalPath": "/fipe/ford/escort-ghia-1-8i-1-8-1-6-1985-003035-0/",
+      "ano": 1985,
+      "marca": "Ford"
+    },
+    {
+      "vehicleId": "ford-escort-ghia-1-8i-1-8-1-6-1986-gasolina",
+      "fipeCodigo": "003035-0",
+      "displayName": "Ford Escort Ghia 1.8i / 1.8 / 1.6",
+      "valorAtual": 3690,
+      "canonicalPath": "/fipe/ford/escort-ghia-1-8i-1-8-1-6-1986-003035-0/",
+      "ano": 1986,
+      "marca": "Ford"
+    },
+    {
+      "vehicleId": "ford-escort-ghia-1-8i-1-8-1-6-1987-gasolina",
+      "fipeCodigo": "003035-0",
+      "displayName": "Ford Escort Ghia 1.8i / 1.8 / 1.6",
+      "valorAtual": 4378,
+      "canonicalPath": "/fipe/ford/escort-ghia-1-8i-1-8-1-6-1987-003035-0/",
+      "ano": 1987,
+      "marca": "Ford"
+    },
+    {
+      "vehicleId": "ford-escort-ghia-1-8i-1-8-1-6-1988-gasolina",
+      "fipeCodigo": "003035-0",
+      "displayName": "Ford Escort Ghia 1.8i / 1.8 / 1.6",
+      "valorAtual": 4833,
+      "canonicalPath": "/fipe/ford/escort-ghia-1-8i-1-8-1-6-1988-003035-0/",
+      "ano": 1988,
+      "marca": "Ford"
+    },
+    {
+      "vehicleId": "ford-escort-ghia-1-8i-1-8-1-6-1989-gasolina",
+      "fipeCodigo": "003035-0",
+      "displayName": "Ford Escort Ghia 1.8i / 1.8 / 1.6",
+      "valorAtual": 5344,
+      "canonicalPath": "/fipe/ford/escort-ghia-1-8i-1-8-1-6-1989-003035-0/",
+      "ano": 1989,
+      "marca": "Ford"
+    },
+    {
+      "vehicleId": "ford-escort-ghia-1-8i-1-8-1-6-1990-gasolina",
+      "fipeCodigo": "003035-0",
+      "displayName": "Ford Escort Ghia 1.8i / 1.8 / 1.6",
+      "valorAtual": 5982,
+      "canonicalPath": "/fipe/ford/escort-ghia-1-8i-1-8-1-6-1990-003035-0/",
+      "ano": 1990,
+      "marca": "Ford"
+    },
+    {
+      "vehicleId": "ford-escort-ghia-1-8i-1-8-1-6-1991-gasolina",
+      "fipeCodigo": "003035-0",
+      "displayName": "Ford Escort Ghia 1.8i / 1.8 / 1.6",
+      "valorAtual": 6176,
+      "canonicalPath": "/fipe/ford/escort-ghia-1-8i-1-8-1-6-1991-003035-0/",
+      "ano": 1991,
+      "marca": "Ford"
+    },
+    {
+      "vehicleId": "ford-escort-ghia-1-8i-1-8-1-6-1992-gasolina",
+      "fipeCodigo": "003035-0",
+      "displayName": "Ford Escort Ghia 1.8i / 1.8 / 1.6",
+      "valorAtual": 6331,
+      "canonicalPath": "/fipe/ford/escort-ghia-1-8i-1-8-1-6-1992-003035-0/",
+      "ano": 1992,
+      "marca": "Ford"
+    },
+    {
+      "vehicleId": "ford-escort-ghia-1-8i-1-8-1-6-1993-gasolina",
+      "fipeCodigo": "003035-0",
+      "displayName": "Ford Escort Ghia 1.8i / 1.8 / 1.6",
+      "valorAtual": 6576,
+      "canonicalPath": "/fipe/ford/escort-ghia-1-8i-1-8-1-6-1993-003035-0/",
+      "ano": 1993,
+      "marca": "Ford"
+    },
+    {
+      "vehicleId": "ford-escort-ghia-1-8i-1-8-1-6-1994-gasolina",
+      "fipeCodigo": "003035-0",
+      "displayName": "Ford Escort Ghia 1.8i / 1.8 / 1.6",
+      "valorAtual": 7580,
+      "canonicalPath": "/fipe/ford/escort-ghia-1-8i-1-8-1-6-1994-003035-0/",
+      "ano": 1994,
+      "marca": "Ford"
+    },
+    {
+      "vehicleId": "ford-escort-ghia-1-8i-1-8-1-6-1995-gasolina",
+      "fipeCodigo": "003035-0",
+      "displayName": "Ford Escort Ghia 1.8i / 1.8 / 1.6",
+      "valorAtual": 7770,
+      "canonicalPath": "/fipe/ford/escort-ghia-1-8i-1-8-1-6-1995-003035-0/",
+      "ano": 1995,
+      "marca": "Ford"
+    },
+    {
+      "vehicleId": "ford-escort-ghia-1-8i-1-8-1-6-1995-etanol",
+      "fipeCodigo": "003035-0",
+      "displayName": "Ford Escort Ghia 1.8i / 1.8 / 1.6",
+      "valorAtual": 6536,
+      "canonicalPath": "/fipe/ford/escort-ghia-1-8i-1-8-1-6-1995-003035-0/",
+      "ano": 1995,
+      "marca": "Ford"
+    },
+    {
+      "vehicleId": "ford-escort-ghia-2-0i-2-0-1993-gasolina",
+      "fipeCodigo": "003036-8",
+      "displayName": "Ford Escort Ghia 2.0i / 2.0",
+      "valorAtual": 6788,
+      "canonicalPath": "/fipe/ford/escort-ghia-2-0i-2-0-1993-003036-8/",
+      "ano": 1993,
+      "marca": "Ford"
+    },
+    {
+      "vehicleId": "ford-escort-ghia-2-0i-2-0-1994-gasolina",
+      "fipeCodigo": "003036-8",
+      "displayName": "Ford Escort Ghia 2.0i / 2.0",
+      "valorAtual": 7855,
+      "canonicalPath": "/fipe/ford/escort-ghia-2-0i-2-0-1994-003036-8/",
+      "ano": 1994,
+      "marca": "Ford"
+    },
+    {
+      "vehicleId": "ford-escort-ghia-2-0i-2-0-1995-etanol",
+      "fipeCodigo": "003036-8",
+      "displayName": "Ford Escort Ghia 2.0i / 2.0",
+      "valorAtual": 6775,
+      "canonicalPath": "/fipe/ford/escort-ghia-2-0i-2-0-1995-003036-8/",
+      "ano": 1995,
+      "marca": "Ford"
+    },
+    {
+      "vehicleId": "ford-escort-ghia-2-0i-2-0-1995-gasolina",
+      "fipeCodigo": "003036-8",
+      "displayName": "Ford Escort Ghia 2.0i / 2.0",
+      "valorAtual": 10698,
+      "canonicalPath": "/fipe/ford/escort-ghia-2-0i-2-0-1995-003036-8/",
+      "ano": 1995,
+      "marca": "Ford"
+    },
+    {
+      "vehicleId": "ford-escort-guaruja-1-8-4p-1991-gasolina",
+      "fipeCodigo": "003034-1",
+      "displayName": "Ford Escort Guarujá 1.8 4p",
+      "valorAtual": 5844,
+      "canonicalPath": "/fipe/ford/escort-guaruja-1-8-4p-1991-003034-1/",
+      "ano": 1991,
+      "marca": "Ford"
+    },
+    {
+      "vehicleId": "ford-escort-guaruja-1-8-4p-1992-gasolina",
+      "fipeCodigo": "003034-1",
+      "displayName": "Ford Escort Guarujá 1.8 4p",
+      "valorAtual": 7739,
+      "canonicalPath": "/fipe/ford/escort-guaruja-1-8-4p-1992-003034-1/",
+      "ano": 1992,
+      "marca": "Ford"
+    },
+    {
+      "vehicleId": "ford-escort-guaruja-1-8-4p-1993-gasolina",
+      "fipeCodigo": "003034-1",
+      "displayName": "Ford Escort Guarujá 1.8 4p",
+      "valorAtual": 7933,
+      "canonicalPath": "/fipe/ford/escort-guaruja-1-8-4p-1993-003034-1/",
+      "ano": 1993,
+      "marca": "Ford"
+    },
+    {
+      "vehicleId": "ford-escort-hobby-1-0-1993-gasolina",
+      "fipeCodigo": "003026-0",
+      "displayName": "Ford Escort Hobby 1.0",
+      "valorAtual": 7121,
+      "canonicalPath": "/fipe/ford/escort-hobby-1-0-1993-003026-0/",
+      "ano": 1993,
+      "marca": "Ford"
+    },
+    {
+      "vehicleId": "ford-escort-hobby-1-0-1994-gasolina",
+      "fipeCodigo": "003026-0",
+      "displayName": "Ford Escort Hobby 1.0",
+      "valorAtual": 7850,
+      "canonicalPath": "/fipe/ford/escort-hobby-1-0-1994-003026-0/",
+      "ano": 1994,
+      "marca": "Ford"
+    },
+    {
+      "vehicleId": "ford-escort-hobby-1-0-1995-gasolina",
+      "fipeCodigo": "003026-0",
+      "displayName": "Ford Escort Hobby 1.0",
+      "valorAtual": 8049,
+      "canonicalPath": "/fipe/ford/escort-hobby-1-0-1995-003026-0/",
+      "ano": 1995,
+      "marca": "Ford"
+    },
+    {
+      "vehicleId": "ford-escort-hobby-1-0-1996-gasolina",
+      "fipeCodigo": "003026-0",
+      "displayName": "Ford Escort Hobby 1.0",
+      "valorAtual": 12882,
+      "canonicalPath": "/fipe/ford/escort-hobby-1-0-1996-003026-0/",
+      "ano": 1996,
+      "marca": "Ford"
+    },
+    {
+      "vehicleId": "ford-escort-hobby-1-6-1993-gasolina",
+      "fipeCodigo": "003027-9",
+      "displayName": "Ford Escort Hobby 1.6",
+      "valorAtual": 7228,
+      "canonicalPath": "/fipe/ford/escort-hobby-1-6-1993-003027-9/",
+      "ano": 1993,
+      "marca": "Ford"
+    },
+    {
+      "vehicleId": "ford-escort-hobby-1-6-1994-gasolina",
+      "fipeCodigo": "003027-9",
+      "displayName": "Ford Escort Hobby 1.6",
+      "valorAtual": 7859,
+      "canonicalPath": "/fipe/ford/escort-hobby-1-6-1994-003027-9/",
+      "ano": 1994,
+      "marca": "Ford"
+    },
+    {
+      "vehicleId": "ford-escort-hobby-1-6-1995-gasolina",
+      "fipeCodigo": "003027-9",
+      "displayName": "Ford Escort Hobby 1.6",
+      "valorAtual": 8056,
+      "canonicalPath": "/fipe/ford/escort-hobby-1-6-1995-003027-9/",
+      "ano": 1995,
+      "marca": "Ford"
+    },
+    {
+      "vehicleId": "ford-escort-l-1-8i-1-8-1991-gasolina",
+      "fipeCodigo": "003029-5",
+      "displayName": "Ford Escort L 1.8i / 1.8",
+      "valorAtual": 6500,
+      "canonicalPath": "/fipe/ford/escort-l-1-8i-1-8-1991-003029-5/",
+      "ano": 1991,
+      "marca": "Ford"
+    }
+  ],
+  "stats": {
+    "total": 142
+  },
+  "meta": {
+    "geracaoId": "escort-1"
+  }
+}

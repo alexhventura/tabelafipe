@@ -1,0 +1,92 @@
+{
+  "tipo": "familia",
+  "slug": "zx",
+  "canonicalPath": "/fipe/kawasaki/zx/",
+  "titulo": "KAWASAKI zx - Tabela FIPE",
+  "descricao": "7 versoes e anos do KAWASAKI zx na Tabela FIPE.",
+  "seo": {
+    "title": "KAWASAKI zx - Tabela FIPE | Precos e versoes",
+    "description": "Consulte precos FIPE de todas as versoes KAWASAKI zx. 7 veiculos indexados.",
+    "h1": "KAWASAKI zx - Tabela FIPE",
+    "canonical": "https://pesquisatabelafipe.com.br/fipe/kawasaki/zx/"
+  },
+  "veiculos": [
+    {
+      "vehicleId": "kawasaki-zx-14-zx-14r-1352cc-2014-gasolina",
+      "fipeCodigo": "817040-1",
+      "displayName": "KAWASAKI ZX-14/ZX 14R 1352cc",
+      "valorAtual": 61544,
+      "canonicalPath": "/fipe/kawasaki/zx-14-zx-14r-1352cc-2014-817040-1/",
+      "ano": 2014,
+      "marca": "KAWASAKI"
+    },
+    {
+      "vehicleId": "kawasaki-zx-14-zx-14r-1352cc-2013-gasolina",
+      "fipeCodigo": "817040-1",
+      "displayName": "KAWASAKI ZX-14/ZX 14R 1352cc",
+      "valorAtual": 53953,
+      "canonicalPath": "/fipe/kawasaki/zx-14-zx-14r-1352cc-2013-817040-1/",
+      "ano": 2013,
+      "marca": "KAWASAKI"
+    },
+    {
+      "vehicleId": "kawasaki-zx-14-zx-14r-1352cc-2011-gasolina",
+      "fipeCodigo": "817040-1",
+      "displayName": "KAWASAKI ZX-14/ZX 14R 1352cc",
+      "valorAtual": 41085,
+      "canonicalPath": "/fipe/kawasaki/zx-14-zx-14r-1352cc-2011-817040-1/",
+      "ano": 2011,
+      "marca": "KAWASAKI"
+    },
+    {
+      "vehicleId": "kawasaki-zx-14-zx-14r-1352cc-2010-gasolina",
+      "fipeCodigo": "817040-1",
+      "displayName": "KAWASAKI ZX-14/ZX 14R 1352cc",
+      "valorAtual": 40082,
+      "canonicalPath": "/fipe/kawasaki/zx-14-zx-14r-1352cc-2010-817040-1/",
+      "ano": 2010,
+      "marca": "KAWASAKI"
+    },
+    {
+      "vehicleId": "kawasaki-zx-14-zx-14r-1352cc-2008-gasolina",
+      "fipeCodigo": "817040-1",
+      "displayName": "KAWASAKI ZX-14/ZX 14R 1352cc",
+      "valorAtual": 35405,
+      "canonicalPath": "/fipe/kawasaki/zx-14-zx-14r-1352cc-2008-817040-1/",
+      "ano": 2008,
+      "marca": "KAWASAKI"
+    },
+    {
+      "vehicleId": "kawasaki-zx-14-zx-14r-1352cc-2007-gasolina",
+      "fipeCodigo": "817040-1",
+      "displayName": "KAWASAKI ZX-14/ZX 14R 1352cc",
+      "valorAtual": 32160,
+      "canonicalPath": "/fipe/kawasaki/zx-14-zx-14r-1352cc-2007-817040-1/",
+      "ano": 2007,
+      "marca": "KAWASAKI"
+    },
+    {
+      "vehicleId": "kawasaki-zx-14-zx-14r-1352cc-2006-gasolina",
+      "fipeCodigo": "817040-1",
+      "displayName": "KAWASAKI ZX-14/ZX 14R 1352cc",
+      "valorAtual": 28388,
+      "canonicalPath": "/fipe/kawasaki/zx-14-zx-14r-1352cc-2006-817040-1/",
+      "ano": 2006,
+      "marca": "KAWASAKI"
+    }
+  ],
+  "stats": {
+    "total": 7,
+    "precoMin": 28388,
+    "precoMax": 61544,
+    "anos": [
+      2014,
+      2013,
+      2011,
+      2010,
+      2008,
+      2007,
+      2006
+    ]
+  }
+}
