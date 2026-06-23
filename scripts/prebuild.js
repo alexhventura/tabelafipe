@@ -32,13 +32,26 @@ if (!fs.existsSync(path.join(process.cwd(), 'public', 'data', 'fipe'))) {
   run('npx', ['tsx', 'scripts/migrate-flat-to-tree.ts']);
 }
 
+const isCi = process.env.VERCEL === '1' || process.env.CI === 'true';
+const manifestFresh = total >= 50_000;
+
 if (fs.existsSync(VEICULOS)) {
   const n = JSON.parse(fs.readFileSync(VEICULOS, 'utf-8')).length;
-  if (n > 0) {
+  const needsRebuild = n > 0 && (!manifestFresh || total < Math.floor(n * 0.9));
+  if (needsRebuild && !isCi) {
     console.log(`Pre-build: rebuild search index (${n} veiculos)...`);
     run('npx', ['tsx', 'scripts/build-search-index.ts']);
+  } else if (needsRebuild && isCi) {
+    console.log(`Pre-build: skip search index rebuild on CI (manifest total=${total})`);
+  } else {
+    console.log(`Pre-build: search index ok (${total} itens no manifest)`);
   }
 }
 
-console.log('Pre-build: sitemap...');
-run('node', ['scripts/generate-sitemap.js']);
+const sitemapPath = path.join(process.cwd(), 'public', 'sitemap.xml');
+if (!isCi || !fs.existsSync(sitemapPath)) {
+  console.log('Pre-build: sitemap...');
+  run('node', ['scripts/generate-sitemap.js']);
+} else {
+  console.log('Pre-build: sitemap ok (CI)');
+}
