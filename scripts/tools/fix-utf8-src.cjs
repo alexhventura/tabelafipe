@@ -1,90 +1,53 @@
+/**
+ * Converte arquivos UTF-16 LE acidentalmente salvos pelo editor de volta para UTF-8.
+ * Uso: node scripts/tools/fix-utf8-src.cjs
+ */
 const fs = require('fs');
 const path = require('path');
 
 const ROOT = path.join(__dirname, '../..');
 
-const bundleTs = `import type { HistoricoPonto, VehiclePageBundle } from '../types/bundle';
+const TARGET_DIRS = [
+  path.join(ROOT, 'src'),
+  path.join(ROOT, 'scripts', 'lib'),
+  path.join(ROOT, 'scripts', 'tools'),
+  path.join(ROOT, 'scripts', 'ssg'),
+  path.join(ROOT, 'scripts', 'datasets'),
+  path.join(ROOT, 'data', 'schemas'),
+  path.join(ROOT, 'astro-ssg', 'src'),
+];
 
-export type VehicleUrlMapEntry = {
-  bundlePath: string;
-  canonicalPath: string;
-  pageSlug: string;
-};
+const EXT = /\.(tsx?|jsx?|mjs|cjs|json|astro|yml|yaml|css)$/;
 
-let urlMapCache: Record<string, VehicleUrlMapEntry> | null = null;
-
-async function loadUrlMap(): Promise<Record<string, VehicleUrlMapEntry>> {
-  if (urlMapCache) return urlMapCache;
-  try {
-    const res = await fetch('/data/vehicle-url-map.json');
-    if (res.ok) {
-      urlMapCache = await res.json();
-      return urlMapCache!;
-    }
-  } catch {
-    /* fallback below */
-  }
-  urlMapCache = {};
-  return urlMapCache;
+function isUtf16Le(buf) {
+  if (buf.length >= 2 && buf[0] === 0xff && buf[1] === 0xfe) return true;
+  return buf.length >= 4 && buf[1] === 0 && buf[3] === 0;
 }
 
-export async function loadVehicleBundle(
-  marcaSlug: string,
-  slug: string,
-): Promise<VehiclePageBundle | null> {
-  const cleanSlug = slug.replace(/\\/$/, '');
-  const direct = \`/data/bundles/\${marcaSlug}/\${cleanSlug}.json\`;
-  try {
-    const res = await fetch(direct);
-    if (res.ok) return (await res.json()) as VehiclePageBundle;
-  } catch {
-    /* try url map fallback */
-  }
-
-  const map = await loadUrlMap();
-  const entry =
-    map[cleanSlug] ?? Object.values(map).find((e) => e.pageSlug === cleanSlug);
-  if (entry?.bundlePath) {
-    const res = await fetch(entry.bundlePath);
-    if (res.ok) return (await res.json()) as VehiclePageBundle;
-  }
-
-  return null;
+function utf16LeToUtf8(buf) {
+  const body = buf[0] === 0xff && buf[1] === 0xfe ? buf.slice(2) : buf;
+  return body.toString('utf16le').replace(/^\uFEFF/, '');
 }
 
-export async function loadFamilyHub(marcaSlug: string, familiaSlug: string): Promise<Record<string, unknown> | null> {
-  try {
-    const res = await fetch(\`/data/hubs/familia/\${marcaSlug}/\${familiaSlug}.json\`);
-    if (res.ok) return (await res.json()) as Record<string, unknown>;
-  } catch {
-    /* ignore */
-  }
-  return null;
+function convertFile(p) {
+  const b = fs.readFileSync(p);
+  if (!isUtf16Le(b)) return false;
+  fs.writeFileSync(p, utf16LeToUtf8(b), 'utf8');
+  console.log('converted', path.relative(ROOT, p));
+  return true;
 }
-
-export function historicoToChartData(historico: HistoricoPonto[]): { mes: string; valor: number }[] {
-  return historico.map((h) => ({
-    mes: h.referencia ?? h.mes ?? '',
-    valor: h.valor,
-  }));
-}
-`;
-
-fs.writeFileSync(path.join(ROOT, 'src/lib/bundle.ts'), bundleTs, 'utf8');
 
 function walk(dir) {
+  if (!fs.existsSync(dir)) return 0;
+  let count = 0;
   for (const e of fs.readdirSync(dir, { withFileTypes: true })) {
     const p = path.join(dir, e.name);
-    if (e.isDirectory()) walk(p);
-    else if (/\.(tsx?|jsx?)$/.test(e.name)) {
-      const b = fs.readFileSync(p);
-      if (b.length > 1 && b[1] === 0) {
-        fs.writeFileSync(p, Buffer.from(b.toString('utf16le')), 'utf8');
-        console.log('converted', p);
-      }
-    }
+    if (e.isDirectory()) count += walk(p);
+    else if (EXT.test(e.name) && convertFile(p)) count++;
   }
+  return count;
 }
 
-walk(path.join(ROOT, 'src'));
-console.log('done');
+let total = 0;
+for (const dir of TARGET_DIRS) total += walk(dir);
+console.log(total ? `done (${total} arquivo(s))` : 'done (nenhuma conversao necessaria)');
