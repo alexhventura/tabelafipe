@@ -1,4 +1,5 @@
 import { Vehicle } from '../types';
+import { formatYearLabel } from './displayYear';
 import { formatBRL, formatPct } from './format';
 import { computeTrend, vehicleDisplayName } from './vehicle';
 
@@ -7,8 +8,14 @@ export interface FaqItem {
   resposta: string;
 }
 
+function yearPhrase(vehicle: Vehicle): string {
+  const label = formatYearLabel(vehicle.anoModelo);
+  return label ? ` ${label}` : '';
+}
+
 export function generateFaq(vehicle: Vehicle, mesReferencia = 'Jun/2026'): FaqItem[] {
   const nome = vehicleDisplayName(vehicle);
+  const anoTxt = yearPhrase(vehicle);
   const trend6m = computeTrend(vehicle.historicoPrecos, 6);
   const valor6mAtras =
     vehicle.historicoPrecos.length >= 7
@@ -17,7 +24,7 @@ export function generateFaq(vehicle: Vehicle, mesReferencia = 'Jun/2026'): FaqIt
 
   const faqs: FaqItem[] = [
     {
-      pergunta: `Qual o valor do ${nome} ${vehicle.anoModelo} na Tabela FIPE?`,
+      pergunta: `Qual o valor do ${nome}${anoTxt} na Tabela FIPE?`,
       resposta: `O valor de referência é ${formatBRL(vehicle.valorAtual)} (${mesReferencia}).`,
     },
   ];
@@ -34,13 +41,13 @@ export function generateFaq(vehicle: Vehicle, mesReferencia = 'Jun/2026'): FaqIt
   if (trend6m !== null) {
     const direcao = trend6m >= 0 ? 'valorizando' : 'desvalorizando';
     faqs.push({
-      pergunta: `O ${nome} ${vehicle.anoModelo} está valorizando ou desvalorizando?`,
+      pergunta: `O ${nome}${anoTxt} está valorizando ou desvalorizando?`,
       resposta: `Está ${direcao} ${formatPct(Math.abs(trend6m))} nos últimos 6 meses.`,
     });
   }
 
   faqs.push({
-    pergunta: `Qual o código FIPE do ${nome} ${vehicle.anoModelo}?`,
+    pergunta: `Qual o código FIPE do ${nome}${anoTxt}?`,
     resposta: `O código FIPE é ${vehicle.fipeCodigo}, combustível ${vehicle.combustivel}.`,
   });
 

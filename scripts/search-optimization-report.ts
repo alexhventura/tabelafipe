@@ -173,10 +173,10 @@ function main() {
     const ms = performance.now() - start;
     latencies.push(ms);
     porLetra[letter] = {
-      familias: hits.filter((h) => h.kind === 'familia').length,
+      familias: hits.filter((h) => h.browseFamily).length,
       ms: Math.round(ms * 100) / 100,
       amostra: hits.slice(0, 5).map((h) =>
-        h.kind === 'familia' ? `${h.item.marca} ${h.item.familiaDisplay}` : h.item.nome.slice(0, 40),
+        h.browseFamily ? `${h.item.marca} ${h.browseFamily}` : h.item.nome.slice(0, 40),
       ),
     };
   }

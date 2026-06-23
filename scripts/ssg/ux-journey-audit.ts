@@ -272,20 +272,20 @@ async function main() {
       amostras: internalSamples,
     },
     jornada: {
-      metaSegundos: 10,
+      metaSegundos: 5,
       buscaCorollaMs: tempoBuscaMs,
       loadBundleCorollaMs: Math.round(corollaBundleMs * 100) / 100,
       tempoAtePrecoEstimadoMs,
       tempoAteHistoricoEstimadoMs,
       tempoJornadaCompletaEstimadoMs,
-      dentroDaMeta10s: tempoJornadaCompletaEstimadoMs < 10000,
+      dentroDaMeta5s: tempoJornadaCompletaEstimadoMs < 5000,
       queries: journeySteps,
     },
     metas: {
       zeroUrlsQuebradas: urlsQuebradas === 0,
       zeroLinksInternosQuebrados: internalBroken === 0,
       zeroHubsVazios: hubsVazios === 0,
-      jornadaMenor10s: tempoJornadaCompletaEstimadoMs < 10000,
+      jornadaMenor5s: tempoJornadaCompletaEstimadoMs < 5000,
       breadcrumbCompleto: breadcrumbIncompleto === 0,
     },
     notas: [

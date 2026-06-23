@@ -2,10 +2,8 @@ import { useEffect, useMemo, useState } from 'react';
 
 import { Link, useParams } from 'react-router-dom';
 
-import SearchBox from '../components/search/SearchBox';
 import VehicleBreadcrumb from '../components/vehicle/VehicleBreadcrumb';
 import VehiclePageSections, { buildEnhancedFaq, buildFaqJsonLd } from '../components/vehicle/VehiclePageSections';
-import { useSearchIndex } from '../hooks/useSearchIndex';
 import { useBundleSeo } from '../hooks/useBundleSeo';
 import { loadVehicleBundle, loadFamilyHub } from '../lib/bundle';
 import { buildVehicleBreadcrumb } from '../lib/vehiclePageData';
@@ -18,8 +16,6 @@ import type { VehiclePageBundle } from '../types/bundle';
 export default function VehiclePage() {
 
   const { marca, slug } = useParams<{ marca: string; slug: string }>();
-
-  const { index, families } = useSearchIndex();
 
   const [bundle, setBundle] = useState<VehiclePageBundle | null>(null);
 
@@ -139,9 +135,7 @@ export default function VehiclePage() {
 
 
   return (
-    <div className="max-w-3xl mx-auto px-4 py-6 space-y-6">
-      <SearchBox index={index} families={families} size="compact" showTabs={false} />
-
+    <div className="max-w-3xl mx-auto px-4 py-3 sm:py-4 space-y-3">
       <VehicleBreadcrumb items={breadcrumbItems} />
 
       <VehiclePageSections bundle={bundle} />

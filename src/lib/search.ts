@@ -12,28 +12,20 @@ import {
   modeloTokens,
   normalizeText,
 } from './modelFamily';
+import { appendYearToTitle, formatYearLabel } from './displayYear';
 
 export { normalizeText } from './modelFamily';
 
-const SINONIMOS: Record<string, string[]> = {
-  vw: ['volkswagen', 'vw'],
-  volkswagen: ['volkswagen', 'vw'],
-  gm: ['chevrolet', 'gm'],
-  chevrolet: ['chevrolet', 'gm'],
-  chevy: ['chevrolet'],
-};
-
 const MOTO_HINTS = /\b(cg|cb|biz|factor|fazer|ys|pop|twister|hornet|pcx|nmax|xre|lander)\b/i;
 
-const FUEL_OR_SPEC_TOKENS = new Set([
-  'diesel', 'flex', 'gasolina', 'hibrido', 'hybrid', 'turbo', 'aut', 'manual', '4x4',
-]);
-
-/** Prioridade 1–4 do ranking de busca. */
+/** Prioridade do ranking: exato > prefixo > contém. */
 export const MATCH_TIER = {
+  EXACT: 10000,
+  ALL_TOKENS: 9000,
   MODELO_STARTS: 4000,
   MARCA_STARTS: 3000,
   MODELO_INCLUDES: 2000,
+  TOKEN_PREFIX: 1500,
   OTHER: 1000,
 } as const;
 
@@ -44,6 +36,7 @@ const POPULAR_FAMILY_BOOST: Record<string, number> = {
 };
 
 export const AUTOCOMPLETE_LIMIT = 10;
+export const HIGH_CONFIDENCE_THRESHOLD = 0.95;
 
 export function extractYearFromQuery(query: string): number | null {
   const match = query.match(/\b(19|20)\d{2}\b/);
@@ -71,6 +64,16 @@ function getFamilyNorm(item: SearchIndexItem): string {
   return extractFamilyName(item.modelo ?? item.nome);
 }
 
+function queryTokens(query: string): string[] {
+  return normalizeText(query.replace(/\b(19|20)\d{2}\b/g, ''))
+    .split(/\s+/)
+    .filter((t) => t.length >= 1 && !FUEL_OR_SPEC_TOKENS.has(t));
+}
+
+const FUEL_OR_SPEC_TOKENS = new Set([
+  'diesel', 'flex', 'gasolina', 'hibrido', 'hybrid', 'turbo', 'aut', 'manual', '4x4',
+]);
+
 export function scoreTextMatch(
   modelo: string,
   marca: string,
@@ -79,6 +82,11 @@ export function scoreTextMatch(
 ): number {
   const q = normalizeText(query);
   if (!q) return -1;
+
+  const full = normalizeText(`${marca} ${modelo}`);
+  if (full === q || modelo === q || familia === q) {
+    return MATCH_TIER.EXACT;
+  }
 
   if (familia.startsWith(q) || modelo.startsWith(q)) {
     return MATCH_TIER.MODELO_STARTS + familia.length;
@@ -92,28 +100,126 @@ export function scoreTextMatch(
 
   const tokens = [...modeloTokens(modelo), ...modeloTokens(familia)];
   for (const token of tokens) {
-    if (token.startsWith(q)) return MATCH_TIER.OTHER + token.length * 10;
+    if (token.startsWith(q)) return MATCH_TIER.TOKEN_PREFIX + token.length * 10;
   }
-  if (normalizeText(`${marca} ${modelo}`).includes(q)) {
+  if (full.includes(q)) {
     return MATCH_TIER.OTHER;
   }
   return -1;
+}
+
+interface VehicleMatch {
+  score: number;
+  confidence: number;
+}
+
+function tokenMatchStrength(haystack: string, token: string): 0 | 1 | 2 | 3 {
+  const words = new Set([
+    ...haystack.split(/\s+/),
+    ...modeloTokens(haystack),
+  ]);
+  if (words.has(token)) return 3;
+  for (const w of words) {
+    if (w.startsWith(token)) return 2;
+  }
+  if (haystack.includes(token)) return 1;
+  return 0;
+}
+
+function scoreVehicle(item: SearchIndexItem, query: string, yearFilter: number | null): VehicleMatch {
+  if (yearFilter && item.ano !== yearFilter) return { score: -1, confidence: 0 };
+
+  const modelo = getModeloNorm(item);
+  const marca = getMarcaNorm(item);
+  const familia = getFamilyNorm(item);
+  const nome = normalizeText(item.nome);
+  const full = normalizeText(`${marca} ${modelo}`);
+  const fullWithYear = normalizeText(`${marca} ${modelo} ${item.ano ?? ''}`);
+  const normQuery = normalizeText(query);
+  const textQuery = normalizeText(query.replace(/\b(19|20)\d{2}\b/g, '').trim());
+  const tokens = queryTokens(query);
+
+  if (!textQuery && !yearFilter) return { score: -1, confidence: 0 };
+
+  if (
+    normQuery &&
+    (full === normQuery ||
+      fullWithYear === normQuery ||
+      nome === normQuery ||
+      normalizeText(item.termoBusca) === normQuery)
+  ) {
+    return { score: MATCH_TIER.EXACT + 500, confidence: 0.99 };
+  }
+
+  let score = -1;
+  let confidence = 0;
+
+  if (tokens.length > 0) {
+    let minStrength: 0 | 1 | 2 | 3 = 3;
+    let matched = 0;
+    const hay = `${marca} ${modelo} ${familia} ${nome}`;
+
+    for (const token of tokens) {
+      const strength = tokenMatchStrength(hay, token);
+      if (strength === 0) {
+        minStrength = 0;
+        matched = 0;
+        break;
+      }
+      matched++;
+      if (strength < minStrength) minStrength = strength;
+    }
+
+    if (matched === tokens.length) {
+      if (minStrength === 3 && tokens.length >= 2) {
+        score = MATCH_TIER.ALL_TOKENS + tokens.length * 120;
+        confidence = yearFilter ? 0.98 : 0.94;
+      } else if (minStrength >= 2) {
+        score = MATCH_TIER.MODELO_STARTS + tokens.length * 80;
+        confidence = 0.88;
+      } else {
+        score = MATCH_TIER.MODELO_INCLUDES + tokens.length * 40;
+        confidence = 0.75;
+      }
+    }
+  }
+
+  if (score < 0 && textQuery) {
+    const base = scoreTextMatch(modelo, marca, familia, textQuery);
+    if (base >= 0) {
+      score = base;
+      confidence = base >= MATCH_TIER.MODELO_STARTS ? 0.82 : 0.68;
+    }
+  }
+
+  if (score < 0) return { score: -1, confidence: 0 };
+
+  score += (POPULAR_FAMILY_BOOST[familia] ?? 0) + Math.min(item.ano ?? 0, 2030) / 100;
+
+  if (yearFilter && item.ano === yearFilter && tokens.length >= 2 && minTokenStrength(tokens, `${marca} ${modelo} ${nome}`) >= 2) {
+    confidence = Math.max(confidence, 0.97);
+  }
+
+  if (tokens.length >= 3 && yearFilter) {
+    confidence = Math.max(confidence, 0.96);
+  }
+
+  return { score, confidence: Math.min(confidence, 0.99) };
+}
+
+function minTokenStrength(tokens: string[], hay: string): number {
+  let min = 3;
+  for (const token of tokens) {
+    const s = tokenMatchStrength(hay, token);
+    if (s < min) min = s;
+  }
+  return min;
 }
 
 function scoreFamily(family: FamilySearchItem, query: string): number {
   const base = scoreTextMatch(family.familia, normalizeText(family.marca), family.familia, query);
   if (base < 0) return -1;
   return base + (POPULAR_FAMILY_BOOST[family.familia] ?? 0) + Math.min(family.versaoCount, 200);
-}
-
-function scoreVehicle(item: SearchIndexItem, query: string, yearFilter: number | null): number {
-  if (yearFilter && item.ano !== yearFilter) return -1;
-  const modelo = getModeloNorm(item);
-  const marca = getMarcaNorm(item);
-  const familia = getFamilyNorm(item);
-  const base = scoreTextMatch(modelo, marca, familia, query);
-  if (base < 0) return -1;
-  return base + (POPULAR_FAMILY_BOOST[familia] ?? 0) + Math.min(item.ano ?? 0, 2030) / 100;
 }
 
 function dedupeFamilies(items: FamilySearchItem[]): FamilySearchItem[] {
@@ -130,13 +236,23 @@ function dedupeFamilies(items: FamilySearchItem[]): FamilySearchItem[] {
 function dedupeVehicles(items: SearchIndexItem[]): SearchIndexItem[] {
   const seen = new Map<string, SearchIndexItem>();
   for (const item of items) {
-    const key = `${normalizeText(item.nome)}-${item.ano ?? 0}-${item.valor}`;
+    const key = `${normalizeText(item.nome)}-${item.ano ?? 0}-${item.fipeCodigo ?? item.valor}`;
     const existing = seen.get(key);
     if (!existing || (item.ano ?? 0) > (existing.ano ?? 0)) {
       seen.set(key, item);
     }
   }
   return [...seen.values()];
+}
+
+/** Consultas curtas (1–3 chars) mostram famílias; a partir de 4 chars ou 2+ tokens, versões reais. */
+export function isBrowseQuery(query: string): boolean {
+  const trimmed = query.trim();
+  if (!trimmed || normalizeFipeCodeQuery(trimmed)) return false;
+  if (extractYearFromQuery(trimmed)) return false;
+  if (/\s/.test(trimmed)) return false;
+  const token = normalizeText(trimmed);
+  return token.length > 0 && token.length <= 3;
 }
 
 export function searchFamilies(
@@ -159,12 +275,77 @@ export function searchFamilies(
   return dedupeFamilies(scored.map((s) => s.item)).slice(0, limit);
 }
 
+function pickFamilyVehicles(
+  vehicles: SearchIndexItem[],
+  family: FamilySearchItem,
+  maxPerFamily: number,
+): SearchIndexItem[] {
+  const marcaNorm = normalizeText(family.marca);
+  const matches = vehicles.filter((v) => {
+    if (v.tipo !== family.tipo) return false;
+    if (normalizeText(v.marca ?? '') !== marcaNorm) return false;
+    return getFamilyNorm(v) === family.familia;
+  });
+  if (!matches.length) return [];
+
+  matches.sort(
+    (a, b) =>
+      (b.ano ?? 0) - (a.ano ?? 0) ||
+      (b.valor ?? 0) - (a.valor ?? 0) ||
+      normalizeText(a.modelo ?? a.nome).localeCompare(normalizeText(b.modelo ?? b.nome)),
+  );
+
+  const seen = new Set<string>();
+  const out: SearchIndexItem[] = [];
+  for (const vehicle of matches) {
+    const key = vehicle.fipeCodigo ?? `${normalizeText(vehicle.modelo ?? vehicle.nome)}-${vehicle.ano ?? 0}`;
+    if (seen.has(key)) continue;
+    seen.add(key);
+    out.push(vehicle);
+    if (out.length >= maxPerFamily) break;
+  }
+  return out;
+}
+
+function searchFamilyRepresentatives(
+  families: FamilySearchItem[],
+  vehicles: SearchIndexItem[],
+  query: string,
+  tipo: VehicleTipo,
+  limit: number,
+): SearchSuggestion[] {
+  const familyHits = searchFamilies(families, query, tipo, Math.min(limit, 6));
+  const perFamily = Math.max(1, Math.ceil(limit / Math.max(familyHits.length, 1)));
+  const out: SearchSuggestion[] = [];
+
+  for (const family of familyHits) {
+    for (const vehicle of pickFamilyVehicles(vehicles, family, perFamily)) {
+      out.push({
+        kind: 'veiculo',
+        item: vehicle,
+        confidence: 0.72,
+      });
+      if (out.length >= limit) return out;
+    }
+  }
+  return out;
+}
+
 export function searchVehicles(
   index: SearchIndexItem[],
   query: string,
   tipo: VehicleTipo = 'carros',
   limit = 20,
 ): SearchIndexItem[] {
+  return searchVehiclesWithConfidence(index, query, tipo, limit).map((r) => r.item);
+}
+
+export function searchVehiclesWithConfidence(
+  index: SearchIndexItem[],
+  query: string,
+  tipo: VehicleTipo = 'carros',
+  limit = 20,
+): SearchSuggestion[] {
   const trimmed = query.trim();
   if (!trimmed) return [];
 
@@ -178,25 +359,56 @@ export function searchVehicles(
       if (b.fipeCodigo === fipeCode && a.fipeCodigo !== fipeCode) return 1;
       return (b.ano ?? 0) - (a.ano ?? 0);
     });
-    return dedupeVehicles(hits).slice(0, limit);
+    return dedupeVehicles(hits)
+      .slice(0, limit)
+      .map((item) => ({
+        kind: 'veiculo' as const,
+        item,
+        confidence: item.fipeCodigo === fipeCode ? 0.99 : 0.9,
+      }));
   }
 
   const yearFilter = extractYearFromQuery(trimmed);
-  const queryWithoutYear = normalizeText(trimmed).replace(/\b(19|20)\d{2}\b/g, '').trim();
+  const textPart = trimmed.replace(/\b(19|20)\d{2}\b/g, '').trim();
+  const queryWithoutYear = normalizeText(textPart);
   if (queryWithoutYear.length < 1 && !yearFilter) return [];
 
-  const scored: Array<{ item: SearchIndexItem; score: number }> = [];
+  const scored: Array<{ item: SearchIndexItem; score: number; confidence: number }> = [];
+  let maxScore = 0;
+
   for (const item of index) {
     if (item.tipo !== tipo) continue;
-    const score = scoreVehicle(item, queryWithoutYear || normalizeText(trimmed), yearFilter);
-    if (score >= 0) scored.push({ item, score });
+    const { score, confidence } = scoreVehicle(item, trimmed, yearFilter);
+    if (score < 0) continue;
+    if (score > maxScore) maxScore = score;
+    scored.push({ item, score, confidence });
   }
 
   scored.sort((a, b) => b.score - a.score || (b.item.ano ?? 0) - (a.item.ano ?? 0));
-  return dedupeVehicles(scored.map((s) => s.item)).slice(0, limit);
+
+  const seen = new Set<string>();
+  const deduped: Array<{ item: SearchIndexItem; score: number; confidence: number }> = [];
+  for (const row of scored) {
+    const key = `${normalizeText(row.item.nome)}-${row.item.ano ?? 0}-${row.item.fipeCodigo ?? row.item.valor}`;
+    if (seen.has(key)) continue;
+    seen.add(key);
+    deduped.push(row);
+    if (deduped.length >= limit) break;
+  }
+
+  return deduped.map((row, i, arr) => {
+    let confidence = row.confidence;
+    if (maxScore > 0 && row.score >= maxScore * 0.98 && arr.length === 1) {
+      confidence = Math.max(confidence, 0.97);
+    }
+    if (yearFilter && queryTokens(trimmed).length >= 2) {
+      confidence = Math.max(confidence, 0.95);
+    }
+    return { kind: 'veiculo' as const, item: row.item, confidence: Math.min(confidence, 0.99) };
+  });
 }
 
-/** Autocomplete: famílias para texto curto; veículos para FIPE ou consulta com espaço. */
+/** Autocomplete: sempre retorna veículos (nunca hub de família). */
 export function searchSuggestions(
   families: FamilySearchItem[],
   vehicles: SearchIndexItem[],
@@ -207,21 +419,21 @@ export function searchSuggestions(
   const trimmed = query.trim();
   if (!trimmed) return [];
 
-  if (normalizeFipeCodeQuery(trimmed)) {
-    return searchVehicles(vehicles, trimmed, tipo, limit).map((item) => ({ kind: 'veiculo', item }));
+  if (isBrowseQuery(trimmed)) {
+    const browse = searchFamilyRepresentatives(families, vehicles, trimmed, tipo, limit);
+    if (browse.length > 0) return browse;
   }
 
-  const hasSpaces = /\s/.test(trimmed);
-  if (hasSpaces) {
-    return searchVehicles(vehicles, trimmed, tipo, limit).map((item) => ({ kind: 'veiculo', item }));
-  }
+  return searchVehiclesWithConfidence(vehicles, trimmed, tipo, limit);
+}
 
-  const familyHits = searchFamilies(families, trimmed, tipo, limit);
-  if (familyHits.length > 0) {
-    return familyHits.map((item) => ({ kind: 'familia', item }));
-  }
-
-  return searchVehicles(vehicles, trimmed, tipo, limit).map((item) => ({ kind: 'veiculo', item }));
+export function isHighConfidenceMatch(suggestions: SearchSuggestion[]): boolean {
+  if (!suggestions.length) return false;
+  const top = suggestions[0];
+  if (top.confidence < HIGH_CONFIDENCE_THRESHOLD) return false;
+  if (suggestions.length === 1) return true;
+  const second = suggestions[1];
+  return top.confidence - second.confidence >= 0.08;
 }
 
 export function extractFilterChips(index: SearchIndexItem[], query: string, tipo: VehicleTipo): string[] {
@@ -251,12 +463,18 @@ export function benchmarkSearch(
   return { ms: performance.now() - start, count };
 }
 
+export function formatVehicleSuggestionTitle(item: SearchIndexItem): string {
+  const name = item.nome.replace(/\s*\(\d{4}\)\s*$/, '').trim();
+  return appendYearToTitle(name, item.ano);
+}
+
+export function formatVehicleSuggestionSubtitle(item: SearchIndexItem): string {
+  return item.fipeCodigo ? `FIPE ${item.fipeCodigo}` : 'Consultar FIPE';
+}
+
+/** @deprecated Use formatVehicleSuggestionTitle */
 export function formatSearchResultLabel(item: SearchIndexItem): string {
-  const base = item.nome.replace(/\s*\(\d{4}\)\s*$/, '');
-  const parts = [base];
-  if (item.combustivel) parts.push(item.combustivel);
-  if (item.ano) parts.push(String(item.ano));
-  return parts.join(' · ');
+  return formatVehicleSuggestionTitle(item);
 }
 
 export function formatFamilyLabel(item: FamilySearchItem): string {
@@ -269,5 +487,4 @@ export function formatFamilyMeta(item: FamilySearchItem): string {
   return `${item.versaoCount} versões · ${anos}`;
 }
 
-// Re-export helpers used by build scripts / tests
 export { extractFamilyName, formatFamilyDisplay, MODEL_LEADING_SKIP, MODEL_NOISE_WORDS, modeloTokens };

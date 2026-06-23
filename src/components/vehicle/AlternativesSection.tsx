@@ -1,4 +1,5 @@
 import { Link } from 'react-router-dom';
+import { formatYearLabel } from '../../lib/displayYear';
 import { formatBRL } from '../../lib/format';
 import { AlternativeItem } from '../../lib/alternatives';
 
@@ -25,7 +26,7 @@ export default function AlternativesSection({ alternatives, modeloNome }: Altern
             <p className="text-xs font-semibold text-slate-900 dark:text-white line-clamp-2 leading-snug">
               {alt.nome}
             </p>
-            <p className="text-[10px] text-slate-400 mt-1">{alt.ano}</p>
+            <p className="text-[10px] text-slate-400 mt-1">{formatYearLabel(alt.ano) || '—'}</p>
             <p className="text-sm font-bold text-blue-600 dark:text-blue-400 mt-2">
               {formatBRL(alt.valor)}
             </p>

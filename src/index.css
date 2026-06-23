@@ -25,6 +25,11 @@
   background: #475569;
 }
 
+html,
+body {
+  overflow-x: hidden;
+}
+
 /* Base body transitions */
 body {
   transition: background-color 0.3s ease, color 0.3s ease;

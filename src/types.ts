@@ -64,9 +64,14 @@ export interface FamilySearchItem {
   hubPath?: string;
 }
 
-export type SearchSuggestion =
-  | { kind: 'familia'; item: FamilySearchItem }
-  | { kind: 'veiculo'; item: SearchIndexItem };
+export type SearchSuggestion = {
+  kind: 'veiculo';
+  item: SearchIndexItem;
+  /** 0–1: confiança do match para abrir direto com Enter */
+  confidence: number;
+  /** Modo browse: sugestão representa a família (clique ainda abre o veículo) */
+  browseFamily?: string;
+};
 
 export interface StateTaxRate {
   nome: string;

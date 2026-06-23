@@ -9,6 +9,8 @@ import {
   extractFilterChips,
   formatFamilyLabel,
   formatFamilyMeta,
+  formatVehicleSuggestionTitle,
+  formatVehicleSuggestionSubtitle,
 } from '../lib/search';
 import { formatBRL } from '../lib/format';
 import { vehiclePath } from '../lib/slug';
@@ -18,7 +20,7 @@ export default function SearchResultsPage() {
   const [searchParams] = useSearchParams();
   const query = searchParams.get('q') ?? '';
   const tipoParam = (searchParams.get('tipo') as VehicleTipo) ?? 'carros';
-  const { index, families } = useSearchIndex();
+  const { index, families, ensureShardsForQuery } = useSearchIndex();
   const [yearFilter, setYearFilter] = useState<string | null>(null);
 
   const familyResults = useMemo(
@@ -56,32 +58,14 @@ export default function SearchResultsPage() {
         tipo={tipoParam}
         size="compact"
         showTabs={false}
+        onQueryChange={ensureShardsForQuery}
       />
 
       <div>
         <h1 className="text-lg font-bold text-slate-900 dark:text-white">
-          {familyResults.length + results.length} resultado
-          {familyResults.length + results.length !== 1 ? 's' : ''} para &quot;{query}&quot;
+          {results.length} veículo{results.length !== 1 ? 's' : ''} para &quot;{query}&quot;
         </h1>
       </div>
-
-      {familyResults.length > 0 && (
-        <section className="space-y-3" aria-label="Famílias">
-          <h2 className="text-sm font-bold text-slate-700 dark:text-slate-200">Famílias</h2>
-          <div className="grid gap-2 sm:grid-cols-2">
-            {familyResults.map((item) => (
-              <Link
-                key={item.id}
-                to={item.hubPath ?? `/fipe/${item.marcaSlug}/${item.familia}/`}
-                className="block bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 rounded-xl p-4 hover:border-blue-500 transition-colors"
-              >
-                <p className="text-sm font-bold text-slate-900 dark:text-white">{formatFamilyLabel(item)}</p>
-                <p className="text-xs text-slate-500 mt-0.5">{formatFamilyMeta(item)}</p>
-              </Link>
-            ))}
-          </div>
-        </section>
-      )}
 
       {yearChips.length > 1 && (
         <div className="flex gap-2 overflow-x-auto pb-1">
@@ -128,10 +112,11 @@ export default function SearchResultsPage() {
               <div className="flex items-start justify-between gap-4">
                 <div className="min-w-0">
                   <p className="text-sm font-bold text-slate-900 dark:text-white">
-                    {item.nome.replace(/\s*\(\d{4}\)\s*$/, '')}
+                    {formatVehicleSuggestionTitle(item)}
                   </p>
                   <p className="text-xs text-slate-500 mt-0.5">
-                    {item.combustivel} · Cód. FIPE {item.fipeCodigo ?? '—'}
+                    {formatVehicleSuggestionSubtitle(item)}
+                    {item.combustivel ? ` · ${item.combustivel}` : ''}
                   </p>
                 </div>
                 <div className="text-right shrink-0">
@@ -144,6 +129,24 @@ export default function SearchResultsPage() {
           ))
         )}
       </div>
+
+      {familyResults.length > 0 && (
+        <section className="space-y-3 pt-4 border-t border-slate-200 dark:border-slate-800" aria-label="Explorar famílias">
+          <h2 className="text-xs font-bold uppercase tracking-wider text-slate-400">Explorar por família</h2>
+          <div className="grid gap-2 sm:grid-cols-2">
+            {familyResults.map((item) => (
+              <Link
+                key={item.id}
+                to={item.hubPath ?? `/fipe/${item.marcaSlug}/${item.familia}/`}
+                className="block bg-slate-50 dark:bg-slate-900/50 border border-slate-200 dark:border-slate-800 rounded-xl p-3 hover:border-blue-500 transition-colors"
+              >
+                <p className="text-sm font-semibold text-slate-800 dark:text-white">{formatFamilyLabel(item)}</p>
+                <p className="text-xs text-slate-500 mt-0.5">{formatFamilyMeta(item)}</p>
+              </Link>
+            ))}
+          </div>
+        </section>
+      )}
     </div>
   );
 }

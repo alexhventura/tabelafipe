@@ -1,0 +1,131 @@
+{
+  "geradoEm": "2026-06-23T15:05:49.954Z",
+  "viewportsAlvo": [
+    320,
+    375,
+    390,
+    430
+  ],
+  "areasVerificadas": 8,
+  "areasOk": 8,
+  "resultados": [
+    {
+      "area": "Busca (SearchBox)",
+      "file": "src/components/search/SearchBox.tsx",
+      "ok": true,
+      "patternsOk": 4,
+      "patternsTotal": 4,
+      "missing": []
+    },
+    {
+      "area": "Dropdown compacto",
+      "file": "src/components/search/SearchBox.tsx",
+      "ok": true,
+      "patternsOk": 2,
+      "patternsTotal": 2,
+      "missing": []
+    },
+    {
+      "area": "Hero veículo",
+      "file": "src/components/vehicle/VehiclePageSections.tsx",
+      "ok": true,
+      "patternsOk": 4,
+      "patternsTotal": 4,
+      "missing": []
+    },
+    {
+      "area": "Gráfico",
+      "file": "src/components/vehicle/PriceChart.tsx",
+      "ok": true,
+      "patternsOk": 1,
+      "patternsTotal": 1,
+      "missing": []
+    },
+    {
+      "area": "FAQ",
+      "file": "src/components/vehicle/VehiclePageSections.tsx",
+      "ok": true,
+      "patternsOk": 3,
+      "patternsTotal": 3,
+      "missing": []
+    },
+    {
+      "area": "Concorrentes",
+      "file": "src/components/vehicle/VehiclePageSections.tsx",
+      "ok": true,
+      "patternsOk": 2,
+      "patternsTotal": 2,
+      "missing": []
+    },
+    {
+      "area": "Breadcrumb",
+      "file": "src/components/vehicle/VehicleBreadcrumb.tsx",
+      "ok": true,
+      "patternsOk": 3,
+      "patternsTotal": 3,
+      "missing": []
+    },
+    {
+      "area": "Home busca",
+      "file": "src/pages/HomePage.tsx",
+      "ok": true,
+      "patternsOk": 3,
+      "patternsTotal": 3,
+      "missing": []
+    }
+  ],
+  "checklistManual": [
+    {
+      "larguraPx": 320,
+      "itens": [
+        "Busca: campo e dropdown não cortam texto",
+        "Dropdown: scrollável, toque em item ≥ 44px",
+        "Hero: preço visível sem scroll",
+        "Gráfico: não transborda horizontalmente",
+        "FAQ: summary clicável em touch",
+        "Concorrentes: grid em 1 coluna",
+        "Breadcrumb: quebra de linha sem overflow"
+      ]
+    },
+    {
+      "larguraPx": 375,
+      "itens": [
+        "Busca: campo e dropdown não cortam texto",
+        "Dropdown: scrollável, toque em item ≥ 44px",
+        "Hero: preço visível sem scroll",
+        "Gráfico: não transborda horizontalmente",
+        "FAQ: summary clicável em touch",
+        "Concorrentes: grid em 1 coluna",
+        "Breadcrumb: quebra de linha sem overflow"
+      ]
+    },
+    {
+      "larguraPx": 390,
+      "itens": [
+        "Busca: campo e dropdown não cortam texto",
+        "Dropdown: scrollável, toque em item ≥ 44px",
+        "Hero: preço visível sem scroll",
+        "Gráfico: não transborda horizontalmente",
+        "FAQ: summary clicável em touch",
+        "Concorrentes: grid em 1 coluna",
+        "Breadcrumb: quebra de linha sem overflow"
+      ]
+    },
+    {
+      "larguraPx": 430,
+      "itens": [
+        "Busca: campo e dropdown não cortam texto",
+        "Dropdown: scrollável, toque em item ≥ 44px",
+        "Hero: preço visível sem scroll",
+        "Gráfico: não transborda horizontalmente",
+        "FAQ: summary clicável em touch",
+        "Concorrentes: grid em 1 coluna",
+        "Breadcrumb: quebra de linha sem overflow"
+      ]
+    }
+  ],
+  "metas": {
+    "todasAreasOk": true
+  },
+  "nota": "Auditoria estática de código. Validação visual requer teste em dispositivo ou DevTools."
+}

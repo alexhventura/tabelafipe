@@ -2,6 +2,8 @@ import { Link } from 'react-router-dom';
 import { lazy, Suspense, useMemo, type ReactNode } from 'react';
 import type { RelatedLink, VehiclePageBundle } from '../../types/bundle';
 import { formatBRL, formatPct } from '../../lib/format';
+import { formatRelatedYear, getIdentityDisplayYear } from '../../lib/displayYear';
+import { formatCompactSourcesLine } from '../../lib/vehicleSources';
 import { historicoToChartData } from '../../lib/bundle';
 import ShareButtons from './ShareButtons';
 import {
@@ -65,7 +67,9 @@ function RelatedGrid({ links }: { links: RelatedLink[] }) {
         >
           <span className="text-sm font-semibold line-clamp-2">{item.displayName}</span>
           <span className="text-xs text-slate-500">
-            {item.ano} · FIPE {item.fipeCodigo}
+            {formatRelatedYear(item)}
+            {formatRelatedYear(item) ? ' · ' : ''}
+            FIPE {item.fipeCodigo}
           </span>
           <span className="text-sm font-bold text-blue-600 tabular-nums">{formatBRL(item.valorAtual)}</span>
         </Link>
@@ -96,50 +100,55 @@ export default function VehiclePageSections({ bundle }: Props) {
   const seoArticle = useMemo(() => buildSeoArticle(bundle), [bundle]);
   const faqItems = useMemo(() => buildEnhancedFaq(bundle), [bundle]);
   const consumoHint = useMemo(() => categoryConsumoHint(bundle), [bundle]);
+  const sourcesLine = useMemo(() => formatCompactSourcesLine(bundle), [bundle]);
 
   const variacao12m =
     historicoStats?.variacao12m ?? (fipe.trend6m != null ? fipe.trend6m * 2 : null);
 
+  const identityYear = getIdentityDisplayYear(identity);
+  const heroMetaLine = [
+    identity.combustivel,
+    identityYear.kind === 'zero_km' ? identityYear.label : identityYear.label ? `Ano ${identityYear.label}` : null,
+  ]
+    .filter(Boolean)
+    .join(' · ');
+
   return (
     <div className="space-y-10">
-      {/* SEÇÃO 1 — HERO */}
-      <header className="space-y-4">
-        <div className="bg-gradient-to-br from-slate-900 to-slate-800 text-white rounded-2xl p-5 sm:p-6 space-y-5">
-          <div className="space-y-1">
-            <p className="text-xs uppercase tracking-wider text-slate-400">Tabela FIPE</p>
-            <h1 className="text-xl sm:text-2xl font-bold leading-tight">{identity.displayName}</h1>
-            <p className="text-sm text-slate-300">
-              {identity.combustivel} · Ano {identity.anoModelo}
+      {/* SEÇÃO 1 — HERO (above the fold: veículo, preço, tendência) */}
+      <header className="space-y-2">
+        <div className="bg-gradient-to-br from-slate-900 to-slate-800 text-white rounded-2xl p-4 sm:p-5 space-y-3">
+          <div className="space-y-0.5">
+            <h1 className="text-lg sm:text-xl font-bold leading-snug line-clamp-2">{identity.displayName}</h1>
+            {heroMetaLine && <p className="text-xs text-slate-400">{heroMetaLine}</p>}
+          </div>
+
+          <div className="space-y-1 border-t border-white/10 pt-3">
+            <p className="text-[10px] uppercase tracking-wider text-slate-400 font-semibold">Preço FIPE</p>
+            <p className="text-3xl sm:text-4xl font-bold tabular-nums leading-none">{formatBRL(fipe.valorAtual)}</p>
+            {variacao12m != null && (
+              <p
+                className={`text-sm font-semibold ${variacao12m >= 0 ? 'text-emerald-300' : 'text-rose-300'}`}
+              >
+                {variacao12m >= 0 ? '▲' : '▼'} {formatPct(Math.abs(variacao12m))} em 12 meses
+              </p>
+            )}
+            <p className="text-xs text-slate-400">
+              FIPE {fipe.fipeCodigo} · {formatMesReferencia(fipe.mesReferencia)}
             </p>
           </div>
 
-          <div className="space-y-2 border-t border-white/10 pt-4">
-            <p className="text-xs uppercase tracking-wider text-slate-400 font-semibold">Preço FIPE Atual</p>
-            <p className="text-4xl sm:text-5xl font-bold tabular-nums leading-none">{formatBRL(fipe.valorAtual)}</p>
-            {variacao12m != null && (
-              <p
-                className={`text-sm font-semibold mt-2 ${variacao12m >= 0 ? 'text-emerald-300' : 'text-rose-300'}`}
-              >
-                {variacao12m >= 0 ? '▲' : '▼'} {formatPct(Math.abs(variacao12m))} nos últimos 12 meses
-              </p>
-            )}
-            <div className="flex flex-wrap gap-x-4 gap-y-1 text-sm text-slate-300 pt-2">
-              <span>Código FIPE: {fipe.fipeCodigo}</span>
-              <span>Última atualização: {formatMesReferencia(fipe.mesReferencia)}</span>
-            </div>
-          </div>
-
-          <div className="flex flex-wrap gap-2 pt-1">
+          <div className="flex flex-wrap gap-2 pt-0.5">
             <a
               href="#sec-historico"
-              className="px-4 py-2.5 rounded-lg bg-white/10 hover:bg-white/20 text-sm font-semibold min-h-[44px] inline-flex items-center"
+              className="px-3 py-2 rounded-lg bg-white/10 hover:bg-white/20 text-xs font-semibold min-h-[40px] inline-flex items-center"
             >
-              Histórico de preços
+              Histórico
             </a>
             {concorrentes.length > 0 && (
               <a
                 href="#sec-concorrentes"
-                className="px-4 py-2.5 rounded-lg bg-white/10 hover:bg-white/20 text-sm font-semibold min-h-[44px] inline-flex items-center"
+                className="px-3 py-2 rounded-lg bg-white/10 hover:bg-white/20 text-xs font-semibold min-h-[40px] inline-flex items-center"
               >
                 Comparar
               </a>
@@ -320,6 +329,20 @@ export default function VehiclePageSections({ bundle }: Props) {
           </div>
         </Section>
       )}
+
+      {/* FONTES — compacto */}
+      <footer id="sec-fontes" className="text-xs text-slate-500 space-y-1.5 pt-2 border-t border-slate-200 dark:border-slate-800">
+        <p>Última atualização: {sourcesLine.atualizacao}</p>
+        <p className="leading-relaxed">
+          Fontes:{' '}
+          {sourcesLine.fontes.map((fonte, i) => (
+            <span key={fonte}>
+              {i > 0 && ' · '}
+              {fonte}
+            </span>
+          ))}
+        </p>
+      </footer>
 
       {/* SEÇÃO 12 — FAQ */}
       {faqItems.length > 0 && (

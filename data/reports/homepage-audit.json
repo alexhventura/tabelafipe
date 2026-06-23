@@ -1,0 +1,91 @@
+{
+  "geradoEm": "2026-06-23T14:47:12.014Z",
+  "duracaoMs": 1536,
+  "release": "1.0.0",
+  "homepage": {
+    "heroTitulo": true,
+    "heroSubtitulo": true,
+    "placeholderCorreto": true,
+    "exemplosBusca": true,
+    "secaoPorQue": true,
+    "secaoPopulares": true,
+    "secaoMarcas": true,
+    "secaoFaq": true,
+    "semMetricasInternas": true,
+    "semDuplicidadeConsultaPesquisa": true,
+    "brandLogo": true
+  },
+  "poluicaoTecnica": [],
+  "rodape": {
+    "links": {
+      "Sobre": true,
+      "Metodologia": true,
+      "Fontes dos dados": true,
+      "Política de Privacidade": true,
+      "Política de Cookies": true,
+      "Termos de Uso": true,
+      "Contato": true
+    },
+    "textoLegal": true,
+    "versao": true
+  },
+  "responsividade": {
+    "viewportMeta": true,
+    "overflowXHidden": true,
+    "breakpointsTailwind": true,
+    "largurasValidar": [
+      320,
+      375,
+      390,
+      768,
+      1024,
+      1440,
+      1920
+    ]
+  },
+  "acessibilidade": {
+    "searchAriaLabel": true,
+    "faqDetails": true,
+    "srOnlyLabel": true
+  },
+  "performance": {
+    "nota": "Executar Lighthouse em produção ou preview (npm run build && npm run preview)",
+    "metas": {
+      "LCP_ms": 2000,
+      "CLS": 0.05,
+      "INP_ms": 100,
+      "lighthouseMin": 95
+    }
+  },
+  "fontesVeiculo": {
+    "secaoExiste": true,
+    "secaoId": true,
+    "libExiste": true
+  },
+  "coberturaBundles": {
+    "amostrados": 150,
+    "comPrecoFipe": 150,
+    "comHistorico": 150,
+    "percentualHistorico": 100
+  },
+  "linksInstitucionais": {
+    "definidos": 7,
+    "faltando": [
+      "sobre",
+      "metodologia",
+      "privacidade",
+      "cookies",
+      "termos",
+      "contato"
+    ]
+  },
+  "secoesVazias": {
+    "nota": "Seções condicionais na página do veículo ocultam blocos sem dados — comportamento esperado"
+  },
+  "metas": {
+    "homepageProfissional": true,
+    "rodapeCompleto": true,
+    "fontesNaPaginaVeiculo": true,
+    "responsividadeBase": true
+  }
+}

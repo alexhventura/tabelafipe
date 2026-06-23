@@ -1,5 +1,10 @@
 import type { FaqItem, HistoricoPonto, RelatedLink, VehiclePageBundle } from '../types/bundle';
 import { formatBRL, formatPct } from './format';
+import {
+  formatYearLabel,
+  formatYearWithPrefix,
+  getIdentityDisplayYear,
+} from './displayYear';
 import { extractFamilyName, modeloTokens } from './modelFamily';
 
 export interface QuickCard {
@@ -212,8 +217,26 @@ export function buildVehicleBreadcrumb(bundle: VehiclePageBundle): { name: strin
     });
   }
 
-  crumbs.push({ name: identity.displayName });
+  crumbs.push({ name: buildBreadcrumbLeafName(bundle) });
   return crumbs;
+}
+
+/** Nome curto para o último nível do breadcrumb — ex.: "Corolla XEi 2024". */
+export function buildBreadcrumbLeafName(bundle: VehiclePageBundle): string {
+  const { identity } = bundle;
+  let label = identity.displayName
+    .replace(/\s*\(\d{4}\)\s*$/, '')
+    .replace(new RegExp(`^${identity.marca}\\s+`, 'i'), '')
+    .trim();
+
+  const engineCut = label.match(/^(.+?)\s+\d+\.\d+/);
+  if (engineCut) label = engineCut[1].trim();
+
+  const specCut = label.match(/^(.+?)\s+(flex|hibrido|hybrid|diesel|turbo|aut\.?|mec\.?)\b/i);
+  if (specCut) label = specCut[1].trim();
+
+  const year = formatYearLabel(identity.ano);
+  return year ? `${label} ${year}` : label;
 }
 
 function isSameBrand(marcaA: string, marcaB: string): boolean {
@@ -325,16 +348,21 @@ function formatFamilyHint(slug: string): string {
   return slug.charAt(0).toUpperCase() + slug.slice(1);
 }
 
+function faqYearPhrase(identity: VehiclePageBundle['identity']): string {
+  const label = getIdentityDisplayYear(identity).label;
+  return label ? ` ${label}` : '';
+}
+
 export function buildEnhancedFaq(bundle: VehiclePageBundle): FaqItem[] {
   const { identity, fipe, specs } = bundle;
   const inmetro = bundle.inmetro;
   const nome = identity.displayName;
-  const ano = identity.ano;
+  const anoTxt = faqYearPhrase(identity);
   const stats = computeHistoricoStats(fipe.historico);
 
   const generated: FaqItem[] = [
     {
-      pergunta: `Qual o valor FIPE do ${nome} ${ano}?`,
+      pergunta: `Qual o valor FIPE do ${nome}${anoTxt}?`,
       resposta: `O valor de referência na Tabela FIPE é ${formatBRL(fipe.valorAtual)} (código ${fipe.fipeCodigo}, referência ${fipe.mesReferencia}).`,
     },
   ];
@@ -342,26 +370,26 @@ export function buildEnhancedFaq(bundle: VehiclePageBundle): FaqItem[] {
   if (stats?.variacao12m != null) {
     const dir = stats.variacao12m >= 0 ? 'valorizou' : 'desvalorizou';
     generated.push({
-      pergunta: `O ${nome} ${ano} valorizou ou desvalorizou?`,
+      pergunta: `O ${nome}${anoTxt} valorizou ou desvalorizou?`,
       resposta: `Nos últimos 12 meses, o veículo ${dir} ${formatPct(Math.abs(stats.variacao12m)).replace('+', '')} segundo o histórico FIPE.`,
     });
   }
 
   if (inmetro?.consumoCidade) {
     generated.push({
-      pergunta: `Qual o consumo do ${nome} ${ano}?`,
+      pergunta: `Qual o consumo do ${nome}${anoTxt}?`,
       resposta: `O consumo homologado no INMETRO é de ${inmetro.consumoCidade} km/l na cidade e ${inmetro.consumoEstrada ?? '—'} km/l na estrada (gasolina).`,
     });
   }
 
   generated.push({
-    pergunta: `Vale a pena comprar um ${nome} ${ano} usado?`,
+    pergunta: `Vale a pena comprar um ${nome}${anoTxt} usado?`,
     resposta: buildUsedCarFaqAnswer(bundle, stats),
   });
 
   if (specs?.portaMalasL) {
     generated.push({
-      pergunta: `Qual o porta-malas do ${nome} ${ano}?`,
+      pergunta: `Qual o porta-malas do ${nome}${anoTxt}?`,
       resposta: `O porta-malas tem capacidade de ${specs.portaMalasL} litros.`,
     });
   }
@@ -369,7 +397,7 @@ export function buildEnhancedFaq(bundle: VehiclePageBundle): FaqItem[] {
   const cambio = specs?.cambio as string | undefined;
   if (cambio) {
     generated.push({
-      pergunta: `Qual a transmissão do ${nome} ${ano}?`,
+      pergunta: `Qual a transmissão do ${nome}${anoTxt}?`,
       resposta: `Esta versão utiliza câmbio ${cambio}.`,
     });
   }
@@ -377,7 +405,7 @@ export function buildEnhancedFaq(bundle: VehiclePageBundle): FaqItem[] {
   const potencia = specs?.potenciaCv;
   if (potencia) {
     generated.push({
-      pergunta: `Qual a potência do ${nome} ${ano}?`,
+      pergunta: `Qual a potência do ${nome}${anoTxt}?`,
       resposta: `A potência declarada é de ${potencia} cv.`,
     });
   }
@@ -398,8 +426,9 @@ function buildUsedCarFaqAnswer(
   stats: HistoricoStats | null,
 ): string {
   const { identity, fipe } = bundle;
+  const anoTxt = faqYearPhrase(identity);
   const parts: string[] = [
-    `O ${identity.displayName} ${identity.ano} está cotado em ${formatBRL(fipe.valorAtual)} na Tabela FIPE.`,
+    `O ${identity.displayName}${anoTxt} está cotado em ${formatBRL(fipe.valorAtual)} na Tabela FIPE.`,
   ];
   if (stats?.variacao12m != null) {
     const trend = stats.variacao12m >= 0 ? 'valorização' : 'desvalorização';
@@ -453,11 +482,11 @@ export function buildSeoArticle(bundle: VehiclePageBundle): string | null {
   const platform = bundle.platform;
   const safety = bundle.safety;
   const nome = identity.displayName;
-  const ano = identity.ano;
+  const anoTxt = faqYearPhrase(identity);
   const paragraphs: string[] = [];
 
   paragraphs.push(
-    `O ${nome} ${ano} é uma das referências consultadas na Tabela FIPE com o código ${fipe.fipeCodigo}. ` +
+    `O ${nome}${anoTxt} é uma das referências consultadas na Tabela FIPE com o código ${fipe.fipeCodigo}. ` +
       `Nesta página você encontra o preço atualizado de ${formatBRL(fipe.valorAtual)}, referência ${fipe.mesReferencia}, ` +
       `além de histórico de preços, ficha técnica e veículos relacionados para apoiar sua decisão de compra, venda ou avaliação.`,
   );
@@ -515,7 +544,7 @@ export function buildSeoArticle(bundle: VehiclePageBundle): string | null {
 
   paragraphs.push(
     `Para aprofundar a pesquisa, utilize os links para outras versões do mesmo modelo, concorrentes diretos e hubs de família, geração e plataforma. ` +
-      `Cada código FIPE representa uma página única — esta é a referência completa para o ${nome} ${ano} (${fipe.fipeCodigo}).`,
+      `Cada código FIPE representa uma página única — esta é a referência completa para o ${nome}${anoTxt} (${fipe.fipeCodigo}).`,
   );
 
   const text = paragraphs.join('\n\n');

@@ -2,12 +2,14 @@ import { useCallback, useEffect, useState } from 'react';
 import { FamilySearchItem, SearchIndexItem, VehicleTipo } from '../types';
 import { marcaSlug } from '../lib/slug';
 import { normalizeText } from '../lib/modelFamily';
+import { normalizeAnoModelo } from '../lib/displayYear';
 import { ShardedCatalog } from '../lib/shardedCatalog';
 import { FamilyCatalog } from '../lib/familyCatalog';
 
 function enrichIndexItem(raw: SearchIndexItem): SearchIndexItem {
   const anoMatch = raw.nome.match(/\((\d{4})\)/);
-  const ano = raw.ano ?? (anoMatch ? parseInt(anoMatch[1], 10) : undefined);
+  const anoParsed = normalizeAnoModelo(raw.ano);
+  const ano = anoParsed ?? (anoMatch ? parseInt(anoMatch[1], 10) : undefined);
 
   let marca = raw.marca;
   if (!marca || marca.length < 3) {

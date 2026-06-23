@@ -1,4 +1,5 @@
 import { Vehicle } from '../../types';
+import { formatYearLabel, resolveDisplayYear } from '../../lib/displayYear';
 import { vehicleDisplayName } from '../../lib/vehicle';
 
 interface VehicleJsonLdProps {
@@ -7,12 +8,15 @@ interface VehicleJsonLdProps {
 }
 
 export default function VehicleJsonLd({ vehicle, url }: VehicleJsonLdProps) {
-  const data = {
+  const dy = resolveDisplayYear(vehicle.anoModelo);
+  const display = vehicleDisplayName(vehicle);
+  const name = dy.label ? `${display} ${dy.label}` : display;
+
+  const data: Record<string, unknown> = {
     '@context': 'https://schema.org',
     '@type': 'Vehicle',
-    name: `${vehicleDisplayName(vehicle)} ${vehicle.anoModelo}`,
+    name,
     brand: { '@type': 'Brand', name: vehicle.marca },
-    modelDate: String(vehicle.anoModelo),
     fuelType: vehicle.combustivel,
     offers: {
       '@type': 'Offer',
@@ -21,6 +25,10 @@ export default function VehicleJsonLd({ vehicle, url }: VehicleJsonLdProps) {
       url,
     },
   };
+
+  if (dy.kind === 'year' && dy.year) {
+    data.modelDate = String(dy.year);
+  }
 
   return (
     <script

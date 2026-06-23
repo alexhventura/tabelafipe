@@ -12,6 +12,7 @@ import AnoPage from './pages/AnoPage';
 import DecisaoPage from './pages/DecisaoPage';
 import SemanticIntentPage from './pages/SemanticIntentPage';
 import HubPage from './pages/HubPage';
+import InfoPage from './pages/InfoPage';
 
 export default function App() {
   return (
@@ -20,6 +21,13 @@ export default function App() {
         <Route element={<Layout />}>
           <Route path="/" element={<HomePage />} />
           <Route path="/busca" element={<SearchResultsPage />} />
+          <Route path="/sobre" element={<InfoPage />} />
+          <Route path="/metodologia" element={<InfoPage />} />
+          <Route path="/fontes-dados" element={<InfoPage />} />
+          <Route path="/privacidade" element={<InfoPage />} />
+          <Route path="/cookies" element={<InfoPage />} />
+          <Route path="/termos" element={<InfoPage />} />
+          <Route path="/contato" element={<InfoPage />} />
           <Route path="/fipe/:marca/:slug" element={<VehiclePage />} />
           <Route path="/motor/:engineSlug" element={<HubPage hubKind="motor" />} />
           <Route path="/plataforma/:platformSlug" element={<HubPage hubKind="plataforma" />} />

@@ -1,4 +1,5 @@
 import { ConsumoData, HistoricoPreco, Vehicle } from '../types';
+import { normalizeAnoModelo } from './displayYear';
 
 const DEFAULT_CONSUMO: ConsumoData = {
   cidadeG: 10,
@@ -34,7 +35,7 @@ export function normalizeVehicle(raw: RawVehicle): Vehicle {
     nome: raw.nome,
     marca: raw.marca,
     modelo: raw.modelo,
-    anoModelo: raw.anoModelo ?? raw.ano ?? 0,
+    anoModelo: normalizeAnoModelo(raw.anoModelo ?? raw.ano) ?? 0,
     fipeCodigo: raw.fipeCodigo ?? raw.codigoFipe ?? '',
     combustivel: raw.combustivel,
     valorAtual,

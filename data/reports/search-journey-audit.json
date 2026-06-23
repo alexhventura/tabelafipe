@@ -1,0 +1,113 @@
+{
+  "geradoEm": "2026-06-23T15:04:55.576Z",
+  "duracaoMs": 10335,
+  "metaJornadaMs": 5000,
+  "veiculosIndexados": 50395,
+  "familiasIndexadas": 1995,
+  "jornadaPrincipal": {
+    "query": "Corolla XEi 2024",
+    "ok": true,
+    "searchMs": 86.2,
+    "bundleMs": 45.9,
+    "journeyMs": 282.1,
+    "topTitle": "Toyota Corolla XEi 2.0 Flex 16V Aut. 2024",
+    "topSubtitle": "FIPE 002111-3",
+    "canonicalPath": "/fipe/toyota/corolla-xei-2-0-flex-16v-aut-2024-002111-3/",
+    "bundleOk": true,
+    "hasPrice": true,
+    "issues": []
+  },
+  "dentroDaMeta5s": true,
+  "casos": [
+    {
+      "query": "Corolla XEi 2024",
+      "ok": true,
+      "searchMs": 86.2,
+      "bundleMs": 45.9,
+      "journeyMs": 282.1,
+      "topTitle": "Toyota Corolla XEi 2.0 Flex 16V Aut. 2024",
+      "topSubtitle": "FIPE 002111-3",
+      "canonicalPath": "/fipe/toyota/corolla-xei-2-0-flex-16v-aut-2024-002111-3/",
+      "bundleOk": true,
+      "hasPrice": true,
+      "issues": []
+    },
+    {
+      "query": "Corolla",
+      "ok": true,
+      "searchMs": 2184.6,
+      "bundleMs": 1.9,
+      "journeyMs": 2336.5,
+      "topTitle": "Toyota Corolla ALTIS/A.Premiu. 2.0 Flex 16V Aut 2026",
+      "topSubtitle": "FIPE 002112-1",
+      "canonicalPath": "/fipe/toyota/corolla-altis-a-premiu-2-0-flex-16v-aut-2026-002112-1/",
+      "bundleOk": true,
+      "hasPrice": true,
+      "issues": []
+    },
+    {
+      "query": "002112-1",
+      "ok": true,
+      "searchMs": 16.4,
+      "bundleMs": 1.5,
+      "journeyMs": 167.9,
+      "topTitle": "Toyota Corolla ALTIS/A.Premiu. 2.0 Flex 16V Aut 2026",
+      "topSubtitle": "FIPE 002112-1",
+      "canonicalPath": "/fipe/toyota/corolla-altis-a-premiu-2-0-flex-16v-aut-2026-002112-1/",
+      "bundleOk": true,
+      "hasPrice": true,
+      "issues": []
+    },
+    {
+      "query": "Onix",
+      "ok": true,
+      "searchMs": 1871.6,
+      "bundleMs": 2,
+      "journeyMs": 2023.6,
+      "topTitle": "GM - Chevrolet ONIX HATCH 100 Anos 1.0 12V 5p Mec. 2026",
+      "topSubtitle": "FIPE 004557-8",
+      "canonicalPath": "/fipe/chevrolet/onix-hatch-100-anos-1-0-12v-5p-mec-2026-004557-8/",
+      "bundleOk": true,
+      "hasPrice": true,
+      "issues": []
+    },
+    {
+      "query": "Gol",
+      "ok": true,
+      "searchMs": 2466.8,
+      "bundleMs": 2,
+      "journeyMs": 2618.8,
+      "topTitle": "VW - VolksWagen Gol Last Edition 1.0 Flex 12V 5p 2023",
+      "topSubtitle": "FIPE 005539-5",
+      "canonicalPath": "/fipe/volkswagen/gol-last-edition-1-0-flex-12v-5p-2023-005539-5/",
+      "bundleOk": true,
+      "hasPrice": true,
+      "issues": []
+    }
+  ],
+  "browseCo": {
+    "ms": 215.2,
+    "count": 8,
+    "titulosCompletos": true,
+    "amostra": [
+      {
+        "titulo": "HITECH ELECTRIC e.co Cargo 15.7kWh (Elétrico) 2024",
+        "subtitulo": "FIPE 091010-4"
+      },
+      {
+        "titulo": "HITECH ELECTRIC e.co Truck 15,7kWh (Elétrico) 2024",
+        "subtitulo": "FIPE 091009-0"
+      },
+      {
+        "titulo": "Toyota Corolla Cross XRX 1.8 16V Aut. (Híbrido) 2026",
+        "subtitulo": "FIPE 002204-7"
+      }
+    ]
+  },
+  "metas": {
+    "todosCasosOk": true,
+    "jornadaCorollaXei2024Menor5s": true,
+    "browseMostraNomesCompletos": true,
+    "zeroBundlesQuebrados": true
+  }
+}

@@ -5,9 +5,9 @@ import { FamilySearchItem, SearchIndexItem, SearchSuggestion, VehicleTipo } from
 import {
   searchSuggestions,
   looksLikeMotoQuery,
-  formatSearchResultLabel,
-  formatFamilyLabel,
-  formatFamilyMeta,
+  formatVehicleSuggestionTitle,
+  formatVehicleSuggestionSubtitle,
+  isHighConfidenceMatch,
   AUTOCOMPLETE_LIMIT,
 } from '../../lib/search';
 import { formatBRL } from '../../lib/format';
@@ -23,6 +23,9 @@ interface SearchBoxProps {
   autoFocus?: boolean;
   size?: 'hero' | 'compact';
   showTabs?: boolean;
+  hideLabel?: boolean;
+  hideInlineExamples?: boolean;
+  placeholder?: string;
 }
 
 const TIPOS: { id: VehicleTipo; label: string }[] = [
@@ -41,6 +44,9 @@ export default function SearchBox({
   autoFocus = false,
   size = 'hero',
   showTabs = true,
+  hideLabel = false,
+  hideInlineExamples = false,
+  placeholder = 'Marca, modelo, versão, ano ou código FIPE',
 }: SearchBoxProps) {
   const navigate = useNavigate();
   const [query, setQuery] = useState(initialQuery);
@@ -55,20 +61,8 @@ export default function SearchBox({
     return searchSuggestions(families, index, query, tipo, AUTOCOMPLETE_LIMIT);
   }, [families, index, query, tipo]);
 
+  const highConfidence = useMemo(() => isHighConfidenceMatch(results), [results]);
   const motoHint = looksLikeMotoQuery(query) && tipo === 'carros' && results.length === 0;
-
-  const goToFamily = useCallback(
-    (item: FamilySearchItem) => {
-      setOpen(false);
-      setQuery('');
-      if (item.hubPath) {
-        navigate(item.hubPath);
-        return;
-      }
-      navigate(`/fipe/${item.marcaSlug}/${item.familia}/`);
-    },
-    [navigate],
-  );
 
   const goToVehicle = useCallback(
     (item: SearchIndexItem) => {
@@ -79,7 +73,10 @@ export default function SearchBox({
         return;
       }
       if (item.fipeCodigo && item.marca && item.ano) {
-        const modelo = item.nome.replace(/\s*\(\d{4}\)\s*$/, '').replace(new RegExp(`^${item.marca}\\s+`, 'i'), '').trim();
+        const modelo = item.nome
+          .replace(/\s*\(\d{4}\)\s*$/, '')
+          .replace(new RegExp(`^${item.marca}\\s+`, 'i'), '')
+          .trim();
         navigate(vehicleCanonicalPath(item.marca, modelo, item.ano, item.fipeCodigo));
         return;
       }
@@ -90,10 +87,9 @@ export default function SearchBox({
 
   const goToSuggestion = useCallback(
     (suggestion: SearchSuggestion) => {
-      if (suggestion.kind === 'familia') goToFamily(suggestion.item);
-      else goToVehicle(suggestion.item);
+      goToVehicle(suggestion.item);
     },
-    [goToFamily, goToVehicle],
+    [goToVehicle],
   );
 
   const goToResults = useCallback(() => {
@@ -103,6 +99,10 @@ export default function SearchBox({
   }, [navigate, query, tipo]);
 
   const handleSubmit = useCallback(() => {
+    if (highConfidence && results[0]) {
+      goToSuggestion(results[0]);
+      return;
+    }
     if (results.length === 1) {
       goToSuggestion(results[0]);
     } else if (results.length > 0) {
@@ -110,7 +110,7 @@ export default function SearchBox({
     } else {
       goToResults();
     }
-  }, [results, activeIdx, goToSuggestion, goToResults]);
+  }, [results, activeIdx, goToSuggestion, goToResults, highConfidence]);
 
   useEffect(() => {
     setQuery(initialQuery);
@@ -150,12 +150,20 @@ export default function SearchBox({
     >
       {results.length > 0 ? (
         <>
+          {highConfidence && (
+            <div className="px-4 py-2.5 text-xs font-semibold text-emerald-700 dark:text-emerald-300 bg-emerald-50 dark:bg-emerald-950/40 border-b border-emerald-100 dark:border-emerald-900 flex items-center justify-between gap-2">
+              <span>Veículo encontrado — pressione Enter para abrir</span>
+              <span className="text-[10px] uppercase tracking-wider text-emerald-600/80">
+                {Math.round((results[0]?.confidence ?? 0) * 100)}%
+              </span>
+            </div>
+          )}
           <div className="px-4 py-2 text-[10px] uppercase tracking-wider text-slate-400 font-bold border-b border-slate-100 dark:border-slate-800 sticky top-0 bg-white dark:bg-slate-900">
-            {results.length} sugest{results.length > 1 ? 'ões' : 'ão'}
+            {results.length} veículo{results.length > 1 ? 's' : ''}
           </div>
           {results.map((suggestion, idx) => (
             <button
-              key={suggestion.kind === 'familia' ? suggestion.item.id : suggestion.item.id}
+              key={`${suggestion.item.id}-${idx}`}
               type="button"
               role="option"
               aria-selected={idx === activeIdx}
@@ -168,35 +176,15 @@ export default function SearchBox({
               }`}
             >
               <div className="min-w-0 flex-1">
-                {suggestion.kind === 'familia' ? (
-                  <>
-                    <p className="text-sm font-semibold text-slate-900 dark:text-white line-clamp-2">
-                      {formatFamilyLabel(suggestion.item)}
-                    </p>
-                    <p className="text-xs text-slate-500 dark:text-slate-400 mt-0.5">
-                      {formatFamilyMeta(suggestion.item)}
-                    </p>
-                  </>
-                ) : (
-                  <>
-                    <p className="text-sm font-semibold text-slate-900 dark:text-white line-clamp-2">
-                      {formatSearchResultLabel(suggestion.item)}
-                    </p>
-                    <p className="text-xs text-slate-500 dark:text-slate-400 mt-0.5 capitalize">
-                      {suggestion.item.marca ?? '—'}
-                      {suggestion.item.fipeCodigo ? ` · FIPE ${suggestion.item.fipeCodigo}` : ''}
-                    </p>
-                  </>
-                )}
+                <p className="text-sm font-semibold text-slate-900 dark:text-white line-clamp-2">
+                  {formatVehicleSuggestionTitle(suggestion.item)}
+                </p>
+                <p className="text-xs text-slate-500 dark:text-slate-400 mt-0.5">
+                  {formatVehicleSuggestionSubtitle(suggestion.item)}
+                </p>
               </div>
               <span className="text-sm font-bold text-blue-600 dark:text-blue-400 shrink-0 tabular-nums">
-                {suggestion.kind === 'familia'
-                  ? suggestion.item.valorMax > 0
-                    ? formatBRL(suggestion.item.valorMax)
-                    : 'Ver versões'
-                  : suggestion.item.valor > 0
-                    ? formatBRL(suggestion.item.valor)
-                    : 'Consultar FIPE'}
+                {suggestion.item.valor > 0 ? formatBRL(suggestion.item.valor) : 'Consultar FIPE'}
               </span>
             </button>
           ))}
@@ -221,7 +209,7 @@ export default function SearchBox({
             </p>
           ) : (
             <p className="text-xs text-slate-400">
-              Tente: Gol, Onix, Corolla, 002112-1
+              Tente: Gol, Onix, Corolla XEi 2024, 002112-1
             </p>
           )}
         </div>
@@ -231,13 +219,16 @@ export default function SearchBox({
 
   return (
     <div ref={containerRef} className="w-full space-y-3">
-      <label htmlFor="main-fipe-search-input" className="block text-sm font-bold text-slate-900 dark:text-white">
-        Pesquisa
+      <label
+        htmlFor="main-fipe-search-input"
+        className={`block text-sm font-bold text-slate-900 dark:text-white ${hideLabel ? 'sr-only' : ''}`}
+      >
+        Buscar veículo
       </label>
       <div
         className={`relative flex items-center bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-700 rounded-xl px-4 shadow-sm transition-all focus-within:border-blue-500 focus-within:ring-2 focus-within:ring-blue-500/20 ${
           size === 'hero' ? 'rounded-2xl shadow-md' : ''
-        }`}
+        } ${highConfidence && open ? 'border-emerald-500 ring-2 ring-emerald-500/20' : ''}`}
       >
         <Search className="w-5 h-5 text-slate-400 shrink-0 mr-3" strokeWidth={1.5} aria-hidden />
         <input
@@ -248,7 +239,7 @@ export default function SearchBox({
           autoCorrect="off"
           spellCheck={false}
           autoFocus={autoFocus}
-          placeholder="Marca, modelo, família ou código FIPE..."
+          placeholder={placeholder}
           value={query}
           onChange={(e) => {
             setQuery(e.target.value);
@@ -272,16 +263,16 @@ export default function SearchBox({
           }}
           className={`w-full bg-transparent focus:outline-none text-slate-900 dark:text-white placeholder-slate-400 ${inputClasses}`}
           id="main-fipe-search-input"
-          aria-label="Pesquisa de veículos na Tabela FIPE"
+          aria-label="Buscar veículo na Tabela FIPE"
           aria-expanded={open && query.trim().length >= 1}
           aria-controls="search-dropdown-menu"
           aria-autocomplete="list"
         />
       </div>
 
-      {size === 'hero' && (
+      {size === 'hero' && !hideInlineExamples && (
         <p className="text-xs text-slate-400 text-center">
-          Ex: Corolla, Onix, CG 160, 002112-1
+          Ex: Corolla XEi 2024, Onix, CG 160, 002112-1
         </p>
       )}
 

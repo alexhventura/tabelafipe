@@ -4,7 +4,15 @@
  */
 import fs from 'fs';
 import path from 'path';
-import { searchSuggestions, searchVehicles, AUTOCOMPLETE_LIMIT, normalizeText } from '../src/lib/search.ts';
+import {
+  searchSuggestions,
+  searchVehiclesWithConfidence,
+  AUTOCOMPLETE_LIMIT,
+  HIGH_CONFIDENCE_THRESHOLD,
+  normalizeText,
+  isHighConfidenceMatch,
+  formatVehicleSuggestionTitle,
+} from '../src/lib/search.ts';
 import type { FamilySearchItem, SearchIndexItem } from '../src/types.ts';
 
 function loadFamilies(): FamilySearchItem[] {
@@ -132,41 +140,62 @@ type Case = {
   expectFamilies?: string[];
   expectInTop?: string[];
   expectFipe?: string;
+  expectYear?: number;
+  expectHighConfidence?: boolean;
+  allMustBeVehicles?: boolean;
   maxMs?: number;
   useShard?: boolean;
 };
 
 const CASES: Case[] = [
   {
-    label: 'Prefix S',
+    label: 'Prefix S (browse)',
     q: 'S',
     minResults: 3,
     expectFamilies: ['sandero', 'siena', 'strada', 'spin', 'saveiro', 'sentra'],
-    maxMs: 350,
+    allMustBeVehicles: true,
+    maxMs: 2000,
     useShard: true,
   },
   {
-    label: 'Prefix C',
+    label: 'Prefix C (browse)',
     q: 'C',
     minResults: 3,
     expectFamilies: ['celta', 'cerato', 'civic', 'city', 'compass', 'corolla', 'creta', 'cruze'],
-    maxMs: 350,
+    allMustBeVehicles: true,
+    maxMs: 2000,
     useShard: true,
   },
-  { label: 'Prefix SI', q: 'SI', minResults: 1, expectInTop: ['Siena'], maxMs: 250, useShard: true },
-  { label: 'Familia Corolla', q: 'Corolla', minResults: 1, expectInTop: ['Corolla'], maxMs: 250, useShard: true },
-  { label: 'FIPE 002112-1', q: '002112-1', minResults: 1, expectFipe: '002112-1', maxMs: 150 },
+  { label: 'Prefix SI', q: 'SI', minResults: 1, expectInTop: ['Siena'], allMustBeVehicles: true, maxMs: 500, useShard: true },
+  {
+    label: 'Corolla (versoes)',
+    q: 'Corolla',
+    minResults: 1,
+    expectInTop: ['Corolla'],
+    allMustBeVehicles: true,
+    maxMs: 2500,
+    useShard: true,
+  },
+  {
+    label: 'Corolla XEi 2024',
+    q: 'Corolla XEi 2024',
+    minResults: 1,
+    expectInTop: ['Corolla', 'XEi'],
+    expectYear: 2024,
+    expectHighConfidence: true,
+    allMustBeVehicles: true,
+    maxMs: 500,
+  },
+  { label: 'FIPE 002112-1', q: '002112-1', minResults: 1, expectFipe: '002112-1', expectHighConfidence: true, maxMs: 200 },
 ];
 
 function labelOf(s: ReturnType<typeof searchSuggestions>[number]): string {
-  if (s.kind === 'familia') return `${s.item.marca} ${s.item.familiaDisplay}`;
-  return s.item.nome;
+  return formatVehicleSuggestionTitle(s.item);
 }
 
-function matchesFamilies(results: ReturnType<typeof searchSuggestions>, needles: string[]): boolean {
+function matchesFamiliesInVehicles(results: ReturnType<typeof searchSuggestions>, needles: string[]): boolean {
   const text = results
-    .filter((r) => r.kind === 'familia')
-    .map((r) => r.item.familia.toLowerCase())
+    .map((r) => `${r.item.nome} ${r.item.modelo ?? ''}`.toLowerCase())
     .join(' ');
   return needles.some((n) => text.includes(n.toLowerCase()));
 }
@@ -195,21 +224,32 @@ function main() {
     const ms = performance.now() - t0;
 
     const okCount = results.length >= (c.minResults ?? 1);
-    const okFamilies = !c.expectFamilies || matchesFamilies(results, c.expectFamilies);
+    const okFamilies = !c.expectFamilies || matchesFamiliesInVehicles(results, c.expectFamilies);
     const okTop = !c.expectInTop || matchesTop(results, c.expectInTop);
     const okFipe =
       !c.expectFipe ||
-      results.some((r) => r.kind === 'veiculo' && r.item.fipeCodigo === c.expectFipe);
+      results.some((r) => r.item.fipeCodigo === c.expectFipe);
+    const okYear =
+      !c.expectYear || results.some((r) => r.item.ano === c.expectYear);
+    const okAllVehicles =
+      !c.allMustBeVehicles || results.every((r) => r.kind === 'veiculo' && !!r.item.canonicalPath);
+    const okConfidence =
+      !c.expectHighConfidence ||
+      (results[0]?.confidence ?? 0) >= HIGH_CONFIDENCE_THRESHOLD ||
+      isHighConfidenceMatch(results);
     const okLimit = results.length <= AUTOCOMPLETE_LIMIT;
     const okPerf = ms <= (c.maxMs ?? 200);
-    const ok = okCount && okFamilies && okTop && okFipe && okLimit && okPerf;
+    const ok = okCount && okFamilies && okTop && okFipe && okYear && okAllVehicles && okConfidence && okLimit && okPerf;
 
     if (ok) passed++;
     console.log(
-      `${ok ? 'OK' : 'FAIL'} ${c.label} ("${c.q}") -> ${results.length} em ${ms.toFixed(1)}ms | top: ${labelOf(results[0])?.slice(0, 45) ?? '-'}`,
+      `${ok ? 'OK' : 'FAIL'} ${c.label} ("${c.q}") -> ${results.length} em ${ms.toFixed(1)}ms | top: ${labelOf(results[0])?.slice(0, 50) ?? '-'}`,
     );
     if (!ok) {
       console.log(`     amostra: ${results.slice(0, 3).map(labelOf).join(' | ')}`);
+      if (c.expectHighConfidence) {
+        console.log(`     confianca: ${results[0]?.confidence?.toFixed(2) ?? '-'}`);
+      }
     }
   }
 

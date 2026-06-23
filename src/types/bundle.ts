@@ -6,6 +6,16 @@ export interface RelatedLink {
   canonicalPath: string;
   ano: number;
   marca: string;
+  displayYear?: DisplayYear;
+}
+
+export type DisplayYearKind = 'year' | 'zero_km' | 'hidden';
+
+export interface DisplayYear {
+  kind: DisplayYearKind;
+  year?: number;
+  label: string;
+  shortLabel: string;
 }
 
 export interface VehicleRelatedLinks {
@@ -65,6 +75,7 @@ export interface VehiclePageBundle {
     modelo: string;
     ano: number;
     anoModelo: number;
+    displayYear?: DisplayYear;
     combustivel: string;
     tipo: string;
     displayName: string;

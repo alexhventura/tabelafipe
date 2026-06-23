@@ -1,5 +1,14 @@
 import type { HistoricoPonto, InmetroData, RecallData, SafetyData, SpecsData, WarrantyData } from '../lib/enrichment/types.js';
 
+export type DisplayYearKind = 'year' | 'zero_km' | 'hidden';
+
+export interface DisplayYear {
+  kind: DisplayYearKind;
+  year?: number;
+  label: string;
+  shortLabel: string;
+}
+
 export interface RelatedLink {
   vehicleId: string;
   fipeCodigo: string;
@@ -8,6 +17,7 @@ export interface RelatedLink {
   canonicalPath: string;
   ano: number;
   marca: string;
+  displayYear?: DisplayYear;
 }
 
 export interface VehicleRelatedLinks {
@@ -60,6 +70,7 @@ export interface VehiclePageBundle {
     modelo: string;
     ano: number;
     anoModelo: number;
+    displayYear: DisplayYear;
     combustivel: string;
     tipo: string;
     displayName: string;

@@ -19,6 +19,7 @@ import {
   CartesianGrid 
 } from 'recharts';
 import { Vehicle } from '../types';
+import { formatYearLabel, resolveDisplayYear } from '../lib/displayYear';
 
 interface PainelVeiculoProps {
   vehicle: Vehicle;
@@ -33,6 +34,8 @@ const ESTADOS_IPVA = [
 ];
 
 export default function PainelVeiculo({ vehicle }: PainelVeiculoProps) {
+  const displayYear = resolveDisplayYear(vehicle.anoModelo);
+  const yearLabel = formatYearLabel(vehicle.anoModelo);
   // Menu de abas simplificado, nítido e sem poluição visual
   type TabType = 'historico' | 'ipva' | 'manutencao' | 'consumo';
   const [activeTab, setActiveTab] = useState<TabType>('historico');
@@ -137,7 +140,24 @@ export default function PainelVeiculo({ vehicle }: PainelVeiculoProps) {
           </h2>
 
           <p className="text-xs md:text-sm text-slate-500 dark:text-slate-300 font-sans leading-relaxed max-w-xl">
-            Valores oficiais de mercado apurados para o ano modelo <span className="font-semibold text-slate-805 dark:text-white">{vehicle.anoModelo}</span> alimentados pelas estatísticas nacionais e taxas de imposto regionais atualizadas por nossa mesa de análises.
+            {displayYear.kind === 'zero_km' ? (
+              <>
+                Valores oficiais de mercado para veículo{' '}
+                <span className="font-semibold text-slate-805 dark:text-white">{yearLabel}</span> alimentados pelas
+                estatísticas nacionais e taxas de imposto regionais atualizadas por nossa mesa de análises.
+              </>
+            ) : yearLabel ? (
+              <>
+                Valores oficiais de mercado apurados para o ano modelo{' '}
+                <span className="font-semibold text-slate-805 dark:text-white">{yearLabel}</span> alimentados pelas
+                estatísticas nacionais e taxas de imposto regionais atualizadas por nossa mesa de análises.
+              </>
+            ) : (
+              <>
+                Valores oficiais de mercado apurados pelas estatísticas nacionais e taxas de imposto regionais
+                atualizadas por nossa mesa de análises.
+              </>
+            )}
           </p>
         </div>
 
@@ -495,7 +515,17 @@ export default function PainelVeiculo({ vehicle }: PainelVeiculoProps) {
                 <div className="bg-slate-50 dark:bg-[#111827] p-5 rounded-xl border border-slate-100 dark:border-slate-800/80 text-xs font-sans leading-relaxed space-y-2">
                   <strong className="text-slate-900 dark:text-white font-bold block">Regras de Isenção:</strong>
                   <p className="font-sans leading-relaxed text-slate-600 dark:text-slate-300">
-                    A maioria dos estados concede isenção total de IPVA para carros com 15 ou 20 anos de fabricação. Por ser um modelo de <span className="font-semibold text-slate-900 dark:text-white">{vehicle.anoModelo}</span>, este veículo ainda recolhe a tributação padrão regular na maioria das regiões do Brasil.
+                    A maioria dos estados concede isenção total de IPVA para carros com 15 ou 20 anos de fabricação.
+                    {yearLabel ? (
+                      <>
+                        {' '}
+                        Por ser um modelo de{' '}
+                        <span className="font-semibold text-slate-900 dark:text-white">{yearLabel}</span>, este veículo
+                        ainda recolhe a tributação padrão regular na maioria das regiões do Brasil.
+                      </>
+                    ) : (
+                      <> Este veículo ainda recolhe a tributação padrão regular na maioria das regiões do Brasil.</>
+                    )}
                   </p>
                 </div>
               </div>

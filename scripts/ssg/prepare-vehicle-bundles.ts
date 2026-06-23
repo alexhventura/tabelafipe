@@ -1,5 +1,6 @@
 import fs from 'fs';
 import path from 'path';
+import { resolveDisplayYear } from '../../src/lib/displayYear.ts';
 import { PATHS } from '../lib/fipe-paths.js';
 import { normalizeVehicle } from '../lib/enrichment/matching-engine.js';
 import { loadGenerationsCatalog, resolveGeneration } from '../lib/enrichment/generation-match.js';
@@ -164,6 +165,7 @@ function pickRelated(ids: string[], selfId: string, meta: Map<string, VehicleMet
       canonicalPath: m.canonicalPath,
       ano: m.ano,
       marca: m.marca,
+      displayYear: resolveDisplayYear(m.ano),
     });
     if (out.length >= max) break;
   }
@@ -456,6 +458,7 @@ async function main() {
         modelo: v.modelo,
         ano: v.ano,
         anoModelo: v.ano,
+        displayYear: resolveDisplayYear(v.ano),
         combustivel: v.combustivel,
         tipo: v.tipo,
         displayName: display,

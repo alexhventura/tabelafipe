@@ -1,0 +1,101 @@
+{
+  "geradoEm": "2026-06-23T14:36:20.806Z",
+  "duracaoMs": 4336,
+  "catalogo": {
+    "fonte": "C:\\Users\\Alex Ventura\\Desktop\\consulta-tabela-fipe\\src\\data\\fipe\\veiculos.json",
+    "total": 50395,
+    "zero_km": 1868,
+    "nullish": 0,
+    "valid": 48527,
+    "invalid": 0,
+    "percentualZeroKm": "3.71%",
+    "interpretacao": "anoModelo=0 corresponde a veículos 0 km na FIPE (anoCodigo null/32000), não erro de importação em massa.",
+    "amostrasZeroKm": [
+      {
+        "marca": "AGRALE",
+        "modelo": "A10000 2p (diesel) (E6)",
+        "fipeCodigo": "501042-0",
+        "anoCodigo": "null"
+      },
+      {
+        "marca": "AGRALE",
+        "modelo": "A10000 4X4 2p (diesel) (E6)",
+        "fipeCodigo": "501044-6",
+        "anoCodigo": "null"
+      },
+      {
+        "marca": "AGRALE",
+        "modelo": "A15000 4x2 2p (E6)",
+        "fipeCodigo": "501045-4",
+        "anoCodigo": "null"
+      },
+      {
+        "marca": "AGRALE",
+        "modelo": "A18000 4x2 2p (E6)",
+        "fipeCodigo": "501046-2",
+        "anoCodigo": "null"
+      },
+      {
+        "marca": "AGRALE",
+        "modelo": "A8700 2p (diesel) (E6)",
+        "fipeCodigo": "501043-8",
+        "anoCodigo": "null"
+      }
+    ],
+    "amostrasNullish": [],
+    "topAnoCodigo": [
+      {
+        "codigo": "null",
+        "total": 1868
+      },
+      {
+        "codigo": "2015",
+        "total": 1704
+      },
+      {
+        "codigo": "2012",
+        "total": 1696
+      },
+      {
+        "codigo": "2014",
+        "total": 1665
+      },
+      {
+        "codigo": "2016",
+        "total": 1616
+      },
+      {
+        "codigo": "2018",
+        "total": 1585
+      },
+      {
+        "codigo": "2013",
+        "total": 1575
+      },
+      {
+        "codigo": "2011",
+        "total": 1561
+      }
+    ]
+  },
+  "bundles": {
+    "amostrados": 1000,
+    "zero_km": 43,
+    "nullish": 1,
+    "valid": 956,
+    "comDisplayYear": 0,
+    "labelsInvalidos": []
+  },
+  "metas": {
+    "catalogoSemNullish": true,
+    "exibirZeroKmComoRotulo": true,
+    "nenhumAnoZeroNaUi": true
+  },
+  "displayYear": {
+    "regras": {
+      "valido": "Exibir ano (ex: 2024)",
+      "zero": "Exibir \"0 km\"",
+      "nullish": "Ocultar ano na UI"
+    }
+  }
+}

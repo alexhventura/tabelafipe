@@ -110,6 +110,10 @@
     "ssg:astro:audit": "npx tsx scripts/ssg/astro-build-audit.ts",
     "ssg:stabilization-audit": "npx tsx scripts/ssg/stabilization-audit.ts",
     "ssg:ux-audit": "npx tsx scripts/ssg/ux-journey-audit.ts",
+    "catalog:audit-year": "npx tsx scripts/catalog/audit-display-year.ts",
+    "ssg:homepage-audit": "npx tsx scripts/ssg/homepage-audit.ts",
+    "ssg:search-journey-audit": "npx tsx scripts/ssg/search-journey-audit.ts",
+    "ssg:mobile-audit": "npx tsx scripts/ssg/mobile-responsive-audit.ts",
     "validate:search": "npx tsx scripts/validate-search.ts",
     "report:search": "npx tsx scripts/search-optimization-report.ts"
   },

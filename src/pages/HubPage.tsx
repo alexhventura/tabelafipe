@@ -5,6 +5,7 @@ import VehicleBreadcrumb from '../components/vehicle/VehicleBreadcrumb';
 import { useSearchIndex } from '../hooks/useSearchIndex';
 import { usePageMeta } from '../hooks/usePageMeta';
 import { formatBRL } from '../lib/format';
+import { formatRelatedYear } from '../lib/displayYear';
 import type { RelatedLink } from '../types/bundle';
 
 type HubBundle = {
@@ -250,7 +251,7 @@ export default function HubPage({ hubKind }: { hubKind: HubBundle['tipo'] }) {
                 className="p-3 rounded-xl border border-slate-200 dark:border-slate-800 hover:border-blue-500 transition-colors min-h-[56px] bg-white dark:bg-slate-900"
               >
                 <p className="text-sm font-semibold line-clamp-2">{v.displayName}</p>
-                <p className="text-xs text-slate-500 mt-1">{v.ano}</p>
+                <p className="text-xs text-slate-500 mt-1">{formatRelatedYear(v)}</p>
                 <p className="text-sm font-bold text-blue-600 mt-1 tabular-nums">{formatBRL(v.valorAtual)}</p>
               </Link>
             ))}
@@ -271,7 +272,9 @@ export default function HubPage({ hubKind }: { hubKind: HubBundle['tipo'] }) {
             >
               <p className="text-sm font-semibold line-clamp-2">{v.displayName}</p>
               <p className="text-xs text-slate-500 mt-1">
-                {v.ano} · FIPE {v.fipeCodigo}
+                {formatRelatedYear(v)}
+                {formatRelatedYear(v) ? ' · ' : ''}
+                FIPE {v.fipeCodigo}
               </p>
               <p className="text-sm font-bold text-blue-600 mt-1 tabular-nums">{formatBRL(v.valorAtual)}</p>
             </Link>
