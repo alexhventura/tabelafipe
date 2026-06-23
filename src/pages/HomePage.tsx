@@ -6,7 +6,7 @@ import { VehicleTipo } from '../types';
 import { useState } from 'react';
 
 export default function HomePage() {
-  const { index, loading, error, total, ensureShardsForQuery } = useSearchIndex();
+  const { index, families, loading, error, total, totalFamilies, ensureShardsForQuery } = useSearchIndex();
   const [tipo, setTipo] = useState<VehicleTipo>('carros');
 
   usePageMeta({
@@ -23,7 +23,9 @@ export default function HomePage() {
             Consulta Tabela FIPE
           </h1>
           <p className="text-sm text-slate-500 dark:text-slate-400">
-            {loading ? 'Carregando catálogo...' : `${(total || index.length).toLocaleString('pt-BR')} veículos`}
+            {loading
+              ? 'Carregando catálogo...'
+              : `${(total || index.length).toLocaleString('pt-BR')} veículos · ${(totalFamilies || families.length).toLocaleString('pt-BR')} famílias`}
           </p>
         </div>
 
@@ -34,6 +36,7 @@ export default function HomePage() {
         <div className="w-full" role="search" aria-label="Busca de veículos">
           <SearchBox
             index={index}
+            families={families}
             onQueryChange={ensureShardsForQuery}
             tipo={tipo}
             onTipoChange={setTipo}

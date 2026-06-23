@@ -1,8 +1,9 @@
 import { useCallback, useEffect, useState } from 'react';
-import { SearchIndexItem, VehicleTipo } from '../types';
+import { FamilySearchItem, SearchIndexItem, VehicleTipo } from '../types';
 import { marcaSlug } from '../lib/slug';
-import { normalizeText } from '../lib/search';
+import { normalizeText } from '../lib/modelFamily';
 import { ShardedCatalog } from '../lib/shardedCatalog';
+import { FamilyCatalog } from '../lib/familyCatalog';
 
 function enrichIndexItem(raw: SearchIndexItem): SearchIndexItem {
   const anoMatch = raw.nome.match(/\((\d{4})\)/);
@@ -42,11 +43,12 @@ function enrichIndexItem(raw: SearchIndexItem): SearchIndexItem {
     marca,
     combustivel,
     tipo,
-    searchText: raw.searchText ?? normalizeText(raw.nome),
+    searchText: raw.searchText ?? normalizeText(raw.modelo ? `${raw.marca} ${raw.modelo}` : raw.nome),
   };
 }
 
 let catalog: ShardedCatalog | null = null;
+let familyCatalog: FamilyCatalog | null = null;
 let flatFallback: SearchIndexItem[] | null = null;
 
 async function loadFlatFallback(): Promise<SearchIndexItem[]> {
@@ -56,59 +58,111 @@ async function loadFlatFallback(): Promise<SearchIndexItem[]> {
   return data.map(enrichIndexItem);
 }
 
-async function initCatalog(): Promise<{ index: SearchIndexItem[]; total: number; catalog: ShardedCatalog | null }> {
+async function initCatalog(): Promise<{
+  index: SearchIndexItem[];
+  families: FamilySearchItem[];
+  total: number;
+  totalFamilies: number;
+}> {
   for (const base of ['/data/fipe/search', '/api/fipe/search', '/api/search']) {
     const cat = new ShardedCatalog(base);
     const ok = await cat.init();
     if (ok) {
       catalog = cat;
-      const manifestTotal = cat.total;
-      if (manifestTotal <= 500) {
+      const fam = new FamilyCatalog(base);
+      const famOk = await fam.init();
+      familyCatalog = famOk ? fam : null;
+
+      if (familyCatalog) {
+        await familyCatalog.loadShard('c');
+        await familyCatalog.loadShard('g');
+        await familyCatalog.loadShard('s');
+      }
+
+      if ((cat.total ?? 0) <= 500) {
         await cat.loadAll();
       } else {
-        await cat.loadShard('a');
         await cat.loadShard('c');
-        await cat.loadShard('v');
+        await cat.loadShard('g');
+        await cat.loadShard('s');
       }
-      return { index: cat.getFlatIndex(), total: manifestTotal, catalog: cat };
+
+      return {
+        index: cat.getFlatIndex().map(enrichIndexItem),
+        families: familyCatalog?.getFlatIndex() ?? [],
+        total: cat.total,
+        totalFamilies: familyCatalog?.total ?? 0,
+      };
     }
   }
 
   flatFallback = await loadFlatFallback();
-  return { index: flatFallback, total: flatFallback.length, catalog: null };
+  return {
+    index: flatFallback,
+    families: [],
+    total: flatFallback.length,
+    totalFamilies: 0,
+  };
 }
+
 let cachedIndex: SearchIndexItem[] | null = null;
+let cachedFamilies: FamilySearchItem[] | null = null;
 let cachedTotal = 0;
+let cachedTotalFamilies = 0;
 
 export function useSearchIndex() {
   const [index, setIndex] = useState<SearchIndexItem[]>(cachedIndex ?? []);
+  const [families, setFamilies] = useState<FamilySearchItem[]>(cachedFamilies ?? []);
   const [loading, setLoading] = useState(!cachedIndex);
   const [error, setError] = useState<string | null>(null);
   const [total, setTotal] = useState(cachedTotal || cachedIndex?.length || 0);
+  const [totalFamilies, setTotalFamilies] = useState(cachedTotalFamilies);
 
   const ensureShardsForQuery = useCallback(async (query: string) => {
-    if (!catalog) return;
-    await catalog.loadForQuery(query);
-    const next = catalog.getFlatIndex();
-    cachedIndex = next;
-    setIndex(next);
+    const tasks: Promise<void>[] = [];
+    if (catalog) tasks.push(catalog.loadForQuery(query));
+    if (familyCatalog) tasks.push(familyCatalog.loadForQuery(query));
+    if (!tasks.length) return;
+    await Promise.all(tasks);
+    if (catalog) {
+      const next = catalog.getFlatIndex().map(enrichIndexItem);
+      cachedIndex = next;
+      setIndex(next);
+    }
+    if (familyCatalog) {
+      const nextFamilies = familyCatalog.getFlatIndex();
+      cachedFamilies = nextFamilies;
+      setFamilies(nextFamilies);
+    }
   }, []);
 
   useEffect(() => {
     if (cachedIndex) return;
 
     initCatalog()
-      .then(({ index: enriched, total: t }) => {
+      .then(({ index: enriched, families: fam, total: t, totalFamilies: tf }) => {
         cachedIndex = enriched;
+        cachedFamilies = fam;
         cachedTotal = t;
+        cachedTotalFamilies = tf;
         setIndex(enriched);
+        setFamilies(fam);
         setTotal(t);
+        setTotalFamilies(tf);
       })
       .catch(() => setError('Nao foi possivel carregar o catalogo.'))
       .finally(() => setLoading(false));
   }, []);
 
-  return { index, loading, error, total: total || index.length, ensureShardsForQuery };
+  return {
+    index,
+    families,
+    loading,
+    error,
+    total: total || index.length,
+    totalFamilies: totalFamilies || families.length,
+    ensureShardsForQuery,
+  };
 }
 
 export function getMarcasFromIndex(index: SearchIndexItem[]): string[] {

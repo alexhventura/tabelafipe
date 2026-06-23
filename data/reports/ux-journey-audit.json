@@ -1,0 +1,65 @@
+{
+  "geradoEm": "2026-06-23T04:59:44.404Z",
+  "duracaoMs": 28962,
+  "homepage": {
+    "searchIndexCarregado": true,
+    "familiasIndexadas": 1995
+  },
+  "urls": {
+    "total": 50395,
+    "validas": 50395,
+    "quebradas": 0,
+    "amostrasQuebradas": []
+  },
+  "hubsFamilia": {
+    "total": 1705,
+    "vazios": 0,
+    "semStats": 0,
+    "amostrasVazios": [],
+    "corollaHubExiste": true
+  },
+  "paginaVeiculo": {
+    "bundlesAmostrados": 800,
+    "semPreco": 0,
+    "semHistorico": 2,
+    "semFaq": 0,
+    "semConcorrentes": 636,
+    "concorrentesMesmaFamilia": 0,
+    "breadcrumbIncompleto": 0
+  },
+  "linksInternos": {
+    "quebrados": 0,
+    "amostras": []
+  },
+  "jornada": {
+    "metaSegundos": 10,
+    "buscaCorollaMs": 663.92,
+    "loadBundleCorollaMs": 2.35,
+    "tempoAtePrecoEstimadoMs": 786.27,
+    "tempoAteHistoricoEstimadoMs": 866.27,
+    "tempoJornadaCompletaEstimadoMs": 916.27,
+    "dentroDaMeta10s": true,
+    "queries": {
+      "Corolla": {
+        "ms": 663.92,
+        "detail": "5 veículos, 1 famílias"
+      },
+      "002112-1": {
+        "ms": 21.92,
+        "detail": "5 veículos, 0 famílias"
+      }
+    }
+  },
+  "metas": {
+    "zeroUrlsQuebradas": true,
+    "zeroLinksInternosQuebrados": true,
+    "zeroHubsVazios": true,
+    "jornadaMenor10s": true,
+    "breadcrumbCompleto": true
+  },
+  "notas": [
+    "Tempos de jornada são estimativas (busca + leitura de bundle + render).",
+    "Validação mobile depende de teste manual ou Lighthouse.",
+    "concorrentesMesmaFamilia > 0 indica vazamento de versões da mesma família."
+  ]
+}

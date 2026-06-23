@@ -1,4 +1,19 @@
-import { SearchIndexItem, VehicleTipo } from '../types';
+import {
+  FamilySearchItem,
+  SearchIndexItem,
+  SearchSuggestion,
+  VehicleTipo,
+} from '../types';
+import {
+  extractFamilyName,
+  formatFamilyDisplay,
+  MODEL_LEADING_SKIP,
+  MODEL_NOISE_WORDS,
+  modeloTokens,
+  normalizeText,
+} from './modelFamily';
+
+export { normalizeText } from './modelFamily';
 
 const SINONIMOS: Record<string, string[]> = {
   vw: ['volkswagen', 'vw'],
@@ -14,15 +29,21 @@ const FUEL_OR_SPEC_TOKENS = new Set([
   'diesel', 'flex', 'gasolina', 'hibrido', 'hybrid', 'turbo', 'aut', 'manual', '4x4',
 ]);
 
-export function normalizeText(text: string): string {
-  return text
-    .toLowerCase()
-    .normalize('NFD')
-    .replace(/[\u0300-\u036f]/g, '')
-    .replace(/[^a-z0-9\s]/g, ' ')
-    .replace(/\s+/g, ' ')
-    .trim();
-}
+/** Prioridade 1–4 do ranking de busca. */
+export const MATCH_TIER = {
+  MODELO_STARTS: 4000,
+  MARCA_STARTS: 3000,
+  MODELO_INCLUDES: 2000,
+  OTHER: 1000,
+} as const;
+
+const POPULAR_FAMILY_BOOST: Record<string, number> = {
+  sandero: 500, saveiro: 500, sentra: 500, siena: 500, spin: 500, strada: 500, sw4: 500,
+  corolla: 500, civic: 480, onix: 500, gol: 500, celta: 450, cerato: 450, city: 450,
+  compass: 450, creta: 450, cruze: 450, hb20: 480, hilux: 480, tracker: 450,
+};
+
+export const AUTOCOMPLETE_LIMIT = 10;
 
 export function extractYearFromQuery(query: string): number | null {
   const match = query.match(/\b(19|20)\d{2}\b/);
@@ -38,137 +59,104 @@ export function normalizeFipeCodeQuery(query: string): string | null {
   return `${digits}-${m[2]}`;
 }
 
-function levenshtein(a: string, b: string): number {
-  if (a === b) return 0;
-  if (a.length === 0) return b.length;
-  if (b.length === 0) return a.length;
-  const row = Array.from({ length: b.length + 1 }, (_, i) => i);
-  for (let i = 1; i <= a.length; i++) {
-    let prev = i;
-    for (let j = 1; j <= b.length; j++) {
-      const val = a[i - 1] === b[j - 1] ? row[j - 1] : Math.min(row[j - 1], row[j], prev) + 1;
-      row[j - 1] = prev;
-      prev = val;
-    }
-    row[b.length] = prev;
+function getModeloNorm(item: SearchIndexItem): string {
+  return normalizeText(item.modelo ?? item.searchText ?? item.nome);
+}
+
+function getMarcaNorm(item: SearchIndexItem): string {
+  return normalizeText(item.marca ?? '');
+}
+
+function getFamilyNorm(item: SearchIndexItem): string {
+  return extractFamilyName(item.modelo ?? item.nome);
+}
+
+export function scoreTextMatch(
+  modelo: string,
+  marca: string,
+  familia: string,
+  query: string,
+): number {
+  const q = normalizeText(query);
+  if (!q) return -1;
+
+  if (familia.startsWith(q) || modelo.startsWith(q)) {
+    return MATCH_TIER.MODELO_STARTS + familia.length;
   }
-  return row[b.length];
-}
+  if (marca.startsWith(q)) {
+    return MATCH_TIER.MARCA_STARTS + marca.length;
+  }
+  if (familia.includes(q) || modelo.includes(q)) {
+    return MATCH_TIER.MODELO_INCLUDES + q.length;
+  }
 
-function tokenMatches(text: string, token: string): boolean {
-  if (text.includes(token)) return true;
-  if (token.length < 4) return false;
-  const words = text.split(' ').filter((w) => w.length >= 2);
-  return words.some((w) => {
-    if (w.length >= 4 && (w.includes(token) || token.includes(w))) return true;
-    if (w.length >= 4 && token.length >= 4) {
-      return levenshtein(w, token) <= 1;
-    }
-    return false;
-  });
-}
-
-function expandQueryTokens(query: string): string[] {
-  const tokens = query.split(/\s+/).filter(Boolean);
-  const expanded = new Set<string>();
+  const tokens = [...modeloTokens(modelo), ...modeloTokens(familia)];
   for (const token of tokens) {
-    expanded.add(token);
-    const aliases = SINONIMOS[token];
-    if (aliases) aliases.forEach((a) => expanded.add(a));
+    if (token.startsWith(q)) return MATCH_TIER.OTHER + token.length * 10;
   }
-  return [...expanded];
-}
-
-interface ScoredItem {
-  item: SearchIndexItem;
-  score: number;
-}
-
-function tokenMatchesWord(text: string, token: string): boolean {
-  if (token.length <= 3) {
-    const re = new RegExp(`\\b${token}\\b`);
-    return re.test(text);
+  if (normalizeText(`${marca} ${modelo}`).includes(q)) {
+    return MATCH_TIER.OTHER;
   }
-  return tokenMatches(text, token);
+  return -1;
 }
 
-function wordStartsWith(text: string, token: string): boolean {
-  if (!token) return false;
-  return text.split(' ').some((w) => w.startsWith(token));
+function scoreFamily(family: FamilySearchItem, query: string): number {
+  const base = scoreTextMatch(family.familia, normalizeText(family.marca), family.familia, query);
+  if (base < 0) return -1;
+  return base + (POPULAR_FAMILY_BOOST[family.familia] ?? 0) + Math.min(family.versaoCount, 200);
 }
 
-function getPrimaryToken(tokens: string[]): string | null {
-  for (const t of tokens) {
-    if (t.length >= 4 && !FUEL_OR_SPEC_TOKENS.has(t)) return t;
-  }
-  return tokens[0] ?? null;
-}
-
-function scoreItem(item: SearchIndexItem, tokens: string[], yearFilter: number | null, rawQuery: string): number {
-  const nome = normalizeText(item.nome);
-  const searchable = item.searchText ?? nome;
-  const normalizedQuery = normalizeText(rawQuery);
-
+function scoreVehicle(item: SearchIndexItem, query: string, yearFilter: number | null): number {
   if (yearFilter && item.ano !== yearFilter) return -1;
-
-  const fipeCode = normalizeFipeCodeQuery(rawQuery);
-  if (fipeCode && item.fipeCodigo) {
-    if (item.fipeCodigo === fipeCode) return 10000;
-    if (item.fipeCodigo.startsWith(fipeCode.split('-')[0])) return 5000;
-  }
-
-  if (normalizedQuery.length >= 2 && nome === normalizedQuery) return 9000;
-  if (normalizedQuery.length >= 2 && searchable === normalizedQuery) return 8500;
-
-  let matched = 0;
-  let score = item.popularidade ?? 0;
-  const primary = getPrimaryToken(tokens);
-
-  for (const token of tokens) {
-    if (tokenMatchesWord(nome, token)) {
-      matched++;
-      score += 40;
-      if (wordStartsWith(nome, token)) score += 25;
-      continue;
-    }
-    if (tokenMatches(searchable, token)) {
-      matched++;
-      score += 15;
-      if (wordStartsWith(searchable, token)) score += 10;
-      continue;
-    }
-  }
-
-  if (matched === 0) {
-    if (tokens.length === 1 && tokens[0].length === 1) {
-      if (nome.startsWith(tokens[0]) || searchable.startsWith(tokens[0])) return 20 + score;
-    }
-    return -1;
-  }
-  if (matched < tokens.length) score -= (tokens.length - matched) * 15;
-
-  if (tokens.length > 1 && tokens.every((t) => tokenMatchesWord(nome, t))) {
-    score += 35;
-  }
-
-  if (primary && tokenMatchesWord(nome, primary)) {
-    score += 50;
-    if (nome.split(' ').some((w) => w === primary)) score += 30;
-  }
-
-  return score;
+  const modelo = getModeloNorm(item);
+  const marca = getMarcaNorm(item);
+  const familia = getFamilyNorm(item);
+  const base = scoreTextMatch(modelo, marca, familia, query);
+  if (base < 0) return -1;
+  return base + (POPULAR_FAMILY_BOOST[familia] ?? 0) + Math.min(item.ano ?? 0, 2030) / 100;
 }
 
-function dedupeResults(items: SearchIndexItem[]): SearchIndexItem[] {
+function dedupeFamilies(items: FamilySearchItem[]): FamilySearchItem[] {
+  const seen = new Map<string, FamilySearchItem>();
+  for (const item of items) {
+    const existing = seen.get(item.id);
+    if (!existing || item.versaoCount > existing.versaoCount) {
+      seen.set(item.id, item);
+    }
+  }
+  return [...seen.values()];
+}
+
+function dedupeVehicles(items: SearchIndexItem[]): SearchIndexItem[] {
   const seen = new Map<string, SearchIndexItem>();
   for (const item of items) {
     const key = `${normalizeText(item.nome)}-${item.ano ?? 0}-${item.valor}`;
     const existing = seen.get(key);
-    if (!existing || (item.popularidade ?? 0) > (existing.popularidade ?? 0)) {
+    if (!existing || (item.ano ?? 0) > (existing.ano ?? 0)) {
       seen.set(key, item);
     }
   }
   return [...seen.values()];
+}
+
+export function searchFamilies(
+  families: FamilySearchItem[],
+  query: string,
+  tipo: VehicleTipo = 'carros',
+  limit = AUTOCOMPLETE_LIMIT,
+): FamilySearchItem[] {
+  const q = normalizeText(query.trim());
+  if (!q) return [];
+
+  const scored: Array<{ item: FamilySearchItem; score: number }> = [];
+  for (const family of families) {
+    if (family.tipo !== tipo) continue;
+    const score = scoreFamily(family, q);
+    if (score >= 0) scored.push({ item: family, score });
+  }
+
+  scored.sort((a, b) => b.score - a.score || b.item.versaoCount - a.item.versaoCount);
+  return dedupeFamilies(scored.map((s) => s.item)).slice(0, limit);
 }
 
 export function searchVehicles(
@@ -188,55 +176,52 @@ export function searchVehicles(
     hits.sort((a, b) => {
       if (a.fipeCodigo === fipeCode && b.fipeCodigo !== fipeCode) return -1;
       if (b.fipeCodigo === fipeCode && a.fipeCodigo !== fipeCode) return 1;
-      return (b.popularidade ?? 0) - (a.popularidade ?? 0);
+      return (b.ano ?? 0) - (a.ano ?? 0);
     });
-    return dedupeResults(hits).slice(0, limit);
+    return dedupeVehicles(hits).slice(0, limit);
   }
 
   const yearFilter = extractYearFromQuery(trimmed);
   const queryWithoutYear = normalizeText(trimmed).replace(/\b(19|20)\d{2}\b/g, '').trim();
   if (queryWithoutYear.length < 1 && !yearFilter) return [];
 
-  if (queryWithoutYear.length === 1) {
-    const letter = queryWithoutYear;
-    return dedupeResults(
-      index
-        .filter((item) => {
-          if (item.tipo !== tipo) return false;
-          const nome = normalizeText(item.nome);
-          const searchable = item.searchText ?? nome;
-          return nome.startsWith(letter) || searchable.startsWith(letter) || nome.split(' ').some((w) => w.startsWith(letter));
-        })
-        .sort((a, b) => (b.popularidade ?? 0) - (a.popularidade ?? 0)),
-    ).slice(0, limit);
-  }
-
-  const tokens = expandQueryTokens(queryWithoutYear || normalizeText(trimmed));
-  if (tokens.length === 0 && yearFilter) {
-    return index
-      .filter((item) => item.tipo === tipo && item.ano === yearFilter)
-      .sort((a, b) => (b.popularidade ?? 0) - (a.popularidade ?? 0))
-      .slice(0, limit);
-  }
-
-  const scored: ScoredItem[] = [];
+  const scored: Array<{ item: SearchIndexItem; score: number }> = [];
   for (const item of index) {
     if (item.tipo !== tipo) continue;
-    const score = scoreItem(item, tokens, yearFilter, trimmed);
+    const score = scoreVehicle(item, queryWithoutYear || normalizeText(trimmed), yearFilter);
     if (score >= 0) scored.push({ item, score });
   }
 
-  scored.sort((a, b) => b.score - a.score);
+  scored.sort((a, b) => b.score - a.score || (b.item.ano ?? 0) - (a.item.ano ?? 0));
+  return dedupeVehicles(scored.map((s) => s.item)).slice(0, limit);
+}
 
-  const primary = getPrimaryToken(tokens);
-  const knownModel = primary && primary.length >= 5;
-  const filtered = knownModel
-    ? scored.filter((s) => tokenMatchesWord(normalizeText(s.item.nome), primary))
-    : scored;
+/** Autocomplete: famílias para texto curto; veículos para FIPE ou consulta com espaço. */
+export function searchSuggestions(
+  families: FamilySearchItem[],
+  vehicles: SearchIndexItem[],
+  query: string,
+  tipo: VehicleTipo = 'carros',
+  limit = AUTOCOMPLETE_LIMIT,
+): SearchSuggestion[] {
+  const trimmed = query.trim();
+  if (!trimmed) return [];
 
-  const pool = filtered.length > 0 ? filtered : scored;
+  if (normalizeFipeCodeQuery(trimmed)) {
+    return searchVehicles(vehicles, trimmed, tipo, limit).map((item) => ({ kind: 'veiculo', item }));
+  }
 
-  return dedupeResults(pool.map((s) => s.item)).slice(0, limit);
+  const hasSpaces = /\s/.test(trimmed);
+  if (hasSpaces) {
+    return searchVehicles(vehicles, trimmed, tipo, limit).map((item) => ({ kind: 'veiculo', item }));
+  }
+
+  const familyHits = searchFamilies(families, trimmed, tipo, limit);
+  if (familyHits.length > 0) {
+    return familyHits.map((item) => ({ kind: 'familia', item }));
+  }
+
+  return searchVehicles(vehicles, trimmed, tipo, limit).map((item) => ({ kind: 'veiculo', item }));
 }
 
 export function extractFilterChips(index: SearchIndexItem[], query: string, tipo: VehicleTipo): string[] {
@@ -256,12 +241,13 @@ export function looksLikeMotoQuery(query: string): boolean {
 }
 
 export function benchmarkSearch(
-  index: SearchIndexItem[],
+  families: FamilySearchItem[],
+  vehicles: SearchIndexItem[],
   query: string,
   tipo: VehicleTipo = 'carros',
 ): { ms: number; count: number } {
   const start = performance.now();
-  const count = searchVehicles(index, query, tipo, 20).length;
+  const count = searchSuggestions(families, vehicles, query, tipo, AUTOCOMPLETE_LIMIT).length;
   return { ms: performance.now() - start, count };
 }
 
@@ -272,3 +258,16 @@ export function formatSearchResultLabel(item: SearchIndexItem): string {
   if (item.ano) parts.push(String(item.ano));
   return parts.join(' · ');
 }
+
+export function formatFamilyLabel(item: FamilySearchItem): string {
+  return `${item.marca} ${item.familiaDisplay}`;
+}
+
+export function formatFamilyMeta(item: FamilySearchItem): string {
+  const anos =
+    item.anoMin === item.anoMax ? String(item.anoMax) : `${item.anoMin}–${item.anoMax}`;
+  return `${item.versaoCount} versões · ${anos}`;
+}
+
+// Re-export helpers used by build scripts / tests
+export { extractFamilyName, formatFamilyDisplay, MODEL_LEADING_SKIP, MODEL_NOISE_WORDS, modeloTokens };

@@ -43,9 +43,30 @@ export interface SearchIndexItem {
   pageSlug?: string;
   /** Texto normalizado para ranking (nome + modelo, sem aliases expandidos) */
   searchText?: string;
+  /** Modelo normalizado para autocomplete alfabético */
+  modelo?: string;
   /** Caminho estatico do JSON do veiculo, ex: /data/fipe/toyota/corolla/2024.json */
   dataPath?: string;
 }
+
+export interface FamilySearchItem {
+  id: string;
+  familia: string;
+  familiaDisplay: string;
+  marca: string;
+  marcaSlug: string;
+  tipo: VehicleTipo;
+  versaoCount: number;
+  valorMin: number;
+  valorMax: number;
+  anoMin: number;
+  anoMax: number;
+  hubPath?: string;
+}
+
+export type SearchSuggestion =
+  | { kind: 'familia'; item: FamilySearchItem }
+  | { kind: 'veiculo'; item: SearchIndexItem };
 
 export interface StateTaxRate {
   nome: string;

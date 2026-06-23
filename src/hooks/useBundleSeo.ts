@@ -21,7 +21,7 @@ function upsertLink(rel: string, href: string) {
   el.href = href;
 }
 
-export function useBundleSeo(seo: VehiclePageSeo | null) {
+export function useBundleSeo(seo: VehiclePageSeo | null, extraJsonLd: Record<string, unknown>[] = []) {
   useEffect(() => {
     if (!seo) return;
 
@@ -39,7 +39,9 @@ export function useBundleSeo(seo: VehiclePageSeo | null) {
     const existing = document.querySelectorAll('script[data-bundle-jsonld]');
     existing.forEach((el) => el.remove());
 
-    for (const block of seo.jsonLd) {
+    const blocks = [...seo.jsonLd.filter((b) => (b as { '@type'?: string })['@type'] !== 'FAQPage'), ...extraJsonLd];
+
+    for (const block of blocks) {
       const script = document.createElement('script');
       script.type = 'application/ld+json';
       script.setAttribute('data-bundle-jsonld', '1');
@@ -50,5 +52,5 @@ export function useBundleSeo(seo: VehiclePageSeo | null) {
     return () => {
       document.querySelectorAll('script[data-bundle-jsonld]').forEach((el) => el.remove());
     };
-  }, [seo]);
+  }, [seo, extraJsonLd]);
 }

@@ -1,13 +1,21 @@
 import { useCallback, useEffect, useMemo, useRef, useState } from 'react';
 import { useNavigate } from 'react-router-dom';
 import { Search } from 'lucide-react';
-import { SearchIndexItem, VehicleTipo } from '../../types';
-import { searchVehicles, looksLikeMotoQuery, formatSearchResultLabel } from '../../lib/search';
+import { FamilySearchItem, SearchIndexItem, SearchSuggestion, VehicleTipo } from '../../types';
+import {
+  searchSuggestions,
+  looksLikeMotoQuery,
+  formatSearchResultLabel,
+  formatFamilyLabel,
+  formatFamilyMeta,
+  AUTOCOMPLETE_LIMIT,
+} from '../../lib/search';
 import { formatBRL } from '../../lib/format';
 import { vehiclePath, vehicleCanonicalPath } from '../../lib/slug';
 
 interface SearchBoxProps {
   index: SearchIndexItem[];
+  families?: FamilySearchItem[];
   onQueryChange?: (query: string) => void;
   tipo?: VehicleTipo;
   onTipoChange?: (tipo: VehicleTipo) => void;
@@ -25,6 +33,7 @@ const TIPOS: { id: VehicleTipo; label: string }[] = [
 
 export default function SearchBox({
   index,
+  families = [],
   onQueryChange,
   tipo: tipoProp,
   onTipoChange,
@@ -43,10 +52,23 @@ export default function SearchBox({
 
   const results = useMemo(() => {
     if (query.trim().length < 1) return [];
-    return searchVehicles(index, query, tipo, 8);
-  }, [index, query, tipo]);
+    return searchSuggestions(families, index, query, tipo, AUTOCOMPLETE_LIMIT);
+  }, [families, index, query, tipo]);
 
   const motoHint = looksLikeMotoQuery(query) && tipo === 'carros' && results.length === 0;
+
+  const goToFamily = useCallback(
+    (item: FamilySearchItem) => {
+      setOpen(false);
+      setQuery('');
+      if (item.hubPath) {
+        navigate(item.hubPath);
+        return;
+      }
+      navigate(`/fipe/${item.marcaSlug}/${item.familia}/`);
+    },
+    [navigate],
+  );
 
   const goToVehicle = useCallback(
     (item: SearchIndexItem) => {
@@ -66,6 +88,14 @@ export default function SearchBox({
     [navigate],
   );
 
+  const goToSuggestion = useCallback(
+    (suggestion: SearchSuggestion) => {
+      if (suggestion.kind === 'familia') goToFamily(suggestion.item);
+      else goToVehicle(suggestion.item);
+    },
+    [goToFamily, goToVehicle],
+  );
+
   const goToResults = useCallback(() => {
     if (!query.trim()) return;
     setOpen(false);
@@ -74,13 +104,13 @@ export default function SearchBox({
 
   const handleSubmit = useCallback(() => {
     if (results.length === 1) {
-      goToVehicle(results[0]);
+      goToSuggestion(results[0]);
     } else if (results.length > 0) {
-      goToVehicle(results[activeIdx] ?? results[0]);
+      goToSuggestion(results[activeIdx] ?? results[0]);
     } else {
       goToResults();
     }
-  }, [results, activeIdx, goToVehicle, goToResults]);
+  }, [results, activeIdx, goToSuggestion, goToResults]);
 
   useEffect(() => {
     setQuery(initialQuery);
@@ -102,8 +132,7 @@ export default function SearchBox({
 
   useEffect(() => {
     if (query.trim().length < 1) return;
-    const timer = window.setTimeout(() => onQueryChange?.(query), 200);
-    return () => window.clearTimeout(timer);
+    onQueryChange?.(query);
   }, [query, onQueryChange]);
 
   const inputClasses = size === 'hero' ? 'text-base py-4' : 'text-sm py-2.5';
@@ -122,16 +151,16 @@ export default function SearchBox({
       {results.length > 0 ? (
         <>
           <div className="px-4 py-2 text-[10px] uppercase tracking-wider text-slate-400 font-bold border-b border-slate-100 dark:border-slate-800 sticky top-0 bg-white dark:bg-slate-900">
-            {results.length} resultado{results.length > 1 ? 's' : ''}
+            {results.length} sugest{results.length > 1 ? 'ões' : 'ão'}
           </div>
-          {results.map((item, idx) => (
+          {results.map((suggestion, idx) => (
             <button
-              key={item.id}
+              key={suggestion.kind === 'familia' ? suggestion.item.id : suggestion.item.id}
               type="button"
               role="option"
               aria-selected={idx === activeIdx}
               onMouseEnter={() => setActiveIdx(idx)}
-              onClick={() => goToVehicle(item)}
+              onClick={() => goToSuggestion(suggestion)}
               className={`w-full px-4 py-3.5 flex items-center justify-between gap-3 text-left transition-colors min-h-[56px] ${
                 idx === activeIdx
                   ? 'bg-blue-50 dark:bg-blue-950/30'
@@ -139,20 +168,39 @@ export default function SearchBox({
               }`}
             >
               <div className="min-w-0 flex-1">
-                <p className="text-sm font-semibold text-slate-900 dark:text-white line-clamp-2">
-                  {formatSearchResultLabel(item)}
-                </p>
-                <p className="text-xs text-slate-500 dark:text-slate-400 mt-0.5 capitalize">
-                  {item.marca ?? '—'}
-                  {item.fipeCodigo ? ` · FIPE ${item.fipeCodigo}` : ''}
-                </p>
+                {suggestion.kind === 'familia' ? (
+                  <>
+                    <p className="text-sm font-semibold text-slate-900 dark:text-white line-clamp-2">
+                      {formatFamilyLabel(suggestion.item)}
+                    </p>
+                    <p className="text-xs text-slate-500 dark:text-slate-400 mt-0.5">
+                      {formatFamilyMeta(suggestion.item)}
+                    </p>
+                  </>
+                ) : (
+                  <>
+                    <p className="text-sm font-semibold text-slate-900 dark:text-white line-clamp-2">
+                      {formatSearchResultLabel(suggestion.item)}
+                    </p>
+                    <p className="text-xs text-slate-500 dark:text-slate-400 mt-0.5 capitalize">
+                      {suggestion.item.marca ?? '—'}
+                      {suggestion.item.fipeCodigo ? ` · FIPE ${suggestion.item.fipeCodigo}` : ''}
+                    </p>
+                  </>
+                )}
               </div>
               <span className="text-sm font-bold text-blue-600 dark:text-blue-400 shrink-0 tabular-nums">
-                {item.valor > 0 ? formatBRL(item.valor) : 'Consultar FIPE'}
+                {suggestion.kind === 'familia'
+                  ? suggestion.item.valorMax > 0
+                    ? formatBRL(suggestion.item.valorMax)
+                    : 'Ver versões'
+                  : suggestion.item.valor > 0
+                    ? formatBRL(suggestion.item.valor)
+                    : 'Consultar FIPE'}
               </span>
             </button>
           ))}
-          {results.length >= 8 && (
+          {results.length >= AUTOCOMPLETE_LIMIT && (
             <button
               type="button"
               onClick={goToResults}
@@ -173,7 +221,7 @@ export default function SearchBox({
             </p>
           ) : (
             <p className="text-xs text-slate-400">
-              Tente: Gol 2015, Onix 2019, Corolla 2021
+              Tente: Gol, Onix, Corolla, 002112-1
             </p>
           )}
         </div>
@@ -183,6 +231,9 @@ export default function SearchBox({
 
   return (
     <div ref={containerRef} className="w-full space-y-3">
+      <label htmlFor="main-fipe-search-input" className="block text-sm font-bold text-slate-900 dark:text-white">
+        Pesquisa
+      </label>
       <div
         className={`relative flex items-center bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-700 rounded-xl px-4 shadow-sm transition-all focus-within:border-blue-500 focus-within:ring-2 focus-within:ring-blue-500/20 ${
           size === 'hero' ? 'rounded-2xl shadow-md' : ''
@@ -197,7 +248,7 @@ export default function SearchBox({
           autoCorrect="off"
           spellCheck={false}
           autoFocus={autoFocus}
-          placeholder="Marca, modelo, versão ou código FIPE..."
+          placeholder="Marca, modelo, família ou código FIPE..."
           value={query}
           onChange={(e) => {
             setQuery(e.target.value);
@@ -221,7 +272,7 @@ export default function SearchBox({
           }}
           className={`w-full bg-transparent focus:outline-none text-slate-900 dark:text-white placeholder-slate-400 ${inputClasses}`}
           id="main-fipe-search-input"
-          aria-label="Pesquisar veículo"
+          aria-label="Pesquisa de veículos na Tabela FIPE"
           aria-expanded={open && query.trim().length >= 1}
           aria-controls="search-dropdown-menu"
           aria-autocomplete="list"
@@ -230,7 +281,7 @@ export default function SearchBox({
 
       {size === 'hero' && (
         <p className="text-xs text-slate-400 text-center">
-          Ex: Corolla, Onix LT 2024, CG 160, Renegade Diesel
+          Ex: Corolla, Onix, CG 160, 002112-1
         </p>
       )}
 

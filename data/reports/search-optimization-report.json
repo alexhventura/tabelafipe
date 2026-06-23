@@ -1,0 +1,321 @@
+{
+  "geradoEm": "2026-06-23T04:29:45.187Z",
+  "duracaoMs": 3232,
+  "indice": {
+    "veiculosTotal": 50395,
+    "familiasTotal": 1995,
+    "limiteAutocomplete": 10
+  },
+  "latencia": {
+    "mediaMs": 1.03,
+    "fipeMs": 17.61
+  },
+  "porLetra": {
+    "a": {
+      "familias": 10,
+      "ms": 1.29,
+      "amostra": [
+        "Audi A4",
+        "Audi A3",
+        "Mercedes-Benz AMG",
+        "GM - Chevrolet Astra",
+        "Audi A6"
+      ]
+    },
+    "b": {
+      "familias": 10,
+      "ms": 0.56,
+      "amostra": [
+        "Porsche Boxster",
+        "Toyota BAND",
+        "Peugeot Boxer",
+        "Fibravan Buggy",
+        "Kia Motors Bongo"
+      ]
+    },
+    "c": {
+      "familias": 10,
+      "ms": 1.15,
+      "amostra": [
+        "Toyota Corolla",
+        "Honda Civic",
+        "Honda CITY",
+        "Jeep Compass",
+        "Hyundai Creta"
+      ]
+    },
+    "d": {
+      "familias": 10,
+      "ms": 0.29,
+      "amostra": [
+        "Fiat Ducato",
+        "IVECO Daily",
+        "Renault Duster",
+        "Land Rover Defender",
+        "Land Rover Discovery"
+      ]
+    },
+    "e": {
+      "familias": 10,
+      "ms": 0.43,
+      "amostra": [
+        "Ford Ecosport",
+        "Ford Escort",
+        "Toyota Etios",
+        "Mitsubishi Eclipse",
+        "Mercedes-Benz Elegance"
+      ]
+    },
+    "f": {
+      "familias": 10,
+      "ms": 0.19,
+      "amostra": [
+        "Ford Fiesta",
+        "VW - VolksWagen FOX",
+        "Ford Focus",
+        "Nissan Frontier",
+        "Honda FIT"
+      ]
+    },
+    "g": {
+      "familias": 10,
+      "ms": 0.24,
+      "amostra": [
+        "VW - VolksWagen GOL",
+        "VW - VolksWagen GOLF",
+        "Peugeot Griffe",
+        "Mercedes-Benz GLC",
+        "Mercedes-Benz GLE"
+      ]
+    },
+    "h": {
+      "familias": 10,
+      "ms": 0.2,
+      "amostra": [
+        "Toyota Hilux",
+        "Hyundai HB20",
+        "Hyundai Hb20s",
+        "Hyundai H100",
+        "Honda HR"
+      ]
+    },
+    "i": {
+      "familias": 10,
+      "ms": 0.21,
+      "amostra": [
+        "Subaru Impreza",
+        "Fiat IDEA",
+        "Hyundai IX35",
+        "GM - Chevrolet Ipanema",
+        "BMW IX"
+      ]
+    },
+    "j": {
+      "familias": 10,
+      "ms": 0.2,
+      "amostra": [
+        "Suzuki Jimny",
+        "Citroën Jumper",
+        "VW - VolksWagen Jetta",
+        "Citroën Jumpy",
+        "JPX JIPE"
+      ]
+    },
+    "k": {
+      "familias": 10,
+      "ms": 0.19,
+      "amostra": [
+        "VW - VolksWagen Kombi",
+        "Ford KA",
+        "Renault Kangoo",
+        "Nissan Kicks",
+        "GM - Chevrolet Kadett"
+      ]
+    },
+    "l": {
+      "familias": 10,
+      "ms": 0.26,
+      "amostra": [
+        "Mitsubishi L200",
+        "Renault Logan",
+        "Subaru Legacy",
+        "Mitsubishi Lancer",
+        "Nissan Livina"
+      ]
+    },
+    "m": {
+      "familias": 10,
+      "ms": 2.13,
+      "amostra": [
+        "Renault Master",
+        "Renault Megane",
+        "Fiat Marea",
+        "GM - Chevrolet Montana",
+        "GM - Chevrolet Monza"
+      ]
+    },
+    "n": {
+      "familias": 10,
+      "ms": 0.14,
+      "amostra": [
+        "Lexus NX",
+        "VW - VolksWagen Nivus",
+        "FEVER Nextem",
+        "Chrysler NEON",
+        "Lada NIVA"
+      ]
+    },
+    "o": {
+      "familias": 10,
+      "ms": 0.14,
+      "amostra": [
+        "GM - Chevrolet ONIX",
+        "Mitsubishi Outlander",
+        "GM - Chevrolet Omega",
+        "Subaru Outback",
+        "GM - Chevrolet Opala"
+      ]
+    },
+    "p": {
+      "familias": 10,
+      "ms": 0.23,
+      "amostra": [
+        "Mitsubishi Pajero",
+        "Fiat Palio",
+        "VW - VolksWagen POLO",
+        "VW - VolksWagen Parati",
+        "VW - VolksWagen Passat"
+      ]
+    },
+    "q": {
+      "familias": 10,
+      "ms": 0.17,
+      "amostra": [
+        "Audi Q5",
+        "VW - VolksWagen Quantum",
+        "Audi Q3",
+        "Maserati Quattroporte",
+        "Audi Q7"
+      ]
+    },
+    "r": {
+      "familias": 10,
+      "ms": 0.23,
+      "amostra": [
+        "Ford Ranger",
+        "Land Rover Range",
+        "Jeep Renegade",
+        "Toyota RAV4",
+        "RAM Rampage"
+      ]
+    },
+    "s": {
+      "familias": 10,
+      "ms": 0.88,
+      "amostra": [
+        "VW - VolksWagen Saveiro",
+        "Fiat Strada",
+        "Fiat Siena",
+        "Renault Sandero",
+        "GM - Chevrolet SPIN"
+      ]
+    },
+    "t": {
+      "familias": 10,
+      "ms": 0.35,
+      "amostra": [
+        "GM - Chevrolet Tracker",
+        "Ford Transit",
+        "Fiat TORO",
+        "Jaguar TYPE",
+        "Caoa Chery Tiggo"
+      ]
+    },
+    "u": {
+      "familias": 8,
+      "ms": 0.19,
+      "amostra": [
+        "Fiat UNO",
+        "VW - VolksWagen UP",
+        "EFFA ULC",
+        "Lexus UX",
+        "LAMBORGHINI URUS"
+      ]
+    },
+    "v": {
+      "familias": 10,
+      "ms": 0.16,
+      "amostra": [
+        "Suzuki Vitara",
+        "VW - VolksWagen Voyage",
+        "GM - Chevrolet Vectra",
+        "Nissan Versa",
+        "Volvo V40"
+      ]
+    },
+    "w": {
+      "familias": 9,
+      "ms": 0.07,
+      "amostra": [
+        "Jeep Wrangler",
+        "Wake WAY",
+        "Honda WR",
+        "HITECH ELECTRIC WORK",
+        "Rolls-Royce Wraith"
+      ]
+    },
+    "x": {
+      "familias": 10,
+      "ms": 0.14,
+      "amostra": [
+        "Volvo XC",
+        "Citroën Xsara",
+        "BMW X5",
+        "BMW X3",
+        "Ford XLT"
+      ]
+    },
+    "y": {
+      "familias": 3,
+      "ms": 0.05,
+      "amostra": [
+        "Toyota Yaris",
+        "BYD YUAN",
+        "RAM Yellowstone"
+      ]
+    },
+    "z": {
+      "familias": 8,
+      "ms": 0.11,
+      "amostra": [
+        "GM - Chevrolet Zafira",
+        "BMW Z4",
+        "BMW Z3",
+        "Citroën ZX",
+        "Renault ZOE"
+      ]
+    }
+  },
+  "cobertura": {
+    "S": {
+      "esperados": 6,
+      "encontrados": 6,
+      "faltando": []
+    },
+    "C": {
+      "esperados": 8,
+      "encontrados": 8,
+      "faltando": []
+    }
+  },
+  "fipe": {
+    "query": "002112-1",
+    "resultados": 10,
+    "top": "Toyota Corolla ALTIS/A.Premiu. 2.0 Flex 16V Aut (2026)"
+  },
+  "metas": {
+    "autocomplete10": true,
+    "coberturaSCompleta": true,
+    "coberturaCCompleta": true
+  }
+}

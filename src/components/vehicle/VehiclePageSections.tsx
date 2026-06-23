@@ -1,42 +1,76 @@
 import { Link } from 'react-router-dom';
-import { lazy, Suspense } from 'react';
+import { lazy, Suspense, useMemo, type ReactNode } from 'react';
 import type { RelatedLink, VehiclePageBundle } from '../../types/bundle';
 import { formatBRL, formatPct } from '../../lib/format';
 import { historicoToChartData } from '../../lib/bundle';
+import ShareButtons from './ShareButtons';
+import {
+  buildEnhancedFaq,
+  buildInternalNav,
+  buildMaintenanceRows,
+  buildQuickCards,
+  buildSeoArticle,
+  buildSpecGroups,
+  categoryConsumoHint,
+  computeHistoricoStats,
+  formatMesReferencia,
+  pickConcorrentes,
+  pickOutrasVersoes,
+} from '../../lib/vehiclePageData';
 
 const PriceChart = lazy(() => import('./PriceChart'));
 
-function SpecRow({ label, value }: { label: string; value: string | number | null | undefined }) {
-  if (value == null || value === '') return null;
+function Section({
+  id,
+  title,
+  children,
+}: {
+  id: string;
+  title: string;
+  children: ReactNode;
+}) {
   return (
-    <div className="flex justify-between gap-4 py-2 border-b border-slate-100 dark:border-slate-800 last:border-0">
-      <dt className="text-slate-500">{label}</dt>
-      <dd className="font-semibold text-right">{value}</dd>
-    </div>
+    <section id={id} aria-labelledby={`${id}-title`} className="space-y-4 scroll-mt-20">
+      <h2 id={`${id}-title`} className="text-lg font-bold text-slate-900 dark:text-white">
+        {title}
+      </h2>
+      {children}
+    </section>
   );
 }
 
-function RelatedGrid({ title, links }: { title: string; links: RelatedLink[] }) {
+function SpecRows({ rows }: { rows: { label: string; value: string }[] }) {
+  if (!rows.length) return null;
+  return (
+    <dl className="bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 rounded-2xl p-5 text-sm divide-y divide-slate-100 dark:divide-slate-800">
+      {rows.map((row) => (
+        <div key={row.label} className="flex justify-between gap-4 py-2.5 first:pt-0 last:pb-0">
+          <dt className="text-slate-500">{row.label}</dt>
+          <dd className="font-semibold text-right">{row.value}</dd>
+        </div>
+      ))}
+    </dl>
+  );
+}
+
+function RelatedGrid({ links }: { links: RelatedLink[] }) {
   if (!links.length) return null;
   return (
-    <section className="space-y-3" aria-label={title}>
-      <h2 className="text-lg font-bold text-slate-900 dark:text-white">{title}</h2>
-      <div className="grid gap-2 sm:grid-cols-2">
-        {links.map((item) => (
-          <Link
-            key={item.vehicleId}
-            to={item.canonicalPath}
-            className="flex flex-col gap-1 p-3 rounded-xl border border-slate-200 dark:border-slate-800 bg-white dark:bg-slate-900 hover:border-blue-500 transition-colors min-h-[56px]"
-          >
-            <span className="text-sm font-semibold line-clamp-2">{item.displayName}</span>
-            <span className="text-xs text-slate-500">
-              {item.ano} · FIPE {item.fipeCodigo}
-            </span>
-            <span className="text-sm font-bold text-blue-600 tabular-nums">{formatBRL(item.valorAtual)}</span>
-          </Link>
-        ))}
-      </div>
-    </section>
+    <div className="grid gap-2 sm:grid-cols-2">
+      {links.map((item) => (
+        <Link
+          key={item.vehicleId}
+          to={item.canonicalPath}
+          className="flex flex-col gap-1 p-3 rounded-xl border border-slate-200 dark:border-slate-800 bg-white dark:bg-slate-900 hover:border-blue-500 transition-colors min-h-[56px]"
+        >
+          <span className="text-sm font-semibold line-clamp-2">{item.displayName}</span>
+          <span className="text-xs text-slate-500">
+            {item.ano} · FIPE {item.fipeCodigo}
+          </span>
+          <span className="text-sm font-bold text-blue-600 tabular-nums">{formatBRL(item.valorAtual)}</span>
+        </Link>
+      ))}
+    </div>
   );
 }
 
@@ -45,177 +79,253 @@ interface Props {
 }
 
 export default function VehiclePageSections({ bundle }: Props) {
-  const { identity, fipe, sections, seo } = bundle;
+  const { identity, fipe } = bundle;
   const specs = bundle.specs as Record<string, unknown> | null;
-  const engine = bundle.engine?.entity as Record<string, unknown> | null;
   const inmetro = bundle.inmetro;
+  const safety = bundle.safety;
+  const recalls = bundle.recalls;
+  const warranty = bundle.warranty;
+
+  const quickCards = useMemo(() => buildQuickCards(bundle), [bundle]);
+  const historicoStats = useMemo(() => computeHistoricoStats(fipe.historico), [fipe.historico]);
+  const specGroups = useMemo(() => buildSpecGroups(bundle), [bundle]);
+  const maintenanceRows = useMemo(() => buildMaintenanceRows(bundle), [bundle]);
+  const outrasVersoes = useMemo(() => pickOutrasVersoes(bundle), [bundle]);
+  const concorrentes = useMemo(() => pickConcorrentes(bundle), [bundle]);
+  const internalNav = useMemo(() => buildInternalNav(bundle), [bundle]);
+  const seoArticle = useMemo(() => buildSeoArticle(bundle), [bundle]);
+  const faqItems = useMemo(() => buildEnhancedFaq(bundle), [bundle]);
+  const consumoHint = useMemo(() => categoryConsumoHint(bundle), [bundle]);
+
+  const variacao12m =
+    historicoStats?.variacao12m ?? (fipe.trend6m != null ? fipe.trend6m * 2 : null);
 
   return (
-    <div className="space-y-8">
-      {sections.preco && (
-        <section aria-labelledby="sec-preco" className="space-y-4">
-          <h2 id="sec-preco" className="text-lg font-bold">
-            Preço FIPE
-          </h2>
-          <div className="grid sm:grid-cols-2 gap-4">
-            <div className="bg-blue-600 text-white rounded-2xl p-6 space-y-1">
-              <p className="text-xs uppercase tracking-wider opacity-80">Valor de referência</p>
-              <p className="text-3xl font-bold tabular-nums">{formatBRL(fipe.valorAtual)}</p>
-              {fipe.trend6m != null && (
-                <p className="text-sm opacity-90">
-                  {fipe.trend6m >= 0 ? '▲' : '▼'} {formatPct(Math.abs(fipe.trend6m))} em 6 meses
-                </p>
-              )}
-              <p className="text-xs opacity-75">Ref. {fipe.mesReferencia}</p>
-            </div>
-            <dl className="bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 rounded-2xl p-5 text-sm space-y-0">
-              <SpecRow label="Combustível" value={identity.combustivel} />
-              <SpecRow
-                label="Transmissão"
-                value={(specs?.cambio as string) ?? (bundle.transmission?.transmissionNome as string) ?? (engine?.cambio as string)}
-              />
-              <SpecRow
-                label="Potência"
-                value={specs?.potenciaCv ? `${specs.potenciaCv} cv` : engine?.potencia ? `${engine.potencia} cv` : null}
-              />
-              <SpecRow
-                label="Consumo cidade"
-                value={inmetro?.consumoCidade ? `${inmetro.consumoCidade} km/l` : null}
-              />
-            </dl>
+    <div className="space-y-10">
+      {/* SEÇÃO 1 — HERO */}
+      <header className="space-y-4">
+        <div className="bg-gradient-to-br from-slate-900 to-slate-800 text-white rounded-2xl p-5 sm:p-6 space-y-5">
+          <div className="space-y-1">
+            <p className="text-xs uppercase tracking-wider text-slate-400">Tabela FIPE</p>
+            <h1 className="text-xl sm:text-2xl font-bold leading-tight">{identity.displayName}</h1>
+            <p className="text-sm text-slate-300">
+              {identity.combustivel} · Ano {identity.anoModelo}
+            </p>
           </div>
-        </section>
-      )}
 
-      {sections.historico && (
-        <section aria-labelledby="sec-historico" className="space-y-4">
-          <h2 id="sec-historico" className="text-lg font-bold">
-            Histórico FIPE
-          </h2>
-          <div className="bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 rounded-2xl p-4 min-h-[200px]">
-            <Suspense fallback={<div className="h-48 flex items-center justify-center text-slate-400 text-sm">Carregando gráfico...</div>}>
+          <div className="space-y-2 border-t border-white/10 pt-4">
+            <p className="text-xs uppercase tracking-wider text-slate-400 font-semibold">Preço FIPE Atual</p>
+            <p className="text-4xl sm:text-5xl font-bold tabular-nums leading-none">{formatBRL(fipe.valorAtual)}</p>
+            {variacao12m != null && (
+              <p
+                className={`text-sm font-semibold mt-2 ${variacao12m >= 0 ? 'text-emerald-300' : 'text-rose-300'}`}
+              >
+                {variacao12m >= 0 ? '▲' : '▼'} {formatPct(Math.abs(variacao12m))} nos últimos 12 meses
+              </p>
+            )}
+            <div className="flex flex-wrap gap-x-4 gap-y-1 text-sm text-slate-300 pt-2">
+              <span>Código FIPE: {fipe.fipeCodigo}</span>
+              <span>Última atualização: {formatMesReferencia(fipe.mesReferencia)}</span>
+            </div>
+          </div>
+
+          <div className="flex flex-wrap gap-2 pt-1">
+            <a
+              href="#sec-historico"
+              className="px-4 py-2.5 rounded-lg bg-white/10 hover:bg-white/20 text-sm font-semibold min-h-[44px] inline-flex items-center"
+            >
+              Histórico de preços
+            </a>
+            {concorrentes.length > 0 && (
+              <a
+                href="#sec-concorrentes"
+                className="px-4 py-2.5 rounded-lg bg-white/10 hover:bg-white/20 text-sm font-semibold min-h-[44px] inline-flex items-center"
+              >
+                Comparar
+              </a>
+            )}
+            <div className="[&_span]:text-slate-400 [&_button]:border-white/20 [&_button]:text-white [&_a]:border-white/20">
+              <ShareButtons title={bundle.seo.title} url={bundle.seo.canonical} />
+            </div>
+          </div>
+        </div>
+      </header>
+
+      {/* SEÇÃO 2 — HISTÓRICO FIPE (logo após o hero) */}
+      {bundle.sections.historico && fipe.historico.length > 1 && historicoStats && (
+        <Section id="sec-historico" title="Histórico FIPE">
+          <div className="bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 rounded-2xl p-4 min-h-[220px]">
+            <Suspense
+              fallback={
+                <div className="h-48 flex items-center justify-center text-slate-400 text-sm">Carregando gráfico...</div>
+              }
+            >
               <PriceChart data={historicoToChartData(fipe.historico)} />
             </Suspense>
           </div>
-        </section>
-      )}
-
-      {sections.specs && specs && (
-        <section aria-labelledby="sec-specs" className="space-y-4">
-          <h2 id="sec-specs" className="text-lg font-bold">
-            Ficha técnica
-          </h2>
-          <dl className="bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 rounded-2xl p-5 text-sm">
-            <SpecRow label="Potência" value={specs.potenciaCv ? `${specs.potenciaCv} cv` : null} />
-            <SpecRow label="Torque" value={specs.torqueNm ? `${specs.torqueNm} Nm` : null} />
-            <SpecRow label="Câmbio" value={specs.cambio as string} />
-            <SpecRow label="Porta-malas" value={specs.portaMalasL ? `${specs.portaMalasL} L` : null} />
-            <SpecRow label="Tanque" value={specs.tanqueL ? `${specs.tanqueL} L` : null} />
-            <SpecRow label="Peso" value={specs.pesoKg ? `${specs.pesoKg} kg` : null} />
-          </dl>
-        </section>
-      )}
-
-      {sections.engine && bundle.engine && (
-        <section aria-labelledby="sec-engine" className="space-y-4">
-          <h2 id="sec-engine" className="text-lg font-bold">
-            Motor
-          </h2>
-          <dl className="bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 rounded-2xl p-5 text-sm">
-            <SpecRow label="Motor" value={bundle.engine.engineNome} />
-            <SpecRow label="Potência" value={engine?.potencia ? `${engine.potencia} cv` : null} />
-            <SpecRow label="Torque" value={engine?.torqueNm ? `${engine.torqueNm} Nm` : null} />
-            <SpecRow label="Óleo" value={engine?.oleo as string} />
-            <SpecRow label="Capacidade óleo" value={engine?.capacidadeOleoL ? `${engine.capacidadeOleoL} L` : null} />
-          </dl>
-        </section>
-      )}
-
-      {sections.inmetro && inmetro && (
-        <section aria-labelledby="sec-inmetro" className="space-y-4">
-          <h2 id="sec-inmetro" className="text-lg font-bold">
-            Consumo e eficiência
-          </h2>
-          <dl className="bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 rounded-2xl p-5 text-sm">
-            <SpecRow label="Cidade (gasolina)" value={inmetro.consumoCidade ? `${inmetro.consumoCidade} km/l` : null} />
-            <SpecRow label="Estrada (gasolina)" value={inmetro.consumoEstrada ? `${inmetro.consumoEstrada} km/l` : null} />
-            <SpecRow label="Cidade (etanol)" value={inmetro.consumoCidadeEtanol ? `${inmetro.consumoCidadeEtanol} km/l` : null} />
-            <SpecRow label="Classificação" value={inmetro.classificacaoEnergetica as string} />
-          </dl>
-        </section>
-      )}
-
-      {bundle.safety && (
-        <section aria-labelledby="sec-safety" className="space-y-4">
-          <h2 id="sec-safety" className="text-lg font-bold">
-            Segurança
-          </h2>
-          <dl className="bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 rounded-2xl p-5 text-sm">
-            <SpecRow label="Nota geral NCAP" value={bundle.safety.notaGeral as number} />
-            <SpecRow label="Proteção adultos" value={bundle.safety.protecaoAdultos as number} />
-            <SpecRow label="Proteção infantis" value={bundle.safety.protecaoInfantis as number} />
-          </dl>
-        </section>
-      )}
-
-      {(bundle.warranty || bundle.recalls) && (
-        <section aria-labelledby="sec-warranty" className="space-y-4">
-          <h2 id="sec-warranty" className="text-lg font-bold">
-            Garantia e recalls
-          </h2>
-          <dl className="bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 rounded-2xl p-5 text-sm">
-            <SpecRow label="Garantia total" value={bundle.warranty?.garantiaTotalAnos ? `${bundle.warranty.garantiaTotalAnos} anos` : null} />
-            <SpecRow label="Anticorrosão" value={bundle.warranty?.garantiaAnticorrosaoAnos ? `${bundle.warranty.garantiaAnticorrosaoAnos} anos` : null} />
-            <SpecRow label="Recalls ativos" value={bundle.recalls?.ativos as number} />
-            <SpecRow label="Total campanhas" value={bundle.recalls?.total as number} />
-          </dl>
-        </section>
-      )}
-
-      {sections.maintenance && bundle.maintenance && (
-        <section aria-labelledby="sec-maint" className="space-y-4">
-          <h2 id="sec-maint" className="text-lg font-bold">
-            Manutenção
-          </h2>
-          <dl className="bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 rounded-2xl p-5 text-sm">
-            <SpecRow label="Óleo recomendado" value={bundle.maintenance.oleo as string} />
-            <SpecRow label="Pneus" value={(bundle.maintenance.pneus as string[])?.join(', ')} />
-          </dl>
-        </section>
-      )}
-
-      {sections.generation && bundle.generation?.catalogEntry && (
-        <section aria-labelledby="sec-gen" className="space-y-4">
-          <h2 id="sec-gen" className="text-lg font-bold">
-            Geração e evolução
-          </h2>
-          <div className="bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 rounded-2xl p-5 text-sm">
-            <p className="font-semibold">{(bundle.generation.catalogEntry.label as string) ?? bundle.generation.geracaoId}</p>
-            {bundle.generation.familia && (
-              <p className="text-slate-500 mt-1">Família: {bundle.generation.familia}</p>
+          {historicoStats.insight && (
+            <p className="text-sm text-slate-600 dark:text-slate-300 bg-blue-50 dark:bg-blue-950/30 border border-blue-100 dark:border-blue-900 rounded-xl px-4 py-3">
+              {historicoStats.insight}
+            </p>
+          )}
+          <div className="grid grid-cols-2 sm:grid-cols-4 gap-2 text-sm">
+            {historicoStats.variacao12m != null && (
+              <div className="rounded-xl border border-slate-200 dark:border-slate-800 p-3 bg-white dark:bg-slate-900">
+                <p className="text-xs text-slate-500">12 meses</p>
+                <p className="font-bold tabular-nums">{formatPct(historicoStats.variacao12m)}</p>
+              </div>
             )}
+            {historicoStats.variacao24m != null && (
+              <div className="rounded-xl border border-slate-200 dark:border-slate-800 p-3 bg-white dark:bg-slate-900">
+                <p className="text-xs text-slate-500">24 meses</p>
+                <p className="font-bold tabular-nums">{formatPct(historicoStats.variacao24m)}</p>
+              </div>
+            )}
+            <div className="rounded-xl border border-slate-200 dark:border-slate-800 p-3 bg-white dark:bg-slate-900">
+              <p className="text-xs text-slate-500">Máxima</p>
+              <p className="font-bold tabular-nums">{formatBRL(historicoStats.max)}</p>
+            </div>
+            <div className="rounded-xl border border-slate-200 dark:border-slate-800 p-3 bg-white dark:bg-slate-900">
+              <p className="text-xs text-slate-500">Mínima</p>
+              <p className="font-bold tabular-nums">{formatBRL(historicoStats.min)}</p>
+            </div>
           </div>
-        </section>
+        </Section>
       )}
 
-      {sections.relacionados && (
-        <div className="space-y-8">
-          <RelatedGrid title="Mesma geração" links={bundle.related.mesmaGeracao} />
-          <RelatedGrid title="Mesmo motor" links={bundle.related.mesmoMotor} />
-          <RelatedGrid title="Mesma plataforma" links={bundle.related.mesmaPlataforma} />
-          <RelatedGrid title="Mesma transmissão" links={bundle.related.mesmaTransmissao} />
-          <RelatedGrid title="Veículos semelhantes" links={bundle.related.concorrentes} />
-          <RelatedGrid title="Mesma faixa de preço" links={bundle.related.mesmaFaixaPreco} />
-        </div>
+      {/* SEÇÃO 3 — RESUMO RÁPIDO */}
+      {quickCards.length > 0 && (
+        <Section id="sec-resumo" title="Resumo rápido">
+          <div className="grid grid-cols-2 sm:grid-cols-3 gap-2">
+            {quickCards.map((card) => (
+              <div
+                key={card.label}
+                className="bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 rounded-xl p-3 min-h-[72px] flex flex-col justify-center"
+              >
+                <p className="text-[10px] uppercase tracking-wider text-slate-400 font-semibold">{card.label}</p>
+                <p className="text-sm font-bold text-slate-900 dark:text-white mt-0.5 line-clamp-2">{card.value}</p>
+              </div>
+            ))}
+          </div>
+        </Section>
       )}
 
-      {bundle.faq.length > 0 && (
-        <section aria-labelledby="sec-faq" className="space-y-4">
-          <h2 id="sec-faq" className="text-lg font-bold">
-            Perguntas frequentes
-          </h2>
+      {/* SEÇÃO 4 — FICHA TÉCNICA */}
+      {specGroups.length > 0 && (
+        <Section id="sec-ficha" title="Ficha técnica">
+          <div className="space-y-4">
+            {specGroups.map((group) => (
+              <div key={group.title} className="space-y-2">
+                <h3 className="text-sm font-semibold text-slate-700 dark:text-slate-300">{group.title}</h3>
+                <SpecRows rows={group.rows} />
+              </div>
+            ))}
+          </div>
+        </Section>
+      )}
+
+      {/* SEÇÃO 5 — MANUTENÇÃO */}
+      {maintenanceRows.length > 0 && (
+        <Section id="sec-manutencao" title="Manutenção">
+          <SpecRows rows={maintenanceRows} />
+        </Section>
+      )}
+
+      {/* SEÇÃO 6 — EFICIÊNCIA E INMETRO */}
+      {bundle.sections.inmetro && inmetro && (
+        <Section id="sec-inmetro" title="Eficiência e INMETRO">
+          <SpecRows
+            rows={[
+              inmetro.consumoCidade ? { label: 'Consumo cidade', value: `${inmetro.consumoCidade} km/l` } : null,
+              inmetro.consumoEstrada ? { label: 'Consumo estrada', value: `${inmetro.consumoEstrada} km/l` } : null,
+              inmetro.classificacaoEnergetica
+                ? { label: 'Classificação energética', value: String(inmetro.classificacaoEnergetica) }
+                : null,
+            ].filter(Boolean) as { label: string; value: string }[]}
+          />
+          {consumoHint && <p className="text-xs text-slate-500 px-1">{consumoHint}</p>}
+        </Section>
+      )}
+
+      {/* SEÇÃO 7 — SEGURANÇA */}
+      {(safety || recalls || warranty) && (
+        <Section id="sec-seguranca" title="Segurança">
+          {(recalls?.ativos as number) > 0 && (
+            <div className="rounded-xl border border-amber-300 bg-amber-50 dark:bg-amber-950/30 dark:border-amber-800 px-4 py-3 text-sm text-amber-900 dark:text-amber-200">
+              Atenção: {String(recalls?.ativos)} recall(s) ativo(s) registrados para este modelo.
+            </div>
+          )}
+          <SpecRows
+            rows={[
+              safety?.notaGeral != null ? { label: 'Latin NCAP (geral)', value: String(safety.notaGeral) } : null,
+              safety?.protecaoAdultos != null
+                ? { label: 'Proteção adultos', value: `${safety.protecaoAdultos}%` }
+                : null,
+              safety?.protecaoInfantis != null
+                ? { label: 'Proteção infantis', value: `${safety.protecaoInfantis}%` }
+                : null,
+              warranty?.garantiaTotalAnos
+                ? { label: 'Garantia', value: `${warranty.garantiaTotalAnos} anos` }
+                : null,
+              recalls?.total != null ? { label: 'Campanhas de recall', value: String(recalls.total) } : null,
+            ].filter(Boolean) as { label: string; value: string }[]}
+          />
+        </Section>
+      )}
+
+      {/* SEÇÃO 8 — OUTRAS VERSÕES */}
+      {outrasVersoes.length > 0 && (
+        <Section id="sec-versoes" title="Outras versões">
+          <RelatedGrid links={outrasVersoes} />
+        </Section>
+      )}
+
+      {/* SEÇÃO 9 — CONCORRENTES */}
+      {concorrentes.length > 0 && (
+        <Section id="sec-concorrentes" title="Concorrentes">
+          <p className="text-sm text-slate-500">
+            Mesma categoria, faixa de preço e ano — marcas e modelos diferentes.
+          </p>
+          <RelatedGrid links={concorrentes} />
+        </Section>
+      )}
+
+      {/* SEÇÃO 10 — CONTEÚDO SEO */}
+      {seoArticle && (
+        <Section id="sec-conteudo" title="Sobre este veículo">
+          <article className="prose prose-sm prose-slate dark:prose-invert max-w-none bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 rounded-2xl p-5 sm:p-6">
+            {seoArticle.split('\n\n').map((para) => (
+              <p key={para.slice(0, 48)} className="text-sm leading-relaxed text-slate-600 dark:text-slate-300 mb-4 last:mb-0">
+                {para}
+              </p>
+            ))}
+          </article>
+        </Section>
+      )}
+
+      {/* SEÇÃO 11 — NAVEGAÇÃO INTERNA */}
+      {internalNav.length > 0 && (
+        <Section id="sec-navegacao" title="Explore mais">
+          <div className="grid gap-2 sm:grid-cols-2">
+            {internalNav.map((link) => (
+              <Link
+                key={link.path}
+                to={link.path}
+                className="flex flex-col p-3 rounded-xl border border-slate-200 dark:border-slate-800 bg-white dark:bg-slate-900 hover:border-blue-500 transition-colors min-h-[56px]"
+              >
+                <span className="text-sm font-semibold">{link.label}</span>
+                {link.hint && <span className="text-xs text-slate-500 mt-0.5 line-clamp-1">{link.hint}</span>}
+              </Link>
+            ))}
+          </div>
+        </Section>
+      )}
+
+      {/* SEÇÃO 12 — FAQ */}
+      {faqItems.length > 0 && (
+        <Section id="sec-faq" title="Perguntas frequentes">
           <div className="space-y-2">
-            {bundle.faq.map((item) => (
+            {faqItems.map((item) => (
               <details
                 key={item.pergunta}
                 className="group bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 rounded-xl"
@@ -230,12 +340,10 @@ export default function VehiclePageSections({ bundle }: Props) {
               </details>
             ))}
           </div>
-        </section>
+        </Section>
       )}
-
-      <nav aria-label="Breadcrumb" className="sr-only">
-        {seo.breadcrumb.map((b) => b.name).join(' › ')}
-      </nav>
     </div>
   );
 }
+
+export { buildEnhancedFaq, buildFaqJsonLd } from '../../lib/vehiclePageData';

@@ -7,6 +7,7 @@ export type VehicleUrlMapEntry = {
 };
 
 let urlMapCache: Record<string, VehicleUrlMapEntry> | null = null;
+let pageSlugIndex: Map<string, VehicleUrlMapEntry> | null = null;
 
 async function loadUrlMap(): Promise<Record<string, VehicleUrlMapEntry>> {
   if (urlMapCache) return urlMapCache;
@@ -14,12 +15,17 @@ async function loadUrlMap(): Promise<Record<string, VehicleUrlMapEntry>> {
     const res = await fetch('/data/vehicle-url-map.json');
     if (res.ok) {
       urlMapCache = await res.json();
+      pageSlugIndex = new Map();
+      for (const entry of Object.values(urlMapCache!)) {
+        if (entry.pageSlug) pageSlugIndex.set(entry.pageSlug, entry);
+      }
       return urlMapCache!;
     }
   } catch {
     /* fallback below */
   }
   urlMapCache = {};
+  pageSlugIndex = new Map();
   return urlMapCache;
 }
 
@@ -36,9 +42,8 @@ export async function loadVehicleBundle(
     /* try url map fallback */
   }
 
-  const map = await loadUrlMap();
-  const entry =
-    map[cleanSlug] ?? Object.values(map).find((e) => e.pageSlug === cleanSlug);
+  await loadUrlMap();
+  const entry = pageSlugIndex?.get(cleanSlug);
   if (entry?.bundlePath) {
     const res = await fetch(entry.bundlePath);
     if (res.ok) return (await res.json()) as VehiclePageBundle;

@@ -1,0 +1,65 @@
+{
+  "geradoEm": "2026-06-23T04:17:48.353Z",
+  "duracaoMs": 61023,
+  "veiculos": {
+    "urlMapTotal": 50395,
+    "urlsValidas": 50395,
+    "urlsQuebradas": 0,
+    "brokenSamples": []
+  },
+  "busca": {
+    "veiculosIndexados": 50395,
+    "familiasIndexadas": 1705,
+    "shards": 27,
+    "comCanonicalPath": 120154,
+    "canonicalQuebrados": 0,
+    "latenciaMediaMs": 87.75,
+    "benchmarks": {
+      "S": {
+        "ms": 126.148199999996,
+        "count": 20
+      },
+      "Co": {
+        "ms": 85.06880000000092,
+        "count": 7
+      },
+      "Str": {
+        "ms": 58.487999999997555,
+        "count": 13
+      },
+      "Corolla": {
+        "ms": 155.0587000000014,
+        "count": 20
+      },
+      "002112-1": {
+        "ms": 13.986299999996845,
+        "count": 18
+      }
+    },
+    "prefixoS": {
+      "total": 20,
+      "amostra": [
+        "VW - VolksWagen Saveiro Extreme 1.6 Flex 16V CD (2026)",
+        "Renault SANDERO GT line/RLIN Flex 1.0 12v 5p (2023)",
+        "Fiat Strada Endurance 1.3 Flex 8V CS Plus (2026)",
+        "Nissan Sentra Advance 2.0 16V Aut. (2026)",
+        "Fiat Grand Siena 1.0 EVO Flex 8V 4p (2021)",
+        "GM - Chevrolet SPIN 1.8 8V Econo.Flex 5p Aut. (2027)",
+        "VW - VolksWagen SpaceCross 1.6 Mi Total Flex 16V (2017)",
+        "Ferrari 612 Scaglietti F1 V12 540cv (2011)"
+      ],
+      "temSandero": true,
+      "temSaveiro": true,
+      "temSentra": true
+    }
+  },
+  "linksInternos": {
+    "bundlesAmostrados": 500,
+    "linksQuebrados": 0,
+    "amostras": []
+  },
+  "metas": {
+    "urlsQuebradasZero": true,
+    "buscaPrefixoS": true
+  }
+}

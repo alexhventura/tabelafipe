@@ -108,7 +108,10 @@
     "ssg:astro:full": "npx tsx scripts/ssg/astro-pipeline.ts",
     "ssg:astro:sitemaps": "npx tsx scripts/ssg/generate-astro-sitemaps.ts",
     "ssg:astro:audit": "npx tsx scripts/ssg/astro-build-audit.ts",
-    "validate:search": "npx tsx scripts/validate-search.ts"
+    "ssg:stabilization-audit": "npx tsx scripts/ssg/stabilization-audit.ts",
+    "ssg:ux-audit": "npx tsx scripts/ssg/ux-journey-audit.ts",
+    "validate:search": "npx tsx scripts/validate-search.ts",
+    "report:search": "npx tsx scripts/search-optimization-report.ts"
   },
   "dependencies": {
     "@google/genai": "^2.4.0",

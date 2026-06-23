@@ -418,6 +418,7 @@ async function main() {
         (bandIndex.get(`${vm.tipo}|${vm.band}`) ?? []).filter((id) => meta.get(id)?.marcaSlug !== vm.marcaSlug),
         v.id,
         meta,
+        5,
       ),
     };
 

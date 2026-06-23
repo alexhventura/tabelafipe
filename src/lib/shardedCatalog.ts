@@ -1,5 +1,5 @@
 import { SearchIndexItem, VehicleTipo } from '../types';
-import { normalizeText } from './search';
+import { normalizeText } from './modelFamily';
 
 export interface ShardManifest {
   shards: string[];
@@ -17,6 +17,7 @@ interface CompactShardItem {
   t: VehicleTipo;
   c?: string;
   s: string;
+  mo?: string;
   p?: string;
   f?: string;
   cp?: string;
@@ -32,7 +33,8 @@ function expandCompact(item: CompactShardItem): SearchIndexItem {
     combustivel: item.c,
     tipo: item.t,
     termoBusca: item.s,
-    searchText: normalizeText(item.n),
+    modelo: item.mo,
+    searchText: normalizeText(item.mo ? `${item.m} ${item.mo}` : item.n),
     dataPath: item.p,
     fipeCodigo: item.f,
     canonicalPath: item.cp,
