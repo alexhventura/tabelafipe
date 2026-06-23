@@ -15,7 +15,12 @@ let urlMapCache: Record<string, UrlEntry> | null = null;
 
 export function loadUrlMap(): Record<string, UrlEntry> {
   if (!urlMapCache) {
-    const p = path.join(PROJECT_ROOT, 'data', 'generated', 'vehicle-url-map.json');
+    const candidates = [
+      path.join(PROJECT_ROOT, 'public', 'data', 'vehicle-url-map.json'),
+      path.join(PROJECT_ROOT, 'data', 'generated', 'vehicle-url-map.json'),
+    ];
+    const p = candidates.find((c) => fs.existsSync(c));
+    if (!p) throw new Error('vehicle-url-map.json not found in public/data or data/generated');
     urlMapCache = loadJson(p);
   }
   return urlMapCache;
