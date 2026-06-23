@@ -1,4 +1,5 @@
 import {
+  BrandSearchItem,
   FamilySearchItem,
   SearchIndexItem,
   SearchSuggestion,
@@ -13,6 +14,15 @@ import {
   normalizeText,
 } from './modelFamily';
 import { appendYearToTitle, formatYearLabel } from './displayYear';
+import { formatVehicleTitle, sanitizeDisplayText } from './display';
+import {
+  expandBrandTokens,
+  getMarcaSearchTerms,
+  isBrandAliasQuery,
+  resolveBrandSlug,
+} from './brandAliases';
+import { buildBrandsFromFamilies } from './brandIndex';
+import { marcaSlug } from './slug';
 
 export { normalizeText } from './modelFamily';
 
@@ -65,9 +75,10 @@ function getFamilyNorm(item: SearchIndexItem): string {
 }
 
 function queryTokens(query: string): string[] {
-  return normalizeText(query.replace(/\b(19|20)\d{2}\b/g, ''))
+  const raw = normalizeText(query.replace(/\b(19|20)\d{2}\b/g, ''))
     .split(/\s+/)
     .filter((t) => t.length >= 1 && !FUEL_OR_SPEC_TOKENS.has(t));
+  return expandBrandTokens(raw);
 }
 
 const FUEL_OR_SPEC_TOKENS = new Set([
@@ -157,7 +168,8 @@ function scoreVehicle(item: SearchIndexItem, query: string, yearFilter: number |
   if (tokens.length > 0) {
     let minStrength: 0 | 1 | 2 | 3 = 3;
     let matched = 0;
-    const hay = `${marca} ${modelo} ${familia} ${nome}`;
+    const marcaTerms = getMarcaSearchTerms(item.marca ?? '').join(' ');
+    const hay = `${marca} ${marcaTerms} ${modelo} ${familia} ${nome}`;
 
     for (const token of tokens) {
       const strength = tokenMatchStrength(hay, token);
@@ -217,9 +229,106 @@ function minTokenStrength(tokens: string[], hay: string): number {
 }
 
 function scoreFamily(family: FamilySearchItem, query: string): number {
-  const base = scoreTextMatch(family.familia, normalizeText(family.marca), family.familia, query);
+  const marcaTerms = getMarcaSearchTerms(family.marca).join(' ');
+  const base = scoreTextMatch(
+    family.familia,
+    `${normalizeText(family.marca)} ${marcaTerms}`,
+    family.familia,
+    query,
+  );
   if (base < 0) return -1;
   return base + (POPULAR_FAMILY_BOOST[family.familia] ?? 0) + Math.min(family.versaoCount, 200);
+}
+
+function scoreBrand(brand: BrandSearchItem, query: string): number {
+  const q = normalizeText(query);
+  if (!q) return -1;
+
+  const slug = normalizeText(brand.slug);
+  const nome = normalizeText(brand.nome);
+  const aliases = getMarcaSearchTerms(brand.nome);
+  const resolved = resolveBrandSlug(q);
+
+  if (slug === q || nome === q || aliases.includes(q) || resolved === slug) {
+    return MATCH_TIER.EXACT + Math.min(brand.vehicleCount, 5000);
+  }
+
+  if (slug.startsWith(q) || nome.startsWith(q)) {
+    return MATCH_TIER.MARCA_STARTS + q.length * 10 + Math.min(brand.vehicleCount, 2000);
+  }
+
+  for (const alias of aliases) {
+    if (alias.startsWith(q)) return MATCH_TIER.MARCA_STARTS + alias.length;
+    if (alias.includes(q)) return MATCH_TIER.MODELO_INCLUDES + q.length;
+  }
+
+  return -1;
+}
+
+function searchBrands(
+  brands: BrandSearchItem[],
+  query: string,
+  tipo: VehicleTipo,
+  limit = 5,
+): BrandSearchItem[] {
+  const q = normalizeText(query.trim());
+  if (!q) return [];
+
+  const scored: Array<{ item: BrandSearchItem; score: number }> = [];
+  for (const brand of brands) {
+    if (brand.tipo !== tipo) continue;
+    const score = scoreBrand(brand, q);
+    if (score >= 0) scored.push({ item: brand, score });
+  }
+
+  scored.sort(
+    (a, b) =>
+      b.score - a.score ||
+      b.item.vehicleCount - a.item.vehicleCount ||
+      a.item.nome.localeCompare(b.item.nome, 'pt-BR'),
+  );
+  return scored.map((row) => row.item).slice(0, limit);
+}
+
+function shouldPreferBrandMatch(query: string, brand: BrandSearchItem, score: number): boolean {
+  const q = normalizeText(query.trim());
+  if (!q || score < 0) return false;
+  if (score >= MATCH_TIER.EXACT) return true;
+  if (isBrandAliasQuery(query)) return true;
+  if (resolveBrandSlug(q) === brand.slug) return true;
+  if (q.length <= 3 && isBrowseQuery(query) && !isBrandAliasQuery(query)) return false;
+  if (q.length >= 4 && score >= MATCH_TIER.MARCA_STARTS) return true;
+  return false;
+}
+
+function brandSuggestionFollowUps(
+  brand: BrandSearchItem,
+  families: FamilySearchItem[],
+  vehicles: SearchIndexItem[],
+  tipo: VehicleTipo,
+  limit: number,
+): SearchSuggestion[] {
+  const out: SearchSuggestion[] = [];
+  const brandFamilies = families
+    .filter((f) => f.tipo === tipo && f.marcaSlug === brand.slug)
+    .sort(
+      (a, b) =>
+        (POPULAR_FAMILY_BOOST[b.familia] ?? 0) - (POPULAR_FAMILY_BOOST[a.familia] ?? 0) ||
+        b.versaoCount - a.versaoCount,
+    );
+
+  for (const family of brandFamilies) {
+    for (const vehicle of pickFamilyVehicles(vehicles, family, 1)) {
+      out.push({
+        kind: 'veiculo',
+        item: vehicle,
+        confidence: 0.75,
+        browseFamily: family.familia,
+      });
+      if (out.length >= limit) return out;
+    }
+  }
+  return out;
 }
 
 function dedupeFamilies(items: FamilySearchItem[]): FamilySearchItem[] {
@@ -280,10 +389,10 @@ function pickFamilyVehicles(
   family: FamilySearchItem,
   maxPerFamily: number,
 ): SearchIndexItem[] {
-  const marcaNorm = normalizeText(family.marca);
+  const marcaNorm = family.marcaSlug;
   const matches = vehicles.filter((v) => {
     if (v.tipo !== family.tipo) return false;
-    if (normalizeText(v.marca ?? '') !== marcaNorm) return false;
+    if (marcaSlug(v.marca ?? '') !== marcaNorm) return false;
     return getFamilyNorm(v) === family.familia;
   });
   if (!matches.length) return [];
@@ -337,7 +446,9 @@ export function searchVehicles(
   tipo: VehicleTipo = 'carros',
   limit = 20,
 ): SearchIndexItem[] {
-  return searchVehiclesWithConfidence(index, query, tipo, limit).map((r) => r.item);
+  return searchVehiclesWithConfidence(index, query, tipo, limit)
+    .filter((r): r is Extract<SearchSuggestion, { kind: 'veiculo' }> => r.kind === 'veiculo')
+    .map((r) => r.item);
 }
 
 export function searchVehiclesWithConfidence(
@@ -408,7 +519,7 @@ export function searchVehiclesWithConfidence(
   });
 }
 
-/** Autocomplete: sempre retorna veículos (nunca hub de família). */
+/** Autocomplete: marca → família → veículo, com fallback por alias de marca. */
 export function searchSuggestions(
   families: FamilySearchItem[],
   vehicles: SearchIndexItem[],
@@ -419,12 +530,56 @@ export function searchSuggestions(
   const trimmed = query.trim();
   if (!trimmed) return [];
 
+  const fipeCode = normalizeFipeCodeQuery(trimmed);
+  if (fipeCode) {
+    return searchVehiclesWithConfidence(vehicles, trimmed, tipo, limit);
+  }
+
+  const brands = buildBrandsFromFamilies(families);
+  const brandHits = searchBrands(brands, trimmed, tipo, 3);
+  if (brandHits.length > 0) {
+    const topBrand = brandHits[0];
+    const brandScore = scoreBrand(topBrand, trimmed);
+    if (shouldPreferBrandMatch(trimmed, topBrand, brandScore)) {
+      const out: SearchSuggestion[] = [
+        {
+          kind: 'marca',
+          item: topBrand,
+          confidence: brandScore >= MATCH_TIER.EXACT ? 0.98 : 0.9,
+        },
+        ...brandSuggestionFollowUps(topBrand, families, vehicles, tipo, limit - 1),
+      ];
+      return out.slice(0, limit);
+    }
+  }
+
   if (isBrowseQuery(trimmed)) {
     const browse = searchFamilyRepresentatives(families, vehicles, trimmed, tipo, limit);
     if (browse.length > 0) return browse;
   }
 
-  return searchVehiclesWithConfidence(vehicles, trimmed, tipo, limit);
+  const familyHits = searchFamilies(families, trimmed, tipo, 6);
+  const vehicleResults = searchVehiclesWithConfidence(vehicles, trimmed, tipo, limit);
+  if (familyHits.length > 0) {
+    const familyScore = scoreFamily(familyHits[0], trimmed);
+    if (
+      familyScore >= MATCH_TIER.MODELO_STARTS &&
+      (!vehicleResults.length || vehicleResults[0].confidence < 0.85)
+    ) {
+      const out: SearchSuggestion[] = familyHits.slice(0, 3).map((family) => ({
+        kind: 'familia' as const,
+        item: family,
+        confidence: 0.88,
+      }));
+      for (const vehicle of vehicleResults) {
+        out.push(vehicle);
+        if (out.length >= limit) break;
+      }
+      return out.slice(0, limit);
+    }
+  }
+
+  return vehicleResults;
 }
 
 export function isHighConfidenceMatch(suggestions: SearchSuggestion[]): boolean {
@@ -464,8 +619,8 @@ export function benchmarkSearch(
 }
 
 export function formatVehicleSuggestionTitle(item: SearchIndexItem): string {
-  const name = item.nome.replace(/\s*\(\d{4}\)\s*$/, '').trim();
-  return appendYearToTitle(name, item.ano);
+  const name = sanitizeDisplayText(item.nome.replace(/\s*\(\d{4}\)\s*$/, '').trim());
+  return formatVehicleTitle(name, { ano: item.ano, anoModelo: item.ano });
 }
 
 export function formatVehicleSuggestionSubtitle(item: SearchIndexItem): string {
@@ -475,6 +630,14 @@ export function formatVehicleSuggestionSubtitle(item: SearchIndexItem): string {
 /** @deprecated Use formatVehicleSuggestionTitle */
 export function formatSearchResultLabel(item: SearchIndexItem): string {
   return formatVehicleSuggestionTitle(item);
+}
+
+export function formatBrandLabel(item: BrandSearchItem): string {
+  return item.nome;
+}
+
+export function formatBrandMeta(item: BrandSearchItem): string {
+  return `Marca · ${item.familyCount} modelo${item.familyCount > 1 ? 's' : ''}`;
 }
 
 export function formatFamilyLabel(item: FamilySearchItem): string {

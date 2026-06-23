@@ -104,7 +104,7 @@ export default function HomePage() {
             <GuidedFipeSearch tipo={tipo} onTipoChange={setTipo} showTabs />
 
             <div className="pt-2 border-t border-slate-200 dark:border-slate-800 space-y-3">
-              <p className="text-xs font-semibold text-slate-400 uppercase tracking-wider text-center">
+              <p className="text-xs font-semibold text-slate-600 dark:text-slate-400 uppercase tracking-wider text-center">
                 Busca rápida
               </p>
               <SearchBox

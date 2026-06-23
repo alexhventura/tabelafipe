@@ -64,14 +64,34 @@ export interface FamilySearchItem {
   hubPath?: string;
 }
 
-export type SearchSuggestion = {
-  kind: 'veiculo';
-  item: SearchIndexItem;
-  /** 0–1: confiança do match para abrir direto com Enter */
-  confidence: number;
-  /** Modo browse: sugestão representa a família (clique ainda abre o veículo) */
-  browseFamily?: string;
-};
+export interface BrandSearchItem {
+  slug: string;
+  nome: string;
+  tipo: VehicleTipo;
+  familyCount: number;
+  vehicleCount: number;
+  hubPath: string;
+}
+
+export type SearchSuggestion =
+  | {
+      kind: 'marca';
+      item: BrandSearchItem;
+      confidence: number;
+    }
+  | {
+      kind: 'familia';
+      item: FamilySearchItem;
+      confidence: number;
+    }
+  | {
+      kind: 'veiculo';
+      item: SearchIndexItem;
+      /** 0–1: confiança do match para abrir direto com Enter */
+      confidence: number;
+      /** Modo browse: sugestão representa a família (clique ainda abre o veículo) */
+      browseFamily?: string;
+    };
 
 export interface StateTaxRate {
   nome: string;

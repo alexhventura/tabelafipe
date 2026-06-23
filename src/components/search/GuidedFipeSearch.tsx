@@ -81,7 +81,7 @@ export default function GuidedFipeSearch({ tipo, onTipoChange, showTabs = true }
         </div>
       )}
 
-      <nav aria-label="Progresso da consulta" className="flex items-center gap-1 text-[11px] text-slate-400 flex-wrap">
+      <nav aria-label="Progresso da consulta" className="flex items-center gap-1 text-[11px] text-slate-600 flex-wrap">
         {STEPS.map((s, i) => (
           <span key={s.id} className="inline-flex items-center gap-1">
             {i > 0 && <ChevronRight className="w-3 h-3" aria-hidden />}
@@ -94,7 +94,7 @@ export default function GuidedFipeSearch({ tipo, onTipoChange, showTabs = true }
                   ? 'text-blue-600 font-bold'
                   : i < stepIndex
                     ? 'text-slate-600 hover:text-blue-600'
-                    : 'text-slate-300 cursor-default'
+                    : 'text-slate-500 cursor-default'
               }`}
             >
               {s.label}
@@ -124,29 +124,33 @@ export default function GuidedFipeSearch({ tipo, onTipoChange, showTabs = true }
               onChange={guided.setMarcaQuery}
               placeholder="Filtrar montadoras..."
             />
-            {guided.marcasLoading ? (
-              <div className="flex items-center justify-center py-10 text-slate-400 text-sm gap-2">
-                <Loader2 className="w-4 h-4 animate-spin" />
-                Carregando montadoras...
-              </div>
-            ) : guided.marcasFiltradas.length === 0 ? (
-              <p className="text-sm text-slate-500 text-center py-8">Nenhuma montadora encontrada.</p>
-            ) : (
-              <ul className="max-h-[min(42vh,320px)] overflow-y-auto divide-y divide-slate-100 dark:divide-slate-800 -mx-1">
-                {guided.marcasFiltradas.map((m) => (
-                  <li key={m.slug}>
-                    <button
-                      type="button"
-                      onClick={() => guided.selectMarca(m)}
-                      className="w-full px-3 py-3 text-left hover:bg-blue-50 dark:hover:bg-blue-950/30 rounded-lg transition-colors min-h-[48px] flex items-center justify-between gap-2"
-                    >
-                      <span className="text-sm font-semibold text-slate-900 dark:text-white">{m.nome}</span>
-                      <span className="text-[10px] text-slate-400 shrink-0">{m.totalModelos} modelos</span>
-                    </button>
-                  </li>
-                ))}
-              </ul>
-            )}
+            <div className="min-h-[min(42vh,320px)]">
+              {guided.marcasLoading ? (
+                <div className="flex items-center justify-center py-10 text-slate-600 text-sm gap-2">
+                  <Loader2 className="w-4 h-4 animate-spin" />
+                  Carregando montadoras...
+                </div>
+              ) : guided.marcasFiltradas.length === 0 ? (
+                <p className="text-sm text-slate-500 text-center py-8">Nenhuma montadora encontrada.</p>
+              ) : (
+                <ul className="max-h-[min(42vh,320px)] overflow-y-auto divide-y divide-slate-100 dark:divide-slate-800 -mx-1">
+                  {guided.marcasFiltradas.map((m) => (
+                    <li key={m.slug}>
+                      <button
+                        type="button"
+                        onClick={() => guided.selectMarca(m)}
+                        className="w-full px-3 py-3 text-left hover:bg-blue-50 dark:hover:bg-blue-950/30 rounded-lg transition-colors min-h-[48px] flex items-center justify-between gap-2"
+                      >
+                        <span className="text-sm font-semibold text-slate-900 dark:text-white">{m.nome}</span>
+                        <span className="text-[10px] text-slate-600 dark:text-slate-400 shrink-0">
+                          {m.totalModelos} modelos
+                        </span>
+                      </button>
+                    </li>
+                  ))}
+                </ul>
+              )}
+            </div>
           </>
         )}
 
@@ -164,31 +168,35 @@ export default function GuidedFipeSearch({ tipo, onTipoChange, showTabs = true }
               onChange={guided.setModeloQuery}
               placeholder="Filtrar modelos..."
             />
-            {guided.familiesLoading ? (
-              <div className="flex items-center justify-center py-10 text-slate-400 text-sm gap-2">
-                <Loader2 className="w-4 h-4 animate-spin" />
-                Carregando modelos...
-              </div>
-            ) : guided.modelosFiltrados.length === 0 ? (
-              <p className="text-sm text-slate-500 text-center py-8">Nenhum modelo encontrado.</p>
-            ) : (
-              <ul className="max-h-[min(42vh,320px)] overflow-y-auto divide-y divide-slate-100 dark:divide-slate-800 -mx-1">
-                {guided.modelosFiltrados.map((f) => (
-                  <li key={f.id}>
-                    <button
-                      type="button"
-                      onClick={() => guided.selectModelo(f)}
-                      className="w-full px-3 py-3 text-left hover:bg-blue-50 dark:hover:bg-blue-950/30 rounded-lg transition-colors min-h-[48px] flex items-center justify-between gap-2"
-                    >
-                      <span className="text-sm font-semibold text-slate-900 dark:text-white">
-                        {formatFamilyLabel(f)}
-                      </span>
-                      <span className="text-[10px] text-slate-400 shrink-0">{f.versaoCount} versões</span>
-                    </button>
-                  </li>
-                ))}
-              </ul>
-            )}
+            <div className="min-h-[min(42vh,320px)]">
+              {guided.familiesLoading ? (
+                <div className="flex items-center justify-center py-10 text-slate-600 text-sm gap-2">
+                  <Loader2 className="w-4 h-4 animate-spin" />
+                  Carregando modelos...
+                </div>
+              ) : guided.modelosFiltrados.length === 0 ? (
+                <p className="text-sm text-slate-500 text-center py-8">Nenhum modelo encontrado.</p>
+              ) : (
+                <ul className="max-h-[min(42vh,320px)] overflow-y-auto divide-y divide-slate-100 dark:divide-slate-800 -mx-1">
+                  {guided.modelosFiltrados.map((f) => (
+                    <li key={f.id}>
+                      <button
+                        type="button"
+                        onClick={() => guided.selectModelo(f)}
+                        className="w-full px-3 py-3 text-left hover:bg-blue-50 dark:hover:bg-blue-950/30 rounded-lg transition-colors min-h-[48px] flex items-center justify-between gap-2"
+                      >
+                        <span className="text-sm font-semibold text-slate-900 dark:text-white">
+                          {formatFamilyLabel(f)}
+                        </span>
+                        <span className="text-[10px] text-slate-600 dark:text-slate-400 shrink-0">
+                          {f.versaoCount} versões
+                        </span>
+                      </button>
+                    </li>
+                  ))}
+                </ul>
+              )}
+            </div>
           </>
         )}
 
@@ -206,29 +214,31 @@ export default function GuidedFipeSearch({ tipo, onTipoChange, showTabs = true }
               onChange={guided.setVersaoQuery}
               placeholder="Filtrar versões..."
             />
-            {guided.hubLoading ? (
-              <div className="flex items-center justify-center py-10 text-slate-400 text-sm gap-2">
-                <Loader2 className="w-4 h-4 animate-spin" />
-                Carregando versões...
-              </div>
-            ) : (
-              <ul className="max-h-[min(42vh,320px)] overflow-y-auto divide-y divide-slate-100 dark:divide-slate-800 -mx-1">
-                {guided.versoesFiltradas.map((v) => (
-                  <li key={v.fipeCodigo}>
-                    <button
-                      type="button"
-                      onClick={() => guided.selectVersao(v)}
-                      className="w-full px-3 py-3 text-left hover:bg-blue-50 dark:hover:bg-blue-950/30 rounded-lg transition-colors min-h-[56px]"
-                    >
-                      <p className="text-sm font-semibold text-slate-900 dark:text-white">{v.label}</p>
-                      <p className="text-xs text-slate-500 mt-0.5">
-                        FIPE {v.fipeCodigo} · {v.anos.length} anos
-                      </p>
-                    </button>
-                  </li>
-                ))}
-              </ul>
-            )}
+            <div className="min-h-[min(42vh,320px)]">
+              {guided.hubLoading ? (
+                <div className="flex items-center justify-center py-10 text-slate-600 text-sm gap-2">
+                  <Loader2 className="w-4 h-4 animate-spin" />
+                  Carregando versões...
+                </div>
+              ) : (
+                <ul className="max-h-[min(42vh,320px)] overflow-y-auto divide-y divide-slate-100 dark:divide-slate-800 -mx-1">
+                  {guided.versoesFiltradas.map((v) => (
+                    <li key={v.fipeCodigo}>
+                      <button
+                        type="button"
+                        onClick={() => guided.selectVersao(v)}
+                        className="w-full px-3 py-3 text-left hover:bg-blue-50 dark:hover:bg-blue-950/30 rounded-lg transition-colors min-h-[56px]"
+                      >
+                        <p className="text-sm font-semibold text-slate-900 dark:text-white">{v.label}</p>
+                        <p className="text-xs text-slate-500 mt-0.5">
+                          FIPE {v.fipeCodigo} · {v.anos.length} anos
+                        </p>
+                      </button>
+                    </li>
+                  ))}
+                </ul>
+              )}
+            </div>
           </>
         )}
 

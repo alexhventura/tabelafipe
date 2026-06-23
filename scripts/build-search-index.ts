@@ -4,6 +4,8 @@
  */
 
 import fs from 'fs';
+import { formatYearLabel } from '../src/lib/displayYear.ts';
+import { formatVehicleDisplayName, formatVehicleTitle } from '../src/lib/display.ts';
 import path from 'path';
 import { PATHS } from './lib/fipe-paths.js';
 import { marcaSlug } from './lib/fipe-slug.js';
@@ -156,7 +158,10 @@ function gerarFamilyShards(families: CompactFamily[]) {
 
 function gerarTermoBusca(v: VeiculoRecord): string {
   const ms = marcaSlug(v.marca);
-  let base = `${ms} ${v.modelo} ${v.combustivel || ''} ${v.ano}`.toLowerCase();
+  const aliasTerms = [ms];
+  if (ms === 'volkswagen') aliasTerms.push('vw');
+  if (ms === 'chevrolet') aliasTerms.push('gm', 'chevrolet');
+  let base = `${aliasTerms.join(' ')} ${v.modelo} ${v.combustivel || ''} ${v.ano}`.toLowerCase();
   if (v.tipo === 'motos') base += ' moto';
   if (v.tipo === 'caminhoes') base += ' caminhao';
   return normalizeText(base);
@@ -186,7 +191,10 @@ function buildIndex(veiculos: VeiculoRecord[], urlMap: Record<string, { canonica
     if (seen.has(v.id)) continue;
     seen.add(v.id);
 
-    const nome = `${v.marca} ${v.modelo} (${v.ano})`;
+    const nome = formatVehicleTitle(formatVehicleDisplayName(v.marca, v.modelo), {
+      ano: v.ano,
+      anoModelo: v.ano,
+    });
     const dataPath =
       v.dataPath ||
       vehiclePublicPath({

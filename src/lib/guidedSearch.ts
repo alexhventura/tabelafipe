@@ -1,6 +1,7 @@
 import type { FamilySearchItem, VehicleTipo } from '../types';
 import { formatYearLabel } from './displayYear';
 import { formatFamilyDisplay, normalizeText } from './modelFamily';
+import { matchesMarcaQuery } from './brandAliases';
 
 export type GuidedStep = 'marca' | 'modelo' | 'versao' | 'ano';
 
@@ -112,13 +113,13 @@ export function groupHubVersions(
 }
 
 export function formatGuidedYear(ano: number): string {
-  return formatYearLabel(ano) || String(ano);
+  return formatYearLabel(ano);
 }
 
 export function filterMarcas(marcas: GuidedMarca[], query: string): GuidedMarca[] {
   const q = normalizeText(query);
   if (!q) return marcas;
-  return marcas.filter((m) => normalizeText(m.nome).includes(q) || normalizeText(m.slug).includes(q));
+  return marcas.filter((m) => matchesMarcaQuery(q, m.slug, m.nome));
 }
 
 export function filterFamilies(families: FamilySearchItem[], query: string): FamilySearchItem[] {

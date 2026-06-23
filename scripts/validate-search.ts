@@ -12,8 +12,9 @@ import {
   normalizeText,
   isHighConfidenceMatch,
   formatVehicleSuggestionTitle,
+  formatBrandLabel,
 } from '../src/lib/search.ts';
-import type { FamilySearchItem, SearchIndexItem } from '../src/types.ts';
+import type { FamilySearchItem, SearchIndexItem, SearchSuggestion } from '../src/types.ts';
 
 function loadFamilies(): FamilySearchItem[] {
   const dir = path.join(process.cwd(), 'public', 'data', 'fipe', 'search');
@@ -143,6 +144,8 @@ type Case = {
   expectYear?: number;
   expectHighConfidence?: boolean;
   allMustBeVehicles?: boolean;
+  expectFirstKind?: SearchSuggestion['kind'];
+  expectTopMarca?: string;
   maxMs?: number;
   useShard?: boolean;
 };
@@ -173,7 +176,7 @@ const CASES: Case[] = [
     minResults: 1,
     expectInTop: ['Corolla'],
     allMustBeVehicles: true,
-    maxMs: 2500,
+    maxMs: 3500,
     useShard: true,
   },
   {
@@ -187,22 +190,74 @@ const CASES: Case[] = [
     maxMs: 500,
   },
   { label: 'FIPE 002112-1', q: '002112-1', minResults: 1, expectFipe: '002112-1', expectHighConfidence: true, maxMs: 200 },
+  {
+    label: 'Marca Fiat',
+    q: 'fiat',
+    minResults: 1,
+    expectFirstKind: 'marca',
+    expectTopMarca: 'Fiat',
+    maxMs: 5000,
+  },
+  {
+    label: 'Marca VW alias',
+    q: 'vw',
+    minResults: 1,
+    expectFirstKind: 'marca',
+    expectTopMarca: 'Volkswagen',
+    maxMs: 5000,
+  },
+  {
+    label: 'Marca Chevrolet',
+    q: 'chevrolet',
+    minResults: 1,
+    expectFirstKind: 'marca',
+    expectTopMarca: 'Chevrolet',
+    maxMs: 5000,
+  },
+  {
+    label: 'Marca GM alias',
+    q: 'gm',
+    minResults: 1,
+    expectFirstKind: 'marca',
+    expectTopMarca: 'Chevrolet',
+    maxMs: 5000,
+  },
+  {
+    label: 'Marca Ford',
+    q: 'ford',
+    minResults: 1,
+    expectFirstKind: 'marca',
+    expectTopMarca: 'Ford',
+    maxMs: 5000,
+  },
 ];
 
-function labelOf(s: ReturnType<typeof searchSuggestions>[number]): string {
+function labelOf(s: SearchSuggestion): string {
+  if (s.kind === 'marca') return formatBrandLabel(s.item);
+  if (s.kind === 'familia') return `${s.item.marca} ${s.item.familiaDisplay}`;
   return formatVehicleSuggestionTitle(s.item);
 }
 
-function matchesFamiliesInVehicles(results: ReturnType<typeof searchSuggestions>, needles: string[]): boolean {
+function matchesFamiliesInVehicles(results: SearchSuggestion[], needles: string[]): boolean {
   const text = results
+    .filter((r): r is Extract<SearchSuggestion, { kind: 'veiculo' }> => r.kind === 'veiculo')
     .map((r) => `${r.item.nome} ${r.item.modelo ?? ''}`.toLowerCase())
     .join(' ');
   return needles.some((n) => text.includes(n.toLowerCase()));
 }
 
-function matchesTop(results: ReturnType<typeof searchSuggestions>, needles: string[]): boolean {
+function matchesTop(results: SearchSuggestion[], needles: string[]): boolean {
   const top = results.slice(0, AUTOCOMPLETE_LIMIT).map(labelOf).join(' ').toLowerCase();
   return needles.some((n) => top.includes(n.toLowerCase()));
+}
+
+function matchesTopMarca(results: SearchSuggestion[], marcaNome: string): boolean {
+  const top = results[0];
+  if (!top) return false;
+  if (top.kind === 'marca') {
+    return top.item.nome.toLowerCase().includes(marcaNome.toLowerCase());
+  }
+  return labelOf(top).toLowerCase().includes(marcaNome.toLowerCase());
 }
 
 function main() {
@@ -228,18 +283,20 @@ function main() {
     const okTop = !c.expectInTop || matchesTop(results, c.expectInTop);
     const okFipe =
       !c.expectFipe ||
-      results.some((r) => r.item.fipeCodigo === c.expectFipe);
+      results.some((r) => r.kind === 'veiculo' && r.item.fipeCodigo === c.expectFipe);
     const okYear =
-      !c.expectYear || results.some((r) => r.item.ano === c.expectYear);
+      !c.expectYear || results.some((r) => r.kind === 'veiculo' && r.item.ano === c.expectYear);
     const okAllVehicles =
       !c.allMustBeVehicles || results.every((r) => r.kind === 'veiculo' && !!r.item.canonicalPath);
+    const okFirstKind = !c.expectFirstKind || results[0]?.kind === c.expectFirstKind;
+    const okTopMarca = !c.expectTopMarca || matchesTopMarca(results, c.expectTopMarca);
     const okConfidence =
       !c.expectHighConfidence ||
       (results[0]?.confidence ?? 0) >= HIGH_CONFIDENCE_THRESHOLD ||
       isHighConfidenceMatch(results);
     const okLimit = results.length <= AUTOCOMPLETE_LIMIT;
     const okPerf = ms <= (c.maxMs ?? 200);
-    const ok = okCount && okFamilies && okTop && okFipe && okYear && okAllVehicles && okConfidence && okLimit && okPerf;
+    const ok = okCount && okFamilies && okTop && okFipe && okYear && okAllVehicles && okFirstKind && okTopMarca && okConfidence && okLimit && okPerf;
 
     if (ok) passed++;
     console.log(

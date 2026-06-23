@@ -7,6 +7,10 @@ import {
   looksLikeMotoQuery,
   formatVehicleSuggestionTitle,
   formatVehicleSuggestionSubtitle,
+  formatBrandLabel,
+  formatBrandMeta,
+  formatFamilyLabel,
+  formatFamilyMeta,
   isHighConfidenceMatch,
   AUTOCOMPLETE_LIMIT,
 } from '../../lib/search';
@@ -66,6 +70,24 @@ export default function SearchBox({
   const highConfidence = useMemo(() => isHighConfidenceMatch(results), [results]);
   const motoHint = looksLikeMotoQuery(query) && tipo === 'carros' && results.length === 0;
 
+  const goToBrand = useCallback(
+    (slug: string, hubPath?: string) => {
+      setOpen(false);
+      setQuery('');
+      navigate(hubPath ?? `/marca/${slug}`);
+    },
+    [navigate],
+  );
+
+  const goToFamily = useCallback(
+    (family: FamilySearchItem) => {
+      setOpen(false);
+      setQuery('');
+      navigate(family.hubPath ?? `/fipe/${family.marcaSlug}/${family.familia}/`);
+    },
+    [navigate],
+  );
+
   const goToVehicle = useCallback(
     (item: SearchIndexItem) => {
       setOpen(false);
@@ -89,10 +111,36 @@ export default function SearchBox({
 
   const goToSuggestion = useCallback(
     (suggestion: SearchSuggestion) => {
+      if (suggestion.kind === 'marca') {
+        goToBrand(suggestion.item.slug, suggestion.item.hubPath);
+        return;
+      }
+      if (suggestion.kind === 'familia') {
+        goToFamily(suggestion.item);
+        return;
+      }
       goToVehicle(suggestion.item);
     },
-    [goToVehicle],
+    [goToBrand, goToFamily, goToVehicle],
   );
+
+  const suggestionKey = useCallback((suggestion: SearchSuggestion, idx: number) => {
+    if (suggestion.kind === 'marca') return `marca-${suggestion.item.slug}`;
+    if (suggestion.kind === 'familia') return `familia-${suggestion.item.id}`;
+    return `${suggestion.item.id}-${idx}`;
+  }, []);
+
+  const suggestionTitle = useCallback((suggestion: SearchSuggestion) => {
+    if (suggestion.kind === 'marca') return formatBrandLabel(suggestion.item);
+    if (suggestion.kind === 'familia') return formatFamilyLabel(suggestion.item);
+    return formatVehicleSuggestionTitle(suggestion.item);
+  }, []);
+
+  const suggestionSubtitle = useCallback((suggestion: SearchSuggestion) => {
+    if (suggestion.kind === 'marca') return formatBrandMeta(suggestion.item);
+    if (suggestion.kind === 'familia') return formatFamilyMeta(suggestion.item);
+    return formatVehicleSuggestionSubtitle(suggestion.item);
+  }, []);
 
   const goToResults = useCallback(() => {
     if (!query.trim()) return;
@@ -152,7 +200,7 @@ export default function SearchBox({
     >
       {results.length > 0 ? (
         <>
-          {highConfidence && (
+          {highConfidence && results[0]?.kind === 'veiculo' && (
             <div className="px-4 py-2.5 text-xs font-semibold text-emerald-700 dark:text-emerald-300 bg-emerald-50 dark:bg-emerald-950/40 border-b border-emerald-100 dark:border-emerald-900 flex items-center justify-between gap-2">
               <span>Veículo encontrado — pressione Enter para abrir</span>
               <span className="text-[10px] uppercase tracking-wider text-emerald-600/80">
@@ -160,12 +208,17 @@ export default function SearchBox({
               </span>
             </div>
           )}
+          {highConfidence && results[0]?.kind === 'marca' && (
+            <div className="px-4 py-2.5 text-xs font-semibold text-blue-700 dark:text-blue-300 bg-blue-50 dark:bg-blue-950/40 border-b border-blue-100 dark:border-blue-900">
+              Marca encontrada — pressione Enter para ver modelos
+            </div>
+          )}
           <div className="px-4 py-2 text-[10px] uppercase tracking-wider text-slate-400 font-bold border-b border-slate-100 dark:border-slate-800 sticky top-0 bg-white dark:bg-slate-900">
-            {results.length} veículo{results.length > 1 ? 's' : ''}
+            {results.length} resultado{results.length > 1 ? 's' : ''}
           </div>
           {results.map((suggestion, idx) => (
             <button
-              key={`${suggestion.item.id}-${idx}`}
+              key={suggestionKey(suggestion, idx)}
               type="button"
               role="option"
               aria-selected={idx === activeIdx}
@@ -179,15 +232,27 @@ export default function SearchBox({
             >
               <div className="min-w-0 flex-1">
                 <p className="text-sm font-semibold text-slate-900 dark:text-white line-clamp-2">
-                  {formatVehicleSuggestionTitle(suggestion.item)}
+                  {suggestion.kind === 'marca' && (
+                    <span className="text-[10px] uppercase tracking-wider text-blue-600 dark:text-blue-400 font-bold mr-2">
+                      Marca
+                    </span>
+                  )}
+                  {suggestion.kind === 'familia' && (
+                    <span className="text-[10px] uppercase tracking-wider text-violet-600 dark:text-violet-400 font-bold mr-2">
+                      Modelo
+                    </span>
+                  )}
+                  {suggestionTitle(suggestion)}
                 </p>
                 <p className="text-xs text-slate-500 dark:text-slate-400 mt-0.5">
-                  {formatVehicleSuggestionSubtitle(suggestion.item)}
+                  {suggestionSubtitle(suggestion)}
                 </p>
               </div>
-              <span className="text-sm font-bold text-blue-600 dark:text-blue-400 shrink-0 tabular-nums">
-                {suggestion.item.valor > 0 ? formatBRL(suggestion.item.valor) : 'Consultar FIPE'}
-              </span>
+              {suggestion.kind === 'veiculo' && (
+                <span className="text-sm font-bold text-blue-600 dark:text-blue-400 shrink-0 tabular-nums">
+                  {suggestion.item.valor > 0 ? formatBRL(suggestion.item.valor) : 'Consultar FIPE'}
+                </span>
+              )}
             </button>
           ))}
           {results.length >= AUTOCOMPLETE_LIMIT && (
