@@ -1,0 +1,1024 @@
+{
+  "geradoEm": "2026-06-23T18:39:26.590Z",
+  "bundlesAnalisados": 5000,
+  "resumo": {
+    "nullVisible": 760,
+    "undefinedVisible": 0,
+    "electricWithLiquidFuel": 0,
+    "hybridInconsistent": 0,
+    "invalidYear": 0,
+    "anoZeroInTitle": 380
+  },
+  "totalIssues": 1140,
+  "issuesUnicas": {
+    "null_visivel": 760,
+    "undefined_visivel": 0,
+    "eletrico_combustivel_liquido": 0,
+    "hibrido_metrica_inconsistente": 0,
+    "ano_invalido": 0,
+    "ano_zero_no_titulo": 380
+  },
+  "amostra": [
+    {
+      "vehicleId": "agrale-a10000-2p-diesel-e6-0-diesel",
+      "bundlePath": "/data/bundles/agrale/a10000-2p-diesel-e6-0-501042-0.json",
+      "marca": "AGRALE",
+      "displayName": "AGRALE A10000 2p (diesel) (E6) (null)",
+      "combustivel": "Diesel",
+      "issue": "null_visivel",
+      "field": "identity.displayName",
+      "sample": "AGRALE A10000 2p (diesel) (E6) (null)"
+    },
+    {
+      "vehicleId": "agrale-a10000-2p-diesel-e6-0-diesel",
+      "bundlePath": "/data/bundles/agrale/a10000-2p-diesel-e6-0-501042-0.json",
+      "marca": "AGRALE",
+      "displayName": "AGRALE A10000 2p (diesel) (E6) (null)",
+      "combustivel": "Diesel",
+      "issue": "null_visivel",
+      "field": "seo.title",
+      "sample": "AGRALE A10000 2p (diesel) (E6) (null) 0 — Tabela FIPE | R$ 404.270"
+    },
+    {
+      "vehicleId": "agrale-a10000-2p-diesel-e6-0-diesel",
+      "bundlePath": "/data/bundles/agrale/a10000-2p-diesel-e6-0-501042-0.json",
+      "marca": "AGRALE",
+      "displayName": "AGRALE A10000 2p (diesel) (E6) (null)",
+      "combustivel": "Diesel",
+      "issue": "ano_zero_no_titulo",
+      "field": "seo.title",
+      "sample": "AGRALE A10000 2p (diesel) (E6) (null) 0 — Tabela FIPE | R$ 404.270"
+    },
+    {
+      "vehicleId": "agrale-a10000-2p-diesel-e6-0-diesel",
+      "bundlePath": "/data/bundles/agrale/a10000-2p-diesel-e6-0-501042-0.json",
+      "marca": "AGRALE",
+      "displayName": "AGRALE A10000 2p (diesel) (E6) (null)",
+      "combustivel": "Diesel",
+      "issue": "null_visivel",
+      "field": "seo.h1",
+      "sample": "AGRALE A10000 2p (diesel) (E6) (null) 0"
+    },
+    {
+      "vehicleId": "agrale-a10000-2p-diesel-e6-0-diesel",
+      "bundlePath": "/data/bundles/agrale/a10000-2p-diesel-e6-0-501042-0.json",
+      "marca": "AGRALE",
+      "displayName": "AGRALE A10000 2p (diesel) (E6) (null)",
+      "combustivel": "Diesel",
+      "issue": "ano_zero_no_titulo",
+      "field": "seo.h1",
+      "sample": "AGRALE A10000 2p (diesel) (E6) (null) 0"
+    },
+    {
+      "vehicleId": "agrale-a10000-2p-diesel-e6-0-diesel",
+      "bundlePath": "/data/bundles/agrale/a10000-2p-diesel-e6-0-501042-0.json",
+      "marca": "AGRALE",
+      "displayName": "AGRALE A10000 2p (diesel) (E6) (null)",
+      "combustivel": "Diesel",
+      "issue": "null_visivel",
+      "field": "seo.description",
+      "sample": "Consulte o preço FIPE do AGRALE A10000 2p (diesel) (E6) (null) 0 (código 501042-0): R$ 404.270. Histórico, ficha técnica"
+    },
+    {
+      "vehicleId": "agrale-a10000-4x4-2p-diesel-e6-0-diesel",
+      "bundlePath": "/data/bundles/agrale/a10000-4x4-2p-diesel-e6-0-501044-6.json",
+      "marca": "AGRALE",
+      "displayName": "AGRALE A10000 4X4 2p (diesel) (E6) (null)",
+      "combustivel": "Diesel",
+      "issue": "null_visivel",
+      "field": "identity.displayName",
+      "sample": "AGRALE A10000 4X4 2p (diesel) (E6) (null)"
+    },
+    {
+      "vehicleId": "agrale-a10000-4x4-2p-diesel-e6-0-diesel",
+      "bundlePath": "/data/bundles/agrale/a10000-4x4-2p-diesel-e6-0-501044-6.json",
+      "marca": "AGRALE",
+      "displayName": "AGRALE A10000 4X4 2p (diesel) (E6) (null)",
+      "combustivel": "Diesel",
+      "issue": "null_visivel",
+      "field": "seo.title",
+      "sample": "AGRALE A10000 4X4 2p (diesel) (E6) (null) 0 — Tabela FIPE | R$ 534.000"
+    },
+    {
+      "vehicleId": "agrale-a10000-4x4-2p-diesel-e6-0-diesel",
+      "bundlePath": "/data/bundles/agrale/a10000-4x4-2p-diesel-e6-0-501044-6.json",
+      "marca": "AGRALE",
+      "displayName": "AGRALE A10000 4X4 2p (diesel) (E6) (null)",
+      "combustivel": "Diesel",
+      "issue": "ano_zero_no_titulo",
+      "field": "seo.title",
+      "sample": "AGRALE A10000 4X4 2p (diesel) (E6) (null) 0 — Tabela FIPE | R$ 534.000"
+    },
+    {
+      "vehicleId": "agrale-a10000-4x4-2p-diesel-e6-0-diesel",
+      "bundlePath": "/data/bundles/agrale/a10000-4x4-2p-diesel-e6-0-501044-6.json",
+      "marca": "AGRALE",
+      "displayName": "AGRALE A10000 4X4 2p (diesel) (E6) (null)",
+      "combustivel": "Diesel",
+      "issue": "null_visivel",
+      "field": "seo.h1",
+      "sample": "AGRALE A10000 4X4 2p (diesel) (E6) (null) 0"
+    },
+    {
+      "vehicleId": "agrale-a10000-4x4-2p-diesel-e6-0-diesel",
+      "bundlePath": "/data/bundles/agrale/a10000-4x4-2p-diesel-e6-0-501044-6.json",
+      "marca": "AGRALE",
+      "displayName": "AGRALE A10000 4X4 2p (diesel) (E6) (null)",
+      "combustivel": "Diesel",
+      "issue": "ano_zero_no_titulo",
+      "field": "seo.h1",
+      "sample": "AGRALE A10000 4X4 2p (diesel) (E6) (null) 0"
+    },
+    {
+      "vehicleId": "agrale-a10000-4x4-2p-diesel-e6-0-diesel",
+      "bundlePath": "/data/bundles/agrale/a10000-4x4-2p-diesel-e6-0-501044-6.json",
+      "marca": "AGRALE",
+      "displayName": "AGRALE A10000 4X4 2p (diesel) (E6) (null)",
+      "combustivel": "Diesel",
+      "issue": "null_visivel",
+      "field": "seo.description",
+      "sample": "Consulte o preço FIPE do AGRALE A10000 4X4 2p (diesel) (E6) (null) 0 (código 501044-6): R$ 534.000. Histórico, ficha téc"
+    },
+    {
+      "vehicleId": "agrale-a15000-4x2-2p-e6-0-diesel",
+      "bundlePath": "/data/bundles/agrale/a15000-4x2-2p-e6-0-501045-4.json",
+      "marca": "AGRALE",
+      "displayName": "AGRALE A15000 4x2 2p (E6) (null)",
+      "combustivel": "Diesel",
+      "issue": "null_visivel",
+      "field": "identity.displayName",
+      "sample": "AGRALE A15000 4x2 2p (E6) (null)"
+    },
+    {
+      "vehicleId": "agrale-a15000-4x2-2p-e6-0-diesel",
+      "bundlePath": "/data/bundles/agrale/a15000-4x2-2p-e6-0-501045-4.json",
+      "marca": "AGRALE",
+      "displayName": "AGRALE A15000 4x2 2p (E6) (null)",
+      "combustivel": "Diesel",
+      "issue": "null_visivel",
+      "field": "seo.title",
+      "sample": "AGRALE A15000 4x2 2p (E6) (null) 0 — Tabela FIPE | R$ 488.020"
+    },
+    {
+      "vehicleId": "agrale-a15000-4x2-2p-e6-0-diesel",
+      "bundlePath": "/data/bundles/agrale/a15000-4x2-2p-e6-0-501045-4.json",
+      "marca": "AGRALE",
+      "displayName": "AGRALE A15000 4x2 2p (E6) (null)",
+      "combustivel": "Diesel",
+      "issue": "ano_zero_no_titulo",
+      "field": "seo.title",
+      "sample": "AGRALE A15000 4x2 2p (E6) (null) 0 — Tabela FIPE | R$ 488.020"
+    },
+    {
+      "vehicleId": "agrale-a15000-4x2-2p-e6-0-diesel",
+      "bundlePath": "/data/bundles/agrale/a15000-4x2-2p-e6-0-501045-4.json",
+      "marca": "AGRALE",
+      "displayName": "AGRALE A15000 4x2 2p (E6) (null)",
+      "combustivel": "Diesel",
+      "issue": "null_visivel",
+      "field": "seo.h1",
+      "sample": "AGRALE A15000 4x2 2p (E6) (null) 0"
+    },
+    {
+      "vehicleId": "agrale-a15000-4x2-2p-e6-0-diesel",
+      "bundlePath": "/data/bundles/agrale/a15000-4x2-2p-e6-0-501045-4.json",
+      "marca": "AGRALE",
+      "displayName": "AGRALE A15000 4x2 2p (E6) (null)",
+      "combustivel": "Diesel",
+      "issue": "ano_zero_no_titulo",
+      "field": "seo.h1",
+      "sample": "AGRALE A15000 4x2 2p (E6) (null) 0"
+    },
+    {
+      "vehicleId": "agrale-a15000-4x2-2p-e6-0-diesel",
+      "bundlePath": "/data/bundles/agrale/a15000-4x2-2p-e6-0-501045-4.json",
+      "marca": "AGRALE",
+      "displayName": "AGRALE A15000 4x2 2p (E6) (null)",
+      "combustivel": "Diesel",
+      "issue": "null_visivel",
+      "field": "seo.description",
+      "sample": "Consulte o preço FIPE do AGRALE A15000 4x2 2p (E6) (null) 0 (código 501045-4): R$ 488.020. Histórico, ficha técnica e ve"
+    },
+    {
+      "vehicleId": "agrale-a18000-4x2-2p-e6-0-diesel",
+      "bundlePath": "/data/bundles/agrale/a18000-4x2-2p-e6-0-501046-2.json",
+      "marca": "AGRALE",
+      "displayName": "AGRALE A18000 4x2 2p (E6) (null)",
+      "combustivel": "Diesel",
+      "issue": "null_visivel",
+      "field": "identity.displayName",
+      "sample": "AGRALE A18000 4x2 2p (E6) (null)"
+    },
+    {
+      "vehicleId": "agrale-a18000-4x2-2p-e6-0-diesel",
+      "bundlePath": "/data/bundles/agrale/a18000-4x2-2p-e6-0-501046-2.json",
+      "marca": "AGRALE",
+      "displayName": "AGRALE A18000 4x2 2p (E6) (null)",
+      "combustivel": "Diesel",
+      "issue": "null_visivel",
+      "field": "seo.title",
+      "sample": "AGRALE A18000 4x2 2p (E6) (null) 0 — Tabela FIPE | R$ 496.175"
+    },
+    {
+      "vehicleId": "agrale-a18000-4x2-2p-e6-0-diesel",
+      "bundlePath": "/data/bundles/agrale/a18000-4x2-2p-e6-0-501046-2.json",
+      "marca": "AGRALE",
+      "displayName": "AGRALE A18000 4x2 2p (E6) (null)",
+      "combustivel": "Diesel",
+      "issue": "ano_zero_no_titulo",
+      "field": "seo.title",
+      "sample": "AGRALE A18000 4x2 2p (E6) (null) 0 — Tabela FIPE | R$ 496.175"
+    },
+    {
+      "vehicleId": "agrale-a18000-4x2-2p-e6-0-diesel",
+      "bundlePath": "/data/bundles/agrale/a18000-4x2-2p-e6-0-501046-2.json",
+      "marca": "AGRALE",
+      "displayName": "AGRALE A18000 4x2 2p (E6) (null)",
+      "combustivel": "Diesel",
+      "issue": "null_visivel",
+      "field": "seo.h1",
+      "sample": "AGRALE A18000 4x2 2p (E6) (null) 0"
+    },
+    {
+      "vehicleId": "agrale-a18000-4x2-2p-e6-0-diesel",
+      "bundlePath": "/data/bundles/agrale/a18000-4x2-2p-e6-0-501046-2.json",
+      "marca": "AGRALE",
+      "displayName": "AGRALE A18000 4x2 2p (E6) (null)",
+      "combustivel": "Diesel",
+      "issue": "ano_zero_no_titulo",
+      "field": "seo.h1",
+      "sample": "AGRALE A18000 4x2 2p (E6) (null) 0"
+    },
+    {
+      "vehicleId": "agrale-a18000-4x2-2p-e6-0-diesel",
+      "bundlePath": "/data/bundles/agrale/a18000-4x2-2p-e6-0-501046-2.json",
+      "marca": "AGRALE",
+      "displayName": "AGRALE A18000 4x2 2p (E6) (null)",
+      "combustivel": "Diesel",
+      "issue": "null_visivel",
+      "field": "seo.description",
+      "sample": "Consulte o preço FIPE do AGRALE A18000 4x2 2p (E6) (null) 0 (código 501046-2): R$ 496.175. Histórico, ficha técnica e ve"
+    },
+    {
+      "vehicleId": "agrale-a8700-2p-diesel-e6-0-diesel",
+      "bundlePath": "/data/bundles/agrale/a8700-2p-diesel-e6-0-501043-8.json",
+      "marca": "AGRALE",
+      "displayName": "AGRALE A8700 2p (diesel) (E6) (null)",
+      "combustivel": "Diesel",
+      "issue": "null_visivel",
+      "field": "identity.displayName",
+      "sample": "AGRALE A8700 2p (diesel) (E6) (null)"
+    },
+    {
+      "vehicleId": "agrale-a8700-2p-diesel-e6-0-diesel",
+      "bundlePath": "/data/bundles/agrale/a8700-2p-diesel-e6-0-501043-8.json",
+      "marca": "AGRALE",
+      "displayName": "AGRALE A8700 2p (diesel) (E6) (null)",
+      "combustivel": "Diesel",
+      "issue": "null_visivel",
+      "field": "seo.title",
+      "sample": "AGRALE A8700 2p (diesel) (E6) (null) 0 — Tabela FIPE | R$ 355.645"
+    },
+    {
+      "vehicleId": "agrale-a8700-2p-diesel-e6-0-diesel",
+      "bundlePath": "/data/bundles/agrale/a8700-2p-diesel-e6-0-501043-8.json",
+      "marca": "AGRALE",
+      "displayName": "AGRALE A8700 2p (diesel) (E6) (null)",
+      "combustivel": "Diesel",
+      "issue": "ano_zero_no_titulo",
+      "field": "seo.title",
+      "sample": "AGRALE A8700 2p (diesel) (E6) (null) 0 — Tabela FIPE | R$ 355.645"
+    },
+    {
+      "vehicleId": "agrale-a8700-2p-diesel-e6-0-diesel",
+      "bundlePath": "/data/bundles/agrale/a8700-2p-diesel-e6-0-501043-8.json",
+      "marca": "AGRALE",
+      "displayName": "AGRALE A8700 2p (diesel) (E6) (null)",
+      "combustivel": "Diesel",
+      "issue": "null_visivel",
+      "field": "seo.h1",
+      "sample": "AGRALE A8700 2p (diesel) (E6) (null) 0"
+    },
+    {
+      "vehicleId": "agrale-a8700-2p-diesel-e6-0-diesel",
+      "bundlePath": "/data/bundles/agrale/a8700-2p-diesel-e6-0-501043-8.json",
+      "marca": "AGRALE",
+      "displayName": "AGRALE A8700 2p (diesel) (E6) (null)",
+      "combustivel": "Diesel",
+      "issue": "ano_zero_no_titulo",
+      "field": "seo.h1",
+      "sample": "AGRALE A8700 2p (diesel) (E6) (null) 0"
+    },
+    {
+      "vehicleId": "agrale-a8700-2p-diesel-e6-0-diesel",
+      "bundlePath": "/data/bundles/agrale/a8700-2p-diesel-e6-0-501043-8.json",
+      "marca": "AGRALE",
+      "displayName": "AGRALE A8700 2p (diesel) (E6) (null)",
+      "combustivel": "Diesel",
+      "issue": "null_visivel",
+      "field": "seo.description",
+      "sample": "Consulte o preço FIPE do AGRALE A8700 2p (diesel) (E6) (null) 0 (código 501043-8): R$ 355.645. Histórico, ficha técnica "
+    },
+    {
+      "vehicleId": "agrale-marrua-am-200-esc-3-8-tdi-die-aut-e6-0-diesel",
+      "bundlePath": "/data/bundles/agrale/marrua-am-200-esc-3-8-tdi-die-aut-e6-0-060014-8.json",
+      "marca": "Agrale",
+      "displayName": "Agrale MARRUÁ AM 200 Esc. 3.8 TDI Die.Aut. (E6) (null)",
+      "combustivel": "Diesel",
+      "issue": "null_visivel",
+      "field": "identity.displayName",
+      "sample": "Agrale MARRUÁ AM 200 Esc. 3.8 TDI Die.Aut. (E6) (null)"
+    },
+    {
+      "vehicleId": "agrale-marrua-am-200-esc-3-8-tdi-die-aut-e6-0-diesel",
+      "bundlePath": "/data/bundles/agrale/marrua-am-200-esc-3-8-tdi-die-aut-e6-0-060014-8.json",
+      "marca": "Agrale",
+      "displayName": "Agrale MARRUÁ AM 200 Esc. 3.8 TDI Die.Aut. (E6) (null)",
+      "combustivel": "Diesel",
+      "issue": "null_visivel",
+      "field": "seo.title",
+      "sample": "Agrale MARRUÁ AM 200 Esc. 3.8 TDI Die.Aut. (E6) (null) 0 — Tabela FIPE | R$ 824.361"
+    },
+    {
+      "vehicleId": "agrale-marrua-am-200-esc-3-8-tdi-die-aut-e6-0-diesel",
+      "bundlePath": "/data/bundles/agrale/marrua-am-200-esc-3-8-tdi-die-aut-e6-0-060014-8.json",
+      "marca": "Agrale",
+      "displayName": "Agrale MARRUÁ AM 200 Esc. 3.8 TDI Die.Aut. (E6) (null)",
+      "combustivel": "Diesel",
+      "issue": "ano_zero_no_titulo",
+      "field": "seo.title",
+      "sample": "Agrale MARRUÁ AM 200 Esc. 3.8 TDI Die.Aut. (E6) (null) 0 — Tabela FIPE | R$ 824.361"
+    },
+    {
+      "vehicleId": "agrale-marrua-am-200-esc-3-8-tdi-die-aut-e6-0-diesel",
+      "bundlePath": "/data/bundles/agrale/marrua-am-200-esc-3-8-tdi-die-aut-e6-0-060014-8.json",
+      "marca": "Agrale",
+      "displayName": "Agrale MARRUÁ AM 200 Esc. 3.8 TDI Die.Aut. (E6) (null)",
+      "combustivel": "Diesel",
+      "issue": "null_visivel",
+      "field": "seo.h1",
+      "sample": "Agrale MARRUÁ AM 200 Esc. 3.8 TDI Die.Aut. (E6) (null) 0"
+    },
+    {
+      "vehicleId": "agrale-marrua-am-200-esc-3-8-tdi-die-aut-e6-0-diesel",
+      "bundlePath": "/data/bundles/agrale/marrua-am-200-esc-3-8-tdi-die-aut-e6-0-060014-8.json",
+      "marca": "Agrale",
+      "displayName": "Agrale MARRUÁ AM 200 Esc. 3.8 TDI Die.Aut. (E6) (null)",
+      "combustivel": "Diesel",
+      "issue": "ano_zero_no_titulo",
+      "field": "seo.h1",
+      "sample": "Agrale MARRUÁ AM 200 Esc. 3.8 TDI Die.Aut. (E6) (null) 0"
+    },
+    {
+      "vehicleId": "agrale-marrua-am-200-esc-3-8-tdi-die-aut-e6-0-diesel",
+      "bundlePath": "/data/bundles/agrale/marrua-am-200-esc-3-8-tdi-die-aut-e6-0-060014-8.json",
+      "marca": "Agrale",
+      "displayName": "Agrale MARRUÁ AM 200 Esc. 3.8 TDI Die.Aut. (E6) (null)",
+      "combustivel": "Diesel",
+      "issue": "null_visivel",
+      "field": "seo.description",
+      "sample": "Consulte o preço FIPE do Agrale MARRUÁ AM 200 Esc. 3.8 TDI Die.Aut. (E6) (null) 0 (código 060014-8): R$ 824.361. Históri"
+    },
+    {
+      "vehicleId": "agrale-marrua-am-200-escolar-3-8-tdi-die-e6-0-diesel",
+      "bundlePath": "/data/bundles/agrale/marrua-am-200-escolar-3-8-tdi-die-e6-0-060011-3.json",
+      "marca": "Agrale",
+      "displayName": "Agrale MARRUÁ AM 200 Escolar 3.8 TDI Die. (E6) (null)",
+      "combustivel": "Diesel",
+      "issue": "null_visivel",
+      "field": "identity.displayName",
+      "sample": "Agrale MARRUÁ AM 200 Escolar 3.8 TDI Die. (E6) (null)"
+    },
+    {
+      "vehicleId": "agrale-marrua-am-200-escolar-3-8-tdi-die-e6-0-diesel",
+      "bundlePath": "/data/bundles/agrale/marrua-am-200-escolar-3-8-tdi-die-e6-0-060011-3.json",
+      "marca": "Agrale",
+      "displayName": "Agrale MARRUÁ AM 200 Escolar 3.8 TDI Die. (E6) (null)",
+      "combustivel": "Diesel",
+      "issue": "null_visivel",
+      "field": "seo.title",
+      "sample": "Agrale MARRUÁ AM 200 Escolar 3.8 TDI Die. (E6) (null) 0 — Tabela FIPE | R$ 776.830"
+    },
+    {
+      "vehicleId": "agrale-marrua-am-200-escolar-3-8-tdi-die-e6-0-diesel",
+      "bundlePath": "/data/bundles/agrale/marrua-am-200-escolar-3-8-tdi-die-e6-0-060011-3.json",
+      "marca": "Agrale",
+      "displayName": "Agrale MARRUÁ AM 200 Escolar 3.8 TDI Die. (E6) (null)",
+      "combustivel": "Diesel",
+      "issue": "ano_zero_no_titulo",
+      "field": "seo.title",
+      "sample": "Agrale MARRUÁ AM 200 Escolar 3.8 TDI Die. (E6) (null) 0 — Tabela FIPE | R$ 776.830"
+    },
+    {
+      "vehicleId": "agrale-marrua-am-200-escolar-3-8-tdi-die-e6-0-diesel",
+      "bundlePath": "/data/bundles/agrale/marrua-am-200-escolar-3-8-tdi-die-e6-0-060011-3.json",
+      "marca": "Agrale",
+      "displayName": "Agrale MARRUÁ AM 200 Escolar 3.8 TDI Die. (E6) (null)",
+      "combustivel": "Diesel",
+      "issue": "null_visivel",
+      "field": "seo.h1",
+      "sample": "Agrale MARRUÁ AM 200 Escolar 3.8 TDI Die. (E6) (null) 0"
+    },
+    {
+      "vehicleId": "agrale-marrua-am-200-escolar-3-8-tdi-die-e6-0-diesel",
+      "bundlePath": "/data/bundles/agrale/marrua-am-200-escolar-3-8-tdi-die-e6-0-060011-3.json",
+      "marca": "Agrale",
+      "displayName": "Agrale MARRUÁ AM 200 Escolar 3.8 TDI Die. (E6) (null)",
+      "combustivel": "Diesel",
+      "issue": "ano_zero_no_titulo",
+      "field": "seo.h1",
+      "sample": "Agrale MARRUÁ AM 200 Escolar 3.8 TDI Die. (E6) (null) 0"
+    },
+    {
+      "vehicleId": "agrale-marrua-am-200-escolar-3-8-tdi-die-e6-0-diesel",
+      "bundlePath": "/data/bundles/agrale/marrua-am-200-escolar-3-8-tdi-die-e6-0-060011-3.json",
+      "marca": "Agrale",
+      "displayName": "Agrale MARRUÁ AM 200 Escolar 3.8 TDI Die. (E6) (null)",
+      "combustivel": "Diesel",
+      "issue": "null_visivel",
+      "field": "seo.description",
+      "sample": "Consulte o preço FIPE do Agrale MARRUÁ AM 200 Escolar 3.8 TDI Die. (E6) (null) 0 (código 060011-3): R$ 776.830. Históric"
+    },
+    {
+      "vehicleId": "agrale-marrua-am-250-3-8-cd-tdi-die-aut-e6-0-diesel",
+      "bundlePath": "/data/bundles/agrale/marrua-am-250-3-8-cd-tdi-die-aut-e6-0-060013-0.json",
+      "marca": "Agrale",
+      "displayName": "Agrale MARRUÁ AM 250 3.8 CD TDI Die. Aut. (E6) (null)",
+      "combustivel": "Diesel",
+      "issue": "null_visivel",
+      "field": "identity.displayName",
+      "sample": "Agrale MARRUÁ AM 250 3.8 CD TDI Die. Aut. (E6) (null)"
+    },
+    {
+      "vehicleId": "agrale-marrua-am-250-3-8-cd-tdi-die-aut-e6-0-diesel",
+      "bundlePath": "/data/bundles/agrale/marrua-am-250-3-8-cd-tdi-die-aut-e6-0-060013-0.json",
+      "marca": "Agrale",
+      "displayName": "Agrale MARRUÁ AM 250 3.8 CD TDI Die. Aut. (E6) (null)",
+      "combustivel": "Diesel",
+      "issue": "null_visivel",
+      "field": "seo.title",
+      "sample": "Agrale MARRUÁ AM 250 3.8 CD TDI Die. Aut. (E6) (null) 0 — Tabela FIPE | R$ 726.588"
+    },
+    {
+      "vehicleId": "agrale-marrua-am-250-3-8-cd-tdi-die-aut-e6-0-diesel",
+      "bundlePath": "/data/bundles/agrale/marrua-am-250-3-8-cd-tdi-die-aut-e6-0-060013-0.json",
+      "marca": "Agrale",
+      "displayName": "Agrale MARRUÁ AM 250 3.8 CD TDI Die. Aut. (E6) (null)",
+      "combustivel": "Diesel",
+      "issue": "ano_zero_no_titulo",
+      "field": "seo.title",
+      "sample": "Agrale MARRUÁ AM 250 3.8 CD TDI Die. Aut. (E6) (null) 0 — Tabela FIPE | R$ 726.588"
+    },
+    {
+      "vehicleId": "agrale-marrua-am-250-3-8-cd-tdi-die-aut-e6-0-diesel",
+      "bundlePath": "/data/bundles/agrale/marrua-am-250-3-8-cd-tdi-die-aut-e6-0-060013-0.json",
+      "marca": "Agrale",
+      "displayName": "Agrale MARRUÁ AM 250 3.8 CD TDI Die. Aut. (E6) (null)",
+      "combustivel": "Diesel",
+      "issue": "null_visivel",
+      "field": "seo.h1",
+      "sample": "Agrale MARRUÁ AM 250 3.8 CD TDI Die. Aut. (E6) (null) 0"
+    },
+    {
+      "vehicleId": "agrale-marrua-am-250-3-8-cd-tdi-die-aut-e6-0-diesel",
+      "bundlePath": "/data/bundles/agrale/marrua-am-250-3-8-cd-tdi-die-aut-e6-0-060013-0.json",
+      "marca": "Agrale",
+      "displayName": "Agrale MARRUÁ AM 250 3.8 CD TDI Die. Aut. (E6) (null)",
+      "combustivel": "Diesel",
+      "issue": "ano_zero_no_titulo",
+      "field": "seo.h1",
+      "sample": "Agrale MARRUÁ AM 250 3.8 CD TDI Die. Aut. (E6) (null) 0"
+    },
+    {
+      "vehicleId": "agrale-marrua-am-250-3-8-cd-tdi-die-aut-e6-0-diesel",
+      "bundlePath": "/data/bundles/agrale/marrua-am-250-3-8-cd-tdi-die-aut-e6-0-060013-0.json",
+      "marca": "Agrale",
+      "displayName": "Agrale MARRUÁ AM 250 3.8 CD TDI Die. Aut. (E6) (null)",
+      "combustivel": "Diesel",
+      "issue": "null_visivel",
+      "field": "seo.description",
+      "sample": "Consulte o preço FIPE do Agrale MARRUÁ AM 250 3.8 CD TDI Die. Aut. (E6) (null) 0 (código 060013-0): R$ 726.588. Históric"
+    },
+    {
+      "vehicleId": "agrale-marrua-am-250-3-8-cd-tdi-diesel-e6-0-diesel",
+      "bundlePath": "/data/bundles/agrale/marrua-am-250-3-8-cd-tdi-diesel-e6-0-060012-1.json",
+      "marca": "Agrale",
+      "displayName": "Agrale MARRUÁ AM 250 3.8 CD TDI Diesel (E6) (null)",
+      "combustivel": "Diesel",
+      "issue": "null_visivel",
+      "field": "identity.displayName",
+      "sample": "Agrale MARRUÁ AM 250 3.8 CD TDI Diesel (E6) (null)"
+    },
+    {
+      "vehicleId": "agrale-marrua-am-250-3-8-cd-tdi-diesel-e6-0-diesel",
+      "bundlePath": "/data/bundles/agrale/marrua-am-250-3-8-cd-tdi-diesel-e6-0-060012-1.json",
+      "marca": "Agrale",
+      "displayName": "Agrale MARRUÁ AM 250 3.8 CD TDI Diesel (E6) (null)",
+      "combustivel": "Diesel",
+      "issue": "null_visivel",
+      "field": "seo.title",
+      "sample": "Agrale MARRUÁ AM 250 3.8 CD TDI Diesel (E6) (null) 0 — Tabela FIPE | R$ 656.500"
+    },
+    {
+      "vehicleId": "agrale-marrua-am-250-3-8-cd-tdi-diesel-e6-0-diesel",
+      "bundlePath": "/data/bundles/agrale/marrua-am-250-3-8-cd-tdi-diesel-e6-0-060012-1.json",
+      "marca": "Agrale",
+      "displayName": "Agrale MARRUÁ AM 250 3.8 CD TDI Diesel (E6) (null)",
+      "combustivel": "Diesel",
+      "issue": "ano_zero_no_titulo",
+      "field": "seo.title",
+      "sample": "Agrale MARRUÁ AM 250 3.8 CD TDI Diesel (E6) (null) 0 — Tabela FIPE | R$ 656.500"
+    },
+    {
+      "vehicleId": "agrale-marrua-am-250-3-8-cd-tdi-diesel-e6-0-diesel",
+      "bundlePath": "/data/bundles/agrale/marrua-am-250-3-8-cd-tdi-diesel-e6-0-060012-1.json",
+      "marca": "Agrale",
+      "displayName": "Agrale MARRUÁ AM 250 3.8 CD TDI Diesel (E6) (null)",
+      "combustivel": "Diesel",
+      "issue": "null_visivel",
+      "field": "seo.h1",
+      "sample": "Agrale MARRUÁ AM 250 3.8 CD TDI Diesel (E6) (null) 0"
+    },
+    {
+      "vehicleId": "agrale-marrua-am-250-3-8-cd-tdi-diesel-e6-0-diesel",
+      "bundlePath": "/data/bundles/agrale/marrua-am-250-3-8-cd-tdi-diesel-e6-0-060012-1.json",
+      "marca": "Agrale",
+      "displayName": "Agrale MARRUÁ AM 250 3.8 CD TDI Diesel (E6) (null)",
+      "combustivel": "Diesel",
+      "issue": "ano_zero_no_titulo",
+      "field": "seo.h1",
+      "sample": "Agrale MARRUÁ AM 250 3.8 CD TDI Diesel (E6) (null) 0"
+    },
+    {
+      "vehicleId": "agrale-marrua-am-250-3-8-cd-tdi-diesel-e6-0-diesel",
+      "bundlePath": "/data/bundles/agrale/marrua-am-250-3-8-cd-tdi-diesel-e6-0-060012-1.json",
+      "marca": "Agrale",
+      "displayName": "Agrale MARRUÁ AM 250 3.8 CD TDI Diesel (E6) (null)",
+      "combustivel": "Diesel",
+      "issue": "null_visivel",
+      "field": "seo.description",
+      "sample": "Consulte o preço FIPE do Agrale MARRUÁ AM 250 3.8 CD TDI Diesel (E6) (null) 0 (código 060012-1): R$ 656.500. Histórico, "
+    },
+    {
+      "vehicleId": "agrale-marrua-am-250-3-8-cs-tdi-die-aut-e6-0-diesel",
+      "bundlePath": "/data/bundles/agrale/marrua-am-250-3-8-cs-tdi-die-aut-e6-0-060016-4.json",
+      "marca": "Agrale",
+      "displayName": "Agrale MARRUÁ AM 250 3.8 CS TDI Die. Aut. (E6) (null)",
+      "combustivel": "Diesel",
+      "issue": "null_visivel",
+      "field": "identity.displayName",
+      "sample": "Agrale MARRUÁ AM 250 3.8 CS TDI Die. Aut. (E6) (null)"
+    },
+    {
+      "vehicleId": "agrale-marrua-am-250-3-8-cs-tdi-die-aut-e6-0-diesel",
+      "bundlePath": "/data/bundles/agrale/marrua-am-250-3-8-cs-tdi-die-aut-e6-0-060016-4.json",
+      "marca": "Agrale",
+      "displayName": "Agrale MARRUÁ AM 250 3.8 CS TDI Die. Aut. (E6) (null)",
+      "combustivel": "Diesel",
+      "issue": "null_visivel",
+      "field": "seo.title",
+      "sample": "Agrale MARRUÁ AM 250 3.8 CS TDI Die. Aut. (E6) (null) 0 — Tabela FIPE | R$ 676.096"
+    },
+    {
+      "vehicleId": "agrale-marrua-am-250-3-8-cs-tdi-die-aut-e6-0-diesel",
+      "bundlePath": "/data/bundles/agrale/marrua-am-250-3-8-cs-tdi-die-aut-e6-0-060016-4.json",
+      "marca": "Agrale",
+      "displayName": "Agrale MARRUÁ AM 250 3.8 CS TDI Die. Aut. (E6) (null)",
+      "combustivel": "Diesel",
+      "issue": "ano_zero_no_titulo",
+      "field": "seo.title",
+      "sample": "Agrale MARRUÁ AM 250 3.8 CS TDI Die. Aut. (E6) (null) 0 — Tabela FIPE | R$ 676.096"
+    },
+    {
+      "vehicleId": "agrale-marrua-am-250-3-8-cs-tdi-die-aut-e6-0-diesel",
+      "bundlePath": "/data/bundles/agrale/marrua-am-250-3-8-cs-tdi-die-aut-e6-0-060016-4.json",
+      "marca": "Agrale",
+      "displayName": "Agrale MARRUÁ AM 250 3.8 CS TDI Die. Aut. (E6) (null)",
+      "combustivel": "Diesel",
+      "issue": "null_visivel",
+      "field": "seo.h1",
+      "sample": "Agrale MARRUÁ AM 250 3.8 CS TDI Die. Aut. (E6) (null) 0"
+    },
+    {
+      "vehicleId": "agrale-marrua-am-250-3-8-cs-tdi-die-aut-e6-0-diesel",
+      "bundlePath": "/data/bundles/agrale/marrua-am-250-3-8-cs-tdi-die-aut-e6-0-060016-4.json",
+      "marca": "Agrale",
+      "displayName": "Agrale MARRUÁ AM 250 3.8 CS TDI Die. Aut. (E6) (null)",
+      "combustivel": "Diesel",
+      "issue": "ano_zero_no_titulo",
+      "field": "seo.h1",
+      "sample": "Agrale MARRUÁ AM 250 3.8 CS TDI Die. Aut. (E6) (null) 0"
+    },
+    {
+      "vehicleId": "agrale-marrua-am-250-3-8-cs-tdi-die-aut-e6-0-diesel",
+      "bundlePath": "/data/bundles/agrale/marrua-am-250-3-8-cs-tdi-die-aut-e6-0-060016-4.json",
+      "marca": "Agrale",
+      "displayName": "Agrale MARRUÁ AM 250 3.8 CS TDI Die. Aut. (E6) (null)",
+      "combustivel": "Diesel",
+      "issue": "null_visivel",
+      "field": "seo.description",
+      "sample": "Consulte o preço FIPE do Agrale MARRUÁ AM 250 3.8 CS TDI Die. Aut. (E6) (null) 0 (código 060016-4): R$ 676.096. Históric"
+    },
+    {
+      "vehicleId": "agrale-marrua-am-250-3-8-cs-tdi-diesel-e6-0-diesel",
+      "bundlePath": "/data/bundles/agrale/marrua-am-250-3-8-cs-tdi-diesel-e6-0-060015-6.json",
+      "marca": "Agrale",
+      "displayName": "Agrale MARRUÁ AM 250 3.8 CS TDI Diesel (E6) (null)",
+      "combustivel": "Diesel",
+      "issue": "null_visivel",
+      "field": "identity.displayName",
+      "sample": "Agrale MARRUÁ AM 250 3.8 CS TDI Diesel (E6) (null)"
+    },
+    {
+      "vehicleId": "agrale-marrua-am-250-3-8-cs-tdi-diesel-e6-0-diesel",
+      "bundlePath": "/data/bundles/agrale/marrua-am-250-3-8-cs-tdi-diesel-e6-0-060015-6.json",
+      "marca": "Agrale",
+      "displayName": "Agrale MARRUÁ AM 250 3.8 CS TDI Diesel (E6) (null)",
+      "combustivel": "Diesel",
+      "issue": "null_visivel",
+      "field": "seo.title",
+      "sample": "Agrale MARRUÁ AM 250 3.8 CS TDI Diesel (E6) (null) 0 — Tabela FIPE | R$ 582.476"
+    },
+    {
+      "vehicleId": "agrale-marrua-am-250-3-8-cs-tdi-diesel-e6-0-diesel",
+      "bundlePath": "/data/bundles/agrale/marrua-am-250-3-8-cs-tdi-diesel-e6-0-060015-6.json",
+      "marca": "Agrale",
+      "displayName": "Agrale MARRUÁ AM 250 3.8 CS TDI Diesel (E6) (null)",
+      "combustivel": "Diesel",
+      "issue": "ano_zero_no_titulo",
+      "field": "seo.title",
+      "sample": "Agrale MARRUÁ AM 250 3.8 CS TDI Diesel (E6) (null) 0 — Tabela FIPE | R$ 582.476"
+    },
+    {
+      "vehicleId": "agrale-marrua-am-250-3-8-cs-tdi-diesel-e6-0-diesel",
+      "bundlePath": "/data/bundles/agrale/marrua-am-250-3-8-cs-tdi-diesel-e6-0-060015-6.json",
+      "marca": "Agrale",
+      "displayName": "Agrale MARRUÁ AM 250 3.8 CS TDI Diesel (E6) (null)",
+      "combustivel": "Diesel",
+      "issue": "null_visivel",
+      "field": "seo.h1",
+      "sample": "Agrale MARRUÁ AM 250 3.8 CS TDI Diesel (E6) (null) 0"
+    },
+    {
+      "vehicleId": "agrale-marrua-am-250-3-8-cs-tdi-diesel-e6-0-diesel",
+      "bundlePath": "/data/bundles/agrale/marrua-am-250-3-8-cs-tdi-diesel-e6-0-060015-6.json",
+      "marca": "Agrale",
+      "displayName": "Agrale MARRUÁ AM 250 3.8 CS TDI Diesel (E6) (null)",
+      "combustivel": "Diesel",
+      "issue": "ano_zero_no_titulo",
+      "field": "seo.h1",
+      "sample": "Agrale MARRUÁ AM 250 3.8 CS TDI Diesel (E6) (null) 0"
+    },
+    {
+      "vehicleId": "agrale-marrua-am-250-3-8-cs-tdi-diesel-e6-0-diesel",
+      "bundlePath": "/data/bundles/agrale/marrua-am-250-3-8-cs-tdi-diesel-e6-0-060015-6.json",
+      "marca": "Agrale",
+      "displayName": "Agrale MARRUÁ AM 250 3.8 CS TDI Diesel (E6) (null)",
+      "combustivel": "Diesel",
+      "issue": "null_visivel",
+      "field": "seo.description",
+      "sample": "Consulte o preço FIPE do Agrale MARRUÁ AM 250 3.8 CS TDI Diesel (E6) (null) 0 (código 060015-6): R$ 582.476. Histórico, "
+    },
+    {
+      "vehicleId": "arrow-one-work-eletrico-0-eletrico",
+      "bundlePath": "/data/bundles/arrow/one-work-eletrico-0-532001-1.json",
+      "marca": "ARROW",
+      "displayName": "ARROW ONE Work (Elétrico) (null)",
+      "combustivel": "Elétrico",
+      "issue": "null_visivel",
+      "field": "identity.displayName",
+      "sample": "ARROW ONE Work (Elétrico) (null)"
+    },
+    {
+      "vehicleId": "arrow-one-work-eletrico-0-eletrico",
+      "bundlePath": "/data/bundles/arrow/one-work-eletrico-0-532001-1.json",
+      "marca": "ARROW",
+      "displayName": "ARROW ONE Work (Elétrico) (null)",
+      "combustivel": "Elétrico",
+      "issue": "null_visivel",
+      "field": "seo.title",
+      "sample": "ARROW ONE Work (Elétrico) (null) 0 — Tabela FIPE | R$ 689.000"
+    },
+    {
+      "vehicleId": "arrow-one-work-eletrico-0-eletrico",
+      "bundlePath": "/data/bundles/arrow/one-work-eletrico-0-532001-1.json",
+      "marca": "ARROW",
+      "displayName": "ARROW ONE Work (Elétrico) (null)",
+      "combustivel": "Elétrico",
+      "issue": "ano_zero_no_titulo",
+      "field": "seo.title",
+      "sample": "ARROW ONE Work (Elétrico) (null) 0 — Tabela FIPE | R$ 689.000"
+    },
+    {
+      "vehicleId": "arrow-one-work-eletrico-0-eletrico",
+      "bundlePath": "/data/bundles/arrow/one-work-eletrico-0-532001-1.json",
+      "marca": "ARROW",
+      "displayName": "ARROW ONE Work (Elétrico) (null)",
+      "combustivel": "Elétrico",
+      "issue": "null_visivel",
+      "field": "seo.h1",
+      "sample": "ARROW ONE Work (Elétrico) (null) 0"
+    },
+    {
+      "vehicleId": "arrow-one-work-eletrico-0-eletrico",
+      "bundlePath": "/data/bundles/arrow/one-work-eletrico-0-532001-1.json",
+      "marca": "ARROW",
+      "displayName": "ARROW ONE Work (Elétrico) (null)",
+      "combustivel": "Elétrico",
+      "issue": "ano_zero_no_titulo",
+      "field": "seo.h1",
+      "sample": "ARROW ONE Work (Elétrico) (null) 0"
+    },
+    {
+      "vehicleId": "arrow-one-work-eletrico-0-eletrico",
+      "bundlePath": "/data/bundles/arrow/one-work-eletrico-0-532001-1.json",
+      "marca": "ARROW",
+      "displayName": "ARROW ONE Work (Elétrico) (null)",
+      "combustivel": "Elétrico",
+      "issue": "null_visivel",
+      "field": "seo.description",
+      "sample": "Consulte o preço FIPE do ARROW ONE Work (Elétrico) (null) 0 (código 532001-1): R$ 689.000. Histórico, ficha técnica e ve"
+    },
+    {
+      "vehicleId": "aston-martin-db12-coupe-4-0-v8-680cv-0-gasolina",
+      "bundlePath": "/data/bundles/aston-martin/db12-coupe-4-0-v8-680cv-0-085018-7.json",
+      "marca": "ASTON MARTIN",
+      "displayName": "ASTON MARTIN DB12 Coupe 4.0 V8 680cv (null)",
+      "combustivel": "Gasolina",
+      "issue": "null_visivel",
+      "field": "identity.displayName",
+      "sample": "ASTON MARTIN DB12 Coupe 4.0 V8 680cv (null)"
+    },
+    {
+      "vehicleId": "aston-martin-db12-coupe-4-0-v8-680cv-0-gasolina",
+      "bundlePath": "/data/bundles/aston-martin/db12-coupe-4-0-v8-680cv-0-085018-7.json",
+      "marca": "ASTON MARTIN",
+      "displayName": "ASTON MARTIN DB12 Coupe 4.0 V8 680cv (null)",
+      "combustivel": "Gasolina",
+      "issue": "null_visivel",
+      "field": "seo.title",
+      "sample": "ASTON MARTIN DB12 Coupe 4.0 V8 680cv (null) 0 — Tabela FIPE | R$ 3.500.000"
+    },
+    {
+      "vehicleId": "aston-martin-db12-coupe-4-0-v8-680cv-0-gasolina",
+      "bundlePath": "/data/bundles/aston-martin/db12-coupe-4-0-v8-680cv-0-085018-7.json",
+      "marca": "ASTON MARTIN",
+      "displayName": "ASTON MARTIN DB12 Coupe 4.0 V8 680cv (null)",
+      "combustivel": "Gasolina",
+      "issue": "ano_zero_no_titulo",
+      "field": "seo.title",
+      "sample": "ASTON MARTIN DB12 Coupe 4.0 V8 680cv (null) 0 — Tabela FIPE | R$ 3.500.000"
+    },
+    {
+      "vehicleId": "aston-martin-db12-coupe-4-0-v8-680cv-0-gasolina",
+      "bundlePath": "/data/bundles/aston-martin/db12-coupe-4-0-v8-680cv-0-085018-7.json",
+      "marca": "ASTON MARTIN",
+      "displayName": "ASTON MARTIN DB12 Coupe 4.0 V8 680cv (null)",
+      "combustivel": "Gasolina",
+      "issue": "null_visivel",
+      "field": "seo.h1",
+      "sample": "ASTON MARTIN DB12 Coupe 4.0 V8 680cv (null) 0"
+    },
+    {
+      "vehicleId": "aston-martin-db12-coupe-4-0-v8-680cv-0-gasolina",
+      "bundlePath": "/data/bundles/aston-martin/db12-coupe-4-0-v8-680cv-0-085018-7.json",
+      "marca": "ASTON MARTIN",
+      "displayName": "ASTON MARTIN DB12 Coupe 4.0 V8 680cv (null)",
+      "combustivel": "Gasolina",
+      "issue": "ano_zero_no_titulo",
+      "field": "seo.h1",
+      "sample": "ASTON MARTIN DB12 Coupe 4.0 V8 680cv (null) 0"
+    },
+    {
+      "vehicleId": "aston-martin-db12-coupe-4-0-v8-680cv-0-gasolina",
+      "bundlePath": "/data/bundles/aston-martin/db12-coupe-4-0-v8-680cv-0-085018-7.json",
+      "marca": "ASTON MARTIN",
+      "displayName": "ASTON MARTIN DB12 Coupe 4.0 V8 680cv (null)",
+      "combustivel": "Gasolina",
+      "issue": "null_visivel",
+      "field": "seo.description",
+      "sample": "Consulte o preço FIPE do ASTON MARTIN DB12 Coupe 4.0 V8 680cv (null) 0 (código 085018-7): R$ 3.500.000. 680 cv. Históric"
+    },
+    {
+      "vehicleId": "aston-martin-db12-volante-4-0-v8-680cv-0-gasolina",
+      "bundlePath": "/data/bundles/aston-martin/db12-volante-4-0-v8-680cv-0-085019-5.json",
+      "marca": "ASTON MARTIN",
+      "displayName": "ASTON MARTIN DB12 Volante 4.0 V8 680cv (null)",
+      "combustivel": "Gasolina",
+      "issue": "null_visivel",
+      "field": "identity.displayName",
+      "sample": "ASTON MARTIN DB12 Volante 4.0 V8 680cv (null)"
+    },
+    {
+      "vehicleId": "aston-martin-db12-volante-4-0-v8-680cv-0-gasolina",
+      "bundlePath": "/data/bundles/aston-martin/db12-volante-4-0-v8-680cv-0-085019-5.json",
+      "marca": "ASTON MARTIN",
+      "displayName": "ASTON MARTIN DB12 Volante 4.0 V8 680cv (null)",
+      "combustivel": "Gasolina",
+      "issue": "null_visivel",
+      "field": "seo.title",
+      "sample": "ASTON MARTIN DB12 Volante 4.0 V8 680cv (null) 0 — Tabela FIPE | R$ 3.800.000"
+    },
+    {
+      "vehicleId": "aston-martin-db12-volante-4-0-v8-680cv-0-gasolina",
+      "bundlePath": "/data/bundles/aston-martin/db12-volante-4-0-v8-680cv-0-085019-5.json",
+      "marca": "ASTON MARTIN",
+      "displayName": "ASTON MARTIN DB12 Volante 4.0 V8 680cv (null)",
+      "combustivel": "Gasolina",
+      "issue": "ano_zero_no_titulo",
+      "field": "seo.title",
+      "sample": "ASTON MARTIN DB12 Volante 4.0 V8 680cv (null) 0 — Tabela FIPE | R$ 3.800.000"
+    },
+    {
+      "vehicleId": "aston-martin-db12-volante-4-0-v8-680cv-0-gasolina",
+      "bundlePath": "/data/bundles/aston-martin/db12-volante-4-0-v8-680cv-0-085019-5.json",
+      "marca": "ASTON MARTIN",
+      "displayName": "ASTON MARTIN DB12 Volante 4.0 V8 680cv (null)",
+      "combustivel": "Gasolina",
+      "issue": "null_visivel",
+      "field": "seo.h1",
+      "sample": "ASTON MARTIN DB12 Volante 4.0 V8 680cv (null) 0"
+    },
+    {
+      "vehicleId": "aston-martin-db12-volante-4-0-v8-680cv-0-gasolina",
+      "bundlePath": "/data/bundles/aston-martin/db12-volante-4-0-v8-680cv-0-085019-5.json",
+      "marca": "ASTON MARTIN",
+      "displayName": "ASTON MARTIN DB12 Volante 4.0 V8 680cv (null)",
+      "combustivel": "Gasolina",
+      "issue": "ano_zero_no_titulo",
+      "field": "seo.h1",
+      "sample": "ASTON MARTIN DB12 Volante 4.0 V8 680cv (null) 0"
+    },
+    {
+      "vehicleId": "aston-martin-db12-volante-4-0-v8-680cv-0-gasolina",
+      "bundlePath": "/data/bundles/aston-martin/db12-volante-4-0-v8-680cv-0-085019-5.json",
+      "marca": "ASTON MARTIN",
+      "displayName": "ASTON MARTIN DB12 Volante 4.0 V8 680cv (null)",
+      "combustivel": "Gasolina",
+      "issue": "null_visivel",
+      "field": "seo.description",
+      "sample": "Consulte o preço FIPE do ASTON MARTIN DB12 Volante 4.0 V8 680cv (null) 0 (código 085019-5): R$ 3.800.000. 680 cv. Histór"
+    },
+    {
+      "vehicleId": "aston-martin-dbx707-4-0-v8-707cv-0-gasolina",
+      "bundlePath": "/data/bundles/aston-martin/dbx707-4-0-v8-707cv-0-085016-0.json",
+      "marca": "ASTON MARTIN",
+      "displayName": "ASTON MARTIN DBX707 4.0 V8 707cv (null)",
+      "combustivel": "Gasolina",
+      "issue": "null_visivel",
+      "field": "identity.displayName",
+      "sample": "ASTON MARTIN DBX707 4.0 V8 707cv (null)"
+    },
+    {
+      "vehicleId": "aston-martin-dbx707-4-0-v8-707cv-0-gasolina",
+      "bundlePath": "/data/bundles/aston-martin/dbx707-4-0-v8-707cv-0-085016-0.json",
+      "marca": "ASTON MARTIN",
+      "displayName": "ASTON MARTIN DBX707 4.0 V8 707cv (null)",
+      "combustivel": "Gasolina",
+      "issue": "null_visivel",
+      "field": "seo.title",
+      "sample": "ASTON MARTIN DBX707 4.0 V8 707cv (null) 0 — Tabela FIPE | R$ 3.680.000"
+    },
+    {
+      "vehicleId": "aston-martin-dbx707-4-0-v8-707cv-0-gasolina",
+      "bundlePath": "/data/bundles/aston-martin/dbx707-4-0-v8-707cv-0-085016-0.json",
+      "marca": "ASTON MARTIN",
+      "displayName": "ASTON MARTIN DBX707 4.0 V8 707cv (null)",
+      "combustivel": "Gasolina",
+      "issue": "ano_zero_no_titulo",
+      "field": "seo.title",
+      "sample": "ASTON MARTIN DBX707 4.0 V8 707cv (null) 0 — Tabela FIPE | R$ 3.680.000"
+    },
+    {
+      "vehicleId": "aston-martin-dbx707-4-0-v8-707cv-0-gasolina",
+      "bundlePath": "/data/bundles/aston-martin/dbx707-4-0-v8-707cv-0-085016-0.json",
+      "marca": "ASTON MARTIN",
+      "displayName": "ASTON MARTIN DBX707 4.0 V8 707cv (null)",
+      "combustivel": "Gasolina",
+      "issue": "null_visivel",
+      "field": "seo.h1",
+      "sample": "ASTON MARTIN DBX707 4.0 V8 707cv (null) 0"
+    },
+    {
+      "vehicleId": "aston-martin-dbx707-4-0-v8-707cv-0-gasolina",
+      "bundlePath": "/data/bundles/aston-martin/dbx707-4-0-v8-707cv-0-085016-0.json",
+      "marca": "ASTON MARTIN",
+      "displayName": "ASTON MARTIN DBX707 4.0 V8 707cv (null)",
+      "combustivel": "Gasolina",
+      "issue": "ano_zero_no_titulo",
+      "field": "seo.h1",
+      "sample": "ASTON MARTIN DBX707 4.0 V8 707cv (null) 0"
+    },
+    {
+      "vehicleId": "aston-martin-dbx707-4-0-v8-707cv-0-gasolina",
+      "bundlePath": "/data/bundles/aston-martin/dbx707-4-0-v8-707cv-0-085016-0.json",
+      "marca": "ASTON MARTIN",
+      "displayName": "ASTON MARTIN DBX707 4.0 V8 707cv (null)",
+      "combustivel": "Gasolina",
+      "issue": "null_visivel",
+      "field": "seo.description",
+      "sample": "Consulte o preço FIPE do ASTON MARTIN DBX707 4.0 V8 707cv (null) 0 (código 085016-0): R$ 3.680.000. 707 cv. Histórico, f"
+    },
+    {
+      "vehicleId": "aston-martin-vanquish-v12-5-2-835cv-0-gasolina",
+      "bundlePath": "/data/bundles/aston-martin/vanquish-v12-5-2-835cv-0-085020-9.json",
+      "marca": "ASTON MARTIN",
+      "displayName": "ASTON MARTIN Vanquish V12 5.2 835cv (null)",
+      "combustivel": "Gasolina",
+      "issue": "null_visivel",
+      "field": "identity.displayName",
+      "sample": "ASTON MARTIN Vanquish V12 5.2 835cv (null)"
+    },
+    {
+      "vehicleId": "aston-martin-vanquish-v12-5-2-835cv-0-gasolina",
+      "bundlePath": "/data/bundles/aston-martin/vanquish-v12-5-2-835cv-0-085020-9.json",
+      "marca": "ASTON MARTIN",
+      "displayName": "ASTON MARTIN Vanquish V12 5.2 835cv (null)",
+      "combustivel": "Gasolina",
+      "issue": "null_visivel",
+      "field": "seo.title",
+      "sample": "ASTON MARTIN Vanquish V12 5.2 835cv (null) 0 — Tabela FIPE | R$ 6.000.000"
+    },
+    {
+      "vehicleId": "aston-martin-vanquish-v12-5-2-835cv-0-gasolina",
+      "bundlePath": "/data/bundles/aston-martin/vanquish-v12-5-2-835cv-0-085020-9.json",
+      "marca": "ASTON MARTIN",
+      "displayName": "ASTON MARTIN Vanquish V12 5.2 835cv (null)",
+      "combustivel": "Gasolina",
+      "issue": "ano_zero_no_titulo",
+      "field": "seo.title",
+      "sample": "ASTON MARTIN Vanquish V12 5.2 835cv (null) 0 — Tabela FIPE | R$ 6.000.000"
+    },
+    {
+      "vehicleId": "aston-martin-vanquish-v12-5-2-835cv-0-gasolina",
+      "bundlePath": "/data/bundles/aston-martin/vanquish-v12-5-2-835cv-0-085020-9.json",
+      "marca": "ASTON MARTIN",
+      "displayName": "ASTON MARTIN Vanquish V12 5.2 835cv (null)",
+      "combustivel": "Gasolina",
+      "issue": "null_visivel",
+      "field": "seo.h1",
+      "sample": "ASTON MARTIN Vanquish V12 5.2 835cv (null) 0"
+    },
+    {
+      "vehicleId": "aston-martin-vanquish-v12-5-2-835cv-0-gasolina",
+      "bundlePath": "/data/bundles/aston-martin/vanquish-v12-5-2-835cv-0-085020-9.json",
+      "marca": "ASTON MARTIN",
+      "displayName": "ASTON MARTIN Vanquish V12 5.2 835cv (null)",
+      "combustivel": "Gasolina",
+      "issue": "ano_zero_no_titulo",
+      "field": "seo.h1",
+      "sample": "ASTON MARTIN Vanquish V12 5.2 835cv (null) 0"
+    },
+    {
+      "vehicleId": "aston-martin-vanquish-v12-5-2-835cv-0-gasolina",
+      "bundlePath": "/data/bundles/aston-martin/vanquish-v12-5-2-835cv-0-085020-9.json",
+      "marca": "ASTON MARTIN",
+      "displayName": "ASTON MARTIN Vanquish V12 5.2 835cv (null)",
+      "combustivel": "Gasolina",
+      "issue": "null_visivel",
+      "field": "seo.description",
+      "sample": "Consulte o preço FIPE do ASTON MARTIN Vanquish V12 5.2 835cv (null) 0 (código 085020-9): R$ 6.000.000. 835 cv. Histórico"
+    },
+    {
+      "vehicleId": "aston-martin-vantage-cupe-4-0-v8-510cv-0-gasolina",
+      "bundlePath": "/data/bundles/aston-martin/vantage-cupe-4-0-v8-510cv-0-085012-8.json",
+      "marca": "ASTON MARTIN",
+      "displayName": "ASTON MARTIN Vantage Cupê  4.0 V8 510cv (null)",
+      "combustivel": "Gasolina",
+      "issue": "null_visivel",
+      "field": "identity.displayName",
+      "sample": "ASTON MARTIN Vantage Cupê  4.0 V8 510cv (null)"
+    },
+    {
+      "vehicleId": "aston-martin-vantage-cupe-4-0-v8-510cv-0-gasolina",
+      "bundlePath": "/data/bundles/aston-martin/vantage-cupe-4-0-v8-510cv-0-085012-8.json",
+      "marca": "ASTON MARTIN",
+      "displayName": "ASTON MARTIN Vantage Cupê  4.0 V8 510cv (null)",
+      "combustivel": "Gasolina",
+      "issue": "null_visivel",
+      "field": "seo.title",
+      "sample": "ASTON MARTIN Vantage Cupê  4.0 V8 510cv (null) 0 — Tabela FIPE | R$ 2.600.000"
+    },
+    {
+      "vehicleId": "aston-martin-vantage-cupe-4-0-v8-510cv-0-gasolina",
+      "bundlePath": "/data/bundles/aston-martin/vantage-cupe-4-0-v8-510cv-0-085012-8.json",
+      "marca": "ASTON MARTIN",
+      "displayName": "ASTON MARTIN Vantage Cupê  4.0 V8 510cv (null)",
+      "combustivel": "Gasolina",
+      "issue": "ano_zero_no_titulo",
+      "field": "seo.title",
+      "sample": "ASTON MARTIN Vantage Cupê  4.0 V8 510cv (null) 0 — Tabela FIPE | R$ 2.600.000"
+    },
+    {
+      "vehicleId": "aston-martin-vantage-cupe-4-0-v8-510cv-0-gasolina",
+      "bundlePath": "/data/bundles/aston-martin/vantage-cupe-4-0-v8-510cv-0-085012-8.json",
+      "marca": "ASTON MARTIN",
+      "displayName": "ASTON MARTIN Vantage Cupê  4.0 V8 510cv (null)",
+      "combustivel": "Gasolina",
+      "issue": "null_visivel",
+      "field": "seo.h1",
+      "sample": "ASTON MARTIN Vantage Cupê  4.0 V8 510cv (null) 0"
+    }
+  ],
+  "duracaoMs": 18419
+}

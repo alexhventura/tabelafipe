@@ -33,6 +33,18 @@ export interface FaqItem {
   resposta: string;
 }
 
+export interface FieldProvenance {
+  value: string | number | boolean | null;
+  source: string;
+  origin?: string;
+  sourceYear?: number;
+  confidence: number;
+  sourceUrl?: string;
+  lastVerified?: string;
+  matchedBy?: string;
+  estimated?: boolean;
+}
+
 export interface VehiclePageSectionFlags {
   preco: boolean;
   historico: boolean;
@@ -113,6 +125,7 @@ export interface VehiclePageBundle {
   safety: Record<string, unknown> | null;
   recalls: Record<string, unknown> | null;
   warranty: Record<string, unknown> | null;
+  provenance?: Record<string, FieldProvenance>;
   sections: VehiclePageSectionFlags;
   related: VehicleRelatedLinks;
   faq: FaqItem[];

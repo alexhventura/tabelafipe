@@ -48,6 +48,11 @@ if (fs.existsSync(VEICULOS)) {
   }
 }
 
+if (isCi && total >= 50) {
+  console.log('Pre-build: validate search...');
+  run('npx', ['tsx', 'scripts/validate-search.ts']);
+}
+
 const sitemapPath = path.join(process.cwd(), 'public', 'sitemap.xml');
 if (!isCi || !fs.existsSync(sitemapPath)) {
   console.log('Pre-build: sitemap...');

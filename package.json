@@ -100,6 +100,8 @@
     "datasets:maintenance:master": "npx tsx scripts/datasets/build-maintenance-master.ts",
     "datasets:acquisition:dashboard": "npx tsx scripts/datasets/generate-acquisition-dashboard.ts",
     "ssg:prepare-bundles": "npx tsx scripts/ssg/prepare-vehicle-bundles.ts",
+    "datasets:consumo:audit": "npx tsx scripts/datasets/audit-consumption-provenance.ts",
+    "datasets:quality:audit": "npx tsx scripts/datasets/audit-data-quality.ts",
     "ssg:audit-bundles": "npx tsx scripts/ssg/audit-bundle-architecture.ts",
     "ssg:prepare": "npm run ssg:prepare-bundles && npm run ssg:audit-bundles",
     "ssg:build-hubs": "npx tsx scripts/ssg/build-hub-bundles.ts",

@@ -72,6 +72,12 @@ export interface InmetroData {
   cilindradaCc: number | null;
   classificacaoEnergetica: string | null;
   fonte: 'inmetro-pbev';
+  matchKey?: string;
+  edicaoId?: string;
+  anoReferencia?: number;
+  matchTier?: 'exact' | 'trim' | 'family_prefix';
+  confidence?: number;
+  matchedBy?: string;
 }
 
 export interface SpecsData {

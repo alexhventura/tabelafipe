@@ -1,3 +1,4 @@
+import { formatVehicleTitle } from '../../src/lib/display.ts';
 import { SITE_URL, buildCanonicalPath, buildCanonicalUrl } from './canonical-url.js';
 import type { FaqItem, VehiclePageSeo } from './vehicle-bundle-types.js';
 
@@ -15,6 +16,7 @@ export interface SeoBundleInput {
   marcaSlug: string;
   displayName: string;
   ano: number;
+  displayYear?: { label: string; kind: string; year?: number };
   fipeCodigo: string;
   valorAtual: number;
   pageSlug: string;
@@ -22,11 +24,20 @@ export interface SeoBundleInput {
   faq: FaqItem[];
 }
 
+function vehicleTitle(input: SeoBundleInput): string {
+  return formatVehicleTitle(input.displayName, {
+    displayYear: input.displayYear,
+    ano: input.ano,
+    anoModelo: input.ano,
+  });
+}
+
 function productJsonLd(input: SeoBundleInput, canonical: string): Record<string, unknown> {
+  const title = vehicleTitle(input);
   return {
     '@context': 'https://schema.org',
     '@type': 'Product',
-    name: `${input.displayName} ${input.ano}`,
+    name: title,
     brand: { '@type': 'Brand', name: input.marca },
     sku: input.fipeCodigo,
     url: canonical,
@@ -44,7 +55,7 @@ function breadcrumbJsonLd(input: SeoBundleInput, canonicalPath: string): Record<
   const items = [
     { '@type': 'ListItem', position: 1, name: 'FIPE', item: `${SITE_URL}/fipe/` },
     { '@type': 'ListItem', position: 2, name: input.marca, item: `${SITE_URL}/fipe/${input.marcaSlug}/` },
-    { '@type': 'ListItem', position: 3, name: `${input.displayName} ${input.ano}`, item: `${SITE_URL}${canonicalPath}` },
+    { '@type': 'ListItem', position: 3, name: vehicleTitle(input), item: `${SITE_URL}${canonicalPath}` },
   ];
   return {
     '@context': 'https://schema.org',
@@ -70,10 +81,11 @@ export function buildVehicleSeo(input: SeoBundleInput): VehiclePageSeo {
   const canonicalPath = buildCanonicalPath(input.marca, input.pageSlug);
   const canonical = buildCanonicalUrl(input.marca, input.pageSlug);
   const valor = formatBRL(input.valorAtual);
-  const title = `${input.displayName} ${input.ano} — Tabela FIPE | ${valor}`;
+  const titleName = vehicleTitle(input);
+  const title = `${titleName} — Tabela FIPE | ${valor}`;
   const specsBit = input.specsLine ? ` ${input.specsLine}.` : '';
-  const description = `Consulte o preço FIPE do ${input.displayName} ${input.ano} (código ${input.fipeCodigo}): ${valor}.${specsBit} Histórico, ficha técnica e veículos relacionados.`;
-  const h1 = `${input.displayName} ${input.ano}`;
+  const description = `Consulte o preço FIPE do ${titleName} (código ${input.fipeCodigo}): ${valor}.${specsBit} Histórico, ficha técnica e veículos relacionados.`;
+  const h1 = titleName;
   const og = {
     'og:type': 'article',
     'og:title': title,
@@ -93,7 +105,7 @@ export function buildVehicleSeo(input: SeoBundleInput): VehiclePageSeo {
   const breadcrumb = [
     { name: 'FIPE', path: '/fipe/' },
     { name: input.marca, path: `/fipe/${input.marcaSlug}/` },
-    { name: `${input.displayName} ${input.ano}`, path: canonicalPath },
+    { name: titleName, path: canonicalPath },
   ];
   return { title, description, h1, canonical, canonicalPath, og, twitter, jsonLd, breadcrumb };
 }

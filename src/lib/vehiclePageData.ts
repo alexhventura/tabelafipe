@@ -5,6 +5,9 @@ import {
   formatYearWithPrefix,
   getIdentityDisplayYear,
 } from './displayYear';
+import { formatVehicleTitle, sanitizeDisplayText } from './display';
+import { buildConsumoRows, formatConsumoResumo } from './consumoDisplay';
+import { normalizeFuelType } from './fuelType';
 import { extractFamilyName, modeloTokens } from './modelFamily';
 
 export interface QuickCard {
@@ -92,7 +95,6 @@ export function computeHistoricoStats(historico: HistoricoPonto[]): HistoricoSta
 export function buildQuickCards(bundle: VehiclePageBundle): QuickCard[] {
   const specs = bundle.specs as Record<string, unknown> | null;
   const engine = bundle.engine?.entity as Record<string, unknown> | null;
-  const inmetro = bundle.inmetro;
   const cards: QuickCard[] = [];
 
   const potencia = specs?.potenciaCv ?? engine?.potencia;
@@ -107,8 +109,11 @@ export function buildQuickCards(bundle: VehiclePageBundle): QuickCard[] {
     (engine?.cambio as string);
   if (cambio) cards.push({ label: 'Transmissão', value: String(cambio) });
 
-  const consumo = inmetro?.consumoCidade as number | undefined;
-  if (consumo) cards.push({ label: 'Consumo cidade', value: `${consumo} km/l` });
+  const consumoResumo = formatConsumoResumo(bundle);
+  if (consumoResumo) {
+    const label = normalizeFuelType(bundle.identity.combustivel) === 'eletrico' ? 'Eficiência' : 'Consumo cidade';
+    cards.push({ label, value: consumoResumo.replace(/^[^:]+:\s*/, '') });
+  }
 
   const portaMalas = specs?.portaMalasL as number | undefined;
   if (portaMalas) cards.push({ label: 'Porta-malas', value: `${portaMalas} L` });
@@ -127,7 +132,6 @@ export function buildQuickCards(bundle: VehiclePageBundle): QuickCard[] {
 export function buildSpecGroups(bundle: VehiclePageBundle): SpecGroup[] {
   const specs = bundle.specs as Record<string, unknown> | null;
   const engine = bundle.engine?.entity as Record<string, unknown> | null;
-  const inmetro = bundle.inmetro;
   const groups: SpecGroup[] = [];
 
   const motorRows: { label: string; value: string }[] = [];
@@ -157,16 +161,6 @@ export function buildSpecGroups(bundle: VehiclePageBundle): SpecGroup[] {
   if (engine?.capacidadeOleoL) capRows.push({ label: 'Óleo (motor)', value: `${engine.capacidadeOleoL} L` });
   if (capRows.length) groups.push({ title: 'Capacidades', rows: capRows });
 
-  const consRows: { label: string; value: string }[] = [];
-  if (inmetro?.consumoCidade) consRows.push({ label: 'Cidade (gasolina)', value: `${inmetro.consumoCidade} km/l` });
-  if (inmetro?.consumoEstrada) consRows.push({ label: 'Estrada (gasolina)', value: `${inmetro.consumoEstrada} km/l` });
-  if (inmetro?.consumoCidadeEtanol) consRows.push({ label: 'Cidade (etanol)', value: `${inmetro.consumoCidadeEtanol} km/l` });
-  if (inmetro?.consumoEstradaEtanol) consRows.push({ label: 'Estrada (etanol)', value: `${inmetro.consumoEstradaEtanol} km/l` });
-  if (inmetro?.classificacaoEnergetica) {
-    consRows.push({ label: 'Classificação INMETRO', value: String(inmetro.classificacaoEnergetica) });
-  }
-  if (consRows.length) groups.push({ title: 'Consumo', rows: consRows });
-
   const perfRows: { label: string; value: string }[] = [];
   if (specs?.aceleracao0a100) perfRows.push({ label: '0–100 km/h', value: `${specs.aceleracao0a100} s` });
   if (specs?.velocidadeMaxKmh) perfRows.push({ label: 'Velocidade máxima', value: `${specs.velocidadeMaxKmh} km/h` });
@@ -174,6 +168,8 @@ export function buildSpecGroups(bundle: VehiclePageBundle): SpecGroup[] {
 
   return groups;
 }
+
+export { buildConsumoRows } from './consumoDisplay';
 
 export function buildMaintenanceRows(bundle: VehiclePageBundle): { label: string; value: string }[] {
   const m = bundle.maintenance as Record<string, unknown> | null;
@@ -376,10 +372,17 @@ export function buildEnhancedFaq(bundle: VehiclePageBundle): FaqItem[] {
   }
 
   if (inmetro?.consumoCidade) {
-    generated.push({
-      pergunta: `Qual o consumo do ${nome}${anoTxt}?`,
-      resposta: `O consumo homologado no INMETRO é de ${inmetro.consumoCidade} km/l na cidade e ${inmetro.consumoEstrada ?? '—'} km/l na estrada (gasolina).`,
-    });
+    const consumoRows = buildConsumoRows(bundle);
+    const resumo = consumoRows
+      .filter((r) => !['Classificação INMETRO', 'Combustível', 'Propulsão'].includes(r.label))
+      .map((r) => `${r.label}: ${r.value}`)
+      .join('; ');
+    if (resumo) {
+      generated.push({
+        pergunta: `Qual o consumo do ${nome}${anoTxt}?`,
+        resposta: `Dados homologados no INMETRO (PBEV): ${resumo}.`,
+      });
+    }
   }
 
   generated.push({
@@ -437,7 +440,8 @@ function buildUsedCarFaqAnswer(
     );
   }
   if (bundle.inmetro?.consumoCidade) {
-    parts.push(`O consumo homologado na cidade é de ${bundle.inmetro.consumoCidade} km/l.`);
+    const resumo = formatConsumoResumo(bundle);
+    if (resumo) parts.push(`${resumo}.`);
   }
   if (bundle.safety?.notaGeral != null) {
     parts.push(`Em segurança, registra nota ${bundle.safety.notaGeral} no Latin NCAP.`);
@@ -517,12 +521,17 @@ export function buildSeoArticle(bundle: VehiclePageBundle): string | null {
   }
 
   if (inmetro?.consumoCidade) {
-    paragraphs.push(
-      `Em eficiência energética, o INMETRO homologa consumo de ${inmetro.consumoCidade} km/l na cidade` +
-        (inmetro.consumoEstrada ? ` e ${inmetro.consumoEstrada} km/l na estrada` : '') +
-        (inmetro.classificacaoEnergetica ? `, com classificação ${inmetro.classificacaoEnergetica}` : '') +
-        `. Esses números são úteis para estimar custo de uso diário e comparar com rivais da mesma categoria.`,
-    );
+    const rows = buildConsumoRows(bundle)
+      .filter((r) => !['Classificação INMETRO', 'Combustível', 'Propulsão'].includes(r.label))
+      .map((r) => `${r.label.toLowerCase()}: ${r.value}`)
+      .join(', ');
+    if (rows) {
+      paragraphs.push(
+        `Em eficiência energética, o INMETRO homologa ${rows}` +
+          (inmetro.classificacaoEnergetica ? `, com classificação ${inmetro.classificacaoEnergetica}` : '') +
+          `. Esses números são úteis para estimar custo de uso diário e comparar com rivais da mesma categoria.`,
+      );
+    }
   }
 
   if (engine?.engineNome || platform?.platformNome) {
@@ -554,6 +563,8 @@ export function buildSeoArticle(bundle: VehiclePageBundle): string | null {
 }
 
 export function categoryConsumoHint(bundle: VehiclePageBundle): string | null {
+  const fuel = normalizeFuelType(bundle.identity.combustivel);
+  if (fuel === 'eletrico' || fuel === 'hibrido' || fuel === 'hibrido_plug_in') return null;
   const consumo = bundle.inmetro?.consumoCidade as number | undefined;
   if (!consumo) return null;
   const mediaEstimada = 11.5;

@@ -1,6 +1,8 @@
 import fs from 'fs';
 import path from 'path';
 import { resolveDisplayYear } from '../../src/lib/displayYear.ts';
+import { formatVehicleDisplayName } from '../../src/lib/display.ts';
+import { consumoMetricProfile } from '../../src/lib/fuelType.ts';
 import { PATHS } from '../lib/fipe-paths.js';
 import { normalizeVehicle } from '../lib/enrichment/matching-engine.js';
 import { loadGenerationsCatalog, resolveGeneration } from '../lib/enrichment/generation-match.js';
@@ -8,6 +10,7 @@ import { SourceRegistry } from '../lib/enrichment/source-loaders.js';
 import type { FipeVehicle, HistoricoPonto, NormalizedVehicle } from '../lib/enrichment/types.js';
 import { marcaSlug, slugify } from '../lib/fipe-slug.js';
 import { buildCanonicalPath, buildPageSlug } from './canonical-url.js';
+import { buildBundleProvenance } from './build-bundle-provenance.js';
 import { buildVehicleSeo, formatBRL, formatPct } from './seo-builder.js';
 import { runVehicleBundleAudit } from './audit-bundle-architecture.js';
 import type {
@@ -17,21 +20,25 @@ import type {
   VehiclePageSectionFlags,
   VehicleRelatedLinks,
 } from './vehicle-bundle-types.js';
+import type { BundleProvenance } from '../lib/provenance.js';
 
 interface CliOptions {
   limit: number;
   dryRun: boolean;
+  marca?: string;
 }
 
 function parseArgs(): CliOptions {
   const args = process.argv.slice(2);
   let limit = 0;
   let dryRun = false;
+  let marca: string | undefined;
   for (let i = 0; i < args.length; i++) {
     if (args[i] === '--limit' && args[i + 1]) limit = Number(args[++i]) || 0;
     if (args[i] === '--dry-run') dryRun = true;
+    if (args[i] === '--marca' && args[i + 1]) marca = args[++i]?.toLowerCase();
   }
-  return { limit, dryRun };
+  return { limit, dryRun, marca };
 }
 
 function loadJson<T>(file: string): T {
@@ -59,8 +66,7 @@ function computeTrend(historico: HistoricoPonto[], months: number): number | nul
 }
 
 function displayName(marca: string, modelo: string, nome?: string): string {
-  if (nome) return nome.replace(/\s*\(\d{4}\)\s*$/, '').trim();
-  return `${marca} ${modelo}`.trim();
+  return formatVehicleDisplayName(marca, modelo, nome);
 }
 
 function priceBand(valor: number): string {
@@ -229,9 +235,14 @@ function computeSections(bundle: Omit<VehiclePageBundle, 'sections'>): VehiclePa
 
 async function main() {
   const started = Date.now();
-  const { limit, dryRun } = parseArgs();
+  const { limit, dryRun, marca } = parseArgs();
 
-  const catalogVehicles = loadJson<FipeVehicle[]>(PATHS.srcVeiculos).map((v) => normalizeVehicle(v));
+  let catalogVehicles = loadJson<FipeVehicle[]>(PATHS.srcVeiculos).map((v) => normalizeVehicle(v));
+  if (marca) {
+    catalogVehicles = catalogVehicles.filter(
+      (v) => v.marcaSlug === marca || v.marca.toLowerCase() === marca,
+    );
+  }
   const vehicles = limit > 0 ? catalogVehicles.slice(0, limit) : catalogVehicles;
 
   const specsMaster = loadJson<{ veiculos: Record<string, Record<string, unknown>> }>(PATHS.specsMaster).veiculos;
@@ -383,7 +394,10 @@ async function main() {
     const specs = specsFromMaster && hasSpecs(specsFromMaster as unknown as Record<string, unknown>) ? specsFromMaster : mfrSpecs;
 
     const staticMatch = registry.matchStaticSpecs(v.id);
-    const inmetro = registry.matchInmetro(v.marca, v.modelo) ?? staticMatch.inmetro;
+    const inmetroRaw = registry.matchInmetro(v.marca, v.modelo) ?? staticMatch.inmetro;
+    const inmetro = inmetroRaw
+      ? { ...inmetroRaw, metricProfile: consumoMetricProfile(v.combustivel) }
+      : null;
 
     const engineEntity = eg?.engine_id ? engineMasterMap.get(eg.engine_id) ?? null : null;
     const platformEntity = pg?.platform_id ? platformGraph.plataformas[pg.platform_id] ?? null : null;
@@ -408,6 +422,19 @@ async function main() {
     const safety = registry.matchSafety(v.marca, v.modelo, v.ano);
     const recalls = registry.matchRecalls(v.marca, v.modelo, v.ano);
     const warranty = registry.matchWarranty(v.marca);
+
+    const provenance: BundleProvenance = buildBundleProvenance({
+      valorAtual,
+      mesReferencia,
+      specs,
+      inmetro,
+      safety,
+      recalls,
+      warranty,
+      engineEntity,
+      specRec,
+      combustivel: v.combustivel,
+    });
 
     const related: VehicleRelatedLinks = {
       mesmaGeracao: pickRelated(rel?.mesma_geracao ?? [], v.id, meta),
@@ -435,11 +462,13 @@ async function main() {
     });
 
     const specsLine = specs?.potenciaCv ? `${specs.potenciaCv} cv` : undefined;
+    const displayYear = resolveDisplayYear(v.ano);
     const seo = buildVehicleSeo({
       marca: v.marca,
       marcaSlug: vm.marcaSlug,
       displayName: display,
       ano: v.ano,
+      displayYear,
       fipeCodigo: v.fipeCodigo,
       valorAtual,
       pageSlug: vm.pageSlug,
@@ -498,6 +527,7 @@ async function main() {
       safety,
       recalls,
       warranty,
+      provenance,
       related,
       faq,
       seo,

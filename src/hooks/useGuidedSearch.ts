@@ -14,8 +14,28 @@ import {
   groupHubVersions,
 } from '../lib/guidedSearch';
 import { loadMarcas, type SeoMarca } from '../lib/seo-data';
+import { buildBrandsFromFamilies } from '../lib/brandIndex';
 
 let sharedFamilyCatalog: FamilyCatalog | null = null;
+
+async function loadMarcasFromFamilies(): Promise<GuidedMarca[]> {
+  const catalog = await getFamilyCatalog();
+  if (!catalog) return [];
+  await catalog.loadAllShards();
+  return buildBrandsFromFamilies(catalog.getFlatIndex()).map((b) => ({
+    slug: b.slug,
+    nome: b.nome,
+    tipo: b.tipo,
+    totalModelos: b.familyCount,
+    totalVeiculos: b.vehicleCount,
+  }));
+}
+
+async function loadAllMarcas(): Promise<GuidedMarca[]> {
+  const seo = await loadMarcas();
+  if (seo.length > 0) return seo.map(toGuidedMarca);
+  return loadMarcasFromFamilies();
+}
 
 async function getFamilyCatalog(): Promise<FamilyCatalog | null> {
   if (sharedFamilyCatalog) return sharedFamilyCatalog;
@@ -58,8 +78,8 @@ export function useGuidedSearch(tipo: VehicleTipo) {
 
   useEffect(() => {
     setMarcasLoading(true);
-    loadMarcas()
-      .then((all) => setMarcas(all.map(toGuidedMarca)))
+    loadAllMarcas()
+      .then(setMarcas)
       .finally(() => setMarcasLoading(false));
   }, []);
 

@@ -12,6 +12,7 @@ import { inferCategoriaPecas } from './derived-metrics.js';
 import { buildDerivedMetrics, buildSegmentPriceIndex } from './derived-metrics.js';
 import { buildVehicleRelationIndex } from './derived-attributes.js';
 import { SourceRegistry } from './source-loaders.js';
+import { formatVehicleDisplayName } from '../../../src/lib/display.ts';
 
 const PIPELINE_VERSION = 1;
 
@@ -124,7 +125,7 @@ export class VehicleEnrichmentEngine {
     return {
       vehicle: {
         ...v,
-        nome: `${v.marca} ${v.modelo} (${v.ano === 0 ? 'Zero KM' : v.ano})`,
+        nome: formatVehicleDisplayName(v.marca, v.modelo, `${v.marca} ${v.modelo} (${v.ano === 0 ? 'Zero KM' : v.ano})`),
         anoModelo: v.ano,
         valorAtual: v.valor,
         historicoPrecos,

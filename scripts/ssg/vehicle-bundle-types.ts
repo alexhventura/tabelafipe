@@ -97,6 +97,7 @@ export interface VehiclePageBundle {
   safety: SafetyData | null;
   recalls: RecallData | null;
   warranty: WarrantyData | null;
+  provenance?: Record<string, import('../lib/provenance.js').FieldProvenance>;
   sections: VehiclePageSectionFlags;
   related: VehicleRelatedLinks;
   faq: FaqItem[];

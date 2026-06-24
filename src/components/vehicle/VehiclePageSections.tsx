@@ -8,6 +8,7 @@ import { historicoToChartData } from '../../lib/bundle';
 import ShareButtons from './ShareButtons';
 import {
   buildEnhancedFaq,
+  buildConsumoRows,
   buildInternalNav,
   buildMaintenanceRows,
   buildQuickCards,
@@ -19,6 +20,8 @@ import {
   pickConcorrentes,
   pickOutrasVersoes,
 } from '../../lib/vehiclePageData';
+import { formatInmetroSourceLine, buildProvenanceDisplayRows } from '../../lib/provenance';
+import { formatVehicleTitle, sanitizeDisplayText } from '../../lib/display';
 
 const PriceChart = lazy(() => import('./PriceChart'));
 
@@ -85,7 +88,6 @@ interface Props {
 export default function VehiclePageSections({ bundle }: Props) {
   const { identity, fipe } = bundle;
   const specs = bundle.specs as Record<string, unknown> | null;
-  const inmetro = bundle.inmetro;
   const safety = bundle.safety;
   const recalls = bundle.recalls;
   const warranty = bundle.warranty;
@@ -100,11 +102,18 @@ export default function VehiclePageSections({ bundle }: Props) {
   const seoArticle = useMemo(() => buildSeoArticle(bundle), [bundle]);
   const faqItems = useMemo(() => buildEnhancedFaq(bundle), [bundle]);
   const consumoHint = useMemo(() => categoryConsumoHint(bundle), [bundle]);
+  const consumoRows = useMemo(() => buildConsumoRows(bundle), [bundle]);
+  const provenanceRows = useMemo(() => buildProvenanceDisplayRows(bundle), [bundle]);
+  const inmetroSourceLine = useMemo(() => formatInmetroSourceLine(bundle), [bundle]);
   const sourcesLine = useMemo(() => formatCompactSourcesLine(bundle), [bundle]);
 
   const variacao12m =
     historicoStats?.variacao12m ?? (fipe.trend6m != null ? fipe.trend6m * 2 : null);
 
+  const pageTitle = useMemo(
+    () => sanitizeDisplayText(bundle.seo?.h1) || formatVehicleTitle(identity.displayName, identity),
+    [bundle.seo?.h1, identity],
+  );
   const identityYear = getIdentityDisplayYear(identity);
   const heroMetaLine = [
     identity.combustivel,
@@ -119,7 +128,7 @@ export default function VehiclePageSections({ bundle }: Props) {
       <header className="space-y-2">
         <div className="bg-gradient-to-br from-slate-900 to-slate-800 text-white rounded-2xl p-4 sm:p-5 space-y-3">
           <div className="space-y-0.5">
-            <h1 className="text-lg sm:text-xl font-bold leading-snug line-clamp-2">{identity.displayName}</h1>
+            <h1 className="text-lg sm:text-xl font-bold leading-snug line-clamp-2">{pageTitle}</h1>
             {heroMetaLine && <p className="text-xs text-slate-400">{heroMetaLine}</p>}
           </div>
 
@@ -240,18 +249,13 @@ export default function VehiclePageSections({ bundle }: Props) {
         </Section>
       )}
 
-      {/* SEÇÃO 6 — EFICIÊNCIA E INMETRO */}
-      {bundle.sections.inmetro && inmetro && (
-        <Section id="sec-inmetro" title="Eficiência e INMETRO">
-          <SpecRows
-            rows={[
-              inmetro.consumoCidade ? { label: 'Consumo cidade', value: `${inmetro.consumoCidade} km/l` } : null,
-              inmetro.consumoEstrada ? { label: 'Consumo estrada', value: `${inmetro.consumoEstrada} km/l` } : null,
-              inmetro.classificacaoEnergetica
-                ? { label: 'Classificação energética', value: String(inmetro.classificacaoEnergetica) }
-                : null,
-            ].filter(Boolean) as { label: string; value: string }[]}
-          />
+      {/* SEÇÃO 6 — CONSUMO E EFICIÊNCIA ENERGÉTICA */}
+      {bundle.sections.inmetro && consumoRows.length > 0 && (
+        <Section id="sec-consumo" title="Consumo e eficiência energética">
+          <SpecRows rows={consumoRows} />
+          {inmetroSourceLine && (
+            <p className="text-xs text-slate-500 px-1 leading-relaxed">{inmetroSourceLine}</p>
+          )}
           {consumoHint && <p className="text-xs text-slate-500 px-1">{consumoHint}</p>}
         </Section>
       )}
@@ -327,6 +331,24 @@ export default function VehiclePageSections({ bundle }: Props) {
               </Link>
             ))}
           </div>
+        </Section>
+      )}
+
+      {/* FONTES E CONFIABILIDADE */}
+      {provenanceRows.length > 0 && (
+        <Section id="sec-provenance" title="Fontes e confiabilidade dos dados">
+          <dl className="bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 rounded-2xl p-5 text-sm divide-y divide-slate-100 dark:divide-slate-800">
+            {provenanceRows.map((row) => (
+              <div key={row.field} className="py-3 first:pt-0 last:pb-0 space-y-1">
+                <dt className="font-semibold text-slate-900 dark:text-white">{row.label}</dt>
+                <dd className="text-slate-600 dark:text-slate-300">
+                  <span className="block">Fonte: {row.source}</span>
+                  <span className="block">Confiabilidade: {row.confidence}</span>
+                  {row.note && <span className="block text-xs text-slate-500 mt-0.5">{row.note}</span>}
+                </dd>
+              </div>
+            ))}
+          </dl>
         </Section>
       )}
 

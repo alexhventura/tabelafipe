@@ -6,7 +6,7 @@ import path from 'path';
 import { PATHS } from '../fipe-paths.js';
 import { manufacturerMatchKey } from './matching-engine.js';
 import { marcaSlug } from '../fipe-slug.js';
-import { buildInmetroMatchIndex, matchInmetroForVehicle, type InmetroMatchable } from './inmetro-match.js';
+import { buildInmetroMatchIndex, matchInmetroForVehicleWithMeta, type InmetroMatchable } from './inmetro-match.js';
 import type { HistoricoMetricas, HistoricoPonto, InmetroData, MarketData, RecallData, SafetyData, SpecsData, WarrantyData } from './types.js';
 
 interface ManufacturerRecord {
@@ -73,6 +73,8 @@ type NormalizedInmetroRow = InmetroMatchable & {
   consumoCidadeEtanol?: number;
   consumoEstradaEtanol?: number;
   classificacaoEnergetica?: string;
+  edicaoId?: string;
+  anoReferencia?: number;
 };
 
 interface StaticSpecRecord {
@@ -202,8 +204,12 @@ export class SourceRegistry {
   }
 
   matchInmetro(marca: string, modelo: string): InmetroData | null {
-    const p = matchInmetroForVehicle(marca, modelo, this.pbevIndex) as NormalizedInmetroRow | null;
-    if (!p) return null;
+    const hit = matchInmetroForVehicleWithMeta(marca, modelo, this.pbevIndex) as {
+      record: NormalizedInmetroRow;
+      meta: { matchKey: string; tier: 'exact' | 'trim' | 'family_prefix'; confidence: number; matchedBy: string };
+    } | null;
+    if (!hit) return null;
+    const p = hit.record;
     return {
       consumoCidade: p.consumoCidade ?? null,
       consumoEstrada: p.consumoEstrada ?? null,
@@ -213,6 +219,12 @@ export class SourceRegistry {
       cilindradaCc: null,
       classificacaoEnergetica: p.classificacaoEnergetica ?? null,
       fonte: 'inmetro-pbev',
+      matchKey: hit.meta.matchKey,
+      edicaoId: p.edicaoId,
+      anoReferencia: p.anoReferencia,
+      matchTier: hit.meta.tier,
+      confidence: hit.meta.confidence,
+      matchedBy: hit.meta.matchedBy,
     };
   }
 
