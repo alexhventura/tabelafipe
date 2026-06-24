@@ -253,16 +253,18 @@ function main() {
     m.vehicles.push(v);
     if (!m.tipo && v.tipo) m.tipo = v.tipo;
 
-    if (!marcas.has(mSlug)) {
-      marcas.set(mSlug, {
+    const marcaKey = `${v.tipo || 'carros'}|${mSlug}`;
+
+    if (!marcas.has(marcaKey)) {
+      marcas.set(marcaKey, {
         slug: mSlug,
         nome: v.marca,
-        tipo: v.tipo,
+        tipo: v.tipo || 'carros',
         totalVeiculos: 0,
         modelosMap: new Map(),
       });
     }
-    const marca = marcas.get(mSlug);
+    const marca = marcas.get(marcaKey);
     marca.totalVeiculos++;
     if (!marca.tipo && v.tipo) marca.tipo = v.tipo;
     if (!marca.modelosMap.has(modSlug)) {

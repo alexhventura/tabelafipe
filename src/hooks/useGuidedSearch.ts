@@ -31,10 +31,31 @@ async function loadMarcasFromFamilies(): Promise<GuidedMarca[]> {
   }));
 }
 
+function mergeGuidedMarcas(...lists: GuidedMarca[][]): GuidedMarca[] {
+  const map = new Map<string, GuidedMarca>();
+  for (const list of lists) {
+    for (const marca of list) {
+      const key = `${marca.tipo}|${marca.slug}`;
+      const existing = map.get(key);
+      if (!existing || marca.totalVeiculos > existing.totalVeiculos) {
+        map.set(key, marca);
+      }
+    }
+  }
+  return [...map.values()];
+}
+
 async function loadAllMarcas(): Promise<GuidedMarca[]> {
-  const seo = await loadMarcas();
-  if (seo.length > 0) return seo.map(toGuidedMarca);
-  return loadMarcasFromFamilies();
+  const [fromFamilies, seo] = await Promise.all([
+    loadMarcasFromFamilies(),
+    loadMarcas()
+      .then((rows) => rows.map(toGuidedMarca))
+      .catch(() => [] as GuidedMarca[]),
+  ]);
+  if (fromFamilies.length > 0) {
+    return mergeGuidedMarcas(fromFamilies, seo);
+  }
+  return seo;
 }
 
 async function getFamilyCatalog(): Promise<FamilyCatalog | null> {

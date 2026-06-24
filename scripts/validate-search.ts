@@ -15,6 +15,7 @@ import {
   formatBrandLabel,
 } from '../src/lib/search.ts';
 import type { FamilySearchItem, SearchIndexItem, SearchSuggestion } from '../src/types.ts';
+import { buildBrandsFromFamilies } from '../src/lib/brandIndex.ts';
 
 function loadFamilies(): FamilySearchItem[] {
   const dir = path.join(process.cwd(), 'public', 'data', 'fipe', 'search');
@@ -311,7 +312,25 @@ function main() {
   }
 
   console.log(`\n${passed}/${CASES.length} casos passaram | limite autocomplete: ${AUTOCOMPLETE_LIMIT}\n`);
-  process.exit(passed === CASES.length ? 0 : 1);
+
+  const brandCounts = buildBrandsFromFamilies(fullFamilies).reduce(
+    (acc, brand) => {
+      acc[brand.tipo] = (acc[brand.tipo] ?? 0) + 1;
+      return acc;
+    },
+    {} as Record<string, number>,
+  );
+  const minCarros = 100;
+  const minMotos = 90;
+  const minCaminhoes = 25;
+  const okBrands =
+    (brandCounts.carros ?? 0) >= minCarros &&
+    (brandCounts.motos ?? 0) >= minMotos &&
+    (brandCounts.caminhoes ?? 0) >= minCaminhoes;
+  console.log(
+    `${okBrands ? 'OK' : 'FAIL'} Cobertura de montadoras -> carros: ${brandCounts.carros ?? 0} (min ${minCarros}), motos: ${brandCounts.motos ?? 0} (min ${minMotos}), caminhoes: ${brandCounts.caminhoes ?? 0} (min ${minCaminhoes})`,
+  );
+  if (!okBrands || passed !== CASES.length) process.exit(1);
 }
 
 main();
