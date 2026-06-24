@@ -9,6 +9,12 @@ import { formatVehicleTitle, sanitizeDisplayText } from './display';
 import { buildConsumoRows, formatConsumoResumo } from './consumoDisplay';
 import { normalizeFuelType } from './fuelType';
 import { extractFamilyName, modeloTokens } from './modelFamily';
+import {
+  inferComparableBodyType,
+  pickTopSimilarVehicles,
+  similarityScore,
+  type SimilarityVehicleInput,
+} from './vehicleSimilarity';
 
 export interface QuickCard {
   label: string;
@@ -235,18 +241,6 @@ export function buildBreadcrumbLeafName(bundle: VehiclePageBundle): string {
   return year ? `${label} ${year}` : label;
 }
 
-function isSameBrand(marcaA: string, marcaB: string): boolean {
-  const norm = (m: string) =>
-    m
-      .toLowerCase()
-      .normalize('NFD')
-      .replace(/[\u0300-\u036f]/g, '')
-      .replace(/[^a-z0-9]/g, '');
-  const a = norm(marcaA);
-  const b = norm(marcaB);
-  return a === b || a.includes(b) || b.includes(a);
-}
-
 function familyTokensFromModelo(modelo: string): string[] {
   const tokens = new Set<string>();
   const primary = extractFamilyName(modelo);
@@ -264,41 +258,60 @@ function isSameModelFamily(displayName: string, tokens: string[]): boolean {
 
 export function pickConcorrentes(bundle: VehiclePageBundle): RelatedLink[] {
   const { identity, fipe } = bundle;
+  const current: SimilarityVehicleInput = {
+    tipo: identity.tipo,
+    modelo: identity.modelo,
+    marca: identity.marca,
+    ano: identity.ano,
+    valorAtual: fipe.valorAtual,
+  };
+
   const tokens = familyTokensFromModelo(identity.modelo);
   const excluded = new Set<string>([identity.vehicleId]);
   for (const v of bundle.related.mesmaFamilia) excluded.add(v.vehicleId);
 
-  const valorRef = fipe.valorAtual;
-  const anoRef = identity.ano;
-  const priceMargin = valorRef > 0 ? valorRef * 0.35 : Infinity;
-
   const pool = [...bundle.related.concorrentes, ...bundle.related.mesmaFaixaPreco];
-  const byId = new Map<string, RelatedLink>();
+  const byId = new Map<string, SimilarityVehicleInput & { vehicleId: string; link: RelatedLink }>();
+
   for (const link of pool) {
-    if (!byId.has(link.vehicleId)) byId.set(link.vehicleId, link);
+    if (byId.has(link.vehicleId)) continue;
+    if (excluded.has(link.vehicleId)) continue;
+    if (isSameModelFamily(link.displayName, tokens)) continue;
+
+    const candidate: SimilarityVehicleInput & { vehicleId: string; link: RelatedLink } = {
+      vehicleId: link.vehicleId,
+      link,
+      tipo: link.tipo ?? identity.tipo,
+      modelo: link.modelo ?? link.displayName.replace(new RegExp(`^${identity.marca}\\s+`, 'i'), '').trim(),
+      marca: link.marca,
+      ano: link.ano,
+      valorAtual: link.valorAtual,
+    };
+
+    if (similarityScore(current, candidate) <= 0) continue;
+    byId.set(link.vehicleId, candidate);
   }
 
-  const candidates = [...byId.values()]
-    .filter((l) => !excluded.has(l.vehicleId))
-    .filter((l) => !isSameBrand(l.marca, identity.marca))
-    .filter((l) => !isSameModelFamily(l.displayName, tokens))
-    .filter((l) => Math.abs(l.ano - anoRef) <= 2)
-    .filter((l) => !valorRef || Math.abs(l.valorAtual - valorRef) <= priceMargin);
+  const ranked = pickTopSimilarVehicles(current, [...byId.values()], {
+    limit: 12,
+    minScore: 50,
+    excludeIds: excluded,
+  });
 
   const groups = new Map<string, RelatedLink>();
-  for (const item of candidates) {
-    const modelKey = item.displayName.toLowerCase().split(/\s+/).slice(0, 2).join(' ');
-    const key = `${item.marca}|${modelKey}`;
+  for (const item of ranked) {
+    const modelKey = item.link.displayName.toLowerCase().split(/\s+/).slice(0, 2).join(' ');
+    const key = `${item.link.marca}|${modelKey}`;
     const existing = groups.get(key);
-    if (!existing || Math.abs(item.ano - anoRef) < Math.abs(existing.ano - anoRef)) {
-      groups.set(key, item);
+    if (!existing || Math.abs(item.ano - identity.ano) < Math.abs(existing.ano - identity.ano)) {
+      groups.set(key, item.link);
     }
   }
 
-  return [...groups.values()]
-    .sort((a, b) => Math.abs(a.ano - anoRef) - Math.abs(b.ano - anoRef) || a.valorAtual - b.valorAtual)
-    .slice(0, 6);
+  return [...groups.values()].slice(0, 6);
 }
+
+export { inferComparableBodyType, similarityScore };
 
 export function buildInternalNav(bundle: VehiclePageBundle): InternalNavLink[] {
   const { marcaSlug, modelo } = bundle.identity;

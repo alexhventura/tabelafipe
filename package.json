@@ -119,6 +119,7 @@
     "ssg:search-journey-audit": "npx tsx scripts/ssg/search-journey-audit.ts",
     "ssg:mobile-audit": "npx tsx scripts/ssg/mobile-responsive-audit.ts",
     "validate:search": "npx tsx scripts/validate-search.ts",
+    "validate:similarity": "npx tsx scripts/validate-similarity.ts",
     "report:search": "npx tsx scripts/search-optimization-report.ts"
   },
   "dependencies": {

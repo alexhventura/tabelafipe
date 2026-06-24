@@ -6,6 +6,8 @@ export interface RelatedLink {
   canonicalPath: string;
   ano: number;
   marca: string;
+  modelo?: string;
+  tipo?: string;
   displayYear?: DisplayYear;
 }
 

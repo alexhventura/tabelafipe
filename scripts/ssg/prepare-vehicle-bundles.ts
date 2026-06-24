@@ -1,7 +1,13 @@
 import fs from 'fs';
 import path from 'path';
 import { resolveDisplayYear } from '../../src/lib/displayYear.ts';
+import {
+  inferComparableBodyType,
+  pickTopSimilarVehicles,
+  type SimilarityVehicleInput,
+} from '../../src/lib/vehicleSimilarity.ts';
 import { formatVehicleDisplayName } from '../../src/lib/display.ts';
+import { extractFamilyName } from '../../src/lib/modelFamily.ts';
 import { consumoMetricProfile } from '../../src/lib/fuelType.ts';
 import { PATHS } from '../lib/fipe-paths.js';
 import { normalizeVehicle } from '../lib/enrichment/matching-engine.js';
@@ -171,11 +177,79 @@ function pickRelated(ids: string[], selfId: string, meta: Map<string, VehicleMet
       canonicalPath: m.canonicalPath,
       ano: m.ano,
       marca: m.marca,
+      modelo: m.modelo,
+      tipo: m.tipo,
       displayYear: resolveDisplayYear(m.ano),
     });
     if (out.length >= max) break;
   }
   return out;
+}
+
+function pickScoredConcorrentes(
+  selfId: string,
+  vm: VehicleMeta,
+  meta: Map<string, VehicleMeta>,
+  segmentBandIndex: Map<string, string[]>,
+  segmentIndex: Map<string, string[]>,
+  limit = 12,
+): RelatedLink[] {
+  const body = inferComparableBodyType(vm.tipo, vm.modelo);
+  const bandKey = `${vm.tipo}|${body}|${vm.band}`;
+  const segmentKey = `${vm.tipo}|${body}`;
+  const pool = segmentBandIndex.get(bandKey) ?? segmentIndex.get(segmentKey) ?? [];
+  const current: SimilarityVehicleInput = {
+    tipo: vm.tipo,
+    modelo: vm.modelo,
+    marca: vm.marca,
+    ano: vm.ano,
+    valorAtual: vm.valorAtual,
+  };
+
+  const currentFamily = extractFamilyName(vm.modelo);
+
+  const candidates = pool
+    .filter((id) => id !== selfId)
+    .map((id) => meta.get(id))
+    .filter((m): m is VehicleMeta => !!m)
+    .filter((m) => extractFamilyName(m.modelo) !== currentFamily)
+    .filter((m) => Math.abs(m.ano - vm.ano) <= 3)
+    .filter((m) => {
+      if (!vm.valorAtual || !m.valorAtual) return true;
+      return Math.abs(m.valorAtual - vm.valorAtual) / Math.max(m.valorAtual, vm.valorAtual) <= 0.3;
+    })
+    .sort((a, b) => {
+      const priceDiff =
+        Math.abs(a.valorAtual - vm.valorAtual) - Math.abs(b.valorAtual - vm.valorAtual);
+      const yearDiff = Math.abs(a.ano - vm.ano) - Math.abs(b.ano - vm.ano);
+      return priceDiff || yearDiff;
+    })
+    .slice(0, 120)
+    .map((m) => ({
+      vehicleId: m.vehicleId,
+      fipeCodigo: m.fipeCodigo,
+      displayName: m.displayName,
+      valorAtual: m.valorAtual,
+      canonicalPath: m.canonicalPath,
+      ano: m.ano,
+      marca: m.marca,
+      modelo: m.modelo,
+      tipo: m.tipo,
+      displayYear: resolveDisplayYear(m.ano),
+    }));
+
+  return pickTopSimilarVehicles(current, candidates, { limit, minScore: 50 }).map((item) => ({
+    vehicleId: item.vehicleId,
+    fipeCodigo: item.fipeCodigo,
+    displayName: item.displayName,
+    valorAtual: item.valorAtual,
+    canonicalPath: item.canonicalPath,
+    ano: item.ano,
+    marca: item.marca,
+    modelo: item.modelo,
+    tipo: item.tipo,
+    displayYear: item.displayYear,
+  }));
 }
 
 interface VehicleMeta {
@@ -296,6 +370,8 @@ async function main() {
   const platformIndex = new Map<string, string[]>();
   const transmissionIndex = new Map<string, string[]>();
   const bandIndex = new Map<string, string[]>();
+  const segmentIndex = new Map<string, string[]>();
+  const segmentBandIndex = new Map<string, string[]>();
 
   for (const v of catalogVehicles) {
     const eg = engineGraph[v.id];
@@ -321,6 +397,17 @@ async function main() {
     const bl = bandIndex.get(bandKey) ?? [];
     bl.push(v.id);
     bandIndex.set(bandKey, bl);
+
+    const body = inferComparableBodyType(m.tipo, m.modelo);
+    const segmentKey = `${m.tipo}|${body}`;
+    const sl = segmentIndex.get(segmentKey) ?? [];
+    sl.push(v.id);
+    segmentIndex.set(segmentKey, sl);
+
+    const segmentBandKey = `${m.tipo}|${body}|${m.band}`;
+    const sbl = segmentBandIndex.get(segmentBandKey) ?? [];
+    sbl.push(v.id);
+    segmentBandIndex.set(segmentBandKey, sbl);
   }
 
   const urlMap: Record<string, { canonicalPath: string; pageSlug: string; bundlePath: string; fipeCodigo: string }> = {};
@@ -443,12 +530,7 @@ async function main() {
       mesmoMotor: pickRelated(eg?.engine_id ? engineIndex.get(eg.engine_id) ?? [] : [], v.id, meta),
       mesmaTransmissao: pickRelated(tg?.transmission_id ? transmissionIndex.get(tg.transmission_id) ?? [] : [], v.id, meta),
       mesmaFaixaPreco: pickRelated(bandIndex.get(`${vm.tipo}|${vm.band}`) ?? [], v.id, meta),
-      concorrentes: pickRelated(
-        (bandIndex.get(`${vm.tipo}|${vm.band}`) ?? []).filter((id) => meta.get(id)?.marcaSlug !== vm.marcaSlug),
-        v.id,
-        meta,
-        5,
-      ),
+      concorrentes: pickScoredConcorrentes(v.id, vm, meta, segmentBandIndex, segmentIndex, 12),
     };
 
     const faq = buildFaq({
