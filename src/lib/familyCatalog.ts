@@ -4,6 +4,8 @@ import { normalizeText } from './modelFamily';
 export interface FamilyManifest {
   total: number;
   shards: string[];
+  /** Mapa `tipo|marcaSlug` → chaves de shard com famílias da montadora. */
+  marcaShards?: Record<string, string[]>;
   geradoEm?: string;
   path?: string;
 }
@@ -21,6 +23,7 @@ interface CompactFamily {
   amin: number;
   amax: number;
   cp?: string;
+  hs?: string;
 }
 
 function expandFamily(row: CompactFamily): FamilySearchItem {
@@ -37,6 +40,7 @@ function expandFamily(row: CompactFamily): FamilySearchItem {
     anoMin: row.amin,
     anoMax: row.amax,
     hubPath: row.cp,
+    hubSlug: row.hs,
   };
 }
 
@@ -97,6 +101,17 @@ export class FamilyCatalog {
   async loadAllShards(): Promise<void> {
     if (!this.manifest?.shards?.length) return;
     await Promise.all(this.manifest.shards.map((key) => this.loadShard(key)));
+  }
+
+  async loadShardsForMarca(marcaSlug: string, tipo: VehicleTipo): Promise<void> {
+    if (!this.manifest) return;
+    const marcaKey = `${tipo}|${normalizeText(marcaSlug)}`;
+    const shardKeys = this.manifest.marcaShards?.[marcaKey];
+    if (shardKeys?.length) {
+      await Promise.all(shardKeys.map((key) => this.loadShard(key)));
+      return;
+    }
+    await this.loadAllShards();
   }
 
   getFamiliesForMarca(marcaSlug: string, tipo?: VehicleTipo): FamilySearchItem[] {

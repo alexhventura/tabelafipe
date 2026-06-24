@@ -216,9 +216,6 @@ export function useSearchIndex(options: UseSearchIndexOptions = {}) {
       if (!metaOk && !flatFallback) {
         flatFallback = await loadFlatFallback();
       }
-      if (familyCatalog) {
-        await familyCatalog.loadAllShards();
-      }
       syncFromCatalog();
     } catch {
       setError('Nao foi possivel carregar o catalogo.');

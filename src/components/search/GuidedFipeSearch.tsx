@@ -116,7 +116,9 @@ export default function GuidedFipeSearch({ tipo, onTipoChange, showTabs = true }
           <>
             <div className="space-y-1">
               <h2 className="text-base font-bold text-slate-900 dark:text-white">Qual a montadora?</h2>
-              <p className="text-xs text-slate-500">{guided.counts.marcas} opções</p>
+              <p className="text-xs text-slate-500 min-h-4">
+                {guided.marcasLoading ? '\u00a0' : `${guided.counts.marcas} opções`}
+              </p>
             </div>
             <StepSearch
               id="guided-marca-search"
@@ -160,7 +162,9 @@ export default function GuidedFipeSearch({ tipo, onTipoChange, showTabs = true }
               <h2 className="text-base font-bold text-slate-900 dark:text-white">
                 Qual o modelo <span className="text-blue-600">{guided.marca.nome}</span>?
               </h2>
-              <p className="text-xs text-slate-500">{guided.counts.modelos} opções</p>
+              <p className="text-xs text-slate-500 min-h-4">
+                {guided.familiesLoading ? '\u00a0' : `${guided.counts.modelos} opções`}
+              </p>
             </div>
             <StepSearch
               id="guided-modelo-search"
@@ -206,7 +210,9 @@ export default function GuidedFipeSearch({ tipo, onTipoChange, showTabs = true }
               <h2 className="text-base font-bold text-slate-900 dark:text-white">
                 Qual a versão do {formatFamilyLabel(guided.modelo)}?
               </h2>
-              <p className="text-xs text-slate-500">{guided.counts.versoes} opções</p>
+              <p className="text-xs text-slate-500 min-h-4">
+                {guided.hubLoading ? '\u00a0' : `${guided.counts.versoes} opções`}
+              </p>
             </div>
             <StepSearch
               id="guided-versao-search"

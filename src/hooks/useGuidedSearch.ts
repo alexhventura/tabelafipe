@@ -8,55 +8,21 @@ import {
   type GuidedVersao,
   type FamilyHubBundle,
   familyHubPath,
+  resolveFamilyHubSlug,
   filterFamilies,
   filterMarcas,
   filterVersions,
   groupHubVersions,
 } from '../lib/guidedSearch';
 import { loadMarcas, type SeoMarca } from '../lib/seo-data';
-import { buildBrandsFromFamilies } from '../lib/brandIndex';
 import { formatBrandName } from '../lib/display';
 
 let sharedFamilyCatalog: FamilyCatalog | null = null;
 
-async function loadMarcasFromFamilies(): Promise<GuidedMarca[]> {
-  const catalog = await getFamilyCatalog();
-  if (!catalog) return [];
-  await catalog.loadAllShards();
-  return buildBrandsFromFamilies(catalog.getFlatIndex()).map((b) => ({
-    slug: b.slug,
-    nome: b.nome,
-    tipo: b.tipo,
-    totalModelos: b.familyCount,
-    totalVeiculos: b.vehicleCount,
-  }));
-}
-
-function mergeGuidedMarcas(...lists: GuidedMarca[][]): GuidedMarca[] {
-  const map = new Map<string, GuidedMarca>();
-  for (const list of lists) {
-    for (const marca of list) {
-      const key = `${marca.tipo}|${marca.slug}`;
-      const existing = map.get(key);
-      if (!existing || marca.totalVeiculos > existing.totalVeiculos) {
-        map.set(key, marca);
-      }
-    }
-  }
-  return [...map.values()];
-}
-
 async function loadAllMarcas(): Promise<GuidedMarca[]> {
-  const [fromFamilies, seo] = await Promise.all([
-    loadMarcasFromFamilies(),
-    loadMarcas()
-      .then((rows) => rows.map(toGuidedMarca))
-      .catch(() => [] as GuidedMarca[]),
-  ]);
-  if (fromFamilies.length > 0) {
-    return mergeGuidedMarcas(fromFamilies, seo);
-  }
-  return seo;
+  return loadMarcas()
+    .then((rows) => rows.map(toGuidedMarca))
+    .catch(() => [] as GuidedMarca[]);
 }
 
 async function getFamilyCatalog(): Promise<FamilyCatalog | null> {
@@ -168,7 +134,7 @@ export function useGuidedSearch(tipo: VehicleTipo) {
         setFamilies([]);
         return;
       }
-      await catalog.loadAllShards();
+      await catalog.loadShardsForMarca(next.slug, tipo);
       setFamilies(catalog.getFamiliesForMarca(next.slug, tipo));
     } finally {
       setFamiliesLoading(false);
@@ -183,7 +149,11 @@ export function useGuidedSearch(tipo: VehicleTipo) {
     setStep('versao');
     setHubLoading(true);
     try {
-      const res = await fetch(familyHubPath(next.marcaSlug, next.familia));
+      const hubSlug = resolveFamilyHubSlug(next);
+      let res = await fetch(familyHubPath(next.marcaSlug, hubSlug));
+      if (!res.ok && hubSlug !== next.familia) {
+        res = await fetch(familyHubPath(next.marcaSlug, next.familia));
+      }
       if (!res.ok) {
         setVersions([]);
         return;

@@ -62,6 +62,8 @@ export interface FamilySearchItem {
   anoMin: number;
   anoMax: number;
   hubPath?: string;
+  /** Slug do hub JSON em /data/hubs/familia/{marca}/{hubSlug}.json */
+  hubSlug?: string;
 }
 
 export interface BrandSearchItem {

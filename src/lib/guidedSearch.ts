@@ -144,8 +144,12 @@ export function filterVersions(versions: GuidedVersao[], query: string): GuidedV
   );
 }
 
-export function familyHubPath(marcaSlug: string, familia: string): string {
-  return `/data/hubs/familia/${marcaSlug}/${familia}.json`;
+export function familyHubPath(marcaSlug: string, hubSlug: string): string {
+  return `/data/hubs/familia/${marcaSlug}/${hubSlug}.json`;
+}
+
+export function resolveFamilyHubSlug(family: Pick<FamilySearchItem, 'familia' | 'hubSlug'>): string {
+  return family.hubSlug ?? family.familia;
 }
 
 export function formatFamilyLabel(family: FamilySearchItem): string {

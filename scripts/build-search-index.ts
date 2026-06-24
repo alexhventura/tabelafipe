@@ -74,20 +74,42 @@ interface CompactFamily {
   amin: number;
   amax: number;
   cp?: string;
+  hs?: string;
 }
 
-function hubPathForFamily(marcaSlugVal: string, familia: string): string | undefined {
-  const hubFile = path.join(PATHS.hubBundlesRoot, 'familia', marcaSlugVal, `${familia}.json`);
-  if (!fs.existsSync(hubFile)) return `/fipe/${marcaSlugVal}/${familia}/`;
+function hubSlugFromVehicleId(
+  vehicleId: string,
+  relations: Record<string, { familia?: string }>,
+): string | undefined {
+  const famKey = relations[vehicleId]?.familia;
+  if (!famKey) return undefined;
+  const [, modSlug] = famKey.split('|');
+  return modSlug || undefined;
+}
+
+function hubPathForFamily(marcaSlugVal: string, hubSlug: string): string | undefined {
+  const hubFile = path.join(PATHS.hubBundlesRoot, 'familia', marcaSlugVal, `${hubSlug}.json`);
+  if (!fs.existsSync(hubFile)) return `/fipe/${marcaSlugVal}/${hubSlug}/`;
   try {
     const hub = JSON.parse(fs.readFileSync(hubFile, 'utf-8')) as { canonicalPath?: string };
-    return hub.canonicalPath ?? `/fipe/${marcaSlugVal}/${familia}/`;
+    return hub.canonicalPath ?? `/fipe/${marcaSlugVal}/${hubSlug}/`;
   } catch {
-    return `/fipe/${marcaSlugVal}/${familia}/`;
+    return `/fipe/${marcaSlugVal}/${hubSlug}/`;
   }
 }
 
-function buildFamilyIndex(index: SearchIndexItem[]): CompactFamily[] {
+function loadRelations(): Record<string, { familia?: string }> {
+  if (!fs.existsSync(PATHS.vehicleRelations)) return {};
+  const data = JSON.parse(fs.readFileSync(PATHS.vehicleRelations, 'utf-8')) as {
+    relations?: Record<string, { familia?: string }>;
+  };
+  return data.relations ?? {};
+}
+
+function buildFamilyIndex(
+  index: SearchIndexItem[],
+  relations: Record<string, { familia?: string }>,
+): CompactFamily[] {
   const groups = new Map<string, CompactFamily>();
 
   for (const item of index) {
@@ -97,8 +119,10 @@ function buildFamilyIndex(index: SearchIndexItem[]): CompactFamily[] {
     const id = `${ms}|${familia}`;
     const existing = groups.get(id);
     const valor = item.valor > 0 ? item.valor : 0;
+    const hubSlug = hubSlugFromVehicleId(item.id, relations);
 
     if (!existing) {
+      const hs = hubSlug ?? familia;
       groups.set(id, {
         id,
         fa: familia,
@@ -111,9 +135,15 @@ function buildFamilyIndex(index: SearchIndexItem[]): CompactFamily[] {
         vmax: valor,
         amin: item.ano,
         amax: item.ano,
-        cp: hubPathForFamily(ms, familia),
+        hs,
+        cp: hubPathForFamily(ms, hs),
       });
       continue;
+    }
+
+    if (!existing.hs && hubSlug) {
+      existing.hs = hubSlug;
+      existing.cp = hubPathForFamily(ms, hubSlug);
     }
 
     existing.n += 1;
@@ -130,14 +160,28 @@ function buildFamilyIndex(index: SearchIndexItem[]): CompactFamily[] {
 
 function gerarFamilyShards(families: CompactFamily[]) {
   const shards: Record<string, CompactFamily[]> = {};
+  const marcaShards: Record<string, string[]> = {};
   for (const family of families) {
     const key = /[a-z]/.test(family.fa[0]) ? family.fa[0] : '0';
     if (!shards[key]) shards[key] = [];
     shards[key].push(family);
+
+    const marcaKey = `${family.t}|${family.m}`;
+    const existing = marcaShards[marcaKey];
+    if (!existing) {
+      marcaShards[marcaKey] = [key];
+    } else if (!existing.includes(key)) {
+      existing.push(key);
+    }
+  }
+
+  for (const keys of Object.values(marcaShards)) {
+    keys.sort();
   }
 
   const manifest = {
     shards: Object.keys(shards).sort(),
+    marcaShards,
     total: families.length,
     geradoEm: new Date().toISOString(),
     path: '/data/fipe/search/',
@@ -294,7 +338,8 @@ function main() {
 
   const index = buildIndex(veiculos, urlMap);
   const manifest = gerarShards(index);
-  const familyManifest = gerarFamilyShards(buildFamilyIndex(index));
+  const relations = loadRelations();
+  const familyManifest = gerarFamilyShards(buildFamilyIndex(index, relations));
 
   const searchManifest = {
     ...manifest,

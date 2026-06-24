@@ -26,7 +26,7 @@ function loadFamilies(): FamilySearchItem[] {
   for (const key of manifest.shards) {
     const shard = JSON.parse(fs.readFileSync(path.join(dir, `family-shard-${key}.json`), 'utf-8')) as Array<{
       id: string; fa: string; fd: string; m: string; md: string; t: string; n: number;
-      vmin: number; vmax: number; amin: number; amax: number; cp?: string;
+      vmin: number; vmax: number; amin: number; amax: number; cp?: string; hs?: string;
     }>;
     for (const row of shard) {
       if (byId.has(row.id)) continue;
@@ -43,6 +43,7 @@ function loadFamilies(): FamilySearchItem[] {
         anoMin: row.amin,
         anoMax: row.amax,
         hubPath: row.cp,
+        hubSlug: row.hs,
       });
     }
   }
@@ -89,7 +90,7 @@ function loadFamilyShard(key: string): FamilySearchItem[] {
   if (!fs.existsSync(file)) return [];
   const shard = JSON.parse(fs.readFileSync(file, 'utf-8')) as Array<{
     id: string; fa: string; fd: string; m: string; md: string; t: string; n: number;
-    vmin: number; vmax: number; amin: number; amax: number; cp?: string;
+    vmin: number; vmax: number; amin: number; amax: number; cp?: string; hs?: string;
   }>;
   const items = shard.map((row) => ({
     id: row.id,
@@ -104,6 +105,7 @@ function loadFamilyShard(key: string): FamilySearchItem[] {
     anoMin: row.amin,
     anoMax: row.amax,
     hubPath: row.cp,
+    hubSlug: row.hs,
   }));
   familyShardCache.set(key, items);
   return items;
