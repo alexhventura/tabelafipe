@@ -15,6 +15,7 @@ import {
 } from '../lib/guidedSearch';
 import { loadMarcas, type SeoMarca } from '../lib/seo-data';
 import { buildBrandsFromFamilies } from '../lib/brandIndex';
+import { formatBrandName } from '../lib/display';
 
 let sharedFamilyCatalog: FamilyCatalog | null = null;
 
@@ -74,7 +75,7 @@ async function getFamilyCatalog(): Promise<FamilyCatalog | null> {
 function toGuidedMarca(m: SeoMarca): GuidedMarca {
   return {
     slug: m.slug,
-    nome: m.nome,
+    nome: formatBrandName(m.nome, m.slug),
     tipo: (m.tipo as VehicleTipo) ?? 'carros',
     totalModelos: m.totalModelos,
     totalVeiculos: m.totalVeiculos,

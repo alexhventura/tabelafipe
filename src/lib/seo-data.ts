@@ -73,6 +73,8 @@ export interface SeoComparativoPar {
   };
 }
 
+import { formatBrandName, formatTitleCase } from './display';
+
 async function fetchJson<T>(url: string): Promise<T | null> {
   try {
     const res = await fetch(url);
@@ -86,7 +88,15 @@ async function fetchJson<T>(url: string): Promise<T | null> {
 export async function loadMarcas(): Promise<SeoMarca[]> {
   const data = await fetchJson<SeoMarca[] | { marcas: SeoMarca[] }>('/data/seo/marcas.json');
   if (!data) return [];
-  return Array.isArray(data) ? data : (data.marcas ?? []);
+  const rows = Array.isArray(data) ? data : (data.marcas ?? []);
+  return rows.map((marca) => ({
+    ...marca,
+    nome: formatBrandName(marca.nome, marca.slug),
+    modelos: marca.modelos.map((modelo) => ({
+      ...modelo,
+      nome: formatTitleCase(modelo.nome),
+    })),
+  }));
 }
 
 export async function loadMarca(slug: string): Promise<SeoMarca | null> {
@@ -95,7 +105,17 @@ export async function loadMarca(slug: string): Promise<SeoMarca | null> {
 }
 
 export async function loadModelo(marcaSlug: string, modeloSlug: string): Promise<SeoModelo | null> {
-  return fetchJson<SeoModelo>(modeloDataFile(marcaSlug, modeloSlug));
+  const data = await fetchJson<SeoModelo>(modeloDataFile(marcaSlug, modeloSlug));
+  if (!data) return null;
+  return {
+    ...data,
+    marcaNome: formatBrandName(data.marcaNome, data.marcaSlug),
+    modeloNome: formatTitleCase(data.modeloNome),
+    versoes: data.versoes.map((v) => ({
+      ...v,
+      combustivel: formatTitleCase(v.combustivel),
+    })),
+  };
 }
 
 export async function loadAnos(): Promise<SeoAnoEntry[]> {

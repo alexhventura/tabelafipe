@@ -2,6 +2,7 @@ import type { FamilySearchItem, VehicleTipo } from '../types';
 import { formatYearLabel } from './displayYear';
 import { formatFamilyDisplay, normalizeText } from './modelFamily';
 import { matchesMarcaQuery } from './brandAliases';
+import { formatTitleCase } from './display';
 
 export type GuidedStep = 'marca' | 'modelo' | 'versao' | 'ano';
 
@@ -65,7 +66,7 @@ export function shortenVersionLabel(displayName: string, marca: string, familiaD
   const specCut = label.match(/^(.+?)\s+(flex|hibrido|hybrid|diesel|turbo|aut\.?|mec\.?)\b/i);
   if (specCut) label = specCut[1].trim();
 
-  return label || displayName;
+  return formatTitleCase(label) || formatTitleCase(displayName);
 }
 
 export function groupHubVersions(

@@ -6,6 +6,50 @@ import fs from 'fs';
 import path from 'path';
 import { marcaSlug, modeloSlug } from './lib/fipe-slug.js';
 
+function formatWordToken(word) {
+  if (!word) return '';
+  if (word.includes('.')) {
+    return word
+      .split('.')
+      .map((segment) => (segment ? formatWordToken(segment) : ''))
+      .join('.');
+  }
+  const lower = word.toLowerCase();
+  if (lower.length <= 3 && /^[a-z0-9]+$/i.test(word)) return lower.toUpperCase();
+  return word.charAt(0).toUpperCase() + word.slice(1).toLowerCase();
+}
+
+function formatTitleCase(text) {
+  const cleaned = String(text || '').replace(/\s+/g, ' ').trim();
+  if (!cleaned) return '';
+  return cleaned
+    .split(/(\s+|\/|-)/)
+    .map((part) => {
+      if (!part || /^\s+$/.test(part) || part === '-' || part === '/') return part;
+      return formatWordToken(part);
+    })
+    .join('')
+    .replace(/\s+/g, ' ')
+    .trim();
+}
+
+const KNOWN_BRAND_NAMES = {
+  volkswagen: 'Volkswagen',
+  chevrolet: 'Chevrolet',
+  'mercedes-benz': 'Mercedes-Benz',
+  fiat: 'Fiat',
+  ford: 'Ford',
+  honda: 'Honda',
+  toyota: 'Toyota',
+  hyundai: 'Hyundai',
+};
+
+function formatBrandName(marca, slug) {
+  if (slug && KNOWN_BRAND_NAMES[slug]) return KNOWN_BRAND_NAMES[slug];
+  const stripped = String(marca || '').replace(/^(gm|vw)\s*-\s*/i, '').trim();
+  return formatTitleCase(stripped || marca);
+}
+
 const ROOT = process.cwd();
 const VEICULOS_PATH = path.join(ROOT, 'src', 'data', 'fipe', 'veiculos.json');
 const HISTORY_DIR = path.join(ROOT, 'data', 'history');
@@ -325,9 +369,9 @@ function main() {
 
     const detail = {
       marcaSlug: m.marcaSlug,
-      marcaNome: m.marcaNome,
+      marcaNome: formatBrandName(m.marcaNome, m.marcaSlug),
       modeloSlug: m.modeloSlug,
-      modeloNome: pickModeloNome(m.modeloNomes),
+      modeloNome: formatTitleCase(pickModeloNome(m.modeloNomes)),
       totalVeiculos: m.vehicles.length,
       anos,
       versoes,
@@ -347,11 +391,13 @@ function main() {
   const marcasOut = [...marcas.values()]
     .map((marca) => ({
       slug: marca.slug,
-      nome: marca.nome,
+      nome: formatBrandName(marca.nome, marca.slug),
       tipo: marca.tipo || 'carros',
       totalVeiculos: marca.totalVeiculos,
       totalModelos: marca.modelosMap.size,
-      modelos: [...marca.modelosMap.values()].sort((a, b) => a.slug.localeCompare(b.slug)),
+      modelos: [...marca.modelosMap.values()]
+        .map((m) => ({ ...m, nome: formatTitleCase(m.nome) }))
+        .sort((a, b) => a.slug.localeCompare(b.slug)),
     }))
     .sort((a, b) => a.slug.localeCompare(b.slug));
 

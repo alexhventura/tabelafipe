@@ -21,7 +21,7 @@ import {
   pickOutrasVersoes,
 } from '../../lib/vehiclePageData';
 import { formatInmetroSourceLine, buildProvenanceDisplayRows } from '../../lib/provenance';
-import { formatVehicleTitle, sanitizeDisplayText } from '../../lib/display';
+import { formatVehicleTitle, sanitizeDisplayText, formatTitleCase } from '../../lib/display';
 
 const PriceChart = lazy(() => import('./PriceChart'));
 
@@ -111,12 +111,14 @@ export default function VehiclePageSections({ bundle }: Props) {
     historicoStats?.variacao12m ?? (fipe.trend6m != null ? fipe.trend6m * 2 : null);
 
   const pageTitle = useMemo(
-    () => sanitizeDisplayText(bundle.seo?.h1) || formatVehicleTitle(identity.displayName, identity),
+    () =>
+      formatTitleCase(sanitizeDisplayText(bundle.seo?.h1)) ||
+      formatVehicleTitle(identity.displayName, identity),
     [bundle.seo?.h1, identity],
   );
   const identityYear = getIdentityDisplayYear(identity);
   const heroMetaLine = [
-    identity.combustivel,
+    formatTitleCase(identity.combustivel),
     identityYear.kind === 'zero_km' ? identityYear.label : identityYear.label ? `Ano ${identityYear.label}` : null,
   ]
     .filter(Boolean)

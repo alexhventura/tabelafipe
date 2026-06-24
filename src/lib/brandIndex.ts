@@ -1,11 +1,5 @@
 import type { BrandSearchItem, FamilySearchItem } from '../types';
-
-function brandDisplayName(marca: string, slug: string): string {
-  if (slug === 'volkswagen') return 'Volkswagen';
-  if (slug === 'chevrolet') return 'Chevrolet';
-  const cleaned = marca.replace(/^(gm|vw)\s*-\s*/i, '').trim();
-  return cleaned || marca;
-}
+import { formatBrandName } from './display';
 
 export function buildBrandsFromFamilies(families: FamilySearchItem[]): BrandSearchItem[] {
   const map = new Map<string, BrandSearchItem>();
@@ -16,7 +10,7 @@ export function buildBrandsFromFamilies(families: FamilySearchItem[]): BrandSear
     if (!existing) {
       map.set(key, {
         slug: family.marcaSlug,
-        nome: brandDisplayName(family.marca, family.marcaSlug),
+        nome: formatBrandName(family.marca, family.marcaSlug),
         tipo: family.tipo,
         familyCount: 1,
         vehicleCount: family.versaoCount,

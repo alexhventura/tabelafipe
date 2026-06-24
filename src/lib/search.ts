@@ -14,7 +14,7 @@ import {
   normalizeText,
 } from './modelFamily';
 import { appendYearToTitle, formatYearLabel } from './displayYear';
-import { formatVehicleTitle, sanitizeDisplayText } from './display';
+import { formatVehicleTitle, sanitizeDisplayText, formatBrandName, formatTitleCase } from './display';
 import {
   expandBrandTokens,
   getMarcaSearchTerms,
@@ -619,7 +619,7 @@ export function benchmarkSearch(
 }
 
 export function formatVehicleSuggestionTitle(item: SearchIndexItem): string {
-  const name = sanitizeDisplayText(item.nome.replace(/\s*\(\d{4}\)\s*$/, '').trim());
+  const name = formatTitleCase(sanitizeDisplayText(item.nome.replace(/\s*\(\d{4}\)\s*$/, '').trim()));
   return formatVehicleTitle(name, { ano: item.ano, anoModelo: item.ano });
 }
 
@@ -633,7 +633,7 @@ export function formatSearchResultLabel(item: SearchIndexItem): string {
 }
 
 export function formatBrandLabel(item: BrandSearchItem): string {
-  return item.nome;
+  return formatBrandName(item.nome, item.slug);
 }
 
 export function formatBrandMeta(item: BrandSearchItem): string {
@@ -641,7 +641,7 @@ export function formatBrandMeta(item: BrandSearchItem): string {
 }
 
 export function formatFamilyLabel(item: FamilySearchItem): string {
-  return `${item.marca} ${item.familiaDisplay}`;
+  return `${formatBrandName(item.marca, item.marcaSlug)} ${formatFamilyDisplay(item.familiaDisplay || item.familia)}`;
 }
 
 export function formatFamilyMeta(item: FamilySearchItem): string {

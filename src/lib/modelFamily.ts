@@ -32,11 +32,10 @@ export function extractFamilyName(modelo: string): string {
   return tokens[i] ?? tokens[0] ?? normalizeText(modelo).split(/\s+/)[0] ?? '';
 }
 
+import { formatTitleCase } from './display';
+
 export function formatFamilyDisplay(familia: string): string {
   if (!familia) return '';
   if (/^sw\d+$/i.test(familia)) return familia.toUpperCase();
-  if (familia.length <= 4 && /^[a-z0-9]+$/i.test(familia)) {
-    return familia.toUpperCase();
-  }
-  return familia.charAt(0).toUpperCase() + familia.slice(1);
+  return formatTitleCase(familia);
 }
