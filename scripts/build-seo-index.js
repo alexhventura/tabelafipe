@@ -402,6 +402,16 @@ function main() {
     .sort((a, b) => a.slug.localeCompare(b.slug));
 
   writeJson(path.join(SEO_DIR, 'marcas.json'), marcasOut);
+  writeJson(
+    path.join(SEO_DIR, 'marcas-index.json'),
+    marcasOut.map(({ slug, nome, tipo, totalVeiculos, totalModelos }) => ({
+      slug,
+      nome,
+      tipo,
+      totalVeiculos,
+      totalModelos,
+    })),
+  );
 
   const anosOut = {
     anos: [...anosMap.values()]
@@ -454,6 +464,7 @@ function main() {
     },
     paths: {
       marcas: '/data/seo/marcas.json',
+      marcasIndex: '/data/seo/marcas-index.json',
       anos: '/data/seo/anos.json',
       comparativos: '/data/seo/comparativos.json',
       modelosDir: '/data/seo/modelos/',

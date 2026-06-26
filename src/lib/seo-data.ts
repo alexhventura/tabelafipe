@@ -6,12 +6,15 @@ export interface SeoMarcaModelo {
   totalVeiculos: number;
 }
 
-export interface SeoMarca {
+export interface SeoMarcaIndex {
   slug: string;
   nome: string;
   tipo: string;
   totalVeiculos: number;
   totalModelos: number;
+}
+
+export interface SeoMarca extends SeoMarcaIndex {
   modelos: SeoMarcaModelo[];
 }
 
@@ -85,6 +88,18 @@ async function fetchJson<T>(url: string): Promise<T | null> {
   }
 }
 
+export async function loadMarcasIndex(): Promise<SeoMarcaIndex[]> {
+  const data = await fetchJson<SeoMarcaIndex[] | { marcas: SeoMarcaIndex[] }>(
+    '/data/seo/marcas-index.json',
+  );
+  if (!data) return [];
+  const rows = Array.isArray(data) ? data : (data.marcas ?? []);
+  return rows.map((marca) => ({
+    ...marca,
+    nome: formatBrandName(marca.nome, marca.slug),
+  }));
+}
+
 export async function loadMarcas(): Promise<SeoMarca[]> {
   const data = await fetchJson<SeoMarca[] | { marcas: SeoMarca[] }>('/data/seo/marcas.json');
   if (!data) return [];
@@ -92,7 +107,7 @@ export async function loadMarcas(): Promise<SeoMarca[]> {
   return rows.map((marca) => ({
     ...marca,
     nome: formatBrandName(marca.nome, marca.slug),
-    modelos: marca.modelos.map((modelo) => ({
+    modelos: (marca.modelos ?? []).map((modelo) => ({
       ...modelo,
       nome: formatTitleCase(modelo.nome),
     })),

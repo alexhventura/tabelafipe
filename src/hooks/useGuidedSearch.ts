@@ -1,4 +1,4 @@
-import { useCallback, useEffect, useMemo, useState } from 'react';
+import { startTransition, useCallback, useEffect, useMemo, useState } from 'react';
 import { useNavigate } from 'react-router-dom';
 import type { FamilySearchItem, VehicleTipo } from '../types';
 import { FamilyCatalog } from '../lib/familyCatalog';
@@ -14,15 +14,18 @@ import {
   filterVersions,
   groupHubVersions,
 } from '../lib/guidedSearch';
-import { loadMarcas, type SeoMarca } from '../lib/seo-data';
-import { formatBrandName } from '../lib/display';
+import { loadMarcasIndex, type SeoMarcaIndex } from '../lib/seo-data';
 
 let sharedFamilyCatalog: FamilyCatalog | null = null;
+let sharedMarcasIndexPromise: Promise<GuidedMarca[]> | null = null;
 
 async function loadAllMarcas(): Promise<GuidedMarca[]> {
-  return loadMarcas()
-    .then((rows) => rows.map(toGuidedMarca))
-    .catch(() => [] as GuidedMarca[]);
+  if (!sharedMarcasIndexPromise) {
+    sharedMarcasIndexPromise = loadMarcasIndex()
+      .then((rows) => rows.map(toGuidedMarca))
+      .catch(() => [] as GuidedMarca[]);
+  }
+  return sharedMarcasIndexPromise;
 }
 
 async function getFamilyCatalog(): Promise<FamilyCatalog | null> {
@@ -38,10 +41,10 @@ async function getFamilyCatalog(): Promise<FamilyCatalog | null> {
   return null;
 }
 
-function toGuidedMarca(m: SeoMarca): GuidedMarca {
+function toGuidedMarca(m: SeoMarcaIndex): GuidedMarca {
   return {
     slug: m.slug,
-    nome: formatBrandName(m.nome, m.slug),
+    nome: m.nome,
     tipo: (m.tipo as VehicleTipo) ?? 'carros',
     totalModelos: m.totalModelos,
     totalVeiculos: m.totalVeiculos,
@@ -65,10 +68,32 @@ export function useGuidedSearch(tipo: VehicleTipo) {
   const [versao, setVersao] = useState<GuidedVersao | null>(null);
 
   useEffect(() => {
+    let cancelled = false;
     setMarcasLoading(true);
-    loadAllMarcas()
-      .then(setMarcas)
-      .finally(() => setMarcasLoading(false));
+
+    const load = () => {
+      loadAllMarcas().then((rows) => {
+        if (cancelled) return;
+        startTransition(() => {
+          setMarcas(rows);
+          setMarcasLoading(false);
+        });
+      });
+    };
+
+    if (typeof requestIdleCallback !== 'undefined') {
+      const idleId = requestIdleCallback(load, { timeout: 1500 });
+      return () => {
+        cancelled = true;
+        cancelIdleCallback(idleId);
+      };
+    }
+
+    const timeoutId = window.setTimeout(load, 0);
+    return () => {
+      cancelled = true;
+      window.clearTimeout(timeoutId);
+    };
   }, []);
 
   const marcasForTipo = useMemo(

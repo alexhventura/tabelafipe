@@ -1,15 +1,15 @@
 {
-  "geradoEm": "2026-06-23T01:38:27.536Z",
+  "geradoEm": "2026-06-24T19:50:05.414Z",
   "total_pages_generated": 50395,
   "sample_scanned": 499,
   "bundle_size": {
-    "avg_bytes": 21733,
-    "min": 8298,
-    "max": 37233,
-    "p50": 21837,
-    "p95": 29162,
-    "p99": 32494,
-    "total_mb": 10.34
+    "avg_bytes": 28313,
+    "min": 12829,
+    "max": 48479,
+    "p50": 28858,
+    "p95": 36115,
+    "p99": 40053,
+    "total_mb": 13.47
   },
   "bundle_targets": {
     "avg_kb_target": 20,
@@ -48,7 +48,7 @@
   "search_index_note": "Shards em public/data/fipe/search/* permanecem inalterados; bundles sao camada de pagina.",
   "manifest": {
     "total": 50395,
-    "geradoEm": "2026-06-23T01:35:44.046Z",
+    "geradoEm": "2026-06-24T19:50:01.752Z",
     "shards": [
       "a",
       "b",
@@ -74,6 +74,6 @@
       "y",
       "z"
     ],
-    "avgBundleBytes": 21920
+    "avgBundleBytes": 28416
   }
 }

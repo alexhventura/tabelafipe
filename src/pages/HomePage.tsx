@@ -1,5 +1,5 @@
 import { Link } from 'react-router-dom';
-import { useState } from 'react';
+import { useEffect, useState, type ComponentType } from 'react';
 import {
   Shield,
   History,
@@ -9,11 +9,55 @@ import {
   TrendingUp,
 } from 'lucide-react';
 import BrandLogo from '../components/brand/BrandLogo';
-import GuidedFipeSearch from '../components/search/GuidedFipeSearch';
 import SearchBox from '../components/search/SearchBox';
 import { useSearchIndex } from '../hooks/useSearchIndex';
 import { usePageMeta } from '../hooks/usePageMeta';
 import { VehicleTipo } from '../types';
+
+type GuidedFipeSearchProps = {
+  tipo: VehicleTipo;
+  onTipoChange?: (tipo: VehicleTipo) => void;
+  showTabs?: boolean;
+};
+
+function GuidedSearchPlaceholder() {
+  return (
+    <div
+      className="w-full min-h-[320px] rounded-2xl border border-slate-200 dark:border-slate-800 bg-white dark:bg-slate-900 animate-pulse"
+      aria-hidden
+    />
+  );
+}
+
+function DeferredGuidedFipeSearch(props: GuidedFipeSearchProps) {
+  const [Component, setComponent] = useState<ComponentType<GuidedFipeSearchProps> | null>(null);
+
+  useEffect(() => {
+    let cancelled = false;
+    const load = () => {
+      import('../components/search/GuidedFipeSearch').then((mod) => {
+        if (!cancelled) setComponent(() => mod.default);
+      });
+    };
+
+    if (typeof requestIdleCallback !== 'undefined') {
+      const idleId = requestIdleCallback(load, { timeout: 1200 });
+      return () => {
+        cancelled = true;
+        cancelIdleCallback(idleId);
+      };
+    }
+
+    const timeoutId = window.setTimeout(load, 0);
+    return () => {
+      cancelled = true;
+      window.clearTimeout(timeoutId);
+    };
+  }, []);
+
+  if (!Component) return <GuidedSearchPlaceholder />;
+  return <Component {...props} />;
+}
 
 const WHY_CARDS = [
   { icon: TrendingUp, title: 'Preço FIPE atualizado', desc: 'Valor de referência oficial do mês' },
@@ -101,7 +145,7 @@ export default function HomePage() {
           </div>
 
           <div className="w-full text-left space-y-6" role="search">
-            <GuidedFipeSearch tipo={tipo} onTipoChange={setTipo} showTabs />
+            <DeferredGuidedFipeSearch tipo={tipo} onTipoChange={setTipo} showTabs />
 
             <div className="pt-2 border-t border-slate-200 dark:border-slate-800 space-y-3">
               <p className="text-xs font-semibold text-slate-600 dark:text-slate-400 uppercase tracking-wider text-center">
@@ -138,7 +182,7 @@ export default function HomePage() {
       </section>
 
       {/* Seções abaixo da dobra */}
-      <div className="max-w-5xl mx-auto px-4 pb-16 space-y-16 sm:space-y-20">
+      <div className="below-fold max-w-5xl mx-auto px-4 pb-16 space-y-16 sm:space-y-20">
         <section aria-labelledby="why-title" className="space-y-6">
           <h2 id="why-title" className="text-xl sm:text-2xl font-bold text-center text-slate-900 dark:text-white">
             Por que consultar aqui?
