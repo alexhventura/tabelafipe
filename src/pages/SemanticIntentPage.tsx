@@ -46,6 +46,7 @@ export default function SemanticIntentPage() {
     description: content?.description ?? 'Conteúdo não encontrado.',
     path,
     ogType: 'article',
+    noindex: !loading && !content,
   });
 
   if (isReservedMarcaSlug(marcaSlug) || !parsed) {

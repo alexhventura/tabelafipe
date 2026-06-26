@@ -74,15 +74,28 @@ function prerenderStaticPages(baseHtml: string): number {
       'og:description':
         'Consulte preços FIPE, histórico, ficha técnica, consumo, manutenção, segurança e informações completas do seu veículo.',
       'og:url': `${SITE_URL}/`,
-      'og:site_name': 'Pesquisa Tabela FIPE',
+      'og:site_name': 'PesquisaTabelaFIPE',
       'og:locale': 'pt_BR',
     },
     twitter: {
-      'twitter:card': 'summary_large_image',
+      'twitter:card': 'summary',
       'twitter:title': 'Tabela FIPE Completa — PesquisaTabelaFIPE',
       'twitter:description':
         'Consulte preços FIPE, histórico, ficha técnica, consumo, manutenção, segurança e informações completas do seu veículo.',
     },
+    jsonLd: [
+      {
+        '@context': 'https://schema.org',
+        '@type': 'WebSite',
+        name: 'PesquisaTabelaFIPE',
+        url: SITE_URL,
+        potentialAction: {
+          '@type': 'SearchAction',
+          target: `${SITE_URL}/busca?q={search_term_string}`,
+          'query-input': 'required name=search_term_string',
+        },
+      },
+    ],
   };
 
   const homeHtml = buildPrerenderedHtml(baseHtml, homeSeo, buildHomeBody());
@@ -90,10 +103,25 @@ function prerenderStaticPages(baseHtml: string): number {
   count += 1;
 
   for (const [slug, page] of Object.entries(INFO_PAGES)) {
+    const canonical = `${SITE_URL}/${slug}/`;
+    const title = `${page.title} — PesquisaTabelaFIPE`;
     const seo: PrerenderSeo = {
-      title: `${page.title} — PesquisaTabelaFIPE`,
+      title,
       description: page.description,
-      canonical: `${SITE_URL}/${slug}/`,
+      canonical,
+      og: {
+        'og:type': 'website',
+        'og:title': title,
+        'og:description': page.description,
+        'og:url': canonical,
+        'og:site_name': 'PesquisaTabelaFIPE',
+        'og:locale': 'pt_BR',
+      },
+      twitter: {
+        'twitter:card': 'summary',
+        'twitter:title': title,
+        'twitter:description': page.description,
+      },
     };
     const paragraphs = page.sections.flatMap((section) => section.paragraphs);
     const html = buildPrerenderedHtml(

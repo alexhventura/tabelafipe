@@ -10,6 +10,7 @@ export default function InfoPage() {
     title: page ? `${page.title} — PesquisaTabelaFIPE` : 'Página não encontrada',
     description: page?.description ?? '',
     path: `/${slug}`,
+    noindex: !page,
   });
 
   if (!page) {

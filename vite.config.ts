@@ -17,7 +17,6 @@ export default defineConfig(() => {
           manualChunks(id) {
             if (!id.includes('node_modules')) return;
             if (id.includes('recharts')) return 'vendor-charts';
-            if (id.includes('motion')) return 'vendor-motion';
             if (
               id.includes('react-dom') ||
               id.includes('react-router') ||
@@ -25,6 +24,7 @@ export default defineConfig(() => {
             ) {
               return 'vendor-react';
             }
+            if (id.includes('lucide-react')) return 'vendor-icons';
           },
         },
       },

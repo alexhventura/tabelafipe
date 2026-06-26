@@ -50,6 +50,7 @@ export default function MarcaClusterPage() {
       : 'Cluster de marca não encontrado.',
     path,
     ogType: 'article',
+    noindex: !loading && !data,
   });
 
   const items = useMemo(() => {

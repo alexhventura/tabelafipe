@@ -39,6 +39,7 @@ export default function DecisaoPage() {
       : 'Página não encontrada.',
     path,
     ogType: 'article',
+    noindex: match === null,
   });
 
   if (match === undefined) {

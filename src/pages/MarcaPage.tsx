@@ -37,6 +37,7 @@ export default function MarcaPage() {
       ? `Consulte preços FIPE de todos os modelos ${marca.nome}. ${marca.totalVeiculos.toLocaleString('pt-BR')} versões indexadas.`
       : 'Marca não encontrada.',
     path,
+    noindex: !loading && !marca,
   });
 
   const listItems = useMemo(

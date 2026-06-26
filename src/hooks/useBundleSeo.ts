@@ -1,25 +1,6 @@
 import { useEffect } from 'react';
 import type { VehiclePageSeo } from '../types/bundle';
-
-function upsertMeta(attr: 'name' | 'property', key: string, content: string) {
-  let el = document.querySelector(`meta[${attr}="${key}"]`);
-  if (!el) {
-    el = document.createElement('meta');
-    el.setAttribute(attr, key);
-    document.head.appendChild(el);
-  }
-  el.setAttribute('content', content);
-}
-
-function upsertLink(rel: string, href: string) {
-  let el = document.querySelector(`link[rel="${rel}"]`) as HTMLLinkElement | null;
-  if (!el) {
-    el = document.createElement('link');
-    el.rel = rel;
-    document.head.appendChild(el);
-  }
-  el.href = href;
-}
+import { upsertLink, upsertMeta } from '../lib/metaDom';
 
 export function useBundleSeo(seo: VehiclePageSeo | null, extraJsonLd: Record<string, unknown>[] = []) {
   useEffect(() => {
@@ -36,8 +17,7 @@ export function useBundleSeo(seo: VehiclePageSeo | null, extraJsonLd: Record<str
       upsertMeta('name', key, value);
     }
 
-    const existing = document.querySelectorAll('script[data-bundle-jsonld]');
-    existing.forEach((el) => el.remove());
+    document.querySelectorAll('script[data-bundle-jsonld]').forEach((el) => el.remove());
 
     const blocks = [...seo.jsonLd.filter((b) => (b as { '@type'?: string })['@type'] !== 'FAQPage'), ...extraJsonLd];
 

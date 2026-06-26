@@ -43,6 +43,7 @@ export default function AnoPage() {
       ? `${entry.totalVeiculos.toLocaleString('pt-BR')} veículos ${label} na FIPE. ${entry.marcas} marcas, ${entry.modelos} modelos.`
       : 'Ano não encontrado.',
     path,
+    noindex: !loading && !entry,
   });
 
   if (loading) {

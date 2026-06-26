@@ -66,6 +66,7 @@ export default function HistoricoPage() {
       : 'Histórico não encontrado.',
     path,
     ogType: 'article',
+    noindex: !loading && !modelo,
   });
 
   const chartData = useMemo(

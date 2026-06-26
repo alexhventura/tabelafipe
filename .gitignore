@@ -26,5 +26,8 @@ public/data/semantic/intents-index.json
 .tmp-query-parquet.js
 scripts/_gen.mjs
 lighthouse-*.json
+build-log.txt
+prerender-log.txt
+ssg-prepare-bundles-log.txt
 .env*
 !.env.example

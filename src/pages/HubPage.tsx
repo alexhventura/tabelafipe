@@ -139,6 +139,7 @@ export default function HubPage({ hubKind }: { hubKind: HubBundle['tipo'] }) {
     title: hub?.seo.title ?? 'Hub FIPE',
     description: hub?.seo.description ?? '',
     path: hub?.canonicalPath ?? '/',
+    noindex: !loading && !hub,
   });
 
   if (loading) {

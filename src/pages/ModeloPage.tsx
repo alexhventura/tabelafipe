@@ -40,6 +40,7 @@ export default function ModeloPage() {
       : 'Modelo não encontrado.',
     path,
     ogType: 'article',
+    noindex: !loading && !modelo,
   });
 
   const chartData = useMemo(

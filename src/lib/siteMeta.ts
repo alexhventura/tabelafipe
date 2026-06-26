@@ -2,6 +2,8 @@
 export const SITE_VERSION = '1.0.1';
 export const SITE_NAME = 'PesquisaTabelaFIPE';
 export const SITE_DOMAIN = 'pesquisatabelafipe.com.br';
+export const SITE_URL = `https://${SITE_DOMAIN}`;
+export const DEFAULT_PAGE_TITLE = 'Tabela FIPE Completa — PesquisaTabelaFIPE';
 export const FIPE_MES_REFERENCIA = 'Junho/2026';
 
 export const FOOTER_LINKS = [
