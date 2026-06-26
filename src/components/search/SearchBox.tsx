@@ -213,7 +213,7 @@ export default function SearchBox({
               Marca encontrada — pressione Enter para ver modelos
             </div>
           )}
-          <div className="px-4 py-2 text-[10px] uppercase tracking-wider text-slate-400 font-bold border-b border-slate-100 dark:border-slate-800 sticky top-0 bg-white dark:bg-slate-900">
+          <div className="px-4 py-2 text-[10px] uppercase tracking-wider text-slate-600 dark:text-slate-400 font-bold border-b border-slate-100 dark:border-slate-800 sticky top-0 bg-white dark:bg-slate-900">
             {results.length} resultado{results.length > 1 ? 's' : ''}
           </div>
           {results.map((suggestion, idx) => (
@@ -244,7 +244,7 @@ export default function SearchBox({
                   )}
                   {suggestionTitle(suggestion)}
                 </p>
-                <p className="text-xs text-slate-500 dark:text-slate-400 mt-0.5">
+                <p className="text-xs text-slate-500 dark:text-slate-600 dark:text-slate-400 mt-0.5">
                   {suggestionSubtitle(suggestion)}
                 </p>
               </div>
@@ -275,7 +275,7 @@ export default function SearchBox({
               Parece uma moto — selecione a aba <strong>Motos</strong> acima.
             </p>
           ) : (
-            <p className="text-xs text-slate-400">
+            <p className="text-xs text-slate-600 dark:text-slate-400">
               Tente: Gol, Onix, Corolla XEi 2024, 002112-1
             </p>
           )}
@@ -297,7 +297,7 @@ export default function SearchBox({
           size === 'hero' ? 'rounded-2xl shadow-md' : ''
         } ${highConfidence && open ? 'border-emerald-500' : ''}`}
       >
-        <Search className="w-5 h-5 text-slate-400 shrink-0 mr-3" strokeWidth={1.5} aria-hidden />
+        <Search className="w-5 h-5 text-slate-600 dark:text-slate-400 shrink-0 mr-3" strokeWidth={1.5} aria-hidden />
         <input
           ref={inputRef}
           type="search"
@@ -343,7 +343,7 @@ export default function SearchBox({
       </div>
 
       {size === 'hero' && !hideInlineExamples && (
-        <p className="text-xs text-slate-400 text-center">
+        <p className="text-xs text-slate-600 dark:text-slate-400 text-center">
           Ex: Corolla XEi 2024, Onix, CG 160, 002112-1
         </p>
       )}

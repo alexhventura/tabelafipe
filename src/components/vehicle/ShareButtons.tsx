@@ -36,7 +36,7 @@ export default function ShareButtons({ title, url }: ShareButtonsProps) {
 
   return (
     <div className="flex items-center gap-2">
-      <span className="text-xs text-slate-400 font-medium mr-1">Compartilhar</span>
+      <span className="text-xs text-slate-600 dark:text-slate-400 font-medium mr-1">Compartilhar</span>
       <button
         type="button"
         onClick={nativeShare}

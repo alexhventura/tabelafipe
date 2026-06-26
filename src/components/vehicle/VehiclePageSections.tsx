@@ -135,11 +135,11 @@ export default function VehiclePageSections({ bundle }: Props) {
         <div className="bg-gradient-to-br from-slate-900 to-slate-800 text-white rounded-2xl p-4 sm:p-5 space-y-3">
           <div className="space-y-0.5">
             <h1 className="text-lg sm:text-xl font-bold leading-snug line-clamp-2">{pageTitle}</h1>
-            {heroMetaLine && <p className="text-xs text-slate-400">{heroMetaLine}</p>}
+            {heroMetaLine && <p className="text-xs text-slate-300">{heroMetaLine}</p>}
           </div>
 
           <div className="space-y-1 border-t border-white/10 pt-3">
-            <p className="text-[10px] uppercase tracking-wider text-slate-400 font-semibold">Preço FIPE</p>
+            <p className="text-[10px] uppercase tracking-wider text-slate-300 font-semibold">Preço FIPE</p>
             <p className="text-3xl sm:text-4xl font-bold tabular-nums leading-none">{formatBRL(fipe.valorAtual)}</p>
             {variacao12m != null && (
               <p
@@ -148,7 +148,7 @@ export default function VehiclePageSections({ bundle }: Props) {
                 {variacao12m >= 0 ? '▲' : '▼'} {formatPct(Math.abs(variacao12m))} em 12 meses
               </p>
             )}
-            <p className="text-xs text-slate-400">
+            <p className="text-xs text-slate-300">
               FIPE {fipe.fipeCodigo} · {formatMesReferencia(fipe.mesReferencia)}
             </p>
           </div>
@@ -168,7 +168,7 @@ export default function VehiclePageSections({ bundle }: Props) {
                 Comparar
               </a>
             )}
-            <div className="[&_span]:text-slate-400 [&_button]:border-white/20 [&_button]:text-white [&_a]:border-white/20">
+            <div className="[&_span]:text-slate-300 [&_button]:border-white/20 [&_button]:text-white [&_a]:border-white/20">
               <ShareButtons title={bundle.seo.title} url={bundle.seo.canonical} />
             </div>
           </div>
@@ -379,7 +379,7 @@ export default function VehiclePageSections({ bundle }: Props) {
               >
                 <summary className="px-4 py-3 cursor-pointer font-semibold text-sm list-none flex justify-between items-center min-h-[44px]">
                   {item.pergunta}
-                  <span className="text-slate-400 group-open:rotate-180 transition-transform" aria-hidden>
+                  <span className="text-slate-500 group-open:rotate-180 transition-transform" aria-hidden>
                     ▼
                   </span>
                 </summary>

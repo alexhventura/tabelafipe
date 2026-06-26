@@ -1,4 +1,4 @@
-import { useEffect, useMemo, useState } from 'react';
+import { useEffect, useLayoutEffect, useMemo, useState } from 'react';
 
 import { Link, useParams } from 'react-router-dom';
 
@@ -8,6 +8,7 @@ import { useBundleSeo } from '../hooks/useBundleSeo';
 import { loadVehicleBundle, loadFamilyHub, peekEmbeddedVehicleBundle } from '../lib/bundle';
 import { buildVehicleBreadcrumb } from '../lib/vehiclePageData';
 import {
+  applyVehicleMainMinHeight,
   clearVehiclePrerenderMinHeight,
   getCapturedVehiclePrerenderHtml,
   hadVehiclePrerenderShell,
@@ -81,11 +82,22 @@ export default function VehiclePage() {
 
   }, [marca, slug]);
 
+  const capturedPrerender = getCapturedVehiclePrerenderHtml();
+  const useStaticShell =
+    hadVehiclePrerenderShell() && Boolean(capturedPrerender) && !notFound && !isFamilyHub;
+
+  useLayoutEffect(() => {
+    if (!useStaticShell) return;
+    applyVehicleMainMinHeight();
+  }, [useStaticShell]);
+
   useEffect(() => {
-    if (!loading) {
-      clearVehiclePrerenderMinHeight();
-    }
-  }, [loading]);
+    if (!useStaticShell) return;
+    const id = requestAnimationFrame(() => {
+      requestAnimationFrame(() => clearVehiclePrerenderMinHeight());
+    });
+    return () => cancelAnimationFrame(id);
+  }, [useStaticShell]);
 
   const enhancedFaq = useMemo(() => (bundle ? buildEnhancedFaq(bundle) : []), [bundle]);
   const breadcrumbItems = useMemo(() => (bundle ? buildVehicleBreadcrumb(bundle) : []), [bundle]);
@@ -102,20 +114,17 @@ export default function VehiclePage() {
 
   useBundleSeo(bundle?.seo ?? null, extraJsonLd);
 
-
+  if (useStaticShell && capturedPrerender) {
+    return (
+      <div
+        data-prerender="vehicle"
+        suppressHydrationWarning
+        dangerouslySetInnerHTML={{ __html: capturedPrerender }}
+      />
+    );
+  }
 
   if (loading) {
-    const captured = getCapturedVehiclePrerenderHtml();
-    if (captured && hadVehiclePrerenderShell()) {
-      return (
-        <div
-          data-prerender="vehicle"
-          suppressHydrationWarning
-          dangerouslySetInnerHTML={{ __html: captured }}
-        />
-      );
-    }
-
     return (
       <div className="max-w-3xl mx-auto px-4 py-20 text-center text-slate-400 text-sm" role="status">
         Carregando...
@@ -155,15 +164,8 @@ export default function VehiclePage() {
 
 
 
-  const keepPrerenderShell = Boolean(bundle) && hadVehiclePrerenderShell();
-
   return (
-    <div
-      className="max-w-3xl mx-auto px-4 py-3 sm:py-4 space-y-3"
-      {...(keepPrerenderShell
-        ? { 'data-prerender': 'vehicle', suppressHydrationWarning: true as const }
-        : {})}
-    >
+    <div className="max-w-3xl mx-auto px-4 py-3 sm:py-4 space-y-3">
       <VehicleBreadcrumb items={breadcrumbItems} />
 
       <VehiclePageSections bundle={bundle} />

@@ -5,8 +5,9 @@ import { peekEmbeddedVehicleBundle, loadVehicleBundle } from './bundle';
 import { deferAdsense } from './deferAdsense';
 import { wrapInAppShell } from './staticShellHtml';
 import {
+  applyVehicleMainMinHeight,
   captureVehiclePrerenderHtml,
-  getCapturedVehiclePrerenderHtml,
+  preserveVehicleMainMinHeight,
 } from './vehiclePrerender';
 
 function parseVehiclePath(): { marca: string; slug: string } | null {
@@ -16,10 +17,10 @@ function parseVehiclePath(): { marca: string; slug: string } | null {
 }
 
 function isFullVehicleSsg(container: HTMLElement): boolean {
-  const hasShell = Boolean(container.querySelector('.min-h-screen footer.border-t'));
+  const hasPrerender = Boolean(findVehiclePrerenderNode(container));
   const hasEmbed =
     Boolean(document.getElementById('__VEHICLE_BUNDLE__')) || Boolean(peekEmbeddedVehicleBundle());
-  return hasShell && hasEmbed;
+  return hasPrerender && hasEmbed;
 }
 
 function findVehiclePrerenderNode(container: HTMLElement): HTMLElement | null {
@@ -71,17 +72,8 @@ function preserveMainHeightForHydration(node: HTMLElement): void {
   const minH = readPrerenderMinHeightPx(node);
   if (minH > 0) {
     main.style.minHeight = `${minH}px`;
+    preserveVehicleMainMinHeight(minH);
   }
-}
-
-function stripPrerenderBeforeHydrate(container: HTMLElement): void {
-  const node = findVehiclePrerenderNode(container);
-  if (!node) return;
-  if (!getCapturedVehiclePrerenderHtml()) {
-    captureVehiclePrerenderHtml(node.innerHTML);
-  }
-  preserveMainHeightForHydration(node);
-  node.remove();
 }
 
 async function prefetchVehicleBundle(): Promise<void> {
@@ -103,7 +95,8 @@ export async function mountApp(container: HTMLElement, app: ReactElement): Promi
 
     if (!fullSsg) {
       ensurePartialVehicleShell(container);
-      stripPrerenderBeforeHydrate(container);
+      const prerenderNode = findVehiclePrerenderNode(container);
+      if (prerenderNode) preserveMainHeightForHydration(prerenderNode);
     } else {
       capturePrerenderFromDom(container);
       const prerenderNode = findVehiclePrerenderNode(container);
@@ -112,6 +105,18 @@ export async function mountApp(container: HTMLElement, app: ReactElement): Promi
 
     const prefetch = peekEmbeddedVehicleBundle() ? Promise.resolve() : prefetchVehicleBundle();
     await prefetch;
+
+    const mainEl = container.querySelector('main');
+    const hasStaticShell = Boolean(container.querySelector('.min-h-screen footer.border-t'));
+
+    if (fullSsg || hasStaticShell) {
+      const mountTarget = mainEl ?? container;
+      const root = createRoot(mountTarget);
+      root.render(app);
+      applyVehicleMainMinHeight();
+      deferAdsense();
+      return root;
+    }
 
     const root = hydrateRoot(container, app);
     deferAdsense();

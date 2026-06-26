@@ -113,7 +113,7 @@ export default function ModeloPage() {
 
       <div className="grid sm:grid-cols-2 gap-4 text-sm">
         <div className="bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 rounded-2xl p-5 space-y-2">
-          <h2 className="text-xs uppercase tracking-wider text-slate-400 font-bold">Resumo FIPE</h2>
+          <h2 className="text-xs uppercase tracking-wider text-slate-600 dark:text-slate-400 font-bold">Resumo FIPE</h2>
           <div className="flex justify-between">
             <span className="text-slate-500">Menor preço</span>
             <span className="font-semibold">{formatBRL(modelo.historico.menorPreco ?? 0)}</span>

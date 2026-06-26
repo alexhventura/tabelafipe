@@ -12,7 +12,7 @@ export default function PriceHero({ valor, trend6m, mesReferencia = 'Jun/2026' }
 
   return (
     <div className="bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 rounded-2xl p-6">
-      <span className="text-[10px] uppercase tracking-widest text-slate-400 font-bold block mb-1">
+      <span className="text-[10px] uppercase tracking-widest text-slate-600 dark:text-slate-400 font-bold block mb-1">
         Tabela FIPE · {mesReferencia}
       </span>
       <div className="text-3xl sm:text-4xl font-bold text-blue-600 dark:text-blue-400 tracking-tight">

@@ -259,7 +259,7 @@ function main(): void {
   console.log(`Concluído em ${elapsed}s`);
 
   const limit = parseLimit('SSG_LIMIT_VEHICLES');
-  const minExpected = limit ? Math.max(10, Math.floor(limit * 0.9)) : 1000;
+  const minExpected = limit != null ? Math.max(1, Math.floor(limit * 0.9)) : 1000;
   if (vehicles.written < minExpected) {
     console.error('prerender-spa: poucas páginas geradas — verifique bundles em public/data/bundles');
     process.exit(1);

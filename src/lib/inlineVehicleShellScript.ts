@@ -11,6 +11,7 @@ export function buildInlineVehicleShellScriptContent(): string {
   const footer = JSON.stringify(buildStaticFooterHtml(year));
 
   return `(function(){
+  if(document.getElementById('__VEHICLE_BUNDLE__'))return;
   var root=document.getElementById('root');
   if(!root||root.querySelector('.min-h-screen footer.border-t'))return;
   var prerender=root.querySelector('[data-prerender="vehicle"]');

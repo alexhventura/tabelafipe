@@ -143,7 +143,7 @@ export default function HubPage({ hubKind }: { hubKind: HubBundle['tipo'] }) {
   });
 
   if (loading) {
-    return <div className="max-w-3xl mx-auto px-4 py-20 text-center text-slate-400 text-sm">Carregando...</div>;
+    return <div className="max-w-3xl mx-auto px-4 py-20 text-center text-slate-600 dark:text-slate-400 text-sm">Carregando...</div>;
   }
   if (!hub) {
     return (
@@ -163,7 +163,7 @@ export default function HubPage({ hubKind }: { hubKind: HubBundle['tipo'] }) {
       {breadcrumbItems.length > 0 && <VehicleBreadcrumb items={breadcrumbItems} />}
 
       <header className="space-y-4">
-        <p className="text-xs uppercase tracking-wider text-slate-400 font-semibold">
+        <p className="text-xs uppercase tracking-wider text-slate-600 dark:text-slate-400 font-semibold">
           {hubKind === 'familia' ? 'Família' : hubKind}
         </p>
         <h1 className="text-2xl sm:text-3xl font-bold capitalize">
@@ -174,18 +174,18 @@ export default function HubPage({ hubKind }: { hubKind: HubBundle['tipo'] }) {
         {hubKind === 'familia' && hub.stats && (
           <div className="grid grid-cols-2 sm:grid-cols-4 gap-2">
             <div className="rounded-xl border border-slate-200 dark:border-slate-800 p-3 bg-white dark:bg-slate-900">
-              <p className="text-[10px] uppercase tracking-wider text-slate-400 font-semibold">Versões</p>
+              <p className="text-[10px] uppercase tracking-wider text-slate-600 dark:text-slate-400 font-semibold">Versões</p>
               <p className="text-lg font-bold">{hub.stats.total}</p>
             </div>
             {valorMedio != null && (
               <div className="rounded-xl border border-slate-200 dark:border-slate-800 p-3 bg-white dark:bg-slate-900">
-                <p className="text-[10px] uppercase tracking-wider text-slate-400 font-semibold">Valor médio</p>
+                <p className="text-[10px] uppercase tracking-wider text-slate-600 dark:text-slate-400 font-semibold">Valor médio</p>
                 <p className="text-lg font-bold tabular-nums">{formatBRL(valorMedio)}</p>
               </div>
             )}
             {hub.stats.precoMin != null && hub.stats.precoMax != null && (
               <div className="rounded-xl border border-slate-200 dark:border-slate-800 p-3 bg-white dark:bg-slate-900 col-span-2 sm:col-span-2">
-                <p className="text-[10px] uppercase tracking-wider text-slate-400 font-semibold">Faixa de preço</p>
+                <p className="text-[10px] uppercase tracking-wider text-slate-600 dark:text-slate-400 font-semibold">Faixa de preço</p>
                 <p className="text-lg font-bold tabular-nums">
                   {formatBRL(hub.stats.precoMin)} – {formatBRL(hub.stats.precoMax)}
                 </p>
@@ -214,7 +214,7 @@ export default function HubPage({ hubKind }: { hubKind: HubBundle['tipo'] }) {
                 className="px-3 py-2 rounded-lg border border-slate-200 dark:border-slate-800 text-sm font-semibold hover:border-blue-500 bg-white dark:bg-slate-900 min-h-[44px] inline-flex items-center"
               >
                 {g.titulo.replace(/^Geracao\s/i, 'Geração ')}
-                <span className="text-slate-400 font-normal ml-1">({g.veiculos.length})</span>
+                <span className="text-slate-600 dark:text-slate-400 font-normal ml-1">({g.veiculos.length})</span>
               </Link>
             ))}
           </div>
