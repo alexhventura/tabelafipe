@@ -29,7 +29,7 @@ function readSampleVehicleHtml(): string | null {
       const file = path.join(marcaDir, slug, 'index.html');
       if (!fs.existsSync(file)) continue;
       const html = fs.readFileSync(file, 'utf-8');
-      if (html.includes('data-prerender="vehicle"')) return html;
+      if (html.includes('<h1') && html.includes('/assets/')) return html;
     }
   }
   return null;
@@ -52,9 +52,12 @@ function main(): void {
     totalHtml: total,
     vehicleHtml: vehicles,
     hasGeneratorMeta: sample?.includes('name="generator" content="spa-prerender"') ?? false,
-    hasH1: sample?.includes('<h1>') ?? false,
+    hasH1: sample?.includes('<h1') ?? false,
     hasJsonLd: sample?.includes('application/ld+json') ?? false,
-    hasRootContent: sample?.includes('data-prerender="vehicle"') ?? false,
+    hasVehiclePrerender: sample?.includes('data-prerender="vehicle"') ?? false,
+    hasVehicleBundleEmbed: sample?.includes('id="__VEHICLE_BUNDLE__"') ?? false,
+    hasAppShell: sample?.includes('class="min-h-screen') ?? false,
+    hasStaticFooter: sample?.includes('<footer class="border-t') ?? false,
     hasReactScripts: sample?.includes('/assets/') ?? false,
   };
 
@@ -68,6 +71,17 @@ function main(): void {
   }
   if (!checks.hasH1 || !checks.hasReactScripts) {
     console.error('Falha: HTML de amostra incompleto');
+    process.exit(1);
+  }
+  if (
+    !checks.hasVehiclePrerender ||
+    !checks.hasVehicleBundleEmbed ||
+    !checks.hasAppShell ||
+    !checks.hasStaticFooter
+  ) {
+    console.error(
+      'Falha: HTML de veículo sem shell SSG completo (prerender, bundle embed, min-h-screen ou footer)',
+    );
     process.exit(1);
   }
   console.log('OK');

@@ -14,6 +14,7 @@ import {
   buildPrerenderedHtml,
   buildVehicleBody,
   canonicalPathToOutFile,
+  VEHICLE_BUNDLE_EMBED_ID,
   type PrerenderSeo,
 } from './prerender/html-shell.ts';
 
@@ -167,7 +168,9 @@ function prerenderVehicles(baseHtml: string): { written: number; skipped: number
       continue;
     }
 
-    const html = buildPrerenderedHtml(baseHtml, bundle.seo as PrerenderSeo, buildVehicleBody(bundle));
+    const html = buildPrerenderedHtml(baseHtml, bundle.seo as PrerenderSeo, buildVehicleBody(bundle), {
+      embedJson: { id: VEHICLE_BUNDLE_EMBED_ID, data: bundle },
+    });
     writePage(canonicalPathToOutFile(DIST, entry.canonicalPath), html);
     written += 1;
 

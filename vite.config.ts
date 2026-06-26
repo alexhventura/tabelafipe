@@ -1,11 +1,23 @@
 import tailwindcss from '@tailwindcss/vite';
 import react from '@vitejs/plugin-react';
 import path from 'path';
-import {defineConfig} from 'vite';
+import {defineConfig, type Plugin} from 'vite';
+import { buildInlineVehicleShellScriptTag } from './src/lib/inlineVehicleShellScript';
+
+function inlineVehicleShellPlugin(): Plugin {
+  return {
+    name: 'inline-vehicle-shell',
+    transformIndexHtml(html) {
+      const tag = buildInlineVehicleShellScriptTag();
+      if (html.includes('inline-vehicle-shell')) return html;
+      return html.replace('<script type="module"', `${tag}\n    <script type="module"`);
+    },
+  };
+}
 
 export default defineConfig(() => {
   return {
-    plugins: [react(), tailwindcss()],
+    plugins: [react(), tailwindcss(), inlineVehicleShellPlugin()],
     resolve: {
       alias: {
         '@': path.resolve(__dirname, '.'),

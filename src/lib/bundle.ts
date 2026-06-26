@@ -1,5 +1,7 @@
 import type { HistoricoPonto, VehiclePageBundle } from '../types/bundle';
 
+export const VEHICLE_BUNDLE_EMBED_ID = '__VEHICLE_BUNDLE__';
+
 export type VehicleUrlMapEntry = {
   bundlePath: string;
   canonicalPath: string;
@@ -29,10 +31,33 @@ async function loadUrlMap(): Promise<Record<string, VehicleUrlMapEntry>> {
   return urlMapCache;
 }
 
+declare global {
+  interface Window {
+    __VEHICLE_BUNDLE__?: VehiclePageBundle;
+  }
+}
+
+export function peekEmbeddedVehicleBundle(): VehiclePageBundle | null {
+  if (typeof window !== 'undefined' && window.__VEHICLE_BUNDLE__) {
+    return window.__VEHICLE_BUNDLE__;
+  }
+  if (typeof document === 'undefined') return null;
+  const el = document.getElementById(VEHICLE_BUNDLE_EMBED_ID);
+  if (!el?.textContent?.trim()) return null;
+  try {
+    return JSON.parse(el.textContent) as VehiclePageBundle;
+  } catch {
+    return null;
+  }
+}
+
 export async function loadVehicleBundle(
   marcaSlug: string,
   slug: string,
 ): Promise<VehiclePageBundle | null> {
+  const embedded = peekEmbeddedVehicleBundle();
+  if (embedded) return embedded;
+
   const cleanSlug = slug.replace(/\/$/, '');
   const direct = `/data/bundles/${marcaSlug}/${cleanSlug}.json`;
   try {

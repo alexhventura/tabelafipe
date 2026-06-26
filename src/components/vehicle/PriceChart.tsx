@@ -1,12 +1,5 @@
-import {
-  ResponsiveContainer,
-  LineChart,
-  Line,
-  XAxis,
-  YAxis,
-  Tooltip,
-  CartesianGrid,
-} from 'recharts';
+import { useEffect, useMemo, useRef, useState } from 'react';
+import { LineChart, Line, XAxis, YAxis, Tooltip, CartesianGrid } from 'recharts';
 import { HistoricoPreco } from '../../types';
 
 interface PriceChartProps {
@@ -14,12 +7,42 @@ interface PriceChartProps {
 }
 
 export default function PriceChart({ data }: PriceChartProps) {
-  const sampled = data.filter((_, i) => i % 2 === 0 || i === data.length - 1);
+  const containerRef = useRef<HTMLDivElement>(null);
+  const [size, setSize] = useState<{ width: number; height: number } | null>(null);
+
+  useEffect(() => {
+    const el = containerRef.current;
+    if (!el) return;
+
+    const measure = () => {
+      const { width, height } = el.getBoundingClientRect();
+      const w = Math.floor(width);
+      const h = Math.floor(height);
+      if (w > 0 && h > 0) {
+        setSize((prev) => (prev?.width === w && prev?.height === h ? prev : { width: w, height: h }));
+      }
+    };
+
+    measure();
+    const observer = new ResizeObserver(measure);
+    observer.observe(el);
+    return () => observer.disconnect();
+  }, []);
+
+  const sampled = useMemo(
+    () => data.filter((_, i) => i % 2 === 0 || i === data.length - 1),
+    [data],
+  );
 
   return (
-    <div className="h-48 sm:h-56 w-full">
-      <ResponsiveContainer width="100%" height="100%">
-        <LineChart data={sampled} margin={{ top: 8, right: 8, left: 0, bottom: 0 }}>
+    <div ref={containerRef} className="h-48 sm:h-56 w-full">
+      {size ? (
+        <LineChart
+          width={size.width}
+          height={size.height}
+          data={sampled}
+          margin={{ top: 8, right: 8, left: 0, bottom: 0 }}
+        >
           <CartesianGrid strokeDasharray="3 3" vertical={false} stroke="#e2e8f0" />
           <XAxis dataKey="mes" tickLine={false} axisLine={false} tick={{ fontSize: 10 }} />
           <YAxis
@@ -42,7 +65,7 @@ export default function PriceChart({ data }: PriceChartProps) {
             activeDot={{ r: 5 }}
           />
         </LineChart>
-      </ResponsiveContainer>
+      ) : null}
     </div>
   );
 }

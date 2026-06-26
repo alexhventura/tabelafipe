@@ -25,6 +25,10 @@ import { formatVehicleTitle, sanitizeDisplayText, formatTitleCase } from '../../
 
 const PriceChart = lazy(() => import('./PriceChart'));
 
+function ChartFallback() {
+  return <div className="h-48 sm:h-56 w-full" aria-hidden />;
+}
+
 function Section({
   id,
   title,
@@ -175,11 +179,7 @@ export default function VehiclePageSections({ bundle }: Props) {
       {bundle.sections.historico && fipe.historico.length > 1 && historicoStats && (
         <Section id="sec-historico" title="Histórico FIPE">
           <div className="bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 rounded-2xl p-4 min-h-[220px]">
-            <Suspense
-              fallback={
-                <div className="h-48 flex items-center justify-center text-slate-400 text-sm">Carregando gráfico...</div>
-              }
-            >
+            <Suspense fallback={<ChartFallback />}>
               <PriceChart data={historicoToChartData(fipe.historico)} />
             </Suspense>
           </div>
@@ -222,7 +222,7 @@ export default function VehiclePageSections({ bundle }: Props) {
                 key={card.label}
                 className="bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 rounded-xl p-3 min-h-[72px] flex flex-col justify-center"
               >
-                <p className="text-[10px] uppercase tracking-wider text-slate-400 font-semibold">{card.label}</p>
+                <p className="text-[10px] uppercase tracking-wider text-slate-600 dark:text-slate-400 font-semibold">{card.label}</p>
                 <p className="text-sm font-bold text-slate-900 dark:text-white mt-0.5 line-clamp-2">{card.value}</p>
               </div>
             ))}

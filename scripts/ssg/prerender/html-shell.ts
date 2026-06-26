@@ -1,3 +1,12 @@
+import type { VehiclePageBundle } from '../../../src/types/bundle.ts';
+import { wrapInAppShell } from '../../../src/lib/staticShellHtml.ts';
+import { buildInlineVehicleShellScriptTag } from '../../../src/lib/inlineVehicleShellScript.ts';
+import { buildVehicleStaticMain } from './vehicle-static-html.ts';
+
+export const VEHICLE_BUNDLE_EMBED_ID = '__VEHICLE_BUNDLE__';
+
+export { wrapInAppShell } from '../../../src/lib/staticShellHtml.ts';
+
 export interface PrerenderSeo {
   title: string;
   description: string;
@@ -7,13 +16,9 @@ export interface PrerenderSeo {
   jsonLd?: Record<string, unknown>[];
 }
 
-export function escapeHtml(text: string): string {
-  return text
-    .replace(/&/g, '&amp;')
-    .replace(/</g, '&lt;')
-    .replace(/>/g, '&gt;')
-    .replace(/"/g, '&quot;');
-}
+import { escapeHtml } from './html-utils.ts';
+
+export { escapeHtml } from './html-utils.ts';
 
 export function formatBRL(value: number): string {
   return new Intl.NumberFormat('pt-BR', {
@@ -40,7 +45,39 @@ function buildHeadExtras(seo: PrerenderSeo): string {
   return lines.join('\n    ');
 }
 
-export function buildPrerenderedHtml(baseHtml: string, seo: PrerenderSeo, bodyHtml: string): string {
+export interface PrerenderHtmlOptions {
+  embedJson?: { id: string; data: unknown };
+}
+
+function buildVehicleBundleEmbedScripts(id: string, data: unknown): string {
+  const json = JSON.stringify(data).replace(/</g, '\\u003c');
+  return `<script type="application/json" id="${id}">${json}</script>
+    <script>
+      (function () {
+        var el = document.getElementById(${JSON.stringify(id)});
+        if (!el || !el.textContent) return;
+        try {
+          window[${JSON.stringify(id)}] = JSON.parse(el.textContent);
+        } catch (e) {}
+        var prerender = document.querySelector('[data-prerender="vehicle"]');
+        if (prerender) {
+          var h = prerender.offsetHeight;
+          if (h > 0) {
+            document.documentElement.style.setProperty('--vehicle-prerender-min-h', h + 'px');
+            var main = prerender.closest('main');
+            if (main) main.style.minHeight = h + 'px';
+          }
+        }
+      })();
+    </script>`;
+}
+
+export function buildPrerenderedHtml(
+  baseHtml: string,
+  seo: PrerenderSeo,
+  bodyHtml: string,
+  options?: PrerenderHtmlOptions,
+): string {
   let html = baseHtml;
 
   html = html.replace(/<title>[^<]*<\/title>/, `<title>${escapeHtml(seo.title)}</title>`);
@@ -55,6 +92,16 @@ export function buildPrerenderedHtml(baseHtml: string, seo: PrerenderSeo, bodyHt
     `<div id="root">${bodyHtml}</div>`,
   );
 
+  const inlineShell = buildInlineVehicleShellScriptTag();
+  const beforeModule = `${inlineShell}\n    `;
+
+  if (options?.embedJson) {
+    const embedScripts = buildVehicleBundleEmbedScripts(options.embedJson.id, options.embedJson.data);
+    html = html.replace('<script type="module"', `${beforeModule}${embedScripts}\n    <script type="module"`);
+  } else {
+    html = html.replace('<script type="module"', `${beforeModule}<script type="module"`);
+  }
+
   return html;
 }
 
@@ -63,50 +110,8 @@ export function canonicalPathToOutFile(distDir: string, canonicalPath: string): 
   return `${distDir}/${clean}/index.html`;
 }
 
-interface VehicleBundleLike {
-  seo: PrerenderSeo & { h1?: string; breadcrumb?: { name: string; path: string }[] };
-  identity: {
-    marca: string;
-    displayName: string;
-    combustivel: string;
-    displayYear?: { label: string };
-  };
-  fipe: {
-    fipeCodigo: string;
-    valorAtual: number;
-    referencia?: string;
-  };
-  faq?: { pergunta: string; resposta: string }[];
-}
-
-export function buildVehicleBody(bundle: VehicleBundleLike): string {
-  const h1 = bundle.seo.h1 ?? bundle.identity.displayName;
-  const valor = formatBRL(bundle.fipe.valorAtual);
-  const year = bundle.identity.displayYear?.label ?? '';
-  const breadcrumb = (bundle.seo.breadcrumb ?? [])
-    .map((item) => `<li>${escapeHtml(item.name)}</li>`)
-    .join('');
-
-  const faq = (bundle.faq ?? [])
-    .slice(0, 6)
-    .map(
-      (item) =>
-        `<details><summary>${escapeHtml(item.pergunta)}</summary><p>${escapeHtml(item.resposta)}</p></details>`,
-    )
-    .join('');
-
-  return `<main data-prerender="vehicle">
-  <article>
-    ${breadcrumb ? `<nav aria-label="Breadcrumb"><ol>${breadcrumb}</ol></nav>` : ''}
-    <h1>${escapeHtml(h1)}</h1>
-    <p><strong>Preço FIPE:</strong> ${escapeHtml(valor)}</p>
-    <p><strong>Código FIPE:</strong> ${escapeHtml(bundle.fipe.fipeCodigo)}</p>
-    <p><strong>Combustível:</strong> ${escapeHtml(bundle.identity.combustivel)}${year ? ` · <strong>Ano:</strong> ${escapeHtml(year)}` : ''}</p>
-    ${bundle.fipe.referencia ? `<p><strong>Referência:</strong> ${escapeHtml(bundle.fipe.referencia)}</p>` : ''}
-    <p>${escapeHtml(bundle.seo.description)}</p>
-    ${faq ? `<section aria-label="Perguntas frequentes"><h2>Perguntas frequentes</h2>${faq}</section>` : ''}
-  </article>
-</main>`;
+export function buildVehicleBody(bundle: VehiclePageBundle): string {
+  return wrapInAppShell(buildVehicleStaticMain(bundle));
 }
 
 interface FamilyHubLike {
@@ -131,33 +136,36 @@ export function buildFamilyHubBody(hub: FamilyHubLike): string {
     )
     .join('');
 
-  return `<main data-prerender="familia-hub">
-  <article>
-    <h1>${escapeHtml(h1)}</h1>
-    ${hub.descricao ? `<p>${escapeHtml(hub.descricao)}</p>` : ''}
-    ${hub.seo?.description ? `<p>${escapeHtml(hub.seo.description)}</p>` : ''}
-    ${vehicles ? `<section aria-label="Versões"><h2>Versões e anos</h2><ul>${vehicles}</ul></section>` : ''}
+  const content = `<div class="max-w-3xl mx-auto px-4 py-6 sm:py-8 space-y-6" data-prerender="familia-hub">
+  <article class="space-y-4">
+    <h1 class="text-xl sm:text-2xl font-bold text-slate-900 dark:text-white">${escapeHtml(h1)}</h1>
+    ${hub.descricao ? `<p class="text-sm text-slate-600 dark:text-slate-300">${escapeHtml(hub.descricao)}</p>` : ''}
+    ${hub.seo?.description ? `<p class="text-sm text-slate-600 dark:text-slate-300">${escapeHtml(hub.seo.description)}</p>` : ''}
+    ${vehicles ? `<section aria-label="Versões" class="space-y-3"><h2 class="text-lg font-bold">Versões e anos</h2><ul class="space-y-2 text-sm">${vehicles}</ul></section>` : ''}
   </article>
-</main>`;
+</div>`;
+  return wrapInAppShell(content);
 }
 
 export function buildInfoBody(title: string, description: string, paragraphs: string[]): string {
-  const body = paragraphs.map((p) => `<p>${escapeHtml(p)}</p>`).join('');
-  return `<main data-prerender="info">
-  <article>
-    <h1>${escapeHtml(title)}</h1>
-    <p>${escapeHtml(description)}</p>
+  const body = paragraphs.map((p) => `<p class="text-sm text-slate-600 dark:text-slate-300 leading-relaxed">${escapeHtml(p)}</p>`).join('');
+  const content = `<div class="max-w-3xl mx-auto px-4 py-6 sm:py-8 space-y-4" data-prerender="info">
+  <article class="space-y-4">
+    <h1 class="text-xl sm:text-2xl font-bold text-slate-900 dark:text-white">${escapeHtml(title)}</h1>
+    <p class="text-sm text-slate-600 dark:text-slate-300">${escapeHtml(description)}</p>
     ${body}
   </article>
-</main>`;
+</div>`;
+  return wrapInAppShell(content);
 }
 
 export function buildHomeBody(): string {
-  return `<main data-prerender="home">
-  <article>
-    <h1>Tabela FIPE Completa</h1>
-    <p>Consulte preços FIPE, histórico, ficha técnica, consumo, manutenção, segurança e informações completas do seu veículo.</p>
-    <p>Busque por marca, modelo, versão, ano ou código FIPE.</p>
+  const content = `<div class="max-w-3xl mx-auto px-4 py-6 sm:py-8 space-y-4" data-prerender="home">
+  <article class="space-y-4">
+    <h1 class="text-xl sm:text-2xl font-bold text-slate-900 dark:text-white">Tabela FIPE Completa</h1>
+    <p class="text-sm text-slate-600 dark:text-slate-300">Consulte preços FIPE, histórico, ficha técnica, consumo, manutenção, segurança e informações completas do seu veículo.</p>
+    <p class="text-sm text-slate-600 dark:text-slate-300">Busque por marca, modelo, versão, ano ou código FIPE.</p>
   </article>
-</main>`;
+</div>`;
+  return wrapInAppShell(content, { hideHeader: true });
 }

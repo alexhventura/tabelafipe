@@ -2,9 +2,9 @@
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import Layout from './components/layout/Layout';
 import HomePage from './pages/HomePage';
+import VehiclePage from './pages/VehiclePage';
 
 const SearchResultsPage = lazy(() => import('./pages/SearchResultsPage'));
-const VehiclePage = lazy(() => import('./pages/VehiclePage'));
 const MarcaPage = lazy(() => import('./pages/MarcaPage'));
 const MarcaClusterPage = lazy(() => import('./pages/MarcaClusterPage'));
 const ModeloPage = lazy(() => import('./pages/ModeloPage'));

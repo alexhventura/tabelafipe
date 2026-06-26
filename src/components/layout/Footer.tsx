@@ -6,7 +6,7 @@ export default function Footer() {
   const year = new Date().getFullYear();
 
   return (
-    <footer className="border-t border-slate-200 dark:border-slate-800 bg-white dark:bg-slate-900 mt-auto">
+    <footer className="border-t border-slate-200 dark:border-slate-800 bg-white dark:bg-slate-900">
       <div className="max-w-5xl mx-auto px-4 py-10 sm:py-12 space-y-8">
         <div className="flex flex-col sm:flex-row sm:items-start sm:justify-between gap-8">
           <BrandLogo size="sm" asLink />

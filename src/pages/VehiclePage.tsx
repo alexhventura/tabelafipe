@@ -5,21 +5,24 @@ import { Link, useParams } from 'react-router-dom';
 import VehicleBreadcrumb from '../components/vehicle/VehicleBreadcrumb';
 import VehiclePageSections, { buildEnhancedFaq, buildFaqJsonLd } from '../components/vehicle/VehiclePageSections';
 import { useBundleSeo } from '../hooks/useBundleSeo';
-import { loadVehicleBundle, loadFamilyHub } from '../lib/bundle';
+import { loadVehicleBundle, loadFamilyHub, peekEmbeddedVehicleBundle } from '../lib/bundle';
 import { buildVehicleBreadcrumb } from '../lib/vehiclePageData';
+import {
+  clearVehiclePrerenderMinHeight,
+  getCapturedVehiclePrerenderHtml,
+  hadVehiclePrerenderShell,
+} from '../lib/vehiclePrerender';
 import HubPage from './HubPage';
 
 import type { VehiclePageBundle } from '../types/bundle';
-
-
 
 export default function VehiclePage() {
 
   const { marca, slug } = useParams<{ marca: string; slug: string }>();
 
-  const [bundle, setBundle] = useState<VehiclePageBundle | null>(null);
+  const [bundle, setBundle] = useState<VehiclePageBundle | null>(() => peekEmbeddedVehicleBundle());
 
-  const [loading, setLoading] = useState(true);
+  const [loading, setLoading] = useState(() => !peekEmbeddedVehicleBundle());
 
   const [notFound, setNotFound] = useState(false);
 
@@ -30,6 +33,15 @@ export default function VehiclePage() {
   useEffect(() => {
 
     if (!marca || !slug) return;
+
+    const embedded = peekEmbeddedVehicleBundle();
+    if (embedded) {
+      setBundle(embedded);
+      setNotFound(false);
+      setIsFamilyHub(false);
+      setLoading(false);
+      return;
+    }
 
     setLoading(true);
 
@@ -69,7 +81,11 @@ export default function VehiclePage() {
 
   }, [marca, slug]);
 
-
+  useEffect(() => {
+    if (!loading) {
+      clearVehiclePrerenderMinHeight();
+    }
+  }, [loading]);
 
   const enhancedFaq = useMemo(() => (bundle ? buildEnhancedFaq(bundle) : []), [bundle]);
   const breadcrumbItems = useMemo(() => (bundle ? buildVehicleBreadcrumb(bundle) : []), [bundle]);
@@ -89,17 +105,22 @@ export default function VehiclePage() {
 
 
   if (loading) {
+    const captured = getCapturedVehiclePrerenderHtml();
+    if (captured && hadVehiclePrerenderShell()) {
+      return (
+        <div
+          data-prerender="vehicle"
+          suppressHydrationWarning
+          dangerouslySetInnerHTML={{ __html: captured }}
+        />
+      );
+    }
 
     return (
-
       <div className="max-w-3xl mx-auto px-4 py-20 text-center text-slate-400 text-sm" role="status">
-
         Carregando...
-
       </div>
-
     );
-
   }
 
 
@@ -134,8 +155,15 @@ export default function VehiclePage() {
 
 
 
+  const keepPrerenderShell = Boolean(bundle) && hadVehiclePrerenderShell();
+
   return (
-    <div className="max-w-3xl mx-auto px-4 py-3 sm:py-4 space-y-3">
+    <div
+      className="max-w-3xl mx-auto px-4 py-3 sm:py-4 space-y-3"
+      {...(keepPrerenderShell
+        ? { 'data-prerender': 'vehicle', suppressHydrationWarning: true as const }
+        : {})}
+    >
       <VehicleBreadcrumb items={breadcrumbItems} />
 
       <VehiclePageSections bundle={bundle} />

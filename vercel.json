@@ -59,7 +59,7 @@
   ],
   "rewrites": [
     {
-      "source": "/((?!data/|assets/|sitemap|robots\\.txt|favicon\\.ico).*)",
+      "source": "/((?!data/|assets/|fipe/|marca/|modelo/|sitemap|robots\\.txt|favicon\\.ico).*)",
       "destination": "/index.html"
     }
   ]
