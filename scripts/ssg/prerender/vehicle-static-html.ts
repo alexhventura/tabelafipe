@@ -14,6 +14,36 @@ import {
 import { formatCompactSourcesLine } from '../../../src/lib/vehicleSources.ts';
 import { breadcrumbHtml } from './static-brand.ts';
 import { escapeHtml } from './html-utils.ts';
+import { buildAdSlotPlaceholderHtml } from '../../../src/lib/adSlotHtml.ts';
+
+function historicoTableHtml(
+  historico: Array<{ referencia?: string; mes?: string; valor: number; data?: string }>,
+  maxRows = 12,
+): string {
+  if (!historico.length) return '';
+  const rows = [...historico].reverse().slice(0, maxRows);
+  const body = rows
+    .map((ponto) => {
+      const label = ponto.referencia ?? ponto.mes ?? ponto.data ?? '—';
+      return `<tr class="border-b border-slate-100 dark:border-slate-800 last:border-0">
+  <td class="py-2.5 pr-4 text-slate-700 dark:text-slate-300">${escapeHtml(label)}</td>
+  <td class="py-2.5 text-right font-semibold tabular-nums text-slate-900 dark:text-white">${escapeHtml(formatBRL(ponto.valor))}</td>
+</tr>`;
+    })
+    .join('');
+  return `<div class="overflow-x-auto -mx-1 px-1">
+  <table class="w-full text-sm border-collapse">
+    <caption class="sr-only">Histórico de preços FIPE por mês de referência</caption>
+    <thead>
+      <tr class="border-b border-slate-200 dark:border-slate-700">
+        <th scope="col" class="text-left py-2.5 pr-4 text-xs font-semibold text-slate-700 dark:text-slate-300">Mês de referência</th>
+        <th scope="col" class="text-right py-2.5 text-xs font-semibold text-slate-700 dark:text-slate-300">Valor FIPE</th>
+      </tr>
+    </thead>
+    <tbody>${body}</tbody>
+  </table>
+</div>`;
+}
 
 function sectionHtml(id: string, title: string, inner: string): string {
   return `<section id="${escapeHtml(id)}" aria-labelledby="${escapeHtml(id)}-title" class="space-y-4 scroll-mt-20">
@@ -28,7 +58,7 @@ function specRowsHtml(rows: { label: string; value: string }[]): string {
     .map(
       (row) =>
         `<div class="flex justify-between gap-4 py-2.5 first:pt-0 last:pb-0">
-  <dt class="text-slate-500">${escapeHtml(row.label)}</dt>
+  <dt class="text-slate-600 dark:text-slate-400">${escapeHtml(row.label)}</dt>
   <dd class="font-semibold text-right">${escapeHtml(row.value)}</dd>
 </div>`,
     )
@@ -142,7 +172,7 @@ export function buildVehicleStaticMain(bundle: VehiclePageBundle): string {
     historicoSection = sectionHtml(
       'sec-historico',
       'Histórico FIPE',
-      `<div class="bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 rounded-2xl p-4 min-h-[220px]" aria-hidden="true"></div>${insight}${grid}`,
+      `<div class="bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 rounded-2xl p-4 min-h-[220px]" aria-hidden="true"></div>${historicoTableHtml(fipe.historico)}${insight}${grid}`,
     );
   }
 
@@ -211,11 +241,14 @@ export function buildVehicleStaticMain(bundle: VehiclePageBundle): string {
 
   const sections = `<div class="space-y-10">
 ${heroHtml}
+${buildAdSlotPlaceholderHtml('leaderboard')}
 ${historicoSection}
 ${quickCardsSection}
+${buildAdSlotPlaceholderHtml('rectangle')}
 ${specSection}
 ${concorrentesSection}
 ${sourcesFooter}
+${buildAdSlotPlaceholderHtml('large-rectangle')}
 ${faqSection}
 </div>`;
 

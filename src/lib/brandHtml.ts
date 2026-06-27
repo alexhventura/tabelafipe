@@ -23,7 +23,7 @@ export function buildBrandLogoHtml(size: keyof typeof sizes = 'sm', options?: { 
 </div>`;
 
   if (asLink) {
-    return `<a href="/" class="group focus:outline-none focus-visible:ring-2 focus-visible:ring-blue-500 rounded-lg">${inner}</a>`;
+    return `<a href="/" aria-label="Pesquisa Tabela FIPE — página inicial" class="group focus:outline-none focus-visible:ring-2 focus-visible:ring-blue-500 rounded-lg">${inner}</a>`;
   }
   return inner;
 }

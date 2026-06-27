@@ -82,7 +82,7 @@ export default function MarcaClusterPage() {
 
   if (loading) {
     return (
-      <div className="max-w-3xl mx-auto px-4 py-20 text-center text-slate-400 text-sm" role="status">
+      <div className="max-w-3xl mx-auto px-4 py-20 text-center text-slate-600 dark:text-slate-400 text-sm" role="status">
         Carregando...
       </div>
     );

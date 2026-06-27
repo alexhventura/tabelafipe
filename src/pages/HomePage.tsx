@@ -10,6 +10,8 @@ import {
 } from 'lucide-react';
 import BrandLogo from '../components/brand/BrandLogo';
 import SearchBox from '../components/search/SearchBox';
+import FaqJsonLd from '../components/vehicle/FaqJsonLd';
+import { HOME_FAQ } from '../content/homeFaq';
 import { useSearchIndex } from '../hooks/useSearchIndex';
 import { usePageMeta } from '../hooks/usePageMeta';
 import { VehicleTipo } from '../types';
@@ -92,25 +94,6 @@ const SEARCH_EXAMPLES = [
   '002112-1',
 ] as const;
 
-const HOME_FAQ = [
-  {
-    q: 'O que é a Tabela FIPE?',
-    a: 'É a tabela de preços médios de veículos no mercado brasileiro, publicada pela FIPE. Serve como referência para compra, venda, seguro e financiamento.',
-  },
-  {
-    q: 'Como consultar?',
-    a: 'Selecione montadora, modelo, versão e ano no fluxo guiado — ou use a busca rápida abaixo para atalhos por nome ou código FIPE.',
-  },
-  {
-    q: 'Com que frequência atualiza?',
-    a: 'Os preços seguem a publicação mensal da Tabela FIPE. Cada página exibe o mês de referência da cotação.',
-  },
-  {
-    q: 'O histórico é confiável?',
-    a: 'Sim. O histórico é montado a partir das séries oficiais FIPE associadas a cada código de veículo.',
-  },
-] as const;
-
 export default function HomePage() {
   const { index, families, ensureShardsForQuery, ensureIndexReady } = useSearchIndex({ lazy: true });
   const [tipo, setTipo] = useState<VehicleTipo>('carros');
@@ -124,6 +107,7 @@ export default function HomePage() {
 
   return (
     <div className="w-full overflow-x-hidden">
+      <FaqJsonLd items={HOME_FAQ} />
       {/* HERO — único conteúdo acima da dobra */}
       <section
         className="min-h-[100dvh] flex flex-col justify-center max-w-2xl mx-auto px-4 py-10 sm:py-14"
@@ -194,8 +178,8 @@ export default function HomePage() {
                 className="bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 rounded-2xl p-4 space-y-2 min-h-[120px]"
               >
                 <Icon className="w-5 h-5 text-blue-600" strokeWidth={1.5} aria-hidden />
-                <p className="text-sm font-semibold text-slate-900 dark:text-white leading-snug">{title}</p>
-                <p className="text-xs text-slate-500 leading-relaxed">{desc}</p>
+                <h3 className="text-sm font-semibold text-slate-900 dark:text-white leading-snug">{title}</h3>
+                <p className="text-xs text-slate-600 dark:text-slate-400 leading-relaxed">{desc}</p>
               </div>
             ))}
           </div>
@@ -242,16 +226,16 @@ export default function HomePage() {
           <div className="space-y-2">
             {HOME_FAQ.map((item) => (
               <details
-                key={item.q}
+                key={item.pergunta}
                 className="group bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 rounded-xl"
               >
                 <summary className="px-4 py-3 cursor-pointer font-semibold text-sm list-none flex justify-between items-center min-h-[48px]">
-                  {item.q}
-                  <span className="text-slate-400 group-open:rotate-180 transition-transform shrink-0 ml-2" aria-hidden>
+                  {item.pergunta}
+                  <span className="text-slate-600 dark:text-slate-400 group-open:rotate-180 transition-transform shrink-0 ml-2" aria-hidden>
                     ▼
                   </span>
                 </summary>
-                <p className="px-4 pb-4 text-sm text-slate-600 dark:text-slate-300 leading-relaxed">{item.a}</p>
+                <p className="px-4 pb-4 text-sm text-slate-600 dark:text-slate-300 leading-relaxed">{item.resposta}</p>
               </details>
             ))}
           </div>

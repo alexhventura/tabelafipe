@@ -186,11 +186,14 @@ export default function SearchBox({
   }, [query, onQueryChange]);
 
   const inputClasses = size === 'hero' ? 'text-base py-4' : 'text-sm py-2.5';
+  const listOpen = open && query.trim().length >= 1;
+  const activeOptionId = listOpen && results.length > 0 ? `search-option-${activeIdx}` : undefined;
 
-  const dropdown = open && query.trim().length >= 1 && (
+  const dropdown = listOpen && (
     <div
       id="search-dropdown-menu"
       role="listbox"
+      aria-label="Sugestões de busca"
       className={`z-50 bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-700 rounded-xl shadow-xl overflow-hidden ${
         size === 'hero'
           ? 'relative mt-1 w-full'
@@ -219,6 +222,7 @@ export default function SearchBox({
           {results.map((suggestion, idx) => (
             <button
               key={suggestionKey(suggestion, idx)}
+              id={`search-option-${idx}`}
               type="button"
               role="option"
               aria-selected={idx === activeIdx}
@@ -244,7 +248,7 @@ export default function SearchBox({
                   )}
                   {suggestionTitle(suggestion)}
                 </p>
-                <p className="text-xs text-slate-500 dark:text-slate-600 dark:text-slate-400 mt-0.5">
+                <p className="text-xs text-slate-600 dark:text-slate-400 mt-0.5">
                   {suggestionSubtitle(suggestion)}
                 </p>
               </div>
@@ -286,6 +290,18 @@ export default function SearchBox({
 
   return (
     <div ref={containerRef} className="w-full space-y-3">
+      <div
+        id="search-status"
+        className="sr-only"
+        aria-live="polite"
+        aria-atomic="true"
+      >
+        {listOpen
+          ? results.length > 0
+            ? `${results.length} resultado${results.length > 1 ? 's' : ''} para ${query}`
+            : `Nenhum resultado para ${query}`
+          : ''}
+      </div>
       <label
         htmlFor="main-fipe-search-input"
         className={`block text-sm font-bold text-slate-900 dark:text-white ${hideLabel ? 'sr-only' : ''}`}
@@ -336,9 +352,10 @@ export default function SearchBox({
           role="combobox"
           aria-label="Buscar veículo na Tabela FIPE"
           aria-haspopup="listbox"
-          aria-expanded={open && query.trim().length >= 1}
+          aria-expanded={listOpen}
           aria-controls="search-dropdown-menu"
           aria-autocomplete="list"
+          aria-activedescendant={activeOptionId}
         />
       </div>
 

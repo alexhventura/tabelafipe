@@ -29,7 +29,10 @@ export function formatBRL(value: number): string {
 }
 
 function buildHeadExtras(seo: PrerenderSeo): string {
-  const lines: string[] = ['<meta name="generator" content="spa-prerender" />'];
+  const lines: string[] = [
+    '<meta name="generator" content="spa-prerender" />',
+    '<meta name="robots" content="index, follow" />',
+  ];
   if (seo.canonical) {
     lines.push(`<link rel="canonical" href="${escapeHtml(seo.canonical)}" />`);
   }

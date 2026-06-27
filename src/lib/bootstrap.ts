@@ -3,6 +3,7 @@ import type { ReactElement } from 'react';
 
 import { peekEmbeddedVehicleBundle, loadVehicleBundle } from './bundle';
 import { deferAdsense } from './deferAdsense';
+import { scheduleAdSlotHydration } from './hydrateAdSlots';
 import { wrapInAppShell } from './staticShellHtml';
 import {
   applyVehicleMainMinHeight,
@@ -115,22 +116,26 @@ export async function mountApp(container: HTMLElement, app: ReactElement): Promi
       root.render(app);
       applyVehicleMainMinHeight();
       deferAdsense();
+      scheduleAdSlotHydration(container);
       return root;
     }
 
     const root = hydrateRoot(container, app);
     deferAdsense();
+    scheduleAdSlotHydration(container);
     return root;
   }
 
   if (container.firstElementChild) {
     const root = hydrateRoot(container, app);
     deferAdsense();
+    scheduleAdSlotHydration(container);
     return root;
   }
 
   const root = createRoot(container);
   root.render(app);
   deferAdsense();
+  scheduleAdSlotHydration(container);
   return root;
 }

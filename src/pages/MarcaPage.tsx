@@ -8,6 +8,7 @@ import { useSearchIndex } from '../hooks/useSearchIndex';
 import { usePageMeta, SITE_URL } from '../hooks/usePageMeta';
 import { loadMarca } from '../lib/seo-data';
 import type { SeoMarca } from '../lib/seo-data';
+import { peekEmbeddedMarca, hasPrerenderJsonLd } from '../lib/seoEmbed';
 import { historicoPath, modeloPath, clusterPath } from '../lib/seo-routes';
 import { MARCA_CLUSTER_TYPES } from '../lib/semantic';
 import { useParams } from 'react-router-dom';
@@ -15,10 +16,17 @@ import { useParams } from 'react-router-dom';
 export default function MarcaPage() {
   const { marcaSlug = '' } = useParams();
   const { index } = useSearchIndex();
-  const [marca, setMarca] = useState<SeoMarca | null>(null);
-  const [loading, setLoading] = useState(true);
+  const [marca, setMarca] = useState<SeoMarca | null>(() => peekEmbeddedMarca(marcaSlug));
+  const [loading, setLoading] = useState(() => !peekEmbeddedMarca(marcaSlug));
 
   useEffect(() => {
+    const embedded = peekEmbeddedMarca(marcaSlug);
+    if (embedded) {
+      setMarca(embedded);
+      setLoading(false);
+      return;
+    }
+
     setLoading(true);
     loadMarca(marcaSlug).then((m) => {
       setMarca(m);
@@ -49,9 +57,11 @@ export default function MarcaPage() {
     [marca, marcaSlug],
   );
 
+  const skipJsonLd = hasPrerenderJsonLd() || Boolean(peekEmbeddedMarca(marcaSlug));
+
   if (loading) {
     return (
-      <div className="max-w-3xl mx-auto px-4 py-20 text-center text-slate-400 text-sm" role="status">
+      <div className="max-w-3xl mx-auto px-4 py-20 text-center text-slate-600 dark:text-slate-400 text-sm" role="status">
         Carregando...
       </div>
     );
@@ -70,13 +80,15 @@ export default function MarcaPage() {
 
   return (
     <div className="max-w-3xl mx-auto px-4 py-6 space-y-8">
-      <ItemListJsonLd name={`Modelos ${marca.nome} — Tabela FIPE`} items={listItems} />
-      <BreadcrumbJsonLd
-        items={[
-          { name: 'Início', href: SITE_URL },
-          { name: marca.nome, href: `${SITE_URL}${path}` },
-        ]}
-      />
+      {!skipJsonLd && <ItemListJsonLd name={`Modelos ${marca.nome} — Tabela FIPE`} items={listItems} />}
+      {!skipJsonLd && (
+        <BreadcrumbJsonLd
+          items={[
+            { name: 'Início', href: SITE_URL },
+            { name: marca.nome, href: `${SITE_URL}${path}` },
+          ]}
+        />
+      )}
 
       <SearchBox index={index} size="compact" showTabs={false} />
 

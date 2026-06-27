@@ -5,6 +5,7 @@ import { Link, useParams } from 'react-router-dom';
 import VehicleBreadcrumb from '../components/vehicle/VehicleBreadcrumb';
 import VehiclePageSections, { buildEnhancedFaq, buildFaqJsonLd } from '../components/vehicle/VehiclePageSections';
 import { useBundleSeo } from '../hooks/useBundleSeo';
+import { usePageMeta } from '../hooks/usePageMeta';
 import { loadVehicleBundle, loadFamilyHub, peekEmbeddedVehicleBundle } from '../lib/bundle';
 import { buildVehicleBreadcrumb } from '../lib/vehiclePageData';
 import {
@@ -13,6 +14,7 @@ import {
   getCapturedVehiclePrerenderHtml,
   hadVehiclePrerenderShell,
 } from '../lib/vehiclePrerender';
+import { scheduleAdSlotHydration } from '../lib/hydrateAdSlots';
 import HubPage from './HubPage';
 
 import type { VehiclePageBundle } from '../types/bundle';
@@ -114,6 +116,19 @@ export default function VehiclePage() {
 
   useBundleSeo(bundle?.seo ?? null, extraJsonLd);
 
+  usePageMeta({
+    title: 'Veículo não encontrado — PesquisaTabelaFIPE',
+    description: 'O veículo solicitado não foi encontrado na Tabela FIPE.',
+    path: marca && slug ? `/fipe/${marca}/${slug}/` : '/fipe/',
+    noindex: true,
+    enabled: notFound,
+  });
+
+  useEffect(() => {
+    if (!useStaticShell) return;
+    scheduleAdSlotHydration();
+  }, [useStaticShell]);
+
   if (useStaticShell && capturedPrerender) {
     return (
       <div
@@ -126,7 +141,7 @@ export default function VehiclePage() {
 
   if (loading) {
     return (
-      <div className="max-w-3xl mx-auto px-4 py-20 text-center text-slate-400 text-sm" role="status">
+      <div className="max-w-3xl mx-auto px-4 py-20 text-center text-slate-600 dark:text-slate-400 text-sm" role="status">
         Carregando...
       </div>
     );
@@ -166,7 +181,7 @@ export default function VehiclePage() {
 
   return (
     <div className="max-w-3xl mx-auto px-4 py-3 sm:py-4 space-y-3">
-      <VehicleBreadcrumb items={breadcrumbItems} />
+      <VehicleBreadcrumb items={breadcrumbItems} jsonLd={false} />
 
       <VehiclePageSections bundle={bundle} />
 

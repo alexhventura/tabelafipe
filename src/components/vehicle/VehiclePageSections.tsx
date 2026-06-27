@@ -5,7 +5,10 @@ import { formatBRL, formatPct } from '../../lib/format';
 import { formatRelatedYear, getIdentityDisplayYear } from '../../lib/displayYear';
 import { formatCompactSourcesLine } from '../../lib/vehicleSources';
 import { historicoToChartData } from '../../lib/bundle';
+import AdSlot from '../ads/AdSlot';
 import ShareButtons from './ShareButtons';
+import HistoricoTable from './HistoricoTable';
+import { AD_SLOTS } from '../../lib/adsenseConfig';
 import {
   buildEnhancedFaq,
   buildConsumoRows,
@@ -54,7 +57,7 @@ function SpecRows({ rows }: { rows: { label: string; value: string }[] }) {
     <dl className="bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 rounded-2xl p-5 text-sm divide-y divide-slate-100 dark:divide-slate-800">
       {rows.map((row) => (
         <div key={row.label} className="flex justify-between gap-4 py-2.5 first:pt-0 last:pb-0">
-          <dt className="text-slate-500">{row.label}</dt>
+          <dt className="text-slate-600 dark:text-slate-400">{row.label}</dt>
           <dd className="font-semibold text-right">{row.value}</dd>
         </div>
       ))}
@@ -175,6 +178,8 @@ export default function VehiclePageSections({ bundle }: Props) {
         </div>
       </header>
 
+      <AdSlot format="leaderboard" slotId={AD_SLOTS.vehicleLeaderboard || undefined} />
+
       {/* SEÇÃO 2 — HISTÓRICO FIPE (logo após o hero) */}
       {bundle.sections.historico && fipe.historico.length > 1 && historicoStats && (
         <Section id="sec-historico" title="Histórico FIPE">
@@ -183,6 +188,7 @@ export default function VehiclePageSections({ bundle }: Props) {
               <PriceChart data={historicoToChartData(fipe.historico)} />
             </Suspense>
           </div>
+          <HistoricoTable historico={fipe.historico} />
           {historicoStats.insight && (
             <p className="text-sm text-slate-600 dark:text-slate-300 bg-blue-50 dark:bg-blue-950/30 border border-blue-100 dark:border-blue-900 rounded-xl px-4 py-3">
               {historicoStats.insight}
@@ -229,6 +235,8 @@ export default function VehiclePageSections({ bundle }: Props) {
           </div>
         </Section>
       )}
+
+      <AdSlot format="rectangle" slotId={AD_SLOTS.vehicleRectangle || undefined} />
 
       {/* SEÇÃO 4 — FICHA TÉCNICA */}
       {specGroups.length > 0 && (
@@ -367,6 +375,8 @@ export default function VehiclePageSections({ bundle }: Props) {
           ))}
         </p>
       </footer>
+
+      <AdSlot format="large-rectangle" slotId={AD_SLOTS.vehicleBottom || undefined} />
 
       {/* SEÇÃO 12 — FAQ */}
       {faqItems.length > 0 && (

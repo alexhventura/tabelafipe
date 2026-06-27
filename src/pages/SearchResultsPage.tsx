@@ -44,9 +44,12 @@ export default function SearchResultsPage() {
   }, [baseResults, yearFilter]);
 
   usePageMeta({
-    title: `Pesquisa: ${query || 'veículos'} — PesquisaTabelaFIPE`,
-    description: `${results.length} veículos encontrados para "${query}" na Tabela FIPE.`,
-    path: `/busca?q=${encodeURIComponent(query)}&tipo=${tipoParam}`,
+    title: query ? `Pesquisa: ${query} — PesquisaTabelaFIPE` : 'Busca de veículos — PesquisaTabelaFIPE',
+    description: query
+      ? `${results.length} veículos encontrados para "${query}" na Tabela FIPE.`
+      : 'Busque veículos na Tabela FIPE por marca, modelo, ano ou código FIPE.',
+    path: '/busca',
+    noindex: true,
   });
 
   return (
@@ -132,7 +135,7 @@ export default function SearchResultsPage() {
 
       {familyResults.length > 0 && (
         <section className="space-y-3 pt-4 border-t border-slate-200 dark:border-slate-800" aria-label="Explorar famílias">
-          <h2 className="text-xs font-bold uppercase tracking-wider text-slate-400">Explorar por família</h2>
+          <h2 className="text-xs font-bold uppercase tracking-wider text-slate-600 dark:text-slate-400">Explorar por família</h2>
           <div className="grid gap-2 sm:grid-cols-2">
             {familyResults.map((item) => (
               <Link

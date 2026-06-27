@@ -44,7 +44,7 @@ export default function DecisaoPage() {
 
   if (match === undefined) {
     return (
-      <div className="max-w-3xl mx-auto px-4 py-20 text-center text-slate-400 text-sm" role="status">
+      <div className="max-w-3xl mx-auto px-4 py-20 text-center text-slate-600 dark:text-slate-400 text-sm" role="status">
         Carregando...
       </div>
     );
@@ -124,7 +124,6 @@ function ValeAPenaView({
       />
       <header className="space-y-2">
         <h1 className="text-2xl sm:text-3xl font-bold capitalize">{title}</h1>
-        <p className="text-sm text-slate-500">Score de prioridade SEO: {entry.totalScore}</p>
       </header>
       {modelo && (
         <>

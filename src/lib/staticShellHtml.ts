@@ -48,8 +48,9 @@ export function wrapInAppShell(mainContent: string, options?: AppShellOptions): 
   const year = new Date().getFullYear();
   const header = options?.hideHeader ? '' : buildStaticHeaderHtml();
   return `<div class="min-h-screen bg-slate-50 dark:bg-slate-950 text-slate-900 dark:text-slate-100 flex flex-col overflow-x-hidden">
+<a href="#main-content" class="skip-link">Ir para o conteúdo principal</a>
 ${header}
-<main class="flex-1 w-full">
+<main id="main-content" class="flex-1 w-full">
 ${mainContent}
 </main>
 ${buildStaticFooterHtml(year)}

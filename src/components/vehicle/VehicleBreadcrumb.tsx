@@ -9,9 +9,11 @@ export interface BreadcrumbCrumb {
 
 interface Props {
   items: BreadcrumbCrumb[];
+  /** When false, skip JSON-LD (e.g. vehicle pages already ship BreadcrumbList in bundle SEO). */
+  jsonLd?: boolean;
 }
 
-export default function VehicleBreadcrumb({ items }: Props) {
+export default function VehicleBreadcrumb({ items, jsonLd = true }: Props) {
   const jsonLdItems = items.map((item) => ({
     name: item.name,
     href: item.path ? `${SITE_URL}${item.path}` : undefined,
@@ -19,8 +21,8 @@ export default function VehicleBreadcrumb({ items }: Props) {
 
   return (
     <>
-      <BreadcrumbJsonLd items={jsonLdItems} />
-      <nav aria-label="Breadcrumb" className="text-[11px] sm:text-xs text-slate-500 flex flex-wrap items-center gap-y-0.5">
+      {jsonLd && <BreadcrumbJsonLd items={jsonLdItems} />}
+      <nav aria-label="Breadcrumb" className="text-[11px] sm:text-xs text-slate-600 dark:text-slate-400 flex flex-wrap items-center gap-y-0.5">
         {items.map((crumb, i) => (
           <span key={`${crumb.name}-${i}`} className="inline-flex items-center gap-1">
             {i > 0 && <span className="text-slate-300 px-0.5" aria-hidden>&gt;</span>}

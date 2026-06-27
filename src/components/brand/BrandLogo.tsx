@@ -41,7 +41,11 @@ export default function BrandLogo({ size = 'md', showText = true, asLink = true,
 
   if (asLink) {
     return (
-      <Link to="/" className="group focus:outline-none focus-visible:ring-2 focus-visible:ring-blue-500 rounded-lg">
+      <Link
+        to="/"
+        aria-label="Pesquisa Tabela FIPE — página inicial"
+        className="group focus:outline-none focus-visible:ring-2 focus-visible:ring-blue-500 rounded-lg"
+      >
         {inner}
       </Link>
     );

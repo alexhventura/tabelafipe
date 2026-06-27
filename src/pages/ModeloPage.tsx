@@ -9,6 +9,7 @@ import { useSearchIndex } from '../hooks/useSearchIndex';
 import { usePageMeta, SITE_URL } from '../hooks/usePageMeta';
 import { loadModelo } from '../lib/seo-data';
 import type { SeoModelo } from '../lib/seo-data';
+import { peekEmbeddedModelo, hasPrerenderJsonLd } from '../lib/seoEmbed';
 import { formatBRL } from '../lib/format';
 import { vehiclePath } from '../lib/slug';
 import { historicoPath, marcaPath } from '../lib/seo-routes';
@@ -17,10 +18,21 @@ import SemanticLinks from '../components/semantic/SemanticLinks';
 export default function ModeloPage() {
   const { marcaSlug = '', modeloSlug = '' } = useParams();
   const { index } = useSearchIndex();
-  const [modelo, setModelo] = useState<SeoModelo | null>(null);
-  const [loading, setLoading] = useState(true);
+  const [modelo, setModelo] = useState<SeoModelo | null>(() =>
+    peekEmbeddedModelo(marcaSlug, modeloSlug),
+  );
+  const [loading, setLoading] = useState(
+    () => !peekEmbeddedModelo(marcaSlug, modeloSlug),
+  );
 
   useEffect(() => {
+    const embedded = peekEmbeddedModelo(marcaSlug, modeloSlug);
+    if (embedded) {
+      setModelo(embedded);
+      setLoading(false);
+      return;
+    }
+
     setLoading(true);
     loadModelo(marcaSlug, modeloSlug).then((m) => {
       setModelo(m);
@@ -52,9 +64,11 @@ export default function ModeloPage() {
     [modelo],
   );
 
+  const skipJsonLd = hasPrerenderJsonLd() || Boolean(peekEmbeddedModelo(marcaSlug, modeloSlug));
+
   if (loading) {
     return (
-      <div className="max-w-3xl mx-auto px-4 py-20 text-center text-slate-400 text-sm" role="status">
+      <div className="max-w-3xl mx-auto px-4 py-20 text-center text-slate-600 dark:text-slate-400 text-sm" role="status">
         Carregando...
       </div>
     );
@@ -75,22 +89,26 @@ export default function ModeloPage() {
 
   return (
     <div className="max-w-3xl mx-auto px-4 py-6 space-y-8">
-      <ProductJsonLd
-        name={displayName}
-        brand={modelo.marcaNome}
-        description={`Preços FIPE do ${displayName} — ${modelo.totalVeiculos} versões indexadas.`}
-        url={canonicalUrl}
-        lowPrice={modelo.historico.menorPreco}
-        highPrice={modelo.historico.maiorPreco}
-        offerCount={modelo.totalVeiculos}
-      />
-      <BreadcrumbJsonLd
-        items={[
-          { name: 'Início', href: SITE_URL },
-          { name: modelo.marcaNome, href: `${SITE_URL}${marcaPath(marcaSlug)}` },
-          { name: modelo.modeloNome, href: canonicalUrl },
-        ]}
-      />
+      {!skipJsonLd && (
+        <ProductJsonLd
+          name={displayName}
+          brand={modelo.marcaNome}
+          description={`Preços FIPE do ${displayName} — ${modelo.totalVeiculos} versões indexadas.`}
+          url={canonicalUrl}
+          lowPrice={modelo.historico.menorPreco}
+          highPrice={modelo.historico.maiorPreco}
+          offerCount={modelo.totalVeiculos}
+        />
+      )}
+      {!skipJsonLd && (
+        <BreadcrumbJsonLd
+          items={[
+            { name: 'Início', href: SITE_URL },
+            { name: modelo.marcaNome, href: `${SITE_URL}${marcaPath(marcaSlug)}` },
+            { name: modelo.modeloNome, href: canonicalUrl },
+          ]}
+        />
+      )}
 
       <SearchBox index={index} size="compact" showTabs={false} />
 

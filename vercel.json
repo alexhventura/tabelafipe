@@ -57,9 +57,16 @@
       ]
     }
   ],
+  "redirects": [
+    {
+      "source": "/sitemap-vehicles.xml",
+      "destination": "/sitemap.xml",
+      "permanent": true
+    }
+  ],
   "rewrites": [
     {
-      "source": "/((?!data/|assets/|fipe/|marca/|modelo/|sitemap|robots\\.txt|favicon\\.ico).*)",
+      "source": "/((?!data/|assets/|fipe/|marca/|modelo/|sitemap|robots\\.txt|ads\\.txt|favicon\\.ico|og-default\\.svg).*)",
       "destination": "/index.html"
     }
   ]

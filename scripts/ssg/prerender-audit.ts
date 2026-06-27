@@ -20,19 +20,33 @@ function countHtml(dir: string): number {
 }
 
 function readSampleVehicleHtml(): string | null {
-  const fipeDir = path.join(DIST, 'fipe');
-  if (!fs.existsSync(fipeDir)) return null;
-  for (const marca of fs.readdirSync(fipeDir)) {
-    const marcaDir = path.join(fipeDir, marca);
-    if (!fs.statSync(marcaDir).isDirectory()) continue;
-    for (const slug of fs.readdirSync(marcaDir)) {
-      const file = path.join(marcaDir, slug, 'index.html');
-      if (!fs.existsSync(file)) continue;
-      const html = fs.readFileSync(file, 'utf-8');
-      if (html.includes('<h1') && html.includes('/assets/')) return html;
-    }
-  }
-  return null;
+  const mapPath = path.join(ROOT, 'public', 'data', 'vehicle-url-map.json');
+  if (!fs.existsSync(mapPath)) return null;
+
+  const urlMap = JSON.parse(fs.readFileSync(mapPath, 'utf-8')) as Record<
+    string,
+    { canonicalPath?: string }
+  >;
+  const entry = Object.values(urlMap).find((e) => e.canonicalPath);
+  if (!entry?.canonicalPath) return null;
+
+  const clean = entry.canonicalPath.replace(/\/+$/, '').replace(/^\//, '');
+  const file = path.join(DIST, clean, 'index.html');
+  if (!fs.existsSync(file)) return null;
+  return fs.readFileSync(file, 'utf-8');
+}
+
+function readSampleMarcaHtml(): string | null {
+  const marcaDir = path.join(DIST, 'marca', 'toyota');
+  const file = path.join(marcaDir, 'index.html');
+  if (!fs.existsSync(file)) return null;
+  return fs.readFileSync(file, 'utf-8');
+}
+
+function readSampleModeloHtml(): string | null {
+  const file = path.join(DIST, 'modelo', 'volkswagen', 'gol', 'index.html');
+  if (!fs.existsSync(file)) return null;
+  return fs.readFileSync(file, 'utf-8');
 }
 
 function resolveMinVehicles(): number {
@@ -48,6 +62,9 @@ function main(): void {
   const vehicles = countHtml(path.join(DIST, 'fipe'));
   const sample = readSampleVehicleHtml();
 
+  const sampleMarca = readSampleMarcaHtml();
+  const sampleModelo = readSampleModeloHtml();
+
   const checks = {
     totalHtml: total,
     vehicleHtml: vehicles,
@@ -59,6 +76,13 @@ function main(): void {
     hasAppShell: sample?.includes('class="min-h-screen') ?? false,
     hasStaticFooter: sample?.includes('<footer class="border-t') ?? false,
     hasReactScripts: sample?.includes('/assets/') ?? false,
+    adPlaceholderCount: sample ? (sample.match(/data-ad-placeholder="true"/g) ?? []).length : 0,
+    marcaHtml: countHtml(path.join(DIST, 'marca')),
+    modeloHtml: countHtml(path.join(DIST, 'modelo')),
+    hasMarcaPrerender: sampleMarca?.includes('data-prerender="marca"') ?? false,
+    hasModeloPrerender: sampleModelo?.includes('data-prerender="modelo"') ?? false,
+    hasMarcaEmbed: sampleMarca?.includes('id="__MARCA_DATA__"') ?? false,
+    hasModeloEmbed: sampleModelo?.includes('id="__MODELO_DATA__"') ?? false,
   };
 
   console.log('=== Prerender Audit ===');
@@ -82,6 +106,26 @@ function main(): void {
     console.error(
       'Falha: HTML de veículo sem shell SSG completo (prerender, bundle embed, min-h-screen ou footer)',
     );
+    process.exit(1);
+  }
+  if (checks.marcaHtml < 50) {
+    console.error(`Falha: esperado >= 50 HTML de marcas, obtido ${checks.marcaHtml}`);
+    process.exit(1);
+  }
+  if (checks.modeloHtml < 500) {
+    console.error(`Falha: esperado >= 500 HTML de modelos, obtido ${checks.modeloHtml}`);
+    process.exit(1);
+  }
+  if (!checks.hasMarcaPrerender || !checks.hasMarcaEmbed) {
+    console.error('Falha: amostra /marca/toyota sem shell SSG ou embed JSON');
+    process.exit(1);
+  }
+  if (!checks.hasModeloPrerender || !checks.hasModeloEmbed) {
+    console.error('Falha: amostra /modelo/volkswagen/gol sem shell SSG ou embed JSON');
+    process.exit(1);
+  }
+  if (checks.adPlaceholderCount < 3) {
+    console.error(`Falha: esperado >= 3 placeholders AdSense no HTML de veículo, obtido ${checks.adPlaceholderCount}`);
     process.exit(1);
   }
   console.log('OK');

@@ -2,14 +2,18 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <sitemap>
     <loc>https://pesquisatabelafipe.com.br/sitemap-static.xml</loc>
-    <lastmod>2026-06-26</lastmod>
+    <lastmod>2026-06-27</lastmod>
   </sitemap>
   <sitemap>
-    <loc>https://pesquisatabelafipe.com.br/sitemap-vehicles.xml</loc>
-    <lastmod>2026-06-26</lastmod>
+    <loc>https://pesquisatabelafipe.com.br/sitemap-vehicles-1.xml</loc>
+    <lastmod>2026-06-01</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://pesquisatabelafipe.com.br/sitemap-vehicles-2.xml</loc>
+    <lastmod>2026-06-01</lastmod>
   </sitemap>
   <sitemap>
     <loc>https://pesquisatabelafipe.com.br/sitemap-semantic.xml</loc>
-    <lastmod>2026-06-26</lastmod>
+    <lastmod>2026-06-24</lastmod>
   </sitemap>
 </sitemapindex>

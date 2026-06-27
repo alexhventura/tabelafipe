@@ -86,18 +86,21 @@ export function buildVehicleSeo(input: SeoBundleInput): VehiclePageSeo {
   const specsBit = input.specsLine ? ` ${input.specsLine}.` : '';
   const description = `Consulte o preço FIPE do ${titleName} (código ${input.fipeCodigo}): ${valor}.${specsBit} Histórico, ficha técnica e veículos relacionados.`;
   const h1 = titleName;
+  const ogImage = `${SITE_URL}/og-default.svg`;
   const og = {
     'og:type': 'article',
     'og:title': title,
     'og:description': description,
     'og:url': canonical,
-    'og:site_name': 'Pesquisa Tabela FIPE',
+    'og:site_name': 'PesquisaTabelaFIPE',
     'og:locale': 'pt_BR',
+    'og:image': ogImage,
   };
   const twitter = {
     'twitter:card': 'summary_large_image',
     'twitter:title': title,
     'twitter:description': description,
+    'twitter:image': ogImage,
   };
   const jsonLd: Record<string, unknown>[] = [productJsonLd(input, canonical), breadcrumbJsonLd(input, canonicalPath)];
   const faqLd = faqJsonLd(input.faq);

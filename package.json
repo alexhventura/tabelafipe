@@ -7,7 +7,7 @@
     "dev": "vite --port=3000 --host=0.0.0.0",
     "api": "node server/index.js",
     "dev:full": "node server/index.js & vite --port=3000 --host=0.0.0.0",
-    "build": "node scripts/prebuild.js && node scripts/clean-dist.js && vite build && npx tsx scripts/ssg/prerender-spa.ts && npx tsx scripts/ssg/prerender-audit.ts",
+    "build": "node scripts/prebuild.js && node scripts/clean-dist.js && vite build && npx tsx scripts/ssg/prerender-spa.ts && npx tsx scripts/ssg/prerender-audit.ts && node scripts/generate-sitemap.js",
     "build:prerender:phase1": "node scripts/ssg/run-prerender-phase1.mjs",
     "bootstrap": "npx tsx scripts/bootstrap-catalog.js",
     "preview": "vite preview",

@@ -80,7 +80,7 @@ export default function HistoricoPage() {
 
   if (loading) {
     return (
-      <div className="max-w-3xl mx-auto px-4 py-20 text-center text-slate-400 text-sm" role="status">
+      <div className="max-w-3xl mx-auto px-4 py-20 text-center text-slate-600 dark:text-slate-400 text-sm" role="status">
         Carregando...
       </div>
     );
@@ -141,7 +141,7 @@ export default function HistoricoPage() {
 
       <section className="grid sm:grid-cols-2 gap-4 text-sm">
         <div className="bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 rounded-2xl p-5 space-y-2">
-          <h2 className="text-xs uppercase tracking-wider text-slate-400 font-bold">Métricas</h2>
+          <h2 className="text-xs uppercase tracking-wider text-slate-600 dark:text-slate-400 font-bold">Métricas</h2>
           <div className="flex justify-between">
             <span className="text-slate-500">Menor valor</span>
             <span className="font-semibold text-emerald-600">{formatBRL(h.menorPreco ?? 0)}</span>

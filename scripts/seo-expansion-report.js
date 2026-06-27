@@ -19,9 +19,9 @@ function readJson(p, fallback = null) {
 function countSitemapUrls() {
   const publicDir = path.join(ROOT, 'public');
   let total = 0;
-  for (const name of ['sitemap-static.xml', 'sitemap-vehicles.xml']) {
+  const names = fs.readdirSync(publicDir).filter((n) => n.startsWith('sitemap-') && n.endsWith('.xml'));
+  for (const name of names) {
     const file = path.join(publicDir, name);
-    if (!fs.existsSync(file)) continue;
     const xml = fs.readFileSync(file, 'utf-8');
     total += (xml.match(/<loc>/g) || []).length;
   }

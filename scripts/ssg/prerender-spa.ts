@@ -6,6 +6,7 @@ import fs from 'fs';
 import path from 'path';
 import { fileURLToPath } from 'url';
 import { INFO_PAGES } from '../../src/content/infoPages.ts';
+import { buildHomeFaqJsonLd } from '../../src/content/homeFaq.ts';
 import { PATHS } from '../lib/fipe-paths.js';
 import {
   buildFamilyHubBody,
@@ -15,12 +16,29 @@ import {
   buildVehicleBody,
   canonicalPathToOutFile,
   VEHICLE_BUNDLE_EMBED_ID,
+  wrapInAppShell,
   type PrerenderSeo,
 } from './prerender/html-shell.ts';
+import {
+  buildMarcaSeo,
+  buildModeloSeo,
+  normalizeMarca,
+  normalizeModelo,
+  type SeoMarcaData,
+  type SeoModeloData,
+} from './prerender/marca-modelo-seo.ts';
+import {
+  buildMarcaStaticMain,
+  buildModeloStaticMain,
+} from './prerender/marca-modelo-static-html.ts';
+
+const MARCA_EMBED_ID = '__MARCA_DATA__';
+const MODELO_EMBED_ID = '__MODELO_DATA__';
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '../..');
 const DIST = path.join(ROOT, 'dist');
 const SITE_URL = 'https://pesquisatabelafipe.com.br';
+const OG_IMAGE = `${SITE_URL}/og-default.svg`;
 
 interface UrlMapEntry {
   canonicalPath: string;
@@ -77,12 +95,14 @@ function prerenderStaticPages(baseHtml: string): number {
       'og:url': `${SITE_URL}/`,
       'og:site_name': 'PesquisaTabelaFIPE',
       'og:locale': 'pt_BR',
+      'og:image': OG_IMAGE,
     },
     twitter: {
-      'twitter:card': 'summary',
+      'twitter:card': 'summary_large_image',
       'twitter:title': 'Tabela FIPE Completa — PesquisaTabelaFIPE',
       'twitter:description':
         'Consulte preços FIPE, histórico, ficha técnica, consumo, manutenção, segurança e informações completas do seu veículo.',
+      'twitter:image': OG_IMAGE,
     },
     jsonLd: [
       {
@@ -96,6 +116,7 @@ function prerenderStaticPages(baseHtml: string): number {
           'query-input': 'required name=search_term_string',
         },
       },
+      buildHomeFaqJsonLd(),
     ],
   };
 
@@ -117,11 +138,13 @@ function prerenderStaticPages(baseHtml: string): number {
         'og:url': canonical,
         'og:site_name': 'PesquisaTabelaFIPE',
         'og:locale': 'pt_BR',
+        'og:image': OG_IMAGE,
       },
       twitter: {
-        'twitter:card': 'summary',
+        'twitter:card': 'summary_large_image',
         'twitter:title': title,
         'twitter:description': page.description,
+        'twitter:image': OG_IMAGE,
       },
     };
     const paragraphs = page.sections.flatMap((section) => section.paragraphs);
@@ -230,6 +253,100 @@ function prerenderFamilyHubs(baseHtml: string): number {
   return written;
 }
 
+function prerenderMarcas(baseHtml: string): { written: number; skipped: number } {
+  const marcasPath = publicDataPath('data/seo/marcas.json');
+  if (!fs.existsSync(marcasPath)) {
+    console.warn('prerender-spa: marcas.json ausente, pulando /marca/.');
+    return { written: 0, skipped: 0 };
+  }
+
+  const raw = JSON.parse(fs.readFileSync(marcasPath, 'utf-8')) as SeoMarcaData[] | { marcas: SeoMarcaData[] };
+  const rows = (Array.isArray(raw) ? raw : (raw.marcas ?? [])).map(normalizeMarca);
+
+  const bySlug = new Map<string, SeoMarcaData>();
+  for (const marca of rows) {
+    const existing = bySlug.get(marca.slug);
+    if (!existing) {
+      bySlug.set(marca.slug, marca);
+      continue;
+    }
+    if (marca.tipo === 'carros' && existing.tipo !== 'carros') {
+      bySlug.set(marca.slug, marca);
+    }
+  }
+  const marcas = [...bySlug.values()];
+  const limit = parseLimit('SSG_LIMIT_MARCAS');
+  let written = 0;
+  let skipped = 0;
+
+  for (const marca of marcas) {
+    if (limit !== null && written >= limit) break;
+    if (!marca.slug || !marca.modelos?.length) {
+      skipped += 1;
+      continue;
+    }
+
+    const seo = buildMarcaSeo(marca);
+    const body = wrapInAppShell(buildMarcaStaticMain(marca));
+    const html = buildPrerenderedHtml(baseHtml, seo, body, {
+      embedJson: { id: MARCA_EMBED_ID, data: marca },
+    });
+    writePage(canonicalPathToOutFile(DIST, `/marca/${marca.slug}`), html);
+    written += 1;
+  }
+
+  return { written, skipped };
+}
+
+function prerenderModelos(baseHtml: string): { written: number; skipped: number } {
+  const manifestPath = publicDataPath('data/seo/manifest.json');
+  if (!fs.existsSync(manifestPath)) {
+    console.warn('prerender-spa: manifest SEO ausente, pulando /modelo/.');
+    return { written: 0, skipped: 0 };
+  }
+
+  const manifest = JSON.parse(fs.readFileSync(manifestPath, 'utf-8')) as {
+    paths?: { modelos?: string[] };
+  };
+  const modelPaths = manifest.paths?.modelos ?? [];
+  const limit = parseLimit('SSG_LIMIT_MODELOS');
+  let written = 0;
+  let skipped = 0;
+
+  for (const rel of modelPaths) {
+    if (limit !== null && written >= limit) break;
+
+    const bundleFile = publicDataPath(rel.replace(/^\//, ''));
+    if (!fs.existsSync(bundleFile)) {
+      skipped += 1;
+      continue;
+    }
+
+    const modelo = normalizeModelo(JSON.parse(fs.readFileSync(bundleFile, 'utf-8')) as SeoModeloData);
+    if (!modelo.marcaSlug || !modelo.modeloSlug) {
+      skipped += 1;
+      continue;
+    }
+
+    const seo = buildModeloSeo(modelo);
+    const body = wrapInAppShell(buildModeloStaticMain(modelo));
+    const html = buildPrerenderedHtml(baseHtml, seo, body, {
+      embedJson: { id: MODELO_EMBED_ID, data: modelo },
+    });
+    writePage(
+      canonicalPathToOutFile(DIST, `/modelo/${modelo.marcaSlug}/${modelo.modeloSlug}`),
+      html,
+    );
+    written += 1;
+
+    if (written % 1000 === 0) {
+      console.log(`prerender-spa: ${written} modelos...`);
+    }
+  }
+
+  return { written, skipped };
+}
+
 function countHtmlFiles(dir: string): number {
   if (!fs.existsSync(dir)) return 0;
   let count = 0;
@@ -249,12 +366,16 @@ function main(): void {
   const staticCount = prerenderStaticPages(baseHtml);
   const vehicles = prerenderVehicles(baseHtml);
   const hubs = prerenderFamilyHubs(baseHtml);
+  const marcas = prerenderMarcas(baseHtml);
+  const modelos = prerenderModelos(baseHtml);
   const totalHtml = countHtmlFiles(DIST);
 
   const elapsed = ((Date.now() - started) / 1000).toFixed(1);
   console.log(`Páginas estáticas: ${staticCount}`);
   console.log(`Veículos: ${vehicles.written} (${vehicles.skipped} sem bundle)`);
   console.log(`Hubs família: ${hubs}`);
+  console.log(`Marcas: ${marcas.written} (${marcas.skipped} ignoradas)`);
+  console.log(`Modelos: ${modelos.written} (${modelos.skipped} sem arquivo)`);
   console.log(`Total HTML em dist/: ${totalHtml}`);
   console.log(`Concluído em ${elapsed}s`);
 
