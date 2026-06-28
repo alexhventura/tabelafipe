@@ -59,6 +59,16 @@
   ],
   "redirects": [
     {
+      "source": "/contato",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/contato/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
       "source": "/sitemap-vehicles.xml",
       "destination": "/sitemap.xml",
       "permanent": true

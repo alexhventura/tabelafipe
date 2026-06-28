@@ -14,7 +14,6 @@ export const FOOTER_LINKS = [
   { label: 'Política de Privacidade', path: '/privacidade' },
   { label: 'Política de Cookies', path: '/cookies' },
   { label: 'Termos de Uso', path: '/termos' },
-  { label: 'Contato', path: '/contato' },
 ] as const;
 
 export const LEGAL_DISCLAIMER =

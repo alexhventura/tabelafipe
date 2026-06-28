@@ -34,7 +34,6 @@ export default function App() {
             <Route path="/privacidade" element={<InfoPage />} />
             <Route path="/cookies" element={<InfoPage />} />
             <Route path="/termos" element={<InfoPage />} />
-            <Route path="/contato" element={<InfoPage />} />
             <Route path="/fipe/:marca/:slug" element={<VehiclePage />} />
             <Route path="/motor/:engineSlug" element={<HubPage hubKind="motor" />} />
             <Route path="/plataforma/:platformSlug" element={<HubPage hubKind="plataforma" />} />

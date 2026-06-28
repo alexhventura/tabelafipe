@@ -59,7 +59,7 @@ export const INFO_PAGES: Record<string, InfoPageContent> = {
       {
         paragraphs: [
           'Este portal não exige cadastro para consulta. Podemos utilizar cookies essenciais e ferramentas de análise agregada para melhorar a experiência e medir desempenho.',
-          'Não vendemos dados pessoais. Informações enviadas por formulário de contato são usadas apenas para responder sua solicitação.',
+          'Não vendemos dados pessoais.',
         ],
       },
     ],
@@ -84,18 +84,6 @@ export const INFO_PAGES: Record<string, InfoPageContent> = {
         paragraphs: [
           'O portal é oferecido para consulta informativa. Os valores FIPE são referências de mercado e não substituem laudos, vistorias ou negociações comerciais.',
           'O uso do site implica concordância com estes termos. O conteúdo pode ser atualizado sem aviso prévio.',
-        ],
-      },
-    ],
-  },
-  contato: {
-    title: 'Contato',
-    description: 'Fale conosco.',
-    sections: [
-      {
-        paragraphs: [
-          'Para dúvidas, sugestões ou correções de dados, envie mensagem para contato@pesquisatabelafipe.com.br.',
-          'Responderemos em até 5 dias úteis sempre que possível.',
         ],
       },
     ],

@@ -73,7 +73,6 @@ async function main() {
     'Política de Privacidade',
     'Política de Cookies',
     'Termos de Uso',
-    'Contato',
   ];
   const footerChecks = Object.fromEntries(
     footerLinks.map((label) => [label, siteMeta.includes(label)]),
@@ -122,7 +121,6 @@ async function main() {
     'privacidade',
     'cookies',
     'termos',
-    'contato',
   ];
   const linksQuebrados = infoRoutes.filter(
     (slug) => !read('content/infoPages.ts').includes(`'${slug}'`),

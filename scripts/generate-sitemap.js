@@ -41,7 +41,7 @@ const PATHS = {
   searchManifest: path.join(PUBLIC, 'data', 'fipe', 'search', 'manifest.json'),
 };
 
-const INFO_SLUGS = ['sobre', 'metodologia', 'fontes-dados', 'privacidade', 'cookies', 'termos', 'contato'];
+const INFO_SLUGS = ['sobre', 'metodologia', 'fontes-dados', 'privacidade', 'cookies', 'termos'];
 
 function readJson(filePath, fallback = null) {
   if (!fs.existsSync(filePath)) return fallback;
