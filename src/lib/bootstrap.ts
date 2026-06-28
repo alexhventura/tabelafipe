@@ -8,6 +8,7 @@ import { wrapInAppShell } from './staticShellHtml';
 import {
   applyVehicleMainMinHeight,
   captureVehiclePrerenderHtml,
+  markStaticAppShellBoot,
   preserveVehicleMainMinHeight,
 } from './vehiclePrerender';
 
@@ -17,15 +18,24 @@ function parseVehiclePath(): { marca: string; slug: string } | null {
   return { marca: decodeURIComponent(match[1]), slug: decodeURIComponent(match[2]) };
 }
 
+function hasStaticAppShell(container: HTMLElement): boolean {
+  return Boolean(container.querySelector('.min-h-screen footer.border-t'));
+}
+
+function findPrerenderNode(container: HTMLElement): HTMLElement | null {
+  return container.querySelector('[data-prerender]');
+}
+
 function isFullVehicleSsg(container: HTMLElement): boolean {
-  const hasPrerender = Boolean(findVehiclePrerenderNode(container));
+  const prerender = findPrerenderNode(container);
   const hasEmbed =
     Boolean(document.getElementById('__VEHICLE_BUNDLE__')) || Boolean(peekEmbeddedVehicleBundle());
-  return hasPrerender && hasEmbed;
+  return prerender?.getAttribute('data-prerender') === 'vehicle' && hasEmbed;
 }
 
 function findVehiclePrerenderNode(container: HTMLElement): HTMLElement | null {
-  return container.querySelector('[data-prerender="vehicle"]');
+  const node = findPrerenderNode(container);
+  return node?.getAttribute('data-prerender') === 'vehicle' ? node : null;
 }
 
 function capturePrerenderFromDom(container: HTMLElement): void {
@@ -87,36 +97,42 @@ async function prefetchVehicleBundle(): Promise<void> {
   }
 }
 
+/** SSG pages ship a static shell; render React inside `<main>` to avoid hydration mismatch (#418). */
+function clientMountInMain(container: HTMLElement, app: ReactElement): Root {
+  markStaticAppShellBoot();
+  const mainEl = container.querySelector('main');
+  const mountTarget = mainEl ?? container;
+  const root = createRoot(mountTarget);
+  root.render(app);
+  deferAdsense();
+  scheduleAdSlotHydration(container);
+  return root;
+}
+
 export async function mountApp(container: HTMLElement, app: ReactElement): Promise<Root> {
   const vehicleParams = parseVehiclePath();
-  const hasVehiclePrerender = Boolean(findVehiclePrerenderNode(container));
+  const prerenderNode = findPrerenderNode(container);
+  const staticShell = hasStaticAppShell(container);
 
-  if (vehicleParams && hasVehiclePrerender) {
+  if (vehicleParams && prerenderNode?.getAttribute('data-prerender') === 'vehicle') {
     const fullSsg = isFullVehicleSsg(container);
 
     if (!fullSsg) {
       ensurePartialVehicleShell(container);
-      const prerenderNode = findVehiclePrerenderNode(container);
-      if (prerenderNode) preserveMainHeightForHydration(prerenderNode);
+      const vehicleNode = findVehiclePrerenderNode(container);
+      if (vehicleNode) preserveMainHeightForHydration(vehicleNode);
     } else {
       capturePrerenderFromDom(container);
-      const prerenderNode = findVehiclePrerenderNode(container);
-      if (prerenderNode) preserveMainHeightForHydration(prerenderNode);
+      const vehicleNode = findVehiclePrerenderNode(container);
+      if (vehicleNode) preserveMainHeightForHydration(vehicleNode);
     }
 
     const prefetch = peekEmbeddedVehicleBundle() ? Promise.resolve() : prefetchVehicleBundle();
     await prefetch;
 
-    const mainEl = container.querySelector('main');
-    const hasStaticShell = Boolean(container.querySelector('.min-h-screen footer.border-t'));
-
-    if (fullSsg || hasStaticShell) {
-      const mountTarget = mainEl ?? container;
-      const root = createRoot(mountTarget);
-      root.render(app);
+    if (fullSsg || staticShell) {
+      const root = clientMountInMain(container, app);
       applyVehicleMainMinHeight();
-      deferAdsense();
-      scheduleAdSlotHydration(container);
       return root;
     }
 
@@ -124,6 +140,10 @@ export async function mountApp(container: HTMLElement, app: ReactElement): Promi
     deferAdsense();
     scheduleAdSlotHydration(container);
     return root;
+  }
+
+  if (staticShell && prerenderNode) {
+    return clientMountInMain(container, app);
   }
 
   if (container.firstElementChild) {

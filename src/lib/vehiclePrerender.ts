@@ -1,11 +1,15 @@
 let capturedVehiclePrerenderHtml: string | null = null;
-let hadVehiclePrerenderAtBoot = false;
+let hadStaticAppShellBoot = false;
 let preservedVehicleMainMinHeightPx = 0;
 
 export function captureVehiclePrerenderHtml(html: string): void {
   if (!html.trim()) return;
   capturedVehiclePrerenderHtml = html;
-  hadVehiclePrerenderAtBoot = true;
+  hadStaticAppShellBoot = true;
+}
+
+export function markStaticAppShellBoot(): void {
+  hadStaticAppShellBoot = true;
 }
 
 export function getCapturedVehiclePrerenderHtml(): string | null {
@@ -13,7 +17,11 @@ export function getCapturedVehiclePrerenderHtml(): string | null {
 }
 
 export function hadVehiclePrerenderShell(): boolean {
-  return hadVehiclePrerenderAtBoot;
+  return hadStaticAppShellBoot;
+}
+
+export function hadStaticAppShellAtBoot(): boolean {
+  return hadStaticAppShellBoot;
 }
 
 export function clearCapturedVehiclePrerender(): void {
